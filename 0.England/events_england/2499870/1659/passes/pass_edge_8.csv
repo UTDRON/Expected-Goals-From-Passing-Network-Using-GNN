@@ -1,0 +1,19 @@
+Source,Target,Weight
+N. Ak\u00e9,S. Cook,1
+N. Ak\u00e9,J. King,1
+L. Cook,N. Ak\u00e9,1
+S. Francis,L. Cook,1
+J. King,R. Fraser,1
+L. Cook,C. Daniels,1
+S. Cook,S. Francis,1
+R. Fraser,C. Daniels,1
+N. Ak\u00e9,R. Fraser,1
+C. Daniels,J. Stanislas,1
+C. Daniels,N. Ak\u00e9,1
+J. King,C. Daniels,1
+L. Cook,J. King,1
+J. Stanislas,J. Defoe,1
+S. Cook,L. Cook,1
+C. Daniels,A. Surman,1
+R. Fraser,N. Ak\u00e9,1
+A. Surman,L. Cook,1

@@ -1,0 +1,17 @@
+Source,Target,Weight
+A. Robertson,J. Milner,2
+J. Milner,A. Robertson,2
+A. Oxlade-Chamberlain,A. Robertson,2
+V. van Dijk,J. Milner,1
+A. Oxlade-Chamberlain,T. Alexander-Arnold,1
+Mohamed Salah,A. Oxlade-Chamberlain,1
+J. Milner,T. Alexander-Arnold,1
+T. Alexander-Arnold,A. Oxlade-Chamberlain,1
+T. Alexander-Arnold,Mohamed Salah,1
+T. Alexander-Arnold,V. van Dijk,1
+J. Milner,V. van Dijk,1
+V. van Dijk,T. Alexander-Arnold,1
+S. Man\u00e9,E. Can,1
+A. Robertson,E. Can,1
+E. Can,A. Oxlade-Chamberlain,1
+A. Robertson,S. Man\u00e9,1

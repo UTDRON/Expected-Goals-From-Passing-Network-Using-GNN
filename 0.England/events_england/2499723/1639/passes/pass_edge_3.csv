@@ -1,0 +1,57 @@
+Source,Target,Weight
+D. Fletcher,X. Shaqiri,5
+X. Shaqiri,D. Fletcher,3
+S. Berahino,E. Pieters,3
+J. Allen,J. Butland,3
+D. Fletcher,K. Zouma,3
+M. Diouf,S. Berahino,3
+X. Shaqiri,J. Allen,3
+Bojan,D. Fletcher,2
+S. Berahino,X. Shaqiri,2
+D. Fletcher,S. Berahino,2
+S. Berahino,D. Fletcher,2
+J. Butland,M. Diouf,2
+K. Zouma,G. Cameron,2
+G. Cameron,Bojan,2
+Bojan,J. Allen,2
+J. Allen,K. Zouma,2
+X. Shaqiri,K. Zouma,2
+Bojan,R. Shawcross,2
+E. Pieters,M. Diouf,2
+J. Butland,S. Berahino,2
+J. Allen,D. Fletcher,2
+D. Fletcher,G. Cameron,2
+K. Zouma,D. Fletcher,2
+K. Zouma,S. Berahino,1
+M. Diouf,X. Shaqiri,1
+G. Cameron,J. Allen,1
+G. Cameron,S. Berahino,1
+Bojan,E. Pieters,1
+G. Cameron,J. Butland,1
+G. Cameron,D. Fletcher,1
+J. Allen,Bojan,1
+E. Pieters,J. Allen,1
+M. Diouf,K. Zouma,1
+D. Fletcher,Bojan,1
+R. Shawcross,K. Zouma,1
+K. Zouma,M. Diouf,1
+Bojan,G. Cameron,1
+K. Zouma,J. Allen,1
+X. Shaqiri,G. Cameron,1
+K. Zouma,X. Shaqiri,1
+S. Berahino,Bojan,1
+R. Shawcross,D. Fletcher,1
+S. Berahino,J. Allen,1
+K. Zouma,Bojan,1
+X. Shaqiri,R. Shawcross,1
+M. Diouf,R. Shawcross,1
+E. Pieters,Bojan,1
+J. Allen,X. Shaqiri,1
+J. Butland,G. Cameron,1
+Bojan,X. Shaqiri,1
+R. Shawcross,M. Diouf,1
+X. Shaqiri,Bojan,1
+R. Shawcross,Bojan,1
+G. Cameron,K. Zouma,1
+K. Zouma,J. Butland,1
+J. Allen,M. Diouf,1

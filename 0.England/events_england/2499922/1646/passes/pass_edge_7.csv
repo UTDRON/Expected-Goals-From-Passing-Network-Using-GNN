@@ -1,0 +1,15 @@
+Source,Target,Weight
+C. Taylor,B. Mee,3
+J. Cork,A. Barnes,2
+A. Barnes,J. Cork,2
+S. Defour,C. Taylor,1
+S. Arfield,J. Hendrick,1
+J. Cork,S. Arfield,1
+B. Mee,C. Taylor,1
+C. Taylor,S. Defour,1
+J. Hendrick,A. Barnes,1
+A. Barnes,C. Taylor,1
+B. Mee,S. Arfield,1
+C. Taylor,S. Arfield,1
+S. Arfield,C. Taylor,1
+B. Mee,J. Cork,1

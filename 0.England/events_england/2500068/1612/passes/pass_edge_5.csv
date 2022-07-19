@@ -1,0 +1,88 @@
+Source,Target,Weight
+J. Henderson,V. van Dijk,7
+R. Klavan,Alberto Moreno,7
+V. van Dijk,J. Milner,6
+R. Klavan,V. van Dijk,6
+Alberto Moreno,R. Klavan,6
+V. van Dijk,J. Henderson,6
+V. van Dijk,R. Klavan,6
+J. Gomez,V. van Dijk,5
+R. Klavan,S. Man\u00e9,5
+V. van Dijk,J. Gomez,5
+J. Henderson,G. Wijnaldum,4
+J. Milner,V. van Dijk,4
+J. Henderson,J. Gomez,4
+J. Gomez,J. Henderson,4
+R. Klavan,J. Milner,4
+L. Karius,R. Klavan,3
+G. Wijnaldum,J. Gomez,3
+Alberto Moreno,G. Wijnaldum,3
+Mohamed Salah,D. Ings,3
+J. Milner,J. Henderson,3
+G. Wijnaldum,J. Henderson,3
+J. Milner,S. Man\u00e9,3
+D. Ings,J. Henderson,3
+J. Milner,Alberto Moreno,3
+S. Man\u00e9,J. Henderson,3
+L. Karius,Alberto Moreno,3
+J. Milner,L. Karius,3
+J. Gomez,J. Milner,3
+J. Henderson,R. Klavan,3
+V. van Dijk,G. Wijnaldum,2
+J. Henderson,J. Milner,2
+G. Wijnaldum,V. van Dijk,2
+D. Ings,Mohamed Salah,2
+V. van Dijk,Mohamed Salah,2
+S. Man\u00e9,R. Klavan,2
+V. van Dijk,D. Ings,2
+G. Wijnaldum,R. Klavan,2
+Mohamed Salah,G. Wijnaldum,2
+G. Wijnaldum,S. Man\u00e9,2
+J. Henderson,Mohamed Salah,2
+D. Ings,J. Milner,2
+S. Man\u00e9,Mohamed Salah,2
+Mohamed Salah,V. van Dijk,2
+J. Gomez,Mohamed Salah,2
+G. Wijnaldum,Alberto Moreno,2
+Mohamed Salah,S. Man\u00e9,2
+J. Henderson,D. Ings,2
+S. Man\u00e9,J. Milner,2
+J. Milner,J. Gomez,2
+Alberto Moreno,V. van Dijk,2
+Alberto Moreno,J. Milner,2
+Mohamed Salah,J. Henderson,2
+J. Milner,Mohamed Salah,2
+R. Klavan,G. Wijnaldum,1
+V. van Dijk,L. Karius,1
+J. Milner,D. Ings,1
+Alberto Moreno,S. Man\u00e9,1
+J. Milner,G. Wijnaldum,1
+D. Ings,R. Klavan,1
+L. Karius,V. van Dijk,1
+G. Wijnaldum,J. Milner,1
+Alberto Moreno,Mohamed Salah,1
+R. Klavan,J. Henderson,1
+J. Gomez,R. Klavan,1
+S. Man\u00e9,D. Ings,1
+J. Gomez,D. Ings,1
+S. Man\u00e9,Alberto Moreno,1
+Mohamed Salah,R. Klavan,1
+J. Henderson,L. Karius,1
+L. Karius,D. Ings,1
+J. Gomez,L. Karius,1
+Alberto Moreno,D. Ings,1
+Alberto Moreno,J. Gomez,1
+L. Karius,J. Milner,1
+D. Ings,G. Wijnaldum,1
+D. Ings,V. van Dijk,1
+S. Man\u00e9,J. Gomez,1
+Alberto Moreno,J. Henderson,1
+J. Gomez,G. Wijnaldum,1
+D. Ings,J. Gomez,1
+R. Klavan,L. Karius,1
+J. Henderson,Alberto Moreno,1
+D. Ings,L. Karius,1
+S. Man\u00e9,L. Karius,1
+R. Klavan,J. Gomez,1
+J. Milner,R. Klavan,1
+Mohamed Salah,Alberto Moreno,1

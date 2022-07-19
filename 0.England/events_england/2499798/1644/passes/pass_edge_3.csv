@@ -1,0 +1,64 @@
+Source,Target,Weight
+J. Holebas,Richarlison,5
+Richarlison,J. Holebas,4
+A. Mariappa,C. Kabasele,3
+C. Kabasele,M. Britos,3
+Kiko Femen\u00eda,T. Cleverley,3
+Richarlison,A. Mariappa,3
+T. Cleverley,A. Mariappa,3
+A. Mariappa,A. Doucour\u00e9,3
+A. Mariappa,T. Cleverley,3
+C. Kabasele,A. Mariappa,3
+Kiko Femen\u00eda,A. Doucour\u00e9,2
+J. Holebas,A. Doucour\u00e9,2
+T. Cleverley,C. Kabasele,2
+Richarlison,Kiko Femen\u00eda,2
+Kiko Femen\u00eda,R. Pereyra,2
+A. Doucour\u00e9,M. Britos,2
+Richarlison,C. Kabasele,2
+M. Britos,C. Kabasele,2
+A. Doucour\u00e9,C. Kabasele,2
+M. Britos,J. Holebas,2
+A. Doucour\u00e9,J. Holebas,2
+R. Pereyra,Richarlison,2
+A. Mariappa,Gomes,2
+A. Gray,Kiko Femen\u00eda,2
+Kiko Femen\u00eda,A. Mariappa,2
+Gomes,Richarlison,2
+M. Britos,Richarlison,2
+C. Kabasele,Kiko Femen\u00eda,2
+J. Holebas,C. Kabasele,2
+C. Kabasele,Richarlison,2
+A. Gray,A. Doucour\u00e9,1
+Kiko Femen\u00eda,C. Kabasele,1
+M. Britos,A. Gray,1
+R. Pereyra,C. Kabasele,1
+A. Mariappa,R. Pereyra,1
+Richarlison,R. Pereyra,1
+A. Doucour\u00e9,A. Gray,1
+J. Holebas,T. Cleverley,1
+A. Gray,J. Holebas,1
+Richarlison,M. Britos,1
+R. Pereyra,Kiko Femen\u00eda,1
+A. Doucour\u00e9,R. Pereyra,1
+T. Cleverley,Kiko Femen\u00eda,1
+J. Holebas,Kiko Femen\u00eda,1
+C. Kabasele,A. Gray,1
+Gomes,M. Britos,1
+M. Britos,Gomes,1
+R. Pereyra,A. Gray,1
+T. Cleverley,M. Britos,1
+M. Britos,Kiko Femen\u00eda,1
+C. Kabasele,T. Cleverley,1
+A. Mariappa,A. Gray,1
+Gomes,Kiko Femen\u00eda,1
+R. Pereyra,A. Doucour\u00e9,1
+J. Holebas,Gomes,1
+Kiko Femen\u00eda,J. Holebas,1
+A. Doucour\u00e9,A. Mariappa,1
+C. Kabasele,R. Pereyra,1
+C. Kabasele,A. Doucour\u00e9,1
+A. Doucour\u00e9,Richarlison,1
+T. Cleverley,J. Holebas,1
+A. Gray,A. Mariappa,1
+C. Kabasele,J. Holebas,1

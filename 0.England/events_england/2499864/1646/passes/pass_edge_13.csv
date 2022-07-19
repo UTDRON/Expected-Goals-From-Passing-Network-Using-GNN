@@ -1,0 +1,11 @@
+Source,Target,Weight
+S. Ward,J. Hendrick,2
+B. Mee,S. Ward,1
+P. Bardsley,A. Barnes,1
+J. Hendrick,S. Arfield,1
+J. Hendrick,S. Vokes,1
+J. Hendrick,P. Bardsley,1
+J. Hendrick,B. Mee,1
+N. Pope,J. Hendrick,1
+S. Arfield,N. Pope,1
+S. Vokes,J. Hendrick,1

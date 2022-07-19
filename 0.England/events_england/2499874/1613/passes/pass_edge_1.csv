@@ -1,0 +1,28 @@
+Source,Target,Weight
+Mikel Merino,C. Clark,3
+Javi Manquillo,Mikel Merino,2
+I. Hayden,Mikel Merino,2
+F. Lejeune,I. Hayden,2
+C. Clark,M. Ritchie,1
+J. Murphy,Javi Manquillo,1
+K. Darlow,M. Ritchie,1
+C. Clark,K. Darlow,1
+F. Lejeune,Joselu,1
+Joselu,M. Ritchie,1
+Javi Manquillo,D. Yedlin,1
+F. Lejeune,M. Ritchie,1
+I. Hayden,F. Lejeune,1
+M. Ritchie,C. Clark,1
+C. Clark,Javi Manquillo,1
+Joselu,Javi Manquillo,1
+D. Gayle,Joselu,1
+I. Hayden,J. Murphy,1
+Mikel Merino,J. Murphy,1
+D. Yedlin,I. Hayden,1
+M. Ritchie,Joselu,1
+C. Clark,F. Lejeune,1
+C. Clark,I. Hayden,1
+J. Murphy,D. Gayle,1
+M. Ritchie,F. Lejeune,1
+Javi Manquillo,C. Clark,1
+M. Ritchie,Javi Manquillo,1

@@ -1,0 +1,39 @@
+Source,Target,Weight
+W. Bony,K. Naughton,3
+W. Bony,L. Fer,3
+K. Naughton,L. Fer,3
+M. Olsson,J. Ayew,3
+L. Fer,Sung-Yeung Ki,3
+M. Olsson,A. Mawson,3
+L. Fer,W. Bony,2
+S. Clucas,J. Ayew,2
+J. Ayew,M. Olsson,2
+S. Clucas,M. Olsson,2
+J. Ayew,S. Clucas,2
+Sung-Yeung Ki,M. van der Hoorn,2
+J. Ayew,L. Fer,2
+L. Fer,J. Ayew,2
+A. Mawson,\u0141. Fabia\u0144ski,2
+L. Fer,M. Olsson,2
+Sung-Yeung Ki,W. Bony,1
+A. Mawson,L. Fer,1
+J. Ayew,M. van der Hoorn,1
+K. Naughton,W. Bony,1
+M. van der Hoorn,J. Ayew,1
+M. van der Hoorn,Sung-Yeung Ki,1
+A. Mawson,S. Clucas,1
+\u0141. Fabia\u0144ski,K. Naughton,1
+K. Naughton,M. van der Hoorn,1
+Sung-Yeung Ki,K. Naughton,1
+K. Naughton,A. Mawson,1
+M. van der Hoorn,\u0141. Fabia\u0144ski,1
+T. Abraham,K. Naughton,1
+Sung-Yeung Ki,T. Abraham,1
+\u0141. Fabia\u0144ski,M. Olsson,1
+\u0141. Fabia\u0144ski,L. Fer,1
+Sung-Yeung Ki,\u0141. Fabia\u0144ski,1
+T. Abraham,Sung-Yeung Ki,1
+J. Ayew,Sung-Yeung Ki,1
+\u0141. Fabia\u0144ski,W. Bony,1
+M. van der Hoorn,T. Abraham,1
+L. Fer,S. Clucas,1

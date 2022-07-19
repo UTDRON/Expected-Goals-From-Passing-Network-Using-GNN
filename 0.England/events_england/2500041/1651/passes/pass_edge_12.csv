@@ -1,0 +1,19 @@
+Source,Target,Weight
+M. Ryan,L. Ulloa,3
+G. Bong,L. Ulloa,2
+L. Ulloa,B. Kayal,2
+L. Ulloa,G. Bong,2
+E. Schelotto,S. Duffy,1
+L. Ulloa,E. Schelotto,1
+B. Kayal,M. Ryan,1
+G. Bong,M. Ryan,1
+B. Kayal,L. Ulloa,1
+S. March,G. Bong,1
+S. Duffy,M. Ryan,1
+B. Kayal,S. March,1
+M. Ryan,D. Stephens,1
+S. March,B. Kayal,1
+L. Ulloa,J. Izquierdo,1
+L. Ulloa,S. March,1
+D. Stephens,L. Dunk,1
+L. Dunk,M. Ryan,1

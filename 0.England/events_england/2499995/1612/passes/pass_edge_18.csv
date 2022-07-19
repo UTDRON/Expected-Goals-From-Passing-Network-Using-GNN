@@ -1,0 +1,49 @@
+Source,Target,Weight
+E. Can,J. Milner,5
+J. Matip,J. Milner,4
+T. Alexander-Arnold,J. Matip,4
+J. Milner,S. Man\u00e9,4
+S. Man\u00e9,J. Milner,4
+J. Matip,T. Alexander-Arnold,4
+J. Milner,E. Can,4
+J. Milner,A. Robertson,3
+A. Lallana,T. Alexander-Arnold,3
+J. Milner,J. Matip,3
+T. Alexander-Arnold,J. Milner,3
+E. Can,T. Alexander-Arnold,3
+A. Lallana,E. Can,2
+T. Alexander-Arnold,E. Can,2
+J. Milner,A. Lallana,2
+V. van Dijk,A. Robertson,2
+J. Milner,A. Oxlade-Chamberlain,2
+V. van Dijk,E. Can,2
+Mohamed Salah,A. Lallana,2
+A. Robertson,J. Milner,2
+A. Lallana,Mohamed Salah,2
+A. Robertson,V. van Dijk,2
+T. Alexander-Arnold,A. Lallana,2
+A. Robertson,Mohamed Salah,1
+J. Milner,T. Alexander-Arnold,1
+S. Man\u00e9,T. Alexander-Arnold,1
+J. Matip,E. Can,1
+A. Robertson,S. Man\u00e9,1
+A. Lallana,S. Man\u00e9,1
+A. Oxlade-Chamberlain,A. Lallana,1
+V. van Dijk,J. Milner,1
+J. Milner,V. van Dijk,1
+A. Robertson,A. Lallana,1
+T. Alexander-Arnold,V. van Dijk,1
+V. van Dijk,J. Matip,1
+S. Man\u00e9,V. van Dijk,1
+V. van Dijk,S. Man\u00e9,1
+E. Can,A. Lallana,1
+A. Robertson,A. Oxlade-Chamberlain,1
+J. Matip,V. van Dijk,1
+T. Alexander-Arnold,Mohamed Salah,1
+S. Man\u00e9,A. Robertson,1
+E. Can,J. Matip,1
+A. Oxlade-Chamberlain,V. van Dijk,1
+E. Can,A. Robertson,1
+Mohamed Salah,J. Matip,1
+Mohamed Salah,A. Robertson,1
+A. Oxlade-Chamberlain,T. Alexander-Arnold,1

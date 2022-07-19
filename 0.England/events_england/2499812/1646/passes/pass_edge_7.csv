@@ -1,0 +1,25 @@
+Source,Target,Weight
+S. Defour,J. Cork,2
+J. Cork,S. Defour,2
+B. Mee,S. Defour,2
+M. Lowton,B. Mee,2
+S. Defour,R. Brady,2
+S. Ward,B. Mee,2
+B. Mee,J. Tarkowski,1
+B. Mee,S. Ward,1
+B. Mee,J. Hendrick,1
+S. Defour,A. Barnes,1
+B. Mee,A. Barnes,1
+J. Hendrick,S. Defour,1
+J. Tarkowski,J. Cork,1
+A. Barnes,S. Defour,1
+S. Defour,B. Mee,1
+J. Cork,M. Lowton,1
+J. Cork,J. Hendrick,1
+J. Hendrick,J. Tarkowski,1
+R. Brady,M. Lowton,1
+R. Brady,S. Defour,1
+J. Tarkowski,B. Mee,1
+A. Barnes,J. Cork,1
+S. Defour,S. Ward,1
+R. Brady,J. Cork,1

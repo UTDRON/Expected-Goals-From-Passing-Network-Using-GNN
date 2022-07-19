@@ -1,0 +1,39 @@
+Source,Target,Weight
+V. van Dijk,Oriol Romeu,3
+Oriol Romeu,W. Hoedt,3
+W. Hoedt,S. Boufal,3
+J. Pied,M. Lemina,3
+M. Lemina,V. van Dijk,2
+R. Bertrand,W. Hoedt,2
+W. Hoedt,R. Bertrand,2
+W. Hoedt,Oriol Romeu,2
+R. Bertrand,S. Boufal,2
+V. van Dijk,W. Hoedt,2
+M. Lemina,J. Pied,2
+Oriol Romeu,R. Bertrand,2
+V. van Dijk,M. Gabbiadini,1
+N. Redmond,V. van Dijk,1
+F. Forster,V. van Dijk,1
+M. Gabbiadini,Oriol Romeu,1
+N. Redmond,J. Pied,1
+M. Lemina,Oriol Romeu,1
+S. Boufal,M. Lemina,1
+Oriol Romeu,S. Boufal,1
+R. Bertrand,V. van Dijk,1
+S. Boufal,N. Redmond,1
+R. Bertrand,F. Forster,1
+S. Boufal,V. van Dijk,1
+V. van Dijk,J. Pied,1
+S. Boufal,C. Austin,1
+S. Davis,N. Redmond,1
+W. Hoedt,J. Pied,1
+C. Austin,V. van Dijk,1
+Oriol Romeu,M. Lemina,1
+J. Pied,Oriol Romeu,1
+N. Redmond,W. Hoedt,1
+W. Hoedt,C. Austin,1
+Oriol Romeu,S. Davis,1
+C. Austin,R. Bertrand,1
+S. Boufal,R. Bertrand,1
+J. Pied,N. Redmond,1
+S. Boufal,Oriol Romeu,1

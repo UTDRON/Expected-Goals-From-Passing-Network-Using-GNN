@@ -1,0 +1,126 @@
+Source,Target,Weight
+S. Kola\u0161inac,Nacho Monreal,11
+S. Mustafi,Nacho Monreal,10
+Nacho Monreal,S. Kola\u0161inac,10
+A. Ramsey,G. Xhaka,9
+S. Kola\u0161inac,A. S\u00e1nchez,9
+A. Iwobi,Beller\u00edn,9
+Beller\u00edn,L. Koscielny,8
+G. Xhaka,A. Ramsey,8
+G. Xhaka,S. Mustafi,8
+G. Xhaka,S. Kola\u0161inac,8
+Beller\u00edn,G. Xhaka,8
+S. Mustafi,S. Kola\u0161inac,7
+Nacho Monreal,S. Mustafi,7
+S. Kola\u0161inac,G. Xhaka,7
+Beller\u00edn,A. Iwobi,7
+Nacho Monreal,A. Ramsey,7
+D. Welbeck,S. Kola\u0161inac,7
+L. Koscielny,Beller\u00edn,7
+S. Mustafi,L. Koscielny,7
+G. Xhaka,Beller\u00edn,7
+L. Koscielny,A. Iwobi,6
+L. Koscielny,A. Ramsey,6
+A. Ramsey,L. Koscielny,6
+Beller\u00edn,S. Mustafi,6
+A. Iwobi,A. Ramsey,5
+P. \u010cech,Nacho Monreal,5
+A. S\u00e1nchez,Nacho Monreal,5
+A. Iwobi,G. Xhaka,5
+G. Xhaka,D. Welbeck,5
+A. Ramsey,Nacho Monreal,4
+Nacho Monreal,P. \u010cech,4
+A. Ramsey,A. Iwobi,4
+Nacho Monreal,G. Xhaka,4
+A. Ramsey,S. Mustafi,4
+L. Koscielny,G. Xhaka,4
+S. Kola\u0161inac,D. Welbeck,4
+Nacho Monreal,A. S\u00e1nchez,3
+A. Ramsey,Beller\u00edn,3
+S. Mustafi,D. Welbeck,3
+S. Mustafi,A. Ramsey,3
+G. Xhaka,A. Iwobi,3
+O. Giroud,G. Xhaka,3
+Beller\u00edn,A. Ramsey,3
+A. Lacazette,S. Mustafi,3
+A. S\u00e1nchez,S. Kola\u0161inac,3
+S. Mustafi,P. \u010cech,3
+Mohamed Elneny,Nacho Monreal,3
+D. Welbeck,G. Xhaka,3
+A. S\u00e1nchez,Beller\u00edn,3
+G. Xhaka,L. Koscielny,3
+A. Lacazette,Beller\u00edn,3
+L. Koscielny,S. Kola\u0161inac,3
+O. Giroud,A. Ramsey,3
+D. Welbeck,Nacho Monreal,2
+A. Iwobi,A. Lacazette,2
+D. Welbeck,L. Koscielny,2
+A. Lacazette,A. Iwobi,2
+A. Ramsey,Mohamed Elneny,2
+Mohamed Elneny,G. Xhaka,2
+G. Xhaka,Mohamed Elneny,2
+Nacho Monreal,L. Koscielny,2
+L. Koscielny,S. Mustafi,2
+A. S\u00e1nchez,G. Xhaka,2
+A. Ramsey,S. Kola\u0161inac,2
+L. Koscielny,Nacho Monreal,2
+O. Giroud,Mohamed Elneny,2
+L. Koscielny,P. \u010cech,2
+S. Kola\u0161inac,A. Ramsey,2
+G. Xhaka,Nacho Monreal,2
+S. Kola\u0161inac,L. Koscielny,2
+Mohamed Elneny,O. Giroud,2
+Nacho Monreal,D. Welbeck,2
+P. \u010cech,L. Koscielny,2
+S. Kola\u0161inac,S. Mustafi,2
+P. \u010cech,Beller\u00edn,2
+S. Kola\u0161inac,A. Lacazette,2
+A. Lacazette,A. Ramsey,2
+Beller\u00edn,O. Giroud,2
+A. Lacazette,L. Koscielny,2
+A. Ramsey,A. Lacazette,2
+P. \u010cech,A. S\u00e1nchez,2
+D. Welbeck,S. Mustafi,2
+Beller\u00edn,A. Lacazette,2
+A. S\u00e1nchez,Mohamed Elneny,1
+L. Koscielny,Mohamed Elneny,1
+S. Mustafi,G. Xhaka,1
+Nacho Monreal,Mohamed Elneny,1
+P. \u010cech,A. Lacazette,1
+A. S\u00e1nchez,D. Welbeck,1
+A. Lacazette,G. Xhaka,1
+A. S\u00e1nchez,O. Giroud,1
+Mohamed Elneny,S. Kola\u0161inac,1
+L. Koscielny,O. Giroud,1
+Nacho Monreal,Beller\u00edn,1
+S. Mustafi,Beller\u00edn,1
+A. S\u00e1nchez,L. Koscielny,1
+S. Kola\u0161inac,Beller\u00edn,1
+G. Xhaka,A. Lacazette,1
+P. \u010cech,D. Welbeck,1
+A. Lacazette,P. \u010cech,1
+Beller\u00edn,P. \u010cech,1
+G. Xhaka,P. \u010cech,1
+A. Iwobi,S. Mustafi,1
+Nacho Monreal,A. Lacazette,1
+S. Kola\u0161inac,Mohamed Elneny,1
+Beller\u00edn,A. S\u00e1nchez,1
+Nacho Monreal,O. Giroud,1
+A. S\u00e1nchez,S. Mustafi,1
+O. Giroud,S. Kola\u0161inac,1
+A. Ramsey,D. Welbeck,1
+O. Giroud,A. S\u00e1nchez,1
+G. Xhaka,A. S\u00e1nchez,1
+D. Welbeck,A. Lacazette,1
+A. Ramsey,O. Giroud,1
+S. Mustafi,O. Giroud,1
+A. Ramsey,P. \u010cech,1
+L. Koscielny,D. Welbeck,1
+L. Koscielny,A. Lacazette,1
+D. Welbeck,Beller\u00edn,1
+S. Mustafi,A. Lacazette,1
+Mohamed Elneny,S. Mustafi,1
+A. Iwobi,A. S\u00e1nchez,1
+Mohamed Elneny,A. S\u00e1nchez,1
+S. Kola\u0161inac,O. Giroud,1
+A. S\u00e1nchez,A. Iwobi,1

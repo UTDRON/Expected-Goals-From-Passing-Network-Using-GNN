@@ -1,0 +1,59 @@
+Source,Target,Weight
+J. McArthur,J. Ward,6
+J. Ward,J. McArthur,5
+J. Ward,T. Fosu-Mensah,5
+J. McArthur,S. Dann,4
+J. Tomkins,L. Milivojevi\u0107,4
+J. Ward,A. Townsend,4
+L. Milivojevi\u0107,J. McArthur,3
+P. van Aanholt,L. Milivojevi\u0107,3
+P. van Aanholt,J. McArthur,3
+L. Milivojevi\u0107,J. Puncheon,3
+J. McArthur,J. Tomkins,3
+J. Puncheon,J. McArthur,3
+L. Milivojevi\u0107,J. Ward,3
+C. Benteke,J. Puncheon,3
+C. Benteke,J. Ward,2
+J. Tomkins,P. van Aanholt,2
+A. Townsend,J. Ward,2
+J. Puncheon,L. Milivojevi\u0107,2
+J. McArthur,P. van Aanholt,2
+T. Fosu-Mensah,S. Dann,2
+S. Dann,W. Hennessey,2
+S. Dann,J. McArthur,2
+L. Milivojevi\u0107,P. van Aanholt,2
+C. Benteke,P. van Aanholt,2
+S. Dann,J. Tomkins,2
+T. Fosu-Mensah,J. Ward,2
+T. Fosu-Mensah,L. Milivojevi\u0107,2
+P. van Aanholt,C. Benteke,2
+A. Townsend,C. Benteke,2
+J. Puncheon,P. van Aanholt,2
+J. Tomkins,J. Puncheon,1
+S. Dann,T. Fosu-Mensah,1
+T. Fosu-Mensah,P. van Aanholt,1
+P. van Aanholt,J. Puncheon,1
+J. Puncheon,A. Townsend,1
+J. Ward,C. Benteke,1
+P. van Aanholt,S. Dann,1
+P. van Aanholt,W. Hennessey,1
+J. Ward,J. Puncheon,1
+J. Tomkins,C. Benteke,1
+C. Benteke,J. McArthur,1
+W. Hennessey,C. Benteke,1
+T. Fosu-Mensah,W. Hennessey,1
+P. van Aanholt,J. Tomkins,1
+J. Tomkins,T. Fosu-Mensah,1
+L. Milivojevi\u0107,C. Benteke,1
+A. Townsend,L. Milivojevi\u0107,1
+L. Milivojevi\u0107,A. Townsend,1
+L. Milivojevi\u0107,T. Fosu-Mensah,1
+W. Hennessey,P. van Aanholt,1
+S. Dann,L. Milivojevi\u0107,1
+J. McArthur,L. Milivojevi\u0107,1
+J. Tomkins,J. Ward,1
+A. Townsend,J. Tomkins,1
+L. Milivojevi\u0107,S. Dann,1
+W. Hennessey,L. Milivojevi\u0107,1
+J. Puncheon,J. Tomkins,1
+W. Hennessey,J. Tomkins,1

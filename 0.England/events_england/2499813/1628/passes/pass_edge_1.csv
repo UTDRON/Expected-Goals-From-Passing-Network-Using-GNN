@@ -1,0 +1,22 @@
+Source,Target,Weight
+P. van Aanholt,S. Dann,2
+R. Loftus-Cheek,J. Ward,2
+J. Tomkins,P. van Aanholt,2
+J. Ward,R. Loftus-Cheek,2
+S. Dann,J. Tomkins,2
+J. Ward,J. Speroni,1
+S. Dann,Y. Cabaye,1
+J. Speroni,J. Schlupp,1
+J. Ward,S. Dann,1
+W. Zaha,P. van Aanholt,1
+P. van Aanholt,Y. Cabaye,1
+Y. Cabaye,J. Schlupp,1
+J. Schlupp,W. Zaha,1
+Y. Cabaye,S. Dann,1
+W. Zaha,J. Schlupp,1
+Y. Cabaye,R. Loftus-Cheek,1
+J. Schlupp,P. van Aanholt,1
+J. Schlupp,S. Dann,1
+R. Loftus-Cheek,Y. Cabaye,1
+S. Dann,J. Ward,1
+P. van Aanholt,W. Zaha,1

@@ -1,0 +1,75 @@
+Source,Target,Weight
+P. Billing,R. van La Parra,5
+C. Schindler,P. Billing,4
+D. Williams,T. Kongolo,4
+F. Hadergjonaj,P. Billing,3
+F. Hadergjonaj,C. Schindler,3
+J. Hogg,F. Hadergjonaj,3
+S. Mouni\u00e9,R. van La Parra,3
+P. Billing,C. Schindler,3
+T. Kongolo,P. Billing,3
+T. Ince,P. Billing,3
+R. van La Parra,T. Kongolo,3
+M. J\u00f8rgensen,J. Hogg,3
+R. van La Parra,P. Billing,3
+C. Schindler,J. L\u00f6ssl,3
+S. Mouni\u00e9,T. Ince,2
+T. Kongolo,C. Schindler,2
+C. Schindler,S. Mouni\u00e9,2
+M. J\u00f8rgensen,F. Hadergjonaj,2
+T. Kongolo,R. van La Parra,2
+S. Mouni\u00e9,M. J\u00f8rgensen,2
+J. L\u00f6ssl,D. Williams,2
+P. Billing,D. Williams,2
+M. J\u00f8rgensen,S. Mouni\u00e9,2
+P. Billing,T. Kongolo,2
+J. L\u00f6ssl,C. Schindler,2
+P. Billing,F. Hadergjonaj,2
+J. Hogg,R. van La Parra,2
+J. Hogg,S. Mouni\u00e9,2
+T. Kongolo,D. Williams,2
+T. Kongolo,M. J\u00f8rgensen,2
+R. van La Parra,C. Schindler,2
+P. Billing,M. J\u00f8rgensen,2
+D. Williams,P. Billing,2
+R. van La Parra,J. Hogg,2
+S. Mouni\u00e9,J. Hogg,2
+J. Hogg,T. Kongolo,1
+F. Hadergjonaj,T. Ince,1
+R. van La Parra,S. Mouni\u00e9,1
+T. Ince,C. Schindler,1
+S. Mouni\u00e9,J. L\u00f6ssl,1
+R. van La Parra,M. J\u00f8rgensen,1
+C. Schindler,F. Hadergjonaj,1
+P. Billing,T. Ince,1
+D. Williams,M. J\u00f8rgensen,1
+T. Ince,F. Hadergjonaj,1
+T. Kongolo,J. Hogg,1
+M. J\u00f8rgensen,J. L\u00f6ssl,1
+F. Hadergjonaj,T. Kongolo,1
+R. van La Parra,D. Williams,1
+C. Schindler,M. J\u00f8rgensen,1
+J. L\u00f6ssl,S. Mouni\u00e9,1
+P. Billing,S. Mouni\u00e9,1
+S. Mouni\u00e9,D. Williams,1
+S. Mouni\u00e9,P. Billing,1
+M. J\u00f8rgensen,T. Kongolo,1
+C. Schindler,T. Kongolo,1
+F. Hadergjonaj,M. J\u00f8rgensen,1
+T. Ince,S. Mouni\u00e9,1
+J. L\u00f6ssl,T. Ince,1
+D. Williams,J. Hogg,1
+D. Williams,F. Hadergjonaj,1
+M. J\u00f8rgensen,T. Ince,1
+C. Schindler,R. van La Parra,1
+F. Hadergjonaj,J. L\u00f6ssl,1
+J. Hogg,J. L\u00f6ssl,1
+M. J\u00f8rgensen,D. Williams,1
+R. van La Parra,F. Hadergjonaj,1
+M. J\u00f8rgensen,R. van La Parra,1
+C. Schindler,D. Williams,1
+J. Hogg,M. J\u00f8rgensen,1
+T. Kongolo,S. Mouni\u00e9,1
+F. Hadergjonaj,S. Mouni\u00e9,1
+P. Billing,J. Hogg,1
+J. L\u00f6ssl,M. J\u00f8rgensen,1

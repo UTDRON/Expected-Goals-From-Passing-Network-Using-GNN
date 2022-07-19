@@ -1,0 +1,38 @@
+Source,Target,Weight
+A. R\u00fcdiger,D. Zappacosta,3
+F\u00e0bregas,Willian,3
+F\u00e0bregas,G. Cahill,3
+D. Zappacosta,F\u00e0bregas,3
+G. Cahill,N. Kant\u00e9,3
+Pedro,\u00c1lvaro Morata,2
+D. Zappacosta,A. R\u00fcdiger,2
+N. Kant\u00e9,A. R\u00fcdiger,2
+\u00c1lvaro Morata,Marcos Alonso,2
+\u00c1lvaro Morata,Pedro,1
+G. Cahill,A. R\u00fcdiger,1
+Marcos Alonso,A. Christensen,1
+G. Cahill,Marcos Alonso,1
+N. Kant\u00e9,Pedro,1
+Pedro,A. R\u00fcdiger,1
+Marcos Alonso,F\u00e0bregas,1
+A. Christensen,G. Cahill,1
+A. R\u00fcdiger,F\u00e0bregas,1
+G. Cahill,Pedro,1
+A. R\u00fcdiger,A. Christensen,1
+Marcos Alonso,D. Zappacosta,1
+Willian,A. R\u00fcdiger,1
+Willian,D. Zappacosta,1
+Pedro,D. Zappacosta,1
+Willian,Pedro,1
+N. Kant\u00e9,Willian,1
+A. R\u00fcdiger,Pedro,1
+N. Kant\u00e9,F\u00e0bregas,1
+D. Zappacosta,N. Kant\u00e9,1
+A. Christensen,F\u00e0bregas,1
+F\u00e0bregas,D. Zappacosta,1
+Marcos Alonso,N. Kant\u00e9,1
+Willian,Marcos Alonso,1
+A. R\u00fcdiger,Willian,1
+Willian,\u00c1lvaro Morata,1
+Marcos Alonso,G. Cahill,1
+D. Zappacosta,Marcos Alonso,1

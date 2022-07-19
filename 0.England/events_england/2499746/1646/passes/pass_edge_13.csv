@@ -1,0 +1,24 @@
+Source,Target,Weight
+J. Tarkowski,S. Ward,2
+A. Westwood,J. Tarkowski,1
+A. Barnes,J. Tarkowski,1
+B. Mee,S. Ward,1
+T. Heaton,C. Wood,1
+S. Ward,B. Mee,1
+B. Mee,A. Westwood,1
+S. Ward,A. Barnes,1
+C. Wood,A. Barnes,1
+R. Brady,M. Lowton,1
+M. Lowton,R. Brady,1
+M. Lowton,A. Westwood,1
+S. Ward,C. Wood,1
+A. Barnes,R. Brady,1
+C. Wood,J. Cork,1
+J. Cork,B. Mee,1
+J. Tarkowski,A. Westwood,1
+B. Mee,J. Cork,1
+R. Brady,C. Wood,1
+J. Cork,R. Brady,1
+A. Westwood,M. Lowton,1
+A. Westwood,T. Heaton,1
+R. Brady,J. Tarkowski,1

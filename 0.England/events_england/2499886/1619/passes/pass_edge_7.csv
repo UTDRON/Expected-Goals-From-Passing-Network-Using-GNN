@@ -1,0 +1,24 @@
+Source,Target,Weight
+N. Redmond,M. Gabbiadini,2
+M. Lemina,D. Tadi\u0107,2
+C. Austin,N. Redmond,2
+M. Gabbiadini,M. Lemina,1
+S. Davis,D. Tadi\u0107,1
+C. Austin,C\u00e9dric Soares,1
+M. Lemina,C\u00e9dric Soares,1
+D. Tadi\u0107,C. Austin,1
+V. van Dijk,S. Davis,1
+C\u00e9dric Soares,M. Lemina,1
+R. Bertrand,M. Lemina,1
+C. Austin,R. Bertrand,1
+M. Lemina,C. Austin,1
+C\u00e9dric Soares,S. Davis,1
+D. Tadi\u0107,N. Redmond,1
+S. Davis,C\u00e9dric Soares,1
+D. Tadi\u0107,S. Davis,1
+R. Bertrand,C. Austin,1
+N. Redmond,C. Austin,1
+C\u00e9dric Soares,M. Yoshida,1
+M. Gabbiadini,C. Austin,1
+S. Davis,M. Lemina,1
+M. Yoshida,V. van Dijk,1

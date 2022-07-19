@@ -1,0 +1,14 @@
+Source,Target,Weight
+P. Zabaleta,M. Noble,2
+M. Noble,P. Zabaleta,1
+M. Noble,J. Hern\u00e1ndez,1
+D. Rice,Adri\u00e1n,1
+S. Byram,J. Hern\u00e1ndez,1
+J. Hern\u00e1ndez,S. Byram,1
+J. Hern\u00e1ndez,M. Antonio,1
+Adri\u00e1n,D. Rice,1
+D. Rice,P. Zabaleta,1
+P. Zabaleta,D. Rice,1
+S. Byram,D. Rice,1
+D. Rice,M. Antonio,1
+M. Antonio,P. Zabaleta,1

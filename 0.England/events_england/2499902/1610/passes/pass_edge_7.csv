@@ -1,0 +1,31 @@
+Source,Target,Weight
+E. Hazard,T. Bakayoko,3
+A. R\u00fcdiger,T. Bakayoko,3
+T. Bakayoko,A. R\u00fcdiger,3
+Pedro,E. Hazard,2
+A. R\u00fcdiger,Pedro,2
+Azpilicueta,A. R\u00fcdiger,2
+A. R\u00fcdiger,E. Hazard,2
+Marcos Alonso,A. R\u00fcdiger,2
+A. R\u00fcdiger,Marcos Alonso,2
+Azpilicueta,V. Moses,2
+V. Moses,N. Kant\u00e9,2
+E. Hazard,N. Kant\u00e9,2
+T. Bakayoko,N. Kant\u00e9,2
+V. Moses,Azpilicueta,2
+A. Christensen,A. R\u00fcdiger,2
+Marcos Alonso,E. Hazard,2
+T. Bakayoko,Marcos Alonso,2
+N. Kant\u00e9,Azpilicueta,2
+A. R\u00fcdiger,Willian,1
+N. Kant\u00e9,E. Hazard,1
+N. Kant\u00e9,T. Bakayoko,1
+V. Moses,A. Christensen,1
+Pedro,Marcos Alonso,1
+A. R\u00fcdiger,V. Moses,1
+Willian,A. R\u00fcdiger,1
+Marcos Alonso,Azpilicueta,1
+E. Hazard,V. Moses,1
+Azpilicueta,A. Christensen,1
+N. Kant\u00e9,V. Moses,1
+E. Hazard,Pedro,1

@@ -1,0 +1,13 @@
+Source,Target,Weight
+M. Pugh,C. Daniels,2
+C. Daniels,M. Pugh,1
+L. Cook,M. Pugh,1
+B. Afobe,A. Smith,1
+H. Arter,J. Ibe,1
+J. Ibe,B. Afobe,1
+B. Afobe,L. Cook,1
+L. Cook,C. Daniels,1
+C. Daniels,H. Arter,1
+S. Francis,L. Cook,1
+A. Smith,S. Francis,1
+C. Daniels,B. Afobe,1

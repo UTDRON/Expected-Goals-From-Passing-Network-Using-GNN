@@ -1,0 +1,52 @@
+Source,Target,Weight
+K. Walker,V. Kompany,7
+V. Kompany,K. Walker,7
+N. Otamendi,Danilo,5
+Danilo,N. Otamendi,5
+N. Otamendi,V. Kompany,3
+V. Kompany,Ederson,3
+K. De Bruyne,Bernardo Silva,2
+Bernardo Silva,V. Kompany,2
+L. San\u00e9,Danilo,2
+Danilo,\u0130. G\u00fcndo\u011fan,2
+Bernardo Silva,K. De Bruyne,2
+K. De Bruyne,Danilo,2
+Bernardo Silva,K. Walker,2
+Ederson,N. Otamendi,2
+\u0130. G\u00fcndo\u011fan,S. Ag\u00fcero,1
+L. San\u00e9,Bernardo Silva,1
+S. Ag\u00fcero,K. De Bruyne,1
+N. Otamendi,K. Walker,1
+Danilo,V. Kompany,1
+David Silva,Danilo,1
+S. Ag\u00fcero,Bernardo Silva,1
+K. Walker,N. Otamendi,1
+Ederson,S. Ag\u00fcero,1
+\u0130. G\u00fcndo\u011fan,David Silva,1
+L. San\u00e9,K. De Bruyne,1
+Danilo,Ederson,1
+David Silva,S. Ag\u00fcero,1
+\u0130. G\u00fcndo\u011fan,N. Otamendi,1
+K. Walker,Bernardo Silva,1
+\u0130. G\u00fcndo\u011fan,Ederson,1
+V. Kompany,N. Otamendi,1
+S. Ag\u00fcero,David Silva,1
+L. San\u00e9,\u0130. G\u00fcndo\u011fan,1
+N. Otamendi,Ederson,1
+\u0130. G\u00fcndo\u011fan,Danilo,1
+N. Otamendi,David Silva,1
+V. Kompany,S. Ag\u00fcero,1
+K. De Bruyne,L. San\u00e9,1
+Ederson,L. San\u00e9,1
+K. De Bruyne,S. Ag\u00fcero,1
+Ederson,V. Kompany,1
+Danilo,K. De Bruyne,1
+Ederson,Bernardo Silva,1
+S. Ag\u00fcero,L. San\u00e9,1
+V. Kompany,L. San\u00e9,1
+K. Walker,K. De Bruyne,1
+Danilo,L. San\u00e9,1
+K. De Bruyne,N. Otamendi,1
+V. Kompany,\u0130. G\u00fcndo\u011fan,1
+N. Otamendi,\u0130. G\u00fcndo\u011fan,1
+David Silva,K. De Bruyne,1

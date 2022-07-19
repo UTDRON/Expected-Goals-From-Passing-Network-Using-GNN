@@ -1,0 +1,24 @@
+Source,Target,Weight
+M. Rojo,M. Carrick,2
+M. Carrick,M. Rashford,2
+M. Rashford,Juan Mata,2
+E. Bailly,A. Young,1
+Juan Mata,S. Romero,1
+S. McTominay,M. Carrick,1
+A. S\u00e1nchez,A. Young,1
+E. Bailly,M. Rojo,1
+A. Young,S. McTominay,1
+S. Romero,M. Rojo,1
+M. Darmian,M. Rojo,1
+D. Blind,M. Darmian,1
+M. Rojo,E. Bailly,1
+M. Rashford,M. Carrick,1
+M. Carrick,Juan Mata,1
+M. Rojo,A. S\u00e1nchez,1
+M. Carrick,A. S\u00e1nchez,1
+S. McTominay,M. Rojo,1
+Juan Mata,M. Rashford,1
+Juan Mata,S. McTominay,1
+A. Young,D. Blind,1
+A. S\u00e1nchez,M. Rashford,1
+S. McTominay,E. Bailly,1

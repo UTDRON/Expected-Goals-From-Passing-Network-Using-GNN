@@ -1,0 +1,20 @@
+Source,Target,Weight
+E. Choupo-Moting,J. Allen,3
+E. Pieters,E. Choupo-Moting,2
+K. Zouma,E. Pieters,2
+E. Pieters,J. Allen,2
+J. Allen,E. Pieters,2
+J. Butland,E. Pieters,1
+D. Fletcher,E. Choupo-Moting,1
+E. Pieters,K. Zouma,1
+G. Cameron,J. Butland,1
+M. Diouf,G. Cameron,1
+M. Diouf,D. Fletcher,1
+G. Cameron,E. Pieters,1
+J. Butland,G. Cameron,1
+E. Pieters,G. Cameron,1
+J. Allen,M. Diouf,1
+J. Allen,S. Berahino,1
+J. Allen,K. Zouma,1
+E. Choupo-Moting,M. Diouf,1
+G. Cameron,E. Choupo-Moting,1

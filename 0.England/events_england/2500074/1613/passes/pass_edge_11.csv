@@ -1,0 +1,18 @@
+Source,Target,Weight
+Kenedy,M. Diam\u00e9,2
+M. Diam\u00e9,Kenedy,2
+J. Shelvey,J. Lascelles,2
+J. Lascelles,F. Lejeune,2
+D. Yedlin,J. Shelvey,1
+D. Yedlin,M. D\u00fabravka,1
+F. Lejeune,M. Ritchie,1
+M. Diam\u00e9,D. Yedlin,1
+J. Lascelles,M. Diam\u00e9,1
+D. Yedlin,F. Lejeune,1
+F. Lejeune,D. Yedlin,1
+M. Diam\u00e9,J. Murphy,1
+M. D\u00fabravka,D. Yedlin,1
+J. Murphy,M. Ritchie,1
+M. Ritchie,I. Slimani,1
+M. Ritchie,J. Lascelles,1
+I. Slimani,M. Diam\u00e9,1

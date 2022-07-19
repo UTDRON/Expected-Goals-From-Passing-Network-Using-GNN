@@ -1,0 +1,15 @@
+Source,Target,Weight
+A. Martial,A. Young,3
+A. Young,A. Martial,2
+Juan Mata,A. Martial,2
+N. Mati\u0107,P. Jones,1
+J. Lingard,A. Martial,1
+R. Lukaku,J. Lingard,1
+N. Mati\u0107,J. Lingard,1
+J. Lingard,Juan Mata,1
+A. Martial,R. Lukaku,1
+P. Jones,N. Mati\u0107,1
+A. Martial,P. Jones,1
+P. Jones,David de Gea,1
+David de Gea,Juan Mata,1
+A. Young,J. Lingard,1

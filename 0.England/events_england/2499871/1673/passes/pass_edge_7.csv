@@ -1,0 +1,11 @@
+Source,Target,Weight
+A. Mooy,C. Quaner,2
+C. L\u00f6we,A. Mooy,2
+A. Mooy,C. L\u00f6we,1
+T. Smith,T. Ince,1
+C. Quaner,A. Mooy,1
+C. Quaner,T. Smith,1
+E. Kachunga,T. Smith,1
+J. Hogg,C. L\u00f6we,1
+C. Quaner,J. Hogg,1
+T. Smith,E. Kachunga,1

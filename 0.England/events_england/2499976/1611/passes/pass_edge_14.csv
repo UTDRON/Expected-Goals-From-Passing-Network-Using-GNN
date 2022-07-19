@@ -1,0 +1,20 @@
+Source,Target,Weight
+M. Rojo,N. Mati\u0107,3
+P. Pogba,M. Rojo,2
+N. Mati\u0107,P. Pogba,2
+Juan Mata,A. S\u00e1nchez,2
+R. Lukaku,M. Rojo,1
+N. Mati\u0107,Juan Mata,1
+A. Valencia,Juan Mata,1
+M. Rojo,A. Valencia,1
+P. Pogba,C. Smalling,1
+N. Mati\u0107,M. Rojo,1
+A. S\u00e1nchez,R. Lukaku,1
+C. Smalling,N. Mati\u0107,1
+Juan Mata,S. McTominay,1
+S. McTominay,N. Mati\u0107,1
+C. Smalling,P. Pogba,1
+N. Mati\u0107,C. Smalling,1
+N. Mati\u0107,S. McTominay,1
+P. Pogba,Juan Mata,1
+S. McTominay,P. Pogba,1

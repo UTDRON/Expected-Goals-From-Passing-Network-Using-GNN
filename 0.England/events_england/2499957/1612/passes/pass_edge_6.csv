@@ -1,0 +1,31 @@
+Source,Target,Weight
+G. Wijnaldum,V. van Dijk,3
+A. Robertson,V. van Dijk,2
+V. van Dijk,G. Wijnaldum,2
+E. Can,A. Oxlade-Chamberlain,2
+V. van Dijk,J. Matip,2
+V. van Dijk,A. Robertson,2
+J. Matip,E. Can,2
+A. Robertson,S. Man\u00e9,1
+A. Oxlade-Chamberlain,G. Wijnaldum,1
+E. Can,V. van Dijk,1
+G. Wijnaldum,Mohamed Salah,1
+V. van Dijk,L. Karius,1
+J. Gomez,Mohamed Salah,1
+E. Can,Roberto Firmino,1
+J. Matip,V. van Dijk,1
+G. Wijnaldum,J. Matip,1
+S. Man\u00e9,A. Robertson,1
+A. Robertson,G. Wijnaldum,1
+G. Wijnaldum,Roberto Firmino,1
+Roberto Firmino,G. Wijnaldum,1
+Mohamed Salah,E. Can,1
+Mohamed Salah,V. van Dijk,1
+Roberto Firmino,A. Robertson,1
+V. van Dijk,S. Man\u00e9,1
+J. Matip,S. Man\u00e9,1
+L. Karius,J. Matip,1
+S. Man\u00e9,J. Gomez,1
+S. Man\u00e9,Roberto Firmino,1
+J. Gomez,G. Wijnaldum,1
+A. Oxlade-Chamberlain,E. Can,1

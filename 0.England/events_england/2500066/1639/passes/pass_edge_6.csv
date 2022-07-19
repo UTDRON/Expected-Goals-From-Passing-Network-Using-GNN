@@ -1,0 +1,100 @@
+Source,Target,Weight
+J. Butland,P. Crouch,12
+E. Pieters,P. Crouch,7
+E. Pieters,M. Bauer,6
+P. Crouch,R. Shawcross,6
+E. Pieters,R. Shawcross,6
+P. Crouch,J. Butland,6
+P. Crouch,G. Johnson,5
+P. Crouch,E. Pieters,5
+B. N'Diaye,E. Pieters,5
+B. Martins Indi,E. Pieters,5
+M. Bauer,P. Crouch,5
+R. Shawcross,J. Allen,5
+R. Shawcross,J. Butland,5
+G. Johnson,J. Allen,4
+J. Allen,B. N'Diaye,4
+B. Martins Indi,J. Allen,4
+P. Crouch,M. Bauer,4
+J. Allen,J. Butland,4
+J. Allen,X. Shaqiri,4
+M. Bauer,B. Martins Indi,4
+P. Crouch,B. N'Diaye,4
+E. Pieters,X. Shaqiri,4
+X. Shaqiri,E. Pieters,4
+J. Allen,M. Diouf,4
+B. N'Diaye,J. Allen,3
+R. Shawcross,B. N'Diaye,3
+M. Diouf,J. Allen,3
+X. Shaqiri,M. Bauer,3
+B. Martins Indi,R. Shawcross,3
+J. Allen,B. Martins Indi,3
+J. Allen,K. Zouma,3
+X. Shaqiri,J. Allen,3
+M. Bauer,E. Pieters,3
+B. N'Diaye,B. Martins Indi,2
+J. Allen,P. Crouch,2
+J. Butland,B. N'Diaye,2
+R. Shawcross,K. Zouma,2
+M. Bauer,J. Butland,2
+E. Pieters,J. Butland,2
+P. Crouch,B. Martins Indi,2
+G. Johnson,P. Crouch,2
+J. Butland,B. Martins Indi,2
+K. Zouma,J. Allen,2
+X. Shaqiri,R. Shawcross,2
+M. Diouf,X. Shaqiri,2
+R. Shawcross,M. Diouf,2
+R. Shawcross,E. Pieters,2
+B. N'Diaye,P. Crouch,2
+J. Butland,M. Diouf,2
+K. Zouma,J. Butland,2
+M. Bauer,G. Johnson,2
+E. Pieters,J. Allen,2
+K. Zouma,P. Crouch,2
+M. Diouf,R. Shawcross,2
+G. Johnson,R. Shawcross,2
+M. Diouf,E. Pieters,2
+G. Johnson,M. Bauer,2
+J. Butland,E. Pieters,2
+J. Allen,M. Bauer,2
+X. Shaqiri,M. Diouf,2
+R. Shawcross,B. Martins Indi,1
+B. N'Diaye,J. Butland,1
+M. Diouf,B. Martins Indi,1
+B. N'Diaye,X. Shaqiri,1
+P. Crouch,K. Zouma,1
+R. Shawcross,G. Johnson,1
+E. Pieters,S. Ireland,1
+E. Pieters,B. N'Diaye,1
+B. Martins Indi,B. N'Diaye,1
+B. Martins Indi,G. Johnson,1
+P. Crouch,J. Allen,1
+M. Diouf,P. Crouch,1
+J. Allen,R. Shawcross,1
+B. N'Diaye,R. Shawcross,1
+R. Shawcross,P. Crouch,1
+B. N'Diaye,K. Zouma,1
+S. Ireland,E. Pieters,1
+B. Martins Indi,M. Diouf,1
+K. Zouma,R. Shawcross,1
+M. Bauer,X. Shaqiri,1
+X. Shaqiri,J. Butland,1
+B. N'Diaye,M. Bauer,1
+J. Allen,G. Johnson,1
+M. Diouf,G. Johnson,1
+J. Butland,J. Allen,1
+M. Bauer,B. N'Diaye,1
+J. Butland,X. Shaqiri,1
+S. Ireland,X. Shaqiri,1
+X. Shaqiri,B. N'Diaye,1
+X. Shaqiri,P. Crouch,1
+J. Allen,S. Ireland,1
+G. Johnson,E. Pieters,1
+B. Martins Indi,X. Shaqiri,1
+P. Crouch,X. Shaqiri,1
+M. Bauer,M. Diouf,1
+E. Pieters,B. Martins Indi,1
+J. Butland,R. Shawcross,1
+R. Shawcross,M. Bauer,1
+R. Shawcross,X. Shaqiri,1

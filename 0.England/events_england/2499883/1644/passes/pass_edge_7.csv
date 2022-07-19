@@ -1,0 +1,88 @@
+Source,Target,Weight
+Richarlison,J. Holebas,6
+T. Deeney,Richarlison,6
+T. Deeney,J. Holebas,5
+A. Doucour\u00e9,Richarlison,5
+Richarlison,T. Deeney,5
+Richarlison,A. Mariappa,5
+Richarlison,C. Kabasele,5
+S. Pr\u00f6dl,Richarlison,4
+C. Kabasele,J. Holebas,4
+A. Doucour\u00e9,T. Deeney,4
+C. Kabasele,Richarlison,4
+J. Holebas,A. Carrillo,4
+J. Holebas,A. Doucour\u00e9,4
+J. Holebas,T. Cleverley,4
+J. Holebas,C. Kabasele,3
+T. Deeney,T. Cleverley,3
+T. Cleverley,Richarlison,3
+A. Doucour\u00e9,T. Cleverley,3
+T. Cleverley,A. Carrillo,3
+A. Carrillo,J. Holebas,3
+D. Janmaat,A. Doucour\u00e9,3
+T. Cleverley,A. Doucour\u00e9,3
+Richarlison,S. Pr\u00f6dl,3
+Richarlison,A. Doucour\u00e9,3
+A. Mariappa,Richarlison,3
+J. Holebas,T. Deeney,3
+A. Mariappa,S. Pr\u00f6dl,3
+T. Deeney,C. Kabasele,2
+A. Carrillo,T. Deeney,2
+A. Carrillo,A. Mariappa,2
+S. Pr\u00f6dl,A. Doucour\u00e9,2
+Gomes,Richarlison,2
+T. Deeney,A. Carrillo,2
+C. Kabasele,S. Pr\u00f6dl,2
+J. Holebas,A. Mariappa,2
+Gomes,C. Kabasele,2
+D. Janmaat,T. Deeney,2
+T. Deeney,A. Doucour\u00e9,2
+C. Kabasele,T. Deeney,2
+C. Kabasele,A. Doucour\u00e9,2
+A. Doucour\u00e9,D. Janmaat,2
+Richarlison,T. Cleverley,2
+A. Doucour\u00e9,A. Carrillo,2
+A. Doucour\u00e9,S. Pr\u00f6dl,2
+T. Cleverley,D. Janmaat,2
+A. Carrillo,A. Doucour\u00e9,2
+A. Mariappa,Gomes,2
+A. Carrillo,T. Cleverley,2
+A. Mariappa,D. Janmaat,2
+A. Doucour\u00e9,J. Holebas,2
+T. Cleverley,S. Pr\u00f6dl,2
+S. Pr\u00f6dl,T. Deeney,1
+A. Carrillo,Richarlison,1
+A. Mariappa,A. Doucour\u00e9,1
+Gomes,A. Doucour\u00e9,1
+J. Holebas,Richarlison,1
+D. Janmaat,A. Mariappa,1
+S. Pr\u00f6dl,Gomes,1
+A. Mariappa,T. Cleverley,1
+T. Cleverley,J. Holebas,1
+C. Kabasele,Gomes,1
+S. Pr\u00f6dl,C. Kabasele,1
+A. Doucour\u00e9,C. Kabasele,1
+A. Mariappa,C. Kabasele,1
+T. Cleverley,A. Mariappa,1
+S. Pr\u00f6dl,T. Cleverley,1
+S. Pr\u00f6dl,D. Janmaat,1
+A. Doucour\u00e9,A. Mariappa,1
+T. Cleverley,C. Kabasele,1
+C. Kabasele,T. Cleverley,1
+D. Janmaat,Richarlison,1
+T. Deeney,D. Janmaat,1
+J. Holebas,D. Janmaat,1
+D. Janmaat,T. Cleverley,1
+A. Mariappa,T. Deeney,1
+D. Janmaat,J. Holebas,1
+T. Cleverley,Gomes,1
+Richarlison,D. Janmaat,1
+S. Pr\u00f6dl,A. Carrillo,1
+T. Deeney,A. Mariappa,1
+A. Doucour\u00e9,Gomes,1
+D. Janmaat,S. Pr\u00f6dl,1
+Gomes,T. Deeney,1
+S. Pr\u00f6dl,A. Mariappa,1
+A. Carrillo,D. Janmaat,1
+C. Kabasele,A. Carrillo,1
+T. Cleverley,T. Deeney,1

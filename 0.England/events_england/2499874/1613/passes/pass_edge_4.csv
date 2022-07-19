@@ -1,0 +1,71 @@
+Source,Target,Weight
+D. Gayle,Joselu,5
+M. Ritchie,D. Yedlin,4
+Joselu,M. Ritchie,4
+Mikel Merino,C. Clark,4
+Javi Manquillo,J. Murphy,3
+J. Murphy,D. Gayle,3
+Mikel Merino,Joselu,3
+Javi Manquillo,C. Clark,3
+D. Yedlin,M. Ritchie,3
+Joselu,Mikel Merino,3
+Mikel Merino,D. Gayle,3
+D. Yedlin,Mikel Merino,2
+D. Gayle,Mikel Merino,2
+C. Clark,Javi Manquillo,2
+K. Darlow,D. Gayle,2
+F. Lejeune,M. Ritchie,2
+Joselu,Javi Manquillo,2
+Mikel Merino,J. Murphy,2
+D. Yedlin,F. Lejeune,2
+M. Ritchie,Joselu,2
+D. Gayle,M. Ritchie,2
+M. Ritchie,K. Darlow,2
+I. Hayden,M. Ritchie,2
+C. Clark,Joselu,2
+J. Murphy,Javi Manquillo,2
+Joselu,J. Murphy,2
+Joselu,D. Yedlin,2
+F. Lejeune,Mikel Merino,2
+I. Hayden,Joselu,2
+F. Lejeune,D. Yedlin,2
+M. Ritchie,Mikel Merino,2
+Joselu,F. Lejeune,2
+M. Ritchie,F. Lejeune,2
+Mikel Merino,M. Ritchie,1
+K. Darlow,Javi Manquillo,1
+Javi Manquillo,Joselu,1
+K. Darlow,Joselu,1
+K. Darlow,C. Clark,1
+D. Gayle,I. Hayden,1
+Javi Manquillo,Mikel Merino,1
+J. Murphy,Mikel Merino,1
+C. Clark,Mikel Merino,1
+D. Yedlin,K. Darlow,1
+Joselu,I. Hayden,1
+Joselu,D. Gayle,1
+C. Clark,I. Hayden,1
+F. Lejeune,I. Hayden,1
+M. Ritchie,D. Gayle,1
+C. Clark,K. Darlow,1
+Mikel Merino,F. Lejeune,1
+I. Hayden,Mikel Merino,1
+M. Ritchie,Javi Manquillo,1
+K. Darlow,I. Hayden,1
+D. Gayle,K. Darlow,1
+K. Darlow,F. Lejeune,1
+I. Hayden,K. Darlow,1
+D. Yedlin,Joselu,1
+C. Clark,D. Gayle,1
+I. Hayden,F. Lejeune,1
+D. Gayle,J. Murphy,1
+J. Murphy,M. Ritchie,1
+Mikel Merino,K. Darlow,1
+C. Clark,F. Lejeune,1
+F. Lejeune,Javi Manquillo,1
+F. Lejeune,C. Clark,1
+K. Darlow,Mikel Merino,1
+Mikel Merino,D. Yedlin,1
+M. Ritchie,I. Hayden,1
+Javi Manquillo,D. Gayle,1
+F. Lejeune,K. Darlow,1

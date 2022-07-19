@@ -1,0 +1,24 @@
+Source,Target,Weight
+J. Izquierdo,P. Gro\u00df,2
+G. Murray,P. Gro\u00df,2
+G. Bong,J. Izquierdo,2
+E. Schelotto,G. Bong,1
+L. Dunk,G. Murray,1
+L. Dunk,D. Stephens,1
+J. Izquierdo,L. Dunk,1
+G. Bong,L. Dunk,1
+P. Gro\u00df,G. Bong,1
+E. Schelotto,S. Duffy,1
+D. Pr\u00f6pper,E. Schelotto,1
+S. Duffy,E. Schelotto,1
+D. Stephens,G. Murray,1
+P. Gro\u00df,J. Izquierdo,1
+G. Murray,D. Pr\u00f6pper,1
+P. Gro\u00df,G. Murray,1
+P. Gro\u00df,D. Stephens,1
+S. Duffy,P. Gro\u00df,1
+J. Izquierdo,G. Murray,1
+D. Pr\u00f6pper,J. Izquierdo,1
+P. Gro\u00df,D. Pr\u00f6pper,1
+D. Stephens,J. Izquierdo,1
+J. Izquierdo,G. Bong,1

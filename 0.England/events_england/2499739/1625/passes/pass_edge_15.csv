@@ -1,0 +1,54 @@
+Source,Target,Weight
+V. Kompany,N. Otamendi,6
+N. Otamendi,V. Kompany,5
+N. Otamendi,Fernandinho,4
+N. Otamendi,B. Mendy,4
+Danilo,R. Sterling,4
+B. Mendy,N. Otamendi,4
+N. Otamendi,K. De Bruyne,3
+V. Kompany,Fernandinho,3
+V. Kompany,Danilo,2
+Fernandinho,N. Otamendi,2
+Danilo,David Silva,2
+Fernandinho,David Silva,2
+K. De Bruyne,B. Mendy,2
+Fernandinho,V. Kompany,2
+Fernandinho,Danilo,2
+R. Sterling,S. Ag\u00fcero,2
+David Silva,Danilo,2
+David Silva,K. De Bruyne,2
+K. De Bruyne,David Silva,2
+Gabriel Jesus,N. Otamendi,2
+B. Mendy,S. Ag\u00fcero,1
+David Silva,Gabriel Jesus,1
+Gabriel Jesus,David Silva,1
+S. Ag\u00fcero,V. Kompany,1
+Gabriel Jesus,K. De Bruyne,1
+K. De Bruyne,Gabriel Jesus,1
+David Silva,B. Mendy,1
+Fernandinho,Ederson,1
+Ederson,N. Otamendi,1
+David Silva,Fernandinho,1
+Fernandinho,B. Mendy,1
+S. Ag\u00fcero,K. De Bruyne,1
+N. Otamendi,Gabriel Jesus,1
+V. Kompany,David Silva,1
+R. Sterling,Danilo,1
+B. Mendy,David Silva,1
+David Silva,V. Kompany,1
+K. De Bruyne,S. Ag\u00fcero,1
+B. Mendy,Danilo,1
+S. Ag\u00fcero,R. Sterling,1
+S. Ag\u00fcero,Gabriel Jesus,1
+K. De Bruyne,Fernandinho,1
+Danilo,Fernandinho,1
+K. De Bruyne,Danilo,1
+R. Sterling,B. Mendy,1
+K. De Bruyne,N. Otamendi,1
+B. Mendy,Gabriel Jesus,1
+Danilo,V. Kompany,1
+B. Mendy,K. De Bruyne,1
+Gabriel Jesus,V. Kompany,1
+V. Kompany,K. De Bruyne,1
+R. Sterling,V. Kompany,1
+Danilo,N. Otamendi,1

@@ -1,0 +1,14 @@
+Source,Target,Weight
+J. Matip,Alberto Moreno,3
+Alberto Moreno,A. Oxlade-Chamberlain,2
+Alberto Moreno,J. Matip,2
+J. Matip,J. Gomez,1
+A. Oxlade-Chamberlain,J. Gomez,1
+E. Can,J. Gomez,1
+J. Gomez,J. Matip,1
+J. Gomez,Philippe Coutinho,1
+A. Oxlade-Chamberlain,Philippe Coutinho,1
+Philippe Coutinho,J. Matip,1
+J. Gomez,E. Can,1
+E. Can,Philippe Coutinho,1
+Philippe Coutinho,Alberto Moreno,1

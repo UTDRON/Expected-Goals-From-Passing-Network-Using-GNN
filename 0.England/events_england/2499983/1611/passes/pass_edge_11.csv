@@ -1,0 +1,65 @@
+Source,Target,Weight
+P. Jones,M. Carrick,7
+A. Valencia,C. Smalling,7
+A. Valencia,Juan Mata,6
+Juan Mata,A. Valencia,6
+C. Smalling,P. Jones,5
+M. Carrick,A. Valencia,5
+A. S\u00e1nchez,P. Jones,5
+M. Carrick,Juan Mata,4
+A. Valencia,A. S\u00e1nchez,4
+A. Young,M. Carrick,3
+A. S\u00e1nchez,Juan Mata,3
+A. Young,P. Jones,3
+Juan Mata,A. S\u00e1nchez,3
+M. Carrick,S. McTominay,3
+P. Jones,A. Young,3
+C. Smalling,A. Valencia,3
+S. McTominay,A. Young,3
+R. Lukaku,A. Valencia,3
+A. Young,A. Martial,3
+S. McTominay,Juan Mata,3
+A. Martial,A. S\u00e1nchez,2
+C. Smalling,M. Carrick,2
+M. Carrick,C. Smalling,2
+Juan Mata,M. Carrick,2
+P. Jones,David de Gea,2
+Juan Mata,S. McTominay,2
+P. Jones,A. Valencia,2
+A. Young,S. McTominay,2
+Juan Mata,R. Lukaku,2
+Juan Mata,A. Young,2
+A. Young,C. Smalling,2
+S. McTominay,C. Smalling,2
+P. Jones,S. McTominay,2
+A. Valencia,P. Jones,2
+S. McTominay,M. Carrick,2
+C. Smalling,Juan Mata,2
+M. Carrick,A. Young,2
+A. S\u00e1nchez,A. Valencia,1
+R. Lukaku,A. Young,1
+A. Valencia,R. Lukaku,1
+S. McTominay,R. Lukaku,1
+R. Lukaku,M. Carrick,1
+David de Gea,A. Valencia,1
+A. S\u00e1nchez,A. Young,1
+R. Lukaku,A. S\u00e1nchez,1
+M. Carrick,R. Lukaku,1
+P. Jones,Juan Mata,1
+C. Smalling,A. Martial,1
+P. Jones,A. S\u00e1nchez,1
+Juan Mata,C. Smalling,1
+David de Gea,R. Lukaku,1
+S. McTominay,A. S\u00e1nchez,1
+David de Gea,S. McTominay,1
+M. Carrick,David de Gea,1
+A. Martial,A. Young,1
+A. Valencia,S. McTominay,1
+A. Valencia,M. Carrick,1
+R. Lukaku,P. Jones,1
+A. Martial,M. Carrick,1
+A. S\u00e1nchez,A. Martial,1
+Juan Mata,P. Jones,1
+A. Martial,P. Jones,1
+A. S\u00e1nchez,R. Lukaku,1
+C. Smalling,S. McTominay,1

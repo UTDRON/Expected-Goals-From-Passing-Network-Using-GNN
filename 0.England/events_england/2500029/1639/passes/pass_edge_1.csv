@@ -1,0 +1,20 @@
+Source,Target,Weight
+M. Bauer,G. Johnson,2
+X. Shaqiri,Ramadan Sobhi,1
+M. Bauer,X. Shaqiri,1
+B. N'Diaye,R. Shawcross,1
+M. Diouf,B. N'Diaye,1
+B. N'Diaye,B. Martins Indi,1
+J. Allen,M. Bauer,1
+Ramadan Sobhi,M. Diouf,1
+M. Bauer,E. Pieters,1
+X. Shaqiri,M. Bauer,1
+E. Pieters,X. Shaqiri,1
+R. Shawcross,M. Bauer,1
+J. Allen,B. N'Diaye,1
+X. Shaqiri,M. Diouf,1
+Ramadan Sobhi,J. Allen,1
+G. Johnson,M. Bauer,1
+B. Martins Indi,X. Shaqiri,1
+M. Diouf,M. Bauer,1
+G. Johnson,J. Allen,1

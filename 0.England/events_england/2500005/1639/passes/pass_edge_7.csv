@@ -1,0 +1,32 @@
+Source,Target,Weight
+M. Bauer,K. Zouma,3
+K. Zouma,B. Martins Indi,2
+X. Shaqiri,J. Butland,2
+K. Zouma,X. Shaqiri,2
+P. Crouch,G. Cameron,2
+X. Shaqiri,M. Bauer,2
+B. Martins Indi,J. Butland,2
+G. Cameron,P. Crouch,2
+J. Allen,M. Bauer,1
+J. Butland,E. Pieters,1
+J. Allen,X. Shaqiri,1
+X. Shaqiri,P. Crouch,1
+E. Pieters,P. Crouch,1
+J. Butland,B. Martins Indi,1
+B. N'Diaye,X. Shaqiri,1
+M. Bauer,E. Choupo-Moting,1
+J. Butland,M. Bauer,1
+B. N'Diaye,K. Zouma,1
+M. Bauer,G. Cameron,1
+J. Butland,B. N'Diaye,1
+B. Martins Indi,K. Zouma,1
+P. Crouch,J. Allen,1
+G. Cameron,J. Allen,1
+K. Zouma,G. Cameron,1
+P. Crouch,J. Butland,1
+J. Butland,P. Crouch,1
+G. Cameron,M. Bauer,1
+E. Choupo-Moting,G. Cameron,1
+K. Zouma,J. Butland,1
+G. Cameron,B. N'Diaye,1
+J. Butland,K. Zouma,1

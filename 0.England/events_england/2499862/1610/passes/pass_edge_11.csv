@@ -1,0 +1,64 @@
+Source,Target,Weight
+A. Christensen,Azpilicueta,7
+Azpilicueta,A. Christensen,7
+N. Kant\u00e9,Azpilicueta,4
+A. R\u00fcdiger,A. Christensen,4
+F\u00e0bregas,V. Moses,4
+A. Christensen,A. R\u00fcdiger,4
+Azpilicueta,F\u00e0bregas,4
+V. Moses,Azpilicueta,3
+\u00c1lvaro Morata,F\u00e0bregas,3
+E. Hazard,V. Moses,3
+V. Moses,N. Kant\u00e9,3
+N. Kant\u00e9,E. Hazard,3
+D. Drinkwater,Marcos Alonso,3
+N. Kant\u00e9,A. R\u00fcdiger,3
+Marcos Alonso,N. Kant\u00e9,3
+T. Courtois,A. Christensen,2
+A. Christensen,V. Moses,2
+A. Christensen,N. Kant\u00e9,2
+Marcos Alonso,A. R\u00fcdiger,2
+A. R\u00fcdiger,Marcos Alonso,2
+N. Kant\u00e9,F\u00e0bregas,2
+V. Moses,F\u00e0bregas,2
+F\u00e0bregas,\u00c1lvaro Morata,2
+\u00c1lvaro Morata,N. Kant\u00e9,2
+Azpilicueta,N. Kant\u00e9,2
+E. Hazard,N. Kant\u00e9,2
+F\u00e0bregas,Azpilicueta,2
+V. Moses,E. Hazard,2
+E. Hazard,Azpilicueta,2
+F\u00e0bregas,D. Drinkwater,2
+N. Kant\u00e9,\u00c1lvaro Morata,1
+D. Drinkwater,E. Hazard,1
+N. Kant\u00e9,A. Christensen,1
+V. Moses,A. R\u00fcdiger,1
+\u00c1lvaro Morata,A. Christensen,1
+Azpilicueta,D. Drinkwater,1
+D. Drinkwater,V. Moses,1
+D. Drinkwater,\u00c1lvaro Morata,1
+D. Drinkwater,F\u00e0bregas,1
+Azpilicueta,Marcos Alonso,1
+A. R\u00fcdiger,E. Hazard,1
+A. R\u00fcdiger,D. Drinkwater,1
+A. Christensen,T. Courtois,1
+A. R\u00fcdiger,V. Moses,1
+E. Hazard,A. Christensen,1
+F\u00e0bregas,A. R\u00fcdiger,1
+Azpilicueta,E. Hazard,1
+N. Kant\u00e9,D. Drinkwater,1
+A. Christensen,F\u00e0bregas,1
+Marcos Alonso,A. Christensen,1
+Azpilicueta,A. R\u00fcdiger,1
+Azpilicueta,\u00c1lvaro Morata,1
+E. Hazard,D. Drinkwater,1
+A. R\u00fcdiger,T. Courtois,1
+F\u00e0bregas,N. Kant\u00e9,1
+A. Christensen,D. Drinkwater,1
+V. Moses,\u00c1lvaro Morata,1
+A. R\u00fcdiger,N. Kant\u00e9,1
+A. R\u00fcdiger,Azpilicueta,1
+F\u00e0bregas,E. Hazard,1
+Marcos Alonso,E. Hazard,1
+N. Kant\u00e9,Marcos Alonso,1
+Azpilicueta,V. Moses,1

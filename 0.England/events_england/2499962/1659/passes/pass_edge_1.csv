@@ -1,0 +1,24 @@
+Source,Target,Weight
+R. Fraser,J. Ibe,2
+N. Ak\u00e9,S. Cook,2
+L. Cook,N. Ak\u00e9,2
+C. Daniels,N. Ak\u00e9,2
+S. Cook,R. Fraser,2
+J. Ibe,L. Cook,1
+R. Fraser,L. Cook,1
+D. Gosling,C. Daniels,1
+N. Ak\u00e9,J. Stanislas,1
+J. Ibe,R. Fraser,1
+L. Cook,C. Wilson,1
+S. Cook,S. Francis,1
+S. Francis,R. Fraser,1
+J. Stanislas,C. Daniels,1
+N. Ak\u00e9,C. Daniels,1
+C. Wilson,J. Stanislas,1
+C. Daniels,D. Gosling,1
+C. Daniels,J. Stanislas,1
+S. Francis,C. Daniels,1
+J. Stanislas,J. Ibe,1
+R. Fraser,C. Wilson,1
+J. Stanislas,S. Cook,1
+C. Wilson,L. Cook,1

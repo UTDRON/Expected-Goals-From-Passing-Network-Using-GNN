@@ -1,0 +1,53 @@
+Source,Target,Weight
+R. Bertrand,W. Hoedt,4
+R. Bertrand,S. Boufal,3
+W. Hoedt,S. Davis,3
+J. Pied,Oriol Romeu,3
+S. Boufal,W. Hoedt,3
+N. Redmond,J. Pied,3
+R. Bertrand,D. Tadi\u0107,3
+W. Hoedt,V. van Dijk,2
+D. Tadi\u0107,R. Bertrand,2
+S. Boufal,R. Bertrand,2
+F. Forster,R. Bertrand,2
+S. Boufal,S. Davis,2
+W. Hoedt,R. Bertrand,2
+V. van Dijk,J. Pied,2
+W. Hoedt,S. Boufal,2
+Oriol Romeu,S. Davis,2
+V. van Dijk,Oriol Romeu,2
+S. Davis,D. Tadi\u0107,2
+Oriol Romeu,R. Bertrand,2
+F. Forster,C. Austin,1
+D. Tadi\u0107,V. van Dijk,1
+C. Austin,J. Pied,1
+C. Austin,F. Forster,1
+W. Hoedt,Oriol Romeu,1
+J. Pied,R. Bertrand,1
+S. Davis,R. Bertrand,1
+Oriol Romeu,J. Pied,1
+D. Tadi\u0107,W. Hoedt,1
+C. Austin,Oriol Romeu,1
+V. van Dijk,W. Hoedt,1
+J. Pied,V. van Dijk,1
+R. Bertrand,C. Austin,1
+Oriol Romeu,F. Forster,1
+R. Bertrand,F. Forster,1
+S. Boufal,N. Redmond,1
+D. Tadi\u0107,S. Davis,1
+S. Davis,V. van Dijk,1
+S. Davis,J. Pied,1
+R. Bertrand,V. van Dijk,1
+J. Pied,W. Hoedt,1
+J. Pied,S. Boufal,1
+Oriol Romeu,C. Austin,1
+S. Boufal,D. Tadi\u0107,1
+D. Tadi\u0107,N. Redmond,1
+Oriol Romeu,S. Boufal,1
+S. Davis,N. Redmond,1
+D. Tadi\u0107,S. Boufal,1
+W. Hoedt,D. Tadi\u0107,1
+S. Davis,S. Boufal,1
+S. Boufal,Oriol Romeu,1
+V. van Dijk,S. Boufal,1
+S. Davis,W. Hoedt,1

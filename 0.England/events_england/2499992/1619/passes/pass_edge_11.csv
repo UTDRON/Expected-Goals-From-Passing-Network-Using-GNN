@@ -1,0 +1,24 @@
+Source,Target,Weight
+W. Hoedt,N. Redmond,2
+M. Lemina,W. Hoedt,2
+R. Bertrand,N. Redmond,2
+N. Redmond,R. Bertrand,2
+J. Stephens,A. McCarthy,1
+C\u00e9dric Soares,J. Sims,1
+S. Boufal,M. Lemina,1
+R. Bertrand,C\u00e9dric Soares,1
+C\u00e9dric Soares,J. Stephens,1
+M. Lemina,S. Boufal,1
+J. Sims,C\u00e9dric Soares,1
+D. Tadi\u0107,J. Sims,1
+C\u00e9dric Soares,M. Lemina,1
+J. Sims,D. Tadi\u0107,1
+S. Boufal,N. Redmond,1
+D. Tadi\u0107,C\u00e9dric Soares,1
+N. Redmond,M. Lemina,1
+A. McCarthy,W. Hoedt,1
+N. Redmond,J. Sims,1
+C\u00e9dric Soares,S. Boufal,1
+W. Hoedt,D. Tadi\u0107,1
+N. Redmond,S. Boufal,1
+S. Boufal,C\u00e9dric Soares,1

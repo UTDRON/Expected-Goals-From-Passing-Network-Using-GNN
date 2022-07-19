@@ -1,0 +1,23 @@
+Source,Target,Weight
+C. Clark,D. Yedlin,2
+C. Clark,Javi Manquillo,2
+R. Elliot,C. Atsu,1
+M. Diam\u00e9,Javi Manquillo,1
+D. Gayle,C. Atsu,1
+Javi Manquillo,M. Diam\u00e9,1
+Joselu,D. Gayle,1
+H. Saivet,D. Gayle,1
+C. Atsu,Javi Manquillo,1
+C. Atsu,Joselu,1
+D. Yedlin,C. Clark,1
+D. Gayle,M. Diam\u00e9,1
+Javi Manquillo,H. Saivet,1
+Javi Manquillo,R. Elliot,1
+Joselu,C. Atsu,1
+H. Saivet,Javi Manquillo,1
+Javi Manquillo,Joselu,1
+M. Diam\u00e9,D. Yedlin,1
+Javi Manquillo,C. Clark,1
+D. Gayle,C. Clark,1
+D. Yedlin,D. Gayle,1
+D. Yedlin,H. Saivet,1

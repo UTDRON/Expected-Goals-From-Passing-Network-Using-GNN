@@ -1,0 +1,73 @@
+Source,Target,Weight
+J. Holebas,A. Doucour\u00e9,5
+S. Okaka,A. Mariappa,4
+Richarlison,A. Doucour\u00e9,4
+A. Doucour\u00e9,Richarlison,3
+A. Doucour\u00e9,A. Mariappa,3
+A. Mariappa,S. Okaka,3
+Richarlison,J. Holebas,3
+M. Britos,E. Capoue,3
+J. Holebas,Richarlison,3
+A. Doucour\u00e9,D. Janmaat,2
+D. Janmaat,S. Pr\u00f6dl,2
+A. Mariappa,S. Pr\u00f6dl,2
+A. Doucour\u00e9,S. Pr\u00f6dl,2
+S. Pr\u00f6dl,A. Doucour\u00e9,2
+J. Holebas,E. Capoue,2
+T. Deeney,S. Okaka,2
+A. Doucour\u00e9,J. Holebas,2
+D. Janmaat,W. Hughes,2
+S. Pr\u00f6dl,E. Capoue,2
+D. Janmaat,A. Doucour\u00e9,2
+S. Pr\u00f6dl,A. Mariappa,2
+A. Doucour\u00e9,W. Hughes,2
+W. Hughes,J. Holebas,2
+S. Pr\u00f6dl,D. Janmaat,2
+W. Hughes,Richarlison,2
+E. Capoue,W. Hughes,2
+E. Capoue,J. Holebas,2
+J. Holebas,W. Hughes,2
+A. Mariappa,T. Deeney,2
+W. Hughes,S. Pr\u00f6dl,2
+T. Deeney,A. Doucour\u00e9,2
+S. Okaka,W. Hughes,2
+W. Hughes,D. Janmaat,2
+O. Karnezis,J. Holebas,1
+T. Deeney,O. Karnezis,1
+E. Capoue,M. Britos,1
+T. Deeney,W. Hughes,1
+O. Karnezis,M. Britos,1
+D. Janmaat,T. Deeney,1
+E. Capoue,S. Pr\u00f6dl,1
+A. Mariappa,W. Hughes,1
+S. Pr\u00f6dl,O. Karnezis,1
+E. Capoue,O. Karnezis,1
+Richarlison,D. Janmaat,1
+A. Mariappa,M. Britos,1
+E. Capoue,D. Janmaat,1
+S. Okaka,S. Pr\u00f6dl,1
+A. Mariappa,E. Capoue,1
+E. Capoue,Richarlison,1
+O. Karnezis,T. Deeney,1
+E. Capoue,S. Okaka,1
+W. Hughes,E. Capoue,1
+W. Hughes,S. Okaka,1
+S. Pr\u00f6dl,Richarlison,1
+S. Pr\u00f6dl,T. Deeney,1
+A. Doucour\u00e9,T. Deeney,1
+Richarlison,E. Capoue,1
+A. Doucour\u00e9,E. Capoue,1
+W. Hughes,A. Mariappa,1
+T. Deeney,Richarlison,1
+E. Capoue,A. Doucour\u00e9,1
+D. Janmaat,E. Capoue,1
+E. Capoue,A. Mariappa,1
+W. Hughes,O. Karnezis,1
+A. Doucour\u00e9,S. Okaka,1
+S. Pr\u00f6dl,W. Hughes,1
+S. Okaka,J. Holebas,1
+S. Okaka,T. Deeney,1
+W. Hughes,A. Doucour\u00e9,1
+O. Karnezis,S. Pr\u00f6dl,1
+A. Mariappa,J. Holebas,1
+Richarlison,S. Okaka,1

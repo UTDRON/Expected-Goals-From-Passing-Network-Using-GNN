@@ -1,0 +1,18 @@
+Source,Target,Weight
+J. Rodriguez,G. Barry,1
+Ahmed Hegazy,J. McClean,1
+G. Barry,J. McClean,1
+D. Sturridge,G. Barry,1
+Ahmed Hegazy,J. Rodriguez,1
+G. Barry,J. Rodriguez,1
+G. Barry,D. Sturridge,1
+J. McClean,C. Yacob,1
+J. Rodriguez,M. Phillips,1
+J. McClean,A. Nyom,1
+C. Yacob,J. Rodriguez,1
+A. Nyom,Ahmed Hegazy,1
+C. Dawson,Ahmed Hegazy,1
+J. Rodriguez,C. Dawson,1
+Ahmed Hegazy,M. Phillips,1
+J. Rodriguez,Ahmed Hegazy,1
+M. Phillips,G. Barry,1

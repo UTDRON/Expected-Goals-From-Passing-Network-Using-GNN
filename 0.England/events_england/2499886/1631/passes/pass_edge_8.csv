@@ -1,0 +1,26 @@
+Source,Target,Weight
+R. Mahrez,W. Ndidi,3
+R. Mahrez,D. Simpson,3
+D. Simpson,R. Mahrez,3
+H. Maguire,A. King,2
+A. King,C. Fuchs,2
+C. Fuchs,S. Okazaki,2
+R. Mahrez,H. Maguire,2
+W. Ndidi,B. Chilwell,1
+B. Chilwell,R. Mahrez,1
+C. Fuchs,W. Morgan,1
+S. Okazaki,C. Fuchs,1
+C. Fuchs,B. Chilwell,1
+W. Morgan,R. Mahrez,1
+W. Morgan,H. Maguire,1
+B. Chilwell,C. Fuchs,1
+H. Maguire,K. Schmeichel,1
+W. Ndidi,R. Mahrez,1
+S. Okazaki,W. Ndidi,1
+H. Maguire,R. Mahrez,1
+W. Ndidi,W. Morgan,1
+W. Ndidi,A. King,1
+K. Schmeichel,H. Maguire,1
+S. Okazaki,R. Mahrez,1
+W. Morgan,D. Simpson,1
+D. Simpson,W. Morgan,1

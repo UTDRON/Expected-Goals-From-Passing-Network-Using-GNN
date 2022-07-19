@@ -1,0 +1,64 @@
+Source,Target,Weight
+A. Laporte,F. Delph,9
+V. Kompany,Danilo,9
+F. Delph,A. Laporte,7
+Danilo,A. Laporte,6
+\u0130. G\u00fcndo\u011fan,V. Kompany,6
+A. Laporte,\u0130. G\u00fcndo\u011fan,5
+R. Sterling,David Silva,5
+F. Delph,\u0130. G\u00fcndo\u011fan,5
+V. Kompany,A. Laporte,5
+A. Laporte,V. Kompany,4
+David Silva,A. Laporte,4
+K. De Bruyne,F. Delph,4
+F. Delph,K. De Bruyne,4
+Danilo,V. Kompany,4
+F. Delph,David Silva,4
+R. Sterling,F. Delph,3
+\u0130. G\u00fcndo\u011fan,R. Sterling,3
+A. Laporte,K. De Bruyne,3
+Danilo,Bernardo Silva,3
+F. Delph,R. Sterling,3
+F. Delph,V. Kompany,3
+V. Kompany,\u0130. G\u00fcndo\u011fan,3
+David Silva,F. Delph,3
+K. De Bruyne,V. Kompany,2
+David Silva,Bernardo Silva,2
+A. Laporte,Danilo,2
+Bernardo Silva,Ederson,2
+R. Sterling,Gabriel Jesus,2
+Ederson,V. Kompany,2
+Gabriel Jesus,R. Sterling,2
+K. De Bruyne,R. Sterling,2
+K. De Bruyne,\u0130. G\u00fcndo\u011fan,2
+Danilo,F. Delph,2
+David Silva,R. Sterling,2
+\u0130. G\u00fcndo\u011fan,F. Delph,2
+A. Laporte,David Silva,2
+Bernardo Silva,K. De Bruyne,2
+\u0130. G\u00fcndo\u011fan,David Silva,2
+K. De Bruyne,Danilo,2
+R. Sterling,\u0130. G\u00fcndo\u011fan,1
+V. Kompany,David Silva,1
+David Silva,\u0130. G\u00fcndo\u011fan,1
+V. Kompany,Gabriel Jesus,1
+Ederson,F. Delph,1
+\u0130. G\u00fcndo\u011fan,A. Laporte,1
+Gabriel Jesus,Bernardo Silva,1
+V. Kompany,Bernardo Silva,1
+\u0130. G\u00fcndo\u011fan,K. De Bruyne,1
+V. Kompany,K. De Bruyne,1
+\u0130. G\u00fcndo\u011fan,Danilo,1
+\u0130. G\u00fcndo\u011fan,Gabriel Jesus,1
+Bernardo Silva,F. Delph,1
+R. Sterling,A. Laporte,1
+David Silva,Ederson,1
+Bernardo Silva,Gabriel Jesus,1
+K. De Bruyne,A. Laporte,1
+Ederson,A. Laporte,1
+Gabriel Jesus,K. De Bruyne,1
+A. Laporte,R. Sterling,1
+R. Sterling,Danilo,1
+Bernardo Silva,Danilo,1
+Danilo,Ederson,1
+Gabriel Jesus,F. Delph,1

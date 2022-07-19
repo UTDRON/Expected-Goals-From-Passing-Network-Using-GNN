@@ -1,0 +1,18 @@
+Source,Target,Weight
+D. Simpson,W. Morgan,2
+D. Simpson,E. Jakupovic,1
+Vicente Iborra,H. Maguire,1
+W. Morgan,Vicente Iborra,1
+C. Fuchs,Adrien Silva,1
+D. Gray,R. Mahrez,1
+W. Morgan,D. Simpson,1
+E. Jakupovic,R. Mahrez,1
+R. Mahrez,J. Vardy,1
+H. Maguire,Adrien Silva,1
+R. Mahrez,D. Simpson,1
+Adrien Silva,R. Mahrez,1
+D. Simpson,C. Fuchs,1
+Vicente Iborra,D. Simpson,1
+R. Mahrez,C. Fuchs,1
+Adrien Silva,D. Simpson,1
+C. Fuchs,D. Gray,1

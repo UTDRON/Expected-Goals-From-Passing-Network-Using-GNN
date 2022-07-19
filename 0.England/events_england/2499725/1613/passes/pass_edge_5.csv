@@ -1,0 +1,19 @@
+Source,Target,Weight
+Javi Manquillo,C. Mbemba,2
+C. Mbemba,J. Lascelles,2
+J. Lascelles,Javi Manquillo,1
+M. Ritchie,Mikel Merino,1
+Mikel Merino,Javi Manquillo,1
+C. Mbemba,Mikel Merino,1
+R. Elliot,C. Atsu,1
+Javi Manquillo,M. Ritchie,1
+Mikel Merino,C. Mbemba,1
+M. Ritchie,Ayoze P\u00e9rez,1
+J. Lascelles,C. Clark,1
+C. Clark,J. Lascelles,1
+J. Lascelles,R. Elliot,1
+Ayoze P\u00e9rez,C. Clark,1
+Mikel Merino,J. Lascelles,1
+J. Lascelles,C. Mbemba,1
+C. Atsu,M. Ritchie,1
+C. Mbemba,Javi Manquillo,1

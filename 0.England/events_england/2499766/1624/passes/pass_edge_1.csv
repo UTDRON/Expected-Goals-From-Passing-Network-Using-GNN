@@ -1,0 +1,24 @@
+Source,Target,Weight
+J. Vertonghen,C. Eriksen,3
+D. Alli,J. Vertonghen,2
+T. Alderweireld,K. Trippier,2
+K. Trippier,T. Alderweireld,2
+C. Eriksen,D. Alli,2
+T. Alderweireld,D. Alli,1
+J. Vertonghen,T. Alderweireld,1
+H. Lloris,E. Dier,1
+E. Dier,J. Vertonghen,1
+H. Kane,H. Lloris,1
+J. Vertonghen,E. Dier,1
+D. Alli,K. Trippier,1
+J. Vertonghen,H. Kane,1
+C. Eriksen,D. S\u00e1nchez,1
+K. Trippier,E. Dier,1
+C. Eriksen,J. Vertonghen,1
+E. Dier,C. Eriksen,1
+E. Dier,T. Alderweireld,1
+D. S\u00e1nchez,T. Alderweireld,1
+T. Alderweireld,E. Dier,1
+T. Alderweireld,J. Vertonghen,1
+E. Dier,M. Sissoko,1
+M. Sissoko,D. Alli,1

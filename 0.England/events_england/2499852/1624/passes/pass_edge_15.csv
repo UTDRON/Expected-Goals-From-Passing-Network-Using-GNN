@@ -1,0 +1,21 @@
+Source,Target,Weight
+D. S\u00e1nchez,S. Aurier,3
+E. Lamela,Fernando Llorente,2
+S. Aurier,D. S\u00e1nchez,2
+Fernando Llorente,E. Lamela,2
+D. Rose,E. Dier,1
+H. Lloris,J. Vertonghen,1
+D. Rose,Fernando Llorente,1
+D. S\u00e1nchez,H. Lloris,1
+S. Aurier,D. Alli,1
+E. Lamela,D. S\u00e1nchez,1
+E. Dier,D. Alli,1
+D. S\u00e1nchez,E. Lamela,1
+J. Vertonghen,D. Rose,1
+D. Alli,D. S\u00e1nchez,1
+D. Rose,J. Vertonghen,1
+Fernando Llorente,E. Dier,1
+J. Vertonghen,D. S\u00e1nchez,1
+D. Alli,D. Rose,1
+E. Dier,D. Rose,1
+S. Aurier,Fernando Llorente,1

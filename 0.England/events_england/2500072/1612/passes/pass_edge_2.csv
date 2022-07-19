@@ -1,0 +1,43 @@
+Source,Target,Weight
+V. van Dijk,J. Gomez,3
+V. van Dijk,J. Henderson,3
+T. Alexander-Arnold,J. Gomez,2
+Alberto Moreno,Mohamed Salah,2
+R. Klavan,G. Wijnaldum,2
+Mohamed Salah,R. Klavan,2
+J. Gomez,V. van Dijk,2
+R. Klavan,V. van Dijk,2
+Alberto Moreno,Roberto Firmino,2
+J. Gomez,Roberto Firmino,2
+J. Henderson,J. Gomez,1
+R. Klavan,Alberto Moreno,1
+J. Henderson,R. Klavan,1
+R. Klavan,D. Ings,1
+Roberto Firmino,Mohamed Salah,1
+G. Wijnaldum,J. Henderson,1
+D. Ings,R. Klavan,1
+Roberto Firmino,L. Karius,1
+Mohamed Salah,L. Karius,1
+G. Wijnaldum,Roberto Firmino,1
+Roberto Firmino,T. Alexander-Arnold,1
+J. Henderson,D. Ings,1
+L. Karius,R. Klavan,1
+Roberto Firmino,Alberto Moreno,1
+V. van Dijk,R. Klavan,1
+Mohamed Salah,Roberto Firmino,1
+V. van Dijk,T. Alexander-Arnold,1
+G. Wijnaldum,Alberto Moreno,1
+T. Alexander-Arnold,J. Henderson,1
+L. Karius,V. van Dijk,1
+D. Ings,Alberto Moreno,1
+J. Henderson,G. Wijnaldum,1
+J. Gomez,T. Alexander-Arnold,1
+R. Klavan,T. Alexander-Arnold,1
+T. Alexander-Arnold,V. van Dijk,1
+Roberto Firmino,V. van Dijk,1
+T. Alexander-Arnold,Mohamed Salah,1
+J. Gomez,J. Henderson,1
+D. Ings,T. Alexander-Arnold,1
+J. Henderson,V. van Dijk,1
+Roberto Firmino,D. Ings,1
+J. Henderson,Mohamed Salah,1

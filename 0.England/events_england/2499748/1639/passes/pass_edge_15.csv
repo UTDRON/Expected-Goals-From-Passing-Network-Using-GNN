@@ -1,0 +1,31 @@
+Source,Target,Weight
+P. Crouch,E. Choupo-Moting,3
+P. Crouch,E. Pieters,2
+E. Choupo-Moting,B. Martins Indi,2
+B. Martins Indi,D. Fletcher,2
+E. Pieters,Ramadan Sobhi,1
+K. Zouma,P. Crouch,1
+B. Martins Indi,J. Allen,1
+Ramadan Sobhi,D. Fletcher,1
+X. Shaqiri,E. Pieters,1
+D. Fletcher,Ramadan Sobhi,1
+Ramadan Sobhi,B. Martins Indi,1
+Ramadan Sobhi,P. Crouch,1
+X. Shaqiri,R. Shawcross,1
+D. Fletcher,X. Shaqiri,1
+E. Choupo-Moting,R. Shawcross,1
+E. Pieters,P. Crouch,1
+E. Pieters,J. Allen,1
+J. Allen,E. Choupo-Moting,1
+J. Allen,D. Fletcher,1
+E. Choupo-Moting,J. Allen,1
+J. Allen,P. Crouch,1
+B. Martins Indi,E. Pieters,1
+J. Allen,K. Zouma,1
+R. Shawcross,P. Crouch,1
+E. Pieters,B. Martins Indi,1
+R. Shawcross,J. Allen,1
+Ramadan Sobhi,J. Allen,1
+D. Fletcher,K. Zouma,1
+J. Allen,Ramadan Sobhi,1
+K. Zouma,Ramadan Sobhi,1

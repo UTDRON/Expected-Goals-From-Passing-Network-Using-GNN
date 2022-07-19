@@ -1,0 +1,33 @@
+Source,Target,Weight
+V. Moses,Azpilicueta,5
+Azpilicueta,A. Christensen,4
+A. Christensen,G. Cahill,4
+G. Cahill,Emerson,3
+N. Kant\u00e9,V. Moses,3
+N. Kant\u00e9,Azpilicueta,3
+Azpilicueta,V. Moses,3
+Emerson,E. Hazard,2
+T. Bakayoko,G. Cahill,2
+Azpilicueta,N. Kant\u00e9,2
+V. Moses,R. Barkley,2
+A. Christensen,Azpilicueta,2
+G. Cahill,A. Christensen,2
+G. Cahill,T. Bakayoko,2
+Azpilicueta,R. Barkley,1
+T. Bakayoko,N. Kant\u00e9,1
+A. Christensen,E. Hazard,1
+O. Giroud,N. Kant\u00e9,1
+Emerson,G. Cahill,1
+E. Hazard,V. Moses,1
+R. Barkley,N. Kant\u00e9,1
+R. Barkley,V. Moses,1
+N. Kant\u00e9,A. Christensen,1
+Emerson,N. Kant\u00e9,1
+E. Hazard,O. Giroud,1
+V. Moses,N. Kant\u00e9,1
+Azpilicueta,G. Cahill,1
+R. Barkley,Azpilicueta,1
+A. Christensen,V. Moses,1
+G. Cahill,T. Courtois,1
+T. Courtois,Emerson,1
+E. Hazard,A. Christensen,1

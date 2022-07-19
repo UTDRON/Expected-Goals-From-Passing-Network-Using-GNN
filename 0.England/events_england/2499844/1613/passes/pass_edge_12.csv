@@ -1,0 +1,27 @@
+Source,Target,Weight
+Mikel Merino,J. Shelvey,3
+Mikel Merino,D. Yedlin,3
+Mikel Merino,A. Mitrovi\u0107,3
+J. Shelvey,Mikel Merino,2
+A. Mitrovi\u0107,M. Ritchie,2
+Mikel Merino,Javi Manquillo,2
+D. Yedlin,Mikel Merino,2
+D. Yedlin,F. Lejeune,1
+M. Ritchie,A. Mitrovi\u0107,1
+Javi Manquillo,M. Ritchie,1
+Ayoze P\u00e9rez,Mikel Merino,1
+F. Lejeune,C. Clark,1
+A. Mitrovi\u0107,Mikel Merino,1
+R. Elliot,F. Lejeune,1
+M. Ritchie,J. Shelvey,1
+J. Shelvey,D. Gayle,1
+F. Lejeune,Mikel Merino,1
+C. Clark,Mikel Merino,1
+F. Lejeune,Ayoze P\u00e9rez,1
+M. Ritchie,Mikel Merino,1
+J. Shelvey,Javi Manquillo,1
+D. Gayle,Mikel Merino,1
+A. Mitrovi\u0107,J. Shelvey,1
+Javi Manquillo,F. Lejeune,1
+J. Shelvey,A. Mitrovi\u0107,1
+Javi Manquillo,R. Elliot,1

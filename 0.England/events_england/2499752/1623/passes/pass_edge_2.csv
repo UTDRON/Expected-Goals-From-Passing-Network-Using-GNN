@@ -1,0 +1,56 @@
+Source,Target,Weight
+M. Keane,Cuco Martina,4
+Cuco Martina,W. Rooney,3
+I. Gueye,A. Williams,3
+W. Rooney,I. Gueye,3
+A. Williams,I. Gueye,3
+Sandro,I. Gueye,3
+Sandro,Cuco Martina,2
+I. Gueye,M. Keane,2
+Sandro,M. Keane,2
+Cuco Martina,I. Gueye,2
+A. Williams,M. Keane,2
+Cuco Martina,J. Pickford,2
+J. Pickford,Sandro,2
+G. Sigur\u00f0sson,L. Baines,2
+Sandro,G. Sigur\u00f0sson,2
+D. Klaassen,G. Sigur\u00f0sson,2
+Cuco Martina,Sandro,2
+M. Keane,D. Klaassen,2
+I. Gueye,Cuco Martina,2
+G. Sigur\u00f0sson,Sandro,2
+D. Klaassen,W. Rooney,1
+A. Williams,J. Pickford,1
+J. Pickford,G. Sigur\u00f0sson,1
+J. Pickford,I. Gueye,1
+A. Williams,G. Sigur\u00f0sson,1
+M. Keane,A. Williams,1
+G. Sigur\u00f0sson,M. Keane,1
+D. Klaassen,Cuco Martina,1
+I. Gueye,J. Pickford,1
+L. Baines,G. Sigur\u00f0sson,1
+L. Baines,A. Williams,1
+A. Williams,M. Schneiderlin,1
+W. Rooney,M. Keane,1
+I. Gueye,L. Baines,1
+I. Gueye,M. Schneiderlin,1
+J. Pickford,A. Williams,1
+L. Baines,W. Rooney,1
+G. Sigur\u00f0sson,D. Klaassen,1
+I. Gueye,D. Klaassen,1
+W. Rooney,D. Klaassen,1
+A. Williams,L. Baines,1
+Cuco Martina,L. Baines,1
+D. Klaassen,I. Gueye,1
+G. Sigur\u00f0sson,A. Williams,1
+J. Pickford,D. Klaassen,1
+M. Schneiderlin,I. Gueye,1
+I. Gueye,Sandro,1
+I. Gueye,G. Sigur\u00f0sson,1
+M. Schneiderlin,J. Pickford,1
+L. Baines,Cuco Martina,1
+I. Gueye,W. Rooney,1
+D. Klaassen,A. Williams,1
+M. Keane,J. Pickford,1
+W. Rooney,Sandro,1
+L. Baines,Sandro,1

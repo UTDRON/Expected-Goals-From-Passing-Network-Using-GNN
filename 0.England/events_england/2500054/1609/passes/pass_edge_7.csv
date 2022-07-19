@@ -1,0 +1,16 @@
+Source,Target,Weight
+A. Lacazette,C. Chambers,2
+C. Chambers,A. Lacazette,2
+C. Chambers,P. Aubameyang,1
+G. Xhaka,A. Iwobi,1
+R. Holding,G. Xhaka,1
+G. Xhaka,S. Mustafi,1
+G. Xhaka,Nacho Monreal,1
+Nacho Monreal,G. Xhaka,1
+A. Iwobi,G. Xhaka,1
+G. Xhaka,C. Chambers,1
+P. Aubameyang,Nacho Monreal,1
+G. Xhaka,R. Holding,1
+Nacho Monreal,J. Willock,1
+J. Willock,G. Xhaka,1
+S. Mustafi,C. Chambers,1

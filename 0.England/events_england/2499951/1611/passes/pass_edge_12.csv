@@ -1,0 +1,31 @@
+Source,Target,Weight
+P. Pogba,A. Martial,3
+David de Gea,R. Lukaku,2
+A. Young,P. Pogba,2
+R. Lukaku,C. Smalling,2
+P. Pogba,N. Mati\u0107,2
+N. Mati\u0107,P. Pogba,2
+N. Mati\u0107,M. Fellaini,2
+M. Fellaini,P. Pogba,2
+M. Rashford,P. Pogba,2
+P. Pogba,A. Young,1
+C. Smalling,P. Jones,1
+A. Young,A. Martial,1
+A. Martial,A. Young,1
+A. Martial,N. Mati\u0107,1
+C. Smalling,M. Fellaini,1
+R. Lukaku,M. Fellaini,1
+M. Fellaini,A. Martial,1
+P. Jones,N. Mati\u0107,1
+A. Martial,David de Gea,1
+N. Mati\u0107,A. Young,1
+P. Pogba,R. Lukaku,1
+R. Lukaku,P. Pogba,1
+C. Smalling,N. Mati\u0107,1
+A. Young,N. Mati\u0107,1
+M. Fellaini,David de Gea,1
+A. Martial,C. Smalling,1
+P. Pogba,M. Rashford,1
+P. Pogba,M. Fellaini,1
+N. Mati\u0107,R. Lukaku,1
+M. Fellaini,M. Rashford,1

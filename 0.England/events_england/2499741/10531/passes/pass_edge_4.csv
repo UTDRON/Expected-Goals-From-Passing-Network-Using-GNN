@@ -1,0 +1,30 @@
+Source,Target,Weight
+S. Clucas,A. Mawson,3
+K. Naughton,L. Fer,3
+L. Fer,S. Clucas,2
+A. Mawson,T. Carroll,2
+K. Naughton,S. Clucas,2
+K. Naughton,J. Ayew,2
+J. Ayew,T. Carroll,1
+J. Ayew,M. van der Hoorn,1
+T. Carroll,K. Naughton,1
+T. Carroll,M. van der Hoorn,1
+J. Ayew,T. Abraham,1
+F. Fern\u00e1ndez,K. Naughton,1
+A. Mawson,J. Ayew,1
+T. Carroll,M. Olsson,1
+L. Fer,T. Carroll,1
+T. Carroll,S. Clucas,1
+M. van der Hoorn,A. Mawson,1
+M. van der Hoorn,F. Fern\u00e1ndez,1
+J. Ayew,K. Naughton,1
+T. Carroll,J. Ayew,1
+\u0141. Fabia\u0144ski,J. Ayew,1
+M. van der Hoorn,K. Naughton,1
+J. Ayew,M. Olsson,1
+A. Mawson,M. van der Hoorn,1
+M. Olsson,K. Naughton,1
+M. Olsson,\u0141. Fabia\u0144ski,1
+T. Abraham,K. Naughton,1
+S. Clucas,K. Naughton,1
+S. Clucas,T. Abraham,1

@@ -1,0 +1,67 @@
+Source,Target,Weight
+S. Boufal,N. Redmond,4
+N. Redmond,S. Boufal,4
+C. Austin,R. Bertrand,3
+R. Bertrand,N. Redmond,3
+N. Redmond,F. Forster,3
+C\u00e9dric Soares,V. van Dijk,3
+C\u00e9dric Soares,S. Long,3
+S. Boufal,C\u00e9dric Soares,2
+R. Bertrand,C. Austin,2
+S. Davis,Oriol Romeu,2
+W. Hoedt,V. van Dijk,2
+R. Bertrand,Oriol Romeu,2
+Oriol Romeu,S. Long,2
+R. Bertrand,S. Davis,2
+C. Austin,S. Davis,2
+R. Bertrand,D. Tadi\u0107,2
+S. Davis,R. Bertrand,2
+V. van Dijk,N. Redmond,2
+V. van Dijk,W. Hoedt,2
+F. Forster,S. Davis,2
+S. Long,V. van Dijk,2
+S. Long,R. Bertrand,2
+R. Bertrand,W. Hoedt,1
+N. Redmond,C. Austin,1
+V. van Dijk,S. Boufal,1
+S. Davis,N. Redmond,1
+W. Hoedt,S. Boufal,1
+Oriol Romeu,W. Hoedt,1
+S. Long,S. Boufal,1
+S. Davis,S. Long,1
+V. van Dijk,C\u00e9dric Soares,1
+F. Forster,S. Long,1
+N. Redmond,C\u00e9dric Soares,1
+D. Tadi\u0107,S. Boufal,1
+C. Austin,S. Boufal,1
+V. van Dijk,R. Bertrand,1
+S. Long,S. Davis,1
+Oriol Romeu,V. van Dijk,1
+S. Boufal,R. Bertrand,1
+D. Tadi\u0107,R. Bertrand,1
+W. Hoedt,S. Long,1
+S. Davis,W. Hoedt,1
+Oriol Romeu,C. Austin,1
+C\u00e9dric Soares,S. Boufal,1
+Oriol Romeu,R. Bertrand,1
+W. Hoedt,C\u00e9dric Soares,1
+V. van Dijk,S. Long,1
+W. Hoedt,R. Bertrand,1
+S. Long,W. Hoedt,1
+Oriol Romeu,C\u00e9dric Soares,1
+R. Bertrand,S. Long,1
+R. Bertrand,V. van Dijk,1
+S. Boufal,Oriol Romeu,1
+F. Forster,C. Austin,1
+R. Bertrand,C\u00e9dric Soares,1
+N. Redmond,R. Bertrand,1
+S. Boufal,C. Austin,1
+S. Long,Oriol Romeu,1
+S. Long,C\u00e9dric Soares,1
+W. Hoedt,F. Forster,1
+J. Ward-Prowse,C. Austin,1
+C\u00e9dric Soares,R. Bertrand,1
+S. Long,J. Ward-Prowse,1
+F. Forster,Oriol Romeu,1
+V. van Dijk,F. Forster,1
+S. Boufal,W. Hoedt,1

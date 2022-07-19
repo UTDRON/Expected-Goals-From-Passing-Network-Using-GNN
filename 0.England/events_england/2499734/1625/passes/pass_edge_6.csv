@@ -1,0 +1,51 @@
+Source,Target,Weight
+N. Otamendi,Fernandinho,7
+David Silva,N. Otamendi,4
+N. Otamendi,Gabriel Jesus,4
+L. San\u00e9,N. Otamendi,3
+Fernandinho,S. Ag\u00fcero,3
+K. De Bruyne,N. Otamendi,3
+Gabriel Jesus,David Silva,2
+L. San\u00e9,David Silva,2
+Fernandinho,L. San\u00e9,2
+K. De Bruyne,David Silva,2
+Gabriel Jesus,Fernandinho,2
+Gabriel Jesus,N. Otamendi,2
+N. Otamendi,V. Kompany,2
+N. Otamendi,David Silva,2
+David Silva,S. Ag\u00fcero,2
+S. Ag\u00fcero,N. Otamendi,2
+V. Kompany,K. De Bruyne,2
+Fernandinho,K. De Bruyne,2
+K. Walker,N. Otamendi,1
+N. Otamendi,S. Ag\u00fcero,1
+David Silva,L. San\u00e9,1
+Fernandinho,V. Kompany,1
+K. Walker,Gabriel Jesus,1
+Ederson,N. Otamendi,1
+J. Stones,N. Otamendi,1
+K. De Bruyne,K. Walker,1
+Ederson,L. San\u00e9,1
+S. Ag\u00fcero,L. San\u00e9,1
+S. Ag\u00fcero,V. Kompany,1
+V. Kompany,Gabriel Jesus,1
+V. Kompany,K. Walker,1
+S. Ag\u00fcero,David Silva,1
+David Silva,Gabriel Jesus,1
+V. Kompany,S. Ag\u00fcero,1
+K. Walker,Ederson,1
+N. Otamendi,J. Stones,1
+S. Ag\u00fcero,Gabriel Jesus,1
+Fernandinho,David Silva,1
+Ederson,V. Kompany,1
+Fernandinho,N. Otamendi,1
+David Silva,K. Walker,1
+Gabriel Jesus,V. Kompany,1
+N. Otamendi,Ederson,1
+S. Ag\u00fcero,K. Walker,1
+V. Kompany,Fernandinho,1
+V. Kompany,N. Otamendi,1
+K. Walker,K. De Bruyne,1
+Gabriel Jesus,K. De Bruyne,1
+David Silva,K. De Bruyne,1
+K. De Bruyne,V. Kompany,1

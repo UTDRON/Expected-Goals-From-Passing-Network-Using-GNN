@@ -1,0 +1,22 @@
+Source,Target,Weight
+J. King,C. Daniels,2
+C. Daniels,A. Begovi\u0107,2
+L. Cook,M. Pugh,1
+J. Defoe,C. Daniels,1
+J. Defoe,A. Surman,1
+S. Francis,J. Stanislas,1
+J. King,J. Defoe,1
+S. Francis,A. Smith,1
+A. Smith,C. Daniels,1
+M. Pugh,J. King,1
+J. Stanislas,J. King,1
+A. Begovi\u0107,S. Francis,1
+A. Surman,S. Francis,1
+A. Begovi\u0107,L. Cook,1
+S. Francis,J. King,1
+N. Ak\u00e9,S. Francis,1
+S. Francis,L. Cook,1
+C. Daniels,N. Ak\u00e9,1
+A. Smith,J. Defoe,1
+L. Cook,S. Francis,1
+C. Daniels,A. Smith,1

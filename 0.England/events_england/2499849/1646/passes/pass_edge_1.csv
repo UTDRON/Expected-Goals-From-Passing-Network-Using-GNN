@@ -1,0 +1,21 @@
+Source,Target,Weight
+S. Ward,B. Mee,2
+R. Brady,S. Ward,2
+R. Brady,B. Mee,2
+S. Ward,R. Brady,1
+B. Mee,S. Defour,1
+J. Tarkowski,N. Pope,1
+B. Mee,C. Wood,1
+B. Mee,J. Tarkowski,1
+S. Defour,P. Bardsley,1
+S. Defour,N. Pope,1
+P. Bardsley,R. Brady,1
+N. Pope,C. Wood,1
+N. Pope,R. Brady,1
+C. Wood,S. Ward,1
+J. Gu\u00f0munds\u00adson,R. Brady,1
+R. Brady,J. Tarkowski,1
+J. Tarkowski,J. Gu\u00f0munds\u00adson,1
+B. Mee,J. Cork,1
+J. Tarkowski,R. Brady,1
+J. Cork,S. Defour,1

@@ -1,0 +1,30 @@
+Source,Target,Weight
+C. Quaner,T. Smith,3
+L. Depoitre,A. Mooy,2
+T. Smith,C. Quaner,2
+R. van La Parra,T. Kongolo,1
+C. Schindler,J. L\u00f6ssl,1
+A. Mooy,C. Schindler,1
+T. Smith,L. Depoitre,1
+A. Mooy,T. Kongolo,1
+T. Smith,A. Mooy,1
+C. Schindler,T. Kongolo,1
+J. L\u00f6ssl,C. Schindler,1
+T. Smith,M. J\u00f8rgensen,1
+T. Kongolo,L. Depoitre,1
+L. Depoitre,T. Smith,1
+A. Mooy,T. Smith,1
+T. Smith,A. Pritchard,1
+C. Quaner,J. L\u00f6ssl,1
+C. Schindler,A. Mooy,1
+A. Mooy,L. Depoitre,1
+A. Mooy,R. van La Parra,1
+A. Pritchard,A. Mooy,1
+J. L\u00f6ssl,C. Quaner,1
+M. J\u00f8rgensen,L. Depoitre,1
+A. Mooy,C. Quaner,1
+T. Kongolo,C. Schindler,1
+T. Kongolo,A. Mooy,1
+C. Quaner,A. Mooy,1
+L. Depoitre,C. Quaner,1
+A. Mooy,M. J\u00f8rgensen,1

@@ -1,0 +1,14 @@
+Source,Target,Weight
+A. Smith,J. Ibe,1
+D. Gosling,C. Daniels,1
+A. Smith,S. Cook,1
+R. Fraser,L. Cook,1
+L. Cook,C. Daniels,1
+C. Daniels,R. Fraser,1
+J. Ibe,A. Smith,1
+S. Cook,C. Wilson,1
+C. Wilson,J. Ibe,1
+J. Ibe,S. Francis,1
+C. Daniels,A. Smith,1
+S. Francis,R. Fraser,1
+R. Fraser,D. Gosling,1

@@ -1,0 +1,18 @@
+Source,Target,Weight
+A. Knockaert,Bruno Saltor,3
+Bruno Saltor,A. Knockaert,2
+Bruno Saltor,G. Murray,2
+Bruno Saltor,S. Duffy,1
+A. Knockaert,D. Stephens,1
+G. Bong,S. March,1
+G. Murray,G. Bong,1
+D. Pr\u00f6pper,S. Duffy,1
+S. Duffy,A. Knockaert,1
+S. Duffy,S. March,1
+I. Brown,A. Knockaert,1
+S. March,A. Knockaert,1
+D. Stephens,Bruno Saltor,1
+A. Knockaert,S. Duffy,1
+S. Duffy,I. Brown,1
+G. Murray,I. Brown,1
+I. Brown,D. Pr\u00f6pper,1

@@ -1,0 +1,70 @@
+Source,Target,Weight
+R. van La Parra,A. Mooy,5
+J. Hogg,R. van La Parra,4
+A. Mooy,J. Hogg,3
+J. L\u00f6ssl,S. Mouni\u00e9,3
+A. Mooy,F. Hadergjonaj,3
+R. van La Parra,S. Malone,3
+S. Malone,J. Hogg,3
+J. L\u00f6ssl,C. Quaner,2
+C. Schindler,J. L\u00f6ssl,2
+M. J\u00f8rgensen,J. L\u00f6ssl,2
+S. Malone,C. Schindler,2
+C. Schindler,J. Hogg,2
+S. Malone,R. van La Parra,2
+S. Mouni\u00e9,R. van La Parra,2
+M. J\u00f8rgensen,J. Hogg,2
+F. Hadergjonaj,A. Sabiri,2
+J. Hogg,S. Mouni\u00e9,2
+A. Mooy,S. Mouni\u00e9,2
+S. Mouni\u00e9,F. Hadergjonaj,2
+J. Hogg,C. Schindler,2
+J. Hogg,A. Sabiri,2
+C. Schindler,M. J\u00f8rgensen,2
+M. J\u00f8rgensen,S. Malone,2
+M. J\u00f8rgensen,F. Hadergjonaj,2
+A. Sabiri,S. Malone,2
+A. Sabiri,J. Hogg,2
+F. Hadergjonaj,M. J\u00f8rgensen,2
+F. Hadergjonaj,S. Mouni\u00e9,2
+M. J\u00f8rgensen,A. Sabiri,2
+A. Mooy,M. J\u00f8rgensen,2
+C. Quaner,S. Malone,1
+F. Hadergjonaj,A. Mooy,1
+S. Malone,M. J\u00f8rgensen,1
+S. Mouni\u00e9,S. Malone,1
+R. van La Parra,J. Hogg,1
+S. Mouni\u00e9,J. Hogg,1
+J. Hogg,F. Hadergjonaj,1
+S. Malone,A. Mooy,1
+A. Sabiri,R. van La Parra,1
+S. Malone,A. Sabiri,1
+F. Hadergjonaj,J. L\u00f6ssl,1
+J. Hogg,M. J\u00f8rgensen,1
+C. Quaner,J. Hogg,1
+S. Mouni\u00e9,M. J\u00f8rgensen,1
+R. van La Parra,M. J\u00f8rgensen,1
+A. Sabiri,S. Mouni\u00e9,1
+A. Pritchard,J. L\u00f6ssl,1
+F. Hadergjonaj,C. Quaner,1
+J. L\u00f6ssl,S. Malone,1
+S. Malone,J. L\u00f6ssl,1
+A. Sabiri,C. Quaner,1
+A. Sabiri,F. Hadergjonaj,1
+J. Hogg,A. Mooy,1
+C. Quaner,A. Mooy,1
+A. Mooy,R. van La Parra,1
+S. Mouni\u00e9,J. L\u00f6ssl,1
+J. Hogg,S. Malone,1
+J. L\u00f6ssl,A. Sabiri,1
+A. Sabiri,C. Schindler,1
+C. Quaner,M. J\u00f8rgensen,1
+A. Mooy,S. Malone,1
+M. J\u00f8rgensen,A. Mooy,1
+C. Schindler,A. Mooy,1
+S. Mouni\u00e9,C. Schindler,1
+S. Mouni\u00e9,A. Mooy,1
+C. Quaner,A. Sabiri,1
+J. L\u00f6ssl,A. Pritchard,1
+S. Mouni\u00e9,C. Quaner,1
+S. Malone,S. Mouni\u00e9,1

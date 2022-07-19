@@ -1,0 +1,18 @@
+Source,Target,Weight
+Joselu,M. Ritchie,2
+F. Lejeune,D. Yedlin,2
+D. Yedlin,R. Elliot,1
+F. Lejeune,J. Murphy,1
+C. Clark,D. Yedlin,1
+M. Ritchie,C. Clark,1
+D. Gayle,I. Hayden,1
+R. Elliot,Joselu,1
+J. Murphy,I. Hayden,1
+I. Hayden,M. Ritchie,1
+D. Yedlin,D. Gayle,1
+I. Hayden,F. Lejeune,1
+D. Gayle,J. Shelvey,1
+M. Ritchie,F. Lejeune,1
+J. Shelvey,I. Hayden,1
+D. Yedlin,F. Lejeune,1
+I. Hayden,D. Gayle,1

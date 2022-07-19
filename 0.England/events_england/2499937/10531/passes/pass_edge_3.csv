@@ -1,0 +1,54 @@
+Source,Target,Weight
+M. Olsson,A. Mawson,3
+M. van der Hoorn,\u0141. Fabia\u0144ski,3
+F. Fern\u00e1ndez,M. van der Hoorn,3
+\u0141. Fabia\u0144ski,F. Fern\u00e1ndez,3
+A. Mawson,F. Fern\u00e1ndez,3
+S. Clucas,\u0141. Fabia\u0144ski,2
+L. Narsingh,M. van der Hoorn,2
+T. Carroll,J. Ayew,2
+\u0141. Fabia\u0144ski,M. Olsson,2
+\u0141. Fabia\u0144ski,A. Mawson,2
+S. Clucas,F. Fern\u00e1ndez,2
+N. Dyer,T. Carroll,2
+S. Clucas,M. Olsson,2
+F. Fern\u00e1ndez,N. Dyer,2
+F. Fern\u00e1ndez,S. Clucas,2
+N. Dyer,Renato Sanches,2
+T. Carroll,L. Narsingh,1
+J. Ayew,L. Narsingh,1
+Renato Sanches,\u0141. Fabia\u0144ski,1
+\u0141. Fabia\u0144ski,T. Carroll,1
+M. Olsson,\u0141. Fabia\u0144ski,1
+M. Olsson,S. Clucas,1
+J. Ayew,S. Clucas,1
+\u0141. Fabia\u0144ski,L. Narsingh,1
+A. Mawson,S. Clucas,1
+F. Fern\u00e1ndez,J. Ayew,1
+M. van der Hoorn,N. Dyer,1
+M. Olsson,M. van der Hoorn,1
+T. Carroll,\u0141. Fabia\u0144ski,1
+S. Clucas,L. Narsingh,1
+M. van der Hoorn,L. Narsingh,1
+J. Ayew,N. Dyer,1
+\u0141. Fabia\u0144ski,J. Ayew,1
+N. Dyer,\u0141. Fabia\u0144ski,1
+Renato Sanches,M. van der Hoorn,1
+T. Carroll,M. van der Hoorn,1
+M. Olsson,T. Carroll,1
+Renato Sanches,L. Narsingh,1
+M. van der Hoorn,Renato Sanches,1
+L. Narsingh,Renato Sanches,1
+S. Clucas,T. Carroll,1
+Renato Sanches,A. Mawson,1
+L. Narsingh,N. Dyer,1
+M. van der Hoorn,S. Clucas,1
+T. Carroll,Renato Sanches,1
+N. Dyer,M. Olsson,1
+M. van der Hoorn,T. Carroll,1
+L. Narsingh,S. Clucas,1
+A. Mawson,\u0141. Fabia\u0144ski,1
+Renato Sanches,N. Dyer,1
+A. Mawson,M. Olsson,1
+J. Ayew,Renato Sanches,1
+Renato Sanches,S. Clucas,1

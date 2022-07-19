@@ -1,0 +1,75 @@
+Source,Target,Weight
+P. Jones,N. Mati\u0107,8
+M. Darmian,P. Jones,6
+N. Mati\u0107,M. Darmian,6
+N. Mati\u0107,P. Jones,6
+C. Smalling,P. Jones,6
+A. Valencia,A. Young,5
+A. Young,A. Valencia,5
+H. Mkhitaryan,A. Young,5
+A. Young,H. Mkhitaryan,4
+P. Jones,C. Smalling,4
+A. Young,Ander Herrera,4
+A. Martial,N. Mati\u0107,4
+A. Valencia,Ander Herrera,4
+H. Mkhitaryan,Ander Herrera,4
+P. Jones,Ander Herrera,4
+N. Mati\u0107,A. Martial,4
+Ander Herrera,N. Mati\u0107,4
+H. Mkhitaryan,N. Mati\u0107,4
+N. Mati\u0107,H. Mkhitaryan,3
+Ander Herrera,C. Smalling,3
+C. Smalling,A. Valencia,3
+Ander Herrera,A. Martial,3
+P. Jones,M. Darmian,3
+A. Valencia,H. Mkhitaryan,3
+A. Young,R. Lukaku,3
+M. Darmian,N. Mati\u0107,3
+Ander Herrera,A. Valencia,3
+R. Lukaku,A. Young,3
+N. Mati\u0107,Ander Herrera,3
+Ander Herrera,A. Young,3
+A. Martial,Ander Herrera,2
+Ander Herrera,H. Mkhitaryan,2
+H. Mkhitaryan,A. Valencia,2
+A. Valencia,C. Smalling,2
+P. Jones,David de Gea,2
+M. Darmian,David de Gea,2
+Ander Herrera,M. Darmian,2
+Ander Herrera,David de Gea,2
+A. Valencia,M. Darmian,2
+Ander Herrera,P. Jones,2
+N. Mati\u0107,A. Valencia,2
+M. Darmian,Ander Herrera,2
+N. Mati\u0107,R. Lukaku,2
+A. Young,M. Darmian,2
+M. Darmian,A. Martial,2
+A. Young,N. Mati\u0107,2
+David de Gea,A. Young,2
+M. Darmian,A. Young,1
+A. Martial,H. Mkhitaryan,1
+A. Martial,David de Gea,1
+David de Gea,A. Martial,1
+M. Darmian,A. Valencia,1
+David de Gea,A. Valencia,1
+R. Lukaku,A. Valencia,1
+David de Gea,R. Lukaku,1
+David de Gea,C. Smalling,1
+R. Lukaku,M. Darmian,1
+Ander Herrera,R. Lukaku,1
+C. Smalling,Ander Herrera,1
+M. Darmian,H. Mkhitaryan,1
+R. Lukaku,N. Mati\u0107,1
+A. Valencia,A. Martial,1
+R. Lukaku,P. Jones,1
+David de Gea,Ander Herrera,1
+A. Martial,C. Smalling,1
+A. Valencia,David de Gea,1
+A. Martial,M. Darmian,1
+R. Lukaku,H. Mkhitaryan,1
+A. Martial,A. Young,1
+A. Valencia,R. Lukaku,1
+David de Gea,M. Darmian,1
+P. Jones,A. Valencia,1
+C. Smalling,David de Gea,1
+David de Gea,P. Jones,1

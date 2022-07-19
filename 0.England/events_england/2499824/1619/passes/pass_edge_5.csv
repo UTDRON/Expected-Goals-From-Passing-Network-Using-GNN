@@ -1,0 +1,26 @@
+Source,Target,Weight
+R. Bertrand,N. Redmond,2
+Oriol Romeu,S. Boufal,2
+S. Boufal,D. Tadi\u0107,2
+D. Tadi\u0107,M. Yoshida,2
+S. Boufal,R. Bertrand,1
+M. Yoshida,R. Bertrand,1
+D. Tadi\u0107,Oriol Romeu,1
+C\u00e9dric Soares,S. Boufal,1
+C\u00e9dric Soares,M. Yoshida,1
+R. Bertrand,C\u00e9dric Soares,1
+N. Redmond,M. Yoshida,1
+D. Tadi\u0107,R. Bertrand,1
+N. Redmond,R. Bertrand,1
+M. Yoshida,C\u00e9dric Soares,1
+S. Boufal,S. Davis,1
+R. Bertrand,S. Boufal,1
+C\u00e9dric Soares,S. Davis,1
+D. Tadi\u0107,F. Forster,1
+S. Davis,Oriol Romeu,1
+S. Davis,R. Bertrand,1
+S. Davis,D. Tadi\u0107,1
+F. Forster,D. Tadi\u0107,1
+M. Yoshida,D. Tadi\u0107,1
+Oriol Romeu,C\u00e9dric Soares,1
+M. Yoshida,Oriol Romeu,1

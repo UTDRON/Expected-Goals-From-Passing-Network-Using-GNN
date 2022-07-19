@@ -1,0 +1,13 @@
+Source,Target,Weight
+P. Billing,T. Kongolo,2
+T. Kongolo,P. Billing,1
+T. Kongolo,A. Pritchard,1
+C. Quaner,F. Hadergjonaj,1
+M. J\u00f8rgensen,C. Quaner,1
+T. Kongolo,C. Quaner,1
+S. Mouni\u00e9,P. Billing,1
+C. Quaner,T. Kongolo,1
+A. Pritchard,M. J\u00f8rgensen,1
+A. Mooy,C. Quaner,1
+F. Hadergjonaj,A. Mooy,1
+T. Kongolo,S. Mouni\u00e9,1

@@ -1,0 +1,15 @@
+Source,Target,Weight
+Bruno Saltor,S. March,2
+J. Izquierdo,S. Duffy,1
+S. March,T. Hemed,1
+G. Bong,J. Izquierdo,1
+I. Brown,S. March,1
+S. Duffy,L. Dunk,1
+L. Dunk,D. Stephens,1
+T. Hemed,I. Brown,1
+L. Dunk,J. Izquierdo,1
+J. Izquierdo,G. Bong,1
+G. Bong,L. Dunk,1
+S. Duffy,Bruno Saltor,1
+D. Stephens,G. Bong,1
+S. March,Bruno Saltor,1

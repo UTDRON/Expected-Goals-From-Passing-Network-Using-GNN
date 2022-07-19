@@ -1,0 +1,61 @@
+Source,Target,Weight
+C. L\u00f6we,C. Schindler,3
+C. Schindler,C. L\u00f6we,3
+J. L\u00f6ssl,E. Kachunga,3
+A. Mooy,C. Schindler,3
+M. J\u00f8rgensen,J. L\u00f6ssl,3
+J. Hogg,A. Mooy,3
+C. Schindler,J. Hogg,3
+C. Schindler,J. L\u00f6ssl,3
+E. Kachunga,T. Smith,2
+J. L\u00f6ssl,A. Sabiri,2
+A. Sabiri,A. Mooy,2
+T. Smith,A. Sabiri,2
+J. L\u00f6ssl,M. J\u00f8rgensen,2
+C. Schindler,A. Mooy,2
+A. Mooy,E. Kachunga,2
+E. Kachunga,A. Mooy,2
+T. Ince,J. Hogg,2
+J. L\u00f6ssl,C. Schindler,2
+A. Mooy,T. Ince,2
+E. Kachunga,J. L\u00f6ssl,2
+M. J\u00f8rgensen,C. Schindler,2
+R. van La Parra,A. Mooy,2
+C. Schindler,E. Kachunga,1
+A. Sabiri,C. Schindler,1
+M. J\u00f8rgensen,C. L\u00f6we,1
+L. Depoitre,E. Kachunga,1
+C. L\u00f6we,L. Depoitre,1
+A. Sabiri,L. Depoitre,1
+A. Mooy,R. van La Parra,1
+J. Hogg,M. J\u00f8rgensen,1
+J. Hogg,E. Kachunga,1
+J. Hogg,C. Schindler,1
+E. Kachunga,C. L\u00f6we,1
+E. Kachunga,L. Depoitre,1
+L. Depoitre,C. Schindler,1
+T. Ince,C. L\u00f6we,1
+C. Schindler,T. Ince,1
+A. Sabiri,M. J\u00f8rgensen,1
+T. Smith,C. Schindler,1
+C. L\u00f6we,J. Hogg,1
+C. L\u00f6we,T. Ince,1
+C. Schindler,M. J\u00f8rgensen,1
+T. Smith,J. Hogg,1
+A. Mooy,A. Sabiri,1
+J. L\u00f6ssl,C. L\u00f6we,1
+R. van La Parra,T. Smith,1
+C. L\u00f6we,R. van La Parra,1
+J. Hogg,R. van La Parra,1
+A. Mooy,J. Hogg,1
+J. Hogg,C. L\u00f6we,1
+A. Mooy,C. L\u00f6we,1
+C. L\u00f6we,M. J\u00f8rgensen,1
+A. Mooy,M. J\u00f8rgensen,1
+T. Smith,J. L\u00f6ssl,1
+M. J\u00f8rgensen,J. Hogg,1
+C. L\u00f6we,J. L\u00f6ssl,1
+J. Hogg,T. Smith,1
+L. Depoitre,M. J\u00f8rgensen,1
+M. J\u00f8rgensen,T. Ince,1
+T. Ince,A. Mooy,1

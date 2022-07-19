@@ -1,0 +1,16 @@
+Source,Target,Weight
+W. Hoedt,S. Boufal,3
+S. Boufal,R. Bertrand,3
+R. Bertrand,W. Hoedt,2
+R. Bertrand,P. H\u00f8jbjerg,1
+V. van Dijk,P. H\u00f8jbjerg,1
+F. Forster,W. Hoedt,1
+S. Boufal,J. Ward-Prowse,1
+V. van Dijk,R. Bertrand,1
+P. H\u00f8jbjerg,W. Hoedt,1
+R. Bertrand,S. Boufal,1
+P. H\u00f8jbjerg,S. Davis,1
+W. Hoedt,F. Forster,1
+S. Davis,C\u00e9dric Soares,1
+C\u00e9dric Soares,V. van Dijk,1
+J. Ward-Prowse,C\u00e9dric Soares,1

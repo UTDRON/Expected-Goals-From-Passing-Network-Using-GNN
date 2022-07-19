@@ -1,0 +1,45 @@
+Source,Target,Weight
+J. Shelvey,M. Ritchie,5
+D. Yedlin,F. Lejeune,4
+M. Ritchie,D. Yedlin,3
+M. Ritchie,J. Shelvey,3
+D. Yedlin,M. Ritchie,3
+F. Lejeune,D. Gayle,3
+R. Elliot,Joselu,3
+J. Shelvey,J. Murphy,2
+F. Lejeune,J. Murphy,2
+Joselu,D. Yedlin,2
+F. Lejeune,J. Shelvey,2
+M. Ritchie,F. Lejeune,2
+D. Gayle,F. Lejeune,2
+Joselu,Javi Manquillo,2
+M. Diam\u00e9,J. Murphy,2
+C. Clark,R. Elliot,1
+R. Elliot,F. Lejeune,1
+M. Diam\u00e9,F. Lejeune,1
+J. Murphy,R. Elliot,1
+C. Clark,M. Diam\u00e9,1
+F. Lejeune,D. Yedlin,1
+J. Murphy,M. Ritchie,1
+M. Ritchie,R. Elliot,1
+Javi Manquillo,C. Clark,1
+F. Lejeune,M. Ritchie,1
+J. Murphy,J. Shelvey,1
+D. Gayle,J. Shelvey,1
+D. Yedlin,C. Clark,1
+Javi Manquillo,Joselu,1
+M. Ritchie,M. Diam\u00e9,1
+Javi Manquillo,M. Diam\u00e9,1
+J. Shelvey,F. Lejeune,1
+D. Yedlin,Joselu,1
+J. Murphy,Javi Manquillo,1
+Javi Manquillo,F. Lejeune,1
+J. Shelvey,D. Yedlin,1
+F. Lejeune,R. Elliot,1
+F. Lejeune,Javi Manquillo,1
+J. Murphy,Joselu,1
+D. Gayle,D. Yedlin,1
+Joselu,D. Gayle,1
+J. Murphy,D. Yedlin,1
+C. Clark,J. Shelvey,1
+F. Lejeune,C. Clark,1

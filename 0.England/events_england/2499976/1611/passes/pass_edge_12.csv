@@ -1,0 +1,42 @@
+Source,Target,Weight
+N. Mati\u0107,S. McTominay,4
+L. Shaw,A. S\u00e1nchez,4
+A. S\u00e1nchez,N. Mati\u0107,3
+M. Rojo,N. Mati\u0107,3
+A. Valencia,N. Mati\u0107,3
+N. Mati\u0107,Juan Mata,3
+N. Mati\u0107,A. Valencia,3
+C. Smalling,A. Valencia,2
+Juan Mata,S. McTominay,2
+A. S\u00e1nchez,M. Rojo,2
+S. McTominay,C. Smalling,2
+A. S\u00e1nchez,L. Shaw,2
+A. Valencia,Juan Mata,2
+M. Rojo,A. S\u00e1nchez,2
+Juan Mata,R. Lukaku,1
+C. Smalling,N. Mati\u0107,1
+L. Shaw,J. Lingard,1
+J. Lingard,N. Mati\u0107,1
+Juan Mata,L. Shaw,1
+L. Shaw,M. Rojo,1
+S. McTominay,A. S\u00e1nchez,1
+A. Valencia,A. S\u00e1nchez,1
+J. Lingard,A. S\u00e1nchez,1
+S. McTominay,M. Rojo,1
+C. Smalling,S. McTominay,1
+M. Rojo,C. Smalling,1
+N. Mati\u0107,L. Shaw,1
+Juan Mata,A. Valencia,1
+J. Lingard,M. Rojo,1
+A. Valencia,J. Lingard,1
+S. McTominay,J. Lingard,1
+A. S\u00e1nchez,R. Lukaku,1
+J. Lingard,S. McTominay,1
+C. Smalling,M. Rojo,1
+A. S\u00e1nchez,C. Smalling,1
+S. McTominay,L. Shaw,1
+S. McTominay,A. Valencia,1
+S. McTominay,David de Gea,1
+N. Mati\u0107,J. Lingard,1
+R. Lukaku,N. Mati\u0107,1
+David de Gea,C. Smalling,1

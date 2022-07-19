@@ -1,0 +1,90 @@
+Source,Target,Weight
+J. Hogg,T. Smith,7
+T. Smith,C. Quaner,6
+C. Quaner,F. Hadergjonaj,5
+C. Quaner,L. Depoitre,5
+M. J\u00f8rgensen,J. Hogg,5
+T. Kongolo,J. Hogg,5
+R. van La Parra,J. Hogg,4
+J. Hogg,C. Schindler,4
+L. Depoitre,F. Hadergjonaj,4
+T. Kongolo,C. Schindler,4
+F. Hadergjonaj,J. Hogg,4
+L. Depoitre,J. Hogg,4
+J. Hogg,R. van La Parra,4
+C. Schindler,R. van La Parra,4
+F. Hadergjonaj,T. Kongolo,4
+T. Kongolo,R. van La Parra,4
+J. Hogg,M. J\u00f8rgensen,4
+J. Hogg,P. Billing,4
+C. Quaner,T. Smith,4
+P. Billing,F. Hadergjonaj,3
+T. Kongolo,L. Depoitre,3
+F. Hadergjonaj,T. Smith,3
+L. Depoitre,P. Billing,3
+L. Depoitre,T. Smith,3
+L. Depoitre,C. Quaner,3
+F. Hadergjonaj,L. Depoitre,3
+R. van La Parra,T. Kongolo,3
+R. van La Parra,P. Billing,3
+P. Billing,R. van La Parra,3
+C. Schindler,T. Kongolo,3
+J. Hogg,T. Kongolo,3
+T. Smith,J. Hogg,3
+T. Smith,F. Hadergjonaj,3
+J. L\u00f6ssl,L. Depoitre,3
+F. Hadergjonaj,C. Quaner,3
+R. van La Parra,C. Schindler,3
+C. Schindler,J. Hogg,3
+C. Schindler,P. Billing,3
+R. van La Parra,L. Depoitre,3
+T. Smith,R. van La Parra,2
+C. Schindler,J. L\u00f6ssl,2
+P. Billing,C. Quaner,2
+M. J\u00f8rgensen,C. Quaner,2
+L. Depoitre,A. Mooy,2
+M. J\u00f8rgensen,C. Schindler,2
+T. Smith,L. Depoitre,2
+M. J\u00f8rgensen,T. Kongolo,2
+A. Mooy,F. Hadergjonaj,2
+T. Kongolo,M. J\u00f8rgensen,2
+C. Schindler,L. Depoitre,2
+P. Billing,T. Kongolo,2
+L. Depoitre,R. van La Parra,2
+A. Mooy,J. Hogg,2
+J. L\u00f6ssl,F. Hadergjonaj,2
+J. Hogg,L. Depoitre,2
+J. Hogg,F. Hadergjonaj,2
+P. Billing,C. Schindler,2
+C. Quaner,J. Hogg,2
+T. Smith,M. J\u00f8rgensen,2
+M. J\u00f8rgensen,J. L\u00f6ssl,2
+P. Billing,J. Hogg,2
+J. Hogg,C. Quaner,2
+T. Smith,T. Kongolo,1
+L. Depoitre,M. J\u00f8rgensen,1
+T. Kongolo,J. L\u00f6ssl,1
+C. Quaner,R. van La Parra,1
+J. L\u00f6ssl,M. J\u00f8rgensen,1
+F. Hadergjonaj,P. Billing,1
+R. van La Parra,T. Smith,1
+R. van La Parra,J. L\u00f6ssl,1
+T. Smith,P. Billing,1
+R. van La Parra,A. Mooy,1
+A. Mooy,R. van La Parra,1
+J. L\u00f6ssl,T. Smith,1
+F. Hadergjonaj,R. van La Parra,1
+J. Hogg,A. Mooy,1
+F. Hadergjonaj,J. L\u00f6ssl,1
+L. Depoitre,C. Schindler,1
+L. Depoitre,T. Kongolo,1
+F. Hadergjonaj,A. Mooy,1
+A. Mooy,T. Kongolo,1
+F. Hadergjonaj,M. J\u00f8rgensen,1
+P. Billing,M. J\u00f8rgensen,1
+R. van La Parra,F. Hadergjonaj,1
+R. van La Parra,M. J\u00f8rgensen,1
+T. Kongolo,T. Smith,1
+C. Quaner,A. Mooy,1
+J. Hogg,J. L\u00f6ssl,1
+J. L\u00f6ssl,C. Schindler,1

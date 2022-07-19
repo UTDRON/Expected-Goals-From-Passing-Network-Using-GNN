@@ -1,0 +1,82 @@
+Source,Target,Weight
+T. Smith,J. Hogg,5
+L. Depoitre,T. Smith,4
+L. Depoitre,R. van La Parra,4
+T. Smith,L. Depoitre,4
+R. van La Parra,T. Smith,4
+J. Hogg,T. Smith,4
+D. Williams,J. Hogg,3
+T. Smith,D. Williams,3
+J. L\u00f6ssl,L. Depoitre,3
+A. Mooy,C. L\u00f6we,3
+A. Mooy,T. Smith,3
+C. Schindler,T. Ince,3
+J. Hogg,C. Schindler,3
+D. Williams,R. van La Parra,3
+M. J\u00f8rgensen,D. Williams,3
+J. Hogg,R. van La Parra,3
+R. van La Parra,L. Depoitre,3
+D. Williams,T. Smith,3
+L. Depoitre,D. Williams,3
+A. Mooy,D. Williams,3
+C. Schindler,T. Smith,2
+T. Smith,R. van La Parra,2
+D. Williams,E. Kachunga,2
+L. Depoitre,M. J\u00f8rgensen,2
+C. L\u00f6we,T. Ince,2
+D. Williams,A. Mooy,2
+T. Smith,A. Mooy,2
+T. Ince,J. Hogg,2
+C. Schindler,C. L\u00f6we,2
+C. Schindler,A. Mooy,2
+A. Mooy,J. Hogg,2
+J. Hogg,E. Kachunga,2
+A. Mooy,C. Schindler,2
+E. Kachunga,J. Hogg,2
+R. van La Parra,C. Schindler,2
+C. L\u00f6we,A. Mooy,2
+T. Smith,M. J\u00f8rgensen,2
+L. Depoitre,A. Mooy,2
+J. Hogg,A. Mooy,2
+T. Smith,J. L\u00f6ssl,2
+A. Mooy,L. Depoitre,2
+T. Ince,A. Mooy,2
+J. Hogg,D. Williams,2
+R. van La Parra,J. L\u00f6ssl,2
+L. Depoitre,C. L\u00f6we,1
+J. Hogg,L. Depoitre,1
+E. Kachunga,D. Williams,1
+R. van La Parra,M. J\u00f8rgensen,1
+M. J\u00f8rgensen,J. Hogg,1
+M. J\u00f8rgensen,T. Smith,1
+R. van La Parra,J. Hogg,1
+C. L\u00f6we,M. J\u00f8rgensen,1
+D. Williams,L. Depoitre,1
+E. Kachunga,R. van La Parra,1
+D. Williams,C. Schindler,1
+C. Schindler,M. J\u00f8rgensen,1
+T. Ince,M. J\u00f8rgensen,1
+R. van La Parra,D. Williams,1
+M. J\u00f8rgensen,E. Kachunga,1
+M. J\u00f8rgensen,L. Depoitre,1
+E. Kachunga,C. Schindler,1
+M. J\u00f8rgensen,C. Schindler,1
+C. L\u00f6we,L. Depoitre,1
+T. Smith,C. Schindler,1
+D. Williams,J. L\u00f6ssl,1
+T. Ince,C. Schindler,1
+J. Hogg,C. L\u00f6we,1
+C. Schindler,R. van La Parra,1
+J. L\u00f6ssl,J. Hogg,1
+T. Ince,L. Depoitre,1
+M. J\u00f8rgensen,A. Mooy,1
+A. Mooy,T. Ince,1
+J. L\u00f6ssl,R. van La Parra,1
+C. Schindler,D. Williams,1
+J. Hogg,T. Ince,1
+E. Kachunga,A. Mooy,1
+A. Mooy,R. van La Parra,1
+C. L\u00f6we,J. Hogg,1
+R. van La Parra,A. Mooy,1
+D. Williams,M. J\u00f8rgensen,1
+L. Depoitre,J. Hogg,1

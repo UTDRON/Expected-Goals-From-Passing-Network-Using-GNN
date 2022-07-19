@@ -1,0 +1,27 @@
+Source,Target,Weight
+T. Deeney,A. Doucour\u00e9,2
+A. Doucour\u00e9,Deulofeu,1
+Deulofeu,T. Deeney,1
+R. Pereyra,A. Mariappa,1
+S. Pr\u00f6dl,R. Pereyra,1
+J. Holebas,S. Pr\u00f6dl,1
+J. Holebas,E. Capoue,1
+O. Karnezis,T. Deeney,1
+R. Pereyra,J. Holebas,1
+A. Gray,R. Pereyra,1
+E. Capoue,A. Mariappa,1
+Deulofeu,C. Kabasele,1
+S. Pr\u00f6dl,O. Karnezis,1
+E. Capoue,Deulofeu,1
+C. Kabasele,S. Pr\u00f6dl,1
+T. Deeney,A. Gray,1
+T. Deeney,J. Holebas,1
+R. Pereyra,S. Pr\u00f6dl,1
+A. Doucour\u00e9,E. Capoue,1
+A. Doucour\u00e9,R. Pereyra,1
+A. Mariappa,T. Deeney,1
+A. Mariappa,R. Pereyra,1
+J. Holebas,T. Deeney,1
+E. Capoue,A. Doucour\u00e9,1
+S. Pr\u00f6dl,T. Deeney,1
+T. Deeney,E. Capoue,1

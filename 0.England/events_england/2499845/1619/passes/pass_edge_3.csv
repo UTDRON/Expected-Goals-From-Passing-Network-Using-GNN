@@ -1,0 +1,34 @@
+Source,Target,Weight
+S. Davis,V. van Dijk,3
+V. van Dijk,S. Davis,3
+F. Forster,W. Hoedt,2
+P. H\u00f8jbjerg,R. Bertrand,2
+P. H\u00f8jbjerg,S. Davis,2
+J. Ward-Prowse,C\u00e9dric Soares,2
+S. Davis,P. H\u00f8jbjerg,2
+C\u00e9dric Soares,C. Austin,2
+P. H\u00f8jbjerg,W. Hoedt,2
+C\u00e9dric Soares,J. Ward-Prowse,2
+W. Hoedt,F. Forster,2
+R. Bertrand,J. Ward-Prowse,1
+W. Hoedt,R. Bertrand,1
+C\u00e9dric Soares,W. Hoedt,1
+R. Bertrand,P. H\u00f8jbjerg,1
+R. Bertrand,C. Austin,1
+V. van Dijk,F. Forster,1
+S. Davis,C\u00e9dric Soares,1
+V. van Dijk,P. H\u00f8jbjerg,1
+W. Hoedt,V. van Dijk,1
+R. Bertrand,D. Tadi\u0107,1
+C. Austin,P. H\u00f8jbjerg,1
+W. Hoedt,P. H\u00f8jbjerg,1
+S. Davis,W. Hoedt,1
+C. Austin,V. van Dijk,1
+C. Austin,C\u00e9dric Soares,1
+J. Ward-Prowse,S. Davis,1
+F. Forster,S. Davis,1
+P. H\u00f8jbjerg,V. van Dijk,1
+W. Hoedt,C\u00e9dric Soares,1
+V. van Dijk,D. Tadi\u0107,1
+D. Tadi\u0107,S. Boufal,1
+S. Boufal,P. H\u00f8jbjerg,1

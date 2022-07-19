@@ -1,0 +1,77 @@
+Source,Target,Weight
+M. van der Hoorn,N. Dyer,6
+K. Bartley,M. van der Hoorn,6
+M. van der Hoorn,O. McBurnie,5
+K. Bartley,\u0141. Fabia\u0144ski,4
+K. Bartley,A. Mawson,4
+A. Mawson,K. Bartley,4
+O. McBurnie,J. Ayew,4
+J. Ayew,K. Bartley,4
+M. van der Hoorn,K. Bartley,4
+N. Dyer,Sung-Yeung Ki,4
+A. Mawson,S. Clucas,4
+S. Clucas,A. Mawson,4
+Sung-Yeung Ki,K. Bartley,4
+\u0141. Fabia\u0144ski,O. McBurnie,4
+S. Clucas,J. Ayew,4
+N. Dyer,O. McBurnie,3
+O. McBurnie,M. van der Hoorn,3
+N. Dyer,M. van der Hoorn,3
+\u0141. Fabia\u0144ski,M. van der Hoorn,3
+J. Ayew,S. Clucas,3
+A. Mawson,T. Carroll,3
+\u0141. Fabia\u0144ski,K. Bartley,3
+J. Ayew,M. van der Hoorn,3
+M. van der Hoorn,Sung-Yeung Ki,2
+S. Clucas,K. Bartley,2
+J. Ayew,N. Dyer,2
+O. McBurnie,Sung-Yeung Ki,2
+K. Bartley,O. McBurnie,2
+Sung-Yeung Ki,S. Clucas,2
+T. Carroll,J. Ayew,2
+J. Ayew,T. Carroll,2
+M. van der Hoorn,J. Ayew,2
+T. Carroll,S. Clucas,2
+Sung-Yeung Ki,M. van der Hoorn,2
+K. Bartley,S. Clucas,2
+M. Olsson,\u0141. Fabia\u0144ski,2
+A. Mawson,\u0141. Fabia\u0144ski,2
+S. Clucas,M. Olsson,1
+K. Bartley,J. Ayew,1
+N. Dyer,A. Mawson,1
+Sung-Yeung Ki,J. Ayew,1
+T. Carroll,Sung-Yeung Ki,1
+T. Carroll,M. van der Hoorn,1
+S. Clucas,M. van der Hoorn,1
+O. McBurnie,K. Bartley,1
+J. Ayew,A. Mawson,1
+M. Olsson,N. Dyer,1
+J. Ayew,M. Olsson,1
+T. Carroll,M. Olsson,1
+O. McBurnie,T. Carroll,1
+M. Olsson,A. Mawson,1
+M. Olsson,J. Ayew,1
+\u0141. Fabia\u0144ski,J. Ayew,1
+Sung-Yeung Ki,T. Carroll,1
+S. Clucas,Sung-Yeung Ki,1
+O. McBurnie,A. Mawson,1
+M. van der Hoorn,M. Olsson,1
+K. Bartley,M. Olsson,1
+O. McBurnie,S. Clucas,1
+T. Carroll,A. Mawson,1
+A. Mawson,Sung-Yeung Ki,1
+N. Dyer,S. Clucas,1
+A. Mawson,M. van der Hoorn,1
+S. Clucas,N. Dyer,1
+M. van der Hoorn,A. Mawson,1
+T. Carroll,N. Dyer,1
+N. Dyer,T. Carroll,1
+O. McBurnie,N. Dyer,1
+K. Bartley,Sung-Yeung Ki,1
+M. van der Hoorn,\u0141. Fabia\u0144ski,1
+O. McBurnie,\u0141. Fabia\u0144ski,1
+S. Clucas,\u0141. Fabia\u0144ski,1
+K. Bartley,N. Dyer,1
+Sung-Yeung Ki,O. McBurnie,1
+M. van der Hoorn,S. Clucas,1
+S. Clucas,T. Carroll,1

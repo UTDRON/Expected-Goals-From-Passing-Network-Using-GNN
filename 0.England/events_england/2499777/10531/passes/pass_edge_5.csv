@@ -1,0 +1,18 @@
+Source,Target,Weight
+L. Fer,J. Ayew,2
+W. Bony,T. Carroll,2
+T. Carroll,M. Olsson,1
+J. Ayew,T. Carroll,1
+A. Mawson,L. Fer,1
+K. Naughton,W. Bony,1
+L. Fer,W. Bony,1
+J. Ayew,A. Mawson,1
+M. Olsson,T. Carroll,1
+T. Carroll,W. Bony,1
+T. Carroll,S. Clucas,1
+T. Carroll,L. Fer,1
+S. Clucas,M. van der Hoorn,1
+S. Clucas,K. Naughton,1
+M. van der Hoorn,S. Clucas,1
+M. van der Hoorn,K. Naughton,1
+K. Naughton,L. Fer,1

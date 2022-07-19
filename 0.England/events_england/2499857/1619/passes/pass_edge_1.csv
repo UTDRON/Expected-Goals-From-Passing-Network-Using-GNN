@@ -1,0 +1,49 @@
+Source,Target,Weight
+C\u00e9dric Soares,S. Long,4
+W. Hoedt,P. H\u00f8jbjerg,3
+P. H\u00f8jbjerg,C\u00e9dric Soares,3
+S. Long,R. Bertrand,2
+M. Yoshida,C\u00e9dric Soares,2
+P. H\u00f8jbjerg,F. Forster,2
+Oriol Romeu,P. H\u00f8jbjerg,2
+S. Long,M. Lemina,2
+M. Lemina,P. H\u00f8jbjerg,2
+N. Redmond,S. Long,2
+S. Long,P. H\u00f8jbjerg,2
+R. Bertrand,W. Hoedt,2
+S. Long,V. van Dijk,2
+M. Yoshida,F. Forster,2
+P. H\u00f8jbjerg,M. Yoshida,2
+R. Bertrand,M. Yoshida,2
+C\u00e9dric Soares,Oriol Romeu,2
+V. van Dijk,M. Yoshida,2
+F. Forster,S. Long,2
+P. H\u00f8jbjerg,Oriol Romeu,2
+R. Bertrand,N. Redmond,1
+N. Redmond,V. van Dijk,1
+M. Yoshida,M. Lemina,1
+Oriol Romeu,R. Bertrand,1
+M. Lemina,V. van Dijk,1
+N. Redmond,W. Hoedt,1
+Oriol Romeu,M. Lemina,1
+M. Lemina,M. Yoshida,1
+P. H\u00f8jbjerg,M. Lemina,1
+M. Yoshida,W. Hoedt,1
+M. Lemina,Oriol Romeu,1
+C\u00e9dric Soares,P. H\u00f8jbjerg,1
+V. van Dijk,W. Hoedt,1
+S. Long,Oriol Romeu,1
+W. Hoedt,M. Lemina,1
+P. H\u00f8jbjerg,N. Redmond,1
+F. Forster,P. H\u00f8jbjerg,1
+V. van Dijk,S. Long,1
+Oriol Romeu,N. Redmond,1
+N. Redmond,M. Yoshida,1
+M. Yoshida,V. van Dijk,1
+Oriol Romeu,S. Long,1
+V. van Dijk,N. Redmond,1
+M. Lemina,R. Bertrand,1
+M. Yoshida,R. Bertrand,1
+Oriol Romeu,C\u00e9dric Soares,1
+F. Forster,Oriol Romeu,1
+S. Long,C\u00e9dric Soares,1

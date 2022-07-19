@@ -1,0 +1,81 @@
+Source,Target,Weight
+T. Kongolo,A. Mooy,6
+T. Kongolo,R. van La Parra,6
+A. Mooy,T. Kongolo,6
+F. Hadergjonaj,C. Quaner,5
+M. J\u00f8rgensen,C. Schindler,5
+M. J\u00f8rgensen,S. Mouni\u00e9,5
+R. van La Parra,A. Mooy,5
+A. Mooy,R. van La Parra,5
+R. van La Parra,J. Hogg,4
+A. Pritchard,A. Mooy,4
+J. Hogg,C. Schindler,4
+A. Mooy,A. Pritchard,4
+C. Schindler,M. J\u00f8rgensen,4
+C. Schindler,T. Kongolo,4
+C. Quaner,F. Hadergjonaj,4
+A. Mooy,C. Schindler,3
+C. Schindler,A. Mooy,3
+J. Hogg,A. Mooy,3
+J. Hogg,A. Pritchard,3
+M. J\u00f8rgensen,T. Kongolo,3
+C. Schindler,J. Hogg,3
+A. Mooy,M. J\u00f8rgensen,3
+A. Pritchard,T. Kongolo,3
+R. van La Parra,A. Pritchard,3
+C. Quaner,A. Pritchard,3
+M. J\u00f8rgensen,J. Hogg,3
+A. Mooy,C. Quaner,3
+C. Quaner,A. Mooy,3
+F. Hadergjonaj,J. Hogg,3
+A. Pritchard,M. J\u00f8rgensen,2
+C. Quaner,M. J\u00f8rgensen,2
+J. Hogg,T. Kongolo,2
+A. Pritchard,J. Hogg,2
+R. van La Parra,C. Schindler,2
+F. Hadergjonaj,M. J\u00f8rgensen,2
+S. Mouni\u00e9,M. J\u00f8rgensen,2
+A. Pritchard,F. Hadergjonaj,2
+T. Kongolo,A. Pritchard,2
+A. Mooy,F. Hadergjonaj,2
+F. Hadergjonaj,R. van La Parra,2
+S. Mouni\u00e9,A. Mooy,2
+J. Hogg,C. Quaner,2
+C. Schindler,C. Quaner,2
+J. L\u00f6ssl,M. J\u00f8rgensen,2
+J. L\u00f6ssl,C. Quaner,1
+F. Hadergjonaj,C. Schindler,1
+T. Kongolo,C. Schindler,1
+C. Schindler,P. Billing,1
+T. Kongolo,J. Hogg,1
+R. van La Parra,S. Mouni\u00e9,1
+M. J\u00f8rgensen,F. Hadergjonaj,1
+P. Billing,C. Schindler,1
+R. van La Parra,T. Kongolo,1
+A. Pritchard,S. Mouni\u00e9,1
+J. Hogg,F. Hadergjonaj,1
+J. Hogg,M. J\u00f8rgensen,1
+T. Kongolo,F. Hadergjonaj,1
+A. Mooy,P. Billing,1
+C. Quaner,C. Schindler,1
+M. J\u00f8rgensen,C. Quaner,1
+M. J\u00f8rgensen,A. Mooy,1
+R. van La Parra,M. J\u00f8rgensen,1
+P. Billing,M. J\u00f8rgensen,1
+S. Mouni\u00e9,C. Quaner,1
+A. Mooy,J. L\u00f6ssl,1
+S. Mouni\u00e9,F. Hadergjonaj,1
+M. J\u00f8rgensen,J. L\u00f6ssl,1
+M. J\u00f8rgensen,R. van La Parra,1
+T. Kongolo,M. J\u00f8rgensen,1
+T. Kongolo,S. Mouni\u00e9,1
+C. Schindler,F. Hadergjonaj,1
+J. Hogg,P. Billing,1
+C. Schindler,J. L\u00f6ssl,1
+S. Mouni\u00e9,R. van La Parra,1
+C. Quaner,R. van La Parra,1
+A. Pritchard,C. Schindler,1
+S. Mouni\u00e9,J. Hogg,1
+J. Hogg,R. van La Parra,1
+C. Quaner,J. Hogg,1
+F. Hadergjonaj,A. Mooy,1

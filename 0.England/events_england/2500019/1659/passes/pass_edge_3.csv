@@ -1,0 +1,24 @@
+Source,Target,Weight
+L. Cook,S. Francis,1
+L. Cook,A. Smith,1
+S. Cook,A. Smith,1
+J. King,J. Stanislas,1
+D. Gosling,S. Cook,1
+S. Francis,A. Begovi\u0107,1
+S. Cook,L. Cook,1
+S. Francis,D. Gosling,1
+J. Stanislas,N. Ak\u00e9,1
+D. Gosling,S. Francis,1
+J. King,D. Gosling,1
+S. Francis,L. Cook,1
+A. Smith,D. Gosling,1
+N. Ak\u00e9,J. Stanislas,1
+D. Gosling,C. Daniels,1
+S. Cook,S. Francis,1
+A. Smith,J. Ibe,1
+C. Wilson,S. Cook,1
+J. Stanislas,J. Ibe,1
+C. Daniels,J. Stanislas,1
+A. Begovi\u0107,J. King,1
+J. Ibe,J. King,1
+J. Stanislas,S. Cook,1

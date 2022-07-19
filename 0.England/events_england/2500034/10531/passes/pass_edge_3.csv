@@ -1,0 +1,53 @@
+Source,Target,Weight
+W. Routledge,T. Carroll,6
+T. Carroll,W. Routledge,6
+T. Carroll,M. Olsson,5
+M. Olsson,A. Mawson,4
+M. Olsson,T. Carroll,4
+M. Olsson,W. Routledge,4
+K. Naughton,A. Ayew,3
+T. Carroll,A. Mawson,3
+A. Ayew,K. Naughton,3
+A. Mawson,M. Olsson,3
+A. King,A. Ayew,2
+\u0141. Fabia\u0144ski,M. Olsson,2
+F. Fern\u00e1ndez,K. Naughton,2
+A. Ayew,T. Carroll,2
+M. van der Hoorn,T. Carroll,2
+K. Naughton,T. Carroll,2
+A. Mawson,F. Fern\u00e1ndez,2
+M. van der Hoorn,\u0141. Fabia\u0144ski,1
+K. Naughton,M. Olsson,1
+W. Routledge,A. Ayew,1
+A. Ayew,F. Fern\u00e1ndez,1
+A. Mawson,K. Naughton,1
+M. van der Hoorn,M. Olsson,1
+M. Olsson,T. Abraham,1
+F. Fern\u00e1ndez,A. Mawson,1
+A. Ayew,M. van der Hoorn,1
+K. Naughton,A. Mawson,1
+K. Naughton,W. Routledge,1
+A. Mawson,A. Ayew,1
+\u0141. Fabia\u0144ski,T. Carroll,1
+F. Fern\u00e1ndez,\u0141. Fabia\u0144ski,1
+A. King,\u0141. Fabia\u0144ski,1
+A. King,K. Naughton,1
+A. Mawson,M. van der Hoorn,1
+K. Naughton,M. van der Hoorn,1
+T. Carroll,M. van der Hoorn,1
+T. Carroll,F. Fern\u00e1ndez,1
+F. Fern\u00e1ndez,A. Ayew,1
+T. Abraham,M. Olsson,1
+\u0141. Fabia\u0144ski,K. Naughton,1
+W. Routledge,K. Naughton,1
+T. Carroll,T. Abraham,1
+M. Olsson,M. van der Hoorn,1
+W. Routledge,M. Olsson,1
+A. Mawson,\u0141. Fabia\u0144ski,1
+W. Routledge,F. Fern\u00e1ndez,1
+K. Naughton,A. King,1
+T. Carroll,A. King,1
+A. Ayew,A. King,1
+M. van der Hoorn,A. King,1
+T. Abraham,M. van der Hoorn,1
+M. van der Hoorn,K. Naughton,1

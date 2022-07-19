@@ -1,0 +1,21 @@
+Source,Target,Weight
+J. McClean,K. Gibbs,3
+Ahmed Hegazy,C. Dawson,2
+J. Livermore,J. McClean,2
+K. Gibbs,J. McClean,1
+A. Nyom,J. Livermore,1
+K. Gibbs,J. Livermore,1
+C. Dawson,J. McClean,1
+J. Livermore,K. Gibbs,1
+K. Gibbs,Ahmed Hegazy,1
+J. Rodriguez,C. Brunt,1
+J. McClean,J. Livermore,1
+C. Brunt,G. Krychowiak,1
+C. Dawson,A. Nyom,1
+K. Gibbs,G. Krychowiak,1
+G. Krychowiak,J. McClean,1
+G. Krychowiak,C. Brunt,1
+Ahmed Hegazy,J. McClean,1
+J. McClean,G. Krychowiak,1
+C. Brunt,Ahmed Hegazy,1
+G. Krychowiak,J. Rodriguez,1

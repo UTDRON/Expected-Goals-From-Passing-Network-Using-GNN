@@ -1,0 +1,54 @@
+Source,Target,Weight
+S. Mustafi,A. Oxlade-Chamberlain,8
+Beller\u00edn,Nacho Monreal,7
+A. Ramsey,S. Mustafi,7
+A. Iwobi,Beller\u00edn,7
+A. Iwobi,S. Mustafi,5
+M. \u00d6zil,A. Iwobi,5
+Beller\u00edn,A. Iwobi,5
+A. Ramsey,Beller\u00edn,4
+S. Mustafi,A. Ramsey,4
+A. Iwobi,M. \u00d6zil,4
+M. \u00d6zil,A. Ramsey,3
+Nacho Monreal,A. Iwobi,3
+A. Ramsey,M. \u00d6zil,3
+M. \u00d6zil,S. Mustafi,3
+S. Mustafi,A. Iwobi,3
+S. Mustafi,Beller\u00edn,3
+Nacho Monreal,S. Mustafi,3
+A. Oxlade-Chamberlain,Nacho Monreal,3
+S. Mustafi,M. \u00d6zil,3
+A. Oxlade-Chamberlain,A. Ramsey,3
+T. Walcott,A. Oxlade-Chamberlain,3
+A. Oxlade-Chamberlain,A. Iwobi,2
+Beller\u00edn,S. Mustafi,2
+Beller\u00edn,A. Ramsey,2
+Nacho Monreal,A. Ramsey,2
+S. Mustafi,T. Walcott,2
+A. Iwobi,A. Ramsey,2
+A. Ramsey,A. Iwobi,2
+A. Oxlade-Chamberlain,S. Mustafi,2
+Nacho Monreal,M. \u00d6zil,2
+O. Giroud,S. Mustafi,2
+A. Ramsey,A. Oxlade-Chamberlain,1
+M. \u00d6zil,Beller\u00edn,1
+O. Giroud,A. Iwobi,1
+A. Iwobi,Nacho Monreal,1
+P. \u010cech,Beller\u00edn,1
+M. \u00d6zil,A. Oxlade-Chamberlain,1
+Nacho Monreal,P. \u010cech,1
+Beller\u00edn,O. Giroud,1
+Beller\u00edn,M. \u00d6zil,1
+A. Oxlade-Chamberlain,P. \u010cech,1
+S. Mustafi,O. Giroud,1
+A. Oxlade-Chamberlain,O. Giroud,1
+A. Iwobi,T. Walcott,1
+O. Giroud,A. Ramsey,1
+P. \u010cech,S. Mustafi,1
+S. Mustafi,Nacho Monreal,1
+Nacho Monreal,Beller\u00edn,1
+A. Oxlade-Chamberlain,T. Walcott,1
+Nacho Monreal,O. Giroud,1
+A. Ramsey,Nacho Monreal,1
+A. Iwobi,O. Giroud,1
+T. Walcott,A. Ramsey,1

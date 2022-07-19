@@ -1,0 +1,24 @@
+Source,Target,Weight
+C. Fuchs,D. Gray,2
+D. Gray,R. Mahrez,2
+D. Simpson,Vicente Iborra,2
+D. Gray,C. Fuchs,2
+C. Fuchs,H. Maguire,2
+W. Ndidi,H. Maguire,1
+R. Mahrez,J. Vardy,1
+R. Mahrez,D. Gray,1
+W. Ndidi,C. Fuchs,1
+H. Maguire,D. Gray,1
+Vicente Iborra,R. Mahrez,1
+J. Vardy,D. Gray,1
+D. Gray,W. Ndidi,1
+H. Maguire,Vicente Iborra,1
+R. Mahrez,D. Simpson,1
+H. Maguire,D. Simpson,1
+W. Morgan,R. Mahrez,1
+Vicente Iborra,W. Morgan,1
+D. Gray,W. Morgan,1
+Vicente Iborra,C. Fuchs,1
+D. Simpson,R. Mahrez,1
+W. Morgan,D. Simpson,1
+R. Mahrez,W. Ndidi,1

@@ -1,0 +1,26 @@
+Source,Target,Weight
+C. L\u00f6we,R. van La Parra,4
+C. Schindler,J. Hogg,2
+R. van La Parra,C. L\u00f6we,2
+E. Kachunga,M. J\u00f8rgensen,2
+J. Hogg,E. Kachunga,2
+E. Kachunga,C. L\u00f6we,1
+J. Hogg,C. L\u00f6we,1
+J. L\u00f6ssl,C. L\u00f6we,1
+R. van La Parra,J. L\u00f6ssl,1
+M. J\u00f8rgensen,J. L\u00f6ssl,1
+J. Hogg,M. J\u00f8rgensen,1
+L. Depoitre,T. Smith,1
+C. L\u00f6we,C. Schindler,1
+J. L\u00f6ssl,L. Depoitre,1
+L. Depoitre,E. Kachunga,1
+C. L\u00f6we,L. Depoitre,1
+L. Depoitre,C. L\u00f6we,1
+T. Smith,J. Hogg,1
+J. Hogg,C. Schindler,1
+E. Kachunga,T. Smith,1
+R. van La Parra,A. Mooy,1
+C. L\u00f6we,J. Hogg,1
+M. J\u00f8rgensen,J. Hogg,1
+M. J\u00f8rgensen,C. L\u00f6we,1
+A. Mooy,L. Depoitre,1

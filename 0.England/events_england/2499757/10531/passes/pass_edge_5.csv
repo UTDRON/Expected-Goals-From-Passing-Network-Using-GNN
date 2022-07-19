@@ -1,0 +1,24 @@
+Source,Target,Weight
+F. Fern\u00e1ndez,L. Fer,3
+A. Mawson,F. Fern\u00e1ndez,2
+M. Olsson,Renato Sanches,2
+F. Fern\u00e1ndez,A. Mawson,2
+L. Fer,F. Fern\u00e1ndez,2
+T. Abraham,Renato Sanches,2
+L. Fer,T. Carroll,2
+J. Ayew,T. Abraham,1
+L. Fer,S. Clucas,1
+T. Carroll,L. Fer,1
+Renato Sanches,L. Fer,1
+Renato Sanches,A. Mawson,1
+T. Carroll,S. Clucas,1
+T. Carroll,J. Ayew,1
+A. Mawson,T. Carroll,1
+S. Clucas,L. Fer,1
+S. Clucas,F. Fern\u00e1ndez,1
+Renato Sanches,M. Olsson,1
+T. Carroll,Renato Sanches,1
+L. Fer,T. Abraham,1
+F. Fern\u00e1ndez,T. Abraham,1
+Renato Sanches,T. Carroll,1
+Renato Sanches,F. Fern\u00e1ndez,1

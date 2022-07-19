@@ -1,0 +1,7 @@
+Source,Target,Weight
+S. Davis,R. Bertrand,2
+R. Bertrand,N. Redmond,2
+N. Redmond,S. Davis,2
+Oriol Romeu,S. Davis,1
+N. Redmond,Oriol Romeu,1
+S. Davis,J. Ward-Prowse,1

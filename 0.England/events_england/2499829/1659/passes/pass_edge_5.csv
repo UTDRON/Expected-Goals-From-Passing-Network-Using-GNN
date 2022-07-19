@@ -1,0 +1,23 @@
+Source,Target,Weight
+C. Daniels,M. Pugh,2
+C. Wilson,S. Francis,2
+J. King,C. Wilson,2
+A. Surman,C. Daniels,2
+S. Francis,A. Surman,1
+C. Wilson,J. King,1
+C. Daniels,J. Ibe,1
+H. Arter,C. Wilson,1
+S. Francis,J. King,1
+J. Ibe,H. Arter,1
+A. Surman,S. Francis,1
+S. Cook,C. Wilson,1
+C. Wilson,J. Ibe,1
+S. Francis,S. Cook,1
+H. Arter,J. King,1
+J. Ibe,S. Francis,1
+C. Wilson,H. Arter,1
+M. Pugh,C. Daniels,1
+S. Francis,C. Wilson,1
+S. Francis,H. Arter,1
+M. Pugh,A. Surman,1
+H. Arter,A. Surman,1

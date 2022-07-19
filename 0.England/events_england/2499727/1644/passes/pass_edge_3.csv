@@ -1,0 +1,84 @@
+Source,Target,Weight
+Gomes,S. Okaka,9
+A. Doucour\u00e9,Y. Kaboul,6
+T. Cleverley,N. Amrabat,6
+S. Okaka,T. Cleverley,6
+T. Cleverley,A. Doucour\u00e9,5
+Y. Kaboul,Gomes,4
+M. Britos,A. Doucour\u00e9,4
+N. Amrabat,T. Cleverley,4
+Y. Kaboul,A. Doucour\u00e9,4
+J. Holebas,R. Pereyra,4
+A. Doucour\u00e9,N. Amrabat,4
+A. Doucour\u00e9,M. Britos,4
+M. Britos,Gomes,3
+R. Pereyra,T. Cleverley,3
+N. Amrabat,A. Doucour\u00e9,3
+N. Chalobah,A. Doucour\u00e9,3
+Y. Kaboul,M. Britos,3
+Kiko Femen\u00eda,T. Cleverley,3
+N. Amrabat,Gomes,3
+M. Britos,N. Chalobah,2
+M. Britos,J. Holebas,2
+Y. Kaboul,S. Okaka,2
+T. Cleverley,S. Okaka,2
+A. Doucour\u00e9,T. Cleverley,2
+N. Chalobah,Y. Kaboul,2
+S. Okaka,Y. Kaboul,2
+A. Doucour\u00e9,Kiko Femen\u00eda,2
+Gomes,M. Britos,2
+A. Doucour\u00e9,J. Holebas,2
+J. Holebas,A. Doucour\u00e9,2
+N. Amrabat,Y. Kaboul,2
+J. Holebas,M. Britos,2
+Y. Kaboul,J. Holebas,2
+Kiko Femen\u00eda,Y. Kaboul,2
+S. Okaka,J. Holebas,2
+N. Chalobah,J. Holebas,2
+Y. Kaboul,Kiko Femen\u00eda,2
+M. Britos,Y. Kaboul,2
+T. Cleverley,M. Britos,2
+T. Cleverley,Kiko Femen\u00eda,2
+A. Doucour\u00e9,N. Chalobah,1
+N. Chalobah,T. Cleverley,1
+T. Cleverley,J. Holebas,1
+Gomes,Y. Kaboul,1
+D. Janmaat,Gomes,1
+N. Chalobah,Gomes,1
+T. Cleverley,N. Chalobah,1
+N. Amrabat,S. Okaka,1
+T. Cleverley,Gomes,1
+J. Holebas,N. Amrabat,1
+S. Okaka,Kiko Femen\u00eda,1
+T. Cleverley,D. Janmaat,1
+Y. Kaboul,N. Chalobah,1
+S. Okaka,N. Amrabat,1
+Gomes,Kiko Femen\u00eda,1
+R. Pereyra,D. Janmaat,1
+J. Holebas,N. Chalobah,1
+Kiko Femen\u00eda,S. Okaka,1
+D. Janmaat,N. Amrabat,1
+S. Okaka,M. Britos,1
+D. Janmaat,Y. Kaboul,1
+A. Doucour\u00e9,S. Okaka,1
+R. Pereyra,Y. Kaboul,1
+R. Pereyra,S. Okaka,1
+T. Cleverley,R. Pereyra,1
+R. Pereyra,J. Holebas,1
+Kiko Femen\u00eda,R. Pereyra,1
+A. Doucour\u00e9,R. Pereyra,1
+S. Okaka,R. Pereyra,1
+J. Holebas,T. Cleverley,1
+Gomes,N. Amrabat,1
+R. Pereyra,N. Chalobah,1
+Kiko Femen\u00eda,A. Doucour\u00e9,1
+S. Okaka,D. Janmaat,1
+M. Britos,T. Cleverley,1
+S. Okaka,A. Doucour\u00e9,1
+D. Janmaat,A. Doucour\u00e9,1
+S. Okaka,N. Chalobah,1
+Kiko Femen\u00eda,N. Chalobah,1
+N. Amrabat,Kiko Femen\u00eda,1
+N. Amrabat,D. Janmaat,1
+Y. Kaboul,T. Cleverley,1
+J. Holebas,Gomes,1

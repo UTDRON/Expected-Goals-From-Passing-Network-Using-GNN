@@ -1,0 +1,48 @@
+Source,Target,Weight
+P. Jones,M. Darmian,3
+P. Pogba,N. Mati\u0107,2
+M. Darmian,P. Jones,2
+A. Valencia,P. Pogba,2
+E. Bailly,P. Jones,2
+P. Jones,A. Valencia,2
+H. Mkhitaryan,M. Rashford,2
+M. Darmian,H. Mkhitaryan,2
+E. Bailly,Ander Herrera,2
+Ander Herrera,E. Bailly,2
+H. Mkhitaryan,N. Mati\u0107,2
+R. Lukaku,E. Bailly,2
+A. Valencia,R. Lukaku,2
+N. Mati\u0107,M. Darmian,2
+M. Rashford,H. Mkhitaryan,2
+David de Gea,N. Mati\u0107,1
+P. Jones,Ander Herrera,1
+P. Pogba,R. Lukaku,1
+H. Mkhitaryan,A. Valencia,1
+N. Mati\u0107,R. Lukaku,1
+N. Mati\u0107,Ander Herrera,1
+Ander Herrera,N. Mati\u0107,1
+A. Valencia,N. Mati\u0107,1
+Ander Herrera,P. Jones,1
+Ander Herrera,A. Valencia,1
+R. Lukaku,P. Pogba,1
+P. Pogba,A. Valencia,1
+E. Bailly,A. Valencia,1
+P. Jones,E. Bailly,1
+A. Valencia,P. Jones,1
+N. Mati\u0107,M. Rashford,1
+A. Valencia,E. Bailly,1
+M. Rashford,P. Jones,1
+M. Darmian,David de Gea,1
+M. Darmian,M. Rashford,1
+R. Lukaku,M. Rashford,1
+P. Jones,P. Pogba,1
+N. Mati\u0107,H. Mkhitaryan,1
+David de Gea,P. Jones,1
+M. Rashford,A. Valencia,1
+E. Bailly,P. Pogba,1
+N. Mati\u0107,P. Jones,1
+M. Rashford,P. Pogba,1
+P. Jones,David de Gea,1
+P. Pogba,M. Darmian,1
+P. Pogba,H. Mkhitaryan,1
+H. Mkhitaryan,R. Lukaku,1

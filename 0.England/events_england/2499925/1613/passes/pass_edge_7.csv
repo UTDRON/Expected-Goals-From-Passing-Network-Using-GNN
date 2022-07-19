@@ -1,0 +1,29 @@
+Source,Target,Weight
+C. Clark,J. Lascelles,4
+M. Ritchie,D. Yedlin,3
+C. Clark,Mikel Merino,2
+D. Yedlin,C. Clark,2
+Joselu,C. Clark,2
+P. Dummett,C. Clark,2
+Mikel Merino,C. Atsu,2
+Mikel Merino,Joselu,1
+C. Clark,M. Ritchie,1
+M. Ritchie,C. Clark,1
+J. Lascelles,M. Ritchie,1
+J. Lascelles,C. Clark,1
+M. Ritchie,Joselu,1
+D. Yedlin,M. Ritchie,1
+M. Ritchie,C. Atsu,1
+C. Atsu,M. Ritchie,1
+J. Lascelles,K. Darlow,1
+I. Hayden,Joselu,1
+C. Atsu,Joselu,1
+K. Darlow,Joselu,1
+J. Lascelles,I. Hayden,1
+C. Atsu,Mikel Merino,1
+Joselu,D. Gayle,1
+Joselu,I. Hayden,1
+C. Clark,P. Dummett,1
+D. Gayle,Joselu,1
+Joselu,P. Dummett,1
+I. Hayden,M. Ritchie,1

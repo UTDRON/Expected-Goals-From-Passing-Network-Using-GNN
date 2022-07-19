@@ -1,0 +1,77 @@
+Source,Target,Weight
+L. Fer,K. Naughton,5
+J. Ayew,K. Naughton,4
+S. Clucas,J. Ayew,4
+T. Abraham,S. Clucas,3
+J. Ayew,S. Clucas,3
+M. van der Hoorn,A. Mawson,3
+K. Naughton,A. Mawson,3
+K. Naughton,M. van der Hoorn,3
+Sung-Yeung Ki,F. Fern\u00e1ndez,3
+T. Carroll,Sung-Yeung Ki,2
+F. Fern\u00e1ndez,A. Mawson,2
+Sung-Yeung Ki,M. van der Hoorn,2
+A. Mawson,L. Fer,2
+T. Carroll,A. Mawson,2
+T. Carroll,K. Naughton,2
+M. van der Hoorn,K. Naughton,2
+K. Naughton,L. Fer,2
+A. Mawson,Sung-Yeung Ki,2
+K. Naughton,T. Abraham,2
+A. Mawson,S. Clucas,2
+T. Abraham,L. Fer,2
+K. Naughton,Sung-Yeung Ki,2
+L. Fer,Sung-Yeung Ki,2
+T. Abraham,A. Mawson,2
+F. Fern\u00e1ndez,Sung-Yeung Ki,2
+A. Mawson,\u0141. Fabia\u0144ski,2
+L. Fer,A. Mawson,2
+K. Naughton,J. Ayew,2
+Sung-Yeung Ki,L. Fer,2
+A. Mawson,T. Abraham,2
+A. Mawson,K. Naughton,2
+A. Mawson,F. Fern\u00e1ndez,2
+L. Fer,F. Fern\u00e1ndez,1
+Sung-Yeung Ki,T. Carroll,1
+J. Ayew,T. Abraham,1
+T. Abraham,J. Ayew,1
+L. Fer,M. van der Hoorn,1
+\u0141. Fabia\u0144ski,S. Clucas,1
+\u0141. Fabia\u0144ski,K. Naughton,1
+\u0141. Fabia\u0144ski,A. Mawson,1
+S. Clucas,A. Mawson,1
+M. van der Hoorn,T. Abraham,1
+J. Ayew,\u0141. Fabia\u0144ski,1
+M. van der Hoorn,L. Fer,1
+T. Abraham,M. van der Hoorn,1
+Sung-Yeung Ki,J. Ayew,1
+S. Clucas,T. Abraham,1
+F. Fern\u00e1ndez,J. Ayew,1
+\u0141. Fabia\u0144ski,T. Abraham,1
+\u0141. Fabia\u0144ski,L. Fer,1
+A. Mawson,J. Ayew,1
+Sung-Yeung Ki,A. Mawson,1
+T. Carroll,J. Ayew,1
+K. Naughton,F. Fern\u00e1ndez,1
+T. Abraham,T. Carroll,1
+F. Fern\u00e1ndez,T. Abraham,1
+Sung-Yeung Ki,K. Naughton,1
+M. van der Hoorn,\u0141. Fabia\u0144ski,1
+T. Carroll,T. Abraham,1
+F. Fern\u00e1ndez,L. Fer,1
+S. Clucas,T. Carroll,1
+\u0141. Fabia\u0144ski,M. van der Hoorn,1
+T. Carroll,F. Fern\u00e1ndez,1
+L. Fer,\u0141. Fabia\u0144ski,1
+M. van der Hoorn,T. Carroll,1
+J. Ayew,M. van der Hoorn,1
+F. Fern\u00e1ndez,M. van der Hoorn,1
+A. Mawson,M. van der Hoorn,1
+K. Naughton,T. Carroll,1
+J. Ayew,T. Carroll,1
+M. van der Hoorn,F. Fern\u00e1ndez,1
+S. Clucas,L. Fer,1
+F. Fern\u00e1ndez,T. Carroll,1
+M. van der Hoorn,Sung-Yeung Ki,1
+A. Mawson,T. Carroll,1
+K. Naughton,\u0141. Fabia\u0144ski,1

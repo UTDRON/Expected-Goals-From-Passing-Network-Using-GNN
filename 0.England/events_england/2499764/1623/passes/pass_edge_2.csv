@@ -1,0 +1,24 @@
+Source,Target,Weight
+Cuco Martina,T. Davies,2
+M. Keane,A. Williams,2
+A. Williams,M. Keane,1
+P. Jagielka,Cuco Martina,1
+A. Williams,J. Pickford,1
+A. Williams,P. Jagielka,1
+I. Gueye,P. Jagielka,1
+I. Gueye,Cuco Martina,1
+J. Pickford,Cuco Martina,1
+P. Jagielka,I. Gueye,1
+M. Schneiderlin,P. Jagielka,1
+I. Gueye,A. Williams,1
+Cuco Martina,I. Gueye,1
+T. Davies,G. Sigur\u00f0sson,1
+I. Gueye,M. Schneiderlin,1
+T. Davies,I. Gueye,1
+T. Davies,W. Rooney,1
+A. Williams,T. Davies,1
+G. Sigur\u00f0sson,M. Keane,1
+M. Schneiderlin,W. Rooney,1
+P. Jagielka,M. Schneiderlin,1
+W. Rooney,M. Keane,1
+W. Rooney,I. Gueye,1

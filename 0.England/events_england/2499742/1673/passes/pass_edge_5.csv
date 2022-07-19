@@ -1,0 +1,22 @@
+Source,Target,Weight
+R. van La Parra,C. L\u00f6we,2
+C. L\u00f6we,T. Ince,2
+T. Ince,R. van La Parra,1
+E. Kachunga,C. L\u00f6we,1
+P. Billing,C. L\u00f6we,1
+J. L\u00f6ssl,E. Kachunga,1
+C. L\u00f6we,P. Billing,1
+A. Mooy,T. Smith,1
+T. Ince,J. L\u00f6ssl,1
+E. Kachunga,R. van La Parra,1
+C. L\u00f6we,S. Mouni\u00e9,1
+J. L\u00f6ssl,C. L\u00f6we,1
+S. Mouni\u00e9,T. Ince,1
+T. Ince,C. L\u00f6we,1
+T. Smith,A. Mooy,1
+C. L\u00f6we,R. van La Parra,1
+M. J\u00f8rgensen,T. Smith,1
+C. L\u00f6we,A. Mooy,1
+T. Smith,E. Kachunga,1
+C. L\u00f6we,J. L\u00f6ssl,1
+A. Mooy,C. L\u00f6we,1

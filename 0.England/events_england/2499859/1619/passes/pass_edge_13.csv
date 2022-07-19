@@ -1,0 +1,14 @@
+Source,Target,Weight
+S. Boufal,R. Bertrand,3
+Oriol Romeu,S. Davis,1
+Oriol Romeu,S. Boufal,1
+Oriol Romeu,R. Bertrand,1
+R. Bertrand,V. van Dijk,1
+R. Bertrand,C. Austin,1
+C. Austin,Oriol Romeu,1
+R. Bertrand,F. Forster,1
+F. Forster,C. Austin,1
+S. Davis,C. Austin,1
+V. van Dijk,S. Boufal,1
+C. Austin,S. Boufal,1
+R. Bertrand,Oriol Romeu,1

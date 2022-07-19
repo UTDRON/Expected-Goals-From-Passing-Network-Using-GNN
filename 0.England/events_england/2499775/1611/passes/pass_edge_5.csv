@@ -1,0 +1,101 @@
+Source,Target,Weight
+P. Jones,A. Young,8
+A. Valencia,Juan Mata,8
+A. Young,M. Rashford,8
+R. Lukaku,H. Mkhitaryan,6
+M. Rashford,H. Mkhitaryan,6
+N. Mati\u0107,A. Valencia,6
+N. Mati\u0107,A. Young,6
+A. Young,N. Mati\u0107,6
+H. Mkhitaryan,M. Rashford,5
+E. Bailly,M. Fellaini,5
+M. Fellaini,N. Mati\u0107,5
+M. Fellaini,Juan Mata,5
+Juan Mata,A. Valencia,5
+Juan Mata,N. Mati\u0107,5
+N. Mati\u0107,P. Jones,5
+H. Mkhitaryan,A. Valencia,4
+David de Gea,M. Fellaini,4
+P. Jones,E. Bailly,4
+R. Lukaku,A. Young,4
+E. Bailly,P. Jones,4
+Juan Mata,R. Lukaku,4
+H. Mkhitaryan,Juan Mata,4
+A. Young,P. Jones,4
+Juan Mata,E. Bailly,4
+H. Mkhitaryan,A. Young,4
+P. Jones,N. Mati\u0107,4
+M. Fellaini,H. Mkhitaryan,4
+M. Rashford,A. Young,4
+Juan Mata,P. Jones,3
+H. Mkhitaryan,P. Jones,3
+Juan Mata,M. Fellaini,3
+M. Fellaini,R. Lukaku,3
+P. Jones,David de Gea,3
+R. Lukaku,N. Mati\u0107,3
+M. Fellaini,A. Valencia,3
+N. Mati\u0107,H. Mkhitaryan,3
+M. Rashford,N. Mati\u0107,3
+A. Young,H. Mkhitaryan,3
+H. Mkhitaryan,M. Fellaini,3
+M. Rashford,M. Fellaini,3
+P. Jones,M. Rashford,3
+E. Bailly,Juan Mata,3
+A. Valencia,H. Mkhitaryan,3
+A. Valencia,David de Gea,3
+N. Mati\u0107,R. Lukaku,3
+H. Mkhitaryan,N. Mati\u0107,3
+M. Rashford,P. Jones,3
+M. Fellaini,P. Jones,3
+R. Lukaku,Juan Mata,3
+P. Jones,H. Mkhitaryan,3
+N. Mati\u0107,M. Fellaini,3
+A. Valencia,E. Bailly,3
+M. Rashford,R. Lukaku,2
+A. Young,E. Bailly,2
+A. Valencia,M. Fellaini,2
+H. Mkhitaryan,R. Lukaku,2
+E. Bailly,A. Young,2
+A. Valencia,N. Mati\u0107,2
+A. Young,R. Lukaku,2
+N. Mati\u0107,E. Bailly,2
+A. Young,Juan Mata,2
+E. Bailly,A. Valencia,2
+N. Mati\u0107,Juan Mata,2
+David de Gea,P. Jones,2
+M. Fellaini,M. Rashford,2
+A. Young,M. Fellaini,2
+Juan Mata,H. Mkhitaryan,2
+N. Mati\u0107,M. Rashford,2
+M. Rashford,David de Gea,1
+R. Lukaku,M. Rashford,1
+A. Valencia,P. Jones,1
+David de Gea,R. Lukaku,1
+A. Valencia,R. Lukaku,1
+M. Rashford,Ander Herrera,1
+R. Lukaku,M. Fellaini,1
+Juan Mata,M. Rashford,1
+M. Rashford,A. Valencia,1
+M. Fellaini,A. Young,1
+David de Gea,N. Mati\u0107,1
+P. Jones,R. Lukaku,1
+P. Jones,M. Fellaini,1
+A. Young,David de Gea,1
+H. Mkhitaryan,E. Bailly,1
+David de Gea,M. Rashford,1
+A. Valencia,M. Rashford,1
+Ander Herrera,A. Young,1
+A. Young,A. Valencia,1
+E. Bailly,David de Gea,1
+David de Gea,Juan Mata,1
+M. Fellaini,E. Bailly,1
+A. Young,Ander Herrera,1
+R. Lukaku,David de Gea,1
+E. Bailly,N. Mati\u0107,1
+David de Gea,E. Bailly,1
+N. Mati\u0107,David de Gea,1
+Ander Herrera,R. Lukaku,1
+David de Gea,A. Young,1
+R. Lukaku,A. Valencia,1
+P. Jones,A. Valencia,1
+Juan Mata,A. Young,1

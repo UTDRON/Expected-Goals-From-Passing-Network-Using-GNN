@@ -1,0 +1,25 @@
+Source,Target,Weight
+L. Cook,S. Francis,3
+J. King,C. Daniels,2
+C. Daniels,R. Fraser,2
+S. Francis,L. Cook,2
+J. Stanislas,L. Cook,2
+L. Cook,J. Stanislas,2
+S. Francis,J. Defoe,1
+C. Daniels,L. Cook,1
+L. Cook,A. Smith,1
+R. Fraser,C. Daniels,1
+A. Surman,C. Daniels,1
+J. Defoe,J. Stanislas,1
+C. Daniels,J. King,1
+A. Smith,S. Francis,1
+J. Stanislas,J. King,1
+A. Begovi\u0107,C. Daniels,1
+R. Fraser,J. King,1
+S. Francis,N. Ak\u00e9,1
+S. Francis,A. Surman,1
+J. King,J. Stanislas,1
+N. Ak\u00e9,A. Surman,1
+C. Daniels,A. Begovi\u0107,1
+J. Stanislas,S. Francis,1
+A. Surman,L. Cook,1

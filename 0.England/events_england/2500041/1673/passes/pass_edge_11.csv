@@ -1,0 +1,69 @@
+Source,Target,Weight
+A. Mooy,M. J\u00f8rgensen,6
+M. J\u00f8rgensen,A. Mooy,5
+F. Hadergjonaj,M. J\u00f8rgensen,5
+M. J\u00f8rgensen,J. Hogg,4
+J. Hogg,C. Schindler,4
+C. Schindler,J. Hogg,4
+M. J\u00f8rgensen,T. Ince,3
+J. Hogg,M. J\u00f8rgensen,3
+T. Kongolo,R. van La Parra,3
+M. J\u00f8rgensen,C. Schindler,3
+C. Schindler,M. J\u00f8rgensen,3
+S. Mouni\u00e9,T. Kongolo,3
+M. J\u00f8rgensen,S. Mouni\u00e9,3
+T. Kongolo,S. Mouni\u00e9,3
+C. Schindler,J. L\u00f6ssl,3
+F. Hadergjonaj,T. Ince,2
+A. Mooy,J. Hogg,2
+T. Kongolo,C. Schindler,2
+A. Pritchard,F. Hadergjonaj,2
+M. J\u00f8rgensen,P. Billing,2
+J. Hogg,T. Kongolo,2
+F. Hadergjonaj,A. Mooy,2
+S. Mouni\u00e9,A. Mooy,2
+T. Ince,A. Pritchard,2
+C. Schindler,A. Mooy,2
+R. van La Parra,A. Mooy,2
+J. L\u00f6ssl,C. Schindler,2
+A. Mooy,C. Schindler,2
+R. van La Parra,A. Pritchard,2
+A. Pritchard,M. J\u00f8rgensen,2
+C. Schindler,F. Hadergjonaj,1
+R. van La Parra,J. L\u00f6ssl,1
+C. Schindler,R. van La Parra,1
+C. Schindler,T. Kongolo,1
+S. Mouni\u00e9,F. Hadergjonaj,1
+J. L\u00f6ssl,M. J\u00f8rgensen,1
+A. Mooy,S. Mouni\u00e9,1
+R. van La Parra,C. Schindler,1
+T. Ince,F. Hadergjonaj,1
+S. Mouni\u00e9,M. J\u00f8rgensen,1
+J. Hogg,A. Pritchard,1
+J. Hogg,J. L\u00f6ssl,1
+M. J\u00f8rgensen,A. Pritchard,1
+S. Mouni\u00e9,A. Pritchard,1
+P. Billing,C. Schindler,1
+T. Ince,M. J\u00f8rgensen,1
+J. L\u00f6ssl,S. Mouni\u00e9,1
+J. Hogg,R. van La Parra,1
+A. Mooy,T. Kongolo,1
+T. Kongolo,J. Hogg,1
+R. van La Parra,F. Hadergjonaj,1
+A. Mooy,J. L\u00f6ssl,1
+S. Mouni\u00e9,R. van La Parra,1
+A. Pritchard,J. Hogg,1
+J. Hogg,A. Mooy,1
+A. Pritchard,T. Kongolo,1
+A. Pritchard,R. van La Parra,1
+J. L\u00f6ssl,T. Kongolo,1
+R. van La Parra,P. Billing,1
+T. Ince,A. Mooy,1
+T. Ince,R. van La Parra,1
+J. Hogg,S. Mouni\u00e9,1
+A. Mooy,T. Ince,1
+R. van La Parra,J. Hogg,1
+M. J\u00f8rgensen,F. Hadergjonaj,1
+P. Billing,R. van La Parra,1
+J. L\u00f6ssl,F. Hadergjonaj,1
+A. Mooy,F. Hadergjonaj,1

@@ -1,0 +1,24 @@
+Source,Target,Weight
+A. Mooy,T. Ince,4
+C. Quaner,A. Mooy,3
+T. Ince,A. Mooy,2
+T. Ince,C. L\u00f6we,2
+C. L\u00f6we,J. Hogg,2
+T. Ince,E. Kachunga,2
+J. Hogg,C. L\u00f6we,2
+A. Mooy,J. Hogg,2
+C. L\u00f6we,C. Quaner,2
+J. Hogg,M. J\u00f8rgensen,1
+E. Kachunga,C. L\u00f6we,1
+C. L\u00f6we,A. Mooy,1
+C. Schindler,C. L\u00f6we,1
+E. Kachunga,C. Quaner,1
+C. L\u00f6we,T. Ince,1
+E. Kachunga,T. Ince,1
+T. Ince,T. Smith,1
+J. Hogg,C. Schindler,1
+T. Smith,E. Kachunga,1
+J. Hogg,T. Ince,1
+M. J\u00f8rgensen,T. Smith,1
+T. Smith,T. Ince,1
+T. Smith,J. Hogg,1

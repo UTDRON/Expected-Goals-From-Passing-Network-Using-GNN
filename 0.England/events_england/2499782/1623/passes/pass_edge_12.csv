@@ -1,0 +1,24 @@
+Source,Target,Weight
+I. Gueye,Cuco Martina,3
+D. Calvert-Lewin,M. Schneiderlin,3
+Cuco Martina,I. Gueye,3
+M. Schneiderlin,I. Gueye,2
+M. Keane,A. Williams,2
+M. Keane,J. Pickford,2
+J. Pickford,D. Calvert-Lewin,2
+A. Williams,M. Keane,2
+M. Keane,I. Gueye,1
+L. Baines,M. Keane,1
+J. Pickford,M. Keane,1
+M. Keane,L. Baines,1
+I. Gueye,M. Schneiderlin,1
+I. Gueye,J. Pickford,1
+I. Gueye,M. Keane,1
+M. Keane,Cuco Martina,1
+M. Schneiderlin,L. Baines,1
+A. Williams,M. Schneiderlin,1
+Cuco Martina,M. Keane,1
+M. Schneiderlin,A. Williams,1
+L. Baines,A. Williams,1
+M. Schneiderlin,D. Calvert-Lewin,1
+A. Williams,D. Calvert-Lewin,1

@@ -1,0 +1,36 @@
+Source,Target,Weight
+M. Olsson,T. Carroll,4
+T. Carroll,L. Britton,4
+L. Britton,T. Carroll,4
+T. Carroll,M. Olsson,3
+M. van der Hoorn,A. Mawson,3
+L. Britton,N. Dyer,3
+N. Dyer,L. Britton,3
+L. Britton,\u00c0ngel Rangel,3
+N. Dyer,\u00c0ngel Rangel,3
+N. Dyer,J. Ayew,2
+T. Carroll,A. Ayew,2
+\u00c0ngel Rangel,L. Britton,2
+L. Britton,M. van der Hoorn,2
+J. Ayew,N. Dyer,2
+A. Mawson,T. Carroll,2
+J. Ayew,M. van der Hoorn,1
+A. Ayew,N. Dyer,1
+M. van der Hoorn,\u0141. Fabia\u0144ski,1
+J. Ayew,A. Mawson,1
+T. Abraham,T. Carroll,1
+\u00c0ngel Rangel,T. Carroll,1
+A. Mawson,M. van der Hoorn,1
+\u00c0ngel Rangel,N. Dyer,1
+\u0141. Fabia\u0144ski,M. Olsson,1
+M. van der Hoorn,L. Britton,1
+T. Carroll,J. Ayew,1
+A. Ayew,L. Britton,1
+\u00c0ngel Rangel,M. Olsson,1
+A. Mawson,L. Britton,1
+T. Carroll,A. Mawson,1
+\u00c0ngel Rangel,M. van der Hoorn,1
+N. Dyer,A. Ayew,1
+A. Mawson,N. Dyer,1
+T. Carroll,T. Abraham,1
+M. Olsson,J. Ayew,1

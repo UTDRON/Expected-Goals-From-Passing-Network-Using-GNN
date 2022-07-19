@@ -1,0 +1,64 @@
+Source,Target,Weight
+K. Zouma,X. Shaqiri,6
+X. Shaqiri,K. Zouma,3
+X. Shaqiri,D. Fletcher,2
+R. Shawcross,B. Martins Indi,2
+R. Shawcross,P. Crouch,2
+K. Zouma,R. Shawcross,2
+X. Shaqiri,P. Crouch,2
+B. Martins Indi,K. Zouma,2
+P. Crouch,J. Allen,2
+P. Crouch,K. Zouma,2
+B. Martins Indi,J. Allen,2
+R. Shawcross,L. Grant,2
+E. Pieters,P. Crouch,2
+D. Fletcher,E. Pieters,2
+J. Allen,P. Crouch,2
+L. Grant,E. Pieters,2
+P. Crouch,M. Diouf,2
+P. Crouch,E. Pieters,1
+Jes\u00e9 Rodr\u00edguez,D. Fletcher,1
+P. Crouch,C. Adam,1
+M. Diouf,X. Shaqiri,1
+L. Grant,P. Crouch,1
+P. Crouch,R. Shawcross,1
+D. Fletcher,P. Crouch,1
+P. Crouch,X. Shaqiri,1
+R. Shawcross,K. Zouma,1
+E. Pieters,L. Grant,1
+X. Shaqiri,J. Allen,1
+Jes\u00e9 Rodr\u00edguez,J. Allen,1
+E. Pieters,B. Martins Indi,1
+K. Zouma,P. Crouch,1
+J. Allen,C. Adam,1
+E. Pieters,R. Shawcross,1
+C. Adam,K. Zouma,1
+D. Fletcher,X. Shaqiri,1
+X. Shaqiri,E. Pieters,1
+C. Adam,Jes\u00e9 Rodr\u00edguez,1
+X. Shaqiri,B. Martins Indi,1
+C. Adam,R. Shawcross,1
+B. Martins Indi,E. Pieters,1
+L. Grant,C. Adam,1
+M. Diouf,L. Grant,1
+C. Adam,L. Grant,1
+D. Fletcher,R. Shawcross,1
+B. Martins Indi,C. Adam,1
+E. Pieters,X. Shaqiri,1
+J. Allen,R. Shawcross,1
+L. Grant,R. Shawcross,1
+K. Zouma,M. Diouf,1
+K. Zouma,D. Fletcher,1
+L. Grant,B. Martins Indi,1
+J. Allen,B. Martins Indi,1
+D. Fletcher,J. Allen,1
+J. Allen,L. Grant,1
+E. Pieters,Jes\u00e9 Rodr\u00edguez,1
+J. Allen,E. Pieters,1
+M. Diouf,D. Fletcher,1
+P. Crouch,Jes\u00e9 Rodr\u00edguez,1
+D. Fletcher,M. Diouf,1
+M. Diouf,K. Zouma,1
+J. Allen,K. Zouma,1
+E. Pieters,D. Fletcher,1
+R. Shawcross,J. Allen,1

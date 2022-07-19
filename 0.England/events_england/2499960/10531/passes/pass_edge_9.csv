@@ -1,0 +1,26 @@
+Source,Target,Weight
+N. Dyer,K. Naughton,2
+K. Naughton,N. Dyer,2
+J. Ayew,K. Naughton,2
+K. Naughton,J. Ayew,2
+K. Naughton,Sung-Yeung Ki,2
+J. Ayew,M. Olsson,1
+A. Mawson,\u0141. Fabia\u0144ski,1
+\u0141. Fabia\u0144ski,K. Naughton,1
+Sung-Yeung Ki,A. Mawson,1
+S. Clucas,K. Naughton,1
+M. Olsson,S. Clucas,1
+Sung-Yeung Ki,M. Olsson,1
+N. Dyer,M. van der Hoorn,1
+S. Clucas,L. Fer,1
+\u0141. Fabia\u0144ski,J. Ayew,1
+M. van der Hoorn,N. Dyer,1
+M. Olsson,J. Ayew,1
+J. Ayew,F. Fern\u00e1ndez,1
+A. Mawson,K. Naughton,1
+L. Fer,S. Clucas,1
+M. van der Hoorn,A. Mawson,1
+J. Ayew,Sung-Yeung Ki,1
+F. Fern\u00e1ndez,J. Ayew,1
+S. Clucas,\u0141. Fabia\u0144ski,1
+Sung-Yeung Ki,S. Clucas,1

@@ -1,0 +1,21 @@
+Source,Target,Weight
+L. Cook,C. Daniels,2
+L. Mousset,S. Francis,2
+S. Cook,L. Mousset,1
+D. Gosling,S. Cook,1
+C. Wilson,C. Daniels,1
+N. Ak\u00e9,D. Gosling,1
+J. Ibe,L. Cook,1
+C. Daniels,N. Ak\u00e9,1
+A. Begovi\u0107,N. Ak\u00e9,1
+S. Cook,A. Begovi\u0107,1
+C. Daniels,J. Ibe,1
+N. Ak\u00e9,L. Cook,1
+S. Francis,D. Gosling,1
+C. Wilson,L. Mousset,1
+J. Ibe,L. Mousset,1
+D. Gosling,C. Wilson,1
+D. Gosling,S. Francis,1
+S. Francis,S. Cook,1
+L. Mousset,C. Wilson,1
+S. Francis,J. Ibe,1

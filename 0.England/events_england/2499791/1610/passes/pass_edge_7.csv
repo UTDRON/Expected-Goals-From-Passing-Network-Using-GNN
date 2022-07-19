@@ -1,0 +1,20 @@
+Source,Target,Weight
+F\u00e0bregas,T. Bakayoko,2
+F\u00e0bregas,D. Zappacosta,2
+T. Bakayoko,Marcos Alonso,1
+T. Courtois,G. Cahill,1
+Azpilicueta,T. Courtois,1
+D. Zappacosta,Azpilicueta,1
+D. Zappacosta,F\u00e0bregas,1
+T. Bakayoko,Azpilicueta,1
+D. Zappacosta,Willian,1
+Willian,F\u00e0bregas,1
+G. Cahill,F\u00e0bregas,1
+D. Zappacosta,T. Bakayoko,1
+Pedro,D. Zappacosta,1
+Marcos Alonso,Willian,1
+Azpilicueta,Pedro,1
+T. Bakayoko,Willian,1
+Azpilicueta,F\u00e0bregas,1
+Willian,Marcos Alonso,1
+Willian,D. Zappacosta,1

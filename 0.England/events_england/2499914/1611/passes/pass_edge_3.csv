@@ -1,0 +1,34 @@
+Source,Target,Weight
+Juan Mata,A. Young,2
+N. Mati\u0107,M. Rashford,2
+Z. Ibrahimovi\u0107,N. Mati\u0107,2
+P. Pogba,N. Mati\u0107,1
+L. Shaw,Z. Ibrahimovi\u0107,1
+Z. Ibrahimovi\u0107,M. Rashford,1
+M. Rashford,Z. Ibrahimovi\u0107,1
+A. Young,Juan Mata,1
+Juan Mata,L. Shaw,1
+A. Young,P. Jones,1
+P. Jones,P. Pogba,1
+Juan Mata,P. Jones,1
+M. Rojo,Juan Mata,1
+P. Jones,Z. Ibrahimovi\u0107,1
+Z. Ibrahimovi\u0107,A. Young,1
+David de Gea,N. Mati\u0107,1
+M. Rashford,L. Shaw,1
+N. Mati\u0107,L. Shaw,1
+P. Jones,M. Rojo,1
+L. Shaw,M. Rashford,1
+L. Shaw,P. Jones,1
+N. Mati\u0107,Z. Ibrahimovi\u0107,1
+N. Mati\u0107,Juan Mata,1
+M. Rashford,P. Jones,1
+R. Lukaku,L. Shaw,1
+M. Rojo,N. Mati\u0107,1
+A. Young,David de Gea,1
+M. Rashford,N. Mati\u0107,1
+N. Mati\u0107,M. Rojo,1
+A. Young,R. Lukaku,1
+M. Rojo,Z. Ibrahimovi\u0107,1
+P. Jones,A. Young,1
+Z. Ibrahimovi\u0107,M. Rojo,1

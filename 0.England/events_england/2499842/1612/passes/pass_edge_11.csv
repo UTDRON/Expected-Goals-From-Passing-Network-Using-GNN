@@ -1,0 +1,20 @@
+Source,Target,Weight
+Alberto Moreno,Philippe Coutinho,2
+Philippe Coutinho,J. Milner,2
+J. Matip,Alberto Moreno,2
+J. Gomez,J. Matip,1
+Mohamed Salah,Philippe Coutinho,1
+J. Milner,J. Gomez,1
+A. Oxlade-Chamberlain,D. Sturridge,1
+Philippe Coutinho,Mohamed Salah,1
+Mohamed Salah,J. Henderson,1
+J. Henderson,Mohamed Salah,1
+J. Henderson,J. Gomez,1
+J. Gomez,J. Milner,1
+J. Milner,J. Matip,1
+J. Milner,A. Oxlade-Chamberlain,1
+Philippe Coutinho,A. Oxlade-Chamberlain,1
+Philippe Coutinho,J. Henderson,1
+D. Sturridge,J. Henderson,1
+A. Oxlade-Chamberlain,Mohamed Salah,1
+J. Henderson,Philippe Coutinho,1

@@ -1,0 +1,24 @@
+Source,Target,Weight
+M. J\u00f8rgensen,J. Hogg,2
+J. Hogg,C. Schindler,2
+M. J\u00f8rgensen,T. Ince,2
+T. Ince,T. Smith,1
+A. Mooy,S. Malone,1
+J. Hogg,M. J\u00f8rgensen,1
+S. Malone,A. Mooy,1
+R. van La Parra,T. Smith,1
+J. Hogg,T. Smith,1
+J. L\u00f6ssl,S. Malone,1
+T. Ince,J. Hogg,1
+T. Smith,R. van La Parra,1
+S. Malone,J. L\u00f6ssl,1
+T. Smith,M. J\u00f8rgensen,1
+S. Malone,M. J\u00f8rgensen,1
+C. Schindler,A. Mooy,1
+C. Schindler,R. van La Parra,1
+T. Ince,C. Schindler,1
+A. Mooy,R. van La Parra,1
+T. Ince,M. J\u00f8rgensen,1
+T. Smith,T. Ince,1
+C. Schindler,J. Hogg,1
+R. van La Parra,S. Malone,1

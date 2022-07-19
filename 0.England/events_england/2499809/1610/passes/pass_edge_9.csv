@@ -1,0 +1,50 @@
+Source,Target,Weight
+David Luiz,A. R\u00fcdiger,3
+F\u00e0bregas,Azpilicueta,3
+E. Hazard,F\u00e0bregas,3
+A. R\u00fcdiger,T. Bakayoko,3
+A. R\u00fcdiger,David Luiz,3
+T. Bakayoko,Marcos Alonso,3
+T. Bakayoko,Azpilicueta,3
+F\u00e0bregas,E. Hazard,3
+David Luiz,Azpilicueta,3
+Azpilicueta,David Luiz,3
+Azpilicueta,T. Bakayoko,3
+Marcos Alonso,T. Bakayoko,2
+D. Zappacosta,T. Courtois,2
+E. Hazard,T. Bakayoko,2
+D. Zappacosta,Azpilicueta,2
+E. Hazard,D. Zappacosta,2
+F\u00e0bregas,D. Zappacosta,2
+T. Bakayoko,A. R\u00fcdiger,2
+Azpilicueta,Pedro,2
+Azpilicueta,F\u00e0bregas,2
+T. Courtois,A. R\u00fcdiger,2
+T. Bakayoko,F\u00e0bregas,2
+F\u00e0bregas,Pedro,2
+Pedro,E. Hazard,2
+Azpilicueta,D. Zappacosta,2
+Marcos Alonso,A. R\u00fcdiger,2
+Azpilicueta,E. Hazard,2
+E. Hazard,Pedro,1
+D. Zappacosta,E. Hazard,1
+David Luiz,F\u00e0bregas,1
+Pedro,T. Bakayoko,1
+E. Hazard,Azpilicueta,1
+\u00c1lvaro Morata,E. Hazard,1
+Pedro,F\u00e0bregas,1
+Marcos Alonso,Azpilicueta,1
+T. Courtois,Marcos Alonso,1
+E. Hazard,Marcos Alonso,1
+A. R\u00fcdiger,Azpilicueta,1
+A. R\u00fcdiger,T. Courtois,1
+A. R\u00fcdiger,E. Hazard,1
+T. Bakayoko,David Luiz,1
+T. Bakayoko,T. Courtois,1
+D. Zappacosta,T. Bakayoko,1
+Pedro,D. Zappacosta,1
+Azpilicueta,A. R\u00fcdiger,1
+A. R\u00fcdiger,Marcos Alonso,1
+D. Zappacosta,F\u00e0bregas,1
+Marcos Alonso,\u00c1lvaro Morata,1
+T. Courtois,Azpilicueta,1

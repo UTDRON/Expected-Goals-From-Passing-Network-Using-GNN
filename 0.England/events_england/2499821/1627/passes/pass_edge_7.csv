@@ -1,0 +1,13 @@
+Source,Target,Weight
+K. Gibbs,J. Evans,1
+J. McClean,A. Nyom,1
+A. Nyom,J. Livermore,1
+J. McClean,K. Gibbs,1
+J. Evans,A. Nyom,1
+J. Evans,Ahmed Hegazy,1
+J. Livermore,J. McClean,1
+J. Evans,K. Gibbs,1
+A. Nyom,J. McClean,1
+G. Barry,J. Evans,1
+J. Livermore,G. Barry,1
+Ahmed Hegazy,J. Livermore,1

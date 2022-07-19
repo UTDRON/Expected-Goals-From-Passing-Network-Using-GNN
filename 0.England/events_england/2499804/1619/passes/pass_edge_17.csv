@@ -1,0 +1,25 @@
+Source,Target,Weight
+V. van Dijk,F. Forster,3
+R. Bertrand,N. Redmond,3
+M. Lemina,R. Bertrand,3
+R. Bertrand,V. van Dijk,2
+M. Gabbiadini,M. Lemina,2
+C\u00e9dric Soares,M. Lemina,2
+R. Bertrand,D. Tadi\u0107,2
+S. Davis,M. Yoshida,2
+M. Lemina,C\u00e9dric Soares,2
+M. Yoshida,V. van Dijk,2
+N. Redmond,R. Bertrand,2
+V. van Dijk,R. Bertrand,1
+S. Long,M. Lemina,1
+C\u00e9dric Soares,R. Bertrand,1
+D. Tadi\u0107,R. Bertrand,1
+D. Tadi\u0107,S. Davis,1
+M. Lemina,S. Long,1
+F. Forster,V. van Dijk,1
+F. Forster,S. Long,1
+F. Forster,M. Gabbiadini,1
+M. Yoshida,M. Lemina,1
+R. Bertrand,S. Davis,1
+S. Long,C\u00e9dric Soares,1
+V. van Dijk,M. Gabbiadini,1

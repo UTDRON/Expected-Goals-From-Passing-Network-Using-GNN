@@ -1,0 +1,21 @@
+Source,Target,Weight
+D. Fletcher,B. Martins Indi,2
+B. Martins Indi,K. Zouma,1
+J. Allen,R. Shawcross,1
+B. Martins Indi,X. Shaqiri,1
+J. Allen,X. Shaqiri,1
+J. Allen,D. Fletcher,1
+X. Shaqiri,D. Fletcher,1
+J. Butland,R. Shawcross,1
+K. Zouma,J. Allen,1
+R. Shawcross,D. Fletcher,1
+R. Shawcross,P. Crouch,1
+X. Shaqiri,E. Pieters,1
+E. Pieters,E. Choupo-Moting,1
+E. Pieters,X. Shaqiri,1
+P. Crouch,M. Diouf,1
+R. Shawcross,E. Pieters,1
+E. Choupo-Moting,B. Martins Indi,1
+D. Fletcher,J. Allen,1
+M. Diouf,J. Allen,1
+B. Martins Indi,J. Butland,1

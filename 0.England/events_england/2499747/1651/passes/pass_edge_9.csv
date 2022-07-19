@@ -1,0 +1,21 @@
+Source,Target,Weight
+D. Stephens,A. Knockaert,4
+P. Gro\u00df,A. Knockaert,2
+A. Knockaert,P. Gro\u00df,2
+A. Knockaert,D. Stephens,2
+L. Dunk,A. Knockaert,1
+L. Dunk,S. Duffy,1
+L. Rosenior,S. Duffy,1
+A. Knockaert,S. March,1
+S. Duffy,L. Rosenior,1
+A. Knockaert,L. Dunk,1
+T. Hemed,L. Rosenior,1
+A. Knockaert,S. Duffy,1
+L. Rosenior,D. Stephens,1
+M. Suttner,L. Dunk,1
+S. Duffy,M. Ryan,1
+S. Duffy,L. Dunk,1
+M. Ryan,M. Suttner,1
+M. Suttner,S. March,1
+L. Dunk,M. Suttner,1
+S. March,T. Hemed,1

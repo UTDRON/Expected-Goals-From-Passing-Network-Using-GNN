@@ -1,0 +1,57 @@
+Source,Target,Weight
+A. Mawson,\u0141. Fabia\u0144ski,3
+T. Abraham,J. Ayew,3
+Sung-Yeung Ki,T. Carroll,3
+S. Clucas,Sung-Yeung Ki,3
+J. Ayew,T. Abraham,3
+A. Mawson,F. Fern\u00e1ndez,3
+M. van der Hoorn,\u0141. Fabia\u0144ski,3
+T. Abraham,K. Naughton,2
+L. Fer,Sung-Yeung Ki,2
+K. Naughton,T. Abraham,2
+K. Naughton,J. Ayew,2
+J. Ayew,S. Clucas,2
+J. Ayew,A. Mawson,2
+J. Ayew,K. Naughton,2
+K. Naughton,L. Fer,2
+\u0141. Fabia\u0144ski,T. Abraham,2
+\u0141. Fabia\u0144ski,S. Clucas,1
+F. Fern\u00e1ndez,A. Mawson,1
+L. Fer,T. Carroll,1
+K. Naughton,\u0141. Fabia\u0144ski,1
+S. Clucas,T. Abraham,1
+Sung-Yeung Ki,F. Fern\u00e1ndez,1
+M. van der Hoorn,J. Ayew,1
+T. Abraham,M. van der Hoorn,1
+S. Clucas,A. Mawson,1
+\u0141. Fabia\u0144ski,L. Fer,1
+F. Fern\u00e1ndez,M. van der Hoorn,1
+Sung-Yeung Ki,S. Clucas,1
+L. Fer,F. Fern\u00e1ndez,1
+M. van der Hoorn,A. Mawson,1
+L. Fer,J. Ayew,1
+Sung-Yeung Ki,K. Naughton,1
+T. Abraham,A. Mawson,1
+J. Ayew,Sung-Yeung Ki,1
+A. Mawson,S. Clucas,1
+T. Abraham,S. Clucas,1
+T. Carroll,M. van der Hoorn,1
+T. Carroll,J. Ayew,1
+\u0141. Fabia\u0144ski,A. Mawson,1
+K. Naughton,M. van der Hoorn,1
+T. Abraham,Sung-Yeung Ki,1
+J. Ayew,L. Fer,1
+Sung-Yeung Ki,A. Mawson,1
+F. Fern\u00e1ndez,J. Ayew,1
+\u0141. Fabia\u0144ski,J. Ayew,1
+L. Fer,K. Naughton,1
+\u0141. Fabia\u0144ski,K. Naughton,1
+A. Mawson,L. Fer,1
+F. Fern\u00e1ndez,K. Naughton,1
+Sung-Yeung Ki,M. van der Hoorn,1
+F. Fern\u00e1ndez,T. Abraham,1
+T. Carroll,S. Clucas,1
+F. Fern\u00e1ndez,L. Fer,1
+K. Naughton,Sung-Yeung Ki,1
+T. Carroll,K. Naughton,1
+S. Clucas,J. Ayew,1

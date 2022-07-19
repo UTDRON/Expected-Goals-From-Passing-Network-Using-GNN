@@ -1,0 +1,41 @@
+Source,Target,Weight
+K. Naughton,A. Ayew,3
+A. King,M. Olsson,3
+A. Ayew,K. Naughton,3
+S. Clucas,A. Ayew,2
+A. King,Sung-Yeung Ki,2
+A. Mawson,S. Clucas,2
+A. Mawson,K. Naughton,2
+Sung-Yeung Ki,A. Mawson,2
+K. Naughton,M. van der Hoorn,2
+Sung-Yeung Ki,A. King,2
+A. Ayew,S. Clucas,2
+M. van der Hoorn,F. Fern\u00e1ndez,2
+A. Ayew,M. van der Hoorn,1
+Sung-Yeung Ki,K. Naughton,1
+A. King,A. Mawson,1
+J. Ayew,Sung-Yeung Ki,1
+A. Mawson,M. van der Hoorn,1
+A. Mawson,J. Ayew,1
+J. Ayew,A. Ayew,1
+S. Clucas,Sung-Yeung Ki,1
+K. Naughton,J. Ayew,1
+A. Ayew,J. Ayew,1
+M. Olsson,A. King,1
+A. Mawson,\u0141. Fabia\u0144ski,1
+M. Olsson,A. Ayew,1
+M. van der Hoorn,A. Mawson,1
+\u0141. Fabia\u0144ski,S. Clucas,1
+A. Ayew,A. Mawson,1
+J. Ayew,A. King,1
+S. Clucas,A. King,1
+\u0141. Fabia\u0144ski,A. Ayew,1
+A. Mawson,A. King,1
+M. Olsson,Sung-Yeung Ki,1
+S. Clucas,K. Naughton,1
+K. Naughton,A. Mawson,1
+K. Naughton,\u0141. Fabia\u0144ski,1
+S. Clucas,A. Mawson,1
+M. van der Hoorn,K. Naughton,1
+F. Fern\u00e1ndez,A. King,1
+A. King,S. Clucas,1

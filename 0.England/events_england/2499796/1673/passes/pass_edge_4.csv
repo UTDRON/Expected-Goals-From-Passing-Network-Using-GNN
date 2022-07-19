@@ -1,0 +1,93 @@
+Source,Target,Weight
+T. Smith,M. J\u00f8rgensen,6
+J. Hogg,M. J\u00f8rgensen,6
+E. Kachunga,T. Smith,5
+C. Schindler,J. Hogg,5
+M. J\u00f8rgensen,J. L\u00f6ssl,5
+T. Smith,J. L\u00f6ssl,5
+J. L\u00f6ssl,M. J\u00f8rgensen,5
+A. Mooy,T. Smith,4
+M. J\u00f8rgensen,T. Smith,4
+S. Malone,A. Mooy,4
+R. van La Parra,S. Malone,4
+C. Schindler,S. Malone,4
+L. Depoitre,J. Hogg,4
+R. van La Parra,P. Billing,4
+J. Hogg,C. Schindler,4
+M. J\u00f8rgensen,J. Hogg,4
+P. Billing,R. van La Parra,4
+J. Hogg,R. van La Parra,4
+J. L\u00f6ssl,E. Kachunga,3
+S. Malone,C. Schindler,3
+P. Billing,T. Smith,3
+S. Malone,J. Hogg,3
+T. Smith,L. Depoitre,3
+S. Malone,L. Depoitre,3
+C. Schindler,L. Depoitre,3
+J. Hogg,T. Smith,3
+M. J\u00f8rgensen,C. Schindler,3
+R. van La Parra,C. Schindler,3
+P. Billing,M. J\u00f8rgensen,3
+M. J\u00f8rgensen,E. Kachunga,3
+J. L\u00f6ssl,L. Depoitre,3
+L. Depoitre,T. Ince,3
+C. Schindler,J. L\u00f6ssl,2
+R. van La Parra,T. Ince,2
+T. Ince,M. J\u00f8rgensen,2
+S. Malone,P. Billing,2
+S. Malone,J. L\u00f6ssl,2
+P. Billing,S. Malone,2
+L. Depoitre,T. Smith,2
+P. Billing,C. Schindler,2
+M. J\u00f8rgensen,A. Mooy,2
+J. Hogg,P. Billing,2
+T. Smith,J. Hogg,2
+E. Kachunga,P. Billing,2
+C. Schindler,R. van La Parra,2
+R. van La Parra,J. Hogg,2
+A. Mooy,C. Schindler,2
+A. Mooy,S. Malone,2
+T. Smith,P. Billing,2
+L. Depoitre,E. Kachunga,2
+C. Schindler,A. Mooy,2
+M. J\u00f8rgensen,P. Billing,1
+P. Billing,J. L\u00f6ssl,1
+J. L\u00f6ssl,T. Smith,1
+E. Kachunga,R. van La Parra,1
+P. Billing,J. Hogg,1
+A. Mooy,R. van La Parra,1
+T. Ince,S. Malone,1
+E. Kachunga,A. Mooy,1
+J. Hogg,T. Ince,1
+T. Ince,P. Billing,1
+T. Smith,S. Malone,1
+T. Smith,A. Mooy,1
+J. L\u00f6ssl,C. Schindler,1
+C. Schindler,M. J\u00f8rgensen,1
+J. L\u00f6ssl,S. Malone,1
+J. L\u00f6ssl,J. Hogg,1
+L. Depoitre,S. Malone,1
+M. J\u00f8rgensen,L. Depoitre,1
+A. Mooy,P. Billing,1
+T. Ince,R. van La Parra,1
+T. Ince,J. Hogg,1
+M. J\u00f8rgensen,R. van La Parra,1
+J. Hogg,J. L\u00f6ssl,1
+P. Billing,A. Mooy,1
+L. Depoitre,M. J\u00f8rgensen,1
+A. Mooy,L. Depoitre,1
+J. Hogg,S. Malone,1
+E. Kachunga,T. Ince,1
+T. Ince,C. Schindler,1
+J. L\u00f6ssl,T. Ince,1
+S. Malone,R. van La Parra,1
+T. Smith,E. Kachunga,1
+S. Malone,M. J\u00f8rgensen,1
+E. Kachunga,S. Malone,1
+M. J\u00f8rgensen,S. Malone,1
+T. Ince,E. Kachunga,1
+T. Ince,T. Smith,1
+L. Depoitre,P. Billing,1
+T. Smith,T. Ince,1
+T. Smith,R. van La Parra,1
+J. Hogg,E. Kachunga,1

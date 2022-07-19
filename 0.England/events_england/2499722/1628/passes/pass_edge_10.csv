@@ -1,0 +1,24 @@
+Source,Target,Weight
+S. Dann,J. Tomkins,2
+J. Puncheon,W. Zaha,2
+P. van Aanholt,J. Puncheon,2
+J. Tomkins,A. Townsend,2
+A. Townsend,J. Tomkins,2
+J. Tomkins,J. Puncheon,1
+W. Zaha,J. Riedewald,1
+J. Ward,A. Townsend,1
+P. van Aanholt,S. Dann,1
+P. van Aanholt,J. Riedewald,1
+J. Puncheon,P. van Aanholt,1
+J. Riedewald,P. van Aanholt,1
+W. Zaha,J. Tomkins,1
+J. Riedewald,S. Dann,1
+J. Tomkins,R. Loftus-Cheek,1
+J. Tomkins,P. van Aanholt,1
+R. Loftus-Cheek,S. Dann,1
+S. Dann,P. van Aanholt,1
+J. Tomkins,S. Dann,1
+P. van Aanholt,J. Tomkins,1
+S. Dann,W. Zaha,1
+A. Townsend,J. Ward,1
+W. Zaha,P. van Aanholt,1

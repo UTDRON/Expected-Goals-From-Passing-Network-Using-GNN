@@ -1,0 +1,24 @@
+Source,Target,Weight
+D. Tadi\u0107,N. Redmond,3
+S. Boufal,S. McQueen,2
+N. Redmond,D. Tadi\u0107,2
+S. McQueen,S. Davis,2
+S. Boufal,R. Bertrand,1
+M. Yoshida,R. Bertrand,1
+F. Forster,J. Stephens,1
+M. Yoshida,F. Forster,1
+J. Stephens,Oriol Romeu,1
+J. Stephens,S. Boufal,1
+R. Bertrand,M. Yoshida,1
+S. Davis,S. Boufal,1
+R. Bertrand,C. Austin,1
+C. Austin,S. Boufal,1
+S. Boufal,D. Tadi\u0107,1
+J. Stephens,D. Tadi\u0107,1
+S. Davis,Oriol Romeu,1
+R. Bertrand,J. Stephens,1
+N. Redmond,S. Boufal,1
+Oriol Romeu,R. Bertrand,1
+Oriol Romeu,C\u00e9dric Soares,1
+Oriol Romeu,M. Yoshida,1
+D. Tadi\u0107,J. Stephens,1

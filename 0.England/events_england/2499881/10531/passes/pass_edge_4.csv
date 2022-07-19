@@ -1,0 +1,57 @@
+Source,Target,Weight
+K. Naughton,L. Narsingh,5
+L. Narsingh,K. Naughton,4
+M. Olsson,J. Ayew,3
+L. Narsingh,J. Ayew,3
+M. van der Hoorn,\u0141. Fabia\u0144ski,3
+A. Mawson,L. Narsingh,3
+J. Ayew,Roque Mesa,3
+L. Fer,Roque Mesa,3
+Roque Mesa,A. Mawson,3
+K. Naughton,M. van der Hoorn,2
+L. Fer,K. Naughton,2
+Roque Mesa,K. Naughton,2
+L. Narsingh,Roque Mesa,2
+Roque Mesa,L. Fer,2
+A. Mawson,J. Ayew,2
+J. Ayew,\u0141. Fabia\u0144ski,2
+K. Naughton,T. Abraham,2
+J. Ayew,A. Mawson,2
+\u0141. Fabia\u0144ski,J. Ayew,2
+K. Naughton,L. Fer,2
+Roque Mesa,M. van der Hoorn,2
+T. Abraham,M. Olsson,2
+M. van der Hoorn,K. Naughton,2
+A. Mawson,M. Olsson,2
+J. Ayew,M. Olsson,2
+L. Fer,L. Narsingh,2
+L. Narsingh,M. van der Hoorn,2
+J. Ayew,T. Abraham,2
+T. Abraham,K. Naughton,2
+Sung-Yeung Ki,M. Olsson,1
+Roque Mesa,Sung-Yeung Ki,1
+K. Naughton,J. Ayew,1
+K. Naughton,Roque Mesa,1
+L. Narsingh,L. Fer,1
+M. Olsson,Roque Mesa,1
+M. Olsson,L. Fer,1
+L. Fer,J. Ayew,1
+M. van der Hoorn,W. Bony,1
+Sung-Yeung Ki,L. Fer,1
+Roque Mesa,J. Ayew,1
+\u0141. Fabia\u0144ski,T. Abraham,1
+M. van der Hoorn,A. Mawson,1
+T. Abraham,L. Narsingh,1
+M. van der Hoorn,Roque Mesa,1
+L. Fer,M. van der Hoorn,1
+T. Abraham,L. Fer,1
+L. Fer,T. Abraham,1
+M. Olsson,L. Narsingh,1
+Sung-Yeung Ki,M. van der Hoorn,1
+M. Olsson,Sung-Yeung Ki,1
+W. Bony,K. Naughton,1
+\u0141. Fabia\u0144ski,L. Fer,1
+\u0141. Fabia\u0144ski,K. Naughton,1
+J. Ayew,L. Fer,1
+K. Naughton,Sung-Yeung Ki,1
+M. Olsson,A. Mawson,1

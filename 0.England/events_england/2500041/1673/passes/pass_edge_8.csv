@@ -1,0 +1,75 @@
+Source,Target,Weight
+C. Schindler,J. Hogg,6
+T. Ince,F. Hadergjonaj,6
+F. Hadergjonaj,M. J\u00f8rgensen,5
+J. Hogg,T. Ince,5
+T. Kongolo,R. van La Parra,5
+A. Mooy,J. Hogg,5
+M. J\u00f8rgensen,F. Hadergjonaj,4
+C. Schindler,A. Mooy,4
+S. Mouni\u00e9,A. Pritchard,4
+T. Ince,A. Mooy,4
+T. Ince,M. J\u00f8rgensen,4
+J. Hogg,M. J\u00f8rgensen,4
+R. van La Parra,C. Schindler,4
+J. Hogg,C. Schindler,4
+M. J\u00f8rgensen,C. Schindler,4
+A. Mooy,R. van La Parra,3
+M. J\u00f8rgensen,T. Ince,3
+R. van La Parra,T. Kongolo,3
+T. Kongolo,J. Hogg,3
+T. Ince,C. Schindler,3
+F. Hadergjonaj,J. Hogg,3
+R. van La Parra,J. Hogg,3
+J. L\u00f6ssl,S. Mouni\u00e9,3
+C. Schindler,T. Kongolo,3
+F. Hadergjonaj,T. Ince,3
+A. Pritchard,A. Mooy,3
+J. Hogg,A. Pritchard,2
+A. Pritchard,T. Kongolo,2
+A. Mooy,A. Pritchard,2
+A. Pritchard,S. Mouni\u00e9,2
+C. Schindler,A. Pritchard,2
+A. Mooy,T. Ince,2
+T. Kongolo,A. Pritchard,2
+A. Pritchard,R. van La Parra,2
+R. van La Parra,A. Mooy,2
+J. Hogg,T. Kongolo,2
+M. J\u00f8rgensen,J. Hogg,2
+A. Mooy,T. Kongolo,2
+J. Hogg,F. Hadergjonaj,2
+C. Schindler,R. van La Parra,2
+J. Hogg,R. van La Parra,2
+A. Pritchard,C. Schindler,2
+T. Kongolo,T. Ince,2
+A. Pritchard,T. Ince,1
+A. Pritchard,M. J\u00f8rgensen,1
+C. Schindler,J. L\u00f6ssl,1
+S. Mouni\u00e9,J. Hogg,1
+J. L\u00f6ssl,R. van La Parra,1
+T. Ince,S. Mouni\u00e9,1
+C. Schindler,T. Ince,1
+M. J\u00f8rgensen,T. Kongolo,1
+J. Hogg,A. Mooy,1
+J. L\u00f6ssl,A. Mooy,1
+R. van La Parra,T. Ince,1
+R. van La Parra,M. J\u00f8rgensen,1
+T. Kongolo,J. L\u00f6ssl,1
+A. Mooy,S. Mouni\u00e9,1
+S. Mouni\u00e9,R. van La Parra,1
+F. Hadergjonaj,S. Mouni\u00e9,1
+M. J\u00f8rgensen,J. L\u00f6ssl,1
+F. Hadergjonaj,A. Pritchard,1
+M. J\u00f8rgensen,A. Mooy,1
+T. Kongolo,C. Schindler,1
+J. Hogg,S. Mouni\u00e9,1
+R. van La Parra,A. Pritchard,1
+F. Hadergjonaj,T. Kongolo,1
+S. Mouni\u00e9,F. Hadergjonaj,1
+S. Mouni\u00e9,M. J\u00f8rgensen,1
+F. Hadergjonaj,J. L\u00f6ssl,1
+A. Mooy,F. Hadergjonaj,1
+T. Kongolo,S. Mouni\u00e9,1
+S. Mouni\u00e9,C. Schindler,1
+R. van La Parra,J. L\u00f6ssl,1
+S. Mouni\u00e9,T. Kongolo,1

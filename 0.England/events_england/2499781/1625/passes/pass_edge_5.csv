@@ -1,0 +1,46 @@
+Source,Target,Weight
+David Silva,F. Delph,4
+F. Delph,L. San\u00e9,3
+L. San\u00e9,David Silva,3
+N. Otamendi,David Silva,3
+F. Delph,N. Otamendi,3
+F. Delph,Fernandinho,2
+K. De Bruyne,K. Walker,2
+R. Sterling,K. De Bruyne,2
+R. Sterling,N. Otamendi,2
+J. Stones,K. Walker,2
+N. Otamendi,F. Delph,2
+David Silva,L. San\u00e9,2
+L. San\u00e9,J. Stones,2
+N. Otamendi,K. Walker,2
+K. Walker,R. Sterling,2
+Fernandinho,David Silva,2
+David Silva,R. Sterling,1
+David Silva,Fernandinho,1
+K. Walker,Ederson,1
+R. Sterling,Gabriel Jesus,1
+Fernandinho,F. Delph,1
+K. Walker,Fernandinho,1
+Ederson,R. Sterling,1
+K. Walker,L. San\u00e9,1
+N. Otamendi,J. Stones,1
+K. De Bruyne,R. Sterling,1
+David Silva,N. Otamendi,1
+Gabriel Jesus,David Silva,1
+Fernandinho,K. Walker,1
+L. San\u00e9,N. Otamendi,1
+K. Walker,J. Stones,1
+Fernandinho,Gabriel Jesus,1
+R. Sterling,J. Stones,1
+J. Stones,N. Otamendi,1
+F. Delph,J. Stones,1
+J. Stones,F. Delph,1
+J. Stones,L. San\u00e9,1
+K. De Bruyne,J. Stones,1
+Gabriel Jesus,N. Otamendi,1
+J. Stones,David Silva,1
+L. San\u00e9,Fernandinho,1
+K. Walker,K. De Bruyne,1
+L. San\u00e9,F. Delph,1
+N. Otamendi,L. San\u00e9,1
+J. Stones,K. De Bruyne,1

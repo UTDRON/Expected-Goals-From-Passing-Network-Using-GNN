@@ -1,0 +1,63 @@
+Source,Target,Weight
+C. Cathcart,A. Doucour\u00e9,4
+W. Hughes,A. Doucour\u00e9,4
+D. Janmaat,C. Cathcart,4
+J. Holebas,A. Gray,3
+E. Capoue,C. Cathcart,3
+A. Mariappa,D. Janmaat,3
+C. Kabasele,E. Capoue,3
+J. Holebas,C. Kabasele,2
+C. Cathcart,C. Kabasele,2
+C. Kabasele,C. Cathcart,2
+E. Capoue,A. Gray,2
+E. Capoue,J. Holebas,2
+C. Cathcart,E. Capoue,2
+D. Janmaat,W. Hughes,2
+W. Hughes,D. Janmaat,2
+A. Doucour\u00e9,W. Hughes,2
+A. Doucour\u00e9,D. Janmaat,2
+C. Cathcart,Deulofeu,2
+A. Doucour\u00e9,C. Cathcart,2
+Deulofeu,E. Capoue,2
+A. Doucour\u00e9,Deulofeu,2
+C. Cathcart,O. Karnezis,2
+A. Gray,C. Kabasele,2
+Deulofeu,J. Holebas,2
+A. Doucour\u00e9,A. Mariappa,2
+Deulofeu,C. Kabasele,2
+D. Janmaat,A. Doucour\u00e9,1
+A. Doucour\u00e9,O. Karnezis,1
+E. Capoue,A. Doucour\u00e9,1
+O. Karnezis,A. Mariappa,1
+D. Janmaat,A. Mariappa,1
+J. Holebas,Deulofeu,1
+T. Deeney,C. Cathcart,1
+A. Gray,A. Doucour\u00e9,1
+A. Doucour\u00e9,J. Holebas,1
+O. Karnezis,J. Holebas,1
+C. Kabasele,A. Doucour\u00e9,1
+A. Mariappa,Deulofeu,1
+O. Karnezis,D. Janmaat,1
+C. Cathcart,A. Mariappa,1
+D. Janmaat,Deulofeu,1
+D. Janmaat,A. Gray,1
+A. Gray,W. Hughes,1
+J. Holebas,E. Capoue,1
+J. Holebas,A. Doucour\u00e9,1
+C. Kabasele,J. Holebas,1
+E. Capoue,W. Hughes,1
+A. Mariappa,W. Hughes,1
+C. Kabasele,Deulofeu,1
+C. Kabasele,O. Karnezis,1
+A. Gray,C. Cathcart,1
+D. Janmaat,E. Capoue,1
+O. Karnezis,T. Deeney,1
+Deulofeu,A. Gray,1
+A. Gray,J. Holebas,1
+C. Cathcart,D. Janmaat,1
+A. Mariappa,E. Capoue,1
+J. Holebas,C. Cathcart,1
+A. Gray,D. Janmaat,1
+A. Doucour\u00e9,C. Kabasele,1
+W. Hughes,J. Holebas,1
+Deulofeu,A. Mariappa,1

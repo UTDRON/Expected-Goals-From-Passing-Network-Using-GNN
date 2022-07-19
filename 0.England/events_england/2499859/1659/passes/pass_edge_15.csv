@@ -1,0 +1,24 @@
+Source,Target,Weight
+S. Francis,A. Begovi\u0107,2
+L. Cook,A. Surman,2
+J. Ibe,A. Smith,2
+C. Daniels,L. Cook,2
+J. Ibe,N. Ak\u00e9,2
+A. Smith,J. Ibe,1
+S. Francis,C. Daniels,1
+A. Surman,S. Francis,1
+A. Begovi\u0107,B. Afobe,1
+J. King,J. Ibe,1
+L. Cook,R. Fraser,1
+N. Ak\u00e9,A. Surman,1
+A. Begovi\u0107,J. King,1
+B. Afobe,L. Cook,1
+L. Cook,J. King,1
+C. Wilson,C. Daniels,1
+A. Surman,L. Cook,1
+A. Smith,N. Ak\u00e9,1
+A. Surman,J. Ibe,1
+N. Ak\u00e9,C. Daniels,1
+R. Fraser,C. Wilson,1
+C. Daniels,J. Ibe,1
+J. King,S. Francis,1

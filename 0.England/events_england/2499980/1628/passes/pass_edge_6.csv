@@ -1,0 +1,53 @@
+Source,Target,Weight
+P. van Aanholt,A. S\u00f8rloth,5
+A. S\u00f8rloth,P. van Aanholt,4
+T. Fosu-Mensah,J. Tomkins,4
+L. Milivojevi\u0107,A. Townsend,4
+A. Townsend,J. Ward,3
+Y. Cabaye,J. Tomkins,3
+L. Milivojevi\u0107,Y. Cabaye,3
+P. van Aanholt,L. Milivojevi\u0107,3
+J. Ward,L. Milivojevi\u0107,3
+L. Milivojevi\u0107,J. Ward,3
+J. McArthur,P. van Aanholt,3
+A. Townsend,Y. Cabaye,3
+Y. Cabaye,A. Townsend,3
+J. Tomkins,A. S\u00f8rloth,2
+Y. Cabaye,T. Fosu-Mensah,2
+Y. Cabaye,J. Ward,2
+Y. Cabaye,A. S\u00f8rloth,2
+J. Tomkins,J. McArthur,2
+A. S\u00f8rloth,J. McArthur,2
+J. McArthur,L. Milivojevi\u0107,2
+L. Milivojevi\u0107,T. Fosu-Mensah,2
+J. Ward,A. Townsend,2
+P. van Aanholt,J. McArthur,2
+J. Ward,Y. Cabaye,2
+C. Benteke,P. van Aanholt,2
+A. S\u00f8rloth,L. Milivojevi\u0107,2
+T. Fosu-Mensah,L. Milivojevi\u0107,2
+J. McArthur,T. Fosu-Mensah,1
+A. Townsend,T. Fosu-Mensah,1
+P. van Aanholt,C. Benteke,1
+P. van Aanholt,J. Tomkins,1
+J. Tomkins,Y. Cabaye,1
+C. Benteke,Y. Cabaye,1
+J. McArthur,A. S\u00f8rloth,1
+A. Townsend,L. Milivojevi\u0107,1
+T. Fosu-Mensah,W. Hennessey,1
+T. Fosu-Mensah,Y. Cabaye,1
+A. Townsend,J. McArthur,1
+C. Benteke,A. S\u00f8rloth,1
+A. S\u00f8rloth,T. Fosu-Mensah,1
+Y. Cabaye,C. Benteke,1
+L. Milivojevi\u0107,P. van Aanholt,1
+A. S\u00f8rloth,Y. Cabaye,1
+J. Ward,C. Benteke,1
+A. S\u00f8rloth,C. Benteke,1
+A. Townsend,C. Benteke,1
+W. Hennessey,A. Townsend,1
+W. Hennessey,Y. Cabaye,1
+J. Tomkins,L. Milivojevi\u0107,1
+J. Tomkins,T. Fosu-Mensah,1
+J. Tomkins,P. van Aanholt,1
+L. Milivojevi\u0107,W. Hennessey,1

@@ -1,0 +1,13 @@
+Source,Target,Weight
+N. Kant\u00e9,Pedro,2
+Pedro,F\u00e0bregas,2
+D. Zappacosta,F\u00e0bregas,1
+A. Christensen,D. Zappacosta,1
+F\u00e0bregas,Marcos Alonso,1
+G. Cahill,N. Kant\u00e9,1
+F\u00e0bregas,A. Christensen,1
+Marcos Alonso,A. Christensen,1
+Pedro,D. Zappacosta,1
+D. Zappacosta,Pedro,1
+F\u00e0bregas,N. Kant\u00e9,1
+A. Christensen,Marcos Alonso,1

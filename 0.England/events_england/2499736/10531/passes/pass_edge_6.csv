@@ -1,0 +1,17 @@
+Source,Target,Weight
+M. Olsson,T. Carroll,2
+A. Mawson,M. Olsson,2
+L. Fer,K. Naughton,2
+K. Naughton,J. Ayew,2
+F. Fern\u00e1ndez,A. Mawson,1
+J. Ayew,K. Naughton,1
+Roque Mesa,L. Fer,1
+M. Olsson,J. Ayew,1
+J. Ayew,A. Mawson,1
+Roque Mesa,F. Fern\u00e1ndez,1
+K. Naughton,Roque Mesa,1
+A. Mawson,K. Naughton,1
+T. Carroll,T. Abraham,1
+J. Ayew,Roque Mesa,1
+K. Naughton,L. Fer,1
+T. Carroll,M. Olsson,1

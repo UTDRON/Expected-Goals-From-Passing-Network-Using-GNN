@@ -1,0 +1,31 @@
+Source,Target,Weight
+Sung-Yeung Ki,M. van der Hoorn,2
+M. Olsson,S. Clucas,2
+C. Roberts,K. Naughton,2
+M. van der Hoorn,A. Mawson,2
+K. Naughton,Sung-Yeung Ki,2
+Sung-Yeung Ki,C. Roberts,2
+A. Mawson,Sung-Yeung Ki,1
+M. van der Hoorn,K. Naughton,1
+A. King,J. Ayew,1
+A. Mawson,J. Ayew,1
+S. Clucas,A. Ayew,1
+K. Naughton,A. Mawson,1
+A. King,A. Mawson,1
+M. Olsson,A. Mawson,1
+A. Mawson,A. Ayew,1
+J. Ayew,M. van der Hoorn,1
+S. Clucas,M. van der Hoorn,1
+S. Clucas,A. King,1
+A. Mawson,M. van der Hoorn,1
+J. Ayew,K. Naughton,1
+M. van der Hoorn,A. King,1
+S. Clucas,M. Olsson,1
+J. Ayew,A. King,1
+M. van der Hoorn,Sung-Yeung Ki,1
+K. Naughton,A. King,1
+A. Ayew,J. Ayew,1
+A. Mawson,S. Clucas,1
+A. King,Sung-Yeung Ki,1
+A. King,M. Olsson,1
+Sung-Yeung Ki,S. Clucas,1

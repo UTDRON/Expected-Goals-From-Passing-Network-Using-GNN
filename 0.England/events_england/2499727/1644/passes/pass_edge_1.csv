@@ -1,0 +1,37 @@
+Source,Target,Weight
+J. Holebas,A. Doucour\u00e9,3
+D. Janmaat,Y. Kaboul,3
+M. Britos,D. Janmaat,3
+N. Amrabat,D. Janmaat,2
+N. Chalobah,D. Janmaat,2
+Y. Kaboul,M. Britos,2
+J. Holebas,N. Chalobah,2
+A. Doucour\u00e9,S. Okaka,2
+N. Chalobah,J. Holebas,2
+S. Okaka,Y. Kaboul,2
+Y. Kaboul,A. Doucour\u00e9,2
+D. Janmaat,N. Chalobah,2
+J. Holebas,S. Okaka,1
+S. Okaka,N. Chalobah,1
+A. Doucour\u00e9,D. Janmaat,1
+D. Janmaat,A. Doucour\u00e9,1
+A. Doucour\u00e9,Y. Kaboul,1
+Y. Kaboul,Gomes,1
+Y. Kaboul,D. Janmaat,1
+D. Janmaat,Gomes,1
+N. Chalobah,M. Britos,1
+Gomes,N. Amrabat,1
+D. Janmaat,J. Holebas,1
+Gomes,M. Britos,1
+N. Amrabat,J. Holebas,1
+Y. Kaboul,S. Okaka,1
+Gomes,S. Okaka,1
+A. Doucour\u00e9,N. Amrabat,1
+A. Doucour\u00e9,J. Holebas,1
+N. Chalobah,Gomes,1
+S. Okaka,R. Pereyra,1
+J. Holebas,M. Britos,1
+M. Britos,Y. Kaboul,1
+M. Britos,J. Holebas,1
+S. Okaka,J. Holebas,1
+D. Janmaat,N. Amrabat,1

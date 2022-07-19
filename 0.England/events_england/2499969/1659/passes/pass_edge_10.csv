@@ -1,0 +1,12 @@
+Source,Target,Weight
+R. Fraser,J. Ibe,4
+J. Ibe,R. Fraser,3
+L. Mousset,J. King,2
+L. Cook,R. Fraser,1
+D. Gosling,L. Mousset,1
+R. Fraser,L. Mousset,1
+C. Daniels,L. Cook,1
+J. Ibe,L. Mousset,1
+L. Mousset,R. Fraser,1
+J. King,L. Mousset,1
+J. King,C. Daniels,1

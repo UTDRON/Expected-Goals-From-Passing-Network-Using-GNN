@@ -1,0 +1,28 @@
+Source,Target,Weight
+V. van Dijk,J. Pied,3
+J. Pied,S. Davis,3
+S. Davis,J. Pied,2
+Oriol Romeu,S. Davis,2
+J. Pied,Oriol Romeu,2
+S. Davis,N. Redmond,2
+W. Hoedt,D. Tadi\u0107,1
+N. Redmond,W. Hoedt,1
+Oriol Romeu,V. van Dijk,1
+Oriol Romeu,N. Redmond,1
+J. Pied,V. van Dijk,1
+J. Ward-Prowse,J. Pied,1
+S. Davis,J. Ward-Prowse,1
+C. Austin,W. Hoedt,1
+V. van Dijk,W. Hoedt,1
+Oriol Romeu,C. Austin,1
+W. Hoedt,S. Boufal,1
+S. Davis,V. van Dijk,1
+S. Boufal,Oriol Romeu,1
+V. van Dijk,Oriol Romeu,1
+S. Boufal,V. van Dijk,1
+D. Tadi\u0107,S. Davis,1
+N. Redmond,J. Pied,1
+N. Redmond,S. Boufal,1
+J. Pied,S. Boufal,1
+N. Redmond,V. van Dijk,1
+W. Hoedt,N. Redmond,1

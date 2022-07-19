@@ -1,0 +1,51 @@
+Source,Target,Weight
+M. Diam\u00e9,F. Lejeune,4
+Ayoze P\u00e9rez,M. Ritchie,4
+Ayoze P\u00e9rez,J. Shelvey,3
+F. Lejeune,Ayoze P\u00e9rez,3
+M. Diam\u00e9,M. Ritchie,3
+I. Slimani,M. Diam\u00e9,2
+I. Slimani,Ayoze P\u00e9rez,2
+M. Ritchie,J. Lascelles,2
+M. Ritchie,I. Slimani,2
+M. Ritchie,D. Yedlin,2
+J. Shelvey,M. Ritchie,2
+D. Yedlin,I. Slimani,1
+Kenedy,J. Lascelles,1
+Kenedy,J. Shelvey,1
+M. Diam\u00e9,I. Slimani,1
+F. Lejeune,Kenedy,1
+M. Ritchie,D. Gayle,1
+J. Lascelles,D. Yedlin,1
+J. Lascelles,J. Shelvey,1
+Ayoze P\u00e9rez,I. Slimani,1
+Kenedy,M. Diam\u00e9,1
+J. Shelvey,M. Diam\u00e9,1
+M. Ritchie,M. Diam\u00e9,1
+J. Shelvey,Kenedy,1
+J. Lascelles,M. Ritchie,1
+J. Shelvey,Ayoze P\u00e9rez,1
+P. Dummett,M. Diam\u00e9,1
+Kenedy,F. Lejeune,1
+J. Shelvey,J. Lascelles,1
+D. Yedlin,J. Shelvey,1
+J. Shelvey,I. Slimani,1
+Kenedy,P. Dummett,1
+F. Lejeune,M. D\u00fabravka,1
+F. Lejeune,J. Shelvey,1
+I. Slimani,Kenedy,1
+M. D\u00fabravka,J. Lascelles,1
+M. Ritchie,Ayoze P\u00e9rez,1
+I. Slimani,P. Dummett,1
+F. Lejeune,M. Diam\u00e9,1
+D. Gayle,Ayoze P\u00e9rez,1
+J. Lascelles,Ayoze P\u00e9rez,1
+D. Yedlin,M. D\u00fabravka,1
+J. Lascelles,D. Gayle,1
+J. Shelvey,F. Lejeune,1
+M. Ritchie,F. Lejeune,1
+J. Lascelles,M. Diam\u00e9,1
+Ayoze P\u00e9rez,Kenedy,1
+M. D\u00fabravka,I. Slimani,1
+I. Slimani,J. Lascelles,1
+P. Dummett,Kenedy,1

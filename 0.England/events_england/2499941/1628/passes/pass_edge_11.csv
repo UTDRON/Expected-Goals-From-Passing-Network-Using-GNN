@@ -1,0 +1,59 @@
+Source,Target,Weight
+T. Fosu-Mensah,B. Sako,4
+B. Sako,P. van Aanholt,4
+W. Zaha,T. Fosu-Mensah,4
+M. Kelly,L. Milivojevi\u0107,3
+J. McArthur,W. Zaha,3
+P. van Aanholt,J. McArthur,3
+J. Riedewald,W. Zaha,3
+J. Riedewald,P. van Aanholt,3
+J. McArthur,J. Riedewald,3
+M. Kelly,W. Hennessey,2
+C. Benteke,J. McArthur,2
+B. Sako,J. McArthur,2
+L. Milivojevi\u0107,M. Kelly,2
+J. Riedewald,L. Milivojevi\u0107,2
+J. McArthur,P. van Aanholt,2
+C. Benteke,J. Riedewald,2
+B. Sako,W. Hennessey,2
+J. Riedewald,C. Benteke,2
+P. van Aanholt,J. Tomkins,2
+L. Milivojevi\u0107,C. Benteke,2
+W. Zaha,M. Kelly,2
+W. Hennessey,L. Milivojevi\u0107,2
+J. Tomkins,J. Riedewald,2
+P. van Aanholt,J. Riedewald,2
+P. van Aanholt,B. Sako,2
+B. Sako,T. Fosu-Mensah,2
+W. Zaha,C. Benteke,1
+W. Hennessey,J. McArthur,1
+J. Tomkins,B. Sako,1
+C. Benteke,W. Zaha,1
+J. Tomkins,W. Zaha,1
+T. Fosu-Mensah,P. van Aanholt,1
+J. Riedewald,T. Fosu-Mensah,1
+T. Fosu-Mensah,J. McArthur,1
+B. Sako,W. Zaha,1
+T. Fosu-Mensah,W. Hennessey,1
+C. Benteke,J. Tomkins,1
+W. Zaha,J. Tomkins,1
+M. Kelly,W. Zaha,1
+T. Fosu-Mensah,C. Benteke,1
+J. Riedewald,B. Sako,1
+J. McArthur,B. Sako,1
+P. van Aanholt,C. Benteke,1
+C. Benteke,B. Sako,1
+P. van Aanholt,T. Fosu-Mensah,1
+T. Fosu-Mensah,M. Kelly,1
+L. Milivojevi\u0107,B. Sako,1
+L. Milivojevi\u0107,T. Fosu-Mensah,1
+J. Tomkins,J. McArthur,1
+P. van Aanholt,L. Milivojevi\u0107,1
+L. Milivojevi\u0107,J. Riedewald,1
+W. Hennessey,J. Riedewald,1
+L. Milivojevi\u0107,J. Tomkins,1
+L. Milivojevi\u0107,P. van Aanholt,1
+J. McArthur,C. Benteke,1
+W. Zaha,J. Riedewald,1
+C. Benteke,M. Kelly,1
+W. Hennessey,P. van Aanholt,1

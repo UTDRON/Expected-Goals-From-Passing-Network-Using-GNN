@@ -1,0 +1,39 @@
+Source,Target,Weight
+J. McArthur,A. S\u00f8rloth,3
+J. Ward,C. Benteke,2
+J. Tomkins,J. McArthur,2
+A. S\u00f8rloth,J. Ward,2
+A. S\u00f8rloth,J. McArthur,2
+J. Ward,A. S\u00f8rloth,2
+P. van Aanholt,J. Tomkins,2
+J. McArthur,T. Fosu-Mensah,2
+A. S\u00f8rloth,P. van Aanholt,2
+C. Benteke,Y. Cabaye,1
+C. Benteke,A. S\u00f8rloth,1
+J. Ward,L. Milivojevi\u0107,1
+Y. Cabaye,P. van Aanholt,1
+T. Fosu-Mensah,J. Ward,1
+A. Townsend,T. Fosu-Mensah,1
+J. McArthur,P. van Aanholt,1
+P. van Aanholt,A. S\u00f8rloth,1
+W. Hennessey,A. S\u00f8rloth,1
+C. Benteke,J. Ward,1
+T. Fosu-Mensah,J. McArthur,1
+J. Ward,J. Tomkins,1
+J. McArthur,C. Benteke,1
+J. Tomkins,J. Ward,1
+J. McArthur,Y. Cabaye,1
+P. van Aanholt,W. Hennessey,1
+J. Ward,A. Townsend,1
+Y. Cabaye,L. Milivojevi\u0107,1
+J. Ward,Y. Cabaye,1
+J. Tomkins,P. van Aanholt,1
+A. S\u00f8rloth,Y. Cabaye,1
+A. S\u00f8rloth,A. Townsend,1
+P. van Aanholt,J. McArthur,1
+T. Fosu-Mensah,J. Tomkins,1
+L. Milivojevi\u0107,J. Ward,1
+Y. Cabaye,J. McArthur,1
+Y. Cabaye,J. Ward,1
+L. Milivojevi\u0107,J. McArthur,1
+A. Townsend,Y. Cabaye,1

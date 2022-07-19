@@ -1,0 +1,11 @@
+Source,Target,Weight
+R. Sterling,Bernardo Silva,2
+Bernardo Silva,B. Mendy,1
+David Silva,Danilo,1
+N. Otamendi,R. Sterling,1
+K. De Bruyne,N. Otamendi,1
+B. Mendy,David Silva,1
+K. De Bruyne,David Silva,1
+Danilo,R. Sterling,1
+Bernardo Silva,Danilo,1
+David Silva,K. De Bruyne,1

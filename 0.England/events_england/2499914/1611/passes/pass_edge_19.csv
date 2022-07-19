@@ -1,0 +1,54 @@
+Source,Target,Weight
+M. Rashford,N. Mati\u0107,5
+L. Shaw,M. Rashford,5
+N. Mati\u0107,L. Shaw,4
+N. Mati\u0107,P. Pogba,3
+M. Rashford,Juan Mata,3
+David de Gea,N. Mati\u0107,3
+H. Mkhitaryan,A. Young,3
+P. Jones,A. Young,2
+A. Young,P. Jones,2
+Juan Mata,H. Mkhitaryan,2
+H. Mkhitaryan,Juan Mata,2
+N. Mati\u0107,P. Jones,2
+Juan Mata,P. Pogba,2
+P. Pogba,L. Shaw,2
+A. Young,Juan Mata,2
+N. Mati\u0107,A. Young,2
+Juan Mata,A. Young,2
+P. Pogba,Juan Mata,2
+P. Jones,H. Mkhitaryan,2
+P. Pogba,David de Gea,2
+A. Young,M. Rashford,2
+J. Lingard,M. Rashford,1
+David de Gea,A. Young,1
+L. Shaw,P. Jones,1
+Juan Mata,N. Mati\u0107,1
+L. Shaw,P. Pogba,1
+J. Lingard,P. Pogba,1
+A. Young,David de Gea,1
+M. Rashford,L. Shaw,1
+M. Rashford,P. Pogba,1
+N. Mati\u0107,M. Rashford,1
+R. Lukaku,H. Mkhitaryan,1
+H. Mkhitaryan,P. Jones,1
+P. Pogba,N. Mati\u0107,1
+N. Mati\u0107,J. Lingard,1
+P. Jones,P. Pogba,1
+Juan Mata,L. Shaw,1
+R. Lukaku,L. Shaw,1
+P. Pogba,M. Rashford,1
+A. Young,R. Lukaku,1
+Juan Mata,R. Lukaku,1
+N. Mati\u0107,H. Mkhitaryan,1
+L. Shaw,J. Lingard,1
+H. Mkhitaryan,N. Mati\u0107,1
+N. Mati\u0107,David de Gea,1
+P. Pogba,P. Jones,1
+L. Shaw,N. Mati\u0107,1
+David de Gea,P. Jones,1
+A. Young,H. Mkhitaryan,1
+A. Young,N. Mati\u0107,1
+P. Jones,L. Shaw,1
+P. Jones,David de Gea,1
+P. Jones,N. Mati\u0107,1

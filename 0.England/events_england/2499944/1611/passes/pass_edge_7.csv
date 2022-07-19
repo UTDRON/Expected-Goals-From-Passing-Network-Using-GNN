@@ -1,0 +1,58 @@
+Source,Target,Weight
+C. Smalling,A. Valencia,4
+A. Martial,J. Lingard,4
+J. Lingard,N. Mati\u0107,3
+P. Pogba,R. Lukaku,3
+A. Valencia,N. Mati\u0107,3
+P. Pogba,A. Valencia,2
+A. Valencia,R. Lukaku,2
+P. Jones,C. Smalling,2
+J. Lingard,P. Pogba,2
+A. Martial,N. Mati\u0107,2
+L. Shaw,J. Lingard,2
+J. Lingard,A. Martial,2
+L. Shaw,P. Jones,2
+Juan Mata,P. Pogba,2
+N. Mati\u0107,A. Valencia,2
+N. Mati\u0107,A. Martial,2
+N. Mati\u0107,L. Shaw,2
+P. Pogba,L. Shaw,2
+Juan Mata,N. Mati\u0107,2
+L. Shaw,P. Pogba,2
+C. Smalling,Juan Mata,2
+N. Mati\u0107,P. Jones,2
+J. Lingard,Juan Mata,1
+P. Pogba,Juan Mata,1
+A. Martial,Juan Mata,1
+J. Lingard,A. Valencia,1
+A. Valencia,P. Pogba,1
+L. Shaw,C. Smalling,1
+R. Lukaku,L. Shaw,1
+A. Valencia,David de Gea,1
+L. Shaw,A. Martial,1
+P. Jones,A. Martial,1
+A. Martial,P. Pogba,1
+R. Lukaku,A. Valencia,1
+N. Mati\u0107,P. Pogba,1
+J. Lingard,C. Smalling,1
+L. Shaw,N. Mati\u0107,1
+A. Valencia,C. Smalling,1
+A. Valencia,L. Shaw,1
+C. Smalling,P. Jones,1
+A. Martial,C. Smalling,1
+A. Valencia,Juan Mata,1
+Juan Mata,A. Valencia,1
+David de Gea,C. Smalling,1
+C. Smalling,P. Pogba,1
+P. Pogba,A. Martial,1
+P. Jones,L. Shaw,1
+Juan Mata,A. Martial,1
+P. Jones,J. Lingard,1
+N. Mati\u0107,David de Gea,1
+N. Mati\u0107,C. Smalling,1
+David de Gea,J. Lingard,1
+P. Pogba,J. Lingard,1
+A. Valencia,J. Lingard,1
+Juan Mata,L. Shaw,1
+R. Lukaku,Juan Mata,1
+R. Lukaku,A. Martial,1

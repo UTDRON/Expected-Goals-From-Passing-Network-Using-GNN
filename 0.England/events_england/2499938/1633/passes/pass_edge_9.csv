@@ -1,0 +1,17 @@
+Source,Target,Weight
+A. Cresswell,A. Carroll,2
+A. Masuaku,A. Cresswell,2
+M. Noble,W. Reid,1
+A. Cresswell,A. Masuaku,1
+M. Lanzini,A. Cresswell,1
+A. Cresswell,M. Noble,1
+A. Carroll,A. Masuaku,1
+W. Reid,M. Noble,1
+A. Cresswell,P. Zabaleta,1
+P. Zabaleta,W. Reid,1
+W. Reid,P. Zabaleta,1
+A. Carroll,A. Cresswell,1
+M. Noble,A. Masuaku,1
+P. Zabaleta,M. Noble,1
+M. Noble,A. Cresswell,1
+A. Masuaku,A. Carroll,1

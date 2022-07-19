@@ -1,0 +1,12 @@
+Source,Target,Weight
+M. Ritchie,C. Atsu,2
+M. Ritchie,Mikel Merino,2
+C. Atsu,M. Ritchie,2
+C. Atsu,C. Clark,1
+I. Hayden,Javi Manquillo,1
+R. Elliot,M. Ritchie,1
+C. Clark,C. Atsu,1
+Javi Manquillo,I. Hayden,1
+Mikel Merino,M. Ritchie,1
+Javi Manquillo,C. Atsu,1
+Mikel Merino,Javi Manquillo,1

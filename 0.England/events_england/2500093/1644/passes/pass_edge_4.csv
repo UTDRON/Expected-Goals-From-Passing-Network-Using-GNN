@@ -1,0 +1,82 @@
+Source,Target,Weight
+R. Pereyra,A. Mariappa,8
+R. Pereyra,A. Doucour\u00e9,7
+C. Cathcart,A. Doucour\u00e9,7
+A. Doucour\u00e9,W. Hughes,7
+D. Janmaat,A. Doucour\u00e9,6
+J. Holebas,A. Doucour\u00e9,6
+A. Doucour\u00e9,D. Janmaat,6
+A. Doucour\u00e9,R. Pereyra,6
+A. Doucour\u00e9,C. Cathcart,5
+A. Mariappa,A. Doucour\u00e9,5
+W. Hughes,D. Janmaat,5
+C. Cathcart,R. Pereyra,4
+C. Cathcart,A. Mariappa,4
+A. Doucour\u00e9,A. Mariappa,4
+D. Janmaat,R. Pereyra,4
+Gomes,C. Cathcart,3
+J. Holebas,C. Cathcart,3
+A. Mariappa,C. Cathcart,3
+A. Mariappa,J. Holebas,3
+D. Janmaat,W. Hughes,3
+A. Mariappa,R. Pereyra,3
+A. Mariappa,D. Janmaat,3
+A. Gray,D. Janmaat,3
+D. Janmaat,A. Gray,3
+A. Gray,W. Hughes,3
+R. Pereyra,J. Holebas,3
+A. Doucour\u00e9,J. Holebas,3
+A. Mariappa,A. Gray,2
+C. Cathcart,J. Holebas,2
+W. Hughes,A. Mariappa,2
+Deulofeu,D. Janmaat,2
+C. Cathcart,Richarlison,2
+Deulofeu,R. Pereyra,2
+W. Hughes,C. Cathcart,2
+A. Doucour\u00e9,T. Deeney,2
+W. Hughes,A. Doucour\u00e9,2
+J. Holebas,R. Pereyra,2
+W. Hughes,Deulofeu,2
+D. Janmaat,A. Mariappa,2
+A. Doucour\u00e9,Richarlison,2
+W. Hughes,J. Holebas,2
+Richarlison,A. Doucour\u00e9,2
+R. Pereyra,T. Deeney,2
+J. Holebas,Gomes,2
+R. Pereyra,C. Cathcart,2
+Richarlison,D. Janmaat,2
+C. Cathcart,A. Gray,1
+Deulofeu,A. Gray,1
+A. Mariappa,Gomes,1
+A. Doucour\u00e9,Gomes,1
+T. Deeney,A. Gray,1
+A. Mariappa,Deulofeu,1
+A. Mariappa,T. Deeney,1
+A. Gray,A. Mariappa,1
+Richarlison,C. Cathcart,1
+N. Chalobah,C. Cathcart,1
+J. Holebas,N. Chalobah,1
+Gomes,Richarlison,1
+Gomes,D. Janmaat,1
+D. Janmaat,T. Deeney,1
+Richarlison,Deulofeu,1
+T. Deeney,Richarlison,1
+Deulofeu,Richarlison,1
+W. Hughes,R. Pereyra,1
+A. Gray,Deulofeu,1
+Gomes,R. Pereyra,1
+Richarlison,J. Holebas,1
+T. Deeney,Gomes,1
+Richarlison,W. Hughes,1
+Deulofeu,C. Cathcart,1
+D. Janmaat,Deulofeu,1
+R. Pereyra,Deulofeu,1
+T. Deeney,A. Doucour\u00e9,1
+T. Deeney,W. Hughes,1
+C. Cathcart,Gomes,1
+Gomes,J. Holebas,1
+Richarlison,A. Mariappa,1
+T. Deeney,R. Pereyra,1
+D. Janmaat,Gomes,1
+D. Janmaat,Richarlison,1
+J. Holebas,Richarlison,1

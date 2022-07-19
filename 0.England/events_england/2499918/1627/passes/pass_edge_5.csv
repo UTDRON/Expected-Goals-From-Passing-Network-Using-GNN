@@ -1,0 +1,23 @@
+Source,Target,Weight
+C. Dawson,G. Barry,3
+J. Rodriguez,M. Phillips,2
+C. Dawson,J. Rodriguez,2
+C. Brunt,C. Dawson,2
+G. Barry,C. Brunt,2
+M. Phillips,J. Rodriguez,1
+S. Rond\u00f3n,C. Dawson,1
+G. Barry,M. Phillips,1
+G. Barry,C. Dawson,1
+J. Livermore,M. Phillips,1
+J. Evans,J. Livermore,1
+S. Rond\u00f3n,C. Brunt,1
+M. Phillips,S. Rond\u00f3n,1
+M. Phillips,C. Dawson,1
+J. Rodriguez,Ahmed Hegazy,1
+J. Evans,G. Barry,1
+B. Foster,C. Dawson,1
+Ahmed Hegazy,J. Evans,1
+Ahmed Hegazy,C. Dawson,1
+M. Phillips,J. Evans,1
+C. Dawson,S. Rond\u00f3n,1
+C. Dawson,B. Foster,1

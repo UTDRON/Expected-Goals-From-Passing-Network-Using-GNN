@@ -1,0 +1,44 @@
+Source,Target,Weight
+P. Jones,L. Shaw,3
+N. Mati\u0107,P. Jones,3
+N. Mati\u0107,Juan Mata,3
+A. Martial,N. Mati\u0107,2
+A. Martial,L. Shaw,2
+P. Pogba,L. Shaw,2
+N. Mati\u0107,V. Lindel\u00f6f,2
+L. Shaw,P. Pogba,2
+A. Young,N. Mati\u0107,2
+A. Martial,V. Lindel\u00f6f,2
+V. Lindel\u00f6f,David de Gea,2
+Juan Mata,A. Martial,2
+P. Pogba,A. Martial,2
+L. Shaw,N. Mati\u0107,2
+L. Shaw,A. Young,2
+L. Shaw,P. Jones,2
+N. Mati\u0107,A. Martial,1
+V. Lindel\u00f6f,L. Shaw,1
+V. Lindel\u00f6f,P. Jones,1
+P. Jones,A. Young,1
+P. Pogba,N. Mati\u0107,1
+J. Lingard,P. Jones,1
+Juan Mata,P. Jones,1
+P. Jones,N. Mati\u0107,1
+David de Gea,P. Jones,1
+P. Jones,David de Gea,1
+P. Pogba,Juan Mata,1
+David de Gea,N. Mati\u0107,1
+V. Lindel\u00f6f,N. Mati\u0107,1
+J. Lingard,P. Pogba,1
+David de Gea,V. Lindel\u00f6f,1
+Juan Mata,J. Lingard,1
+Juan Mata,L. Shaw,1
+M. Rashford,J. Lingard,1
+P. Jones,P. Pogba,1
+A. Martial,J. Lingard,1
+L. Shaw,J. Lingard,1
+N. Mati\u0107,L. Shaw,1
+J. Lingard,A. Martial,1
+P. Jones,M. Rashford,1
+P. Jones,A. Martial,1
+A. Young,P. Pogba,1
+L. Shaw,Juan Mata,1

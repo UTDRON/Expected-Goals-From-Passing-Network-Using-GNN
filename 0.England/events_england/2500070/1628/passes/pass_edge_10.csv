@@ -1,0 +1,16 @@
+Source,Target,Weight
+J. Ward,W. Zaha,2
+W. Zaha,J. Ward,2
+Y. Cabaye,A. Townsend,2
+A. Townsend,L. Milivojevi\u0107,1
+J. Ward,Y. Cabaye,1
+J. McArthur,P. van Aanholt,1
+J. Ward,J. McArthur,1
+J. McArthur,L. Milivojevi\u0107,1
+L. Milivojevi\u0107,J. McArthur,1
+Y. Cabaye,J. McArthur,1
+J. McArthur,W. Zaha,1
+W. Zaha,Y. Cabaye,1
+L. Milivojevi\u0107,J. Ward,1
+A. Townsend,Y. Cabaye,1
+P. van Aanholt,J. McArthur,1

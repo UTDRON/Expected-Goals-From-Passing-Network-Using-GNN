@@ -1,0 +1,21 @@
+Source,Target,Weight
+P. Billing,A. Pritchard,4
+C. Quaner,T. Kongolo,3
+F. Hadergjonaj,P. Billing,2
+T. Kongolo,C. Quaner,2
+A. Pritchard,S. Mouni\u00e9,2
+C. Quaner,A. Mooy,2
+P. Billing,S. Mouni\u00e9,1
+F. Hadergjonaj,M. J\u00f8rgensen,1
+A. Pritchard,F. Hadergjonaj,1
+S. Mouni\u00e9,T. Ince,1
+S. Mouni\u00e9,P. Billing,1
+A. Mooy,M. J\u00f8rgensen,1
+P. Billing,F. Hadergjonaj,1
+M. J\u00f8rgensen,C. Quaner,1
+S. Mouni\u00e9,F. Hadergjonaj,1
+M. J\u00f8rgensen,P. Billing,1
+T. Kongolo,C. Schindler,1
+T. Ince,P. Billing,1
+A. Pritchard,C. Quaner,1
+C. Schindler,C. Quaner,1

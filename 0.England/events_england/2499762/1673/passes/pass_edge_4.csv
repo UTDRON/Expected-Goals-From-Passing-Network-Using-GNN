@@ -1,0 +1,11 @@
+Source,Target,Weight
+E. Kachunga,T. Smith,2
+T. Smith,D. Williams,2
+D. Williams,T. Ince,1
+A. Sabiri,T. Ince,1
+C. Schindler,T. Smith,1
+A. Mooy,C. Schindler,1
+T. Ince,C. L\u00f6we,1
+T. Smith,A. Sabiri,1
+D. Williams,E. Kachunga,1
+C. L\u00f6we,E. Kachunga,1

@@ -1,0 +1,20 @@
+Source,Target,Weight
+C. Daniels,J. Stanislas,2
+A. Smith,J. Defoe,2
+S. Francis,J. Ibe,2
+L. Cook,J. Ibe,1
+J. Ibe,A. Smith,1
+J. Stanislas,L. Cook,1
+A. Smith,J. Ibe,1
+N. Ak\u00e9,L. Cook,1
+J. Defoe,N. Ak\u00e9,1
+C. Daniels,A. Smith,1
+J. Defoe,A. Smith,1
+J. Defoe,S. Francis,1
+N. Ak\u00e9,S. Francis,1
+J. Ibe,N. Ak\u00e9,1
+J. Stanislas,N. Ak\u00e9,1
+J. Ibe,C. Daniels,1
+J. Ibe,J. Defoe,1
+N. Ak\u00e9,C. Daniels,1
+L. Cook,C. Daniels,1

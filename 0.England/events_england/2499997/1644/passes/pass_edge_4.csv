@@ -1,0 +1,59 @@
+Source,Target,Weight
+E. Capoue,A. Mariappa,3
+S. Pr\u00f6dl,E. Capoue,3
+A. Doucour\u00e9,T. Deeney,3
+S. Pr\u00f6dl,A. Doucour\u00e9,2
+A. Doucour\u00e9,Deulofeu,2
+O. Karnezis,S. Pr\u00f6dl,2
+J. Holebas,A. Mariappa,2
+T. Deeney,D. Janmaat,2
+Richarlison,S. Pr\u00f6dl,2
+E. Capoue,J. Holebas,2
+T. Deeney,Richarlison,2
+E. Capoue,O. Karnezis,2
+A. Doucour\u00e9,R. Pereyra,2
+R. Pereyra,Richarlison,2
+D. Janmaat,S. Pr\u00f6dl,2
+Richarlison,R. Pereyra,2
+J. Holebas,E. Capoue,2
+D. Janmaat,Deulofeu,2
+A. Mariappa,Richarlison,2
+T. Deeney,A. Doucour\u00e9,2
+A. Mariappa,J. Holebas,2
+Deulofeu,A. Doucour\u00e9,2
+R. Pereyra,A. Doucour\u00e9,2
+J. Holebas,Richarlison,2
+S. Pr\u00f6dl,D. Janmaat,2
+O. Karnezis,T. Deeney,1
+Richarlison,A. Doucour\u00e9,1
+Deulofeu,E. Capoue,1
+J. Holebas,D. Janmaat,1
+R. Pereyra,D. Janmaat,1
+Deulofeu,S. Pr\u00f6dl,1
+T. Deeney,E. Capoue,1
+R. Pereyra,Deulofeu,1
+D. Janmaat,A. Doucour\u00e9,1
+S. Pr\u00f6dl,T. Deeney,1
+Richarlison,J. Holebas,1
+D. Janmaat,R. Pereyra,1
+A. Doucour\u00e9,S. Pr\u00f6dl,1
+A. Mariappa,D. Janmaat,1
+A. Mariappa,O. Karnezis,1
+A. Mariappa,S. Pr\u00f6dl,1
+A. Mariappa,E. Capoue,1
+Richarlison,A. Mariappa,1
+E. Capoue,D. Janmaat,1
+A. Doucour\u00e9,J. Holebas,1
+E. Capoue,S. Pr\u00f6dl,1
+R. Pereyra,E. Capoue,1
+D. Janmaat,A. Mariappa,1
+T. Deeney,R. Pereyra,1
+Deulofeu,Richarlison,1
+D. Janmaat,E. Capoue,1
+S. Pr\u00f6dl,A. Mariappa,1
+Deulofeu,J. Holebas,1
+Richarlison,T. Deeney,1
+D. Janmaat,T. Deeney,1
+Richarlison,Deulofeu,1
+A. Doucour\u00e9,D. Janmaat,1
+E. Capoue,R. Pereyra,1

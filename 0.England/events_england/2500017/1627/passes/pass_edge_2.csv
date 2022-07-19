@@ -1,0 +1,27 @@
+Source,Target,Weight
+A. Nyom,O. Burke,3
+O. Burke,A. Nyom,3
+B. Foster,S. Rond\u00f3n,2
+K. Gibbs,S. Rond\u00f3n,2
+G. Krychowiak,A. Nyom,2
+Ahmed Hegazy,O. Burke,2
+J. Livermore,C. Brunt,2
+A. Nyom,G. Krychowiak,2
+A. Nyom,C. Brunt,1
+C. Brunt,B. Foster,1
+G. Krychowiak,C. Dawson,1
+O. Burke,G. Krychowiak,1
+M. Phillips,C. Brunt,1
+S. Rond\u00f3n,K. Gibbs,1
+O. Burke,C. Dawson,1
+O. Burke,Ahmed Hegazy,1
+C. Dawson,J. Livermore,1
+S. Rond\u00f3n,J. Livermore,1
+C. Brunt,G. Krychowiak,1
+C. Brunt,K. Gibbs,1
+C. Dawson,A. Nyom,1
+G. Krychowiak,O. Burke,1
+S. Rond\u00f3n,Ahmed Hegazy,1
+C. Dawson,B. Foster,1
+S. Rond\u00f3n,A. Nyom,1
+A. Nyom,C. Dawson,1

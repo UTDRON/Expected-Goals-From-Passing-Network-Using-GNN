@@ -1,0 +1,53 @@
+Source,Target,Weight
+P. Jones,E. Bailly,5
+E. Bailly,P. Jones,5
+P. Jones,D. Blind,4
+N. Mati\u0107,D. Blind,4
+A. Valencia,N. Mati\u0107,3
+Juan Mata,P. Pogba,3
+N. Mati\u0107,P. Pogba,3
+D. Blind,P. Jones,3
+P. Pogba,N. Mati\u0107,3
+D. Blind,M. Rashford,3
+P. Pogba,Juan Mata,3
+E. Bailly,P. Pogba,2
+H. Mkhitaryan,Juan Mata,2
+D. Blind,N. Mati\u0107,2
+R. Lukaku,D. Blind,2
+P. Jones,M. Rashford,2
+M. Rashford,D. Blind,2
+Juan Mata,P. Jones,2
+M. Rashford,P. Jones,2
+D. Blind,H. Mkhitaryan,2
+E. Bailly,H. Mkhitaryan,2
+D. Blind,E. Bailly,2
+David de Gea,E. Bailly,1
+Juan Mata,N. Mati\u0107,1
+H. Mkhitaryan,D. Blind,1
+P. Jones,Juan Mata,1
+P. Jones,N. Mati\u0107,1
+N. Mati\u0107,M. Rashford,1
+N. Mati\u0107,E. Bailly,1
+P. Pogba,E. Bailly,1
+D. Blind,P. Pogba,1
+P. Pogba,P. Jones,1
+N. Mati\u0107,A. Valencia,1
+David de Gea,N. Mati\u0107,1
+H. Mkhitaryan,A. Valencia,1
+H. Mkhitaryan,P. Jones,1
+A. Valencia,E. Bailly,1
+Juan Mata,H. Mkhitaryan,1
+N. Mati\u0107,H. Mkhitaryan,1
+P. Pogba,R. Lukaku,1
+H. Mkhitaryan,P. Pogba,1
+N. Mati\u0107,Juan Mata,1
+E. Bailly,A. Valencia,1
+M. Rashford,P. Pogba,1
+E. Bailly,N. Mati\u0107,1
+Juan Mata,R. Lukaku,1
+D. Blind,David de Gea,1
+P. Pogba,A. Valencia,1
+P. Pogba,D. Blind,1
+E. Bailly,Juan Mata,1
+P. Jones,David de Gea,1
+M. Rashford,E. Bailly,1

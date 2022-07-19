@@ -1,0 +1,19 @@
+Source,Target,Weight
+D. Janmaat,Gomes,2
+T. Cleverley,D. Janmaat,2
+Gomes,S. Pr\u00f6dl,1
+C. Kabasele,D. Janmaat,1
+J. Holebas,D. Janmaat,1
+S. Okaka,D. Janmaat,1
+A. Carrillo,T. Cleverley,1
+S. Pr\u00f6dl,J. Holebas,1
+D. Janmaat,S. Pr\u00f6dl,1
+Gomes,Richarlison,1
+Gomes,T. Cleverley,1
+S. Pr\u00f6dl,Gomes,1
+T. Cleverley,C. Kabasele,1
+D. Janmaat,S. Okaka,1
+Richarlison,S. Okaka,1
+C. Kabasele,T. Cleverley,1
+D. Janmaat,C. Kabasele,1
+T. Cleverley,A. Carrillo,1

@@ -1,0 +1,53 @@
+Source,Target,Weight
+B. Martins Indi,E. Pieters,4
+E. Pieters,K. Stafylidis,3
+E. Pieters,G. Cameron,3
+G. Cameron,E. Pieters,3
+K. Zouma,M. Bauer,2
+J. Allen,X. Shaqiri,2
+B. N'Diaye,E. Pieters,2
+E. Choupo-Moting,J. Allen,2
+E. Pieters,E. Choupo-Moting,2
+E. Choupo-Moting,X. Shaqiri,2
+J. Allen,M. Bauer,2
+M. Bauer,J. Allen,2
+K. Stafylidis,J. Allen,2
+J. Butland,E. Choupo-Moting,2
+B. Martins Indi,K. Zouma,2
+B. Martins Indi,J. Butland,1
+E. Choupo-Moting,B. N'Diaye,1
+E. Pieters,B. N'Diaye,1
+M. Bauer,B. N'Diaye,1
+E. Pieters,J. Butland,1
+G. Cameron,J. Allen,1
+G. Cameron,B. Martins Indi,1
+E. Pieters,K. Zouma,1
+E. Pieters,J. Allen,1
+M. Bauer,J. Butland,1
+B. Martins Indi,J. Allen,1
+B. N'Diaye,K. Zouma,1
+J. Allen,G. Cameron,1
+B. N'Diaye,E. Choupo-Moting,1
+X. Shaqiri,E. Pieters,1
+E. Choupo-Moting,G. Cameron,1
+J. Allen,B. Martins Indi,1
+J. Allen,K. Stafylidis,1
+E. Choupo-Moting,B. Martins Indi,1
+K. Zouma,J. Butland,1
+K. Zouma,B. Martins Indi,1
+E. Choupo-Moting,M. Bauer,1
+X. Shaqiri,B. N'Diaye,1
+J. Allen,E. Pieters,1
+K. Zouma,J. Allen,1
+B. N'Diaye,B. Martins Indi,1
+J. Allen,B. N'Diaye,1
+J. Butland,K. Zouma,1
+K. Stafylidis,B. N'Diaye,1
+K. Zouma,E. Pieters,1
+J. Allen,E. Choupo-Moting,1
+X. Shaqiri,E. Choupo-Moting,1
+E. Pieters,B. Martins Indi,1
+M. Bauer,E. Choupo-Moting,1
+X. Shaqiri,B. Martins Indi,1
+K. Stafylidis,B. Martins Indi,1
+J. Butland,E. Pieters,1

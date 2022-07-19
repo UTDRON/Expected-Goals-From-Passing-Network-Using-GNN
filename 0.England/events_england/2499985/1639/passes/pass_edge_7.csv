@@ -1,0 +1,19 @@
+Source,Target,Weight
+J. Allen,M. Bauer,3
+B. N'Diaye,E. Pieters,2
+M. Bauer,J. Allen,2
+J. Butland,J. Allen,1
+S. Berahino,M. Diouf,1
+B. N'Diaye,X. Shaqiri,1
+E. Pieters,J. Butland,1
+M. Bauer,J. Butland,1
+X. Shaqiri,M. Bauer,1
+X. Shaqiri,M. Diouf,1
+J. Butland,B. N'Diaye,1
+M. Bauer,B. N'Diaye,1
+X. Shaqiri,S. Berahino,1
+M. Diouf,B. N'Diaye,1
+M. Bauer,X. Shaqiri,1
+E. Pieters,K. Zouma,1
+M. Diouf,X. Shaqiri,1
+K. Zouma,B. N'Diaye,1

@@ -1,0 +1,39 @@
+Source,Target,Weight
+Beller\u00edn,R. Holding,6
+S. Kola\u0161inac,M. \u00d6zil,6
+R. Holding,Nacho Monreal,6
+Nacho Monreal,S. Kola\u0161inac,6
+Mohamed Elneny,Beller\u00edn,4
+G. Xhaka,R. Holding,4
+M. \u00d6zil,G. Xhaka,3
+R. Holding,Beller\u00edn,3
+Beller\u00edn,Mohamed Elneny,3
+Nacho Monreal,G. Xhaka,3
+Nacho Monreal,R. Holding,2
+M. \u00d6zil,S. Kola\u0161inac,2
+A. Oxlade-Chamberlain,M. \u00d6zil,2
+S. Kola\u0161inac,A. Oxlade-Chamberlain,2
+G. Xhaka,Beller\u00edn,2
+S. Kola\u0161inac,Nacho Monreal,2
+S. Kola\u0161inac,G. Xhaka,2
+G. Xhaka,A. Oxlade-Chamberlain,2
+M. \u00d6zil,D. Welbeck,2
+M. \u00d6zil,Nacho Monreal,2
+D. Welbeck,Nacho Monreal,1
+R. Holding,M. \u00d6zil,1
+G. Xhaka,A. Lacazette,1
+Nacho Monreal,Mohamed Elneny,1
+Mohamed Elneny,Nacho Monreal,1
+A. Lacazette,M. \u00d6zil,1
+M. \u00d6zil,A. Oxlade-Chamberlain,1
+A. Oxlade-Chamberlain,D. Welbeck,1
+G. Xhaka,Mohamed Elneny,1
+M. \u00d6zil,A. Lacazette,1
+R. Holding,Mohamed Elneny,1
+A. Oxlade-Chamberlain,Beller\u00edn,1
+A. Lacazette,S. Kola\u0161inac,1
+Mohamed Elneny,G. Xhaka,1
+Beller\u00edn,G. Xhaka,1
+R. Holding,S. Kola\u0161inac,1
+A. Oxlade-Chamberlain,S. Kola\u0161inac,1
+D. Welbeck,M. \u00d6zil,1

@@ -1,0 +1,24 @@
+Source,Target,Weight
+C. Wood,S. Ward,2
+P. Bardsley,J. Hendrick,2
+K. Long,J. Cork,2
+S. Arfield,S. Ward,2
+S. Ward,J. Hendrick,2
+N. Pope,C. Wood,2
+S. Ward,J. Tarkowski,2
+J. Hendrick,S. Ward,1
+J. Gu\u00f0munds\u00adson,S. Ward,1
+S. Ward,C. Wood,1
+C. Wood,J. Gu\u00f0munds\u00adson,1
+K. Long,P. Bardsley,1
+J. Hendrick,P. Bardsley,1
+J. Cork,N. Pope,1
+J. Hendrick,S. Arfield,1
+J. Tarkowski,S. Defour,1
+J. Hendrick,J. Gu\u00f0munds\u00adson,1
+S. Defour,K. Long,1
+J. Cork,K. Long,1
+J. Gu\u00f0munds\u00adson,J. Hendrick,1
+K. Long,N. Pope,1
+S. Ward,S. Arfield,1
+J. Tarkowski,K. Long,1

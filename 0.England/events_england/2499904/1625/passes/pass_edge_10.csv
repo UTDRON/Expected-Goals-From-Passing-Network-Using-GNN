@@ -1,0 +1,32 @@
+Source,Target,Weight
+Bernardo Silva,David Silva,3
+Fernandinho,David Silva,3
+V. Kompany,Bernardo Silva,2
+Ederson,N. Otamendi,2
+Bernardo Silva,Fernandinho,2
+N. Otamendi,Ederson,2
+N. Otamendi,F. Delph,2
+David Silva,V. Kompany,2
+David Silva,Bernardo Silva,1
+Ederson,K. Walker,1
+V. Kompany,N. Otamendi,1
+F. Delph,N. Otamendi,1
+S. Ag\u00fcero,Bernardo Silva,1
+Bernardo Silva,R. Sterling,1
+R. Sterling,\u0130. G\u00fcndo\u011fan,1
+Ederson,Fernandinho,1
+Fernandinho,F. Delph,1
+F. Delph,S. Ag\u00fcero,1
+S. Ag\u00fcero,F. Delph,1
+F. Delph,Ederson,1
+N. Otamendi,V. Kompany,1
+F. Delph,Bernardo Silva,1
+K. Walker,V. Kompany,1
+V. Kompany,K. Walker,1
+David Silva,S. Ag\u00fcero,1
+\u0130. G\u00fcndo\u011fan,Ederson,1
+S. Ag\u00fcero,\u0130. G\u00fcndo\u011fan,1
+David Silva,N. Otamendi,1
+\u0130. G\u00fcndo\u011fan,Bernardo Silva,1
+K. Walker,Bernardo Silva,1
+Bernardo Silva,S. Ag\u00fcero,1

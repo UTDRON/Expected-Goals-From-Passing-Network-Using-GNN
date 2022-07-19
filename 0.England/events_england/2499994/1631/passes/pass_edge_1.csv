@@ -1,0 +1,16 @@
+Source,Target,Weight
+D. Simpson,R. Mahrez,3
+R. Mahrez,D. Simpson,2
+M. Albrighton,W. Morgan,2
+D. Simpson,W. Ndidi,1
+W. Morgan,R. Mahrez,1
+D. Gray,J. Vardy,1
+W. Ndidi,M. Albrighton,1
+M. James,H. Maguire,1
+H. Maguire,B. Chilwell,1
+R. Mahrez,W. Ndidi,1
+J. Vardy,D. Simpson,1
+W. Ndidi,D. Simpson,1
+B. Chilwell,D. Gray,1
+R. Mahrez,M. Albrighton,1
+W. Morgan,M. James,1

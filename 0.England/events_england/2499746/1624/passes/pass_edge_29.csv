@@ -1,0 +1,15 @@
+Source,Target,Weight
+K. Trippier,T. Alderweireld,2
+J. Vertonghen,C. Eriksen,2
+E. Dier,K. Trippier,1
+E. Dier,J. Vertonghen,1
+B. Davies,C. Eriksen,1
+J. Vertonghen,B. Davies,1
+B. Davies,H. Lloris,1
+C. Eriksen,B. Davies,1
+C. Eriksen,E. Dier,1
+T. Alderweireld,J. Vertonghen,1
+T. Alderweireld,E. Dier,1
+H. Lloris,K. Trippier,1
+E. Dier,M. Demb\u00e9l\u00e9,1
+M. Demb\u00e9l\u00e9,E. Dier,1

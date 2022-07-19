@@ -1,0 +1,23 @@
+Source,Target,Weight
+A. Carroll,C. Kouyat\u00e9,2
+J. Hart,A. Carroll,2
+W. Reid,J. Hart,1
+M. Antonio,A. Cresswell,1
+J. Collins,W. Reid,1
+J. Collins,P. Zabaleta,1
+C. Kouyat\u00e9,Jos\u00e9 Fonte,1
+W. Reid,J. Collins,1
+A. Cresswell,M. Antonio,1
+Jos\u00e9 Fonte,W. Reid,1
+Pedro Obiang,Jos\u00e9 Fonte,1
+Pedro Obiang,W. Reid,1
+W. Reid,Pedro Obiang,1
+M. Antonio,A. Carroll,1
+A. Carroll,Jos\u00e9 Fonte,1
+A. Carroll,J. Collins,1
+P. Zabaleta,W. Reid,1
+A. Cresswell,A. Carroll,1
+Jos\u00e9 Fonte,J. Hart,1
+P. Zabaleta,Pedro Obiang,1
+W. Reid,M. Antonio,1
+Jos\u00e9 Fonte,P. Zabaleta,1

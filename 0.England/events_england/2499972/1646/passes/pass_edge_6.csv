@@ -1,0 +1,16 @@
+Source,Target,Weight
+A. Lennon,M. Lowton,2
+M. Lowton,J. Gu\u00f0munds\u00adson,2
+M. Lowton,J. Hendrick,1
+N. Pope,S. Vokes,1
+J. Gu\u00f0munds\u00adson,M. Lowton,1
+J. Cork,M. Lowton,1
+J. Cork,A. Lennon,1
+S. Vokes,J. Cork,1
+S. Vokes,M. Lowton,1
+M. Lowton,A. Lennon,1
+M. Lowton,S. Vokes,1
+J. Hendrick,J. Gu\u00f0munds\u00adson,1
+J. Gu\u00f0munds\u00adson,S. Vokes,1
+S. Vokes,N. Pope,1
+J. Gu\u00f0munds\u00adson,K. Long,1

@@ -1,0 +1,13 @@
+Source,Target,Weight
+A. Nyom,J. Livermore,2
+A. Nyom,C. Brunt,1
+G. Barry,C. Brunt,1
+Ahmed Hegazy,J. Evans,1
+K. Gibbs,G. Barry,1
+J. Livermore,A. Nyom,1
+Ahmed Hegazy,A. Nyom,1
+H. Robson-Kanu,A. Nyom,1
+C. Brunt,Ahmed Hegazy,1
+A. Nyom,H. Robson-Kanu,1
+C. Brunt,A. Nyom,1
+J. Livermore,Ahmed Hegazy,1

@@ -1,0 +1,18 @@
+Source,Target,Weight
+W. Morgan,W. Ndidi,4
+W. Ndidi,W. Morgan,4
+W. Ndidi,Vicente Iborra,2
+D. Simpson,W. Morgan,2
+Vicente Iborra,W. Ndidi,2
+W. Morgan,K. Schmeichel,1
+K. Schmeichel,Vicente Iborra,1
+R. Mahrez,W. Ndidi,1
+Vicente Iborra,R. Mahrez,1
+D. Gray,H. Maguire,1
+H. Maguire,Vicente Iborra,1
+W. Morgan,Vicente Iborra,1
+Vicente Iborra,D. Gray,1
+W. Ndidi,D. Simpson,1
+D. Gray,W. Ndidi,1
+W. Ndidi,R. Mahrez,1
+R. Mahrez,D. Gray,1

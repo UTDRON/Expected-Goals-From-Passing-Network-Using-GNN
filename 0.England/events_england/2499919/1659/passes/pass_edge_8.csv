@@ -1,0 +1,14 @@
+Source,Target,Weight
+A. Smith,B. Afobe,3
+B. Afobe,A. Smith,2
+L. Cook,S. Francis,1
+C. Wilson,J. Ibe,1
+N. Ak\u00e9,R. Fraser,1
+R. Fraser,D. Gosling,1
+J. Ibe,S. Francis,1
+N. Ak\u00e9,L. Cook,1
+A. Smith,N. Ak\u00e9,1
+S. Francis,A. Smith,1
+D. Gosling,A. Smith,1
+B. Afobe,R. Fraser,1
+R. Fraser,C. Wilson,1

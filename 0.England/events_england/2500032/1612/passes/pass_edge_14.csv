@@ -1,0 +1,98 @@
+Source,Target,Weight
+J. Milner,A. Robertson,10
+J. Milner,V. van Dijk,8
+A. Robertson,J. Milner,8
+V. van Dijk,J. Henderson,8
+J. Henderson,T. Alexander-Arnold,7
+V. van Dijk,A. Robertson,7
+T. Alexander-Arnold,Mohamed Salah,6
+J. Matip,J. Henderson,6
+J. Henderson,V. van Dijk,6
+J. Matip,T. Alexander-Arnold,5
+T. Alexander-Arnold,Roberto Firmino,4
+T. Alexander-Arnold,J. Matip,4
+A. Robertson,J. Henderson,4
+V. van Dijk,J. Matip,4
+J. Henderson,A. Robertson,4
+Roberto Firmino,J. Milner,4
+T. Alexander-Arnold,V. van Dijk,4
+Roberto Firmino,J. Henderson,4
+A. Robertson,Roberto Firmino,4
+Mohamed Salah,T. Alexander-Arnold,4
+A. Oxlade-Chamberlain,J. Milner,4
+Mohamed Salah,J. Milner,3
+J. Milner,T. Alexander-Arnold,3
+A. Robertson,A. Oxlade-Chamberlain,3
+Roberto Firmino,J. Matip,3
+J. Henderson,J. Milner,3
+T. Alexander-Arnold,J. Milner,3
+J. Matip,J. Milner,3
+A. Robertson,T. Alexander-Arnold,3
+J. Milner,Mohamed Salah,3
+A. Robertson,S. Man\u00e9,3
+Roberto Firmino,A. Oxlade-Chamberlain,3
+S. Man\u00e9,Roberto Firmino,3
+J. Henderson,J. Matip,2
+J. Milner,J. Matip,2
+Mohamed Salah,Roberto Firmino,2
+J. Henderson,L. Karius,2
+Roberto Firmino,A. Robertson,2
+J. Matip,Mohamed Salah,2
+Roberto Firmino,V. van Dijk,2
+J. Milner,A. Oxlade-Chamberlain,2
+T. Alexander-Arnold,A. Robertson,2
+A. Oxlade-Chamberlain,T. Alexander-Arnold,2
+A. Oxlade-Chamberlain,J. Matip,2
+J. Matip,L. Karius,2
+L. Karius,J. Henderson,2
+A. Robertson,V. van Dijk,2
+L. Karius,V. van Dijk,2
+T. Alexander-Arnold,G. Wijnaldum,2
+J. Matip,S. Man\u00e9,2
+V. van Dijk,T. Alexander-Arnold,2
+V. van Dijk,L. Karius,2
+Mohamed Salah,J. Henderson,2
+J. Henderson,Roberto Firmino,2
+A. Oxlade-Chamberlain,Roberto Firmino,2
+J. Henderson,G. Wijnaldum,2
+A. Lallana,A. Robertson,2
+V. van Dijk,J. Milner,2
+T. Alexander-Arnold,J. Henderson,1
+G. Wijnaldum,V. van Dijk,1
+A. Oxlade-Chamberlain,Mohamed Salah,1
+J. Henderson,A. Lallana,1
+A. Robertson,A. Lallana,1
+J. Henderson,A. Oxlade-Chamberlain,1
+Mohamed Salah,V. van Dijk,1
+A. Oxlade-Chamberlain,J. Henderson,1
+J. Matip,V. van Dijk,1
+V. van Dijk,Roberto Firmino,1
+T. Alexander-Arnold,L. Karius,1
+J. Matip,A. Oxlade-Chamberlain,1
+S. Man\u00e9,J. Matip,1
+L. Karius,J. Milner,1
+Mohamed Salah,G. Wijnaldum,1
+L. Karius,A. Oxlade-Chamberlain,1
+G. Wijnaldum,T. Alexander-Arnold,1
+G. Wijnaldum,A. Robertson,1
+J. Milner,Roberto Firmino,1
+Roberto Firmino,S. Man\u00e9,1
+V. van Dijk,G. Wijnaldum,1
+Mohamed Salah,A. Robertson,1
+G. Wijnaldum,Mohamed Salah,1
+A. Lallana,A. Oxlade-Chamberlain,1
+G. Wijnaldum,J. Henderson,1
+A. Oxlade-Chamberlain,L. Karius,1
+A. Robertson,J. Matip,1
+T. Alexander-Arnold,A. Lallana,1
+G. Wijnaldum,J. Matip,1
+J. Milner,J. Henderson,1
+J. Milner,L. Karius,1
+S. Man\u00e9,T. Alexander-Arnold,1
+Roberto Firmino,T. Alexander-Arnold,1
+L. Karius,Mohamed Salah,1
+S. Man\u00e9,A. Robertson,1
+Mohamed Salah,A. Oxlade-Chamberlain,1
+L. Karius,J. Matip,1
+A. Robertson,Mohamed Salah,1
+L. Karius,Roberto Firmino,1

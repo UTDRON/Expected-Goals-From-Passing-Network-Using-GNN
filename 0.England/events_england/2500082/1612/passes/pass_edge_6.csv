@@ -1,0 +1,78 @@
+Source,Target,Weight
+V. van Dijk,A. Robertson,7
+A. Robertson,V. van Dijk,6
+T. Alexander-Arnold,V. van Dijk,6
+D. Lovren,N. Clyne,6
+G. Wijnaldum,J. Milner,5
+N. Clyne,D. Lovren,5
+D. Lovren,V. van Dijk,5
+V. van Dijk,D. Lovren,5
+D. Lovren,J. Milner,5
+J. Milner,N. Clyne,4
+V. van Dijk,T. Alexander-Arnold,4
+A. Robertson,T. Alexander-Arnold,4
+G. Wijnaldum,A. Robertson,4
+J. Milner,D. Lovren,4
+J. Milner,S. Man\u00e9,4
+J. Milner,A. Robertson,3
+D. Lovren,T. Alexander-Arnold,3
+G. Wijnaldum,V. van Dijk,3
+N. Clyne,J. Milner,3
+V. van Dijk,G. Wijnaldum,3
+S. Man\u00e9,N. Clyne,3
+J. Milner,G. Wijnaldum,2
+T. Alexander-Arnold,A. Robertson,2
+T. Alexander-Arnold,G. Wijnaldum,2
+A. Robertson,D. Lovren,2
+A. Robertson,J. Milner,2
+N. Clyne,T. Alexander-Arnold,2
+V. van Dijk,L. Karius,2
+T. Alexander-Arnold,S. Man\u00e9,2
+N. Clyne,G. Wijnaldum,2
+S. Man\u00e9,Mohamed Salah,2
+L. Karius,T. Alexander-Arnold,2
+J. Milner,V. van Dijk,2
+T. Alexander-Arnold,D. Lovren,2
+A. Robertson,S. Man\u00e9,2
+N. Clyne,Mohamed Salah,2
+Mohamed Salah,D. Lovren,2
+L. Karius,J. Milner,2
+Mohamed Salah,J. Milner,2
+Mohamed Salah,Roberto Firmino,1
+D. Lovren,A. Robertson,1
+N. Clyne,L. Karius,1
+J. Milner,L. Karius,1
+S. Man\u00e9,A. Robertson,1
+Roberto Firmino,J. Milner,1
+S. Man\u00e9,V. van Dijk,1
+T. Alexander-Arnold,Mohamed Salah,1
+Mohamed Salah,N. Clyne,1
+Roberto Firmino,A. Robertson,1
+L. Karius,G. Wijnaldum,1
+Roberto Firmino,Mohamed Salah,1
+N. Clyne,S. Man\u00e9,1
+L. Karius,Mohamed Salah,1
+A. Robertson,G. Wijnaldum,1
+S. Man\u00e9,Roberto Firmino,1
+V. van Dijk,J. Milner,1
+S. Man\u00e9,D. Lovren,1
+J. Milner,Mohamed Salah,1
+Mohamed Salah,G. Wijnaldum,1
+G. Wijnaldum,D. Lovren,1
+A. Robertson,N. Clyne,1
+D. Lovren,G. Wijnaldum,1
+S. Man\u00e9,J. Milner,1
+V. van Dijk,S. Man\u00e9,1
+S. Man\u00e9,G. Wijnaldum,1
+S. Man\u00e9,L. Karius,1
+Roberto Firmino,S. Man\u00e9,1
+G. Wijnaldum,T. Alexander-Arnold,1
+N. Clyne,Roberto Firmino,1
+V. van Dijk,Roberto Firmino,1
+A. Robertson,L. Karius,1
+J. Milner,Roberto Firmino,1
+Roberto Firmino,V. van Dijk,1
+L. Karius,V. van Dijk,1
+D. Lovren,S. Man\u00e9,1
+T. Alexander-Arnold,N. Clyne,1
+V. van Dijk,N. Clyne,1

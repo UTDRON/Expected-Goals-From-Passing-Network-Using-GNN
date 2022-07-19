@@ -1,0 +1,13 @@
+Source,Target,Weight
+S. McQueen,N. Redmond,2
+N. Redmond,S. McQueen,2
+S. Davis,S. Boufal,1
+S. McQueen,M. Yoshida,1
+S. McQueen,S. Boufal,1
+M. Yoshida,S. McQueen,1
+S. Boufal,C\u00e9dric Soares,1
+J. Stephens,S. McQueen,1
+D. Tadi\u0107,S. Davis,1
+C\u00e9dric Soares,D. Tadi\u0107,1
+M. Yoshida,C\u00e9dric Soares,1
+C\u00e9dric Soares,J. Stephens,1

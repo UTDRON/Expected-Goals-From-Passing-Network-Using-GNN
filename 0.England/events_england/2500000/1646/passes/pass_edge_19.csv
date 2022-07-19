@@ -1,0 +1,26 @@
+Source,Target,Weight
+S. Ward,A. Barnes,2
+M. Lowton,C. Wood,2
+J. Tarkowski,M. Lowton,2
+J. Cork,A. Westwood,2
+J. Tarkowski,J. Cork,2
+J. Gu\u00f0munds\u00adson,S. Ward,1
+J. Cork,S. Ward,1
+A. Lennon,A. Westwood,1
+C. Wood,S. Ward,1
+J. Cork,A. Lennon,1
+C. Wood,M. Lowton,1
+A. Barnes,M. Lowton,1
+S. Ward,J. Tarkowski,1
+A. Barnes,J. Cork,1
+M. Lowton,J. Tarkowski,1
+A. Westwood,J. Cork,1
+S. Ward,J. Gu\u00f0munds\u00adson,1
+A. Westwood,N. Pope,1
+M. Lowton,A. Lennon,1
+J. Gu\u00f0munds\u00adson,J. Tarkowski,1
+N. Pope,B. Mee,1
+A. Westwood,S. Ward,1
+C. Wood,J. Tarkowski,1
+A. Lennon,C. Wood,1
+B. Mee,C. Wood,1

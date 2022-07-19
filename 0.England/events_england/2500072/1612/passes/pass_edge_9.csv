@@ -1,0 +1,49 @@
+Source,Target,Weight
+J. Gomez,V. van Dijk,7
+J. Henderson,J. Gomez,7
+J. Gomez,J. Henderson,6
+V. van Dijk,J. Gomez,5
+T. Alexander-Arnold,J. Henderson,3
+V. van Dijk,R. Klavan,3
+R. Klavan,J. Gomez,3
+J. Gomez,Mohamed Salah,2
+G. Wijnaldum,T. Alexander-Arnold,2
+R. Klavan,V. van Dijk,2
+V. van Dijk,J. Henderson,2
+J. Henderson,Mohamed Salah,2
+Roberto Firmino,J. Henderson,2
+J. Gomez,R. Klavan,2
+J. Henderson,Alberto Moreno,2
+R. Klavan,Roberto Firmino,2
+D. Ings,R. Klavan,2
+T. Alexander-Arnold,J. Gomez,2
+Alberto Moreno,G. Wijnaldum,1
+Mohamed Salah,J. Gomez,1
+Roberto Firmino,D. Ings,1
+R. Klavan,G. Wijnaldum,1
+J. Henderson,R. Klavan,1
+R. Klavan,J. Henderson,1
+R. Klavan,Alberto Moreno,1
+Alberto Moreno,R. Klavan,1
+Mohamed Salah,R. Klavan,1
+V. van Dijk,Roberto Firmino,1
+V. van Dijk,Alberto Moreno,1
+J. Gomez,T. Alexander-Arnold,1
+T. Alexander-Arnold,V. van Dijk,1
+Mohamed Salah,T. Alexander-Arnold,1
+Roberto Firmino,T. Alexander-Arnold,1
+Roberto Firmino,V. van Dijk,1
+Roberto Firmino,Alberto Moreno,1
+J. Gomez,Roberto Firmino,1
+J. Henderson,Roberto Firmino,1
+Alberto Moreno,Roberto Firmino,1
+R. Klavan,T. Alexander-Arnold,1
+R. Klavan,D. Ings,1
+G. Wijnaldum,R. Klavan,1
+G. Wijnaldum,J. Gomez,1
+J. Henderson,V. van Dijk,1
+J. Henderson,G. Wijnaldum,1
+T. Alexander-Arnold,G. Wijnaldum,1
+V. van Dijk,T. Alexander-Arnold,1
+Alberto Moreno,V. van Dijk,1
+Alberto Moreno,J. Henderson,1

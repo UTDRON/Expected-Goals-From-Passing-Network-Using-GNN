@@ -1,0 +1,62 @@
+Source,Target,Weight
+Danilo,N. Otamendi,13
+N. Otamendi,Fernandinho,10
+N. Otamendi,Danilo,7
+Fernandinho,K. Walker,7
+K. Walker,Fernandinho,6
+R. Sterling,Danilo,5
+Fernandinho,\u0130. G\u00fcndo\u011fan,5
+N. Otamendi,\u0130. G\u00fcndo\u011fan,5
+K. De Bruyne,Danilo,5
+\u0130. G\u00fcndo\u011fan,Fernandinho,4
+K. Walker,N. Otamendi,4
+\u0130. G\u00fcndo\u011fan,N. Otamendi,4
+Gabriel Jesus,Danilo,4
+\u0130. G\u00fcndo\u011fan,K. Walker,4
+Fernandinho,N. Otamendi,4
+N. Otamendi,K. De Bruyne,4
+Danilo,R. Sterling,3
+K. De Bruyne,\u0130. G\u00fcndo\u011fan,3
+K. Walker,Bernardo Silva,3
+N. Otamendi,R. Sterling,3
+\u0130. G\u00fcndo\u011fan,R. Sterling,3
+K. De Bruyne,N. Otamendi,3
+\u0130. G\u00fcndo\u011fan,K. De Bruyne,3
+Danilo,\u0130. G\u00fcndo\u011fan,3
+R. Sterling,N. Otamendi,3
+Danilo,K. De Bruyne,3
+Ederson,N. Otamendi,3
+Fernandinho,Danilo,2
+R. Sterling,K. De Bruyne,2
+Bernardo Silva,K. Walker,2
+Fernandinho,S. Ag\u00fcero,2
+N. Otamendi,K. Walker,2
+Gabriel Jesus,R. Sterling,2
+K. Walker,\u0130. G\u00fcndo\u011fan,2
+S. Ag\u00fcero,\u0130. G\u00fcndo\u011fan,2
+K. Walker,K. De Bruyne,2
+N. Otamendi,Ederson,2
+S. Ag\u00fcero,Fernandinho,2
+Fernandinho,Ederson,2
+N. Otamendi,Gabriel Jesus,2
+K. De Bruyne,K. Walker,2
+\u0130. G\u00fcndo\u011fan,Gabriel Jesus,1
+Fernandinho,Bernardo Silva,1
+R. Sterling,S. Ag\u00fcero,1
+Ederson,Danilo,1
+K. Walker,S. Ag\u00fcero,1
+R. Sterling,Gabriel Jesus,1
+K. De Bruyne,Ederson,1
+Fernandinho,Gabriel Jesus,1
+Bernardo Silva,K. De Bruyne,1
+Fernandinho,K. De Bruyne,1
+Danilo,Fernandinho,1
+Ederson,Fernandinho,1
+Danilo,Gabriel Jesus,1
+Bernardo Silva,N. Otamendi,1
+S. Ag\u00fcero,K. Walker,1
+Gabriel Jesus,\u0130. G\u00fcndo\u011fan,1
+K. De Bruyne,Gabriel Jesus,1
+K. De Bruyne,Fernandinho,1
+K. De Bruyne,R. Sterling,1
+\u0130. G\u00fcndo\u011fan,S. Ag\u00fcero,1

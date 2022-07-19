@@ -1,0 +1,97 @@
+Source,Target,Weight
+Willian,E. Hazard,10
+T. Bakayoko,Marcos Alonso,7
+E. Hazard,Willian,7
+E. Hazard,Marcos Alonso,7
+Marcos Alonso,T. Bakayoko,6
+Willian,V. Moses,6
+A. R\u00fcdiger,Marcos Alonso,6
+V. Moses,Willian,5
+M. Batshuayi,E. Hazard,5
+T. Bakayoko,N. Kant\u00e9,5
+E. Hazard,T. Bakayoko,5
+Marcos Alonso,E. Hazard,5
+E. Hazard,V. Moses,5
+N. Kant\u00e9,T. Bakayoko,5
+Azpilicueta,W. Caballero,4
+Azpilicueta,Willian,4
+Marcos Alonso,A. R\u00fcdiger,4
+Azpilicueta,David Luiz,3
+Marcos Alonso,Azpilicueta,3
+W. Caballero,M. Batshuayi,3
+V. Moses,N. Kant\u00e9,3
+T. Bakayoko,E. Hazard,3
+Willian,Azpilicueta,3
+M. Batshuayi,T. Bakayoko,3
+N. Kant\u00e9,Azpilicueta,3
+M. Batshuayi,Willian,3
+A. R\u00fcdiger,W. Caballero,3
+T. Bakayoko,David Luiz,3
+David Luiz,Azpilicueta,3
+N. Kant\u00e9,A. R\u00fcdiger,3
+Marcos Alonso,Willian,3
+David Luiz,Marcos Alonso,3
+A. R\u00fcdiger,E. Hazard,3
+David Luiz,A. R\u00fcdiger,3
+E. Hazard,M. Batshuayi,3
+A. R\u00fcdiger,David Luiz,3
+Marcos Alonso,David Luiz,3
+David Luiz,M. Batshuayi,2
+V. Moses,David Luiz,2
+V. Moses,Azpilicueta,2
+W. Caballero,A. R\u00fcdiger,2
+David Luiz,V. Moses,2
+N. Kant\u00e9,E. Hazard,2
+M. Batshuayi,A. R\u00fcdiger,2
+David Luiz,N. Kant\u00e9,2
+N. Kant\u00e9,M. Batshuayi,2
+Azpilicueta,T. Bakayoko,2
+Marcos Alonso,N. Kant\u00e9,2
+E. Hazard,A. R\u00fcdiger,2
+N. Kant\u00e9,V. Moses,2
+Willian,N. Kant\u00e9,2
+M. Batshuayi,David Luiz,2
+W. Caballero,Azpilicueta,2
+Willian,M. Batshuayi,2
+V. Moses,Marcos Alonso,2
+A. R\u00fcdiger,T. Bakayoko,2
+Azpilicueta,A. Christensen,2
+W. Caballero,E. Hazard,2
+A. R\u00fcdiger,M. Batshuayi,2
+T. Bakayoko,Azpilicueta,2
+E. Hazard,N. Kant\u00e9,2
+Azpilicueta,E. Hazard,2
+M. Batshuayi,N. Kant\u00e9,2
+T. Bakayoko,D. Zappacosta,1
+A. Christensen,M. Batshuayi,1
+V. Moses,A. R\u00fcdiger,1
+Willian,W. Caballero,1
+A. Christensen,V. Moses,1
+T. Bakayoko,Willian,1
+V. Moses,M. Batshuayi,1
+E. Hazard,D. Zappacosta,1
+D. Zappacosta,T. Bakayoko,1
+D. Zappacosta,M. Batshuayi,1
+W. Caballero,Marcos Alonso,1
+M. Batshuayi,W. Caballero,1
+Marcos Alonso,M. Batshuayi,1
+Marcos Alonso,W. Caballero,1
+Willian,Marcos Alonso,1
+Marcos Alonso,A. Christensen,1
+David Luiz,Willian,1
+T. Bakayoko,A. Christensen,1
+A. Christensen,Azpilicueta,1
+V. Moses,E. Hazard,1
+N. Kant\u00e9,Marcos Alonso,1
+T. Bakayoko,A. R\u00fcdiger,1
+Willian,A. Christensen,1
+A. Christensen,Willian,1
+Azpilicueta,V. Moses,1
+A. Christensen,A. R\u00fcdiger,1
+W. Caballero,V. Moses,1
+V. Moses,T. Bakayoko,1
+Azpilicueta,N. Kant\u00e9,1
+A. Christensen,W. Caballero,1
+T. Bakayoko,M. Batshuayi,1
+M. Batshuayi,A. Christensen,1
+N. Kant\u00e9,Willian,1

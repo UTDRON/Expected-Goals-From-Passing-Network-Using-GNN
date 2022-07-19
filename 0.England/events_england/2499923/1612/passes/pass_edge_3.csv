@@ -1,0 +1,15 @@
+Source,Target,Weight
+Mohamed Salah,J. Milner,2
+J. Milner,A. Robertson,2
+A. Robertson,S. Man\u00e9,2
+A. Robertson,J. Milner,1
+J. Gomez,J. Matip,1
+Philippe Coutinho,J. Gomez,1
+S. Man\u00e9,Philippe Coutinho,1
+J. Milner,J. Gomez,1
+J. Matip,Mohamed Salah,1
+D. Lovren,A. Robertson,1
+J. Gomez,J. Milner,1
+J. Milner,D. Lovren,1
+J. Gomez,Philippe Coutinho,1
+S. Man\u00e9,J. Gomez,1

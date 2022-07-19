@@ -1,0 +1,33 @@
+Source,Target,Weight
+M. J\u00f8rgensen,T. Smith,3
+T. Smith,M. J\u00f8rgensen,3
+M. J\u00f8rgensen,D. Williams,2
+T. Smith,S. Mouni\u00e9,1
+R. van La Parra,A. Pritchard,1
+R. van La Parra,J. Hogg,1
+D. Williams,R. van La Parra,1
+T. Smith,C. Quaner,1
+J. Hogg,M. J\u00f8rgensen,1
+M. J\u00f8rgensen,A. Pritchard,1
+C. Quaner,L. Depoitre,1
+D. Williams,S. Mouni\u00e9,1
+T. Smith,J. Hogg,1
+C. Schindler,M. J\u00f8rgensen,1
+L. Depoitre,D. Williams,1
+A. Pritchard,M. J\u00f8rgensen,1
+S. Mouni\u00e9,A. Pritchard,1
+A. Pritchard,T. Kongolo,1
+C. Schindler,T. Smith,1
+S. Mouni\u00e9,D. Williams,1
+A. Pritchard,C. Schindler,1
+C. Quaner,J. Hogg,1
+T. Kongolo,R. van La Parra,1
+D. Williams,C. Schindler,1
+T. Kongolo,S. Mouni\u00e9,1
+J. Hogg,R. van La Parra,1
+D. Williams,T. Kongolo,1
+S. Mouni\u00e9,T. Kongolo,1
+J. Hogg,C. Quaner,1
+T. Kongolo,D. Williams,1
+R. van La Parra,D. Williams,1
+D. Williams,T. Smith,1

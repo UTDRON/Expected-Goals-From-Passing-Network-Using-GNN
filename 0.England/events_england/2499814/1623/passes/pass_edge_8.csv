@@ -1,0 +1,20 @@
+Source,Target,Weight
+A. Williams,P. Jagielka,2
+B. Baningime,A. Williams,2
+J. Kenny,B. Baningime,2
+B. Baningime,D. Calvert-Lewin,2
+B. Baningime,J. Kenny,1
+L. Baines,B. Baningime,1
+O. Niasse,J. Kenny,1
+L. Baines,I. Gueye,1
+W. Rooney,L. Baines,1
+A. Williams,B. Baningime,1
+P. Jagielka,W. Rooney,1
+I. Gueye,B. Baningime,1
+D. Calvert-Lewin,T. Davies,1
+D. Calvert-Lewin,O. Niasse,1
+D. Calvert-Lewin,L. Baines,1
+P. Jagielka,D. Calvert-Lewin,1
+T. Davies,P. Jagielka,1
+L. Baines,A. Williams,1
+P. Jagielka,L. Baines,1

@@ -1,0 +1,30 @@
+Source,Target,Weight
+N. Mati\u0107,A. Young,3
+P. Pogba,A. Martial,2
+A. Young,A. Martial,2
+N. Mati\u0107,P. Pogba,2
+J. Lingard,A. Valencia,2
+P. Jones,David de Gea,2
+David de Gea,N. Mati\u0107,2
+A. Valencia,David de Gea,2
+David de Gea,P. Jones,1
+A. Young,A. Valencia,1
+A. Young,N. Mati\u0107,1
+C. Smalling,N. Mati\u0107,1
+J. Lingard,Juan Mata,1
+C. Smalling,David de Gea,1
+P. Pogba,P. Jones,1
+A. Martial,N. Mati\u0107,1
+A. Martial,A. Young,1
+David de Gea,A. Valencia,1
+A. Martial,P. Pogba,1
+C. Smalling,J. Lingard,1
+C. Smalling,A. Valencia,1
+A. Valencia,J. Lingard,1
+P. Pogba,C. Smalling,1
+A. Valencia,Juan Mata,1
+David de Gea,C. Smalling,1
+Juan Mata,J. Lingard,1
+Juan Mata,A. Young,1
+A. Valencia,C. Smalling,1
+A. Young,P. Pogba,1

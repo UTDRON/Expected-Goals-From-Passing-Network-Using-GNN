@@ -1,0 +1,26 @@
+Source,Target,Weight
+I. Gueye,A. Williams,2
+J. Pickford,M. Holgate,2
+T. Davies,I. Gueye,2
+I. Gueye,T. Davies,1
+D. Calvert-Lewin,I. Gueye,1
+D. Calvert-Lewin,J. Kenny,1
+J. Kenny,D. Calvert-Lewin,1
+W. Rooney,T. Davies,1
+W. Rooney,G. Sigur\u00f0sson,1
+M. Holgate,I. Gueye,1
+T. Davies,J. Kenny,1
+J. Kenny,J. Pickford,1
+A. Williams,D. Calvert-Lewin,1
+A. Williams,J. Pickford,1
+I. Gueye,J. Kenny,1
+D. Calvert-Lewin,T. Davies,1
+M. Holgate,J. Kenny,1
+J. Kenny,G. Sigur\u00f0sson,1
+I. Gueye,W. Rooney,1
+J. Pickford,G. Sigur\u00f0sson,1
+Cuco Martina,I. Gueye,1
+J. Kenny,T. Davies,1
+G. Sigur\u00f0sson,J. Pickford,1
+G. Sigur\u00f0sson,D. Calvert-Lewin,1
+T. Davies,W. Rooney,1

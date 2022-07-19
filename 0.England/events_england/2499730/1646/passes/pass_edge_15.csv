@@ -1,0 +1,27 @@
+Source,Target,Weight
+S. Defour,M. Lowton,3
+M. Lowton,S. Defour,3
+T. Heaton,S. Defour,1
+S. Defour,B. Mee,1
+M. Lowton,J. Walters,1
+S. Vokes,M. Lowton,1
+J. Tarkowski,A. Barnes,1
+B. Mee,T. Heaton,1
+S. Ward,T. Heaton,1
+J. Tarkowski,S. Defour,1
+B. Mee,J. Tarkowski,1
+S. Defour,A. Barnes,1
+S. Ward,J. Tarkowski,1
+A. Barnes,S. Ward,1
+M. Lowton,S. Vokes,1
+J. Tarkowski,S. Vokes,1
+T. Heaton,B. Mee,1
+S. Defour,J. Tarkowski,1
+J. Walters,J. Tarkowski,1
+J. Hendrick,A. Barnes,1
+S. Vokes,J. Hendrick,1
+J. Walters,B. Mee,1
+A. Barnes,J. Walters,1
+A. Barnes,J. Hendrick,1
+J. Tarkowski,S. Ward,1
+B. Mee,S. Defour,1

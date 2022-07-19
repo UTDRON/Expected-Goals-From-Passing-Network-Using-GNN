@@ -1,0 +1,19 @@
+Source,Target,Weight
+E. Mangala,L. San\u00e9,2
+L. San\u00e9,Gabriel Jesus,2
+K. De Bruyne,Fernandinho,2
+Fernandinho,E. Mangala,2
+K. Walker,K. De Bruyne,1
+F. Delph,L. San\u00e9,1
+K. De Bruyne,V. Kompany,1
+V. Kompany,K. De Bruyne,1
+L. San\u00e9,F. Delph,1
+Gabriel Jesus,L. San\u00e9,1
+Gabriel Jesus,Fernandinho,1
+Fernandinho,K. De Bruyne,1
+F. Delph,K. De Bruyne,1
+L. San\u00e9,David Silva,1
+Gabriel Jesus,F. Delph,1
+K. De Bruyne,K. Walker,1
+V. Kompany,K. Walker,1
+K. Walker,V. Kompany,1

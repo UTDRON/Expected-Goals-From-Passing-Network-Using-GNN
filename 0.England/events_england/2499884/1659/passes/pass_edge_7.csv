@@ -1,0 +1,27 @@
+Source,Target,Weight
+A. Smith,S. Francis,2
+R. Fraser,C. Daniels,2
+J. King,R. Fraser,1
+R. Fraser,J. King,1
+J. Stanislas,D. Gosling,1
+S. Francis,J. Stanislas,1
+A. Smith,R. Fraser,1
+C. Daniels,R. Fraser,1
+C. Daniels,N. Ak\u00e9,1
+C. Daniels,J. King,1
+S. Francis,A. Smith,1
+C. Wilson,J. King,1
+S. Francis,D. Gosling,1
+H. Arter,A. Smith,1
+D. Gosling,S. Francis,1
+N. Ak\u00e9,S. Francis,1
+J. King,C. Daniels,1
+C. Wilson,J. Stanislas,1
+A. Smith,H. Arter,1
+J. King,S. Francis,1
+D. Gosling,J. Stanislas,1
+J. King,C. Wilson,1
+S. Francis,J. King,1
+C. Daniels,A. Smith,1
+J. Stanislas,C. Daniels,1
+J. Stanislas,C. Wilson,1

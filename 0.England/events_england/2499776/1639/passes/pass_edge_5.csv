@@ -1,0 +1,39 @@
+Source,Target,Weight
+M. Diouf,X. Shaqiri,4
+G. Johnson,M. Diouf,3
+J. Allen,D. Fletcher,2
+X. Shaqiri,M. Diouf,2
+X. Shaqiri,J. Allen,2
+E. Choupo-Moting,B. Martins Indi,2
+E. Pieters,J. Butland,2
+X. Shaqiri,G. Johnson,2
+J. Allen,E. Pieters,2
+D. Fletcher,X. Shaqiri,2
+J. Butland,D. Fletcher,2
+D. Fletcher,B. Martins Indi,1
+M. Diouf,J. Allen,1
+B. Martins Indi,J. Butland,1
+E. Pieters,E. Choupo-Moting,1
+D. Fletcher,J. Allen,1
+D. Fletcher,Jes\u00e9 Rodr\u00edguez,1
+D. Fletcher,J. Butland,1
+B. Martins Indi,D. Fletcher,1
+G. Johnson,E. Choupo-Moting,1
+X. Shaqiri,B. Martins Indi,1
+G. Johnson,J. Allen,1
+Ramadan Sobhi,D. Fletcher,1
+B. Martins Indi,E. Pieters,1
+D. Fletcher,E. Pieters,1
+J. Butland,M. Diouf,1
+J. Butland,E. Choupo-Moting,1
+E. Pieters,Ramadan Sobhi,1
+E. Choupo-Moting,Ramadan Sobhi,1
+E. Pieters,G. Johnson,1
+B. Martins Indi,G. Johnson,1
+G. Johnson,D. Fletcher,1
+Ramadan Sobhi,E. Pieters,1
+M. Diouf,Jes\u00e9 Rodr\u00edguez,1
+Jes\u00e9 Rodr\u00edguez,E. Pieters,1
+E. Pieters,D. Fletcher,1
+Jes\u00e9 Rodr\u00edguez,X. Shaqiri,1
+D. Fletcher,G. Johnson,1

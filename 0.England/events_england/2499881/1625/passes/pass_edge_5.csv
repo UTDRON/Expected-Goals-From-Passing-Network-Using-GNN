@@ -1,0 +1,37 @@
+Source,Target,Weight
+N. Otamendi,Danilo,4
+Danilo,N. Otamendi,4
+Danilo,K. De Bruyne,3
+F. Delph,Danilo,3
+E. Mangala,F. Delph,2
+K. De Bruyne,Bernardo Silva,2
+N. Otamendi,S. Ag\u00fcero,2
+Bernardo Silva,Danilo,2
+Danilo,S. Ag\u00fcero,1
+Danilo,F. Delph,1
+Danilo,Ederson,1
+S. Ag\u00fcero,K. De Bruyne,1
+S. Ag\u00fcero,Danilo,1
+F. Delph,N. Otamendi,1
+F. Delph,Ederson,1
+Ederson,Fernandinho,1
+S. Ag\u00fcero,F. Delph,1
+N. Otamendi,E. Mangala,1
+K. De Bruyne,F. Delph,1
+Fernandinho,F. Delph,1
+K. De Bruyne,N. Otamendi,1
+Ederson,E. Mangala,1
+Danilo,Fernandinho,1
+Fernandinho,N. Otamendi,1
+E. Mangala,N. Otamendi,1
+Fernandinho,K. De Bruyne,1
+Bernardo Silva,K. De Bruyne,1
+N. Otamendi,Bernardo Silva,1
+Fernandinho,E. Mangala,1
+F. Delph,Fernandinho,1
+Bernardo Silva,S. Ag\u00fcero,1
+E. Mangala,Bernardo Silva,1
+K. De Bruyne,Danilo,1
+S. Ag\u00fcero,David Silva,1
+K. De Bruyne,E. Mangala,1
+David Silva,S. Ag\u00fcero,1

@@ -1,0 +1,27 @@
+Source,Target,Weight
+M. Phillips,C. Dawson,3
+C. Yacob,Ahmed Hegazy,2
+S. Rond\u00f3n,C. Yacob,2
+Ahmed Hegazy,C. Yacob,2
+C. Dawson,M. Phillips,2
+A. Nyom,M. Phillips,1
+B. Foster,J. Livermore,1
+Ahmed Hegazy,B. Foster,1
+C. Brunt,M. Phillips,1
+J. Livermore,C. Yacob,1
+C. Yacob,A. Nyom,1
+K. Gibbs,Ahmed Hegazy,1
+J. Rodriguez,K. Gibbs,1
+C. Yacob,C. Dawson,1
+C. Yacob,M. Phillips,1
+C. Dawson,S. Rond\u00f3n,1
+C. Yacob,J. Rodriguez,1
+C. Yacob,C. Brunt,1
+J. Livermore,A. Nyom,1
+A. Nyom,C. Yacob,1
+M. Phillips,J. Livermore,1
+Ahmed Hegazy,C. Brunt,1
+C. Dawson,J. Livermore,1
+M. Phillips,A. Nyom,1
+A. Nyom,S. Rond\u00f3n,1
+C. Brunt,C. Yacob,1

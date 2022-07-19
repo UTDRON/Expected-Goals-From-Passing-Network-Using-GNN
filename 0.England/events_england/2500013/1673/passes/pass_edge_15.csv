@@ -1,0 +1,38 @@
+Source,Target,Weight
+S. Malone,R. van La Parra,4
+S. Malone,A. Mooy,3
+R. van La Parra,S. Malone,3
+C. Schindler,J. Hogg,3
+A. Mooy,S. Malone,3
+J. Hogg,A. Mooy,2
+S. Malone,C. Schindler,2
+R. van La Parra,S. Mouni\u00e9,2
+A. Pritchard,S. Malone,2
+J. Hogg,F. Hadergjonaj,2
+J. Hogg,S. Malone,2
+A. Mooy,J. Hogg,2
+S. Mouni\u00e9,J. Hogg,2
+S. Malone,A. Pritchard,2
+J. Hogg,C. Schindler,1
+C. Schindler,R. van La Parra,1
+J. L\u00f6ssl,M. J\u00f8rgensen,1
+S. Malone,J. Hogg,1
+M. J\u00f8rgensen,F. Hadergjonaj,1
+F. Hadergjonaj,S. Malone,1
+R. van La Parra,J. L\u00f6ssl,1
+S. Mouni\u00e9,C. Schindler,1
+J. Hogg,M. J\u00f8rgensen,1
+A. Mooy,C. Schindler,1
+A. Pritchard,R. van La Parra,1
+M. J\u00f8rgensen,A. Mooy,1
+F. Hadergjonaj,C. Schindler,1
+C. Schindler,A. Mooy,1
+F. Hadergjonaj,R. van La Parra,1
+C. Schindler,S. Malone,1
+A. Mooy,S. Mouni\u00e9,1
+R. van La Parra,A. Pritchard,1
+F. Hadergjonaj,J. Hogg,1
+A. Pritchard,J. Hogg,1
+R. van La Parra,J. Hogg,1
+J. Hogg,A. Pritchard,1
+J. Hogg,R. van La Parra,1

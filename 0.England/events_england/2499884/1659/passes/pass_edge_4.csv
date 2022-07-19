@@ -1,0 +1,10 @@
+Source,Target,Weight
+R. Fraser,C. Daniels,3
+C. Daniels,R. Fraser,2
+J. Stanislas,D. Gosling,1
+D. Gosling,J. Stanislas,1
+H. Arter,R. Fraser,1
+C. Daniels,J. Stanislas,1
+J. King,R. Fraser,1
+R. Fraser,J. King,1
+J. Stanislas,H. Arter,1

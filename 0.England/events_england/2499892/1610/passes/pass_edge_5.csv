@@ -1,0 +1,53 @@
+Source,Target,Weight
+Azpilicueta,A. Christensen,4
+T. Courtois,G. Cahill,4
+E. Hazard,V. Moses,3
+T. Bakayoko,Marcos Alonso,3
+G. Cahill,T. Bakayoko,3
+E. Hazard,Willian,3
+T. Bakayoko,Azpilicueta,3
+Azpilicueta,T. Courtois,3
+Willian,E. Hazard,2
+Willian,Marcos Alonso,2
+V. Moses,Azpilicueta,2
+N. Kant\u00e9,Azpilicueta,2
+A. Christensen,G. Cahill,2
+N. Kant\u00e9,T. Bakayoko,2
+G. Cahill,E. Hazard,2
+Marcos Alonso,N. Kant\u00e9,2
+E. Hazard,Pedro,2
+V. Moses,E. Hazard,2
+Pedro,Willian,2
+Pedro,E. Hazard,1
+T. Bakayoko,N. Kant\u00e9,1
+Marcos Alonso,T. Bakayoko,1
+E. Hazard,Marcos Alonso,1
+G. Cahill,T. Courtois,1
+A. Christensen,T. Courtois,1
+Willian,G. Cahill,1
+Willian,V. Moses,1
+A. Christensen,T. Bakayoko,1
+G. Cahill,A. Christensen,1
+T. Courtois,Pedro,1
+Willian,N. Kant\u00e9,1
+A. Christensen,N. Kant\u00e9,1
+Willian,T. Bakayoko,1
+T. Bakayoko,A. Christensen,1
+Marcos Alonso,Willian,1
+T. Courtois,Azpilicueta,1
+V. Moses,Pedro,1
+Marcos Alonso,Pedro,1
+A. Christensen,V. Moses,1
+N. Kant\u00e9,A. Christensen,1
+Azpilicueta,G. Cahill,1
+Pedro,Marcos Alonso,1
+Marcos Alonso,G. Cahill,1
+G. Cahill,Marcos Alonso,1
+T. Bakayoko,Willian,1
+A. Christensen,Azpilicueta,1
+T. Bakayoko,E. Hazard,1
+G. Cahill,V. Moses,1
+V. Moses,T. Courtois,1
+Marcos Alonso,E. Hazard,1
+Pedro,T. Bakayoko,1
+Azpilicueta,T. Bakayoko,1

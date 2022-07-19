@@ -1,0 +1,26 @@
+Source,Target,Weight
+S. Ward,J. Hendrick,2
+S. Arfield,B. Mee,1
+B. Mee,S. Ward,1
+C. Wood,M. Lowton,1
+C. Wood,R. Brady,1
+R. Brady,S. Arfield,1
+J. Hendrick,C. Wood,1
+M. Lowton,J. Tarkowski,1
+S. Defour,C. Wood,1
+M. Lowton,J. Cork,1
+B. Mee,J. Hendrick,1
+S. Arfield,J. Cork,1
+J. Cork,S. Defour,1
+R. Brady,J. Cork,1
+J. Hendrick,S. Arfield,1
+J. Cork,S. Ward,1
+J. Cork,M. Lowton,1
+S. Defour,M. Lowton,1
+S. Defour,N. Pope,1
+C. Wood,S. Defour,1
+J. Hendrick,M. Lowton,1
+M. Lowton,C. Wood,1
+J. Tarkowski,B. Mee,1
+N. Pope,R. Brady,1
+M. Lowton,S. Defour,1

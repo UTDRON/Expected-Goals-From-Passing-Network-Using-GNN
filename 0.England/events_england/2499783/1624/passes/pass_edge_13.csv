@@ -1,0 +1,22 @@
+Source,Target,Weight
+H. Winks,D. Alli,2
+K. Walker-Peters,H. Winks,2
+T. Alderweireld,K. Walker-Peters,2
+H. Lloris,T. Alderweireld,1
+B. Davies,E. Dier,1
+Son Heung-Min,B. Davies,1
+H. Winks,B. Davies,1
+K. Walker-Peters,T. Alderweireld,1
+D. Alli,H. Lloris,1
+M. Sissoko,H. Winks,1
+B. Davies,M. Sissoko,1
+D. S\u00e1nchez,M. Sissoko,1
+E. Dier,H. Winks,1
+K. Walker-Peters,D. S\u00e1nchez,1
+H. Winks,T. Alderweireld,1
+E. Dier,K. Walker-Peters,1
+J. Vertonghen,K. Walker-Peters,1
+K. Walker-Peters,E. Dier,1
+T. Alderweireld,H. Lloris,1
+D. Alli,Son Heung-Min,1
+H. Lloris,J. Vertonghen,1

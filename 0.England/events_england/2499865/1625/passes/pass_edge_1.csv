@@ -1,0 +1,29 @@
+Source,Target,Weight
+F. Delph,Danilo,5
+K. De Bruyne,K. Walker,2
+S. Ag\u00fcero,F. Delph,2
+Danilo,S. Ag\u00fcero,2
+Danilo,F. Delph,2
+Danilo,David Silva,2
+N. Otamendi,K. De Bruyne,1
+David Silva,R. Sterling,1
+K. Walker,K. De Bruyne,1
+S. Ag\u00fcero,K. De Bruyne,1
+Ederson,N. Otamendi,1
+E. Mangala,Danilo,1
+David Silva,E. Mangala,1
+S. Ag\u00fcero,N. Otamendi,1
+R. Sterling,F. Delph,1
+F. Delph,K. Walker,1
+K. Walker,S. Ag\u00fcero,1
+David Silva,S. Ag\u00fcero,1
+David Silva,N. Otamendi,1
+R. Sterling,David Silva,1
+S. Ag\u00fcero,R. Sterling,1
+K. Walker,David Silva,1
+N. Otamendi,David Silva,1
+R. Sterling,K. Walker,1
+K. De Bruyne,R. Sterling,1
+K. Walker,F. Delph,1
+N. Otamendi,Ederson,1
+David Silva,F. Delph,1

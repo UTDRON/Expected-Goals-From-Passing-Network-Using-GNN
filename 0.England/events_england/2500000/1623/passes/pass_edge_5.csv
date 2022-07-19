@@ -1,0 +1,23 @@
+Source,Target,Weight
+A. Williams,I. Gueye,2
+I. Gueye,T. Walcott,2
+C. Tosun,I. Gueye,1
+M. Keane,I. Gueye,1
+Cuco Martina,C. Tosun,1
+D. Calvert-Lewin,I. Gueye,1
+T. Walcott,Cuco Martina,1
+M. Keane,Cuco Martina,1
+G. Sigur\u00f0sson,M. Keane,1
+T. Walcott,G. Sigur\u00f0sson,1
+I. Gueye,J. Pickford,1
+M. Keane,C. Tosun,1
+C. Tosun,Cuco Martina,1
+J. Pickford,C. Tosun,1
+G. Sigur\u00f0sson,A. Williams,1
+Cuco Martina,T. Davies,1
+I. Gueye,M. Keane,1
+C. Tosun,T. Davies,1
+T. Davies,Cuco Martina,1
+Cuco Martina,M. Keane,1
+T. Davies,D. Calvert-Lewin,1
+Cuco Martina,G. Sigur\u00f0sson,1

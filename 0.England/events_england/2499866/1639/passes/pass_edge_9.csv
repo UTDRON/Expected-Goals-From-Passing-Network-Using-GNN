@@ -1,0 +1,22 @@
+Source,Target,Weight
+E. Pieters,P. Crouch,3
+K. Wimmer,Ramadan Sobhi,2
+E. Pieters,K. Wimmer,2
+I. Afellay,E. Pieters,2
+P. Crouch,Ramadan Sobhi,2
+Ramadan Sobhi,X. Shaqiri,2
+X. Shaqiri,I. Afellay,1
+P. Crouch,X. Shaqiri,1
+M. Diouf,E. Pieters,1
+M. Diouf,K. Wimmer,1
+K. Wimmer,E. Pieters,1
+Ramadan Sobhi,E. Pieters,1
+R. Shawcross,K. Wimmer,1
+X. Shaqiri,E. Pieters,1
+K. Zouma,M. Diouf,1
+E. Pieters,R. Shawcross,1
+X. Shaqiri,K. Zouma,1
+Ramadan Sobhi,P. Crouch,1
+K. Wimmer,R. Shawcross,1
+R. Shawcross,M. Diouf,1
+P. Crouch,I. Afellay,1

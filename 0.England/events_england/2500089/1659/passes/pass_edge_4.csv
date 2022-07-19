@@ -1,0 +1,14 @@
+Source,Target,Weight
+A. Surman,E. Hyndman,2
+E. Hyndman,C. Daniels,1
+J. Ibe,S. Cook,1
+J. Ibe,N. Ak\u00e9,1
+N. Ak\u00e9,J. Ibe,1
+S. Cook,J. King,1
+J. Ibe,E. Hyndman,1
+E. Hyndman,A. Surman,1
+A. Surman,J. Ibe,1
+C. Daniels,A. Surman,1
+J. Ibe,A. Surman,1
+E. Hyndman,S. Cook,1
+S. Cook,J. Ibe,1

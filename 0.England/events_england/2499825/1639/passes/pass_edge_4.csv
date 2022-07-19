@@ -1,0 +1,17 @@
+Source,Target,Weight
+R. Shawcross,K. Wimmer,1
+K. Wimmer,D. Fletcher,1
+E. Pieters,J. Allen,1
+Ramadan Sobhi,E. Choupo-Moting,1
+K. Wimmer,Ramadan Sobhi,1
+Ramadan Sobhi,K. Wimmer,1
+D. Fletcher,Ramadan Sobhi,1
+E. Pieters,R. Shawcross,1
+J. Allen,E. Choupo-Moting,1
+E. Choupo-Moting,E. Pieters,1
+K. Wimmer,M. Diouf,1
+M. Diouf,X. Shaqiri,1
+K. Wimmer,E. Pieters,1
+M. Diouf,K. Zouma,1
+K. Zouma,K. Wimmer,1
+E. Choupo-Moting,M. Diouf,1

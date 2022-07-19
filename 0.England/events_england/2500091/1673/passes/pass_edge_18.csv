@@ -1,0 +1,13 @@
+Source,Target,Weight
+C. Schindler,P. Billing,2
+C. L\u00f6we,C. Schindler,1
+A. Mooy,C. L\u00f6we,1
+A. Mooy,L. Depoitre,1
+P. Billing,C. Schindler,1
+P. Billing,J. L\u00f6ssl,1
+L. Depoitre,A. Mooy,1
+D. Whitehead,C. L\u00f6we,1
+C. L\u00f6we,A. Mooy,1
+C. L\u00f6we,D. Whitehead,1
+P. Billing,C. L\u00f6we,1
+J. L\u00f6ssl,L. Depoitre,1

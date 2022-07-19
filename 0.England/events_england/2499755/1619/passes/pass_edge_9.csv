@@ -1,0 +1,12 @@
+Source,Target,Weight
+S. Long,Oriol Romeu,2
+N. Redmond,S. Long,2
+R. Bertrand,N. Redmond,2
+N. Redmond,R. Bertrand,1
+S. Long,W. Hoedt,1
+Oriol Romeu,J. Stephens,1
+C. Austin,S. Long,1
+Oriol Romeu,C\u00e9dric Soares,1
+R. Bertrand,C. Austin,1
+W. Hoedt,R. Bertrand,1
+J. Stephens,R. Bertrand,1

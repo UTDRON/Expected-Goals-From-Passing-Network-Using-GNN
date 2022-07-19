@@ -1,0 +1,87 @@
+Source,Target,Weight
+M. Lanzini,M. Noble,4
+P. Zabaleta,E. Fernandes,4
+Adri\u00e1n,D. Rice,3
+A. Ogbonna,Adri\u00e1n,3
+C. Kouyat\u00e9,M. Arnautovi\u0107,3
+M. Lanzini,A. Cresswell,3
+E. Fernandes,P. Zabaleta,3
+M. Arnautovi\u0107,M. Noble,3
+A. Cresswell,M. Lanzini,3
+D. Rice,C. Kouyat\u00e9,3
+C. Kouyat\u00e9,M. Lanzini,3
+M. Noble,A. Cresswell,3
+P. Evra,A. Cresswell,3
+D. Rice,P. Zabaleta,3
+P. Evra,A. Ogbonna,3
+P. Zabaleta,C. Kouyat\u00e9,3
+M. Noble,P. Evra,3
+A. Ogbonna,M. Noble,3
+A. Cresswell,A. Ogbonna,2
+E. Fernandes,C. Kouyat\u00e9,2
+M. Noble,A. Ogbonna,2
+P. Zabaleta,A. Cresswell,2
+C. Kouyat\u00e9,M. Noble,2
+A. Cresswell,E. Fernandes,2
+A. Cresswell,M. Noble,2
+A. Cresswell,Adri\u00e1n,2
+P. Zabaleta,M. Lanzini,2
+M. Lanzini,D. Rice,2
+M. Noble,P. Zabaleta,2
+M. Lanzini,P. Zabaleta,2
+A. Cresswell,P. Zabaleta,2
+E. Fernandes,A. Ogbonna,2
+A. Ogbonna,A. Cresswell,2
+M. Arnautovi\u0107,A. Cresswell,2
+Adri\u00e1n,P. Evra,2
+M. Noble,E. Fernandes,2
+M. Noble,C. Kouyat\u00e9,2
+A. Cresswell,P. Evra,2
+M. Noble,M. Lanzini,2
+C. Kouyat\u00e9,P. Zabaleta,2
+M. Arnautovi\u0107,M. Lanzini,2
+C. Kouyat\u00e9,A. Ogbonna,1
+Adri\u00e1n,C. Kouyat\u00e9,1
+D. Rice,Adri\u00e1n,1
+A. Cresswell,D. Rice,1
+C. Kouyat\u00e9,A. Cresswell,1
+Adri\u00e1n,A. Ogbonna,1
+M. Arnautovi\u0107,Adri\u00e1n,1
+M. Noble,M. Arnautovi\u0107,1
+E. Fernandes,Adri\u00e1n,1
+P. Zabaleta,Adri\u00e1n,1
+P. Zabaleta,M. Noble,1
+A. Ogbonna,E. Fernandes,1
+A. Ogbonna,C. Kouyat\u00e9,1
+P. Zabaleta,D. Rice,1
+D. Rice,P. Evra,1
+M. Lanzini,M. Arnautovi\u0107,1
+A. Ogbonna,M. Lanzini,1
+M. Arnautovi\u0107,D. Rice,1
+M. Lanzini,E. Fernandes,1
+D. Rice,M. Noble,1
+P. Evra,M. Noble,1
+Adri\u00e1n,A. Cresswell,1
+E. Fernandes,D. Rice,1
+P. Evra,E. Fernandes,1
+P. Evra,D. Rice,1
+A. Ogbonna,P. Evra,1
+M. Lanzini,C. Kouyat\u00e9,1
+E. Fernandes,P. Evra,1
+P. Zabaleta,A. Ogbonna,1
+D. Rice,M. Lanzini,1
+A. Ogbonna,D. Rice,1
+P. Evra,Adri\u00e1n,1
+A. Cresswell,M. Arnautovi\u0107,1
+A. Ogbonna,M. Arnautovi\u0107,1
+M. Lanzini,A. Ogbonna,1
+M. Noble,D. Rice,1
+M. Arnautovi\u0107,A. Ogbonna,1
+E. Fernandes,M. Lanzini,1
+E. Fernandes,M. Arnautovi\u0107,1
+P. Zabaleta,M. Arnautovi\u0107,1
+M. Arnautovi\u0107,P. Zabaleta,1
+C. Kouyat\u00e9,E. Fernandes,1
+Adri\u00e1n,M. Arnautovi\u0107,1
+Adri\u00e1n,P. Zabaleta,1
+D. Rice,M. Arnautovi\u0107,1

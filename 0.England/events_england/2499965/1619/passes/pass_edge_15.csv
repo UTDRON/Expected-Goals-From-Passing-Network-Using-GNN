@@ -1,0 +1,19 @@
+Source,Target,Weight
+S. Boufal,P. H\u00f8jbjerg,2
+P. H\u00f8jbjerg,S. Davis,2
+S. Davis,W. Hoedt,1
+W. Hoedt,S. Davis,1
+S. Davis,C\u00e9dric Soares,1
+J. Stephens,S. Davis,1
+J. Stephens,A. McCarthy,1
+W. Hoedt,J. Stephens,1
+S. Davis,P. H\u00f8jbjerg,1
+P. H\u00f8jbjerg,S. Boufal,1
+C\u00e9dric Soares,P. H\u00f8jbjerg,1
+P. H\u00f8jbjerg,R. Bertrand,1
+C\u00e9dric Soares,J. Stephens,1
+S. Davis,J. Ward-Prowse,1
+J. Stephens,C\u00e9dric Soares,1
+R. Bertrand,W. Hoedt,1
+A. McCarthy,W. Hoedt,1
+W. Hoedt,S. Boufal,1

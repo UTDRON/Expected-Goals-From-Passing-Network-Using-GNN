@@ -1,0 +1,33 @@
+Source,Target,Weight
+Kenedy,P. Dummett,4
+P. Dummett,F. Lejeune,4
+J. Lascelles,F. Lejeune,3
+F. Lejeune,P. Dummett,3
+P. Dummett,Kenedy,3
+F. Lejeune,J. Shelvey,3
+M. Diam\u00e9,F. Lejeune,2
+F. Lejeune,J. Lascelles,2
+J. Shelvey,M. Diam\u00e9,1
+M. Ritchie,J. Lascelles,1
+J. Lascelles,M. Diam\u00e9,1
+F. Lejeune,M. Diam\u00e9,1
+J. Lascelles,M. D\u00fabravka,1
+D. Gayle,Kenedy,1
+Ayoze P\u00e9rez,M. Ritchie,1
+D. Yedlin,J. Lascelles,1
+Kenedy,F. Lejeune,1
+J. Shelvey,D. Gayle,1
+M. D\u00fabravka,P. Dummett,1
+D. Yedlin,M. Ritchie,1
+M. Diam\u00e9,D. Yedlin,1
+J. Lascelles,D. Yedlin,1
+M. Ritchie,D. Yedlin,1
+P. Dummett,D. Gayle,1
+J. Lascelles,J. Shelvey,1
+P. Dummett,J. Lascelles,1
+D. Yedlin,P. Dummett,1
+J. Shelvey,J. Lascelles,1
+F. Lejeune,Kenedy,1
+P. Dummett,J. Shelvey,1
+J. Shelvey,P. Dummett,1
+J. Shelvey,Ayoze P\u00e9rez,1

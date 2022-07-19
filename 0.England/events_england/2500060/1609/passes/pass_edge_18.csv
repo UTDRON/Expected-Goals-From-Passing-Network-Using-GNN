@@ -1,0 +1,19 @@
+Source,Target,Weight
+P. Aubameyang,A. Ramsey,3
+A. Ramsey,A. Lacazette,2
+L. Koscielny,D. Ospina,2
+A. Ramsey,L. Koscielny,2
+D. Ospina,L. Koscielny,1
+S. Mustafi,G. Xhaka,1
+D. Ospina,S. Mustafi,1
+S. Mustafi,D. Welbeck,1
+P. Aubameyang,L. Koscielny,1
+L. Koscielny,A. Ramsey,1
+L. Koscielny,A. Maitland-Niles,1
+G. Xhaka,A. Ramsey,1
+A. Ramsey,P. Aubameyang,1
+D. Welbeck,S. Mustafi,1
+A. Maitland-Niles,P. Aubameyang,1
+A. Lacazette,D. Welbeck,1
+D. Welbeck,P. Aubameyang,1
+A. Lacazette,P. Aubameyang,1

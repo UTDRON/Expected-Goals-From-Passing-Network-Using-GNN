@@ -1,0 +1,17 @@
+Source,Target,Weight
+M. Rashford,A. Young,2
+A. Young,M. Fellaini,2
+M. Fellaini,N. Mati\u0107,1
+H. Mkhitaryan,A. Valencia,1
+A. Valencia,R. Lukaku,1
+M. Fellaini,A. Valencia,1
+A. Valencia,N. Mati\u0107,1
+N. Mati\u0107,A. Valencia,1
+H. Mkhitaryan,M. Rashford,1
+A. Valencia,M. Fellaini,1
+M. Fellaini,H. Mkhitaryan,1
+H. Mkhitaryan,R. Lukaku,1
+N. Mati\u0107,H. Mkhitaryan,1
+M. Fellaini,A. Young,1
+A. Young,M. Rashford,1
+R. Lukaku,H. Mkhitaryan,1

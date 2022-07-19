@@ -1,0 +1,19 @@
+Source,Target,Weight
+K. Zouma,D. Fletcher,3
+J. Butland,K. Zouma,2
+C. Adam,M. Diouf,2
+D. Fletcher,J. Butland,2
+M. Bauer,M. Diouf,2
+M. Diouf,M. Bauer,1
+J. Butland,E. Pieters,1
+M. Bauer,C. Adam,1
+D. Fletcher,E. Pieters,1
+E. Pieters,D. Fletcher,1
+E. Pieters,M. Bauer,1
+M. Diouf,J. Butland,1
+M. Diouf,J. Allen,1
+C. Adam,M. Bauer,1
+D. Fletcher,C. Adam,1
+J. Allen,C. Adam,1
+J. Allen,D. Fletcher,1
+D. Fletcher,K. Zouma,1

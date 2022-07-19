@@ -1,0 +1,50 @@
+Source,Target,Weight
+V. van Dijk,R. Bertrand,6
+V. van Dijk,M. Yoshida,5
+M. Lemina,V. van Dijk,5
+C\u00e9dric Soares,Oriol Romeu,4
+R. Bertrand,V. van Dijk,4
+Oriol Romeu,M. Lemina,4
+M. Yoshida,V. van Dijk,4
+Oriol Romeu,V. van Dijk,3
+M. Yoshida,C\u00e9dric Soares,3
+R. Bertrand,N. Redmond,3
+V. van Dijk,M. Lemina,3
+M. Lemina,Oriol Romeu,3
+Oriol Romeu,M. Yoshida,2
+Oriol Romeu,N. Redmond,2
+V. van Dijk,Oriol Romeu,2
+D. Tadi\u0107,M. Yoshida,2
+Oriol Romeu,D. Tadi\u0107,2
+M. Yoshida,Oriol Romeu,2
+D. Tadi\u0107,C\u00e9dric Soares,2
+M. Yoshida,M. Lemina,2
+N. Redmond,C\u00e9dric Soares,2
+F. Forster,M. Yoshida,1
+N. Redmond,M. Lemina,1
+D. Tadi\u0107,N. Redmond,1
+S. Long,D. Tadi\u0107,1
+S. Long,M. Lemina,1
+D. Tadi\u0107,S. Long,1
+M. Yoshida,R. Bertrand,1
+N. Redmond,R. Bertrand,1
+R. Bertrand,F. Forster,1
+M. Lemina,D. Tadi\u0107,1
+R. Bertrand,Oriol Romeu,1
+D. Tadi\u0107,Oriol Romeu,1
+C\u00e9dric Soares,M. Yoshida,1
+N. Redmond,D. Tadi\u0107,1
+N. Redmond,Oriol Romeu,1
+C\u00e9dric Soares,N. Redmond,1
+N. Redmond,M. Yoshida,1
+M. Yoshida,D. Tadi\u0107,1
+D. Tadi\u0107,M. Lemina,1
+M. Lemina,R. Bertrand,1
+C\u00e9dric Soares,D. Tadi\u0107,1
+M. Lemina,S. Long,1
+M. Lemina,M. Yoshida,1
+C\u00e9dric Soares,M. Gabbiadini,1
+S. Long,C\u00e9dric Soares,1
+M. Gabbiadini,D. Tadi\u0107,1
+C\u00e9dric Soares,S. Long,1
+Oriol Romeu,S. Long,1

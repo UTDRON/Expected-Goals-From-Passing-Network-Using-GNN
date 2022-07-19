@@ -1,0 +1,41 @@
+Source,Target,Weight
+A. Valencia,Ander Herrera,4
+N. Mati\u0107,P. Jones,3
+E. Bailly,A. Valencia,3
+Ander Herrera,A. Valencia,3
+A. Young,M. Rashford,3
+Ander Herrera,E. Bailly,2
+A. Young,C. Smalling,2
+R. Lukaku,A. Young,1
+R. Lukaku,E. Bailly,1
+H. Mkhitaryan,A. Young,1
+P. Jones,N. Mati\u0107,1
+A. Valencia,R. Lukaku,1
+N. Mati\u0107,A. Valencia,1
+R. Lukaku,N. Mati\u0107,1
+M. Rashford,A. Valencia,1
+P. Jones,R. Lukaku,1
+N. Mati\u0107,Ander Herrera,1
+H. Mkhitaryan,R. Lukaku,1
+E. Bailly,N. Mati\u0107,1
+P. Jones,A. Young,1
+M. Rashford,A. Young,1
+A. Young,N. Mati\u0107,1
+R. Lukaku,C. Smalling,1
+A. Valencia,P. Jones,1
+A. Valencia,E. Bailly,1
+R. Lukaku,H. Mkhitaryan,1
+P. Jones,E. Bailly,1
+David de Gea,R. Lukaku,1
+E. Bailly,H. Mkhitaryan,1
+C. Smalling,E. Bailly,1
+A. Valencia,H. Mkhitaryan,1
+E. Bailly,Ander Herrera,1
+H. Mkhitaryan,A. Valencia,1
+Ander Herrera,N. Mati\u0107,1
+C. Smalling,David de Gea,1
+C. Smalling,A. Young,1
+A. Valencia,M. Rashford,1
+N. Mati\u0107,A. Young,1
+H. Mkhitaryan,N. Mati\u0107,1
+M. Rashford,H. Mkhitaryan,1

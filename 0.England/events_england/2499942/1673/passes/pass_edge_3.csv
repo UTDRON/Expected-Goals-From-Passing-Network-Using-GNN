@@ -1,0 +1,84 @@
+Source,Target,Weight
+J. Hogg,M. J\u00f8rgensen,10
+M. J\u00f8rgensen,J. Hogg,10
+J. Hogg,A. Mooy,7
+C. Schindler,R. van La Parra,7
+J. L\u00f6ssl,L. Depoitre,6
+C. Schindler,J. Hogg,6
+J. Hogg,S. Malone,5
+J. Hogg,R. van La Parra,5
+A. Mooy,J. Hogg,5
+T. Smith,M. J\u00f8rgensen,5
+R. van La Parra,A. Mooy,5
+R. van La Parra,C. Schindler,5
+R. van La Parra,J. Lolley,4
+S. Malone,L. Depoitre,4
+L. Depoitre,J. Hogg,4
+A. Mooy,S. Malone,4
+J. Hogg,T. Smith,4
+J. Hogg,T. Ince,4
+T. Ince,J. Hogg,4
+M. J\u00f8rgensen,C. Schindler,3
+J. L\u00f6ssl,M. J\u00f8rgensen,3
+R. van La Parra,J. Hogg,3
+T. Smith,L. Depoitre,3
+S. Malone,C. Schindler,3
+C. Schindler,A. Mooy,3
+T. Ince,A. Mooy,3
+A. Mooy,J. L\u00f6ssl,3
+A. Mooy,R. van La Parra,3
+S. Malone,R. van La Parra,3
+A. Mooy,T. Ince,3
+T. Ince,C. Schindler,3
+M. J\u00f8rgensen,T. Smith,3
+J. Lolley,C. Schindler,3
+M. J\u00f8rgensen,T. Ince,2
+L. Depoitre,S. Malone,2
+C. Schindler,S. Malone,2
+J. Lolley,M. J\u00f8rgensen,2
+A. Mooy,M. J\u00f8rgensen,2
+L. Depoitre,T. Smith,2
+J. Lolley,J. L\u00f6ssl,2
+J. L\u00f6ssl,C. Schindler,2
+C. Schindler,J. L\u00f6ssl,2
+S. Malone,J. Hogg,2
+J. L\u00f6ssl,J. Lolley,2
+L. Depoitre,A. Mooy,2
+T. Smith,J. L\u00f6ssl,2
+S. Malone,J. L\u00f6ssl,2
+T. Smith,J. Hogg,2
+M. J\u00f8rgensen,A. Mooy,2
+M. J\u00f8rgensen,J. L\u00f6ssl,2
+A. Mooy,C. Schindler,2
+L. Depoitre,C. Schindler,2
+S. Malone,A. Mooy,2
+R. van La Parra,S. Malone,2
+A. Mooy,T. Smith,2
+C. Schindler,T. Ince,2
+C. Schindler,T. Smith,2
+J. Hogg,J. Lolley,1
+A. Mooy,L. Depoitre,1
+L. Depoitre,R. van La Parra,1
+J. Hogg,C. Schindler,1
+T. Ince,J. L\u00f6ssl,1
+T. Ince,L. Depoitre,1
+L. Depoitre,J. Lolley,1
+J. Hogg,J. L\u00f6ssl,1
+J. Lolley,R. van La Parra,1
+T. Ince,T. Smith,1
+R. van La Parra,J. L\u00f6ssl,1
+J. L\u00f6ssl,J. Hogg,1
+L. Depoitre,T. Ince,1
+J. Lolley,J. Hogg,1
+L. Depoitre,M. J\u00f8rgensen,1
+T. Smith,S. Malone,1
+T. Smith,T. Ince,1
+J. L\u00f6ssl,R. van La Parra,1
+T. Smith,C. Schindler,1
+T. Smith,A. Mooy,1
+M. J\u00f8rgensen,L. Depoitre,1
+T. Ince,R. van La Parra,1
+M. J\u00f8rgensen,J. Lolley,1
+R. van La Parra,T. Smith,1
+J. L\u00f6ssl,T. Smith,1
+R. van La Parra,M. J\u00f8rgensen,1

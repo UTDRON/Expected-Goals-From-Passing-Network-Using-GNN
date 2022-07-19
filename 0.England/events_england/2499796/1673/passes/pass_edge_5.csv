@@ -1,0 +1,80 @@
+Source,Target,Weight
+A. Mooy,R. van La Parra,9
+S. Malone,C. Schindler,8
+M. J\u00f8rgensen,A. Mooy,6
+C. Schindler,M. J\u00f8rgensen,6
+A. Mooy,D. Williams,6
+D. Williams,M. J\u00f8rgensen,5
+D. Williams,A. Mooy,5
+R. van La Parra,S. Malone,5
+C. Schindler,S. Malone,5
+M. J\u00f8rgensen,J. L\u00f6ssl,4
+R. van La Parra,C. Schindler,4
+T. Ince,T. Smith,4
+D. Williams,C. Schindler,4
+S. Malone,A. Mooy,4
+A. Mooy,C. Schindler,4
+M. J\u00f8rgensen,D. Williams,4
+R. van La Parra,A. Mooy,4
+C. Schindler,A. Mooy,4
+A. Mooy,M. J\u00f8rgensen,4
+C. Schindler,J. L\u00f6ssl,4
+M. J\u00f8rgensen,T. Smith,4
+T. Smith,E. Kachunga,3
+T. Smith,T. Ince,3
+C. Schindler,D. Williams,3
+E. Kachunga,L. Depoitre,3
+R. van La Parra,E. Kachunga,3
+J. L\u00f6ssl,S. Malone,3
+E. Kachunga,A. Mooy,3
+C. Schindler,R. van La Parra,3
+J. L\u00f6ssl,C. Schindler,3
+D. Williams,S. Malone,3
+A. Mooy,T. Smith,3
+T. Smith,D. Williams,3
+A. Mooy,E. Kachunga,3
+L. Depoitre,A. Mooy,3
+T. Smith,C. Schindler,2
+J. L\u00f6ssl,T. Smith,2
+S. Malone,R. van La Parra,2
+T. Smith,J. L\u00f6ssl,2
+J. L\u00f6ssl,L. Depoitre,2
+L. Depoitre,E. Kachunga,2
+S. Malone,L. Depoitre,2
+E. Kachunga,D. Williams,2
+E. Kachunga,R. van La Parra,2
+M. J\u00f8rgensen,R. van La Parra,2
+T. Smith,M. J\u00f8rgensen,2
+A. Mooy,T. Ince,2
+A. Mooy,S. Malone,2
+D. Williams,T. Smith,2
+C. Schindler,E. Kachunga,2
+L. Depoitre,T. Smith,2
+J. L\u00f6ssl,M. J\u00f8rgensen,2
+T. Smith,A. Mooy,2
+T. Ince,A. Mooy,2
+E. Kachunga,C. Schindler,2
+D. Williams,T. Ince,1
+A. Mooy,J. L\u00f6ssl,1
+T. Ince,S. Malone,1
+L. Depoitre,T. Ince,1
+L. Depoitre,M. J\u00f8rgensen,1
+T. Smith,L. Depoitre,1
+L. Depoitre,D. Williams,1
+S. Malone,J. L\u00f6ssl,1
+J. L\u00f6ssl,A. Mooy,1
+E. Kachunga,M. J\u00f8rgensen,1
+E. Kachunga,T. Smith,1
+T. Ince,C. Schindler,1
+S. Malone,D. Williams,1
+R. van La Parra,J. L\u00f6ssl,1
+R. van La Parra,D. Williams,1
+M. J\u00f8rgensen,L. Depoitre,1
+D. Williams,L. Depoitre,1
+S. Malone,T. Ince,1
+D. Williams,R. van La Parra,1
+C. Schindler,T. Ince,1
+T. Ince,D. Williams,1
+M. J\u00f8rgensen,E. Kachunga,1
+C. Schindler,L. Depoitre,1
+L. Depoitre,C. Schindler,1

@@ -1,0 +1,80 @@
+Source,Target,Weight
+T. Alexander-Arnold,J. Henderson,5
+A. Robertson,S. Man\u00e9,5
+A. Robertson,Roberto Firmino,5
+Roberto Firmino,T. Alexander-Arnold,5
+S. Man\u00e9,Roberto Firmino,5
+Mohamed Salah,T. Alexander-Arnold,4
+L. Karius,Roberto Firmino,4
+T. Alexander-Arnold,Roberto Firmino,4
+J. Henderson,D. Lovren,4
+J. Milner,E. Can,4
+E. Can,A. Robertson,4
+Roberto Firmino,E. Can,4
+D. Lovren,L. Karius,3
+T. Alexander-Arnold,J. Milner,3
+J. Milner,S. Man\u00e9,3
+E. Can,T. Alexander-Arnold,3
+S. Man\u00e9,J. Milner,3
+A. Robertson,J. Milner,3
+L. Karius,A. Robertson,3
+J. Henderson,A. Robertson,3
+E. Can,D. Lovren,3
+S. Man\u00e9,Mohamed Salah,3
+T. Alexander-Arnold,E. Can,3
+S. Man\u00e9,A. Robertson,3
+D. Lovren,T. Alexander-Arnold,3
+Roberto Firmino,A. Robertson,3
+J. Milner,J. Henderson,3
+L. Karius,T. Alexander-Arnold,3
+A. Robertson,J. Henderson,3
+V. van Dijk,J. Milner,2
+V. van Dijk,L. Karius,2
+V. van Dijk,A. Robertson,2
+A. Robertson,V. van Dijk,2
+D. Lovren,S. Man\u00e9,2
+T. Alexander-Arnold,Mohamed Salah,2
+T. Alexander-Arnold,D. Lovren,2
+Roberto Firmino,S. Man\u00e9,2
+T. Alexander-Arnold,L. Karius,2
+J. Milner,Mohamed Salah,2
+D. Lovren,J. Henderson,2
+Mohamed Salah,Roberto Firmino,2
+J. Henderson,L. Karius,2
+Roberto Firmino,J. Milner,2
+J. Henderson,Mohamed Salah,2
+S. Man\u00e9,J. Henderson,2
+E. Can,S. Man\u00e9,2
+Roberto Firmino,Mohamed Salah,2
+L. Karius,S. Man\u00e9,2
+E. Can,J. Henderson,2
+J. Henderson,V. van Dijk,2
+J. Henderson,T. Alexander-Arnold,2
+Roberto Firmino,V. van Dijk,1
+A. Robertson,T. Alexander-Arnold,1
+T. Alexander-Arnold,A. Robertson,1
+L. Karius,Mohamed Salah,1
+Mohamed Salah,S. Man\u00e9,1
+Mohamed Salah,J. Milner,1
+Roberto Firmino,L. Karius,1
+E. Can,L. Karius,1
+J. Milner,T. Alexander-Arnold,1
+J. Milner,A. Oxlade-Chamberlain,1
+Roberto Firmino,D. Lovren,1
+D. Lovren,V. van Dijk,1
+Mohamed Salah,L. Karius,1
+Mohamed Salah,V. van Dijk,1
+S. Man\u00e9,L. Karius,1
+V. van Dijk,J. Henderson,1
+J. Henderson,E. Can,1
+J. Henderson,S. Man\u00e9,1
+J. Milner,Roberto Firmino,1
+Mohamed Salah,D. Lovren,1
+Mohamed Salah,E. Can,1
+J. Henderson,Roberto Firmino,1
+A. Robertson,E. Can,1
+E. Can,J. Milner,1
+Roberto Firmino,J. Henderson,1
+J. Henderson,J. Milner,1
+J. Milner,A. Robertson,1
+S. Man\u00e9,E. Can,1

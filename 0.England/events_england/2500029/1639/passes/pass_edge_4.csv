@@ -1,0 +1,86 @@
+Source,Target,Weight
+M. Bauer,G. Johnson,7
+G. Johnson,M. Bauer,7
+X. Shaqiri,G. Johnson,5
+J. Allen,Ramadan Sobhi,5
+M. Diouf,J. Allen,5
+J. Allen,M. Bauer,5
+J. Butland,M. Diouf,5
+B. Martins Indi,J. Butland,5
+B. N'Diaye,B. Martins Indi,4
+M. Diouf,X. Shaqiri,4
+J. Allen,M. Diouf,4
+M. Bauer,X. Shaqiri,4
+G. Johnson,X. Shaqiri,4
+B. N'Diaye,Ramadan Sobhi,4
+Ramadan Sobhi,B. Martins Indi,4
+J. Butland,M. Bauer,4
+X. Shaqiri,B. Martins Indi,3
+B. N'Diaye,M. Bauer,3
+E. Pieters,B. N'Diaye,3
+G. Johnson,M. Diouf,3
+M. Bauer,B. N'Diaye,3
+Ramadan Sobhi,E. Pieters,3
+B. Martins Indi,E. Pieters,3
+G. Johnson,J. Butland,3
+J. Allen,X. Shaqiri,3
+M. Diouf,G. Johnson,3
+E. Pieters,R. Shawcross,3
+B. Martins Indi,M. Diouf,3
+X. Shaqiri,B. N'Diaye,3
+G. Johnson,J. Allen,3
+R. Shawcross,J. Allen,3
+B. Martins Indi,R. Shawcross,2
+E. Pieters,G. Johnson,2
+X. Shaqiri,M. Bauer,2
+M. Bauer,Ramadan Sobhi,2
+E. Pieters,J. Allen,2
+M. Diouf,B. N'Diaye,2
+M. Bauer,R. Shawcross,2
+X. Shaqiri,R. Shawcross,2
+R. Shawcross,B. Martins Indi,2
+M. Bauer,E. Pieters,2
+X. Shaqiri,E. Pieters,2
+M. Bauer,J. Allen,2
+M. Diouf,M. Bauer,2
+X. Shaqiri,J. Allen,2
+R. Shawcross,E. Pieters,2
+Ramadan Sobhi,G. Johnson,2
+E. Pieters,M. Diouf,2
+Ramadan Sobhi,J. Allen,2
+R. Shawcross,X. Shaqiri,2
+M. Diouf,Ramadan Sobhi,1
+G. Johnson,B. N'Diaye,1
+B. Martins Indi,J. Allen,1
+J. Allen,R. Shawcross,1
+M. Diouf,B. Martins Indi,1
+J. Allen,J. Butland,1
+B. N'Diaye,X. Shaqiri,1
+E. Pieters,B. Martins Indi,1
+M. Bauer,J. Butland,1
+J. Butland,J. Allen,1
+B. N'Diaye,J. Allen,1
+B. Martins Indi,Ramadan Sobhi,1
+B. Martins Indi,G. Johnson,1
+J. Allen,B. N'Diaye,1
+B. N'Diaye,J. Butland,1
+Ramadan Sobhi,X. Shaqiri,1
+Ramadan Sobhi,B. N'Diaye,1
+B. Martins Indi,B. N'Diaye,1
+R. Shawcross,B. N'Diaye,1
+M. Diouf,R. Shawcross,1
+G. Johnson,B. Martins Indi,1
+M. Bauer,M. Diouf,1
+B. N'Diaye,R. Shawcross,1
+M. Bauer,B. Martins Indi,1
+J. Butland,X. Shaqiri,1
+S. Berahino,G. Johnson,1
+R. Shawcross,M. Diouf,1
+X. Shaqiri,Ramadan Sobhi,1
+Ramadan Sobhi,M. Bauer,1
+B. N'Diaye,E. Pieters,1
+J. Butland,S. Berahino,1
+J. Allen,E. Pieters,1
+E. Pieters,J. Butland,1
+R. Shawcross,Ramadan Sobhi,1
+J. Allen,G. Johnson,1

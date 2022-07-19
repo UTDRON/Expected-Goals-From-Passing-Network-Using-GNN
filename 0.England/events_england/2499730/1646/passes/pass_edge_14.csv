@@ -1,0 +1,15 @@
+Source,Target,Weight
+J. Hendrick,B. Mee,1
+S. Defour,S. Vokes,1
+M. Lowton,S. Defour,1
+S. Ward,A. Barnes,1
+J. Tarkowski,J. Cork,1
+J. Cork,S. Defour,1
+S. Vokes,S. Ward,1
+S. Ward,J. Hendrick,1
+S. Defour,B. Mee,1
+B. Mee,S. Ward,1
+B. Mee,J. Cork,1
+S. Defour,M. Lowton,1
+J. Cork,J. Tarkowski,1
+J. Tarkowski,S. Defour,1

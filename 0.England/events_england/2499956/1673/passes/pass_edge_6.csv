@@ -1,0 +1,33 @@
+Source,Target,Weight
+A. Mooy,R. van La Parra,3
+L. Depoitre,C. Schindler,3
+R. van La Parra,A. Mooy,3
+M. J\u00f8rgensen,A. Mooy,2
+S. Malone,L. Depoitre,2
+S. Malone,R. van La Parra,2
+A. Sabiri,M. J\u00f8rgensen,2
+J. L\u00f6ssl,A. Sabiri,2
+C. Schindler,J. L\u00f6ssl,2
+S. Malone,J. L\u00f6ssl,2
+R. van La Parra,S. Malone,2
+J. L\u00f6ssl,L. Depoitre,2
+M. J\u00f8rgensen,S. Malone,2
+M. J\u00f8rgensen,J. L\u00f6ssl,1
+J. L\u00f6ssl,S. Mouni\u00e9,1
+A. Sabiri,A. Mooy,1
+L. Depoitre,A. Mooy,1
+A. Mooy,S. Malone,1
+M. J\u00f8rgensen,F. Hadergjonaj,1
+F. Hadergjonaj,J. L\u00f6ssl,1
+A. Mooy,S. Mouni\u00e9,1
+A. Mooy,L. Depoitre,1
+L. Depoitre,A. Sabiri,1
+C. Schindler,S. Malone,1
+S. Mouni\u00e9,M. J\u00f8rgensen,1
+J. L\u00f6ssl,M. J\u00f8rgensen,1
+A. Sabiri,C. Schindler,1
+C. Schindler,L. Depoitre,1
+L. Depoitre,F. Hadergjonaj,1
+A. Mooy,A. Sabiri,1
+F. Hadergjonaj,A. Mooy,1
+A. Mooy,M. J\u00f8rgensen,1

@@ -1,0 +1,69 @@
+Source,Target,Weight
+A. Mooy,F. Hadergjonaj,4
+M. J\u00f8rgensen,M. Cranie,4
+D. Williams,M. J\u00f8rgensen,4
+F. Hadergjonaj,M. J\u00f8rgensen,4
+M. Cranie,S. Malone,3
+L. Depoitre,F. Hadergjonaj,3
+S. Malone,L. Depoitre,3
+T. Ince,D. Williams,3
+S. Malone,A. Mooy,3
+J. L\u00f6ssl,M. Cranie,3
+M. J\u00f8rgensen,J. L\u00f6ssl,3
+M. Cranie,D. Williams,3
+J. L\u00f6ssl,L. Depoitre,3
+A. Mooy,T. Ince,3
+M. Cranie,A. Mooy,3
+F. Hadergjonaj,A. Mooy,3
+M. J\u00f8rgensen,F. Hadergjonaj,2
+F. Hadergjonaj,T. Ince,2
+T. Ince,A. Mooy,2
+R. van La Parra,A. Mooy,2
+A. Mooy,L. Depoitre,2
+S. Malone,M. Cranie,2
+D. Williams,F. Hadergjonaj,2
+L. Depoitre,S. Malone,2
+A. Mooy,M. Cranie,2
+A. Mooy,D. Williams,2
+M. Cranie,L. Depoitre,2
+S. Malone,J. L\u00f6ssl,2
+F. Hadergjonaj,E. Kachunga,2
+R. van La Parra,S. Malone,2
+A. Mooy,S. Malone,2
+D. Williams,M. Cranie,1
+S. Malone,R. van La Parra,1
+D. Williams,J. L\u00f6ssl,1
+A. Mooy,M. J\u00f8rgensen,1
+J. L\u00f6ssl,A. Mooy,1
+L. Depoitre,R. van La Parra,1
+M. J\u00f8rgensen,R. van La Parra,1
+D. Williams,S. Malone,1
+L. Depoitre,E. Kachunga,1
+T. Ince,R. van La Parra,1
+L. Depoitre,D. Williams,1
+S. Malone,D. Williams,1
+J. L\u00f6ssl,S. Malone,1
+F. Hadergjonaj,L. Depoitre,1
+E. Kachunga,A. Mooy,1
+L. Depoitre,J. L\u00f6ssl,1
+E. Kachunga,T. Ince,1
+T. Ince,S. Malone,1
+M. Cranie,E. Kachunga,1
+D. Williams,A. Mooy,1
+R. van La Parra,M. Cranie,1
+R. van La Parra,D. Williams,1
+A. Mooy,R. van La Parra,1
+F. Hadergjonaj,D. Williams,1
+F. Hadergjonaj,R. van La Parra,1
+M. Cranie,F. Hadergjonaj,1
+M. J\u00f8rgensen,S. Malone,1
+E. Kachunga,S. Malone,1
+S. Malone,F. Hadergjonaj,1
+S. Malone,M. J\u00f8rgensen,1
+D. Williams,T. Ince,1
+D. Williams,E. Kachunga,1
+T. Ince,F. Hadergjonaj,1
+E. Kachunga,M. Cranie,1
+L. Depoitre,T. Ince,1
+L. Depoitre,A. Mooy,1
+M. Cranie,J. L\u00f6ssl,1

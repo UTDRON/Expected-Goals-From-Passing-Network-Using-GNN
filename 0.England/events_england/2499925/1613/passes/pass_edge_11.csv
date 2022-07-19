@@ -1,0 +1,26 @@
+Source,Target,Weight
+J. Lascelles,D. Yedlin,3
+J. Murphy,D. Yedlin,3
+D. Yedlin,J. Lascelles,2
+D. Yedlin,J. Shelvey,2
+D. Yedlin,J. Murphy,2
+J. Shelvey,D. Yedlin,2
+D. Gayle,D. Yedlin,1
+C. Clark,J. Lascelles,1
+K. Darlow,D. Gayle,1
+I. Hayden,D. Yedlin,1
+D. Yedlin,D. Gayle,1
+J. Murphy,J. Shelvey,1
+D. Yedlin,Ayoze P\u00e9rez,1
+D. Yedlin,I. Hayden,1
+Ayoze P\u00e9rez,C. Clark,1
+D. Yedlin,K. Darlow,1
+J. Lascelles,D. Gayle,1
+K. Darlow,J. Lascelles,1
+D. Gayle,P. Dummett,1
+C. Clark,P. Dummett,1
+I. Hayden,J. Murphy,1
+P. Dummett,C. Clark,1
+D. Gayle,J. Shelvey,1
+P. Dummett,K. Darlow,1
+J. Shelvey,J. Murphy,1

@@ -1,0 +1,26 @@
+Source,Target,Weight
+Lee Chung-Yong,J. McArthur,2
+J. Ward,A. Townsend,2
+J. McArthur,Y. Cabaye,2
+J. Puncheon,Lee Chung-Yong,2
+W. Hennessey,J. Ward,1
+Lee Chung-Yong,T. Fosu-Mensah,1
+A. Townsend,J. Puncheon,1
+Y. Cabaye,J. Ward,1
+S. Dann,J. Schlupp,1
+A. Townsend,J. McArthur,1
+J. Puncheon,J. Schlupp,1
+J. Ward,J. McArthur,1
+J. Schlupp,Lee Chung-Yong,1
+J. Schlupp,W. Hennessey,1
+J. McArthur,Lee Chung-Yong,1
+J. Ward,Lee Chung-Yong,1
+T. Fosu-Mensah,W. Hennessey,1
+Lee Chung-Yong,J. Ward,1
+Lee Chung-Yong,J. Puncheon,1
+Y. Cabaye,J. Puncheon,1
+W. Hennessey,T. Fosu-Mensah,1
+S. Dann,Y. Cabaye,1
+Y. Cabaye,A. Townsend,1
+T. Fosu-Mensah,S. Dann,1
+A. Townsend,J. Ward,1

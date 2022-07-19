@@ -1,0 +1,120 @@
+Source,Target,Weight
+K. Darlow,D. Gayle,9
+C. Clark,P. Dummett,9
+M. Ritchie,D. Yedlin,8
+P. Dummett,C. Clark,8
+D. Yedlin,M. Ritchie,7
+J. Shelvey,C. Clark,6
+J. Lascelles,C. Clark,6
+M. Ritchie,J. Lascelles,6
+D. Gayle,P. Dummett,6
+C. Atsu,J. Shelvey,5
+J. Lascelles,D. Yedlin,5
+J. Shelvey,D. Yedlin,5
+D. Gayle,J. Shelvey,5
+P. Dummett,Ayoze P\u00e9rez,4
+C. Clark,K. Darlow,4
+C. Clark,J. Lascelles,4
+M. Diam\u00e9,C. Clark,4
+Ayoze P\u00e9rez,M. Ritchie,4
+D. Gayle,Kenedy,4
+P. Dummett,J. Shelvey,4
+D. Yedlin,M. Diam\u00e9,4
+M. Diam\u00e9,M. Ritchie,4
+I. Hayden,P. Dummett,4
+P. Dummett,C. Atsu,4
+J. Shelvey,P. Dummett,4
+P. Dummett,Mikel Merino,4
+J. Shelvey,M. Diam\u00e9,3
+D. Yedlin,C. Atsu,3
+C. Clark,D. Gayle,3
+J. Lascelles,K. Darlow,3
+P. Dummett,D. Yedlin,3
+C. Clark,M. Ritchie,3
+C. Atsu,J. Lascelles,3
+Kenedy,D. Gayle,3
+I. Hayden,J. Lascelles,3
+D. Yedlin,K. Darlow,3
+J. Shelvey,J. Lascelles,3
+M. Ritchie,J. Shelvey,3
+D. Yedlin,J. Shelvey,3
+M. Ritchie,K. Darlow,3
+C. Clark,C. Atsu,3
+P. Dummett,D. Gayle,3
+Mikel Merino,I. Hayden,2
+C. Atsu,P. Dummett,2
+C. Clark,J. Shelvey,2
+D. Yedlin,D. Gayle,2
+K. Darlow,Ayoze P\u00e9rez,2
+D. Gayle,M. Ritchie,2
+J. Lascelles,M. Ritchie,2
+K. Darlow,P. Dummett,2
+M. Diam\u00e9,J. Lascelles,2
+J. Lascelles,J. Shelvey,2
+I. Hayden,M. Ritchie,2
+D. Yedlin,C. Clark,2
+J. Lascelles,Ayoze P\u00e9rez,2
+C. Clark,D. Yedlin,2
+Kenedy,D. Yedlin,2
+Ayoze P\u00e9rez,D. Yedlin,2
+K. Darlow,C. Clark,2
+Mikel Merino,P. Dummett,2
+D. Gayle,C. Atsu,2
+Ayoze P\u00e9rez,K. Darlow,2
+J. Lascelles,I. Hayden,2
+J. Shelvey,D. Gayle,1
+M. Ritchie,M. Diam\u00e9,1
+J. Lascelles,P. Dummett,1
+Mikel Merino,C. Atsu,1
+C. Atsu,M. Ritchie,1
+D. Gayle,Ayoze P\u00e9rez,1
+C. Atsu,I. Hayden,1
+M. Diam\u00e9,Kenedy,1
+K. Darlow,D. Yedlin,1
+Kenedy,M. Diam\u00e9,1
+D. Gayle,C. Clark,1
+J. Shelvey,Kenedy,1
+Kenedy,C. Clark,1
+C. Clark,Mikel Merino,1
+Ayoze P\u00e9rez,J. Shelvey,1
+Ayoze P\u00e9rez,C. Clark,1
+P. Dummett,K. Darlow,1
+I. Hayden,Ayoze P\u00e9rez,1
+M. Diam\u00e9,Ayoze P\u00e9rez,1
+J. Shelvey,K. Darlow,1
+J. Lascelles,C. Atsu,1
+D. Gayle,M. Diam\u00e9,1
+P. Dummett,M. Ritchie,1
+C. Clark,I. Hayden,1
+P. Dummett,Kenedy,1
+M. Ritchie,C. Atsu,1
+C. Atsu,K. Darlow,1
+C. Atsu,C. Clark,1
+D. Yedlin,Ayoze P\u00e9rez,1
+Ayoze P\u00e9rez,D. Gayle,1
+D. Gayle,J. Lascelles,1
+Kenedy,K. Darlow,1
+M. Ritchie,D. Gayle,1
+M. Ritchie,P. Dummett,1
+D. Yedlin,P. Dummett,1
+M. Ritchie,C. Clark,1
+Ayoze P\u00e9rez,I. Hayden,1
+D. Yedlin,I. Hayden,1
+D. Yedlin,J. Lascelles,1
+M. Diam\u00e9,P. Dummett,1
+K. Darlow,I. Hayden,1
+P. Dummett,M. Diam\u00e9,1
+Ayoze P\u00e9rez,J. Lascelles,1
+Kenedy,Ayoze P\u00e9rez,1
+M. Diam\u00e9,K. Darlow,1
+Ayoze P\u00e9rez,P. Dummett,1
+Ayoze P\u00e9rez,M. Diam\u00e9,1
+M. Ritchie,Ayoze P\u00e9rez,1
+M. Ritchie,Kenedy,1
+J. Shelvey,M. Ritchie,1
+K. Darlow,M. Diam\u00e9,1
+K. Darlow,C. Atsu,1
+C. Atsu,Ayoze P\u00e9rez,1
+C. Clark,M. Diam\u00e9,1
+K. Darlow,J. Shelvey,1
+J. Shelvey,I. Hayden,1

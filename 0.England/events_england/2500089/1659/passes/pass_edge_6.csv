@@ -1,0 +1,24 @@
+Source,Target,Weight
+L. Mousset,E. Hyndman,2
+S. Cook,L. Mousset,2
+R. Fraser,A. Surman,1
+S. Cook,J. King,1
+R. Fraser,L. Mousset,1
+E. Hyndman,A. Surman,1
+L. Mousset,R. Fraser,1
+L. Mousset,S. Cook,1
+A. Surman,S. Cook,1
+A. Surman,J. King,1
+C. Daniels,E. Hyndman,1
+E. Hyndman,C. Daniels,1
+E. Hyndman,R. Fraser,1
+L. Mousset,A. Begovi\u0107,1
+J. King,J. Ibe,1
+A. Begovi\u0107,J. King,1
+A. Begovi\u0107,S. Cook,1
+J. King,C. Daniels,1
+A. Surman,A. Begovi\u0107,1
+J. Ibe,J. King,1
+J. King,A. Surman,1
+C. Daniels,L. Mousset,1
+A. Surman,L. Mousset,1

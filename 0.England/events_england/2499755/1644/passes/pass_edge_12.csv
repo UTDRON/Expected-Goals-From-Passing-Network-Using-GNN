@@ -1,0 +1,79 @@
+Source,Target,Weight
+N. Chalobah,Richarlison,6
+A. Doucour\u00e9,N. Chalobah,4
+Richarlison,N. Chalobah,4
+Richarlison,J. Holebas,4
+Gomes,Richarlison,4
+D. Janmaat,Gomes,4
+A. Gray,T. Cleverley,4
+T. Cleverley,A. Carrillo,3
+A. Mariappa,Gomes,3
+Richarlison,A. Mariappa,3
+A. Carrillo,D. Janmaat,3
+T. Cleverley,N. Chalobah,3
+C. Kabasele,T. Cleverley,3
+T. Cleverley,Richarlison,3
+J. Holebas,T. Cleverley,3
+A. Mariappa,D. Janmaat,3
+J. Holebas,Richarlison,2
+J. Holebas,C. Kabasele,2
+Richarlison,T. Cleverley,2
+A. Doucour\u00e9,Richarlison,2
+C. Kabasele,J. Holebas,2
+C. Kabasele,D. Janmaat,2
+N. Chalobah,A. Doucour\u00e9,2
+T. Cleverley,J. Holebas,2
+T. Cleverley,A. Gray,2
+Richarlison,D. Janmaat,2
+Gomes,T. Deeney,2
+A. Mariappa,A. Doucour\u00e9,2
+A. Doucour\u00e9,A. Mariappa,2
+D. Janmaat,Richarlison,2
+N. Chalobah,A. Carrillo,2
+T. Cleverley,C. Kabasele,2
+Richarlison,A. Carrillo,2
+Richarlison,A. Doucour\u00e9,2
+A. Carrillo,C. Kabasele,2
+A. Doucour\u00e9,D. Janmaat,2
+J. Holebas,A. Mariappa,2
+N. Chalobah,J. Holebas,2
+C. Kabasele,A. Doucour\u00e9,2
+A. Gray,A. Doucour\u00e9,2
+A. Doucour\u00e9,A. Gray,2
+D. Janmaat,A. Gray,2
+D. Janmaat,T. Cleverley,2
+T. Cleverley,D. Janmaat,1
+D. Janmaat,T. Deeney,1
+A. Mariappa,C. Kabasele,1
+A. Gray,C. Kabasele,1
+C. Kabasele,Richarlison,1
+J. Holebas,N. Chalobah,1
+T. Deeney,Richarlison,1
+D. Janmaat,J. Holebas,1
+A. Doucour\u00e9,T. Cleverley,1
+Gomes,A. Doucour\u00e9,1
+Gomes,A. Carrillo,1
+C. Kabasele,Gomes,1
+A. Carrillo,Gomes,1
+J. Holebas,A. Gray,1
+T. Cleverley,A. Doucour\u00e9,1
+A. Carrillo,A. Doucour\u00e9,1
+Gomes,C. Kabasele,1
+N. Chalobah,T. Cleverley,1
+D. Janmaat,A. Carrillo,1
+A. Carrillo,T. Cleverley,1
+D. Janmaat,N. Chalobah,1
+N. Chalobah,A. Mariappa,1
+N. Chalobah,D. Janmaat,1
+D. Janmaat,A. Doucour\u00e9,1
+C. Kabasele,N. Chalobah,1
+A. Carrillo,N. Chalobah,1
+T. Deeney,C. Kabasele,1
+Richarlison,C. Kabasele,1
+Richarlison,A. Gray,1
+J. Holebas,T. Deeney,1
+T. Deeney,D. Janmaat,1
+N. Chalobah,C. Kabasele,1
+T. Deeney,N. Chalobah,1
+A. Gray,J. Holebas,1
+A. Doucour\u00e9,A. Carrillo,1

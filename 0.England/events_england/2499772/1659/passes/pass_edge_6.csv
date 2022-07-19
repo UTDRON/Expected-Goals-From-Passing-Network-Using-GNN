@@ -1,0 +1,13 @@
+Source,Target,Weight
+A. Smith,J. Ibe,2
+A. Surman,A. Smith,2
+N. Ak\u00e9,C. Daniels,1
+J. Ibe,D. Gosling,1
+J. Ibe,A. Surman,1
+J. Stanislas,D. Gosling,1
+C. Daniels,J. King,1
+C. Daniels,A. Surman,1
+S. Francis,N. Ak\u00e9,1
+D. Gosling,J. Stanislas,1
+A. Smith,S. Francis,1
+J. King,C. Daniels,1

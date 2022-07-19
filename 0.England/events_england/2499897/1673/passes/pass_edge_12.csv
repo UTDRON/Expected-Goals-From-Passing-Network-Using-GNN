@@ -1,0 +1,22 @@
+Source,Target,Weight
+S. Malone,T. Ince,3
+C. Schindler,S. Malone,2
+A. Mooy,T. Ince,2
+T. Ince,S. Malone,2
+A. Mooy,S. Malone,2
+T. Ince,A. Mooy,2
+S. Malone,A. Mooy,1
+D. Williams,C. Quaner,1
+C. Schindler,D. Williams,1
+T. Ince,D. Williams,1
+S. Malone,C. Schindler,1
+L. Depoitre,C. Schindler,1
+F. Hadergjonaj,S. Malone,1
+S. Malone,F. Hadergjonaj,1
+D. Williams,A. Mooy,1
+A. Mooy,C. Schindler,1
+T. Ince,L. Depoitre,1
+F. Hadergjonaj,C. Quaner,1
+S. Malone,D. Williams,1
+C. Quaner,T. Ince,1
+D. Williams,F. Hadergjonaj,1

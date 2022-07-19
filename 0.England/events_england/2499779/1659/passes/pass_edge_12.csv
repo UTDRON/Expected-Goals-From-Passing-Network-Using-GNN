@@ -1,0 +1,12 @@
+Source,Target,Weight
+S. Francis,A. Smith,2
+L. Cook,J. Ibe,2
+A. Surman,C. Daniels,1
+S. Francis,L. Cook,1
+A. Smith,S. Francis,1
+C. Daniels,L. Cook,1
+J. Ibe,S. Francis,1
+J. Stanislas,A. Surman,1
+J. Ibe,L. Cook,1
+C. Daniels,J. Stanislas,1
+A. Smith,C. Daniels,1

@@ -1,0 +1,12 @@
+Source,Target,Weight
+A. Ramsey,Nacho Monreal,2
+S. Mustafi,A. Ramsey,2
+C. Chambers,S. Mustafi,1
+J. Wilshere,M. \u00d6zil,1
+Nacho Monreal,S. Mustafi,1
+C. Chambers,Nacho Monreal,1
+Nacho Monreal,M. \u00d6zil,1
+Mohamed Elneny,J. Wilshere,1
+Nacho Monreal,C. Chambers,1
+M. \u00d6zil,C. Chambers,1
+M. \u00d6zil,Mohamed Elneny,1

@@ -1,0 +1,41 @@
+Source,Target,Weight
+R. Holding,Beller\u00edn,5
+Beller\u00edn,R. Holding,4
+A. Ramsey,R. Holding,4
+Beller\u00edn,A. Ramsey,3
+S. Mustafi,A. Ramsey,2
+S. Kola\u0161inac,Nacho Monreal,2
+A. S\u00e1nchez,G. Xhaka,2
+R. Holding,S. Mustafi,2
+S. Mustafi,Nacho Monreal,1
+A. S\u00e1nchez,A. Lacazette,1
+Nacho Monreal,S. Mustafi,1
+S. Mustafi,R. Holding,1
+A. Ramsey,Beller\u00edn,1
+A. S\u00e1nchez,A. Ramsey,1
+A. Lacazette,S. Kola\u0161inac,1
+S. Kola\u0161inac,A. S\u00e1nchez,1
+A. Iwobi,A. S\u00e1nchez,1
+P. \u010cech,Beller\u00edn,1
+Beller\u00edn,G. Xhaka,1
+P. \u010cech,A. S\u00e1nchez,1
+A. S\u00e1nchez,S. Kola\u0161inac,1
+A. Ramsey,A. S\u00e1nchez,1
+G. Xhaka,S. Kola\u0161inac,1
+A. Ramsey,S. Mustafi,1
+G. Xhaka,R. Holding,1
+Nacho Monreal,A. S\u00e1nchez,1
+A. Ramsey,G. Xhaka,1
+R. Holding,Nacho Monreal,1
+Nacho Monreal,A. Ramsey,1
+G. Xhaka,A. S\u00e1nchez,1
+G. Xhaka,P. \u010cech,1
+P. \u010cech,Nacho Monreal,1
+R. Holding,A. Lacazette,1
+R. Holding,A. S\u00e1nchez,1
+A. S\u00e1nchez,Beller\u00edn,1
+Nacho Monreal,P. \u010cech,1
+S. Mustafi,P. \u010cech,1
+A. S\u00e1nchez,S. Mustafi,1
+Nacho Monreal,G. Xhaka,1
+G. Xhaka,A. Iwobi,1

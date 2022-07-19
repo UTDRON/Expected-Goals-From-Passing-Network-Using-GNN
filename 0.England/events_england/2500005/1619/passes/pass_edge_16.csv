@@ -1,0 +1,23 @@
+Source,Target,Weight
+R. Bertrand,S. Long,2
+J. Stephens,R. Bertrand,2
+N. Redmond,M. Lemina,1
+S. Long,J. Stephens,1
+C\u00e9dric Soares,R. Bertrand,1
+R. Bertrand,S. Boufal,1
+N. Redmond,C\u00e9dric Soares,1
+W. Hoedt,M. Lemina,1
+M. Lemina,N. Redmond,1
+S. Boufal,M. Gabbiadini,1
+J. Stephens,C\u00e9dric Soares,1
+M. Lemina,S. Boufal,1
+S. Long,S. Boufal,1
+C\u00e9dric Soares,N. Redmond,1
+M. Gabbiadini,Oriol Romeu,1
+S. Boufal,J. Stephens,1
+M. Lemina,J. Stephens,1
+S. Boufal,M. Lemina,1
+Oriol Romeu,M. Lemina,1
+R. Bertrand,J. Stephens,1
+M. Lemina,R. Bertrand,1
+J. Stephens,W. Hoedt,1

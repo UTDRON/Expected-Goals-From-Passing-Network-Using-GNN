@@ -1,0 +1,26 @@
+Source,Target,Weight
+N. Pope,B. Mee,2
+M. Lowton,N. Pope,1
+A. Barnes,J. Hendrick,1
+J. Gu\u00f0munds\u00adson,J. Hendrick,1
+J. Cork,J. Tarkowski,1
+A. Lennon,M. Lowton,1
+B. Mee,J. Cork,1
+A. Lennon,J. Cork,1
+A. Barnes,J. Gu\u00f0munds\u00adson,1
+J. Hendrick,M. Lowton,1
+M. Lowton,J. Tarkowski,1
+J. Hendrick,J. Gu\u00f0munds\u00adson,1
+M. Lowton,A. Lennon,1
+J. Tarkowski,N. Pope,1
+J. Gu\u00f0munds\u00adson,M. Lowton,1
+J. Tarkowski,M. Lowton,1
+B. Mee,A. Westwood,1
+S. Ward,A. Lennon,1
+A. Lennon,A. Westwood,1
+J. Cork,S. Ward,1
+M. Lowton,S. Ward,1
+A. Westwood,J. Gu\u00f0munds\u00adson,1
+J. Cork,A. Barnes,1
+A. Westwood,A. Lennon,1
+S. Ward,A. Barnes,1

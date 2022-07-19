@@ -1,0 +1,25 @@
+Source,Target,Weight
+T. Carroll,J. Ayew,2
+A. King,A. Ayew,2
+A. Mawson,M. van der Hoorn,2
+A. King,N. Dyer,2
+N. Dyer,\u00c0ngel Rangel,2
+\u00c0ngel Rangel,A. King,2
+\u00c0ngel Rangel,\u0141. Fabia\u0144ski,1
+M. van der Hoorn,\u00c0ngel Rangel,1
+W. Routledge,A. Mawson,1
+J. Ayew,A. Ayew,1
+A. Ayew,A. Mawson,1
+J. Ayew,W. Routledge,1
+\u0141. Fabia\u0144ski,A. King,1
+M. van der Hoorn,T. Carroll,1
+M. van der Hoorn,A. King,1
+A. King,T. Carroll,1
+\u00c0ngel Rangel,J. Ayew,1
+J. Ayew,N. Dyer,1
+\u0141. Fabia\u0144ski,\u00c0ngel Rangel,1
+\u00c0ngel Rangel,N. Dyer,1
+N. Dyer,A. King,1
+A. Ayew,\u00c0ngel Rangel,1
+N. Dyer,M. van der Hoorn,1
+A. Ayew,W. Routledge,1

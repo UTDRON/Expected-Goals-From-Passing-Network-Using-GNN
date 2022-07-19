@@ -1,0 +1,25 @@
+Source,Target,Weight
+T. Carroll,S. Clucas,3
+S. Clucas,L. Britton,2
+A. Mawson,T. Carroll,2
+T. Carroll,A. Mawson,2
+L. Britton,T. Carroll,2
+M. Olsson,T. Carroll,2
+A. Ayew,\u00c0ngel Rangel,2
+\u00c0ngel Rangel,M. van der Hoorn,1
+\u00c0ngel Rangel,S. Clucas,1
+L. Britton,A. Ayew,1
+\u00c0ngel Rangel,L. Britton,1
+M. van der Hoorn,A. Mawson,1
+S. Clucas,A. Mawson,1
+M. van der Hoorn,\u00c0ngel Rangel,1
+T. Carroll,T. Abraham,1
+T. Carroll,A. Ayew,1
+J. Ayew,M. Olsson,1
+S. Clucas,\u00c0ngel Rangel,1
+S. Clucas,T. Carroll,1
+T. Carroll,M. van der Hoorn,1
+T. Abraham,S. Clucas,1
+\u00c0ngel Rangel,T. Carroll,1
+A. Mawson,J. Ayew,1
+A. Mawson,S. Clucas,1

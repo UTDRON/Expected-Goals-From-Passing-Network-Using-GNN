@@ -1,0 +1,26 @@
+Source,Target,Weight
+E. Choupo-Moting,G. Johnson,2
+G. Cameron,J. Allen,2
+G. Johnson,E. Choupo-Moting,2
+R. Shawcross,D. Fletcher,1
+J. Allen,K. Zouma,1
+G. Cameron,E. Pieters,1
+E. Pieters,J. Allen,1
+D. Fletcher,K. Zouma,1
+M. Diouf,E. Pieters,1
+R. Shawcross,E. Choupo-Moting,1
+D. Fletcher,E. Choupo-Moting,1
+E. Pieters,R. Shawcross,1
+D. Fletcher,M. Diouf,1
+K. Zouma,G. Johnson,1
+R. Shawcross,E. Pieters,1
+M. Diouf,G. Cameron,1
+J. Allen,G. Cameron,1
+K. Zouma,R. Shawcross,1
+G. Cameron,D. Fletcher,1
+J. Allen,R. Shawcross,1
+E. Pieters,K. Zouma,1
+D. Fletcher,G. Cameron,1
+E. Choupo-Moting,M. Diouf,1
+K. Zouma,D. Fletcher,1
+G. Johnson,D. Fletcher,1

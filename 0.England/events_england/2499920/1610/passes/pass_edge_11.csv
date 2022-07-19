@@ -1,0 +1,57 @@
+Source,Target,Weight
+D. Drinkwater,N. Kant\u00e9,5
+N. Kant\u00e9,Azpilicueta,5
+Azpilicueta,N. Kant\u00e9,5
+V. Moses,Azpilicueta,4
+Azpilicueta,G. Cahill,4
+G. Cahill,Azpilicueta,3
+D. Drinkwater,Azpilicueta,3
+N. Kant\u00e9,D. Drinkwater,3
+G. Cahill,A. R\u00fcdiger,3
+A. R\u00fcdiger,D. Drinkwater,3
+Pedro,Willian,3
+\u00c1lvaro Morata,D. Drinkwater,2
+Willian,Azpilicueta,2
+D. Drinkwater,\u00c1lvaro Morata,2
+Azpilicueta,Pedro,2
+Marcos Alonso,Pedro,2
+Pedro,A. R\u00fcdiger,2
+Azpilicueta,D. Drinkwater,2
+Willian,Pedro,2
+A. R\u00fcdiger,Pedro,2
+Azpilicueta,Willian,2
+A. R\u00fcdiger,V. Moses,1
+Willian,D. Drinkwater,1
+T. Courtois,A. R\u00fcdiger,1
+N. Kant\u00e9,G. Cahill,1
+Pedro,D. Drinkwater,1
+Marcos Alonso,D. Drinkwater,1
+Marcos Alonso,G. Cahill,1
+G. Cahill,V. Moses,1
+V. Moses,Marcos Alonso,1
+\u00c1lvaro Morata,V. Moses,1
+D. Drinkwater,Marcos Alonso,1
+T. Courtois,G. Cahill,1
+A. R\u00fcdiger,T. Courtois,1
+Azpilicueta,\u00c1lvaro Morata,1
+D. Drinkwater,G. Cahill,1
+V. Moses,D. Drinkwater,1
+D. Drinkwater,Pedro,1
+G. Cahill,Marcos Alonso,1
+Willian,N. Kant\u00e9,1
+\u00c1lvaro Morata,Willian,1
+Pedro,Marcos Alonso,1
+D. Drinkwater,V. Moses,1
+N. Kant\u00e9,A. R\u00fcdiger,1
+Pedro,\u00c1lvaro Morata,1
+Marcos Alonso,N. Kant\u00e9,1
+N. Kant\u00e9,Marcos Alonso,1
+D. Drinkwater,A. R\u00fcdiger,1
+G. Cahill,D. Drinkwater,1
+Azpilicueta,V. Moses,1
+Azpilicueta,T. Courtois,1
+A. R\u00fcdiger,G. Cahill,1
+Marcos Alonso,\u00c1lvaro Morata,1
+Willian,V. Moses,1
+\u00c1lvaro Morata,Marcos Alonso,1
+N. Kant\u00e9,Willian,1

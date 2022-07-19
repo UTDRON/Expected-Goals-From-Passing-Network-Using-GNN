@@ -1,0 +1,18 @@
+Source,Target,Weight
+G. Barry,K. Gibbs,2
+G. Barry,J. Rodriguez,1
+S. Rond\u00f3n,G. McAuley,1
+J. Evans,Ahmed Hegazy,1
+K. Gibbs,J. Evans,1
+K. Gibbs,Ahmed Hegazy,1
+G. Krychowiak,A. Nyom,1
+J. Rodriguez,G. Barry,1
+G. McAuley,G. Krychowiak,1
+A. Nyom,G. Krychowiak,1
+Ahmed Hegazy,B. Foster,1
+G. Krychowiak,G. Barry,1
+B. Foster,K. Gibbs,1
+J. Livermore,G. Barry,1
+K. Gibbs,S. Rond\u00f3n,1
+Ahmed Hegazy,S. Rond\u00f3n,1
+S. Rond\u00f3n,G. Krychowiak,1

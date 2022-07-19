@@ -1,0 +1,23 @@
+Source,Target,Weight
+S. Clucas,M. Olsson,3
+T. Carroll,A. Ayew,2
+S. Clucas,T. Carroll,2
+S. Clucas,A. Ayew,2
+A. Mawson,K. Naughton,2
+T. Carroll,A. Mawson,2
+A. Ayew,S. Clucas,2
+A. Ayew,T. Carroll,2
+M. Olsson,S. Clucas,2
+N. Dyer,A. Mawson,1
+T. Carroll,S. Clucas,1
+A. Mawson,S. Clucas,1
+K. Bartley,F. Fern\u00e1ndez,1
+A. Mawson,A. Ayew,1
+F. Fern\u00e1ndez,T. Abraham,1
+N. Dyer,M. Olsson,1
+A. Ayew,N. Dyer,1
+M. Olsson,N. Dyer,1
+M. Olsson,A. Mawson,1
+T. Abraham,S. Clucas,1
+F. Fern\u00e1ndez,T. Carroll,1
+K. Naughton,K. Bartley,1

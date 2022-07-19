@@ -1,0 +1,21 @@
+Source,Target,Weight
+Kenedy,F. Lejeune,2
+Joselu,Kenedy,2
+Kenedy,I. Slimani,2
+I. Slimani,Joselu,2
+F. Lejeune,Kenedy,2
+F. Lejeune,Joselu,2
+Joselu,F. Lejeune,1
+M. Diam\u00e9,I. Slimani,1
+J. Shelvey,F. Lejeune,1
+D. Yedlin,Joselu,1
+Joselu,J. Shelvey,1
+J. Lascelles,F. Lejeune,1
+Joselu,M. Ritchie,1
+J. Lascelles,M. Diam\u00e9,1
+M. Ritchie,J. Shelvey,1
+M. Ritchie,Joselu,1
+I. Slimani,D. Yedlin,1
+F. Lejeune,J. Lascelles,1
+J. Shelvey,D. Yedlin,1
+D. Yedlin,J. Lascelles,1

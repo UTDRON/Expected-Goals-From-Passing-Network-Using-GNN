@@ -1,0 +1,38 @@
+Source,Target,Weight
+Sung-Yeung Ki,T. Carroll,3
+Sung-Yeung Ki,N. Dyer,2
+T. Carroll,W. Routledge,2
+Roque Mesa,Sung-Yeung Ki,2
+A. Mawson,M. van der Hoorn,2
+T. Carroll,M. Olsson,2
+K. Naughton,Roque Mesa,2
+N. Dyer,K. Naughton,2
+K. Naughton,T. Carroll,2
+M. van der Hoorn,K. Naughton,2
+M. Olsson,Sung-Yeung Ki,1
+W. Routledge,K. Naughton,1
+M. van der Hoorn,W. Bony,1
+W. Bony,Roque Mesa,1
+N. Dyer,Sung-Yeung Ki,1
+T. Carroll,W. Bony,1
+M. Olsson,Roque Mesa,1
+W. Bony,Sung-Yeung Ki,1
+A. Mawson,W. Bony,1
+W. Routledge,Sung-Yeung Ki,1
+Roque Mesa,N. Dyer,1
+W. Bony,M. Olsson,1
+Sung-Yeung Ki,Roque Mesa,1
+T. Carroll,A. Mawson,1
+M. Olsson,A. Mawson,1
+Roque Mesa,A. Mawson,1
+Roque Mesa,M. Olsson,1
+M. van der Hoorn,N. Dyer,1
+M. Olsson,N. Dyer,1
+A. Mawson,\u0141. Fabia\u0144ski,1
+N. Dyer,M. van der Hoorn,1
+N. Dyer,W. Routledge,1
+\u0141. Fabia\u0144ski,Roque Mesa,1
+W. Routledge,A. Mawson,1
+Roque Mesa,M. van der Hoorn,1
+N. Dyer,T. Carroll,1
+K. Naughton,N. Dyer,1

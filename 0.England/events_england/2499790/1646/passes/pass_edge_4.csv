@@ -1,0 +1,8 @@
+Source,Target,Weight
+M. Lowton,C. Wood,2
+S. Defour,M. Lowton,2
+C. Wood,M. Lowton,2
+M. Lowton,S. Defour,1
+S. Defour,R. Brady,1
+R. Brady,S. Defour,1
+M. Lowton,R. Brady,1

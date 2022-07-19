@@ -1,0 +1,14 @@
+Source,Target,Weight
+R. Holding,Nacho Monreal,2
+R. Holding,S. Mustafi,2
+Nacho Monreal,P. Aubameyang,2
+P. Aubameyang,R. Holding,2
+S. Mustafi,Mohamed Elneny,1
+A. Iwobi,G. Xhaka,1
+Mohamed Elneny,Nacho Monreal,1
+Nacho Monreal,J. Willock,1
+G. Xhaka,C. Chambers,1
+Mohamed Elneny,S. Mustafi,1
+J. Willock,R. Holding,1
+S. Mustafi,R. Holding,1
+S. Mustafi,A. Iwobi,1

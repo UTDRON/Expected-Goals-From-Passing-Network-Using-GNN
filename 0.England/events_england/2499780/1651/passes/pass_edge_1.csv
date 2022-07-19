@@ -1,0 +1,22 @@
+Source,Target,Weight
+P. Gro\u00df,I. Brown,3
+I. Brown,D. Pr\u00f6pper,2
+D. Pr\u00f6pper,J. Izquierdo,2
+D. Pr\u00f6pper,I. Brown,1
+D. Pr\u00f6pper,M. Ryan,1
+G. Bong,I. Brown,1
+J. Izquierdo,I. Brown,1
+I. Brown,M. Ryan,1
+L. Dunk,P. Gro\u00df,1
+I. Brown,J. Izquierdo,1
+I. Brown,P. Gro\u00df,1
+J. Izquierdo,P. Gro\u00df,1
+D. Stephens,D. Pr\u00f6pper,1
+M. Ryan,D. Pr\u00f6pper,1
+J. Izquierdo,Bruno Saltor,1
+P. Gro\u00df,J. Izquierdo,1
+D. Stephens,P. Gro\u00df,1
+Bruno Saltor,S. March,1
+M. Ryan,D. Stephens,1
+J. Izquierdo,G. Bong,1
+S. March,L. Dunk,1

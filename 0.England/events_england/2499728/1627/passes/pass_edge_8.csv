@@ -1,0 +1,13 @@
+Source,Target,Weight
+J. Livermore,A. Nyom,1
+J. McClean,J. Livermore,1
+M. Phillips,J. Livermore,1
+M. Phillips,J. McClean,1
+C. Dawson,M. Phillips,1
+A. Nyom,Ahmed Hegazy,1
+S. Field,J. McClean,1
+C. Yacob,J. Livermore,1
+J. Livermore,M. Phillips,1
+C. Brunt,C. Yacob,1
+J. Livermore,C. Brunt,1
+Ahmed Hegazy,S. Field,1

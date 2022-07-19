@@ -1,0 +1,47 @@
+Source,Target,Weight
+A. R\u00fcdiger,A. Christensen,6
+A. Christensen,A. R\u00fcdiger,6
+Azpilicueta,A. Christensen,5
+A. Christensen,Azpilicueta,4
+F\u00e0bregas,Pedro,4
+A. Christensen,F\u00e0bregas,4
+D. Zappacosta,F\u00e0bregas,3
+Azpilicueta,F\u00e0bregas,3
+Azpilicueta,D. Zappacosta,3
+F\u00e0bregas,Azpilicueta,3
+A. R\u00fcdiger,F\u00e0bregas,2
+A. R\u00fcdiger,Marcos Alonso,2
+F\u00e0bregas,A. Christensen,2
+Willian,Azpilicueta,2
+F\u00e0bregas,Willian,2
+Marcos Alonso,A. R\u00fcdiger,2
+Pedro,A. R\u00fcdiger,2
+F\u00e0bregas,\u00c1lvaro Morata,2
+Pedro,F\u00e0bregas,2
+W. Caballero,Willian,1
+Azpilicueta,\u00c1lvaro Morata,1
+N. Kant\u00e9,A. Christensen,1
+A. Christensen,D. Zappacosta,1
+A. R\u00fcdiger,N. Kant\u00e9,1
+D. Zappacosta,\u00c1lvaro Morata,1
+Azpilicueta,Willian,1
+\u00c1lvaro Morata,Azpilicueta,1
+A. R\u00fcdiger,Pedro,1
+\u00c1lvaro Morata,F\u00e0bregas,1
+\u00c1lvaro Morata,Marcos Alonso,1
+F\u00e0bregas,Marcos Alonso,1
+Pedro,Azpilicueta,1
+N. Kant\u00e9,A. R\u00fcdiger,1
+Marcos Alonso,A. Christensen,1
+Willian,A. Christensen,1
+Willian,F\u00e0bregas,1
+\u00c1lvaro Morata,D. Zappacosta,1
+Pedro,Willian,1
+F\u00e0bregas,N. Kant\u00e9,1
+D. Zappacosta,Azpilicueta,1
+A. Christensen,N. Kant\u00e9,1
+D. Zappacosta,W. Caballero,1
+Willian,Pedro,1
+\u00c1lvaro Morata,A. R\u00fcdiger,1
+N. Kant\u00e9,Azpilicueta,1
+F\u00e0bregas,D. Zappacosta,1

@@ -1,0 +1,23 @@
+Source,Target,Weight
+J. Ayew,T. Carroll,2
+J. Ayew,M. Olsson,2
+M. Olsson,J. Ayew,2
+J. Ayew,L. Britton,1
+W. Bony,L. Britton,1
+Renato Sanches,K. Naughton,1
+\u0141. Fabia\u0144ski,W. Bony,1
+M. Olsson,Renato Sanches,1
+T. Carroll,J. Ayew,1
+W. Bony,\u0141. Fabia\u0144ski,1
+K. Naughton,W. Bony,1
+L. Britton,Renato Sanches,1
+T. Carroll,W. Bony,1
+L. Britton,M. Olsson,1
+Renato Sanches,T. Carroll,1
+W. Bony,T. Abraham,1
+T. Carroll,M. Olsson,1
+A. Mawson,J. Ayew,1
+M. Olsson,T. Carroll,1
+Renato Sanches,J. Ayew,1
+T. Carroll,Renato Sanches,1
+M. Olsson,A. Mawson,1

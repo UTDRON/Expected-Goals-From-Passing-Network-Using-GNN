@@ -1,0 +1,24 @@
+Source,Target,Weight
+C. Daniels,N. Ak\u00e9,4
+N. Ak\u00e9,C. Daniels,3
+L. Cook,C. Daniels,2
+C. Daniels,A. Surman,1
+N. Ak\u00e9,M. Pugh,1
+N. Ak\u00e9,J. King,1
+M. Pugh,N. Ak\u00e9,1
+M. Pugh,C. Wilson,1
+C. Daniels,L. Cook,1
+C. Daniels,M. Pugh,1
+J. King,L. Cook,1
+A. Surman,C. Wilson,1
+M. Pugh,C. Daniels,1
+C. Daniels,A. Begovi\u0107,1
+M. Pugh,L. Cook,1
+L. Cook,C. Wilson,1
+A. Begovi\u0107,M. Pugh,1
+A. Begovi\u0107,J. King,1
+S. Cook,A. Begovi\u0107,1
+C. Wilson,D. Gosling,1
+C. Wilson,C. Daniels,1
+J. King,C. Daniels,1
+C. Wilson,M. Pugh,1

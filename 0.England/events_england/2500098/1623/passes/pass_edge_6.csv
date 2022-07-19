@@ -1,0 +1,26 @@
+Source,Target,Weight
+T. Davies,M. Keane,4
+M. Keane,T. Davies,3
+I. Gueye,T. Davies,2
+M. Schneiderlin,I. Gueye,2
+T. Davies,I. Gueye,2
+M. Keane,I. Gueye,2
+I. Gueye,M. Keane,2
+M. Keane,M. Schneiderlin,2
+M. Schneiderlin,T. Davies,1
+M. Keane,P. Jagielka,1
+L. Baines,O. Niasse,1
+J. Pickford,M. Schneiderlin,1
+C. Tosun,T. Davies,1
+O. Niasse,I. Gueye,1
+I. Gueye,M. Schneiderlin,1
+P. Jagielka,M. Keane,1
+I. Gueye,P. Jagielka,1
+I. Gueye,O. Niasse,1
+P. Jagielka,Ramiro Funes Mori,1
+O. Niasse,M. Keane,1
+Ramiro Funes Mori,J. Pickford,1
+L. Baines,Ramiro Funes Mori,1
+Ramiro Funes Mori,L. Baines,1
+M. Schneiderlin,L. Baines,1
+L. Baines,C. Tosun,1

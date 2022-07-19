@@ -1,0 +1,8 @@
+Source,Target,Weight
+R. Bertrand,N. Redmond,3
+N. Redmond,G. Carrillo,1
+A. McCarthy,W. Hoedt,1
+J. Stephens,A. McCarthy,1
+G. Carrillo,R. Bertrand,1
+N. Redmond,R. Bertrand,1
+W. Hoedt,R. Bertrand,1

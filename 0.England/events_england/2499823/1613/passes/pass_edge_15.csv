@@ -1,0 +1,73 @@
+Source,Target,Weight
+M. Ritchie,D. Yedlin,5
+C. Clark,R. Elliot,4
+I. Hayden,D. Yedlin,4
+Joselu,F. Lejeune,4
+D. Yedlin,M. Ritchie,4
+D. Yedlin,I. Hayden,4
+J. Shelvey,F. Lejeune,3
+Joselu,M. Ritchie,3
+R. Elliot,Joselu,3
+I. Hayden,J. Shelvey,3
+F. Lejeune,J. Shelvey,3
+F. Lejeune,R. Elliot,2
+J. Shelvey,D. Gayle,2
+F. Lejeune,Joselu,2
+J. Shelvey,Joselu,2
+M. Ritchie,D. Gayle,2
+I. Hayden,M. Ritchie,2
+C. Atsu,I. Hayden,2
+D. Yedlin,C. Atsu,2
+J. Shelvey,I. Hayden,2
+J. Shelvey,C. Clark,2
+F. Lejeune,D. Yedlin,2
+C. Atsu,J. Shelvey,2
+M. Ritchie,J. Shelvey,2
+I. Hayden,C. Clark,2
+R. Elliot,F. Lejeune,2
+F. Lejeune,I. Hayden,2
+C. Atsu,Javi Manquillo,2
+Joselu,I. Hayden,1
+C. Clark,F. Lejeune,1
+M. Ritchie,Javi Manquillo,1
+I. Hayden,C. Atsu,1
+Javi Manquillo,F. Lejeune,1
+C. Atsu,C. Clark,1
+I. Hayden,Javi Manquillo,1
+Javi Manquillo,Joselu,1
+M. Ritchie,C. Atsu,1
+R. Elliot,J. Lascelles,1
+D. Gayle,M. Ritchie,1
+C. Clark,D. Yedlin,1
+C. Atsu,R. Elliot,1
+J. Lascelles,R. Elliot,1
+J. Shelvey,Javi Manquillo,1
+C. Atsu,F. Lejeune,1
+R. Elliot,C. Atsu,1
+M. Ritchie,Joselu,1
+D. Gayle,Javi Manquillo,1
+C. Clark,C. Atsu,1
+D. Yedlin,F. Lejeune,1
+Joselu,C. Clark,1
+D. Yedlin,J. Shelvey,1
+R. Elliot,I. Hayden,1
+Javi Manquillo,C. Atsu,1
+Javi Manquillo,J. Lascelles,1
+C. Atsu,Joselu,1
+M. Ritchie,F. Lejeune,1
+F. Lejeune,C. Atsu,1
+J. Shelvey,C. Atsu,1
+J. Lascelles,D. Yedlin,1
+F. Lejeune,C. Clark,1
+Joselu,R. Elliot,1
+Javi Manquillo,I. Hayden,1
+R. Elliot,D. Yedlin,1
+R. Elliot,J. Shelvey,1
+F. Lejeune,M. Ritchie,1
+D. Gayle,C. Atsu,1
+D. Yedlin,Joselu,1
+C. Atsu,M. Ritchie,1
+Joselu,C. Atsu,1
+D. Yedlin,R. Elliot,1
+D. Gayle,J. Shelvey,1
+Javi Manquillo,C. Clark,1

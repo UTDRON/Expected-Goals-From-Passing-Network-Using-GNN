@@ -1,0 +1,31 @@
+Source,Target,Weight
+J. Tomkins,P. van Aanholt,4
+P. van Aanholt,J. Tomkins,3
+P. van Aanholt,J. McArthur,2
+W. Hennessey,J. Tomkins,2
+L. Milivojevi\u0107,C. Benteke,1
+S. Dann,W. Hennessey,1
+J. Ward,S. Dann,1
+J. Puncheon,T. Fosu-Mensah,1
+L. Milivojevi\u0107,J. Puncheon,1
+L. Milivojevi\u0107,A. Townsend,1
+T. Fosu-Mensah,S. Dann,1
+S. Dann,L. Milivojevi\u0107,1
+S. Dann,J. Tomkins,1
+S. Dann,J. Puncheon,1
+J. Puncheon,C. Benteke,1
+J. Tomkins,J. Puncheon,1
+C. Benteke,J. Ward,1
+C. Benteke,L. Milivojevi\u0107,1
+J. Tomkins,S. Dann,1
+J. McArthur,W. Hennessey,1
+J. Tomkins,A. Townsend,1
+C. Benteke,P. van Aanholt,1
+J. Ward,L. Milivojevi\u0107,1
+T. Fosu-Mensah,J. Ward,1
+J. Puncheon,J. Tomkins,1
+L. Milivojevi\u0107,J. McArthur,1
+P. van Aanholt,C. Benteke,1
+J. McArthur,P. van Aanholt,1
+A. Townsend,S. Dann,1
+J. McArthur,L. Milivojevi\u0107,1

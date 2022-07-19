@@ -1,0 +1,77 @@
+Source,Target,Weight
+J. Henderson,N. Clyne,10
+G. Wijnaldum,D. Lovren,9
+N. Clyne,D. Lovren,7
+D. Ings,N. Clyne,6
+J. Milner,N. Clyne,6
+V. van Dijk,D. Lovren,6
+N. Clyne,D. Ings,6
+D. Ings,J. Henderson,5
+D. Solanke,J. Henderson,5
+D. Lovren,N. Clyne,5
+J. Milner,D. Lovren,5
+D. Lovren,L. Karius,5
+N. Clyne,J. Henderson,5
+J. Henderson,J. Milner,4
+N. Clyne,G. Wijnaldum,4
+L. Karius,D. Solanke,4
+D. Lovren,V. van Dijk,4
+G. Wijnaldum,J. Milner,4
+N. Clyne,D. Solanke,4
+V. van Dijk,G. Wijnaldum,4
+D. Lovren,D. Solanke,4
+N. Clyne,J. Milner,4
+D. Lovren,J. Milner,4
+J. Milner,G. Wijnaldum,3
+J. Milner,R. Klavan,3
+D. Solanke,G. Wijnaldum,3
+D. Solanke,N. Clyne,3
+J. Henderson,G. Wijnaldum,3
+R. Klavan,J. Milner,3
+D. Solanke,J. Milner,3
+D. Lovren,D. Ings,3
+R. Klavan,D. Solanke,3
+G. Wijnaldum,V. van Dijk,3
+N. Clyne,V. van Dijk,2
+S. Man\u00e9,G. Wijnaldum,2
+J. Henderson,D. Ings,2
+J. Milner,D. Solanke,2
+D. Ings,D. Lovren,2
+J. Milner,S. Man\u00e9,2
+V. van Dijk,L. Karius,2
+D. Solanke,D. Ings,2
+D. Lovren,G. Wijnaldum,2
+D. Lovren,J. Henderson,2
+G. Wijnaldum,J. Henderson,2
+J. Milner,D. Ings,2
+G. Wijnaldum,N. Clyne,2
+D. Solanke,V. van Dijk,2
+V. van Dijk,D. Ings,2
+J. Henderson,V. van Dijk,2
+R. Klavan,G. Wijnaldum,2
+V. van Dijk,D. Solanke,2
+L. Karius,V. van Dijk,2
+D. Ings,J. Milner,2
+D. Ings,S. Man\u00e9,1
+G. Wijnaldum,D. Solanke,1
+D. Solanke,D. Lovren,1
+G. Wijnaldum,R. Klavan,1
+D. Lovren,R. Klavan,1
+G. Wijnaldum,S. Man\u00e9,1
+R. Klavan,V. van Dijk,1
+N. Clyne,R. Klavan,1
+D. Solanke,A. Oxlade-Chamberlain,1
+S. Man\u00e9,R. Klavan,1
+D. Solanke,R. Klavan,1
+G. Wijnaldum,L. Karius,1
+D. Ings,V. van Dijk,1
+S. Man\u00e9,D. Solanke,1
+L. Karius,G. Wijnaldum,1
+L. Karius,N. Clyne,1
+J. Milner,J. Henderson,1
+V. van Dijk,J. Milner,1
+D. Lovren,S. Man\u00e9,1
+S. Man\u00e9,D. Lovren,1
+J. Milner,V. van Dijk,1
+V. van Dijk,J. Henderson,1
+V. van Dijk,R. Klavan,1

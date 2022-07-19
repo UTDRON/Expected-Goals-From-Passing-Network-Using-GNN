@@ -1,0 +1,57 @@
+Source,Target,Weight
+A. Carrillo,D. Janmaat,5
+D. Janmaat,A. Carrillo,4
+A. Mariappa,Gomes,3
+A. Carrillo,Richarlison,3
+A. Doucour\u00e9,T. Cleverley,2
+C. Kabasele,A. Doucour\u00e9,2
+T. Deeney,A. Carrillo,2
+J. Holebas,C. Kabasele,2
+A. Doucour\u00e9,J. Holebas,2
+A. Mariappa,T. Deeney,2
+A. Carrillo,A. Mariappa,2
+Richarlison,A. Carrillo,2
+Richarlison,A. Doucour\u00e9,2
+A. Mariappa,T. Cleverley,2
+D. Janmaat,A. Doucour\u00e9,1
+T. Deeney,A. Mariappa,1
+D. Janmaat,C. Kabasele,1
+J. Holebas,A. Mariappa,1
+T. Cleverley,A. Doucour\u00e9,1
+J. Holebas,D. Janmaat,1
+Richarlison,A. Mariappa,1
+Gomes,J. Holebas,1
+T. Cleverley,A. Carrillo,1
+C. Kabasele,A. Carrillo,1
+Richarlison,C. Kabasele,1
+T. Cleverley,D. Janmaat,1
+T. Cleverley,A. Mariappa,1
+Gomes,A. Carrillo,1
+A. Carrillo,J. Holebas,1
+C. Kabasele,J. Holebas,1
+Gomes,A. Doucour\u00e9,1
+Gomes,Richarlison,1
+A. Doucour\u00e9,A. Carrillo,1
+T. Cleverley,C. Kabasele,1
+Richarlison,D. Janmaat,1
+A. Mariappa,C. Kabasele,1
+T. Deeney,C. Kabasele,1
+T. Deeney,T. Cleverley,1
+J. Holebas,T. Deeney,1
+C. Kabasele,Gomes,1
+D. Janmaat,A. Mariappa,1
+D. Janmaat,T. Deeney,1
+A. Mariappa,Richarlison,1
+D. Janmaat,Gomes,1
+Gomes,A. Mariappa,1
+Richarlison,T. Deeney,1
+C. Kabasele,A. Mariappa,1
+D. Janmaat,Richarlison,1
+A. Doucour\u00e9,D. Janmaat,1
+A. Carrillo,T. Deeney,1
+J. Holebas,Richarlison,1
+D. Janmaat,J. Holebas,1
+A. Mariappa,D. Janmaat,1
+C. Kabasele,T. Cleverley,1
+T. Deeney,D. Janmaat,1
+T. Cleverley,Richarlison,1

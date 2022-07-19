@@ -1,0 +1,22 @@
+Source,Target,Weight
+H. Arter,J. Ibe,2
+D. Gosling,S. Cook,1
+A. Smith,H. Arter,1
+A. Smith,J. Ibe,1
+S. Francis,A. Smith,1
+C. Daniels,D. Gosling,1
+S. Francis,H. Arter,1
+S. Cook,S. Francis,1
+J. Ibe,J. King,1
+J. Ibe,N. Ak\u00e9,1
+H. Arter,L. Mousset,1
+J. Ibe,H. Arter,1
+N. Ak\u00e9,D. Gosling,1
+H. Arter,C. Daniels,1
+A. Begovi\u0107,C. Daniels,1
+L. Mousset,N. Ak\u00e9,1
+C. Daniels,A. Begovi\u0107,1
+C. Daniels,A. Smith,1
+D. Gosling,H. Arter,1
+N. Ak\u00e9,A. Smith,1
+A. Smith,S. Francis,1

@@ -1,0 +1,16 @@
+Source,Target,Weight
+G. Barry,J. Rodriguez,1
+Ahmed Hegazy,J. Evans,1
+Ahmed Hegazy,K. Gibbs,1
+S. Field,K. Gibbs,1
+G. Barry,S. Field,1
+S. Field,J. Rodriguez,1
+J. Evans,S. Field,1
+S. Field,G. Barry,1
+K. Gibbs,J. Rodriguez,1
+J. Rodriguez,S. Field,1
+J. Rodriguez,G. Barry,1
+J. Rodriguez,Ahmed Hegazy,1
+G. Barry,J. Evans,1
+J. Evans,Ahmed Hegazy,1
+K. Gibbs,H. Robson-Kanu,1

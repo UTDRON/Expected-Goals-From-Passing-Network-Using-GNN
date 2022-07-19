@@ -1,0 +1,21 @@
+Source,Target,Weight
+R. Fraser,D. Gosling,2
+L. Cook,B. Afobe,1
+R. Fraser,L. Cook,1
+R. Fraser,A. Smith,1
+S. Francis,J. Ibe,1
+L. Cook,R. Fraser,1
+D. Gosling,S. Francis,1
+A. Smith,R. Fraser,1
+B. Afobe,L. Cook,1
+L. Cook,A. Smith,1
+D. Gosling,B. Afobe,1
+A. Smith,D. Gosling,1
+A. Smith,L. Cook,1
+D. Gosling,R. Fraser,1
+S. Cook,D. Gosling,1
+B. Afobe,A. Smith,1
+D. Gosling,S. Cook,1
+S. Francis,R. Fraser,1
+A. Smith,S. Francis,1
+D. Gosling,A. Smith,1

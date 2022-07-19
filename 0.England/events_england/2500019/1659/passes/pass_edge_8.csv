@@ -1,0 +1,11 @@
+Source,Target,Weight
+J. Stanislas,C. Daniels,2
+C. Daniels,C. Wilson,1
+J. Ibe,J. Stanislas,1
+L. Cook,J. King,1
+D. Gosling,L. Cook,1
+C. Wilson,C. Daniels,1
+A. Smith,J. Ibe,1
+C. Daniels,J. Stanislas,1
+J. King,C. Daniels,1
+C. Daniels,A. Smith,1

@@ -1,0 +1,61 @@
+Source,Target,Weight
+T. Courtois,A. R\u00fcdiger,5
+N. Kant\u00e9,F\u00e0bregas,5
+F\u00e0bregas,A. R\u00fcdiger,5
+G. Cahill,N. Kant\u00e9,4
+A. R\u00fcdiger,Azpilicueta,4
+A. R\u00fcdiger,F\u00e0bregas,4
+A. R\u00fcdiger,T. Courtois,4
+Azpilicueta,A. R\u00fcdiger,3
+F\u00e0bregas,Azpilicueta,3
+A. R\u00fcdiger,David Luiz,3
+F\u00e0bregas,N. Kant\u00e9,3
+G. Cahill,T. Courtois,3
+Azpilicueta,F\u00e0bregas,3
+Marcos Alonso,G. Cahill,2
+T. Courtois,G. Cahill,2
+David Luiz,G. Cahill,2
+Marcos Alonso,Willian,2
+David Luiz,Marcos Alonso,2
+Marcos Alonso,F\u00e0bregas,2
+Marcos Alonso,N. Kant\u00e9,2
+Willian,G. Cahill,2
+N. Kant\u00e9,Marcos Alonso,2
+A. R\u00fcdiger,N. Kant\u00e9,2
+M. Batshuayi,Azpilicueta,2
+Willian,N. Kant\u00e9,2
+F\u00e0bregas,David Luiz,2
+M. Batshuayi,F\u00e0bregas,2
+G. Cahill,A. R\u00fcdiger,2
+F\u00e0bregas,M. Batshuayi,2
+N. Kant\u00e9,J. Boga,1
+J. Boga,Willian,1
+Willian,J. Boga,1
+J. Boga,F\u00e0bregas,1
+J. Boga,G. Cahill,1
+David Luiz,M. Batshuayi,1
+G. Cahill,Willian,1
+T. Courtois,David Luiz,1
+Azpilicueta,T. Courtois,1
+David Luiz,A. R\u00fcdiger,1
+N. Kant\u00e9,M. Batshuayi,1
+T. Courtois,Marcos Alonso,1
+Azpilicueta,G. Cahill,1
+A. R\u00fcdiger,J. Boga,1
+David Luiz,T. Courtois,1
+N. Kant\u00e9,A. R\u00fcdiger,1
+F\u00e0bregas,T. Courtois,1
+Azpilicueta,Marcos Alonso,1
+M. Batshuayi,Marcos Alonso,1
+N. Kant\u00e9,Azpilicueta,1
+F\u00e0bregas,J. Boga,1
+N. Kant\u00e9,David Luiz,1
+David Luiz,Azpilicueta,1
+Azpilicueta,David Luiz,1
+T. Courtois,M. Batshuayi,1
+N. Kant\u00e9,G. Cahill,1
+G. Cahill,Marcos Alonso,1
+A. R\u00fcdiger,Willian,1
+Willian,A. R\u00fcdiger,1
+Azpilicueta,Willian,1
+J. Boga,A. R\u00fcdiger,1

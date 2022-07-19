@@ -1,0 +1,79 @@
+Source,Target,Weight
+J. Holebas,A. Doucour\u00e9,6
+A. Doucour\u00e9,J. Holebas,5
+S. Okaka,A. Doucour\u00e9,4
+C. Cathcart,W. Hughes,4
+A. Doucour\u00e9,C. Cathcart,4
+W. Hughes,S. Okaka,3
+E. Capoue,C. Kabasele,3
+A. Mariappa,E. Capoue,3
+J. Holebas,S. Okaka,3
+A. Mariappa,W. Hughes,2
+E. Capoue,J. Holebas,2
+W. Hughes,A. Mariappa,2
+S. Okaka,W. Hughes,2
+A. Doucour\u00e9,C. Kabasele,2
+J. Holebas,E. Capoue,2
+T. Deeney,S. Okaka,2
+A. Doucour\u00e9,T. Deeney,2
+R. Pereyra,J. Holebas,2
+E. Capoue,A. Doucour\u00e9,2
+C. Kabasele,A. Doucour\u00e9,2
+C. Kabasele,A. Mariappa,2
+J. Holebas,T. Deeney,2
+T. Deeney,C. Kabasele,2
+A. Doucour\u00e9,W. Hughes,2
+A. Doucour\u00e9,E. Capoue,2
+S. Okaka,T. Deeney,2
+S. Okaka,C. Cathcart,2
+T. Deeney,J. Holebas,2
+A. Mariappa,C. Cathcart,2
+W. Hughes,A. Doucour\u00e9,2
+T. Deeney,W. Hughes,2
+C. Kabasele,E. Capoue,2
+O. Karnezis,W. Hughes,1
+Richarlison,T. Deeney,1
+Richarlison,J. Holebas,1
+S. Okaka,R. Pereyra,1
+W. Hughes,E. Capoue,1
+A. Mariappa,J. Holebas,1
+E. Capoue,T. Deeney,1
+O. Karnezis,S. Okaka,1
+E. Capoue,W. Hughes,1
+E. Capoue,S. Okaka,1
+W. Hughes,Richarlison,1
+J. Holebas,C. Kabasele,1
+E. Capoue,A. Mariappa,1
+W. Hughes,J. Holebas,1
+C. Cathcart,Richarlison,1
+J. Holebas,A. Mariappa,1
+R. Pereyra,A. Doucour\u00e9,1
+J. Holebas,O. Karnezis,1
+S. Okaka,J. Holebas,1
+W. Hughes,C. Cathcart,1
+C. Kabasele,C. Cathcart,1
+C. Cathcart,A. Mariappa,1
+T. Deeney,E. Capoue,1
+A. Doucour\u00e9,S. Okaka,1
+A. Doucour\u00e9,A. Mariappa,1
+T. Deeney,A. Doucour\u00e9,1
+C. Kabasele,S. Okaka,1
+O. Karnezis,T. Deeney,1
+W. Hughes,T. Deeney,1
+C. Cathcart,E. Capoue,1
+Richarlison,S. Okaka,1
+C. Cathcart,O. Karnezis,1
+C. Kabasele,J. Holebas,1
+C. Cathcart,A. Doucour\u00e9,1
+W. Hughes,O. Karnezis,1
+S. Okaka,Richarlison,1
+R. Pereyra,C. Kabasele,1
+C. Cathcart,J. Holebas,1
+J. Holebas,R. Pereyra,1
+Richarlison,E. Capoue,1
+C. Kabasele,R. Pereyra,1
+T. Deeney,Richarlison,1
+E. Capoue,R. Pereyra,1
+E. Capoue,Richarlison,1
+C. Cathcart,T. Deeney,1
+W. Hughes,C. Kabasele,1

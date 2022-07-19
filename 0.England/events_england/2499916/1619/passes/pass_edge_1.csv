@@ -1,0 +1,12 @@
+Source,Target,Weight
+J. Stephens,P. H\u00f8jbjerg,3
+J. Stephens,N. Redmond,2
+N. Redmond,J. Stephens,2
+P. H\u00f8jbjerg,J. Stephens,2
+P. H\u00f8jbjerg,S. Boufal,2
+M. Yoshida,N. Redmond,1
+W. Hoedt,J. Stephens,1
+P. H\u00f8jbjerg,W. Hoedt,1
+N. Redmond,P. H\u00f8jbjerg,1
+S. Boufal,J. Stephens,1
+J. Stephens,M. Yoshida,1

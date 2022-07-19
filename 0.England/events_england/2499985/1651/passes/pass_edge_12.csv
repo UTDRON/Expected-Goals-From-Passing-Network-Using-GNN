@@ -1,0 +1,16 @@
+Source,Target,Weight
+J. Izquierdo,P. Gro\u00df,3
+D. Pr\u00f6pper,J. Izquierdo,2
+D. Stephens,D. Pr\u00f6pper,2
+S. Duffy,E. Schelotto,1
+E. Schelotto,S. March,1
+P. Gro\u00df,J. Izquierdo,1
+L. Dunk,D. Stephens,1
+D. Stephens,G. Bong,1
+E. Schelotto,D. Stephens,1
+S. March,D. Stephens,1
+P. Gro\u00df,D. Stephens,1
+G. Bong,E. Schelotto,1
+D. Stephens,S. March,1
+S. March,S. Duffy,1
+P. Gro\u00df,L. Dunk,1

@@ -1,0 +1,41 @@
+Source,Target,Weight
+M. J\u00f8rgensen,P. Billing,2
+C. Schindler,M. J\u00f8rgensen,2
+M. J\u00f8rgensen,T. Smith,2
+T. Smith,M. J\u00f8rgensen,2
+T. Smith,C. Schindler,1
+S. Malone,E. Kachunga,1
+M. J\u00f8rgensen,S. Malone,1
+S. Malone,C. Schindler,1
+R. van La Parra,T. Ince,1
+P. Billing,S. Malone,1
+M. J\u00f8rgensen,R. van La Parra,1
+T. Ince,P. Billing,1
+T. Smith,D. Whitehead,1
+T. Smith,R. van La Parra,1
+L. Depoitre,P. Billing,1
+S. Malone,M. J\u00f8rgensen,1
+M. J\u00f8rgensen,T. Ince,1
+T. Ince,M. J\u00f8rgensen,1
+J. L\u00f6ssl,L. Depoitre,1
+T. Smith,L. Depoitre,1
+L. Depoitre,D. Whitehead,1
+E. Kachunga,C. Schindler,1
+R. van La Parra,T. Smith,1
+P. Billing,R. van La Parra,1
+L. Depoitre,R. van La Parra,1
+P. Billing,T. Smith,1
+P. Billing,T. Ince,1
+P. Billing,C. Schindler,1
+P. Billing,M. J\u00f8rgensen,1
+D. Whitehead,P. Billing,1
+D. Whitehead,R. van La Parra,1
+M. J\u00f8rgensen,J. L\u00f6ssl,1
+R. van La Parra,P. Billing,1
+T. Ince,D. Whitehead,1
+C. Schindler,D. Whitehead,1
+R. van La Parra,L. Depoitre,1
+C. Schindler,T. Ince,1
+D. Whitehead,T. Smith,1
+D. Whitehead,M. J\u00f8rgensen,1
+T. Ince,S. Malone,1

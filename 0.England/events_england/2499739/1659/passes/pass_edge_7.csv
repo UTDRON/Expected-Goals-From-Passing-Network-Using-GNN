@@ -1,0 +1,27 @@
+Source,Target,Weight
+D. Gosling,H. Arter,2
+J. King,D. Gosling,2
+C. Daniels,T. Mings,2
+H. Arter,J. King,2
+H. Arter,C. Daniels,2
+J. King,J. Defoe,1
+A. Smith,J. King,1
+T. Mings,A. Surman,1
+C. Daniels,A. Smith,1
+T. Mings,D. Gosling,1
+S. Cook,J. King,1
+H. Arter,A. Surman,1
+A. Surman,H. Arter,1
+T. Mings,H. Arter,1
+J. Defoe,A. Smith,1
+C. Daniels,D. Gosling,1
+D. Gosling,A. Surman,1
+J. Defoe,T. Mings,1
+N. Ak\u00e9,H. Arter,1
+A. Smith,H. Arter,1
+A. Surman,C. Daniels,1
+J. King,N. Ak\u00e9,1
+A. Surman,J. Defoe,1
+D. Gosling,C. Daniels,1
+J. King,S. Cook,1
+C. Daniels,J. King,1

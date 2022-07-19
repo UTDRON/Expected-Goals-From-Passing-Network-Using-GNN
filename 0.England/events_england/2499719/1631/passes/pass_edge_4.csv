@@ -1,0 +1,25 @@
+Source,Target,Weight
+R. Mahrez,D. Simpson,3
+D. Simpson,J. Vardy,3
+C. Fuchs,M. Albrighton,2
+R. Mahrez,S. Okazaki,1
+W. Morgan,H. Maguire,1
+J. Vardy,M. Albrighton,1
+M. James,W. Morgan,1
+M. Albrighton,C. Fuchs,1
+J. Vardy,D. Simpson,1
+S. Okazaki,D. Simpson,1
+W. Morgan,R. Mahrez,1
+H. Maguire,W. Ndidi,1
+D. Simpson,R. Mahrez,1
+M. Albrighton,W. Ndidi,1
+W. Ndidi,R. Mahrez,1
+D. Simpson,S. Okazaki,1
+W. Ndidi,C. Fuchs,1
+J. Vardy,W. Morgan,1
+R. Mahrez,C. Fuchs,1
+S. Okazaki,C. Fuchs,1
+M. Albrighton,R. Mahrez,1
+C. Fuchs,W. Morgan,1
+W. Morgan,M. James,1
+C. Fuchs,S. Okazaki,1

@@ -1,0 +1,58 @@
+Source,Target,Weight
+C. Mbemba,Mikel Merino,6
+D. Yedlin,J. Lascelles,4
+I. Hayden,D. Yedlin,4
+Mikel Merino,I. Hayden,4
+Mikel Merino,C. Atsu,4
+D. Yedlin,M. Ritchie,3
+M. Ritchie,D. Yedlin,3
+Mikel Merino,C. Mbemba,3
+C. Clark,C. Mbemba,3
+Ayoze P\u00e9rez,C. Mbemba,3
+Joselu,C. Mbemba,3
+J. Lascelles,C. Clark,3
+I. Hayden,Mikel Merino,3
+Mikel Merino,Ayoze P\u00e9rez,2
+M. Ritchie,R. Elliot,2
+R. Elliot,Mikel Merino,2
+R. Elliot,Joselu,2
+Ayoze P\u00e9rez,Mikel Merino,2
+C. Mbemba,C. Clark,2
+Ayoze P\u00e9rez,I. Hayden,2
+Joselu,Ayoze P\u00e9rez,2
+Joselu,C. Atsu,2
+C. Clark,R. Elliot,2
+Mikel Merino,Joselu,2
+C. Mbemba,Joselu,2
+C. Clark,Joselu,1
+J. Lascelles,I. Hayden,1
+M. Ritchie,C. Atsu,1
+D. Yedlin,C. Clark,1
+Joselu,C. Clark,1
+C. Atsu,C. Mbemba,1
+C. Clark,Ayoze P\u00e9rez,1
+C. Clark,Mikel Merino,1
+J. Lascelles,C. Mbemba,1
+R. Elliot,Ayoze P\u00e9rez,1
+C. Atsu,D. Yedlin,1
+I. Hayden,Ayoze P\u00e9rez,1
+C. Atsu,Mikel Merino,1
+C. Clark,M. Ritchie,1
+J. Lascelles,M. Ritchie,1
+C. Clark,J. Lascelles,1
+C. Atsu,Joselu,1
+D. Yedlin,I. Hayden,1
+Mikel Merino,C. Clark,1
+Ayoze P\u00e9rez,D. Yedlin,1
+C. Atsu,J. Lascelles,1
+M. Ritchie,I. Hayden,1
+C. Mbemba,M. Ritchie,1
+C. Mbemba,J. Lascelles,1
+C. Mbemba,D. Yedlin,1
+C. Mbemba,R. Elliot,1
+C. Atsu,C. Clark,1
+C. Mbemba,Ayoze P\u00e9rez,1
+Ayoze P\u00e9rez,C. Clark,1
+D. Yedlin,C. Mbemba,1
+J. Lascelles,Mikel Merino,1
+I. Hayden,M. Ritchie,1

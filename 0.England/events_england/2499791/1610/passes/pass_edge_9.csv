@@ -1,0 +1,20 @@
+Source,Target,Weight
+Marcos Alonso,T. Bakayoko,2
+Azpilicueta,David Luiz,2
+Pedro,F\u00e0bregas,2
+F\u00e0bregas,D. Zappacosta,2
+C. Musonda,F\u00e0bregas,1
+D. Zappacosta,E. Hazard,1
+Pedro,D. Zappacosta,1
+E. Hazard,Pedro,1
+David Luiz,C. Musonda,1
+David Luiz,Azpilicueta,1
+F\u00e0bregas,Pedro,1
+F\u00e0bregas,Azpilicueta,1
+David Luiz,G. Cahill,1
+T. Bakayoko,Marcos Alonso,1
+D. Zappacosta,Pedro,1
+D. Zappacosta,F\u00e0bregas,1
+T. Bakayoko,F\u00e0bregas,1
+F\u00e0bregas,David Luiz,1
+G. Cahill,Marcos Alonso,1

@@ -1,0 +1,20 @@
+Source,Target,Weight
+Ahmed Hegazy,J. Evans,2
+C. Brunt,J. Evans,2
+K. Gibbs,Ahmed Hegazy,2
+C. Dawson,K. Gibbs,1
+Ahmed Hegazy,K. Gibbs,1
+J. Evans,Ahmed Hegazy,1
+J. Evans,C. Dawson,1
+K. Gibbs,C. Brunt,1
+B. Foster,K. Gibbs,1
+D. Sturridge,K. Gibbs,1
+K. Gibbs,J. Evans,1
+J. Evans,M. Phillips,1
+G. Barry,C. Brunt,1
+J. Evans,S. Rond\u00f3n,1
+G. Krychowiak,G. Barry,1
+M. Phillips,Ahmed Hegazy,1
+J. Evans,B. Foster,1
+S. Rond\u00f3n,J. Rodriguez,1
+Ahmed Hegazy,D. Sturridge,1

@@ -1,0 +1,39 @@
+Source,Target,Weight
+T. Ince,A. Pritchard,2
+S. Malone,C. Schindler,2
+R. van La Parra,S. Malone,2
+J. L\u00f6ssl,R. van La Parra,2
+C. Schindler,S. Malone,2
+F. Hadergjonaj,J. L\u00f6ssl,2
+F. Hadergjonaj,S. Malone,1
+A. Mooy,S. Mouni\u00e9,1
+A. Mooy,J. Hogg,1
+A. Mooy,F. Hadergjonaj,1
+M. J\u00f8rgensen,F. Hadergjonaj,1
+F. Hadergjonaj,T. Ince,1
+F. Hadergjonaj,M. J\u00f8rgensen,1
+C. Schindler,A. Mooy,1
+T. Ince,F. Hadergjonaj,1
+S. Malone,J. Hogg,1
+R. van La Parra,A. Mooy,1
+J. L\u00f6ssl,T. Ince,1
+S. Malone,F. Hadergjonaj,1
+S. Malone,A. Mooy,1
+A. Pritchard,S. Mouni\u00e9,1
+S. Mouni\u00e9,R. van La Parra,1
+C. Schindler,M. J\u00f8rgensen,1
+C. Schindler,J. L\u00f6ssl,1
+S. Malone,S. Mouni\u00e9,1
+A. Pritchard,T. Ince,1
+M. J\u00f8rgensen,C. Schindler,1
+T. Ince,C. Schindler,1
+J. Hogg,A. Mooy,1
+J. Hogg,F. Hadergjonaj,1
+S. Mouni\u00e9,M. J\u00f8rgensen,1
+C. Schindler,T. Ince,1
+T. Ince,S. Malone,1
+A. Mooy,C. Schindler,1
+R. van La Parra,T. Ince,1
+A. Mooy,R. van La Parra,1
+M. J\u00f8rgensen,A. Mooy,1
+S. Mouni\u00e9,A. Pritchard,1

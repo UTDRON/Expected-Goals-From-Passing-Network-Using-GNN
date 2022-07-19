@@ -1,0 +1,20 @@
+Source,Target,Weight
+D. Blind,N. Mati\u0107,3
+D. Blind,H. Mkhitaryan,3
+N. Mati\u0107,P. Pogba,2
+P. Pogba,A. Valencia,2
+P. Jones,D. Blind,2
+P. Pogba,D. Blind,2
+Juan Mata,P. Jones,1
+N. Mati\u0107,D. Blind,1
+H. Mkhitaryan,N. Mati\u0107,1
+N. Mati\u0107,P. Jones,1
+N. Mati\u0107,M. Rashford,1
+H. Mkhitaryan,D. Blind,1
+M. Rashford,D. Blind,1
+D. Blind,Juan Mata,1
+Juan Mata,P. Pogba,1
+A. Valencia,P. Pogba,1
+P. Jones,Juan Mata,1
+H. Mkhitaryan,M. Rashford,1
+A. Valencia,N. Mati\u0107,1

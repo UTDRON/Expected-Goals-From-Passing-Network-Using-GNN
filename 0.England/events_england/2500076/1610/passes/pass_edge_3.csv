@@ -1,0 +1,33 @@
+Source,Target,Weight
+G. Cahill,Azpilicueta,5
+N. Kant\u00e9,Emerson,3
+Emerson,N. Kant\u00e9,3
+N. Kant\u00e9,A. R\u00fcdiger,2
+A. R\u00fcdiger,G. Cahill,2
+Azpilicueta,G. Cahill,2
+N. Kant\u00e9,G. Cahill,2
+Azpilicueta,O. Giroud,2
+Azpilicueta,N. Kant\u00e9,2
+G. Cahill,T. Courtois,1
+F\u00e0bregas,T. Bakayoko,1
+F\u00e0bregas,V. Moses,1
+Azpilicueta,F\u00e0bregas,1
+T. Bakayoko,Emerson,1
+O. Giroud,E. Hazard,1
+N. Kant\u00e9,V. Moses,1
+V. Moses,Azpilicueta,1
+T. Courtois,A. R\u00fcdiger,1
+F\u00e0bregas,N. Kant\u00e9,1
+A. R\u00fcdiger,Emerson,1
+O. Giroud,Azpilicueta,1
+G. Cahill,V. Moses,1
+Emerson,F\u00e0bregas,1
+A. R\u00fcdiger,T. Courtois,1
+Emerson,A. R\u00fcdiger,1
+Emerson,G. Cahill,1
+T. Courtois,G. Cahill,1
+E. Hazard,O. Giroud,1
+F\u00e0bregas,Emerson,1
+G. Cahill,N. Kant\u00e9,1
+V. Moses,N. Kant\u00e9,1
+O. Giroud,F\u00e0bregas,1

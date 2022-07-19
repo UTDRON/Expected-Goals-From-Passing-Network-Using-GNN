@@ -1,0 +1,124 @@
+Source,Target,Weight
+S. Mustafi,R. Holding,10
+R. Holding,S. Kola\u0161inac,8
+G. Xhaka,S. Mustafi,7
+R. Holding,S. Mustafi,7
+R. Holding,G. Xhaka,7
+A. Iwobi,S. Mustafi,6
+Beller\u00edn,S. Mustafi,6
+D. Ospina,G. Xhaka,6
+A. Iwobi,A. Ramsey,6
+S. Mustafi,A. Ramsey,6
+S. Mustafi,D. Ospina,6
+H. Mkhitaryan,A. Iwobi,5
+A. Ramsey,S. Kola\u0161inac,5
+P. Aubameyang,Beller\u00edn,5
+G. Xhaka,A. Iwobi,5
+H. Mkhitaryan,A. Lacazette,5
+A. Ramsey,R. Holding,5
+A. Ramsey,P. Aubameyang,5
+A. Iwobi,R. Holding,5
+R. Holding,A. Iwobi,5
+S. Kola\u0161inac,R. Holding,5
+G. Xhaka,R. Holding,4
+G. Xhaka,A. Ramsey,4
+D. Ospina,R. Holding,4
+Beller\u00edn,H. Mkhitaryan,4
+S. Mustafi,A. Iwobi,4
+H. Mkhitaryan,Beller\u00edn,4
+S. Mustafi,H. Mkhitaryan,4
+A. Iwobi,Beller\u00edn,4
+Nacho Monreal,G. Xhaka,4
+S. Kola\u0161inac,A. Ramsey,3
+A. Lacazette,H. Mkhitaryan,3
+A. Ramsey,Beller\u00edn,3
+A. Iwobi,P. Aubameyang,3
+S. Kola\u0161inac,P. Aubameyang,3
+R. Holding,Nacho Monreal,3
+A. Lacazette,A. Iwobi,3
+A. Ramsey,A. Lacazette,3
+R. Holding,D. Ospina,3
+Beller\u00edn,A. Lacazette,3
+P. Aubameyang,R. Holding,3
+S. Kola\u0161inac,A. Iwobi,3
+A. Lacazette,G. Xhaka,3
+Beller\u00edn,D. Ospina,3
+A. Ramsey,H. Mkhitaryan,3
+S. Mustafi,Beller\u00edn,3
+A. Lacazette,Beller\u00edn,3
+H. Mkhitaryan,G. Xhaka,3
+D. Ospina,S. Mustafi,2
+D. Ospina,D. Welbeck,2
+Beller\u00edn,A. Iwobi,2
+P. Aubameyang,D. Ospina,2
+R. Holding,D. Welbeck,2
+R. Holding,A. Ramsey,2
+H. Mkhitaryan,S. Kola\u0161inac,2
+G. Xhaka,D. Welbeck,2
+D. Welbeck,H. Mkhitaryan,2
+A. Lacazette,A. Ramsey,2
+P. Aubameyang,A. Ramsey,2
+G. Xhaka,A. Lacazette,2
+H. Mkhitaryan,P. Aubameyang,2
+R. Holding,H. Mkhitaryan,2
+A. Ramsey,G. Xhaka,2
+S. Kola\u0161inac,D. Ospina,2
+G. Xhaka,Beller\u00edn,2
+A. Iwobi,G. Xhaka,2
+P. Aubameyang,S. Mustafi,2
+D. Ospina,A. Lacazette,2
+A. Ramsey,S. Mustafi,2
+D. Welbeck,A. Lacazette,2
+Beller\u00edn,R. Holding,2
+G. Xhaka,H. Mkhitaryan,2
+H. Mkhitaryan,S. Mustafi,2
+A. Lacazette,A. Maitland-Niles,2
+A. Maitland-Niles,H. Mkhitaryan,2
+G. Xhaka,D. Ospina,2
+S. Mustafi,G. Xhaka,2
+D. Ospina,P. Aubameyang,2
+P. Aubameyang,H. Mkhitaryan,2
+S. Kola\u0161inac,S. Mustafi,2
+Nacho Monreal,A. Ramsey,2
+A. Iwobi,H. Mkhitaryan,1
+D. Ospina,Nacho Monreal,1
+Beller\u00edn,G. Xhaka,1
+D. Welbeck,A. Ramsey,1
+Beller\u00edn,A. Ramsey,1
+Beller\u00edn,P. Aubameyang,1
+Beller\u00edn,Nacho Monreal,1
+H. Mkhitaryan,D. Welbeck,1
+D. Welbeck,R. Holding,1
+A. Maitland-Niles,D. Ospina,1
+D. Ospina,Beller\u00edn,1
+D. Welbeck,D. Ospina,1
+R. Holding,P. Aubameyang,1
+G. Xhaka,Nacho Monreal,1
+A. Iwobi,A. Lacazette,1
+S. Mustafi,S. Kola\u0161inac,1
+R. Holding,A. Maitland-Niles,1
+A. Lacazette,P. Aubameyang,1
+P. Aubameyang,G. Xhaka,1
+S. Mustafi,A. Maitland-Niles,1
+A. Lacazette,D. Welbeck,1
+D. Welbeck,S. Mustafi,1
+P. Aubameyang,A. Iwobi,1
+P. Aubameyang,A. Lacazette,1
+A. Maitland-Niles,S. Mustafi,1
+D. Ospina,A. Ramsey,1
+A. Lacazette,S. Kola\u0161inac,1
+Beller\u00edn,A. Maitland-Niles,1
+A. Ramsey,D. Ospina,1
+G. Xhaka,S. Kola\u0161inac,1
+A. Iwobi,S. Kola\u0161inac,1
+A. Iwobi,D. Ospina,1
+S. Mustafi,P. Aubameyang,1
+S. Kola\u0161inac,A. Lacazette,1
+D. Ospina,A. Iwobi,1
+H. Mkhitaryan,A. Maitland-Niles,1
+Beller\u00edn,D. Welbeck,1
+A. Maitland-Niles,G. Xhaka,1
+A. Ramsey,A. Iwobi,1
+A. Maitland-Niles,Beller\u00edn,1
+D. Welbeck,Nacho Monreal,1
+Nacho Monreal,R. Holding,1

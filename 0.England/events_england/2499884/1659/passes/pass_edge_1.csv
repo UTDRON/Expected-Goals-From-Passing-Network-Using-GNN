@@ -1,0 +1,17 @@
+Source,Target,Weight
+R. Fraser,C. Daniels,2
+J. King,D. Gosling,2
+R. Fraser,S. Francis,1
+A. Begovi\u0107,C. Wilson,1
+J. Stanislas,R. Fraser,1
+D. Gosling,S. Francis,1
+S. Francis,J. Stanislas,1
+C. Wilson,R. Fraser,1
+C. Wilson,J. Stanislas,1
+J. Stanislas,C. Wilson,1
+C. Daniels,R. Fraser,1
+J. Stanislas,D. Gosling,1
+S. Francis,A. Begovi\u0107,1
+C. Daniels,J. King,1
+D. Gosling,R. Fraser,1
+R. Fraser,J. Stanislas,1

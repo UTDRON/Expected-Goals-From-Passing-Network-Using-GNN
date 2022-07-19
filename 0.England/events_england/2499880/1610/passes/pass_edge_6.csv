@@ -1,0 +1,18 @@
+Source,Target,Weight
+A. Christensen,Azpilicueta,4
+A. Christensen,A. R\u00fcdiger,3
+A. R\u00fcdiger,Marcos Alonso,3
+V. Moses,Azpilicueta,3
+Azpilicueta,N. Kant\u00e9,3
+Azpilicueta,V. Moses,2
+Marcos Alonso,A. Christensen,2
+N. Kant\u00e9,A. Christensen,2
+A. R\u00fcdiger,A. Christensen,2
+Azpilicueta,Marcos Alonso,1
+A. R\u00fcdiger,V. Moses,1
+Marcos Alonso,A. R\u00fcdiger,1
+Marcos Alonso,Willian,1
+N. Kant\u00e9,Marcos Alonso,1
+Marcos Alonso,Pedro,1
+Pedro,A. R\u00fcdiger,1
+Azpilicueta,A. Christensen,1

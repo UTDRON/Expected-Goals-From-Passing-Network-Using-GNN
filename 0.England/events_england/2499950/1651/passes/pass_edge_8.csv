@@ -1,0 +1,21 @@
+Source,Target,Weight
+D. Stephens,C. Goldson,1
+T. Hemed,M. Suttner,1
+S. March,T. Hemed,1
+D. Stephens,E. Schelotto,1
+M. Suttner,S. March,1
+S. March,M. Suttner,1
+E. Schelotto,C. Goldson,1
+C. Goldson,M. Suttner,1
+T. Hemed,C. Goldson,1
+M. Ryan,T. Hemed,1
+C. Goldson,L. Dunk,1
+C. Goldson,D. Stephens,1
+M. Suttner,L. Dunk,1
+T. Hemed,S. March,1
+L. Dunk,M. Suttner,1
+P. Gro\u00df,T. Hemed,1
+L. Dunk,C. Goldson,1
+M. Suttner,M. Ryan,1
+M. Suttner,D. Stephens,1
+C. Goldson,E. Schelotto,1

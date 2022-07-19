@@ -1,0 +1,26 @@
+Source,Target,Weight
+M. Albrighton,C. Fuchs,3
+C. Fuchs,S. Okazaki,2
+S. Okazaki,I. Slimani,2
+I. Slimani,S. Okazaki,2
+I. Slimani,M. Albrighton,2
+S. Okazaki,M. Albrighton,2
+C. Fuchs,M. Albrighton,1
+S. Okazaki,H. Maguire,1
+S. Okazaki,C. Fuchs,1
+H. Maguire,M. James,1
+D. Amartey,I. Slimani,1
+C. Fuchs,H. Maguire,1
+H. Maguire,W. Ndidi,1
+M. Albrighton,H. Maguire,1
+H. Maguire,K. Schmeichel,1
+W. Ndidi,S. Okazaki,1
+M. James,I. Slimani,1
+H. Maguire,C. Fuchs,1
+M. Albrighton,S. Okazaki,1
+K. Schmeichel,S. Okazaki,1
+C. Fuchs,I. Slimani,1
+C. Fuchs,W. Ndidi,1
+I. Slimani,W. Ndidi,1
+S. Okazaki,D. Amartey,1
+W. Ndidi,H. Maguire,1

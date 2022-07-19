@@ -1,0 +1,89 @@
+Source,Target,Weight
+C. Smalling,A. Valencia,15
+P. Pogba,A. S\u00e1nchez,14
+A. Valencia,C. Smalling,12
+C. Smalling,V. Lindel\u00f6f,10
+A. Young,P. Pogba,10
+V. Lindel\u00f6f,P. Pogba,10
+A. Valencia,P. Pogba,9
+N. Mati\u0107,P. Pogba,9
+P. Pogba,V. Lindel\u00f6f,8
+V. Lindel\u00f6f,C. Smalling,8
+C. Smalling,N. Mati\u0107,8
+P. Pogba,C. Smalling,7
+P. Pogba,A. Young,7
+A. S\u00e1nchez,R. Lukaku,7
+P. Pogba,A. Valencia,7
+A. Valencia,J. Lingard,6
+V. Lindel\u00f6f,N. Mati\u0107,6
+N. Mati\u0107,V. Lindel\u00f6f,6
+P. Pogba,N. Mati\u0107,6
+C. Smalling,P. Pogba,6
+N. Mati\u0107,A. Young,6
+R. Lukaku,P. Pogba,5
+P. Pogba,J. Lingard,5
+A. S\u00e1nchez,A. Young,5
+A. S\u00e1nchez,P. Pogba,5
+N. Mati\u0107,A. S\u00e1nchez,5
+A. S\u00e1nchez,N. Mati\u0107,5
+A. Young,N. Mati\u0107,5
+A. Young,A. S\u00e1nchez,4
+J. Lingard,A. Valencia,4
+S. McTominay,N. Mati\u0107,4
+V. Lindel\u00f6f,A. Young,4
+A. Young,V. Lindel\u00f6f,4
+J. Lingard,A. S\u00e1nchez,4
+S. McTominay,A. Valencia,4
+S. McTominay,C. Smalling,4
+S. McTominay,A. S\u00e1nchez,4
+J. Lingard,P. Pogba,4
+A. S\u00e1nchez,A. Valencia,4
+N. Mati\u0107,C. Smalling,4
+A. Valencia,S. McTominay,4
+A. S\u00e1nchez,J. Lingard,4
+P. Pogba,R. Lukaku,3
+A. Young,S. McTominay,3
+A. Valencia,N. Mati\u0107,3
+V. Lindel\u00f6f,S. McTominay,3
+J. Lingard,A. Young,3
+P. Pogba,S. McTominay,3
+S. McTominay,J. Lingard,3
+J. Lingard,R. Lukaku,3
+R. Lukaku,A. Valencia,3
+A. S\u00e1nchez,C. Smalling,3
+A. S\u00e1nchez,S. McTominay,3
+N. Mati\u0107,S. McTominay,3
+A. Valencia,A. S\u00e1nchez,3
+A. Valencia,R. Lukaku,3
+R. Lukaku,S. McTominay,2
+J. Lingard,C. Smalling,2
+C. Smalling,S. McTominay,2
+S. McTominay,A. Young,2
+V. Lindel\u00f6f,David de Gea,2
+David de Gea,A. Valencia,2
+R. Lukaku,V. Lindel\u00f6f,2
+N. Mati\u0107,J. Lingard,2
+S. McTominay,V. Lindel\u00f6f,2
+J. Lingard,S. McTominay,2
+R. Lukaku,C. Smalling,2
+N. Mati\u0107,A. Valencia,2
+N. Mati\u0107,David de Gea,2
+C. Smalling,David de Gea,2
+S. McTominay,P. Pogba,2
+V. Lindel\u00f6f,A. S\u00e1nchez,1
+A. Valencia,V. Lindel\u00f6f,1
+A. Young,C. Smalling,1
+C. Smalling,J. Lingard,1
+A. Young,R. Lukaku,1
+David de Gea,C. Smalling,1
+David de Gea,N. Mati\u0107,1
+A. S\u00e1nchez,V. Lindel\u00f6f,1
+R. Lukaku,N. Mati\u0107,1
+C. Smalling,A. S\u00e1nchez,1
+V. Lindel\u00f6f,A. Valencia,1
+David de Gea,A. Young,1
+A. Young,J. Lingard,1
+R. Lukaku,A. S\u00e1nchez,1
+A. Valencia,A. Young,1
+David de Gea,V. Lindel\u00f6f,1
+R. Lukaku,J. Lingard,1

@@ -1,0 +1,53 @@
+Source,Target,Weight
+D. Yedlin,J. Lascelles,4
+J. Lascelles,C. Clark,3
+J. Lascelles,D. Yedlin,3
+M. Diam\u00e9,P. Dummett,3
+C. Clark,J. Shelvey,2
+C. Clark,M. Diam\u00e9,2
+Kenedy,P. Dummett,2
+J. Shelvey,C. Clark,2
+M. Ritchie,M. Diam\u00e9,2
+Kenedy,C. Clark,2
+P. Dummett,D. Yedlin,2
+J. Shelvey,J. Lascelles,2
+C. Clark,J. Lascelles,2
+C. Clark,K. Darlow,2
+K. Darlow,J. Lascelles,2
+D. Yedlin,M. Ritchie,2
+Ayoze P\u00e9rez,Kenedy,2
+C. Clark,P. Dummett,2
+M. Diam\u00e9,M. Ritchie,2
+M. Ritchie,D. Yedlin,2
+Kenedy,M. Diam\u00e9,2
+K. Darlow,D. Gayle,1
+M. Ritchie,J. Shelvey,1
+C. Clark,D. Yedlin,1
+J. Lascelles,Kenedy,1
+M. Diam\u00e9,J. Shelvey,1
+J. Lascelles,K. Darlow,1
+D. Yedlin,C. Clark,1
+D. Yedlin,K. Darlow,1
+J. Lascelles,J. Shelvey,1
+J. Lascelles,P. Dummett,1
+P. Dummett,Kenedy,1
+J. Shelvey,P. Dummett,1
+P. Dummett,C. Clark,1
+P. Dummett,Ayoze P\u00e9rez,1
+K. Darlow,Kenedy,1
+Ayoze P\u00e9rez,C. Clark,1
+P. Dummett,M. Diam\u00e9,1
+K. Darlow,C. Clark,1
+D. Yedlin,M. Diam\u00e9,1
+Kenedy,J. Shelvey,1
+J. Shelvey,Kenedy,1
+C. Clark,Ayoze P\u00e9rez,1
+M. Diam\u00e9,C. Clark,1
+D. Yedlin,Ayoze P\u00e9rez,1
+P. Dummett,M. Ritchie,1
+P. Dummett,J. Shelvey,1
+D. Yedlin,Kenedy,1
+J. Shelvey,D. Yedlin,1
+P. Dummett,K. Darlow,1
+D. Gayle,Kenedy,1
+M. Diam\u00e9,D. Yedlin,1

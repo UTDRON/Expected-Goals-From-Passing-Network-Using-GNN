@@ -1,0 +1,21 @@
+Source,Target,Weight
+A. Barnes,G. N'Koudou,2
+S. Ward,C. Wood,1
+A. Lennon,C. Wood,1
+G. N'Koudou,A. Lennon,1
+A. Lennon,A. Barnes,1
+J. Tarkowski,M. Lowton,1
+S. Ward,M. Lowton,1
+C. Wood,A. Barnes,1
+S. Ward,G. N'Koudou,1
+A. Westwood,S. Ward,1
+M. Lowton,A. Lennon,1
+G. N'Koudou,S. Ward,1
+C. Wood,G. N'Koudou,1
+B. Mee,J. Tarkowski,1
+A. Lennon,A. Westwood,1
+J. Cork,B. Mee,1
+G. N'Koudou,M. Lowton,1
+M. Lowton,A. Westwood,1
+A. Westwood,A. Lennon,1
+M. Lowton,S. Ward,1

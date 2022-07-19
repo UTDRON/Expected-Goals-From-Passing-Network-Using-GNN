@@ -1,0 +1,14 @@
+Source,Target,Weight
+G. Krychowiak,G. McAuley,2
+J. Rodriguez,M. Phillips,1
+M. Phillips,G. Barry,1
+G. Barry,G. Krychowiak,1
+G. McAuley,M. Phillips,1
+M. Phillips,Ahmed Hegazy,1
+G. Barry,Ahmed Hegazy,1
+G. McAuley,J. Rodriguez,1
+G. McAuley,G. Krychowiak,1
+M. Phillips,J. Livermore,1
+Ahmed Hegazy,G. Barry,1
+J. Livermore,G. Krychowiak,1
+G. Krychowiak,M. Phillips,1

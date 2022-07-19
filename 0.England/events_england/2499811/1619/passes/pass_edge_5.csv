@@ -1,0 +1,56 @@
+Source,Target,Weight
+C\u00e9dric Soares,V. van Dijk,5
+S. Boufal,R. Bertrand,4
+V. van Dijk,F. Forster,3
+D. Tadi\u0107,C\u00e9dric Soares,3
+C\u00e9dric Soares,D. Tadi\u0107,2
+D. Tadi\u0107,R. Bertrand,2
+R. Bertrand,S. Boufal,2
+S. Boufal,C\u00e9dric Soares,2
+V. van Dijk,C\u00e9dric Soares,2
+R. Bertrand,W. Hoedt,2
+F. Forster,S. Davis,2
+S. Boufal,V. van Dijk,2
+C\u00e9dric Soares,S. Boufal,2
+J. Ward-Prowse,C\u00e9dric Soares,2
+J. Ward-Prowse,Oriol Romeu,2
+W. Hoedt,S. Davis,2
+S. Davis,S. Boufal,2
+S. Davis,W. Hoedt,2
+W. Hoedt,R. Bertrand,2
+V. van Dijk,S. Boufal,1
+W. Hoedt,C\u00e9dric Soares,1
+V. van Dijk,J. Ward-Prowse,1
+W. Hoedt,V. van Dijk,1
+F. Forster,C\u00e9dric Soares,1
+V. van Dijk,W. Hoedt,1
+C\u00e9dric Soares,F. Forster,1
+J. Ward-Prowse,S. Boufal,1
+M. Gabbiadini,S. Davis,1
+D. Tadi\u0107,F. Forster,1
+Oriol Romeu,D. Tadi\u0107,1
+C\u00e9dric Soares,J. Ward-Prowse,1
+V. van Dijk,S. Davis,1
+C\u00e9dric Soares,W. Hoedt,1
+S. Davis,Oriol Romeu,1
+Oriol Romeu,J. Ward-Prowse,1
+R. Bertrand,M. Gabbiadini,1
+M. Gabbiadini,C\u00e9dric Soares,1
+F. Forster,W. Hoedt,1
+Oriol Romeu,V. van Dijk,1
+W. Hoedt,S. Boufal,1
+F. Forster,M. Gabbiadini,1
+M. Gabbiadini,Oriol Romeu,1
+D. Tadi\u0107,W. Hoedt,1
+C\u00e9dric Soares,M. Gabbiadini,1
+R. Bertrand,V. van Dijk,1
+M. Gabbiadini,D. Tadi\u0107,1
+R. Bertrand,J. Ward-Prowse,1
+S. Boufal,M. Gabbiadini,1
+S. Davis,M. Gabbiadini,1
+F. Forster,D. Tadi\u0107,1
+S. Davis,D. Tadi\u0107,1
+R. Bertrand,F. Forster,1
+W. Hoedt,J. Ward-Prowse,1
+Oriol Romeu,S. Davis,1
+V. van Dijk,D. Tadi\u0107,1

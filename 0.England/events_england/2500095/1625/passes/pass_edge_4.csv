@@ -1,0 +1,57 @@
+Source,Target,Weight
+F. Delph,A. Laporte,8
+A. Laporte,F. Delph,5
+J. Stones,Danilo,5
+Fernandinho,F. Delph,5
+Danilo,Fernandinho,4
+A. Laporte,J. Stones,4
+Danilo,J. Stones,3
+K. De Bruyne,Danilo,3
+F. Delph,J. Stones,3
+A. Laporte,L. San\u00e9,3
+J. Stones,F. Delph,3
+J. Stones,Fernandinho,3
+F. Delph,Fernandinho,3
+Fernandinho,J. Stones,2
+C. Bravo,J. Stones,2
+\u0130. G\u00fcndo\u011fan,K. De Bruyne,2
+L. San\u00e9,F. Delph,2
+\u0130. G\u00fcndo\u011fan,A. Laporte,2
+K. De Bruyne,A. Laporte,2
+L. San\u00e9,\u0130. G\u00fcndo\u011fan,2
+J. Stones,A. Laporte,2
+Danilo,K. De Bruyne,2
+A. Laporte,Fernandinho,2
+F. Delph,L. San\u00e9,2
+Fernandinho,Danilo,2
+A. Laporte,C. Bravo,1
+F. Delph,C. Bravo,1
+Danilo,\u0130. G\u00fcndo\u011fan,1
+Bernardo Silva,J. Stones,1
+Fernandinho,L. San\u00e9,1
+Fernandinho,Bernardo Silva,1
+\u0130. G\u00fcndo\u011fan,Fernandinho,1
+R. Sterling,A. Laporte,1
+J. Stones,\u0130. G\u00fcndo\u011fan,1
+C. Bravo,K. De Bruyne,1
+A. Laporte,Danilo,1
+Fernandinho,A. Laporte,1
+K. De Bruyne,\u0130. G\u00fcndo\u011fan,1
+Danilo,C. Bravo,1
+Bernardo Silva,Danilo,1
+A. Laporte,\u0130. G\u00fcndo\u011fan,1
+J. Stones,C. Bravo,1
+Danilo,F. Delph,1
+Bernardo Silva,A. Laporte,1
+L. San\u00e9,A. Laporte,1
+J. Stones,Bernardo Silva,1
+F. Delph,R. Sterling,1
+\u0130. G\u00fcndo\u011fan,F. Delph,1
+K. De Bruyne,J. Stones,1
+C. Bravo,F. Delph,1
+Fernandinho,\u0130. G\u00fcndo\u011fan,1
+Bernardo Silva,K. De Bruyne,1
+A. Laporte,Bernardo Silva,1
+L. San\u00e9,Bernardo Silva,1
+Fernandinho,K. De Bruyne,1
+\u0130. G\u00fcndo\u011fan,R. Sterling,1

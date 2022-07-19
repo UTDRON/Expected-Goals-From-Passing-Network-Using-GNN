@@ -1,0 +1,18 @@
+Source,Target,Weight
+D. Tadi\u0107,V. van Dijk,2
+V. van Dijk,C. Austin,2
+D. Tadi\u0107,R. Bertrand,1
+M. Yoshida,D. Tadi\u0107,1
+R. Bertrand,C. Austin,1
+C. Austin,S. Boufal,1
+V. van Dijk,M. Yoshida,1
+R. Bertrand,S. Boufal,1
+S. Boufal,V. van Dijk,1
+C. Austin,M. Yoshida,1
+S. Boufal,D. Tadi\u0107,1
+M. Yoshida,S. Long,1
+C. Austin,R. Bertrand,1
+Oriol Romeu,C. Austin,1
+S. Long,Oriol Romeu,1
+C. Austin,D. Tadi\u0107,1
+Oriol Romeu,V. van Dijk,1

@@ -1,0 +1,9 @@
+Source,Target,Weight
+S. Okazaki,B. Chilwell,2
+B. Chilwell,S. Okazaki,2
+D. Gray,D. Simpson,1
+D. Simpson,D. Gray,1
+B. Chilwell,D. Gray,1
+J. Vardy,S. Okazaki,1
+S. Okazaki,J. Vardy,1
+D. Gray,S. Okazaki,1

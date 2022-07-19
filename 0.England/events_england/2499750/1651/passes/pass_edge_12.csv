@@ -1,0 +1,15 @@
+Source,Target,Weight
+Bruno Saltor,P. Gro\u00df,2
+A. Knockaert,S. March,1
+P. Gro\u00df,S. March,1
+P. Gro\u00df,Bruno Saltor,1
+P. Gro\u00df,T. Hemed,1
+Bruno Saltor,S. Duffy,1
+S. Duffy,Bruno Saltor,1
+S. March,P. Gro\u00df,1
+P. Gro\u00df,A. Knockaert,1
+Bruno Saltor,T. Hemed,1
+T. Hemed,Bruno Saltor,1
+S. March,M. Ryan,1
+M. Ryan,T. Hemed,1
+T. Hemed,P. Gro\u00df,1

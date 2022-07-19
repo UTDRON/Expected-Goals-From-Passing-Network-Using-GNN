@@ -1,0 +1,84 @@
+Source,Target,Weight
+A. R\u00fcdiger,G. Cahill,12
+G. Cahill,A. R\u00fcdiger,10
+Azpilicueta,G. Cahill,9
+G. Cahill,Azpilicueta,8
+E. Hazard,F\u00e0bregas,8
+F\u00e0bregas,Azpilicueta,8
+N. Kant\u00e9,E. Hazard,6
+F\u00e0bregas,E. Hazard,6
+Emerson,A. R\u00fcdiger,6
+Azpilicueta,N. Kant\u00e9,5
+Azpilicueta,E. Hazard,5
+Azpilicueta,F\u00e0bregas,5
+E. Hazard,V. Moses,5
+O. Giroud,F\u00e0bregas,4
+Emerson,T. Bakayoko,4
+V. Moses,Azpilicueta,4
+G. Cahill,N. Kant\u00e9,4
+N. Kant\u00e9,A. R\u00fcdiger,4
+N. Kant\u00e9,T. Bakayoko,4
+Azpilicueta,V. Moses,4
+A. R\u00fcdiger,Emerson,4
+T. Bakayoko,E. Hazard,3
+F\u00e0bregas,V. Moses,3
+E. Hazard,Azpilicueta,3
+V. Moses,N. Kant\u00e9,3
+E. Hazard,N. Kant\u00e9,3
+F\u00e0bregas,N. Kant\u00e9,3
+E. Hazard,A. R\u00fcdiger,3
+G. Cahill,F\u00e0bregas,3
+V. Moses,Emerson,3
+F\u00e0bregas,O. Giroud,3
+F\u00e0bregas,A. R\u00fcdiger,3
+E. Hazard,O. Giroud,3
+A. R\u00fcdiger,T. Bakayoko,3
+O. Giroud,E. Hazard,3
+A. R\u00fcdiger,E. Hazard,3
+N. Kant\u00e9,Emerson,3
+E. Hazard,Emerson,2
+N. Kant\u00e9,Azpilicueta,2
+T. Courtois,Azpilicueta,2
+O. Giroud,A. R\u00fcdiger,2
+Emerson,E. Hazard,2
+Emerson,F\u00e0bregas,2
+Emerson,N. Kant\u00e9,2
+A. R\u00fcdiger,Azpilicueta,2
+V. Moses,E. Hazard,2
+O. Giroud,Emerson,2
+T. Bakayoko,N. Kant\u00e9,2
+A. R\u00fcdiger,T. Courtois,2
+E. Hazard,G. Cahill,2
+A. R\u00fcdiger,N. Kant\u00e9,2
+T. Bakayoko,F\u00e0bregas,2
+T. Courtois,O. Giroud,2
+Azpilicueta,O. Giroud,2
+T. Bakayoko,A. R\u00fcdiger,2
+N. Kant\u00e9,F\u00e0bregas,2
+T. Bakayoko,Emerson,2
+O. Giroud,V. Moses,2
+N. Kant\u00e9,G. Cahill,2
+Azpilicueta,Emerson,1
+V. Moses,G. Cahill,1
+T. Courtois,F\u00e0bregas,1
+A. R\u00fcdiger,O. Giroud,1
+V. Moses,T. Courtois,1
+Emerson,Azpilicueta,1
+N. Kant\u00e9,T. Courtois,1
+T. Bakayoko,Azpilicueta,1
+F\u00e0bregas,T. Bakayoko,1
+A. R\u00fcdiger,V. Moses,1
+Emerson,G. Cahill,1
+G. Cahill,V. Moses,1
+G. Cahill,O. Giroud,1
+F\u00e0bregas,G. Cahill,1
+F\u00e0bregas,T. Courtois,1
+A. R\u00fcdiger,F\u00e0bregas,1
+G. Cahill,T. Bakayoko,1
+T. Courtois,A. R\u00fcdiger,1
+E. Hazard,T. Bakayoko,1
+F\u00e0bregas,Emerson,1
+V. Moses,F\u00e0bregas,1
+G. Cahill,T. Courtois,1
+T. Bakayoko,G. Cahill,1
+T. Bakayoko,O. Giroud,1

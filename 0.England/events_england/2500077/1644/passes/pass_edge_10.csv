@@ -1,0 +1,21 @@
+Source,Target,Weight
+Deulofeu,A. Carrillo,2
+A. Doucour\u00e9,J. Holebas,2
+Deulofeu,A. Doucour\u00e9,1
+J. Holebas,A. Mariappa,1
+O. Karnezis,T. Deeney,1
+A. Carrillo,Deulofeu,1
+C. Kabasele,O. Karnezis,1
+A. Mariappa,A. Doucour\u00e9,1
+E. Capoue,C. Kabasele,1
+J. Holebas,C. Kabasele,1
+A. Mariappa,T. Deeney,1
+C. Kabasele,A. Mariappa,1
+T. Deeney,A. Doucour\u00e9,1
+T. Deeney,Deulofeu,1
+A. Doucour\u00e9,Richarlison,1
+A. Carrillo,A. Mariappa,1
+A. Mariappa,Deulofeu,1
+A. Mariappa,A. Carrillo,1
+Richarlison,A. Doucour\u00e9,1
+A. Doucour\u00e9,E. Capoue,1

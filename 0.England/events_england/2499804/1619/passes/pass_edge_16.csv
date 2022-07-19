@@ -1,0 +1,21 @@
+Source,Target,Weight
+D. Tadi\u0107,R. Bertrand,2
+N. Redmond,C\u00e9dric Soares,2
+S. Long,S. Davis,1
+R. Bertrand,D. Tadi\u0107,1
+C\u00e9dric Soares,D. Tadi\u0107,1
+C\u00e9dric Soares,R. Bertrand,1
+N. Redmond,M. Yoshida,1
+M. Lemina,V. van Dijk,1
+S. Davis,N. Redmond,1
+C\u00e9dric Soares,M. Yoshida,1
+V. van Dijk,D. Tadi\u0107,1
+M. Yoshida,S. Long,1
+R. Bertrand,S. Long,1
+V. van Dijk,N. Redmond,1
+R. Bertrand,M. Lemina,1
+D. Tadi\u0107,V. van Dijk,1
+S. Long,N. Redmond,1
+M. Yoshida,N. Redmond,1
+M. Lemina,C\u00e9dric Soares,1
+N. Redmond,M. Lemina,1

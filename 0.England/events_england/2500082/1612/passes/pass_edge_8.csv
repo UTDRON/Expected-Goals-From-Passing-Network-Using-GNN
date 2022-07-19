@@ -1,0 +1,108 @@
+Source,Target,Weight
+T. Alexander-Arnold,D. Lovren,16
+D. Lovren,T. Alexander-Arnold,14
+T. Alexander-Arnold,J. Henderson,13
+J. Henderson,T. Alexander-Arnold,12
+V. van Dijk,J. Milner,11
+J. Milner,S. Man\u00e9,10
+V. van Dijk,D. Lovren,9
+J. Milner,V. van Dijk,9
+J. Milner,A. Robertson,9
+A. Robertson,J. Milner,9
+D. Lovren,V. van Dijk,9
+G. Wijnaldum,J. Milner,9
+A. Robertson,V. van Dijk,8
+D. Lovren,J. Milner,8
+J. Milner,G. Wijnaldum,7
+A. Robertson,S. Man\u00e9,7
+V. van Dijk,A. Robertson,7
+J. Milner,T. Alexander-Arnold,6
+S. Man\u00e9,J. Milner,6
+V. van Dijk,G. Wijnaldum,5
+S. Man\u00e9,A. Robertson,5
+Roberto Firmino,V. van Dijk,5
+J. Henderson,Roberto Firmino,5
+T. Alexander-Arnold,Mohamed Salah,5
+J. Henderson,J. Milner,5
+Roberto Firmino,J. Henderson,5
+V. van Dijk,L. Karius,4
+G. Wijnaldum,V. van Dijk,4
+J. Milner,D. Lovren,4
+J. Henderson,S. Man\u00e9,4
+S. Man\u00e9,Mohamed Salah,4
+T. Alexander-Arnold,Roberto Firmino,4
+N. Clyne,D. Lovren,4
+G. Wijnaldum,A. Robertson,4
+J. Henderson,D. Lovren,4
+G. Wijnaldum,T. Alexander-Arnold,4
+Mohamed Salah,Roberto Firmino,4
+D. Lovren,N. Clyne,4
+J. Milner,Roberto Firmino,4
+J. Henderson,V. van Dijk,4
+V. van Dijk,S. Man\u00e9,4
+V. van Dijk,J. Henderson,3
+T. Alexander-Arnold,A. Robertson,3
+S. Man\u00e9,T. Alexander-Arnold,3
+G. Wijnaldum,J. Henderson,3
+Mohamed Salah,J. Henderson,3
+Mohamed Salah,D. Lovren,3
+S. Man\u00e9,J. Henderson,3
+J. Milner,L. Karius,3
+Roberto Firmino,T. Alexander-Arnold,3
+L. Karius,G. Wijnaldum,3
+D. Lovren,L. Karius,3
+D. Lovren,J. Henderson,3
+S. Man\u00e9,D. Solanke,3
+L. Karius,J. Milner,3
+A. Robertson,G. Wijnaldum,2
+S. Man\u00e9,G. Wijnaldum,2
+L. Karius,V. van Dijk,2
+D. Lovren,Mohamed Salah,2
+J. Milner,D. Solanke,2
+T. Alexander-Arnold,L. Karius,2
+T. Alexander-Arnold,V. van Dijk,2
+S. Man\u00e9,Roberto Firmino,2
+A. Robertson,D. Lovren,2
+V. van Dijk,T. Alexander-Arnold,2
+T. Alexander-Arnold,J. Milner,2
+D. Solanke,J. Henderson,2
+A. Robertson,N. Clyne,2
+Mohamed Salah,S. Man\u00e9,2
+D. Solanke,J. Milner,2
+T. Alexander-Arnold,D. Solanke,2
+D. Lovren,G. Wijnaldum,2
+L. Karius,D. Lovren,2
+Mohamed Salah,T. Alexander-Arnold,2
+A. Robertson,T. Alexander-Arnold,2
+J. Milner,Mohamed Salah,2
+Roberto Firmino,Mohamed Salah,2
+N. Clyne,A. Robertson,2
+D. Solanke,V. van Dijk,2
+L. Karius,A. Robertson,2
+Roberto Firmino,S. Man\u00e9,2
+S. Man\u00e9,D. Lovren,1
+D. Lovren,D. Solanke,1
+Roberto Firmino,N. Clyne,1
+D. Solanke,T. Alexander-Arnold,1
+Mohamed Salah,G. Wijnaldum,1
+A. Robertson,L. Karius,1
+S. Man\u00e9,V. van Dijk,1
+Roberto Firmino,L. Karius,1
+V. van Dijk,Roberto Firmino,1
+L. Karius,Roberto Firmino,1
+L. Karius,J. Henderson,1
+Roberto Firmino,A. Robertson,1
+Roberto Firmino,D. Lovren,1
+J. Henderson,G. Wijnaldum,1
+Roberto Firmino,J. Milner,1
+N. Clyne,J. Milner,1
+T. Alexander-Arnold,G. Wijnaldum,1
+Mohamed Salah,A. Robertson,1
+A. Robertson,Roberto Firmino,1
+D. Solanke,G. Wijnaldum,1
+L. Karius,D. Solanke,1
+N. Clyne,T. Alexander-Arnold,1
+J. Henderson,L. Karius,1
+J. Henderson,Mohamed Salah,1
+J. Milner,J. Henderson,1
+G. Wijnaldum,S. Man\u00e9,1

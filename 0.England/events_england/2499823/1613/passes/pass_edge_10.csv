@@ -1,0 +1,23 @@
+Source,Target,Weight
+M. Ritchie,J. Shelvey,2
+J. Shelvey,D. Gayle,2
+D. Yedlin,J. Shelvey,2
+J. Shelvey,J. Lascelles,1
+R. Elliot,I. Hayden,1
+J. Shelvey,I. Hayden,1
+Javi Manquillo,C. Atsu,1
+Javi Manquillo,J. Shelvey,1
+J. Lascelles,M. Ritchie,1
+C. Atsu,I. Hayden,1
+I. Hayden,D. Yedlin,1
+D. Gayle,J. Shelvey,1
+I. Hayden,R. Elliot,1
+I. Hayden,D. Gayle,1
+R. Elliot,J. Lascelles,1
+F. Lejeune,Javi Manquillo,1
+D. Gayle,Joselu,1
+C. Atsu,F. Lejeune,1
+J. Lascelles,D. Yedlin,1
+J. Shelvey,R. Elliot,1
+Joselu,Javi Manquillo,1
+J. Shelvey,M. Ritchie,1

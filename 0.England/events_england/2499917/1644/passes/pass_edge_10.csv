@@ -1,0 +1,58 @@
+Source,Target,Weight
+M. Zeegelaar,T. Cleverley,5
+A. Doucour\u00e9,M. Zeegelaar,5
+M. Zeegelaar,Richarlison,4
+D. Janmaat,A. Carrillo,4
+T. Cleverley,M. Zeegelaar,4
+A. Doucour\u00e9,T. Cleverley,3
+T. Cleverley,S. Okaka,3
+D. Janmaat,S. Okaka,3
+S. Okaka,A. Doucour\u00e9,3
+Richarlison,M. Zeegelaar,3
+A. Doucour\u00e9,S. Okaka,3
+M. Zeegelaar,A. Doucour\u00e9,3
+A. Carrillo,D. Janmaat,3
+S. Okaka,D. Janmaat,3
+Richarlison,A. Doucour\u00e9,3
+B. Watson,A. Doucour\u00e9,3
+S. Okaka,T. Cleverley,2
+S. Okaka,M. Zeegelaar,2
+A. Carrillo,B. Watson,2
+A. Doucour\u00e9,Richarlison,2
+B. Watson,A. Carrillo,2
+B. Watson,D. Janmaat,2
+D. Janmaat,B. Watson,2
+A. Carrillo,S. Okaka,2
+T. Cleverley,A. Doucour\u00e9,2
+C. Kabasele,A. Doucour\u00e9,2
+S. Okaka,B. Watson,2
+M. Wagu\u00e9,D. Janmaat,2
+A. Doucour\u00e9,A. Carrillo,2
+B. Watson,Richarlison,1
+T. Cleverley,A. Carrillo,1
+A. Carrillo,C. Kabasele,1
+A. Doucour\u00e9,Gomes,1
+C. Kabasele,M. Zeegelaar,1
+D. Janmaat,M. Wagu\u00e9,1
+A. Doucour\u00e9,B. Watson,1
+A. Carrillo,A. Doucour\u00e9,1
+M. Wagu\u00e9,T. Cleverley,1
+A. Doucour\u00e9,M. Wagu\u00e9,1
+M. Wagu\u00e9,Richarlison,1
+T. Cleverley,M. Wagu\u00e9,1
+D. Janmaat,Richarlison,1
+T. Cleverley,B. Watson,1
+M. Wagu\u00e9,A. Doucour\u00e9,1
+D. Janmaat,A. Doucour\u00e9,1
+D. Janmaat,T. Cleverley,1
+Richarlison,S. Okaka,1
+C. Kabasele,D. Janmaat,1
+Richarlison,C. Kabasele,1
+Gomes,S. Okaka,1
+M. Zeegelaar,D. Janmaat,1
+B. Watson,M. Wagu\u00e9,1
+Richarlison,T. Cleverley,1
+S. Okaka,C. Kabasele,1
+A. Doucour\u00e9,D. Janmaat,1
+M. Zeegelaar,M. Wagu\u00e9,1
+M. Zeegelaar,C. Kabasele,1

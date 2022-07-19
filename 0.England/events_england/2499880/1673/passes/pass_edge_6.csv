@@ -1,0 +1,21 @@
+Source,Target,Weight
+A. Mooy,T. Ince,2
+T. Smith,A. Mooy,2
+A. Mooy,T. Smith,1
+E. Kachunga,T. Smith,1
+L. Depoitre,M. J\u00f8rgensen,1
+F. Hadergjonaj,L. Depoitre,1
+A. Mooy,L. Depoitre,1
+T. Ince,T. Smith,1
+T. Ince,F. Hadergjonaj,1
+T. Smith,M. J\u00f8rgensen,1
+F. Hadergjonaj,D. Whitehead,1
+M. J\u00f8rgensen,D. Whitehead,1
+M. J\u00f8rgensen,A. Mooy,1
+D. Whitehead,C. Schindler,1
+D. Whitehead,D. Williams,1
+F. Hadergjonaj,A. Mooy,1
+C. Schindler,J. L\u00f6ssl,1
+T. Smith,E. Kachunga,1
+D. Williams,F. Hadergjonaj,1
+J. L\u00f6ssl,T. Smith,1

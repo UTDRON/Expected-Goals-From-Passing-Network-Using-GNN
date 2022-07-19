@@ -1,0 +1,43 @@
+Source,Target,Weight
+J. Lascelles,D. Yedlin,3
+Javi Manquillo,F. Lejeune,2
+D. Yedlin,R. Elliot,2
+D. Yedlin,J. Lascelles,2
+R. Elliot,F. Lejeune,2
+J. Murphy,Joselu,2
+F. Lejeune,J. Shelvey,2
+D. Yedlin,J. Murphy,2
+F. Lejeune,J. Lascelles,1
+J. Lascelles,F. Lejeune,1
+F. Lejeune,M. Ritchie,1
+Javi Manquillo,J. Lascelles,1
+F. Lejeune,R. Elliot,1
+J. Shelvey,R. Elliot,1
+M. Ritchie,D. Yedlin,1
+Javi Manquillo,D. Yedlin,1
+J. Shelvey,I. Hayden,1
+R. Elliot,M. Ritchie,1
+C. Atsu,Javi Manquillo,1
+J. Murphy,J. Shelvey,1
+J. Shelvey,D. Yedlin,1
+J. Shelvey,F. Lejeune,1
+F. Lejeune,C. Atsu,1
+R. Elliot,J. Lascelles,1
+J. Lascelles,J. Murphy,1
+D. Yedlin,I. Hayden,1
+I. Hayden,Javi Manquillo,1
+F. Lejeune,Javi Manquillo,1
+Joselu,F. Lejeune,1
+D. Yedlin,F. Lejeune,1
+D. Yedlin,J. Shelvey,1
+M. Ritchie,J. Shelvey,1
+J. Murphy,D. Yedlin,1
+Joselu,J. Murphy,1
+J. Lascelles,R. Elliot,1
+J. Shelvey,M. Diam\u00e9,1
+J. Shelvey,M. Ritchie,1
+R. Elliot,Joselu,1
+M. Ritchie,J. Lascelles,1
+I. Hayden,J. Shelvey,1
+M. Diam\u00e9,D. Yedlin,1
+F. Lejeune,D. Yedlin,1

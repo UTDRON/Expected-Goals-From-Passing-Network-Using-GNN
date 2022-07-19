@@ -1,0 +1,73 @@
+Source,Target,Weight
+T. Bakayoko,E. Hazard,5
+Marcos Alonso,N. Kant\u00e9,4
+D. Zappacosta,F\u00e0bregas,4
+D. Zappacosta,Azpilicueta,4
+A. Christensen,T. Courtois,4
+E. Hazard,F\u00e0bregas,4
+F\u00e0bregas,D. Zappacosta,4
+N. Kant\u00e9,F\u00e0bregas,3
+F\u00e0bregas,\u00c1lvaro Morata,3
+D. Zappacosta,\u00c1lvaro Morata,3
+\u00c1lvaro Morata,D. Zappacosta,3
+G. Cahill,Marcos Alonso,3
+\u00c1lvaro Morata,F\u00e0bregas,3
+Azpilicueta,D. Zappacosta,3
+T. Bakayoko,N. Kant\u00e9,2
+Azpilicueta,N. Kant\u00e9,2
+E. Hazard,\u00c1lvaro Morata,2
+Marcos Alonso,T. Bakayoko,2
+F\u00e0bregas,E. Hazard,2
+F\u00e0bregas,Marcos Alonso,2
+F\u00e0bregas,A. Christensen,2
+F\u00e0bregas,N. Kant\u00e9,2
+D. Zappacosta,N. Kant\u00e9,2
+N. Kant\u00e9,D. Zappacosta,2
+N. Kant\u00e9,T. Bakayoko,2
+A. Christensen,Azpilicueta,2
+Azpilicueta,A. Christensen,2
+T. Bakayoko,Marcos Alonso,2
+F\u00e0bregas,Azpilicueta,2
+A. Christensen,Marcos Alonso,2
+N. Kant\u00e9,Azpilicueta,2
+N. Kant\u00e9,G. Cahill,2
+E. Hazard,G. Cahill,2
+E. Hazard,N. Kant\u00e9,2
+Marcos Alonso,G. Cahill,2
+G. Cahill,E. Hazard,2
+Marcos Alonso,A. Christensen,2
+Azpilicueta,E. Hazard,1
+G. Cahill,A. Christensen,1
+Marcos Alonso,E. Hazard,1
+N. Kant\u00e9,E. Hazard,1
+G. Cahill,T. Bakayoko,1
+D. Zappacosta,G. Cahill,1
+A. Christensen,T. Bakayoko,1
+Azpilicueta,G. Cahill,1
+T. Courtois,E. Hazard,1
+E. Hazard,T. Bakayoko,1
+Azpilicueta,T. Courtois,1
+G. Cahill,T. Courtois,1
+N. Kant\u00e9,Marcos Alonso,1
+T. Courtois,A. Christensen,1
+A. Christensen,G. Cahill,1
+T. Bakayoko,F\u00e0bregas,1
+G. Cahill,Azpilicueta,1
+Azpilicueta,T. Bakayoko,1
+\u00c1lvaro Morata,Azpilicueta,1
+E. Hazard,D. Zappacosta,1
+\u00c1lvaro Morata,A. Christensen,1
+T. Courtois,F\u00e0bregas,1
+N. Kant\u00e9,\u00c1lvaro Morata,1
+A. Christensen,F\u00e0bregas,1
+D. Zappacosta,A. Christensen,1
+Azpilicueta,Marcos Alonso,1
+Azpilicueta,F\u00e0bregas,1
+T. Bakayoko,D. Zappacosta,1
+\u00c1lvaro Morata,T. Bakayoko,1
+T. Courtois,N. Kant\u00e9,1
+F\u00e0bregas,T. Bakayoko,1
+T. Courtois,D. Zappacosta,1
+N. Kant\u00e9,A. Christensen,1
+E. Hazard,Marcos Alonso,1
+T. Courtois,T. Bakayoko,1

@@ -1,0 +1,55 @@
+Source,Target,Weight
+T. Bakayoko,N. Kant\u00e9,4
+Azpilicueta,N. Kant\u00e9,4
+Azpilicueta,D. Zappacosta,4
+N. Kant\u00e9,Azpilicueta,3
+A. R\u00fcdiger,G. Cahill,3
+Pedro,E. Hazard,3
+E. Hazard,Azpilicueta,3
+G. Cahill,Azpilicueta,3
+D. Zappacosta,Azpilicueta,3
+T. Bakayoko,Marcos Alonso,2
+Pedro,T. Bakayoko,2
+N. Kant\u00e9,Pedro,2
+N. Kant\u00e9,T. Bakayoko,2
+N. Kant\u00e9,D. Zappacosta,2
+Marcos Alonso,A. R\u00fcdiger,2
+A. R\u00fcdiger,T. Bakayoko,2
+D. Zappacosta,Pedro,2
+G. Cahill,N. Kant\u00e9,2
+T. Courtois,Marcos Alonso,2
+N. Kant\u00e9,A. R\u00fcdiger,2
+E. Hazard,N. Kant\u00e9,2
+Marcos Alonso,E. Hazard,2
+N. Kant\u00e9,R. Barkley,2
+N. Kant\u00e9,E. Hazard,2
+A. R\u00fcdiger,Marcos Alonso,2
+Azpilicueta,G. Cahill,2
+Marcos Alonso,N. Kant\u00e9,1
+E. Hazard,A. R\u00fcdiger,1
+E. Hazard,D. Zappacosta,1
+N. Kant\u00e9,G. Cahill,1
+Pedro,N. Kant\u00e9,1
+G. Cahill,A. R\u00fcdiger,1
+R. Barkley,E. Hazard,1
+D. Zappacosta,R. Barkley,1
+Azpilicueta,A. R\u00fcdiger,1
+T. Bakayoko,D. Zappacosta,1
+Pedro,A. R\u00fcdiger,1
+E. Hazard,G. Cahill,1
+Azpilicueta,Pedro,1
+Marcos Alonso,T. Bakayoko,1
+A. R\u00fcdiger,Azpilicueta,1
+R. Barkley,Pedro,1
+R. Barkley,N. Kant\u00e9,1
+R. Barkley,Marcos Alonso,1
+D. Zappacosta,E. Hazard,1
+Marcos Alonso,R. Barkley,1
+T. Bakayoko,Pedro,1
+Azpilicueta,R. Barkley,1
+G. Cahill,T. Courtois,1
+D. Zappacosta,N. Kant\u00e9,1
+Azpilicueta,T. Courtois,1
+R. Barkley,Azpilicueta,1
+G. Cahill,R. Barkley,1
+R. Barkley,T. Bakayoko,1

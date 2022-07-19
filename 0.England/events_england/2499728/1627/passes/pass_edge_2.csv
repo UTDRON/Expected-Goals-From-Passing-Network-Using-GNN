@@ -1,0 +1,24 @@
+Source,Target,Weight
+J. Rodriguez,M. Phillips,3
+C. Brunt,Ahmed Hegazy,2
+M. Phillips,J. Rodriguez,2
+J. Livermore,C. Brunt,2
+C. Brunt,J. Rodriguez,1
+Ahmed Hegazy,B. Foster,1
+J. Rodriguez,Ahmed Hegazy,1
+A. Nyom,C. Dawson,1
+S. Field,J. Rodriguez,1
+C. Yacob,A. Nyom,1
+J. Rodriguez,S. Field,1
+C. Dawson,J. Rodriguez,1
+B. Foster,S. Field,1
+S. Field,C. Brunt,1
+A. Nyom,J. Livermore,1
+Ahmed Hegazy,S. Field,1
+S. Field,J. McClean,1
+M. Phillips,J. Livermore,1
+Ahmed Hegazy,C. Dawson,1
+A. Nyom,M. Phillips,1
+J. McClean,S. Field,1
+C. Dawson,A. Nyom,1
+S. Field,C. Yacob,1

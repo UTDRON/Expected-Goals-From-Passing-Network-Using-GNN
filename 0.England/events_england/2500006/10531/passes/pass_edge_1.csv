@@ -1,0 +1,38 @@
+Source,Target,Weight
+S. Clucas,M. Olsson,4
+A. King,A. Mawson,3
+A. Mawson,J. Ayew,2
+A. Ayew,A. King,2
+M. Olsson,A. Ayew,2
+A. King,K. Naughton,2
+M. Olsson,A. Mawson,2
+K. Naughton,A. King,2
+K. Naughton,A. Ayew,2
+K. Naughton,M. van der Hoorn,1
+Sung-Yeung Ki,A. Ayew,1
+J. Ayew,F. Fern\u00e1ndez,1
+Sung-Yeung Ki,A. King,1
+J. Ayew,A. Mawson,1
+F. Fern\u00e1ndez,S. Clucas,1
+A. King,J. Ayew,1
+A. King,Sung-Yeung Ki,1
+J. Ayew,M. Olsson,1
+K. Naughton,Sung-Yeung Ki,1
+A. Mawson,A. King,1
+M. van der Hoorn,J. Ayew,1
+A. Mawson,K. Naughton,1
+J. Ayew,A. King,1
+J. Ayew,K. Naughton,1
+M. Olsson,J. Ayew,1
+A. Mawson,A. Ayew,1
+J. Ayew,S. Clucas,1
+A. King,M. Olsson,1
+A. Ayew,K. Naughton,1
+A. Ayew,A. Mawson,1
+M. Olsson,S. Clucas,1
+M. Olsson,A. King,1
+A. Mawson,S. Clucas,1
+A. Ayew,Sung-Yeung Ki,1
+A. Mawson,F. Fern\u00e1ndez,1
+A. Ayew,J. Ayew,1
+F. Fern\u00e1ndez,K. Naughton,1

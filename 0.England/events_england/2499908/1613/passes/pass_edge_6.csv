@@ -1,0 +1,22 @@
+Source,Target,Weight
+D. Yedlin,M. Ritchie,2
+Javi Manquillo,Joselu,2
+Joselu,Javi Manquillo,1
+R. Elliot,J. Lascelles,1
+H. Saivet,M. Diam\u00e9,1
+M. Diam\u00e9,D. Yedlin,1
+Joselu,H. Saivet,1
+Joselu,J. Lascelles,1
+M. Ritchie,D. Gayle,1
+J. Lascelles,M. Ritchie,1
+J. Lascelles,C. Atsu,1
+M. Diam\u00e9,H. Saivet,1
+M. Ritchie,Joselu,1
+H. Saivet,Javi Manquillo,1
+R. Elliot,D. Yedlin,1
+C. Atsu,D. Gayle,1
+D. Gayle,R. Elliot,1
+Javi Manquillo,C. Atsu,1
+M. Ritchie,R. Elliot,1
+D. Gayle,M. Diam\u00e9,1
+C. Atsu,Javi Manquillo,1

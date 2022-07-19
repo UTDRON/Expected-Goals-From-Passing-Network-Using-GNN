@@ -1,0 +1,60 @@
+Source,Target,Weight
+R. Sterling,Fernandinho,5
+J. Stones,N. Otamendi,4
+Fernandinho,J. Stones,4
+J. Stones,Fernandinho,4
+K. Walker,J. Stones,4
+K. Walker,R. Sterling,4
+N. Otamendi,F. Delph,3
+David Silva,L. San\u00e9,3
+Fernandinho,K. Walker,3
+David Silva,K. De Bruyne,3
+K. De Bruyne,S. Ag\u00fcero,2
+S. Ag\u00fcero,David Silva,2
+L. San\u00e9,F. Delph,2
+R. Sterling,K. De Bruyne,2
+N. Otamendi,J. Stones,2
+N. Otamendi,L. San\u00e9,2
+J. Stones,K. Walker,2
+K. De Bruyne,R. Sterling,2
+K. De Bruyne,K. Walker,2
+L. San\u00e9,S. Ag\u00fcero,2
+Fernandinho,David Silva,2
+F. Delph,Fernandinho,2
+S. Ag\u00fcero,R. Sterling,2
+J. Stones,Ederson,1
+N. Otamendi,K. Walker,1
+R. Sterling,David Silva,1
+Fernandinho,R. Sterling,1
+K. Walker,Fernandinho,1
+Ederson,K. De Bruyne,1
+R. Sterling,S. Ag\u00fcero,1
+K. De Bruyne,J. Stones,1
+K. De Bruyne,Fernandinho,1
+J. Stones,S. Ag\u00fcero,1
+K. De Bruyne,David Silva,1
+N. Otamendi,Fernandinho,1
+Fernandinho,N. Otamendi,1
+L. San\u00e9,K. Walker,1
+F. Delph,David Silva,1
+J. Stones,K. De Bruyne,1
+David Silva,S. Ag\u00fcero,1
+F. Delph,S. Ag\u00fcero,1
+Ederson,N. Otamendi,1
+S. Ag\u00fcero,F. Delph,1
+F. Delph,N. Otamendi,1
+K. Walker,Ederson,1
+S. Ag\u00fcero,K. Walker,1
+F. Delph,K. De Bruyne,1
+Fernandinho,K. De Bruyne,1
+L. San\u00e9,David Silva,1
+Fernandinho,L. San\u00e9,1
+Fernandinho,F. Delph,1
+K. De Bruyne,N. Otamendi,1
+David Silva,N. Otamendi,1
+Fernandinho,S. Ag\u00fcero,1
+L. San\u00e9,J. Stones,1
+F. Delph,J. Stones,1
+L. San\u00e9,Fernandinho,1
+S. Ag\u00fcero,L. San\u00e9,1
+S. Ag\u00fcero,K. De Bruyne,1

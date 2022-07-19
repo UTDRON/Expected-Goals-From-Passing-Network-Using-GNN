@@ -1,0 +1,23 @@
+Source,Target,Weight
+H. Arter,C. Daniels,3
+C. Daniels,H. Arter,3
+H. Arter,N. Ak\u00e9,2
+S. Francis,A. Smith,2
+N. Ak\u00e9,S. Francis,2
+S. Francis,R. Fraser,1
+A. Smith,N. Ak\u00e9,1
+A. Smith,J. King,1
+A. Surman,A. Smith,1
+N. Ak\u00e9,H. Arter,1
+H. Arter,A. Surman,1
+R. Fraser,A. Surman,1
+J. King,S. Francis,1
+A. Surman,M. Pugh,1
+N. Ak\u00e9,M. Pugh,1
+S. Francis,J. King,1
+M. Pugh,H. Arter,1
+S. Francis,N. Ak\u00e9,1
+M. Pugh,C. Daniels,1
+A. Smith,S. Francis,1
+C. Daniels,S. Francis,1
+A. Smith,H. Arter,1

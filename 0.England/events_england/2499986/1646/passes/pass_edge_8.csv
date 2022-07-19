@@ -1,0 +1,15 @@
+Source,Target,Weight
+B. Mee,K. Long,2
+J. Cork,B. Mee,2
+K. Long,J. Hendrick,1
+K. Long,S. Vokes,1
+S. Vokes,C. Taylor,1
+J. Gu\u00f0munds\u00adson,A. Barnes,1
+B. Mee,A. Barnes,1
+A. Barnes,N. Pope,1
+S. Vokes,J. Gu\u00f0munds\u00adson,1
+C. Taylor,J. Cork,1
+J. Hendrick,K. Long,1
+N. Pope,S. Vokes,1
+K. Long,B. Mee,1
+B. Mee,J. Cork,1

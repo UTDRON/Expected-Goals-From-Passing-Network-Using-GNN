@@ -1,0 +1,43 @@
+Source,Target,Weight
+P. van Aanholt,J. McArthur,4
+J. Tomkins,P. van Aanholt,3
+J. Tomkins,J. McArthur,3
+W. Zaha,L. Milivojevi\u0107,2
+J. McArthur,P. van Aanholt,2
+J. McArthur,W. Zaha,2
+T. Fosu-Mensah,C. Benteke,2
+P. van Aanholt,J. Tomkins,2
+L. Milivojevi\u0107,Y. Cabaye,2
+C. Benteke,J. Tomkins,2
+J. McArthur,J. Tomkins,1
+L. Milivojevi\u0107,P. van Aanholt,1
+J. McArthur,Y. Cabaye,1
+P. van Aanholt,Y. Cabaye,1
+Y. Cabaye,J. McArthur,1
+M. Kelly,A. Townsend,1
+Y. Cabaye,P. van Aanholt,1
+L. Milivojevi\u0107,T. Fosu-Mensah,1
+P. van Aanholt,W. Hennessey,1
+A. Townsend,Y. Cabaye,1
+W. Zaha,P. van Aanholt,1
+C. Benteke,T. Fosu-Mensah,1
+P. van Aanholt,T. Fosu-Mensah,1
+Y. Cabaye,C. Benteke,1
+T. Fosu-Mensah,P. van Aanholt,1
+J. Tomkins,M. Kelly,1
+M. Kelly,C. Benteke,1
+W. Zaha,J. McArthur,1
+A. Townsend,T. Fosu-Mensah,1
+J. McArthur,L. Milivojevi\u0107,1
+Y. Cabaye,M. Kelly,1
+C. Benteke,W. Zaha,1
+T. Fosu-Mensah,M. Kelly,1
+M. Kelly,Y. Cabaye,1
+J. McArthur,T. Fosu-Mensah,1
+T. Fosu-Mensah,J. Tomkins,1
+M. Kelly,W. Zaha,1
+L. Milivojevi\u0107,M. Kelly,1
+L. Milivojevi\u0107,J. Tomkins,1
+W. Hennessey,L. Milivojevi\u0107,1
+Y. Cabaye,L. Milivojevi\u0107,1
+J. McArthur,A. Townsend,1

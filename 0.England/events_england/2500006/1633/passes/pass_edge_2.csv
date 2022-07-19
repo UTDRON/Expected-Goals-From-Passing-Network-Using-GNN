@@ -1,0 +1,131 @@
+Source,Target,Weight
+D. Rice,P. Zabaleta,9
+P. Zabaleta,D. Rice,9
+S. Byram,P. Zabaleta,9
+M. Noble,D. Rice,8
+P. Evra,A. Cresswell,8
+P. Evra,M. Lanzini,7
+A. Cresswell,M. Lanzini,7
+D. Rice,Adri\u00e1n,7
+D. Rice,W. Reid,6
+M. Lanzini,M. Noble,6
+Adri\u00e1n,C. Kouyat\u00e9,6
+M. Lanzini,M. Arnautovi\u0107,6
+A. Cresswell,D. Rice,6
+M. Lanzini,D. Rice,6
+D. Rice,M. Lanzini,5
+M. Lanzini,P. Evra,5
+P. Zabaleta,C. Kouyat\u00e9,5
+A. Cresswell,P. Evra,5
+M. Arnautovi\u0107,P. Evra,5
+M. Lanzini,A. Cresswell,5
+M. Noble,M. Lanzini,5
+P. Evra,M. Noble,5
+A. Cresswell,M. Antonio,5
+D. Rice,A. Cresswell,5
+C. Kouyat\u00e9,M. Noble,5
+M. Noble,P. Evra,4
+M. Antonio,A. Cresswell,4
+C. Kouyat\u00e9,M. Lanzini,4
+M. Lanzini,S. Byram,4
+D. Rice,M. Noble,4
+A. Cresswell,W. Reid,4
+M. Noble,A. Cresswell,4
+W. Reid,D. Rice,4
+D. Rice,S. Byram,4
+A. Cresswell,M. Noble,4
+P. Zabaleta,S. Byram,4
+M. Arnautovi\u0107,M. Lanzini,3
+M. Lanzini,P. Zabaleta,3
+M. Noble,P. Zabaleta,3
+P. Zabaleta,Adri\u00e1n,3
+A. Cresswell,M. Arnautovi\u0107,3
+P. Zabaleta,M. Noble,3
+M. Lanzini,C. Kouyat\u00e9,3
+A. Cresswell,Adri\u00e1n,3
+M. Arnautovi\u0107,A. Cresswell,3
+P. Zabaleta,M. Lanzini,3
+P. Zabaleta,A. Cresswell,3
+S. Byram,D. Rice,3
+J. Hern\u00e1ndez,A. Cresswell,3
+M. Arnautovi\u0107,J. Hern\u00e1ndez,3
+C. Kouyat\u00e9,P. Evra,3
+Adri\u00e1n,J. Hern\u00e1ndez,3
+W. Reid,M. Lanzini,3
+J. Hern\u00e1ndez,P. Zabaleta,3
+J. Hern\u00e1ndez,D. Rice,3
+M. Noble,Adri\u00e1n,2
+W. Reid,A. Cresswell,2
+J. Hern\u00e1ndez,W. Reid,2
+C. Kouyat\u00e9,P. Zabaleta,2
+M. Arnautovi\u0107,M. Noble,2
+J. Hern\u00e1ndez,M. Lanzini,2
+M. Arnautovi\u0107,M. Antonio,2
+J. Hern\u00e1ndez,M. Arnautovi\u0107,2
+M. Antonio,M. Arnautovi\u0107,2
+M. Lanzini,J. Hern\u00e1ndez,2
+A. Cresswell,C. Kouyat\u00e9,2
+P. Evra,M. Arnautovi\u0107,2
+M. Lanzini,M. Antonio,2
+C. Kouyat\u00e9,W. Reid,2
+Adri\u00e1n,M. Arnautovi\u0107,2
+W. Reid,P. Zabaleta,2
+M. Noble,M. Antonio,2
+P. Evra,P. Zabaleta,2
+M. Antonio,J. Hern\u00e1ndez,2
+C. Kouyat\u00e9,D. Rice,2
+S. Byram,M. Noble,2
+P. Zabaleta,M. Arnautovi\u0107,2
+P. Zabaleta,J. Hern\u00e1ndez,2
+D. Rice,C. Kouyat\u00e9,2
+C. Kouyat\u00e9,S. Byram,2
+M. Arnautovi\u0107,S. Byram,2
+W. Reid,M. Noble,2
+M. Noble,S. Byram,2
+Adri\u00e1n,A. Cresswell,2
+M. Antonio,M. Lanzini,2
+P. Evra,J. Hern\u00e1ndez,2
+P. Evra,D. Rice,2
+M. Noble,J. Hern\u00e1ndez,2
+Adri\u00e1n,D. Rice,2
+M. Noble,M. Arnautovi\u0107,2
+D. Rice,P. Evra,2
+M. Noble,C. Kouyat\u00e9,2
+D. Rice,M. Antonio,1
+S. Byram,M. Lanzini,1
+D. Rice,J. Hern\u00e1ndez,1
+A. Cresswell,S. Byram,1
+S. Byram,M. Arnautovi\u0107,1
+J. Hern\u00e1ndez,C. Kouyat\u00e9,1
+A. Cresswell,P. Zabaleta,1
+M. Arnautovi\u0107,P. Zabaleta,1
+S. Byram,M. Antonio,1
+P. Zabaleta,W. Reid,1
+J. Hern\u00e1ndez,M. Antonio,1
+D. Rice,M. Arnautovi\u0107,1
+C. Kouyat\u00e9,M. Arnautovi\u0107,1
+J. Hern\u00e1ndez,M. Noble,1
+M. Antonio,S. Byram,1
+M. Antonio,Adri\u00e1n,1
+P. Evra,C. Kouyat\u00e9,1
+Adri\u00e1n,P. Zabaleta,1
+S. Byram,A. Cresswell,1
+W. Reid,C. Kouyat\u00e9,1
+J. Hern\u00e1ndez,Adri\u00e1n,1
+Adri\u00e1n,M. Antonio,1
+Adri\u00e1n,P. Evra,1
+S. Byram,J. Hern\u00e1ndez,1
+M. Arnautovi\u0107,D. Rice,1
+P. Zabaleta,P. Evra,1
+M. Antonio,C. Kouyat\u00e9,1
+M. Arnautovi\u0107,W. Reid,1
+C. Kouyat\u00e9,J. Hern\u00e1ndez,1
+W. Reid,Adri\u00e1n,1
+C. Kouyat\u00e9,Adri\u00e1n,1
+W. Reid,P. Evra,1
+S. Byram,P. Evra,1
+Adri\u00e1n,M. Noble,1
+C. Kouyat\u00e9,A. Cresswell,1
+M. Antonio,M. Noble,1
+J. Hern\u00e1ndez,P. Evra,1
+M. Antonio,D. Rice,1

@@ -1,0 +1,22 @@
+Source,Target,Weight
+N. Ak\u00e9,S. Cook,3
+S. Francis,J. King,2
+M. Pugh,C. Daniels,2
+S. Cook,N. Ak\u00e9,2
+A. Begovi\u0107,H. Arter,1
+J. King,C. Wilson,1
+S. Francis,A. Begovi\u0107,1
+C. Daniels,M. Pugh,1
+J. King,M. Pugh,1
+A. Surman,S. Francis,1
+C. Wilson,J. Ibe,1
+N. Ak\u00e9,A. Surman,1
+C. Daniels,N. Ak\u00e9,1
+H. Arter,N. Ak\u00e9,1
+S. Cook,H. Arter,1
+A. Surman,C. Daniels,1
+J. Ibe,A. Begovi\u0107,1
+J. King,A. Surman,1
+H. Arter,S. Francis,1
+A. Begovi\u0107,S. Francis,1
+C. Daniels,J. Ibe,1

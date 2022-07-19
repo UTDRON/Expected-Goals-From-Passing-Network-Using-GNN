@@ -1,0 +1,67 @@
+Source,Target,Weight
+M. Noble,A. Masuaku,9
+A. Masuaku,M. Lanzini,7
+M. Antonio,M. Noble,5
+A. Masuaku,M. Antonio,5
+A. Masuaku,M. Arnautovi\u0107,5
+M. Antonio,A. Masuaku,5
+M. Noble,M. Lanzini,4
+M. Lanzini,M. Noble,4
+M. Lanzini,M. Antonio,4
+A. Masuaku,M. Noble,4
+M. Arnautovi\u0107,M. Antonio,3
+M. Lanzini,A. Masuaku,3
+M. Antonio,M. Lanzini,3
+M. Antonio,Pedro Obiang,3
+M. Lanzini,Pedro Obiang,3
+M. Lanzini,A. Cresswell,3
+P. Zabaleta,M. Lanzini,3
+A. Ogbonna,M. Noble,3
+P. Zabaleta,Adri\u00e1n,3
+Pedro Obiang,W. Reid,3
+W. Reid,P. Zabaleta,3
+Adri\u00e1n,M. Antonio,3
+M. Arnautovi\u0107,Pedro Obiang,2
+Pedro Obiang,A. Cresswell,2
+M. Antonio,M. Arnautovi\u0107,2
+Pedro Obiang,A. Masuaku,2
+M. Noble,M. Antonio,2
+P. Zabaleta,Pedro Obiang,2
+M. Antonio,A. Cresswell,2
+A. Cresswell,M. Antonio,2
+M. Arnautovi\u0107,M. Noble,2
+Pedro Obiang,M. Lanzini,2
+A. Cresswell,M. Arnautovi\u0107,2
+W. Reid,M. Antonio,2
+M. Noble,A. Cresswell,2
+M. Noble,M. Arnautovi\u0107,2
+Pedro Obiang,P. Zabaleta,2
+M. Antonio,P. Zabaleta,2
+A. Ogbonna,W. Reid,2
+Adri\u00e1n,A. Masuaku,1
+M. Arnautovi\u0107,P. Zabaleta,1
+M. Lanzini,Adri\u00e1n,1
+Adri\u00e1n,M. Noble,1
+M. Noble,Adri\u00e1n,1
+A. Masuaku,Pedro Obiang,1
+A. Cresswell,A. Ogbonna,1
+M. Arnautovi\u0107,A. Ogbonna,1
+P. Zabaleta,M. Antonio,1
+P. Zabaleta,W. Reid,1
+W. Reid,M. Noble,1
+M. Arnautovi\u0107,A. Masuaku,1
+A. Cresswell,Pedro Obiang,1
+A. Cresswell,Adri\u00e1n,1
+Pedro Obiang,A. Ogbonna,1
+Adri\u00e1n,P. Zabaleta,1
+M. Noble,Pedro Obiang,1
+W. Reid,A. Ogbonna,1
+A. Cresswell,M. Noble,1
+M. Arnautovi\u0107,W. Reid,1
+P. Zabaleta,A. Ogbonna,1
+Pedro Obiang,M. Antonio,1
+A. Masuaku,P. Zabaleta,1
+A. Cresswell,A. Masuaku,1
+A. Ogbonna,A. Masuaku,1
+M. Lanzini,P. Zabaleta,1
+Adri\u00e1n,A. Ogbonna,1

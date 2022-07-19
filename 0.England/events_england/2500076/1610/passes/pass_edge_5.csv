@@ -1,0 +1,81 @@
+Source,Target,Weight
+T. Bakayoko,Emerson,7
+Emerson,A. R\u00fcdiger,6
+E. Hazard,Emerson,6
+N. Kant\u00e9,Azpilicueta,6
+Azpilicueta,N. Kant\u00e9,6
+N. Kant\u00e9,T. Bakayoko,5
+A. R\u00fcdiger,G. Cahill,5
+Azpilicueta,F\u00e0bregas,5
+F\u00e0bregas,N. Kant\u00e9,5
+N. Kant\u00e9,F\u00e0bregas,4
+G. Cahill,Azpilicueta,4
+G. Cahill,N. Kant\u00e9,4
+F\u00e0bregas,V. Moses,4
+Azpilicueta,E. Hazard,4
+F\u00e0bregas,Azpilicueta,4
+Emerson,T. Bakayoko,4
+V. Moses,Azpilicueta,4
+G. Cahill,A. R\u00fcdiger,4
+O. Giroud,E. Hazard,4
+A. R\u00fcdiger,T. Courtois,3
+T. Courtois,O. Giroud,3
+V. Moses,F\u00e0bregas,3
+O. Giroud,V. Moses,3
+E. Hazard,T. Bakayoko,3
+A. R\u00fcdiger,Emerson,3
+Azpilicueta,G. Cahill,3
+Azpilicueta,V. Moses,3
+F\u00e0bregas,E. Hazard,3
+E. Hazard,F\u00e0bregas,3
+N. Kant\u00e9,O. Giroud,3
+O. Giroud,F\u00e0bregas,3
+T. Bakayoko,E. Hazard,2
+A. R\u00fcdiger,N. Kant\u00e9,2
+T. Bakayoko,O. Giroud,2
+A. R\u00fcdiger,T. Bakayoko,2
+Emerson,N. Kant\u00e9,2
+A. R\u00fcdiger,Azpilicueta,2
+N. Kant\u00e9,E. Hazard,2
+T. Bakayoko,F\u00e0bregas,2
+O. Giroud,N. Kant\u00e9,2
+O. Giroud,Azpilicueta,2
+T. Bakayoko,A. R\u00fcdiger,2
+O. Giroud,T. Bakayoko,2
+E. Hazard,V. Moses,2
+E. Hazard,O. Giroud,2
+T. Courtois,A. R\u00fcdiger,2
+Emerson,T. Courtois,2
+V. Moses,O. Giroud,2
+F\u00e0bregas,O. Giroud,2
+T. Bakayoko,N. Kant\u00e9,2
+F\u00e0bregas,G. Cahill,2
+N. Kant\u00e9,A. R\u00fcdiger,2
+Emerson,E. Hazard,2
+G. Cahill,T. Bakayoko,2
+V. Moses,Emerson,1
+Azpilicueta,O. Giroud,1
+E. Hazard,A. R\u00fcdiger,1
+N. Kant\u00e9,G. Cahill,1
+N. Kant\u00e9,T. Courtois,1
+E. Hazard,N. Kant\u00e9,1
+Azpilicueta,T. Courtois,1
+T. Bakayoko,V. Moses,1
+V. Moses,E. Hazard,1
+A. R\u00fcdiger,O. Giroud,1
+Emerson,G. Cahill,1
+N. Kant\u00e9,Emerson,1
+F\u00e0bregas,A. R\u00fcdiger,1
+T. Courtois,Azpilicueta,1
+Emerson,F\u00e0bregas,1
+T. Courtois,G. Cahill,1
+A. R\u00fcdiger,E. Hazard,1
+E. Hazard,Azpilicueta,1
+F\u00e0bregas,T. Bakayoko,1
+V. Moses,N. Kant\u00e9,1
+T. Bakayoko,Azpilicueta,1
+A. R\u00fcdiger,F\u00e0bregas,1
+Azpilicueta,T. Bakayoko,1
+V. Moses,T. Bakayoko,1
+T. Bakayoko,G. Cahill,1
+Azpilicueta,A. R\u00fcdiger,1

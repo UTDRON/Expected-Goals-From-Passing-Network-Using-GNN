@@ -1,0 +1,39 @@
+Source,Target,Weight
+P. Pogba,L. Shaw,4
+L. Shaw,M. Rashford,3
+N. Mati\u0107,P. Jones,3
+M. Rashford,L. Shaw,2
+L. Shaw,P. Jones,2
+A. Valencia,S. McTominay,2
+S. McTominay,N. Mati\u0107,2
+P. Jones,P. Pogba,2
+A. Valencia,N. Mati\u0107,2
+N. Mati\u0107,M. Fellaini,2
+N. Mati\u0107,A. Valencia,2
+C. Smalling,David de Gea,1
+N. Mati\u0107,P. Pogba,1
+P. Pogba,S. McTominay,1
+P. Jones,M. Rashford,1
+David de Gea,N. Mati\u0107,1
+M. Fellaini,M. Rashford,1
+M. Rashford,P. Jones,1
+P. Jones,David de Gea,1
+N. Mati\u0107,S. McTominay,1
+S. McTominay,P. Pogba,1
+M. Fellaini,S. McTominay,1
+P. Jones,M. Fellaini,1
+M. Fellaini,P. Pogba,1
+David de Gea,M. Fellaini,1
+S. McTominay,M. Fellaini,1
+M. Rashford,A. Valencia,1
+P. Pogba,N. Mati\u0107,1
+M. Rashford,N. Mati\u0107,1
+M. Fellaini,A. Valencia,1
+A. Valencia,R. Lukaku,1
+S. McTominay,A. Valencia,1
+P. Jones,N. Mati\u0107,1
+R. Lukaku,M. Rashford,1
+L. Shaw,N. Mati\u0107,1
+M. Rashford,P. Pogba,1
+M. Fellaini,N. Mati\u0107,1
+N. Mati\u0107,M. Rashford,1

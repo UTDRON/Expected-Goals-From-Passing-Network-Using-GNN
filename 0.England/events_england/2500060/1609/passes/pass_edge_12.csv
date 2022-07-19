@@ -1,0 +1,12 @@
+Source,Target,Weight
+A. Ramsey,A. Iwobi,2
+G. Xhaka,S. Mustafi,1
+A. Maitland-Niles,A. Ramsey,1
+A. Iwobi,A. Maitland-Niles,1
+S. Mustafi,Beller\u00edn,1
+G. Xhaka,A. Maitland-Niles,1
+A. Iwobi,G. Xhaka,1
+A. Iwobi,A. Ramsey,1
+G. Xhaka,A. Iwobi,1
+A. Maitland-Niles,G. Xhaka,1
+Beller\u00edn,G. Xhaka,1

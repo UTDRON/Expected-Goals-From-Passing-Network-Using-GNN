@@ -1,0 +1,12 @@
+Source,Target,Weight
+A. Barnes,S. Defour,2
+J. Cork,S. Defour,1
+S. Ward,J. Cork,1
+J. Cork,S. Ward,1
+S. Defour,J. Hendrick,1
+S. Defour,J. Cork,1
+S. Defour,A. Barnes,1
+S. Defour,S. Vokes,1
+J. Tarkowski,S. Defour,1
+J. Cork,J. Tarkowski,1
+J. Hendrick,A. Barnes,1

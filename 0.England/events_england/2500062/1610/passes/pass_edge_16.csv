@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Christensen,F\u00e0bregas,3
+F\u00e0bregas,Willian,3
+Willian,F\u00e0bregas,3
+F\u00e0bregas,Azpilicueta,2
+F\u00e0bregas,E. Hazard,2
+Azpilicueta,Willian,2
+Willian,O. Giroud,2
+A. R\u00fcdiger,A. Christensen,2
+Marcos Alonso,A. R\u00fcdiger,2
+\u00c1lvaro Morata,Marcos Alonso,1
+O. Giroud,F\u00e0bregas,1
+F\u00e0bregas,O. Giroud,1
+E. Hazard,Marcos Alonso,1
+Willian,A. R\u00fcdiger,1
+Azpilicueta,F\u00e0bregas,1
+E. Hazard,Azpilicueta,1
+O. Giroud,Willian,1
+F\u00e0bregas,\u00c1lvaro Morata,1
+A. R\u00fcdiger,F\u00e0bregas,1
+O. Giroud,Marcos Alonso,1
+Marcos Alonso,E. Hazard,1

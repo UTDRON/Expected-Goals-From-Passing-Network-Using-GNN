@@ -1,0 +1,11 @@
+Source,Target,Weight
+C. Adam,M. Diouf,3
+M. Diouf,C. Adam,2
+P. Crouch,C. Adam,1
+K. Wimmer,P. Crouch,1
+J. Butland,K. Wimmer,1
+G. Cameron,P. Crouch,1
+J. Allen,C. Adam,1
+K. Wimmer,J. Allen,1
+P. Crouch,K. Wimmer,1
+C. Adam,G. Cameron,1

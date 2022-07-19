@@ -1,0 +1,53 @@
+Source,Target,Weight
+A. Doucour\u00e9,M. Britos,5
+Richarlison,A. Doucour\u00e9,4
+M. Britos,J. Holebas,4
+M. Britos,Richarlison,4
+A. Carrillo,A. Doucour\u00e9,3
+J. Holebas,Richarlison,2
+J. Holebas,T. Cleverley,2
+A. Doucour\u00e9,Richarlison,2
+A. Carrillo,T. Cleverley,2
+J. Holebas,M. Britos,2
+W. Hughes,J. Holebas,2
+Richarlison,J. Holebas,2
+A. Doucour\u00e9,T. Cleverley,2
+J. Holebas,A. Doucour\u00e9,2
+Kiko Femen\u00eda,A. Carrillo,2
+T. Cleverley,A. Carrillo,2
+Richarlison,M. Britos,2
+T. Cleverley,A. Gray,2
+C. Kabasele,A. Doucour\u00e9,1
+A. Gray,A. Doucour\u00e9,1
+J. Holebas,A. Gray,1
+M. Britos,T. Cleverley,1
+A. Carrillo,C. Kabasele,1
+A. Gray,J. Holebas,1
+A. Carrillo,Kiko Femen\u00eda,1
+M. Britos,A. Carrillo,1
+Kiko Femen\u00eda,C. Kabasele,1
+T. Cleverley,M. Britos,1
+A. Gray,T. Cleverley,1
+A. Gray,W. Hughes,1
+A. Carrillo,Richarlison,1
+C. Kabasele,Kiko Femen\u00eda,1
+M. Britos,A. Gray,1
+W. Hughes,A. Carrillo,1
+C. Kabasele,J. Holebas,1
+W. Hughes,A. Gray,1
+A. Carrillo,M. Britos,1
+T. Cleverley,C. Kabasele,1
+Kiko Femen\u00eda,W. Hughes,1
+J. Holebas,A. Carrillo,1
+A. Doucour\u00e9,Kiko Femen\u00eda,1
+A. Gray,Richarlison,1
+A. Doucour\u00e9,W. Hughes,1
+J. Holebas,Kiko Femen\u00eda,1
+W. Hughes,Kiko Femen\u00eda,1
+Kiko Femen\u00eda,J. Holebas,1
+M. Britos,W. Hughes,1
+T. Cleverley,W. Hughes,1
+A. Doucour\u00e9,A. Carrillo,1
+Richarlison,A. Carrillo,1
+T. Cleverley,Kiko Femen\u00eda,1
+Kiko Femen\u00eda,A. Doucour\u00e9,1

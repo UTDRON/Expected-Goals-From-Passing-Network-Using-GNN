@@ -1,0 +1,120 @@
+Source,Target,Weight
+A. Christensen,Azpilicueta,17
+Azpilicueta,A. Christensen,10
+A. R\u00fcdiger,A. Christensen,10
+N. Kant\u00e9,Willian,8
+Marcos Alonso,A. R\u00fcdiger,7
+A. Christensen,T. Bakayoko,7
+A. Christensen,A. R\u00fcdiger,7
+Azpilicueta,N. Kant\u00e9,7
+T. Bakayoko,A. R\u00fcdiger,6
+Azpilicueta,\u00c1lvaro Morata,6
+A. R\u00fcdiger,Marcos Alonso,6
+G. Cahill,T. Bakayoko,5
+N. Kant\u00e9,V. Moses,5
+\u00c1lvaro Morata,Pedro,5
+Willian,Marcos Alonso,5
+Willian,N. Kant\u00e9,5
+N. Kant\u00e9,Pedro,5
+A. R\u00fcdiger,T. Courtois,5
+Marcos Alonso,T. Bakayoko,5
+Azpilicueta,Willian,5
+N. Kant\u00e9,A. Christensen,4
+T. Bakayoko,Marcos Alonso,4
+T. Courtois,A. R\u00fcdiger,4
+\u00c1lvaro Morata,Marcos Alonso,4
+T. Bakayoko,T. Courtois,4
+T. Bakayoko,N. Kant\u00e9,4
+\u00c1lvaro Morata,Willian,3
+N. Kant\u00e9,Azpilicueta,3
+T. Bakayoko,Azpilicueta,3
+A. Christensen,N. Kant\u00e9,3
+Marcos Alonso,Azpilicueta,3
+T. Bakayoko,A. Christensen,3
+Willian,T. Bakayoko,3
+Willian,Azpilicueta,3
+A. Christensen,Marcos Alonso,3
+A. R\u00fcdiger,N. Kant\u00e9,3
+G. Cahill,N. Kant\u00e9,3
+N. Kant\u00e9,T. Bakayoko,3
+T. Bakayoko,\u00c1lvaro Morata,3
+A. R\u00fcdiger,T. Bakayoko,3
+Marcos Alonso,Pedro,3
+T. Courtois,\u00c1lvaro Morata,3
+T. Courtois,G. Cahill,3
+Pedro,Azpilicueta,3
+\u00c1lvaro Morata,N. Kant\u00e9,3
+Azpilicueta,F\u00e0bregas,3
+Pedro,N. Kant\u00e9,2
+Marcos Alonso,N. Kant\u00e9,2
+T. Courtois,A. Christensen,2
+V. Moses,Azpilicueta,2
+N. Kant\u00e9,Marcos Alonso,2
+Marcos Alonso,A. Christensen,2
+V. Moses,T. Courtois,2
+Marcos Alonso,Willian,2
+Azpilicueta,T. Bakayoko,2
+F\u00e0bregas,G. Cahill,2
+A. R\u00fcdiger,\u00c1lvaro Morata,2
+Willian,A. R\u00fcdiger,2
+N. Kant\u00e9,T. Courtois,2
+G. Cahill,A. Christensen,2
+A. R\u00fcdiger,V. Moses,2
+T. Bakayoko,G. Cahill,2
+Marcos Alonso,\u00c1lvaro Morata,2
+N. Kant\u00e9,G. Cahill,2
+Pedro,Willian,2
+\u00c1lvaro Morata,Azpilicueta,2
+Azpilicueta,T. Courtois,2
+Pedro,T. Bakayoko,2
+Azpilicueta,A. R\u00fcdiger,2
+V. Moses,N. Kant\u00e9,2
+Azpilicueta,V. Moses,2
+Pedro,A. R\u00fcdiger,2
+V. Moses,T. Bakayoko,2
+Willian,\u00c1lvaro Morata,2
+T. Bakayoko,Willian,2
+T. Courtois,Azpilicueta,2
+\u00c1lvaro Morata,G. Cahill,2
+Willian,A. Christensen,2
+Pedro,A. Christensen,2
+T. Bakayoko,Pedro,2
+F\u00e0bregas,Azpilicueta,1
+E. Hazard,\u00c1lvaro Morata,1
+\u00c1lvaro Morata,T. Bakayoko,1
+T. Bakayoko,F\u00e0bregas,1
+G. Cahill,T. Courtois,1
+T. Courtois,Willian,1
+N. Kant\u00e9,A. R\u00fcdiger,1
+N. Kant\u00e9,\u00c1lvaro Morata,1
+E. Hazard,N. Kant\u00e9,1
+V. Moses,G. Cahill,1
+A. Christensen,G. Cahill,1
+V. Moses,A. Christensen,1
+\u00c1lvaro Morata,F\u00e0bregas,1
+\u00c1lvaro Morata,T. Courtois,1
+F\u00e0bregas,T. Courtois,1
+A. R\u00fcdiger,F\u00e0bregas,1
+V. Moses,Marcos Alonso,1
+\u00c1lvaro Morata,A. R\u00fcdiger,1
+Pedro,\u00c1lvaro Morata,1
+A. R\u00fcdiger,Azpilicueta,1
+A. Christensen,\u00c1lvaro Morata,1
+V. Moses,\u00c1lvaro Morata,1
+N. Kant\u00e9,F\u00e0bregas,1
+T. Courtois,Marcos Alonso,1
+G. Cahill,V. Moses,1
+F\u00e0bregas,\u00c1lvaro Morata,1
+G. Cahill,A. R\u00fcdiger,1
+\u00c1lvaro Morata,A. Christensen,1
+T. Courtois,T. Bakayoko,1
+Pedro,V. Moses,1
+G. Cahill,\u00c1lvaro Morata,1
+A. Christensen,T. Courtois,1
+T. Courtois,V. Moses,1
+T. Courtois,N. Kant\u00e9,1
+Willian,V. Moses,1
+Azpilicueta,G. Cahill,1
+F\u00e0bregas,N. Kant\u00e9,1
+V. Moses,E. Hazard,1
+F\u00e0bregas,E. Hazard,1

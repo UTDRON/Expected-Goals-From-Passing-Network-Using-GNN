@@ -1,0 +1,61 @@
+Source,Target,Weight
+F. Delph,N. Otamendi,6
+V. Kompany,N. Otamendi,6
+N. Otamendi,V. Kompany,5
+R. Sterling,V. Kompany,5
+V. Kompany,F. Delph,4
+V. Kompany,Ederson,3
+Ederson,V. Kompany,3
+N. Otamendi,F. Delph,3
+N. Otamendi,R. Sterling,3
+V. Kompany,R. Sterling,3
+R. Sterling,F. Delph,2
+N. Otamendi,Ederson,2
+Ederson,N. Otamendi,2
+Bernardo Silva,V. Kompany,2
+R. Sterling,N. Otamendi,2
+Bernardo Silva,Danilo,2
+David Silva,Fernandinho,2
+L. San\u00e9,David Silva,2
+Fernandinho,David Silva,2
+\u0130. G\u00fcndo\u011fan,Ederson,1
+Fernandinho,F. Delph,1
+Ederson,Danilo,1
+L. San\u00e9,N. Otamendi,1
+Fernandinho,L. San\u00e9,1
+Ederson,Fernandinho,1
+F. Delph,Bernardo Silva,1
+Danilo,F. Delph,1
+Danilo,Fernandinho,1
+David Silva,V. Kompany,1
+R. Sterling,\u0130. G\u00fcndo\u011fan,1
+Fernandinho,Danilo,1
+V. Kompany,David Silva,1
+N. Otamendi,David Silva,1
+Danilo,Bernardo Silva,1
+N. Otamendi,Bernardo Silva,1
+David Silva,R. Sterling,1
+Danilo,R. Sterling,1
+\u0130. G\u00fcndo\u011fan,Danilo,1
+David Silva,\u0130. G\u00fcndo\u011fan,1
+David Silva,F. Delph,1
+L. San\u00e9,F. Delph,1
+N. Otamendi,\u0130. G\u00fcndo\u011fan,1
+\u0130. G\u00fcndo\u011fan,L. San\u00e9,1
+F. Delph,Ederson,1
+Danilo,\u0130. G\u00fcndo\u011fan,1
+F. Delph,David Silva,1
+\u0130. G\u00fcndo\u011fan,Bernardo Silva,1
+F. Delph,L. San\u00e9,1
+Danilo,David Silva,1
+David Silva,N. Otamendi,1
+N. Otamendi,L. San\u00e9,1
+V. Kompany,Danilo,1
+F. Delph,R. Sterling,1
+David Silva,Bernardo Silva,1
+\u0130. G\u00fcndo\u011fan,R. Sterling,1
+Bernardo Silva,\u0130. G\u00fcndo\u011fan,1
+F. Delph,V. Kompany,1
+N. Otamendi,Fernandinho,1
+Danilo,V. Kompany,1
+F. Delph,Danilo,1

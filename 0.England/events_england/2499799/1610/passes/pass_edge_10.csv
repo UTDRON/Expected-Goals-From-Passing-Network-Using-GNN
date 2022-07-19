@@ -1,0 +1,32 @@
+Source,Target,Weight
+Pedro,A. R\u00fcdiger,3
+G. Cahill,F\u00e0bregas,2
+F\u00e0bregas,M. Batshuayi,2
+T. Bakayoko,G. Cahill,2
+F\u00e0bregas,T. Bakayoko,2
+A. R\u00fcdiger,T. Bakayoko,2
+M. Batshuayi,F\u00e0bregas,1
+T. Bakayoko,T. Courtois,1
+A. R\u00fcdiger,Azpilicueta,1
+T. Bakayoko,Pedro,1
+G. Cahill,T. Bakayoko,1
+David Luiz,Pedro,1
+David Luiz,F\u00e0bregas,1
+Willian,Pedro,1
+Willian,F\u00e0bregas,1
+A. R\u00fcdiger,G. Cahill,1
+A. R\u00fcdiger,Pedro,1
+T. Courtois,F\u00e0bregas,1
+Azpilicueta,G. Cahill,1
+G. Cahill,T. Courtois,1
+T. Bakayoko,F\u00e0bregas,1
+F\u00e0bregas,Willian,1
+G. Cahill,David Luiz,1
+F\u00e0bregas,G. Cahill,1
+F\u00e0bregas,Azpilicueta,1
+M. Batshuayi,Willian,1
+T. Courtois,A. R\u00fcdiger,1
+T. Bakayoko,A. R\u00fcdiger,1
+David Luiz,M. Batshuayi,1
+Pedro,T. Bakayoko,1
+Azpilicueta,David Luiz,1

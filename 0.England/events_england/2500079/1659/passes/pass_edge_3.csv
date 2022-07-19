@@ -1,0 +1,17 @@
+Source,Target,Weight
+S. Francis,A. Surman,2
+S. Francis,J. King,2
+J. King,S. Francis,2
+S. Francis,R. Fraser,1
+C. Daniels,M. Pugh,1
+L. Cook,J. King,1
+A. Begovi\u0107,S. Francis,1
+M. Pugh,L. Cook,1
+A. Surman,S. Francis,1
+A. Surman,L. Cook,1
+L. Cook,A. Surman,1
+R. Fraser,S. Francis,1
+A. Surman,C. Wilson,1
+A. Surman,M. Pugh,1
+M. Pugh,C. Daniels,1
+J. King,A. Surman,1

@@ -1,0 +1,32 @@
+Source,Target,Weight
+A. Williams,P. Jagielka,3
+I. Gueye,W. Rooney,2
+W. Rooney,I. Gueye,2
+P. Jagielka,M. Schneiderlin,2
+D. Klaassen,M. Schneiderlin,2
+I. Gueye,A. Williams,2
+A. Williams,M. Keane,2
+M. Keane,I. Gueye,2
+M. Schneiderlin,D. Klaassen,1
+W. Rooney,Sandro,1
+I. Gueye,D. Calvert-Lewin,1
+L. Baines,Sandro,1
+J. Pickford,I. Gueye,1
+L. Baines,A. Williams,1
+Sandro,W. Rooney,1
+Sandro,A. Williams,1
+M. Keane,A. Williams,1
+M. Schneiderlin,L. Baines,1
+M. Schneiderlin,P. Jagielka,1
+P. Jagielka,I. Gueye,1
+D. Klaassen,J. Pickford,1
+I. Gueye,M. Keane,1
+W. Rooney,M. Keane,1
+P. Jagielka,A. Williams,1
+D. Calvert-Lewin,W. Rooney,1
+M. Schneiderlin,I. Gueye,1
+M. Keane,D. Calvert-Lewin,1
+A. Williams,D. Klaassen,1
+D. Calvert-Lewin,M. Keane,1
+P. Jagielka,D. Klaassen,1
+M. Keane,L. Baines,1

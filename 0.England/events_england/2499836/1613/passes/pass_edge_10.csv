@@ -1,0 +1,74 @@
+Source,Target,Weight
+J. Shelvey,M. Ritchie,5
+J. Shelvey,D. Yedlin,4
+Javi Manquillo,C. Clark,4
+F. Lejeune,J. Shelvey,4
+D. Yedlin,J. Murphy,4
+C. Clark,R. Elliot,3
+M. Ritchie,F. Lejeune,3
+I. Hayden,Javi Manquillo,3
+R. Elliot,F. Lejeune,3
+J. Murphy,J. Shelvey,3
+J. Murphy,D. Yedlin,3
+D. Yedlin,Joselu,2
+F. Lejeune,C. Clark,2
+I. Hayden,C. Clark,2
+C. Clark,D. Yedlin,2
+C. Clark,I. Hayden,2
+R. Elliot,Joselu,2
+D. Yedlin,I. Hayden,2
+I. Hayden,D. Yedlin,2
+M. Ritchie,C. Clark,2
+F. Lejeune,D. Yedlin,2
+M. Ritchie,J. Shelvey,2
+C. Clark,J. Shelvey,2
+J. Shelvey,D. Gayle,2
+Joselu,F. Lejeune,2
+Joselu,J. Murphy,2
+J. Murphy,C. Clark,2
+F. Lejeune,I. Hayden,2
+D. Gayle,J. Shelvey,2
+M. Ritchie,I. Hayden,2
+F. Lejeune,M. Ritchie,2
+Joselu,M. Ritchie,2
+D. Gayle,J. Murphy,1
+D. Yedlin,Javi Manquillo,1
+M. Ritchie,R. Elliot,1
+I. Hayden,R. Elliot,1
+Javi Manquillo,I. Hayden,1
+D. Yedlin,F. Lejeune,1
+C. Clark,F. Lejeune,1
+F. Lejeune,R. Elliot,1
+J. Shelvey,F. Lejeune,1
+D. Gayle,I. Hayden,1
+D. Yedlin,R. Elliot,1
+Joselu,J. Shelvey,1
+M. Ritchie,D. Gayle,1
+J. Murphy,F. Lejeune,1
+R. Elliot,C. Clark,1
+C. Clark,J. Murphy,1
+Joselu,D. Gayle,1
+Javi Manquillo,R. Elliot,1
+I. Hayden,F. Lejeune,1
+M. Ritchie,J. Murphy,1
+R. Aarons,Javi Manquillo,1
+D. Yedlin,J. Shelvey,1
+I. Hayden,R. Aarons,1
+Javi Manquillo,J. Shelvey,1
+J. Shelvey,Joselu,1
+C. Clark,Joselu,1
+J. Shelvey,I. Hayden,1
+D. Gayle,Joselu,1
+R. Elliot,J. Shelvey,1
+C. Clark,Javi Manquillo,1
+J. Shelvey,C. Clark,1
+I. Hayden,D. Gayle,1
+Javi Manquillo,Joselu,1
+D. Gayle,F. Lejeune,1
+F. Lejeune,Joselu,1
+D. Yedlin,M. Ritchie,1
+Joselu,Javi Manquillo,1
+R. Elliot,M. Ritchie,1
+C. Clark,M. Ritchie,1
+J. Shelvey,J. Murphy,1
+J. Shelvey,Javi Manquillo,1

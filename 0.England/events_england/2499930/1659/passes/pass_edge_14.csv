@@ -1,0 +1,15 @@
+Source,Target,Weight
+H. Arter,N. Ak\u00e9,2
+N. Ak\u00e9,C. Daniels,2
+B. Afobe,H. Arter,1
+A. Smith,H. Arter,1
+S. Cook,S. Francis,1
+L. Cook,A. Smith,1
+S. Francis,H. Arter,1
+H. Arter,B. Afobe,1
+C. Daniels,L. Cook,1
+C. Wilson,B. Afobe,1
+S. Francis,B. Afobe,1
+B. Afobe,C. Wilson,1
+B. Afobe,S. Cook,1
+C. Daniels,A. Smith,1

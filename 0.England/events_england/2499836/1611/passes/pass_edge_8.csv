@@ -1,0 +1,47 @@
+Source,Target,Weight
+A. Young,N. Mati\u0107,5
+A. Martial,A. Young,4
+P. Pogba,R. Lukaku,3
+R. Lukaku,N. Mati\u0107,3
+A. Young,A. Martial,3
+C. Smalling,A. Young,3
+A. Young,Juan Mata,3
+Juan Mata,A. Martial,3
+Juan Mata,A. Young,3
+N. Mati\u0107,A. Martial,2
+A. Martial,Juan Mata,2
+M. Rashford,A. Martial,2
+A. Martial,M. Rashford,2
+M. Rashford,A. Young,2
+N. Mati\u0107,P. Pogba,2
+M. Rashford,P. Pogba,2
+P. Pogba,Juan Mata,1
+A. Martial,R. Lukaku,1
+P. Pogba,A. Young,1
+N. Mati\u0107,A. Young,1
+N. Mati\u0107,Juan Mata,1
+David de Gea,P. Pogba,1
+N. Mati\u0107,M. Rashford,1
+A. Young,M. Rashford,1
+V. Lindel\u00f6f,C. Smalling,1
+M. Rashford,N. Mati\u0107,1
+V. Lindel\u00f6f,A. Young,1
+R. Lukaku,M. Rashford,1
+N. Mati\u0107,A. Valencia,1
+P. Pogba,M. Rashford,1
+N. Mati\u0107,V. Lindel\u00f6f,1
+M. Rashford,Juan Mata,1
+V. Lindel\u00f6f,A. Valencia,1
+P. Pogba,A. Valencia,1
+V. Lindel\u00f6f,M. Rashford,1
+Juan Mata,V. Lindel\u00f6f,1
+P. Pogba,C. Smalling,1
+R. Lukaku,Juan Mata,1
+A. Young,V. Lindel\u00f6f,1
+A. Young,R. Lukaku,1
+A. Valencia,V. Lindel\u00f6f,1
+A. Valencia,P. Pogba,1
+A. Martial,David de Gea,1
+A. Young,C. Smalling,1
+Juan Mata,M. Rashford,1
+Juan Mata,P. Pogba,1

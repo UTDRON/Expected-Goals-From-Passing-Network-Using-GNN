@@ -1,0 +1,58 @@
+Source,Target,Weight
+D. Janmaat,A. Carrillo,8
+A. Carrillo,D. Janmaat,4
+B. Watson,C. Kabasele,3
+C. Kabasele,A. Carrillo,3
+J. Holebas,Richarlison,3
+T. Cleverley,D. Janmaat,3
+B. Watson,T. Cleverley,3
+A. Carrillo,C. Kabasele,3
+A. Carrillo,T. Cleverley,3
+A. Carrillo,B. Watson,2
+A. Carrillo,A. Gray,2
+Gomes,A. Gray,2
+C. Kabasele,D. Janmaat,2
+T. Cleverley,A. Carrillo,2
+A. Gray,S. Pr\u00f6dl,2
+C. Kabasele,Gomes,2
+Richarlison,R. Pereyra,2
+A. Gray,B. Watson,2
+C. Kabasele,A. Gray,2
+A. Gray,C. Kabasele,2
+R. Pereyra,D. Janmaat,2
+D. Janmaat,Gomes,2
+C. Kabasele,B. Watson,1
+Gomes,T. Cleverley,1
+B. Watson,Richarlison,1
+A. Gray,R. Pereyra,1
+Gomes,A. Carrillo,1
+A. Carrillo,J. Holebas,1
+D. Janmaat,T. Cleverley,1
+T. Cleverley,J. Holebas,1
+Richarlison,B. Watson,1
+T. Cleverley,R. Pereyra,1
+R. Pereyra,Richarlison,1
+T. Cleverley,Gomes,1
+A. Gray,D. Janmaat,1
+B. Watson,J. Holebas,1
+S. Pr\u00f6dl,J. Holebas,1
+Richarlison,A. Gray,1
+J. Holebas,A. Gray,1
+T. Cleverley,B. Watson,1
+J. Holebas,T. Cleverley,1
+D. Janmaat,A. Gray,1
+A. Gray,J. Holebas,1
+S. Pr\u00f6dl,A. Carrillo,1
+Gomes,B. Watson,1
+B. Watson,D. Janmaat,1
+R. Pereyra,T. Cleverley,1
+D. Janmaat,C. Kabasele,1
+B. Watson,R. Pereyra,1
+B. Watson,S. Pr\u00f6dl,1
+R. Pereyra,B. Watson,1
+A. Carrillo,R. Pereyra,1
+S. Pr\u00f6dl,B. Watson,1
+Richarlison,T. Cleverley,1
+T. Cleverley,C. Kabasele,1
+R. Pereyra,A. Carrillo,1
+T. Cleverley,Richarlison,1

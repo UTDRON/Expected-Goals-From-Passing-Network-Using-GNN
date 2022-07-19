@@ -1,0 +1,26 @@
+Source,Target,Weight
+J. Gu\u00f0munds\u00adson,P. Bardsley,3
+P. Bardsley,J. Gu\u00f0munds\u00adson,3
+S. Arfield,N. Wells,2
+J. Cork,P. Bardsley,2
+K. Long,N. Pope,2
+P. Bardsley,N. Wells,2
+S. Vokes,P. Bardsley,1
+N. Pope,N. Wells,1
+N. Pope,B. Mee,1
+N. Wells,K. Long,1
+S. Defour,J. Gu\u00f0munds\u00adson,1
+B. Mee,J. Cork,1
+P. Bardsley,S. Vokes,1
+B. Mee,S. Vokes,1
+P. Bardsley,S. Defour,1
+S. Vokes,B. Mee,1
+N. Wells,N. Pope,1
+N. Pope,S. Vokes,1
+N. Wells,S. Arfield,1
+J. Gu\u00f0munds\u00adson,K. Long,1
+S. Defour,B. Mee,1
+B. Mee,S. Arfield,1
+C. Taylor,S. Defour,1
+N. Wells,J. Cork,1
+N. Wells,P. Bardsley,1

@@ -1,0 +1,19 @@
+Source,Target,Weight
+J. Gomez,J. Matip,3
+J. Gomez,J. Milner,3
+J. Milner,J. Gomez,2
+J. Matip,J. Gomez,2
+J. Matip,R. Klavan,2
+Philippe Coutinho,J. Henderson,2
+R. Klavan,Alberto Moreno,2
+R. Klavan,Philippe Coutinho,1
+Mohamed Salah,J. Matip,1
+R. Klavan,J. Gomez,1
+J. Henderson,J. Gomez,1
+J. Matip,D. Sturridge,1
+J. Milner,R. Klavan,1
+Alberto Moreno,J. Henderson,1
+J. Henderson,Mohamed Salah,1
+D. Sturridge,Mohamed Salah,1
+J. Henderson,J. Matip,1
+Alberto Moreno,R. Klavan,1

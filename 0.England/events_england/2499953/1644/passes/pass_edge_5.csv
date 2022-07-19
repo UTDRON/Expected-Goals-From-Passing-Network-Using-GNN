@@ -1,0 +1,93 @@
+Source,Target,Weight
+M. Zeegelaar,Richarlison,8
+D. Janmaat,B. Watson,7
+Richarlison,M. Zeegelaar,7
+B. Watson,M. Zeegelaar,7
+M. Zeegelaar,B. Watson,6
+M. Zeegelaar,A. Doucour\u00e9,6
+B. Watson,A. Carrillo,5
+C. Kabasele,M. Zeegelaar,5
+M. Wagu\u00e9,D. Janmaat,5
+B. Watson,A. Doucour\u00e9,5
+C. Kabasele,O. Karnezis,4
+A. Doucour\u00e9,B. Watson,4
+B. Watson,Richarlison,4
+R. Pereyra,A. Carrillo,4
+Richarlison,A. Doucour\u00e9,4
+D. Janmaat,A. Carrillo,4
+A. Doucour\u00e9,D. Janmaat,4
+A. Carrillo,B. Watson,4
+M. Zeegelaar,C. Kabasele,4
+A. Carrillo,M. Wagu\u00e9,4
+R. Pereyra,Richarlison,4
+A. Doucour\u00e9,Richarlison,3
+A. Doucour\u00e9,A. Carrillo,3
+D. Janmaat,A. Doucour\u00e9,3
+A. Doucour\u00e9,C. Kabasele,3
+A. Carrillo,T. Deeney,3
+T. Deeney,C. Kabasele,3
+A. Carrillo,D. Janmaat,3
+O. Karnezis,B. Watson,3
+A. Doucour\u00e9,R. Pereyra,3
+R. Pereyra,D. Janmaat,3
+A. Doucour\u00e9,M. Zeegelaar,3
+M. Zeegelaar,T. Deeney,2
+A. Carrillo,C. Kabasele,2
+C. Kabasele,Richarlison,2
+M. Wagu\u00e9,O. Karnezis,2
+R. Pereyra,A. Doucour\u00e9,2
+C. Kabasele,D. Janmaat,2
+Richarlison,T. Deeney,2
+B. Watson,C. Kabasele,2
+O. Karnezis,A. Doucour\u00e9,2
+T. Deeney,R. Pereyra,2
+Richarlison,D. Janmaat,2
+D. Janmaat,M. Wagu\u00e9,2
+T. Deeney,Richarlison,2
+A. Carrillo,A. Doucour\u00e9,2
+B. Watson,M. Wagu\u00e9,2
+B. Watson,O. Karnezis,2
+A. Carrillo,R. Pereyra,2
+C. Kabasele,B. Watson,2
+T. Deeney,B. Watson,2
+Richarlison,C. Kabasele,2
+M. Wagu\u00e9,T. Deeney,2
+A. Doucour\u00e9,M. Wagu\u00e9,2
+Richarlison,B. Watson,2
+A. Carrillo,M. Zeegelaar,2
+Richarlison,M. Wagu\u00e9,2
+D. Janmaat,T. Deeney,2
+B. Watson,R. Pereyra,2
+M. Wagu\u00e9,C. Kabasele,2
+D. Janmaat,O. Karnezis,2
+D. Janmaat,M. Zeegelaar,2
+T. Deeney,A. Carrillo,2
+Richarlison,R. Pereyra,2
+R. Pereyra,C. Kabasele,2
+C. Kabasele,T. Deeney,1
+A. Doucour\u00e9,T. Deeney,1
+S. Pr\u00f6dl,D. Janmaat,1
+O. Karnezis,M. Wagu\u00e9,1
+D. Janmaat,S. Pr\u00f6dl,1
+T. Deeney,D. Janmaat,1
+M. Wagu\u00e9,A. Doucour\u00e9,1
+M. Wagu\u00e9,R. Pereyra,1
+T. Deeney,M. Wagu\u00e9,1
+T. Deeney,M. Zeegelaar,1
+S. Pr\u00f6dl,T. Deeney,1
+M. Zeegelaar,D. Janmaat,1
+B. Watson,T. Deeney,1
+C. Kabasele,S. Pr\u00f6dl,1
+M. Wagu\u00e9,B. Watson,1
+O. Karnezis,R. Pereyra,1
+Richarlison,A. Carrillo,1
+M. Wagu\u00e9,A. Carrillo,1
+C. Kabasele,M. Wagu\u00e9,1
+O. Karnezis,M. Zeegelaar,1
+D. Janmaat,R. Pereyra,1
+O. Karnezis,Richarlison,1
+C. Kabasele,A. Carrillo,1
+C. Kabasele,A. Doucour\u00e9,1
+M. Zeegelaar,R. Pereyra,1
+B. Watson,D. Janmaat,1
+O. Karnezis,A. Carrillo,1

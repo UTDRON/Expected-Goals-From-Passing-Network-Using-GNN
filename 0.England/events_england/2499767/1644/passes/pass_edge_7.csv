@@ -1,0 +1,44 @@
+Source,Target,Weight
+A. Doucour\u00e9,R. Pereyra,3
+Richarlison,J. Holebas,3
+J. Holebas,Richarlison,3
+A. Doucour\u00e9,A. Carrillo,2
+R. Pereyra,D. Janmaat,2
+A. Doucour\u00e9,Richarlison,2
+D. Janmaat,A. Mariappa,2
+Richarlison,C. Kabasele,2
+R. Pereyra,Richarlison,2
+A. Mariappa,C. Kabasele,2
+C. Kabasele,J. Holebas,2
+C. Kabasele,A. Doucour\u00e9,2
+E. Capoue,A. Doucour\u00e9,1
+A. Carrillo,A. Gray,1
+A. Mariappa,A. Doucour\u00e9,1
+A. Doucour\u00e9,C. Kabasele,1
+A. Gray,A. Carrillo,1
+Richarlison,Gomes,1
+Richarlison,A. Mariappa,1
+N. Chalobah,Richarlison,1
+A. Doucour\u00e9,E. Capoue,1
+N. Chalobah,R. Pereyra,1
+J. Holebas,R. Pereyra,1
+D. Janmaat,C. Kabasele,1
+A. Carrillo,A. Doucour\u00e9,1
+Gomes,A. Doucour\u00e9,1
+A. Carrillo,Richarlison,1
+D. Janmaat,Gomes,1
+Richarlison,D. Janmaat,1
+A. Gray,Richarlison,1
+Richarlison,A. Doucour\u00e9,1
+A. Mariappa,D. Janmaat,1
+Gomes,Richarlison,1
+C. Kabasele,A. Mariappa,1
+Richarlison,R. Pereyra,1
+N. Chalobah,D. Janmaat,1
+A. Gray,A. Mariappa,1
+R. Pereyra,N. Chalobah,1
+Richarlison,N. Chalobah,1
+A. Mariappa,A. Gray,1
+R. Pereyra,A. Doucour\u00e9,1
+D. Janmaat,A. Gray,1
+J. Holebas,A. Doucour\u00e9,1

@@ -1,0 +1,79 @@
+Source,Target,Weight
+Fernandinho,Danilo,10
+Danilo,Fernandinho,6
+K. De Bruyne,Bernardo Silva,6
+F. Delph,Fernandinho,5
+David Silva,Fernandinho,5
+Bernardo Silva,K. De Bruyne,5
+Fernandinho,David Silva,5
+K. De Bruyne,K. Walker,4
+K. Walker,K. De Bruyne,4
+K. De Bruyne,Danilo,4
+Danilo,David Silva,4
+Danilo,N. Otamendi,3
+Danilo,K. De Bruyne,3
+Bernardo Silva,K. Walker,3
+Fernandinho,Bernardo Silva,3
+L. San\u00e9,F. Delph,3
+Danilo,L. San\u00e9,3
+N. Otamendi,Danilo,2
+David Silva,L. San\u00e9,2
+David Silva,K. De Bruyne,2
+David Silva,F. Delph,2
+S. Ag\u00fcero,N. Otamendi,2
+K. Walker,Danilo,2
+F. Delph,L. San\u00e9,2
+N. Otamendi,S. Ag\u00fcero,2
+K. De Bruyne,David Silva,2
+Fernandinho,S. Ag\u00fcero,2
+Fernandinho,K. De Bruyne,2
+L. San\u00e9,David Silva,2
+S. Ag\u00fcero,K. De Bruyne,2
+L. San\u00e9,Fernandinho,2
+K. Walker,David Silva,2
+Bernardo Silva,Fernandinho,2
+K. Walker,Bernardo Silva,2
+N. Otamendi,K. De Bruyne,2
+N. Otamendi,Ederson,2
+Ederson,N. Otamendi,2
+J. Stones,K. Walker,2
+N. Otamendi,J. Stones,2
+K. De Bruyne,Fernandinho,1
+L. San\u00e9,S. Ag\u00fcero,1
+F. Delph,Danilo,1
+L. San\u00e9,Danilo,1
+K. De Bruyne,F. Delph,1
+N. Otamendi,Fernandinho,1
+K. Walker,J. Stones,1
+K. Walker,N. Otamendi,1
+J. Stones,David Silva,1
+Ederson,K. De Bruyne,1
+N. Otamendi,K. Walker,1
+Fernandinho,F. Delph,1
+Danilo,Bernardo Silva,1
+Fernandinho,K. Walker,1
+Fernandinho,N. Otamendi,1
+L. San\u00e9,N. Otamendi,1
+David Silva,Danilo,1
+David Silva,K. Walker,1
+Bernardo Silva,L. San\u00e9,1
+N. Otamendi,F. Delph,1
+K. De Bruyne,J. Stones,1
+David Silva,J. Stones,1
+K. Walker,Fernandinho,1
+K. De Bruyne,L. San\u00e9,1
+S. Ag\u00fcero,Fernandinho,1
+K. De Bruyne,N. Otamendi,1
+Bernardo Silva,S. Ag\u00fcero,1
+J. Stones,Fernandinho,1
+J. Stones,N. Otamendi,1
+Fernandinho,L. San\u00e9,1
+David Silva,Bernardo Silva,1
+Ederson,K. Walker,1
+F. Delph,S. Ag\u00fcero,1
+Danilo,Ederson,1
+David Silva,N. Otamendi,1
+K. Walker,Ederson,1
+S. Ag\u00fcero,F. Delph,1
+Bernardo Silva,Danilo,1
+Danilo,K. Walker,1

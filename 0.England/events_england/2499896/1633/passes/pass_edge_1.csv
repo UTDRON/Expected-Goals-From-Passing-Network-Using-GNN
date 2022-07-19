@@ -1,0 +1,26 @@
+Source,Target,Weight
+M. Noble,M. Antonio,3
+M. Arnautovi\u0107,M. Noble,2
+M. Antonio,M. Arnautovi\u0107,2
+J. Collins,M. Noble,2
+M. Noble,Adri\u00e1n,1
+M. Arnautovi\u0107,J. Collins,1
+A. Ogbonna,M. Noble,1
+M. Lanzini,Pedro Obiang,1
+A. Cresswell,A. Ogbonna,1
+M. Noble,M. Lanzini,1
+M. Noble,A. Masuaku,1
+M. Antonio,P. Zabaleta,1
+Adri\u00e1n,A. Cresswell,1
+Pedro Obiang,A. Cresswell,1
+P. Zabaleta,M. Arnautovi\u0107,1
+A. Masuaku,M. Arnautovi\u0107,1
+A. Cresswell,M. Lanzini,1
+M. Antonio,J. Collins,1
+A. Masuaku,M. Noble,1
+M. Arnautovi\u0107,P. Zabaleta,1
+A. Cresswell,A. Masuaku,1
+M. Lanzini,P. Zabaleta,1
+M. Lanzini,A. Masuaku,1
+P. Zabaleta,M. Lanzini,1
+P. Zabaleta,M. Antonio,1

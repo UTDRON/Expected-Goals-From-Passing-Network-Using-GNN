@@ -1,0 +1,93 @@
+Source,Target,Weight
+J. L\u00f6ssl,L. Depoitre,14
+C. L\u00f6we,P. Billing,9
+P. Billing,T. Kongolo,8
+A. Mooy,L. Depoitre,8
+L. Depoitre,P. Billing,8
+T. Smith,M. J\u00f8rgensen,8
+L. Depoitre,A. Mooy,7
+P. Billing,C. L\u00f6we,6
+P. Billing,A. Mooy,6
+R. van La Parra,J. Hogg,6
+A. Mooy,T. Smith,6
+L. Depoitre,J. Hogg,6
+J. Hogg,A. Mooy,5
+R. van La Parra,C. L\u00f6we,5
+T. Kongolo,P. Billing,5
+J. Hogg,P. Billing,5
+A. Mooy,J. Hogg,5
+A. Mooy,R. van La Parra,5
+R. van La Parra,A. Mooy,5
+L. Depoitre,R. van La Parra,4
+R. van La Parra,P. Billing,4
+M. J\u00f8rgensen,T. Smith,4
+J. Hogg,C. L\u00f6we,4
+M. J\u00f8rgensen,J. Hogg,4
+C. L\u00f6we,C. Schindler,4
+J. Hogg,R. van La Parra,4
+C. Schindler,C. L\u00f6we,4
+J. Hogg,T. Smith,4
+M. J\u00f8rgensen,A. Mooy,4
+P. Billing,J. L\u00f6ssl,4
+T. Kongolo,J. L\u00f6ssl,3
+C. L\u00f6we,L. Depoitre,3
+C. Schindler,M. J\u00f8rgensen,3
+T. Smith,A. Mooy,3
+T. Smith,R. van La Parra,3
+L. Depoitre,T. Smith,3
+T. Kongolo,C. L\u00f6we,3
+J. Hogg,L. Depoitre,3
+M. J\u00f8rgensen,C. L\u00f6we,3
+C. L\u00f6we,J. Hogg,3
+L. Depoitre,T. Kongolo,3
+A. Mooy,M. J\u00f8rgensen,3
+P. Billing,T. Smith,3
+T. Smith,J. L\u00f6ssl,3
+M. J\u00f8rgensen,J. L\u00f6ssl,3
+P. Billing,L. Depoitre,3
+J. Hogg,M. J\u00f8rgensen,3
+A. Mooy,C. Schindler,3
+J. L\u00f6ssl,C. L\u00f6we,2
+T. Smith,J. Hogg,2
+T. Kongolo,C. Schindler,2
+C. L\u00f6we,R. van La Parra,2
+M. J\u00f8rgensen,P. Billing,2
+C. Schindler,J. L\u00f6ssl,2
+L. Depoitre,M. J\u00f8rgensen,2
+P. Billing,C. Schindler,2
+A. Mooy,T. Kongolo,2
+C. L\u00f6we,T. Smith,2
+T. Smith,L. Depoitre,2
+C. L\u00f6we,A. Mooy,2
+P. Billing,M. J\u00f8rgensen,2
+M. J\u00f8rgensen,C. Schindler,2
+R. van La Parra,T. Smith,2
+M. J\u00f8rgensen,R. van La Parra,2
+R. van La Parra,M. J\u00f8rgensen,2
+J. L\u00f6ssl,R. van La Parra,2
+P. Billing,J. Hogg,2
+A. Mooy,P. Billing,2
+C. L\u00f6we,J. L\u00f6ssl,2
+T. Smith,P. Billing,2
+T. Kongolo,R. van La Parra,2
+T. Kongolo,A. Mooy,2
+C. L\u00f6we,T. Kongolo,2
+P. Billing,R. van La Parra,1
+C. Schindler,A. Mooy,1
+T. Smith,T. Kongolo,1
+J. Hogg,J. L\u00f6ssl,1
+J. L\u00f6ssl,T. Kongolo,1
+A. Mooy,C. L\u00f6we,1
+L. Depoitre,C. L\u00f6we,1
+A. Mooy,J. L\u00f6ssl,1
+R. van La Parra,L. Depoitre,1
+C. Schindler,T. Kongolo,1
+C. Schindler,J. Hogg,1
+M. J\u00f8rgensen,L. Depoitre,1
+C. Schindler,R. van La Parra,1
+T. Smith,C. L\u00f6we,1
+J. L\u00f6ssl,A. Mooy,1
+C. L\u00f6we,M. J\u00f8rgensen,1
+C. Schindler,T. Smith,1
+R. van La Parra,J. L\u00f6ssl,1
+T. Kongolo,M. J\u00f8rgensen,1

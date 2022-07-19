@@ -1,0 +1,65 @@
+Source,Target,Weight
+N. Mati\u0107,A. Young,8
+Ander Herrera,A. Valencia,7
+A. Valencia,Ander Herrera,6
+Ander Herrera,N. Mati\u0107,5
+N. Mati\u0107,P. Pogba,5
+A. Young,N. Mati\u0107,4
+A. Young,P. Pogba,4
+N. Mati\u0107,A. S\u00e1nchez,4
+A. S\u00e1nchez,Ander Herrera,3
+V. Lindel\u00f6f,P. Pogba,3
+C. Smalling,A. Valencia,3
+P. Pogba,N. Mati\u0107,3
+C. Smalling,Ander Herrera,3
+A. Valencia,N. Mati\u0107,3
+A. Young,V. Lindel\u00f6f,3
+A. Valencia,J. Lingard,2
+J. Lingard,A. S\u00e1nchez,2
+A. Young,A. S\u00e1nchez,2
+V. Lindel\u00f6f,C. Smalling,2
+C. Smalling,V. Lindel\u00f6f,2
+A. S\u00e1nchez,C. Smalling,2
+Ander Herrera,A. S\u00e1nchez,2
+A. Valencia,C. Smalling,2
+P. Pogba,C. Smalling,2
+Ander Herrera,J. Lingard,2
+P. Pogba,V. Lindel\u00f6f,2
+V. Lindel\u00f6f,Ander Herrera,2
+P. Pogba,A. Young,2
+J. Lingard,Ander Herrera,2
+A. S\u00e1nchez,A. Young,2
+A. S\u00e1nchez,J. Lingard,2
+V. Lindel\u00f6f,David de Gea,2
+David de Gea,N. Mati\u0107,2
+P. Pogba,A. S\u00e1nchez,1
+V. Lindel\u00f6f,J. Lingard,1
+P. Pogba,M. Rashford,1
+V. Lindel\u00f6f,N. Mati\u0107,1
+J. Lingard,N. Mati\u0107,1
+M. Rashford,N. Mati\u0107,1
+M. Rashford,V. Lindel\u00f6f,1
+C. Smalling,P. Pogba,1
+J. Lingard,P. Pogba,1
+C. Smalling,A. Young,1
+J. Lingard,V. Lindel\u00f6f,1
+N. Mati\u0107,Ander Herrera,1
+J. Lingard,A. Valencia,1
+David de Gea,C. Smalling,1
+C. Smalling,J. Lingard,1
+Ander Herrera,C. Smalling,1
+P. Pogba,Ander Herrera,1
+J. Lingard,C. Smalling,1
+C. Smalling,David de Gea,1
+N. Mati\u0107,C. Smalling,1
+N. Mati\u0107,V. Lindel\u00f6f,1
+P. Pogba,A. Valencia,1
+P. Pogba,R. Lukaku,1
+Ander Herrera,V. Lindel\u00f6f,1
+R. Lukaku,Ander Herrera,1
+A. Valencia,A. Young,1
+Ander Herrera,P. Pogba,1
+A. S\u00e1nchez,A. Valencia,1
+A. S\u00e1nchez,N. Mati\u0107,1
+P. Pogba,J. Lingard,1
+N. Mati\u0107,M. Rashford,1

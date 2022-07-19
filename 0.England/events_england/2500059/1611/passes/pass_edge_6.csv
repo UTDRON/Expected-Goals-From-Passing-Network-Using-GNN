@@ -1,0 +1,47 @@
+Source,Target,Weight
+C. Smalling,P. Jones,5
+Ander Herrera,M. Darmian,4
+Ander Herrera,A. Martial,3
+L. Shaw,P. Pogba,3
+P. Jones,Ander Herrera,3
+A. Martial,P. Pogba,2
+P. Jones,C. Smalling,2
+P. Pogba,C. Smalling,2
+M. Rashford,J. Lingard,2
+M. Darmian,Ander Herrera,2
+L. Shaw,A. Martial,2
+P. Pogba,M. Rashford,2
+P. Pogba,L. Shaw,2
+P. Jones,M. Rashford,1
+J. Lingard,P. Pogba,1
+M. Darmian,M. Fellaini,1
+M. Fellaini,J. Lingard,1
+J. Lingard,Ander Herrera,1
+P. Pogba,P. Jones,1
+Ander Herrera,P. Pogba,1
+P. Jones,P. Pogba,1
+David de Gea,Ander Herrera,1
+C. Smalling,David de Gea,1
+A. Martial,C. Smalling,1
+A. Martial,Ander Herrera,1
+Ander Herrera,L. Shaw,1
+L. Shaw,M. Darmian,1
+Ander Herrera,C. Smalling,1
+P. Jones,L. Shaw,1
+J. Lingard,L. Shaw,1
+M. Darmian,L. Shaw,1
+M. Rashford,Ander Herrera,1
+P. Pogba,David de Gea,1
+L. Shaw,P. Jones,1
+David de Gea,P. Jones,1
+A. Martial,M. Fellaini,1
+P. Pogba,Ander Herrera,1
+J. Lingard,M. Rashford,1
+P. Jones,M. Fellaini,1
+C. Smalling,Ander Herrera,1
+M. Rashford,P. Pogba,1
+P. Pogba,J. Lingard,1
+M. Fellaini,C. Smalling,1
+C. Smalling,L. Shaw,1
+M. Fellaini,P. Pogba,1
+M. Darmian,C. Smalling,1

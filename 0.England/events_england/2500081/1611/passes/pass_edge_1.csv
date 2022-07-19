@@ -1,0 +1,86 @@
+Source,Target,Weight
+M. Rojo,C. Smalling,8
+M. Rojo,A. Young,7
+N. Mati\u0107,M. Fellaini,7
+N. Mati\u0107,M. Rojo,6
+M. Fellaini,M. Darmian,6
+Juan Mata,M. Darmian,6
+M. Fellaini,N. Mati\u0107,6
+P. Pogba,M. Rojo,6
+C. Smalling,M. Fellaini,5
+A. Young,M. Rojo,5
+A. Young,P. Pogba,5
+M. Darmian,N. Mati\u0107,5
+David de Gea,M. Rojo,5
+N. Mati\u0107,C. Smalling,5
+M. Rojo,N. Mati\u0107,5
+A. Martial,P. Pogba,5
+M. Fellaini,Juan Mata,5
+P. Pogba,M. Fellaini,5
+M. Rojo,P. Pogba,4
+P. Pogba,A. Martial,4
+M. Darmian,M. Fellaini,4
+N. Mati\u0107,P. Pogba,4
+M. Fellaini,P. Pogba,4
+M. Fellaini,A. Martial,4
+A. Martial,M. Fellaini,3
+A. Young,David de Gea,3
+P. Pogba,N. Mati\u0107,3
+Juan Mata,P. Pogba,3
+C. Smalling,M. Rojo,3
+M. Darmian,Juan Mata,3
+N. Mati\u0107,A. Young,3
+C. Smalling,David de Gea,3
+Juan Mata,M. Fellaini,3
+A. Martial,Juan Mata,3
+P. Pogba,A. Young,3
+C. Smalling,M. Darmian,3
+A. Young,N. Mati\u0107,3
+A. Martial,A. Young,3
+C. Smalling,Juan Mata,2
+C. Smalling,N. Mati\u0107,2
+M. Fellaini,C. Smalling,2
+David de Gea,M. Fellaini,2
+M. Rashford,N. Mati\u0107,2
+A. Young,Juan Mata,2
+M. Darmian,M. Rashford,2
+M. Fellaini,A. Young,2
+M. Fellaini,M. Rashford,2
+Juan Mata,A. Martial,2
+M. Darmian,C. Smalling,2
+M. Rashford,M. Fellaini,2
+N. Mati\u0107,A. Martial,2
+P. Pogba,C. Smalling,2
+M. Rashford,A. Young,2
+C. Smalling,A. Martial,2
+M. Rashford,Juan Mata,2
+P. Pogba,M. Rashford,2
+A. Young,M. Rashford,2
+Juan Mata,M. Rashford,2
+David de Gea,P. Pogba,1
+A. Young,A. Martial,1
+David de Gea,N. Mati\u0107,1
+M. Rashford,A. Martial,1
+A. Martial,M. Rojo,1
+A. Martial,M. Darmian,1
+N. Mati\u0107,Juan Mata,1
+M. Rashford,M. Darmian,1
+M. Rojo,David de Gea,1
+M. Rashford,M. Rojo,1
+M. Darmian,P. Pogba,1
+C. Smalling,A. Young,1
+M. Rashford,C. Smalling,1
+Juan Mata,C. Smalling,1
+M. Rojo,M. Rashford,1
+M. Rojo,A. Martial,1
+P. Pogba,Juan Mata,1
+David de Gea,M. Rashford,1
+A. Martial,N. Mati\u0107,1
+M. Rashford,P. Pogba,1
+N. Mati\u0107,David de Gea,1
+P. Pogba,M. Darmian,1
+M. Fellaini,David de Gea,1
+Juan Mata,N. Mati\u0107,1
+M. Rojo,M. Fellaini,1
+Juan Mata,David de Gea,1
+M. Darmian,M. Rojo,1

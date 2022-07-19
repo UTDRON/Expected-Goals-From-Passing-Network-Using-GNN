@@ -1,0 +1,23 @@
+Source,Target,Weight
+J. Allen,E. Pieters,2
+R. Shawcross,K. Wimmer,1
+E. Pieters,J. Allen,1
+E. Pieters,Ramadan Sobhi,1
+J. Butland,E. Pieters,1
+E. Choupo-Moting,K. Wimmer,1
+E. Choupo-Moting,M. Diouf,1
+K. Wimmer,J. Butland,1
+Ramadan Sobhi,J. Allen,1
+R. Shawcross,J. Allen,1
+Ramadan Sobhi,R. Shawcross,1
+M. Diouf,G. Cameron,1
+J. Allen,R. Shawcross,1
+E. Pieters,E. Choupo-Moting,1
+E. Pieters,K. Wimmer,1
+M. Diouf,E. Choupo-Moting,1
+G. Cameron,P. Crouch,1
+R. Shawcross,M. Diouf,1
+K. Wimmer,R. Shawcross,1
+K. Wimmer,Ramadan Sobhi,1
+P. Crouch,E. Pieters,1
+R. Shawcross,E. Choupo-Moting,1

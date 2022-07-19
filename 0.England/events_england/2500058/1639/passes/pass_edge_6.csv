@@ -1,0 +1,65 @@
+Source,Target,Weight
+E. Pieters,Ramadan Sobhi,5
+K. Zouma,R. Shawcross,5
+K. Zouma,B. N'Diaye,4
+R. Shawcross,J. Butland,4
+Ramadan Sobhi,E. Pieters,4
+M. Bauer,K. Zouma,4
+R. Shawcross,J. Allen,3
+E. Pieters,B. Martins Indi,3
+E. Pieters,J. Allen,3
+J. Butland,M. Diouf,3
+B. N'Diaye,J. Allen,3
+B. Martins Indi,E. Pieters,3
+R. Shawcross,K. Zouma,3
+J. Allen,K. Zouma,3
+J. Allen,X. Shaqiri,3
+J. Allen,E. Pieters,3
+X. Shaqiri,J. Allen,2
+K. Zouma,M. Bauer,2
+M. Diouf,J. Allen,2
+E. Pieters,B. N'Diaye,2
+J. Allen,B. N'Diaye,2
+B. N'Diaye,R. Shawcross,2
+M. Diouf,E. Pieters,2
+J. Allen,R. Shawcross,2
+B. N'Diaye,B. Martins Indi,2
+R. Shawcross,M. Bauer,2
+B. Martins Indi,B. N'Diaye,2
+B. Martins Indi,R. Shawcross,2
+E. Pieters,M. Diouf,1
+J. Allen,B. Martins Indi,1
+B. Martins Indi,J. Allen,1
+Ramadan Sobhi,K. Zouma,1
+J. Butland,K. Zouma,1
+X. Shaqiri,E. Pieters,1
+K. Zouma,J. Butland,1
+R. Shawcross,B. Martins Indi,1
+X. Shaqiri,R. Shawcross,1
+B. N'Diaye,X. Shaqiri,1
+M. Diouf,R. Shawcross,1
+E. Pieters,X. Shaqiri,1
+R. Shawcross,X. Shaqiri,1
+J. Allen,M. Bauer,1
+J. Allen,Ramadan Sobhi,1
+Ramadan Sobhi,B. Martins Indi,1
+E. Pieters,R. Shawcross,1
+K. Zouma,J. Allen,1
+M. Bauer,E. Pieters,1
+M. Diouf,B. N'Diaye,1
+B. N'Diaye,K. Zouma,1
+B. Martins Indi,K. Zouma,1
+M. Bauer,M. Diouf,1
+X. Shaqiri,Ramadan Sobhi,1
+M. Bauer,X. Shaqiri,1
+E. Pieters,M. Bauer,1
+B. N'Diaye,M. Bauer,1
+B. N'Diaye,Ramadan Sobhi,1
+K. Zouma,M. Diouf,1
+B. N'Diaye,E. Pieters,1
+X. Shaqiri,K. Zouma,1
+Ramadan Sobhi,J. Allen,1
+J. Butland,E. Pieters,1
+K. Zouma,E. Pieters,1
+X. Shaqiri,B. Martins Indi,1
+Ramadan Sobhi,M. Diouf,1

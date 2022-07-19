@@ -1,0 +1,31 @@
+Source,Target,Weight
+Richarlison,D. Janmaat,3
+D. Janmaat,Richarlison,3
+Gomes,A. Mariappa,2
+Richarlison,A. Doucour\u00e9,1
+D. Janmaat,Gomes,1
+C. Cathcart,A. Mariappa,1
+Richarlison,N. Chalobah,1
+C. Cathcart,Richarlison,1
+J. Holebas,A. Doucour\u00e9,1
+R. Pereyra,D. Janmaat,1
+R. Pereyra,Gomes,1
+Gomes,W. Hughes,1
+A. Mariappa,Richarlison,1
+A. Mariappa,W. Hughes,1
+A. Mariappa,T. Deeney,1
+C. Cathcart,Gomes,1
+A. Doucour\u00e9,R. Pereyra,1
+T. Deeney,C. Cathcart,1
+W. Hughes,D. Janmaat,1
+A. Mariappa,R. Pereyra,1
+R. Pereyra,J. Holebas,1
+A. Mariappa,C. Cathcart,1
+R. Pereyra,Richarlison,1
+N. Chalobah,C. Cathcart,1
+W. Hughes,R. Pereyra,1
+Richarlison,A. Mariappa,1
+D. Janmaat,A. Mariappa,1
+A. Mariappa,D. Janmaat,1
+J. Holebas,A. Mariappa,1
+D. Janmaat,J. Holebas,1

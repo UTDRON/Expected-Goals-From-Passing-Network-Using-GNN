@@ -1,0 +1,13 @@
+Source,Target,Weight
+E. Pieters,D. Fletcher,1
+E. Pieters,K. Wimmer,1
+D. Fletcher,K. Zouma,1
+G. Cameron,M. Diouf,1
+J. Allen,D. Fletcher,1
+D. Fletcher,J. Allen,1
+K. Wimmer,E. Pieters,1
+J. Allen,E. Pieters,1
+K. Wimmer,G. Cameron,1
+M. Diouf,J. Allen,1
+K. Zouma,M. Diouf,1
+J. Allen,K. Wimmer,1

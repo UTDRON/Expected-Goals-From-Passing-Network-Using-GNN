@@ -1,0 +1,26 @@
+Source,Target,Weight
+W. Morgan,H. Maguire,2
+D. Simpson,S. Okazaki,2
+S. Okazaki,M. Albrighton,2
+H. Maguire,W. Morgan,2
+H. Maguire,C. Fuchs,2
+S. Okazaki,K. Schmeichel,1
+M. Albrighton,C. Fuchs,1
+M. James,H. Maguire,1
+D. Simpson,W. Morgan,1
+W. Morgan,M. James,1
+M. Albrighton,H. Maguire,1
+M. Albrighton,W. Morgan,1
+C. Fuchs,W. Ndidi,1
+K. Schmeichel,W. Morgan,1
+W. Ndidi,J. Vardy,1
+S. Okazaki,J. Vardy,1
+M. James,S. Okazaki,1
+J. Vardy,S. Okazaki,1
+C. Fuchs,M. James,1
+J. Vardy,R. Mahrez,1
+C. Fuchs,H. Maguire,1
+M. James,M. Albrighton,1
+H. Maguire,M. James,1
+R. Mahrez,D. Simpson,1
+W. Morgan,D. Simpson,1

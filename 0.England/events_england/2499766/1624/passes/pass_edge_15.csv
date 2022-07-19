@@ -1,0 +1,27 @@
+Source,Target,Weight
+E. Dier,Son Heung-Min,3
+K. Trippier,E. Dier,2
+C. Eriksen,D. Alli,2
+J. Vertonghen,K. Trippier,2
+K. Trippier,J. Vertonghen,2
+D. Alli,E. Dier,1
+D. Alli,D. S\u00e1nchez,1
+D. S\u00e1nchez,J. Vertonghen,1
+T. Alderweireld,D. S\u00e1nchez,1
+D. S\u00e1nchez,M. Sissoko,1
+H. Kane,K. Trippier,1
+D. Alli,K. Trippier,1
+Son Heung-Min,C. Eriksen,1
+D. S\u00e1nchez,C. Eriksen,1
+J. Vertonghen,D. S\u00e1nchez,1
+Son Heung-Min,H. Kane,1
+H. Kane,H. Lloris,1
+M. Sissoko,D. Alli,1
+Son Heung-Min,M. Sissoko,1
+H. Lloris,T. Alderweireld,1
+D. Alli,H. Kane,1
+E. Dier,C. Eriksen,1
+M. Sissoko,Son Heung-Min,1
+D. S\u00e1nchez,E. Dier,1
+C. Eriksen,E. Dier,1
+E. Dier,D. Alli,1

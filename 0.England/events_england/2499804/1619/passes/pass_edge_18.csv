@@ -1,0 +1,36 @@
+Source,Target,Weight
+M. Yoshida,V. van Dijk,3
+R. Bertrand,N. Redmond,3
+C\u00e9dric Soares,M. Yoshida,2
+M. Lemina,S. Boufal,2
+V. van Dijk,F. Forster,2
+C. Austin,V. van Dijk,2
+S. Boufal,C\u00e9dric Soares,2
+M. Yoshida,C\u00e9dric Soares,2
+V. van Dijk,M. Yoshida,2
+N. Redmond,C. Austin,2
+C. Austin,S. Davis,2
+C\u00e9dric Soares,S. Boufal,2
+S. Davis,C. Austin,1
+V. van Dijk,M. Lemina,1
+C\u00e9dric Soares,S. Davis,1
+V. van Dijk,S. Davis,1
+F. Forster,M. Gabbiadini,1
+V. van Dijk,C. Austin,1
+F. Forster,M. Yoshida,1
+S. Davis,C\u00e9dric Soares,1
+M. Yoshida,F. Forster,1
+S. Davis,M. Yoshida,1
+C\u00e9dric Soares,R. Bertrand,1
+M. Gabbiadini,V. van Dijk,1
+V. van Dijk,N. Redmond,1
+S. Boufal,R. Bertrand,1
+M. Lemina,V. van Dijk,1
+N. Redmond,M. Lemina,1
+R. Bertrand,S. Davis,1
+F. Forster,V. van Dijk,1
+S. Davis,N. Redmond,1
+S. Davis,M. Lemina,1
+N. Redmond,C\u00e9dric Soares,1
+N. Redmond,R. Bertrand,1
+V. van Dijk,R. Bertrand,1

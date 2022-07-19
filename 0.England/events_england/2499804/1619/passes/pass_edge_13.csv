@@ -1,0 +1,53 @@
+Source,Target,Weight
+M. Yoshida,C\u00e9dric Soares,4
+S. Long,C\u00e9dric Soares,3
+R. Bertrand,V. van Dijk,3
+V. van Dijk,F. Forster,3
+C\u00e9dric Soares,D. Tadi\u0107,3
+S. Davis,R. Bertrand,3
+C\u00e9dric Soares,M. Lemina,3
+R. Bertrand,S. Davis,2
+Oriol Romeu,V. van Dijk,2
+S. Davis,M. Yoshida,2
+M. Lemina,C\u00e9dric Soares,2
+M. Lemina,Oriol Romeu,2
+M. Lemina,S. Davis,2
+R. Bertrand,Oriol Romeu,2
+D. Tadi\u0107,M. Lemina,2
+F. Forster,M. Lemina,2
+Oriol Romeu,F. Forster,2
+C\u00e9dric Soares,M. Yoshida,2
+M. Lemina,R. Bertrand,1
+Oriol Romeu,D. Tadi\u0107,1
+D. Tadi\u0107,V. van Dijk,1
+Oriol Romeu,R. Bertrand,1
+F. Forster,D. Tadi\u0107,1
+R. Bertrand,M. Lemina,1
+M. Yoshida,Oriol Romeu,1
+C\u00e9dric Soares,S. Long,1
+D. Tadi\u0107,Oriol Romeu,1
+F. Forster,M. Yoshida,1
+C\u00e9dric Soares,F. Forster,1
+V. van Dijk,D. Tadi\u0107,1
+S. Davis,M. Lemina,1
+C\u00e9dric Soares,R. Bertrand,1
+S. Davis,V. van Dijk,1
+D. Tadi\u0107,M. Gabbiadini,1
+M. Lemina,M. Yoshida,1
+M. Yoshida,S. Long,1
+R. Bertrand,C\u00e9dric Soares,1
+D. Tadi\u0107,R. Bertrand,1
+V. van Dijk,Oriol Romeu,1
+V. van Dijk,C\u00e9dric Soares,1
+V. van Dijk,R. Bertrand,1
+S. Long,R. Bertrand,1
+M. Lemina,S. Long,1
+D. Tadi\u0107,S. Davis,1
+F. Forster,S. Long,1
+M. Yoshida,F. Forster,1
+Oriol Romeu,M. Yoshida,1
+M. Lemina,D. Tadi\u0107,1
+F. Forster,S. Davis,1
+V. van Dijk,M. Lemina,1
+F. Forster,C\u00e9dric Soares,1
+M. Gabbiadini,V. van Dijk,1

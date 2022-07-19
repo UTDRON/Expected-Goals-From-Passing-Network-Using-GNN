@@ -1,0 +1,20 @@
+Source,Target,Weight
+R. Bertrand,P. H\u00f8jbjerg,4
+P. H\u00f8jbjerg,M. Yoshida,2
+C\u00e9dric Soares,D. Tadi\u0107,2
+D. Tadi\u0107,C\u00e9dric Soares,2
+W. Hoedt,M. Lemina,1
+M. Yoshida,W. Hoedt,1
+D. Tadi\u0107,M. Lemina,1
+P. H\u00f8jbjerg,R. Bertrand,1
+J. Bednarek,D. Tadi\u0107,1
+M. Lemina,C\u00e9dric Soares,1
+W. Hoedt,J. Bednarek,1
+J. Bednarek,W. Hoedt,1
+M. Lemina,D. Tadi\u0107,1
+D. Tadi\u0107,W. Hoedt,1
+C\u00e9dric Soares,M. Lemina,1
+C. Austin,R. Bertrand,1
+W. Hoedt,R. Bertrand,1
+M. Lemina,R. Bertrand,1
+M. Yoshida,J. Bednarek,1

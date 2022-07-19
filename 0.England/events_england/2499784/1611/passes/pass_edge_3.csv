@@ -1,0 +1,19 @@
+Source,Target,Weight
+N. Mati\u0107,M. Fellaini,2
+P. Jones,N. Mati\u0107,2
+N. Mati\u0107,P. Jones,1
+M. Fellaini,N. Mati\u0107,1
+David de Gea,P. Jones,1
+David de Gea,A. Young,1
+A. Young,H. Mkhitaryan,1
+M. Fellaini,David de Gea,1
+N. Mati\u0107,M. Rashford,1
+H. Mkhitaryan,M. Fellaini,1
+M. Rashford,N. Mati\u0107,1
+P. Jones,M. Rashford,1
+C. Smalling,David de Gea,1
+M. Fellaini,A. Valencia,1
+A. Young,C. Smalling,1
+M. Rashford,H. Mkhitaryan,1
+A. Young,P. Jones,1
+H. Mkhitaryan,A. Young,1

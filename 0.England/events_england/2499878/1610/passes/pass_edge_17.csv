@@ -1,0 +1,52 @@
+Source,Target,Weight
+G. Cahill,Azpilicueta,8
+Azpilicueta,E. Hazard,4
+Azpilicueta,F\u00e0bregas,3
+Azpilicueta,G. Cahill,3
+N. Kant\u00e9,Pedro,3
+Pedro,Azpilicueta,3
+Willian,F\u00e0bregas,3
+V. Moses,F\u00e0bregas,3
+Willian,A. Christensen,3
+A. Christensen,G. Cahill,3
+G. Cahill,A. Christensen,3
+F\u00e0bregas,Willian,3
+T. Courtois,G. Cahill,2
+F\u00e0bregas,T. Courtois,2
+Azpilicueta,T. Courtois,2
+F\u00e0bregas,G. Cahill,2
+V. Moses,Willian,2
+E. Hazard,A. Christensen,2
+Azpilicueta,Pedro,2
+A. Christensen,Willian,2
+E. Hazard,Azpilicueta,2
+E. Hazard,N. Kant\u00e9,1
+Azpilicueta,Willian,1
+G. Cahill,T. Courtois,1
+E. Hazard,G. Cahill,1
+Pedro,E. Hazard,1
+Willian,E. Hazard,1
+F\u00e0bregas,E. Hazard,1
+T. Courtois,V. Moses,1
+Pedro,N. Kant\u00e9,1
+E. Hazard,\u00c1lvaro Morata,1
+A. Christensen,E. Hazard,1
+N. Kant\u00e9,V. Moses,1
+A. Christensen,Azpilicueta,1
+A. Christensen,F\u00e0bregas,1
+T. Courtois,Azpilicueta,1
+A. Christensen,V. Moses,1
+E. Hazard,F\u00e0bregas,1
+F\u00e0bregas,V. Moses,1
+Azpilicueta,N. Kant\u00e9,1
+\u00c1lvaro Morata,F\u00e0bregas,1
+Pedro,\u00c1lvaro Morata,1
+F\u00e0bregas,Azpilicueta,1
+F\u00e0bregas,A. Christensen,1
+\u00c1lvaro Morata,Pedro,1
+A. Christensen,N. Kant\u00e9,1
+Pedro,F\u00e0bregas,1
+Willian,V. Moses,1
+N. Kant\u00e9,G. Cahill,1
+F\u00e0bregas,N. Kant\u00e9,1
+T. Courtois,Pedro,1

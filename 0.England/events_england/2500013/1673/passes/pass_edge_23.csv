@@ -1,0 +1,50 @@
+Source,Target,Weight
+D. Williams,F. Hadergjonaj,3
+S. Mouni\u00e9,D. Williams,3
+C. Schindler,M. J\u00f8rgensen,2
+T. Ince,C. Quaner,2
+S. Malone,J. Hogg,2
+S. Mouni\u00e9,R. van La Parra,2
+J. Hogg,D. Williams,2
+J. Hogg,T. Ince,2
+R. van La Parra,C. Schindler,2
+C. Quaner,F. Hadergjonaj,2
+F. Hadergjonaj,J. Hogg,2
+S. Malone,R. van La Parra,2
+R. van La Parra,S. Mouni\u00e9,2
+F. Hadergjonaj,C. Schindler,1
+C. Schindler,J. Hogg,1
+D. Williams,S. Malone,1
+C. Quaner,S. Malone,1
+R. van La Parra,S. Malone,1
+M. J\u00f8rgensen,S. Mouni\u00e9,1
+J. Hogg,R. van La Parra,1
+C. Schindler,S. Malone,1
+L. Depoitre,C. Schindler,1
+F. Hadergjonaj,T. Ince,1
+J. Hogg,F. Hadergjonaj,1
+D. Williams,R. van La Parra,1
+J. Hogg,C. Schindler,1
+M. J\u00f8rgensen,L. Depoitre,1
+T. Ince,S. Malone,1
+C. Schindler,D. Williams,1
+C. Schindler,R. van La Parra,1
+F. Hadergjonaj,S. Mouni\u00e9,1
+F. Hadergjonaj,C. Quaner,1
+C. Schindler,F. Hadergjonaj,1
+C. Quaner,M. J\u00f8rgensen,1
+M. J\u00f8rgensen,S. Malone,1
+S. Mouni\u00e9,T. Ince,1
+M. J\u00f8rgensen,C. Schindler,1
+L. Depoitre,C. Quaner,1
+S. Malone,C. Schindler,1
+J. Hogg,M. J\u00f8rgensen,1
+F. Hadergjonaj,L. Depoitre,1
+F. Hadergjonaj,S. Malone,1
+T. Ince,S. Mouni\u00e9,1
+T. Ince,F. Hadergjonaj,1
+R. van La Parra,D. Williams,1
+R. van La Parra,J. Hogg,1
+D. Williams,J. Hogg,1
+S. Malone,T. Ince,1
+D. Williams,S. Mouni\u00e9,1

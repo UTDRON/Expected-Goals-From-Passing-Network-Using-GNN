@@ -1,0 +1,41 @@
+Source,Target,Weight
+D. Zappacosta,N. Kant\u00e9,5
+N. Kant\u00e9,D. Zappacosta,5
+N. Kant\u00e9,A. R\u00fcdiger,4
+F\u00e0bregas,N. Kant\u00e9,4
+Marcos Alonso,F\u00e0bregas,3
+A. R\u00fcdiger,D. Zappacosta,3
+G. Cahill,Marcos Alonso,3
+F\u00e0bregas,A. R\u00fcdiger,3
+G. Cahill,F\u00e0bregas,3
+F\u00e0bregas,Marcos Alonso,2
+N. Kant\u00e9,Willian,2
+Willian,F\u00e0bregas,2
+N. Kant\u00e9,G. Cahill,2
+A. R\u00fcdiger,N. Kant\u00e9,2
+F\u00e0bregas,G. Cahill,2
+D. Zappacosta,Marcos Alonso,2
+Willian,D. Zappacosta,1
+F\u00e0bregas,Willian,1
+Marcos Alonso,Willian,1
+D. Zappacosta,A. R\u00fcdiger,1
+Willian,A. Christensen,1
+Pedro,F\u00e0bregas,1
+Marcos Alonso,N. Kant\u00e9,1
+Pedro,D. Zappacosta,1
+D. Zappacosta,G. Cahill,1
+D. Zappacosta,Pedro,1
+Marcos Alonso,G. Cahill,1
+A. Christensen,D. Zappacosta,1
+A. R\u00fcdiger,F\u00e0bregas,1
+A. Christensen,F\u00e0bregas,1
+A. R\u00fcdiger,A. Christensen,1
+Marcos Alonso,A. Christensen,1
+N. Kant\u00e9,Pedro,1
+Pedro,N. Kant\u00e9,1
+A. Christensen,N. Kant\u00e9,1
+A. Christensen,A. R\u00fcdiger,1
+F\u00e0bregas,A. Christensen,1
+A. R\u00fcdiger,Willian,1
+D. Zappacosta,F\u00e0bregas,1
+A. R\u00fcdiger,Pedro,1

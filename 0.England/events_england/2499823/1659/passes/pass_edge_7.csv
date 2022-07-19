@@ -1,0 +1,11 @@
+Source,Target,Weight
+S. Francis,S. Cook,1
+C. Wilson,C. Daniels,1
+S. Cook,S. Francis,1
+C. Wilson,S. Cook,1
+S. Cook,N. Ak\u00e9,1
+J. Ibe,C. Wilson,1
+A. Begovi\u0107,S. Francis,1
+J. Ibe,A. Begovi\u0107,1
+S. Francis,J. Ibe,1
+N. Ak\u00e9,J. Ibe,1

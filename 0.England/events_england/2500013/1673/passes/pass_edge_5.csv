@@ -1,0 +1,20 @@
+Source,Target,Weight
+A. Mooy,J. Hogg,2
+M. J\u00f8rgensen,J. Hogg,2
+J. Hogg,A. Mooy,2
+J. Hogg,F. Hadergjonaj,2
+S. Malone,C. Schindler,1
+A. Pritchard,J. Hogg,1
+A. Mooy,M. J\u00f8rgensen,1
+F. Hadergjonaj,A. Pritchard,1
+C. Schindler,J. Hogg,1
+F. Hadergjonaj,T. Ince,1
+T. Ince,S. Malone,1
+J. Hogg,A. Pritchard,1
+A. Pritchard,T. Ince,1
+M. J\u00f8rgensen,A. Mooy,1
+A. Mooy,S. Malone,1
+J. Hogg,M. J\u00f8rgensen,1
+T. Ince,F. Hadergjonaj,1
+S. Malone,A. Mooy,1
+F. Hadergjonaj,M. J\u00f8rgensen,1

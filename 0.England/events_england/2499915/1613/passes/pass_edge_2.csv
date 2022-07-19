@@ -1,0 +1,74 @@
+Source,Target,Weight
+R. Elliot,Joselu,5
+Joselu,J. Shelvey,5
+Joselu,R. Aarons,5
+Javi Manquillo,Joselu,5
+R. Elliot,R. Aarons,4
+Joselu,D. Yedlin,4
+D. Yedlin,Joselu,4
+P. Dummett,R. Elliot,4
+J. Shelvey,J. Murphy,4
+R. Aarons,Joselu,4
+C. Mbemba,R. Elliot,3
+J. Shelvey,D. Yedlin,3
+J. Murphy,D. Yedlin,3
+D. Yedlin,J. Murphy,3
+Joselu,J. Murphy,3
+D. Yedlin,R. Elliot,3
+Joselu,C. Mbemba,3
+J. Lascelles,J. Shelvey,3
+D. Yedlin,C. Mbemba,3
+R. Aarons,J. Lascelles,3
+J. Shelvey,P. Dummett,2
+J. Murphy,Javi Manquillo,2
+D. Yedlin,M. Diam\u00e9,2
+C. Mbemba,Joselu,2
+M. Diam\u00e9,J. Shelvey,2
+R. Aarons,D. Yedlin,2
+J. Lascelles,P. Dummett,2
+C. Mbemba,P. Dummett,2
+P. Dummett,J. Shelvey,2
+M. Diam\u00e9,J. Murphy,2
+P. Dummett,J. Lascelles,2
+P. Dummett,M. Diam\u00e9,2
+R. Elliot,Javi Manquillo,2
+M. Diam\u00e9,D. Yedlin,2
+J. Shelvey,R. Aarons,2
+M. Diam\u00e9,P. Dummett,1
+J. Shelvey,Javi Manquillo,1
+R. Elliot,J. Shelvey,1
+J. Shelvey,M. Diam\u00e9,1
+J. Murphy,J. Lascelles,1
+Joselu,M. Diam\u00e9,1
+J. Lascelles,M. Diam\u00e9,1
+R. Aarons,C. Mbemba,1
+R. Aarons,M. Diam\u00e9,1
+D. Yedlin,P. Dummett,1
+R. Elliot,D. Yedlin,1
+J. Murphy,R. Elliot,1
+R. Elliot,M. Diam\u00e9,1
+R. Aarons,Javi Manquillo,1
+P. Dummett,R. Aarons,1
+R. Aarons,J. Shelvey,1
+M. Diam\u00e9,R. Elliot,1
+Joselu,P. Dummett,1
+J. Lascelles,R. Elliot,1
+J. Shelvey,C. Mbemba,1
+Javi Manquillo,R. Aarons,1
+J. Murphy,R. Aarons,1
+J. Murphy,P. Dummett,1
+Joselu,J. Lascelles,1
+J. Murphy,M. Diam\u00e9,1
+J. Shelvey,J. Lascelles,1
+J. Shelvey,R. Elliot,1
+Joselu,Javi Manquillo,1
+J. Shelvey,Joselu,1
+J. Murphy,J. Shelvey,1
+M. Diam\u00e9,R. Aarons,1
+Javi Manquillo,J. Shelvey,1
+C. Mbemba,J. Shelvey,1
+C. Mbemba,D. Yedlin,1
+M. Diam\u00e9,Joselu,1
+J. Lascelles,Joselu,1
+J. Murphy,C. Mbemba,1
+R. Aarons,P. Dummett,1

@@ -1,0 +1,9 @@
+Source,Target,Weight
+J. Gomez,V. van Dijk,1
+J. Henderson,N. Clyne,1
+R. Klavan,J. Henderson,1
+V. van Dijk,R. Klavan,1
+J. Henderson,J. Gomez,1
+J. Gomez,J. Henderson,1
+N. Clyne,J. Gomez,1
+R. Klavan,N. Clyne,1

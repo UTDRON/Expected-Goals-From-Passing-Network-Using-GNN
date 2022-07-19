@@ -1,0 +1,18 @@
+Source,Target,Weight
+J. Stanislas,N. Ak\u00e9,1
+D. Gosling,A. Smith,1
+J. King,C. Daniels,1
+A. Surman,J. King,1
+A. Surman,N. Ak\u00e9,1
+A. Surman,D. Gosling,1
+N. Ak\u00e9,A. Surman,1
+A. Smith,J. King,1
+D. Gosling,J. Ibe,1
+C. Daniels,A. Surman,1
+J. King,J. Stanislas,1
+A. Surman,J. Stanislas,1
+J. Stanislas,A. Surman,1
+C. Daniels,J. Stanislas,1
+J. Stanislas,D. Gosling,1
+N. Ak\u00e9,D. Gosling,1
+D. Gosling,A. Surman,1

@@ -1,0 +1,48 @@
+Source,Target,Weight
+Azpilicueta,T. Bakayoko,4
+D. Drinkwater,Marcos Alonso,3
+D. Drinkwater,Azpilicueta,3
+Marcos Alonso,Pedro,3
+Marcos Alonso,D. Drinkwater,3
+Azpilicueta,D. Drinkwater,3
+A. R\u00fcdiger,N. Kant\u00e9,2
+T. Bakayoko,D. Drinkwater,2
+N. Kant\u00e9,D. Drinkwater,2
+N. Kant\u00e9,Pedro,2
+D. Drinkwater,N. Kant\u00e9,2
+Pedro,N. Kant\u00e9,2
+A. R\u00fcdiger,Marcos Alonso,2
+D. Zappacosta,Willian,2
+D. Drinkwater,A. R\u00fcdiger,2
+N. Kant\u00e9,A. R\u00fcdiger,2
+G. Cahill,T. Bakayoko,1
+Marcos Alonso,Azpilicueta,1
+D. Drinkwater,\u00c1lvaro Morata,1
+Pedro,Marcos Alonso,1
+Willian,D. Zappacosta,1
+Pedro,Azpilicueta,1
+D. Zappacosta,T. Bakayoko,1
+T. Bakayoko,Pedro,1
+Marcos Alonso,\u00c1lvaro Morata,1
+\u00c1lvaro Morata,D. Zappacosta,1
+Azpilicueta,T. Courtois,1
+T. Bakayoko,Azpilicueta,1
+A. R\u00fcdiger,D. Drinkwater,1
+D. Drinkwater,G. Cahill,1
+Pedro,D. Drinkwater,1
+A. R\u00fcdiger,G. Cahill,1
+\u00c1lvaro Morata,Marcos Alonso,1
+T. Courtois,D. Zappacosta,1
+T. Bakayoko,G. Cahill,1
+G. Cahill,Azpilicueta,1
+D. Drinkwater,T. Bakayoko,1
+Pedro,Willian,1
+T. Bakayoko,D. Zappacosta,1
+N. Kant\u00e9,Marcos Alonso,1
+T. Bakayoko,Willian,1
+Marcos Alonso,A. R\u00fcdiger,1
+D. Zappacosta,Azpilicueta,1
+Willian,D. Drinkwater,1
+G. Cahill,A. R\u00fcdiger,1
+Willian,Marcos Alonso,1
+Willian,Pedro,1

@@ -1,0 +1,111 @@
+Source,Target,Weight
+D. Gayle,M. Diam\u00e9,5
+C. Mbemba,M. Diam\u00e9,5
+J. Shelvey,D. Yedlin,5
+M. Diam\u00e9,C. Mbemba,4
+J. Shelvey,C. Mbemba,4
+D. Yedlin,J. Murphy,4
+M. Diam\u00e9,J. Lascelles,4
+J. Murphy,Javi Manquillo,3
+M. Diam\u00e9,D. Gayle,3
+D. Yedlin,M. Diam\u00e9,3
+J. Lascelles,J. Murphy,3
+P. Dummett,J. Lascelles,3
+J. Lascelles,R. Elliot,3
+J. Lascelles,P. Dummett,3
+Javi Manquillo,C. Atsu,3
+M. Diam\u00e9,Javi Manquillo,3
+C. Mbemba,J. Murphy,3
+Joselu,M. Diam\u00e9,3
+R. Elliot,Joselu,3
+Javi Manquillo,Joselu,3
+J. Shelvey,Javi Manquillo,3
+Joselu,Javi Manquillo,3
+J. Murphy,J. Shelvey,3
+M. Diam\u00e9,J. Shelvey,3
+D. Yedlin,J. Shelvey,2
+Joselu,J. Shelvey,2
+R. Aarons,Javi Manquillo,2
+M. Diam\u00e9,P. Dummett,2
+J. Shelvey,M. Diam\u00e9,2
+C. Mbemba,J. Shelvey,2
+J. Shelvey,R. Aarons,2
+R. Aarons,J. Shelvey,2
+J. Murphy,Joselu,2
+J. Murphy,D. Yedlin,2
+D. Yedlin,C. Mbemba,2
+Joselu,C. Mbemba,2
+M. Diam\u00e9,J. Murphy,2
+C. Atsu,Javi Manquillo,2
+Javi Manquillo,J. Shelvey,2
+D. Yedlin,R. Aarons,2
+Javi Manquillo,P. Dummett,2
+Javi Manquillo,R. Aarons,2
+R. Aarons,D. Gayle,2
+P. Dummett,R. Elliot,1
+P. Dummett,C. Atsu,1
+C. Mbemba,D. Yedlin,1
+R. Elliot,R. Aarons,1
+J. Lascelles,R. Aarons,1
+R. Aarons,Joselu,1
+Javi Manquillo,C. Mbemba,1
+R. Elliot,D. Gayle,1
+J. Lascelles,M. Diam\u00e9,1
+C. Mbemba,R. Elliot,1
+C. Atsu,J. Shelvey,1
+J. Shelvey,J. Lascelles,1
+C. Mbemba,J. Lascelles,1
+C. Atsu,M. Diam\u00e9,1
+P. Dummett,J. Murphy,1
+P. Dummett,R. Aarons,1
+R. Aarons,D. Yedlin,1
+J. Lascelles,J. Shelvey,1
+P. Dummett,J. Shelvey,1
+P. Dummett,D. Yedlin,1
+D. Yedlin,Joselu,1
+M. Diam\u00e9,D. Yedlin,1
+J. Shelvey,R. Elliot,1
+C. Atsu,P. Dummett,1
+J. Murphy,J. Lascelles,1
+P. Dummett,Mikel Merino,1
+R. Aarons,P. Dummett,1
+P. Dummett,D. Gayle,1
+Mikel Merino,J. Lascelles,1
+D. Gayle,J. Murphy,1
+R. Aarons,C. Mbemba,1
+J. Lascelles,Mikel Merino,1
+Mikel Merino,P. Dummett,1
+R. Aarons,R. Elliot,1
+D. Gayle,D. Yedlin,1
+P. Dummett,M. Diam\u00e9,1
+D. Yedlin,J. Lascelles,1
+C. Mbemba,Joselu,1
+Javi Manquillo,Mikel Merino,1
+Mikel Merino,J. Shelvey,1
+J. Murphy,C. Atsu,1
+D. Yedlin,P. Dummett,1
+J. Shelvey,D. Gayle,1
+R. Elliot,J. Shelvey,1
+J. Shelvey,J. Murphy,1
+J. Murphy,R. Elliot,1
+R. Elliot,C. Mbemba,1
+R. Elliot,Javi Manquillo,1
+J. Murphy,D. Gayle,1
+Javi Manquillo,D. Yedlin,1
+D. Gayle,R. Elliot,1
+R. Elliot,D. Yedlin,1
+R. Elliot,J. Lascelles,1
+Javi Manquillo,D. Gayle,1
+J. Shelvey,Mikel Merino,1
+Javi Manquillo,R. Elliot,1
+D. Gayle,R. Aarons,1
+D. Gayle,J. Lascelles,1
+J. Murphy,M. Diam\u00e9,1
+Joselu,R. Aarons,1
+Joselu,R. Elliot,1
+J. Lascelles,D. Yedlin,1
+C. Mbemba,D. Gayle,1
+C. Atsu,D. Gayle,1
+Mikel Merino,D. Yedlin,1
+D. Gayle,C. Atsu,1
+R. Elliot,P. Dummett,1

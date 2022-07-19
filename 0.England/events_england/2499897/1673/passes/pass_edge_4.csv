@@ -1,0 +1,36 @@
+Source,Target,Weight
+A. Mooy,L. Depoitre,3
+L. Depoitre,C. L\u00f6we,2
+C. Quaner,F. Hadergjonaj,2
+C. L\u00f6we,A. Mooy,2
+C. Schindler,C. L\u00f6we,2
+A. Mooy,C. Schindler,2
+F. Hadergjonaj,C. Quaner,2
+C. L\u00f6we,M. J\u00f8rgensen,1
+C. L\u00f6we,R. van La Parra,1
+L. Depoitre,F. Hadergjonaj,1
+F. Hadergjonaj,A. Mooy,1
+M. J\u00f8rgensen,C. L\u00f6we,1
+R. van La Parra,L. Depoitre,1
+E. Kachunga,F. Hadergjonaj,1
+M. J\u00f8rgensen,E. Kachunga,1
+J. Hogg,M. J\u00f8rgensen,1
+E. Kachunga,R. van La Parra,1
+E. Kachunga,C. Quaner,1
+J. Hogg,A. Mooy,1
+E. Kachunga,J. Hogg,1
+R. van La Parra,A. Mooy,1
+M. J\u00f8rgensen,F. Hadergjonaj,1
+F. Hadergjonaj,L. Depoitre,1
+A. Mooy,C. Quaner,1
+L. Depoitre,M. J\u00f8rgensen,1
+F. Hadergjonaj,C. Schindler,1
+J. L\u00f6ssl,E. Kachunga,1
+C. Quaner,C. L\u00f6we,1
+C. Quaner,C. Schindler,1
+L. Depoitre,E. Kachunga,1
+C. Schindler,A. Mooy,1
+C. L\u00f6we,J. L\u00f6ssl,1
+L. Depoitre,C. Quaner,1
+C. Schindler,L. Depoitre,1
+C. Quaner,E. Kachunga,1

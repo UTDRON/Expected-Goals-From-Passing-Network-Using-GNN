@@ -1,0 +1,27 @@
+Source,Target,Weight
+S. Francis,D. Gosling,3
+D. Gosling,J. Ibe,2
+B. Afobe,S. Francis,2
+N. Ak\u00e9,H. Arter,2
+D. Gosling,B. Afobe,1
+A. Smith,H. Arter,1
+A. Smith,J. Ibe,1
+R. Fraser,A. Smith,1
+N. Ak\u00e9,B. Afobe,1
+D. Gosling,S. Francis,1
+A. Smith,B. Afobe,1
+B. Afobe,D. Gosling,1
+A. Smith,D. Gosling,1
+S. Francis,A. Smith,1
+H. Arter,A. Smith,1
+R. Fraser,B. Afobe,1
+B. Afobe,A. Smith,1
+J. Ibe,S. Cook,1
+B. Afobe,R. Fraser,1
+H. Arter,B. Afobe,1
+D. Gosling,S. Cook,1
+H. Arter,N. Ak\u00e9,1
+S. Cook,A. Smith,1
+S. Cook,S. Francis,1
+J. Ibe,N. Ak\u00e9,1
+A. Smith,R. Fraser,1

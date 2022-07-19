@@ -1,0 +1,19 @@
+Source,Target,Weight
+Danilo,N. Otamendi,2
+N. Otamendi,Danilo,2
+F. Delph,R. Sterling,2
+E. Mangala,N. Otamendi,1
+F. Delph,Fernandinho,1
+N. Otamendi,E. Mangala,1
+Fernandinho,David Silva,1
+Fernandinho,R. Sterling,1
+Fernandinho,F. Delph,1
+R. Sterling,N. Otamendi,1
+E. Mangala,F. Delph,1
+F. Delph,E. Mangala,1
+David Silva,Fernandinho,1
+N. Otamendi,S. Ag\u00fcero,1
+R. Sterling,David Silva,1
+R. Sterling,F. Delph,1
+David Silva,F. Delph,1
+R. Sterling,Fernandinho,1

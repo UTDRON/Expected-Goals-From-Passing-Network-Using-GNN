@@ -1,0 +1,53 @@
+Source,Target,Weight
+L. Koscielny,M. \u00d6zil,5
+L. Koscielny,S. Mustafi,5
+S. Mustafi,L. Koscielny,5
+G. Xhaka,Nacho Monreal,4
+G. Xhaka,L. Koscielny,4
+Nacho Monreal,S. Mustafi,4
+Nacho Monreal,G. Xhaka,4
+A. Lacazette,L. Koscielny,4
+S. Mustafi,G. Xhaka,4
+Beller\u00edn,G. Xhaka,3
+M. \u00d6zil,G. Xhaka,3
+S. Mustafi,Nacho Monreal,3
+L. Koscielny,Beller\u00edn,3
+L. Koscielny,A. Lacazette,2
+G. Xhaka,Beller\u00edn,2
+A. S\u00e1nchez,S. Mustafi,2
+M. \u00d6zil,A. S\u00e1nchez,2
+A. S\u00e1nchez,A. Ramsey,2
+G. Xhaka,S. Mustafi,2
+M. \u00d6zil,A. Lacazette,2
+A. Ramsey,A. S\u00e1nchez,2
+A. Ramsey,S. Mustafi,1
+A. Ramsey,Beller\u00edn,1
+S. Mustafi,M. \u00d6zil,1
+M. \u00d6zil,L. Koscielny,1
+L. Koscielny,G. Xhaka,1
+P. \u010cech,Nacho Monreal,1
+A. Lacazette,M. \u00d6zil,1
+A. Lacazette,S. Mustafi,1
+G. Xhaka,A. Ramsey,1
+Nacho Monreal,A. S\u00e1nchez,1
+M. \u00d6zil,A. Ramsey,1
+S. Mustafi,A. S\u00e1nchez,1
+Beller\u00edn,M. \u00d6zil,1
+A. S\u00e1nchez,M. \u00d6zil,1
+A. S\u00e1nchez,A. Lacazette,1
+G. Xhaka,M. \u00d6zil,1
+L. Koscielny,A. S\u00e1nchez,1
+A. Ramsey,G. Xhaka,1
+A. S\u00e1nchez,L. Koscielny,1
+S. Mustafi,A. Ramsey,1
+Beller\u00edn,S. Mustafi,1
+A. Ramsey,L. Koscielny,1
+S. Mustafi,Beller\u00edn,1
+S. Mustafi,A. Lacazette,1
+S. Kola\u0161inac,L. Koscielny,1
+Nacho Monreal,A. Ramsey,1
+L. Koscielny,Nacho Monreal,1
+Beller\u00edn,L. Koscielny,1
+M. \u00d6zil,S. Mustafi,1
+G. Xhaka,P. \u010cech,1
+Beller\u00edn,Nacho Monreal,1

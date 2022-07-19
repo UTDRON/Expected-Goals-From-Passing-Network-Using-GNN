@@ -1,0 +1,20 @@
+Source,Target,Weight
+D. Tadi\u0107,N. Redmond,2
+N. Redmond,J. Bednarek,2
+W. Hoedt,Oriol Romeu,1
+M. Yoshida,A. McCarthy,1
+A. McCarthy,M. Yoshida,1
+N. Redmond,A. McCarthy,1
+J. Bednarek,Oriol Romeu,1
+R. Bertrand,C. Austin,1
+Oriol Romeu,N. Redmond,1
+A. McCarthy,N. Redmond,1
+N. Redmond,W. Hoedt,1
+C. Austin,R. Bertrand,1
+M. Yoshida,Oriol Romeu,1
+Oriol Romeu,C. Austin,1
+R. Bertrand,N. Redmond,1
+C. Austin,M. Yoshida,1
+Oriol Romeu,M. Yoshida,1
+J. Bednarek,D. Tadi\u0107,1
+M. Yoshida,R. Bertrand,1

@@ -1,0 +1,19 @@
+Source,Target,Weight
+E. Pieters,D. Fletcher,2
+D. Fletcher,E. Pieters,2
+J. Allen,G. Cameron,2
+X. Shaqiri,J. Allen,1
+D. Fletcher,J. Allen,1
+D. Fletcher,K. Wimmer,1
+R. Shawcross,D. Fletcher,1
+J. Allen,E. Pieters,1
+G. Cameron,R. Shawcross,1
+E. Pieters,Ramadan Sobhi,1
+K. Wimmer,P. Crouch,1
+G. Cameron,X. Shaqiri,1
+P. Crouch,R. Shawcross,1
+G. Cameron,J. Allen,1
+Ramadan Sobhi,J. Allen,1
+X. Shaqiri,G. Cameron,1
+R. Shawcross,Ramadan Sobhi,1
+Ramadan Sobhi,D. Fletcher,1

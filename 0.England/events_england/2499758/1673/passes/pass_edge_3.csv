@@ -1,0 +1,38 @@
+Source,Target,Weight
+C. Schindler,R. van La Parra,4
+P. Billing,T. Ince,2
+R. van La Parra,P. Billing,2
+J. L\u00f6ssl,M. J\u00f8rgensen,2
+M. J\u00f8rgensen,J. L\u00f6ssl,2
+T. Ince,C. L\u00f6we,2
+C. Schindler,P. Billing,1
+T. Smith,P. Billing,1
+P. Billing,C. Schindler,1
+C. L\u00f6we,S. Mouni\u00e9,1
+T. Smith,C. Schindler,1
+C. Schindler,T. Ince,1
+A. Mooy,M. J\u00f8rgensen,1
+S. Mouni\u00e9,C. Schindler,1
+T. Ince,J. L\u00f6ssl,1
+M. J\u00f8rgensen,T. Smith,1
+A. Mooy,C. Schindler,1
+T. Ince,C. Schindler,1
+T. Smith,T. Ince,1
+M. J\u00f8rgensen,A. Mooy,1
+P. Billing,T. Smith,1
+R. van La Parra,E. Kachunga,1
+C. L\u00f6we,A. Mooy,1
+C. L\u00f6we,C. Schindler,1
+E. Kachunga,R. van La Parra,1
+M. J\u00f8rgensen,E. Kachunga,1
+P. Billing,J. L\u00f6ssl,1
+J. L\u00f6ssl,C. L\u00f6we,1
+R. van La Parra,T. Ince,1
+A. Mooy,R. van La Parra,1
+R. van La Parra,C. Schindler,1
+R. van La Parra,M. J\u00f8rgensen,1
+C. L\u00f6we,R. van La Parra,1
+E. Kachunga,P. Billing,1
+C. Schindler,C. L\u00f6we,1
+J. L\u00f6ssl,T. Smith,1
+R. van La Parra,A. Mooy,1

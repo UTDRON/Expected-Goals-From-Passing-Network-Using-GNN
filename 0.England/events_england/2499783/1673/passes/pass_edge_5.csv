@@ -1,0 +1,112 @@
+Source,Target,Weight
+C. Schindler,J. L\u00f6ssl,8
+T. Smith,M. J\u00f8rgensen,8
+J. L\u00f6ssl,L. Depoitre,7
+M. J\u00f8rgensen,J. L\u00f6ssl,6
+R. van La Parra,S. Malone,6
+S. Malone,R. van La Parra,6
+S. Malone,M. J\u00f8rgensen,5
+M. J\u00f8rgensen,T. Smith,5
+J. L\u00f6ssl,T. Smith,5
+T. Smith,E. Kachunga,5
+J. Hogg,T. Smith,5
+E. Kachunga,T. Smith,5
+P. Billing,S. Malone,5
+C. Schindler,J. Hogg,4
+M. J\u00f8rgensen,C. Schindler,4
+M. J\u00f8rgensen,J. Hogg,4
+L. Depoitre,C. Schindler,4
+R. van La Parra,T. Smith,4
+C. L\u00f6we,R. van La Parra,3
+J. Hogg,R. van La Parra,3
+M. J\u00f8rgensen,P. Billing,3
+J. Hogg,M. J\u00f8rgensen,3
+T. Ince,P. Billing,3
+S. Malone,L. Depoitre,3
+T. Smith,J. Hogg,3
+L. Depoitre,M. J\u00f8rgensen,3
+C. L\u00f6we,J. Hogg,3
+P. Billing,C. Schindler,3
+T. Smith,J. L\u00f6ssl,3
+C. Schindler,S. Malone,3
+C. Schindler,T. Ince,3
+T. Smith,C. L\u00f6we,3
+T. Smith,P. Billing,3
+C. Schindler,P. Billing,3
+R. van La Parra,C. Schindler,3
+J. Hogg,C. Schindler,3
+J. L\u00f6ssl,M. J\u00f8rgensen,3
+D. Whitehead,T. Smith,2
+E. Kachunga,M. J\u00f8rgensen,2
+L. Depoitre,S. Malone,2
+E. Kachunga,L. Depoitre,2
+L. Depoitre,T. Ince,2
+T. Smith,L. Depoitre,2
+J. Hogg,P. Billing,2
+T. Ince,C. Schindler,2
+S. Malone,C. Schindler,2
+S. Malone,E. Kachunga,2
+A. Mooy,T. Smith,2
+J. Hogg,S. Malone,2
+A. Mooy,C. Schindler,2
+R. van La Parra,J. Hogg,2
+R. van La Parra,C. L\u00f6we,2
+P. Billing,J. Hogg,2
+E. Kachunga,D. Whitehead,2
+C. Schindler,T. Smith,2
+P. Billing,T. Smith,2
+P. Billing,D. Whitehead,2
+T. Smith,A. Mooy,2
+T. Ince,J. L\u00f6ssl,2
+C. Schindler,M. J\u00f8rgensen,2
+J. Hogg,E. Kachunga,2
+J. L\u00f6ssl,C. Schindler,2
+L. Depoitre,R. van La Parra,2
+T. Smith,C. Schindler,2
+A. Mooy,E. Kachunga,1
+A. Mooy,R. van La Parra,1
+J. Hogg,C. L\u00f6we,1
+P. Billing,E. Kachunga,1
+L. Depoitre,A. Mooy,1
+M. J\u00f8rgensen,T. Ince,1
+P. Billing,J. L\u00f6ssl,1
+A. Mooy,C. L\u00f6we,1
+J. Hogg,J. L\u00f6ssl,1
+C. Schindler,C. L\u00f6we,1
+T. Ince,E. Kachunga,1
+S. Malone,J. Hogg,1
+C. L\u00f6we,L. Depoitre,1
+C. Schindler,L. Depoitre,1
+J. L\u00f6ssl,P. Billing,1
+L. Depoitre,J. L\u00f6ssl,1
+C. Schindler,R. van La Parra,1
+D. Whitehead,M. J\u00f8rgensen,1
+J. L\u00f6ssl,D. Whitehead,1
+E. Kachunga,P. Billing,1
+D. Whitehead,P. Billing,1
+J. L\u00f6ssl,A. Mooy,1
+D. Whitehead,J. L\u00f6ssl,1
+S. Malone,P. Billing,1
+E. Kachunga,R. van La Parra,1
+M. J\u00f8rgensen,D. Whitehead,1
+E. Kachunga,A. Mooy,1
+M. J\u00f8rgensen,A. Mooy,1
+D. Whitehead,E. Kachunga,1
+A. Mooy,T. Ince,1
+L. Depoitre,E. Kachunga,1
+T. Ince,J. Hogg,1
+C. L\u00f6we,C. Schindler,1
+J. L\u00f6ssl,R. van La Parra,1
+J. L\u00f6ssl,C. L\u00f6we,1
+C. L\u00f6we,A. Mooy,1
+P. Billing,T. Ince,1
+E. Kachunga,J. Hogg,1
+P. Billing,R. van La Parra,1
+J. L\u00f6ssl,E. Kachunga,1
+M. J\u00f8rgensen,C. L\u00f6we,1
+L. Depoitre,J. Hogg,1
+T. Smith,T. Ince,1
+M. J\u00f8rgensen,S. Malone,1
+J. L\u00f6ssl,S. Malone,1
+C. L\u00f6we,J. L\u00f6ssl,1
+R. van La Parra,L. Depoitre,1

@@ -1,0 +1,85 @@
+Source,Target,Weight
+K. Naughton,C. Roberts,12
+C. Roberts,K. Naughton,10
+A. Mawson,M. Olsson,8
+K. Naughton,M. van der Hoorn,6
+M. van der Hoorn,A. Mawson,6
+M. Olsson,A. Mawson,5
+S. Clucas,M. Olsson,5
+A. King,A. Mawson,5
+K. Naughton,Sung-Yeung Ki,4
+J. Ayew,M. van der Hoorn,4
+A. King,A. Ayew,4
+Sung-Yeung Ki,C. Roberts,4
+M. van der Hoorn,\u0141. Fabia\u0144ski,4
+M. van der Hoorn,K. Naughton,4
+A. Mawson,S. Clucas,4
+M. Olsson,A. King,4
+A. Mawson,A. King,4
+C. Roberts,J. Ayew,4
+A. King,M. van der Hoorn,4
+A. Ayew,K. Naughton,4
+M. Olsson,S. Clucas,3
+\u0141. Fabia\u0144ski,K. Naughton,3
+J. Ayew,K. Naughton,3
+C. Roberts,A. King,3
+S. Clucas,A. Mawson,3
+A. Ayew,C. Roberts,3
+S. Clucas,A. King,3
+A. King,S. Clucas,3
+A. Ayew,M. Olsson,2
+\u0141. Fabia\u0144ski,J. Ayew,2
+M. van der Hoorn,A. King,2
+A. King,K. Naughton,2
+J. Ayew,A. King,2
+Sung-Yeung Ki,A. King,2
+Sung-Yeung Ki,A. Ayew,2
+M. Olsson,Sung-Yeung Ki,2
+S. Clucas,J. Ayew,2
+\u0141. Fabia\u0144ski,A. Mawson,2
+J. Ayew,Sung-Yeung Ki,2
+J. Ayew,C. Roberts,2
+C. Roberts,M. van der Hoorn,2
+K. Naughton,J. Ayew,2
+\u0141. Fabia\u0144ski,M. van der Hoorn,2
+M. Olsson,K. Naughton,2
+A. Mawson,K. Naughton,2
+K. Naughton,\u0141. Fabia\u0144ski,2
+C. Roberts,A. Ayew,2
+K. Naughton,A. King,2
+A. Mawson,M. van der Hoorn,2
+K. Naughton,A. Ayew,2
+A. Mawson,\u0141. Fabia\u0144ski,2
+Sung-Yeung Ki,J. Ayew,1
+J. Ayew,S. Clucas,1
+A. Ayew,J. Ayew,1
+M. Olsson,C. Roberts,1
+\u0141. Fabia\u0144ski,M. Olsson,1
+C. Roberts,A. Mawson,1
+J. Ayew,A. Mawson,1
+M. van der Hoorn,A. Ayew,1
+A. Ayew,A. Mawson,1
+J. Ayew,A. Ayew,1
+A. Mawson,J. Ayew,1
+A. King,\u0141. Fabia\u0144ski,1
+A. Mawson,Sung-Yeung Ki,1
+A. Mawson,C. Roberts,1
+A. Ayew,Sung-Yeung Ki,1
+C. Roberts,\u0141. Fabia\u0144ski,1
+M. Olsson,A. Ayew,1
+S. Clucas,K. Naughton,1
+M. van der Hoorn,J. Ayew,1
+M. van der Hoorn,C. Roberts,1
+C. Roberts,S. Clucas,1
+K. Naughton,A. Mawson,1
+A. Ayew,S. Clucas,1
+Sung-Yeung Ki,S. Clucas,1
+M. van der Hoorn,M. Olsson,1
+Sung-Yeung Ki,\u0141. Fabia\u0144ski,1
+\u0141. Fabia\u0144ski,S. Clucas,1
+M. Olsson,J. Ayew,1
+A. King,Sung-Yeung Ki,1
+J. Ayew,M. Olsson,1
+A. King,J. Ayew,1
+S. Clucas,A. Ayew,1
+A. King,M. Olsson,1

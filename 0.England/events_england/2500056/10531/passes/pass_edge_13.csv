@@ -1,0 +1,14 @@
+Source,Target,Weight
+A. King,F. Fern\u00e1ndez,2
+N. Dyer,J. Ayew,1
+M. Olsson,J. Ayew,1
+T. Carroll,M. Olsson,1
+J. Ayew,A. King,1
+J. Ayew,N. Dyer,1
+A. King,N. Dyer,1
+M. Olsson,T. Carroll,1
+T. Carroll,A. King,1
+J. Ayew,K. Naughton,1
+F. Fern\u00e1ndez,T. Carroll,1
+K. Naughton,A. King,1
+F. Fern\u00e1ndez,M. Olsson,1

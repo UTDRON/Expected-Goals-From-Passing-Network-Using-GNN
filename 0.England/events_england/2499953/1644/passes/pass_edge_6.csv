@@ -1,0 +1,31 @@
+Source,Target,Weight
+T. Deeney,A. Gray,4
+A. Gray,T. Deeney,3
+D. Janmaat,T. Deeney,3
+A. Carrillo,D. Janmaat,2
+B. Watson,C. Kabasele,2
+T. Deeney,B. Watson,2
+S. Pr\u00f6dl,A. Carrillo,1
+D. Janmaat,S. Pr\u00f6dl,1
+M. Zeegelaar,A. Carrillo,1
+A. Gray,C. Kabasele,1
+B. Watson,A. Carrillo,1
+S. Pr\u00f6dl,D. Janmaat,1
+Richarlison,S. Pr\u00f6dl,1
+B. Watson,D. Janmaat,1
+A. Carrillo,S. Pr\u00f6dl,1
+O. Karnezis,M. Zeegelaar,1
+A. Doucour\u00e9,O. Karnezis,1
+A. Carrillo,A. Doucour\u00e9,1
+M. Zeegelaar,T. Deeney,1
+S. Pr\u00f6dl,B. Watson,1
+S. Pr\u00f6dl,A. Doucour\u00e9,1
+A. Doucour\u00e9,A. Carrillo,1
+C. Kabasele,M. Zeegelaar,1
+S. Pr\u00f6dl,A. Gray,1
+A. Carrillo,T. Deeney,1
+T. Deeney,S. Pr\u00f6dl,1
+C. Kabasele,S. Pr\u00f6dl,1
+C. Kabasele,Richarlison,1
+T. Deeney,Richarlison,1
+Richarlison,B. Watson,1

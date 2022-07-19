@@ -1,0 +1,16 @@
+Source,Target,Weight
+K. Gibbs,O. Burke,2
+O. Burke,A. Nyom,1
+G. Barry,K. Gibbs,1
+J. Evans,G. Krychowiak,1
+G. Krychowiak,K. Gibbs,1
+O. Burke,B. Foster,1
+K. Gibbs,G. Krychowiak,1
+C. Dawson,O. Burke,1
+G. Krychowiak,J. Evans,1
+J. Evans,C. Dawson,1
+A. Nyom,G. Barry,1
+B. Foster,J. Evans,1
+G. Barry,G. Krychowiak,1
+G. Krychowiak,G. Barry,1
+O. Burke,J. Morrison,1

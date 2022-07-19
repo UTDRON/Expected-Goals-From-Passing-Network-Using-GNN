@@ -1,0 +1,20 @@
+Source,Target,Weight
+A. King,K. Naughton,2
+K. Naughton,A. Ayew,2
+A. Ayew,K. Naughton,1
+A. Mawson,J. Ayew,1
+Sung-Yeung Ki,A. Mawson,1
+K. Naughton,F. Fern\u00e1ndez,1
+K. Naughton,Sung-Yeung Ki,1
+A. King,F. Fern\u00e1ndez,1
+A. Mawson,A. King,1
+F. Fern\u00e1ndez,A. King,1
+J. Ayew,T. Carroll,1
+T. Carroll,M. Olsson,1
+L. Narsingh,K. Naughton,1
+A. Ayew,T. Carroll,1
+K. Naughton,L. Narsingh,1
+M. Olsson,Sung-Yeung Ki,1
+F. Fern\u00e1ndez,A. Mawson,1
+T. Carroll,Sung-Yeung Ki,1
+Sung-Yeung Ki,A. King,1

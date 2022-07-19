@@ -1,0 +1,71 @@
+Source,Target,Weight
+A. S\u00f8rloth,P. van Aanholt,6
+J. Tomkins,L. Milivojevi\u0107,5
+L. Milivojevi\u0107,J. Ward,4
+L. Milivojevi\u0107,J. Tomkins,4
+L. Milivojevi\u0107,T. Fosu-Mensah,4
+Y. Cabaye,L. Milivojevi\u0107,4
+C. Benteke,J. McArthur,3
+J. McArthur,A. S\u00f8rloth,3
+P. van Aanholt,J. McArthur,3
+A. Townsend,Y. Cabaye,3
+Y. Cabaye,A. Townsend,3
+P. van Aanholt,C. Benteke,3
+L. Milivojevi\u0107,Y. Cabaye,3
+Y. Cabaye,A. S\u00f8rloth,2
+L. Milivojevi\u0107,A. S\u00f8rloth,2
+J. Ward,P. van Aanholt,2
+J. Ward,C. Benteke,2
+A. Townsend,J. Ward,2
+J. McArthur,J. Ward,2
+T. Fosu-Mensah,L. Milivojevi\u0107,2
+J. Ward,T. Fosu-Mensah,2
+A. Townsend,J. Tomkins,2
+A. S\u00f8rloth,Y. Cabaye,2
+J. McArthur,A. Townsend,2
+J. Tomkins,J. McArthur,2
+L. Milivojevi\u0107,A. Townsend,2
+T. Fosu-Mensah,Y. Cabaye,2
+C. Benteke,T. Fosu-Mensah,2
+J. Ward,Y. Cabaye,2
+A. Townsend,L. Milivojevi\u0107,2
+T. Fosu-Mensah,A. S\u00f8rloth,1
+A. S\u00f8rloth,J. McArthur,1
+T. Fosu-Mensah,J. McArthur,1
+Y. Cabaye,J. Tomkins,1
+J. McArthur,L. Milivojevi\u0107,1
+T. Fosu-Mensah,W. Hennessey,1
+J. McArthur,W. Hennessey,1
+W. Hennessey,L. Milivojevi\u0107,1
+C. Benteke,A. S\u00f8rloth,1
+J. Tomkins,A. S\u00f8rloth,1
+P. van Aanholt,A. S\u00f8rloth,1
+J. Ward,L. Milivojevi\u0107,1
+A. S\u00f8rloth,J. Tomkins,1
+P. van Aanholt,J. Tomkins,1
+T. Fosu-Mensah,J. Ward,1
+C. Benteke,L. Milivojevi\u0107,1
+A. Townsend,A. S\u00f8rloth,1
+J. McArthur,P. van Aanholt,1
+P. van Aanholt,J. Ward,1
+J. Tomkins,C. Benteke,1
+T. Fosu-Mensah,P. van Aanholt,1
+Y. Cabaye,C. Benteke,1
+W. Hennessey,A. S\u00f8rloth,1
+A. S\u00f8rloth,L. Milivojevi\u0107,1
+P. van Aanholt,L. Milivojevi\u0107,1
+J. McArthur,J. Tomkins,1
+C. Benteke,W. Hennessey,1
+A. S\u00f8rloth,C. Benteke,1
+A. S\u00f8rloth,W. Hennessey,1
+W. Hennessey,C. Benteke,1
+C. Benteke,Y. Cabaye,1
+J. Tomkins,T. Fosu-Mensah,1
+J. Tomkins,A. Townsend,1
+P. van Aanholt,A. Townsend,1
+Y. Cabaye,J. Ward,1
+J. Ward,J. Tomkins,1
+J. Tomkins,P. van Aanholt,1
+W. Hennessey,J. Tomkins,1
+Y. Cabaye,J. McArthur,1
+J. Ward,A. Townsend,1

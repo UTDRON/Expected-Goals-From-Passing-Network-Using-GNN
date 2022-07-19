@@ -1,0 +1,67 @@
+Source,Target,Weight
+Pedro,E. Hazard,7
+A. Christensen,Azpilicueta,5
+F\u00e0bregas,Pedro,5
+D. Drinkwater,A. Christensen,4
+Marcos Alonso,T. Courtois,4
+T. Courtois,Marcos Alonso,4
+D. Drinkwater,Azpilicueta,4
+Marcos Alonso,D. Drinkwater,4
+A. R\u00fcdiger,Pedro,4
+E. Hazard,F\u00e0bregas,4
+Pedro,F\u00e0bregas,4
+E. Hazard,D. Drinkwater,3
+Azpilicueta,E. Hazard,3
+A. R\u00fcdiger,D. Drinkwater,3
+Pedro,Marcos Alonso,3
+Azpilicueta,T. Courtois,3
+D. Drinkwater,A. R\u00fcdiger,3
+E. Hazard,Azpilicueta,3
+A. R\u00fcdiger,T. Courtois,3
+Marcos Alonso,Pedro,3
+Azpilicueta,D. Drinkwater,3
+Azpilicueta,V. Moses,3
+Marcos Alonso,A. R\u00fcdiger,3
+Azpilicueta,A. Christensen,2
+T. Courtois,F\u00e0bregas,2
+T. Courtois,A. Christensen,2
+V. Moses,F\u00e0bregas,2
+D. Drinkwater,F\u00e0bregas,2
+F\u00e0bregas,T. Courtois,2
+F\u00e0bregas,E. Hazard,2
+F\u00e0bregas,V. Moses,2
+F\u00e0bregas,Willian,2
+V. Moses,Azpilicueta,2
+T. Courtois,A. R\u00fcdiger,2
+A. Christensen,Marcos Alonso,2
+A. R\u00fcdiger,F\u00e0bregas,2
+D. Drinkwater,Marcos Alonso,2
+D. Drinkwater,T. Courtois,2
+Azpilicueta,Pedro,2
+Willian,Pedro,2
+Pedro,A. R\u00fcdiger,2
+Willian,A. R\u00fcdiger,2
+T. Courtois,Azpilicueta,2
+Pedro,Azpilicueta,2
+E. Hazard,Pedro,1
+V. Moses,Marcos Alonso,1
+A. R\u00fcdiger,E. Hazard,1
+E. Hazard,Willian,1
+E. Hazard,Marcos Alonso,1
+Azpilicueta,Willian,1
+Marcos Alonso,V. Moses,1
+V. Moses,D. Drinkwater,1
+T. Courtois,D. Drinkwater,1
+Azpilicueta,A. R\u00fcdiger,1
+F\u00e0bregas,D. Drinkwater,1
+D. Drinkwater,V. Moses,1
+F\u00e0bregas,Marcos Alonso,1
+A. Christensen,D. Drinkwater,1
+A. Christensen,A. R\u00fcdiger,1
+T. Courtois,E. Hazard,1
+F\u00e0bregas,O. Giroud,1
+V. Moses,Pedro,1
+A. R\u00fcdiger,Marcos Alonso,1
+E. Hazard,A. Christensen,1
+Pedro,D. Drinkwater,1
+A. Christensen,Pedro,1

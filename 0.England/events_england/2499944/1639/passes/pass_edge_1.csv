@@ -1,0 +1,49 @@
+Source,Target,Weight
+D. Fletcher,X. Shaqiri,5
+D. Fletcher,E. Choupo-Moting,4
+X. Shaqiri,J. Allen,4
+E. Choupo-Moting,D. Fletcher,4
+S. Ireland,D. Fletcher,3
+J. Allen,B. Martins Indi,2
+D. Fletcher,J. Allen,2
+P. Crouch,J. Allen,2
+J. Tymon,D. Fletcher,2
+M. Bauer,P. Crouch,2
+S. Ireland,K. Zouma,2
+J. Allen,X. Shaqiri,2
+J. Allen,D. Fletcher,2
+J. Allen,S. Ireland,2
+B. Martins Indi,J. Tymon,2
+D. Fletcher,K. Zouma,2
+E. Choupo-Moting,J. Tymon,1
+J. Tymon,X. Shaqiri,1
+S. Ireland,J. Tymon,1
+J. Allen,P. Crouch,1
+X. Shaqiri,S. Ireland,1
+E. Choupo-Moting,S. Ireland,1
+P. Crouch,D. Fletcher,1
+K. Zouma,S. Ireland,1
+S. Ireland,E. Choupo-Moting,1
+K. Zouma,B. Martins Indi,1
+K. Zouma,P. Crouch,1
+K. Zouma,D. Fletcher,1
+J. Tymon,M. Bauer,1
+X. Shaqiri,J. Tymon,1
+B. Martins Indi,K. Zouma,1
+X. Shaqiri,D. Fletcher,1
+J. Butland,P. Crouch,1
+D. Fletcher,J. Tymon,1
+K. Zouma,J. Tymon,1
+J. Tymon,J. Butland,1
+M. Bauer,E. Choupo-Moting,1
+X. Shaqiri,M. Bauer,1
+M. Bauer,J. Allen,1
+P. Crouch,M. Bauer,1
+S. Ireland,X. Shaqiri,1
+E. Choupo-Moting,M. Bauer,1
+P. Crouch,B. Martins Indi,1
+M. Bauer,S. Ireland,1
+J. Tymon,E. Choupo-Moting,1
+J. Allen,M. Bauer,1
+B. Martins Indi,S. Ireland,1
+J. Tymon,J. Allen,1

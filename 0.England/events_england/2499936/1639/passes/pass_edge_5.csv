@@ -1,0 +1,24 @@
+Source,Target,Weight
+G. Cameron,K. Wimmer,3
+J. Butland,K. Zouma,2
+J. Butland,G. Cameron,2
+K. Zouma,M. Diouf,2
+K. Wimmer,J. Butland,2
+C. Adam,K. Wimmer,2
+K. Zouma,C. Adam,2
+E. Choupo-Moting,K. Zouma,1
+K. Wimmer,G. Cameron,1
+J. Allen,G. Cameron,1
+S. Berahino,J. Butland,1
+K. Zouma,J. Allen,1
+K. Wimmer,K. Zouma,1
+K. Zouma,J. Butland,1
+G. Cameron,E. Choupo-Moting,1
+K. Wimmer,E. Choupo-Moting,1
+E. Choupo-Moting,K. Wimmer,1
+M. Diouf,K. Wimmer,1
+C. Adam,K. Zouma,1
+K. Wimmer,C. Adam,1
+G. Cameron,K. Zouma,1
+K. Zouma,G. Cameron,1
+M. Diouf,S. Berahino,1

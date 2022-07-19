@@ -1,0 +1,60 @@
+Source,Target,Weight
+Danilo,N. Otamendi,5
+N. Otamendi,Fernandinho,5
+Fernandinho,Danilo,4
+Danilo,Fernandinho,4
+Bernardo Silva,K. De Bruyne,4
+K. De Bruyne,Fernandinho,4
+E. Mangala,F. Delph,4
+N. Otamendi,Ederson,3
+Bernardo Silva,Danilo,3
+K. De Bruyne,Bernardo Silva,3
+N. Otamendi,Danilo,3
+Fernandinho,David Silva,3
+R. Sterling,David Silva,3
+Danilo,Bernardo Silva,3
+Ederson,E. Mangala,3
+F. Delph,E. Mangala,3
+Ederson,F. Delph,2
+Fernandinho,N. Otamendi,2
+David Silva,F. Delph,2
+E. Mangala,N. Otamendi,2
+F. Delph,Fernandinho,2
+N. Otamendi,Bernardo Silva,2
+David Silva,E. Mangala,2
+Fernandinho,K. De Bruyne,2
+N. Otamendi,K. De Bruyne,2
+S. Ag\u00fcero,Danilo,2
+Fernandinho,Bernardo Silva,2
+David Silva,N. Otamendi,2
+Danilo,Ederson,2
+F. Delph,Danilo,2
+David Silva,S. Ag\u00fcero,2
+E. Mangala,Ederson,2
+David Silva,Danilo,2
+F. Delph,R. Sterling,2
+K. De Bruyne,Danilo,2
+Ederson,N. Otamendi,2
+Bernardo Silva,Fernandinho,1
+E. Mangala,K. De Bruyne,1
+Fernandinho,F. Delph,1
+Danilo,David Silva,1
+S. Ag\u00fcero,David Silva,1
+K. De Bruyne,David Silva,1
+Danilo,K. De Bruyne,1
+Fernandinho,R. Sterling,1
+Danilo,E. Mangala,1
+Bernardo Silva,N. Otamendi,1
+Bernardo Silva,David Silva,1
+Danilo,F. Delph,1
+E. Mangala,David Silva,1
+Ederson,David Silva,1
+F. Delph,K. De Bruyne,1
+K. De Bruyne,Ederson,1
+Fernandinho,S. Ag\u00fcero,1
+David Silva,Fernandinho,1
+Fernandinho,E. Mangala,1
+Bernardo Silva,S. Ag\u00fcero,1
+David Silva,Bernardo Silva,1
+S. Ag\u00fcero,R. Sterling,1
+R. Sterling,N. Otamendi,1

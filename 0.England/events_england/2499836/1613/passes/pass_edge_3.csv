@@ -1,0 +1,20 @@
+Source,Target,Weight
+I. Hayden,F. Lejeune,2
+Joselu,I. Hayden,2
+J. Murphy,Joselu,1
+C. Clark,I. Hayden,1
+R. Elliot,Joselu,1
+F. Lejeune,R. Elliot,1
+Javi Manquillo,I. Hayden,1
+I. Hayden,C. Clark,1
+C. Clark,D. Gayle,1
+F. Lejeune,C. Clark,1
+D. Gayle,J. Murphy,1
+I. Hayden,D. Yedlin,1
+D. Yedlin,D. Gayle,1
+J. Shelvey,Javi Manquillo,1
+I. Hayden,M. Ritchie,1
+D. Yedlin,J. Shelvey,1
+D. Gayle,J. Shelvey,1
+M. Ritchie,J. Murphy,1
+J. Shelvey,I. Hayden,1

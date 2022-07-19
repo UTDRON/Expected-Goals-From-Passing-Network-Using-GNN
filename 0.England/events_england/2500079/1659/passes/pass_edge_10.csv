@@ -1,0 +1,21 @@
+Source,Target,Weight
+J. King,C. Wilson,2
+A. Surman,L. Cook,2
+C. Daniels,A. Surman,2
+A. Surman,C. Daniels,1
+C. Wilson,J. King,1
+R. Fraser,N. Ak\u00e9,1
+R. Fraser,J. King,1
+A. Surman,R. Fraser,1
+C. Daniels,J. King,1
+S. Francis,S. Cook,1
+J. King,L. Cook,1
+S. Cook,A. Surman,1
+N. Ak\u00e9,C. Daniels,1
+L. Cook,A. Surman,1
+L. Cook,C. Daniels,1
+L. Cook,S. Francis,1
+N. Ak\u00e9,L. Cook,1
+L. Cook,C. Wilson,1
+S. Francis,R. Fraser,1
+C. Wilson,S. Francis,1

@@ -1,0 +1,54 @@
+Source,Target,Weight
+R. Klavan,J. Milner,7
+N. Clyne,J. Gomez,6
+J. Henderson,J. Milner,6
+J. Gomez,J. Henderson,6
+J. Milner,N. Clyne,6
+J. Milner,R. Klavan,5
+J. Milner,J. Henderson,4
+J. Milner,Alberto Moreno,4
+Roberto Firmino,J. Milner,4
+V. van Dijk,J. Gomez,4
+Alberto Moreno,Roberto Firmino,4
+J. Henderson,Alberto Moreno,3
+J. Henderson,N. Clyne,3
+Alberto Moreno,J. Milner,3
+J. Henderson,Roberto Firmino,3
+Alberto Moreno,R. Klavan,3
+J. Milner,V. van Dijk,3
+J. Henderson,R. Klavan,3
+Roberto Firmino,J. Gomez,3
+V. van Dijk,R. Klavan,3
+J. Gomez,V. van Dijk,3
+R. Klavan,J. Henderson,3
+N. Clyne,J. Henderson,3
+R. Klavan,Alberto Moreno,2
+V. van Dijk,J. Henderson,2
+Roberto Firmino,J. Henderson,2
+R. Klavan,V. van Dijk,2
+J. Gomez,Roberto Firmino,2
+V. van Dijk,J. Milner,2
+Roberto Firmino,N. Clyne,2
+Roberto Firmino,G. Wijnaldum,2
+G. Wijnaldum,J. Gomez,2
+J. Milner,Roberto Firmino,2
+Mohamed Salah,V. van Dijk,1
+J. Gomez,N. Clyne,1
+R. Klavan,G. Wijnaldum,1
+N. Clyne,Roberto Firmino,1
+N. Clyne,R. Klavan,1
+J. Henderson,V. van Dijk,1
+G. Wijnaldum,Mohamed Salah,1
+G. Wijnaldum,R. Klavan,1
+G. Wijnaldum,J. Milner,1
+R. Klavan,Roberto Firmino,1
+J. Gomez,G. Wijnaldum,1
+J. Gomez,J. Milner,1
+J. Henderson,J. Gomez,1
+J. Milner,G. Wijnaldum,1
+J. Gomez,L. Karius,1
+Alberto Moreno,V. van Dijk,1
+L. Karius,G. Wijnaldum,1
+N. Clyne,J. Milner,1
+G. Wijnaldum,V. van Dijk,1
+J. Gomez,Alberto Moreno,1

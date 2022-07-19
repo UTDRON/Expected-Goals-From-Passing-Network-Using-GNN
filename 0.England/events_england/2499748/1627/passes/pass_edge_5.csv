@@ -1,0 +1,22 @@
+Source,Target,Weight
+C. Brunt,J. Morrison,2
+Ahmed Hegazy,J. Rodriguez,2
+J. Morrison,Ahmed Hegazy,2
+A. Nyom,G. Barry,2
+G. Barry,J. Morrison,2
+M. Phillips,A. Nyom,2
+G. Barry,M. Phillips,1
+M. Phillips,Ahmed Hegazy,1
+M. Phillips,G. Barry,1
+J. Rodriguez,M. Phillips,1
+A. Nyom,M. Phillips,1
+J. Morrison,G. Barry,1
+G. Barry,J. Livermore,1
+J. Rodriguez,A. Nyom,1
+S. Rond\u00f3n,J. Rodriguez,1
+J. Rodriguez,C. Brunt,1
+J. Livermore,M. Phillips,1
+J. Rodriguez,J. Morrison,1
+J. Rodriguez,S. Rond\u00f3n,1
+J. Morrison,J. Rodriguez,1
+J. Morrison,C. Brunt,1

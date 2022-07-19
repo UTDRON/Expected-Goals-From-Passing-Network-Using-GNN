@@ -1,0 +1,37 @@
+Source,Target,Weight
+C. Kouyat\u00e9,A. Cresswell,3
+A. Cresswell,M. Antonio,3
+A. Cresswell,M. Lanzini,2
+M. Noble,D. Rice,2
+D. Rice,P. Zabaleta,2
+D. Rice,A. Cresswell,2
+M. Antonio,M. Lanzini,2
+M. Lanzini,M. Antonio,2
+A. Cresswell,C. Kouyat\u00e9,2
+A. Cresswell,Adri\u00e1n,2
+M. Noble,A. Cresswell,2
+M. Lanzini,C. Kouyat\u00e9,2
+C. Kouyat\u00e9,P. Zabaleta,1
+P. Zabaleta,M. Lanzini,1
+J. Hern\u00e1ndez,M. Noble,1
+M. Arnautovi\u0107,M. Noble,1
+M. Antonio,D. Rice,1
+P. Zabaleta,M. Antonio,1
+M. Lanzini,D. Rice,1
+M. Antonio,P. Zabaleta,1
+C. Kouyat\u00e9,D. Rice,1
+M. Antonio,J. Hern\u00e1ndez,1
+D. Rice,C. Kouyat\u00e9,1
+P. Zabaleta,A. Cresswell,1
+M. Antonio,M. Arnautovi\u0107,1
+A. Cresswell,M. Noble,1
+Adri\u00e1n,A. Cresswell,1
+Adri\u00e1n,M. Arnautovi\u0107,1
+Adri\u00e1n,M. Lanzini,1
+M. Antonio,A. Cresswell,1
+M. Arnautovi\u0107,C. Kouyat\u00e9,1
+P. Zabaleta,Adri\u00e1n,1
+C. Kouyat\u00e9,M. Antonio,1
+C. Kouyat\u00e9,M. Noble,1
+M. Lanzini,M. Noble,1
+M. Noble,C. Kouyat\u00e9,1

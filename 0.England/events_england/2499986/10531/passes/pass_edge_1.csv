@@ -1,0 +1,96 @@
+Source,Target,Weight
+N. Dyer,K. Naughton,11
+T. Carroll,M. Olsson,9
+K. Naughton,N. Dyer,8
+M. van der Hoorn,N. Dyer,8
+K. Naughton,T. Carroll,7
+M. Olsson,T. Carroll,7
+M. van der Hoorn,K. Naughton,7
+M. van der Hoorn,F. Fern\u00e1ndez,7
+S. Clucas,M. Olsson,7
+F. Fern\u00e1ndez,M. van der Hoorn,7
+K. Naughton,M. van der Hoorn,6
+N. Dyer,T. Carroll,6
+A. Mawson,S. Clucas,5
+Sung-Yeung Ki,A. Mawson,5
+J. Ayew,M. Olsson,5
+T. Carroll,Sung-Yeung Ki,5
+J. Ayew,K. Naughton,5
+F. Fern\u00e1ndez,A. Mawson,5
+\u0141. Fabia\u0144ski,M. van der Hoorn,5
+M. van der Hoorn,J. Ayew,4
+T. Carroll,F. Fern\u00e1ndez,4
+K. Naughton,Sung-Yeung Ki,4
+M. Olsson,J. Ayew,4
+N. Dyer,M. van der Hoorn,4
+M. Olsson,S. Clucas,4
+K. Naughton,J. Ayew,4
+A. Mawson,\u0141. Fabia\u0144ski,4
+J. Ayew,M. van der Hoorn,4
+M. Olsson,A. Mawson,4
+M. Olsson,N. Dyer,3
+Sung-Yeung Ki,M. van der Hoorn,3
+F. Fern\u00e1ndez,K. Naughton,3
+Sung-Yeung Ki,M. Olsson,3
+M. van der Hoorn,Sung-Yeung Ki,3
+Sung-Yeung Ki,S. Clucas,3
+T. Carroll,S. Clucas,3
+Sung-Yeung Ki,K. Naughton,3
+T. Carroll,M. van der Hoorn,3
+\u0141. Fabia\u0144ski,K. Naughton,3
+A. Mawson,T. Carroll,3
+A. Mawson,F. Fern\u00e1ndez,3
+M. Olsson,Sung-Yeung Ki,3
+Sung-Yeung Ki,J. Ayew,3
+S. Clucas,J. Ayew,3
+J. Ayew,F. Fern\u00e1ndez,2
+N. Dyer,J. Ayew,2
+J. Ayew,N. Dyer,2
+M. Olsson,F. Fern\u00e1ndez,2
+J. Ayew,Sung-Yeung Ki,2
+A. Mawson,Sung-Yeung Ki,2
+S. Clucas,A. Mawson,2
+J. Ayew,A. Mawson,2
+S. Clucas,T. Carroll,2
+S. Clucas,Sung-Yeung Ki,2
+A. Mawson,K. Naughton,2
+T. Carroll,\u0141. Fabia\u0144ski,2
+T. Carroll,K. Naughton,2
+\u0141. Fabia\u0144ski,T. Carroll,2
+F. Fern\u00e1ndez,\u0141. Fabia\u0144ski,2
+M. van der Hoorn,T. Carroll,2
+F. Fern\u00e1ndez,S. Clucas,2
+K. Naughton,\u0141. Fabia\u0144ski,2
+K. Naughton,F. Fern\u00e1ndez,2
+\u0141. Fabia\u0144ski,F. Fern\u00e1ndez,2
+M. van der Hoorn,\u0141. Fabia\u0144ski,2
+S. Clucas,N. Dyer,2
+Sung-Yeung Ki,\u0141. Fabia\u0144ski,2
+A. Mawson,M. van der Hoorn,2
+K. Naughton,S. Clucas,2
+M. Olsson,M. van der Hoorn,2
+N. Dyer,Sung-Yeung Ki,2
+\u0141. Fabia\u0144ski,A. Mawson,2
+M. Olsson,\u0141. Fabia\u0144ski,2
+M. van der Hoorn,M. Olsson,2
+A. Mawson,J. Ayew,1
+F. Fern\u00e1ndez,M. Olsson,1
+A. Mawson,M. Olsson,1
+N. Dyer,M. Olsson,1
+\u0141. Fabia\u0144ski,J. Ayew,1
+S. Clucas,F. Fern\u00e1ndez,1
+F. Fern\u00e1ndez,J. Ayew,1
+S. Clucas,\u0141. Fabia\u0144ski,1
+\u0141. Fabia\u0144ski,N. Dyer,1
+M. van der Hoorn,A. Mawson,1
+Sung-Yeung Ki,T. Carroll,1
+\u0141. Fabia\u0144ski,M. Olsson,1
+M. van der Hoorn,S. Clucas,1
+N. Dyer,A. Mawson,1
+F. Fern\u00e1ndez,Sung-Yeung Ki,1
+Sung-Yeung Ki,N. Dyer,1
+T. Carroll,N. Dyer,1
+T. Carroll,A. Mawson,1
+F. Fern\u00e1ndez,N. Dyer,1
+J. Ayew,S. Clucas,1
+K. Naughton,M. Olsson,1

@@ -1,0 +1,49 @@
+Source,Target,Weight
+T. Bakayoko,N. Kant\u00e9,4
+V. Moses,F\u00e0bregas,4
+T. Bakayoko,Marcos Alonso,3
+Marcos Alonso,T. Bakayoko,3
+Marcos Alonso,A. R\u00fcdiger,3
+N. Kant\u00e9,T. Bakayoko,3
+E. Hazard,Marcos Alonso,3
+T. Bakayoko,A. R\u00fcdiger,2
+A. R\u00fcdiger,Marcos Alonso,2
+Azpilicueta,T. Bakayoko,2
+N. Kant\u00e9,V. Moses,2
+Marcos Alonso,E. Hazard,2
+F\u00e0bregas,E. Hazard,2
+A. R\u00fcdiger,T. Bakayoko,2
+O. Giroud,G. Cahill,2
+Azpilicueta,F\u00e0bregas,2
+N. Kant\u00e9,F\u00e0bregas,2
+V. Moses,Azpilicueta,2
+E. Hazard,A. R\u00fcdiger,2
+G. Cahill,F\u00e0bregas,2
+F\u00e0bregas,V. Moses,2
+A. R\u00fcdiger,G. Cahill,2
+A. R\u00fcdiger,T. Courtois,2
+F\u00e0bregas,O. Giroud,2
+T. Courtois,E. Hazard,1
+O. Giroud,E. Hazard,1
+O. Giroud,Marcos Alonso,1
+F\u00e0bregas,N. Kant\u00e9,1
+Azpilicueta,N. Kant\u00e9,1
+V. Moses,O. Giroud,1
+T. Courtois,Marcos Alonso,1
+N. Kant\u00e9,Azpilicueta,1
+V. Moses,E. Hazard,1
+T. Bakayoko,Azpilicueta,1
+F\u00e0bregas,Azpilicueta,1
+T. Courtois,V. Moses,1
+Marcos Alonso,N. Kant\u00e9,1
+F\u00e0bregas,T. Bakayoko,1
+E. Hazard,O. Giroud,1
+T. Bakayoko,G. Cahill,1
+Azpilicueta,T. Courtois,1
+F\u00e0bregas,A. R\u00fcdiger,1
+G. Cahill,N. Kant\u00e9,1
+Marcos Alonso,O. Giroud,1
+G. Cahill,A. R\u00fcdiger,1
+G. Cahill,V. Moses,1
+A. R\u00fcdiger,V. Moses,1
+E. Hazard,V. Moses,1

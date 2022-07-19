@@ -1,0 +1,24 @@
+Source,Target,Weight
+B. Chilwell,D. Gray,2
+M. Albrighton,W. Ndidi,2
+K. Iheanacho,M. Albrighton,2
+H. Maguire,B. Chilwell,1
+H. Choudhury,W. Morgan,1
+H. Maguire,W. Morgan,1
+R. Mahrez,D. Gray,1
+D. Gray,H. Maguire,1
+W. Ndidi,J. Vardy,1
+M. Albrighton,H. Choudhury,1
+D. Gray,W. Ndidi,1
+M. Albrighton,K. Iheanacho,1
+W. Ndidi,H. Maguire,1
+W. Morgan,M. Albrighton,1
+W. Ndidi,B. Chilwell,1
+M. Albrighton,J. Vardy,1
+W. Morgan,K. Iheanacho,1
+W. Ndidi,M. Albrighton,1
+D. Gray,K. Iheanacho,1
+J. Vardy,R. Mahrez,1
+J. Vardy,M. Albrighton,1
+M. Albrighton,R. Mahrez,1
+R. Mahrez,M. Albrighton,1

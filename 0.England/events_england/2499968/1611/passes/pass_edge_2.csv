@@ -1,0 +1,78 @@
+Source,Target,Weight
+A. Valencia,P. Pogba,6
+A. Young,J. Lingard,6
+P. Pogba,A. Young,5
+C. Smalling,A. Valencia,4
+A. Martial,A. S\u00e1nchez,4
+A. S\u00e1nchez,J. Lingard,4
+A. Young,N. Mati\u0107,4
+A. Valencia,A. Martial,3
+N. Mati\u0107,David de Gea,3
+J. Lingard,R. Lukaku,3
+P. Pogba,A. Martial,3
+A. Valencia,N. Mati\u0107,3
+A. S\u00e1nchez,A. Martial,3
+A. Martial,A. Valencia,3
+C. Smalling,N. Mati\u0107,3
+P. Jones,A. Young,3
+J. Lingard,A. Young,3
+P. Pogba,A. Valencia,3
+David de Gea,R. Lukaku,3
+David de Gea,P. Pogba,2
+R. Lukaku,A. S\u00e1nchez,2
+N. Mati\u0107,A. Young,2
+N. Mati\u0107,C. Smalling,2
+N. Mati\u0107,A. Valencia,2
+David de Gea,C. Smalling,2
+A. Young,David de Gea,2
+R. Lukaku,A. Martial,2
+P. Pogba,A. S\u00e1nchez,2
+A. S\u00e1nchez,C. Smalling,2
+N. Mati\u0107,P. Pogba,2
+J. Lingard,A. Valencia,2
+N. Mati\u0107,A. Martial,2
+J. Lingard,A. S\u00e1nchez,2
+C. Smalling,P. Jones,2
+P. Jones,N. Mati\u0107,2
+P. Jones,C. Smalling,2
+A. Valencia,P. Jones,2
+A. Young,A. S\u00e1nchez,2
+A. S\u00e1nchez,A. Young,2
+A. S\u00e1nchez,P. Pogba,2
+A. Young,P. Jones,2
+A. Young,A. Valencia,2
+J. Lingard,P. Jones,2
+P. Jones,David de Gea,2
+C. Smalling,David de Gea,2
+A. S\u00e1nchez,A. Valencia,2
+A. Valencia,A. Young,2
+A. Martial,J. Lingard,1
+David de Gea,N. Mati\u0107,1
+David de Gea,P. Jones,1
+J. Lingard,C. Smalling,1
+David de Gea,A. S\u00e1nchez,1
+A. Young,A. Martial,1
+C. Smalling,A. Young,1
+A. Valencia,C. Smalling,1
+N. Mati\u0107,A. S\u00e1nchez,1
+P. Jones,P. Pogba,1
+N. Mati\u0107,R. Lukaku,1
+R. Lukaku,C. Smalling,1
+A. S\u00e1nchez,N. Mati\u0107,1
+A. Martial,P. Pogba,1
+R. Lukaku,P. Pogba,1
+A. Martial,David de Gea,1
+R. Lukaku,A. Valencia,1
+David de Gea,A. Young,1
+R. Lukaku,J. Lingard,1
+C. Smalling,J. Lingard,1
+A. Valencia,David de Gea,1
+P. Pogba,J. Lingard,1
+P. Pogba,R. Lukaku,1
+P. Jones,A. S\u00e1nchez,1
+A. Martial,C. Smalling,1
+J. Lingard,N. Mati\u0107,1
+N. Mati\u0107,P. Jones,1
+A. Valencia,A. S\u00e1nchez,1
+A. Martial,P. Jones,1
+A. Martial,N. Mati\u0107,1

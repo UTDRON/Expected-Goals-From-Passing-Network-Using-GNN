@@ -1,0 +1,23 @@
+Source,Target,Weight
+A. Barnes,C. Taylor,3
+C. Taylor,P. Bardsley,2
+J. Hendrick,C. Taylor,2
+C. Taylor,J. Hendrick,2
+C. Taylor,A. Barnes,2
+B. Mee,C. Taylor,2
+S. Defour,C. Taylor,2
+J. Gu\u00f0munds\u00adson,J. Tarkowski,1
+B. Mee,N. Pope,1
+J. Gu\u00f0munds\u00adson,J. Cork,1
+C. Taylor,J. Gu\u00f0munds\u00adson,1
+C. Taylor,B. Mee,1
+B. Mee,J. Gu\u00f0munds\u00adson,1
+N. Pope,S. Vokes,1
+S. Vokes,J. Gu\u00f0munds\u00adson,1
+P. Bardsley,B. Mee,1
+C. Taylor,S. Defour,1
+J. Tarkowski,J. Cork,1
+J. Cork,B. Mee,1
+P. Bardsley,S. Vokes,1
+J. Gu\u00f0munds\u00adson,S. Defour,1
+S. Vokes,A. Barnes,1

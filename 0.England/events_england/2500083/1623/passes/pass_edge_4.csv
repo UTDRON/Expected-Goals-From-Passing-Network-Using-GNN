@@ -1,0 +1,19 @@
+Source,Target,Weight
+P. Jagielka,I. Gueye,2
+M. Schneiderlin,T. Davies,2
+T. Davies,M. Schneiderlin,1
+T. Davies,Ramiro Funes Mori,1
+M. Schneiderlin,Ramiro Funes Mori,1
+O. Niasse,M. Schneiderlin,1
+I. Gueye,Ramiro Funes Mori,1
+I. Gueye,O. Niasse,1
+M. Schneiderlin,O. Niasse,1
+Ramiro Funes Mori,M. Schneiderlin,1
+O. Niasse,S. Coleman,1
+Ramiro Funes Mori,P. Jagielka,1
+I. Gueye,S. Coleman,1
+S. Coleman,O. Niasse,1
+M. Keane,P. Jagielka,1
+S. Coleman,M. Schneiderlin,1
+Ramiro Funes Mori,T. Davies,1
+T. Davies,I. Gueye,1

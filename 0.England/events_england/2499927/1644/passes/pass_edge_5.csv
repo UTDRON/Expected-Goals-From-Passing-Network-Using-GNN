@@ -1,0 +1,79 @@
+Source,Target,Weight
+M. Wagu\u00e9,C. Kabasele,10
+C. Kabasele,B. Watson,9
+A. Doucour\u00e9,B. Watson,9
+M. Wagu\u00e9,D. Janmaat,7
+B. Watson,A. Doucour\u00e9,7
+M. Zeegelaar,C. Kabasele,7
+C. Kabasele,M. Zeegelaar,7
+A. Carrillo,D. Janmaat,6
+B. Watson,C. Kabasele,6
+B. Watson,A. Carrillo,6
+M. Zeegelaar,B. Watson,6
+M. Zeegelaar,Richarlison,6
+B. Watson,M. Zeegelaar,6
+A. Doucour\u00e9,D. Janmaat,5
+A. Doucour\u00e9,Richarlison,5
+A. Doucour\u00e9,M. Zeegelaar,5
+Richarlison,M. Zeegelaar,5
+D. Janmaat,A. Carrillo,5
+D. Janmaat,S. Okaka,5
+M. Zeegelaar,A. Doucour\u00e9,5
+Richarlison,A. Doucour\u00e9,5
+S. Okaka,A. Doucour\u00e9,4
+B. Watson,S. Okaka,4
+A. Doucour\u00e9,T. Cleverley,4
+Richarlison,B. Watson,4
+B. Watson,T. Cleverley,4
+C. Kabasele,A. Doucour\u00e9,4
+A. Carrillo,M. Wagu\u00e9,4
+D. Janmaat,B. Watson,4
+B. Watson,M. Wagu\u00e9,4
+A. Doucour\u00e9,A. Carrillo,3
+A. Carrillo,A. Doucour\u00e9,3
+S. Okaka,M. Wagu\u00e9,3
+A. Doucour\u00e9,M. Wagu\u00e9,3
+A. Carrillo,B. Watson,3
+D. Janmaat,M. Wagu\u00e9,3
+T. Cleverley,Richarlison,3
+S. Okaka,A. Carrillo,3
+C. Kabasele,M. Wagu\u00e9,3
+T. Cleverley,A. Doucour\u00e9,3
+D. Janmaat,A. Doucour\u00e9,3
+Gomes,M. Wagu\u00e9,3
+Gomes,C. Kabasele,2
+A. Doucour\u00e9,C. Kabasele,2
+C. Kabasele,Gomes,2
+B. Watson,Gomes,2
+A. Carrillo,T. Cleverley,2
+C. Kabasele,D. Janmaat,2
+B. Watson,D. Janmaat,2
+D. Janmaat,Richarlison,2
+S. Okaka,B. Watson,2
+M. Wagu\u00e9,B. Watson,2
+M. Wagu\u00e9,A. Doucour\u00e9,2
+Gomes,A. Doucour\u00e9,1
+T. Cleverley,M. Zeegelaar,1
+A. Carrillo,S. Okaka,1
+Richarlison,C. Kabasele,1
+Richarlison,Gomes,1
+C. Kabasele,A. Carrillo,1
+A. Doucour\u00e9,S. Okaka,1
+S. Okaka,D. Janmaat,1
+Gomes,B. Watson,1
+M. Wagu\u00e9,Richarlison,1
+A. Carrillo,C. Kabasele,1
+M. Zeegelaar,A. Carrillo,1
+M. Wagu\u00e9,Gomes,1
+T. Cleverley,D. Janmaat,1
+Richarlison,S. Okaka,1
+T. Cleverley,S. Okaka,1
+C. Kabasele,T. Cleverley,1
+Richarlison,A. Carrillo,1
+D. Janmaat,M. Zeegelaar,1
+T. Cleverley,B. Watson,1
+S. Okaka,Richarlison,1
+T. Cleverley,A. Carrillo,1
+M. Wagu\u00e9,S. Okaka,1
+D. Janmaat,Gomes,1
+A. Carrillo,Richarlison,1

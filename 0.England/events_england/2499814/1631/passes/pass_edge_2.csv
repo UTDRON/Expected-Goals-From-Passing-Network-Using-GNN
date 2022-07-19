@@ -1,0 +1,16 @@
+Source,Target,Weight
+C. Fuchs,H. Maguire,3
+B. Chilwell,C. Fuchs,3
+R. Mahrez,Vicente Iborra,2
+W. Morgan,W. Ndidi,2
+C. Fuchs,D. Gray,1
+W. Ndidi,W. Morgan,1
+Vicente Iborra,B. Chilwell,1
+D. Gray,R. Mahrez,1
+H. Maguire,R. Mahrez,1
+W. Ndidi,D. Gray,1
+C. Fuchs,B. Chilwell,1
+H. Maguire,C. Fuchs,1
+D. Gray,B. Chilwell,1
+H. Maguire,W. Morgan,1
+Vicente Iborra,W. Morgan,1

@@ -1,0 +1,31 @@
+Source,Target,Weight
+T. Carroll,\u00c0ngel Rangel,3
+\u00c0ngel Rangel,J. Ayew,3
+J. Ayew,\u00c0ngel Rangel,3
+\u00c0ngel Rangel,T. Carroll,2
+\u00c0ngel Rangel,A. Mawson,2
+T. Carroll,A. Ayew,2
+\u00c0ngel Rangel,N. Dyer,2
+M. van der Hoorn,\u00c0ngel Rangel,2
+T. Carroll,L. Britton,2
+L. Britton,T. Carroll,2
+M. van der Hoorn,T. Carroll,1
+A. Ayew,\u00c0ngel Rangel,1
+\u00c0ngel Rangel,L. Britton,1
+A. Mawson,L. Britton,1
+A. Ayew,J. Ayew,1
+N. Dyer,\u00c0ngel Rangel,1
+N. Dyer,M. van der Hoorn,1
+L. Britton,J. Ayew,1
+M. Olsson,T. Carroll,1
+A. Mawson,J. Ayew,1
+L. Britton,M. van der Hoorn,1
+M. Olsson,L. Britton,1
+S. Clucas,T. Carroll,1
+A. Ayew,M. Olsson,1
+J. Ayew,M. van der Hoorn,1
+L. Britton,S. Clucas,1
+J. Ayew,T. Carroll,1
+L. Britton,M. Olsson,1
+T. Carroll,T. Abraham,1
+T. Abraham,A. Ayew,1

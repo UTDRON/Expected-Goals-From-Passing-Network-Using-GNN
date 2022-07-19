@@ -1,0 +1,19 @@
+Source,Target,Weight
+A. Barnes,J. Hendrick,2
+J. Gu\u00f0munds\u00adson,P. Bardsley,2
+S. Arfield,J. Cork,1
+J. Hendrick,S. Arfield,1
+C. Taylor,A. Barnes,1
+A. Barnes,K. Long,1
+P. Bardsley,A. Barnes,1
+J. Cork,C. Taylor,1
+P. Bardsley,B. Mee,1
+J. Hendrick,J. Gu\u00f0munds\u00adson,1
+B. Mee,S. Arfield,1
+S. Arfield,K. Long,1
+N. Pope,A. Barnes,1
+J. Gu\u00f0munds\u00adson,S. Defour,1
+K. Long,N. Pope,1
+K. Long,S. Defour,1
+K. Long,J. Gu\u00f0munds\u00adson,1
+S. Defour,J. Gu\u00f0munds\u00adson,1

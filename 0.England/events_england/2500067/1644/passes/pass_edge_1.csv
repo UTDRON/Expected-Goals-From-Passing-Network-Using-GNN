@@ -1,0 +1,19 @@
+Source,Target,Weight
+T. Deeney,W. Hughes,2
+E. Capoue,R. Pereyra,1
+E. Capoue,A. Doucour\u00e9,1
+R. Pereyra,E. Capoue,1
+W. Hughes,R. Pereyra,1
+A. Mariappa,S. Okaka,1
+J. Holebas,T. Deeney,1
+R. Pereyra,T. Deeney,1
+W. Hughes,S. Okaka,1
+T. Deeney,R. Pereyra,1
+S. Okaka,E. Capoue,1
+A. Doucour\u00e9,S. Okaka,1
+C. Cathcart,A. Mariappa,1
+R. Pereyra,W. Hughes,1
+E. Capoue,C. Cathcart,1
+S. Okaka,C. Cathcart,1
+S. Okaka,T. Deeney,1
+C. Cathcart,J. Holebas,1

@@ -1,0 +1,64 @@
+Source,Target,Weight
+A. Doucour\u00e9,M. Britos,5
+Y. Kaboul,Kiko Femen\u00eda,5
+Kiko Femen\u00eda,A. Doucour\u00e9,4
+N. Amrabat,Y. Kaboul,4
+J. Holebas,Y. Kaboul,3
+M. Britos,Y. Kaboul,3
+Y. Kaboul,M. Britos,3
+M. Britos,J. Holebas,3
+Kiko Femen\u00eda,N. Amrabat,3
+A. Doucour\u00e9,T. Cleverley,3
+J. Holebas,M. Britos,3
+Y. Kaboul,A. Doucour\u00e9,3
+A. Doucour\u00e9,J. Holebas,3
+Gomes,Richarlison,3
+Gomes,A. Doucour\u00e9,2
+Richarlison,J. Holebas,2
+T. Cleverley,N. Amrabat,2
+A. Doucour\u00e9,Kiko Femen\u00eda,2
+A. Doucour\u00e9,Richarlison,2
+M. Britos,Gomes,2
+Kiko Femen\u00eda,N. Chalobah,2
+Richarlison,T. Cleverley,2
+T. Cleverley,N. Chalobah,2
+A. Doucour\u00e9,Gomes,2
+Richarlison,A. Doucour\u00e9,2
+A. Gray,Gomes,2
+N. Chalobah,N. Amrabat,2
+J. Holebas,A. Doucour\u00e9,2
+Y. Kaboul,N. Amrabat,2
+T. Cleverley,M. Britos,2
+M. Britos,A. Doucour\u00e9,2
+Kiko Femen\u00eda,Y. Kaboul,2
+M. Britos,T. Cleverley,2
+N. Amrabat,Kiko Femen\u00eda,2
+N. Chalobah,A. Doucour\u00e9,2
+T. Cleverley,Kiko Femen\u00eda,1
+A. Doucour\u00e9,A. Gray,1
+M. Britos,N. Chalobah,1
+T. Cleverley,A. Doucour\u00e9,1
+J. Holebas,Gomes,1
+N. Amrabat,A. Gray,1
+T. Cleverley,J. Holebas,1
+N. Amrabat,J. Holebas,1
+Richarlison,M. Britos,1
+Richarlison,Y. Kaboul,1
+Y. Kaboul,A. Gray,1
+Y. Kaboul,Richarlison,1
+N. Amrabat,M. Britos,1
+N. Amrabat,A. Doucour\u00e9,1
+Gomes,T. Cleverley,1
+N. Chalobah,Kiko Femen\u00eda,1
+Gomes,A. Gray,1
+M. Britos,Kiko Femen\u00eda,1
+A. Gray,N. Amrabat,1
+A. Doucour\u00e9,Y. Kaboul,1
+Kiko Femen\u00eda,T. Cleverley,1
+M. Britos,Richarlison,1
+T. Cleverley,A. Gray,1
+Kiko Femen\u00eda,M. Britos,1
+T. Cleverley,Richarlison,1
+J. Holebas,T. Cleverley,1
+A. Gray,T. Cleverley,1
+A. Gray,Kiko Femen\u00eda,1

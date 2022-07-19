@@ -1,0 +1,59 @@
+Source,Target,Weight
+P. van Aanholt,J. McArthur,4
+A. S\u00f8rloth,L. Milivojevi\u0107,4
+J. Schlupp,P. van Aanholt,4
+A. S\u00f8rloth,A. Wan-Bissaka,3
+J. McArthur,A. S\u00f8rloth,3
+L. Milivojevi\u0107,J. McArthur,3
+L. Milivojevi\u0107,J. Schlupp,3
+A. Wan-Bissaka,A. Townsend,3
+L. Milivojevi\u0107,A. Townsend,2
+C. Benteke,J. McArthur,2
+A. Wan-Bissaka,J. Tomkins,2
+J. Tomkins,C. Benteke,2
+A. Wan-Bissaka,C. Benteke,2
+J. Tomkins,L. Milivojevi\u0107,2
+C. Benteke,L. Milivojevi\u0107,2
+J. Schlupp,L. Milivojevi\u0107,2
+P. van Aanholt,A. Wan-Bissaka,2
+P. van Aanholt,J. Tomkins,2
+A. Townsend,L. Milivojevi\u0107,2
+A. Townsend,J. Schlupp,2
+J. McArthur,P. van Aanholt,2
+L. Milivojevi\u0107,A. Wan-Bissaka,2
+P. van Aanholt,C. Benteke,2
+A. S\u00f8rloth,P. van Aanholt,2
+J. McArthur,J. Schlupp,2
+W. Hennessey,A. S\u00f8rloth,2
+J. Schlupp,A. S\u00f8rloth,1
+A. S\u00f8rloth,C. Benteke,1
+W. Hennessey,C. Benteke,1
+P. van Aanholt,J. Schlupp,1
+L. Milivojevi\u0107,A. S\u00f8rloth,1
+J. Schlupp,M. Kelly,1
+P. van Aanholt,A. Townsend,1
+A. Wan-Bissaka,L. Milivojevi\u0107,1
+A. S\u00f8rloth,A. Townsend,1
+A. Townsend,W. Hennessey,1
+L. Milivojevi\u0107,J. Tomkins,1
+J. McArthur,A. Wan-Bissaka,1
+C. Benteke,J. Tomkins,1
+J. Tomkins,A. S\u00f8rloth,1
+A. Townsend,P. van Aanholt,1
+A. Townsend,M. Kelly,1
+C. Benteke,A. Townsend,1
+P. van Aanholt,A. S\u00f8rloth,1
+A. Townsend,A. Wan-Bissaka,1
+A. Wan-Bissaka,A. S\u00f8rloth,1
+L. Milivojevi\u0107,P. van Aanholt,1
+J. Tomkins,P. van Aanholt,1
+M. Kelly,C. Benteke,1
+M. Kelly,J. Tomkins,1
+C. Benteke,A. S\u00f8rloth,1
+C. Benteke,P. van Aanholt,1
+C. Benteke,M. Kelly,1
+L. Milivojevi\u0107,M. Kelly,1
+J. McArthur,L. Milivojevi\u0107,1
+J. Tomkins,W. Hennessey,1
+M. Kelly,P. van Aanholt,1
+M. Kelly,W. Hennessey,1

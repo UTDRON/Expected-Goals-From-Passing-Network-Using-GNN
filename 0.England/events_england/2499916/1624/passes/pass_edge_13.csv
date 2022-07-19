@@ -1,0 +1,23 @@
+Source,Target,Weight
+J. Vertonghen,D. Rose,2
+E. Dier,J. Vertonghen,2
+D. S\u00e1nchez,E. Dier,2
+J. Vertonghen,H. Lloris,1
+D. Alli,M. Sissoko,1
+S. Aurier,D. Alli,1
+H. Kane,E. Dier,1
+H. Lloris,D. S\u00e1nchez,1
+M. Sissoko,J. Vertonghen,1
+C. Eriksen,H. Lloris,1
+J. Vertonghen,C. Eriksen,1
+J. Vertonghen,D. S\u00e1nchez,1
+H. Lloris,J. Vertonghen,1
+D. Rose,H. Kane,1
+D. Rose,C. Eriksen,1
+D. Alli,S. Aurier,1
+E. Dier,D. S\u00e1nchez,1
+E. Dier,D. Alli,1
+C. Eriksen,D. Alli,1
+D. Alli,J. Vertonghen,1
+D. S\u00e1nchez,D. Alli,1
+D. Alli,H. Kane,1

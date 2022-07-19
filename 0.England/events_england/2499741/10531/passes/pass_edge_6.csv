@@ -1,0 +1,49 @@
+Source,Target,Weight
+M. Olsson,J. Ayew,4
+K. Naughton,L. Fer,3
+\u0141. Fabia\u0144ski,T. Abraham,3
+K. Naughton,J. Ayew,3
+J. Ayew,M. Olsson,3
+J. Ayew,K. Naughton,2
+F. Fern\u00e1ndez,M. van der Hoorn,2
+T. Abraham,S. Clucas,2
+T. Abraham,M. Olsson,2
+S. Clucas,A. Mawson,2
+M. van der Hoorn,\u0141. Fabia\u0144ski,2
+F. Fern\u00e1ndez,K. Naughton,2
+\u0141. Fabia\u0144ski,S. Clucas,2
+M. van der Hoorn,K. Naughton,2
+J. Ayew,T. Carroll,2
+L. Fer,\u0141. Fabia\u0144ski,2
+J. Ayew,A. Mawson,1
+T. Abraham,A. Mawson,1
+K. Naughton,M. van der Hoorn,1
+T. Carroll,K. Naughton,1
+T. Carroll,M. van der Hoorn,1
+M. Olsson,M. van der Hoorn,1
+S. Clucas,L. Fer,1
+M. van der Hoorn,L. Fer,1
+S. Clucas,T. Carroll,1
+L. Fer,S. Clucas,1
+M. Olsson,\u0141. Fabia\u0144ski,1
+M. van der Hoorn,S. Clucas,1
+L. Fer,F. Fern\u00e1ndez,1
+F. Fern\u00e1ndez,T. Abraham,1
+K. Naughton,\u0141. Fabia\u0144ski,1
+J. Ayew,M. van der Hoorn,1
+K. Naughton,T. Abraham,1
+A. Mawson,J. Ayew,1
+\u0141. Fabia\u0144ski,J. Ayew,1
+A. Mawson,M. Olsson,1
+T. Carroll,M. Olsson,1
+L. Fer,K. Naughton,1
+T. Carroll,F. Fern\u00e1ndez,1
+S. Clucas,F. Fern\u00e1ndez,1
+A. Mawson,K. Naughton,1
+T. Abraham,F. Fern\u00e1ndez,1
+M. Olsson,T. Carroll,1
+K. Naughton,F. Fern\u00e1ndez,1
+F. Fern\u00e1ndez,M. Olsson,1
+A. Mawson,T. Abraham,1
+M. Olsson,F. Fern\u00e1ndez,1
+S. Clucas,K. Naughton,1

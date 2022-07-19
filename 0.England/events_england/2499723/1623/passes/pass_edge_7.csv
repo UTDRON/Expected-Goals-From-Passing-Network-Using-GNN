@@ -1,0 +1,45 @@
+Source,Target,Weight
+M. Schneiderlin,Cuco Martina,5
+I. Gueye,M. Schneiderlin,4
+T. Davies,L. Baines,3
+P. Jagielka,M. Schneiderlin,3
+T. Davies,M. Schneiderlin,3
+W. Rooney,D. Calvert-Lewin,3
+Cuco Martina,W. Rooney,3
+M. Schneiderlin,I. Gueye,3
+W. Rooney,M. Schneiderlin,2
+L. Baines,T. Davies,2
+M. Schneiderlin,M. Keane,2
+M. Schneiderlin,P. Jagielka,2
+M. Schneiderlin,W. Rooney,2
+Cuco Martina,I. Gueye,2
+I. Gueye,T. Davies,2
+Sandro,T. Davies,2
+W. Rooney,I. Gueye,2
+M. Keane,P. Jagielka,2
+D. Calvert-Lewin,Sandro,1
+D. Calvert-Lewin,M. Schneiderlin,1
+I. Gueye,W. Rooney,1
+M. Keane,M. Schneiderlin,1
+W. Rooney,M. Keane,1
+T. Davies,Sandro,1
+M. Schneiderlin,J. Pickford,1
+Sandro,P. Jagielka,1
+M. Schneiderlin,L. Baines,1
+T. Davies,W. Rooney,1
+J. Pickford,Cuco Martina,1
+Cuco Martina,M. Schneiderlin,1
+P. Jagielka,I. Gueye,1
+P. Jagielka,T. Davies,1
+Cuco Martina,T. Davies,1
+M. Keane,Cuco Martina,1
+P. Jagielka,M. Keane,1
+L. Baines,P. Jagielka,1
+L. Baines,Sandro,1
+L. Baines,M. Schneiderlin,1
+M. Schneiderlin,Sandro,1
+M. Keane,W. Rooney,1
+I. Gueye,M. Keane,1
+Sandro,W. Rooney,1
+W. Rooney,P. Jagielka,1
+P. Jagielka,L. Baines,1

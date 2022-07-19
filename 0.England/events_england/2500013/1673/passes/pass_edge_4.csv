@@ -1,0 +1,19 @@
+Source,Target,Weight
+S. Malone,A. Mooy,4
+M. J\u00f8rgensen,C. Schindler,3
+C. Schindler,S. Malone,2
+A. Mooy,R. van La Parra,2
+A. Mooy,M. J\u00f8rgensen,2
+J. Hogg,M. J\u00f8rgensen,1
+A. Mooy,S. Malone,1
+R. van La Parra,S. Mouni\u00e9,1
+S. Mouni\u00e9,R. van La Parra,1
+R. van La Parra,A. Mooy,1
+C. Schindler,S. Mouni\u00e9,1
+M. J\u00f8rgensen,J. Hogg,1
+S. Mouni\u00e9,S. Malone,1
+A. Mooy,J. Hogg,1
+J. Hogg,A. Mooy,1
+T. Ince,M. J\u00f8rgensen,1
+R. van La Parra,S. Malone,1
+S. Malone,R. van La Parra,1

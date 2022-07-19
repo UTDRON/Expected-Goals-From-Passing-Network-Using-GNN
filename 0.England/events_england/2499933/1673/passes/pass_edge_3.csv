@@ -1,0 +1,81 @@
+Source,Target,Weight
+J. Lolley,A. Mooy,7
+S. Mouni\u00e9,D. Williams,6
+S. Mouni\u00e9,J. Lolley,5
+R. van La Parra,M. J\u00f8rgensen,5
+C. L\u00f6we,S. Mouni\u00e9,5
+D. Williams,C. Schindler,5
+J. Lolley,S. Mouni\u00e9,5
+A. Mooy,M. J\u00f8rgensen,5
+T. Smith,S. Mouni\u00e9,5
+C. L\u00f6we,A. Mooy,4
+A. Mooy,C. L\u00f6we,4
+C. Schindler,S. Mouni\u00e9,4
+M. J\u00f8rgensen,R. van La Parra,4
+S. Mouni\u00e9,R. van La Parra,4
+S. Mouni\u00e9,T. Smith,4
+C. L\u00f6we,T. Ince,4
+M. J\u00f8rgensen,A. Mooy,3
+S. Mouni\u00e9,A. Mooy,3
+T. Ince,C. L\u00f6we,3
+C. L\u00f6we,C. Schindler,3
+R. van La Parra,C. L\u00f6we,3
+A. Mooy,D. Williams,3
+R. van La Parra,A. Mooy,3
+A. Mooy,S. Mouni\u00e9,3
+J. L\u00f6ssl,D. Williams,3
+A. Mooy,J. Lolley,3
+T. Smith,A. Mooy,3
+J. L\u00f6ssl,C. L\u00f6we,3
+R. van La Parra,T. Smith,3
+M. J\u00f8rgensen,J. L\u00f6ssl,3
+C. Schindler,M. J\u00f8rgensen,2
+A. Mooy,T. Smith,2
+T. Ince,C. Schindler,2
+S. Mouni\u00e9,C. L\u00f6we,2
+J. Lolley,C. L\u00f6we,2
+R. van La Parra,S. Mouni\u00e9,2
+T. Ince,J. Lolley,2
+J. Lolley,T. Smith,2
+C. Schindler,D. Williams,2
+C. Schindler,R. van La Parra,2
+T. Smith,J. L\u00f6ssl,2
+M. J\u00f8rgensen,D. Williams,2
+D. Williams,C. L\u00f6we,2
+C. Schindler,J. Lolley,2
+A. Mooy,R. van La Parra,2
+D. Williams,S. Mouni\u00e9,2
+T. Smith,R. van La Parra,2
+C. L\u00f6we,J. L\u00f6ssl,2
+S. Mouni\u00e9,M. J\u00f8rgensen,2
+D. Williams,J. L\u00f6ssl,2
+D. Williams,A. Mooy,2
+J. L\u00f6ssl,R. van La Parra,2
+C. L\u00f6we,J. Lolley,2
+S. Mouni\u00e9,T. Ince,2
+T. Ince,D. Williams,1
+R. van La Parra,J. Lolley,1
+C. Schindler,J. L\u00f6ssl,1
+A. Mooy,C. Schindler,1
+T. Ince,R. van La Parra,1
+J. L\u00f6ssl,C. Schindler,1
+M. J\u00f8rgensen,C. Schindler,1
+T. Smith,T. Ince,1
+T. Ince,S. Mouni\u00e9,1
+A. Mooy,J. L\u00f6ssl,1
+J. L\u00f6ssl,J. Lolley,1
+J. Lolley,T. Ince,1
+D. Williams,M. J\u00f8rgensen,1
+C. L\u00f6we,R. van La Parra,1
+J. L\u00f6ssl,S. Mouni\u00e9,1
+M. J\u00f8rgensen,J. Lolley,1
+R. van La Parra,J. L\u00f6ssl,1
+C. Schindler,C. L\u00f6we,1
+D. Williams,J. Lolley,1
+D. Williams,T. Smith,1
+J. L\u00f6ssl,A. Mooy,1
+J. L\u00f6ssl,T. Smith,1
+J. Lolley,J. L\u00f6ssl,1
+A. Mooy,T. Ince,1
+D. Williams,T. Ince,1
+M. J\u00f8rgensen,C. L\u00f6we,1

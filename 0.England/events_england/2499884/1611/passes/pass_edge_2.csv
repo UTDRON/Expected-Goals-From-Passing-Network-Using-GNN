@@ -1,0 +1,83 @@
+Source,Target,Weight
+C. Smalling,P. Jones,8
+Juan Mata,J. Lingard,6
+P. Jones,L. Shaw,6
+Juan Mata,A. Valencia,5
+A. Valencia,R. Lukaku,5
+P. Jones,C. Smalling,4
+C. Smalling,A. Valencia,4
+J. Lingard,C. Smalling,4
+L. Shaw,N. Mati\u0107,4
+A. Martial,Juan Mata,4
+A. Valencia,S. McTominay,4
+C. Smalling,S. McTominay,3
+N. Mati\u0107,A. Valencia,3
+S. McTominay,Juan Mata,3
+S. McTominay,C. Smalling,3
+A. Martial,N. Mati\u0107,3
+L. Shaw,Juan Mata,3
+N. Mati\u0107,Juan Mata,3
+A. Valencia,L. Shaw,3
+L. Shaw,A. Martial,3
+C. Smalling,R. Lukaku,3
+J. Lingard,A. Valencia,3
+P. Jones,A. Martial,3
+S. McTominay,N. Mati\u0107,3
+N. Mati\u0107,C. Smalling,3
+J. Lingard,A. Martial,3
+N. Mati\u0107,A. Martial,3
+J. Lingard,Juan Mata,3
+A. Martial,J. Lingard,2
+S. McTominay,A. Valencia,2
+J. Lingard,N. Mati\u0107,2
+P. Jones,A. Valencia,2
+R. Lukaku,A. Valencia,2
+L. Shaw,P. Jones,2
+R. Lukaku,J. Lingard,2
+A. Valencia,N. Mati\u0107,2
+Juan Mata,L. Shaw,2
+P. Jones,N. Mati\u0107,2
+A. Martial,S. McTominay,2
+R. Lukaku,Juan Mata,2
+L. Shaw,J. Lingard,2
+A. Valencia,C. Smalling,2
+A. Valencia,P. Jones,2
+Juan Mata,N. Mati\u0107,2
+A. Martial,C. Smalling,2
+N. Mati\u0107,S. McTominay,2
+N. Mati\u0107,J. Lingard,2
+R. Lukaku,C. Smalling,2
+N. Mati\u0107,P. Jones,2
+L. Shaw,C. Smalling,1
+C. Smalling,Juan Mata,1
+David de Gea,N. Mati\u0107,1
+A. Valencia,Juan Mata,1
+Juan Mata,David de Gea,1
+C. Smalling,L. Shaw,1
+David de Gea,S. McTominay,1
+N. Mati\u0107,L. Shaw,1
+A. Valencia,David de Gea,1
+A. Martial,P. Jones,1
+C. Smalling,A. Martial,1
+David de Gea,C. Smalling,1
+N. Mati\u0107,R. Lukaku,1
+S. McTominay,J. Lingard,1
+A. Valencia,J. Lingard,1
+S. McTominay,P. Jones,1
+R. Lukaku,S. McTominay,1
+Juan Mata,S. McTominay,1
+R. Lukaku,P. Jones,1
+A. Valencia,A. Martial,1
+P. Jones,R. Lukaku,1
+C. Smalling,N. Mati\u0107,1
+S. McTominay,L. Shaw,1
+A. Martial,L. Shaw,1
+Juan Mata,P. Jones,1
+P. Jones,David de Gea,1
+N. Mati\u0107,David de Gea,1
+R. Lukaku,N. Mati\u0107,1
+Juan Mata,R. Lukaku,1
+David de Gea,R. Lukaku,1
+Juan Mata,A. Martial,1
+L. Shaw,A. Valencia,1
+J. Lingard,P. Jones,1

@@ -1,0 +1,81 @@
+Source,Target,Weight
+A. Masuaku,M. Lanzini,5
+M. Lanzini,A. Masuaku,5
+D. Sakho,P. Zabaleta,4
+P. Zabaleta,D. Sakho,3
+D. Sakho,M. Antonio,3
+M. Antonio,D. Rice,3
+E. Fernandes,D. Sakho,3
+D. Rice,Adri\u00e1n,3
+E. Fernandes,A. Cresswell,3
+D. Rice,D. Sakho,3
+Pedro Obiang,M. Lanzini,2
+D. Sakho,M. Arnautovi\u0107,2
+M. Arnautovi\u0107,A. Masuaku,2
+A. Masuaku,A. Ogbonna,2
+E. Fernandes,M. Lanzini,2
+D. Rice,A. Cresswell,2
+M. Arnautovi\u0107,E. Fernandes,2
+Pedro Obiang,E. Fernandes,2
+D. Rice,P. Zabaleta,2
+A. Cresswell,Pedro Obiang,2
+A. Ogbonna,M. Antonio,2
+D. Sakho,Pedro Obiang,2
+A. Cresswell,M. Antonio,2
+M. Antonio,Pedro Obiang,2
+A. Cresswell,E. Fernandes,2
+D. Sakho,Adri\u00e1n,2
+M. Arnautovi\u0107,A. Cresswell,2
+Adri\u00e1n,D. Rice,2
+D. Rice,Pedro Obiang,2
+M. Lanzini,D. Rice,2
+A. Masuaku,M. Arnautovi\u0107,2
+Adri\u00e1n,D. Sakho,2
+Pedro Obiang,D. Sakho,2
+A. Cresswell,A. Masuaku,2
+A. Ogbonna,A. Masuaku,2
+A. Cresswell,Adri\u00e1n,2
+A. Masuaku,E. Fernandes,2
+M. Lanzini,D. Sakho,2
+M. Antonio,D. Sakho,1
+D. Sakho,A. Masuaku,1
+Pedro Obiang,M. Antonio,1
+Adri\u00e1n,M. Arnautovi\u0107,1
+M. Antonio,M. Arnautovi\u0107,1
+D. Sakho,A. Cresswell,1
+A. Ogbonna,Pedro Obiang,1
+M. Arnautovi\u0107,Pedro Obiang,1
+M. Antonio,A. Masuaku,1
+E. Fernandes,Pedro Obiang,1
+A. Masuaku,D. Sakho,1
+A. Cresswell,P. Zabaleta,1
+P. Zabaleta,M. Lanzini,1
+M. Lanzini,E. Fernandes,1
+E. Fernandes,D. Rice,1
+Adri\u00e1n,E. Fernandes,1
+A. Masuaku,A. Cresswell,1
+P. Zabaleta,A. Ogbonna,1
+M. Antonio,A. Ogbonna,1
+Adri\u00e1n,M. Antonio,1
+Adri\u00e1n,A. Cresswell,1
+P. Zabaleta,M. Antonio,1
+P. Zabaleta,Adri\u00e1n,1
+M. Arnautovi\u0107,D. Rice,1
+M. Antonio,P. Zabaleta,1
+A. Ogbonna,P. Zabaleta,1
+Pedro Obiang,M. Arnautovi\u0107,1
+P. Zabaleta,A. Cresswell,1
+Pedro Obiang,A. Cresswell,1
+Pedro Obiang,A. Masuaku,1
+P. Zabaleta,D. Rice,1
+A. Masuaku,D. Rice,1
+D. Sakho,E. Fernandes,1
+P. Zabaleta,A. Masuaku,1
+A. Cresswell,A. Ogbonna,1
+Pedro Obiang,D. Rice,1
+A. Masuaku,P. Zabaleta,1
+M. Arnautovi\u0107,M. Antonio,1
+E. Fernandes,M. Arnautovi\u0107,1
+D. Rice,A. Ogbonna,1
+D. Sakho,D. Rice,1
+A. Cresswell,M. Arnautovi\u0107,1

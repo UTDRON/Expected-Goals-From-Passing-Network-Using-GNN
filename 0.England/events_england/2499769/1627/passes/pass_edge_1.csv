@@ -1,0 +1,24 @@
+Source,Target,Weight
+H. Robson-Kanu,C. Dawson,3
+K. Gibbs,J. Evans,3
+A. Nyom,G. Krychowiak,2
+K. Gibbs,Ahmed Hegazy,2
+G. Krychowiak,H. Robson-Kanu,1
+C. Dawson,B. Foster,1
+J. Evans,K. Gibbs,1
+J. Evans,H. Robson-Kanu,1
+Ahmed Hegazy,A. Nyom,1
+Ahmed Hegazy,G. Krychowiak,1
+Ahmed Hegazy,H. Robson-Kanu,1
+C. Dawson,K. Gibbs,1
+B. Foster,H. Robson-Kanu,1
+G. Krychowiak,G. Barry,1
+H. Robson-Kanu,G. Barry,1
+J. Rodriguez,A. Nyom,1
+C. Dawson,A. Nyom,1
+J. Evans,J. Rodriguez,1
+G. Barry,J. Rodriguez,1
+G. Barry,K. Gibbs,1
+G. Krychowiak,K. Gibbs,1
+A. Nyom,K. Gibbs,1
+J. Evans,Ahmed Hegazy,1

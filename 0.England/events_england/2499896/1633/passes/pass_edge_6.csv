@@ -1,0 +1,65 @@
+Source,Target,Weight
+Pedro Obiang,A. Masuaku,7
+M. Lanzini,Pedro Obiang,5
+A. Masuaku,M. Lanzini,5
+A. Masuaku,Pedro Obiang,4
+Adri\u00e1n,D. Rice,3
+Pedro Obiang,M. Lanzini,3
+D. Rice,P. Zabaleta,3
+A. Masuaku,A. Cresswell,3
+A. Cresswell,D. Rice,2
+M. Lanzini,A. Cresswell,2
+A. Cresswell,J. Collins,2
+Pedro Obiang,Adri\u00e1n,2
+A. Cresswell,Adri\u00e1n,2
+P. Zabaleta,J. Collins,2
+P. Zabaleta,Adri\u00e1n,2
+M. Arnautovi\u0107,M. Lanzini,2
+A. Cresswell,M. Arnautovi\u0107,2
+J. Collins,P. Zabaleta,2
+J. Collins,A. Masuaku,2
+J. Collins,A. Cresswell,2
+J. Collins,D. Rice,2
+Adri\u00e1n,A. Cresswell,2
+D. Rice,Pedro Obiang,2
+M. Lanzini,A. Masuaku,2
+M. Arnautovi\u0107,J. Collins,2
+Pedro Obiang,M. Antonio,1
+M. Lanzini,M. Arnautovi\u0107,1
+D. Rice,A. Ogbonna,1
+Adri\u00e1n,M. Antonio,1
+D. Rice,M. Lanzini,1
+A. Masuaku,D. Rice,1
+D. Rice,J. Collins,1
+M. Antonio,M. Arnautovi\u0107,1
+J. Collins,Adri\u00e1n,1
+D. Rice,M. Arnautovi\u0107,1
+M. Arnautovi\u0107,A. Ogbonna,1
+M. Arnautovi\u0107,D. Rice,1
+Adri\u00e1n,M. Arnautovi\u0107,1
+A. Ogbonna,J. Collins,1
+M. Lanzini,J. Collins,1
+P. Zabaleta,M. Arnautovi\u0107,1
+A. Cresswell,M. Lanzini,1
+A. Ogbonna,M. Arnautovi\u0107,1
+P. Zabaleta,A. Masuaku,1
+A. Cresswell,P. Zabaleta,1
+Pedro Obiang,P. Zabaleta,1
+M. Arnautovi\u0107,Pedro Obiang,1
+Adri\u00e1n,J. Collins,1
+P. Zabaleta,M. Antonio,1
+D. Rice,A. Masuaku,1
+M. Antonio,A. Cresswell,1
+M. Arnautovi\u0107,A. Cresswell,1
+A. Cresswell,Pedro Obiang,1
+A. Ogbonna,M. Lanzini,1
+J. Collins,M. Antonio,1
+A. Cresswell,A. Ogbonna,1
+A. Ogbonna,D. Rice,1
+D. Rice,A. Cresswell,1
+M. Antonio,J. Collins,1
+A. Masuaku,M. Arnautovi\u0107,1
+J. Collins,Pedro Obiang,1
+M. Antonio,Adri\u00e1n,1
+M. Lanzini,A. Ogbonna,1
+M. Lanzini,D. Rice,1

@@ -1,0 +1,20 @@
+Source,Target,Weight
+S. Mustafi,Nacho Monreal,2
+S. Mustafi,R. Holding,2
+G. Xhaka,S. Mustafi,2
+Nacho Monreal,A. Ramsey,1
+A. S\u00e1nchez,R. Holding,1
+Nacho Monreal,A. S\u00e1nchez,1
+R. Holding,S. Mustafi,1
+A. Ramsey,S. Mustafi,1
+G. Xhaka,Nacho Monreal,1
+R. Holding,G. Xhaka,1
+Nacho Monreal,G. Xhaka,1
+R. Holding,A. Iwobi,1
+A. Iwobi,Beller\u00edn,1
+A. Ramsey,A. Iwobi,1
+A. Lacazette,S. Mustafi,1
+Beller\u00edn,A. Iwobi,1
+S. Mustafi,G. Xhaka,1
+A. Iwobi,A. Lacazette,1
+A. Iwobi,A. Ramsey,1

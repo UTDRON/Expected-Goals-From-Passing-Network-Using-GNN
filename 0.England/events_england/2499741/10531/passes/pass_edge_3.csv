@@ -1,0 +1,83 @@
+Source,Target,Weight
+A. Mawson,T. Carroll,16
+F. Fern\u00e1ndez,A. Mawson,13
+M. Olsson,A. Mawson,10
+M. van der Hoorn,K. Naughton,10
+T. Carroll,A. Mawson,10
+F. Fern\u00e1ndez,M. van der Hoorn,9
+A. Mawson,M. Olsson,9
+S. Clucas,A. Mawson,9
+T. Carroll,F. Fern\u00e1ndez,8
+A. Mawson,S. Clucas,8
+T. Carroll,M. Olsson,7
+M. van der Hoorn,F. Fern\u00e1ndez,7
+A. Mawson,F. Fern\u00e1ndez,7
+K. Naughton,L. Fer,6
+J. Ayew,K. Naughton,6
+K. Naughton,J. Ayew,5
+A. Mawson,M. van der Hoorn,5
+K. Naughton,S. Clucas,5
+\u0141. Fabia\u0144ski,A. Mawson,4
+L. Fer,K. Naughton,4
+S. Clucas,M. van der Hoorn,4
+K. Naughton,M. van der Hoorn,4
+M. Olsson,T. Carroll,4
+M. van der Hoorn,\u0141. Fabia\u0144ski,4
+S. Clucas,F. Fern\u00e1ndez,4
+T. Abraham,J. Ayew,3
+F. Fern\u00e1ndez,T. Carroll,3
+S. Clucas,T. Carroll,3
+T. Carroll,J. Ayew,3
+K. Naughton,F. Fern\u00e1ndez,3
+F. Fern\u00e1ndez,S. Clucas,3
+M. van der Hoorn,J. Ayew,3
+J. Ayew,S. Clucas,3
+L. Fer,M. van der Hoorn,3
+L. Fer,S. Clucas,2
+T. Abraham,M. Olsson,2
+S. Clucas,M. Olsson,2
+M. Olsson,M. van der Hoorn,2
+A. Mawson,K. Naughton,2
+A. Mawson,L. Fer,2
+S. Clucas,L. Fer,2
+M. van der Hoorn,L. Fer,2
+A. Mawson,\u0141. Fabia\u0144ski,2
+F. Fern\u00e1ndez,T. Abraham,2
+T. Carroll,K. Naughton,2
+L. Fer,T. Carroll,2
+\u0141. Fabia\u0144ski,M. van der Hoorn,2
+K. Naughton,A. Mawson,2
+L. Fer,T. Abraham,2
+M. van der Hoorn,A. Mawson,2
+M. Olsson,L. Fer,2
+J. Ayew,\u0141. Fabia\u0144ski,2
+M. Olsson,J. Ayew,2
+J. Ayew,M. van der Hoorn,2
+\u0141. Fabia\u0144ski,T. Abraham,1
+L. Fer,J. Ayew,1
+K. Naughton,T. Carroll,1
+L. Fer,A. Mawson,1
+M. van der Hoorn,M. Olsson,1
+L. Fer,F. Fern\u00e1ndez,1
+J. Ayew,T. Carroll,1
+T. Carroll,T. Abraham,1
+J. Ayew,F. Fern\u00e1ndez,1
+F. Fern\u00e1ndez,J. Ayew,1
+F. Fern\u00e1ndez,K. Naughton,1
+M. Olsson,S. Clucas,1
+M. Olsson,\u0141. Fabia\u0144ski,1
+T. Abraham,L. Fer,1
+T. Abraham,K. Naughton,1
+J. Ayew,A. Mawson,1
+J. Ayew,L. Fer,1
+J. Ayew,M. Olsson,1
+T. Carroll,S. Clucas,1
+J. Ayew,T. Abraham,1
+\u0141. Fabia\u0144ski,T. Carroll,1
+\u0141. Fabia\u0144ski,S. Clucas,1
+M. van der Hoorn,T. Carroll,1
+M. van der Hoorn,T. Abraham,1
+S. Clucas,K. Naughton,1
+K. Naughton,\u0141. Fabia\u0144ski,1
+A. Mawson,J. Ayew,1
+\u0141. Fabia\u0144ski,F. Fern\u00e1ndez,1

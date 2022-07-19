@@ -1,0 +1,43 @@
+Source,Target,Weight
+M. Zeegelaar,Richarlison,5
+T. Deeney,A. Gray,3
+T. Deeney,Richarlison,3
+Richarlison,M. Zeegelaar,3
+D. Janmaat,A. Carrillo,3
+Gomes,T. Deeney,3
+D. Janmaat,T. Deeney,2
+Richarlison,R. Pereyra,2
+R. Pereyra,C. Kabasele,2
+M. Zeegelaar,Gomes,2
+C. Kabasele,Gomes,2
+A. Carrillo,D. Janmaat,2
+C. Kabasele,M. Zeegelaar,2
+A. Carrillo,M. Zeegelaar,2
+T. Deeney,D. Janmaat,1
+R. Pereyra,M. Zeegelaar,1
+Richarlison,M. Wagu\u00e9,1
+A. Gray,D. Janmaat,1
+Gomes,A. Doucour\u00e9,1
+T. Deeney,R. Pereyra,1
+D. Janmaat,Gomes,1
+A. Gray,T. Deeney,1
+Richarlison,T. Deeney,1
+Richarlison,A. Carrillo,1
+A. Carrillo,R. Pereyra,1
+A. Gray,Richarlison,1
+M. Zeegelaar,C. Kabasele,1
+A. Doucour\u00e9,D. Janmaat,1
+Richarlison,D. Janmaat,1
+R. Pereyra,Gomes,1
+M. Zeegelaar,R. Pereyra,1
+R. Pereyra,A. Carrillo,1
+A. Doucour\u00e9,R. Pereyra,1
+R. Pereyra,A. Doucour\u00e9,1
+Richarlison,C. Kabasele,1
+M. Zeegelaar,A. Doucour\u00e9,1
+Gomes,A. Carrillo,1
+C. Kabasele,Richarlison,1
+A. Doucour\u00e9,M. Zeegelaar,1
+M. Wagu\u00e9,R. Pereyra,1
+Gomes,M. Zeegelaar,1
+A. Carrillo,T. Deeney,1

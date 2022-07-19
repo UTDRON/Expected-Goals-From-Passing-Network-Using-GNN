@@ -1,0 +1,14 @@
+Source,Target,Weight
+J. Riedewald,J. Schlupp,2
+J. Puncheon,S. Dann,2
+J. Schlupp,J. Puncheon,2
+J. Puncheon,J. Riedewald,2
+S. Dann,W. Hennessey,1
+J. Riedewald,J. Ward,1
+A. Townsend,J. Puncheon,1
+J. Ward,A. Townsend,1
+J. Riedewald,J. Puncheon,1
+W. Hennessey,S. Dann,1
+S. Dann,J. Riedewald,1
+S. Dann,Y. Cabaye,1
+Y. Cabaye,J. Riedewald,1

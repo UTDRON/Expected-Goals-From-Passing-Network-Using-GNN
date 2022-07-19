@@ -1,0 +1,43 @@
+Source,Target,Weight
+K. Naughton,J. Ayew,3
+K. Naughton,T. Carroll,2
+T. Carroll,J. Ayew,2
+Sung-Yeung Ki,T. Carroll,2
+Sung-Yeung Ki,A. Mawson,2
+M. Olsson,Sung-Yeung Ki,2
+F. Fern\u00e1ndez,J. Ayew,2
+J. Ayew,F. Fern\u00e1ndez,2
+A. King,K. Naughton,2
+A. King,Sung-Yeung Ki,1
+\u0141. Fabia\u0144ski,K. Naughton,1
+T. Carroll,K. Naughton,1
+J. Ayew,\u0141. Fabia\u0144ski,1
+M. Olsson,A. Mawson,1
+J. Ayew,M. Olsson,1
+A. Ayew,K. Naughton,1
+J. Ayew,K. Naughton,1
+A. Ayew,A. King,1
+J. Ayew,A. Mawson,1
+A. Mawson,F. Fern\u00e1ndez,1
+Sung-Yeung Ki,A. Ayew,1
+T. Carroll,A. King,1
+A. Ayew,M. Olsson,1
+A. Mawson,Sung-Yeung Ki,1
+M. Olsson,A. Ayew,1
+J. Ayew,M. van der Hoorn,1
+M. van der Hoorn,T. Carroll,1
+K. Naughton,M. Olsson,1
+A. Mawson,\u0141. Fabia\u0144ski,1
+F. Fern\u00e1ndez,A. Mawson,1
+Sung-Yeung Ki,K. Naughton,1
+M. Olsson,F. Fern\u00e1ndez,1
+J. Ayew,Sung-Yeung Ki,1
+F. Fern\u00e1ndez,M. Olsson,1
+K. Naughton,Sung-Yeung Ki,1
+\u0141. Fabia\u0144ski,M. van der Hoorn,1
+F. Fern\u00e1ndez,M. van der Hoorn,1
+A. Mawson,M. Olsson,1
+M. van der Hoorn,K. Naughton,1
+K. Naughton,F. Fern\u00e1ndez,1
+M. van der Hoorn,A. King,1
+T. Carroll,A. Ayew,1

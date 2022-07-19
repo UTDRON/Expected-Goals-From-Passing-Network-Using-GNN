@@ -1,0 +1,22 @@
+Source,Target,Weight
+C. Schindler,S. Malone,3
+S. Malone,C. Schindler,2
+T. Smith,J. L\u00f6ssl,2
+J. L\u00f6ssl,S. Malone,2
+S. Malone,R. van La Parra,1
+C. Schindler,M. J\u00f8rgensen,1
+L. Depoitre,E. Kachunga,1
+L. Depoitre,C. Schindler,1
+M. J\u00f8rgensen,T. Smith,1
+S. Malone,J. Hogg,1
+R. van La Parra,L. Depoitre,1
+E. Kachunga,T. Ince,1
+J. Hogg,T. Ince,1
+M. J\u00f8rgensen,P. Billing,1
+P. Billing,C. Schindler,1
+J. Hogg,M. J\u00f8rgensen,1
+T. Ince,P. Billing,1
+T. Ince,J. Hogg,1
+S. Malone,J. L\u00f6ssl,1
+P. Billing,L. Depoitre,1
+J. L\u00f6ssl,T. Smith,1

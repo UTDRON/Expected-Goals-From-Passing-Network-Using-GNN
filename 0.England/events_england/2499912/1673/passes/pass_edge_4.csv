@@ -1,0 +1,69 @@
+Source,Target,Weight
+R. van La Parra,C. L\u00f6we,5
+C. L\u00f6we,R. van La Parra,5
+A. Mooy,R. van La Parra,4
+A. Mooy,T. Smith,4
+J. Hogg,A. Mooy,4
+J. Hogg,C. L\u00f6we,3
+M. J\u00f8rgensen,C. Quaner,3
+T. Smith,J. Hogg,3
+C. Schindler,M. J\u00f8rgensen,3
+T. Smith,C. Quaner,3
+C. Quaner,A. Mooy,3
+C. Quaner,T. Smith,3
+T. Smith,M. J\u00f8rgensen,3
+A. Mooy,T. Ince,3
+C. Schindler,A. Mooy,2
+S. Mouni\u00e9,A. Mooy,2
+M. J\u00f8rgensen,R. van La Parra,2
+C. L\u00f6we,A. Mooy,2
+C. Quaner,S. Mouni\u00e9,2
+A. Mooy,J. Hogg,2
+T. Smith,A. Mooy,2
+T. Ince,M. J\u00f8rgensen,2
+C. L\u00f6we,J. Hogg,2
+J. Hogg,T. Smith,2
+R. van La Parra,M. J\u00f8rgensen,2
+M. J\u00f8rgensen,J. L\u00f6ssl,2
+M. J\u00f8rgensen,A. Mooy,2
+T. Ince,R. van La Parra,2
+A. Mooy,C. L\u00f6we,2
+J. Hogg,M. J\u00f8rgensen,1
+R. van La Parra,J. Hogg,1
+R. van La Parra,T. Ince,1
+M. J\u00f8rgensen,C. Schindler,1
+T. Ince,J. Hogg,1
+C. Quaner,J. L\u00f6ssl,1
+C. L\u00f6we,C. Quaner,1
+C. Schindler,C. L\u00f6we,1
+S. Mouni\u00e9,C. L\u00f6we,1
+T. Smith,C. Schindler,1
+T. Ince,C. L\u00f6we,1
+R. van La Parra,S. Mouni\u00e9,1
+C. L\u00f6we,S. Mouni\u00e9,1
+T. Smith,T. Ince,1
+J. Hogg,T. Ince,1
+S. Mouni\u00e9,J. Hogg,1
+C. Schindler,C. Quaner,1
+A. Mooy,M. J\u00f8rgensen,1
+T. Ince,C. Schindler,1
+J. L\u00f6ssl,T. Smith,1
+M. J\u00f8rgensen,T. Smith,1
+M. J\u00f8rgensen,T. Ince,1
+J. Hogg,S. Mouni\u00e9,1
+T. Ince,S. Mouni\u00e9,1
+C. L\u00f6we,C. Schindler,1
+C. Schindler,J. Hogg,1
+A. Mooy,C. Schindler,1
+R. van La Parra,A. Mooy,1
+M. J\u00f8rgensen,J. Hogg,1
+J. L\u00f6ssl,C. Schindler,1
+J. L\u00f6ssl,S. Mouni\u00e9,1
+S. Mouni\u00e9,C. Schindler,1
+S. Mouni\u00e9,T. Smith,1
+S. Mouni\u00e9,M. J\u00f8rgensen,1
+J. L\u00f6ssl,J. Hogg,1
+A. Mooy,C. Quaner,1
+C. L\u00f6we,T. Ince,1
+R. van La Parra,T. Smith,1
+J. Hogg,C. Schindler,1

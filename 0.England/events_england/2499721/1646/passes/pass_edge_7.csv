@@ -1,0 +1,25 @@
+Source,Target,Weight
+T. Heaton,S. Vokes,3
+J. Cork,B. Mee,1
+J. Tarkowski,S. Defour,1
+T. Heaton,R. Brady,1
+J. Tarkowski,R. Brady,1
+S. Vokes,S. Ward,1
+S. Ward,J. Tarkowski,1
+S. Vokes,T. Heaton,1
+R. Brady,J. Hendrick,1
+B. Mee,S. Ward,1
+S. Ward,R. Brady,1
+S. Defour,R. Brady,1
+J. Hendrick,T. Heaton,1
+R. Brady,S. Ward,1
+R. Brady,J. Cork,1
+R. Brady,B. Mee,1
+S. Ward,B. Mee,1
+T. Heaton,M. Lowton,1
+J. Tarkowski,T. Heaton,1
+B. Mee,J. Gu\u00f0munds\u00adson,1
+B. Mee,T. Heaton,1
+S. Vokes,J. Tarkowski,1
+M. Lowton,T. Heaton,1
+J. Gu\u00f0munds\u00adson,R. Brady,1

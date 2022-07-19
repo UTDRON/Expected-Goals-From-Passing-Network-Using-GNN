@@ -1,0 +1,25 @@
+Source,Target,Weight
+T. Smith,E. Kachunga,3
+C. Schindler,C. L\u00f6we,3
+T. Smith,A. Mooy,2
+C. L\u00f6we,J. L\u00f6ssl,2
+R. van La Parra,A. Mooy,2
+E. Kachunga,T. Smith,2
+T. Ince,R. van La Parra,2
+E. Kachunga,C. Schindler,2
+C. L\u00f6we,J. Hogg,1
+R. van La Parra,L. Depoitre,1
+A. Mooy,T. Smith,1
+C. L\u00f6we,R. van La Parra,1
+L. Depoitre,R. van La Parra,1
+J. L\u00f6ssl,T. Ince,1
+R. van La Parra,E. Kachunga,1
+J. L\u00f6ssl,C. L\u00f6we,1
+A. Mooy,M. J\u00f8rgensen,1
+J. Hogg,T. Smith,1
+M. J\u00f8rgensen,A. Mooy,1
+L. Depoitre,C. Schindler,1
+A. Mooy,L. Depoitre,1
+A. Mooy,T. Ince,1
+A. Mooy,R. van La Parra,1
+R. van La Parra,T. Smith,1

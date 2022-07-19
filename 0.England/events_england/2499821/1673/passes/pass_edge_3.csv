@@ -1,0 +1,63 @@
+Source,Target,Weight
+C. Schindler,S. Malone,7
+S. Malone,C. Schindler,7
+J. Hogg,S. Malone,6
+S. Malone,J. Hogg,6
+M. J\u00f8rgensen,F. Hadergjonaj,6
+J. Hogg,A. Mooy,4
+C. Schindler,M. J\u00f8rgensen,4
+C. Schindler,J. Hogg,4
+A. Mooy,J. Hogg,3
+J. Hogg,J. L\u00f6ssl,3
+M. J\u00f8rgensen,R. van La Parra,3
+C. Schindler,T. Ince,3
+F. Hadergjonaj,M. J\u00f8rgensen,3
+A. Mooy,S. Malone,2
+J. L\u00f6ssl,C. Schindler,2
+E. Kachunga,A. Mooy,2
+E. Kachunga,C. Schindler,2
+A. Mooy,R. van La Parra,2
+S. Malone,A. Mooy,2
+A. Mooy,M. J\u00f8rgensen,2
+M. J\u00f8rgensen,J. Hogg,2
+J. Hogg,C. Schindler,2
+E. Kachunga,T. Ince,2
+T. Ince,S. Malone,2
+E. Kachunga,S. Malone,2
+M. J\u00f8rgensen,C. Schindler,2
+A. Mooy,C. Schindler,2
+J. L\u00f6ssl,M. J\u00f8rgensen,2
+F. Hadergjonaj,E. Kachunga,2
+S. Malone,L. Depoitre,2
+R. van La Parra,F. Hadergjonaj,2
+S. Malone,E. Kachunga,1
+F. Hadergjonaj,C. Schindler,1
+M. J\u00f8rgensen,J. L\u00f6ssl,1
+L. Depoitre,R. van La Parra,1
+R. van La Parra,J. L\u00f6ssl,1
+J. Hogg,R. van La Parra,1
+M. J\u00f8rgensen,A. Mooy,1
+F. Hadergjonaj,A. Mooy,1
+F. Hadergjonaj,L. Depoitre,1
+R. van La Parra,A. Mooy,1
+L. Depoitre,J. Hogg,1
+S. Malone,M. J\u00f8rgensen,1
+C. Schindler,L. Depoitre,1
+J. Hogg,M. J\u00f8rgensen,1
+T. Ince,C. Schindler,1
+R. van La Parra,M. J\u00f8rgensen,1
+T. Ince,E. Kachunga,1
+A. Mooy,F. Hadergjonaj,1
+J. L\u00f6ssl,E. Kachunga,1
+L. Depoitre,A. Mooy,1
+M. J\u00f8rgensen,E. Kachunga,1
+C. Schindler,E. Kachunga,1
+R. van La Parra,J. Hogg,1
+J. L\u00f6ssl,F. Hadergjonaj,1
+R. van La Parra,C. Schindler,1
+R. van La Parra,E. Kachunga,1
+F. Hadergjonaj,T. Ince,1
+F. Hadergjonaj,J. L\u00f6ssl,1
+L. Depoitre,T. Ince,1
+T. Ince,M. J\u00f8rgensen,1
+T. Ince,R. van La Parra,1

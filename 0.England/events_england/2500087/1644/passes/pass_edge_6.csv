@@ -1,0 +1,16 @@
+Source,Target,Weight
+E. Capoue,J. Holebas,2
+J. Holebas,R. Pereyra,2
+J. Holebas,C. Kabasele,1
+E. Capoue,R. Pereyra,1
+R. Pereyra,J. Holebas,1
+T. Deeney,R. Pereyra,1
+A. Doucour\u00e9,W. Hughes,1
+W. Hughes,J. Holebas,1
+R. Pereyra,T. Deeney,1
+R. Pereyra,E. Capoue,1
+J. Holebas,E. Capoue,1
+C. Kabasele,C. Cathcart,1
+C. Cathcart,C. Kabasele,1
+C. Kabasele,E. Capoue,1
+R. Pereyra,A. Gray,1

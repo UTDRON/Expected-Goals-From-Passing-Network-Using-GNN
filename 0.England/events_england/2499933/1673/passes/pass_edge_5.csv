@@ -1,0 +1,25 @@
+Source,Target,Weight
+R. van La Parra,C. L\u00f6we,3
+C. L\u00f6we,R. van La Parra,3
+D. Williams,R. van La Parra,2
+T. Ince,C. L\u00f6we,2
+C. L\u00f6we,C. Quaner,1
+S. Mouni\u00e9,R. van La Parra,1
+C. L\u00f6we,A. Mooy,1
+M. J\u00f8rgensen,A. Mooy,1
+T. Smith,T. Ince,1
+C. Schindler,D. Williams,1
+A. Mooy,C. L\u00f6we,1
+C. Quaner,T. Smith,1
+A. Mooy,T. Ince,1
+C. L\u00f6we,C. Schindler,1
+R. van La Parra,S. Mouni\u00e9,1
+R. van La Parra,C. Quaner,1
+R. van La Parra,A. Mooy,1
+D. Williams,C. Schindler,1
+C. Schindler,T. Smith,1
+C. Quaner,D. Williams,1
+C. Quaner,T. Ince,1
+A. Mooy,D. Williams,1
+T. Smith,M. J\u00f8rgensen,1
+T. Ince,C. Quaner,1

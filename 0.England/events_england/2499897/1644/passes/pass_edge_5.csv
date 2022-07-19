@@ -1,0 +1,46 @@
+Source,Target,Weight
+C. Kabasele,J. Holebas,3
+A. Doucour\u00e9,S. Pr\u00f6dl,3
+A. Doucour\u00e9,D. Janmaat,2
+J. Holebas,Richarlison,2
+R. Pereyra,D. Janmaat,2
+D. Janmaat,Richarlison,2
+E. Capoue,C. Kabasele,2
+A. Carrillo,A. Doucour\u00e9,2
+D. Janmaat,A. Doucour\u00e9,2
+S. Pr\u00f6dl,R. Pereyra,2
+D. Janmaat,A. Carrillo,2
+S. Pr\u00f6dl,C. Kabasele,2
+J. Holebas,E. Capoue,2
+A. Carrillo,D. Janmaat,2
+J. Holebas,D. Janmaat,1
+R. Pereyra,A. Carrillo,1
+Richarlison,R. Pereyra,1
+A. Carrillo,J. Holebas,1
+R. Pereyra,J. Holebas,1
+D. Janmaat,E. Capoue,1
+E. Capoue,Gomes,1
+J. Holebas,A. Doucour\u00e9,1
+R. Pereyra,C. Kabasele,1
+J. Holebas,R. Pereyra,1
+Gomes,A. Carrillo,1
+A. Doucour\u00e9,A. Carrillo,1
+S. Pr\u00f6dl,Richarlison,1
+Richarlison,E. Capoue,1
+E. Capoue,J. Holebas,1
+Richarlison,J. Holebas,1
+C. Kabasele,Richarlison,1
+S. Pr\u00f6dl,D. Janmaat,1
+D. Janmaat,S. Pr\u00f6dl,1
+C. Kabasele,S. Pr\u00f6dl,1
+R. Pereyra,S. Pr\u00f6dl,1
+J. Holebas,S. Pr\u00f6dl,1
+C. Kabasele,E. Capoue,1
+A. Carrillo,R. Pereyra,1
+A. Doucour\u00e9,C. Kabasele,1
+Richarlison,S. Pr\u00f6dl,1
+S. Pr\u00f6dl,A. Doucour\u00e9,1
+Richarlison,A. Doucour\u00e9,1
+Richarlison,D. Janmaat,1
+E. Capoue,A. Carrillo,1
+D. Janmaat,R. Pereyra,1

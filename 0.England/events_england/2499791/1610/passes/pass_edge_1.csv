@@ -1,0 +1,74 @@
+Source,Target,Weight
+G. Cahill,Marcos Alonso,7
+G. Cahill,David Luiz,6
+David Luiz,Azpilicueta,5
+V. Moses,Willian,5
+V. Moses,F\u00e0bregas,5
+T. Bakayoko,G. Cahill,5
+T. Bakayoko,F\u00e0bregas,5
+David Luiz,T. Bakayoko,5
+V. Moses,Azpilicueta,5
+Marcos Alonso,G. Cahill,4
+F\u00e0bregas,V. Moses,4
+Marcos Alonso,T. Bakayoko,4
+G. Cahill,T. Bakayoko,4
+F\u00e0bregas,G. Cahill,4
+Azpilicueta,V. Moses,4
+Marcos Alonso,E. Hazard,3
+G. Cahill,E. Hazard,3
+E. Hazard,Marcos Alonso,3
+Azpilicueta,T. Courtois,3
+T. Courtois,G. Cahill,3
+Azpilicueta,F\u00e0bregas,3
+Azpilicueta,David Luiz,3
+Willian,V. Moses,3
+F\u00e0bregas,T. Bakayoko,3
+David Luiz,V. Moses,3
+Willian,G. Cahill,2
+Marcos Alonso,David Luiz,2
+Marcos Alonso,F\u00e0bregas,2
+Willian,F\u00e0bregas,2
+F\u00e0bregas,Azpilicueta,2
+Marcos Alonso,Willian,2
+David Luiz,G. Cahill,2
+F\u00e0bregas,Marcos Alonso,2
+Willian,Azpilicueta,2
+M. Batshuayi,F\u00e0bregas,2
+Azpilicueta,Marcos Alonso,2
+T. Bakayoko,David Luiz,2
+T. Bakayoko,Azpilicueta,2
+T. Bakayoko,Marcos Alonso,2
+F\u00e0bregas,E. Hazard,2
+F\u00e0bregas,David Luiz,2
+E. Hazard,Willian,2
+T. Bakayoko,Willian,1
+T. Courtois,T. Bakayoko,1
+G. Cahill,T. Courtois,1
+Willian,T. Bakayoko,1
+M. Batshuayi,T. Bakayoko,1
+E. Hazard,Azpilicueta,1
+Azpilicueta,G. Cahill,1
+T. Courtois,Azpilicueta,1
+T. Courtois,V. Moses,1
+David Luiz,F\u00e0bregas,1
+T. Bakayoko,V. Moses,1
+E. Hazard,David Luiz,1
+V. Moses,M. Batshuayi,1
+Willian,Marcos Alonso,1
+Azpilicueta,T. Bakayoko,1
+Azpilicueta,E. Hazard,1
+G. Cahill,Azpilicueta,1
+F\u00e0bregas,Willian,1
+Marcos Alonso,T. Courtois,1
+T. Courtois,David Luiz,1
+T. Courtois,F\u00e0bregas,1
+T. Bakayoko,T. Courtois,1
+E. Hazard,V. Moses,1
+E. Hazard,T. Bakayoko,1
+T. Bakayoko,E. Hazard,1
+E. Hazard,G. Cahill,1
+David Luiz,T. Courtois,1
+F\u00e0bregas,T. Courtois,1
+V. Moses,David Luiz,1
+David Luiz,Marcos Alonso,1
+Azpilicueta,M. Batshuayi,1

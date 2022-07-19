@@ -1,0 +1,27 @@
+Source,Target,Weight
+D. Stephens,S. Duffy,3
+G. Bong,J. Izquierdo,2
+L. Ulloa,P. Gro\u00df,2
+B. Kayal,D. Stephens,2
+J. Izquierdo,G. Bong,2
+Bruno Saltor,A. Knockaert,2
+S. Duffy,L. Ulloa,1
+P. Gro\u00df,D. Stephens,1
+Bruno Saltor,P. Gro\u00df,1
+J. Izquierdo,P. Gro\u00df,1
+A. Knockaert,D. Stephens,1
+L. Ulloa,J. Izquierdo,1
+J. Izquierdo,B. Kayal,1
+S. Duffy,B. Kayal,1
+S. Duffy,G. Bong,1
+A. Knockaert,Bruno Saltor,1
+P. Gro\u00df,L. Ulloa,1
+P. Gro\u00df,J. Izquierdo,1
+J. Izquierdo,S. Duffy,1
+J. Izquierdo,L. Ulloa,1
+D. Stephens,J. Izquierdo,1
+B. Kayal,J. Izquierdo,1
+G. Bong,P. Gro\u00df,1
+P. Gro\u00df,B. Kayal,1
+S. Duffy,Bruno Saltor,1
+D. Stephens,Bruno Saltor,1

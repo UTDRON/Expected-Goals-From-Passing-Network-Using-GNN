@@ -1,0 +1,23 @@
+Source,Target,Weight
+A. Westwood,S. Ward,2
+J. Gu\u00f0munds\u00adson,K. Long,2
+K. Long,M. Lowton,2
+M. Lowton,S. Ward,1
+M. Lowton,J. Gu\u00f0munds\u00adson,1
+S. Ward,B. Mee,1
+K. Long,J. Cork,1
+N. Pope,A. Barnes,1
+M. Lowton,J. Cork,1
+S. Ward,A. Westwood,1
+J. Cork,A. Westwood,1
+J. Cork,K. Long,1
+B. Mee,A. Barnes,1
+A. Westwood,A. Barnes,1
+A. Barnes,J. Hendrick,1
+M. Lowton,N. Pope,1
+M. Lowton,A. Westwood,1
+J. Cork,M. Lowton,1
+J. Hendrick,A. Lennon,1
+A. Barnes,M. Lowton,1
+S. Ward,J. Gu\u00f0munds\u00adson,1
+A. Lennon,M. Lowton,1

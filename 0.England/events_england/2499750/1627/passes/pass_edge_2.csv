@@ -1,0 +1,16 @@
+Source,Target,Weight
+G. Krychowiak,G. Barry,2
+S. Rond\u00f3n,G. Krychowiak,1
+G. Barry,J. Livermore,1
+B. Foster,C. Dawson,1
+M. Phillips,J. Rodriguez,1
+G. Krychowiak,B. Foster,1
+B. Foster,M. Phillips,1
+J. Livermore,M. Phillips,1
+M. Phillips,S. Rond\u00f3n,1
+C. Dawson,J. Evans,1
+J. Evans,M. Phillips,1
+M. Phillips,B. Foster,1
+G. Barry,J. Rodriguez,1
+J. Rodriguez,G. Krychowiak,1
+J. Rodriguez,M. Phillips,1

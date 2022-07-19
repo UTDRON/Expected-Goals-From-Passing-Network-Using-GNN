@@ -1,0 +1,15 @@
+Source,Target,Weight
+M. \u00d6zil,Beller\u00edn,1
+P. Mertesacker,Nacho Monreal,1
+P. Mertesacker,A. Ramsey,1
+S. Kola\u0161inac,A. S\u00e1nchez,1
+P. Mertesacker,S. Kola\u0161inac,1
+S. Kola\u0161inac,Nacho Monreal,1
+Nacho Monreal,S. Kola\u0161inac,1
+A. Lacazette,M. \u00d6zil,1
+A. Ramsey,M. \u00d6zil,1
+M. \u00d6zil,A. Lacazette,1
+Beller\u00edn,A. Lacazette,1
+Nacho Monreal,P. Mertesacker,1
+A. Lacazette,Beller\u00edn,1
+Beller\u00edn,P. Mertesacker,1

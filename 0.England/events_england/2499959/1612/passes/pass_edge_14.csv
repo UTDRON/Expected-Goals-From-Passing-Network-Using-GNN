@@ -1,0 +1,25 @@
+Source,Target,Weight
+J. Matip,D. Lovren,3
+J. Henderson,E. Can,2
+S. Man\u00e9,J. Milner,2
+J. Milner,J. Henderson,2
+A. Robertson,J. Milner,2
+J. Henderson,J. Matip,1
+J. Milner,J. Matip,1
+J. Milner,S. Man\u00e9,1
+S. Man\u00e9,A. Robertson,1
+J. Milner,J. Gomez,1
+E. Can,S. Man\u00e9,1
+S. Man\u00e9,J. Matip,1
+J. Gomez,J. Matip,1
+D. Lovren,J. Milner,1
+D. Lovren,J. Henderson,1
+J. Matip,Roberto Firmino,1
+J. Henderson,Roberto Firmino,1
+J. Gomez,A. Robertson,1
+D. Lovren,A. Robertson,1
+E. Can,J. Gomez,1
+Roberto Firmino,J. Henderson,1
+Roberto Firmino,S. Man\u00e9,1
+A. Robertson,S. Man\u00e9,1
+E. Can,Roberto Firmino,1

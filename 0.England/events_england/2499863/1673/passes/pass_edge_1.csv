@@ -1,0 +1,27 @@
+Source,Target,Weight
+D. Williams,M. J\u00f8rgensen,4
+M. J\u00f8rgensen,A. Mooy,3
+L. Depoitre,A. Mooy,2
+A. Mooy,D. Williams,2
+A. Mooy,L. Depoitre,2
+T. Smith,A. Mooy,2
+A. Mooy,E. Kachunga,2
+C. Schindler,D. Williams,2
+C. Schindler,T. Smith,1
+L. Depoitre,D. Williams,1
+T. Ince,D. Williams,1
+M. J\u00f8rgensen,T. Smith,1
+D. Williams,T. Smith,1
+E. Kachunga,J. L\u00f6ssl,1
+T. Ince,E. Kachunga,1
+E. Kachunga,S. Malone,1
+S. Malone,J. L\u00f6ssl,1
+A. Mooy,T. Smith,1
+J. L\u00f6ssl,A. Mooy,1
+T. Smith,T. Ince,1
+A. Mooy,M. J\u00f8rgensen,1
+T. Smith,L. Depoitre,1
+D. Williams,S. Malone,1
+J. L\u00f6ssl,C. Schindler,1
+M. J\u00f8rgensen,C. Schindler,1
+S. Malone,C. Schindler,1

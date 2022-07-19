@@ -1,0 +1,15 @@
+Source,Target,Weight
+A. Nyom,Ahmed Hegazy,1
+J. Livermore,M. Phillips,1
+C. Yacob,B. Foster,1
+C. Brunt,J. Livermore,1
+C. Dawson,B. Foster,1
+B. Foster,A. Nyom,1
+M. Phillips,C. Brunt,1
+C. Brunt,A. Nyom,1
+B. Foster,C. Dawson,1
+C. Dawson,C. Brunt,1
+Ahmed Hegazy,J. Evans,1
+A. Nyom,C. Yacob,1
+J. Evans,M. Phillips,1
+M. Phillips,J. Livermore,1

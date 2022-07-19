@@ -1,0 +1,51 @@
+Source,Target,Weight
+T. Alexander-Arnold,D. Lovren,6
+D. Lovren,V. van Dijk,6
+A. Oxlade-Chamberlain,J. Henderson,5
+J. Henderson,T. Alexander-Arnold,5
+V. van Dijk,D. Lovren,3
+J. Henderson,D. Lovren,3
+T. Alexander-Arnold,Mohamed Salah,3
+Mohamed Salah,T. Alexander-Arnold,3
+Mohamed Salah,A. Oxlade-Chamberlain,2
+S. Man\u00e9,A. Oxlade-Chamberlain,2
+D. Lovren,S. Man\u00e9,2
+Mohamed Salah,J. Henderson,2
+S. Man\u00e9,Mohamed Salah,2
+D. Lovren,T. Alexander-Arnold,2
+T. Alexander-Arnold,A. Oxlade-Chamberlain,2
+V. van Dijk,G. Wijnaldum,2
+T. Alexander-Arnold,S. Man\u00e9,2
+A. Oxlade-Chamberlain,A. Robertson,2
+D. Lovren,J. Henderson,2
+V. van Dijk,J. Henderson,2
+Roberto Firmino,S. Man\u00e9,2
+G. Wijnaldum,T. Alexander-Arnold,2
+D. Lovren,A. Robertson,1
+Mohamed Salah,D. Lovren,1
+D. Lovren,Roberto Firmino,1
+Roberto Firmino,Mohamed Salah,1
+J. Henderson,G. Wijnaldum,1
+A. Robertson,T. Alexander-Arnold,1
+S. Man\u00e9,Roberto Firmino,1
+A. Robertson,V. van Dijk,1
+D. Lovren,G. Wijnaldum,1
+T. Alexander-Arnold,Roberto Firmino,1
+A. Robertson,A. Oxlade-Chamberlain,1
+A. Oxlade-Chamberlain,D. Lovren,1
+D. Lovren,Mohamed Salah,1
+A. Robertson,D. Lovren,1
+V. van Dijk,A. Robertson,1
+J. Henderson,A. Oxlade-Chamberlain,1
+G. Wijnaldum,J. Henderson,1
+Roberto Firmino,D. Lovren,1
+A. Oxlade-Chamberlain,V. van Dijk,1
+G. Wijnaldum,D. Lovren,1
+G. Wijnaldum,Roberto Firmino,1
+A. Robertson,G. Wijnaldum,1
+V. van Dijk,T. Alexander-Arnold,1
+G. Wijnaldum,V. van Dijk,1
+T. Alexander-Arnold,G. Wijnaldum,1
+J. Henderson,A. Robertson,1
+J. Henderson,Mohamed Salah,1
+D. Lovren,A. Oxlade-Chamberlain,1

@@ -1,0 +1,14 @@
+Source,Target,Weight
+R. Lukaku,P. Pogba,2
+A. Valencia,E. Bailly,1
+N. Mati\u0107,M. Rashford,1
+N. Mati\u0107,R. Lukaku,1
+N. Mati\u0107,D. Blind,1
+D. Blind,R. Lukaku,1
+M. Rashford,R. Lukaku,1
+P. Pogba,A. Valencia,1
+P. Pogba,R. Lukaku,1
+E. Bailly,P. Pogba,1
+R. Lukaku,N. Mati\u0107,1
+P. Pogba,E. Bailly,1
+E. Bailly,N. Mati\u0107,1

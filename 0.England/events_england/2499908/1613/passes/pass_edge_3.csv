@@ -1,0 +1,54 @@
+Source,Target,Weight
+M. Ritchie,D. Yedlin,4
+D. Yedlin,J. Lascelles,3
+J. Lascelles,R. Elliot,3
+D. Yedlin,H. Saivet,3
+D. Yedlin,Joselu,3
+H. Saivet,D. Yedlin,3
+H. Saivet,M. Ritchie,2
+Joselu,M. Diam\u00e9,2
+D. Yedlin,C. Clark,2
+M. Diam\u00e9,C. Clark,2
+Joselu,H. Saivet,2
+M. Diam\u00e9,Joselu,2
+R. Elliot,M. Diam\u00e9,2
+C. Clark,Joselu,2
+Joselu,D. Yedlin,2
+H. Saivet,R. Elliot,2
+R. Elliot,D. Gayle,2
+C. Clark,H. Saivet,2
+M. Diam\u00e9,J. Lascelles,2
+C. Clark,Javi Manquillo,2
+Joselu,M. Ritchie,2
+D. Yedlin,M. Ritchie,1
+D. Gayle,H. Saivet,1
+Javi Manquillo,M. Diam\u00e9,1
+Javi Manquillo,H. Saivet,1
+R. Elliot,D. Yedlin,1
+M. Ritchie,M. Diam\u00e9,1
+R. Elliot,Joselu,1
+R. Elliot,C. Clark,1
+D. Gayle,Joselu,1
+J. Lascelles,M. Ritchie,1
+M. Ritchie,C. Clark,1
+M. Diam\u00e9,H. Saivet,1
+J. Lascelles,D. Yedlin,1
+Javi Manquillo,J. Lascelles,1
+C. Clark,D. Gayle,1
+M. Diam\u00e9,D. Yedlin,1
+C. Atsu,M. Diam\u00e9,1
+H. Saivet,J. Lascelles,1
+H. Saivet,C. Clark,1
+M. Diam\u00e9,C. Atsu,1
+H. Saivet,M. Diam\u00e9,1
+C. Clark,M. Diam\u00e9,1
+Javi Manquillo,R. Elliot,1
+D. Gayle,C. Clark,1
+J. Lascelles,C. Clark,1
+Joselu,J. Lascelles,1
+J. Lascelles,Javi Manquillo,1
+Joselu,R. Elliot,1
+C. Clark,R. Elliot,1
+R. Elliot,Javi Manquillo,1
+J. Lascelles,Joselu,1
+Javi Manquillo,D. Yedlin,1

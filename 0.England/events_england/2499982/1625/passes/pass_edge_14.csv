@@ -1,0 +1,39 @@
+Source,Target,Weight
+K. Walker,Bernardo Silva,7
+A. Laporte,Danilo,4
+K. De Bruyne,K. Walker,4
+Bernardo Silva,K. Walker,4
+Danilo,A. Laporte,4
+Bernardo Silva,K. De Bruyne,3
+Fernandinho,N. Otamendi,2
+Fernandinho,Danilo,2
+Danilo,Fernandinho,2
+Danilo,R. Sterling,2
+K. Walker,K. De Bruyne,2
+Fernandinho,\u0130. G\u00fcndo\u011fan,2
+S. Ag\u00fcero,K. Walker,1
+N. Otamendi,Ederson,1
+K. De Bruyne,Fernandinho,1
+S. Ag\u00fcero,Bernardo Silva,1
+K. Walker,N. Otamendi,1
+S. Ag\u00fcero,\u0130. G\u00fcndo\u011fan,1
+Ederson,Fernandinho,1
+Bernardo Silva,A. Laporte,1
+\u0130. G\u00fcndo\u011fan,Danilo,1
+N. Otamendi,\u0130. G\u00fcndo\u011fan,1
+N. Otamendi,S. Ag\u00fcero,1
+\u0130. G\u00fcndo\u011fan,Fernandinho,1
+\u0130. G\u00fcndo\u011fan,K. De Bruyne,1
+S. Ag\u00fcero,Fernandinho,1
+R. Sterling,Danilo,1
+\u0130. G\u00fcndo\u011fan,S. Ag\u00fcero,1
+Fernandinho,K. De Bruyne,1
+R. Sterling,Fernandinho,1
+A. Laporte,\u0130. G\u00fcndo\u011fan,1
+K. De Bruyne,N. Otamendi,1
+Bernardo Silva,S. Ag\u00fcero,1
+N. Otamendi,K. Walker,1
+\u0130. G\u00fcndo\u011fan,Ederson,1
+K. De Bruyne,Bernardo Silva,1
+Ederson,K. Walker,1
+K. Walker,S. Ag\u00fcero,1

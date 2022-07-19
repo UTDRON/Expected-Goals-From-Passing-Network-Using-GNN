@@ -1,0 +1,38 @@
+Source,Target,Weight
+A. Christensen,G. Cahill,3
+Azpilicueta,F\u00e0bregas,2
+F\u00e0bregas,Azpilicueta,2
+D. Zappacosta,F\u00e0bregas,2
+F\u00e0bregas,E. Hazard,2
+Azpilicueta,A. Christensen,2
+G. Cahill,A. Christensen,2
+G. Cahill,N. Kant\u00e9,2
+A. Christensen,Azpilicueta,2
+Willian,D. Zappacosta,2
+Azpilicueta,G. Cahill,1
+F\u00e0bregas,A. Christensen,1
+T. Courtois,Azpilicueta,1
+G. Cahill,Marcos Alonso,1
+F\u00e0bregas,D. Zappacosta,1
+N. Kant\u00e9,T. Courtois,1
+Marcos Alonso,N. Kant\u00e9,1
+A. Christensen,T. Courtois,1
+G. Cahill,E. Hazard,1
+E. Hazard,G. Cahill,1
+N. Kant\u00e9,A. Christensen,1
+Azpilicueta,O. Giroud,1
+T. Courtois,G. Cahill,1
+N. Kant\u00e9,F\u00e0bregas,1
+N. Kant\u00e9,O. Giroud,1
+Azpilicueta,N. Kant\u00e9,1
+Marcos Alonso,G. Cahill,1
+D. Zappacosta,Azpilicueta,1
+O. Giroud,N. Kant\u00e9,1
+N. Kant\u00e9,D. Zappacosta,1
+G. Cahill,Willian,1
+F\u00e0bregas,Willian,1
+E. Hazard,Willian,1
+Willian,F\u00e0bregas,1
+O. Giroud,F\u00e0bregas,1
+D. Zappacosta,O. Giroud,1
+E. Hazard,Azpilicueta,1

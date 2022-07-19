@@ -1,0 +1,52 @@
+Source,Target,Weight
+K. Walker,David Silva,5
+R. Sterling,David Silva,4
+K. De Bruyne,K. Walker,4
+E. Mangala,F. Delph,4
+David Silva,Fernandinho,4
+David Silva,K. Walker,3
+K. Walker,K. De Bruyne,3
+K. De Bruyne,V. Kompany,3
+Fernandinho,Gabriel Jesus,3
+R. Sterling,Fernandinho,3
+Fernandinho,R. Sterling,3
+Gabriel Jesus,K. De Bruyne,2
+David Silva,L. San\u00e9,2
+F. Delph,E. Mangala,2
+David Silva,V. Kompany,2
+L. San\u00e9,F. Delph,2
+K. De Bruyne,F. Delph,2
+R. Sterling,K. De Bruyne,2
+F. Delph,L. San\u00e9,2
+F. Delph,Gabriel Jesus,2
+V. Kompany,E. Mangala,2
+Fernandinho,K. Walker,2
+K. De Bruyne,David Silva,2
+V. Kompany,K. Walker,2
+K. Walker,R. Sterling,2
+L. San\u00e9,K. De Bruyne,2
+David Silva,R. Sterling,2
+K. Walker,Fernandinho,1
+Fernandinho,Ederson,1
+Gabriel Jesus,F. Delph,1
+L. San\u00e9,R. Sterling,1
+K. De Bruyne,L. San\u00e9,1
+F. Delph,K. De Bruyne,1
+Gabriel Jesus,Fernandinho,1
+Ederson,L. San\u00e9,1
+L. San\u00e9,Gabriel Jesus,1
+V. Kompany,K. De Bruyne,1
+F. Delph,Fernandinho,1
+Ederson,K. Walker,1
+V. Kompany,Fernandinho,1
+E. Mangala,V. Kompany,1
+Fernandinho,K. De Bruyne,1
+Fernandinho,David Silva,1
+K. Walker,V. Kompany,1
+Gabriel Jesus,E. Mangala,1
+V. Kompany,R. Sterling,1
+F. Delph,Ederson,1
+E. Mangala,Fernandinho,1
+Fernandinho,F. Delph,1
+Gabriel Jesus,David Silva,1
+F. Delph,David Silva,1

@@ -1,0 +1,27 @@
+Source,Target,Weight
+A. Robertson,J. Milner,3
+J. Milner,A. Robertson,2
+Mohamed Salah,D. Lovren,2
+A. Robertson,R. Klavan,2
+J. Henderson,Mohamed Salah,2
+R. Klavan,J. Henderson,1
+J. Henderson,A. Robertson,1
+Mohamed Salah,J. Henderson,1
+R. Klavan,A. Oxlade-Chamberlain,1
+D. Solanke,S. Man\u00e9,1
+J. Gomez,J. Henderson,1
+S. Mignolet,J. Gomez,1
+J. Milner,J. Henderson,1
+J. Gomez,Mohamed Salah,1
+S. Man\u00e9,A. Oxlade-Chamberlain,1
+A. Oxlade-Chamberlain,S. Man\u00e9,1
+D. Lovren,Mohamed Salah,1
+Mohamed Salah,S. Mignolet,1
+D. Lovren,R. Klavan,1
+A. Oxlade-Chamberlain,A. Robertson,1
+J. Milner,A. Oxlade-Chamberlain,1
+S. Man\u00e9,Mohamed Salah,1
+J. Henderson,A. Oxlade-Chamberlain,1
+A. Oxlade-Chamberlain,J. Milner,1
+R. Klavan,D. Solanke,1
+A. Oxlade-Chamberlain,J. Gomez,1

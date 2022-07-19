@@ -1,0 +1,46 @@
+Source,Target,Weight
+W. Routledge,J. Ayew,4
+M. Olsson,W. Routledge,4
+N. Dyer,\u00c0ngel Rangel,3
+T. Carroll,M. Olsson,3
+\u00c0ngel Rangel,N. Dyer,3
+T. Carroll,W. Routledge,3
+J. Ayew,\u00c0ngel Rangel,2
+M. Olsson,T. Carroll,2
+T. Carroll,A. King,2
+A. Mawson,M. van der Hoorn,2
+W. Routledge,T. Carroll,2
+M. van der Hoorn,T. Carroll,2
+\u00c0ngel Rangel,M. van der Hoorn,2
+W. Routledge,A. King,1
+J. Ayew,M. Olsson,1
+A. King,W. Routledge,1
+\u00c0ngel Rangel,A. King,1
+A. Ayew,N. Dyer,1
+A. Mawson,M. Olsson,1
+J. Ayew,T. Carroll,1
+A. King,A. Mawson,1
+N. Dyer,M. Olsson,1
+A. Mawson,\u00c0ngel Rangel,1
+W. Routledge,M. Olsson,1
+J. Ayew,A. Mawson,1
+A. Mawson,T. Carroll,1
+A. King,J. Ayew,1
+A. Ayew,A. King,1
+\u00c0ngel Rangel,J. Ayew,1
+M. van der Hoorn,N. Dyer,1
+A. King,A. Ayew,1
+J. Ayew,W. Routledge,1
+A. King,N. Dyer,1
+M. Olsson,A. Mawson,1
+M. van der Hoorn,A. King,1
+A. Ayew,J. Ayew,1
+W. Routledge,A. Ayew,1
+N. Dyer,A. Ayew,1
+M. van der Hoorn,\u00c0ngel Rangel,1
+A. King,M. van der Hoorn,1
+\u00c0ngel Rangel,T. Carroll,1
+N. Dyer,A. King,1
+A. King,T. Carroll,1
+T. Carroll,\u00c0ngel Rangel,1
+T. Carroll,A. Mawson,1

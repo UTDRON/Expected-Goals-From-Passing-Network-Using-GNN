@@ -1,0 +1,20 @@
+Source,Target,Weight
+A. Knockaert,Bruno Saltor,3
+I. Brown,J. Izquierdo,2
+Bruno Saltor,A. Knockaert,2
+Bruno Saltor,U. H\u00fcnemeier,2
+U. H\u00fcnemeier,P. Gro\u00df,2
+P. Gro\u00df,I. Brown,2
+P. Gro\u00df,D. Pr\u00f6pper,1
+Bruno Saltor,I. Brown,1
+D. Stephens,Bruno Saltor,1
+P. Gro\u00df,G. Murray,1
+A. Knockaert,U. H\u00fcnemeier,1
+J. Izquierdo,D. Stephens,1
+D. Pr\u00f6pper,I. Brown,1
+Bruno Saltor,P. Gro\u00df,1
+I. Brown,A. Knockaert,1
+I. Brown,P. Gro\u00df,1
+G. Murray,Bruno Saltor,1
+J. Izquierdo,I. Brown,1
+U. H\u00fcnemeier,A. Knockaert,1

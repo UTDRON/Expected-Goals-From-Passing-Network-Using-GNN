@@ -1,0 +1,75 @@
+Source,Target,Weight
+C. Smalling,A. Valencia,15
+P. Jones,C. Smalling,12
+A. Young,N. Mati\u0107,10
+N. Mati\u0107,P. Jones,9
+A. Valencia,M. Fellaini,9
+A. Valencia,Juan Mata,7
+Juan Mata,C. Smalling,6
+P. Jones,N. Mati\u0107,5
+N. Mati\u0107,A. Young,5
+M. Fellaini,Juan Mata,5
+N. Mati\u0107,C. Smalling,5
+A. Young,P. Jones,5
+H. Mkhitaryan,M. Rashford,4
+M. Fellaini,P. Jones,4
+H. Mkhitaryan,A. Young,4
+Juan Mata,A. Valencia,4
+M. Fellaini,N. Mati\u0107,4
+P. Jones,A. Young,4
+N. Mati\u0107,M. Rashford,3
+N. Mati\u0107,A. Valencia,3
+M. Fellaini,A. Valencia,3
+C. Smalling,P. Jones,3
+P. Jones,M. Fellaini,3
+A. Valencia,N. Mati\u0107,3
+A. Valencia,C. Smalling,3
+N. Mati\u0107,H. Mkhitaryan,3
+N. Mati\u0107,M. Fellaini,3
+A. Valencia,R. Lukaku,3
+M. Rashford,H. Mkhitaryan,3
+M. Rashford,Juan Mata,2
+A. Young,David de Gea,2
+C. Smalling,N. Mati\u0107,2
+A. Valencia,M. Rashford,2
+M. Rashford,N. Mati\u0107,2
+C. Smalling,H. Mkhitaryan,2
+C. Smalling,Juan Mata,2
+M. Rashford,P. Jones,2
+M. Fellaini,A. Young,2
+Juan Mata,M. Fellaini,2
+A. Valencia,P. Jones,2
+C. Smalling,A. Young,2
+Juan Mata,H. Mkhitaryan,2
+Juan Mata,P. Jones,2
+H. Mkhitaryan,N. Mati\u0107,2
+A. Young,A. Valencia,1
+C. Smalling,M. Fellaini,1
+H. Mkhitaryan,Juan Mata,1
+R. Lukaku,N. Mati\u0107,1
+R. Lukaku,A. Valencia,1
+A. Valencia,A. Young,1
+P. Jones,Juan Mata,1
+Juan Mata,N. Mati\u0107,1
+C. Smalling,M. Rashford,1
+David de Gea,C. Smalling,1
+A. Valencia,H. Mkhitaryan,1
+David de Gea,P. Jones,1
+H. Mkhitaryan,A. Valencia,1
+H. Mkhitaryan,M. Fellaini,1
+P. Jones,M. Rashford,1
+R. Lukaku,A. Young,1
+C. Smalling,David de Gea,1
+David de Gea,A. Valencia,1
+P. Jones,A. Valencia,1
+Juan Mata,R. Lukaku,1
+A. Young,M. Fellaini,1
+M. Fellaini,C. Smalling,1
+R. Lukaku,Juan Mata,1
+M. Rashford,A. Young,1
+M. Rashford,C. Smalling,1
+Juan Mata,A. Young,1
+M. Rashford,A. Valencia,1
+A. Young,M. Rashford,1
+A. Young,H. Mkhitaryan,1
+P. Jones,H. Mkhitaryan,1

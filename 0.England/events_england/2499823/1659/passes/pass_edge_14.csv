@@ -1,0 +1,21 @@
+Source,Target,Weight
+C. Daniels,M. Pugh,2
+A. Smith,S. Francis,2
+J. King,C. Daniels,1
+S. Francis,A. Surman,1
+A. Surman,A. Smith,1
+M. Pugh,C. Daniels,1
+M. Pugh,A. Surman,1
+A. Begovi\u0107,N. Ak\u00e9,1
+A. Surman,S. Cook,1
+S. Francis,A. Smith,1
+S. Cook,M. Pugh,1
+S. Francis,J. King,1
+A. Surman,S. Francis,1
+S. Francis,A. Begovi\u0107,1
+M. Pugh,S. Francis,1
+S. Cook,S. Francis,1
+S. Francis,J. Defoe,1
+N. Ak\u00e9,S. Francis,1
+S. Francis,M. Pugh,1
+J. Defoe,A. Surman,1

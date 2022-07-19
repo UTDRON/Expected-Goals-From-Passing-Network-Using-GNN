@@ -1,0 +1,17 @@
+Source,Target,Weight
+L. Dunk,D. Stephens,2
+M. Suttner,J. Izquierdo,2
+J. Izquierdo,M. Suttner,1
+D. Stephens,G. Murray,1
+D. Stephens,E. Schelotto,1
+E. Schelotto,A. Knockaert,1
+A. Knockaert,P. Gro\u00df,1
+J. Izquierdo,L. Dunk,1
+M. Suttner,L. Dunk,1
+G. Murray,D. Stephens,1
+D. Stephens,M. Suttner,1
+D. Stephens,S. Duffy,1
+P. Gro\u00df,A. Knockaert,1
+P. Gro\u00df,D. Stephens,1
+S. Duffy,M. Suttner,1
+E. Schelotto,P. Gro\u00df,1

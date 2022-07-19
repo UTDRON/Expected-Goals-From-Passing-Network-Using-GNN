@@ -1,0 +1,14 @@
+Source,Target,Weight
+J. Shelvey,Joselu,2
+F. Lejeune,J. Shelvey,2
+C. Atsu,J. Shelvey,1
+D. Yedlin,M. Ritchie,1
+J. Lascelles,I. Hayden,1
+Joselu,C. Atsu,1
+M. Ritchie,Joselu,1
+J. Shelvey,C. Atsu,1
+I. Hayden,F. Lejeune,1
+Joselu,F. Lejeune,1
+C. Atsu,J. Lascelles,1
+J. Shelvey,F. Lejeune,1
+F. Lejeune,D. Yedlin,1

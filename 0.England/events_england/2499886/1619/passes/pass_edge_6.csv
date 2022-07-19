@@ -1,0 +1,65 @@
+Source,Target,Weight
+M. Yoshida,S. Boufal,3
+M. Lemina,S. Davis,3
+M. Lemina,M. Yoshida,3
+M. Yoshida,F. Forster,3
+S. Boufal,C. Austin,3
+R. Bertrand,M. Lemina,3
+S. Davis,C\u00e9dric Soares,2
+M. Yoshida,V. van Dijk,2
+S. Davis,R. Bertrand,2
+C\u00e9dric Soares,V. van Dijk,2
+S. Davis,M. Yoshida,2
+S. Davis,M. Lemina,2
+D. Tadi\u0107,R. Bertrand,2
+M. Gabbiadini,D. Tadi\u0107,2
+C. Austin,S. Boufal,2
+S. Boufal,S. Davis,2
+V. van Dijk,M. Gabbiadini,2
+V. van Dijk,M. Yoshida,2
+M. Lemina,S. Boufal,2
+M. Gabbiadini,S. Boufal,2
+C\u00e9dric Soares,M. Gabbiadini,2
+S. Boufal,F. Forster,2
+S. Boufal,C\u00e9dric Soares,2
+S. Boufal,M. Yoshida,2
+F. Forster,M. Yoshida,2
+C\u00e9dric Soares,S. Boufal,2
+C. Austin,S. Davis,2
+C\u00e9dric Soares,M. Yoshida,2
+M. Yoshida,M. Lemina,2
+F. Forster,C\u00e9dric Soares,1
+D. Tadi\u0107,V. van Dijk,1
+M. Yoshida,S. Davis,1
+V. van Dijk,F. Forster,1
+S. Davis,F. Forster,1
+S. Boufal,D. Tadi\u0107,1
+M. Yoshida,R. Bertrand,1
+M. Lemina,C. Austin,1
+D. Tadi\u0107,M. Lemina,1
+F. Forster,S. Boufal,1
+S. Davis,S. Boufal,1
+V. van Dijk,D. Tadi\u0107,1
+R. Bertrand,S. Boufal,1
+F. Forster,M. Lemina,1
+F. Forster,C. Austin,1
+M. Yoshida,C\u00e9dric Soares,1
+R. Bertrand,M. Gabbiadini,1
+C. Austin,R. Bertrand,1
+M. Gabbiadini,C\u00e9dric Soares,1
+M. Yoshida,M. Gabbiadini,1
+C. Austin,C\u00e9dric Soares,1
+R. Bertrand,S. Davis,1
+M. Gabbiadini,V. van Dijk,1
+C\u00e9dric Soares,S. Davis,1
+V. van Dijk,M. Lemina,1
+M. Lemina,R. Bertrand,1
+S. Boufal,V. van Dijk,1
+S. Boufal,M. Lemina,1
+M. Lemina,C\u00e9dric Soares,1
+D. Tadi\u0107,M. Yoshida,1
+D. Tadi\u0107,C\u00e9dric Soares,1
+R. Bertrand,M. Yoshida,1
+F. Forster,M. Gabbiadini,1
+C\u00e9dric Soares,D. Tadi\u0107,1
+M. Gabbiadini,C. Austin,1

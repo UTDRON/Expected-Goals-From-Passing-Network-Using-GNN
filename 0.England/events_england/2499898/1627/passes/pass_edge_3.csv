@@ -1,0 +1,24 @@
+Source,Target,Weight
+J. McClean,J. Livermore,2
+G. Krychowiak,C. Yacob,2
+G. Krychowiak,Ahmed Hegazy,1
+Ahmed Hegazy,J. McClean,1
+Ahmed Hegazy,C. Yacob,1
+A. Nyom,O. Burke,1
+A. Nyom,Ahmed Hegazy,1
+C. Yacob,J. McClean,1
+O. Burke,G. Krychowiak,1
+Ahmed Hegazy,A. Nyom,1
+O. Burke,S. Rond\u00f3n,1
+J. McClean,G. Krychowiak,1
+C. Yacob,G. Krychowiak,1
+G. Krychowiak,J. McClean,1
+C. Yacob,A. Nyom,1
+S. Rond\u00f3n,J. Livermore,1
+A. Nyom,G. Krychowiak,1
+K. Gibbs,G. Krychowiak,1
+J. Livermore,J. McClean,1
+G. Krychowiak,J. Livermore,1
+J. McClean,Ahmed Hegazy,1
+J. Livermore,A. Nyom,1
+J. Livermore,O. Burke,1

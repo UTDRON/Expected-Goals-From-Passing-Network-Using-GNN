@@ -1,0 +1,32 @@
+Source,Target,Weight
+M. Diam\u00e9,C. Clark,4
+J. Murphy,M. Ritchie,2
+C. Clark,F. Lejeune,2
+Javi Manquillo,M. Diam\u00e9,2
+F. Lejeune,C. Clark,2
+C. Clark,Javi Manquillo,2
+C. Clark,J. Murphy,2
+F. Lejeune,J. Shelvey,2
+C. Clark,M. Diam\u00e9,2
+J. Murphy,D. Gayle,1
+R. Elliot,C. Clark,1
+Joselu,D. Yedlin,1
+Javi Manquillo,J. Murphy,1
+D. Yedlin,C. Clark,1
+D. Gayle,J. Murphy,1
+J. Murphy,R. Elliot,1
+M. Diam\u00e9,J. Murphy,1
+F. Lejeune,Joselu,1
+Javi Manquillo,F. Lejeune,1
+M. Ritchie,Javi Manquillo,1
+Joselu,M. Diam\u00e9,1
+J. Shelvey,Joselu,1
+J. Murphy,Javi Manquillo,1
+J. Shelvey,F. Lejeune,1
+J. Shelvey,Javi Manquillo,1
+C. Clark,M. Ritchie,1
+M. Ritchie,C. Clark,1
+J. Murphy,F. Lejeune,1
+Javi Manquillo,J. Shelvey,1
+J. Murphy,Joselu,1
+Joselu,J. Murphy,1

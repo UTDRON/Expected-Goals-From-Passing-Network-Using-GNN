@@ -1,0 +1,18 @@
+Source,Target,Weight
+D. Janmaat,Deulofeu,2
+T. Deeney,E. Capoue,2
+S. Pr\u00f6dl,D. Janmaat,2
+A. Doucour\u00e9,E. Capoue,1
+E. Capoue,Deulofeu,1
+J. Holebas,Deulofeu,1
+M. Zeegelaar,J. Holebas,1
+E. Capoue,J. Holebas,1
+A. Mariappa,S. Pr\u00f6dl,1
+E. Capoue,M. Zeegelaar,1
+Deulofeu,J. Holebas,1
+R. Pereyra,E. Capoue,1
+Deulofeu,S. Pr\u00f6dl,1
+Deulofeu,A. Doucour\u00e9,1
+E. Capoue,T. Deeney,1
+J. Holebas,R. Pereyra,1
+Deulofeu,A. Mariappa,1

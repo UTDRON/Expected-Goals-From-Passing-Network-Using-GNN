@@ -1,0 +1,26 @@
+Source,Target,Weight
+M. Lowton,K. Long,4
+K. Long,M. Lowton,3
+S. Vokes,M. Lowton,2
+J. Tarkowski,K. Long,2
+K. Long,J. Cork,2
+J. Gu\u00f0munds\u00adson,S. Vokes,1
+A. Westwood,K. Long,1
+A. Westwood,S. Ward,1
+J. Tarkowski,J. Cork,1
+M. Lowton,A. Westwood,1
+J. Cork,S. Vokes,1
+K. Long,J. Tarkowski,1
+A. Barnes,M. Lowton,1
+J. Cork,J. Tarkowski,1
+K. Long,A. Barnes,1
+M. Lowton,J. Gu\u00f0munds\u00adson,1
+S. Ward,A. Lennon,1
+S. Vokes,K. Long,1
+J. Tarkowski,A. Lennon,1
+A. Lennon,J. Tarkowski,1
+K. Long,A. Westwood,1
+A. Lennon,A. Barnes,1
+J. Tarkowski,A. Westwood,1
+A. Westwood,J. Tarkowski,1
+A. Barnes,S. Vokes,1

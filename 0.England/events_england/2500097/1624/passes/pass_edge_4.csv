@@ -1,0 +1,24 @@
+Source,Target,Weight
+E. Dier,D. Rose,2
+C. Eriksen,E. Dier,2
+D. Rose,E. Dier,2
+M. Sissoko,K. Walker-Peters,2
+K. Walker-Peters,V. Wanyama,2
+T. Alderweireld,K. Walker-Peters,1
+E. Dier,Lucas Moura,1
+V. Wanyama,M. Sissoko,1
+E. Lamela,D. Rose,1
+E. Lamela,V. Wanyama,1
+Lucas Moura,C. Eriksen,1
+D. Rose,Lucas Moura,1
+Lucas Moura,T. Alderweireld,1
+V. Wanyama,K. Walker-Peters,1
+K. Walker-Peters,E. Dier,1
+C. Eriksen,M. Sissoko,1
+E. Dier,H. Lloris,1
+C. Eriksen,E. Lamela,1
+V. Wanyama,C. Eriksen,1
+E. Lamela,C. Eriksen,1
+K. Walker-Peters,C. Eriksen,1
+H. Lloris,T. Alderweireld,1
+T. Alderweireld,E. Lamela,1

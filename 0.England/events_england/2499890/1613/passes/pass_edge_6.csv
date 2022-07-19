@@ -1,0 +1,65 @@
+Source,Target,Weight
+J. Lascelles,M. Ritchie,4
+M. Ritchie,Joselu,4
+M. Ritchie,D. Yedlin,3
+R. Elliot,Joselu,3
+Mikel Merino,M. Ritchie,3
+Ayoze P\u00e9rez,Mikel Merino,3
+Mikel Merino,I. Hayden,3
+Mikel Merino,F. Lejeune,3
+Javi Manquillo,Ayoze P\u00e9rez,3
+F. Lejeune,R. Elliot,3
+D. Yedlin,Mikel Merino,2
+Javi Manquillo,Mikel Merino,2
+F. Lejeune,Ayoze P\u00e9rez,2
+Joselu,Mikel Merino,2
+M. Ritchie,Mikel Merino,2
+J. Lascelles,R. Elliot,2
+F. Lejeune,Mikel Merino,2
+D. Yedlin,J. Lascelles,2
+F. Lejeune,Javi Manquillo,2
+Mikel Merino,Javi Manquillo,2
+M. Ritchie,J. Lascelles,2
+D. Yedlin,I. Hayden,2
+Ayoze P\u00e9rez,Javi Manquillo,2
+Javi Manquillo,F. Lejeune,2
+Joselu,I. Hayden,2
+Joselu,M. Ritchie,2
+I. Hayden,F. Lejeune,2
+I. Hayden,R. Elliot,2
+Joselu,Javi Manquillo,1
+Mikel Merino,J. Lascelles,1
+I. Hayden,M. Ritchie,1
+J. Lascelles,Javi Manquillo,1
+Javi Manquillo,Joselu,1
+R. Elliot,F. Lejeune,1
+Joselu,D. Yedlin,1
+R. Elliot,I. Hayden,1
+D. Yedlin,M. Ritchie,1
+M. Ritchie,J. Murphy,1
+R. Elliot,D. Gayle,1
+Ayoze P\u00e9rez,Joselu,1
+D. Gayle,D. Yedlin,1
+Javi Manquillo,J. Lascelles,1
+J. Lascelles,D. Yedlin,1
+Mikel Merino,Joselu,1
+Joselu,Ayoze P\u00e9rez,1
+M. Ritchie,I. Hayden,1
+F. Lejeune,M. Ritchie,1
+Ayoze P\u00e9rez,M. Ritchie,1
+I. Hayden,Mikel Merino,1
+Mikel Merino,Ayoze P\u00e9rez,1
+I. Hayden,Javi Manquillo,1
+R. Elliot,Mikel Merino,1
+I. Hayden,J. Lascelles,1
+Javi Manquillo,R. Elliot,1
+R. Elliot,J. Lascelles,1
+J. Murphy,F. Lejeune,1
+Mikel Merino,D. Yedlin,1
+I. Hayden,D. Yedlin,1
+D. Yedlin,F. Lejeune,1
+Joselu,F. Lejeune,1
+M. Ritchie,Javi Manquillo,1
+D. Yedlin,R. Elliot,1
+R. Elliot,M. Ritchie,1
+F. Lejeune,D. Yedlin,1

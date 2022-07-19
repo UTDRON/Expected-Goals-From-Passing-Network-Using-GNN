@@ -1,0 +1,17 @@
+Source,Target,Weight
+V. Wanyama,B. Davies,2
+Lucas Moura,H. Kane,2
+V. Wanyama,C. Eriksen,2
+B. Davies,V. Wanyama,1
+Son Heung-Min,V. Wanyama,1
+H. Kane,Lucas Moura,1
+H. Kane,S. Aurier,1
+B. Davies,E. Dier,1
+C. Eriksen,Lucas Moura,1
+C. Eriksen,V. Wanyama,1
+H. Kane,C. Eriksen,1
+C. Eriksen,H. Kane,1
+E. Dier,H. Kane,1
+C. Eriksen,B. Davies,1
+B. Davies,Son Heung-Min,1
+S. Aurier,C. Eriksen,1

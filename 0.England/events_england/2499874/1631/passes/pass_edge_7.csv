@@ -1,0 +1,25 @@
+Source,Target,Weight
+B. Chilwell,M. Albrighton,3
+Vicente Iborra,W. Ndidi,2
+M. Albrighton,B. Chilwell,2
+B. Chilwell,D. Gray,2
+R. Mahrez,W. Ndidi,1
+H. Maguire,B. Chilwell,1
+W. Ndidi,Vicente Iborra,1
+D. Gray,W. Morgan,1
+W. Morgan,W. Ndidi,1
+H. Maguire,D. Gray,1
+Vicente Iborra,W. Morgan,1
+W. Ndidi,B. Chilwell,1
+W. Ndidi,H. Maguire,1
+W. Ndidi,W. Morgan,1
+M. Albrighton,R. Mahrez,1
+R. Mahrez,M. Albrighton,1
+W. Morgan,D. Simpson,1
+M. Albrighton,Vicente Iborra,1
+W. Morgan,H. Maguire,1
+D. Simpson,R. Mahrez,1
+J. Vardy,B. Chilwell,1
+D. Gray,Vicente Iborra,1
+Vicente Iborra,J. Vardy,1
+D. Gray,D. Simpson,1

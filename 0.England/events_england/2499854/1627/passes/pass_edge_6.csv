@@ -1,0 +1,27 @@
+Source,Target,Weight
+S. Field,Ahmed Hegazy,3
+Ahmed Hegazy,J. Livermore,2
+S. Rond\u00f3n,S. Field,2
+M. Phillips,J. Evans,2
+J. Livermore,M. Phillips,1
+B. Foster,K. Gibbs,1
+Ahmed Hegazy,A. Nyom,1
+Ahmed Hegazy,S. Field,1
+H. Robson-Kanu,M. Phillips,1
+B. Foster,J. Evans,1
+A. Nyom,M. Phillips,1
+K. Gibbs,S. Rond\u00f3n,1
+J. Evans,S. Rond\u00f3n,1
+M. Phillips,G. Barry,1
+J. Livermore,B. Foster,1
+M. Phillips,A. Nyom,1
+J. Evans,J. Livermore,1
+K. Gibbs,Ahmed Hegazy,1
+Ahmed Hegazy,B. Foster,1
+H. Robson-Kanu,S. Field,1
+J. Livermore,H. Robson-Kanu,1
+A. Nyom,B. Foster,1
+G. Barry,H. Robson-Kanu,1
+J. Evans,Ahmed Hegazy,1
+S. Field,K. Gibbs,1
+B. Foster,M. Phillips,1

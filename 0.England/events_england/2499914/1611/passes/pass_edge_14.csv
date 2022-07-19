@@ -1,0 +1,22 @@
+Source,Target,Weight
+H. Mkhitaryan,A. Young,2
+J. Lingard,L. Shaw,2
+L. Shaw,M. Rashford,2
+M. Rashford,N. Mati\u0107,2
+M. Rashford,L. Shaw,2
+A. Young,N. Mati\u0107,1
+R. Lukaku,A. Young,1
+Juan Mata,H. Mkhitaryan,1
+Juan Mata,N. Mati\u0107,1
+A. Young,Juan Mata,1
+A. Young,J. Lingard,1
+N. Mati\u0107,L. Shaw,1
+L. Shaw,J. Lingard,1
+N. Mati\u0107,J. Lingard,1
+L. Shaw,H. Mkhitaryan,1
+L. Shaw,R. Lukaku,1
+N. Mati\u0107,M. Rashford,1
+N. Mati\u0107,H. Mkhitaryan,1
+R. Lukaku,David de Gea,1
+H. Mkhitaryan,R. Lukaku,1
+David de Gea,Juan Mata,1

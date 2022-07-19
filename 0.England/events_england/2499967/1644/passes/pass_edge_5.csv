@@ -1,0 +1,43 @@
+Source,Target,Weight
+J. Holebas,Richarlison,2
+E. Capoue,Deulofeu,2
+T. Deeney,J. Holebas,2
+E. Capoue,O. Karnezis,2
+E. Capoue,J. Holebas,2
+Richarlison,T. Deeney,2
+J. Holebas,C. Kabasele,2
+C. Kabasele,E. Capoue,2
+A. Doucour\u00e9,Deulofeu,2
+Deulofeu,E. Capoue,2
+C. Kabasele,T. Deeney,1
+J. Holebas,E. Capoue,1
+Deulofeu,J. Holebas,1
+S. Pr\u00f6dl,E. Capoue,1
+A. Doucour\u00e9,E. Capoue,1
+Richarlison,S. Pr\u00f6dl,1
+E. Capoue,A. Mariappa,1
+O. Karnezis,C. Kabasele,1
+T. Deeney,C. Kabasele,1
+O. Karnezis,A. Doucour\u00e9,1
+A. Doucour\u00e9,S. Pr\u00f6dl,1
+S. Pr\u00f6dl,Richarlison,1
+T. Cleverley,Richarlison,1
+C. Kabasele,Richarlison,1
+Deulofeu,A. Doucour\u00e9,1
+Deulofeu,Richarlison,1
+Richarlison,J. Holebas,1
+Richarlison,C. Kabasele,1
+S. Pr\u00f6dl,A. Doucour\u00e9,1
+J. Holebas,A. Doucour\u00e9,1
+C. Kabasele,J. Holebas,1
+O. Karnezis,Richarlison,1
+Deulofeu,T. Cleverley,1
+C. Kabasele,T. Cleverley,1
+Richarlison,T. Cleverley,1
+T. Cleverley,Deulofeu,1
+T. Cleverley,S. Pr\u00f6dl,1
+J. Holebas,Deulofeu,1
+A. Mariappa,O. Karnezis,1
+O. Karnezis,J. Holebas,1
+S. Pr\u00f6dl,C. Kabasele,1
+J. Holebas,O. Karnezis,1

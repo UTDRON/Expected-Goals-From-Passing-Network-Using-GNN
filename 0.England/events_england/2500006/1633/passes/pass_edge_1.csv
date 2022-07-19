@@ -1,0 +1,42 @@
+Source,Target,Weight
+M. Noble,W. Reid,3
+W. Reid,D. Rice,3
+A. Cresswell,W. Reid,3
+D. Rice,M. Noble,3
+D. Rice,W. Reid,3
+P. Evra,M. Lanzini,3
+W. Reid,A. Cresswell,2
+P. Zabaleta,D. Rice,2
+M. Lanzini,A. Cresswell,2
+D. Rice,Adri\u00e1n,2
+M. Arnautovi\u0107,M. Lanzini,2
+Adri\u00e1n,D. Rice,2
+M. Lanzini,P. Evra,2
+W. Reid,C. Kouyat\u00e9,2
+M. Lanzini,M. Noble,2
+W. Reid,M. Noble,2
+J. Hern\u00e1ndez,M. Lanzini,2
+M. Lanzini,J. Hern\u00e1ndez,2
+C. Kouyat\u00e9,D. Rice,2
+C. Kouyat\u00e9,M. Arnautovi\u0107,2
+D. Rice,P. Zabaleta,2
+M. Noble,C. Kouyat\u00e9,1
+M. Noble,D. Rice,1
+J. Hern\u00e1ndez,P. Zabaleta,1
+M. Arnautovi\u0107,D. Rice,1
+C. Kouyat\u00e9,M. Lanzini,1
+A. Cresswell,J. Hern\u00e1ndez,1
+M. Lanzini,W. Reid,1
+P. Zabaleta,W. Reid,1
+A. Cresswell,C. Kouyat\u00e9,1
+P. Zabaleta,C. Kouyat\u00e9,1
+P. Evra,W. Reid,1
+M. Noble,M. Arnautovi\u0107,1
+M. Noble,A. Cresswell,1
+W. Reid,P. Zabaleta,1
+C. Kouyat\u00e9,P. Evra,1
+A. Cresswell,P. Evra,1
+D. Rice,C. Kouyat\u00e9,1
+J. Hern\u00e1ndez,P. Evra,1
+P. Evra,A. Cresswell,1
+W. Reid,J. Hern\u00e1ndez,1

@@ -1,0 +1,15 @@
+Source,Target,Weight
+A. Carroll,C. Kouyat\u00e9,2
+A. Ayew,A. Cresswell,2
+A. Cresswell,M. Antonio,2
+M. Antonio,A. Cresswell,1
+A. Cresswell,A. Carroll,1
+Jos\u00e9 Fonte,A. Ayew,1
+A. Cresswell,J. Collins,1
+M. Antonio,Jos\u00e9 Fonte,1
+Jos\u00e9 Fonte,A. Carroll,1
+A. Carroll,J. Collins,1
+J. Collins,Jos\u00e9 Fonte,1
+C. Kouyat\u00e9,A. Carroll,1
+J. Collins,A. Ayew,1
+C. Kouyat\u00e9,A. Cresswell,1

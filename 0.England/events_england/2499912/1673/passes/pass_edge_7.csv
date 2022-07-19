@@ -1,0 +1,21 @@
+Source,Target,Weight
+T. Smith,J. Hogg,1
+A. Mooy,C. L\u00f6we,1
+R. van La Parra,A. Mooy,1
+J. Hogg,R. van La Parra,1
+C. Schindler,R. van La Parra,1
+C. L\u00f6we,T. Smith,1
+J. Hogg,T. Smith,1
+J. Hogg,C. Schindler,1
+S. Mouni\u00e9,C. Quaner,1
+J. L\u00f6ssl,S. Mouni\u00e9,1
+T. Smith,S. Mouni\u00e9,1
+C. Quaner,T. Smith,1
+C. L\u00f6we,M. J\u00f8rgensen,1
+T. Smith,C. L\u00f6we,1
+S. Mouni\u00e9,A. Mooy,1
+A. Mooy,T. Smith,1
+M. J\u00f8rgensen,J. L\u00f6ssl,1
+T. Smith,J. L\u00f6ssl,1
+A. Mooy,J. Hogg,1
+J. L\u00f6ssl,J. Hogg,1

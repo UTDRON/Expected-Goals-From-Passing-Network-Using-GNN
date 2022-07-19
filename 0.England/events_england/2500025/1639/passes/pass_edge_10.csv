@@ -1,0 +1,14 @@
+Source,Target,Weight
+S. Berahino,B. N'Diaye,2
+B. N'Diaye,J. Allen,2
+J. Allen,G. Johnson,2
+S. Berahino,J. Allen,1
+P. Crouch,G. Johnson,1
+R. Shawcross,B. N'Diaye,1
+B. N'Diaye,J. Butland,1
+J. Allen,S. Berahino,1
+K. Stafylidis,S. Berahino,1
+G. Johnson,J. Allen,1
+J. Allen,K. Stafylidis,1
+J. Butland,P. Crouch,1
+G. Johnson,S. Berahino,1

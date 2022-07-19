@@ -1,0 +1,15 @@
+Source,Target,Weight
+C. L\u00f6we,P. Billing,2
+J. L\u00f6ssl,C. Schindler,1
+T. Ince,A. Mooy,1
+T. Ince,P. Billing,1
+C. L\u00f6we,J. L\u00f6ssl,1
+J. L\u00f6ssl,S. Mouni\u00e9,1
+A. Mooy,T. Ince,1
+T. Smith,J. L\u00f6ssl,1
+P. Billing,J. L\u00f6ssl,1
+J. L\u00f6ssl,T. Smith,1
+C. Schindler,P. Billing,1
+S. Mouni\u00e9,C. L\u00f6we,1
+P. Billing,C. L\u00f6we,1
+P. Billing,T. Ince,1

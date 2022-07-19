@@ -1,0 +1,27 @@
+Source,Target,Weight
+Ramadan Sobhi,I. Afellay,2
+J. Butland,M. Diouf,2
+G. Cameron,K. Zouma,2
+I. Afellay,Ramadan Sobhi,2
+J. Butland,E. Pieters,1
+E. Choupo-Moting,J. Butland,1
+D. Fletcher,E. Choupo-Moting,1
+K. Zouma,J. Butland,1
+E. Pieters,J. Butland,1
+Ramadan Sobhi,J. Butland,1
+G. Cameron,Ramadan Sobhi,1
+Ramadan Sobhi,B. Martins Indi,1
+E. Choupo-Moting,Ramadan Sobhi,1
+E. Pieters,E. Choupo-Moting,1
+I. Afellay,B. Martins Indi,1
+Ramadan Sobhi,D. Fletcher,1
+J. Butland,G. Cameron,1
+M. Diouf,G. Cameron,1
+K. Zouma,G. Cameron,1
+Ramadan Sobhi,E. Pieters,1
+B. Martins Indi,M. Diouf,1
+M. Diouf,J. Butland,1
+B. Martins Indi,K. Zouma,1
+K. Zouma,Ramadan Sobhi,1
+K. Zouma,I. Afellay,1
+J. Butland,Ramadan Sobhi,1

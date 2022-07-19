@@ -1,0 +1,27 @@
+Source,Target,Weight
+B. Davies,H. Winks,2
+H. Winks,C. Eriksen,2
+H. Winks,B. Davies,2
+B. Davies,D. Alli,2
+D. Alli,H. Winks,2
+D. Alli,E. Dier,2
+H. Winks,T. Alderweireld,1
+H. Kane,B. Davies,1
+K. Trippier,E. Dier,1
+D. Alli,K. Trippier,1
+J. Vertonghen,C. Eriksen,1
+T. Alderweireld,B. Davies,1
+C. Eriksen,H. Winks,1
+H. Winks,D. Alli,1
+K. Trippier,D. Alli,1
+B. Davies,H. Kane,1
+C. Eriksen,B. Davies,1
+T. Alderweireld,K. Trippier,1
+E. Dier,D. Alli,1
+K. Trippier,T. Alderweireld,1
+C. Eriksen,J. Vertonghen,1
+K. Trippier,H. Kane,1
+E. Dier,H. Winks,1
+E. Dier,K. Trippier,1
+J. Vertonghen,B. Davies,1
+B. Davies,K. Trippier,1

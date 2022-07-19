@@ -1,0 +1,87 @@
+Source,Target,Weight
+C. Schindler,A. Mooy,5
+A. Mooy,F. Hadergjonaj,4
+C. Schindler,P. Billing,4
+A. Pritchard,C. Schindler,4
+C. Schindler,M. J\u00f8rgensen,4
+J. L\u00f6ssl,S. Mouni\u00e9,4
+P. Billing,C. Schindler,4
+T. Kongolo,S. Malone,3
+T. Kongolo,P. Billing,3
+S. Mouni\u00e9,P. Billing,3
+F. Hadergjonaj,C. Schindler,3
+P. Billing,A. Pritchard,3
+T. Kongolo,C. Schindler,3
+A. Pritchard,T. Kongolo,3
+M. J\u00f8rgensen,C. Schindler,3
+F. Hadergjonaj,S. Mouni\u00e9,3
+M. J\u00f8rgensen,A. Mooy,3
+C. Schindler,T. Kongolo,3
+J. L\u00f6ssl,C. Schindler,3
+S. Mouni\u00e9,A. Pritchard,3
+J. L\u00f6ssl,M. J\u00f8rgensen,2
+C. Schindler,J. L\u00f6ssl,2
+F. Hadergjonaj,A. Mooy,2
+M. J\u00f8rgensen,F. Hadergjonaj,2
+C. Schindler,R. van La Parra,2
+A. Mooy,A. Pritchard,2
+A. Mooy,C. Schindler,2
+R. van La Parra,F. Hadergjonaj,2
+C. Schindler,F. Hadergjonaj,2
+P. Billing,T. Kongolo,2
+A. Pritchard,S. Mouni\u00e9,2
+S. Malone,J. L\u00f6ssl,2
+M. J\u00f8rgensen,J. L\u00f6ssl,2
+P. Billing,J. L\u00f6ssl,2
+S. Malone,A. Pritchard,2
+A. Mooy,T. Kongolo,2
+A. Mooy,R. van La Parra,2
+S. Malone,S. Mouni\u00e9,2
+R. van La Parra,M. J\u00f8rgensen,2
+C. Schindler,S. Malone,2
+A. Pritchard,J. L\u00f6ssl,2
+S. Mouni\u00e9,C. Schindler,2
+T. Kongolo,A. Pritchard,2
+S. Mouni\u00e9,L. Depoitre,2
+T. Kongolo,J. L\u00f6ssl,1
+J. L\u00f6ssl,L. Depoitre,1
+L. Depoitre,P. Billing,1
+R. van La Parra,A. Pritchard,1
+M. J\u00f8rgensen,R. van La Parra,1
+L. Depoitre,A. Mooy,1
+S. Mouni\u00e9,R. van La Parra,1
+P. Billing,M. J\u00f8rgensen,1
+A. Mooy,L. Depoitre,1
+A. Pritchard,S. Malone,1
+R. van La Parra,P. Billing,1
+J. L\u00f6ssl,T. Kongolo,1
+J. L\u00f6ssl,A. Pritchard,1
+C. Schindler,S. Mouni\u00e9,1
+A. Pritchard,M. J\u00f8rgensen,1
+S. Mouni\u00e9,F. Hadergjonaj,1
+S. Mouni\u00e9,M. J\u00f8rgensen,1
+T. Kongolo,S. Mouni\u00e9,1
+A. Pritchard,F. Hadergjonaj,1
+S. Malone,T. Kongolo,1
+J. L\u00f6ssl,F. Hadergjonaj,1
+L. Depoitre,A. Pritchard,1
+F. Hadergjonaj,L. Depoitre,1
+P. Billing,S. Mouni\u00e9,1
+M. J\u00f8rgensen,P. Billing,1
+S. Mouni\u00e9,A. Mooy,1
+A. Mooy,M. J\u00f8rgensen,1
+A. Mooy,P. Billing,1
+F. Hadergjonaj,P. Billing,1
+A. Pritchard,L. Depoitre,1
+R. van La Parra,T. Kongolo,1
+A. Pritchard,A. Mooy,1
+P. Billing,R. van La Parra,1
+P. Billing,A. Mooy,1
+F. Hadergjonaj,J. L\u00f6ssl,1
+F. Hadergjonaj,S. Malone,1
+F. Hadergjonaj,A. Pritchard,1
+L. Depoitre,J. L\u00f6ssl,1
+A. Pritchard,P. Billing,1
+L. Depoitre,C. Schindler,1
+S. Malone,A. Mooy,1
+P. Billing,S. Malone,1

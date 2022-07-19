@@ -1,0 +1,50 @@
+Source,Target,Weight
+Joselu,I. Hayden,3
+D. Gayle,M. Ritchie,3
+M. Ritchie,D. Gayle,2
+P. Dummett,C. Atsu,2
+J. Lascelles,Mikel Merino,2
+C. Atsu,M. Ritchie,2
+Mikel Merino,D. Gayle,2
+K. Darlow,Joselu,2
+M. Ritchie,I. Hayden,2
+Joselu,P. Dummett,1
+M. Ritchie,C. Atsu,1
+P. Dummett,Joselu,1
+Mikel Merino,D. Yedlin,1
+C. Atsu,C. Clark,1
+I. Hayden,P. Dummett,1
+I. Hayden,D. Yedlin,1
+D. Yedlin,Mikel Merino,1
+M. Ritchie,D. Yedlin,1
+I. Hayden,Mikel Merino,1
+I. Hayden,C. Atsu,1
+M. Ritchie,Joselu,1
+M. Ritchie,K. Darlow,1
+J. Lascelles,C. Clark,1
+I. Hayden,Joselu,1
+Joselu,D. Yedlin,1
+D. Yedlin,M. Ritchie,1
+D. Yedlin,J. Lascelles,1
+C. Clark,J. Lascelles,1
+D. Gayle,C. Clark,1
+D. Gayle,P. Dummett,1
+I. Hayden,J. Lascelles,1
+C. Atsu,P. Dummett,1
+Joselu,C. Atsu,1
+C. Clark,P. Dummett,1
+Mikel Merino,Joselu,1
+D. Gayle,I. Hayden,1
+D. Gayle,C. Atsu,1
+D. Yedlin,Joselu,1
+K. Darlow,D. Gayle,1
+Joselu,D. Gayle,1
+K. Darlow,D. Yedlin,1
+P. Dummett,K. Darlow,1
+P. Dummett,D. Gayle,1
+Joselu,J. Lascelles,1
+J. Lascelles,K. Darlow,1
+C. Atsu,K. Darlow,1
+D. Yedlin,I. Hayden,1
+C. Clark,M. Ritchie,1
+C. Atsu,Joselu,1

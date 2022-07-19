@@ -1,0 +1,21 @@
+Source,Target,Weight
+A. Mariappa,O. Karnezis,2
+T. Deeney,A. Carrillo,2
+A. Carrillo,A. Doucour\u00e9,2
+A. Doucour\u00e9,Richarlison,2
+A. Doucour\u00e9,T. Deeney,1
+D. Janmaat,A. Carrillo,1
+Richarlison,A. Doucour\u00e9,1
+D. Janmaat,T. Deeney,1
+A. Carrillo,Richarlison,1
+R. Pereyra,A. Doucour\u00e9,1
+S. Pr\u00f6dl,A. Mariappa,1
+A. Mariappa,A. Carrillo,1
+S. Pr\u00f6dl,D. Janmaat,1
+Richarlison,A. Mariappa,1
+J. Holebas,R. Pereyra,1
+A. Carrillo,A. Mariappa,1
+Richarlison,J. Holebas,1
+A. Doucour\u00e9,S. Pr\u00f6dl,1
+O. Karnezis,D. Janmaat,1
+O. Karnezis,S. Pr\u00f6dl,1

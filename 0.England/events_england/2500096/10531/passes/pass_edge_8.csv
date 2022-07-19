@@ -1,0 +1,76 @@
+Source,Target,Weight
+M. van der Hoorn,T. Carroll,6
+T. Carroll,A. Ayew,6
+A. Ayew,J. Ayew,6
+\u00c0ngel Rangel,A. King,6
+T. Carroll,A. Mawson,6
+J. Ayew,N. Dyer,5
+A. King,J. Ayew,5
+A. King,N. Dyer,5
+\u00c0ngel Rangel,J. Ayew,5
+T. Carroll,A. King,4
+M. Olsson,T. Carroll,4
+J. Ayew,A. King,4
+M. Olsson,A. Mawson,4
+\u00c0ngel Rangel,T. Carroll,4
+A. Mawson,T. Carroll,4
+N. Dyer,\u00c0ngel Rangel,4
+N. Dyer,A. King,3
+A. King,M. Olsson,3
+M. Olsson,W. Routledge,3
+N. Dyer,T. Carroll,3
+J. Ayew,\u00c0ngel Rangel,3
+A. Mawson,M. Olsson,3
+N. Dyer,M. van der Hoorn,3
+T. Carroll,M. Olsson,3
+J. Ayew,T. Carroll,3
+A. Mawson,M. van der Hoorn,3
+T. Carroll,J. Ayew,2
+W. Routledge,M. van der Hoorn,2
+J. Ayew,A. Mawson,2
+A. King,A. Ayew,2
+W. Routledge,\u00c0ngel Rangel,2
+N. Dyer,J. Ayew,2
+A. King,A. Mawson,2
+A. Mawson,\u0141. Fabia\u0144ski,2
+A. King,T. Carroll,2
+J. Ayew,A. Ayew,2
+A. Mawson,W. Routledge,2
+M. van der Hoorn,A. Mawson,2
+T. Carroll,\u00c0ngel Rangel,2
+A. Ayew,\u00c0ngel Rangel,2
+T. Carroll,M. van der Hoorn,2
+\u00c0ngel Rangel,N. Dyer,2
+M. van der Hoorn,A. King,2
+A. Ayew,A. King,2
+A. King,\u00c0ngel Rangel,2
+W. Routledge,J. Ayew,1
+W. Routledge,N. Dyer,1
+J. Ayew,W. Routledge,1
+W. Routledge,M. Olsson,1
+J. Ayew,M. van der Hoorn,1
+T. Carroll,W. Routledge,1
+A. Mawson,\u00c0ngel Rangel,1
+M. van der Hoorn,\u00c0ngel Rangel,1
+M. van der Hoorn,\u0141. Fabia\u0144ski,1
+N. Dyer,W. Routledge,1
+W. Routledge,A. King,1
+\u0141. Fabia\u0144ski,M. van der Hoorn,1
+M. van der Hoorn,N. Dyer,1
+A. Ayew,M. van der Hoorn,1
+A. Mawson,A. King,1
+\u0141. Fabia\u0144ski,J. Ayew,1
+M. Olsson,\u00c0ngel Rangel,1
+J. Ayew,M. Olsson,1
+\u00c0ngel Rangel,M. van der Hoorn,1
+M. van der Hoorn,W. Routledge,1
+W. Routledge,A. Ayew,1
+M. Olsson,A. Ayew,1
+\u0141. Fabia\u0144ski,M. Olsson,1
+W. Routledge,A. Mawson,1
+M. van der Hoorn,A. Ayew,1
+A. King,W. Routledge,1
+A. Mawson,N. Dyer,1
+A. Ayew,N. Dyer,1
+A. Ayew,M. Olsson,1
+A. King,M. van der Hoorn,1

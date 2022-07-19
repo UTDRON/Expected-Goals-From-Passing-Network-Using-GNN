@@ -1,0 +1,21 @@
+Source,Target,Weight
+R. Brady,S. Defour,2
+S. Arfield,J. Tarkowski,1
+J. Tarkowski,J. Cork,1
+S. Defour,J. Tarkowski,1
+S. Defour,S. Vokes,1
+T. Heaton,S. Vokes,1
+S. Ward,R. Brady,1
+J. Tarkowski,R. Brady,1
+J. Gu\u00f0munds\u00adson,S. Ward,1
+S. Arfield,J. Gu\u00f0munds\u00adson,1
+R. Brady,S. Ward,1
+S. Ward,S. Arfield,1
+J. Cork,R. Brady,1
+B. Mee,T. Heaton,1
+S. Ward,S. Defour,1
+J. Cork,B. Mee,1
+R. Brady,S. Vokes,1
+S. Vokes,S. Arfield,1
+S. Defour,R. Brady,1
+S. Vokes,S. Ward,1

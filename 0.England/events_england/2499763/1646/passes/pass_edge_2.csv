@@ -1,0 +1,13 @@
+Source,Target,Weight
+J. Cork,R. Brady,2
+B. Mee,J. Tarkowski,2
+S. Ward,B. Mee,1
+J. Tarkowski,R. Brady,1
+R. Brady,J. Cork,1
+C. Wood,S. Arfield,1
+S. Defour,B. Mee,1
+R. Brady,S. Ward,1
+R. Brady,C. Wood,1
+S. Defour,R. Brady,1
+R. Brady,S. Defour,1
+J. Tarkowski,S. Defour,1

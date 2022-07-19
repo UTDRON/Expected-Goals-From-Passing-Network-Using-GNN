@@ -1,0 +1,25 @@
+Source,Target,Weight
+C. Brunt,C. Dawson,4
+J. Rodriguez,C. Brunt,3
+C. Dawson,A. Nyom,3
+K. Gibbs,C. Brunt,2
+J. Livermore,C. Brunt,2
+A. Nyom,J. Livermore,2
+M. Phillips,J. Rodriguez,2
+A. Nyom,J. Rodriguez,2
+C. Brunt,M. Phillips,2
+A. Nyom,M. Phillips,1
+C. Dawson,B. Foster,1
+J. Rodriguez,A. Nyom,1
+Ahmed Hegazy,J. Rodriguez,1
+B. Foster,K. Gibbs,1
+J. Rodriguez,C. Dawson,1
+S. Rond\u00f3n,A. Nyom,1
+C. Brunt,S. Rond\u00f3n,1
+M. Phillips,K. Gibbs,1
+S. Rond\u00f3n,Ahmed Hegazy,1
+C. Brunt,B. Foster,1
+J. Livermore,S. Rond\u00f3n,1
+C. Dawson,C. Brunt,1
+B. Foster,M. Phillips,1
+M. Phillips,J. McClean,1

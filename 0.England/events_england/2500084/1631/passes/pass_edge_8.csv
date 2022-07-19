@@ -1,0 +1,17 @@
+Source,Target,Weight
+Adrien Silva,K. Iheanacho,2
+C. Fuchs,A. Dragovi\u0107,2
+A. Dragovi\u0107,C. Fuchs,2
+D. Gray,K. Iheanacho,1
+H. Maguire,A. Dragovi\u0107,1
+W. Morgan,A. Dragovi\u0107,1
+A. Dragovi\u0107,W. Morgan,1
+W. Morgan,D. Gray,1
+K. Iheanacho,Adrien Silva,1
+K. Iheanacho,W. Morgan,1
+K. Iheanacho,D. Gray,1
+H. Maguire,Y. Benalouane,1
+A. Dragovi\u0107,Adrien Silva,1
+D. Gray,Y. Benalouane,1
+Y. Benalouane,H. Maguire,1
+C. Fuchs,H. Maguire,1

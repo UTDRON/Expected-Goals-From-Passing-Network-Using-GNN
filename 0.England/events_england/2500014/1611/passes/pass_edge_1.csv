@@ -1,0 +1,45 @@
+Source,Target,Weight
+A. Young,M. Rashford,5
+N. Mati\u0107,A. Young,5
+M. Rashford,A. Young,4
+C. Smalling,David de Gea,4
+David de Gea,E. Bailly,4
+E. Bailly,N. Mati\u0107,3
+A. Young,C. Smalling,2
+S. McTominay,N. Mati\u0107,2
+A. Young,David de Gea,2
+N. Mati\u0107,A. S\u00e1nchez,2
+Juan Mata,S. McTominay,2
+A. Valencia,N. Mati\u0107,2
+A. S\u00e1nchez,M. Rashford,2
+M. Rashford,Juan Mata,2
+C. Smalling,N. Mati\u0107,2
+A. Valencia,Juan Mata,2
+A. S\u00e1nchez,A. Valencia,2
+A. Young,N. Mati\u0107,2
+David de Gea,R. Lukaku,2
+N. Mati\u0107,David de Gea,2
+M. Rashford,A. S\u00e1nchez,2
+E. Bailly,A. Young,2
+E. Bailly,S. McTominay,2
+Juan Mata,C. Smalling,2
+A. Young,Juan Mata,1
+S. McTominay,A. Young,1
+Juan Mata,A. Young,1
+N. Mati\u0107,Juan Mata,1
+A. Young,E. Bailly,1
+E. Bailly,A. Valencia,1
+R. Lukaku,E. Bailly,1
+Juan Mata,N. Mati\u0107,1
+David de Gea,M. Rashford,1
+S. McTominay,E. Bailly,1
+Juan Mata,E. Bailly,1
+N. Mati\u0107,R. Lukaku,1
+E. Bailly,C. Smalling,1
+N. Mati\u0107,C. Smalling,1
+David de Gea,N. Mati\u0107,1
+N. Mati\u0107,E. Bailly,1
+R. Lukaku,A. Young,1
+R. Lukaku,M. Rashford,1
+A. Young,S. McTominay,1
+S. McTominay,A. Valencia,1

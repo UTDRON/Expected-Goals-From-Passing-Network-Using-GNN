@@ -1,0 +1,24 @@
+Source,Target,Weight
+V. Lindel\u00f6f,A. Young,2
+L. Shaw,H. Mkhitaryan,2
+P. Jones,L. Shaw,2
+Juan Mata,N. Mati\u0107,1
+L. Shaw,P. Jones,1
+P. Pogba,Juan Mata,1
+H. Mkhitaryan,V. Lindel\u00f6f,1
+H. Mkhitaryan,P. Jones,1
+N. Mati\u0107,L. Shaw,1
+N. Mati\u0107,H. Mkhitaryan,1
+Juan Mata,P. Pogba,1
+N. Mati\u0107,P. Jones,1
+L. Shaw,Juan Mata,1
+A. Young,V. Lindel\u00f6f,1
+P. Pogba,A. Young,1
+V. Lindel\u00f6f,P. Jones,1
+P. Jones,V. Lindel\u00f6f,1
+V. Lindel\u00f6f,L. Shaw,1
+A. Young,M. Rashford,1
+H. Mkhitaryan,L. Shaw,1
+P. Jones,N. Mati\u0107,1
+A. Young,P. Pogba,1
+L. Shaw,N. Mati\u0107,1

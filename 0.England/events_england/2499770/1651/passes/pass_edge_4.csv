@@ -1,0 +1,24 @@
+Source,Target,Weight
+M. Ryan,S. Duffy,2
+L. Dunk,M. Ryan,2
+S. Duffy,Bruno Saltor,2
+Bruno Saltor,D. Stephens,2
+S. Duffy,P. Gro\u00df,1
+P. Gro\u00df,M. Suttner,1
+D. Stephens,P. Gro\u00df,1
+M. Suttner,P. Gro\u00df,1
+D. Stephens,Bruno Saltor,1
+T. Hemed,M. Suttner,1
+P. Gro\u00df,A. Knockaert,1
+P. Gro\u00df,M. Ryan,1
+M. Suttner,T. Hemed,1
+Bruno Saltor,A. Knockaert,1
+M. Suttner,S. March,1
+A. Knockaert,S. March,1
+S. March,L. Dunk,1
+A. Knockaert,Bruno Saltor,1
+P. Gro\u00df,Bruno Saltor,1
+S. March,P. Gro\u00df,1
+Bruno Saltor,S. Duffy,1
+Bruno Saltor,L. Dunk,1
+M. Ryan,M. Suttner,1

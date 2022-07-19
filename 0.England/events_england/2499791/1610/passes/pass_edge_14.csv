@@ -1,0 +1,55 @@
+Source,Target,Weight
+Azpilicueta,D. Zappacosta,5
+Marcos Alonso,C. Musonda,4
+Azpilicueta,T. Bakayoko,3
+G. Cahill,C. Musonda,3
+T. Courtois,Azpilicueta,3
+T. Bakayoko,G. Cahill,3
+G. Cahill,Marcos Alonso,3
+C. Musonda,G. Cahill,3
+G. Cahill,T. Bakayoko,3
+Marcos Alonso,David Luiz,2
+Pedro,F\u00e0bregas,2
+G. Cahill,T. Courtois,2
+T. Bakayoko,F\u00e0bregas,2
+D. Zappacosta,Azpilicueta,2
+C. Musonda,T. Bakayoko,2
+F\u00e0bregas,T. Bakayoko,2
+David Luiz,Marcos Alonso,2
+F\u00e0bregas,T. Courtois,2
+T. Bakayoko,Azpilicueta,2
+Marcos Alonso,T. Bakayoko,2
+Marcos Alonso,G. Cahill,2
+T. Bakayoko,Marcos Alonso,2
+David Luiz,Azpilicueta,2
+T. Courtois,F\u00e0bregas,2
+G. Cahill,F\u00e0bregas,2
+T. Bakayoko,T. Courtois,2
+T. Courtois,David Luiz,2
+F\u00e0bregas,Marcos Alonso,2
+T. Bakayoko,Pedro,1
+Pedro,Marcos Alonso,1
+David Luiz,G. Cahill,1
+D. Zappacosta,G. Cahill,1
+Azpilicueta,G. Cahill,1
+F\u00e0bregas,Azpilicueta,1
+Pedro,E. Hazard,1
+Azpilicueta,T. Courtois,1
+C. Musonda,Marcos Alonso,1
+T. Courtois,G. Cahill,1
+F\u00e0bregas,Pedro,1
+C. Musonda,Azpilicueta,1
+T. Bakayoko,E. Hazard,1
+Azpilicueta,Pedro,1
+E. Hazard,C. Musonda,1
+Marcos Alonso,T. Courtois,1
+C. Musonda,F\u00e0bregas,1
+E. Hazard,Pedro,1
+Azpilicueta,David Luiz,1
+F\u00e0bregas,D. Zappacosta,1
+D. Zappacosta,David Luiz,1
+Pedro,T. Bakayoko,1
+David Luiz,F\u00e0bregas,1
+F\u00e0bregas,G. Cahill,1
+D. Zappacosta,Pedro,1
+D. Zappacosta,F\u00e0bregas,1

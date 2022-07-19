@@ -1,0 +1,11 @@
+Source,Target,Weight
+K. Naughton,N. Dyer,1
+J. Ayew,A. Ayew,1
+A. King,J. Ayew,1
+K. Naughton,A. King,1
+N. Dyer,A. Ayew,1
+K. Naughton,J. Ayew,1
+N. Dyer,K. Naughton,1
+F. Fern\u00e1ndez,N. Dyer,1
+J. Ayew,F. Fern\u00e1ndez,1
+A. Ayew,K. Naughton,1

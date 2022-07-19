@@ -1,0 +1,48 @@
+Source,Target,Weight
+T. Davies,M. Schneiderlin,4
+I. Gueye,T. Davies,3
+Ramiro Funes Mori,L. Baines,3
+M. Schneiderlin,I. Gueye,3
+M. Schneiderlin,Ramiro Funes Mori,3
+M. Keane,S. Coleman,2
+D. Klaassen,Ramiro Funes Mori,2
+S. Coleman,O. Niasse,2
+S. Coleman,D. Klaassen,2
+O. Niasse,S. Coleman,2
+I. Gueye,D. Klaassen,2
+S. Coleman,L. Baines,2
+J. Pickford,Ramiro Funes Mori,2
+D. Klaassen,I. Gueye,2
+D. Klaassen,T. Davies,2
+Ramiro Funes Mori,T. Davies,2
+L. Baines,M. Schneiderlin,2
+O. Niasse,I. Gueye,2
+T. Davies,L. Baines,2
+S. Coleman,I. Gueye,1
+T. Davies,C. Tosun,1
+M. Schneiderlin,S. Coleman,1
+S. Coleman,T. Davies,1
+D. Klaassen,M. Keane,1
+M. Keane,O. Niasse,1
+L. Baines,D. Klaassen,1
+C. Tosun,D. Klaassen,1
+L. Baines,Ramiro Funes Mori,1
+L. Baines,C. Tosun,1
+D. Klaassen,O. Niasse,1
+Ramiro Funes Mori,S. Coleman,1
+C. Tosun,S. Coleman,1
+S. Coleman,C. Tosun,1
+S. Coleman,M. Keane,1
+Ramiro Funes Mori,M. Schneiderlin,1
+C. Tosun,J. Pickford,1
+T. Davies,D. Klaassen,1
+M. Schneiderlin,T. Davies,1
+Ramiro Funes Mori,D. Klaassen,1
+I. Gueye,S. Coleman,1
+T. Davies,S. Coleman,1
+I. Gueye,J. Pickford,1
+I. Gueye,M. Schneiderlin,1
+J. Pickford,S. Coleman,1
+L. Baines,J. Pickford,1
+O. Niasse,T. Davies,1
+L. Baines,O. Niasse,1

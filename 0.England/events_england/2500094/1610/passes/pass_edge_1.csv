@@ -1,0 +1,100 @@
+Source,Target,Weight
+A. Christensen,Azpilicueta,15
+Azpilicueta,A. Christensen,12
+Emerson,G. Cahill,11
+G. Cahill,Emerson,10
+Azpilicueta,N. Kant\u00e9,10
+Azpilicueta,V. Moses,10
+V. Moses,N. Kant\u00e9,10
+A. Christensen,G. Cahill,10
+G. Cahill,A. Christensen,9
+T. Bakayoko,A. Christensen,9
+N. Kant\u00e9,R. Barkley,9
+V. Moses,Azpilicueta,8
+R. Barkley,Azpilicueta,8
+Azpilicueta,R. Barkley,8
+Emerson,E. Hazard,8
+G. Cahill,T. Bakayoko,8
+N. Kant\u00e9,Azpilicueta,8
+T. Courtois,O. Giroud,7
+R. Barkley,N. Kant\u00e9,6
+V. Moses,O. Giroud,6
+T. Bakayoko,Emerson,6
+E. Hazard,Emerson,6
+O. Giroud,E. Hazard,6
+O. Giroud,R. Barkley,5
+Emerson,T. Bakayoko,5
+N. Kant\u00e9,T. Bakayoko,5
+A. Christensen,T. Bakayoko,5
+G. Cahill,T. Courtois,5
+R. Barkley,V. Moses,4
+E. Hazard,V. Moses,4
+A. Christensen,T. Courtois,4
+N. Kant\u00e9,T. Courtois,4
+E. Hazard,N. Kant\u00e9,4
+T. Bakayoko,N. Kant\u00e9,4
+T. Courtois,G. Cahill,4
+T. Bakayoko,R. Barkley,3
+E. Hazard,O. Giroud,3
+Emerson,A. Christensen,3
+Azpilicueta,Emerson,3
+O. Giroud,Emerson,3
+E. Hazard,G. Cahill,3
+A. Christensen,Emerson,3
+O. Giroud,V. Moses,3
+V. Moses,R. Barkley,3
+R. Barkley,G. Cahill,3
+T. Courtois,V. Moses,3
+N. Kant\u00e9,A. Christensen,3
+N. Kant\u00e9,G. Cahill,3
+E. Hazard,Azpilicueta,3
+T. Bakayoko,V. Moses,3
+Emerson,Azpilicueta,3
+T. Bakayoko,G. Cahill,3
+R. Barkley,T. Courtois,3
+R. Barkley,E. Hazard,3
+T. Bakayoko,Azpilicueta,3
+R. Barkley,O. Giroud,3
+N. Kant\u00e9,V. Moses,3
+G. Cahill,R. Barkley,3
+O. Giroud,T. Bakayoko,2
+A. Christensen,V. Moses,2
+R. Barkley,A. Christensen,2
+R. Barkley,Emerson,2
+Emerson,O. Giroud,2
+E. Hazard,R. Barkley,2
+Emerson,T. Courtois,2
+O. Giroud,G. Cahill,2
+G. Cahill,E. Hazard,2
+G. Cahill,V. Moses,2
+Emerson,N. Kant\u00e9,2
+E. Hazard,T. Bakayoko,2
+N. Kant\u00e9,E. Hazard,2
+Azpilicueta,T. Bakayoko,2
+T. Bakayoko,E. Hazard,2
+Azpilicueta,E. Hazard,2
+T. Courtois,A. Christensen,2
+O. Giroud,N. Kant\u00e9,2
+Azpilicueta,O. Giroud,2
+O. Giroud,A. Christensen,2
+T. Courtois,Azpilicueta,2
+V. Moses,G. Cahill,2
+V. Moses,E. Hazard,2
+Azpilicueta,T. Courtois,2
+A. Christensen,R. Barkley,2
+V. Moses,T. Bakayoko,2
+N. Kant\u00e9,Emerson,2
+R. Barkley,T. Bakayoko,2
+V. Moses,Emerson,1
+G. Cahill,N. Kant\u00e9,1
+Emerson,V. Moses,1
+T. Courtois,R. Barkley,1
+N. Kant\u00e9,O. Giroud,1
+Azpilicueta,G. Cahill,1
+A. Christensen,O. Giroud,1
+A. Christensen,N. Kant\u00e9,1
+T. Courtois,Emerson,1
+O. Giroud,Azpilicueta,1
+G. Cahill,O. Giroud,1
+G. Cahill,Azpilicueta,1
+V. Moses,A. Christensen,1

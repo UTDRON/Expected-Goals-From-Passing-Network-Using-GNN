@@ -1,0 +1,17 @@
+Source,Target,Weight
+C. Fuchs,A. King,2
+A. King,C. Fuchs,2
+A. King,D. Gray,1
+W. Ndidi,Vicente Iborra,1
+D. Simpson,W. Ndidi,1
+W. Ndidi,A. King,1
+M. Albrighton,D. Simpson,1
+D. Simpson,Vicente Iborra,1
+Vicente Iborra,W. Ndidi,1
+K. Schmeichel,A. King,1
+W. Ndidi,H. Maguire,1
+H. Maguire,K. Schmeichel,1
+D. Gray,C. Fuchs,1
+C. Fuchs,W. Ndidi,1
+Vicente Iborra,D. Simpson,1
+A. King,W. Ndidi,1

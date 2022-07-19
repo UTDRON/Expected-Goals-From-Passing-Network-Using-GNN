@@ -1,0 +1,15 @@
+Source,Target,Weight
+R. Mahrez,D. Simpson,1
+D. Gray,J. Vardy,1
+W. Ndidi,M. James,1
+C. Fuchs,A. King,1
+D. Simpson,R. Mahrez,1
+R. Mahrez,C. Fuchs,1
+J. Vardy,C. Fuchs,1
+C. Fuchs,R. Mahrez,1
+M. James,W. Ndidi,1
+W. Ndidi,C. Fuchs,1
+D. Simpson,M. James,1
+C. Fuchs,W. Ndidi,1
+M. James,C. Fuchs,1
+C. Fuchs,D. Gray,1

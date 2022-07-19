@@ -1,0 +1,20 @@
+Source,Target,Weight
+S. Defour,J. Cork,2
+T. Heaton,J. Tarkowski,2
+J. Cork,B. Mee,2
+J. Tarkowski,S. Ward,1
+S. Ward,J. Cork,1
+B. Mee,S. Ward,1
+S. Vokes,J. Gu\u00f0munds\u00adson,1
+J. Cork,T. Heaton,1
+M. Lowton,B. Mee,1
+J. Tarkowski,M. Lowton,1
+S. Defour,M. Lowton,1
+B. Mee,J. Cork,1
+J. Tarkowski,S. Vokes,1
+S. Ward,S. Defour,1
+J. Cork,J. Tarkowski,1
+B. Mee,S. Defour,1
+J. Gu\u00f0munds\u00adson,T. Heaton,1
+J. Cork,C. Wood,1
+M. Lowton,S. Defour,1

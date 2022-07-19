@@ -1,0 +1,41 @@
+Source,Target,Weight
+A. Mooy,M. J\u00f8rgensen,4
+S. Malone,M. J\u00f8rgensen,2
+M. J\u00f8rgensen,F. Hadergjonaj,2
+M. J\u00f8rgensen,T. Ince,2
+S. Malone,A. Mooy,2
+F. Hadergjonaj,R. van La Parra,2
+F. Hadergjonaj,A. Mooy,2
+A. Mooy,S. Malone,2
+F. Hadergjonaj,C. Quaner,2
+C. Quaner,F. Hadergjonaj,2
+A. Mooy,F. Hadergjonaj,2
+C. Quaner,A. Mooy,1
+J. L\u00f6ssl,S. Mouni\u00e9,1
+J. L\u00f6ssl,S. Malone,1
+S. Mouni\u00e9,A. Sabiri,1
+A. Sabiri,S. Malone,1
+S. Malone,S. Mouni\u00e9,1
+J. L\u00f6ssl,A. Mooy,1
+F. Hadergjonaj,J. L\u00f6ssl,1
+S. Mouni\u00e9,C. Quaner,1
+M. J\u00f8rgensen,S. Malone,1
+M. J\u00f8rgensen,C. Quaner,1
+R. van La Parra,A. Sabiri,1
+S. Mouni\u00e9,F. Hadergjonaj,1
+C. Quaner,T. Ince,1
+R. van La Parra,T. Ince,1
+S. Malone,J. L\u00f6ssl,1
+A. Sabiri,F. Hadergjonaj,1
+T. Ince,S. Malone,1
+S. Mouni\u00e9,R. van La Parra,1
+A. Mooy,R. van La Parra,1
+R. van La Parra,F. Hadergjonaj,1
+T. Ince,A. Mooy,1
+F. Hadergjonaj,A. Sabiri,1
+T. Ince,S. Mouni\u00e9,1
+A. Sabiri,A. Mooy,1
+M. J\u00f8rgensen,A. Mooy,1
+A. Sabiri,M. J\u00f8rgensen,1
+R. van La Parra,J. L\u00f6ssl,1
+F. Hadergjonaj,S. Mouni\u00e9,1

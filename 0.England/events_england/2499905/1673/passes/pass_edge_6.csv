@@ -1,0 +1,44 @@
+Source,Target,Weight
+F. Hadergjonaj,A. Mooy,4
+J. L\u00f6ssl,L. Depoitre,3
+C. Quaner,A. Mooy,3
+F. Hadergjonaj,C. Quaner,3
+C. Quaner,F. Hadergjonaj,3
+C. Schindler,F. Hadergjonaj,2
+L. Depoitre,C. Schindler,2
+D. Williams,C. Quaner,2
+F. Hadergjonaj,L. Depoitre,2
+F. Hadergjonaj,C. Schindler,2
+A. Mooy,F. Hadergjonaj,2
+A. Mooy,T. Ince,2
+L. Depoitre,F. Hadergjonaj,2
+T. Ince,F. Hadergjonaj,2
+L. Depoitre,M. J\u00f8rgensen,2
+D. Williams,F. Hadergjonaj,1
+C. Schindler,L. Depoitre,1
+M. J\u00f8rgensen,C. Quaner,1
+A. Mooy,C. Quaner,1
+D. Williams,S. Malone,1
+L. Depoitre,J. L\u00f6ssl,1
+D. Williams,C. Schindler,1
+F. Hadergjonaj,M. J\u00f8rgensen,1
+T. Ince,S. Malone,1
+S. Malone,L. Depoitre,1
+M. J\u00f8rgensen,F. Hadergjonaj,1
+M. J\u00f8rgensen,J. L\u00f6ssl,1
+R. van La Parra,S. Malone,1
+T. Ince,R. van La Parra,1
+L. Depoitre,T. Ince,1
+M. J\u00f8rgensen,D. Williams,1
+A. Mooy,C. Schindler,1
+S. Malone,C. Quaner,1
+C. Quaner,L. Depoitre,1
+T. Ince,A. Mooy,1
+R. van La Parra,D. Williams,1
+F. Hadergjonaj,T. Ince,1
+C. Schindler,J. L\u00f6ssl,1
+C. Schindler,T. Ince,1
+A. Mooy,D. Williams,1
+C. Quaner,M. J\u00f8rgensen,1
+A. Mooy,R. van La Parra,1
+S. Malone,D. Williams,1

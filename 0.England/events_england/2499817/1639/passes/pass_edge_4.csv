@@ -1,0 +1,23 @@
+Source,Target,Weight
+E. Choupo-Moting,J. Allen,2
+S. Berahino,E. Pieters,2
+K. Wimmer,E. Choupo-Moting,2
+J. Allen,S. Berahino,2
+E. Pieters,J. Allen,2
+K. Wimmer,S. Berahino,1
+R. Shawcross,S. Berahino,1
+S. Berahino,K. Wimmer,1
+J. Allen,K. Wimmer,1
+S. Berahino,X. Shaqiri,1
+K. Wimmer,E. Pieters,1
+J. Allen,J. Butland,1
+J. Allen,E. Choupo-Moting,1
+X. Shaqiri,S. Berahino,1
+E. Pieters,R. Shawcross,1
+D. Fletcher,K. Wimmer,1
+J. Butland,J. Allen,1
+X. Shaqiri,D. Fletcher,1
+R. Shawcross,D. Fletcher,1
+E. Choupo-Moting,K. Wimmer,1
+J. Allen,R. Shawcross,1
+D. Fletcher,J. Allen,1

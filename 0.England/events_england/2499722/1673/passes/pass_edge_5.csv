@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Mooy,M. J\u00f8rgensen,2
+M. J\u00f8rgensen,C. Schindler,2
+K. Palmer,T. Smith,2
+K. Palmer,A. Mooy,1
+J. L\u00f6ssl,K. Palmer,1
+J. L\u00f6ssl,T. Ince,1
+T. Smith,J. L\u00f6ssl,1
+E. Kachunga,M. J\u00f8rgensen,1
+C. Schindler,A. Mooy,1
+A. Mooy,K. Palmer,1
+M. J\u00f8rgensen,A. Mooy,1
+A. Mooy,C. Schindler,1
+T. Ince,K. Palmer,1
+T. Smith,K. Palmer,1
+K. Palmer,M. J\u00f8rgensen,1
+T. Smith,E. Kachunga,1
+C. Schindler,T. Ince,1
+M. J\u00f8rgensen,T. Smith,1
+M. J\u00f8rgensen,J. L\u00f6ssl,1
+T. Ince,A. Mooy,1
+C. Schindler,M. J\u00f8rgensen,1

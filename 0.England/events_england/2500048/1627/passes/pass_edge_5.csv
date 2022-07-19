@@ -1,0 +1,19 @@
+Source,Target,Weight
+J. Livermore,J. Rodriguez,2
+J. Rodriguez,J. McClean,1
+J. McClean,B. Foster,1
+Ahmed Hegazy,J. McClean,1
+J. Livermore,Ahmed Hegazy,1
+C. Brunt,M. Phillips,1
+J. McClean,J. Livermore,1
+J. McClean,A. Nyom,1
+K. Gibbs,J. McClean,1
+M. Phillips,J. Rodriguez,1
+A. Nyom,J. Livermore,1
+B. Foster,C. Brunt,1
+K. Gibbs,J. Livermore,1
+J. Rodriguez,M. Phillips,1
+Ahmed Hegazy,K. Gibbs,1
+C. Brunt,C. Dawson,1
+J. Rodriguez,K. Gibbs,1
+C. Dawson,C. Brunt,1

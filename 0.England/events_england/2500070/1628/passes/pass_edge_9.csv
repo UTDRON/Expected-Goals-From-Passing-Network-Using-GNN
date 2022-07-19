@@ -1,0 +1,50 @@
+Source,Target,Weight
+P. van Aanholt,R. Loftus-Cheek,4
+M. Sakho,Y. Cabaye,4
+J. Ward,J. McArthur,3
+R. Loftus-Cheek,M. Sakho,3
+A. Townsend,J. McArthur,2
+W. Zaha,A. Townsend,2
+Y. Cabaye,W. Zaha,2
+Y. Cabaye,R. Loftus-Cheek,2
+L. Milivojevi\u0107,M. Sakho,2
+J. Ward,A. Townsend,2
+P. van Aanholt,L. Milivojevi\u0107,2
+M. Sakho,J. Ward,2
+J. McArthur,M. Sakho,2
+A. Townsend,R. Loftus-Cheek,2
+R. Loftus-Cheek,A. Townsend,2
+J. Tomkins,J. Ward,2
+L. Milivojevi\u0107,W. Hennessey,2
+R. Loftus-Cheek,P. van Aanholt,2
+M. Sakho,P. van Aanholt,2
+W. Hennessey,L. Milivojevi\u0107,2
+J. McArthur,A. Townsend,1
+M. Sakho,W. Zaha,1
+W. Zaha,P. van Aanholt,1
+L. Milivojevi\u0107,J. Ward,1
+J. Ward,L. Milivojevi\u0107,1
+W. Hennessey,M. Sakho,1
+J. McArthur,P. van Aanholt,1
+A. Townsend,W. Zaha,1
+J. McArthur,W. Zaha,1
+P. van Aanholt,J. Ward,1
+L. Milivojevi\u0107,P. van Aanholt,1
+W. Zaha,J. Ward,1
+A. Townsend,Y. Cabaye,1
+Y. Cabaye,M. Sakho,1
+P. van Aanholt,M. Sakho,1
+L. Milivojevi\u0107,J. Tomkins,1
+A. Townsend,P. van Aanholt,1
+Y. Cabaye,L. Milivojevi\u0107,1
+P. van Aanholt,W. Hennessey,1
+R. Loftus-Cheek,L. Milivojevi\u0107,1
+L. Milivojevi\u0107,Y. Cabaye,1
+J. Ward,J. Tomkins,1
+Y. Cabaye,P. van Aanholt,1
+W. Hennessey,Y. Cabaye,1
+M. Sakho,L. Milivojevi\u0107,1
+J. Ward,P. van Aanholt,1
+W. Zaha,M. Sakho,1
+M. Sakho,J. Tomkins,1
+J. Tomkins,W. Hennessey,1

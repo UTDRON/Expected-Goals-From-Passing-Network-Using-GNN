@@ -1,0 +1,21 @@
+Source,Target,Weight
+A. Mooy,A. Sabiri,3
+C. L\u00f6we,A. Sabiri,2
+A. Sabiri,C. L\u00f6we,2
+C. L\u00f6we,C. Schindler,2
+C. Schindler,M. J\u00f8rgensen,1
+A. Mooy,C. L\u00f6we,1
+E. Kachunga,T. Smith,1
+L. Depoitre,D. Williams,1
+T. Smith,E. Kachunga,1
+C. L\u00f6we,A. Mooy,1
+T. Ince,A. Mooy,1
+M. J\u00f8rgensen,T. Smith,1
+A. Sabiri,D. Williams,1
+A. Sabiri,A. Mooy,1
+T. Smith,A. Mooy,1
+C. Schindler,T. Ince,1
+D. Williams,A. Sabiri,1
+T. Ince,C. L\u00f6we,1
+A. Sabiri,L. Depoitre,1
+A. Sabiri,T. Ince,1

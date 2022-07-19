@@ -1,0 +1,13 @@
+Source,Target,Weight
+L. Koscielny,Beller\u00edn,2
+Beller\u00edn,L. Koscielny,2
+Beller\u00edn,M. \u00d6zil,2
+M. \u00d6zil,A. Ramsey,2
+D. Welbeck,Beller\u00edn,1
+A. Ramsey,M. \u00d6zil,1
+M. \u00d6zil,Beller\u00edn,1
+Beller\u00edn,A. Ramsey,1
+Nacho Monreal,D. Welbeck,1
+Nacho Monreal,L. Koscielny,1
+A. Ramsey,Nacho Monreal,1
+L. Koscielny,Nacho Monreal,1

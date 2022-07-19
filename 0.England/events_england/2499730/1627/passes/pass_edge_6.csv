@@ -1,0 +1,22 @@
+Source,Target,Weight
+C. Dawson,A. Nyom,3
+A. Nyom,M. Phillips,2
+H. Robson-Kanu,S. Field,1
+C. Brunt,G. Barry,1
+G. Barry,H. Robson-Kanu,1
+J. Livermore,J. Rodriguez,1
+A. Nyom,G. Barry,1
+M. Phillips,Ahmed Hegazy,1
+S. Field,C. Dawson,1
+J. Rodriguez,H. Robson-Kanu,1
+G. Barry,C. Dawson,1
+Ahmed Hegazy,C. Brunt,1
+H. Robson-Kanu,M. Phillips,1
+A. Nyom,H. Robson-Kanu,1
+M. Phillips,C. Dawson,1
+C. Brunt,J. Rodriguez,1
+H. Robson-Kanu,C. Dawson,1
+C. Dawson,J. Livermore,1
+M. Phillips,C. Brunt,1
+J. Rodriguez,J. Livermore,1
+J. Livermore,A. Nyom,1

@@ -1,0 +1,68 @@
+Source,Target,Weight
+T. Smith,J. Hogg,5
+L. Depoitre,T. Smith,4
+A. Mooy,T. Smith,4
+T. Smith,L. Depoitre,3
+L. Depoitre,D. Williams,3
+J. Hogg,T. Smith,3
+L. Depoitre,J. Hogg,3
+J. Hogg,A. Mooy,3
+C. Schindler,D. Williams,2
+C. Schindler,J. Hogg,2
+J. L\u00f6ssl,L. Depoitre,2
+J. L\u00f6ssl,C. Schindler,2
+S. Malone,R. van La Parra,2
+S. Malone,A. Mooy,2
+M. J\u00f8rgensen,C. Schindler,2
+J. Hogg,D. Williams,2
+D. Williams,J. L\u00f6ssl,2
+A. Mooy,R. van La Parra,2
+A. Mooy,S. Malone,2
+L. Depoitre,A. Mooy,2
+D. Williams,M. J\u00f8rgensen,2
+J. Hogg,L. Depoitre,2
+M. J\u00f8rgensen,L. Depoitre,1
+C. Schindler,J. L\u00f6ssl,1
+D. Williams,R. van La Parra,1
+R. van La Parra,C. L\u00f6we,1
+T. Smith,C. Schindler,1
+J. L\u00f6ssl,T. Ince,1
+C. Schindler,A. Mooy,1
+C. Schindler,T. Smith,1
+S. Malone,J. L\u00f6ssl,1
+T. Ince,J. Hogg,1
+A. Mooy,L. Depoitre,1
+D. Williams,J. Hogg,1
+J. L\u00f6ssl,M. J\u00f8rgensen,1
+S. Malone,L. Depoitre,1
+J. Hogg,M. J\u00f8rgensen,1
+T. Smith,T. Ince,1
+C. Schindler,S. Malone,1
+M. J\u00f8rgensen,D. Williams,1
+R. van La Parra,A. Mooy,1
+C. L\u00f6we,D. Williams,1
+T. Smith,S. Malone,1
+T. Ince,T. Smith,1
+J. L\u00f6ssl,S. Malone,1
+T. Ince,L. Depoitre,1
+J. Hogg,S. Malone,1
+T. Smith,J. L\u00f6ssl,1
+T. Smith,A. Mooy,1
+A. Mooy,C. Schindler,1
+R. van La Parra,T. Ince,1
+D. Williams,T. Smith,1
+R. van La Parra,L. Depoitre,1
+J. Hogg,J. L\u00f6ssl,1
+L. Depoitre,C. Schindler,1
+J. Hogg,R. van La Parra,1
+T. Smith,M. J\u00f8rgensen,1
+C. Quaner,D. Williams,1
+D. Williams,A. Mooy,1
+A. Mooy,C. Quaner,1
+M. J\u00f8rgensen,J. Hogg,1
+R. van La Parra,J. L\u00f6ssl,1
+C. Quaner,A. Mooy,1
+D. Williams,L. Depoitre,1
+A. Mooy,J. Hogg,1
+J. L\u00f6ssl,C. Quaner,1
+R. van La Parra,C. Schindler,1

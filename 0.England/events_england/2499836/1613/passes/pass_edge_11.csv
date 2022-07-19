@@ -1,0 +1,52 @@
+Source,Target,Weight
+F. Lejeune,J. Shelvey,7
+C. Clark,F. Lejeune,5
+J. Shelvey,I. Hayden,4
+F. Lejeune,C. Clark,3
+I. Hayden,F. Lejeune,3
+J. Shelvey,F. Lejeune,3
+F. Lejeune,I. Hayden,2
+C. Clark,I. Hayden,2
+I. Hayden,C. Clark,2
+F. Lejeune,A. Mitrovi\u0107,2
+J. Shelvey,A. Mitrovi\u0107,2
+A. Mitrovi\u0107,R. Aarons,2
+A. Mitrovi\u0107,F. Lejeune,2
+A. Mitrovi\u0107,Javi Manquillo,2
+I. Hayden,J. Shelvey,2
+J. Murphy,A. Mitrovi\u0107,2
+C. Clark,A. Mitrovi\u0107,1
+D. Gayle,R. Aarons,1
+M. Diam\u00e9,C. Clark,1
+J. Murphy,D. Yedlin,1
+I. Hayden,D. Yedlin,1
+Joselu,Javi Manquillo,1
+R. Aarons,J. Shelvey,1
+Javi Manquillo,J. Shelvey,1
+J. Shelvey,D. Yedlin,1
+Javi Manquillo,A. Mitrovi\u0107,1
+Joselu,D. Gayle,1
+A. Mitrovi\u0107,J. Shelvey,1
+J. Shelvey,Joselu,1
+C. Clark,R. Aarons,1
+F. Lejeune,J. Murphy,1
+Javi Manquillo,F. Lejeune,1
+D. Yedlin,F. Lejeune,1
+D. Gayle,J. Murphy,1
+D. Gayle,Joselu,1
+Javi Manquillo,D. Gayle,1
+R. Aarons,Javi Manquillo,1
+D. Yedlin,I. Hayden,1
+J. Murphy,D. Gayle,1
+J. Murphy,M. Diam\u00e9,1
+M. Diam\u00e9,I. Hayden,1
+R. Aarons,C. Clark,1
+A. Mitrovi\u0107,J. Murphy,1
+I. Hayden,M. Diam\u00e9,1
+R. Aarons,A. Mitrovi\u0107,1
+I. Hayden,J. Murphy,1
+A. Mitrovi\u0107,I. Hayden,1
+J. Shelvey,C. Clark,1
+I. Hayden,A. Mitrovi\u0107,1
+D. Yedlin,J. Murphy,1
+A. Mitrovi\u0107,C. Clark,1

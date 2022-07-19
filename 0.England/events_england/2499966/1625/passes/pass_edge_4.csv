@@ -1,0 +1,43 @@
+Source,Target,Weight
+A. Laporte,O. Zinchenko,4
+O. Zinchenko,R. Sterling,3
+R. Sterling,David Silva,3
+Ederson,A. Laporte,2
+O. Zinchenko,A. Laporte,2
+A. Laporte,Bernardo Silva,2
+K. Walker,K. De Bruyne,2
+S. Ag\u00fcero,K. De Bruyne,2
+David Silva,K. De Bruyne,2
+R. Sterling,Fernandinho,2
+K. Walker,S. Ag\u00fcero,2
+David Silva,R. Sterling,2
+K. De Bruyne,K. Walker,2
+Bernardo Silva,Fernandinho,2
+K. Walker,N. Otamendi,1
+N. Otamendi,K. De Bruyne,1
+S. Ag\u00fcero,K. Walker,1
+Fernandinho,Bernardo Silva,1
+David Silva,Fernandinho,1
+K. De Bruyne,S. Ag\u00fcero,1
+Bernardo Silva,K. Walker,1
+K. Walker,Fernandinho,1
+K. Walker,A. Laporte,1
+Bernardo Silva,A. Laporte,1
+Fernandinho,K. Walker,1
+Fernandinho,S. Ag\u00fcero,1
+Fernandinho,K. De Bruyne,1
+R. Sterling,K. Walker,1
+A. Laporte,N. Otamendi,1
+K. De Bruyne,David Silva,1
+K. De Bruyne,A. Laporte,1
+R. Sterling,Ederson,1
+K. De Bruyne,R. Sterling,1
+S. Ag\u00fcero,David Silva,1
+Fernandinho,R. Sterling,1
+S. Ag\u00fcero,R. Sterling,1
+K. De Bruyne,O. Zinchenko,1
+David Silva,Bernardo Silva,1
+O. Zinchenko,David Silva,1
+R. Sterling,S. Ag\u00fcero,1
+Fernandinho,O. Zinchenko,1
+N. Otamendi,K. Walker,1

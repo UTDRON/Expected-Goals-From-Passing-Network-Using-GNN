@@ -1,0 +1,21 @@
+Source,Target,Weight
+D. Sturridge,C. Brunt,1
+C. Brunt,G. Krychowiak,1
+A. Nyom,C. Brunt,1
+M. Phillips,C. Dawson,1
+C. Dawson,A. Nyom,1
+N. Chadli,G. Krychowiak,1
+M. Phillips,G. Krychowiak,1
+C. Brunt,C. Dawson,1
+J. Livermore,G. Krychowiak,1
+C. Brunt,J. Livermore,1
+G. Krychowiak,K. Gibbs,1
+G. Krychowiak,D. Sturridge,1
+G. Krychowiak,A. Nyom,1
+Ahmed Hegazy,N. Chadli,1
+K. Gibbs,D. Sturridge,1
+K. Gibbs,Ahmed Hegazy,1
+A. Nyom,J. Livermore,1
+G. Krychowiak,C. Brunt,1
+D. Sturridge,M. Phillips,1
+J. Livermore,M. Phillips,1

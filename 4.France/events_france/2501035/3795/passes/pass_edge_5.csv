@@ -1,0 +1,122 @@
+Source,Target,Weight
+R. Walter,C. Traor\u00e9,10
+A. Niane,R. Walter,7
+J. Cordoval,J. Giraudon,7
+J. Giraudon,J. Cordoval,6
+B. Pel\u00e9,C. Traor\u00e9,6
+C. Traor\u00e9,B. Pel\u00e9,6
+C. Traor\u00e9,S. Grandsir,6
+J. Cordoval,K. Azamoum,6
+J. Cordoval,C. Ben Saada,5
+C. Traor\u00e9,B. Nivet,5
+K. Azamoum,C. H\u00e9relle,5
+J. Cordoval,S. Grandsir,5
+C. Traor\u00e9,R. Walter,5
+B. Nivet,J. Cordoval,5
+E. Zelazny,A. Niane,5
+C. Ben Saada,K. Azamoum,5
+C. H\u00e9relle,E. Zelazny,4
+A. Niane,J. Cordoval,4
+R. Walter,B. Nivet,4
+B. Nivet,R. Walter,4
+B. Nivet,K. Azamoum,4
+B. Nivet,B. Pel\u00e9,4
+C. Traor\u00e9,A. Niane,4
+B. Pel\u00e9,B. Nivet,4
+C. H\u00e9relle,C. Traor\u00e9,4
+K. Azamoum,S. Grandsir,4
+K. Azamoum,J. Cordoval,4
+R. Walter,K. Azamoum,4
+C. Traor\u00e9,E. Zelazny,4
+K. Azamoum,B. Nivet,4
+E. Zelazny,R. Walter,3
+B. Nivet,C. Traor\u00e9,3
+S. Grandsir,J. Giraudon,3
+S. Grandsir,K. Azamoum,3
+J. Cordoval,B. Nivet,3
+K. Azamoum,J. Giraudon,3
+R. Walter,B. Pel\u00e9,3
+S. Grandsir,C. Traor\u00e9,3
+S. Grandsir,B. Nivet,3
+J. Giraudon,C. Traor\u00e9,3
+F. Bellugou,J. Cordoval,3
+C. H\u00e9relle,R. Walter,3
+B. Pel\u00e9,R. Walter,3
+K. Azamoum,C. Ben Saada,3
+R. Walter,C. H\u00e9relle,3
+B. Nivet,S. Grandsir,3
+S. Grandsir,J. Cordoval,2
+B. Nivet,A. Niane,2
+K. Azamoum,C. Traor\u00e9,2
+C. H\u00e9relle,J. Cordoval,2
+J. Giraudon,B. Nivet,2
+R. Walter,E. Zelazny,2
+S. Grandsir,R. Walter,2
+S. Grandsir,E. Zelazny,2
+C. Ben Saada,R. Walter,2
+E. Zelazny,K. Azamoum,2
+C. H\u00e9relle,A. Niane,2
+K. Azamoum,B. Pel\u00e9,2
+R. Walter,C. Ben Saada,2
+R. Walter,S. Grandsir,2
+R. Walter,J. Giraudon,2
+A. Niane,J. Giraudon,2
+C. Ben Saada,F. Bellugou,2
+K. Azamoum,E. Zelazny,2
+J. Giraudon,F. Bellugou,2
+J. Giraudon,R. Walter,2
+C. Ben Saada,J. Cordoval,2
+C. Ben Saada,C. Traor\u00e9,2
+A. Niane,B. Pel\u00e9,2
+A. Niane,C. H\u00e9relle,2
+C. Traor\u00e9,K. Azamoum,2
+C. Traor\u00e9,C. Ben Saada,2
+S. Grandsir,C. H\u00e9relle,2
+B. Nivet,C. Ben Saada,2
+B. Pel\u00e9,C. H\u00e9relle,2
+E. Zelazny,S. Grandsir,1
+B. Pel\u00e9,J. Cordoval,1
+J. Cordoval,C. Traor\u00e9,1
+R. Walter,A. Niane,1
+C. Ben Saada,S. Grandsir,1
+J. Cordoval,E. Zelazny,1
+J. Cordoval,A. Niane,1
+F. Bellugou,C. Traor\u00e9,1
+S. Grandsir,Suk Hyun-Jun,1
+C. H\u00e9relle,B. Pel\u00e9,1
+C. H\u00e9relle,K. Azamoum,1
+S. Grandsir,B. Pel\u00e9,1
+B. Pel\u00e9,S. Grandsir,1
+Suk Hyun-Jun,S. Grandsir,1
+S. Grandsir,C. Ben Saada,1
+J. Cordoval,R. Walter,1
+C. Traor\u00e9,Suk Hyun-Jun,1
+C. Ben Saada,Suk Hyun-Jun,1
+J. Cordoval,C. H\u00e9relle,1
+Suk Hyun-Jun,R. Walter,1
+E. Zelazny,B. Pel\u00e9,1
+B. Nivet,J. Giraudon,1
+K. Azamoum,R. Walter,1
+R. Walter,J. Cordoval,1
+J. Giraudon,A. Niane,1
+B. Pel\u00e9,E. Zelazny,1
+J. Giraudon,B. Pel\u00e9,1
+B. Pel\u00e9,J. Giraudon,1
+E. Zelazny,J. Cordoval,1
+B. Pel\u00e9,A. Niane,1
+E. Zelazny,J. Giraudon,1
+E. Zelazny,C. H\u00e9relle,1
+E. Zelazny,B. Nivet,1
+A. Niane,C. Ben Saada,1
+J. Giraudon,C. Ben Saada,1
+C. Ben Saada,B. Nivet,1
+R. Walter,Suk Hyun-Jun,1
+J. Giraudon,C. H\u00e9relle,1
+C. Ben Saada,C. H\u00e9relle,1
+F. Bellugou,K. Azamoum,1
+B. Pel\u00e9,K. Azamoum,1
+K. Azamoum,F. Bellugou,1
+S. Grandsir,A. Niane,1
+C. H\u00e9relle,B. Nivet,1
+J. Giraudon,K. Azamoum,1
+Suk Hyun-Jun,K. Azamoum,1

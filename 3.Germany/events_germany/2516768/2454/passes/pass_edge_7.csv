@@ -1,0 +1,46 @@
+Source,Target,Weight
+C. Kramer,N. Elvedi,3
+C. Kramer,M. Ginter,3
+D. Zakaria,C. Kramer,2
+M. Ginter,C. Kramer,2
+N. Elvedi,C. Kramer,2
+O. Wendt,D. Zakaria,2
+D. Zakaria,N. Elvedi,2
+J. Vestergaard,D. Zakaria,2
+T. Hazard,Raffael,2
+M. Ginter,J. Vestergaard,1
+Raffael,M. Ginter,1
+M. Ginter,Raffael,1
+T. Hazard,D. Zakaria,1
+P. Herrmann,T. Hazard,1
+T. Hazard,M. Ginter,1
+O. Wendt,T. Hazard,1
+M. Ginter,T. Hazard,1
+Raffael,T. Hazard,1
+N. Elvedi,T. Hazard,1
+L. Stindl,P. Herrmann,1
+M. Ginter,L. Stindl,1
+C. Kramer,O. Wendt,1
+P. Herrmann,C. Kramer,1
+M. Ginter,N. Elvedi,1
+D. Zakaria,M. Ginter,1
+D. Zakaria,O. Wendt,1
+Raffael,P. Herrmann,1
+N. Elvedi,Raffael,1
+N. Elvedi,P. Herrmann,1
+C. Kramer,T. Hazard,1
+T. Hazard,J. Vestergaard,1
+L. Stindl,N. Elvedi,1
+J. Vestergaard,C. Kramer,1
+L. Stindl,Raffael,1
+C. Kramer,Raffael,1
+L. Stindl,C. Kramer,1
+N. Elvedi,L. Stindl,1
+L. Stindl,J. Vestergaard,1
+C. Kramer,L. Stindl,1
+Raffael,D. Zakaria,1
+P. Herrmann,L. Stindl,1
+O. Wendt,C. Kramer,1
+T. Hazard,O. Wendt,1
+N. Elvedi,M. Ginter,1
+Raffael,L. Stindl,1

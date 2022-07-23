@@ -1,0 +1,21 @@
+Source,Target,Weight
+M. Hasebe,M. Ga\u0107inovi\u0107,2
+J. Willems,S. Haller,2
+G. Fernandes,J. de Guzm\u00e1n,2
+S. Haller,G. Fernandes,2
+M. Ga\u0107inovi\u0107,T. Chandler,2
+J. de Guzm\u00e1n,T. Chandler,1
+T. Chandler,M. Ga\u0107inovi\u0107,1
+M. Ga\u0107inovi\u0107,J. Willems,1
+G. Fernandes,M. Ga\u0107inovi\u0107,1
+M. Ga\u0107inovi\u0107,G. Fernandes,1
+T. Chandler,G. Fernandes,1
+G. Fernandes,S. Haller,1
+M. Ga\u0107inovi\u0107,J. de Guzm\u00e1n,1
+T. Chandler,S. Haller,1
+J. de Guzm\u00e1n,J. Willems,1
+S. Haller,J. Willems,1
+J. Willems,G. Fernandes,1
+J. de Guzm\u00e1n,M. Hasebe,1
+S. Haller,M. Ga\u0107inovi\u0107,1
+G. Fernandes,M. Hasebe,1

@@ -1,0 +1,54 @@
+Source,Target,Weight
+J. Alonso,Edgar I\u00e9,5
+Edgar I\u00e9,Thiago Mendes,5
+Edgar I\u00e9,K. Malcuit,4
+K. Malcuit,L. Mothiba,4
+N. P\u00e9p\u00e9,Thiago Mendes,4
+Thiago Mendes,Edgar I\u00e9,4
+Edgar I\u00e9,N. P\u00e9p\u00e9,3
+N. P\u00e9p\u00e9,F. Tour\u00e9,3
+Thiago Mendes,N. P\u00e9p\u00e9,3
+F. Tour\u00e9,J. Alonso,3
+Thiago Mendes,Thiago Maia,3
+K. Malcuit,Edgar I\u00e9,2
+F. Tour\u00e9,K. Dabila,2
+Thiago Maia,J. Alonso,2
+L. Mothiba,N. P\u00e9p\u00e9,2
+Thiago Maia,A. El Ghazi,2
+F. Tour\u00e9,Thiago Maia,2
+N. P\u00e9p\u00e9,L. Mothiba,2
+L. Mothiba,Thiago Mendes,2
+K. Dabila,Thiago Mendes,2
+Edgar I\u00e9,J. Alonso,2
+J. Alonso,K. Malcuit,2
+A. El Ghazi,F. Tour\u00e9,2
+F. Tour\u00e9,A. El Ghazi,1
+Thiago Mendes,M. Maignan,1
+K. Dabila,J. Alonso,1
+K. Malcuit,Thiago Mendes,1
+Edgar I\u00e9,F. Tour\u00e9,1
+K. Dabila,Thiago Maia,1
+K. Malcuit,Thiago Maia,1
+J. Alonso,K. Dabila,1
+A. El Ghazi,Edgar I\u00e9,1
+Thiago Maia,F. Tour\u00e9,1
+F. Tour\u00e9,N. P\u00e9p\u00e9,1
+Thiago Mendes,K. Dabila,1
+Thiago Maia,K. Dabila,1
+F. Tour\u00e9,K. Malcuit,1
+Thiago Maia,Edgar I\u00e9,1
+N. P\u00e9p\u00e9,J. Alonso,1
+Thiago Mendes,K. Malcuit,1
+Thiago Mendes,F. Tour\u00e9,1
+Thiago Mendes,L. Mothiba,1
+M. Maignan,J. Alonso,1
+N. P\u00e9p\u00e9,Thiago Maia,1
+K. Malcuit,N. P\u00e9p\u00e9,1
+A. El Ghazi,Thiago Maia,1
+K. Dabila,F. Tour\u00e9,1
+Thiago Maia,Thiago Mendes,1
+Thiago Maia,N. P\u00e9p\u00e9,1
+L. Mothiba,K. Malcuit,1
+L. Mothiba,Edgar I\u00e9,1
+J. Alonso,F. Tour\u00e9,1
+J. Alonso,A. El Ghazi,1

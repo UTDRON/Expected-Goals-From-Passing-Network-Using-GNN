@@ -1,0 +1,24 @@
+Source,Target,Weight
+T. Werner,D. Demme,3
+D. Demme,D. Upamecano,3
+D. Demme,Bruma,2
+D. Upamecano,D. Demme,2
+L. Klostermann,D. Demme,2
+Bruma,L. Klostermann,2
+N. Ke\u00efta,D. Demme,1
+P. Gul\u00e1csi,L. Klostermann,1
+K. Kampl,D. Demme,1
+P. Gul\u00e1csi,K. Laimer,1
+D. Demme,T. Werner,1
+D. Upamecano,K. Kampl,1
+D. Demme,N. Ke\u00efta,1
+K. Laimer,M. Sabitzer,1
+K. Kampl,T. Werner,1
+L. Klostermann,T. Werner,1
+M. Sabitzer,K. Laimer,1
+L. Klostermann,D. Upamecano,1
+D. Demme,M. Sabitzer,1
+D. Demme,L. Klostermann,1
+D. Upamecano,P. Gul\u00e1csi,1
+K. Laimer,K. Kampl,1
+L. Klostermann,P. Gul\u00e1csi,1

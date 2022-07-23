@@ -1,0 +1,19 @@
+Source,Target,Weight
+K. Laimer,I. Konat\u00e9,2
+K. Laimer,N. Ke\u00efta,1
+Bruma,D. Upamecano,1
+Bruma,S. Ilsanker,1
+D. Demme,Bruma,1
+S. Ilsanker,D. Upamecano,1
+D. Demme,K. Kampl,1
+N. Ke\u00efta,D. Demme,1
+D. Upamecano,T. Werner,1
+K. Kampl,K. Laimer,1
+S. Ilsanker,K. Kampl,1
+T. Werner,K. Laimer,1
+K. Kampl,I. Konat\u00e9,1
+I. Konat\u00e9,S. Ilsanker,1
+K. Laimer,Y. Poulsen,1
+I. Konat\u00e9,K. Laimer,1
+D. Upamecano,Bruma,1
+I. Konat\u00e9,D. Demme,1

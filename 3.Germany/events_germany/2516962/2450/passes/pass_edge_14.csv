@@ -1,0 +1,67 @@
+Source,Target,Weight
+Walace,R. van Drongelen,5
+Douglas Santos,Walace,5
+R. van Drongelen,K. Papadopoulos,3
+K. Papadopoulos,Walace,3
+K. Papadopoulos,G. Sakai,3
+K. Papadopoulos,Douglas Santos,3
+C. Mathenia,R. van Drongelen,3
+Walace,Douglas Santos,3
+Walace,K. Papadopoulos,3
+Douglas Santos,K. Papadopoulos,3
+L. Waldschmidt,Douglas Santos,3
+F. Kosti\u0107,Douglas Santos,3
+R. van Drongelen,Walace,3
+G. Sakai,A. Hahn,2
+L. Waldschmidt,S. Schipplock,2
+C. Mathenia,K. Papadopoulos,2
+F. Kosti\u0107,L. Waldschmidt,2
+R. van Drongelen,S. Schipplock,2
+K. Papadopoulos,F. Kosti\u0107,2
+Walace,F. Kosti\u0107,2
+A. Hahn,G. Jung,2
+Douglas Santos,S. Schipplock,2
+S. Schipplock,F. Kosti\u0107,2
+R. van Drongelen,G. Sakai,2
+Walace,L. Waldschmidt,2
+F. Kosti\u0107,K. Papadopoulos,2
+Douglas Santos,A. Hahn,2
+G. Sakai,R. van Drongelen,2
+Douglas Santos,R. van Drongelen,2
+A. Hahn,Walace,2
+R. van Drongelen,Douglas Santos,2
+S. Schipplock,L. Waldschmidt,2
+L. Waldschmidt,F. Kosti\u0107,2
+Douglas Santos,C. Mathenia,1
+A. Hahn,J. Arp,1
+S. Schipplock,R. van Drongelen,1
+G. Sakai,F. Kosti\u0107,1
+Walace,G. Sakai,1
+S. Schipplock,Douglas Santos,1
+L. Waldschmidt,Walace,1
+K. Papadopoulos,L. Waldschmidt,1
+G. Jung,R. van Drongelen,1
+G. Sakai,G. Jung,1
+F. Kosti\u0107,S. Schipplock,1
+J. Arp,A. Hahn,1
+R. van Drongelen,L. Waldschmidt,1
+K. Papadopoulos,A. Hahn,1
+Douglas Santos,F. Kosti\u0107,1
+K. Papadopoulos,S. Schipplock,1
+K. Papadopoulos,J. Arp,1
+L. Waldschmidt,K. Papadopoulos,1
+A. Hahn,L. Waldschmidt,1
+K. Papadopoulos,C. Mathenia,1
+F. Kosti\u0107,A. Hahn,1
+S. Schipplock,K. Papadopoulos,1
+A. Hahn,K. Papadopoulos,1
+G. Jung,C. Mathenia,1
+G. Jung,L. Waldschmidt,1
+A. Hahn,G. Sakai,1
+G. Sakai,Walace,1
+Walace,A. Hahn,1
+G. Sakai,C. Mathenia,1
+F. Kosti\u0107,Walace,1
+S. Schipplock,Walace,1
+R. van Drongelen,C. Mathenia,1
+J. Arp,G. Sakai,1

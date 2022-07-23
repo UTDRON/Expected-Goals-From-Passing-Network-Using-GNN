@@ -1,0 +1,21 @@
+Source,Target,Weight
+S. Mandanda,A. Rami,2
+S. Mandanda,Rolando,2
+A. Rami,D. Payet,1
+M. Sanson,S. Mandanda,1
+H. Sakai,Rolando,1
+F. Thauvin,L. Ocampos,1
+M. Sanson,H. Sakai,1
+A. Rami,F. Thauvin,1
+H. Sakai,D. Payet,1
+D. Payet,M. Sanson,1
+D. Payet,Rolando,1
+Rolando,A. Rami,1
+Rolando,S. Mandanda,1
+A. Rami,Luiz Gustavo,1
+Rolando,D. Payet,1
+H. Sakai,S. Mandanda,1
+Luiz Gustavo,S. Mandanda,1
+F. Thauvin,M. Sanson,1
+D. Payet,F. Thauvin,1
+Rolando,H. Sakai,1

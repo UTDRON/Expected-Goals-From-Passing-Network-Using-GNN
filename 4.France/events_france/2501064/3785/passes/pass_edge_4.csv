@@ -1,0 +1,15 @@
+Source,Target,Weight
+Pedro Rebocho,J. Briand,1
+J. Briand,M. Coco,1
+C. Kerbrat,C. Grenier,1
+C. Grenier,M. Thuram,1
+C. Grenier,J. Sorbon,1
+J. Sorbon,L. Blas,1
+M. Coco,C. Grenier,1
+M. Thuram,Pedro Rebocho,1
+C. Grenier,L. Deaux,1
+L. Deaux,M. Thuram,1
+J. Briand,Pedro Rebocho,1
+L. Blas,C. Kerbrat,1
+Pedro Rebocho,C. Kerbrat,1
+C. Kerbrat,J. Briand,1

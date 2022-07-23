@@ -1,0 +1,20 @@
+Source,Target,Weight
+F. Kainz,T. Delaney,2
+J. Pavlenka,T. Gebre Selassie,2
+F. Kainz,F. Bartels,2
+F. Bartels,F. Kainz,2
+T. Gebre Selassie,J. Pavlenka,1
+P. Bargfrede,N. Moisander,1
+T. Delaney,N. Moisander,1
+N. Moisander,P. Bargfrede,1
+R. Bauer,T. Gebre Selassie,1
+J. Pavlenka,R. Bauer,1
+N. Moisander,T. Delaney,1
+T. Gebre Selassie,F. Kainz,1
+N. Moisander,F. Kainz,1
+T. Delaney,M. Veljkovic,1
+F. Bartels,N. Moisander,1
+P. Bargfrede,J. Pavlenka,1
+M. Veljkovic,R. Bauer,1
+R. Bauer,J. Pavlenka,1
+T. Gebre Selassie,F. Bartels,1

@@ -1,0 +1,24 @@
+Source,Target,Weight
+Caiuby,P. Max,2
+P. Max,Caiuby,2
+Caiuby,M. Gregoritsch,2
+M. Gregoritsch,P. Max,2
+P. Max,D. Baier,1
+R. Framberger,K. Danso,1
+M. Hinteregger,M. Heller,1
+P. Max,M. Gregoritsch,1
+Caiuby,M. Hinteregger,1
+Ja-Cheol Koo,M. Heller,1
+D. Baier,Caiuby,1
+P. Max,M. Richter,1
+K. Danso,M. Hitz,1
+M. Hitz,P. Max,1
+M. Heller,P. Max,1
+M. Richter,R. Framberger,1
+P. Max,Ja-Cheol Koo,1
+M. Heller,Ja-Cheol Koo,1
+P. Max,M. Heller,1
+R. Framberger,Caiuby,1
+Ja-Cheol Koo,M. Hitz,1
+M. Heller,R. Framberger,1
+M. Hitz,Caiuby,1

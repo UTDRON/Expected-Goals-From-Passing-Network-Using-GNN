@@ -1,0 +1,53 @@
+Source,Target,Weight
+A. Lafont,O. Toivonen,4
+S. Yago,G. Imbula,3
+I. Diop,G. Imbula,3
+G. Imbula,S. Yago,3
+O. Toivonen,A. Blin,2
+K. Amian,M. Gradel,2
+S. Yago,I. Diop,2
+S. Yago,A. Lafont,2
+C. Jullien,K. Amian,2
+M. Gradel,I. Diop,2
+G. Imbula,M. Gradel,1
+M. Gradel,O. Toivonen,1
+A. Delort,I. Diop,1
+O. Toivonen,A. Lafont,1
+M. Gradel,C. Jullien,1
+I. Diop,K. Amian,1
+I. Diop,S. Yago,1
+O. Toivonen,Som\u00e1lia,1
+A. Delort,O. Toivonen,1
+Som\u00e1lia,A. Blin,1
+I. Diop,Som\u00e1lia,1
+K. Amian,C. Jullien,1
+A. Delort,A. Blin,1
+Som\u00e1lia,A. Lafont,1
+S. Yago,Som\u00e1lia,1
+C. Jullien,S. Yago,1
+Som\u00e1lia,A. Delort,1
+M. Gradel,Som\u00e1lia,1
+G. Imbula,K. Amian,1
+O. Toivonen,K. Amian,1
+A. Blin,G. Imbula,1
+G. Imbula,I. Diop,1
+O. Toivonen,I. Diop,1
+A. Blin,A. Delort,1
+A. Delort,Som\u00e1lia,1
+I. Diop,A. Lafont,1
+A. Blin,S. Yago,1
+O. Toivonen,M. Gradel,1
+Som\u00e1lia,M. Gradel,1
+A. Delort,S. Yago,1
+A. Blin,I. Diop,1
+G. Imbula,C. Jullien,1
+G. Imbula,A. Delort,1
+K. Amian,O. Toivonen,1
+Som\u00e1lia,O. Toivonen,1
+O. Toivonen,A. Delort,1
+A. Lafont,A. Delort,1
+Som\u00e1lia,S. Yago,1
+O. Toivonen,G. Imbula,1
+K. Amian,A. Lafont,1
+C. Jullien,O. Toivonen,1
+A. Lafont,C. Jullien,1

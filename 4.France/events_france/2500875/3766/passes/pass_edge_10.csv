@@ -1,0 +1,23 @@
+Source,Target,Weight
+N. Fekir,J. Ferri,3
+J. Ferri,Mar\u00e7al,2
+Mar\u00e7al,N. Fekir,2
+N. Fekir,Mar\u00e7al,2
+M. Diakhaby,K. Tete,1
+Marcelo,A. Lopes,1
+J. Ferri,K. Tete,1
+L. Tousart,J. Ferri,1
+N. Fekir,L. Tousart,1
+L. Tousart,H. Aouar,1
+K. Tete,L. Tousart,1
+Mar\u00e7al,J. Ferri,1
+H. Aouar,N. Fekir,1
+K. Tete,Marcelo,1
+K. Tete,N. Fekir,1
+A. Lopes,M. Diakhaby,1
+J. Ferri,N. Fekir,1
+M. Diakhaby,N. Fekir,1
+Rafael,M. Diakhaby,1
+Mar\u00e7al,M. Diakhaby,1
+L. Tousart,K. Tete,1
+M. Diakhaby,L. Tousart,1

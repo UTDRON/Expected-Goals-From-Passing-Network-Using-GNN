@@ -1,0 +1,86 @@
+Source,Target,Weight
+N. Benezet,J. Martins-Pereira,6
+J. Martins-Pereira,N. Benezet,6
+J. Sorbon,J. Ikoko,5
+J. Ikoko,C. Grenier,5
+\u00c9. Didot,J. Ikoko,4
+L. Blas,C. Grenier,4
+J. Ikoko,M. Thuram,4
+L. Blas,J. Sorbon,4
+M. Thuram,J. Ikoko,4
+J. Sorbon,K. Johnsson,3
+J. Ikoko,J. Sorbon,3
+J. Briand,\u00c9. Didot,3
+J. Briand,L. Blas,3
+C. Grenier,J. Ikoko,3
+C. Grenier,M. Thuram,3
+C. Grenier,J. Briand,3
+J. Ikoko,\u00c9. Didot,3
+F. Eboa Eboa,K. Johnsson,3
+K. Johnsson,M. Thuram,2
+\u00c9. Didot,J. Sorbon,2
+M. Thuram,F. Eboa Eboa,2
+C. Grenier,J. Sorbon,2
+\u00c9. Didot,J. Martins-Pereira,2
+C. Grenier,\u00c9. Didot,2
+J. Ikoko,F. Eboa Eboa,2
+N. Benezet,\u00c9. Didot,2
+C. Grenier,J. Martins-Pereira,2
+J. Ikoko,L. Blas,2
+K. Johnsson,J. Ikoko,2
+L. Blas,M. Thuram,2
+J. Martins-Pereira,F. Eboa Eboa,2
+F. Eboa Eboa,L. Blas,2
+J. Briand,N. Benezet,2
+N. Benezet,L. Blas,2
+\u00c9. Didot,N. Benezet,2
+N. Benezet,C. Grenier,2
+M. Thuram,L. Blas,2
+J. Martins-Pereira,\u00c9. Didot,2
+\u00c9. Didot,F. Eboa Eboa,2
+F. Eboa Eboa,J. Martins-Pereira,2
+J. Sorbon,C. Grenier,1
+J. Briand,M. Thuram,1
+F. Eboa Eboa,\u00c9. Didot,1
+J. Sorbon,J. Martins-Pereira,1
+N. Benezet,J. Sorbon,1
+J. Sorbon,L. Blas,1
+J. Sorbon,M. Thuram,1
+C. Grenier,K. Johnsson,1
+N. Benezet,J. Briand,1
+K. Johnsson,L. Blas,1
+F. Eboa Eboa,N. Benezet,1
+L. Blas,F. Eboa Eboa,1
+L. Blas,K. Johnsson,1
+\u00c9. Didot,L. Blas,1
+F. Eboa Eboa,J. Briand,1
+K. Johnsson,J. Martins-Pereira,1
+C. Grenier,N. Benezet,1
+J. Martins-Pereira,K. Johnsson,1
+K. Johnsson,F. Eboa Eboa,1
+J. Martins-Pereira,L. Blas,1
+F. Eboa Eboa,J. Ikoko,1
+J. Martins-Pereira,J. Briand,1
+J. Sorbon,N. Benezet,1
+J. Sorbon,F. Eboa Eboa,1
+J. Ikoko,J. Martins-Pereira,1
+C. Grenier,L. Blas,1
+M. Thuram,N. Benezet,1
+\u00c9. Didot,J. Briand,1
+J. Martins-Pereira,J. Sorbon,1
+L. Blas,J. Briand,1
+M. Thuram,C. Grenier,1
+L. Blas,\u00c9. Didot,1
+K. Johnsson,J. Briand,1
+M. Thuram,J. Briand,1
+M. Thuram,\u00c9. Didot,1
+J. Briand,C. Grenier,1
+F. Eboa Eboa,C. Grenier,1
+\u00c9. Didot,C. Grenier,1
+K. Johnsson,C. Grenier,1
+J. Martins-Pereira,C. Grenier,1
+L. Blas,J. Ikoko,1
+M. Thuram,J. Sorbon,1
+\u00c9. Didot,K. Johnsson,1
+K. Johnsson,\u00c9. Didot,1
+L. Blas,N. Benezet,1

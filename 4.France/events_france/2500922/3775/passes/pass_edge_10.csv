@@ -1,0 +1,26 @@
+Source,Target,Weight
+Dante,M. Sarr,3
+A. Tameze,Dante,2
+J. Seri,A. Lusamba,2
+M. Sarr,J. Seri,2
+I. Ganago,P. Burner,1
+I. Ganago,Dante,1
+J. Seri,Dante,1
+A. Lusamba,B. Srarfi,1
+B. Srarfi,A. Tameze,1
+A. Tameze,P. Burner,1
+A. Lusamba,I. Ganago,1
+Dante,A. Tameze,1
+P. Burner,B. Srarfi,1
+B. Srarfi,J. Seri,1
+A. Tameze,A. Pl\u00e9a,1
+Dante,I. Ganago,1
+M. Sarr,I. Ganago,1
+J. Seri,M. Sarr,1
+J. Seri,A. Tameze,1
+M. Sarr,A. Tameze,1
+A. Pl\u00e9a,B. Srarfi,1
+Dante,J. Seri,1
+P. Burner,Dante,1
+B. Srarfi,A. Lusamba,1
+A. Lusamba,J. Seri,1

@@ -1,0 +1,28 @@
+Source,Target,Weight
+P. Max,Caiuby,3
+Caiuby,P. Max,2
+D. Baier,R. Khedira,2
+M. Gregoritsch,J. Mor\u00e1vek,2
+Caiuby,D. Baier,1
+A. Finnbogason,D. Baier,1
+M. Hinteregger,P. Max,1
+D. Baier,M. Gregoritsch,1
+R. Khedira,M. Gregoritsch,1
+J. Mor\u00e1vek,M. Hinteregger,1
+M. Hitz,Caiuby,1
+M. Hinteregger,M. Gregoritsch,1
+J. Gouweleeuw,M. Hinteregger,1
+M. Gregoritsch,D. Baier,1
+R. Khedira,M. Hinteregger,1
+D. Baier,P. Max,1
+M. Hinteregger,J. Gouweleeuw,1
+A. Finnbogason,R. Khedira,1
+M. Hinteregger,D. Baier,1
+J. Gouweleeuw,A. Finnbogason,1
+P. Max,J. Mor\u00e1vek,1
+D. Baier,M. Hinteregger,1
+J. Mor\u00e1vek,Caiuby,1
+J. Mor\u00e1vek,A. Finnbogason,1
+M. Gregoritsch,J. Gouweleeuw,1
+R. Khedira,M. Hitz,1
+Caiuby,M. Gregoritsch,1

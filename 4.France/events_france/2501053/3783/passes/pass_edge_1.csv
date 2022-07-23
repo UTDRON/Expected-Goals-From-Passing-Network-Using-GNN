@@ -1,0 +1,35 @@
+Source,Target,Weight
+A. Mbengue,R. Rodelin,2
+R. Rodelin,A. Mbengue,2
+R. Rodelin,I. Santini,2
+F. Guilbert,I. Santini,2
+I. Santini,J. F\u00e9ret,2
+D. Da Silva,I. Santini,1
+I. Diomand\u00e9,D. Da Silva,1
+A. Mbengue,Y. A\u00eft Bennasser,1
+D. Da Silva,J. F\u00e9ret,1
+J. F\u00e9ret,A. Mbengue,1
+I. Santini,Y. A\u00eft Bennasser,1
+Y. A\u00eft Bennasser,F. Guilbert,1
+A. Mbengue,S. Peeters,1
+S. Peeters,Y. A\u00eft Bennasser,1
+S. Peeters,E. Crivelli,1
+E. Crivelli,I. Diomand\u00e9,1
+F. Guilbert,I. Diomand\u00e9,1
+Y. A\u00eft Bennasser,A. Mbengue,1
+Y. A\u00eft Bennasser,J. F\u00e9ret,1
+A. Mbengue,D. Da Silva,1
+J. F\u00e9ret,S. Peeters,1
+I. Santini,R. Rodelin,1
+J. F\u00e9ret,R. Rodelin,1
+I. Santini,A. Mbengue,1
+I. Diomand\u00e9,B. Samba,1
+A. Mbengue,F. Guilbert,1
+I. Diomand\u00e9,F. Guilbert,1
+D. Da Silva,I. Diomand\u00e9,1
+F. Guilbert,B. Samba,1
+J. F\u00e9ret,I. Santini,1
+S. Peeters,R. Rodelin,1
+B. Samba,A. Mbengue,1
+B. Samba,D. Da Silva,1
+I. Santini,S. Peeters,1

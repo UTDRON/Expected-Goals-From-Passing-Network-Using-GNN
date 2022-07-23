@@ -1,0 +1,20 @@
+Source,Target,Weight
+L. Holtby,S. Salihovi\u0107,2
+G. Sakai,L. Holtby,2
+G. Jung,K. Papadopoulos,2
+D. Diekmeier,A. Hahn,2
+Walace,D. Diekmeier,1
+D. Diekmeier,G. Jung,1
+L. Holtby,D. Diekmeier,1
+A. Hahn,L. Holtby,1
+K. Papadopoulos,Walace,1
+M. Mavraj,K. Papadopoulos,1
+D. Diekmeier,L. Holtby,1
+L. Holtby,M. Mavraj,1
+M. Mavraj,G. Sakai,1
+Walace,G. Jung,1
+A. Hahn,D. Diekmeier,1
+K. Papadopoulos,G. Sakai,1
+K. Papadopoulos,G. Jung,1
+G. Jung,M. Mavraj,1
+S. Salihovi\u0107,Walace,1

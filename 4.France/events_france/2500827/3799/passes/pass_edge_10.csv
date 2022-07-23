@@ -1,0 +1,43 @@
+Source,Target,Weight
+V. Manceau,B. Ketkeophomphone,4
+P. Capelle,V. Manceau,3
+B. Ketkeophomphone,V. Manceau,3
+T. Mangani,P. Capelle,3
+Y. Andreu,T. Mangani,3
+R. Thomas,Y. Andreu,2
+B. Ketkeophomphone,L. Coulibaly,2
+V. Manceau,L. Coulibaly,2
+T. Mangani,Y. Andreu,2
+L. Coulibaly,P. Capelle,2
+R. Thomas,T. Mangani,2
+I. Traor\u00e9,V. Manceau,2
+E. Crivelli,P. Capelle,1
+E. Crivelli,L. Coulibaly,1
+L. Coulibaly,E. Crivelli,1
+T. Mangani,V. Manceau,1
+E. Crivelli,T. Mangani,1
+T. Mangani,E. Crivelli,1
+L. Coulibaly,T. Mangani,1
+B. Ketkeophomphone,A. Letellier,1
+V. Manceau,R. Thomas,1
+Y. Andreu,R. Thomas,1
+V. Manceau,I. Traor\u00e9,1
+V. Manceau,E. Crivelli,1
+E. Crivelli,K. Toko Ekambi,1
+P. Capelle,B. Ketkeophomphone,1
+P. Capelle,Y. Andreu,1
+L. Coulibaly,B. Ketkeophomphone,1
+P. Capelle,L. Coulibaly,1
+P. Capelle,I. Traor\u00e9,1
+Y. Andreu,P. Capelle,1
+B. Ketkeophomphone,P. Capelle,1
+B. Ketkeophomphone,I. Traor\u00e9,1
+T. Mangani,B. Ketkeophomphone,1
+K. Toko Ekambi,T. Mangani,1
+I. Traor\u00e9,E. Crivelli,1
+A. Letellier,E. Crivelli,1
+T. Mangani,K. Toko Ekambi,1
+T. Mangani,R. Thomas,1
+P. Capelle,T. Mangani,1
+E. Crivelli,B. Ketkeophomphone,1
+L. Coulibaly,R. Thomas,1

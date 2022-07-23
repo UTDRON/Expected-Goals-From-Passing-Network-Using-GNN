@@ -1,0 +1,23 @@
+Source,Target,Weight
+N. Petersen,F. Kath,2
+A. Schwolow,N. Petersen,2
+F. Kath,N. Petersen,1
+F. Kath,P. Stenzel,1
+N. Petersen,Y. Ravet,1
+Y. Ravet,C. S\u00f6y\u00fcnc\u00fc,1
+F. Kath,Y. Ravet,1
+N. Petersen,A. Schwolow,1
+Y. Ravet,N. Petersen,1
+C. G\u00fcnter,Y. Ravet,1
+N. Petersen,C. G\u00fcnter,1
+Y. Ravet,J. Haberer,1
+Y. Ravet,F. Kath,1
+N. Petersen,P. Stenzel,1
+P. Stenzel,A. Schwolow,1
+J. Haberer,Y. Ravet,1
+J. Haberer,C. G\u00fcnter,1
+J. Schuster,J. Haberer,1
+F. Kath,C. G\u00fcnter,1
+C. S\u00f6y\u00fcnc\u00fc,N. Petersen,1
+C. G\u00fcnter,N. Petersen,1
+C. G\u00fcnter,F. Kath,1

@@ -1,0 +1,47 @@
+Source,Target,Weight
+S. San\u00e9,I. Fossum,4
+S. San\u00e9,Felipe,3
+I. Fossum,S. San\u00e9,3
+S. San\u00e9,I. Bebou,3
+P. Schwegler,S. San\u00e9,2
+M. Harnik,W. Anton,2
+S. San\u00e9,M. Harnik,2
+Felipe,S. San\u00e9,2
+S. San\u00e9,P. Schwegler,2
+F. Klaus,S. San\u00e9,2
+I. Fossum,M. Harnik,2
+Felipe,M. Harnik,1
+I. Bebou,N. F\u00fcllkrug,1
+I. Bebou,Felipe,1
+Felipe,Miiko Albornoz,1
+N. F\u00fcllkrug,Felipe,1
+M. Harnik,O. Sorg,1
+M. Harnik,Felipe,1
+I. Bebou,Miiko Albornoz,1
+Miiko Albornoz,W. Anton,1
+W. Anton,I. Fossum,1
+Felipe,N. F\u00fcllkrug,1
+N. F\u00fcllkrug,F. Klaus,1
+Felipe,I. Bebou,1
+N. F\u00fcllkrug,S. San\u00e9,1
+P. Tschauner,S. San\u00e9,1
+O. Sorg,P. Tschauner,1
+Miiko Albornoz,P. Schwegler,1
+I. Bebou,S. San\u00e9,1
+P. Tschauner,N. F\u00fcllkrug,1
+M. Harnik,N. F\u00fcllkrug,1
+F. Klaus,N. F\u00fcllkrug,1
+O. Sorg,F. Klaus,1
+F. Klaus,M. Harnik,1
+P. Schwegler,F. Klaus,1
+N. F\u00fcllkrug,I. Bebou,1
+I. Bebou,F. Klaus,1
+Felipe,P. Schwegler,1
+N. F\u00fcllkrug,P. Schwegler,1
+F. Klaus,O. Sorg,1
+I. Bebou,P. Tschauner,1
+P. Schwegler,I. Bebou,1
+P. Schwegler,N. F\u00fcllkrug,1
+W. Anton,Felipe,1
+M. Harnik,F. Klaus,1
+W. Anton,S. San\u00e9,1

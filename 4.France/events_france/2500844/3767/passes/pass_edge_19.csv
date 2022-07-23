@@ -1,0 +1,19 @@
+Source,Target,Weight
+M. Verratti,Dani Alves,2
+M. Verratti,G. Lo Celso,2
+P. Kimpembe,M. Verratti,2
+A. Rabiot,P. Kimpembe,1
+G. Lo Celso,A. Rabiot,1
+Neymar,A. Rabiot,1
+Dani Alves,M. Verratti,1
+Dani Alves,A. Rabiot,1
+G. Lo Celso,Dani Alves,1
+E. Cavani,P. Kimpembe,1
+A. Rabiot,E. Cavani,1
+P. Kimpembe,Neymar,1
+E. Cavani,Neymar,1
+Dani Alves,P. Kimpembe,1
+Neymar,E. Cavani,1
+Neymar,P. Kimpembe,1
+A. Rabiot,G. Lo Celso,1
+G. Lo Celso,M. Verratti,1

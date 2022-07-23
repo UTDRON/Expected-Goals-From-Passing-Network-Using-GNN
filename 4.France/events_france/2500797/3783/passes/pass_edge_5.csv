@@ -1,0 +1,36 @@
+Source,Target,Weight
+J. Delaplace,F. Guilbert,3
+C. Kouakou,F. Guilbert,3
+J. F\u00e9ret,J. Delaplace,2
+F. Guilbert,J. F\u00e9ret,2
+F. Guilbert,J. Delaplace,2
+J. Delaplace,B. Sankoh,2
+A. Mbengue,R. Rodelin,2
+B. Sankoh,R. Genevois,2
+B. Sankoh,J. Delaplace,2
+R. Rodelin,A. Mbengue,2
+J. Delaplace,C. Kouakou,2
+D. Da Silva,R. Rodelin,1
+D. Da Silva,J. Delaplace,1
+R. Genevois,B. Sankoh,1
+J. F\u00e9ret,B. Sankoh,1
+A. Mbengue,J. F\u00e9ret,1
+I. Santini,B. Sankoh,1
+B. Sankoh,J. F\u00e9ret,1
+R. Genevois,C. Kouakou,1
+F. Guilbert,C. Kouakou,1
+B. Sankoh,I. Diomand\u00e9,1
+C. Kouakou,J. F\u00e9ret,1
+I. Diomand\u00e9,F. Guilbert,1
+J. Delaplace,I. Santini,1
+J. F\u00e9ret,I. Santini,1
+A. Mbengue,D. Da Silva,1
+C. Kouakou,J. Delaplace,1
+I. Santini,A. Mbengue,1
+F. Guilbert,I. Santini,1
+J. F\u00e9ret,C. Kouakou,1
+I. Santini,R. Rodelin,1
+B. Sankoh,A. Mbengue,1
+R. Rodelin,B. Sankoh,1
+F. Guilbert,A. Mbengue,1
+R. Rodelin,D. Da Silva,1

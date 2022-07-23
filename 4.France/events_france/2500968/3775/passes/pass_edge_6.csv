@@ -1,0 +1,25 @@
+Source,Target,Weight
+J. Seri,Dante,2
+Dante,J. Seri,2
+P. Lees Melou,W. Cyprien,2
+I. Sacko,P. Burner,1
+P. Burner,A. Saint-Maximin,1
+Marlon,P. Burner,1
+J. Seri,I. Sacko,1
+W. Cyprien,M. Le Marchand,1
+W. Cyprien,J. Seri,1
+P. Burner,Marlon,1
+P. Burner,W. Cyprien,1
+M. Le Marchand,P. Lees Melou,1
+A. Saint-Maximin,A. Pl\u00e9a,1
+Marlon,Dante,1
+I. Sacko,M. Le Marchand,1
+A. Pl\u00e9a,I. Sacko,1
+M. Le Marchand,J. Seri,1
+Dante,A. Pl\u00e9a,1
+A. Saint-Maximin,Dante,1
+W. Cyprien,A. Saint-Maximin,1
+Dante,Marlon,1
+J. Seri,P. Burner,1
+A. Pl\u00e9a,W. Cyprien,1
+A. Saint-Maximin,P. Lees Melou,1

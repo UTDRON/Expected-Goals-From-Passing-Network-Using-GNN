@@ -1,0 +1,72 @@
+Source,Target,Weight
+V. Vada,Y. Sabaly,7
+Y. Sabaly,V. Vada,6
+T. Pellenard,F. Kamano,6
+N. de Pr\u00e9ville,Y. Sabaly,5
+Y. Sabaly,Malcom,5
+F. Kamano,T. Pellenard,5
+N. de Pr\u00e9ville,V. Vada,4
+V. Vada,N. de Pr\u00e9ville,4
+I. Lewczuk,B. Costil,4
+T. Pellenard,J. Toulalan,4
+N. de Pr\u00e9ville,T. Pellenard,4
+V. Vada,L. Lerager,3
+V. Vada,Malcom,3
+L. Lerager,Y. Sabaly,3
+Y. Sabaly,I. Lewczuk,3
+J. Toulalan,Y. Sankhar\u00e9,3
+Malcom,N. de Pr\u00e9ville,3
+Malcom,V. Vada,3
+B. Costil,J. Toulalan,3
+F. Kamano,V. Vada,3
+V. Vada,T. Pellenard,3
+F. Kamano,Y. Sankhar\u00e9,2
+L. Lerager,F. Kamano,2
+T. Pellenard,N. de Pr\u00e9ville,2
+I. Lewczuk,T. Pellenard,2
+Y. Sabaly,L. Lerager,2
+T. Pellenard,B. Costil,2
+B. Costil,Y. Sabaly,2
+Y. Sankhar\u00e9,L. Lerager,2
+B. Costil,T. Pellenard,2
+L. Lerager,I. Lewczuk,2
+B. Costil,N. de Pr\u00e9ville,2
+L. Lerager,B. Costil,2
+B. Costil,V. Vada,2
+J. Toulalan,F. Kamano,2
+Y. Sabaly,N. de Pr\u00e9ville,2
+Malcom,L. Lerager,2
+J. Toulalan,B. Costil,2
+T. Pellenard,Y. Sankhar\u00e9,2
+Y. Sankhar\u00e9,N. de Pr\u00e9ville,2
+J. Toulalan,Malcom,1
+Y. Sankhar\u00e9,T. Pellenard,1
+Malcom,T. Pellenard,1
+N. de Pr\u00e9ville,Malcom,1
+I. Lewczuk,V. Vada,1
+Malcom,I. Lewczuk,1
+I. Lewczuk,L. Lerager,1
+L. Lerager,J. Toulalan,1
+L. Lerager,Y. Sankhar\u00e9,1
+Y. Sankhar\u00e9,V. Vada,1
+V. Vada,F. Kamano,1
+Y. Sankhar\u00e9,Malcom,1
+Malcom,Y. Sankhar\u00e9,1
+B. Costil,I. Lewczuk,1
+T. Pellenard,L. Lerager,1
+Y. Sankhar\u00e9,B. Costil,1
+Malcom,Y. Sabaly,1
+V. Vada,B. Costil,1
+N. de Pr\u00e9ville,I. Lewczuk,1
+I. Lewczuk,Y. Sankhar\u00e9,1
+F. Kamano,N. de Pr\u00e9ville,1
+J. Toulalan,T. Pellenard,1
+T. Pellenard,I. Lewczuk,1
+L. Lerager,N. de Pr\u00e9ville,1
+F. Kamano,L. Lerager,1
+J. Toulalan,L. Lerager,1
+N. de Pr\u00e9ville,J. Toulalan,1
+Y. Sankhar\u00e9,F. Kamano,1
+L. Lerager,V. Vada,1
+Y. Sankhar\u00e9,J. Toulalan,1
+T. Pellenard,V. Vada,1

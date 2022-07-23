@@ -1,0 +1,15 @@
+Source,Target,Weight
+B. Wood,M. Steinmann,2
+M. Steinmann,K. Papadopoulos,2
+G. Sakai,B. Wood,1
+T. Ito,Douglas Santos,1
+J. Pollersbeck,G. Jung,1
+B. Wood,F. Kosti\u0107,1
+Douglas Santos,B. Wood,1
+K. Papadopoulos,G. Sakai,1
+G. Jung,J. Pollersbeck,1
+J. Pollersbeck,M. Steinmann,1
+M. Steinmann,G. Jung,1
+K. Papadopoulos,J. Pollersbeck,1
+G. Jung,Douglas Santos,1
+Douglas Santos,T. Ito,1

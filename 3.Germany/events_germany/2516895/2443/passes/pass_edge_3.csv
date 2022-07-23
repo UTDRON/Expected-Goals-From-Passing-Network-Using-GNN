@@ -1,0 +1,75 @@
+Source,Target,Weight
+J. Pavlenka,N. Moisander,6
+M. Kruse,N. Moisander,5
+N. Moisander,J. Pavlenka,5
+M. Veljkovic,J. Pavlenka,3
+N. Moisander,M. Veljkovic,3
+F. Kainz,P. Bargfrede,3
+M. Kruse,M. Veljkovic,3
+L. Augustinsson,F. Kainz,3
+M. Eggestein,L. Augustinsson,3
+N. Moisander,T. Gebre Selassie,3
+F. Kainz,M. Kruse,2
+P. Bargfrede,Z. Junuzovi\u0107,2
+T. Gebre Selassie,P. Bargfrede,2
+J. Pavlenka,I. Belfodil,2
+P. Bargfrede,F. Kainz,2
+T. Gebre Selassie,F. Kainz,2
+L. Augustinsson,P. Bargfrede,2
+F. Kainz,Z. Junuzovi\u0107,2
+L. Augustinsson,M. Kruse,2
+Z. Junuzovi\u0107,I. Belfodil,2
+T. Gebre Selassie,M. Eggestein,2
+P. Bargfrede,T. Gebre Selassie,2
+I. Belfodil,N. Moisander,2
+M. Eggestein,T. Gebre Selassie,2
+M. Veljkovic,P. Bargfrede,2
+T. Gebre Selassie,Z. Junuzovi\u0107,2
+J. Pavlenka,P. Bargfrede,2
+N. Moisander,F. Kainz,2
+J. Pavlenka,M. Veljkovic,2
+F. Kainz,J. Pavlenka,2
+P. Bargfrede,M. Eggestein,2
+N. Moisander,L. Augustinsson,2
+Z. Junuzovi\u0107,M. Eggestein,2
+M. Veljkovic,M. Eggestein,2
+I. Belfodil,Z. Junuzovi\u0107,2
+L. Augustinsson,N. Moisander,2
+M. Kruse,L. Augustinsson,1
+P. Bargfrede,J. Pavlenka,1
+P. Bargfrede,L. Augustinsson,1
+N. Moisander,M. Kruse,1
+M. Eggestein,M. Veljkovic,1
+F. Kainz,L. Augustinsson,1
+M. Eggestein,F. Kainz,1
+M. Veljkovic,N. Moisander,1
+N. Moisander,I. Belfodil,1
+I. Belfodil,M. Kruse,1
+Z. Junuzovi\u0107,N. Moisander,1
+F. Kainz,T. Gebre Selassie,1
+P. Bargfrede,N. Moisander,1
+Z. Junuzovi\u0107,J. Pavlenka,1
+P. Bargfrede,M. Veljkovic,1
+Z. Junuzovi\u0107,F. Kainz,1
+M. Eggestein,Z. Junuzovi\u0107,1
+N. Moisander,P. Bargfrede,1
+M. Veljkovic,T. Gebre Selassie,1
+P. Bargfrede,M. Kruse,1
+T. Gebre Selassie,M. Veljkovic,1
+I. Belfodil,L. Augustinsson,1
+N. Moisander,M. Eggestein,1
+I. Belfodil,J. Pavlenka,1
+J. Pavlenka,M. Kruse,1
+F. Kainz,N. Moisander,1
+M. Veljkovic,M. Kruse,1
+M. Eggestein,P. Bargfrede,1
+M. Eggestein,I. Belfodil,1
+Z. Junuzovi\u0107,L. Augustinsson,1
+M. Veljkovic,Z. Junuzovi\u0107,1
+M. Kruse,I. Belfodil,1
+M. Kruse,F. Kainz,1
+T. Gebre Selassie,N. Moisander,1
+L. Augustinsson,M. Eggestein,1
+Z. Junuzovi\u0107,M. Kruse,1
+T. Gebre Selassie,M. Kruse,1
+Z. Junuzovi\u0107,T. Gebre Selassie,1

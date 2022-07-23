@@ -1,0 +1,20 @@
+Source,Target,Weight
+T. Gebre Selassie,M. Eggestein,2
+M. Eggestein,T. Gebre Selassie,2
+I. Belfodil,F. Kainz,1
+I. Belfodil,M. Eggestein,1
+M. Eggestein,I. Belfodil,1
+J. Pavlenka,N. Moisander,1
+R. Bauer,I. Belfodil,1
+R. Bauer,M. Veljkovic,1
+P. Bargfrede,R. Bauer,1
+M. Veljkovic,T. Gebre Selassie,1
+T. Gebre Selassie,T. Delaney,1
+T. Delaney,L. Augustinsson,1
+M. Veljkovic,J. Pavlenka,1
+F. Kainz,L. Augustinsson,1
+T. Gebre Selassie,M. Veljkovic,1
+L. Augustinsson,N. Moisander,1
+N. Moisander,P. Bargfrede,1
+L. Augustinsson,F. Kainz,1
+N. Moisander,R. Bauer,1

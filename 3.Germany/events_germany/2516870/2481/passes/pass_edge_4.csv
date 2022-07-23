@@ -1,0 +1,34 @@
+Source,Target,Weight
+M. Gregoritsch,D. Baier,2
+R. Framberger,M. Heller,2
+P. Max,R. Framberger,2
+M. Hinteregger,P. Max,2
+D. Baier,R. Framberger,2
+P. Max,M. Hinteregger,2
+D. Baier,J. Gouweleeuw,2
+D. Baier,M. Hitz,1
+R. Framberger,D. Baier,1
+P. Max,Caiuby,1
+Caiuby,P. Max,1
+Ja-Cheol Koo,Caiuby,1
+Caiuby,A. Finnbogason,1
+Caiuby,M. Gregoritsch,1
+M. Hitz,Caiuby,1
+M. Heller,Ja-Cheol Koo,1
+Ja-Cheol Koo,D. Baier,1
+R. Framberger,P. Max,1
+A. Finnbogason,M. Heller,1
+M. Heller,Caiuby,1
+M. Heller,P. Max,1
+M. Hitz,P. Max,1
+J. Gouweleeuw,P. Max,1
+A. Finnbogason,Ja-Cheol Koo,1
+P. Max,M. Heller,1
+J. Gouweleeuw,R. Framberger,1
+R. Framberger,A. Finnbogason,1
+A. Finnbogason,R. Framberger,1
+P. Max,A. Finnbogason,1
+Caiuby,D. Baier,1
+R. Framberger,M. Hinteregger,1
+M. Heller,M. Gregoritsch,1
+M. Hinteregger,M. Hitz,1

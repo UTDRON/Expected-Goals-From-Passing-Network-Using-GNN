@@ -1,0 +1,13 @@
+Source,Target,Weight
+C. Kramer,T. Hazard,3
+L. Stindl,O. Wendt,1
+L. Stindl,C. Kramer,1
+T. Hazard,C. Kramer,1
+Raffael,C. Kramer,1
+D. Zakaria,T. Hazard,1
+O. Wendt,C. Kramer,1
+T. Hazard,L. Stindl,1
+Y. Sommer,L. Stindl,1
+T. Hazard,Raffael,1
+D. Zakaria,Y. Sommer,1
+C. Kramer,D. Zakaria,1

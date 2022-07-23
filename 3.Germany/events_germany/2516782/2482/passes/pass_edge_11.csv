@@ -1,0 +1,26 @@
+Source,Target,Weight
+H. Nordtveit,O. Baumann,2
+N. Amiri,N. Schulz,2
+O. Baumann,M. Uth,2
+M. Uth,H. Nordtveit,1
+M. Uth,L. Rupp,1
+B. H\u00fcbner,K. Demirbay,1
+L. Rupp,K. Demirbay,1
+M. Uth,A. Kramari\u0107,1
+A. Kramari\u0107,L. Rupp,1
+O. Baumann,H. Nordtveit,1
+N. Schulz,N. Amiri,1
+K. Demirbay,K. Vogt,1
+H. Nordtveit,A. Kramari\u0107,1
+A. Kramari\u0107,K. Demirbay,1
+K. Vogt,N. Amiri,1
+K. Demirbay,B. H\u00fcbner,1
+L. Rupp,H. Nordtveit,1
+K. Demirbay,H. Nordtveit,1
+B. H\u00fcbner,N. Amiri,1
+N. Schulz,O. Baumann,1
+B. H\u00fcbner,N. Schulz,1
+H. Nordtveit,K. Demirbay,1
+N. Amiri,B. H\u00fcbner,1
+N. Schulz,M. Uth,1
+K. Demirbay,N. Amiri,1

@@ -1,0 +1,14 @@
+Source,Target,Weight
+S. Yago,G. Imbula,2
+Y. Cahuzac,S. Yago,1
+K. Amian,J. Durmaz,1
+G. Imbula,I. Sangar\u00e9,1
+Y. Cahuzac,I. Sangar\u00e9,1
+I. Sangar\u00e9,C. Jean,1
+J. Durmaz,Y. Cahuzac,1
+I. Sylla,Y. Cahuzac,1
+I. Sangar\u00e9,K. Amian,1
+K. Amian,I. Sylla,1
+C. Jean,G. Imbula,1
+G. Imbula,S. Yago,1
+G. Imbula,K. Amian,1

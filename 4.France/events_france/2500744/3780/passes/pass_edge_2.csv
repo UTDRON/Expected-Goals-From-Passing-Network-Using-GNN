@@ -1,0 +1,19 @@
+Source,Target,Weight
+A. Delort,C. Jean,1
+I. Diop,Som\u00e1lia,1
+A. Delort,I. Diop,1
+J. Durmaz,A. Delort,1
+J. Durmaz,C. Jullien,1
+G. Imbula,I. Diop,1
+C. Jean,J. Durmaz,1
+A. Lafont,O. Toivonen,1
+I. Diop,A. Lafont,1
+I. Diop,C. Jean,1
+O. Toivonen,A. Delort,1
+Som\u00e1lia,C. Jullien,1
+G. Imbula,J. Durmaz,1
+C. Jean,O. Toivonen,1
+Som\u00e1lia,G. Imbula,1
+C. Jullien,F. Moubandje,1
+C. Jullien,I. Diop,1
+F. Moubandje,G. Imbula,1

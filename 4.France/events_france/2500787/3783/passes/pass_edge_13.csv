@@ -1,0 +1,20 @@
+Source,Target,Weight
+I. Santini,F. Guilbert,2
+A. Mbengue,J. F\u00e9ret,2
+I. Santini,J. Repas,1
+F. Guilbert,I. Santini,1
+F. Guilbert,J. Repas,1
+C. Kouakou,F. Guilbert,1
+J. F\u00e9ret,I. Santini,1
+F. Guilbert,A. Mbengue,1
+J. Repas,C. Kouakou,1
+F. Guilbert,C. Kouakou,1
+C. Kouakou,I. Santini,1
+A. Mbengue,I. Santini,1
+J. Repas,H. Bazile,1
+H. Bazile,D. Da Silva,1
+I. Santini,A. Mbengue,1
+J. F\u00e9ret,A. Mbengue,1
+D. Da Silva,B. Sankoh,1
+J. F\u00e9ret,C. Kouakou,1
+B. Sankoh,F. Guilbert,1

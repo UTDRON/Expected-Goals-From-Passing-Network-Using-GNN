@@ -1,0 +1,27 @@
+Source,Target,Weight
+J. Sorbon,M. Coco,3
+C. Kerbrat,J. Sorbon,2
+M. Thuram,Pedro Rebocho,1
+Pedro Rebocho,L. Phiri,1
+J. Briand,L. Blas,1
+M. Coco,J. Briand,1
+L. Phiri,L. Blas,1
+Pedro Rebocho,M. Thuram,1
+L. Phiri,J. Ikoko,1
+C. Kerbrat,L. Phiri,1
+M. Coco,J. Sorbon,1
+J. Briand,M. Diallo,1
+J. Sorbon,L. Phiri,1
+J. Ikoko,J. Briand,1
+M. Diallo,M. Coco,1
+L. Blas,C. Kerbrat,1
+L. Phiri,J. Sorbon,1
+L. Phiri,C. Kerbrat,1
+M. Thuram,J. Ikoko,1
+L. Phiri,M. Coco,1
+L. Blas,J. Ikoko,1
+M. Coco,L. Phiri,1
+J. Ikoko,L. Phiri,1
+M. Coco,M. Thuram,1
+C. Kerbrat,Pedro Rebocho,1
+J. Ikoko,C. Kerbrat,1

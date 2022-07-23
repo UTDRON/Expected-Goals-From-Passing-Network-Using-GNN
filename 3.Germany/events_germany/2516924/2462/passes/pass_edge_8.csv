@@ -1,0 +1,41 @@
+Source,Target,Weight
+G. Fernandes,T. Chandler,4
+T. Chandler,M. Fabi\u00e1n,4
+M. Fabi\u00e1n,G. Fernandes,3
+G. Fernandes,S. Falette,3
+S. Falette,T. Chandler,2
+G. Fernandes,M. Fabi\u00e1n,2
+S. Falette,C. Salcedo,2
+T. Chandler,G. Fernandes,2
+D. da Costa,Omar Mascarell,2
+M. Hasebe,Omar Mascarell,1
+M. Fabi\u00e1n,M. Hasebe,1
+Omar Mascarell,S. Falette,1
+S. Haller,M. Hasebe,1
+L. Hradecky,C. Salcedo,1
+Omar Mascarell,L. Jovi\u0107,1
+M. Hasebe,G. Fernandes,1
+T. Chandler,C. Salcedo,1
+Omar Mascarell,M. Fabi\u00e1n,1
+S. Falette,Omar Mascarell,1
+T. Chandler,S. Falette,1
+C. Salcedo,T. Chandler,1
+C. Salcedo,M. Fabi\u00e1n,1
+M. Fabi\u00e1n,M. Wolf,1
+C. Salcedo,Omar Mascarell,1
+M. Fabi\u00e1n,T. Chandler,1
+M. Fabi\u00e1n,S. Falette,1
+L. Jovi\u0107,D. da Costa,1
+Omar Mascarell,G. Fernandes,1
+S. Falette,D. da Costa,1
+L. Hradecky,L. Jovi\u0107,1
+C. Salcedo,L. Jovi\u0107,1
+C. Salcedo,S. Falette,1
+M. Fabi\u00e1n,C. Salcedo,1
+T. Chandler,L. Hradecky,1
+S. Falette,M. Fabi\u00e1n,1
+L. Jovi\u0107,G. Fernandes,1
+M. Wolf,G. Fernandes,1
+M. Hasebe,T. Chandler,1
+M. Fabi\u00e1n,S. Haller,1
+Omar Mascarell,M. Hasebe,1

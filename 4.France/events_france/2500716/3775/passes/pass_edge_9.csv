@@ -1,0 +1,39 @@
+Source,Target,Weight
+W. Sneijder,M. Sarr,3
+V. Koziello,P. Lees Melou,2
+R. Walter,M. Sarr,2
+M. Sarr,Dante,2
+Dante,V. Koziello,2
+A. Saint-Maximin,W. Sneijder,2
+A. Pl\u00e9a,W. Sneijder,2
+W. Sneijder,A. Pl\u00e9a,2
+A. Souquet,R. Walter,2
+A. Pl\u00e9a,Dante,1
+W. Sneijder,Dante,1
+A. Souquet,B. Srarfi,1
+Dante,W. Sneijder,1
+B. Srarfi,A. Pl\u00e9a,1
+W. Sneijder,C. Jallet,1
+V. Koziello,A. Pl\u00e9a,1
+W. Sneijder,R. Walter,1
+R. Walter,A. Saint-Maximin,1
+W. Sneijder,B. Srarfi,1
+A. Pl\u00e9a,B. Srarfi,1
+R. Walter,P. Lees Melou,1
+P. Lees Melou,W. Sneijder,1
+B. Srarfi,V. Koziello,1
+P. Lees Melou,A. Saint-Maximin,1
+Dante,A. Souquet,1
+C. Jallet,R. Walter,1
+V. Koziello,A. Souquet,1
+P. Lees Melou,V. Koziello,1
+A. Souquet,W. Sneijder,1
+M. Sarr,A. Saint-Maximin,1
+B. Srarfi,A. Souquet,1
+A. Saint-Maximin,B. Srarfi,1
+M. Sarr,A. Souquet,1
+Dante,P. Lees Melou,1
+P. Lees Melou,Dante,1
+B. Srarfi,W. Sneijder,1
+M. Sarr,W. Sneijder,1
+W. Sneijder,A. Saint-Maximin,1

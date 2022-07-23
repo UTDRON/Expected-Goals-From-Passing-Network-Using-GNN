@@ -1,0 +1,87 @@
+Source,Target,Weight
+F. Sammaritano,F. Balmont,5
+F. Balmont,V. Rosier,5
+B. Reynet,C. Yamber\u00e9,4
+C. Yamber\u00e9,W. Lautoa,4
+V. Rosier,F. Balmont,4
+F. Balmont,F. Sammaritano,4
+W. Lautoa,B. Reynet,4
+F. Sammaritano,V. Rosier,4
+B. Reynet,J\u00falio Tavares,3
+O. Haddadi,B. Reynet,3
+M. Abeid,W. Lautoa,3
+W. Lautoa,M. Abeid,3
+J\u00falio Tavares,N. Sliti,3
+N. Sliti,F. Sammaritano,3
+Xeka,M. Abeid,3
+Xeka,F. Sammaritano,3
+V. Rosier,F. Sammaritano,3
+V. Rosier,Xeka,3
+M. Abeid,C. Yamber\u00e9,3
+V. Rosier,J\u00falio Tavares,3
+J\u00falio Tavares,F. Balmont,3
+M. Abeid,O. Haddadi,3
+V. Rosier,N. Sliti,2
+O. Haddadi,F. Balmont,2
+N. Sliti,W. Lautoa,2
+J\u00falio Tavares,V. Rosier,2
+F. Sammaritano,J\u00falio Tavares,2
+C. Yamber\u00e9,V. Rosier,2
+W. Lautoa,O. Haddadi,2
+W. Lautoa,V. Rosier,2
+O. Haddadi,M. Abeid,2
+F. Balmont,B. Reynet,2
+M. Abeid,B. Reynet,2
+Xeka,O. Haddadi,2
+B. Reynet,N. Sliti,2
+O. Haddadi,W. Lautoa,2
+N. Sliti,Xeka,2
+F. Balmont,M. Abeid,2
+N. Sliti,M. Abeid,1
+M. Abeid,Xeka,1
+W. Lautoa,N. Sliti,1
+O. Haddadi,C. Yamber\u00e9,1
+C. Yamber\u00e9,N. Sliti,1
+J\u00falio Tavares,O. Haddadi,1
+J\u00falio Tavares,M. Abeid,1
+V. Rosier,M. Abeid,1
+F. Balmont,C. Yamber\u00e9,1
+V. Rosier,B. Reynet,1
+F. Balmont,W. Lautoa,1
+O. Haddadi,Xeka,1
+N. Sliti,J\u00falio Tavares,1
+V. Rosier,W. Lautoa,1
+W. Lautoa,J\u00falio Tavares,1
+M. Abeid,N. Sliti,1
+Xeka,J\u00falio Tavares,1
+B. Reynet,F. Balmont,1
+C. Yamber\u00e9,O. Haddadi,1
+Xeka,N. Sliti,1
+O. Haddadi,N. Sliti,1
+C. Yamber\u00e9,J\u00falio Tavares,1
+F. Sammaritano,O. Haddadi,1
+B. Reynet,M. Abeid,1
+N. Sliti,C. Yamber\u00e9,1
+B. Reynet,O. Haddadi,1
+W. Lautoa,Xeka,1
+O. Haddadi,F. Sammaritano,1
+C. Yamber\u00e9,F. Sammaritano,1
+W. Lautoa,C. Yamber\u00e9,1
+F. Sammaritano,B. Reynet,1
+Xeka,F. Balmont,1
+F. Balmont,O. Haddadi,1
+M. Abeid,V. Rosier,1
+N. Sliti,F. Balmont,1
+J\u00falio Tavares,F. Sammaritano,1
+C. Yamber\u00e9,Xeka,1
+F. Balmont,Xeka,1
+F. Sammaritano,Xeka,1
+F. Balmont,J\u00falio Tavares,1
+Xeka,B. Reynet,1
+J\u00falio Tavares,W. Lautoa,1
+B. Reynet,V. Rosier,1
+M. Abeid,F. Balmont,1
+J\u00falio Tavares,Xeka,1
+N. Sliti,V. Rosier,1
+F. Sammaritano,M. Abeid,1
+B. Reynet,W. Lautoa,1

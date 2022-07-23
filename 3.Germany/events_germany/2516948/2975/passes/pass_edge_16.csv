@@ -1,0 +1,21 @@
+Source,Target,Weight
+Bernardo,Bruma,2
+Y. Poulsen,T. Werner,2
+Bernardo,M. Sabitzer,1
+Bruma,D. Upamecano,1
+Bruma,Y. Poulsen,1
+L. Klostermann,K. Kampl,1
+K. Kampl,Bernardo,1
+D. Upamecano,Bernardo,1
+W. Orban,Y. Poulsen,1
+M. Sabitzer,K. Kampl,1
+D. Upamecano,D. Demme,1
+T. Werner,D. Demme,1
+Y. Poulsen,M. Sabitzer,1
+D. Demme,Bernardo,1
+M. Sabitzer,Y. Poulsen,1
+M. Sabitzer,D. Upamecano,1
+D. Demme,D. Upamecano,1
+W. Orban,M. Sabitzer,1
+D. Upamecano,L. Klostermann,1
+T. Werner,W. Orban,1

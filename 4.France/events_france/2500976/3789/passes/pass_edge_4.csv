@@ -1,0 +1,50 @@
+Source,Target,Weight
+B. Zungu,O. El Hajjam,4
+O. El Hajjam,G. Kakuta,3
+G. Kakuta,B. Zungu,3
+Danilo Avelar,T. Monconduit,3
+K. Ad\u00e9non,T. Monconduit,2
+Danilo Avelar,S. Mendoza,2
+O. El Hajjam,B. Zungu,2
+K. Ad\u00e9non,Danilo Avelar,2
+Danilo Avelar,B. Zungu,2
+T. Monconduit,Danilo Avelar,2
+M. Konat\u00e9,G. Kakuta,2
+B. Zungu,G. Kakuta,2
+S. Mendoza,Danilo Avelar,2
+Danilo Avelar,L. Traor\u00e9,2
+M. Konat\u00e9,O. El Hajjam,1
+M. Konat\u00e9,T. Monconduit,1
+O. El Hajjam,K. Ad\u00e9non,1
+G. Kakuta,T. Monconduit,1
+T. Monconduit,B. Zungu,1
+G. Kakuta,Danilo Avelar,1
+T. Monconduit,L. Traor\u00e9,1
+S. Mendoza,K. Ad\u00e9non,1
+O. El Hajjam,M. Konat\u00e9,1
+G. Kakuta,K. Ad\u00e9non,1
+G. Kakuta,O. El Hajjam,1
+S. Mendoza,B. Zungu,1
+T. Monconduit,O. El Hajjam,1
+T. Monconduit,S. Mendoza,1
+S. Mendoza,M. Konat\u00e9,1
+T. Monconduit,M. Konat\u00e9,1
+K. Ad\u00e9non,G. Kakuta,1
+L. Traor\u00e9,M. Konat\u00e9,1
+G. Kakuta,S. Mendoza,1
+Danilo Avelar,O. El Hajjam,1
+L. Traor\u00e9,B. Dibassy,1
+L. Traor\u00e9,S. Mendoza,1
+M. Konat\u00e9,K. Ad\u00e9non,1
+K. Ad\u00e9non,L. Traor\u00e9,1
+B. Zungu,Danilo Avelar,1
+Danilo Avelar,M. Konat\u00e9,1
+L. Traor\u00e9,K. Ad\u00e9non,1
+B. Dibassy,Danilo Avelar,1
+L. Traor\u00e9,Danilo Avelar,1
+S. Mendoza,T. Monconduit,1
+M. Konat\u00e9,Danilo Avelar,1
+O. El Hajjam,L. Traor\u00e9,1
+B. Zungu,K. Ad\u00e9non,1
+B. Zungu,S. Mendoza,1
+G. Kakuta,M. Konat\u00e9,1

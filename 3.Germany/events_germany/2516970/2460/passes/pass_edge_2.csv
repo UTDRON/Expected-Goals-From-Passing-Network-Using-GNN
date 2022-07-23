@@ -1,0 +1,19 @@
+Source,Target,Weight
+A. Ujah,N. de Jong,1
+S. Bell,S. Serdar,1
+S. Serdar,S. Bell,1
+K. Onisiwo,S. Serdar,1
+A. Ujah,S. Serdar,1
+N. de Jong,S. Bell,1
+N. de Jong,K. Onisiwo,1
+K. Onisiwo,A. Diallo,1
+D. Brosinski,K. Onisiwo,1
+S. Bell,D. Brosinski,1
+A. Diallo,A. Ujah,1
+S. Serdar,N. de Jong,1
+D. Brosinski,A. Ujah,1
+D. Brosinski,S. Bell,1
+K. Onisiwo,D. Brosinski,1
+N. de Jong,D. Brosinski,1
+S. Serdar,D. Brosinski,1
+D. Brosinski,N. de Jong,1

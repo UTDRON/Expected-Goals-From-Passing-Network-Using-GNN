@@ -1,0 +1,28 @@
+Source,Target,Weight
+T. Kehrer,Naldo,3
+B. Oczipka,L. Goretzka,3
+B. Oczipka,T. Kehrer,2
+B. Embolo,D. Caligiuri,2
+B. Oczipka,B. Embolo,2
+F. Di Santo,B. Oczipka,2
+L. Goretzka,B. Oczipka,2
+D. Caligiuri,B. Embolo,2
+Naldo,B. Oczipka,2
+F. Di Santo,Naldo,1
+D. Caligiuri,W. McKennie,1
+Naldo,T. Kehrer,1
+B. Embolo,F. Di Santo,1
+L. Goretzka,B. Stambouli,1
+Naldo,B. Stambouli,1
+B. Stambouli,B. Embolo,1
+L. Goretzka,T. Kehrer,1
+Naldo,F. Di Santo,1
+B. Embolo,Naldo,1
+R. F\u00e4hrmann,F. Di Santo,1
+F. Di Santo,L. Goretzka,1
+W. McKennie,D. Caligiuri,1
+B. Stambouli,D. Caligiuri,1
+L. Goretzka,Y. Konoplyanka,1
+T. Kehrer,R. F\u00e4hrmann,1
+B. Embolo,B. Oczipka,1
+D. Caligiuri,L. Goretzka,1

@@ -1,0 +1,21 @@
+Source,Target,Weight
+T. Werner,N. Ke\u00efta,3
+N. Ke\u00efta,T. Werner,2
+K. Laimer,E. Forsberg,2
+N. Ke\u00efta,D. Demme,2
+D. Demme,N. Ke\u00efta,1
+W. Orban,E. Forsberg,1
+D. Demme,Bernardo,1
+D. Demme,W. Orban,1
+Bernardo,N. Ke\u00efta,1
+E. Forsberg,W. Orban,1
+N. Ke\u00efta,I. Konat\u00e9,1
+W. Orban,I. Konat\u00e9,1
+E. Forsberg,K. Laimer,1
+I. Konat\u00e9,D. Demme,1
+N. Ke\u00efta,Bernardo,1
+I. Konat\u00e9,W. Orban,1
+K. Laimer,N. Ke\u00efta,1
+E. Forsberg,Bruma,1
+W. Orban,T. Werner,1
+Bruma,K. Laimer,1

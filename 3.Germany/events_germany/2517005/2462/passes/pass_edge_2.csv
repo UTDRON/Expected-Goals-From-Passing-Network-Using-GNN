@@ -1,0 +1,77 @@
+Source,Target,Weight
+M. Hasebe,D. Abraham,10
+D. Abraham,M. Hasebe,8
+D. Abraham,D. da Costa,5
+S. Falette,M. Hasebe,5
+M. Hasebe,S. Falette,5
+L. Hradecky,S. Falette,5
+J. Willems,J. de Guzm\u00e1n,4
+G. Fernandes,M. Hasebe,4
+S. Falette,M. Fabi\u00e1n,3
+M. Hasebe,M. Fabi\u00e1n,3
+D. da Costa,D. Abraham,3
+D. da Costa,M. Hasebe,3
+K. Boateng,D. Abraham,3
+M. Hasebe,G. Fernandes,3
+J. de Guzm\u00e1n,J. Willems,3
+M. Fabi\u00e1n,J. de Guzm\u00e1n,2
+K. Boateng,M. Wolf,2
+M. Fabi\u00e1n,J. Willems,2
+J. Willems,M. Hasebe,2
+D. Abraham,G. Fernandes,2
+D. da Costa,M. Wolf,2
+M. Wolf,K. Boateng,2
+J. Willems,S. Falette,2
+S. Falette,L. Hradecky,2
+S. Falette,J. Willems,2
+J. de Guzm\u00e1n,D. da Costa,2
+D. Abraham,L. Hradecky,2
+G. Fernandes,S. Falette,2
+D. Abraham,J. Willems,2
+D. da Costa,G. Fernandes,2
+M. Hasebe,M. Wolf,2
+K. Boateng,D. da Costa,2
+D. Abraham,K. Boateng,2
+J. Willems,M. Fabi\u00e1n,2
+D. da Costa,J. de Guzm\u00e1n,2
+S. Falette,J. de Guzm\u00e1n,2
+J. de Guzm\u00e1n,M. Hasebe,2
+M. Hasebe,L. Hradecky,2
+J. de Guzm\u00e1n,L. Hradecky,2
+M. Wolf,D. da Costa,2
+M. Wolf,D. Abraham,1
+J. Willems,G. Fernandes,1
+M. Fabi\u00e1n,M. Wolf,1
+M. Wolf,M. Fabi\u00e1n,1
+M. Wolf,J. Willems,1
+J. de Guzm\u00e1n,S. Falette,1
+J. de Guzm\u00e1n,M. Wolf,1
+D. da Costa,S. Falette,1
+J. Willems,D. Abraham,1
+S. Falette,K. Boateng,1
+M. Fabi\u00e1n,G. Fernandes,1
+S. Falette,D. Abraham,1
+S. Falette,G. Fernandes,1
+M. Fabi\u00e1n,K. Boateng,1
+L. Hradecky,K. Boateng,1
+M. Wolf,S. Falette,1
+M. Fabi\u00e1n,M. Hasebe,1
+K. Boateng,M. Hasebe,1
+J. de Guzm\u00e1n,D. Abraham,1
+J. de Guzm\u00e1n,K. Boateng,1
+M. Hasebe,J. Willems,1
+G. Fernandes,J. de Guzm\u00e1n,1
+L. Hradecky,D. da Costa,1
+M. Hasebe,D. da Costa,1
+G. Fernandes,D. Abraham,1
+M. Fabi\u00e1n,S. Falette,1
+K. Boateng,J. de Guzm\u00e1n,1
+J. de Guzm\u00e1n,M. Fabi\u00e1n,1
+L. Hradecky,M. Hasebe,1
+D. da Costa,K. Boateng,1
+M. Wolf,J. de Guzm\u00e1n,1
+G. Fernandes,M. Wolf,1
+S. Falette,D. da Costa,1
+G. Fernandes,L. Hradecky,1
+L. Hradecky,D. Abraham,1
+D. Abraham,J. de Guzm\u00e1n,1

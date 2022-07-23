@@ -1,0 +1,23 @@
+Source,Target,Weight
+D. Diekmeier,A. Hunt,2
+R. van Drongelen,Walace,2
+Walace,R. van Drongelen,1
+R. van Drongelen,A. Ekdal,1
+G. Jung,A. Ekdal,1
+K. Papadopoulos,R. van Drongelen,1
+A. Ekdal,R. van Drongelen,1
+A. Hunt,S. Schipplock,1
+G. Jung,K. Papadopoulos,1
+A. Ekdal,L. Waldschmidt,1
+Walace,S. Schipplock,1
+R. van Drongelen,G. Jung,1
+A. Ekdal,G. Jung,1
+S. Schipplock,R. van Drongelen,1
+L. Waldschmidt,A. Hunt,1
+G. Jung,S. Schipplock,1
+D. Diekmeier,A. Ekdal,1
+A. Hahn,D. Diekmeier,1
+A. Ekdal,D. Diekmeier,1
+S. Schipplock,D. Diekmeier,1
+A. Hunt,G. Jung,1
+S. Schipplock,A. Hahn,1

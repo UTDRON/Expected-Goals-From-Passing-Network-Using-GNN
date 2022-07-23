@@ -1,0 +1,37 @@
+Source,Target,Weight
+Malcom,Y. Sabaly,4
+Y. Sabaly,Malcom,3
+T. Pellenard,L. Lerager,2
+L. Lerager,Y. Sankhar\u00e9,2
+N. de Pr\u00e9ville,T. Pellenard,2
+Y. Sankhar\u00e9,N. de Pr\u00e9ville,2
+I. Lewczuk,F. Kamano,2
+L. Lerager,Malcom,2
+T. Pellenard,N. de Pr\u00e9ville,2
+F. Kamano,B. Costil,2
+F. Kamano,T. Pellenard,1
+J. Toulalan,I. Lewczuk,1
+Y. Sabaly,T. Pellenard,1
+L. Lerager,T. Pellenard,1
+N. de Pr\u00e9ville,Y. Sankhar\u00e9,1
+L. Lerager,Y. Sabaly,1
+B. Costil,L. Lerager,1
+Y. Sankhar\u00e9,I. Lewczuk,1
+Y. Sabaly,F. Kamano,1
+L. Lerager,Ot\u00e1vio,1
+T. Pellenard,Y. Sankhar\u00e9,1
+I. Lewczuk,L. Lerager,1
+T. Pellenard,Y. Sabaly,1
+Y. Sankhar\u00e9,F. Kamano,1
+Ot\u00e1vio,B. Costil,1
+Malcom,L. Lerager,1
+Malcom,T. Pellenard,1
+Y. Sabaly,Y. Sankhar\u00e9,1
+B. Costil,N. de Pr\u00e9ville,1
+F. Kamano,Y. Sabaly,1
+B. Costil,T. Pellenard,1
+Y. Sankhar\u00e9,L. Lerager,1
+N. de Pr\u00e9ville,Y. Sabaly,1
+Y. Sabaly,I. Lewczuk,1
+T. Pellenard,Malcom,1
+Y. Sabaly,L. Lerager,1

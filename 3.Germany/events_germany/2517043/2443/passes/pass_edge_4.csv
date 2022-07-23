@@ -1,0 +1,42 @@
+Source,Target,Weight
+P. Bargfrede,M. Rashica,2
+T. Gebre Selassie,M. Eggestein,2
+S. Langkamp,M. Eggestein,2
+M. Kruse,P. Bargfrede,2
+F. Kainz,L. Augustinsson,2
+L. Augustinsson,M. Friedl,2
+M. Eggestein,P. Bargfrede,2
+S. Langkamp,T. Gebre Selassie,1
+M. Rashica,F. Kainz,1
+M. Eggestein,M. Rashica,1
+T. Delaney,F. Kainz,1
+J. Pavlenka,T. Gebre Selassie,1
+T. Gebre Selassie,J. Pavlenka,1
+M. Friedl,P. Bargfrede,1
+M. Eggestein,T. Delaney,1
+M. Kruse,M. Eggestein,1
+M. Eggestein,L. Augustinsson,1
+S. Langkamp,M. Friedl,1
+M. Friedl,F. Kainz,1
+F. Kainz,S. Langkamp,1
+P. Bargfrede,T. Gebre Selassie,1
+L. Augustinsson,S. Langkamp,1
+M. Rashica,S. Langkamp,1
+M. Rashica,P. Bargfrede,1
+M. Rashica,T. Delaney,1
+T. Gebre Selassie,S. Langkamp,1
+M. Kruse,L. Augustinsson,1
+S. Langkamp,M. Rashica,1
+P. Bargfrede,M. Eggestein,1
+J. Pavlenka,T. Delaney,1
+P. Bargfrede,S. Langkamp,1
+M. Rashica,M. Kruse,1
+T. Delaney,P. Bargfrede,1
+M. Friedl,L. Augustinsson,1
+P. Bargfrede,M. Friedl,1
+L. Augustinsson,M. Kruse,1
+T. Delaney,M. Rashica,1
+P. Bargfrede,M. Kruse,1
+L. Augustinsson,J. Pavlenka,1
+M. Friedl,T. Gebre Selassie,1
+M. Eggestein,M. Kruse,1

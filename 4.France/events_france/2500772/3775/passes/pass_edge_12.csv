@@ -1,0 +1,27 @@
+Source,Target,Weight
+C. Jallet,M. Le Marchand,2
+J. Seri,A. Souquet,2
+M. Le Marchand,C. Jallet,2
+M. Balotelli,A. Pl\u00e9a,2
+J. Seri,M. Balotelli,2
+N. Mendy,J. Seri,2
+A. Souquet,A. Pl\u00e9a,1
+J. Seri,N. Mendy,1
+C. Jallet,J. Seri,1
+A. Souquet,A. Saint-Maximin,1
+C. Jallet,N. Mendy,1
+A. Souquet,N. Mendy,1
+N. Mendy,C. Jallet,1
+A. Souquet,Dante,1
+Dante,A. Souquet,1
+A. Pl\u00e9a,A. Souquet,1
+Dante,C. Jallet,1
+A. Saint-Maximin,A. Souquet,1
+Dante,J. Seri,1
+A. Pl\u00e9a,Dante,1
+A. Souquet,J. Seri,1
+N. Mendy,M. Le Marchand,1
+M. Le Marchand,Dante,1
+A. Pl\u00e9a,A. Saint-Maximin,1
+A. Saint-Maximin,A. Pl\u00e9a,1
+M. Le Marchand,N. Mendy,1

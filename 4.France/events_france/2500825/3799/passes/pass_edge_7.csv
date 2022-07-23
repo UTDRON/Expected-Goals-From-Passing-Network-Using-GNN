@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Fulgini,G. Sunu,2
+K. Toko Ekambi,E. Crivelli,1
+M. Pavlovi\u0107,V. Manceau,1
+M. Michel,A. Fulgini,1
+T. Mangani,E. Crivelli,1
+T. Mangani,M. Michel,1
+R. Thomas,T. Mangani,1
+K. Toko Ekambi,T. Mangani,1
+E. Crivelli,T. Mangani,1
+E. Crivelli,K. Toko Ekambi,1
+V. Manceau,T. Mangani,1
+T. Mangani,A. Fulgini,1
+G. Sunu,M. Pavlovi\u0107,1
+T. Mangani,K. Toko Ekambi,1
+M. Pavlovi\u0107,M. Michel,1
+G. Sunu,R. Thomas,1
+A. Fulgini,A. Bamba,1
+M. Michel,B. Santamaria,1
+T. Mangani,M. Pavlovi\u0107,1
+A. Bamba,T. Mangani,1
+B. Santamaria,K. Toko Ekambi,1

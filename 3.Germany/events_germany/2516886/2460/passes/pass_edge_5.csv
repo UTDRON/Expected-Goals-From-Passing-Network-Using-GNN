@@ -1,0 +1,14 @@
+Source,Target,Weight
+A. Diallo,R. Zentner,2
+G. Donati,F. Frei,1
+G. Holtmann,D. Brosinski,1
+P. De Blasis,D. Latza,1
+F. Frei,A. Diallo,1
+D. Brosinski,D. Latza,1
+F. Frei,G. Donati,1
+D. Latza,A. Diallo,1
+R. Zentner,F. Frei,1
+F. Frei,P. De Blasis,1
+R. Zentner,P. De Blasis,1
+P. De Blasis,A. Diallo,1
+A. Diallo,G. Holtmann,1

@@ -1,0 +1,10 @@
+Source,Target,Weight
+T. Jedvaj,Wendell,2
+J. Brandt,T. Jedvaj,1
+Wendell,J. Baumgartlinger,1
+T. Jedvaj,J. Tah,1
+L. Bailey,L. Alario,1
+Wendell,J. Brandt,1
+J. Tah,T. Jedvaj,1
+J. Baumgartlinger,J. Tah,1
+J. Tah,L. Bailey,1

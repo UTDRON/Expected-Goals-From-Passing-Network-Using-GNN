@@ -1,0 +1,36 @@
+Source,Target,Weight
+P. Schwegler,M. Ostrzolek,3
+W. Anton,P. Tschauner,2
+P. Tschauner,S. San\u00e9,2
+Jonathas,J. Korb,2
+F. Klaus,O. Sorg,2
+J. Korb,Jonathas,1
+F. Klaus,Jonathas,1
+F. Klaus,M. Bakalorz,1
+M. Bakalorz,O. Sorg,1
+P. Tschauner,F. Klaus,1
+F. Klaus,W. Anton,1
+J. Korb,F. Klaus,1
+S. San\u00e9,W. Anton,1
+O. Sorg,M. Bakalorz,1
+O. Sorg,J. Korb,1
+P. Schwegler,S. San\u00e9,1
+S. San\u00e9,M. Ostrzolek,1
+F. Klaus,J. Korb,1
+W. Anton,M. Bakalorz,1
+M. Ostrzolek,W. Anton,1
+J. Korb,P. Schwegler,1
+W. Anton,N. F\u00fcllkrug,1
+S. San\u00e9,P. Schwegler,1
+M. Bakalorz,F. Klaus,1
+M. Ostrzolek,P. Schwegler,1
+J. Korb,O. Sorg,1
+M. Ostrzolek,J. Korb,1
+N. F\u00fcllkrug,M. Bakalorz,1
+M. Ostrzolek,F. Klaus,1
+M. Bakalorz,M. Ostrzolek,1
+O. Sorg,F. Klaus,1
+M. Bakalorz,P. Schwegler,1
+M. Ostrzolek,Jonathas,1
+O. Sorg,W. Anton,1
+Jonathas,F. Klaus,1

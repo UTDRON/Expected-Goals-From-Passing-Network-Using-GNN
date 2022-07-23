@@ -1,0 +1,17 @@
+Source,Target,Weight
+K. Volland,Wendell,2
+Wendell,S. Bender,2
+J. Baumgartlinger,K. Volland,1
+D. Kohr,B. Henrichs,1
+S. Bender,B. Leno,1
+S. Bender,J. Baumgartlinger,1
+J. Baumgartlinger,J. Tah,1
+J. Brandt,J. Baumgartlinger,1
+B. Henrichs,J. Baumgartlinger,1
+J. Baumgartlinger,J. Brandt,1
+K. Volland,J. Brandt,1
+J. Pohjanpalo,K. Volland,1
+J. Tah,D. Kohr,1
+J. Brandt,Wendell,1
+Wendell,K. Volland,1
+B. Leno,J. Pohjanpalo,1

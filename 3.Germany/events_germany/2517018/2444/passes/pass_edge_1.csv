@@ -1,0 +1,21 @@
+Source,Target,Weight
+L. Mai,S. Ulreich,2
+Juan Bernat,S. Rudy,2
+S. Rudy,Juan Bernat,2
+Juan Bernat,L. Mai,2
+L. Mai,M. Hummels,2
+S. Ulreich,M. Hummels,2
+Juan Bernat,M. Hummels,1
+M. Hummels,S. Rudy,1
+J. Kimmich,L. Mai,1
+J. Kimmich,F. Evina,1
+S. Rudy,J. Kimmich,1
+S. Wagner,S. Ulreich,1
+M. Hummels,N. Dorsch,1
+M. Hummels,L. Mai,1
+S. Ulreich,Juan Bernat,1
+M. Hummels,Juan Bernat,1
+N. Dorsch,M. Hummels,1
+M. Hummels,F. Evina,1
+M. Hummels,J. Kimmich,1
+F. Evina,S. Wagner,1

@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Harit,L. Goretzka,2
+B. Stambouli,F. Di Santo,2
+L. Goretzka,D. Caligiuri,2
+B. Stambouli,A. Harit,1
+D. Caligiuri,G. Burgstaller,1
+F. Di Santo,M. Nastasi\u0107,1
+T. Kehrer,M. Nastasi\u0107,1
+A. Harit,B. Stambouli,1
+L. Goretzka,A. Harit,1
+G. Burgstaller,R. F\u00e4hrmann,1
+M. Nastasi\u0107,B. Stambouli,1
+M. Nastasi\u0107,F. Di Santo,1
+R. F\u00e4hrmann,B. Stambouli,1
+F. Di Santo,G. Burgstaller,1
+T. Kehrer,L. Goretzka,1
+F. Di Santo,T. Kehrer,1
+R. F\u00e4hrmann,T. Kehrer,1
+G. Burgstaller,M. Nastasi\u0107,1
+D. Caligiuri,L. Goretzka,1
+T. Kehrer,A. Harit,1
+M. Nastasi\u0107,T. Kehrer,1

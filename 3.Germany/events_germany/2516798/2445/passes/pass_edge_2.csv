@@ -1,0 +1,20 @@
+Source,Target,Weight
+D. Ginczek,A. Beck,2
+A. Donis,H. Badstuber,2
+D. Aogo,M. Kami\u0144ski,2
+B. Pavard,D. Aogo,2
+H. Badstuber,B. Pavard,1
+M. Kami\u0144ski,H. Badstuber,1
+D. Aogo,A. Donis,1
+T. Baumgartl,D. Ginczek,1
+A. Beck,D. Aogo,1
+B. Pavard,D. Ginczek,1
+A. Beck,D. Ginczek,1
+D. Ginczek,D. Aogo,1
+H. Badstuber,R. Zieler,1
+R. Zieler,A. Beck,1
+D. Aogo,B. Pavard,1
+M. Kami\u0144ski,D. Ginczek,1
+A. Beck,A. Donis,1
+D. Ginczek,A. Donis,1
+H. Badstuber,T. Baumgartl,1

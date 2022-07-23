@@ -1,0 +1,49 @@
+Source,Target,Weight
+J. Boateng,N. S\u00fcle,4
+T. M\u00fcller,K. Coman,3
+Rafinha,K. Coman,3
+J. Rodr\u00edguez,Rafinha,3
+F. Rib\u00e9ry,J. Rodr\u00edguez,3
+N. S\u00fcle,J. Rodr\u00edguez,3
+T. Starke,J. Boateng,2
+J. Boateng,T. M\u00fcller,2
+J. Rodr\u00edguez,J. Boateng,2
+Rafinha,J. Boateng,2
+K. Coman,Rafinha,2
+J. Boateng,Rafinha,2
+J. Rodr\u00edguez,T. M\u00fcller,2
+N. S\u00fcle,F. Rib\u00e9ry,2
+J. Rodr\u00edguez,F. Rib\u00e9ry,2
+N. S\u00fcle,D. Alaba,2
+T. M\u00fcller,Rafinha,1
+D. Alaba,T. Starke,1
+T. M\u00fcller,R. Lewandowski,1
+J. Rodr\u00edguez,S. Rudy,1
+J. Boateng,S. Rudy,1
+Rafinha,J. Rodr\u00edguez,1
+T. M\u00fcller,T. Starke,1
+T. Starke,N. S\u00fcle,1
+S. Rudy,T. Starke,1
+K. Coman,R. Lewandowski,1
+T. Starke,J. Rodr\u00edguez,1
+S. Rudy,J. Rodr\u00edguez,1
+J. Boateng,R. Lewandowski,1
+J. Rodr\u00edguez,D. Alaba,1
+D. Alaba,F. Rib\u00e9ry,1
+N. S\u00fcle,J. Boateng,1
+K. Coman,N. S\u00fcle,1
+Rafinha,R. Lewandowski,1
+F. Rib\u00e9ry,N. S\u00fcle,1
+K. Coman,J. Rodr\u00edguez,1
+D. Alaba,N. S\u00fcle,1
+R. Lewandowski,K. Coman,1
+Rafinha,T. M\u00fcller,1
+D. Alaba,J. Rodr\u00edguez,1
+K. Coman,T. M\u00fcller,1
+F. Rib\u00e9ry,J. Boateng,1
+K. Coman,D. Alaba,1
+Rafinha,T. Starke,1
+N. S\u00fcle,Rafinha,1
+R. Lewandowski,J. Boateng,1
+T. M\u00fcller,J. Boateng,1
+R. Lewandowski,T. M\u00fcller,1

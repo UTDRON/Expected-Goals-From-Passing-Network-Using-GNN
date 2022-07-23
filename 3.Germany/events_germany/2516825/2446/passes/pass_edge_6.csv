@@ -1,0 +1,83 @@
+Source,Target,Weight
+S. Bender,C. Ar\u00e1nguiz,6
+S. Bender,Wendell,5
+C. Ar\u00e1nguiz,Wendell,5
+J. Baumgartlinger,C. Ar\u00e1nguiz,5
+Wendell,K. Volland,4
+C. Ar\u00e1nguiz,S. Bender,4
+J. Tah,S. Bender,4
+J. Baumgartlinger,S. Bender,4
+Wendell,C. Ar\u00e1nguiz,4
+B. Leno,S. Bender,4
+C. Ar\u00e1nguiz,J. Baumgartlinger,4
+P. Retsos,K. Havertz,4
+J. Baumgartlinger,J. Tah,3
+K. Havertz,P. Retsos,3
+Wendell,J. Brandt,3
+K. Volland,L. Bailey,3
+L. Bailey,J. Baumgartlinger,3
+C. Ar\u00e1nguiz,J. Brandt,3
+Wendell,L. Bailey,3
+S. Bender,J. Baumgartlinger,3
+J. Tah,P. Retsos,3
+L. Bailey,K. Volland,2
+J. Tah,C. Ar\u00e1nguiz,2
+B. Leno,J. Tah,2
+K. Havertz,Wendell,2
+K. Havertz,J. Tah,2
+J. Baumgartlinger,B. Leno,2
+C. Ar\u00e1nguiz,K. Volland,2
+K. Volland,C. Ar\u00e1nguiz,2
+P. Retsos,B. Leno,2
+J. Brandt,J. Baumgartlinger,2
+L. Bailey,C. Ar\u00e1nguiz,2
+P. Retsos,J. Tah,2
+K. Volland,J. Tah,2
+K. Havertz,S. Bender,2
+J. Brandt,Wendell,2
+J. Tah,K. Volland,2
+S. Bender,P. Retsos,2
+B. Henrichs,J. Baumgartlinger,2
+J. Tah,J. Baumgartlinger,2
+L. Bailey,B. Henrichs,2
+L. Bailey,Wendell,2
+S. Bender,B. Leno,2
+J. Baumgartlinger,K. Havertz,2
+Wendell,S. Bender,2
+J. Brandt,C. Ar\u00e1nguiz,2
+K. Volland,Wendell,2
+J. Baumgartlinger,J. Brandt,1
+C. Ar\u00e1nguiz,K. Havertz,1
+K. Havertz,L. Bailey,1
+P. Retsos,J. Brandt,1
+K. Volland,B. Henrichs,1
+B. Henrichs,L. Bailey,1
+J. Brandt,K. Havertz,1
+C. Ar\u00e1nguiz,P. Retsos,1
+C. Ar\u00e1nguiz,L. Alario,1
+J. Brandt,K. Volland,1
+B. Leno,J. Baumgartlinger,1
+J. Tah,Wendell,1
+L. Alario,B. Henrichs,1
+L. Bailey,J. Tah,1
+S. Bender,J. Tah,1
+P. Retsos,J. Baumgartlinger,1
+S. Bender,K. Havertz,1
+Wendell,P. Retsos,1
+J. Brandt,L. Bailey,1
+C. Ar\u00e1nguiz,L. Bailey,1
+B. Leno,K. Havertz,1
+S. Bender,L. Bailey,1
+J. Brandt,S. Bender,1
+K. Havertz,J. Baumgartlinger,1
+L. Alario,J. Brandt,1
+Wendell,L. Alario,1
+J. Tah,B. Leno,1
+Wendell,K. Havertz,1
+C. Ar\u00e1nguiz,J. Tah,1
+P. Retsos,C. Ar\u00e1nguiz,1
+C. Ar\u00e1nguiz,B. Leno,1
+J. Baumgartlinger,K. Volland,1
+J. Baumgartlinger,P. Retsos,1
+B. Henrichs,J. Tah,1
+K. Volland,J. Brandt,1

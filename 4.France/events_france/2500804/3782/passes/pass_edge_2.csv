@@ -1,0 +1,64 @@
+Source,Target,Weight
+C. M'Bengue,O. Seln\u00e6s,7
+O. Seln\u00e6s,H. Ma\u00efga,4
+K. Monnet-Paquet,C. M'Bengue,4
+H. Ma\u00efga,R. Pierre-Gabriel,4
+O. Seln\u00e6s,K. Monnet-Paquet,4
+V. Pajot,C. M'Bengue,4
+A. S\u00f8derlund,O. Seln\u00e6s,3
+K. Monnet-Paquet,V. Pajot,3
+V. Pajot,K. Monnet-Paquet,3
+R. Pierre-Gabriel,J. Bamba,3
+L. Lacroix,V. Pajot,2
+O. Seln\u00e6s,R. Pierre-Gabriel,2
+S. Ruffier,V. Pajot,2
+C. M'Bengue,K. Monnet-Paquet,2
+H. Ma\u00efga,O. Seln\u00e6s,2
+K. Monnet-Paquet,O. Seln\u00e6s,2
+O. Seln\u00e6s,L. Lacroix,2
+J. Bamba,R. Pierre-Gabriel,2
+R. Pierre-Gabriel,K. Th\u00e9ophile Catherine,2
+J. Bamba,H. Ma\u00efga,2
+A. S\u00f8derlund,H. Ma\u00efga,2
+O. Seln\u00e6s,J. Bamba,2
+J. Bamba,O. Seln\u00e6s,2
+L. Lacroix,R. Pierre-Gabriel,2
+K. Th\u00e9ophile Catherine,V. Pajot,2
+V. Pajot,L. Lacroix,1
+V. Pajot,K. Th\u00e9ophile Catherine,1
+V. Pajot,H. Ma\u00efga,1
+H. Ma\u00efga,K. Th\u00e9ophile Catherine,1
+H. Ma\u00efga,L. Lacroix,1
+O. Seln\u00e6s,K. Th\u00e9ophile Catherine,1
+K. Th\u00e9ophile Catherine,A. S\u00f8derlund,1
+C. M'Bengue,A. S\u00f8derlund,1
+V. Pajot,R. Pierre-Gabriel,1
+R. Pierre-Gabriel,V. Pajot,1
+H. Ma\u00efga,C. M'Bengue,1
+J. Bamba,A. S\u00f8derlund,1
+K. Th\u00e9ophile Catherine,C. M'Bengue,1
+R. Pierre-Gabriel,L. Lacroix,1
+C. M'Bengue,H. Ma\u00efga,1
+R. Pierre-Gabriel,S. Ruffier,1
+R. Pierre-Gabriel,A. S\u00f8derlund,1
+C. M'Bengue,V. Pajot,1
+O. Seln\u00e6s,A. S\u00f8derlund,1
+O. Seln\u00e6s,C. M'Bengue,1
+L. Lacroix,C. M'Bengue,1
+H. Ma\u00efga,K. Monnet-Paquet,1
+H. Ma\u00efga,A. S\u00f8derlund,1
+A. S\u00f8derlund,L. Lacroix,1
+A. S\u00f8derlund,J. Bamba,1
+R. Pierre-Gabriel,C. M'Bengue,1
+R. Hamouma,O. Seln\u00e6s,1
+R. Pierre-Gabriel,H. Ma\u00efga,1
+S. Ruffier,J. Bamba,1
+S. Ruffier,A. S\u00f8derlund,1
+K. Th\u00e9ophile Catherine,S. Ruffier,1
+C. M'Bengue,S. Ruffier,1
+O. Seln\u00e6s,S. Ruffier,1
+K. Monnet-Paquet,K. Th\u00e9ophile Catherine,1
+L. Lacroix,S. Ruffier,1
+H. Ma\u00efga,J. Bamba,1
+S. Ruffier,O. Seln\u00e6s,1
+K. Th\u00e9ophile Catherine,H. Ma\u00efga,1

@@ -1,0 +1,22 @@
+Source,Target,Weight
+L. Stindl,T. Hazard,2
+L. Stindl,O. Wendt,2
+D. Zakaria,L. Stindl,2
+O. Wendt,J. Vestergaard,2
+M. Ginter,N. Elvedi,1
+N. Elvedi,L. Stindl,1
+J. Vestergaard,M. Ginter,1
+L. Stindl,D. Zakaria,1
+T. Hazard,L. Stindl,1
+T. Hazard,O. Wendt,1
+T. Hazard,D. Zakaria,1
+O. Wendt,L. Stindl,1
+N. Elvedi,I. Traor\u00e9,1
+J. Vestergaard,D. Zakaria,1
+I. Traor\u00e9,J. Vestergaard,1
+J. Vestergaard,L. Stindl,1
+L. Stindl,I. Traor\u00e9,1
+Y. Sommer,J. Vestergaard,1
+J. Vestergaard,O. Wendt,1
+I. Traor\u00e9,N. Elvedi,1
+O. Wendt,T. Hazard,1

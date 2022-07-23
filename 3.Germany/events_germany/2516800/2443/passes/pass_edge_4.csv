@@ -1,0 +1,77 @@
+Source,Target,Weight
+J. Pavlenka,I. Belfodil,8
+R. Bauer,J. Pavlenka,5
+T. Gebre Selassie,I. Belfodil,5
+T. Gebre Selassie,F. Bartels,5
+I. Belfodil,R. Bauer,5
+I. Belfodil,T. Gebre Selassie,5
+P. Bargfrede,R. Bauer,5
+F. Bartels,T. Gebre Selassie,4
+P. Bargfrede,F. Kainz,4
+I. Belfodil,F. Kainz,4
+T. Delaney,U. Garcia,4
+U. Garcia,N. Moisander,4
+F. Kainz,P. Bargfrede,4
+T. Gebre Selassie,P. Bargfrede,3
+P. Bargfrede,U. Garcia,3
+F. Kainz,T. Gebre Selassie,3
+R. Bauer,M. Veljkovic,3
+F. Bartels,P. Bargfrede,3
+R. Bauer,P. Bargfrede,3
+J. Pavlenka,T. Gebre Selassie,3
+M. Veljkovic,R. Bauer,3
+F. Kainz,F. Bartels,2
+F. Bartels,U. Garcia,2
+P. Bargfrede,I. Belfodil,2
+F. Bartels,F. Kainz,2
+P. Bargfrede,N. Moisander,2
+T. Gebre Selassie,R. Bauer,2
+N. Moisander,P. Bargfrede,2
+F. Kainz,R. Bauer,2
+T. Delaney,N. Moisander,2
+M. Veljkovic,P. Bargfrede,2
+R. Bauer,I. Belfodil,2
+T. Delaney,P. Bargfrede,2
+M. Veljkovic,J. Pavlenka,2
+N. Moisander,J. Pavlenka,2
+N. Moisander,F. Kainz,2
+U. Garcia,T. Delaney,2
+F. Kainz,T. Delaney,2
+T. Gebre Selassie,F. Kainz,2
+P. Bargfrede,T. Gebre Selassie,2
+U. Garcia,P. Bargfrede,2
+R. Bauer,T. Delaney,2
+P. Bargfrede,F. Bartels,2
+M. Veljkovic,T. Delaney,2
+T. Gebre Selassie,M. Veljkovic,2
+I. Belfodil,M. Veljkovic,1
+T. Delaney,J. Pavlenka,1
+M. Veljkovic,N. Moisander,1
+F. Kainz,I. Belfodil,1
+P. Bargfrede,M. Veljkovic,1
+T. Delaney,F. Bartels,1
+T. Delaney,F. Kainz,1
+J. Pavlenka,M. Veljkovic,1
+I. Belfodil,P. Bargfrede,1
+F. Kainz,J. Pavlenka,1
+U. Garcia,F. Kainz,1
+U. Garcia,J. Pavlenka,1
+N. Moisander,F. Bartels,1
+U. Garcia,R. Bauer,1
+T. Delaney,M. Veljkovic,1
+U. Garcia,F. Bartels,1
+F. Kainz,U. Garcia,1
+N. Moisander,T. Gebre Selassie,1
+I. Belfodil,F. Bartels,1
+J. Pavlenka,U. Garcia,1
+M. Veljkovic,U. Garcia,1
+F. Bartels,T. Delaney,1
+F. Bartels,J. Pavlenka,1
+N. Moisander,M. Veljkovic,1
+P. Bargfrede,T. Delaney,1
+I. Belfodil,T. Delaney,1
+R. Bauer,T. Gebre Selassie,1
+T. Gebre Selassie,T. Delaney,1
+R. Bauer,F. Kainz,1
+R. Bauer,F. Bartels,1
+F. Kainz,M. Veljkovic,1

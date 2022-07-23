@@ -1,0 +1,116 @@
+Source,Target,Weight
+C. Jallet,A. Lusamba,8
+M. Le Marchand,P. Burner,7
+Marlon,C. Jallet,6
+C. Jallet,A. Tameze,5
+P. Burner,M. Le Marchand,5
+M. Balotelli,C. Jallet,5
+A. Lusamba,C. Jallet,4
+P. Lees Melou,C. Jallet,4
+A. Tameze,W. Sneijder,4
+C. Jallet,M. Le Marchand,4
+W. Sneijder,A. Lusamba,4
+M. Le Marchand,Dante,4
+A. Tameze,Dante,4
+Dante,W. Sneijder,4
+Dante,N. Mendy,4
+A. Lusamba,Marlon,4
+P. Burner,Dante,4
+M. Le Marchand,P. Lees Melou,3
+Dante,M. Le Marchand,3
+N. Mendy,P. Lees Melou,3
+A. Lusamba,W. Sneijder,3
+C. Jallet,M. Balotelli,3
+Marlon,Dante,3
+W. Sneijder,A. Pl\u00e9a,3
+A. Lusamba,P. Burner,3
+N. Mendy,Marlon,3
+A. Lusamba,A. Tameze,3
+M. Le Marchand,N. Mendy,3
+P. Burner,W. Sneijder,3
+P. Lees Melou,M. Le Marchand,3
+P. Burner,A. Lusamba,3
+W. Ben\u00edtez,Dante,3
+M. Le Marchand,W. Ben\u00edtez,3
+M. Balotelli,P. Burner,3
+W. Ben\u00edtez,C. Jallet,2
+W. Ben\u00edtez,M. Le Marchand,2
+W. Sneijder,M. Balotelli,2
+A. Lusamba,M. Le Marchand,2
+Dante,P. Burner,2
+C. Jallet,W. Ben\u00edtez,2
+Dante,P. Lees Melou,2
+P. Lees Melou,Dante,2
+M. Le Marchand,M. Balotelli,2
+Dante,Marlon,2
+C. Jallet,P. Lees Melou,2
+Dante,A. Tameze,2
+A. Tameze,P. Burner,2
+Marlon,W. Ben\u00edtez,2
+A. Pl\u00e9a,A. Lusamba,2
+A. Lusamba,N. Mendy,2
+A. Tameze,M. Le Marchand,2
+A. Pl\u00e9a,A. Saint-Maximin,2
+W. Sneijder,Marlon,2
+Marlon,P. Lees Melou,2
+M. Le Marchand,Marlon,2
+P. Burner,A. Pl\u00e9a,2
+M. Balotelli,Marlon,2
+W. Sneijder,C. Jallet,2
+A. Saint-Maximin,C. Jallet,2
+W. Sneijder,M. Le Marchand,2
+M. Le Marchand,C. Jallet,2
+W. Sneijder,P. Burner,2
+M. Balotelli,P. Lees Melou,2
+A. Pl\u00e9a,M. Le Marchand,2
+W. Ben\u00edtez,M. Balotelli,2
+P. Lees Melou,W. Ben\u00edtez,2
+P. Lees Melou,A. Lusamba,2
+P. Burner,M. Balotelli,2
+Dante,C. Jallet,1
+P. Lees Melou,P. Burner,1
+M. Balotelli,M. Le Marchand,1
+A. Saint-Maximin,W. Sneijder,1
+Marlon,M. Balotelli,1
+N. Mendy,Dante,1
+C. Jallet,N. Mendy,1
+W. Ben\u00edtez,A. Tameze,1
+A. Lusamba,A. Pl\u00e9a,1
+W. Sneijder,A. Saint-Maximin,1
+A. Saint-Maximin,A. Pl\u00e9a,1
+A. Tameze,A. Lusamba,1
+M. Le Marchand,A. Pl\u00e9a,1
+C. Jallet,Dante,1
+Marlon,A. Tameze,1
+M. Le Marchand,A. Lusamba,1
+N. Mendy,W. Sneijder,1
+M. Le Marchand,W. Sneijder,1
+Marlon,M. Le Marchand,1
+C. Jallet,A. Saint-Maximin,1
+A. Lusamba,Dante,1
+P. Burner,A. Tameze,1
+A. Pl\u00e9a,W. Ben\u00edtez,1
+A. Saint-Maximin,M. Le Marchand,1
+W. Ben\u00edtez,P. Burner,1
+P. Lees Melou,M. Balotelli,1
+A. Pl\u00e9a,W. Sneijder,1
+Dante,W. Ben\u00edtez,1
+Marlon,N. Mendy,1
+A. Lusamba,P. Lees Melou,1
+P. Burner,W. Ben\u00edtez,1
+W. Sneijder,P. Lees Melou,1
+W. Ben\u00edtez,P. Lees Melou,1
+P. Lees Melou,W. Sneijder,1
+P. Lees Melou,Marlon,1
+N. Mendy,M. Le Marchand,1
+M. Balotelli,W. Sneijder,1
+Dante,A. Lusamba,1
+W. Sneijder,A. Tameze,1
+A. Tameze,A. Pl\u00e9a,1
+C. Jallet,Marlon,1
+A. Tameze,W. Ben\u00edtez,1
+A. Pl\u00e9a,A. Tameze,1
+N. Mendy,A. Lusamba,1
+N. Mendy,M. Balotelli,1
+Dante,A. Saint-Maximin,1
+W. Ben\u00edtez,A. Pl\u00e9a,1

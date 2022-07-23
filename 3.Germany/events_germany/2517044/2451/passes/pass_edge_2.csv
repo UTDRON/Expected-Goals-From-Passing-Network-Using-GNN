@@ -1,0 +1,28 @@
+Source,Target,Weight
+K. Casteels,D. Origi,2
+K. Casteels,R. Knoche,1
+R. Knoche,P. Verhaegh,1
+P. Verhaegh,D. Origi,1
+R. Steffen,P. Verhaegh,1
+William,P. Verhaegh,1
+J. Brekalo,J. Brooks,1
+J. Brekalo,P. Verhaegh,1
+P. Verhaegh,K. Casteels,1
+R. Knoche,D. Origi,1
+William,R. Knoche,1
+R. Steffen,M. Arnold,1
+P. Verhaegh,Y. Mall\u0131,1
+P. Verhaegh,J. Brekalo,1
+Y. Mall\u0131,R. Steffen,1
+R. Knoche,K. Casteels,1
+P. Verhaegh,William,1
+J. Brooks,J. Brekalo,1
+J. Guilavogui,R. Knoche,1
+D. Origi,Y. Mall\u0131,1
+D. Origi,M. Arnold,1
+M. Arnold,K. Casteels,1
+Y. Mall\u0131,D. Origi,1
+D. Origi,J. Brooks,1
+J. Brooks,J. Guilavogui,1
+D. Origi,P. Verhaegh,1
+M. Arnold,R. Steffen,1

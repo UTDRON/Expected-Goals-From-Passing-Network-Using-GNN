@@ -1,0 +1,21 @@
+Source,Target,Weight
+D. Kohr,K. Volland,2
+A. Mehmedi,K. Havertz,2
+L. Bailey,Wendell,2
+Wendell,D. Kohr,2
+L. Bailey,C. Ar\u00e1nguiz,1
+J. Tah,L. Bailey,1
+K. Havertz,D. Kohr,1
+L. Bender,K. Volland,1
+K. Volland,Wendell,1
+C. Ar\u00e1nguiz,Wendell,1
+Wendell,K. Volland,1
+D. Kohr,J. Brandt,1
+K. Volland,B. Leno,1
+K. Volland,L. Bailey,1
+B. Leno,A. Mehmedi,1
+Wendell,L. Bender,1
+J. Brandt,D. Kohr,1
+K. Volland,J. Tah,1
+K. Volland,A. Mehmedi,1
+K. Havertz,K. Volland,1

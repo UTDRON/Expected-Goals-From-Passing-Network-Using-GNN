@@ -1,0 +1,69 @@
+Source,Target,Weight
+P. Martinez,Y. Salmier,7
+Y. Salmier,P. Martinez,6
+K. Lala,B. Corgnet,6
+J. Aholou,K. Lala,6
+P. Martinez,J. Martin,5
+K. Lala,K. Mangane,5
+K. Mangane,K. Lala,5
+K. Lala,J. Aholou,5
+J. Martin,P. Martinez,5
+K. Lala,Nuno Da Costa,4
+J. Martin,K. Lala,4
+Y. Salmier,J. Martin,3
+K. Mangane,J. Aholou,3
+J. Martin,J. Aholou,3
+J. Aholou,Y. Salmier,3
+K. Mangane,P. Martinez,3
+Nuno Da Costa,I. Sacko,3
+P. Martinez,I. Saadi,2
+I. Saadi,I. Sacko,2
+B. Corgnet,P. Martinez,2
+I. Sacko,J. Martin,2
+J. Aholou,J. Martin,2
+K. Mangane,Nuno Da Costa,2
+B. Corgnet,I. Saadi,2
+K. Lala,B. Kamara,2
+Y. Salmier,K. Mangane,2
+J. Martin,Y. Salmier,2
+Nuno Da Costa,B. Corgnet,2
+J. Aholou,K. Mangane,2
+Nuno Da Costa,K. Lala,2
+B. Corgnet,Nuno Da Costa,2
+B. Corgnet,K. Lala,2
+P. Martinez,K. Lala,2
+K. Lala,Y. Salmier,1
+I. Saadi,B. Kamara,1
+B. Kamara,P. Martinez,1
+K. Mangane,I. Saadi,1
+Y. Salmier,J. Aholou,1
+I. Saadi,K. Mangane,1
+Nuno Da Costa,J. Martin,1
+P. Martinez,B. Kamara,1
+B. Corgnet,J. Martin,1
+I. Saadi,B. Corgnet,1
+Y. Salmier,B. Kamara,1
+Nuno Da Costa,I. Saadi,1
+I. Saadi,J. Martin,1
+I. Sacko,K. Lala,1
+I. Sacko,P. Martinez,1
+I. Saadi,Nuno Da Costa,1
+I. Sacko,K. Mangane,1
+J. Martin,I. Sacko,1
+B. Kamara,K. Mangane,1
+K. Mangane,Y. Salmier,1
+B. Kamara,J. Aholou,1
+J. Aholou,P. Martinez,1
+B. Kamara,Y. Salmier,1
+P. Martinez,I. Sacko,1
+I. Sacko,Nuno Da Costa,1
+Y. Salmier,I. Saadi,1
+Y. Salmier,B. Corgnet,1
+I. Sacko,Y. Salmier,1
+B. Corgnet,K. Mangane,1
+K. Lala,J. Martin,1
+Y. Salmier,I. Sacko,1
+B. Kamara,K. Lala,1
+I. Sacko,J. Aholou,1
+J. Martin,K. Mangane,1
+P. Martinez,K. Mangane,1

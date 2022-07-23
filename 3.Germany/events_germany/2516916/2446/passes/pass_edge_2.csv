@@ -1,0 +1,93 @@
+Source,Target,Weight
+S. Bender,Wendell,13
+L. Bender,J. Tah,12
+J. Tah,L. Bender,12
+Wendell,L. Bailey,8
+C. Ar\u00e1nguiz,J. Brandt,7
+S. Bender,J. Tah,7
+J. Tah,B. Leno,7
+J. Brandt,C. Ar\u00e1nguiz,7
+J. Tah,S. Bender,7
+L. Bender,J. Brandt,7
+J. Brandt,J. Tah,6
+L. Bailey,Wendell,6
+Wendell,S. Bender,6
+Wendell,C. Ar\u00e1nguiz,6
+L. Bender,C. Ar\u00e1nguiz,6
+B. Leno,J. Tah,6
+C. Ar\u00e1nguiz,L. Bender,6
+C. Ar\u00e1nguiz,S. Bender,5
+J. Brandt,L. Bender,5
+C. Ar\u00e1nguiz,L. Alario,4
+C. Ar\u00e1nguiz,J. Baumgartlinger,4
+Wendell,K. Volland,4
+J. Tah,J. Baumgartlinger,3
+J. Brandt,Wendell,3
+J. Tah,J. Brandt,3
+J. Baumgartlinger,Wendell,3
+J. Tah,D. Kohr,3
+L. Alario,C. Ar\u00e1nguiz,3
+K. Volland,L. Bailey,3
+D. Kohr,S. Bender,3
+Wendell,D. Kohr,2
+J. Baumgartlinger,K. Volland,2
+J. Brandt,L. Bailey,2
+L. Bailey,J. Brandt,2
+S. Bender,B. Leno,2
+B. Leno,L. Bailey,2
+J. Baumgartlinger,L. Bender,2
+L. Alario,J. Tah,2
+S. Bender,D. Kohr,2
+J. Tah,L. Alario,2
+J. Baumgartlinger,S. Bender,2
+J. Baumgartlinger,J. Tah,2
+D. Kohr,J. Tah,2
+B. Leno,S. Bender,2
+L. Alario,J. Brandt,2
+K. Volland,Wendell,2
+J. Tah,C. Ar\u00e1nguiz,2
+L. Bender,J. Baumgartlinger,2
+J. Baumgartlinger,J. Brandt,2
+L. Alario,L. Bender,2
+L. Bailey,S. Bender,2
+S. Bender,C. Ar\u00e1nguiz,2
+D. Kohr,J. Brandt,2
+J. Brandt,J. Baumgartlinger,2
+L. Bailey,J. Baumgartlinger,1
+C. Ar\u00e1nguiz,L. Bailey,1
+L. Bailey,D. Kohr,1
+Wendell,L. Alario,1
+B. Leno,L. Bender,1
+S. Bender,J. Baumgartlinger,1
+L. Alario,B. Leno,1
+J. Baumgartlinger,L. Alario,1
+K. Volland,L. Alario,1
+B. Leno,C. Ar\u00e1nguiz,1
+K. Volland,J. Brandt,1
+D. Kohr,B. Leno,1
+K. Volland,J. Tah,1
+L. Bailey,L. Bender,1
+L. Bailey,B. Leno,1
+L. Bailey,K. Volland,1
+J. Brandt,K. Volland,1
+L. Bender,D. Kohr,1
+Wendell,L. Bender,1
+L. Bender,L. Alario,1
+L. Bender,Wendell,1
+C. Ar\u00e1nguiz,K. Volland,1
+L. Alario,J. Baumgartlinger,1
+S. Bender,J. Brandt,1
+B. Leno,Wendell,1
+K. Volland,D. Kohr,1
+L. Bailey,J. Tah,1
+J. Brandt,L. Alario,1
+J. Brandt,S. Bender,1
+J. Tah,Wendell,1
+Wendell,J. Brandt,1
+K. Volland,C. Ar\u00e1nguiz,1
+L. Bender,S. Bender,1
+C. Ar\u00e1nguiz,J. Tah,1
+D. Kohr,K. Volland,1
+S. Bender,L. Bailey,1
+Wendell,B. Leno,1
+L. Bailey,C. Ar\u00e1nguiz,1

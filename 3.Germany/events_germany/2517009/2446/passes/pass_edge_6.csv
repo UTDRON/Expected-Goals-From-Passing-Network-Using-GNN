@@ -1,0 +1,18 @@
+Source,Target,Weight
+K. Havertz,K. Volland,2
+K. Volland,C. Ar\u00e1nguiz,1
+T. Jedvaj,K. Havertz,1
+T. Jedvaj,P. Retsos,1
+P. Retsos,T. Jedvaj,1
+B. Henrichs,D. Kohr,1
+C. Ar\u00e1nguiz,D. Kohr,1
+C. Ar\u00e1nguiz,P. Retsos,1
+D. Kohr,K. Havertz,1
+P. Retsos,S. Bender,1
+K. Volland,K. Havertz,1
+S. Bender,J. Brandt,1
+S. Bender,B. Henrichs,1
+J. Brandt,S. Bender,1
+J. Brandt,B. Henrichs,1
+D. Kohr,T. Jedvaj,1
+B. Henrichs,C. Ar\u00e1nguiz,1

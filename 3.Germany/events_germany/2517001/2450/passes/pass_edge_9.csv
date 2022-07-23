@@ -1,0 +1,44 @@
+Source,Target,Weight
+L. Holtby,Douglas Santos,4
+R. van Drongelen,L. Holtby,4
+L. Holtby,R. van Drongelen,4
+A. Ekdal,L. Holtby,3
+L. Holtby,G. Jung,3
+L. Holtby,A. Ekdal,2
+G. Sakai,A. Ekdal,2
+F. Kosti\u0107,A. Ekdal,2
+G. Sakai,F. Kosti\u0107,2
+G. Jung,A. Ekdal,2
+T. Ito,L. Holtby,2
+A. Hunt,G. Sakai,2
+A. Ekdal,G. Sakai,2
+Douglas Santos,L. Holtby,2
+R. van Drongelen,Douglas Santos,2
+L. Holtby,T. Ito,2
+A. Ekdal,R. van Drongelen,2
+Douglas Santos,A. Ekdal,2
+A. Ekdal,F. Kosti\u0107,2
+Douglas Santos,G. Sakai,1
+G. Jung,G. Sakai,1
+F. Kosti\u0107,G. Sakai,1
+R. van Drongelen,T. Ito,1
+J. Pollersbeck,L. Holtby,1
+L. Waldschmidt,L. Holtby,1
+R. van Drongelen,A. Hunt,1
+A. Ekdal,J. Pollersbeck,1
+G. Jung,A. Hunt,1
+G. Jung,L. Holtby,1
+J. Pollersbeck,R. van Drongelen,1
+G. Sakai,L. Holtby,1
+L. Holtby,J. Pollersbeck,1
+G. Sakai,G. Jung,1
+A. Hunt,L. Holtby,1
+L. Holtby,G. Sakai,1
+F. Kosti\u0107,L. Holtby,1
+G. Sakai,A. Hunt,1
+Douglas Santos,R. van Drongelen,1
+R. van Drongelen,J. Pollersbeck,1
+T. Ito,R. van Drongelen,1
+J. Pollersbeck,G. Jung,1
+G. Jung,R. van Drongelen,1
+R. van Drongelen,G. Jung,1

@@ -1,0 +1,67 @@
+Source,Target,Weight
+Diego Carlos,N. Pallois,5
+N. Pallois,Diego Carlos,5
+N. Pallois,Lucas Lima,4
+Diego Carlos,R. Krhin,4
+Lucas Lima,A. Tour\u00e9,4
+A. Tour\u00e9,R. Krhin,3
+A. Tour\u00e9,V. Rongier,3
+R. Krhin,A. Thomasson,3
+L. Dubois,R. Krhin,3
+V. Rongier,L. Dubois,3
+Y. El Ghanassy,L. Dubois,2
+Y. El Ghanassy,V. Rongier,2
+L. Dubois,A. Tour\u00e9,2
+Lucas Lima,N. Pallois,2
+Lucas Lima,A. Thomasson,2
+A. Thomasson,Lucas Lima,2
+N. Pallois,E. Sala,2
+V. Rongier,Diego Carlos,2
+Lucas Lima,V. Rongier,2
+A. Thomasson,Y. El Ghanassy,2
+R. Krhin,N. Pallois,2
+Diego Carlos,L. Dubois,2
+Lucas Lima,Y. El Ghanassy,2
+V. Rongier,Y. El Ghanassy,2
+Y. El Ghanassy,Lucas Lima,2
+L. Dubois,E. Sala,2
+L. Dubois,Diego Carlos,2
+A. Thomasson,R. Krhin,2
+E. Sala,Diego Carlos,2
+Lucas Lima,E. Sala,2
+R. Krhin,L. Dubois,2
+A. Tour\u00e9,N. Pallois,2
+R. Krhin,Diego Carlos,2
+A. Tour\u00e9,Lucas Lima,1
+R. Krhin,V. Rongier,1
+E. Sala,L. Dubois,1
+L. Dubois,Lucas Lima,1
+A. Tour\u00e9,Y. El Ghanassy,1
+Diego Carlos,Lucas Lima,1
+E. Sala,A. Thomasson,1
+R. Krhin,A. Tour\u00e9,1
+L. Dubois,A. Thomasson,1
+L. Dubois,V. Rongier,1
+N. Pallois,A. Tour\u00e9,1
+E. Sala,Y. El Ghanassy,1
+E. Sala,N. Pallois,1
+Diego Carlos,Y. El Ghanassy,1
+Y. El Ghanassy,A. Tour\u00e9,1
+A. Tour\u00e9,L. Dubois,1
+N. Pallois,V. Rongier,1
+A. Thomasson,N. Pallois,1
+Diego Carlos,C. T\u0103t\u0103ru\u0219anu,1
+Y. El Ghanassy,Diego Carlos,1
+V. Rongier,E. Sala,1
+N. Pallois,A. Thomasson,1
+E. Sala,Lucas Lima,1
+C. T\u0103t\u0103ru\u0219anu,L. Dubois,1
+C. T\u0103t\u0103ru\u0219anu,Lucas Lima,1
+E. Sala,A. Tour\u00e9,1
+V. Rongier,Lucas Lima,1
+C. T\u0103t\u0103ru\u0219anu,Diego Carlos,1
+A. Thomasson,C. T\u0103t\u0103ru\u0219anu,1
+R. Krhin,C. T\u0103t\u0103ru\u0219anu,1
+V. Rongier,N. Pallois,1
+Y. El Ghanassy,E. Sala,1
+Diego Carlos,A. Tour\u00e9,1

@@ -1,0 +1,76 @@
+Source,Target,Weight
+N. Elvedi,M. Ginter,10
+M. Ginter,N. Elvedi,8
+O. Wendt,N. Elvedi,7
+M. Ginter,Y. Sommer,6
+Y. Sommer,N. Elvedi,5
+Y. Sommer,M. Ginter,5
+T. Strobl,M. Ginter,5
+N. Elvedi,O. Wendt,5
+M. Ginter,T. Strobl,5
+M. Cuisance,M. Ginter,4
+T. Jantschke,M. Ginter,4
+O. Wendt,T. Hazard,4
+Raffael,O. Wendt,4
+T. Strobl,M. Cuisance,4
+J. Drmic,M. Cuisance,4
+T. Hazard,O. Wendt,4
+M. Ginter,M. Cuisance,4
+N. Elvedi,Y. Sommer,4
+T. Strobl,Y. Sommer,4
+M. Cuisance,T. Jantschke,4
+T. Hazard,Raffael,3
+M. Cuisance,N. Elvedi,3
+J. Hofmann,T. Strobl,3
+T. Jantschke,J. Hofmann,3
+M. Ginter,Raffael,3
+Raffael,T. Strobl,2
+T. Strobl,J. Hofmann,2
+O. Wendt,J. Drmic,2
+M. Ginter,T. Jantschke,2
+J. Hofmann,O. Wendt,2
+T. Strobl,T. Hazard,2
+O. Wendt,Raffael,2
+T. Hazard,T. Strobl,2
+Raffael,J. Drmic,2
+N. Elvedi,T. Strobl,2
+T. Jantschke,T. Hazard,2
+N. Elvedi,T. Hazard,2
+M. Cuisance,O. Wendt,2
+M. Ginter,J. Drmic,2
+M. Cuisance,T. Strobl,2
+Y. Sommer,T. Strobl,2
+Y. Sommer,J. Drmic,2
+T. Hazard,J. Drmic,2
+J. Drmic,O. Wendt,2
+T. Hazard,N. Elvedi,1
+O. Wendt,M. Ginter,1
+M. Cuisance,Y. Sommer,1
+O. Wendt,Y. Sommer,1
+J. Drmic,T. Hazard,1
+Raffael,Y. Sommer,1
+Y. Sommer,T. Jantschke,1
+Raffael,M. Ginter,1
+J. Drmic,T. Strobl,1
+M. Cuisance,T. Hazard,1
+Y. Sommer,Raffael,1
+J. Drmic,M. Ginter,1
+T. Hazard,Y. Sommer,1
+N. Elvedi,J. Hofmann,1
+Y. Sommer,M. Cuisance,1
+T. Strobl,J. Drmic,1
+J. Hofmann,T. Jantschke,1
+J. Hofmann,M. Cuisance,1
+O. Wendt,T. Jantschke,1
+J. Drmic,Raffael,1
+Y. Sommer,T. Hazard,1
+J. Drmic,T. Jantschke,1
+M. Ginter,J. Hofmann,1
+T. Jantschke,N. Elvedi,1
+N. Elvedi,Raffael,1
+O. Wendt,M. Cuisance,1
+Raffael,T. Hazard,1
+T. Strobl,T. Jantschke,1
+O. Wendt,T. Strobl,1
+T. Strobl,O. Wendt,1
+T. Jantschke,M. Cuisance,1

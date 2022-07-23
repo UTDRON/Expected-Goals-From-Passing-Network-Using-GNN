@@ -1,0 +1,77 @@
+Source,Target,Weight
+Y. Tielemans,R. Ghezzal,5
+Fabinho,S. Joveti\u0107,5
+Fabinho,Jemerson,5
+Jorge,Fabinho,5
+R. Ghezzal,Fabinho,3
+Fabinho,Jorge,3
+S. Joveti\u0107,Fabinho,3
+A. Tour\u00e9,K. Glik,3
+Jemerson,Fabinho,3
+Jemerson,K. Glik,3
+R. Ghezzal,K. Glik,3
+Jorge,B. Keita,3
+A. Tour\u00e9,R. Ghezzal,3
+Y. Tielemans,Jorge,3
+R. Falcao,Y. Tielemans,3
+B. Keita,Fabinho,2
+A. Tour\u00e9,Y. Tielemans,2
+B. Keita,S. Joveti\u0107,2
+S. Joveti\u0107,Y. Tielemans,2
+K. Glik,Fabinho,2
+K. Glik,Jemerson,2
+Fabinho,R. Ghezzal,2
+R. Ghezzal,Y. Tielemans,2
+Y. Tielemans,S. Joveti\u0107,2
+K. Glik,R. Ghezzal,2
+A. Raggi,K. Glik,2
+R. Ghezzal,A. Tour\u00e9,2
+K. Glik,A. Tour\u00e9,2
+S. Joveti\u0107,R. Ghezzal,2
+Jorge,Y. Tielemans,2
+D. Suba\u0161i\u0107,Y. Tielemans,2
+R. Falcao,A. Tour\u00e9,2
+S. Joveti\u0107,R. Falcao,2
+Fabinho,D. Suba\u0161i\u0107,2
+K. Glik,Jorge,2
+Y. Tielemans,Fabinho,2
+Jorge,K. Glik,2
+Y. Tielemans,K. Glik,1
+R. Falcao,Jorge,1
+A. Tour\u00e9,Jemerson,1
+K. Glik,B. Keita,1
+Fabinho,B. Keita,1
+R. Ghezzal,Jorge,1
+K. Glik,A. Raggi,1
+R. Ghezzal,A. Raggi,1
+Fabinho,K. Glik,1
+Fabinho,Y. Tielemans,1
+K. Glik,D. Suba\u0161i\u0107,1
+B. Keita,Y. Tielemans,1
+Y. Tielemans,A. Tour\u00e9,1
+Jemerson,Y. Tielemans,1
+B. Keita,Jorge,1
+S. Joveti\u0107,B. Keita,1
+D. Suba\u0161i\u0107,B. Keita,1
+S. Joveti\u0107,A. Tour\u00e9,1
+Jorge,Jemerson,1
+D. Suba\u0161i\u0107,K. Glik,1
+Y. Tielemans,D. Suba\u0161i\u0107,1
+A. Raggi,Fabinho,1
+R. Ghezzal,S. Joveti\u0107,1
+Fabinho,A. Raggi,1
+K. Glik,S. Joveti\u0107,1
+Jemerson,Jorge,1
+Jorge,R. Falcao,1
+R. Falcao,R. Ghezzal,1
+K. Glik,Y. Tielemans,1
+Y. Tielemans,R. Falcao,1
+B. Keita,A. Tour\u00e9,1
+R. Ghezzal,D. Suba\u0161i\u0107,1
+R. Ghezzal,R. Falcao,1
+K. Glik,R. Falcao,1
+R. Falcao,S. Joveti\u0107,1
+S. Joveti\u0107,Jorge,1
+Jemerson,R. Falcao,1
+Fabinho,R. Falcao,1
+D. Suba\u0161i\u0107,Fabinho,1

@@ -1,0 +1,53 @@
+Source,Target,Weight
+R. Knoche,F. Uduokhai,4
+William,R. Steffen,3
+J. Guilavogui,R. Knoche,3
+J. Guilavogui,P. Verhaegh,3
+R. Knoche,K. Casteels,3
+R. Knoche,William,2
+J. B\u0142aszczykowski,J. Guilavogui,2
+K. Casteels,R. Knoche,2
+F. Uduokhai,J. B\u0142aszczykowski,2
+F. Uduokhai,J. Guilavogui,2
+William,R. Bazoer,2
+R. Steffen,William,2
+R. Bazoer,R. Knoche,2
+P. Verhaegh,F. Uduokhai,2
+P. Verhaegh,M. Arnold,2
+F. Uduokhai,P. Verhaegh,2
+R. Knoche,R. Steffen,1
+R. Steffen,D. Origi,1
+P. Verhaegh,R. Bazoer,1
+P. Verhaegh,J. B\u0142aszczykowski,1
+M. Arnold,J. B\u0142aszczykowski,1
+K. Casteels,M. Arnold,1
+P. Verhaegh,J. Guilavogui,1
+R. Knoche,J. B\u0142aszczykowski,1
+K. Casteels,J. Guilavogui,1
+J. B\u0142aszczykowski,R. Steffen,1
+F. Uduokhai,William,1
+D. Origi,R. Bazoer,1
+F. Uduokhai,M. Arnold,1
+M. Arnold,J. Guilavogui,1
+J. B\u0142aszczykowski,D. Origi,1
+M. Arnold,William,1
+R. Bazoer,M. Arnold,1
+J. B\u0142aszczykowski,F. Uduokhai,1
+F. Uduokhai,R. Bazoer,1
+R. Knoche,P. Verhaegh,1
+F. Uduokhai,K. Casteels,1
+R. Bazoer,J. Guilavogui,1
+P. Verhaegh,R. Knoche,1
+M. Arnold,R. Bazoer,1
+William,F. Uduokhai,1
+R. Steffen,R. Knoche,1
+William,M. Arnold,1
+J. Guilavogui,J. B\u0142aszczykowski,1
+J. B\u0142aszczykowski,R. Knoche,1
+M. Arnold,R. Knoche,1
+D. Origi,R. Knoche,1
+M. Arnold,P. Verhaegh,1
+R. Steffen,K. Casteels,1
+R. Bazoer,F. Uduokhai,1
+J. Guilavogui,F. Uduokhai,1
+K. Casteels,William,1

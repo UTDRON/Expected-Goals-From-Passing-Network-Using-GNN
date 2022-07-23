@@ -1,0 +1,31 @@
+Source,Target,Weight
+M. Sanson,F. Thauvin,5
+F. Thauvin,H. Sakai,3
+H. Sakai,A. Zambo Anguissa,3
+A. Zambo Anguissa,M. Sanson,2
+J. Amavi,L. Ocampos,2
+A. Rami,H. Sakai,2
+L. Ocampos,M. Sanson,2
+M. Sanson,A. Rami,2
+A. Zambo Anguissa,F. Thauvin,2
+J. Amavi,M. Sanson,1
+A. Zambo Anguissa,H. Sakai,1
+A. Zambo Anguissa,A. Rami,1
+L. Ocampos,A. Zambo Anguissa,1
+H. Sakai,A. Rami,1
+M. Sanson,H. Sakai,1
+H. Sakai,M. Sanson,1
+A. Rami,L. Ocampos,1
+M. Lopez,F. Thauvin,1
+F. Thauvin,M. Sanson,1
+H. Sakai,J. Amavi,1
+F. Thauvin,L. Ocampos,1
+K. Mitroglou,M. Lopez,1
+F. Thauvin,M. Lopez,1
+F. Thauvin,Rolando,1
+A. Rami,M. Sanson,1
+H. Sakai,K. Mitroglou,1
+Rolando,S. Mandanda,1
+S. Mandanda,J. Amavi,1
+M. Lopez,A. Zambo Anguissa,1
+L. Ocampos,J. Amavi,1

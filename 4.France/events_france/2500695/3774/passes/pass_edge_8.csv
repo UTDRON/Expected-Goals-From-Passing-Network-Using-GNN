@@ -1,0 +1,78 @@
+Source,Target,Weight
+R. Bensebaini,L. Baal,9
+J. Gnagnon,R. Bensebaini,8
+H. Traor\u00e9,B. Andr\u00e9,5
+B. Bourigeaud,H. Traor\u00e9,5
+B. Andr\u00e9,A. Hunou,5
+L. Baal,B. Bourigeaud,5
+B. Andr\u00e9,L. Baal,5
+R. Bensebaini,B. Andr\u00e9,4
+R. Bensebaini,J. Gnagnon,4
+A. Hunou,B. Andr\u00e9,4
+B. Bourigeaud,B. Andr\u00e9,4
+J. Lea Siliki,L. Baal,4
+F. Mubele,L. Baal,3
+H. Traor\u00e9,B. Bourigeaud,3
+L. Baal,R. Bensebaini,3
+B. Andr\u00e9,B. Bourigeaud,3
+H. Traor\u00e9,A. Hunou,3
+F. Mubele,H. Traor\u00e9,3
+H. Traor\u00e9,J. Gnagnon,3
+A. Hunou,H. Traor\u00e9,3
+B. Andr\u00e9,H. Traor\u00e9,3
+B. Bourigeaud,R. Bensebaini,3
+L. Baal,F. Maouassa,3
+B. Bourigeaud,J. Gnagnon,3
+L. Baal,F. Mubele,3
+B. Andr\u00e9,R. Bensebaini,3
+J. Gnagnon,B. Bourigeaud,3
+L. Baal,B. Andr\u00e9,3
+B. Bourigeaud,F. Mubele,2
+R. Bensebaini,B. Bourigeaud,2
+L. Baal,A. Diallo,2
+J. Gnagnon,H. Traor\u00e9,2
+F. Maouassa,R. Bensebaini,2
+F. Mubele,B. Andr\u00e9,2
+L. Baal,I. Sarr,2
+J. Lea Siliki,R. Bensebaini,2
+B. Andr\u00e9,F. Mubele,2
+B. Bourigeaud,J. Lea Siliki,2
+B. Andr\u00e9,J. Gnagnon,2
+H. Traor\u00e9,F. Mubele,2
+L. Baal,J. Lea Siliki,2
+J. Lea Siliki,B. Bourigeaud,2
+A. Hunou,B. Bourigeaud,2
+H. Traor\u00e9,J. Tell,1
+I. Sarr,H. Traor\u00e9,1
+J. Tell,B. Andr\u00e9,1
+F. Mubele,I. Sarr,1
+F. Maouassa,B. Andr\u00e9,1
+B. Andr\u00e9,J. Tell,1
+R. Bensebaini,A. Hunou,1
+J. Tell,J. Lea Siliki,1
+F. Mubele,A. Hunou,1
+R. Bensebaini,F. Mubele,1
+F. Mubele,J. Gnagnon,1
+B. Bourigeaud,J. Tell,1
+I. Sarr,R. Bensebaini,1
+F. Mubele,J. Lea Siliki,1
+J. Gnagnon,F. Mubele,1
+A. Diallo,J. Lea Siliki,1
+F. Maouassa,L. Baal,1
+H. Traor\u00e9,L. Baal,1
+B. Andr\u00e9,I. Sarr,1
+I. Sarr,B. Bourigeaud,1
+R. Bensebaini,H. Traor\u00e9,1
+A. Diallo,J. Gnagnon,1
+A. Hunou,F. Mubele,1
+L. Baal,A. Hunou,1
+B. Andr\u00e9,F. Maouassa,1
+R. Bensebaini,J. Lea Siliki,1
+A. Hunou,L. Baal,1
+J. Gnagnon,B. Andr\u00e9,1
+B. Andr\u00e9,J. Lea Siliki,1
+J. Lea Siliki,B. Andr\u00e9,1
+B. Bourigeaud,A. Hunou,1
+I. Sarr,F. Mubele,1
+A. Hunou,J. Gnagnon,1
+F. Mubele,R. Bensebaini,1

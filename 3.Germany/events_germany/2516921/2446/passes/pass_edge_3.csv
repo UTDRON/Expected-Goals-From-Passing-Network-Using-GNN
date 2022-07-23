@@ -1,0 +1,14 @@
+Source,Target,Weight
+S. Bender,D. Kohr,2
+B. Henrichs,K. Bellarabi,2
+L. Bailey,S. Bender,1
+K. Bellarabi,B. Henrichs,1
+D. Kohr,S. Bender,1
+L. Alario,Wendell,1
+Wendell,S. Bender,1
+K. Bellarabi,L. Alario,1
+Wendell,L. Bailey,1
+D. Kohr,J. Tah,1
+J. Tah,Wendell,1
+S. Bender,J. Tah,1
+J. Tah,B. Henrichs,1

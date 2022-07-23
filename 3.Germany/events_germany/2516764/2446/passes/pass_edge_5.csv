@@ -1,0 +1,36 @@
+Source,Target,Weight
+B. Henrichs,Wendell,2
+Wendell,B. Henrichs,2
+K. Volland,K. Havertz,1
+Wendell,J. Tah,1
+S. Bender,J. Tah,1
+K. Havertz,B. Henrichs,1
+D. Kohr,B. Henrichs,1
+B. Henrichs,D. Kohr,1
+J. Tah,B. Henrichs,1
+S. Bender,C. Ar\u00e1nguiz,1
+B. Henrichs,C. Ar\u00e1nguiz,1
+A. Mehmedi,B. Leno,1
+S. Bender,A. Mehmedi,1
+B. Henrichs,K. Volland,1
+A. Mehmedi,C. Ar\u00e1nguiz,1
+C. Ar\u00e1nguiz,K. Havertz,1
+D. Kohr,S. Bender,1
+A. Mehmedi,S. Bender,1
+K. Volland,Wendell,1
+Wendell,K. Havertz,1
+J. Tah,A. Mehmedi,1
+C. Ar\u00e1nguiz,D. Kohr,1
+C. Ar\u00e1nguiz,Wendell,1
+K. Havertz,A. Mehmedi,1
+C. Ar\u00e1nguiz,K. Volland,1
+K. Havertz,K. Volland,1
+Wendell,D. Kohr,1
+K. Havertz,Wendell,1
+K. Havertz,D. Kohr,1
+J. Tah,C. Ar\u00e1nguiz,1
+D. Kohr,K. Havertz,1
+B. Leno,K. Havertz,1
+Wendell,S. Bender,1
+K. Volland,J. Tah,1
+S. Bender,Wendell,1

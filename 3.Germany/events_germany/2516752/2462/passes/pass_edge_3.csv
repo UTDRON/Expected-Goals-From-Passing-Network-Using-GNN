@@ -1,0 +1,44 @@
+Source,Target,Weight
+M. Hasebe,S. Falette,4
+S. Falette,J. Willems,3
+D. Abraham,M. Hasebe,3
+G. Fernandes,M. Hasebe,2
+S. Falette,M. Hasebe,2
+M. Hasebe,D. Abraham,2
+M. Ga\u0107inovi\u0107,J. Willems,2
+L. Hradecky,S. Haller,2
+S. Haller,S. Falette,1
+M. Ga\u0107inovi\u0107,M. Hasebe,1
+J. de Guzm\u00e1n,T. Chandler,1
+K. Boateng,J. de Guzm\u00e1n,1
+J. de Guzm\u00e1n,D. Abraham,1
+D. Abraham,G. Fernandes,1
+G. Fernandes,M. Ga\u0107inovi\u0107,1
+M. Hasebe,S. Haller,1
+D. Abraham,J. de Guzm\u00e1n,1
+J. Willems,S. Haller,1
+S. Haller,G. Fernandes,1
+S. Falette,D. Abraham,1
+J. Willems,D. Abraham,1
+S. Falette,S. Haller,1
+S. Falette,L. Hradecky,1
+S. Falette,G. Fernandes,1
+M. Hasebe,M. Ga\u0107inovi\u0107,1
+T. Chandler,J. de Guzm\u00e1n,1
+S. Haller,T. Chandler,1
+J. Willems,S. Falette,1
+J. Willems,L. Hradecky,1
+S. Haller,L. Hradecky,1
+D. Abraham,S. Falette,1
+M. Hasebe,J. Willems,1
+T. Chandler,M. Hasebe,1
+J. Willems,K. Boateng,1
+T. Chandler,D. Abraham,1
+S. Falette,T. Chandler,1
+K. Boateng,S. Falette,1
+M. Ga\u0107inovi\u0107,S. Falette,1
+J. de Guzm\u00e1n,K. Boateng,1
+D. Abraham,K. Boateng,1
+J. Willems,M. Ga\u0107inovi\u0107,1
+S. Haller,M. Ga\u0107inovi\u0107,1
+L. Hradecky,D. Abraham,1

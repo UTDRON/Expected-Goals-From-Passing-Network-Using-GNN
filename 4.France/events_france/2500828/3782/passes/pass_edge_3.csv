@@ -1,0 +1,71 @@
+Source,Target,Weight
+B. Dabo,K. Th\u00e9ophile Catherine,6
+K. Th\u00e9ophile Catherine,B. Dabo,6
+V. Pajot,K. Th\u00e9ophile Catherine,5
+K. Th\u00e9ophile Catherine,V. Pajot,5
+B. Dabo,V. Pajot,5
+F. Pogba,L. Perrin,4
+V. Pajot,B. Dabo,4
+L. Perrin,A. Diouss\u00e9,4
+S. Janko,Hernani,4
+V. Pajot,F. Pogba,4
+Hernani,L. Perrin,3
+A. Diouss\u00e9,F. Pogba,3
+L. Perrin,K. Th\u00e9ophile Catherine,3
+J. Bamba,A. Diouss\u00e9,3
+B. Dabo,A. Diouss\u00e9,3
+V. Pajot,S. Janko,3
+S. Janko,L. Diony,3
+A. Diouss\u00e9,V. Pajot,3
+A. Diouss\u00e9,Hernani,3
+L. Perrin,V. Pajot,3
+Hernani,K. Th\u00e9ophile Catherine,2
+J. Bamba,B. Dabo,2
+A. Diouss\u00e9,J. Bamba,2
+V. Pajot,J. Bamba,2
+F. Pogba,V. Pajot,2
+K. Th\u00e9ophile Catherine,L. Perrin,2
+J. Bamba,K. Th\u00e9ophile Catherine,2
+Hernani,J. Bamba,2
+K. Th\u00e9ophile Catherine,Hernani,2
+Hernani,S. Janko,2
+K. Th\u00e9ophile Catherine,S. Janko,2
+B. Dabo,J. Bamba,2
+L. Diony,B. Dabo,2
+B. Dabo,S. Janko,2
+K. Th\u00e9ophile Catherine,S. Ruffier,2
+Hernani,F. Pogba,2
+F. Pogba,B. Dabo,2
+A. Diouss\u00e9,K. Th\u00e9ophile Catherine,2
+F. Pogba,A. Diouss\u00e9,1
+B. Dabo,S. Ruffier,1
+S. Janko,S. Ruffier,1
+Hernani,B. Dabo,1
+L. Perrin,B. Dabo,1
+S. Ruffier,A. Diouss\u00e9,1
+S. Janko,K. Th\u00e9ophile Catherine,1
+L. Diony,Hernani,1
+S. Ruffier,Hernani,1
+V. Pajot,Hernani,1
+F. Pogba,S. Janko,1
+S. Ruffier,L. Perrin,1
+J. Bamba,V. Pajot,1
+L. Perrin,F. Pogba,1
+F. Pogba,K. Th\u00e9ophile Catherine,1
+L. Diony,S. Janko,1
+S. Janko,J. Bamba,1
+S. Janko,V. Pajot,1
+Hernani,A. Diouss\u00e9,1
+L. Diony,V. Pajot,1
+S. Ruffier,L. Diony,1
+V. Pajot,L. Diony,1
+J. Bamba,Hernani,1
+K. Th\u00e9ophile Catherine,J. Bamba,1
+K. Th\u00e9ophile Catherine,F. Pogba,1
+A. Diouss\u00e9,L. Perrin,1
+J. Bamba,S. Janko,1
+A. Diouss\u00e9,B. Dabo,1
+K. Th\u00e9ophile Catherine,A. Diouss\u00e9,1
+S. Janko,A. Diouss\u00e9,1
+A. Diouss\u00e9,L. Diony,1
+L. Diony,A. Diouss\u00e9,1

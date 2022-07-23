@@ -1,0 +1,61 @@
+Source,Target,Weight
+H. Aouar,Mar\u00e7al,8
+Mar\u00e7al,H. Aouar,5
+J. Morel,Marcelo,4
+H. Aouar,M. Depay,3
+Rafael,L. Tousart,3
+N. Fekir,Rafael,3
+Rafael,M. Cornet,3
+Rafael,Marcelo,3
+Marcelo,Rafael,3
+Rafael,N. Fekir,3
+L. Tousart,H. Aouar,3
+Mar\u00e7al,M. Depay,3
+H. Aouar,Marcelo,2
+M. Depay,M. Maolida,2
+Marcelo,L. Tousart,2
+M. Depay,Rafael,2
+Mar\u00e7al,J. Morel,2
+L. Tousart,J. Morel,2
+M. Cornet,M. Depay,2
+Marcelo,H. Aouar,2
+M. Depay,Mar\u00e7al,2
+M. Cornet,Rafael,2
+L. Tousart,Rafael,2
+J. Morel,M. Maolida,1
+H. Aouar,Rafael,1
+A. Lopes,Marcelo,1
+Marcelo,M. Cornet,1
+N. Fekir,M. Cornet,1
+J. Morel,A. Lopes,1
+M. Cornet,J. Morel,1
+J. Morel,M. Depay,1
+M. Cornet,L. Tousart,1
+M. Depay,J. Morel,1
+J. Morel,L. Tousart,1
+M. Depay,H. Aouar,1
+N. Fekir,J. Morel,1
+M. Maolida,N. Fekir,1
+Rafael,H. Aouar,1
+N. Fekir,H. Aouar,1
+A. Lopes,M. Cornet,1
+M. Maolida,J. Morel,1
+A. Lopes,H. Aouar,1
+L. Tousart,Mar\u00e7al,1
+Rafael,M. Maolida,1
+Mar\u00e7al,L. Tousart,1
+Marcelo,Mar\u00e7al,1
+H. Aouar,J. Morel,1
+L. Tousart,A. Lopes,1
+J. Morel,Mar\u00e7al,1
+Marcelo,J. Morel,1
+M. Maolida,L. Tousart,1
+A. Lopes,N. Fekir,1
+H. Aouar,N. Fekir,1
+N. Fekir,A. Lopes,1
+Mar\u00e7al,Rafael,1
+M. Maolida,H. Aouar,1
+L. Tousart,M. Cornet,1
+M. Cornet,N. Fekir,1
+Mar\u00e7al,A. Lopes,1
+J. Morel,H. Aouar,1

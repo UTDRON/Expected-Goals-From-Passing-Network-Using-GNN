@@ -1,0 +1,86 @@
+Source,Target,Weight
+Caiuby,Ja-Cheol Koo,6
+P. Max,M. Gregoritsch,5
+Ja-Cheol Koo,D. Baier,5
+J. Gouweleeuw,S. C\u00f3rdova,5
+R. Khedira,S. C\u00f3rdova,5
+R. Khedira,J. Gouweleeuw,5
+M. Gregoritsch,P. Max,5
+D. Baier,R. Khedira,5
+M. Hinteregger,M. Gregoritsch,4
+D. Baier,Ja-Cheol Koo,4
+J. Gouweleeuw,Ja-Cheol Koo,4
+M. Hitz,Caiuby,4
+Ja-Cheol Koo,M. Gregoritsch,4
+D. Baier,M. Hinteregger,4
+M. Gregoritsch,J. Gouweleeuw,4
+M. Hitz,J. Gouweleeuw,4
+S. C\u00f3rdova,R. Khedira,4
+R. Khedira,M. Hinteregger,4
+M. Hinteregger,Caiuby,3
+M. Hinteregger,D. Baier,3
+Ja-Cheol Koo,R. Khedira,3
+J. Gouweleeuw,R. Khedira,3
+M. Gregoritsch,D. Baier,3
+S. C\u00f3rdova,J. Gouweleeuw,3
+Caiuby,M. Hinteregger,3
+D. Baier,J. Gouweleeuw,3
+M. Gregoritsch,Caiuby,3
+S. C\u00f3rdova,J. Schmid,3
+M. Hinteregger,M. Hitz,3
+J. Gouweleeuw,D. Baier,3
+M. Hinteregger,P. Max,3
+M. Hinteregger,R. Khedira,3
+J. Gouweleeuw,M. Hitz,3
+P. Max,M. Hinteregger,3
+S. C\u00f3rdova,P. Max,3
+Caiuby,P. Max,2
+P. Max,Caiuby,2
+D. Baier,M. Hitz,2
+S. C\u00f3rdova,M. Hinteregger,2
+Caiuby,R. Khedira,2
+M. Hitz,S. C\u00f3rdova,2
+J. Schmid,S. C\u00f3rdova,2
+Ja-Cheol Koo,J. Gouweleeuw,2
+R. Khedira,D. Baier,2
+J. Schmid,Caiuby,2
+R. Khedira,M. Gregoritsch,2
+R. Khedira,M. Hitz,2
+J. Schmid,D. Baier,2
+J. Schmid,J. Gouweleeuw,2
+J. Gouweleeuw,M. Hinteregger,2
+Ja-Cheol Koo,Caiuby,2
+M. Gregoritsch,Ja-Cheol Koo,2
+J. Gouweleeuw,J. Schmid,2
+M. Hinteregger,J. Schmid,2
+Ja-Cheol Koo,M. Hinteregger,2
+M. Gregoritsch,M. Hinteregger,2
+Caiuby,J. Schmid,2
+M. Hinteregger,S. C\u00f3rdova,2
+P. Max,M. Hitz,1
+Ja-Cheol Koo,S. C\u00f3rdova,1
+J. Gouweleeuw,P. Max,1
+J. Schmid,M. Hitz,1
+J. Gouweleeuw,Caiuby,1
+P. Max,J. Gouweleeuw,1
+M. Hitz,M. Hinteregger,1
+P. Max,R. Khedira,1
+R. Khedira,J. Schmid,1
+S. C\u00f3rdova,Ja-Cheol Koo,1
+J. Schmid,M. Hinteregger,1
+J. Gouweleeuw,M. Gregoritsch,1
+P. Max,Ja-Cheol Koo,1
+D. Baier,M. Gregoritsch,1
+Caiuby,M. Gregoritsch,1
+J. Schmid,Ja-Cheol Koo,1
+P. Max,J. Schmid,1
+Caiuby,S. C\u00f3rdova,1
+S. C\u00f3rdova,Caiuby,1
+S. C\u00f3rdova,M. Gregoritsch,1
+J. Schmid,R. Khedira,1
+M. Hinteregger,J. Gouweleeuw,1
+M. Hitz,M. Gregoritsch,1
+R. Khedira,Ja-Cheol Koo,1
+M. Hitz,P. Max,1
+Caiuby,D. Baier,1
+M. Gregoritsch,J. Schmid,1

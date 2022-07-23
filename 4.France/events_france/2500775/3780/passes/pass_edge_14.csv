@@ -1,0 +1,31 @@
+Source,Target,Weight
+G. Imbula,I. Sylla,4
+C. Jullien,G. Imbula,3
+A. Blin,G. Imbula,3
+I. Sylla,A. Blin,3
+G. Imbula,Y. Sanogo,2
+Y. Sanogo,C. Jullien,2
+G. Imbula,C. Jullien,2
+I. Sylla,G. Imbula,2
+K. Amian,Y. Sanogo,1
+F. Moubandje,A. Blin,1
+K. Amian,A. Blin,1
+K. Amian,G. Imbula,1
+Y. Sanogo,I. Diop,1
+A. Blin,I. Sylla,1
+A. Blin,Y. Sanogo,1
+A. Lafont,Y. Sanogo,1
+C. Jullien,K. Amian,1
+A. Blin,F. Moubandje,1
+Y. Sanogo,Som\u00e1lia,1
+G. Imbula,K. Amian,1
+F. Moubandje,I. Sylla,1
+Som\u00e1lia,A. Blin,1
+A. Blin,C. Jullien,1
+Y. Cahuzac,Y. Sanogo,1
+G. Imbula,A. Lafont,1
+I. Diop,Y. Cahuzac,1
+Y. Sanogo,G. Imbula,1
+I. Sylla,Y. Sanogo,1
+Y. Sanogo,F. Moubandje,1
+C. Jullien,A. Blin,1

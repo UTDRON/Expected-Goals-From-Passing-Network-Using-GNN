@@ -1,0 +1,13 @@
+Source,Target,Weight
+R. Bobadilla,R. Oxford,2
+R. Oxford,R. Bobadilla,1
+R. Oxford,L. Stindl,1
+L. Stindl,D. Zakaria,1
+T. Hazard,D. Zakaria,1
+J. Vestergaard,L. Stindl,1
+M. Ginter,R. Bobadilla,1
+L. Stindl,R. Oxford,1
+L. Stindl,T. Hazard,1
+Y. Sommer,L. Stindl,1
+D. Zakaria,Y. Sommer,1
+R. Oxford,M. Ginter,1

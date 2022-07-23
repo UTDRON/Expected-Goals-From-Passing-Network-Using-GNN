@@ -1,0 +1,49 @@
+Source,Target,Weight
+P. Verhaegh,D. Didavi,4
+J. B\u0142aszczykowski,P. Verhaegh,4
+K. Hinds,Y. Gerhardt,3
+P. Verhaegh,J. B\u0142aszczykowski,3
+Y. Gerhardt,K. Hinds,3
+D. Didavi,R. Knoche,3
+K. Hinds,D. Didavi,2
+K. Casteels,J. B\u0142aszczykowski,2
+R. Knoche,Y. Gerhardt,2
+Y. Gerhardt,D. Didavi,2
+D. Didavi,P. Verhaegh,2
+M. G\u00f3mez,D. Didavi,2
+D. Didavi,J. B\u0142aszczykowski,2
+D. Didavi,F. Uduokhai,2
+R. Knoche,K. Casteels,2
+K. Hinds,Camacho,2
+Y. Gerhardt,Camacho,1
+J. B\u0142aszczykowski,Y. Gerhardt,1
+Camacho,K. Hinds,1
+Camacho,M. G\u00f3mez,1
+R. Bazoer,P. Verhaegh,1
+P. Verhaegh,R. Knoche,1
+F. Uduokhai,P. Verhaegh,1
+Camacho,F. Uduokhai,1
+Camacho,D. Didavi,1
+D. Didavi,Camacho,1
+K. Casteels,K. Hinds,1
+J. B\u0142aszczykowski,Camacho,1
+K. Hinds,R. Bazoer,1
+Y. Gerhardt,M. G\u00f3mez,1
+F. Uduokhai,Y. Gerhardt,1
+Y. Gerhardt,K. Casteels,1
+F. Uduokhai,K. Casteels,1
+J. B\u0142aszczykowski,K. Casteels,1
+P. Verhaegh,R. Bazoer,1
+D. Didavi,Y. Gerhardt,1
+R. Knoche,J. B\u0142aszczykowski,1
+D. Didavi,K. Hinds,1
+J. B\u0142aszczykowski,D. Didavi,1
+K. Casteels,P. Verhaegh,1
+R. Bazoer,F. Uduokhai,1
+R. Knoche,K. Hinds,1
+Y. Gerhardt,R. Bazoer,1
+M. G\u00f3mez,K. Hinds,1
+K. Casteels,M. G\u00f3mez,1
+F. Uduokhai,R. Knoche,1
+R. Bazoer,R. Knoche,1
+Camacho,Y. Gerhardt,1

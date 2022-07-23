@@ -1,0 +1,79 @@
+Source,Target,Weight
+G. Imbula,A. Blin,7
+Som\u00e1lia,S. Yago,5
+A. Lafont,C. Jullien,5
+A. Delort,G. Imbula,4
+K. Amian,C. Jullien,4
+S. Yago,Som\u00e1lia,4
+K. Amian,A. Lafont,4
+K. Amian,I. Sylla,4
+G. Imbula,K. Amian,4
+C. Jullien,K. Amian,4
+K. Amian,S. Yago,4
+A. Blin,K. Amian,4
+S. Yago,K. Amian,4
+C. Jullien,F. Moubandje,3
+C. Jullien,G. Imbula,3
+C. Jullien,A. Lafont,3
+A. Blin,S. Yago,3
+A. Delort,C. Jean,3
+S. Yago,A. Delort,3
+F. Moubandje,G. Imbula,3
+S. Yago,A. Blin,3
+A. Blin,G. Imbula,3
+C. Jean,F. Moubandje,3
+F. Moubandje,A. Delort,3
+I. Sylla,S. Yago,2
+I. Sylla,K. Amian,2
+A. Lafont,A. Blin,2
+S. Yago,A. Lafont,2
+C. Jullien,I. Sylla,2
+Som\u00e1lia,K. Amian,2
+F. Moubandje,C. Jullien,2
+I. Sylla,A. Blin,2
+K. Amian,G. Imbula,2
+S. Yago,G. Imbula,2
+C. Jean,C. Jullien,2
+K. Amian,A. Blin,2
+G. Imbula,C. Jullien,2
+C. Jean,I. Sylla,2
+F. Moubandje,I. Sylla,2
+C. Jullien,A. Delort,2
+A. Lafont,Som\u00e1lia,2
+G. Imbula,I. Sylla,2
+I. Sylla,A. Delort,2
+A. Blin,F. Moubandje,2
+A. Lafont,S. Yago,1
+I. Sylla,Som\u00e1lia,1
+A. Blin,Som\u00e1lia,1
+G. Imbula,S. Yago,1
+Som\u00e1lia,I. Sylla,1
+Som\u00e1lia,C. Jullien,1
+C. Jullien,S. Yago,1
+G. Imbula,F. Moubandje,1
+A. Lafont,K. Amian,1
+A. Delort,F. Moubandje,1
+Som\u00e1lia,C. Jean,1
+A. Delort,K. Amian,1
+A. Lafont,A. Delort,1
+F. Moubandje,Som\u00e1lia,1
+I. Sylla,C. Jean,1
+C. Jullien,A. Blin,1
+C. Jean,Som\u00e1lia,1
+K. Amian,F. Moubandje,1
+A. Delort,C. Jullien,1
+Som\u00e1lia,G. Imbula,1
+I. Sylla,C. Jullien,1
+G. Imbula,A. Lafont,1
+I. Sylla,F. Moubandje,1
+F. Moubandje,S. Yago,1
+A. Blin,C. Jullien,1
+A. Blin,A. Lafont,1
+A. Delort,S. Yago,1
+G. Imbula,C. Jean,1
+K. Amian,Som\u00e1lia,1
+A. Blin,C. Jean,1
+S. Yago,C. Jean,1
+I. Sylla,G. Imbula,1
+A. Blin,I. Sylla,1
+F. Moubandje,A. Lafont,1

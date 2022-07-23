@@ -1,0 +1,19 @@
+Source,Target,Weight
+L. Stindl,Raffael,2
+T. Hazard,O. Wendt,2
+P. Herrmann,R. Oxford,1
+M. Ginter,M. Cuisance,1
+M. Cuisance,L. Stindl,1
+O. Wendt,L. Stindl,1
+M. Ginter,L. Stindl,1
+R. Oxford,M. Cuisance,1
+M. Cuisance,M. Ginter,1
+Raffael,L. Stindl,1
+Raffael,Y. Sommer,1
+M. Ginter,P. Herrmann,1
+Y. Sommer,N. Elvedi,1
+O. Wendt,T. Hazard,1
+L. Stindl,T. Hazard,1
+N. Elvedi,P. Herrmann,1
+L. Stindl,M. Ginter,1
+P. Herrmann,M. Ginter,1

@@ -1,0 +1,26 @@
+Source,Target,Weight
+E. Ins\u00faa,M. G\u00f3mez,4
+E. Ins\u00faa,H. Badstuber,3
+E. Thommy,E. Ins\u00faa,3
+M. G\u00f3mez,E. Ins\u00faa,3
+H. Badstuber,E. Ins\u00faa,3
+E. Ins\u00faa,E. Thommy,3
+E. Ins\u00faa,A. Beck,1
+C. Gentner,E. Ins\u00faa,1
+A. Beck,T. Baumgartl,1
+D. Ginczek,C. Gentner,1
+S. Ascac\u00edbar,A. Beck,1
+D. Ginczek,E. Thommy,1
+E. Thommy,C. Gentner,1
+H. Badstuber,T. Baumgartl,1
+A. Beck,S. Ascac\u00edbar,1
+T. Baumgartl,C. Gentner,1
+E. Thommy,H. Badstuber,1
+T. Baumgartl,E. Ins\u00faa,1
+M. G\u00f3mez,B. Pavard,1
+C. Gentner,D. Ginczek,1
+C. Gentner,A. Beck,1
+A. Beck,C. Gentner,1
+B. Pavard,H. Badstuber,1
+A. Beck,D. Ginczek,1
+H. Badstuber,E. Thommy,1

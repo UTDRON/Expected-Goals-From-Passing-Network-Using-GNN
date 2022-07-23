@@ -1,0 +1,30 @@
+Source,Target,Weight
+J. Ferri,K. Tete,2
+H. Aouar,T. Ndomb\u00e8l\u00e9,2
+J. Ferri,A. Gouiri,2
+Mar\u00e7al,M. Maolida,2
+T. Ndomb\u00e8l\u00e9,H. Aouar,2
+T. Ndomb\u00e8l\u00e9,M. Maolida,2
+Marcelo,J. Ferri,2
+A. Gouiri,K. Tete,1
+M. Maolida,H. Aouar,1
+H. Aouar,Mar\u00e7al,1
+K. Tete,T. Ndomb\u00e8l\u00e9,1
+Mar\u00e7al,H. Aouar,1
+K. Tete,J. Ferri,1
+J. Ferri,Mar\u00e7al,1
+M. Maolida,Mar\u00e7al,1
+H. Aouar,K. Tete,1
+Mar\u00e7al,T. Ndomb\u00e8l\u00e9,1
+T. Ndomb\u00e8l\u00e9,Marcelo,1
+M. Maolida,Marcelo,1
+J. Ferri,T. Ndomb\u00e8l\u00e9,1
+Marcelo,Mar\u00e7al,1
+M. Cornet,J. Ferri,1
+J. Ferri,M. Diakhaby,1
+K. Tete,M. Cornet,1
+M. Diakhaby,Mar\u00e7al,1
+Mar\u00e7al,Marcelo,1
+M. Maolida,T. Ndomb\u00e8l\u00e9,1
+A. Gouiri,J. Ferri,1
+T. Ndomb\u00e8l\u00e9,J. Ferri,1

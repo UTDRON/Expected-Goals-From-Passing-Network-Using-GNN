@@ -1,0 +1,21 @@
+Source,Target,Weight
+Lucas Lima,N. Pallois,2
+Diego Carlos,V. Rongier,2
+Y. El Ghanassy,Lucas Lima,2
+L. Dubois,Diego Carlos,2
+Y. El Ghanassy,E. Sala,1
+E. Sala,Y. El Ghanassy,1
+Y. El Ghanassy,L. Dubois,1
+Diego Carlos,Y. El Ghanassy,1
+L. Dubois,Y. El Ghanassy,1
+J. Kayembe,Diego Carlos,1
+E. Sala,L. Dubois,1
+V. Rongier,Lucas Lima,1
+Lucas Lima,Y. El Ghanassy,1
+N. Pallois,Lucas Lima,1
+Lucas Lima,V. Rongier,1
+Andrei Girotto,N. Pallois,1
+V. Rongier,Y. El Ghanassy,1
+N. Pallois,E. Sala,1
+V. Rongier,L. Dubois,1
+N. Pallois,J. Kayembe,1

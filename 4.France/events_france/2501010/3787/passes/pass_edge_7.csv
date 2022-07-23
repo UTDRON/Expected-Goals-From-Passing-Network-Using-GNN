@@ -1,0 +1,18 @@
+Source,Target,Weight
+P. Lasne,Pedro Mendes,2
+C. Ninga,P. Lasne,2
+I. Mbenza,N. Mukiele,1
+I. Mbenza,K. Dolly,1
+Pedro Mendes,N. Cozza,1
+E. Skhiri,Pedro Mendes,1
+I. Mbenza,E. Skhiri,1
+N. Mukiele,E. Skhiri,1
+K. Dolly,E. Skhiri,1
+E. Skhiri,P. Lasne,1
+N. Cozza,N. Mukiele,1
+E. Skhiri,I. Mbenza,1
+N. Mukiele,C. Ninga,1
+I. Mbenza,C. Ninga,1
+Pedro Mendes,K. Dolly,1
+Pedro Mendes,I. Mbenza,1
+K. Dolly,I. Mbenza,1

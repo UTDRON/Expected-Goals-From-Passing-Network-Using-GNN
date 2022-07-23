@@ -1,0 +1,28 @@
+Source,Target,Weight
+O. El Hajjam,G. Kakuta,3
+G. Kakuta,M. Bodmer,3
+M. Bodmer,G. Kakuta,2
+M. Bodmer,O. El Hajjam,2
+R. Gurtner,O. El Hajjam,2
+O. El Hajjam,M. Bodmer,2
+M. Bodmer,R. Gurtner,1
+J. Ielsch,M. Bodmer,1
+K. Ad\u00e9non,B. Dibassy,1
+M. Konat\u00e9,J. Ielsch,1
+G. Fofana,M. Bodmer,1
+M. Bodmer,G. Fofana,1
+Danilo Avelar,B. Dibassy,1
+K. Ad\u00e9non,R. Gurtner,1
+J. Ielsch,Danilo Avelar,1
+T. Monconduit,K. Ad\u00e9non,1
+Danilo Avelar,K. Ad\u00e9non,1
+O. El Hajjam,K. Ad\u00e9non,1
+G. Fofana,J. Ielsch,1
+Danilo Avelar,T. Monconduit,1
+K. Ad\u00e9non,O. El Hajjam,1
+G. Kakuta,K. Ad\u00e9non,1
+B. Dibassy,G. Fofana,1
+G. Kakuta,O. El Hajjam,1
+B. Dibassy,Danilo Avelar,1
+J. Ielsch,M. Konat\u00e9,1
+K. Ad\u00e9non,Danilo Avelar,1

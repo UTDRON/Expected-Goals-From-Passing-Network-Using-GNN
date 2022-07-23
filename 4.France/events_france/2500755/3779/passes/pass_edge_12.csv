@@ -1,0 +1,35 @@
+Source,Target,Weight
+J. Martin,B. Corgnet,2
+J. Aholou,E. Seka,2
+E. Seka,J. Aholou,2
+B. Corgnet,D. Li\u00e9nard,2
+K. Lala,K. Mangane,2
+D. Li\u00e9nard,K. Lala,2
+K. Mangane,J. Aholou,1
+J. Aholou,B. Corgnet,1
+E. Seka,B. Corgnet,1
+B. Corgnet,E. Seka,1
+K. Lala,J. Martin,1
+Nuno Da Costa,K. Mangane,1
+K. Lala,J. Aholou,1
+K. Mangane,B. Corgnet,1
+E. Seka,J. Martin,1
+B. Corgnet,J. Blayac,1
+K. Mangane,B. Kon\u00e9,1
+B. Kon\u00e9,B. Kamara,1
+K. Mangane,J. Blayac,1
+B. Corgnet,Nuno Da Costa,1
+J. Martin,K. Lala,1
+B. Kon\u00e9,K. Lala,1
+K. Mangane,E. Seka,1
+J. Blayac,M. Terrier,1
+J. Aholou,J. Martin,1
+K. Lala,M. Terrier,1
+M. Terrier,B. Kon\u00e9,1
+K. Lala,B. Corgnet,1
+J. Blayac,K. Mangane,1
+B. Kamara,K. Lala,1
+B. Corgnet,M. Terrier,1
+D. Li\u00e9nard,M. Terrier,1
+M. Terrier,D. Li\u00e9nard,1
+M. Terrier,K. Lala,1

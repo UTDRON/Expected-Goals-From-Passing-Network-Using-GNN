@@ -1,0 +1,23 @@
+Source,Target,Weight
+D. Heintz,T. Handwerker,2
+D. Maroh,D. Heintz,1
+M. Joji\u0107,D. Maroh,1
+Y. \u014csako,L. Bittencourt,1
+K. Rausch,M. Joji\u0107,1
+L. Bittencourt,M. Lehmann,1
+T. Handwerker,D. Heintz,1
+T. Handwerker,K. Rausch,1
+L. Bittencourt,S. Guirassy,1
+L. Bittencourt,K. Rausch,1
+P. Olkowski,L. Bittencourt,1
+S. Guirassy,T. Handwerker,1
+K. Rausch,S. Guirassy,1
+S. Guirassy,M. Joji\u0107,1
+D. Heintz,M. Lehmann,1
+K. Rausch,L. Bittencourt,1
+D. Maroh,M. Lehmann,1
+M. Joji\u0107,K. Rausch,1
+M. Lehmann,D. Heintz,1
+M. Lehmann,P. Olkowski,1
+M. Lehmann,Y. \u014csako,1
+T. Handwerker,D. Maroh,1

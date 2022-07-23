@@ -1,0 +1,60 @@
+Source,Target,Weight
+W. Sneijder,C. Jallet,5
+C. Jallet,A. Lusamba,4
+P. Lees Melou,Dante,4
+N. Mendy,Marlon,4
+Marlon,W. Sneijder,3
+Dante,W. Sneijder,3
+C. Jallet,W. Sneijder,3
+C. Jallet,P. Lees Melou,3
+W. Sneijder,N. Mendy,3
+A. Lusamba,N. Mendy,3
+N. Mendy,C. Jallet,3
+A. Pl\u00e9a,P. Lees Melou,3
+P. Lees Melou,N. Mendy,3
+Dante,P. Lees Melou,2
+A. Souquet,N. Mendy,2
+Marlon,A. Souquet,2
+H. Mahou,W. Sneijder,2
+P. Lees Melou,C. Jallet,2
+A. Lusamba,A. Pl\u00e9a,2
+A. Lusamba,H. Mahou,2
+W. Sneijder,P. Lees Melou,2
+W. Sneijder,A. Lusamba,2
+N. Mendy,Dante,2
+N. Mendy,P. Lees Melou,2
+P. Lees Melou,Marlon,2
+Marlon,A. Saint-Maximin,2
+A. Pl\u00e9a,A. Lusamba,1
+C. Jallet,Y. Cardinale,1
+A. Pl\u00e9a,Y. Cardinale,1
+Dante,Marlon,1
+C. Jallet,Dante,1
+Dante,N. Mendy,1
+A. Saint-Maximin,A. Souquet,1
+Marlon,C. Jallet,1
+C. Jallet,A. Pl\u00e9a,1
+A. Lusamba,C. Jallet,1
+A. Souquet,W. Sneijder,1
+A. Lusamba,Dante,1
+P. Lees Melou,H. Mahou,1
+N. Mendy,A. Souquet,1
+Y. Cardinale,N. Mendy,1
+W. Sneijder,H. Mahou,1
+H. Mahou,N. Mendy,1
+P. Lees Melou,A. Pl\u00e9a,1
+A. Lusamba,W. Sneijder,1
+Dante,Y. Cardinale,1
+N. Mendy,A. Lusamba,1
+Y. Cardinale,A. Lusamba,1
+A. Souquet,Marlon,1
+W. Sneijder,A. Souquet,1
+Y. Cardinale,Dante,1
+Dante,A. Pl\u00e9a,1
+Dante,C. Jallet,1
+A. Souquet,A. Lusamba,1
+A. Lusamba,Marlon,1
+A. Saint-Maximin,A. Lusamba,1
+N. Mendy,W. Sneijder,1
+Marlon,P. Lees Melou,1
+H. Mahou,Dante,1

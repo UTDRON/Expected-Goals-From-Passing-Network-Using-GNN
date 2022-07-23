@@ -1,0 +1,64 @@
+Source,Target,Weight
+S. Janko,K. Th\u00e9ophile Catherine,8
+B. Dabo,S. Janko,7
+S. Janko,B. Dabo,4
+K. Th\u00e9ophile Catherine,S. Janko,4
+J. Bamba,A. Diouss\u00e9,4
+R. Pierre-Gabriel,O. Seln\u00e6s,4
+R. Pierre-Gabriel,J. Bamba,4
+O. Seln\u00e6s,B. Dabo,3
+L. Diony,J. Bamba,2
+L. Diony,R. Hamouma,2
+K. Th\u00e9ophile Catherine,L. Perrin,2
+O. Seln\u00e6s,L. Diony,2
+R. Hamouma,L. Diony,2
+B. Dabo,K. Th\u00e9ophile Catherine,2
+L. Perrin,B. Dabo,2
+O. Seln\u00e6s,L. Perrin,2
+L. Perrin,O. Seln\u00e6s,2
+L. Perrin,A. Diouss\u00e9,2
+K. Th\u00e9ophile Catherine,S. Ruffier,2
+R. Hamouma,B. Dabo,2
+K. Th\u00e9ophile Catherine,L. Diony,2
+S. Ruffier,L. Perrin,2
+O. Seln\u00e6s,S. Janko,2
+S. Janko,R. Hamouma,2
+A. Diouss\u00e9,R. Pierre-Gabriel,2
+A. Diouss\u00e9,O. Seln\u00e6s,2
+J. Bamba,O. Seln\u00e6s,1
+K. Th\u00e9ophile Catherine,O. Seln\u00e6s,1
+A. Diouss\u00e9,K. Th\u00e9ophile Catherine,1
+R. Hamouma,L. Perrin,1
+O. Seln\u00e6s,R. Pierre-Gabriel,1
+J. Bamba,R. Pierre-Gabriel,1
+B. Dabo,A. Diouss\u00e9,1
+R. Hamouma,S. Janko,1
+A. Diouss\u00e9,B. Dabo,1
+J. Bamba,S. Ruffier,1
+O. Seln\u00e6s,A. Diouss\u00e9,1
+K. Th\u00e9ophile Catherine,B. Dabo,1
+L. Perrin,S. Janko,1
+R. Hamouma,O. Seln\u00e6s,1
+S. Ruffier,K. Th\u00e9ophile Catherine,1
+S. Janko,R. Pierre-Gabriel,1
+L. Diony,R. Pierre-Gabriel,1
+O. Seln\u00e6s,K. Th\u00e9ophile Catherine,1
+S. Ruffier,L. Diony,1
+L. Perrin,R. Hamouma,1
+B. Dabo,L. Perrin,1
+K. Th\u00e9ophile Catherine,R. Pierre-Gabriel,1
+S. Janko,O. Seln\u00e6s,1
+A. Diouss\u00e9,J. Bamba,1
+O. Seln\u00e6s,R. Hamouma,1
+A. Diouss\u00e9,L. Perrin,1
+K. Th\u00e9ophile Catherine,J. Bamba,1
+J. Bamba,L. Perrin,1
+L. Perrin,K. Th\u00e9ophile Catherine,1
+R. Pierre-Gabriel,L. Diony,1
+L. Perrin,R. Pierre-Gabriel,1
+A. Diouss\u00e9,S. Janko,1
+B. Dabo,O. Seln\u00e6s,1
+L. Diony,A. Diouss\u00e9,1
+L. Diony,L. Perrin,1
+L. Perrin,S. Ruffier,1
+B. Dabo,R. Hamouma,1

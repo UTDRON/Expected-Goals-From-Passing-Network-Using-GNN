@@ -1,0 +1,25 @@
+Source,Target,Weight
+N. Stark,M. Weiser,2
+M. Plattenhardt,A. Esswein,2
+A. Esswein,F. Lustenberger,2
+M. Plattenhardt,V. Ibi\u0161evi\u0107,2
+O. Duda,V. Lazaro,2
+N. Stark,O. Duda,1
+V. Lazaro,O. Duda,1
+V. Lazaro,F. Lustenberger,1
+D. Selke,R. Jarstein,1
+D. Selke,O. Duda,1
+V. Lazaro,D. Selke,1
+K. Rekik,N. Stark,1
+F. Lustenberger,A. Esswein,1
+O. Duda,M. Plattenhardt,1
+F. Lustenberger,R. Jarstein,1
+M. Weiser,V. Lazaro,1
+R. Jarstein,M. Plattenhardt,1
+O. Duda,N. Stark,1
+A. Esswein,K. Rekik,1
+R. Jarstein,N. Stark,1
+V. Ibi\u0161evi\u0107,M. Plattenhardt,1
+F. Lustenberger,O. Duda,1
+M. Weiser,D. Selke,1
+V. Ibi\u0161evi\u0107,V. Lazaro,1

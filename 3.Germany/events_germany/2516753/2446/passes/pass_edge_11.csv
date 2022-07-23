@@ -1,0 +1,26 @@
+Source,Target,Weight
+B. Henrichs,Wendell,2
+Wendell,B. Henrichs,2
+A. Mehmedi,D. Kohr,2
+Wendell,J. Brandt,2
+J. Brandt,B. Henrichs,2
+J. Brandt,S. Bender,1
+C. Ar\u00e1nguiz,B. Henrichs,1
+C. Ar\u00e1nguiz,J. Tah,1
+C. Ar\u00e1nguiz,Wendell,1
+Wendell,C. Ar\u00e1nguiz,1
+K. Bellarabi,J. Brandt,1
+B. Henrichs,S. Bender,1
+S. Bender,Wendell,1
+B. Henrichs,A. Mehmedi,1
+S. Bender,A. Mehmedi,1
+J. Tah,D. Kohr,1
+A. Mehmedi,K. Volland,1
+D. Kohr,J. Tah,1
+J. Brandt,Wendell,1
+A. Mehmedi,J. Brandt,1
+K. Volland,A. Mehmedi,1
+J. Tah,C. Ar\u00e1nguiz,1
+B. Henrichs,J. Brandt,1
+D. Kohr,C. Ar\u00e1nguiz,1
+D. Kohr,K. Bellarabi,1

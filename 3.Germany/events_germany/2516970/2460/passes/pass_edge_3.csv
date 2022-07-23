@@ -1,0 +1,25 @@
+Source,Target,Weight
+S. Serdar,J. Gbamin,3
+J. Gbamin,K. Onisiwo,2
+N. de Jong,D. Brosinski,2
+J. Gbamin,S. Bell,1
+K. Onisiwo,N. de Jong,1
+D. Brosinski,R. Quaison,1
+K. Onisiwo,S. Bell,1
+D. Latza,J. Gbamin,1
+N. de Jong,K. Onisiwo,1
+R. Quaison,S. Serdar,1
+S. Bell,N. de Jong,1
+K. Onisiwo,S. Serdar,1
+N. de Jong,D. Latza,1
+S. Serdar,N. de Jong,1
+S. Bell,J. Gbamin,1
+D. Latza,S. Serdar,1
+J. Gbamin,S. Serdar,1
+J. Gbamin,N. de Jong,1
+A. Diallo,S. Serdar,1
+D. Brosinski,A. Ujah,1
+J. Gbamin,A. Diallo,1
+S. Serdar,R. Quaison,1
+A. Ujah,D. Latza,1
+R. Quaison,D. Brosinski,1

@@ -1,0 +1,21 @@
+Source,Target,Weight
+I. Bebou,M. Bakalorz,2
+O. Sorg,S. San\u00e9,2
+W. Anton,S. San\u00e9,2
+P. Tschauner,Jonathas,1
+F. Klaus,P. Schwegler,1
+F. Klaus,M. Ostrzolek,1
+I. Bebou,F. Klaus,1
+S. San\u00e9,W. Anton,1
+M. Bakalorz,I. Bebou,1
+M. Ostrzolek,I. Bebou,1
+Jonathas,W. Anton,1
+S. San\u00e9,M. Ostrzolek,1
+P. Schwegler,F. Klaus,1
+F. Klaus,W. Anton,1
+S. San\u00e9,O. Sorg,1
+P. Schwegler,O. Sorg,1
+S. San\u00e9,I. Bebou,1
+W. Anton,P. Tschauner,1
+O. Sorg,F. Klaus,1
+M. Bakalorz,O. Sorg,1

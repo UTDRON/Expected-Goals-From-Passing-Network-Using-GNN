@@ -1,0 +1,23 @@
+Source,Target,Weight
+Luiz Gustavo,H. Sakai,2
+A. Zambo Anguissa,Luiz Gustavo,2
+Luiz Gustavo,M. Sanson,2
+M. Sanson,A. Abdennour,1
+A. Abdennour,Luiz Gustavo,1
+L. Ocampos,M. Sanson,1
+L. Ocampos,A. Zambo Anguissa,1
+A. Rami,L. Ocampos,1
+Luiz Gustavo,A. Abdennour,1
+A. Abdennour,A. Rami,1
+H. Sakai,F. Thauvin,1
+A. Abdennour,A. Zambo Anguissa,1
+M. Sanson,H. Sakai,1
+M. Sanson,Luiz Gustavo,1
+F. Thauvin,L. Ocampos,1
+H. Sakai,Luiz Gustavo,1
+A. Zambo Anguissa,B. Sarr,1
+B. Sarr,A. Zambo Anguissa,1
+Luiz Gustavo,F. Thauvin,1
+H. Sakai,A. Abdennour,1
+B. Sarr,L. Ocampos,1
+F. Thauvin,Luiz Gustavo,1

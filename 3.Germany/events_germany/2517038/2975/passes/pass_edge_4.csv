@@ -1,0 +1,21 @@
+Source,Target,Weight
+K. Laimer,N. Ke\u00efta,3
+K. Kampl,A. Lookman,2
+N. Ke\u00efta,K. Laimer,2
+K. Laimer,J. Augustin,1
+L. Klostermann,K. Laimer,1
+I. Konat\u00e9,D. Demme,1
+A. Lookman,J. Augustin,1
+K. Kampl,I. Konat\u00e9,1
+D. Demme,D. Upamecano,1
+D. Upamecano,K. Laimer,1
+J. Augustin,K. Kampl,1
+N. Ke\u00efta,D. Demme,1
+D. Demme,K. Laimer,1
+K. Laimer,T. Werner,1
+A. Lookman,D. Demme,1
+D. Demme,T. Werner,1
+T. Werner,I. Konat\u00e9,1
+D. Upamecano,L. Klostermann,1
+T. Werner,K. Kampl,1
+I. Konat\u00e9,D. Upamecano,1

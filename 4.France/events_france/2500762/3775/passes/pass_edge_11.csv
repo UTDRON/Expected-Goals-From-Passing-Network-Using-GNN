@@ -1,0 +1,66 @@
+Source,Target,Weight
+J. Seri,N. Mendy,5
+N. Mendy,M. Sarr,4
+N. Mendy,A. Souquet,4
+A. Souquet,A. Saint-Maximin,3
+A. Souquet,Marlon,3
+J. Seri,A. Pl\u00e9a,3
+M. Sarr,N. Mendy,3
+A. Saint-Maximin,J. Seri,2
+Dante,M. Le Marchand,2
+A. Pl\u00e9a,P. Lees Melou,2
+M. Le Marchand,Dante,2
+A. Souquet,N. Mendy,2
+A. Souquet,A. Pl\u00e9a,2
+N. Mendy,J. Seri,2
+M. Le Marchand,M. Sarr,2
+A. Saint-Maximin,A. Souquet,2
+Dante,N. Mendy,2
+A. Souquet,J. Seri,2
+M. Le Marchand,N. Mendy,2
+M. Le Marchand,I. Ganago,2
+A. Saint-Maximin,A. Pl\u00e9a,2
+A. Pl\u00e9a,M. Balotelli,2
+Marlon,N. Mendy,2
+P. Lees Melou,M. Le Marchand,2
+A. Pl\u00e9a,J. Seri,2
+N. Mendy,Dante,2
+M. Sarr,A. Pl\u00e9a,2
+Marlon,Dante,2
+N. Mendy,M. Balotelli,1
+I. Ganago,Dante,1
+Marlon,A. Souquet,1
+N. Mendy,A. Saint-Maximin,1
+M. Balotelli,M. Le Marchand,1
+A. Pl\u00e9a,A. Souquet,1
+A. Pl\u00e9a,M. Sarr,1
+Dante,A. Souquet,1
+M. Balotelli,A. Souquet,1
+Dante,A. Saint-Maximin,1
+M. Balotelli,J. Seri,1
+I. Ganago,M. Le Marchand,1
+M. Sarr,M. Le Marchand,1
+A. Pl\u00e9a,Marlon,1
+Dante,Marlon,1
+A. Souquet,P. Lees Melou,1
+M. Le Marchand,A. Souquet,1
+A. Pl\u00e9a,I. Ganago,1
+J. Seri,Dante,1
+N. Mendy,A. Pl\u00e9a,1
+M. Sarr,A. Souquet,1
+A. Pl\u00e9a,M. Le Marchand,1
+M. Balotelli,M. Sarr,1
+Dante,A. Pl\u00e9a,1
+A. Souquet,Dante,1
+A. Souquet,M. Balotelli,1
+M. Sarr,P. Lees Melou,1
+N. Mendy,M. Le Marchand,1
+P. Lees Melou,M. Sarr,1
+P. Lees Melou,M. Balotelli,1
+J. Seri,A. Saint-Maximin,1
+Y. Cardinale,J. Seri,1
+M. Balotelli,A. Pl\u00e9a,1
+Dante,Y. Cardinale,1
+M. Sarr,J. Seri,1
+J. Seri,A. Souquet,1
+I. Ganago,A. Souquet,1

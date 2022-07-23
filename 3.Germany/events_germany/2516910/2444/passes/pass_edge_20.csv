@@ -1,0 +1,25 @@
+Source,Target,Weight
+Rafinha,T. M\u00fcller,2
+Rafinha,S. Wagner,2
+T. M\u00fcller,Rafinha,2
+N. S\u00fcle,Rafinha,1
+Rafinha,J. Boateng,1
+S. Wagner,N. S\u00fcle,1
+D. Alaba,K. Coman,1
+S. Rudy,A. Vidal,1
+J. Boateng,S. Ulreich,1
+K. Coman,S. Rudy,1
+T. M\u00fcller,J. Boateng,1
+N. S\u00fcle,T. M\u00fcller,1
+S. Ulreich,S. Wagner,1
+J. Boateng,Rafinha,1
+S. Rudy,N. S\u00fcle,1
+T. M\u00fcller,S. Rudy,1
+A. Vidal,S. Rudy,1
+S. Wagner,K. Coman,1
+N. S\u00fcle,A. Vidal,1
+N. S\u00fcle,R. Lewandowski,1
+S. Rudy,Rafinha,1
+A. Vidal,N. S\u00fcle,1
+K. Coman,D. Alaba,1
+R. Lewandowski,T. M\u00fcller,1

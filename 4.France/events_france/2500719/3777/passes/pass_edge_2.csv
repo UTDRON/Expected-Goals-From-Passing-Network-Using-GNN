@@ -1,0 +1,54 @@
+Source,Target,Weight
+R. Cohade,Iv\u00e1n Balliu,4
+G. Poblete,R. Cohade,4
+R. Cohade,O. Nguette,4
+O. Nguette,G. Poblete,3
+R. Cohade,M. Bi\u0161evac,3
+N. Roux,R. Cohade,3
+Iv\u00e1n Balliu,O. Nguette,2
+Iv\u00e1n Balliu,G. Poblete,2
+Caf\u00fa,G. Poblete,2
+A. Jallow,B. Assou-Ekotto,2
+G. Poblete,F. Diagne,2
+Iv\u00e1n Balliu,M. Bi\u0161evac,2
+F. Diagne,Iv\u00e1n Balliu,2
+M. Bi\u0161evac,R. Cohade,2
+O. Nguette,R. Cohade,2
+Caf\u00fa,B. Assou-Ekotto,2
+R. Cohade,Caf\u00fa,1
+B. Assou-Ekotto,N. Roux,1
+N. Roux,E. Kawashima,1
+O. Nguette,A. Jallow,1
+O. Nguette,Caf\u00fa,1
+G. Poblete,A. Jallow,1
+M. Bi\u0161evac,Iv\u00e1n Balliu,1
+M. Bi\u0161evac,B. Assou-Ekotto,1
+A. Jallow,G. Poblete,1
+O. Nguette,F. Diagne,1
+M. Bi\u0161evac,N. Roux,1
+G. Poblete,Caf\u00fa,1
+R. Cohade,E. Kawashima,1
+G. Poblete,O. Nguette,1
+A. Jallow,Iv\u00e1n Balliu,1
+B. Assou-Ekotto,A. Jallow,1
+Iv\u00e1n Balliu,N. Roux,1
+M. Bi\u0161evac,F. Diagne,1
+G. Poblete,N. Roux,1
+F. Diagne,R. Cohade,1
+E. Kawashima,R. Cohade,1
+E. Kawashima,N. Roux,1
+B. Assou-Ekotto,M. Bi\u0161evac,1
+A. Jallow,Caf\u00fa,1
+R. Cohade,A. Jallow,1
+N. Roux,O. Nguette,1
+N. Roux,Caf\u00fa,1
+B. Assou-Ekotto,R. Cohade,1
+Caf\u00fa,A. Jallow,1
+F. Diagne,N. Roux,1
+R. Cohade,N. Roux,1
+Caf\u00fa,O. Nguette,1
+B. Assou-Ekotto,F. Diagne,1
+B. Assou-Ekotto,G. Poblete,1
+Iv\u00e1n Balliu,R. Cohade,1
+O. Nguette,B. Assou-Ekotto,1
+F. Diagne,Caf\u00fa,1

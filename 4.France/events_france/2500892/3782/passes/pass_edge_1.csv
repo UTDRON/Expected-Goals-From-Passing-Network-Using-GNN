@@ -1,0 +1,101 @@
+Source,Target,Weight
+R. Pierre-Gabriel,K. Th\u00e9ophile Catherine,12
+J. Bamba,R. Pierre-Gabriel,10
+K. Th\u00e9ophile Catherine,R. Pierre-Gabriel,10
+K. Th\u00e9ophile Catherine,J. Moulin,8
+B. Dabo,K. Th\u00e9ophile Catherine,7
+L. Perrin,K. Th\u00e9ophile Catherine,7
+R. Cabella,J. Bamba,7
+K. Th\u00e9ophile Catherine,B. Dabo,6
+B. Dabo,R. Pierre-Gabriel,6
+C. M'Bengue,R. Cabella,6
+Y. M'Vila,B. Dabo,6
+K. Th\u00e9ophile Catherine,Y. M'Vila,6
+J. Moulin,K. Th\u00e9ophile Catherine,6
+Y. M'Vila,R. Pierre-Gabriel,6
+R. Pierre-Gabriel,J. Bamba,5
+J. Bamba,Y. M'Vila,5
+K. Th\u00e9ophile Catherine,J. Bamba,5
+J. Bamba,R. Cabella,5
+R. Pierre-Gabriel,R. Cabella,5
+C. M'Bengue,A. Diouss\u00e9,5
+R. Hamouma,R. Cabella,5
+L. Perrin,J. Moulin,5
+A. Diouss\u00e9,R. Cabella,5
+A. Diouss\u00e9,C. M'Bengue,5
+R. Cabella,L. Perrin,5
+J. Moulin,L. Perrin,4
+R. Cabella,C. M'Bengue,4
+A. Diouss\u00e9,Y. M'Vila,4
+J. Bamba,B. Dabo,4
+B. Dabo,J. Moulin,4
+Y. M'Vila,K. Th\u00e9ophile Catherine,4
+B. Dabo,L. Perrin,4
+R. Cabella,B. Dabo,4
+R. Cabella,R. Hamouma,4
+R. Cabella,K. Th\u00e9ophile Catherine,4
+K. Th\u00e9ophile Catherine,A. Diouss\u00e9,4
+R. Pierre-Gabriel,B. Dabo,4
+J. Moulin,Y. M'Vila,3
+Y. M'Vila,R. Cabella,3
+J. Moulin,J. Bamba,3
+R. Pierre-Gabriel,R. Hamouma,3
+B. Dabo,Y. M'Vila,3
+K. Th\u00e9ophile Catherine,R. Cabella,3
+B. Dabo,C. M'Bengue,3
+K. Th\u00e9ophile Catherine,L. Perrin,3
+J. Moulin,A. Diouss\u00e9,3
+B. Dabo,R. Cabella,3
+R. Hamouma,J. Bamba,3
+R. Pierre-Gabriel,L. Perrin,3
+J. Bamba,R. Hamouma,3
+Y. M'Vila,J. Bamba,3
+L. Perrin,B. Dabo,3
+A. Diouss\u00e9,K. Th\u00e9ophile Catherine,3
+C. M'Bengue,L. Perrin,3
+L. Perrin,C. M'Bengue,3
+R. Hamouma,B. Dabo,3
+L. Perrin,J. Bamba,2
+L. Perrin,Y. M'Vila,2
+C. M'Bengue,R. Hamouma,2
+R. Hamouma,R. Pierre-Gabriel,2
+R. Cabella,A. Diouss\u00e9,2
+L. Perrin,R. Pierre-Gabriel,2
+R. Pierre-Gabriel,A. Diouss\u00e9,2
+R. Hamouma,Y. M'Vila,2
+L. Perrin,A. Diouss\u00e9,2
+R. Cabella,R. Beri\u010d,2
+J. Bamba,K. Th\u00e9ophile Catherine,2
+A. Diouss\u00e9,R. Hamouma,2
+J. Moulin,B. Dabo,2
+Y. M'Vila,A. Diouss\u00e9,2
+R. Pierre-Gabriel,Y. M'Vila,2
+C. M'Bengue,J. Moulin,2
+R. Hamouma,L. Perrin,2
+R. Cabella,J. Moulin,2
+B. Dabo,J. Bamba,2
+A. Diouss\u00e9,L. Perrin,2
+Y. M'Vila,C. M'Bengue,2
+J. Moulin,C. M'Bengue,2
+B. Dabo,A. Diouss\u00e9,2
+C. M'Bengue,B. Dabo,2
+R. Cabella,R. Pierre-Gabriel,1
+A. Diouss\u00e9,B. Dabo,1
+R. Beri\u010d,C. M'Bengue,1
+Y. M'Vila,R. Hamouma,1
+B. Dabo,R. Hamouma,1
+J. Moulin,R. Cabella,1
+R. Pierre-Gabriel,J. Moulin,1
+J. Bamba,C. M'Bengue,1
+A. Diouss\u00e9,J. Bamba,1
+J. Bamba,J. Moulin,1
+R. Beri\u010d,A. Diouss\u00e9,1
+L. Perrin,R. Hamouma,1
+C. M'Bengue,Y. M'Vila,1
+J. Bamba,A. Diouss\u00e9,1
+A. Diouss\u00e9,J. Moulin,1
+R. Hamouma,C. M'Bengue,1
+Y. M'Vila,R. Beri\u010d,1
+Y. M'Vila,L. Perrin,1
+R. Cabella,Y. M'Vila,1
+C. M'Bengue,J. Bamba,1

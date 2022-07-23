@@ -1,0 +1,23 @@
+Source,Target,Weight
+E. Skhiri,P. Lasne,2
+F. P\u00edriz,Pedro Mendes,1
+P. Lasne,Hilton,1
+K. Dolly,P. Lasne,1
+P. Lasne,J. Sambia,1
+Hilton,K. Dolly,1
+F. P\u00edriz,Hilton,1
+Pedro Mendes,F. P\u00edriz,1
+Pedro Mendes,Hilton,1
+J. Sambia,I. Mbenza,1
+P. Lasne,E. Skhiri,1
+F. P\u00edriz,K. Dolly,1
+P. Lasne,F. P\u00edriz,1
+I. Mbenza,E. Skhiri,1
+Hilton,Pedro Mendes,1
+G. Sio,F. P\u00edriz,1
+K. Dolly,G. Sio,1
+J. Sambia,G. Sio,1
+Pedro Mendes,J. Sambia,1
+Hilton,P. Lasne,1
+G. Sio,E. Skhiri,1
+J. Sambia,Pedro Mendes,1

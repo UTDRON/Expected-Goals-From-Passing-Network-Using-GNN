@@ -1,0 +1,16 @@
+Source,Target,Weight
+M. Risse,C. Pizarro,2
+M. Risse,Jorge Mer\u00e9,2
+M. H\u00f6ger,M. Risse,2
+Jorge Mer\u00e9,M. Risse,1
+J. Hector,D. Maroh,1
+C. Pizarro,J. Hector,1
+V. Koziello,J. C\u00f3rdoba,1
+J. C\u00f3rdoba,D. Maroh,1
+C. Pizarro,M. Risse,1
+D. Maroh,M. H\u00f6ger,1
+Jorge Mer\u00e9,J. Hector,1
+D. Maroh,J. Hector,1
+J. Hector,V. Koziello,1
+V. Koziello,M. H\u00f6ger,1
+J. Hector,C. Pizarro,1

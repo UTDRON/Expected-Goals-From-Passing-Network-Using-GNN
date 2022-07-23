@@ -1,0 +1,11 @@
+Source,Target,Weight
+B. Ketkeophomphone,L. Coulibaly,1
+B. Ketkeophomphone,W. Kanga,1
+A. Bamba,F. Tait,1
+T. Mangani,A. Bamba,1
+L. Coulibaly,F. Tait,1
+T. Mangani,B. Ketkeophomphone,1
+F. Tait,B. Ketkeophomphone,1
+W. Kanga,F. Tait,1
+F. Tait,W. Kanga,1
+F. Tait,T. Mangani,1

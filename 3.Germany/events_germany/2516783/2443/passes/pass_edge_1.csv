@@ -1,0 +1,84 @@
+Source,Target,Weight
+T. Gebre Selassie,J. Gondorf,6
+T. Delaney,L. Caldirola,5
+J. Gondorf,M. Eggestein,5
+F. Bartels,T. Delaney,5
+T. Delaney,M. Eggestein,5
+F. Kainz,T. Gebre Selassie,5
+L. Augustinsson,T. Delaney,4
+J. Gondorf,F. Kainz,4
+L. Augustinsson,F. Bartels,4
+T. Delaney,R. Bauer,4
+R. Bauer,T. Gebre Selassie,4
+T. Delaney,J. Gondorf,4
+T. Delaney,L. Augustinsson,4
+M. Eggestein,T. Delaney,4
+J. Gondorf,M. Veljkovic,4
+M. Eggestein,J. Gondorf,4
+M. Veljkovic,T. Delaney,4
+L. Augustinsson,J. Gondorf,3
+F. Kainz,T. Delaney,3
+M. Veljkovic,R. Bauer,3
+F. Kainz,L. Augustinsson,3
+L. Caldirola,M. Veljkovic,3
+J. Gondorf,L. Caldirola,3
+T. Gebre Selassie,F. Kainz,3
+M. Eggestein,T. Gebre Selassie,3
+L. Augustinsson,M. Eggestein,3
+M. Veljkovic,J. Pavlenka,3
+F. Bartels,L. Augustinsson,3
+M. Veljkovic,L. Caldirola,3
+M. Eggestein,L. Augustinsson,3
+F. Kainz,J. Gondorf,3
+J. Pavlenka,T. Gebre Selassie,3
+L. Caldirola,J. Gondorf,3
+J. Pavlenka,F. Kainz,3
+F. Bartels,F. Kainz,3
+T. Gebre Selassie,M. Eggestein,3
+J. Gondorf,R. Bauer,3
+J. Gondorf,T. Gebre Selassie,3
+L. Caldirola,T. Delaney,2
+J. Pavlenka,M. Veljkovic,2
+R. Bauer,J. Gondorf,2
+R. Bauer,F. Bartels,2
+F. Bartels,J. Gondorf,2
+J. Gondorf,J. Pavlenka,2
+R. Bauer,J. Pavlenka,2
+M. Eggestein,F. Kainz,2
+L. Caldirola,L. Augustinsson,2
+M. Eggestein,F. Bartels,2
+T. Delaney,F. Bartels,2
+T. Gebre Selassie,T. Delaney,2
+M. Eggestein,M. Veljkovic,2
+J. Pavlenka,M. Eggestein,2
+R. Bauer,M. Veljkovic,2
+F. Kainz,R. Bauer,2
+J. Gondorf,F. Bartels,2
+T. Gebre Selassie,M. Veljkovic,2
+J. Gondorf,T. Delaney,2
+M. Veljkovic,F. Kainz,2
+T. Delaney,J. Pavlenka,2
+L. Augustinsson,F. Kainz,2
+F. Kainz,F. Bartels,2
+L. Caldirola,F. Bartels,1
+M. Veljkovic,T. Gebre Selassie,1
+F. Bartels,L. Caldirola,1
+M. Eggestein,J. Pavlenka,1
+R. Bauer,T. Delaney,1
+L. Caldirola,M. Eggestein,1
+M. Veljkovic,J. Gondorf,1
+T. Gebre Selassie,L. Caldirola,1
+J. Pavlenka,T. Delaney,1
+J. Pavlenka,R. Bauer,1
+M. Eggestein,R. Bauer,1
+F. Kainz,M. Veljkovic,1
+F. Kainz,J. Pavlenka,1
+R. Bauer,M. Eggestein,1
+F. Bartels,M. Veljkovic,1
+L. Caldirola,J. Pavlenka,1
+T. Gebre Selassie,L. Augustinsson,1
+R. Bauer,F. Kainz,1
+T. Delaney,T. Gebre Selassie,1
+M. Veljkovic,M. Eggestein,1
+T. Delaney,M. Veljkovic,1
+T. Gebre Selassie,R. Bauer,1

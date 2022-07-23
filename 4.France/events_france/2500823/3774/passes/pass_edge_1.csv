@@ -1,0 +1,51 @@
+Source,Target,Weight
+M. Zeffane,J. Lea Siliki,5
+B. Bourigeaud,H. Traor\u00e9,4
+J. Lea Siliki,M. Zeffane,3
+H. Traor\u00e9,J. Gelin,3
+Y. Gourcuff,B. Andr\u00e9,3
+J. Lea Siliki,Mexer,3
+H. Traor\u00e9,B. Bourigeaud,3
+B. Bourigeaud,J. Lea Siliki,2
+J. Gelin,H. Traor\u00e9,2
+W. Khazri,Y. Gourcuff,2
+B. Bourigeaud,B. Andr\u00e9,2
+B. Andr\u00e9,H. Traor\u00e9,2
+B. Andr\u00e9,B. Bourigeaud,2
+H. Traor\u00e9,Y. Gourcuff,2
+B. Andr\u00e9,Y. Gourcuff,2
+B. Andr\u00e9,W. Khazri,2
+Y. Gourcuff,J. Gelin,2
+Y. Gourcuff,J. Lea Siliki,2
+Mexer,M. Zeffane,2
+W. Khazri,M. Zeffane,2
+M. Zeffane,A. Hunou,2
+J. Gelin,B. Bourigeaud,2
+Mexer,T. Koubek,2
+J. Lea Siliki,W. Khazri,2
+J. Gelin,J. Lea Siliki,2
+J. Lea Siliki,Y. Gourcuff,2
+B. Bourigeaud,W. Khazri,1
+A. Hunou,J. Lea Siliki,1
+T. Koubek,J. Lea Siliki,1
+J. Lea Siliki,J. Gelin,1
+A. Hunou,M. Zeffane,1
+H. Traor\u00e9,Mexer,1
+A. Hunou,B. Andr\u00e9,1
+H. Traor\u00e9,B. Andr\u00e9,1
+Y. Gourcuff,Mexer,1
+W. Khazri,A. Hunou,1
+Mexer,H. Traor\u00e9,1
+A. Hunou,Y. Gourcuff,1
+J. Gelin,Y. Gourcuff,1
+M. Zeffane,Mexer,1
+J. Gelin,B. Andr\u00e9,1
+Y. Gourcuff,B. Bourigeaud,1
+Y. Gourcuff,H. Traor\u00e9,1
+J. Lea Siliki,A. Hunou,1
+J. Lea Siliki,B. Bourigeaud,1
+B. Bourigeaud,J. Gelin,1
+Mexer,J. Gelin,1
+T. Koubek,J. Gelin,1
+J. Gelin,W. Khazri,1
+W. Khazri,B. Bourigeaud,1

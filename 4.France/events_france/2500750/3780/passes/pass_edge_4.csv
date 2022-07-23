@@ -1,0 +1,32 @@
+Source,Target,Weight
+A. Delort,K. Amian,4
+K. Amian,Som\u00e1lia,3
+Som\u00e1lia,K. Amian,3
+A. Lafont,A. Delort,2
+I. Diop,A. Lafont,2
+A. Blin,Som\u00e1lia,2
+Som\u00e1lia,I. Diop,2
+K. Amian,A. Delort,2
+I. Diop,Som\u00e1lia,2
+Som\u00e1lia,C. Jean,2
+C. Jean,A. Delort,1
+C. Jean,F. Moubandje,1
+F. Moubandje,C. Jean,1
+D. Khalid,A. Delort,1
+F. Moubandje,I. Diop,1
+A. Lafont,F. Moubandje,1
+Som\u00e1lia,F. Moubandje,1
+K. Amian,A. Blin,1
+K. Amian,C. Jean,1
+C. Jean,I. Diop,1
+F. Moubandje,Y. Cahuzac,1
+A. Delort,D. Khalid,1
+Y. Cahuzac,A. Delort,1
+Y. Cahuzac,C. Jullien,1
+F. Moubandje,A. Blin,1
+C. Jean,Y. Cahuzac,1
+C. Jullien,Som\u00e1lia,1
+Som\u00e1lia,A. Lafont,1
+K. Amian,D. Khalid,1
+A. Delort,Som\u00e1lia,1
+D. Khalid,K. Amian,1

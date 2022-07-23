@@ -1,0 +1,40 @@
+Source,Target,Weight
+S. Ilsanker,L. Klostermann,4
+D. Upamecano,N. Ke\u00efta,4
+S. Ilsanker,D. Upamecano,4
+D. Upamecano,S. Ilsanker,4
+Bernardo,D. Upamecano,4
+T. Werner,N. Ke\u00efta,3
+L. Klostermann,K. Kampl,3
+J. Augustin,Bernardo,3
+N. Ke\u00efta,D. Upamecano,3
+K. Kampl,S. Ilsanker,2
+P. Gul\u00e1csi,S. Ilsanker,2
+L. Klostermann,S. Ilsanker,2
+S. Ilsanker,J. Augustin,2
+N. Ke\u00efta,P. Gul\u00e1csi,2
+K. Kampl,N. Ke\u00efta,2
+D. Upamecano,Bernardo,2
+N. Ke\u00efta,Bernardo,2
+K. Kampl,L. Klostermann,1
+T. Werner,J. Augustin,1
+N. Ke\u00efta,K. Kampl,1
+K. Laimer,S. Ilsanker,1
+D. Upamecano,T. Werner,1
+Bernardo,N. Ke\u00efta,1
+N. Ke\u00efta,E. Forsberg,1
+E. Forsberg,L. Klostermann,1
+L. Klostermann,P. Gul\u00e1csi,1
+P. Gul\u00e1csi,K. Laimer,1
+E. Forsberg,K. Kampl,1
+K. Laimer,K. Kampl,1
+Bernardo,S. Ilsanker,1
+Bernardo,E. Forsberg,1
+K. Kampl,K. Laimer,1
+S. Ilsanker,T. Werner,1
+N. Ke\u00efta,K. Laimer,1
+K. Laimer,N. Ke\u00efta,1
+N. Ke\u00efta,T. Werner,1
+Bernardo,J. Augustin,1
+S. Ilsanker,K. Kampl,1
+K. Kampl,T. Werner,1

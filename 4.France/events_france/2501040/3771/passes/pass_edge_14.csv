@@ -1,0 +1,51 @@
+Source,Target,Weight
+Luiz Gustavo,J. Amavi,3
+B. Kamara,V. Germain,3
+F. Thauvin,A. Zambo Anguissa,3
+B. Sarr,F. Thauvin,3
+F. Thauvin,B. Sarr,2
+V. Germain,B. Sarr,2
+A. Zambo Anguissa,B. Kamara,2
+J. Amavi,L. Ocampos,2
+G. Sertic,A. Zambo Anguissa,2
+L. Ocampos,J. Amavi,2
+G. Sertic,Luiz Gustavo,2
+G. Sertic,B. Kamara,2
+J. Amavi,Luiz Gustavo,2
+B. Kamara,G. Sertic,2
+L. Ocampos,F. Thauvin,2
+B. Kamara,A. Zambo Anguissa,2
+D. Payet,F. Thauvin,2
+A. Zambo Anguissa,J. Amavi,2
+B. Sarr,C. N'Jie,1
+B. Sarr,G. Sertic,1
+J. Amavi,A. Zambo Anguissa,1
+A. Zambo Anguissa,S. Mandanda,1
+J. Amavi,B. Kamara,1
+L. Ocampos,S. Mandanda,1
+F. Thauvin,B. Kamara,1
+A. Zambo Anguissa,B. Sarr,1
+V. Germain,L. Ocampos,1
+A. Zambo Anguissa,Luiz Gustavo,1
+Luiz Gustavo,G. Sertic,1
+A. Zambo Anguissa,C. N'Jie,1
+S. Mandanda,Luiz Gustavo,1
+C. N'Jie,B. Sarr,1
+S. Mandanda,B. Kamara,1
+L. Ocampos,D. Payet,1
+A. Zambo Anguissa,D. Payet,1
+D. Payet,V. Germain,1
+J. Amavi,B. Sarr,1
+A. Zambo Anguissa,L. Ocampos,1
+D. Payet,A. Zambo Anguissa,1
+Luiz Gustavo,A. Zambo Anguissa,1
+F. Thauvin,D. Payet,1
+B. Kamara,Luiz Gustavo,1
+C. N'Jie,D. Payet,1
+A. Zambo Anguissa,G. Sertic,1
+Luiz Gustavo,D. Payet,1
+D. Payet,L. Ocampos,1
+Luiz Gustavo,B. Kamara,1
+B. Sarr,D. Payet,1
+V. Germain,A. Zambo Anguissa,1
+B. Sarr,L. Ocampos,1

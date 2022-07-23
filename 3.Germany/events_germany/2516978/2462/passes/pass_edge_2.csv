@@ -1,0 +1,20 @@
+Source,Target,Weight
+M. Wolf,D. da Costa,3
+K. Boateng,M. Wolf,2
+S. Falette,J. de Guzm\u00e1n,2
+D. da Costa,D. Abraham,2
+M. Hasebe,S. Falette,1
+D. Abraham,K. Boateng,1
+M. Hasebe,L. Hradecky,1
+J. de Guzm\u00e1n,M. Hasebe,1
+L. Jovi\u0107,S. Falette,1
+L. Jovi\u0107,D. da Costa,1
+D. Abraham,M. Hasebe,1
+L. Hradecky,S. Falette,1
+J. de Guzm\u00e1n,D. Abraham,1
+A. Rebi\u0107,L. Jovi\u0107,1
+K. Boateng,A. Rebi\u0107,1
+D. Abraham,M. Wolf,1
+S. Falette,M. Wolf,1
+M. Wolf,K. Boateng,1
+D. da Costa,L. Jovi\u0107,1

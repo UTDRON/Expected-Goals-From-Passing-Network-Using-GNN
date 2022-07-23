@@ -1,0 +1,38 @@
+Source,Target,Weight
+F. Eboa Eboa,F. Tabanou,5
+F. Tabanou,F. Eboa Eboa,3
+C. Kerbrat,C. Grenier,3
+J. Martins-Pereira,L. Blas,3
+C. Grenier,J. Martins-Pereira,3
+C. Grenier,F. Eboa Eboa,2
+N. Benezet,J. Martins-Pereira,2
+L. Blas,C. Grenier,2
+F. Tabanou,J. Martins-Pereira,2
+J. Briand,C. Kerbrat,1
+C. Kerbrat,L. Blas,1
+N. Benezet,M. Coco,1
+C. Grenier,N. Benezet,1
+J. Martins-Pereira,C. Grenier,1
+J. Martins-Pereira,C. Kerbrat,1
+K. Johnsson,L. Blas,1
+J. Martins-Pereira,F. Eboa Eboa,1
+F. Eboa Eboa,C. Kerbrat,1
+C. Kerbrat,K. Johnsson,1
+F. Eboa Eboa,N. Benezet,1
+F. Eboa Eboa,J. Briand,1
+J. Briand,J. Martins-Pereira,1
+L. Blas,F. Eboa Eboa,1
+J. Martins-Pereira,N. Benezet,1
+C. Kerbrat,F. Eboa Eboa,1
+N. Benezet,F. Tabanou,1
+F. Tabanou,M. Coco,1
+L. Blas,M. Coco,1
+C. Grenier,C. Kerbrat,1
+L. Blas,C. Kerbrat,1
+M. Coco,F. Eboa Eboa,1
+M. Coco,L. Blas,1
+M. Coco,N. Benezet,1
+J. Martins-Pereira,M. Thuram,1
+L. Blas,N. Benezet,1
+F. Eboa Eboa,C. Grenier,1
+N. Benezet,C. Kerbrat,1

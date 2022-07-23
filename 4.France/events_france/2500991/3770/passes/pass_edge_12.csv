@@ -1,0 +1,44 @@
+Source,Target,Weight
+Lucas Lima,V. Rongier,4
+V. Rongier,R. Krhin,3
+Lucas Lima,E. Sala,2
+V. Rongier,Lucas Lima,2
+Lucas Lima,A. Thomasson,2
+C. T\u0103t\u0103ru\u0219anu,Lucas Lima,2
+Lucas Lima,N. Pallois,2
+A. Thomasson,Lucas Lima,2
+N. Pallois,Lucas Lima,2
+R. Krhin,V. Rongier,2
+A. Thomasson,L. Dubois,2
+R. Krhin,Lucas Lima,2
+A. Thomasson,V. Rongier,1
+N. Pallois,C. T\u0103t\u0103ru\u0219anu,1
+R. Krhin,L. Dubois,1
+A. Thomasson,N. Pallois,1
+Y. Bammou,A. Thomasson,1
+Diego Carlos,Y. El Ghanassy,1
+Diego Carlos,N. Pallois,1
+Y. El Ghanassy,R. Krhin,1
+Diego Carlos,Y. Bammou,1
+Lucas Lima,R. Krhin,1
+E. Sala,Y. El Ghanassy,1
+L. Dubois,R. Krhin,1
+R. Krhin,N. Pallois,1
+N. Pallois,L. Dubois,1
+Y. El Ghanassy,Diego Carlos,1
+C. T\u0103t\u0103ru\u0219anu,N. Pallois,1
+L. Dubois,E. Sala,1
+Lucas Lima,L. Dubois,1
+N. Pallois,Y. Bammou,1
+L. Dubois,A. Thomasson,1
+V. Rongier,A. Thomasson,1
+N. Pallois,R. Krhin,1
+E. Sala,Lucas Lima,1
+Y. Bammou,N. Pallois,1
+R. Krhin,C. T\u0103t\u0103ru\u0219anu,1
+N. Pallois,V. Rongier,1
+Y. El Ghanassy,Lucas Lima,1
+L. Dubois,C. T\u0103t\u0103ru\u0219anu,1
+E. Sala,A. Thomasson,1
+V. Rongier,Y. El Ghanassy,1
+L. Dubois,Diego Carlos,1

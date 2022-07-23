@@ -1,0 +1,16 @@
+Source,Target,Weight
+L. Bailey,P. Retsos,2
+P. Retsos,L. Bailey,2
+Wendell,S. Bender,2
+J. Baumgartlinger,S. Bender,1
+L. Bailey,B. Leno,1
+S. Bender,D. Kohr,1
+S. Bender,P. Retsos,1
+J. Tah,L. Bailey,1
+B. Leno,Wendell,1
+S. Bender,J. Tah,1
+P. Retsos,C. Ar\u00e1nguiz,1
+D. Kohr,L. Bailey,1
+C. Ar\u00e1nguiz,J. Tah,1
+J. Tah,J. Baumgartlinger,1
+L. Bailey,J. Brandt,1

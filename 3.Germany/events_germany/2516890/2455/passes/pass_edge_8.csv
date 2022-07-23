@@ -1,0 +1,27 @@
+Source,Target,Weight
+S. San\u00e9,O. Sorg,2
+S. San\u00e9,W. Anton,2
+P. Tschauner,O. Sorg,2
+O. Sorg,N. F\u00fcllkrug,2
+O. Sorg,S. San\u00e9,2
+O. Sorg,I. Fossum,1
+W. Anton,P. Tschauner,1
+P. Schwegler,I. Bebou,1
+I. Fossum,F. Klaus,1
+M. Ostrzolek,W. Anton,1
+I. Bebou,J. Korb,1
+I. Fossum,I. Bebou,1
+I. Fossum,S. San\u00e9,1
+O. Sorg,J. Korb,1
+W. Anton,S. San\u00e9,1
+N. F\u00fcllkrug,F. Klaus,1
+J. Korb,O. Sorg,1
+F. Klaus,I. Fossum,1
+F. Klaus,P. Schwegler,1
+I. Bebou,I. Fossum,1
+F. Klaus,N. F\u00fcllkrug,1
+W. Anton,I. Bebou,1
+J. Korb,F. Klaus,1
+I. Bebou,O. Sorg,1
+I. Fossum,M. Ostrzolek,1
+N. F\u00fcllkrug,I. Fossum,1

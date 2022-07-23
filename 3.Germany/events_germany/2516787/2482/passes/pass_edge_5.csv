@@ -1,0 +1,23 @@
+Source,Target,Weight
+D. Geiger,B. H\u00fcbner,3
+L. Rupp,M. Uth,2
+O. Baumann,P. Kade\u0159\u00e1bek,1
+S. Zuber,K. Vogt,1
+K. Vogt,S. Zuber,1
+S. Zuber,S. Gnabry,1
+B. H\u00fcbner,K. Vogt,1
+B. H\u00fcbner,D. Geiger,1
+B. H\u00fcbner,M. Uth,1
+P. Kade\u0159\u00e1bek,B. H\u00fcbner,1
+S. Gnabry,D. Geiger,1
+K. Vogt,H. Nordtveit,1
+M. Uth,S. Gnabry,1
+S. Zuber,L. Rupp,1
+H. Nordtveit,O. Baumann,1
+D. Geiger,P. Kade\u0159\u00e1bek,1
+S. Gnabry,L. Rupp,1
+M. Uth,D. Geiger,1
+M. Uth,L. Rupp,1
+B. H\u00fcbner,S. Zuber,1
+M. Uth,S. Zuber,1
+L. Rupp,D. Geiger,1

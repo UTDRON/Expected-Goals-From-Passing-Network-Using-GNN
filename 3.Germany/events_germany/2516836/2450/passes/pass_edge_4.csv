@@ -1,0 +1,19 @@
+Source,Target,Weight
+M. Mavraj,Douglas Santos,2
+Douglas Santos,G. Sakai,2
+G. Sakai,Douglas Santos,1
+F. Kosti\u0107,A. Ekdal,1
+G. Sakai,J. Arp,1
+M. Mavraj,G. Sakai,1
+Douglas Santos,T. Ito,1
+Douglas Santos,M. Mavraj,1
+A. Ekdal,Douglas Santos,1
+T. Ito,F. Kosti\u0107,1
+J. Arp,T. Ito,1
+T. Ito,M. Mavraj,1
+K. Papadopoulos,M. Mavraj,1
+F. Kosti\u0107,D. Diekmeier,1
+D. Diekmeier,K. Papadopoulos,1
+G. Sakai,A. Hunt,1
+Douglas Santos,F. Kosti\u0107,1
+A. Hunt,Douglas Santos,1

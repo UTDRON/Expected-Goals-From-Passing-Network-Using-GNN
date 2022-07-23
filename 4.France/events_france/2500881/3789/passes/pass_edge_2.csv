@@ -1,0 +1,45 @@
+Source,Target,Weight
+E. Bourgaud,G. Kakuta,3
+O. El Hajjam,P. Gouano,3
+G. Kakuta,E. Bourgaud,2
+E. Bourgaud,O. El Hajjam,2
+G. Kakuta,B. Zungu,2
+P. Gouano,O. El Hajjam,2
+M. Konat\u00e9,E. Bourgaud,2
+B. Zungu,O. El Hajjam,2
+O. El Hajjam,B. Zungu,2
+P. Gouano,E. Bourgaud,2
+K. Ad\u00e9non,M. Konat\u00e9,1
+M. Konat\u00e9,I. Cissokho,1
+G. Fofana,P. Gouano,1
+G. Kakuta,O. El Hajjam,1
+J. Bouet,P. Gouano,1
+G. Kakuta,G. Fofana,1
+O. El Hajjam,I. Cissokho,1
+S. Gakp\u00e9,G. Fofana,1
+J. Bouet,K. Ad\u00e9non,1
+B. Zungu,G. Kakuta,1
+B. Zungu,K. Ad\u00e9non,1
+K. Ad\u00e9non,B. Zungu,1
+O. El Hajjam,J. Bouet,1
+P. Gouano,G. Fofana,1
+O. El Hajjam,E. Bourgaud,1
+I. Cissokho,O. El Hajjam,1
+J. Bouet,M. Konat\u00e9,1
+I. Cissokho,G. Kakuta,1
+P. Gouano,G. Kakuta,1
+E. Bourgaud,P. Gouano,1
+M. Konat\u00e9,G. Kakuta,1
+G. Fofana,K. Ad\u00e9non,1
+B. Zungu,P. Gouano,1
+O. El Hajjam,M. Konat\u00e9,1
+E. Bourgaud,I. Cissokho,1
+B. Zungu,S. Gakp\u00e9,1
+G. Kakuta,I. Cissokho,1
+K. Ad\u00e9non,I. Cissokho,1
+P. Gouano,J. Bouet,1
+B. Zungu,J. Bouet,1
+S. Gakp\u00e9,M. Konat\u00e9,1
+G. Fofana,B. Zungu,1
+I. Cissokho,S. Gakp\u00e9,1
+I. Cissokho,B. Zungu,1

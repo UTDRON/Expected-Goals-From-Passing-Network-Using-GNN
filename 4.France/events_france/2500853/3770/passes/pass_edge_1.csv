@@ -1,0 +1,14 @@
+Source,Target,Weight
+A. Thomasson,Y. Bammou,3
+Y. Bammou,A. Thomasson,2
+V. Rongier,S. Ngom,1
+S. Ngom,A. Tour\u00e9,1
+E. Sala,V. Rongier,1
+A. Tour\u00e9,L. Dubois,1
+S. Ngom,V. Rongier,1
+V. Rongier,L. Dubois,1
+L. Dubois,S. Ngom,1
+S. Ngom,L. Dubois,1
+A. Thomasson,E. Sala,1
+L. Dubois,A. Thomasson,1
+Y. Bammou,S. Ngom,1

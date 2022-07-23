@@ -1,0 +1,62 @@
+Source,Target,Weight
+R. Oxford,N. Elvedi,4
+N. Elvedi,M. Ginter,4
+T. Hazard,M. Cuisance,4
+M. Cuisance,T. Hazard,3
+P. Herrmann,N. Elvedi,3
+Raffael,M. Cuisance,2
+Y. Sommer,M. Ginter,2
+O. Wendt,Y. Sommer,2
+O. Wendt,J. Vestergaard,2
+N. Elvedi,L. Stindl,2
+M. Cuisance,R. Oxford,2
+N. Elvedi,P. Herrmann,2
+N. Elvedi,R. Oxford,2
+N. Elvedi,T. Hazard,2
+T. Hazard,Raffael,2
+L. Stindl,J. Vestergaard,2
+J. Vestergaard,R. Oxford,2
+L. Stindl,Raffael,2
+Y. Sommer,O. Wendt,2
+M. Ginter,M. Cuisance,2
+R. Oxford,J. Vestergaard,2
+M. Ginter,R. Oxford,2
+M. Ginter,L. Stindl,2
+J. Vestergaard,T. Hazard,2
+L. Stindl,R. Oxford,1
+R. Oxford,P. Herrmann,1
+M. Cuisance,O. Wendt,1
+T. Hazard,J. Vestergaard,1
+Y. Sommer,R. Oxford,1
+P. Herrmann,T. Hazard,1
+J. Vestergaard,O. Wendt,1
+L. Stindl,M. Cuisance,1
+P. Herrmann,M. Cuisance,1
+P. Herrmann,O. Wendt,1
+M. Ginter,Y. Sommer,1
+Raffael,L. Stindl,1
+M. Cuisance,M. Ginter,1
+T. Hazard,P. Herrmann,1
+M. Cuisance,L. Stindl,1
+J. Vestergaard,Y. Sommer,1
+O. Wendt,N. Elvedi,1
+R. Oxford,M. Cuisance,1
+M. Cuisance,Raffael,1
+T. Hazard,N. Elvedi,1
+P. Herrmann,R. Oxford,1
+R. Oxford,T. Hazard,1
+M. Cuisance,Y. Sommer,1
+Y. Sommer,N. Elvedi,1
+N. Elvedi,J. Vestergaard,1
+M. Cuisance,P. Herrmann,1
+O. Wendt,T. Hazard,1
+L. Stindl,P. Herrmann,1
+Y. Sommer,P. Herrmann,1
+R. Oxford,Y. Sommer,1
+M. Ginter,N. Elvedi,1
+T. Hazard,O. Wendt,1
+R. Oxford,L. Stindl,1
+Raffael,T. Hazard,1
+J. Vestergaard,M. Ginter,1
+T. Hazard,Y. Sommer,1
+J. Vestergaard,N. Elvedi,1

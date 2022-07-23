@@ -1,0 +1,53 @@
+Source,Target,Weight
+N. Ke\u00efta,L. Klostermann,3
+L. Klostermann,N. Ke\u00efta,3
+K. Kampl,Bernardo,3
+Y. Poulsen,N. Ke\u00efta,3
+P. Gul\u00e1csi,Y. Poulsen,3
+K. Kampl,M. Sabitzer,3
+Y. Poulsen,L. Klostermann,3
+D. Upamecano,K. Kampl,2
+Y. Poulsen,Bernardo,2
+N. Ke\u00efta,K. Kampl,2
+K. Kampl,D. Upamecano,2
+Bernardo,D. Upamecano,2
+D. Upamecano,P. Gul\u00e1csi,2
+L. Klostermann,T. Werner,2
+Bernardo,Y. Poulsen,2
+L. Klostermann,M. Sabitzer,2
+Y. Poulsen,P. Gul\u00e1csi,2
+T. Werner,Y. Poulsen,2
+M. Sabitzer,Y. Poulsen,2
+W. Orban,N. Ke\u00efta,2
+E. Forsberg,Bernardo,1
+E. Forsberg,L. Klostermann,1
+D. Upamecano,E. Forsberg,1
+T. Werner,Bernardo,1
+D. Upamecano,L. Klostermann,1
+D. Upamecano,W. Orban,1
+Bernardo,E. Forsberg,1
+Bernardo,K. Kampl,1
+N. Ke\u00efta,D. Upamecano,1
+M. Sabitzer,K. Kampl,1
+E. Forsberg,K. Kampl,1
+M. Sabitzer,L. Klostermann,1
+W. Orban,Bernardo,1
+L. Klostermann,K. Kampl,1
+M. Sabitzer,T. Werner,1
+M. Sabitzer,E. Forsberg,1
+M. Sabitzer,W. Orban,1
+L. Klostermann,D. Upamecano,1
+Y. Poulsen,W. Orban,1
+Y. Poulsen,E. Forsberg,1
+M. Sabitzer,D. Upamecano,1
+N. Ke\u00efta,Y. Poulsen,1
+N. Ke\u00efta,M. Sabitzer,1
+L. Klostermann,Y. Poulsen,1
+Bernardo,M. Sabitzer,1
+E. Forsberg,W. Orban,1
+Bernardo,L. Klostermann,1
+P. Gul\u00e1csi,M. Sabitzer,1
+T. Werner,E. Forsberg,1
+Y. Poulsen,T. Werner,1
+E. Forsberg,Y. Poulsen,1
+W. Orban,E. Forsberg,1

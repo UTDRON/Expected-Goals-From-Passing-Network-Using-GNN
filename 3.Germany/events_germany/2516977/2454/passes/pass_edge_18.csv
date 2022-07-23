@@ -1,0 +1,21 @@
+Source,Target,Weight
+Raffael,L. Stindl,2
+F. Johnson,Raffael,2
+T. Jantschke,M. Ginter,2
+M. Ginter,N. Elvedi,2
+N. Elvedi,M. Ginter,2
+F. Johnson,M. Ginter,1
+N. Elvedi,M. Cuisance,1
+M. Ginter,M. Cuisance,1
+Raffael,F. Johnson,1
+F. Johnson,N. Elvedi,1
+M. Ginter,F. Johnson,1
+L. Stindl,N. Elvedi,1
+N. Elvedi,F. Johnson,1
+L. Stindl,M. Ginter,1
+T. Hazard,L. Stindl,1
+M. Cuisance,T. Hazard,1
+M. Ginter,T. Jantschke,1
+M. Ginter,Raffael,1
+M. Cuisance,N. Elvedi,1
+N. Elvedi,T. Jantschke,1

@@ -1,0 +1,15 @@
+Source,Target,Weight
+R. Cabella,Gabriel Silva,2
+Y. M'Vila,R. Hamouma,1
+R. Cabella,Y. M'Vila,1
+S. Ruffier,J. Bamba,1
+Gabriel Silva,R. Hamouma,1
+Gabriel Silva,R. Cabella,1
+Y. M'Vila,Gabriel Silva,1
+J. Bamba,Y. M'Vila,1
+J. Bamba,P. Ntep,1
+P. Ntep,J. Bamba,1
+R. Hamouma,R. Cabella,1
+R. Cabella,S. Ruffier,1
+Gabriel Silva,R. Beri\u010d,1
+R. Beri\u010d,R. Cabella,1

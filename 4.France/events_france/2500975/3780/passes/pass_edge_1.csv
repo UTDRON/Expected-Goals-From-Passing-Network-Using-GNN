@@ -1,0 +1,61 @@
+Source,Target,Weight
+K. Amian,A. Lafont,4
+A. Lafont,K. Amian,4
+M. Gradel,C. Jullien,3
+Som\u00e1lia,F. Mubele,3
+A. Lafont,I. Diop,3
+G. Imbula,I. Diop,2
+I. Sylla,M. Gradel,2
+Som\u00e1lia,A. Lafont,2
+K. Amian,I. Diop,2
+G. Imbula,M. Gradel,2
+I. Sylla,A. Lafont,2
+F. Mubele,K. Amian,2
+I. Diop,I. Sylla,2
+I. Diop,A. Lafont,2
+I. Sylla,Som\u00e1lia,2
+M. Gradel,I. Diop,2
+Y. Cahuzac,I. Sylla,2
+M. Gradel,I. Sylla,1
+Som\u00e1lia,Y. Sanogo,1
+I. Sylla,C. Jullien,1
+A. Lafont,G. Imbula,1
+G. Imbula,Som\u00e1lia,1
+C. Jullien,Y. Cahuzac,1
+Y. Sanogo,I. Sylla,1
+C. Jullien,K. Amian,1
+I. Sylla,G. Imbula,1
+I. Diop,F. Mubele,1
+I. Sylla,F. Mubele,1
+C. Jullien,A. Lafont,1
+F. Mubele,Y. Sanogo,1
+A. Lafont,C. Jullien,1
+F. Mubele,I. Sylla,1
+Y. Sanogo,G. Imbula,1
+M. Gradel,Y. Cahuzac,1
+Som\u00e1lia,G. Imbula,1
+K. Amian,Y. Sanogo,1
+I. Diop,Som\u00e1lia,1
+C. Jullien,Y. Sanogo,1
+Y. Sanogo,C. Jullien,1
+K. Amian,F. Mubele,1
+I. Diop,Y. Sanogo,1
+I. Diop,G. Imbula,1
+K. Amian,M. Gradel,1
+M. Gradel,A. Lafont,1
+F. Mubele,Som\u00e1lia,1
+Y. Cahuzac,C. Jullien,1
+Som\u00e1lia,M. Gradel,1
+C. Jullien,Som\u00e1lia,1
+Y. Cahuzac,K. Amian,1
+C. Jullien,I. Sylla,1
+A. Lafont,M. Gradel,1
+Y. Sanogo,Y. Cahuzac,1
+A. Lafont,Som\u00e1lia,1
+A. Lafont,I. Sylla,1
+I. Diop,Y. Cahuzac,1
+I. Diop,K. Amian,1
+M. Gradel,Y. Sanogo,1
+Y. Sanogo,I. Diop,1
+Y. Sanogo,Som\u00e1lia,1
+C. Jullien,M. Gradel,1

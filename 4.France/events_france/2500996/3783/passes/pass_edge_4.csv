@@ -1,0 +1,75 @@
+Source,Target,Weight
+A. Djiku,V. Bessat,6
+R. Rodelin,V. Bessat,6
+J. Deminguet,A. Djiku,6
+J. Deminguet,V. Bessat,5
+V. Bessat,B. Sankoh,4
+J. F\u00e9ret,B. Sankoh,4
+V. Bessat,A. Djiku,4
+F. Guilbert,R. Genevois,4
+V. Bessat,D. Da Silva,4
+B. Sankoh,F. Guilbert,3
+J. F\u00e9ret,R. Rodelin,3
+R. Genevois,D. Da Silva,3
+R. Genevois,F. Guilbert,3
+V. Bessat,F. Guilbert,3
+V. Bessat,J. Deminguet,3
+V. Bessat,R. Rodelin,3
+A. Djiku,J. Deminguet,3
+J. Deminguet,R. Rodelin,3
+I. Santini,R. Rodelin,2
+R. Genevois,J. F\u00e9ret,2
+D. Da Silva,J. Deminguet,2
+R. Rodelin,I. Santini,2
+V. Bessat,J. F\u00e9ret,2
+B. Sankoh,V. Bessat,2
+R. Rodelin,J. Deminguet,2
+R. Rodelin,B. Sankoh,2
+B. Sankoh,J. F\u00e9ret,2
+R. Rodelin,J. F\u00e9ret,2
+V. Bessat,I. Santini,2
+B. Sankoh,R. Genevois,2
+J. F\u00e9ret,V. Bessat,2
+I. Santini,F. Guilbert,2
+I. Santini,V. Bessat,2
+A. Djiku,R. Rodelin,2
+A. Djiku,J. F\u00e9ret,2
+D. Da Silva,A. Djiku,2
+F. Guilbert,J. Deminguet,2
+B. Sankoh,I. Santini,2
+F. Guilbert,B. Sankoh,2
+F. Guilbert,J. F\u00e9ret,2
+B. Sankoh,J. Deminguet,2
+R. Genevois,I. Santini,1
+A. Djiku,R. Vercoutre,1
+F. Guilbert,A. Djiku,1
+D. Da Silva,F. Guilbert,1
+R. Genevois,V. Bessat,1
+J. F\u00e9ret,R. Vercoutre,1
+R. Vercoutre,B. Sankoh,1
+I. Santini,R. Genevois,1
+A. Djiku,F. Guilbert,1
+J. Deminguet,J. F\u00e9ret,1
+R. Rodelin,D. Da Silva,1
+R. Genevois,B. Sankoh,1
+F. Guilbert,V. Bessat,1
+J. F\u00e9ret,R. Genevois,1
+D. Da Silva,B. Sankoh,1
+D. Da Silva,J. F\u00e9ret,1
+R. Vercoutre,R. Genevois,1
+F. Guilbert,D. Da Silva,1
+I. Santini,B. Sankoh,1
+B. Sankoh,A. Djiku,1
+C. Kouakou,I. Santini,1
+B. Sankoh,C. Kouakou,1
+I. Santini,J. Deminguet,1
+J. F\u00e9ret,A. Djiku,1
+D. Da Silva,R. Vercoutre,1
+V. Bessat,R. Genevois,1
+J. F\u00e9ret,I. Santini,1
+J. Deminguet,F. Guilbert,1
+R. Vercoutre,V. Bessat,1
+J. F\u00e9ret,J. Deminguet,1
+F. Guilbert,R. Rodelin,1
+B. Sankoh,R. Rodelin,1
+D. Da Silva,R. Genevois,1

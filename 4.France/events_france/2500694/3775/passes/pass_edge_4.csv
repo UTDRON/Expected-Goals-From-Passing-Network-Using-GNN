@@ -1,0 +1,52 @@
+Source,Target,Weight
+M. Le Marchand,M. Sarr,3
+A. Souquet,Dante,3
+Dante,V. Eysseric,3
+P. Lees Melou,V. Eysseric,2
+P. Lees Melou,A. Souquet,2
+V. Koziello,Dante,2
+Dante,V. Koziello,2
+Dante,M. Le Marchand,2
+V. Koziello,M. Le Marchand,2
+M. Sarr,V. Eysseric,2
+B. Srarfi,V. Koziello,2
+Y. Cardinale,M. Le Marchand,2
+V. Eysseric,M. Le Marchand,2
+V. Eysseric,Dante,2
+M. Le Marchand,Dante,2
+V. Eysseric,P. Lees Melou,2
+M. Le Marchand,V. Koziello,1
+V. Eysseric,B. Srarfi,1
+Dante,A. Pl\u00e9a,1
+A. Souquet,M. Le Marchand,1
+M. Le Marchand,A. Pl\u00e9a,1
+Dante,A. Souquet,1
+A. Souquet,V. Koziello,1
+R. Walter,M. Le Marchand,1
+M. Le Marchand,R. Walter,1
+M. Sarr,P. Lees Melou,1
+A. Pl\u00e9a,P. Lees Melou,1
+M. Sarr,Dante,1
+R. Walter,M. Sarr,1
+V. Eysseric,V. Koziello,1
+V. Koziello,B. Srarfi,1
+R. Walter,B. Srarfi,1
+V. Koziello,A. Pl\u00e9a,1
+A. Pl\u00e9a,Dante,1
+B. Srarfi,M. Sarr,1
+V. Eysseric,M. Sarr,1
+A. Souquet,Y. Cardinale,1
+M. Sarr,M. Le Marchand,1
+M. Sarr,V. Koziello,1
+M. Sarr,R. Walter,1
+M. Le Marchand,V. Eysseric,1
+M. Le Marchand,A. Souquet,1
+A. Pl\u00e9a,A. Souquet,1
+V. Eysseric,A. Souquet,1
+Dante,M. Sarr,1
+V. Marcel,V. Eysseric,1
+Dante,Y. Cardinale,1
+V. Eysseric,V. Marcel,1
+M. Le Marchand,Y. Cardinale,1
+V. Koziello,V. Eysseric,1
+Y. Cardinale,V. Eysseric,1

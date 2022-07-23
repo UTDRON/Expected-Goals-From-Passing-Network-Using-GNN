@@ -1,0 +1,59 @@
+Source,Target,Weight
+V. Vada,L. Lerager,5
+Malcom,Y. Sabaly,4
+L. Lerager,V. Vada,4
+V. Vada,N. de Pr\u00e9ville,3
+Malcom,V. Vada,2
+N. de Pr\u00e9ville,Y. Sabaly,2
+Malcom,L. Lerager,2
+V. Vada,Malcom,2
+N. de Pr\u00e9ville,Malcom,2
+F. Kamano,V. Vada,2
+V. Jovanovi\u0107,F. Kamano,2
+L. Lerager,V. Jovanovi\u0107,2
+N. de Pr\u00e9ville,V. Vada,2
+Malcom,N. de Pr\u00e9ville,2
+L. Lerager,Malcom,2
+Y. Sabaly,Jonathan Cafu,2
+V. Vada,Y. Sabaly,2
+Y. Sabaly,B. Costil,2
+Y. Sabaly,V. Vada,2
+Y. Sabaly,N. de Pr\u00e9ville,2
+T. Pellenard,V. Vada,1
+F. Kamano,B. Costil,1
+J. Toulalan,Y. Sabaly,1
+V. Jovanovi\u0107,J. Toulalan,1
+Y. Sabaly,Malcom,1
+T. Pellenard,V. Jovanovi\u0107,1
+T. Pellenard,L. Lerager,1
+N. de Pr\u00e9ville,T. Pellenard,1
+Jonathan Cafu,Malcom,1
+Y. Sabaly,L. Lerager,1
+T. Pellenard,J. Toulalan,1
+Y. Sankhar\u00e9,Jonathan Cafu,1
+V. Vada,Y. Sankhar\u00e9,1
+L. Lerager,Jonathan Cafu,1
+T. Pellenard,Malcom,1
+L. Lerager,T. Pellenard,1
+B. Costil,V. Jovanovi\u0107,1
+F. Kamano,Malcom,1
+J. Toulalan,N. de Pr\u00e9ville,1
+B. Costil,N. de Pr\u00e9ville,1
+Jonathan Cafu,Y. Sabaly,1
+V. Vada,J. Toulalan,1
+Malcom,T. Pellenard,1
+J. Toulalan,V. Vada,1
+Y. Sankhar\u00e9,F. Kamano,1
+Jonathan Cafu,L. Lerager,1
+Malcom,J. Toulalan,1
+L. Lerager,Y. Sabaly,1
+B. Costil,T. Pellenard,1
+V. Jovanovi\u0107,Malcom,1
+Jonathan Cafu,V. Vada,1
+N. de Pr\u00e9ville,F. Kamano,1
+V. Vada,Jonathan Cafu,1
+Y. Sankhar\u00e9,L. Lerager,1
+J. Toulalan,Malcom,1
+V. Jovanovi\u0107,Y. Sankhar\u00e9,1
+Y. Sabaly,V. Jovanovi\u0107,1
+Jonathan Cafu,Y. Sankhar\u00e9,1

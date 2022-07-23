@@ -1,0 +1,21 @@
+Source,Target,Weight
+C. Gentner,S. Ascac\u00edbar,2
+S. Ascac\u00edbar,T. Baumgartl,2
+T. Baumgartl,B. Pavard,1
+T. Asano,S. Ascac\u00edbar,1
+T. Asano,C. Gentner,1
+J. Brekalo,T. Asano,1
+T. Baumgartl,S. Ascac\u00edbar,1
+S. Terodde,C. Gentner,1
+D. Aogo,J. Brekalo,1
+B. Pavard,M. Kami\u0144ski,1
+C. Gentner,D. Aogo,1
+T. Baumgartl,M. Kami\u0144ski,1
+M. Kami\u0144ski,C. Gentner,1
+M. Kami\u0144ski,D. Aogo,1
+B. Pavard,T. Baumgartl,1
+S. Ascac\u00edbar,A. Donis,1
+M. Kami\u0144ski,B. Pavard,1
+D. Aogo,R. Zieler,1
+A. Donis,T. Asano,1
+R. Zieler,S. Terodde,1

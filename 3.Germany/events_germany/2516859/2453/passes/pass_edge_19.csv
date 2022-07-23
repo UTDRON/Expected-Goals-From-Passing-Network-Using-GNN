@@ -1,0 +1,26 @@
+Source,Target,Weight
+R. Koch,J. Schuster,2
+C. S\u00f6y\u00fcnc\u00fc,J. Schuster,2
+C. S\u00f6y\u00fcnc\u00fc,J. Haberer,2
+J. Schuster,C. S\u00f6y\u00fcnc\u00fc,2
+J. Schuster,N. H\u00f6fler,1
+C. G\u00fcnter,J. Haberer,1
+C. G\u00fcnter,C. S\u00f6y\u00fcnc\u00fc,1
+N. H\u00f6fler,C. S\u00f6y\u00fcnc\u00fc,1
+R. Koch,C. S\u00f6y\u00fcnc\u00fc,1
+J. Haberer,C. S\u00f6y\u00fcnc\u00fc,1
+J. Schuster,C. G\u00fcnter,1
+C. S\u00f6y\u00fcnc\u00fc,C. G\u00fcnter,1
+N. H\u00f6fler,J. Schuster,1
+J. Haberer,R. Koch,1
+J. Haberer,A. Schwolow,1
+J. Schuster,R. Koch,1
+C. G\u00fcnter,Y. Ravet,1
+A. Schwolow,Y. Ravet,1
+C. S\u00f6y\u00fcnc\u00fc,N. H\u00f6fler,1
+R. Koch,P. Stenzel,1
+F. Kath,C. S\u00f6y\u00fcnc\u00fc,1
+Y. Ravet,N. H\u00f6fler,1
+Y. Ravet,C. G\u00fcnter,1
+P. Stenzel,R. Koch,1
+N. H\u00f6fler,R. Koch,1

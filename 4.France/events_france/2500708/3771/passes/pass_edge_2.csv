@@ -1,0 +1,86 @@
+Source,Target,Weight
+A. Rami,A. Zambo Anguissa,8
+J. Amavi,Luiz Gustavo,8
+A. Zambo Anguissa,A. Rami,8
+Luiz Gustavo,A. Rami,8
+B. Sarr,A. Rami,6
+Luiz Gustavo,A. Zambo Anguissa,6
+F. Thauvin,A. Zambo Anguissa,6
+A. Zambo Anguissa,Luiz Gustavo,5
+M. Sanson,Luiz Gustavo,5
+A. Rami,Luiz Gustavo,5
+Luiz Gustavo,J. Amavi,5
+A. Rami,F. Thauvin,4
+J. Amavi,L. Ocampos,4
+A. Zambo Anguissa,B. Sarr,4
+A. Rami,M. Sanson,4
+M. Sanson,F. Thauvin,4
+B. Sarr,F. Thauvin,4
+Rolando,Luiz Gustavo,4
+L. Ocampos,B. Sarr,3
+F. Thauvin,A. Rami,3
+Luiz Gustavo,Rolando,3
+F. Thauvin,B. Sarr,3
+A. Zambo Anguissa,Rolando,3
+M. Sanson,A. Zambo Anguissa,3
+A. Rami,Rolando,3
+B. Sarr,L. Ocampos,3
+Rolando,J. Amavi,3
+S. Mandanda,J. Amavi,3
+A. Zambo Anguissa,L. Ocampos,3
+A. Rami,B. Sarr,3
+L. Ocampos,J. Amavi,3
+A. Zambo Anguissa,F. Thauvin,3
+F. Thauvin,V. Germain,2
+B. Sarr,M. Sanson,2
+C. N'Jie,F. Thauvin,2
+Rolando,A. Zambo Anguissa,2
+Rolando,B. Sarr,2
+A. Zambo Anguissa,M. Sanson,2
+L. Ocampos,M. Sanson,2
+F. Thauvin,M. Sanson,2
+B. Sarr,J. Amavi,2
+F. Thauvin,C. N'Jie,2
+L. Ocampos,F. Thauvin,2
+Luiz Gustavo,L. Ocampos,2
+Rolando,S. Mandanda,2
+Luiz Gustavo,M. Sanson,2
+A. Zambo Anguissa,S. Mandanda,2
+J. Amavi,M. Sanson,2
+M. Sanson,B. Sarr,2
+S. Mandanda,B. Sarr,1
+A. Rami,J. Amavi,1
+F. Thauvin,Luiz Gustavo,1
+J. Amavi,S. Mandanda,1
+J. Amavi,B. Sarr,1
+L. Ocampos,A. Zambo Anguissa,1
+S. Mandanda,L. Ocampos,1
+M. Sanson,S. Mandanda,1
+Luiz Gustavo,S. Mandanda,1
+B. Sarr,A. Zambo Anguissa,1
+M. Sanson,J. Amavi,1
+Luiz Gustavo,B. Sarr,1
+J. Amavi,Rolando,1
+V. Germain,A. Zambo Anguissa,1
+C. N'Jie,M. Sanson,1
+A. Rami,V. Germain,1
+L. Ocampos,C. N'Jie,1
+S. Mandanda,A. Zambo Anguissa,1
+Rolando,M. Sanson,1
+V. Germain,Luiz Gustavo,1
+L. Ocampos,V. Germain,1
+M. Sanson,Rolando,1
+C. N'Jie,Rolando,1
+M. Sanson,A. Rami,1
+Luiz Gustavo,C. N'Jie,1
+B. Sarr,V. Germain,1
+L. Ocampos,A. Rami,1
+F. Thauvin,Rolando,1
+V. Germain,B. Sarr,1
+F. Thauvin,L. Ocampos,1
+V. Germain,F. Thauvin,1
+J. Amavi,A. Zambo Anguissa,1
+Luiz Gustavo,F. Thauvin,1
+B. Sarr,Rolando,1
+B. Sarr,Luiz Gustavo,1
+S. Mandanda,A. Rami,1

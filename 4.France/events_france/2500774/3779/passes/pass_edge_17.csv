@@ -1,0 +1,24 @@
+Source,Target,Weight
+S. Bahoken,J. Martin,2
+K. Lala,E. Seka,2
+M. Terrier,K. Lala,2
+D. Li\u00e9nard,M. Terrier,2
+J. Martin,D. Li\u00e9nard,2
+J. Martin,S. Bahoken,2
+D. Li\u00e9nard,E. Seka,1
+E. Seka,B. Kon\u00e9,1
+J. Martin,M. Terrier,1
+J. Aholou,M. Terrier,1
+B. Kon\u00e9,S. Bahoken,1
+E. Seka,J. Grimm,1
+Y. Salmier,J. Aholou,1
+M. Terrier,J. Martin,1
+E. Seka,B. Kamara,1
+S. Bahoken,D. Li\u00e9nard,1
+B. Kamara,M. Terrier,1
+D. Li\u00e9nard,J. Martin,1
+E. Seka,D. Li\u00e9nard,1
+M. Terrier,S. Bahoken,1
+M. Terrier,D. Li\u00e9nard,1
+S. Bahoken,E. Seka,1
+J. Grimm,Y. Salmier,1

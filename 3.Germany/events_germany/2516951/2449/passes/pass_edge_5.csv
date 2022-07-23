@@ -1,0 +1,46 @@
+Source,Target,Weight
+Naldo,M. Nastasi\u0107,4
+M. Nastasi\u0107,Naldo,4
+D. Caligiuri,F. Di Santo,3
+L. Goretzka,D. Caligiuri,3
+T. Kehrer,D. Caligiuri,3
+D. Caligiuri,Naldo,3
+Naldo,T. Kehrer,3
+T. Kehrer,M. Nastasi\u0107,2
+M. Nastasi\u0107,R. F\u00e4hrmann,2
+B. Oczipka,B. Embolo,2
+M. Nastasi\u0107,B. Stambouli,2
+B. Stambouli,A. Harit,2
+A. Harit,B. Oczipka,2
+M. Nastasi\u0107,B. Oczipka,2
+D. Caligiuri,T. Kehrer,2
+B. Embolo,M. Nastasi\u0107,2
+M. Nastasi\u0107,A. Harit,2
+R. F\u00e4hrmann,D. Caligiuri,1
+D. Caligiuri,B. Oczipka,1
+B. Oczipka,B. Stambouli,1
+A. Harit,L. Goretzka,1
+Naldo,R. F\u00e4hrmann,1
+B. Stambouli,D. Caligiuri,1
+Naldo,A. Harit,1
+A. Harit,F. Di Santo,1
+A. Harit,M. Nastasi\u0107,1
+A. Harit,Naldo,1
+B. Oczipka,A. Harit,1
+B. Oczipka,M. Nastasi\u0107,1
+R. F\u00e4hrmann,L. Goretzka,1
+F. Di Santo,D. Caligiuri,1
+D. Caligiuri,L. Goretzka,1
+F. Di Santo,Naldo,1
+Naldo,D. Caligiuri,1
+T. Kehrer,L. Goretzka,1
+F. Di Santo,T. Kehrer,1
+T. Kehrer,Naldo,1
+A. Harit,D. Caligiuri,1
+B. Stambouli,Naldo,1
+L. Goretzka,T. Kehrer,1
+F. Di Santo,B. Embolo,1
+B. Embolo,B. Stambouli,1
+R. F\u00e4hrmann,M. Nastasi\u0107,1
+B. Stambouli,M. Nastasi\u0107,1
+D. Caligiuri,B. Stambouli,1

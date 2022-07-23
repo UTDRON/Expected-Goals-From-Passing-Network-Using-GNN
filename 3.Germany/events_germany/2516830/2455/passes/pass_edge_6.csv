@@ -1,0 +1,14 @@
+Source,Target,Weight
+Jonathas,F. Klaus,2
+I. Bebou,M. Ostrzolek,1
+S. San\u00e9,W. Anton,1
+P. Schwegler,M. Bakalorz,1
+M. Bakalorz,O. Sorg,1
+F. Klaus,Jonathas,1
+M. Bakalorz,I. Bebou,1
+W. Anton,S. San\u00e9,1
+S. San\u00e9,M. Bakalorz,1
+M. Ostrzolek,W. Anton,1
+O. Sorg,S. San\u00e9,1
+W. Anton,M. Ostrzolek,1
+M. Ostrzolek,Jonathas,1

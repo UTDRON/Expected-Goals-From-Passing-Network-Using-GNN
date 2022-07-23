@@ -1,0 +1,65 @@
+Source,Target,Weight
+D. Da Silva,A. Djiku,10
+A. Djiku,V. Bessat,10
+Y. A\u00eft Bennasser,D. Da Silva,8
+V. Bessat,J. Deminguet,6
+V. Bessat,A. Djiku,6
+Y. A\u00eft Bennasser,F. Guilbert,6
+F. Guilbert,Y. A\u00eft Bennasser,6
+T. Stavitski,F. Guilbert,5
+V. Bessat,Y. A\u00eft Bennasser,5
+A. Djiku,Y. A\u00eft Bennasser,5
+A. Djiku,I. Diomand\u00e9,4
+D. Da Silva,I. Diomand\u00e9,4
+F. Guilbert,D. Da Silva,4
+I. Diomand\u00e9,F. Guilbert,4
+R. Rodelin,Y. A\u00eft Bennasser,4
+V. Bessat,R. Rodelin,4
+A. Djiku,D. Da Silva,4
+F. Guilbert,T. Stavitski,4
+Y. A\u00eft Bennasser,V. Bessat,4
+R. Vercoutre,A. Djiku,3
+I. Diomand\u00e9,D. Da Silva,3
+I. Diomand\u00e9,Y. A\u00eft Bennasser,3
+D. Da Silva,Y. A\u00eft Bennasser,3
+Y. A\u00eft Bennasser,A. Djiku,3
+J. Deminguet,V. Bessat,3
+Y. A\u00eft Bennasser,I. Diomand\u00e9,3
+D. Da Silva,F. Guilbert,2
+J. Deminguet,Y. A\u00eft Bennasser,2
+T. Stavitski,D. Da Silva,2
+I. Diomand\u00e9,T. Stavitski,2
+A. Djiku,J. F\u00e9ret,2
+I. Diomand\u00e9,A. Djiku,2
+A. Djiku,R. Rodelin,2
+J. F\u00e9ret,F. Guilbert,2
+R. Vercoutre,D. Da Silva,2
+F. Guilbert,I. Diomand\u00e9,2
+F. Guilbert,J. F\u00e9ret,2
+Y. A\u00eft Bennasser,T. Stavitski,2
+J. Deminguet,A. Djiku,2
+D. Da Silva,R. Vercoutre,2
+R. Rodelin,V. Bessat,2
+D. Da Silva,V. Bessat,2
+R. Rodelin,I. Diomand\u00e9,1
+R. Rodelin,F. Guilbert,1
+I. Diomand\u00e9,R. Vercoutre,1
+D. Da Silva,R. Rodelin,1
+J. F\u00e9ret,D. Da Silva,1
+J. F\u00e9ret,Y. A\u00eft Bennasser,1
+I. Diomand\u00e9,J. F\u00e9ret,1
+V. Bessat,D. Da Silva,1
+J. F\u00e9ret,V. Bessat,1
+J. F\u00e9ret,I. Diomand\u00e9,1
+T. Stavitski,V. Bessat,1
+R. Rodelin,A. Djiku,1
+T. Stavitski,Y. A\u00eft Bennasser,1
+Y. A\u00eft Bennasser,J. Deminguet,1
+Y. A\u00eft Bennasser,R. Rodelin,1
+J. F\u00e9ret,A. Djiku,1
+Y. A\u00eft Bennasser,R. Vercoutre,1
+V. Bessat,J. F\u00e9ret,1
+A. Djiku,R. Vercoutre,1
+D. Da Silva,T. Stavitski,1
+F. Guilbert,R. Rodelin,1
+Y. A\u00eft Bennasser,J. F\u00e9ret,1

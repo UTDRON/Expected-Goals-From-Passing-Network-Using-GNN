@@ -1,0 +1,26 @@
+Source,Target,Weight
+G. Imbula,A. Blin,3
+C. Jullien,A. Lafont,2
+G. Imbula,C. Jean,2
+C. Jullien,F. Moubandje,2
+F. Moubandje,C. Jullien,2
+A. Blin,C. Jullien,2
+Som\u00e1lia,G. Imbula,1
+A. Lafont,A. Blin,1
+I. Diop,Som\u00e1lia,1
+A. Delort,G. Imbula,1
+Som\u00e1lia,A. Lafont,1
+A. Delort,A. Blin,1
+F. Moubandje,O. Toivonen,1
+A. Lafont,A. Delort,1
+O. Toivonen,F. Moubandje,1
+A. Blin,G. Imbula,1
+C. Jean,F. Moubandje,1
+C. Jean,I. Diop,1
+A. Blin,Som\u00e1lia,1
+F. Moubandje,G. Imbula,1
+Som\u00e1lia,A. Blin,1
+I. Diop,O. Toivonen,1
+A. Lafont,G. Imbula,1
+A. Blin,I. Diop,1
+O. Toivonen,A. Delort,1

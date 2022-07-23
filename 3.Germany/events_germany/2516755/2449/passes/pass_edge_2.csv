@@ -1,0 +1,77 @@
+Source,Target,Weight
+Y. Konoplyanka,B. Oczipka,8
+T. Kehrer,D. Caligiuri,7
+T. Kehrer,R. F\u00e4hrmann,4
+L. Goretzka,G. Burgstaller,4
+B. Oczipka,M. Nastasi\u0107,4
+Naldo,M. Nastasi\u0107,4
+D. Caligiuri,G. Burgstaller,4
+L. Goretzka,N. Bentaleb,4
+N. Bentaleb,L. Goretzka,4
+B. Oczipka,Y. Konoplyanka,4
+B. Oczipka,A. Harit,4
+L. Goretzka,Y. Konoplyanka,3
+A. Harit,B. Oczipka,3
+D. Caligiuri,A. Harit,3
+Naldo,T. Kehrer,3
+M. Nastasi\u0107,Naldo,3
+G. Burgstaller,L. Goretzka,3
+M. Nastasi\u0107,Y. Konoplyanka,3
+N. Bentaleb,Naldo,3
+G. Burgstaller,Y. Konoplyanka,3
+T. Kehrer,Naldo,2
+A. Harit,L. Goretzka,2
+M. Nastasi\u0107,R. F\u00e4hrmann,2
+R. F\u00e4hrmann,M. Nastasi\u0107,2
+N. Bentaleb,T. Kehrer,2
+Y. Konoplyanka,T. Kehrer,2
+D. Caligiuri,F. Di Santo,2
+N. Bentaleb,D. Caligiuri,2
+M. Nastasi\u0107,B. Oczipka,2
+L. Goretzka,B. Oczipka,2
+A. Harit,T. Kehrer,2
+T. Kehrer,N. Bentaleb,2
+A. Harit,G. Burgstaller,2
+G. Burgstaller,N. Bentaleb,2
+G. Burgstaller,T. Kehrer,2
+A. Harit,D. Caligiuri,2
+D. Caligiuri,T. Kehrer,2
+Y. Konoplyanka,L. Goretzka,2
+G. Burgstaller,D. Caligiuri,1
+T. Kehrer,M. Nastasi\u0107,1
+M. Nastasi\u0107,A. Harit,1
+D. Caligiuri,N. Bentaleb,1
+R. F\u00e4hrmann,L. Goretzka,1
+R. F\u00e4hrmann,D. Caligiuri,1
+F. Di Santo,T. Kehrer,1
+M. Nastasi\u0107,G. Burgstaller,1
+Y. Konoplyanka,Naldo,1
+B. Oczipka,G. Burgstaller,1
+A. Harit,Y. Konoplyanka,1
+R. F\u00e4hrmann,Naldo,1
+B. Oczipka,R. F\u00e4hrmann,1
+L. Goretzka,M. Nastasi\u0107,1
+Naldo,A. Harit,1
+A. Harit,M. Nastasi\u0107,1
+N. Bentaleb,A. Harit,1
+N. Bentaleb,B. Oczipka,1
+B. Oczipka,L. Goretzka,1
+Y. Konoplyanka,A. Harit,1
+N. Bentaleb,M. Nastasi\u0107,1
+Naldo,G. Burgstaller,1
+Naldo,L. Goretzka,1
+L. Goretzka,T. Kehrer,1
+M. Nastasi\u0107,L. Goretzka,1
+Y. Konoplyanka,N. Bentaleb,1
+A. Harit,N. Bentaleb,1
+B. Oczipka,T. Kehrer,1
+D. Caligiuri,Y. Konoplyanka,1
+G. Burgstaller,B. Oczipka,1
+R. F\u00e4hrmann,F. Di Santo,1
+B. Oczipka,N. Bentaleb,1
+F. Di Santo,L. Goretzka,1
+R. F\u00e4hrmann,T. Kehrer,1
+F. Di Santo,A. Harit,1
+G. Burgstaller,A. Harit,1
+T. Kehrer,A. Harit,1
+M. Nastasi\u0107,N. Bentaleb,1

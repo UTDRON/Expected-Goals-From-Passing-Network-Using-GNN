@@ -1,0 +1,62 @@
+Source,Target,Weight
+I. Santini,V. Bessat,5
+I. Santini,J. F\u00e9ret,4
+T. Stavitski,F. Guilbert,4
+R. Vercoutre,I. Santini,3
+V. Bessat,A. Djiku,3
+V. Bessat,R. Rodelin,3
+R. Rodelin,I. Santini,3
+B. Sankoh,V. Bessat,2
+T. Stavitski,J. Delaplace,2
+F. Guilbert,T. Stavitski,2
+D. Da Silva,I. Santini,2
+J. F\u00e9ret,B. Sankoh,2
+F. Guilbert,A. Djiku,2
+A. Djiku,D. Da Silva,2
+V. Bessat,I. Santini,2
+J. Delaplace,F. Guilbert,2
+A. Djiku,R. Rodelin,2
+V. Bessat,B. Sankoh,2
+V. Bessat,J. Delaplace,2
+F. Guilbert,V. Bessat,1
+J. F\u00e9ret,F. Guilbert,1
+R. Rodelin,A. Djiku,1
+J. Delaplace,R. Vercoutre,1
+F. Guilbert,R. Vercoutre,1
+J. F\u00e9ret,D. Da Silva,1
+J. Delaplace,A. Djiku,1
+B. Sankoh,I. Santini,1
+R. Rodelin,V. Bessat,1
+J. Delaplace,B. Sankoh,1
+J. F\u00e9ret,V. Bessat,1
+F. Guilbert,J. Delaplace,1
+R. Rodelin,T. Stavitski,1
+A. Djiku,B. Sankoh,1
+F. Guilbert,I. Santini,1
+J. Delaplace,T. Stavitski,1
+A. Djiku,R. Vercoutre,1
+A. Djiku,F. Guilbert,1
+J. F\u00e9ret,T. Stavitski,1
+V. Bessat,J. F\u00e9ret,1
+J. Delaplace,D. Da Silva,1
+I. Santini,A. Djiku,1
+J. Delaplace,R. Rodelin,1
+D. Da Silva,R. Vercoutre,1
+I. Santini,J. Delaplace,1
+D. Da Silva,V. Bessat,1
+F. Guilbert,D. Da Silva,1
+D. Da Silva,F. Guilbert,1
+J. F\u00e9ret,J. Delaplace,1
+B. Sankoh,D. Da Silva,1
+B. Sankoh,A. Djiku,1
+R. Rodelin,J. F\u00e9ret,1
+B. Sankoh,J. F\u00e9ret,1
+A. Djiku,V. Bessat,1
+J. F\u00e9ret,R. Rodelin,1
+F. Guilbert,J. F\u00e9ret,1
+J. Delaplace,I. Santini,1
+I. Santini,T. Stavitski,1
+D. Da Silva,J. Delaplace,1
+T. Stavitski,V. Bessat,1
+R. Vercoutre,T. Stavitski,1
+A. Djiku,J. Delaplace,1

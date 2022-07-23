@@ -1,0 +1,47 @@
+Source,Target,Weight
+R. Gurtner,M. Konat\u00e9,4
+K. Ad\u00e9non,R. Gurtner,3
+B. Dibassy,G. Gope-Fenepej,3
+K. Ad\u00e9non,B. Dibassy,2
+K. Ad\u00e9non,P. Gouano,2
+P. Gouano,O. El Hajjam,2
+K. Ad\u00e9non,G. Gope-Fenepej,2
+B. Dibassy,K. Ad\u00e9non,2
+G. Gope-Fenepej,B. Dibassy,2
+M. Konat\u00e9,K. Ad\u00e9non,2
+M. Konat\u00e9,P. Gouano,1
+G. Gope-Fenepej,R. Gurtner,1
+O. El Hajjam,K. Ad\u00e9non,1
+K. Ad\u00e9non,C. Charrier,1
+M. Konat\u00e9,B. Zungu,1
+B. Zungu,T. Monconduit,1
+O. El Hajjam,T. Monconduit,1
+S. Gakp\u00e9,O. El Hajjam,1
+S. Koita,K. Ad\u00e9non,1
+S. Gakp\u00e9,K. Ad\u00e9non,1
+T. Monconduit,P. Gouano,1
+B. Zungu,S. Gakp\u00e9,1
+C. Charrier,S. Koita,1
+S. Gakp\u00e9,M. Konat\u00e9,1
+O. El Hajjam,B. Zungu,1
+M. Konat\u00e9,R. Gurtner,1
+K. Ad\u00e9non,S. Gakp\u00e9,1
+T. Monconduit,K. Ad\u00e9non,1
+G. Gope-Fenepej,S. Gakp\u00e9,1
+R. Gurtner,G. Gope-Fenepej,1
+G. Gope-Fenepej,T. Monconduit,1
+G. Gope-Fenepej,O. El Hajjam,1
+P. Gouano,B. Zungu,1
+T. Monconduit,M. Konat\u00e9,1
+P. Gouano,K. Ad\u00e9non,1
+M. Konat\u00e9,G. Gope-Fenepej,1
+O. El Hajjam,P. Gouano,1
+C. Charrier,K. Ad\u00e9non,1
+G. Gope-Fenepej,K. Ad\u00e9non,1
+B. Dibassy,M. Konat\u00e9,1
+B. Zungu,K. Ad\u00e9non,1
+K. Ad\u00e9non,M. Konat\u00e9,1
+M. Konat\u00e9,T. Monconduit,1
+P. Gouano,B. Dibassy,1
+M. Konat\u00e9,B. Dibassy,1
+T. Monconduit,C. Charrier,1

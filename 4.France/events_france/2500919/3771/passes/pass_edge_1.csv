@@ -1,0 +1,46 @@
+Source,Target,Weight
+F. Thauvin,A. Zambo Anguissa,3
+Rolando,D. Payet,3
+Rolando,S. Mandanda,3
+A. Rami,Rolando,3
+B. Sarr,F. Thauvin,3
+V. Germain,B. Sarr,2
+F. Thauvin,B. Sarr,2
+A. Zambo Anguissa,F. Thauvin,2
+M. Sanson,Rolando,2
+B. Sarr,A. Zambo Anguissa,2
+B. Sarr,A. Rami,2
+D. Payet,Rolando,2
+A. Zambo Anguissa,H. Sakai,1
+D. Payet,H. Sakai,1
+Luiz Gustavo,D. Payet,1
+S. Mandanda,B. Sarr,1
+F. Thauvin,A. Rami,1
+H. Sakai,Luiz Gustavo,1
+D. Payet,S. Mandanda,1
+D. Payet,V. Germain,1
+Rolando,V. Germain,1
+A. Rami,F. Thauvin,1
+Rolando,F. Thauvin,1
+D. Payet,F. Thauvin,1
+V. Germain,H. Sakai,1
+A. Zambo Anguissa,D. Payet,1
+S. Mandanda,A. Zambo Anguissa,1
+F. Thauvin,Rolando,1
+S. Mandanda,Rolando,1
+V. Germain,M. Sanson,1
+Luiz Gustavo,Rolando,1
+H. Sakai,A. Zambo Anguissa,1
+F. Thauvin,D. Payet,1
+A. Zambo Anguissa,V. Germain,1
+M. Sanson,V. Germain,1
+A. Zambo Anguissa,B. Sarr,1
+S. Mandanda,M. Sanson,1
+Rolando,Luiz Gustavo,1
+M. Sanson,B. Sarr,1
+Rolando,M. Sanson,1
+A. Zambo Anguissa,A. Rami,1
+S. Mandanda,Luiz Gustavo,1
+D. Payet,M. Sanson,1
+H. Sakai,M. Sanson,1
+Luiz Gustavo,S. Mandanda,1

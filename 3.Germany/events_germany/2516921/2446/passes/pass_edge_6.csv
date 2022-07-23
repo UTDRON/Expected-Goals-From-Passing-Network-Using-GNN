@@ -1,0 +1,16 @@
+Source,Target,Weight
+B. Henrichs,K. Havertz,2
+K. Havertz,B. Henrichs,1
+B. Leno,S. Bender,1
+K. Bellarabi,J. Tah,1
+Wendell,C. Ar\u00e1nguiz,1
+D. Kohr,B. Henrichs,1
+S. Bender,Wendell,1
+K. Bellarabi,B. Henrichs,1
+J. Tah,B. Henrichs,1
+B. Henrichs,K. Bellarabi,1
+B. Henrichs,J. Tah,1
+K. Havertz,K. Bellarabi,1
+J. Tah,C. Ar\u00e1nguiz,1
+C. Ar\u00e1nguiz,B. Leno,1
+C. Ar\u00e1nguiz,B. Henrichs,1

@@ -1,0 +1,37 @@
+Source,Target,Weight
+N. Mukiele,K. Dolly,3
+R. Aguilar,P. Lasne,2
+N. Mukiele,B. Lecomte,2
+R. Aguilar,N. Mukiele,2
+B. Lecomte,Pedro Mendes,2
+K. Dolly,R. Aguilar,2
+G. Sio,Hilton,1
+K. Dolly,N. Mukiele,1
+M. Poaty,B. Lecomte,1
+Pedro Mendes,C. Ninga,1
+N. Mukiele,Hilton,1
+Hilton,G. Sio,1
+Pedro Mendes,B. Lecomte,1
+N. Mukiele,Pedro Mendes,1
+P. Lasne,N. Mukiele,1
+G. Sio,R. Aguilar,1
+Hilton,N. Mukiele,1
+P. Lasne,Hilton,1
+B. Lecomte,Hilton,1
+B. Lecomte,R. Aguilar,1
+Hilton,Pedro Mendes,1
+C. Ninga,P. Lasne,1
+Hilton,M. Poaty,1
+E. Skhiri,M. Poaty,1
+R. Aguilar,M. Poaty,1
+Hilton,B. Lecomte,1
+M. Poaty,K. Dolly,1
+Pedro Mendes,N. Mukiele,1
+P. Lasne,R. Aguilar,1
+K. Dolly,Hilton,1
+B. Lecomte,K. Dolly,1
+Pedro Mendes,E. Skhiri,1
+Pedro Mendes,Hilton,1
+K. Dolly,P. Lasne,1
+M. Poaty,Pedro Mendes,1
+P. Lasne,G. Sio,1

@@ -1,0 +1,33 @@
+Source,Target,Weight
+Brandon,A. Hunou,3
+R. Bensebaini,I. Sarr,3
+I. Sarr,R. Bensebaini,3
+A. Hunou,J. Gelin,2
+R. Bensebaini,Brandon,2
+B. Andr\u00e9,R. Bensebaini,2
+Brandon,R. Bensebaini,2
+R. Bensebaini,B. Andr\u00e9,2
+B. Andr\u00e9,I. Sarr,1
+J. Lea Siliki,Brandon,1
+B. Bourigeaud,A. Hunou,1
+A. Hunou,I. Sarr,1
+J. Gelin,J. Lea Siliki,1
+B. Bourigeaud,T. Koubek,1
+R. Bensebaini,A. Hunou,1
+J. Gelin,H. Traor\u00e9,1
+T. Koubek,R. Bensebaini,1
+T. Koubek,J. Gelin,1
+I. Sarr,B. Andr\u00e9,1
+H. Traor\u00e9,J. Gelin,1
+J. Gelin,Mexer,1
+B. Andr\u00e9,A. Hunou,1
+R. Bensebaini,T. Koubek,1
+I. Sarr,Brandon,1
+A. Hunou,R. Bensebaini,1
+Mexer,R. Bensebaini,1
+J. Gelin,B. Andr\u00e9,1
+R. Bensebaini,Mexer,1
+A. Hunou,Brandon,1
+Mexer,J. Gelin,1
+B. Andr\u00e9,B. Bourigeaud,1
+J. Gelin,B. Bourigeaud,1

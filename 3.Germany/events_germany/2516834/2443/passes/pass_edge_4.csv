@@ -1,0 +1,53 @@
+Source,Target,Weight
+L. Augustinsson,M. Veljkovic,3
+P. Bargfrede,L. Augustinsson,3
+P. Bargfrede,M. Eggestein,3
+L. Augustinsson,Z. Junuzovi\u0107,3
+M. Veljkovic,P. Bargfrede,2
+M. Eggestein,T. Gebre Selassie,2
+M. Eggestein,F. Bartels,2
+T. Gebre Selassie,P. Bargfrede,2
+P. Bargfrede,F. Bartels,2
+Z. Junuzovi\u0107,L. Augustinsson,2
+F. Bartels,L. Augustinsson,2
+F. Bartels,M. Eggestein,2
+M. Kruse,P. Bargfrede,2
+M. Eggestein,N. Moisander,2
+N. Moisander,M. Veljkovic,2
+Z. Junuzovi\u0107,M. Kruse,2
+F. Bartels,M. Veljkovic,1
+M. Veljkovic,Z. Junuzovi\u0107,1
+L. Augustinsson,N. Moisander,1
+M. Kruse,M. Eggestein,1
+P. Bargfrede,M. Kruse,1
+M. Veljkovic,M. Eggestein,1
+T. Gebre Selassie,M. Veljkovic,1
+T. Gebre Selassie,M. Eggestein,1
+L. Augustinsson,P. Bargfrede,1
+L. Augustinsson,F. Bartels,1
+M. Kruse,Z. Junuzovi\u0107,1
+T. Delaney,T. Gebre Selassie,1
+M. Kruse,T. Gebre Selassie,1
+M. Veljkovic,T. Gebre Selassie,1
+P. Bargfrede,T. Gebre Selassie,1
+N. Moisander,L. Augustinsson,1
+M. Kruse,M. Veljkovic,1
+J. Pavlenka,P. Bargfrede,1
+M. Veljkovic,T. Delaney,1
+Z. Junuzovi\u0107,P. Bargfrede,1
+M. Eggestein,L. Augustinsson,1
+F. Bartels,T. Delaney,1
+M. Veljkovic,M. Kruse,1
+M. Eggestein,P. Bargfrede,1
+Z. Junuzovi\u0107,M. Eggestein,1
+N. Moisander,P. Bargfrede,1
+M. Eggestein,Z. Junuzovi\u0107,1
+F. Bartels,T. Gebre Selassie,1
+T. Gebre Selassie,F. Bartels,1
+T. Gebre Selassie,M. Kruse,1
+F. Bartels,J. Pavlenka,1
+M. Veljkovic,F. Bartels,1
+T. Delaney,M. Kruse,1
+T. Gebre Selassie,T. Delaney,1
+M. Veljkovic,N. Moisander,1
+P. Bargfrede,M. Veljkovic,1

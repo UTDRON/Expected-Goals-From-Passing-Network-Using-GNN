@@ -1,0 +1,28 @@
+Source,Target,Weight
+F. Uduokhai,Camacho,2
+Camacho,D. Didavi,2
+Y. Gerhardt,F. Uduokhai,2
+K. Hinds,Camacho,2
+Camacho,F. Uduokhai,2
+Y. Gerhardt,K. Hinds,1
+R. Knoche,L. Dimata,1
+M. G\u00f3mez,R. Knoche,1
+M. G\u00f3mez,K. Hinds,1
+Camacho,R. Knoche,1
+D. Didavi,Y. Gerhardt,1
+Camacho,K. Hinds,1
+P. Verhaegh,R. Knoche,1
+L. Dimata,Camacho,1
+F. Uduokhai,M. G\u00f3mez,1
+Y. Gerhardt,L. Dimata,1
+D. Didavi,P. Verhaegh,1
+R. Knoche,Camacho,1
+J. Guilavogui,M. G\u00f3mez,1
+F. Uduokhai,Y. Gerhardt,1
+P. Verhaegh,D. Didavi,1
+L. Dimata,F. Uduokhai,1
+R. Knoche,K. Hinds,1
+D. Didavi,J. Guilavogui,1
+K. Hinds,J. Guilavogui,1
+K. Hinds,Y. Gerhardt,1
+F. Uduokhai,P. Verhaegh,1

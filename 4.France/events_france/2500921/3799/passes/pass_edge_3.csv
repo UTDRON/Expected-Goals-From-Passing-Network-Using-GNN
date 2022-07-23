@@ -1,0 +1,50 @@
+Source,Target,Weight
+I. Traor\u00e9,V. Manceau,5
+I. Traor\u00e9,R. Thomas,4
+R. Thomas,I. Traor\u00e9,4
+R. Thomas,A. Bamba,3
+V. Manceau,I. Traor\u00e9,3
+V. Manceau,P. Oniangu\u00e9,3
+T. Mangani,R. Thomas,2
+T. Mangani,A. Bamba,2
+A. Bamba,B. Santamaria,2
+P. Capelle,K. Toko Ekambi,2
+R. Thomas,P. Capelle,2
+K. Toko Ekambi,R. Thomas,2
+F. Tait,P. Capelle,2
+V. Manceau,B. Santamaria,2
+B. Santamaria,I. Traor\u00e9,2
+P. Capelle,F. Tait,2
+A. Bamba,P. Capelle,2
+F. Tait,T. Mangani,2
+L. Butelle,P. Capelle,1
+B. Santamaria,F. Tait,1
+P. Oniangu\u00e9,T. Mangani,1
+I. Traor\u00e9,L. Butelle,1
+P. Oniangu\u00e9,I. Traor\u00e9,1
+R. Thomas,T. Mangani,1
+L. Butelle,F. Tait,1
+P. Capelle,T. Mangani,1
+T. Mangani,V. Manceau,1
+P. Capelle,R. Thomas,1
+R. Thomas,P. Oniangu\u00e9,1
+T. Mangani,F. Tait,1
+A. Bamba,R. Thomas,1
+R. Thomas,K. Toko Ekambi,1
+I. Traor\u00e9,K. Toko Ekambi,1
+P. Oniangu\u00e9,R. Thomas,1
+T. Mangani,K. Toko Ekambi,1
+K. Toko Ekambi,F. Tait,1
+P. Oniangu\u00e9,V. Manceau,1
+P. Capelle,B. Santamaria,1
+B. Santamaria,T. Mangani,1
+F. Tait,B. Santamaria,1
+B. Santamaria,R. Thomas,1
+P. Capelle,I. Traor\u00e9,1
+K. Toko Ekambi,P. Capelle,1
+L. Butelle,R. Thomas,1
+V. Manceau,F. Tait,1
+B. Santamaria,V. Manceau,1
+R. Thomas,L. Butelle,1
+K. Toko Ekambi,V. Manceau,1
+F. Tait,L. Butelle,1

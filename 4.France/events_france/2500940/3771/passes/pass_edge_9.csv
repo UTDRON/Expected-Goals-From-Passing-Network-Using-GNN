@@ -1,0 +1,105 @@
+Source,Target,Weight
+F. Thauvin,A. Zambo Anguissa,7
+H. Sakai,F. Thauvin,4
+A. Zambo Anguissa,A. Rami,4
+J. Amavi,F. Thauvin,3
+A. Zambo Anguissa,M. Sanson,3
+A. Rami,A. Zambo Anguissa,3
+J. Amavi,L. Ocampos,3
+A. Rami,Luiz Gustavo,3
+Luiz Gustavo,H. Sakai,3
+Luiz Gustavo,L. Ocampos,3
+H. Sakai,L. Ocampos,3
+M. Sanson,J. Amavi,3
+A. Zambo Anguissa,H. Sakai,3
+D. Payet,Luiz Gustavo,3
+M. Sanson,H. Sakai,2
+L. Ocampos,M. Sanson,2
+L. Ocampos,A. Zambo Anguissa,2
+D. Payet,Rolando,2
+V. Germain,H. Sakai,2
+Rolando,D. Payet,2
+L. Ocampos,A. Rami,2
+M. Lopez,A. Zambo Anguissa,2
+Rolando,A. Rami,2
+A. Zambo Anguissa,F. Thauvin,2
+H. Sakai,M. Lopez,2
+Rolando,Y. Pel\u00e9,2
+M. Sanson,L. Ocampos,2
+V. Germain,F. Thauvin,2
+F. Thauvin,V. Germain,2
+M. Sanson,Rolando,2
+A. Zambo Anguissa,Rolando,2
+L. Ocampos,Luiz Gustavo,2
+H. Sakai,M. Sanson,2
+F. Thauvin,M. Sanson,2
+F. Thauvin,H. Sakai,2
+Y. Pel\u00e9,A. Rami,2
+Luiz Gustavo,Rolando,2
+M. Sanson,A. Zambo Anguissa,2
+L. Ocampos,F. Thauvin,2
+Luiz Gustavo,M. Sanson,2
+H. Sakai,A. Zambo Anguissa,2
+A. Zambo Anguissa,M. Lopez,2
+A. Zambo Anguissa,J. Amavi,2
+Y. Pel\u00e9,F. Thauvin,1
+J. Amavi,A. Rami,1
+A. Rami,D. Payet,1
+Rolando,J. Amavi,1
+A. Zambo Anguissa,L. Ocampos,1
+F. Thauvin,J. Amavi,1
+V. Germain,A. Zambo Anguissa,1
+Rolando,A. Zambo Anguissa,1
+Luiz Gustavo,J. Amavi,1
+J. Amavi,M. Sanson,1
+L. Ocampos,V. Germain,1
+A. Rami,F. Thauvin,1
+H. Sakai,Luiz Gustavo,1
+Y. Pel\u00e9,Rolando,1
+Y. Pel\u00e9,V. Germain,1
+H. Sakai,J. Amavi,1
+Y. Pel\u00e9,L. Ocampos,1
+Rolando,M. Sanson,1
+Y. Pel\u00e9,H. Sakai,1
+D. Payet,M. Sanson,1
+Luiz Gustavo,F. Thauvin,1
+Luiz Gustavo,D. Payet,1
+M. Sanson,F. Thauvin,1
+Rolando,Luiz Gustavo,1
+L. Ocampos,M. Lopez,1
+F. Thauvin,Y. Pel\u00e9,1
+Y. Pel\u00e9,M. Sanson,1
+M. Lopez,M. Sanson,1
+L. Ocampos,H. Sakai,1
+F. Thauvin,Luiz Gustavo,1
+Luiz Gustavo,Y. Pel\u00e9,1
+M. Lopez,C. N'Jie,1
+A. Rami,L. Ocampos,1
+C. N'Jie,M. Sanson,1
+M. Lopez,Luiz Gustavo,1
+F. Thauvin,A. Rami,1
+H. Sakai,C. N'Jie,1
+J. Amavi,D. Payet,1
+A. Zambo Anguissa,Luiz Gustavo,1
+M. Sanson,Y. Pel\u00e9,1
+C. N'Jie,J. Amavi,1
+J. Amavi,V. Germain,1
+C. N'Jie,Rolando,1
+A. Zambo Anguissa,V. Germain,1
+M. Sanson,C. N'Jie,1
+Luiz Gustavo,A. Zambo Anguissa,1
+A. Rami,Rolando,1
+V. Germain,Luiz Gustavo,1
+J. Amavi,C. N'Jie,1
+C. N'Jie,A. Rami,1
+C. N'Jie,H. Sakai,1
+C. N'Jie,F. Thauvin,1
+A. Rami,J. Amavi,1
+L. Ocampos,C. N'Jie,1
+A. Rami,H. Sakai,1
+M. Sanson,D. Payet,1
+F. Thauvin,C. N'Jie,1
+Rolando,L. Ocampos,1
+A. Rami,Y. Pel\u00e9,1
+M. Sanson,Luiz Gustavo,1
+L. Ocampos,Y. Pel\u00e9,1

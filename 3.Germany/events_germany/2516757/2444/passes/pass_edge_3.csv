@@ -1,0 +1,74 @@
+Source,Target,Weight
+Rafinha,K. Coman,10
+Rafinha,Thiago Alc\u00e2ntara,8
+K. Coman,Rafinha,7
+C. Tolisso,S. Rudy,6
+Thiago Alc\u00e2ntara,Rafinha,6
+S. Rudy,Rafinha,5
+Javi Mart\u00ednez,C. Tolisso,5
+Rafinha,S. Rudy,5
+J. Kimmich,C. Tolisso,5
+S. Rudy,Thiago Alc\u00e2ntara,4
+M. Neuer,J. Kimmich,4
+Rafinha,M. Hummels,4
+S. Rudy,J. Kimmich,3
+Thiago Alc\u00e2ntara,S. Rudy,3
+Javi Mart\u00ednez,M. Neuer,3
+Javi Mart\u00ednez,J. Kimmich,3
+Javi Mart\u00ednez,M. Hummels,3
+J. Kimmich,T. M\u00fcller,3
+M. Hummels,Rafinha,3
+C. Tolisso,Rafinha,3
+M. Neuer,Javi Mart\u00ednez,3
+M. Neuer,Rafinha,3
+J. Kimmich,Javi Mart\u00ednez,3
+C. Tolisso,J. Kimmich,3
+T. M\u00fcller,R. Lewandowski,2
+Thiago Alc\u00e2ntara,C. Tolisso,2
+R. Lewandowski,Javi Mart\u00ednez,2
+T. M\u00fcller,Rafinha,2
+Thiago Alc\u00e2ntara,J. Kimmich,2
+Thiago Alc\u00e2ntara,R. Lewandowski,2
+K. Coman,R. Lewandowski,2
+J. Kimmich,M. Neuer,2
+R. Lewandowski,Rafinha,2
+K. Coman,M. Hummels,2
+Thiago Alc\u00e2ntara,M. Hummels,2
+M. Hummels,M. Neuer,2
+C. Tolisso,K. Coman,2
+M. Hummels,Thiago Alc\u00e2ntara,2
+S. Rudy,Javi Mart\u00ednez,2
+M. Hummels,J. Kimmich,1
+T. M\u00fcller,Javi Mart\u00ednez,1
+Rafinha,M. Neuer,1
+T. M\u00fcller,M. Neuer,1
+C. Tolisso,Javi Mart\u00ednez,1
+Thiago Alc\u00e2ntara,Javi Mart\u00ednez,1
+M. Hummels,C. Tolisso,1
+J. Kimmich,R. Lewandowski,1
+M. Hummels,Javi Mart\u00ednez,1
+Rafinha,C. Tolisso,1
+J. Kimmich,Thiago Alc\u00e2ntara,1
+Thiago Alc\u00e2ntara,K. Coman,1
+Javi Mart\u00ednez,Thiago Alc\u00e2ntara,1
+S. Rudy,C. Tolisso,1
+Thiago Alc\u00e2ntara,T. M\u00fcller,1
+C. Tolisso,Thiago Alc\u00e2ntara,1
+Rafinha,R. Lewandowski,1
+Rafinha,Javi Mart\u00ednez,1
+R. Lewandowski,C. Tolisso,1
+R. Lewandowski,M. Hummels,1
+M. Hummels,T. M\u00fcller,1
+S. Rudy,K. Coman,1
+K. Coman,S. Rudy,1
+K. Coman,Javi Mart\u00ednez,1
+Javi Mart\u00ednez,Rafinha,1
+M. Hummels,K. Coman,1
+K. Coman,Thiago Alc\u00e2ntara,1
+R. Lewandowski,M. Neuer,1
+J. Kimmich,S. Rudy,1
+K. Coman,C. Tolisso,1
+T. M\u00fcller,S. Rudy,1
+S. Rudy,T. M\u00fcller,1
+C. Tolisso,T. M\u00fcller,1
+R. Lewandowski,Thiago Alc\u00e2ntara,1

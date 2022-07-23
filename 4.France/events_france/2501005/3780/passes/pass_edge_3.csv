@@ -1,0 +1,67 @@
+Source,Target,Weight
+I. Sylla,M. Gradel,6
+M. Gradel,Som\u00e1lia,5
+K. Amian,I. Sangar\u00e9,5
+A. Blin,I. Sylla,4
+M. Gradel,A. Blin,4
+I. Sylla,Som\u00e1lia,3
+M. Gradel,I. Sangar\u00e9,3
+I. Sylla,Steven Fort\u00e8s,3
+Som\u00e1lia,I. Sylla,3
+Y. Sanogo,M. Gradel,3
+Steven Fort\u00e8s,M. Gradel,3
+A. Blin,M. Gradel,3
+A. Lafont,Steven Fort\u00e8s,3
+Steven Fort\u00e8s,I. Sylla,3
+I. Sangar\u00e9,I. Diop,3
+Steven Fort\u00e8s,A. Blin,3
+M. Gradel,Y. Sanogo,3
+I. Diop,Som\u00e1lia,2
+I. Diop,Steven Fort\u00e8s,2
+I. Sangar\u00e9,M. Gradel,2
+I. Diop,I. Sangar\u00e9,2
+A. Blin,I. Diop,2
+A. Blin,I. Sangar\u00e9,2
+M. Gradel,K. Amian,2
+Steven Fort\u00e8s,Som\u00e1lia,2
+Som\u00e1lia,K. Amian,2
+A. Delort,I. Sangar\u00e9,2
+I. Sangar\u00e9,A. Delort,2
+I. Sangar\u00e9,K. Amian,2
+Som\u00e1lia,A. Lafont,2
+Som\u00e1lia,M. Gradel,2
+I. Sangar\u00e9,A. Blin,2
+I. Sylla,Y. Sanogo,1
+Y. Sanogo,A. Lafont,1
+A. Lafont,Som\u00e1lia,1
+A. Lafont,I. Diop,1
+Y. Sanogo,A. Delort,1
+Y. Sanogo,A. Blin,1
+K. Amian,I. Diop,1
+I. Diop,A. Delort,1
+I. Sangar\u00e9,Y. Sanogo,1
+I. Sylla,I. Sangar\u00e9,1
+Som\u00e1lia,Steven Fort\u00e8s,1
+Som\u00e1lia,I. Diop,1
+Y. Sanogo,Som\u00e1lia,1
+I. Sangar\u00e9,Som\u00e1lia,1
+K. Amian,Y. Sanogo,1
+Steven Fort\u00e8s,A. Lafont,1
+I. Sangar\u00e9,Steven Fort\u00e8s,1
+Steven Fort\u00e8s,A. Delort,1
+K. Amian,I. Sylla,1
+A. Blin,K. Amian,1
+A. Delort,A. Blin,1
+I. Sangar\u00e9,A. Lafont,1
+A. Delort,K. Amian,1
+Y. Sanogo,Steven Fort\u00e8s,1
+A. Delort,Y. Sanogo,1
+Som\u00e1lia,I. Sangar\u00e9,1
+Som\u00e1lia,Y. Sanogo,1
+K. Amian,A. Blin,1
+I. Diop,K. Amian,1
+I. Sangar\u00e9,I. Sylla,1
+A. Blin,Steven Fort\u00e8s,1
+M. Gradel,I. Sylla,1
+Som\u00e1lia,A. Blin,1
+M. Gradel,Steven Fort\u00e8s,1

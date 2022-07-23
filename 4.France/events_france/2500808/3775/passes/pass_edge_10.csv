@@ -1,0 +1,28 @@
+Source,Target,Weight
+W. Sneijder,A. Pl\u00e9a,3
+J. Seri,W. Sneijder,2
+A. Pl\u00e9a,J. Seri,2
+W. Sneijder,V. Koziello,2
+C. Jallet,W. Sneijder,2
+R. Walter,A. Souquet,2
+V. Koziello,W. Sneijder,2
+W. Sneijder,P. Lees Melou,2
+A. Pl\u00e9a,R. Walter,2
+A. Pl\u00e9a,Dante,1
+V. Koziello,M. Le Marchand,1
+R. Walter,A. Pl\u00e9a,1
+P. Lees Melou,W. Sneijder,1
+P. Lees Melou,C. Jallet,1
+J. Seri,A. Pl\u00e9a,1
+P. Lees Melou,J. Seri,1
+V. Koziello,J. Seri,1
+M. Le Marchand,P. Lees Melou,1
+V. Koziello,A. Pl\u00e9a,1
+A. Souquet,C. Jallet,1
+V. Koziello,R. Walter,1
+A. Souquet,A. Pl\u00e9a,1
+J. Seri,V. Koziello,1
+C. Jallet,P. Lees Melou,1
+P. Lees Melou,V. Koziello,1
+A. Pl\u00e9a,V. Koziello,1
+Dante,C. Jallet,1

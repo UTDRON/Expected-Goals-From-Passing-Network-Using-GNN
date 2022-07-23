@@ -1,0 +1,72 @@
+Source,Target,Weight
+G. Burgstaller,W. McKennie,7
+D. Caligiuri,N. Bentaleb,6
+M. Nastasi\u0107,D. Caligiuri,5
+N. Bentaleb,D. Caligiuri,5
+N. Bentaleb,L. Goretzka,5
+L. Goretzka,W. McKennie,4
+T. Kehrer,A. Sch\u00f6pf,3
+W. McKennie,G. Burgstaller,3
+W. McKennie,N. Bentaleb,3
+W. McKennie,T. Kehrer,3
+Naldo,T. Kehrer,3
+W. McKennie,L. Goretzka,3
+D. Caligiuri,G. Burgstaller,2
+A. Sch\u00f6pf,G. Burgstaller,2
+N. Bentaleb,W. McKennie,2
+T. Kehrer,N. Bentaleb,2
+Naldo,M. Nastasi\u0107,2
+N. Bentaleb,Naldo,2
+L. Goretzka,G. Burgstaller,2
+M. Pjaca,T. Kehrer,2
+D. Caligiuri,R. F\u00e4hrmann,2
+N. Bentaleb,T. Kehrer,2
+G. Burgstaller,A. Sch\u00f6pf,1
+D. Caligiuri,Y. Konoplyanka,1
+F. Di Santo,M. Pjaca,1
+Y. Konoplyanka,M. Nastasi\u0107,1
+N. Bentaleb,M. Nastasi\u0107,1
+M. Nastasi\u0107,Naldo,1
+W. McKennie,D. Caligiuri,1
+R. F\u00e4hrmann,N. Bentaleb,1
+D. Caligiuri,W. McKennie,1
+M. Nastasi\u0107,M. Pjaca,1
+Naldo,G. Burgstaller,1
+M. Pjaca,D. Caligiuri,1
+L. Goretzka,M. Pjaca,1
+L. Goretzka,M. Nastasi\u0107,1
+R. F\u00e4hrmann,F. Di Santo,1
+T. Kehrer,Naldo,1
+F. Di Santo,L. Goretzka,1
+W. McKennie,Naldo,1
+L. Goretzka,N. Bentaleb,1
+M. Pjaca,R. F\u00e4hrmann,1
+G. Burgstaller,T. Kehrer,1
+L. Goretzka,T. Kehrer,1
+D. Caligiuri,M. Pjaca,1
+F. Di Santo,N. Bentaleb,1
+Naldo,F. Di Santo,1
+D. Caligiuri,F. Di Santo,1
+M. Nastasi\u0107,N. Bentaleb,1
+T. Kehrer,W. McKennie,1
+W. McKennie,R. F\u00e4hrmann,1
+L. Goretzka,Naldo,1
+T. Kehrer,M. Nastasi\u0107,1
+Y. Konoplyanka,L. Goretzka,1
+R. F\u00e4hrmann,M. Nastasi\u0107,1
+M. Pjaca,W. McKennie,1
+N. Bentaleb,Y. Konoplyanka,1
+T. Kehrer,M. Pjaca,1
+A. Sch\u00f6pf,Naldo,1
+G. Burgstaller,M. Nastasi\u0107,1
+T. Kehrer,L. Goretzka,1
+Y. Konoplyanka,D. Caligiuri,1
+T. Kehrer,D. Caligiuri,1
+F. Di Santo,Y. Konoplyanka,1
+F. Di Santo,D. Caligiuri,1
+R. F\u00e4hrmann,G. Burgstaller,1
+Y. Konoplyanka,F. Di Santo,1
+G. Burgstaller,N. Bentaleb,1
+W. McKennie,F. Di Santo,1
+T. Kehrer,Y. Konoplyanka,1
+A. Sch\u00f6pf,N. Bentaleb,1

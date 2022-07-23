@@ -1,0 +1,73 @@
+Source,Target,Weight
+F. Guilbert,I. Diomand\u00e9,6
+F. Guilbert,R. Rodelin,5
+Y. A\u00eft Bennasser,A. Djiku,4
+I. Diomand\u00e9,F. Guilbert,4
+A. Djiku,D. Da Silva,4
+T. Stavitski,Y. A\u00eft Bennasser,4
+R. Rodelin,I. Diomand\u00e9,4
+D. Da Silva,A. Djiku,4
+A. Djiku,V. Bessat,3
+F. Guilbert,T. Stavitski,3
+D. Da Silva,Y. A\u00eft Bennasser,3
+V. Bessat,A. Djiku,3
+V. Bessat,J. Deminguet,3
+A. Djiku,Y. A\u00eft Bennasser,3
+J. Deminguet,V. Bessat,3
+I. Diomand\u00e9,D. Da Silva,3
+J. F\u00e9ret,F. Guilbert,3
+Y. A\u00eft Bennasser,D. Da Silva,3
+Y. A\u00eft Bennasser,J. F\u00e9ret,3
+I. Diomand\u00e9,R. Rodelin,3
+R. Rodelin,F. Guilbert,3
+Y. A\u00eft Bennasser,I. Diomand\u00e9,3
+R. Rodelin,J. F\u00e9ret,3
+D. Da Silva,F. Guilbert,2
+Y. A\u00eft Bennasser,R. Rodelin,2
+T. Stavitski,I. Diomand\u00e9,2
+J. Deminguet,J. F\u00e9ret,2
+R. Rodelin,T. Stavitski,2
+J. F\u00e9ret,V. Bessat,2
+Y. A\u00eft Bennasser,T. Stavitski,2
+J. F\u00e9ret,J. Deminguet,2
+D. Da Silva,R. Vercoutre,2
+V. Bessat,Y. A\u00eft Bennasser,2
+J. Deminguet,F. Guilbert,2
+I. Diomand\u00e9,Y. A\u00eft Bennasser,2
+D. Da Silva,T. Stavitski,2
+F. Guilbert,J. Deminguet,2
+T. Stavitski,R. Rodelin,2
+F. Guilbert,Y. A\u00eft Bennasser,2
+T. Stavitski,F. Guilbert,2
+J. Deminguet,A. Djiku,2
+I. Diomand\u00e9,A. Djiku,2
+V. Bessat,T. Stavitski,2
+I. Diomand\u00e9,J. Deminguet,2
+R. Vercoutre,R. Rodelin,1
+T. Stavitski,A. Djiku,1
+A. Djiku,I. Diomand\u00e9,1
+A. Djiku,R. Rodelin,1
+T. Stavitski,V. Bessat,1
+D. Da Silva,R. Rodelin,1
+Y. A\u00eft Bennasser,F. Guilbert,1
+J. F\u00e9ret,R. Rodelin,1
+A. Djiku,J. Deminguet,1
+R. Rodelin,Y. A\u00eft Bennasser,1
+R. Rodelin,D. Da Silva,1
+R. Rodelin,V. Bessat,1
+D. Da Silva,J. Deminguet,1
+J. F\u00e9ret,Y. A\u00eft Bennasser,1
+J. F\u00e9ret,D. Da Silva,1
+V. Bessat,F. Guilbert,1
+A. Djiku,R. Vercoutre,1
+A. Djiku,F. Guilbert,1
+R. Vercoutre,F. Guilbert,1
+A. Djiku,T. Stavitski,1
+R. Vercoutre,D. Da Silva,1
+A. Djiku,J. F\u00e9ret,1
+F. Guilbert,A. Djiku,1
+F. Guilbert,D. Da Silva,1
+J. Deminguet,D. Da Silva,1
+J. Deminguet,Y. A\u00eft Bennasser,1
+F. Guilbert,J. F\u00e9ret,1
+Y. A\u00eft Bennasser,V. Bessat,1

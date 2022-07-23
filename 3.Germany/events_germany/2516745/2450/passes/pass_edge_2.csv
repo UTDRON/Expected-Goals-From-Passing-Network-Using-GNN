@@ -1,0 +1,43 @@
+Source,Target,Weight
+K. Papadopoulos,G. Jung,3
+A. Hahn,A. Ekdal,3
+D. Diekmeier,K. Papadopoulos,2
+A. Ekdal,D. Diekmeier,2
+A. Hahn,D. Diekmeier,2
+A. Ekdal,K. Papadopoulos,2
+R. van Drongelen,C. Mathenia,2
+A. Hunt,A. Hahn,2
+A. Ekdal,Walace,2
+K. Papadopoulos,R. van Drongelen,2
+C. Mathenia,A. Hahn,2
+G. Jung,A. Ekdal,2
+C. Mathenia,G. Jung,1
+Walace,D. Diekmeier,1
+K. Papadopoulos,C. Mathenia,1
+K. Papadopoulos,Walace,1
+D. Diekmeier,A. Hahn,1
+F. Kosti\u0107,A. Hahn,1
+B. Wood,R. van Drongelen,1
+Walace,R. van Drongelen,1
+R. van Drongelen,A. Ekdal,1
+N. M\u00fcller,G. Jung,1
+G. Jung,R. van Drongelen,1
+A. Ekdal,A. Hahn,1
+D. Diekmeier,A. Hunt,1
+A. Hunt,K. Papadopoulos,1
+A. Hahn,B. Wood,1
+G. Jung,C. Mathenia,1
+R. van Drongelen,K. Papadopoulos,1
+B. Wood,A. Ekdal,1
+D. Diekmeier,N. M\u00fcller,1
+R. van Drongelen,F. Kosti\u0107,1
+C. Mathenia,B. Wood,1
+N. M\u00fcller,B. Wood,1
+F. Kosti\u0107,A. Ekdal,1
+A. Ekdal,A. Hunt,1
+B. Wood,K. Papadopoulos,1
+R. van Drongelen,N. M\u00fcller,1
+Walace,F. Kosti\u0107,1
+A. Hahn,A. Hunt,1
+G. Jung,K. Papadopoulos,1
+F. Kosti\u0107,R. van Drongelen,1

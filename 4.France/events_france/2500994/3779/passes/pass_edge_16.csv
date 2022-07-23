@@ -1,0 +1,19 @@
+Source,Target,Weight
+B. Corgnet,M. Terrier,2
+S. Bahoken,D. Li\u00e9nard,1
+A. Oukidja,B. Corgnet,1
+M. Terrier,A. Oukidja,1
+S. Bahoken,A. Gon\u00e7alves,1
+P. Martinez,J. Aholou,1
+D. Li\u00e9nard,B. Corgnet,1
+D. Li\u00e9nard,A. Gon\u00e7alves,1
+B. Kon\u00e9,D. Li\u00e9nard,1
+J. Aholou,B. Corgnet,1
+A. Gon\u00e7alves,S. Bahoken,1
+B. Corgnet,P. Martinez,1
+E. Seka,S. Bahoken,1
+M. Terrier,D. Li\u00e9nard,1
+S. Bahoken,E. Seka,1
+P. Martinez,D. Li\u00e9nard,1
+A. Gon\u00e7alves,B. Kon\u00e9,1
+D. Li\u00e9nard,P. Martinez,1

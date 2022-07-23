@@ -1,0 +1,19 @@
+Source,Target,Weight
+A. Djiku,S. Peeters,2
+D. Avounou,A. Djiku,2
+A. Djiku,R. Genevois,1
+S. Peeters,E. Crivelli,1
+B. Sankoh,A. Djiku,1
+E. Crivelli,B. Sankoh,1
+D. Da Silva,A. Djiku,1
+R. Vercoutre,J. F\u00e9ret,1
+R. Genevois,E. Crivelli,1
+E. Crivelli,D. Avounou,1
+J. F\u00e9ret,R. Rodelin,1
+S. Peeters,D. Avounou,1
+A. Djiku,B. Sankoh,1
+B. Sankoh,D. Da Silva,1
+R. Rodelin,J. F\u00e9ret,1
+S. Peeters,B. Sankoh,1
+B. Sankoh,D. Avounou,1
+D. Avounou,R. Vercoutre,1

@@ -1,0 +1,44 @@
+Source,Target,Weight
+J. Pastore,A. Rabiot,3
+J. Pastore,L. Kurzawa,3
+Neymar,J. Pastore,3
+P. Kimpembe,M. Verratti,3
+A. Rabiot,J. Pastore,3
+M. Verratti,A. Rabiot,2
+T. Meunier,A. Rabiot,2
+A. Rabiot,M. Verratti,2
+J. Pastore,Neymar,2
+L. Kurzawa,J. Pastore,2
+M. Verratti,J. Pastore,2
+P. Kimpembe,J. Pastore,2
+P. Kimpembe,Thiago Silva,2
+J. Pastore,P. Kimpembe,2
+Thiago Silva,P. Kimpembe,2
+M. Verratti,K. Mbapp\u00e9,1
+T. Meunier,K. Trapp,1
+L. Kurzawa,Thiago Silva,1
+K. Mbapp\u00e9,T. Meunier,1
+Thiago Silva,T. Meunier,1
+T. Meunier,K. Mbapp\u00e9,1
+M. Verratti,K. Trapp,1
+Thiago Silva,Neymar,1
+T. Meunier,M. Verratti,1
+L. Kurzawa,T. Meunier,1
+A. Rabiot,L. Kurzawa,1
+K. Trapp,M. Verratti,1
+M. Verratti,Neymar,1
+A. Rabiot,P. Kimpembe,1
+J. Pastore,M. Verratti,1
+M. Verratti,Thiago Silva,1
+K. Trapp,P. Kimpembe,1
+Neymar,A. Rabiot,1
+Thiago Silva,L. Kurzawa,1
+K. Trapp,Thiago Silva,1
+J. Pastore,T. Meunier,1
+Thiago Silva,M. Verratti,1
+L. Kurzawa,K. Trapp,1
+A. Rabiot,Neymar,1
+K. Mbapp\u00e9,A. Rabiot,1
+M. Verratti,P. Kimpembe,1
+T. Meunier,Thiago Silva,1
+A. Rabiot,T. Meunier,1

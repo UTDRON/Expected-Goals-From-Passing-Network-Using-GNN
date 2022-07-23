@@ -1,0 +1,36 @@
+Source,Target,Weight
+P. Ntep,Y. Mall\u0131,2
+Y. Gerhardt,P. Verhaegh,2
+William,Y. Gerhardt,2
+Y. Mall\u0131,Y. Gerhardt,2
+P. Verhaegh,Y. Mall\u0131,2
+J. Brooks,Y. Gerhardt,2
+Y. Gerhardt,J. Brooks,2
+J. Guilavogui,Y. Gerhardt,2
+William,J. Guilavogui,2
+J. Guilavogui,Y. Mall\u0131,1
+Y. Gerhardt,Y. Mall\u0131,1
+Y. Gerhardt,D. Origi,1
+D. Origi,William,1
+P. Ntep,J. Guilavogui,1
+J. Guilavogui,F. Uduokhai,1
+Y. Mall\u0131,M. G\u00f3mez,1
+P. Ntep,William,1
+Y. Gerhardt,J. Guilavogui,1
+J. Guilavogui,J. Brooks,1
+J. Brooks,K. Casteels,1
+Y. Mall\u0131,William,1
+F. Uduokhai,K. Casteels,1
+K. Casteels,J. Brooks,1
+William,P. Ntep,1
+Y. Mall\u0131,P. Verhaegh,1
+J. Brooks,J. Guilavogui,1
+Y. Mall\u0131,D. Origi,1
+P. Verhaegh,F. Uduokhai,1
+D. Origi,Y. Mall\u0131,1
+K. Casteels,P. Ntep,1
+M. G\u00f3mez,William,1
+Y. Gerhardt,William,1
+F. Uduokhai,P. Verhaegh,1
+Y. Gerhardt,P. Ntep,1
+P. Verhaegh,Y. Gerhardt,1

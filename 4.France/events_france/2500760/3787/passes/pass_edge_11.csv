@@ -1,0 +1,34 @@
+Source,Target,Weight
+R. Aguilar,J. Roussillon,3
+S. Camara,R. Aguilar,2
+Pedro Mendes,S. Camara,2
+S. Sess\u00e8gnon,R. Aguilar,2
+J. Roussillon,R. Aguilar,2
+R. Aguilar,S. Camara,2
+R. Aguilar,I. Mbenza,1
+Hilton,K. B\u00e9rigaud,1
+Pedro Mendes,F. P\u00edriz,1
+D. Congr\u00e9,Hilton,1
+F. P\u00edriz,R. Aguilar,1
+P. Lasne,R. Aguilar,1
+B. Lecomte,Hilton,1
+F. P\u00edriz,D. Congr\u00e9,1
+B. Lecomte,Pedro Mendes,1
+J. Roussillon,S. Camara,1
+Hilton,I. Mbenza,1
+K. B\u00e9rigaud,S. Camara,1
+I. Mbenza,R. Aguilar,1
+R. Aguilar,F. P\u00edriz,1
+D. Congr\u00e9,B. Lecomte,1
+Hilton,B. Lecomte,1
+I. Mbenza,S. Sess\u00e8gnon,1
+R. Aguilar,P. Lasne,1
+S. Camara,E. Skhiri,1
+E. Skhiri,D. Congr\u00e9,1
+F. P\u00edriz,S. Sess\u00e8gnon,1
+S. Camara,J. Roussillon,1
+R. Aguilar,S. Sess\u00e8gnon,1
+J. Roussillon,E. Skhiri,1
+S. Sess\u00e8gnon,Pedro Mendes,1
+E. Skhiri,Pedro Mendes,1
+S. Camara,F. P\u00edriz,1

@@ -1,0 +1,69 @@
+Source,Target,Weight
+R. Genevois,J. F\u00e9ret,5
+I. Diomand\u00e9,J. F\u00e9ret,4
+R. Genevois,F. Guilbert,4
+J. F\u00e9ret,E. Crivelli,3
+J. F\u00e9ret,R. Genevois,3
+J. F\u00e9ret,I. Diomand\u00e9,3
+Y. A\u00eft Bennasser,I. Diomand\u00e9,3
+A. Djiku,R. Genevois,3
+J. F\u00e9ret,T. Stavitski,3
+A. Djiku,J. F\u00e9ret,2
+J. F\u00e9ret,A. Djiku,2
+F. Guilbert,J. F\u00e9ret,2
+T. Stavitski,E. Crivelli,2
+R. Rodelin,V. Bessat,2
+A. Djiku,I. Diomand\u00e9,2
+F. Guilbert,A. Djiku,2
+Y. A\u00eft Bennasser,F. Guilbert,2
+R. Vercoutre,R. Rodelin,2
+E. Crivelli,Y. A\u00eft Bennasser,2
+F. Guilbert,I. Diomand\u00e9,2
+I. Diomand\u00e9,A. Djiku,2
+J. F\u00e9ret,F. Guilbert,2
+R. Rodelin,F. Guilbert,2
+F. Guilbert,Y. A\u00eft Bennasser,2
+I. Diomand\u00e9,R. Genevois,2
+F. Guilbert,R. Genevois,2
+Y. A\u00eft Bennasser,E. Crivelli,1
+T. Stavitski,R. Genevois,1
+R. Genevois,S. Peeters,1
+R. Rodelin,R. Genevois,1
+S. Peeters,J. F\u00e9ret,1
+S. Peeters,V. Bessat,1
+R. Rodelin,J. F\u00e9ret,1
+S. Peeters,R. Rodelin,1
+E. Crivelli,R. Rodelin,1
+T. Stavitski,Y. A\u00eft Bennasser,1
+I. Diomand\u00e9,Y. A\u00eft Bennasser,1
+F. Guilbert,E. Crivelli,1
+R. Vercoutre,A. Djiku,1
+R. Genevois,E. Crivelli,1
+V. Bessat,Y. A\u00eft Bennasser,1
+S. Peeters,R. Genevois,1
+Y. A\u00eft Bennasser,R. Rodelin,1
+I. Diomand\u00e9,F. Guilbert,1
+E. Crivelli,S. Peeters,1
+R. Vercoutre,I. Diomand\u00e9,1
+J. F\u00e9ret,S. Peeters,1
+E. Crivelli,J. F\u00e9ret,1
+R. Genevois,A. Djiku,1
+R. Genevois,Y. A\u00eft Bennasser,1
+E. Crivelli,R. Vercoutre,1
+I. Diomand\u00e9,R. Vercoutre,1
+R. Genevois,R. Vercoutre,1
+F. Guilbert,R. Rodelin,1
+A. Djiku,R. Rodelin,1
+Y. A\u00eft Bennasser,R. Genevois,1
+S. Peeters,J. Deminguet,1
+E. Crivelli,T. Stavitski,1
+V. Bessat,S. Peeters,1
+R. Rodelin,Y. A\u00eft Bennasser,1
+F. Guilbert,S. Peeters,1
+Y. A\u00eft Bennasser,S. Peeters,1
+V. Bessat,A. Djiku,1
+V. Bessat,J. F\u00e9ret,1
+Y. A\u00eft Bennasser,V. Bessat,1
+J. Deminguet,F. Guilbert,1
+A. Djiku,Y. A\u00eft Bennasser,1
+S. Peeters,R. Vercoutre,1

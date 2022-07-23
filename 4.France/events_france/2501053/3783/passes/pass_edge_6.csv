@@ -1,0 +1,72 @@
+Source,Target,Weight
+A. Mbengue,D. Da Silva,4
+F. Guilbert,J. F\u00e9ret,4
+I. Diomand\u00e9,D. Da Silva,4
+Y. A\u00eft Bennasser,F. Guilbert,4
+I. Diomand\u00e9,Y. A\u00eft Bennasser,3
+Y. A\u00eft Bennasser,A. Mbengue,3
+J. F\u00e9ret,A. Mbengue,2
+A. Mbengue,E. Crivelli,2
+D. Da Silva,I. Diomand\u00e9,2
+E. Crivelli,I. Diomand\u00e9,2
+D. Da Silva,A. Mbengue,2
+J. F\u00e9ret,J. Deminguet,2
+J. F\u00e9ret,F. Guilbert,2
+Y. A\u00eft Bennasser,I. Diomand\u00e9,2
+F. Guilbert,A. Mbengue,2
+D. Da Silva,E. Crivelli,2
+E. Crivelli,S. Peeters,2
+A. Mbengue,J. F\u00e9ret,2
+D. Da Silva,Y. A\u00eft Bennasser,2
+D. Da Silva,F. Guilbert,2
+A. Mbengue,S. Peeters,2
+A. Mbengue,Y. A\u00eft Bennasser,2
+R. Rodelin,J. F\u00e9ret,2
+R. Rodelin,A. Mbengue,2
+J. F\u00e9ret,I. Diomand\u00e9,2
+A. Mbengue,C. Kouakou,2
+F. Guilbert,I. Santini,2
+B. Samba,A. Mbengue,1
+S. Peeters,D. Da Silva,1
+B. Samba,I. Diomand\u00e9,1
+S. Peeters,F. Guilbert,1
+J. Deminguet,I. Diomand\u00e9,1
+I. Santini,J. Deminguet,1
+J. F\u00e9ret,Y. A\u00eft Bennasser,1
+R. Rodelin,S. Peeters,1
+J. Deminguet,Y. A\u00eft Bennasser,1
+A. Mbengue,J. Deminguet,1
+I. Santini,F. Guilbert,1
+R. Rodelin,Y. A\u00eft Bennasser,1
+Y. A\u00eft Bennasser,R. Rodelin,1
+I. Diomand\u00e9,E. Crivelli,1
+C. Kouakou,R. Rodelin,1
+E. Crivelli,D. Da Silva,1
+I. Diomand\u00e9,I. Santini,1
+I. Diomand\u00e9,B. Samba,1
+C. Kouakou,Y. A\u00eft Bennasser,1
+A. Mbengue,R. Rodelin,1
+D. Da Silva,R. Rodelin,1
+I. Diomand\u00e9,R. Rodelin,1
+D. Da Silva,B. Samba,1
+B. Samba,Y. A\u00eft Bennasser,1
+J. Deminguet,D. Da Silva,1
+F. Guilbert,R. Rodelin,1
+R. Rodelin,B. Samba,1
+F. Guilbert,J. Deminguet,1
+R. Rodelin,F. Guilbert,1
+J. Deminguet,R. Rodelin,1
+J. Deminguet,F. Guilbert,1
+S. Peeters,R. Rodelin,1
+F. Guilbert,I. Diomand\u00e9,1
+E. Crivelli,A. Mbengue,1
+Y. A\u00eft Bennasser,D. Da Silva,1
+I. Santini,J. F\u00e9ret,1
+F. Guilbert,D. Da Silva,1
+S. Peeters,A. Mbengue,1
+C. Kouakou,A. Mbengue,1
+S. Peeters,E. Crivelli,1
+I. Diomand\u00e9,A. Mbengue,1
+I. Santini,I. Diomand\u00e9,1
+Y. A\u00eft Bennasser,C. Kouakou,1
+Y. A\u00eft Bennasser,I. Santini,1

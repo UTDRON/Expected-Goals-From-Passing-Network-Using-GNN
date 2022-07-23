@@ -1,0 +1,53 @@
+Source,Target,Weight
+D. Demme,Bernardo,4
+Bernardo,D. Demme,3
+D. Upamecano,E. Forsberg,3
+D. Upamecano,M. Halstenberg,3
+M. Sabitzer,J. Augustin,3
+Bernardo,D. Upamecano,3
+E. Forsberg,T. Werner,3
+M. Halstenberg,D. Upamecano,2
+K. Kampl,M. Halstenberg,2
+T. Werner,D. Upamecano,2
+M. Sabitzer,Bernardo,2
+D. Upamecano,I. Konat\u00e9,2
+M. Halstenberg,M. Sabitzer,2
+J. Augustin,M. Sabitzer,2
+D. Upamecano,Bernardo,2
+E. Forsberg,K. Kampl,2
+D. Demme,I. Konat\u00e9,2
+I. Konat\u00e9,D. Demme,2
+M. Sabitzer,D. Demme,2
+D. Demme,D. Upamecano,1
+D. Upamecano,P. Gul\u00e1csi,1
+I. Konat\u00e9,Bernardo,1
+E. Forsberg,M. Sabitzer,1
+Bernardo,M. Halstenberg,1
+J. Augustin,D. Demme,1
+K. Kampl,E. Forsberg,1
+Bernardo,T. Werner,1
+T. Werner,E. Forsberg,1
+D. Demme,J. Augustin,1
+M. Sabitzer,E. Forsberg,1
+J. Augustin,P. Gul\u00e1csi,1
+D. Demme,T. Werner,1
+Bruma,M. Halstenberg,1
+M. Halstenberg,E. Forsberg,1
+M. Halstenberg,K. Kampl,1
+P. Gul\u00e1csi,D. Upamecano,1
+D. Demme,K. Kampl,1
+D. Demme,M. Halstenberg,1
+D. Upamecano,M. Sabitzer,1
+E. Forsberg,D. Demme,1
+J. Augustin,D. Upamecano,1
+K. Kampl,D. Upamecano,1
+D. Demme,M. Sabitzer,1
+P. Gul\u00e1csi,D. Demme,1
+M. Halstenberg,Bruma,1
+Bernardo,M. Sabitzer,1
+Bernardo,P. Gul\u00e1csi,1
+T. Werner,D. Demme,1
+I. Konat\u00e9,J. Augustin,1
+P. Gul\u00e1csi,Bernardo,1
+T. Werner,M. Sabitzer,1
+M. Halstenberg,D. Demme,1

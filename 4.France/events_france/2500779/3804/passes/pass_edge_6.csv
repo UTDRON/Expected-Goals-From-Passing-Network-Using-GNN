@@ -1,0 +1,59 @@
+Source,Target,Weight
+N. Sliti,O. Haddadi,6
+V. Rosier,B. Jeannot,5
+Kwon Chang-Hoon,V. Rosier,4
+C. Varrault,Kwon Chang-Hoon,3
+O. Haddadi,P. Djilobodji,3
+P. Djilobodji,N. Sliti,3
+O. Haddadi,Xeka,3
+R. Amalfitano,B. Jeannot,2
+O. Haddadi,Kwon Chang-Hoon,2
+P. Djilobodji,C. Varrault,2
+R. Amalfitano,O. Haddadi,2
+Xeka,V. Rosier,2
+Xeka,P. Djilobodji,2
+B. Jeannot,Kwon Chang-Hoon,2
+V. Rosier,Kwon Chang-Hoon,2
+B. Reynet,B. Jeannot,2
+B. Jeannot,V. Rosier,2
+M. Abeid,R. Amalfitano,2
+C. Varrault,V. Rosier,2
+V. Rosier,C. Varrault,2
+B. Jeannot,O. Haddadi,2
+O. Haddadi,R. Amalfitano,2
+Kwon Chang-Hoon,C. Varrault,2
+Kwon Chang-Hoon,R. Amalfitano,1
+Xeka,O. Haddadi,1
+O. Haddadi,B. Jeannot,1
+J. Mari\u00e9,Xeka,1
+N. Sliti,J. Mari\u00e9,1
+B. Jeannot,R. Amalfitano,1
+P. Djilobodji,V. Rosier,1
+M. Abeid,N. Sliti,1
+C. Varrault,B. Jeannot,1
+C. Varrault,O. Haddadi,1
+B. Jeannot,N. Sliti,1
+B. Jeannot,P. Djilobodji,1
+R. Amalfitano,M. Abeid,1
+B. Jeannot,Xeka,1
+O. Haddadi,N. Sliti,1
+Kwon Chang-Hoon,N. Sliti,1
+Xeka,N. Sliti,1
+R. Amalfitano,P. Djilobodji,1
+V. Rosier,O. Haddadi,1
+V. Rosier,B. Reynet,1
+J. Mari\u00e9,N. Sliti,1
+J. Mari\u00e9,B. Jeannot,1
+O. Haddadi,J. Mari\u00e9,1
+N. Sliti,C. Varrault,1
+Kwon Chang-Hoon,J. Mari\u00e9,1
+B. Jeannot,B. Reynet,1
+R. Amalfitano,Kwon Chang-Hoon,1
+P. Djilobodji,Xeka,1
+Kwon Chang-Hoon,M. Abeid,1
+Kwon Chang-Hoon,Xeka,1
+B. Jeannot,C. Varrault,1
+Xeka,Kwon Chang-Hoon,1
+C. Varrault,R. Amalfitano,1
+O. Haddadi,V. Rosier,1
+V. Rosier,M. Abeid,1

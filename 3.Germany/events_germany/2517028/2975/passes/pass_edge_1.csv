@@ -1,0 +1,64 @@
+Source,Target,Weight
+P. Gul\u00e1csi,Bernardo,4
+D. Upamecano,Bernardo,4
+Bernardo,T. Werner,4
+D. Upamecano,I. Konat\u00e9,3
+L. Klostermann,I. Konat\u00e9,3
+A. Lookman,D. Upamecano,3
+Bernardo,A. Lookman,3
+L. Klostermann,D. Demme,3
+K. Kampl,A. Lookman,3
+D. Kaiser,D. Upamecano,3
+D. Demme,Bernardo,3
+K. Kampl,D. Upamecano,2
+I. Konat\u00e9,L. Klostermann,2
+K. Kampl,D. Kaiser,2
+D. Demme,L. Klostermann,2
+I. Konat\u00e9,K. Kampl,2
+J. Augustin,A. Lookman,2
+Bernardo,P. Gul\u00e1csi,2
+D. Demme,D. Upamecano,2
+Bernardo,D. Upamecano,2
+K. Kampl,L. Klostermann,2
+D. Kaiser,J. Augustin,2
+T. Werner,D. Demme,2
+T. Werner,K. Kampl,2
+D. Upamecano,P. Gul\u00e1csi,2
+D. Demme,D. Kaiser,2
+A. Lookman,K. Kampl,2
+Bernardo,D. Demme,2
+D. Demme,K. Kampl,2
+I. Konat\u00e9,P. Gul\u00e1csi,2
+A. Lookman,D. Demme,2
+T. Werner,I. Konat\u00e9,1
+P. Gul\u00e1csi,D. Kaiser,1
+P. Gul\u00e1csi,J. Augustin,1
+Bernardo,K. Kampl,1
+I. Konat\u00e9,D. Demme,1
+K. Kampl,D. Demme,1
+D. Upamecano,L. Klostermann,1
+T. Werner,Bernardo,1
+T. Werner,D. Kaiser,1
+K. Kampl,T. Werner,1
+J. Augustin,K. Kampl,1
+L. Klostermann,D. Kaiser,1
+L. Klostermann,T. Werner,1
+D. Upamecano,D. Demme,1
+Bernardo,D. Kaiser,1
+I. Konat\u00e9,Bernardo,1
+D. Kaiser,I. Konat\u00e9,1
+D. Demme,A. Lookman,1
+D. Upamecano,T. Werner,1
+A. Lookman,D. Kaiser,1
+D. Kaiser,L. Klostermann,1
+A. Lookman,Bernardo,1
+D. Kaiser,T. Werner,1
+J. Augustin,D. Upamecano,1
+P. Gul\u00e1csi,D. Demme,1
+Bernardo,J. Augustin,1
+T. Werner,A. Lookman,1
+J. Augustin,Bernardo,1
+I. Konat\u00e9,J. Augustin,1
+D. Demme,I. Konat\u00e9,1
+D. Upamecano,K. Kampl,1
+D. Kaiser,P. Gul\u00e1csi,1

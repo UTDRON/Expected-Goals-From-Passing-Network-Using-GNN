@@ -1,0 +1,66 @@
+Source,Target,Weight
+K. Coman,D. Alaba,6
+D. Alaba,S. Wagner,5
+D. Alaba,K. Coman,4
+S. Wagner,D. Alaba,4
+S. Ulreich,N. S\u00fcle,4
+J. Boateng,J. Rodr\u00edguez,4
+J. Boateng,S. Ulreich,4
+N. S\u00fcle,J. Boateng,3
+S. Ulreich,T. M\u00fcller,3
+T. M\u00fcller,K. Coman,3
+J. Rodr\u00edguez,J. Boateng,3
+D. Alaba,Javi Mart\u00ednez,3
+S. Wagner,T. M\u00fcller,3
+K. Coman,J. Rodr\u00edguez,3
+T. M\u00fcller,J. Rodr\u00edguez,3
+T. M\u00fcller,Rafinha,2
+Javi Mart\u00ednez,J. Boateng,2
+Javi Mart\u00ednez,T. M\u00fcller,2
+J. Rodr\u00edguez,T. M\u00fcller,2
+J. Rodr\u00edguez,Javi Mart\u00ednez,2
+N. S\u00fcle,D. Alaba,2
+N. S\u00fcle,Javi Mart\u00ednez,2
+S. Ulreich,S. Wagner,2
+A. Vidal,N. S\u00fcle,2
+Javi Mart\u00ednez,S. Ulreich,2
+D. Alaba,A. Vidal,2
+T. M\u00fcller,J. Boateng,2
+Javi Mart\u00ednez,J. Rodr\u00edguez,2
+Rafinha,S. Ulreich,1
+Javi Mart\u00ednez,A. Vidal,1
+N. S\u00fcle,T. M\u00fcller,1
+J. Rodr\u00edguez,S. Ulreich,1
+Javi Mart\u00ednez,D. Alaba,1
+J. Boateng,N. S\u00fcle,1
+S. Wagner,N. S\u00fcle,1
+K. Coman,J. Boateng,1
+J. Boateng,A. Vidal,1
+Rafinha,T. M\u00fcller,1
+A. Vidal,Javi Mart\u00ednez,1
+N. S\u00fcle,S. Ulreich,1
+A. Vidal,D. Alaba,1
+T. M\u00fcller,S. Wagner,1
+A. Vidal,S. Wagner,1
+Javi Mart\u00ednez,K. Coman,1
+S. Wagner,Javi Mart\u00ednez,1
+J. Rodr\u00edguez,Rafinha,1
+Javi Mart\u00ednez,N. S\u00fcle,1
+K. Coman,Rafinha,1
+T. M\u00fcller,N. S\u00fcle,1
+S. Wagner,K. Coman,1
+K. Coman,Javi Mart\u00ednez,1
+J. Rodr\u00edguez,N. S\u00fcle,1
+Rafinha,K. Coman,1
+N. S\u00fcle,S. Wagner,1
+J. Rodr\u00edguez,K. Coman,1
+J. Boateng,Rafinha,1
+D. Alaba,T. M\u00fcller,1
+D. Alaba,S. Ulreich,1
+S. Ulreich,J. Rodr\u00edguez,1
+N. S\u00fcle,A. Vidal,1
+Rafinha,D. Alaba,1
+Rafinha,Javi Mart\u00ednez,1
+J. Rodr\u00edguez,D. Alaba,1
+T. M\u00fcller,Javi Mart\u00ednez,1
+J. Boateng,K. Coman,1

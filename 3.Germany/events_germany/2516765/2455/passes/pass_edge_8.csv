@@ -1,0 +1,32 @@
+Source,Target,Weight
+S. San\u00e9,I. Bebou,2
+M. Bakalorz,K. Karaman,2
+M. Ostrzolek,Felipe,2
+M. Harnik,N. F\u00fcllkrug,2
+Felipe,M. Ostrzolek,2
+J. Korb,S. San\u00e9,1
+Felipe,S. San\u00e9,1
+K. Karaman,M. Harnik,1
+M. Ostrzolek,N. F\u00fcllkrug,1
+N. F\u00fcllkrug,I. Bebou,1
+M. Ostrzolek,M. Harnik,1
+I. Bebou,S. San\u00e9,1
+K. Karaman,M. Ostrzolek,1
+P. Tschauner,S. San\u00e9,1
+S. San\u00e9,M. Harnik,1
+I. Bebou,M. Bakalorz,1
+M. Bakalorz,Felipe,1
+W. Anton,S. San\u00e9,1
+I. Bebou,J. Korb,1
+I. Bebou,N. F\u00fcllkrug,1
+S. San\u00e9,P. Tschauner,1
+S. San\u00e9,M. Ostrzolek,1
+K. Karaman,M. Bakalorz,1
+N. F\u00fcllkrug,W. Anton,1
+N. F\u00fcllkrug,Felipe,1
+M. Harnik,I. Bebou,1
+Felipe,K. Karaman,1
+Felipe,P. Tschauner,1
+S. San\u00e9,Felipe,1
+P. Tschauner,J. Korb,1
+J. Korb,M. Bakalorz,1

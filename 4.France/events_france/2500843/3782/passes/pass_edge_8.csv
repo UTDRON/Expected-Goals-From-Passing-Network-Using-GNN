@@ -1,0 +1,20 @@
+Source,Target,Weight
+C. M'Bengue,B. Dabo,2
+V. Pajot,C. M'Bengue,1
+C. M'Bengue,L. Diony,1
+S. Ruffier,C. M'Bengue,1
+S. Janko,S. Ruffier,1
+J. Bamba,S. Janko,1
+L. Perrin,C. M'Bengue,1
+C. M'Bengue,S. Janko,1
+L. Diony,B. Dabo,1
+J. Bamba,L. Diony,1
+B. Dabo,V. Pajot,1
+B. Dabo,L. Diony,1
+L. Diony,J. Bamba,1
+L. Diony,C. M'Bengue,1
+K. Monnet-Paquet,L. Diony,1
+L. Diony,V. Pajot,1
+S. Janko,J. Bamba,1
+B. Dabo,S. Janko,1
+V. Pajot,L. Perrin,1

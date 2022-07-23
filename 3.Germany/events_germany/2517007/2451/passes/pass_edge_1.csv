@@ -1,0 +1,79 @@
+Source,Target,Weight
+P. Jaeckel,R. Knoche,13
+R. Knoche,F. Uduokhai,10
+R. Knoche,P. Jaeckel,9
+F. Uduokhai,R. Knoche,9
+M. Arnold,R. Bazoer,7
+F. Uduokhai,William,7
+M. Arnold,F. Uduokhai,7
+R. Bazoer,F. Uduokhai,6
+R. Bazoer,M. Arnold,6
+F. Uduokhai,R. Bazoer,6
+P. Verhaegh,L. Dimata,5
+M. Arnold,P. Verhaegh,5
+R. Knoche,M. Arnold,4
+P. Jaeckel,M. Arnold,4
+F. Uduokhai,M. Arnold,4
+William,R. Bazoer,4
+P. Verhaegh,William,4
+R. Bazoer,William,4
+William,Y. Mall\u0131,4
+D. Didavi,R. Bazoer,4
+L. Dimata,R. Knoche,4
+Y. Mall\u0131,William,3
+L. Dimata,Y. Mall\u0131,3
+William,F. Uduokhai,3
+Y. Mall\u0131,F. Uduokhai,3
+William,R. Knoche,3
+Y. Mall\u0131,P. Verhaegh,3
+P. Verhaegh,P. Jaeckel,3
+K. Casteels,P. Jaeckel,3
+R. Knoche,Y. Mall\u0131,3
+P. Jaeckel,F. Uduokhai,3
+R. Knoche,D. Didavi,3
+L. Dimata,M. Arnold,2
+F. Uduokhai,D. Didavi,2
+William,M. Arnold,2
+P. Verhaegh,M. Arnold,2
+R. Bazoer,R. Knoche,2
+R. Bazoer,L. Dimata,2
+Y. Mall\u0131,L. Dimata,2
+Y. Mall\u0131,D. Didavi,2
+F. Uduokhai,K. Casteels,2
+F. Uduokhai,P. Verhaegh,2
+F. Uduokhai,Y. Mall\u0131,2
+R. Bazoer,D. Didavi,2
+D. Didavi,P. Jaeckel,2
+D. Didavi,Y. Mall\u0131,2
+M. Arnold,R. Knoche,2
+L. Dimata,P. Verhaegh,2
+M. Arnold,P. Jaeckel,2
+William,P. Jaeckel,2
+D. Didavi,F. Uduokhai,1
+D. Didavi,P. Verhaegh,1
+R. Bazoer,P. Jaeckel,1
+P. Jaeckel,Y. Mall\u0131,1
+R. Knoche,R. Bazoer,1
+P. Verhaegh,D. Didavi,1
+R. Knoche,K. Casteels,1
+L. Dimata,D. Didavi,1
+P. Jaeckel,P. Verhaegh,1
+L. Dimata,R. Bazoer,1
+M. Arnold,William,1
+R. Bazoer,K. Casteels,1
+M. Arnold,Y. Mall\u0131,1
+Y. Mall\u0131,P. Jaeckel,1
+Y. Mall\u0131,M. Arnold,1
+L. Dimata,William,1
+William,P. Verhaegh,1
+William,L. Dimata,1
+K. Casteels,L. Dimata,1
+P. Jaeckel,L. Dimata,1
+L. Dimata,F. Uduokhai,1
+R. Knoche,P. Verhaegh,1
+R. Knoche,L. Dimata,1
+P. Verhaegh,R. Bazoer,1
+P. Verhaegh,F. Uduokhai,1
+Y. Mall\u0131,R. Bazoer,1
+R. Bazoer,P. Verhaegh,1
+D. Didavi,L. Dimata,1

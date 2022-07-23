@@ -1,0 +1,17 @@
+Source,Target,Weight
+Rolando,G. Sertic,2
+M. Lopez,Luiz Gustavo,2
+T. Hubo\u010dan,R. Cabella,2
+H. Sakai,M. Lopez,2
+M. Lopez,F. Thauvin,1
+F. Thauvin,Rolando,1
+R. Cabella,T. Hubo\u010dan,1
+G. Sertic,F. Thauvin,1
+Luiz Gustavo,Rolando,1
+Rolando,H. Sakai,1
+F. Thauvin,Luiz Gustavo,1
+Luiz Gustavo,H. Sakai,1
+T. Hubo\u010dan,M. Lopez,1
+Luiz Gustavo,T. Hubo\u010dan,1
+R. Cabella,Rolando,1
+G. Sertic,Luiz Gustavo,1

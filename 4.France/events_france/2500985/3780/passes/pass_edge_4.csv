@@ -1,0 +1,53 @@
+Source,Target,Weight
+G. Imbula,Som\u00e1lia,3
+G. Imbula,I. Sylla,3
+M. Gradel,G. Imbula,3
+I. Sylla,M. Gradel,3
+I. Sylla,K. Amian,3
+K. Amian,I. Sylla,3
+A. Blin,F. Mubele,2
+I. Sylla,A. Blin,2
+I. Diop,A. Blin,2
+A. Blin,S. Yago,2
+S. Yago,F. Mubele,2
+Y. Sanogo,M. Gradel,2
+M. Gradel,I. Sylla,2
+F. Mubele,S. Yago,2
+G. Imbula,M. Gradel,2
+M. Gradel,Y. Sanogo,2
+F. Mubele,I. Sylla,2
+Som\u00e1lia,A. Blin,2
+S. Yago,I. Diop,2
+A. Blin,G. Imbula,2
+G. Imbula,F. Mubele,2
+M. Gradel,F. Mubele,2
+Som\u00e1lia,K. Amian,2
+F. Mubele,Som\u00e1lia,2
+F. Mubele,G. Imbula,2
+I. Diop,G. Imbula,1
+S. Yago,M. Gradel,1
+A. Blin,M. Gradel,1
+I. Sylla,I. Diop,1
+I. Diop,K. Amian,1
+M. Gradel,K. Amian,1
+K. Amian,A. Blin,1
+A. Lafont,I. Sylla,1
+Y. Sanogo,G. Imbula,1
+S. Yago,A. Blin,1
+A. Blin,I. Sylla,1
+A. Lafont,Y. Sanogo,1
+K. Amian,I. Diop,1
+M. Gradel,A. Lafont,1
+K. Amian,A. Lafont,1
+Y. Sanogo,A. Lafont,1
+Som\u00e1lia,F. Mubele,1
+I. Sylla,S. Yago,1
+S. Yago,G. Imbula,1
+K. Amian,S. Yago,1
+I. Sylla,G. Imbula,1
+K. Amian,M. Gradel,1
+Som\u00e1lia,M. Gradel,1
+I. Sylla,Som\u00e1lia,1
+G. Imbula,K. Amian,1
+A. Blin,Y. Sanogo,1
+A. Lafont,S. Yago,1

@@ -1,0 +1,19 @@
+Source,Target,Weight
+O. Baumann,B. H\u00fcbner,2
+P. Kade\u0159\u00e1bek,O. Baumann,2
+D. Geiger,K. Vogt,2
+O. Baumann,L. Rupp,1
+S. Zuber,D. Geiger,1
+B. H\u00fcbner,P. Kade\u0159\u00e1bek,1
+B. H\u00fcbner,O. Baumann,1
+P. Kade\u0159\u00e1bek,S. Zuber,1
+L. Rupp,P. Kade\u0159\u00e1bek,1
+A. Kramari\u0107,P. Kade\u0159\u00e1bek,1
+K. Vogt,A. Kramari\u0107,1
+P. Kade\u0159\u00e1bek,A. Kramari\u0107,1
+A. Kramari\u0107,D. Geiger,1
+L. Rupp,B. H\u00fcbner,1
+S. Wagner,P. Kade\u0159\u00e1bek,1
+D. Geiger,L. Rupp,1
+K. Vogt,P. Kade\u0159\u00e1bek,1
+B. H\u00fcbner,S. Wagner,1

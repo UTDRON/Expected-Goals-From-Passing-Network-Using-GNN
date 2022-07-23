@@ -1,0 +1,21 @@
+Source,Target,Weight
+R. Vercoutre,J. F\u00e9ret,2
+R. Rodelin,F. Guilbert,2
+R. Genevois,R. Rodelin,2
+J. F\u00e9ret,D. Avounou,1
+J. F\u00e9ret,R. Genevois,1
+F. Guilbert,A. Djiku,1
+A. Mbengue,I. Santini,1
+A. Djiku,R. Vercoutre,1
+R. Rodelin,D. Avounou,1
+D. Avounou,R. Rodelin,1
+D. Avounou,A. Mbengue,1
+A. Djiku,R. Genevois,1
+R. Rodelin,R. Vercoutre,1
+F. Guilbert,D. Avounou,1
+A. Mbengue,A. Djiku,1
+A. Mbengue,R. Rodelin,1
+R. Genevois,A. Mbengue,1
+D. Avounou,J. F\u00e9ret,1
+R. Rodelin,A. Mbengue,1
+J. F\u00e9ret,R. Rodelin,1

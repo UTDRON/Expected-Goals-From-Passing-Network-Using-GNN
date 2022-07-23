@@ -1,0 +1,37 @@
+Source,Target,Weight
+Nuno Da Costa,D. Li\u00e9nard,5
+D. Li\u00e9nard,E. Seka,4
+D. Li\u00e9nard,Nuno Da Costa,4
+E. Seka,Nuno Da Costa,4
+E. Seka,D. Li\u00e9nard,4
+Nuno Da Costa,S. Bahoken,3
+D. Foulquier,K. Lala,3
+K. Lala,D. Foulquier,3
+D. Li\u00e9nard,S. Bahoken,2
+D. Foulquier,J. Martin,2
+D. Li\u00e9nard,P. Martinez,2
+J. Martin,J. Aholou,2
+P. Martinez,E. Seka,2
+E. Seka,K. Lala,2
+S. Bahoken,D. Foulquier,1
+J. Aholou,S. Bahoken,1
+J. Aholou,D. Li\u00e9nard,1
+D. Li\u00e9nard,J. Aholou,1
+S. Bahoken,B. Kon\u00e9,1
+E. Seka,P. Martinez,1
+P. Martinez,D. Foulquier,1
+J. Aholou,K. Lala,1
+S. Bahoken,J. Martin,1
+S. Bahoken,D. Li\u00e9nard,1
+J. Martin,D. Foulquier,1
+S. Bahoken,J. Aholou,1
+D. Foulquier,D. Li\u00e9nard,1
+J. Martin,D. Li\u00e9nard,1
+K. Lala,P. Martinez,1
+J. Aholou,E. Seka,1
+P. Martinez,B. Kon\u00e9,1
+Nuno Da Costa,E. Seka,1
+B. Kon\u00e9,E. Seka,1
+B. Kon\u00e9,Nuno Da Costa,1
+K. Lala,J. Martin,1
+K. Lala,E. Seka,1

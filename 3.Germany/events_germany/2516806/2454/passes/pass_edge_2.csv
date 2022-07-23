@@ -1,0 +1,14 @@
+Source,Target,Weight
+C. Kramer,N. Elvedi,1
+Raffael,L. Stindl,1
+J. Vestergaard,N. Elvedi,1
+J. Vestergaard,F. Johnson,1
+F. Johnson,Raffael,1
+L. Stindl,T. Hazard,1
+T. Hazard,C. Kramer,1
+N. Elvedi,Y. Sommer,1
+Y. Sommer,T. Hazard,1
+N. Elvedi,T. Hazard,1
+Raffael,J. Vestergaard,1
+T. Hazard,N. Elvedi,1
+N. Elvedi,Raffael,1

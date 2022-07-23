@@ -1,0 +1,14 @@
+Source,Target,Weight
+A. Abdennour,Luiz Gustavo,2
+B. Kamara,A. Zambo Anguissa,1
+B. Kamara,L. Ocampos,1
+F. Thauvin,B. Kamara,1
+B. Kamara,V. Germain,1
+A. Zambo Anguissa,L. Ocampos,1
+A. Rami,A. Abdennour,1
+L. Ocampos,F. Thauvin,1
+F. Thauvin,A. Rami,1
+Luiz Gustavo,A. Abdennour,1
+V. Germain,B. Kamara,1
+Luiz Gustavo,A. Rami,1
+A. Rami,B. Kamara,1

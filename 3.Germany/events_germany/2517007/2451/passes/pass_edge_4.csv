@@ -1,0 +1,41 @@
+Source,Target,Weight
+M. Arnold,R. Knoche,5
+R. Knoche,P. Jaeckel,5
+P. Verhaegh,D. Didavi,3
+P. Jaeckel,R. Knoche,3
+P. Verhaegh,Y. Mall\u0131,2
+P. Jaeckel,M. Arnold,2
+R. Knoche,F. Uduokhai,2
+M. Arnold,William,2
+F. Uduokhai,M. Arnold,2
+R. Knoche,M. Arnold,2
+D. Didavi,P. Verhaegh,2
+Y. Mall\u0131,William,1
+R. Bazoer,P. Jaeckel,1
+William,P. Verhaegh,1
+William,D. Didavi,1
+R. Bazoer,William,1
+F. Uduokhai,R. Knoche,1
+William,P. Jaeckel,1
+R. Knoche,P. Verhaegh,1
+F. Uduokhai,L. Dimata,1
+William,M. Arnold,1
+R. Bazoer,P. Verhaegh,1
+M. Arnold,R. Bazoer,1
+P. Verhaegh,M. Arnold,1
+D. Didavi,M. Arnold,1
+William,R. Knoche,1
+D. Didavi,R. Bazoer,1
+D. Didavi,R. Knoche,1
+R. Knoche,D. Didavi,1
+M. Arnold,D. Didavi,1
+P. Jaeckel,D. Didavi,1
+L. Dimata,P. Verhaegh,1
+Y. Mall\u0131,R. Knoche,1
+M. Arnold,P. Jaeckel,1
+D. Didavi,F. Uduokhai,1
+R. Bazoer,M. Arnold,1
+R. Knoche,William,1
+P. Jaeckel,F. Uduokhai,1
+P. Jaeckel,R. Bazoer,1
+William,R. Bazoer,1

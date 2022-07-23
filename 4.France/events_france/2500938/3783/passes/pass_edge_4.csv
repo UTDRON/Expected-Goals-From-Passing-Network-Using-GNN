@@ -1,0 +1,64 @@
+Source,Target,Weight
+D. Avounou,D. Da Silva,5
+D. Da Silva,D. Avounou,4
+R. Genevois,J. F\u00e9ret,3
+J. F\u00e9ret,I. Diomand\u00e9,3
+J. F\u00e9ret,F. Guilbert,3
+R. Genevois,I. Diomand\u00e9,3
+S. Peeters,R. Rodelin,3
+F. Guilbert,J. F\u00e9ret,3
+I. Diomand\u00e9,F. Guilbert,3
+F. Guilbert,R. Genevois,3
+D. Da Silva,I. Diomand\u00e9,2
+D. Avounou,S. Peeters,2
+I. Diomand\u00e9,B. Sankoh,2
+D. Da Silva,J. F\u00e9ret,2
+J. F\u00e9ret,R. Genevois,2
+I. Diomand\u00e9,D. Da Silva,2
+J. F\u00e9ret,S. Peeters,2
+R. Rodelin,S. Peeters,2
+S. Peeters,J. F\u00e9ret,2
+E. Crivelli,D. Da Silva,2
+R. Rodelin,J. F\u00e9ret,2
+J. F\u00e9ret,R. Rodelin,2
+F. Guilbert,B. Sankoh,2
+D. Da Silva,F. Guilbert,2
+B. Sankoh,R. Genevois,2
+I. Diomand\u00e9,R. Genevois,2
+R. Vercoutre,E. Crivelli,2
+R. Genevois,D. Avounou,1
+R. Rodelin,B. Sankoh,1
+B. Sankoh,D. Avounou,1
+R. Vercoutre,R. Rodelin,1
+E. Crivelli,I. Diomand\u00e9,1
+B. Sankoh,I. Diomand\u00e9,1
+I. Diomand\u00e9,E. Crivelli,1
+B. Sankoh,R. Vercoutre,1
+E. Crivelli,S. Peeters,1
+D. Da Silva,B. Sankoh,1
+S. Peeters,I. Diomand\u00e9,1
+E. Crivelli,F. Guilbert,1
+R. Rodelin,D. Da Silva,1
+B. Sankoh,F. Guilbert,1
+F. Guilbert,E. Crivelli,1
+D. Da Silva,R. Genevois,1
+F. Guilbert,R. Vercoutre,1
+D. Avounou,J. F\u00e9ret,1
+S. Peeters,D. Avounou,1
+I. Diomand\u00e9,J. F\u00e9ret,1
+J. F\u00e9ret,R. Vercoutre,1
+B. Sankoh,S. Peeters,1
+D. Avounou,E. Crivelli,1
+R. Vercoutre,F. Guilbert,1
+R. Genevois,S. Peeters,1
+R. Rodelin,D. Avounou,1
+R. Genevois,B. Sankoh,1
+S. Peeters,D. Da Silva,1
+S. Peeters,F. Guilbert,1
+S. Peeters,R. Vercoutre,1
+F. Guilbert,R. Rodelin,1
+E. Crivelli,D. Avounou,1
+D. Da Silva,S. Peeters,1
+R. Genevois,D. Da Silva,1
+J. F\u00e9ret,E. Crivelli,1
+F. Guilbert,D. Da Silva,1

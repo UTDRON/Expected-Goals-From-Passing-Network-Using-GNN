@@ -1,0 +1,73 @@
+Source,Target,Weight
+K. Kampl,D. Demme,6
+M. Halstenberg,N. Ke\u00efta,5
+D. Demme,M. Halstenberg,5
+M. Halstenberg,Bruma,5
+D. Demme,K. Kampl,5
+S. Ilsanker,M. Halstenberg,4
+S. Ilsanker,I. Konat\u00e9,4
+M. Halstenberg,S. Ilsanker,4
+D. Demme,S. Ilsanker,3
+E. Forsberg,K. Kampl,3
+I. Konat\u00e9,S. Ilsanker,3
+M. Halstenberg,D. Demme,3
+I. Konat\u00e9,D. Demme,3
+N. Ke\u00efta,D. Demme,3
+Y. Poulsen,M. Halstenberg,3
+D. Demme,E. Forsberg,3
+S. Ilsanker,N. Ke\u00efta,2
+I. Konat\u00e9,M. Halstenberg,2
+D. Demme,I. Konat\u00e9,2
+Bruma,M. Halstenberg,2
+Y. Poulsen,S. Ilsanker,2
+E. Forsberg,I. Konat\u00e9,2
+S. Ilsanker,K. Kampl,2
+Y. Poulsen,E. Forsberg,2
+Bruma,E. Forsberg,2
+Bruma,D. Demme,2
+T. Werner,D. Demme,2
+T. Werner,M. Halstenberg,2
+K. Kampl,T. Werner,2
+N. Ke\u00efta,I. Konat\u00e9,2
+K. Kampl,E. Forsberg,2
+D. Demme,T. Werner,2
+M. Halstenberg,T. Werner,2
+S. Ilsanker,D. Demme,2
+E. Forsberg,S. Ilsanker,2
+D. Demme,Y. Poulsen,2
+N. Ke\u00efta,E. Forsberg,2
+I. Konat\u00e9,K. Kampl,2
+P. Gul\u00e1csi,I. Konat\u00e9,2
+N. Ke\u00efta,Bruma,2
+N. Ke\u00efta,Y. Poulsen,1
+I. Konat\u00e9,Y. Poulsen,1
+I. Konat\u00e9,E. Forsberg,1
+E. Forsberg,D. Demme,1
+S. Ilsanker,E. Forsberg,1
+M. Halstenberg,I. Konat\u00e9,1
+T. Werner,Bruma,1
+Y. Poulsen,K. Kampl,1
+N. Ke\u00efta,S. Ilsanker,1
+K. Kampl,N. Ke\u00efta,1
+I. Konat\u00e9,N. Ke\u00efta,1
+K. Kampl,I. Konat\u00e9,1
+Bruma,Y. Poulsen,1
+D. Demme,N. Ke\u00efta,1
+K. Kampl,Y. Poulsen,1
+E. Forsberg,P. Gul\u00e1csi,1
+P. Gul\u00e1csi,Y. Poulsen,1
+S. Ilsanker,P. Gul\u00e1csi,1
+N. Ke\u00efta,M. Halstenberg,1
+M. Halstenberg,P. Gul\u00e1csi,1
+I. Konat\u00e9,P. Gul\u00e1csi,1
+Y. Poulsen,D. Demme,1
+K. Kampl,S. Ilsanker,1
+N. Ke\u00efta,T. Werner,1
+E. Forsberg,Y. Poulsen,1
+T. Werner,N. Ke\u00efta,1
+E. Forsberg,N. Ke\u00efta,1
+T. Werner,K. Kampl,1
+E. Forsberg,M. Halstenberg,1
+Bruma,N. Ke\u00efta,1
+S. Ilsanker,Y. Poulsen,1
+P. Gul\u00e1csi,S. Ilsanker,1

@@ -1,0 +1,73 @@
+Source,Target,Weight
+M. Friedl,N. Moisander,7
+T. Gebre Selassie,M. Eggestein,6
+M. Veljkovic,P. Bargfrede,6
+P. Bargfrede,M. Veljkovic,5
+M. Eggestein,T. Gebre Selassie,5
+N. Moisander,M. Friedl,5
+T. Delaney,T. Gebre Selassie,4
+M. Kruse,M. Friedl,4
+N. Moisander,T. Delaney,4
+M. Veljkovic,N. Moisander,4
+T. Gebre Selassie,M. Veljkovic,4
+P. Bargfrede,T. Delaney,4
+M. Veljkovic,T. Gebre Selassie,4
+M. Eggestein,M. Veljkovic,3
+P. Bargfrede,N. Moisander,3
+N. Moisander,P. Bargfrede,3
+P. Bargfrede,M. Friedl,3
+T. Delaney,M. Kruse,3
+T. Gebre Selassie,P. Bargfrede,3
+Z. Junuzovi\u0107,M. Kruse,3
+P. Bargfrede,T. Gebre Selassie,3
+M. Friedl,T. Delaney,2
+Z. Junuzovi\u0107,P. Bargfrede,2
+M. Friedl,M. Kruse,2
+M. Friedl,P. Bargfrede,2
+N. Moisander,Z. Junuzovi\u0107,2
+T. Delaney,M. Friedl,2
+M. Eggestein,P. Bargfrede,2
+T. Delaney,P. Bargfrede,2
+M. Kruse,N. Moisander,2
+M. Veljkovic,T. Delaney,2
+N. Moisander,M. Veljkovic,2
+N. Moisander,M. Kruse,2
+M. Kruse,Z. Junuzovi\u0107,2
+Z. Junuzovi\u0107,T. Delaney,2
+J. Pavlenka,M. Veljkovic,2
+T. Gebre Selassie,Z. Junuzovi\u0107,2
+T. Delaney,N. Moisander,2
+M. Friedl,M. Eggestein,1
+M. Kruse,M. Veljkovic,1
+M. Veljkovic,M. Eggestein,1
+P. Bargfrede,M. Kruse,1
+M. Veljkovic,M. Friedl,1
+M. Kruse,J. Pavlenka,1
+P. Bargfrede,J. Pavlenka,1
+M. Veljkovic,I. Belfodil,1
+M. Veljkovic,J. Pavlenka,1
+J. Pavlenka,M. Eggestein,1
+M. Friedl,M. Veljkovic,1
+M. Kruse,M. Eggestein,1
+J. Pavlenka,N. Moisander,1
+T. Gebre Selassie,T. Delaney,1
+P. Bargfrede,Z. Junuzovi\u0107,1
+T. Delaney,J. Pavlenka,1
+I. Belfodil,T. Delaney,1
+T. Delaney,M. Eggestein,1
+N. Moisander,I. Belfodil,1
+Z. Junuzovi\u0107,N. Moisander,1
+I. Belfodil,T. Gebre Selassie,1
+M. Eggestein,N. Moisander,1
+I. Belfodil,M. Friedl,1
+T. Gebre Selassie,M. Kruse,1
+T. Gebre Selassie,I. Belfodil,1
+N. Moisander,T. Gebre Selassie,1
+M. Eggestein,M. Kruse,1
+M. Kruse,P. Bargfrede,1
+N. Moisander,M. Eggestein,1
+M. Eggestein,Z. Junuzovi\u0107,1
+M. Kruse,T. Delaney,1
+M. Friedl,Z. Junuzovi\u0107,1
+Z. Junuzovi\u0107,M. Veljkovic,1
+T. Delaney,M. Veljkovic,1

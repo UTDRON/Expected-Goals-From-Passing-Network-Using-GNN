@@ -1,0 +1,99 @@
+Source,Target,Weight
+K. Kampl,S. Ilsanker,12
+D. Kaiser,S. Ilsanker,11
+K. Kampl,D. Kaiser,11
+S. Ilsanker,D. Kaiser,11
+E. Forsberg,D. Demme,10
+D. Demme,W. Orban,10
+S. Ilsanker,D. Demme,9
+S. Ilsanker,P. Gul\u00e1csi,9
+D. Demme,K. Kampl,8
+D. Demme,I. Konat\u00e9,8
+D. Demme,S. Ilsanker,8
+I. Konat\u00e9,Bernardo,7
+D. Demme,E. Forsberg,7
+D. Kaiser,D. Demme,7
+W. Orban,K. Kampl,7
+D. Kaiser,K. Kampl,7
+I. Konat\u00e9,P. Gul\u00e1csi,6
+P. Gul\u00e1csi,I. Konat\u00e9,6
+E. Forsberg,W. Orban,6
+S. Ilsanker,W. Orban,6
+W. Orban,I. Konat\u00e9,6
+I. Konat\u00e9,W. Orban,6
+Y. Poulsen,D. Kaiser,6
+I. Konat\u00e9,S. Ilsanker,6
+Bernardo,I. Konat\u00e9,6
+Bernardo,D. Demme,6
+D. Kaiser,T. Werner,5
+Y. Poulsen,K. Kampl,5
+W. Orban,S. Ilsanker,5
+S. Ilsanker,I. Konat\u00e9,5
+Bernardo,E. Forsberg,5
+I. Konat\u00e9,E. Forsberg,5
+K. Kampl,E. Forsberg,5
+T. Werner,D. Demme,5
+P. Gul\u00e1csi,S. Ilsanker,5
+E. Forsberg,K. Kampl,5
+W. Orban,E. Forsberg,5
+Bernardo,T. Werner,4
+P. Gul\u00e1csi,Y. Poulsen,4
+W. Orban,D. Kaiser,4
+P. Gul\u00e1csi,D. Demme,4
+T. Werner,K. Kampl,4
+D. Demme,P. Gul\u00e1csi,4
+D. Kaiser,W. Orban,4
+W. Orban,P. Gul\u00e1csi,4
+W. Orban,Y. Poulsen,4
+I. Konat\u00e9,D. Demme,4
+S. Ilsanker,K. Kampl,4
+K. Kampl,W. Orban,4
+Y. Poulsen,W. Orban,4
+K. Kampl,Y. Poulsen,4
+K. Kampl,D. Demme,3
+I. Konat\u00e9,T. Werner,3
+E. Forsberg,S. Ilsanker,3
+S. Ilsanker,Y. Poulsen,3
+D. Demme,Bernardo,3
+W. Orban,Bernardo,3
+D. Kaiser,Y. Poulsen,3
+D. Demme,D. Kaiser,3
+T. Werner,I. Konat\u00e9,3
+T. Werner,D. Kaiser,3
+P. Gul\u00e1csi,Bernardo,2
+E. Forsberg,T. Werner,2
+T. Werner,E. Forsberg,2
+S. Ilsanker,Bernardo,2
+S. Ilsanker,A. Lookman,2
+D. Kaiser,E. Forsberg,2
+E. Forsberg,Bernardo,2
+P. Gul\u00e1csi,K. Kampl,2
+Y. Poulsen,E. Forsberg,2
+P. Gul\u00e1csi,D. Kaiser,2
+Y. Poulsen,Bernardo,2
+W. Orban,T. Werner,2
+K. Kampl,I. Konat\u00e9,2
+E. Forsberg,I. Konat\u00e9,2
+W. Orban,D. Demme,2
+E. Forsberg,D. Kaiser,2
+I. Konat\u00e9,Y. Poulsen,2
+K. Kampl,Bernardo,1
+E. Forsberg,Y. Poulsen,1
+S. Ilsanker,T. Werner,1
+Bernardo,W. Orban,1
+D. Demme,Y. Poulsen,1
+D. Kaiser,Bernardo,1
+Bernardo,K. Kampl,1
+D. Kaiser,P. Gul\u00e1csi,1
+Bernardo,S. Ilsanker,1
+D. Kaiser,I. Konat\u00e9,1
+Y. Poulsen,S. Ilsanker,1
+Y. Poulsen,P. Gul\u00e1csi,1
+T. Werner,P. Gul\u00e1csi,1
+A. Lookman,D. Demme,1
+T. Werner,Y. Poulsen,1
+Y. Poulsen,D. Demme,1
+K. Kampl,T. Werner,1
+T. Werner,Bernardo,1
+P. Gul\u00e1csi,W. Orban,1
+Y. Poulsen,T. Werner,1

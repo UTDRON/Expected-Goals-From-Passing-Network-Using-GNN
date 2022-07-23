@@ -1,0 +1,39 @@
+Source,Target,Weight
+K. Azamoum,C. Traor\u00e9,3
+C. Traor\u00e9,S. Grandsir,3
+E. Zelazny,J. Giraudon,2
+S. Grandsir,B. Nivet,2
+C. H\u00e9relle,E. Zelazny,2
+A. Confais,C. H\u00e9relle,2
+J. Giraudon,A. Confais,2
+B. Nivet,K. Azamoum,2
+C. H\u00e9relle,B. Nivet,1
+J. Giraudon,B. Nivet,1
+S. Grandsir,J. Giraudon,1
+K. Azamoum,E. Zelazny,1
+K. Azamoum,A. Confais,1
+K. Azamoum,J. Giraudon,1
+J. Giraudon,K. Azamoum,1
+Suk Hyun-Jun,K. Azamoum,1
+A. Confais,C. Ben Saada,1
+A. Confais,S. Grandsir,1
+A. Confais,K. Azamoum,1
+S. Grandsir,Suk Hyun-Jun,1
+B. Nivet,A. Confais,1
+C. Traor\u00e9,B. Nivet,1
+C. Ben Saada,S. Grandsir,1
+C. Traor\u00e9,C. H\u00e9relle,1
+Suk Hyun-Jun,A. Confais,1
+S. Grandsir,J. Cordoval,1
+B. Nivet,Suk Hyun-Jun,1
+J. Giraudon,S. Grandsir,1
+C. H\u00e9relle,Suk Hyun-Jun,1
+C. Ben Saada,E. Zelazny,1
+B. Nivet,J. Giraudon,1
+E. Zelazny,K. Azamoum,1
+J. Cordoval,C. Ben Saada,1
+Suk Hyun-Jun,B. Nivet,1
+E. Zelazny,C. Traor\u00e9,1
+S. Grandsir,C. H\u00e9relle,1
+B. Nivet,J. Cordoval,1
+J. Cordoval,Suk Hyun-Jun,1

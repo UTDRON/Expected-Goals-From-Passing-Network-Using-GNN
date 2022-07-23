@@ -1,0 +1,14 @@
+Source,Target,Weight
+R. Khedira,J. Gouweleeuw,2
+A. Finnbogason,P. Max,1
+R. Framberger,A. Finnbogason,1
+R. Khedira,J. Schmid,1
+J. Schmid,A. Finnbogason,1
+A. Finnbogason,J. Schmid,1
+Caiuby,A. Finnbogason,1
+J. Gouweleeuw,J. Schmid,1
+J. Schmid,Caiuby,1
+P. Max,Caiuby,1
+A. Finnbogason,R. Khedira,1
+Caiuby,R. Khedira,1
+J. Gouweleeuw,R. Framberger,1

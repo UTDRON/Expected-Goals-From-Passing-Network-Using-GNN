@@ -1,0 +1,58 @@
+Source,Target,Weight
+R. Cabella,R. Pierre-Gabriel,5
+R. Pierre-Gabriel,R. Cabella,4
+A. Diouss\u00e9,R. Cabella,3
+Hernani,R. Cabella,3
+L. Perrin,V. Pajot,3
+L. Perrin,A. Diouss\u00e9,3
+A. Diouss\u00e9,R. Pierre-Gabriel,3
+V. Pajot,L. Perrin,3
+L. Perrin,Hernani,2
+Hernani,R. Pierre-Gabriel,2
+S. Janko,Hernani,2
+R. Cabella,L. Perrin,2
+R. Pierre-Gabriel,J. Bamba,2
+K. Th\u00e9ophile Catherine,L. Perrin,2
+R. Cabella,Hernani,2
+R. Cabella,K. Monnet-Paquet,2
+Hernani,J. Bamba,2
+R. Pierre-Gabriel,K. Th\u00e9ophile Catherine,2
+Hernani,S. Janko,2
+V. Pajot,A. Diouss\u00e9,2
+S. Ruffier,L. Perrin,2
+L. Perrin,K. Th\u00e9ophile Catherine,1
+A. Diouss\u00e9,S. Janko,1
+L. Perrin,S. Janko,1
+S. Janko,J. Bamba,1
+L. Perrin,K. Monnet-Paquet,1
+R. Cabella,V. Pajot,1
+K. Monnet-Paquet,K. Th\u00e9ophile Catherine,1
+J. Bamba,K. Th\u00e9ophile Catherine,1
+A. Diouss\u00e9,L. Perrin,1
+J. Bamba,Hernani,1
+S. Janko,V. Pajot,1
+A. Diouss\u00e9,K. Monnet-Paquet,1
+Hernani,K. Th\u00e9ophile Catherine,1
+R. Pierre-Gabriel,V. Pajot,1
+R. Cabella,S. Ruffier,1
+J. Bamba,A. Diouss\u00e9,1
+S. Janko,L. Perrin,1
+V. Pajot,R. Cabella,1
+J. Bamba,S. Ruffier,1
+K. Th\u00e9ophile Catherine,S. Janko,1
+K. Th\u00e9ophile Catherine,R. Pierre-Gabriel,1
+K. Monnet-Paquet,V. Pajot,1
+K. Monnet-Paquet,A. Diouss\u00e9,1
+K. Monnet-Paquet,R. Cabella,1
+L. Perrin,S. Ruffier,1
+J. Bamba,S. Janko,1
+S. Janko,A. Diouss\u00e9,1
+K. Th\u00e9ophile Catherine,Hernani,1
+K. Th\u00e9ophile Catherine,R. Cabella,1
+R. Pierre-Gabriel,A. Diouss\u00e9,1
+Hernani,L. Perrin,1
+S. Ruffier,K. Th\u00e9ophile Catherine,1
+A. Diouss\u00e9,Hernani,1
+R. Pierre-Gabriel,Hernani,1
+Hernani,A. Diouss\u00e9,1
+V. Pajot,Hernani,1

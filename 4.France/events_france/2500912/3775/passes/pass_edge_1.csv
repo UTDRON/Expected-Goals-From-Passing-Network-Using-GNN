@@ -1,0 +1,52 @@
+Source,Target,Weight
+P. Burner,Dante,5
+Dante,M. Sarr,4
+Dante,P. Lees Melou,3
+M. Sarr,Dante,3
+Dante,P. Burner,3
+P. Lees Melou,Dante,3
+B. Srarfi,P. Burner,3
+J. Seri,A. Pl\u00e9a,3
+M. Sarr,N. Mendy,2
+M. Sarr,R. Coly,2
+J. Seri,N. Mendy,2
+A. Pl\u00e9a,R. Coly,2
+N. Mendy,J. Seri,2
+J. Seri,Dante,2
+N. Mendy,M. Sarr,2
+Dante,J. Seri,2
+R. Coly,M. Balotelli,2
+P. Burner,M. Sarr,2
+Dante,B. Srarfi,2
+A. Pl\u00e9a,Dante,2
+M. Sarr,A. Pl\u00e9a,2
+R. Coly,A. Pl\u00e9a,2
+P. Burner,B. Srarfi,2
+W. Ben\u00edtez,M. Sarr,2
+N. Mendy,R. Coly,2
+M. Sarr,W. Ben\u00edtez,1
+P. Lees Melou,J. Seri,1
+N. Mendy,W. Ben\u00edtez,1
+M. Sarr,J. Seri,1
+R. Coly,B. Srarfi,1
+P. Burner,N. Mendy,1
+P. Lees Melou,P. Burner,1
+M. Balotelli,P. Lees Melou,1
+A. Pl\u00e9a,N. Mendy,1
+J. Seri,P. Burner,1
+Dante,W. Ben\u00edtez,1
+N. Mendy,P. Lees Melou,1
+M. Balotelli,M. Sarr,1
+A. Pl\u00e9a,M. Sarr,1
+N. Mendy,Dante,1
+P. Lees Melou,N. Mendy,1
+P. Lees Melou,M. Sarr,1
+B. Srarfi,P. Lees Melou,1
+M. Sarr,M. Balotelli,1
+R. Coly,N. Mendy,1
+B. Srarfi,J. Seri,1
+J. Seri,P. Lees Melou,1
+Dante,N. Mendy,1
+A. Pl\u00e9a,J. Seri,1
+W. Ben\u00edtez,P. Burner,1
+M. Balotelli,J. Seri,1

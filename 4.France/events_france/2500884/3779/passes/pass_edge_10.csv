@@ -1,0 +1,35 @@
+Source,Target,Weight
+J. Grimm,J. Blayac,3
+D. Foulquier,J. Grimm,3
+K. Lala,J. Martin,2
+A. Gon\u00e7alves,D. Foulquier,2
+A. Gon\u00e7alves,J. Blayac,2
+J. Blayac,A. Gon\u00e7alves,2
+J. Blayac,K. Mangane,2
+D. Foulquier,A. Gon\u00e7alves,2
+K. Mangane,J. Blayac,1
+K. Lala,A. Oukidja,1
+J. Blayac,K. Lala,1
+K. Mangane,J. Grimm,1
+J. Blayac,D. Foulquier,1
+D. Foulquier,Nuno Da Costa,1
+Nuno Da Costa,K. Mangane,1
+Nuno Da Costa,K. Lala,1
+A. Gon\u00e7alves,J. Grimm,1
+J. Grimm,K. Mangane,1
+J. Blayac,J. Martin,1
+Nuno Da Costa,A. Gon\u00e7alves,1
+J. Grimm,D. Foulquier,1
+K. Mangane,D. Foulquier,1
+K. Lala,J. Blayac,1
+J. Grimm,B. Kon\u00e9,1
+J. Martin,Nuno Da Costa,1
+J. Martin,K. Lala,1
+K. Mangane,Nuno Da Costa,1
+J. Martin,J. Grimm,1
+J. Martin,D. Foulquier,1
+A. Oukidja,K. Lala,1
+A. Gon\u00e7alves,J. Martin,1
+D. Foulquier,A. Oukidja,1
+B. Kon\u00e9,D. Foulquier,1
+A. Oukidja,J. Blayac,1

@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Hack,J. Gbamin,2
+L. Balogun,D. Brosinski,2
+D. Brosinski,L. Balogun,2
+J. Gbamin,S. Serdar,2
+L. Balogun,A. Hack,2
+S. Serdar,P. De Blasis,1
+D. Brosinski,J. Gbamin,1
+D. Brosinski,L. \u00d6ztunali,1
+D. Latza,L. Balogun,1
+L. Balogun,J. Gbamin,1
+P. De Blasis,D. Latza,1
+L. \u00d6ztunali,L. Balogun,1
+S. Serdar,D. Latza,1
+J. Gbamin,A. Hack,1
+A. Hack,L. Balogun,1
+R. Adler,D. Brosinski,1
+D. Latza,A. Hack,1
+L. Balogun,R. Adler,1
+L. Balogun,S. Serdar,1
+J. Gbamin,D. Brosinski,1
+S. Serdar,L. Balogun,1

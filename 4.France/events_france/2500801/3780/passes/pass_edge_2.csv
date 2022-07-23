@@ -1,0 +1,32 @@
+Source,Target,Weight
+Som\u00e1lia,S. Yago,2
+A. Delort,Y. Sanogo,2
+M. Gradel,G. Imbula,2
+G. Imbula,K. Amian,1
+A. Blin,I. Diop,1
+Som\u00e1lia,A. Blin,1
+M. Gradel,Som\u00e1lia,1
+K. Amian,A. Delort,1
+K. Amian,I. Diop,1
+Y. Sanogo,A. Delort,1
+S. Yago,A. Delort,1
+Y. Sanogo,I. Diop,1
+G. Imbula,M. Gradel,1
+K. Amian,I. Sylla,1
+S. Yago,A. Blin,1
+I. Diop,A. Delort,1
+A. Delort,S. Yago,1
+A. Blin,Som\u00e1lia,1
+A. Delort,M. Gradel,1
+I. Sylla,K. Amian,1
+G. Imbula,S. Yago,1
+Y. Sanogo,Som\u00e1lia,1
+S. Yago,Som\u00e1lia,1
+I. Diop,G. Imbula,1
+I. Sylla,M. Gradel,1
+Som\u00e1lia,K. Amian,1
+M. Gradel,I. Sylla,1
+I. Diop,Y. Sanogo,1
+K. Amian,Y. Sanogo,1
+S. Yago,Y. Sanogo,1
+Y. Sanogo,M. Gradel,1

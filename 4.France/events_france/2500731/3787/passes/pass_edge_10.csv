@@ -1,0 +1,42 @@
+Source,Target,Weight
+E. Skhiri,N. Mukiele,3
+N. Mukiele,E. Skhiri,2
+N. Mukiele,P. Lasne,2
+Hilton,J. Roussillon,2
+C. Ninga,N. Mukiele,2
+Pedro Mendes,N. Mukiele,2
+P. Lasne,K. Dolly,1
+K. Dolly,Hilton,1
+N. Mukiele,J. Roussillon,1
+G. Sio,J. Roussillon,1
+J. Roussillon,G. Sio,1
+E. Skhiri,Hilton,1
+J. Roussillon,P. Lasne,1
+P. Lasne,E. Skhiri,1
+K. Dolly,N. Mukiele,1
+P. Lasne,N. Mukiele,1
+Hilton,P. Lasne,1
+N. Mukiele,K. Dolly,1
+K. Dolly,G. Sio,1
+Hilton,E. Skhiri,1
+S. Camara,E. Skhiri,1
+Hilton,C. Ninga,1
+J. Roussillon,K. Dolly,1
+G. Sio,Hilton,1
+S. Camara,N. Mukiele,1
+S. Camara,B. Lecomte,1
+E. Skhiri,J. Roussillon,1
+G. Sio,Pedro Mendes,1
+E. Skhiri,S. Camara,1
+N. Mukiele,S. Camara,1
+N. Mukiele,Pedro Mendes,1
+Pedro Mendes,E. Skhiri,1
+P. Lasne,Pedro Mendes,1
+Hilton,Pedro Mendes,1
+J. Roussillon,E. Skhiri,1
+Pedro Mendes,S. Camara,1
+C. Ninga,Hilton,1
+N. Mukiele,G. Sio,1
+N. Mukiele,C. Ninga,1
+E. Skhiri,C. Ninga,1
+B. Lecomte,Hilton,1

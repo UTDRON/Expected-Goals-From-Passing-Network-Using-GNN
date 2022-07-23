@@ -1,0 +1,41 @@
+Source,Target,Weight
+Som\u00e1lia,K. Amian,3
+G. Imbula,C. Jullien,2
+Y. Cahuzac,G. Imbula,2
+M. Gradel,Som\u00e1lia,2
+I. Sylla,F. Moubandje,2
+M. Gradel,G. Imbula,2
+I. Sylla,G. Imbula,2
+K. Amian,Som\u00e1lia,2
+F. Moubandje,I. Sylla,2
+I. Sylla,M. Gradel,2
+G. Imbula,Y. Cahuzac,2
+O. Toivonen,Som\u00e1lia,2
+Y. Cahuzac,M. Gradel,1
+Som\u00e1lia,A. Lafont,1
+A. Lafont,I. Sylla,1
+C. Jullien,I. Sylla,1
+Y. Cahuzac,I. Sangar\u00e9,1
+M. Gradel,I. Sylla,1
+A. Lafont,O. Toivonen,1
+Y. Cahuzac,K. Amian,1
+C. Jullien,M. Gradel,1
+O. Toivonen,I. Sylla,1
+Som\u00e1lia,I. Sangar\u00e9,1
+K. Amian,C. Jullien,1
+I. Sangar\u00e9,Som\u00e1lia,1
+C. Jullien,K. Amian,1
+G. Imbula,Som\u00e1lia,1
+Som\u00e1lia,Y. Cahuzac,1
+I. Sangar\u00e9,C. Jullien,1
+C. Jullien,O. Toivonen,1
+K. Amian,A. Lafont,1
+K. Amian,M. Gradel,1
+Som\u00e1lia,F. Moubandje,1
+Y. Cahuzac,C. Jullien,1
+G. Imbula,I. Sylla,1
+G. Imbula,F. Moubandje,1
+F. Moubandje,G. Imbula,1
+I. Sylla,O. Toivonen,1
+F. Moubandje,Y. Cahuzac,1
+C. Jullien,Y. Cahuzac,1

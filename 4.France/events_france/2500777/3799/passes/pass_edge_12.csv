@@ -1,0 +1,93 @@
+Source,Target,Weight
+T. Mangani,R. Thomas,9
+R. Thomas,T. Mangani,8
+T. Mangani,Y. Andreu,7
+T. Mangani,V. Manceau,6
+V. Manceau,T. Mangani,6
+S. Ciss,Y. Andreu,5
+Y. Andreu,K. Toko Ekambi,5
+I. Traor\u00e9,V. Manceau,5
+V. Manceau,I. Traor\u00e9,5
+T. Mangani,S. Ciss,4
+E. Crivelli,T. Mangani,4
+F. Tait,V. Manceau,4
+Y. Andreu,S. Ciss,4
+F. Tait,T. Mangani,4
+Y. Andreu,R. Thomas,4
+V. Manceau,E. Crivelli,3
+A. Fulgini,R. Thomas,3
+M. Michel,R. Thomas,3
+I. Traor\u00e9,F. Tait,3
+R. Thomas,A. Fulgini,3
+S. Ciss,T. Mangani,3
+V. Manceau,F. Tait,3
+T. Mangani,E. Crivelli,3
+R. Thomas,V. Manceau,3
+R. Thomas,Y. Andreu,3
+A. Fulgini,T. Mangani,3
+Y. Andreu,T. Mangani,3
+V. Manceau,M. Michel,3
+I. Traor\u00e9,R. Thomas,3
+R. Thomas,M. Michel,2
+T. Mangani,F. Tait,2
+I. Traor\u00e9,T. Mangani,2
+T. Mangani,I. Traor\u00e9,2
+E. Crivelli,I. Traor\u00e9,2
+M. Tahrat,I. Traor\u00e9,2
+I. Traor\u00e9,A. Fulgini,2
+K. Toko Ekambi,I. Traor\u00e9,2
+I. Traor\u00e9,S. Ciss,2
+A. Fulgini,F. Tait,2
+F. Tait,M. Tahrat,2
+E. Crivelli,A. Fulgini,2
+M. Tahrat,A. Fulgini,2
+R. Thomas,E. Crivelli,2
+F. Tait,I. Traor\u00e9,2
+Y. Andreu,I. Traor\u00e9,2
+R. Thomas,F. Tait,2
+V. Manceau,Y. Andreu,2
+E. Crivelli,V. Manceau,2
+S. Ciss,R. Thomas,2
+T. Mangani,K. Toko Ekambi,2
+A. Fulgini,M. Tahrat,2
+M. Michel,E. Crivelli,2
+M. Tahrat,T. Mangani,2
+I. Traor\u00e9,M. Michel,1
+K. Toko Ekambi,E. Crivelli,1
+F. Tait,E. Crivelli,1
+V. Manceau,M. Tahrat,1
+E. Crivelli,K. Toko Ekambi,1
+A. Fulgini,E. Crivelli,1
+M. Tahrat,R. Thomas,1
+Y. Andreu,F. Tait,1
+R. Thomas,S. Ciss,1
+R. Thomas,M. Tahrat,1
+E. Crivelli,M. Tahrat,1
+M. Tahrat,V. Manceau,1
+R. Thomas,I. Traor\u00e9,1
+K. Toko Ekambi,A. Fulgini,1
+V. Manceau,G. Sunu,1
+Y. Andreu,V. Manceau,1
+E. Crivelli,Y. Andreu,1
+A. Fulgini,Y. Andreu,1
+I. Traor\u00e9,Y. Andreu,1
+Y. Andreu,A. Fulgini,1
+T. Mangani,A. Fulgini,1
+G. Sunu,I. Traor\u00e9,1
+I. Traor\u00e9,E. Crivelli,1
+Y. Andreu,G. Sunu,1
+S. Ciss,F. Tait,1
+F. Tait,A. Fulgini,1
+S. Ciss,V. Manceau,1
+K. Toko Ekambi,T. Mangani,1
+K. Toko Ekambi,S. Ciss,1
+F. Tait,R. Thomas,1
+M. Michel,I. Traor\u00e9,1
+Y. Andreu,M. Michel,1
+M. Michel,Y. Andreu,1
+F. Tait,Y. Andreu,1
+A. Fulgini,V. Manceau,1
+K. Toko Ekambi,Y. Andreu,1
+E. Crivelli,R. Thomas,1
+G. Sunu,F. Tait,1
+K. Toko Ekambi,F. Tait,1

@@ -1,0 +1,33 @@
+Source,Target,Weight
+A. Souquet,A. Saint-Maximin,2
+C. Jallet,P. Lees Melou,2
+W. Sneijder,Marlon,2
+C. Jallet,A. Pl\u00e9a,2
+P. Lees Melou,V. Koziello,2
+N. Mendy,C. Jallet,2
+Y. Cardinale,C. Jallet,2
+V. Koziello,A. Souquet,2
+N. Mendy,P. Lees Melou,1
+Marlon,A. Pl\u00e9a,1
+Marlon,N. Mendy,1
+A. Souquet,V. Koziello,1
+Dante,W. Sneijder,1
+N. Mendy,A. Souquet,1
+A. Saint-Maximin,A. Pl\u00e9a,1
+A. Saint-Maximin,A. Souquet,1
+A. Souquet,Dante,1
+Dante,N. Mendy,1
+A. Saint-Maximin,Marlon,1
+W. Sneijder,N. Mendy,1
+P. Lees Melou,N. Mendy,1
+V. Koziello,A. Saint-Maximin,1
+A. Saint-Maximin,W. Sneijder,1
+Marlon,A. Souquet,1
+Marlon,Y. Cardinale,1
+A. Pl\u00e9a,A. Saint-Maximin,1
+A. Saint-Maximin,Y. Cardinale,1
+A. Pl\u00e9a,P. Lees Melou,1
+A. Pl\u00e9a,Marlon,1
+P. Lees Melou,W. Sneijder,1
+A. Souquet,Marlon,1
+Marlon,A. Saint-Maximin,1

@@ -1,0 +1,27 @@
+Source,Target,Weight
+A. Hunou,M. Zeffane,4
+J. Gelin,A. Hunou,3
+M. Zeffane,I. Sarr,2
+B. Andr\u00e9,J. Gelin,1
+H. Traor\u00e9,Mexer,1
+M. Zeffane,J. Gnagnon,1
+B. Andr\u00e9,M. Zeffane,1
+B. Andr\u00e9,H. Traor\u00e9,1
+Y. Gourcuff,Mexer,1
+Mexer,M. Zeffane,1
+J. Gnagnon,B. Andr\u00e9,1
+Y. Gourcuff,M. Zeffane,1
+B. Bourigeaud,Y. Gourcuff,1
+Y. Gourcuff,B. Bourigeaud,1
+M. Zeffane,J. Gelin,1
+M. Zeffane,B. Andr\u00e9,1
+A. Hunou,B. Andr\u00e9,1
+M. Zeffane,B. Bourigeaud,1
+I. Sarr,Y. Gourcuff,1
+M. Zeffane,H. Traor\u00e9,1
+B. Andr\u00e9,A. Hunou,1
+J. Gnagnon,H. Traor\u00e9,1
+B. Bourigeaud,J. Gelin,1
+Mexer,A. Hunou,1
+H. Traor\u00e9,J. Gnagnon,1
+H. Traor\u00e9,Y. Gourcuff,1

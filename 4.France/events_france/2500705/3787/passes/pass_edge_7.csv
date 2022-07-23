@@ -1,0 +1,22 @@
+Source,Target,Weight
+R. Aguilar,J. Roussillon,3
+J. Roussillon,R. Aguilar,2
+J. Roussillon,P. Lasne,2
+E. Skhiri,D. Congr\u00e9,1
+J. Roussillon,I. Mbenza,1
+P. Lasne,R. Aguilar,1
+N. Mukiele,S. Sess\u00e8gnon,1
+P. Lasne,D. Congr\u00e9,1
+R. Aguilar,P. Lasne,1
+I. Mbenza,D. Congr\u00e9,1
+D. Congr\u00e9,R. Aguilar,1
+D. Congr\u00e9,P. Lasne,1
+P. Lasne,S. Sess\u00e8gnon,1
+S. Sess\u00e8gnon,N. Mukiele,1
+E. Skhiri,N. Mukiele,1
+P. Lasne,E. Skhiri,1
+N. Mukiele,E. Skhiri,1
+N. Mukiele,P. Lasne,1
+S. Sess\u00e8gnon,E. Skhiri,1
+E. Skhiri,J. Roussillon,1
+P. Lasne,J. Roussillon,1

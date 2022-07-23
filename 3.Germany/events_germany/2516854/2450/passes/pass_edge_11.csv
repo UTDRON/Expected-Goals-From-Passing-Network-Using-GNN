@@ -1,0 +1,36 @@
+Source,Target,Weight
+J. Arp,S. Schipplock,3
+D. Diekmeier,S. Schipplock,3
+S. Schipplock,D. Diekmeier,2
+K. Papadopoulos,M. Mavraj,2
+M. Mavraj,G. Sakai,2
+M. Mavraj,K. Papadopoulos,2
+M. Mavraj,J. Arp,2
+S. Schipplock,M. Mavraj,2
+J. Arp,M. Mavraj,2
+S. Schipplock,J. Arp,2
+D. Diekmeier,F. Kosti\u0107,1
+F. Kosti\u0107,R. van Drongelen,1
+B. Wood,G. Sakai,1
+R. van Drongelen,K. Papadopoulos,1
+F. Kosti\u0107,S. Schipplock,1
+K. Papadopoulos,D. Diekmeier,1
+K. Papadopoulos,Douglas Santos,1
+G. Sakai,K. Papadopoulos,1
+S. Schipplock,G. Sakai,1
+R. van Drongelen,M. Mavraj,1
+D. Diekmeier,J. Arp,1
+M. Mavraj,R. van Drongelen,1
+G. Sakai,G. Jung,1
+J. Arp,Douglas Santos,1
+G. Sakai,F. Kosti\u0107,1
+G. Jung,F. Kosti\u0107,1
+B. Wood,M. Mavraj,1
+F. Kosti\u0107,D. Diekmeier,1
+Douglas Santos,D. Diekmeier,1
+G. Sakai,J. Arp,1
+M. Mavraj,D. Diekmeier,1
+D. Diekmeier,C. Mathenia,1
+Douglas Santos,B. Wood,1
+C. Mathenia,S. Schipplock,1
+K. Papadopoulos,B. Wood,1

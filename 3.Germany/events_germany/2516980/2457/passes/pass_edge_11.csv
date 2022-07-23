@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Maier,V. Darida,2
+A. Maier,D. Selke,2
+N. Stark,A. Maier,1
+M. Weiser,A. Maier,1
+V. Darida,N. Stark,1
+R. Jarstein,S. Kalou,1
+V. Darida,A. Maier,1
+F. Lustenberger,N. Stark,1
+M. Plattenhardt,F. Lustenberger,1
+S. Kalou,V. Darida,1
+F. Lustenberger,A. Maier,1
+N. Stark,F. Lustenberger,1
+D. Selke,N. Stark,1
+F. Lustenberger,M. Plattenhardt,1
+A. Maier,F. Lustenberger,1
+D. Selke,K. Rekik,1
+S. Kalou,A. Maier,1
+M. Plattenhardt,S. Kalou,1
+N. Stark,M. Weiser,1
+K. Rekik,R. Jarstein,1
+S. Kalou,M. Plattenhardt,1

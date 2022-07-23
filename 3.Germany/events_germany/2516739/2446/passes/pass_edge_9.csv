@@ -1,0 +1,26 @@
+Source,Target,Weight
+A. Mehmedi,K. Bellarabi,3
+A. Dragovi\u0107,A. Mehmedi,2
+A. Mehmedi,C. Ar\u00e1nguiz,2
+C. Ar\u00e1nguiz,A. Dragovi\u0107,2
+K. Bellarabi,C. Ar\u00e1nguiz,2
+D. Kohr,C. Ar\u00e1nguiz,1
+A. Dragovi\u0107,B. Leno,1
+K. Volland,A. Mehmedi,1
+C. Ar\u00e1nguiz,K. Bellarabi,1
+C. Ar\u00e1nguiz,A. Mehmedi,1
+B. Leno,A. Dragovi\u0107,1
+J. Brandt,A. Mehmedi,1
+K. Bellarabi,J. Tah,1
+K. Bellarabi,K. Volland,1
+A. Mehmedi,A. Dragovi\u0107,1
+B. Leno,D. Kohr,1
+J. Tah,J. Brandt,1
+A. Dragovi\u0107,K. Bellarabi,1
+B. Henrichs,B. Leno,1
+K. Volland,K. Bellarabi,1
+Wendell,B. Henrichs,1
+J. Brandt,C. Ar\u00e1nguiz,1
+C. Ar\u00e1nguiz,K. Volland,1
+K. Bellarabi,A. Mehmedi,1
+C. Ar\u00e1nguiz,J. Brandt,1

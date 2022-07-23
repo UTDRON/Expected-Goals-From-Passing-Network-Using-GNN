@@ -1,0 +1,9 @@
+Source,Target,Weight
+F. Balmont,F. Sammaritano,2
+B. Reynet,B. Jeannot,1
+B. Jeannot,B. Reynet,1
+F. Sammaritano,F. Balmont,1
+B. Jeannot,F. Balmont,1
+F. Sammaritano,B. Jeannot,1
+B. Jeannot,F. Sammaritano,1
+F. Sammaritano,Xeka,1

@@ -1,0 +1,11 @@
+Source,Target,Weight
+T. Delaney,P. Bargfrede,1
+F. Kainz,T. Delaney,1
+R. Bauer,M. Eggestein,1
+F. Kainz,R. Bauer,1
+P. Bargfrede,F. Kainz,1
+M. Eggestein,F. Kainz,1
+T. Gebre Selassie,T. Delaney,1
+N. Moisander,T. Gebre Selassie,1
+M. Eggestein,N. Moisander,1
+F. Kainz,M. Eggestein,1

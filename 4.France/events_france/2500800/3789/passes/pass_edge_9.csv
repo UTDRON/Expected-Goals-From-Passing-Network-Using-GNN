@@ -1,0 +1,62 @@
+Source,Target,Weight
+B. Zungu,G. Kakuta,5
+Danilo Avelar,B. Dibassy,5
+B. Dibassy,Danilo Avelar,4
+Danilo Avelar,G. N'Gosso,4
+G. Kakuta,O. El Hajjam,4
+G. N'Gosso,B. Zungu,3
+O. El Hajjam,G. Kakuta,3
+G. N'Gosso,O. El Hajjam,3
+H. Manzala,Danilo Avelar,3
+O. El Hajjam,B. Zungu,3
+O. El Hajjam,K. Ad\u00e9non,3
+B. Dibassy,B. Zungu,2
+M. Konat\u00e9,B. Zungu,2
+B. Zungu,Danilo Avelar,2
+B. Dibassy,K. Ad\u00e9non,2
+G. Kakuta,B. Zungu,2
+G. Kakuta,M. Konat\u00e9,2
+R. Gurtner,M. Konat\u00e9,2
+Danilo Avelar,H. Manzala,2
+G. N'Gosso,Danilo Avelar,2
+K. Ad\u00e9non,O. El Hajjam,2
+S. Gakp\u00e9,O. El Hajjam,2
+B. Dibassy,R. Gurtner,2
+K. Ad\u00e9non,B. Dibassy,2
+O. El Hajjam,S. Gakp\u00e9,2
+K. Ad\u00e9non,B. Zungu,2
+B. Dibassy,G. N'Gosso,2
+B. Zungu,H. Manzala,2
+G. Kakuta,B. Dibassy,2
+G. N'Gosso,B. Dibassy,2
+R. Gurtner,B. Dibassy,2
+O. El Hajjam,G. N'Gosso,1
+S. Gakp\u00e9,K. Ad\u00e9non,1
+K. Ad\u00e9non,R. Gurtner,1
+M. Konat\u00e9,S. Gakp\u00e9,1
+H. Manzala,G. N'Gosso,1
+S. Gakp\u00e9,B. Dibassy,1
+S. Gakp\u00e9,G. Kakuta,1
+B. Dibassy,S. Gakp\u00e9,1
+M. Konat\u00e9,H. Manzala,1
+B. Zungu,B. Dibassy,1
+B. Zungu,R. Gurtner,1
+G. Kakuta,S. Gakp\u00e9,1
+B. Dibassy,O. El Hajjam,1
+Danilo Avelar,M. Konat\u00e9,1
+B. Dibassy,G. Kakuta,1
+H. Manzala,B. Dibassy,1
+K. Ad\u00e9non,S. Gakp\u00e9,1
+B. Dibassy,H. Manzala,1
+G. N'Gosso,K. Ad\u00e9non,1
+B. Zungu,S. Gakp\u00e9,1
+R. Gurtner,Danilo Avelar,1
+H. Manzala,B. Zungu,1
+B. Zungu,G. N'Gosso,1
+S. Gakp\u00e9,Danilo Avelar,1
+M. Konat\u00e9,G. N'Gosso,1
+B. Zungu,K. Ad\u00e9non,1
+O. El Hajjam,M. Konat\u00e9,1
+Danilo Avelar,R. Gurtner,1
+M. Konat\u00e9,G. Kakuta,1
+B. Zungu,O. El Hajjam,1

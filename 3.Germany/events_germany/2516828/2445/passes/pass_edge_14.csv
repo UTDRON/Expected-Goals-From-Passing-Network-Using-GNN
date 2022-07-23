@@ -1,0 +1,45 @@
+Source,Target,Weight
+B. Pavard,T. Baumgartl,3
+B. \u00d6zcan,E. Ins\u00faa,3
+E. Ins\u00faa,T. Baumgartl,3
+T. Baumgartl,D. Burnic,3
+T. Baumgartl,B. Pavard,3
+A. Beck,T. Baumgartl,2
+B. Pavard,S. Terodde,2
+S. Terodde,B. \u00d6zcan,2
+T. Baumgartl,R. Zieler,2
+S. Ascac\u00edbar,B. Pavard,2
+S. Terodde,T. Asano,1
+B. Pavard,S. Ascac\u00edbar,1
+E. Ins\u00faa,B. Pavard,1
+B. \u00d6zcan,S. Ascac\u00edbar,1
+S. Ascac\u00edbar,B. \u00d6zcan,1
+T. Asano,D. Burnic,1
+T. Baumgartl,Ailton,1
+B. \u00d6zcan,S. Terodde,1
+R. Zieler,S. Ascac\u00edbar,1
+A. Beck,Ailton,1
+S. Terodde,E. Ins\u00faa,1
+S. Ascac\u00edbar,A. Beck,1
+R. Zieler,B. \u00d6zcan,1
+Ailton,E. Ins\u00faa,1
+E. Ins\u00faa,A. Beck,1
+Ailton,B. \u00d6zcan,1
+T. Baumgartl,S. Ascac\u00edbar,1
+T. Baumgartl,S. Terodde,1
+B. Pavard,R. Zieler,1
+Ailton,R. Zieler,1
+R. Zieler,T. Baumgartl,1
+D. Burnic,T. Baumgartl,1
+E. Ins\u00faa,Ailton,1
+D. Burnic,R. Zieler,1
+B. \u00d6zcan,A. Beck,1
+B. Pavard,B. \u00d6zcan,1
+S. Ascac\u00edbar,E. Ins\u00faa,1
+Ailton,D. Burnic,1
+R. Zieler,B. Pavard,1
+A. Beck,S. Ascac\u00edbar,1
+B. \u00d6zcan,Ailton,1
+D. Burnic,B. Pavard,1
+D. Burnic,B. \u00d6zcan,1
+R. Zieler,A. Beck,1

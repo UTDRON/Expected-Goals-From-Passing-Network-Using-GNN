@@ -1,0 +1,21 @@
+Source,Target,Weight
+A. Abdennour,H. Sakai,3
+H. Sakai,C. N'Jie,3
+H. Sakai,Luiz Gustavo,2
+C. N'Jie,A. Zambo Anguissa,2
+B. Sarr,A. Abdennour,2
+C. N'Jie,A. Abdennour,1
+A. Abdennour,A. Rami,1
+B. Sarr,V. Germain,1
+A. Zambo Anguissa,D. Payet,1
+A. Rami,B. Sarr,1
+C. N'Jie,H. Sakai,1
+D. Payet,A. Abdennour,1
+Luiz Gustavo,B. Sarr,1
+A. Rami,H. Sakai,1
+Luiz Gustavo,A. Rami,1
+V. Germain,B. Sarr,1
+Luiz Gustavo,C. N'Jie,1
+A. Zambo Anguissa,Luiz Gustavo,1
+A. Zambo Anguissa,C. N'Jie,1
+C. N'Jie,D. Payet,1

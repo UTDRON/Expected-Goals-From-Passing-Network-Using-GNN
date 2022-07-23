@@ -1,0 +1,40 @@
+Source,Target,Weight
+M. Le Marchand,A. Tameze,3
+A. Tameze,P. Lees Melou,3
+N. Mendy,A. Tameze,3
+A. Souquet,Dante,2
+Y. Cardinale,N. Mendy,2
+A. Tameze,A. Pl\u00e9a,2
+A. Tameze,M. Le Marchand,2
+A. Pl\u00e9a,N. Mendy,2
+A. Tameze,C. Jallet,2
+Dante,M. Le Marchand,2
+P. Lees Melou,Dante,2
+A. Souquet,Y. Cardinale,1
+A. Souquet,N. Mendy,1
+P. Lees Melou,A. Saint-Maximin,1
+A. Pl\u00e9a,Dante,1
+Dante,N. Mendy,1
+P. Lees Melou,A. Souquet,1
+A. Saint-Maximin,P. Lees Melou,1
+A. Saint-Maximin,N. Mendy,1
+N. Mendy,A. Pl\u00e9a,1
+M. Le Marchand,Dante,1
+N. Mendy,P. Lees Melou,1
+P. Lees Melou,A. Tameze,1
+N. Mendy,C. Jallet,1
+C. Jallet,M. Balotelli,1
+N. Mendy,A. Souquet,1
+C. Jallet,P. Lees Melou,1
+A. Saint-Maximin,A. Souquet,1
+M. Balotelli,A. Saint-Maximin,1
+P. Lees Melou,C. Jallet,1
+Dante,A. Souquet,1
+A. Souquet,A. Tameze,1
+N. Mendy,M. Le Marchand,1
+M. Le Marchand,A. Souquet,1
+Dante,Y. Cardinale,1
+A. Souquet,A. Pl\u00e9a,1
+C. Jallet,N. Mendy,1
+C. Jallet,A. Tameze,1
+A. Pl\u00e9a,A. Saint-Maximin,1

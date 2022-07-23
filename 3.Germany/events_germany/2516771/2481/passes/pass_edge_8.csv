@@ -1,0 +1,58 @@
+Source,Target,Weight
+Caiuby,K. Stafylidis,3
+D. Opare,A. Finnbogason,3
+Ja-Cheol Koo,D. Opare,3
+A. Finnbogason,Ja-Cheol Koo,3
+Ja-Cheol Koo,Caiuby,3
+D. Opare,Caiuby,2
+Caiuby,P. Max,2
+P. Max,D. Baier,2
+A. Finnbogason,D. Opare,2
+A. Finnbogason,M. Heller,2
+D. Baier,P. Max,2
+Caiuby,R. Khedira,2
+M. Heller,D. Baier,2
+D. Baier,Caiuby,2
+K. Stafylidis,Caiuby,2
+J. Gouweleeuw,M. Heller,1
+P. Max,A. Finnbogason,1
+P. Max,Caiuby,1
+D. Baier,J. Gouweleeuw,1
+M. Heller,Ja-Cheol Koo,1
+M. Heller,M. Hinteregger,1
+M. Heller,A. Finnbogason,1
+M. Hitz,Caiuby,1
+S. C\u00f3rdova,D. Baier,1
+R. Khedira,D. Opare,1
+M. Hinteregger,R. Khedira,1
+D. Baier,M. Hinteregger,1
+M. Hinteregger,Ja-Cheol Koo,1
+M. Hitz,Ja-Cheol Koo,1
+K. Stafylidis,A. Finnbogason,1
+D. Opare,Ja-Cheol Koo,1
+K. Stafylidis,M. Heller,1
+M. Hitz,A. Finnbogason,1
+Ja-Cheol Koo,R. Khedira,1
+R. Khedira,M. Hitz,1
+R. Khedira,D. Baier,1
+M. Hinteregger,J. Gouweleeuw,1
+D. Opare,M. Heller,1
+M. Hinteregger,D. Opare,1
+K. Stafylidis,M. Hinteregger,1
+S. C\u00f3rdova,K. Stafylidis,1
+M. Hinteregger,K. Stafylidis,1
+M. Hitz,S. C\u00f3rdova,1
+D. Baier,M. Heller,1
+A. Finnbogason,M. Hinteregger,1
+M. Heller,M. Hitz,1
+Caiuby,M. Hitz,1
+Caiuby,M. Heller,1
+Ja-Cheol Koo,M. Hinteregger,1
+Caiuby,M. Hinteregger,1
+Caiuby,A. Finnbogason,1
+J. Gouweleeuw,D. Baier,1
+M. Heller,K. Stafylidis,1
+D. Opare,J. Gouweleeuw,1
+M. Hinteregger,M. Hitz,1
+R. Khedira,Ja-Cheol Koo,1
+J. Gouweleeuw,S. C\u00f3rdova,1

@@ -1,0 +1,42 @@
+Source,Target,Weight
+I. Bebou,S. Maier,2
+M. Bakalorz,M. Harnik,2
+S. Maier,M. Bakalorz,2
+P. Tschauner,N. F\u00fcllkrug,2
+M. Bakalorz,W. Anton,2
+M. Ostrzolek,N. F\u00fcllkrug,2
+S. San\u00e9,M. Bakalorz,2
+S. Maier,W. Anton,2
+M. Bakalorz,J. Korb,2
+N. F\u00fcllkrug,S. San\u00e9,2
+J. Korb,M. Bakalorz,1
+P. Tschauner,W. Anton,1
+W. Anton,P. Tschauner,1
+Jonathas,J. Korb,1
+S. San\u00e9,Jonathas,1
+S. San\u00e9,J. Korb,1
+M. Harnik,S. San\u00e9,1
+N. F\u00fcllkrug,M. Harnik,1
+W. Anton,J. Korb,1
+N. F\u00fcllkrug,S. Maier,1
+S. Maier,S. San\u00e9,1
+M. Bakalorz,N. F\u00fcllkrug,1
+M. Harnik,M. Ostrzolek,1
+Jonathas,N. F\u00fcllkrug,1
+J. Korb,P. Tschauner,1
+N. F\u00fcllkrug,M. Ostrzolek,1
+M. Bakalorz,I. Bebou,1
+J. Korb,N. F\u00fcllkrug,1
+M. Bakalorz,S. Maier,1
+J. Korb,I. Bebou,1
+I. Bebou,N. F\u00fcllkrug,1
+M. Harnik,P. Tschauner,1
+S. San\u00e9,M. Harnik,1
+N. F\u00fcllkrug,I. Bebou,1
+N. F\u00fcllkrug,M. Bakalorz,1
+M. Harnik,M. Bakalorz,1
+W. Anton,S. Maier,1
+W. Anton,M. Bakalorz,1
+W. Anton,I. Bebou,1
+J. Korb,Jonathas,1
+I. Bebou,M. Bakalorz,1

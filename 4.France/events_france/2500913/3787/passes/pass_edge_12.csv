@@ -1,0 +1,11 @@
+Source,Target,Weight
+K. Dolly,Pedro Mendes,1
+C. Ninga,K. Dolly,1
+K. Dolly,Hilton,1
+N. Cozza,K. Dolly,1
+Pedro Mendes,C. Ninga,1
+J. Sambia,C. Ninga,1
+P. Lasne,K. Dolly,1
+J. Sambia,P. Lasne,1
+Hilton,J. Sambia,1
+C. Ninga,J. Sambia,1

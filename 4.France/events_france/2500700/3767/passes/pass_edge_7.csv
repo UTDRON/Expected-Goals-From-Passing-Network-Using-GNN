@@ -1,0 +1,68 @@
+Source,Target,Weight
+T. Motta,Neymar,9
+T. Motta,M. Verratti,7
+M. Verratti,T. Motta,6
+Neymar,L. Kurzawa,6
+T. Motta,A. Rabiot,5
+L. Kurzawa,Neymar,4
+Marquinhos,T. Motta,4
+A. Rabiot,L. Kurzawa,4
+L. Kurzawa,T. Motta,4
+M. Verratti,A. Rabiot,4
+A. Rabiot,Thiago Silva,4
+\u00c1. di Mar\u00eda,M. Verratti,4
+M. Verratti,\u00c1. di Mar\u00eda,4
+A. Rabiot,T. Motta,3
+Thiago Silva,Marquinhos,3
+L. Kurzawa,M. Verratti,3
+Neymar,T. Motta,3
+Neymar,Dani Alves,3
+A. Rabiot,M. Verratti,3
+T. Motta,Thiago Silva,3
+Thiago Silva,L. Kurzawa,2
+Dani Alves,M. Verratti,2
+Neymar,\u00c1. di Mar\u00eda,2
+Thiago Silva,Neymar,2
+Neymar,E. Cavani,2
+\u00c1. di Mar\u00eda,T. Motta,2
+M. Verratti,Thiago Silva,2
+Thiago Silva,T. Motta,2
+Dani Alves,T. Motta,2
+Dani Alves,A. Ar\u00e9ola,2
+L. Kurzawa,A. Rabiot,2
+Thiago Silva,Dani Alves,2
+M. Verratti,Neymar,2
+Neymar,A. Rabiot,2
+\u00c1. di Mar\u00eda,Marquinhos,1
+M. Verratti,L. Kurzawa,1
+T. Motta,Marquinhos,1
+M. Verratti,A. Ar\u00e9ola,1
+Neymar,Thiago Silva,1
+E. Cavani,Neymar,1
+A. Ar\u00e9ola,\u00c1. di Mar\u00eda,1
+\u00c1. di Mar\u00eda,Neymar,1
+Marquinhos,Dani Alves,1
+E. Cavani,Marquinhos,1
+Marquinhos,A. Rabiot,1
+Dani Alves,A. Rabiot,1
+A. Rabiot,E. Cavani,1
+T. Motta,E. Cavani,1
+Thiago Silva,\u00c1. di Mar\u00eda,1
+T. Motta,\u00c1. di Mar\u00eda,1
+Thiago Silva,M. Verratti,1
+Dani Alves,Marquinhos,1
+A. Ar\u00e9ola,A. Rabiot,1
+A. Ar\u00e9ola,T. Motta,1
+T. Motta,Dani Alves,1
+Marquinhos,Thiago Silva,1
+Marquinhos,A. Ar\u00e9ola,1
+M. Verratti,Dani Alves,1
+E. Cavani,Thiago Silva,1
+Neymar,M. Verratti,1
+A. Ar\u00e9ola,Marquinhos,1
+E. Cavani,A. Rabiot,1
+\u00c1. di Mar\u00eda,Thiago Silva,1
+A. Rabiot,Marquinhos,1
+Marquinhos,\u00c1. di Mar\u00eda,1
+A. Rabiot,Neymar,1
+E. Cavani,T. Motta,1

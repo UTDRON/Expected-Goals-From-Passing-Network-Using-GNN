@@ -1,0 +1,11 @@
+Source,Target,Weight
+A. Tour\u00e9,L. Dubois,2
+L. Dubois,A. Tour\u00e9,1
+Lucas Lima,Diego Carlos,1
+P. Nakoulma,R. Krhin,1
+Lucas Lima,P. Nakoulma,1
+L. Dubois,Diego Carlos,1
+R. Krhin,Lucas Lima,1
+E. Sala,A. Tour\u00e9,1
+R. Krhin,E. Sala,1
+Diego Carlos,R. Krhin,1

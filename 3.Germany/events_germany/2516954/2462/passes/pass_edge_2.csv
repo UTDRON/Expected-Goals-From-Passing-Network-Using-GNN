@@ -1,0 +1,17 @@
+Source,Target,Weight
+S. Falette,D. Abraham,2
+T. Chandler,M. Hasebe,2
+S. Falette,L. Hradecky,2
+S. Haller,M. Hasebe,1
+M. Hasebe,S. Falette,1
+L. Hradecky,T. Chandler,1
+D. Abraham,M. Ga\u0107inovi\u0107,1
+D. Abraham,S. Falette,1
+L. Hradecky,S. Falette,1
+M. Wolf,S. Haller,1
+M. Hasebe,M. Wolf,1
+M. Hasebe,D. da Costa,1
+T. Chandler,M. Wolf,1
+D. da Costa,M. Hasebe,1
+M. Hasebe,T. Chandler,1
+M. Ga\u0107inovi\u0107,T. Chandler,1

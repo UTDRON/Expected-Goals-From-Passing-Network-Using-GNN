@@ -1,0 +1,22 @@
+Source,Target,Weight
+R. Aguilar,E. Skhiri,2
+N. Mukiele,R. Aguilar,2
+E. Skhiri,I. Mbenza,2
+E. Skhiri,B. Lecomte,1
+S. Sess\u00e8gnon,R. Aguilar,1
+Pedro Mendes,S. Sess\u00e8gnon,1
+J. Roussillon,S. Sess\u00e8gnon,1
+Pedro Mendes,N. Mukiele,1
+J. Roussillon,B. Lecomte,1
+B. Lecomte,J. Roussillon,1
+S. Sess\u00e8gnon,I. Mbenza,1
+B. Lecomte,R. Aguilar,1
+R. Aguilar,I. Mbenza,1
+I. Mbenza,E. Skhiri,1
+I. Mbenza,Pedro Mendes,1
+P. Lasne,Pedro Mendes,1
+I. Mbenza,N. Mukiele,1
+S. Sess\u00e8gnon,P. Lasne,1
+Pedro Mendes,Hilton,1
+R. Aguilar,Pedro Mendes,1
+Hilton,J. Roussillon,1

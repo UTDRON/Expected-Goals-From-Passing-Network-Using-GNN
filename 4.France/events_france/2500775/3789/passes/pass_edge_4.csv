@@ -1,0 +1,20 @@
+Source,Target,Weight
+B. Zungu,G. N'Gosso,2
+E. Bourgaud,G. Kakuta,2
+G. Kakuta,E. Bourgaud,2
+R. Gurtner,G. Kakuta,1
+P. Gouano,R. Gurtner,1
+K. Ad\u00e9non,O. El Hajjam,1
+R. Gurtner,P. Gouano,1
+E. Bourgaud,B. Zungu,1
+G. N'Gosso,E. Bourgaud,1
+G. N'Gosso,R. Gurtner,1
+G. Kakuta,G. N'Gosso,1
+G. N'Gosso,B. Dibassy,1
+G. Kakuta,K. Ad\u00e9non,1
+G. Kakuta,M. Konat\u00e9,1
+B. Zungu,G. Kakuta,1
+B. Dibassy,B. Zungu,1
+O. El Hajjam,G. N'Gosso,1
+M. Konat\u00e9,G. Kakuta,1
+G. N'Gosso,G. Kakuta,1

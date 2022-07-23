@@ -1,0 +1,94 @@
+Source,Target,Weight
+T. Motta,A. Rabiot,15
+A. Rabiot,T. Motta,12
+T. Motta,J. Pastore,12
+L. Kurzawa,Neymar,11
+A. Rabiot,L. Kurzawa,11
+Neymar,A. Rabiot,10
+J. Pastore,T. Motta,10
+J. Pastore,\u00c1. di Mar\u00eda,9
+T. Motta,Marquinhos,9
+T. Meunier,\u00c1. di Mar\u00eda,9
+T. Meunier,Marquinhos,8
+J. Pastore,T. Meunier,8
+A. Rabiot,\u00c1. di Mar\u00eda,8
+A. Rabiot,J. Pastore,8
+Marquinhos,A. Rabiot,8
+\u00c1. di Mar\u00eda,T. Motta,8
+Neymar,J. Pastore,8
+Marquinhos,J. Pastore,8
+P. Kimpembe,L. Kurzawa,7
+J. Pastore,A. Rabiot,7
+L. Kurzawa,A. Rabiot,7
+\u00c1. di Mar\u00eda,T. Meunier,7
+P. Kimpembe,A. Rabiot,6
+A. Rabiot,T. Meunier,6
+A. Rabiot,P. Kimpembe,6
+A. Rabiot,Neymar,6
+Marquinhos,A. Ar\u00e9ola,6
+A. Rabiot,Marquinhos,5
+Marquinhos,P. Kimpembe,5
+L. Kurzawa,E. Cavani,5
+T. Motta,T. Meunier,5
+Marquinhos,T. Motta,5
+\u00c1. di Mar\u00eda,Marquinhos,5
+\u00c1. di Mar\u00eda,Neymar,5
+T. Motta,L. Kurzawa,4
+P. Kimpembe,Marquinhos,4
+Neymar,P. Kimpembe,4
+J. Pastore,L. Kurzawa,4
+T. Motta,Neymar,4
+Neymar,L. Kurzawa,4
+T. Meunier,J. Pastore,4
+Neymar,T. Motta,4
+J. Pastore,Neymar,4
+L. Kurzawa,P. Kimpembe,4
+\u00c1. di Mar\u00eda,L. Kurzawa,4
+T. Meunier,A. Rabiot,4
+P. Kimpembe,T. Motta,4
+\u00c1. di Mar\u00eda,E. Cavani,3
+T. Meunier,E. Cavani,3
+L. Kurzawa,T. Motta,3
+Marquinhos,T. Meunier,3
+L. Kurzawa,\u00c1. di Mar\u00eda,3
+T. Meunier,T. Motta,3
+A. Ar\u00e9ola,T. Motta,3
+E. Cavani,L. Kurzawa,3
+T. Motta,\u00c1. di Mar\u00eda,3
+\u00c1. di Mar\u00eda,J. Pastore,3
+\u00c1. di Mar\u00eda,A. Rabiot,3
+Neymar,T. Meunier,3
+Neymar,\u00c1. di Mar\u00eda,3
+L. Kurzawa,Marquinhos,2
+P. Kimpembe,A. Ar\u00e9ola,2
+E. Cavani,P. Kimpembe,2
+P. Kimpembe,Neymar,2
+A. Ar\u00e9ola,P. Kimpembe,2
+A. Ar\u00e9ola,T. Meunier,2
+A. Ar\u00e9ola,Marquinhos,2
+J. Pastore,A. Ar\u00e9ola,2
+T. Meunier,Neymar,2
+E. Cavani,\u00c1. di Mar\u00eda,2
+T. Meunier,P. Kimpembe,2
+Marquinhos,\u00c1. di Mar\u00eda,2
+L. Kurzawa,J. Pastore,2
+E. Cavani,J. Pastore,2
+E. Cavani,Neymar,2
+J. Pastore,Marquinhos,2
+E. Cavani,Marquinhos,1
+Marquinhos,Neymar,1
+E. Cavani,T. Motta,1
+A. Rabiot,E. Cavani,1
+T. Motta,P. Kimpembe,1
+J. Pastore,E. Cavani,1
+Neymar,Marquinhos,1
+E. Cavani,T. Meunier,1
+T. Meunier,A. Ar\u00e9ola,1
+P. Kimpembe,T. Meunier,1
+A. Ar\u00e9ola,A. Rabiot,1
+T. Meunier,L. Kurzawa,1
+Marquinhos,E. Cavani,1
+E. Cavani,A. Rabiot,1
+A. Ar\u00e9ola,Neymar,1
+Neymar,E. Cavani,1
+L. Kurzawa,T. Meunier,1

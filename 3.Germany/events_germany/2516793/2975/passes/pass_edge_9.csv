@@ -1,0 +1,34 @@
+Source,Target,Weight
+D. Demme,S. Ilsanker,2
+S. Ilsanker,L. Klostermann,2
+D. Demme,Bruma,2
+Bruma,D. Demme,2
+S. Ilsanker,Y. Poulsen,2
+Bruma,M. Halstenberg,1
+M. Sabitzer,Y. Poulsen,1
+Y. Poulsen,Bruma,1
+Y. Poulsen,I. Konat\u00e9,1
+M. Sabitzer,Bruma,1
+I. Konat\u00e9,S. Ilsanker,1
+L. Klostermann,D. Demme,1
+E. Forsberg,M. Halstenberg,1
+D. Demme,M. Sabitzer,1
+S. Ilsanker,Bruma,1
+Bruma,Y. Poulsen,1
+D. Demme,E. Forsberg,1
+I. Konat\u00e9,D. Demme,1
+M. Halstenberg,S. Ilsanker,1
+Y. Poulsen,E. Forsberg,1
+L. Klostermann,Y. Poulsen,1
+E. Forsberg,Y. Poulsen,1
+E. Forsberg,D. Demme,1
+L. Klostermann,M. Sabitzer,1
+D. Demme,L. Klostermann,1
+I. Konat\u00e9,P. Gul\u00e1csi,1
+Bruma,E. Forsberg,1
+Y. Poulsen,S. Ilsanker,1
+Y. Poulsen,D. Demme,1
+M. Halstenberg,I. Konat\u00e9,1
+Y. Poulsen,M. Sabitzer,1
+P. Gul\u00e1csi,Y. Poulsen,1
+M. Sabitzer,D. Demme,1

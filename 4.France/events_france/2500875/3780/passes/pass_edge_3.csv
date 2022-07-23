@@ -1,0 +1,50 @@
+Source,Target,Weight
+A. Lafont,C. Jullien,4
+C. Jullien,I. Sylla,4
+M. Gradel,A. Lafont,3
+I. Diop,G. Imbula,3
+G. Imbula,C. Jullien,3
+G. Imbula,M. Gradel,3
+K. Amian,I. Sylla,3
+C. Jullien,S. Yago,2
+A. Blin,A. Lafont,2
+A. Lafont,K. Amian,2
+S. Yago,A. Blin,2
+I. Sylla,K. Amian,2
+I. Diop,A. Lafont,2
+C. Jullien,I. Diop,2
+A. Lafont,I. Diop,2
+K. Amian,A. Lafont,2
+I. Sylla,A. Delort,2
+S. Yago,G. Imbula,2
+M. Gradel,K. Amian,2
+A. Delort,I. Diop,2
+Som\u00e1lia,G. Imbula,2
+S. Yago,Som\u00e1lia,1
+K. Amian,G. Imbula,1
+G. Imbula,A. Blin,1
+Som\u00e1lia,A. Lafont,1
+A. Delort,M. Gradel,1
+M. Gradel,A. Delort,1
+I. Sylla,S. Yago,1
+Som\u00e1lia,S. Yago,1
+K. Amian,A. Delort,1
+G. Imbula,K. Amian,1
+K. Amian,C. Jullien,1
+A. Blin,G. Imbula,1
+A. Blin,I. Sylla,1
+A. Delort,A. Blin,1
+A. Lafont,S. Yago,1
+I. Sylla,Som\u00e1lia,1
+C. Jullien,G. Imbula,1
+G. Imbula,A. Delort,1
+G. Imbula,Som\u00e1lia,1
+C. Jullien,A. Lafont,1
+A. Lafont,M. Gradel,1
+I. Sylla,G. Imbula,1
+A. Lafont,I. Sylla,1
+G. Imbula,I. Diop,1
+I. Diop,C. Jullien,1
+I. Sylla,C. Jullien,1
+I. Sylla,M. Gradel,1
+I. Diop,K. Amian,1

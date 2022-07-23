@@ -1,0 +1,98 @@
+Source,Target,Weight
+P. Max,Caiuby,9
+P. Max,M. Gregoritsch,9
+J. Mor\u00e1vek,Ja-Cheol Koo,8
+M. Hitz,M. Hinteregger,7
+M. Hinteregger,P. Max,7
+J. Schmid,J. Gouweleeuw,6
+M. Gregoritsch,P. Max,6
+J. Gouweleeuw,J. Schmid,6
+Ja-Cheol Koo,P. Max,6
+Ja-Cheol Koo,J. Mor\u00e1vek,6
+P. Max,D. Baier,5
+R. Khedira,J. Gouweleeuw,5
+J. Gouweleeuw,M. Hitz,5
+Caiuby,P. Max,5
+J. Mor\u00e1vek,J. Schmid,4
+P. Max,M. Hinteregger,4
+R. Khedira,M. Hitz,4
+P. Max,Ja-Cheol Koo,4
+P. Max,J. Mor\u00e1vek,4
+J. Mor\u00e1vek,R. Khedira,4
+J. Mor\u00e1vek,M. Hinteregger,3
+M. Hitz,P. Max,3
+M. Hinteregger,Ja-Cheol Koo,3
+M. Gregoritsch,Caiuby,3
+M. Gregoritsch,J. Mor\u00e1vek,3
+P. Max,R. Khedira,3
+J. Mor\u00e1vek,J. Gouweleeuw,3
+J. Schmid,J. Mor\u00e1vek,3
+Ja-Cheol Koo,D. Baier,3
+Caiuby,J. Mor\u00e1vek,3
+Ja-Cheol Koo,M. Hitz,3
+M. Hinteregger,J. Mor\u00e1vek,3
+Caiuby,M. Hinteregger,3
+D. Baier,J. Schmid,3
+J. Gouweleeuw,R. Khedira,3
+J. Schmid,M. Gregoritsch,3
+M. Hitz,J. Gouweleeuw,3
+M. Hinteregger,M. Hitz,3
+D. Baier,P. Max,3
+J. Gouweleeuw,Ja-Cheol Koo,3
+Ja-Cheol Koo,M. Gregoritsch,3
+M. Hinteregger,D. Baier,3
+D. Baier,Caiuby,3
+D. Baier,R. Khedira,3
+S. C\u00f3rdova,M. Gregoritsch,2
+J. Schmid,D. Baier,2
+R. Khedira,Ja-Cheol Koo,2
+R. Khedira,P. Max,2
+M. Gregoritsch,J. Schmid,2
+R. Khedira,D. Baier,2
+R. Khedira,J. Mor\u00e1vek,2
+Ja-Cheol Koo,J. Gouweleeuw,2
+Caiuby,Ja-Cheol Koo,2
+D. Baier,M. Hitz,2
+J. Gouweleeuw,P. Max,2
+Caiuby,D. Baier,2
+M. Hitz,Caiuby,2
+J. Mor\u00e1vek,M. Gregoritsch,2
+Ja-Cheol Koo,R. Khedira,2
+Caiuby,J. Schmid,2
+R. Khedira,J. Schmid,2
+M. Gregoritsch,S. C\u00f3rdova,2
+S. C\u00f3rdova,M. Hinteregger,2
+M. Hinteregger,Caiuby,2
+R. Khedira,M. Hinteregger,2
+M. Hitz,J. Mor\u00e1vek,2
+M. Hinteregger,R. Khedira,2
+J. Schmid,P. Max,2
+M. Gregoritsch,R. Khedira,2
+M. Gregoritsch,J. Gouweleeuw,2
+J. Mor\u00e1vek,P. Max,2
+Caiuby,R. Khedira,2
+Caiuby,M. Gregoritsch,2
+D. Baier,J. Mor\u00e1vek,2
+M. Gregoritsch,D. Baier,1
+D. Baier,M. Hinteregger,1
+M. Hinteregger,S. C\u00f3rdova,1
+J. Mor\u00e1vek,Caiuby,1
+J. Schmid,R. Khedira,1
+J. Gouweleeuw,J. Mor\u00e1vek,1
+Ja-Cheol Koo,M. Hinteregger,1
+D. Baier,M. Gregoritsch,1
+D. Baier,J. Gouweleeuw,1
+Caiuby,J. Gouweleeuw,1
+J. Gouweleeuw,S. C\u00f3rdova,1
+J. Gouweleeuw,M. Gregoritsch,1
+J. Mor\u00e1vek,S. C\u00f3rdova,1
+R. Khedira,Caiuby,1
+M. Gregoritsch,Ja-Cheol Koo,1
+D. Baier,Ja-Cheol Koo,1
+J. Schmid,Ja-Cheol Koo,1
+S. C\u00f3rdova,Ja-Cheol Koo,1
+J. Schmid,M. Hitz,1
+J. Mor\u00e1vek,D. Baier,1
+J. Gouweleeuw,M. Hinteregger,1
+J. Schmid,Caiuby,1
+M. Hitz,D. Baier,1

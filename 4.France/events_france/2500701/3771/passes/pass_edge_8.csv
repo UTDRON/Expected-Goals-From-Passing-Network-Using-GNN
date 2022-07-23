@@ -1,0 +1,20 @@
+Source,Target,Weight
+A. Rami,M. Lopez,2
+V. Germain,M. Lopez,2
+P. Evra,A. Rami,1
+M. Sanson,H. Sakai,1
+F. Thauvin,Luiz Gustavo,1
+H. Sakai,F. Thauvin,1
+M. Lopez,M. Sanson,1
+A. Rami,H. Sakai,1
+M. Lopez,Rolando,1
+Luiz Gustavo,V. Germain,1
+Rolando,P. Evra,1
+Luiz Gustavo,Rolando,1
+Rolando,A. Rami,1
+M. Sanson,V. Germain,1
+H. Sakai,M. Lopez,1
+P. Evra,M. Sanson,1
+M. Lopez,Luiz Gustavo,1
+M. Lopez,F. Thauvin,1
+M. Lopez,A. Rami,1

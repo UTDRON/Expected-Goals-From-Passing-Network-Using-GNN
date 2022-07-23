@@ -1,0 +1,34 @@
+Source,Target,Weight
+A. Tameze,M. Sarr,4
+M. Sarr,A. Tameze,3
+J. Seri,A. Tameze,2
+Marlon,P. Lees Melou,2
+P. Lees Melou,P. Burner,2
+A. Tameze,P. Lees Melou,2
+P. Lees Melou,J. Seri,2
+P. Burner,A. Saint-Maximin,2
+Marlon,A. Tameze,1
+A. Pl\u00e9a,A. Tameze,1
+J. Seri,Marlon,1
+A. Tameze,J. Seri,1
+A. Tameze,P. Burner,1
+A. Saint-Maximin,P. Lees Melou,1
+A. Saint-Maximin,A. Tameze,1
+J. Seri,A. Pl\u00e9a,1
+A. Pl\u00e9a,M. Le Marchand,1
+A. Pl\u00e9a,J. Seri,1
+J. Seri,M. Balotelli,1
+M. Balotelli,J. Seri,1
+P. Burner,A. Tameze,1
+P. Burner,J. Seri,1
+A. Tameze,W. Ben\u00edtez,1
+A. Saint-Maximin,P. Burner,1
+A. Tameze,A. Pl\u00e9a,1
+M. Balotelli,A. Saint-Maximin,1
+M. Sarr,Marlon,1
+W. Ben\u00edtez,Marlon,1
+M. Le Marchand,A. Pl\u00e9a,1
+P. Lees Melou,Marlon,1
+P. Lees Melou,M. Balotelli,1
+Marlon,M. Sarr,1
+M. Sarr,P. Lees Melou,1

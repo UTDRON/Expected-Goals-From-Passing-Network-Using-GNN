@@ -1,0 +1,43 @@
+Source,Target,Weight
+K. Casteels,D. Origi,3
+D. Origi,R. Steffen,3
+William,R. Knoche,2
+R. Knoche,William,2
+R. Steffen,William,2
+William,Y. Mall\u0131,2
+J. Guilavogui,William,2
+J. Guilavogui,K. Casteels,2
+R. Steffen,D. Origi,2
+D. Origi,J. Brooks,2
+M. Arnold,R. Steffen,2
+Y. Mall\u0131,R. Steffen,1
+J. Brekalo,William,1
+Y. Gerhardt,J. Guilavogui,1
+R. Steffen,J. Guilavogui,1
+William,D. Origi,1
+William,J. Guilavogui,1
+Y. Mall\u0131,William,1
+William,M. Arnold,1
+R. Steffen,J. Brekalo,1
+D. Origi,J. Brekalo,1
+J. Guilavogui,J. Brooks,1
+Y. Gerhardt,J. Brekalo,1
+J. Brekalo,R. Knoche,1
+William,Y. Gerhardt,1
+R. Knoche,K. Casteels,1
+J. Brooks,J. Guilavogui,1
+J. Brekalo,K. Casteels,1
+M. Arnold,Y. Gerhardt,1
+J. Guilavogui,M. Arnold,1
+Y. Mall\u0131,J. Brekalo,1
+J. Brooks,William,1
+K. Casteels,J. Guilavogui,1
+K. Casteels,Y. Mall\u0131,1
+J. Brooks,J. Brekalo,1
+William,J. Brooks,1
+Y. Gerhardt,K. Casteels,1
+R. Steffen,K. Casteels,1
+J. Brekalo,R. Steffen,1
+J. Brekalo,Y. Gerhardt,1
+J. Brooks,M. Arnold,1
+K. Casteels,R. Knoche,1

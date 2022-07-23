@@ -1,0 +1,76 @@
+Source,Target,Weight
+R. Knoche,William,12
+William,Y. Gerhardt,10
+J. Bruma,P. Verhaegh,10
+William,R. Knoche,8
+Y. Gerhardt,William,8
+P. Verhaegh,J. Bruma,7
+P. Verhaegh,D. Origi,7
+R. Knoche,J. Bruma,6
+J. Guilavogui,R. Knoche,6
+Y. Mall\u0131,William,6
+D. Origi,P. Verhaegh,5
+J. Bruma,R. Knoche,5
+Y. Gerhardt,R. Knoche,5
+J. Bruma,J. Guilavogui,4
+R. Knoche,K. Casteels,4
+R. Knoche,Y. Mall\u0131,4
+J. Guilavogui,Y. Mall\u0131,4
+K. Casteels,R. Knoche,4
+P. Verhaegh,R. Knoche,4
+William,D. Didavi,4
+D. Didavi,P. Verhaegh,4
+J. Guilavogui,D. Origi,3
+D. Origi,J. Bruma,3
+William,J. Guilavogui,3
+D. Didavi,J. Guilavogui,3
+R. Knoche,Y. Gerhardt,3
+William,Y. Mall\u0131,3
+P. Verhaegh,J. Guilavogui,3
+J. Guilavogui,J. Bruma,3
+William,M. G\u00f3mez,2
+Y. Gerhardt,P. Verhaegh,2
+D. Origi,William,2
+K. Casteels,Y. Gerhardt,2
+D. Origi,J. Guilavogui,2
+P. Verhaegh,Y. Gerhardt,2
+Y. Mall\u0131,J. Guilavogui,2
+J. Bruma,D. Origi,2
+Y. Gerhardt,J. Guilavogui,2
+Y. Mall\u0131,Y. Gerhardt,2
+K. Casteels,J. Bruma,2
+D. Origi,D. Didavi,2
+P. Verhaegh,D. Didavi,2
+J. Guilavogui,P. Verhaegh,2
+J. Guilavogui,William,2
+Y. Gerhardt,J. Bruma,2
+M. G\u00f3mez,K. Casteels,2
+J. Guilavogui,D. Didavi,1
+William,J. Bruma,1
+Y. Mall\u0131,J. Bruma,1
+M. G\u00f3mez,D. Origi,1
+M. G\u00f3mez,D. Didavi,1
+J. Bruma,William,1
+R. Knoche,P. Verhaegh,1
+R. Knoche,J. Guilavogui,1
+Y. Gerhardt,M. G\u00f3mez,1
+J. Bruma,Y. Gerhardt,1
+D. Didavi,M. G\u00f3mez,1
+William,K. Casteels,1
+J. Bruma,K. Casteels,1
+Y. Mall\u0131,K. Casteels,1
+Y. Mall\u0131,M. G\u00f3mez,1
+D. Origi,M. G\u00f3mez,1
+K. Casteels,J. Guilavogui,1
+M. G\u00f3mez,P. Verhaegh,1
+D. Didavi,D. Origi,1
+J. Bruma,M. G\u00f3mez,1
+William,P. Verhaegh,1
+K. Casteels,D. Origi,1
+M. G\u00f3mez,William,1
+M. G\u00f3mez,Y. Mall\u0131,1
+R. Knoche,M. G\u00f3mez,1
+J. Bruma,D. Didavi,1
+D. Didavi,J. Bruma,1
+D. Didavi,William,1
+P. Verhaegh,K. Casteels,1

@@ -1,0 +1,18 @@
+Source,Target,Weight
+K. Dolly,N. Cozza,2
+E. Skhiri,K. Dolly,2
+N. Mukiele,P. Lasne,2
+Pedro Mendes,N. Mukiele,1
+N. Cozza,P. Lasne,1
+P. Lasne,E. Skhiri,1
+N. Cozza,K. Dolly,1
+P. Lasne,I. Mbenza,1
+P. Lasne,K. Dolly,1
+I. Mbenza,E. Skhiri,1
+K. Dolly,S. Camara,1
+N. Cozza,Pedro Mendes,1
+S. Camara,E. Skhiri,1
+P. Lasne,N. Cozza,1
+K. Dolly,P. Lasne,1
+E. Skhiri,D. Congr\u00e9,1
+D. Congr\u00e9,N. Mukiele,1

@@ -1,0 +1,62 @@
+Source,Target,Weight
+O. Seln\u00e6s,A. Diouss\u00e9,5
+L. Perrin,K. Th\u00e9ophile Catherine,5
+K. Th\u00e9ophile Catherine,S. Ruffier,4
+K. Th\u00e9ophile Catherine,R. Cabella,4
+A. Diouss\u00e9,O. Seln\u00e6s,4
+L. Perrin,A. Diouss\u00e9,4
+A. Diouss\u00e9,L. Perrin,3
+S. Ruffier,K. Th\u00e9ophile Catherine,3
+S. Janko,K. Th\u00e9ophile Catherine,3
+K. Th\u00e9ophile Catherine,S. Janko,3
+A. Diouss\u00e9,R. Pierre-Gabriel,3
+O. Seln\u00e6s,L. Perrin,2
+S. Ruffier,Gabriel Silva,2
+R. Pierre-Gabriel,Gabriel Silva,2
+R. Pierre-Gabriel,A. Diouss\u00e9,2
+R. Pierre-Gabriel,S. Ruffier,2
+S. Janko,O. Seln\u00e6s,2
+R. Cabella,A. Diouss\u00e9,2
+A. Diouss\u00e9,R. Cabella,2
+K. Th\u00e9ophile Catherine,A. Diouss\u00e9,2
+R. Cabella,J. Bamba,2
+Gabriel Silva,R. Cabella,2
+J. Bamba,A. Diouss\u00e9,2
+J. Bamba,O. Seln\u00e6s,2
+K. Th\u00e9ophile Catherine,L. Perrin,2
+S. Ruffier,L. Perrin,2
+L. Diony,R. Pierre-Gabriel,2
+O. Seln\u00e6s,J. Bamba,2
+A. Diouss\u00e9,Gabriel Silva,2
+Gabriel Silva,R. Pierre-Gabriel,2
+R. Cabella,K. Th\u00e9ophile Catherine,2
+S. Janko,L. Perrin,1
+S. Janko,Gabriel Silva,1
+R. Cabella,Gabriel Silva,1
+R. Pierre-Gabriel,K. Th\u00e9ophile Catherine,1
+A. Diouss\u00e9,K. Th\u00e9ophile Catherine,1
+A. Diouss\u00e9,S. Ruffier,1
+Gabriel Silva,S. Ruffier,1
+S. Ruffier,L. Diony,1
+O. Seln\u00e6s,S. Janko,1
+Gabriel Silva,J. Bamba,1
+R. Pierre-Gabriel,L. Perrin,1
+L. Perrin,L. Diony,1
+K. Th\u00e9ophile Catherine,J. Bamba,1
+Gabriel Silva,S. Janko,1
+R. Cabella,S. Janko,1
+R. Cabella,L. Diony,1
+J. Bamba,K. Th\u00e9ophile Catherine,1
+A. Diouss\u00e9,J. Bamba,1
+Gabriel Silva,K. Th\u00e9ophile Catherine,1
+L. Perrin,J. Bamba,1
+S. Ruffier,S. Janko,1
+J. Bamba,R. Pierre-Gabriel,1
+R. Pierre-Gabriel,J. Bamba,1
+J. Bamba,L. Perrin,1
+K. Th\u00e9ophile Catherine,O. Seln\u00e6s,1
+L. Diony,S. Janko,1
+L. Perrin,S. Ruffier,1
+S. Ruffier,R. Pierre-Gabriel,1
+J. Bamba,R. Cabella,1
+S. Janko,S. Ruffier,1

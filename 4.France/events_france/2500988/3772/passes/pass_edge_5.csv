@@ -1,0 +1,51 @@
+Source,Target,Weight
+Ot\u00e1vio,Y. Sabaly,4
+Malcom,Y. Sabaly,4
+P. Baysse,M. Poundj\u00e9,4
+L. Lerager,Malcom,4
+P. Baysse,Ot\u00e1vio,3
+Y. Sabaly,L. Lerager,3
+M. Poundj\u00e9,N. de Pr\u00e9ville,3
+M. Poundj\u00e9,M. Braithwaite,3
+Ot\u00e1vio,P. Baysse,3
+Malcom,L. Lerager,2
+J. Kound\u00e9,Ot\u00e1vio,2
+Y. Sabaly,J. Kound\u00e9,2
+L. Lerager,J. Kound\u00e9,2
+L. Lerager,Ot\u00e1vio,2
+M. Braithwaite,M. Poundj\u00e9,2
+M. Poundj\u00e9,Ot\u00e1vio,2
+Y. Sabaly,B. Costil,2
+Y. Sabaly,Malcom,2
+N. de Pr\u00e9ville,L. Lerager,2
+Malcom,M. Poundj\u00e9,2
+M. Poundj\u00e9,S. Me\u00eft\u00e9,2
+B. Costil,P. Baysse,2
+J. Kound\u00e9,M. Poundj\u00e9,1
+N. de Pr\u00e9ville,M. Poundj\u00e9,1
+L. Lerager,Y. Sabaly,1
+B. Costil,N. de Pr\u00e9ville,1
+Ot\u00e1vio,B. Costil,1
+J. Kound\u00e9,L. Lerager,1
+P. Baysse,Malcom,1
+S. Me\u00eft\u00e9,Malcom,1
+Ot\u00e1vio,M. Poundj\u00e9,1
+M. Poundj\u00e9,P. Baysse,1
+J. Kound\u00e9,B. Costil,1
+S. Me\u00eft\u00e9,N. de Pr\u00e9ville,1
+J. Kound\u00e9,S. Me\u00eft\u00e9,1
+S. Me\u00eft\u00e9,Y. Sabaly,1
+P. Baysse,Y. Sabaly,1
+M. Poundj\u00e9,L. Lerager,1
+Malcom,S. Me\u00eft\u00e9,1
+M. Braithwaite,S. Me\u00eft\u00e9,1
+Y. Sabaly,P. Baysse,1
+Y. Sabaly,N. de Pr\u00e9ville,1
+N. de Pr\u00e9ville,S. Me\u00eft\u00e9,1
+S. Me\u00eft\u00e9,J. Kound\u00e9,1
+J. Kound\u00e9,Malcom,1
+N. de Pr\u00e9ville,Ot\u00e1vio,1
+N. de Pr\u00e9ville,P. Baysse,1
+S. Me\u00eft\u00e9,M. Poundj\u00e9,1
+B. Costil,J. Kound\u00e9,1
+Ot\u00e1vio,J. Kound\u00e9,1

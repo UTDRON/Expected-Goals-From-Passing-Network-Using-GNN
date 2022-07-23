@@ -1,0 +1,36 @@
+Source,Target,Weight
+D. Caligiuri,Naldo,2
+B. Stambouli,N. Bentaleb,2
+T. Kehrer,B. Stambouli,2
+F. Di Santo,G. Burgstaller,2
+G. Burgstaller,B. Stambouli,2
+B. Stambouli,T. Kehrer,2
+T. Kehrer,R. F\u00e4hrmann,1
+N. Bentaleb,B. Stambouli,1
+R. F\u00e4hrmann,F. Di Santo,1
+B. Stambouli,F. Di Santo,1
+N. Bentaleb,W. McKennie,1
+W. McKennie,T. Kehrer,1
+T. Kehrer,Naldo,1
+N. Bentaleb,T. Kehrer,1
+T. Kehrer,L. Goretzka,1
+L. Goretzka,W. McKennie,1
+F. Di Santo,N. Bentaleb,1
+D. Caligiuri,T. Kehrer,1
+G. Burgstaller,D. Caligiuri,1
+F. Di Santo,A. Harit,1
+T. Kehrer,D. Caligiuri,1
+Naldo,T. Kehrer,1
+Naldo,F. Di Santo,1
+A. Harit,F. Di Santo,1
+Naldo,D. Caligiuri,1
+D. Caligiuri,B. Stambouli,1
+B. Stambouli,G. Burgstaller,1
+G. Burgstaller,Naldo,1
+Naldo,G. Burgstaller,1
+W. McKennie,F. Di Santo,1
+B. Stambouli,D. Caligiuri,1
+G. Burgstaller,W. McKennie,1
+F. Di Santo,Naldo,1
+W. McKennie,Naldo,1
+Naldo,B. Stambouli,1

@@ -1,0 +1,21 @@
+Source,Target,Weight
+G. Holtmann,D. Brosinski,2
+D. Brosinski,S. Bell,2
+K. Onisiwo,A. Hack,2
+A. Hack,R. Adler,1
+A. Maxim,G. Holtmann,1
+Y. Muto,A. Maxim,1
+K. Onisiwo,A. Maxim,1
+N. de Jong,S. Bell,1
+D. Brosinski,A. Maxim,1
+R. Adler,K. Onisiwo,1
+S. Bell,K. Onisiwo,1
+A. Maxim,K. Onisiwo,1
+G. Holtmann,A. Diallo,1
+A. Diallo,A. Hack,1
+S. Bell,N. de Jong,1
+A. Hack,G. Holtmann,1
+A. Hack,A. Diallo,1
+S. Bell,G. Holtmann,1
+G. Holtmann,Y. Muto,1
+A. Diallo,G. Holtmann,1

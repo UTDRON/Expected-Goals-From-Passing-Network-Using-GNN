@@ -1,0 +1,42 @@
+Source,Target,Weight
+Naldo,B. Stambouli,3
+B. Embolo,G. Burgstaller,2
+B. Stambouli,D. Caligiuri,2
+L. Goretzka,D. Caligiuri,2
+M. Meyer,M. Nastasi\u0107,2
+A. Harit,B. Oczipka,2
+G. Burgstaller,B. Embolo,2
+M. Nastasi\u0107,B. Oczipka,2
+M. Nastasi\u0107,Naldo,1
+B. Stambouli,B. Embolo,1
+L. Goretzka,G. Burgstaller,1
+B. Oczipka,M. Meyer,1
+L. Goretzka,A. Harit,1
+D. Caligiuri,R. F\u00e4hrmann,1
+B. Embolo,L. Goretzka,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+N. Bentaleb,M. Meyer,1
+R. F\u00e4hrmann,B. Embolo,1
+D. Caligiuri,L. Goretzka,1
+B. Oczipka,N. Bentaleb,1
+D. Caligiuri,Naldo,1
+A. Harit,B. Stambouli,1
+B. Stambouli,M. Nastasi\u0107,1
+D. Caligiuri,B. Stambouli,1
+B. Stambouli,L. Goretzka,1
+M. Meyer,B. Oczipka,1
+B. Oczipka,L. Goretzka,1
+R. F\u00e4hrmann,G. Burgstaller,1
+B. Stambouli,M. Meyer,1
+Naldo,B. Oczipka,1
+B. Stambouli,G. Burgstaller,1
+M. Meyer,B. Stambouli,1
+D. Caligiuri,M. Meyer,1
+G. Burgstaller,Naldo,1
+G. Burgstaller,A. Harit,1
+G. Burgstaller,B. Stambouli,1
+B. Oczipka,D. Caligiuri,1
+B. Oczipka,A. Harit,1
+R. F\u00e4hrmann,L. Goretzka,1
+B. Oczipka,M. Nastasi\u0107,1
+L. Goretzka,R. F\u00e4hrmann,1

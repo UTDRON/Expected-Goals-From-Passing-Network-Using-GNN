@@ -1,0 +1,17 @@
+Source,Target,Weight
+G. Sertic,M. Lopez,1
+F. Thauvin,M. Lopez,1
+R. Cabella,Luiz Gustavo,1
+M. Sanson,V. Germain,1
+Rolando,T. Hubo\u010dan,1
+T. Hubo\u010dan,M. Sanson,1
+M. Lopez,M. Sanson,1
+Rolando,G. Sertic,1
+Luiz Gustavo,G. Sertic,1
+G. Sertic,Rolando,1
+M. Lopez,F. Thauvin,1
+M. Sanson,F. Thauvin,1
+M. Sanson,R. Cabella,1
+F. Thauvin,H. Sakai,1
+H. Sakai,F. Thauvin,1
+V. Germain,M. Sanson,1

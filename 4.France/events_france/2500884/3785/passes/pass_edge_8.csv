@@ -1,0 +1,67 @@
+Source,Target,Weight
+M. Thuram,J. Briand,6
+J. Briand,M. Thuram,6
+L. Blas,L. Deaux,4
+L. Blas,M. Diallo,3
+C. Kerbrat,L. Deaux,3
+J. Briand,L. Blas,3
+L. Deaux,J. Briand,3
+L. Deaux,Pedro Rebocho,2
+J. Briand,Y. Salibur,2
+F. Eboa Eboa,K. Johnsson,2
+Pedro Rebocho,M. Diallo,2
+Y. Salibur,J. Briand,2
+L. Deaux,M. Thuram,2
+J. Briand,L. Deaux,2
+F. Eboa Eboa,C. Kerbrat,2
+L. Blas,F. Eboa Eboa,2
+L. Deaux,L. Blas,2
+F. Tabanou,Y. Salibur,2
+M. Diallo,L. Deaux,2
+Y. Salibur,L. Blas,2
+M. Diallo,L. Blas,2
+Y. Salibur,M. Diallo,2
+F. Tabanou,M. Diallo,2
+L. Blas,J. Briand,2
+M. Diallo,Y. Salibur,2
+F. Tabanou,J. Briand,2
+L. Deaux,F. Tabanou,2
+M. Diallo,J. Briand,2
+L. Deaux,Y. Salibur,2
+J. Briand,J. Sorbon,2
+J. Briand,F. Tabanou,1
+C. Kerbrat,M. Thuram,1
+M. Thuram,C. Kerbrat,1
+K. Johnsson,L. Blas,1
+M. Diallo,F. Tabanou,1
+K. Johnsson,J. Briand,1
+Pedro Rebocho,K. Johnsson,1
+J. Briand,Pedro Rebocho,1
+J. Briand,F. Eboa Eboa,1
+M. Thuram,F. Eboa Eboa,1
+J. Sorbon,L. Blas,1
+Y. Salibur,L. Deaux,1
+Y. Salibur,C. Kerbrat,1
+K. Johnsson,M. Thuram,1
+K. Johnsson,F. Tabanou,1
+M. Thuram,J. Sorbon,1
+F. Eboa Eboa,M. Thuram,1
+M. Diallo,F. Eboa Eboa,1
+M. Diallo,C. Kerbrat,1
+J. Sorbon,F. Tabanou,1
+F. Tabanou,J. Sorbon,1
+M. Thuram,F. Tabanou,1
+J. Briand,K. Johnsson,1
+L. Deaux,M. Diallo,1
+F. Tabanou,M. Thuram,1
+M. Diallo,M. Thuram,1
+F. Eboa Eboa,M. Diallo,1
+M. Thuram,Pedro Rebocho,1
+L. Blas,F. Tabanou,1
+M. Thuram,L. Blas,1
+J. Sorbon,M. Diallo,1
+J. Sorbon,F. Eboa Eboa,1
+C. Kerbrat,L. Blas,1
+M. Thuram,L. Deaux,1
+Pedro Rebocho,F. Eboa Eboa,1
+F. Eboa Eboa,J. Briand,1

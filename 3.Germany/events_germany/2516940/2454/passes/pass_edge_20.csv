@@ -1,0 +1,18 @@
+Source,Target,Weight
+P. Herrmann,R. Oxford,1
+D. Zakaria,J. Vestergaard,1
+J. Vestergaard,M. Ginter,1
+C. Kramer,J. Vestergaard,1
+P. Herrmann,R. Bobadilla,1
+L. Stindl,D. Zakaria,1
+R. Oxford,C. Kramer,1
+J. Vestergaard,R. Oxford,1
+D. Zakaria,R. Bobadilla,1
+M. Ginter,L. Stindl,1
+R. Oxford,P. Herrmann,1
+L. Stindl,Y. Sommer,1
+D. Zakaria,P. Herrmann,1
+R. Oxford,D. Zakaria,1
+Y. Sommer,D. Zakaria,1
+R. Bobadilla,D. Zakaria,1
+D. Zakaria,L. Stindl,1

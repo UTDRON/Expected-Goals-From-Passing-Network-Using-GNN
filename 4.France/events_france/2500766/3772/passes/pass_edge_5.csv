@@ -1,0 +1,45 @@
+Source,Target,Weight
+T. Pellenard,F. Kamano,3
+J. Toulalan,Malcom,3
+N. de Pr\u00e9ville,Ot\u00e1vio,3
+Ot\u00e1vio,V. Jovanovi\u0107,3
+Ot\u00e1vio,I. Lewczuk,3
+Malcom,L. Lerager,3
+T. Pellenard,N. de Pr\u00e9ville,2
+F. Kamano,Ot\u00e1vio,2
+Ot\u00e1vio,B. Costil,2
+Malcom,N. de Pr\u00e9ville,2
+Ot\u00e1vio,Y. Sankhar\u00e9,2
+Ot\u00e1vio,T. Pellenard,2
+V. Jovanovi\u0107,B. Costil,2
+T. Pellenard,Ot\u00e1vio,1
+Y. Sankhar\u00e9,Ot\u00e1vio,1
+Malcom,T. Pellenard,1
+F. Kamano,T. Pellenard,1
+B. Costil,T. Pellenard,1
+V. Jovanovi\u0107,N. de Pr\u00e9ville,1
+B. Costil,F. Kamano,1
+J. Toulalan,B. Costil,1
+T. Pellenard,J. Toulalan,1
+I. Lewczuk,Ot\u00e1vio,1
+J. Toulalan,Ot\u00e1vio,1
+B. Costil,Ot\u00e1vio,1
+L. Lerager,V. Jovanovi\u0107,1
+Ot\u00e1vio,N. de Pr\u00e9ville,1
+J. Toulalan,T. Pellenard,1
+L. Lerager,I. Lewczuk,1
+N. de Pr\u00e9ville,J. Toulalan,1
+B. Costil,Malcom,1
+N. de Pr\u00e9ville,L. Lerager,1
+N. de Pr\u00e9ville,T. Pellenard,1
+B. Costil,J. Toulalan,1
+I. Lewczuk,V. Jovanovi\u0107,1
+I. Lewczuk,Malcom,1
+F. Kamano,L. Lerager,1
+Y. Sankhar\u00e9,J. Toulalan,1
+L. Lerager,Malcom,1
+V. Jovanovi\u0107,Ot\u00e1vio,1
+Malcom,Ot\u00e1vio,1
+I. Lewczuk,J. Toulalan,1
+L. Lerager,Ot\u00e1vio,1
+L. Lerager,J. Toulalan,1

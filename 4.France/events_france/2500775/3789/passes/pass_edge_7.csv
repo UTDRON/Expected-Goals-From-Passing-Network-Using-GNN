@@ -1,0 +1,117 @@
+Source,Target,Weight
+P. Gouano,R. Gurtner,10
+P. Gouano,G. N'Gosso,9
+B. Dibassy,E. Bourgaud,8
+B. Zungu,G. N'Gosso,8
+R. Gurtner,K. Ad\u00e9non,8
+G. N'Gosso,P. Gouano,8
+K. Ad\u00e9non,P. Gouano,7
+B. Zungu,B. Dibassy,7
+P. Gouano,K. Ad\u00e9non,7
+K. Ad\u00e9non,R. Gurtner,7
+G. N'Gosso,O. El Hajjam,7
+G. N'Gosso,B. Zungu,6
+M. Konat\u00e9,G. N'Gosso,6
+G. N'Gosso,B. Dibassy,6
+G. N'Gosso,K. Ad\u00e9non,6
+O. El Hajjam,S. Gakp\u00e9,5
+B. Zungu,P. Gouano,5
+E. Bourgaud,B. Dibassy,5
+B. Dibassy,B. Zungu,5
+O. El Hajjam,P. Gouano,5
+B. Zungu,K. Ad\u00e9non,5
+K. Ad\u00e9non,B. Dibassy,5
+K. Ad\u00e9non,G. N'Gosso,4
+B. Dibassy,G. N'Gosso,4
+P. Gouano,B. Zungu,4
+R. Gurtner,P. Gouano,4
+M. Konat\u00e9,P. Gouano,4
+K. Ad\u00e9non,B. Zungu,4
+P. Gouano,M. Konat\u00e9,4
+E. Bourgaud,P. Gouano,4
+P. Gouano,O. El Hajjam,4
+B. Dibassy,K. Ad\u00e9non,4
+O. El Hajjam,G. N'Gosso,4
+R. Gurtner,M. Konat\u00e9,4
+K. Ad\u00e9non,E. Bourgaud,3
+S. Gakp\u00e9,G. Kakuta,3
+E. Bourgaud,B. Zungu,3
+B. Dibassy,L. Traor\u00e9,3
+G. Kakuta,E. Bourgaud,3
+G. N'Gosso,R. Gurtner,3
+G. N'Gosso,G. Kakuta,3
+E. Bourgaud,G. Kakuta,3
+G. N'Gosso,E. Bourgaud,3
+K. Ad\u00e9non,G. Kakuta,3
+L. Traor\u00e9,G. N'Gosso,3
+O. El Hajjam,M. Konat\u00e9,3
+K. Ad\u00e9non,O. El Hajjam,3
+G. Kakuta,B. Dibassy,3
+O. El Hajjam,K. Ad\u00e9non,2
+S. Gakp\u00e9,B. Zungu,2
+G. Kakuta,P. Gouano,2
+E. Bourgaud,S. Gakp\u00e9,2
+H. Manzala,G. N'Gosso,2
+M. Konat\u00e9,S. Gakp\u00e9,2
+P. Gouano,E. Bourgaud,2
+M. Konat\u00e9,K. Ad\u00e9non,2
+H. Manzala,B. Dibassy,2
+M. Konat\u00e9,B. Zungu,2
+E. Bourgaud,R. Gurtner,2
+R. Gurtner,S. Gakp\u00e9,2
+G. Kakuta,K. Ad\u00e9non,2
+B. Dibassy,O. El Hajjam,2
+B. Dibassy,P. Gouano,2
+S. Gakp\u00e9,G. N'Gosso,2
+L. Traor\u00e9,E. Bourgaud,2
+L. Traor\u00e9,B. Dibassy,2
+B. Dibassy,H. Manzala,2
+S. Gakp\u00e9,B. Dibassy,2
+B. Dibassy,R. Gurtner,2
+H. Manzala,P. Gouano,2
+K. Ad\u00e9non,H. Manzala,1
+P. Gouano,H. Manzala,1
+E. Bourgaud,G. N'Gosso,1
+P. Gouano,S. Gakp\u00e9,1
+S. Gakp\u00e9,L. Traor\u00e9,1
+E. Bourgaud,O. El Hajjam,1
+G. N'Gosso,M. Konat\u00e9,1
+B. Zungu,E. Bourgaud,1
+B. Dibassy,G. Kakuta,1
+K. Ad\u00e9non,L. Traor\u00e9,1
+L. Traor\u00e9,H. Manzala,1
+B. Zungu,M. Konat\u00e9,1
+H. Manzala,B. Zungu,1
+S. Gakp\u00e9,P. Gouano,1
+B. Zungu,O. El Hajjam,1
+E. Bourgaud,L. Traor\u00e9,1
+S. Koita,S. Gakp\u00e9,1
+S. Gakp\u00e9,M. Konat\u00e9,1
+R. Gurtner,O. El Hajjam,1
+B. Dibassy,M. Konat\u00e9,1
+G. N'Gosso,L. Traor\u00e9,1
+R. Gurtner,L. Traor\u00e9,1
+B. Zungu,H. Manzala,1
+G. Kakuta,M. Konat\u00e9,1
+B. Zungu,S. Gakp\u00e9,1
+G. Kakuta,R. Gurtner,1
+P. Gouano,B. Dibassy,1
+E. Bourgaud,K. Ad\u00e9non,1
+S. Gakp\u00e9,O. El Hajjam,1
+R. Gurtner,G. N'Gosso,1
+M. Konat\u00e9,O. El Hajjam,1
+R. Gurtner,B. Zungu,1
+R. Gurtner,G. Kakuta,1
+E. Bourgaud,M. Konat\u00e9,1
+G. Kakuta,G. N'Gosso,1
+O. El Hajjam,B. Zungu,1
+R. Gurtner,B. Dibassy,1
+L. Traor\u00e9,K. Ad\u00e9non,1
+P. Gouano,L. Traor\u00e9,1
+O. El Hajjam,L. Traor\u00e9,1
+R. Gurtner,H. Manzala,1
+M. Konat\u00e9,E. Bourgaud,1
+L. Traor\u00e9,M. Konat\u00e9,1
+S. Gakp\u00e9,E. Bourgaud,1
+G. Kakuta,B. Zungu,1
+S. Gakp\u00e9,S. Koita,1

@@ -1,0 +1,26 @@
+Source,Target,Weight
+A. Esswein,M. Weiser,4
+M. Weiser,A. Maier,3
+M. Weiser,A. Esswein,3
+A. Maier,M. Weiser,3
+K. Rekik,M. Plattenhardt,2
+A. Esswein,A. Maier,2
+S. Langkamp,K. Rekik,1
+D. Selke,A. Esswein,1
+M. Weiser,V. Ibi\u0161evi\u0107,1
+M. Weiser,S. Langkamp,1
+S. Langkamp,M. Weiser,1
+P. Skjelbred,M. Plattenhardt,1
+K. Rekik,A. Esswein,1
+K. Rekik,S. Langkamp,1
+M. Plattenhardt,K. Rekik,1
+A. Maier,K. Rekik,1
+V. Ibi\u0161evi\u0107,D. Selke,1
+M. Plattenhardt,P. Skjelbred,1
+D. Selke,P. Skjelbred,1
+S. Kalou,P. Skjelbred,1
+M. Weiser,S. Kalou,1
+P. Skjelbred,V. Ibi\u0161evi\u0107,1
+P. Skjelbred,D. Selke,1
+M. Plattenhardt,A. Esswein,1
+V. Ibi\u0161evi\u0107,K. Rekik,1

@@ -1,0 +1,74 @@
+Source,Target,Weight
+D. Latza,J. Gbamin,6
+G. Donati,D. Latza,5
+S. Bell,G. Donati,5
+J. Gbamin,D. Brosinski,5
+G. Donati,L. \u00d6ztunali,4
+S. Bell,A. Diallo,4
+D. Latza,A. Diallo,4
+D. Brosinski,J. Gbamin,4
+L. \u00d6ztunali,G. Donati,4
+P. De Blasis,D. Latza,4
+J. Gbamin,G. Donati,4
+A. Diallo,S. Bell,3
+A. Diallo,J. Gbamin,3
+G. Donati,S. Bell,3
+G. Donati,A. Diallo,3
+J. Gbamin,D. Latza,3
+A. Maxim,S. Bell,3
+D. Latza,G. Donati,3
+D. Latza,D. Brosinski,3
+A. Diallo,D. Latza,3
+G. Donati,A. Maxim,3
+A. Diallo,A. Maxim,3
+J. Gbamin,A. Maxim,2
+D. Brosinski,D. Latza,2
+Y. Muto,D. Latza,2
+G. Donati,Y. Muto,2
+R. Zentner,A. Diallo,2
+D. Latza,S. Bell,2
+A. Diallo,R. Zentner,2
+J. Gbamin,L. \u00d6ztunali,2
+D. Brosinski,A. Diallo,2
+J. Gbamin,A. Diallo,2
+R. Zentner,G. Donati,2
+L. \u00d6ztunali,J. Gbamin,2
+S. Bell,D. Latza,2
+S. Bell,R. Zentner,2
+A. Maxim,J. Gbamin,2
+A. Diallo,P. De Blasis,2
+D. Brosinski,A. Maxim,2
+D. Latza,L. \u00d6ztunali,2
+A. Maxim,D. Brosinski,2
+L. \u00d6ztunali,A. Diallo,1
+A. Maxim,L. \u00d6ztunali,1
+D. Brosinski,G. Donati,1
+A. Maxim,P. De Blasis,1
+L. \u00d6ztunali,S. Bell,1
+L. \u00d6ztunali,D. Latza,1
+D. Latza,R. Zentner,1
+Y. Muto,L. \u00d6ztunali,1
+P. De Blasis,J. Gbamin,1
+Y. Muto,G. Donati,1
+R. Zentner,S. Bell,1
+D. Latza,Y. Muto,1
+P. De Blasis,D. Brosinski,1
+S. Bell,A. Maxim,1
+A. Diallo,G. Donati,1
+R. Zentner,D. Latza,1
+G. Donati,P. De Blasis,1
+A. Maxim,G. Donati,1
+A. Maxim,Y. Muto,1
+G. Donati,J. Gbamin,1
+J. Gbamin,S. Bell,1
+Y. Muto,J. Gbamin,1
+P. De Blasis,R. Zentner,1
+D. Latza,P. De Blasis,1
+D. Brosinski,P. De Blasis,1
+L. \u00d6ztunali,P. De Blasis,1
+S. Bell,D. Brosinski,1
+S. Bell,P. De Blasis,1
+D. Brosinski,S. Bell,1
+A. Diallo,D. Brosinski,1
+S. Bell,Y. Muto,1
+P. De Blasis,S. Bell,1

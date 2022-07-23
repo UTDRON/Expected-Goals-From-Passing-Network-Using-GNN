@@ -1,0 +1,27 @@
+Source,Target,Weight
+F. Bellugou,S. Grandsir,2
+R. Walter,C. Traor\u00e9,2
+E. Zelazny,F. Bellugou,2
+B. Pel\u00e9,S. Grandsir,1
+C. Traor\u00e9,R. Walter,1
+B. Pel\u00e9,C. H\u00e9relle,1
+S. Grandsir,B. Pel\u00e9,1
+B. Pel\u00e9,C. Traor\u00e9,1
+M. Deplagne,C. Traor\u00e9,1
+R. Walter,B. Pel\u00e9,1
+M. Deplagne,E. Zelazny,1
+F. Bellugou,A. Niane,1
+S. Khaoui,R. Walter,1
+C. Traor\u00e9,S. Khaoui,1
+S. Grandsir,S. Khaoui,1
+R. Walter,S. Grandsir,1
+C. Traor\u00e9,M. Deplagne,1
+S. Grandsir,M. Deplagne,1
+S. Khaoui,S. Grandsir,1
+C. H\u00e9relle,R. Walter,1
+S. Khaoui,C. H\u00e9relle,1
+C. H\u00e9relle,F. Bellugou,1
+A. Niane,S. Khaoui,1
+C. Traor\u00e9,C. H\u00e9relle,1
+S. Grandsir,R. Walter,1
+S. Grandsir,E. Zelazny,1

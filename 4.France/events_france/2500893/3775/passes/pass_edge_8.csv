@@ -1,0 +1,42 @@
+Source,Target,Weight
+M. Sarr,A. Pl\u00e9a,3
+A. Pl\u00e9a,M. Sarr,3
+P. Burner,A. Saint-Maximin,3
+P. Lees Melou,P. Burner,3
+P. Burner,P. Lees Melou,2
+M. Sarr,Dante,2
+J. Seri,M. Sarr,2
+M. Sarr,J. Seri,2
+Dante,Marlon,2
+A. Saint-Maximin,Marlon,1
+M. Balotelli,J. Seri,1
+P. Burner,Marlon,1
+A. Pl\u00e9a,J. Seri,1
+Marlon,A. Pl\u00e9a,1
+P. Lees Melou,Marlon,1
+Marlon,J. Seri,1
+M. Balotelli,A. Pl\u00e9a,1
+J. Seri,M. Balotelli,1
+A. Saint-Maximin,P. Burner,1
+J. Seri,Marlon,1
+A. Saint-Maximin,P. Lees Melou,1
+Dante,M. Sarr,1
+Marlon,M. Sarr,1
+J. Seri,W. Cyprien,1
+Dante,P. Lees Melou,1
+A. Saint-Maximin,J. Seri,1
+P. Lees Melou,A. Saint-Maximin,1
+A. Pl\u00e9a,P. Lees Melou,1
+Marlon,M. Balotelli,1
+Dante,P. Burner,1
+J. Seri,A. Pl\u00e9a,1
+P. Burner,Dante,1
+J. Seri,P. Burner,1
+W. Cyprien,M. Sarr,1
+W. Cyprien,J. Seri,1
+M. Balotelli,Dante,1
+Marlon,A. Saint-Maximin,1
+Marlon,P. Burner,1
+M. Sarr,W. Cyprien,1
+A. Pl\u00e9a,M. Balotelli,1
+A. Saint-Maximin,M. Balotelli,1

@@ -1,0 +1,37 @@
+Source,Target,Weight
+P. Djilobodji,Xeka,4
+Xeka,P. Djilobodji,4
+O. Haddadi,Xeka,3
+C. Yamber\u00e9,P. Djilobodji,3
+B. Reynet,C. Yamber\u00e9,3
+P. Djilobodji,B. Reynet,3
+B. Reynet,P. Djilobodji,2
+P. Djilobodji,R. Amalfitano,2
+W. Sa\u00efd,R. Amalfitano,1
+C. Yamber\u00e9,B. Jeannot,1
+B. Jeannot,F. Chafik,1
+O. Haddadi,P. Djilobodji,1
+F. Chafik,W. Sa\u00efd,1
+R. Amalfitano,C. Yamber\u00e9,1
+C. Yamber\u00e9,Kwon Chang-Hoon,1
+R. Amalfitano,P. Djilobodji,1
+Xeka,C. Yamber\u00e9,1
+Xeka,O. Haddadi,1
+R. Amalfitano,O. Haddadi,1
+O. Haddadi,C. Yamber\u00e9,1
+R. Amalfitano,B. Reynet,1
+Kwon Chang-Hoon,R. Amalfitano,1
+F. Chafik,Xeka,1
+R. Amalfitano,F. Chafik,1
+P. Djilobodji,O. Haddadi,1
+P. Djilobodji,C. Yamber\u00e9,1
+C. Yamber\u00e9,R. Amalfitano,1
+Xeka,W. Sa\u00efd,1
+C. Yamber\u00e9,J\u00falio Tavares,1
+F. Chafik,Kwon Chang-Hoon,1
+C. Yamber\u00e9,O. Haddadi,1
+J\u00falio Tavares,W. Sa\u00efd,1
+Kwon Chang-Hoon,B. Reynet,1
+B. Reynet,O. Haddadi,1
+W. Sa\u00efd,F. Chafik,1
+Xeka,B. Reynet,1

@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Fulgini,V. Manceau,3
+A. Bamba,F. Tait,3
+T. Mangani,B. Guillaume,2
+B. Guillaume,T. Mangani,2
+V. Manceau,B. Guillaume,2
+T. Mangani,A. Bamba,2
+B. Guillaume,F. Tait,1
+I. Traor\u00e9,A. Fulgini,1
+L. Butelle,B. Guillaume,1
+B. Santamaria,I. Traor\u00e9,1
+B. Guillaume,B. Santamaria,1
+M. Pavlovi\u0107,B. Santamaria,1
+F. Tait,M. Pavlovi\u0107,1
+A. Bamba,T. Mangani,1
+B. Guillaume,A. Bamba,1
+F. Tait,A. Bamba,1
+V. Manceau,A. Fulgini,1
+B. Guillaume,M. Pavlovi\u0107,1
+F. Tait,T. Mangani,1
+M. Pavlovi\u0107,L. Butelle,1
+B. Santamaria,B. Guillaume,1

@@ -1,0 +1,56 @@
+Source,Target,Weight
+H. Bazile,F. Guilbert,5
+F. Guilbert,H. Bazile,4
+J. F\u00e9ret,C. Kouakou,4
+J. F\u00e9ret,A. Mbengue,4
+C. Kouakou,J. F\u00e9ret,3
+F. Guilbert,I. Santini,3
+R. Vercoutre,I. Santini,3
+D. Da Silva,R. Vercoutre,3
+F. Guilbert,R. Vercoutre,2
+J. Repas,J. Delaplace,2
+A. Mbengue,H. Bazile,2
+A. Mbengue,I. Santini,2
+I. Santini,H. Bazile,2
+I. Santini,F. Guilbert,2
+I. Santini,J. Repas,2
+A. Mbengue,C. Kouakou,2
+J. Delaplace,J. F\u00e9ret,2
+I. Santini,J. F\u00e9ret,2
+J. F\u00e9ret,F. Guilbert,2
+B. Sankoh,C. Kouakou,1
+F. Guilbert,B. Sankoh,1
+J. Repas,J. F\u00e9ret,1
+J. F\u00e9ret,I. Santini,1
+J. F\u00e9ret,J. Delaplace,1
+J. Delaplace,I. Santini,1
+B. Sankoh,D. Da Silva,1
+C. Kouakou,I. Santini,1
+B. Sankoh,J. Repas,1
+B. Sankoh,F. Guilbert,1
+D. Da Silva,A. Mbengue,1
+I. Santini,J. Delaplace,1
+H. Bazile,D. Da Silva,1
+D. Da Silva,B. Sankoh,1
+C. Kouakou,F. Guilbert,1
+J. F\u00e9ret,D. Da Silva,1
+I. Santini,B. Sankoh,1
+H. Bazile,J. F\u00e9ret,1
+J. Repas,B. Sankoh,1
+B. Sankoh,H. Bazile,1
+F. Guilbert,C. Kouakou,1
+J. Delaplace,B. Sankoh,1
+C. Kouakou,D. Da Silva,1
+A. Mbengue,D. Da Silva,1
+A. Mbengue,J. Repas,1
+B. Sankoh,J. F\u00e9ret,1
+C. Kouakou,A. Mbengue,1
+A. Mbengue,J. F\u00e9ret,1
+F. Guilbert,A. Mbengue,1
+D. Da Silva,J. Delaplace,1
+I. Santini,A. Mbengue,1
+R. Vercoutre,J. F\u00e9ret,1
+R. Vercoutre,D. Da Silva,1
+H. Bazile,A. Mbengue,1
+J. Delaplace,F. Guilbert,1
+H. Bazile,B. Sankoh,1

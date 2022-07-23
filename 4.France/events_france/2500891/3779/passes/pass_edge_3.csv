@@ -1,0 +1,53 @@
+Source,Target,Weight
+J. Martin,J. Aholou,4
+K. Lala,J. Aholou,4
+J. Aholou,D. Foulquier,4
+Nuno Da Costa,J. Martin,3
+Nuno Da Costa,K. Lala,3
+A. Gon\u00e7alves,I. Sacko,3
+J. Aholou,J. Martin,3
+K. Lala,A. Gon\u00e7alves,3
+K. Lala,S. Bahoken,2
+J. Martin,K. Lala,2
+B. Kon\u00e9,I. Sacko,2
+D. Foulquier,I. Sacko,2
+A. Gon\u00e7alves,D. Foulquier,2
+J. Aholou,K. Lala,2
+I. Sacko,J. Aholou,2
+P. Martinez,Nuno Da Costa,2
+A. Gon\u00e7alves,J. Martin,2
+K. Lala,Nuno Da Costa,2
+S. Bahoken,K. Lala,2
+D. Foulquier,K. Lala,2
+I. Sacko,K. Lala,2
+J. Martin,P. Martinez,2
+I. Sacko,D. Foulquier,1
+J. Martin,A. Gon\u00e7alves,1
+J. Martin,D. Foulquier,1
+J. Aholou,A. Gon\u00e7alves,1
+K. Lala,J. Martin,1
+J. Martin,A. Oukidja,1
+A. Oukidja,P. Martinez,1
+P. Martinez,A. Gon\u00e7alves,1
+B. Kon\u00e9,Nuno Da Costa,1
+J. Martin,Nuno Da Costa,1
+D. Foulquier,J. Martin,1
+D. Foulquier,J. Aholou,1
+Nuno Da Costa,S. Bahoken,1
+I. Sacko,J. Martin,1
+A. Gon\u00e7alves,J. Aholou,1
+P. Martinez,J. Martin,1
+K. Lala,P. Martinez,1
+I. Sacko,A. Gon\u00e7alves,1
+P. Martinez,B. Kon\u00e9,1
+D. Foulquier,B. Kon\u00e9,1
+D. Foulquier,A. Gon\u00e7alves,1
+J. Martin,I. Sacko,1
+A. Oukidja,Nuno Da Costa,1
+K. Lala,A. Oukidja,1
+Nuno Da Costa,A. Gon\u00e7alves,1
+A. Oukidja,J. Martin,1
+S. Bahoken,Nuno Da Costa,1
+J. Aholou,A. Oukidja,1
+A. Gon\u00e7alves,B. Kon\u00e9,1
+J. Aholou,P. Martinez,1

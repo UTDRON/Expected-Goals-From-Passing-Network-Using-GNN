@@ -1,0 +1,69 @@
+Source,Target,Weight
+N. S\u00fcle,Javi Mart\u00ednez,6
+J. Rodr\u00edguez,C. Tolisso,6
+N. S\u00fcle,Rafinha,5
+Rafinha,N. S\u00fcle,5
+K. Coman,Rafinha,5
+S. Rudy,N. S\u00fcle,4
+C. Tolisso,S. Rudy,4
+C. Tolisso,J. Rodr\u00edguez,4
+Javi Mart\u00ednez,N. S\u00fcle,4
+Rafinha,K. Coman,4
+Javi Mart\u00ednez,J. Kimmich,4
+J. Rodr\u00edguez,S. Rudy,3
+C. Tolisso,T. M\u00fcller,3
+J. Kimmich,J. Rodr\u00edguez,3
+Rafinha,S. Rudy,3
+T. M\u00fcller,J. Kimmich,3
+Rafinha,J. Rodr\u00edguez,3
+Rafinha,C. Tolisso,3
+N. S\u00fcle,K. Coman,3
+S. Rudy,Javi Mart\u00ednez,2
+N. S\u00fcle,S. Ulreich,2
+J. Kimmich,Javi Mart\u00ednez,2
+K. Coman,N. S\u00fcle,2
+Javi Mart\u00ednez,S. Ulreich,2
+R. Lewandowski,Javi Mart\u00ednez,2
+S. Ulreich,Rafinha,2
+J. Rodr\u00edguez,Rafinha,2
+Rafinha,T. M\u00fcller,2
+T. M\u00fcller,N. S\u00fcle,2
+S. Rudy,K. Coman,2
+S. Rudy,Rafinha,2
+Javi Mart\u00ednez,T. M\u00fcller,2
+Javi Mart\u00ednez,Rafinha,1
+R. Lewandowski,T. M\u00fcller,1
+C. Tolisso,J. Kimmich,1
+T. M\u00fcller,S. Rudy,1
+T. M\u00fcller,Rafinha,1
+Rafinha,Javi Mart\u00ednez,1
+S. Rudy,R. Lewandowski,1
+S. Ulreich,Javi Mart\u00ednez,1
+N. S\u00fcle,S. Rudy,1
+J. Kimmich,Rafinha,1
+C. Tolisso,Rafinha,1
+T. M\u00fcller,Javi Mart\u00ednez,1
+J. Kimmich,C. Tolisso,1
+N. S\u00fcle,C. Tolisso,1
+K. Coman,J. Rodr\u00edguez,1
+S. Ulreich,N. S\u00fcle,1
+T. M\u00fcller,K. Coman,1
+J. Rodr\u00edguez,J. Kimmich,1
+N. S\u00fcle,J. Rodr\u00edguez,1
+R. Lewandowski,Rafinha,1
+K. Coman,C. Tolisso,1
+J. Kimmich,R. Lewandowski,1
+S. Rudy,T. M\u00fcller,1
+S. Rudy,J. Rodr\u00edguez,1
+K. Coman,R. Lewandowski,1
+R. Lewandowski,C. Tolisso,1
+T. M\u00fcller,C. Tolisso,1
+T. M\u00fcller,R. Lewandowski,1
+K. Coman,T. M\u00fcller,1
+C. Tolisso,N. S\u00fcle,1
+Javi Mart\u00ednez,K. Coman,1
+Javi Mart\u00ednez,C. Tolisso,1
+C. Tolisso,R. Lewandowski,1
+N. S\u00fcle,J. Kimmich,1
+J. Kimmich,S. Rudy,1
+J. Kimmich,T. M\u00fcller,1

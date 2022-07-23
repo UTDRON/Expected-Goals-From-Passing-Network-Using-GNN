@@ -1,0 +1,13 @@
+Source,Target,Weight
+S. Bender,J. Tah,2
+J. Tah,S. Bender,2
+J. Tah,L. Bailey,2
+Wendell,K. Bellarabi,1
+K. Havertz,B. Henrichs,1
+C. Ar\u00e1nguiz,S. Bender,1
+K. Bellarabi,Wendell,1
+C. Ar\u00e1nguiz,K. Havertz,1
+S. Bender,Wendell,1
+B. Henrichs,C. Ar\u00e1nguiz,1
+L. Bailey,J. Tah,1
+Wendell,C. Ar\u00e1nguiz,1

@@ -1,0 +1,40 @@
+Source,Target,Weight
+William,P. Ntep,5
+P. Ntep,William,4
+D. Didavi,J. Brooks,4
+P. Verhaegh,William,2
+P. Verhaegh,J. Guilavogui,2
+P. Ntep,M. Arnold,2
+D. Didavi,P. Ntep,2
+William,F. Uduokhai,2
+F. Uduokhai,P. Verhaegh,2
+J. Guilavogui,William,2
+J. Brooks,M. Arnold,2
+M. Arnold,P. Ntep,1
+M. Arnold,J. Brooks,1
+P. Verhaegh,D. Didavi,1
+J. Brooks,F. Uduokhai,1
+M. Arnold,P. Verhaegh,1
+P. Ntep,Y. Mall\u0131,1
+J. Brooks,D. Didavi,1
+J. Brooks,K. Casteels,1
+M. G\u00f3mez,M. Arnold,1
+J. Guilavogui,P. Ntep,1
+M. Arnold,J. Guilavogui,1
+Y. Mall\u0131,William,1
+J. Brooks,J. Guilavogui,1
+F. Uduokhai,William,1
+P. Verhaegh,Y. Mall\u0131,1
+P. Ntep,J. Brooks,1
+William,M. Arnold,1
+William,D. Didavi,1
+J. Guilavogui,Y. Mall\u0131,1
+Y. Mall\u0131,P. Verhaegh,1
+K. Casteels,M. G\u00f3mez,1
+J. Guilavogui,P. Verhaegh,1
+M. Arnold,D. Didavi,1
+P. Ntep,M. G\u00f3mez,1
+William,J. Guilavogui,1
+M. Arnold,M. G\u00f3mez,1
+M. G\u00f3mez,P. Verhaegh,1
+M. G\u00f3mez,D. Didavi,1

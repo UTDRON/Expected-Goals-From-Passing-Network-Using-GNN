@@ -1,0 +1,43 @@
+Source,Target,Weight
+N. de Jong,A. Maxim,4
+A. Diallo,A. Hack,3
+N. de Jong,J. Gbamin,2
+J. Gbamin,Y. Muto,2
+A. Maxim,A. Hack,2
+J. Gbamin,N. de Jong,2
+J. Gbamin,R. Adler,2
+A. Maxim,L. \u00d6ztunali,2
+A. Maxim,Y. Muto,2
+L. \u00d6ztunali,J. Gbamin,2
+Y. Muto,P. De Blasis,2
+Y. Muto,A. Diallo,2
+A. Hack,A. Ujah,2
+L. \u00d6ztunali,N. de Jong,2
+A. Hack,N. de Jong,1
+A. Hack,S. Serdar,1
+S. Serdar,A. Maxim,1
+Y. Muto,A. Maxim,1
+N. de Jong,P. De Blasis,1
+A. Hack,A. Diallo,1
+J. Gbamin,L. \u00d6ztunali,1
+A. Diallo,J. Gbamin,1
+A. Maxim,N. de Jong,1
+S. Serdar,A. Ujah,1
+A. Ujah,J. Gbamin,1
+J. Gbamin,A. Hack,1
+R. Adler,A. Hack,1
+A. Maxim,J. Gbamin,1
+R. Adler,S. Serdar,1
+A. Hack,P. De Blasis,1
+A. Ujah,A. Diallo,1
+S. Serdar,L. \u00d6ztunali,1
+A. Hack,A. Maxim,1
+P. De Blasis,Y. Muto,1
+N. de Jong,S. Serdar,1
+A. Hack,Y. Muto,1
+P. De Blasis,A. Hack,1
+P. De Blasis,A. Maxim,1
+A. Diallo,N. de Jong,1
+A. Ujah,S. Serdar,1
+P. De Blasis,A. Diallo,1
+S. Serdar,N. de Jong,1

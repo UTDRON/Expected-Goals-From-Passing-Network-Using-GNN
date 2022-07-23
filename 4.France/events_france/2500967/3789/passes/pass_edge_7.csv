@@ -1,0 +1,64 @@
+Source,Target,Weight
+T. Monconduit,B. Zungu,4
+K. Ad\u00e9non,O. El Hajjam,3
+S. Gakp\u00e9,B. Zungu,3
+S. Gakp\u00e9,Danilo Avelar,3
+B. Zungu,Danilo Avelar,3
+B. Zungu,S. Gakp\u00e9,3
+B. Dibassy,G. Kakuta,3
+T. Monconduit,S. Gakp\u00e9,2
+O. El Hajjam,R. Gurtner,2
+Danilo Avelar,S. Mendoza,2
+S. Mendoza,K. Ad\u00e9non,2
+B. Zungu,T. Monconduit,2
+M. Konat\u00e9,B. Dibassy,2
+Danilo Avelar,S. Gakp\u00e9,2
+K. Ad\u00e9non,T. Monconduit,2
+K. Ad\u00e9non,S. Mendoza,2
+T. Monconduit,O. El Hajjam,2
+G. Kakuta,K. Ad\u00e9non,2
+B. Dibassy,R. Gurtner,2
+R. Gurtner,Danilo Avelar,2
+Danilo Avelar,K. Ad\u00e9non,2
+O. El Hajjam,B. Dibassy,2
+Danilo Avelar,B. Zungu,2
+S. Gakp\u00e9,M. Konat\u00e9,2
+O. El Hajjam,K. Ad\u00e9non,2
+O. El Hajjam,S. Mendoza,1
+R. Gurtner,S. Mendoza,1
+R. Gurtner,T. Monconduit,1
+S. Mendoza,G. Kakuta,1
+K. Ad\u00e9non,S. Gakp\u00e9,1
+M. Konat\u00e9,S. Gakp\u00e9,1
+B. Zungu,B. Dibassy,1
+S. Gakp\u00e9,O. El Hajjam,1
+M. Konat\u00e9,T. Monconduit,1
+K. Ad\u00e9non,R. Gurtner,1
+B. Zungu,M. Konat\u00e9,1
+Danilo Avelar,G. Kakuta,1
+G. Kakuta,B. Zungu,1
+R. Gurtner,M. Konat\u00e9,1
+O. El Hajjam,S. Gakp\u00e9,1
+S. Mendoza,O. El Hajjam,1
+O. El Hajjam,Danilo Avelar,1
+G. Kakuta,O. El Hajjam,1
+M. Konat\u00e9,K. Ad\u00e9non,1
+O. El Hajjam,T. Monconduit,1
+S. Mendoza,M. Konat\u00e9,1
+S. Mendoza,T. Monconduit,1
+S. Gakp\u00e9,B. Dibassy,1
+T. Monconduit,S. Mendoza,1
+G. Kakuta,M. Konat\u00e9,1
+S. Mendoza,B. Dibassy,1
+B. Dibassy,O. El Hajjam,1
+Danilo Avelar,B. Dibassy,1
+G. Kakuta,T. Monconduit,1
+B. Dibassy,Danilo Avelar,1
+B. Zungu,G. Kakuta,1
+M. Konat\u00e9,Danilo Avelar,1
+B. Dibassy,K. Ad\u00e9non,1
+B. Zungu,O. El Hajjam,1
+Danilo Avelar,M. Konat\u00e9,1
+O. El Hajjam,B. Zungu,1
+M. Konat\u00e9,B. Zungu,1
+K. Ad\u00e9non,B. Zungu,1

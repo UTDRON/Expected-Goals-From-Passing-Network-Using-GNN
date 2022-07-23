@@ -1,0 +1,24 @@
+Source,Target,Weight
+M. Sabitzer,K. Kampl,3
+K. Kampl,Bruma,2
+K. Kampl,M. Sabitzer,2
+T. Werner,K. Kampl,2
+Bruma,D. Demme,2
+K. Laimer,M. Sabitzer,1
+W. Orban,M. Sabitzer,1
+K. Kampl,W. Orban,1
+W. Orban,J. Augustin,1
+D. Demme,W. Orban,1
+K. Kampl,D. Upamecano,1
+D. Demme,Bernardo,1
+D. Demme,Bruma,1
+J. Augustin,K. Kampl,1
+P. Gul\u00e1csi,T. Werner,1
+D. Upamecano,P. Gul\u00e1csi,1
+Bernardo,D. Upamecano,1
+W. Orban,K. Laimer,1
+D. Demme,K. Laimer,1
+K. Laimer,D. Demme,1
+M. Sabitzer,T. Werner,1
+D. Upamecano,D. Demme,1
+Bruma,M. Sabitzer,1

@@ -1,0 +1,25 @@
+Source,Target,Weight
+R. van Drongelen,G. Jung,2
+L. Waldschmidt,D. Diekmeier,2
+A. Hahn,L. Waldschmidt,2
+R. van Drongelen,A. Ekdal,2
+D. Diekmeier,A. Hahn,2
+K. Papadopoulos,D. Diekmeier,1
+A. Hahn,A. Hunt,1
+G. Jung,A. Hahn,1
+G. Jung,R. van Drongelen,1
+G. Jung,K. Papadopoulos,1
+D. Diekmeier,A. Ekdal,1
+A. Hunt,R. van Drongelen,1
+K. Papadopoulos,G. Jung,1
+A. Hahn,Walace,1
+R. van Drongelen,K. Papadopoulos,1
+A. Ekdal,A. Hunt,1
+Walace,L. Waldschmidt,1
+A. Ekdal,G. Jung,1
+G. Jung,B. Wood,1
+A. Hunt,A. Ekdal,1
+L. Waldschmidt,R. van Drongelen,1
+A. Ekdal,A. Hahn,1
+B. Wood,R. van Drongelen,1
+A. Ekdal,Walace,1

@@ -1,0 +1,32 @@
+Source,Target,Weight
+J. Morel,Marcelo,4
+J. Morel,J. Ferri,4
+Marcelo,J. Morel,3
+M. Cornet,F. Mendy,3
+N. Fekir,Mariano D\u00edaz,3
+J. Ferri,F. Mendy,3
+Marcelo,K. Tete,3
+F. Mendy,N. Fekir,2
+J. Ferri,M. Cornet,2
+F. Mendy,J. Ferri,2
+F. Mendy,J. Morel,2
+L. Tousart,N. Fekir,1
+J. Ferri,L. Tousart,1
+N. Fekir,M. Cornet,1
+B. Traor\u00e9,J. Ferri,1
+K. Tete,A. Lopes,1
+A. Lopes,J. Morel,1
+K. Tete,J. Morel,1
+J. Morel,F. Mendy,1
+F. Mendy,Marcelo,1
+Mariano D\u00edaz,B. Traor\u00e9,1
+F. Mendy,M. Cornet,1
+B. Traor\u00e9,J. Morel,1
+Mariano D\u00edaz,J. Ferri,1
+K. Tete,Marcelo,1
+J. Ferri,J. Morel,1
+J. Morel,Mariano D\u00edaz,1
+J. Ferri,B. Traor\u00e9,1
+K. Tete,N. Fekir,1
+M. Cornet,J. Morel,1
+Mariano D\u00edaz,F. Mendy,1

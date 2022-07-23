@@ -1,0 +1,50 @@
+Source,Target,Weight
+B. Dabo,Gabriel Silva,5
+Gabriel Silva,K. Monnet-Paquet,3
+Gabriel Silva,B. Dabo,3
+L. Lacroix,B. Dabo,2
+R. Hamouma,R. Cabella,2
+S. Janko,K. Th\u00e9ophile Catherine,2
+K. Monnet-Paquet,R. Hamouma,2
+R. Hamouma,L. Diony,2
+L. Diony,L. Lacroix,2
+R. Cabella,R. Hamouma,2
+K. Monnet-Paquet,Gabriel Silva,2
+Gabriel Silva,S. Janko,2
+V. Pajot,S. Janko,2
+Gabriel Silva,L. Lacroix,1
+R. Cabella,K. Monnet-Paquet,1
+S. Ruffier,K. Th\u00e9ophile Catherine,1
+K. Th\u00e9ophile Catherine,Gabriel Silva,1
+L. Lacroix,R. Cabella,1
+R. Hamouma,L. Lacroix,1
+R. Cabella,S. Janko,1
+K. Th\u00e9ophile Catherine,S. Ruffier,1
+B. Dabo,R. Cabella,1
+K. Th\u00e9ophile Catherine,S. Janko,1
+K. Th\u00e9ophile Catherine,V. Pajot,1
+S. Janko,R. Hamouma,1
+L. Diony,R. Hamouma,1
+L. Diony,K. Th\u00e9ophile Catherine,1
+K. Th\u00e9ophile Catherine,B. Dabo,1
+S. Janko,S. Ruffier,1
+R. Hamouma,S. Janko,1
+K. Monnet-Paquet,L. Lacroix,1
+S. Janko,L. Diony,1
+R. Cabella,L. Diony,1
+S. Ruffier,V. Pajot,1
+V. Pajot,R. Cabella,1
+L. Lacroix,S. Ruffier,1
+S. Janko,L. Lacroix,1
+S. Janko,R. Cabella,1
+B. Dabo,V. Pajot,1
+Gabriel Silva,L. Diony,1
+B. Dabo,K. Monnet-Paquet,1
+S. Ruffier,B. Dabo,1
+L. Diony,Gabriel Silva,1
+L. Lacroix,K. Th\u00e9ophile Catherine,1
+R. Hamouma,Gabriel Silva,1
+L. Lacroix,V. Pajot,1
+B. Dabo,R. Hamouma,1
+R. Cabella,B. Dabo,1
+V. Pajot,B. Dabo,1

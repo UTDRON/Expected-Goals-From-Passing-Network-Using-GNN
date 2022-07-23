@@ -1,0 +1,19 @@
+Source,Target,Weight
+L. Lerager,F. Kamano,2
+F. Kamano,Malcom,2
+Malcom,F. Kamano,1
+Pablo,Y. Sabaly,1
+L. Lerager,Y. Sabaly,1
+J. Kound\u00e9,L. Lerager,1
+M. Poundj\u00e9,S. Me\u00eft\u00e9,1
+Malcom,J. Kound\u00e9,1
+F. Kamano,J. Kound\u00e9,1
+Y. Sabaly,F. Kamano,1
+J. Kound\u00e9,Malcom,1
+Y. Sabaly,B. Costil,1
+B. Costil,Pablo,1
+F. Kamano,M. Poundj\u00e9,1
+Malcom,L. Lerager,1
+Pablo,M. Poundj\u00e9,1
+S. Me\u00eft\u00e9,Pablo,1
+M. Poundj\u00e9,Malcom,1

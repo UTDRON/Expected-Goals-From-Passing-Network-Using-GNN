@@ -1,0 +1,17 @@
+Source,Target,Weight
+M. Sabitzer,D. Demme,2
+L. Klostermann,Y. Poulsen,2
+D. Upamecano,K. Kampl,1
+M. Sabitzer,T. Werner,1
+M. Sabitzer,Bernardo,1
+Y. Poulsen,L. Klostermann,1
+T. Werner,M. Sabitzer,1
+W. Orban,D. Upamecano,1
+Bernardo,D. Upamecano,1
+D. Upamecano,W. Orban,1
+K. Kampl,M. Sabitzer,1
+D. Demme,D. Upamecano,1
+L. Klostermann,M. Sabitzer,1
+M. Sabitzer,L. Klostermann,1
+Y. Poulsen,M. Sabitzer,1
+D. Demme,M. Sabitzer,1

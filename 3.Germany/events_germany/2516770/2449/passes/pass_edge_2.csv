@@ -1,0 +1,27 @@
+Source,Target,Weight
+T. Kehrer,A. Harit,2
+A. Harit,B. Stambouli,2
+B. Stambouli,A. Harit,2
+Y. Konoplyanka,B. Stambouli,2
+L. Goretzka,B. Stambouli,2
+B. Stambouli,L. Goretzka,2
+B. Stambouli,B. Oczipka,2
+B. Stambouli,D. Caligiuri,1
+M. Nastasi\u0107,L. Goretzka,1
+Naldo,A. Harit,1
+B. Oczipka,L. Goretzka,1
+T. Kehrer,Naldo,1
+M. Nastasi\u0107,G. Burgstaller,1
+L. Goretzka,T. Kehrer,1
+G. Burgstaller,B. Stambouli,1
+R. F\u00e4hrmann,G. Burgstaller,1
+B. Stambouli,Y. Konoplyanka,1
+A. Harit,M. Nastasi\u0107,1
+L. Goretzka,M. Nastasi\u0107,1
+D. Caligiuri,B. Stambouli,1
+M. Nastasi\u0107,Y. Konoplyanka,1
+G. Burgstaller,R. F\u00e4hrmann,1
+B. Oczipka,T. Kehrer,1
+B. Oczipka,M. Nastasi\u0107,1
+A. Harit,T. Kehrer,1
+A. Harit,D. Caligiuri,1

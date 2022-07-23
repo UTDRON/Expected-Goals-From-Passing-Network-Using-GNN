@@ -1,0 +1,45 @@
+Source,Target,Weight
+D. Payet,F. Thauvin,4
+H. Sakai,Luiz Gustavo,4
+Luiz Gustavo,J. Amavi,3
+Luiz Gustavo,D. Payet,3
+A. Rami,Luiz Gustavo,2
+A. Rami,H. Sakai,2
+F. Thauvin,A. Rami,2
+F. Thauvin,H. Sakai,2
+A. Rami,F. Thauvin,2
+J. Amavi,Y. Pel\u00e9,2
+A. Rami,A. Zambo Anguissa,2
+A. Zambo Anguissa,A. Rami,2
+Luiz Gustavo,M. Sanson,1
+Rolando,Luiz Gustavo,1
+Luiz Gustavo,H. Sakai,1
+H. Sakai,M. Sanson,1
+D. Payet,Rolando,1
+M. Sanson,D. Payet,1
+M. Sanson,J. Amavi,1
+H. Sakai,A. Rami,1
+Rolando,A. Rami,1
+D. Payet,A. Zambo Anguissa,1
+J. Amavi,H. Sakai,1
+F. Thauvin,Rolando,1
+J. Amavi,Luiz Gustavo,1
+Rolando,Y. Pel\u00e9,1
+M. Sanson,F. Thauvin,1
+Rolando,D. Payet,1
+H. Sakai,A. Zambo Anguissa,1
+H. Sakai,D. Payet,1
+F. Thauvin,D. Payet,1
+Luiz Gustavo,Rolando,1
+Y. Pel\u00e9,H. Sakai,1
+M. Sanson,H. Sakai,1
+Y. Pel\u00e9,A. Rami,1
+A. Zambo Anguissa,J. Amavi,1
+V. Germain,D. Payet,1
+D. Payet,Luiz Gustavo,1
+A. Zambo Anguissa,M. Sanson,1
+Luiz Gustavo,A. Rami,1
+J. Amavi,V. Germain,1
+D. Payet,M. Sanson,1
+Y. Pel\u00e9,Luiz Gustavo,1
+J. Amavi,Rolando,1

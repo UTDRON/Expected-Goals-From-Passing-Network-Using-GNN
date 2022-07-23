@@ -1,0 +1,76 @@
+Source,Target,Weight
+Naldo,M. Nastasi\u0107,12
+M. Nastasi\u0107,B. Oczipka,11
+B. Stambouli,Naldo,6
+D. Caligiuri,B. Stambouli,6
+B. Stambouli,D. Caligiuri,6
+Naldo,W. McKennie,6
+Naldo,B. Stambouli,6
+D. Caligiuri,W. McKennie,5
+A. Harit,Naldo,5
+M. Nastasi\u0107,Naldo,5
+B. Oczipka,M. Meyer,4
+B. Oczipka,Y. Konoplyanka,4
+W. McKennie,D. Caligiuri,4
+D. Caligiuri,A. Harit,4
+W. McKennie,B. Stambouli,4
+D. Caligiuri,G. Burgstaller,3
+D. Caligiuri,Naldo,3
+B. Oczipka,Naldo,3
+B. Stambouli,W. McKennie,3
+W. McKennie,A. Harit,3
+M. Nastasi\u0107,D. Caligiuri,3
+G. Burgstaller,A. Harit,3
+B. Oczipka,M. Nastasi\u0107,3
+B. Stambouli,M. Nastasi\u0107,3
+A. Harit,D. Caligiuri,3
+M. Meyer,Naldo,3
+B. Stambouli,B. Oczipka,3
+W. McKennie,Naldo,3
+Y. Konoplyanka,M. Nastasi\u0107,2
+Naldo,D. Caligiuri,2
+B. Stambouli,A. Harit,2
+D. Caligiuri,Y. Konoplyanka,2
+Y. Konoplyanka,D. Caligiuri,2
+A. Harit,W. McKennie,2
+W. McKennie,M. Nastasi\u0107,2
+D. Caligiuri,M. Meyer,2
+M. Nastasi\u0107,R. F\u00e4hrmann,2
+Y. Konoplyanka,Naldo,2
+B. Oczipka,B. Stambouli,2
+M. Meyer,W. McKennie,2
+M. Nastasi\u0107,Y. Konoplyanka,2
+Y. Konoplyanka,B. Oczipka,2
+B. Oczipka,W. McKennie,2
+M. Meyer,B. Oczipka,2
+A. Harit,B. Stambouli,2
+Naldo,M. Meyer,2
+W. McKennie,B. Oczipka,2
+M. Meyer,B. Stambouli,2
+Naldo,G. Burgstaller,1
+Y. Konoplyanka,A. Harit,1
+M. Nastasi\u0107,G. Burgstaller,1
+W. McKennie,M. Meyer,1
+B. Stambouli,M. Meyer,1
+G. Burgstaller,B. Stambouli,1
+M. Meyer,G. Burgstaller,1
+W. McKennie,Y. Konoplyanka,1
+B. Stambouli,G. Burgstaller,1
+B. Oczipka,D. Caligiuri,1
+Naldo,Y. Konoplyanka,1
+Y. Konoplyanka,B. Stambouli,1
+G. Burgstaller,M. Nastasi\u0107,1
+R. F\u00e4hrmann,D. Caligiuri,1
+Y. Konoplyanka,W. McKennie,1
+Naldo,A. Harit,1
+G. Burgstaller,D. Caligiuri,1
+M. Meyer,D. Caligiuri,1
+B. Oczipka,G. Burgstaller,1
+R. F\u00e4hrmann,Naldo,1
+R. F\u00e4hrmann,B. Stambouli,1
+G. Burgstaller,Naldo,1
+A. Harit,M. Meyer,1
+W. McKennie,R. F\u00e4hrmann,1
+A. Harit,M. Nastasi\u0107,1
+Naldo,B. Oczipka,1
+G. Burgstaller,Y. Konoplyanka,1

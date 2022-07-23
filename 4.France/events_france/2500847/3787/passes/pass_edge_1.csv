@@ -1,0 +1,70 @@
+Source,Target,Weight
+J. Roussillon,P. Lasne,9
+R. Aguilar,E. Skhiri,7
+N. Mukiele,R. Aguilar,7
+P. Lasne,Pedro Mendes,5
+R. Aguilar,N. Mukiele,5
+P. Lasne,J. Roussillon,5
+P. Lasne,E. Skhiri,4
+Pedro Mendes,Hilton,3
+E. Skhiri,R. Aguilar,3
+P. Lasne,R. Aguilar,3
+N. Mukiele,E. Skhiri,3
+J. Roussillon,Pedro Mendes,3
+E. Skhiri,Hilton,3
+P. Lasne,I. Mbenza,3
+C. Ninga,P. Lasne,3
+E. Skhiri,P. Lasne,3
+Pedro Mendes,J. Roussillon,3
+Pedro Mendes,N. Mukiele,3
+E. Skhiri,Pedro Mendes,3
+J. Sambia,P. Lasne,3
+Hilton,J. Roussillon,3
+R. Aguilar,P. Lasne,2
+Pedro Mendes,P. Lasne,2
+E. Skhiri,C. Ninga,2
+E. Skhiri,J. Sambia,2
+C. Ninga,J. Roussillon,2
+R. Aguilar,J. Roussillon,2
+J. Sambia,R. Aguilar,2
+P. Lasne,J. Sambia,2
+I. Mbenza,J. Sambia,2
+J. Roussillon,E. Skhiri,2
+R. Aguilar,I. Mbenza,2
+P. Lasne,N. Mukiele,2
+Pedro Mendes,R. Aguilar,2
+E. Skhiri,N. Mukiele,2
+B. Lecomte,Hilton,2
+B. Lecomte,J. Sambia,1
+P. Lasne,C. Ninga,1
+J. Sambia,C. Ninga,1
+N. Mukiele,J. Sambia,1
+Hilton,P. Lasne,1
+Hilton,E. Skhiri,1
+C. Ninga,E. Skhiri,1
+Hilton,N. Mukiele,1
+C. Ninga,B. Lecomte,1
+J. Roussillon,I. Mbenza,1
+R. Aguilar,Pedro Mendes,1
+Pedro Mendes,B. Lecomte,1
+B. Lecomte,C. Ninga,1
+N. Mukiele,P. Lasne,1
+I. Mbenza,R. Aguilar,1
+I. Mbenza,Pedro Mendes,1
+J. Sambia,B. Lecomte,1
+I. Mbenza,P. Lasne,1
+I. Mbenza,E. Skhiri,1
+Hilton,Pedro Mendes,1
+I. Mbenza,J. Roussillon,1
+N. Mukiele,Hilton,1
+Hilton,R. Aguilar,1
+J. Roussillon,C. Ninga,1
+B. Lecomte,I. Mbenza,1
+N. Mukiele,J. Roussillon,1
+J. Roussillon,R. Aguilar,1
+N. Mukiele,B. Lecomte,1
+E. Skhiri,B. Lecomte,1
+J. Sambia,N. Mukiele,1
+Hilton,B. Lecomte,1
+R. Aguilar,J. Sambia,1
+B. Lecomte,N. Mukiele,1

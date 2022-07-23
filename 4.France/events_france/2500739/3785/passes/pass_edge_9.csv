@@ -1,0 +1,48 @@
+Source,Target,Weight
+J. Briand,R. Camara,4
+C. Kerbrat,Y. Salibur,4
+Y. Salibur,L. Deaux,3
+Y. Salibur,J. Ikoko,3
+Y. Salibur,Pedro Rebocho,2
+L. Deaux,J. Briand,2
+M. Thuram,Y. Salibur,2
+L. Deaux,Pedro Rebocho,2
+R. Camara,Y. Salibur,2
+K. Johnsson,C. Kerbrat,2
+L. Deaux,C. Kerbrat,2
+J. Ikoko,L. Deaux,2
+L. Phiri,J. Briand,2
+Pedro Rebocho,R. Camara,2
+J. Briand,J. Ikoko,2
+J. Ikoko,K. Johnsson,2
+K. Johnsson,J. Ikoko,2
+J. Ikoko,M. Thuram,2
+Pedro Rebocho,L. Deaux,1
+R. Camara,Pedro Rebocho,1
+R. Camara,L. Phiri,1
+R. Camara,L. Deaux,1
+Y. Salibur,M. Thuram,1
+J. Ikoko,J. Briand,1
+J. Briand,L. Deaux,1
+L. Deaux,J. Ikoko,1
+M. Thuram,L. Deaux,1
+K. Johnsson,Pedro Rebocho,1
+J. Ikoko,L. Phiri,1
+L. Deaux,K. Johnsson,1
+K. Johnsson,M. Thuram,1
+F. Eboa Eboa,K. Johnsson,1
+F. Eboa Eboa,J. Briand,1
+C. Kerbrat,L. Phiri,1
+Pedro Rebocho,K. Johnsson,1
+C. Kerbrat,F. Eboa Eboa,1
+Y. Salibur,C. Kerbrat,1
+R. Camara,C. Kerbrat,1
+C. Kerbrat,J. Ikoko,1
+Pedro Rebocho,J. Briand,1
+J. Ikoko,C. Kerbrat,1
+J. Briand,K. Johnsson,1
+Pedro Rebocho,Y. Salibur,1
+M. Thuram,J. Briand,1
+R. Camara,F. Eboa Eboa,1
+L. Deaux,R. Camara,1
+L. Phiri,Y. Salibur,1

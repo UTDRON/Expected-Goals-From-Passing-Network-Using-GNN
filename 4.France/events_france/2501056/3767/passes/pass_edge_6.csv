@@ -1,0 +1,60 @@
+Source,Target,Weight
+L. Diarra,T. Meunier,5
+P. Kimpembe,J. Pastore,5
+J. Pastore,C. Nkunku,5
+P. Kimpembe,L. Diarra,4
+C. Nkunku,P. Kimpembe,4
+A. Rabiot,J. Pastore,4
+T. Motta,A. Rabiot,4
+A. Rabiot,P. Kimpembe,4
+T. Motta,J. Pastore,4
+A. Rabiot,T. Motta,3
+L. Diarra,T. Motta,3
+Yuri Berchiche,A. Rabiot,3
+C. Nkunku,T. Meunier,3
+T. Motta,T. Meunier,3
+Marquinhos,L. Diarra,3
+J. Pastore,L. Diarra,3
+T. Meunier,T. Motta,3
+J. Pastore,A. Rabiot,3
+J. Pastore,T. Motta,2
+T. Motta,L. Diarra,2
+A. Rabiot,Yuri Berchiche,2
+T. Meunier,J. Pastore,2
+P. Kimpembe,Yuri Berchiche,2
+Marquinhos,P. Kimpembe,2
+L. Diarra,P. Kimpembe,2
+P. Kimpembe,A. Rabiot,2
+T. Motta,P. Kimpembe,2
+C. Nkunku,Yuri Berchiche,2
+T. Meunier,C. Nkunku,2
+C. Nkunku,T. Motta,2
+L. Diarra,A. Rabiot,2
+A. Rabiot,C. Nkunku,2
+P. Kimpembe,C. Nkunku,2
+L. Diarra,Marquinhos,2
+T. Meunier,A. Rabiot,2
+J. Pastore,P. Kimpembe,2
+J. Pastore,Marquinhos,1
+Yuri Berchiche,P. Kimpembe,1
+T. Meunier,P. Kimpembe,1
+P. Kimpembe,Marquinhos,1
+A. Rabiot,L. Diarra,1
+J. Pastore,T. Meunier,1
+L. Diarra,C. Nkunku,1
+J. Pastore,T. Weah,1
+T. Motta,Yuri Berchiche,1
+T. Meunier,Marquinhos,1
+Yuri Berchiche,J. Pastore,1
+Yuri Berchiche,C. Nkunku,1
+P. Kimpembe,T. Motta,1
+T. Meunier,L. Diarra,1
+T. Weah,J. Pastore,1
+T. Weah,T. Motta,1
+J. Pastore,A. Ar\u00e9ola,1
+P. Kimpembe,T. Meunier,1
+Marquinhos,J. Pastore,1
+T. Meunier,T. Weah,1
+Yuri Berchiche,T. Motta,1
+A. Ar\u00e9ola,Marquinhos,1
+C. Nkunku,L. Diarra,1

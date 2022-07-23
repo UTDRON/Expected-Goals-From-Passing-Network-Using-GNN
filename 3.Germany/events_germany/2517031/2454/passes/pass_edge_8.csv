@@ -1,0 +1,20 @@
+Source,Target,Weight
+Raffael,J. Drmic,2
+T. Strobl,O. Wendt,1
+O. Wendt,J. Hofmann,1
+M. Cuisance,T. Hazard,1
+Raffael,M. Cuisance,1
+J. Drmic,T. Strobl,1
+N. Elvedi,O. Wendt,1
+O. Wendt,Raffael,1
+M. Ginter,Y. Sommer,1
+Y. Sommer,M. Ginter,1
+Y. Sommer,T. Strobl,1
+T. Hazard,J. Hofmann,1
+J. Hofmann,Y. Sommer,1
+J. Hofmann,J. Drmic,1
+M. Cuisance,Raffael,1
+Y. Sommer,J. Drmic,1
+T. Strobl,Y. Sommer,1
+J. Drmic,Raffael,1
+J. Drmic,N. Elvedi,1

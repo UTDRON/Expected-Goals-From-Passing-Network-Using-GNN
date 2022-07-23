@@ -1,0 +1,24 @@
+Source,Target,Weight
+D. Diekmeier,A. Hunt,2
+A. Hunt,M. Mavraj,1
+C. Mathenia,D. Diekmeier,1
+K. Papadopoulos,G. Sakai,1
+B. Wood,J. Arp,1
+Douglas Santos,K. Papadopoulos,1
+G. Sakai,D. Diekmeier,1
+J. Arp,C. Mathenia,1
+M. Mavraj,Douglas Santos,1
+J. Arp,G. Sakai,1
+Douglas Santos,G. Jung,1
+A. Hunt,Douglas Santos,1
+G. Jung,D. Diekmeier,1
+G. Sakai,K. Papadopoulos,1
+G. Sakai,Douglas Santos,1
+K. Papadopoulos,M. Mavraj,1
+B. Wood,G. Sakai,1
+D. Diekmeier,K. Papadopoulos,1
+F. Kosti\u0107,B. Wood,1
+Douglas Santos,J. Arp,1
+M. Mavraj,D. Diekmeier,1
+K. Papadopoulos,B. Wood,1
+D. Diekmeier,J. Arp,1

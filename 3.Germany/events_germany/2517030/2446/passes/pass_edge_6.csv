@@ -1,0 +1,105 @@
+Source,Target,Weight
+L. Bailey,P. Retsos,10
+P. Retsos,L. Bailey,9
+K. Volland,L. Bailey,7
+D. Kohr,P. Retsos,6
+P. Retsos,C. Ar\u00e1nguiz,6
+T. Jedvaj,P. Retsos,6
+K. Havertz,J. Brandt,5
+P. Retsos,T. Jedvaj,5
+Wendell,J. Brandt,5
+J. Brandt,D. Kohr,5
+C. Ar\u00e1nguiz,D. Kohr,5
+C. Ar\u00e1nguiz,T. Jedvaj,4
+D. Kohr,C. Ar\u00e1nguiz,4
+B. Henrichs,K. Havertz,4
+B. Leno,J. Baumgartlinger,4
+C. Ar\u00e1nguiz,K. Volland,4
+P. Retsos,D. Kohr,4
+J. Brandt,Wendell,4
+C. Ar\u00e1nguiz,P. Retsos,4
+J. Brandt,J. Baumgartlinger,3
+Wendell,T. Jedvaj,3
+T. Jedvaj,B. Leno,3
+T. Jedvaj,C. Ar\u00e1nguiz,3
+J. Brandt,B. Henrichs,3
+B. Leno,C. Ar\u00e1nguiz,3
+J. Baumgartlinger,T. Jedvaj,3
+K. Havertz,C. Ar\u00e1nguiz,3
+L. Alario,B. Henrichs,3
+Wendell,J. Baumgartlinger,3
+L. Bailey,D. Kohr,3
+L. Bailey,Wendell,3
+C. Ar\u00e1nguiz,B. Leno,3
+B. Leno,T. Jedvaj,3
+K. Volland,K. Havertz,3
+D. Kohr,T. Jedvaj,2
+P. Retsos,Wendell,2
+C. Ar\u00e1nguiz,L. Bailey,2
+L. Bailey,K. Havertz,2
+K. Volland,P. Retsos,2
+K. Havertz,P. Retsos,2
+K. Volland,J. Brandt,2
+P. Retsos,J. Baumgartlinger,2
+L. Bailey,K. Volland,2
+J. Baumgartlinger,L. Alario,2
+B. Henrichs,C. Ar\u00e1nguiz,2
+C. Ar\u00e1nguiz,J. Brandt,2
+K. Havertz,L. Bailey,2
+Wendell,K. Volland,2
+K. Havertz,B. Henrichs,2
+C. Ar\u00e1nguiz,K. Havertz,2
+D. Kohr,J. Brandt,2
+J. Brandt,K. Volland,2
+L. Bailey,C. Ar\u00e1nguiz,2
+P. Retsos,B. Leno,2
+J. Baumgartlinger,C. Ar\u00e1nguiz,2
+D. Kohr,B. Leno,2
+D. Kohr,Wendell,2
+T. Jedvaj,D. Kohr,2
+K. Havertz,L. Alario,1
+K. Bellarabi,L. Alario,1
+J. Baumgartlinger,J. Brandt,1
+C. Ar\u00e1nguiz,Wendell,1
+J. Baumgartlinger,Wendell,1
+B. Henrichs,J. Baumgartlinger,1
+J. Baumgartlinger,B. Henrichs,1
+T. Jedvaj,J. Baumgartlinger,1
+P. Retsos,L. Alario,1
+T. Jedvaj,L. Bailey,1
+J. Brandt,K. Havertz,1
+J. Baumgartlinger,P. Retsos,1
+T. Jedvaj,K. Volland,1
+J. Brandt,L. Bailey,1
+B. Leno,K. Volland,1
+J. Baumgartlinger,B. Leno,1
+B. Henrichs,J. Brandt,1
+L. Bailey,B. Henrichs,1
+Wendell,K. Havertz,1
+P. Retsos,K. Bellarabi,1
+J. Baumgartlinger,K. Bellarabi,1
+P. Retsos,K. Volland,1
+D. Kohr,K. Havertz,1
+B. Henrichs,B. Leno,1
+P. Retsos,K. Havertz,1
+Wendell,C. Ar\u00e1nguiz,1
+B. Henrichs,L. Alario,1
+K. Volland,C. Ar\u00e1nguiz,1
+T. Jedvaj,J. Brandt,1
+J. Baumgartlinger,L. Bailey,1
+L. Alario,P. Retsos,1
+L. Alario,J. Brandt,1
+D. Kohr,L. Bailey,1
+J. Baumgartlinger,D. Kohr,1
+K. Bellarabi,P. Retsos,1
+L. Bailey,L. Alario,1
+K. Bellarabi,K. Volland,1
+T. Jedvaj,Wendell,1
+J. Brandt,L. Alario,1
+P. Retsos,B. Henrichs,1
+K. Havertz,J. Baumgartlinger,1
+L. Alario,K. Volland,1
+T. Jedvaj,K. Bellarabi,1
+L. Alario,K. Havertz,1
+B. Henrichs,P. Retsos,1
+B. Leno,P. Retsos,1

@@ -1,0 +1,16 @@
+Source,Target,Weight
+M. Meyer,F. Di Santo,2
+F. Di Santo,B. Oczipka,2
+Naldo,M. Nastasi\u0107,2
+B. Stambouli,Naldo,2
+B. Oczipka,F. Di Santo,2
+M. Nastasi\u0107,M. Meyer,1
+D. Caligiuri,N. Bentaleb,1
+F. Di Santo,M. Nastasi\u0107,1
+B. Stambouli,F. Di Santo,1
+N. Bentaleb,M. Meyer,1
+M. Nastasi\u0107,B. Stambouli,1
+M. Meyer,B. Stambouli,1
+M. Nastasi\u0107,Naldo,1
+Naldo,D. Caligiuri,1
+F. Di Santo,M. Meyer,1

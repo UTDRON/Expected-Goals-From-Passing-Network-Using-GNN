@@ -1,0 +1,23 @@
+Source,Target,Weight
+C. Kramer,R. Oxford,3
+L. Stindl,C. Kramer,2
+M. Cuisance,L. Stindl,2
+R. Oxford,M. Ginter,1
+M. Cuisance,T. Hazard,1
+T. Hazard,M. Ginter,1
+C. Kramer,L. Stindl,1
+T. Hazard,M. Cuisance,1
+M. Ginter,M. Cuisance,1
+M. Ginter,L. Stindl,1
+T. Hazard,C. Kramer,1
+M. Cuisance,C. Kramer,1
+R. Oxford,N. Elvedi,1
+C. Kramer,R. Bobadilla,1
+N. Elvedi,T. Hazard,1
+R. Oxford,C. Kramer,1
+R. Oxford,M. Cuisance,1
+J. Vestergaard,R. Oxford,1
+T. Hazard,R. Oxford,1
+L. Stindl,M. Cuisance,1
+L. Stindl,T. Hazard,1
+R. Oxford,T. Hazard,1

@@ -1,0 +1,90 @@
+Source,Target,Weight
+G. Kakuta,O. El Hajjam,8
+O. El Hajjam,G. Kakuta,6
+O. El Hajjam,P. Gouano,5
+B. Dibassy,Danilo Avelar,5
+K. Ad\u00e9non,P. Gouano,5
+P. Gouano,R. Gurtner,4
+P. Gouano,K. Ad\u00e9non,4
+Danilo Avelar,G. Kakuta,4
+T. Monconduit,P. Gouano,4
+P. Gouano,G. N'Gosso,4
+G. N'Gosso,G. Fofana,3
+T. Monconduit,G. N'Gosso,3
+G. Fofana,P. Gouano,3
+G. Kakuta,T. Monconduit,3
+G. N'Gosso,K. Ad\u00e9non,3
+G. Kakuta,Danilo Avelar,3
+O. El Hajjam,G. Fofana,3
+S. Mendoza,G. Kakuta,3
+P. Gouano,O. El Hajjam,3
+G. N'Gosso,T. Monconduit,3
+K. Ad\u00e9non,G. N'Gosso,3
+K. Ad\u00e9non,B. Dibassy,3
+B. Dibassy,O. El Hajjam,2
+R. Gurtner,G. Kakuta,2
+Danilo Avelar,B. Dibassy,2
+R. Gurtner,P. Gouano,2
+O. El Hajjam,S. Mendoza,2
+K. Ad\u00e9non,R. Gurtner,2
+P. Gouano,B. Dibassy,2
+R. Gurtner,O. El Hajjam,2
+K. Ad\u00e9non,G. Fofana,2
+B. Dibassy,G. Kakuta,2
+G. Fofana,G. N'Gosso,2
+G. N'Gosso,G. Kakuta,2
+S. Mendoza,T. Monconduit,2
+G. Kakuta,G. Fofana,2
+G. Kakuta,K. Ad\u00e9non,2
+G. Kakuta,B. Dibassy,2
+G. Fofana,T. Monconduit,2
+Danilo Avelar,K. Ad\u00e9non,2
+Danilo Avelar,G. N'Gosso,2
+P. Gouano,G. Fofana,2
+G. Fofana,R. Gurtner,1
+G. Fofana,O. El Hajjam,1
+T. Monconduit,B. Dibassy,1
+T. Monconduit,G. Kakuta,1
+T. Monconduit,O. El Hajjam,1
+S. Mendoza,O. El Hajjam,1
+R. Gurtner,K. Ad\u00e9non,1
+G. Fofana,S. Mendoza,1
+O. El Hajjam,G. N'Gosso,1
+O. El Hajjam,Danilo Avelar,1
+Danilo Avelar,O. El Hajjam,1
+G. N'Gosso,O. El Hajjam,1
+Danilo Avelar,P. Gouano,1
+G. N'Gosso,P. Gouano,1
+P. Gouano,G. Kakuta,1
+G. Kakuta,R. Gurtner,1
+T. Monconduit,Danilo Avelar,1
+Danilo Avelar,G. Fofana,1
+K. Ad\u00e9non,O. El Hajjam,1
+G. N'Gosso,B. Dibassy,1
+R. Gurtner,Danilo Avelar,1
+S. Mendoza,K. Ad\u00e9non,1
+R. Gurtner,G. Fofana,1
+K. Ad\u00e9non,G. Kakuta,1
+G. Kakuta,P. Gouano,1
+G. N'Gosso,S. Mendoza,1
+G. Fofana,G. Kakuta,1
+K. Ad\u00e9non,S. Mendoza,1
+S. Mendoza,Danilo Avelar,1
+G. N'Gosso,R. Gurtner,1
+T. Monconduit,K. Ad\u00e9non,1
+T. Monconduit,S. Mendoza,1
+P. Gouano,T. Monconduit,1
+O. El Hajjam,K. Ad\u00e9non,1
+R. Gurtner,T. Monconduit,1
+O. El Hajjam,T. Monconduit,1
+P. Gouano,S. Mendoza,1
+B. Dibassy,S. Mendoza,1
+S. Mendoza,G. N'Gosso,1
+B. Dibassy,R. Gurtner,1
+O. El Hajjam,B. Dibassy,1
+G. Kakuta,S. Mendoza,1
+B. Dibassy,K. Ad\u00e9non,1
+G. Fofana,K. Ad\u00e9non,1
+G. Fofana,B. Dibassy,1
+B. Dibassy,P. Gouano,1
+G. Fofana,Danilo Avelar,1

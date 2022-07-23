@@ -1,0 +1,41 @@
+Source,Target,Weight
+J. Amavi,Luiz Gustavo,4
+A. Abdennour,J. Amavi,4
+Luiz Gustavo,A. Zambo Anguissa,3
+S. Mandanda,L. Ocampos,3
+J. Amavi,A. Abdennour,2
+A. Zambo Anguissa,L. Ocampos,2
+A. Zambo Anguissa,M. Lopez,2
+L. Ocampos,M. Lopez,2
+Luiz Gustavo,J. Amavi,2
+M. Lopez,J. Amavi,2
+L. Ocampos,F. Thauvin,2
+F. Thauvin,A. Zambo Anguissa,1
+A. Zambo Anguissa,K. Mitroglou,1
+M. Lopez,A. Zambo Anguissa,1
+A. Zambo Anguissa,A. Abdennour,1
+K. Mitroglou,M. Lopez,1
+A. Abdennour,S. Mandanda,1
+B. Sarr,A. Zambo Anguissa,1
+L. Ocampos,K. Mitroglou,1
+M. Lopez,Luiz Gustavo,1
+Luiz Gustavo,M. Lopez,1
+J. Amavi,B. Sarr,1
+K. Mitroglou,Luiz Gustavo,1
+A. Zambo Anguissa,S. Mandanda,1
+J. Amavi,L. Ocampos,1
+M. Lopez,A. Abdennour,1
+S. Mandanda,K. Mitroglou,1
+A. Rami,A. Zambo Anguissa,1
+L. Ocampos,B. Sarr,1
+A. Rami,Luiz Gustavo,1
+K. Mitroglou,A. Zambo Anguissa,1
+F. Thauvin,S. Mandanda,1
+L. Ocampos,J. Amavi,1
+S. Mandanda,A. Abdennour,1
+A. Zambo Anguissa,A. Rami,1
+A. Abdennour,A. Rami,1
+Luiz Gustavo,K. Mitroglou,1
+J. Amavi,S. Mandanda,1
+B. Sarr,S. Mandanda,1
+K. Mitroglou,L. Ocampos,1

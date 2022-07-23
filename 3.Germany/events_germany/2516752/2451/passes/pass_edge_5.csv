@@ -1,0 +1,112 @@
+Source,Target,Weight
+Y. Gerhardt,M. Arnold,10
+M. Tisserand,Camacho,9
+P. Verhaegh,M. Tisserand,7
+D. Didavi,Y. Gerhardt,6
+J. Guilavogui,P. Verhaegh,6
+M. Arnold,Y. Gerhardt,6
+L. Dimata,P. Verhaegh,6
+R. Bazoer,P. Verhaegh,6
+M. Arnold,D. Didavi,6
+M. Arnold,R. Knoche,5
+Y. Gerhardt,D. Didavi,5
+R. Knoche,M. Arnold,5
+R. Knoche,Y. Gerhardt,5
+P. Verhaegh,L. Dimata,5
+P. Verhaegh,M. G\u00f3mez,5
+Camacho,R. Knoche,5
+J. Guilavogui,R. Bazoer,4
+R. Bazoer,J. Guilavogui,4
+M. G\u00f3mez,Y. Gerhardt,4
+D. Didavi,R. Knoche,4
+Camacho,J. Guilavogui,4
+R. Knoche,J. Guilavogui,4
+K. Casteels,L. Dimata,4
+M. G\u00f3mez,M. Tisserand,4
+P. Verhaegh,M. Arnold,4
+M. Tisserand,P. Verhaegh,4
+D. Didavi,J. Guilavogui,4
+Y. Gerhardt,R. Bazoer,4
+J. Guilavogui,Camacho,4
+M. Arnold,J. Guilavogui,4
+M. Tisserand,J. Guilavogui,4
+M. Arnold,Camacho,4
+Camacho,M. Arnold,3
+M. Tisserand,K. Casteels,3
+Y. Gerhardt,R. Knoche,3
+P. Verhaegh,D. Didavi,3
+J. Guilavogui,R. Knoche,3
+J. Guilavogui,M. Tisserand,3
+K. Casteels,J. Guilavogui,3
+K. Casteels,M. G\u00f3mez,3
+D. Didavi,M. Arnold,3
+J. Guilavogui,M. G\u00f3mez,3
+Camacho,M. G\u00f3mez,3
+L. Dimata,R. Knoche,3
+R. Knoche,L. Dimata,3
+M. G\u00f3mez,D. Didavi,3
+P. Verhaegh,R. Bazoer,3
+R. Bazoer,K. Casteels,3
+R. Knoche,D. Didavi,3
+R. Knoche,K. Casteels,3
+J. Guilavogui,K. Casteels,3
+Camacho,M. Tisserand,3
+M. Arnold,P. Verhaegh,3
+L. Dimata,M. Tisserand,3
+D. Didavi,P. Verhaegh,2
+Camacho,P. Verhaegh,2
+Camacho,Y. Gerhardt,2
+J. Guilavogui,D. Didavi,2
+D. Didavi,Camacho,2
+M. G\u00f3mez,Camacho,2
+D. Didavi,M. G\u00f3mez,2
+Camacho,R. Bazoer,2
+D. Didavi,K. Casteels,2
+M. Tisserand,M. G\u00f3mez,2
+Y. Gerhardt,L. Dimata,2
+P. Verhaegh,R. Knoche,2
+R. Knoche,Camacho,2
+J. Guilavogui,Y. Gerhardt,2
+L. Dimata,M. Arnold,2
+R. Bazoer,R. Knoche,2
+M. Tisserand,R. Knoche,2
+R. Bazoer,Y. Gerhardt,2
+R. Bazoer,D. Didavi,2
+M. G\u00f3mez,M. Arnold,2
+Camacho,D. Didavi,2
+K. Casteels,M. Tisserand,2
+M. Arnold,R. Bazoer,2
+R. Knoche,R. Bazoer,2
+R. Knoche,M. Tisserand,2
+M. Tisserand,L. Dimata,2
+L. Dimata,J. Guilavogui,2
+Y. Gerhardt,M. G\u00f3mez,2
+R. Bazoer,M. Tisserand,2
+K. Casteels,Camacho,2
+K. Casteels,R. Bazoer,1
+Y. Gerhardt,Y. Mall\u0131,1
+L. Dimata,Camacho,1
+D. Didavi,R. Bazoer,1
+M. Arnold,L. Dimata,1
+M. Arnold,M. Tisserand,1
+M. Tisserand,R. Bazoer,1
+Y. Mall\u0131,M. Arnold,1
+M. G\u00f3mez,J. Guilavogui,1
+P. Verhaegh,J. Guilavogui,1
+Y. Gerhardt,K. Casteels,1
+J. Guilavogui,M. Arnold,1
+M. G\u00f3mez,R. Bazoer,1
+K. Casteels,Y. Gerhardt,1
+M. G\u00f3mez,K. Casteels,1
+M. Tisserand,Y. Gerhardt,1
+Camacho,K. Casteels,1
+M. G\u00f3mez,P. Verhaegh,1
+L. Dimata,D. Didavi,1
+P. Verhaegh,Camacho,1
+Y. Gerhardt,M. Tisserand,1
+K. Casteels,M. Arnold,1
+R. Knoche,M. G\u00f3mez,1
+M. G\u00f3mez,L. Dimata,1
+D. Didavi,L. Dimata,1
+L. Dimata,K. Casteels,1
+K. Casteels,P. Verhaegh,1

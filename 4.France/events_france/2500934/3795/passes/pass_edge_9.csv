@@ -1,0 +1,16 @@
+Source,Target,Weight
+J. Giraudon,M. Deplagne,2
+J. Giraudon,S. Khaoui,2
+S. Khaoui,J. Giraudon,2
+R. Walter,K. Azamoum,1
+E. Zelazny,M. Deplagne,1
+K. Azamoum,J. Giraudon,1
+R. Walter,M. Deplagne,1
+M. Deplagne,J. Giraudon,1
+M. Deplagne,R. Walter,1
+S. Khaoui,R. Walter,1
+K. Azamoum,B. Nivet,1
+M. Deplagne,K. Azamoum,1
+B. Nivet,S. Khaoui,1
+J. Giraudon,E. Zelazny,1
+M. Deplagne,A. Niane,1

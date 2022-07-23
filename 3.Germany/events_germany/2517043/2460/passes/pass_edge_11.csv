@@ -1,0 +1,18 @@
+Source,Target,Weight
+A. Hack,G. Donati,2
+G. Donati,G. Holtmann,2
+G. Holtmann,A. Hack,1
+J. Gbamin,A. Maxim,1
+Y. Muto,D. Brosinski,1
+D. Brosinski,Y. Muto,1
+G. Holtmann,A. Maxim,1
+R. Baku,P. De Blasis,1
+G. Holtmann,D. Brosinski,1
+P. De Blasis,G. Holtmann,1
+R. Baku,J. Gbamin,1
+D. Brosinski,R. Baku,1
+A. Maxim,G. Holtmann,1
+R. Baku,D. Brosinski,1
+D. Brosinski,J. Gbamin,1
+A. Maxim,R. Baku,1
+J. Gbamin,R. Baku,1

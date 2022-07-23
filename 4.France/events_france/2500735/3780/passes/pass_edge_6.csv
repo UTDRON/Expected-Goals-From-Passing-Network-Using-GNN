@@ -1,0 +1,33 @@
+Source,Target,Weight
+I. Diop,C. Jullien,4
+C. Jullien,F. Moubandje,2
+C. Jullien,A. Blin,2
+F. Moubandje,I. Diop,2
+C. Jullien,I. Diop,2
+I. Diop,A. Blin,1
+I. Diop,F. Moubandje,1
+F. Moubandje,I. Sylla,1
+C. Jean,I. Diop,1
+I. Sylla,A. Delort,1
+A. Delort,F. Moubandje,1
+A. Lafont,I. Sylla,1
+I. Sylla,C. Jullien,1
+O. Toivonen,I. Sylla,1
+A. Blin,I. Diop,1
+I. Diop,K. Amian,1
+C. Jullien,A. Lafont,1
+A. Delort,K. Amian,1
+C. Jullien,A. Delort,1
+A. Lafont,C. Jullien,1
+A. Blin,C. Jullien,1
+F. Moubandje,A. Lafont,1
+F. Moubandje,C. Jullien,1
+O. Toivonen,F. Moubandje,1
+A. Blin,Som\u00e1lia,1
+K. Amian,I. Diop,1
+I. Sylla,O. Toivonen,1
+Som\u00e1lia,A. Delort,1
+I. Sylla,F. Moubandje,1
+A. Delort,Som\u00e1lia,1
+F. Moubandje,C. Jean,1
+Som\u00e1lia,O. Toivonen,1

@@ -1,0 +1,40 @@
+Source,Target,Weight
+M. Le Marchand,Dante,3
+Dante,J. Seri,2
+J. Seri,Dante,2
+J. Seri,A. Souquet,2
+M. Le Marchand,A. Pl\u00e9a,2
+W. Cyprien,B. Srarfi,2
+Dante,Marlon,2
+Marlon,J. Seri,2
+W. Cyprien,J. Seri,1
+Dante,M. Le Marchand,1
+Dante,W. Ben\u00edtez,1
+W. Ben\u00edtez,B. Srarfi,1
+J. Seri,W. Cyprien,1
+A. Souquet,Marlon,1
+A. Souquet,M. Le Marchand,1
+B. Srarfi,M. Le Marchand,1
+Marlon,Dante,1
+A. Pl\u00e9a,M. Le Marchand,1
+A. Souquet,W. Cyprien,1
+W. Cyprien,A. Pl\u00e9a,1
+M. Balotelli,B. Srarfi,1
+M. Le Marchand,M. Balotelli,1
+B. Srarfi,W. Ben\u00edtez,1
+W. Ben\u00edtez,J. Seri,1
+Marlon,A. Souquet,1
+M. Balotelli,W. Cyprien,1
+J. Seri,M. Balotelli,1
+J. Seri,Marlon,1
+W. Cyprien,M. Le Marchand,1
+A. Souquet,B. Srarfi,1
+B. Srarfi,M. Le Bihan,1
+M. Balotelli,M. Le Marchand,1
+A. Pl\u00e9a,M. Balotelli,1
+Dante,W. Cyprien,1
+M. Le Bihan,W. Cyprien,1
+B. Srarfi,Dante,1
+B. Srarfi,J. Seri,1
+A. Pl\u00e9a,J. Seri,1
+J. Seri,A. Pl\u00e9a,1

@@ -1,0 +1,6 @@
+Source,Target,Weight
+L. Blas,C. Kerbrat,1
+M. Coco,L. Blas,1
+L. Blas,M. Coco,1
+C. Kerbrat,M. Coco,1
+M. Coco,F. Tabanou,1

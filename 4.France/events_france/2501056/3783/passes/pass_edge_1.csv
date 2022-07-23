@@ -1,0 +1,57 @@
+Source,Target,Weight
+F. Guilbert,R. Genevois,4
+B. Samba,I. Santini,4
+R. Genevois,F. Guilbert,3
+R. Genevois,R. Rodelin,3
+D. Da Silva,R. Genevois,2
+A. Djiku,A. Mbengue,2
+A. Djiku,Y. A\u00eft Bennasser,2
+I. Santini,A. Djiku,2
+J. F\u00e9ret,A. Mbengue,2
+Y. A\u00eft Bennasser,D. Da Silva,2
+I. Santini,J. F\u00e9ret,2
+A. Mbengue,A. Djiku,2
+I. Santini,J. Deminguet,2
+J. Deminguet,A. Mbengue,2
+A. Mbengue,I. Santini,2
+R. Rodelin,F. Guilbert,2
+A. Djiku,B. Samba,2
+Y. A\u00eft Bennasser,A. Mbengue,2
+A. Djiku,I. Santini,2
+D. Da Silva,I. Santini,1
+D. Da Silva,B. Samba,1
+J. F\u00e9ret,Y. A\u00eft Bennasser,1
+A. Djiku,J. F\u00e9ret,1
+J. F\u00e9ret,I. Santini,1
+Y. A\u00eft Bennasser,B. Samba,1
+R. Rodelin,D. Da Silva,1
+I. Santini,Y. A\u00eft Bennasser,1
+J. Deminguet,J. F\u00e9ret,1
+D. Da Silva,R. Rodelin,1
+A. Mbengue,Y. A\u00eft Bennasser,1
+I. Santini,D. Da Silva,1
+F. Guilbert,I. Santini,1
+F. Guilbert,A. Djiku,1
+F. Guilbert,J. F\u00e9ret,1
+R. Genevois,Y. A\u00eft Bennasser,1
+A. Mbengue,D. Da Silva,1
+R. Rodelin,A. Djiku,1
+A. Mbengue,J. Deminguet,1
+J. Deminguet,A. Djiku,1
+I. Santini,R. Genevois,1
+J. F\u00e9ret,J. Deminguet,1
+F. Guilbert,B. Samba,1
+I. Santini,B. Samba,1
+R. Genevois,D. Da Silva,1
+I. Santini,A. Mbengue,1
+A. Mbengue,F. Guilbert,1
+A. Mbengue,J. F\u00e9ret,1
+B. Samba,A. Djiku,1
+Y. A\u00eft Bennasser,R. Rodelin,1
+B. Samba,R. Genevois,1
+R. Rodelin,I. Santini,1
+D. Da Silva,F. Guilbert,1
+F. Guilbert,D. Da Silva,1
+J. F\u00e9ret,F. Guilbert,1
+D. Da Silva,A. Djiku,1
+I. Santini,F. Guilbert,1

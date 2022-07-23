@@ -1,0 +1,57 @@
+Source,Target,Weight
+G. Donati,L. \u00d6ztunali,5
+L. Balogun,G. Donati,5
+D. Brosinski,D. Latza,3
+E. Berggreen,A. Hack,3
+P. De Blasis,D. Brosinski,3
+G. Donati,A. Hack,3
+D. Latza,L. Balogun,3
+L. \u00d6ztunali,A. Hack,3
+A. Hack,D. Brosinski,3
+S. Serdar,L. \u00d6ztunali,2
+L. \u00d6ztunali,S. Serdar,2
+D. Latza,D. Brosinski,2
+A. Hack,D. Latza,2
+R. Adler,E. Berggreen,2
+L. Balogun,L. \u00d6ztunali,2
+A. Hack,G. Donati,2
+L. \u00d6ztunali,L. Balogun,2
+D. Brosinski,A. Hack,2
+J. Gbamin,S. Serdar,2
+E. Berggreen,G. Donati,2
+A. Hack,L. Balogun,2
+L. \u00d6ztunali,P. De Blasis,2
+L. Balogun,E. Berggreen,1
+A. Hack,R. Adler,1
+P. De Blasis,G. Donati,1
+G. Donati,E. Berggreen,1
+A. Hack,L. \u00d6ztunali,1
+L. Balogun,A. Hack,1
+L. \u00d6ztunali,E. Berggreen,1
+A. Hack,J. Gbamin,1
+J. Gbamin,L. Balogun,1
+R. Adler,A. Hack,1
+E. Berggreen,D. Latza,1
+D. Brosinski,P. De Blasis,1
+R. Adler,L. Balogun,1
+G. Donati,L. Balogun,1
+L. Balogun,J. Gbamin,1
+A. Hack,P. De Blasis,1
+S. Serdar,D. Latza,1
+L. \u00d6ztunali,G. Donati,1
+S. Serdar,J. Gbamin,1
+D. Brosinski,R. Adler,1
+J. Gbamin,E. Berggreen,1
+P. De Blasis,L. Balogun,1
+D. Brosinski,E. Berggreen,1
+D. Latza,E. Berggreen,1
+E. Berggreen,S. Serdar,1
+S. Serdar,P. De Blasis,1
+L. Balogun,D. Latza,1
+G. Donati,P. De Blasis,1
+D. Latza,R. Adler,1
+S. Serdar,R. Adler,1
+D. Latza,S. Serdar,1
+G. Donati,S. Serdar,1
+E. Berggreen,L. \u00d6ztunali,1
+P. De Blasis,J. Gbamin,1

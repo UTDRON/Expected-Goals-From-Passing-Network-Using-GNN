@@ -1,0 +1,38 @@
+Source,Target,Weight
+J. Vestergaard,M. Ginter,4
+M. Ginter,J. Vestergaard,3
+C. Kramer,Raffael,2
+N. Elvedi,J. Drmic,2
+L. Stindl,Raffael,2
+N. Elvedi,L. Stindl,2
+L. Stindl,C. Kramer,2
+M. Ginter,N. Elvedi,2
+M. Ginter,C. Kramer,2
+C. Kramer,L. Stindl,2
+Raffael,N. Elvedi,2
+N. Elvedi,M. Ginter,2
+C. Kramer,M. Ginter,1
+L. Stindl,J. Vestergaard,1
+L. Stindl,M. Ginter,1
+Raffael,T. Hazard,1
+T. Hazard,Raffael,1
+Raffael,T. Jantschke,1
+T. Jantschke,R. Bobadilla,1
+T. Hazard,J. Vestergaard,1
+T. Jantschke,L. Stindl,1
+J. Vestergaard,Raffael,1
+J. Hofmann,L. Stindl,1
+Raffael,J. Hofmann,1
+Raffael,C. Kramer,1
+L. Stindl,N. Elvedi,1
+J. Drmic,M. Ginter,1
+J. Vestergaard,C. Kramer,1
+Raffael,L. Stindl,1
+M. Ginter,T. Jantschke,1
+R. Bobadilla,T. Jantschke,1
+T. Jantschke,T. Hazard,1
+C. Kramer,J. Vestergaard,1
+M. Ginter,Raffael,1
+T. Hazard,N. Elvedi,1
+L. Stindl,J. Drmic,1
+J. Drmic,T. Hazard,1

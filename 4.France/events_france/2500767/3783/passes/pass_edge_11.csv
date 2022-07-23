@@ -1,0 +1,27 @@
+Source,Target,Weight
+D. Da Silva,J. Repas,2
+J. Repas,A. Mbengue,2
+J. F\u00e9ret,D. Da Silva,2
+A. Mbengue,J. F\u00e9ret,2
+A. Mbengue,R. Genevois,1
+H. Bazile,J. F\u00e9ret,1
+J. Repas,H. Bazile,1
+R. Rodelin,J. Nkololo,1
+R. Genevois,D. Da Silva,1
+H. Bazile,F. Guilbert,1
+R. Rodelin,H. Bazile,1
+R. Vercoutre,H. Bazile,1
+J. Repas,J. F\u00e9ret,1
+J. F\u00e9ret,A. Mbengue,1
+A. Mbengue,J. Nkololo,1
+J. F\u00e9ret,J. Repas,1
+D. Da Silva,R. Rodelin,1
+J. Nkololo,R. Rodelin,1
+R. Genevois,Y. A\u00eft Bennasser,1
+J. Repas,D. Da Silva,1
+J. Nkololo,A. Mbengue,1
+H. Bazile,R. Genevois,1
+F. Guilbert,J. Nkololo,1
+J. Nkololo,J. Repas,1
+Y. A\u00eft Bennasser,D. Da Silva,1
+D. Da Silva,R. Vercoutre,1

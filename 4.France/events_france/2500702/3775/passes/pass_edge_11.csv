@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Souquet,Dante,4
+Dante,J. Seri,3
+H. Mahou,A. Souquet,2
+Dante,M. Le Marchand,1
+V. Koziello,M. Sarr,1
+J. Seri,M. Sarr,1
+P. Lees Melou,V. Koziello,1
+J. Seri,A. Saint-Maximin,1
+J. Seri,P. Lees Melou,1
+M. Sarr,A. Saint-Maximin,1
+M. Le Marchand,M. Sarr,1
+M. Le Marchand,J. Seri,1
+M. Sarr,Y. Cardinale,1
+M. Sarr,M. Le Marchand,1
+Y. Cardinale,Dante,1
+A. Pl\u00e9a,H. Mahou,1
+J. Seri,V. Koziello,1
+M. Le Marchand,A. Pl\u00e9a,1
+Dante,A. Souquet,1
+V. Koziello,A. Souquet,1
+A. Saint-Maximin,H. Mahou,1

@@ -1,0 +1,64 @@
+Source,Target,Weight
+T. Lemar,Fabinho,5
+Fabinho,Jorge,3
+Jemerson,Fabinho,3
+Jorge,Jo\u00e3o Moutinho,3
+Fabinho,T. Lemar,3
+D. Sidib\u00e9,A. Saint-Maximin,3
+A. Saint-Maximin,D. Sidib\u00e9,3
+Jo\u00e3o Moutinho,Jorge,3
+R. Falcao,T. Lemar,2
+Fabinho,Jo\u00e3o Moutinho,2
+Fabinho,G. Carrillo,2
+G. Carrillo,Fabinho,2
+Jorge,D. Suba\u0161i\u0107,2
+K. Glik,T. Lemar,2
+Jo\u00e3o Moutinho,R. Falcao,2
+Fabinho,Jemerson,2
+R. Falcao,Fabinho,2
+Jemerson,Jorge,2
+K. Mbapp\u00e9,K. Glik,2
+K. Mbapp\u00e9,Jorge,2
+G. Carrillo,Jemerson,2
+D. Sidib\u00e9,K. Glik,2
+G. Carrillo,T. Lemar,2
+Jo\u00e3o Moutinho,K. Mbapp\u00e9,2
+Jorge,K. Mbapp\u00e9,2
+Jorge,Jemerson,2
+K. Mbapp\u00e9,Jo\u00e3o Moutinho,2
+R. Falcao,G. Carrillo,1
+G. Carrillo,D. Sidib\u00e9,1
+Jemerson,A. Saint-Maximin,1
+D. Suba\u0161i\u0107,A. Saint-Maximin,1
+K. Glik,K. Mbapp\u00e9,1
+T. Lemar,Jemerson,1
+K. Glik,A. Saint-Maximin,1
+Jorge,R. Falcao,1
+T. Lemar,R. Falcao,1
+Jemerson,D. Sidib\u00e9,1
+K. Glik,G. Carrillo,1
+G. Carrillo,K. Mbapp\u00e9,1
+D. Sidib\u00e9,Jemerson,1
+A. Saint-Maximin,G. Carrillo,1
+A. Saint-Maximin,Y. Tielemans,1
+D. Suba\u0161i\u0107,G. Carrillo,1
+K. Glik,Jo\u00e3o Moutinho,1
+T. Lemar,K. Glik,1
+Fabinho,K. Mbapp\u00e9,1
+Jorge,G. Carrillo,1
+Jo\u00e3o Moutinho,T. Lemar,1
+A. Saint-Maximin,Jorge,1
+Jo\u00e3o Moutinho,D. Sidib\u00e9,1
+T. Lemar,Jo\u00e3o Moutinho,1
+D. Sidib\u00e9,T. Lemar,1
+Jo\u00e3o Moutinho,Fabinho,1
+T. Lemar,G. Carrillo,1
+Jemerson,D. Suba\u0161i\u0107,1
+G. Carrillo,K. Glik,1
+D. Sidib\u00e9,R. Falcao,1
+D. Suba\u0161i\u0107,Jo\u00e3o Moutinho,1
+D. Suba\u0161i\u0107,D. Sidib\u00e9,1
+Y. Tielemans,T. Lemar,1
+K. Mbapp\u00e9,G. Carrillo,1
+T. Lemar,D. Suba\u0161i\u0107,1
+Fabinho,D. Sidib\u00e9,1

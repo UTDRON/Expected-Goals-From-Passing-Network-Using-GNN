@@ -1,0 +1,31 @@
+Source,Target,Weight
+D. Da Silva,J. F\u00e9ret,2
+I. Santini,D. Da Silva,2
+J. F\u00e9ret,A. Mbengue,2
+D. Da Silva,A. Mbengue,2
+H. Bazile,Y. A\u00eft Bennasser,2
+R. Rodelin,R. Genevois,2
+A. Mbengue,I. Santini,2
+A. Mbengue,Y. A\u00eft Bennasser,1
+J. F\u00e9ret,H. Bazile,1
+R. Vercoutre,R. Rodelin,1
+D. Da Silva,R. Vercoutre,1
+F. Guilbert,R. Rodelin,1
+J. F\u00e9ret,D. Da Silva,1
+J. Repas,R. Rodelin,1
+H. Bazile,R. Rodelin,1
+R. Rodelin,F. Guilbert,1
+Y. A\u00eft Bennasser,R. Rodelin,1
+Y. A\u00eft Bennasser,D. Da Silva,1
+F. Guilbert,J. F\u00e9ret,1
+A. Mbengue,J. Repas,1
+F. Guilbert,R. Vercoutre,1
+A. Mbengue,D. Da Silva,1
+R. Rodelin,J. F\u00e9ret,1
+R. Genevois,F. Guilbert,1
+J. F\u00e9ret,Y. A\u00eft Bennasser,1
+R. Genevois,A. Mbengue,1
+D. Da Silva,H. Bazile,1
+Y. A\u00eft Bennasser,H. Bazile,1
+R. Vercoutre,D. Da Silva,1
+Y. A\u00eft Bennasser,F. Guilbert,1

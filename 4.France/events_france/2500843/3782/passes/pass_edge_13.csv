@@ -1,0 +1,55 @@
+Source,Target,Weight
+C. M'Bengue,B. Dabo,4
+B. Dabo,L. Lacroix,3
+O. Seln\u00e6s,K. Th\u00e9ophile Catherine,3
+R. Cabella,B. Dabo,3
+L. Lacroix,O. Seln\u00e6s,3
+O. Seln\u00e6s,R. Cabella,3
+K. Th\u00e9ophile Catherine,L. Lacroix,3
+S. Janko,K. Th\u00e9ophile Catherine,3
+K. Th\u00e9ophile Catherine,O. Seln\u00e6s,3
+R. Cabella,O. Seln\u00e6s,2
+C. M'Bengue,V. Pajot,2
+B. Dabo,C. M'Bengue,2
+A. S\u00f8derlund,V. Pajot,2
+V. Pajot,B. Dabo,2
+B. Dabo,O. Seln\u00e6s,2
+B. Dabo,R. Cabella,2
+B. Dabo,K. Th\u00e9ophile Catherine,2
+S. Ruffier,A. S\u00f8derlund,2
+L. Lacroix,K. Th\u00e9ophile Catherine,2
+V. Pajot,C. M'Bengue,2
+K. Th\u00e9ophile Catherine,S. Ruffier,2
+O. Seln\u00e6s,A. S\u00f8derlund,1
+C. M'Bengue,S. Ruffier,1
+S. Ruffier,L. Lacroix,1
+L. Lacroix,B. Dabo,1
+S. Janko,V. Pajot,1
+R. Cabella,C. M'Bengue,1
+K. Th\u00e9ophile Catherine,B. Dabo,1
+V. Pajot,K. Th\u00e9ophile Catherine,1
+O. Seln\u00e6s,S. Ruffier,1
+L. Lacroix,C. M'Bengue,1
+S. Ruffier,C. M'Bengue,1
+S. Ruffier,V. Pajot,1
+A. S\u00f8derlund,S. Janko,1
+K. Th\u00e9ophile Catherine,V. Pajot,1
+R. Cabella,S. Ruffier,1
+L. Diony,S. Janko,1
+V. Pajot,L. Lacroix,1
+C. M'Bengue,R. Cabella,1
+S. Janko,O. Seln\u00e6s,1
+O. Seln\u00e6s,L. Lacroix,1
+K. Th\u00e9ophile Catherine,L. Diony,1
+L. Lacroix,V. Pajot,1
+O. Seln\u00e6s,S. Janko,1
+L. Lacroix,A. S\u00f8derlund,1
+V. Pajot,R. Cabella,1
+L. Lacroix,R. Cabella,1
+O. Seln\u00e6s,C. M'Bengue,1
+O. Seln\u00e6s,B. Dabo,1
+R. Cabella,S. Janko,1
+C. M'Bengue,O. Seln\u00e6s,1
+S. Janko,C. M'Bengue,1
+A. S\u00f8derlund,L. Lacroix,1
+B. Dabo,S. Janko,1

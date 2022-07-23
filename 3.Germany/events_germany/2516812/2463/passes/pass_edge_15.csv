@@ -1,0 +1,15 @@
+Source,Target,Weight
+S. \u00d6zcan,T. Handwerker,1
+K. Rausch,D. Maroh,1
+L. Bittencourt,T. Handwerker,1
+L. Kl\u00fcnter,D. Maroh,1
+D. Maroh,S. \u00d6zcan,1
+S. \u00d6zcan,L. Kl\u00fcnter,1
+D. Maroh,L. Kl\u00fcnter,1
+K. Rausch,S. \u00d6zcan,1
+T. Handwerker,F. S\u00f8rensen,1
+F. S\u00f8rensen,K. Rausch,1
+T. Handwerker,K. Rausch,1
+L. Kl\u00fcnter,L. Bittencourt,1
+K. Rausch,T. Horn,1
+T. Horn,K. Rausch,1

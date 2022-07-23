@@ -1,0 +1,24 @@
+Source,Target,Weight
+Jemerson,A. Raggi,2
+Jo\u00e3o Moutinho,Y. Tielemans,2
+R. Falcao,T. Lemar,2
+R. Falcao,Jo\u00e3o Moutinho,1
+K. Glik,Jo\u00e3o Moutinho,1
+Jemerson,D. Sidib\u00e9,1
+A. Raggi,R. Falcao,1
+A. Raggi,Jemerson,1
+Rony Lopes,K. Glik,1
+Jo\u00e3o Moutinho,A. Raggi,1
+B. Keita,Y. Tielemans,1
+D. Sidib\u00e9,B. Keita,1
+Y. Tielemans,R. Falcao,1
+D. Sidib\u00e9,Jemerson,1
+T. Lemar,R. Falcao,1
+Jemerson,Jo\u00e3o Moutinho,1
+Y. Tielemans,Jemerson,1
+Jo\u00e3o Moutinho,K. Glik,1
+T. Lemar,K. Glik,1
+Y. Tielemans,A. Raggi,1
+A. Raggi,D. Sidib\u00e9,1
+K. Glik,Jemerson,1
+A. Raggi,Rony Lopes,1

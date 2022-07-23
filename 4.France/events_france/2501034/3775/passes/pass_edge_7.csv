@@ -1,0 +1,56 @@
+Source,Target,Weight
+J. Seri,A. Tameze,8
+Dante,A. Souquet,4
+A. Souquet,Dante,4
+A. Tameze,J. Seri,4
+A. Tameze,A. Souquet,3
+P. Lees Melou,M. Le Bihan,3
+A. Souquet,A. Tameze,3
+Dante,J. Seri,3
+M. Le Bihan,Dante,2
+J. Seri,A. Souquet,2
+A. Tameze,Dante,2
+P. Lees Melou,J. Seri,2
+M. Le Marchand,M. Le Bihan,2
+A. Tameze,P. Lees Melou,2
+A. Souquet,J. Seri,2
+J. Seri,M. Sarr,2
+W. Ben\u00edtez,J. Seri,2
+A. Tameze,M. Sarr,2
+M. Sarr,J. Seri,2
+A. Souquet,M. Le Bihan,2
+W. Cyprien,A. Souquet,2
+M. Sarr,M. Le Marchand,2
+M. Le Marchand,A. Tameze,1
+A. Saint-Maximin,A. Souquet,1
+M. Le Bihan,J. Seri,1
+M. Le Bihan,P. Lees Melou,1
+A. Tameze,M. Le Marchand,1
+W. Ben\u00edtez,P. Lees Melou,1
+M. Balotelli,M. Sarr,1
+M. Sarr,P. Lees Melou,1
+M. Le Bihan,M. Le Marchand,1
+M. Le Marchand,M. Sarr,1
+W. Cyprien,M. Le Marchand,1
+M. Sarr,Dante,1
+P. Lees Melou,W. Cyprien,1
+Dante,W. Ben\u00edtez,1
+M. Balotelli,P. Lees Melou,1
+P. Lees Melou,M. Balotelli,1
+J. Seri,M. Balotelli,1
+M. Le Marchand,P. Lees Melou,1
+M. Balotelli,Dante,1
+Dante,A. Tameze,1
+A. Souquet,W. Cyprien,1
+W. Cyprien,A. Tameze,1
+A. Tameze,W. Cyprien,1
+J. Seri,W. Ben\u00edtez,1
+M. Le Bihan,M. Balotelli,1
+Dante,P. Lees Melou,1
+A. Tameze,W. Ben\u00edtez,1
+J. Seri,W. Cyprien,1
+M. Le Bihan,A. Tameze,1
+P. Lees Melou,A. Saint-Maximin,1
+Dante,M. Le Bihan,1
+J. Seri,Dante,1
+P. Lees Melou,A. Tameze,1

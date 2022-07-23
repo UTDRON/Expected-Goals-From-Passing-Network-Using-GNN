@@ -1,0 +1,68 @@
+Source,Target,Weight
+S. San\u00e9,Miiko Albornoz,9
+P. Schwegler,S. San\u00e9,7
+Miiko Albornoz,S. Maier,6
+M. Esser,S. San\u00e9,5
+Miiko Albornoz,S. San\u00e9,4
+S. Maier,Jonathas,3
+Jonathas,S. Maier,3
+M. Bakalorz,S. San\u00e9,3
+O. Sorg,Jonathas,3
+S. San\u00e9,M. Esser,3
+S. Maier,M. Harnik,2
+S. San\u00e9,P. Schwegler,2
+S. San\u00e9,Jonathas,2
+Miiko Albornoz,M. Bakalorz,2
+S. San\u00e9,M. Bakalorz,2
+S. Maier,Miiko Albornoz,2
+Jonathas,Miiko Albornoz,2
+O. Sorg,M. Esser,2
+M. Harnik,M. Bakalorz,2
+Miiko Albornoz,M. Harnik,2
+F. Klaus,O. Sorg,2
+F. Klaus,S. San\u00e9,2
+M. Harnik,P. Schwegler,2
+S. San\u00e9,F. Klaus,2
+F. H\u00fcbner,O. Sorg,2
+S. Maier,F. H\u00fcbner,2
+O. Sorg,M. Harnik,2
+S. Maier,M. Bakalorz,2
+M. Harnik,F. Klaus,2
+M. Bakalorz,S. Maier,2
+F. Klaus,P. Schwegler,2
+M. Harnik,Miiko Albornoz,2
+Jonathas,O. Sorg,2
+M. Bakalorz,P. Schwegler,2
+S. Maier,F. Klaus,2
+F. H\u00fcbner,M. Bakalorz,1
+S. San\u00e9,M. Harnik,1
+M. Bakalorz,O. Sorg,1
+F. Klaus,S. Maier,1
+M. Esser,F. H\u00fcbner,1
+P. Schwegler,Miiko Albornoz,1
+Jonathas,M. Esser,1
+S. San\u00e9,O. Sorg,1
+P. Schwegler,F. Klaus,1
+F. Klaus,M. Esser,1
+M. Bakalorz,F. Klaus,1
+F. Klaus,M. Harnik,1
+O. Sorg,P. Schwegler,1
+P. Schwegler,S. Maier,1
+F. H\u00fcbner,M. Harnik,1
+Jonathas,P. Schwegler,1
+F. H\u00fcbner,P. Schwegler,1
+M. Esser,Miiko Albornoz,1
+Miiko Albornoz,P. Schwegler,1
+F. Klaus,M. Bakalorz,1
+M. Bakalorz,M. Harnik,1
+M. Bakalorz,Jonathas,1
+Miiko Albornoz,Jonathas,1
+P. Schwegler,O. Sorg,1
+Miiko Albornoz,F. H\u00fcbner,1
+M. Harnik,S. San\u00e9,1
+M. Harnik,F. H\u00fcbner,1
+M. Bakalorz,Miiko Albornoz,1
+O. Sorg,M. Bakalorz,1
+O. Sorg,F. Klaus,1
+Miiko Albornoz,F. Klaus,1
+Jonathas,M. Bakalorz,1

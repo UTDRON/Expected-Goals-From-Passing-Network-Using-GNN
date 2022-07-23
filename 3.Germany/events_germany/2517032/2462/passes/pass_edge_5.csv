@@ -1,0 +1,58 @@
+Source,Target,Weight
+G. Fernandes,D. Abraham,3
+J. Willems,S. Haller,3
+Omar Mascarell,C. Salcedo,3
+D. Abraham,K. Boateng,2
+G. Fernandes,M. Russ,2
+K. Boateng,D. da Costa,2
+S. Haller,G. Fernandes,2
+D. da Costa,M. Wolf,2
+S. Haller,D. da Costa,2
+M. Wolf,M. Russ,2
+C. Salcedo,Omar Mascarell,2
+M. Wolf,J. Willems,2
+D. da Costa,G. Fernandes,2
+M. Wolf,Omar Mascarell,2
+M. Russ,M. Wolf,2
+C. Salcedo,K. Boateng,2
+Omar Mascarell,L. Hradecky,2
+D. Abraham,M. Wolf,2
+G. Fernandes,Omar Mascarell,1
+S. Haller,M. Russ,1
+D. Abraham,M. Russ,1
+K. Boateng,Omar Mascarell,1
+J. Willems,M. Wolf,1
+D. da Costa,K. Boateng,1
+Omar Mascarell,D. da Costa,1
+L. Hradecky,S. Haller,1
+M. Wolf,D. da Costa,1
+C. Salcedo,G. Fernandes,1
+C. Salcedo,L. Hradecky,1
+M. Wolf,C. Salcedo,1
+M. Russ,G. Fernandes,1
+K. Boateng,S. Haller,1
+C. Salcedo,S. Haller,1
+M. Russ,D. da Costa,1
+D. da Costa,M. Russ,1
+Omar Mascarell,M. Russ,1
+C. Salcedo,M. Wolf,1
+K. Boateng,D. Abraham,1
+M. Russ,Omar Mascarell,1
+D. da Costa,J. Willems,1
+D. Abraham,G. Fernandes,1
+J. Willems,Omar Mascarell,1
+G. Fernandes,S. Haller,1
+Omar Mascarell,S. Haller,1
+S. Haller,Omar Mascarell,1
+M. Russ,D. Abraham,1
+L. Hradecky,J. Willems,1
+M. Russ,L. Hradecky,1
+L. Hradecky,C. Salcedo,1
+S. Haller,C. Salcedo,1
+J. Willems,K. Boateng,1
+D. Abraham,J. Willems,1
+K. Boateng,C. Salcedo,1
+S. Haller,D. Abraham,1
+Omar Mascarell,J. Willems,1
+D. da Costa,D. Abraham,1
+L. Hradecky,D. da Costa,1

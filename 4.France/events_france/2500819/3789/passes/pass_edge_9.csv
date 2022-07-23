@@ -1,0 +1,24 @@
+Source,Target,Weight
+B. Dibassy,H. Manzala,2
+H. Manzala,G. Kakuta,2
+K. Ad\u00e9non,B. Zungu,1
+G. Kakuta,O. El Hajjam,1
+B. Dibassy,M. Konat\u00e9,1
+O. El Hajjam,T. Monconduit,1
+K. Ad\u00e9non,B. Dibassy,1
+T. Monconduit,O. El Hajjam,1
+B. Zungu,K. Ad\u00e9non,1
+T. Monconduit,H. Manzala,1
+K. Ad\u00e9non,R. Gurtner,1
+P. Gouano,K. Ad\u00e9non,1
+R. Gurtner,K. Ad\u00e9non,1
+M. Konat\u00e9,T. Monconduit,1
+G. Kakuta,M. Konat\u00e9,1
+T. Monconduit,B. Dibassy,1
+G. Kakuta,T. Monconduit,1
+O. El Hajjam,E. Bourgaud,1
+E. Bourgaud,G. Kakuta,1
+M. Konat\u00e9,E. Bourgaud,1
+O. El Hajjam,P. Gouano,1
+E. Bourgaud,O. El Hajjam,1
+H. Manzala,B. Dibassy,1

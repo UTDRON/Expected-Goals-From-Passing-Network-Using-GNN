@@ -1,0 +1,32 @@
+Source,Target,Weight
+E. Forsberg,Bernardo,3
+Bernardo,K. Kampl,3
+Bernardo,D. Upamecano,3
+K. Kampl,W. Orban,3
+D. Upamecano,L. Klostermann,2
+J. Augustin,E. Forsberg,2
+A. Lookman,M. Sabitzer,2
+L. Klostermann,K. Kampl,2
+W. Orban,K. Kampl,2
+A. Lookman,J. Augustin,2
+W. Orban,Bernardo,2
+K. Kampl,E. Forsberg,2
+K. Kampl,J. Augustin,1
+L. Klostermann,A. Lookman,1
+W. Orban,A. Lookman,1
+M. Sabitzer,A. Lookman,1
+A. Lookman,E. Forsberg,1
+Bernardo,J. Augustin,1
+E. Forsberg,A. Lookman,1
+K. Kampl,Bernardo,1
+E. Forsberg,W. Orban,1
+Bruma,Bernardo,1
+Bernardo,E. Forsberg,1
+J. Augustin,W. Orban,1
+D. Upamecano,K. Kampl,1
+M. Sabitzer,L. Klostermann,1
+J. Augustin,Bruma,1
+D. Upamecano,Bernardo,1
+Bernardo,Bruma,1
+K. Kampl,A. Lookman,1
+Bruma,D. Upamecano,1

@@ -1,0 +1,59 @@
+Source,Target,Weight
+P. Verhaegh,J. Brekalo,4
+J. Brekalo,P. Jaeckel,3
+M. Arnold,William,3
+J. Brekalo,P. Verhaegh,3
+Y. Mall\u0131,L. Dimata,3
+William,Y. Mall\u0131,3
+William,P. Verhaegh,3
+Camacho,R. Knoche,3
+William,P. Jaeckel,2
+L. Dimata,J. Brekalo,2
+R. Knoche,M. Arnold,2
+P. Jaeckel,L. Dimata,2
+L. Dimata,P. Verhaegh,2
+M. Arnold,K. Casteels,2
+William,L. Dimata,2
+L. Dimata,Y. Mall\u0131,2
+J. Brekalo,William,2
+L. Dimata,D. Didavi,2
+L. Dimata,William,2
+P. Jaeckel,William,2
+J. Brekalo,Camacho,2
+P. Verhaegh,L. Dimata,2
+P. Jaeckel,J. Brekalo,2
+P. Verhaegh,William,2
+William,Camacho,2
+Camacho,P. Jaeckel,2
+P. Verhaegh,M. Arnold,2
+Y. Mall\u0131,J. Brekalo,2
+Y. Mall\u0131,Camacho,1
+William,J. Brekalo,1
+P. Jaeckel,M. Arnold,1
+J. Brekalo,D. Didavi,1
+Y. Mall\u0131,M. Arnold,1
+K. Casteels,L. Dimata,1
+M. Arnold,P. Verhaegh,1
+D. Didavi,J. Brekalo,1
+P. Jaeckel,R. Knoche,1
+M. Arnold,R. Knoche,1
+Camacho,P. Verhaegh,1
+Y. Mall\u0131,William,1
+Camacho,William,1
+K. Casteels,Y. Mall\u0131,1
+R. Knoche,K. Casteels,1
+D. Didavi,Y. Mall\u0131,1
+D. Didavi,William,1
+K. Casteels,R. Knoche,1
+L. Dimata,K. Casteels,1
+William,K. Casteels,1
+R. Knoche,L. Dimata,1
+R. Knoche,William,1
+Camacho,J. Brekalo,1
+L. Dimata,Camacho,1
+R. Knoche,Y. Mall\u0131,1
+William,M. Arnold,1
+J. Brekalo,L. Dimata,1
+K. Casteels,P. Jaeckel,1
+R. Knoche,Camacho,1
+K. Casteels,Camacho,1

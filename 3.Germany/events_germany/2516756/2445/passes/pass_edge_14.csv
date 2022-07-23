@@ -1,0 +1,25 @@
+Source,Target,Weight
+B. Pavard,O. Mangala,3
+B. Pavard,C. Gentner,3
+O. Mangala,B. Pavard,3
+C. Gentner,C. Akolo,2
+R. Zieler,M. Kami\u0144ski,1
+M. Kami\u0144ski,H. Badstuber,1
+O. Mangala,T. Baumgartl,1
+D. Aogo,T. Baumgartl,1
+R. Zieler,B. Pavard,1
+H. Badstuber,R. Zieler,1
+O. Mangala,R. Zieler,1
+T. Baumgartl,B. Pavard,1
+M. Kami\u0144ski,O. Mangala,1
+R. Zieler,C. Akolo,1
+T. Baumgartl,H. Badstuber,1
+B. Pavard,T. Baumgartl,1
+H. Badstuber,T. Asano,1
+C. Akolo,C. Gentner,1
+D. Aogo,B. Pavard,1
+T. Baumgartl,O. Mangala,1
+T. Asano,M. Kami\u0144ski,1
+C. Akolo,R. Zieler,1
+C. Gentner,D. Aogo,1
+C. Akolo,B. Pavard,1

@@ -1,0 +1,50 @@
+Source,Target,Weight
+T. Kehrer,Naldo,4
+D. Caligiuri,L. Goretzka,3
+Naldo,B. Stambouli,3
+T. Kehrer,Y. Konoplyanka,3
+B. Stambouli,L. Goretzka,3
+Y. Konoplyanka,T. Kehrer,3
+B. Oczipka,T. Kehrer,2
+L. Goretzka,Naldo,2
+F. Di Santo,A. Sch\u00f6pf,2
+R. F\u00e4hrmann,D. Caligiuri,2
+B. Oczipka,Y. Konoplyanka,2
+M. Meyer,T. Kehrer,2
+L. Goretzka,D. Caligiuri,2
+L. Goretzka,B. Oczipka,2
+L. Goretzka,T. Kehrer,2
+T. Kehrer,B. Oczipka,2
+A. Sch\u00f6pf,L. Goretzka,2
+B. Oczipka,F. Di Santo,1
+Naldo,B. Oczipka,1
+F. Di Santo,T. Kehrer,1
+Naldo,M. Meyer,1
+A. Sch\u00f6pf,B. Stambouli,1
+B. Oczipka,R. F\u00e4hrmann,1
+F. Reese,L. Goretzka,1
+F. Reese,D. Caligiuri,1
+A. Sch\u00f6pf,F. Reese,1
+B. Oczipka,A. Sch\u00f6pf,1
+B. Stambouli,F. Di Santo,1
+B. Oczipka,L. Goretzka,1
+A. Sch\u00f6pf,D. Caligiuri,1
+L. Goretzka,A. Sch\u00f6pf,1
+D. Caligiuri,B. Stambouli,1
+Y. Konoplyanka,Naldo,1
+D. Caligiuri,A. Sch\u00f6pf,1
+B. Stambouli,R. F\u00e4hrmann,1
+Naldo,L. Goretzka,1
+Naldo,D. Caligiuri,1
+Y. Konoplyanka,L. Goretzka,1
+B. Stambouli,B. Oczipka,1
+F. Reese,A. Sch\u00f6pf,1
+M. Meyer,B. Stambouli,1
+Y. Konoplyanka,B. Oczipka,1
+L. Goretzka,M. Meyer,1
+L. Goretzka,Y. Konoplyanka,1
+A. Sch\u00f6pf,T. Kehrer,1
+T. Kehrer,M. Meyer,1
+L. Goretzka,F. Reese,1
+D. Caligiuri,B. Oczipka,1
+D. Caligiuri,F. Di Santo,1

@@ -1,0 +1,97 @@
+Source,Target,Weight
+M. Deplagne,F. Bellugou,6
+S. Grandsir,S. Khaoui,5
+J. Giraudon,M. Deplagne,5
+F. Bellugou,J. Giraudon,5
+F. Bellugou,R. Walter,5
+J. Giraudon,F. Bellugou,4
+J. Giraudon,C. H\u00e9relle,4
+C. Traor\u00e9,C. H\u00e9relle,4
+R. Walter,C. Traor\u00e9,4
+C. H\u00e9relle,J. Giraudon,4
+Suk Hyun-Jun,C. Traor\u00e9,3
+F. Bellugou,S. Grandsir,3
+S. Grandsir,R. Walter,3
+C. Traor\u00e9,B. Mbeumo,3
+M. Deplagne,J. Giraudon,3
+M. Deplagne,C. H\u00e9relle,3
+C. Traor\u00e9,S. Grandsir,3
+R. Walter,J. Giraudon,3
+F. Bellugou,M. Deplagne,3
+B. Mbeumo,M. Deplagne,3
+B. Mbeumo,S. Khaoui,3
+C. Traor\u00e9,J. Giraudon,3
+S. Khaoui,C. Traor\u00e9,3
+S. Grandsir,F. Bellugou,2
+E. Zelazny,B. Mbeumo,2
+C. Ben Saada,B. Mbeumo,2
+B. Pel\u00e9,Suk Hyun-Jun,2
+Suk Hyun-Jun,E. Zelazny,2
+J. Giraudon,B. Mbeumo,2
+S. Khaoui,C. Ben Saada,2
+R. Walter,S. Grandsir,2
+C. Traor\u00e9,E. Zelazny,2
+B. Mbeumo,C. Ben Saada,2
+C. H\u00e9relle,F. Bellugou,2
+S. Grandsir,M. Deplagne,2
+E. Zelazny,Suk Hyun-Jun,2
+C. H\u00e9relle,S. Khaoui,2
+R. Walter,C. H\u00e9relle,2
+M. Deplagne,S. Grandsir,2
+Suk Hyun-Jun,M. Deplagne,2
+R. Walter,M. Deplagne,2
+C. H\u00e9relle,E. Zelazny,2
+S. Khaoui,F. Bellugou,2
+S. Khaoui,J. Giraudon,2
+S. Grandsir,C. Traor\u00e9,2
+J. Giraudon,E. Zelazny,2
+C. Ben Saada,R. Walter,2
+Suk Hyun-Jun,F. Bellugou,1
+C. H\u00e9relle,Suk Hyun-Jun,1
+F. Bellugou,C. Traor\u00e9,1
+M. Deplagne,B. Pel\u00e9,1
+C. Traor\u00e9,Suk Hyun-Jun,1
+C. Ben Saada,C. Traor\u00e9,1
+E. Zelazny,J. Giraudon,1
+M. Deplagne,B. Mbeumo,1
+K. Azamoum,B. Pel\u00e9,1
+C. Traor\u00e9,C. Ben Saada,1
+M. Deplagne,Suk Hyun-Jun,1
+J. Giraudon,R. Walter,1
+S. Khaoui,Suk Hyun-Jun,1
+F. Bellugou,B. Pel\u00e9,1
+R. Walter,F. Bellugou,1
+S. Khaoui,S. Grandsir,1
+B. Mbeumo,C. H\u00e9relle,1
+J. Giraudon,Suk Hyun-Jun,1
+F. Bellugou,S. Khaoui,1
+C. H\u00e9relle,C. Ben Saada,1
+J. Giraudon,S. Grandsir,1
+K. Azamoum,M. Deplagne,1
+J. Giraudon,C. Traor\u00e9,1
+E. Zelazny,R. Walter,1
+C. Ben Saada,S. Khaoui,1
+M. Deplagne,K. Azamoum,1
+C. Traor\u00e9,F. Bellugou,1
+M. Deplagne,E. Zelazny,1
+F. Bellugou,C. Ben Saada,1
+B. Mbeumo,F. Bellugou,1
+E. Zelazny,M. Deplagne,1
+R. Walter,C. Ben Saada,1
+S. Khaoui,B. Mbeumo,1
+E. Zelazny,C. H\u00e9relle,1
+C. Traor\u00e9,R. Walter,1
+B. Pel\u00e9,C. Traor\u00e9,1
+S. Grandsir,J. Giraudon,1
+M. Deplagne,S. Khaoui,1
+C. Ben Saada,M. Deplagne,1
+B. Pel\u00e9,S. Grandsir,1
+C. H\u00e9relle,M. Deplagne,1
+E. Zelazny,C. Traor\u00e9,1
+M. Deplagne,R. Walter,1
+C. H\u00e9relle,R. Walter,1
+Suk Hyun-Jun,B. Pel\u00e9,1
+B. Mbeumo,S. Grandsir,1
+J. Giraudon,K. Azamoum,1
+C. H\u00e9relle,C. Traor\u00e9,1
+C. Ben Saada,S. Grandsir,1

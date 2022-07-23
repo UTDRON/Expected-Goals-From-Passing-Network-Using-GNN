@@ -1,0 +1,58 @@
+Source,Target,Weight
+D. Brosinski,A. Hack,5
+G. Holtmann,D. Brosinski,5
+G. Donati,D. Brosinski,3
+A. Hack,J. Gbamin,3
+P. De Blasis,A. Hack,3
+G. Donati,P. De Blasis,3
+P. De Blasis,G. Donati,3
+A. Hack,G. Donati,2
+Y. Muto,A. Hack,2
+J. Gbamin,P. De Blasis,2
+S. Bell,A. Maxim,2
+A. Hack,R. Baku,2
+D. Brosinski,J. Gbamin,2
+A. Hack,S. Bell,2
+A. Hack,Y. Muto,2
+A. Maxim,A. Hack,2
+S. Bell,G. Donati,2
+J. Gbamin,G. Holtmann,2
+G. Donati,A. Hack,1
+Y. Muto,J. Gbamin,1
+A. Hack,A. Maxim,1
+D. Brosinski,G. Holtmann,1
+G. Holtmann,R. Quaison,1
+R. Baku,F. M\u00fcller,1
+P. De Blasis,J. Gbamin,1
+S. Bell,F. M\u00fcller,1
+D. Brosinski,S. Bell,1
+R. Baku,P. De Blasis,1
+S. Bell,P. De Blasis,1
+F. M\u00fcller,A. Maxim,1
+D. Brosinski,F. M\u00fcller,1
+P. De Blasis,S. Bell,1
+R. Baku,Y. Muto,1
+D. Brosinski,P. De Blasis,1
+J. Gbamin,R. Baku,1
+J. Gbamin,D. Brosinski,1
+A. Maxim,R. Baku,1
+A. Maxim,G. Donati,1
+P. De Blasis,A. Maxim,1
+R. Quaison,A. Maxim,1
+G. Donati,S. Bell,1
+S. Bell,J. Gbamin,1
+J. Gbamin,R. Quaison,1
+A. Maxim,S. Bell,1
+R. Baku,J. Gbamin,1
+J. Gbamin,A. Hack,1
+Y. Muto,G. Holtmann,1
+A. Maxim,P. De Blasis,1
+A. Hack,P. De Blasis,1
+J. Gbamin,Y. Muto,1
+A. Hack,D. Brosinski,1
+F. M\u00fcller,G. Holtmann,1
+A. Hack,G. Holtmann,1
+F. M\u00fcller,S. Bell,1
+G. Holtmann,A. Hack,1
+P. De Blasis,R. Baku,1
+R. Baku,G. Holtmann,1

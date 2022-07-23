@@ -1,0 +1,21 @@
+Source,Target,Weight
+D. Kohr,B. Henrichs,3
+K. Bellarabi,D. Kohr,3
+B. Henrichs,K. Bellarabi,2
+S. Bender,K. Volland,2
+B. Henrichs,S. Bender,1
+K. Bellarabi,B. Henrichs,1
+S. Bender,K. Bellarabi,1
+D. Kohr,K. Bellarabi,1
+K. Volland,S. Bender,1
+C. Ar\u00e1nguiz,Wendell,1
+B. Henrichs,L. Bailey,1
+Wendell,A. Mehmedi,1
+K. Bellarabi,B. Leno,1
+L. Bailey,D. Kohr,1
+B. Leno,Wendell,1
+A. Mehmedi,Wendell,1
+C. Ar\u00e1nguiz,K. Bellarabi,1
+Wendell,S. Bender,1
+Wendell,D. Kohr,1
+K. Volland,C. Ar\u00e1nguiz,1

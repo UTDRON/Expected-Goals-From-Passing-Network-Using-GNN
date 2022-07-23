@@ -1,0 +1,47 @@
+Source,Target,Weight
+J. Seri,W. Cyprien,6
+A. Souquet,A. Pl\u00e9a,4
+A. Tameze,M. Le Marchand,4
+A. Pl\u00e9a,A. Souquet,4
+M. Le Marchand,A. Tameze,3
+W. Cyprien,M. Le Marchand,3
+M. Balotelli,J. Seri,3
+M. Le Marchand,A. Saint-Maximin,3
+J. Seri,M. Balotelli,3
+A. Tameze,J. Seri,3
+J. Seri,A. Pl\u00e9a,3
+M. Balotelli,A. Souquet,3
+W. Cyprien,A. Tameze,2
+A. Souquet,A. Tameze,2
+M. Le Marchand,Dante,2
+A. Souquet,J. Seri,2
+A. Saint-Maximin,M. Balotelli,2
+A. Saint-Maximin,J. Seri,2
+A. Pl\u00e9a,W. Cyprien,2
+Dante,J. Seri,2
+A. Saint-Maximin,M. Le Marchand,2
+W. Ben\u00edtez,Marlon,2
+M. Le Marchand,J. Seri,1
+M. Balotelli,A. Pl\u00e9a,1
+J. Seri,A. Saint-Maximin,1
+A. Pl\u00e9a,M. Balotelli,1
+W. Cyprien,J. Seri,1
+A. Saint-Maximin,A. Tameze,1
+A. Tameze,W. Ben\u00edtez,1
+Marlon,A. Souquet,1
+A. Pl\u00e9a,A. Saint-Maximin,1
+Marlon,A. Tameze,1
+Dante,W. Ben\u00edtez,1
+W. Ben\u00edtez,A. Saint-Maximin,1
+W. Cyprien,Dante,1
+Dante,A. Pl\u00e9a,1
+A. Pl\u00e9a,J. Seri,1
+W. Cyprien,A. Souquet,1
+A. Souquet,Marlon,1
+A. Souquet,M. Balotelli,1
+M. Le Marchand,W. Cyprien,1
+J. Seri,M. Le Marchand,1
+Marlon,W. Cyprien,1
+W. Cyprien,W. Ben\u00edtez,1
+W. Cyprien,A. Saint-Maximin,1
+A. Tameze,Dante,1

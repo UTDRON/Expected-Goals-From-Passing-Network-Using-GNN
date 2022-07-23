@@ -1,0 +1,23 @@
+Source,Target,Weight
+A. Gon\u00e7alves,K. Lala,2
+K. Mangane,J. Martin,2
+P. Martinez,K. Mangane,2
+D. Li\u00e9nard,P. Martinez,2
+B. Kamara,D. Li\u00e9nard,1
+P. Martinez,J. Martin,1
+B. Corgnet,D. Li\u00e9nard,1
+K. Mangane,P. Martinez,1
+J. Aholou,D. Li\u00e9nard,1
+I. Sacko,A. Gon\u00e7alves,1
+K. Lala,P. Martinez,1
+D. Li\u00e9nard,K. Mangane,1
+K. Mangane,K. Lala,1
+J. Martin,D. Li\u00e9nard,1
+J. Martin,A. Gon\u00e7alves,1
+P. Martinez,B. Kamara,1
+J. Martin,J. Aholou,1
+K. Lala,B. Kamara,1
+B. Kamara,J. Aholou,1
+D. Li\u00e9nard,B. Kamara,1
+B. Kamara,B. Corgnet,1
+J. Aholou,I. Sacko,1

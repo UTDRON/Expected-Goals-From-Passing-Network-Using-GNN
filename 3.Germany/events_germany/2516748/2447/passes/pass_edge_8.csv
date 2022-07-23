@@ -1,0 +1,40 @@
+Source,Target,Weight
+M. Philipp,N. \u015eahin,3
+D. Zagadou,N. \u015eahin,3
+N. \u015eahin,M. G\u00f6tze,2
+Bartra,M. G\u00f6tze,2
+C. Pulisic,\u0141. Piszczek,2
+\u0141. Piszczek,C. Pulisic,2
+M. G\u00f6tze,D. Zagadou,2
+N. \u015eahin,M. Philipp,2
+Bartra,N. \u015eahin,2
+D. Zagadou,Bartra,2
+M. G\u00f6tze,Bartra,1
+S. Kagawa,M. Philipp,1
+\u00d6. Toprak,R. B\u00fcrki,1
+R. B\u00fcrki,M. Philipp,1
+Bartra,P. Aubameyang,1
+N. \u015eahin,S. Kagawa,1
+G. Castro,N. \u015eahin,1
+M. G\u00f6tze,M. Philipp,1
+C. Pulisic,\u00d6. Toprak,1
+R. B\u00fcrki,M. G\u00f6tze,1
+N. \u015eahin,G. Castro,1
+N. \u015eahin,D. Zagadou,1
+M. Philipp,D. Zagadou,1
+N. \u015eahin,\u0141. Piszczek,1
+M. Philipp,R. B\u00fcrki,1
+C. Pulisic,S. Kagawa,1
+M. Philipp,C. Pulisic,1
+D. Zagadou,M. Philipp,1
+N. \u015eahin,C. Pulisic,1
+\u0141. Piszczek,\u00d6. Toprak,1
+\u0141. Piszczek,Bartra,1
+P. Aubameyang,\u0141. Piszczek,1
+S. Kagawa,D. Zagadou,1
+\u00d6. Toprak,Bartra,1
+C. Pulisic,G. Castro,1
+D. Zagadou,S. Kagawa,1
+M. G\u00f6tze,\u00d6. Toprak,1
+G. Castro,D. Zagadou,1
+S. Kagawa,C. Pulisic,1

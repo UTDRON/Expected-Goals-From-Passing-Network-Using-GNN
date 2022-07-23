@@ -1,0 +1,21 @@
+Source,Target,Weight
+Lucas Lima,E. Sala,2
+N. Pallois,S. Ngom,1
+S. Ngom,L. Dubois,1
+Andrei Girotto,S. Ngom,1
+S. Ngom,Y. Bammou,1
+Lucas Lima,Andrei Girotto,1
+Lucas Lima,L. Dubois,1
+Andrei Girotto,N. Pallois,1
+S. Ngom,Lucas Lima,1
+L. Dubois,Lucas Lima,1
+N. Pallois,Lucas Lima,1
+S. Ngom,E. Sala,1
+Lucas Lima,N. Pallois,1
+E. Sala,Lucas Lima,1
+Diego Carlos,Lucas Lima,1
+E. Sala,Y. Bammou,1
+E. Sala,Diego Carlos,1
+L. Dubois,S. Ngom,1
+Y. Bammou,S. Ngom,1
+E. Sala,Andrei Girotto,1

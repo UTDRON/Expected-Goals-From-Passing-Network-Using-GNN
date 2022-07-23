@@ -1,0 +1,52 @@
+Source,Target,Weight
+Malcom,N. de Pr\u00e9ville,4
+Malcom,Y. Sabaly,3
+N. de Pr\u00e9ville,Malcom,3
+Y. Sabaly,Malcom,3
+Malcom,L. Lerager,2
+Malcom,G. Laborde,2
+S. Me\u00eft\u00e9,N. de Pr\u00e9ville,2
+L. Lerager,Ot\u00e1vio,2
+Y. Sabaly,J. Kound\u00e9,2
+N. de Pr\u00e9ville,L. Lerager,2
+J. Kound\u00e9,B. Costil,2
+L. Lerager,Malcom,2
+Ot\u00e1vio,M. Poundj\u00e9,2
+B. Costil,Malcom,2
+B. Costil,S. Me\u00eft\u00e9,1
+Y. Sabaly,B. Costil,1
+S. Me\u00eft\u00e9,Malcom,1
+J. Kound\u00e9,Malcom,1
+G. Laborde,Y. Sabaly,1
+L. Lerager,G. Laborde,1
+N. de Pr\u00e9ville,Pablo,1
+B. Costil,G. Laborde,1
+G. Laborde,N. de Pr\u00e9ville,1
+Y. Sankhar\u00e9,Y. Sabaly,1
+N. de Pr\u00e9ville,J. Kound\u00e9,1
+B. Costil,Ot\u00e1vio,1
+M. Poundj\u00e9,J. Kound\u00e9,1
+Ot\u00e1vio,N. de Pr\u00e9ville,1
+Pablo,M. Poundj\u00e9,1
+Pablo,S. Me\u00eft\u00e9,1
+N. de Pr\u00e9ville,Y. Sabaly,1
+Y. Sabaly,G. Laborde,1
+M. Poundj\u00e9,Pablo,1
+N. de Pr\u00e9ville,Y. Sankhar\u00e9,1
+J. Kound\u00e9,L. Lerager,1
+Malcom,B. Costil,1
+Y. Sabaly,L. Lerager,1
+L. Lerager,Y. Sabaly,1
+L. Lerager,N. de Pr\u00e9ville,1
+Malcom,S. Me\u00eft\u00e9,1
+Pablo,Malcom,1
+M. Poundj\u00e9,N. de Pr\u00e9ville,1
+G. Laborde,Pablo,1
+J. Kound\u00e9,Y. Sabaly,1
+Malcom,M. Poundj\u00e9,1
+M. Poundj\u00e9,Malcom,1
+Ot\u00e1vio,L. Lerager,1
+G. Laborde,Malcom,1
+Malcom,J. Kound\u00e9,1
+G. Laborde,L. Lerager,1
+L. Lerager,B. Costil,1

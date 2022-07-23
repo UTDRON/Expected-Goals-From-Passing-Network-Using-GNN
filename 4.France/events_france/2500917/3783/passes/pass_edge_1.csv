@@ -1,0 +1,75 @@
+Source,Target,Weight
+D. Da Silva,A. Djiku,8
+Y. A\u00eft Bennasser,D. Da Silva,5
+R. Genevois,Y. A\u00eft Bennasser,5
+V. Bessat,A. Djiku,5
+Y. A\u00eft Bennasser,J. F\u00e9ret,4
+A. Djiku,Y. A\u00eft Bennasser,4
+R. Rodelin,V. Bessat,4
+Y. A\u00eft Bennasser,R. Genevois,4
+R. Genevois,D. Da Silva,4
+J. F\u00e9ret,R. Genevois,4
+D. Da Silva,R. Vercoutre,4
+I. Santini,V. Bessat,3
+J. F\u00e9ret,E. Crivelli,3
+R. Genevois,R. Rodelin,3
+J. F\u00e9ret,R. Vercoutre,3
+R. Vercoutre,A. Djiku,3
+Y. A\u00eft Bennasser,V. Bessat,3
+S. Peeters,J. F\u00e9ret,3
+V. Bessat,R. Rodelin,3
+A. Djiku,V. Bessat,3
+R. Rodelin,R. Genevois,3
+A. Djiku,D. Da Silva,3
+I. Santini,E. Crivelli,2
+E. Crivelli,R. Genevois,2
+I. Santini,A. Djiku,2
+V. Bessat,Y. A\u00eft Bennasser,2
+A. Djiku,S. Peeters,2
+Y. A\u00eft Bennasser,R. Rodelin,2
+S. Peeters,Y. A\u00eft Bennasser,2
+E. Crivelli,I. Santini,2
+R. Rodelin,E. Crivelli,2
+S. Peeters,D. Da Silva,2
+D. Da Silva,Y. A\u00eft Bennasser,2
+V. Bessat,I. Santini,2
+V. Bessat,S. Peeters,2
+E. Crivelli,R. Vercoutre,2
+R. Rodelin,J. F\u00e9ret,2
+I. Santini,Y. A\u00eft Bennasser,2
+R. Vercoutre,R. Rodelin,2
+J. F\u00e9ret,S. Peeters,2
+D. Da Silva,J. F\u00e9ret,2
+A. Djiku,R. Vercoutre,2
+S. Peeters,I. Santini,2
+J. F\u00e9ret,D. Da Silva,2
+R. Vercoutre,Y. A\u00eft Bennasser,1
+R. Vercoutre,E. Crivelli,1
+R. Genevois,E. Crivelli,1
+D. Da Silva,R. Genevois,1
+R. Vercoutre,S. Peeters,1
+D. Da Silva,I. Santini,1
+R. Genevois,V. Bessat,1
+Y. A\u00eft Bennasser,S. Peeters,1
+J. F\u00e9ret,Y. A\u00eft Bennasser,1
+A. Djiku,R. Genevois,1
+R. Rodelin,Y. A\u00eft Bennasser,1
+Y. A\u00eft Bennasser,I. Santini,1
+R. Vercoutre,I. Santini,1
+A. Djiku,I. Santini,1
+R. Vercoutre,J. F\u00e9ret,1
+J. F\u00e9ret,R. Rodelin,1
+V. Bessat,J. F\u00e9ret,1
+R. Genevois,J. F\u00e9ret,1
+E. Crivelli,R. Rodelin,1
+E. Crivelli,J. F\u00e9ret,1
+S. Peeters,R. Rodelin,1
+D. Da Silva,V. Bessat,1
+R. Rodelin,D. Da Silva,1
+A. Djiku,J. F\u00e9ret,1
+E. Crivelli,D. Da Silva,1
+R. Rodelin,S. Peeters,1
+I. Santini,S. Peeters,1
+R. Genevois,I. Santini,1
+I. Santini,R. Genevois,1
+R. Vercoutre,D. Da Silva,1

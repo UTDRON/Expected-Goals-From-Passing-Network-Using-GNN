@@ -1,0 +1,17 @@
+Source,Target,Weight
+S. Yago,Y. Bodiger,3
+S. Yago,C. Jean,2
+Y. Bodiger,S. Yago,2
+Q. Boisgard,M. Gradel,2
+C. Jean,S. Yago,2
+K. Amian,M. Gradel,1
+A. Lafont,A. Blin,1
+A. Delort,Y. Bodiger,1
+A. Blin,S. Yago,1
+C. Jullien,K. Amian,1
+Y. Bodiger,A. Lafont,1
+A. Lafont,C. Jullien,1
+M. Gradel,Q. Boisgard,1
+Y. Bodiger,Q. Boisgard,1
+S. Yago,A. Delort,1
+M. Gradel,A. Lafont,1

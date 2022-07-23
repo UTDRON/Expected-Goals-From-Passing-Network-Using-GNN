@@ -1,0 +1,35 @@
+Source,Target,Weight
+R. Aguilar,G. Sio,2
+J. Roussillon,P. Lasne,2
+E. Skhiri,D. Congr\u00e9,2
+N. Mukiele,E. Skhiri,2
+D. Congr\u00e9,Hilton,2
+I. Mbenza,D. Congr\u00e9,2
+E. Skhiri,N. Mukiele,2
+I. Mbenza,R. Aguilar,2
+N. Mukiele,Hilton,2
+Hilton,N. Mukiele,2
+B. Lecomte,G. Sio,1
+E. Skhiri,B. Lecomte,1
+G. Sio,N. Mukiele,1
+P. Lasne,B. Lecomte,1
+S. Camara,J. Roussillon,1
+R. Aguilar,I. Mbenza,1
+Hilton,D. Congr\u00e9,1
+I. Mbenza,J. Roussillon,1
+I. Mbenza,G. Sio,1
+J. Sambia,I. Mbenza,1
+D. Congr\u00e9,J. Roussillon,1
+G. Sio,R. Aguilar,1
+N. Mukiele,J. Sambia,1
+D. Congr\u00e9,E. Skhiri,1
+D. Congr\u00e9,I. Mbenza,1
+B. Lecomte,N. Mukiele,1
+P. Lasne,D. Congr\u00e9,1
+D. Congr\u00e9,S. Camara,1
+J. Roussillon,I. Mbenza,1
+G. Sio,I. Mbenza,1
+N. Mukiele,I. Mbenza,1
+B. Lecomte,J. Sambia,1
+J. Sambia,E. Skhiri,1
+Hilton,B. Lecomte,1

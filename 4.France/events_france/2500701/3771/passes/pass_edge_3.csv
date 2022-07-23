@@ -1,0 +1,66 @@
+Source,Target,Weight
+Luiz Gustavo,M. Lopez,3
+A. Rami,H. Sakai,3
+A. Zambo Anguissa,H. Sakai,3
+Luiz Gustavo,A. Zambo Anguissa,3
+H. Sakai,F. Thauvin,3
+M. Lopez,C. N'Jie,3
+P. Evra,Rolando,2
+H. Sakai,M. Lopez,2
+F. Thauvin,H. Sakai,2
+H. Sakai,Luiz Gustavo,2
+A. Rami,Luiz Gustavo,2
+M. Lopez,A. Zambo Anguissa,2
+Rolando,Luiz Gustavo,2
+Luiz Gustavo,V. Germain,1
+V. Germain,A. Rami,1
+C. N'Jie,A. Rami,1
+S. Mandanda,Luiz Gustavo,1
+Rolando,S. Mandanda,1
+M. Lopez,A. Rami,1
+H. Sakai,A. Rami,1
+C. N'Jie,H. Sakai,1
+A. Rami,M. Lopez,1
+P. Evra,A. Rami,1
+H. Sakai,S. Mandanda,1
+A. Rami,Rolando,1
+M. Lopez,H. Sakai,1
+V. Germain,H. Sakai,1
+A. Zambo Anguissa,A. Rami,1
+Rolando,A. Rami,1
+S. Mandanda,A. Rami,1
+M. Lopez,Luiz Gustavo,1
+M. Lopez,Rolando,1
+A. Zambo Anguissa,Rolando,1
+C. N'Jie,V. Germain,1
+H. Sakai,V. Germain,1
+H. Sakai,A. Zambo Anguissa,1
+S. Mandanda,C. N'Jie,1
+C. N'Jie,M. Lopez,1
+V. Germain,F. Thauvin,1
+Luiz Gustavo,H. Sakai,1
+Luiz Gustavo,P. Evra,1
+Luiz Gustavo,S. Mandanda,1
+P. Evra,S. Mandanda,1
+A. Zambo Anguissa,V. Germain,1
+H. Sakai,P. Evra,1
+V. Germain,M. Lopez,1
+A. Zambo Anguissa,Luiz Gustavo,1
+F. Thauvin,Luiz Gustavo,1
+A. Rami,P. Evra,1
+Luiz Gustavo,F. Thauvin,1
+A. Rami,F. Thauvin,1
+V. Germain,Luiz Gustavo,1
+F. Thauvin,Rolando,1
+Rolando,M. Lopez,1
+F. Thauvin,A. Zambo Anguissa,1
+Rolando,P. Evra,1
+M. Lopez,V. Germain,1
+M. Lopez,F. Thauvin,1
+Luiz Gustavo,C. N'Jie,1
+C. N'Jie,F. Thauvin,1
+F. Thauvin,A. Rami,1
+F. Thauvin,M. Lopez,1
+M. Lopez,P. Evra,1
+S. Mandanda,M. Lopez,1
+P. Evra,Luiz Gustavo,1

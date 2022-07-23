@@ -1,0 +1,17 @@
+Source,Target,Weight
+C. Ar\u00e1nguiz,B. Leno,2
+B. Leno,K. Havertz,1
+L. Bender,J. Tah,1
+B. Leno,L. Bender,1
+L. Bailey,D. Kohr,1
+L. Bailey,Wendell,1
+Wendell,C. Ar\u00e1nguiz,1
+J. Tah,L. Bailey,1
+L. Bailey,C. Ar\u00e1nguiz,1
+L. Bender,L. Alario,1
+L. Alario,L. Bailey,1
+K. Havertz,C. Ar\u00e1nguiz,1
+L. Bailey,L. Alario,1
+C. Ar\u00e1nguiz,D. Kohr,1
+D. Kohr,L. Bender,1
+D. Kohr,L. Bailey,1

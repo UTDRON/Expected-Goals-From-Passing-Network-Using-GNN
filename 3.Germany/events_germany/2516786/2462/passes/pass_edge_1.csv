@@ -1,0 +1,83 @@
+Source,Target,Weight
+D. Abraham,T. Chandler,7
+T. Chandler,M. Wolf,5
+S. Haller,J. de Guzm\u00e1n,5
+S. Falette,J. Willems,4
+S. Falette,D. Abraham,4
+J. Willems,S. Haller,4
+T. Chandler,D. Kamada,3
+M. Wolf,S. Haller,3
+M. Wolf,J. Willems,3
+S. Haller,J. Willems,3
+L. Hradecky,S. Haller,3
+J. Willems,D. Kamada,3
+J. de Guzm\u00e1n,T. Chandler,3
+D. Kamada,J. de Guzm\u00e1n,2
+T. Chandler,D. Abraham,2
+S. Haller,S. Falette,2
+M. Hasebe,L. Hradecky,2
+S. Haller,D. Abraham,2
+D. Kamada,M. Wolf,2
+J. Willems,S. Falette,2
+S. Haller,M. Wolf,2
+T. Chandler,S. Haller,2
+M. Hasebe,D. Abraham,2
+J. Willems,D. Abraham,2
+G. Fernandes,J. de Guzm\u00e1n,2
+D. Abraham,M. Hasebe,2
+M. Wolf,G. Fernandes,2
+J. Willems,J. de Guzm\u00e1n,2
+M. Hasebe,K. Boateng,2
+J. de Guzm\u00e1n,D. Abraham,2
+D. Abraham,L. Hradecky,2
+M. Wolf,T. Chandler,2
+J. de Guzm\u00e1n,S. Falette,2
+G. Fernandes,M. Hasebe,2
+J. de Guzm\u00e1n,D. Kamada,2
+D. Abraham,J. Willems,2
+J. Willems,M. Hasebe,2
+J. de Guzm\u00e1n,M. Hasebe,1
+L. Hradecky,G. Fernandes,1
+M. Hasebe,S. Haller,1
+M. Hasebe,M. Wolf,1
+L. Hradecky,J. de Guzm\u00e1n,1
+T. Chandler,G. Fernandes,1
+D. Kamada,S. Falette,1
+M. Hasebe,J. Willems,1
+L. Hradecky,T. Chandler,1
+D. Abraham,J. de Guzm\u00e1n,1
+D. Kamada,G. Fernandes,1
+K. Boateng,M. Hasebe,1
+K. Boateng,L. Hradecky,1
+L. Hradecky,M. Hasebe,1
+J. Willems,G. Fernandes,1
+L. Hradecky,K. Boateng,1
+S. Falette,S. Haller,1
+S. Haller,T. Chandler,1
+K. Boateng,J. de Guzm\u00e1n,1
+S. Falette,L. Hradecky,1
+S. Haller,L. Hradecky,1
+D. Kamada,L. Hradecky,1
+J. de Guzm\u00e1n,M. Wolf,1
+D. Abraham,M. Wolf,1
+J. de Guzm\u00e1n,S. Haller,1
+M. Wolf,M. Hasebe,1
+M. Hasebe,T. Chandler,1
+J. de Guzm\u00e1n,J. Willems,1
+D. Abraham,G. Fernandes,1
+M. Hasebe,S. Falette,1
+G. Fernandes,J. Willems,1
+G. Fernandes,M. Wolf,1
+M. Wolf,S. Falette,1
+S. Falette,M. Hasebe,1
+L. Hradecky,S. Falette,1
+T. Chandler,J. Willems,1
+T. Chandler,L. Hradecky,1
+G. Fernandes,D. Abraham,1
+D. Kamada,S. Haller,1
+S. Haller,G. Fernandes,1
+G. Fernandes,S. Falette,1
+L. Hradecky,D. Kamada,1
+M. Wolf,D. Kamada,1
+D. Kamada,D. Abraham,1
+J. de Guzm\u00e1n,L. Hradecky,1

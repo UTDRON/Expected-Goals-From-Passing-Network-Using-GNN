@@ -1,0 +1,71 @@
+Source,Target,Weight
+M. Hasebe,D. Abraham,5
+J. Willems,S. Haller,5
+D. Abraham,M. Hasebe,4
+T. Chandler,D. Abraham,4
+S. Falette,J. Willems,4
+J. Willems,S. Falette,4
+J. de Guzm\u00e1n,S. Haller,3
+S. Haller,J. de Guzm\u00e1n,3
+M. Hasebe,L. Hradecky,3
+S. Falette,L. Hradecky,2
+M. Ga\u0107inovi\u0107,D. Abraham,2
+J. Willems,J. de Guzm\u00e1n,2
+L. Hradecky,S. Falette,2
+D. Abraham,S. Haller,2
+M. Hasebe,G. Fernandes,2
+G. Fernandes,M. Hasebe,2
+M. Hasebe,S. Falette,2
+S. Falette,M. Ga\u0107inovi\u0107,2
+D. Abraham,M. Ga\u0107inovi\u0107,2
+D. Kamada,M. Hasebe,2
+M. Ga\u0107inovi\u0107,J. de Guzm\u00e1n,2
+D. Abraham,J. Willems,2
+S. Falette,G. Fernandes,2
+G. Fernandes,D. Kamada,2
+S. Falette,M. Hasebe,2
+S. Haller,M. Ga\u0107inovi\u0107,2
+G. Fernandes,L. Hradecky,2
+M. Hasebe,T. Chandler,2
+S. Haller,D. Kamada,2
+S. Haller,M. Hasebe,2
+J. de Guzm\u00e1n,J. Willems,2
+J. Willems,M. Hasebe,2
+M. Ga\u0107inovi\u0107,T. Chandler,2
+L. Hradecky,M. Hasebe,2
+G. Fernandes,S. Falette,2
+D. Abraham,G. Fernandes,1
+T. Chandler,D. Kamada,1
+J. de Guzm\u00e1n,D. Abraham,1
+D. Abraham,D. Kamada,1
+D. Kamada,T. Chandler,1
+T. Chandler,G. Fernandes,1
+M. Ga\u0107inovi\u0107,D. Kamada,1
+M. Ga\u0107inovi\u0107,J. Willems,1
+D. Kamada,G. Fernandes,1
+J. de Guzm\u00e1n,G. Fernandes,1
+D. Abraham,S. Falette,1
+D. Abraham,T. Chandler,1
+S. Falette,D. Abraham,1
+L. Hradecky,G. Fernandes,1
+M. Hasebe,J. Willems,1
+D. Kamada,M. Ga\u0107inovi\u0107,1
+D. Kamada,S. Falette,1
+J. de Guzm\u00e1n,T. Chandler,1
+M. Hasebe,S. Haller,1
+L. Hradecky,D. Abraham,1
+S. Haller,T. Chandler,1
+J. Willems,T. Chandler,1
+D. Abraham,J. de Guzm\u00e1n,1
+S. Haller,D. Abraham,1
+T. Chandler,J. Willems,1
+D. Kamada,J. de Guzm\u00e1n,1
+G. Fernandes,J. Willems,1
+K. Boateng,J. Willems,1
+T. Chandler,S. Haller,1
+S. Falette,K. Boateng,1
+J. de Guzm\u00e1n,S. Falette,1
+D. Kamada,J. Willems,1
+S. Haller,S. Falette,1
+L. Hradecky,J. de Guzm\u00e1n,1
+J. de Guzm\u00e1n,D. Kamada,1

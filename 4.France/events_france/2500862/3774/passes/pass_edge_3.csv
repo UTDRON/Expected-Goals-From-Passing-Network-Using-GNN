@@ -1,0 +1,46 @@
+Source,Target,Weight
+B. Bourigeaud,F. Mubele,4
+M. Amalfitano,R. Bensebaini,3
+H. Traor\u00e9,Mexer,3
+B. Bourigeaud,H. Traor\u00e9,2
+B. Andr\u00e9,B. Bourigeaud,2
+B. Andr\u00e9,H. Traor\u00e9,2
+R. Danz\u00e9,H. Traor\u00e9,2
+F. Mubele,B. Bourigeaud,2
+H. Traor\u00e9,B. Bourigeaud,2
+R. Bensebaini,M. Amalfitano,2
+F. Mubele,R. Bensebaini,2
+H. Traor\u00e9,B. Andr\u00e9,2
+Mexer,B. Bourigeaud,2
+F. Mubele,H. Traor\u00e9,1
+F. Mubele,J. Lea Siliki,1
+B. Andr\u00e9,M. Amalfitano,1
+M. Amalfitano,H. Traor\u00e9,1
+B. Andr\u00e9,F. Mubele,1
+Mexer,T. Koubek,1
+T. Koubek,F. Mubele,1
+F. Mubele,J. Gnagnon,1
+H. Traor\u00e9,R. Danz\u00e9,1
+J. Lea Siliki,M. Amalfitano,1
+F. Mubele,B. Andr\u00e9,1
+Mexer,J. Gnagnon,1
+M. Amalfitano,B. Andr\u00e9,1
+J. Gnagnon,M. Amalfitano,1
+J. Gnagnon,J. Lea Siliki,1
+Mexer,R. Danz\u00e9,1
+Mexer,H. Traor\u00e9,1
+R. Bensebaini,J. Gnagnon,1
+M. Amalfitano,Mexer,1
+R. Bensebaini,B. Bourigeaud,1
+T. Koubek,B. Andr\u00e9,1
+B. Bourigeaud,J. Lea Siliki,1
+J. Gnagnon,Mexer,1
+Mexer,F. Mubele,1
+B. Bourigeaud,B. Andr\u00e9,1
+J. Lea Siliki,B. Bourigeaud,1
+R. Bensebaini,Mexer,1
+R. Danz\u00e9,T. Koubek,1
+F. Mubele,M. Amalfitano,1
+J. Lea Siliki,F. Mubele,1
+B. Bourigeaud,R. Danz\u00e9,1
+H. Traor\u00e9,F. Mubele,1

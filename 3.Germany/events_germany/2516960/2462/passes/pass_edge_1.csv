@@ -1,0 +1,36 @@
+Source,Target,Weight
+S. Haller,D. da Costa,4
+S. Falette,J. de Guzm\u00e1n,3
+M. Hasebe,S. Falette,2
+D. da Costa,S. Haller,2
+D. Abraham,M. Hasebe,2
+J. de Guzm\u00e1n,M. Hasebe,2
+T. Chandler,A. Rebi\u0107,2
+D. Abraham,S. Haller,2
+J. de Guzm\u00e1n,S. Falette,2
+J. de Guzm\u00e1n,D. Abraham,2
+M. Hasebe,D. Abraham,2
+M. Hasebe,A. Rebi\u0107,1
+G. Fernandes,S. Haller,1
+M. Wolf,D. da Costa,1
+D. Abraham,D. da Costa,1
+D. da Costa,J. de Guzm\u00e1n,1
+S. Falette,T. Chandler,1
+M. Hasebe,M. Wolf,1
+A. Rebi\u0107,S. Haller,1
+M. Hasebe,J. de Guzm\u00e1n,1
+A. Rebi\u0107,M. Hasebe,1
+D. da Costa,M. Hasebe,1
+S. Haller,A. Rebi\u0107,1
+M. Hasebe,D. da Costa,1
+M. Wolf,J. de Guzm\u00e1n,1
+D. da Costa,T. Chandler,1
+T. Chandler,G. Fernandes,1
+J. de Guzm\u00e1n,T. Chandler,1
+D. da Costa,M. Wolf,1
+S. Falette,M. Hasebe,1
+A. Rebi\u0107,G. Fernandes,1
+M. Wolf,M. Hasebe,1
+S. Haller,J. de Guzm\u00e1n,1
+G. Fernandes,M. Wolf,1
+D. da Costa,D. Abraham,1

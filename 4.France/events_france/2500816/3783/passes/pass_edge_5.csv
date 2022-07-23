@@ -1,0 +1,48 @@
+Source,Target,Weight
+I. Santini,R. Rodelin,5
+R. Rodelin,I. Santini,3
+J. Nkololo,J. F\u00e9ret,3
+R. Rodelin,J. F\u00e9ret,3
+J. F\u00e9ret,I. Santini,3
+F. Guilbert,R. Genevois,3
+Y. A\u00eft Bennasser,R. Rodelin,3
+A. Djiku,A. Mbengue,2
+R. Genevois,Y. A\u00eft Bennasser,2
+A. Mbengue,Y. A\u00eft Bennasser,2
+J. F\u00e9ret,A. Mbengue,2
+A. Mbengue,J. Nkololo,2
+Y. A\u00eft Bennasser,A. Mbengue,2
+J. F\u00e9ret,J. Nkololo,2
+A. Mbengue,A. Djiku,2
+A. Mbengue,I. Santini,2
+A. Djiku,I. Santini,2
+R. Rodelin,R. Genevois,2
+I. Santini,A. Djiku,2
+Y. A\u00eft Bennasser,F. Guilbert,1
+R. Genevois,R. Vercoutre,1
+I. Santini,Y. A\u00eft Bennasser,1
+F. Guilbert,C. Kouakou,1
+R. Genevois,J. Nkololo,1
+I. Santini,F. Guilbert,1
+F. Guilbert,Y. A\u00eft Bennasser,1
+C. Kouakou,J. F\u00e9ret,1
+R. Vercoutre,J. F\u00e9ret,1
+A. Mbengue,C. Kouakou,1
+R. Rodelin,A. Djiku,1
+I. Santini,C. Kouakou,1
+C. Kouakou,F. Guilbert,1
+R. Rodelin,C. Kouakou,1
+A. Djiku,R. Vercoutre,1
+J. F\u00e9ret,R. Rodelin,1
+Y. A\u00eft Bennasser,A. Djiku,1
+J. Nkololo,I. Santini,1
+I. Santini,J. Nkololo,1
+R. Genevois,F. Guilbert,1
+R. Rodelin,F. Guilbert,1
+J. Nkololo,R. Rodelin,1
+A. Djiku,R. Rodelin,1
+R. Rodelin,A. Mbengue,1
+C. Kouakou,R. Rodelin,1
+R. Vercoutre,A. Mbengue,1
+C. Kouakou,A. Mbengue,1
+J. Nkololo,A. Mbengue,1

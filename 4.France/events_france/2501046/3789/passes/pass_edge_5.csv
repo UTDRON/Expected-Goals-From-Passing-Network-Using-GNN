@@ -1,0 +1,51 @@
+Source,Target,Weight
+Danilo Avelar,B. Dibassy,5
+B. Dibassy,K. Ad\u00e9non,5
+K. Ad\u00e9non,B. Dibassy,4
+K. Ad\u00e9non,Danilo Avelar,3
+G. Fofana,K. Ad\u00e9non,3
+K. Ad\u00e9non,G. Fofana,2
+B. Dibassy,G. Fofana,2
+Danilo Avelar,M. Konat\u00e9,2
+B. Dibassy,Danilo Avelar,2
+K. Ad\u00e9non,O. El Hajjam,2
+G. Kakuta,Danilo Avelar,2
+B. Dibassy,H. Manzala,2
+O. El Hajjam,K. Ad\u00e9non,2
+R. Gurtner,T. Monconduit,2
+H. Manzala,Danilo Avelar,2
+K. Ad\u00e9non,G. Kakuta,2
+Q. Cornette,K. Ad\u00e9non,2
+Danilo Avelar,T. Monconduit,2
+T. Monconduit,G. Fofana,2
+T. Monconduit,H. Manzala,2
+G. Fofana,Q. Cornette,1
+Danilo Avelar,O. El Hajjam,1
+H. Manzala,B. Dibassy,1
+G. Fofana,G. Kakuta,1
+H. Manzala,R. Gurtner,1
+R. Gurtner,B. Dibassy,1
+G. Fofana,O. El Hajjam,1
+R. Gurtner,Danilo Avelar,1
+H. Manzala,M. Konat\u00e9,1
+K. Ad\u00e9non,T. Monconduit,1
+H. Manzala,G. Fofana,1
+B. Dibassy,O. El Hajjam,1
+G. Kakuta,K. Ad\u00e9non,1
+G. Fofana,Danilo Avelar,1
+G. Kakuta,Q. Cornette,1
+G. Fofana,T. Monconduit,1
+O. El Hajjam,H. Manzala,1
+M. Konat\u00e9,Danilo Avelar,1
+O. El Hajjam,B. Dibassy,1
+Danilo Avelar,R. Gurtner,1
+O. El Hajjam,M. Konat\u00e9,1
+T. Monconduit,Danilo Avelar,1
+G. Kakuta,O. El Hajjam,1
+B. Dibassy,R. Gurtner,1
+M. Konat\u00e9,G. Kakuta,1
+Danilo Avelar,G. Kakuta,1
+O. El Hajjam,R. Gurtner,1
+M. Konat\u00e9,G. Fofana,1
+Danilo Avelar,H. Manzala,1
+T. Monconduit,K. Ad\u00e9non,1

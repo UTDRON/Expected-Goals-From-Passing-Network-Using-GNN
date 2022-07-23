@@ -1,0 +1,23 @@
+Source,Target,Weight
+S. San\u00e9,I. Bebou,2
+S. Maier,S. San\u00e9,2
+I. Fossum,N. F\u00fcllkrug,2
+S. San\u00e9,I. Fossum,1
+W. Anton,J. Elez,1
+M. Ostrzolek,S. Maier,1
+S. Maier,W. Anton,1
+I. Bebou,J. Korb,1
+O. Sorg,S. Maier,1
+I. Bebou,N. F\u00fcllkrug,1
+I. Fossum,J. Korb,1
+M. Ostrzolek,O. Sorg,1
+J. Elez,I. Fossum,1
+J. Korb,M. Ostrzolek,1
+N. F\u00fcllkrug,I. Bebou,1
+N. F\u00fcllkrug,S. Maier,1
+S. Maier,I. Fossum,1
+S. Maier,N. F\u00fcllkrug,1
+I. Bebou,S. Maier,1
+N. F\u00fcllkrug,S. San\u00e9,1
+N. F\u00fcllkrug,M. Ostrzolek,1
+J. Korb,S. Maier,1

@@ -1,0 +1,65 @@
+Source,Target,Weight
+B. Andr\u00e9,Afonso Figueiredo,5
+Afonso Figueiredo,B. Andr\u00e9,5
+H. Traor\u00e9,F. Mubele,4
+Mexer,B. Andr\u00e9,4
+Brandon,M. Amalfitano,3
+B. Andr\u00e9,Mexer,3
+M. Amalfitano,B. Andr\u00e9,3
+Brandon,B. Andr\u00e9,3
+M. Amalfitano,H. Traor\u00e9,3
+H. Traor\u00e9,J. Lea Siliki,3
+B. Andr\u00e9,J. Lea Siliki,3
+B. Andr\u00e9,Brandon,3
+Afonso Figueiredo,M. Amalfitano,3
+Afonso Figueiredo,Brandon,3
+A. Hunou,J. Lea Siliki,2
+F. Mubele,A. Hunou,2
+F. Mubele,H. Traor\u00e9,2
+M. Amalfitano,Brandon,2
+J. Lea Siliki,F. Mubele,2
+A. Hunou,H. Traor\u00e9,2
+F. Mubele,Mexer,2
+B. Andr\u00e9,M. Amalfitano,2
+Mexer,Afonso Figueiredo,2
+Brandon,T. Koubek,2
+M. Amalfitano,Afonso Figueiredo,2
+F. Mubele,Afonso Figueiredo,2
+J. Lea Siliki,B. Andr\u00e9,2
+Brandon,Mexer,2
+Afonso Figueiredo,Mexer,2
+H. Traor\u00e9,J. Gelin,2
+H. Traor\u00e9,A. Hunou,2
+J. Lea Siliki,M. Amalfitano,1
+A. Hunou,F. Mubele,1
+M. Amalfitano,A. Hunou,1
+M. Amalfitano,F. Mubele,1
+Afonso Figueiredo,A. Hunou,1
+F. Mubele,T. Koubek,1
+A. Hunou,M. Amalfitano,1
+J. Gelin,H. Traor\u00e9,1
+J. Lea Siliki,Brandon,1
+J. Gelin,M. Amalfitano,1
+T. Koubek,Afonso Figueiredo,1
+Mexer,J. Gelin,1
+Mexer,F. Mubele,1
+T. Koubek,Brandon,1
+J. Gelin,Afonso Figueiredo,1
+H. Traor\u00e9,B. Andr\u00e9,1
+F. Mubele,Brandon,1
+J. Gelin,J. Lea Siliki,1
+Brandon,H. Traor\u00e9,1
+A. Hunou,Brandon,1
+J. Lea Siliki,A. Hunou,1
+J. Lea Siliki,J. Gelin,1
+Mexer,Brandon,1
+T. Koubek,Mexer,1
+A. Hunou,Mexer,1
+Afonso Figueiredo,F. Mubele,1
+Mexer,T. Koubek,1
+J. Lea Siliki,Afonso Figueiredo,1
+Mexer,M. Amalfitano,1
+B. Andr\u00e9,H. Traor\u00e9,1
+Brandon,A. Hunou,1
+T. Koubek,H. Traor\u00e9,1
+Brandon,Afonso Figueiredo,1

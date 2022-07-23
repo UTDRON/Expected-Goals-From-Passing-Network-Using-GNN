@@ -1,0 +1,58 @@
+Source,Target,Weight
+N. Mendy,M. Sarr,9
+M. Sarr,N. Mendy,6
+M. Sarr,R. Coly,5
+A. Tameze,N. Mendy,5
+M. Sarr,P. Lees Melou,4
+Marlon,M. Sarr,3
+J. Makengo,P. Lees Melou,3
+R. Coly,J. Makengo,3
+N. Mendy,P. Burner,3
+M. Sarr,Marlon,3
+P. Lees Melou,A. Tameze,3
+R. Coly,M. Sarr,2
+I. Sacko,A. Tameze,2
+J. Makengo,N. Mendy,2
+P. Burner,I. Sacko,2
+P. Burner,Marlon,2
+I. Sacko,N. Mendy,2
+A. Pl\u00e9a,I. Sacko,2
+N. Mendy,W. Ben\u00edtez,2
+N. Mendy,I. Sacko,2
+Marlon,P. Burner,2
+P. Lees Melou,M. Sarr,2
+P. Burner,N. Mendy,2
+N. Mendy,A. Tameze,2
+W. Ben\u00edtez,M. Sarr,2
+P. Burner,A. Tameze,2
+P. Lees Melou,J. Makengo,2
+N. Mendy,P. Lees Melou,2
+P. Lees Melou,A. Pl\u00e9a,2
+A. Tameze,R. Coly,1
+A. Tameze,M. Sarr,1
+P. Burner,A. Pl\u00e9a,1
+A. Tameze,P. Lees Melou,1
+I. Sacko,A. Pl\u00e9a,1
+M. Sarr,J. Makengo,1
+N. Mendy,Marlon,1
+I. Sacko,M. Sarr,1
+J. Makengo,M. Sarr,1
+Marlon,W. Ben\u00edtez,1
+Marlon,A. Tameze,1
+A. Pl\u00e9a,N. Mendy,1
+P. Lees Melou,Marlon,1
+M. Sarr,A. Pl\u00e9a,1
+A. Tameze,P. Burner,1
+W. Ben\u00edtez,Marlon,1
+Marlon,N. Mendy,1
+W. Ben\u00edtez,N. Mendy,1
+M. Sarr,W. Ben\u00edtez,1
+R. Coly,P. Lees Melou,1
+I. Sacko,P. Lees Melou,1
+A. Pl\u00e9a,P. Burner,1
+R. Coly,P. Burner,1
+A. Pl\u00e9a,R. Coly,1
+I. Sacko,P. Burner,1
+P. Lees Melou,I. Sacko,1
+A. Tameze,I. Sacko,1
+P. Lees Melou,N. Mendy,1

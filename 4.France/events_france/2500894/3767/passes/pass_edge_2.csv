@@ -1,0 +1,51 @@
+Source,Target,Weight
+Thiago Silva,G. Lo Celso,4
+M. Verratti,G. Lo Celso,4
+G. Lo Celso,J. Draxler,4
+J. Draxler,M. Verratti,3
+M. Verratti,T. Meunier,3
+G. Lo Celso,T. Meunier,3
+G. Lo Celso,P. Kimpembe,3
+T. Meunier,\u00c1. di Mar\u00eda,3
+M. Verratti,Thiago Silva,2
+J. Draxler,Yuri Berchiche,2
+P. Kimpembe,Neymar,2
+Neymar,J. Draxler,2
+Yuri Berchiche,Neymar,2
+\u00c1. di Mar\u00eda,Thiago Silva,2
+T. Meunier,G. Lo Celso,2
+T. Meunier,M. Verratti,2
+T. Meunier,Thiago Silva,2
+G. Lo Celso,M. Verratti,2
+Thiago Silva,P. Kimpembe,2
+Thiago Silva,M. Verratti,2
+\u00c1. di Mar\u00eda,G. Lo Celso,2
+M. Verratti,J. Draxler,2
+G. Lo Celso,Thiago Silva,2
+P. Kimpembe,Thiago Silva,1
+Neymar,G. Lo Celso,1
+A. Ar\u00e9ola,Thiago Silva,1
+A. Ar\u00e9ola,\u00c1. di Mar\u00eda,1
+P. Kimpembe,G. Lo Celso,1
+\u00c1. di Mar\u00eda,M. Verratti,1
+Thiago Silva,\u00c1. di Mar\u00eda,1
+J. Draxler,G. Lo Celso,1
+E. Cavani,G. Lo Celso,1
+P. Kimpembe,E. Cavani,1
+J. Draxler,\u00c1. di Mar\u00eda,1
+J. Draxler,P. Kimpembe,1
+\u00c1. di Mar\u00eda,T. Meunier,1
+Thiago Silva,T. Meunier,1
+P. Kimpembe,M. Verratti,1
+Thiago Silva,J. Draxler,1
+\u00c1. di Mar\u00eda,P. Kimpembe,1
+M. Verratti,\u00c1. di Mar\u00eda,1
+G. Lo Celso,Neymar,1
+\u00c1. di Mar\u00eda,Yuri Berchiche,1
+G. Lo Celso,E. Cavani,1
+P. Kimpembe,A. Ar\u00e9ola,1
+J. Draxler,Thiago Silva,1
+Neymar,A. Ar\u00e9ola,1
+Yuri Berchiche,\u00c1. di Mar\u00eda,1
+A. Ar\u00e9ola,T. Meunier,1
+E. Cavani,M. Verratti,1

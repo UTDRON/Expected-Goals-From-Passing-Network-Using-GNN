@@ -1,0 +1,56 @@
+Source,Target,Weight
+D. Caligiuri,L. Goretzka,4
+M. Nastasi\u0107,B. Oczipka,4
+L. Goretzka,G. Burgstaller,3
+T. Kehrer,R. F\u00e4hrmann,3
+R. F\u00e4hrmann,T. Kehrer,3
+A. Harit,D. Caligiuri,3
+W. McKennie,A. Harit,3
+D. Caligiuri,T. Kehrer,3
+T. Kehrer,N. Bentaleb,3
+N. Bentaleb,M. Nastasi\u0107,3
+B. Oczipka,M. Nastasi\u0107,3
+A. Harit,B. Oczipka,2
+W. McKennie,M. Nastasi\u0107,2
+G. Burgstaller,W. McKennie,2
+L. Goretzka,D. Caligiuri,2
+T. Kehrer,D. Caligiuri,2
+D. Caligiuri,G. Burgstaller,2
+G. Burgstaller,Naldo,2
+B. Oczipka,G. Burgstaller,2
+M. Nastasi\u0107,N. Bentaleb,2
+W. McKennie,L. Goretzka,2
+G. Burgstaller,R. F\u00e4hrmann,2
+G. Burgstaller,A. Harit,1
+D. Caligiuri,W. McKennie,1
+G. Burgstaller,N. Bentaleb,1
+M. Nastasi\u0107,T. Kehrer,1
+L. Goretzka,B. Oczipka,1
+N. Bentaleb,W. McKennie,1
+R. F\u00e4hrmann,M. Nastasi\u0107,1
+Naldo,B. Oczipka,1
+A. Harit,W. McKennie,1
+L. Goretzka,A. Harit,1
+L. Goretzka,Naldo,1
+A. Harit,G. Burgstaller,1
+R. F\u00e4hrmann,L. Goretzka,1
+D. Caligiuri,N. Bentaleb,1
+W. McKennie,D. Caligiuri,1
+N. Bentaleb,T. Kehrer,1
+R. F\u00e4hrmann,D. Caligiuri,1
+B. Oczipka,D. Caligiuri,1
+L. Goretzka,T. Kehrer,1
+N. Bentaleb,G. Burgstaller,1
+M. Nastasi\u0107,A. Harit,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+N. Bentaleb,L. Goretzka,1
+G. Burgstaller,L. Goretzka,1
+B. Oczipka,W. McKennie,1
+Naldo,D. Caligiuri,1
+M. Nastasi\u0107,Naldo,1
+Naldo,W. McKennie,1
+Naldo,N. Bentaleb,1
+B. Oczipka,A. Harit,1
+D. Caligiuri,Naldo,1
+Naldo,M. Nastasi\u0107,1
+T. Kehrer,W. McKennie,1

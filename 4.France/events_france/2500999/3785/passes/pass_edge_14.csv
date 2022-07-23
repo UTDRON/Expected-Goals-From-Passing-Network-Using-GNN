@@ -1,0 +1,18 @@
+Source,Target,Weight
+M. Thuram,C. Grenier,1
+L. Blas,M. Thuram,1
+J. Ikoko,C. Grenier,1
+C. Kerbrat,J. Ikoko,1
+L. Blas,C. Grenier,1
+L. Blas,M. Coco,1
+C. Grenier,C. Kerbrat,1
+M. Thuram,Pedro Rebocho,1
+M. Coco,M. Thuram,1
+C. Grenier,M. Coco,1
+Pedro Rebocho,M. Thuram,1
+M. Coco,C. Grenier,1
+C. Kerbrat,L. Blas,1
+M. Thuram,C. Kerbrat,1
+C. Grenier,\u00c9. Didot,1
+C. Grenier,L. Blas,1
+\u00c9. Didot,L. Blas,1

@@ -1,0 +1,20 @@
+Source,Target,Weight
+L. Bailey,B. Henrichs,2
+Wendell,C. Ar\u00e1nguiz,1
+B. Henrichs,L. Bailey,1
+S. Bender,C. Ar\u00e1nguiz,1
+B. Henrichs,S. Bender,1
+B. Leno,A. Mehmedi,1
+J. Baumgartlinger,B. Henrichs,1
+C. Ar\u00e1nguiz,B. Henrichs,1
+A. Mehmedi,S. Bender,1
+J. Baumgartlinger,A. Mehmedi,1
+S. Bender,Wendell,1
+C. Ar\u00e1nguiz,K. Volland,1
+K. Volland,L. Alario,1
+B. Henrichs,B. Leno,1
+B. Henrichs,A. Mehmedi,1
+L. Alario,B. Henrichs,1
+A. Mehmedi,J. Baumgartlinger,1
+A. Mehmedi,C. Ar\u00e1nguiz,1
+B. Henrichs,J. Baumgartlinger,1

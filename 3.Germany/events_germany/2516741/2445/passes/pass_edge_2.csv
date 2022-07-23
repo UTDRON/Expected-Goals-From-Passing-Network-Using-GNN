@@ -1,0 +1,94 @@
+Source,Target,Weight
+S. Terodde,Ailton,9
+B. Pavard,M. Zimmermann,9
+M. Zimmermann,B. Pavard,8
+O. Mangala,Ailton,7
+M. Kami\u0144ski,B. Pavard,7
+T. Asano,M. Zimmermann,7
+Ailton,O. Mangala,6
+Ailton,M. Kami\u0144ski,6
+M. Zimmermann,C. Gentner,6
+O. Mangala,M. Zimmermann,6
+Ailton,J. Brekalo,6
+C. Gentner,O. Mangala,6
+R. Zieler,S. Terodde,6
+B. Pavard,R. Zieler,5
+J. Brekalo,Ailton,5
+Ailton,S. Terodde,5
+O. Mangala,B. Pavard,5
+C. Gentner,Ailton,5
+O. Mangala,C. Gentner,5
+M. Zimmermann,T. Asano,4
+C. Gentner,M. Zimmermann,4
+M. Zimmermann,O. Mangala,4
+B. Pavard,C. Gentner,4
+Ailton,C. Gentner,4
+M. Kami\u0144ski,Ailton,4
+M. Zimmermann,J. Brekalo,4
+C. Akolo,O. Mangala,4
+C. Gentner,M. Kami\u0144ski,4
+M. Zimmermann,R. Zieler,3
+M. Kami\u0144ski,R. Zieler,3
+Ailton,M. Zimmermann,3
+J. Brekalo,M. Kami\u0144ski,3
+C. Gentner,C. Akolo,3
+J. Brekalo,C. Gentner,3
+B. Pavard,C. Akolo,3
+T. Asano,O. Mangala,3
+O. Mangala,J. Brekalo,3
+C. Akolo,C. Gentner,3
+S. Terodde,O. Mangala,3
+B. Pavard,M. Kami\u0144ski,3
+C. Akolo,S. Terodde,3
+R. Zieler,B. Pavard,3
+C. Gentner,T. Asano,3
+C. Akolo,T. Asano,3
+J. Brekalo,S. Terodde,3
+R. Zieler,Ailton,2
+S. Terodde,B. Pavard,2
+T. Asano,C. Gentner,2
+M. Kami\u0144ski,C. Gentner,2
+C. Akolo,M. Zimmermann,2
+C. Gentner,J. Brekalo,2
+C. Gentner,R. Zieler,2
+J. Brekalo,M. Zimmermann,2
+Ailton,B. Pavard,2
+O. Mangala,M. Kami\u0144ski,2
+M. Zimmermann,C. Akolo,2
+B. Pavard,O. Mangala,2
+S. Terodde,C. Akolo,2
+T. Asano,S. Terodde,2
+O. Mangala,C. Akolo,2
+J. Brekalo,O. Mangala,2
+S. Terodde,J. Brekalo,2
+Ailton,T. Asano,2
+R. Zieler,M. Kami\u0144ski,1
+R. Zieler,C. Akolo,1
+B. Pavard,T. Asano,1
+M. Zimmermann,S. Terodde,1
+T. Asano,Ailton,1
+S. Terodde,M. Zimmermann,1
+M. Kami\u0144ski,J. Brekalo,1
+B. Pavard,J. Brekalo,1
+S. Terodde,C. Gentner,1
+T. Asano,R. Zieler,1
+M. Kami\u0144ski,S. Terodde,1
+R. Zieler,T. Asano,1
+M. Zimmermann,Ailton,1
+O. Mangala,R. Zieler,1
+T. Asano,C. Akolo,1
+M. Zimmermann,M. Kami\u0144ski,1
+Ailton,C. Akolo,1
+J. Brekalo,C. Akolo,1
+J. Brekalo,T. Asano,1
+C. Akolo,Ailton,1
+M. Kami\u0144ski,C. Akolo,1
+S. Terodde,T. Asano,1
+B. Pavard,S. Terodde,1
+O. Mangala,T. Asano,1
+C. Gentner,B. Pavard,1
+C. Akolo,B. Pavard,1
+R. Zieler,O. Mangala,1
+R. Zieler,J. Brekalo,1
+M. Kami\u0144ski,O. Mangala,1
+Ailton,R. Zieler,1

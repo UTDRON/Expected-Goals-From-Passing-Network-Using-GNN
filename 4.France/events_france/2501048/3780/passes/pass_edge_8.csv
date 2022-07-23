@@ -1,0 +1,48 @@
+Source,Target,Weight
+I. Sangar\u00e9,K. Amian,5
+K. Amian,I. Sangar\u00e9,4
+I. Sylla,C. Jullien,4
+O. Toivonen,M. Gradel,3
+C. Jullien,I. Sylla,3
+M. Gradel,I. Sylla,3
+I. Sylla,A. Lafont,3
+I. Diop,C. Jullien,2
+I. Sangar\u00e9,Y. Sanogo,2
+C. Jullien,O. Toivonen,2
+Y. Sanogo,O. Toivonen,2
+C. Jean,I. Sylla,2
+A. Lafont,M. Gradel,2
+I. Sylla,O. Toivonen,2
+I. Diop,I. Sangar\u00e9,2
+Som\u00e1lia,I. Sylla,2
+O. Toivonen,I. Sangar\u00e9,2
+C. Jullien,I. Sangar\u00e9,2
+A. Lafont,C. Jullien,2
+A. Lafont,K. Amian,1
+I. Sangar\u00e9,Som\u00e1lia,1
+O. Toivonen,C. Jean,1
+M. Gradel,C. Jullien,1
+I. Sylla,I. Sangar\u00e9,1
+Som\u00e1lia,C. Jullien,1
+K. Amian,A. Lafont,1
+O. Toivonen,I. Sylla,1
+Som\u00e1lia,A. Lafont,1
+I. Sylla,M. Gradel,1
+M. Gradel,O. Toivonen,1
+M. Gradel,Som\u00e1lia,1
+A. Lafont,Y. Sanogo,1
+C. Jullien,A. Lafont,1
+I. Sangar\u00e9,M. Gradel,1
+M. Gradel,A. Lafont,1
+C. Jullien,Som\u00e1lia,1
+C. Jullien,C. Jean,1
+A. Lafont,I. Diop,1
+Som\u00e1lia,I. Diop,1
+I. Sangar\u00e9,I. Diop,1
+C. Jean,I. Diop,1
+Y. Sanogo,C. Jean,1
+I. Sangar\u00e9,O. Toivonen,1
+I. Sylla,C. Jean,1
+K. Amian,I. Sylla,1
+O. Toivonen,Som\u00e1lia,1
+C. Jean,C. Jullien,1

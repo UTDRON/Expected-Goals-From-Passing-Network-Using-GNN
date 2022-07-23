@@ -1,0 +1,15 @@
+Source,Target,Weight
+Y. Cahuzac,A. Delort,2
+A. Delort,Y. Cahuzac,2
+A. Blin,C. Jullien,1
+C. Jean,G. Imbula,1
+Y. Cahuzac,K. Amian,1
+A. Delort,A. Blin,1
+K. Amian,Y. Cahuzac,1
+G. Imbula,A. Delort,1
+G. Imbula,A. Blin,1
+K. Amian,A. Blin,1
+A. Blin,G. Imbula,1
+C. Jullien,F. Moubandje,1
+F. Moubandje,G. Imbula,1
+G. Imbula,C. Jean,1

@@ -1,0 +1,95 @@
+Source,Target,Weight
+A. Rebi\u0107,J. Willems,7
+J. Willems,A. Rebi\u0107,5
+S. Haller,A. Rebi\u0107,5
+D. Abraham,S. Falette,5
+J. de Guzm\u00e1n,J. Willems,4
+D. Abraham,L. Hradecky,4
+C. Salcedo,T. Chandler,4
+J. Willems,J. de Guzm\u00e1n,4
+S. Falette,C. Salcedo,4
+S. Falette,D. Abraham,4
+G. Fernandes,D. Abraham,4
+T. Chandler,S. Haller,4
+T. Chandler,A. Rebi\u0107,3
+A. Rebi\u0107,D. Abraham,3
+L. Hradecky,S. Haller,3
+C. Salcedo,L. Hradecky,3
+T. Chandler,J. de Guzm\u00e1n,3
+S. Falette,G. Fernandes,3
+J. de Guzm\u00e1n,G. Fernandes,3
+T. Chandler,S. Falette,2
+J. de Guzm\u00e1n,K. Boateng,2
+M. Ga\u0107inovi\u0107,J. de Guzm\u00e1n,2
+J. de Guzm\u00e1n,T. Chandler,2
+S. Haller,T. Chandler,2
+D. Abraham,M. Ga\u0107inovi\u0107,2
+K. Boateng,J. Willems,2
+C. Salcedo,D. Abraham,2
+J. Willems,D. Abraham,2
+J. Willems,S. Haller,2
+T. Chandler,C. Salcedo,2
+A. Rebi\u0107,S. Falette,2
+J. Willems,K. Boateng,2
+S. Falette,J. de Guzm\u00e1n,2
+C. Salcedo,J. Willems,2
+D. Abraham,J. Willems,2
+L. Hradecky,C. Salcedo,2
+C. Salcedo,S. Haller,2
+G. Fernandes,M. Ga\u0107inovi\u0107,2
+M. Ga\u0107inovi\u0107,G. Fernandes,2
+J. Willems,T. Chandler,2
+G. Fernandes,J. de Guzm\u00e1n,2
+S. Haller,J. Willems,2
+M. Ga\u0107inovi\u0107,T. Chandler,2
+J. de Guzm\u00e1n,C. Salcedo,2
+D. Abraham,G. Fernandes,1
+S. Haller,G. Fernandes,1
+J. Willems,S. Falette,1
+T. Chandler,D. Abraham,1
+G. Fernandes,J. Willems,1
+L. Hradecky,D. Abraham,1
+C. Salcedo,J. de Guzm\u00e1n,1
+G. Fernandes,S. Haller,1
+S. Haller,M. Russ,1
+A. Rebi\u0107,G. Fernandes,1
+A. Rebi\u0107,S. Haller,1
+S. Haller,K. Boateng,1
+J. Willems,M. Ga\u0107inovi\u0107,1
+J. de Guzm\u00e1n,S. Haller,1
+A. Rebi\u0107,L. Hradecky,1
+S. Haller,M. Ga\u0107inovi\u0107,1
+S. Haller,C. Salcedo,1
+M. Ga\u0107inovi\u0107,A. Rebi\u0107,1
+D. Abraham,C. Salcedo,1
+G. Fernandes,T. Chandler,1
+C. Salcedo,G. Fernandes,1
+M. Russ,M. Ga\u0107inovi\u0107,1
+J. de Guzm\u00e1n,S. Falette,1
+A. Rebi\u0107,M. Ga\u0107inovi\u0107,1
+S. Falette,S. Haller,1
+D. Abraham,T. Chandler,1
+G. Fernandes,K. Boateng,1
+K. Boateng,J. de Guzm\u00e1n,1
+K. Boateng,T. Chandler,1
+L. Hradecky,T. Chandler,1
+J. de Guzm\u00e1n,M. Ga\u0107inovi\u0107,1
+J. Willems,C. Salcedo,1
+L. Hradecky,J. de Guzm\u00e1n,1
+G. Fernandes,A. Rebi\u0107,1
+M. Ga\u0107inovi\u0107,C. Salcedo,1
+D. Abraham,J. de Guzm\u00e1n,1
+A. Rebi\u0107,C. Salcedo,1
+S. Haller,S. Falette,1
+S. Haller,J. de Guzm\u00e1n,1
+T. Chandler,K. Boateng,1
+J. de Guzm\u00e1n,D. Abraham,1
+D. Abraham,A. Rebi\u0107,1
+G. Fernandes,L. Hradecky,1
+S. Falette,T. Chandler,1
+J. de Guzm\u00e1n,A. Rebi\u0107,1
+T. Chandler,G. Fernandes,1
+K. Boateng,S. Falette,1
+K. Boateng,G. Fernandes,1
+K. Boateng,S. Haller,1
+L. Hradecky,S. Falette,1

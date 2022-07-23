@@ -1,0 +1,118 @@
+Source,Target,Weight
+Y. Sabaly,L. Lerager,8
+L. Lerager,Y. Sabaly,8
+Y. Sabaly,J. Pla\u0161il,7
+J. Pla\u0161il,Y. Sabaly,7
+Y. Sabaly,F. Kamano,7
+M. Poundj\u00e9,V. Vada,6
+B. Costil,P. Baysse,6
+F. Kamano,Y. Sabaly,6
+J. Pla\u0161il,L. Lerager,6
+P. Baysse,M. Poundj\u00e9,5
+L. Lerager,B. Costil,5
+F. Kamano,L. Lerager,5
+L. Lerager,J. Kound\u00e9,5
+J. Pla\u0161il,F. Kamano,5
+J. Kound\u00e9,L. Lerager,5
+M. Braithwaite,J. Pla\u0161il,5
+P. Baysse,J. Pla\u0161il,5
+V. Vada,M. Braithwaite,5
+V. Vada,P. Baysse,4
+P. Baysse,N. de Pr\u00e9ville,4
+Y. Sabaly,J. Kound\u00e9,4
+P. Baysse,B. Costil,4
+J. Pla\u0161il,B. Costil,4
+N. de Pr\u00e9ville,V. Vada,4
+L. Lerager,F. Kamano,4
+J. Pla\u0161il,J. Kound\u00e9,4
+V. Vada,Y. Sabaly,4
+M. Poundj\u00e9,N. de Pr\u00e9ville,4
+B. Costil,L. Lerager,4
+Y. Sabaly,Z. Youssouf,4
+L. Lerager,J. Pla\u0161il,4
+P. Baysse,V. Vada,4
+M. Poundj\u00e9,P. Baysse,3
+L. Lerager,M. Braithwaite,3
+J. Kound\u00e9,J. Pla\u0161il,3
+J. Kound\u00e9,Y. Sabaly,3
+J. Kound\u00e9,P. Baysse,3
+J. Pla\u0161il,M. Poundj\u00e9,3
+B. Costil,J. Kound\u00e9,3
+J. Pla\u0161il,P. Baysse,3
+J. Kound\u00e9,B. Costil,3
+N. de Pr\u00e9ville,M. Poundj\u00e9,3
+B. Costil,J. Pla\u0161il,3
+J. Pla\u0161il,V. Vada,3
+V. Vada,J. Pla\u0161il,3
+Z. Youssouf,Y. Sabaly,2
+F. Kamano,M. Braithwaite,2
+V. Vada,N. de Pr\u00e9ville,2
+J. Kound\u00e9,M. Poundj\u00e9,2
+M. Braithwaite,F. Kamano,2
+N. de Pr\u00e9ville,L. Lerager,2
+Y. Sabaly,B. Costil,2
+B. Costil,Y. Sabaly,2
+M. Braithwaite,L. Lerager,2
+L. Lerager,M. Poundj\u00e9,2
+B. Costil,M. Braithwaite,2
+M. Poundj\u00e9,Y. Sabaly,2
+Y. Sabaly,V. Vada,2
+V. Vada,L. Lerager,2
+M. Poundj\u00e9,J. Pla\u0161il,2
+N. de Pr\u00e9ville,M. Braithwaite,2
+F. Kamano,J. Pla\u0161il,2
+Y. Sabaly,P. Baysse,2
+L. Lerager,V. Vada,2
+V. Vada,B. Costil,2
+P. Baysse,Y. Sabaly,2
+N. de Pr\u00e9ville,F. Kamano,1
+F. Kamano,Z. Youssouf,1
+M. Poundj\u00e9,J. Kound\u00e9,1
+G. Laborde,Z. Youssouf,1
+B. Costil,N. de Pr\u00e9ville,1
+L. Lerager,P. Baysse,1
+G. Laborde,Y. Sabaly,1
+Z. Youssouf,N. de Pr\u00e9ville,1
+P. Baysse,G. Laborde,1
+Y. Sabaly,M. Poundj\u00e9,1
+Y. Sabaly,G. Laborde,1
+G. Laborde,M. Poundj\u00e9,1
+G. Laborde,M. Braithwaite,1
+N. de Pr\u00e9ville,Y. Sabaly,1
+M. Braithwaite,P. Baysse,1
+B. Costil,G. Laborde,1
+Z. Youssouf,V. Vada,1
+M. Poundj\u00e9,L. Lerager,1
+M. Braithwaite,M. Poundj\u00e9,1
+M. Braithwaite,B. Costil,1
+J. Kound\u00e9,V. Vada,1
+M. Braithwaite,G. Laborde,1
+N. de Pr\u00e9ville,J. Kound\u00e9,1
+L. Lerager,N. de Pr\u00e9ville,1
+Z. Youssouf,M. Braithwaite,1
+J. Pla\u0161il,G. Laborde,1
+Z. Youssouf,J. Pla\u0161il,1
+N. de Pr\u00e9ville,J. Pla\u0161il,1
+F. Kamano,M. Poundj\u00e9,1
+P. Baysse,L. Lerager,1
+F. Kamano,N. de Pr\u00e9ville,1
+F. Kamano,J. Kound\u00e9,1
+M. Braithwaite,N. de Pr\u00e9ville,1
+M. Braithwaite,V. Vada,1
+N. de Pr\u00e9ville,P. Baysse,1
+F. Kamano,V. Vada,1
+M. Braithwaite,Y. Sabaly,1
+J. Kound\u00e9,Z. Youssouf,1
+V. Vada,J. Kound\u00e9,1
+Z. Youssouf,P. Baysse,1
+Z. Youssouf,B. Costil,1
+V. Vada,F. Kamano,1
+B. Costil,M. Poundj\u00e9,1
+M. Braithwaite,Z. Youssouf,1
+Z. Youssouf,J. Kound\u00e9,1
+M. Poundj\u00e9,M. Braithwaite,1
+V. Vada,M. Poundj\u00e9,1
+L. Lerager,Z. Youssouf,1
+Y. Sabaly,N. de Pr\u00e9ville,1
+M. Poundj\u00e9,B. Costil,1
+G. Laborde,N. de Pr\u00e9ville,1

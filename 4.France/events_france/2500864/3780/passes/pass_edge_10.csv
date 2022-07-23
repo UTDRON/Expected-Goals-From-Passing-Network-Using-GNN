@@ -1,0 +1,13 @@
+Source,Target,Weight
+I. Diop,C. Jullien,1
+M. Gradel,Q. Boisgard,1
+C. Jean,A. Delort,1
+O. Toivonen,A. Delort,1
+Som\u00e1lia,C. Jean,1
+C. Jullien,I. Diop,1
+O. Toivonen,M. Gradel,1
+S. Yago,I. Diop,1
+Q. Boisgard,O. Toivonen,1
+C. Jean,S. Yago,1
+A. Delort,C. Jean,1
+I. Diop,O. Toivonen,1

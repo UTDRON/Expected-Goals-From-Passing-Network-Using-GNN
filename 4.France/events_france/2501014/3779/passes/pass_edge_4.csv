@@ -1,0 +1,20 @@
+Source,Target,Weight
+E. Seka,D. Li\u00e9nard,4
+J. Martin,E. Seka,3
+D. Li\u00e9nard,E. Seka,2
+D. Foulquier,J. Martin,1
+D. Li\u00e9nard,D. Foulquier,1
+D. Foulquier,D. Li\u00e9nard,1
+E. Seka,J. Martin,1
+J. Grimm,B. Corgnet,1
+J. Martin,D. Foulquier,1
+D. Li\u00e9nard,B. Kon\u00e9,1
+B. Kon\u00e9,D. Foulquier,1
+B. Corgnet,A. Gon\u00e7alves,1
+D. Foulquier,B. Kon\u00e9,1
+B. Kon\u00e9,P. Martinez,1
+A. Gon\u00e7alves,D. Foulquier,1
+D. Li\u00e9nard,J. Martin,1
+P. Martinez,J. Martin,1
+D. Foulquier,S. Bahoken,1
+D. Li\u00e9nard,J. Grimm,1

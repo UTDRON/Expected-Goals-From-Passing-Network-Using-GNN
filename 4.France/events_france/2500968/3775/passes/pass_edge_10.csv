@@ -1,0 +1,43 @@
+Source,Target,Weight
+J. Seri,W. Cyprien,4
+Marlon,Dante,3
+W. Cyprien,P. Burner,3
+W. Cyprien,J. Seri,2
+P. Burner,P. Lees Melou,2
+W. Cyprien,P. Lees Melou,2
+P. Lees Melou,W. Cyprien,2
+P. Lees Melou,P. Burner,2
+P. Burner,W. Cyprien,2
+Dante,J. Seri,2
+Dante,P. Lees Melou,2
+P. Lees Melou,M. Le Marchand,2
+J. Seri,Marlon,1
+J. Seri,P. Lees Melou,1
+W. Ben\u00edtez,Dante,1
+P. Lees Melou,A. Saint-Maximin,1
+Marlon,A. Saint-Maximin,1
+W. Cyprien,Dante,1
+A. Saint-Maximin,P. Lees Melou,1
+P. Lees Melou,J. Seri,1
+A. Saint-Maximin,J. Seri,1
+A. Saint-Maximin,Dante,1
+J. Seri,Dante,1
+Dante,P. Burner,1
+Marlon,P. Burner,1
+P. Burner,W. Ben\u00edtez,1
+M. Le Marchand,W. Cyprien,1
+I. Sacko,P. Lees Melou,1
+A. Pl\u00e9a,J. Seri,1
+W. Cyprien,I. Sacko,1
+Marlon,A. Pl\u00e9a,1
+M. Le Marchand,A. Saint-Maximin,1
+W. Ben\u00edtez,Marlon,1
+I. Sacko,Marlon,1
+P. Lees Melou,Marlon,1
+P. Burner,Marlon,1
+M. Le Marchand,I. Sacko,1
+Dante,W. Cyprien,1
+P. Burner,J. Seri,1
+Dante,Marlon,1
+W. Cyprien,M. Le Marchand,1
+J. Seri,A. Pl\u00e9a,1

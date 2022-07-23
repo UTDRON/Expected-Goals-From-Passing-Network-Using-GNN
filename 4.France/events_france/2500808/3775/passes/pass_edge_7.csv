@@ -1,0 +1,96 @@
+Source,Target,Weight
+A. Tameze,W. Sneijder,7
+R. Walter,N. Mendy,7
+W. Sneijder,P. Lees Melou,7
+P. Lees Melou,C. Jallet,6
+N. Mendy,R. Walter,5
+M. Le Marchand,P. Lees Melou,4
+P. Lees Melou,N. Mendy,4
+P. Lees Melou,R. Walter,4
+W. Sneijder,N. Mendy,4
+R. Walter,A. Tameze,4
+M. Le Marchand,A. Tameze,4
+W. Sneijder,R. Walter,4
+N. Mendy,A. Souquet,4
+P. Lees Melou,A. Tameze,4
+N. Mendy,W. Sneijder,4
+N. Mendy,A. Tameze,4
+A. Tameze,M. Le Marchand,4
+A. Souquet,Dante,4
+C. Jallet,P. Lees Melou,4
+W. Ben\u00edtez,Dante,3
+A. Pl\u00e9a,R. Walter,3
+A. Tameze,A. Souquet,3
+P. Lees Melou,M. Le Marchand,3
+A. Tameze,P. Lees Melou,3
+A. Tameze,C. Jallet,3
+R. Walter,C. Jallet,3
+Dante,M. Le Marchand,3
+A. Pl\u00e9a,P. Lees Melou,3
+A. Souquet,R. Walter,3
+R. Walter,A. Souquet,3
+C. Jallet,W. Ben\u00edtez,3
+A. Tameze,Dante,3
+A. Souquet,W. Sneijder,3
+W. Ben\u00edtez,A. Pl\u00e9a,3
+Dante,A. Tameze,3
+C. Jallet,A. Tameze,3
+A. Pl\u00e9a,W. Sneijder,3
+Dante,N. Mendy,2
+P. Lees Melou,W. Sneijder,2
+Dante,C. Jallet,2
+R. Walter,P. Lees Melou,2
+A. Souquet,M. Le Marchand,2
+C. Jallet,W. Sneijder,2
+A. Tameze,W. Ben\u00edtez,2
+M. Le Marchand,W. Sneijder,2
+Dante,A. Pl\u00e9a,2
+W. Sneijder,A. Souquet,2
+A. Souquet,W. Ben\u00edtez,2
+Dante,A. Souquet,2
+W. Sneijder,Dante,2
+P. Lees Melou,A. Pl\u00e9a,2
+N. Mendy,J. Seri,2
+M. Le Marchand,N. Mendy,2
+Dante,W. Ben\u00edtez,2
+A. Souquet,A. Pl\u00e9a,2
+A. Souquet,N. Mendy,2
+J. Seri,P. Lees Melou,2
+R. Walter,A. Pl\u00e9a,2
+W. Ben\u00edtez,M. Le Marchand,2
+J. Seri,W. Sneijder,2
+W. Sneijder,A. Pl\u00e9a,2
+N. Mendy,P. Lees Melou,1
+J. Seri,A. Souquet,1
+A. Pl\u00e9a,A. Souquet,1
+A. Pl\u00e9a,J. Seri,1
+N. Mendy,A. Pl\u00e9a,1
+A. Souquet,A. Tameze,1
+C. Jallet,A. Pl\u00e9a,1
+M. Le Marchand,A. Souquet,1
+J. Seri,R. Walter,1
+A. Pl\u00e9a,Dante,1
+A. Tameze,N. Mendy,1
+P. Lees Melou,A. Souquet,1
+R. Walter,Dante,1
+M. Le Marchand,J. Seri,1
+J. Seri,C. Jallet,1
+N. Mendy,Dante,1
+A. Pl\u00e9a,C. Jallet,1
+W. Sneijder,A. Tameze,1
+A. Pl\u00e9a,N. Mendy,1
+C. Jallet,J. Seri,1
+N. Mendy,W. Ben\u00edtez,1
+C. Jallet,A. Souquet,1
+A. Pl\u00e9a,A. Tameze,1
+C. Jallet,N. Mendy,1
+W. Ben\u00edtez,A. Tameze,1
+M. Le Marchand,R. Walter,1
+W. Sneijder,M. Le Marchand,1
+P. Lees Melou,Dante,1
+W. Ben\u00edtez,R. Walter,1
+W. Sneijder,J. Seri,1
+N. Mendy,M. Le Marchand,1
+W. Ben\u00edtez,P. Lees Melou,1
+M. Le Marchand,W. Ben\u00edtez,1
+P. Lees Melou,J. Seri,1

@@ -1,0 +1,20 @@
+Source,Target,Weight
+R. Walter,M. Sarr,2
+Dante,C. Jallet,2
+P. Lees Melou,A. Souquet,1
+V. Koziello,R. Walter,1
+A. Souquet,V. Koziello,1
+W. Sneijder,V. Koziello,1
+V. Koziello,P. Lees Melou,1
+W. Sneijder,A. Souquet,1
+C. Jallet,R. Walter,1
+M. Sarr,W. Sneijder,1
+R. Walter,Dante,1
+C. Jallet,M. Sarr,1
+C. Jallet,W. Sneijder,1
+A. Souquet,A. Pl\u00e9a,1
+A. Tameze,C. Jallet,1
+M. Sarr,R. Walter,1
+V. Koziello,Dante,1
+A. Pl\u00e9a,R. Walter,1
+M. Sarr,V. Koziello,1

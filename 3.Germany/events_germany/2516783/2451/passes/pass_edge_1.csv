@@ -1,0 +1,63 @@
+Source,Target,Weight
+F. Uduokhai,R. Knoche,9
+Camacho,M. Arnold,6
+P. Verhaegh,Y. Mall\u0131,5
+Y. Gerhardt,F. Uduokhai,5
+M. Arnold,F. Uduokhai,5
+P. Verhaegh,M. Arnold,4
+R. Knoche,Camacho,4
+Y. Mall\u0131,D. Didavi,4
+F. Uduokhai,Y. Gerhardt,4
+R. Knoche,M. Arnold,4
+R. Knoche,P. Verhaegh,4
+M. Arnold,Y. Gerhardt,3
+Y. Mall\u0131,P. Verhaegh,3
+M. Arnold,R. Knoche,3
+P. Ntep,Camacho,3
+D. Didavi,M. Arnold,3
+M. Arnold,P. Ntep,3
+Camacho,Y. Gerhardt,3
+F. Uduokhai,Camacho,2
+M. Arnold,D. Didavi,2
+R. Knoche,Y. Mall\u0131,2
+Y. Gerhardt,R. Knoche,2
+K. Casteels,P. Verhaegh,2
+Y. Mall\u0131,Camacho,2
+Camacho,D. Didavi,2
+D. Didavi,Camacho,2
+M. Arnold,Y. Mall\u0131,2
+Camacho,F. Uduokhai,2
+P. Verhaegh,F. Uduokhai,2
+D. Didavi,Y. Mall\u0131,2
+R. Knoche,F. Uduokhai,2
+D. Didavi,F. Uduokhai,2
+Camacho,P. Verhaegh,2
+Y. Gerhardt,K. Casteels,2
+P. Ntep,M. Arnold,2
+Y. Gerhardt,Camacho,2
+D. Didavi,Y. Gerhardt,1
+K. Casteels,F. Uduokhai,1
+Y. Gerhardt,D. Didavi,1
+M. Arnold,Camacho,1
+M. Arnold,P. Verhaegh,1
+Y. Gerhardt,P. Verhaegh,1
+F. Uduokhai,M. Arnold,1
+F. Uduokhai,D. Didavi,1
+Camacho,R. Knoche,1
+Y. Mall\u0131,M. Arnold,1
+P. Verhaegh,R. Knoche,1
+Y. Mall\u0131,Y. Gerhardt,1
+R. Knoche,K. Casteels,1
+F. Uduokhai,Y. Mall\u0131,1
+M. Arnold,D. Origi,1
+D. Didavi,R. Knoche,1
+D. Didavi,D. Origi,1
+D. Origi,R. Knoche,1
+D. Origi,P. Ntep,1
+D. Origi,Y. Gerhardt,1
+R. Knoche,P. Ntep,1
+F. Uduokhai,P. Ntep,1
+P. Ntep,Y. Gerhardt,1
+P. Ntep,D. Didavi,1
+Y. Gerhardt,P. Ntep,1
+P. Verhaegh,D. Origi,1

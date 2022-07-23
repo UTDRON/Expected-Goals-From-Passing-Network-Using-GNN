@@ -1,0 +1,15 @@
+Source,Target,Weight
+C. Jullien,A. Delort,2
+A. Delort,A. Blin,1
+K. Amian,A. Delort,1
+K. Amian,M. Gradel,1
+C. Jean,O. Toivonen,1
+K. Amian,C. Jullien,1
+A. Delort,C. Jean,1
+M. Gradel,C. Jullien,1
+M. Gradel,O. Toivonen,1
+O. Toivonen,M. Gradel,1
+A. Blin,M. Gradel,1
+A. Delort,K. Amian,1
+M. Gradel,I. Diop,1
+I. Diop,K. Amian,1

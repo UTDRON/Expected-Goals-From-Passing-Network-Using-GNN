@@ -1,0 +1,41 @@
+Source,Target,Weight
+William,R. Knoche,4
+R. Knoche,J. Bruma,4
+J. Guilavogui,William,3
+R. Knoche,William,3
+William,J. Brekalo,3
+J. Bruma,P. Verhaegh,3
+R. Knoche,M. Arnold,2
+J. Guilavogui,J. Bruma,2
+J. Bruma,K. Casteels,2
+R. Bazoer,P. Verhaegh,2
+J. Bruma,R. Knoche,2
+M. Arnold,J. Guilavogui,2
+L. Dimata,R. Knoche,2
+P. Verhaegh,D. Didavi,2
+K. Casteels,R. Knoche,2
+R. Knoche,J. Guilavogui,2
+P. Verhaegh,L. Dimata,2
+K. Casteels,L. Dimata,1
+D. Didavi,M. Arnold,1
+L. Dimata,P. Verhaegh,1
+William,K. Casteels,1
+P. Verhaegh,R. Knoche,1
+J. Brekalo,R. Knoche,1
+P. Verhaegh,R. Bazoer,1
+K. Casteels,J. Bruma,1
+J. Guilavogui,P. Verhaegh,1
+J. Bruma,R. Bazoer,1
+D. Didavi,J. Guilavogui,1
+J. Guilavogui,R. Bazoer,1
+J. Brekalo,William,1
+K. Casteels,J. Guilavogui,1
+M. Arnold,D. Didavi,1
+R. Bazoer,J. Bruma,1
+R. Knoche,K. Casteels,1
+P. Verhaegh,K. Casteels,1
+D. Didavi,R. Bazoer,1
+J. Brekalo,M. Arnold,1
+M. Arnold,L. Dimata,1
+R. Bazoer,J. Guilavogui,1
+L. Dimata,William,1

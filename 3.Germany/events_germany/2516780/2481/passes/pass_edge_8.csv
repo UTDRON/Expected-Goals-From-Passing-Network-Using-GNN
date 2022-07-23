@@ -1,0 +1,33 @@
+Source,Target,Weight
+Ja-Cheol Koo,D. Baier,3
+D. Baier,J. Mor\u00e1vek,2
+J. Gouweleeuw,J. Mor\u00e1vek,2
+J. Mor\u00e1vek,J. Gouweleeuw,2
+P. Max,A. Finnbogason,2
+D. Baier,P. Max,2
+P. Max,Ja-Cheol Koo,2
+M. Hitz,M. Hinteregger,1
+J. Mor\u00e1vek,R. Khedira,1
+J. Gouweleeuw,D. Baier,1
+D. Opare,Caiuby,1
+J. Mor\u00e1vek,D. Opare,1
+Ja-Cheol Koo,Caiuby,1
+Ja-Cheol Koo,A. Finnbogason,1
+M. Hitz,P. Max,1
+R. Khedira,P. Max,1
+Caiuby,A. Finnbogason,1
+A. Finnbogason,Caiuby,1
+R. Khedira,Ja-Cheol Koo,1
+A. Finnbogason,J. Mor\u00e1vek,1
+Caiuby,J. Gouweleeuw,1
+D. Baier,M. Hitz,1
+P. Max,Caiuby,1
+A. Finnbogason,Ja-Cheol Koo,1
+Ja-Cheol Koo,D. Opare,1
+A. Finnbogason,D. Baier,1
+A. Finnbogason,R. Khedira,1
+D. Opare,M. Hitz,1
+M. Hinteregger,Ja-Cheol Koo,1
+Caiuby,D. Baier,1
+D. Baier,A. Finnbogason,1
+Caiuby,P. Max,1

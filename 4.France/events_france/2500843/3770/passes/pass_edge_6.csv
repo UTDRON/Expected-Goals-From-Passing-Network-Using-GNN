@@ -1,0 +1,43 @@
+Source,Target,Weight
+Y. El Ghanassy,L. Dubois,4
+A. Tour\u00e9,Y. El Ghanassy,3
+Lucas Lima,A. Thomasson,3
+Y. Bammou,Lucas Lima,3
+E. Sala,Y. Bammou,3
+A. Thomasson,A. Tour\u00e9,3
+E. Sala,A. Tour\u00e9,2
+Lucas Lima,K. Djidji,2
+K. Djidji,A. Thomasson,2
+A. Thomasson,Lucas Lima,2
+A. Tour\u00e9,E. Sala,2
+S. Ngom,L. Dubois,2
+Y. Bammou,A. Thomasson,2
+A. Tour\u00e9,Lucas Lima,2
+A. Thomasson,S. Ngom,2
+Y. Bammou,A. Tour\u00e9,2
+L. Dubois,C. Awaziem,2
+Lucas Lima,Y. Bammou,2
+A. Thomasson,C. Awaziem,2
+E. Sala,K. Djidji,1
+S. Ngom,E. Sala,1
+C. Awaziem,S. Ngom,1
+S. Ngom,A. Thomasson,1
+K. Djidji,C. T\u0103t\u0103ru\u0219anu,1
+C. Awaziem,A. Thomasson,1
+C. T\u0103t\u0103ru\u0219anu,K. Djidji,1
+L. Dubois,Y. Bammou,1
+L. Dubois,A. Tour\u00e9,1
+S. Ngom,Y. El Ghanassy,1
+Y. El Ghanassy,S. Ngom,1
+S. Ngom,Lucas Lima,1
+K. Djidji,Y. Bammou,1
+K. Djidji,Y. El Ghanassy,1
+L. Dubois,S. Ngom,1
+C. Awaziem,A. Tour\u00e9,1
+Lucas Lima,E. Sala,1
+C. Awaziem,Y. Bammou,1
+A. Thomasson,K. Djidji,1
+A. Tour\u00e9,Y. Bammou,1
+Y. Bammou,E. Sala,1
+L. Dubois,A. Thomasson,1
+Y. Bammou,S. Ngom,1

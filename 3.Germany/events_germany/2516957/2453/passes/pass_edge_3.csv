@@ -1,0 +1,21 @@
+Source,Target,Weight
+A. Schwolow,C. S\u00f6y\u00fcnc\u00fc,2
+C. G\u00fcnter,A. Abrashi,2
+M. Gulde,P. Stenzel,2
+C. G\u00fcnter,C. S\u00f6y\u00fcnc\u00fc,2
+N. Petersen,C. G\u00fcnter,2
+P. Lienhart,M. Gulde,1
+C. G\u00fcnter,N. Petersen,1
+L. H\u00f6ler,N. Petersen,1
+L. H\u00f6ler,C. G\u00fcnter,1
+A. Abrashi,C. S\u00f6y\u00fcnc\u00fc,1
+C. S\u00f6y\u00fcnc\u00fc,L. H\u00f6ler,1
+C. S\u00f6y\u00fcnc\u00fc,A. Schwolow,1
+N. Petersen,P. Lienhart,1
+P. Stenzel,A. Schwolow,1
+A. Abrashi,M. Gulde,1
+C. S\u00f6y\u00fcnc\u00fc,J. Haberer,1
+C. S\u00f6y\u00fcnc\u00fc,C. G\u00fcnter,1
+P. Stenzel,N. Petersen,1
+J. Haberer,L. H\u00f6ler,1
+C. S\u00f6y\u00fcnc\u00fc,A. Abrashi,1

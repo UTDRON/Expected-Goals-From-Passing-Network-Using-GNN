@@ -1,0 +1,28 @@
+Source,Target,Weight
+N. Ke\u00efta,D. Upamecano,3
+E. Forsberg,N. Ke\u00efta,2
+D. Upamecano,S. Ilsanker,2
+S. Ilsanker,K. Kampl,2
+N. Ke\u00efta,Bernardo,2
+K. Kampl,L. Klostermann,2
+Bernardo,D. Upamecano,2
+S. Ilsanker,K. Laimer,2
+S. Ilsanker,D. Upamecano,2
+J. Augustin,E. Forsberg,2
+D. Upamecano,K. Kampl,2
+K. Laimer,S. Ilsanker,2
+D. Upamecano,N. Ke\u00efta,2
+D. Upamecano,Bernardo,2
+Bernardo,N. Ke\u00efta,1
+T. Werner,D. Upamecano,1
+Bernardo,K. Laimer,1
+L. Klostermann,S. Ilsanker,1
+K. Laimer,Bernardo,1
+N. Ke\u00efta,T. Werner,1
+Bernardo,E. Forsberg,1
+L. Klostermann,K. Kampl,1
+K. Kampl,K. Laimer,1
+K. Kampl,J. Augustin,1
+K. Laimer,N. Ke\u00efta,1
+Bernardo,J. Augustin,1
+K. Kampl,S. Ilsanker,1

@@ -1,0 +1,109 @@
+Source,Target,Weight
+G. Sakai,A. Hunt,6
+A. Ekdal,G. Sakai,6
+G. Sakai,A. Ekdal,5
+A. Hunt,F. Kosti\u0107,5
+G. Sakai,M. Mavraj,5
+A. Ekdal,D. Diekmeier,5
+A. Hunt,A. Hahn,5
+A. Ekdal,A. Hunt,4
+D. Diekmeier,A. Hahn,4
+A. Hahn,D. Diekmeier,4
+M. Mavraj,G. Sakai,4
+G. Jung,C. Mathenia,4
+A. Hunt,G. Jung,3
+D. Diekmeier,A. Hunt,3
+D. Diekmeier,M. Mavraj,3
+A. Hahn,G. Sakai,3
+F. Kosti\u0107,S. Schipplock,3
+D. Diekmeier,A. Ekdal,3
+S. Schipplock,A. Hunt,3
+A. Ekdal,S. Schipplock,3
+D. Diekmeier,G. Sakai,3
+F. Kosti\u0107,G. Sakai,3
+A. Hunt,M. Mavraj,3
+G. Sakai,F. Kosti\u0107,3
+A. Hahn,A. Ekdal,3
+G. Jung,D. Diekmeier,2
+G. Jung,A. Hahn,2
+S. Schipplock,F. Kosti\u0107,2
+A. Hahn,A. Hunt,2
+A. Hahn,B. Wood,2
+G. Sakai,S. Salihovi\u0107,2
+A. Hunt,D. Diekmeier,2
+B. Wood,M. Mavraj,2
+C. Mathenia,G. Jung,2
+Walace,G. Sakai,2
+M. Mavraj,S. Schipplock,2
+G. Sakai,C. Mathenia,2
+M. Mavraj,Walace,2
+G. Jung,A. Ekdal,2
+M. Mavraj,G. Jung,2
+Walace,G. Jung,2
+F. Kosti\u0107,A. Hahn,2
+D. Diekmeier,G. Jung,2
+A. Hunt,A. Ekdal,2
+M. Mavraj,C. Mathenia,2
+M. Mavraj,D. Diekmeier,2
+G. Jung,S. Salihovi\u0107,2
+C. Mathenia,A. Hahn,2
+F. Kosti\u0107,A. Hunt,2
+S. Schipplock,G. Sakai,2
+A. Ekdal,F. Kosti\u0107,2
+A. Hahn,Walace,2
+S. Salihovi\u0107,M. Mavraj,2
+A. Hahn,G. Jung,2
+S. Schipplock,S. Salihovi\u0107,2
+S. Salihovi\u0107,G. Sakai,2
+F. Kosti\u0107,A. Ekdal,2
+G. Jung,M. Mavraj,2
+G. Sakai,S. Schipplock,2
+M. Mavraj,A. Ekdal,2
+A. Hahn,S. Salihovi\u0107,1
+Walace,A. Ekdal,1
+T. Ito,A. Hunt,1
+S. Schipplock,A. Hahn,1
+A. Ekdal,Walace,1
+S. Schipplock,G. Jung,1
+S. Schipplock,A. Ekdal,1
+Walace,A. Hunt,1
+G. Sakai,D. Diekmeier,1
+S. Salihovi\u0107,G. Jung,1
+C. Mathenia,A. Ekdal,1
+B. Wood,D. Diekmeier,1
+A. Hunt,B. Wood,1
+A. Hunt,Walace,1
+M. Mavraj,A. Hunt,1
+Walace,C. Mathenia,1
+A. Hunt,S. Salihovi\u0107,1
+D. Diekmeier,S. Schipplock,1
+M. Mavraj,A. Hahn,1
+S. Salihovi\u0107,D. Diekmeier,1
+A. Hahn,C. Mathenia,1
+S. Schipplock,D. Diekmeier,1
+B. Wood,G. Sakai,1
+B. Wood,A. Hunt,1
+S. Salihovi\u0107,S. Schipplock,1
+S. Salihovi\u0107,F. Kosti\u0107,1
+A. Hunt,S. Schipplock,1
+Walace,T. Ito,1
+C. Mathenia,F. Kosti\u0107,1
+M. Mavraj,F. Kosti\u0107,1
+C. Mathenia,D. Diekmeier,1
+A. Hunt,G. Sakai,1
+A. Ekdal,A. Hahn,1
+B. Wood,S. Schipplock,1
+G. Sakai,A. Hahn,1
+C. Mathenia,Walace,1
+F. Kosti\u0107,S. Salihovi\u0107,1
+B. Wood,A. Hahn,1
+G. Sakai,Walace,1
+G. Jung,B. Wood,1
+S. Schipplock,B. Wood,1
+F. Kosti\u0107,B. Wood,1
+C. Mathenia,S. Salihovi\u0107,1
+C. Mathenia,A. Hunt,1
+S. Salihovi\u0107,A. Ekdal,1
+D. Diekmeier,B. Wood,1
+F. Kosti\u0107,M. Mavraj,1
+A. Ekdal,M. Mavraj,1

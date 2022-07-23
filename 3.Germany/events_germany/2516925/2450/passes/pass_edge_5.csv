@@ -1,0 +1,51 @@
+Source,Target,Weight
+G. Sakai,D. Diekmeier,4
+Walace,G. Sakai,3
+G. Sakai,R. van Drongelen,3
+G. Sakai,K. Papadopoulos,3
+B. Wood,A. Hunt,3
+R. van Drongelen,K. Papadopoulos,3
+Walace,R. van Drongelen,3
+K. Papadopoulos,Walace,3
+K. Papadopoulos,G. Sakai,3
+K. Papadopoulos,A. Hunt,2
+Douglas Santos,R. van Drongelen,2
+A. Ekdal,A. Hunt,2
+A. Hunt,G. Sakai,2
+F. Kosti\u0107,A. Ekdal,2
+D. Diekmeier,G. Sakai,2
+A. Ekdal,Walace,2
+R. van Drongelen,G. Sakai,2
+A. Hunt,Walace,2
+Douglas Santos,F. Kosti\u0107,1
+G. Sakai,C. Mathenia,1
+F. Kosti\u0107,Douglas Santos,1
+A. Hunt,K. Papadopoulos,1
+Walace,K. Papadopoulos,1
+R. van Drongelen,A. Ekdal,1
+A. Ekdal,B. Wood,1
+R. van Drongelen,A. Hunt,1
+C. Mathenia,B. Wood,1
+A. Hunt,C. Mathenia,1
+Walace,A. Hunt,1
+B. Wood,G. Sakai,1
+A. Hunt,D. Diekmeier,1
+R. van Drongelen,F. Kosti\u0107,1
+K. Papadopoulos,A. Ekdal,1
+R. van Drongelen,Walace,1
+A. Hunt,R. van Drongelen,1
+G. Sakai,Douglas Santos,1
+R. van Drongelen,C. Mathenia,1
+D. Diekmeier,F. Kosti\u0107,1
+Douglas Santos,A. Ekdal,1
+G. Sakai,A. Ekdal,1
+G. Sakai,B. Wood,1
+C. Mathenia,R. van Drongelen,1
+B. Wood,Douglas Santos,1
+A. Hunt,B. Wood,1
+D. Diekmeier,Walace,1
+C. Mathenia,G. Sakai,1
+D. Diekmeier,B. Wood,1
+A. Ekdal,K. Papadopoulos,1
+Walace,Douglas Santos,1
+Walace,B. Wood,1

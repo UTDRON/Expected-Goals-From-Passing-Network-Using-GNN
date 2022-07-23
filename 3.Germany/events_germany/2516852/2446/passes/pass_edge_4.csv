@@ -1,0 +1,19 @@
+Source,Target,Weight
+L. Bender,J. Brandt,3
+C. Ar\u00e1nguiz,P. Retsos,2
+B. Leno,L. Bender,2
+P. Retsos,B. Leno,2
+B. Leno,P. Retsos,1
+K. Havertz,C. Ar\u00e1nguiz,1
+C. Ar\u00e1nguiz,K. Havertz,1
+D. Kohr,C. Ar\u00e1nguiz,1
+P. Retsos,C. Ar\u00e1nguiz,1
+P. Retsos,K. Volland,1
+C. Ar\u00e1nguiz,L. Bender,1
+J. Brandt,C. Ar\u00e1nguiz,1
+J. Brandt,L. Bender,1
+K. Volland,J. Brandt,1
+A. Mehmedi,P. Retsos,1
+J. Brandt,K. Volland,1
+L. Bender,B. Leno,1
+K. Volland,D. Kohr,1

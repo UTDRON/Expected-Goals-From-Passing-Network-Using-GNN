@@ -1,0 +1,29 @@
+Source,Target,Weight
+Dante,A. Tameze,2
+M. Le Marchand,B. Srarfi,2
+A. Saint-Maximin,J. Seri,2
+P. Lees Melou,A. Saint-Maximin,2
+M. Le Marchand,A. Pl\u00e9a,2
+J. Seri,P. Lees Melou,2
+A. Tameze,Dante,1
+A. Pl\u00e9a,M. Le Marchand,1
+W. Ben\u00edtez,Dante,1
+A. Tameze,J. Seri,1
+A. Saint-Maximin,A. Tameze,1
+A. Saint-Maximin,A. Pl\u00e9a,1
+P. Lees Melou,A. Souquet,1
+A. Pl\u00e9a,Marlon,1
+B. Srarfi,A. Tameze,1
+Marlon,W. Ben\u00edtez,1
+Dante,M. Le Marchand,1
+J. Seri,A. Saint-Maximin,1
+P. Lees Melou,Dante,1
+B. Srarfi,M. Le Marchand,1
+A. Tameze,A. Saint-Maximin,1
+A. Souquet,P. Lees Melou,1
+M. Le Marchand,Dante,1
+A. Pl\u00e9a,J. Seri,1
+P. Lees Melou,M. Le Marchand,1
+Dante,A. Saint-Maximin,1
+A. Tameze,P. Lees Melou,1
+A. Saint-Maximin,P. Lees Melou,1

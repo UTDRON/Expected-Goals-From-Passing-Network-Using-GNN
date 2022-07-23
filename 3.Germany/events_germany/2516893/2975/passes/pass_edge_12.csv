@@ -1,0 +1,33 @@
+Source,Target,Weight
+M. Sabitzer,D. Demme,8
+D. Demme,M. Sabitzer,5
+K. Kampl,M. Sabitzer,4
+D. Demme,Y. Poulsen,3
+Bernardo,M. Sabitzer,2
+D. Demme,Bernardo,2
+K. Kampl,T. Werner,2
+Bernardo,K. Kampl,2
+T. Werner,K. Laimer,2
+Y. Poulsen,T. Werner,1
+K. Laimer,T. Werner,1
+M. Sabitzer,T. Werner,1
+Bernardo,D. Demme,1
+Bernardo,S. Ilsanker,1
+K. Laimer,M. Sabitzer,1
+K. Laimer,D. Demme,1
+M. Sabitzer,Bruma,1
+Bruma,Bernardo,1
+Y. Poulsen,Bernardo,1
+S. Ilsanker,Bernardo,1
+W. Orban,K. Laimer,1
+M. Sabitzer,K. Kampl,1
+Y. Poulsen,K. Kampl,1
+T. Werner,K. Kampl,1
+S. Ilsanker,M. Sabitzer,1
+M. Sabitzer,Y. Poulsen,1
+K. Kampl,S. Ilsanker,1
+K. Laimer,K. Kampl,1
+D. Demme,W. Orban,1
+T. Werner,D. Demme,1
+M. Sabitzer,Bernardo,1
+Y. Poulsen,K. Laimer,1

@@ -1,0 +1,58 @@
+Source,Target,Weight
+K. Kampl,M. Halstenberg,6
+M. Halstenberg,D. Upamecano,4
+M. Halstenberg,Bruma,3
+J. Augustin,Bruma,3
+Bernardo,S. Ilsanker,3
+N. Ke\u00efta,K. Kampl,2
+K. Kampl,M. Sabitzer,2
+D. Upamecano,K. Kampl,2
+D. Upamecano,P. Gul\u00e1csi,2
+M. Sabitzer,S. Ilsanker,2
+S. Ilsanker,M. Sabitzer,2
+Bruma,N. Ke\u00efta,2
+M. Halstenberg,J. Augustin,2
+N. Ke\u00efta,Bernardo,2
+Bruma,K. Kampl,2
+Bruma,M. Halstenberg,2
+D. Upamecano,Bernardo,2
+Y. Poulsen,D. Upamecano,2
+S. Ilsanker,D. Upamecano,2
+Bruma,Y. Poulsen,2
+D. Upamecano,S. Ilsanker,2
+K. Kampl,Bruma,2
+S. Ilsanker,P. Gul\u00e1csi,2
+Bruma,D. Upamecano,1
+Bruma,J. Augustin,1
+P. Gul\u00e1csi,N. Ke\u00efta,1
+M. Sabitzer,Y. Poulsen,1
+S. Ilsanker,Y. Poulsen,1
+J. Augustin,K. Kampl,1
+J. Augustin,N. Ke\u00efta,1
+M. Sabitzer,N. Ke\u00efta,1
+S. Ilsanker,N. Ke\u00efta,1
+P. Gul\u00e1csi,J. Augustin,1
+N. Ke\u00efta,J. Augustin,1
+M. Halstenberg,N. Ke\u00efta,1
+Y. Poulsen,Bruma,1
+M. Halstenberg,P. Gul\u00e1csi,1
+S. Ilsanker,M. Halstenberg,1
+M. Halstenberg,Y. Poulsen,1
+J. Augustin,M. Sabitzer,1
+Y. Poulsen,N. Ke\u00efta,1
+S. Ilsanker,K. Kampl,1
+P. Gul\u00e1csi,Bruma,1
+Bruma,S. Ilsanker,1
+Bernardo,M. Sabitzer,1
+N. Ke\u00efta,M. Halstenberg,1
+M. Sabitzer,M. Halstenberg,1
+D. Upamecano,M. Halstenberg,1
+N. Ke\u00efta,Y. Poulsen,1
+P. Gul\u00e1csi,Y. Poulsen,1
+Bernardo,K. Kampl,1
+J. Augustin,S. Ilsanker,1
+M. Sabitzer,J. Augustin,1
+N. Ke\u00efta,Bruma,1
+P. Gul\u00e1csi,Bernardo,1
+Y. Poulsen,S. Ilsanker,1
+Y. Poulsen,J. Augustin,1

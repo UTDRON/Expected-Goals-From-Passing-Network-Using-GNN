@@ -1,0 +1,26 @@
+Source,Target,Weight
+K. Volland,B. Henrichs,3
+B. Henrichs,L. Alario,3
+K. Havertz,J. Baumgartlinger,3
+K. Bellarabi,C. Ar\u00e1nguiz,2
+P. Retsos,T. Jedvaj,2
+B. Henrichs,J. Baumgartlinger,2
+P. Retsos,K. Bellarabi,2
+J. Brandt,P. Retsos,1
+T. Jedvaj,L. Alario,1
+P. Retsos,K. Havertz,1
+C. Ar\u00e1nguiz,P. Retsos,1
+K. Bellarabi,P. Retsos,1
+L. Alario,K. Volland,1
+J. Baumgartlinger,K. Bellarabi,1
+T. Jedvaj,K. Havertz,1
+J. Baumgartlinger,T. Jedvaj,1
+J. Brandt,K. Havertz,1
+J. Baumgartlinger,B. Henrichs,1
+J. Baumgartlinger,J. Brandt,1
+L. Alario,K. Bellarabi,1
+T. Jedvaj,P. Retsos,1
+K. Bellarabi,K. Volland,1
+J. Baumgartlinger,P. Retsos,1
+L. Alario,J. Brandt,1
+L. Alario,B. Henrichs,1

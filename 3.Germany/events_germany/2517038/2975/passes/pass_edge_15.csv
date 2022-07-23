@@ -1,0 +1,38 @@
+Source,Target,Weight
+K. Laimer,S. Ilsanker,4
+Bruma,D. Demme,4
+S. Ilsanker,K. Kampl,3
+S. Ilsanker,K. Laimer,3
+D. Demme,S. Ilsanker,2
+Bruma,S. Ilsanker,2
+K. Laimer,D. Demme,2
+L. Klostermann,Bruma,2
+S. Ilsanker,D. Upamecano,2
+D. Demme,Bruma,2
+D. Demme,K. Laimer,2
+I. Konat\u00e9,K. Kampl,1
+D. Demme,K. Kampl,1
+K. Laimer,I. Konat\u00e9,1
+K. Laimer,Bruma,1
+K. Kampl,I. Konat\u00e9,1
+Y. Poulsen,I. Konat\u00e9,1
+S. Ilsanker,Y. Poulsen,1
+S. Ilsanker,Bruma,1
+P. Gul\u00e1csi,I. Konat\u00e9,1
+I. Konat\u00e9,K. Laimer,1
+Y. Poulsen,S. Ilsanker,1
+I. Konat\u00e9,L. Klostermann,1
+I. Konat\u00e9,Bruma,1
+K. Kampl,J. Augustin,1
+Bruma,I. Konat\u00e9,1
+Bruma,K. Laimer,1
+D. Upamecano,L. Klostermann,1
+I. Konat\u00e9,S. Ilsanker,1
+J. Augustin,D. Demme,1
+K. Kampl,P. Gul\u00e1csi,1
+D. Upamecano,D. Demme,1
+D. Demme,J. Augustin,1
+K. Kampl,Bruma,1
+K. Laimer,Y. Poulsen,1
+J. Augustin,K. Laimer,1
+K. Kampl,K. Laimer,1

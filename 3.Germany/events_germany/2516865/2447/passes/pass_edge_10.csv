@@ -1,0 +1,53 @@
+Source,Target,Weight
+Bartra,N. \u015eahin,5
+M. Schmelzer,A. Sch\u00fcrrle,4
+N. \u015eahin,M. Schmelzer,4
+N. \u015eahin,Bartra,3
+S. Papastathopoulos,Bartra,3
+M. Schmelzer,N. Suboti\u0107,3
+N. Suboti\u0107,N. \u015eahin,3
+A. Sch\u00fcrrle,N. \u015eahin,3
+M. Dahoud,Bartra,3
+N. Suboti\u0107,M. Schmelzer,2
+N. \u015eahin,N. Suboti\u0107,2
+M. Dahoud,A. Sch\u00fcrrle,2
+Bartra,C. Pulisic,2
+S. Papastathopoulos,C. Pulisic,2
+N. Suboti\u0107,M. Dahoud,2
+N. \u015eahin,S. Kagawa,2
+A. Sch\u00fcrrle,S. Kagawa,2
+N. \u015eahin,S. Papastathopoulos,2
+C. Pulisic,M. Dahoud,2
+P. Aubameyang,A. Sch\u00fcrrle,2
+Bartra,S. Papastathopoulos,1
+C. Pulisic,S. Papastathopoulos,1
+C. Pulisic,N. \u015eahin,1
+Bartra,M. Dahoud,1
+S. Kagawa,S. Papastathopoulos,1
+S. Kagawa,M. Schmelzer,1
+S. Kagawa,Bartra,1
+M. Schmelzer,S. Papastathopoulos,1
+A. Sch\u00fcrrle,Bartra,1
+Bartra,P. Aubameyang,1
+R. B\u00fcrki,S. Papastathopoulos,1
+M. Dahoud,N. \u015eahin,1
+A. Sch\u00fcrrle,M. Dahoud,1
+S. Kagawa,A. Sch\u00fcrrle,1
+S. Kagawa,N. \u015eahin,1
+M. Schmelzer,M. Dahoud,1
+N. \u015eahin,A. Sch\u00fcrrle,1
+C. Pulisic,S. Kagawa,1
+S. Kagawa,P. Aubameyang,1
+Bartra,N. Suboti\u0107,1
+N. Suboti\u0107,Bartra,1
+M. Schmelzer,S. Kagawa,1
+A. Sch\u00fcrrle,N. Suboti\u0107,1
+S. Papastathopoulos,N. Suboti\u0107,1
+Bartra,A. Sch\u00fcrrle,1
+N. \u015eahin,C. Pulisic,1
+Bartra,R. B\u00fcrki,1
+M. Dahoud,M. Schmelzer,1
+R. B\u00fcrki,M. Schmelzer,1
+S. Papastathopoulos,N. \u015eahin,1
+A. Sch\u00fcrrle,R. B\u00fcrki,1
+A. Sch\u00fcrrle,M. Schmelzer,1

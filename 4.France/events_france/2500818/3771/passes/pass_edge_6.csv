@@ -1,0 +1,15 @@
+Source,Target,Weight
+B. Sarr,M. Lopez,1
+M. Lopez,J. Amavi,1
+A. Abdennour,A. Rami,1
+Luiz Gustavo,D. Payet,1
+Luiz Gustavo,K. Mitroglou,1
+K. Mitroglou,D. Payet,1
+J. Amavi,Luiz Gustavo,1
+F. Thauvin,B. Sarr,1
+A. Rami,B. Sarr,1
+B. Sarr,F. Thauvin,1
+M. Lopez,D. Payet,1
+D. Payet,A. Abdennour,1
+D. Payet,Luiz Gustavo,1
+Luiz Gustavo,M. Lopez,1

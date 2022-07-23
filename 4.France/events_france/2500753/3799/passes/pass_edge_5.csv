@@ -1,0 +1,20 @@
+Source,Target,Weight
+K. Toko Ekambi,A. Fulgini,2
+A. Fulgini,V. Manceau,2
+R. Thomas,F. Tait,2
+F. Tait,Y. Andreu,2
+V. Manceau,K. Toko Ekambi,2
+R. Thomas,Y. Andreu,1
+A. Fulgini,R. Thomas,1
+Y. Andreu,V. Manceau,1
+M. Pavlovi\u0107,I. Traor\u00e9,1
+M. Tahrat,V. Manceau,1
+V. Manceau,M. Tahrat,1
+I. Traor\u00e9,T. Mangani,1
+Y. Andreu,T. Mangani,1
+T. Mangani,I. Traor\u00e9,1
+T. Mangani,R. Thomas,1
+I. Traor\u00e9,V. Manceau,1
+V. Manceau,A. Fulgini,1
+Y. Andreu,K. Toko Ekambi,1
+V. Manceau,M. Pavlovi\u0107,1

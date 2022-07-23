@@ -1,0 +1,64 @@
+Source,Target,Weight
+Mar\u00e7al,J. Morel,7
+J. Morel,Mar\u00e7al,7
+Marcelo,Rafael,5
+M. Depay,Mar\u00e7al,5
+Rafael,A. Lopes,5
+Marcelo,J. Morel,5
+J. Morel,A. Lopes,5
+A. Lopes,J. Morel,5
+Mar\u00e7al,M. Depay,4
+A. Lopes,L. Tousart,4
+L. Tousart,A. Lopes,4
+N. Fekir,Rafael,4
+Marcelo,A. Lopes,3
+Rafael,Mariano D\u00edaz,3
+J. Morel,M. Depay,3
+A. Lopes,Marcelo,3
+Mar\u00e7al,L. Tousart,3
+Rafael,B. Traor\u00e9,3
+A. Lopes,Mariano D\u00edaz,3
+C. Martins Pereira,Marcelo,3
+C. Martins Pereira,J. Morel,3
+Rafael,N. Fekir,3
+L. Tousart,J. Morel,2
+Mariano D\u00edaz,Rafael,2
+M. Depay,C. Martins Pereira,2
+B. Traor\u00e9,Rafael,2
+J. Morel,C. Martins Pereira,2
+Mariano D\u00edaz,Mar\u00e7al,2
+Mariano D\u00edaz,Marcelo,2
+B. Traor\u00e9,C. Martins Pereira,2
+Rafael,Marcelo,2
+J. Morel,Marcelo,2
+J. Morel,N. Fekir,2
+L. Tousart,B. Traor\u00e9,2
+Marcelo,M. Depay,2
+L. Tousart,Rafael,2
+N. Fekir,Mariano D\u00edaz,1
+Mar\u00e7al,C. Martins Pereira,1
+A. Lopes,Rafael,1
+L. Tousart,Marcelo,1
+B. Traor\u00e9,L. Tousart,1
+Mariano D\u00edaz,C. Martins Pereira,1
+N. Fekir,J. Morel,1
+B. Traor\u00e9,Marcelo,1
+N. Fekir,Mar\u00e7al,1
+C. Martins Pereira,Mar\u00e7al,1
+M. Depay,A. Lopes,1
+Rafael,Mar\u00e7al,1
+N. Fekir,B. Traor\u00e9,1
+Mar\u00e7al,Marcelo,1
+A. Lopes,N. Fekir,1
+A. Lopes,C. Martins Pereira,1
+C. Martins Pereira,B. Traor\u00e9,1
+Mar\u00e7al,Mariano D\u00edaz,1
+M. Depay,N. Fekir,1
+C. Martins Pereira,L. Tousart,1
+J. Morel,L. Tousart,1
+J. Morel,Mariano D\u00edaz,1
+J. Morel,Rafael,1
+Rafael,L. Tousart,1
+B. Traor\u00e9,J. Morel,1
+Mariano D\u00edaz,B. Traor\u00e9,1
+B. Traor\u00e9,N. Fekir,1

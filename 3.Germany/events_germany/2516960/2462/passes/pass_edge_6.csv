@@ -1,0 +1,64 @@
+Source,Target,Weight
+D. da Costa,S. Haller,4
+M. Hasebe,D. Abraham,4
+S. Haller,J. de Guzm\u00e1n,4
+S. Haller,D. da Costa,4
+M. Russ,M. Wolf,3
+D. da Costa,M. Russ,3
+M. Russ,M. Hasebe,3
+J. de Guzm\u00e1n,A. Rebi\u0107,3
+A. Rebi\u0107,G. Fernandes,3
+D. da Costa,D. Abraham,2
+D. Abraham,L. Hradecky,2
+G. Fernandes,D. da Costa,2
+M. Wolf,S. Haller,2
+G. Fernandes,M. Wolf,2
+S. Falette,T. Chandler,2
+T. Chandler,J. de Guzm\u00e1n,2
+M. Wolf,D. da Costa,2
+S. Haller,A. Rebi\u0107,2
+M. Hasebe,S. Haller,2
+M. Russ,G. Fernandes,1
+S. Haller,G. Fernandes,1
+D. da Costa,M. Wolf,1
+A. Rebi\u0107,S. Haller,1
+D. Abraham,G. Fernandes,1
+G. Fernandes,J. de Guzm\u00e1n,1
+M. Hasebe,S. Falette,1
+D. Abraham,J. de Guzm\u00e1n,1
+A. Rebi\u0107,D. da Costa,1
+G. Fernandes,L. Hradecky,1
+T. Chandler,S. Falette,1
+M. Hasebe,M. Wolf,1
+S. Falette,J. de Guzm\u00e1n,1
+M. Wolf,G. Fernandes,1
+D. Abraham,S. Haller,1
+D. da Costa,J. de Guzm\u00e1n,1
+S. Haller,M. Russ,1
+L. Hradecky,D. da Costa,1
+D. Abraham,S. Falette,1
+M. Hasebe,G. Fernandes,1
+G. Fernandes,M. Russ,1
+M. Wolf,A. Rebi\u0107,1
+M. Hasebe,M. Russ,1
+D. da Costa,M. Hasebe,1
+S. Haller,T. Chandler,1
+L. Hradecky,M. Hasebe,1
+M. Russ,S. Haller,1
+L. Hradecky,M. Russ,1
+A. Rebi\u0107,M. Hasebe,1
+J. de Guzm\u00e1n,G. Fernandes,1
+D. Abraham,M. Hasebe,1
+J. de Guzm\u00e1n,D. da Costa,1
+J. de Guzm\u00e1n,S. Haller,1
+J. de Guzm\u00e1n,M. Hasebe,1
+G. Fernandes,T. Chandler,1
+D. Abraham,D. da Costa,1
+J. de Guzm\u00e1n,D. Abraham,1
+J. de Guzm\u00e1n,S. Falette,1
+T. Chandler,S. Haller,1
+T. Chandler,D. Abraham,1
+J. de Guzm\u00e1n,T. Chandler,1
+G. Fernandes,M. Hasebe,1
+S. Falette,M. Hasebe,1
+M. Wolf,M. Russ,1

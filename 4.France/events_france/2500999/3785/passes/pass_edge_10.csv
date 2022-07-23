@@ -1,0 +1,21 @@
+Source,Target,Weight
+C. Kerbrat,C. Grenier,2
+Pedro Rebocho,J. Briand,1
+J. Sorbon,Pedro Rebocho,1
+\u00c9. Didot,L. Blas,1
+C. Kerbrat,J. Sorbon,1
+M. Thuram,Pedro Rebocho,1
+J. Ikoko,L. Blas,1
+C. Grenier,C. Kerbrat,1
+Y. N'Gbakoto,K. Johnsson,1
+M. Thuram,Y. N'Gbakoto,1
+L. Blas,\u00c9. Didot,1
+K. Johnsson,C. Kerbrat,1
+J. Briand,J. Ikoko,1
+J. Sorbon,M. Thuram,1
+\u00c9. Didot,C. Kerbrat,1
+M. Thuram,J. Sorbon,1
+J. Ikoko,C. Grenier,1
+Pedro Rebocho,M. Thuram,1
+C. Grenier,\u00c9. Didot,1
+C. Grenier,J. Ikoko,1

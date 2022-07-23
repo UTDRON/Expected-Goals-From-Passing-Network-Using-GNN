@@ -1,0 +1,84 @@
+Source,Target,Weight
+B. Sankoh,D. Da Silva,5
+F. Guilbert,J. F\u00e9ret,5
+J. F\u00e9ret,R. Rodelin,5
+J. F\u00e9ret,F. Guilbert,5
+R. Rodelin,J. F\u00e9ret,5
+R. Rodelin,F. Guilbert,4
+B. Sankoh,J. F\u00e9ret,4
+J. F\u00e9ret,S. Peeters,4
+J. F\u00e9ret,D. Avounou,4
+F. Guilbert,R. Genevois,4
+D. Avounou,A. Djiku,4
+E. Crivelli,B. Sankoh,3
+D. Avounou,B. Sankoh,3
+S. Peeters,F. Guilbert,3
+B. Sankoh,F. Guilbert,3
+A. Djiku,R. Genevois,3
+D. Da Silva,J. F\u00e9ret,3
+R. Genevois,E. Crivelli,3
+R. Rodelin,B. Sankoh,3
+S. Peeters,R. Rodelin,3
+R. Rodelin,S. Peeters,3
+R. Genevois,D. Da Silva,3
+E. Crivelli,D. Avounou,2
+F. Guilbert,B. Sankoh,2
+R. Genevois,J. F\u00e9ret,2
+S. Peeters,J. F\u00e9ret,2
+F. Guilbert,D. Da Silva,2
+D. Avounou,R. Vercoutre,2
+F. Guilbert,R. Rodelin,2
+D. Da Silva,R. Genevois,2
+D. Avounou,S. Peeters,2
+D. Avounou,J. F\u00e9ret,2
+D. Avounou,E. Crivelli,2
+A. Djiku,R. Vercoutre,2
+F. Guilbert,E. Crivelli,2
+E. Crivelli,R. Genevois,2
+A. Djiku,D. Avounou,2
+E. Crivelli,R. Rodelin,2
+J. F\u00e9ret,D. Da Silva,2
+J. F\u00e9ret,B. Sankoh,2
+D. Da Silva,A. Djiku,2
+D. Avounou,R. Rodelin,2
+R. Vercoutre,R. Rodelin,2
+S. Peeters,A. Djiku,2
+R. Vercoutre,E. Crivelli,2
+B. Sankoh,A. Djiku,2
+B. Sankoh,D. Avounou,2
+S. Peeters,D. Avounou,2
+I. Santini,F. Guilbert,1
+F. Guilbert,A. Djiku,1
+D. Da Silva,R. Rodelin,1
+F. Guilbert,D. Avounou,1
+A. Djiku,B. Sankoh,1
+R. Genevois,F. Guilbert,1
+R. Genevois,B. Sankoh,1
+E. Crivelli,S. Peeters,1
+A. Djiku,J. F\u00e9ret,1
+A. Djiku,R. Rodelin,1
+S. Peeters,I. Santini,1
+B. Sankoh,R. Vercoutre,1
+J. F\u00e9ret,R. Genevois,1
+I. Santini,S. Peeters,1
+D. Da Silva,D. Avounou,1
+D. Da Silva,B. Sankoh,1
+D. Da Silva,F. Guilbert,1
+R. Genevois,R. Vercoutre,1
+I. Santini,D. Avounou,1
+R. Rodelin,I. Santini,1
+R. Vercoutre,B. Sankoh,1
+B. Sankoh,R. Genevois,1
+D. Da Silva,I. Santini,1
+D. Avounou,F. Guilbert,1
+R. Genevois,S. Peeters,1
+R. Rodelin,R. Genevois,1
+R. Genevois,D. Avounou,1
+R. Vercoutre,D. Avounou,1
+S. Peeters,E. Crivelli,1
+S. Peeters,B. Sankoh,1
+E. Crivelli,D. Da Silva,1
+R. Rodelin,D. Avounou,1
+J. F\u00e9ret,E. Crivelli,1
+A. Djiku,S. Peeters,1
+D. Da Silva,S. Peeters,1

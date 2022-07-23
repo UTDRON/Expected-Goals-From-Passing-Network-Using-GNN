@@ -1,0 +1,62 @@
+Source,Target,Weight
+S. Yago,I. Diop,4
+Q. Boisgard,S. Yago,4
+Q. Boisgard,M. Gradel,4
+O. Toivonen,C. Jullien,3
+K. Amian,Q. Boisgard,3
+Som\u00e1lia,O. Toivonen,3
+C. Jullien,Q. Boisgard,3
+I. Diop,O. Toivonen,3
+S. Yago,O. Toivonen,3
+S. Yago,Som\u00e1lia,3
+C. Jean,S. Yago,3
+O. Toivonen,S. Yago,3
+Q. Boisgard,Som\u00e1lia,2
+C. Jullien,M. Gradel,2
+K. Amian,S. Yago,2
+M. Gradel,Som\u00e1lia,2
+M. Gradel,K. Amian,2
+Som\u00e1lia,S. Yago,2
+S. Yago,C. Jean,2
+Q. Boisgard,A. Delort,2
+Q. Boisgard,C. Jullien,2
+C. Jullien,I. Diop,2
+Som\u00e1lia,Q. Boisgard,2
+K. Amian,C. Jullien,2
+I. Diop,Som\u00e1lia,2
+I. Diop,A. Lafont,2
+M. Gradel,Q. Boisgard,2
+C. Jean,I. Diop,2
+C. Jullien,K. Amian,1
+I. Diop,A. Delort,1
+Som\u00e1lia,K. Amian,1
+S. Yago,K. Amian,1
+O. Toivonen,C. Jean,1
+S. Yago,C. Jullien,1
+M. Gradel,S. Yago,1
+O. Toivonen,M. Gradel,1
+S. Yago,A. Delort,1
+A. Lafont,C. Jullien,1
+A. Delort,C. Jean,1
+Som\u00e1lia,A. Delort,1
+A. Lafont,Som\u00e1lia,1
+I. Diop,S. Yago,1
+A. Delort,Som\u00e1lia,1
+Som\u00e1lia,I. Diop,1
+A. Delort,Q. Boisgard,1
+Q. Boisgard,O. Toivonen,1
+O. Toivonen,Q. Boisgard,1
+S. Yago,Q. Boisgard,1
+I. Diop,Q. Boisgard,1
+A. Delort,O. Toivonen,1
+A. Lafont,Q. Boisgard,1
+O. Toivonen,I. Diop,1
+Q. Boisgard,I. Diop,1
+M. Gradel,A. Delort,1
+C. Jean,Q. Boisgard,1
+A. Delort,M. Gradel,1
+I. Diop,C. Jean,1
+C. Jullien,A. Lafont,1
+Q. Boisgard,K. Amian,1
+O. Toivonen,K. Amian,1
+Som\u00e1lia,C. Jean,1

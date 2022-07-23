@@ -1,0 +1,37 @@
+Source,Target,Weight
+D. Da Silva,J. F\u00e9ret,3
+J. F\u00e9ret,R. Genevois,3
+R. Rodelin,A. Djiku,2
+J. F\u00e9ret,F. Guilbert,2
+A. Djiku,J. F\u00e9ret,2
+I. Santini,Y. Armougom,2
+F. Guilbert,I. Santini,2
+J. F\u00e9ret,A. Djiku,2
+F. Guilbert,R. Rodelin,2
+J. F\u00e9ret,R. Rodelin,2
+R. Genevois,R. Rodelin,2
+Y. Armougom,I. Santini,2
+R. Genevois,J. F\u00e9ret,2
+R. Vercoutre,D. Da Silva,1
+R. Rodelin,F. Guilbert,1
+E. Crivelli,F. Guilbert,1
+R. Rodelin,I. Santini,1
+R. Rodelin,D. Da Silva,1
+S. Peeters,Y. Armougom,1
+E. Crivelli,R. Genevois,1
+R. Rodelin,E. Crivelli,1
+I. Santini,J. F\u00e9ret,1
+Y. Armougom,J. F\u00e9ret,1
+J. F\u00e9ret,S. Peeters,1
+F. Guilbert,J. F\u00e9ret,1
+I. Santini,E. Crivelli,1
+J. F\u00e9ret,Y. Armougom,1
+F. Guilbert,R. Genevois,1
+A. Djiku,E. Crivelli,1
+A. Djiku,F. Guilbert,1
+Y. Armougom,R. Rodelin,1
+D. Da Silva,R. Vercoutre,1
+E. Crivelli,A. Djiku,1
+I. Santini,F. Guilbert,1
+A. Djiku,D. Da Silva,1
+R. Genevois,D. Da Silva,1

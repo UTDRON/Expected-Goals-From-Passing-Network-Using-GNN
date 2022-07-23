@@ -1,0 +1,26 @@
+Source,Target,Weight
+J. Seri,P. Burner,2
+A. Tameze,A. Pl\u00e9a,2
+J. Seri,Marlon,1
+M. Le Marchand,M. Sarr,1
+M. Le Marchand,A. Tameze,1
+Marlon,A. Tameze,1
+A. Pl\u00e9a,A. Tameze,1
+P. Burner,Marlon,1
+J. Seri,A. Saint-Maximin,1
+A. Saint-Maximin,P. Lees Melou,1
+Marlon,P. Burner,1
+A. Pl\u00e9a,B. Srarfi,1
+M. Sarr,Marlon,1
+A. Pl\u00e9a,J. Seri,1
+A. Tameze,Marlon,1
+Marlon,J. Seri,1
+B. Srarfi,J. Seri,1
+Marlon,M. Sarr,1
+P. Lees Melou,J. Seri,1
+A. Tameze,P. Lees Melou,1
+P. Burner,M. Sarr,1
+M. Sarr,M. Le Marchand,1
+A. Saint-Maximin,M. Le Marchand,1
+P. Burner,A. Pl\u00e9a,1
+M. Sarr,A. Saint-Maximin,1

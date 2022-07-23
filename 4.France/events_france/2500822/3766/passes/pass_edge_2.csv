@@ -1,0 +1,50 @@
+Source,Target,Weight
+Mar\u00e7al,M. Depay,5
+Mariano D\u00edaz,T. Ndomb\u00e8l\u00e9,3
+Marcelo,M. Cornet,3
+Mar\u00e7al,A. Lopes,3
+A. Lopes,Marcelo,3
+M. Cornet,T. Ndomb\u00e8l\u00e9,2
+T. Ndomb\u00e8l\u00e9,Mariano D\u00edaz,2
+M. Depay,H. Aouar,2
+L. Tousart,Mar\u00e7al,2
+K. Tete,Marcelo,2
+H. Aouar,Mar\u00e7al,2
+T. Ndomb\u00e8l\u00e9,Marcelo,2
+M. Depay,Mar\u00e7al,2
+M. Cornet,K. Tete,2
+L. Tousart,T. Ndomb\u00e8l\u00e9,2
+A. Lopes,K. Tete,2
+M. Diakhaby,Mar\u00e7al,2
+Marcelo,A. Lopes,2
+T. Ndomb\u00e8l\u00e9,Mar\u00e7al,2
+H. Aouar,L. Tousart,1
+L. Tousart,M. Diakhaby,1
+T. Ndomb\u00e8l\u00e9,M. Depay,1
+M. Diakhaby,T. Ndomb\u00e8l\u00e9,1
+M. Depay,A. Lopes,1
+Mariano D\u00edaz,Marcelo,1
+A. Lopes,M. Depay,1
+Mar\u00e7al,Marcelo,1
+Mar\u00e7al,M. Diakhaby,1
+M. Diakhaby,A. Lopes,1
+K. Tete,Mariano D\u00edaz,1
+Marcelo,H. Aouar,1
+K. Tete,A. Lopes,1
+A. Lopes,Mar\u00e7al,1
+Marcelo,M. Diakhaby,1
+K. Tete,L. Tousart,1
+H. Aouar,M. Diakhaby,1
+Mar\u00e7al,L. Tousart,1
+Mariano D\u00edaz,L. Tousart,1
+Marcelo,Mariano D\u00edaz,1
+T. Ndomb\u00e8l\u00e9,L. Tousart,1
+A. Lopes,H. Aouar,1
+Marcelo,K. Tete,1
+L. Tousart,H. Aouar,1
+M. Depay,L. Tousart,1
+L. Tousart,Mariano D\u00edaz,1
+H. Aouar,T. Ndomb\u00e8l\u00e9,1
+T. Ndomb\u00e8l\u00e9,K. Tete,1
+K. Tete,M. Cornet,1
+M. Diakhaby,L. Tousart,1

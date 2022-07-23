@@ -1,0 +1,26 @@
+Source,Target,Weight
+M. Fabi\u00e1n,K. Boateng,4
+K. Boateng,T. Chandler,3
+M. Hasebe,D. Abraham,2
+M. Hasebe,M. Russ,2
+M. Russ,M. Hasebe,2
+D. Abraham,M. Fabi\u00e1n,2
+T. Chandler,M. Fabi\u00e1n,2
+K. Boateng,J. de Guzm\u00e1n,1
+M. Hasebe,K. Boateng,1
+J. de Guzm\u00e1n,D. da Costa,1
+D. da Costa,M. Fabi\u00e1n,1
+K. Boateng,M. Fabi\u00e1n,1
+J. de Guzm\u00e1n,M. Russ,1
+D. da Costa,M. Hasebe,1
+M. Fabi\u00e1n,M. Hasebe,1
+L. Hradecky,M. Hasebe,1
+M. Russ,M. Wolf,1
+M. Hasebe,J. de Guzm\u00e1n,1
+M. Wolf,D. Abraham,1
+D. Abraham,D. da Costa,1
+J. de Guzm\u00e1n,M. Wolf,1
+D. Abraham,M. Hasebe,1
+T. Chandler,L. Hradecky,1
+D. da Costa,J. de Guzm\u00e1n,1
+M. Wolf,D. da Costa,1

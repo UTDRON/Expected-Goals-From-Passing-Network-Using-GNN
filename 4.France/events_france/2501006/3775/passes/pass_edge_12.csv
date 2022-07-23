@@ -1,0 +1,34 @@
+Source,Target,Weight
+Marlon,W. Ben\u00edtez,2
+A. Saint-Maximin,J. Seri,2
+J. Seri,A. Saint-Maximin,2
+B. Srarfi,A. Saint-Maximin,1
+A. Pl\u00e9a,W. Ben\u00edtez,1
+A. Tameze,P. Lees Melou,1
+W. Ben\u00edtez,B. Srarfi,1
+A. Pl\u00e9a,B. Srarfi,1
+B. Srarfi,Marlon,1
+J. Seri,B. Srarfi,1
+A. Pl\u00e9a,J. Seri,1
+Dante,A. Saint-Maximin,1
+P. Lees Melou,A. Pl\u00e9a,1
+P. Lees Melou,Marlon,1
+W. Ben\u00edtez,Dante,1
+A. Souquet,A. Tameze,1
+A. Tameze,Marlon,1
+B. Srarfi,J. Seri,1
+A. Saint-Maximin,A. Tameze,1
+J. Seri,A. Tameze,1
+Marlon,P. Lees Melou,1
+A. Saint-Maximin,A. Pl\u00e9a,1
+W. Ben\u00edtez,A. Pl\u00e9a,1
+B. Srarfi,A. Souquet,1
+M. Le Marchand,A. Saint-Maximin,1
+A. Tameze,W. Ben\u00edtez,1
+Dante,A. Souquet,1
+P. Lees Melou,B. Srarfi,1
+W. Ben\u00edtez,Marlon,1
+J. Seri,M. Le Marchand,1
+Marlon,J. Seri,1
+A. Souquet,J. Seri,1
+J. Seri,P. Lees Melou,1

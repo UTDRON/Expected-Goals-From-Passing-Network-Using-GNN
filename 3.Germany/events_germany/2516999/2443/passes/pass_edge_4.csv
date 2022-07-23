@@ -1,0 +1,89 @@
+Source,Target,Weight
+S. Langkamp,M. Friedl,7
+M. Kruse,P. Bargfrede,6
+I. Belfodil,T. Delaney,5
+M. Veljkovic,I. Belfodil,5
+M. Friedl,S. Langkamp,5
+S. Langkamp,M. Veljkovic,5
+T. Delaney,S. Langkamp,5
+T. Delaney,M. Kruse,5
+M. Friedl,M. Veljkovic,4
+T. Gebre Selassie,P. Bargfrede,4
+I. Belfodil,M. Friedl,4
+M. Friedl,M. Kruse,3
+M. Kruse,F. Kainz,3
+F. Kainz,M. Kruse,3
+M. Kruse,I. Belfodil,3
+P. Bargfrede,M. Eggestein,3
+P. Bargfrede,M. Friedl,3
+M. Friedl,F. Kainz,3
+M. Kruse,M. Friedl,3
+M. Veljkovic,S. Langkamp,3
+P. Bargfrede,T. Delaney,3
+M. Veljkovic,T. Delaney,3
+P. Bargfrede,T. Gebre Selassie,3
+M. Veljkovic,P. Bargfrede,3
+M. Kruse,M. Veljkovic,3
+P. Bargfrede,M. Kruse,2
+M. Eggestein,S. Langkamp,2
+I. Belfodil,M. Eggestein,2
+F. Kainz,M. Eggestein,2
+T. Delaney,J. Pavlenka,2
+M. Eggestein,M. Veljkovic,2
+T. Gebre Selassie,M. Kruse,2
+T. Gebre Selassie,I. Belfodil,2
+M. Eggestein,T. Gebre Selassie,2
+M. Friedl,P. Bargfrede,2
+M. Veljkovic,M. Kruse,2
+P. Bargfrede,S. Langkamp,2
+I. Belfodil,T. Gebre Selassie,2
+M. Friedl,I. Belfodil,2
+P. Bargfrede,M. Veljkovic,2
+F. Kainz,T. Gebre Selassie,2
+J. Pavlenka,T. Gebre Selassie,2
+M. Friedl,T. Delaney,2
+S. Langkamp,J. Pavlenka,2
+P. Bargfrede,I. Belfodil,2
+T. Gebre Selassie,S. Langkamp,2
+M. Veljkovic,F. Kainz,2
+T. Delaney,M. Eggestein,2
+I. Belfodil,P. Bargfrede,2
+I. Belfodil,M. Kruse,2
+Z. Junuzovi\u0107,M. Friedl,1
+T. Delaney,P. Bargfrede,1
+T. Delaney,M. Friedl,1
+M. Eggestein,F. Kainz,1
+M. Kruse,T. Delaney,1
+M. Kruse,Z. Junuzovi\u0107,1
+F. Kainz,P. Bargfrede,1
+S. Langkamp,F. Kainz,1
+M. Veljkovic,T. Gebre Selassie,1
+F. Kainz,T. Delaney,1
+T. Gebre Selassie,M. Veljkovic,1
+M. Eggestein,M. Kruse,1
+S. Langkamp,P. Bargfrede,1
+M. Eggestein,J. Pavlenka,1
+J. Pavlenka,I. Belfodil,1
+J. Pavlenka,M. Friedl,1
+M. Veljkovic,J. Pavlenka,1
+T. Delaney,I. Belfodil,1
+J. Pavlenka,M. Veljkovic,1
+Z. Junuzovi\u0107,J. Pavlenka,1
+Z. Junuzovi\u0107,T. Delaney,1
+S. Langkamp,Z. Junuzovi\u0107,1
+I. Belfodil,Z. Junuzovi\u0107,1
+S. Langkamp,I. Belfodil,1
+F. Kainz,I. Belfodil,1
+M. Eggestein,T. Delaney,1
+M. Eggestein,I. Belfodil,1
+F. Kainz,M. Veljkovic,1
+S. Langkamp,M. Eggestein,1
+I. Belfodil,M. Veljkovic,1
+T. Gebre Selassie,M. Eggestein,1
+Z. Junuzovi\u0107,M. Kruse,1
+T. Gebre Selassie,F. Kainz,1
+J. Pavlenka,S. Langkamp,1
+J. Pavlenka,P. Bargfrede,1
+M. Kruse,T. Gebre Selassie,1
+S. Langkamp,T. Delaney,1
+P. Bargfrede,Z. Junuzovi\u0107,1

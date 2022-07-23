@@ -1,0 +1,38 @@
+Source,Target,Weight
+O. Haddadi,B. Jeannot,5
+Xeka,O. Haddadi,2
+B. Jeannot,B. Reynet,2
+Xeka,B. Jeannot,2
+V. Rosier,Xeka,2
+P. Djilobodji,O. Haddadi,2
+B. Jeannot,Xeka,2
+Kwon Chang-Hoon,M. Abeid,2
+R. Amalfitano,N. Sliti,1
+B. Jeannot,C. Varrault,1
+Xeka,M. Abeid,1
+N. Sliti,O. Haddadi,1
+B. Jeannot,V. Rosier,1
+B. Jeannot,O. Haddadi,1
+B. Reynet,O. Haddadi,1
+M. Abeid,P. Djilobodji,1
+M. Abeid,R. Amalfitano,1
+O. Haddadi,V. Rosier,1
+V. Rosier,R. Amalfitano,1
+R. Amalfitano,O. Haddadi,1
+B. Jeannot,Kwon Chang-Hoon,1
+R. Amalfitano,Xeka,1
+N. Sliti,R. Amalfitano,1
+O. Haddadi,N. Sliti,1
+Xeka,C. Varrault,1
+P. Djilobodji,N. Sliti,1
+C. Varrault,B. Reynet,1
+N. Sliti,M. Abeid,1
+R. Amalfitano,V. Rosier,1
+B. Reynet,N. Sliti,1
+M. Abeid,V. Rosier,1
+O. Haddadi,Xeka,1
+C. Varrault,P. Djilobodji,1
+N. Sliti,Kwon Chang-Hoon,1
+V. Rosier,B. Reynet,1
+B. Reynet,P. Djilobodji,1
+B. Reynet,B. Jeannot,1

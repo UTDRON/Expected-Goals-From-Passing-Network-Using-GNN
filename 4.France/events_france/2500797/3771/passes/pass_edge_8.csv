@@ -1,0 +1,22 @@
+Source,Target,Weight
+M. Sanson,A. Abdennour,2
+H. Sakai,F. Thauvin,2
+A. Rami,F. Thauvin,2
+A. Abdennour,A. Rami,2
+Luiz Gustavo,A. Abdennour,1
+F. Thauvin,L. Ocampos,1
+J. Amavi,L. Ocampos,1
+A. Abdennour,M. Sanson,1
+S. Mandanda,J. Amavi,1
+Luiz Gustavo,L. Ocampos,1
+S. Mandanda,A. Abdennour,1
+A. Abdennour,S. Mandanda,1
+L. Ocampos,J. Amavi,1
+A. Abdennour,J. Amavi,1
+J. Amavi,H. Sakai,1
+L. Ocampos,A. Abdennour,1
+F. Thauvin,M. Sanson,1
+A. Abdennour,Luiz Gustavo,1
+J. Amavi,Luiz Gustavo,1
+F. Thauvin,S. Mandanda,1
+F. Thauvin,H. Sakai,1

@@ -1,0 +1,45 @@
+Source,Target,Weight
+A. Sch\u00f6pf,Y. Konoplyanka,3
+N. Bentaleb,Naldo,3
+B. Stambouli,N. Bentaleb,2
+T. Kehrer,A. Sch\u00f6pf,2
+D. Caligiuri,L. Goretzka,2
+Y. Konoplyanka,N. Bentaleb,2
+L. Goretzka,A. Sch\u00f6pf,2
+A. Sch\u00f6pf,N. Bentaleb,2
+N. Bentaleb,A. Sch\u00f6pf,2
+A. Sch\u00f6pf,R. F\u00e4hrmann,1
+R. F\u00e4hrmann,B. Stambouli,1
+W. McKennie,D. Caligiuri,1
+Naldo,G. Burgstaller,1
+A. Harit,L. Goretzka,1
+Naldo,B. Stambouli,1
+N. Bentaleb,W. McKennie,1
+L. Goretzka,Naldo,1
+A. Sch\u00f6pf,D. Caligiuri,1
+A. Harit,A. Sch\u00f6pf,1
+G. Burgstaller,A. Sch\u00f6pf,1
+G. Burgstaller,N. Bentaleb,1
+A. Harit,T. Kehrer,1
+N. Bentaleb,B. Stambouli,1
+A. Sch\u00f6pf,G. Burgstaller,1
+B. Stambouli,D. Caligiuri,1
+N. Bentaleb,R. F\u00e4hrmann,1
+Y. Konoplyanka,A. Harit,1
+D. Caligiuri,W. McKennie,1
+L. Goretzka,A. Harit,1
+T. Kehrer,N. Bentaleb,1
+Y. Konoplyanka,T. Kehrer,1
+D. Caligiuri,Y. Konoplyanka,1
+G. Burgstaller,Y. Konoplyanka,1
+L. Goretzka,T. Kehrer,1
+Naldo,Y. Konoplyanka,1
+Naldo,L. Goretzka,1
+G. Burgstaller,Naldo,1
+A. Harit,Y. Konoplyanka,1
+Y. Konoplyanka,D. Caligiuri,1
+A. Sch\u00f6pf,L. Goretzka,1
+R. F\u00e4hrmann,G. Burgstaller,1
+W. McKennie,A. Harit,1
+Naldo,A. Harit,1
+Y. Konoplyanka,G. Burgstaller,1

@@ -1,0 +1,41 @@
+Source,Target,Weight
+F. Chafik,N. Sliti,3
+V. Rosier,R. Amalfitano,3
+V. Rosier,Xeka,3
+F. Chafik,C. Yamber\u00e9,2
+R. Amalfitano,V. Rosier,2
+R. Amalfitano,J. Mari\u00e9,2
+B. Reynet,F. Chafik,2
+N. Sliti,F. Chafik,2
+W. Sa\u00efd,V. Rosier,2
+P. Djilobodji,V. Rosier,2
+C. Yamber\u00e9,B. Reynet,2
+F. Chafik,Xeka,1
+B. Jeannot,V. Rosier,1
+B. Reynet,C. Yamber\u00e9,1
+F. Chafik,J. Mari\u00e9,1
+J. Mari\u00e9,B. Reynet,1
+F. Chafik,P. Djilobodji,1
+V. Rosier,B. Reynet,1
+Xeka,P. Djilobodji,1
+C. Yamber\u00e9,F. Chafik,1
+Xeka,C. Yamber\u00e9,1
+V. Rosier,W. Sa\u00efd,1
+C. Yamber\u00e9,J. Mari\u00e9,1
+V. Rosier,P. Djilobodji,1
+F. Chafik,V. Rosier,1
+C. Yamber\u00e9,R. Amalfitano,1
+R. Amalfitano,F. Chafik,1
+J. Mari\u00e9,V. Rosier,1
+N. Sliti,C. Yamber\u00e9,1
+Xeka,V. Rosier,1
+Xeka,J. Mari\u00e9,1
+V. Rosier,J. Mari\u00e9,1
+P. Djilobodji,F. Chafik,1
+C. Yamber\u00e9,P. Djilobodji,1
+J. Mari\u00e9,C. Yamber\u00e9,1
+J. Mari\u00e9,R. Amalfitano,1
+P. Djilobodji,B. Jeannot,1
+J. Mari\u00e9,W. Sa\u00efd,1
+J. Mari\u00e9,F. Chafik,1
+B. Reynet,P. Djilobodji,1

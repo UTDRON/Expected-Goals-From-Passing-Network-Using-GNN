@@ -1,0 +1,17 @@
+Source,Target,Weight
+D. Congr\u00e9,K. Dolly,2
+K. Dolly,F. P\u00edriz,2
+P. Lasne,D. Congr\u00e9,2
+D. Congr\u00e9,P. Lasne,2
+G. Sio,E. Skhiri,1
+N. Mukiele,Pedro Mendes,1
+N. Mukiele,F. P\u00edriz,1
+P. Lasne,K. Dolly,1
+E. Skhiri,N. Mukiele,1
+Pedro Mendes,D. Congr\u00e9,1
+K. Dolly,P. Lasne,1
+P. Lasne,G. Sio,1
+F. P\u00edriz,N. Mukiele,1
+F. P\u00edriz,Pedro Mendes,1
+Pedro Mendes,G. Sio,1
+F. P\u00edriz,D. Congr\u00e9,1

@@ -1,0 +1,78 @@
+Source,Target,Weight
+R. Gurtner,M. Konat\u00e9,5
+O. El Hajjam,P. Gouano,4
+O. El Hajjam,K. Ad\u00e9non,4
+O. El Hajjam,R. Gurtner,4
+K. Ad\u00e9non,B. Dibassy,3
+P. Gouano,O. El Hajjam,3
+B. Dibassy,T. Ndomb\u00e8l\u00e9,3
+E. Bourgaud,O. El Hajjam,3
+T. Ndomb\u00e8l\u00e9,H. Manzala,3
+B. Dibassy,K. Ad\u00e9non,2
+O. El Hajjam,G. Kakuta,2
+I. Cissokho,G. Kakuta,2
+M. Konat\u00e9,I. Cissokho,2
+J. Ielsch,M. Konat\u00e9,2
+G. Kakuta,O. El Hajjam,2
+M. Konat\u00e9,G. Kakuta,2
+I. Cissokho,G. N'Gosso,2
+M. Konat\u00e9,O. El Hajjam,2
+G. Kakuta,R. Gurtner,2
+K. Ad\u00e9non,T. Ndomb\u00e8l\u00e9,2
+B. Dibassy,J. Ielsch,2
+R. Gurtner,I. Cissokho,2
+O. El Hajjam,E. Bourgaud,2
+T. Ndomb\u00e8l\u00e9,G. Kakuta,2
+H. Manzala,O. El Hajjam,2
+M. Konat\u00e9,T. Ndomb\u00e8l\u00e9,1
+R. Gurtner,E. Bourgaud,1
+B. Dibassy,M. Konat\u00e9,1
+I. Cissokho,T. Ndomb\u00e8l\u00e9,1
+P. Gouano,T. Ndomb\u00e8l\u00e9,1
+T. Ndomb\u00e8l\u00e9,T. Monconduit,1
+G. N'Gosso,B. Dibassy,1
+G. Kakuta,I. Cissokho,1
+E. Bourgaud,M. Konat\u00e9,1
+M. Konat\u00e9,E. Bourgaud,1
+M. Konat\u00e9,J. Ielsch,1
+T. Ndomb\u00e8l\u00e9,R. Gurtner,1
+H. Manzala,M. Konat\u00e9,1
+T. Ndomb\u00e8l\u00e9,B. Dibassy,1
+T. Ndomb\u00e8l\u00e9,K. Ad\u00e9non,1
+G. Kakuta,K. Ad\u00e9non,1
+P. Gouano,I. Cissokho,1
+G. N'Gosso,H. Manzala,1
+B. Dibassy,H. Manzala,1
+M. Konat\u00e9,P. Gouano,1
+I. Cissokho,P. Gouano,1
+G. N'Gosso,I. Cissokho,1
+P. Gouano,R. Gurtner,1
+B. Dibassy,P. Gouano,1
+J. Ielsch,R. Gurtner,1
+T. Ndomb\u00e8l\u00e9,I. Cissokho,1
+K. Ad\u00e9non,O. El Hajjam,1
+K. Ad\u00e9non,E. Bourgaud,1
+M. Konat\u00e9,R. Gurtner,1
+R. Gurtner,G. Kakuta,1
+G. Kakuta,P. Gouano,1
+H. Manzala,T. Ndomb\u00e8l\u00e9,1
+K. Ad\u00e9non,M. Konat\u00e9,1
+I. Cissokho,B. Dibassy,1
+T. Monconduit,O. El Hajjam,1
+H. Manzala,B. Dibassy,1
+P. Gouano,B. Dibassy,1
+G. Kakuta,M. Konat\u00e9,1
+O. El Hajjam,T. Ndomb\u00e8l\u00e9,1
+P. Gouano,T. Monconduit,1
+G. Kakuta,T. Ndomb\u00e8l\u00e9,1
+H. Manzala,G. Kakuta,1
+R. Gurtner,P. Gouano,1
+M. Konat\u00e9,B. Dibassy,1
+P. Gouano,H. Manzala,1
+T. Monconduit,M. Konat\u00e9,1
+T. Ndomb\u00e8l\u00e9,G. N'Gosso,1
+G. Kakuta,J. Ielsch,1
+I. Cissokho,O. El Hajjam,1
+G. Kakuta,B. Dibassy,1
+J. Ielsch,O. El Hajjam,1
+E. Bourgaud,G. Kakuta,1

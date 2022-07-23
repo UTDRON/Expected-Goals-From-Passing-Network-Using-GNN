@@ -1,0 +1,16 @@
+Source,Target,Weight
+M. Sabitzer,E. Forsberg,3
+E. Forsberg,M. Sabitzer,3
+N. Ke\u00efta,E. Forsberg,2
+D. Demme,D. Upamecano,2
+N. Ke\u00efta,D. Demme,2
+D. Upamecano,D. Demme,2
+D. Demme,N. Ke\u00efta,2
+D. Demme,M. Sabitzer,1
+E. Forsberg,M. Halstenberg,1
+E. Forsberg,W. Orban,1
+W. Orban,M. Sabitzer,1
+M. Sabitzer,N. Ke\u00efta,1
+M. Sabitzer,D. Demme,1
+E. Forsberg,N. Ke\u00efta,1
+M. Halstenberg,Bruma,1

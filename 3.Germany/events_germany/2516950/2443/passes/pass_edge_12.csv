@@ -1,0 +1,24 @@
+Source,Target,Weight
+L. Augustinsson,M. Kruse,3
+M. Kruse,T. Delaney,3
+M. Kruse,P. Bargfrede,2
+M. Eggestein,T. Gebre Selassie,2
+T. Delaney,L. Augustinsson,2
+T. Delaney,M. Eggestein,1
+T. Delaney,N. Moisander,1
+A. J\u00f3hannsson,M. Kruse,1
+T. Gebre Selassie,T. Delaney,1
+T. Gebre Selassie,M. Eggestein,1
+T. Gebre Selassie,M. Kruse,1
+I. Belfodil,T. Gebre Selassie,1
+P. Bargfrede,T. Gebre Selassie,1
+T. Gebre Selassie,L. Augustinsson,1
+L. Augustinsson,A. J\u00f3hannsson,1
+L. Augustinsson,T. Delaney,1
+M. Eggestein,P. Bargfrede,1
+N. Moisander,L. Augustinsson,1
+P. Bargfrede,A. J\u00f3hannsson,1
+A. J\u00f3hannsson,L. Augustinsson,1
+N. Moisander,I. Belfodil,1
+P. Bargfrede,M. Eggestein,1
+T. Delaney,A. J\u00f3hannsson,1

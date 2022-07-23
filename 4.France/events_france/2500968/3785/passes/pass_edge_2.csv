@@ -1,0 +1,56 @@
+Source,Target,Weight
+M. Thuram,F. Tabanou,5
+J. Briand,F. Tabanou,4
+K. Johnsson,J. Briand,4
+F. Eboa Eboa,\u00c9. Didot,4
+F. Tabanou,J. Briand,4
+M. Coco,C. Kerbrat,3
+\u00c9. Didot,F. Eboa Eboa,3
+J. Briand,M. Thuram,3
+F. Tabanou,M. Thuram,3
+M. Coco,K. Johnsson,3
+J. Briand,L. Deaux,2
+L. Deaux,\u00c9. Didot,2
+\u00c9. Didot,J. Briand,2
+C. Kerbrat,L. Deaux,2
+M. Coco,\u00c9. Didot,2
+C. Kerbrat,M. Coco,2
+C. Grenier,C. Kerbrat,2
+C. Kerbrat,K. Johnsson,2
+F. Tabanou,K. Johnsson,2
+F. Tabanou,M. Coco,2
+F. Tabanou,C. Grenier,2
+J. Martins-Pereira,F. Tabanou,2
+\u00c9. Didot,C. Kerbrat,1
+J. Briand,K. Johnsson,1
+M. Thuram,C. Kerbrat,1
+L. Deaux,J. Martins-Pereira,1
+J. Martins-Pereira,M. Coco,1
+F. Tabanou,L. Deaux,1
+F. Tabanou,\u00c9. Didot,1
+K. Johnsson,F. Eboa Eboa,1
+L. Deaux,C. Kerbrat,1
+\u00c9. Didot,M. Coco,1
+\u00c9. Didot,M. Thuram,1
+K. Johnsson,F. Tabanou,1
+\u00c9. Didot,L. Deaux,1
+J. Briand,J. Martins-Pereira,1
+K. Johnsson,M. Thuram,1
+J. Martins-Pereira,K. Johnsson,1
+F. Tabanou,J. Martins-Pereira,1
+C. Grenier,F. Tabanou,1
+F. Eboa Eboa,F. Tabanou,1
+F. Eboa Eboa,M. Coco,1
+J. Briand,F. Eboa Eboa,1
+C. Kerbrat,\u00c9. Didot,1
+M. Thuram,C. Grenier,1
+L. Deaux,J. Briand,1
+\u00c9. Didot,F. Tabanou,1
+C. Grenier,F. Eboa Eboa,1
+L. Deaux,C. Grenier,1
+C. Grenier,L. Deaux,1
+M. Thuram,J. Briand,1
+K. Johnsson,M. Coco,1
+L. Deaux,M. Thuram,1
+C. Kerbrat,F. Tabanou,1
+K. Johnsson,J. Martins-Pereira,1

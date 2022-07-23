@@ -1,0 +1,21 @@
+Source,Target,Weight
+D. Brosinski,L. Balogun,3
+L. Balogun,F. Frei,3
+D. Latza,A. Hack,2
+L. Balogun,D. Brosinski,2
+A. Hack,L. Balogun,2
+F. Frei,L. Balogun,2
+R. Quaison,A. Maxim,1
+A. Hack,A. Diallo,1
+D. Brosinski,R. Quaison,1
+A. Diallo,D. Latza,1
+A. Maxim,D. Brosinski,1
+L. Balogun,A. Maxim,1
+A. Maxim,E. Berggreen,1
+E. Berggreen,R. Quaison,1
+A. Diallo,A. Hack,1
+A. Hack,D. Latza,1
+D. Latza,A. Diallo,1
+R. Quaison,D. Brosinski,1
+L. Balogun,A. Hack,1
+F. Frei,A. Diallo,1

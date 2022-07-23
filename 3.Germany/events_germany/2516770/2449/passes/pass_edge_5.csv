@@ -1,0 +1,21 @@
+Source,Target,Weight
+Y. Konoplyanka,B. Oczipka,2
+D. Caligiuri,B. Stambouli,1
+B. Oczipka,Naldo,1
+L. Goretzka,A. Harit,1
+A. Harit,B. Oczipka,1
+B. Oczipka,L. Goretzka,1
+B. Oczipka,G. Burgstaller,1
+Y. Konoplyanka,Naldo,1
+B. Stambouli,B. Oczipka,1
+Naldo,B. Stambouli,1
+Naldo,L. Goretzka,1
+A. Harit,D. Caligiuri,1
+B. Stambouli,D. Caligiuri,1
+D. Caligiuri,T. Kehrer,1
+L. Goretzka,D. Caligiuri,1
+B. Oczipka,Y. Konoplyanka,1
+T. Kehrer,B. Stambouli,1
+G. Burgstaller,Y. Konoplyanka,1
+D. Caligiuri,A. Harit,1
+B. Stambouli,Y. Konoplyanka,1

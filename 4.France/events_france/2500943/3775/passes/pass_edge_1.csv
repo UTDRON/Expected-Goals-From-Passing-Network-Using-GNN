@@ -1,0 +1,33 @@
+Source,Target,Weight
+P. Burner,Dante,4
+Dante,P. Burner,4
+P. Burner,A. Saint-Maximin,3
+R. Coly,A. Pl\u00e9a,2
+M. Sarr,P. Burner,2
+P. Burner,P. Lees Melou,2
+P. Lees Melou,A. Tameze,2
+Dante,M. Sarr,2
+M. Sarr,Dante,2
+A. Tameze,Dante,2
+A. Saint-Maximin,P. Lees Melou,1
+W. Ben\u00edtez,A. Saint-Maximin,1
+A. Saint-Maximin,R. Coly,1
+A. Pl\u00e9a,P. Lees Melou,1
+P. Lees Melou,M. Balotelli,1
+M. Sarr,R. Coly,1
+J. Seri,R. Coly,1
+P. Burner,M. Sarr,1
+A. Saint-Maximin,P. Burner,1
+P. Lees Melou,P. Burner,1
+R. Coly,W. Ben\u00edtez,1
+Dante,R. Coly,1
+A. Pl\u00e9a,M. Sarr,1
+J. Seri,M. Sarr,1
+W. Ben\u00edtez,P. Burner,1
+P. Burner,A. Tameze,1
+A. Saint-Maximin,A. Tameze,1
+A. Tameze,J. Seri,1
+R. Coly,M. Sarr,1
+A. Tameze,P. Burner,1
+Dante,W. Ben\u00edtez,1
+M. Sarr,J. Seri,1

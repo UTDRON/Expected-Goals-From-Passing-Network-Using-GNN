@@ -1,0 +1,75 @@
+Source,Target,Weight
+A. Djiku,Y. A\u00eft Bennasser,6
+V. Bessat,A. Djiku,5
+Y. A\u00eft Bennasser,V. Bessat,5
+D. Da Silva,V. Bessat,4
+F. Guilbert,J. F\u00e9ret,4
+Y. A\u00eft Bennasser,A. Djiku,3
+I. Diomand\u00e9,F. Guilbert,3
+Y. A\u00eft Bennasser,D. Da Silva,3
+S. Peeters,D. Da Silva,3
+D. Da Silva,F. Guilbert,3
+F. Guilbert,Y. A\u00eft Bennasser,3
+J. F\u00e9ret,F. Guilbert,3
+Y. A\u00eft Bennasser,I. Diomand\u00e9,2
+D. Da Silva,I. Diomand\u00e9,2
+A. Djiku,V. Bessat,2
+A. Djiku,I. Diomand\u00e9,2
+J. F\u00e9ret,Y. A\u00eft Bennasser,2
+J. F\u00e9ret,I. Diomand\u00e9,2
+F. Guilbert,S. Peeters,2
+I. Diomand\u00e9,A. Djiku,2
+I. Diomand\u00e9,Y. A\u00eft Bennasser,2
+A. Djiku,J. F\u00e9ret,2
+V. Bessat,I. Santini,2
+V. Bessat,S. Peeters,2
+Y. A\u00eft Bennasser,S. Peeters,2
+J. F\u00e9ret,V. Bessat,2
+F. Guilbert,D. Da Silva,2
+S. Peeters,Y. A\u00eft Bennasser,2
+J. F\u00e9ret,D. Da Silva,2
+V. Bessat,F. Guilbert,2
+Y. A\u00eft Bennasser,J. F\u00e9ret,2
+V. Bessat,J. F\u00e9ret,2
+S. Peeters,J. Repas,2
+D. Da Silva,Y. A\u00eft Bennasser,2
+J. Repas,D. Da Silva,2
+I. Santini,F. Guilbert,1
+A. Djiku,S. Peeters,1
+S. Peeters,I. Diomand\u00e9,1
+A. Djiku,D. Da Silva,1
+S. Peeters,J. F\u00e9ret,1
+V. Bessat,D. Da Silva,1
+D. Da Silva,J. Repas,1
+J. F\u00e9ret,I. Santini,1
+J. Repas,F. Guilbert,1
+S. Peeters,V. Bessat,1
+Y. A\u00eft Bennasser,J. Repas,1
+S. Peeters,R. Vercoutre,1
+D. Da Silva,R. Vercoutre,1
+I. Santini,Y. A\u00eft Bennasser,1
+Y. A\u00eft Bennasser,R. Vercoutre,1
+D. Da Silva,A. Djiku,1
+D. Da Silva,S. Peeters,1
+J. F\u00e9ret,S. Peeters,1
+F. Guilbert,V. Bessat,1
+I. Santini,D. Da Silva,1
+V. Bessat,Y. A\u00eft Bennasser,1
+I. Diomand\u00e9,I. Santini,1
+D. Da Silva,J. F\u00e9ret,1
+F. Guilbert,A. Djiku,1
+I. Diomand\u00e9,D. Da Silva,1
+J. Repas,J. F\u00e9ret,1
+I. Santini,J. F\u00e9ret,1
+J. Repas,S. Peeters,1
+F. Guilbert,J. Repas,1
+J. Repas,V. Bessat,1
+R. Vercoutre,F. Guilbert,1
+V. Bessat,J. Repas,1
+J. F\u00e9ret,J. Repas,1
+R. Vercoutre,S. Peeters,1
+S. Peeters,A. Djiku,1
+D. Da Silva,I. Santini,1
+R. Vercoutre,D. Da Silva,1
+J. Repas,A. Djiku,1
+I. Santini,S. Peeters,1

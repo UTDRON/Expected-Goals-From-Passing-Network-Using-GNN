@@ -1,0 +1,52 @@
+Source,Target,Weight
+J. F\u00e9ret,J. Repas,4
+A. Mbengue,J. F\u00e9ret,3
+D. Da Silva,A. Mbengue,3
+J. Repas,D. Da Silva,3
+F. Guilbert,R. Genevois,3
+H. Bazile,R. Genevois,3
+R. Genevois,D. Da Silva,3
+D. Da Silva,J. F\u00e9ret,2
+H. Bazile,R. Rodelin,2
+J. F\u00e9ret,A. Mbengue,2
+J. F\u00e9ret,H. Bazile,2
+J. Delaplace,H. Bazile,2
+R. Genevois,J. Delaplace,2
+F. Guilbert,J. Delaplace,2
+I. Santini,F. Guilbert,2
+R. Rodelin,J. F\u00e9ret,2
+J. Delaplace,R. Rodelin,2
+F. Guilbert,R. Rodelin,1
+A. Mbengue,J. Repas,1
+A. Mbengue,R. Vercoutre,1
+R. Rodelin,H. Bazile,1
+I. Santini,D. Da Silva,1
+J. Delaplace,I. Santini,1
+J. F\u00e9ret,R. Genevois,1
+F. Guilbert,I. Santini,1
+H. Bazile,F. Guilbert,1
+D. Da Silva,R. Vercoutre,1
+D. Da Silva,H. Bazile,1
+J. Delaplace,F. Guilbert,1
+F. Guilbert,J. F\u00e9ret,1
+J. Repas,J. F\u00e9ret,1
+R. Genevois,F. Guilbert,1
+R. Rodelin,J. Delaplace,1
+I. Santini,R. Genevois,1
+A. Mbengue,D. Da Silva,1
+J. F\u00e9ret,F. Guilbert,1
+J. Repas,I. Santini,1
+R. Rodelin,F. Guilbert,1
+R. Vercoutre,D. Da Silva,1
+J. F\u00e9ret,R. Rodelin,1
+R. Vercoutre,J. F\u00e9ret,1
+R. Genevois,R. Rodelin,1
+H. Bazile,I. Santini,1
+R. Rodelin,J. Repas,1
+J. Delaplace,J. F\u00e9ret,1
+D. Da Silva,R. Genevois,1
+R. Genevois,H. Bazile,1
+J. Repas,A. Mbengue,1
+J. F\u00e9ret,J. Delaplace,1
+D. Da Silva,J. Delaplace,1
+R. Genevois,J. F\u00e9ret,1

@@ -1,0 +1,34 @@
+Source,Target,Weight
+D. Avounou,R. Rodelin,3
+R. Genevois,I. Diomand\u00e9,2
+I. Diomand\u00e9,D. Avounou,2
+J. F\u00e9ret,F. Guilbert,2
+S. Peeters,D. Avounou,2
+E. Crivelli,S. Peeters,2
+R. Vercoutre,J. F\u00e9ret,2
+I. Diomand\u00e9,R. Vercoutre,2
+R. Rodelin,D. Avounou,2
+D. Avounou,J. F\u00e9ret,1
+D. Da Silva,I. Diomand\u00e9,1
+J. F\u00e9ret,R. Rodelin,1
+J. F\u00e9ret,I. Diomand\u00e9,1
+D. Avounou,E. Crivelli,1
+I. Diomand\u00e9,E. Crivelli,1
+R. Rodelin,J. F\u00e9ret,1
+R. Genevois,R. Vercoutre,1
+B. Sankoh,D. Avounou,1
+D. Avounou,D. Da Silva,1
+F. Guilbert,E. Crivelli,1
+D. Avounou,S. Peeters,1
+R. Vercoutre,B. Sankoh,1
+J. F\u00e9ret,B. Sankoh,1
+B. Sankoh,E. Crivelli,1
+E. Crivelli,I. Diomand\u00e9,1
+R. Rodelin,D. Da Silva,1
+J. F\u00e9ret,R. Genevois,1
+B. Sankoh,I. Diomand\u00e9,1
+D. Avounou,B. Sankoh,1
+I. Diomand\u00e9,R. Genevois,1
+E. Crivelli,J. F\u00e9ret,1
+D. Da Silva,D. Avounou,1
+F. Guilbert,R. Genevois,1

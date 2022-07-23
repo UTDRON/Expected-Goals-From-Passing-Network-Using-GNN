@@ -1,0 +1,45 @@
+Source,Target,Weight
+S. Mandanda,L. Ocampos,3
+G. Sertic,B. Sarr,2
+L. Ocampos,G. Sertic,2
+A. Rami,V. Germain,2
+A. Rami,S. Mandanda,2
+A. Zambo Anguissa,J. Amavi,2
+J. Amavi,L. Ocampos,2
+B. Sarr,G. Sertic,2
+J. Amavi,S. Mandanda,2
+A. Zambo Anguissa,Rolando,1
+G. Sertic,Rolando,1
+S. Mandanda,D. Payet,1
+D. Payet,C. N'Jie,1
+G. Sertic,J. Amavi,1
+G. Sertic,V. Germain,1
+J. Amavi,B. Sarr,1
+G. Sertic,S. Mandanda,1
+H. Sakai,A. Rami,1
+H. Sakai,A. Zambo Anguissa,1
+Rolando,J. Amavi,1
+H. Sakai,V. Germain,1
+V. Germain,J. Amavi,1
+L. Ocampos,H. Sakai,1
+L. Ocampos,B. Sarr,1
+V. Germain,Rolando,1
+Rolando,V. Germain,1
+Rolando,A. Zambo Anguissa,1
+Rolando,H. Sakai,1
+V. Germain,A. Zambo Anguissa,1
+A. Zambo Anguissa,G. Sertic,1
+L. Ocampos,C. N'Jie,1
+C. N'Jie,D. Payet,1
+B. Sarr,A. Zambo Anguissa,1
+J. Amavi,A. Rami,1
+B. Sarr,A. Rami,1
+C. N'Jie,L. Ocampos,1
+D. Payet,A. Rami,1
+V. Germain,G. Sertic,1
+S. Mandanda,B. Sarr,1
+A. Zambo Anguissa,H. Sakai,1
+L. Ocampos,Rolando,1
+S. Mandanda,J. Amavi,1
+Rolando,S. Mandanda,1
+B. Sarr,Rolando,1

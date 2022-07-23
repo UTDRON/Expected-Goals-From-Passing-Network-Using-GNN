@@ -1,0 +1,113 @@
+Source,Target,Weight
+G. Sakai,M. Steinmann,12
+M. Gouaida,M. Steinmann,10
+M. Steinmann,G. Sakai,9
+R. van Drongelen,Douglas Santos,7
+Douglas Santos,M. Gouaida,7
+S. Ambrosius,J. Pollersbeck,6
+J. Pollersbeck,M. Steinmann,6
+G. Sakai,A. Hunt,6
+M. Steinmann,Douglas Santos,5
+A. Hunt,L. Holtby,5
+J. Pollersbeck,Douglas Santos,5
+M. Steinmann,M. Gouaida,5
+G. Jung,G. Sakai,5
+A. Hunt,G. Sakai,5
+M. Steinmann,G. Jung,5
+L. Holtby,G. Sakai,5
+M. Steinmann,L. Holtby,5
+J. Pollersbeck,G. Sakai,5
+Douglas Santos,M. Steinmann,5
+R. van Drongelen,J. Pollersbeck,4
+A. Hunt,M. Steinmann,4
+G. Sakai,S. Ambrosius,4
+L. Holtby,M. Gouaida,4
+F. Kosti\u0107,M. Gouaida,4
+G. Jung,J. Pollersbeck,4
+L. Holtby,Douglas Santos,4
+Douglas Santos,L. Waldschmidt,4
+G. Sakai,L. Holtby,4
+M. Gouaida,G. Sakai,4
+L. Waldschmidt,M. Steinmann,3
+Douglas Santos,A. Hunt,3
+J. Pollersbeck,A. Hunt,3
+M. Steinmann,R. van Drongelen,3
+G. Sakai,F. Kosti\u0107,3
+M. Steinmann,J. Pollersbeck,3
+L. Waldschmidt,A. Hunt,3
+L. Holtby,M. Steinmann,3
+M. Gouaida,L. Holtby,3
+M. Gouaida,J. Pollersbeck,3
+S. Ambrosius,G. Sakai,3
+M. Steinmann,F. Kosti\u0107,3
+G. Sakai,G. Jung,3
+A. Hunt,Douglas Santos,3
+L. Waldschmidt,M. Gouaida,3
+M. Steinmann,L. Waldschmidt,3
+M. Steinmann,A. Hunt,3
+Douglas Santos,L. Holtby,3
+J. Pollersbeck,F. Kosti\u0107,2
+F. Kosti\u0107,G. Jung,2
+J. Pollersbeck,L. Holtby,2
+G. Sakai,M. Gouaida,2
+A. Hunt,G. Jung,2
+M. Gouaida,G. Jung,2
+F. Kosti\u0107,L. Holtby,2
+L. Holtby,R. van Drongelen,2
+A. Hunt,L. Waldschmidt,2
+L. Holtby,G. Jung,2
+F. Kosti\u0107,Douglas Santos,2
+G. Jung,R. van Drongelen,2
+Douglas Santos,J. Pollersbeck,2
+Douglas Santos,G. Sakai,2
+M. Gouaida,S. Ambrosius,2
+G. Sakai,J. Pollersbeck,2
+G. Jung,S. Ambrosius,2
+G. Jung,M. Gouaida,2
+Douglas Santos,R. van Drongelen,2
+L. Holtby,S. Ambrosius,2
+M. Gouaida,L. Waldschmidt,2
+F. Kosti\u0107,M. Steinmann,1
+S. Ambrosius,L. Holtby,1
+Douglas Santos,T. Ito,1
+J. Pollersbeck,S. Ambrosius,1
+R. van Drongelen,M. Gouaida,1
+G. Jung,A. Hunt,1
+S. Ambrosius,F. Kosti\u0107,1
+R. van Drongelen,T. Ito,1
+T. Ito,A. Hunt,1
+G. Sakai,L. Waldschmidt,1
+L. Waldschmidt,L. Holtby,1
+L. Holtby,F. Kosti\u0107,1
+T. Ito,R. van Drongelen,1
+L. Waldschmidt,F. Kosti\u0107,1
+M. Steinmann,T. Ito,1
+L. Waldschmidt,J. Pollersbeck,1
+Douglas Santos,G. Jung,1
+S. Ambrosius,L. Waldschmidt,1
+L. Holtby,J. Pollersbeck,1
+L. Waldschmidt,R. van Drongelen,1
+S. Ambrosius,Douglas Santos,1
+M. Gouaida,F. Kosti\u0107,1
+F. Kosti\u0107,L. Waldschmidt,1
+M. Gouaida,Douglas Santos,1
+G. Sakai,R. van Drongelen,1
+M. Steinmann,S. Ambrosius,1
+Douglas Santos,S. Ambrosius,1
+L. Holtby,A. Hunt,1
+J. Pollersbeck,R. van Drongelen,1
+L. Waldschmidt,G. Sakai,1
+G. Jung,F. Kosti\u0107,1
+F. Kosti\u0107,R. van Drongelen,1
+G. Jung,M. Steinmann,1
+R. van Drongelen,M. Steinmann,1
+S. Ambrosius,M. Gouaida,1
+Douglas Santos,F. Kosti\u0107,1
+L. Waldschmidt,Douglas Santos,1
+J. Pollersbeck,G. Jung,1
+G. Jung,Douglas Santos,1
+A. Hunt,S. Ambrosius,1
+G. Sakai,Douglas Santos,1
+L. Holtby,L. Waldschmidt,1
+M. Gouaida,A. Hunt,1
+T. Ito,G. Jung,1

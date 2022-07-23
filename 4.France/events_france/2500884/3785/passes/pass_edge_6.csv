@@ -1,0 +1,64 @@
+Source,Target,Weight
+N. Benezet,M. Diallo,3
+Pedro Rebocho,K. Johnsson,3
+M. Diallo,Y. Salibur,3
+J. Briand,M. Coco,3
+N. Benezet,Y. Salibur,3
+F. Eboa Eboa,J. Briand,2
+M. Coco,Y. Salibur,2
+L. Deaux,Y. Salibur,2
+J. Sorbon,C. Kerbrat,2
+C. Kerbrat,L. Deaux,2
+Pedro Rebocho,J. Briand,2
+Y. Salibur,N. Benezet,2
+K. Johnsson,Pedro Rebocho,2
+Pedro Rebocho,N. Benezet,2
+Y. Salibur,M. Coco,2
+Y. Salibur,J. Sorbon,2
+L. Deaux,J. Briand,2
+K. Johnsson,M. Coco,2
+Pedro Rebocho,M. Coco,2
+J. Sorbon,F. Eboa Eboa,2
+M. Coco,N. Benezet,2
+Y. Salibur,F. Eboa Eboa,2
+C. Kerbrat,N. Benezet,1
+J. Briand,Pedro Rebocho,1
+F. Eboa Eboa,Y. Salibur,1
+Y. Salibur,L. Deaux,1
+K. Johnsson,J. Sorbon,1
+M. Coco,Pedro Rebocho,1
+F. Eboa Eboa,C. Kerbrat,1
+M. Diallo,J. Briand,1
+J. Briand,K. Johnsson,1
+Y. Salibur,K. Johnsson,1
+N. Benezet,M. Coco,1
+F. Eboa Eboa,J. Sorbon,1
+N. Benezet,Pedro Rebocho,1
+C. Kerbrat,K. Johnsson,1
+M. Diallo,Pedro Rebocho,1
+M. Coco,F. Eboa Eboa,1
+Pedro Rebocho,M. Diallo,1
+Pedro Rebocho,L. Deaux,1
+C. Kerbrat,Pedro Rebocho,1
+J. Sorbon,J. Briand,1
+M. Coco,J. Sorbon,1
+M. Diallo,J. Sorbon,1
+M. Coco,C. Kerbrat,1
+M. Coco,M. Diallo,1
+F. Eboa Eboa,M. Coco,1
+K. Johnsson,F. Eboa Eboa,1
+F. Eboa Eboa,Pedro Rebocho,1
+J. Briand,F. Eboa Eboa,1
+M. Diallo,N. Benezet,1
+L. Deaux,J. Sorbon,1
+Y. Salibur,Pedro Rebocho,1
+L. Deaux,M. Diallo,1
+J. Sorbon,M. Diallo,1
+J. Briand,L. Deaux,1
+L. Deaux,N. Benezet,1
+M. Diallo,C. Kerbrat,1
+M. Coco,L. Deaux,1
+N. Benezet,L. Deaux,1
+J. Sorbon,L. Deaux,1
+J. Briand,M. Diallo,1
+L. Deaux,Pedro Rebocho,1

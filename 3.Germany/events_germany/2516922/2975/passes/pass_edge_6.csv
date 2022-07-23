@@ -1,0 +1,42 @@
+Source,Target,Weight
+D. Demme,T. Werner,2
+N. Ke\u00efta,K. Kampl,2
+D. Upamecano,D. Demme,2
+N. Ke\u00efta,D. Demme,2
+Bruma,D. Upamecano,2
+K. Kampl,N. Ke\u00efta,2
+L. Klostermann,D. Upamecano,1
+D. Upamecano,N. Ke\u00efta,1
+L. Klostermann,M. Sabitzer,1
+D. Demme,W. Orban,1
+W. Orban,D. Upamecano,1
+T. Werner,L. Klostermann,1
+D. Demme,N. Ke\u00efta,1
+M. Sabitzer,L. Klostermann,1
+N. Ke\u00efta,M. Sabitzer,1
+D. Upamecano,W. Orban,1
+T. Werner,D. Upamecano,1
+Bruma,M. Sabitzer,1
+D. Demme,L. Klostermann,1
+K. Kampl,K. Laimer,1
+M. Sabitzer,N. Ke\u00efta,1
+K. Laimer,L. Klostermann,1
+N. Ke\u00efta,K. Laimer,1
+W. Orban,D. Demme,1
+D. Upamecano,P. Gul\u00e1csi,1
+K. Kampl,M. Sabitzer,1
+Bruma,N. Ke\u00efta,1
+M. Sabitzer,D. Demme,1
+D. Upamecano,L. Klostermann,1
+M. Sabitzer,K. Kampl,1
+D. Upamecano,Bruma,1
+L. Klostermann,Bruma,1
+L. Klostermann,K. Kampl,1
+P. Gul\u00e1csi,M. Sabitzer,1
+K. Kampl,Bruma,1
+D. Demme,K. Laimer,1
+L. Klostermann,N. Ke\u00efta,1
+K. Laimer,N. Ke\u00efta,1
+N. Ke\u00efta,D. Upamecano,1
+K. Laimer,K. Kampl,1
+N. Ke\u00efta,Bruma,1

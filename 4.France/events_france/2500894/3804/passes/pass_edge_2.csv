@@ -1,0 +1,62 @@
+Source,Target,Weight
+J. Mari\u00e9,M. Abeid,5
+C. Varrault,Kwon Chang-Hoon,4
+M. Abeid,C. Varrault,4
+C. Varrault,Xeka,3
+W. Sa\u00efd,Kwon Chang-Hoon,3
+Kwon Chang-Hoon,V. Rosier,3
+F. Chafik,W. Sa\u00efd,3
+M. Abeid,C. Yamber\u00e9,3
+C. Varrault,V. Rosier,3
+Xeka,C. Yamber\u00e9,3
+F. Chafik,C. Varrault,2
+V. Rosier,C. Varrault,2
+C. Yamber\u00e9,J. Mari\u00e9,2
+W. Sa\u00efd,M. Abeid,2
+Kwon Chang-Hoon,C. Varrault,2
+V. Rosier,B. Jeannot,2
+J. Mari\u00e9,V. Rosier,2
+M. Abeid,V. Rosier,2
+M. Abeid,Xeka,2
+C. Yamber\u00e9,B. Reynet,2
+Xeka,M. Abeid,2
+V. Rosier,J. Mari\u00e9,2
+B. Reynet,C. Yamber\u00e9,2
+V. Rosier,M. Abeid,2
+Kwon Chang-Hoon,J. Mari\u00e9,2
+V. Rosier,F. Chafik,2
+C. Yamber\u00e9,W. Sa\u00efd,2
+B. Reynet,V. Rosier,2
+V. Rosier,B. Reynet,2
+J. Mari\u00e9,C. Yamber\u00e9,1
+C. Yamber\u00e9,F. Chafik,1
+B. Reynet,C. Varrault,1
+B. Reynet,W. Sa\u00efd,1
+Kwon Chang-Hoon,M. Abeid,1
+B. Reynet,F. Chafik,1
+Kwon Chang-Hoon,B. Reynet,1
+B. Jeannot,J. Mari\u00e9,1
+B. Jeannot,B. Reynet,1
+Xeka,B. Jeannot,1
+Xeka,W. Sa\u00efd,1
+W. Sa\u00efd,F. Chafik,1
+M. Abeid,J. Mari\u00e9,1
+C. Varrault,W. Sa\u00efd,1
+V. Rosier,Kwon Chang-Hoon,1
+J. Mari\u00e9,Kwon Chang-Hoon,1
+J. Mari\u00e9,B. Reynet,1
+Kwon Chang-Hoon,Xeka,1
+B. Jeannot,V. Rosier,1
+C. Yamber\u00e9,Xeka,1
+C. Yamber\u00e9,C. Varrault,1
+W. Sa\u00efd,Xeka,1
+Xeka,V. Rosier,1
+B. Jeannot,M. Abeid,1
+B. Reynet,J. Mari\u00e9,1
+Kwon Chang-Hoon,W. Sa\u00efd,1
+Xeka,F. Chafik,1
+F. Chafik,B. Jeannot,1
+V. Rosier,Xeka,1
+W. Sa\u00efd,B. Reynet,1
+M. Abeid,Kwon Chang-Hoon,1
+C. Varrault,J. Mari\u00e9,1

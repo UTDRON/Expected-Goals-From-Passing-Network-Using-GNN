@@ -1,0 +1,27 @@
+Source,Target,Weight
+M. Russ,D. da Costa,2
+K. Boateng,S. Falette,2
+M. Hasebe,S. Falette,2
+S. Falette,Omar Mascarell,2
+S. Falette,M. Hasebe,2
+D. da Costa,M. Hasebe,2
+S. Falette,T. Chandler,1
+M. Hasebe,D. da Costa,1
+K. Boateng,A. Rebi\u0107,1
+M. Wolf,K. Boateng,1
+K. Boateng,D. da Costa,1
+Omar Mascarell,M. Russ,1
+Omar Mascarell,K. Boateng,1
+M. Russ,K. Boateng,1
+M. Hasebe,M. Russ,1
+K. Boateng,M. Russ,1
+D. da Costa,M. Russ,1
+T. Chandler,A. Rebi\u0107,1
+M. Russ,M. Wolf,1
+M. Wolf,T. Chandler,1
+M. Hasebe,K. Boateng,1
+A. Rebi\u0107,T. Chandler,1
+A. Rebi\u0107,S. Falette,1
+D. da Costa,M. Wolf,1
+T. Chandler,Omar Mascarell,1
+Omar Mascarell,M. Hasebe,1

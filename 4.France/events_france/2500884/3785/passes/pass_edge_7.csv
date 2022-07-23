@@ -1,0 +1,24 @@
+Source,Target,Weight
+J. Briand,L. Blas,2
+J. Briand,L. Deaux,2
+J. Sorbon,K. Johnsson,2
+M. Coco,J. Briand,2
+C. Kerbrat,J. Sorbon,1
+L. Deaux,Y. Salibur,1
+M. Thuram,J. Sorbon,1
+K. Johnsson,M. Coco,1
+M. Diallo,J. Briand,1
+J. Sorbon,M. Diallo,1
+M. Coco,F. Eboa Eboa,1
+L. Blas,M. Coco,1
+F. Eboa Eboa,C. Kerbrat,1
+L. Blas,Pedro Rebocho,1
+M. Diallo,M. Thuram,1
+Pedro Rebocho,J. Briand,1
+Y. Salibur,K. Johnsson,1
+L. Deaux,M. Coco,1
+M. Thuram,L. Blas,1
+L. Blas,J. Sorbon,1
+L. Deaux,L. Blas,1
+K. Johnsson,M. Thuram,1
+K. Johnsson,M. Diallo,1

@@ -1,0 +1,78 @@
+Source,Target,Weight
+Naldo,B. Stambouli,9
+B. Stambouli,Naldo,8
+M. Nastasi\u0107,Naldo,8
+M. Nastasi\u0107,B. Oczipka,7
+Naldo,M. Nastasi\u0107,7
+B. Oczipka,M. Nastasi\u0107,5
+Naldo,R. F\u00e4hrmann,5
+D. Caligiuri,B. Stambouli,5
+B. Oczipka,N. Bentaleb,4
+B. Stambouli,R. F\u00e4hrmann,4
+L. Goretzka,M. Nastasi\u0107,4
+M. Nastasi\u0107,G. Burgstaller,4
+G. Burgstaller,D. Caligiuri,4
+M. Nastasi\u0107,R. F\u00e4hrmann,4
+B. Embolo,L. Goretzka,4
+R. F\u00e4hrmann,M. Nastasi\u0107,4
+B. Stambouli,D. Caligiuri,4
+F. Di Santo,L. Goretzka,3
+D. Caligiuri,L. Goretzka,3
+L. Goretzka,D. Caligiuri,3
+L. Goretzka,B. Stambouli,3
+N. Bentaleb,M. Nastasi\u0107,3
+N. Bentaleb,B. Stambouli,3
+M. Nastasi\u0107,B. Embolo,3
+R. F\u00e4hrmann,Naldo,3
+N. Bentaleb,F. Di Santo,3
+L. Goretzka,B. Oczipka,3
+G. Burgstaller,F. Di Santo,3
+B. Stambouli,B. Embolo,3
+B. Embolo,B. Oczipka,2
+F. Di Santo,Naldo,2
+N. Bentaleb,Naldo,2
+B. Embolo,N. Bentaleb,2
+R. F\u00e4hrmann,B. Stambouli,2
+G. Burgstaller,L. Goretzka,2
+N. Bentaleb,L. Goretzka,2
+F. Di Santo,N. Bentaleb,2
+B. Oczipka,B. Embolo,2
+B. Embolo,F. Di Santo,2
+D. Caligiuri,M. Nastasi\u0107,2
+R. F\u00e4hrmann,G. Burgstaller,2
+B. Stambouli,N. Bentaleb,2
+B. Oczipka,G. Burgstaller,2
+M. Nastasi\u0107,N. Bentaleb,2
+L. Goretzka,Naldo,2
+B. Stambouli,G. Burgstaller,2
+Naldo,D. Caligiuri,2
+D. Caligiuri,B. Embolo,2
+G. Burgstaller,M. Nastasi\u0107,1
+R. F\u00e4hrmann,B. Embolo,1
+G. Burgstaller,B. Embolo,1
+N. Bentaleb,B. Oczipka,1
+B. Oczipka,L. Goretzka,1
+Naldo,N. Bentaleb,1
+B. Oczipka,F. Di Santo,1
+B. Embolo,B. Stambouli,1
+Naldo,L. Goretzka,1
+N. Bentaleb,R. F\u00e4hrmann,1
+R. F\u00e4hrmann,B. Oczipka,1
+D. Caligiuri,N. Bentaleb,1
+L. Goretzka,N. Bentaleb,1
+Naldo,F. Di Santo,1
+F. Di Santo,M. Nastasi\u0107,1
+G. Burgstaller,N. Bentaleb,1
+F. Di Santo,G. Burgstaller,1
+B. Embolo,Naldo,1
+F. Di Santo,B. Embolo,1
+G. Burgstaller,Naldo,1
+L. Goretzka,B. Embolo,1
+B. Embolo,M. Nastasi\u0107,1
+B. Stambouli,L. Goretzka,1
+G. Burgstaller,B. Oczipka,1
+R. F\u00e4hrmann,L. Goretzka,1
+L. Goretzka,G. Burgstaller,1
+Naldo,G. Burgstaller,1
+N. Bentaleb,G. Burgstaller,1
+M. Nastasi\u0107,B. Stambouli,1

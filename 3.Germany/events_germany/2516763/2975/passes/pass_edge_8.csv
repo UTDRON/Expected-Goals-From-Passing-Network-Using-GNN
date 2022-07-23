@@ -1,0 +1,40 @@
+Source,Target,Weight
+D. Demme,M. Sabitzer,3
+D. Demme,D. Upamecano,3
+M. Sabitzer,Bernardo,2
+D. Upamecano,Bruma,2
+M. Sabitzer,N. Ke\u00efta,2
+W. Orban,D. Demme,2
+N. Ke\u00efta,D. Demme,2
+M. Halstenberg,J. Augustin,2
+N. Ke\u00efta,D. Upamecano,2
+J. Augustin,M. Halstenberg,2
+Bruma,W. Orban,2
+N. Ke\u00efta,J. Augustin,2
+J. Augustin,P. Gul\u00e1csi,1
+T. Werner,M. Halstenberg,1
+M. Sabitzer,D. Demme,1
+D. Upamecano,M. Sabitzer,1
+T. Werner,M. Sabitzer,1
+W. Orban,Bernardo,1
+Bruma,N. Ke\u00efta,1
+J. Augustin,D. Upamecano,1
+Bernardo,M. Halstenberg,1
+D. Demme,N. Ke\u00efta,1
+D. Upamecano,P. Gul\u00e1csi,1
+D. Upamecano,N. Ke\u00efta,1
+Bruma,D. Upamecano,1
+J. Augustin,Bruma,1
+L. Klostermann,D. Demme,1
+Bernardo,D. Demme,1
+D. Upamecano,Bernardo,1
+M. Sabitzer,L. Klostermann,1
+Bernardo,N. Ke\u00efta,1
+M. Halstenberg,Bruma,1
+D. Demme,J. Augustin,1
+L. Klostermann,M. Sabitzer,1
+D. Upamecano,D. Demme,1
+Bernardo,M. Sabitzer,1
+P. Gul\u00e1csi,L. Klostermann,1
+P. Gul\u00e1csi,W. Orban,1
+M. Sabitzer,T. Werner,1

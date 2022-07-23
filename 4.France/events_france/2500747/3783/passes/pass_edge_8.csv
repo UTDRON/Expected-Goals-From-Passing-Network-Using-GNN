@@ -1,0 +1,55 @@
+Source,Target,Weight
+J. Delaplace,F. Guilbert,5
+D. Da Silva,J. F\u00e9ret,4
+J. F\u00e9ret,J. Delaplace,4
+F. Guilbert,J. Delaplace,3
+I. Santini,A. Mbengue,3
+I. Santini,J. F\u00e9ret,3
+R. Genevois,J. F\u00e9ret,2
+J. Repas,A. Mbengue,2
+D. Da Silva,R. Vercoutre,2
+R. Vercoutre,D. Da Silva,2
+R. Genevois,D. Da Silva,2
+F. Guilbert,R. Genevois,2
+F. Guilbert,I. Santini,2
+A. Mbengue,J. F\u00e9ret,2
+H. Bazile,D. Da Silva,2
+J. F\u00e9ret,J. Repas,2
+J. F\u00e9ret,A. Mbengue,2
+J. Delaplace,R. Vercoutre,1
+R. Vercoutre,R. Rodelin,1
+I. Santini,J. Delaplace,1
+J. Delaplace,R. Genevois,1
+D. Da Silva,I. Santini,1
+A. Mbengue,R. Rodelin,1
+R. Genevois,R. Vercoutre,1
+R. Genevois,J. Repas,1
+R. Genevois,J. Delaplace,1
+R. Vercoutre,I. Santini,1
+R. Genevois,I. Santini,1
+J. Repas,I. Santini,1
+J. Delaplace,J. Repas,1
+J. Repas,H. Bazile,1
+A. Mbengue,D. Da Silva,1
+J. F\u00e9ret,F. Guilbert,1
+J. F\u00e9ret,H. Bazile,1
+J. F\u00e9ret,R. Vercoutre,1
+J. Delaplace,J. F\u00e9ret,1
+I. Santini,F. Guilbert,1
+J. Repas,J. F\u00e9ret,1
+D. Da Silva,J. Delaplace,1
+R. Rodelin,D. Da Silva,1
+R. Vercoutre,R. Genevois,1
+A. Mbengue,I. Santini,1
+F. Guilbert,D. Da Silva,1
+H. Bazile,R. Rodelin,1
+D. Da Silva,R. Genevois,1
+R. Genevois,F. Guilbert,1
+A. Mbengue,R. Genevois,1
+A. Mbengue,F. Guilbert,1
+R. Rodelin,R. Genevois,1
+J. Delaplace,H. Bazile,1
+J. F\u00e9ret,I. Santini,1
+F. Guilbert,R. Rodelin,1
+R. Rodelin,J. Repas,1
+J. F\u00e9ret,R. Genevois,1

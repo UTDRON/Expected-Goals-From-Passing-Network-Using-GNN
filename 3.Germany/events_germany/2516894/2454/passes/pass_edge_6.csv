@@ -1,0 +1,22 @@
+Source,Target,Weight
+J. Vestergaard,M. Ginter,3
+O. Wendt,J. Vestergaard,2
+L. Stindl,C. Kramer,2
+M. Ginter,N. Elvedi,2
+M. Ginter,J. Vestergaard,2
+N. Elvedi,L. Stindl,2
+T. Hazard,N. Elvedi,1
+C. Kramer,J. Vestergaard,1
+C. Kramer,D. Zakaria,1
+P. Herrmann,M. Ginter,1
+D. Zakaria,P. Herrmann,1
+M. Ginter,C. Kramer,1
+C. Kramer,L. Stindl,1
+M. Ginter,T. Hazard,1
+L. Stindl,V. Grifo,1
+N. Elvedi,M. Ginter,1
+C. Kramer,O. Wendt,1
+V. Grifo,O. Wendt,1
+J. Vestergaard,O. Wendt,1
+O. Wendt,C. Kramer,1
+J. Vestergaard,P. Herrmann,1

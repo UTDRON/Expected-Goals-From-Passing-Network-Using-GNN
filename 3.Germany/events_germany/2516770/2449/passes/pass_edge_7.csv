@@ -1,0 +1,69 @@
+Source,Target,Weight
+L. Goretzka,N. Bentaleb,6
+N. Bentaleb,M. Nastasi\u0107,5
+M. Nastasi\u0107,Naldo,5
+Naldo,M. Nastasi\u0107,4
+N. Bentaleb,L. Goretzka,4
+D. Caligiuri,L. Goretzka,4
+Naldo,T. Kehrer,4
+M. Nastasi\u0107,L. Goretzka,4
+B. Oczipka,M. Nastasi\u0107,3
+G. Burgstaller,N. Bentaleb,3
+A. Harit,D. Caligiuri,3
+M. Nastasi\u0107,B. Oczipka,3
+T. Kehrer,R. F\u00e4hrmann,3
+N. Bentaleb,B. Oczipka,3
+L. Goretzka,B. Oczipka,3
+Y. Konoplyanka,B. Oczipka,3
+L. Goretzka,T. Kehrer,2
+B. Oczipka,T. Kehrer,2
+B. Oczipka,Y. Konoplyanka,2
+B. Oczipka,G. Burgstaller,2
+Y. Konoplyanka,N. Bentaleb,2
+T. Kehrer,Naldo,2
+L. Goretzka,A. Harit,2
+T. Kehrer,L. Goretzka,2
+N. Bentaleb,Naldo,2
+N. Bentaleb,A. Harit,2
+L. Goretzka,Y. Konoplyanka,2
+L. Goretzka,G. Burgstaller,2
+T. Kehrer,D. Caligiuri,2
+G. Burgstaller,Naldo,2
+Naldo,L. Goretzka,2
+B. Oczipka,N. Bentaleb,2
+A. Harit,N. Bentaleb,2
+D. Caligiuri,A. Harit,2
+B. Oczipka,D. Caligiuri,1
+M. Nastasi\u0107,Y. Konoplyanka,1
+Y. Konoplyanka,L. Goretzka,1
+R. F\u00e4hrmann,D. Caligiuri,1
+R. F\u00e4hrmann,A. Harit,1
+N. Bentaleb,T. Kehrer,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+R. F\u00e4hrmann,L. Goretzka,1
+R. F\u00e4hrmann,G. Burgstaller,1
+Naldo,N. Bentaleb,1
+G. Burgstaller,M. Nastasi\u0107,1
+T. Kehrer,M. Nastasi\u0107,1
+R. F\u00e4hrmann,Naldo,1
+B. Oczipka,L. Goretzka,1
+D. Caligiuri,T. Kehrer,1
+M. Nastasi\u0107,G. Burgstaller,1
+T. Kehrer,N. Bentaleb,1
+L. Goretzka,M. Nastasi\u0107,1
+L. Goretzka,D. Caligiuri,1
+A. Harit,T. Kehrer,1
+F. Di Santo,B. Oczipka,1
+L. Goretzka,F. Di Santo,1
+Naldo,D. Caligiuri,1
+G. Burgstaller,L. Goretzka,1
+D. Caligiuri,N. Bentaleb,1
+D. Caligiuri,Naldo,1
+D. Caligiuri,G. Burgstaller,1
+G. Burgstaller,B. Oczipka,1
+A. Harit,G. Burgstaller,1
+N. Bentaleb,D. Caligiuri,1
+A. Harit,Y. Konoplyanka,1
+T. Kehrer,G. Burgstaller,1
+Naldo,A. Harit,1
+G. Burgstaller,R. F\u00e4hrmann,1

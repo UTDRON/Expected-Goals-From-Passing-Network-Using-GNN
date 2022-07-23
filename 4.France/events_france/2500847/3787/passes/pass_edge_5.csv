@@ -1,0 +1,26 @@
+Source,Target,Weight
+P. Lasne,J. Roussillon,3
+J. Roussillon,P. Lasne,3
+N. Mukiele,R. Aguilar,2
+Pedro Mendes,Hilton,1
+C. Ninga,P. Lasne,1
+C. Ninga,N. Mukiele,1
+C. Ninga,J. Sambia,1
+B. Lecomte,J. Sambia,1
+P. Lasne,C. Ninga,1
+P. Lasne,J. Sambia,1
+B. Lecomte,J. Roussillon,1
+Hilton,J. Roussillon,1
+J. Sambia,P. Lasne,1
+R. Aguilar,E. Skhiri,1
+N. Mukiele,C. Ninga,1
+J. Sambia,R. Aguilar,1
+J. Roussillon,Pedro Mendes,1
+P. Lasne,B. Lecomte,1
+R. Aguilar,J. Roussillon,1
+E. Skhiri,N. Mukiele,1
+B. Lecomte,N. Mukiele,1
+J. Roussillon,C. Ninga,1
+J. Sambia,N. Mukiele,1
+N. Mukiele,B. Lecomte,1
+R. Aguilar,B. Lecomte,1

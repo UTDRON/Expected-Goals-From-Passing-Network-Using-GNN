@@ -1,0 +1,79 @@
+Source,Target,Weight
+J. Gouweleeuw,D. Baier,5
+M. Hinteregger,M. Hitz,5
+M. Hinteregger,J. Gouweleeuw,4
+P. Max,D. Baier,4
+D. Baier,J. Gouweleeuw,4
+J. Gouweleeuw,R. Framberger,3
+P. Max,Caiuby,3
+Caiuby,M. Hinteregger,3
+D. Baier,P. Max,3
+M. Hitz,J. Gouweleeuw,3
+S. C\u00f3rdova,D. Baier,3
+D. Baier,Caiuby,3
+D. Baier,M. Hinteregger,3
+Ja-Cheol Koo,D. Baier,3
+Caiuby,P. Max,3
+D. Baier,R. Framberger,2
+A. Finnbogason,R. Framberger,2
+R. Framberger,A. Finnbogason,2
+Caiuby,D. Baier,2
+S. C\u00f3rdova,P. Max,2
+R. Framberger,J. Gouweleeuw,2
+J. Gouweleeuw,Ja-Cheol Koo,2
+M. Hinteregger,D. Baier,2
+Ja-Cheol Koo,M. Hinteregger,2
+J. Gouweleeuw,M. Hinteregger,2
+A. Finnbogason,S. C\u00f3rdova,2
+Caiuby,Ja-Cheol Koo,2
+J. Schmid,S. C\u00f3rdova,2
+R. Framberger,Ja-Cheol Koo,2
+M. Hitz,M. Hinteregger,2
+M. Hitz,Caiuby,2
+D. Baier,S. C\u00f3rdova,1
+R. Framberger,D. Baier,1
+Ja-Cheol Koo,E. Thommy,1
+D. Baier,Ja-Cheol Koo,1
+Ja-Cheol Koo,S. C\u00f3rdova,1
+P. Max,Ja-Cheol Koo,1
+J. Gouweleeuw,A. Finnbogason,1
+A. Finnbogason,J. Schmid,1
+E. Thommy,R. Framberger,1
+S. C\u00f3rdova,Ja-Cheol Koo,1
+A. Finnbogason,D. Baier,1
+P. Max,J. Gouweleeuw,1
+R. Framberger,Caiuby,1
+S. C\u00f3rdova,A. Finnbogason,1
+M. Hitz,S. C\u00f3rdova,1
+Ja-Cheol Koo,A. Finnbogason,1
+S. C\u00f3rdova,E. Thommy,1
+Ja-Cheol Koo,J. Schmid,1
+J. Gouweleeuw,Caiuby,1
+R. Framberger,E. Thommy,1
+M. Hinteregger,Ja-Cheol Koo,1
+J. Gouweleeuw,E. Thommy,1
+S. C\u00f3rdova,Caiuby,1
+P. Max,M. Hitz,1
+D. Baier,J. Schmid,1
+J. Gouweleeuw,S. C\u00f3rdova,1
+Ja-Cheol Koo,Caiuby,1
+D. Baier,A. Finnbogason,1
+Caiuby,J. Gouweleeuw,1
+E. Thommy,Ja-Cheol Koo,1
+S. C\u00f3rdova,R. Framberger,1
+Caiuby,S. C\u00f3rdova,1
+D. Baier,M. Hitz,1
+E. Thommy,P. Max,1
+A. Finnbogason,J. Gouweleeuw,1
+E. Thommy,A. Finnbogason,1
+P. Max,S. C\u00f3rdova,1
+M. Hinteregger,P. Max,1
+Caiuby,E. Thommy,1
+Ja-Cheol Koo,J. Gouweleeuw,1
+J. Schmid,M. Hinteregger,1
+M. Hinteregger,A. Finnbogason,1
+E. Thommy,M. Hitz,1
+J. Gouweleeuw,P. Max,1
+P. Max,M. Hinteregger,1
+A. Finnbogason,M. Hinteregger,1
+M. Hinteregger,Caiuby,1

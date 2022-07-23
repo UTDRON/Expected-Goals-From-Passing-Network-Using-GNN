@@ -1,0 +1,24 @@
+Source,Target,Weight
+B. Santamaria,A. Fulgini,2
+T. Mangani,A. Fulgini,2
+T. Mangani,B. Santamaria,2
+B. Santamaria,K. Toko Ekambi,1
+A. Bamba,P. Capelle,1
+A. Fulgini,A. Bamba,1
+B. Santamaria,A. Bamba,1
+R. Thomas,I. Traor\u00e9,1
+P. Capelle,B. Santamaria,1
+K. Toko Ekambi,B. Santamaria,1
+A. Bamba,A. Letellier,1
+K. Toko Ekambi,T. Mangani,1
+A. Fulgini,K. Toko Ekambi,1
+P. Capelle,A. Bamba,1
+A. Letellier,P. Capelle,1
+A. Bamba,T. Mangani,1
+A. Fulgini,R. Thomas,1
+K. Toko Ekambi,R. Thomas,1
+P. Capelle,T. Mangani,1
+A. Fulgini,T. Mangani,1
+I. Traor\u00e9,K. Toko Ekambi,1
+R. Thomas,B. Santamaria,1
+T. Mangani,P. Capelle,1

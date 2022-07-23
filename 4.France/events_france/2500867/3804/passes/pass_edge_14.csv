@@ -1,0 +1,51 @@
+Source,Target,Weight
+M. Abeid,V. Rosier,5
+A. Bouka Moutou,N. Sliti,4
+N. Sliti,Kwon Chang-Hoon,3
+Kwon Chang-Hoon,V. Rosier,2
+\u00c1. Lang,P. Djilobodji,2
+\u00c1. Lang,V. Rosier,2
+V. Rosier,Kwon Chang-Hoon,2
+B. Jeannot,V. Rosier,2
+M. Abeid,Kwon Chang-Hoon,2
+N. Sliti,A. Bouka Moutou,2
+V. Rosier,B. Reynet,2
+V. Rosier,M. Abeid,2
+Kwon Chang-Hoon,Xeka,2
+P. Djilobodji,M. Abeid,2
+Xeka,M. Abeid,2
+V. Rosier,P. Djilobodji,1
+Kwon Chang-Hoon,N. Sliti,1
+B. Reynet,\u00c1. Lang,1
+W. Sa\u00efd,\u00c1. Lang,1
+\u00c1. Lang,Xeka,1
+V. Rosier,A. Bouka Moutou,1
+B. Reynet,P. Djilobodji,1
+N. Sliti,Xeka,1
+V. Rosier,Xeka,1
+Kwon Chang-Hoon,\u00c1. Lang,1
+B. Reynet,A. Bouka Moutou,1
+B. Reynet,N. Sliti,1
+A. Bouka Moutou,M. Abeid,1
+B. Jeannot,W. Sa\u00efd,1
+P. Djilobodji,A. Bouka Moutou,1
+Xeka,B. Reynet,1
+Kwon Chang-Hoon,M. Abeid,1
+N. Sliti,\u00c1. Lang,1
+V. Rosier,\u00c1. Lang,1
+B. Reynet,Kwon Chang-Hoon,1
+Xeka,V. Rosier,1
+W. Sa\u00efd,N. Sliti,1
+W. Sa\u00efd,B. Reynet,1
+P. Djilobodji,B. Reynet,1
+Kwon Chang-Hoon,B. Jeannot,1
+N. Sliti,M. Abeid,1
+V. Rosier,W. Sa\u00efd,1
+Xeka,W. Sa\u00efd,1
+N. Sliti,W. Sa\u00efd,1
+V. Rosier,B. Jeannot,1
+W. Sa\u00efd,P. Djilobodji,1
+P. Djilobodji,N. Sliti,1
+M. Abeid,N. Sliti,1
+A. Bouka Moutou,B. Jeannot,1
+M. Abeid,B. Jeannot,1

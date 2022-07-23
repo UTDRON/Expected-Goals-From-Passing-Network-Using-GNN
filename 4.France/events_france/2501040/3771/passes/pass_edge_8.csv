@@ -1,0 +1,34 @@
+Source,Target,Weight
+B. Kamara,F. Thauvin,4
+Luiz Gustavo,J. Amavi,3
+F. Thauvin,B. Kamara,3
+J. Amavi,A. Zambo Anguissa,3
+A. Zambo Anguissa,B. Kamara,3
+Rolando,Luiz Gustavo,2
+A. Zambo Anguissa,D. Payet,2
+B. Kamara,A. Zambo Anguissa,2
+F. Thauvin,A. Zambo Anguissa,2
+V. Germain,B. Kamara,2
+A. Zambo Anguissa,J. Amavi,2
+L. Ocampos,J. Amavi,1
+D. Payet,B. Kamara,1
+J. Amavi,L. Ocampos,1
+B. Sarr,Rolando,1
+Luiz Gustavo,F. Thauvin,1
+B. Kamara,Rolando,1
+D. Payet,Luiz Gustavo,1
+Rolando,F. Thauvin,1
+J. Amavi,B. Kamara,1
+J. Amavi,F. Thauvin,1
+A. Zambo Anguissa,B. Sarr,1
+D. Payet,A. Zambo Anguissa,1
+B. Kamara,J. Amavi,1
+B. Kamara,Luiz Gustavo,1
+Luiz Gustavo,B. Kamara,1
+J. Amavi,Rolando,1
+B. Sarr,Luiz Gustavo,1
+A. Zambo Anguissa,Luiz Gustavo,1
+F. Thauvin,V. Germain,1
+Luiz Gustavo,A. Zambo Anguissa,1
+B. Kamara,B. Sarr,1
+B. Kamara,V. Germain,1

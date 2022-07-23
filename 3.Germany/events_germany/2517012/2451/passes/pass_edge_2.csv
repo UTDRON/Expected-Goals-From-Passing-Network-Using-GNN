@@ -1,0 +1,32 @@
+Source,Target,Weight
+R. Knoche,P. Jaeckel,3
+P. Jaeckel,K. Casteels,3
+L. Dimata,P. Jaeckel,2
+D. Didavi,M. Arnold,2
+K. Casteels,L. Dimata,2
+R. Bazoer,William,1
+Y. Mall\u0131,William,1
+D. Didavi,Y. Mall\u0131,1
+William,Y. Mall\u0131,1
+Y. Mall\u0131,R. Knoche,1
+M. Arnold,D. Didavi,1
+P. Jaeckel,P. Verhaegh,1
+Y. Mall\u0131,D. Didavi,1
+R. Bazoer,R. Knoche,1
+K. Casteels,William,1
+William,M. Arnold,1
+K. Casteels,R. Knoche,1
+P. Jaeckel,M. Tisserand,1
+L. Dimata,D. Didavi,1
+P. Verhaegh,P. Jaeckel,1
+R. Knoche,M. Arnold,1
+P. Verhaegh,M. Tisserand,1
+M. Arnold,K. Casteels,1
+M. Tisserand,L. Dimata,1
+William,R. Bazoer,1
+M. Arnold,P. Verhaegh,1
+P. Jaeckel,M. Arnold,1
+William,R. Knoche,1
+M. Arnold,M. Tisserand,1
+M. Tisserand,R. Bazoer,1
+M. Tisserand,William,1

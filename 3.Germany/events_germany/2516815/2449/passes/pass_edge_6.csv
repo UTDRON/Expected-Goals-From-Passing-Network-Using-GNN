@@ -1,0 +1,47 @@
+Source,Target,Weight
+G. Burgstaller,B. Oczipka,4
+B. Stambouli,M. Meyer,2
+Naldo,T. Kehrer,2
+A. Harit,L. Goretzka,2
+D. Caligiuri,M. Meyer,2
+T. Kehrer,Naldo,2
+D. Caligiuri,F. Di Santo,2
+L. Goretzka,M. Meyer,2
+M. Meyer,Naldo,2
+L. Goretzka,D. Caligiuri,2
+B. Oczipka,G. Burgstaller,2
+B. Oczipka,T. Kehrer,2
+M. Meyer,D. Caligiuri,2
+Naldo,M. Meyer,2
+F. Di Santo,B. Stambouli,1
+M. Meyer,B. Stambouli,1
+B. Stambouli,D. Caligiuri,1
+M. Meyer,T. Kehrer,1
+G. Burgstaller,T. Kehrer,1
+M. Meyer,B. Oczipka,1
+D. Caligiuri,R. F\u00e4hrmann,1
+R. F\u00e4hrmann,G. Burgstaller,1
+D. Caligiuri,G. Burgstaller,1
+Naldo,B. Stambouli,1
+L. Goretzka,T. Kehrer,1
+T. Kehrer,L. Goretzka,1
+A. Harit,D. Caligiuri,1
+T. Kehrer,D. Caligiuri,1
+B. Oczipka,L. Goretzka,1
+F. Di Santo,D. Caligiuri,1
+L. Goretzka,A. Harit,1
+B. Oczipka,Naldo,1
+B. Stambouli,A. Harit,1
+M. Meyer,L. Goretzka,1
+Naldo,A. Harit,1
+F. Di Santo,L. Goretzka,1
+D. Caligiuri,L. Goretzka,1
+L. Goretzka,B. Stambouli,1
+A. Harit,B. Oczipka,1
+T. Kehrer,R. F\u00e4hrmann,1
+R. F\u00e4hrmann,Naldo,1
+D. Caligiuri,B. Stambouli,1
+B. Stambouli,Naldo,1
+T. Kehrer,B. Oczipka,1
+B. Oczipka,A. Harit,1
+T. Kehrer,G. Burgstaller,1

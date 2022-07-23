@@ -1,0 +1,64 @@
+Source,Target,Weight
+T. Ndomb\u00e8l\u00e9,N. Fekir,4
+T. Ndomb\u00e8l\u00e9,F. Mendy,4
+K. Tete,B. Traor\u00e9,4
+H. Aouar,L. Tousart,4
+L. Tousart,T. Ndomb\u00e8l\u00e9,3
+B. Traor\u00e9,K. Tete,3
+N. Fekir,L. Tousart,3
+K. Tete,L. Tousart,3
+F. Mendy,T. Ndomb\u00e8l\u00e9,3
+L. Tousart,K. Tete,3
+L. Tousart,N. Fekir,2
+Marcelo,K. Tete,2
+K. Tete,Mariano D\u00edaz,2
+N. Fekir,K. Tete,2
+A. Lopes,Marcelo,2
+F. Mendy,H. Aouar,2
+L. Tousart,A. Lopes,2
+K. Tete,N. Fekir,2
+J. Morel,A. Lopes,2
+F. Mendy,L. Tousart,2
+B. Traor\u00e9,H. Aouar,2
+T. Ndomb\u00e8l\u00e9,K. Tete,2
+H. Aouar,T. Ndomb\u00e8l\u00e9,2
+F. Mendy,N. Fekir,2
+N. Fekir,H. Aouar,2
+L. Tousart,F. Mendy,2
+N. Fekir,T. Ndomb\u00e8l\u00e9,2
+Marcelo,J. Morel,2
+H. Aouar,B. Traor\u00e9,1
+T. Ndomb\u00e8l\u00e9,H. Aouar,1
+H. Aouar,A. Lopes,1
+Mariano D\u00edaz,Marcelo,1
+H. Aouar,N. Fekir,1
+Mariano D\u00edaz,K. Tete,1
+Marcelo,Mariano D\u00edaz,1
+J. Morel,T. Ndomb\u00e8l\u00e9,1
+N. Fekir,Marcelo,1
+T. Ndomb\u00e8l\u00e9,Marcelo,1
+F. Mendy,J. Morel,1
+K. Tete,T. Ndomb\u00e8l\u00e9,1
+K. Tete,Marcelo,1
+A. Lopes,H. Aouar,1
+A. Lopes,J. Morel,1
+A. Lopes,F. Mendy,1
+L. Tousart,B. Traor\u00e9,1
+T. Ndomb\u00e8l\u00e9,A. Lopes,1
+Mariano D\u00edaz,H. Aouar,1
+Marcelo,L. Tousart,1
+Marcelo,H. Aouar,1
+H. Aouar,K. Tete,1
+T. Ndomb\u00e8l\u00e9,J. Morel,1
+J. Morel,H. Aouar,1
+B. Traor\u00e9,T. Ndomb\u00e8l\u00e9,1
+N. Fekir,F. Mendy,1
+J. Morel,F. Mendy,1
+Marcelo,F. Mendy,1
+B. Traor\u00e9,Marcelo,1
+Mariano D\u00edaz,T. Ndomb\u00e8l\u00e9,1
+F. Mendy,Mariano D\u00edaz,1
+H. Aouar,F. Mendy,1
+K. Tete,F. Mendy,1
+Mariano D\u00edaz,B. Traor\u00e9,1
+A. Lopes,Mariano D\u00edaz,1

@@ -1,0 +1,25 @@
+Source,Target,Weight
+Thiago Maia,A. El Ghazi,3
+K. Malcuit,F. Bahlouli,2
+Edgar I\u00e9,M. Maignan,2
+A. El Ghazi,K. Malcuit,2
+M. Maignan,Edgar I\u00e9,2
+Thiago Mendes,Thiago Maia,2
+Thiago Maia,Thiago Mendes,1
+Edgar I\u00e9,K. Malcuit,1
+A. El Ghazi,Thiago Maia,1
+K. Malcuit,J. Alonso,1
+Edgar I\u00e9,N. P\u00e9p\u00e9,1
+K. Malcuit,Edgar I\u00e9,1
+J. Alonso,Thiago Mendes,1
+Edgar I\u00e9,Thiago Maia,1
+Thiago Mendes,K. Malcuit,1
+Thiago Maia,E. Ponce,1
+F. Bahlouli,Thiago Maia,1
+A. El Ghazi,Thiago Mendes,1
+E. Ponce,K. Malcuit,1
+Thiago Mendes,E. Ponce,1
+F. Bahlouli,Edgar I\u00e9,1
+N. P\u00e9p\u00e9,Thiago Mendes,1
+K. Malcuit,A. El Ghazi,1
+E. Ponce,A. El Ghazi,1

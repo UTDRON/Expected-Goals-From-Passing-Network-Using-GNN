@@ -1,0 +1,18 @@
+Source,Target,Weight
+V. Darida,S. Kalou,3
+M. Leckie,M. Weiser,2
+M. Weiser,V. Darida,2
+M. Plattenhardt,K. Rekik,1
+M. Plattenhardt,G. Haraguchi,1
+R. Jarstein,M. Leckie,1
+S. Kalou,G. Haraguchi,1
+M. Plattenhardt,V. Darida,1
+K. Rekik,R. Jarstein,1
+S. Kalou,M. Weiser,1
+M. Leckie,M. Plattenhardt,1
+G. Haraguchi,M. Plattenhardt,1
+V. Darida,P. Skjelbred,1
+G. Haraguchi,V. Darida,1
+P. Skjelbred,M. Leckie,1
+G. Haraguchi,M. Leckie,1
+M. Weiser,M. Plattenhardt,1

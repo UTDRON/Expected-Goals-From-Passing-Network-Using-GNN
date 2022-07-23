@@ -1,0 +1,16 @@
+Source,Target,Weight
+K. Amian,I. Diop,2
+I. Diop,C. Jullien,2
+Y. Cahuzac,M. Gradel,1
+Y. Cahuzac,F. Moubandje,1
+C. Jean,K. Amian,1
+I. Sangar\u00e9,M. Gradel,1
+F. Moubandje,I. Sangar\u00e9,1
+M. Gradel,Y. Cahuzac,1
+C. Jullien,F. Moubandje,1
+F. Moubandje,M. Gradel,1
+M. Gradel,A. Delort,1
+C. Jullien,C. Jean,1
+A. Delort,A. Lafont,1
+A. Lafont,Y. Cahuzac,1
+M. Gradel,C. Jullien,1

@@ -1,0 +1,20 @@
+Source,Target,Weight
+M. H\u00f6ger,D. Heintz,2
+M. Lehmann,M. H\u00f6ger,2
+Y. \u014csako,L. Bittencourt,1
+Y. \u014csako,M. Lehmann,1
+T. Horn,Y. \u014csako,1
+D. Maroh,M. H\u00f6ger,1
+J. C\u00f3rdoba,Y. \u014csako,1
+D. Heintz,T. Horn,1
+L. Bittencourt,F. S\u00f8rensen,1
+F. S\u00f8rensen,L. Bittencourt,1
+F. S\u00f8rensen,M. H\u00f6ger,1
+D. Heintz,D. Maroh,1
+D. Maroh,D. Heintz,1
+M. H\u00f6ger,D. Maroh,1
+L. Bittencourt,J. C\u00f3rdoba,1
+D. Heintz,F. S\u00f8rensen,1
+M. H\u00f6ger,F. S\u00f8rensen,1
+J. C\u00f3rdoba,S. Zoller,1
+F. S\u00f8rensen,J. C\u00f3rdoba,1

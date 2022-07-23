@@ -1,0 +1,19 @@
+Source,Target,Weight
+S. Yago,C. Jean,2
+C. Jean,M. Gradel,2
+M. Gradel,C. Jean,2
+M. Gradel,C. Jullien,2
+M. Gradel,S. Yago,1
+A. Delort,S. Yago,1
+I. Diop,A. Delort,1
+C. Jean,S. Yago,1
+C. Jean,I. Diop,1
+S. Yago,A. Lafont,1
+K. Amian,C. Jean,1
+S. Yago,M. Gradel,1
+A. Lafont,K. Amian,1
+A. Blin,M. Gradel,1
+A. Delort,M. Gradel,1
+M. Gradel,A. Blin,1
+C. Jullien,S. Yago,1
+C. Jean,A. Delort,1

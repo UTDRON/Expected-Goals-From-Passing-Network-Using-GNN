@@ -1,0 +1,54 @@
+Source,Target,Weight
+C. Kerbrat,L. Deaux,4
+\u00c9. Didot,L. Deaux,4
+F. Eboa Eboa,Pedro Rebocho,4
+\u00c9. Didot,C. Kerbrat,3
+C. Kerbrat,\u00c9. Didot,3
+L. Deaux,\u00c9. Didot,3
+L. Deaux,C. Grenier,3
+L. Deaux,Pedro Rebocho,3
+Pedro Rebocho,M. Coco,3
+C. Grenier,J. Briand,2
+L. Deaux,C. Kerbrat,2
+C. Grenier,\u00c9. Didot,2
+Pedro Rebocho,L. Deaux,2
+Pedro Rebocho,F. Eboa Eboa,2
+F. Eboa Eboa,L. Deaux,2
+C. Grenier,Pedro Rebocho,2
+Pedro Rebocho,C. Kerbrat,2
+Y. Salibur,F. Eboa Eboa,2
+\u00c9. Didot,F. Eboa Eboa,2
+M. Coco,F. Eboa Eboa,1
+J. Ikoko,F. Eboa Eboa,1
+L. Deaux,J. Briand,1
+J. Briand,M. Coco,1
+F. Eboa Eboa,\u00c9. Didot,1
+L. Deaux,F. Eboa Eboa,1
+F. Eboa Eboa,Y. Salibur,1
+\u00c9. Didot,C. Grenier,1
+J. Briand,Pedro Rebocho,1
+\u00c9. Didot,M. Coco,1
+C. Kerbrat,C. Grenier,1
+J. Ikoko,C. Kerbrat,1
+Y. Salibur,\u00c9. Didot,1
+\u00c9. Didot,Y. Salibur,1
+C. Kerbrat,J. Ikoko,1
+K. Johnsson,C. Kerbrat,1
+M. Coco,L. Deaux,1
+Pedro Rebocho,Y. Salibur,1
+L. Deaux,M. Coco,1
+J. Briand,C. Grenier,1
+M. Coco,\u00c9. Didot,1
+J. Ikoko,K. Johnsson,1
+F. Eboa Eboa,J. Briand,1
+L. Deaux,Y. Salibur,1
+Y. Salibur,C. Grenier,1
+C. Grenier,L. Deaux,1
+M. Coco,Pedro Rebocho,1
+C. Grenier,J. Ikoko,1
+K. Johnsson,F. Eboa Eboa,1
+F. Eboa Eboa,C. Kerbrat,1
+M. Coco,C. Grenier,1
+Pedro Rebocho,\u00c9. Didot,1
+C. Kerbrat,K. Johnsson,1
+M. Coco,J. Ikoko,1

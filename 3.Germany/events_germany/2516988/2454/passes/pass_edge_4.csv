@@ -1,0 +1,27 @@
+Source,Target,Weight
+P. Herrmann,L. Stindl,2
+L. Stindl,P. Herrmann,2
+J. Vestergaard,N. Elvedi,2
+P. Herrmann,M. Ginter,2
+N. Elvedi,O. Wendt,2
+L. Stindl,T. Hazard,1
+C. Kramer,T. Hazard,1
+C. Kramer,M. Ginter,1
+O. Wendt,N. Elvedi,1
+P. Herrmann,C. Kramer,1
+M. Cuisance,L. Stindl,1
+T. Hazard,J. Vestergaard,1
+P. Herrmann,T. Hazard,1
+J. Vestergaard,P. Herrmann,1
+T. Hazard,C. Kramer,1
+M. Ginter,P. Herrmann,1
+T. Hazard,Raffael,1
+T. Hazard,L. Stindl,1
+C. Kramer,P. Herrmann,1
+Y. Sommer,P. Herrmann,1
+O. Wendt,T. Hazard,1
+Raffael,L. Stindl,1
+M. Ginter,Y. Sommer,1
+N. Elvedi,J. Vestergaard,1
+L. Stindl,M. Cuisance,1
+M. Ginter,J. Vestergaard,1

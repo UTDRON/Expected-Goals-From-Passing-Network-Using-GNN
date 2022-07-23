@@ -1,0 +1,19 @@
+Source,Target,Weight
+N. Roux,E. Rivi\u00e8re,2
+J. Rivierez,F. Diagne,1
+G. Mandjeck,J. Rivierez,1
+F. Mollet,G. Mandjeck,1
+G. Mandjeck,F. Mollet,1
+R. Cohade,F. Diagne,1
+F. Diagne,G. Mandjeck,1
+F. Mollet,R. Cohade,1
+N. Roux,F. Mollet,1
+F. Diagne,M. Niakhat\u00e9,1
+R. Cohade,J. Rivierez,1
+J. Rivierez,R. Cohade,1
+F. Mollet,N. Roux,1
+M. Niakhat\u00e9,N. Roux,1
+M. Niakhat\u00e9,F. Mollet,1
+R. Cohade,G. Mandjeck,1
+E. Rivi\u00e8re,N. Roux,1
+G. Mandjeck,R. Cohade,1

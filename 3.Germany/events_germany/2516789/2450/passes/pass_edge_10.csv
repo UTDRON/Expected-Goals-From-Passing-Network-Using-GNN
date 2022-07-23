@@ -1,0 +1,18 @@
+Source,Target,Weight
+G. Jung,L. Holtby,2
+G. Jung,M. Mavraj,2
+L. Holtby,G. Jung,2
+K. Papadopoulos,C. Mathenia,1
+C. Mathenia,M. Mavraj,1
+K. Papadopoulos,G. Jung,1
+L. Holtby,L. Waldschmidt,1
+L. Waldschmidt,A. Hahn,1
+C. Mathenia,K. Papadopoulos,1
+A. Hahn,B. Wood,1
+G. Sakai,C. Mathenia,1
+M. Mavraj,K. Papadopoulos,1
+M. Mavraj,L. Holtby,1
+L. Waldschmidt,M. Mavraj,1
+M. Mavraj,G. Jung,1
+L. Waldschmidt,G. Sakai,1
+M. Mavraj,L. Waldschmidt,1

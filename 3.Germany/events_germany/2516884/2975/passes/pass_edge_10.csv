@@ -1,0 +1,15 @@
+Source,Target,Weight
+D. Demme,M. Halstenberg,3
+M. Halstenberg,D. Demme,2
+M. Halstenberg,W. Orban,1
+Bruma,D. Demme,1
+N. Ke\u00efta,K. Kampl,1
+W. Orban,M. Halstenberg,1
+M. Halstenberg,N. Ke\u00efta,1
+D. Demme,N. Ke\u00efta,1
+J. Augustin,M. Halstenberg,1
+D. Demme,J. Augustin,1
+W. Orban,K. Kampl,1
+N. Ke\u00efta,D. Demme,1
+K. Kampl,D. Demme,1
+M. Halstenberg,Bruma,1

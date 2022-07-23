@@ -1,0 +1,14 @@
+Source,Target,Weight
+M. Ginter,T. Jantschke,2
+T. Strobl,O. Wendt,1
+M. Cuisance,J. Hofmann,1
+T. Jantschke,J. Hofmann,1
+T. Strobl,Y. Sommer,1
+Y. Sommer,M. Ginter,1
+J. Hofmann,N. Elvedi,1
+T. Jantschke,T. Strobl,1
+J. Hofmann,M. Cuisance,1
+M. Cuisance,T. Jantschke,1
+O. Wendt,Raffael,1
+Raffael,M. Ginter,1
+T. Jantschke,M. Cuisance,1

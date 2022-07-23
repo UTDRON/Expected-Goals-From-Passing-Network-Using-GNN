@@ -1,0 +1,65 @@
+Source,Target,Weight
+J. Gelin,J. Gnagnon,6
+J. Gnagnon,J. Gelin,6
+J. Lea Siliki,W. Khazri,5
+R. Bensebaini,B. Bourigeaud,4
+W. Khazri,M. Amalfitano,4
+W. Khazri,M. Zeffane,4
+W. Khazri,R. Bensebaini,4
+M. Amalfitano,W. Khazri,4
+S. Prci\u0107,W. Khazri,4
+B. Bourigeaud,M. Zeffane,3
+R. Bensebaini,J. Lea Siliki,3
+M. Zeffane,S. Prci\u0107,3
+B. Bourigeaud,W. Khazri,3
+W. Khazri,S. Prci\u0107,3
+J. Gnagnon,R. Bensebaini,3
+W. Khazri,J. Gelin,3
+S. Prci\u0107,M. Zeffane,3
+J. Gelin,T. Koubek,2
+M. Zeffane,M. Amalfitano,2
+R. Bensebaini,S. Prci\u0107,2
+J. Lea Siliki,J. Gnagnon,2
+M. Zeffane,J. Gelin,2
+J. Gelin,J. Lea Siliki,2
+M. Zeffane,W. Khazri,2
+M. Zeffane,J. Lea Siliki,2
+R. Bensebaini,W. Khazri,2
+J. Lea Siliki,S. Prci\u0107,2
+S. Prci\u0107,J. Lea Siliki,2
+W. Khazri,J. Lea Siliki,2
+S. Prci\u0107,J. Gelin,2
+M. Amalfitano,S. Prci\u0107,2
+W. Khazri,B. Bourigeaud,2
+J. Gelin,R. Danz\u00e9,2
+J. Gelin,M. Zeffane,2
+J. Lea Siliki,R. Bensebaini,2
+W. Khazri,J. Gnagnon,1
+M. Amalfitano,J. Gnagnon,1
+S. Prci\u0107,J. Gnagnon,1
+J. Gnagnon,W. Khazri,1
+R. Danz\u00e9,J. Gelin,1
+T. Koubek,W. Khazri,1
+J. Gelin,B. Bourigeaud,1
+J. Gnagnon,M. Amalfitano,1
+S. Prci\u0107,B. Bourigeaud,1
+B. Bourigeaud,S. Prci\u0107,1
+M. Zeffane,R. Bensebaini,1
+R. Danz\u00e9,W. Khazri,1
+R. Danz\u00e9,S. Prci\u0107,1
+T. Koubek,R. Bensebaini,1
+B. Bourigeaud,R. Danz\u00e9,1
+B. Bourigeaud,J. Lea Siliki,1
+R. Danz\u00e9,T. Koubek,1
+S. Prci\u0107,R. Bensebaini,1
+M. Amalfitano,J. Gelin,1
+M. Amalfitano,M. Zeffane,1
+R. Bensebaini,J. Gnagnon,1
+J. Gnagnon,M. Zeffane,1
+S. Prci\u0107,R. Danz\u00e9,1
+S. Prci\u0107,M. Amalfitano,1
+T. Koubek,M. Amalfitano,1
+J. Gnagnon,S. Prci\u0107,1
+J. Lea Siliki,J. Gelin,1
+J. Gelin,S. Prci\u0107,1
+M. Zeffane,B. Bourigeaud,1

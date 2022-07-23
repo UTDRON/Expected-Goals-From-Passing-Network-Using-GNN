@@ -1,0 +1,43 @@
+Source,Target,Weight
+Pedro Mendes,D. Congr\u00e9,3
+R. Aguilar,J. Sambia,3
+D. Congr\u00e9,Pedro Mendes,3
+J. Sambia,P. Lasne,3
+B. Lecomte,R. Aguilar,2
+Hilton,Pedro Mendes,2
+R. Aguilar,P. Lasne,2
+Pedro Mendes,J. Sambia,2
+Pedro Mendes,Hilton,2
+J. Sambia,R. Aguilar,2
+P. Lasne,R. Aguilar,2
+I. Mbenza,D. Congr\u00e9,1
+R. Aguilar,J. Ikon\u00e9,1
+D. Congr\u00e9,I. Mbenza,1
+I. Mbenza,E. Skhiri,1
+N. Mukiele,R. Aguilar,1
+R. Aguilar,E. Skhiri,1
+R. Aguilar,I. Mbenza,1
+J. Ikon\u00e9,N. Mukiele,1
+P. Lasne,Hilton,1
+Hilton,D. Congr\u00e9,1
+G. Sio,R. Aguilar,1
+P. Lasne,B. Lecomte,1
+E. Skhiri,J. Ikon\u00e9,1
+J. Ikon\u00e9,Hilton,1
+J. Sambia,D. Congr\u00e9,1
+P. Lasne,J. Sambia,1
+R. Aguilar,D. Congr\u00e9,1
+Hilton,J. Sambia,1
+P. Lasne,N. Mukiele,1
+E. Skhiri,J. Sambia,1
+D. Congr\u00e9,B. Lecomte,1
+J. Sambia,Hilton,1
+D. Congr\u00e9,G. Sio,1
+Pedro Mendes,G. Sio,1
+G. Sio,Pedro Mendes,1
+C. Ninga,R. Aguilar,1
+B. Lecomte,C. Ninga,1
+J. Sambia,Pedro Mendes,1
+D. Congr\u00e9,P. Lasne,1
+J. Ikon\u00e9,B. Lecomte,1
+N. Mukiele,J. Ikon\u00e9,1

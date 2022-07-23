@@ -1,0 +1,75 @@
+Source,Target,Weight
+T. Pellenard,N. de Pr\u00e9ville,7
+Pablo,T. Pellenard,5
+Ot\u00e1vio,T. Pellenard,5
+S. Me\u00eft\u00e9,T. Pellenard,4
+G. Laborde,Y. Sabaly,4
+S. Me\u00eft\u00e9,N. de Pr\u00e9ville,4
+T. Pellenard,Ot\u00e1vio,4
+L. Lerager,J. Kound\u00e9,4
+T. Pellenard,G. Laborde,4
+Malcom,Y. Sabaly,4
+N. de Pr\u00e9ville,T. Pellenard,4
+T. Pellenard,S. Me\u00eft\u00e9,4
+Pablo,G. Laborde,3
+J. Kound\u00e9,L. Lerager,3
+S. Me\u00eft\u00e9,L. Lerager,3
+G. Laborde,T. Pellenard,3
+L. Lerager,S. Me\u00eft\u00e9,3
+Y. Sabaly,Malcom,3
+T. Pellenard,Pablo,3
+Pablo,N. de Pr\u00e9ville,3
+G. Laborde,Pablo,3
+B. Costil,G. Laborde,3
+N. de Pr\u00e9ville,S. Me\u00eft\u00e9,3
+Y. Sabaly,J. Kound\u00e9,2
+N. de Pr\u00e9ville,J. Kound\u00e9,2
+N. de Pr\u00e9ville,Ot\u00e1vio,2
+Ot\u00e1vio,Pablo,2
+J. Kound\u00e9,Y. Sabaly,2
+Pablo,Ot\u00e1vio,2
+J. Kound\u00e9,Pablo,2
+N. de Pr\u00e9ville,G. Laborde,2
+Malcom,G. Laborde,2
+N. de Pr\u00e9ville,B. Costil,2
+G. Laborde,Ot\u00e1vio,2
+L. Lerager,N. de Pr\u00e9ville,2
+N. de Pr\u00e9ville,Pablo,2
+J. Kound\u00e9,Malcom,2
+T. Pellenard,B. Costil,2
+Ot\u00e1vio,L. Lerager,2
+J. Kound\u00e9,B. Costil,2
+G. Laborde,L. Lerager,2
+Ot\u00e1vio,Y. Sabaly,1
+T. Pellenard,L. Lerager,1
+G. Laborde,Malcom,1
+Ot\u00e1vio,J. Kound\u00e9,1
+Y. Sabaly,T. Pellenard,1
+L. Lerager,Pablo,1
+Malcom,J. Kound\u00e9,1
+Pablo,B. Costil,1
+Malcom,Pablo,1
+L. Lerager,T. Pellenard,1
+G. Laborde,J. Kound\u00e9,1
+B. Costil,T. Pellenard,1
+L. Lerager,Malcom,1
+L. Lerager,G. Laborde,1
+Y. Sabaly,N. de Pr\u00e9ville,1
+B. Costil,J. Kound\u00e9,1
+J. Kound\u00e9,G. Laborde,1
+Pablo,J. Kound\u00e9,1
+G. Laborde,S. Me\u00eft\u00e9,1
+N. de Pr\u00e9ville,L. Lerager,1
+S. Me\u00eft\u00e9,Pablo,1
+B. Costil,Malcom,1
+B. Costil,N. de Pr\u00e9ville,1
+Ot\u00e1vio,N. de Pr\u00e9ville,1
+Y. Sabaly,L. Lerager,1
+B. Costil,Ot\u00e1vio,1
+N. de Pr\u00e9ville,Malcom,1
+J. Kound\u00e9,Ot\u00e1vio,1
+Y. Sabaly,G. Laborde,1
+Y. Sabaly,S. Me\u00eft\u00e9,1
+Pablo,S. Me\u00eft\u00e9,1
+S. Me\u00eft\u00e9,B. Costil,1
+Y. Sabaly,Pablo,1

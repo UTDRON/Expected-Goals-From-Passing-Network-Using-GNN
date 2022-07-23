@@ -1,0 +1,29 @@
+Source,Target,Weight
+A. Diallo,J. Gbamin,2
+P. De Blasis,D. Brosinski,2
+D. Brosinski,P. De Blasis,2
+D. Brosinski,A. Diallo,2
+S. Bell,J. Gbamin,2
+Y. Muto,S. Bell,1
+G. Donati,P. De Blasis,1
+J. Gbamin,P. De Blasis,1
+A. Diallo,D. Brosinski,1
+S. Bell,D. Latza,1
+J. Gbamin,A. Diallo,1
+D. Brosinski,J. Gbamin,1
+J. Gbamin,D. Brosinski,1
+J. Gbamin,R. Zentner,1
+P. De Blasis,S. Bell,1
+A. Diallo,D. Latza,1
+D. Latza,A. Diallo,1
+D. Latza,J. Gbamin,1
+S. Bell,A. Diallo,1
+J. Gbamin,D. Latza,1
+P. De Blasis,Y. Muto,1
+A. Diallo,A. Maxim,1
+R. Zentner,S. Bell,1
+A. Maxim,P. De Blasis,1
+J. Gbamin,S. Bell,1
+P. De Blasis,J. Gbamin,1
+D. Latza,D. Brosinski,1
+J. Gbamin,G. Donati,1

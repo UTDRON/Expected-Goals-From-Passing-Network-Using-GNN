@@ -1,0 +1,15 @@
+Source,Target,Weight
+J. Vestergaard,T. Hazard,2
+L. Stindl,N. Elvedi,1
+M. Ginter,R. Oxford,1
+R. Oxford,J. Vestergaard,1
+D. Zakaria,L. Stindl,1
+J. Hofmann,J. Vestergaard,1
+R. Oxford,D. Zakaria,1
+N. Elvedi,L. Stindl,1
+T. Hazard,C. Kramer,1
+C. Kramer,N. Elvedi,1
+N. Elvedi,T. Hazard,1
+T. Hazard,R. Oxford,1
+T. Hazard,D. Zakaria,1
+D. Zakaria,M. Ginter,1

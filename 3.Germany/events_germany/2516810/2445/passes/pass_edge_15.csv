@@ -1,0 +1,16 @@
+Source,Target,Weight
+R. Zieler,A. Beck,2
+O. Mangala,C. Akolo,1
+A. Beck,C. Akolo,1
+A. Beck,R. Zieler,1
+A. Beck,S. Terodde,1
+O. Mangala,T. Baumgartl,1
+T. Baumgartl,S. Terodde,1
+C. Akolo,A. Beck,1
+B. Pavard,O. Mangala,1
+A. Beck,B. Pavard,1
+C. Akolo,T. Baumgartl,1
+S. Terodde,A. Beck,1
+T. Baumgartl,B. Pavard,1
+B. Pavard,R. Zieler,1
+S. Terodde,C. Akolo,1

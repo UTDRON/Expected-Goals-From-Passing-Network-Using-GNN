@@ -1,0 +1,33 @@
+Source,Target,Weight
+Bartra,S. Papastathopoulos,3
+\u0141. Piszczek,S. Papastathopoulos,3
+S. Kagawa,\u0141. Piszczek,3
+S. Papastathopoulos,S. Kagawa,3
+J. Toljan,Bartra,3
+S. Kagawa,Bartra,3
+Bartra,J. Weigl,2
+Bartra,M. Dahoud,2
+Bartra,J. Toljan,2
+A. Yarmolenko,S. Kagawa,2
+S. Papastathopoulos,Bartra,2
+\u0141. Piszczek,S. Kagawa,2
+S. Papastathopoulos,\u0141. Piszczek,2
+\u0141. Piszczek,A. Yarmolenko,1
+J. Weigl,A. Yarmolenko,1
+\u0141. Piszczek,Bartra,1
+J. Weigl,S. Papastathopoulos,1
+S. Kagawa,A. Yarmolenko,1
+A. Yarmolenko,J. Weigl,1
+Bartra,\u0141. Piszczek,1
+Bartra,P. Aubameyang,1
+M. Dahoud,S. Kagawa,1
+\u0141. Piszczek,M. Dahoud,1
+J. Weigl,S. Kagawa,1
+C. Pulisic,Bartra,1
+S. Kagawa,S. Papastathopoulos,1
+M. Dahoud,\u0141. Piszczek,1
+J. Weigl,\u0141. Piszczek,1
+M. Dahoud,C. Pulisic,1
+J. Weigl,Bartra,1
+S. Papastathopoulos,J. Weigl,1
+S. Kagawa,J. Weigl,1

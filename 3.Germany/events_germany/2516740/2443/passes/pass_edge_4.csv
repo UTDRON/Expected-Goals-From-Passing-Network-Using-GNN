@@ -1,0 +1,12 @@
+Source,Target,Weight
+R. Bauer,T. Gebre Selassie,3
+T. Gebre Selassie,R. Bauer,2
+F. Kainz,F. Bartels,1
+F. Kainz,T. Gebre Selassie,1
+J. Pavlenka,R. Bauer,1
+F. Bartels,L. Augustinsson,1
+T. Delaney,F. Kainz,1
+M. Eggestein,F. Kainz,1
+T. Gebre Selassie,M. Kruse,1
+T. Gebre Selassie,M. Eggestein,1
+L. Augustinsson,T. Delaney,1

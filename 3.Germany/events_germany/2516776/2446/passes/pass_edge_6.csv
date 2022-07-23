@@ -1,0 +1,61 @@
+Source,Target,Weight
+C. Ar\u00e1nguiz,S. Bender,5
+J. Brandt,C. Ar\u00e1nguiz,3
+J. Tah,S. Bender,3
+S. Bender,P. Retsos,3
+P. Retsos,J. Brandt,3
+S. Bender,J. Tah,3
+K. Havertz,C. Ar\u00e1nguiz,2
+D. Kohr,J. Tah,2
+K. Bellarabi,P. Retsos,2
+J. Tah,C. Ar\u00e1nguiz,2
+A. Mehmedi,K. Havertz,2
+J. Brandt,P. Retsos,2
+P. Retsos,D. Kohr,2
+S. Bender,A. Mehmedi,2
+C. Ar\u00e1nguiz,J. Tah,2
+J. Tah,L. Bender,2
+D. Kohr,J. Brandt,1
+C. Ar\u00e1nguiz,Wendell,1
+S. Bender,Wendell,1
+P. Retsos,K. Bellarabi,1
+S. Bender,C. Ar\u00e1nguiz,1
+C. Ar\u00e1nguiz,L. Bender,1
+B. Leno,C. Ar\u00e1nguiz,1
+Wendell,C. Ar\u00e1nguiz,1
+S. Bender,K. Volland,1
+J. Brandt,S. Bender,1
+L. Bender,A. Mehmedi,1
+K. Havertz,D. Kohr,1
+K. Havertz,S. Bender,1
+A. Mehmedi,J. Tah,1
+J. Brandt,D. Kohr,1
+S. Bender,L. Bender,1
+K. Havertz,P. Retsos,1
+A. Mehmedi,C. Ar\u00e1nguiz,1
+A. Mehmedi,D. Kohr,1
+L. Bender,J. Tah,1
+D. Kohr,S. Bender,1
+P. Retsos,B. Leno,1
+B. Leno,P. Retsos,1
+J. Tah,A. Mehmedi,1
+Wendell,S. Bender,1
+P. Retsos,K. Havertz,1
+L. Bender,C. Ar\u00e1nguiz,1
+D. Kohr,L. Bender,1
+L. Bender,K. Havertz,1
+J. Tah,B. Leno,1
+L. Bender,D. Kohr,1
+Wendell,K. Bellarabi,1
+A. Mehmedi,L. Bender,1
+K. Volland,S. Bender,1
+P. Retsos,A. Mehmedi,1
+S. Bender,J. Brandt,1
+L. Bender,K. Volland,1
+K. Volland,K. Havertz,1
+C. Ar\u00e1nguiz,K. Havertz,1
+P. Retsos,C. Ar\u00e1nguiz,1
+C. Ar\u00e1nguiz,P. Retsos,1
+C. Ar\u00e1nguiz,A. Mehmedi,1
+K. Havertz,J. Brandt,1
+C. Ar\u00e1nguiz,J. Brandt,1

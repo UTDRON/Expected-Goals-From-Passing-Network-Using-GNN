@@ -1,0 +1,61 @@
+Source,Target,Weight
+V. Nogueira,E. Seka,6
+E. Seka,V. Nogueira,5
+K. Lala,A. Gon\u00e7alves,5
+B. Kon\u00e9,V. Nogueira,3
+J. Martin,V. Nogueira,3
+A. Gon\u00e7alves,K. Lala,3
+B. Kon\u00e9,E. Seka,3
+Y. Salmier,B. Kamara,3
+E. Seka,J. Martin,3
+A. Gon\u00e7alves,Y. Salmier,2
+B. Kamara,K. Lala,2
+V. Nogueira,K. Lala,2
+K. Lala,Y. Salmier,2
+Y. Salmier,K. Lala,2
+Y. Salmier,A. Gon\u00e7alves,2
+K. Lala,B. Kamara,2
+E. Seka,B. Kon\u00e9,2
+E. Seka,J. Aholou,2
+B. Kon\u00e9,Y. Salmier,2
+J. Aholou,V. Nogueira,2
+B. Kamara,B. Kon\u00e9,2
+Y. Salmier,E. Seka,2
+M. Terrier,J. Aholou,1
+J. Aholou,M. Terrier,1
+V. Nogueira,Y. Salmier,1
+K. Lala,Nuno Da Costa,1
+A. Gon\u00e7alves,B. Kamara,1
+M. Terrier,A. Gon\u00e7alves,1
+J. Aholou,K. Lala,1
+M. Terrier,Nuno Da Costa,1
+A. Gon\u00e7alves,B. Kon\u00e9,1
+J. Aholou,J. Martin,1
+V. Nogueira,B. Kon\u00e9,1
+J. Martin,M. Terrier,1
+J. Martin,E. Seka,1
+J. Martin,Y. Salmier,1
+E. Seka,Y. Salmier,1
+J. Martin,K. Lala,1
+Nuno Da Costa,J. Martin,1
+V. Nogueira,J. Martin,1
+V. Nogueira,B. Kamara,1
+A. Gon\u00e7alves,Nuno Da Costa,1
+E. Seka,K. Lala,1
+B. Kon\u00e9,J. Martin,1
+K. Lala,J. Martin,1
+M. Terrier,E. Seka,1
+Y. Salmier,B. Kon\u00e9,1
+K. Lala,J. Aholou,1
+B. Kamara,Y. Salmier,1
+E. Seka,M. Terrier,1
+B. Kamara,M. Terrier,1
+J. Martin,J. Aholou,1
+J. Martin,B. Kon\u00e9,1
+J. Martin,A. Gon\u00e7alves,1
+A. Gon\u00e7alves,J. Aholou,1
+J. Aholou,E. Seka,1
+A. Gon\u00e7alves,J. Martin,1
+B. Kamara,E. Seka,1
+V. Nogueira,A. Gon\u00e7alves,1
+Nuno Da Costa,B. Kon\u00e9,1

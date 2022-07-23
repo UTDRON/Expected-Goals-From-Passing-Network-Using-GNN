@@ -1,0 +1,38 @@
+Source,Target,Weight
+R. Knoche,P. Verhaegh,4
+M. Arnold,Y. Mall\u0131,2
+R. Knoche,K. Casteels,2
+A. Mehmedi,M. Arnold,2
+A. Mehmedi,P. Verhaegh,2
+M. Arnold,V. Osimhen,2
+P. Verhaegh,M. Arnold,2
+V. Osimhen,A. Mehmedi,2
+V. Osimhen,M. Arnold,2
+M. Arnold,J. Bruma,2
+J. Bruma,R. Knoche,2
+P. Verhaegh,R. Knoche,2
+Y. Mall\u0131,R. Knoche,2
+William,K. Casteels,1
+J. Brekalo,P. Verhaegh,1
+K. Casteels,M. Arnold,1
+K. Casteels,J. Brekalo,1
+M. Arnold,A. Mehmedi,1
+J. Bruma,K. Casteels,1
+R. Knoche,J. Guilavogui,1
+P. Verhaegh,J. Brekalo,1
+J. Brekalo,J. Guilavogui,1
+K. Casteels,A. Mehmedi,1
+P. Verhaegh,K. Casteels,1
+J. Guilavogui,Y. Mall\u0131,1
+P. Verhaegh,J. Guilavogui,1
+J. Bruma,William,1
+K. Casteels,Y. Mall\u0131,1
+J. Guilavogui,A. Mehmedi,1
+J. Guilavogui,R. Knoche,1
+Y. Mall\u0131,A. Mehmedi,1
+Y. Mall\u0131,V. Osimhen,1
+A. Mehmedi,J. Bruma,1
+K. Casteels,V. Osimhen,1
+A. Mehmedi,V. Osimhen,1
+V. Osimhen,R. Knoche,1
+R. Knoche,J. Bruma,1

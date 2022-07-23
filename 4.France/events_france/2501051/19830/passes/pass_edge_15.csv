@@ -1,0 +1,40 @@
+Source,Target,Weight
+Jo\u00e3o Moutinho,J. Serrano,3
+Jo\u00e3o Moutinho,D. Sidib\u00e9,3
+J. Serrano,Jo\u00e3o Moutinho,3
+R. Ghezzal,K. Glik,2
+D. Sidib\u00e9,K. Glik,2
+R. Ghezzal,Jo\u00e3o Moutinho,2
+D. Sidib\u00e9,R. Ghezzal,2
+Jo\u00e3o Moutinho,Y. Tielemans,2
+D. Sidib\u00e9,Fabinho,2
+J. Serrano,D. Sidib\u00e9,2
+K. Glik,Jo\u00e3o Moutinho,2
+Jo\u00e3o Moutinho,Fabinho,2
+Fabinho,Jo\u00e3o Moutinho,2
+J. Serrano,T. Lemar,2
+K. Glik,R. Ghezzal,2
+T. Lemar,Jo\u00e3o Moutinho,2
+R. Ghezzal,D. Suba\u0161i\u0107,1
+D. Suba\u0161i\u0107,J. Serrano,1
+Y. Tielemans,R. Ghezzal,1
+K. Glik,D. Suba\u0161i\u0107,1
+M. Sylla,D. Sidib\u00e9,1
+J. Serrano,Jemerson,1
+Jemerson,J. Serrano,1
+D. Sidib\u00e9,J. Serrano,1
+M. Sylla,J. Serrano,1
+Y. Tielemans,K. Glik,1
+Jemerson,M. Sylla,1
+R. Ghezzal,T. Lemar,1
+T. Lemar,D. Sidib\u00e9,1
+Jemerson,K. Glik,1
+K. Glik,M. Sylla,1
+R. Ghezzal,D. Sidib\u00e9,1
+Fabinho,R. Ghezzal,1
+M. Sylla,Jemerson,1
+K. Glik,J. Serrano,1
+D. Suba\u0161i\u0107,K. Glik,1
+Fabinho,Y. Tielemans,1
+Jo\u00e3o Moutinho,Jemerson,1
+Y. Tielemans,M. Sylla,1

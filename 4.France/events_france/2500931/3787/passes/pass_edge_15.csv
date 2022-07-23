@@ -1,0 +1,66 @@
+Source,Target,Weight
+E. Skhiri,P. Lasne,3
+N. Mukiele,J. Sambia,3
+R. Aguilar,B. Lecomte,3
+C. Ninga,D. Congr\u00e9,3
+Hilton,D. Congr\u00e9,3
+P. Lasne,R. Aguilar,3
+R. Aguilar,C. Ninga,3
+Pedro Mendes,Hilton,2
+E. Skhiri,G. Sio,2
+N. Mukiele,G. Sio,2
+J. Sambia,D. Congr\u00e9,2
+P. Lasne,N. Mukiele,2
+N. Mukiele,Pedro Mendes,2
+P. Lasne,J. Sambia,2
+C. Ninga,R. Aguilar,2
+J. Sambia,Hilton,2
+D. Congr\u00e9,B. Lecomte,2
+J. Sambia,N. Mukiele,2
+D. Congr\u00e9,R. Aguilar,2
+G. Sio,P. Lasne,2
+Hilton,J. Sambia,2
+P. Lasne,E. Skhiri,2
+S. Camara,R. Aguilar,2
+G. Sio,C. Ninga,2
+B. Lecomte,G. Sio,2
+B. Lecomte,S. Camara,2
+R. Aguilar,D. Congr\u00e9,1
+Pedro Mendes,E. Skhiri,1
+N. Mukiele,C. Ninga,1
+Hilton,C. Ninga,1
+D. Congr\u00e9,Pedro Mendes,1
+Pedro Mendes,P. Lasne,1
+D. Congr\u00e9,E. Skhiri,1
+Pedro Mendes,N. Mukiele,1
+S. Camara,Hilton,1
+E. Skhiri,Hilton,1
+B. Lecomte,E. Skhiri,1
+S. Camara,D. Congr\u00e9,1
+C. Ninga,N. Mukiele,1
+D. Congr\u00e9,P. Lasne,1
+E. Skhiri,Pedro Mendes,1
+E. Skhiri,N. Mukiele,1
+D. Congr\u00e9,Hilton,1
+Hilton,Pedro Mendes,1
+S. Camara,E. Skhiri,1
+R. Aguilar,J. Sambia,1
+Pedro Mendes,J. Sambia,1
+R. Aguilar,S. Camara,1
+N. Mukiele,Hilton,1
+P. Lasne,S. Camara,1
+C. Ninga,S. Camara,1
+R. Aguilar,Pedro Mendes,1
+S. Camara,P. Lasne,1
+D. Congr\u00e9,S. Camara,1
+D. Congr\u00e9,N. Mukiele,1
+B. Lecomte,C. Ninga,1
+G. Sio,Pedro Mendes,1
+Hilton,N. Mukiele,1
+Pedro Mendes,B. Lecomte,1
+J. Sambia,R. Aguilar,1
+J. Sambia,P. Lasne,1
+G. Sio,J. Sambia,1
+J. Sambia,E. Skhiri,1
+C. Ninga,E. Skhiri,1
+J. Sambia,C. Ninga,1

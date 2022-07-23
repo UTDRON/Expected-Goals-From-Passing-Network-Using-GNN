@@ -1,0 +1,62 @@
+Source,Target,Weight
+N. Mendy,C. Jallet,4
+Dante,N. Mendy,4
+M. Balotelli,C. Jallet,3
+C. Jallet,M. Balotelli,3
+C. Jallet,V. Koziello,3
+C. Jallet,P. Lees Melou,2
+V. Koziello,A. Souquet,2
+N. Mendy,A. Souquet,2
+P. Lees Melou,M. Le Marchand,2
+V. Koziello,P. Lees Melou,2
+A. Pl\u00e9a,P. Lees Melou,2
+R. Walter,A. Souquet,2
+A. Souquet,W. Ben\u00edtez,2
+P. Lees Melou,N. Mendy,2
+C. Jallet,A. Pl\u00e9a,2
+R. Walter,C. Jallet,2
+A. Souquet,Dante,2
+M. Balotelli,A. Pl\u00e9a,1
+M. Le Marchand,R. Walter,1
+N. Mendy,V. Koziello,1
+R. Walter,M. Balotelli,1
+W. Ben\u00edtez,V. Koziello,1
+A. Souquet,A. Pl\u00e9a,1
+M. Balotelli,V. Koziello,1
+V. Koziello,M. Le Marchand,1
+N. Mendy,Dante,1
+M. Balotelli,P. Lees Melou,1
+W. Ben\u00edtez,R. Walter,1
+M. Le Marchand,P. Lees Melou,1
+N. Mendy,M. Balotelli,1
+C. Jallet,Dante,1
+P. Lees Melou,R. Walter,1
+M. Balotelli,R. Walter,1
+C. Jallet,N. Mendy,1
+A. Souquet,V. Koziello,1
+V. Koziello,Dante,1
+W. Ben\u00edtez,N. Mendy,1
+P. Lees Melou,W. Ben\u00edtez,1
+W. Ben\u00edtez,M. Balotelli,1
+A. Pl\u00e9a,M. Balotelli,1
+A. Pl\u00e9a,C. Jallet,1
+C. Jallet,M. Le Marchand,1
+A. Souquet,M. Le Marchand,1
+A. Pl\u00e9a,A. Souquet,1
+M. Le Marchand,W. Ben\u00edtez,1
+W. Ben\u00edtez,A. Souquet,1
+M. Le Marchand,A. Pl\u00e9a,1
+A. Souquet,C. Jallet,1
+C. Jallet,R. Walter,1
+P. Lees Melou,V. Koziello,1
+M. Le Marchand,Dante,1
+M. Le Marchand,N. Mendy,1
+Dante,W. Ben\u00edtez,1
+N. Mendy,M. Le Marchand,1
+V. Koziello,N. Mendy,1
+Dante,M. Le Marchand,1
+P. Lees Melou,C. Jallet,1
+M. Balotelli,A. Souquet,1
+V. Koziello,M. Balotelli,1
+A. Souquet,M. Balotelli,1
+M. Le Marchand,C. Jallet,1

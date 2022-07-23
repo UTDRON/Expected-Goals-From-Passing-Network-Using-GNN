@@ -1,0 +1,14 @@
+Source,Target,Weight
+\u00c9. Didot,J. Ikoko,3
+C. Kerbrat,\u00c9. Didot,3
+\u00c9. Didot,C. Kerbrat,2
+J. Ikoko,C. Grenier,2
+\u00c9. Didot,N. Benezet,2
+C. Grenier,\u00c9. Didot,2
+\u00c9. Didot,L. Blas,2
+J. Ikoko,\u00c9. Didot,1
+L. Blas,\u00c9. Didot,1
+N. Benezet,\u00c9. Didot,1
+L. Blas,J. Ikoko,1
+J. Ikoko,L. Blas,1
+N. Benezet,C. Kerbrat,1

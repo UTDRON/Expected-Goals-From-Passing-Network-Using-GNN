@@ -1,0 +1,19 @@
+Source,Target,Weight
+Som\u00e1lia,M. Gradel,3
+M. Gradel,Som\u00e1lia,2
+K. Amian,M. Gradel,2
+G. Imbula,A. Blin,2
+C. Michelin,Som\u00e1lia,1
+A. Blin,K. Amian,1
+M. Gradel,G. Imbula,1
+I. Diop,C. Jullien,1
+I. Diop,G. Imbula,1
+C. Jullien,M. Gradel,1
+A. Blin,C. Michelin,1
+M. Gradel,C. Michelin,1
+C. Jullien,K. Amian,1
+M. Gradel,A. Delort,1
+C. Michelin,C. Jullien,1
+C. Michelin,A. Blin,1
+M. Gradel,I. Diop,1
+A. Blin,I. Diop,1

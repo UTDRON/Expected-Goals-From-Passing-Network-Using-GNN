@@ -1,0 +1,26 @@
+Source,Target,Weight
+K. Amian,J. Durmaz,1
+S. Yago,J. Durmaz,1
+G. Imbula,K. Amian,1
+G. Imbula,I. Diop,1
+A. Lafont,K. Amian,1
+A. Lafont,G. Imbula,1
+I. Diop,C. Jean,1
+C. Jean,A. Delort,1
+K. Amian,G. Imbula,1
+J. Durmaz,A. Lafont,1
+K. Amian,Y. Cahuzac,1
+J. Durmaz,A. Delort,1
+G. Imbula,A. Lafont,1
+I. Diop,Y. Cahuzac,1
+A. Delort,K. Amian,1
+Y. Cahuzac,K. Amian,1
+Y. Cahuzac,I. Sylla,1
+C. Jean,I. Diop,1
+A. Lafont,I. Diop,1
+J. Durmaz,C. Jean,1
+K. Amian,I. Sylla,1
+I. Sylla,G. Imbula,1
+C. Jean,S. Yago,1
+I. Diop,A. Lafont,1
+I. Sylla,C. Jean,1

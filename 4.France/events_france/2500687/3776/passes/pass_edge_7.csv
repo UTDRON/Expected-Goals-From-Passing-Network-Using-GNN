@@ -1,0 +1,34 @@
+Source,Target,Weight
+F. Tour\u00e9,J. Alonso,2
+M. Maignan,Thiago Mendes,2
+Edgar I\u00e9,K. Malcuit,2
+J. Alonso,Luiz Ara\u00fajo,2
+F. Tour\u00e9,Thiago Mendes,2
+K. Malcuit,A. El Ghazi,2
+J. Alonso,F. Tour\u00e9,1
+N. de Pr\u00e9ville,K. Malcuit,1
+A. El Ghazi,Y. Benzia,1
+Y. Benzia,Luiz Ara\u00fajo,1
+N. de Pr\u00e9ville,Edgar I\u00e9,1
+A. El Ghazi,N. de Pr\u00e9ville,1
+Y. Benzia,K. Malcuit,1
+Edgar I\u00e9,M. Maignan,1
+Edgar I\u00e9,A. El Ghazi,1
+Luiz Ara\u00fajo,J. Alonso,1
+Thiago Mendes,A. El Ghazi,1
+K. Malcuit,N. de Pr\u00e9ville,1
+Thiago Mendes,Y. Benzia,1
+Luiz Ara\u00fajo,N. de Pr\u00e9ville,1
+K. Malcuit,Edgar I\u00e9,1
+M. Maignan,J. Alonso,1
+Thiago Mendes,N. de Pr\u00e9ville,1
+K. Malcuit,I. Amadou,1
+A. El Ghazi,K. Malcuit,1
+N. de Pr\u00e9ville,M. Maignan,1
+J. Alonso,M. Maignan,1
+A. El Ghazi,Edgar I\u00e9,1
+Thiago Mendes,F. Tour\u00e9,1
+Luiz Ara\u00fajo,F. Tour\u00e9,1
+J. Alonso,I. Amadou,1
+I. Amadou,J. Alonso,1
+I. Amadou,Edgar I\u00e9,1

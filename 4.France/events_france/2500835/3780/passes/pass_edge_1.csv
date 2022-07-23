@@ -1,0 +1,24 @@
+Source,Target,Weight
+C. Jullien,I. Diop,2
+J. Durmaz,M. Gradel,2
+Y. Bodiger,J. Durmaz,2
+F. Moubandje,J. Durmaz,2
+F. Moubandje,Y. Bodiger,2
+Y. Bodiger,F. Moubandje,2
+M. Gradel,F. Moubandje,2
+J. Durmaz,C. Jullien,1
+I. Diop,K. Amian,1
+F. Moubandje,A. Blin,1
+I. Diop,F. Moubandje,1
+K. Amian,Y. Bodiger,1
+F. Moubandje,C. Jullien,1
+A. Blin,Y. Bodiger,1
+C. Jullien,A. Lafont,1
+J. Durmaz,A. Blin,1
+A. Lafont,I. Diop,1
+Y. Bodiger,A. Blin,1
+M. Gradel,Y. Bodiger,1
+A. Blin,A. Delort,1
+I. Diop,J. Durmaz,1
+A. Blin,C. Jullien,1
+J. Durmaz,F. Moubandje,1

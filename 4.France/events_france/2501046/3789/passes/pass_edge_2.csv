@@ -1,0 +1,29 @@
+Source,Target,Weight
+G. Kakuta,T. Monconduit,2
+P. Gouano,G. Fofana,2
+B. Dibassy,Danilo Avelar,2
+T. Monconduit,P. Gouano,2
+B. Dibassy,T. Monconduit,2
+H. Manzala,B. Dibassy,2
+T. Monconduit,G. Kakuta,2
+O. El Hajjam,H. Manzala,2
+T. Monconduit,Q. Cornette,2
+P. Gouano,T. Monconduit,2
+M. Konat\u00e9,Q. Cornette,1
+Danilo Avelar,M. Konat\u00e9,1
+G. Fofana,B. Dibassy,1
+G. Fofana,O. El Hajjam,1
+Danilo Avelar,T. Monconduit,1
+Q. Cornette,O. El Hajjam,1
+Q. Cornette,Danilo Avelar,1
+T. Monconduit,G. Fofana,1
+H. Manzala,P. Gouano,1
+Danilo Avelar,P. Gouano,1
+G. Fofana,P. Gouano,1
+Q. Cornette,G. Kakuta,1
+H. Manzala,T. Monconduit,1
+P. Gouano,H. Manzala,1
+T. Monconduit,H. Manzala,1
+Danilo Avelar,G. Kakuta,1
+G. Kakuta,Danilo Avelar,1
+G. Kakuta,B. Dibassy,1

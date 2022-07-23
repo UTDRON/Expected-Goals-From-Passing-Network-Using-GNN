@@ -1,0 +1,86 @@
+Source,Target,Weight
+B. Henrichs,Wendell,11
+D. Kohr,J. Tah,7
+Wendell,B. Henrichs,6
+Wendell,C. Ar\u00e1nguiz,6
+J. Tah,D. Kohr,5
+C. Ar\u00e1nguiz,A. Mehmedi,5
+B. Henrichs,B. Leno,5
+C. Ar\u00e1nguiz,B. Henrichs,5
+A. Mehmedi,C. Ar\u00e1nguiz,5
+J. Tah,S. Bender,5
+J. Tah,B. Leno,4
+D. Kohr,B. Henrichs,4
+D. Kohr,A. Mehmedi,4
+Wendell,J. Brandt,4
+S. Bender,B. Henrichs,4
+S. Bender,J. Tah,4
+K. Bellarabi,A. Mehmedi,3
+Wendell,K. Volland,3
+J. Tah,A. Mehmedi,3
+J. Brandt,D. Kohr,3
+J. Brandt,Wendell,3
+B. Leno,Wendell,3
+K. Volland,D. Kohr,3
+K. Bellarabi,D. Kohr,3
+A. Mehmedi,K. Bellarabi,3
+B. Henrichs,J. Brandt,3
+K. Volland,A. Mehmedi,3
+D. Kohr,K. Bellarabi,3
+C. Ar\u00e1nguiz,D. Kohr,3
+B. Leno,K. Volland,3
+A. Mehmedi,J. Brandt,3
+A. Mehmedi,D. Kohr,3
+S. Bender,C. Ar\u00e1nguiz,3
+D. Kohr,S. Bender,3
+B. Leno,B. Henrichs,2
+K. Bellarabi,K. Volland,2
+J. Tah,C. Ar\u00e1nguiz,2
+K. Volland,Wendell,2
+J. Brandt,K. Volland,2
+K. Volland,J. Tah,2
+J. Brandt,K. Bellarabi,2
+J. Brandt,J. Tah,2
+S. Bender,A. Mehmedi,2
+B. Leno,J. Tah,2
+B. Henrichs,S. Bender,2
+D. Kohr,C. Ar\u00e1nguiz,2
+A. Mehmedi,B. Henrichs,2
+D. Kohr,J. Brandt,2
+J. Tah,K. Bellarabi,2
+B. Henrichs,K. Volland,2
+A. Mehmedi,K. Volland,2
+J. Brandt,A. Mehmedi,2
+C. Ar\u00e1nguiz,S. Bender,2
+B. Henrichs,D. Kohr,2
+A. Mehmedi,J. Tah,2
+K. Volland,J. Brandt,2
+J. Tah,Wendell,1
+K. Volland,S. Bender,1
+K. Volland,B. Henrichs,1
+C. Ar\u00e1nguiz,J. Brandt,1
+J. Brandt,S. Bender,1
+S. Bender,D. Kohr,1
+Wendell,D. Kohr,1
+S. Bender,Wendell,1
+Wendell,J. Tah,1
+C. Ar\u00e1nguiz,J. Tah,1
+J. Brandt,C. Ar\u00e1nguiz,1
+A. Mehmedi,B. Leno,1
+S. Bender,B. Leno,1
+Wendell,S. Bender,1
+A. Mehmedi,Wendell,1
+C. Ar\u00e1nguiz,Wendell,1
+C. Ar\u00e1nguiz,K. Volland,1
+B. Leno,C. Ar\u00e1nguiz,1
+Wendell,B. Leno,1
+K. Bellarabi,C. Ar\u00e1nguiz,1
+J. Brandt,B. Henrichs,1
+S. Bender,J. Brandt,1
+K. Bellarabi,J. Tah,1
+K. Bellarabi,J. Brandt,1
+B. Leno,A. Mehmedi,1
+C. Ar\u00e1nguiz,K. Bellarabi,1
+C. Ar\u00e1nguiz,B. Leno,1
+A. Mehmedi,S. Bender,1
+B. Leno,S. Bender,1

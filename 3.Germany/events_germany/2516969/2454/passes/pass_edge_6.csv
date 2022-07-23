@@ -1,0 +1,13 @@
+Source,Target,Weight
+M. Cuisance,T. Hazard,1
+N. Elvedi,J. Vestergaard,1
+J. Hofmann,M. Ginter,1
+N. Elvedi,M. Ginter,1
+J. Vestergaard,J. Hofmann,1
+T. Hazard,J. Drmic,1
+M. Ginter,N. Elvedi,1
+J. Drmic,M. Cuisance,1
+J. Vestergaard,N. Elvedi,1
+J. Hofmann,J. Drmic,1
+M. Ginter,J. Hofmann,1
+J. Drmic,M. Ginter,1

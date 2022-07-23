@@ -1,0 +1,34 @@
+Source,Target,Weight
+J. Draxler,T. Meunier,4
+J. Pastore,Neymar,3
+S. Nsoki,Neymar,2
+T. Meunier,Thiago Silva,2
+G. Lo Celso,Thiago Silva,2
+K. Trapp,G. Lo Celso,2
+G. Lo Celso,Yuri Berchiche,2
+Neymar,G. Lo Celso,2
+Neymar,J. Pastore,2
+T. Meunier,J. Draxler,2
+G. Lo Celso,J. Pastore,2
+Thiago Silva,J. Pastore,1
+S. Nsoki,K. Trapp,1
+Thiago Silva,T. Meunier,1
+J. Pastore,S. Nsoki,1
+Neymar,J. Draxler,1
+J. Draxler,J. Pastore,1
+Yuri Berchiche,J. Draxler,1
+J. Draxler,G. Lo Celso,1
+G. Lo Celso,S. Nsoki,1
+S. Nsoki,G. Lo Celso,1
+Neymar,S. Nsoki,1
+Yuri Berchiche,Neymar,1
+Thiago Silva,K. Trapp,1
+J. Pastore,G. Lo Celso,1
+T. Meunier,K. Trapp,1
+Thiago Silva,J. Draxler,1
+K. Trapp,Yuri Berchiche,1
+Yuri Berchiche,G. Lo Celso,1
+G. Lo Celso,Neymar,1
+J. Pastore,Yuri Berchiche,1
+Yuri Berchiche,S. Nsoki,1
+Neymar,Yuri Berchiche,1

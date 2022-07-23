@@ -1,0 +1,20 @@
+Source,Target,Weight
+N. Schulz,\u00c1. Szalai,3
+N. Amiri,P. Kade\u0159\u00e1bek,3
+P. Kade\u0159\u00e1bek,N. Schulz,2
+P. Kade\u0159\u00e1bek,F. Grillitsch,1
+O. Baumann,H. Nordtveit,1
+S. Gnabry,A. Kramari\u0107,1
+A. Kramari\u0107,S. Gnabry,1
+\u00c1. Szalai,A. Kramari\u0107,1
+O. Baumann,N. Amiri,1
+F. Grillitsch,A. Kramari\u0107,1
+H. Nordtveit,K. Vogt,1
+K. Vogt,P. Kade\u0159\u00e1bek,1
+P. Kade\u0159\u00e1bek,K. Vogt,1
+A. Kramari\u0107,N. Amiri,1
+K. Vogt,N. Amiri,1
+A. Kramari\u0107,N. Schulz,1
+A. Kramari\u0107,O. Baumann,1
+\u00c1. Szalai,N. Schulz,1
+N. Schulz,O. Baumann,1

@@ -1,0 +1,53 @@
+Source,Target,Weight
+J. Gbamin,G. Donati,4
+G. Donati,L. \u00d6ztunali,3
+G. Donati,R. Zentner,3
+R. Zentner,P. De Blasis,3
+P. De Blasis,A. Maxim,3
+R. Zentner,G. Donati,3
+A. Maxim,S. Bell,2
+D. Brosinski,R. Zentner,2
+D. Brosinski,A. Maxim,2
+G. Donati,S. Bell,2
+A. Diallo,D. Brosinski,2
+L. \u00d6ztunali,A. Maxim,2
+S. Serdar,R. Zentner,2
+A. Maxim,P. De Blasis,2
+S. Serdar,A. Diallo,2
+D. Brosinski,S. Serdar,2
+Y. Muto,D. Brosinski,2
+P. De Blasis,D. Brosinski,2
+A. Maxim,L. \u00d6ztunali,2
+A. Diallo,R. Zentner,2
+S. Bell,J. Gbamin,2
+R. Zentner,Y. Muto,2
+D. Brosinski,J. Gbamin,2
+L. \u00d6ztunali,Y. Muto,1
+L. \u00d6ztunali,S. Bell,1
+S. Bell,D. Brosinski,1
+R. Zentner,D. Brosinski,1
+R. Zentner,J. Gbamin,1
+A. Diallo,A. Maxim,1
+J. Gbamin,L. \u00d6ztunali,1
+A. Maxim,D. Brosinski,1
+R. Zentner,S. Bell,1
+P. De Blasis,R. Zentner,1
+J. Gbamin,S. Serdar,1
+G. Donati,S. Serdar,1
+L. \u00d6ztunali,D. Brosinski,1
+J. Gbamin,A. Diallo,1
+G. Donati,P. De Blasis,1
+S. Bell,L. \u00d6ztunali,1
+S. Bell,A. Diallo,1
+S. Serdar,G. Donati,1
+R. Zentner,A. Diallo,1
+Y. Muto,J. Gbamin,1
+A. Diallo,J. Gbamin,1
+L. \u00d6ztunali,G. Donati,1
+S. Bell,G. Donati,1
+D. Brosinski,P. De Blasis,1
+P. De Blasis,J. Gbamin,1
+S. Bell,S. Serdar,1
+A. Maxim,R. Zentner,1
+J. Gbamin,R. Zentner,1
+D. Brosinski,S. Bell,1

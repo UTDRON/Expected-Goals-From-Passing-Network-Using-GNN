@@ -1,0 +1,38 @@
+Source,Target,Weight
+F. Frei,D. Brosinski,3
+P. De Blasis,D. Latza,3
+D. Brosinski,A. Maxim,2
+J. Gbamin,F. Frei,1
+A. Maxim,S. Bell,1
+D. Brosinski,F. Frei,1
+D. Brosinski,A. Diallo,1
+A. Maxim,G. Donati,1
+G. Donati,P. De Blasis,1
+D. Latza,G. Donati,1
+G. Donati,S. Bell,1
+A. Diallo,Y. Muto,1
+R. Adler,P. De Blasis,1
+D. Brosinski,D. Latza,1
+F. Frei,J. Gbamin,1
+A. Diallo,D. Brosinski,1
+D. Brosinski,S. Bell,1
+J. Gbamin,D. Brosinski,1
+D. Latza,F. Frei,1
+S. Bell,A. Diallo,1
+S. Bell,D. Brosinski,1
+D. Brosinski,Y. Muto,1
+D. Brosinski,P. De Blasis,1
+A. Diallo,S. Bell,1
+G. Donati,Y. Muto,1
+P. De Blasis,J. Gbamin,1
+F. Frei,A. Diallo,1
+J. Gbamin,G. Donati,1
+S. Bell,J. Gbamin,1
+S. Bell,P. De Blasis,1
+P. De Blasis,F. Frei,1
+D. Latza,J. Gbamin,1
+D. Latza,S. Bell,1
+Y. Muto,D. Brosinski,1
+J. Gbamin,R. Adler,1
+Y. Muto,P. De Blasis,1
+S. Bell,F. Frei,1

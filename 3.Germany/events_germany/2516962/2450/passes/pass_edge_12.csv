@@ -1,0 +1,41 @@
+Source,Target,Weight
+G. Jung,G. Sakai,4
+Walace,G. Jung,4
+C. Mathenia,R. van Drongelen,4
+Walace,Douglas Santos,3
+R. van Drongelen,C. Mathenia,3
+F. Kosti\u0107,Walace,3
+Douglas Santos,K. Papadopoulos,2
+L. Waldschmidt,Douglas Santos,2
+G. Sakai,G. Jung,2
+R. van Drongelen,Douglas Santos,2
+Douglas Santos,R. van Drongelen,2
+C. Mathenia,G. Jung,2
+K. Papadopoulos,C. Mathenia,2
+Douglas Santos,Walace,2
+G. Jung,C. Mathenia,2
+S. Schipplock,Douglas Santos,1
+S. Schipplock,F. Kosti\u0107,1
+C. Mathenia,K. Papadopoulos,1
+B. Jatta,G. Sakai,1
+G. Sakai,K. Papadopoulos,1
+R. van Drongelen,Walace,1
+K. Papadopoulos,L. Waldschmidt,1
+R. van Drongelen,F. Kosti\u0107,1
+R. van Drongelen,L. Waldschmidt,1
+G. Jung,R. van Drongelen,1
+F. Kosti\u0107,S. Schipplock,1
+K. Papadopoulos,G. Jung,1
+L. Waldschmidt,F. Kosti\u0107,1
+C. Mathenia,L. Waldschmidt,1
+Douglas Santos,L. Waldschmidt,1
+G. Sakai,B. Jatta,1
+G. Jung,Walace,1
+Walace,C. Mathenia,1
+G. Jung,K. Papadopoulos,1
+Douglas Santos,G. Sakai,1
+K. Papadopoulos,Walace,1
+G. Sakai,Walace,1
+Walace,K. Papadopoulos,1
+G. Sakai,F. Kosti\u0107,1
+K. Papadopoulos,S. Schipplock,1

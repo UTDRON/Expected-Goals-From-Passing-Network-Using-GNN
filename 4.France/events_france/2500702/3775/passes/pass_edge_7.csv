@@ -1,0 +1,25 @@
+Source,Target,Weight
+Dante,V. Koziello,4
+V. Koziello,Dante,4
+J. Seri,Dante,3
+Dante,J. Seri,2
+A. Souquet,V. Koziello,2
+M. Le Marchand,J. Seri,2
+J. Seri,M. Le Marchand,2
+M. Sarr,J. Seri,2
+V. Koziello,M. Le Marchand,1
+P. Lees Melou,M. Sarr,1
+A. Saint-Maximin,M. Le Marchand,1
+M. Le Marchand,M. Sarr,1
+J. Seri,A. Saint-Maximin,1
+M. Le Marchand,Dante,1
+M. Sarr,M. Le Marchand,1
+Y. Cardinale,A. Souquet,1
+Dante,M. Le Marchand,1
+V. Koziello,A. Saint-Maximin,1
+Dante,M. Sarr,1
+M. Le Marchand,A. Saint-Maximin,1
+Dante,A. Souquet,1
+M. Le Marchand,Y. Cardinale,1
+A. Saint-Maximin,P. Lees Melou,1
+A. Saint-Maximin,J. Seri,1

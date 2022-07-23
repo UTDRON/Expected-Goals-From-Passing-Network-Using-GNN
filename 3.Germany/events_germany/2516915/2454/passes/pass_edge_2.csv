@@ -1,0 +1,19 @@
+Source,Target,Weight
+L. Stindl,P. Herrmann,3
+N. Elvedi,D. Zakaria,2
+P. Herrmann,L. Stindl,2
+M. Ginter,J. Vestergaard,1
+P. Herrmann,M. Ginter,1
+T. Sippel,L. Stindl,1
+T. Hazard,M. Ginter,1
+J. Vestergaard,T. Sippel,1
+D. Zakaria,N. Elvedi,1
+M. Ginter,T. Sippel,1
+M. Ginter,L. Stindl,1
+D. Zakaria,M. Ginter,1
+L. Stindl,M. Cuisance,1
+T. Sippel,T. Hazard,1
+O. Wendt,P. Herrmann,1
+M. Cuisance,P. Herrmann,1
+P. Herrmann,N. Elvedi,1
+P. Herrmann,T. Hazard,1

@@ -1,0 +1,15 @@
+Source,Target,Weight
+I. Sylla,Som\u00e1lia,1
+I. Sylla,G. Imbula,1
+Y. Sanogo,C. Jullien,1
+Y. Sanogo,Som\u00e1lia,1
+I. Diop,S. Yago,1
+S. Yago,Som\u00e1lia,1
+G. Imbula,Y. Sanogo,1
+C. Jullien,I. Sylla,1
+C. Jullien,A. Lafont,1
+A. Lafont,C. Jullien,1
+Som\u00e1lia,A. Lafont,1
+Som\u00e1lia,Y. Sanogo,1
+A. Lafont,M. Gradel,1
+M. Gradel,I. Sylla,1

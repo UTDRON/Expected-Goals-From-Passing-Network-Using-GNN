@@ -1,0 +1,32 @@
+Source,Target,Weight
+Walace,D. Diekmeier,3
+G. Jung,K. Papadopoulos,3
+D. Diekmeier,L. Holtby,3
+L. Holtby,G. Jung,2
+A. Hahn,Douglas Santos,2
+T. Kn\u00f6ll,Walace,2
+K. Papadopoulos,G. Jung,2
+K. Papadopoulos,D. Diekmeier,2
+G. Jung,Walace,2
+Douglas Santos,Walace,2
+D. Diekmeier,A. Hahn,2
+Walace,K. Papadopoulos,1
+S. Salihovi\u0107,A. Hahn,1
+C. Mathenia,G. Jung,1
+G. Jung,S. Salihovi\u0107,1
+Douglas Santos,L. Holtby,1
+L. Holtby,S. Salihovi\u0107,1
+L. Holtby,T. Kn\u00f6ll,1
+G. Jung,T. Kn\u00f6ll,1
+S. Salihovi\u0107,G. Jung,1
+T. Kn\u00f6ll,S. Salihovi\u0107,1
+L. Holtby,D. Diekmeier,1
+S. Salihovi\u0107,K. Papadopoulos,1
+L. Holtby,Douglas Santos,1
+Walace,T. Kn\u00f6ll,1
+Douglas Santos,G. Jung,1
+D. Diekmeier,Walace,1
+K. Papadopoulos,Douglas Santos,1
+Walace,L. Holtby,1
+Walace,C. Mathenia,1
+G. Jung,L. Holtby,1

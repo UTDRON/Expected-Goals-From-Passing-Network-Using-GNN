@@ -1,0 +1,56 @@
+Source,Target,Weight
+T. Kehrer,Naldo,7
+Naldo,T. Kehrer,5
+Naldo,M. Nastasi\u0107,4
+M. Nastasi\u0107,Naldo,4
+D. Caligiuri,F. Di Santo,4
+Naldo,F. Di Santo,3
+F. Di Santo,M. Meyer,3
+M. Meyer,M. Nastasi\u0107,3
+Y. Konoplyanka,B. Oczipka,3
+B. Oczipka,Y. Konoplyanka,3
+M. Nastasi\u0107,B. Oczipka,3
+F. Di Santo,A. Harit,3
+T. Kehrer,D. Caligiuri,3
+B. Oczipka,F. Di Santo,2
+T. Kehrer,N. Bentaleb,2
+F. Di Santo,T. Kehrer,2
+F. Di Santo,D. Caligiuri,2
+M. Meyer,B. Oczipka,2
+Naldo,M. Meyer,2
+D. Caligiuri,T. Kehrer,2
+N. Bentaleb,M. Meyer,2
+M. Meyer,Naldo,2
+N. Bentaleb,Naldo,2
+N. Bentaleb,T. Kehrer,2
+M. Meyer,N. Bentaleb,2
+B. Oczipka,M. Meyer,2
+A. Harit,D. Caligiuri,2
+D. Caligiuri,N. Bentaleb,2
+M. Meyer,T. Kehrer,1
+F. Di Santo,M. Nastasi\u0107,1
+A. Harit,M. Nastasi\u0107,1
+A. Harit,B. Oczipka,1
+M. Nastasi\u0107,M. Meyer,1
+B. Oczipka,D. Caligiuri,1
+N. Bentaleb,F. Di Santo,1
+Naldo,D. Caligiuri,1
+Y. Konoplyanka,M. Meyer,1
+B. Oczipka,M. Nastasi\u0107,1
+Naldo,B. Oczipka,1
+R. F\u00e4hrmann,Naldo,1
+D. Caligiuri,Y. Konoplyanka,1
+N. Bentaleb,A. Harit,1
+B. Oczipka,N. Bentaleb,1
+D. Caligiuri,A. Harit,1
+T. Kehrer,R. F\u00e4hrmann,1
+N. Bentaleb,D. Caligiuri,1
+F. Di Santo,N. Bentaleb,1
+M. Nastasi\u0107,T. Kehrer,1
+M. Meyer,F. Di Santo,1
+D. Caligiuri,M. Nastasi\u0107,1
+T. Kehrer,F. Di Santo,1
+M. Nastasi\u0107,D. Caligiuri,1
+M. Nastasi\u0107,Y. Konoplyanka,1
+B. Oczipka,T. Kehrer,1
+A. Harit,N. Bentaleb,1

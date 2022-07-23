@@ -1,0 +1,49 @@
+Source,Target,Weight
+J. Vestergaard,M. Ginter,3
+C. Kramer,J. Vestergaard,2
+M. Cuisance,O. Wendt,2
+M. Ginter,Y. Sommer,2
+L. Stindl,N. Elvedi,2
+L. Stindl,C. Kramer,2
+O. Wendt,M. Cuisance,2
+M. Ginter,N. Elvedi,2
+M. Ginter,O. Wendt,2
+L. Stindl,Raffael,2
+Y. Sommer,J. Vestergaard,2
+C. Kramer,L. Stindl,2
+O. Wendt,J. Vestergaard,1
+N. Elvedi,M. Cuisance,1
+C. Kramer,Raffael,1
+F. Johnson,O. Wendt,1
+T. Hazard,F. Johnson,1
+F. Johnson,Raffael,1
+N. Elvedi,F. Johnson,1
+Raffael,L. Stindl,1
+J. Vestergaard,C. Kramer,1
+T. Hazard,M. Ginter,1
+M. Cuisance,J. Vestergaard,1
+O. Wendt,Y. Sommer,1
+F. Johnson,M. Cuisance,1
+N. Elvedi,T. Hazard,1
+N. Elvedi,Raffael,1
+M. Cuisance,L. Stindl,1
+Y. Sommer,L. Stindl,1
+Raffael,O. Wendt,1
+N. Elvedi,L. Stindl,1
+O. Wendt,F. Johnson,1
+N. Elvedi,Y. Sommer,1
+J. Vestergaard,N. Elvedi,1
+Raffael,M. Ginter,1
+N. Elvedi,C. Kramer,1
+Y. Sommer,O. Wendt,1
+M. Cuisance,N. Elvedi,1
+J. Vestergaard,Y. Sommer,1
+J. Vestergaard,M. Cuisance,1
+N. Elvedi,M. Ginter,1
+O. Wendt,N. Elvedi,1
+Raffael,Y. Sommer,1
+O. Wendt,L. Stindl,1
+Y. Sommer,T. Hazard,1
+L. Stindl,J. Vestergaard,1
+Raffael,C. Kramer,1
+Y. Sommer,N. Elvedi,1

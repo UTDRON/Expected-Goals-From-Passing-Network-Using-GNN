@@ -1,0 +1,12 @@
+Source,Target,Weight
+M. Uth,F. Grillitsch,2
+F. Grillitsch,K. Vogt,1
+S. Zuber,K. Vogt,1
+S. Zuber,S. Wagner,1
+S. Wagner,S. Zuber,1
+K. Vogt,S. Wagner,1
+F. Grillitsch,S. Zuber,1
+K. Vogt,M. Uth,1
+B. H\u00fcbner,M. Uth,1
+S. Wagner,B. H\u00fcbner,1
+S. Wagner,F. Grillitsch,1

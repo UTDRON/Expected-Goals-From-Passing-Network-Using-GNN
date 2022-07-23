@@ -1,0 +1,18 @@
+Source,Target,Weight
+P. Burner,B. Srarfi,2
+A. Tameze,P. Burner,2
+M. Sarr,A. Saint-Maximin,1
+B. Srarfi,P. Burner,1
+J. Seri,A. Tameze,1
+P. Lees Melou,J. Seri,1
+A. Saint-Maximin,J. Seri,1
+A. Saint-Maximin,P. Lees Melou,1
+P. Burner,J. Seri,1
+J. Seri,A. Saint-Maximin,1
+B. Srarfi,A. Tameze,1
+J. Seri,M. Sarr,1
+A. Tameze,Marlon,1
+P. Lees Melou,A. Tameze,1
+J. Seri,P. Lees Melou,1
+Marlon,M. Le Marchand,1
+M. Le Marchand,A. Saint-Maximin,1

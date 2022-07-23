@@ -1,0 +1,16 @@
+Source,Target,Weight
+D. Origi,William,2
+D. Didavi,J. Guilavogui,1
+M. G\u00f3mez,D. Didavi,1
+M. G\u00f3mez,D. Origi,1
+F. Uduokhai,Camacho,1
+William,D. Didavi,1
+D. Didavi,K. Casteels,1
+D. Didavi,F. Uduokhai,1
+Camacho,D. Didavi,1
+William,Camacho,1
+J. Guilavogui,William,1
+K. Casteels,M. G\u00f3mez,1
+William,D. Origi,1
+William,M. G\u00f3mez,1
+Camacho,D. Origi,1

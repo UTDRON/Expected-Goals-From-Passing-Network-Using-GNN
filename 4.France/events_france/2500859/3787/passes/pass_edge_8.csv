@@ -1,0 +1,29 @@
+Source,Target,Weight
+Hilton,Pedro Mendes,2
+N. Mukiele,P. Lasne,2
+J. Sambia,E. Skhiri,2
+Pedro Mendes,Hilton,2
+J. Roussillon,J. Sambia,2
+J. Sambia,J. Roussillon,1
+Hilton,P. Lasne,1
+P. Lasne,N. Mukiele,1
+J. Roussillon,P. Lasne,1
+P. Lasne,Hilton,1
+J. Ikon\u00e9,Hilton,1
+P. Lasne,Pedro Mendes,1
+Hilton,J. Sambia,1
+J. Roussillon,Pedro Mendes,1
+J. Ikon\u00e9,J. Sambia,1
+Pedro Mendes,P. Lasne,1
+P. Lasne,J. Roussillon,1
+E. Skhiri,Pedro Mendes,1
+Pedro Mendes,J. Roussillon,1
+N. Mukiele,J. Ikon\u00e9,1
+P. Lasne,J. Sambia,1
+Pedro Mendes,E. Skhiri,1
+J. Sambia,N. Mukiele,1
+E. Skhiri,J. Ikon\u00e9,1
+Hilton,N. Mukiele,1
+J. Ikon\u00e9,J. Roussillon,1
+J. Sambia,Hilton,1
+P. Lasne,J. Ikon\u00e9,1

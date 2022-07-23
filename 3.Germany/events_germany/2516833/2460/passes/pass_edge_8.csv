@@ -1,0 +1,61 @@
+Source,Target,Weight
+P. De Blasis,S. Serdar,3
+P. De Blasis,A. Maxim,3
+P. De Blasis,D. Brosinski,3
+A. Maxim,P. De Blasis,3
+A. Diallo,J. Gbamin,2
+J. Gbamin,Y. Muto,2
+S. Bell,G. Donati,2
+P. De Blasis,J. Gbamin,2
+S. Serdar,P. De Blasis,2
+J. Gbamin,P. De Blasis,2
+D. Brosinski,P. De Blasis,2
+G. Donati,P. De Blasis,2
+A. Diallo,G. Donati,2
+D. Brosinski,A. Diallo,2
+A. Diallo,S. Bell,2
+S. Serdar,L. \u00d6ztunali,2
+G. Donati,S. Bell,1
+R. Zentner,A. Maxim,1
+R. Zentner,S. Serdar,1
+S. Bell,P. De Blasis,1
+G. Donati,A. Maxim,1
+S. Bell,R. Zentner,1
+Y. Muto,A. Diallo,1
+L. \u00d6ztunali,S. Bell,1
+Y. Muto,G. Donati,1
+D. Brosinski,G. Donati,1
+L. \u00d6ztunali,A. Diallo,1
+L. \u00d6ztunali,Y. Muto,1
+A. Maxim,J. Gbamin,1
+A. Diallo,P. De Blasis,1
+S. Bell,S. Serdar,1
+G. Donati,D. Brosinski,1
+D. Brosinski,J. Gbamin,1
+G. Donati,L. \u00d6ztunali,1
+S. Bell,J. Gbamin,1
+G. Donati,A. Diallo,1
+S. Serdar,S. Bell,1
+Y. Muto,P. De Blasis,1
+Y. Muto,D. Brosinski,1
+S. Bell,A. Diallo,1
+D. Brosinski,Y. Muto,1
+P. De Blasis,S. Bell,1
+A. Diallo,A. Maxim,1
+Y. Muto,S. Serdar,1
+S. Bell,D. Brosinski,1
+A. Maxim,D. Brosinski,1
+R. Zentner,S. Bell,1
+J. Gbamin,A. Diallo,1
+J. Gbamin,R. Zentner,1
+G. Donati,R. Zentner,1
+A. Maxim,Y. Muto,1
+P. De Blasis,G. Donati,1
+R. Zentner,Y. Muto,1
+P. De Blasis,R. Zentner,1
+Y. Muto,J. Gbamin,1
+A. Maxim,G. Donati,1
+D. Brosinski,S. Serdar,1
+S. Serdar,A. Diallo,1
+J. Gbamin,A. Maxim,1
+J. Gbamin,S. Bell,1

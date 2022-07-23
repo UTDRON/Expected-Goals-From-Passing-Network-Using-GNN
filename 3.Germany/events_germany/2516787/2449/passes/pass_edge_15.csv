@@ -1,0 +1,41 @@
+Source,Target,Weight
+A. Harit,Y. Konoplyanka,6
+B. Stambouli,R. F\u00e4hrmann,5
+Y. Konoplyanka,T. Kehrer,3
+D. Caligiuri,B. Stambouli,3
+Naldo,M. Nastasi\u0107,3
+R. F\u00e4hrmann,M. Nastasi\u0107,2
+M. Nastasi\u0107,Y. Konoplyanka,2
+B. Embolo,D. Caligiuri,2
+Y. Konoplyanka,D. Caligiuri,2
+T. Kehrer,M. Nastasi\u0107,2
+Y. Konoplyanka,A. Harit,2
+M. Nastasi\u0107,T. Kehrer,2
+Naldo,B. Stambouli,2
+L. Goretzka,R. F\u00e4hrmann,1
+R. F\u00e4hrmann,Y. Konoplyanka,1
+T. Kehrer,A. Harit,1
+L. Goretzka,B. Stambouli,1
+Y. Konoplyanka,M. Nastasi\u0107,1
+Y. Konoplyanka,L. Goretzka,1
+R. F\u00e4hrmann,B. Stambouli,1
+M. Nastasi\u0107,L. Goretzka,1
+M. Nastasi\u0107,A. Harit,1
+R. F\u00e4hrmann,B. Embolo,1
+B. Stambouli,B. Embolo,1
+R. F\u00e4hrmann,Naldo,1
+L. Goretzka,Naldo,1
+Y. Konoplyanka,B. Embolo,1
+T. Kehrer,Y. Konoplyanka,1
+M. Nastasi\u0107,Naldo,1
+T. Kehrer,L. Goretzka,1
+L. Goretzka,A. Harit,1
+L. Goretzka,D. Caligiuri,1
+D. Caligiuri,L. Goretzka,1
+D. Caligiuri,T. Kehrer,1
+L. Goretzka,T. Kehrer,1
+B. Embolo,L. Goretzka,1
+T. Kehrer,B. Stambouli,1
+T. Kehrer,Naldo,1
+B. Stambouli,Naldo,1
+B. Stambouli,A. Harit,1

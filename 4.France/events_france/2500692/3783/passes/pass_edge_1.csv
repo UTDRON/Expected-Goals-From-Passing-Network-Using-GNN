@@ -1,0 +1,25 @@
+Source,Target,Weight
+V. Bessat,H. Bazile,2
+V. Bessat,A. Djiku,2
+J. F\u00e9ret,A. Djiku,2
+A. Djiku,R. Genevois,2
+A. Djiku,J. F\u00e9ret,1
+A. Djiku,R. Rodelin,1
+A. Djiku,V. Bessat,1
+D. Avounou,V. Bessat,1
+R. Genevois,A. Djiku,1
+H. Bazile,D. Avounou,1
+R. Rodelin,V. Bessat,1
+H. Bazile,F. Guilbert,1
+J. F\u00e9ret,V. Bessat,1
+I. Santini,V. Bessat,1
+V. Bessat,J. F\u00e9ret,1
+V. Bessat,I. Santini,1
+F. Guilbert,R. Rodelin,1
+A. Djiku,H. Bazile,1
+H. Bazile,J. Delaplace,1
+R. Rodelin,J. Delaplace,1
+R. Genevois,J. F\u00e9ret,1
+D. Avounou,A. Djiku,1
+J. Delaplace,D. Avounou,1
+J. Delaplace,H. Bazile,1

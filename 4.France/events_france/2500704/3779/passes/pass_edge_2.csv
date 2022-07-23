@@ -1,0 +1,23 @@
+Source,Target,Weight
+Nuno Da Costa,J. Aholou,2
+B. Corgnet,Nuno Da Costa,2
+J. Aholou,K. Lala,1
+J. Aholou,K. Mangane,1
+J. Aholou,B. Corgnet,1
+I. Saadi,J. Aholou,1
+I. Sacko,B. Corgnet,1
+Nuno Da Costa,K. Lala,1
+K. Lala,I. Saadi,1
+Nuno Da Costa,J. Martin,1
+J. Aholou,I. Sacko,1
+K. Lala,K. Mangane,1
+K. Mangane,J. Martin,1
+I. Sacko,Nuno Da Costa,1
+J. Martin,I. Saadi,1
+J. Martin,B. Corgnet,1
+P. Martinez,I. Sacko,1
+K. Mangane,B. Kamara,1
+B. Corgnet,P. Martinez,1
+B. Corgnet,K. Lala,1
+B. Kamara,J. Aholou,1
+K. Lala,Nuno Da Costa,1

@@ -1,0 +1,29 @@
+Source,Target,Weight
+Hilton,D. Congr\u00e9,4
+D. Congr\u00e9,E. Skhiri,2
+D. Congr\u00e9,P. Lasne,2
+D. Congr\u00e9,C. Ninga,2
+R. Aguilar,E. Skhiri,2
+P. Lasne,J. Roussillon,2
+E. Skhiri,D. Congr\u00e9,2
+E. Skhiri,S. Sess\u00e8gnon,2
+J. Roussillon,S. Sess\u00e8gnon,1
+N. Mukiele,Hilton,1
+P. Lasne,D. Congr\u00e9,1
+N. Mukiele,P. Lasne,1
+S. Sess\u00e8gnon,R. Aguilar,1
+C. Ninga,J. Roussillon,1
+N. Mukiele,S. Camara,1
+S. Camara,N. Mukiele,1
+S. Sess\u00e8gnon,N. Mukiele,1
+S. Sess\u00e8gnon,C. Ninga,1
+D. Congr\u00e9,Hilton,1
+E. Skhiri,P. Lasne,1
+P. Lasne,Hilton,1
+C. Ninga,E. Skhiri,1
+C. Ninga,R. Aguilar,1
+J. Roussillon,P. Lasne,1
+R. Aguilar,S. Sess\u00e8gnon,1
+S. Sess\u00e8gnon,D. Congr\u00e9,1
+P. Lasne,N. Mukiele,1
+J. Roussillon,R. Aguilar,1

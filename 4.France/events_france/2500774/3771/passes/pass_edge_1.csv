@@ -1,0 +1,40 @@
+Source,Target,Weight
+H. Sakai,F. Thauvin,4
+H. Sakai,D. Payet,2
+J. Amavi,M. Sanson,2
+F. Thauvin,H. Sakai,2
+D. Payet,F. Thauvin,2
+A. Zambo Anguissa,H. Sakai,2
+K. Mitroglou,H. Sakai,2
+D. Payet,A. Zambo Anguissa,2
+A. Rami,H. Sakai,2
+C. N'Jie,J. Amavi,2
+H. Sakai,K. Mitroglou,1
+M. Sanson,Rolando,1
+Rolando,M. Sanson,1
+A. Rami,M. Sanson,1
+Rolando,A. Rami,1
+F. Thauvin,M. Sanson,1
+J. Amavi,Rolando,1
+J. Amavi,D. Payet,1
+F. Thauvin,K. Mitroglou,1
+K. Mitroglou,D. Payet,1
+F. Thauvin,J. Amavi,1
+M. Sanson,A. Rami,1
+J. Amavi,A. Zambo Anguissa,1
+A. Zambo Anguissa,C. N'Jie,1
+M. Sanson,K. Mitroglou,1
+A. Rami,D. Payet,1
+F. Thauvin,A. Zambo Anguissa,1
+C. N'Jie,F. Thauvin,1
+D. Payet,M. Sanson,1
+A. Zambo Anguissa,A. Rami,1
+M. Sanson,H. Sakai,1
+M. Sanson,C. N'Jie,1
+F. Thauvin,C. N'Jie,1
+A. Zambo Anguissa,D. Payet,1
+H. Sakai,A. Zambo Anguissa,1
+H. Sakai,C. N'Jie,1
+C. N'Jie,K. Mitroglou,1
+M. Sanson,J. Amavi,1
+K. Mitroglou,J. Amavi,1

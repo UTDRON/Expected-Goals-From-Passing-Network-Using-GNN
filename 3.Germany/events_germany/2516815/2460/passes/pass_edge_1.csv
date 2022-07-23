@@ -1,0 +1,100 @@
+Source,Target,Weight
+P. De Blasis,D. Brosinski,9
+D. Brosinski,P. De Blasis,7
+D. Brosinski,D. Latza,7
+G. Donati,L. Balogun,6
+L. \u00d6ztunali,G. Donati,6
+A. Diallo,D. Brosinski,6
+D. Latza,L. Balogun,5
+L. Balogun,G. Donati,5
+G. Donati,D. Latza,5
+D. Latza,P. De Blasis,5
+J. Gbamin,A. Diallo,5
+S. Bell,J. Gbamin,4
+A. Diallo,R. Adler,4
+L. \u00d6ztunali,D. Latza,4
+Y. Muto,L. \u00d6ztunali,4
+J. Gbamin,D. Latza,4
+D. Latza,A. Diallo,4
+P. De Blasis,J. Gbamin,4
+L. Balogun,R. Adler,4
+P. De Blasis,A. Diallo,4
+D. Latza,S. Bell,4
+D. Latza,G. Donati,4
+L. Balogun,A. Diallo,4
+D. Brosinski,L. \u00d6ztunali,4
+Y. Muto,J. Gbamin,4
+L. \u00d6ztunali,L. Balogun,3
+G. Donati,R. Adler,3
+L. Balogun,L. \u00d6ztunali,3
+L. Balogun,Y. Muto,3
+P. De Blasis,G. Donati,3
+S. Bell,G. Donati,3
+A. Diallo,S. Bell,3
+L. \u00d6ztunali,A. Diallo,3
+R. Adler,L. Balogun,3
+G. Donati,J. Gbamin,3
+Y. Muto,P. De Blasis,3
+A. Diallo,Y. Muto,3
+J. Gbamin,L. \u00d6ztunali,3
+A. Diallo,P. De Blasis,3
+G. Donati,L. \u00d6ztunali,3
+P. De Blasis,L. \u00d6ztunali,3
+R. Adler,A. Diallo,2
+A. Diallo,L. Balogun,2
+L. Balogun,P. De Blasis,2
+R. Adler,L. \u00d6ztunali,2
+J. Gbamin,G. Donati,2
+S. Bell,L. Balogun,2
+G. Donati,D. Brosinski,2
+P. De Blasis,L. Balogun,2
+J. Gbamin,S. Bell,2
+L. \u00d6ztunali,P. De Blasis,2
+G. Donati,P. De Blasis,2
+P. De Blasis,D. Latza,2
+J. Gbamin,P. De Blasis,2
+D. Brosinski,S. Bell,2
+A. Diallo,D. Latza,2
+D. Latza,D. Brosinski,2
+D. Brosinski,L. Balogun,2
+R. Adler,P. De Blasis,2
+S. Bell,A. Diallo,2
+S. Bell,Y. Muto,2
+D. Brosinski,A. Diallo,2
+L. Balogun,J. Gbamin,2
+L. \u00d6ztunali,R. Adler,2
+L. \u00d6ztunali,S. Bell,2
+L. Balogun,D. Brosinski,2
+S. Bell,D. Latza,2
+R. Adler,Y. Muto,2
+P. De Blasis,S. Bell,2
+A. Diallo,J. Gbamin,2
+Y. Muto,D. Latza,1
+L. Balogun,D. Latza,1
+A. Diallo,G. Donati,1
+R. Adler,D. Brosinski,1
+D. Latza,J. Gbamin,1
+L. \u00d6ztunali,Y. Muto,1
+A. Diallo,L. \u00d6ztunali,1
+R. Adler,D. Latza,1
+D. Latza,L. \u00d6ztunali,1
+P. De Blasis,Y. Muto,1
+S. Bell,L. \u00d6ztunali,1
+R. Adler,G. Donati,1
+G. Donati,A. Diallo,1
+Y. Muto,S. Bell,1
+D. Latza,R. Adler,1
+D. Brosinski,Y. Muto,1
+J. Gbamin,D. Brosinski,1
+D. Latza,Y. Muto,1
+Y. Muto,L. Balogun,1
+L. Balogun,S. Bell,1
+S. Bell,D. Brosinski,1
+D. Brosinski,G. Donati,1
+S. Bell,P. De Blasis,1
+L. \u00d6ztunali,J. Gbamin,1
+J. Gbamin,Y. Muto,1
+L. \u00d6ztunali,D. Brosinski,1
+Y. Muto,D. Brosinski,1
+G. Donati,S. Bell,1
+J. Gbamin,L. Balogun,1

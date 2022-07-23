@@ -1,0 +1,32 @@
+Source,Target,Weight
+C. Yamber\u00e9,Xeka,3
+Xeka,C. Yamber\u00e9,3
+O. Haddadi,F. Sammaritano,2
+B. Reynet,Xeka,2
+P. Djilobodji,Xeka,2
+F. Sammaritano,P. Djilobodji,2
+V. Rosier,C. Yamber\u00e9,2
+F. Balmont,Kwon Chang-Hoon,2
+Xeka,B. Reynet,2
+B. Reynet,C. Yamber\u00e9,2
+F. Sammaritano,V. Rosier,1
+Kwon Chang-Hoon,Xeka,1
+Xeka,P. Djilobodji,1
+Kwon Chang-Hoon,M. Abeid,1
+Xeka,F. Sammaritano,1
+C. Yamber\u00e9,F. Balmont,1
+Kwon Chang-Hoon,O. Haddadi,1
+V. Rosier,F. Balmont,1
+C. Yamber\u00e9,V. Rosier,1
+V. Rosier,M. Abeid,1
+P. Djilobodji,M. Abeid,1
+M. Abeid,Kwon Chang-Hoon,1
+M. Abeid,O. Haddadi,1
+Kwon Chang-Hoon,B. Reynet,1
+P. Djilobodji,C. Yamber\u00e9,1
+M. Abeid,V. Rosier,1
+C. Yamber\u00e9,Kwon Chang-Hoon,1
+C. Yamber\u00e9,B. Reynet,1
+B. Reynet,P. Djilobodji,1
+C. Yamber\u00e9,P. Djilobodji,1
+P. Djilobodji,B. Reynet,1

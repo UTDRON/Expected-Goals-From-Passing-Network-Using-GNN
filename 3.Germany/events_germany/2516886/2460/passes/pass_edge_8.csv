@@ -1,0 +1,50 @@
+Source,Target,Weight
+P. De Blasis,A. Diallo,3
+G. Holtmann,A. Diallo,3
+F. Frei,A. Maxim,3
+A. Maxim,P. De Blasis,3
+A. Maxim,L. \u00d6ztunali,3
+D. Brosinski,E. Berggreen,3
+A. Maxim,G. Donati,3
+L. \u00d6ztunali,G. Donati,3
+D. Brosinski,A. Maxim,2
+P. De Blasis,G. Holtmann,2
+G. Donati,A. Maxim,2
+P. De Blasis,R. Zentner,2
+G. Donati,E. Berggreen,2
+A. Diallo,E. Berggreen,2
+A. Diallo,A. Maxim,2
+E. Berggreen,A. Diallo,2
+P. De Blasis,D. Brosinski,2
+A. Diallo,G. Holtmann,2
+D. Brosinski,P. De Blasis,2
+G. Donati,F. Frei,2
+A. Maxim,D. Brosinski,2
+L. \u00d6ztunali,A. Maxim,2
+P. De Blasis,R. Quaison,2
+G. Holtmann,P. De Blasis,2
+E. Berggreen,D. Brosinski,2
+R. Zentner,D. Brosinski,1
+G. Holtmann,E. Berggreen,1
+A. Maxim,G. Holtmann,1
+E. Berggreen,G. Holtmann,1
+A. Diallo,R. Quaison,1
+A. Diallo,F. Frei,1
+A. Diallo,D. Brosinski,1
+D. Brosinski,F. Frei,1
+R. Quaison,R. Zentner,1
+R. Quaison,P. De Blasis,1
+R. Zentner,A. Diallo,1
+E. Berggreen,L. \u00d6ztunali,1
+A. Diallo,P. De Blasis,1
+E. Berggreen,R. Zentner,1
+D. Brosinski,A. Diallo,1
+A. Diallo,G. Donati,1
+E. Berggreen,A. Maxim,1
+G. Donati,P. De Blasis,1
+F. Frei,P. De Blasis,1
+G. Holtmann,D. Brosinski,1
+R. Quaison,A. Maxim,1
+R. Zentner,F. Frei,1
+F. Frei,G. Holtmann,1
+R. Zentner,L. \u00d6ztunali,1

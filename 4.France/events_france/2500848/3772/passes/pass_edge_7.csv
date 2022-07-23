@@ -1,0 +1,53 @@
+Source,Target,Weight
+Y. Sankhar\u00e9,Y. Sabaly,7
+Y. Sabaly,F. Kamano,5
+V. Jovanovi\u0107,J. Toulalan,4
+J. Toulalan,Y. Sabaly,4
+Y. Sankhar\u00e9,J. Toulalan,4
+F. Kamano,V. Vada,3
+Y. Sankhar\u00e9,F. Kamano,3
+Y. Sabaly,Y. Sankhar\u00e9,3
+F. Kamano,Y. Sankhar\u00e9,3
+J. Toulalan,Y. Sankhar\u00e9,3
+J. Pla\u0161il,Y. Sankhar\u00e9,3
+J. Toulalan,T. Carrique,2
+N. de Pr\u00e9ville,T. Carrique,2
+Y. Sabaly,V. Vada,2
+V. Vada,F. Kamano,2
+T. Carrique,Y. Sankhar\u00e9,2
+Y. Sabaly,J. Toulalan,2
+N. de Pr\u00e9ville,V. Jovanovi\u0107,2
+V. Jovanovi\u0107,Y. Sankhar\u00e9,2
+F. Kamano,Y. Sabaly,2
+Y. Sankhar\u00e9,L. Lerager,2
+T. Carrique,V. Jovanovi\u0107,2
+L. Lerager,J. Toulalan,2
+A. Mendy,V. Jovanovi\u0107,1
+Y. Sankhar\u00e9,N. de Pr\u00e9ville,1
+J. Toulalan,A. Mendy,1
+L. Lerager,Y. Sankhar\u00e9,1
+V. Jovanovi\u0107,B. Costil,1
+V. Vada,L. Lerager,1
+V. Jovanovi\u0107,T. Carrique,1
+J. Pla\u0161il,F. Kamano,1
+N. de Pr\u00e9ville,V. Vada,1
+J. Toulalan,V. Jovanovi\u0107,1
+V. Vada,B. Costil,1
+F. Kamano,N. de Pr\u00e9ville,1
+F. Kamano,J. Pla\u0161il,1
+Y. Sabaly,J. Pla\u0161il,1
+B. Costil,V. Jovanovi\u0107,1
+B. Costil,Y. Sabaly,1
+Y. Sankhar\u00e9,V. Jovanovi\u0107,1
+J. Toulalan,J. Pla\u0161il,1
+V. Jovanovi\u0107,N. de Pr\u00e9ville,1
+L. Lerager,J. Pla\u0161il,1
+V. Vada,Y. Sankhar\u00e9,1
+V. Vada,V. Jovanovi\u0107,1
+Y. Sabaly,T. Carrique,1
+T. Carrique,L. Lerager,1
+J. Toulalan,N. de Pr\u00e9ville,1
+V. Jovanovi\u0107,L. Lerager,1
+L. Lerager,V. Jovanovi\u0107,1
+T. Carrique,N. de Pr\u00e9ville,1
+F. Kamano,J. Toulalan,1

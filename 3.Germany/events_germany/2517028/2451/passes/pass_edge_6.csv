@@ -1,0 +1,18 @@
+Source,Target,Weight
+R. Steffen,J. Brekalo,1
+William,D. Origi,1
+F. Uduokhai,J. Guilavogui,1
+R. Steffen,F. Uduokhai,1
+J. Bruma,K. Casteels,1
+L. Dimata,J. Brekalo,1
+J. Brekalo,R. Steffen,1
+D. Origi,K. Casteels,1
+J. Brekalo,L. Dimata,1
+J. Guilavogui,F. Uduokhai,1
+K. Casteels,R. Steffen,1
+F. Uduokhai,J. Bruma,1
+William,J. Bruma,1
+F. Uduokhai,William,1
+J. Bruma,J. Guilavogui,1
+K. Casteels,William,1
+J. Guilavogui,L. Dimata,1

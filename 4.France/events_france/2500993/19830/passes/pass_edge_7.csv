@@ -1,0 +1,37 @@
+Source,Target,Weight
+T. Lemar,Rony Lopes,3
+K. N'Doram,A. Diakhaby,2
+A. Raggi,Jemerson,2
+K. Glik,Fabinho,2
+T. Lemar,K. N'Doram,2
+Rony Lopes,T. Lemar,2
+A. Raggi,K. N'Doram,2
+R. Falcao,A. Diakhaby,2
+A. Diakhaby,A. Raggi,2
+A. Raggi,A. Diakhaby,2
+K. N'Doram,A. Raggi,1
+Rony Lopes,D. Sidib\u00e9,1
+K. Glik,D. Suba\u0161i\u0107,1
+D. Suba\u0161i\u0107,A. Raggi,1
+Jemerson,A. Diakhaby,1
+A. Raggi,Fabinho,1
+K. N'Doram,R. Falcao,1
+A. Diakhaby,K. N'Doram,1
+T. Lemar,K. Glik,1
+Fabinho,R. Falcao,1
+Fabinho,K. Glik,1
+K. N'Doram,Rony Lopes,1
+Jemerson,A. Raggi,1
+R. Falcao,T. Lemar,1
+A. Diakhaby,K. Glik,1
+D. Sidib\u00e9,K. Glik,1
+A. Diakhaby,T. Lemar,1
+D. Sidib\u00e9,Fabinho,1
+R. Falcao,A. Raggi,1
+K. Glik,T. Lemar,1
+A. Diakhaby,R. Falcao,1
+Rony Lopes,K. Glik,1
+Fabinho,D. Sidib\u00e9,1
+Fabinho,T. Lemar,1
+A. Diakhaby,D. Sidib\u00e9,1
+D. Sidib\u00e9,R. Falcao,1

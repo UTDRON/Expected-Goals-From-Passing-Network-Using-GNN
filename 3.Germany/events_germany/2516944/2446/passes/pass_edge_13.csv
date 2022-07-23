@@ -1,0 +1,22 @@
+Source,Target,Weight
+L. Alario,K. Volland,2
+C. Ar\u00e1nguiz,L. Alario,1
+L. Alario,C. Ar\u00e1nguiz,1
+B. Henrichs,K. Volland,1
+D. Kohr,L. Alario,1
+P. Retsos,B. Leno,1
+B. Henrichs,P. Retsos,1
+K. Volland,D. Kohr,1
+K. Volland,L. Alario,1
+K. Volland,T. Jedvaj,1
+P. Retsos,C. Ar\u00e1nguiz,1
+C. Ar\u00e1nguiz,D. Kohr,1
+T. Jedvaj,C. Ar\u00e1nguiz,1
+D. Kohr,L. Bailey,1
+L. Alario,P. Retsos,1
+C. Ar\u00e1nguiz,K. Havertz,1
+B. Henrichs,L. Alario,1
+L. Bailey,K. Volland,1
+B. Leno,L. Alario,1
+K. Havertz,B. Henrichs,1
+K. Volland,B. Henrichs,1

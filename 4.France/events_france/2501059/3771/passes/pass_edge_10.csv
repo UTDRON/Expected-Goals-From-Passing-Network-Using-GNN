@@ -1,0 +1,19 @@
+Source,Target,Weight
+M. Lopez,B. Sarr,3
+B. Kamara,S. Mandanda,2
+M. Sanson,M. Lopez,2
+M. Lopez,M. Sanson,2
+M. Sanson,F. Thauvin,2
+M. Lopez,Luiz Gustavo,1
+F. Thauvin,Rolando,1
+L. Ocampos,Luiz Gustavo,1
+Luiz Gustavo,M. Sanson,1
+S. Mandanda,M. Sanson,1
+Luiz Gustavo,M. Lopez,1
+B. Sarr,M. Lopez,1
+F. Thauvin,M. Lopez,1
+B. Sarr,H. Sakai,1
+B. Sarr,Luiz Gustavo,1
+H. Sakai,B. Kamara,1
+Rolando,B. Kamara,1
+S. Mandanda,L. Ocampos,1

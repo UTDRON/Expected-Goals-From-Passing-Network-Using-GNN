@@ -1,0 +1,65 @@
+Source,Target,Weight
+J. Ikon\u00e9,J. Roussillon,6
+Pedro Mendes,N. Mukiele,6
+P. Lasne,J. Roussillon,5
+N. Mukiele,Pedro Mendes,5
+J. Roussillon,J. Ikon\u00e9,5
+J. Roussillon,I. Mbenza,4
+I. Mbenza,N. Mukiele,4
+J. Roussillon,G. Sio,3
+J. Roussillon,Hilton,3
+N. Mukiele,J. Ikon\u00e9,3
+N. Mukiele,E. Skhiri,3
+Pedro Mendes,P. Lasne,3
+Pedro Mendes,J. Roussillon,3
+K. B\u00e9rigaud,J. Roussillon,3
+P. Lasne,Pedro Mendes,3
+N. Mukiele,K. B\u00e9rigaud,3
+I. Mbenza,Pedro Mendes,2
+G. Sio,Pedro Mendes,2
+Hilton,Pedro Mendes,2
+Pedro Mendes,Hilton,2
+Pedro Mendes,K. B\u00e9rigaud,2
+P. Lasne,Hilton,2
+Hilton,N. Mukiele,2
+E. Skhiri,J. Ikon\u00e9,2
+J. Roussillon,K. B\u00e9rigaud,2
+K. B\u00e9rigaud,E. Skhiri,2
+Hilton,K. B\u00e9rigaud,2
+Hilton,B. Lecomte,2
+E. Skhiri,N. Mukiele,2
+N. Mukiele,Hilton,2
+P. Lasne,I. Mbenza,2
+J. Roussillon,P. Lasne,2
+Hilton,J. Roussillon,2
+I. Mbenza,J. Roussillon,2
+E. Skhiri,P. Lasne,2
+E. Skhiri,Hilton,2
+E. Skhiri,I. Mbenza,1
+P. Lasne,E. Skhiri,1
+I. Mbenza,J. Ikon\u00e9,1
+G. Sio,E. Skhiri,1
+K. B\u00e9rigaud,N. Mukiele,1
+Hilton,P. Lasne,1
+E. Skhiri,Pedro Mendes,1
+B. Lecomte,Pedro Mendes,1
+J. Roussillon,E. Skhiri,1
+G. Sio,J. Ikon\u00e9,1
+K. B\u00e9rigaud,Pedro Mendes,1
+B. Lecomte,G. Sio,1
+Hilton,I. Mbenza,1
+J. Ikon\u00e9,Pedro Mendes,1
+G. Sio,N. Mukiele,1
+J. Ikon\u00e9,G. Sio,1
+K. B\u00e9rigaud,P. Lasne,1
+I. Mbenza,E. Skhiri,1
+J. Ikon\u00e9,Hilton,1
+J. Roussillon,N. Mukiele,1
+Pedro Mendes,I. Mbenza,1
+I. Mbenza,P. Lasne,1
+K. B\u00e9rigaud,I. Mbenza,1
+G. Sio,P. Lasne,1
+Pedro Mendes,G. Sio,1
+J. Ikon\u00e9,E. Skhiri,1
+N. Mukiele,I. Mbenza,1
+J. Ikon\u00e9,P. Lasne,1

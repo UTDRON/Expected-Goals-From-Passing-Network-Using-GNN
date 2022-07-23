@@ -1,0 +1,49 @@
+Source,Target,Weight
+R. Cohade,Y. Jouffre,4
+Y. Jouffre,J. Rivierez,4
+J. Rivierez,F. Diagne,2
+J. Rivierez,R. Cohade,2
+N. Roux,Y. Jouffre,2
+M. Niakhat\u00e9,T. Didillon,2
+Y. Jouffre,N. Roux,2
+F. Diagne,Y. Jouffre,2
+B. Assou-Ekotto,N. Roux,1
+A. Jallow,Y. Jouffre,1
+J. Rivierez,N. Roux,1
+Y. Jouffre,Caf\u00fa,1
+Caf\u00fa,A. Jallow,1
+F. Diagne,J. Rivierez,1
+J. Rivierez,M. Niakhat\u00e9,1
+T. Didillon,G. Poblete,1
+Y. Jouffre,R. Cohade,1
+G. Poblete,Y. Jouffre,1
+Caf\u00fa,B. Assou-Ekotto,1
+Y. Jouffre,I. Niane,1
+M. Niakhat\u00e9,G. Poblete,1
+G. Poblete,R. Cohade,1
+N. Roux,A. Jallow,1
+F. Diagne,G. Poblete,1
+M. Udol,Caf\u00fa,1
+R. Cohade,J. Rivierez,1
+N. Roux,M. Udol,1
+Y. Jouffre,M. Udol,1
+B. Assou-Ekotto,Y. Jouffre,1
+Caf\u00fa,F. Diagne,1
+Y. Jouffre,F. Diagne,1
+G. Poblete,M. Udol,1
+J. Rivierez,I. Niane,1
+G. Poblete,Caf\u00fa,1
+A. Jallow,M. Niakhat\u00e9,1
+T. Didillon,R. Cohade,1
+Y. Jouffre,G. Poblete,1
+R. Cohade,N. Roux,1
+M. Niakhat\u00e9,Y. Jouffre,1
+Y. Jouffre,M. Niakhat\u00e9,1
+J. Rivierez,Y. Jouffre,1
+J. Rivierez,B. Assou-Ekotto,1
+Caf\u00fa,J. Rivierez,1
+N. Roux,Caf\u00fa,1
+M. Udol,F. Diagne,1
+M. Udol,J. Rivierez,1
+F. Diagne,M. Niakhat\u00e9,1
+I. Niane,R. Cohade,1

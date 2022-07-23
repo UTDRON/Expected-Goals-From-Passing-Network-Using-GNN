@@ -1,0 +1,63 @@
+Source,Target,Weight
+N. de Jong,J. Gbamin,4
+N. de Jong,P. De Blasis,3
+A. Diallo,P. De Blasis,3
+P. De Blasis,D. Brosinski,3
+P. De Blasis,R. Baku,3
+A. Diallo,Y. Muto,3
+D. Brosinski,J. Gbamin,3
+J. Gbamin,D. Brosinski,3
+L. \u00d6ztunali,P. De Blasis,3
+Y. Muto,P. De Blasis,2
+J. Gbamin,A. Diallo,2
+L. \u00d6ztunali,J. Gbamin,2
+D. Brosinski,Y. Muto,2
+Y. Muto,S. Bell,2
+A. Hack,L. \u00d6ztunali,2
+L. \u00d6ztunali,A. Diallo,2
+Y. Muto,N. de Jong,2
+R. Baku,A. Diallo,2
+P. De Blasis,N. de Jong,2
+P. De Blasis,A. Diallo,2
+A. Diallo,R. Baku,2
+P. De Blasis,A. Hack,2
+J. Gbamin,L. \u00d6ztunali,2
+P. De Blasis,S. Bell,1
+S. Bell,D. Brosinski,1
+L. \u00d6ztunali,D. Brosinski,1
+S. Bell,N. de Jong,1
+Y. Muto,L. \u00d6ztunali,1
+L. \u00d6ztunali,Y. Muto,1
+A. Hack,A. Diallo,1
+R. Baku,J. Gbamin,1
+N. de Jong,R. Baku,1
+R. Adler,R. Baku,1
+R. Adler,D. Brosinski,1
+A. Hack,D. Brosinski,1
+A. Hack,R. Adler,1
+A. Diallo,S. Bell,1
+A. Hack,N. de Jong,1
+R. Baku,R. Adler,1
+D. Brosinski,N. de Jong,1
+N. de Jong,L. \u00d6ztunali,1
+J. Gbamin,Y. Muto,1
+D. Brosinski,R. Adler,1
+D. Brosinski,P. De Blasis,1
+R. Baku,N. de Jong,1
+J. Gbamin,N. de Jong,1
+Y. Muto,A. Diallo,1
+S. Bell,A. Hack,1
+R. Baku,Y. Muto,1
+Y. Muto,R. Baku,1
+R. Baku,A. Hack,1
+N. de Jong,Y. Muto,1
+S. Bell,L. \u00d6ztunali,1
+R. Baku,P. De Blasis,1
+D. Brosinski,L. \u00d6ztunali,1
+S. Bell,P. De Blasis,1
+P. De Blasis,L. \u00d6ztunali,1
+D. Brosinski,S. Bell,1
+R. Adler,N. de Jong,1
+N. de Jong,A. Hack,1
+A. Diallo,N. de Jong,1
+A. Diallo,A. Hack,1

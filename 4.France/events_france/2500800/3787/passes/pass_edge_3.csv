@@ -1,0 +1,79 @@
+Source,Target,Weight
+M. Poaty,D. Congr\u00e9,7
+N. Mukiele,E. Skhiri,7
+E. Skhiri,S. Sess\u00e8gnon,7
+D. Congr\u00e9,M. Poaty,6
+D. Congr\u00e9,Hilton,5
+E. Skhiri,Hilton,5
+S. Sess\u00e8gnon,Pedro Mendes,5
+S. Sess\u00e8gnon,E. Skhiri,5
+N. Mukiele,S. Sess\u00e8gnon,5
+D. Congr\u00e9,P. Lasne,5
+E. Skhiri,D. Congr\u00e9,4
+Pedro Mendes,S. Camara,4
+P. Lasne,D. Congr\u00e9,4
+N. Mukiele,D. Congr\u00e9,4
+S. Camara,E. Skhiri,4
+S. Sess\u00e8gnon,N. Mukiele,4
+Pedro Mendes,N. Mukiele,4
+M. Poaty,E. Skhiri,3
+M. Poaty,P. Lasne,3
+D. Congr\u00e9,Pedro Mendes,3
+P. Lasne,S. Sess\u00e8gnon,3
+Pedro Mendes,B. Lecomte,3
+D. Congr\u00e9,B. Lecomte,3
+E. Skhiri,P. Lasne,3
+P. Lasne,Pedro Mendes,3
+S. Camara,M. Poaty,3
+Hilton,Pedro Mendes,3
+E. Skhiri,N. Mukiele,3
+Hilton,N. Mukiele,3
+E. Skhiri,Pedro Mendes,3
+Pedro Mendes,S. Sess\u00e8gnon,3
+Pedro Mendes,E. Skhiri,3
+P. Lasne,N. Mukiele,3
+Hilton,D. Congr\u00e9,3
+B. Lecomte,N. Mukiele,2
+N. Mukiele,P. Lasne,2
+Hilton,P. Lasne,2
+E. Skhiri,S. Camara,2
+S. Sess\u00e8gnon,S. Camara,2
+Hilton,E. Skhiri,2
+S. Camara,D. Congr\u00e9,2
+D. Congr\u00e9,N. Mukiele,2
+M. Poaty,I. Mbenza,2
+P. Lasne,E. Skhiri,2
+N. Mukiele,Pedro Mendes,2
+B. Lecomte,Hilton,2
+Hilton,M. Poaty,2
+B. Lecomte,S. Camara,2
+Pedro Mendes,P. Lasne,2
+N. Mukiele,Hilton,2
+I. Mbenza,M. Poaty,2
+P. Lasne,Hilton,1
+B. Lecomte,D. Congr\u00e9,1
+B. Lecomte,Pedro Mendes,1
+S. Sess\u00e8gnon,P. Lasne,1
+M. Poaty,S. Sess\u00e8gnon,1
+E. Skhiri,B. Lecomte,1
+D. Congr\u00e9,S. Camara,1
+D. Congr\u00e9,S. Sess\u00e8gnon,1
+S. Sess\u00e8gnon,D. Congr\u00e9,1
+S. Sess\u00e8gnon,Hilton,1
+B. Lecomte,M. Poaty,1
+S. Camara,B. Lecomte,1
+Hilton,I. Mbenza,1
+S. Camara,N. Mukiele,1
+P. Lasne,M. Poaty,1
+S. Sess\u00e8gnon,M. Poaty,1
+Hilton,S. Sess\u00e8gnon,1
+Pedro Mendes,D. Congr\u00e9,1
+P. Lasne,S. Camara,1
+E. Skhiri,M. Poaty,1
+M. Poaty,Hilton,1
+S. Camara,Hilton,1
+I. Mbenza,E. Skhiri,1
+I. Mbenza,Pedro Mendes,1
+Pedro Mendes,I. Mbenza,1
+D. Congr\u00e9,E. Skhiri,1
+Hilton,B. Lecomte,1

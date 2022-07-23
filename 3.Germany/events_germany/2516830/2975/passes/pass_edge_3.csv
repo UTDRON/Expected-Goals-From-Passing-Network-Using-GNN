@@ -1,0 +1,19 @@
+Source,Target,Weight
+K. Laimer,M. Sabitzer,3
+M. Halstenberg,Bruma,2
+K. Laimer,M. Halstenberg,2
+M. Sabitzer,T. Werner,2
+D. Demme,K. Laimer,2
+K. Laimer,D. Demme,1
+T. Werner,I. Konat\u00e9,1
+M. Sabitzer,Y. Poulsen,1
+M. Sabitzer,P. Gul\u00e1csi,1
+Y. Poulsen,K. Laimer,1
+Bruma,K. Laimer,1
+P. Gul\u00e1csi,K. Laimer,1
+Bruma,D. Demme,1
+M. Sabitzer,D. Demme,1
+T. Werner,M. Sabitzer,1
+D. Demme,M. Sabitzer,1
+I. Konat\u00e9,K. Laimer,1
+T. Werner,D. Demme,1

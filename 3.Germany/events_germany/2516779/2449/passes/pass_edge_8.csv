@@ -1,0 +1,32 @@
+Source,Target,Weight
+N. Bentaleb,Y. Konoplyanka,3
+D. Caligiuri,T. Kehrer,2
+Naldo,D. Caligiuri,2
+Naldo,N. Bentaleb,2
+B. Oczipka,G. Burgstaller,2
+T. Kehrer,L. Goretzka,2
+Y. Konoplyanka,B. Oczipka,1
+Y. Konoplyanka,Naldo,1
+D. Caligiuri,B. Embolo,1
+L. Goretzka,B. Embolo,1
+B. Embolo,Naldo,1
+T. Kehrer,D. Caligiuri,1
+G. Burgstaller,Y. Konoplyanka,1
+T. Kehrer,Naldo,1
+D. Caligiuri,M. Nastasi\u0107,1
+R. F\u00e4hrmann,N. Bentaleb,1
+Y. Konoplyanka,D. Caligiuri,1
+M. Nastasi\u0107,B. Oczipka,1
+N. Bentaleb,T. Kehrer,1
+G. Burgstaller,T. Kehrer,1
+L. Goretzka,Naldo,1
+Y. Konoplyanka,N. Bentaleb,1
+N. Bentaleb,M. Nastasi\u0107,1
+T. Kehrer,R. F\u00e4hrmann,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+R. F\u00e4hrmann,T. Kehrer,1
+B. Embolo,N. Bentaleb,1
+T. Kehrer,N. Bentaleb,1
+L. Goretzka,R. F\u00e4hrmann,1
+N. Bentaleb,L. Goretzka,1
+R. F\u00e4hrmann,G. Burgstaller,1

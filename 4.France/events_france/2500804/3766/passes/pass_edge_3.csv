@@ -1,0 +1,22 @@
+Source,Target,Weight
+L. Tousart,K. Tete,2
+N. Fekir,L. Tousart,2
+Mar\u00e7al,J. Morel,1
+K. Tete,Marcelo,1
+K. Tete,B. Traor\u00e9,1
+B. Traor\u00e9,K. Tete,1
+Marcelo,N. Fekir,1
+M. Depay,J. Morel,1
+J. Morel,Marcelo,1
+K. Tete,M. Depay,1
+Marcelo,J. Morel,1
+J. Morel,H. Aouar,1
+B. Traor\u00e9,L. Tousart,1
+J. Morel,Mar\u00e7al,1
+L. Tousart,Marcelo,1
+Mar\u00e7al,N. Fekir,1
+H. Aouar,N. Fekir,1
+Marcelo,Mar\u00e7al,1
+Marcelo,H. Aouar,1
+N. Fekir,B. Traor\u00e9,1
+H. Aouar,M. Depay,1

@@ -1,0 +1,80 @@
+Source,Target,Weight
+S. Papastathopoulos,\u0141. Piszczek,12
+\u0141. Piszczek,S. Papastathopoulos,8
+M. Dahoud,N. \u015eahin,7
+\u0141. Piszczek,C. Pulisic,7
+S. Papastathopoulos,R. B\u00fcrki,7
+R. B\u00fcrki,Bartra,7
+Bartra,S. Papastathopoulos,6
+R. B\u00fcrki,S. Papastathopoulos,6
+S. Papastathopoulos,Bartra,6
+N. \u015eahin,S. Papastathopoulos,5
+N. \u015eahin,G. Castro,4
+Bartra,R. B\u00fcrki,4
+M. Philipp,D. Zagadou,4
+S. Papastathopoulos,P. Aubameyang,3
+Bartra,D. Zagadou,3
+Bartra,\u0141. Piszczek,3
+N. \u015eahin,M. Dahoud,3
+D. Zagadou,P. Aubameyang,3
+Bartra,N. \u015eahin,3
+G. Castro,S. Papastathopoulos,3
+M. Dahoud,Bartra,3
+P. Aubameyang,S. Papastathopoulos,3
+G. Castro,N. \u015eahin,3
+\u0141. Piszczek,R. B\u00fcrki,3
+C. Pulisic,M. Dahoud,3
+D. Zagadou,R. B\u00fcrki,2
+S. Papastathopoulos,G. Castro,2
+N. \u015eahin,F. Passlack,2
+G. Castro,P. Aubameyang,2
+F. Passlack,N. \u015eahin,2
+\u0141. Piszczek,Bartra,2
+Bartra,M. Philipp,2
+C. Pulisic,Bartra,2
+C. Pulisic,\u0141. Piszczek,2
+R. B\u00fcrki,\u0141. Piszczek,2
+M. Dahoud,G. Castro,2
+D. Zagadou,Bartra,2
+Bartra,M. Dahoud,2
+G. Castro,D. Zagadou,2
+C. Pulisic,G. Castro,2
+P. Aubameyang,G. Castro,2
+M. Philipp,F. Passlack,2
+F. Passlack,M. Dahoud,2
+F. Passlack,M. Philipp,2
+N. \u015eahin,\u0141. Piszczek,2
+S. Papastathopoulos,N. \u015eahin,2
+D. Zagadou,M. Dahoud,2
+\u0141. Piszczek,D. Zagadou,1
+Bartra,F. Passlack,1
+S. Papastathopoulos,M. Dahoud,1
+N. \u015eahin,R. B\u00fcrki,1
+\u0141. Piszczek,M. Philipp,1
+R. B\u00fcrki,P. Aubameyang,1
+G. Castro,R. B\u00fcrki,1
+P. Aubameyang,D. Zagadou,1
+P. Aubameyang,M. Philipp,1
+P. Aubameyang,M. Dahoud,1
+D. Zagadou,M. Philipp,1
+R. B\u00fcrki,C. Pulisic,1
+M. Dahoud,M. Philipp,1
+M. Philipp,G. Castro,1
+G. Castro,\u0141. Piszczek,1
+D. Zagadou,N. \u015eahin,1
+N. \u015eahin,Bartra,1
+P. Aubameyang,N. \u015eahin,1
+N. \u015eahin,P. Aubameyang,1
+D. Zagadou,S. Papastathopoulos,1
+N. \u015eahin,D. Zagadou,1
+G. Castro,C. Pulisic,1
+F. Passlack,R. B\u00fcrki,1
+D. Zagadou,G. Castro,1
+R. B\u00fcrki,M. Philipp,1
+R. B\u00fcrki,F. Passlack,1
+M. Philipp,M. Dahoud,1
+C. Pulisic,S. Papastathopoulos,1
+G. Castro,F. Passlack,1
+M. Dahoud,D. Zagadou,1
+M. Dahoud,C. Pulisic,1
+M. Philipp,N. \u015eahin,1

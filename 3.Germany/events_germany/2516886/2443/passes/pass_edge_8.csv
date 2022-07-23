@@ -1,0 +1,99 @@
+Source,Target,Weight
+R. Bauer,I. Belfodil,7
+T. Delaney,F. Kainz,6
+I. Belfodil,T. Delaney,6
+L. Augustinsson,T. Delaney,5
+T. Delaney,I. Belfodil,5
+F. Kainz,L. Augustinsson,5
+P. Bargfrede,R. Bauer,5
+R. Bauer,M. Eggestein,4
+F. Kainz,T. Delaney,4
+I. Belfodil,L. Augustinsson,4
+J. Pavlenka,I. Belfodil,4
+F. Kainz,P. Bargfrede,4
+M. Eggestein,F. Kainz,4
+M. Eggestein,M. Veljkovic,4
+L. Augustinsson,F. Kainz,4
+R. Bauer,M. Veljkovic,4
+R. Bauer,T. Gebre Selassie,4
+T. Gebre Selassie,I. Belfodil,3
+L. Augustinsson,P. Bargfrede,3
+M. Eggestein,T. Gebre Selassie,3
+P. Bargfrede,T. Gebre Selassie,3
+T. Gebre Selassie,P. Bargfrede,3
+M. Veljkovic,R. Bauer,3
+F. Kainz,R. Bauer,3
+I. Belfodil,T. Gebre Selassie,3
+T. Gebre Selassie,R. Bauer,3
+M. Veljkovic,T. Gebre Selassie,3
+T. Gebre Selassie,M. Veljkovic,3
+M. Veljkovic,J. Pavlenka,3
+M. Veljkovic,P. Bargfrede,3
+M. Veljkovic,I. Belfodil,3
+T. Delaney,M. Veljkovic,3
+I. Belfodil,R. Bauer,3
+P. Bargfrede,M. Eggestein,3
+I. Belfodil,M. Veljkovic,2
+P. Bargfrede,F. Kainz,2
+M. Veljkovic,N. Moisander,2
+F. Kainz,N. Moisander,2
+T. Gebre Selassie,T. Delaney,2
+I. Belfodil,F. Kainz,2
+T. Delaney,T. Gebre Selassie,2
+I. Belfodil,M. Eggestein,2
+T. Delaney,M. Eggestein,2
+N. Moisander,M. Veljkovic,2
+N. Moisander,P. Bargfrede,2
+P. Bargfrede,T. Delaney,2
+M. Veljkovic,F. Kainz,2
+I. Belfodil,J. Gondorf,2
+R. Bauer,P. Bargfrede,2
+M. Veljkovic,T. Delaney,2
+I. Belfodil,N. Moisander,2
+P. Bargfrede,N. Moisander,2
+J. Pavlenka,T. Gebre Selassie,2
+N. Moisander,J. Pavlenka,2
+M. Eggestein,R. Bauer,2
+L. Augustinsson,M. Veljkovic,2
+R. Bauer,F. Kainz,2
+T. Gebre Selassie,M. Eggestein,2
+T. Delaney,L. Augustinsson,2
+I. Belfodil,P. Bargfrede,2
+N. Moisander,R. Bauer,2
+F. Kainz,I. Belfodil,2
+T. Gebre Selassie,L. Augustinsson,2
+F. Kainz,M. Eggestein,1
+J. Gondorf,I. Belfodil,1
+T. Gebre Selassie,N. Moisander,1
+N. Moisander,T. Gebre Selassie,1
+N. Moisander,F. Kainz,1
+N. Moisander,I. Belfodil,1
+T. Delaney,N. Moisander,1
+M. Eggestein,L. Augustinsson,1
+L. Augustinsson,I. Belfodil,1
+N. Moisander,T. Delaney,1
+T. Delaney,P. Bargfrede,1
+J. Gondorf,R. Bauer,1
+F. Kainz,M. Veljkovic,1
+T. Gebre Selassie,F. Kainz,1
+I. Belfodil,J. Pavlenka,1
+P. Bargfrede,M. Veljkovic,1
+N. Moisander,L. Augustinsson,1
+T. Delaney,R. Bauer,1
+R. Bauer,N. Moisander,1
+J. Gondorf,T. Delaney,1
+P. Bargfrede,I. Belfodil,1
+F. Kainz,J. Gondorf,1
+M. Veljkovic,L. Augustinsson,1
+L. Augustinsson,M. Eggestein,1
+L. Augustinsson,R. Bauer,1
+M. Eggestein,J. Pavlenka,1
+J. Pavlenka,M. Eggestein,1
+M. Eggestein,N. Moisander,1
+L. Augustinsson,N. Moisander,1
+P. Bargfrede,L. Augustinsson,1
+J. Pavlenka,T. Delaney,1
+T. Gebre Selassie,J. Pavlenka,1
+M. Eggestein,I. Belfodil,1
+T. Delaney,J. Pavlenka,1
+J. Pavlenka,L. Augustinsson,1

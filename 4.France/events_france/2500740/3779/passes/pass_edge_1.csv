@@ -1,0 +1,88 @@
+Source,Target,Weight
+Nuno Da Costa,J. Aholou,6
+P. Martinez,B. Kon\u00e9,6
+M. Terrier,J. Martin,6
+Nuno Da Costa,E. Seka,6
+E. Seka,Nuno Da Costa,5
+B. Kamara,Nuno Da Costa,5
+I. Sacko,E. Seka,5
+I. Saadi,M. Terrier,4
+Nuno Da Costa,I. Saadi,4
+E. Seka,K. Mangane,4
+E. Seka,M. Terrier,4
+B. Kon\u00e9,M. Terrier,4
+J. Aholou,Nuno Da Costa,4
+J. Martin,J. Aholou,4
+J. Aholou,J. Martin,3
+J. Aholou,K. Mangane,3
+J. Martin,P. Martinez,3
+K. Mangane,Nuno Da Costa,3
+I. Sacko,J. Martin,3
+J. Martin,M. Terrier,3
+J. Aholou,I. Saadi,3
+K. Mangane,P. Martinez,3
+B. Kon\u00e9,P. Martinez,3
+E. Seka,B. Kamara,3
+M. Terrier,I. Sacko,3
+J. Aholou,E. Seka,2
+I. Sacko,P. Martinez,2
+J. Martin,I. Sacko,2
+P. Martinez,J. Martin,2
+I. Saadi,E. Seka,2
+Nuno Da Costa,J. Martin,2
+K. Mangane,B. Kon\u00e9,2
+P. Martinez,M. Terrier,2
+Nuno Da Costa,I. Sacko,2
+B. Kamara,E. Seka,2
+M. Terrier,J. Aholou,2
+E. Seka,I. Saadi,2
+E. Seka,I. Sacko,2
+P. Martinez,B. Kamara,2
+K. Mangane,B. Kamara,2
+B. Kon\u00e9,J. Aholou,2
+M. Terrier,Nuno Da Costa,2
+M. Terrier,I. Saadi,2
+M. Terrier,B. Kon\u00e9,2
+I. Sacko,M. Terrier,2
+P. Martinez,Nuno Da Costa,2
+I. Saadi,J. Aholou,2
+J. Martin,Nuno Da Costa,2
+M. Terrier,P. Martinez,2
+I. Sacko,J. Aholou,1
+I. Saadi,B. Kon\u00e9,1
+Nuno Da Costa,K. Mangane,1
+M. Terrier,B. Kamara,1
+B. Kamara,I. Saadi,1
+B. Kon\u00e9,K. Mangane,1
+I. Saadi,J. Martin,1
+B. Kon\u00e9,B. Kamara,1
+J. Martin,B. Kamara,1
+M. Terrier,K. Mangane,1
+B. Kon\u00e9,I. Sacko,1
+B. Kamara,K. Mangane,1
+Nuno Da Costa,P. Martinez,1
+I. Saadi,Nuno Da Costa,1
+K. Mangane,J. Aholou,1
+J. Martin,B. Kon\u00e9,1
+J. Martin,I. Saadi,1
+J. Aholou,B. Kon\u00e9,1
+B. Kamara,I. Sacko,1
+J. Martin,K. Mangane,1
+B. Kon\u00e9,J. Martin,1
+Nuno Da Costa,B. Kon\u00e9,1
+J. Aholou,M. Terrier,1
+J. Martin,E. Seka,1
+E. Seka,J. Martin,1
+I. Sacko,I. Saadi,1
+K. Mangane,I. Sacko,1
+I. Saadi,I. Sacko,1
+I. Saadi,K. Mangane,1
+B. Kon\u00e9,E. Seka,1
+B. Kamara,M. Terrier,1
+I. Saadi,P. Martinez,1
+Nuno Da Costa,B. Kamara,1
+K. Mangane,E. Seka,1
+Nuno Da Costa,M. Terrier,1
+P. Martinez,I. Sacko,1
+M. Terrier,E. Seka,1
+I. Sacko,Nuno Da Costa,1

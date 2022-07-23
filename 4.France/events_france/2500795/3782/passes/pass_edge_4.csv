@@ -1,0 +1,38 @@
+Source,Target,Weight
+J. Bamba,K. Monnet-Paquet,3
+Gabriel Silva,L. Lacroix,2
+H. Ma\u00efga,J. Bamba,2
+B. Dabo,C. M'Bengue,2
+B. Dabo,V. Pajot,2
+R. Hamouma,B. Dabo,2
+K. Monnet-Paquet,B. Dabo,2
+Gabriel Silva,B. Dabo,1
+B. Dabo,R. Hamouma,1
+C. M'Bengue,B. Dabo,1
+V. Pajot,Gabriel Silva,1
+V. Pajot,R. Hamouma,1
+K. Monnet-Paquet,V. Pajot,1
+Gabriel Silva,K. Monnet-Paquet,1
+H. Ma\u00efga,Gabriel Silva,1
+L. Lacroix,V. Pajot,1
+K. Th\u00e9ophile Catherine,H. Ma\u00efga,1
+H. Ma\u00efga,C. M'Bengue,1
+K. Th\u00e9ophile Catherine,B. Dabo,1
+Gabriel Silva,V. Pajot,1
+V. Pajot,B. Dabo,1
+B. Dabo,Gabriel Silva,1
+K. Monnet-Paquet,Gabriel Silva,1
+L. Lacroix,K. Th\u00e9ophile Catherine,1
+H. Ma\u00efga,R. Hamouma,1
+V. Pajot,H. Ma\u00efga,1
+K. Th\u00e9ophile Catherine,K. Monnet-Paquet,1
+C. M'Bengue,L. Lacroix,1
+C. M'Bengue,K. Th\u00e9ophile Catherine,1
+R. Hamouma,K. Monnet-Paquet,1
+K. Monnet-Paquet,L. Lacroix,1
+L. Lacroix,J. Bamba,1
+B. Dabo,H. Ma\u00efga,1
+B. Dabo,J. Bamba,1
+L. Lacroix,H. Ma\u00efga,1
+J. Bamba,Gabriel Silva,1
+V. Pajot,K. Th\u00e9ophile Catherine,1

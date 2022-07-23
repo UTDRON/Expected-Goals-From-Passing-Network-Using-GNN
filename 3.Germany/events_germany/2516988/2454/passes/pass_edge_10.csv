@@ -1,0 +1,11 @@
+Source,Target,Weight
+T. Hazard,P. Herrmann,3
+O. Wendt,P. Herrmann,1
+M. Ginter,T. Hazard,1
+P. Herrmann,O. Wendt,1
+P. Herrmann,T. Hazard,1
+J. Hofmann,M. Ginter,1
+L. Stindl,O. Wendt,1
+Y. Sommer,L. Stindl,1
+O. Wendt,Y. Sommer,1
+P. Herrmann,J. Hofmann,1

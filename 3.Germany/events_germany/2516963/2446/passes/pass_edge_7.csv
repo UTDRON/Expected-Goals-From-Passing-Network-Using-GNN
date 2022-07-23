@@ -1,0 +1,19 @@
+Source,Target,Weight
+L. Bender,K. Volland,2
+L. Bender,C. Ar\u00e1nguiz,1
+S. Bender,J. Baumgartlinger,1
+Wendell,S. Bender,1
+K. Volland,Wendell,1
+K. Bellarabi,S. Bender,1
+J. Baumgartlinger,K. Volland,1
+C. Ar\u00e1nguiz,L. Bender,1
+K. Volland,K. Havertz,1
+K. Volland,L. Bender,1
+K. Havertz,L. Bender,1
+J. Baumgartlinger,C. Ar\u00e1nguiz,1
+Wendell,K. Bellarabi,1
+L. Bender,K. Havertz,1
+S. Bender,Wendell,1
+C. Ar\u00e1nguiz,K. Bellarabi,1
+S. Bender,L. Bender,1
+K. Bellarabi,J. Baumgartlinger,1

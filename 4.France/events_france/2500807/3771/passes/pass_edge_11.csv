@@ -1,0 +1,17 @@
+Source,Target,Weight
+M. Lopez,M. Sanson,2
+F. Thauvin,Rolando,2
+Rolando,M. Lopez,1
+J. Amavi,S. Mandanda,1
+Rolando,B. Sarr,1
+Rolando,J. Amavi,1
+J. Amavi,L. Ocampos,1
+M. Lopez,F. Thauvin,1
+F. Thauvin,M. Lopez,1
+S. Mandanda,A. Rami,1
+A. Rami,F. Thauvin,1
+M. Sanson,M. Lopez,1
+V. Germain,M. Sanson,1
+L. Ocampos,J. Amavi,1
+M. Sanson,F. Thauvin,1
+B. Sarr,V. Germain,1

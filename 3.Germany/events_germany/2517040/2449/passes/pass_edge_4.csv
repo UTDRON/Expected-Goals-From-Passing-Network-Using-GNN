@@ -1,0 +1,23 @@
+Source,Target,Weight
+B. Oczipka,T. Kehrer,2
+W. McKennie,B. Oczipka,2
+L. Goretzka,W. McKennie,2
+T. Kehrer,L. Goretzka,1
+L. Goretzka,T. Kehrer,1
+W. McKennie,A. Harit,1
+W. McKennie,L. Goretzka,1
+B. Oczipka,W. McKennie,1
+B. Stambouli,R. F\u00e4hrmann,1
+A. Harit,D. Caligiuri,1
+T. Kehrer,D. Caligiuri,1
+R. F\u00e4hrmann,Naldo,1
+T. Kehrer,Naldo,1
+D. Caligiuri,W. McKennie,1
+D. Caligiuri,G. Burgstaller,1
+Naldo,L. Goretzka,1
+Y. Konoplyanka,B. Oczipka,1
+Naldo,G. Burgstaller,1
+B. Oczipka,Y. Konoplyanka,1
+L. Goretzka,R. F\u00e4hrmann,1
+G. Burgstaller,L. Goretzka,1
+R. F\u00e4hrmann,B. Stambouli,1

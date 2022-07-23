@@ -1,0 +1,48 @@
+Source,Target,Weight
+H. Aouar,Marcelo,4
+M. Diakhaby,Mar\u00e7al,4
+Marcelo,M. Diakhaby,4
+H. Aouar,M. Diakhaby,3
+K. Tete,H. Aouar,3
+Mar\u00e7al,M. Maolida,2
+M. Cornet,K. Tete,2
+J. Ferri,K. Tete,2
+Mar\u00e7al,M. Diakhaby,2
+Mar\u00e7al,H. Aouar,2
+K. Tete,Marcelo,2
+M. Maolida,J. Ferri,2
+J. Ferri,H. Aouar,2
+M. Cornet,J. Ferri,2
+J. Ferri,M. Cornet,2
+Marcelo,K. Tete,2
+A. Gouiri,K. Tete,1
+H. Aouar,M. Cornet,1
+M. Cornet,A. Gouiri,1
+K. Tete,M. Cornet,1
+M. Maolida,Mar\u00e7al,1
+M. Diakhaby,M. Maolida,1
+K. Tete,A. Lopes,1
+A. Lopes,H. Aouar,1
+A. Gouiri,A. Lopes,1
+M. Maolida,T. Ndomb\u00e8l\u00e9,1
+H. Aouar,T. Ndomb\u00e8l\u00e9,1
+A. Lopes,Mar\u00e7al,1
+M. Diakhaby,K. Tete,1
+T. Ndomb\u00e8l\u00e9,J. Ferri,1
+K. Tete,A. Gouiri,1
+H. Aouar,K. Tete,1
+Marcelo,J. Ferri,1
+Marcelo,H. Aouar,1
+M. Diakhaby,M. Cornet,1
+T. Ndomb\u00e8l\u00e9,M. Cornet,1
+K. Tete,J. Ferri,1
+J. Ferri,Marcelo,1
+M. Diakhaby,H. Aouar,1
+A. Lopes,Marcelo,1
+M. Cornet,Marcelo,1
+H. Aouar,M. Maolida,1
+M. Diakhaby,A. Lopes,1
+Marcelo,A. Gouiri,1
+Mar\u00e7al,T. Ndomb\u00e8l\u00e9,1
+T. Ndomb\u00e8l\u00e9,H. Aouar,1
+A. Gouiri,M. Cornet,1

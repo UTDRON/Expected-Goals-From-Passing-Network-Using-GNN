@@ -1,0 +1,27 @@
+Source,Target,Weight
+H. Nordtveit,K. Demirbay,2
+K. Demirbay,M. Uth,2
+M. Uth,N. Amiri,2
+J. Toljan,K. Demirbay,2
+O. Baumann,\u00c1. Szalai,2
+K. Demirbay,K. Vogt,1
+D. Geiger,J. Toljan,1
+S. Zuber,B. H\u00fcbner,1
+D. Geiger,S. Zuber,1
+B. H\u00fcbner,D. Geiger,1
+K. Demirbay,O. Baumann,1
+K. Vogt,O. Baumann,1
+\u00c1. Szalai,M. Uth,1
+K. Demirbay,J. Toljan,1
+N. Amiri,D. Geiger,1
+D. Geiger,K. Vogt,1
+K. Vogt,H. Nordtveit,1
+J. Toljan,D. Geiger,1
+K. Vogt,D. Geiger,1
+M. Uth,K. Demirbay,1
+B. H\u00fcbner,K. Vogt,1
+J. Toljan,K. Vogt,1
+N. Amiri,J. Toljan,1
+\u00c1. Szalai,K. Demirbay,1
+D. Geiger,H. Nordtveit,1
+K. Vogt,J. Toljan,1

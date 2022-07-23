@@ -1,0 +1,69 @@
+Source,Target,Weight
+M. Niakhat\u00e9,J. Rivierez,4
+N. Basin,Caf\u00fa,3
+R. Cohade,M. Dossevi,3
+N. Roux,N. Basin,2
+M. Niakhat\u00e9,G. Poblete,2
+Caf\u00fa,J. Rivierez,2
+Caf\u00fa,N. Roux,2
+M. Dossevi,M. Niakhat\u00e9,2
+M. Niakhat\u00e9,T. Didillon,2
+J. Rivierez,R. Cohade,2
+G. Poblete,Iv\u00e1n Balliu,2
+J. Rivierez,N. Roux,2
+T. Didillon,G. Poblete,2
+M. Dossevi,Caf\u00fa,2
+J. Rivierez,M. Niakhat\u00e9,2
+N. Roux,M. Niakhat\u00e9,2
+Iv\u00e1n Balliu,M. Dossevi,2
+G. Poblete,R. Cohade,2
+G. Poblete,M. Niakhat\u00e9,2
+O. Nguette,M. Dossevi,2
+N. Basin,G. Poblete,1
+Caf\u00fa,Iv\u00e1n Balliu,1
+M. Niakhat\u00e9,M. Dossevi,1
+R. Cohade,G. Poblete,1
+M. Dossevi,N. Roux,1
+Iv\u00e1n Balliu,G. Poblete,1
+R. Cohade,T. Didillon,1
+G. Poblete,M. Bi\u0161evac,1
+R. Cohade,M. Niakhat\u00e9,1
+J. Rivierez,Iv\u00e1n Balliu,1
+O. Nguette,N. Basin,1
+M. Niakhat\u00e9,Iv\u00e1n Balliu,1
+M. Niakhat\u00e9,N. Roux,1
+J. Rivierez,O. Nguette,1
+N. Basin,N. Roux,1
+M. Bi\u0161evac,G. Poblete,1
+N. Roux,M. Dossevi,1
+Iv\u00e1n Balliu,N. Basin,1
+N. Basin,M. Niakhat\u00e9,1
+Caf\u00fa,N. Basin,1
+G. Poblete,Caf\u00fa,1
+M. Niakhat\u00e9,Caf\u00fa,1
+N. Roux,J. Rivierez,1
+N. Roux,T. Didillon,1
+Caf\u00fa,R. Cohade,1
+Caf\u00fa,M. Niakhat\u00e9,1
+J. Rivierez,Caf\u00fa,1
+M. Dossevi,N. Basin,1
+M. Dossevi,J. Rivierez,1
+T. Didillon,M. Niakhat\u00e9,1
+O. Nguette,N. Roux,1
+N. Roux,R. Cohade,1
+M. Bi\u0161evac,Caf\u00fa,1
+M. Dossevi,Iv\u00e1n Balliu,1
+R. Cohade,J. Rivierez,1
+Caf\u00fa,M. Dossevi,1
+I. Niane,O. Nguette,1
+Iv\u00e1n Balliu,O. Nguette,1
+M. Dossevi,R. Cohade,1
+T. Didillon,I. Niane,1
+J. Rivierez,M. Bi\u0161evac,1
+O. Nguette,M. Niakhat\u00e9,1
+R. Cohade,Caf\u00fa,1
+M. Niakhat\u00e9,R. Cohade,1
+N. Basin,O. Nguette,1
+Iv\u00e1n Balliu,M. Niakhat\u00e9,1
+M. Niakhat\u00e9,N. Basin,1
+Caf\u00fa,O. Nguette,1

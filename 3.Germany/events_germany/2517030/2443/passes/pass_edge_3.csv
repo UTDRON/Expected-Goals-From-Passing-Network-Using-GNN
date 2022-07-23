@@ -1,0 +1,19 @@
+Source,Target,Weight
+M. Friedl,F. Kainz,3
+S. Langkamp,P. Bargfrede,2
+P. Bargfrede,M. Veljkovic,1
+F. Kainz,T. Delaney,1
+M. Eggestein,T. Delaney,1
+T. Delaney,M. Eggestein,1
+P. Bargfrede,M. Friedl,1
+S. Langkamp,M. Friedl,1
+M. Veljkovic,T. Delaney,1
+T. Delaney,J. Pavlenka,1
+F. Kainz,M. Friedl,1
+T. Delaney,Z. Junuzovi\u0107,1
+J. Pavlenka,S. Langkamp,1
+Z. Junuzovi\u0107,T. Gebre Selassie,1
+F. Kainz,Z. Junuzovi\u0107,1
+Z. Junuzovi\u0107,S. Langkamp,1
+T. Gebre Selassie,M. Veljkovic,1
+M. Veljkovic,S. Langkamp,1

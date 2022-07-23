@@ -1,0 +1,20 @@
+Source,Target,Weight
+J. Amavi,L. Ocampos,2
+B. Sarr,H. Sakai,2
+H. Sakai,B. Sarr,2
+Rolando,J. Amavi,1
+L. Ocampos,K. Mitroglou,1
+M. Lopez,Luiz Gustavo,1
+D. Payet,M. Lopez,1
+D. Payet,J. Amavi,1
+L. Ocampos,D. Payet,1
+J. Amavi,D. Payet,1
+K. Mitroglou,J. Amavi,1
+L. Ocampos,Rolando,1
+D. Payet,H. Sakai,1
+Luiz Gustavo,B. Sarr,1
+B. Sarr,L. Ocampos,1
+H. Sakai,D. Payet,1
+L. Ocampos,Luiz Gustavo,1
+B. Sarr,D. Payet,1
+Luiz Gustavo,L. Ocampos,1

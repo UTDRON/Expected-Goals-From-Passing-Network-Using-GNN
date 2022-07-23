@@ -1,0 +1,69 @@
+Source,Target,Weight
+A. Lookman,Bernardo,3
+Bernardo,Y. Poulsen,3
+Bernardo,T. Werner,3
+N. Ke\u00efta,I. Konat\u00e9,3
+A. Lookman,D. Demme,3
+W. Orban,Bernardo,3
+I. Konat\u00e9,W. Orban,3
+L. Klostermann,M. Sabitzer,3
+D. Demme,Bernardo,3
+M. Sabitzer,L. Klostermann,3
+I. Konat\u00e9,M. Sabitzer,3
+Y. Poulsen,T. Werner,2
+D. Demme,I. Konat\u00e9,2
+Y. Poulsen,N. Ke\u00efta,2
+Bernardo,P. Gul\u00e1csi,2
+D. Demme,M. Sabitzer,2
+Bernardo,D. Demme,2
+T. Werner,M. Sabitzer,2
+A. Lookman,T. Werner,2
+N. Ke\u00efta,Bernardo,2
+I. Konat\u00e9,Bernardo,2
+M. Sabitzer,W. Orban,2
+M. Sabitzer,D. Demme,2
+I. Konat\u00e9,N. Ke\u00efta,2
+Bernardo,A. Lookman,2
+Y. Poulsen,W. Orban,2
+T. Werner,W. Orban,2
+W. Orban,I. Konat\u00e9,2
+M. Sabitzer,N. Ke\u00efta,2
+N. Ke\u00efta,A. Lookman,1
+Bernardo,I. Konat\u00e9,1
+M. Sabitzer,A. Lookman,1
+Y. Poulsen,A. Lookman,1
+L. Klostermann,P. Gul\u00e1csi,1
+L. Klostermann,I. Konat\u00e9,1
+T. Werner,L. Klostermann,1
+P. Gul\u00e1csi,W. Orban,1
+P. Gul\u00e1csi,Y. Poulsen,1
+D. Demme,A. Lookman,1
+L. Klostermann,D. Demme,1
+I. Konat\u00e9,L. Klostermann,1
+W. Orban,Y. Poulsen,1
+N. Ke\u00efta,T. Werner,1
+W. Orban,T. Werner,1
+P. Gul\u00e1csi,D. Demme,1
+P. Gul\u00e1csi,I. Konat\u00e9,1
+T. Werner,Bernardo,1
+W. Orban,A. Lookman,1
+W. Orban,N. Ke\u00efta,1
+W. Orban,M. Sabitzer,1
+A. Lookman,P. Gul\u00e1csi,1
+N. Ke\u00efta,W. Orban,1
+N. Ke\u00efta,P. Gul\u00e1csi,1
+A. Lookman,N. Ke\u00efta,1
+W. Orban,D. Demme,1
+L. Klostermann,A. Lookman,1
+D. Demme,Y. Poulsen,1
+T. Werner,A. Lookman,1
+T. Werner,N. Ke\u00efta,1
+N. Ke\u00efta,L. Klostermann,1
+M. Sabitzer,Y. Poulsen,1
+D. Demme,L. Klostermann,1
+D. Demme,N. Ke\u00efta,1
+L. Klostermann,Y. Poulsen,1
+Y. Poulsen,D. Demme,1
+M. Sabitzer,I. Konat\u00e9,1
+P. Gul\u00e1csi,M. Sabitzer,1
+Bernardo,L. Klostermann,1

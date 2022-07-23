@@ -1,0 +1,29 @@
+Source,Target,Weight
+G. Burgstaller,B. Oczipka,2
+B. Stambouli,M. Meyer,2
+B. Oczipka,Y. Konoplyanka,2
+B. Oczipka,G. Burgstaller,2
+A. Harit,D. Caligiuri,2
+M. Nastasi\u0107,B. Oczipka,1
+Naldo,B. Oczipka,1
+W. McKennie,Naldo,1
+Y. Konoplyanka,M. Nastasi\u0107,1
+D. Caligiuri,A. Harit,1
+M. Meyer,D. Caligiuri,1
+M. Nastasi\u0107,Naldo,1
+M. Meyer,M. Nastasi\u0107,1
+Y. Konoplyanka,W. McKennie,1
+D. Caligiuri,M. Meyer,1
+D. Caligiuri,G. Burgstaller,1
+B. Stambouli,D. Caligiuri,1
+G. Burgstaller,A. Harit,1
+Y. Konoplyanka,M. Meyer,1
+M. Meyer,B. Stambouli,1
+W. McKennie,B. Stambouli,1
+D. Caligiuri,B. Stambouli,1
+W. McKennie,M. Meyer,1
+M. Meyer,B. Oczipka,1
+Naldo,A. Harit,1
+A. Harit,W. McKennie,1
+B. Oczipka,A. Harit,1
+M. Meyer,W. McKennie,1

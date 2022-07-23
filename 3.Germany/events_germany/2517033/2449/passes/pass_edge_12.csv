@@ -1,0 +1,27 @@
+Source,Target,Weight
+Naldo,C. Teuchert,3
+T. Kehrer,Naldo,2
+C. Teuchert,Naldo,2
+A. Sch\u00f6pf,C. Teuchert,2
+L. Goretzka,B. Oczipka,2
+B. Oczipka,A. Sch\u00f6pf,2
+R. F\u00e4hrmann,A. Harit,1
+C. Teuchert,R. F\u00e4hrmann,1
+Naldo,B. Oczipka,1
+W. McKennie,A. Sch\u00f6pf,1
+B. Stambouli,T. Kehrer,1
+B. Stambouli,A. Harit,1
+A. Sch\u00f6pf,B. Stambouli,1
+B. Oczipka,D. Caligiuri,1
+B. Oczipka,C. Teuchert,1
+B. Oczipka,L. Goretzka,1
+Naldo,T. Kehrer,1
+T. Kehrer,W. McKennie,1
+A. Harit,D. Caligiuri,1
+C. Teuchert,B. Oczipka,1
+C. Teuchert,L. Goretzka,1
+A. Harit,B. Stambouli,1
+D. Caligiuri,A. Harit,1
+A. Harit,T. Kehrer,1
+D. Caligiuri,B. Stambouli,1
+B. Stambouli,B. Oczipka,1

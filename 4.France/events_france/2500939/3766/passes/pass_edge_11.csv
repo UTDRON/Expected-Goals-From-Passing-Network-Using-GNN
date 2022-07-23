@@ -1,0 +1,65 @@
+Source,Target,Weight
+Mar\u00e7al,M. Depay,7
+M. Depay,T. Ndomb\u00e8l\u00e9,5
+M. Diakhaby,F. Mendy,4
+M. Diakhaby,A. Lopes,4
+T. Ndomb\u00e8l\u00e9,Mar\u00e7al,4
+M. Depay,Mar\u00e7al,4
+J. Morel,M. Depay,3
+B. Traor\u00e9,F. Mendy,3
+J. Morel,M. Diakhaby,3
+F. Mendy,M. Diakhaby,3
+J. Morel,Mar\u00e7al,3
+J. Morel,T. Ndomb\u00e8l\u00e9,3
+L. Tousart,M. Diakhaby,3
+M. Diakhaby,L. Tousart,3
+F. Mendy,B. Traor\u00e9,2
+M. Depay,J. Morel,2
+J. Morel,L. Tousart,2
+N. Fekir,B. Traor\u00e9,2
+A. Lopes,J. Morel,2
+T. Ndomb\u00e8l\u00e9,M. Depay,2
+L. Tousart,Mar\u00e7al,2
+M. Depay,F. Mendy,2
+M. Diakhaby,J. Morel,2
+A. Lopes,M. Diakhaby,2
+F. Mendy,J. Morel,2
+T. Ndomb\u00e8l\u00e9,J. Morel,2
+Mar\u00e7al,A. Lopes,2
+H. Aouar,Mar\u00e7al,2
+Mar\u00e7al,J. Morel,2
+M. Depay,Mariano D\u00edaz,2
+A. Lopes,L. Tousart,1
+L. Tousart,N. Fekir,1
+Mar\u00e7al,M. Diakhaby,1
+M. Depay,H. Aouar,1
+Rafael,Mariano D\u00edaz,1
+F. Mendy,J. Ferri,1
+N. Fekir,F. Mendy,1
+T. Ndomb\u00e8l\u00e9,B. Traor\u00e9,1
+Mar\u00e7al,L. Tousart,1
+T. Ndomb\u00e8l\u00e9,H. Aouar,1
+B. Traor\u00e9,N. Fekir,1
+L. Tousart,J. Morel,1
+L. Tousart,F. Mendy,1
+J. Ferri,Rafael,1
+Mar\u00e7al,H. Aouar,1
+H. Aouar,J. Morel,1
+A. Lopes,T. Ndomb\u00e8l\u00e9,1
+Mariano D\u00edaz,L. Tousart,1
+F. Mendy,H. Aouar,1
+H. Aouar,M. Depay,1
+Mariano D\u00edaz,J. Ferri,1
+Mariano D\u00edaz,Mar\u00e7al,1
+L. Tousart,M. Depay,1
+Mar\u00e7al,Mariano D\u00edaz,1
+B. Traor\u00e9,J. Ferri,1
+Mar\u00e7al,T. Ndomb\u00e8l\u00e9,1
+J. Ferri,F. Mendy,1
+J. Ferri,L. Tousart,1
+F. Mendy,M. Depay,1
+F. Mendy,T. Ndomb\u00e8l\u00e9,1
+B. Traor\u00e9,M. Depay,1
+T. Ndomb\u00e8l\u00e9,M. Diakhaby,1
+M. Diakhaby,B. Traor\u00e9,1
+F. Mendy,N. Fekir,1

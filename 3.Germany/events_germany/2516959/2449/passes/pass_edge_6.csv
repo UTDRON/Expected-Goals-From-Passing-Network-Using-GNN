@@ -1,0 +1,24 @@
+Source,Target,Weight
+B. Oczipka,M. Nastasi\u0107,2
+B. Stambouli,D. Caligiuri,2
+M. Pjaca,N. Bentaleb,2
+B. Oczipka,M. Pjaca,2
+N. Bentaleb,B. Oczipka,2
+M. Meyer,F. Di Santo,1
+R. F\u00e4hrmann,B. Stambouli,1
+Naldo,B. Stambouli,1
+M. Nastasi\u0107,M. Pjaca,1
+Naldo,M. Meyer,1
+M. Nastasi\u0107,Naldo,1
+D. Caligiuri,F. Di Santo,1
+M. Pjaca,B. Oczipka,1
+D. Caligiuri,B. Stambouli,1
+F. Di Santo,M. Pjaca,1
+B. Stambouli,Naldo,1
+Naldo,M. Nastasi\u0107,1
+F. Di Santo,M. Meyer,1
+B. Oczipka,Naldo,1
+M. Nastasi\u0107,N. Bentaleb,1
+Naldo,B. Oczipka,1
+M. Meyer,R. F\u00e4hrmann,1
+M. Pjaca,Naldo,1

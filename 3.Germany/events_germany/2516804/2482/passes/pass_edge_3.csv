@@ -1,0 +1,21 @@
+Source,Target,Weight
+S. Zuber,N. Amiri,2
+N. Amiri,D. Geiger,2
+O. Baumann,S. Wagner,1
+K. Vogt,O. Baumann,1
+K. Demirbay,N. Amiri,1
+M. Uth,K. Vogt,1
+O. Baumann,M. Uth,1
+N. Amiri,S. Wagner,1
+K. Vogt,M. Uth,1
+D. Geiger,N. Amiri,1
+K. Demirbay,K. Vogt,1
+D. Geiger,K. Demirbay,1
+S. Wagner,A. Kramari\u0107,1
+D. Geiger,O. Baumann,1
+N. Amiri,S. Zuber,1
+K. Demirbay,D. Geiger,1
+A. Kramari\u0107,S. Zuber,1
+M. Uth,N. Amiri,1
+N. Amiri,K. Demirbay,1
+S. Wagner,N. Amiri,1

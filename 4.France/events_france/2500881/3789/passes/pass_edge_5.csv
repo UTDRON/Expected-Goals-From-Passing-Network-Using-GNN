@@ -1,0 +1,81 @@
+Source,Target,Weight
+E. Bourgaud,O. El Hajjam,6
+I. Cissokho,S. Gakp\u00e9,5
+O. El Hajjam,M. Konat\u00e9,4
+O. El Hajjam,G. Kakuta,4
+S. Gakp\u00e9,I. Cissokho,4
+M. Konat\u00e9,O. El Hajjam,3
+S. Gakp\u00e9,G. Kakuta,3
+K. Ad\u00e9non,S. Gakp\u00e9,3
+M. Konat\u00e9,K. Ad\u00e9non,3
+G. Kakuta,E. Bourgaud,3
+S. Gakp\u00e9,B. Zungu,3
+G. Kakuta,O. El Hajjam,3
+B. Zungu,G. Kakuta,3
+P. Gouano,E. Bourgaud,3
+K. Ad\u00e9non,I. Cissokho,3
+I. Cissokho,B. Zungu,3
+G. Kakuta,G. Fofana,3
+E. Bourgaud,P. Gouano,3
+G. Kakuta,S. Gakp\u00e9,2
+P. Gouano,G. Kakuta,2
+B. Zungu,I. Cissokho,2
+M. Konat\u00e9,E. Bourgaud,2
+P. Gouano,O. El Hajjam,2
+O. El Hajjam,E. Bourgaud,2
+K. Ad\u00e9non,P. Gouano,2
+I. Cissokho,K. Ad\u00e9non,2
+E. Bourgaud,M. Konat\u00e9,2
+J. Bouet,M. Konat\u00e9,2
+I. Cissokho,M. Konat\u00e9,2
+B. Zungu,G. Fofana,2
+O. El Hajjam,P. Gouano,2
+G. Fofana,S. Gakp\u00e9,2
+G. Fofana,K. Ad\u00e9non,2
+K. Ad\u00e9non,G. Fofana,2
+O. El Hajjam,I. Cissokho,2
+G. Kakuta,B. Zungu,2
+S. Gakp\u00e9,E. Bourgaud,2
+K. Ad\u00e9non,B. Zungu,2
+G. Kakuta,I. Cissokho,2
+G. Fofana,P. Gouano,2
+G. Fofana,J. Bouet,2
+M. Konat\u00e9,G. Fofana,2
+G. Fofana,O. El Hajjam,2
+P. Gouano,G. Fofana,2
+E. Bourgaud,G. Fofana,2
+B. Zungu,P. Gouano,2
+G. Fofana,M. Konat\u00e9,2
+O. El Hajjam,K. Ad\u00e9non,2
+M. Konat\u00e9,G. Kakuta,2
+I. Cissokho,J. Bouet,2
+J. Bouet,G. Fofana,1
+J. Bouet,K. Ad\u00e9non,1
+I. Cissokho,G. Kakuta,1
+O. El Hajjam,J. Bouet,1
+P. Gouano,B. Zungu,1
+J. Bouet,S. Gakp\u00e9,1
+G. Kakuta,M. Konat\u00e9,1
+B. Zungu,E. Bourgaud,1
+B. Zungu,K. Ad\u00e9non,1
+G. Fofana,E. Bourgaud,1
+E. Bourgaud,G. Kakuta,1
+E. Bourgaud,K. Ad\u00e9non,1
+G. Kakuta,P. Gouano,1
+K. Ad\u00e9non,G. Kakuta,1
+S. Gakp\u00e9,J. Bouet,1
+E. Bourgaud,B. Zungu,1
+M. Konat\u00e9,I. Cissokho,1
+M. Konat\u00e9,S. Gakp\u00e9,1
+I. Cissokho,E. Bourgaud,1
+J. Bouet,I. Cissokho,1
+B. Zungu,M. Konat\u00e9,1
+B. Zungu,S. Gakp\u00e9,1
+G. Fofana,G. Kakuta,1
+I. Cissokho,G. Fofana,1
+M. Konat\u00e9,B. Zungu,1
+P. Gouano,I. Cissokho,1
+G. Fofana,I. Cissokho,1
+S. Gakp\u00e9,O. El Hajjam,1
+S. Gakp\u00e9,M. Konat\u00e9,1
+P. Gouano,K. Ad\u00e9non,1

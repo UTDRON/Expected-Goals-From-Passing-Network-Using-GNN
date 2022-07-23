@@ -1,0 +1,58 @@
+Source,Target,Weight
+H. Mendyl,J. Alonso,6
+J. Alonso,H. Mendyl,6
+H. Mendyl,Thiago Mendes,5
+I. Amadou,Edgar I\u00e9,4
+Edgar I\u00e9,N. P\u00e9p\u00e9,4
+Thiago Mendes,Thiago Maia,4
+J. Alonso,I. Amadou,4
+Thiago Maia,H. Mendyl,3
+Y. Benzia,Thiago Maia,3
+B. Soumar\u00e9,J. Alonso,3
+B. Soumar\u00e9,H. Mendyl,3
+I. Amadou,B. Soumar\u00e9,3
+J. Alonso,B. Soumar\u00e9,3
+Thiago Maia,Thiago Mendes,3
+B. Soumar\u00e9,Thiago Maia,2
+Edgar I\u00e9,I. Amadou,2
+A. El Ghazi,I. Amadou,2
+I. Amadou,J. Alonso,2
+B. Soumar\u00e9,I. Amadou,2
+Edgar I\u00e9,M. Maignan,2
+M. Maignan,A. El Ghazi,2
+Y. Benzia,B. Soumar\u00e9,2
+B. Soumar\u00e9,Edgar I\u00e9,2
+Thiago Mendes,H. Mendyl,2
+N. P\u00e9p\u00e9,Y. Benzia,2
+Thiago Mendes,Y. Benzia,2
+J. Alonso,Thiago Maia,2
+Thiago Maia,J. Alonso,2
+Edgar I\u00e9,B. Soumar\u00e9,2
+Edgar I\u00e9,J. Alonso,1
+I. Amadou,N. P\u00e9p\u00e9,1
+I. Amadou,H. Mendyl,1
+Thiago Maia,Y. Benzia,1
+Edgar I\u00e9,Y. Benzia,1
+N. P\u00e9p\u00e9,J. Alonso,1
+Thiago Maia,Edgar I\u00e9,1
+H. Mendyl,Edgar I\u00e9,1
+M. Maignan,N. P\u00e9p\u00e9,1
+H. Mendyl,B. Soumar\u00e9,1
+J. Alonso,Thiago Mendes,1
+N. P\u00e9p\u00e9,Edgar I\u00e9,1
+Thiago Mendes,Edgar I\u00e9,1
+Thiago Mendes,J. Alonso,1
+Y. Benzia,J. Alonso,1
+I. Amadou,A. El Ghazi,1
+B. Soumar\u00e9,Thiago Mendes,1
+H. Mendyl,I. Amadou,1
+H. Mendyl,Thiago Maia,1
+N. P\u00e9p\u00e9,B. Soumar\u00e9,1
+J. Alonso,Edgar I\u00e9,1
+N. P\u00e9p\u00e9,I. Amadou,1
+Thiago Maia,M. Maignan,1
+M. Maignan,B. Soumar\u00e9,1
+I. Amadou,M. Maignan,1
+A. El Ghazi,B. Soumar\u00e9,1
+Y. Benzia,I. Amadou,1
+B. Soumar\u00e9,Y. Benzia,1

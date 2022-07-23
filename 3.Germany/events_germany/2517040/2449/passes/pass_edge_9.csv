@@ -1,0 +1,34 @@
+Source,Target,Weight
+A. Baba,C. Teuchert,2
+Naldo,W. McKennie,2
+D. Caligiuri,A. Baba,2
+A. Baba,W. McKennie,2
+G. Burgstaller,L. Goretzka,1
+B. Stambouli,D. Caligiuri,1
+G. Burgstaller,Naldo,1
+A. N\u00fcbel,G. Burgstaller,1
+G. Burgstaller,C. Teuchert,1
+W. McKennie,B. Stambouli,1
+C. Teuchert,G. Burgstaller,1
+W. McKennie,A. Harit,1
+C. Teuchert,A. Baba,1
+W. McKennie,L. Goretzka,1
+L. Goretzka,B. Stambouli,1
+Naldo,B. Stambouli,1
+A. Baba,Naldo,1
+L. Goretzka,G. Burgstaller,1
+G. Burgstaller,T. Kehrer,1
+T. Kehrer,A. Baba,1
+B. Stambouli,A. N\u00fcbel,1
+W. McKennie,A. Baba,1
+W. McKennie,D. Caligiuri,1
+Naldo,T. Kehrer,1
+T. Kehrer,Naldo,1
+B. Stambouli,Naldo,1
+D. Caligiuri,W. McKennie,1
+Naldo,G. Burgstaller,1
+C. Teuchert,W. McKennie,1
+A. Harit,Naldo,1
+G. Burgstaller,A. Baba,1
+A. Baba,G. Burgstaller,1
+W. McKennie,C. Teuchert,1

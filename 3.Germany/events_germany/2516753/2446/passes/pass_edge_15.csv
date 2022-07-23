@@ -1,0 +1,20 @@
+Source,Target,Weight
+S. Bender,Andr\u00e9 Ramalho,2
+J. Tah,S. Bender,2
+S. Bender,J. Tah,1
+K. Bellarabi,L. Bailey,1
+Andr\u00e9 Ramalho,J. Tah,1
+B. Henrichs,B. Leno,1
+L. Bailey,K. Bellarabi,1
+Wendell,Andr\u00e9 Ramalho,1
+Andr\u00e9 Ramalho,Wendell,1
+Andr\u00e9 Ramalho,S. Bender,1
+Andr\u00e9 Ramalho,L. Bailey,1
+L. Bailey,J. Tah,1
+D. Kohr,B. Henrichs,1
+L. Bailey,Wendell,1
+B. Henrichs,D. Kohr,1
+J. Tah,B. Henrichs,1
+B. Leno,Andr\u00e9 Ramalho,1
+Wendell,K. Bellarabi,1
+B. Henrichs,L. Bailey,1

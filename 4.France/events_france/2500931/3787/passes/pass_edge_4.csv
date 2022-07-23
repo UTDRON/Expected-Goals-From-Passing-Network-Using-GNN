@@ -1,0 +1,62 @@
+Source,Target,Weight
+R. Aguilar,G. Sio,5
+K. Dolly,R. Aguilar,4
+P. Lasne,E. Skhiri,4
+G. Sio,K. Dolly,4
+B. Lecomte,N. Mukiele,3
+G. Sio,Hilton,3
+D. Congr\u00e9,K. Dolly,3
+I. Mbenza,Hilton,3
+K. Dolly,G. Sio,3
+E. Skhiri,D. Congr\u00e9,3
+N. Mukiele,G. Sio,3
+N. Mukiele,P. Lasne,2
+R. Aguilar,P. Lasne,2
+P. Lasne,D. Congr\u00e9,2
+P. Lasne,K. Dolly,2
+P. Lasne,B. Lecomte,2
+D. Congr\u00e9,P. Lasne,2
+G. Sio,P. Lasne,2
+P. Lasne,Pedro Mendes,2
+Hilton,D. Congr\u00e9,2
+P. Lasne,N. Mukiele,2
+Pedro Mendes,N. Mukiele,2
+K. Dolly,Pedro Mendes,2
+Pedro Mendes,P. Lasne,2
+E. Skhiri,P. Lasne,2
+E. Skhiri,I. Mbenza,2
+N. Mukiele,Hilton,2
+Hilton,R. Aguilar,2
+Pedro Mendes,G. Sio,1
+Hilton,P. Lasne,1
+K. Dolly,I. Mbenza,1
+N. Mukiele,R. Aguilar,1
+E. Skhiri,Pedro Mendes,1
+Hilton,B. Lecomte,1
+Pedro Mendes,R. Aguilar,1
+Pedro Mendes,Hilton,1
+N. Mukiele,E. Skhiri,1
+E. Skhiri,N. Mukiele,1
+I. Mbenza,N. Mukiele,1
+G. Sio,D. Congr\u00e9,1
+G. Sio,B. Lecomte,1
+R. Aguilar,K. Dolly,1
+Hilton,E. Skhiri,1
+N. Mukiele,I. Mbenza,1
+K. Dolly,B. Lecomte,1
+Hilton,K. Dolly,1
+Hilton,I. Mbenza,1
+I. Mbenza,E. Skhiri,1
+B. Lecomte,K. Dolly,1
+D. Congr\u00e9,I. Mbenza,1
+K. Dolly,P. Lasne,1
+G. Sio,Pedro Mendes,1
+B. Lecomte,P. Lasne,1
+R. Aguilar,E. Skhiri,1
+Pedro Mendes,E. Skhiri,1
+R. Aguilar,Hilton,1
+P. Lasne,R. Aguilar,1
+Hilton,N. Mukiele,1
+D. Congr\u00e9,R. Aguilar,1
+D. Congr\u00e9,G. Sio,1
+I. Mbenza,Pedro Mendes,1

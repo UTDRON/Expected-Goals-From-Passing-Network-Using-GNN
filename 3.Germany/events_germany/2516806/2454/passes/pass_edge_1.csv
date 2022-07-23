@@ -1,0 +1,86 @@
+Source,Target,Weight
+O. Wendt,J. Vestergaard,8
+C. Kramer,M. Ginter,7
+D. Zakaria,O. Wendt,7
+T. Hazard,N. Elvedi,7
+J. Vestergaard,M. Ginter,7
+J. Vestergaard,Y. Sommer,6
+L. Stindl,C. Kramer,6
+N. Elvedi,C. Kramer,6
+L. Stindl,Raffael,6
+M. Ginter,J. Vestergaard,6
+N. Elvedi,T. Hazard,5
+C. Kramer,D. Zakaria,5
+M. Ginter,Y. Sommer,5
+Y. Sommer,J. Vestergaard,5
+Raffael,L. Stindl,5
+M. Ginter,C. Kramer,5
+N. Elvedi,M. Ginter,5
+J. Vestergaard,L. Stindl,5
+C. Kramer,J. Vestergaard,5
+T. Hazard,Raffael,4
+Raffael,O. Wendt,4
+Raffael,T. Hazard,4
+O. Wendt,F. Johnson,4
+L. Stindl,O. Wendt,4
+F. Johnson,O. Wendt,4
+C. Kramer,T. Hazard,3
+O. Wendt,L. Stindl,3
+O. Wendt,C. Kramer,3
+T. Hazard,D. Zakaria,3
+D. Zakaria,J. Vestergaard,3
+C. Kramer,O. Wendt,3
+C. Kramer,Y. Sommer,3
+C. Kramer,L. Stindl,3
+Y. Sommer,C. Kramer,3
+D. Zakaria,F. Johnson,3
+D. Zakaria,C. Kramer,3
+F. Johnson,D. Zakaria,3
+J. Vestergaard,N. Elvedi,3
+O. Wendt,D. Zakaria,3
+M. Ginter,D. Zakaria,3
+J. Vestergaard,C. Kramer,3
+F. Johnson,Raffael,2
+Y. Sommer,D. Zakaria,2
+O. Wendt,Raffael,2
+J. Vestergaard,D. Zakaria,2
+L. Stindl,F. Johnson,2
+D. Zakaria,Raffael,2
+Y. Sommer,F. Johnson,2
+L. Stindl,D. Zakaria,2
+D. Zakaria,L. Stindl,2
+C. Kramer,N. Elvedi,2
+N. Elvedi,L. Stindl,2
+M. Ginter,N. Elvedi,2
+Raffael,D. Zakaria,2
+L. Stindl,N. Elvedi,2
+T. Hazard,O. Wendt,2
+D. Zakaria,N. Elvedi,2
+N. Elvedi,Raffael,2
+Y. Sommer,L. Stindl,2
+O. Wendt,T. Hazard,2
+Raffael,M. Ginter,2
+D. Zakaria,M. Ginter,2
+Raffael,J. Vestergaard,1
+Raffael,C. Kramer,1
+Raffael,N. Elvedi,1
+L. Stindl,Y. Sommer,1
+J. Vestergaard,Raffael,1
+M. Ginter,O. Wendt,1
+O. Wendt,N. Elvedi,1
+T. Hazard,M. Ginter,1
+J. Vestergaard,O. Wendt,1
+C. Kramer,Raffael,1
+M. Ginter,T. Hazard,1
+T. Hazard,L. Stindl,1
+D. Zakaria,T. Hazard,1
+L. Stindl,T. Hazard,1
+F. Johnson,Y. Sommer,1
+Y. Sommer,N. Elvedi,1
+M. Ginter,F. Johnson,1
+M. Ginter,L. Stindl,1
+F. Johnson,T. Hazard,1
+N. Elvedi,Y. Sommer,1
+F. Johnson,C. Kramer,1
+Y. Sommer,Raffael,1
+Y. Sommer,M. Ginter,1

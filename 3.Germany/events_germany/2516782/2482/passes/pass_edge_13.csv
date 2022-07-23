@@ -1,0 +1,17 @@
+Source,Target,Weight
+N. Schulz,S. Wagner,2
+N. Amiri,A. Kramari\u0107,1
+S. Wagner,M. Uth,1
+S. Wagner,N. Schulz,1
+A. Kramari\u0107,B. H\u00fcbner,1
+B. H\u00fcbner,N. Amiri,1
+M. Uth,N. Schulz,1
+N. Schulz,N. Amiri,1
+S. Wagner,K. Demirbay,1
+K. Demirbay,N. Schulz,1
+A. Kramari\u0107,N. Schulz,1
+K. Demirbay,B. H\u00fcbner,1
+N. Amiri,N. Schulz,1
+N. Schulz,K. Vogt,1
+K. Vogt,S. Wagner,1
+N. Schulz,K. Demirbay,1

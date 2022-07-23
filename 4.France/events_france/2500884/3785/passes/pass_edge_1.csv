@@ -1,0 +1,20 @@
+Source,Target,Weight
+Pedro Rebocho,L. Deaux,2
+Y. Salibur,F. Eboa Eboa,2
+F. Eboa Eboa,Y. Salibur,1
+L. Deaux,M. Diallo,1
+J. Briand,Y. Salibur,1
+F. Eboa Eboa,J. Briand,1
+M. Diallo,Pedro Rebocho,1
+Pedro Rebocho,M. Coco,1
+C. Kerbrat,Pedro Rebocho,1
+M. Coco,F. Eboa Eboa,1
+F. Eboa Eboa,C. Kerbrat,1
+C. Kerbrat,L. Deaux,1
+M. Coco,Pedro Rebocho,1
+M. Diallo,N. Benezet,1
+C. Kerbrat,M. Coco,1
+L. Deaux,F. Eboa Eboa,1
+L. Deaux,C. Kerbrat,1
+N. Benezet,J. Briand,1
+F. Eboa Eboa,M. Diallo,1

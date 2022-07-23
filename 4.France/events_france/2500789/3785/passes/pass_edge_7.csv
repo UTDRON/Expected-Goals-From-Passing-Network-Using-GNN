@@ -1,0 +1,45 @@
+Source,Target,Weight
+F. Eboa Eboa,N. Benezet,5
+N. Benezet,F. Tabanou,3
+F. Tabanou,F. Eboa Eboa,3
+N. Benezet,L. Blas,3
+L. Blas,F. Eboa Eboa,3
+C. Kerbrat,F. Tabanou,2
+L. Blas,\u00c9. Didot,2
+\u00c9. Didot,F. Eboa Eboa,2
+K. Johnsson,F. Tabanou,2
+F. Eboa Eboa,\u00c9. Didot,2
+F. Eboa Eboa,K. Johnsson,2
+F. Tabanou,N. Benezet,2
+N. Benezet,C. Kerbrat,2
+\u00c9. Didot,L. Blas,2
+C. Kerbrat,J. Martins-Pereira,2
+N. Benezet,J. Briand,2
+J. Martins-Pereira,N. Benezet,2
+K. Johnsson,C. Kerbrat,2
+N. Benezet,J. Martins-Pereira,2
+L. Blas,C. Kerbrat,2
+J. Martins-Pereira,L. Blas,1
+F. Tabanou,K. Johnsson,1
+F. Eboa Eboa,L. Blas,1
+J. Briand,N. Benezet,1
+J. Martins-Pereira,F. Eboa Eboa,1
+C. Kerbrat,\u00c9. Didot,1
+\u00c9. Didot,C. Kerbrat,1
+F. Tabanou,M. Diallo,1
+M. Diallo,N. Benezet,1
+J. Briand,C. Kerbrat,1
+J. Martins-Pereira,C. Kerbrat,1
+N. Benezet,\u00c9. Didot,1
+\u00c9. Didot,J. Martins-Pereira,1
+C. Kerbrat,F. Eboa Eboa,1
+M. Thuram,N. Benezet,1
+C. Kerbrat,N. Benezet,1
+C. Kerbrat,K. Johnsson,1
+J. Martins-Pereira,R. Camara,1
+F. Tabanou,M. Thuram,1
+F. Eboa Eboa,C. Kerbrat,1
+R. Camara,J. Martins-Pereira,1
+C. Kerbrat,M. Thuram,1
+M. Thuram,F. Eboa Eboa,1
+C. Kerbrat,L. Blas,1

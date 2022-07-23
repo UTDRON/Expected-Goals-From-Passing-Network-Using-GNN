@@ -1,0 +1,57 @@
+Source,Target,Weight
+D. Opare,Caiuby,4
+P. Max,J. Mor\u00e1vek,4
+J. Mor\u00e1vek,P. Max,3
+A. Finnbogason,R. Khedira,3
+Caiuby,D. Opare,3
+P. Max,M. Hinteregger,2
+J. Gouweleeuw,P. Max,2
+D. Opare,M. Heller,2
+M. Hinteregger,J. Mor\u00e1vek,2
+J. Gouweleeuw,D. Opare,2
+Caiuby,M. Hinteregger,2
+Caiuby,J. Mor\u00e1vek,2
+P. Max,G. Ka\u010dar,2
+J. Mor\u00e1vek,Caiuby,2
+Caiuby,J. Gouweleeuw,1
+J. Gouweleeuw,G. Ka\u010dar,1
+D. Opare,R. Khedira,1
+M. Hinteregger,J. Gouweleeuw,1
+M. Hitz,D. Opare,1
+A. Finnbogason,P. Max,1
+J. Mor\u00e1vek,M. Hitz,1
+R. Khedira,Caiuby,1
+J. Mor\u00e1vek,M. Heller,1
+J. Gouweleeuw,Caiuby,1
+M. Heller,J. Gouweleeuw,1
+M. Hinteregger,M. Hitz,1
+M. Hitz,J. Gouweleeuw,1
+G. Ka\u010dar,J. Gouweleeuw,1
+R. Khedira,A. Finnbogason,1
+R. Khedira,J. Gouweleeuw,1
+M. Hinteregger,G. Ka\u010dar,1
+R. Khedira,M. Hinteregger,1
+R. Khedira,M. Hitz,1
+G. Ka\u010dar,M. Hitz,1
+M. Hinteregger,M. Heller,1
+P. Max,A. Finnbogason,1
+M. Hinteregger,A. Finnbogason,1
+D. Opare,J. Gouweleeuw,1
+Caiuby,P. Max,1
+M. Hinteregger,Caiuby,1
+J. Mor\u00e1vek,R. Khedira,1
+J. Gouweleeuw,M. Hinteregger,1
+J. Mor\u00e1vek,M. Hinteregger,1
+G. Ka\u010dar,P. Max,1
+M. Heller,R. Khedira,1
+G. Ka\u010dar,D. Opare,1
+D. Opare,A. Finnbogason,1
+M. Heller,J. Mor\u00e1vek,1
+A. Finnbogason,M. Hinteregger,1
+M. Hitz,Caiuby,1
+M. Heller,D. Opare,1
+M. Hinteregger,P. Max,1
+J. Gouweleeuw,J. Mor\u00e1vek,1
+M. Hitz,M. Hinteregger,1
+J. Mor\u00e1vek,A. Finnbogason,1
+R. Khedira,D. Opare,1

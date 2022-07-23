@@ -1,0 +1,9 @@
+Source,Target,Weight
+N. F\u00fcllkrug,O. Sorg,2
+S. Maier,J. Korb,1
+S. Maier,N. F\u00fcllkrug,1
+J. Korb,S. San\u00e9,1
+O. Sorg,S. Maier,1
+S. San\u00e9,N. F\u00fcllkrug,1
+O. Sorg,S. San\u00e9,1
+S. San\u00e9,Jonathas,1

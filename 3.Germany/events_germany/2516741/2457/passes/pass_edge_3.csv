@@ -1,0 +1,19 @@
+Source,Target,Weight
+M. Weiser,M. Leckie,2
+P. Skjelbred,M. Weiser,2
+S. Kalou,M. Plattenhardt,1
+M. Leckie,S. Kalou,1
+S. Langkamp,M. Weiser,1
+K. Rekik,S. Langkamp,1
+A. Esswein,M. Plattenhardt,1
+M. Plattenhardt,K. Rekik,1
+S. Kalou,A. Esswein,1
+M. Plattenhardt,V. Darida,1
+M. Weiser,P. Skjelbred,1
+A. Esswein,S. Kalou,1
+M. Weiser,S. Langkamp,1
+S. Langkamp,P. Skjelbred,1
+V. Darida,M. Weiser,1
+P. Skjelbred,S. Langkamp,1
+S. Langkamp,K. Rekik,1
+K. Rekik,A. Esswein,1

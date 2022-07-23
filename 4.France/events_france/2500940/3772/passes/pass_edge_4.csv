@@ -1,0 +1,111 @@
+Source,Target,Weight
+Y. Sabaly,Malcom,12
+J. Kound\u00e9,Y. Sabaly,8
+Malcom,Y. Sabaly,8
+T. Pellenard,S. Me\u00eft\u00e9,7
+T. Pellenard,F. Kamano,7
+Pablo,J. Kound\u00e9,7
+Pablo,T. Pellenard,7
+Y. Sabaly,L. Lerager,7
+F. Kamano,T. Pellenard,6
+S. Me\u00eft\u00e9,F. Kamano,5
+T. Pellenard,B. Costil,5
+T. Pellenard,J. Kound\u00e9,5
+S. Me\u00eft\u00e9,Ot\u00e1vio,5
+L. Lerager,Malcom,5
+Ot\u00e1vio,T. Pellenard,5
+L. Lerager,G. Laborde,5
+T. Pellenard,N. de Pr\u00e9ville,4
+Malcom,S. Me\u00eft\u00e9,4
+Malcom,Pablo,4
+Malcom,F. Kamano,4
+L. Lerager,Y. Sabaly,4
+S. Me\u00eft\u00e9,N. de Pr\u00e9ville,4
+G. Laborde,T. Pellenard,3
+S. Me\u00eft\u00e9,Malcom,3
+F. Kamano,Malcom,3
+Y. Sabaly,G. Laborde,3
+Pablo,L. Lerager,3
+S. Me\u00eft\u00e9,T. Pellenard,3
+B. Costil,Y. Sabaly,3
+Malcom,T. Pellenard,3
+M. Braithwaite,T. Pellenard,3
+L. Lerager,J. Kound\u00e9,3
+Ot\u00e1vio,S. Me\u00eft\u00e9,3
+N. de Pr\u00e9ville,Pablo,3
+F. Kamano,Pablo,3
+S. Me\u00eft\u00e9,Pablo,3
+J. Kound\u00e9,B. Costil,3
+B. Costil,L. Lerager,3
+J. Kound\u00e9,Ot\u00e1vio,3
+L. Lerager,S. Me\u00eft\u00e9,3
+G. Laborde,Pablo,3
+Y. Sabaly,J. Kound\u00e9,3
+N. de Pr\u00e9ville,T. Pellenard,3
+M. Braithwaite,S. Me\u00eft\u00e9,2
+Ot\u00e1vio,L. Lerager,2
+G. Laborde,F. Kamano,2
+G. Laborde,Y. Sabaly,2
+T. Pellenard,Ot\u00e1vio,2
+G. Laborde,Ot\u00e1vio,2
+T. Pellenard,L. Lerager,2
+Malcom,G. Laborde,2
+F. Kamano,L. Lerager,2
+J. Kound\u00e9,Malcom,2
+N. de Pr\u00e9ville,Ot\u00e1vio,2
+T. Pellenard,M. Braithwaite,2
+T. Pellenard,G. Laborde,2
+B. Costil,Malcom,2
+Malcom,L. Lerager,2
+F. Kamano,S. Me\u00eft\u00e9,2
+Ot\u00e1vio,G. Laborde,2
+T. Pellenard,Pablo,2
+F. Kamano,M. Braithwaite,2
+Pablo,B. Costil,2
+L. Lerager,T. Pellenard,2
+L. Lerager,Pablo,2
+J. Kound\u00e9,L. Lerager,2
+B. Costil,J. Kound\u00e9,2
+J. Kound\u00e9,T. Pellenard,2
+G. Laborde,S. Me\u00eft\u00e9,2
+F. Kamano,Ot\u00e1vio,2
+S. Me\u00eft\u00e9,L. Lerager,2
+J. Kound\u00e9,S. Me\u00eft\u00e9,2
+Ot\u00e1vio,N. de Pr\u00e9ville,2
+B. Costil,G. Laborde,1
+G. Laborde,Malcom,1
+Ot\u00e1vio,F. Kamano,1
+F. Kamano,G. Laborde,1
+M. Braithwaite,Malcom,1
+G. Laborde,M. Braithwaite,1
+Y. Sabaly,T. Pellenard,1
+B. Costil,Pablo,1
+Pablo,Ot\u00e1vio,1
+F. Kamano,Y. Sabaly,1
+G. Laborde,D. Contento,1
+Malcom,M. Braithwaite,1
+Ot\u00e1vio,Pablo,1
+D. Contento,S. Me\u00eft\u00e9,1
+N. de Pr\u00e9ville,G. Laborde,1
+L. Lerager,M. Braithwaite,1
+S. Me\u00eft\u00e9,M. Braithwaite,1
+Pablo,G. Laborde,1
+Ot\u00e1vio,B. Costil,1
+S. Me\u00eft\u00e9,G. Laborde,1
+L. Lerager,F. Kamano,1
+L. Lerager,N. de Pr\u00e9ville,1
+M. Braithwaite,Y. Sabaly,1
+Pablo,S. Me\u00eft\u00e9,1
+G. Laborde,L. Lerager,1
+N. de Pr\u00e9ville,B. Costil,1
+Y. Sabaly,Ot\u00e1vio,1
+M. Braithwaite,B. Costil,1
+J. Kound\u00e9,Pablo,1
+S. Me\u00eft\u00e9,Y. Sabaly,1
+Ot\u00e1vio,J. Kound\u00e9,1
+G. Laborde,J. Kound\u00e9,1
+B. Costil,S. Me\u00eft\u00e9,1
+Pablo,F. Kamano,1
+Malcom,J. Kound\u00e9,1
+N. de Pr\u00e9ville,Malcom,1
+Y. Sabaly,F. Kamano,1

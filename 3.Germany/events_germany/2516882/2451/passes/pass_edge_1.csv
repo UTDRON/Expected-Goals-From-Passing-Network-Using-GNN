@@ -1,0 +1,107 @@
+Source,Target,Weight
+J. Brooks,K. Casteels,14
+M. Arnold,William,12
+William,M. Arnold,11
+J. Guilavogui,F. Uduokhai,10
+M. Arnold,J. Guilavogui,8
+K. Casteels,F. Uduokhai,8
+Y. Gerhardt,J. Guilavogui,8
+M. Arnold,J. Brooks,7
+William,Y. Mall\u0131,7
+P. Verhaegh,J. Brooks,7
+J. Guilavogui,M. Arnold,7
+F. Uduokhai,J. Guilavogui,7
+J. Guilavogui,P. Verhaegh,6
+F. Uduokhai,J. Brooks,6
+F. Uduokhai,Y. Gerhardt,6
+J. Brooks,William,6
+D. Didavi,Y. Gerhardt,6
+M. G\u00f3mez,P. Verhaegh,5
+Y. Gerhardt,D. Didavi,5
+J. Guilavogui,Y. Gerhardt,5
+Y. Mall\u0131,M. Arnold,5
+P. Verhaegh,M. G\u00f3mez,5
+Y. Mall\u0131,William,5
+Y. Gerhardt,P. Verhaegh,5
+F. Uduokhai,William,5
+K. Casteels,M. Arnold,5
+P. Verhaegh,F. Uduokhai,5
+J. Brooks,M. Arnold,5
+Y. Gerhardt,M. G\u00f3mez,5
+J. Brooks,J. Guilavogui,5
+D. Didavi,J. Brooks,5
+M. G\u00f3mez,F. Uduokhai,4
+F. Uduokhai,P. Verhaegh,4
+William,K. Casteels,4
+J. Guilavogui,J. Brooks,4
+J. Brooks,F. Uduokhai,4
+M. Arnold,D. Didavi,4
+P. Verhaegh,Y. Gerhardt,4
+P. Verhaegh,J. Guilavogui,4
+William,Y. Gerhardt,4
+M. Arnold,P. Verhaegh,4
+William,J. Guilavogui,4
+M. G\u00f3mez,K. Casteels,4
+J. Guilavogui,D. Didavi,4
+F. Uduokhai,M. Arnold,4
+K. Casteels,M. G\u00f3mez,4
+K. Casteels,J. Brooks,4
+D. Didavi,P. Verhaegh,3
+M. Arnold,Y. Gerhardt,3
+M. Arnold,Y. Mall\u0131,3
+P. Verhaegh,D. Didavi,3
+D. Didavi,Y. Mall\u0131,3
+William,P. Verhaegh,3
+Y. Gerhardt,J. Brooks,3
+M. G\u00f3mez,Y. Gerhardt,3
+J. Guilavogui,M. G\u00f3mez,3
+M. G\u00f3mez,J. Guilavogui,3
+J. Brooks,Y. Mall\u0131,3
+P. Verhaegh,M. Arnold,3
+M. G\u00f3mez,William,3
+Y. Gerhardt,M. Arnold,3
+J. Guilavogui,William,3
+William,J. Brooks,3
+Y. Mall\u0131,F. Uduokhai,2
+Y. Gerhardt,K. Casteels,2
+K. Casteels,Y. Gerhardt,2
+K. Casteels,P. Verhaegh,2
+M. Arnold,K. Casteels,2
+D. Didavi,M. G\u00f3mez,2
+F. Uduokhai,M. G\u00f3mez,2
+K. Casteels,Y. Mall\u0131,2
+D. Didavi,William,2
+William,M. G\u00f3mez,2
+P. Verhaegh,K. Casteels,2
+Y. Mall\u0131,J. Brooks,2
+J. Brooks,D. Didavi,2
+K. Casteels,J. Guilavogui,2
+K. Casteels,William,2
+P. Verhaegh,William,2
+William,D. Didavi,2
+M. Arnold,M. G\u00f3mez,2
+Y. Mall\u0131,D. Didavi,2
+Y. Mall\u0131,P. Verhaegh,2
+M. G\u00f3mez,Y. Mall\u0131,1
+William,F. Uduokhai,1
+Y. Gerhardt,William,1
+Y. Mall\u0131,M. G\u00f3mez,1
+J. Guilavogui,Y. Mall\u0131,1
+F. Uduokhai,K. Casteels,1
+J. Guilavogui,K. Casteels,1
+K. Casteels,D. Didavi,1
+Y. Mall\u0131,K. Casteels,1
+J. Brooks,P. Verhaegh,1
+F. Uduokhai,D. Didavi,1
+J. Brooks,Y. Gerhardt,1
+M. G\u00f3mez,M. Arnold,1
+Y. Gerhardt,F. Uduokhai,1
+D. Didavi,K. Casteels,1
+Y. Mall\u0131,J. Guilavogui,1
+D. Didavi,F. Uduokhai,1
+D. Didavi,M. Arnold,1
+M. G\u00f3mez,J. Brooks,1
+J. Brooks,M. G\u00f3mez,1
+Y. Gerhardt,Y. Mall\u0131,1
+M. G\u00f3mez,D. Didavi,1
+D. Didavi,J. Guilavogui,1

@@ -1,0 +1,11 @@
+Source,Target,Weight
+A. Blin,G. Imbula,1
+A. Delort,A. Blin,1
+S. Yago,G. Imbula,1
+C. Jean,S. Yago,1
+G. Imbula,A. Delort,1
+M. Gradel,A. Delort,1
+S. Yago,A. Blin,1
+I. Diop,S. Yago,1
+G. Imbula,I. Diop,1
+A. Delort,M. Gradel,1

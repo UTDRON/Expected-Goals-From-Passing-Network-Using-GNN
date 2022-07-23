@@ -1,0 +1,28 @@
+Source,Target,Weight
+J. Martin,E. Seka,3
+Nuno Da Costa,J. Martin,2
+J. Grimm,J. Martin,2
+B. Kamara,J. Martin,2
+E. Seka,D. Li\u00e9nard,2
+D. Li\u00e9nard,B. Kamara,1
+J. Martin,Nuno Da Costa,1
+E. Seka,Y. Salmier,1
+B. Kon\u00e9,J. Grimm,1
+J. Aholou,J. Martin,1
+B. Kon\u00e9,D. Li\u00e9nard,1
+B. Kon\u00e9,E. Seka,1
+J. Aholou,B. Kon\u00e9,1
+K. Lala,J. Martin,1
+J. Martin,B. Kon\u00e9,1
+J. Martin,K. Lala,1
+B. Kamara,Nuno Da Costa,1
+J. Martin,J. Aholou,1
+Nuno Da Costa,B. Kamara,1
+Nuno Da Costa,K. Lala,1
+Y. Salmier,J. Aholou,1
+D. Li\u00e9nard,Nuno Da Costa,1
+K. Lala,Nuno Da Costa,1
+E. Seka,B. Kamara,1
+E. Seka,J. Grimm,1
+D. Li\u00e9nard,B. Kon\u00e9,1
+J. Aholou,E. Seka,1

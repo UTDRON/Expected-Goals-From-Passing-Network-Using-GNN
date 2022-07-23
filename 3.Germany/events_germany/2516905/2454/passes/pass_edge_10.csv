@@ -1,0 +1,19 @@
+Source,Target,Weight
+L. Stindl,P. Herrmann,1
+J. Vestergaard,P. Herrmann,1
+M. Cuisance,J. Vestergaard,1
+Raffael,M. Cuisance,1
+N. Elvedi,M. Cuisance,1
+L. Stindl,M. Cuisance,1
+P. Herrmann,Raffael,1
+L. Stindl,N. Elvedi,1
+Y. Sommer,L. Stindl,1
+M. Cuisance,T. Hazard,1
+N. Elvedi,L. Stindl,1
+P. Herrmann,N. Elvedi,1
+Y. Sommer,N. Elvedi,1
+T. Hazard,J. Vestergaard,1
+N. Elvedi,Y. Sommer,1
+N. Elvedi,Raffael,1
+M. Cuisance,Y. Sommer,1
+Raffael,L. Stindl,1

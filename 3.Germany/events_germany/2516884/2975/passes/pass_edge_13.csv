@@ -1,0 +1,26 @@
+Source,Target,Weight
+N. Ke\u00efta,Bruma,3
+S. Ilsanker,D. Kaiser,3
+W. Orban,D. Demme,2
+D. Kaiser,S. Ilsanker,2
+D. Demme,M. Halstenberg,2
+M. Halstenberg,D. Demme,2
+K. Kampl,D. Kaiser,1
+D. Demme,W. Orban,1
+Bruma,T. Werner,1
+K. Kampl,D. Demme,1
+Bruma,D. Kaiser,1
+P. Gul\u00e1csi,W. Orban,1
+Bruma,W. Orban,1
+T. Werner,N. Ke\u00efta,1
+D. Kaiser,Bruma,1
+Bruma,M. Halstenberg,1
+S. Ilsanker,K. Kampl,1
+D. Demme,K. Kampl,1
+M. Halstenberg,W. Orban,1
+K. Kampl,N. Ke\u00efta,1
+D. Kaiser,P. Gul\u00e1csi,1
+D. Demme,S. Ilsanker,1
+W. Orban,M. Halstenberg,1
+D. Kaiser,K. Kampl,1
+M. Halstenberg,N. Ke\u00efta,1

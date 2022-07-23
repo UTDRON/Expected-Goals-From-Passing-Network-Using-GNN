@@ -1,0 +1,98 @@
+Source,Target,Weight
+C. Kramer,J. Hofmann,9
+O. Wendt,L. Stindl,8
+C. Kramer,J. Vestergaard,8
+J. Vestergaard,C. Kramer,6
+L. Stindl,Raffael,6
+M. Ginter,J. Vestergaard,6
+D. Zakaria,O. Wendt,6
+D. Zakaria,C. Kramer,6
+O. Wendt,C. Kramer,5
+J. Hofmann,N. Elvedi,5
+J. Vestergaard,M. Ginter,5
+J. Hofmann,Raffael,5
+L. Stindl,D. Zakaria,5
+T. Hazard,O. Wendt,5
+Raffael,C. Kramer,5
+M. Ginter,D. Zakaria,4
+N. Elvedi,C. Kramer,4
+O. Wendt,D. Zakaria,4
+O. Wendt,T. Hazard,4
+M. Ginter,N. Elvedi,4
+Y. Sommer,O. Wendt,4
+C. Kramer,M. Ginter,4
+D. Zakaria,J. Vestergaard,4
+Raffael,J. Hofmann,4
+Raffael,D. Zakaria,4
+J. Hofmann,M. Ginter,4
+L. Stindl,J. Hofmann,4
+Raffael,N. Elvedi,3
+M. Ginter,C. Kramer,3
+N. Elvedi,D. Zakaria,3
+C. Kramer,O. Wendt,3
+N. Elvedi,M. Ginter,3
+D. Zakaria,Raffael,3
+J. Vestergaard,N. Elvedi,3
+L. Stindl,T. Hazard,3
+T. Hazard,D. Zakaria,3
+Raffael,M. Ginter,3
+C. Kramer,Raffael,3
+N. Elvedi,J. Hofmann,3
+D. Zakaria,M. Ginter,3
+N. Elvedi,Raffael,3
+J. Hofmann,J. Vestergaard,3
+N. Elvedi,T. Hazard,2
+M. Ginter,Raffael,2
+J. Hofmann,L. Stindl,2
+J. Vestergaard,D. Zakaria,2
+Raffael,L. Stindl,2
+T. Hazard,L. Stindl,2
+C. Kramer,L. Stindl,2
+C. Kramer,N. Elvedi,2
+N. Elvedi,Y. Sommer,2
+D. Zakaria,J. Hofmann,2
+M. Ginter,J. Hofmann,2
+J. Vestergaard,L. Stindl,2
+J. Vestergaard,Y. Sommer,2
+M. Ginter,O. Wendt,2
+D. Zakaria,L. Stindl,2
+M. Ginter,Y. Sommer,2
+L. Stindl,O. Wendt,2
+J. Hofmann,C. Kramer,2
+Raffael,T. Hazard,2
+J. Hofmann,Y. Sommer,2
+J. Hofmann,T. Hazard,2
+J. Vestergaard,J. Hofmann,2
+C. Kramer,D. Zakaria,1
+T. Hazard,M. Ginter,1
+Y. Sommer,J. Vestergaard,1
+J. Hofmann,D. Zakaria,1
+Y. Sommer,M. Ginter,1
+O. Wendt,Raffael,1
+N. Elvedi,J. Vestergaard,1
+N. Elvedi,L. Stindl,1
+J. Vestergaard,T. Hazard,1
+T. Hazard,N. Elvedi,1
+T. Hazard,J. Vestergaard,1
+Y. Sommer,D. Zakaria,1
+Y. Sommer,N. Elvedi,1
+C. Kramer,Y. Sommer,1
+Raffael,O. Wendt,1
+L. Stindl,M. Ginter,1
+T. Hazard,C. Kramer,1
+M. Ginter,L. Stindl,1
+O. Wendt,Y. Sommer,1
+Y. Sommer,C. Kramer,1
+D. Zakaria,T. Hazard,1
+J. Hofmann,O. Wendt,1
+C. Kramer,T. Hazard,1
+D. Zakaria,N. Elvedi,1
+O. Wendt,J. Hofmann,1
+T. Hazard,J. Hofmann,1
+Y. Sommer,L. Stindl,1
+L. Stindl,C. Kramer,1
+L. Stindl,N. Elvedi,1
+J. Vestergaard,O. Wendt,1
+T. Hazard,Y. Sommer,1
+O. Wendt,M. Ginter,1
+Y. Sommer,Raffael,1

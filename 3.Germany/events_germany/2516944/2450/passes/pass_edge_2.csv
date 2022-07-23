@@ -1,0 +1,90 @@
+Source,Target,Weight
+R. van Drongelen,Douglas Santos,8
+J. Arp,Douglas Santos,5
+Walace,G. Sakai,5
+A. Hahn,G. Sakai,5
+G. Sakai,A. Hahn,4
+Douglas Santos,K. Papadopoulos,4
+Walace,K. Papadopoulos,4
+R. van Drongelen,Walace,4
+Douglas Santos,R. van Drongelen,4
+Douglas Santos,Walace,4
+K. Papadopoulos,G. Sakai,4
+K. Papadopoulos,Walace,4
+K. Papadopoulos,M. Mavraj,3
+Douglas Santos,S. Salihovi\u0107,3
+G. Jung,S. Salihovi\u0107,3
+S. Salihovi\u0107,J. Arp,3
+M. Mavraj,K. Papadopoulos,3
+K. Papadopoulos,R. van Drongelen,3
+Walace,G. Jung,3
+G. Jung,G. Sakai,3
+G. Sakai,K. Papadopoulos,3
+R. van Drongelen,K. Papadopoulos,3
+Douglas Santos,J. Arp,3
+K. Papadopoulos,F. Kosti\u0107,3
+F. Kosti\u0107,Douglas Santos,2
+F. Kosti\u0107,G. Jung,2
+G. Sakai,M. Mavraj,2
+K. Papadopoulos,G. Jung,2
+Douglas Santos,F. Kosti\u0107,2
+G. Sakai,R. van Drongelen,2
+S. Salihovi\u0107,K. Papadopoulos,2
+Walace,R. van Drongelen,2
+C. Mathenia,R. van Drongelen,2
+S. Salihovi\u0107,Walace,2
+J. Arp,G. Sakai,2
+G. Jung,R. van Drongelen,2
+M. Mavraj,Douglas Santos,2
+Walace,F. Kosti\u0107,2
+G. Sakai,J. Arp,2
+G. Sakai,G. Jung,2
+G. Sakai,Walace,2
+G. Jung,K. Papadopoulos,2
+J. Arp,S. Salihovi\u0107,2
+F. Kosti\u0107,J. Arp,2
+M. Mavraj,Walace,2
+K. Papadopoulos,S. Salihovi\u0107,1
+G. Jung,A. Hahn,1
+A. Hahn,K. Papadopoulos,1
+K. Papadopoulos,J. Arp,1
+S. Salihovi\u0107,G. Jung,1
+K. Papadopoulos,Douglas Santos,1
+M. Mavraj,R. van Drongelen,1
+K. Papadopoulos,A. Hahn,1
+R. van Drongelen,G. Jung,1
+G. Jung,M. Mavraj,1
+R. van Drongelen,J. Arp,1
+J. Arp,F. Kosti\u0107,1
+G. Sakai,C. Mathenia,1
+J. Arp,M. Mavraj,1
+R. van Drongelen,F. Kosti\u0107,1
+M. Mavraj,G. Sakai,1
+C. Mathenia,M. Mavraj,1
+J. Arp,Walace,1
+K. Papadopoulos,B. Wood,1
+Douglas Santos,C. Mathenia,1
+S. Salihovi\u0107,R. van Drongelen,1
+Walace,C. Mathenia,1
+R. van Drongelen,G. Sakai,1
+Walace,M. Mavraj,1
+C. Mathenia,Douglas Santos,1
+F. Kosti\u0107,R. van Drongelen,1
+Walace,A. Hahn,1
+G. Jung,C. Mathenia,1
+C. Mathenia,J. Arp,1
+F. Kosti\u0107,K. Papadopoulos,1
+F. Kosti\u0107,Walace,1
+M. Mavraj,G. Jung,1
+A. Hahn,Walace,1
+Walace,J. Arp,1
+G. Sakai,S. Salihovi\u0107,1
+A. Hahn,R. van Drongelen,1
+Douglas Santos,G. Jung,1
+Walace,Douglas Santos,1
+B. Wood,Douglas Santos,1
+G. Sakai,B. Wood,1
+S. Salihovi\u0107,A. Hahn,1
+G. Sakai,Douglas Santos,1
+J. Arp,K. Papadopoulos,1
+J. Arp,C. Mathenia,1

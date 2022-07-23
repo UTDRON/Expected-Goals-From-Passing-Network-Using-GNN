@@ -1,0 +1,16 @@
+Source,Target,Weight
+M. Mavraj,C. Mathenia,2
+A. Hunt,A. Ekdal,2
+A. Ekdal,G. Sakai,2
+G. Sakai,A. Hunt,2
+A. Hunt,M. Mavraj,1
+C. Mathenia,G. Jung,1
+A. Hahn,B. Wood,1
+D. Diekmeier,A. Hunt,1
+C. Mathenia,A. Hahn,1
+Walace,M. Mavraj,1
+G. Jung,M. Mavraj,1
+M. Mavraj,Walace,1
+C. Mathenia,A. Ekdal,1
+A. Ekdal,C. Mathenia,1
+B. Wood,A. Hahn,1

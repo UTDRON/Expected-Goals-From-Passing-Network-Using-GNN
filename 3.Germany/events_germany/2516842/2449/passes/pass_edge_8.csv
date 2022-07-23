@@ -1,0 +1,26 @@
+Source,Target,Weight
+M. Meyer,B. Oczipka,3
+B. Oczipka,M. Meyer,3
+T. Kehrer,B. Oczipka,2
+M. Meyer,T. Kehrer,2
+B. Stambouli,M. Meyer,2
+T. Kehrer,G. Burgstaller,2
+D. Caligiuri,B. Stambouli,2
+Naldo,T. Kehrer,1
+B. Oczipka,T. Kehrer,1
+Y. Konoplyanka,B. Embolo,1
+B. Stambouli,R. F\u00e4hrmann,1
+B. Oczipka,Y. Konoplyanka,1
+B. Oczipka,G. Burgstaller,1
+B. Embolo,W. McKennie,1
+T. Kehrer,Y. Konoplyanka,1
+Y. Konoplyanka,B. Oczipka,1
+R. F\u00e4hrmann,T. Kehrer,1
+W. McKennie,D. Caligiuri,1
+B. Embolo,D. Caligiuri,1
+B. Stambouli,Naldo,1
+G. Burgstaller,M. Meyer,1
+M. Meyer,D. Caligiuri,1
+G. Burgstaller,W. McKennie,1
+G. Burgstaller,B. Stambouli,1
+D. Caligiuri,B. Embolo,1

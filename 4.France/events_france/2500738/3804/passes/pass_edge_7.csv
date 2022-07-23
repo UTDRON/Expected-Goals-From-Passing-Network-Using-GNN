@@ -1,0 +1,43 @@
+Source,Target,Weight
+Xeka,P. Djilobodji,4
+B. Reynet,C. Yamber\u00e9,3
+C. Yamber\u00e9,B. Reynet,2
+C. Yamber\u00e9,F. Chafik,2
+P. Djilobodji,B. Reynet,2
+J. Mari\u00e9,F. Chafik,2
+V. Rosier,Xeka,2
+N. Sliti,W. Sa\u00efd,1
+P. Djilobodji,J. Mari\u00e9,1
+W. Sa\u00efd,Xeka,1
+F. Chafik,J. Mari\u00e9,1
+C. Yamber\u00e9,W. Sa\u00efd,1
+B. Jeannot,V. Rosier,1
+V. Rosier,J. Mari\u00e9,1
+C. Yamber\u00e9,J. Mari\u00e9,1
+V. Rosier,W. Sa\u00efd,1
+W. Sa\u00efd,V. Rosier,1
+W. Sa\u00efd,J. Mari\u00e9,1
+F. Chafik,J\u00falio Tavares,1
+P. Djilobodji,J\u00falio Tavares,1
+P. Djilobodji,Xeka,1
+N. Sliti,F. Chafik,1
+J. Mari\u00e9,C. Yamber\u00e9,1
+J. Mari\u00e9,Xeka,1
+J\u00falio Tavares,N. Sliti,1
+F. Chafik,C. Yamber\u00e9,1
+B. Jeannot,P. Djilobodji,1
+Xeka,C. Yamber\u00e9,1
+P. Djilobodji,F. Chafik,1
+Xeka,B. Reynet,1
+J. Mari\u00e9,V. Rosier,1
+B. Reynet,Xeka,1
+C. Yamber\u00e9,Xeka,1
+F. Chafik,V. Rosier,1
+P. Djilobodji,C. Yamber\u00e9,1
+B. Reynet,P. Djilobodji,1
+V. Rosier,B. Jeannot,1
+V. Rosier,P. Djilobodji,1
+F. Chafik,B. Jeannot,1
+J\u00falio Tavares,V. Rosier,1
+P. Djilobodji,V. Rosier,1
+F. Chafik,N. Sliti,1

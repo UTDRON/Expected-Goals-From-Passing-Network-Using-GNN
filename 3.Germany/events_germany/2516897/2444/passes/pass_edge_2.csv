@@ -1,0 +1,52 @@
+Source,Target,Weight
+D. Alaba,N. S\u00fcle,4
+Rafinha,T. M\u00fcller,3
+Javi Mart\u00ednez,J. Boateng,3
+J. Rodr\u00edguez,Javi Mart\u00ednez,3
+J. Boateng,Rafinha,3
+J. Rodr\u00edguez,Rafinha,3
+N. S\u00fcle,D. Alaba,3
+F. Rib\u00e9ry,D. Alaba,2
+S. Ulreich,N. S\u00fcle,2
+N. S\u00fcle,S. Ulreich,2
+N. S\u00fcle,F. Rib\u00e9ry,2
+T. M\u00fcller,D. Alaba,2
+J. Boateng,A. Vidal,2
+Rafinha,A. Robben,2
+F. Rib\u00e9ry,A. Vidal,2
+Rafinha,Javi Mart\u00ednez,2
+A. Vidal,N. S\u00fcle,2
+D. Alaba,T. M\u00fcller,2
+T. M\u00fcller,J. Rodr\u00edguez,2
+J. Rodr\u00edguez,F. Rib\u00e9ry,2
+A. Robben,Rafinha,2
+D. Alaba,J. Boateng,2
+F. Rib\u00e9ry,J. Rodr\u00edguez,2
+Javi Mart\u00ednez,F. Rib\u00e9ry,1
+Javi Mart\u00ednez,T. M\u00fcller,1
+A. Robben,F. Rib\u00e9ry,1
+N. S\u00fcle,J. Boateng,1
+Rafinha,J. Rodr\u00edguez,1
+J. Rodr\u00edguez,A. Robben,1
+J. Boateng,D. Alaba,1
+Javi Mart\u00ednez,A. Vidal,1
+A. Robben,J. Rodr\u00edguez,1
+A. Vidal,Rafinha,1
+Rafinha,D. Alaba,1
+S. Ulreich,J. Rodr\u00edguez,1
+F. Rib\u00e9ry,Rafinha,1
+A. Vidal,J. Rodr\u00edguez,1
+Rafinha,A. Vidal,1
+T. M\u00fcller,Javi Mart\u00ednez,1
+J. Boateng,S. Ulreich,1
+A. Robben,A. Vidal,1
+T. M\u00fcller,J. Boateng,1
+F. Rib\u00e9ry,N. S\u00fcle,1
+A. Vidal,D. Alaba,1
+N. S\u00fcle,Rafinha,1
+Rafinha,S. Ulreich,1
+A. Vidal,A. Robben,1
+D. Alaba,A. Robben,1
+D. Alaba,F. Rib\u00e9ry,1
+A. Vidal,F. Rib\u00e9ry,1
+S. Ulreich,A. Vidal,1

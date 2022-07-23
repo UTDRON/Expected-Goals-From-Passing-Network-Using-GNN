@@ -1,0 +1,21 @@
+Source,Target,Weight
+H. Nordtveit,K. Vogt,2
+K. Demirbay,A. Kramari\u0107,2
+E. Polanski,K. Demirbay,2
+A. Kramari\u0107,E. Polanski,2
+K. Vogt,A. Kramari\u0107,2
+H. Nordtveit,J. Toljan,1
+A. Kramari\u0107,S. Gnabry,1
+J. Toljan,H. Nordtveit,1
+E. Polanski,S. Zuber,1
+K. Vogt,J. Toljan,1
+A. Kramari\u0107,K. Demirbay,1
+S. Zuber,B. H\u00fcbner,1
+J. Toljan,K. Vogt,1
+K. Demirbay,H. Nordtveit,1
+B. H\u00fcbner,A. Kramari\u0107,1
+B. H\u00fcbner,E. Polanski,1
+S. Gnabry,B. H\u00fcbner,1
+A. Kramari\u0107,S. Zuber,1
+E. Polanski,H. Nordtveit,1
+S. Zuber,E. Polanski,1

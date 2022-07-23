@@ -1,0 +1,64 @@
+Source,Target,Weight
+L. Balogun,J. Gbamin,6
+S. Serdar,L. Balogun,5
+J. Gbamin,A. Diallo,4
+D. Brosinski,S. Serdar,4
+A. Diallo,J. Gbamin,3
+L. Balogun,D. Brosinski,3
+J. Gbamin,F. M\u00fcller,2
+J. Gbamin,S. Serdar,2
+K. Onisiwo,D. Latza,2
+F. M\u00fcller,D. Latza,2
+D. Brosinski,L. Balogun,2
+J. Gbamin,N. de Jong,2
+R. Quaison,S. Serdar,2
+F. M\u00fcller,J. Gbamin,2
+D. Latza,R. Quaison,2
+L. Balogun,F. M\u00fcller,2
+S. Serdar,K. Onisiwo,2
+S. Serdar,D. Brosinski,2
+K. Onisiwo,A. Maxim,2
+A. Diallo,K. Onisiwo,2
+L. \u00d6ztunali,R. Quaison,1
+A. Maxim,S. Serdar,1
+D. Latza,D. Brosinski,1
+N. de Jong,A. Maxim,1
+S. Serdar,L. \u00d6ztunali,1
+J. Gbamin,L. \u00d6ztunali,1
+S. Serdar,A. Diallo,1
+N. de Jong,F. M\u00fcller,1
+F. M\u00fcller,L. Balogun,1
+J. Gbamin,D. Latza,1
+D. Brosinski,F. M\u00fcller,1
+D. Brosinski,K. Onisiwo,1
+J. Gbamin,K. Onisiwo,1
+N. de Jong,L. Balogun,1
+J. Gbamin,D. Brosinski,1
+L. Balogun,D. Latza,1
+R. Quaison,L. Balogun,1
+K. Onisiwo,L. Balogun,1
+K. Onisiwo,J. Gbamin,1
+F. M\u00fcller,D. Brosinski,1
+A. Ujah,J. Gbamin,1
+D. Latza,A. Ujah,1
+L. Balogun,N. de Jong,1
+J. Gbamin,L. Balogun,1
+D. Latza,J. Gbamin,1
+D. Latza,A. Diallo,1
+S. Serdar,F. M\u00fcller,1
+L. \u00d6ztunali,D. Brosinski,1
+A. Maxim,L. Balogun,1
+L. \u00d6ztunali,S. Serdar,1
+K. Onisiwo,N. de Jong,1
+D. Brosinski,L. \u00d6ztunali,1
+A. Maxim,K. Onisiwo,1
+A. Diallo,S. Serdar,1
+L. Balogun,S. Serdar,1
+S. Serdar,R. Quaison,1
+L. Balogun,A. Diallo,1
+N. de Jong,S. Serdar,1
+D. Brosinski,J. Gbamin,1
+R. Quaison,D. Brosinski,1
+F. M\u00fcller,A. Ujah,1
+A. Diallo,A. Ujah,1
+A. Ujah,L. Balogun,1

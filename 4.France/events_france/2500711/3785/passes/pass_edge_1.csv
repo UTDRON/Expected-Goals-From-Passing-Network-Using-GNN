@@ -1,0 +1,20 @@
+Source,Target,Weight
+J. Sorbon,Pedro Rebocho,2
+L. Blas,R. Camara,2
+\u00c9. Didot,R. Camara,2
+L. Blas,\u00c9. Didot,1
+R. Camara,L. Blas,1
+C. Kerbrat,\u00c9. Didot,1
+R. Camara,C. Kerbrat,1
+J. Ikoko,J. Sorbon,1
+Pedro Rebocho,J. Ikoko,1
+Pedro Rebocho,J. Sorbon,1
+J. Ikoko,L. Blas,1
+\u00c9. Didot,Pedro Rebocho,1
+Pedro Rebocho,J. Briand,1
+\u00c9. Didot,J. Ikoko,1
+R. Camara,J. Ikoko,1
+J. Briand,\u00c9. Didot,1
+J. Briand,L. Phiri,1
+J. Ikoko,\u00c9. Didot,1
+L. Phiri,L. Blas,1

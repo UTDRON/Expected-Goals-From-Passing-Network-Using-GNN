@@ -1,0 +1,19 @@
+Source,Target,Weight
+M. Weiser,D. Selke,3
+M. Plattenhardt,M. Mittelst\u00e4dt,2
+D. Selke,M. Weiser,2
+M. Weiser,M. Leckie,1
+M. Weiser,S. Langkamp,1
+M. Plattenhardt,M. Weiser,1
+M. Leckie,V. Ibi\u0161evi\u0107,1
+S. Langkamp,M. Weiser,1
+M. Mittelst\u00e4dt,M. Plattenhardt,1
+M. Leckie,M. Plattenhardt,1
+D. Selke,M. Mittelst\u00e4dt,1
+S. Langkamp,K. Rekik,1
+M. Mittelst\u00e4dt,D. Selke,1
+K. Rekik,S. Langkamp,1
+M. Mittelst\u00e4dt,M. Leckie,1
+S. Langkamp,M. Leckie,1
+V. Ibi\u0161evi\u0107,M. Weiser,1
+M. Leckie,S. Langkamp,1

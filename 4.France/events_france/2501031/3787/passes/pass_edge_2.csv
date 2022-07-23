@@ -1,0 +1,47 @@
+Source,Target,Weight
+Hilton,N. Mukiele,3
+N. Mukiele,Pedro Mendes,3
+N. Cozza,D. Congr\u00e9,3
+P. Lasne,N. Cozza,2
+Pedro Mendes,N. Mukiele,2
+G. Sio,P. Lasne,2
+N. Mukiele,F. P\u00edriz,2
+D. Congr\u00e9,N. Cozza,2
+N. Mukiele,E. Skhiri,2
+F. P\u00edriz,Hilton,2
+Pedro Mendes,F. P\u00edriz,2
+F. P\u00edriz,E. Skhiri,2
+E. Skhiri,G. Sio,2
+N. Cozza,C. Ninga,2
+Pedro Mendes,G. Sio,2
+Hilton,G. Sio,2
+D. Congr\u00e9,P. Lasne,2
+G. Sio,N. Cozza,2
+C. Ninga,Hilton,2
+F. P\u00edriz,N. Cozza,2
+G. Sio,F. P\u00edriz,1
+N. Cozza,Pedro Mendes,1
+P. Lasne,C. Ninga,1
+Hilton,B. Lecomte,1
+F. P\u00edriz,Pedro Mendes,1
+P. Lasne,F. P\u00edriz,1
+E. Skhiri,D. Congr\u00e9,1
+G. Sio,Pedro Mendes,1
+P. Lasne,G. Sio,1
+E. Skhiri,N. Mukiele,1
+N. Mukiele,C. Ninga,1
+P. Lasne,Pedro Mendes,1
+C. Ninga,D. Congr\u00e9,1
+E. Skhiri,C. Ninga,1
+E. Skhiri,P. Lasne,1
+D. Congr\u00e9,B. Lecomte,1
+C. Ninga,N. Mukiele,1
+Pedro Mendes,P. Lasne,1
+B. Lecomte,Pedro Mendes,1
+P. Lasne,N. Mukiele,1
+B. Lecomte,E. Skhiri,1
+N. Cozza,E. Skhiri,1
+Pedro Mendes,N. Cozza,1
+N. Cozza,P. Lasne,1
+C. Ninga,F. P\u00edriz,1
+N. Cozza,Hilton,1

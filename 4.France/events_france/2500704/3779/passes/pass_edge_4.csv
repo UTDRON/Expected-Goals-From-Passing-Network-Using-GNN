@@ -1,0 +1,15 @@
+Source,Target,Weight
+J. Martin,K. Lala,3
+K. Lala,B. Corgnet,2
+B. Corgnet,J. Martin,2
+K. Lala,J. Martin,1
+K. Lala,Nuno Da Costa,1
+Nuno Da Costa,P. Martinez,1
+J. Martin,B. Corgnet,1
+B. Corgnet,Nuno Da Costa,1
+Nuno Da Costa,I. Saadi,1
+Nuno Da Costa,J. Martin,1
+I. Saadi,K. Lala,1
+P. Martinez,J. Martin,1
+J. Martin,I. Saadi,1
+I. Saadi,Nuno Da Costa,1

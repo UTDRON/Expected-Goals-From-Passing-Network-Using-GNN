@@ -1,0 +1,18 @@
+Source,Target,Weight
+V. Vada,S. Me\u00eft\u00e9,3
+M. Poundj\u00e9,N. de Pr\u00e9ville,2
+S. Me\u00eft\u00e9,Malcom,2
+N. de Pr\u00e9ville,M. Poundj\u00e9,2
+Pablo,N. de Pr\u00e9ville,1
+S. Me\u00eft\u00e9,V. Vada,1
+M. Poundj\u00e9,S. Me\u00eft\u00e9,1
+L. Lerager,Y. Sabaly,1
+S. Me\u00eft\u00e9,Y. Sabaly,1
+Malcom,S. Me\u00eft\u00e9,1
+S. Me\u00eft\u00e9,Pablo,1
+Y. Sabaly,Pablo,1
+Pablo,M. Poundj\u00e9,1
+Malcom,L. Lerager,1
+Pablo,Malcom,1
+Y. Sabaly,V. Vada,1
+N. de Pr\u00e9ville,V. Vada,1

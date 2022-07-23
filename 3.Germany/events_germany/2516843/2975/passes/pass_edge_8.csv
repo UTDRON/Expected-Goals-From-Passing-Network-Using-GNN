@@ -1,0 +1,21 @@
+Source,Target,Weight
+Bernardo,D. Demme,2
+D. Upamecano,Bernardo,2
+M. Halstenberg,D. Upamecano,2
+M. Sabitzer,D. Upamecano,1
+Bernardo,I. Konat\u00e9,1
+Bernardo,M. Halstenberg,1
+J. Augustin,D. Upamecano,1
+Bruma,M. Halstenberg,1
+D. Upamecano,M. Halstenberg,1
+D. Demme,T. Werner,1
+D. Upamecano,M. Sabitzer,1
+I. Konat\u00e9,D. Demme,1
+T. Werner,M. Sabitzer,1
+D. Demme,Bernardo,1
+M. Halstenberg,J. Augustin,1
+M. Sabitzer,J. Augustin,1
+J. Augustin,M. Halstenberg,1
+D. Demme,D. Upamecano,1
+J. Augustin,Bernardo,1
+D. Upamecano,Bruma,1

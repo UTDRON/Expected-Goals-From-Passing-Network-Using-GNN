@@ -1,0 +1,18 @@
+Source,Target,Weight
+B. Leno,K. Havertz,3
+K. Havertz,D. Kohr,2
+J. Brandt,J. Tah,2
+J. Tah,B. Leno,1
+C. Ar\u00e1nguiz,J. Brandt,1
+D. Kohr,K. Volland,1
+Wendell,B. Leno,1
+D. Kohr,J. Brandt,1
+K. Havertz,Wendell,1
+J. Brandt,D. Kohr,1
+L. Bender,C. Ar\u00e1nguiz,1
+K. Volland,J. Brandt,1
+J. Tah,Wendell,1
+C. Ar\u00e1nguiz,B. Leno,1
+Wendell,C. Ar\u00e1nguiz,1
+D. Kohr,L. Bender,1
+C. Ar\u00e1nguiz,D. Kohr,1

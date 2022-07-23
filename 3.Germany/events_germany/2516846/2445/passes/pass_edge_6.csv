@@ -1,0 +1,21 @@
+Source,Target,Weight
+A. Beck,J. Brekalo,4
+J. Brekalo,C. Gentner,3
+J. Brekalo,A. Beck,3
+C. Gentner,S. Ascac\u00edbar,2
+C. Gentner,B. Pavard,1
+C. Gentner,H. Badstuber,1
+C. Gentner,T. Asano,1
+T. Asano,J. Brekalo,1
+B. Pavard,A. Beck,1
+A. Beck,S. Ascac\u00edbar,1
+S. Ascac\u00edbar,A. Beck,1
+S. Ascac\u00edbar,C. Gentner,1
+H. Badstuber,J. Brekalo,1
+B. Pavard,C. Gentner,1
+A. Beck,T. Asano,1
+R. Zieler,B. Pavard,1
+J. Brekalo,S. Ascac\u00edbar,1
+S. Ascac\u00edbar,J. Brekalo,1
+T. Asano,A. Beck,1
+S. Ascac\u00edbar,T. Asano,1

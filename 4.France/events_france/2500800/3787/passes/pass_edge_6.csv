@@ -1,0 +1,40 @@
+Source,Target,Weight
+R. Aguilar,E. Skhiri,2
+D. Congr\u00e9,Hilton,2
+N. Mukiele,S. Camara,2
+N. Mukiele,G. Sio,2
+S. Camara,P. Lasne,2
+P. Lasne,N. Mukiele,2
+G. Sio,S. Sess\u00e8gnon,1
+D. Congr\u00e9,R. Aguilar,1
+S. Sess\u00e8gnon,P. Lasne,1
+E. Skhiri,S. Sess\u00e8gnon,1
+P. Lasne,R. Aguilar,1
+R. Aguilar,D. Congr\u00e9,1
+S. Sess\u00e8gnon,M. Poaty,1
+G. Sio,N. Mukiele,1
+G. Sio,P. Lasne,1
+S. Camara,D. Congr\u00e9,1
+D. Congr\u00e9,B. Lecomte,1
+B. Lecomte,P. Lasne,1
+E. Skhiri,B. Lecomte,1
+Hilton,D. Congr\u00e9,1
+M. Poaty,N. Mukiele,1
+Pedro Mendes,P. Lasne,1
+B. Lecomte,R. Aguilar,1
+Hilton,Pedro Mendes,1
+P. Lasne,S. Sess\u00e8gnon,1
+S. Sess\u00e8gnon,Hilton,1
+Pedro Mendes,E. Skhiri,1
+S. Sess\u00e8gnon,R. Aguilar,1
+Hilton,N. Mukiele,1
+R. Aguilar,S. Sess\u00e8gnon,1
+P. Lasne,S. Camara,1
+E. Skhiri,S. Camara,1
+P. Lasne,E. Skhiri,1
+S. Camara,R. Aguilar,1
+P. Lasne,D. Congr\u00e9,1
+E. Skhiri,Pedro Mendes,1
+N. Mukiele,E. Skhiri,1
+R. Aguilar,P. Lasne,1
+E. Skhiri,G. Sio,1

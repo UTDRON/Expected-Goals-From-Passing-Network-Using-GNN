@@ -1,0 +1,10 @@
+Source,Target,Weight
+Caiuby,M. Gregoritsch,1
+D. Baier,M. Hinteregger,1
+A. Finnbogason,D. Baier,1
+M. Gregoritsch,R. Khedira,1
+Caiuby,A. Finnbogason,1
+M. Hinteregger,Caiuby,1
+M. Gregoritsch,M. Hinteregger,1
+M. Hinteregger,M. Gregoritsch,1
+R. Khedira,Caiuby,1

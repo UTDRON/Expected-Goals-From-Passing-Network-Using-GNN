@@ -1,0 +1,35 @@
+Source,Target,Weight
+V. Rosier,N. Sliti,3
+F. Balmont,V. Rosier,2
+F. Sammaritano,F. Chafik,2
+N. Sliti,V. Rosier,2
+O. Haddadi,V. Rosier,2
+F. Chafik,F. Sammaritano,2
+V. Rosier,F. Sammaritano,2
+Xeka,B. Reynet,2
+M. Abeid,J\u00falio Tavares,2
+N. Sliti,F. Chafik,1
+F. Sammaritano,M. Abeid,1
+M. Abeid,F. Chafik,1
+J\u00falio Tavares,V. Rosier,1
+F. Balmont,N. Sliti,1
+F. Chafik,J\u00falio Tavares,1
+J\u00falio Tavares,F. Balmont,1
+V. Rosier,Xeka,1
+M. Abeid,B. Reynet,1
+B. Reynet,Xeka,1
+F. Chafik,Xeka,1
+N. Sliti,F. Balmont,1
+F. Balmont,Xeka,1
+B. Reynet,O. Haddadi,1
+Xeka,J\u00falio Tavares,1
+V. Rosier,O. Haddadi,1
+Xeka,F. Balmont,1
+V. Rosier,F. Balmont,1
+Xeka,M. Abeid,1
+B. Reynet,V. Rosier,1
+F. Sammaritano,F. Balmont,1
+J\u00falio Tavares,Xeka,1
+F. Balmont,J\u00falio Tavares,1
+V. Rosier,M. Abeid,1
+J\u00falio Tavares,M. Abeid,1

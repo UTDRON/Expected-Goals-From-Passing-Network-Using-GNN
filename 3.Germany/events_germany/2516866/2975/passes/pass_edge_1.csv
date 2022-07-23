@@ -1,0 +1,69 @@
+Source,Target,Weight
+S. Ilsanker,L. Klostermann,7
+L. Klostermann,S. Ilsanker,6
+Bernardo,W. Orban,5
+W. Orban,Bernardo,4
+D. Demme,Bernardo,4
+S. Ilsanker,W. Orban,4
+L. Klostermann,K. Laimer,4
+Bernardo,K. Kampl,4
+L. Klostermann,D. Kaiser,3
+S. Ilsanker,P. Gul\u00e1csi,3
+K. Kampl,Bernardo,3
+K. Laimer,S. Ilsanker,3
+D. Demme,S. Ilsanker,3
+Y. Poulsen,L. Klostermann,3
+S. Ilsanker,Y. Poulsen,3
+W. Orban,D. Demme,3
+Y. Poulsen,S. Ilsanker,3
+W. Orban,S. Ilsanker,3
+D. Kaiser,W. Orban,2
+Bernardo,D. Demme,2
+K. Laimer,D. Demme,2
+L. Klostermann,Y. Poulsen,2
+K. Laimer,Bernardo,2
+D. Kaiser,K. Laimer,2
+D. Demme,Y. Poulsen,2
+Y. Poulsen,D. Kaiser,2
+W. Orban,D. Kaiser,2
+L. Klostermann,D. Demme,2
+D. Kaiser,L. Klostermann,2
+K. Laimer,L. Klostermann,2
+T. Werner,D. Demme,2
+D. Kaiser,S. Ilsanker,2
+D. Demme,L. Klostermann,2
+W. Orban,Y. Poulsen,2
+K. Kampl,Y. Poulsen,1
+K. Kampl,D. Demme,1
+Bernardo,S. Ilsanker,1
+D. Demme,D. Kaiser,1
+Bernardo,K. Laimer,1
+W. Orban,P. Gul\u00e1csi,1
+L. Klostermann,P. Gul\u00e1csi,1
+Y. Poulsen,K. Laimer,1
+K. Laimer,K. Kampl,1
+P. Gul\u00e1csi,L. Klostermann,1
+K. Kampl,T. Werner,1
+D. Demme,K. Kampl,1
+L. Klostermann,Bernardo,1
+S. Ilsanker,D. Demme,1
+S. Ilsanker,K. Laimer,1
+T. Werner,L. Klostermann,1
+S. Ilsanker,T. Werner,1
+P. Gul\u00e1csi,Bernardo,1
+L. Klostermann,W. Orban,1
+S. Ilsanker,D. Kaiser,1
+D. Kaiser,Y. Poulsen,1
+Bernardo,L. Klostermann,1
+K. Laimer,Y. Poulsen,1
+P. Gul\u00e1csi,Y. Poulsen,1
+Y. Poulsen,K. Kampl,1
+Y. Poulsen,W. Orban,1
+P. Gul\u00e1csi,W. Orban,1
+Y. Poulsen,D. Demme,1
+T. Werner,Y. Poulsen,1
+P. Gul\u00e1csi,K. Laimer,1
+Bernardo,T. Werner,1
+K. Kampl,K. Laimer,1
+Y. Poulsen,T. Werner,1
+D. Demme,W. Orban,1

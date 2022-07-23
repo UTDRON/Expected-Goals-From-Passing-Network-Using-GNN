@@ -1,0 +1,18 @@
+Source,Target,Weight
+C. Kerbrat,N. Benezet,2
+N. Benezet,M. Coco,2
+M. Coco,N. Benezet,1
+J. Martins-Pereira,C. Kerbrat,1
+J. Martins-Pereira,M. Coco,1
+C. Grenier,J. Martins-Pereira,1
+L. Blas,N. Benezet,1
+J. Briand,C. Grenier,1
+N. Benezet,C. Grenier,1
+C. Grenier,J. Briand,1
+F. Eboa Eboa,J. Martins-Pereira,1
+M. Coco,J. Martins-Pereira,1
+J. Martins-Pereira,C. Grenier,1
+N. Benezet,L. Blas,1
+C. Grenier,N. Benezet,1
+N. Benezet,F. Eboa Eboa,1
+M. Coco,J. Briand,1

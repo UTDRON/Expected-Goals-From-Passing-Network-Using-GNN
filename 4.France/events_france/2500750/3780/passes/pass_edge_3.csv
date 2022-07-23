@@ -1,0 +1,96 @@
+Source,Target,Weight
+Y. Cahuzac,I. Diop,9
+C. Jullien,F. Moubandje,8
+C. Jean,C. Jullien,7
+Y. Cahuzac,C. Jullien,7
+F. Moubandje,C. Jullien,5
+O. Toivonen,C. Jean,5
+C. Jullien,Y. Cahuzac,5
+I. Diop,A. Lafont,5
+G. Imbula,F. Moubandje,5
+O. Toivonen,Som\u00e1lia,4
+G. Imbula,Y. Cahuzac,4
+I. Diop,J. Durmaz,4
+F. Moubandje,G. Imbula,4
+C. Jullien,O. Toivonen,4
+G. Imbula,C. Jullien,4
+F. Moubandje,C. Jean,4
+I. Diop,G. Imbula,4
+I. Diop,Y. Cahuzac,4
+A. Lafont,O. Toivonen,4
+C. Jullien,G. Imbula,4
+F. Moubandje,Y. Cahuzac,4
+C. Jean,I. Diop,3
+F. Moubandje,O. Toivonen,3
+F. Moubandje,I. Diop,3
+I. Diop,F. Moubandje,3
+O. Toivonen,G. Imbula,3
+C. Jullien,A. Lafont,3
+O. Toivonen,Y. Cahuzac,3
+C. Jullien,I. Diop,3
+Som\u00e1lia,I. Diop,3
+I. Diop,K. Amian,3
+K. Amian,J. Durmaz,3
+K. Amian,O. Toivonen,3
+J. Durmaz,Y. Cahuzac,3
+G. Imbula,K. Amian,3
+Som\u00e1lia,C. Jullien,3
+J. Durmaz,I. Diop,2
+C. Jullien,J. Durmaz,2
+C. Jean,F. Moubandje,2
+C. Jullien,C. Jean,2
+Y. Cahuzac,K. Amian,2
+G. Imbula,O. Toivonen,2
+A. Lafont,I. Diop,2
+Som\u00e1lia,G. Imbula,2
+A. Lafont,K. Amian,2
+J. Durmaz,Som\u00e1lia,2
+K. Amian,C. Jean,2
+J. Durmaz,O. Toivonen,2
+C. Jean,Som\u00e1lia,2
+F. Moubandje,Som\u00e1lia,2
+A. Lafont,C. Jullien,2
+Som\u00e1lia,J. Durmaz,2
+Som\u00e1lia,O. Toivonen,1
+A. Delort,F. Moubandje,1
+J. Durmaz,G. Imbula,1
+A. Lafont,F. Moubandje,1
+G. Imbula,A. Delort,1
+A. Delort,K. Amian,1
+Som\u00e1lia,F. Moubandje,1
+A. Delort,Som\u00e1lia,1
+C. Jullien,A. Delort,1
+O. Toivonen,A. Lafont,1
+I. Diop,A. Delort,1
+K. Amian,Som\u00e1lia,1
+I. Diop,C. Jullien,1
+O. Toivonen,C. Jullien,1
+Som\u00e1lia,A. Delort,1
+A. Delort,A. Blin,1
+A. Blin,F. Moubandje,1
+J. Durmaz,C. Jullien,1
+K. Amian,A. Delort,1
+Som\u00e1lia,C. Jean,1
+K. Amian,A. Lafont,1
+G. Imbula,A. Lafont,1
+C. Jean,O. Toivonen,1
+Y. Cahuzac,G. Imbula,1
+K. Amian,C. Jullien,1
+K. Amian,I. Diop,1
+Y. Cahuzac,Som\u00e1lia,1
+C. Jean,K. Amian,1
+I. Diop,O. Toivonen,1
+Y. Cahuzac,C. Jean,1
+G. Imbula,I. Diop,1
+C. Jullien,K. Amian,1
+J. Durmaz,F. Moubandje,1
+O. Toivonen,F. Moubandje,1
+I. Diop,Som\u00e1lia,1
+O. Toivonen,K. Amian,1
+Y. Cahuzac,J. Durmaz,1
+O. Toivonen,I. Diop,1
+O. Toivonen,J. Durmaz,1
+Y. Cahuzac,F. Moubandje,1
+A. Delort,C. Jullien,1
+K. Amian,G. Imbula,1
+J. Durmaz,C. Jean,1

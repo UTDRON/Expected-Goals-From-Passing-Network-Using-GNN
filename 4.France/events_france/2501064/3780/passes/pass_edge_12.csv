@@ -1,0 +1,79 @@
+Source,Target,Weight
+S. Yago,I. Diop,6
+M. Gradel,F. Moubandje,5
+I. Diop,C. Jullien,5
+F. Moubandje,C. Jullien,5
+C. Jullien,I. Diop,5
+J. Durmaz,S. Yago,4
+F. Moubandje,M. Gradel,4
+I. Sangar\u00e9,F. Moubandje,4
+I. Sangar\u00e9,S. Yago,4
+S. Yago,I. Sangar\u00e9,4
+I. Diop,S. Yago,4
+J. Durmaz,I. Sangar\u00e9,4
+G. Imbula,I. Diop,3
+I. Diop,I. Sangar\u00e9,3
+Y. Sanogo,Som\u00e1lia,3
+A. Lafont,Y. Sanogo,3
+M. Gradel,C. Jullien,3
+G. Imbula,Som\u00e1lia,3
+C. Jullien,F. Moubandje,3
+C. Jullien,J. Durmaz,3
+A. Lafont,C. Jullien,3
+G. Imbula,C. Jullien,3
+Som\u00e1lia,J. Durmaz,3
+G. Imbula,I. Sangar\u00e9,2
+S. Yago,G. Imbula,2
+G. Imbula,M. Gradel,2
+F. Moubandje,A. Lafont,2
+Som\u00e1lia,M. Gradel,2
+C. Jullien,G. Imbula,2
+I. Sangar\u00e9,G. Imbula,2
+I. Diop,G. Imbula,2
+Som\u00e1lia,A. Lafont,2
+S. Yago,A. Lafont,2
+C. Jullien,A. Lafont,2
+I. Sangar\u00e9,Som\u00e1lia,2
+S. Yago,J. Durmaz,2
+Y. Sanogo,M. Gradel,2
+C. Jullien,M. Gradel,2
+M. Gradel,G. Imbula,2
+C. Jullien,S. Yago,2
+S. Yago,Som\u00e1lia,2
+I. Sangar\u00e9,J. Durmaz,2
+M. Gradel,Y. Sanogo,2
+Som\u00e1lia,S. Yago,2
+A. Lafont,M. Gradel,2
+F. Moubandje,G. Imbula,2
+Y. Sanogo,F. Moubandje,1
+J. Durmaz,I. Diop,1
+I. Sangar\u00e9,M. Gradel,1
+S. Yago,Y. Sanogo,1
+G. Imbula,F. Moubandje,1
+F. Moubandje,S. Yago,1
+S. Yago,F. Moubandje,1
+M. Gradel,S. Yago,1
+C. Jullien,I. Sangar\u00e9,1
+F. Moubandje,Y. Sanogo,1
+I. Sangar\u00e9,Y. Sanogo,1
+A. Lafont,S. Yago,1
+I. Diop,M. Gradel,1
+A. Lafont,G. Imbula,1
+M. Gradel,J. Durmaz,1
+Som\u00e1lia,I. Diop,1
+Y. Sanogo,G. Imbula,1
+J. Durmaz,G. Imbula,1
+C. Jullien,Som\u00e1lia,1
+F. Moubandje,I. Sangar\u00e9,1
+Y. Sanogo,C. Jullien,1
+C. Jullien,Y. Sanogo,1
+Som\u00e1lia,I. Sangar\u00e9,1
+J. Durmaz,C. Jullien,1
+Y. Sanogo,S. Yago,1
+I. Sangar\u00e9,C. Jullien,1
+Som\u00e1lia,F. Moubandje,1
+A. Lafont,I. Sangar\u00e9,1
+I. Sangar\u00e9,A. Lafont,1
+M. Gradel,Som\u00e1lia,1
+G. Imbula,A. Lafont,1
+I. Diop,A. Lafont,1

@@ -1,0 +1,21 @@
+Source,Target,Weight
+M. Russ,M. Hasebe,2
+M. Hasebe,M. Russ,2
+C. Salcedo,Omar Mascarell,2
+M. Hasebe,C. Salcedo,2
+L. Hradecky,M. Hasebe,1
+T. Chandler,S. Haller,1
+C. Salcedo,L. Hradecky,1
+Omar Mascarell,S. Haller,1
+K. Boateng,C. Salcedo,1
+M. Hasebe,K. Boateng,1
+S. Haller,K. Boateng,1
+Omar Mascarell,M. Russ,1
+M. Russ,L. Hradecky,1
+T. Chandler,C. Salcedo,1
+K. Boateng,M. Hasebe,1
+M. Wolf,T. Chandler,1
+L. Hradecky,B. Hrgota,1
+Omar Mascarell,M. Hasebe,1
+C. Salcedo,T. Chandler,1
+B. Hrgota,Omar Mascarell,1

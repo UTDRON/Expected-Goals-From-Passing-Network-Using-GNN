@@ -1,0 +1,105 @@
+Source,Target,Weight
+Marlon,A. Tameze,14
+M. Sarr,Marlon,13
+P. Burner,N. Mendy,13
+N. Mendy,Marlon,12
+Marlon,P. Burner,11
+J. Makengo,P. Lees Melou,11
+M. Sarr,A. Tameze,10
+P. Lees Melou,J. Makengo,10
+N. Mendy,M. Sarr,10
+A. Tameze,M. Sarr,10
+R. Coly,J. Makengo,9
+Marlon,M. Sarr,9
+A. Tameze,N. Mendy,9
+M. Sarr,R. Coly,9
+J. Makengo,R. Coly,9
+N. Mendy,A. Tameze,9
+Marlon,R. Coly,8
+R. Coly,P. Lees Melou,8
+Marlon,N. Mendy,8
+M. Sarr,J. Makengo,8
+I. Sacko,Marlon,7
+I. Sacko,P. Burner,7
+P. Burner,Marlon,7
+P. Burner,A. Tameze,7
+R. Coly,N. Mendy,7
+Marlon,I. Sacko,7
+P. Lees Melou,M. Sarr,7
+P. Burner,I. Sacko,6
+R. Coly,A. Pl\u00e9a,6
+A. Tameze,Marlon,6
+N. Mendy,J. Makengo,6
+A. Tameze,I. Sacko,5
+Marlon,W. Ben\u00edtez,5
+P. Lees Melou,Marlon,5
+R. Coly,M. Sarr,5
+P. Lees Melou,N. Mendy,5
+I. Sacko,A. Pl\u00e9a,5
+J. Makengo,N. Mendy,5
+A. Tameze,P. Lees Melou,5
+W. Ben\u00edtez,Marlon,5
+A. Tameze,P. Burner,5
+J. Makengo,M. Sarr,4
+A. Tameze,W. Ben\u00edtez,4
+J. Makengo,P. Burner,4
+R. Coly,P. Burner,4
+I. Sacko,J. Makengo,4
+J. Makengo,A. Tameze,4
+A. Pl\u00e9a,P. Burner,4
+P. Lees Melou,W. Ben\u00edtez,4
+M. Sarr,P. Lees Melou,4
+W. Ben\u00edtez,P. Burner,4
+P. Burner,P. Lees Melou,4
+N. Mendy,R. Coly,4
+P. Burner,M. Sarr,3
+P. Lees Melou,R. Coly,3
+I. Sacko,A. Tameze,3
+W. Ben\u00edtez,M. Sarr,3
+A. Pl\u00e9a,J. Makengo,3
+A. Tameze,J. Makengo,3
+A. Pl\u00e9a,I. Sacko,3
+I. Sacko,P. Lees Melou,3
+M. Sarr,I. Sacko,3
+A. Pl\u00e9a,R. Coly,3
+P. Lees Melou,P. Burner,3
+J. Makengo,Marlon,3
+A. Tameze,R. Coly,3
+A. Pl\u00e9a,Marlon,3
+N. Mendy,I. Sacko,3
+A. Pl\u00e9a,M. Sarr,3
+P. Burner,R. Coly,3
+J. Makengo,A. Pl\u00e9a,3
+N. Mendy,P. Burner,3
+N. Mendy,P. Lees Melou,3
+A. Tameze,A. Pl\u00e9a,3
+M. Sarr,A. Pl\u00e9a,2
+W. Ben\u00edtez,P. Lees Melou,2
+W. Ben\u00edtez,J. Makengo,2
+P. Burner,W. Ben\u00edtez,2
+A. Pl\u00e9a,N. Mendy,2
+P. Lees Melou,A. Tameze,2
+J. Makengo,I. Sacko,2
+A. Pl\u00e9a,A. Tameze,2
+R. Coly,W. Ben\u00edtez,2
+W. Ben\u00edtez,R. Coly,2
+P. Lees Melou,A. Pl\u00e9a,2
+I. Sacko,N. Mendy,2
+W. Ben\u00edtez,I. Sacko,2
+M. Sarr,N. Mendy,2
+M. Sarr,P. Burner,2
+N. Mendy,W. Ben\u00edtez,2
+R. Coly,Marlon,2
+M. Sarr,W. Ben\u00edtez,1
+Marlon,P. Lees Melou,1
+I. Sacko,M. Sarr,1
+R. Coly,A. Tameze,1
+P. Lees Melou,I. Sacko,1
+P. Burner,J. Makengo,1
+W. Ben\u00edtez,A. Pl\u00e9a,1
+J. Makengo,W. Ben\u00edtez,1
+R. Coly,I. Sacko,1
+N. Mendy,A. Pl\u00e9a,1
+P. Burner,A. Pl\u00e9a,1
+A. Pl\u00e9a,P. Lees Melou,1
+I. Sacko,R. Coly,1

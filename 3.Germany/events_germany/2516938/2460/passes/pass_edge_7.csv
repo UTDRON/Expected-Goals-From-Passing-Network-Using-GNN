@@ -1,0 +1,25 @@
+Source,Target,Weight
+L. Balogun,G. Donati,2
+J. Gbamin,G. Donati,2
+G. Donati,E. Berggreen,2
+S. Bell,L. Balogun,2
+G. Donati,L. Balogun,2
+S. Serdar,S. Bell,1
+R. Quaison,G. Holtmann,1
+D. Latza,G. Donati,1
+S. Serdar,J. Gbamin,1
+J. Gbamin,S. Bell,1
+G. Holtmann,A. Hack,1
+G. Donati,S. Serdar,1
+E. Berggreen,S. Serdar,1
+A. Hack,J. Gbamin,1
+L. Balogun,S. Bell,1
+S. Serdar,G. Holtmann,1
+L. Balogun,J. Gbamin,1
+L. Balogun,S. Serdar,1
+G. Holtmann,L. Balogun,1
+G. Holtmann,R. Quaison,1
+E. Berggreen,R. Quaison,1
+S. Bell,S. Serdar,1
+S. Serdar,D. Latza,1
+R. Quaison,D. Latza,1

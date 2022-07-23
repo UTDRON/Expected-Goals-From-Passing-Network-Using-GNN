@@ -1,0 +1,42 @@
+Source,Target,Weight
+J. Martins-Pereira,L. Blas,3
+L. Blas,J. Martins-Pereira,2
+M. Thuram,L. Deaux,2
+J. Martins-Pereira,M. Coco,2
+M. Coco,J. Martins-Pereira,2
+L. Deaux,K. Johnsson,2
+F. Eboa Eboa,L. Phiri,1
+L. Phiri,L. Blas,1
+J. Briand,L. Blas,1
+K. Johnsson,J. Martins-Pereira,1
+M. Coco,R. Camara,1
+L. Blas,L. Deaux,1
+M. Thuram,J. Briand,1
+L. Deaux,R. Camara,1
+K. Johnsson,C. Kerbrat,1
+Pedro Rebocho,L. Deaux,1
+J. Martins-Pereira,F. Eboa Eboa,1
+Pedro Rebocho,M. Thuram,1
+Pedro Rebocho,F. Eboa Eboa,1
+M. Thuram,J. Martins-Pereira,1
+F. Eboa Eboa,M. Thuram,1
+R. Camara,Pedro Rebocho,1
+L. Deaux,L. Blas,1
+L. Deaux,J. Martins-Pereira,1
+J. Briand,M. Coco,1
+L. Phiri,M. Thuram,1
+C. Kerbrat,L. Deaux,1
+C. Kerbrat,K. Johnsson,1
+L. Blas,Pedro Rebocho,1
+M. Thuram,L. Phiri,1
+J. Martins-Pereira,C. Kerbrat,1
+M. Coco,Pedro Rebocho,1
+Pedro Rebocho,C. Kerbrat,1
+C. Kerbrat,M. Thuram,1
+L. Phiri,J. Martins-Pereira,1
+K. Johnsson,M. Thuram,1
+J. Martins-Pereira,J. Briand,1
+Pedro Rebocho,K. Johnsson,1
+L. Blas,L. Phiri,1
+R. Camara,M. Coco,1
+K. Johnsson,Pedro Rebocho,1

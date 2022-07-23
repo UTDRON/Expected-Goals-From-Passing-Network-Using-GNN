@@ -1,0 +1,32 @@
+Source,Target,Weight
+A. Djiku,V. Bessat,4
+F. Guilbert,H. Bazile,3
+V. Bessat,A. Djiku,3
+H. Bazile,F. Guilbert,2
+D. Da Silva,A. Djiku,2
+A. Djiku,R. Rodelin,2
+A. Djiku,D. Da Silva,2
+J. F\u00e9ret,H. Bazile,1
+V. Bessat,R. Rodelin,1
+Y. A\u00eft Bennasser,A. Djiku,1
+F. Guilbert,D. Da Silva,1
+B. Samba,A. Djiku,1
+Y. A\u00eft Bennasser,V. Bessat,1
+B. Samba,D. Da Silva,1
+D. Da Silva,Y. A\u00eft Bennasser,1
+H. Bazile,J. F\u00e9ret,1
+J. F\u00e9ret,V. Bessat,1
+H. Bazile,B. Samba,1
+D. Da Silva,F. Guilbert,1
+H. Bazile,D. Da Silva,1
+A. Djiku,B. Samba,1
+R. Rodelin,Y. A\u00eft Bennasser,1
+J. F\u00e9ret,Y. A\u00eft Bennasser,1
+R. Rodelin,A. Djiku,1
+Y. A\u00eft Bennasser,H. Bazile,1
+D. Da Silva,J. F\u00e9ret,1
+V. Bessat,H. Bazile,1
+A. Djiku,F. Guilbert,1
+H. Bazile,A. Djiku,1
+Y. A\u00eft Bennasser,J. F\u00e9ret,1
+V. Bessat,Y. A\u00eft Bennasser,1

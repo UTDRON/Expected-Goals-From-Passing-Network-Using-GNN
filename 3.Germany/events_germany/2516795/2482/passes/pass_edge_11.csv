@@ -1,0 +1,15 @@
+Source,Target,Weight
+O. Baumann,H. Nordtveit,2
+H. Nordtveit,S. Wagner,1
+H. Nordtveit,D. Geiger,1
+D. Geiger,A. Kramari\u0107,1
+S. Wagner,A. Kramari\u0107,1
+N. Schulz,A. Kramari\u0107,1
+A. Kramari\u0107,N. Schulz,1
+D. Geiger,S. Wagner,1
+A. Kramari\u0107,D. Geiger,1
+D. Geiger,O. Baumann,1
+S. Wagner,D. Geiger,1
+N. Schulz,D. Geiger,1
+D. Geiger,N. Schulz,1
+N. Schulz,O. Baumann,1

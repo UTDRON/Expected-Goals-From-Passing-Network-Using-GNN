@@ -1,0 +1,118 @@
+Source,Target,Weight
+O. K\u00e4uper,N. Moisander,10
+T. Gebre Selassie,M. Veljkovic,8
+M. Kruse,N. Moisander,7
+N. Moisander,M. Veljkovic,6
+N. Moisander,L. Augustinsson,6
+N. Moisander,O. K\u00e4uper,6
+L. Augustinsson,O. K\u00e4uper,6
+M. Veljkovic,N. Moisander,5
+L. Augustinsson,T. Delaney,5
+M. Veljkovic,T. Gebre Selassie,5
+F. Kainz,T. Delaney,5
+T. Delaney,O. K\u00e4uper,5
+T. Gebre Selassie,M. Kruse,5
+T. Delaney,M. Eggestein,5
+J. Pavlenka,L. Augustinsson,4
+O. K\u00e4uper,L. Augustinsson,4
+M. Veljkovic,F. Kainz,4
+M. Kruse,L. Augustinsson,4
+F. Kainz,M. Veljkovic,4
+M. Veljkovic,O. K\u00e4uper,4
+T. Delaney,L. Augustinsson,4
+N. Moisander,M. Kruse,4
+Z. Junuzovi\u0107,L. Augustinsson,4
+N. Moisander,T. Delaney,4
+O. K\u00e4uper,M. Veljkovic,4
+F. Kainz,O. K\u00e4uper,4
+F. Kainz,T. Gebre Selassie,4
+O. K\u00e4uper,F. Kainz,4
+M. Kruse,O. K\u00e4uper,4
+L. San\u00e9,J. Pavlenka,4
+J. Pavlenka,N. Moisander,4
+L. Augustinsson,M. Kruse,4
+M. Eggestein,T. Gebre Selassie,4
+L. San\u00e9,M. Veljkovic,3
+T. Delaney,L. San\u00e9,3
+L. San\u00e9,L. Augustinsson,3
+T. Gebre Selassie,J. Pavlenka,3
+O. K\u00e4uper,L. San\u00e9,3
+M. Eggestein,F. Kainz,3
+M. Veljkovic,M. Eggestein,3
+N. Moisander,L. San\u00e9,3
+T. Delaney,N. Moisander,3
+T. Gebre Selassie,T. Delaney,3
+L. San\u00e9,N. Moisander,3
+N. Moisander,J. Pavlenka,3
+T. Delaney,T. Gebre Selassie,3
+M. Kruse,T. Delaney,3
+L. Augustinsson,N. Moisander,3
+M. Veljkovic,L. San\u00e9,3
+M. Veljkovic,M. Kruse,3
+L. Augustinsson,Z. Junuzovi\u0107,3
+L. Augustinsson,L. San\u00e9,2
+N. Moisander,T. Gebre Selassie,2
+T. Gebre Selassie,F. Kainz,2
+M. Veljkovic,J. Pavlenka,2
+O. K\u00e4uper,T. Delaney,2
+L. Augustinsson,F. Kainz,2
+O. K\u00e4uper,T. Gebre Selassie,2
+L. San\u00e9,O. K\u00e4uper,2
+F. Kainz,M. Eggestein,2
+J. Pavlenka,T. Gebre Selassie,2
+O. K\u00e4uper,M. Eggestein,2
+M. Kruse,F. Kainz,2
+T. Gebre Selassie,M. Eggestein,2
+O. K\u00e4uper,J. Pavlenka,2
+N. Moisander,F. Kainz,2
+Z. Junuzovi\u0107,T. Delaney,2
+J. Pavlenka,T. Delaney,2
+F. Kainz,Z. Junuzovi\u0107,2
+T. Delaney,F. Kainz,2
+M. Eggestein,M. Kruse,2
+L. Augustinsson,I. Belfodil,2
+L. San\u00e9,T. Gebre Selassie,2
+L. Augustinsson,T. Gebre Selassie,2
+O. K\u00e4uper,M. Kruse,2
+M. Eggestein,J. Pavlenka,2
+M. Eggestein,M. Veljkovic,2
+I. Belfodil,O. K\u00e4uper,2
+T. Delaney,Z. Junuzovi\u0107,1
+T. Gebre Selassie,Z. Junuzovi\u0107,1
+N. Moisander,I. Belfodil,1
+I. Belfodil,T. Delaney,1
+J. Pavlenka,M. Kruse,1
+N. Moisander,Z. Junuzovi\u0107,1
+T. Gebre Selassie,L. Augustinsson,1
+T. Gebre Selassie,I. Belfodil,1
+I. Belfodil,T. Gebre Selassie,1
+Z. Junuzovi\u0107,M. Eggestein,1
+M. Veljkovic,I. Belfodil,1
+I. Belfodil,M. Veljkovic,1
+Z. Junuzovi\u0107,N. Moisander,1
+M. Veljkovic,T. Delaney,1
+M. Eggestein,L. San\u00e9,1
+O. K\u00e4uper,Z. Junuzovi\u0107,1
+L. San\u00e9,T. Delaney,1
+M. Eggestein,O. K\u00e4uper,1
+M. Kruse,Z. Junuzovi\u0107,1
+Z. Junuzovi\u0107,M. Kruse,1
+J. Pavlenka,F. Kainz,1
+M. Eggestein,N. Moisander,1
+M. Eggestein,L. Augustinsson,1
+J. Pavlenka,L. San\u00e9,1
+M. Kruse,L. San\u00e9,1
+F. Kainz,L. San\u00e9,1
+T. Delaney,J. Pavlenka,1
+F. Kainz,N. Moisander,1
+Z. Junuzovi\u0107,T. Gebre Selassie,1
+T. Gebre Selassie,L. San\u00e9,1
+M. Kruse,M. Eggestein,1
+L. Augustinsson,M. Eggestein,1
+L. Augustinsson,M. Veljkovic,1
+J. Pavlenka,O. K\u00e4uper,1
+T. Delaney,M. Veljkovic,1
+J. Pavlenka,M. Veljkovic,1
+T. Gebre Selassie,O. K\u00e4uper,1
+L. San\u00e9,F. Kainz,1
+T. Delaney,I. Belfodil,1

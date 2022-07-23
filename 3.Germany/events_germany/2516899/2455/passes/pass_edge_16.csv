@@ -1,0 +1,21 @@
+Source,Target,Weight
+O. Sorg,K. Karaman,2
+O. Sorg,N. F\u00fcllkrug,2
+M. Bakalorz,O. Sorg,2
+N. F\u00fcllkrug,M. Bakalorz,2
+K. Karaman,I. Bebou,2
+M. Esser,I. Bebou,1
+O. Sorg,M. Esser,1
+M. Bakalorz,W. Anton,1
+S. San\u00e9,O. Sorg,1
+I. Bebou,K. Karaman,1
+M. Bakalorz,N. F\u00fcllkrug,1
+M. Esser,K. Karaman,1
+K. Karaman,M. Bakalorz,1
+S. San\u00e9,M. Bakalorz,1
+I. Bebou,O. Sorg,1
+F. Klaus,S. San\u00e9,1
+I. Bebou,I. Fossum,1
+W. Anton,M. Esser,1
+K. Karaman,O. Sorg,1
+I. Fossum,S. San\u00e9,1

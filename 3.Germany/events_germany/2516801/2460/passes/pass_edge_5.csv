@@ -1,0 +1,92 @@
+Source,Target,Weight
+S. Bell,G. Donati,8
+G. Donati,L. \u00d6ztunali,6
+Y. Muto,F. Frei,6
+G. Donati,Y. Muto,5
+R. Adler,A. Diallo,5
+A. Diallo,D. Latza,5
+D. Brosinski,F. Frei,5
+S. Bell,R. Adler,5
+D. Latza,D. Brosinski,4
+D. Latza,A. Diallo,4
+P. De Blasis,D. Latza,4
+A. Diallo,P. De Blasis,4
+F. Frei,J. Gbamin,4
+F. Frei,D. Brosinski,4
+J. Gbamin,D. Latza,4
+A. Diallo,J. Gbamin,4
+G. Donati,S. Bell,3
+F. Frei,G. Donati,3
+F. Frei,Y. Muto,3
+D. Brosinski,R. Adler,3
+J. Gbamin,S. Bell,3
+L. \u00d6ztunali,G. Donati,3
+L. \u00d6ztunali,S. Bell,3
+D. Brosinski,J. Gbamin,3
+D. Latza,F. Frei,3
+A. Diallo,R. Adler,3
+J. Gbamin,G. Donati,3
+D. Brosinski,A. Diallo,3
+L. \u00d6ztunali,A. Diallo,3
+D. Latza,G. Donati,3
+D. Latza,S. Bell,3
+S. Bell,P. De Blasis,3
+A. Diallo,D. Brosinski,3
+G. Donati,D. Latza,3
+J. Gbamin,A. Diallo,2
+J. Gbamin,D. Brosinski,2
+R. Adler,S. Bell,2
+Y. Muto,L. \u00d6ztunali,2
+G. Donati,D. Brosinski,2
+S. Bell,F. Frei,2
+P. De Blasis,A. Diallo,2
+L. \u00d6ztunali,P. De Blasis,2
+L. \u00d6ztunali,D. Latza,2
+R. Adler,J. Gbamin,2
+P. De Blasis,S. Bell,2
+R. Adler,P. De Blasis,2
+F. Frei,L. \u00d6ztunali,2
+P. De Blasis,D. Brosinski,2
+D. Latza,L. \u00d6ztunali,2
+A. Diallo,F. Frei,1
+D. Brosinski,G. Donati,1
+D. Brosinski,D. Latza,1
+R. Adler,D. Latza,1
+A. Maxim,A. Diallo,1
+P. De Blasis,R. Adler,1
+G. Donati,A. Diallo,1
+G. Donati,F. Frei,1
+D. Latza,P. De Blasis,1
+L. \u00d6ztunali,F. Frei,1
+Y. Muto,J. Gbamin,1
+R. Adler,Y. Muto,1
+J. Gbamin,F. Frei,1
+G. Donati,R. Adler,1
+A. Diallo,G. Donati,1
+D. Brosinski,S. Bell,1
+F. Frei,P. De Blasis,1
+S. Bell,D. Brosinski,1
+P. De Blasis,L. \u00d6ztunali,1
+F. Frei,S. Bell,1
+F. Frei,D. Latza,1
+Y. Muto,D. Brosinski,1
+Y. Muto,D. Latza,1
+G. Donati,J. Gbamin,1
+D. Latza,R. Adler,1
+A. Diallo,L. \u00d6ztunali,1
+D. Latza,Y. Muto,1
+D. Brosinski,Y. Muto,1
+L. \u00d6ztunali,Y. Muto,1
+D. Brosinski,L. \u00d6ztunali,1
+D. Brosinski,A. Maxim,1
+L. \u00d6ztunali,D. Brosinski,1
+F. Frei,R. Adler,1
+P. De Blasis,F. Frei,1
+R. Adler,G. Donati,1
+F. Frei,A. Diallo,1
+Y. Muto,S. Bell,1
+P. De Blasis,G. Donati,1
+D. Brosinski,P. De Blasis,1
+L. \u00d6ztunali,R. Adler,1
+R. Adler,D. Brosinski,1
+R. Adler,L. \u00d6ztunali,1

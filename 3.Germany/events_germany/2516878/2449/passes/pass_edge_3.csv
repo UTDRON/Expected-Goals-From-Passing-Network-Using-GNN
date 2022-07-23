@@ -1,0 +1,16 @@
+Source,Target,Weight
+B. Oczipka,A. Harit,2
+A. Harit,W. McKennie,2
+W. McKennie,M. Meyer,1
+M. Meyer,R. F\u00e4hrmann,1
+G. Burgstaller,B. Oczipka,1
+G. Burgstaller,M. Meyer,1
+M. Meyer,M. Nastasi\u0107,1
+A. Harit,G. Burgstaller,1
+R. F\u00e4hrmann,G. Burgstaller,1
+G. Burgstaller,A. Harit,1
+M. Meyer,Naldo,1
+M. Nastasi\u0107,M. Meyer,1
+Naldo,M. Nastasi\u0107,1
+M. Nastasi\u0107,B. Oczipka,1
+W. McKennie,B. Oczipka,1

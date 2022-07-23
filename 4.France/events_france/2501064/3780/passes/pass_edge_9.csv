@@ -1,0 +1,29 @@
+Source,Target,Weight
+M. Gradel,G. Imbula,3
+S. Yago,J. Durmaz,3
+M. Gradel,F. Moubandje,3
+G. Imbula,M. Gradel,3
+I. Sangar\u00e9,S. Yago,2
+J. Durmaz,F. Moubandje,2
+Y. Sanogo,S. Yago,2
+J. Durmaz,I. Sangar\u00e9,2
+Som\u00e1lia,J. Durmaz,2
+F. Moubandje,G. Imbula,2
+C. Jullien,Y. Sanogo,1
+G. Imbula,Y. Sanogo,1
+F. Moubandje,C. Jullien,1
+J. Durmaz,S. Yago,1
+I. Sangar\u00e9,J. Durmaz,1
+G. Imbula,S. Yago,1
+S. Yago,I. Diop,1
+I. Diop,C. Jullien,1
+S. Yago,I. Sangar\u00e9,1
+F. Moubandje,I. Sangar\u00e9,1
+C. Jullien,M. Gradel,1
+F. Moubandje,I. Diop,1
+S. Yago,M. Gradel,1
+G. Imbula,Som\u00e1lia,1
+I. Sangar\u00e9,Som\u00e1lia,1
+F. Moubandje,M. Gradel,1
+J. Durmaz,Y. Sanogo,1
+I. Diop,G. Imbula,1

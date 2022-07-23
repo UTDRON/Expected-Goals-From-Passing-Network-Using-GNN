@@ -1,0 +1,20 @@
+Source,Target,Weight
+F. Guilbert,J. Delaplace,3
+J. Delaplace,F. Guilbert,2
+S. Peeters,A. Mbengue,1
+A. Djiku,A. Mbengue,1
+A. Djiku,E. Imorou,1
+D. Da Silva,A. Djiku,1
+S. Peeters,E. Imorou,1
+J. Delaplace,S. Peeters,1
+J. Delaplace,D. Da Silva,1
+A. Mbengue,R. Rodelin,1
+S. Peeters,F. Guilbert,1
+E. Imorou,A. Djiku,1
+E. Imorou,A. Mbengue,1
+A. Mbengue,I. Santini,1
+A. Mbengue,S. Peeters,1
+F. Guilbert,S. Peeters,1
+J. Delaplace,A. Mbengue,1
+I. Santini,J. Delaplace,1
+R. Rodelin,F. Guilbert,1

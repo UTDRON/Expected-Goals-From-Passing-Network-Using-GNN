@@ -1,0 +1,21 @@
+Source,Target,Weight
+A. Diallo,P. De Blasis,2
+P. De Blasis,A. Diallo,2
+F. M\u00fcller,A. Hack,2
+A. Hack,P. De Blasis,2
+A. Hack,A. Diallo,2
+J. Gbamin,R. Baku,1
+Y. Muto,F. M\u00fcller,1
+J. Gbamin,A. Hack,1
+R. Baku,A. Hack,1
+A. Diallo,Y. Muto,1
+A. Diallo,A. Hack,1
+P. De Blasis,J. Gbamin,1
+P. De Blasis,A. Hack,1
+A. Hack,F. M\u00fcller,1
+S. Bell,J. Gbamin,1
+J. Gbamin,L. \u00d6ztunali,1
+A. Hack,S. Bell,1
+A. Hack,N. de Jong,1
+L. \u00d6ztunali,J. Gbamin,1
+N. de Jong,R. Baku,1

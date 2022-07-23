@@ -1,0 +1,24 @@
+Source,Target,Weight
+F. Tour\u00e9,Luiz Ara\u00fajo,3
+F. Tour\u00e9,J. Alonso,3
+I. Amadou,J. Alonso,2
+J. Alonso,Luiz Ara\u00fajo,2
+Luiz Ara\u00fajo,F. Tour\u00e9,2
+J. Alonso,F. Tour\u00e9,2
+Thiago Mendes,A. El Ghazi,1
+Thiago Mendes,Edgar I\u00e9,1
+Y. Benzia,A. El Ghazi,1
+Edgar I\u00e9,Thiago Mendes,1
+Luiz Ara\u00fajo,N. de Pr\u00e9ville,1
+N. de Pr\u00e9ville,Thiago Mendes,1
+Luiz Ara\u00fajo,Edgar I\u00e9,1
+A. El Ghazi,I. Amadou,1
+M. Maignan,F. Tour\u00e9,1
+Luiz Ara\u00fajo,M. Maignan,1
+Thiago Mendes,K. Malcuit,1
+Edgar I\u00e9,I. Amadou,1
+Luiz Ara\u00fajo,Thiago Mendes,1
+Thiago Mendes,Y. Benzia,1
+N. de Pr\u00e9ville,Luiz Ara\u00fajo,1
+K. Malcuit,Thiago Mendes,1
+J. Alonso,N. de Pr\u00e9ville,1

@@ -1,0 +1,89 @@
+Source,Target,Weight
+L. Augustinsson,M. Friedl,7
+F. Kainz,L. Augustinsson,6
+T. Gebre Selassie,M. Eggestein,6
+T. Gebre Selassie,P. Bargfrede,6
+J. Pavlenka,M. Eggestein,4
+T. Delaney,M. Kruse,4
+M. Eggestein,T. Gebre Selassie,4
+P. Bargfrede,T. Delaney,4
+M. Friedl,J. Pavlenka,4
+M. Eggestein,F. Kainz,4
+M. Friedl,L. Augustinsson,4
+M. Friedl,T. Gebre Selassie,3
+L. Augustinsson,F. Kainz,3
+M. Friedl,F. Kainz,3
+M. Kruse,P. Bargfrede,3
+P. Bargfrede,L. Augustinsson,3
+P. Bargfrede,T. Gebre Selassie,3
+T. Gebre Selassie,M. Friedl,3
+M. Eggestein,P. Bargfrede,3
+P. Bargfrede,S. Langkamp,3
+F. Kainz,P. Bargfrede,3
+P. Bargfrede,M. Friedl,3
+T. Delaney,P. Bargfrede,3
+M. Rashica,M. Kruse,3
+M. Friedl,S. Langkamp,2
+L. Augustinsson,M. Rashica,2
+M. Rashica,T. Delaney,2
+M. Kruse,T. Delaney,2
+T. Gebre Selassie,M. Rashica,2
+M. Kruse,M. Rashica,2
+F. Kainz,S. Langkamp,2
+L. Augustinsson,T. Delaney,2
+M. Rashica,L. Augustinsson,2
+S. Langkamp,M. Friedl,2
+M. Rashica,F. Kainz,2
+T. Delaney,T. Gebre Selassie,2
+P. Bargfrede,M. Rashica,2
+M. Kruse,T. Gebre Selassie,2
+M. Eggestein,J. Pavlenka,2
+P. Bargfrede,F. Kainz,2
+S. Langkamp,T. Gebre Selassie,2
+F. Kainz,J. Gondorf,2
+F. Kainz,M. Kruse,2
+J. Pavlenka,F. Kainz,1
+P. Bargfrede,J. Pavlenka,1
+P. Bargfrede,M. Kruse,1
+J. Gondorf,F. Kainz,1
+J. Gondorf,P. Bargfrede,1
+M. Kruse,M. Eggestein,1
+T. Gebre Selassie,S. Langkamp,1
+T. Delaney,F. Kainz,1
+M. Friedl,M. Rashica,1
+J. Pavlenka,J. Gondorf,1
+F. Kainz,M. Eggestein,1
+T. Delaney,L. Augustinsson,1
+P. Bargfrede,M. Eggestein,1
+S. Langkamp,M. Kruse,1
+M. Friedl,P. Bargfrede,1
+L. Augustinsson,J. Pavlenka,1
+L. Augustinsson,P. Bargfrede,1
+J. Pavlenka,T. Gebre Selassie,1
+M. Rashica,T. Gebre Selassie,1
+S. Langkamp,P. Bargfrede,1
+J. Pavlenka,P. Bargfrede,1
+F. Kainz,T. Delaney,1
+L. Augustinsson,M. Kruse,1
+T. Delaney,M. Friedl,1
+M. Friedl,M. Eggestein,1
+J. Gondorf,M. Rashica,1
+M. Kruse,J. Pavlenka,1
+M. Eggestein,M. Friedl,1
+T. Delaney,J. Gondorf,1
+M. Eggestein,M. Kruse,1
+S. Langkamp,T. Delaney,1
+T. Gebre Selassie,T. Delaney,1
+M. Rashica,M. Eggestein,1
+S. Langkamp,M. Rashica,1
+M. Kruse,M. Friedl,1
+J. Pavlenka,S. Langkamp,1
+J. Gondorf,M. Eggestein,1
+M. Eggestein,L. Augustinsson,1
+J. Pavlenka,M. Friedl,1
+M. Friedl,M. Kruse,1
+F. Kainz,M. Friedl,1
+M. Rashica,J. Pavlenka,1
+J. Pavlenka,M. Rashica,1
+S. Langkamp,J. Pavlenka,1
+M. Kruse,F. Kainz,1

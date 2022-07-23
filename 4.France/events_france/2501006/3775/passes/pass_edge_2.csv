@@ -1,0 +1,15 @@
+Source,Target,Weight
+J. Seri,Dante,2
+Dante,P. Lees Melou,2
+P. Lees Melou,J. Seri,1
+M. Le Marchand,J. Seri,1
+A. Tameze,J. Seri,1
+A. Saint-Maximin,A. Pl\u00e9a,1
+J. Seri,A. Saint-Maximin,1
+Marlon,Dante,1
+Dante,A. Tameze,1
+A. Tameze,Marlon,1
+J. Seri,A. Souquet,1
+P. Lees Melou,A. Tameze,1
+A. Souquet,B. Srarfi,1
+B. Srarfi,M. Le Marchand,1

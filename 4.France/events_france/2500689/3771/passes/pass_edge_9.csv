@@ -1,0 +1,18 @@
+Source,Target,Weight
+Luiz Gustavo,A. Rami,2
+A. Rami,Luiz Gustavo,2
+Luiz Gustavo,F. Thauvin,1
+V. Germain,H. Sakai,1
+M. Sanson,Luiz Gustavo,1
+C. N'Jie,Rolando,1
+M. Sanson,V. Germain,1
+F. Thauvin,M. Sanson,1
+H. Sakai,V. Germain,1
+V. Germain,F. Thauvin,1
+V. Germain,Luiz Gustavo,1
+Luiz Gustavo,Rolando,1
+Rolando,C. N'Jie,1
+S. Mandanda,Rolando,1
+Rolando,M. Lopez,1
+Rolando,V. Germain,1
+M. Lopez,M. Sanson,1

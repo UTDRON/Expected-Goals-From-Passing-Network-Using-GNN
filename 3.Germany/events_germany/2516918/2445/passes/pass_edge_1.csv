@@ -1,0 +1,96 @@
+Source,Target,Weight
+B. Pavard,T. Baumgartl,20
+T. Baumgartl,B. Pavard,18
+D. Burnic,B. Pavard,17
+B. Pavard,D. Burnic,16
+B. Pavard,M. Kami\u0144ski,13
+B. \u00d6zcan,D. Burnic,13
+D. Burnic,M. Kami\u0144ski,11
+M. Kami\u0144ski,B. Pavard,10
+E. Ins\u00faa,M. Kami\u0144ski,10
+M. Kami\u0144ski,E. Ins\u00faa,10
+C. Gentner,B. Pavard,10
+T. Baumgartl,D. Burnic,9
+M. Kami\u0144ski,B. \u00d6zcan,9
+J. Bruun Larsen,T. Baumgartl,9
+T. Baumgartl,C. Akolo,8
+C. Gentner,C. Akolo,7
+T. Baumgartl,C. Gentner,7
+D. Burnic,C. Gentner,7
+R. Zieler,T. Baumgartl,6
+C. Gentner,B. \u00d6zcan,6
+T. Baumgartl,J. Bruun Larsen,6
+B. Pavard,C. Gentner,6
+C. Akolo,J. Bruun Larsen,6
+C. Akolo,D. Burnic,6
+C. Akolo,T. Baumgartl,6
+J. Bruun Larsen,C. Gentner,5
+D. Burnic,T. Baumgartl,5
+B. \u00d6zcan,C. Akolo,5
+M. Kami\u0144ski,D. Burnic,5
+T. Baumgartl,R. Zieler,5
+E. Ins\u00faa,B. \u00d6zcan,5
+M. Kami\u0144ski,R. Zieler,5
+B. \u00d6zcan,E. Ins\u00faa,5
+M. Kami\u0144ski,M. G\u00f3mez,5
+D. Burnic,M. G\u00f3mez,4
+B. Pavard,R. Zieler,4
+C. Akolo,B. \u00d6zcan,4
+M. G\u00f3mez,T. Baumgartl,4
+B. Pavard,B. \u00d6zcan,4
+R. Zieler,M. Kami\u0144ski,3
+J. Bruun Larsen,B. Pavard,3
+C. Akolo,C. Gentner,3
+D. Burnic,C. Akolo,3
+C. Gentner,D. Burnic,3
+C. Gentner,J. Bruun Larsen,3
+R. Zieler,E. Ins\u00faa,3
+M. G\u00f3mez,C. Gentner,3
+C. Akolo,M. G\u00f3mez,3
+C. Gentner,M. Kami\u0144ski,3
+R. Zieler,B. Pavard,3
+M. G\u00f3mez,C. Akolo,3
+E. Ins\u00faa,T. Baumgartl,3
+D. Burnic,B. \u00d6zcan,3
+J. Bruun Larsen,C. Akolo,3
+E. Ins\u00faa,C. Akolo,3
+D. Burnic,E. Ins\u00faa,3
+M. Kami\u0144ski,C. Gentner,3
+B. \u00d6zcan,B. Pavard,3
+C. Gentner,T. Baumgartl,3
+B. \u00d6zcan,R. Zieler,3
+M. G\u00f3mez,D. Burnic,2
+B. \u00d6zcan,J. Bruun Larsen,2
+M. G\u00f3mez,M. Kami\u0144ski,2
+E. Ins\u00faa,J. Bruun Larsen,2
+M. G\u00f3mez,B. \u00d6zcan,2
+C. Akolo,M. Kami\u0144ski,2
+B. \u00d6zcan,M. Kami\u0144ski,2
+C. Gentner,E. Ins\u00faa,2
+E. Ins\u00faa,B. Pavard,2
+R. Zieler,M. G\u00f3mez,2
+C. Akolo,B. Pavard,2
+B. Pavard,M. G\u00f3mez,2
+B. \u00d6zcan,C. Gentner,2
+M. G\u00f3mez,E. Ins\u00faa,2
+C. Akolo,E. Ins\u00faa,1
+E. Ins\u00faa,C. Gentner,1
+J. Bruun Larsen,B. \u00d6zcan,1
+J. Bruun Larsen,M. G\u00f3mez,1
+E. Ins\u00faa,D. Burnic,1
+R. Zieler,C. Akolo,1
+T. Baumgartl,M. Kami\u0144ski,1
+B. Pavard,C. Akolo,1
+T. Baumgartl,E. Ins\u00faa,1
+C. Gentner,M. G\u00f3mez,1
+D. Burnic,R. Zieler,1
+E. Ins\u00faa,M. G\u00f3mez,1
+B. Pavard,J. Bruun Larsen,1
+T. Baumgartl,M. G\u00f3mez,1
+R. Zieler,C. Gentner,1
+M. G\u00f3mez,R. Zieler,1
+D. Burnic,J. Bruun Larsen,1
+C. Akolo,R. Zieler,1
+T. Baumgartl,B. \u00d6zcan,1
+B. Pavard,E. Ins\u00faa,1
+R. Zieler,J. Bruun Larsen,1

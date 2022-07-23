@@ -1,0 +1,84 @@
+Source,Target,Weight
+L. Goretzka,D. Caligiuri,10
+T. Kehrer,Naldo,10
+Naldo,M. Nastasi\u0107,10
+M. Nastasi\u0107,Naldo,9
+D. Caligiuri,L. Goretzka,9
+D. Caligiuri,T. Kehrer,8
+M. Nastasi\u0107,B. Oczipka,8
+Naldo,T. Kehrer,7
+M. Meyer,M. Nastasi\u0107,5
+B. Oczipka,Naldo,4
+L. Goretzka,B. Embolo,4
+Naldo,M. Meyer,4
+B. Oczipka,M. Nastasi\u0107,4
+Naldo,D. Caligiuri,4
+M. Meyer,Naldo,4
+B. Oczipka,M. Meyer,3
+M. Meyer,B. Oczipka,3
+B. Embolo,D. Caligiuri,3
+T. Kehrer,D. Caligiuri,3
+M. Nastasi\u0107,L. Goretzka,3
+G. Burgstaller,L. Goretzka,3
+T. Kehrer,B. Embolo,3
+G. Burgstaller,M. Meyer,2
+D. Caligiuri,B. Oczipka,2
+G. Burgstaller,D. Caligiuri,2
+G. Burgstaller,M. Nastasi\u0107,2
+L. Goretzka,T. Kehrer,2
+R. F\u00e4hrmann,M. Nastasi\u0107,2
+L. Goretzka,G. Burgstaller,2
+D. Caligiuri,M. Nastasi\u0107,2
+B. Oczipka,D. Caligiuri,2
+B. Oczipka,G. Burgstaller,2
+D. Caligiuri,F. Di Santo,2
+M. Meyer,T. Kehrer,2
+B. Embolo,M. Meyer,2
+L. Goretzka,M. Meyer,2
+F. Di Santo,L. Goretzka,2
+M. Nastasi\u0107,G. Burgstaller,2
+B. Embolo,R. F\u00e4hrmann,2
+T. Kehrer,M. Meyer,1
+T. Kehrer,L. Goretzka,1
+B. Oczipka,B. Embolo,1
+L. Goretzka,F. Di Santo,1
+D. Caligiuri,A. Harit,1
+M. Nastasi\u0107,F. Di Santo,1
+M. Meyer,R. F\u00e4hrmann,1
+F. Di Santo,G. Burgstaller,1
+A. Harit,M. Nastasi\u0107,1
+D. Caligiuri,B. Embolo,1
+M. Meyer,G. Burgstaller,1
+R. F\u00e4hrmann,D. Caligiuri,1
+B. Embolo,B. Oczipka,1
+M. Nastasi\u0107,D. Caligiuri,1
+Naldo,B. Oczipka,1
+F. Di Santo,Naldo,1
+D. Caligiuri,R. F\u00e4hrmann,1
+T. Kehrer,G. Burgstaller,1
+G. Burgstaller,B. Embolo,1
+B. Stambouli,L. Goretzka,1
+L. Goretzka,B. Stambouli,1
+B. Oczipka,L. Goretzka,1
+B. Stambouli,B. Oczipka,1
+R. F\u00e4hrmann,G. Burgstaller,1
+B. Oczipka,B. Stambouli,1
+T. Kehrer,B. Oczipka,1
+R. F\u00e4hrmann,B. Oczipka,1
+R. F\u00e4hrmann,B. Embolo,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+B. Embolo,T. Kehrer,1
+B. Embolo,G. Burgstaller,1
+G. Burgstaller,B. Oczipka,1
+F. Di Santo,M. Meyer,1
+B. Embolo,L. Goretzka,1
+A. Harit,L. Goretzka,1
+B. Oczipka,F. Di Santo,1
+L. Goretzka,Naldo,1
+Naldo,L. Goretzka,1
+R. F\u00e4hrmann,A. Harit,1
+G. Burgstaller,F. Di Santo,1
+Naldo,G. Burgstaller,1
+F. Di Santo,T. Kehrer,1
+T. Kehrer,R. F\u00e4hrmann,1
+M. Nastasi\u0107,M. Meyer,1

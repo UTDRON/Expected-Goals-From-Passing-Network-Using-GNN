@@ -1,0 +1,27 @@
+Source,Target,Weight
+A. Souquet,N. Mendy,2
+Dante,Marlon,2
+Dante,M. Le Marchand,2
+J. Seri,M. Balotelli,2
+A. Souquet,J. Seri,2
+M. Le Marchand,Dante,2
+A. Saint-Maximin,A. Souquet,2
+Marlon,A. Souquet,1
+M. Le Marchand,A. Pl\u00e9a,1
+N. Mendy,M. Le Marchand,1
+A. Souquet,A. Saint-Maximin,1
+M. Le Marchand,N. Mendy,1
+A. Saint-Maximin,N. Mendy,1
+N. Mendy,A. Souquet,1
+N. Mendy,J. Seri,1
+M. Balotelli,I. Ganago,1
+J. Seri,A. Souquet,1
+Marlon,Y. Cardinale,1
+A. Pl\u00e9a,A. Saint-Maximin,1
+I. Ganago,M. Balotelli,1
+A. Pl\u00e9a,J. Seri,1
+N. Mendy,Marlon,1
+M. Balotelli,M. Le Marchand,1
+Marlon,A. Pl\u00e9a,1
+Y. Cardinale,Dante,1
+J. Seri,A. Saint-Maximin,1

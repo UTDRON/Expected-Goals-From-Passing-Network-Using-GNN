@@ -1,0 +1,82 @@
+Source,Target,Weight
+D. Congr\u00e9,Hilton,6
+E. Skhiri,Pedro Mendes,6
+Pedro Mendes,E. Skhiri,6
+P. Lasne,I. Mbenza,5
+P. Lasne,M. Poaty,5
+S. Sess\u00e8gnon,Pedro Mendes,5
+Pedro Mendes,Hilton,5
+M. Poaty,D. Congr\u00e9,5
+I. Mbenza,P. Lasne,4
+N. Mukiele,P. Lasne,4
+S. Camara,D. Congr\u00e9,4
+E. Skhiri,M. Poaty,3
+M. Poaty,P. Lasne,3
+D. Congr\u00e9,S. Sess\u00e8gnon,3
+D. Congr\u00e9,M. Poaty,3
+S. Camara,P. Lasne,3
+Pedro Mendes,N. Mukiele,3
+N. Mukiele,S. Camara,3
+B. Lecomte,Pedro Mendes,3
+M. Poaty,I. Mbenza,3
+Hilton,M. Poaty,3
+Hilton,D. Congr\u00e9,3
+D. Congr\u00e9,P. Lasne,3
+Hilton,Pedro Mendes,3
+I. Mbenza,M. Poaty,3
+P. Lasne,D. Congr\u00e9,2
+E. Skhiri,S. Sess\u00e8gnon,2
+S. Camara,E. Skhiri,2
+S. Sess\u00e8gnon,E. Skhiri,2
+Hilton,P. Lasne,2
+M. Poaty,Hilton,2
+I. Mbenza,S. Sess\u00e8gnon,2
+Hilton,E. Skhiri,2
+S. Sess\u00e8gnon,S. Camara,2
+Hilton,S. Camara,2
+P. Lasne,E. Skhiri,2
+B. Lecomte,Hilton,2
+M. Poaty,E. Skhiri,2
+P. Lasne,S. Sess\u00e8gnon,2
+M. Poaty,S. Camara,2
+E. Skhiri,I. Mbenza,2
+E. Skhiri,Hilton,2
+E. Skhiri,N. Mukiele,2
+Pedro Mendes,S. Sess\u00e8gnon,2
+Pedro Mendes,S. Camara,2
+Hilton,B. Lecomte,2
+B. Lecomte,E. Skhiri,2
+I. Mbenza,B. Lecomte,2
+Pedro Mendes,B. Lecomte,1
+E. Skhiri,D. Congr\u00e9,1
+S. Sess\u00e8gnon,N. Mukiele,1
+P. Lasne,Pedro Mendes,1
+P. Lasne,B. Lecomte,1
+Pedro Mendes,D. Congr\u00e9,1
+Hilton,S. Sess\u00e8gnon,1
+Pedro Mendes,I. Mbenza,1
+Hilton,I. Mbenza,1
+S. Camara,I. Mbenza,1
+S. Camara,M. Poaty,1
+N. Mukiele,Pedro Mendes,1
+S. Sess\u00e8gnon,M. Poaty,1
+D. Congr\u00e9,Pedro Mendes,1
+M. Poaty,B. Lecomte,1
+P. Lasne,S. Camara,1
+D. Congr\u00e9,B. Lecomte,1
+S. Camara,Pedro Mendes,1
+E. Skhiri,B. Lecomte,1
+I. Mbenza,E. Skhiri,1
+D. Congr\u00e9,E. Skhiri,1
+S. Camara,S. Sess\u00e8gnon,1
+E. Skhiri,S. Camara,1
+P. Lasne,Hilton,1
+S. Sess\u00e8gnon,I. Mbenza,1
+I. Mbenza,D. Congr\u00e9,1
+I. Mbenza,N. Mukiele,1
+M. Poaty,Pedro Mendes,1
+B. Lecomte,I. Mbenza,1
+B. Lecomte,S. Camara,1
+Pedro Mendes,P. Lasne,1
+I. Mbenza,Hilton,1
+S. Camara,N. Mukiele,1

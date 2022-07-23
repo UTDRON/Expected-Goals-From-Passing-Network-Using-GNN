@@ -1,0 +1,41 @@
+Source,Target,Weight
+E. Bourgaud,B. Dibassy,3
+B. Dibassy,T. Monconduit,3
+E. Bourgaud,P. Gouano,3
+O. El Hajjam,P. Gouano,2
+T. Monconduit,E. Bourgaud,2
+T. Monconduit,B. Dibassy,2
+T. Ndomb\u00e8l\u00e9,E. Bourgaud,2
+B. Dibassy,J. Ielsch,2
+P. Gouano,E. Bourgaud,2
+J. Ielsch,E. Bourgaud,2
+E. Bourgaud,J. Ielsch,2
+P. Gouano,T. Monconduit,2
+T. Ndomb\u00e8l\u00e9,T. Monconduit,2
+E. Bourgaud,O. El Hajjam,2
+T. Monconduit,K. Ad\u00e9non,2
+M. Konat\u00e9,B. Dibassy,2
+B. Dibassy,T. Ndomb\u00e8l\u00e9,2
+J. Ielsch,T. Monconduit,2
+E. Bourgaud,S. Koita,1
+B. Dibassy,E. Bourgaud,1
+T. Monconduit,T. Ndomb\u00e8l\u00e9,1
+O. El Hajjam,S. Koita,1
+J. Ielsch,T. Ndomb\u00e8l\u00e9,1
+S. Koita,J. Ielsch,1
+T. Ndomb\u00e8l\u00e9,B. Dibassy,1
+P. Gouano,O. El Hajjam,1
+J. Ielsch,B. Dibassy,1
+S. Koita,B. Dibassy,1
+O. El Hajjam,T. Ndomb\u00e8l\u00e9,1
+R. Gurtner,S. Koita,1
+K. Ad\u00e9non,P. Gouano,1
+T. Monconduit,P. Gouano,1
+S. Koita,O. El Hajjam,1
+T. Ndomb\u00e8l\u00e9,M. Konat\u00e9,1
+B. Dibassy,M. Konat\u00e9,1
+P. Gouano,R. Gurtner,1
+P. Gouano,T. Ndomb\u00e8l\u00e9,1
+K. Ad\u00e9non,O. El Hajjam,1
+T. Monconduit,J. Ielsch,1
+O. El Hajjam,E. Bourgaud,1

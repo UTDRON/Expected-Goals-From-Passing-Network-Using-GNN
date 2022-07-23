@@ -1,0 +1,37 @@
+Source,Target,Weight
+J. F\u00e9ret,T. Stavitski,3
+T. Stavitski,R. Genevois,3
+J. F\u00e9ret,R. Rodelin,2
+R. Genevois,T. Stavitski,2
+R. Genevois,J. F\u00e9ret,2
+I. Diomand\u00e9,D. Da Silva,2
+J. F\u00e9ret,Y. A\u00eft Bennasser,2
+T. Stavitski,J. F\u00e9ret,2
+Y. A\u00eft Bennasser,D. Da Silva,2
+D. Da Silva,I. Diomand\u00e9,2
+F. Guilbert,S. Peeters,2
+S. Peeters,Y. A\u00eft Bennasser,1
+T. Stavitski,Y. A\u00eft Bennasser,1
+D. Da Silva,T. Stavitski,1
+Y. A\u00eft Bennasser,E. Crivelli,1
+T. Stavitski,I. Diomand\u00e9,1
+Y. A\u00eft Bennasser,J. F\u00e9ret,1
+F. Guilbert,Y. A\u00eft Bennasser,1
+D. Da Silva,F. Guilbert,1
+E. Crivelli,R. Rodelin,1
+I. Diomand\u00e9,R. Vercoutre,1
+R. Rodelin,D. Da Silva,1
+R. Rodelin,S. Peeters,1
+R. Vercoutre,E. Crivelli,1
+T. Stavitski,F. Guilbert,1
+S. Peeters,E. Crivelli,1
+R. Vercoutre,I. Diomand\u00e9,1
+D. Da Silva,J. F\u00e9ret,1
+E. Crivelli,S. Peeters,1
+E. Crivelli,T. Stavitski,1
+S. Peeters,R. Vercoutre,1
+S. Peeters,J. F\u00e9ret,1
+R. Rodelin,R. Genevois,1
+Y. A\u00eft Bennasser,T. Stavitski,1
+I. Diomand\u00e9,J. F\u00e9ret,1
+J. F\u00e9ret,F. Guilbert,1

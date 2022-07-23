@@ -1,0 +1,21 @@
+Source,Target,Weight
+Lucas Lima,E. Sala,2
+Lucas Lima,A. Thomasson,2
+Diego Carlos,V. Rongier,2
+P. Nakoulma,Diego Carlos,2
+L. Dubois,P. Nakoulma,1
+E. Sala,L. Dubois,1
+A. Thomasson,Lucas Lima,1
+Diego Carlos,Lucas Lima,1
+Diego Carlos,P. Nakoulma,1
+L. Dubois,Diego Carlos,1
+P. Nakoulma,J. Iloki,1
+E. Sala,P. Nakoulma,1
+V. Rongier,L. Dubois,1
+Diego Carlos,J. Iloki,1
+A. Thomasson,Diego Carlos,1
+J. Iloki,E. Sala,1
+J. Iloki,V. Rongier,1
+V. Rongier,E. Sala,1
+E. Sala,Lucas Lima,1
+V. Rongier,Diego Carlos,1

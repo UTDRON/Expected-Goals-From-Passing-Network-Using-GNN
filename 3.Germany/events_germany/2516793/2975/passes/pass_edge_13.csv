@@ -1,0 +1,58 @@
+Source,Target,Weight
+Bruma,L. Klostermann,5
+Bruma,M. Halstenberg,5
+M. Halstenberg,E. Forsberg,5
+E. Forsberg,L. Klostermann,4
+Y. Poulsen,L. Klostermann,4
+L. Klostermann,Y. Poulsen,4
+I. Konat\u00e9,P. Gul\u00e1csi,3
+L. Klostermann,Bruma,3
+M. Halstenberg,D. Demme,3
+D. Upamecano,Bruma,3
+D. Upamecano,M. Halstenberg,3
+L. Klostermann,K. Kampl,2
+E. Forsberg,D. Upamecano,2
+K. Laimer,M. Sabitzer,2
+K. Kampl,S. Ilsanker,2
+P. Gul\u00e1csi,Y. Poulsen,2
+E. Forsberg,M. Sabitzer,2
+K. Kampl,D. Upamecano,2
+S. Ilsanker,Bruma,2
+S. Ilsanker,P. Gul\u00e1csi,2
+M. Halstenberg,K. Laimer,2
+E. Forsberg,Bruma,2
+M. Sabitzer,K. Kampl,1
+D. Demme,M. Halstenberg,1
+Y. Poulsen,E. Forsberg,1
+L. Klostermann,M. Halstenberg,1
+P. Gul\u00e1csi,K. Kampl,1
+S. Ilsanker,D. Demme,1
+L. Klostermann,I. Konat\u00e9,1
+K. Kampl,Bruma,1
+L. Klostermann,K. Laimer,1
+Bruma,E. Forsberg,1
+D. Upamecano,I. Konat\u00e9,1
+P. Gul\u00e1csi,S. Ilsanker,1
+M. Halstenberg,D. Upamecano,1
+L. Klostermann,S. Ilsanker,1
+M. Sabitzer,M. Halstenberg,1
+D. Demme,D. Upamecano,1
+Bruma,M. Sabitzer,1
+E. Forsberg,I. Konat\u00e9,1
+D. Upamecano,K. Kampl,1
+K. Laimer,M. Halstenberg,1
+M. Sabitzer,E. Forsberg,1
+M. Halstenberg,Bruma,1
+M. Sabitzer,S. Ilsanker,1
+Y. Poulsen,K. Kampl,1
+Bruma,D. Upamecano,1
+L. Klostermann,M. Sabitzer,1
+L. Klostermann,D. Upamecano,1
+M. Sabitzer,Bruma,1
+S. Ilsanker,E. Forsberg,1
+P. Gul\u00e1csi,E. Forsberg,1
+D. Demme,Bruma,1
+D. Demme,S. Ilsanker,1
+M. Sabitzer,L. Klostermann,1
+K. Kampl,M. Halstenberg,1
+M. Halstenberg,L. Klostermann,1

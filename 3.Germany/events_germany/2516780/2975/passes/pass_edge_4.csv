@@ -1,0 +1,25 @@
+Source,Target,Weight
+M. Halstenberg,Bruma,2
+M. Compper,T. Werner,2
+Bruma,M. Sabitzer,1
+M. Compper,B. Schmitz,1
+T. Werner,M. Halstenberg,1
+K. Kampl,W. Orban,1
+B. Schmitz,D. Demme,1
+B. Schmitz,M. Sabitzer,1
+Bruma,M. Compper,1
+W. Orban,M. Sabitzer,1
+W. Orban,K. Kampl,1
+M. Compper,W. Orban,1
+M. Sabitzer,M. Compper,1
+K. Kampl,M. Halstenberg,1
+M. Sabitzer,D. Demme,1
+M. Sabitzer,Y. Poulsen,1
+T. Werner,B. Schmitz,1
+T. Werner,M. Compper,1
+M. Halstenberg,T. Werner,1
+D. Demme,M. Sabitzer,1
+Y. Poulsen,M. Compper,1
+D. Demme,M. Compper,1
+M. Compper,K. Kampl,1
+M. Sabitzer,Bruma,1

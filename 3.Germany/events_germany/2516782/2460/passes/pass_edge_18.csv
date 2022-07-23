@@ -1,0 +1,18 @@
+Source,Target,Weight
+S. Bell,A. Maxim,2
+D. Latza,D. Brosinski,2
+S. Bell,P. De Blasis,2
+A. Maxim,S. Serdar,1
+P. De Blasis,D. Latza,1
+D. Brosinski,S. Bell,1
+J. Gbamin,D. Latza,1
+J. Gbamin,S. Bell,1
+S. Serdar,J. Gbamin,1
+P. De Blasis,S. Bell,1
+A. Maxim,P. De Blasis,1
+A. Maxim,Jairo Samperio,1
+D. Latza,A. Maxim,1
+Jairo Samperio,S. Serdar,1
+D. Brosinski,J. Gbamin,1
+S. Serdar,A. Maxim,1
+A. Maxim,S. Bell,1

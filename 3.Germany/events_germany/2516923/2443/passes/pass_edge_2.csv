@@ -1,0 +1,105 @@
+Source,Target,Weight
+N. Moisander,L. Augustinsson,21
+M. Veljkovic,N. Moisander,19
+T. Delaney,M. Veljkovic,17
+M. Veljkovic,T. Gebre Selassie,15
+T. Gebre Selassie,M. Veljkovic,13
+L. Augustinsson,T. Delaney,12
+T. Delaney,N. Moisander,12
+N. Moisander,M. Veljkovic,11
+L. Augustinsson,N. Moisander,11
+L. Augustinsson,J. Gondorf,10
+T. Gebre Selassie,T. Delaney,10
+N. Moisander,T. Delaney,9
+L. Augustinsson,M. Kruse,8
+J. Gondorf,L. Augustinsson,8
+J. Pavlenka,N. Moisander,8
+M. Eggestein,T. Gebre Selassie,7
+T. Gebre Selassie,M. Rashica,7
+M. Veljkovic,T. Delaney,7
+M. Kruse,M. Veljkovic,7
+M. Kruse,N. Moisander,7
+M. Rashica,T. Gebre Selassie,7
+T. Gebre Selassie,M. Kruse,6
+T. Delaney,L. Augustinsson,6
+M. Kruse,L. Augustinsson,6
+M. Rashica,J. Gondorf,6
+I. Belfodil,T. Delaney,6
+N. Moisander,J. Pavlenka,6
+T. Gebre Selassie,M. Eggestein,6
+N. Moisander,M. Kruse,6
+T. Delaney,T. Gebre Selassie,6
+M. Kruse,T. Gebre Selassie,5
+M. Veljkovic,M. Rashica,5
+I. Belfodil,N. Moisander,5
+T. Delaney,I. Belfodil,5
+M. Veljkovic,M. Eggestein,5
+I. Belfodil,L. Augustinsson,5
+N. Moisander,I. Belfodil,5
+T. Delaney,J. Gondorf,5
+J. Pavlenka,I. Belfodil,4
+J. Gondorf,I. Belfodil,4
+J. Gondorf,M. Kruse,4
+L. Augustinsson,I. Belfodil,4
+M. Veljkovic,J. Pavlenka,4
+I. Belfodil,M. Kruse,4
+J. Gondorf,T. Delaney,4
+M. Eggestein,T. Delaney,4
+M. Kruse,T. Delaney,4
+M. Rashica,M. Veljkovic,4
+T. Delaney,J. Pavlenka,4
+T. Gebre Selassie,J. Gondorf,4
+J. Pavlenka,T. Delaney,3
+L. Augustinsson,J. Pavlenka,3
+M. Eggestein,M. Kruse,3
+M. Eggestein,M. Veljkovic,3
+M. Rashica,M. Eggestein,3
+M. Kruse,M. Rashica,3
+M. Eggestein,M. Rashica,3
+T. Delaney,M. Eggestein,3
+N. Moisander,M. Eggestein,3
+J. Gondorf,N. Moisander,3
+N. Moisander,J. Gondorf,3
+I. Belfodil,T. Gebre Selassie,3
+A. J\u00f3hannsson,T. Gebre Selassie,3
+T. Gebre Selassie,A. J\u00f3hannsson,3
+J. Gondorf,M. Veljkovic,2
+M. Eggestein,N. Moisander,2
+T. Delaney,M. Kruse,2
+J. Pavlenka,T. Gebre Selassie,2
+M. Veljkovic,A. J\u00f3hannsson,2
+T. Delaney,M. Rashica,2
+J. Pavlenka,M. Veljkovic,2
+M. Veljkovic,M. Kruse,2
+N. Moisander,M. Rashica,2
+J. Gondorf,M. Rashica,2
+J. Gondorf,T. Gebre Selassie,2
+N. Moisander,T. Gebre Selassie,2
+M. Kruse,M. Eggestein,2
+M. Eggestein,J. Gondorf,2
+M. Rashica,T. Delaney,2
+M. Kruse,J. Gondorf,1
+M. Eggestein,A. J\u00f3hannsson,1
+J. Gondorf,J. Pavlenka,1
+J. Pavlenka,A. J\u00f3hannsson,1
+A. J\u00f3hannsson,I. Belfodil,1
+M. Rashica,L. Augustinsson,1
+T. Gebre Selassie,L. Augustinsson,1
+A. J\u00f3hannsson,J. Pavlenka,1
+L. Augustinsson,M. Eggestein,1
+A. J\u00f3hannsson,M. Veljkovic,1
+M. Rashica,I. Belfodil,1
+I. Belfodil,J. Gondorf,1
+A. J\u00f3hannsson,M. Kruse,1
+J. Gondorf,M. Eggestein,1
+J. Pavlenka,M. Eggestein,1
+M. Rashica,M. Kruse,1
+M. Eggestein,L. Augustinsson,1
+A. J\u00f3hannsson,M. Eggestein,1
+T. Gebre Selassie,N. Moisander,1
+M. Veljkovic,L. Augustinsson,1
+T. Gebre Selassie,J. Pavlenka,1
+M. Kruse,I. Belfodil,1
+L. Augustinsson,M. Rashica,1
+J. Gondorf,A. J\u00f3hannsson,1
+M. Kruse,J. Pavlenka,1

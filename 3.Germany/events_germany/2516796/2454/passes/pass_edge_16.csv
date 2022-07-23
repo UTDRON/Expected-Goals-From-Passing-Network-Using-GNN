@@ -1,0 +1,17 @@
+Source,Target,Weight
+T. Hazard,N. Elvedi,2
+O. Wendt,V. Grifo,2
+V. Grifo,M. Ginter,1
+M. Ginter,J. Vestergaard,1
+D. Zakaria,O. Wendt,1
+R. Bobadilla,N. Elvedi,1
+N. Elvedi,L. Stindl,1
+J. Vestergaard,D. Zakaria,1
+N. Elvedi,C. Kramer,1
+C. Kramer,O. Wendt,1
+M. Ginter,N. Elvedi,1
+R. Bobadilla,L. Stindl,1
+L. Stindl,T. Hazard,1
+N. Elvedi,T. Hazard,1
+N. Elvedi,M. Ginter,1
+V. Grifo,R. Bobadilla,1

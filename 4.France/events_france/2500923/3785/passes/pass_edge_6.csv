@@ -1,0 +1,84 @@
+Source,Target,Weight
+F. Eboa Eboa,C. Kerbrat,9
+\u00c9. Didot,J. Ikoko,6
+N. Benezet,\u00c9. Didot,6
+F. Eboa Eboa,Pedro Rebocho,6
+J. Ikoko,N. Benezet,6
+J. Briand,N. Benezet,5
+Pedro Rebocho,F. Eboa Eboa,5
+N. Benezet,J. Ikoko,4
+\u00c9. Didot,L. Blas,4
+N. Benezet,L. Blas,4
+L. Blas,C. Kerbrat,4
+C. Kerbrat,\u00c9. Didot,4
+C. Kerbrat,J. Ikoko,4
+\u00c9. Didot,F. Eboa Eboa,4
+L. Phiri,\u00c9. Didot,4
+L. Phiri,F. Eboa Eboa,4
+C. Kerbrat,L. Phiri,3
+J. Ikoko,M. Coco,3
+\u00c9. Didot,M. Coco,3
+L. Blas,J. Ikoko,3
+Pedro Rebocho,N. Benezet,3
+M. Coco,L. Blas,3
+M. Coco,\u00c9. Didot,3
+Pedro Rebocho,L. Phiri,3
+C. Kerbrat,L. Blas,3
+Pedro Rebocho,M. Coco,3
+C. Kerbrat,N. Benezet,3
+M. Coco,J. Ikoko,3
+J. Ikoko,C. Kerbrat,3
+N. Benezet,F. Eboa Eboa,3
+L. Blas,L. Phiri,3
+M. Coco,N. Benezet,2
+N. Benezet,Pedro Rebocho,2
+L. Blas,Pedro Rebocho,2
+F. Eboa Eboa,J. Briand,2
+J. Briand,Pedro Rebocho,2
+J. Ikoko,J. Briand,2
+\u00c9. Didot,C. Kerbrat,2
+\u00c9. Didot,N. Benezet,2
+J. Ikoko,\u00c9. Didot,2
+Pedro Rebocho,\u00c9. Didot,2
+L. Blas,M. Coco,2
+L. Phiri,M. Coco,2
+K. Johnsson,J. Briand,2
+N. Benezet,M. Coco,2
+F. Eboa Eboa,K. Johnsson,2
+C. Kerbrat,F. Eboa Eboa,2
+L. Phiri,C. Kerbrat,2
+L. Blas,J. Briand,2
+M. Coco,L. Phiri,2
+N. Benezet,L. Phiri,2
+C. Kerbrat,J. Briand,2
+C. Kerbrat,Pedro Rebocho,2
+M. Coco,Pedro Rebocho,2
+J. Ikoko,L. Blas,1
+\u00c9. Didot,L. Phiri,1
+L. Phiri,N. Benezet,1
+J. Briand,L. Blas,1
+Pedro Rebocho,C. Kerbrat,1
+J. Ikoko,F. Eboa Eboa,1
+F. Eboa Eboa,\u00c9. Didot,1
+K. Johnsson,M. Coco,1
+L. Phiri,L. Blas,1
+L. Blas,N. Benezet,1
+\u00c9. Didot,J. Briand,1
+K. Johnsson,L. Blas,1
+J. Ikoko,K. Johnsson,1
+C. Kerbrat,K. Johnsson,1
+N. Benezet,J. Briand,1
+L. Phiri,J. Ikoko,1
+J. Ikoko,L. Phiri,1
+K. Johnsson,C. Kerbrat,1
+F. Eboa Eboa,N. Benezet,1
+J. Briand,\u00c9. Didot,1
+M. Coco,F. Eboa Eboa,1
+J. Briand,F. Eboa Eboa,1
+F. Eboa Eboa,M. Coco,1
+\u00c9. Didot,Pedro Rebocho,1
+M. Coco,C. Kerbrat,1
+L. Blas,F. Eboa Eboa,1
+L. Phiri,K. Johnsson,1
+J. Briand,L. Phiri,1
+J. Briand,C. Kerbrat,1

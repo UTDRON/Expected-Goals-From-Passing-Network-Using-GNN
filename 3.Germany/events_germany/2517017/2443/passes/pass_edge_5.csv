@@ -1,0 +1,60 @@
+Source,Target,Weight
+P. Bargfrede,M. Veljkovic,5
+T. Gebre Selassie,F. Kainz,5
+N. Moisander,M. Friedl,5
+M. Friedl,N. Moisander,4
+F. Kainz,T. Gebre Selassie,4
+M. Veljkovic,T. Gebre Selassie,3
+M. Veljkovic,N. Moisander,3
+P. Bargfrede,N. Moisander,2
+M. Eggestein,P. Bargfrede,2
+M. Eggestein,M. Friedl,2
+M. Friedl,P. Bargfrede,2
+T. Gebre Selassie,M. Veljkovic,2
+M. Veljkovic,P. Bargfrede,2
+J. Gondorf,M. Kruse,2
+T. Gebre Selassie,M. Eggestein,2
+N. Moisander,M. Veljkovic,2
+J. Pavlenka,T. Gebre Selassie,1
+J. Gondorf,I. Belfodil,1
+M. Friedl,M. Veljkovic,1
+N. Moisander,M. Rashica,1
+J. Pavlenka,M. Friedl,1
+M. Eggestein,J. Gondorf,1
+M. Rashica,J. Gondorf,1
+F. Kainz,P. Bargfrede,1
+M. Veljkovic,J. Pavlenka,1
+F. Kainz,M. Eggestein,1
+M. Kruse,M. Rashica,1
+M. Kruse,M. Eggestein,1
+I. Belfodil,M. Friedl,1
+M. Kruse,J. Gondorf,1
+N. Moisander,I. Belfodil,1
+N. Moisander,T. Gebre Selassie,1
+J. Pavlenka,M. Veljkovic,1
+N. Moisander,J. Pavlenka,1
+F. Kainz,M. Veljkovic,1
+M. Veljkovic,F. Kainz,1
+M. Kruse,I. Belfodil,1
+J. Gondorf,T. Gebre Selassie,1
+J. Pavlenka,N. Moisander,1
+J. Gondorf,J. Pavlenka,1
+P. Bargfrede,J. Pavlenka,1
+I. Belfodil,J. Gondorf,1
+I. Belfodil,M. Kruse,1
+M. Veljkovic,J. Gondorf,1
+M. Veljkovic,I. Belfodil,1
+M. Rashica,N. Moisander,1
+I. Belfodil,N. Moisander,1
+I. Belfodil,M. Veljkovic,1
+P. Bargfrede,M. Friedl,1
+J. Pavlenka,P. Bargfrede,1
+T. Gebre Selassie,I. Belfodil,1
+N. Moisander,J. Gondorf,1
+M. Friedl,T. Gebre Selassie,1
+M. Friedl,M. Eggestein,1
+I. Belfodil,M. Eggestein,1
+M. Friedl,J. Pavlenka,1
+T. Gebre Selassie,P. Bargfrede,1
+M. Eggestein,F. Kainz,1
+M. Veljkovic,M. Kruse,1

@@ -1,0 +1,101 @@
+Source,Target,Weight
+D. Upamecano,I. Konat\u00e9,5
+I. Konat\u00e9,N. Ke\u00efta,4
+Y. Poulsen,M. Halstenberg,3
+Bruma,T. Werner,3
+I. Konat\u00e9,L. Klostermann,3
+P. Gul\u00e1csi,D. Upamecano,3
+D. Upamecano,Bruma,3
+I. Konat\u00e9,P. Gul\u00e1csi,3
+K. Laimer,S. Ilsanker,3
+L. Klostermann,S. Ilsanker,3
+S. Ilsanker,D. Upamecano,3
+L. Klostermann,K. Kampl,3
+N. Ke\u00efta,D. Upamecano,3
+Bruma,N. Ke\u00efta,2
+L. Klostermann,P. Gul\u00e1csi,2
+D. Demme,Y. Poulsen,2
+S. Ilsanker,M. Halstenberg,2
+D. Upamecano,D. Demme,2
+I. Konat\u00e9,S. Ilsanker,2
+Bruma,I. Konat\u00e9,2
+N. Ke\u00efta,L. Klostermann,2
+Bruma,M. Halstenberg,2
+M. Halstenberg,Bruma,2
+M. Halstenberg,D. Upamecano,2
+K. Kampl,Y. Poulsen,2
+T. Werner,Bruma,2
+P. Gul\u00e1csi,Y. Poulsen,2
+T. Werner,I. Konat\u00e9,2
+S. Ilsanker,N. Ke\u00efta,2
+N. Ke\u00efta,Bruma,2
+Y. Poulsen,D. Upamecano,2
+S. Ilsanker,D. Demme,2
+M. Halstenberg,P. Gul\u00e1csi,2
+T. Werner,D. Upamecano,2
+D. Upamecano,K. Laimer,2
+N. Ke\u00efta,S. Ilsanker,2
+D. Upamecano,M. Halstenberg,2
+D. Upamecano,K. Kampl,2
+Bruma,D. Upamecano,2
+N. Ke\u00efta,I. Konat\u00e9,2
+D. Upamecano,N. Ke\u00efta,2
+M. Halstenberg,D. Demme,2
+N. Ke\u00efta,Y. Poulsen,2
+T. Werner,Y. Poulsen,1
+M. Halstenberg,S. Ilsanker,1
+I. Konat\u00e9,Bruma,1
+I. Konat\u00e9,K. Laimer,1
+M. Halstenberg,I. Konat\u00e9,1
+P. Gul\u00e1csi,N. Ke\u00efta,1
+I. Konat\u00e9,T. Werner,1
+Bruma,S. Ilsanker,1
+D. Demme,K. Kampl,1
+N. Ke\u00efta,D. Demme,1
+L. Klostermann,I. Konat\u00e9,1
+Y. Poulsen,D. Demme,1
+K. Kampl,T. Werner,1
+K. Laimer,M. Halstenberg,1
+D. Demme,I. Konat\u00e9,1
+N. Ke\u00efta,M. Halstenberg,1
+Y. Poulsen,L. Klostermann,1
+T. Werner,L. Klostermann,1
+K. Laimer,I. Konat\u00e9,1
+K. Kampl,N. Ke\u00efta,1
+S. Ilsanker,K. Kampl,1
+D. Demme,M. Halstenberg,1
+D. Demme,N. Ke\u00efta,1
+D. Demme,L. Klostermann,1
+S. Ilsanker,L. Klostermann,1
+N. Ke\u00efta,K. Kampl,1
+T. Werner,M. Halstenberg,1
+T. Werner,S. Ilsanker,1
+D. Upamecano,S. Ilsanker,1
+K. Kampl,S. Ilsanker,1
+K. Kampl,M. Halstenberg,1
+Y. Poulsen,I. Konat\u00e9,1
+S. Ilsanker,T. Werner,1
+P. Gul\u00e1csi,L. Klostermann,1
+M. Halstenberg,K. Laimer,1
+S. Ilsanker,P. Gul\u00e1csi,1
+Y. Poulsen,N. Ke\u00efta,1
+Bruma,L. Klostermann,1
+M. Halstenberg,T. Werner,1
+M. Halstenberg,Y. Poulsen,1
+K. Laimer,N. Ke\u00efta,1
+P. Gul\u00e1csi,I. Konat\u00e9,1
+D. Upamecano,T. Werner,1
+Y. Poulsen,T. Werner,1
+K. Kampl,D. Upamecano,1
+I. Konat\u00e9,Y. Poulsen,1
+I. Konat\u00e9,D. Upamecano,1
+Y. Poulsen,K. Laimer,1
+L. Klostermann,Bruma,1
+D. Demme,K. Laimer,1
+K. Kampl,Bruma,1
+D. Demme,D. Upamecano,1
+I. Konat\u00e9,D. Demme,1
+N. Ke\u00efta,T. Werner,1
+L. Klostermann,N. Ke\u00efta,1
+S. Ilsanker,Bruma,1
+S. Ilsanker,I. Konat\u00e9,1

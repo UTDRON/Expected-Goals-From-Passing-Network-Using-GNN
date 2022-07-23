@@ -1,0 +1,51 @@
+Source,Target,Weight
+Javi Mart\u00ednez,Rafinha,4
+A. Robben,Rafinha,4
+Rafinha,N. S\u00fcle,3
+Javi Mart\u00ednez,N. S\u00fcle,3
+N. S\u00fcle,F. Rib\u00e9ry,3
+Thiago Alc\u00e2ntara,A. Robben,3
+F. Rib\u00e9ry,Thiago Alc\u00e2ntara,3
+Thiago Alc\u00e2ntara,C. Tolisso,3
+C. Tolisso,F. Rib\u00e9ry,3
+N. S\u00fcle,Thiago Alc\u00e2ntara,3
+Rafinha,Javi Mart\u00ednez,3
+Rafinha,A. Robben,2
+S. Rudy,C. Tolisso,2
+Juan Bernat,Thiago Alc\u00e2ntara,2
+Juan Bernat,F. Rib\u00e9ry,2
+Thiago Alc\u00e2ntara,N. S\u00fcle,2
+S. Wagner,N. S\u00fcle,2
+Rafinha,S. Rudy,2
+N. S\u00fcle,Javi Mart\u00ednez,2
+Javi Mart\u00ednez,Juan Bernat,2
+F. Rib\u00e9ry,C. Tolisso,2
+S. Ulreich,Javi Mart\u00ednez,1
+C. Tolisso,Javi Mart\u00ednez,1
+Thiago Alc\u00e2ntara,Javi Mart\u00ednez,1
+C. Tolisso,Rafinha,1
+Thiago Alc\u00e2ntara,S. Rudy,1
+N. S\u00fcle,A. Robben,1
+A. Robben,S. Rudy,1
+N. S\u00fcle,S. Ulreich,1
+Thiago Alc\u00e2ntara,F. Rib\u00e9ry,1
+Rafinha,Thiago Alc\u00e2ntara,1
+A. Robben,S. Wagner,1
+S. Rudy,Thiago Alc\u00e2ntara,1
+S. Wagner,A. Robben,1
+S. Rudy,Javi Mart\u00ednez,1
+N. S\u00fcle,S. Wagner,1
+A. Robben,Thiago Alc\u00e2ntara,1
+F. Rib\u00e9ry,Rafinha,1
+F. Rib\u00e9ry,S. Rudy,1
+A. Robben,N. S\u00fcle,1
+Juan Bernat,N. S\u00fcle,1
+F. Rib\u00e9ry,Juan Bernat,1
+S. Rudy,N. S\u00fcle,1
+F. Rib\u00e9ry,S. Wagner,1
+S. Rudy,Rafinha,1
+C. Tolisso,Thiago Alc\u00e2ntara,1
+S. Wagner,S. Rudy,1
+N. S\u00fcle,Juan Bernat,1
+C. Tolisso,A. Robben,1
+Thiago Alc\u00e2ntara,Juan Bernat,1

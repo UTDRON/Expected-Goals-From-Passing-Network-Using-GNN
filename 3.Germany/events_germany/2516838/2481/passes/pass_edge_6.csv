@@ -1,0 +1,22 @@
+Source,Target,Weight
+P. Max,Caiuby,2
+A. Finnbogason,R. Khedira,2
+K. Danso,D. Opare,2
+D. Opare,M. Heller,2
+K. Danso,J. Gouweleeuw,1
+D. Baier,J. Gouweleeuw,1
+D. Baier,K. Danso,1
+J. Gouweleeuw,D. Baier,1
+M. Heller,A. Finnbogason,1
+R. Khedira,M. Hitz,1
+Caiuby,J. Gouweleeuw,1
+M. Heller,P. Max,1
+M. Hitz,Caiuby,1
+R. Khedira,K. Danso,1
+J. Gouweleeuw,M. Hitz,1
+J. Gouweleeuw,P. Max,1
+M. Hitz,D. Opare,1
+Caiuby,M. Hitz,1
+D. Opare,P. Max,1
+M. Hitz,D. Baier,1
+Caiuby,A. Finnbogason,1

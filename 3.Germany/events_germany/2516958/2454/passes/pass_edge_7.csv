@@ -1,0 +1,21 @@
+Source,Target,Weight
+Y. Sommer,R. Oxford,2
+T. Hazard,L. Stindl,2
+N. Elvedi,T. Hazard,2
+L. Stindl,R. Oxford,1
+M. Cuisance,C. Kramer,1
+T. Hazard,J. Hofmann,1
+J. Vestergaard,Y. Sommer,1
+L. Stindl,N. Elvedi,1
+J. Hofmann,M. Cuisance,1
+R. Oxford,J. Vestergaard,1
+C. Kramer,N. Elvedi,1
+M. Cuisance,L. Stindl,1
+R. Oxford,M. Cuisance,1
+M. Cuisance,R. Oxford,1
+L. Stindl,T. Hazard,1
+M. Cuisance,T. Hazard,1
+R. Oxford,Y. Sommer,1
+N. Elvedi,M. Cuisance,1
+T. Hazard,N. Elvedi,1
+R. Oxford,J. Hofmann,1

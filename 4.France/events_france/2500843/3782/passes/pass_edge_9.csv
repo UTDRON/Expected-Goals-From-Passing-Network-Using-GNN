@@ -1,0 +1,52 @@
+Source,Target,Weight
+J. Bamba,S. Janko,6
+S. Janko,K. Th\u00e9ophile Catherine,3
+B. Dabo,O. Seln\u00e6s,2
+L. Diony,S. Janko,2
+B. Dabo,S. Janko,2
+O. Seln\u00e6s,V. Pajot,2
+B. Dabo,J. Bamba,2
+S. Ruffier,L. Diony,2
+S. Janko,J. Bamba,2
+S. Janko,V. Pajot,2
+K. Th\u00e9ophile Catherine,S. Janko,2
+V. Pajot,K. Th\u00e9ophile Catherine,2
+C. M'Bengue,O. Seln\u00e6s,2
+V. Pajot,J. Bamba,2
+S. Janko,S. Ruffier,2
+K. Th\u00e9ophile Catherine,O. Seln\u00e6s,1
+L. Perrin,J. Bamba,1
+L. Perrin,C. M'Bengue,1
+L. Perrin,B. Dabo,1
+K. Th\u00e9ophile Catherine,V. Pajot,1
+K. Monnet-Paquet,J. Bamba,1
+J. Bamba,K. Monnet-Paquet,1
+O. Seln\u00e6s,S. Ruffier,1
+S. Janko,O. Seln\u00e6s,1
+O. Seln\u00e6s,K. Monnet-Paquet,1
+V. Pajot,L. Perrin,1
+S. Janko,B. Dabo,1
+L. Perrin,K. Th\u00e9ophile Catherine,1
+S. Ruffier,V. Pajot,1
+O. Seln\u00e6s,J. Bamba,1
+K. Monnet-Paquet,B. Dabo,1
+O. Seln\u00e6s,C. M'Bengue,1
+K. Th\u00e9ophile Catherine,L. Perrin,1
+J. Bamba,B. Dabo,1
+B. Dabo,L. Diony,1
+S. Janko,L. Diony,1
+J. Bamba,V. Pajot,1
+K. Monnet-Paquet,C. M'Bengue,1
+S. Janko,L. Perrin,1
+L. Diony,K. Monnet-Paquet,1
+C. M'Bengue,B. Dabo,1
+K. Th\u00e9ophile Catherine,L. Diony,1
+L. Diony,O. Seln\u00e6s,1
+L. Perrin,L. Diony,1
+L. Diony,L. Perrin,1
+O. Seln\u00e6s,L. Perrin,1
+V. Pajot,L. Diony,1
+O. Seln\u00e6s,S. Janko,1
+V. Pajot,B. Dabo,1
+L. Diony,B. Dabo,1
+L. Perrin,O. Seln\u00e6s,1

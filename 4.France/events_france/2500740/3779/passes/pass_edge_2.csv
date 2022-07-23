@@ -1,0 +1,74 @@
+Source,Target,Weight
+M. Terrier,J. Martin,4
+E. Seka,Nuno Da Costa,4
+B. Kamara,E. Seka,4
+J. Aholou,J. Martin,4
+Nuno Da Costa,E. Seka,4
+M. Terrier,P. Martinez,3
+J. Martin,B. Kon\u00e9,3
+J. Martin,M. Terrier,3
+M. Terrier,D. Li\u00e9nard,3
+E. Seka,B. Kamara,3
+D. Li\u00e9nard,B. Kon\u00e9,3
+J. Martin,Nuno Da Costa,3
+E. Seka,J. Aholou,3
+I. Sacko,J. Aholou,3
+P. Martinez,J. Martin,3
+B. Kon\u00e9,D. Li\u00e9nard,3
+B. Kon\u00e9,K. Mangane,2
+J. Aholou,M. Terrier,2
+K. Mangane,B. Kamara,2
+J. Martin,K. Mangane,2
+Nuno Da Costa,J. Martin,2
+B. Kamara,Nuno Da Costa,2
+Nuno Da Costa,J. Aholou,2
+J. Martin,I. Sacko,2
+I. Sacko,M. Terrier,2
+J. Martin,E. Seka,2
+J. Martin,B. Kamara,2
+B. Kon\u00e9,J. Martin,2
+P. Martinez,M. Terrier,2
+D. Li\u00e9nard,E. Seka,2
+E. Seka,I. Sacko,2
+Nuno Da Costa,D. Li\u00e9nard,2
+P. Martinez,Nuno Da Costa,1
+I. Sacko,E. Seka,1
+B. Kamara,J. Aholou,1
+D. Li\u00e9nard,J. Martin,1
+J. Aholou,Nuno Da Costa,1
+J. Martin,J. Aholou,1
+J. Aholou,I. Sacko,1
+Nuno Da Costa,B. Kon\u00e9,1
+B. Kon\u00e9,M. Terrier,1
+B. Kamara,M. Terrier,1
+K. Mangane,E. Seka,1
+K. Mangane,P. Martinez,1
+M. Terrier,I. Sacko,1
+B. Kamara,B. Kon\u00e9,1
+K. Mangane,M. Terrier,1
+J. Aholou,K. Mangane,1
+D. Li\u00e9nard,Nuno Da Costa,1
+D. Li\u00e9nard,B. Kamara,1
+K. Mangane,J. Aholou,1
+J. Martin,D. Li\u00e9nard,1
+M. Terrier,K. Mangane,1
+B. Kon\u00e9,P. Martinez,1
+K. Mangane,J. Martin,1
+Nuno Da Costa,M. Terrier,1
+I. Saadi,J. Martin,1
+M. Terrier,Nuno Da Costa,1
+B. Kamara,I. Saadi,1
+E. Seka,J. Martin,1
+I. Saadi,M. Terrier,1
+Nuno Da Costa,P. Martinez,1
+E. Seka,K. Mangane,1
+D. Li\u00e9nard,I. Saadi,1
+E. Seka,B. Kon\u00e9,1
+P. Martinez,B. Kamara,1
+I. Sacko,D. Li\u00e9nard,1
+J. Aholou,E. Seka,1
+Nuno Da Costa,I. Sacko,1
+M. Terrier,B. Kon\u00e9,1
+I. Sacko,Nuno Da Costa,1
+B. Kon\u00e9,B. Kamara,1
+D. Li\u00e9nard,I. Sacko,1

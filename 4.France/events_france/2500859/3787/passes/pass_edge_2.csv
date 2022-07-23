@@ -1,0 +1,11 @@
+Source,Target,Weight
+R. Aguilar,S. Sess\u00e8gnon,3
+N. Mukiele,R. Aguilar,3
+S. Sess\u00e8gnon,R. Aguilar,2
+R. Aguilar,N. Mukiele,2
+N. Mukiele,S. Sess\u00e8gnon,1
+Hilton,J. Roussillon,1
+P. Lasne,Hilton,1
+Hilton,N. Mukiele,1
+J. Roussillon,N. Mukiele,1
+S. Sess\u00e8gnon,Hilton,1

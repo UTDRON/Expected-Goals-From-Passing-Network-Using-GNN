@@ -1,0 +1,11 @@
+Source,Target,Weight
+S. Wagner,M. Uth,1
+N. Amiri,D. Geiger,1
+K. Vogt,D. Geiger,1
+S. Posch,K. Vogt,1
+M. Uth,S. Wagner,1
+K. Demirbay,N. Amiri,1
+S. Posch,S. Wagner,1
+F. Grillitsch,S. Posch,1
+D. Geiger,F. Grillitsch,1
+S. Wagner,K. Demirbay,1

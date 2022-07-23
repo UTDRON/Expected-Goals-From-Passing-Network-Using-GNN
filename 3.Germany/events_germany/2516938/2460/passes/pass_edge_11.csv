@@ -1,0 +1,75 @@
+Source,Target,Weight
+Y. Muto,D. Latza,3
+G. Donati,S. Serdar,3
+S. Serdar,G. Donati,3
+G. Donati,L. Balogun,3
+G. Holtmann,A. Hack,3
+D. Latza,Y. Muto,3
+A. Hack,G. Holtmann,3
+D. Latza,J. Gbamin,2
+S. Serdar,L. Balogun,2
+J. Gbamin,D. Latza,2
+A. Hack,E. Berggreen,2
+L. Balogun,S. Serdar,2
+E. Berggreen,L. Balogun,2
+R. Zentner,E. Berggreen,2
+S. Bell,J. Gbamin,2
+G. Holtmann,E. Berggreen,2
+S. Serdar,J. Gbamin,2
+G. Holtmann,D. Latza,2
+Y. Muto,S. Bell,2
+S. Bell,Y. Muto,2
+Y. Muto,G. Donati,2
+D. Latza,P. De Blasis,2
+E. Berggreen,J. Gbamin,2
+P. De Blasis,G. Donati,2
+J. Gbamin,G. Holtmann,2
+J. Gbamin,A. Hack,2
+A. Hack,J. Gbamin,2
+A. Ujah,P. De Blasis,2
+P. De Blasis,Y. Muto,2
+J. Gbamin,G. Donati,2
+G. Donati,P. De Blasis,1
+R. Zentner,Y. Muto,1
+E. Berggreen,A. Hack,1
+A. Ujah,G. Holtmann,1
+A. Hack,D. Latza,1
+G. Holtmann,A. Ujah,1
+D. Latza,R. Zentner,1
+G. Donati,Y. Muto,1
+S. Serdar,A. Hack,1
+R. Zentner,S. Serdar,1
+L. Balogun,J. Gbamin,1
+A. Ujah,G. Donati,1
+S. Bell,L. Balogun,1
+P. De Blasis,S. Bell,1
+G. Holtmann,R. Zentner,1
+G. Donati,J. Gbamin,1
+Y. Muto,G. Holtmann,1
+J. Gbamin,S. Serdar,1
+E. Berggreen,P. De Blasis,1
+P. De Blasis,A. Hack,1
+P. De Blasis,A. Ujah,1
+A. Hack,S. Bell,1
+S. Bell,D. Latza,1
+G. Donati,S. Bell,1
+G. Donati,A. Ujah,1
+L. Balogun,R. Zentner,1
+E. Berggreen,G. Donati,1
+Y. Muto,P. De Blasis,1
+L. Balogun,E. Berggreen,1
+L. Balogun,S. Bell,1
+E. Berggreen,S. Serdar,1
+S. Bell,R. Zentner,1
+J. Gbamin,Y. Muto,1
+G. Donati,E. Berggreen,1
+D. Latza,A. Hack,1
+Y. Muto,A. Hack,1
+S. Bell,G. Holtmann,1
+J. Gbamin,P. De Blasis,1
+J. Gbamin,S. Bell,1
+P. De Blasis,D. Latza,1
+L. Balogun,G. Holtmann,1
+L. Balogun,D. Latza,1
+D. Latza,G. Donati,1
+A. Hack,A. Ujah,1

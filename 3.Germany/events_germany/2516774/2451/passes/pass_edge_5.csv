@@ -1,0 +1,98 @@
+Source,Target,Weight
+R. Knoche,P. Verhaegh,12
+P. Verhaegh,R. Knoche,10
+Y. Gerhardt,M. Arnold,8
+M. Arnold,R. Knoche,8
+M. Arnold,J. Guilavogui,8
+Y. Gerhardt,F. Uduokhai,7
+J. Guilavogui,M. Arnold,7
+R. Knoche,K. Casteels,7
+F. Uduokhai,Y. Gerhardt,6
+R. Knoche,J. Guilavogui,6
+M. Arnold,Y. Gerhardt,6
+Camacho,R. Knoche,6
+J. Guilavogui,R. Knoche,6
+M. Arnold,D. Didavi,6
+Camacho,M. Arnold,5
+K. Casteels,F. Uduokhai,5
+D. Didavi,Y. Gerhardt,5
+F. Uduokhai,D. Didavi,5
+F. Uduokhai,M. Arnold,5
+F. Uduokhai,J. Guilavogui,5
+J. Guilavogui,P. Verhaegh,5
+P. Verhaegh,D. Didavi,5
+Y. Gerhardt,Camacho,5
+D. Didavi,P. Verhaegh,5
+Camacho,J. Guilavogui,4
+M. Arnold,Camacho,4
+R. Knoche,M. Arnold,4
+R. Knoche,F. Uduokhai,4
+M. Arnold,F. Uduokhai,4
+J. Guilavogui,D. Didavi,4
+D. Didavi,P. Ntep,4
+P. Verhaegh,M. Arnold,4
+Camacho,F. Uduokhai,4
+P. Verhaegh,J. Guilavogui,4
+D. Didavi,F. Uduokhai,3
+R. Knoche,D. Origi,3
+K. Casteels,M. Arnold,3
+P. Verhaegh,Camacho,3
+R. Knoche,Camacho,3
+Camacho,Y. Gerhardt,3
+D. Origi,Camacho,3
+Y. Gerhardt,D. Didavi,3
+F. Uduokhai,P. Ntep,3
+F. Uduokhai,R. Knoche,3
+J. Guilavogui,D. Origi,3
+K. Casteels,R. Knoche,2
+K. Casteels,D. Origi,2
+Camacho,D. Didavi,2
+P. Ntep,P. Verhaegh,2
+J. Guilavogui,F. Uduokhai,2
+D. Didavi,D. Origi,2
+F. Uduokhai,K. Casteels,2
+L. Dimata,J. Guilavogui,2
+F. Uduokhai,Camacho,2
+D. Origi,F. Uduokhai,2
+D. Didavi,M. Arnold,2
+M. Arnold,P. Verhaegh,2
+L. Dimata,Y. Gerhardt,2
+Y. Gerhardt,J. Guilavogui,2
+D. Didavi,Camacho,2
+D. Didavi,R. Knoche,2
+J. Guilavogui,William,2
+D. Origi,R. Knoche,2
+Camacho,K. Casteels,2
+P. Ntep,Y. Gerhardt,2
+D. Origi,M. Arnold,2
+M. Arnold,K. Casteels,2
+J. Guilavogui,Camacho,2
+J. Guilavogui,Y. Gerhardt,1
+Y. Gerhardt,P. Ntep,1
+P. Ntep,R. Knoche,1
+P. Verhaegh,D. Origi,1
+J. Guilavogui,L. Dimata,1
+K. Casteels,P. Ntep,1
+M. Arnold,P. Ntep,1
+D. Origi,J. Guilavogui,1
+R. Knoche,Y. Gerhardt,1
+William,R. Knoche,1
+K. Casteels,William,1
+P. Ntep,F. Uduokhai,1
+D. Origi,P. Verhaegh,1
+P. Ntep,Camacho,1
+Camacho,P. Verhaegh,1
+P. Ntep,D. Didavi,1
+D. Origi,L. Dimata,1
+L. Dimata,M. Arnold,1
+J. Guilavogui,K. Casteels,1
+R. Knoche,D. Didavi,1
+William,Camacho,1
+P. Verhaegh,Y. Gerhardt,1
+M. Arnold,L. Dimata,1
+F. Uduokhai,L. Dimata,1
+William,J. Guilavogui,1
+D. Didavi,J. Guilavogui,1
+P. Ntep,M. Arnold,1
+Y. Gerhardt,D. Origi,1
+D. Didavi,L. Dimata,1

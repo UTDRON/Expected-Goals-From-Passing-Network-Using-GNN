@@ -1,0 +1,75 @@
+Source,Target,Weight
+P. Burner,Dante,6
+Dante,M. Sarr,6
+P. Burner,P. Lees Melou,6
+M. Sarr,Dante,6
+Dante,P. Burner,5
+R. Coly,A. Pl\u00e9a,5
+P. Lees Melou,P. Burner,4
+J. Seri,R. Coly,4
+P. Lees Melou,A. Saint-Maximin,4
+M. Sarr,A. Saint-Maximin,4
+A. Tameze,M. Sarr,4
+M. Sarr,R. Coly,4
+A. Saint-Maximin,P. Lees Melou,3
+R. Coly,A. Saint-Maximin,3
+A. Saint-Maximin,A. Tameze,3
+R. Coly,J. Seri,3
+R. Coly,M. Sarr,3
+M. Sarr,P. Burner,3
+A. Tameze,R. Coly,3
+Dante,R. Coly,3
+A. Saint-Maximin,P. Burner,3
+A. Tameze,J. Seri,2
+R. Coly,W. Ben\u00edtez,2
+A. Tameze,W. Ben\u00edtez,2
+B. Srarfi,R. Coly,2
+J. Seri,A. Tameze,2
+Dante,W. Ben\u00edtez,2
+J. Seri,M. Balotelli,2
+A. Saint-Maximin,M. Sarr,2
+B. Srarfi,W. Cyprien,2
+A. Pl\u00e9a,P. Burner,2
+W. Ben\u00edtez,J. Seri,2
+P. Burner,A. Saint-Maximin,2
+P. Burner,B. Srarfi,2
+A. Tameze,P. Burner,2
+M. Sarr,W. Cyprien,2
+W. Cyprien,B. Srarfi,2
+W. Ben\u00edtez,A. Tameze,2
+W. Cyprien,P. Lees Melou,2
+P. Lees Melou,Dante,2
+A. Pl\u00e9a,M. Sarr,2
+P. Lees Melou,A. Tameze,2
+W. Ben\u00edtez,Dante,2
+M. Sarr,A. Tameze,2
+J. Seri,P. Burner,1
+A. Pl\u00e9a,R. Coly,1
+A. Tameze,Dante,1
+W. Cyprien,A. Saint-Maximin,1
+P. Lees Melou,R. Coly,1
+P. Burner,W. Cyprien,1
+A. Tameze,P. Lees Melou,1
+P. Burner,M. Sarr,1
+A. Pl\u00e9a,P. Lees Melou,1
+P. Burner,A. Pl\u00e9a,1
+A. Saint-Maximin,W. Cyprien,1
+J. Seri,M. Sarr,1
+M. Balotelli,J. Seri,1
+A. Pl\u00e9a,W. Cyprien,1
+A. Pl\u00e9a,J. Seri,1
+R. Coly,P. Lees Melou,1
+P. Burner,A. Tameze,1
+A. Saint-Maximin,A. Pl\u00e9a,1
+P. Lees Melou,M. Sarr,1
+R. Coly,Dante,1
+W. Cyprien,A. Tameze,1
+W. Cyprien,M. Sarr,1
+M. Balotelli,A. Pl\u00e9a,1
+Dante,A. Tameze,1
+Dante,J. Seri,1
+P. Lees Melou,B. Srarfi,1
+B. Srarfi,P. Lees Melou,1
+R. Coly,A. Tameze,1
+J. Seri,P. Lees Melou,1
+A. Saint-Maximin,J. Seri,1

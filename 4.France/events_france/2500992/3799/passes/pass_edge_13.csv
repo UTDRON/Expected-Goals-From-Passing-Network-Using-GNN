@@ -1,0 +1,21 @@
+Source,Target,Weight
+T. Tour\u00e9,F. Tait,2
+F. Tait,M. Pavlovi\u0107,1
+T. Mangani,R. Thomas,1
+B. Santamaria,T. Mangani,1
+F. Tait,R. Thomas,1
+T. Mangani,B. Santamaria,1
+T. Tour\u00e9,A. Bamba,1
+L. Butelle,A. Bamba,1
+M. Pavlovi\u0107,T. Mangani,1
+T. Mangani,T. Tour\u00e9,1
+A. Bamba,L. Butelle,1
+F. Tait,T. Tour\u00e9,1
+R. Thomas,M. Pavlovi\u0107,1
+B. Santamaria,T. Tour\u00e9,1
+L. Butelle,K. Toko Ekambi,1
+T. Tour\u00e9,B. Santamaria,1
+M. Pavlovi\u0107,V. Manceau,1
+A. Bamba,T. Mangani,1
+K. Toko Ekambi,F. Tait,1
+V. Manceau,L. Butelle,1

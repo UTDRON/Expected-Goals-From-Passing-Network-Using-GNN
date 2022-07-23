@@ -1,0 +1,10 @@
+Source,Target,Weight
+L. Blas,N. Benezet,3
+N. Benezet,J. Briand,2
+F. Eboa Eboa,L. Blas,2
+C. Grenier,F. Eboa Eboa,2
+K. Johnsson,C. Grenier,1
+N. Benezet,C. Grenier,1
+J. Briand,\u00c9. Didot,1
+L. Blas,K. Johnsson,1
+J. Briand,L. Blas,1

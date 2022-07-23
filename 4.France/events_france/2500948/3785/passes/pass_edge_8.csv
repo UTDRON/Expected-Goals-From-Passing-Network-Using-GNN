@@ -1,0 +1,34 @@
+Source,Target,Weight
+Pedro Rebocho,F. Eboa Eboa,3
+C. Kerbrat,Pedro Rebocho,3
+C. Kerbrat,L. Deaux,3
+F. Eboa Eboa,Pedro Rebocho,3
+Y. Salibur,L. Deaux,3
+K. Johnsson,C. Kerbrat,2
+Pedro Rebocho,Y. N'Gbakoto,2
+Pedro Rebocho,C. Kerbrat,2
+F. Eboa Eboa,K. Johnsson,2
+L. Deaux,C. Kerbrat,2
+L. Deaux,C. Grenier,2
+C. Grenier,M. Thuram,2
+L. Phiri,F. Eboa Eboa,2
+C. Grenier,Y. Salibur,2
+Y. N'Gbakoto,Pedro Rebocho,1
+F. Eboa Eboa,L. Deaux,1
+M. Thuram,Y. N'Gbakoto,1
+K. Johnsson,C. Grenier,1
+L. Deaux,J. Ikoko,1
+Y. N'Gbakoto,C. Grenier,1
+J. Ikoko,C. Kerbrat,1
+C. Grenier,Pedro Rebocho,1
+L. Phiri,C. Grenier,1
+L. Deaux,F. Eboa Eboa,1
+M. Thuram,F. Eboa Eboa,1
+J. Ikoko,Y. Salibur,1
+Y. Salibur,L. Phiri,1
+M. Thuram,L. Deaux,1
+C. Kerbrat,J. Ikoko,1
+F. Eboa Eboa,L. Phiri,1
+Y. N'Gbakoto,M. Thuram,1
+L. Deaux,Y. Salibur,1
+Pedro Rebocho,L. Phiri,1

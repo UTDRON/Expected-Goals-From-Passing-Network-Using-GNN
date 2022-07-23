@@ -1,0 +1,83 @@
+Source,Target,Weight
+I. Konat\u00e9,Bernardo,8
+M. Halstenberg,W. Orban,7
+W. Orban,M. Halstenberg,6
+M. Halstenberg,D. Demme,5
+W. Orban,N. Ke\u00efta,5
+N. Ke\u00efta,M. Halstenberg,5
+K. Kampl,Bernardo,5
+W. Orban,I. Konat\u00e9,5
+N. Ke\u00efta,D. Demme,4
+Bernardo,I. Konat\u00e9,4
+D. Demme,M. Halstenberg,4
+D. Demme,N. Ke\u00efta,4
+M. Halstenberg,I. Konat\u00e9,4
+D. Demme,W. Orban,4
+Bernardo,K. Kampl,4
+Bernardo,M. Sabitzer,4
+I. Konat\u00e9,W. Orban,4
+E. Forsberg,N. Ke\u00efta,3
+T. Werner,N. Ke\u00efta,3
+N. Ke\u00efta,E. Forsberg,3
+I. Konat\u00e9,N. Ke\u00efta,3
+W. Orban,D. Demme,3
+P. Gul\u00e1csi,I. Konat\u00e9,3
+N. Ke\u00efta,T. Werner,3
+K. Kampl,N. Ke\u00efta,3
+M. Sabitzer,K. Kampl,3
+M. Sabitzer,M. Halstenberg,3
+Bernardo,D. Demme,3
+N. Ke\u00efta,K. Kampl,3
+E. Forsberg,M. Halstenberg,3
+M. Halstenberg,N. Ke\u00efta,2
+M. Sabitzer,I. Konat\u00e9,2
+I. Konat\u00e9,K. Kampl,2
+E. Forsberg,P. Gul\u00e1csi,2
+T. Werner,K. Kampl,2
+T. Werner,M. Sabitzer,2
+D. Demme,I. Konat\u00e9,2
+T. Werner,E. Forsberg,2
+N. Ke\u00efta,W. Orban,2
+P. Gul\u00e1csi,W. Orban,2
+W. Orban,K. Kampl,2
+K. Kampl,D. Demme,2
+M. Halstenberg,T. Werner,2
+Bernardo,T. Werner,2
+D. Demme,E. Forsberg,2
+M. Halstenberg,M. Sabitzer,2
+Bernardo,M. Halstenberg,2
+M. Halstenberg,E. Forsberg,2
+D. Demme,T. Werner,2
+D. Demme,Bernardo,2
+T. Werner,M. Halstenberg,2
+M. Halstenberg,Bernardo,2
+I. Konat\u00e9,D. Demme,2
+K. Kampl,T. Werner,2
+Bernardo,P. Gul\u00e1csi,1
+E. Forsberg,I. Konat\u00e9,1
+I. Konat\u00e9,M. Halstenberg,1
+M. Sabitzer,D. Demme,1
+M. Sabitzer,N. Ke\u00efta,1
+N. Ke\u00efta,M. Sabitzer,1
+I. Konat\u00e9,M. Sabitzer,1
+P. Gul\u00e1csi,M. Sabitzer,1
+N. Ke\u00efta,P. Gul\u00e1csi,1
+M. Sabitzer,T. Werner,1
+Bernardo,W. Orban,1
+I. Konat\u00e9,T. Werner,1
+T. Werner,D. Demme,1
+N. Ke\u00efta,I. Konat\u00e9,1
+T. Werner,Bernardo,1
+N. Ke\u00efta,Bernardo,1
+E. Forsberg,T. Werner,1
+M. Sabitzer,E. Forsberg,1
+M. Sabitzer,Bernardo,1
+K. Kampl,W. Orban,1
+W. Orban,P. Gul\u00e1csi,1
+K. Kampl,M. Halstenberg,1
+K. Kampl,I. Konat\u00e9,1
+I. Konat\u00e9,P. Gul\u00e1csi,1
+W. Orban,Bernardo,1
+K. Kampl,M. Sabitzer,1
+T. Werner,W. Orban,1
+D. Demme,M. Sabitzer,1

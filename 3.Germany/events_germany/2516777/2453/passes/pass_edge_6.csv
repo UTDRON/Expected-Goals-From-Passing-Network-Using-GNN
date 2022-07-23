@@ -1,0 +1,14 @@
+Source,Target,Weight
+A. Schwolow,C. S\u00f6y\u00fcnc\u00fc,3
+C. S\u00f6y\u00fcnc\u00fc,A. Schwolow,2
+N. H\u00f6fler,M. Terrazzino,2
+M. Frantz,N. H\u00f6fler,2
+N. H\u00f6fler,M. Frantz,1
+P. Stenzel,J. Schuster,1
+J. Schuster,M. Frantz,1
+M. Terrazzino,M. Frantz,1
+M. Terrazzino,P. Stenzel,1
+P. Stenzel,A. Schwolow,1
+C. S\u00f6y\u00fcnc\u00fc,J. Haberer,1
+J. Haberer,P. Stenzel,1
+P. Stenzel,N. H\u00f6fler,1

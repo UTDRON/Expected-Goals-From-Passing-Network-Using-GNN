@@ -1,0 +1,21 @@
+Source,Target,Weight
+L. Goretzka,D. Caligiuri,2
+N. Bentaleb,L. Goretzka,2
+D. Caligiuri,L. Goretzka,2
+L. Goretzka,Naldo,1
+B. Oczipka,Y. Konoplyanka,1
+B. Oczipka,N. Bentaleb,1
+M. Nastasi\u0107,B. Oczipka,1
+M. Nastasi\u0107,N. Bentaleb,1
+Y. Konoplyanka,T. Kehrer,1
+Naldo,M. Nastasi\u0107,1
+T. Kehrer,Y. Konoplyanka,1
+Y. Konoplyanka,N. Bentaleb,1
+L. Goretzka,N. Bentaleb,1
+N. Bentaleb,T. Kehrer,1
+R. F\u00e4hrmann,M. Nastasi\u0107,1
+Y. Konoplyanka,Naldo,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+T. Kehrer,A. Harit,1
+Naldo,B. Oczipka,1
+A. Harit,Y. Konoplyanka,1

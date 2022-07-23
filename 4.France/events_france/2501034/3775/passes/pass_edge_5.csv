@@ -1,0 +1,36 @@
+Source,Target,Weight
+M. Sarr,M. Le Marchand,3
+A. Tameze,M. Le Marchand,2
+Dante,A. Souquet,2
+M. Le Marchand,M. Sarr,2
+J. Seri,A. Tameze,2
+M. Le Marchand,A. Saint-Maximin,2
+W. Ben\u00edtez,Dante,1
+W. Ben\u00edtez,I. Sacko,1
+J. Seri,W. Ben\u00edtez,1
+W. Ben\u00edtez,M. Sarr,1
+A. Souquet,W. Ben\u00edtez,1
+M. Sarr,Dante,1
+I. Sacko,Dante,1
+M. Sarr,W. Ben\u00edtez,1
+A. Souquet,A. Saint-Maximin,1
+Dante,J. Seri,1
+A. Souquet,A. Tameze,1
+J. Seri,M. Sarr,1
+A. Souquet,J. Seri,1
+A. Tameze,M. Balotelli,1
+A. Saint-Maximin,M. Le Marchand,1
+I. Sacko,P. Lees Melou,1
+I. Sacko,A. Souquet,1
+M. Balotelli,P. Lees Melou,1
+A. Saint-Maximin,P. Lees Melou,1
+M. Le Marchand,Dante,1
+A. Saint-Maximin,A. Souquet,1
+P. Lees Melou,A. Saint-Maximin,1
+M. Le Marchand,M. Balotelli,1
+P. Lees Melou,I. Sacko,1
+Dante,M. Sarr,1
+A. Saint-Maximin,M. Balotelli,1
+P. Lees Melou,J. Seri,1
+M. Le Marchand,J. Seri,1
+M. Balotelli,M. Le Marchand,1

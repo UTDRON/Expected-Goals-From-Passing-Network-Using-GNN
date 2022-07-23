@@ -1,0 +1,63 @@
+Source,Target,Weight
+R. Pierre-Gabriel,K. Monnet-Paquet,5
+S. Janko,J. Bamba,4
+K. Monnet-Paquet,O. Seln\u00e6s,4
+K. Monnet-Paquet,R. Pierre-Gabriel,3
+B. Dabo,K. Monnet-Paquet,3
+J. Bamba,S. Janko,3
+O. Seln\u00e6s,S. Janko,3
+S. Janko,B. Dabo,2
+K. Monnet-Paquet,F. Pogba,2
+B. Dabo,J. Bamba,2
+V. Pajot,B. Dabo,2
+O. Seln\u00e6s,F. Pogba,2
+F. Pogba,S. Ruffier,2
+S. Janko,F. Pogba,2
+V. Pajot,S. Janko,2
+F. Pogba,R. Pierre-Gabriel,2
+R. Pierre-Gabriel,V. Pajot,2
+K. Th\u00e9ophile Catherine,K. Monnet-Paquet,2
+K. Monnet-Paquet,L. Diony,1
+V. Pajot,L. Diony,1
+K. Th\u00e9ophile Catherine,S. Janko,1
+J. Bamba,O. Seln\u00e6s,1
+K. Monnet-Paquet,V. Pajot,1
+S. Ruffier,V. Pajot,1
+R. Pierre-Gabriel,B. Dabo,1
+J. Bamba,B. Dabo,1
+L. Diony,B. Dabo,1
+V. Pajot,O. Seln\u00e6s,1
+L. Diony,V. Pajot,1
+L. Diony,K. Monnet-Paquet,1
+B. Dabo,L. Diony,1
+K. Th\u00e9ophile Catherine,L. Diony,1
+O. Seln\u00e6s,S. Ruffier,1
+F. Pogba,V. Pajot,1
+K. Monnet-Paquet,B. Dabo,1
+F. Pogba,S. Janko,1
+L. Diony,R. Pierre-Gabriel,1
+S. Janko,O. Seln\u00e6s,1
+B. Dabo,S. Janko,1
+S. Janko,S. Ruffier,1
+S. Ruffier,L. Diony,1
+J. Bamba,R. Pierre-Gabriel,1
+F. Pogba,J. Bamba,1
+K. Th\u00e9ophile Catherine,B. Dabo,1
+B. Dabo,K. Th\u00e9ophile Catherine,1
+S. Janko,K. Th\u00e9ophile Catherine,1
+J. Bamba,K. Th\u00e9ophile Catherine,1
+J. Bamba,F. Pogba,1
+O. Seln\u00e6s,R. Pierre-Gabriel,1
+O. Seln\u00e6s,K. Th\u00e9ophile Catherine,1
+K. Monnet-Paquet,K. Th\u00e9ophile Catherine,1
+L. Diony,F. Pogba,1
+B. Dabo,R. Pierre-Gabriel,1
+R. Pierre-Gabriel,J. Bamba,1
+S. Ruffier,R. Pierre-Gabriel,1
+R. Pierre-Gabriel,L. Diony,1
+F. Pogba,K. Monnet-Paquet,1
+B. Dabo,V. Pajot,1
+J. Bamba,K. Monnet-Paquet,1
+S. Ruffier,B. Dabo,1
+L. Diony,J. Bamba,1
+R. Pierre-Gabriel,O. Seln\u00e6s,1

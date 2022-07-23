@@ -1,0 +1,92 @@
+Source,Target,Weight
+J. Gelin,T. Koubek,6
+W. Khazri,R. Bensebaini,5
+W. Khazri,M. Zeffane,5
+R. Bensebaini,T. Koubek,5
+J. Gnagnon,J. Gelin,5
+J. Gnagnon,R. Bensebaini,5
+M. Zeffane,W. Khazri,5
+R. Bensebaini,J. Gnagnon,5
+R. Bensebaini,B. Bourigeaud,4
+R. Bensebaini,S. Prci\u0107,4
+R. Danz\u00e9,W. Khazri,4
+J. Lea Siliki,R. Bensebaini,4
+R. Danz\u00e9,M. Zeffane,4
+S. Prci\u0107,J. Gelin,4
+R. Bensebaini,J. Lea Siliki,4
+J. Lea Siliki,R. Danz\u00e9,4
+B. Bourigeaud,M. Amalfitano,3
+S. Prci\u0107,M. Zeffane,3
+M. Zeffane,R. Danz\u00e9,3
+M. Zeffane,M. Amalfitano,3
+M. Amalfitano,B. Bourigeaud,3
+M. Amalfitano,W. Khazri,3
+T. Koubek,J. Gelin,3
+J. Lea Siliki,S. Prci\u0107,3
+J. Lea Siliki,B. Bourigeaud,3
+T. Koubek,R. Bensebaini,3
+M. Amalfitano,R. Bensebaini,3
+R. Danz\u00e9,J. Gelin,3
+J. Gelin,J. Gnagnon,3
+J. Gelin,S. Prci\u0107,3
+J. Gelin,R. Danz\u00e9,3
+S. Prci\u0107,J. Lea Siliki,3
+S. Prci\u0107,B. Bourigeaud,3
+B. Bourigeaud,R. Bensebaini,3
+W. Khazri,M. Amalfitano,3
+W. Khazri,R. Danz\u00e9,3
+B. Bourigeaud,S. Prci\u0107,3
+B. Bourigeaud,J. Gelin,3
+S. Prci\u0107,R. Bensebaini,3
+S. Prci\u0107,J. Gnagnon,2
+R. Bensebaini,M. Amalfitano,2
+R. Bensebaini,W. Khazri,2
+T. Koubek,W. Khazri,2
+T. Koubek,R. Danz\u00e9,2
+R. Danz\u00e9,S. Prci\u0107,2
+B. Bourigeaud,J. Lea Siliki,2
+M. Zeffane,S. Prci\u0107,2
+M. Zeffane,J. Gelin,2
+B. Bourigeaud,R. Danz\u00e9,2
+R. Bensebaini,M. Zeffane,2
+J. Gelin,R. Bensebaini,2
+J. Gelin,M. Zeffane,2
+T. Koubek,J. Gnagnon,2
+R. Danz\u00e9,B. Bourigeaud,2
+J. Gnagnon,J. Lea Siliki,2
+R. Danz\u00e9,J. Lea Siliki,2
+B. Bourigeaud,J. Gnagnon,2
+T. Koubek,J. Lea Siliki,1
+R. Danz\u00e9,M. Amalfitano,1
+B. Bourigeaud,W. Khazri,1
+J. Gelin,B. Bourigeaud,1
+J. Gnagnon,R. Danz\u00e9,1
+R. Danz\u00e9,T. Koubek,1
+M. Zeffane,T. Koubek,1
+R. Bensebaini,J. Gelin,1
+J. Gelin,M. Amalfitano,1
+S. Prci\u0107,W. Khazri,1
+W. Khazri,J. Gnagnon,1
+J. Lea Siliki,M. Amalfitano,1
+T. Koubek,M. Amalfitano,1
+J. Gnagnon,S. Prci\u0107,1
+M. Amalfitano,J. Lea Siliki,1
+M. Zeffane,B. Bourigeaud,1
+J. Lea Siliki,T. Koubek,1
+J. Gnagnon,B. Bourigeaud,1
+R. Danz\u00e9,R. Bensebaini,1
+T. Koubek,S. Prci\u0107,1
+M. Zeffane,J. Lea Siliki,1
+J. Gelin,J. Lea Siliki,1
+J. Gelin,W. Khazri,1
+J. Lea Siliki,M. Zeffane,1
+M. Amalfitano,T. Koubek,1
+T. Koubek,B. Bourigeaud,1
+M. Amalfitano,J. Gelin,1
+B. Bourigeaud,T. Koubek,1
+W. Khazri,J. Gelin,1
+J. Gnagnon,M. Zeffane,1
+W. Khazri,S. Prci\u0107,1
+M. Amalfitano,J. Gnagnon,1
+S. Prci\u0107,R. Danz\u00e9,1
+M. Amalfitano,R. Danz\u00e9,1

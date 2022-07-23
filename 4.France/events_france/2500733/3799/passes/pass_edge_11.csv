@@ -1,0 +1,54 @@
+Source,Target,Weight
+T. Mangani,Y. Andreu,4
+Y. Andreu,R. Thomas,4
+B. Santamaria,I. Traor\u00e9,4
+R. Thomas,Y. Andreu,4
+Y. Andreu,T. Mangani,3
+I. Traor\u00e9,R. Thomas,3
+Y. Andreu,B. Santamaria,2
+A. Fulgini,P. Capelle,2
+L. Coulibaly,I. Traor\u00e9,2
+A. Bamba,I. Traor\u00e9,2
+P. Capelle,Y. Andreu,2
+Y. Andreu,P. Capelle,2
+I. Traor\u00e9,A. Bamba,2
+I. Traor\u00e9,T. Mangani,2
+R. Thomas,T. Mangani,2
+E. Crivelli,P. Capelle,2
+R. Thomas,I. Traor\u00e9,2
+E. Crivelli,L. Coulibaly,1
+K. Toko Ekambi,Y. Andreu,1
+I. Traor\u00e9,A. Fulgini,1
+A. Bamba,A. Fulgini,1
+I. Traor\u00e9,P. Capelle,1
+K. Toko Ekambi,P. Capelle,1
+Y. Andreu,K. Toko Ekambi,1
+P. Capelle,A. Fulgini,1
+I. Traor\u00e9,B. Santamaria,1
+L. Coulibaly,A. Letellier,1
+A. Bamba,R. Thomas,1
+A. Letellier,T. Mangani,1
+B. Santamaria,A. Bamba,1
+A. Fulgini,L. Coulibaly,1
+R. Thomas,A. Fulgini,1
+T. Mangani,L. Coulibaly,1
+T. Mangani,A. Bamba,1
+P. Capelle,L. Coulibaly,1
+A. Letellier,E. Crivelli,1
+P. Capelle,A. Letellier,1
+R. Thomas,K. Toko Ekambi,1
+Y. Andreu,B. Guillaume,1
+T. Mangani,I. Traor\u00e9,1
+I. Traor\u00e9,A. Letellier,1
+P. Capelle,T. Mangani,1
+L. Coulibaly,B. Santamaria,1
+L. Coulibaly,E. Crivelli,1
+T. Mangani,E. Crivelli,1
+I. Traor\u00e9,L. Coulibaly,1
+R. Thomas,L. Coulibaly,1
+T. Mangani,R. Thomas,1
+A. Fulgini,B. Santamaria,1
+P. Capelle,I. Traor\u00e9,1
+L. Coulibaly,R. Thomas,1
+A. Letellier,Y. Andreu,1
+P. Capelle,R. Thomas,1

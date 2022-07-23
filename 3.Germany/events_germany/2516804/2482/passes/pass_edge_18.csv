@@ -1,0 +1,23 @@
+Source,Target,Weight
+N. Amiri,P. Kade\u0159\u00e1bek,2
+P. Kade\u0159\u00e1bek,N. Amiri,2
+P. Kade\u0159\u00e1bek,M. Uth,2
+S. Posch,O. Baumann,1
+S. Posch,K. Vogt,1
+M. Uth,S. Wagner,1
+N. Amiri,S. Posch,1
+S. Posch,P. Kade\u0159\u00e1bek,1
+P. Kade\u0159\u00e1bek,S. Posch,1
+O. Baumann,P. Kade\u0159\u00e1bek,1
+S. Wagner,A. Kramari\u0107,1
+S. Posch,D. Geiger,1
+K. Vogt,A. Kramari\u0107,1
+M. Uth,S. Posch,1
+A. Kramari\u0107,S. Wagner,1
+A. Kramari\u0107,S. Zuber,1
+K. Vogt,S. Posch,1
+D. Geiger,B. H\u00fcbner,1
+B. H\u00fcbner,K. Vogt,1
+S. Zuber,D. Geiger,1
+B. H\u00fcbner,P. Kade\u0159\u00e1bek,1
+D. Geiger,N. Amiri,1

@@ -1,0 +1,50 @@
+Source,Target,Weight
+J. Seri,Dante,3
+N. Mendy,M. Le Marchand,3
+Marlon,N. Mendy,3
+M. Le Marchand,J. Seri,3
+M. Le Marchand,N. Mendy,2
+C. Jallet,M. Le Marchand,2
+A. Tameze,N. Mendy,2
+J. Seri,Marlon,2
+Marlon,M. Balotelli,2
+Marlon,A. Souquet,2
+A. Souquet,Marlon,2
+Dante,J. Seri,2
+N. Mendy,J. Seri,2
+M. Le Marchand,Dante,2
+J. Seri,N. Mendy,2
+N. Mendy,A. Pl\u00e9a,2
+A. Tameze,M. Le Marchand,2
+A. Pl\u00e9a,C. Jallet,1
+N. Mendy,Marlon,1
+Dante,W. Ben\u00edtez,1
+J. Seri,M. Balotelli,1
+A. Souquet,Dante,1
+N. Mendy,C. Jallet,1
+A. Souquet,A. Pl\u00e9a,1
+N. Mendy,Dante,1
+Dante,N. Mendy,1
+M. Balotelli,A. Tameze,1
+Dante,M. Le Marchand,1
+M. Le Marchand,C. Jallet,1
+Dante,A. Tameze,1
+Dante,Marlon,1
+J. Seri,M. Le Marchand,1
+A. Souquet,A. Tameze,1
+M. Balotelli,J. Seri,1
+Marlon,Dante,1
+W. Ben\u00edtez,Marlon,1
+W. Ben\u00edtez,A. Tameze,1
+M. Balotelli,A. Souquet,1
+C. Jallet,Dante,1
+Dante,A. Souquet,1
+A. Tameze,J. Seri,1
+Marlon,J. Seri,1
+Dante,M. Balotelli,1
+Marlon,A. Tameze,1
+A. Pl\u00e9a,W. Ben\u00edtez,1
+J. Seri,A. Tameze,1
+A. Pl\u00e9a,Marlon,1
+A. Tameze,Marlon,1
+M. Le Marchand,Marlon,1

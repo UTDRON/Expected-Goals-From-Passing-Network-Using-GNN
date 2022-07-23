@@ -1,0 +1,75 @@
+Source,Target,Weight
+W. Orban,L. Klostermann,6
+Bruma,K. Kampl,5
+Bernardo,K. Kampl,5
+E. Forsberg,K. Kampl,5
+L. Klostermann,W. Orban,5
+D. Upamecano,Bernardo,5
+K. Kampl,Bruma,4
+K. Kampl,Bernardo,4
+M. Sabitzer,D. Upamecano,4
+K. Kampl,L. Klostermann,4
+E. Forsberg,Bruma,4
+M. Sabitzer,A. Lookman,4
+W. Orban,D. Upamecano,4
+W. Orban,E. Forsberg,4
+K. Kampl,E. Forsberg,4
+L. Klostermann,M. Sabitzer,3
+W. Orban,K. Kampl,3
+M. Sabitzer,E. Forsberg,3
+D. Upamecano,W. Orban,3
+Bernardo,D. Upamecano,3
+A. Lookman,M. Sabitzer,3
+Bernardo,E. Forsberg,3
+E. Forsberg,M. Sabitzer,3
+Bruma,E. Forsberg,3
+E. Forsberg,J. Augustin,2
+K. Kampl,J. Augustin,2
+E. Forsberg,D. Upamecano,2
+E. Forsberg,Bernardo,2
+J. Augustin,W. Orban,2
+P. Gul\u00e1csi,W. Orban,2
+M. Sabitzer,L. Klostermann,2
+A. Lookman,E. Forsberg,2
+E. Forsberg,L. Klostermann,2
+E. Forsberg,W. Orban,2
+D. Upamecano,E. Forsberg,2
+Bernardo,Bruma,2
+K. Kampl,M. Sabitzer,2
+K. Kampl,W. Orban,2
+D. Upamecano,K. Kampl,2
+J. Augustin,K. Kampl,2
+P. Gul\u00e1csi,Bernardo,2
+D. Upamecano,M. Sabitzer,2
+Bruma,P. Gul\u00e1csi,2
+L. Klostermann,K. Kampl,2
+Bernardo,J. Augustin,2
+Bernardo,W. Orban,2
+W. Orban,J. Augustin,1
+A. Lookman,Bruma,1
+Bruma,A. Lookman,1
+J. Augustin,A. Lookman,1
+Bernardo,P. Gul\u00e1csi,1
+E. Forsberg,A. Lookman,1
+J. Augustin,Bernardo,1
+K. Kampl,D. Upamecano,1
+Bruma,Bernardo,1
+J. Augustin,D. Upamecano,1
+J. Augustin,Bruma,1
+J. Augustin,E. Forsberg,1
+Bruma,J. Augustin,1
+W. Orban,Bernardo,1
+Bruma,W. Orban,1
+D. Upamecano,J. Augustin,1
+A. Lookman,W. Orban,1
+L. Klostermann,Bruma,1
+Bernardo,A. Lookman,1
+K. Kampl,A. Lookman,1
+W. Orban,M. Sabitzer,1
+M. Sabitzer,Bernardo,1
+A. Lookman,Bernardo,1
+A. Lookman,D. Upamecano,1
+L. Klostermann,J. Augustin,1
+D. Upamecano,Bruma,1
+L. Klostermann,P. Gul\u00e1csi,1
+L. Klostermann,E. Forsberg,1

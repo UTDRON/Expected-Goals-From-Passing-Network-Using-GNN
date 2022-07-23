@@ -1,0 +1,63 @@
+Source,Target,Weight
+K. Glik,Jemerson,6
+D. Sidib\u00e9,Jo\u00e3o Moutinho,5
+K. Glik,D. Sidib\u00e9,5
+Jo\u00e3o Moutinho,D. Sidib\u00e9,5
+D. Sidib\u00e9,Rony Lopes,5
+T. Lemar,K. Glik,4
+Rony Lopes,R. Falcao,3
+Jemerson,Jorge,3
+Jemerson,Fabinho,3
+R. Falcao,Jo\u00e3o Moutinho,3
+D. Sidib\u00e9,K. Glik,2
+Jemerson,K. Glik,2
+Jo\u00e3o Moutinho,K. Glik,2
+Jo\u00e3o Moutinho,Fabinho,2
+Rony Lopes,Jo\u00e3o Moutinho,2
+Rony Lopes,D. Sidib\u00e9,2
+Jo\u00e3o Moutinho,Jorge,2
+Jorge,A. Diakhaby,2
+Jorge,T. Lemar,2
+Fabinho,Jemerson,2
+Fabinho,D. Sidib\u00e9,2
+T. Lemar,Fabinho,1
+D. Suba\u0161i\u0107,K. Glik,1
+D. Suba\u0161i\u0107,Jo\u00e3o Moutinho,1
+K. Glik,A. Diakhaby,1
+D. Suba\u0161i\u0107,Rony Lopes,1
+Fabinho,R. Falcao,1
+Fabinho,T. Lemar,1
+Jorge,R. Falcao,1
+Jorge,Jemerson,1
+Rony Lopes,A. Diakhaby,1
+Jo\u00e3o Moutinho,Jemerson,1
+R. Falcao,A. Diakhaby,1
+D. Sidib\u00e9,D. Suba\u0161i\u0107,1
+D. Suba\u0161i\u0107,A. Diakhaby,1
+D. Sidib\u00e9,T. Lemar,1
+K. Glik,Jo\u00e3o Moutinho,1
+A. Diakhaby,Rony Lopes,1
+Fabinho,Jorge,1
+D. Sidib\u00e9,Fabinho,1
+A. Diakhaby,R. Falcao,1
+A. Diakhaby,Jo\u00e3o Moutinho,1
+Jemerson,T. Lemar,1
+T. Lemar,D. Sidib\u00e9,1
+Jemerson,D. Sidib\u00e9,1
+D. Sidib\u00e9,Jemerson,1
+Jemerson,D. Suba\u0161i\u0107,1
+K. Glik,D. Suba\u0161i\u0107,1
+R. Falcao,D. Sidib\u00e9,1
+T. Lemar,D. Suba\u0161i\u0107,1
+A. Diakhaby,T. Lemar,1
+Jo\u00e3o Moutinho,R. Falcao,1
+A. Diakhaby,Fabinho,1
+Rony Lopes,Fabinho,1
+A. Diakhaby,K. Glik,1
+R. Falcao,Rony Lopes,1
+Fabinho,K. Glik,1
+Jorge,K. Glik,1
+Fabinho,Jo\u00e3o Moutinho,1
+Jo\u00e3o Moutinho,Rony Lopes,1
+R. Falcao,T. Lemar,1
+D. Sidib\u00e9,R. Falcao,1

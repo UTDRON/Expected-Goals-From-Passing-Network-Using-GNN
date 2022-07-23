@@ -1,0 +1,63 @@
+Source,Target,Weight
+L. Goretzka,D. Caligiuri,6
+D. Caligiuri,L. Goretzka,5
+L. Goretzka,Naldo,4
+Naldo,L. Goretzka,4
+T. Kehrer,Naldo,4
+D. Caligiuri,A. Harit,3
+A. Harit,D. Caligiuri,3
+M. Nastasi\u0107,B. Oczipka,3
+D. Caligiuri,T. Kehrer,3
+M. Nastasi\u0107,Naldo,3
+T. Kehrer,D. Caligiuri,3
+F. Di Santo,M. Nastasi\u0107,2
+T. Kehrer,L. Goretzka,2
+Naldo,F. Di Santo,2
+L. Goretzka,A. Harit,2
+Naldo,N. Bentaleb,2
+N. Bentaleb,B. Oczipka,2
+T. Kehrer,A. Harit,2
+B. Oczipka,Y. Konoplyanka,2
+B. Oczipka,L. Goretzka,2
+B. Oczipka,T. Kehrer,2
+F. Di Santo,N. Bentaleb,2
+D. Caligiuri,F. Di Santo,2
+A. Harit,T. Kehrer,2
+Naldo,M. Nastasi\u0107,2
+F. Di Santo,B. Oczipka,1
+N. Bentaleb,F. Di Santo,1
+A. Harit,L. Goretzka,1
+Y. Konoplyanka,F. Di Santo,1
+A. Harit,M. Nastasi\u0107,1
+F. Di Santo,Y. Konoplyanka,1
+L. Goretzka,Y. Konoplyanka,1
+R. F\u00e4hrmann,F. Di Santo,1
+N. Bentaleb,D. Caligiuri,1
+F. Di Santo,D. Caligiuri,1
+N. Bentaleb,M. Nastasi\u0107,1
+N. Bentaleb,T. Kehrer,1
+N. Bentaleb,A. Harit,1
+Y. Konoplyanka,B. Oczipka,1
+Y. Konoplyanka,N. Bentaleb,1
+L. Goretzka,N. Bentaleb,1
+Y. Konoplyanka,D. Caligiuri,1
+Naldo,R. F\u00e4hrmann,1
+Naldo,A. Harit,1
+T. Kehrer,Y. Konoplyanka,1
+A. Harit,B. Oczipka,1
+B. Oczipka,F. Di Santo,1
+Y. Konoplyanka,Naldo,1
+B. Oczipka,M. Nastasi\u0107,1
+D. Caligiuri,Naldo,1
+A. Harit,N. Bentaleb,1
+F. Di Santo,T. Kehrer,1
+L. Goretzka,T. Kehrer,1
+M. Nastasi\u0107,L. Goretzka,1
+F. Di Santo,Naldo,1
+Naldo,T. Kehrer,1
+Naldo,B. Oczipka,1
+N. Bentaleb,L. Goretzka,1
+B. Oczipka,N. Bentaleb,1
+Y. Konoplyanka,T. Kehrer,1
+N. Bentaleb,Y. Konoplyanka,1
+D. Caligiuri,N. Bentaleb,1

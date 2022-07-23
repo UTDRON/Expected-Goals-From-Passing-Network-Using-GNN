@@ -1,0 +1,20 @@
+Source,Target,Weight
+J. Augustin,D. Upamecano,2
+K. Kampl,Bernardo,2
+Bernardo,J. Augustin,2
+E. Forsberg,Bruma,1
+P. Gul\u00e1csi,Y. Poulsen,1
+Bernardo,K. Kampl,1
+K. Kampl,P. Gul\u00e1csi,1
+Bruma,K. Kampl,1
+Bruma,Y. Poulsen,1
+D. Upamecano,Bruma,1
+Y. Poulsen,E. Forsberg,1
+D. Upamecano,L. Klostermann,1
+L. Klostermann,Y. Poulsen,1
+Bruma,Bernardo,1
+Y. Poulsen,K. Kampl,1
+Bernardo,Bruma,1
+Y. Poulsen,L. Klostermann,1
+K. Kampl,Bruma,1
+L. Klostermann,K. Kampl,1

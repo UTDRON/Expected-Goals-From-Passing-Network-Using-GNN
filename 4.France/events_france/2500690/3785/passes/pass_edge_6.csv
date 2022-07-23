@@ -1,0 +1,23 @@
+Source,Target,Weight
+M. Diallo,L. Phiri,3
+L. Phiri,C. Kerbrat,2
+J. Ikoko,L. Deaux,2
+Pedro Rebocho,L. Blas,2
+L. Phiri,Y. Salibur,2
+L. Phiri,M. Diallo,2
+L. Phiri,J. Ikoko,1
+Pedro Rebocho,J. Briand,1
+C. Kerbrat,L. Deaux,1
+J. Ikoko,Y. Salibur,1
+J. Ikoko,L. Phiri,1
+J. Briand,Pedro Rebocho,1
+Y. Salibur,J. Ikoko,1
+L. Deaux,L. Phiri,1
+L. Blas,L. Phiri,1
+Y. Salibur,M. Diallo,1
+L. Deaux,Pedro Rebocho,1
+L. Deaux,J. Sorbon,1
+Y. Salibur,L. Phiri,1
+L. Blas,Pedro Rebocho,1
+J. Sorbon,M. Diallo,1
+C. Kerbrat,J. Ikoko,1

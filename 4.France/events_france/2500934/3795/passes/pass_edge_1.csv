@@ -1,0 +1,27 @@
+Source,Target,Weight
+M. Deplagne,B. Nivet,2
+R. Walter,J. Giraudon,2
+B. Nivet,R. Walter,2
+B. Nivet,M. Deplagne,2
+M. Deplagne,A. Niane,1
+C. H\u00e9relle,E. Zelazny,1
+E. Zelazny,R. Walter,1
+S. Grandsir,E. Zelazny,1
+A. Niane,F. Bellugou,1
+M. Deplagne,S. Khaoui,1
+S. Grandsir,C. Traor\u00e9,1
+S. Khaoui,C. Traor\u00e9,1
+R. Walter,M. Deplagne,1
+S. Khaoui,R. Walter,1
+M. Deplagne,C. H\u00e9relle,1
+R. Walter,S. Khaoui,1
+F. Bellugou,S. Grandsir,1
+S. Grandsir,B. Nivet,1
+J. Giraudon,S. Grandsir,1
+C. Traor\u00e9,S. Khaoui,1
+A. Niane,B. Nivet,1
+E. Zelazny,B. Nivet,1
+S. Khaoui,M. Deplagne,1
+B. Nivet,A. Niane,1
+J. Giraudon,M. Deplagne,1
+C. Traor\u00e9,S. Grandsir,1

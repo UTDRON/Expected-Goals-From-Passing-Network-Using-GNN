@@ -1,0 +1,39 @@
+Source,Target,Weight
+R. Walter,N. Mendy,3
+N. Mendy,A. Tameze,2
+N. Mendy,Dante,2
+P. Lees Melou,C. Jallet,2
+N. Mendy,M. Le Marchand,2
+Dante,N. Mendy,2
+M. Le Marchand,N. Mendy,2
+M. Le Marchand,Dante,1
+N. Mendy,W. Sneijder,1
+Dante,R. Walter,1
+A. Pl\u00e9a,R. Walter,1
+R. Walter,M. Le Marchand,1
+N. Mendy,P. Lees Melou,1
+P. Lees Melou,N. Mendy,1
+C. Jallet,P. Lees Melou,1
+W. Ben\u00edtez,A. Pl\u00e9a,1
+C. Jallet,W. Ben\u00edtez,1
+W. Ben\u00edtez,R. Walter,1
+A. Tameze,M. Le Marchand,1
+A. Tameze,W. Ben\u00edtez,1
+A. Souquet,M. Le Marchand,1
+M. Le Marchand,A. Souquet,1
+W. Sneijder,C. Jallet,1
+M. Le Marchand,P. Lees Melou,1
+M. Le Marchand,C. Jallet,1
+A. Tameze,N. Mendy,1
+C. Jallet,A. Pl\u00e9a,1
+A. Souquet,A. Pl\u00e9a,1
+C. Jallet,M. Le Marchand,1
+A. Pl\u00e9a,A. Souquet,1
+P. Lees Melou,A. Souquet,1
+N. Mendy,A. Souquet,1
+A. Souquet,R. Walter,1
+A. Souquet,P. Lees Melou,1
+Dante,P. Lees Melou,1
+C. Jallet,A. Tameze,1
+A. Pl\u00e9a,Dante,1
+P. Lees Melou,A. Pl\u00e9a,1

@@ -1,0 +1,103 @@
+Source,Target,Weight
+V. Jovanovi\u0107,J. Toulalan,9
+Ot\u00e1vio,V. Vada,8
+V. Jovanovi\u0107,Ot\u00e1vio,8
+J. Toulalan,V. Jovanovi\u0107,8
+J. Pla\u0161il,J. Toulalan,7
+Ot\u00e1vio,J. Toulalan,6
+Ot\u00e1vio,Malcom,6
+V. Vada,Malcom,6
+Malcom,Ot\u00e1vio,6
+J. Toulalan,N. de Pr\u00e9ville,5
+J. Toulalan,M. Gaji\u0107,5
+M. Gaji\u0107,J. Pla\u0161il,5
+J. Pla\u0161il,M. Gaji\u0107,5
+V. Vada,Ot\u00e1vio,5
+Y. Sabaly,V. Jovanovi\u0107,4
+V. Vada,Y. Sabaly,4
+M. Gaji\u0107,Ot\u00e1vio,4
+J. Toulalan,A. Mendy,4
+Ot\u00e1vio,V. Jovanovi\u0107,4
+B. Costil,V. Jovanovi\u0107,4
+V. Jovanovi\u0107,B. Costil,4
+Ot\u00e1vio,B. Costil,4
+Ot\u00e1vio,Y. Sabaly,4
+J. Toulalan,J. Pla\u0161il,4
+N. de Pr\u00e9ville,Ot\u00e1vio,4
+Y. Sabaly,Ot\u00e1vio,3
+N. de Pr\u00e9ville,V. Vada,3
+M. Gaji\u0107,J. Toulalan,3
+Ot\u00e1vio,J. Pla\u0161il,3
+B. Costil,Ot\u00e1vio,3
+Ot\u00e1vio,M. Gaji\u0107,3
+M. Gaji\u0107,N. de Pr\u00e9ville,3
+V. Jovanovi\u0107,Y. Sabaly,3
+J. Pla\u0161il,Ot\u00e1vio,3
+N. de Pr\u00e9ville,M. Gaji\u0107,3
+Y. Sabaly,Malcom,3
+Y. Sabaly,V. Vada,3
+N. de Pr\u00e9ville,B. Costil,2
+V. Vada,J. Toulalan,2
+Malcom,J. Toulalan,2
+Malcom,N. de Pr\u00e9ville,2
+J. Pla\u0161il,N. de Pr\u00e9ville,2
+Malcom,J. Pla\u0161il,2
+Ot\u00e1vio,Y. Sankhar\u00e9,2
+M. Gaji\u0107,B. Costil,2
+B. Costil,Y. Sabaly,2
+N. de Pr\u00e9ville,J. Pla\u0161il,2
+J. Toulalan,Ot\u00e1vio,2
+Y. Sankhar\u00e9,V. Jovanovi\u0107,2
+J. Toulalan,Y. Sankhar\u00e9,2
+A. Mendy,Ot\u00e1vio,2
+J. Pla\u0161il,V. Vada,2
+Malcom,Y. Sabaly,2
+J. Toulalan,V. Vada,2
+Ot\u00e1vio,N. de Pr\u00e9ville,2
+A. Mendy,N. de Pr\u00e9ville,2
+V. Vada,N. de Pr\u00e9ville,1
+M. Gaji\u0107,Malcom,1
+Malcom,B. Costil,1
+B. Costil,M. Gaji\u0107,1
+A. Mendy,J. Pla\u0161il,1
+A. Mendy,F. Kamano,1
+F. Kamano,J. Toulalan,1
+F. Kamano,Ot\u00e1vio,1
+Malcom,M. Gaji\u0107,1
+M. Gaji\u0107,A. Mendy,1
+Malcom,Y. Sankhar\u00e9,1
+N. de Pr\u00e9ville,J. Toulalan,1
+B. Costil,N. de Pr\u00e9ville,1
+Y. Sankhar\u00e9,Malcom,1
+Y. Sabaly,N. de Pr\u00e9ville,1
+N. de Pr\u00e9ville,Malcom,1
+V. Vada,M. Gaji\u0107,1
+V. Vada,V. Jovanovi\u0107,1
+V. Jovanovi\u0107,A. Mendy,1
+B. Costil,J. Pla\u0161il,1
+F. Kamano,Y. Sankhar\u00e9,1
+B. Costil,V. Vada,1
+N. de Pr\u00e9ville,V. Jovanovi\u0107,1
+N. de Pr\u00e9ville,A. Mendy,1
+Malcom,F. Kamano,1
+J. Pla\u0161il,A. Mendy,1
+Y. Sankhar\u00e9,F. Kamano,1
+F. Kamano,M. Gaji\u0107,1
+Y. Sabaly,F. Kamano,1
+A. Mendy,V. Vada,1
+M. Gaji\u0107,Y. Sabaly,1
+Malcom,V. Jovanovi\u0107,1
+V. Vada,B. Costil,1
+Y. Sabaly,J. Pla\u0161il,1
+Y. Sankhar\u00e9,J. Toulalan,1
+M. Gaji\u0107,V. Jovanovi\u0107,1
+Y. Sankhar\u00e9,M. Gaji\u0107,1
+B. Costil,A. Mendy,1
+Y. Sabaly,J. Toulalan,1
+Y. Sabaly,Y. Sankhar\u00e9,1
+J. Toulalan,Y. Sabaly,1
+N. de Pr\u00e9ville,Y. Sabaly,1
+Malcom,V. Vada,1
+V. Jovanovi\u0107,Malcom,1
+Y. Sankhar\u00e9,Ot\u00e1vio,1
+A. Mendy,Malcom,1

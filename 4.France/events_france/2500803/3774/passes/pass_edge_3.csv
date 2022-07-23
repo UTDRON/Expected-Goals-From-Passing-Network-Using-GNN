@@ -1,0 +1,99 @@
+Source,Target,Weight
+B. Bourigeaud,H. Traor\u00e9,5
+B. Andr\u00e9,B. Bourigeaud,5
+T. Koubek,B. Andr\u00e9,5
+H. Traor\u00e9,B. Bourigeaud,5
+J. Gnagnon,B. Andr\u00e9,5
+B. Andr\u00e9,F. Maouassa,4
+B. Andr\u00e9,J. Lea Siliki,4
+W. Khazri,B. Andr\u00e9,3
+W. Khazri,B. Bourigeaud,3
+B. Bourigeaud,B. Andr\u00e9,3
+J. Lea Siliki,J. Gnagnon,3
+B. Andr\u00e9,J. Gnagnon,3
+B. Bourigeaud,J. Lea Siliki,3
+F. Maouassa,L. Baal,3
+R. Bensebaini,F. Maouassa,3
+R. Bensebaini,J. Gnagnon,3
+L. Baal,R. Bensebaini,3
+J. Gnagnon,W. Khazri,3
+W. Khazri,J. Lea Siliki,3
+B. Andr\u00e9,W. Khazri,3
+J. Gnagnon,H. Traor\u00e9,3
+F. Mubele,T. Koubek,2
+H. Traor\u00e9,T. Koubek,2
+F. Maouassa,B. Andr\u00e9,2
+B. Andr\u00e9,F. Mubele,2
+L. Baal,B. Andr\u00e9,2
+B. Bourigeaud,W. Khazri,2
+J. Gnagnon,J. Lea Siliki,2
+J. Gnagnon,Afonso Figueiredo,2
+R. Bensebaini,W. Khazri,2
+F. Maouassa,B. Bourigeaud,2
+B. Andr\u00e9,L. Baal,2
+R. Bensebaini,L. Baal,2
+B. Bourigeaud,J. Gnagnon,2
+J. Lea Siliki,T. Koubek,2
+F. Mubele,J. Gnagnon,2
+Afonso Figueiredo,B. Andr\u00e9,2
+H. Traor\u00e9,J. Gnagnon,2
+J. Lea Siliki,B. Andr\u00e9,2
+L. Baal,W. Khazri,2
+J. Lea Siliki,J. Gelin,2
+F. Maouassa,W. Khazri,2
+J. Gnagnon,R. Bensebaini,2
+W. Khazri,H. Traor\u00e9,2
+W. Khazri,F. Maouassa,2
+J. Gelin,W. Khazri,2
+H. Traor\u00e9,J. Gelin,2
+J. Lea Siliki,H. Traor\u00e9,2
+H. Traor\u00e9,R. Bensebaini,2
+T. Koubek,Afonso Figueiredo,1
+B. Andr\u00e9,J. Gelin,1
+B. Bourigeaud,R. Bensebaini,1
+J. Lea Siliki,R. Bensebaini,1
+L. Baal,H. Traor\u00e9,1
+W. Khazri,F. Mubele,1
+T. Koubek,F. Maouassa,1
+Afonso Figueiredo,B. Bourigeaud,1
+B. Andr\u00e9,R. Bensebaini,1
+J. Gelin,T. Koubek,1
+F. Mubele,J. Lea Siliki,1
+T. Koubek,R. Bensebaini,1
+W. Khazri,L. Baal,1
+B. Andr\u00e9,H. Traor\u00e9,1
+T. Koubek,J. Gelin,1
+J. Gelin,B. Bourigeaud,1
+Afonso Figueiredo,J. Gnagnon,1
+F. Mubele,B. Andr\u00e9,1
+B. Bourigeaud,F. Mubele,1
+T. Koubek,F. Mubele,1
+J. Lea Siliki,F. Mubele,1
+W. Khazri,T. Koubek,1
+J. Lea Siliki,Afonso Figueiredo,1
+F. Maouassa,T. Koubek,1
+H. Traor\u00e9,W. Khazri,1
+B. Andr\u00e9,Afonso Figueiredo,1
+F. Mubele,R. Bensebaini,1
+L. Baal,F. Maouassa,1
+R. Bensebaini,J. Lea Siliki,1
+J. Gelin,F. Maouassa,1
+F. Mubele,H. Traor\u00e9,1
+T. Koubek,H. Traor\u00e9,1
+H. Traor\u00e9,J. Lea Siliki,1
+H. Traor\u00e9,F. Mubele,1
+J. Gnagnon,J. Gelin,1
+W. Khazri,J. Gnagnon,1
+Afonso Figueiredo,J. Lea Siliki,1
+F. Maouassa,J. Gnagnon,1
+J. Gnagnon,T. Koubek,1
+F. Maouassa,F. Mubele,1
+J. Lea Siliki,F. Maouassa,1
+J. Gelin,J. Gnagnon,1
+J. Lea Siliki,W. Khazri,1
+T. Koubek,B. Bourigeaud,1
+J. Gelin,B. Andr\u00e9,1
+R. Bensebaini,T. Koubek,1
+B. Bourigeaud,T. Koubek,1
+F. Maouassa,J. Lea Siliki,1
+J. Lea Siliki,L. Baal,1

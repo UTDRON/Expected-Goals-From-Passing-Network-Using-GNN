@@ -1,0 +1,34 @@
+Source,Target,Weight
+N. de Jong,R. Quaison,3
+G. Holtmann,D. Brosinski,3
+J. Gbamin,G. Holtmann,2
+G. Donati,R. Quaison,2
+D. Brosinski,N. de Jong,2
+G. Donati,N. de Jong,2
+R. Quaison,G. Donati,2
+P. De Blasis,R. Quaison,2
+G. Holtmann,N. de Jong,2
+R. Quaison,P. De Blasis,2
+P. De Blasis,N. de Jong,1
+N. de Jong,P. De Blasis,1
+G. Donati,J. Gbamin,1
+J. Gbamin,G. Donati,1
+S. Bell,J. Gbamin,1
+P. De Blasis,Y. Muto,1
+N. de Jong,J. Gbamin,1
+P. De Blasis,G. Holtmann,1
+Y. Muto,G. Donati,1
+R. Quaison,D. Brosinski,1
+D. Brosinski,G. Holtmann,1
+P. De Blasis,J. Gbamin,1
+R. Quaison,G. Holtmann,1
+N. de Jong,S. Bell,1
+S. Bell,G. Donati,1
+N. de Jong,G. Donati,1
+J. Gbamin,P. De Blasis,1
+D. Brosinski,P. De Blasis,1
+G. Donati,A. Hack,1
+R. Quaison,S. Bell,1
+A. Hack,P. De Blasis,1
+G. Donati,P. De Blasis,1
+P. De Blasis,G. Donati,1

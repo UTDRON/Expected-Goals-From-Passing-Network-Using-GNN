@@ -1,0 +1,23 @@
+Source,Target,Weight
+P. Bargfrede,T. Gebre Selassie,2
+T. Gebre Selassie,P. Bargfrede,2
+M. Eggestein,M. Veljkovic,1
+S. Langkamp,P. Bargfrede,1
+M. Friedl,S. Langkamp,1
+M. Eggestein,I. Belfodil,1
+S. Langkamp,M. Friedl,1
+P. Bargfrede,S. Langkamp,1
+T. Delaney,M. Kruse,1
+M. Veljkovic,S. Langkamp,1
+I. Belfodil,T. Gebre Selassie,1
+M. Kruse,T. Gebre Selassie,1
+T. Gebre Selassie,M. Eggestein,1
+T. Gebre Selassie,M. Kruse,1
+P. Bargfrede,M. Veljkovic,1
+J. Pavlenka,P. Bargfrede,1
+P. Bargfrede,T. Delaney,1
+T. Gebre Selassie,J. Pavlenka,1
+M. Veljkovic,P. Bargfrede,1
+S. Langkamp,T. Gebre Selassie,1
+T. Delaney,M. Eggestein,1
+T. Gebre Selassie,T. Delaney,1

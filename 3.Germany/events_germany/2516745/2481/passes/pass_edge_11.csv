@@ -1,0 +1,50 @@
+Source,Target,Weight
+D. Baier,M. Hinteregger,4
+D. Baier,J. Gouweleeuw,3
+E. Thommy,R. Framberger,3
+M. Hinteregger,D. Baier,3
+R. Framberger,Ja-Cheol Koo,2
+E. Thommy,D. Baier,2
+Caiuby,M. Hinteregger,2
+S. C\u00f3rdova,Caiuby,2
+R. Framberger,J. Gouweleeuw,2
+Ja-Cheol Koo,E. Thommy,2
+Caiuby,D. Baier,2
+J. Gouweleeuw,D. Baier,2
+M. Hinteregger,Caiuby,2
+D. Baier,R. Framberger,2
+Caiuby,E. Thommy,2
+R. Framberger,E. Thommy,2
+E. Thommy,A. Finnbogason,1
+P. Max,S. C\u00f3rdova,1
+E. Thommy,Ja-Cheol Koo,1
+E. Thommy,M. Hitz,1
+J. Gouweleeuw,M. Hinteregger,1
+S. C\u00f3rdova,D. Baier,1
+J. Gouweleeuw,Caiuby,1
+M. Hinteregger,R. Framberger,1
+J. Gouweleeuw,R. Framberger,1
+R. Framberger,Caiuby,1
+D. Baier,E. Thommy,1
+Caiuby,M. Hitz,1
+J. Gouweleeuw,E. Thommy,1
+Caiuby,P. Max,1
+Ja-Cheol Koo,J. Gouweleeuw,1
+D. Baier,Ja-Cheol Koo,1
+D. Baier,S. C\u00f3rdova,1
+J. Gouweleeuw,P. Max,1
+Ja-Cheol Koo,R. Framberger,1
+J. Gouweleeuw,A. Finnbogason,1
+M. Hitz,J. Gouweleeuw,1
+P. Max,Caiuby,1
+A. Finnbogason,D. Baier,1
+R. Framberger,M. Hinteregger,1
+Ja-Cheol Koo,P. Max,1
+P. Max,D. Baier,1
+M. Hitz,D. Baier,1
+M. Hinteregger,Ja-Cheol Koo,1
+P. Max,M. Hitz,1
+M. Hitz,Caiuby,1
+A. Finnbogason,S. C\u00f3rdova,1
+M. Hinteregger,P. Max,1
+D. Baier,M. Hitz,1

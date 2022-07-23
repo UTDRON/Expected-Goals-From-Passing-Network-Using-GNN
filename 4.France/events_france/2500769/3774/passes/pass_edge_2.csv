@@ -1,0 +1,60 @@
+Source,Target,Weight
+B. Bourigeaud,H. Traor\u00e9,5
+M. Amalfitano,W. Khazri,4
+W. Khazri,B. Bourigeaud,4
+W. Khazri,M. Amalfitano,4
+L. Baal,J. Lea Siliki,4
+H. Traor\u00e9,F. Maouassa,3
+J. Lea Siliki,L. Baal,3
+L. Baal,F. Mubele,2
+F. Mubele,B. Bourigeaud,2
+F. Maouassa,W. Khazri,2
+F. Mubele,W. Khazri,2
+H. Traor\u00e9,T. Koubek,2
+J. Lea Siliki,W. Khazri,2
+L. Baal,J. Gnagnon,2
+W. Khazri,F. Mubele,2
+B. Bourigeaud,M. Amalfitano,2
+M. Amalfitano,B. Bourigeaud,2
+H. Traor\u00e9,M. Amalfitano,2
+J. Gnagnon,L. Baal,2
+T. Koubek,W. Khazri,2
+B. Bourigeaud,L. Baal,2
+F. Maouassa,M. Amalfitano,2
+M. Amalfitano,F. Maouassa,1
+G. Nyamsi,H. Traor\u00e9,1
+W. Khazri,T. Koubek,1
+M. Amalfitano,J. Lea Siliki,1
+H. Traor\u00e9,B. Bourigeaud,1
+H. Traor\u00e9,W. Khazri,1
+B. Bourigeaud,J. Lea Siliki,1
+F. Maouassa,B. Bourigeaud,1
+T. Koubek,F. Mubele,1
+J. Gnagnon,F. Maouassa,1
+B. Bourigeaud,F. Maouassa,1
+J. Gnagnon,T. Koubek,1
+G. Nyamsi,B. Bourigeaud,1
+M. Amalfitano,T. Koubek,1
+L. Baal,T. Koubek,1
+F. Maouassa,L. Baal,1
+G. Nyamsi,J. Gnagnon,1
+F. Mubele,F. Maouassa,1
+J. Lea Siliki,H. Traor\u00e9,1
+J. Lea Siliki,B. Bourigeaud,1
+W. Khazri,L. Baal,1
+L. Baal,W. Khazri,1
+W. Khazri,J. Lea Siliki,1
+B. Bourigeaud,J. Gnagnon,1
+F. Maouassa,F. Mubele,1
+T. Koubek,B. Bourigeaud,1
+B. Bourigeaud,T. Koubek,1
+M. Amalfitano,G. Nyamsi,1
+L. Baal,B. Bourigeaud,1
+W. Khazri,F. Maouassa,1
+F. Maouassa,H. Traor\u00e9,1
+T. Koubek,J. Lea Siliki,1
+B. Bourigeaud,G. Nyamsi,1
+J. Gnagnon,G. Nyamsi,1
+T. Koubek,L. Baal,1
+F. Mubele,L. Baal,1
+T. Koubek,J. Gnagnon,1

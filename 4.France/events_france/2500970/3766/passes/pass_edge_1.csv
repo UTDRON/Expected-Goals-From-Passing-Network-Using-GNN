@@ -1,0 +1,35 @@
+Source,Target,Weight
+J. Morel,F. Mendy,2
+Marcelo,L. Tousart,2
+Marcelo,Rafael,2
+F. Mendy,M. Maolida,2
+Rafael,J. Ferri,2
+F. Mendy,Marcelo,2
+J. Ferri,Rafael,2
+Rafael,Mariano D\u00edaz,2
+J. Morel,T. Ndomb\u00e8l\u00e9,1
+M. Maolida,T. Ndomb\u00e8l\u00e9,1
+Mariano D\u00edaz,T. Ndomb\u00e8l\u00e9,1
+J. Ferri,Marcelo,1
+J. Ferri,L. Tousart,1
+T. Ndomb\u00e8l\u00e9,J. Ferri,1
+M. Maolida,J. Ferri,1
+T. Ndomb\u00e8l\u00e9,M. Maolida,1
+Mariano D\u00edaz,J. Morel,1
+L. Tousart,J. Ferri,1
+F. Mendy,L. Tousart,1
+M. Maolida,Rafael,1
+Mariano D\u00edaz,L. Tousart,1
+Rafael,T. Ndomb\u00e8l\u00e9,1
+T. Ndomb\u00e8l\u00e9,F. Mendy,1
+Marcelo,B. Traor\u00e9,1
+T. Ndomb\u00e8l\u00e9,J. Morel,1
+M. Maolida,F. Mendy,1
+L. Tousart,T. Ndomb\u00e8l\u00e9,1
+L. Tousart,Marcelo,1
+B. Traor\u00e9,Marcelo,1
+J. Ferri,M. Maolida,1
+L. Tousart,Rafael,1
+L. Tousart,F. Mendy,1
+Rafael,L. Tousart,1
+L. Tousart,J. Morel,1

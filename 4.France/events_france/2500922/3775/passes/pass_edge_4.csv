@@ -1,0 +1,63 @@
+Source,Target,Weight
+Dante,J. Seri,10
+M. Sarr,Dante,7
+N. Mendy,M. Sarr,7
+R. Coly,M. Sarr,5
+Dante,M. Sarr,5
+N. Mendy,P. Burner,5
+J. Seri,R. Coly,5
+P. Burner,Dante,5
+A. Tameze,N. Mendy,4
+P. Burner,B. Srarfi,4
+P. Burner,A. Tameze,4
+R. Coly,J. Seri,4
+A. Tameze,Dante,4
+J. Seri,N. Mendy,4
+M. Sarr,R. Coly,4
+J. Seri,B. Srarfi,3
+Dante,N. Mendy,3
+J. Makengo,A. Tameze,3
+N. Mendy,Dante,3
+J. Seri,P. Burner,3
+Dante,P. Burner,3
+R. Coly,N. Mendy,2
+B. Srarfi,A. Pl\u00e9a,2
+R. Coly,W. Ben\u00edtez,2
+W. Ben\u00edtez,N. Mendy,2
+A. Pl\u00e9a,B. Srarfi,2
+M. Sarr,J. Makengo,2
+N. Mendy,R. Coly,2
+A. Tameze,R. Coly,2
+N. Mendy,A. Tameze,2
+M. Sarr,P. Burner,2
+M. Sarr,J. Seri,2
+B. Srarfi,A. Tameze,2
+M. Sarr,N. Mendy,2
+J. Seri,M. Sarr,2
+J. Seri,Dante,2
+B. Srarfi,J. Seri,2
+J. Seri,A. Tameze,2
+W. Ben\u00edtez,Dante,2
+Dante,A. Tameze,2
+A. Tameze,J. Seri,2
+A. Tameze,W. Ben\u00edtez,1
+Dante,J. Makengo,1
+J. Makengo,N. Mendy,1
+A. Tameze,B. Srarfi,1
+R. Coly,J. Makengo,1
+P. Burner,N. Mendy,1
+A. Pl\u00e9a,N. Mendy,1
+J. Makengo,J. Seri,1
+J. Makengo,R. Coly,1
+B. Srarfi,J. Makengo,1
+M. Sarr,A. Pl\u00e9a,1
+B. Srarfi,P. Burner,1
+W. Ben\u00edtez,P. Burner,1
+A. Pl\u00e9a,M. Sarr,1
+P. Burner,J. Seri,1
+N. Mendy,J. Makengo,1
+A. Tameze,P. Burner,1
+B. Srarfi,Dante,1
+J. Seri,A. Pl\u00e9a,1
+Dante,W. Ben\u00edtez,1
+P. Burner,W. Ben\u00edtez,1

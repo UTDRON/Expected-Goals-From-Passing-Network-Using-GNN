@@ -1,0 +1,11 @@
+Source,Target,Weight
+Wendell,L. Bailey,2
+Wendell,D. Kohr,1
+L. Bailey,J. Tah,1
+J. Brandt,Wendell,1
+D. Kohr,J. Baumgartlinger,1
+J. Brandt,L. Bailey,1
+L. Bailey,Wendell,1
+S. Bender,Wendell,1
+L. Bailey,S. Bender,1
+J. Baumgartlinger,J. Brandt,1

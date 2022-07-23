@@ -1,0 +1,54 @@
+Source,Target,Weight
+V. Manceau,J. Reine-Adelaide,8
+J. Reine-Adelaide,V. Manceau,5
+A. Fulgini,F. Tait,4
+Y. Andreu,A. Fulgini,4
+F. Tait,Y. Andreu,4
+F. Tait,P. Oniangu\u00e9,3
+A. Fulgini,Y. Andreu,3
+M. Pavlovi\u0107,V. Manceau,3
+P. Oniangu\u00e9,V. Manceau,3
+A. Fulgini,B. Santamaria,2
+V. Manceau,I. Traor\u00e9,2
+V. Manceau,B. Santamaria,2
+I. Traor\u00e9,J. Reine-Adelaide,2
+F. Tait,A. Fulgini,2
+Y. Andreu,V. Manceau,2
+J. Reine-Adelaide,P. Oniangu\u00e9,2
+I. Traor\u00e9,V. Manceau,2
+Y. Andreu,M. Pavlovi\u0107,2
+V. Manceau,F. Tait,2
+P. Oniangu\u00e9,F. Tait,2
+F. Tait,K. Toko Ekambi,2
+K. Toko Ekambi,F. Tait,1
+P. Oniangu\u00e9,M. Pavlovi\u0107,1
+A. Fulgini,J. Reine-Adelaide,1
+K. Toko Ekambi,P. Oniangu\u00e9,1
+J. Reine-Adelaide,F. Tait,1
+P. Oniangu\u00e9,J. Reine-Adelaide,1
+B. Santamaria,K. Toko Ekambi,1
+Y. Andreu,I. Traor\u00e9,1
+B. Santamaria,F. Tait,1
+J. Reine-Adelaide,A. Fulgini,1
+P. Oniangu\u00e9,A. Fulgini,1
+M. Pavlovi\u0107,B. Santamaria,1
+B. Santamaria,P. Oniangu\u00e9,1
+M. Pavlovi\u0107,Y. Andreu,1
+B. Santamaria,I. Traor\u00e9,1
+J. Reine-Adelaide,I. Traor\u00e9,1
+M. Pavlovi\u0107,P. Oniangu\u00e9,1
+J. Reine-Adelaide,B. Santamaria,1
+V. Manceau,P. Oniangu\u00e9,1
+P. Oniangu\u00e9,Y. Andreu,1
+M. Pavlovi\u0107,A. Fulgini,1
+B. Santamaria,M. Pavlovi\u0107,1
+B. Santamaria,A. Fulgini,1
+J. Reine-Adelaide,M. Pavlovi\u0107,1
+K. Toko Ekambi,V. Manceau,1
+K. Toko Ekambi,M. Pavlovi\u0107,1
+Y. Andreu,F. Tait,1
+M. Pavlovi\u0107,I. Traor\u00e9,1
+I. Traor\u00e9,Y. Andreu,1
+V. Manceau,M. Pavlovi\u0107,1
+I. Traor\u00e9,M. Pavlovi\u0107,1
+J. Reine-Adelaide,K. Toko Ekambi,1

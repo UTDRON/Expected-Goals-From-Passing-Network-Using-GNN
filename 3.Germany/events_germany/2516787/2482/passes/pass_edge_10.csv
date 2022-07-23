@@ -1,0 +1,26 @@
+Source,Target,Weight
+N. Schulz,L. Rupp,3
+B. H\u00fcbner,N. Schulz,3
+N. Schulz,S. Wagner,2
+L. Rupp,N. Schulz,2
+L. Rupp,B. H\u00fcbner,1
+O. Baumann,D. Geiger,1
+B. H\u00fcbner,D. Geiger,1
+P. Kade\u0159\u00e1bek,A. Kramari\u0107,1
+N. Schulz,B. H\u00fcbner,1
+O. Baumann,A. Kramari\u0107,1
+L. Rupp,M. Uth,1
+D. Geiger,K. Vogt,1
+S. Wagner,B. H\u00fcbner,1
+A. Kramari\u0107,D. Geiger,1
+K. Vogt,L. Rupp,1
+D. Geiger,N. Schulz,1
+D. Geiger,L. Rupp,1
+N. Schulz,K. Vogt,1
+L. Rupp,O. Baumann,1
+S. Wagner,K. Vogt,1
+L. Rupp,S. Wagner,1
+K. Vogt,O. Baumann,1
+A. Kramari\u0107,B. H\u00fcbner,1
+K. Vogt,P. Kade\u0159\u00e1bek,1
+S. Wagner,L. Rupp,1

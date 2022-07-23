@@ -1,0 +1,24 @@
+Source,Target,Weight
+F. Tabanou,L. Phiri,3
+N. Benezet,J. Ikoko,2
+K. Johnsson,F. Tabanou,2
+F. Tabanou,N. Benezet,2
+L. Phiri,K. Johnsson,2
+L. Phiri,J. Sorbon,2
+M. Diallo,J. Briand,1
+M. Diallo,J. Ikoko,1
+J. Ikoko,Y. Salibur,1
+N. Benezet,L. Phiri,1
+N. Benezet,F. Tabanou,1
+J. Briand,N. Benezet,1
+L. Blas,N. Benezet,1
+Y. Salibur,N. Benezet,1
+N. Benezet,Y. N'Gbakoto,1
+J. Sorbon,F. Tabanou,1
+J. Sorbon,M. Diallo,1
+J. Ikoko,L. Blas,1
+Y. N'Gbakoto,Y. Salibur,1
+L. Phiri,N. Benezet,1
+J. Ikoko,M. Diallo,1
+L. Blas,F. Tabanou,1
+N. Benezet,L. Blas,1

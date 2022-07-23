@@ -1,0 +1,17 @@
+Source,Target,Weight
+D. Caligiuri,G. Burgstaller,2
+T. Kehrer,D. Caligiuri,2
+D. Caligiuri,F. Di Santo,2
+F. Di Santo,D. Caligiuri,2
+A. Sch\u00f6pf,T. Kehrer,1
+F. Di Santo,A. Sch\u00f6pf,1
+L. Goretzka,B. Embolo,1
+A. Sch\u00f6pf,B. Stambouli,1
+B. Stambouli,T. Kehrer,1
+A. Sch\u00f6pf,L. Goretzka,1
+L. Goretzka,A. Sch\u00f6pf,1
+G. Burgstaller,B. Embolo,1
+B. Embolo,L. Goretzka,1
+G. Burgstaller,D. Caligiuri,1
+D. Caligiuri,A. Sch\u00f6pf,1
+B. Embolo,F. Di Santo,1

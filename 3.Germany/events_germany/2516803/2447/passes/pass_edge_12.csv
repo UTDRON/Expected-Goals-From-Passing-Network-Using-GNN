@@ -1,0 +1,33 @@
+Source,Target,Weight
+G. Castro,A. Yarmolenko,3
+Bartra,J. Weigl,3
+D. Zagadou,Bartra,2
+J. Weigl,M. G\u00f6tze,2
+A. Yarmolenko,G. Castro,2
+G. Castro,\u00d6. Toprak,2
+Bartra,M. G\u00f6tze,2
+C. Pulisic,G. Castro,1
+J. Weigl,A. Yarmolenko,1
+J. Weigl,C. Pulisic,1
+A. Yarmolenko,C. Pulisic,1
+G. Castro,Bartra,1
+D. Zagadou,M. G\u00f6tze,1
+\u00d6. Toprak,D. Zagadou,1
+Bartra,R. B\u00fcrki,1
+R. B\u00fcrki,C. Pulisic,1
+M. G\u00f6tze,G. Castro,1
+A. Yarmolenko,D. Zagadou,1
+M. G\u00f6tze,Bartra,1
+C. Pulisic,A. Yarmolenko,1
+M. G\u00f6tze,D. Zagadou,1
+J. Weigl,Bartra,1
+J. Weigl,G. Castro,1
+\u00d6. Toprak,G. Castro,1
+M. G\u00f6tze,R. B\u00fcrki,1
+\u00d6. Toprak,J. Weigl,1
+C. Pulisic,J. Weigl,1
+J. Weigl,\u00d6. Toprak,1
+D. Zagadou,J. Weigl,1
+\u00d6. Toprak,Bartra,1
+R. B\u00fcrki,J. Weigl,1
+M. G\u00f6tze,\u00d6. Toprak,1

@@ -1,0 +1,33 @@
+Source,Target,Weight
+C. N'Jie,D. Payet,3
+D. Payet,C. N'Jie,3
+H. Sakai,D. Payet,2
+V. Germain,D. Payet,2
+A. Zambo Anguissa,A. Rami,2
+A. Rami,Luiz Gustavo,2
+D. Payet,H. Sakai,2
+J. Amavi,Rolando,2
+Rolando,Luiz Gustavo,2
+Luiz Gustavo,A. Zambo Anguissa,2
+Luiz Gustavo,H. Sakai,1
+A. Zambo Anguissa,C. N'Jie,1
+A. Rami,C. N'Jie,1
+D. Payet,Luiz Gustavo,1
+D. Payet,J. Amavi,1
+H. Sakai,C. N'Jie,1
+C. N'Jie,V. Germain,1
+H. Sakai,A. Zambo Anguissa,1
+H. Sakai,Luiz Gustavo,1
+V. Germain,Luiz Gustavo,1
+Luiz Gustavo,V. Germain,1
+A. Zambo Anguissa,H. Sakai,1
+Luiz Gustavo,J. Amavi,1
+D. Payet,A. Rami,1
+Luiz Gustavo,D. Payet,1
+D. Payet,A. Zambo Anguissa,1
+A. Rami,V. Germain,1
+C. N'Jie,H. Sakai,1
+Luiz Gustavo,A. Rami,1
+A. Zambo Anguissa,Rolando,1
+A. Zambo Anguissa,D. Payet,1
+Rolando,A. Zambo Anguissa,1

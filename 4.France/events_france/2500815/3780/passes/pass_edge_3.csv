@@ -1,0 +1,57 @@
+Source,Target,Weight
+A. Blin,G. Imbula,5
+G. Imbula,A. Blin,4
+C. Jullien,A. Blin,4
+Som\u00e1lia,K. Amian,4
+C. Michelin,C. Jean,3
+C. Jean,C. Jullien,3
+C. Jean,A. Delort,3
+A. Lafont,C. Jullien,3
+A. Blin,Som\u00e1lia,3
+C. Jullien,Som\u00e1lia,3
+M. Gradel,C. Jean,2
+A. Blin,M. Gradel,2
+I. Diop,C. Michelin,2
+A. Delort,A. Blin,2
+C. Jean,M. Gradel,2
+M. Gradel,Som\u00e1lia,2
+C. Jullien,K. Amian,2
+C. Jean,I. Diop,2
+Som\u00e1lia,A. Delort,2
+A. Delort,C. Jean,2
+A. Blin,C. Jullien,2
+A. Blin,C. Jean,2
+M. Gradel,C. Michelin,2
+K. Amian,A. Blin,2
+G. Imbula,M. Gradel,2
+A. Delort,Som\u00e1lia,1
+C. Jean,C. Michelin,1
+I. Diop,C. Jullien,1
+C. Michelin,C. Jullien,1
+I. Diop,G. Imbula,1
+A. Delort,M. Gradel,1
+Som\u00e1lia,I. Diop,1
+A. Lafont,A. Delort,1
+G. Imbula,A. Delort,1
+M. Gradel,C. Jullien,1
+I. Diop,A. Lafont,1
+A. Delort,C. Michelin,1
+C. Michelin,I. Diop,1
+K. Amian,A. Lafont,1
+C. Michelin,G. Imbula,1
+K. Amian,G. Imbula,1
+Som\u00e1lia,C. Jean,1
+C. Michelin,A. Lafont,1
+C. Jullien,M. Gradel,1
+C. Jullien,G. Imbula,1
+C. Jullien,C. Michelin,1
+C. Michelin,A. Blin,1
+M. Gradel,K. Amian,1
+M. Gradel,A. Delort,1
+Som\u00e1lia,C. Jullien,1
+G. Imbula,C. Michelin,1
+K. Amian,C. Jean,1
+K. Amian,M. Gradel,1
+G. Imbula,I. Diop,1
+K. Amian,C. Jullien,1
+C. Jullien,A. Lafont,1

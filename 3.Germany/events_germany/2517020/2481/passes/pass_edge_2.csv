@@ -1,0 +1,23 @@
+Source,Target,Weight
+P. Max,R. Khedira,2
+M. Gregoritsch,J. Mor\u00e1vek,2
+P. Max,M. Hinteregger,2
+M. Hinteregger,P. Max,1
+J. Mor\u00e1vek,M. Gregoritsch,1
+J. Gouweleeuw,M. Gregoritsch,1
+M. Richter,M. Gregoritsch,1
+M. Hinteregger,J. Gouweleeuw,1
+P. Max,J. Gouweleeuw,1
+M. Gregoritsch,M. Richter,1
+R. Khedira,P. Max,1
+J. Gouweleeuw,J. Schmid,1
+J. Mor\u00e1vek,P. Max,1
+R. Khedira,M. Hinteregger,1
+M. Richter,P. Max,1
+R. Khedira,M. Richter,1
+J. Schmid,M. Hinteregger,1
+J. Mor\u00e1vek,R. Khedira,1
+M. Hinteregger,J. Mor\u00e1vek,1
+M. Gregoritsch,P. Max,1
+M. Hinteregger,M. Gregoritsch,1
+J. Mor\u00e1vek,M. Hinteregger,1

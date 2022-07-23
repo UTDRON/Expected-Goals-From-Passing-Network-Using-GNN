@@ -1,0 +1,27 @@
+Source,Target,Weight
+S. Janko,B. Dabo,2
+O. Seln\u00e6s,J. Bamba,2
+J. Bamba,R. Cabella,2
+R. Cabella,J. Bamba,2
+J. Bamba,H. Ma\u00efga,1
+H. Ma\u00efga,K. Th\u00e9ophile Catherine,1
+B. Dabo,J. Bamba,1
+S. Ruffier,H. Ma\u00efga,1
+L. Perrin,O. Seln\u00e6s,1
+K. Th\u00e9ophile Catherine,R. Cabella,1
+S. Ruffier,O. Seln\u00e6s,1
+S. Janko,S. Ruffier,1
+L. Perrin,S. Janko,1
+R. Cabella,B. Dabo,1
+B. Dabo,R. Cabella,1
+H. Ma\u00efga,J. Bamba,1
+B. Dabo,S. Janko,1
+R. Cabella,S. Janko,1
+J. Bamba,L. Perrin,1
+R. Pierre-Gabriel,H. Ma\u00efga,1
+R. Pierre-Gabriel,B. Dabo,1
+J. Bamba,S. Janko,1
+B. Dabo,R. Pierre-Gabriel,1
+J. Bamba,R. Pierre-Gabriel,1
+H. Ma\u00efga,R. Cabella,1
+S. Janko,L. Perrin,1

@@ -1,0 +1,25 @@
+Source,Target,Weight
+Naldo,B. Stambouli,4
+N. Bentaleb,Naldo,3
+Naldo,M. Nastasi\u0107,2
+B. Stambouli,D. Caligiuri,2
+M. Nastasi\u0107,G. Burgstaller,2
+M. Meyer,N. Bentaleb,2
+M. Nastasi\u0107,N. Bentaleb,2
+B. Stambouli,Naldo,2
+D. Caligiuri,M. Meyer,2
+N. Bentaleb,A. Harit,1
+Naldo,N. Bentaleb,1
+G. Burgstaller,M. Nastasi\u0107,1
+D. Caligiuri,Naldo,1
+N. Bentaleb,M. Meyer,1
+B. Stambouli,B. Oczipka,1
+N. Bentaleb,D. Caligiuri,1
+M. Nastasi\u0107,B. Oczipka,1
+D. Caligiuri,B. Stambouli,1
+A. Harit,D. Caligiuri,1
+M. Meyer,A. Harit,1
+B. Oczipka,M. Nastasi\u0107,1
+A. Harit,M. Nastasi\u0107,1
+B. Oczipka,N. Bentaleb,1
+G. Burgstaller,A. Harit,1

@@ -1,0 +1,82 @@
+Source,Target,Weight
+O. El Hajjam,H. Manzala,4
+J. Ielsch,O. El Hajjam,4
+G. Kakuta,O. El Hajjam,4
+G. Kakuta,G. N'Gosso,4
+H. Manzala,L. Traor\u00e9,3
+H. Manzala,J. Ielsch,3
+J. Ielsch,M. Konat\u00e9,3
+S. Gakp\u00e9,G. Kakuta,3
+G. N'Gosso,S. Gakp\u00e9,3
+G. N'Gosso,J. Ielsch,3
+R. Gurtner,M. Konat\u00e9,3
+M. Konat\u00e9,E. Bourgaud,3
+J. Ielsch,B. Dibassy,3
+K. Ad\u00e9non,O. El Hajjam,2
+L. Traor\u00e9,J. Ielsch,2
+H. Manzala,R. Gurtner,2
+S. Gakp\u00e9,H. Manzala,2
+J. Ielsch,Danilo Avelar,2
+J. Ielsch,H. Manzala,2
+O. El Hajjam,G. Kakuta,2
+G. N'Gosso,G. Kakuta,2
+M. Konat\u00e9,G. N'Gosso,2
+M. Konat\u00e9,O. El Hajjam,2
+Danilo Avelar,K. Ad\u00e9non,2
+B. Dibassy,K. Ad\u00e9non,2
+O. El Hajjam,G. N'Gosso,2
+K. Ad\u00e9non,G. N'Gosso,2
+Danilo Avelar,L. Traor\u00e9,2
+H. Manzala,G. Kakuta,2
+E. Bourgaud,J. Ielsch,2
+K. Ad\u00e9non,R. Gurtner,2
+H. Manzala,S. Gakp\u00e9,2
+L. Traor\u00e9,H. Manzala,2
+B. Dibassy,O. El Hajjam,2
+L. Traor\u00e9,Danilo Avelar,2
+E. Bourgaud,S. Gakp\u00e9,2
+G. N'Gosso,B. Dibassy,2
+O. El Hajjam,M. Konat\u00e9,2
+Danilo Avelar,J. Ielsch,2
+O. El Hajjam,K. Ad\u00e9non,2
+S. Gakp\u00e9,O. El Hajjam,2
+M. Konat\u00e9,Danilo Avelar,2
+L. Traor\u00e9,G. Kakuta,1
+O. El Hajjam,S. Gakp\u00e9,1
+O. El Hajjam,L. Traor\u00e9,1
+L. Traor\u00e9,O. El Hajjam,1
+O. El Hajjam,Danilo Avelar,1
+J. Ielsch,G. Kakuta,1
+M. Konat\u00e9,J. Ielsch,1
+O. El Hajjam,J. Ielsch,1
+B. Dibassy,H. Manzala,1
+B. Dibassy,S. Gakp\u00e9,1
+G. Kakuta,L. Traor\u00e9,1
+J. Ielsch,E. Bourgaud,1
+S. Gakp\u00e9,K. Ad\u00e9non,1
+H. Manzala,B. Dibassy,1
+S. Gakp\u00e9,M. Konat\u00e9,1
+Danilo Avelar,H. Manzala,1
+O. El Hajjam,R. Gurtner,1
+G. Kakuta,J. Ielsch,1
+Danilo Avelar,E. Bourgaud,1
+G. N'Gosso,H. Manzala,1
+J. Ielsch,L. Traor\u00e9,1
+G. Kakuta,H. Manzala,1
+K. Ad\u00e9non,H. Manzala,1
+R. Gurtner,L. Traor\u00e9,1
+M. Konat\u00e9,G. Kakuta,1
+R. Gurtner,G. N'Gosso,1
+S. Gakp\u00e9,Danilo Avelar,1
+M. Konat\u00e9,K. Ad\u00e9non,1
+S. Gakp\u00e9,G. N'Gosso,1
+S. Gakp\u00e9,J. Ielsch,1
+R. Gurtner,S. Gakp\u00e9,1
+G. N'Gosso,M. Konat\u00e9,1
+G. N'Gosso,R. Gurtner,1
+H. Manzala,G. N'Gosso,1
+K. Ad\u00e9non,S. Gakp\u00e9,1
+H. Manzala,M. Konat\u00e9,1
+E. Bourgaud,M. Konat\u00e9,1
+L. Traor\u00e9,S. Gakp\u00e9,1
+G. Kakuta,M. Konat\u00e9,1

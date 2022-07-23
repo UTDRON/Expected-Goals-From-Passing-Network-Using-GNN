@@ -1,0 +1,23 @@
+Source,Target,Weight
+A. Diallo,R. Quaison,3
+D. Brosinski,J. Gbamin,2
+R. Quaison,A. Diallo,2
+A. Maxim,D. Brosinski,2
+J. Gbamin,A. Maxim,2
+A. Diallo,J. Gbamin,1
+A. Diallo,A. Ujah,1
+R. Quaison,S. Serdar,1
+A. Maxim,A. Diallo,1
+S. Serdar,A. Maxim,1
+A. Ujah,S. Serdar,1
+A. Diallo,Y. Muto,1
+J. Gbamin,A. Diallo,1
+S. Serdar,A. Diallo,1
+D. Brosinski,S. Serdar,1
+R. Quaison,S. Bell,1
+D. Brosinski,A. Diallo,1
+Y. Muto,S. Serdar,1
+K. Onisiwo,D. Brosinski,1
+S. Bell,F. M\u00fcller,1
+S. Serdar,R. Quaison,1
+F. M\u00fcller,D. Brosinski,1

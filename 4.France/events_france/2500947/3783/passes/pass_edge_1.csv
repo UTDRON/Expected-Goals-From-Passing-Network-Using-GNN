@@ -1,0 +1,31 @@
+Source,Target,Weight
+R. Rodelin,I. Santini,4
+J. F\u00e9ret,Y. Armougom,2
+A. Djiku,E. Crivelli,2
+R. Vercoutre,R. Rodelin,2
+I. Santini,S. Peeters,2
+R. Genevois,D. Da Silva,2
+E. Crivelli,A. Djiku,2
+S. Peeters,R. Genevois,1
+D. Da Silva,R. Vercoutre,1
+S. Peeters,R. Rodelin,1
+R. Genevois,J. F\u00e9ret,1
+D. Da Silva,R. Rodelin,1
+F. Guilbert,E. Crivelli,1
+I. Santini,J. F\u00e9ret,1
+I. Santini,E. Crivelli,1
+D. Da Silva,A. Djiku,1
+R. Rodelin,A. Djiku,1
+J. F\u00e9ret,F. Guilbert,1
+Y. Armougom,A. Djiku,1
+A. Djiku,D. Da Silva,1
+E. Crivelli,I. Santini,1
+I. Santini,R. Genevois,1
+I. Santini,R. Rodelin,1
+E. Crivelli,J. F\u00e9ret,1
+A. Djiku,R. Vercoutre,1
+Y. Armougom,R. Rodelin,1
+A. Djiku,R. Genevois,1
+S. Peeters,E. Crivelli,1
+R. Genevois,I. Santini,1
+E. Crivelli,S. Peeters,1

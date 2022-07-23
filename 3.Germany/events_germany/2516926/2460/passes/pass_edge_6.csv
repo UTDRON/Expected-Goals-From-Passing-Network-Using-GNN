@@ -1,0 +1,22 @@
+Source,Target,Weight
+D. Latza,A. Diallo,2
+J. Gbamin,G. Holtmann,1
+J. Gbamin,S. Bell,1
+A. Hack,S. Serdar,1
+D. Latza,S. Bell,1
+G. Donati,A. Hack,1
+A. Diallo,D. Latza,1
+R. Zentner,R. Quaison,1
+G. Holtmann,G. Donati,1
+S. Bell,A. Diallo,1
+S. Bell,G. Donati,1
+R. Quaison,G. Donati,1
+S. Serdar,J. Gbamin,1
+G. Donati,J. Gbamin,1
+J. Gbamin,R. Quaison,1
+G. Donati,Y. Muto,1
+S. Serdar,D. Latza,1
+R. Quaison,A. Diallo,1
+A. Diallo,J. Gbamin,1
+Y. Muto,D. Latza,1
+A. Diallo,R. Zentner,1

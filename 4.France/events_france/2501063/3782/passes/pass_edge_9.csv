@@ -1,0 +1,64 @@
+Source,Target,Weight
+L. Perrin,O. Seln\u00e6s,3
+O. Seln\u00e6s,S. Ruffier,3
+R. Beri\u010d,R. Hamouma,3
+K. Th\u00e9ophile Catherine,N. Suboti\u0107,3
+K. Monnet-Paquet,Y. M'Vila,3
+R. Hamouma,K. Monnet-Paquet,3
+N. Suboti\u0107,K. Th\u00e9ophile Catherine,3
+K. Monnet-Paquet,R. Hamouma,2
+O. Seln\u00e6s,K. Th\u00e9ophile Catherine,2
+N. Suboti\u0107,R. Hamouma,2
+Y. M'Vila,K. Th\u00e9ophile Catherine,2
+S. Ruffier,L. Perrin,2
+K. Th\u00e9ophile Catherine,O. Seln\u00e6s,2
+M. Debuchy,R. Beri\u010d,2
+K. Monnet-Paquet,L. Perrin,2
+Y. M'Vila,K. Monnet-Paquet,2
+R. Hamouma,J. Bamba,2
+R. Beri\u010d,M. Debuchy,2
+R. Hamouma,Y. M'Vila,2
+Y. M'Vila,R. Beri\u010d,2
+K. Th\u00e9ophile Catherine,Y. M'Vila,2
+O. Seln\u00e6s,K. Monnet-Paquet,2
+Y. M'Vila,N. Suboti\u0107,2
+Y. M'Vila,O. Seln\u00e6s,2
+R. Hamouma,L. Perrin,2
+L. Perrin,Y. M'Vila,2
+K. Monnet-Paquet,N. Suboti\u0107,1
+S. Ruffier,N. Suboti\u0107,1
+L. Perrin,M. Debuchy,1
+M. Debuchy,N. Suboti\u0107,1
+K. Th\u00e9ophile Catherine,R. Beri\u010d,1
+M. Debuchy,J. Bamba,1
+N. Suboti\u0107,L. Perrin,1
+J. Bamba,N. Suboti\u0107,1
+O. Seln\u00e6s,Y. M'Vila,1
+L. Perrin,K. Th\u00e9ophile Catherine,1
+R. Beri\u010d,Y. M'Vila,1
+L. Perrin,J. Bamba,1
+L. Perrin,S. Ruffier,1
+Y. M'Vila,J. Bamba,1
+J. Bamba,R. Beri\u010d,1
+O. Seln\u00e6s,L. Perrin,1
+J. Bamba,M. Debuchy,1
+M. Debuchy,R. Hamouma,1
+Y. M'Vila,M. Debuchy,1
+Y. M'Vila,R. Hamouma,1
+J. Bamba,K. Monnet-Paquet,1
+O. Seln\u00e6s,R. Hamouma,1
+N. Suboti\u0107,O. Seln\u00e6s,1
+S. Ruffier,O. Seln\u00e6s,1
+S. Ruffier,K. Th\u00e9ophile Catherine,1
+K. Th\u00e9ophile Catherine,S. Ruffier,1
+N. Suboti\u0107,S. Ruffier,1
+Y. M'Vila,L. Perrin,1
+R. Hamouma,M. Debuchy,1
+K. Monnet-Paquet,J. Bamba,1
+S. Ruffier,R. Beri\u010d,1
+K. Th\u00e9ophile Catherine,K. Monnet-Paquet,1
+J. Bamba,O. Seln\u00e6s,1
+N. Suboti\u0107,Y. M'Vila,1
+R. Beri\u010d,K. Th\u00e9ophile Catherine,1
+J. Bamba,Y. M'Vila,1
+M. Debuchy,Y. M'Vila,1

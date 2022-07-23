@@ -1,0 +1,34 @@
+Source,Target,Weight
+M. Harnik,I. Bebou,2
+O. Sorg,P. Schwegler,2
+I. Bebou,Jonathas,2
+Miiko Albornoz,S. San\u00e9,2
+Miiko Albornoz,M. Bakalorz,2
+F. Klaus,P. Schwegler,2
+P. Schwegler,M. Harnik,2
+M. Bakalorz,Miiko Albornoz,2
+S. San\u00e9,F. Klaus,2
+F. H\u00fcbner,S. San\u00e9,2
+P. Schwegler,F. H\u00fcbner,1
+M. Harnik,Miiko Albornoz,1
+S. San\u00e9,F. H\u00fcbner,1
+Jonathas,Miiko Albornoz,1
+F. H\u00fcbner,O. Sorg,1
+S. San\u00e9,M. Harnik,1
+M. Bakalorz,S. San\u00e9,1
+F. H\u00fcbner,P. Schwegler,1
+F. Klaus,O. Sorg,1
+Miiko Albornoz,M. Harnik,1
+P. Schwegler,O. Sorg,1
+M. Esser,S. San\u00e9,1
+P. Schwegler,F. Klaus,1
+F. H\u00fcbner,M. Esser,1
+S. San\u00e9,Miiko Albornoz,1
+P. Schwegler,S. San\u00e9,1
+M. Harnik,F. H\u00fcbner,1
+F. Klaus,M. Bakalorz,1
+O. Sorg,F. H\u00fcbner,1
+M. Bakalorz,F. H\u00fcbner,1
+M. Harnik,F. Klaus,1
+S. San\u00e9,M. Bakalorz,1
+S. San\u00e9,P. Schwegler,1

@@ -1,0 +1,18 @@
+Source,Target,Weight
+D. Brosinski,F. Frei,2
+D. Latza,D. Brosinski,2
+F. Frei,D. Brosinski,2
+D. Brosinski,S. Bell,1
+A. Diallo,L. \u00d6ztunali,1
+R. Quaison,A. Diallo,1
+F. Frei,D. Latza,1
+R. Quaison,D. Brosinski,1
+S. Bell,R. Quaison,1
+D. Brosinski,A. Maxim,1
+L. \u00d6ztunali,S. Bell,1
+D. Brosinski,D. Latza,1
+S. Bell,A. Maxim,1
+D. Latza,F. Frei,1
+R. Quaison,D. Latza,1
+A. Maxim,R. Adler,1
+R. Adler,R. Quaison,1

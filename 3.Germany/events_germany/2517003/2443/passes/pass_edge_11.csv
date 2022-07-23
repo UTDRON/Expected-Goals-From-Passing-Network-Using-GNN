@@ -1,0 +1,34 @@
+Source,Target,Weight
+M. Friedl,M. Kruse,5
+M. Kruse,M. Friedl,3
+M. Friedl,N. Moisander,3
+P. Bargfrede,M. Friedl,2
+N. Moisander,J. Pavlenka,2
+J. Gondorf,T. Delaney,2
+M. Eggestein,M. Kruse,2
+M. Kruse,T. Delaney,2
+T. Delaney,M. Friedl,2
+M. Veljkovic,M. Eggestein,1
+M. Eggestein,P. Bargfrede,1
+N. Moisander,T. Delaney,1
+I. Belfodil,P. Bargfrede,1
+M. Kruse,I. Belfodil,1
+N. Moisander,M. Eggestein,1
+J. Pavlenka,I. Belfodil,1
+P. Bargfrede,T. Delaney,1
+M. Kruse,M. Eggestein,1
+I. Belfodil,T. Gebre Selassie,1
+T. Gebre Selassie,J. Gondorf,1
+J. Pavlenka,J. Gondorf,1
+P. Bargfrede,N. Moisander,1
+J. Gondorf,I. Belfodil,1
+T. Delaney,N. Moisander,1
+J. Gondorf,M. Veljkovic,1
+J. Pavlenka,P. Bargfrede,1
+T. Delaney,M. Kruse,1
+M. Kruse,J. Gondorf,1
+N. Moisander,M. Veljkovic,1
+I. Belfodil,J. Gondorf,1
+M. Eggestein,J. Pavlenka,1
+M. Veljkovic,M. Friedl,1
+T. Delaney,M. Eggestein,1

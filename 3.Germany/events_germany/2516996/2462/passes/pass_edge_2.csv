@@ -1,0 +1,63 @@
+Source,Target,Weight
+M. Russ,M. Hasebe,8
+M. Hasebe,D. Abraham,7
+M. Hasebe,M. Russ,7
+D. Abraham,D. da Costa,6
+D. Abraham,M. Hasebe,5
+M. Wolf,D. da Costa,4
+M. Russ,J. Willems,4
+D. da Costa,D. Abraham,4
+L. Hradecky,M. Russ,4
+D. da Costa,M. Fabi\u00e1n,4
+J. de Guzm\u00e1n,M. Hasebe,3
+K. Boateng,M. Hasebe,3
+J. de Guzm\u00e1n,K. Boateng,3
+J. Willems,M. Russ,3
+D. Abraham,L. Hradecky,3
+M. Hasebe,L. Hradecky,3
+D. da Costa,J. de Guzm\u00e1n,3
+M. Hasebe,J. de Guzm\u00e1n,3
+L. Hradecky,M. Hasebe,2
+M. Russ,L. Hradecky,2
+M. Russ,J. de Guzm\u00e1n,2
+M. Wolf,M. Hasebe,2
+M. Fabi\u00e1n,M. Russ,2
+M. Fabi\u00e1n,D. da Costa,2
+D. da Costa,M. Wolf,2
+J. Willems,K. Boateng,2
+M. Hasebe,D. da Costa,2
+K. Boateng,J. Willems,2
+J. de Guzm\u00e1n,J. Willems,2
+L. Hradecky,D. Abraham,2
+M. Fabi\u00e1n,J. de Guzm\u00e1n,2
+K. Boateng,M. Wolf,2
+L. Jovi\u0107,D. da Costa,1
+J. de Guzm\u00e1n,D. Abraham,1
+L. Hradecky,J. de Guzm\u00e1n,1
+L. Hradecky,L. Jovi\u0107,1
+D. da Costa,J. Willems,1
+D. da Costa,L. Hradecky,1
+D. Abraham,M. Wolf,1
+J. Willems,M. Fabi\u00e1n,1
+J. de Guzm\u00e1n,L. Hradecky,1
+D. Abraham,J. de Guzm\u00e1n,1
+J. de Guzm\u00e1n,M. Fabi\u00e1n,1
+M. Hasebe,M. Fabi\u00e1n,1
+D. Abraham,M. Russ,1
+J. Willems,J. de Guzm\u00e1n,1
+M. Wolf,D. Abraham,1
+J. de Guzm\u00e1n,D. da Costa,1
+J. Willems,M. Wolf,1
+M. Fabi\u00e1n,K. Boateng,1
+M. Russ,K. Boateng,1
+M. Hasebe,M. Wolf,1
+J. de Guzm\u00e1n,L. Jovi\u0107,1
+K. Boateng,D. Abraham,1
+J. Willems,M. Hasebe,1
+J. Willems,L. Jovi\u0107,1
+M. Hasebe,K. Boateng,1
+M. Russ,D. Abraham,1
+M. Fabi\u00e1n,M. Hasebe,1
+L. Jovi\u0107,M. Fabi\u00e1n,1
+K. Boateng,M. Russ,1
+D. da Costa,K. Boateng,1

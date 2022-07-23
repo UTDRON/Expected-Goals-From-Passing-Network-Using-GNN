@@ -1,0 +1,98 @@
+Source,Target,Weight
+A. Diallo,D. Brosinski,9
+G. Donati,P. De Blasis,6
+D. Brosinski,G. Holtmann,6
+P. De Blasis,A. Diallo,5
+L. \u00d6ztunali,D. Latza,5
+F. Frei,A. Diallo,5
+G. Holtmann,D. Brosinski,5
+D. Latza,A. Diallo,4
+F. Frei,D. Latza,4
+A. Diallo,P. De Blasis,4
+F. Frei,L. \u00d6ztunali,4
+G. Donati,R. Zentner,4
+D. Latza,G. Donati,4
+D. Latza,P. De Blasis,4
+D. Latza,F. Frei,4
+L. \u00d6ztunali,G. Donati,4
+D. Brosinski,D. Latza,4
+A. Diallo,G. Holtmann,4
+G. Donati,L. \u00d6ztunali,4
+F. Frei,G. Donati,4
+D. Brosinski,A. Diallo,4
+D. Brosinski,P. De Blasis,4
+P. De Blasis,F. Frei,4
+A. Diallo,R. Zentner,3
+Y. Muto,A. Diallo,3
+P. De Blasis,L. \u00d6ztunali,3
+R. Zentner,A. Diallo,3
+A. Diallo,F. Frei,3
+D. Brosinski,F. Frei,3
+G. Donati,L. Balogun,3
+L. \u00d6ztunali,F. Frei,3
+L. Balogun,G. Donati,3
+P. De Blasis,G. Donati,3
+D. Latza,L. \u00d6ztunali,2
+A. Diallo,D. Latza,2
+R. Zentner,G. Donati,2
+G. Holtmann,Y. Muto,2
+A. Diallo,L. Balogun,2
+Y. Muto,D. Latza,2
+E. Berggreen,L. \u00d6ztunali,2
+G. Donati,D. Latza,2
+P. De Blasis,D. Brosinski,2
+P. De Blasis,R. Zentner,2
+L. Balogun,D. Latza,2
+G. Donati,D. Brosinski,2
+L. \u00d6ztunali,L. Balogun,2
+D. Latza,E. Berggreen,2
+L. \u00d6ztunali,P. De Blasis,2
+D. Latza,D. Brosinski,2
+P. De Blasis,D. Latza,2
+R. Zentner,E. Berggreen,2
+G. Donati,F. Frei,2
+G. Holtmann,G. Donati,2
+L. Balogun,A. Diallo,2
+G. Holtmann,D. Latza,1
+E. Berggreen,R. Zentner,1
+R. Zentner,F. Frei,1
+F. Frei,R. Zentner,1
+A. Diallo,L. \u00d6ztunali,1
+D. Latza,L. Balogun,1
+D. Latza,R. Quaison,1
+F. Frei,L. Balogun,1
+G. Donati,E. Berggreen,1
+G. Donati,A. Diallo,1
+D. Latza,G. Holtmann,1
+F. Frei,G. Holtmann,1
+D. Brosinski,R. Zentner,1
+L. Balogun,R. Zentner,1
+D. Brosinski,G. Donati,1
+R. Quaison,A. Diallo,1
+A. Diallo,E. Berggreen,1
+F. Frei,D. Brosinski,1
+L. Balogun,L. \u00d6ztunali,1
+A. Diallo,G. Donati,1
+R. Zentner,P. De Blasis,1
+G. Holtmann,F. Frei,1
+G. Holtmann,E. Berggreen,1
+L. \u00d6ztunali,D. Brosinski,1
+E. Berggreen,Y. Muto,1
+L. \u00d6ztunali,A. Diallo,1
+D. Brosinski,Y. Muto,1
+E. Berggreen,G. Holtmann,1
+R. Zentner,G. Holtmann,1
+F. Frei,P. De Blasis,1
+G. Holtmann,L. \u00d6ztunali,1
+G. Holtmann,A. Diallo,1
+E. Berggreen,F. Frei,1
+R. Zentner,D. Latza,1
+L. \u00d6ztunali,Y. Muto,1
+R. Zentner,Y. Muto,1
+P. De Blasis,E. Berggreen,1
+G. Holtmann,P. De Blasis,1
+Y. Muto,D. Brosinski,1
+E. Berggreen,G. Donati,1
+E. Berggreen,D. Brosinski,1
+R. Zentner,L. \u00d6ztunali,1
+P. De Blasis,G. Holtmann,1

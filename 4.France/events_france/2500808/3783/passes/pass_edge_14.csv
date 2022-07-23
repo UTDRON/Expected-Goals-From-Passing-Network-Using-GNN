@@ -1,0 +1,46 @@
+Source,Target,Weight
+V. Bessat,I. Santini,3
+B. Sankoh,J. F\u00e9ret,3
+R. Genevois,D. Da Silva,3
+A. Mbengue,V. Bessat,2
+R. Genevois,B. Sankoh,2
+R. Vercoutre,R. Genevois,2
+A. Mbengue,R. Genevois,2
+D. Da Silva,R. Genevois,2
+R. Genevois,A. Mbengue,2
+J. F\u00e9ret,R. Rodelin,2
+V. Bessat,A. Mbengue,2
+J. Nkololo,R. Genevois,2
+J. F\u00e9ret,V. Bessat,2
+A. Mbengue,R. Rodelin,2
+D. Da Silva,J. Nkololo,1
+B. Sankoh,I. Santini,1
+R. Rodelin,J. F\u00e9ret,1
+I. Santini,B. Sankoh,1
+A. Mbengue,A. Djiku,1
+A. Djiku,A. Mbengue,1
+I. Santini,J. Nkololo,1
+I. Santini,A. Djiku,1
+J. F\u00e9ret,A. Mbengue,1
+A. Mbengue,R. Vercoutre,1
+A. Djiku,D. Da Silva,1
+J. F\u00e9ret,D. Da Silva,1
+J. Nkololo,A. Djiku,1
+R. Rodelin,B. Sankoh,1
+D. Da Silva,V. Bessat,1
+R. Rodelin,I. Santini,1
+R. Genevois,J. F\u00e9ret,1
+A. Mbengue,J. F\u00e9ret,1
+R. Rodelin,A. Mbengue,1
+R. Rodelin,V. Bessat,1
+R. Rodelin,R. Genevois,1
+A. Djiku,B. Sankoh,1
+R. Genevois,J. Nkololo,1
+R. Genevois,V. Bessat,1
+V. Bessat,R. Rodelin,1
+D. Da Silva,R. Rodelin,1
+I. Santini,R. Genevois,1
+I. Santini,A. Mbengue,1
+A. Djiku,R. Vercoutre,1
+B. Sankoh,A. Mbengue,1
+J. F\u00e9ret,A. Djiku,1

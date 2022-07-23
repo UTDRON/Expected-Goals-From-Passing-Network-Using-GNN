@@ -1,0 +1,23 @@
+Source,Target,Weight
+P. Pekar\u00edk,V. Ibi\u0161evi\u0107,2
+N. Stark,P. Skjelbred,2
+V. Ibi\u0161evi\u0107,P. Skjelbred,2
+M. Weiser,P. Pekar\u00edk,2
+M. Weiser,P. Skjelbred,1
+P. Skjelbred,R. Jarstein,1
+N. Stark,P. Pekar\u00edk,1
+P. Skjelbred,N. Stark,1
+S. Langkamp,P. Pekar\u00edk,1
+S. Langkamp,K. Rekik,1
+V. Ibi\u0161evi\u0107,V. Lazaro,1
+P. Skjelbred,M. Weiser,1
+K. Rekik,M. Plattenhardt,1
+R. Jarstein,M. Weiser,1
+V. Lazaro,V. Ibi\u0161evi\u0107,1
+P. Pekar\u00edk,V. Lazaro,1
+P. Skjelbred,S. Langkamp,1
+M. Plattenhardt,S. Kalou,1
+V. Lazaro,P. Pekar\u00edk,1
+P. Pekar\u00edk,M. Weiser,1
+S. Kalou,N. Stark,1
+P. Pekar\u00edk,S. Langkamp,1

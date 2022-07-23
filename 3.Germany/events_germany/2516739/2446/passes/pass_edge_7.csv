@@ -1,0 +1,21 @@
+Source,Target,Weight
+B. Leno,J. Tah,2
+J. Tah,K. Bellarabi,2
+K. Bellarabi,B. Henrichs,2
+D. Kohr,J. Tah,1
+J. Tah,B. Henrichs,1
+K. Volland,L. Bailey,1
+Wendell,J. Tah,1
+B. Henrichs,J. Tah,1
+S. Bender,B. Leno,1
+S. Bender,Wendell,1
+J. Tah,L. Bailey,1
+A. Mehmedi,S. Bender,1
+B. Henrichs,K. Bellarabi,1
+L. Bailey,A. Mehmedi,1
+B. Henrichs,L. Bailey,1
+J. Tah,B. Leno,1
+L. Bailey,B. Leno,1
+J. Tah,D. Kohr,1
+K. Bellarabi,K. Volland,1
+B. Leno,S. Bender,1

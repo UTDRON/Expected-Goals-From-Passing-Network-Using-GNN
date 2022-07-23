@@ -1,0 +1,68 @@
+Source,Target,Weight
+A. Hahn,D. Diekmeier,5
+D. Diekmeier,A. Hahn,4
+F. Kosti\u0107,G. Jung,3
+L. Holtby,D. Diekmeier,3
+C. Mathenia,B. Wood,3
+A. Hahn,K. Papadopoulos,3
+G. Jung,R. van Drongelen,3
+A. Hahn,B. Wood,3
+R. van Drongelen,C. Mathenia,3
+A. Ekdal,K. Papadopoulos,3
+C. Mathenia,A. Hahn,3
+A. Ekdal,A. Hahn,3
+R. van Drongelen,F. Kosti\u0107,3
+B. Wood,A. Ekdal,3
+Walace,G. Jung,3
+B. Wood,K. Papadopoulos,2
+F. Kosti\u0107,A. Ekdal,2
+Walace,L. Holtby,2
+G. Jung,A. Hahn,2
+B. Wood,G. Jung,2
+R. van Drongelen,B. Wood,2
+L. Holtby,R. van Drongelen,2
+A. Hahn,Walace,2
+C. Mathenia,R. van Drongelen,2
+K. Papadopoulos,L. Holtby,2
+K. Papadopoulos,A. Hahn,2
+A. Hahn,A. Ekdal,2
+K. Papadopoulos,D. Diekmeier,2
+D. Diekmeier,B. Wood,2
+G. Jung,F. Kosti\u0107,2
+B. Wood,A. Hahn,2
+B. Wood,D. Diekmeier,2
+D. Diekmeier,A. Ekdal,2
+D. Diekmeier,G. Jung,2
+Walace,C. Mathenia,2
+L. Holtby,Walace,1
+L. Holtby,F. Kosti\u0107,1
+R. van Drongelen,K. Papadopoulos,1
+L. Holtby,K. Papadopoulos,1
+D. Diekmeier,L. Holtby,1
+F. Kosti\u0107,L. Holtby,1
+A. Ekdal,D. Diekmeier,1
+D. Diekmeier,K. Papadopoulos,1
+B. Wood,C. Mathenia,1
+K. Papadopoulos,Walace,1
+R. van Drongelen,L. Holtby,1
+B. Wood,F. Kosti\u0107,1
+A. Hahn,F. Kosti\u0107,1
+C. Mathenia,L. Holtby,1
+D. Diekmeier,F. Kosti\u0107,1
+A. Ekdal,L. Holtby,1
+R. van Drongelen,Walace,1
+A. Ekdal,B. Wood,1
+F. Kosti\u0107,C. Mathenia,1
+K. Papadopoulos,R. van Drongelen,1
+B. Wood,R. van Drongelen,1
+K. Papadopoulos,F. Kosti\u0107,1
+G. Jung,Walace,1
+L. Holtby,B. Wood,1
+A. Ekdal,R. van Drongelen,1
+K. Papadopoulos,B. Wood,1
+B. Wood,Walace,1
+G. Jung,C. Mathenia,1
+G. Jung,A. Ekdal,1
+K. Papadopoulos,C. Mathenia,1
+F. Kosti\u0107,B. Wood,1
+F. Kosti\u0107,R. van Drongelen,1

@@ -1,0 +1,40 @@
+Source,Target,Weight
+K. Laimer,Bruma,4
+Bernardo,M. Sabitzer,4
+Bruma,K. Kampl,3
+J. Augustin,Bernardo,2
+K. Laimer,K. Kampl,2
+M. Sabitzer,K. Kampl,2
+W. Orban,D. Upamecano,2
+N. Ke\u00efta,Bernardo,2
+M. Sabitzer,J. Augustin,2
+K. Kampl,K. Laimer,2
+Bruma,K. Laimer,2
+Bruma,W. Orban,1
+D. Upamecano,Bruma,1
+K. Kampl,Bruma,1
+D. Demme,N. Ke\u00efta,1
+W. Orban,D. Demme,1
+J. Augustin,D. Demme,1
+W. Orban,M. Sabitzer,1
+Bernardo,W. Orban,1
+D. Demme,K. Laimer,1
+D. Demme,W. Orban,1
+D. Upamecano,J. Augustin,1
+K. Kampl,J. Augustin,1
+K. Kampl,D. Demme,1
+J. Augustin,Bruma,1
+Bruma,D. Demme,1
+K. Kampl,Bernardo,1
+D. Demme,J. Augustin,1
+M. Sabitzer,N. Ke\u00efta,1
+J. Augustin,M. Sabitzer,1
+K. Kampl,N. Ke\u00efta,1
+D. Upamecano,Bernardo,1
+M. Sabitzer,K. Laimer,1
+N. Ke\u00efta,K. Laimer,1
+M. Sabitzer,W. Orban,1
+J. Augustin,N. Ke\u00efta,1
+K. Laimer,J. Augustin,1
+N. Ke\u00efta,M. Sabitzer,1
+Bernardo,D. Upamecano,1

@@ -1,0 +1,44 @@
+Source,Target,Weight
+K. Ad\u00e9non,G. N'Gosso,3
+G. Kakuta,T. Monconduit,3
+T. Monconduit,G. Kakuta,2
+Danilo Avelar,B. Dibassy,2
+M. Konat\u00e9,Danilo Avelar,2
+B. Dibassy,G. Kakuta,2
+B. Dibassy,Danilo Avelar,2
+Danilo Avelar,M. Konat\u00e9,2
+G. N'Gosso,T. Monconduit,2
+P. Gouano,K. Ad\u00e9non,2
+K. Ad\u00e9non,Danilo Avelar,2
+T. Monconduit,S. Mendoza,2
+T. Monconduit,B. Dibassy,2
+G. N'Gosso,G. Fofana,2
+G. Fofana,O. El Hajjam,2
+G. Kakuta,B. Dibassy,2
+O. El Hajjam,K. Ad\u00e9non,1
+P. Gouano,T. Monconduit,1
+Danilo Avelar,G. N'Gosso,1
+Danilo Avelar,K. Ad\u00e9non,1
+S. Mendoza,K. Ad\u00e9non,1
+K. Ad\u00e9non,G. Kakuta,1
+B. Dibassy,S. Mendoza,1
+G. N'Gosso,G. Kakuta,1
+G. Fofana,K. Ad\u00e9non,1
+G. N'Gosso,P. Gouano,1
+K. Ad\u00e9non,G. Fofana,1
+G. N'Gosso,K. Ad\u00e9non,1
+G. Kakuta,S. Mendoza,1
+K. Ad\u00e9non,T. Monconduit,1
+B. Dibassy,P. Gouano,1
+G. Fofana,G. N'Gosso,1
+O. El Hajjam,G. Fofana,1
+P. Gouano,G. Kakuta,1
+O. El Hajjam,G. N'Gosso,1
+K. Ad\u00e9non,B. Dibassy,1
+S. Mendoza,G. N'Gosso,1
+S. Mendoza,O. El Hajjam,1
+T. Monconduit,K. Ad\u00e9non,1
+G. Kakuta,K. Ad\u00e9non,1
+Danilo Avelar,P. Gouano,1
+B. Dibassy,T. Monconduit,1
+T. Monconduit,Danilo Avelar,1

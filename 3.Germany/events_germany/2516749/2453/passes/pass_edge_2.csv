@@ -1,0 +1,24 @@
+Source,Target,Weight
+J. Haberer,P. Stenzel,3
+P. Stenzel,J. Haberer,2
+P. Lienhart,P. Stenzel,2
+M. Terrazzino,J. Haberer,2
+A. Schwolow,J. Haberer,1
+P. Stenzel,M. Terrazzino,1
+N. H\u00f6fler,P. Lienhart,1
+P. Lienhart,N. H\u00f6fler,1
+P. Stenzel,F. Niederlechner,1
+J. Haberer,N. H\u00f6fler,1
+P. Stenzel,N. H\u00f6fler,1
+J. Haberer,F. Niederlechner,1
+F. Niederlechner,A. Schwolow,1
+F. Niederlechner,M. Terrazzino,1
+P. Stenzel,J. Schuster,1
+N. H\u00f6fler,M. Frantz,1
+J. Schuster,M. Kempf,1
+M. Kempf,P. Lienhart,1
+P. Stenzel,M. Kempf,1
+M. Frantz,F. Niederlechner,1
+M. Kempf,A. Schwolow,1
+N. H\u00f6fler,P. Stenzel,1
+A. Schwolow,P. Lienhart,1

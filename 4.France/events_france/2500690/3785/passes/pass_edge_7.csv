@@ -1,0 +1,26 @@
+Source,Target,Weight
+L. Deaux,Y. Salibur,2
+Pedro Rebocho,J. Sorbon,2
+J. Ikoko,L. Deaux,2
+L. Phiri,M. Diallo,2
+Y. Salibur,J. Ikoko,2
+M. Diallo,K. Johnsson,1
+Pedro Rebocho,L. Blas,1
+L. Blas,L. Phiri,1
+K. Johnsson,M. Diallo,1
+J. Briand,L. Deaux,1
+K. Johnsson,Pedro Rebocho,1
+J. Briand,Y. Salibur,1
+K. Johnsson,J. Briand,1
+M. Diallo,L. Deaux,1
+M. Diallo,L. Phiri,1
+L. Phiri,Pedro Rebocho,1
+L. Blas,M. Diallo,1
+L. Deaux,L. Phiri,1
+J. Sorbon,K. Johnsson,1
+L. Phiri,J. Ikoko,1
+M. Diallo,Y. Salibur,1
+Y. Salibur,L. Blas,1
+J. Sorbon,L. Phiri,1
+J. Ikoko,K. Johnsson,1
+L. Deaux,J. Briand,1

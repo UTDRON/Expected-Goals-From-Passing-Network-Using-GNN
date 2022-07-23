@@ -1,0 +1,49 @@
+Source,Target,Weight
+Malcom,Y. Sabaly,7
+Y. Sabaly,Malcom,7
+J. Toulalan,Y. Sabaly,6
+Y. Sabaly,Ot\u00e1vio,6
+J. Toulalan,V. Jovanovi\u0107,4
+Ot\u00e1vio,J. Toulalan,4
+V. Jovanovi\u0107,B. Costil,4
+Y. Sabaly,F. Kamano,4
+B. Costil,V. Jovanovi\u0107,3
+V. Jovanovi\u0107,Ot\u00e1vio,3
+Ot\u00e1vio,Y. Sabaly,3
+V. Jovanovi\u0107,J. Toulalan,3
+F. Kamano,Y. Sabaly,3
+J. Toulalan,B. Costil,2
+V. Jovanovi\u0107,Y. Sankhar\u00e9,2
+V. Jovanovi\u0107,Jonathan Cafu,2
+Ot\u00e1vio,Jonathan Cafu,2
+T. Pellenard,Jonathan Cafu,2
+Malcom,T. Pellenard,2
+Y. Sabaly,J. Toulalan,2
+T. Pellenard,Y. Sankhar\u00e9,2
+Jonathan Cafu,V. Jovanovi\u0107,2
+T. Pellenard,F. Kamano,2
+Jonathan Cafu,J. Toulalan,2
+F. Kamano,V. Jovanovi\u0107,2
+B. Costil,Ot\u00e1vio,2
+V. Jovanovi\u0107,T. Pellenard,2
+B. Costil,Malcom,2
+Y. Sankhar\u00e9,Y. Sabaly,2
+J. Toulalan,Ot\u00e1vio,2
+Ot\u00e1vio,T. Pellenard,2
+Y. Sankhar\u00e9,V. Jovanovi\u0107,2
+Y. Sabaly,V. Jovanovi\u0107,2
+Malcom,B. Costil,1
+Ot\u00e1vio,Malcom,1
+L. Lerager,Ot\u00e1vio,1
+Y. Sankhar\u00e9,T. Pellenard,1
+Y. Sabaly,B. Costil,1
+Jonathan Cafu,T. Pellenard,1
+Ot\u00e1vio,Y. Sankhar\u00e9,1
+Y. Sabaly,L. Lerager,1
+T. Pellenard,J. Toulalan,1
+Ot\u00e1vio,V. Jovanovi\u0107,1
+Malcom,J. Toulalan,1
+F. Kamano,Malcom,1
+T. Pellenard,V. Jovanovi\u0107,1
+B. Costil,J. Toulalan,1
+V. Jovanovi\u0107,Y. Sabaly,1

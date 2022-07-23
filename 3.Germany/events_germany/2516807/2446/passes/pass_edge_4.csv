@@ -1,0 +1,16 @@
+Source,Target,Weight
+L. Bender,P. Retsos,3
+P. Retsos,S. Bender,1
+Wendell,J. Brandt,1
+P. Retsos,K. Volland,1
+P. Retsos,L. Bailey,1
+S. Bender,P. Retsos,1
+P. Retsos,D. Kohr,1
+J. Brandt,L. Bender,1
+K. Volland,P. Retsos,1
+P. Retsos,L. Bender,1
+S. Bender,L. Bender,1
+D. Kohr,P. Retsos,1
+P. Retsos,J. Tah,1
+J. Tah,Wendell,1
+L. Bailey,P. Retsos,1

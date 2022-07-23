@@ -1,0 +1,34 @@
+Source,Target,Weight
+J. Gnagnon,R. Bensebaini,4
+R. Bensebaini,L. Baal,4
+B. Andr\u00e9,J. Gnagnon,3
+H. Traor\u00e9,B. Andr\u00e9,3
+L. Baal,F. Mubele,2
+H. Traor\u00e9,Mexer,2
+F. Maouassa,H. Traor\u00e9,2
+Mexer,J. Gnagnon,2
+Mexer,H. Traor\u00e9,2
+A. Diallo,J. Gnagnon,1
+F. Maouassa,I. Sarr,1
+B. Bourigeaud,A. Diallo,1
+I. Sarr,B. Bourigeaud,1
+B. Andr\u00e9,I. Sarr,1
+L. Baal,F. Maouassa,1
+F. Mubele,Mexer,1
+L. Baal,I. Sarr,1
+R. Bensebaini,Mexer,1
+B. Bourigeaud,B. Andr\u00e9,1
+B. Andr\u00e9,Mexer,1
+H. Traor\u00e9,R. Bensebaini,1
+I. Sarr,F. Maouassa,1
+J. Gnagnon,Mexer,1
+B. Andr\u00e9,F. Maouassa,1
+R. Bensebaini,B. Andr\u00e9,1
+I. Sarr,H. Traor\u00e9,1
+A. Diallo,B. Andr\u00e9,1
+F. Mubele,H. Traor\u00e9,1
+Mexer,A. Diallo,1
+B. Andr\u00e9,H. Traor\u00e9,1
+H. Traor\u00e9,B. Bourigeaud,1
+J. Gnagnon,B. Bourigeaud,1
+B. Bourigeaud,R. Bensebaini,1

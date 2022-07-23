@@ -1,0 +1,48 @@
+Source,Target,Weight
+G. Kakuta,Danilo Avelar,2
+S. Gakp\u00e9,B. Dibassy,2
+G. N'Gosso,O. El Hajjam,2
+L. Traor\u00e9,H. Manzala,2
+H. Manzala,G. N'Gosso,2
+L. Traor\u00e9,G. Kakuta,2
+J. Ielsch,R. Gurtner,2
+K. Ad\u00e9non,O. El Hajjam,2
+K. Ad\u00e9non,L. Traor\u00e9,1
+H. Manzala,Danilo Avelar,1
+O. El Hajjam,G. N'Gosso,1
+Danilo Avelar,H. Manzala,1
+O. El Hajjam,J. Ielsch,1
+G. N'Gosso,J. Ielsch,1
+Danilo Avelar,K. Ad\u00e9non,1
+B. Dibassy,J. Ielsch,1
+J. Ielsch,B. Dibassy,1
+J. Ielsch,S. Gakp\u00e9,1
+B. Dibassy,L. Traor\u00e9,1
+S. Gakp\u00e9,H. Manzala,1
+G. Kakuta,K. Ad\u00e9non,1
+G. N'Gosso,K. Ad\u00e9non,1
+K. Ad\u00e9non,S. Gakp\u00e9,1
+B. Dibassy,S. Gakp\u00e9,1
+G. N'Gosso,G. Kakuta,1
+H. Manzala,B. Dibassy,1
+R. Gurtner,H. Manzala,1
+R. Gurtner,S. Gakp\u00e9,1
+O. El Hajjam,K. Ad\u00e9non,1
+L. Traor\u00e9,G. N'Gosso,1
+R. Gurtner,G. Kakuta,1
+S. Gakp\u00e9,J. Ielsch,1
+J. Ielsch,G. Kakuta,1
+O. El Hajjam,S. Gakp\u00e9,1
+O. El Hajjam,L. Traor\u00e9,1
+O. El Hajjam,R. Gurtner,1
+G. N'Gosso,L. Traor\u00e9,1
+S. Gakp\u00e9,G. N'Gosso,1
+S. Gakp\u00e9,O. El Hajjam,1
+R. Gurtner,O. El Hajjam,1
+H. Manzala,K. Ad\u00e9non,1
+G. Kakuta,J. Ielsch,1
+K. Ad\u00e9non,R. Gurtner,1
+B. Dibassy,H. Manzala,1
+B. Dibassy,G. N'Gosso,1
+G. Kakuta,S. Gakp\u00e9,1
+Danilo Avelar,L. Traor\u00e9,1

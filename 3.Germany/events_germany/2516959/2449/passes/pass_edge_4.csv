@@ -1,0 +1,48 @@
+Source,Target,Weight
+B. Embolo,D. Caligiuri,4
+D. Caligiuri,B. Embolo,4
+N. Bentaleb,M. Meyer,4
+B. Stambouli,Naldo,4
+M. Pjaca,N. Bentaleb,3
+N. Bentaleb,D. Caligiuri,3
+M. Meyer,B. Stambouli,2
+M. Meyer,D. Caligiuri,2
+D. Caligiuri,B. Stambouli,2
+D. Caligiuri,F. Di Santo,2
+B. Stambouli,N. Bentaleb,2
+Naldo,M. Meyer,2
+Naldo,B. Stambouli,2
+M. Meyer,Naldo,1
+M. Meyer,N. Bentaleb,1
+B. Embolo,Naldo,1
+D. Caligiuri,M. Nastasi\u0107,1
+Naldo,D. Caligiuri,1
+B. Stambouli,D. Caligiuri,1
+Naldo,B. Embolo,1
+R. F\u00e4hrmann,B. Oczipka,1
+Naldo,N. Bentaleb,1
+B. Oczipka,B. Stambouli,1
+F. Di Santo,M. Meyer,1
+N. Bentaleb,R. F\u00e4hrmann,1
+M. Pjaca,B. Oczipka,1
+M. Pjaca,M. Meyer,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+B. Stambouli,B. Embolo,1
+R. F\u00e4hrmann,B. Stambouli,1
+B. Embolo,M. Pjaca,1
+B. Oczipka,N. Bentaleb,1
+D. Caligiuri,M. Pjaca,1
+B. Stambouli,M. Pjaca,1
+M. Meyer,M. Pjaca,1
+N. Bentaleb,B. Stambouli,1
+M. Meyer,M. Nastasi\u0107,1
+N. Bentaleb,M. Pjaca,1
+B. Oczipka,M. Meyer,1
+B. Embolo,N. Bentaleb,1
+R. F\u00e4hrmann,B. Embolo,1
+D. Caligiuri,N. Bentaleb,1
+M. Meyer,B. Oczipka,1
+M. Nastasi\u0107,Naldo,1
+B. Stambouli,R. F\u00e4hrmann,1
+M. Nastasi\u0107,B. Stambouli,1
+F. Di Santo,M. Pjaca,1

@@ -1,0 +1,83 @@
+Source,Target,Weight
+V. Koziello,N. Mendy,8
+N. Mendy,M. Le Marchand,7
+A. Souquet,A. Saint-Maximin,7
+N. Mendy,A. Souquet,7
+M. Le Marchand,Dante,6
+M. Le Marchand,V. Koziello,6
+C. Jallet,N. Mendy,5
+C. Jallet,P. Lees Melou,5
+P. Lees Melou,V. Koziello,5
+A. Souquet,Dante,5
+P. Lees Melou,C. Jallet,5
+N. Mendy,A. Pl\u00e9a,4
+Dante,V. Koziello,4
+Dante,A. Souquet,4
+V. Koziello,M. Le Marchand,4
+Dante,N. Mendy,4
+A. Souquet,N. Mendy,4
+V. Koziello,C. Jallet,3
+N. Mendy,M. Balotelli,3
+V. Koziello,A. Souquet,3
+A. Saint-Maximin,M. Balotelli,3
+M. Balotelli,P. Lees Melou,3
+M. Le Marchand,C. Jallet,3
+C. Jallet,V. Koziello,3
+P. Lees Melou,M. Balotelli,3
+N. Mendy,V. Koziello,3
+M. Balotelli,N. Mendy,2
+M. Balotelli,Y. Cardinale,2
+M. Balotelli,C. Jallet,2
+A. Saint-Maximin,P. Lees Melou,2
+A. Pl\u00e9a,N. Mendy,2
+Dante,A. Pl\u00e9a,2
+Dante,M. Le Marchand,2
+A. Saint-Maximin,N. Mendy,2
+C. Jallet,Dante,2
+A. Pl\u00e9a,A. Souquet,2
+A. Pl\u00e9a,C. Jallet,2
+M. Balotelli,M. Le Marchand,2
+P. Lees Melou,A. Saint-Maximin,2
+A. Souquet,M. Le Marchand,2
+A. Saint-Maximin,Dante,2
+V. Koziello,P. Lees Melou,2
+N. Mendy,Dante,2
+A. Pl\u00e9a,M. Le Marchand,2
+V. Koziello,Dante,2
+C. Jallet,A. Pl\u00e9a,2
+Dante,M. Balotelli,2
+A. Saint-Maximin,A. Souquet,2
+V. Koziello,M. Balotelli,2
+C. Jallet,A. Souquet,1
+A. Souquet,P. Lees Melou,1
+A. Souquet,C. Jallet,1
+A. Saint-Maximin,V. Koziello,1
+A. Souquet,A. Pl\u00e9a,1
+V. Koziello,A. Pl\u00e9a,1
+Y. Cardinale,C. Jallet,1
+A. Pl\u00e9a,M. Balotelli,1
+P. Lees Melou,A. Souquet,1
+M. Balotelli,A. Souquet,1
+A. Souquet,V. Koziello,1
+A. Pl\u00e9a,V. Koziello,1
+M. Le Marchand,A. Souquet,1
+Y. Cardinale,P. Lees Melou,1
+N. Mendy,P. Lees Melou,1
+Y. Cardinale,V. Koziello,1
+M. Balotelli,A. Saint-Maximin,1
+Y. Cardinale,M. Le Marchand,1
+Dante,C. Jallet,1
+M. Le Marchand,Y. Cardinale,1
+M. Balotelli,A. Pl\u00e9a,1
+Dante,Y. Cardinale,1
+C. Jallet,M. Le Marchand,1
+M. Le Marchand,P. Lees Melou,1
+A. Pl\u00e9a,A. Saint-Maximin,1
+A. Pl\u00e9a,P. Lees Melou,1
+P. Lees Melou,Dante,1
+N. Mendy,C. Jallet,1
+M. Le Marchand,A. Pl\u00e9a,1
+Y. Cardinale,N. Mendy,1
+M. Le Marchand,A. Saint-Maximin,1
+M. Le Marchand,N. Mendy,1
+N. Mendy,A. Saint-Maximin,1

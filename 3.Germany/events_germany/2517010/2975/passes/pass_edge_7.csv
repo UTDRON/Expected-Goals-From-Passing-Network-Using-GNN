@@ -1,0 +1,16 @@
+Source,Target,Weight
+D. Demme,W. Orban,2
+W. Orban,Bernardo,2
+Bernardo,Bruma,1
+L. Klostermann,A. Lookman,1
+D. Demme,Bernardo,1
+D. Demme,A. Lookman,1
+A. Lookman,D. Demme,1
+P. Gul\u00e1csi,D. Demme,1
+Bernardo,W. Orban,1
+W. Orban,P. Gul\u00e1csi,1
+Bruma,S. Ilsanker,1
+Bernardo,D. Demme,1
+S. Ilsanker,D. Demme,1
+D. Demme,L. Klostermann,1
+A. Lookman,E. Forsberg,1

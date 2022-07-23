@@ -1,0 +1,18 @@
+Source,Target,Weight
+A. Tour\u00e9,S. Ngom,2
+S. Ngom,E. Sala,2
+E. Sala,S. Ngom,2
+S. Ngom,C. Awaziem,2
+C. Awaziem,L. Dubois,1
+L. Dubois,C. T\u0103t\u0103ru\u0219anu,1
+E. Sala,L. Dubois,1
+Lucas Lima,Y. Bammou,1
+K. Djidji,Lucas Lima,1
+L. Dubois,E. Sala,1
+Lucas Lima,A. Tour\u00e9,1
+A. Thomasson,A. Tour\u00e9,1
+C. T\u0103t\u0103ru\u0219anu,E. Sala,1
+L. Dubois,Lucas Lima,1
+A. Thomasson,L. Dubois,1
+Y. Bammou,A. Thomasson,1
+C. Awaziem,K. Djidji,1

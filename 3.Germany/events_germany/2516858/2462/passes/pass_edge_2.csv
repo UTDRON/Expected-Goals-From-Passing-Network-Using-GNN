@@ -1,0 +1,26 @@
+Source,Target,Weight
+S. Falette,J. Willems,2
+J. Willems,S. Falette,2
+C. Salcedo,M. Wolf,2
+S. Falette,C. Salcedo,2
+M. Ga\u0107inovi\u0107,D. Abraham,1
+M. Wolf,C. Salcedo,1
+M. Ga\u0107inovi\u0107,J. Willems,1
+C. Salcedo,D. Abraham,1
+C. Salcedo,S. Falette,1
+J. Willems,A. Rebi\u0107,1
+J. Willems,M. Ga\u0107inovi\u0107,1
+D. Abraham,C. Salcedo,1
+D. Abraham,M. Wolf,1
+M. Ga\u0107inovi\u0107,S. Falette,1
+K. Boateng,M. Wolf,1
+S. Falette,M. Hasebe,1
+C. Salcedo,M. Ga\u0107inovi\u0107,1
+M. Wolf,A. Rebi\u0107,1
+M. Hasebe,S. Haller,1
+M. Wolf,S. Haller,1
+A. Rebi\u0107,K. Boateng,1
+S. Haller,M. Ga\u0107inovi\u0107,1
+M. Wolf,K. Boateng,1
+S. Haller,C. Salcedo,1
+K. Boateng,S. Falette,1

@@ -1,0 +1,25 @@
+Source,Target,Weight
+B. Pavard,D. Aogo,3
+D. Aogo,B. Pavard,2
+C. Akolo,J. Brekalo,2
+J. Brekalo,D. Aogo,2
+S. Terodde,M. Kami\u0144ski,1
+M. Kami\u0144ski,D. Ginczek,1
+B. Pavard,J. Brekalo,1
+T. Baumgartl,H. Badstuber,1
+M. Kami\u0144ski,B. Pavard,1
+H. Badstuber,T. Baumgartl,1
+S. Terodde,H. Badstuber,1
+M. Kami\u0144ski,H. Badstuber,1
+D. Aogo,T. Baumgartl,1
+B. Pavard,T. Baumgartl,1
+R. Zieler,M. Kami\u0144ski,1
+H. Badstuber,B. Pavard,1
+D. Ginczek,S. Terodde,1
+T. Baumgartl,S. Terodde,1
+J. Brekalo,S. Terodde,1
+T. Baumgartl,B. Pavard,1
+S. Terodde,C. Akolo,1
+H. Badstuber,R. Zieler,1
+D. Aogo,M. Kami\u0144ski,1
+D. Aogo,S. Terodde,1

@@ -1,0 +1,12 @@
+Source,Target,Weight
+Caiuby,E. Thommy,2
+E. Thommy,D. Baier,1
+Ja-Cheol Koo,J. Gouweleeuw,1
+Ja-Cheol Koo,Caiuby,1
+D. Baier,Ja-Cheol Koo,1
+D. Baier,P. Max,1
+A. Finnbogason,Ja-Cheol Koo,1
+P. Max,Caiuby,1
+J. Gouweleeuw,Caiuby,1
+E. Thommy,P. Max,1
+P. Max,A. Finnbogason,1

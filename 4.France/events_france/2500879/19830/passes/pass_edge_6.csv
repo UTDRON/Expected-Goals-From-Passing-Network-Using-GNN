@@ -1,0 +1,60 @@
+Source,Target,Weight
+K. N'Doram,T. Lemar,5
+Jorge,T. Lemar,3
+Rony Lopes,Jorge,3
+T. Lemar,Rony Lopes,3
+T. Lemar,Jorge,3
+T. Lemar,Fabinho,3
+B. Keita,Rony Lopes,2
+K. N'Doram,Rony Lopes,2
+Jorge,K. N'Doram,2
+Jorge,B. Keita,2
+K. Glik,A. Tour\u00e9,2
+A. Tour\u00e9,Jorge,2
+Jorge,A. Raggi,2
+A. Tour\u00e9,K. N'Doram,2
+K. N'Doram,Jorge,2
+Rony Lopes,B. Keita,2
+Jorge,Rony Lopes,2
+Jemerson,K. N'Doram,2
+Fabinho,R. Ghezzal,2
+Fabinho,A. Tour\u00e9,2
+T. Lemar,R. Ghezzal,2
+A. Tour\u00e9,Fabinho,2
+Fabinho,K. Glik,1
+A. Raggi,K. Glik,1
+D. Suba\u0161i\u0107,K. Glik,1
+K. N'Doram,Jemerson,1
+T. Lemar,Jemerson,1
+T. Lemar,D. Suba\u0161i\u0107,1
+B. Keita,A. Tour\u00e9,1
+T. Lemar,K. N'Doram,1
+R. Ghezzal,A. Tour\u00e9,1
+D. Suba\u0161i\u0107,Fabinho,1
+A. Tour\u00e9,D. Suba\u0161i\u0107,1
+Rony Lopes,T. Lemar,1
+Fabinho,Rony Lopes,1
+Fabinho,A. Raggi,1
+D. Suba\u0161i\u0107,K. N'Doram,1
+Rony Lopes,Jemerson,1
+Fabinho,K. N'Doram,1
+Rony Lopes,Fabinho,1
+Fabinho,T. Lemar,1
+R. Ghezzal,Fabinho,1
+Jemerson,Jorge,1
+Rony Lopes,A. Tour\u00e9,1
+B. Keita,T. Lemar,1
+A. Raggi,Rony Lopes,1
+K. Glik,Jorge,1
+A. Raggi,Jorge,1
+R. Ghezzal,K. Glik,1
+R. Ghezzal,B. Keita,1
+K. Glik,Jemerson,1
+A. Tour\u00e9,R. Ghezzal,1
+R. Ghezzal,T. Lemar,1
+Jorge,K. Glik,1
+Rony Lopes,K. N'Doram,1
+Jemerson,T. Lemar,1
+K. Glik,Fabinho,1
+B. Keita,D. Suba\u0161i\u0107,1
+Jorge,A. Tour\u00e9,1

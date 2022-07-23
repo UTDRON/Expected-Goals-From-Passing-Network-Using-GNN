@@ -1,0 +1,23 @@
+Source,Target,Weight
+K. Volland,L. Bender,2
+Wendell,C. Ar\u00e1nguiz,2
+K. Havertz,J. Baumgartlinger,2
+J. Baumgartlinger,Wendell,2
+J. Tah,K. Havertz,2
+K. Volland,S. Bender,1
+S. Bender,J. Tah,1
+L. Bender,J. Tah,1
+C. Ar\u00e1nguiz,S. Bender,1
+K. Havertz,K. Volland,1
+L. Bailey,K. Volland,1
+L. Bender,C. Ar\u00e1nguiz,1
+J. Baumgartlinger,L. Alario,1
+J. Baumgartlinger,J. Tah,1
+S. Bender,L. Bailey,1
+J. Tah,K. Volland,1
+L. Bender,K. Volland,1
+L. Alario,J. Baumgartlinger,1
+K. Volland,J. Baumgartlinger,1
+C. Ar\u00e1nguiz,K. Havertz,1
+C. Ar\u00e1nguiz,L. Bailey,1
+L. Bailey,L. Bender,1

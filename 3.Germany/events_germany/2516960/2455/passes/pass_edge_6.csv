@@ -1,0 +1,81 @@
+Source,Target,Weight
+Felipe,W. Anton,6
+W. Anton,P. Tschauner,5
+I. Fossum,Miiko Albornoz,4
+P. Schwegler,Felipe,4
+W. Anton,Felipe,4
+P. Schwegler,M. Harnik,4
+Miiko Albornoz,P. Schwegler,3
+J. Korb,P. Schwegler,3
+Miiko Albornoz,Jonathas,3
+Felipe,Miiko Albornoz,3
+P. Schwegler,Miiko Albornoz,3
+W. Anton,I. Fossum,3
+Felipe,I. Fossum,3
+I. Fossum,P. Schwegler,3
+W. Anton,P. Schwegler,3
+M. Harnik,J. Korb,3
+Miiko Albornoz,I. Fossum,3
+M. Harnik,W. Anton,3
+P. Tschauner,Felipe,3
+Jonathas,I. Fossum,3
+I. Bebou,Felipe,2
+P. Schwegler,I. Fossum,2
+I. Fossum,Felipe,2
+M. Harnik,Miiko Albornoz,2
+I. Fossum,N. F\u00fcllkrug,2
+M. Harnik,P. Schwegler,2
+J. Korb,W. Anton,2
+N. F\u00fcllkrug,I. Fossum,2
+J. Korb,M. Harnik,2
+Miiko Albornoz,P. Tschauner,2
+I. Fossum,J. Korb,2
+P. Schwegler,J. Korb,2
+P. Tschauner,W. Anton,2
+Jonathas,W. Anton,2
+I. Fossum,M. Harnik,2
+Felipe,J. Korb,2
+W. Anton,O. Sorg,1
+Felipe,N. F\u00fcllkrug,1
+O. Sorg,M. Harnik,1
+N. F\u00fcllkrug,P. Schwegler,1
+P. Schwegler,W. Anton,1
+P. Tschauner,I. Fossum,1
+W. Anton,J. Korb,1
+W. Anton,Miiko Albornoz,1
+Miiko Albornoz,N. F\u00fcllkrug,1
+N. F\u00fcllkrug,M. Harnik,1
+Jonathas,Miiko Albornoz,1
+P. Tschauner,M. Harnik,1
+M. Harnik,Felipe,1
+Jonathas,Felipe,1
+P. Schwegler,Jonathas,1
+M. Harnik,I. Fossum,1
+J. Korb,I. Bebou,1
+I. Fossum,W. Anton,1
+N. F\u00fcllkrug,Jonathas,1
+Felipe,P. Tschauner,1
+O. Sorg,P. Tschauner,1
+J. Korb,Felipe,1
+J. Korb,N. F\u00fcllkrug,1
+Felipe,O. Sorg,1
+N. F\u00fcllkrug,O. Sorg,1
+Jonathas,P. Schwegler,1
+W. Anton,I. Bebou,1
+I. Fossum,Jonathas,1
+P. Tschauner,Jonathas,1
+M. Harnik,N. F\u00fcllkrug,1
+W. Anton,Jonathas,1
+Miiko Albornoz,W. Anton,1
+I. Bebou,W. Anton,1
+O. Sorg,J. Korb,1
+I. Fossum,I. Bebou,1
+Miiko Albornoz,M. Harnik,1
+P. Schwegler,I. Bebou,1
+J. Korb,P. Tschauner,1
+I. Bebou,Jonathas,1
+P. Tschauner,Miiko Albornoz,1
+Miiko Albornoz,I. Bebou,1
+Felipe,M. Harnik,1
+P. Tschauner,P. Schwegler,1
+I. Bebou,P. Schwegler,1

@@ -1,0 +1,16 @@
+Source,Target,Weight
+J. Sambia,N. Mukiele,2
+S. Sess\u00e8gnon,J. Sambia,1
+S. Sess\u00e8gnon,E. Skhiri,1
+Hilton,C. Ninga,1
+N. Mukiele,J. Sambia,1
+C. Ninga,S. Sess\u00e8gnon,1
+S. Sess\u00e8gnon,P. Lasne,1
+E. Skhiri,J. Sambia,1
+N. Mukiele,S. Sess\u00e8gnon,1
+C. Ninga,J. Sambia,1
+J. Sambia,E. Skhiri,1
+P. Lasne,Hilton,1
+E. Skhiri,Hilton,1
+Hilton,S. Sess\u00e8gnon,1
+J. Sambia,J. Roussillon,1

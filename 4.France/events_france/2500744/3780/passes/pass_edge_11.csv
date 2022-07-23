@@ -1,0 +1,24 @@
+Source,Target,Weight
+J. Durmaz,O. Toivonen,2
+F. Moubandje,A. Lafont,1
+Z. Machach,I. Diop,1
+O. Toivonen,J. Durmaz,1
+C. Jean,J. Durmaz,1
+G. Imbula,O. Toivonen,1
+F. Moubandje,C. Jullien,1
+K. Amian,Z. Machach,1
+A. Lafont,G. Imbula,1
+O. Toivonen,G. Imbula,1
+C. Jean,G. Imbula,1
+O. Toivonen,C. Jean,1
+G. Imbula,F. Moubandje,1
+G. Imbula,C. Jean,1
+O. Toivonen,I. Diop,1
+J. Durmaz,F. Moubandje,1
+I. Diop,C. Jullien,1
+G. Imbula,J. Durmaz,1
+C. Jean,Z. Machach,1
+I. Diop,A. Lafont,1
+C. Jullien,O. Toivonen,1
+C. Jullien,C. Jean,1
+A. Lafont,K. Amian,1

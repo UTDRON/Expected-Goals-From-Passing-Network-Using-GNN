@@ -1,0 +1,42 @@
+Source,Target,Weight
+Rolando,A. Rami,3
+M. Sanson,B. Sarr,3
+B. Sarr,D. Payet,2
+Luiz Gustavo,M. Lopez,2
+M. Lopez,M. Sanson,2
+B. Sarr,M. Lopez,2
+M. Lopez,J. Amavi,2
+A. Rami,M. Lopez,1
+F. Thauvin,B. Sarr,1
+M. Sanson,Luiz Gustavo,1
+Luiz Gustavo,M. Sanson,1
+S. Mandanda,A. Rami,1
+J. Amavi,F. Thauvin,1
+F. Thauvin,M. Sanson,1
+A. Rami,V. Germain,1
+D. Payet,M. Lopez,1
+D. Payet,Luiz Gustavo,1
+D. Payet,F. Thauvin,1
+A. Rami,Luiz Gustavo,1
+J. Amavi,Luiz Gustavo,1
+D. Payet,A. Rami,1
+B. Sarr,A. Rami,1
+A. Rami,J. Amavi,1
+A. Rami,S. Mandanda,1
+M. Lopez,B. Sarr,1
+J. Amavi,S. Mandanda,1
+Luiz Gustavo,B. Sarr,1
+J. Amavi,M. Lopez,1
+Luiz Gustavo,Rolando,1
+M. Sanson,V. Germain,1
+M. Lopez,Luiz Gustavo,1
+Luiz Gustavo,J. Amavi,1
+V. Germain,M. Lopez,1
+M. Lopez,D. Payet,1
+B. Sarr,M. Sanson,1
+Rolando,Luiz Gustavo,1
+V. Germain,D. Payet,1
+J. Amavi,Rolando,1
+S. Mandanda,J. Amavi,1
+A. Rami,Rolando,1
+M. Lopez,Rolando,1

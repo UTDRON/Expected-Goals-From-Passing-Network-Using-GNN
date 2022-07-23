@@ -1,0 +1,14 @@
+Source,Target,Weight
+J. Hofmann,C. Kramer,2
+T. Hazard,L. Stindl,2
+T. Jantschke,T. Sippel,1
+M. Ginter,N. Elvedi,1
+L. Stindl,D. Zakaria,1
+N. Elvedi,T. Hazard,1
+D. Zakaria,T. Jantschke,1
+C. Kramer,J. Hofmann,1
+C. Kramer,D. Zakaria,1
+T. Sippel,J. Vestergaard,1
+D. Zakaria,J. Hofmann,1
+J. Vestergaard,T. Sippel,1
+T. Sippel,M. Ginter,1

@@ -1,0 +1,30 @@
+Source,Target,Weight
+A. Zambo Anguissa,L. Ocampos,2
+A. Rami,B. Sarr,2
+Rolando,D\u00f3ria,2
+Rolando,A. Rami,2
+D\u00f3ria,A. Zambo Anguissa,2
+V. Germain,L. Ocampos,2
+A. Zambo Anguissa,R. Cabella,2
+B. Sarr,A. Zambo Anguissa,1
+Rolando,A. Zambo Anguissa,1
+Luiz Gustavo,V. Germain,1
+L. Ocampos,B. Sarr,1
+R. Cabella,B. Sarr,1
+A. Zambo Anguissa,B. Sarr,1
+B. Sarr,L. Ocampos,1
+B. Sarr,Rolando,1
+R. Cabella,A. Zambo Anguissa,1
+L. Ocampos,A. Rami,1
+D\u00f3ria,Rolando,1
+V. Germain,R. Cabella,1
+A. Rami,Rolando,1
+A. Rami,Luiz Gustavo,1
+B. Sarr,Luiz Gustavo,1
+L. Ocampos,Rolando,1
+Luiz Gustavo,Rolando,1
+L. Ocampos,V. Germain,1
+B. Sarr,A. Rami,1
+A. Rami,A. Zambo Anguissa,1
+A. Zambo Anguissa,D\u00f3ria,1
+R. Cabella,V. Germain,1

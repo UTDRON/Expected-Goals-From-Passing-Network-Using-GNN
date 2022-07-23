@@ -1,0 +1,20 @@
+Source,Target,Weight
+N. Ke\u00efta,Bernardo,3
+Bernardo,W. Orban,2
+Bernardo,E. Forsberg,1
+E. Forsberg,N. Ke\u00efta,1
+M. Sabitzer,K. Kampl,1
+W. Orban,M. Sabitzer,1
+Bruma,E. Forsberg,1
+E. Forsberg,Bernardo,1
+D. Upamecano,K. Kampl,1
+Bernardo,D. Upamecano,1
+K. Kampl,N. Ke\u00efta,1
+K. Kampl,E. Forsberg,1
+E. Forsberg,M. Sabitzer,1
+N. Ke\u00efta,E. Forsberg,1
+Bernardo,N. Ke\u00efta,1
+M. Sabitzer,L. Klostermann,1
+W. Orban,N. Ke\u00efta,1
+E. Forsberg,Bruma,1
+L. Klostermann,Bruma,1

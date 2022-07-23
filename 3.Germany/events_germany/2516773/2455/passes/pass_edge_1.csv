@@ -1,0 +1,66 @@
+Source,Target,Weight
+W. Anton,S. San\u00e9,8
+S. San\u00e9,W. Anton,7
+S. San\u00e9,Felipe,6
+Felipe,S. San\u00e9,6
+S. San\u00e9,P. Schwegler,4
+N. F\u00fcllkrug,M. Ostrzolek,4
+M. Ostrzolek,S. San\u00e9,4
+P. Schwegler,W. Anton,4
+K. Karaman,M. Ostrzolek,3
+M. Ostrzolek,M. Bakalorz,3
+J. Korb,W. Anton,3
+W. Anton,P. Tschauner,3
+P. Schwegler,S. San\u00e9,3
+Felipe,M. Ostrzolek,3
+P. Tschauner,W. Anton,3
+M. Ostrzolek,N. F\u00fcllkrug,2
+P. Schwegler,M. Ostrzolek,2
+Felipe,N. F\u00fcllkrug,2
+W. Anton,K. Karaman,2
+W. Anton,P. Schwegler,2
+M. Bakalorz,M. Ostrzolek,2
+K. Karaman,S. San\u00e9,2
+P. Schwegler,M. Bakalorz,2
+S. San\u00e9,J. Korb,2
+P. Tschauner,Felipe,2
+M. Ostrzolek,Felipe,2
+M. Ostrzolek,P. Schwegler,2
+S. San\u00e9,K. Karaman,2
+K. Karaman,M. Harnik,1
+S. San\u00e9,M. Ostrzolek,1
+M. Harnik,P. Schwegler,1
+S. San\u00e9,M. Harnik,1
+M. Harnik,N. F\u00fcllkrug,1
+M. Harnik,M. Bakalorz,1
+S. San\u00e9,P. Tschauner,1
+J. Korb,P. Schwegler,1
+N. F\u00fcllkrug,S. San\u00e9,1
+M. Bakalorz,J. Korb,1
+J. Korb,N. F\u00fcllkrug,1
+M. Ostrzolek,W. Anton,1
+M. Bakalorz,I. Bebou,1
+W. Anton,J. Korb,1
+N. F\u00fcllkrug,P. Schwegler,1
+Felipe,P. Tschauner,1
+S. San\u00e9,N. F\u00fcllkrug,1
+N. F\u00fcllkrug,M. Bakalorz,1
+W. Anton,Felipe,1
+W. Anton,M. Ostrzolek,1
+I. Bebou,K. Karaman,1
+M. Ostrzolek,I. Bebou,1
+M. Harnik,S. San\u00e9,1
+M. Bakalorz,W. Anton,1
+N. F\u00fcllkrug,M. Harnik,1
+W. Anton,M. Bakalorz,1
+P. Schwegler,Felipe,1
+I. Bebou,M. Ostrzolek,1
+K. Karaman,N. F\u00fcllkrug,1
+P. Schwegler,N. F\u00fcllkrug,1
+M. Bakalorz,K. Karaman,1
+M. Ostrzolek,J. Korb,1
+M. Bakalorz,P. Schwegler,1
+K. Karaman,P. Schwegler,1
+N. F\u00fcllkrug,W. Anton,1
+M. Ostrzolek,K. Karaman,1
+W. Anton,M. Harnik,1

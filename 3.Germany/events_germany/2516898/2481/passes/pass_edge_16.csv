@@ -1,0 +1,69 @@
+Source,Target,Weight
+Caiuby,P. Max,5
+Ja-Cheol Koo,Caiuby,4
+P. Max,Caiuby,4
+M. Gregoritsch,Caiuby,4
+Caiuby,D. Baier,3
+Caiuby,D. Opare,3
+M. Hinteregger,M. Gregoritsch,3
+D. Opare,R. Khedira,3
+J. Gouweleeuw,R. Khedira,2
+P. Max,D. Baier,2
+D. Baier,M. Hinteregger,2
+D. Baier,P. Max,2
+Caiuby,M. Hitz,2
+D. Baier,J. Schmid,2
+M. Gregoritsch,Ja-Cheol Koo,2
+Caiuby,M. Gregoritsch,2
+Ja-Cheol Koo,P. Max,2
+J. Schmid,R. Khedira,2
+R. Khedira,P. Max,2
+P. Max,Ja-Cheol Koo,2
+D. Baier,M. Gregoritsch,2
+J. Gouweleeuw,D. Opare,2
+J. Schmid,Ja-Cheol Koo,2
+R. Khedira,D. Baier,2
+M. Hitz,Caiuby,2
+Ja-Cheol Koo,M. Gregoritsch,1
+J. Schmid,D. Opare,1
+J. Schmid,J. Gouweleeuw,1
+P. Max,M. Hinteregger,1
+M. Hinteregger,Ja-Cheol Koo,1
+Ja-Cheol Koo,D. Baier,1
+J. Gouweleeuw,Caiuby,1
+J. Schmid,Caiuby,1
+M. Hinteregger,D. Baier,1
+Caiuby,Ja-Cheol Koo,1
+J. Schmid,D. Baier,1
+D. Opare,M. Hitz,1
+D. Baier,Ja-Cheol Koo,1
+M. Gregoritsch,J. Gouweleeuw,1
+M. Hitz,D. Opare,1
+D. Baier,Caiuby,1
+P. Max,R. Khedira,1
+M. Hitz,J. Gouweleeuw,1
+M. Gregoritsch,P. Max,1
+D. Opare,D. Baier,1
+R. Khedira,J. Schmid,1
+Ja-Cheol Koo,J. Gouweleeuw,1
+Caiuby,J. Schmid,1
+Ja-Cheol Koo,J. Schmid,1
+R. Khedira,M. Hinteregger,1
+D. Opare,J. Schmid,1
+D. Opare,Ja-Cheol Koo,1
+P. Max,J. Gouweleeuw,1
+P. Max,J. Schmid,1
+Caiuby,M. Hinteregger,1
+D. Baier,D. Opare,1
+Ja-Cheol Koo,M. Hitz,1
+R. Khedira,D. Opare,1
+D. Baier,M. Hitz,1
+D. Opare,J. Gouweleeuw,1
+M. Hinteregger,M. Hitz,1
+R. Khedira,Caiuby,1
+M. Hitz,M. Hinteregger,1
+D. Opare,Caiuby,1
+J. Gouweleeuw,J. Schmid,1
+M. Hitz,M. Gregoritsch,1
+R. Khedira,Ja-Cheol Koo,1
+M. Gregoritsch,D. Baier,1

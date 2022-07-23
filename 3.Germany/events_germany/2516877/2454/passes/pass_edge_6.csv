@@ -1,0 +1,61 @@
+Source,Target,Weight
+J. Vestergaard,R. Oxford,5
+J. Vestergaard,M. Ginter,5
+O. Wendt,M. Ginter,4
+R. Oxford,V. Grifo,4
+Y. Sommer,J. Vestergaard,4
+M. Ginter,J. Vestergaard,4
+R. Oxford,Y. Sommer,4
+R. Oxford,J. Vestergaard,3
+V. Grifo,R. Oxford,3
+R. Bobadilla,O. Wendt,3
+L. Stindl,O. Wendt,3
+V. Grifo,L. Stindl,3
+Raffael,M. Cuisance,2
+D. Zakaria,Raffael,2
+M. Cuisance,O. Wendt,2
+O. Wendt,R. Bobadilla,2
+Y. Sommer,R. Bobadilla,2
+J. Vestergaard,Raffael,2
+O. Wendt,L. Stindl,2
+M. Ginter,O. Wendt,2
+R. Oxford,D. Zakaria,2
+M. Ginter,D. Zakaria,2
+D. Zakaria,V. Grifo,2
+L. Stindl,M. Cuisance,2
+Y. Sommer,L. Stindl,1
+V. Grifo,M. Cuisance,1
+O. Wendt,R. Oxford,1
+O. Wendt,Raffael,1
+Raffael,D. Zakaria,1
+O. Wendt,M. Cuisance,1
+M. Cuisance,J. Vestergaard,1
+R. Oxford,Raffael,1
+V. Grifo,M. Ginter,1
+J. Vestergaard,V. Grifo,1
+L. Stindl,V. Grifo,1
+L. Stindl,R. Oxford,1
+M. Ginter,R. Bobadilla,1
+R. Bobadilla,L. Stindl,1
+D. Zakaria,Y. Sommer,1
+D. Zakaria,J. Vestergaard,1
+Y. Sommer,M. Ginter,1
+R. Bobadilla,R. Oxford,1
+Raffael,V. Grifo,1
+M. Ginter,M. Cuisance,1
+Raffael,L. Stindl,1
+O. Wendt,J. Vestergaard,1
+M. Cuisance,D. Zakaria,1
+M. Ginter,Raffael,1
+J. Vestergaard,L. Stindl,1
+M. Ginter,R. Oxford,1
+J. Vestergaard,Y. Sommer,1
+Raffael,R. Oxford,1
+M. Cuisance,Raffael,1
+L. Stindl,J. Vestergaard,1
+Raffael,O. Wendt,1
+L. Stindl,M. Ginter,1
+M. Cuisance,R. Oxford,1
+Raffael,M. Ginter,1
+M. Ginter,Y. Sommer,1
+M. Cuisance,Y. Sommer,1

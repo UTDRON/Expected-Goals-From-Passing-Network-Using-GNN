@@ -1,0 +1,40 @@
+Source,Target,Weight
+D. Abraham,Omar Mascarell,3
+J. Willems,S. Haller,3
+S. Haller,M. Fabi\u00e1n,2
+Omar Mascarell,T. Chandler,2
+M. Fabi\u00e1n,M. Russ,2
+S. Haller,D. Abraham,2
+T. Chandler,M. Fabi\u00e1n,2
+M. Fabi\u00e1n,D. Abraham,2
+M. Russ,J. Willems,1
+D. da Costa,M. Fabi\u00e1n,1
+M. Fabi\u00e1n,D. da Costa,1
+M. Ga\u0107inovi\u0107,S. Haller,1
+D. Abraham,T. Chandler,1
+J. Willems,M. Hasebe,1
+M. Ga\u0107inovi\u0107,D. Abraham,1
+L. Hradecky,M. Ga\u0107inovi\u0107,1
+D. da Costa,J. Willems,1
+S. Haller,D. da Costa,1
+M. Ga\u0107inovi\u0107,T. Chandler,1
+M. Hasebe,M. Ga\u0107inovi\u0107,1
+M. Ga\u0107inovi\u0107,M. Fabi\u00e1n,1
+D. da Costa,Omar Mascarell,1
+D. Abraham,M. Fabi\u00e1n,1
+M. Russ,T. Chandler,1
+T. Chandler,M. Hasebe,1
+Omar Mascarell,D. Abraham,1
+T. Chandler,M. Russ,1
+M. Russ,M. Hasebe,1
+M. Hasebe,D. Abraham,1
+D. Abraham,M. Ga\u0107inovi\u0107,1
+M. Fabi\u00e1n,J. Willems,1
+T. Chandler,J. Willems,1
+M. Hasebe,L. Hradecky,1
+D. Abraham,D. da Costa,1
+Omar Mascarell,M. Fabi\u00e1n,1
+D. Abraham,S. Haller,1
+D. da Costa,M. Ga\u0107inovi\u0107,1
+M. Fabi\u00e1n,M. Ga\u0107inovi\u0107,1
+M. Ga\u0107inovi\u0107,D. da Costa,1

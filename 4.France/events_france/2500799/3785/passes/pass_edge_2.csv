@@ -1,0 +1,102 @@
+Source,Target,Weight
+F. Eboa Eboa,L. Blas,7
+L. Deaux,F. Eboa Eboa,6
+C. Kerbrat,F. Eboa Eboa,6
+R. Camara,L. Deaux,5
+K. Johnsson,C. Kerbrat,5
+F. Tabanou,F. Eboa Eboa,5
+M. Diallo,R. Camara,4
+L. Deaux,M. Diallo,4
+J. Martins-Pereira,M. Diallo,4
+L. Blas,J. Martins-Pereira,4
+C. Kerbrat,K. Johnsson,4
+C. Kerbrat,J. Martins-Pereira,4
+J. Martins-Pereira,R. Camara,3
+L. Blas,L. Deaux,3
+F. Tabanou,C. Kerbrat,3
+F. Eboa Eboa,F. Tabanou,3
+M. Coco,L. Blas,3
+F. Eboa Eboa,C. Kerbrat,3
+M. Thuram,L. Deaux,3
+M. Coco,M. Thuram,3
+F. Eboa Eboa,K. Johnsson,3
+R. Camara,J. Martins-Pereira,3
+J. Martins-Pereira,C. Kerbrat,3
+L. Deaux,R. Camara,3
+L. Blas,F. Eboa Eboa,3
+L. Blas,F. Tabanou,3
+R. Camara,Pedro Rebocho,2
+Pedro Rebocho,J. Briand,2
+M. Diallo,L. Blas,2
+M. Diallo,L. Deaux,2
+K. Johnsson,M. Coco,2
+L. Deaux,J. Martins-Pereira,2
+L. Blas,M. Diallo,2
+J. Martins-Pereira,L. Deaux,2
+L. Deaux,C. Kerbrat,2
+F. Eboa Eboa,L. Deaux,2
+F. Eboa Eboa,M. Thuram,2
+F. Eboa Eboa,M. Coco,2
+M. Coco,L. Deaux,2
+M. Diallo,F. Eboa Eboa,2
+J. Briand,Pedro Rebocho,2
+J. Martins-Pereira,M. Thuram,1
+M. Thuram,F. Tabanou,1
+F. Tabanou,K. Johnsson,1
+J. Briand,J. Martins-Pereira,1
+R. Camara,F. Eboa Eboa,1
+L. Deaux,L. Blas,1
+L. Blas,M. Thuram,1
+F. Tabanou,M. Diallo,1
+M. Thuram,R. Camara,1
+C. Kerbrat,M. Thuram,1
+J. Martins-Pereira,M. Coco,1
+M. Coco,C. Kerbrat,1
+F. Tabanou,M. Coco,1
+L. Blas,M. Coco,1
+C. Kerbrat,L. Blas,1
+J. Martins-Pereira,L. Blas,1
+K. Johnsson,R. Camara,1
+L. Deaux,F. Tabanou,1
+M. Coco,J. Martins-Pereira,1
+R. Camara,C. Kerbrat,1
+R. Camara,J. Briand,1
+M. Thuram,K. Johnsson,1
+F. Eboa Eboa,J. Martins-Pereira,1
+M. Thuram,M. Coco,1
+C. Kerbrat,J. Briand,1
+Pedro Rebocho,M. Coco,1
+J. Briand,L. Blas,1
+F. Tabanou,L. Deaux,1
+F. Tabanou,L. Blas,1
+J. Briand,M. Coco,1
+L. Deaux,M. Thuram,1
+M. Diallo,C. Kerbrat,1
+L. Deaux,K. Johnsson,1
+R. Camara,F. Tabanou,1
+L. Blas,R. Camara,1
+M. Thuram,J. Martins-Pereira,1
+C. Kerbrat,M. Diallo,1
+M. Thuram,J. Briand,1
+J. Martins-Pereira,J. Briand,1
+C. Kerbrat,M. Coco,1
+F. Eboa Eboa,M. Diallo,1
+J. Briand,M. Thuram,1
+C. Kerbrat,F. Tabanou,1
+M. Diallo,K. Johnsson,1
+K. Johnsson,F. Tabanou,1
+M. Diallo,F. Tabanou,1
+K. Johnsson,M. Diallo,1
+J. Briand,C. Kerbrat,1
+M. Diallo,J. Martins-Pereira,1
+F. Eboa Eboa,R. Camara,1
+J. Martins-Pereira,K. Johnsson,1
+L. Blas,C. Kerbrat,1
+C. Kerbrat,R. Camara,1
+Pedro Rebocho,L. Deaux,1
+J. Martins-Pereira,F. Tabanou,1
+K. Johnsson,L. Blas,1
+L. Blas,J. Briand,1
+K. Johnsson,F. Eboa Eboa,1
+M. Thuram,L. Blas,1
+R. Camara,L. Blas,1

@@ -1,0 +1,18 @@
+Source,Target,Weight
+L. Bailey,B. Leno,1
+L. Bender,K. Volland,1
+P. Retsos,J. Tah,1
+S. Bender,P. Retsos,1
+Wendell,D. Kohr,1
+D. Kohr,L. Alario,1
+B. Leno,S. Bender,1
+K. Volland,P. Retsos,1
+L. Alario,L. Bender,1
+J. Tah,P. Retsos,1
+P. Retsos,L. Bailey,1
+P. Retsos,D. Kohr,1
+L. Bender,Wendell,1
+Wendell,L. Bender,1
+D. Kohr,L. Bailey,1
+D. Kohr,L. Bender,1
+L. Bailey,D. Kohr,1

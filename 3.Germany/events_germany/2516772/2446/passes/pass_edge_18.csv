@@ -1,0 +1,25 @@
+Source,Target,Weight
+S. Bender,K. Havertz,2
+S. Bender,Wendell,1
+D. Kohr,S. Bender,1
+A. Mehmedi,B. Henrichs,1
+Wendell,J. Brandt,1
+B. Henrichs,A. Mehmedi,1
+K. Havertz,Wendell,1
+C. Ar\u00e1nguiz,J. Brandt,1
+B. Henrichs,P. Retsos,1
+Wendell,S. Bender,1
+A. Mehmedi,K. Havertz,1
+S. Bender,B. Leno,1
+P. Retsos,C. Ar\u00e1nguiz,1
+J. Brandt,P. Retsos,1
+B. Leno,S. Bender,1
+K. Havertz,B. Henrichs,1
+P. Retsos,K. Havertz,1
+K. Havertz,C. Ar\u00e1nguiz,1
+C. Ar\u00e1nguiz,P. Retsos,1
+B. Henrichs,D. Kohr,1
+K. Havertz,A. Mehmedi,1
+J. Brandt,D. Kohr,1
+P. Retsos,B. Henrichs,1
+D. Kohr,A. Mehmedi,1

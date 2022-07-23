@@ -1,0 +1,69 @@
+Source,Target,Weight
+E. Bourgaud,O. El Hajjam,7
+T. Ndomb\u00e8l\u00e9,E. Bourgaud,3
+O. El Hajjam,T. Monconduit,3
+O. El Hajjam,E. Bourgaud,3
+M. Konat\u00e9,E. Bourgaud,3
+T. Ndomb\u00e8l\u00e9,T. Monconduit,3
+J. Ielsch,B. Dibassy,3
+P. Gouano,T. Monconduit,3
+O. El Hajjam,R. Gurtner,3
+E. Bourgaud,B. Dibassy,2
+T. Ndomb\u00e8l\u00e9,K. Ad\u00e9non,2
+J. Ielsch,T. Ndomb\u00e8l\u00e9,2
+T. Monconduit,T. Ndomb\u00e8l\u00e9,2
+G. Kakuta,M. Konat\u00e9,2
+T. Monconduit,G. Kakuta,2
+G. Kakuta,O. El Hajjam,2
+B. Dibassy,O. El Hajjam,2
+K. Ad\u00e9non,J. Ielsch,2
+T. Monconduit,M. Konat\u00e9,2
+K. Ad\u00e9non,P. Gouano,2
+M. Konat\u00e9,T. Ndomb\u00e8l\u00e9,2
+M. Konat\u00e9,J. Ielsch,2
+E. Bourgaud,K. Ad\u00e9non,2
+G. Kakuta,E. Bourgaud,2
+R. Gurtner,K. Ad\u00e9non,2
+O. El Hajjam,K. Ad\u00e9non,2
+K. Ad\u00e9non,B. Dibassy,2
+T. Monconduit,E. Bourgaud,2
+B. Dibassy,T. Ndomb\u00e8l\u00e9,2
+B. Dibassy,G. Kakuta,2
+K. Ad\u00e9non,M. Konat\u00e9,2
+O. El Hajjam,P. Gouano,2
+K. Ad\u00e9non,R. Gurtner,1
+G. Kakuta,K. Ad\u00e9non,1
+E. Bourgaud,G. Kakuta,1
+G. Kakuta,P. Gouano,1
+P. Gouano,O. El Hajjam,1
+E. Bourgaud,T. Ndomb\u00e8l\u00e9,1
+T. Monconduit,R. Gurtner,1
+T. Ndomb\u00e8l\u00e9,O. El Hajjam,1
+G. Kakuta,J. Ielsch,1
+M. Konat\u00e9,G. Kakuta,1
+B. Dibassy,J. Ielsch,1
+P. Gouano,B. Dibassy,1
+O. El Hajjam,M. Konat\u00e9,1
+B. Dibassy,K. Ad\u00e9non,1
+O. El Hajjam,G. Kakuta,1
+M. Konat\u00e9,O. El Hajjam,1
+P. Gouano,M. Konat\u00e9,1
+T. Monconduit,P. Gouano,1
+K. Ad\u00e9non,G. Kakuta,1
+J. Ielsch,O. El Hajjam,1
+R. Gurtner,P. Gouano,1
+P. Gouano,E. Bourgaud,1
+J. Ielsch,P. Gouano,1
+G. Kakuta,B. Dibassy,1
+J. Ielsch,G. Kakuta,1
+R. Gurtner,G. Kakuta,1
+J. Ielsch,T. Monconduit,1
+R. Gurtner,J. Ielsch,1
+B. Dibassy,M. Konat\u00e9,1
+P. Gouano,R. Gurtner,1
+T. Monconduit,O. El Hajjam,1
+O. El Hajjam,T. Ndomb\u00e8l\u00e9,1
+M. Konat\u00e9,T. Monconduit,1
+E. Bourgaud,M. Konat\u00e9,1
+T. Ndomb\u00e8l\u00e9,J. Ielsch,1
+R. Gurtner,M. Konat\u00e9,1

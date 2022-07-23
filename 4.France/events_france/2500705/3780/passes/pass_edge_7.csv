@@ -1,0 +1,18 @@
+Source,Target,Weight
+Y. Bodiger,Som\u00e1lia,2
+A. Lafont,Y. Cahuzac,2
+Som\u00e1lia,Y. Sanogo,2
+C. Jullien,Y. Bodiger,2
+J. Durmaz,C. Jullien,1
+Y. Cahuzac,A. Delort,1
+Y. Sanogo,Y. Cahuzac,1
+Y. Bodiger,A. Lafont,1
+Som\u00e1lia,A. Lafont,1
+Y. Cahuzac,Som\u00e1lia,1
+Y. Sanogo,J. Durmaz,1
+A. Delort,Y. Bodiger,1
+J. Durmaz,Y. Sanogo,1
+C. Jean,J. Durmaz,1
+Y. Sanogo,Som\u00e1lia,1
+Y. Cahuzac,Y. Sanogo,1
+Som\u00e1lia,C. Jullien,1

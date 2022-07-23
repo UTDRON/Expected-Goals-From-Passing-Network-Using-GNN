@@ -1,0 +1,18 @@
+Source,Target,Weight
+A. Souquet,Dante,3
+V. Koziello,A. Souquet,3
+Dante,V. Koziello,2
+Dante,M. Le Marchand,2
+M. Le Marchand,C. Jallet,1
+Dante,N. Mendy,1
+N. Mendy,Dante,1
+A. Pl\u00e9a,P. Lees Melou,1
+C. Jallet,N. Mendy,1
+P. Lees Melou,M. Balotelli,1
+N. Mendy,R. Walter,1
+M. Le Marchand,Dante,1
+R. Walter,M. Balotelli,1
+N. Mendy,V. Koziello,1
+A. Pl\u00e9a,N. Mendy,1
+M. Balotelli,P. Lees Melou,1
+P. Lees Melou,A. Pl\u00e9a,1

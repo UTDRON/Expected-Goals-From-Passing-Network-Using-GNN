@@ -1,0 +1,94 @@
+Source,Target,Weight
+N. Elvedi,J. Vestergaard,7
+J. Vestergaard,M. Ginter,6
+C. Kramer,M. Ginter,6
+M. Ginter,J. Vestergaard,6
+V. Grifo,D. Zakaria,5
+M. Ginter,N. Elvedi,5
+J. Vestergaard,O. Wendt,5
+J. Vestergaard,V. Grifo,5
+T. Jantschke,L. Stindl,5
+T. Hazard,M. Ginter,4
+M. Ginter,T. Jantschke,4
+M. Ginter,D. Zakaria,4
+M. Ginter,C. Kramer,4
+T. Hazard,L. Stindl,4
+N. Elvedi,T. Jantschke,3
+L. Stindl,M. Ginter,3
+O. Wendt,V. Grifo,3
+O. Wendt,Raffael,3
+N. Elvedi,M. Ginter,3
+D. Zakaria,J. Vestergaard,3
+J. Vestergaard,N. Elvedi,3
+Raffael,C. Kramer,3
+L. Stindl,D. Zakaria,3
+T. Hazard,N. Elvedi,3
+N. Elvedi,Y. Sommer,3
+D. Zakaria,O. Wendt,3
+O. Wendt,J. Vestergaard,3
+M. Ginter,T. Hazard,3
+N. Elvedi,D. Zakaria,3
+Y. Sommer,J. Vestergaard,3
+T. Jantschke,N. Elvedi,3
+T. Jantschke,T. Hazard,3
+C. Kramer,N. Elvedi,3
+V. Grifo,N. Elvedi,3
+O. Wendt,L. Stindl,3
+N. Elvedi,C. Kramer,2
+Y. Sommer,O. Wendt,2
+V. Grifo,C. Kramer,2
+L. Stindl,N. Elvedi,2
+Y. Sommer,M. Ginter,2
+C. Kramer,T. Hazard,2
+N. Elvedi,V. Grifo,2
+D. Zakaria,N. Elvedi,2
+J. Vestergaard,Y. Sommer,2
+J. Vestergaard,D. Zakaria,2
+V. Grifo,M. Ginter,2
+O. Wendt,T. Hazard,2
+T. Jantschke,M. Ginter,2
+D. Zakaria,V. Grifo,2
+T. Hazard,T. Jantschke,2
+M. Ginter,Y. Sommer,2
+L. Stindl,Raffael,2
+D. Zakaria,C. Kramer,2
+V. Grifo,T. Jantschke,2
+C. Kramer,O. Wendt,2
+L. Stindl,J. Vestergaard,2
+D. Zakaria,T. Jantschke,2
+C. Kramer,J. Vestergaard,2
+D. Zakaria,T. Hazard,2
+Raffael,T. Hazard,2
+L. Stindl,V. Grifo,2
+Raffael,L. Stindl,2
+V. Grifo,O. Wendt,2
+L. Stindl,T. Hazard,2
+J. Vestergaard,L. Stindl,1
+C. Kramer,V. Grifo,1
+Raffael,O. Wendt,1
+D. Zakaria,M. Ginter,1
+L. Stindl,C. Kramer,1
+J. Vestergaard,T. Hazard,1
+O. Wendt,M. Ginter,1
+Y. Sommer,N. Elvedi,1
+O. Wendt,C. Kramer,1
+T. Hazard,V. Grifo,1
+V. Grifo,T. Hazard,1
+T. Jantschke,Raffael,1
+M. Ginter,V. Grifo,1
+T. Hazard,Raffael,1
+T. Hazard,C. Kramer,1
+T. Hazard,J. Vestergaard,1
+O. Wendt,T. Jantschke,1
+D. Zakaria,Y. Sommer,1
+N. Elvedi,L. Stindl,1
+D. Zakaria,L. Stindl,1
+C. Kramer,D. Zakaria,1
+J. Vestergaard,Raffael,1
+J. Vestergaard,C. Kramer,1
+L. Stindl,O. Wendt,1
+N. Elvedi,T. Hazard,1
+T. Jantschke,D. Zakaria,1
+T. Hazard,O. Wendt,1
+M. Ginter,L. Stindl,1
+J. Vestergaard,T. Jantschke,1

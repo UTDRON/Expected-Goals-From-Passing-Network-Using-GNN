@@ -1,0 +1,66 @@
+Source,Target,Weight
+P. Retsos,B. Leno,7
+B. Leno,P. Retsos,6
+Wendell,C. Ar\u00e1nguiz,4
+C. Ar\u00e1nguiz,B. Leno,3
+S. Bender,B. Leno,3
+C. Ar\u00e1nguiz,Wendell,3
+T. Jedvaj,P. Retsos,2
+C. Ar\u00e1nguiz,T. Jedvaj,2
+S. Bender,Wendell,2
+K. Havertz,P. Retsos,2
+Wendell,K. Volland,2
+B. Leno,S. Bender,2
+J. Brandt,C. Ar\u00e1nguiz,2
+K. Havertz,C. Ar\u00e1nguiz,2
+C. Ar\u00e1nguiz,J. Brandt,2
+B. Leno,Wendell,2
+D. Kohr,Wendell,2
+J. Brandt,T. Jedvaj,2
+C. Ar\u00e1nguiz,L. Bailey,2
+P. Retsos,C. Ar\u00e1nguiz,2
+B. Leno,C. Ar\u00e1nguiz,2
+T. Jedvaj,S. Bender,2
+K. Volland,J. Brandt,2
+J. Brandt,K. Havertz,2
+J. Brandt,L. Bailey,1
+K. Havertz,S. Bender,1
+D. Kohr,P. Retsos,1
+Wendell,T. Jedvaj,1
+Wendell,K. Havertz,1
+S. Bender,C. Ar\u00e1nguiz,1
+L. Bailey,D. Kohr,1
+K. Volland,P. Retsos,1
+C. Ar\u00e1nguiz,K. Havertz,1
+J. Brandt,D. Kohr,1
+Wendell,L. Bailey,1
+P. Retsos,S. Bender,1
+P. Retsos,K. Volland,1
+B. Leno,J. Brandt,1
+K. Volland,Wendell,1
+L. Bailey,Wendell,1
+J. Brandt,S. Bender,1
+L. Bailey,C. Ar\u00e1nguiz,1
+Wendell,P. Retsos,1
+T. Jedvaj,J. Brandt,1
+C. Ar\u00e1nguiz,D. Kohr,1
+T. Jedvaj,K. Volland,1
+J. Brandt,K. Volland,1
+D. Kohr,T. Jedvaj,1
+C. Ar\u00e1nguiz,P. Retsos,1
+T. Jedvaj,B. Leno,1
+P. Retsos,D. Kohr,1
+Wendell,S. Bender,1
+K. Havertz,J. Brandt,1
+L. Bailey,K. Havertz,1
+S. Bender,T. Jedvaj,1
+L. Bailey,S. Bender,1
+T. Jedvaj,L. Bailey,1
+K. Volland,C. Ar\u00e1nguiz,1
+P. Retsos,K. Havertz,1
+S. Bender,D. Kohr,1
+P. Retsos,J. Brandt,1
+S. Bender,J. Brandt,1
+L. Bailey,J. Brandt,1
+B. Leno,K. Havertz,1
+K. Havertz,T. Jedvaj,1

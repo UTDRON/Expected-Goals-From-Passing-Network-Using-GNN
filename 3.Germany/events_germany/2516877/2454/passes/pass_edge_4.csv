@@ -1,0 +1,103 @@
+Source,Target,Weight
+J. Vestergaard,M. Ginter,8
+M. Ginter,J. Vestergaard,7
+J. Vestergaard,C. Kramer,7
+Y. Sommer,J. Vestergaard,7
+L. Stindl,T. Hazard,6
+L. Stindl,R. Oxford,6
+M. Ginter,O. Wendt,5
+R. Oxford,L. Stindl,5
+R. Oxford,Y. Sommer,5
+C. Kramer,M. Ginter,5
+D. Zakaria,J. Vestergaard,4
+D. Zakaria,Y. Sommer,4
+V. Grifo,L. Stindl,4
+Y. Sommer,R. Oxford,4
+C. Kramer,J. Vestergaard,4
+O. Wendt,C. Kramer,4
+J. Vestergaard,Y. Sommer,4
+V. Grifo,C. Kramer,4
+M. Ginter,Y. Sommer,4
+J. Vestergaard,O. Wendt,4
+R. Oxford,J. Vestergaard,4
+O. Wendt,L. Stindl,4
+L. Stindl,M. Ginter,3
+C. Kramer,T. Hazard,3
+Y. Sommer,M. Ginter,3
+R. Oxford,M. Ginter,3
+T. Hazard,M. Ginter,3
+J. Vestergaard,D. Zakaria,3
+J. Vestergaard,R. Oxford,3
+T. Hazard,R. Oxford,3
+D. Zakaria,M. Ginter,3
+M. Ginter,L. Stindl,3
+M. Ginter,D. Zakaria,3
+Y. Sommer,V. Grifo,3
+R. Oxford,C. Kramer,3
+R. Oxford,V. Grifo,3
+L. Stindl,J. Drmic,3
+Raffael,M. Cuisance,3
+C. Kramer,L. Stindl,3
+T. Hazard,C. Kramer,3
+C. Kramer,Y. Sommer,3
+C. Kramer,D. Zakaria,3
+C. Kramer,O. Wendt,2
+M. Ginter,T. Hazard,2
+D. Zakaria,T. Hazard,2
+Y. Sommer,C. Kramer,2
+V. Grifo,Raffael,2
+T. Hazard,L. Stindl,2
+D. Zakaria,O. Wendt,2
+T. Hazard,O. Wendt,2
+L. Stindl,Raffael,2
+T. Hazard,J. Vestergaard,2
+J. Vestergaard,M. Cuisance,2
+C. Kramer,V. Grifo,2
+V. Grifo,J. Vestergaard,2
+Y. Sommer,L. Stindl,2
+C. Kramer,R. Oxford,2
+M. Cuisance,R. Oxford,2
+J. Drmic,R. Oxford,2
+L. Stindl,Y. Sommer,2
+T. Hazard,D. Zakaria,2
+L. Stindl,V. Grifo,2
+J. Vestergaard,T. Hazard,2
+J. Vestergaard,V. Grifo,2
+M. Ginter,R. Oxford,2
+R. Oxford,D. Zakaria,2
+O. Wendt,J. Vestergaard,2
+M. Cuisance,V. Grifo,2
+M. Ginter,C. Kramer,1
+D. Zakaria,M. Cuisance,1
+M. Cuisance,L. Stindl,1
+O. Wendt,M. Ginter,1
+Raffael,L. Stindl,1
+J. Drmic,C. Kramer,1
+R. Oxford,T. Hazard,1
+M. Ginter,J. Drmic,1
+O. Wendt,D. Zakaria,1
+M. Cuisance,J. Vestergaard,1
+O. Wendt,R. Oxford,1
+Raffael,D. Zakaria,1
+V. Grifo,D. Zakaria,1
+Y. Sommer,D. Zakaria,1
+M. Ginter,V. Grifo,1
+D. Zakaria,L. Stindl,1
+V. Grifo,R. Oxford,1
+J. Vestergaard,J. Drmic,1
+J. Drmic,J. Vestergaard,1
+L. Stindl,J. Vestergaard,1
+Raffael,R. Oxford,1
+V. Grifo,M. Ginter,1
+R. Oxford,Raffael,1
+L. Stindl,O. Wendt,1
+M. Cuisance,C. Kramer,1
+L. Stindl,C. Kramer,1
+O. Wendt,Raffael,1
+O. Wendt,V. Grifo,1
+J. Drmic,L. Stindl,1
+M. Cuisance,D. Zakaria,1
+V. Grifo,M. Cuisance,1
+D. Zakaria,Raffael,1
+O. Wendt,T. Hazard,1
+M. Ginter,M. Cuisance,1

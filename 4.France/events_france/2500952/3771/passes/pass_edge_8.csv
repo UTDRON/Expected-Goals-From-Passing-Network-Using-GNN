@@ -1,0 +1,19 @@
+Source,Target,Weight
+A. Zambo Anguissa,Luiz Gustavo,3
+Luiz Gustavo,Y. Pel\u00e9,2
+H. Sakai,A. Zambo Anguissa,2
+D. Payet,J. Amavi,2
+J. Amavi,D. Payet,1
+Rolando,H. Sakai,1
+Luiz Gustavo,A. Zambo Anguissa,1
+Y. Pel\u00e9,Luiz Gustavo,1
+J. Amavi,Rolando,1
+Y. Pel\u00e9,D. Payet,1
+Luiz Gustavo,H. Sakai,1
+Luiz Gustavo,D. Payet,1
+D. Payet,A. Zambo Anguissa,1
+A. Rami,Luiz Gustavo,1
+H. Sakai,F. Thauvin,1
+Rolando,A. Rami,1
+A. Zambo Anguissa,F. Thauvin,1
+F. Thauvin,H. Sakai,1

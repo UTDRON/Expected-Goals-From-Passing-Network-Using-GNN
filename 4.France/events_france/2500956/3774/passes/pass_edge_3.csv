@@ -1,0 +1,58 @@
+Source,Target,Weight
+J. Gnagnon,R. Bensebaini,4
+W. Khazri,R. Bensebaini,3
+A. Hunou,H. Traor\u00e9,3
+J. Gelin,J. Gnagnon,3
+H. Traor\u00e9,J. Gelin,3
+J. Gelin,B. Andr\u00e9,3
+R. Bensebaini,B. Andr\u00e9,3
+R. Bensebaini,W. Khazri,3
+J. Gelin,H. Traor\u00e9,2
+Mexer,R. Bensebaini,2
+B. Andr\u00e9,W. Khazri,2
+B. Andr\u00e9,R. Bensebaini,2
+J. Gnagnon,Mexer,2
+J. Gelin,A. Hunou,2
+D. Sakho,J. Lea Siliki,2
+Mexer,W. Khazri,2
+B. Andr\u00e9,J. Gnagnon,2
+W. Khazri,J. Gnagnon,2
+J. Lea Siliki,J. Gelin,2
+W. Khazri,J. Gelin,2
+R. Bensebaini,J. Gelin,2
+R. Bensebaini,J. Lea Siliki,2
+W. Khazri,Mexer,2
+A. Hunou,Mexer,1
+T. Koubek,H. Traor\u00e9,1
+H. Traor\u00e9,W. Khazri,1
+B. Andr\u00e9,D. Sakho,1
+H. Traor\u00e9,T. Koubek,1
+J. Gelin,R. Bensebaini,1
+J. Lea Siliki,R. Bensebaini,1
+J. Gnagnon,B. Andr\u00e9,1
+R. Bensebaini,T. Koubek,1
+J. Lea Siliki,D. Sakho,1
+J. Lea Siliki,A. Hunou,1
+J. Gelin,W. Khazri,1
+D. Sakho,A. Hunou,1
+H. Traor\u00e9,A. Hunou,1
+D. Sakho,Mexer,1
+R. Bensebaini,D. Sakho,1
+H. Traor\u00e9,J. Lea Siliki,1
+Mexer,J. Gnagnon,1
+H. Traor\u00e9,D. Sakho,1
+H. Traor\u00e9,Mexer,1
+B. Andr\u00e9,A. Hunou,1
+Mexer,H. Traor\u00e9,1
+B. Andr\u00e9,H. Traor\u00e9,1
+H. Traor\u00e9,B. Andr\u00e9,1
+A. Hunou,J. Lea Siliki,1
+A. Hunou,J. Gelin,1
+Mexer,J. Gelin,1
+T. Koubek,J. Gelin,1
+R. Bensebaini,H. Traor\u00e9,1
+T. Koubek,J. Gnagnon,1
+J. Lea Siliki,B. Andr\u00e9,1
+J. Gnagnon,W. Khazri,1
+J. Gnagnon,T. Koubek,1
+W. Khazri,D. Sakho,1

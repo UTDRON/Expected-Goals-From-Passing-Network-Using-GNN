@@ -1,0 +1,27 @@
+Source,Target,Weight
+F. Moubandje,C. Jullien,2
+I. Diop,C. Jullien,2
+C. Jullien,I. Diop,2
+K. Amian,A. Delort,2
+C. Jean,K. Amian,2
+I. Diop,C. Jean,1
+C. Jullien,C. Jean,1
+K. Amian,I. Diop,1
+F. Moubandje,I. Sangar\u00e9,1
+A. Blin,A. Delort,1
+F. Moubandje,K. Amian,1
+K. Amian,Y. Cahuzac,1
+A. Delort,K. Amian,1
+C. Jean,A. Blin,1
+Y. Cahuzac,C. Jullien,1
+I. Sangar\u00e9,F. Moubandje,1
+A. Delort,F. Moubandje,1
+K. Amian,A. Blin,1
+C. Jullien,F. Moubandje,1
+A. Blin,Y. Cahuzac,1
+I. Diop,I. Sangar\u00e9,1
+C. Jullien,Y. Cahuzac,1
+A. Blin,I. Diop,1
+Y. Cahuzac,K. Amian,1
+A. Delort,A. Blin,1
+Y. Cahuzac,C. Jean,1

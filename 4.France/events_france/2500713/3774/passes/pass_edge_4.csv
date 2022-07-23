@@ -1,0 +1,33 @@
+Source,Target,Weight
+H. Traor\u00e9,M. Amalfitano,2
+I. Sarr,F. Maouassa,2
+A. Diallo,H. Traor\u00e9,2
+B. Andr\u00e9,B. Bourigeaud,2
+I. Sarr,F. Mubele,2
+B. Bourigeaud,H. Traor\u00e9,1
+F. Mubele,B. Bourigeaud,1
+B. Bourigeaud,F. Mubele,1
+R. Bensebaini,I. Sarr,1
+F. Maouassa,J. Gnagnon,1
+F. Maouassa,Mexer,1
+M. Amalfitano,H. Traor\u00e9,1
+B. Andr\u00e9,I. Sarr,1
+M. Amalfitano,B. Bourigeaud,1
+B. Bourigeaud,M. Amalfitano,1
+J. Gnagnon,Mexer,1
+Mexer,A. Diallo,1
+F. Maouassa,I. Sarr,1
+H. Traor\u00e9,B. Andr\u00e9,1
+A. Diallo,M. Amalfitano,1
+F. Mubele,R. Bensebaini,1
+R. Bensebaini,F. Maouassa,1
+H. Traor\u00e9,Mexer,1
+H. Traor\u00e9,A. Diallo,1
+B. Andr\u00e9,F. Mubele,1
+M. Amalfitano,J. Gnagnon,1
+F. Mubele,B. Andr\u00e9,1
+J. Gnagnon,R. Bensebaini,1
+Mexer,H. Traor\u00e9,1
+B. Bourigeaud,A. Diallo,1
+Mexer,B. Andr\u00e9,1
+M. Amalfitano,B. Andr\u00e9,1

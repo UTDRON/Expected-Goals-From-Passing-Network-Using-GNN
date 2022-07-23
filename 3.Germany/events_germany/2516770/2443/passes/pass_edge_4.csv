@@ -1,0 +1,43 @@
+Source,Target,Weight
+L. Augustinsson,M. Veljkovic,4
+T. Delaney,L. Augustinsson,3
+L. Augustinsson,J. Pavlenka,3
+F. Kainz,L. Augustinsson,2
+I. Belfodil,F. Kainz,2
+M. Veljkovic,F. Bartels,2
+J. Pavlenka,L. Augustinsson,2
+F. Bartels,I. Belfodil,2
+F. Kainz,I. Belfodil,2
+F. Bartels,L. Augustinsson,2
+T. Gebre Selassie,F. Bartels,2
+T. Gebre Selassie,F. Kainz,2
+I. Belfodil,T. Gebre Selassie,2
+M. Veljkovic,T. Delaney,2
+M. Eggestein,F. Kainz,1
+T. Delaney,M. Eggestein,1
+M. Eggestein,R. Bauer,1
+R. Bauer,J. Pavlenka,1
+L. San\u00e9,J. Pavlenka,1
+J. Pavlenka,T. Gebre Selassie,1
+L. Augustinsson,M. Eggestein,1
+T. Gebre Selassie,R. Bauer,1
+L. San\u00e9,M. Veljkovic,1
+L. Augustinsson,I. Belfodil,1
+J. Pavlenka,M. Veljkovic,1
+T. Delaney,F. Bartels,1
+I. Belfodil,L. San\u00e9,1
+F. Kainz,T. Delaney,1
+R. Bauer,T. Gebre Selassie,1
+T. Delaney,L. San\u00e9,1
+I. Belfodil,M. Eggestein,1
+T. Delaney,I. Belfodil,1
+M. Veljkovic,L. Augustinsson,1
+L. San\u00e9,T. Gebre Selassie,1
+M. Eggestein,T. Delaney,1
+L. San\u00e9,T. Delaney,1
+M. Veljkovic,L. San\u00e9,1
+J. Pavlenka,T. Delaney,1
+T. Gebre Selassie,L. San\u00e9,1
+L. San\u00e9,F. Kainz,1
+F. Bartels,T. Delaney,1
+F. Kainz,T. Gebre Selassie,1

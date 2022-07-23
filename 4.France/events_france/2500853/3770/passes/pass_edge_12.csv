@@ -1,0 +1,37 @@
+Source,Target,Weight
+N. Pallois,A. Tour\u00e9,3
+A. Tour\u00e9,A. Thomasson,3
+A. Thomasson,N. Pallois,3
+A. Tour\u00e9,V. Rongier,2
+V. Rongier,Y. El Ghanassy,2
+A. Thomasson,L. Dubois,2
+L. Dubois,V. Rongier,2
+E. Sala,Y. El Ghanassy,2
+E. Sala,A. Tour\u00e9,2
+V. Rongier,J. Iloki,2
+K. Djidji,N. Pallois,2
+K. Djidji,A. Thomasson,2
+A. Tour\u00e9,E. Sala,2
+J. Iloki,N. Pallois,1
+V. Rongier,A. Thomasson,1
+A. Thomasson,V. Rongier,1
+Y. El Ghanassy,J. Iloki,1
+Diego Carlos,K. Djidji,1
+V. Rongier,K. Djidji,1
+V. Rongier,A. Tour\u00e9,1
+J. Iloki,L. Dubois,1
+E. Sala,N. Pallois,1
+N. Pallois,A. Thomasson,1
+N. Pallois,V. Rongier,1
+Y. El Ghanassy,E. Sala,1
+Y. El Ghanassy,V. Rongier,1
+A. Thomasson,J. Iloki,1
+N. Pallois,K. Djidji,1
+L. Dubois,E. Sala,1
+Y. El Ghanassy,A. Tour\u00e9,1
+J. Iloki,V. Rongier,1
+N. Pallois,E. Sala,1
+J. Iloki,A. Tour\u00e9,1
+V. Rongier,L. Dubois,1
+A. Thomasson,K. Djidji,1
+L. Dubois,Diego Carlos,1

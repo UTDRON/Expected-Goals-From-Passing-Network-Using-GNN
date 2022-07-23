@@ -1,0 +1,54 @@
+Source,Target,Weight
+B. Sankoh,R. Genevois,4
+R. Genevois,H. Bazile,4
+B. Sankoh,A. Mbengue,3
+I. Santini,R. Rodelin,3
+R. Rodelin,B. Sankoh,2
+H. Bazile,B. Sankoh,2
+R. Genevois,C. Kouakou,2
+R. Rodelin,H. Bazile,2
+I. Santini,H. Bazile,2
+D. Da Silva,I. Santini,2
+A. Djiku,B. Sankoh,2
+H. Bazile,J. F\u00e9ret,2
+A. Mbengue,A. Djiku,2
+J. F\u00e9ret,R. Rodelin,2
+D. Da Silva,R. Genevois,2
+R. Genevois,D. Da Silva,2
+H. Bazile,R. Rodelin,2
+A. Djiku,J. F\u00e9ret,1
+C. Kouakou,A. Mbengue,1
+B. Sankoh,C. Kouakou,1
+H. Bazile,R. Genevois,1
+C. Kouakou,I. Santini,1
+H. Bazile,A. Djiku,1
+R. Rodelin,C. Kouakou,1
+A. Mbengue,I. Santini,1
+D. Da Silva,C. Kouakou,1
+A. Mbengue,R. Genevois,1
+I. Santini,D. Da Silva,1
+B. Sankoh,J. F\u00e9ret,1
+C. Kouakou,H. Bazile,1
+D. Da Silva,A. Mbengue,1
+R. Rodelin,R. Genevois,1
+C. Kouakou,A. Djiku,1
+C. Kouakou,R. Rodelin,1
+D. Da Silva,B. Sankoh,1
+H. Bazile,A. Mbengue,1
+R. Vercoutre,D. Da Silva,1
+J. F\u00e9ret,A. Djiku,1
+A. Mbengue,H. Bazile,1
+H. Bazile,C. Kouakou,1
+J. F\u00e9ret,I. Santini,1
+R. Genevois,B. Sankoh,1
+J. F\u00e9ret,H. Bazile,1
+R. Genevois,J. F\u00e9ret,1
+J. F\u00e9ret,B. Sankoh,1
+A. Djiku,R. Genevois,1
+A. Mbengue,B. Sankoh,1
+R. Rodelin,J. F\u00e9ret,1
+B. Sankoh,R. Vercoutre,1
+H. Bazile,D. Da Silva,1
+A. Djiku,I. Santini,1
+C. Kouakou,D. Da Silva,1
+B. Sankoh,D. Da Silva,1

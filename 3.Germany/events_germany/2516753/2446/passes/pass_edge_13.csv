@@ -1,0 +1,94 @@
+Source,Target,Weight
+J. Tah,S. Bender,7
+S. Bender,B. Henrichs,5
+J. Brandt,Wendell,4
+K. Volland,J. Brandt,4
+D. Kohr,B. Henrichs,4
+D. Kohr,Wendell,3
+Wendell,C. Ar\u00e1nguiz,3
+D. Kohr,J. Tah,3
+C. Ar\u00e1nguiz,A. Mehmedi,3
+C. Ar\u00e1nguiz,S. Bender,3
+B. Henrichs,K. Bellarabi,3
+S. Bender,D. Kohr,3
+J. Brandt,K. Bellarabi,3
+K. Bellarabi,Wendell,3
+A. Mehmedi,S. Bender,3
+S. Bender,Andr\u00e9 Ramalho,3
+A. Mehmedi,K. Volland,2
+J. Brandt,S. Bender,2
+B. Leno,Wendell,2
+K. Volland,D. Kohr,2
+C. Ar\u00e1nguiz,J. Brandt,2
+D. Kohr,A. Mehmedi,2
+B. Henrichs,B. Leno,2
+S. Bender,Wendell,2
+S. Bender,A. Mehmedi,2
+B. Henrichs,J. Brandt,2
+B. Henrichs,L. Bailey,2
+Wendell,A. Mehmedi,2
+K. Bellarabi,S. Bender,2
+A. Mehmedi,K. Bellarabi,2
+L. Bailey,B. Henrichs,2
+S. Bender,C. Ar\u00e1nguiz,2
+A. Mehmedi,C. Ar\u00e1nguiz,2
+B. Henrichs,C. Ar\u00e1nguiz,2
+J. Brandt,C. Ar\u00e1nguiz,2
+D. Kohr,K. Bellarabi,2
+Wendell,S. Bender,2
+A. Mehmedi,D. Kohr,2
+B. Henrichs,D. Kohr,2
+Andr\u00e9 Ramalho,Wendell,2
+B. Henrichs,A. Mehmedi,2
+Wendell,K. Bellarabi,2
+C. Ar\u00e1nguiz,B. Henrichs,2
+Wendell,D. Kohr,2
+Wendell,J. Brandt,2
+B. Henrichs,J. Tah,2
+Wendell,B. Henrichs,2
+S. Bender,J. Tah,2
+S. Bender,K. Bellarabi,1
+J. Brandt,K. Volland,1
+B. Henrichs,Wendell,1
+J. Tah,K. Volland,1
+K. Bellarabi,L. Bailey,1
+Wendell,Andr\u00e9 Ramalho,1
+K. Bellarabi,J. Tah,1
+K. Bellarabi,C. Ar\u00e1nguiz,1
+K. Bellarabi,J. Brandt,1
+Andr\u00e9 Ramalho,D. Kohr,1
+S. Bender,K. Volland,1
+J. Brandt,D. Kohr,1
+Wendell,L. Bailey,1
+K. Bellarabi,B. Leno,1
+C. Ar\u00e1nguiz,K. Bellarabi,1
+D. Kohr,C. Ar\u00e1nguiz,1
+B. Leno,D. Kohr,1
+S. Bender,B. Leno,1
+K. Bellarabi,A. Mehmedi,1
+Wendell,K. Volland,1
+K. Volland,A. Mehmedi,1
+C. Ar\u00e1nguiz,B. Leno,1
+C. Ar\u00e1nguiz,D. Kohr,1
+A. Mehmedi,Wendell,1
+B. Leno,J. Tah,1
+K. Volland,B. Henrichs,1
+K. Volland,C. Ar\u00e1nguiz,1
+B. Henrichs,S. Bender,1
+Andr\u00e9 Ramalho,B. Leno,1
+B. Leno,J. Brandt,1
+B. Leno,S. Bender,1
+L. Bailey,C. Ar\u00e1nguiz,1
+J. Tah,B. Henrichs,1
+L. Bailey,J. Tah,1
+D. Kohr,S. Bender,1
+J. Brandt,B. Henrichs,1
+K. Bellarabi,K. Volland,1
+C. Ar\u00e1nguiz,Wendell,1
+J. Tah,B. Leno,1
+K. Bellarabi,D. Kohr,1
+D. Kohr,J. Brandt,1
+K. Bellarabi,B. Henrichs,1
+A. Mehmedi,J. Brandt,1
+C. Ar\u00e1nguiz,K. Volland,1
+B. Leno,K. Volland,1

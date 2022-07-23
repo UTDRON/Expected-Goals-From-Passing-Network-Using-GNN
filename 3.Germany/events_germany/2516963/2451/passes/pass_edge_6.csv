@@ -1,0 +1,19 @@
+Source,Target,Weight
+J. Bruma,D. Didavi,1
+J. Guilavogui,William,1
+P. Verhaegh,J. Guilavogui,1
+A. Mehmedi,P. Verhaegh,1
+D. Didavi,P. Verhaegh,1
+A. Mehmedi,D. Didavi,1
+D. Didavi,A. Mehmedi,1
+J. Bruma,William,1
+A. Mehmedi,J. Bruma,1
+D. Didavi,L. Dimata,1
+William,J. Bruma,1
+William,M. Arnold,1
+P. Verhaegh,D. Didavi,1
+L. Dimata,A. Mehmedi,1
+J. Bruma,P. Verhaegh,1
+M. Arnold,R. Knoche,1
+P. Verhaegh,A. Mehmedi,1
+R. Knoche,A. Mehmedi,1

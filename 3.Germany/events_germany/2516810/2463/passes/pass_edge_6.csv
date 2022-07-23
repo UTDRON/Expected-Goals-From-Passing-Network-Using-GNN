@@ -1,0 +1,25 @@
+Source,Target,Weight
+L. Bittencourt,K. Rausch,4
+K. Rausch,D. Heintz,3
+S. \u00d6zcan,L. Kl\u00fcnter,3
+Y. \u014csako,L. Bittencourt,2
+L. Kl\u00fcnter,F. S\u00f8rensen,2
+K. Rausch,Y. \u014csako,2
+K. Rausch,S. Zoller,2
+L. Kl\u00fcnter,K. Rausch,2
+D. Heintz,L. Bittencourt,1
+K. Rausch,S. \u00d6zcan,1
+S. Zoller,S. \u00d6zcan,1
+L. Bittencourt,S. \u00d6zcan,1
+S. \u00d6zcan,L. Bittencourt,1
+S. \u00d6zcan,K. Rausch,1
+D. Heintz,S. \u00d6zcan,1
+M. Joji\u0107,L. Kl\u00fcnter,1
+F. S\u00f8rensen,M. Joji\u0107,1
+F. S\u00f8rensen,D. Heintz,1
+D. Heintz,T. Horn,1
+L. Kl\u00fcnter,S. \u00d6zcan,1
+D. Heintz,L. Kl\u00fcnter,1
+T. Horn,L. Bittencourt,1
+D. Heintz,K. Rausch,1
+S. Zoller,Y. \u014csako,1

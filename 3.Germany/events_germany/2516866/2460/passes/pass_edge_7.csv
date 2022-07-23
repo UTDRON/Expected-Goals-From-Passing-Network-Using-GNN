@@ -1,0 +1,24 @@
+Source,Target,Weight
+R. Quaison,D. Brosinski,4
+D. Brosinski,R. Quaison,4
+G. Donati,L. Balogun,2
+S. Serdar,G. Donati,2
+G. Donati,F. Frei,2
+R. Zentner,L. Balogun,1
+D. Latza,D. Brosinski,1
+L. Balogun,R. Zentner,1
+F. Frei,S. Serdar,1
+D. Brosinski,G. Donati,1
+F. Frei,L. Balogun,1
+R. Quaison,J. Gbamin,1
+L. Balogun,D. Latza,1
+J. Gbamin,F. Frei,1
+L. Balogun,S. Serdar,1
+L. Balogun,J. Gbamin,1
+J. Gbamin,G. Donati,1
+J. Gbamin,D. Brosinski,1
+G. Donati,R. Quaison,1
+L. Balogun,G. Donati,1
+F. Frei,R. Quaison,1
+R. Quaison,D. Latza,1
+D. Latza,J. Gbamin,1

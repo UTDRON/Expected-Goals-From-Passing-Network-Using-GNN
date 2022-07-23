@@ -1,0 +1,85 @@
+Source,Target,Weight
+T. Mangani,Y. Andreu,10
+R. Thomas,Y. Andreu,7
+R. Thomas,I. Traor\u00e9,7
+Y. Andreu,B. Santamaria,7
+Y. Andreu,T. Mangani,6
+Y. Andreu,R. Thomas,6
+K. Toko Ekambi,A. Bamba,6
+A. Fulgini,P. Capelle,5
+A. Letellier,R. Thomas,5
+B. Guillaume,Y. Andreu,5
+B. Santamaria,T. Mangani,5
+B. Santamaria,Y. Andreu,4
+A. Bamba,P. Capelle,4
+P. Capelle,A. Fulgini,4
+I. Traor\u00e9,A. Letellier,4
+A. Fulgini,T. Mangani,4
+I. Traor\u00e9,A. Bamba,4
+K. Toko Ekambi,A. Fulgini,4
+Y. Andreu,K. Toko Ekambi,3
+T. Mangani,B. Santamaria,3
+A. Bamba,T. Mangani,3
+R. Thomas,B. Guillaume,3
+A. Bamba,I. Traor\u00e9,3
+T. Mangani,A. Fulgini,3
+B. Santamaria,R. Thomas,3
+A. Fulgini,I. Traor\u00e9,3
+A. Bamba,B. Santamaria,3
+T. Mangani,K. Toko Ekambi,3
+T. Mangani,R. Thomas,3
+R. Thomas,T. Mangani,3
+I. Traor\u00e9,B. Guillaume,2
+I. Traor\u00e9,A. Fulgini,2
+I. Traor\u00e9,T. Mangani,2
+Y. Andreu,A. Fulgini,2
+P. Capelle,K. Toko Ekambi,2
+R. Thomas,B. Santamaria,2
+A. Letellier,T. Mangani,2
+A. Letellier,B. Guillaume,2
+A. Bamba,K. Toko Ekambi,2
+P. Capelle,I. Traor\u00e9,2
+A. Letellier,Y. Andreu,2
+T. Mangani,P. Capelle,2
+I. Traor\u00e9,R. Thomas,2
+I. Traor\u00e9,K. Toko Ekambi,2
+Y. Andreu,B. Guillaume,2
+B. Santamaria,A. Fulgini,2
+A. Bamba,R. Thomas,2
+Y. Andreu,A. Bamba,2
+K. Toko Ekambi,Y. Andreu,2
+T. Mangani,A. Letellier,2
+B. Santamaria,I. Traor\u00e9,2
+K. Toko Ekambi,R. Thomas,2
+A. Fulgini,B. Guillaume,2
+B. Guillaume,A. Bamba,2
+B. Guillaume,B. Santamaria,2
+A. Fulgini,K. Toko Ekambi,2
+B. Santamaria,K. Toko Ekambi,2
+Y. Andreu,I. Traor\u00e9,2
+Y. Andreu,A. Letellier,1
+P. Capelle,B. Santamaria,1
+I. Traor\u00e9,P. Capelle,1
+P. Capelle,T. Mangani,1
+K. Toko Ekambi,T. Mangani,1
+K. Toko Ekambi,A. Letellier,1
+A. Fulgini,R. Thomas,1
+B. Santamaria,A. Bamba,1
+P. Capelle,Y. Andreu,1
+P. Capelle,A. Letellier,1
+R. Thomas,A. Letellier,1
+B. Guillaume,K. Toko Ekambi,1
+A. Bamba,B. Guillaume,1
+R. Thomas,A. Bamba,1
+A. Fulgini,A. Bamba,1
+K. Toko Ekambi,P. Capelle,1
+B. Guillaume,A. Fulgini,1
+P. Capelle,B. Guillaume,1
+B. Guillaume,P. Capelle,1
+P. Capelle,R. Thomas,1
+Y. Andreu,P. Capelle,1
+R. Thomas,K. Toko Ekambi,1
+B. Guillaume,A. Letellier,1
+P. Capelle,A. Bamba,1
+I. Traor\u00e9,Y. Andreu,1
+K. Toko Ekambi,B. Santamaria,1

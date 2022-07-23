@@ -1,0 +1,68 @@
+Source,Target,Weight
+W. Anton,M. Harnik,6
+J. Korb,N. F\u00fcllkrug,4
+W. Anton,J. Korb,4
+F. Klaus,J. Korb,4
+N. F\u00fcllkrug,W. Anton,4
+J. Korb,F. Klaus,4
+W. Anton,P. Schwegler,3
+N. F\u00fcllkrug,P. Schwegler,3
+F. H\u00fcbner,P. Tschauner,3
+J. Korb,W. Anton,3
+Felipe,P. Tschauner,3
+F. Klaus,M. Harnik,3
+M. Harnik,P. Tschauner,3
+M. Harnik,F. Klaus,3
+P. Schwegler,Felipe,3
+P. Tschauner,F. H\u00fcbner,3
+P. Schwegler,J. Korb,3
+P. Tschauner,M. Ostrzolek,2
+F. Klaus,W. Anton,2
+J. Korb,P. Schwegler,2
+M. Harnik,J. Korb,2
+M. Harnik,P. Schwegler,2
+F. H\u00fcbner,J. Korb,2
+P. Tschauner,N. F\u00fcllkrug,2
+F. Klaus,N. F\u00fcllkrug,2
+J. Korb,M. Harnik,2
+F. H\u00fcbner,W. Anton,2
+K. Karaman,W. Anton,2
+F. H\u00fcbner,K. Karaman,2
+J. Korb,F. H\u00fcbner,2
+M. Ostrzolek,Felipe,2
+P. Schwegler,F. Klaus,2
+N. F\u00fcllkrug,F. Klaus,2
+Felipe,F. H\u00fcbner,2
+W. Anton,M. Ostrzolek,2
+F. H\u00fcbner,Felipe,2
+Felipe,M. Ostrzolek,2
+M. Harnik,W. Anton,2
+F. H\u00fcbner,P. Schwegler,1
+M. Ostrzolek,P. Tschauner,1
+W. Anton,N. F\u00fcllkrug,1
+N. F\u00fcllkrug,K. Karaman,1
+N. F\u00fcllkrug,F. H\u00fcbner,1
+P. Schwegler,F. H\u00fcbner,1
+M. Ostrzolek,W. Anton,1
+K. Karaman,Felipe,1
+M. Ostrzolek,N. F\u00fcllkrug,1
+M. Ostrzolek,P. Schwegler,1
+P. Tschauner,P. Schwegler,1
+P. Tschauner,W. Anton,1
+W. Anton,Felipe,1
+P. Schwegler,W. Anton,1
+M. Ostrzolek,K. Karaman,1
+K. Karaman,M. Ostrzolek,1
+M. Harnik,F. H\u00fcbner,1
+P. Schwegler,M. Ostrzolek,1
+Felipe,N. F\u00fcllkrug,1
+P. Tschauner,Felipe,1
+W. Anton,F. H\u00fcbner,1
+N. F\u00fcllkrug,J. Korb,1
+Felipe,K. Karaman,1
+Felipe,M. Harnik,1
+K. Karaman,J. Korb,1
+F. H\u00fcbner,F. Klaus,1
+P. Schwegler,M. Harnik,1
+F. Klaus,F. H\u00fcbner,1
+M. Ostrzolek,F. H\u00fcbner,1

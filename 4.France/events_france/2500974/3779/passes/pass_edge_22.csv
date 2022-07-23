@@ -1,0 +1,20 @@
+Source,Target,Weight
+P. Martinez,E. Seka,2
+D. Li\u00e9nard,P. Martinez,2
+P. Martinez,B. Kon\u00e9,2
+E. Seka,P. Martinez,2
+E. Seka,D. Li\u00e9nard,2
+S. Bahoken,E. Seka,1
+K. Lala,E. Seka,1
+B. Kon\u00e9,K. Lala,1
+B. Kon\u00e9,J. Aholou,1
+J. Aholou,A. Oukidja,1
+D. Li\u00e9nard,S. Bahoken,1
+A. Oukidja,K. Lala,1
+E. Seka,J. Grimm,1
+J. Grimm,E. Seka,1
+K. Lala,J. Grimm,1
+P. Martinez,J. Blayac,1
+J. Aholou,P. Martinez,1
+J. Grimm,D. Li\u00e9nard,1
+J. Blayac,J. Aholou,1

@@ -1,0 +1,30 @@
+Source,Target,Weight
+T. Monconduit,G. Kakuta,3
+I. Cissokho,T. Monconduit,2
+P. Gouano,R. Gurtner,1
+T. Monconduit,I. Cissokho,1
+P. Gouano,E. Bourgaud,1
+O. El Hajjam,T. Monconduit,1
+P. Gouano,T. Monconduit,1
+H. Manzala,B. Dibassy,1
+B. Dibassy,R. Gurtner,1
+O. El Hajjam,P. Gouano,1
+E. Bourgaud,R. Gurtner,1
+T. Monconduit,E. Bourgaud,1
+E. Bourgaud,B. Dibassy,1
+I. Cissokho,G. Kakuta,1
+T. Monconduit,B. Dibassy,1
+G. Kakuta,O. El Hajjam,1
+R. Gurtner,E. Bourgaud,1
+R. Gurtner,T. Monconduit,1
+I. Cissokho,H. Manzala,1
+O. El Hajjam,E. Bourgaud,1
+E. Bourgaud,T. Monconduit,1
+G. Kakuta,P. Gouano,1
+B. Dibassy,O. El Hajjam,1
+G. Kakuta,E. Bourgaud,1
+R. Gurtner,I. Cissokho,1
+B. Dibassy,I. Cissokho,1
+E. Bourgaud,I. Cissokho,1
+E. Bourgaud,O. El Hajjam,1
+G. Kakuta,S. Mendoza,1

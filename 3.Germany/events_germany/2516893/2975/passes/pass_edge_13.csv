@@ -1,0 +1,22 @@
+Source,Target,Weight
+Y. Poulsen,K. Kampl,2
+S. Ilsanker,M. Sabitzer,1
+S. Ilsanker,T. Werner,1
+Y. Poulsen,D. Upamecano,1
+T. Werner,Y. Poulsen,1
+Bernardo,Y. Poulsen,1
+D. Demme,W. Orban,1
+P. Gul\u00e1csi,D. Demme,1
+M. Sabitzer,Bernardo,1
+K. Kampl,T. Werner,1
+T. Werner,K. Kampl,1
+D. Demme,K. Laimer,1
+D. Upamecano,Y. Poulsen,1
+K. Kampl,S. Ilsanker,1
+S. Ilsanker,D. Demme,1
+K. Laimer,D. Demme,1
+D. Demme,S. Ilsanker,1
+K. Kampl,K. Laimer,1
+W. Orban,S. Ilsanker,1
+D. Demme,T. Werner,1
+K. Laimer,P. Gul\u00e1csi,1

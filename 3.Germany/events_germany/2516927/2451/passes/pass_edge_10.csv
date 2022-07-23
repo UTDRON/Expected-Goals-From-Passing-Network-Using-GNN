@@ -1,0 +1,8 @@
+Source,Target,Weight
+J. Bruma,D. Origi,2
+D. Origi,M. Arnold,1
+M. Arnold,R. Steffen,1
+J. Bruma,M. Arnold,1
+M. Arnold,J. Bruma,1
+D. Origi,J. Bruma,1
+R. Steffen,D. Origi,1

@@ -1,0 +1,27 @@
+Source,Target,Weight
+B. Santamaria,R. Thomas,3
+E. Crivelli,L. Coulibaly,2
+K. Toko Ekambi,B. Santamaria,2
+T. Mangani,E. Crivelli,2
+A. Bamba,E. Crivelli,2
+B. Ketkeophomphone,T. Mangani,2
+V. Manceau,K. Toko Ekambi,2
+V. Manceau,R. Thomas,2
+R. Thomas,V. Manceau,1
+B. Santamaria,V. Manceau,1
+L. Coulibaly,B. Santamaria,1
+R. Thomas,A. Bamba,1
+R. Thomas,L. Coulibaly,1
+L. Coulibaly,B. Ketkeophomphone,1
+B. Santamaria,A. Bamba,1
+A. Bamba,T. Mangani,1
+T. Mangani,B. Santamaria,1
+K. Toko Ekambi,V. Manceau,1
+E. Crivelli,B. Ketkeophomphone,1
+A. Bamba,B. Santamaria,1
+E. Crivelli,A. Bamba,1
+T. Mangani,K. Toko Ekambi,1
+R. Thomas,M. Pavlovi\u0107,1
+L. Coulibaly,A. Bamba,1
+B. Santamaria,T. Mangani,1
+M. Pavlovi\u0107,V. Manceau,1

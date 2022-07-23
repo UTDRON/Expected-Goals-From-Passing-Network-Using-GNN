@@ -1,0 +1,39 @@
+Source,Target,Weight
+P. Verhaegh,J. B\u0142aszczykowski,3
+J. B\u0142aszczykowski,P. Verhaegh,3
+M. Tisserand,R. Knoche,2
+M. Arnold,M. Tisserand,2
+R. Steffen,F. Uduokhai,2
+F. Uduokhai,M. Tisserand,2
+R. Knoche,M. Tisserand,2
+William,R. Steffen,2
+M. Arnold,P. Verhaegh,1
+R. Steffen,William,1
+M. Tisserand,William,1
+F. Uduokhai,M. Arnold,1
+D. Origi,J. B\u0142aszczykowski,1
+M. Tisserand,R. Steffen,1
+J. B\u0142aszczykowski,F. Uduokhai,1
+R. Knoche,J. B\u0142aszczykowski,1
+R. Steffen,R. Knoche,1
+R. Knoche,D. Origi,1
+D. Origi,J. Guilavogui,1
+J. B\u0142aszczykowski,M. Arnold,1
+R. Knoche,F. Uduokhai,1
+J. B\u0142aszczykowski,R. Knoche,1
+William,K. Casteels,1
+P. Verhaegh,R. Knoche,1
+F. Uduokhai,R. Knoche,1
+K. Casteels,F. Uduokhai,1
+M. Tisserand,D. Origi,1
+F. Uduokhai,J. Guilavogui,1
+F. Uduokhai,J. B\u0142aszczykowski,1
+R. Knoche,K. Casteels,1
+J. Guilavogui,J. B\u0142aszczykowski,1
+M. Tisserand,F. Uduokhai,1
+J. B\u0142aszczykowski,R. Steffen,1
+K. Casteels,D. Origi,1
+R. Steffen,M. Arnold,1
+D. Origi,M. Arnold,1
+J. Guilavogui,William,1
+M. Arnold,D. Origi,1

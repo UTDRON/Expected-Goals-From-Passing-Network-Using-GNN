@@ -1,0 +1,43 @@
+Source,Target,Weight
+B. Henrichs,K. Bellarabi,4
+J. Tah,B. Henrichs,3
+B. Henrichs,A. Mehmedi,3
+K. Havertz,J. Tah,3
+C. Ar\u00e1nguiz,A. Mehmedi,3
+K. Bellarabi,B. Henrichs,3
+D. Kohr,B. Henrichs,2
+Wendell,C. Ar\u00e1nguiz,2
+K. Havertz,A. Mehmedi,2
+J. Tah,Wendell,2
+A. Mehmedi,Wendell,2
+A. Mehmedi,K. Havertz,2
+Wendell,K. Bellarabi,2
+J. Tah,S. Bender,2
+Wendell,D. Kohr,1
+S. Bender,K. Havertz,1
+K. Bellarabi,D. Kohr,1
+J. Pohjanpalo,Wendell,1
+B. Henrichs,J. Tah,1
+K. Bellarabi,C. Ar\u00e1nguiz,1
+S. Kie\u00dfling,J. Tah,1
+A. Mehmedi,D. Kohr,1
+A. Mehmedi,J. Pohjanpalo,1
+C. Ar\u00e1nguiz,B. Henrichs,1
+A. Mehmedi,S. Kie\u00dfling,1
+K. Havertz,D. Kohr,1
+A. Mehmedi,K. Bellarabi,1
+J. Tah,S. Kie\u00dfling,1
+S. Bender,Wendell,1
+S. Bender,J. Tah,1
+K. Bellarabi,J. Tah,1
+J. Pohjanpalo,S. Bender,1
+D. Kohr,K. Havertz,1
+K. Havertz,J. Pohjanpalo,1
+Wendell,S. Bender,1
+A. Mehmedi,J. Tah,1
+B. Henrichs,K. Havertz,1
+S. Bender,K. Bellarabi,1
+K. Bellarabi,A. Mehmedi,1
+K. Bellarabi,K. Havertz,1
+D. Kohr,C. Ar\u00e1nguiz,1
+Wendell,K. Havertz,1

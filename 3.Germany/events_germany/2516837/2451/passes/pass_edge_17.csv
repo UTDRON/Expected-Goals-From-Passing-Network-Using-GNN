@@ -1,0 +1,13 @@
+Source,Target,Weight
+D. Didavi,D. Origi,2
+D. Origi,D. Didavi,2
+J. Guilavogui,M. Arnold,2
+M. Arnold,M. G\u00f3mez,1
+M. Arnold,P. Verhaegh,1
+M. G\u00f3mez,D. Didavi,1
+M. G\u00f3mez,J. Brooks,1
+D. Origi,J. Guilavogui,1
+P. Verhaegh,D. Origi,1
+M. Arnold,J. Guilavogui,1
+D. Origi,M. Arnold,1
+J. Brooks,D. Origi,1

@@ -1,0 +1,45 @@
+Source,Target,Weight
+B. Dabo,K. Th\u00e9ophile Catherine,4
+S. Janko,B. Dabo,4
+B. Dabo,S. Janko,3
+V. Pajot,S. Janko,3
+J. Moulin,R. Cabella,3
+S. Janko,Hernani,3
+V. Pajot,B. Dabo,2
+R. Cabella,C. M'Bengue,2
+Hernani,K. Th\u00e9ophile Catherine,2
+Hernani,J. Moulin,2
+K. Th\u00e9ophile Catherine,B. Dabo,2
+L. Lacroix,J. Moulin,2
+S. Janko,V. Pajot,2
+S. Janko,L. Lacroix,2
+K. Th\u00e9ophile Catherine,S. Janko,2
+K. Th\u00e9ophile Catherine,V. Pajot,2
+J. Moulin,S. Janko,2
+L. Lacroix,Hernani,1
+B. Dabo,V. Pajot,1
+Hernani,L. Lacroix,1
+V. Pajot,K. Th\u00e9ophile Catherine,1
+R. Cabella,L. Lacroix,1
+L. Lacroix,V. Pajot,1
+Hernani,R. Cabella,1
+R. Cabella,S. Janko,1
+Gabriel Silva,J. Moulin,1
+C. M'Bengue,Gabriel Silva,1
+K. Th\u00e9ophile Catherine,R. Cabella,1
+B. Dabo,R. Cabella,1
+R. Cabella,Gabriel Silva,1
+R. Cabella,K. Th\u00e9ophile Catherine,1
+L. Lacroix,S. Janko,1
+R. Cabella,V. Pajot,1
+R. Cabella,Hernani,1
+C. M'Bengue,R. Cabella,1
+V. Pajot,R. Cabella,1
+Gabriel Silva,B. Dabo,1
+Hernani,V. Pajot,1
+V. Pajot,L. Lacroix,1
+S. Janko,R. Cabella,1
+Gabriel Silva,Hernani,1
+L. Lacroix,B. Dabo,1
+K. Th\u00e9ophile Catherine,Gabriel Silva,1
+B. Dabo,L. Lacroix,1

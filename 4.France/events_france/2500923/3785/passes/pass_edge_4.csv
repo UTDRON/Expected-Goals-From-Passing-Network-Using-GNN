@@ -1,0 +1,17 @@
+Source,Target,Weight
+L. Blas,C. Kerbrat,2
+F. Eboa Eboa,Pedro Rebocho,2
+F. Eboa Eboa,C. Kerbrat,2
+C. Kerbrat,F. Eboa Eboa,2
+Pedro Rebocho,F. Eboa Eboa,1
+Pedro Rebocho,N. Benezet,1
+F. Eboa Eboa,J. Briand,1
+J. Ikoko,M. Coco,1
+J. Briand,L. Blas,1
+N. Benezet,J. Ikoko,1
+J. Briand,F. Eboa Eboa,1
+C. Kerbrat,L. Blas,1
+N. Benezet,J. Briand,1
+C. Kerbrat,K. Johnsson,1
+K. Johnsson,F. Eboa Eboa,1
+M. Coco,N. Benezet,1

@@ -1,0 +1,48 @@
+Source,Target,Weight
+B. Kon\u00e9,K. Mangane,3
+D. Li\u00e9nard,B. Kon\u00e9,3
+D. Li\u00e9nard,P. Martinez,2
+K. Lala,Nuno Da Costa,2
+J. Aholou,D. Li\u00e9nard,2
+J. Martin,D. Li\u00e9nard,2
+S. Bahoken,M. Terrier,2
+P. Martinez,K. Lala,2
+M. Terrier,J. Martin,2
+K. Mangane,K. Lala,2
+Nuno Da Costa,J. Aholou,1
+J. Martin,P. Martinez,1
+D. Li\u00e9nard,Nuno Da Costa,1
+P. Martinez,B. Kon\u00e9,1
+P. Martinez,M. Terrier,1
+M. Terrier,P. Martinez,1
+K. Lala,J. Martin,1
+K. Lala,B. Kon\u00e9,1
+B. Kon\u00e9,K. Lala,1
+J. Martin,B. Kon\u00e9,1
+D. Li\u00e9nard,J. Aholou,1
+B. Kon\u00e9,S. Bahoken,1
+P. Martinez,K. Mangane,1
+K. Mangane,J. Aholou,1
+B. Kon\u00e9,J. Martin,1
+S. Bahoken,D. Li\u00e9nard,1
+J. Martin,S. Bahoken,1
+J. Aholou,P. Martinez,1
+B. Kon\u00e9,D. Li\u00e9nard,1
+D. Li\u00e9nard,J. Martin,1
+S. Bahoken,K. Lala,1
+B. Kon\u00e9,P. Martinez,1
+Nuno Da Costa,D. Li\u00e9nard,1
+D. Li\u00e9nard,S. Bahoken,1
+P. Martinez,J. Aholou,1
+J. Aholou,B. Kon\u00e9,1
+J. Martin,Nuno Da Costa,1
+M. Terrier,D. Li\u00e9nard,1
+L. Bonnefoi,J. Martin,1
+Nuno Da Costa,S. Bahoken,1
+J. Martin,M. Terrier,1
+K. Lala,L. Bonnefoi,1
+K. Lala,P. Martinez,1
+K. Mangane,B. Kon\u00e9,1
+S. Bahoken,J. Martin,1
+Nuno Da Costa,J. Martin,1
+P. Martinez,S. Bahoken,1

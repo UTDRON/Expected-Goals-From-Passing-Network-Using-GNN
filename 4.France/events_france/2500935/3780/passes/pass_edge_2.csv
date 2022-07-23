@@ -1,0 +1,15 @@
+Source,Target,Weight
+S. Yago,I. Sylla,2
+G. Imbula,K. Amian,2
+I. Sylla,Y. Sanogo,1
+I. Sylla,A. Lafont,1
+M. Gradel,Y. Sanogo,1
+K. Amian,G. Imbula,1
+Y. Sanogo,M. Gradel,1
+G. Imbula,S. Yago,1
+A. Lafont,Y. Sanogo,1
+Y. Sanogo,G. Imbula,1
+I. Sylla,I. Diop,1
+K. Amian,I. Sylla,1
+I. Diop,A. Blin,1
+A. Blin,S. Yago,1

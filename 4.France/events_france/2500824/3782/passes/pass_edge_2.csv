@@ -1,0 +1,49 @@
+Source,Target,Weight
+R. Pierre-Gabriel,V. Pajot,4
+V. Pajot,K. Th\u00e9ophile Catherine,4
+V. Pajot,R. Pierre-Gabriel,3
+R. Pierre-Gabriel,A. Diouss\u00e9,3
+A. Diouss\u00e9,V. Pajot,3
+K. Th\u00e9ophile Catherine,R. Pierre-Gabriel,3
+J. Bamba,L. Perrin,2
+A. Diouss\u00e9,R. Pierre-Gabriel,2
+F. Pogba,K. Monnet-Paquet,2
+F. Pogba,L. Perrin,2
+Hernani,K. Th\u00e9ophile Catherine,1
+J. Bamba,A. Diouss\u00e9,1
+V. Pajot,F. Pogba,1
+L. Perrin,K. Th\u00e9ophile Catherine,1
+V. Pajot,Hernani,1
+Hernani,F. Pogba,1
+Hernani,V. Pajot,1
+R. Pierre-Gabriel,L. Perrin,1
+K. Monnet-Paquet,F. Pogba,1
+J. Bamba,Hernani,1
+K. Monnet-Paquet,V. Pajot,1
+J. Bamba,A. S\u00f8derlund,1
+A. Diouss\u00e9,J. Bamba,1
+K. Monnet-Paquet,J. Bamba,1
+R. Pierre-Gabriel,K. Monnet-Paquet,1
+S. Ruffier,A. Diouss\u00e9,1
+L. Perrin,V. Pajot,1
+K. Th\u00e9ophile Catherine,K. Monnet-Paquet,1
+A. Diouss\u00e9,F. Pogba,1
+L. Perrin,R. Pierre-Gabriel,1
+J. Bamba,K. Monnet-Paquet,1
+F. Pogba,R. Pierre-Gabriel,1
+F. Pogba,K. Th\u00e9ophile Catherine,1
+R. Pierre-Gabriel,J. Bamba,1
+L. Perrin,J. Bamba,1
+J. Bamba,F. Pogba,1
+L. Perrin,F. Pogba,1
+V. Pajot,A. Diouss\u00e9,1
+K. Th\u00e9ophile Catherine,S. Ruffier,1
+S. Ruffier,L. Perrin,1
+F. Pogba,J. Bamba,1
+Hernani,J. Bamba,1
+K. Th\u00e9ophile Catherine,A. Diouss\u00e9,1
+R. Pierre-Gabriel,F. Pogba,1
+K. Monnet-Paquet,Hernani,1
+K. Monnet-Paquet,R. Pierre-Gabriel,1
+L. Perrin,S. Ruffier,1
+K. Th\u00e9ophile Catherine,J. Bamba,1

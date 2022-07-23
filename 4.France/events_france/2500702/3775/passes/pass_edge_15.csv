@@ -1,0 +1,21 @@
+Source,Target,Weight
+Dante,V. Koziello,3
+V. Koziello,Dante,2
+V. Koziello,A. Pl\u00e9a,2
+C. Jallet,V. Koziello,2
+V. Koziello,C. Jallet,2
+H. Mahou,P. Lees Melou,1
+A. Souquet,V. Koziello,1
+P. Lees Melou,Dante,1
+A. Saint-Maximin,A. Souquet,1
+M. Le Marchand,J. Seri,1
+A. Souquet,Dante,1
+A. Souquet,A. Saint-Maximin,1
+V. Koziello,A. Souquet,1
+P. Lees Melou,H. Mahou,1
+P. Lees Melou,V. Koziello,1
+C. Jallet,M. Le Marchand,1
+H. Mahou,C. Jallet,1
+J. Seri,P. Lees Melou,1
+A. Pl\u00e9a,P. Lees Melou,1
+Dante,A. Souquet,1

@@ -1,0 +1,25 @@
+Source,Target,Weight
+A. Confais,J. Giraudon,2
+S. Darbion,C. Traor\u00e9,2
+A. Confais,C. Traor\u00e9,2
+C. H\u00e9relle,S. Darbion,2
+J. Giraudon,M. Deplagne,2
+C. Traor\u00e9,C. H\u00e9relle,2
+C. Traor\u00e9,A. Confais,2
+S. Khaoui,Suk Hyun-Jun,1
+C. H\u00e9relle,J. Giraudon,1
+F. Bellugou,S. Khaoui,1
+M. Deplagne,S. Darbion,1
+Suk Hyun-Jun,M. Deplagne,1
+S. Khaoui,M. Deplagne,1
+M. Deplagne,C. H\u00e9relle,1
+S. Darbion,A. Confais,1
+J. Giraudon,S. Khaoui,1
+M. Deplagne,J. Giraudon,1
+F. Bellugou,A. Confais,1
+S. Khaoui,F. Bellugou,1
+J. Giraudon,Suk Hyun-Jun,1
+C. H\u00e9relle,C. Traor\u00e9,1
+C. Traor\u00e9,S. Darbion,1
+M. Deplagne,F. Bellugou,1
+Suk Hyun-Jun,C. H\u00e9relle,1

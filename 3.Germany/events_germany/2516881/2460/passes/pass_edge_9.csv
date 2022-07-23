@@ -1,0 +1,21 @@
+Source,Target,Weight
+D. Latza,A. Diallo,3
+S. Serdar,D. Latza,2
+E. Berggreen,F. Frei,2
+A. Diallo,E. Berggreen,2
+F. Frei,A. Hack,2
+A. Maxim,D. Brosinski,1
+A. Hack,A. Maxim,1
+D. Latza,A. Maxim,1
+S. Serdar,L. Balogun,1
+D. Brosinski,D. Latza,1
+D. Latza,S. Serdar,1
+L. Balogun,S. Serdar,1
+S. Serdar,A. Maxim,1
+A. Hack,D. Latza,1
+A. Diallo,D. Latza,1
+F. Frei,S. Serdar,1
+D. Latza,F. Frei,1
+A. Maxim,S. Serdar,1
+S. Serdar,A. Hack,1
+A. Hack,S. Serdar,1

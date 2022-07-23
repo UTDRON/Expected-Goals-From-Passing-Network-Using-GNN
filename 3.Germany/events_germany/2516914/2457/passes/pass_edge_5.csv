@@ -1,0 +1,26 @@
+Source,Target,Weight
+T. Kraft,V. Ibi\u0161evi\u0107,2
+P. Skjelbred,T. Kraft,2
+P. Pekar\u00edk,V. Lazaro,2
+M. Leckie,P. Pekar\u00edk,2
+J. Torunarigha,S. Kalou,1
+V. Lazaro,J. Torunarigha,1
+P. Pekar\u00edk,M. Leckie,1
+J. Torunarigha,P. Skjelbred,1
+A. Maier,P. Pekar\u00edk,1
+A. Maier,P. Skjelbred,1
+A. Maier,V. Lazaro,1
+J. Torunarigha,T. Kraft,1
+V. Lazaro,A. Maier,1
+V. Ibi\u0161evi\u0107,P. Skjelbred,1
+P. Skjelbred,V. Lazaro,1
+T. Kraft,J. Torunarigha,1
+S. Kalou,P. Skjelbred,1
+P. Skjelbred,M. Leckie,1
+M. Plattenhardt,A. Maier,1
+V. Ibi\u0161evi\u0107,S. Kalou,1
+P. Skjelbred,M. Plattenhardt,1
+P. Pekar\u00edk,P. Skjelbred,1
+V. Lazaro,P. Pekar\u00edk,1
+S. Kalou,J. Torunarigha,1
+P. Skjelbred,A. Maier,1

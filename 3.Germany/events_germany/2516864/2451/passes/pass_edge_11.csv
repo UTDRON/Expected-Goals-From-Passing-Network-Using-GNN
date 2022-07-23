@@ -1,0 +1,20 @@
+Source,Target,Weight
+D. Didavi,Y. Mall\u0131,2
+Y. Mall\u0131,M. G\u00f3mez,2
+Y. Mall\u0131,Y. Gerhardt,2
+K. Casteels,Y. Mall\u0131,2
+Y. Gerhardt,K. Casteels,1
+J. Guilavogui,K. Casteels,1
+J. Brooks,J. Guilavogui,1
+J. Guilavogui,William,1
+K. Casteels,J. Brooks,1
+K. Casteels,D. Didavi,1
+Y. Mall\u0131,K. Casteels,1
+M. G\u00f3mez,D. Didavi,1
+P. Verhaegh,J. Guilavogui,1
+Y. Gerhardt,Y. Mall\u0131,1
+F. Uduokhai,P. Verhaegh,1
+Y. Gerhardt,William,1
+William,Y. Gerhardt,1
+M. G\u00f3mez,J. Guilavogui,1
+William,K. Casteels,1

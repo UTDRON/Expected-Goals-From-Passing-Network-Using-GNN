@@ -1,0 +1,24 @@
+Source,Target,Weight
+L. Kurzawa,Neymar,3
+G. Lo Celso,Thiago Silva,2
+P. Kimpembe,G. Lo Celso,2
+P. Kimpembe,L. Kurzawa,2
+M. Verratti,J. Pastore,2
+J. Pastore,L. Kurzawa,2
+G. Lo Celso,P. Kimpembe,2
+G. Lo Celso,J. Pastore,1
+J. Pastore,M. Verratti,1
+L. Kurzawa,P. Kimpembe,1
+L. Kurzawa,J. Pastore,1
+Thiago Silva,T. Meunier,1
+T. Meunier,G. Lo Celso,1
+Neymar,L. Kurzawa,1
+L. Kurzawa,G. Lo Celso,1
+M. Verratti,P. Kimpembe,1
+Thiago Silva,M. Verratti,1
+Neymar,M. Verratti,1
+J. Pastore,\u00c1. di Mar\u00eda,1
+Neymar,T. Meunier,1
+\u00c1. di Mar\u00eda,Thiago Silva,1
+T. Meunier,E. Cavani,1
+Thiago Silva,G. Lo Celso,1

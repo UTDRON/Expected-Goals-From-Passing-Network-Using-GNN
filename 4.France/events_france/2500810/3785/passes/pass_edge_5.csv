@@ -1,0 +1,16 @@
+Source,Target,Weight
+C. Kerbrat,\u00c9. Didot,2
+\u00c9. Didot,C. Kerbrat,2
+\u00c9. Didot,J. Martins-Pereira,2
+J. Martins-Pereira,\u00c9. Didot,2
+R. Camara,L. Deaux,1
+\u00c9. Didot,R. Camara,1
+F. Tabanou,C. Kerbrat,1
+J. Martins-Pereira,J. Sorbon,1
+\u00c9. Didot,F. Tabanou,1
+F. Tabanou,L. Deaux,1
+R. Camara,J. Martins-Pereira,1
+C. Kerbrat,R. Camara,1
+L. Deaux,\u00c9. Didot,1
+L. Deaux,F. Tabanou,1
+J. Sorbon,Y. Salibur,1

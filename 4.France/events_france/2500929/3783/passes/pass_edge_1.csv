@@ -1,0 +1,29 @@
+Source,Target,Weight
+A. Djiku,R. Vercoutre,2
+R. Vercoutre,R. Rodelin,2
+D. Avounou,A. Djiku,2
+D. Avounou,R. Rodelin,1
+F. Guilbert,R. Genevois,1
+E. Crivelli,A. Djiku,1
+R. Genevois,E. Crivelli,1
+J. F\u00e9ret,D. Da Silva,1
+R. Rodelin,F. Guilbert,1
+E. Crivelli,D. Avounou,1
+J. F\u00e9ret,D. Avounou,1
+R. Vercoutre,R. Genevois,1
+Y. A\u00eft Bennasser,J. F\u00e9ret,1
+R. Genevois,D. Avounou,1
+D. Da Silva,E. Crivelli,1
+R. Rodelin,R. Genevois,1
+R. Rodelin,J. F\u00e9ret,1
+Y. A\u00eft Bennasser,R. Vercoutre,1
+E. Crivelli,F. Guilbert,1
+J. F\u00e9ret,S. Peeters,1
+A. Djiku,D. Avounou,1
+J. F\u00e9ret,Y. A\u00eft Bennasser,1
+S. Peeters,R. Rodelin,1
+R. Genevois,R. Vercoutre,1
+F. Guilbert,E. Crivelli,1
+R. Rodelin,Y. A\u00eft Bennasser,1
+R. Vercoutre,J. F\u00e9ret,1
+D. Avounou,Y. A\u00eft Bennasser,1

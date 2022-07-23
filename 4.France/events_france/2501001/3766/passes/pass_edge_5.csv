@@ -1,0 +1,57 @@
+Source,Target,Weight
+Rafael,J. Ferri,5
+T. Ndomb\u00e8l\u00e9,H. Aouar,4
+Marcelo,Rafael,4
+Marcelo,J. Morel,4
+Rafael,Marcelo,4
+J. Morel,H. Aouar,4
+J. Ferri,Marcelo,4
+J. Ferri,Rafael,4
+F. Mendy,T. Ndomb\u00e8l\u00e9,4
+J. Ferri,B. Traor\u00e9,3
+J. Ferri,H. Aouar,3
+F. Mendy,J. Morel,3
+H. Aouar,J. Ferri,3
+H. Aouar,F. Mendy,3
+M. Depay,Marcelo,3
+H. Aouar,M. Depay,3
+J. Morel,T. Ndomb\u00e8l\u00e9,2
+J. Morel,Rafael,2
+J. Morel,Marcelo,2
+J. Morel,J. Ferri,2
+Marcelo,T. Ndomb\u00e8l\u00e9,2
+B. Traor\u00e9,J. Morel,2
+Rafael,L. Tousart,2
+H. Aouar,J. Morel,2
+L. Tousart,H. Aouar,2
+L. Tousart,Rafael,2
+T. Ndomb\u00e8l\u00e9,Marcelo,2
+Marcelo,J. Ferri,2
+Marcelo,H. Aouar,2
+H. Aouar,L. Tousart,2
+L. Tousart,A. Lopes,1
+B. Traor\u00e9,T. Ndomb\u00e8l\u00e9,1
+B. Traor\u00e9,F. Mendy,1
+M. Depay,T. Ndomb\u00e8l\u00e9,1
+F. Mendy,A. Lopes,1
+T. Ndomb\u00e8l\u00e9,J. Morel,1
+L. Tousart,J. Morel,1
+H. Aouar,B. Traor\u00e9,1
+A. Lopes,F. Mendy,1
+M. Depay,Rafael,1
+B. Traor\u00e9,Marcelo,1
+Rafael,B. Traor\u00e9,1
+F. Mendy,M. Depay,1
+J. Morel,L. Tousart,1
+L. Tousart,F. Mendy,1
+H. Aouar,Marcelo,1
+B. Traor\u00e9,J. Ferri,1
+Rafael,F. Mendy,1
+J. Ferri,F. Mendy,1
+A. Lopes,M. Depay,1
+M. Depay,J. Ferri,1
+T. Ndomb\u00e8l\u00e9,F. Mendy,1
+Marcelo,L. Tousart,1
+T. Ndomb\u00e8l\u00e9,L. Tousart,1
+Marcelo,B. Traor\u00e9,1
+T. Ndomb\u00e8l\u00e9,M. Depay,1

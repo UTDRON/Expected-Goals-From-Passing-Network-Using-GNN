@@ -1,0 +1,79 @@
+Source,Target,Weight
+D. Upamecano,S. Ilsanker,10
+D. Upamecano,Bernardo,9
+Bernardo,N. Ke\u00efta,8
+N. Ke\u00efta,Bernardo,8
+S. Ilsanker,K. Kampl,7
+S. Ilsanker,D. Upamecano,6
+N. Ke\u00efta,E. Forsberg,6
+Bernardo,D. Upamecano,6
+S. Ilsanker,P. Gul\u00e1csi,5
+P. Gul\u00e1csi,S. Ilsanker,5
+K. Kampl,S. Ilsanker,5
+J. Augustin,D. Upamecano,5
+Bernardo,J. Augustin,5
+N. Ke\u00efta,K. Kampl,5
+D. Upamecano,E. Forsberg,5
+J. Augustin,N. Ke\u00efta,4
+S. Ilsanker,Bernardo,4
+K. Kampl,L. Klostermann,4
+K. Kampl,N. Ke\u00efta,4
+Bernardo,T. Werner,4
+L. Klostermann,K. Kampl,4
+D. Upamecano,N. Ke\u00efta,4
+E. Forsberg,S. Ilsanker,3
+K. Kampl,D. Upamecano,3
+Bernardo,E. Forsberg,3
+E. Forsberg,Bernardo,3
+K. Kampl,P. Gul\u00e1csi,3
+Bernardo,S. Ilsanker,3
+N. Ke\u00efta,D. Upamecano,3
+D. Upamecano,P. Gul\u00e1csi,3
+L. Klostermann,J. Augustin,3
+S. Ilsanker,L. Klostermann,3
+E. Forsberg,N. Ke\u00efta,3
+P. Gul\u00e1csi,D. Upamecano,3
+E. Forsberg,D. Upamecano,3
+N. Ke\u00efta,K. Laimer,2
+S. Ilsanker,K. Laimer,2
+L. Klostermann,P. Gul\u00e1csi,2
+D. Demme,N. Ke\u00efta,2
+N. Ke\u00efta,T. Werner,2
+K. Laimer,D. Upamecano,2
+P. Gul\u00e1csi,Bernardo,2
+P. Gul\u00e1csi,J. Augustin,2
+E. Forsberg,K. Laimer,2
+L. Klostermann,D. Upamecano,2
+T. Werner,E. Forsberg,2
+T. Werner,Bernardo,2
+K. Laimer,K. Kampl,2
+J. Augustin,Bernardo,2
+N. Ke\u00efta,J. Augustin,2
+D. Upamecano,K. Laimer,2
+J. Augustin,L. Klostermann,2
+K. Laimer,S. Ilsanker,2
+T. Werner,N. Ke\u00efta,2
+S. Ilsanker,T. Werner,1
+L. Klostermann,T. Werner,1
+L. Klostermann,S. Ilsanker,1
+P. Gul\u00e1csi,E. Forsberg,1
+K. Laimer,J. Augustin,1
+T. Werner,S. Ilsanker,1
+E. Forsberg,L. Klostermann,1
+Bernardo,P. Gul\u00e1csi,1
+E. Forsberg,D. Demme,1
+E. Forsberg,K. Kampl,1
+E. Forsberg,T. Werner,1
+K. Laimer,Bernardo,1
+S. Ilsanker,N. Ke\u00efta,1
+J. Augustin,K. Laimer,1
+Bernardo,K. Laimer,1
+S. Ilsanker,J. Augustin,1
+N. Ke\u00efta,D. Demme,1
+P. Gul\u00e1csi,L. Klostermann,1
+J. Augustin,S. Ilsanker,1
+D. Upamecano,J. Augustin,1
+K. Laimer,N. Ke\u00efta,1
+K. Laimer,L. Klostermann,1
+T. Werner,L. Klostermann,1
+S. Ilsanker,E. Forsberg,1

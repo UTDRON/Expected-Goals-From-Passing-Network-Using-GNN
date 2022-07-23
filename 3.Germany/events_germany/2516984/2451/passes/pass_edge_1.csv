@@ -1,0 +1,69 @@
+Source,Target,Weight
+Camacho,William,6
+V. Osimhen,P. Verhaegh,5
+P. Verhaegh,Camacho,4
+M. Arnold,Camacho,4
+J. Guilavogui,P. Verhaegh,4
+Camacho,J. Guilavogui,4
+J. Guilavogui,V. Osimhen,3
+J. Brekalo,R. Knoche,3
+R. Knoche,William,3
+R. Knoche,J. Bruma,3
+William,Camacho,3
+P. Verhaegh,J. Bruma,3
+William,L. Dimata,3
+R. Knoche,M. Arnold,3
+J. Bruma,R. Knoche,2
+P. Verhaegh,L. Dimata,2
+V. Osimhen,L. Dimata,2
+V. Osimhen,R. Knoche,2
+Camacho,P. Verhaegh,2
+William,R. Knoche,2
+J. Bruma,V. Osimhen,2
+M. Arnold,J. Brekalo,2
+K. Casteels,R. Knoche,2
+L. Dimata,J. Guilavogui,2
+J. Bruma,P. Verhaegh,2
+William,V. Osimhen,2
+P. Verhaegh,M. Arnold,2
+R. Knoche,P. Verhaegh,2
+L. Dimata,P. Verhaegh,2
+P. Verhaegh,William,2
+K. Casteels,V. Osimhen,2
+P. Verhaegh,V. Osimhen,2
+William,J. Brekalo,2
+R. Knoche,K. Casteels,1
+L. Dimata,K. Casteels,1
+J. Bruma,J. Guilavogui,1
+L. Dimata,J. Bruma,1
+Camacho,J. Brekalo,1
+L. Dimata,Camacho,1
+Camacho,J. Bruma,1
+P. Verhaegh,R. Knoche,1
+J. Guilavogui,L. Dimata,1
+R. Knoche,V. Osimhen,1
+P. Verhaegh,J. Guilavogui,1
+J. Bruma,Camacho,1
+J. Guilavogui,K. Casteels,1
+V. Osimhen,K. Casteels,1
+K. Casteels,L. Dimata,1
+J. Brekalo,J. Guilavogui,1
+K. Casteels,William,1
+William,M. Arnold,1
+J. Guilavogui,R. Knoche,1
+J. Brekalo,William,1
+P. Verhaegh,K. Casteels,1
+L. Dimata,William,1
+L. Dimata,R. Knoche,1
+Camacho,K. Casteels,1
+K. Casteels,J. Brekalo,1
+L. Dimata,M. Arnold,1
+M. Arnold,L. Dimata,1
+J. Brekalo,Camacho,1
+Camacho,M. Arnold,1
+J. Bruma,K. Casteels,1
+V. Osimhen,Camacho,1
+R. Knoche,Camacho,1
+V. Osimhen,J. Guilavogui,1
+William,P. Verhaegh,1
+M. Arnold,J. Bruma,1

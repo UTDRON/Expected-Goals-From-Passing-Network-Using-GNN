@@ -1,0 +1,55 @@
+Source,Target,Weight
+M. Sanson,F. Thauvin,4
+H. Sakai,F. Thauvin,4
+F. Thauvin,M. Sanson,4
+L. Ocampos,J. Amavi,3
+F. Thauvin,A. Rami,3
+L. Ocampos,Luiz Gustavo,3
+J. Amavi,L. Ocampos,2
+F. Thauvin,A. Zambo Anguissa,2
+Rolando,A. Zambo Anguissa,2
+A. Zambo Anguissa,Rolando,2
+Y. Pel\u00e9,L. Ocampos,2
+H. Sakai,V. Germain,2
+Luiz Gustavo,A. Zambo Anguissa,2
+A. Zambo Anguissa,V. Germain,2
+A. Rami,M. Sanson,2
+J. Amavi,M. Sanson,2
+L. Ocampos,F. Thauvin,2
+M. Sanson,L. Ocampos,2
+F. Thauvin,L. Ocampos,2
+J. Amavi,F. Thauvin,2
+L. Ocampos,A. Zambo Anguissa,1
+F. Thauvin,J. Amavi,1
+A. Rami,Rolando,1
+A. Rami,Y. Pel\u00e9,1
+Luiz Gustavo,J. Amavi,1
+J. Amavi,Rolando,1
+V. Germain,A. Zambo Anguissa,1
+J. Amavi,Y. Pel\u00e9,1
+Rolando,A. Rami,1
+M. Sanson,Luiz Gustavo,1
+A. Zambo Anguissa,L. Ocampos,1
+Y. Pel\u00e9,Rolando,1
+Rolando,H. Sakai,1
+A. Zambo Anguissa,H. Sakai,1
+A. Zambo Anguissa,J. Amavi,1
+L. Ocampos,Rolando,1
+Luiz Gustavo,A. Rami,1
+V. Germain,F. Thauvin,1
+V. Germain,Luiz Gustavo,1
+Luiz Gustavo,H. Sakai,1
+Rolando,Y. Pel\u00e9,1
+A. Rami,Luiz Gustavo,1
+H. Sakai,A. Zambo Anguissa,1
+M. Sanson,J. Amavi,1
+V. Germain,H. Sakai,1
+Rolando,Luiz Gustavo,1
+A. Zambo Anguissa,M. Sanson,1
+J. Amavi,H. Sakai,1
+Rolando,J. Amavi,1
+A. Rami,H. Sakai,1
+Luiz Gustavo,L. Ocampos,1
+F. Thauvin,H. Sakai,1
+Luiz Gustavo,Rolando,1
+A. Zambo Anguissa,A. Rami,1

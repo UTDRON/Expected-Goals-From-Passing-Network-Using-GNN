@@ -1,0 +1,53 @@
+Source,Target,Weight
+P. Djilobodji,O. Haddadi,7
+P. Djilobodji,Xeka,6
+Xeka,M. Abeid,4
+C. Yamber\u00e9,P. Djilobodji,4
+O. Haddadi,Xeka,3
+Xeka,P. Djilobodji,3
+C. Yamber\u00e9,W. Sa\u00efd,3
+V. Rosier,C. Yamber\u00e9,3
+Xeka,C. Yamber\u00e9,3
+O. Haddadi,P. Djilobodji,3
+M. Abeid,C. Yamber\u00e9,3
+Xeka,F. Sammaritano,2
+O. Haddadi,M. Abeid,2
+F. Sammaritano,O. Haddadi,2
+M. Abeid,J\u00falio Tavares,2
+O. Haddadi,B. Reynet,2
+Xeka,Kwon Chang-Hoon,2
+V. Rosier,M. Abeid,2
+M. Abeid,P. Djilobodji,2
+M. Abeid,V. Rosier,2
+C. Yamber\u00e9,V. Rosier,2
+C. Yamber\u00e9,Xeka,2
+W. Sa\u00efd,Kwon Chang-Hoon,1
+C. Yamber\u00e9,M. Abeid,1
+V. Rosier,O. Haddadi,1
+M. Abeid,Xeka,1
+W. Sa\u00efd,P. Djilobodji,1
+W. Sa\u00efd,M. Abeid,1
+C. Yamber\u00e9,B. Reynet,1
+J\u00falio Tavares,F. Sammaritano,1
+F. Sammaritano,V. Rosier,1
+Xeka,V. Rosier,1
+V. Rosier,P. Djilobodji,1
+Xeka,O. Haddadi,1
+F. Sammaritano,Xeka,1
+P. Djilobodji,M. Abeid,1
+W. Sa\u00efd,Xeka,1
+F. Sammaritano,C. Yamber\u00e9,1
+B. Reynet,Xeka,1
+Kwon Chang-Hoon,W. Sa\u00efd,1
+P. Djilobodji,C. Yamber\u00e9,1
+B. Reynet,C. Yamber\u00e9,1
+M. Abeid,W. Sa\u00efd,1
+J\u00falio Tavares,C. Yamber\u00e9,1
+V. Rosier,F. Sammaritano,1
+Kwon Chang-Hoon,V. Rosier,1
+J\u00falio Tavares,P. Djilobodji,1
+V. Rosier,Xeka,1
+B. Reynet,P. Djilobodji,1
+O. Haddadi,J\u00falio Tavares,1
+P. Djilobodji,V. Rosier,1
+Kwon Chang-Hoon,F. Sammaritano,1

@@ -1,0 +1,23 @@
+Source,Target,Weight
+F. Grillitsch,K. Akpoguma,4
+K. Akpoguma,F. Grillitsch,2
+N. Amiri,F. Grillitsch,1
+D. Geiger,N. Amiri,1
+S. Wagner,N. Schulz,1
+F. Grillitsch,D. Geiger,1
+K. Akpoguma,K. Demirbay,1
+N. Schulz,F. Grillitsch,1
+D. Geiger,F. Grillitsch,1
+N. Schulz,S. Wagner,1
+K. Akpoguma,S. Posch,1
+K. Demirbay,D. Geiger,1
+S. Posch,K. Demirbay,1
+S. Wagner,D. Geiger,1
+K. Akpoguma,D. Geiger,1
+O. Baumann,K. Akpoguma,1
+F. Grillitsch,N. Amiri,1
+K. Akpoguma,O. Baumann,1
+D. Geiger,K. Demirbay,1
+K. Demirbay,F. Grillitsch,1
+N. Amiri,S. Wagner,1
+K. Demirbay,N. Schulz,1

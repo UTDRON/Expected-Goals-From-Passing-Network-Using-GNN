@@ -1,0 +1,18 @@
+Source,Target,Weight
+J. Roussillon,B. Lecomte,1
+R. Aguilar,Hilton,1
+R. Aguilar,J. Sambia,1
+P. Lasne,R. Aguilar,1
+J. Sambia,E. Skhiri,1
+P. Lasne,J. Roussillon,1
+B. Lecomte,P. Lasne,1
+Hilton,R. Aguilar,1
+J. Roussillon,P. Lasne,1
+J. Sambia,N. Mukiele,1
+R. Aguilar,J. Roussillon,1
+N. Mukiele,S. Sess\u00e8gnon,1
+N. Mukiele,J. Sambia,1
+E. Skhiri,N. Mukiele,1
+S. Sess\u00e8gnon,S. Camara,1
+E. Skhiri,R. Aguilar,1
+S. Camara,P. Lasne,1

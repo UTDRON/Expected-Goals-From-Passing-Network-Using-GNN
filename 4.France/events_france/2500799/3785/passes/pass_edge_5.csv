@@ -1,0 +1,51 @@
+Source,Target,Weight
+R. Camara,J. Briand,3
+M. Coco,J. Martins-Pereira,3
+C. Kerbrat,K. Johnsson,3
+Pedro Rebocho,F. Eboa Eboa,3
+C. Kerbrat,L. Deaux,3
+C. Kerbrat,J. Briand,3
+F. Eboa Eboa,K. Johnsson,3
+K. Johnsson,F. Eboa Eboa,3
+J. Briand,M. Thuram,2
+J. Briand,Pedro Rebocho,2
+L. Deaux,F. Eboa Eboa,2
+M. Coco,L. Deaux,2
+J. Briand,L. Blas,2
+F. Eboa Eboa,R. Camara,2
+F. Eboa Eboa,C. Kerbrat,2
+L. Deaux,M. Coco,2
+L. Deaux,R. Camara,2
+K. Johnsson,C. Kerbrat,2
+J. Martins-Pereira,C. Kerbrat,2
+F. Eboa Eboa,Pedro Rebocho,2
+Pedro Rebocho,R. Camara,1
+J. Briand,R. Camara,1
+M. Thuram,R. Camara,1
+L. Blas,Pedro Rebocho,1
+L. Blas,M. Coco,1
+J. Martins-Pereira,M. Coco,1
+L. Deaux,Pedro Rebocho,1
+M. Thuram,J. Martins-Pereira,1
+F. Eboa Eboa,L. Deaux,1
+L. Blas,J. Martins-Pereira,1
+M. Thuram,M. Coco,1
+M. Thuram,J. Briand,1
+M. Coco,C. Kerbrat,1
+R. Camara,L. Deaux,1
+K. Johnsson,L. Deaux,1
+R. Camara,Pedro Rebocho,1
+J. Briand,C. Kerbrat,1
+Pedro Rebocho,L. Blas,1
+L. Deaux,K. Johnsson,1
+J. Martins-Pereira,L. Deaux,1
+Pedro Rebocho,M. Thuram,1
+J. Martins-Pereira,J. Briand,1
+R. Camara,K. Johnsson,1
+L. Blas,F. Eboa Eboa,1
+Pedro Rebocho,L. Deaux,1
+K. Johnsson,M. Coco,1
+L. Deaux,L. Blas,1
+J. Martins-Pereira,F. Eboa Eboa,1
+L. Deaux,C. Kerbrat,1
+K. Johnsson,J. Martins-Pereira,1

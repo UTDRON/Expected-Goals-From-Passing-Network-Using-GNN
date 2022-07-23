@@ -1,0 +1,27 @@
+Source,Target,Weight
+M. Gradel,A. Lafont,2
+A. Lafont,O. Toivonen,2
+K. Amian,M. Gradel,2
+A. Delort,K. Amian,2
+G. Imbula,A. Delort,1
+O. Toivonen,C. Jean,1
+K. Amian,A. Delort,1
+C. Jean,G. Imbula,1
+A. Delort,C. Jullien,1
+G. Imbula,C. Jean,1
+O. Toivonen,M. Gradel,1
+M. Gradel,O. Toivonen,1
+I. Diop,S. Yago,1
+A. Lafont,A. Delort,1
+C. Jean,A. Delort,1
+A. Delort,M. Gradel,1
+C. Jullien,M. Gradel,1
+K. Amian,A. Lafont,1
+A. Blin,A. Delort,1
+M. Gradel,C. Jean,1
+C. Jean,A. Blin,1
+S. Yago,A. Blin,1
+M. Gradel,K. Amian,1
+O. Toivonen,K. Amian,1
+A. Delort,G. Imbula,1
+A. Blin,I. Diop,1

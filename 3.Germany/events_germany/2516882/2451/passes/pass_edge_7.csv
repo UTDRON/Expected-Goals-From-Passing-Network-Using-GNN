@@ -1,0 +1,22 @@
+Source,Target,Weight
+William,J. Brooks,1
+D. Origi,Y. Mall\u0131,1
+J. Brooks,William,1
+J. Guilavogui,Y. Mall\u0131,1
+F. Uduokhai,J. Brooks,1
+William,K. Casteels,1
+J. Guilavogui,J. Brooks,1
+J. Brooks,F. Uduokhai,1
+Y. Mall\u0131,D. Didavi,1
+Y. Mall\u0131,M. Arnold,1
+J. Brooks,J. Guilavogui,1
+William,M. Arnold,1
+M. Arnold,William,1
+M. Arnold,K. Casteels,1
+D. Origi,William,1
+J. Guilavogui,Y. Gerhardt,1
+D. Didavi,D. Origi,1
+K. Casteels,P. Verhaegh,1
+K. Casteels,D. Origi,1
+Y. Gerhardt,J. Guilavogui,1
+P. Verhaegh,J. Guilavogui,1

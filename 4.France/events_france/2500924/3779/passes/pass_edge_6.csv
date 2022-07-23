@@ -1,0 +1,21 @@
+Source,Target,Weight
+J. Martin,K. Lala,3
+J. Blayac,J. Martin,2
+S. Bahoken,K. Mangane,1
+K. Lala,I. Saadi,1
+D. Foulquier,S. Bahoken,1
+K. Lala,J. Aholou,1
+M. Terrier,D. Foulquier,1
+J. Martin,I. Saadi,1
+K. Mangane,M. Terrier,1
+I. Saadi,J. Blayac,1
+I. Saadi,D. Foulquier,1
+S. Bahoken,J. Blayac,1
+J. Blayac,S. Bahoken,1
+K. Lala,P. Martinez,1
+P. Martinez,J. Blayac,1
+D. Foulquier,J. Aholou,1
+K. Mangane,P. Martinez,1
+P. Martinez,K. Lala,1
+J. Aholou,J. Martin,1
+K. Lala,J. Martin,1

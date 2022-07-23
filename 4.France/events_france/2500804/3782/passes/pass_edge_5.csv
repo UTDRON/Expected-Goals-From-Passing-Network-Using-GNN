@@ -1,0 +1,30 @@
+Source,Target,Weight
+H. Ma\u00efga,A. S\u00f8derlund,2
+R. Pierre-Gabriel,K. Th\u00e9ophile Catherine,2
+J. Bamba,H. Ma\u00efga,2
+J. Bamba,R. Pierre-Gabriel,2
+O. Seln\u00e6s,J. Bamba,1
+K. Th\u00e9ophile Catherine,H. Ma\u00efga,1
+V. Pajot,J. Bamba,1
+O. Seln\u00e6s,K. Monnet-Paquet,1
+C. M'Bengue,O. Seln\u00e6s,1
+H. Ma\u00efga,K. Monnet-Paquet,1
+H. Ma\u00efga,O. Seln\u00e6s,1
+V. Pajot,K. Monnet-Paquet,1
+C. M'Bengue,V. Pajot,1
+J. Bamba,K. Th\u00e9ophile Catherine,1
+V. Pajot,H. Ma\u00efga,1
+H. Ma\u00efga,C. M'Bengue,1
+O. Seln\u00e6s,V. Pajot,1
+K. Monnet-Paquet,C. M'Bengue,1
+K. Th\u00e9ophile Catherine,J. Bamba,1
+S. Ruffier,H. Ma\u00efga,1
+A. S\u00f8derlund,O. Seln\u00e6s,1
+K. Th\u00e9ophile Catherine,A. S\u00f8derlund,1
+K. Monnet-Paquet,V. Pajot,1
+K. Th\u00e9ophile Catherine,S. Ruffier,1
+A. S\u00f8derlund,R. Pierre-Gabriel,1
+K. Monnet-Paquet,K. Th\u00e9ophile Catherine,1
+R. Pierre-Gabriel,J. Bamba,1
+A. S\u00f8derlund,J. Bamba,1
+R. Pierre-Gabriel,O. Seln\u00e6s,1

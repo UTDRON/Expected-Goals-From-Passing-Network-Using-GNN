@@ -1,0 +1,52 @@
+Source,Target,Weight
+D. Baier,J. Gouweleeuw,6
+J. Gouweleeuw,D. Baier,5
+J. Gouweleeuw,Ja-Cheol Koo,4
+K. Danso,J. Gouweleeuw,4
+D. Baier,Ja-Cheol Koo,3
+Ja-Cheol Koo,A. Finnbogason,3
+Ja-Cheol Koo,M. Gregoritsch,3
+P. Max,D. Baier,3
+Caiuby,D. Baier,2
+Ja-Cheol Koo,P. Max,2
+Caiuby,Ja-Cheol Koo,2
+M. Hitz,J. Gouweleeuw,2
+Ja-Cheol Koo,Caiuby,2
+Ja-Cheol Koo,K. Danso,2
+P. Max,E. Thommy,2
+Ja-Cheol Koo,D. Opare,2
+D. Baier,P. Max,2
+Caiuby,K. Danso,2
+J. Gouweleeuw,Caiuby,2
+A. Finnbogason,Ja-Cheol Koo,2
+M. Gregoritsch,D. Baier,2
+M. Gregoritsch,Caiuby,1
+K. Danso,D. Baier,1
+M. Gregoritsch,D. Opare,1
+K. Danso,D. Opare,1
+P. Max,Caiuby,1
+K. Danso,Caiuby,1
+D. Baier,D. Opare,1
+D. Opare,M. Hitz,1
+Caiuby,E. Thommy,1
+E. Thommy,P. Max,1
+D. Baier,M. Gregoritsch,1
+D. Opare,M. Gregoritsch,1
+E. Thommy,D. Opare,1
+Caiuby,J. Gouweleeuw,1
+J. Gouweleeuw,K. Danso,1
+E. Thommy,D. Baier,1
+P. Max,Ja-Cheol Koo,1
+D. Baier,M. Hitz,1
+E. Thommy,K. Danso,1
+J. Gouweleeuw,M. Gregoritsch,1
+D. Baier,Caiuby,1
+D. Opare,P. Max,1
+D. Opare,Caiuby,1
+P. Max,K. Danso,1
+K. Danso,Ja-Cheol Koo,1
+D. Opare,E. Thommy,1
+M. Gregoritsch,P. Max,1
+Caiuby,P. Max,1
+D. Opare,Ja-Cheol Koo,1
+A. Finnbogason,D. Baier,1

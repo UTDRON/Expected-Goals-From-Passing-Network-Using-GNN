@@ -1,0 +1,38 @@
+Source,Target,Weight
+B. Embolo,Naldo,2
+D. Caligiuri,Naldo,2
+B. Stambouli,D. Caligiuri,2
+M. Meyer,M. Nastasi\u0107,2
+F. Di Santo,Naldo,1
+B. Embolo,W. McKennie,1
+Naldo,R. F\u00e4hrmann,1
+Naldo,B. Oczipka,1
+M. Nastasi\u0107,M. Meyer,1
+Naldo,D. Caligiuri,1
+B. Oczipka,Naldo,1
+Naldo,W. McKennie,1
+B. Stambouli,M. Meyer,1
+B. Stambouli,B. Embolo,1
+R. F\u00e4hrmann,B. Embolo,1
+D. Caligiuri,M. Meyer,1
+M. Nastasi\u0107,B. Oczipka,1
+M. Nastasi\u0107,Naldo,1
+B. Embolo,D. Caligiuri,1
+W. McKennie,D. Caligiuri,1
+D. Caligiuri,B. Embolo,1
+G. Burgstaller,W. McKennie,1
+Naldo,F. Di Santo,1
+F. Di Santo,M. Nastasi\u0107,1
+W. McKennie,B. Embolo,1
+M. Meyer,B. Stambouli,1
+M. Nastasi\u0107,B. Embolo,1
+R. F\u00e4hrmann,F. Di Santo,1
+R. F\u00e4hrmann,B. Stambouli,1
+D. Caligiuri,B. Oczipka,1
+B. Oczipka,M. Nastasi\u0107,1
+B. Oczipka,R. F\u00e4hrmann,1
+M. Meyer,G. Burgstaller,1
+Naldo,B. Stambouli,1
+Naldo,M. Meyer,1
+W. McKennie,M. Nastasi\u0107,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1

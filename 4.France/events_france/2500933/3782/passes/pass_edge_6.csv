@@ -1,0 +1,63 @@
+Source,Target,Weight
+Hernani,N. Suboti\u0107,4
+N. Suboti\u0107,M. Debuchy,3
+N. Suboti\u0107,L. Perrin,3
+Gabriel Silva,K. Monnet-Paquet,3
+L. Perrin,O. Seln\u00e6s,3
+K. Monnet-Paquet,L. Perrin,3
+L. Perrin,Gabriel Silva,3
+M. Debuchy,Hernani,2
+K. Monnet-Paquet,Gabriel Silva,2
+O. Seln\u00e6s,L. Perrin,2
+Gabriel Silva,S. Ruffier,2
+J. Bamba,N. Suboti\u0107,2
+Gabriel Silva,O. Seln\u00e6s,2
+S. Ruffier,N. Suboti\u0107,2
+R. Hamouma,J. Bamba,2
+M. Debuchy,R. Beri\u010d,2
+M. Debuchy,S. Ruffier,2
+N. Suboti\u0107,P. Ntep,2
+P. Ntep,Gabriel Silva,2
+O. Seln\u00e6s,Gabriel Silva,2
+N. Suboti\u0107,O. Seln\u00e6s,2
+O. Seln\u00e6s,K. Monnet-Paquet,2
+J. Bamba,M. Debuchy,2
+V. Pajot,J. Bamba,1
+O. Seln\u00e6s,Hernani,1
+R. Hamouma,M. Debuchy,1
+R. Beri\u010d,R. Hamouma,1
+P. Ntep,M. Debuchy,1
+R. Beri\u010d,Hernani,1
+Hernani,M. Debuchy,1
+Hernani,R. Beri\u010d,1
+M. Debuchy,K. Monnet-Paquet,1
+N. Suboti\u0107,J. Bamba,1
+O. Seln\u00e6s,V. Pajot,1
+M. Debuchy,R. Hamouma,1
+L. Perrin,K. Monnet-Paquet,1
+P. Ntep,R. Hamouma,1
+Gabriel Silva,L. Perrin,1
+J. Bamba,R. Beri\u010d,1
+L. Perrin,S. Ruffier,1
+M. Debuchy,N. Suboti\u0107,1
+Gabriel Silva,N. Suboti\u0107,1
+J. Bamba,R. Hamouma,1
+Gabriel Silva,Hernani,1
+M. Debuchy,O. Seln\u00e6s,1
+O. Seln\u00e6s,M. Debuchy,1
+S. Ruffier,L. Perrin,1
+R. Beri\u010d,P. Ntep,1
+R. Hamouma,Gabriel Silva,1
+K. Monnet-Paquet,J. Bamba,1
+M. Debuchy,J. Bamba,1
+V. Pajot,P. Ntep,1
+L. Perrin,P. Ntep,1
+S. Ruffier,O. Seln\u00e6s,1
+S. Ruffier,V. Pajot,1
+P. Ntep,N. Suboti\u0107,1
+V. Pajot,M. Debuchy,1
+K. Monnet-Paquet,P. Ntep,1
+P. Ntep,V. Pajot,1
+L. Perrin,V. Pajot,1
+V. Pajot,L. Perrin,1
+L. Perrin,Hernani,1

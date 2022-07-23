@@ -1,0 +1,33 @@
+Source,Target,Weight
+B. Lecomte,E. Skhiri,3
+Pedro Mendes,B. Lecomte,3
+D. Congr\u00e9,Hilton,3
+E. Skhiri,B. Lecomte,2
+E. Skhiri,P. Lasne,2
+B. Lecomte,Pedro Mendes,2
+P. Lasne,M. Poaty,2
+Hilton,S. Sess\u00e8gnon,2
+M. Poaty,D. Congr\u00e9,2
+Pedro Mendes,D. Congr\u00e9,1
+S. Sess\u00e8gnon,Pedro Mendes,1
+D. Congr\u00e9,P. Lasne,1
+S. Sess\u00e8gnon,N. Mukiele,1
+N. Mukiele,E. Skhiri,1
+M. Poaty,P. Lasne,1
+N. Mukiele,S. Camara,1
+M. Poaty,N. Mukiele,1
+P. Lasne,N. Mukiele,1
+P. Lasne,D. Congr\u00e9,1
+N. Mukiele,S. Sess\u00e8gnon,1
+Hilton,S. Camara,1
+Hilton,P. Lasne,1
+B. Lecomte,M. Poaty,1
+S. Camara,Hilton,1
+D. Congr\u00e9,M. Poaty,1
+S. Sess\u00e8gnon,Hilton,1
+Hilton,Pedro Mendes,1
+S. Camara,B. Lecomte,1
+E. Skhiri,Pedro Mendes,1
+Pedro Mendes,Hilton,1
+P. Lasne,E. Skhiri,1
+Hilton,D. Congr\u00e9,1

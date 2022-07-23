@@ -1,0 +1,23 @@
+Source,Target,Weight
+N. Elvedi,M. Ginter,2
+N. Elvedi,T. Jantschke,2
+M. Ginter,T. Jantschke,1
+N. Elvedi,J. Hofmann,1
+Y. Sommer,O. Wendt,1
+T. Jantschke,J. Hofmann,1
+L. Stindl,Y. Sommer,1
+J. Hofmann,Y. Sommer,1
+T. Jantschke,L. Stindl,1
+J. Hofmann,V. Grifo,1
+J. Hofmann,D. Zakaria,1
+T. Jantschke,T. Hazard,1
+O. Wendt,V. Grifo,1
+D. Zakaria,M. Ginter,1
+V. Grifo,J. Vestergaard,1
+V. Grifo,D. Zakaria,1
+M. Ginter,J. Hofmann,1
+T. Hazard,L. Stindl,1
+D. Zakaria,N. Elvedi,1
+Y. Sommer,N. Elvedi,1
+L. Stindl,N. Elvedi,1
+M. Ginter,N. Elvedi,1

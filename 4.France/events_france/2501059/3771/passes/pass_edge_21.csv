@@ -1,0 +1,55 @@
+Source,Target,Weight
+M. Lopez,M. Sanson,5
+B. Sarr,M. Sanson,4
+H. Sakai,L. Ocampos,4
+B. Kamara,B. Sarr,4
+M. Sanson,B. Sarr,4
+F. Thauvin,M. Lopez,3
+K. Mitroglou,Luiz Gustavo,3
+M. Sanson,M. Lopez,3
+B. Sarr,M. Lopez,3
+M. Lopez,F. Thauvin,3
+F. Thauvin,M. Sanson,3
+L. Ocampos,H. Sakai,3
+B. Sarr,B. Kamara,3
+F. Thauvin,B. Sarr,3
+Luiz Gustavo,M. Lopez,2
+H. Sakai,M. Lopez,2
+Rolando,M. Lopez,2
+M. Sanson,H. Sakai,2
+Luiz Gustavo,F. Thauvin,2
+B. Kamara,Rolando,2
+M. Lopez,H. Sakai,2
+Rolando,L. Ocampos,2
+M. Lopez,Luiz Gustavo,2
+M. Sanson,L. Ocampos,2
+Luiz Gustavo,B. Sarr,2
+M. Lopez,K. Mitroglou,2
+B. Sarr,F. Thauvin,2
+M. Sanson,F. Thauvin,2
+B. Kamara,F. Thauvin,1
+F. Thauvin,H. Sakai,1
+Luiz Gustavo,S. Mandanda,1
+L. Ocampos,B. Kamara,1
+L. Ocampos,M. Lopez,1
+F. Thauvin,K. Mitroglou,1
+L. Ocampos,B. Sarr,1
+S. Mandanda,H. Sakai,1
+M. Sanson,Luiz Gustavo,1
+L. Ocampos,F. Thauvin,1
+M. Lopez,Rolando,1
+L. Ocampos,M. Sanson,1
+M. Sanson,B. Kamara,1
+H. Sakai,M. Sanson,1
+L. Ocampos,Rolando,1
+M. Lopez,B. Sarr,1
+B. Sarr,K. Mitroglou,1
+Luiz Gustavo,M. Sanson,1
+H. Sakai,Luiz Gustavo,1
+B. Sarr,L. Ocampos,1
+Rolando,S. Mandanda,1
+Luiz Gustavo,Rolando,1
+K. Mitroglou,B. Kamara,1
+F. Thauvin,Luiz Gustavo,1
+H. Sakai,F. Thauvin,1
+S. Mandanda,Luiz Gustavo,1

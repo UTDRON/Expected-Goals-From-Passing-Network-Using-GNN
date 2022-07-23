@@ -1,0 +1,37 @@
+Source,Target,Weight
+F. Kainz,F. Bartels,3
+L. Augustinsson,T. Delaney,3
+T. Delaney,L. Augustinsson,2
+F. Bartels,I. Belfodil,2
+P. Bargfrede,M. Veljkovic,2
+L. Augustinsson,L. Caldirola,2
+P. Bargfrede,F. Kainz,2
+M. Veljkovic,F. Bartels,2
+L. Caldirola,M. Veljkovic,2
+F. Kainz,L. Augustinsson,1
+F. Bartels,R. Bauer,1
+R. Bauer,T. Gebre Selassie,1
+I. Belfodil,P. Bargfrede,1
+M. Veljkovic,I. Belfodil,1
+T. Gebre Selassie,F. Kainz,1
+T. Gebre Selassie,P. Bargfrede,1
+L. Caldirola,P. Bargfrede,1
+M. Veljkovic,L. Augustinsson,1
+P. Bargfrede,J. Pavlenka,1
+I. Belfodil,M. Veljkovic,1
+T. Delaney,P. Bargfrede,1
+M. Veljkovic,L. Caldirola,1
+M. Veljkovic,R. Bauer,1
+F. Kainz,R. Bauer,1
+T. Delaney,L. Caldirola,1
+L. Caldirola,F. Bartels,1
+F. Bartels,T. Delaney,1
+F. Bartels,P. Bargfrede,1
+R. Bauer,M. Veljkovic,1
+F. Kainz,T. Gebre Selassie,1
+J. Pavlenka,L. Augustinsson,1
+I. Belfodil,T. Gebre Selassie,1
+M. Veljkovic,F. Kainz,1
+R. Bauer,F. Bartels,1
+F. Bartels,M. Veljkovic,1
+F. Bartels,F. Kainz,1

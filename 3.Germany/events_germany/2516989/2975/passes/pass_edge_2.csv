@@ -1,0 +1,18 @@
+Source,Target,Weight
+N. Ke\u00efta,E. Forsberg,3
+Bruma,J. Augustin,2
+D. Demme,Bruma,2
+D. Demme,J. Augustin,1
+E. Forsberg,N. Ke\u00efta,1
+Bernardo,W. Orban,1
+D. Demme,N. Ke\u00efta,1
+J. Augustin,N. Ke\u00efta,1
+J. Augustin,D. Demme,1
+E. Forsberg,Bernardo,1
+E. Forsberg,I. Konat\u00e9,1
+I. Konat\u00e9,D. Demme,1
+W. Orban,Bernardo,1
+D. Demme,W. Orban,1
+J. Augustin,Bruma,1
+W. Orban,D. Demme,1
+Bruma,D. Demme,1

@@ -1,0 +1,22 @@
+Source,Target,Weight
+O. El Hajjam,S. Mendoza,2
+B. Dibassy,Danilo Avelar,2
+B. Zungu,T. Monconduit,2
+Danilo Avelar,S. Gakp\u00e9,2
+S. Mendoza,K. Ad\u00e9non,2
+T. Monconduit,S. Mendoza,1
+T. Monconduit,M. Konat\u00e9,1
+K. Ad\u00e9non,B. Dibassy,1
+S. Gakp\u00e9,B. Zungu,1
+T. Monconduit,B. Zungu,1
+M. Konat\u00e9,S. Mendoza,1
+B. Zungu,G. Kakuta,1
+T. Monconduit,O. El Hajjam,1
+S. Gakp\u00e9,B. Dibassy,1
+S. Mendoza,T. Monconduit,1
+Danilo Avelar,O. El Hajjam,1
+G. Kakuta,K. Ad\u00e9non,1
+G. Kakuta,Danilo Avelar,1
+K. Ad\u00e9non,M. Konat\u00e9,1
+K. Ad\u00e9non,B. Zungu,1
+M. Konat\u00e9,T. Monconduit,1

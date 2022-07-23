@@ -1,0 +1,54 @@
+Source,Target,Weight
+M. Nastasi\u0107,Naldo,5
+M. Meyer,B. Oczipka,3
+Naldo,L. Goretzka,3
+Naldo,M. Nastasi\u0107,3
+N. Bentaleb,M. Nastasi\u0107,3
+L. Goretzka,B. Stambouli,3
+R. F\u00e4hrmann,M. Nastasi\u0107,3
+B. Stambouli,L. Goretzka,3
+Y. Konoplyanka,N. Bentaleb,2
+L. Goretzka,Y. Konoplyanka,2
+Y. Konoplyanka,M. Meyer,2
+M. Nastasi\u0107,M. Meyer,2
+Naldo,N. Bentaleb,2
+M. Nastasi\u0107,B. Oczipka,2
+L. Goretzka,A. Harit,2
+B. Stambouli,Naldo,2
+B. Oczipka,M. Meyer,2
+B. Stambouli,M. Meyer,1
+N. Bentaleb,B. Stambouli,1
+M. Meyer,Naldo,1
+B. Oczipka,L. Goretzka,1
+N. Bentaleb,M. Meyer,1
+Y. Konoplyanka,B. Stambouli,1
+M. Meyer,B. Stambouli,1
+A. Harit,T. Kehrer,1
+M. Nastasi\u0107,Y. Konoplyanka,1
+M. Meyer,M. Nastasi\u0107,1
+T. Kehrer,B. Oczipka,1
+R. F\u00e4hrmann,B. Stambouli,1
+M. Meyer,N. Bentaleb,1
+B. Oczipka,M. Nastasi\u0107,1
+B. Oczipka,T. Kehrer,1
+M. Meyer,Y. Konoplyanka,1
+B. Oczipka,Y. Konoplyanka,1
+B. Oczipka,N. Bentaleb,1
+N. Bentaleb,Y. Konoplyanka,1
+N. Bentaleb,R. F\u00e4hrmann,1
+M. Meyer,L. Goretzka,1
+B. Oczipka,B. Stambouli,1
+N. Bentaleb,B. Oczipka,1
+A. Harit,M. Meyer,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+T. Kehrer,L. Goretzka,1
+T. Kehrer,M. Meyer,1
+B. Stambouli,N. Bentaleb,1
+B. Stambouli,T. Kehrer,1
+L. Goretzka,Naldo,1
+L. Goretzka,R. F\u00e4hrmann,1
+B. Stambouli,M. Nastasi\u0107,1
+Naldo,T. Kehrer,1
+T. Kehrer,B. Stambouli,1
+M. Meyer,R. F\u00e4hrmann,1
+M. Nastasi\u0107,N. Bentaleb,1

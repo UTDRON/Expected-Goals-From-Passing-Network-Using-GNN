@@ -1,0 +1,23 @@
+Source,Target,Weight
+J. Korb,O. Sorg,2
+I. Bebou,S. San\u00e9,1
+J. Elez,P. Tschauner,1
+M. Ostrzolek,J. Elez,1
+N. F\u00fcllkrug,J. Korb,1
+I. Fossum,M. Ostrzolek,1
+F. Klaus,J. Korb,1
+S. San\u00e9,I. Fossum,1
+J. Korb,W. Anton,1
+I. Bebou,W. Anton,1
+J. Korb,I. Bebou,1
+O. Sorg,W. Anton,1
+W. Anton,I. Bebou,1
+W. Anton,O. Sorg,1
+P. Tschauner,S. San\u00e9,1
+I. Bebou,J. Korb,1
+W. Anton,M. Ostrzolek,1
+S. San\u00e9,I. Bebou,1
+S. San\u00e9,J. Elez,1
+O. Sorg,J. Korb,1
+M. Ostrzolek,N. F\u00fcllkrug,1
+J. Elez,F. Klaus,1

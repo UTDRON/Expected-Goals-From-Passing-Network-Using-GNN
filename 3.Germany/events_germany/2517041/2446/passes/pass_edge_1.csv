@@ -1,0 +1,23 @@
+Source,Target,Weight
+L. Bailey,Wendell,3
+C. Ar\u00e1nguiz,T. Jedvaj,2
+J. Baumgartlinger,C. Ar\u00e1nguiz,2
+K. Havertz,J. Baumgartlinger,1
+Wendell,K. Havertz,1
+T. Jedvaj,L. Bender,1
+J. Tah,T. Jedvaj,1
+L. Alario,L. Bailey,1
+L. Bender,J. Baumgartlinger,1
+T. Jedvaj,C. Ar\u00e1nguiz,1
+K. Havertz,C. Ar\u00e1nguiz,1
+T. Jedvaj,J. Baumgartlinger,1
+L. Bender,L. Bailey,1
+C. Ar\u00e1nguiz,K. Havertz,1
+C. Ar\u00e1nguiz,L. Alario,1
+Wendell,L. Bailey,1
+L. Bender,L. Alario,1
+J. Baumgartlinger,L. Bender,1
+K. Havertz,L. Bender,1
+Wendell,J. Tah,1
+L. Bender,J. Tah,1
+J. Tah,L. Bender,1

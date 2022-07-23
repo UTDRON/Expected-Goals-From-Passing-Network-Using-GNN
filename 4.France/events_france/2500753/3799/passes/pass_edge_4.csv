@@ -1,0 +1,38 @@
+Source,Target,Weight
+M. Tahrat,F. Tait,3
+R. Thomas,T. Mangani,2
+T. Mangani,I. Traor\u00e9,2
+I. Traor\u00e9,M. Tahrat,2
+V. Manceau,M. Pavlovi\u0107,2
+M. Pavlovi\u0107,V. Manceau,2
+F. Tait,K. Toko Ekambi,2
+T. Mangani,R. Thomas,1
+R. Thomas,M. Pavlovi\u0107,1
+T. Mangani,M. Pavlovi\u0107,1
+A. Fulgini,R. Thomas,1
+M. Tahrat,T. Mangani,1
+I. Traor\u00e9,R. Thomas,1
+V. Manceau,K. Toko Ekambi,1
+I. Traor\u00e9,K. Toko Ekambi,1
+M. Tahrat,V. Manceau,1
+K. Toko Ekambi,Y. Andreu,1
+Y. Andreu,M. Tahrat,1
+A. Letellier,R. Thomas,1
+F. Tait,I. Traor\u00e9,1
+I. Traor\u00e9,F. Tait,1
+K. Toko Ekambi,T. Mangani,1
+R. Thomas,Y. Andreu,1
+K. Toko Ekambi,A. Fulgini,1
+K. Toko Ekambi,M. Pavlovi\u0107,1
+F. Tait,M. Tahrat,1
+M. Pavlovi\u0107,R. Thomas,1
+Y. Andreu,F. Tait,1
+F. Tait,A. Letellier,1
+R. Thomas,A. Letellier,1
+F. Tait,T. Mangani,1
+T. Mangani,F. Tait,1
+V. Manceau,F. Tait,1
+A. Letellier,I. Traor\u00e9,1
+T. Mangani,V. Manceau,1
+M. Pavlovi\u0107,I. Traor\u00e9,1
+M. Pavlovi\u0107,T. Mangani,1

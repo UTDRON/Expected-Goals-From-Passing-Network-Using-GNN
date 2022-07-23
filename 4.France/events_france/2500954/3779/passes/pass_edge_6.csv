@@ -1,0 +1,45 @@
+Source,Target,Weight
+M. Terrier,K. Lala,3
+J. Martin,D. Foulquier,3
+J. Martin,D. Li\u00e9nard,3
+K. Lala,D. Li\u00e9nard,3
+D. Foulquier,B. Kon\u00e9,2
+D. Li\u00e9nard,J. Martin,2
+B. Kon\u00e9,A. Oukidja,2
+D. Foulquier,J. Martin,2
+K. Lala,P. Martinez,2
+J. Aholou,D. Foulquier,2
+P. Martinez,J. Aholou,2
+D. Li\u00e9nard,K. Lala,2
+K. Lala,M. Terrier,1
+A. Oukidja,J. Martin,1
+Nuno Da Costa,J. Martin,1
+J. Martin,B. Kon\u00e9,1
+J. Aholou,A. Oukidja,1
+J. Aholou,Nuno Da Costa,1
+D. Li\u00e9nard,J. Blayac,1
+A. Oukidja,J. Blayac,1
+D. Li\u00e9nard,J. Aholou,1
+D. Li\u00e9nard,B. Kon\u00e9,1
+K. Lala,A. Oukidja,1
+B. Kon\u00e9,J. Aholou,1
+B. Kon\u00e9,P. Martinez,1
+P. Martinez,K. Lala,1
+D. Foulquier,P. Martinez,1
+J. Blayac,P. Martinez,1
+K. Lala,J. Aholou,1
+D. Li\u00e9nard,M. Terrier,1
+J. Blayac,Nuno Da Costa,1
+B. Kon\u00e9,K. Lala,1
+A. Oukidja,D. Foulquier,1
+B. Kon\u00e9,J. Martin,1
+J. Martin,J. Aholou,1
+J. Martin,K. Lala,1
+Nuno Da Costa,M. Terrier,1
+A. Oukidja,K. Lala,1
+K. Lala,B. Kon\u00e9,1
+J. Blayac,J. Martin,1
+P. Martinez,J. Martin,1
+P. Martinez,B. Kon\u00e9,1
+D. Foulquier,J. Blayac,1
+J. Aholou,D. Li\u00e9nard,1

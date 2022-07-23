@@ -1,0 +1,65 @@
+Source,Target,Weight
+A. Rabiot,P. Kimpembe,6
+P. Kimpembe,Marquinhos,5
+P. Kimpembe,J. Draxler,5
+Marquinhos,A. Rabiot,5
+Marquinhos,M. Verratti,4
+J. Draxler,Neymar,4
+M. Verratti,K. Mbapp\u00e9,3
+Marquinhos,P. Kimpembe,3
+Neymar,T. Meunier,3
+Neymar,K. Mbapp\u00e9,3
+K. Mbapp\u00e9,M. Verratti,3
+M. Verratti,Neymar,3
+T. Meunier,Marquinhos,3
+M. Verratti,A. Rabiot,3
+J. Draxler,T. Meunier,2
+T. Meunier,Neymar,2
+A. Rabiot,J. Draxler,2
+T. Meunier,K. Mbapp\u00e9,2
+T. Meunier,M. Verratti,2
+T. Meunier,Yuri Berchiche,2
+K. Mbapp\u00e9,T. Meunier,2
+A. Ar\u00e9ola,P. Kimpembe,2
+Neymar,Yuri Berchiche,2
+Yuri Berchiche,A. Rabiot,2
+E. Cavani,Neymar,2
+Neymar,Marquinhos,2
+M. Verratti,A. Ar\u00e9ola,2
+K. Mbapp\u00e9,Neymar,2
+J. Draxler,M. Verratti,2
+M. Verratti,P. Kimpembe,2
+Marquinhos,T. Meunier,2
+Yuri Berchiche,P. Kimpembe,2
+M. Verratti,Marquinhos,2
+A. Rabiot,Yuri Berchiche,2
+P. Kimpembe,A. Rabiot,2
+Yuri Berchiche,Neymar,2
+Neymar,E. Cavani,2
+P. Kimpembe,M. Verratti,2
+P. Kimpembe,Neymar,2
+Neymar,J. Draxler,2
+Neymar,P. Kimpembe,2
+A. Rabiot,Neymar,1
+T. Meunier,P. Kimpembe,1
+K. Mbapp\u00e9,J. Draxler,1
+P. Kimpembe,T. Meunier,1
+E. Cavani,A. Ar\u00e9ola,1
+J. Draxler,K. Mbapp\u00e9,1
+Yuri Berchiche,K. Mbapp\u00e9,1
+P. Kimpembe,E. Cavani,1
+Neymar,A. Ar\u00e9ola,1
+P. Kimpembe,Yuri Berchiche,1
+A. Ar\u00e9ola,M. Verratti,1
+Yuri Berchiche,J. Draxler,1
+K. Mbapp\u00e9,E. Cavani,1
+E. Cavani,J. Draxler,1
+J. Draxler,P. Kimpembe,1
+K. Mbapp\u00e9,Marquinhos,1
+Neymar,M. Verratti,1
+A. Rabiot,T. Meunier,1
+J. Draxler,Yuri Berchiche,1
+A. Ar\u00e9ola,Marquinhos,1
+A. Rabiot,M. Verratti,1
+M. Verratti,T. Meunier,1
+K. Mbapp\u00e9,A. Rabiot,1

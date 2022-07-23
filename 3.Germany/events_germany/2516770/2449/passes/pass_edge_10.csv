@@ -1,0 +1,20 @@
+Source,Target,Weight
+F. Di Santo,G. Burgstaller,2
+G. Burgstaller,F. Di Santo,2
+B. Embolo,G. Burgstaller,1
+G. Burgstaller,N. Bentaleb,1
+N. Bentaleb,B. Embolo,1
+M. Nastasi\u0107,N. Bentaleb,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+B. Oczipka,F. Di Santo,1
+G. Burgstaller,M. Nastasi\u0107,1
+N. Bentaleb,G. Burgstaller,1
+G. Burgstaller,B. Oczipka,1
+R. F\u00e4hrmann,G. Burgstaller,1
+B. Embolo,L. Goretzka,1
+L. Goretzka,F. Di Santo,1
+N. Bentaleb,M. Nastasi\u0107,1
+B. Oczipka,B. Embolo,1
+B. Oczipka,N. Bentaleb,1
+F. Di Santo,M. Nastasi\u0107,1
+M. Nastasi\u0107,B. Oczipka,1

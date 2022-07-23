@@ -1,0 +1,17 @@
+Source,Target,Weight
+P. Max,M. Hinteregger,2
+M. Hinteregger,P. Max,2
+M. Hinteregger,M. Hitz,2
+D. Baier,M. Hinteregger,1
+Ja-Cheol Koo,D. Baier,1
+M. Hitz,K. Danso,1
+M. Gregoritsch,M. Hinteregger,1
+D. Baier,M. Gregoritsch,1
+P. Max,D. Baier,1
+K. Danso,M. Hitz,1
+M. Hitz,M. Hinteregger,1
+M. Hinteregger,M. Gregoritsch,1
+P. Max,M. Gregoritsch,1
+M. Gregoritsch,P. Max,1
+P. Max,Ja-Cheol Koo,1
+M. Hitz,P. Max,1

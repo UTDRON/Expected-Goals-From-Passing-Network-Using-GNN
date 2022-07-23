@@ -1,0 +1,16 @@
+Source,Target,Weight
+M. Schmelzer,J. Sancho,2
+J. Sancho,N. \u015eahin,2
+N. \u015eahin,M. Akanji,2
+\u0141. Piszczek,M. Akanji,1
+N. \u015eahin,J. Weigl,1
+M. Akanji,Rapha\u00ebl Guerreiro,1
+\u0141. Piszczek,C. Pulisic,1
+J. Weigl,\u0141. Piszczek,1
+N. \u015eahin,\u0141. Piszczek,1
+Rapha\u00ebl Guerreiro,N. \u015eahin,1
+M. Akanji,N. \u015eahin,1
+M. Akanji,M. Schmelzer,1
+J. Sancho,Rapha\u00ebl Guerreiro,1
+Rapha\u00ebl Guerreiro,J. Sancho,1
+C. Pulisic,Rapha\u00ebl Guerreiro,1

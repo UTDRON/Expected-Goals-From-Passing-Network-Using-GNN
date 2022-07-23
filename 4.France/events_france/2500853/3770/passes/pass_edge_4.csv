@@ -1,0 +1,11 @@
+Source,Target,Weight
+L. Dubois,V. Rongier,2
+S. Ngom,A. Thomasson,2
+L. Dubois,S. Ngom,2
+V. Rongier,L. Dubois,2
+A. Thomasson,L. Dubois,1
+E. Sala,L. Dubois,1
+A. Thomasson,Diego Carlos,1
+Diego Carlos,A. Thomasson,1
+L. Dubois,E. Sala,1
+Diego Carlos,L. Dubois,1

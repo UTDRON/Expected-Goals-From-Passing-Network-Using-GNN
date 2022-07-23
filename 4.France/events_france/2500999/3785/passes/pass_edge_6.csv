@@ -1,0 +1,27 @@
+Source,Target,Weight
+C. Grenier,M. Diallo,2
+\u00c9. Didot,J. Briand,2
+K. Johnsson,Y. N'Gbakoto,2
+N. Benezet,\u00c9. Didot,2
+\u00c9. Didot,C. Grenier,2
+Y. N'Gbakoto,M. Diallo,2
+M. Diallo,Y. N'Gbakoto,1
+J. Sorbon,K. Johnsson,1
+J. Ikoko,M. Diallo,1
+J. Briand,N. Benezet,1
+J. Briand,J. Ikoko,1
+M. Diallo,K. Johnsson,1
+C. Grenier,C. Kerbrat,1
+M. Diallo,C. Kerbrat,1
+J. Ikoko,N. Benezet,1
+J. Briand,M. Diallo,1
+C. Kerbrat,J. Sorbon,1
+N. Benezet,Y. N'Gbakoto,1
+Y. N'Gbakoto,J. Ikoko,1
+\u00c9. Didot,K. Johnsson,1
+M. Diallo,N. Benezet,1
+Y. N'Gbakoto,\u00c9. Didot,1
+C. Kerbrat,\u00c9. Didot,1
+M. Diallo,\u00c9. Didot,1
+K. Johnsson,J. Briand,1
+M. Diallo,C. Grenier,1

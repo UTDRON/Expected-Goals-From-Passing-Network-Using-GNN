@@ -1,0 +1,78 @@
+Source,Target,Weight
+A. Mbengue,F. Guilbert,3
+B. Sankoh,A. Mbengue,3
+S. Peeters,F. Guilbert,3
+F. Guilbert,R. Vercoutre,3
+F. Guilbert,J. Delaplace,3
+D. Da Silva,I. Santini,2
+R. Rodelin,Y. A\u00eft Bennasser,2
+Y. A\u00eft Bennasser,A. Mbengue,2
+R. Vercoutre,R. Rodelin,2
+I. Santini,R. Rodelin,2
+S. Peeters,Y. A\u00eft Bennasser,2
+D. Da Silva,Y. A\u00eft Bennasser,2
+Y. A\u00eft Bennasser,F. Guilbert,2
+F. Guilbert,I. Santini,2
+R. Rodelin,A. Mbengue,2
+Y. A\u00eft Bennasser,D. Da Silva,2
+Y. A\u00eft Bennasser,I. Diomand\u00e9,2
+A. Mbengue,V. Bessat,2
+A. Mbengue,B. Sankoh,2
+J. Delaplace,A. Mbengue,2
+J. Delaplace,B. Sankoh,2
+V. Bessat,A. Mbengue,2
+R. Rodelin,S. Peeters,2
+A. Mbengue,D. Da Silva,2
+A. Mbengue,Y. A\u00eft Bennasser,2
+Y. A\u00eft Bennasser,R. Rodelin,1
+B. Sankoh,J. Delaplace,1
+J. Delaplace,I. Santini,1
+R. Vercoutre,S. Peeters,1
+F. Guilbert,Y. A\u00eft Bennasser,1
+I. Santini,B. Sankoh,1
+Y. A\u00eft Bennasser,J. Delaplace,1
+R. Vercoutre,D. Da Silva,1
+F. Guilbert,J. Nkololo,1
+I. Diomand\u00e9,Y. A\u00eft Bennasser,1
+I. Santini,S. Peeters,1
+V. Bessat,I. Santini,1
+I. Santini,J. Delaplace,1
+F. Guilbert,S. Peeters,1
+J. Delaplace,R. Rodelin,1
+D. Da Silva,R. Vercoutre,1
+B. Sankoh,R. Vercoutre,1
+S. Peeters,D. Da Silva,1
+A. Mbengue,J. Delaplace,1
+S. Peeters,I. Diomand\u00e9,1
+D. Da Silva,A. Mbengue,1
+I. Diomand\u00e9,R. Rodelin,1
+R. Vercoutre,Y. A\u00eft Bennasser,1
+S. Peeters,A. Mbengue,1
+D. Da Silva,I. Diomand\u00e9,1
+A. Mbengue,R. Rodelin,1
+S. Peeters,R. Rodelin,1
+R. Vercoutre,F. Guilbert,1
+B. Sankoh,I. Diomand\u00e9,1
+A. Mbengue,I. Santini,1
+I. Santini,F. Guilbert,1
+R. Rodelin,I. Santini,1
+A. Mbengue,S. Peeters,1
+J. Nkololo,A. Mbengue,1
+J. Delaplace,F. Guilbert,1
+I. Diomand\u00e9,A. Mbengue,1
+I. Santini,V. Bessat,1
+R. Rodelin,J. Nkololo,1
+S. Peeters,I. Santini,1
+R. Vercoutre,A. Mbengue,1
+I. Diomand\u00e9,S. Peeters,1
+B. Sankoh,F. Guilbert,1
+J. Nkololo,B. Sankoh,1
+J. Delaplace,S. Peeters,1
+B. Sankoh,D. Da Silva,1
+F. Guilbert,B. Sankoh,1
+Y. A\u00eft Bennasser,S. Peeters,1
+R. Rodelin,J. Delaplace,1
+I. Diomand\u00e9,R. Vercoutre,1
+A. Mbengue,R. Vercoutre,1
+I. Santini,D. Da Silva,1
+D. Da Silva,B. Sankoh,1

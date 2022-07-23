@@ -1,0 +1,31 @@
+Source,Target,Weight
+T. Gebre Selassie,R. Bauer,3
+M. Eggestein,R. Bauer,2
+J. Gondorf,T. Delaney,2
+R. Bauer,M. Veljkovic,2
+M. Eggestein,J. Gondorf,1
+M. Veljkovic,T. Gebre Selassie,1
+M. Eggestein,I. Hajrovi\u0107,1
+J. Gondorf,M. Eggestein,1
+L. Augustinsson,I. Belfodil,1
+L. Augustinsson,M. Eggestein,1
+R. Bauer,N. Moisander,1
+J. Gondorf,T. Gebre Selassie,1
+I. Belfodil,M. Eggestein,1
+I. Belfodil,J. Gondorf,1
+I. Hajrovi\u0107,T. Delaney,1
+T. Delaney,I. Hajrovi\u0107,1
+R. Bauer,M. Eggestein,1
+T. Delaney,J. Gondorf,1
+T. Gebre Selassie,I. Belfodil,1
+I. Hajrovi\u0107,M. Eggestein,1
+I. Hajrovi\u0107,J. Gondorf,1
+R. Bauer,T. Gebre Selassie,1
+I. Hajrovi\u0107,M. Veljkovic,1
+M. Veljkovic,I. Hajrovi\u0107,1
+M. Veljkovic,L. Augustinsson,1
+T. Delaney,T. Gebre Selassie,1
+N. Moisander,I. Hajrovi\u0107,1
+L. Augustinsson,J. Gondorf,1
+M. Eggestein,I. Belfodil,1
+J. Gondorf,L. Augustinsson,1

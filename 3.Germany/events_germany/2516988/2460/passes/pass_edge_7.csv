@@ -1,0 +1,11 @@
+Source,Target,Weight
+A. Hack,P. De Blasis,1
+P. De Blasis,S. Serdar,1
+S. Bell,A. Hack,1
+D. Brosinski,S. Bell,1
+P. De Blasis,A. Hack,1
+E. Berggreen,P. De Blasis,1
+G. Donati,A. Hack,1
+S. Bell,G. Donati,1
+A. Hack,S. Bell,1
+A. Hack,E. Berggreen,1

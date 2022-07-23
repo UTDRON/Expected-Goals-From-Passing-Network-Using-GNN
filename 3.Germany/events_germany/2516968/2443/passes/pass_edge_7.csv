@@ -1,0 +1,90 @@
+Source,Target,Weight
+T. Delaney,N. Moisander,4
+L. Augustinsson,T. Delaney,4
+M. Kruse,L. Augustinsson,4
+F. Kainz,M. Kruse,4
+I. Belfodil,M. Kruse,4
+F. Kainz,L. Augustinsson,4
+M. Kruse,T. Delaney,3
+L. Augustinsson,M. Kruse,3
+L. Augustinsson,J. Pavlenka,3
+Z. Junuzovi\u0107,I. Belfodil,3
+N. Moisander,M. Veljkovic,3
+M. Kruse,N. Moisander,3
+N. Moisander,F. Kainz,3
+Z. Junuzovi\u0107,M. Kruse,3
+T. Delaney,L. Augustinsson,3
+M. Kruse,F. Kainz,3
+M. Eggestein,F. Kainz,2
+I. Belfodil,T. Delaney,2
+T. Gebre Selassie,M. Rashica,2
+M. Veljkovic,M. Eggestein,2
+L. Augustinsson,N. Moisander,2
+F. Kainz,T. Delaney,2
+N. Moisander,Z. Junuzovi\u0107,2
+Z. Junuzovi\u0107,M. Rashica,2
+T. Delaney,F. Kainz,2
+T. Gebre Selassie,Z. Junuzovi\u0107,2
+N. Moisander,M. Kruse,2
+J. Pavlenka,M. Kruse,2
+T. Gebre Selassie,T. Delaney,2
+F. Kainz,T. Gebre Selassie,2
+M. Veljkovic,J. Pavlenka,2
+M. Kruse,M. Veljkovic,2
+M. Kruse,Z. Junuzovi\u0107,2
+M. Veljkovic,L. Augustinsson,2
+T. Delaney,M. Eggestein,2
+L. Augustinsson,F. Kainz,1
+T. Delaney,Z. Junuzovi\u0107,1
+F. Kainz,I. Belfodil,1
+T. Delaney,M. Veljkovic,1
+J. Pavlenka,M. Veljkovic,1
+T. Delaney,M. Kruse,1
+T. Gebre Selassie,N. Moisander,1
+J. Pavlenka,L. Augustinsson,1
+F. Kainz,N. Moisander,1
+J. Pavlenka,Z. Junuzovi\u0107,1
+M. Eggestein,L. Augustinsson,1
+M. Eggestein,J. Pavlenka,1
+Z. Junuzovi\u0107,T. Delaney,1
+M. Veljkovic,Z. Junuzovi\u0107,1
+I. Belfodil,T. Gebre Selassie,1
+T. Delaney,I. Belfodil,1
+L. Augustinsson,Z. Junuzovi\u0107,1
+M. Rashica,T. Delaney,1
+N. Moisander,T. Delaney,1
+I. Belfodil,N. Moisander,1
+M. Veljkovic,F. Kainz,1
+L. Augustinsson,I. Belfodil,1
+M. Rashica,M. Kruse,1
+J. Pavlenka,I. Belfodil,1
+J. Pavlenka,T. Gebre Selassie,1
+I. Belfodil,M. Veljkovic,1
+I. Belfodil,F. Kainz,1
+T. Gebre Selassie,M. Kruse,1
+M. Veljkovic,T. Delaney,1
+M. Veljkovic,I. Belfodil,1
+M. Kruse,T. Gebre Selassie,1
+M. Kruse,I. Belfodil,1
+M. Kruse,M. Eggestein,1
+T. Gebre Selassie,I. Belfodil,1
+I. Belfodil,M. Eggestein,1
+N. Moisander,T. Gebre Selassie,1
+Z. Junuzovi\u0107,L. Augustinsson,1
+M. Eggestein,T. Gebre Selassie,1
+M. Rashica,F. Kainz,1
+T. Delaney,T. Gebre Selassie,1
+M. Kruse,M. Rashica,1
+M. Eggestein,T. Delaney,1
+I. Belfodil,Z. Junuzovi\u0107,1
+M. Rashica,J. Pavlenka,1
+L. Augustinsson,M. Eggestein,1
+Z. Junuzovi\u0107,T. Gebre Selassie,1
+M. Rashica,M. Veljkovic,1
+T. Gebre Selassie,M. Eggestein,1
+M. Eggestein,Z. Junuzovi\u0107,1
+N. Moisander,I. Belfodil,1
+T. Delaney,M. Rashica,1
+M. Rashica,I. Belfodil,1
+Z. Junuzovi\u0107,M. Veljkovic,1
+M. Eggestein,N. Moisander,1

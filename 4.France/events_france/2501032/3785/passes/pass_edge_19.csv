@@ -1,0 +1,69 @@
+Source,Target,Weight
+J. Briand,C. Grenier,4
+C. Grenier,Pedro Rebocho,4
+N. Benezet,\u00c9. Didot,4
+C. Grenier,M. Thuram,3
+M. Thuram,J. Ikoko,3
+M. Thuram,C. Grenier,3
+J. Briand,M. Thuram,3
+J. Ikoko,J. Sorbon,2
+J. Sorbon,J. Briand,2
+\u00c9. Didot,N. Benezet,2
+M. Thuram,\u00c9. Didot,2
+C. Kerbrat,C. Grenier,2
+M. Thuram,L. Blas,2
+L. Phiri,M. Thuram,2
+L. Blas,C. Grenier,2
+C. Grenier,L. Phiri,2
+Pedro Rebocho,\u00c9. Didot,2
+J. Ikoko,M. Thuram,2
+C. Grenier,J. Ikoko,2
+L. Phiri,J. Briand,2
+J. Ikoko,J. Briand,2
+M. Thuram,J. Briand,2
+\u00c9. Didot,F. Eboa Eboa,2
+C. Grenier,J. Sorbon,2
+M. Thuram,L. Phiri,2
+K. Johnsson,C. Grenier,2
+\u00c9. Didot,Pedro Rebocho,1
+Pedro Rebocho,C. Grenier,1
+L. Blas,J. Ikoko,1
+Pedro Rebocho,M. Thuram,1
+\u00c9. Didot,J. Sorbon,1
+J. Sorbon,L. Phiri,1
+L. Phiri,K. Johnsson,1
+\u00c9. Didot,J. Ikoko,1
+L. Phiri,F. Eboa Eboa,1
+F. Eboa Eboa,M. Thuram,1
+J. Ikoko,L. Phiri,1
+N. Benezet,L. Blas,1
+L. Phiri,J. Ikoko,1
+L. Phiri,N. Benezet,1
+Pedro Rebocho,L. Phiri,1
+C. Grenier,M. Diallo,1
+Pedro Rebocho,J. Briand,1
+J. Briand,F. Eboa Eboa,1
+J. Sorbon,J. Ikoko,1
+J. Ikoko,\u00c9. Didot,1
+J. Ikoko,C. Grenier,1
+J. Sorbon,M. Thuram,1
+C. Grenier,J. Briand,1
+\u00c9. Didot,M. Thuram,1
+F. Eboa Eboa,N. Benezet,1
+J. Briand,Pedro Rebocho,1
+M. Thuram,Pedro Rebocho,1
+\u00c9. Didot,L. Phiri,1
+C. Grenier,N. Benezet,1
+\u00c9. Didot,C. Grenier,1
+M. Diallo,M. Thuram,1
+C. Grenier,\u00c9. Didot,1
+J. Briand,J. Ikoko,1
+C. Kerbrat,J. Briand,1
+F. Eboa Eboa,L. Phiri,1
+J. Ikoko,K. Johnsson,1
+M. Thuram,C. Kerbrat,1
+F. Eboa Eboa,C. Kerbrat,1
+Pedro Rebocho,J. Ikoko,1
+J. Ikoko,N. Benezet,1
+J. Briand,C. Kerbrat,1
+L. Phiri,C. Grenier,1

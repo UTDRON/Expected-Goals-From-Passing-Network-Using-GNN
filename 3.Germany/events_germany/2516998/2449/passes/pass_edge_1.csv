@@ -1,0 +1,45 @@
+Source,Target,Weight
+Naldo,D. Caligiuri,3
+B. Embolo,M. Meyer,3
+D. Caligiuri,Naldo,3
+Naldo,B. Embolo,2
+B. Stambouli,A. Harit,2
+M. Nastasi\u0107,B. Stambouli,2
+Naldo,M. Meyer,2
+B. Stambouli,L. Goretzka,2
+A. Harit,M. Nastasi\u0107,2
+M. Meyer,Naldo,2
+L. Goretzka,B. Embolo,2
+A. Harit,T. Kehrer,1
+G. Burgstaller,M. Meyer,1
+B. Embolo,T. Kehrer,1
+B. Embolo,R. F\u00e4hrmann,1
+R. F\u00e4hrmann,B. Embolo,1
+T. Kehrer,A. Harit,1
+D. Caligiuri,G. Burgstaller,1
+M. Meyer,B. Stambouli,1
+G. Burgstaller,M. Nastasi\u0107,1
+T. Kehrer,L. Goretzka,1
+R. F\u00e4hrmann,D. Caligiuri,1
+B. Stambouli,M. Meyer,1
+R. F\u00e4hrmann,T. Kehrer,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+L. Goretzka,Naldo,1
+M. Meyer,D. Caligiuri,1
+T. Kehrer,G. Burgstaller,1
+D. Caligiuri,R. F\u00e4hrmann,1
+B. Stambouli,M. Nastasi\u0107,1
+M. Meyer,B. Embolo,1
+R. F\u00e4hrmann,B. Stambouli,1
+M. Nastasi\u0107,Naldo,1
+L. Goretzka,G. Burgstaller,1
+M. Meyer,R. F\u00e4hrmann,1
+B. Embolo,D. Caligiuri,1
+A. Harit,D. Caligiuri,1
+D. Caligiuri,T. Kehrer,1
+G. Burgstaller,B. Stambouli,1
+M. Meyer,L. Goretzka,1
+D. Caligiuri,A. Harit,1
+G. Burgstaller,B. Embolo,1
+T. Kehrer,Naldo,1
+B. Embolo,B. Stambouli,1

@@ -1,0 +1,20 @@
+Source,Target,Weight
+D. Kohr,J. Tah,2
+B. Leno,S. Bender,1
+S. Bender,J. Tah,1
+S. Bender,D. Kohr,1
+L. Bender,S. Bender,1
+Wendell,L. Bender,1
+J. Tah,S. Bender,1
+S. Bender,L. Bender,1
+Wendell,L. Bailey,1
+J. Brandt,Wendell,1
+L. Bailey,B. Leno,1
+J. Tah,D. Kohr,1
+D. Kohr,Wendell,1
+J. Tah,J. Brandt,1
+L. Alario,D. Kohr,1
+J. Tah,L. Alario,1
+L. Bender,J. Brandt,1
+J. Brandt,K. Volland,1
+L. Alario,J. Tah,1

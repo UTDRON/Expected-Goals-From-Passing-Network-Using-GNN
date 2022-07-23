@@ -1,0 +1,16 @@
+Source,Target,Weight
+J. Repas,A. Mbengue,2
+J. F\u00e9ret,J. Repas,2
+D. Da Silva,J. F\u00e9ret,1
+Y. A\u00eft Bennasser,D. Da Silva,1
+A. Mbengue,J. Nkololo,1
+A. Djiku,Y. A\u00eft Bennasser,1
+Y. A\u00eft Bennasser,J. F\u00e9ret,1
+D. Da Silva,A. Mbengue,1
+A. Mbengue,D. Da Silva,1
+A. Mbengue,J. Repas,1
+J. Repas,J. F\u00e9ret,1
+J. F\u00e9ret,Y. A\u00eft Bennasser,1
+Y. A\u00eft Bennasser,J. Nkololo,1
+J. Nkololo,Y. A\u00eft Bennasser,1
+J. Nkololo,I. Santini,1

@@ -1,0 +1,47 @@
+Source,Target,Weight
+Y. Poulsen,E. Forsberg,3
+Bernardo,P. Gul\u00e1csi,3
+K. Kampl,I. Konat\u00e9,3
+A. Lookman,Bernardo,2
+D. Demme,A. Lookman,2
+D. Demme,T. Werner,2
+Y. Poulsen,K. Kampl,2
+I. Konat\u00e9,K. Kampl,2
+W. Orban,A. Lookman,2
+A. Lookman,D. Demme,2
+S. Ilsanker,K. Kampl,2
+K. Kampl,Y. Poulsen,2
+E. Forsberg,Y. Poulsen,2
+P. Gul\u00e1csi,Y. Poulsen,2
+K. Kampl,D. Demme,2
+Bernardo,W. Orban,1
+I. Konat\u00e9,E. Forsberg,1
+I. Konat\u00e9,Bernardo,1
+I. Konat\u00e9,S. Ilsanker,1
+D. Demme,S. Ilsanker,1
+T. Werner,K. Kampl,1
+S. Ilsanker,A. Lookman,1
+T. Werner,E. Forsberg,1
+I. Konat\u00e9,Y. Poulsen,1
+E. Forsberg,K. Kampl,1
+P. Gul\u00e1csi,W. Orban,1
+Y. Poulsen,W. Orban,1
+D. Demme,Bernardo,1
+Bernardo,D. Demme,1
+W. Orban,I. Konat\u00e9,1
+A. Lookman,S. Ilsanker,1
+Y. Poulsen,I. Konat\u00e9,1
+E. Forsberg,A. Lookman,1
+T. Werner,Y. Poulsen,1
+Bernardo,A. Lookman,1
+A. Lookman,E. Forsberg,1
+Y. Poulsen,S. Ilsanker,1
+E. Forsberg,W. Orban,1
+K. Kampl,P. Gul\u00e1csi,1
+P. Gul\u00e1csi,E. Forsberg,1
+W. Orban,Bernardo,1
+E. Forsberg,D. Demme,1
+D. Demme,W. Orban,1
+S. Ilsanker,I. Konat\u00e9,1
+W. Orban,D. Demme,1
+A. Lookman,T. Werner,1

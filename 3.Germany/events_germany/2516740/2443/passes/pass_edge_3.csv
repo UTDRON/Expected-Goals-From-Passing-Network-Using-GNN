@@ -1,0 +1,29 @@
+Source,Target,Weight
+T. Gebre Selassie,F. Kainz,2
+F. Kainz,M. Kruse,2
+M. Kruse,L. San\u00e9,2
+L. San\u00e9,R. Bauer,1
+F. Bartels,T. Delaney,1
+F. Kainz,F. Bartels,1
+M. Eggestein,L. San\u00e9,1
+F. Kainz,J. Pavlenka,1
+L. San\u00e9,F. Kainz,1
+T. Delaney,M. Veljkovic,1
+M. Veljkovic,T. Delaney,1
+F. Kainz,M. Eggestein,1
+R. Bauer,F. Bartels,1
+L. San\u00e9,M. Kruse,1
+F. Kainz,T. Gebre Selassie,1
+T. Gebre Selassie,R. Bauer,1
+L. San\u00e9,M. Veljkovic,1
+M. Eggestein,F. Kainz,1
+R. Bauer,T. Delaney,1
+M. Veljkovic,L. San\u00e9,1
+R. Bauer,T. Gebre Selassie,1
+T. Delaney,T. Gebre Selassie,1
+M. Eggestein,R. Bauer,1
+M. Veljkovic,M. Eggestein,1
+J. Pavlenka,M. Veljkovic,1
+M. Kruse,F. Kainz,1
+T. Delaney,L. San\u00e9,1
+F. Bartels,F. Kainz,1

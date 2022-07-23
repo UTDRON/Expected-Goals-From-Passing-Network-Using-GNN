@@ -1,0 +1,91 @@
+Source,Target,Weight
+D. Didavi,J. Guilavogui,7
+William,M. Arnold,6
+J. Brekalo,P. Verhaegh,6
+P. Verhaegh,J. Brekalo,6
+J. Guilavogui,M. Tisserand,5
+William,Y. Mall\u0131,5
+J. Guilavogui,P. Verhaegh,5
+William,D. Origi,5
+Y. Mall\u0131,D. Didavi,5
+M. Tisserand,K. Casteels,5
+F. Uduokhai,William,5
+M. Tisserand,P. Verhaegh,5
+F. Uduokhai,M. Tisserand,4
+P. Verhaegh,M. Tisserand,4
+D. Didavi,M. Arnold,4
+P. Verhaegh,J. Guilavogui,4
+M. Arnold,Y. Mall\u0131,4
+M. Arnold,J. Guilavogui,4
+F. Uduokhai,K. Casteels,4
+M. Tisserand,M. Arnold,4
+Y. Mall\u0131,William,4
+J. Brekalo,D. Didavi,3
+M. Arnold,William,3
+J. Guilavogui,F. Uduokhai,3
+K. Casteels,M. Tisserand,3
+K. Casteels,F. Uduokhai,3
+D. Origi,William,3
+J. Guilavogui,K. Casteels,3
+M. Tisserand,F. Uduokhai,3
+D. Origi,F. Uduokhai,3
+D. Didavi,William,3
+K. Casteels,D. Origi,3
+D. Origi,J. Brekalo,3
+J. Brekalo,D. Origi,3
+M. Arnold,D. Origi,2
+K. Casteels,D. Didavi,2
+D. Origi,D. Didavi,2
+J. Guilavogui,M. Arnold,2
+D. Didavi,M. Tisserand,2
+D. Didavi,F. Uduokhai,2
+D. Origi,J. Guilavogui,2
+M. Tisserand,D. Didavi,2
+Y. Mall\u0131,J. Brekalo,2
+J. Guilavogui,D. Didavi,2
+K. Casteels,William,2
+J. Brekalo,M. Tisserand,2
+F. Uduokhai,M. Arnold,2
+J. Guilavogui,J. Brekalo,2
+J. Brekalo,M. Arnold,2
+M. Arnold,K. Casteels,2
+William,J. Brekalo,2
+P. Verhaegh,D. Didavi,2
+William,M. Tisserand,2
+K. Casteels,J. Guilavogui,2
+F. Uduokhai,J. Guilavogui,2
+M. Tisserand,J. Guilavogui,2
+P. Verhaegh,D. Origi,2
+M. Arnold,F. Uduokhai,2
+Y. Mall\u0131,F. Uduokhai,2
+M. Arnold,D. Didavi,2
+D. Didavi,J. Brekalo,1
+P. Verhaegh,William,1
+J. Guilavogui,William,1
+M. Arnold,M. Tisserand,1
+William,P. Verhaegh,1
+William,F. Uduokhai,1
+D. Origi,P. Verhaegh,1
+D. Didavi,P. Verhaegh,1
+Y. Mall\u0131,P. Verhaegh,1
+J. Brekalo,J. Guilavogui,1
+J. Brekalo,F. Uduokhai,1
+F. Uduokhai,D. Origi,1
+M. Arnold,J. Brekalo,1
+J. Guilavogui,Y. Mall\u0131,1
+D. Didavi,Y. Mall\u0131,1
+D. Origi,M. Arnold,1
+D. Origi,Y. Mall\u0131,1
+M. Tisserand,J. Brekalo,1
+J. Brekalo,K. Casteels,1
+Y. Mall\u0131,D. Origi,1
+William,J. Guilavogui,1
+M. Tisserand,William,1
+P. Verhaegh,K. Casteels,1
+M. Arnold,P. Verhaegh,1
+F. Uduokhai,J. Brekalo,1
+K. Casteels,M. Arnold,1
+M. Tisserand,Y. Mall\u0131,1
+D. Origi,M. Tisserand,1
+P. Verhaegh,Y. Mall\u0131,1
+F. Uduokhai,Y. Mall\u0131,1

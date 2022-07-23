@@ -1,0 +1,25 @@
+Source,Target,Weight
+P. Bargfrede,T. Gebre Selassie,4
+T. Gebre Selassie,F. Kainz,2
+T. Delaney,P. Bargfrede,2
+T. Gebre Selassie,P. Bargfrede,2
+T. Gebre Selassie,I. Belfodil,2
+R. Bauer,T. Gebre Selassie,2
+I. Belfodil,F. Bartels,2
+T. Gebre Selassie,M. Veljkovic,2
+P. Bargfrede,R. Bauer,1
+I. Belfodil,P. Bargfrede,1
+N. Moisander,F. Bartels,1
+P. Bargfrede,I. Belfodil,1
+F. Kainz,T. Delaney,1
+I. Belfodil,T. Delaney,1
+F. Bartels,I. Belfodil,1
+I. Belfodil,F. Kainz,1
+M. Veljkovic,P. Bargfrede,1
+F. Kainz,N. Moisander,1
+F. Bartels,R. Bauer,1
+F. Kainz,T. Gebre Selassie,1
+M. Veljkovic,T. Gebre Selassie,1
+N. Moisander,R. Bauer,1
+M. Veljkovic,N. Moisander,1
+R. Bauer,I. Belfodil,1

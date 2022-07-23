@@ -1,0 +1,27 @@
+Source,Target,Weight
+D. Brosinski,R. Quaison,4
+P. De Blasis,D. Brosinski,3
+L. Balogun,J. Gbamin,3
+P. De Blasis,D. Latza,2
+D. Latza,P. De Blasis,2
+D. Latza,D. Brosinski,1
+J. Gbamin,R. Quaison,1
+R. Quaison,L. Balogun,1
+D. Brosinski,D. Latza,1
+D. Brosinski,J. Gbamin,1
+R. Quaison,D. Brosinski,1
+A. Hack,L. Balogun,1
+A. Hack,R. Adler,1
+D. Brosinski,P. De Blasis,1
+R. Quaison,D. Latza,1
+P. De Blasis,J. Gbamin,1
+J. Gbamin,A. Hack,1
+D. Latza,L. Balogun,1
+A. Hack,P. De Blasis,1
+J. Gbamin,P. De Blasis,1
+R. Quaison,P. De Blasis,1
+R. Adler,P. De Blasis,1
+J. Gbamin,D. Latza,1
+D. Latza,A. Hack,1
+J. Gbamin,D. Brosinski,1
+P. De Blasis,A. Hack,1

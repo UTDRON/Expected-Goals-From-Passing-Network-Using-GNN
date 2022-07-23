@@ -1,0 +1,73 @@
+Source,Target,Weight
+L. Augustinsson,T. Delaney,6
+Z. Junuzovi\u0107,L. Augustinsson,5
+M. Kruse,L. Augustinsson,4
+J. Gondorf,T. Gebre Selassie,4
+L. Augustinsson,Z. Junuzovi\u0107,4
+N. Moisander,J. Pavlenka,4
+N. Moisander,L. Augustinsson,4
+T. Delaney,N. Moisander,4
+T. Delaney,L. Augustinsson,4
+L. Augustinsson,P. Bargfrede,4
+T. Gebre Selassie,M. Eggestein,3
+Z. Junuzovi\u0107,N. Moisander,3
+L. Augustinsson,M. Kruse,3
+M. Kruse,T. Delaney,3
+J. Pavlenka,N. Moisander,3
+M. Veljkovic,T. Delaney,2
+J. Pavlenka,Z. Junuzovi\u0107,2
+M. Kruse,Z. Junuzovi\u0107,2
+T. Gebre Selassie,J. Pavlenka,2
+T. Delaney,Z. Junuzovi\u0107,2
+N. Moisander,M. Veljkovic,2
+P. Bargfrede,M. Kruse,2
+M. Kruse,N. Moisander,2
+P. Bargfrede,J. Gondorf,2
+N. Moisander,M. Kruse,2
+N. Moisander,P. Bargfrede,2
+T. Delaney,M. Veljkovic,2
+M. Eggestein,M. Kruse,2
+N. Moisander,M. Eggestein,2
+M. Kruse,P. Bargfrede,2
+P. Bargfrede,Z. Junuzovi\u0107,2
+T. Gebre Selassie,P. Bargfrede,2
+M. Veljkovic,T. Gebre Selassie,2
+M. Eggestein,L. Augustinsson,2
+P. Bargfrede,N. Moisander,2
+Z. Junuzovi\u0107,M. Kruse,2
+P. Bargfrede,T. Delaney,2
+M. Veljkovic,J. Pavlenka,2
+T. Gebre Selassie,N. Moisander,1
+M. Veljkovic,M. Kruse,1
+L. Augustinsson,N. Moisander,1
+T. Delaney,M. Kruse,1
+J. Pavlenka,L. Augustinsson,1
+P. Bargfrede,L. Augustinsson,1
+P. Bargfrede,T. Gebre Selassie,1
+M. Eggestein,N. Moisander,1
+L. Augustinsson,T. Gebre Selassie,1
+J. Gondorf,M. Kruse,1
+J. Gondorf,N. Moisander,1
+Z. Junuzovi\u0107,T. Delaney,1
+M. Kruse,T. Gebre Selassie,1
+M. Kruse,M. Eggestein,1
+Z. Junuzovi\u0107,J. Gondorf,1
+T. Delaney,M. Eggestein,1
+J. Pavlenka,M. Kruse,1
+T. Delaney,P. Bargfrede,1
+T. Gebre Selassie,M. Kruse,1
+M. Eggestein,P. Bargfrede,1
+T. Gebre Selassie,J. Gondorf,1
+L. Augustinsson,M. Eggestein,1
+J. Gondorf,M. Veljkovic,1
+N. Moisander,J. Gondorf,1
+N. Moisander,T. Delaney,1
+M. Eggestein,T. Delaney,1
+M. Eggestein,J. Gondorf,1
+J. Pavlenka,T. Gebre Selassie,1
+J. Gondorf,M. Eggestein,1
+M. Kruse,J. Gondorf,1
+T. Delaney,J. Gondorf,1
+T. Gebre Selassie,M. Veljkovic,1
+M. Eggestein,M. Veljkovic,1
+M. Eggestein,T. Gebre Selassie,1

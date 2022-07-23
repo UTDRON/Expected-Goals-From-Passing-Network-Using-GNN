@@ -1,0 +1,23 @@
+Source,Target,Weight
+M. Abeid,F. Chafik,2
+F. Chafik,W. Sa\u00efd,2
+C. Yamber\u00e9,B. Jeannot,2
+B. Jeannot,P. Djilobodji,2
+P. Djilobodji,B. Reynet,2
+F. Chafik,C. Yamber\u00e9,2
+C. Yamber\u00e9,B. Reynet,2
+B. Reynet,A. Bouka Moutou,1
+W. Sa\u00efd,F. Sammaritano,1
+R. Amalfitano,P. Djilobodji,1
+B. Reynet,R. Amalfitano,1
+R. Amalfitano,C. Yamber\u00e9,1
+A. Bouka Moutou,P. Djilobodji,1
+P. Djilobodji,C. Yamber\u00e9,1
+B. Reynet,F. Chafik,1
+P. Djilobodji,F. Chafik,1
+F. Sammaritano,M. Abeid,1
+C. Yamber\u00e9,W. Sa\u00efd,1
+C. Yamber\u00e9,M. Abeid,1
+W. Sa\u00efd,A. Bouka Moutou,1
+B. Reynet,C. Yamber\u00e9,1
+A. Bouka Moutou,R. Amalfitano,1

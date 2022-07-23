@@ -1,0 +1,16 @@
+Source,Target,Weight
+C. Michelin,A. Blin,2
+C. Jullien,M. Gradel,2
+A. Blin,C. Michelin,1
+M. Gradel,K. Amian,1
+A. Blin,C. Jullien,1
+Y. Sanogo,K. Amian,1
+A. Blin,J. Durmaz,1
+K. Amian,Y. Sanogo,1
+A. Delort,A. Blin,1
+M. Gradel,A. Delort,1
+A. Blin,A. Delort,1
+J. Durmaz,A. Blin,1
+A. Delort,M. Gradel,1
+M. Gradel,C. Jullien,1
+K. Amian,O. Toivonen,1

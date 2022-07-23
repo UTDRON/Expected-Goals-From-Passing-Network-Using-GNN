@@ -1,0 +1,58 @@
+Source,Target,Weight
+M. Lopez,B. Sarr,6
+Luiz Gustavo,A. Zambo Anguissa,6
+A. Zambo Anguissa,M. Lopez,5
+B. Sarr,H. Sakai,5
+M. Lopez,F. Thauvin,4
+A. Zambo Anguissa,B. Sarr,4
+B. Kamara,M. Lopez,4
+F. Thauvin,M. Lopez,4
+M. Lopez,A. Zambo Anguissa,4
+H. Sakai,B. Kamara,3
+M. Lopez,H. Sakai,3
+B. Sarr,A. Zambo Anguissa,3
+H. Sakai,B. Sarr,3
+A. Zambo Anguissa,Luiz Gustavo,3
+M. Lopez,V. Germain,3
+B. Sarr,F. Thauvin,3
+F. Thauvin,B. Sarr,2
+V. Germain,A. Zambo Anguissa,2
+B. Sarr,V. Germain,2
+B. Sarr,M. Lopez,2
+A. Zambo Anguissa,J. Amavi,2
+H. Sakai,M. Lopez,2
+B. Sarr,B. Kamara,2
+A. Zambo Anguissa,V. Germain,2
+L. Ocampos,H. Sakai,2
+Luiz Gustavo,M. Lopez,2
+V. Germain,M. Lopez,2
+B. Kamara,Luiz Gustavo,2
+A. Zambo Anguissa,L. Ocampos,2
+M. Sanson,B. Kamara,2
+M. Sanson,B. Sarr,1
+B. Sarr,Luiz Gustavo,1
+L. Ocampos,A. Zambo Anguissa,1
+M. Lopez,L. Ocampos,1
+S. Mandanda,B. Kamara,1
+J. Amavi,V. Germain,1
+M. Sanson,A. Zambo Anguissa,1
+S. Mandanda,L. Ocampos,1
+V. Germain,M. Sanson,1
+B. Kamara,B. Sarr,1
+B. Kamara,S. Mandanda,1
+H. Sakai,A. Zambo Anguissa,1
+H. Sakai,V. Germain,1
+V. Germain,S. Mandanda,1
+J. Amavi,Luiz Gustavo,1
+B. Kamara,A. Zambo Anguissa,1
+L. Ocampos,J. Amavi,1
+S. Mandanda,M. Lopez,1
+M. Lopez,Luiz Gustavo,1
+V. Germain,B. Kamara,1
+H. Sakai,Luiz Gustavo,1
+Luiz Gustavo,M. Sanson,1
+A. Zambo Anguissa,H. Sakai,1
+A. Zambo Anguissa,S. Mandanda,1
+V. Germain,B. Sarr,1
+F. Thauvin,M. Sanson,1
+J. Amavi,M. Sanson,1

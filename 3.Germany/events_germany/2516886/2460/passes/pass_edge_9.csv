@@ -1,0 +1,28 @@
+Source,Target,Weight
+P. De Blasis,F. Frei,2
+R. Quaison,D. Brosinski,2
+P. De Blasis,D. Brosinski,2
+D. Brosinski,R. Zentner,2
+D. Brosinski,P. De Blasis,2
+D. Brosinski,A. Diallo,2
+R. Zentner,R. Quaison,2
+L. \u00d6ztunali,P. De Blasis,2
+A. Diallo,D. Brosinski,2
+P. De Blasis,L. \u00d6ztunali,2
+E. Berggreen,A. Diallo,1
+G. Donati,L. \u00d6ztunali,1
+R. Quaison,E. Berggreen,1
+F. Frei,R. Quaison,1
+F. Frei,G. Donati,1
+A. Maxim,G. Donati,1
+A. Diallo,R. Zentner,1
+G. Donati,F. Frei,1
+R. Quaison,P. De Blasis,1
+L. \u00d6ztunali,F. Frei,1
+R. Zentner,F. Frei,1
+A. Diallo,P. De Blasis,1
+D. Brosinski,R. Quaison,1
+P. De Blasis,A. Diallo,1
+L. \u00d6ztunali,D. Brosinski,1
+F. Frei,A. Maxim,1
+F. Frei,L. \u00d6ztunali,1

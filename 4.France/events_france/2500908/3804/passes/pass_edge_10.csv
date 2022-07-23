@@ -1,0 +1,41 @@
+Source,Target,Weight
+M. Abeid,C. Yamber\u00e9,2
+M. Abeid,V. Rosier,2
+O. Haddadi,M. Abeid,2
+O. Haddadi,W. Lautoa,2
+Xeka,O. Haddadi,2
+J\u00falio Tavares,N. Sliti,2
+F. Balmont,F. Sammaritano,2
+F. Sammaritano,Xeka,2
+Xeka,M. Abeid,2
+O. Haddadi,Xeka,1
+M. Abeid,W. Lautoa,1
+N. Sliti,F. Balmont,1
+M. Abeid,B. Reynet,1
+V. Rosier,F. Balmont,1
+F. Balmont,N. Sliti,1
+W. Lautoa,C. Yamber\u00e9,1
+N. Sliti,M. Abeid,1
+W. Lautoa,F. Sammaritano,1
+B. Reynet,M. Abeid,1
+C. Yamber\u00e9,V. Rosier,1
+M. Abeid,Xeka,1
+V. Rosier,F. Sammaritano,1
+V. Rosier,J\u00falio Tavares,1
+C. Yamber\u00e9,F. Balmont,1
+W. Lautoa,N. Sliti,1
+N. Sliti,Xeka,1
+B. Reynet,W. Lautoa,1
+F. Sammaritano,O. Haddadi,1
+O. Haddadi,N. Sliti,1
+C. Yamber\u00e9,B. Reynet,1
+M. Abeid,F. Balmont,1
+N. Sliti,B. Reynet,1
+F. Balmont,O. Haddadi,1
+V. Rosier,M. Abeid,1
+F. Balmont,W. Lautoa,1
+W. Lautoa,F. Balmont,1
+F. Sammaritano,V. Rosier,1
+N. Sliti,O. Haddadi,1
+B. Reynet,J\u00falio Tavares,1
+W. Lautoa,O. Haddadi,1

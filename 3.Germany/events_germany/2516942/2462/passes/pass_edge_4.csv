@@ -1,0 +1,24 @@
+Source,Target,Weight
+D. da Costa,M. Wolf,2
+C. Salcedo,D. da Costa,2
+D. Abraham,C. Salcedo,1
+D. Abraham,M. Hasebe,1
+A. Rebi\u0107,S. Haller,1
+D. da Costa,C. Salcedo,1
+C. Salcedo,L. Hradecky,1
+A. Rebi\u0107,D. Abraham,1
+S. Haller,S. Falette,1
+L. Hradecky,T. Chandler,1
+M. Wolf,L. Hradecky,1
+T. Chandler,D. Abraham,1
+M. Wolf,S. Falette,1
+S. Falette,A. Rebi\u0107,1
+S. Falette,D. Abraham,1
+M. Hasebe,C. Salcedo,1
+M. Hasebe,D. da Costa,1
+C. Salcedo,M. Hasebe,1
+A. Rebi\u0107,K. Boateng,1
+D. Abraham,L. Hradecky,1
+L. Hradecky,M. Wolf,1
+M. Wolf,A. Rebi\u0107,1
+L. Hradecky,A. Rebi\u0107,1

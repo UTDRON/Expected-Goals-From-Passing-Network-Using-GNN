@@ -1,0 +1,81 @@
+Source,Target,Weight
+R. Steffen,J. Brekalo,5
+William,J. Guilavogui,5
+F. Uduokhai,R. Knoche,5
+J. Guilavogui,R. Knoche,4
+D. Origi,J. Guilavogui,4
+J. Guilavogui,William,4
+William,D. Didavi,4
+M. Arnold,R. Steffen,4
+R. Knoche,M. Arnold,3
+R. Knoche,F. Uduokhai,3
+D. Didavi,J. Bruma,3
+R. Knoche,William,3
+D. Didavi,J. Brekalo,3
+J. Guilavogui,J. Bruma,3
+R. Steffen,F. Uduokhai,3
+William,D. Origi,3
+R. Steffen,J. Guilavogui,3
+J. Guilavogui,F. Uduokhai,3
+D. Didavi,F. Uduokhai,3
+D. Didavi,William,3
+F. Uduokhai,J. Guilavogui,3
+William,R. Knoche,3
+D. Didavi,R. Steffen,3
+R. Knoche,J. Bruma,3
+J. Bruma,William,2
+F. Uduokhai,William,2
+J. Bruma,F. Uduokhai,2
+J. Bruma,D. Didavi,2
+M. Arnold,J. Guilavogui,2
+J. Brekalo,J. Guilavogui,2
+J. Guilavogui,D. Didavi,2
+R. Steffen,D. Didavi,2
+F. Uduokhai,R. Steffen,2
+R. Knoche,R. Steffen,2
+F. Uduokhai,M. Arnold,2
+J. Brekalo,R. Steffen,2
+William,J. Bruma,2
+R. Steffen,William,2
+D. Origi,R. Steffen,2
+J. Guilavogui,M. Arnold,2
+M. Arnold,D. Didavi,2
+J. Bruma,M. Arnold,2
+R. Steffen,D. Origi,2
+R. Knoche,D. Didavi,2
+D. Origi,R. Knoche,2
+F. Uduokhai,D. Didavi,2
+J. Brekalo,D. Didavi,2
+J. Guilavogui,R. Steffen,2
+M. Arnold,R. Knoche,1
+K. Casteels,F. Uduokhai,1
+K. Casteels,M. Arnold,1
+J. Brekalo,M. Arnold,1
+J. Guilavogui,K. Casteels,1
+M. Arnold,William,1
+William,K. Casteels,1
+J. Brekalo,R. Knoche,1
+J. Brekalo,F. Uduokhai,1
+William,M. Arnold,1
+F. Uduokhai,J. Brekalo,1
+D. Origi,William,1
+J. Brekalo,K. Casteels,1
+R. Knoche,D. Origi,1
+J. Brekalo,J. Bruma,1
+M. Arnold,D. Origi,1
+J. Bruma,D. Origi,1
+K. Casteels,D. Origi,1
+R. Steffen,R. Knoche,1
+D. Didavi,J. Guilavogui,1
+K. Casteels,William,1
+R. Knoche,K. Casteels,1
+K. Casteels,J. Brekalo,1
+F. Uduokhai,K. Casteels,1
+D. Didavi,D. Origi,1
+J. Bruma,J. Guilavogui,1
+J. Bruma,R. Steffen,1
+J. Bruma,R. Knoche,1
+William,F. Uduokhai,1
+D. Didavi,R. Knoche,1
+R. Knoche,J. Brekalo,1
+M. Arnold,F. Uduokhai,1

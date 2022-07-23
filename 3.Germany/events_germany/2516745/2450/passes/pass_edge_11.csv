@@ -1,0 +1,18 @@
+Source,Target,Weight
+B. Wood,S. Schipplock,1
+A. Hunt,B. Wood,1
+A. Ekdal,G. Jung,1
+A. Hunt,A. Ekdal,1
+L. Waldschmidt,A. Ekdal,1
+A. Ekdal,A. Hahn,1
+S. Schipplock,A. Hunt,1
+B. Wood,R. van Drongelen,1
+A. Hahn,L. Waldschmidt,1
+G. Jung,C. Mathenia,1
+R. van Drongelen,B. Wood,1
+C. Mathenia,A. Hahn,1
+R. van Drongelen,L. Waldschmidt,1
+G. Jung,R. van Drongelen,1
+A. Hahn,S. Schipplock,1
+A. Ekdal,A. Hunt,1
+S. Schipplock,A. Ekdal,1

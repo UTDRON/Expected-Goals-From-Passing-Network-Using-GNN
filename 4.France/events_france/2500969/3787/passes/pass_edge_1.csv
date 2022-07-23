@@ -1,0 +1,15 @@
+Source,Target,Weight
+Pedro Mendes,R. Aguilar,2
+R. Aguilar,I. Mbenza,1
+P. Lasne,D. Congr\u00e9,1
+J. Ikon\u00e9,S. Camara,1
+S. Camara,P. Lasne,1
+P. Lasne,R. Aguilar,1
+I. Mbenza,J. Ikon\u00e9,1
+Hilton,Pedro Mendes,1
+D. Congr\u00e9,J. Roussillon,1
+J. Roussillon,Hilton,1
+R. Aguilar,E. Skhiri,1
+R. Aguilar,P. Lasne,1
+E. Skhiri,R. Aguilar,1
+R. Aguilar,Pedro Mendes,1

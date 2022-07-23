@@ -1,0 +1,61 @@
+Source,Target,Weight
+V. Koziello,A. Souquet,9
+Dante,M. Sarr,6
+A. Souquet,V. Koziello,5
+Dante,V. Koziello,5
+A. Souquet,Dante,5
+V. Koziello,W. Sneijder,5
+P. Lees Melou,A. Souquet,4
+A. Souquet,P. Lees Melou,4
+V. Koziello,P. Lees Melou,3
+W. Sneijder,A. Saint-Maximin,3
+V. Koziello,Dante,3
+M. Sarr,R. Walter,3
+P. Lees Melou,V. Koziello,3
+W. Sneijder,V. Koziello,3
+M. Sarr,V. Koziello,3
+M. Sarr,C. Jallet,3
+W. Sneijder,A. Souquet,2
+R. Walter,A. Souquet,2
+Y. Cardinale,Dante,2
+A. Pl\u00e9a,A. Souquet,2
+C. Jallet,R. Walter,2
+W. Sneijder,M. Sarr,2
+A. Saint-Maximin,C. Jallet,2
+R. Walter,Y. Cardinale,2
+A. Souquet,R. Walter,2
+M. Sarr,W. Sneijder,2
+M. Sarr,Y. Cardinale,2
+Y. Cardinale,V. Koziello,2
+W. Sneijder,C. Jallet,2
+C. Jallet,W. Sneijder,2
+C. Jallet,M. Sarr,2
+R. Walter,V. Koziello,2
+A. Souquet,M. Sarr,2
+A. Souquet,A. Pl\u00e9a,2
+A. Saint-Maximin,Dante,2
+V. Koziello,M. Sarr,2
+M. Sarr,A. Saint-Maximin,2
+R. Walter,Dante,2
+P. Lees Melou,W. Sneijder,1
+Dante,W. Sneijder,1
+W. Sneijder,R. Walter,1
+Dante,A. Souquet,1
+M. Sarr,A. Souquet,1
+R. Walter,W. Sneijder,1
+Dante,Y. Cardinale,1
+V. Koziello,R. Walter,1
+V. Koziello,A. Saint-Maximin,1
+V. Koziello,C. Jallet,1
+R. Walter,P. Lees Melou,1
+Y. Cardinale,M. Sarr,1
+A. Saint-Maximin,R. Walter,1
+V. Koziello,A. Pl\u00e9a,1
+C. Jallet,V. Koziello,1
+A. Pl\u00e9a,V. Koziello,1
+Dante,P. Lees Melou,1
+A. Souquet,W. Sneijder,1
+C. Jallet,A. Saint-Maximin,1
+A. Saint-Maximin,V. Koziello,1
+P. Lees Melou,Dante,1
+A. Saint-Maximin,W. Sneijder,1

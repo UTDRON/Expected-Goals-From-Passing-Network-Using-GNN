@@ -1,0 +1,61 @@
+Source,Target,Weight
+M. Friedl,S. Langkamp,5
+S. Langkamp,M. Friedl,4
+M. Kruse,M. Friedl,3
+Z. Junuzovi\u0107,M. Rashica,3
+T. Delaney,S. Langkamp,2
+T. Gebre Selassie,M. Veljkovic,2
+M. Kruse,M. Rashica,2
+Z. Junuzovi\u0107,M. Veljkovic,2
+T. Gebre Selassie,M. Kruse,2
+Z. Junuzovi\u0107,T. Gebre Selassie,2
+M. Friedl,M. Kruse,2
+J. Eggestein,S. Langkamp,2
+M. Rashica,T. Gebre Selassie,2
+M. Veljkovic,M. Kruse,2
+S. Langkamp,Z. Junuzovi\u0107,2
+M. Friedl,T. Delaney,2
+I. Belfodil,M. Rashica,2
+T. Delaney,M. Friedl,2
+M. Rashica,J. Eggestein,1
+J. Pavlenka,T. Gebre Selassie,1
+M. Friedl,T. Gebre Selassie,1
+S. Langkamp,P. Bargfrede,1
+M. Kruse,M. Eggestein,1
+P. Bargfrede,Z. Junuzovi\u0107,1
+P. Bargfrede,M. Friedl,1
+I. Belfodil,Z. Junuzovi\u0107,1
+I. Belfodil,P. Bargfrede,1
+J. Pavlenka,Z. Junuzovi\u0107,1
+M. Rashica,M. Veljkovic,1
+M. Eggestein,T. Gebre Selassie,1
+M. Rashica,J. Pavlenka,1
+Z. Junuzovi\u0107,M. Kruse,1
+J. Pavlenka,M. Friedl,1
+M. Rashica,T. Delaney,1
+M. Kruse,I. Belfodil,1
+T. Gebre Selassie,T. Delaney,1
+S. Langkamp,M. Eggestein,1
+M. Veljkovic,J. Pavlenka,1
+M. Veljkovic,T. Delaney,1
+M. Rashica,M. Friedl,1
+P. Bargfrede,M. Veljkovic,1
+M. Veljkovic,M. Eggestein,1
+M. Friedl,M. Rashica,1
+M. Rashica,I. Belfodil,1
+M. Veljkovic,P. Bargfrede,1
+P. Bargfrede,M. Rashica,1
+S. Langkamp,M. Veljkovic,1
+S. Langkamp,I. Belfodil,1
+T. Gebre Selassie,P. Bargfrede,1
+T. Gebre Selassie,J. Eggestein,1
+M. Veljkovic,S. Langkamp,1
+M. Friedl,P. Bargfrede,1
+S. Langkamp,J. Pavlenka,1
+M. Rashica,Z. Junuzovi\u0107,1
+M. Friedl,I. Belfodil,1
+M. Eggestein,Z. Junuzovi\u0107,1
+M. Eggestein,S. Langkamp,1
+M. Kruse,Z. Junuzovi\u0107,1
+P. Bargfrede,S. Langkamp,1
+T. Delaney,M. Kruse,1

@@ -1,0 +1,81 @@
+Source,Target,Weight
+I. Diop,C. Jullien,6
+I. Diop,G. Imbula,6
+Som\u00e1lia,I. Diop,5
+K. Amian,J. Durmaz,5
+I. Diop,K. Amian,4
+F. Moubandje,A. Delort,4
+G. Imbula,I. Diop,4
+K. Amian,I. Diop,4
+J. Durmaz,C. Jullien,4
+C. Jullien,G. Imbula,4
+A. Delort,Som\u00e1lia,4
+F. Moubandje,C. Jullien,3
+Som\u00e1lia,K. Amian,3
+J. Durmaz,A. Delort,3
+G. Imbula,F. Moubandje,3
+C. Jean,O. Toivonen,3
+A. Lafont,I. Diop,3
+O. Toivonen,I. Diop,3
+Som\u00e1lia,G. Imbula,3
+C. Jullien,A. Lafont,3
+C. Jullien,A. Delort,3
+C. Jean,J. Durmaz,3
+A. Delort,J. Durmaz,3
+G. Imbula,Som\u00e1lia,3
+J. Durmaz,C. Jean,3
+Som\u00e1lia,A. Lafont,3
+G. Imbula,C. Jean,3
+C. Jullien,I. Diop,3
+F. Moubandje,J. Durmaz,2
+I. Diop,Som\u00e1lia,2
+I. Diop,F. Moubandje,2
+K. Amian,Som\u00e1lia,2
+O. Toivonen,G. Imbula,2
+C. Jullien,Som\u00e1lia,2
+G. Imbula,J. Durmaz,2
+O. Toivonen,K. Amian,2
+A. Lafont,O. Toivonen,2
+C. Jean,C. Jullien,2
+G. Imbula,K. Amian,2
+K. Amian,A. Delort,2
+A. Delort,F. Moubandje,2
+F. Moubandje,K. Amian,2
+Som\u00e1lia,O. Toivonen,2
+C. Jullien,F. Moubandje,2
+G. Imbula,C. Jullien,2
+Som\u00e1lia,F. Moubandje,2
+J. Durmaz,O. Toivonen,2
+I. Diop,O. Toivonen,2
+C. Jullien,K. Amian,2
+O. Toivonen,A. Delort,2
+F. Moubandje,G. Imbula,2
+K. Amian,G. Imbula,1
+A. Lafont,K. Amian,1
+J. Durmaz,G. Imbula,1
+J. Durmaz,F. Moubandje,1
+O. Toivonen,Som\u00e1lia,1
+A. Delort,O. Toivonen,1
+C. Jean,Som\u00e1lia,1
+I. Diop,J. Durmaz,1
+I. Diop,A. Lafont,1
+K. Amian,F. Moubandje,1
+O. Toivonen,C. Jullien,1
+A. Delort,C. Jean,1
+O. Toivonen,J. Durmaz,1
+A. Lafont,F. Moubandje,1
+J. Durmaz,Som\u00e1lia,1
+K. Amian,A. Lafont,1
+F. Moubandje,I. Diop,1
+A. Lafont,C. Jullien,1
+G. Imbula,A. Delort,1
+A. Delort,G. Imbula,1
+J. Durmaz,K. Amian,1
+O. Toivonen,C. Jean,1
+A. Lafont,Som\u00e1lia,1
+A. Delort,A. Lafont,1
+C. Jullien,C. Jean,1
+J. Durmaz,I. Diop,1
+F. Moubandje,Som\u00e1lia,1
+K. Amian,O. Toivonen,1
+A. Delort,C. Jullien,1

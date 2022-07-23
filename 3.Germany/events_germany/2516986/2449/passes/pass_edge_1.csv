@@ -1,0 +1,57 @@
+Source,Target,Weight
+B. Stambouli,Naldo,6
+N. Bentaleb,Naldo,5
+B. Stambouli,L. Goretzka,4
+L. Goretzka,B. Stambouli,4
+Naldo,N. Bentaleb,3
+N. Bentaleb,M. Nastasi\u0107,3
+L. Goretzka,M. Nastasi\u0107,3
+N. Bentaleb,B. Stambouli,3
+Naldo,M. Nastasi\u0107,3
+D. Caligiuri,B. Stambouli,3
+L. Goretzka,N. Bentaleb,3
+Naldo,L. Goretzka,3
+D. Caligiuri,L. Goretzka,3
+M. Nastasi\u0107,Naldo,3
+B. Stambouli,G. Burgstaller,2
+M. Nastasi\u0107,G. Burgstaller,2
+M. Nastasi\u0107,B. Oczipka,2
+L. Goretzka,D. Caligiuri,2
+Naldo,D. Caligiuri,2
+G. Burgstaller,B. Stambouli,2
+R. F\u00e4hrmann,M. Nastasi\u0107,2
+Naldo,B. Stambouli,2
+B. Stambouli,D. Caligiuri,2
+M. Nastasi\u0107,B. Stambouli,2
+B. Oczipka,N. Bentaleb,2
+G. Burgstaller,D. Caligiuri,2
+R. F\u00e4hrmann,Naldo,2
+M. Nastasi\u0107,D. Caligiuri,2
+B. Embolo,L. Goretzka,1
+F. Di Santo,L. Goretzka,1
+Naldo,B. Embolo,1
+Naldo,B. Oczipka,1
+F. Di Santo,N. Bentaleb,1
+M. Nastasi\u0107,F. Di Santo,1
+F. Di Santo,B. Stambouli,1
+B. Embolo,N. Bentaleb,1
+D. Caligiuri,M. Nastasi\u0107,1
+D. Caligiuri,G. Burgstaller,1
+D. Caligiuri,N. Bentaleb,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+G. Burgstaller,B. Oczipka,1
+B. Stambouli,M. Nastasi\u0107,1
+M. Nastasi\u0107,N. Bentaleb,1
+Naldo,F. Di Santo,1
+B. Stambouli,F. Di Santo,1
+N. Bentaleb,R. F\u00e4hrmann,1
+N. Bentaleb,D. Caligiuri,1
+B. Oczipka,F. Di Santo,1
+B. Oczipka,M. Nastasi\u0107,1
+B. Stambouli,N. Bentaleb,1
+G. Burgstaller,B. Embolo,1
+B. Oczipka,R. F\u00e4hrmann,1
+F. Di Santo,B. Oczipka,1
+G. Burgstaller,Naldo,1
+D. Caligiuri,R. F\u00e4hrmann,1
+Naldo,G. Burgstaller,1

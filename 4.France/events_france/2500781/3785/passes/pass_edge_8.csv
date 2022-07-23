@@ -1,0 +1,38 @@
+Source,Target,Weight
+M. Coco,F. Tabanou,4
+F. Tabanou,M. Coco,3
+\u00c9. Didot,M. Coco,2
+F. Tabanou,L. Deaux,2
+L. Deaux,\u00c9. Didot,2
+J. Briand,L. Blas,2
+L. Blas,F. Tabanou,2
+C. Kerbrat,L. Deaux,2
+L. Deaux,J. Sorbon,1
+\u00c9. Didot,L. Blas,1
+F. Eboa Eboa,F. Tabanou,1
+M. Coco,J. Briand,1
+K. Johnsson,M. Coco,1
+C. Kerbrat,F. Eboa Eboa,1
+L. Deaux,C. Kerbrat,1
+F. Eboa Eboa,L. Deaux,1
+M. Coco,C. Kerbrat,1
+F. Eboa Eboa,C. Kerbrat,1
+C. Kerbrat,K. Johnsson,1
+F. Eboa Eboa,R. Camara,1
+J. Sorbon,\u00c9. Didot,1
+M. Coco,\u00c9. Didot,1
+L. Blas,F. Eboa Eboa,1
+\u00c9. Didot,F. Tabanou,1
+L. Deaux,M. Coco,1
+F. Tabanou,J. Briand,1
+M. Coco,K. Johnsson,1
+F. Tabanou,L. Blas,1
+L. Deaux,F. Tabanou,1
+F. Tabanou,K. Johnsson,1
+K. Johnsson,L. Deaux,1
+F. Tabanou,C. Kerbrat,1
+K. Johnsson,J. Sorbon,1
+L. Blas,M. Coco,1
+L. Deaux,R. Camara,1
+J. Sorbon,L. Deaux,1
+R. Camara,F. Eboa Eboa,1

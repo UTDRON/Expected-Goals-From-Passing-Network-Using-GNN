@@ -1,0 +1,81 @@
+Source,Target,Weight
+C. Kerbrat,\u00c9. Didot,6
+\u00c9. Didot,C. Kerbrat,5
+L. Deaux,N. Benezet,5
+\u00c9. Didot,L. Blas,5
+N. Benezet,F. Tabanou,5
+\u00c9. Didot,L. Deaux,4
+F. Tabanou,\u00c9. Didot,4
+J. Ikoko,\u00c9. Didot,4
+L. Blas,\u00c9. Didot,4
+\u00c9. Didot,N. Benezet,4
+J. Ikoko,C. Kerbrat,4
+L. Blas,J. Ikoko,4
+R. Camara,N. Benezet,4
+L. Deaux,C. Kerbrat,4
+J. Ikoko,R. Camara,4
+\u00c9. Didot,J. Ikoko,3
+K. Johnsson,J. Briand,3
+C. Kerbrat,L. Deaux,3
+R. Camara,J. Ikoko,3
+N. Benezet,L. Blas,3
+F. Tabanou,L. Blas,3
+N. Benezet,L. Deaux,3
+R. Camara,\u00c9. Didot,3
+F. Tabanou,N. Benezet,3
+J. Sorbon,F. Tabanou,3
+N. Benezet,J. Sorbon,3
+J. Sorbon,\u00c9. Didot,3
+\u00c9. Didot,K. Johnsson,2
+C. Kerbrat,J. Ikoko,2
+L. Deaux,J. Ikoko,2
+C. Kerbrat,K. Johnsson,2
+K. Johnsson,F. Tabanou,2
+J. Ikoko,K. Johnsson,2
+N. Benezet,K. Johnsson,2
+J. Ikoko,L. Blas,2
+C. Kerbrat,N. Benezet,2
+C. Kerbrat,L. Blas,2
+F. Tabanou,L. Deaux,2
+\u00c9. Didot,J. Sorbon,2
+L. Deaux,R. Camara,2
+N. Benezet,R. Camara,2
+J. Sorbon,C. Kerbrat,2
+L. Blas,N. Benezet,2
+L. Blas,F. Tabanou,2
+J. Sorbon,L. Deaux,2
+K. Johnsson,J. Sorbon,2
+J. Briand,F. Tabanou,1
+J. Sorbon,J. Ikoko,1
+F. Tabanou,J. Briand,1
+\u00c9. Didot,R. Camara,1
+N. Benezet,C. Kerbrat,1
+L. Blas,F. Eboa Eboa,1
+L. Deaux,F. Tabanou,1
+F. Eboa Eboa,N. Benezet,1
+F. Eboa Eboa,R. Camara,1
+K. Johnsson,\u00c9. Didot,1
+N. Benezet,J. Ikoko,1
+F. Tabanou,J. Sorbon,1
+N. Benezet,F. Eboa Eboa,1
+R. Camara,F. Eboa Eboa,1
+L. Deaux,L. Blas,1
+L. Blas,C. Kerbrat,1
+R. Camara,L. Blas,1
+L. Blas,J. Briand,1
+L. Deaux,\u00c9. Didot,1
+F. Eboa Eboa,F. Tabanou,1
+F. Tabanou,K. Johnsson,1
+L. Blas,L. Deaux,1
+L. Blas,J. Sorbon,1
+F. Tabanou,C. Kerbrat,1
+J. Ikoko,L. Deaux,1
+C. Kerbrat,J. Sorbon,1
+J. Briand,R. Camara,1
+N. Benezet,J. Briand,1
+J. Briand,J. Sorbon,1
+K. Johnsson,C. Kerbrat,1
+C. Kerbrat,R. Camara,1
+J. Briand,N. Benezet,1
+J. Briand,\u00c9. Didot,1
+\u00c9. Didot,F. Tabanou,1

@@ -1,0 +1,25 @@
+Source,Target,Weight
+M. Ginter,R. Oxford,3
+C. Kramer,M. Ginter,1
+J. Vestergaard,T. Hazard,1
+N. Elvedi,M. Ginter,1
+M. Ginter,J. Vestergaard,1
+R. Oxford,J. Hofmann,1
+R. Oxford,M. Ginter,1
+R. Bobadilla,M. Ginter,1
+R. Oxford,C. Kramer,1
+J. Hofmann,Y. Sommer,1
+L. Stindl,J. Hofmann,1
+R. Bobadilla,L. Stindl,1
+C. Kramer,D. Zakaria,1
+J. Hofmann,C. Kramer,1
+Y. Sommer,N. Elvedi,1
+T. Hazard,L. Stindl,1
+N. Elvedi,R. Bobadilla,1
+D. Zakaria,J. Hofmann,1
+M. Ginter,N. Elvedi,1
+N. Elvedi,T. Hazard,1
+L. Stindl,N. Elvedi,1
+M. Ginter,R. Bobadilla,1
+J. Hofmann,M. Ginter,1
+T. Hazard,N. Elvedi,1

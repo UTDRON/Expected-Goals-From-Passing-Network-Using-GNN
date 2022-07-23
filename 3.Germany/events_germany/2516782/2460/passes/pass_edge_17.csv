@@ -1,0 +1,49 @@
+Source,Target,Weight
+D. Brosinski,S. Bell,4
+D. Brosinski,P. De Blasis,4
+D. Latza,D. Brosinski,3
+Jairo Samperio,D. Latza,2
+P. De Blasis,J. Gbamin,2
+G. Donati,P. De Blasis,2
+P. De Blasis,D. Latza,2
+L. Balogun,G. Donati,2
+G. Donati,Jairo Samperio,2
+D. Latza,P. De Blasis,2
+A. Maxim,Y. Muto,1
+R. Adler,Y. Muto,1
+S. Serdar,D. Brosinski,1
+S. Bell,L. Balogun,1
+Y. Muto,G. Donati,1
+G. Donati,D. Brosinski,1
+Y. Muto,D. Latza,1
+J. Gbamin,P. De Blasis,1
+P. De Blasis,S. Serdar,1
+D. Brosinski,J. Gbamin,1
+J. Gbamin,Y. Muto,1
+J. Gbamin,G. Donati,1
+L. \u00d6ztunali,S. Serdar,1
+S. Serdar,L. Balogun,1
+S. Bell,R. Adler,1
+S. Serdar,G. Donati,1
+J. Gbamin,D. Latza,1
+S. Bell,D. Latza,1
+Y. Muto,D. Brosinski,1
+P. De Blasis,D. Brosinski,1
+D. Latza,J. Gbamin,1
+G. Donati,S. Serdar,1
+S. Bell,D. Brosinski,1
+L. Balogun,D. Latza,1
+Jairo Samperio,G. Donati,1
+S. Serdar,D. Latza,1
+L. Balogun,R. Adler,1
+P. De Blasis,L. Balogun,1
+G. Donati,L. Balogun,1
+D. Latza,G. Donati,1
+D. Latza,S. Serdar,1
+P. De Blasis,G. Donati,1
+R. Adler,D. Brosinski,1
+P. De Blasis,Jairo Samperio,1
+D. Latza,Jairo Samperio,1
+G. Donati,Y. Muto,1
+Jairo Samperio,S. Bell,1
+S. Bell,A. Maxim,1

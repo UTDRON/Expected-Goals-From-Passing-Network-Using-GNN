@@ -1,0 +1,31 @@
+Source,Target,Weight
+J. Briand,Y. Salibur,4
+Y. Salibur,F. Eboa Eboa,3
+F. Eboa Eboa,Y. Salibur,2
+C. Kerbrat,L. Deaux,2
+\u00c9. Didot,Y. Salibur,2
+Y. Salibur,J. Briand,2
+Y. Salibur,M. Thuram,2
+M. Thuram,J. Briand,1
+J. Ikoko,C. Kerbrat,1
+M. Thuram,Pedro Rebocho,1
+L. Deaux,J. Briand,1
+Pedro Rebocho,M. Thuram,1
+Pedro Rebocho,J. Briand,1
+Pedro Rebocho,L. Phiri,1
+\u00c9. Didot,Pedro Rebocho,1
+M. Thuram,\u00c9. Didot,1
+J. Briand,C. Kerbrat,1
+L. Deaux,\u00c9. Didot,1
+C. Kerbrat,J. Ikoko,1
+Y. Salibur,J. Ikoko,1
+Pedro Rebocho,\u00c9. Didot,1
+C. Kerbrat,Y. Salibur,1
+J. Ikoko,Y. Salibur,1
+J. Briand,Pedro Rebocho,1
+F. Eboa Eboa,J. Briand,1
+L. Phiri,C. Kerbrat,1
+Y. Salibur,C. Kerbrat,1
+F. Eboa Eboa,Pedro Rebocho,1
+Y. Salibur,Pedro Rebocho,1
+Pedro Rebocho,Y. Salibur,1

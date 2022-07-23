@@ -1,0 +1,19 @@
+Source,Target,Weight
+M. Meyer,Naldo,2
+T. Kehrer,Naldo,2
+Naldo,M. Meyer,2
+Naldo,T. Kehrer,1
+M. Meyer,T. Kehrer,1
+F. Di Santo,D. Caligiuri,1
+B. Oczipka,M. Meyer,1
+M. Meyer,B. Stambouli,1
+W. McKennie,M. Meyer,1
+M. Meyer,B. Oczipka,1
+B. Stambouli,M. Meyer,1
+Naldo,B. Stambouli,1
+B. Oczipka,F. Di Santo,1
+B. Oczipka,T. Kehrer,1
+D. Caligiuri,B. Oczipka,1
+B. Stambouli,Naldo,1
+D. Caligiuri,W. McKennie,1
+Naldo,B. Oczipka,1

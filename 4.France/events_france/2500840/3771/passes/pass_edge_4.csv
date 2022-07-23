@@ -1,0 +1,32 @@
+Source,Target,Weight
+A. Rami,H. Sakai,4
+J. Amavi,D. Payet,3
+A. Abdennour,J. Amavi,2
+A. Rami,J. Amavi,2
+D. Payet,A. Zambo Anguissa,2
+A. Rami,A. Abdennour,2
+H. Sakai,A. Rami,2
+Luiz Gustavo,J. Amavi,2
+A. Abdennour,A. Rami,2
+M. Sanson,F. Thauvin,2
+D. Payet,J. Amavi,2
+J. Amavi,Luiz Gustavo,2
+J. Amavi,A. Rami,2
+J. Amavi,M. Sanson,1
+Luiz Gustavo,A. Rami,1
+A. Abdennour,D. Payet,1
+M. Sanson,J. Amavi,1
+J. Amavi,A. Zambo Anguissa,1
+H. Sakai,M. Sanson,1
+A. Zambo Anguissa,J. Amavi,1
+M. Sanson,H. Sakai,1
+F. Thauvin,D. Payet,1
+D. Payet,A. Rami,1
+A. Rami,Luiz Gustavo,1
+A. Zambo Anguissa,A. Abdennour,1
+H. Sakai,F. Thauvin,1
+F. Thauvin,Luiz Gustavo,1
+J. Amavi,A. Abdennour,1
+Luiz Gustavo,M. Sanson,1
+H. Sakai,A. Abdennour,1
+F. Thauvin,A. Rami,1

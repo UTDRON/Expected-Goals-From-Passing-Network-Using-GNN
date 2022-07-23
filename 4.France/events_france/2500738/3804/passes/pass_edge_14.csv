@@ -1,0 +1,60 @@
+Source,Target,Weight
+B. Jeannot,J. Mari\u00e9,3
+B. Reynet,P. Djilobodji,3
+V. Rosier,P. Djilobodji,3
+F. Chafik,J. Mari\u00e9,3
+P. Djilobodji,V. Rosier,2
+N. Sliti,B. Jeannot,2
+F. Sammaritano,F. Chafik,2
+V. Rosier,Xeka,2
+P. Djilobodji,Xeka,2
+N. Sliti,J. Mari\u00e9,2
+C. Yamber\u00e9,W. Sa\u00efd,2
+C. Yamber\u00e9,V. Rosier,2
+Xeka,B. Reynet,2
+F. Chafik,Xeka,2
+Xeka,F. Chafik,2
+J. Mari\u00e9,F. Chafik,2
+V. Rosier,J. Mari\u00e9,2
+P. Djilobodji,F. Chafik,1
+N. Sliti,V. Rosier,1
+W. Sa\u00efd,Xeka,1
+Xeka,N. Sliti,1
+Xeka,B. Jeannot,1
+J. Mari\u00e9,N. Sliti,1
+B. Reynet,W. Sa\u00efd,1
+C. Yamber\u00e9,N. Sliti,1
+Xeka,P. Djilobodji,1
+N. Sliti,Xeka,1
+F. Chafik,N. Sliti,1
+J. Mari\u00e9,B. Reynet,1
+F. Sammaritano,N. Sliti,1
+B. Reynet,V. Rosier,1
+F. Chafik,F. Sammaritano,1
+C. Yamber\u00e9,B. Reynet,1
+F. Chafik,V. Rosier,1
+J. Mari\u00e9,W. Sa\u00efd,1
+B. Jeannot,F. Chafik,1
+J\u00falio Tavares,N. Sliti,1
+W. Sa\u00efd,V. Rosier,1
+B. Reynet,F. Sammaritano,1
+P. Djilobodji,B. Jeannot,1
+J. Mari\u00e9,V. Rosier,1
+J. Mari\u00e9,C. Yamber\u00e9,1
+V. Rosier,N. Sliti,1
+Xeka,W. Sa\u00efd,1
+J\u00falio Tavares,Xeka,1
+N. Sliti,F. Chafik,1
+J. Mari\u00e9,J\u00falio Tavares,1
+N. Sliti,C. Yamber\u00e9,1
+Xeka,C. Yamber\u00e9,1
+P. Djilobodji,N. Sliti,1
+J. Mari\u00e9,Xeka,1
+W. Sa\u00efd,C. Yamber\u00e9,1
+Xeka,J. Mari\u00e9,1
+V. Rosier,C. Yamber\u00e9,1
+W. Sa\u00efd,J\u00falio Tavares,1
+W. Sa\u00efd,P. Djilobodji,1
+F. Chafik,B. Reynet,1
+P. Djilobodji,B. Reynet,1
+J. Mari\u00e9,F. Sammaritano,1

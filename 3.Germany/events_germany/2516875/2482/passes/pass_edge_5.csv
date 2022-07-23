@@ -1,0 +1,12 @@
+Source,Target,Weight
+D. Geiger,N. Schulz,2
+D. Geiger,L. Rupp,1
+M. Uth,N. Schulz,1
+O. Baumann,D. Geiger,1
+B. H\u00fcbner,O. Baumann,1
+L. Rupp,M. Uth,1
+N. Schulz,M. Uth,1
+L. Rupp,D. Geiger,1
+N. Schulz,S. Gnabry,1
+N. Schulz,L. Rupp,1
+M. Uth,D. Geiger,1

@@ -1,0 +1,22 @@
+Source,Target,Weight
+Pedro Mendes,J. Sambia,3
+N. Mukiele,Pedro Mendes,2
+S. Sess\u00e8gnon,E. Skhiri,2
+G. Sio,J. Sambia,2
+J. Sambia,Hilton,2
+N. Mukiele,G. Sio,2
+Hilton,N. Mukiele,1
+J. Sambia,Pedro Mendes,1
+G. Sio,R. Aguilar,1
+J. Roussillon,G. Sio,1
+B. Lecomte,G. Sio,1
+R. Aguilar,G. Sio,1
+J. Sambia,S. Sess\u00e8gnon,1
+B. Lecomte,Pedro Mendes,1
+Hilton,R. Aguilar,1
+R. Aguilar,N. Mukiele,1
+E. Skhiri,J. Roussillon,1
+E. Skhiri,N. Mukiele,1
+G. Sio,B. Lecomte,1
+J. Sambia,N. Mukiele,1
+Pedro Mendes,B. Lecomte,1

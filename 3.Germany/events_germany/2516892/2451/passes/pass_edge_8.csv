@@ -1,0 +1,43 @@
+Source,Target,Weight
+F. Uduokhai,William,3
+William,P. Verhaegh,3
+M. Tisserand,F. Uduokhai,2
+Y. Mall\u0131,P. Verhaegh,2
+P. Verhaegh,F. Uduokhai,2
+P. Verhaegh,J. Brekalo,2
+R. Steffen,William,2
+William,D. Origi,2
+J. Brekalo,P. Verhaegh,2
+P. Verhaegh,Y. Mall\u0131,2
+D. Origi,P. Verhaegh,2
+Y. Mall\u0131,J. Guilavogui,1
+D. Origi,Y. Mall\u0131,1
+P. Verhaegh,M. Tisserand,1
+P. Verhaegh,K. Casteels,1
+Y. Mall\u0131,J. Brekalo,1
+P. Verhaegh,J. Guilavogui,1
+J. Brekalo,R. Steffen,1
+M. Tisserand,William,1
+M. Arnold,Y. Mall\u0131,1
+M. Tisserand,K. Casteels,1
+K. Casteels,M. Arnold,1
+M. Tisserand,J. Brekalo,1
+William,M. Tisserand,1
+P. Verhaegh,D. Origi,1
+R. Steffen,J. Brekalo,1
+K. Casteels,F. Uduokhai,1
+J. Brekalo,D. Origi,1
+F. Uduokhai,K. Casteels,1
+J. Guilavogui,R. Steffen,1
+F. Uduokhai,M. Tisserand,1
+K. Casteels,M. Tisserand,1
+William,R. Steffen,1
+D. Origi,William,1
+M. Arnold,M. Tisserand,1
+J. Brekalo,M. Arnold,1
+D. Origi,M. Arnold,1
+Y. Mall\u0131,D. Origi,1
+J. Guilavogui,J. Brekalo,1
+M. Arnold,P. Verhaegh,1
+M. Arnold,William,1
+William,M. Arnold,1

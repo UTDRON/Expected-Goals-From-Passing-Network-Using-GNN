@@ -1,0 +1,72 @@
+Source,Target,Weight
+A. Bamba,F. Tait,7
+T. Mangani,F. Tait,6
+F. Tait,T. Mangani,5
+V. Manceau,T. Mangani,5
+T. Mangani,V. Manceau,5
+M. Pavlovi\u0107,T. Mangani,4
+V. Manceau,K. Toko Ekambi,4
+M. Pavlovi\u0107,B. Santamaria,4
+A. Bamba,T. Mangani,4
+B. Santamaria,A. Bamba,4
+P. Capelle,V. Manceau,4
+T. Mangani,M. Pavlovi\u0107,4
+M. Pavlovi\u0107,A. Bamba,4
+V. Manceau,P. Oniangu\u00e9,3
+A. Bamba,B. Santamaria,3
+B. Santamaria,T. Mangani,3
+L. Butelle,M. Pavlovi\u0107,3
+I. Traor\u00e9,M. Pavlovi\u0107,3
+P. Capelle,P. Oniangu\u00e9,3
+F. Tait,A. Bamba,3
+V. Manceau,P. Capelle,3
+K. Toko Ekambi,V. Manceau,3
+T. Mangani,K. Toko Ekambi,3
+M. Pavlovi\u0107,V. Manceau,3
+T. Mangani,A. Bamba,3
+K. Toko Ekambi,T. Mangani,2
+T. Mangani,B. Santamaria,2
+K. Toko Ekambi,B. Santamaria,2
+P. Oniangu\u00e9,P. Capelle,2
+B. Santamaria,M. Pavlovi\u0107,2
+P. Oniangu\u00e9,T. Mangani,2
+V. Manceau,L. Butelle,2
+F. Tait,M. Pavlovi\u0107,2
+M. Pavlovi\u0107,K. Toko Ekambi,2
+F. Tait,I. Traor\u00e9,2
+B. Santamaria,P. Capelle,2
+T. Mangani,P. Capelle,2
+P. Capelle,T. Mangani,2
+K. Toko Ekambi,M. Pavlovi\u0107,2
+P. Oniangu\u00e9,V. Manceau,2
+V. Manceau,I. Traor\u00e9,2
+K. Toko Ekambi,P. Oniangu\u00e9,1
+L. Butelle,A. Bamba,1
+B. Santamaria,V. Manceau,1
+B. Santamaria,P. Oniangu\u00e9,1
+T. Mangani,I. Traor\u00e9,1
+B. Santamaria,L. Butelle,1
+P. Capelle,M. Pavlovi\u0107,1
+F. Tait,K. Toko Ekambi,1
+F. Tait,L. Butelle,1
+B. Santamaria,K. Toko Ekambi,1
+I. Traor\u00e9,P. Capelle,1
+M. Pavlovi\u0107,I. Traor\u00e9,1
+A. Bamba,M. Pavlovi\u0107,1
+P. Oniangu\u00e9,K. Toko Ekambi,1
+P. Oniangu\u00e9,B. Santamaria,1
+I. Traor\u00e9,B. Santamaria,1
+K. Toko Ekambi,F. Tait,1
+M. Pavlovi\u0107,P. Oniangu\u00e9,1
+A. Bamba,K. Toko Ekambi,1
+K. Toko Ekambi,P. Capelle,1
+L. Butelle,V. Manceau,1
+F. Tait,B. Santamaria,1
+A. Bamba,P. Capelle,1
+V. Manceau,B. Santamaria,1
+P. Capelle,A. Bamba,1
+T. Mangani,L. Butelle,1
+V. Manceau,M. Pavlovi\u0107,1
+I. Traor\u00e9,V. Manceau,1
+P. Oniangu\u00e9,A. Bamba,1
+P. Capelle,F. Tait,1

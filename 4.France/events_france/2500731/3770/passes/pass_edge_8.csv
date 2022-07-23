@@ -1,0 +1,51 @@
+Source,Target,Weight
+N. Gandi,K. Djidji,3
+N. Gandi,Diego Carlos,3
+K. Djidji,N. Gandi,3
+K. Coulibaly,A. Thomasson,3
+Diego Carlos,N. Gandi,3
+N. Gandi,A. Tour\u00e9,3
+A. Thomasson,K. Djidji,3
+C. T\u0103t\u0103ru\u0219anu,N. Gandi,2
+Diego Carlos,Y. El Ghanassy,2
+A. Tour\u00e9,Andrei Girotto,2
+C. T\u0103t\u0103ru\u0219anu,K. Coulibaly,2
+K. Djidji,A. Tour\u00e9,2
+K. Djidji,K. Coulibaly,2
+N. Pallois,N. Gandi,2
+K. Djidji,A. Thomasson,1
+N. Gandi,C. T\u0103t\u0103ru\u0219anu,1
+A. Thomasson,N. Pallois,1
+Andrei Girotto,Diego Carlos,1
+A. Tour\u00e9,A. Thomasson,1
+Andrei Girotto,K. Djidji,1
+Andrei Girotto,A. Tour\u00e9,1
+A. Thomasson,E. Sala,1
+J. Iloki,L. Dubois,1
+K. Djidji,Andrei Girotto,1
+E. Sala,K. Djidji,1
+A. Tour\u00e9,N. Pallois,1
+N. Gandi,L. Dubois,1
+K. Djidji,C. T\u0103t\u0103ru\u0219anu,1
+Y. El Ghanassy,A. Thomasson,1
+Diego Carlos,C. T\u0103t\u0103ru\u0219anu,1
+Y. El Ghanassy,C. T\u0103t\u0103ru\u0219anu,1
+N. Gandi,A. Thomasson,1
+A. Tour\u00e9,Diego Carlos,1
+N. Gandi,E. Sala,1
+L. Dubois,C. T\u0103t\u0103ru\u0219anu,1
+A. Thomasson,Y. El Ghanassy,1
+K. Djidji,N. Pallois,1
+K. Coulibaly,Y. El Ghanassy,1
+A. Tour\u00e9,N. Gandi,1
+A. Thomasson,Andrei Girotto,1
+N. Pallois,K. Djidji,1
+C. T\u0103t\u0103ru\u0219anu,K. Djidji,1
+L. Dubois,A. Thomasson,1
+A. Tour\u00e9,L. Dubois,1
+E. Sala,N. Gandi,1
+L. Dubois,J. Iloki,1
+A. Thomasson,N. Gandi,1
+L. Dubois,A. Tour\u00e9,1
+Y. El Ghanassy,L. Dubois,1
+Y. El Ghanassy,Diego Carlos,1

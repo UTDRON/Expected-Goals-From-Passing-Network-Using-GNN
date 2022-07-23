@@ -1,0 +1,26 @@
+Source,Target,Weight
+J. Durmaz,A. Delort,4
+F. Moubandje,J. Durmaz,2
+A. Delort,C. Jean,2
+C. Jean,K. Amian,2
+K. Amian,C. Jean,2
+A. Delort,K. Amian,1
+F. Moubandje,K. Amian,1
+K. Amian,J. Durmaz,1
+I. Sangar\u00e9,F. Moubandje,1
+A. Delort,Z. Machach,1
+K. Amian,F. Moubandje,1
+C. Jean,C. Jullien,1
+A. Delort,C. Jullien,1
+F. Moubandje,S. Yago,1
+J. Durmaz,I. Sangar\u00e9,1
+C. Jullien,F. Moubandje,1
+C. Jullien,J. Durmaz,1
+I. Sangar\u00e9,A. Delort,1
+C. Jean,I. Sangar\u00e9,1
+S. Yago,C. Jullien,1
+F. Moubandje,C. Jean,1
+A. Delort,J. Durmaz,1
+A. Delort,F. Moubandje,1
+C. Jullien,A. Delort,1
+C. Jean,A. Delort,1

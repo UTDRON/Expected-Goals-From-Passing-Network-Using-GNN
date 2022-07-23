@@ -1,0 +1,54 @@
+Source,Target,Weight
+N. Elvedi,O. Wendt,4
+J. Vestergaard,M. Ginter,4
+O. Wendt,Raffael,4
+N. Elvedi,J. Vestergaard,4
+Raffael,M. Cuisance,3
+T. Hazard,O. Wendt,3
+Raffael,C. Kramer,3
+Raffael,T. Hazard,3
+C. Kramer,N. Elvedi,3
+N. Elvedi,Y. Sommer,3
+O. Wendt,T. Hazard,3
+T. Hazard,N. Elvedi,2
+C. Kramer,J. Vestergaard,2
+O. Wendt,N. Elvedi,2
+M. Ginter,Raffael,2
+J. Vestergaard,Raffael,2
+C. Kramer,O. Wendt,2
+O. Wendt,J. Vestergaard,2
+J. Vestergaard,N. Elvedi,2
+M. Cuisance,N. Elvedi,2
+I. Traor\u00e9,M. Ginter,2
+T. Hazard,J. Vestergaard,2
+Raffael,O. Wendt,2
+N. Elvedi,C. Kramer,2
+J. Vestergaard,C. Kramer,2
+I. Traor\u00e9,O. Wendt,1
+Y. Sommer,J. Drmic,1
+Y. Sommer,O. Wendt,1
+Raffael,J. Drmic,1
+M. Cuisance,C. Kramer,1
+M. Ginter,M. Cuisance,1
+Raffael,N. Elvedi,1
+M. Cuisance,M. Ginter,1
+J. Vestergaard,I. Traor\u00e9,1
+J. Drmic,T. Hazard,1
+I. Traor\u00e9,Raffael,1
+O. Wendt,I. Traor\u00e9,1
+M. Cuisance,J. Drmic,1
+J. Vestergaard,T. Hazard,1
+T. Hazard,Raffael,1
+M. Ginter,I. Traor\u00e9,1
+J. Drmic,Raffael,1
+Y. Sommer,Raffael,1
+J. Drmic,J. Vestergaard,1
+O. Wendt,C. Kramer,1
+O. Wendt,J. Drmic,1
+M. Ginter,T. Hazard,1
+M. Ginter,J. Vestergaard,1
+C. Kramer,I. Traor\u00e9,1
+M. Ginter,N. Elvedi,1
+J. Vestergaard,O. Wendt,1
+T. Hazard,M. Cuisance,1
+C. Kramer,Raffael,1

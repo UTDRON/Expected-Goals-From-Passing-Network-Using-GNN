@@ -1,0 +1,26 @@
+Source,Target,Weight
+Felipe,M. Ostrzolek,3
+S. San\u00e9,Felipe,3
+P. Schwegler,M. Harnik,2
+M. Bakalorz,P. Schwegler,2
+F. Klaus,W. Anton,2
+P. Tschauner,S. San\u00e9,2
+M. Ostrzolek,P. Tschauner,1
+M. Ostrzolek,F. Klaus,1
+N. F\u00fcllkrug,M. Ostrzolek,1
+Felipe,S. San\u00e9,1
+J. Korb,P. Schwegler,1
+P. Schwegler,W. Anton,1
+M. Bakalorz,F. Klaus,1
+M. Ostrzolek,M. Harnik,1
+S. San\u00e9,J. Korb,1
+M. Harnik,P. Schwegler,1
+M. Harnik,W. Anton,1
+W. Anton,M. Bakalorz,1
+P. Schwegler,S. San\u00e9,1
+Felipe,M. Bakalorz,1
+W. Anton,M. Ostrzolek,1
+M. Harnik,N. F\u00fcllkrug,1
+W. Anton,P. Tschauner,1
+M. Ostrzolek,Felipe,1
+M. Ostrzolek,M. Bakalorz,1

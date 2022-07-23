@@ -1,0 +1,23 @@
+Source,Target,Weight
+R. Genevois,D. Da Silva,2
+I. Santini,F. Guilbert,1
+V. Bessat,Y. A\u00eft Bennasser,1
+D. Da Silva,V. Bessat,1
+D. Da Silva,F. Guilbert,1
+R. Genevois,I. Santini,1
+J. F\u00e9ret,Y. A\u00eft Bennasser,1
+F. Guilbert,R. Genevois,1
+F. Guilbert,J. F\u00e9ret,1
+F. Guilbert,C. Kouakou,1
+C. Kouakou,F. Guilbert,1
+Y. A\u00eft Bennasser,R. Rodelin,1
+C. Kouakou,I. Santini,1
+J. F\u00e9ret,C. Kouakou,1
+Y. A\u00eft Bennasser,V. Bessat,1
+J. Repas,R. Genevois,1
+R. Rodelin,J. F\u00e9ret,1
+I. Santini,J. Repas,1
+V. Bessat,R. Genevois,1
+I. Santini,C. Kouakou,1
+J. F\u00e9ret,R. Genevois,1
+R. Genevois,J. F\u00e9ret,1

@@ -1,0 +1,94 @@
+Source,Target,Weight
+L. Lacroix,L. Perrin,6
+Gabriel Silva,J. Bamba,6
+L. Perrin,Gabriel Silva,6
+R. Cabella,K. Th\u00e9ophile Catherine,6
+K. Th\u00e9ophile Catherine,R. Cabella,5
+Gabriel Silva,L. Perrin,4
+O. Seln\u00e6s,L. Perrin,4
+R. Cabella,B. Dabo,4
+R. Cabella,J. Bamba,4
+J. Bamba,L. Lacroix,4
+J. Bamba,Gabriel Silva,4
+B. Dabo,R. Cabella,4
+R. Cabella,O. Seln\u00e6s,4
+L. Perrin,B. Dabo,4
+L. Perrin,K. Th\u00e9ophile Catherine,4
+J. Bamba,R. Cabella,4
+O. Seln\u00e6s,Gabriel Silva,3
+Gabriel Silva,B. Dabo,3
+B. Dabo,L. Perrin,3
+L. Perrin,O. Seln\u00e6s,3
+J. Moulin,L. Perrin,3
+B. Dabo,K. Th\u00e9ophile Catherine,3
+K. Th\u00e9ophile Catherine,B. Dabo,3
+L. Perrin,R. Cabella,3
+O. Seln\u00e6s,R. Hamouma,3
+O. Seln\u00e6s,B. Dabo,3
+K. Th\u00e9ophile Catherine,O. Seln\u00e6s,3
+B. Dabo,O. Seln\u00e6s,3
+Gabriel Silva,L. Lacroix,3
+B. Dabo,L. Lacroix,3
+O. Seln\u00e6s,L. Lacroix,3
+J. Bamba,O. Seln\u00e6s,2
+J. Moulin,J. Bamba,2
+R. Cabella,V. Pajot,2
+L. Lacroix,R. Hamouma,2
+O. Seln\u00e6s,J. Bamba,2
+R. Hamouma,L. Lacroix,2
+R. Hamouma,O. Seln\u00e6s,2
+K. Th\u00e9ophile Catherine,L. Lacroix,2
+Gabriel Silva,O. Seln\u00e6s,2
+L. Lacroix,R. Cabella,2
+K. Th\u00e9ophile Catherine,L. Perrin,2
+J. Bamba,K. Th\u00e9ophile Catherine,2
+V. Pajot,Gabriel Silva,2
+R. Beri\u010d,L. Perrin,2
+J. Bamba,R. Beri\u010d,2
+R. Hamouma,R. Cabella,2
+B. Dabo,Gabriel Silva,2
+L. Lacroix,B. Dabo,2
+R. Cabella,L. Perrin,2
+K. Th\u00e9ophile Catherine,J. Moulin,2
+L. Lacroix,Gabriel Silva,2
+L. Perrin,J. Moulin,2
+Gabriel Silva,R. Cabella,2
+Gabriel Silva,J. Moulin,2
+J. Moulin,Gabriel Silva,1
+Gabriel Silva,R. Hamouma,1
+R. Hamouma,K. Th\u00e9ophile Catherine,1
+R. Cabella,J. Moulin,1
+R. Beri\u010d,K. Th\u00e9ophile Catherine,1
+R. Hamouma,J. Bamba,1
+L. Lacroix,K. Th\u00e9ophile Catherine,1
+B. Dabo,R. Beri\u010d,1
+R. Cabella,R. Hamouma,1
+R. Cabella,Gabriel Silva,1
+R. Hamouma,Gabriel Silva,1
+K. Th\u00e9ophile Catherine,V. Pajot,1
+O. Seln\u00e6s,R. Cabella,1
+R. Beri\u010d,Gabriel Silva,1
+B. Dabo,J. Bamba,1
+L. Lacroix,J. Moulin,1
+K. Th\u00e9ophile Catherine,J. Bamba,1
+R. Hamouma,J. Moulin,1
+R. Hamouma,B. Dabo,1
+K. Th\u00e9ophile Catherine,R. Hamouma,1
+L. Perrin,J. Bamba,1
+L. Perrin,L. Lacroix,1
+J. Bamba,B. Dabo,1
+J. Moulin,L. Lacroix,1
+R. Hamouma,R. Beri\u010d,1
+L. Lacroix,J. Bamba,1
+Gabriel Silva,K. Th\u00e9ophile Catherine,1
+J. Moulin,R. Cabella,1
+O. Seln\u00e6s,K. Th\u00e9ophile Catherine,1
+J. Moulin,R. Hamouma,1
+B. Dabo,R. Hamouma,1
+R. Beri\u010d,R. Cabella,1
+R. Beri\u010d,R. Hamouma,1
+V. Pajot,L. Lacroix,1
+L. Perrin,R. Hamouma,1
+L. Perrin,R. Beri\u010d,1
+L. Lacroix,R. Beri\u010d,1
+L. Lacroix,O. Seln\u00e6s,1

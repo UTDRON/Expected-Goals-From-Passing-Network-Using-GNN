@@ -1,0 +1,83 @@
+Source,Target,Weight
+M. Abeid,N. Sliti,6
+Xeka,O. Haddadi,5
+R. Amalfitano,Xeka,4
+Kwon Chang-Hoon,P. Djilobodji,4
+M. Abeid,V. Rosier,4
+P. Djilobodji,O. Haddadi,3
+O. Haddadi,Xeka,3
+N. Sliti,O. Haddadi,3
+V. Rosier,Kwon Chang-Hoon,3
+B. Reynet,V. Rosier,3
+V. Rosier,O. Haddadi,3
+O. Haddadi,R. Amalfitano,3
+B. Reynet,P. Djilobodji,3
+Kwon Chang-Hoon,M. Abeid,3
+P. Djilobodji,B. Reynet,3
+N. Sliti,M. Abeid,3
+N. Sliti,B. Jeannot,3
+C. Varrault,V. Rosier,3
+C. Varrault,M. Abeid,2
+M. Abeid,R. Amalfitano,2
+O. Haddadi,Kwon Chang-Hoon,2
+M. Abeid,P. Djilobodji,2
+Xeka,M. Abeid,2
+P. Djilobodji,W. Sa\u00efd,2
+P. Djilobodji,Xeka,2
+O. Haddadi,M. Abeid,2
+O. Haddadi,B. Reynet,2
+R. Amalfitano,M. Abeid,2
+O. Haddadi,N. Sliti,2
+P. Djilobodji,M. Abeid,2
+Xeka,C. Varrault,2
+M. Abeid,O. Haddadi,2
+V. Rosier,R. Amalfitano,2
+P. Djilobodji,Kwon Chang-Hoon,2
+V. Rosier,C. Varrault,2
+B. Jeannot,M. Abeid,2
+M. Abeid,C. Varrault,2
+V. Rosier,M. Abeid,2
+B. Jeannot,N. Sliti,2
+P. Djilobodji,R. Amalfitano,2
+O. Haddadi,P. Djilobodji,2
+N. Sliti,Xeka,2
+N. Sliti,R. Amalfitano,1
+R. Amalfitano,N. Sliti,1
+C. Varrault,Xeka,1
+B. Reynet,N. Sliti,1
+W. Sa\u00efd,Xeka,1
+C. Varrault,B. Reynet,1
+M. Abeid,Xeka,1
+R. Amalfitano,O. Haddadi,1
+B. Reynet,B. Jeannot,1
+R. Amalfitano,Kwon Chang-Hoon,1
+Xeka,Kwon Chang-Hoon,1
+R. Amalfitano,B. Reynet,1
+Xeka,N. Sliti,1
+O. Haddadi,B. Jeannot,1
+Kwon Chang-Hoon,N. Sliti,1
+B. Jeannot,W. Sa\u00efd,1
+W. Sa\u00efd,C. Varrault,1
+Kwon Chang-Hoon,R. Amalfitano,1
+N. Sliti,B. Reynet,1
+B. Jeannot,Xeka,1
+N. Sliti,Kwon Chang-Hoon,1
+V. Rosier,P. Djilobodji,1
+R. Amalfitano,V. Rosier,1
+M. Abeid,B. Reynet,1
+R. Amalfitano,B. Jeannot,1
+C. Varrault,R. Amalfitano,1
+Kwon Chang-Hoon,V. Rosier,1
+Xeka,V. Rosier,1
+R. Amalfitano,C. Varrault,1
+B. Reynet,C. Varrault,1
+B. Jeannot,P. Djilobodji,1
+Xeka,P. Djilobodji,1
+W. Sa\u00efd,B. Jeannot,1
+N. Sliti,C. Varrault,1
+C. Varrault,W. Sa\u00efd,1
+Xeka,B. Jeannot,1
+C. Varrault,P. Djilobodji,1
+W. Sa\u00efd,N. Sliti,1
+Xeka,R. Amalfitano,1
+N. Sliti,P. Djilobodji,1

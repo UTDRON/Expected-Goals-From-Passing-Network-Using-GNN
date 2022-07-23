@@ -1,0 +1,15 @@
+Source,Target,Weight
+D. Diekmeier,J. Arp,2
+J. Arp,K. Papadopoulos,1
+F. Kosti\u0107,B. Wood,1
+B. Wood,G. Jung,1
+F. Kosti\u0107,J. Arp,1
+F. Kosti\u0107,M. Mavraj,1
+M. Mavraj,K. Papadopoulos,1
+B. Wood,F. Kosti\u0107,1
+G. Jung,M. Mavraj,1
+M. Mavraj,D. Diekmeier,1
+K. Papadopoulos,D. Diekmeier,1
+K. Papadopoulos,B. Wood,1
+J. Arp,Douglas Santos,1
+Douglas Santos,F. Kosti\u0107,1

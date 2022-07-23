@@ -1,0 +1,54 @@
+Source,Target,Weight
+G. Holtmann,D. Brosinski,3
+J. Gbamin,S. Bell,3
+A. Ujah,J. Gbamin,3
+S. Bell,A. Hack,3
+S. Bell,R. Quaison,3
+A. Hack,R. Zentner,2
+J. Gbamin,G. Donati,2
+S. Bell,G. Donati,2
+E. Berggreen,R. Zentner,2
+D. Brosinski,A. Hack,2
+R. Quaison,P. De Blasis,2
+G. Donati,S. Bell,2
+A. Hack,S. Bell,2
+A. Hack,A. Ujah,2
+D. Brosinski,P. De Blasis,2
+S. Bell,R. Zentner,2
+R. Zentner,A. Ujah,2
+P. De Blasis,S. Bell,2
+P. De Blasis,E. Berggreen,2
+G. Donati,R. Zentner,1
+D. Brosinski,R. Quaison,1
+A. Hack,G. Donati,1
+E. Berggreen,S. Bell,1
+J. Gbamin,A. Hack,1
+A. Ujah,E. Berggreen,1
+G. Donati,A. Ujah,1
+S. Bell,G. Holtmann,1
+E. Berggreen,P. De Blasis,1
+R. Zentner,E. Berggreen,1
+G. Donati,E. Berggreen,1
+P. De Blasis,J. Gbamin,1
+P. De Blasis,R. Zentner,1
+E. Berggreen,G. Donati,1
+S. Bell,J. Gbamin,1
+R. Zentner,A. Hack,1
+D. Brosinski,A. Ujah,1
+G. Donati,G. Holtmann,1
+G. Donati,J. Gbamin,1
+P. De Blasis,G. Donati,1
+R. Zentner,G. Holtmann,1
+A. Ujah,S. Bell,1
+D. Brosinski,S. Bell,1
+A. Hack,G. Holtmann,1
+R. Quaison,D. Brosinski,1
+S. Bell,D. Brosinski,1
+R. Zentner,D. Brosinski,1
+R. Zentner,S. Bell,1
+A. Ujah,A. Hack,1
+A. Hack,P. De Blasis,1
+G. Donati,A. Hack,1
+G. Donati,P. De Blasis,1
+R. Zentner,G. Donati,1
+R. Quaison,G. Donati,1

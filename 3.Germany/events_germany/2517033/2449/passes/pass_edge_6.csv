@@ -1,0 +1,65 @@
+Source,Target,Weight
+B. Stambouli,F. Di Santo,6
+F. Di Santo,G. Burgstaller,5
+A. Sch\u00f6pf,T. Kehrer,5
+T. Kehrer,A. Sch\u00f6pf,5
+D. Caligiuri,F. Di Santo,4
+F. Di Santo,D. Caligiuri,4
+G. Burgstaller,Naldo,4
+T. Kehrer,R. F\u00e4hrmann,4
+W. McKennie,B. Stambouli,4
+W. McKennie,A. Sch\u00f6pf,3
+R. F\u00e4hrmann,B. Stambouli,3
+F. Di Santo,W. McKennie,3
+L. Goretzka,D. Caligiuri,3
+A. Sch\u00f6pf,F. Di Santo,3
+B. Stambouli,D. Caligiuri,3
+L. Goretzka,A. Sch\u00f6pf,3
+Y. Konoplyanka,A. Sch\u00f6pf,3
+A. Sch\u00f6pf,G. Burgstaller,3
+A. Sch\u00f6pf,L. Goretzka,3
+A. Sch\u00f6pf,W. McKennie,3
+R. F\u00e4hrmann,T. Kehrer,3
+Naldo,R. F\u00e4hrmann,2
+F. Di Santo,B. Stambouli,2
+A. Sch\u00f6pf,Y. Konoplyanka,2
+G. Burgstaller,F. Di Santo,2
+D. Caligiuri,W. McKennie,2
+B. Stambouli,T. Kehrer,2
+Naldo,T. Kehrer,2
+G. Burgstaller,A. Sch\u00f6pf,2
+G. Burgstaller,D. Caligiuri,2
+D. Caligiuri,L. Goretzka,2
+D. Caligiuri,G. Burgstaller,2
+D. Caligiuri,Y. Konoplyanka,2
+Y. Konoplyanka,T. Kehrer,2
+Naldo,A. Sch\u00f6pf,2
+G. Burgstaller,B. Stambouli,2
+W. McKennie,L. Goretzka,2
+D. Caligiuri,B. Stambouli,2
+F. Di Santo,L. Goretzka,1
+Naldo,L. Goretzka,1
+Y. Konoplyanka,D. Caligiuri,1
+T. Kehrer,B. Stambouli,1
+Y. Konoplyanka,Naldo,1
+T. Kehrer,Naldo,1
+R. F\u00e4hrmann,Naldo,1
+T. Kehrer,Y. Konoplyanka,1
+W. McKennie,Y. Konoplyanka,1
+D. Caligiuri,T. Kehrer,1
+W. McKennie,D. Caligiuri,1
+R. F\u00e4hrmann,F. Di Santo,1
+T. Kehrer,L. Goretzka,1
+F. Di Santo,R. F\u00e4hrmann,1
+B. Stambouli,W. McKennie,1
+T. Kehrer,G. Burgstaller,1
+Naldo,F. Di Santo,1
+T. Kehrer,D. Caligiuri,1
+L. Goretzka,Y. Konoplyanka,1
+B. Stambouli,R. F\u00e4hrmann,1
+L. Goretzka,W. McKennie,1
+L. Goretzka,T. Kehrer,1
+F. Di Santo,A. Sch\u00f6pf,1
+B. Stambouli,G. Burgstaller,1
+T. Kehrer,W. McKennie,1
+A. Sch\u00f6pf,Naldo,1

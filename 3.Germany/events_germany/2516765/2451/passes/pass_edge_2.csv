@@ -1,0 +1,31 @@
+Source,Target,Weight
+F. Uduokhai,J. Guilavogui,3
+William,M. G\u00f3mez,2
+F. Uduokhai,M. Arnold,2
+J. Guilavogui,William,2
+William,R. Knoche,2
+K. Casteels,D. Origi,2
+F. Uduokhai,William,1
+M. Arnold,F. Uduokhai,1
+D. Origi,F. Uduokhai,1
+R. Knoche,Camacho,1
+M. G\u00f3mez,K. Casteels,1
+K. Casteels,William,1
+Y. Gerhardt,William,1
+D. Didavi,D. Origi,1
+R. Knoche,K. Casteels,1
+D. Origi,D. Didavi,1
+Y. Gerhardt,F. Uduokhai,1
+William,K. Casteels,1
+Camacho,F. Uduokhai,1
+D. Didavi,Y. Gerhardt,1
+M. G\u00f3mez,F. Uduokhai,1
+William,J. Guilavogui,1
+M. Arnold,M. G\u00f3mez,1
+D. Didavi,F. Uduokhai,1
+F. Uduokhai,M. G\u00f3mez,1
+M. G\u00f3mez,M. Arnold,1
+J. Guilavogui,D. Didavi,1
+M. Arnold,William,1
+J. Guilavogui,F. Uduokhai,1
+M. G\u00f3mez,D. Didavi,1

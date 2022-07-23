@@ -1,0 +1,16 @@
+Source,Target,Weight
+F. Uduokhai,Y. Gerhardt,3
+Camacho,F. Uduokhai,2
+F. Uduokhai,M. Arnold,2
+M. Arnold,F. Uduokhai,2
+L. Dimata,Y. Gerhardt,1
+Y. Gerhardt,M. Arnold,1
+Y. Gerhardt,Camacho,1
+D. Origi,L. Dimata,1
+M. Arnold,Camacho,1
+M. Arnold,D. Origi,1
+Y. Gerhardt,L. Dimata,1
+Y. Gerhardt,J. Guilavogui,1
+J. Guilavogui,William,1
+William,F. Uduokhai,1
+L. Dimata,D. Origi,1

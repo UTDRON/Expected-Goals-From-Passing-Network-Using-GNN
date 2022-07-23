@@ -1,0 +1,21 @@
+Source,Target,Weight
+William,R. Steffen,2
+R. Steffen,J. Guilavogui,2
+R. Bazoer,William,1
+J. B\u0142aszczykowski,M. Arnold,1
+K. Casteels,M. Arnold,1
+M. Arnold,D. Origi,1
+R. Bazoer,K. Casteels,1
+J. Guilavogui,R. Steffen,1
+K. Casteels,D. Origi,1
+William,R. Bazoer,1
+M. Arnold,R. Steffen,1
+D. Origi,J. Guilavogui,1
+M. Arnold,K. Casteels,1
+R. Steffen,R. Bazoer,1
+K. Casteels,F. Uduokhai,1
+J. Guilavogui,William,1
+F. Uduokhai,J. Guilavogui,1
+J. Guilavogui,J. B\u0142aszczykowski,1
+R. Steffen,M. Arnold,1
+J. Guilavogui,K. Casteels,1

@@ -1,0 +1,113 @@
+Source,Target,Weight
+Diego Carlos,K. Djidji,8
+Lucas Lima,K. Djidji,8
+A. Thomasson,V. Rongier,8
+Lucas Lima,Diego Carlos,8
+A. Thomasson,A. Tour\u00e9,7
+V. Rongier,A. Thomasson,7
+A. Thomasson,L. Dubois,7
+A. Tour\u00e9,A. Thomasson,6
+Diego Carlos,A. Tour\u00e9,6
+K. Djidji,P. Nakoulma,6
+Diego Carlos,C. Awaziem,6
+L. Dubois,A. Thomasson,6
+K. Djidji,A. Tour\u00e9,6
+Diego Carlos,Lucas Lima,6
+C. Awaziem,L. Dubois,6
+C. T\u0103t\u0103ru\u0219anu,Diego Carlos,5
+K. Djidji,Lucas Lima,5
+R. Krhin,Diego Carlos,5
+L. Dubois,P. Nakoulma,5
+V. Rongier,L. Dubois,5
+K. Djidji,Diego Carlos,5
+A. Tour\u00e9,Diego Carlos,5
+Diego Carlos,R. Krhin,5
+A. Tour\u00e9,L. Dubois,5
+C. Awaziem,Diego Carlos,5
+Diego Carlos,C. T\u0103t\u0103ru\u0219anu,5
+R. Krhin,K. Djidji,5
+P. Nakoulma,Lucas Lima,4
+L. Dubois,Lucas Lima,4
+A. Tour\u00e9,K. Djidji,4
+P. Nakoulma,K. Djidji,4
+K. Djidji,E. Sala,4
+A. Tour\u00e9,Lucas Lima,4
+A. Tour\u00e9,R. Krhin,4
+E. Sala,Lucas Lima,4
+V. Rongier,Diego Carlos,3
+A. Thomasson,R. Krhin,3
+Lucas Lima,V. Rongier,3
+L. Dubois,Y. El Ghanassy,3
+Lucas Lima,R. Krhin,3
+P. Nakoulma,A. Tour\u00e9,3
+V. Rongier,P. Nakoulma,3
+A. Tour\u00e9,V. Rongier,3
+L. Dubois,V. Rongier,3
+C. Awaziem,C. T\u0103t\u0103ru\u0219anu,3
+R. Krhin,Lucas Lima,3
+L. Dubois,R. Krhin,3
+K. Djidji,A. Thomasson,3
+P. Nakoulma,C. Awaziem,3
+C. Awaziem,A. Thomasson,3
+Diego Carlos,P. Nakoulma,3
+C. Awaziem,A. Tour\u00e9,3
+R. Krhin,P. Nakoulma,3
+L. Dubois,Diego Carlos,2
+Lucas Lima,C. Awaziem,2
+R. Krhin,A. Thomasson,2
+R. Krhin,V. Rongier,2
+V. Rongier,K. Djidji,2
+K. Djidji,V. Rongier,2
+V. Rongier,C. Awaziem,2
+C. Awaziem,P. Nakoulma,2
+Y. El Ghanassy,L. Dubois,2
+P. Nakoulma,R. Krhin,2
+A. Thomasson,C. Awaziem,2
+Lucas Lima,P. Nakoulma,2
+K. Djidji,C. Awaziem,2
+Y. El Ghanassy,A. Tour\u00e9,2
+L. Dubois,K. Djidji,2
+E. Sala,P. Nakoulma,2
+P. Nakoulma,Y. El Ghanassy,2
+E. Sala,A. Tour\u00e9,2
+P. Nakoulma,V. Rongier,2
+Lucas Lima,L. Dubois,2
+P. Nakoulma,Diego Carlos,2
+L. Dubois,C. Awaziem,2
+P. Nakoulma,E. Sala,2
+P. Nakoulma,L. Dubois,2
+Lucas Lima,E. Sala,2
+Diego Carlos,V. Rongier,1
+E. Sala,Y. El Ghanassy,1
+C. T\u0103t\u0103ru\u0219anu,R. Krhin,1
+K. Djidji,R. Krhin,1
+V. Rongier,R. Krhin,1
+C. T\u0103t\u0103ru\u0219anu,L. Dubois,1
+A. Thomasson,K. Djidji,1
+Y. El Ghanassy,C. Awaziem,1
+P. Nakoulma,A. Thomasson,1
+R. Krhin,A. Tour\u00e9,1
+C. T\u0103t\u0103ru\u0219anu,A. Thomasson,1
+R. Krhin,L. Dubois,1
+R. Krhin,C. Awaziem,1
+Y. El Ghanassy,K. Djidji,1
+L. Dubois,C. T\u0103t\u0103ru\u0219anu,1
+A. Thomasson,Lucas Lima,1
+K. Djidji,L. Dubois,1
+L. Dubois,A. Tour\u00e9,1
+V. Rongier,A. Tour\u00e9,1
+Diego Carlos,L. Dubois,1
+A. Thomasson,P. Nakoulma,1
+L. Dubois,E. Sala,1
+Lucas Lima,A. Thomasson,1
+C. T\u0103t\u0103ru\u0219anu,C. Awaziem,1
+Lucas Lima,A. Tour\u00e9,1
+C. T\u0103t\u0103ru\u0219anu,Y. El Ghanassy,1
+A. Tour\u00e9,C. Awaziem,1
+P. Nakoulma,C. T\u0103t\u0103ru\u0219anu,1
+C. Awaziem,V. Rongier,1
+C. T\u0103t\u0103ru\u0219anu,Lucas Lima,1
+Y. El Ghanassy,P. Nakoulma,1
+V. Rongier,Lucas Lima,1
+A. Thomasson,Diego Carlos,1
+Lucas Lima,C. T\u0103t\u0103ru\u0219anu,1

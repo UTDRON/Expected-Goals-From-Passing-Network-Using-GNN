@@ -1,0 +1,27 @@
+Source,Target,Weight
+Wendell,K. Volland,2
+J. Tah,B. Leno,2
+C. Ar\u00e1nguiz,Wendell,2
+K. Havertz,K. Volland,2
+S. Bender,J. Tah,1
+K. Volland,L. Bailey,1
+B. Henrichs,Wendell,1
+L. Bailey,S. Bender,1
+K. Volland,B. Henrichs,1
+B. Henrichs,L. Bailey,1
+Wendell,J. Tah,1
+J. Tah,L. Bender,1
+K. Volland,B. Leno,1
+L. Bailey,C. Ar\u00e1nguiz,1
+Wendell,L. Bailey,1
+B. Leno,B. Henrichs,1
+B. Leno,C. Ar\u00e1nguiz,1
+K. Volland,K. Havertz,1
+J. Brandt,Wendell,1
+L. Bailey,K. Havertz,1
+L. Bailey,B. Leno,1
+L. Bender,K. Havertz,1
+B. Leno,K. Havertz,1
+B. Henrichs,J. Brandt,1
+K. Havertz,B. Henrichs,1
+B. Leno,J. Tah,1

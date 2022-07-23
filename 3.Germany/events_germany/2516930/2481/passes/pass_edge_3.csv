@@ -1,0 +1,77 @@
+Source,Target,Weight
+K. Danso,M. Hinteregger,7
+M. Hinteregger,D. Baier,6
+R. Framberger,Ja-Cheol Koo,6
+M. Heller,R. Framberger,5
+M. Hinteregger,K. Danso,5
+Caiuby,M. Gregoritsch,5
+M. Hinteregger,P. Max,4
+R. Framberger,M. Heller,4
+D. Baier,M. Heller,4
+D. Baier,P. Max,4
+M. Hinteregger,R. Framberger,3
+M. Gregoritsch,D. Baier,3
+K. Danso,Caiuby,3
+Caiuby,P. Max,3
+P. Max,Ja-Cheol Koo,3
+M. Hinteregger,R. Khedira,3
+D. Baier,M. Hinteregger,3
+Caiuby,M. Hinteregger,3
+R. Khedira,K. Danso,3
+D. Baier,K. Danso,3
+Ja-Cheol Koo,Caiuby,3
+R. Khedira,M. Gregoritsch,3
+P. Max,M. Hinteregger,3
+K. Danso,D. Baier,2
+M. Hitz,M. Hinteregger,2
+R. Khedira,Caiuby,2
+Ja-Cheol Koo,R. Framberger,2
+R. Framberger,Caiuby,2
+D. Baier,R. Framberger,2
+M. Heller,Ja-Cheol Koo,2
+P. Max,M. Hitz,2
+P. Max,K. Danso,2
+R. Framberger,M. Hinteregger,2
+R. Framberger,K. Danso,2
+M. Heller,R. Khedira,2
+P. Max,D. Baier,2
+Ja-Cheol Koo,K. Danso,2
+Caiuby,D. Baier,2
+K. Danso,R. Framberger,2
+M. Gregoritsch,R. Khedira,2
+Ja-Cheol Koo,D. Baier,2
+M. Gregoritsch,R. Framberger,2
+R. Khedira,R. Framberger,2
+M. Gregoritsch,M. Heller,2
+D. Baier,Caiuby,2
+K. Danso,M. Hitz,1
+M. Gregoritsch,P. Max,1
+R. Framberger,R. Khedira,1
+M. Heller,K. Danso,1
+R. Khedira,Ja-Cheol Koo,1
+Ja-Cheol Koo,M. Gregoritsch,1
+Ja-Cheol Koo,P. Max,1
+P. Max,Caiuby,1
+R. Khedira,M. Hinteregger,1
+M. Hitz,R. Framberger,1
+Caiuby,R. Khedira,1
+R. Framberger,D. Baier,1
+Ja-Cheol Koo,M. Hinteregger,1
+M. Hinteregger,Ja-Cheol Koo,1
+K. Danso,R. Khedira,1
+M. Gregoritsch,M. Hinteregger,1
+D. Baier,R. Khedira,1
+M. Hitz,Caiuby,1
+K. Danso,M. Heller,1
+R. Framberger,M. Gregoritsch,1
+M. Heller,P. Max,1
+M. Hinteregger,M. Gregoritsch,1
+M. Heller,Caiuby,1
+P. Max,M. Heller,1
+M. Heller,D. Baier,1
+Caiuby,K. Danso,1
+R. Khedira,M. Heller,1
+K. Danso,Ja-Cheol Koo,1
+K. Danso,M. Gregoritsch,1
+Ja-Cheol Koo,M. Hitz,1
+Ja-Cheol Koo,R. Khedira,1

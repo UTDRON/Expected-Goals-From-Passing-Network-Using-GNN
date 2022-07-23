@@ -1,0 +1,40 @@
+Source,Target,Weight
+A. Zambo Anguissa,F. Thauvin,6
+F. Thauvin,A. Zambo Anguissa,3
+F. Thauvin,D. Payet,2
+A. Rami,F. Thauvin,2
+D. Payet,A. Zambo Anguissa,2
+A. Zambo Anguissa,A. Rami,2
+A. Rami,Luiz Gustavo,2
+Luiz Gustavo,A. Rami,2
+F. Thauvin,Luiz Gustavo,1
+Rolando,Luiz Gustavo,1
+A. Rami,A. Zambo Anguissa,1
+F. Thauvin,H. Sakai,1
+H. Sakai,F. Thauvin,1
+H. Sakai,A. Rami,1
+Luiz Gustavo,A. Zambo Anguissa,1
+Rolando,J. Amavi,1
+H. Sakai,A. Zambo Anguissa,1
+A. Zambo Anguissa,L. Ocampos,1
+S. Mandanda,Rolando,1
+F. Thauvin,A. Rami,1
+D. Payet,A. Rami,1
+J. Amavi,K. Mitroglou,1
+L. Ocampos,K. Mitroglou,1
+Luiz Gustavo,L. Ocampos,1
+A. Rami,Rolando,1
+Rolando,S. Mandanda,1
+D. Payet,Rolando,1
+F. Thauvin,Rolando,1
+J. Amavi,Rolando,1
+L. Ocampos,F. Thauvin,1
+Luiz Gustavo,J. Amavi,1
+K. Mitroglou,Luiz Gustavo,1
+F. Thauvin,L. Ocampos,1
+Rolando,D. Payet,1
+L. Ocampos,Luiz Gustavo,1
+A. Zambo Anguissa,H. Sakai,1
+K. Mitroglou,A. Zambo Anguissa,1
+A. Rami,H. Sakai,1
+Rolando,A. Zambo Anguissa,1

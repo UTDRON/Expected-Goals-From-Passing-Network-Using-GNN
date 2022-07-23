@@ -1,0 +1,103 @@
+Source,Target,Weight
+Walace,Douglas Santos,12
+Douglas Santos,Walace,10
+K. Papadopoulos,M. Mavraj,9
+M. Mavraj,K. Papadopoulos,9
+M. Mavraj,Walace,7
+Douglas Santos,M. Mavraj,6
+Walace,M. Mavraj,6
+M. Mavraj,Douglas Santos,6
+D. Diekmeier,K. Papadopoulos,6
+K. Papadopoulos,Walace,6
+K. Papadopoulos,G. Jung,6
+Walace,K. Papadopoulos,6
+D. Diekmeier,T. Ito,5
+Walace,D. Diekmeier,5
+G. Jung,K. Papadopoulos,5
+T. Ito,K. Papadopoulos,5
+K. Papadopoulos,D. Diekmeier,5
+T. Ito,D. Diekmeier,5
+D. Diekmeier,A. Hunt,4
+A. Hunt,Walace,4
+F. Kosti\u0107,J. Arp,4
+J. Arp,Walace,4
+G. Jung,Walace,4
+J. Arp,M. Mavraj,4
+A. Hunt,J. Arp,4
+Walace,A. Hunt,4
+K. Papadopoulos,T. Ito,4
+K. Papadopoulos,C. Mathenia,4
+Douglas Santos,F. Kosti\u0107,4
+A. Hunt,G. Jung,4
+Douglas Santos,A. Hunt,3
+A. Hunt,D. Diekmeier,3
+Douglas Santos,G. Jung,3
+F. Kosti\u0107,Walace,3
+Walace,F. Kosti\u0107,3
+J. Arp,A. Hunt,3
+Douglas Santos,K. Papadopoulos,3
+G. Jung,Douglas Santos,3
+G. Jung,C. Mathenia,3
+Walace,G. Jung,3
+G. Jung,D. Diekmeier,3
+D. Diekmeier,Douglas Santos,3
+A. Hunt,K. Papadopoulos,3
+C. Mathenia,G. Jung,3
+G. Jung,A. Hunt,3
+J. Arp,Douglas Santos,2
+L. Waldschmidt,F. Kosti\u0107,2
+G. Jung,T. Ito,2
+M. Mavraj,C. Mathenia,2
+C. Mathenia,J. Arp,2
+Douglas Santos,J. Arp,2
+J. Arp,L. Waldschmidt,2
+K. Papadopoulos,F. Kosti\u0107,2
+C. Mathenia,M. Mavraj,2
+K. Papadopoulos,Douglas Santos,2
+F. Kosti\u0107,Douglas Santos,2
+F. Kosti\u0107,T. Ito,2
+M. Mavraj,G. Jung,2
+C. Mathenia,Douglas Santos,2
+A. Hunt,Douglas Santos,2
+K. Papadopoulos,A. Hunt,2
+D. Diekmeier,J. Arp,2
+T. Ito,G. Jung,2
+L. Waldschmidt,J. Arp,2
+Douglas Santos,C. Mathenia,1
+Douglas Santos,D. Diekmeier,1
+D. Diekmeier,G. Jung,1
+F. Kosti\u0107,K. Papadopoulos,1
+C. Mathenia,Walace,1
+D. Diekmeier,L. Waldschmidt,1
+G. Jung,J. Arp,1
+L. Waldschmidt,G. Jung,1
+M. Mavraj,A. Hunt,1
+L. Waldschmidt,Walace,1
+F. Kosti\u0107,G. Jung,1
+G. Jung,F. Kosti\u0107,1
+T. Ito,M. Mavraj,1
+A. Hunt,M. Mavraj,1
+M. Mavraj,L. Waldschmidt,1
+J. Arp,T. Ito,1
+A. Hunt,F. Kosti\u0107,1
+T. Ito,A. Hunt,1
+F. Kosti\u0107,L. Waldschmidt,1
+L. Waldschmidt,K. Papadopoulos,1
+Walace,L. Waldschmidt,1
+Douglas Santos,T. Ito,1
+C. Mathenia,K. Papadopoulos,1
+C. Mathenia,D. Diekmeier,1
+T. Ito,Walace,1
+L. Waldschmidt,M. Mavraj,1
+Walace,C. Mathenia,1
+J. Arp,F. Kosti\u0107,1
+G. Jung,L. Waldschmidt,1
+F. Kosti\u0107,A. Hunt,1
+J. Arp,D. Diekmeier,1
+M. Mavraj,F. Kosti\u0107,1
+T. Ito,J. Arp,1
+Walace,T. Ito,1
+D. Diekmeier,Walace,1
+Douglas Santos,L. Waldschmidt,1
+T. Ito,C. Mathenia,1
+M. Mavraj,T. Ito,1

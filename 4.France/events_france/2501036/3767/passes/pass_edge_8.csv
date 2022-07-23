@@ -1,0 +1,41 @@
+Source,Target,Weight
+G. Lo Celso,T. Motta,3
+J. Pastore,\u00c1. di Mar\u00eda,3
+\u00c1. di Mar\u00eda,G. Lo Celso,2
+T. Motta,G. Lo Celso,2
+T. Meunier,G. Lo Celso,2
+G. Lo Celso,Marquinhos,2
+Marquinhos,T. Meunier,2
+G. Lo Celso,L. Kurzawa,2
+P. Kimpembe,A. Ar\u00e9ola,2
+\u00c1. di Mar\u00eda,T. Meunier,2
+A. Ar\u00e9ola,P. Kimpembe,2
+\u00c1. di Mar\u00eda,J. Pastore,2
+L. Kurzawa,G. Lo Celso,2
+Marquinhos,P. Kimpembe,1
+T. Meunier,P. Kimpembe,1
+\u00c1. di Mar\u00eda,C. Nkunku,1
+P. Kimpembe,J. Pastore,1
+L. Kurzawa,Marquinhos,1
+L. Kurzawa,C. Nkunku,1
+C. Nkunku,P. Kimpembe,1
+P. Kimpembe,L. Kurzawa,1
+G. Lo Celso,P. Kimpembe,1
+T. Motta,T. Meunier,1
+T. Meunier,Marquinhos,1
+T. Motta,\u00c1. di Mar\u00eda,1
+P. Kimpembe,T. Motta,1
+Marquinhos,\u00c1. di Mar\u00eda,1
+\u00c1. di Mar\u00eda,L. Kurzawa,1
+Marquinhos,C. Nkunku,1
+E. Cavani,Marquinhos,1
+L. Kurzawa,E. Cavani,1
+P. Kimpembe,G. Lo Celso,1
+G. Lo Celso,T. Meunier,1
+E. Cavani,T. Motta,1
+T. Meunier,\u00c1. di Mar\u00eda,1
+T. Motta,E. Cavani,1
+T. Motta,C. Nkunku,1
+T. Meunier,T. Motta,1
+C. Nkunku,L. Kurzawa,1
+C. Nkunku,\u00c1. di Mar\u00eda,1

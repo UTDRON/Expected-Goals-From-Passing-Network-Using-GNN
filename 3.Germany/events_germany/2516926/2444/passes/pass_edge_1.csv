@@ -1,0 +1,47 @@
+Source,Target,Weight
+Juan Bernat,M. Hummels,4
+J. Boateng,S. Wagner,4
+Rafinha,J. Boateng,4
+Juan Bernat,F. Rib\u00e9ry,3
+S. Ulreich,M. Hummels,3
+S. Ulreich,J. Boateng,3
+J. Boateng,S. Ulreich,3
+F. Rib\u00e9ry,Juan Bernat,3
+M. Hummels,J. Boateng,3
+J. Boateng,M. Hummels,2
+J. Boateng,J. Rodr\u00edguez,2
+M. Hummels,S. Ulreich,2
+T. M\u00fcller,J. Rodr\u00edguez,2
+C. Tolisso,Juan Bernat,2
+S. Wagner,T. M\u00fcller,2
+J. Rodr\u00edguez,Juan Bernat,2
+S. Wagner,Rafinha,2
+M. Hummels,J. Rodr\u00edguez,2
+S. Rudy,J. Boateng,1
+F. Rib\u00e9ry,M. Hummels,1
+C. Tolisso,J. Rodr\u00edguez,1
+Rafinha,T. M\u00fcller,1
+J. Rodr\u00edguez,T. M\u00fcller,1
+M. Hummels,C. Tolisso,1
+Juan Bernat,C. Tolisso,1
+J. Rodr\u00edguez,S. Ulreich,1
+J. Rodr\u00edguez,C. Tolisso,1
+S. Wagner,J. Boateng,1
+M. Hummels,F. Rib\u00e9ry,1
+J. Rodr\u00edguez,S. Rudy,1
+J. Boateng,C. Tolisso,1
+Juan Bernat,J. Rodr\u00edguez,1
+S. Wagner,Juan Bernat,1
+J. Rodr\u00edguez,Rafinha,1
+S. Wagner,C. Tolisso,1
+T. M\u00fcller,S. Wagner,1
+F. Rib\u00e9ry,Rafinha,1
+J. Boateng,Juan Bernat,1
+Rafinha,S. Wagner,1
+C. Tolisso,T. M\u00fcller,1
+T. M\u00fcller,Rafinha,1
+M. Hummels,Rafinha,1
+F. Rib\u00e9ry,J. Boateng,1
+T. M\u00fcller,J. Boateng,1
+J. Rodr\u00edguez,F. Rib\u00e9ry,1
+J. Boateng,F. Rib\u00e9ry,1

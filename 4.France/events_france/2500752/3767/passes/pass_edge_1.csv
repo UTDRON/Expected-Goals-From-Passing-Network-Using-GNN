@@ -1,0 +1,72 @@
+Source,Target,Weight
+T. Motta,M. Verratti,10
+T. Motta,Thiago Silva,7
+Thiago Silva,T. Motta,6
+M. Verratti,T. Motta,6
+Yuri Berchiche,A. Rabiot,5
+T. Meunier,M. Verratti,5
+M. Verratti,T. Meunier,5
+M. Verratti,Yuri Berchiche,5
+A. Rabiot,T. Motta,5
+Yuri Berchiche,J. Draxler,4
+A. Rabiot,Yuri Berchiche,4
+J. Draxler,M. Verratti,4
+Marquinhos,T. Meunier,3
+Thiago Silva,A. Rabiot,3
+Marquinhos,Thiago Silva,3
+Yuri Berchiche,M. Verratti,3
+M. Verratti,Marquinhos,3
+T. Motta,Marquinhos,3
+Yuri Berchiche,Thiago Silva,3
+Marquinhos,T. Motta,3
+Thiago Silva,Yuri Berchiche,3
+M. Verratti,J. Draxler,3
+E. Cavani,T. Meunier,2
+A. Rabiot,Marquinhos,2
+T. Meunier,J. Draxler,2
+A. Rabiot,K. Mbapp\u00e9,2
+E. Cavani,T. Motta,2
+J. Draxler,E. Cavani,2
+J. Draxler,A. Rabiot,2
+Yuri Berchiche,T. Motta,2
+T. Motta,Yuri Berchiche,2
+T. Meunier,Marquinhos,2
+M. Verratti,K. Mbapp\u00e9,2
+T. Motta,J. Draxler,1
+Marquinhos,J. Draxler,1
+A. Ar\u00e9ola,A. Rabiot,1
+K. Mbapp\u00e9,M. Verratti,1
+T. Motta,A. Ar\u00e9ola,1
+Yuri Berchiche,T. Meunier,1
+Yuri Berchiche,K. Mbapp\u00e9,1
+J. Draxler,Yuri Berchiche,1
+A. Rabiot,M. Verratti,1
+M. Verratti,A. Rabiot,1
+Marquinhos,A. Ar\u00e9ola,1
+K. Mbapp\u00e9,Yuri Berchiche,1
+T. Motta,K. Mbapp\u00e9,1
+Marquinhos,M. Verratti,1
+T. Motta,A. Rabiot,1
+M. Verratti,Thiago Silva,1
+J. Draxler,Marquinhos,1
+K. Mbapp\u00e9,T. Motta,1
+E. Cavani,A. Rabiot,1
+T. Meunier,Yuri Berchiche,1
+E. Cavani,J. Draxler,1
+K. Mbapp\u00e9,Marquinhos,1
+Marquinhos,Yuri Berchiche,1
+K. Mbapp\u00e9,A. Rabiot,1
+A. Ar\u00e9ola,Yuri Berchiche,1
+J. Draxler,T. Motta,1
+A. Rabiot,Thiago Silva,1
+K. Mbapp\u00e9,T. Meunier,1
+T. Meunier,A. Rabiot,1
+T. Meunier,E. Cavani,1
+A. Rabiot,E. Cavani,1
+T. Motta,T. Meunier,1
+T. Meunier,K. Mbapp\u00e9,1
+Thiago Silva,E. Cavani,1
+J. Draxler,T. Meunier,1
+Thiago Silva,Marquinhos,1
+T. Meunier,T. Motta,1
+Thiago Silva,M. Verratti,1

@@ -1,0 +1,19 @@
+Source,Target,Weight
+M. Weiser,V. Darida,2
+A. Maier,M. Weiser,2
+V. Darida,M. Weiser,2
+M. Weiser,V. Lazaro,2
+M. Weiser,A. Maier,1
+N. Stark,V. Darida,1
+V. Darida,N. Stark,1
+F. Lustenberger,A. Maier,1
+D. Selke,V. Darida,1
+A. Maier,V. Lazaro,1
+V. Darida,M. Plattenhardt,1
+V. Lazaro,A. Maier,1
+V. Lazaro,M. Weiser,1
+S. Kalou,F. Lustenberger,1
+M. Plattenhardt,A. Maier,1
+R. Jarstein,S. Kalou,1
+V. Lazaro,V. Darida,1
+V. Darida,D. Selke,1

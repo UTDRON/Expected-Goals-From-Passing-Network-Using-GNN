@@ -1,0 +1,30 @@
+Source,Target,Weight
+T. Mangani,P. Capelle,3
+P. Capelle,T. Mangani,3
+F. Tait,T. Mangani,2
+B. Santamaria,T. Mangani,2
+A. Letellier,E. Crivelli,1
+A. Letellier,R. Thomas,1
+P. Capelle,F. Tait,1
+T. Mangani,F. Tait,1
+R. Thomas,A. Letellier,1
+E. Crivelli,P. Capelle,1
+T. Mangani,B. Santamaria,1
+K. Toko Ekambi,T. Mangani,1
+T. Mangani,K. Toko Ekambi,1
+R. Thomas,I. Traor\u00e9,1
+V. Manceau,F. Tait,1
+B. Santamaria,F. Tait,1
+T. Mangani,V. Manceau,1
+F. Tait,Y. Andreu,1
+P. Capelle,B. Santamaria,1
+T. Mangani,Y. Andreu,1
+K. Toko Ekambi,P. Capelle,1
+Y. Andreu,F. Tait,1
+F. Tait,A. Letellier,1
+I. Traor\u00e9,B. Santamaria,1
+F. Tait,R. Thomas,1
+P. Capelle,K. Toko Ekambi,1
+R. Thomas,T. Mangani,1
+Y. Andreu,P. Capelle,1
+T. Mangani,I. Traor\u00e9,1

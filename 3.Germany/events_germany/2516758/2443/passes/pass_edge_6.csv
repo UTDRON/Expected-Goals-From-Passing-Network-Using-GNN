@@ -1,0 +1,76 @@
+Source,Target,Weight
+T. Gebre Selassie,T. Delaney,7
+T. Delaney,M. Veljkovic,6
+M. Eggestein,M. Veljkovic,6
+R. Bauer,T. Gebre Selassie,5
+M. Veljkovic,F. Kainz,5
+F. Kainz,M. Eggestein,5
+T. Gebre Selassie,M. Eggestein,5
+M. Veljkovic,L. Augustinsson,4
+M. Eggestein,F. Kainz,4
+M. Veljkovic,M. Eggestein,4
+M. Veljkovic,T. Delaney,4
+T. Delaney,F. Kainz,4
+M. Eggestein,T. Gebre Selassie,4
+T. Delaney,T. Gebre Selassie,4
+F. Kainz,M. Veljkovic,4
+F. Kainz,T. Gebre Selassie,3
+T. Gebre Selassie,F. Bartels,3
+J. Pavlenka,R. Bauer,3
+M. Eggestein,L. San\u00e9,3
+L. Augustinsson,F. Kainz,3
+F. Bartels,T. Delaney,3
+T. Gebre Selassie,R. Bauer,3
+R. Bauer,M. Eggestein,3
+F. Bartels,T. Gebre Selassie,3
+L. San\u00e9,M. Veljkovic,3
+L. Augustinsson,R. Bauer,2
+T. Delaney,L. San\u00e9,2
+F. Kainz,M. Kruse,2
+L. San\u00e9,F. Kainz,2
+M. Kruse,M. Eggestein,2
+M. Veljkovic,T. Gebre Selassie,2
+M. Kruse,T. Delaney,2
+F. Kainz,R. Bauer,2
+T. Gebre Selassie,L. San\u00e9,2
+L. Augustinsson,M. Veljkovic,2
+L. Augustinsson,T. Delaney,2
+T. Delaney,M. Eggestein,2
+L. San\u00e9,T. Gebre Selassie,2
+F. Kainz,F. Bartels,2
+T. Delaney,F. Bartels,2
+M. Veljkovic,L. San\u00e9,2
+M. Eggestein,L. Augustinsson,2
+M. Eggestein,J. Pavlenka,2
+L. San\u00e9,R. Bauer,2
+T. Delaney,L. Augustinsson,2
+L. San\u00e9,T. Delaney,2
+R. Bauer,J. Pavlenka,2
+L. Augustinsson,M. Eggestein,2
+M. Eggestein,R. Bauer,2
+T. Gebre Selassie,M. Kruse,2
+F. Bartels,F. Kainz,2
+L. San\u00e9,M. Eggestein,2
+R. Bauer,M. Veljkovic,1
+R. Bauer,F. Bartels,1
+F. Bartels,M. Eggestein,1
+F. Kainz,L. San\u00e9,1
+F. Kainz,L. Augustinsson,1
+M. Kruse,L. Augustinsson,1
+M. Kruse,L. San\u00e9,1
+M. Eggestein,T. Delaney,1
+M. Eggestein,F. Bartels,1
+F. Bartels,M. Kruse,1
+M. Kruse,F. Bartels,1
+J. Pavlenka,L. Augustinsson,1
+F. Kainz,T. Delaney,1
+M. Kruse,F. Kainz,1
+T. Gebre Selassie,M. Veljkovic,1
+J. Pavlenka,M. Kruse,1
+M. Veljkovic,F. Bartels,1
+M. Eggestein,M. Kruse,1
+R. Bauer,L. Augustinsson,1
+L. Augustinsson,L. San\u00e9,1
+M. Veljkovic,J. Pavlenka,1
+F. Bartels,L. San\u00e9,1
+R. Bauer,T. Delaney,1

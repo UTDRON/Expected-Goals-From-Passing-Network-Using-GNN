@@ -1,0 +1,27 @@
+Source,Target,Weight
+J. Ferri,T. Ndomb\u00e8l\u00e9,3
+L. Tousart,J. Morel,2
+Mar\u00e7al,Mariano D\u00edaz,2
+M. Diakhaby,J. Ferri,2
+M. Depay,Mar\u00e7al,2
+Mariano D\u00edaz,M. Depay,2
+Mar\u00e7al,T. Ndomb\u00e8l\u00e9,2
+T. Ndomb\u00e8l\u00e9,Mar\u00e7al,2
+Rafael,J. Ferri,1
+Rafael,M. Diakhaby,1
+T. Ndomb\u00e8l\u00e9,M. Depay,1
+Mar\u00e7al,J. Morel,1
+J. Ferri,B. Traor\u00e9,1
+J. Morel,L. Tousart,1
+J. Morel,Rafael,1
+Rafael,Mar\u00e7al,1
+J. Morel,M. Depay,1
+M. Depay,J. Ferri,1
+M. Diakhaby,Rafael,1
+T. Ndomb\u00e8l\u00e9,J. Morel,1
+J. Ferri,L. Tousart,1
+M. Depay,B. Traor\u00e9,1
+B. Traor\u00e9,J. Ferri,1
+Mar\u00e7al,M. Diakhaby,1
+J. Morel,Mar\u00e7al,1
+T. Ndomb\u00e8l\u00e9,M. Diakhaby,1

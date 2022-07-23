@@ -1,0 +1,63 @@
+Source,Target,Weight
+Malcom,Y. Sabaly,3
+Y. Sabaly,J. Pla\u0161il,3
+Y. Sabaly,J. Kound\u00e9,3
+L. Lerager,V. Vada,3
+Pablo,D. Contento,3
+J. Kound\u00e9,Pablo,3
+Pablo,V. Vada,3
+M. Braithwaite,Malcom,2
+J. Pla\u0161il,Y. Sabaly,2
+V. Vada,Pablo,2
+Y. Sabaly,Malcom,2
+Malcom,V. Vada,2
+D. Contento,J. Kound\u00e9,2
+L. Lerager,Malcom,2
+M. Braithwaite,Y. Sabaly,2
+J. Kound\u00e9,J. Pla\u0161il,2
+J. Pla\u0161il,Malcom,2
+L. Lerager,F. Kamano,2
+F. Kamano,Pablo,2
+V. Vada,Malcom,2
+V. Vada,M. Braithwaite,2
+Y. Sabaly,Pablo,2
+D. Contento,F. Kamano,2
+L. Lerager,D. Contento,2
+B. Costil,M. Braithwaite,2
+Malcom,L. Lerager,2
+D. Contento,Malcom,1
+Pablo,L. Lerager,1
+M. Braithwaite,J. Kound\u00e9,1
+V. Vada,L. Lerager,1
+F. Kamano,L. Lerager,1
+Pablo,J. Kound\u00e9,1
+J. Pla\u0161il,D. Contento,1
+Pablo,Y. Sankhar\u00e9,1
+J. Pla\u0161il,Pablo,1
+L. Lerager,J. Pla\u0161il,1
+V. Vada,B. Costil,1
+Pablo,B. Costil,1
+D. Contento,L. Lerager,1
+J. Pla\u0161il,V. Vada,1
+Pablo,Y. Sabaly,1
+Y. Sankhar\u00e9,Pablo,1
+J. Pla\u0161il,L. Lerager,1
+Y. Sankhar\u00e9,V. Vada,1
+Malcom,Y. Sankhar\u00e9,1
+Y. Sankhar\u00e9,Y. Sabaly,1
+V. Vada,Y. Sankhar\u00e9,1
+Malcom,J. Pla\u0161il,1
+V. Vada,J. Pla\u0161il,1
+D. Contento,Pablo,1
+V. Vada,J. Kound\u00e9,1
+Malcom,Pablo,1
+J. Kound\u00e9,L. Lerager,1
+F. Kamano,M. Braithwaite,1
+Pablo,J. Pla\u0161il,1
+V. Vada,Y. Sabaly,1
+B. Costil,L. Lerager,1
+J. Kound\u00e9,V. Vada,1
+M. Braithwaite,V. Vada,1
+J. Pla\u0161il,M. Braithwaite,1
+J. Kound\u00e9,B. Costil,1
+Malcom,D. Contento,1

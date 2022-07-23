@@ -1,0 +1,24 @@
+Source,Target,Weight
+A. Lookman,D. Upamecano,2
+A. Lookman,N. Ke\u00efta,2
+D. Upamecano,A. Lookman,2
+D. Demme,N. Ke\u00efta,2
+N. Ke\u00efta,D. Demme,1
+Bernardo,D. Demme,1
+T. Werner,J. Augustin,1
+N. Ke\u00efta,Bernardo,1
+J. Augustin,T. Werner,1
+T. Werner,D. Demme,1
+N. Ke\u00efta,A. Lookman,1
+D. Upamecano,J. Augustin,1
+Bernardo,N. Ke\u00efta,1
+T. Werner,Bernardo,1
+J. Augustin,A. Lookman,1
+A. Lookman,Bernardo,1
+J. Augustin,Bernardo,1
+N. Ke\u00efta,J. Augustin,1
+Bernardo,A. Lookman,1
+N. Ke\u00efta,D. Upamecano,1
+Bernardo,T. Werner,1
+A. Lookman,T. Werner,1
+D. Demme,D. Upamecano,1

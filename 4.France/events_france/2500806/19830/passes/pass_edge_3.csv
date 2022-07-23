@@ -1,0 +1,61 @@
+Source,Target,Weight
+Jemerson,Jorge,7
+Jorge,B. Keita,7
+Fabinho,Jemerson,5
+Y. Tielemans,Jorge,5
+Y. Tielemans,Fabinho,5
+Fabinho,Y. Tielemans,4
+B. Keita,Fabinho,4
+Jemerson,Y. Tielemans,4
+Jorge,Jemerson,4
+Y. Tielemans,R. Falcao,3
+Fabinho,Rony Lopes,3
+Jemerson,D. Suba\u0161i\u0107,3
+R. Falcao,Jorge,3
+R. Falcao,Y. Tielemans,3
+Fabinho,B. Keita,2
+K. Glik,R. Falcao,2
+Y. Tielemans,A. Raggi,2
+Y. Tielemans,K. Glik,2
+D. Suba\u0161i\u0107,G. Carrillo,2
+D. Suba\u0161i\u0107,R. Falcao,2
+Jorge,K. Glik,2
+Jorge,Y. Tielemans,2
+A. Raggi,Y. Tielemans,2
+B. Keita,Jorge,2
+Y. Tielemans,Jemerson,2
+Rony Lopes,A. Raggi,2
+B. Keita,Y. Tielemans,2
+B. Keita,Jemerson,2
+G. Carrillo,Y. Tielemans,2
+K. Glik,Fabinho,2
+R. Falcao,Fabinho,2
+K. Glik,Y. Tielemans,1
+Jorge,Fabinho,1
+Rony Lopes,Fabinho,1
+Jemerson,K. Glik,1
+Jorge,G. Carrillo,1
+Fabinho,Jorge,1
+G. Carrillo,B. Keita,1
+Rony Lopes,R. Falcao,1
+Jemerson,Fabinho,1
+G. Carrillo,Jemerson,1
+B. Keita,G. Carrillo,1
+Rony Lopes,Y. Tielemans,1
+K. Glik,Jemerson,1
+A. Raggi,Rony Lopes,1
+A. Raggi,G. Carrillo,1
+Fabinho,G. Carrillo,1
+Jorge,R. Falcao,1
+Y. Tielemans,B. Keita,1
+Jemerson,A. Raggi,1
+Fabinho,D. Suba\u0161i\u0107,1
+Jorge,D. Suba\u0161i\u0107,1
+D. Suba\u0161i\u0107,Fabinho,1
+D. Suba\u0161i\u0107,Rony Lopes,1
+K. Glik,D. Suba\u0161i\u0107,1
+G. Carrillo,K. Glik,1
+A. Raggi,K. Glik,1
+G. Carrillo,Jorge,1
+Y. Tielemans,Rony Lopes,1
+Rony Lopes,Jemerson,1

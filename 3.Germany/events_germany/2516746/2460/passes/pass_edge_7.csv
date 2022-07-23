@@ -1,0 +1,66 @@
+Source,Target,Weight
+P. De Blasis,G. Donati,6
+G. Donati,P. De Blasis,5
+F. Frei,S. Bell,4
+G. Donati,F. Frei,4
+R. Adler,A. Diallo,4
+A. Maxim,P. De Blasis,4
+A. Diallo,D. Brosinski,4
+A. Diallo,F. Frei,3
+S. Bell,A. Diallo,3
+P. De Blasis,A. Maxim,3
+A. Maxim,G. Donati,3
+F. Frei,A. Maxim,3
+S. Bell,G. Donati,3
+A. Diallo,S. Bell,2
+Y. Muto,G. Donati,2
+A. Diallo,D. Latza,2
+F. Frei,G. Donati,2
+G. Donati,D. Latza,2
+V. Fischer,D. Brosinski,2
+A. Maxim,Y. Muto,2
+G. Donati,A. Maxim,2
+S. Bell,R. Adler,2
+A. Maxim,S. Bell,2
+S. Bell,P. De Blasis,2
+D. Brosinski,V. Fischer,2
+D. Brosinski,R. Adler,2
+P. De Blasis,S. Bell,2
+G. Donati,S. Bell,2
+S. Bell,F. Frei,2
+D. Latza,A. Maxim,2
+G. Donati,D. Brosinski,1
+P. De Blasis,D. Brosinski,1
+R. Adler,S. Bell,1
+G. Donati,Y. Muto,1
+F. Frei,D. Latza,1
+D. Brosinski,Y. Muto,1
+Y. Muto,A. Diallo,1
+A. Maxim,A. Diallo,1
+P. De Blasis,R. Adler,1
+Y. Muto,V. Fischer,1
+G. Donati,R. Adler,1
+P. De Blasis,A. Diallo,1
+F. Frei,P. De Blasis,1
+D. Latza,F. Frei,1
+R. Adler,F. Frei,1
+V. Fischer,Y. Muto,1
+Y. Muto,S. Bell,1
+D. Brosinski,A. Maxim,1
+A. Diallo,R. Adler,1
+V. Fischer,A. Diallo,1
+S. Bell,D. Latza,1
+D. Latza,S. Bell,1
+S. Bell,A. Maxim,1
+Y. Muto,P. De Blasis,1
+S. Bell,Y. Muto,1
+G. Donati,V. Fischer,1
+D. Latza,P. De Blasis,1
+F. Frei,A. Diallo,1
+D. Latza,G. Donati,1
+D. Brosinski,A. Diallo,1
+R. Adler,P. De Blasis,1
+A. Diallo,G. Donati,1
+D. Brosinski,F. Frei,1
+D. Brosinski,D. Latza,1
+D. Latza,D. Brosinski,1

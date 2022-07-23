@@ -1,0 +1,68 @@
+Source,Target,Weight
+R. Bensebaini,L. Baal,11
+J. Gnagnon,R. Bensebaini,8
+H. Traor\u00e9,J. Gnagnon,7
+L. Baal,B. Andr\u00e9,6
+L. Baal,R. Bensebaini,5
+R. Bensebaini,J. Gnagnon,5
+J. Gnagnon,H. Traor\u00e9,4
+B. Bourigeaud,H. Traor\u00e9,4
+J. Lea Siliki,H. Traor\u00e9,3
+H. Traor\u00e9,T. Koubek,3
+B. Andr\u00e9,L. Baal,3
+T. Koubek,R. Bensebaini,3
+J. Gnagnon,B. Bourigeaud,3
+H. Traor\u00e9,B. Bourigeaud,3
+R. Bensebaini,J. Lea Siliki,3
+A. Hunou,F. Maouassa,3
+B. Andr\u00e9,Brandon,3
+J. Lea Siliki,J. Gnagnon,3
+Brandon,J. Lea Siliki,3
+Brandon,B. Andr\u00e9,3
+L. Baal,Brandon,3
+J. Lea Siliki,R. Bensebaini,2
+Brandon,H. Traor\u00e9,2
+Brandon,R. Bensebaini,2
+F. Maouassa,A. Hunou,2
+L. Baal,A. Hunou,2
+F. Maouassa,L. Baal,2
+H. Traor\u00e9,R. Bensebaini,2
+A. Hunou,J. Lea Siliki,2
+B. Andr\u00e9,F. Maouassa,2
+B. Bourigeaud,J. Gnagnon,2
+A. Hunou,Brandon,2
+A. Hunou,J. Gnagnon,2
+T. Koubek,B. Bourigeaud,2
+B. Andr\u00e9,H. Traor\u00e9,2
+R. Bensebaini,T. Koubek,2
+B. Andr\u00e9,R. Bensebaini,2
+L. Baal,J. Lea Siliki,2
+J. Gnagnon,T. Koubek,1
+J. Lea Siliki,Brandon,1
+L. Baal,F. Maouassa,1
+J. Lea Siliki,L. Baal,1
+F. Maouassa,B. Andr\u00e9,1
+B. Andr\u00e9,J. Lea Siliki,1
+R. Bensebaini,A. Hunou,1
+B. Bourigeaud,Brandon,1
+J. Gnagnon,J. Lea Siliki,1
+T. Koubek,Brandon,1
+T. Koubek,H. Traor\u00e9,1
+H. Traor\u00e9,B. Andr\u00e9,1
+B. Bourigeaud,B. Andr\u00e9,1
+J. Gnagnon,B. Andr\u00e9,1
+H. Traor\u00e9,J. Lea Siliki,1
+Brandon,B. Bourigeaud,1
+B. Bourigeaud,A. Hunou,1
+Brandon,A. Hunou,1
+R. Bensebaini,Brandon,1
+B. Andr\u00e9,A. Hunou,1
+J. Lea Siliki,F. Maouassa,1
+F. Maouassa,Brandon,1
+J. Lea Siliki,A. Hunou,1
+R. Bensebaini,B. Andr\u00e9,1
+Brandon,F. Maouassa,1
+J. Gnagnon,L. Baal,1
+F. Maouassa,T. Koubek,1
+J. Lea Siliki,B. Bourigeaud,1
+B. Bourigeaud,L. Baal,1

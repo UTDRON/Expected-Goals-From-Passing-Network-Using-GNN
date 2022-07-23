@@ -1,0 +1,20 @@
+Source,Target,Weight
+A. Abrashi,C. G\u00fcnter,2
+C. G\u00fcnter,A. Abrashi,2
+P. Stenzel,M. Gulde,1
+C. S\u00f6y\u00fcnc\u00fc,C. G\u00fcnter,1
+C. S\u00f6y\u00fcnc\u00fc,F. Kath,1
+C. G\u00fcnter,C. S\u00f6y\u00fcnc\u00fc,1
+L. H\u00f6ler,M. Terrazzino,1
+M. Gulde,R. Koch,1
+M. Gulde,C. G\u00fcnter,1
+C. G\u00fcnter,M. Gulde,1
+M. Gulde,P. Stenzel,1
+R. Koch,A. Abrashi,1
+F. Kath,C. G\u00fcnter,1
+M. Terrazzino,L. H\u00f6ler,1
+F. Kath,M. Terrazzino,1
+A. Abrashi,M. Terrazzino,1
+M. Terrazzino,C. S\u00f6y\u00fcnc\u00fc,1
+C. G\u00fcnter,R. Koch,1
+M. Terrazzino,M. Gulde,1

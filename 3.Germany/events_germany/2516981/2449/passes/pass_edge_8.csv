@@ -1,0 +1,42 @@
+Source,Target,Weight
+Naldo,M. Nastasi\u0107,4
+L. Goretzka,M. Meyer,3
+B. Oczipka,M. Nastasi\u0107,3
+B. Embolo,Naldo,3
+M. Nastasi\u0107,B. Oczipka,3
+M. Nastasi\u0107,R. F\u00e4hrmann,2
+Naldo,D. Caligiuri,2
+D. Caligiuri,M. Meyer,2
+D. Caligiuri,Naldo,2
+M. Nastasi\u0107,M. Meyer,2
+R. F\u00e4hrmann,M. Meyer,2
+Naldo,L. Goretzka,2
+M. Meyer,L. Goretzka,2
+M. Meyer,B. Embolo,2
+M. Meyer,Pablo \u00cdnsua,2
+M. Meyer,B. Oczipka,2
+L. Goretzka,M. Nastasi\u0107,1
+M. Nastasi\u0107,D. Caligiuri,1
+L. Goretzka,Pablo \u00cdnsua,1
+N. Bentaleb,Naldo,1
+Naldo,M. Meyer,1
+N. Bentaleb,D. Caligiuri,1
+L. Goretzka,N. Bentaleb,1
+L. Goretzka,D. Caligiuri,1
+Pablo \u00cdnsua,D. Caligiuri,1
+D. Caligiuri,N. Bentaleb,1
+Pablo \u00cdnsua,L. Goretzka,1
+Pablo \u00cdnsua,Naldo,1
+M. Meyer,M. Nastasi\u0107,1
+M. Nastasi\u0107,Naldo,1
+R. F\u00e4hrmann,G. Burgstaller,1
+B. Oczipka,M. Meyer,1
+M. Nastasi\u0107,N. Bentaleb,1
+N. Bentaleb,M. Nastasi\u0107,1
+G. Burgstaller,M. Meyer,1
+M. Meyer,Naldo,1
+B. Oczipka,R. F\u00e4hrmann,1
+M. Meyer,D. Caligiuri,1
+D. Caligiuri,L. Goretzka,1
+M. Nastasi\u0107,L. Goretzka,1
+D. Caligiuri,B. Embolo,1

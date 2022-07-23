@@ -1,0 +1,18 @@
+Source,Target,Weight
+C. N'Jie,A. Zambo Anguissa,2
+B. Kamara,A. Zambo Anguissa,2
+F. Thauvin,M. Sanson,2
+M. Sanson,C. N'Jie,2
+A. Zambo Anguissa,C. N'Jie,2
+C. N'Jie,M. Sanson,1
+A. Zambo Anguissa,B. Kamara,1
+G. Sertic,B. Kamara,1
+J. Amavi,F. Thauvin,1
+C. N'Jie,F. Thauvin,1
+M. Sanson,F. Thauvin,1
+B. Kamara,G. Sertic,1
+G. Sertic,C. N'Jie,1
+A. Zambo Anguissa,G. Sertic,1
+M. Sanson,A. Zambo Anguissa,1
+C. N'Jie,B. Kamara,1
+A. Zambo Anguissa,J. Amavi,1

@@ -1,0 +1,44 @@
+Source,Target,Weight
+Y. Sabaly,Malcom,6
+Y. Sabaly,V. Vada,5
+J. Toulalan,Y. Sabaly,4
+Malcom,Y. Sabaly,4
+V. Vada,Y. Sabaly,4
+Ot\u00e1vio,Y. Sabaly,3
+T. Pellenard,J. Toulalan,3
+M. Poundj\u00e9,F. Kamano,2
+T. Pellenard,M. Poundj\u00e9,2
+V. Vada,Ot\u00e1vio,2
+Ot\u00e1vio,T. Pellenard,2
+F. Kamano,Ot\u00e1vio,2
+Ot\u00e1vio,J. Toulalan,2
+M. Poundj\u00e9,J. Prior,1
+Malcom,Ot\u00e1vio,1
+L. Lerager,T. Pellenard,1
+M. Poundj\u00e9,N. de Pr\u00e9ville,1
+Malcom,M. Poundj\u00e9,1
+J. Prior,J. Toulalan,1
+T. Pellenard,L. Lerager,1
+L. Lerager,Malcom,1
+Malcom,J. Toulalan,1
+Y. Sabaly,J. Prior,1
+Malcom,T. Pellenard,1
+M. Poundj\u00e9,T. Pellenard,1
+Y. Sabaly,Ot\u00e1vio,1
+J. Prior,N. de Pr\u00e9ville,1
+J. Toulalan,N. de Pr\u00e9ville,1
+F. Kamano,V. Vada,1
+V. Vada,T. Pellenard,1
+Ot\u00e1vio,V. Vada,1
+N. de Pr\u00e9ville,M. Poundj\u00e9,1
+Y. Sabaly,M. Poundj\u00e9,1
+N. de Pr\u00e9ville,Y. Sabaly,1
+Y. Sabaly,N. de Pr\u00e9ville,1
+V. Vada,Malcom,1
+J. Toulalan,F. Kamano,1
+Y. Sabaly,L. Lerager,1
+J. Toulalan,V. Vada,1
+M. Poundj\u00e9,Y. Sabaly,1
+T. Pellenard,Ot\u00e1vio,1
+N. de Pr\u00e9ville,Ot\u00e1vio,1
+Y. Sabaly,T. Pellenard,1

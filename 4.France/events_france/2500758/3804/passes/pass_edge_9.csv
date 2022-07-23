@@ -1,0 +1,28 @@
+Source,Target,Weight
+Xeka,R. Amalfitano,3
+W. Sa\u00efd,V. Rosier,2
+V. Rosier,W. Sa\u00efd,2
+N. Sliti,F. Chafik,2
+F. Chafik,N. Sliti,2
+R. Amalfitano,F. Chafik,2
+C. Yamber\u00e9,V. Rosier,1
+C. Yamber\u00e9,B. Reynet,1
+B. Jeannot,P. Djilobodji,1
+V. Rosier,C. Yamber\u00e9,1
+J. Mari\u00e9,C. Yamber\u00e9,1
+B. Jeannot,J. Mari\u00e9,1
+B. Reynet,P. Djilobodji,1
+R. Amalfitano,V. Rosier,1
+P. Djilobodji,V. Rosier,1
+V. Rosier,N. Sliti,1
+C. Yamber\u00e9,R. Amalfitano,1
+F. Chafik,B. Jeannot,1
+V. Rosier,P. Djilobodji,1
+F. Chafik,C. Yamber\u00e9,1
+N. Sliti,V. Rosier,1
+V. Rosier,Xeka,1
+J. Mari\u00e9,V. Rosier,1
+V. Rosier,J. Mari\u00e9,1
+P. Djilobodji,Xeka,1
+P. Djilobodji,J. Mari\u00e9,1
+R. Amalfitano,B. Jeannot,1

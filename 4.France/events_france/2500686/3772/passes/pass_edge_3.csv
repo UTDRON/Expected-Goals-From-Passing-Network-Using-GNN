@@ -1,0 +1,25 @@
+Source,Target,Weight
+Malcom,L. Lerager,3
+L. Lerager,V. Jovanovi\u0107,2
+T. Pellenard,F. Kamano,2
+F. Kamano,T. Pellenard,2
+L. Lerager,Malcom,2
+V. Jovanovi\u0107,T. Pellenard,2
+Y. Sabaly,L. Lerager,1
+V. Vada,Malcom,1
+Y. Sabaly,A. Mendy,1
+A. Mendy,Malcom,1
+F. Kamano,V. Jovanovi\u0107,1
+J. Toulalan,A. Mendy,1
+T. Pellenard,L. Lerager,1
+A. Mendy,V. Jovanovi\u0107,1
+V. Jovanovi\u0107,J. Toulalan,1
+V. Jovanovi\u0107,Y. Sankhar\u00e9,1
+T. Pellenard,Y. Sankhar\u00e9,1
+L. Lerager,F. Kamano,1
+L. Lerager,Y. Sabaly,1
+Y. Sankhar\u00e9,L. Lerager,1
+Y. Sankhar\u00e9,V. Vada,1
+Y. Sabaly,Malcom,1
+Malcom,Y. Sabaly,1
+Malcom,V. Vada,1

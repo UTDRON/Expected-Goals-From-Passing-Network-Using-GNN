@@ -1,0 +1,116 @@
+Source,Target,Weight
+F. Eboa Eboa,F. Tabanou,14
+L. Deaux,\u00c9. Didot,12
+F. Tabanou,\u00c9. Didot,12
+C. Kerbrat,J. Ikoko,11
+J. Briand,F. Tabanou,10
+\u00c9. Didot,L. Deaux,10
+J. Ikoko,C. Kerbrat,10
+\u00c9. Didot,F. Eboa Eboa,10
+\u00c9. Didot,F. Tabanou,9
+J. Ikoko,Y. N'Gbakoto,9
+F. Tabanou,C. Grenier,9
+L. Deaux,F. Tabanou,8
+L. Deaux,J. Briand,8
+L. Deaux,C. Grenier,8
+M. Thuram,\u00c9. Didot,8
+\u00c9. Didot,C. Grenier,8
+C. Grenier,L. Deaux,8
+C. Grenier,F. Eboa Eboa,7
+C. Kerbrat,L. Deaux,7
+C. Kerbrat,\u00c9. Didot,7
+C. Grenier,J. Briand,7
+C. Grenier,F. Tabanou,7
+K. Johnsson,C. Kerbrat,7
+J. Briand,C. Grenier,6
+\u00c9. Didot,Y. N'Gbakoto,6
+K. Johnsson,J. Ikoko,6
+F. Eboa Eboa,\u00c9. Didot,6
+M. Thuram,C. Grenier,6
+F. Tabanou,F. Eboa Eboa,6
+F. Tabanou,K. Johnsson,6
+\u00c9. Didot,K. Johnsson,6
+J. Ikoko,L. Deaux,5
+F. Eboa Eboa,L. Deaux,5
+C. Grenier,M. Thuram,5
+C. Kerbrat,K. Johnsson,5
+J. Briand,\u00c9. Didot,5
+J. Ikoko,\u00c9. Didot,5
+\u00c9. Didot,J. Briand,5
+\u00c9. Didot,C. Kerbrat,5
+F. Tabanou,L. Deaux,5
+Y. N'Gbakoto,M. Thuram,5
+\u00c9. Didot,J. Ikoko,5
+M. Thuram,L. Deaux,5
+M. Thuram,J. Briand,5
+F. Eboa Eboa,K. Johnsson,5
+F. Tabanou,J. Briand,5
+F. Tabanou,M. Thuram,5
+J. Ikoko,M. Thuram,5
+K. Johnsson,F. Eboa Eboa,5
+Y. N'Gbakoto,C. Kerbrat,4
+C. Grenier,\u00c9. Didot,4
+Y. N'Gbakoto,\u00c9. Didot,4
+Y. N'Gbakoto,J. Briand,4
+L. Deaux,F. Eboa Eboa,4
+F. Tabanou,C. Kerbrat,4
+C. Kerbrat,Y. N'Gbakoto,4
+M. Thuram,J. Ikoko,4
+L. Deaux,J. Ikoko,4
+J. Briand,L. Deaux,4
+C. Kerbrat,C. Grenier,4
+J. Briand,M. Thuram,4
+K. Johnsson,J. Briand,4
+J. Briand,C. Kerbrat,4
+F. Eboa Eboa,C. Kerbrat,4
+F. Tabanou,J. Ikoko,4
+Y. N'Gbakoto,J. Ikoko,3
+L. Deaux,M. Thuram,3
+C. Kerbrat,M. Thuram,3
+J. Briand,Y. N'Gbakoto,3
+M. Thuram,F. Tabanou,3
+C. Grenier,C. Kerbrat,3
+K. Johnsson,M. Thuram,3
+C. Kerbrat,F. Eboa Eboa,3
+C. Grenier,J. Ikoko,3
+J. Ikoko,K. Johnsson,3
+J. Briand,K. Johnsson,3
+K. Johnsson,C. Grenier,2
+J. Ikoko,F. Eboa Eboa,2
+L. Phiri,C. Kerbrat,2
+C. Grenier,K. Johnsson,2
+J. Ikoko,J. Briand,2
+Y. N'Gbakoto,F. Tabanou,2
+J. Briand,J. Ikoko,2
+C. Grenier,L. Phiri,2
+L. Phiri,C. Grenier,2
+F. Eboa Eboa,J. Briand,2
+F. Eboa Eboa,C. Grenier,2
+K. Johnsson,\u00c9. Didot,2
+J. Briand,F. Eboa Eboa,2
+F. Eboa Eboa,M. Thuram,2
+L. Deaux,C. Kerbrat,2
+K. Johnsson,F. Tabanou,2
+C. Kerbrat,F. Tabanou,2
+J. Ikoko,C. Grenier,2
+K. Johnsson,L. Deaux,2
+M. Thuram,C. Kerbrat,2
+Y. N'Gbakoto,F. Eboa Eboa,2
+F. Tabanou,L. Phiri,2
+L. Deaux,L. Phiri,1
+Y. N'Gbakoto,K. Johnsson,1
+L. Phiri,J. Ikoko,1
+C. Grenier,Y. N'Gbakoto,1
+M. Thuram,K. Johnsson,1
+M. Thuram,Y. Salibur,1
+Y. N'Gbakoto,L. Phiri,1
+J. Ikoko,F. Tabanou,1
+M. Thuram,Y. N'Gbakoto,1
+F. Tabanou,Y. N'Gbakoto,1
+\u00c9. Didot,M. Thuram,1
+C. Kerbrat,J. Briand,1
+L. Deaux,K. Johnsson,1
+F. Eboa Eboa,J. Ikoko,1
+M. Thuram,F. Eboa Eboa,1
+F. Eboa Eboa,Y. N'Gbakoto,1
+L. Phiri,F. Tabanou,1

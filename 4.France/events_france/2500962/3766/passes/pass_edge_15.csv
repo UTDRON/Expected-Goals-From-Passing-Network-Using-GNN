@@ -1,0 +1,31 @@
+Source,Target,Weight
+J. Morel,F. Mendy,3
+J. Morel,J. Ferri,3
+F. Mendy,J. Morel,3
+K. Tete,L. Tousart,2
+M. Maolida,J. Ferri,2
+Marcelo,J. Morel,2
+J. Morel,Marcelo,2
+J. Ferri,F. Mendy,2
+Mariano D\u00edaz,A. Lopes,1
+J. Morel,Mariano D\u00edaz,1
+F. Mendy,M. Maolida,1
+L. Tousart,K. Tete,1
+F. Mendy,K. Tete,1
+M. Cornet,K. Tete,1
+K. Tete,A. Lopes,1
+L. Tousart,J. Ferri,1
+A. Lopes,J. Morel,1
+M. Cornet,L. Tousart,1
+K. Tete,J. Morel,1
+J. Ferri,J. Morel,1
+L. Tousart,J. Morel,1
+Marcelo,A. Lopes,1
+L. Tousart,M. Cornet,1
+J. Ferri,M. Maolida,1
+A. Lopes,M. Cornet,1
+J. Ferri,Marcelo,1
+J. Morel,L. Tousart,1
+J. Ferri,Mariano D\u00edaz,1
+A. Lopes,K. Tete,1
+Mariano D\u00edaz,F. Mendy,1

@@ -1,0 +1,23 @@
+Source,Target,Weight
+S. Guirassy,S. Zoller,3
+S. Zoller,M. Lehmann,2
+T. Horn,S. Guirassy,2
+P. Olkowski,S. Guirassy,1
+D. Maroh,K. Rausch,1
+K. Rausch,S. Guirassy,1
+M. Lehmann,S. Guirassy,1
+Y. \u014csako,K. Rausch,1
+S. \u00d6zcan,P. Olkowski,1
+D. Maroh,L. Bittencourt,1
+S. Guirassy,Y. \u014csako,1
+S. Zoller,T. Horn,1
+L. Bittencourt,T. Horn,1
+K. Rausch,D. Maroh,1
+S. Guirassy,L. Bittencourt,1
+K. Rausch,P. Olkowski,1
+S. Zoller,Y. \u014csako,1
+L. Bittencourt,S. Zoller,1
+M. Lehmann,S. \u00d6zcan,1
+D. Heintz,M. Lehmann,1
+P. Olkowski,K. Rausch,1
+M. Lehmann,D. Maroh,1

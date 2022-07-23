@@ -1,0 +1,28 @@
+Source,Target,Weight
+C. Grenier,J. Briand,2
+C. Grenier,L. Deaux,2
+J. Briand,C. Grenier,2
+L. Deaux,J. Ikoko,2
+L. Deaux,\u00c9. Didot,1
+J. Ikoko,N. Benezet,1
+M. Thuram,J. Ikoko,1
+J. Ikoko,L. Deaux,1
+J. Ikoko,K. Johnsson,1
+C. Kerbrat,L. Deaux,1
+J. Ikoko,\u00c9. Didot,1
+F. Eboa Eboa,J. Ikoko,1
+N. Benezet,F. Eboa Eboa,1
+C. Grenier,M. Thuram,1
+\u00c9. Didot,N. Benezet,1
+K. Johnsson,F. Eboa Eboa,1
+M. Thuram,L. Deaux,1
+J. Briand,J. Sorbon,1
+M. Thuram,C. Grenier,1
+N. Benezet,J. Briand,1
+N. Benezet,C. Kerbrat,1
+F. Eboa Eboa,C. Grenier,1
+L. Deaux,J. Briand,1
+\u00c9. Didot,M. Thuram,1
+L. Deaux,M. Thuram,1
+J. Sorbon,C. Kerbrat,1
+C. Kerbrat,N. Benezet,1

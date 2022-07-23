@@ -1,0 +1,51 @@
+Source,Target,Weight
+R. Aguilar,N. Mukiele,6
+N. Mukiele,F. P\u00edriz,4
+Pedro Mendes,P. Lasne,4
+C. Ninga,J. Sambia,4
+G. Sio,C. Ninga,3
+J. Sambia,R. Aguilar,3
+N. Mukiele,R. Aguilar,3
+J. Roussillon,Pedro Mendes,3
+P. Lasne,Pedro Mendes,3
+F. P\u00edriz,N. Mukiele,3
+R. Aguilar,F. P\u00edriz,2
+B. Lecomte,R. Aguilar,2
+Pedro Mendes,G. Sio,2
+P. Lasne,C. Ninga,2
+J. Roussillon,J. Sambia,2
+Pedro Mendes,R. Aguilar,2
+J. Sambia,J. Roussillon,2
+J. Sambia,F. P\u00edriz,1
+C. Ninga,Hilton,1
+J. Roussillon,Hilton,1
+B. Lecomte,P. Lasne,1
+F. P\u00edriz,Pedro Mendes,1
+J. Sambia,C. Ninga,1
+N. Mukiele,J. Roussillon,1
+P. Lasne,F. P\u00edriz,1
+F. P\u00edriz,P. Lasne,1
+Hilton,Pedro Mendes,1
+Pedro Mendes,Hilton,1
+Hilton,J. Roussillon,1
+J. Roussillon,P. Lasne,1
+N. Mukiele,J. Sambia,1
+P. Lasne,N. Mukiele,1
+Hilton,J. Sambia,1
+P. Lasne,J. Sambia,1
+F. P\u00edriz,J. Roussillon,1
+R. Aguilar,J. Roussillon,1
+F. P\u00edriz,R. Aguilar,1
+P. Lasne,J. Roussillon,1
+C. Ninga,P. Lasne,1
+F. P\u00edriz,Hilton,1
+R. Aguilar,G. Sio,1
+N. Mukiele,Hilton,1
+Hilton,B. Lecomte,1
+C. Ninga,J. Roussillon,1
+J. Roussillon,B. Lecomte,1
+N. Mukiele,Pedro Mendes,1
+J. Sambia,P. Lasne,1
+Hilton,C. Ninga,1
+Hilton,N. Mukiele,1
+R. Aguilar,B. Lecomte,1

@@ -1,0 +1,38 @@
+Source,Target,Weight
+N. F\u00fcllkrug,W. Anton,2
+S. San\u00e9,W. Anton,2
+W. Anton,S. San\u00e9,2
+J. Korb,K. Karaman,2
+M. Harnik,M. Ostrzolek,2
+J. Korb,N. F\u00fcllkrug,2
+N. F\u00fcllkrug,S. San\u00e9,2
+W. Anton,M. Bakalorz,2
+M. Ostrzolek,M. Harnik,2
+M. Bakalorz,N. F\u00fcllkrug,1
+I. Bebou,J. Korb,1
+W. Anton,Felipe,1
+M. Bakalorz,J. Korb,1
+Felipe,K. Karaman,1
+M. Bakalorz,K. Karaman,1
+S. San\u00e9,Felipe,1
+N. F\u00fcllkrug,M. Bakalorz,1
+N. F\u00fcllkrug,Felipe,1
+Felipe,S. San\u00e9,1
+P. Tschauner,N. F\u00fcllkrug,1
+M. Ostrzolek,N. F\u00fcllkrug,1
+Felipe,M. Harnik,1
+Felipe,P. Tschauner,1
+S. San\u00e9,M. Ostrzolek,1
+S. San\u00e9,N. F\u00fcllkrug,1
+M. Harnik,K. Karaman,1
+M. Bakalorz,Felipe,1
+K. Karaman,N. F\u00fcllkrug,1
+M. Ostrzolek,W. Anton,1
+K. Karaman,S. San\u00e9,1
+S. San\u00e9,J. Korb,1
+N. F\u00fcllkrug,M. Ostrzolek,1
+W. Anton,M. Ostrzolek,1
+K. Karaman,W. Anton,1
+M. Harnik,J. Korb,1
+K. Karaman,M. Harnik,1
+M. Ostrzolek,M. Bakalorz,1

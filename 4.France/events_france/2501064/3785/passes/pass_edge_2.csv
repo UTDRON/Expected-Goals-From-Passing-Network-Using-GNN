@@ -1,0 +1,18 @@
+Source,Target,Weight
+M. Thuram,J. Briand,2
+F. Tabanou,L. Deaux,2
+J. Sorbon,F. Tabanou,1
+J. Sorbon,L. Deaux,1
+C. Grenier,M. Thuram,1
+L. Deaux,K. Johnsson,1
+M. Coco,Pedro Rebocho,1
+F. Tabanou,C. Grenier,1
+L. Deaux,Pedro Rebocho,1
+Pedro Rebocho,M. Coco,1
+J. Briand,M. Thuram,1
+Pedro Rebocho,J. Sorbon,1
+J. Briand,F. Tabanou,1
+Pedro Rebocho,F. Tabanou,1
+L. Deaux,C. Grenier,1
+K. Johnsson,J. Sorbon,1
+C. Grenier,M. Coco,1

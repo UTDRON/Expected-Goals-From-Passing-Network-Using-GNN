@@ -1,0 +1,48 @@
+Source,Target,Weight
+M. Gaji\u0107,V. Vada,5
+V. Vada,Malcom,4
+V. Vada,M. Gaji\u0107,4
+Y. Sabaly,Jonathan Cafu,4
+Jonathan Cafu,Y. Sabaly,3
+Malcom,V. Vada,2
+V. Vada,L. Lerager,2
+L. Lerager,Y. Sabaly,2
+Y. Sabaly,Ot\u00e1vio,2
+Y. Sabaly,L. Lerager,2
+J. Toulalan,Y. Sabaly,2
+M. Gaji\u0107,A. Mendy,2
+Jonathan Cafu,V. Vada,2
+Ot\u00e1vio,J. Toulalan,2
+Ot\u00e1vio,M. Gaji\u0107,2
+V. Jovanovi\u0107,Y. Sabaly,1
+Malcom,J. Toulalan,1
+Jonathan Cafu,J. Toulalan,1
+Ot\u00e1vio,L. Lerager,1
+Malcom,Y. Sabaly,1
+J. Toulalan,Ot\u00e1vio,1
+Y. Sabaly,J. Toulalan,1
+J. Toulalan,Jonathan Cafu,1
+Ot\u00e1vio,Jonathan Cafu,1
+B. Costil,Ot\u00e1vio,1
+J. Toulalan,V. Jovanovi\u0107,1
+A. Mendy,Malcom,1
+Jonathan Cafu,Ot\u00e1vio,1
+V. Vada,Y. Sabaly,1
+L. Lerager,V. Jovanovi\u0107,1
+V. Jovanovi\u0107,M. Gaji\u0107,1
+A. Mendy,Jonathan Cafu,1
+L. Lerager,B. Costil,1
+Malcom,M. Gaji\u0107,1
+A. Mendy,V. Vada,1
+M. Gaji\u0107,L. Lerager,1
+Jonathan Cafu,A. Mendy,1
+J. Toulalan,M. Gaji\u0107,1
+V. Vada,Ot\u00e1vio,1
+Malcom,Jonathan Cafu,1
+Y. Sabaly,V. Vada,1
+L. Lerager,Malcom,1
+M. Gaji\u0107,Malcom,1
+V. Vada,J. Toulalan,1
+Ot\u00e1vio,V. Vada,1
+L. Lerager,V. Vada,1
+Malcom,Ot\u00e1vio,1

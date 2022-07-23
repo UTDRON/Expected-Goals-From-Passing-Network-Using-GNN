@@ -1,0 +1,31 @@
+Source,Target,Weight
+T. Ndomb\u00e8l\u00e9,Rafael,3
+J. Morel,Marcelo,3
+Mar\u00e7al,J. Morel,3
+M. Cornet,T. Ndomb\u00e8l\u00e9,2
+Rafael,T. Ndomb\u00e8l\u00e9,2
+Rafael,J. Morel,2
+N. Fekir,A. Gouiri,1
+Rafael,A. Gouiri,1
+Marcelo,Rafael,1
+T. Ndomb\u00e8l\u00e9,Mar\u00e7al,1
+T. Ndomb\u00e8l\u00e9,H. Aouar,1
+J. Morel,Mar\u00e7al,1
+H. Aouar,J. Morel,1
+A. Gouiri,H. Aouar,1
+J. Morel,N. Fekir,1
+H. Aouar,L. Tousart,1
+L. Tousart,N. Fekir,1
+N. Fekir,Mar\u00e7al,1
+J. Morel,H. Aouar,1
+H. Aouar,Mar\u00e7al,1
+M. Cornet,Mar\u00e7al,1
+Marcelo,M. Cornet,1
+N. Fekir,L. Tousart,1
+A. Gouiri,N. Fekir,1
+H. Aouar,M. Cornet,1
+L. Tousart,T. Ndomb\u00e8l\u00e9,1
+Mar\u00e7al,H. Aouar,1
+T. Ndomb\u00e8l\u00e9,N. Fekir,1
+Marcelo,T. Ndomb\u00e8l\u00e9,1
+N. Fekir,M. Cornet,1

@@ -1,0 +1,15 @@
+Source,Target,Weight
+Y. Bodiger,Q. Boisgard,2
+S. Yago,Y. Bodiger,2
+I. Diop,A. Blin,1
+A. Delort,S. Yago,1
+Q. Boisgard,S. Yago,1
+C. Jean,A. Delort,1
+Q. Boisgard,C. Jean,1
+Y. Bodiger,C. Jean,1
+A. Blin,I. Diop,1
+Q. Boisgard,A. Blin,1
+A. Blin,Y. Bodiger,1
+C. Jean,Q. Boisgard,1
+Y. Bodiger,M. Gradel,1
+M. Gradel,A. Delort,1

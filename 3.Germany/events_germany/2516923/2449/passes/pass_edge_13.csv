@@ -1,0 +1,21 @@
+Source,Target,Weight
+T. Kehrer,Naldo,3
+L. Goretzka,A. Harit,2
+B. Oczipka,L. Goretzka,2
+L. Goretzka,B. Oczipka,2
+M. Nastasi\u0107,B. Oczipka,1
+Naldo,L. Goretzka,1
+Naldo,M. Pjaca,1
+M. Meyer,T. Kehrer,1
+G. Burgstaller,A. Harit,1
+M. Nastasi\u0107,M. Meyer,1
+A. Harit,M. Meyer,1
+M. Meyer,L. Goretzka,1
+G. Burgstaller,M. Nastasi\u0107,1
+B. Oczipka,M. Pjaca,1
+Naldo,G. Burgstaller,1
+A. Harit,D. Caligiuri,1
+M. Pjaca,L. Goretzka,1
+A. Harit,G. Burgstaller,1
+D. Caligiuri,T. Kehrer,1
+L. Goretzka,M. Nastasi\u0107,1

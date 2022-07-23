@@ -1,0 +1,45 @@
+Source,Target,Weight
+V. Koziello,Dante,4
+Dante,C. Jallet,4
+A. Souquet,A. Saint-Maximin,3
+Marlon,V. Koziello,3
+C. Jallet,Dante,3
+Marlon,A. Souquet,2
+A. Souquet,W. Sneijder,2
+Dante,Y. Cardinale,2
+Dante,Marlon,2
+V. Koziello,N. Mendy,2
+A. Saint-Maximin,A. Souquet,2
+W. Sneijder,P. Lees Melou,2
+Y. Cardinale,Dante,2
+N. Mendy,V. Koziello,2
+N. Mendy,C. Jallet,1
+C. Jallet,B. Srarfi,1
+Marlon,N. Mendy,1
+C. Jallet,N. Mendy,1
+A. Saint-Maximin,Marlon,1
+N. Mendy,W. Sneijder,1
+P. Lees Melou,Dante,1
+Dante,N. Mendy,1
+C. Jallet,W. Sneijder,1
+N. Mendy,Y. Cardinale,1
+P. Lees Melou,N. Mendy,1
+W. Sneijder,N. Mendy,1
+N. Mendy,A. Souquet,1
+N. Mendy,Marlon,1
+W. Sneijder,A. Souquet,1
+A. Pl\u00e9a,C. Jallet,1
+A. Souquet,Marlon,1
+B. Srarfi,C. Jallet,1
+W. Sneijder,A. Pl\u00e9a,1
+V. Koziello,A. Souquet,1
+Dante,V. Koziello,1
+V. Koziello,Marlon,1
+Y. Cardinale,A. Souquet,1
+P. Lees Melou,A. Pl\u00e9a,1
+A. Saint-Maximin,V. Koziello,1
+Dante,W. Sneijder,1
+C. Jallet,P. Lees Melou,1
+N. Mendy,Dante,1
+A. Souquet,N. Mendy,1
+A. Souquet,V. Koziello,1

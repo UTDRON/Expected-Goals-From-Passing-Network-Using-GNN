@@ -1,0 +1,81 @@
+Source,Target,Weight
+E. Crivelli,S. Peeters,7
+F. Guilbert,Y. A\u00eft Bennasser,7
+A. Djiku,D. Avounou,7
+Y. A\u00eft Bennasser,F. Guilbert,6
+D. Avounou,A. Djiku,5
+R. Genevois,I. Diomand\u00e9,5
+S. Peeters,E. Crivelli,5
+Y. A\u00eft Bennasser,R. Rodelin,4
+R. Rodelin,D. Avounou,4
+F. Guilbert,E. Crivelli,4
+D. Avounou,R. Rodelin,4
+D. Avounou,Y. A\u00eft Bennasser,4
+R. Vercoutre,A. Djiku,3
+B. Sankoh,F. Guilbert,3
+A. Djiku,I. Diomand\u00e9,3
+R. Genevois,Y. A\u00eft Bennasser,3
+E. Crivelli,F. Guilbert,3
+I. Diomand\u00e9,R. Genevois,3
+R. Rodelin,Y. A\u00eft Bennasser,3
+A. Djiku,R. Vercoutre,3
+B. Sankoh,R. Genevois,3
+R. Rodelin,R. Genevois,3
+F. Guilbert,R. Genevois,3
+S. Peeters,R. Rodelin,2
+I. Diomand\u00e9,B. Sankoh,2
+S. Peeters,I. Diomand\u00e9,2
+Y. A\u00eft Bennasser,A. Djiku,2
+I. Diomand\u00e9,D. Avounou,2
+Y. A\u00eft Bennasser,B. Sankoh,2
+B. Sankoh,A. Djiku,2
+Y. A\u00eft Bennasser,E. Crivelli,2
+B. Sankoh,D. Avounou,2
+R. Genevois,B. Sankoh,2
+I. Diomand\u00e9,A. Djiku,2
+R. Rodelin,A. Djiku,2
+E. Crivelli,D. Avounou,2
+F. Guilbert,R. Vercoutre,2
+F. Guilbert,R. Rodelin,2
+D. Avounou,E. Crivelli,2
+R. Genevois,F. Guilbert,2
+B. Sankoh,R. Rodelin,2
+A. Djiku,B. Sankoh,2
+D. Avounou,F. Guilbert,2
+R. Rodelin,F. Guilbert,2
+F. Guilbert,D. Avounou,1
+R. Vercoutre,R. Rodelin,1
+R. Genevois,A. Djiku,1
+R. Rodelin,B. Sankoh,1
+A. Djiku,R. Genevois,1
+Y. A\u00eft Bennasser,I. Diomand\u00e9,1
+E. Crivelli,R. Rodelin,1
+I. Diomand\u00e9,R. Rodelin,1
+E. Crivelli,B. Sankoh,1
+S. Peeters,D. Avounou,1
+R. Rodelin,E. Crivelli,1
+I. Diomand\u00e9,E. Crivelli,1
+R. Genevois,E. Crivelli,1
+A. Djiku,F. Guilbert,1
+E. Crivelli,R. Genevois,1
+A. Djiku,Y. A\u00eft Bennasser,1
+I. Diomand\u00e9,F. Guilbert,1
+A. Djiku,S. Peeters,1
+F. Guilbert,B. Sankoh,1
+F. Guilbert,A. Djiku,1
+D. Avounou,B. Sankoh,1
+D. Avounou,S. Peeters,1
+R. Vercoutre,I. Diomand\u00e9,1
+D. Avounou,R. Genevois,1
+R. Genevois,S. Peeters,1
+R. Vercoutre,E. Crivelli,1
+E. Crivelli,A. Djiku,1
+S. Peeters,R. Vercoutre,1
+R. Genevois,D. Avounou,1
+Y. A\u00eft Bennasser,R. Genevois,1
+D. Avounou,I. Diomand\u00e9,1
+R. Rodelin,S. Peeters,1
+S. Peeters,F. Guilbert,1
+E. Crivelli,Y. A\u00eft Bennasser,1
+I. Diomand\u00e9,S. Peeters,1
+Y. A\u00eft Bennasser,D. Avounou,1

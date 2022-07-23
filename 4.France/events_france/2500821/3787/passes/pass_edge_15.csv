@@ -1,0 +1,87 @@
+Source,Target,Weight
+N. Cozza,G. Sio,6
+G. Sio,S. Sess\u00e8gnon,5
+G. Sio,N. Cozza,4
+S. Sess\u00e8gnon,Pedro Mendes,4
+E. Skhiri,R. Aguilar,4
+R. Aguilar,E. Skhiri,4
+S. Sess\u00e8gnon,R. Aguilar,3
+P. Lasne,N. Mukiele,3
+B. Lecomte,G. Sio,3
+I. Mbenza,R. Aguilar,3
+S. Sess\u00e8gnon,N. Cozza,3
+Pedro Mendes,I. Mbenza,3
+R. Aguilar,F. P\u00edriz,3
+R. Aguilar,S. Sess\u00e8gnon,3
+N. Mukiele,G. Sio,3
+Hilton,B. Lecomte,2
+I. Mbenza,N. Mukiele,2
+N. Mukiele,R. Aguilar,2
+N. Mukiele,E. Skhiri,2
+R. Aguilar,I. Mbenza,2
+N. Mukiele,C. Ninga,2
+Pedro Mendes,N. Cozza,2
+F. P\u00edriz,I. Mbenza,2
+N. Mukiele,B. Lecomte,2
+Pedro Mendes,G. Sio,2
+J. Roussillon,I. Mbenza,2
+R. Aguilar,N. Mukiele,2
+N. Cozza,P. Lasne,2
+G. Sio,N. Mukiele,2
+P. Lasne,N. Cozza,2
+F. P\u00edriz,Pedro Mendes,2
+N. Mukiele,N. Cozza,2
+I. Mbenza,B. Lecomte,2
+N. Cozza,S. Sess\u00e8gnon,2
+P. Lasne,J. Roussillon,2
+F. P\u00edriz,N. Mukiele,2
+J. Roussillon,P. Lasne,1
+N. Mukiele,Pedro Mendes,1
+Pedro Mendes,N. Mukiele,1
+N. Cozza,F. P\u00edriz,1
+E. Skhiri,N. Mukiele,1
+N. Mukiele,P. Lasne,1
+I. Mbenza,F. P\u00edriz,1
+P. Lasne,R. Aguilar,1
+E. Skhiri,Pedro Mendes,1
+Hilton,R. Aguilar,1
+B. Lecomte,I. Mbenza,1
+C. Ninga,S. Sess\u00e8gnon,1
+Hilton,F. P\u00edriz,1
+N. Mukiele,Hilton,1
+Hilton,N. Mukiele,1
+Pedro Mendes,Hilton,1
+N. Cozza,B. Lecomte,1
+Pedro Mendes,P. Lasne,1
+Hilton,E. Skhiri,1
+Hilton,S. Sess\u00e8gnon,1
+E. Skhiri,G. Sio,1
+S. Sess\u00e8gnon,P. Lasne,1
+E. Skhiri,N. Cozza,1
+B. Lecomte,R. Aguilar,1
+G. Sio,Hilton,1
+G. Sio,E. Skhiri,1
+N. Cozza,E. Skhiri,1
+E. Skhiri,S. Sess\u00e8gnon,1
+R. Aguilar,B. Lecomte,1
+S. Sess\u00e8gnon,E. Skhiri,1
+G. Sio,R. Aguilar,1
+I. Mbenza,Hilton,1
+N. Mukiele,F. P\u00edriz,1
+I. Mbenza,E. Skhiri,1
+Hilton,Pedro Mendes,1
+E. Skhiri,P. Lasne,1
+S. Sess\u00e8gnon,Hilton,1
+G. Sio,J. Roussillon,1
+F. P\u00edriz,R. Aguilar,1
+E. Skhiri,Hilton,1
+Pedro Mendes,J. Roussillon,1
+C. Ninga,R. Aguilar,1
+R. Aguilar,N. Cozza,1
+B. Lecomte,N. Mukiele,1
+R. Aguilar,P. Lasne,1
+B. Lecomte,Pedro Mendes,1
+J. Roussillon,Hilton,1
+B. Lecomte,Hilton,1
+R. Aguilar,Pedro Mendes,1
+N. Cozza,N. Mukiele,1

@@ -1,0 +1,77 @@
+Source,Target,Weight
+Y. Sabaly,Malcom,8
+M. Poundj\u00e9,Jonathan Cafu,4
+Jonathan Cafu,S. Me\u00eft\u00e9,4
+S. Me\u00eft\u00e9,Jonathan Cafu,4
+Malcom,Y. Sabaly,4
+L. Lerager,Y. Sabaly,4
+Malcom,L. Lerager,4
+Y. Sabaly,J. Kound\u00e9,3
+L. Lerager,Pablo,3
+J. Kound\u00e9,L. Lerager,3
+M. Poundj\u00e9,J. Pla\u0161il,3
+M. Poundj\u00e9,S. Me\u00eft\u00e9,3
+Jonathan Cafu,M. Poundj\u00e9,3
+L. Lerager,J. Kound\u00e9,3
+Pablo,M. Poundj\u00e9,3
+L. Lerager,Malcom,2
+Y. Sabaly,S. Me\u00eft\u00e9,2
+Jonathan Cafu,L. Lerager,2
+J. Pla\u0161il,Pablo,2
+L. Lerager,M. Braithwaite,2
+M. Braithwaite,J. Pla\u0161il,2
+M. Braithwaite,Jonathan Cafu,2
+Jonathan Cafu,Malcom,2
+F. Kamano,M. Poundj\u00e9,2
+S. Me\u00eft\u00e9,M. Braithwaite,2
+B. Costil,Y. Sabaly,2
+Pablo,B. Costil,2
+Malcom,Jonathan Cafu,2
+S. Me\u00eft\u00e9,M. Poundj\u00e9,2
+S. Me\u00eft\u00e9,Pablo,2
+M. Braithwaite,Y. Sabaly,2
+Pablo,Y. Sabaly,1
+Jonathan Cafu,J. Kound\u00e9,1
+J. Kound\u00e9,B. Costil,1
+I. Lewczuk,M. Poundj\u00e9,1
+L. Lerager,M. Poundj\u00e9,1
+Y. Sabaly,L. Lerager,1
+J. Pla\u0161il,I. Lewczuk,1
+J. Pla\u0161il,L. Lerager,1
+J. Pla\u0161il,Malcom,1
+J. Pla\u0161il,M. Braithwaite,1
+M. Braithwaite,Pablo,1
+M. Braithwaite,L. Lerager,1
+J. Kound\u00e9,Y. Sabaly,1
+B. Costil,M. Braithwaite,1
+J. Pla\u0161il,J. Kound\u00e9,1
+L. Lerager,B. Costil,1
+M. Poundj\u00e9,L. Lerager,1
+J. Kound\u00e9,M. Poundj\u00e9,1
+J. Pla\u0161il,S. Me\u00eft\u00e9,1
+M. Braithwaite,I. Lewczuk,1
+S. Me\u00eft\u00e9,J. Pla\u0161il,1
+I. Lewczuk,J. Pla\u0161il,1
+Y. Sabaly,M. Braithwaite,1
+B. Costil,L. Lerager,1
+Jonathan Cafu,Y. Sabaly,1
+I. Lewczuk,B. Costil,1
+Malcom,J. Pla\u0161il,1
+B. Costil,Malcom,1
+Pablo,I. Lewczuk,1
+J. Kound\u00e9,M. Braithwaite,1
+Y. Sabaly,Pablo,1
+Pablo,L. Lerager,1
+J. Kound\u00e9,S. Me\u00eft\u00e9,1
+M. Poundj\u00e9,Y. Sabaly,1
+Malcom,J. Kound\u00e9,1
+J. Pla\u0161il,Jonathan Cafu,1
+Pablo,J. Pla\u0161il,1
+J. Kound\u00e9,Malcom,1
+M. Poundj\u00e9,F. Kamano,1
+Y. Sabaly,J. Pla\u0161il,1
+J. Pla\u0161il,Y. Sabaly,1
+S. Me\u00eft\u00e9,L. Lerager,1
+Malcom,M. Braithwaite,1
+Malcom,F. Kamano,1
+Malcom,S. Me\u00eft\u00e9,1

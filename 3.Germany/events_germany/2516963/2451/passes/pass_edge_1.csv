@@ -1,0 +1,27 @@
+Source,Target,Weight
+R. Knoche,K. Casteels,2
+D. Origi,William,2
+William,J. Bruma,2
+William,J. Guilavogui,2
+K. Casteels,J. Guilavogui,1
+J. Guilavogui,J. Brekalo,1
+P. Verhaegh,R. Knoche,1
+J. Bruma,P. Verhaegh,1
+K. Casteels,J. Bruma,1
+J. Bruma,R. Knoche,1
+A. Mehmedi,R. Knoche,1
+R. Knoche,A. Mehmedi,1
+J. Guilavogui,R. Knoche,1
+J. Guilavogui,K. Casteels,1
+D. Origi,J. Guilavogui,1
+J. Bruma,D. Origi,1
+J. Guilavogui,M. Arnold,1
+J. Brekalo,J. Bruma,1
+J. Bruma,J. Brekalo,1
+K. Casteels,D. Origi,1
+M. Arnold,D. Origi,1
+R. Knoche,William,1
+K. Casteels,William,1
+A. Mehmedi,William,1
+J. Brekalo,A. Mehmedi,1
+William,D. Origi,1

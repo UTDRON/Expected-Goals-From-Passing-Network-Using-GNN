@@ -1,0 +1,90 @@
+Source,Target,Weight
+J. Bruma,P. Verhaegh,7
+William,R. Knoche,5
+R. Knoche,K. Casteels,5
+J. Guilavogui,J. Bruma,4
+William,R. Bazoer,4
+D. Didavi,William,4
+J. Brekalo,P. Verhaegh,4
+P. Verhaegh,J. Bruma,4
+J. Guilavogui,P. Verhaegh,4
+P. Verhaegh,D. Didavi,4
+R. Knoche,William,4
+K. Casteels,R. Bazoer,4
+P. Verhaegh,J. Brekalo,3
+P. Verhaegh,R. Knoche,3
+J. Guilavogui,William,3
+William,D. Origi,3
+R. Bazoer,P. Verhaegh,3
+William,J. Guilavogui,3
+William,D. Didavi,3
+D. Origi,J. Brekalo,3
+D. Origi,William,3
+J. Bruma,J. Guilavogui,3
+J. Bruma,K. Casteels,3
+P. Verhaegh,D. Origi,3
+P. Verhaegh,J. Guilavogui,3
+R. Bazoer,J. Guilavogui,3
+J. Brekalo,William,3
+R. Steffen,J. Guilavogui,2
+J. Guilavogui,R. Steffen,2
+Y. Mall\u0131,William,2
+A. Mehmedi,William,2
+R. Bazoer,William,2
+K. Casteels,R. Knoche,2
+J. Brekalo,J. Bruma,2
+D. Didavi,J. Guilavogui,2
+William,Y. Mall\u0131,2
+R. Knoche,J. Bruma,2
+William,R. Steffen,2
+K. Casteels,William,2
+J. Guilavogui,R. Knoche,2
+William,P. Verhaegh,2
+R. Steffen,William,2
+J. Bruma,R. Knoche,2
+D. Didavi,P. Verhaegh,2
+R. Knoche,Y. Mall\u0131,2
+J. Bruma,J. Brekalo,2
+William,K. Casteels,2
+K. Casteels,J. Bruma,1
+Y. Mall\u0131,J. Bruma,1
+R. Knoche,R. Bazoer,1
+D. Didavi,K. Casteels,1
+D. Origi,R. Knoche,1
+R. Bazoer,D. Didavi,1
+D. Origi,A. Mehmedi,1
+R. Bazoer,R. Knoche,1
+R. Knoche,D. Origi,1
+J. Guilavogui,K. Casteels,1
+K. Casteels,Y. Mall\u0131,1
+A. Mehmedi,D. Didavi,1
+D. Origi,J. Guilavogui,1
+William,J. Brekalo,1
+William,J. Bruma,1
+R. Bazoer,R. Steffen,1
+R. Steffen,D. Origi,1
+D. Didavi,R. Bazoer,1
+J. Brekalo,D. Didavi,1
+R. Steffen,D. Didavi,1
+J. Bruma,William,1
+D. Didavi,D. Origi,1
+Y. Mall\u0131,D. Didavi,1
+K. Casteels,D. Origi,1
+R. Knoche,R. Steffen,1
+R. Knoche,P. Verhaegh,1
+D. Origi,J. Bruma,1
+R. Bazoer,J. Bruma,1
+P. Verhaegh,R. Bazoer,1
+Y. Mall\u0131,J. Guilavogui,1
+D. Didavi,J. Bruma,1
+J. Guilavogui,Y. Mall\u0131,1
+K. Casteels,J. Brekalo,1
+P. Verhaegh,William,1
+William,A. Mehmedi,1
+R. Steffen,P. Verhaegh,1
+J. Brekalo,R. Knoche,1
+P. Verhaegh,R. Steffen,1
+J. Guilavogui,J. Brekalo,1
+J. Bruma,R. Bazoer,1
+P. Verhaegh,A. Mehmedi,1
+Y. Mall\u0131,D. Origi,1

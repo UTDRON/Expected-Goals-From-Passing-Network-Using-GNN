@@ -1,0 +1,97 @@
+Source,Target,Weight
+I. Cissokho,H. Manzala,5
+O. El Hajjam,T. Ndomb\u00e8l\u00e9,5
+T. Ndomb\u00e8l\u00e9,O. El Hajjam,5
+K. Ad\u00e9non,T. Monconduit,4
+T. Monconduit,T. Ndomb\u00e8l\u00e9,4
+K. Ad\u00e9non,I. Cissokho,4
+T. Ndomb\u00e8l\u00e9,T. Monconduit,4
+S. Koita,K. Ad\u00e9non,4
+M. Bodmer,K. Ad\u00e9non,4
+G. Fofana,O. El Hajjam,4
+T. Monconduit,G. Fofana,4
+S. Koita,O. El Hajjam,3
+C. Charrier,R. Gurtner,3
+K. Ad\u00e9non,H. Manzala,3
+O. El Hajjam,G. Fofana,3
+K. Ad\u00e9non,T. Ndomb\u00e8l\u00e9,3
+H. Manzala,I. Cissokho,3
+T. Monconduit,P. Gouano,3
+T. Ndomb\u00e8l\u00e9,I. Cissokho,3
+T. Ndomb\u00e8l\u00e9,M. Bodmer,3
+T. Ndomb\u00e8l\u00e9,P. Gouano,3
+P. Gouano,G. Fofana,3
+H. Manzala,T. Ndomb\u00e8l\u00e9,3
+I. Cissokho,S. Koita,3
+I. Cissokho,T. Monconduit,3
+G. Fofana,T. Monconduit,3
+G. Fofana,P. Gouano,3
+T. Monconduit,S. Koita,3
+O. El Hajjam,S. Koita,3
+I. Cissokho,G. Fofana,3
+T. Ndomb\u00e8l\u00e9,R. Gurtner,2
+R. Gurtner,T. Ndomb\u00e8l\u00e9,2
+H. Manzala,S. Koita,2
+G. Fofana,T. Ndomb\u00e8l\u00e9,2
+M. Bodmer,I. Cissokho,2
+S. Koita,T. Ndomb\u00e8l\u00e9,2
+T. Ndomb\u00e8l\u00e9,K. Ad\u00e9non,2
+R. Gurtner,K. Ad\u00e9non,2
+T. Monconduit,M. Bodmer,2
+G. Fofana,C. Charrier,2
+P. Gouano,O. El Hajjam,2
+C. Charrier,S. Koita,2
+S. Koita,T. Monconduit,2
+O. El Hajjam,K. Ad\u00e9non,2
+O. El Hajjam,R. Gurtner,2
+I. Cissokho,T. Ndomb\u00e8l\u00e9,2
+R. Gurtner,P. Gouano,2
+P. Gouano,S. Koita,2
+S. Koita,G. Fofana,2
+S. Koita,I. Cissokho,2
+P. Gouano,T. Monconduit,2
+T. Monconduit,O. El Hajjam,2
+T. Monconduit,R. Gurtner,1
+K. Ad\u00e9non,S. Koita,1
+R. Gurtner,I. Cissokho,1
+R. Gurtner,C. Charrier,1
+G. Fofana,M. Bodmer,1
+T. Ndomb\u00e8l\u00e9,S. Koita,1
+S. Koita,C. Charrier,1
+O. El Hajjam,I. Cissokho,1
+I. Cissokho,K. Ad\u00e9non,1
+C. Charrier,I. Cissokho,1
+M. Bodmer,O. El Hajjam,1
+M. Bodmer,S. Koita,1
+R. Gurtner,T. Monconduit,1
+P. Gouano,R. Gurtner,1
+M. Bodmer,T. Ndomb\u00e8l\u00e9,1
+H. Manzala,G. Fofana,1
+S. Koita,P. Gouano,1
+P. Gouano,C. Charrier,1
+K. Ad\u00e9non,M. Bodmer,1
+K. Ad\u00e9non,C. Charrier,1
+P. Gouano,I. Cissokho,1
+G. Fofana,S. Koita,1
+H. Manzala,C. Charrier,1
+P. Gouano,M. Bodmer,1
+H. Manzala,K. Ad\u00e9non,1
+T. Monconduit,K. Ad\u00e9non,1
+T. Monconduit,H. Manzala,1
+R. Gurtner,S. Koita,1
+S. Koita,M. Bodmer,1
+M. Bodmer,H. Manzala,1
+G. Fofana,H. Manzala,1
+I. Cissokho,R. Gurtner,1
+R. Gurtner,M. Bodmer,1
+T. Ndomb\u00e8l\u00e9,G. Fofana,1
+K. Ad\u00e9non,P. Gouano,1
+S. Koita,R. Gurtner,1
+M. Bodmer,R. Gurtner,1
+C. Charrier,T. Monconduit,1
+O. El Hajjam,H. Manzala,1
+O. El Hajjam,T. Monconduit,1
+I. Cissokho,M. Bodmer,1
+H. Manzala,T. Monconduit,1
+T. Monconduit,I. Cissokho,1
+R. Gurtner,O. El Hajjam,1

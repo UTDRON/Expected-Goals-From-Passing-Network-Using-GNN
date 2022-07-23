@@ -1,0 +1,30 @@
+Source,Target,Weight
+M. Halstenberg,D. Upamecano,3
+D. Upamecano,D. Demme,2
+D. Demme,M. Sabitzer,2
+D. Upamecano,Bruma,2
+D. Upamecano,M. Halstenberg,2
+N. Ke\u00efta,D. Upamecano,2
+M. Sabitzer,D. Demme,2
+N. Ke\u00efta,M. Sabitzer,1
+Bruma,D. Upamecano,1
+D. Demme,M. Halstenberg,1
+Bruma,M. Halstenberg,1
+N. Ke\u00efta,Bruma,1
+M. Halstenberg,J. Augustin,1
+M. Sabitzer,Bernardo,1
+W. Orban,N. Ke\u00efta,1
+D. Demme,W. Orban,1
+M. Halstenberg,N. Ke\u00efta,1
+D. Upamecano,M. Sabitzer,1
+D. Demme,D. Upamecano,1
+Bernardo,N. Ke\u00efta,1
+M. Halstenberg,P. Gul\u00e1csi,1
+Bruma,D. Demme,1
+W. Orban,M. Halstenberg,1
+M. Sabitzer,T. Werner,1
+Bruma,N. Ke\u00efta,1
+J. Augustin,Bruma,1
+T. Werner,M. Sabitzer,1
+P. Gul\u00e1csi,W. Orban,1
+M. Sabitzer,N. Ke\u00efta,1

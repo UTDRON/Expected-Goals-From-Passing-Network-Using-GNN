@@ -1,0 +1,62 @@
+Source,Target,Weight
+F. Frei,G. Donati,5
+D. Brosinski,P. De Blasis,4
+F. Frei,D. Latza,4
+P. De Blasis,A. Diallo,3
+S. Bell,A. Diallo,3
+A. Diallo,D. Brosinski,3
+P. De Blasis,D. Brosinski,3
+D. Latza,D. Brosinski,3
+Y. Muto,L. Balogun,3
+G. Donati,F. Frei,3
+D. Latza,A. Diallo,3
+F. Frei,P. De Blasis,2
+D. Brosinski,D. Latza,2
+L. Balogun,L. \u00d6ztunali,2
+L. Balogun,S. Bell,2
+R. Adler,L. Balogun,2
+P. De Blasis,L. Balogun,2
+L. Balogun,F. Frei,2
+S. Bell,F. Frei,2
+L. Balogun,R. Adler,2
+D. Latza,P. De Blasis,2
+G. Donati,D. Latza,2
+F. Frei,D. Brosinski,2
+A. Diallo,D. Latza,2
+D. Latza,S. Bell,2
+A. Diallo,F. Frei,2
+D. Brosinski,Y. Muto,2
+D. Latza,L. \u00d6ztunali,2
+G. Donati,L. Balogun,2
+D. Brosinski,F. Frei,2
+L. \u00d6ztunali,D. Latza,1
+L. Balogun,D. Brosinski,1
+S. Bell,R. Adler,1
+Y. Muto,A. Diallo,1
+L. Balogun,G. Donati,1
+R. Adler,F. Frei,1
+A. Diallo,Y. Muto,1
+L. \u00d6ztunali,Y. Muto,1
+Y. Muto,D. Latza,1
+R. Adler,Y. Muto,1
+S. Bell,D. Latza,1
+P. De Blasis,F. Frei,1
+D. Latza,G. Donati,1
+L. \u00d6ztunali,A. Diallo,1
+D. Latza,F. Frei,1
+G. Donati,Y. Muto,1
+L. \u00d6ztunali,P. De Blasis,1
+R. Adler,D. Latza,1
+F. Frei,S. Bell,1
+A. Diallo,R. Adler,1
+A. Diallo,S. Bell,1
+D. Brosinski,S. Bell,1
+L. Balogun,D. Latza,1
+Y. Muto,F. Frei,1
+S. Bell,L. Balogun,1
+L. \u00d6ztunali,G. Donati,1
+F. Frei,R. Adler,1
+A. Diallo,L. \u00d6ztunali,1
+L. \u00d6ztunali,F. Frei,1
+D. Latza,L. Balogun,1
+F. Frei,L. \u00d6ztunali,1

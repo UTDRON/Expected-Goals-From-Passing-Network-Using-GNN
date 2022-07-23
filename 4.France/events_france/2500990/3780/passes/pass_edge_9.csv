@@ -1,0 +1,15 @@
+Source,Target,Weight
+Y. Sanogo,F. Mubele,2
+F. Mubele,K. Amian,2
+K. Amian,Y. Cahuzac,1
+I. Sangar\u00e9,I. Sylla,1
+O. Toivonen,Y. Sanogo,1
+I. Sangar\u00e9,Y. Sanogo,1
+F. Mubele,Y. Cahuzac,1
+Y. Cahuzac,K. Amian,1
+I. Sylla,I. Sangar\u00e9,1
+O. Toivonen,K. Amian,1
+F. Mubele,O. Toivonen,1
+Y. Cahuzac,F. Mubele,1
+K. Amian,O. Toivonen,1
+K. Amian,I. Sangar\u00e9,1

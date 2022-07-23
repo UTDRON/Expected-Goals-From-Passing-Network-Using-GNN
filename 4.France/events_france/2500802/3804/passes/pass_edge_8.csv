@@ -1,0 +1,33 @@
+Source,Target,Weight
+M. Abeid,O. Haddadi,2
+O. Haddadi,F. Sammaritano,2
+M. Abeid,J. Mari\u00e9,2
+P. Djilobodji,M. Abeid,1
+B. Reynet,P. Djilobodji,1
+F. Sammaritano,M. Abeid,1
+M. Abeid,P. Djilobodji,1
+P. Djilobodji,Xeka,1
+Xeka,P. Djilobodji,1
+C. Yamber\u00e9,O. Haddadi,1
+O. Haddadi,Xeka,1
+J. Mari\u00e9,M. Abeid,1
+F. Sammaritano,Xeka,1
+J. Mari\u00e9,V. Rosier,1
+F. Sammaritano,O. Haddadi,1
+Xeka,M. Abeid,1
+V. Rosier,R. Amalfitano,1
+P. Djilobodji,C. Yamber\u00e9,1
+O. Haddadi,P. Djilobodji,1
+R. Amalfitano,Xeka,1
+P. Djilobodji,B. Reynet,1
+J. Mari\u00e9,P. Djilobodji,1
+J. Mari\u00e9,J\u00falio Tavares,1
+C. Yamber\u00e9,R. Amalfitano,1
+P. Djilobodji,J. Mari\u00e9,1
+R. Amalfitano,J. Mari\u00e9,1
+J. Mari\u00e9,F. Sammaritano,1
+Xeka,J. Mari\u00e9,1
+Xeka,C. Yamber\u00e9,1
+F. Sammaritano,R. Amalfitano,1
+J\u00falio Tavares,M. Abeid,1
+R. Amalfitano,F. Sammaritano,1

@@ -1,0 +1,62 @@
+Source,Target,Weight
+T. Motta,G. Lo Celso,5
+T. Motta,L. Diarra,5
+L. Diarra,T. Motta,5
+T. Meunier,T. Motta,4
+Yuri Berchiche,C. Nkunku,4
+Yuri Berchiche,P. Kimpembe,4
+T. Meunier,\u00c1. di Mar\u00eda,4
+\u00c1. di Mar\u00eda,T. Meunier,3
+C. Nkunku,Yuri Berchiche,3
+Marquinhos,T. Meunier,3
+G. Lo Celso,T. Meunier,3
+T. Meunier,G. Lo Celso,3
+T. Motta,\u00c1. di Mar\u00eda,3
+Yuri Berchiche,L. Diarra,3
+G. Lo Celso,L. Diarra,2
+P. Kimpembe,L. Diarra,2
+G. Lo Celso,\u00c1. di Mar\u00eda,2
+P. Kimpembe,Yuri Berchiche,2
+L. Diarra,Yuri Berchiche,2
+\u00c1. di Mar\u00eda,K. Mbapp\u00e9,2
+T. Motta,Yuri Berchiche,2
+\u00c1. di Mar\u00eda,Yuri Berchiche,2
+\u00c1. di Mar\u00eda,Marquinhos,2
+P. Kimpembe,Marquinhos,2
+K. Trapp,P. Kimpembe,2
+L. Diarra,\u00c1. di Mar\u00eda,2
+P. Kimpembe,T. Motta,2
+G. Lo Celso,Yuri Berchiche,2
+Yuri Berchiche,K. Mbapp\u00e9,1
+T. Motta,P. Kimpembe,1
+K. Mbapp\u00e9,G. Lo Celso,1
+\u00c1. di Mar\u00eda,K. Trapp,1
+K. Trapp,T. Motta,1
+T. Motta,T. Meunier,1
+Marquinhos,P. Kimpembe,1
+Yuri Berchiche,\u00c1. di Mar\u00eda,1
+G. Lo Celso,K. Trapp,1
+L. Diarra,C. Nkunku,1
+L. Diarra,K. Mbapp\u00e9,1
+\u00c1. di Mar\u00eda,T. Motta,1
+L. Diarra,T. Meunier,1
+G. Lo Celso,T. Motta,1
+C. Nkunku,T. Motta,1
+T. Meunier,Yuri Berchiche,1
+L. Diarra,P. Kimpembe,1
+T. Meunier,Marquinhos,1
+G. Lo Celso,K. Mbapp\u00e9,1
+\u00c1. di Mar\u00eda,G. Lo Celso,1
+Yuri Berchiche,G. Lo Celso,1
+G. Lo Celso,C. Nkunku,1
+Marquinhos,T. Motta,1
+K. Mbapp\u00e9,Yuri Berchiche,1
+P. Kimpembe,T. Meunier,1
+K. Trapp,Marquinhos,1
+C. Nkunku,K. Trapp,1
+K. Mbapp\u00e9,T. Motta,1
+Marquinhos,L. Diarra,1
+K. Mbapp\u00e9,T. Meunier,1
+C. Nkunku,L. Diarra,1
+Yuri Berchiche,K. Trapp,1
+L. Diarra,G. Lo Celso,1

@@ -1,0 +1,12 @@
+Source,Target,Weight
+T. Hazard,Raffael,2
+Raffael,M. Cuisance,1
+O. Wendt,T. Hazard,1
+M. Ginter,O. Wendt,1
+T. Hazard,M. Ginter,1
+M. Cuisance,T. Hazard,1
+Raffael,O. Wendt,1
+L. Stindl,Raffael,1
+Raffael,M. Ginter,1
+V. Grifo,L. Stindl,1
+O. Wendt,V. Grifo,1

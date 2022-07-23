@@ -1,0 +1,46 @@
+Source,Target,Weight
+T. Monconduit,R. Gurtner,3
+P. Gouano,O. El Hajjam,3
+T. Monconduit,S. Mendoza,3
+S. Mendoza,T. Monconduit,3
+O. El Hajjam,S. Mendoza,3
+S. Mendoza,O. El Hajjam,2
+P. Gouano,S. Mendoza,2
+O. El Hajjam,P. Gouano,2
+G. Kakuta,P. Gouano,2
+R. Gurtner,G. Kakuta,2
+R. Gurtner,G. Fofana,1
+B. Zungu,G. Fofana,1
+H. Manzala,B. Zungu,1
+B. Zungu,R. Gurtner,1
+T. Monconduit,B. Zungu,1
+Q. Cornette,B. Zungu,1
+S. Mendoza,P. Gouano,1
+G. Kakuta,B. Dibassy,1
+K. Ad\u00e9non,Q. Cornette,1
+T. Monconduit,B. Dibassy,1
+B. Dibassy,B. Zungu,1
+K. Ad\u00e9non,T. Monconduit,1
+S. Mendoza,G. Kakuta,1
+B. Dibassy,R. Gurtner,1
+S. Mendoza,B. Dibassy,1
+G. Fofana,G. Kakuta,1
+P. Gouano,G. Kakuta,1
+R. Gurtner,S. Mendoza,1
+O. El Hajjam,G. Kakuta,1
+R. Gurtner,T. Monconduit,1
+G. Fofana,P. Gouano,1
+B. Zungu,P. Gouano,1
+B. Dibassy,G. Fofana,1
+G. Fofana,B. Zungu,1
+B. Zungu,K. Ad\u00e9non,1
+S. Mendoza,G. Fofana,1
+S. Mendoza,B. Zungu,1
+Q. Cornette,B. Dibassy,1
+B. Zungu,T. Monconduit,1
+G. Kakuta,S. Mendoza,1
+G. Kakuta,Q. Cornette,1
+B. Dibassy,H. Manzala,1
+G. Kakuta,T. Monconduit,1
+B. Zungu,O. El Hajjam,1
+P. Gouano,K. Ad\u00e9non,1

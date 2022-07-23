@@ -1,0 +1,63 @@
+Source,Target,Weight
+N. Roux,M. Dossevi,6
+B. Assou-Ekotto,M. Dossevi,5
+M. Dossevi,B. Assou-Ekotto,4
+C. Philipps,R. Cohade,4
+B. Assou-Ekotto,O. Nguette,4
+Caf\u00fa,M. Niakhat\u00e9,4
+O. Nguette,B. Assou-Ekotto,4
+M. Dossevi,J. Rivierez,4
+M. Dossevi,R. Cohade,3
+M. Dossevi,N. Roux,3
+Caf\u00fa,B. Assou-Ekotto,3
+R. Cohade,M. Niakhat\u00e9,3
+M. Niakhat\u00e9,B. Assou-Ekotto,3
+B. Assou-Ekotto,N. Roux,2
+T. Didillon,I. Niane,2
+M. Niakhat\u00e9,M. Dossevi,2
+T. Didillon,Caf\u00fa,2
+R. Cohade,J. Rivierez,2
+J. Rivierez,N. Roux,2
+O. Nguette,C. Philipps,2
+M. Niakhat\u00e9,J. Rivierez,2
+I. Niane,N. Roux,2
+J. Rivierez,C. Philipps,2
+B. Assou-Ekotto,R. Cohade,2
+R. Cohade,O. Nguette,2
+J. Rivierez,T. Didillon,2
+R. Cohade,Caf\u00fa,2
+N. Roux,Caf\u00fa,2
+J. Rivierez,M. Niakhat\u00e9,1
+C. Philipps,N. Roux,1
+I. Niane,Caf\u00fa,1
+B. Assou-Ekotto,C. Philipps,1
+Caf\u00fa,I. Niane,1
+N. Roux,B. Assou-Ekotto,1
+M. Dossevi,M. Niakhat\u00e9,1
+O. Nguette,M. Niakhat\u00e9,1
+N. Roux,C. Philipps,1
+C. Philipps,O. Nguette,1
+J. Rivierez,R. Cohade,1
+M. Niakhat\u00e9,Caf\u00fa,1
+C. Philipps,Caf\u00fa,1
+J. Rivierez,M. Dossevi,1
+O. Nguette,J. Rivierez,1
+M. Niakhat\u00e9,T. Didillon,1
+B. Assou-Ekotto,M. Niakhat\u00e9,1
+C. Philipps,M. Dossevi,1
+N. Roux,O. Nguette,1
+I. Niane,B. Assou-Ekotto,1
+R. Cohade,C. Philipps,1
+M. Dossevi,C. Philipps,1
+I. Niane,R. Cohade,1
+R. Cohade,B. Assou-Ekotto,1
+N. Roux,I. Niane,1
+O. Nguette,I. Niane,1
+M. Niakhat\u00e9,N. Roux,1
+R. Cohade,N. Roux,1
+B. Assou-Ekotto,T. Didillon,1
+M. Niakhat\u00e9,O. Nguette,1
+B. Assou-Ekotto,Caf\u00fa,1
+R. Cohade,I. Niane,1
+Caf\u00fa,R. Cohade,1
+Caf\u00fa,M. Dossevi,1

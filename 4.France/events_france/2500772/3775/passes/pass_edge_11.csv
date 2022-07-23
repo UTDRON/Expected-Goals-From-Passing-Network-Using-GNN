@@ -1,0 +1,76 @@
+Source,Target,Weight
+Dante,M. Le Marchand,11
+C. Jallet,M. Le Marchand,10
+Dante,A. Souquet,10
+J. Seri,C. Jallet,9
+M. Le Marchand,C. Jallet,8
+J. Seri,Dante,7
+M. Le Marchand,Dante,7
+M. Le Marchand,J. Seri,7
+A. Souquet,Dante,7
+M. Le Marchand,Y. Cardinale,6
+C. Jallet,M. Balotelli,5
+Dante,J. Seri,5
+A. Pl\u00e9a,J. Seri,5
+J. Seri,M. Le Marchand,4
+J. Seri,V. Koziello,4
+A. Souquet,A. Saint-Maximin,4
+V. Koziello,J. Seri,4
+C. Jallet,J. Seri,4
+P. Lees Melou,M. Le Marchand,4
+M. Le Marchand,P. Lees Melou,4
+M. Balotelli,C. Jallet,4
+C. Jallet,Dante,3
+V. Koziello,A. Souquet,3
+P. Lees Melou,C. Jallet,3
+M. Balotelli,P. Lees Melou,3
+A. Saint-Maximin,A. Souquet,3
+J. Seri,M. Balotelli,3
+C. Jallet,A. Pl\u00e9a,3
+A. Souquet,V. Koziello,3
+V. Koziello,A. Saint-Maximin,3
+A. Saint-Maximin,A. Pl\u00e9a,2
+J. Seri,A. Pl\u00e9a,2
+C. Jallet,P. Lees Melou,2
+A. Saint-Maximin,Dante,2
+A. Saint-Maximin,V. Koziello,2
+Y. Cardinale,Dante,2
+A. Souquet,J. Seri,2
+V. Koziello,P. Lees Melou,2
+P. Lees Melou,V. Koziello,2
+A. Saint-Maximin,J. Seri,2
+A. Pl\u00e9a,A. Saint-Maximin,2
+V. Koziello,Dante,2
+P. Lees Melou,J. Seri,2
+Y. Cardinale,A. Pl\u00e9a,2
+J. Seri,A. Souquet,2
+Dante,C. Jallet,2
+Y. Cardinale,M. Le Marchand,2
+A. Souquet,A. Pl\u00e9a,2
+Y. Cardinale,A. Souquet,1
+A. Saint-Maximin,C. Jallet,1
+J. Seri,P. Lees Melou,1
+M. Balotelli,J. Seri,1
+A. Pl\u00e9a,P. Lees Melou,1
+A. Souquet,Y. Cardinale,1
+J. Seri,A. Saint-Maximin,1
+M. Balotelli,Y. Cardinale,1
+C. Jallet,V. Koziello,1
+A. Pl\u00e9a,A. Souquet,1
+A. Souquet,C. Jallet,1
+P. Lees Melou,M. Balotelli,1
+M. Le Marchand,A. Souquet,1
+Dante,A. Saint-Maximin,1
+Y. Cardinale,J. Seri,1
+M. Balotelli,M. Le Marchand,1
+Y. Cardinale,M. Balotelli,1
+C. Jallet,A. Saint-Maximin,1
+M. Balotelli,Dante,1
+M. Le Marchand,V. Koziello,1
+Dante,Y. Cardinale,1
+A. Pl\u00e9a,C. Jallet,1
+V. Koziello,A. Pl\u00e9a,1
+A. Pl\u00e9a,V. Koziello,1
+A. Pl\u00e9a,M. Le Marchand,1
+Dante,V. Koziello,1
+A. Souquet,M. Le Marchand,1

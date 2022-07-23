@@ -1,0 +1,26 @@
+Source,Target,Weight
+M. Kruse,L. Augustinsson,3
+F. Kainz,L. Augustinsson,2
+N. Moisander,P. Bargfrede,2
+P. Bargfrede,M. Eggestein,2
+S. Langkamp,P. Bargfrede,2
+L. Augustinsson,F. Kainz,2
+M. Eggestein,I. Belfodil,1
+L. Augustinsson,M. Kruse,1
+F. Kainz,N. Moisander,1
+P. Bargfrede,N. Moisander,1
+M. Eggestein,S. Langkamp,1
+M. Kruse,F. Kainz,1
+L. Augustinsson,I. Belfodil,1
+N. Moisander,M. Kruse,1
+I. Belfodil,N. Moisander,1
+M. Kruse,P. Bargfrede,1
+N. Moisander,S. Langkamp,1
+I. Belfodil,M. Kruse,1
+L. Augustinsson,N. Moisander,1
+T. Gebre Selassie,P. Bargfrede,1
+P. Bargfrede,T. Delaney,1
+P. Bargfrede,F. Kainz,1
+S. Langkamp,M. Kruse,1
+P. Bargfrede,S. Langkamp,1
+T. Delaney,M. Kruse,1

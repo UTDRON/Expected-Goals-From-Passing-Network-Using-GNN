@@ -1,0 +1,29 @@
+Source,Target,Weight
+Miiko Albornoz,F. Klaus,3
+I. Fossum,Miiko Albornoz,3
+Miiko Albornoz,Felipe,2
+P. Tschauner,S. San\u00e9,2
+S. San\u00e9,I. Fossum,2
+S. San\u00e9,W. Anton,2
+Felipe,S. San\u00e9,2
+F. Klaus,Miiko Albornoz,2
+W. Anton,Miiko Albornoz,2
+W. Anton,Felipe,1
+Felipe,W. Anton,1
+Miiko Albornoz,P. Tschauner,1
+Felipe,I. Bebou,1
+I. Bebou,P. Tschauner,1
+Miiko Albornoz,I. Bebou,1
+Miiko Albornoz,W. Anton,1
+Felipe,I. Fossum,1
+Miiko Albornoz,I. Fossum,1
+I. Fossum,Felipe,1
+Felipe,M. Harnik,1
+O. Sorg,Felipe,1
+I. Fossum,S. San\u00e9,1
+F. Klaus,Felipe,1
+S. San\u00e9,O. Sorg,1
+I. Bebou,O. Sorg,1
+O. Sorg,N. F\u00fcllkrug,1
+M. Harnik,Miiko Albornoz,1
+W. Anton,I. Fossum,1

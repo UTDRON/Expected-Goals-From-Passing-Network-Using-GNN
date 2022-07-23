@@ -1,0 +1,78 @@
+Source,Target,Weight
+V. Bessat,A. Mbengue,5
+A. Mbengue,V. Bessat,5
+F. Guilbert,I. Santini,4
+A. Mbengue,A. Djiku,4
+R. Vercoutre,A. Djiku,4
+F. Guilbert,D. Da Silva,4
+I. Santini,F. Guilbert,4
+J. F\u00e9ret,F. Guilbert,4
+D. Da Silva,F. Guilbert,3
+Y. A\u00eft Bennasser,R. Rodelin,3
+A. Djiku,Y. A\u00eft Bennasser,3
+A. Djiku,J. F\u00e9ret,3
+Y. A\u00eft Bennasser,D. Da Silva,3
+J. F\u00e9ret,D. Da Silva,3
+V. Bessat,R. Rodelin,3
+R. Rodelin,A. Mbengue,3
+A. Djiku,R. Vercoutre,3
+I. Santini,V. Bessat,3
+D. Da Silva,R. Vercoutre,3
+Y. A\u00eft Bennasser,F. Guilbert,3
+R. Rodelin,I. Santini,2
+R. Rodelin,J. F\u00e9ret,2
+F. Guilbert,R. Rodelin,2
+A. Mbengue,J. F\u00e9ret,2
+C. Kouakou,R. Rodelin,2
+F. Guilbert,A. Djiku,2
+D. Da Silva,V. Bessat,2
+F. Guilbert,J. F\u00e9ret,2
+I. Santini,Y. A\u00eft Bennasser,2
+V. Bessat,I. Santini,2
+A. Djiku,I. Santini,2
+D. Da Silva,Y. A\u00eft Bennasser,2
+F. Guilbert,Y. A\u00eft Bennasser,2
+I. Santini,A. Djiku,2
+J. F\u00e9ret,A. Mbengue,2
+V. Bessat,J. F\u00e9ret,2
+A. Djiku,V. Bessat,2
+J. F\u00e9ret,Y. A\u00eft Bennasser,1
+R. Rodelin,D. Da Silva,1
+D. Da Silva,B. Samba,1
+I. Santini,R. Rodelin,1
+B. Samba,I. Santini,1
+C. Kouakou,F. Guilbert,1
+A. Djiku,F. Guilbert,1
+A. Mbengue,R. Rodelin,1
+R. Rodelin,Y. A\u00eft Bennasser,1
+F. Guilbert,V. Bessat,1
+I. Santini,D. Da Silva,1
+R. Rodelin,V. Bessat,1
+F. Guilbert,A. Mbengue,1
+J. F\u00e9ret,I. Santini,1
+A. Djiku,D. Da Silva,1
+R. Rodelin,A. Djiku,1
+Y. A\u00eft Bennasser,J. F\u00e9ret,1
+J. F\u00e9ret,A. Djiku,1
+V. Bessat,C. Kouakou,1
+D. Da Silva,A. Djiku,1
+A. Mbengue,F. Guilbert,1
+R. Vercoutre,I. Santini,1
+I. Santini,A. Mbengue,1
+R. Rodelin,F. Guilbert,1
+Y. A\u00eft Bennasser,A. Mbengue,1
+J. F\u00e9ret,R. Vercoutre,1
+A. Mbengue,I. Santini,1
+R. Vercoutre,J. F\u00e9ret,1
+F. Guilbert,C. Kouakou,1
+A. Djiku,R. Rodelin,1
+V. Bessat,D. Da Silva,1
+Y. A\u00eft Bennasser,A. Djiku,1
+R. Rodelin,C. Kouakou,1
+A. Djiku,C. Kouakou,1
+D. Da Silva,A. Mbengue,1
+C. Kouakou,A. Djiku,1
+D. Da Silva,I. Santini,1
+R. Vercoutre,F. Guilbert,1
+I. Santini,C. Kouakou,1
+C. Kouakou,Y. A\u00eft Bennasser,1

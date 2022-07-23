@@ -1,0 +1,12 @@
+Source,Target,Weight
+Naldo,G. Burgstaller,2
+Naldo,Y. Konoplyanka,2
+G. Burgstaller,A. Harit,2
+Y. Konoplyanka,Naldo,1
+G. Burgstaller,Naldo,1
+W. McKennie,G. Burgstaller,1
+Naldo,W. McKennie,1
+Y. Konoplyanka,B. Stambouli,1
+A. Harit,G. Burgstaller,1
+A. Harit,Naldo,1
+B. Stambouli,Naldo,1

@@ -1,0 +1,53 @@
+Source,Target,Weight
+S. Peeters,I. Santini,3
+I. Santini,S. Peeters,3
+F. Guilbert,S. Peeters,3
+A. Djiku,Y. A\u00eft Bennasser,3
+F. Guilbert,Y. A\u00eft Bennasser,3
+S. Peeters,A. Djiku,3
+I. Santini,A. Djiku,2
+R. Vercoutre,J. F\u00e9ret,2
+I. Santini,F. Guilbert,2
+A. Djiku,F. Guilbert,2
+R. Genevois,J. F\u00e9ret,2
+F. Guilbert,R. Genevois,2
+Y. A\u00eft Bennasser,F. Guilbert,2
+R. Vercoutre,F. Guilbert,2
+S. Peeters,F. Guilbert,2
+R. Rodelin,F. Guilbert,2
+R. Genevois,D. Da Silva,2
+F. Guilbert,A. Djiku,2
+R. Vercoutre,I. Santini,2
+F. Guilbert,R. Rodelin,2
+Y. A\u00eft Bennasser,R. Vercoutre,2
+E. Crivelli,R. Genevois,1
+A. Djiku,S. Peeters,1
+R. Genevois,Y. A\u00eft Bennasser,1
+R. Rodelin,I. Santini,1
+S. Peeters,Y. A\u00eft Bennasser,1
+D. Da Silva,R. Vercoutre,1
+J. F\u00e9ret,E. Crivelli,1
+J. F\u00e9ret,I. Santini,1
+S. Peeters,R. Vercoutre,1
+D. Da Silva,E. Crivelli,1
+S. Peeters,R. Rodelin,1
+Y. A\u00eft Bennasser,S. Peeters,1
+J. F\u00e9ret,S. Peeters,1
+A. Djiku,I. Santini,1
+Y. A\u00eft Bennasser,J. F\u00e9ret,1
+A. Djiku,R. Vercoutre,1
+R. Rodelin,R. Genevois,1
+A. Djiku,R. Genevois,1
+R. Genevois,A. Djiku,1
+R. Rodelin,S. Peeters,1
+R. Rodelin,R. Vercoutre,1
+A. Djiku,R. Rodelin,1
+I. Santini,Y. A\u00eft Bennasser,1
+I. Santini,R. Rodelin,1
+J. F\u00e9ret,A. Djiku,1
+Y. A\u00eft Bennasser,A. Djiku,1
+E. Crivelli,F. Guilbert,1
+Y. A\u00eft Bennasser,R. Rodelin,1
+E. Crivelli,S. Peeters,1
+F. Guilbert,I. Santini,1
+J. F\u00e9ret,R. Genevois,1

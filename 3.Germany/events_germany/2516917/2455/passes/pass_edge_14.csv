@@ -1,0 +1,14 @@
+Source,Target,Weight
+F. Klaus,I. Fossum,2
+W. Anton,I. Fossum,1
+S. San\u00e9,C. Benschop,1
+S. San\u00e9,K. Karaman,1
+I. Fossum,W. Anton,1
+C. Benschop,F. Klaus,1
+C. Benschop,W. Anton,1
+K. Karaman,F. Klaus,1
+F. Klaus,C. Benschop,1
+I. Fossum,F. Klaus,1
+W. Anton,S. San\u00e9,1
+I. Fossum,P. Tschauner,1
+P. Tschauner,S. San\u00e9,1

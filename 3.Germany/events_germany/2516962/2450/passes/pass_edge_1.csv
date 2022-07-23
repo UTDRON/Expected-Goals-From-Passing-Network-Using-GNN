@@ -1,0 +1,43 @@
+Source,Target,Weight
+Walace,Douglas Santos,5
+Douglas Santos,Walace,3
+R. van Drongelen,K. Papadopoulos,2
+S. Schipplock,R. van Drongelen,2
+A. Hunt,F. Kosti\u0107,2
+S. Schipplock,G. Sakai,2
+Douglas Santos,A. Hunt,2
+B. Jatta,G. Jung,2
+G. Jung,Walace,2
+A. Hunt,K. Papadopoulos,1
+F. Kosti\u0107,Douglas Santos,1
+B. Jatta,A. Hunt,1
+S. Schipplock,Walace,1
+G. Sakai,B. Jatta,1
+Douglas Santos,R. van Drongelen,1
+K. Papadopoulos,G. Jung,1
+Walace,G. Jung,1
+R. van Drongelen,Douglas Santos,1
+G. Jung,G. Sakai,1
+K. Papadopoulos,B. Jatta,1
+S. Schipplock,A. Hunt,1
+K. Papadopoulos,G. Sakai,1
+G. Jung,R. van Drongelen,1
+G. Sakai,S. Schipplock,1
+F. Kosti\u0107,S. Schipplock,1
+Walace,B. Jatta,1
+C. Mathenia,Douglas Santos,1
+Douglas Santos,S. Schipplock,1
+K. Papadopoulos,R. van Drongelen,1
+Douglas Santos,F. Kosti\u0107,1
+G. Sakai,G. Jung,1
+A. Hunt,S. Schipplock,1
+G. Sakai,K. Papadopoulos,1
+R. van Drongelen,G. Sakai,1
+K. Papadopoulos,S. Schipplock,1
+G. Sakai,C. Mathenia,1
+F. Kosti\u0107,Walace,1
+C. Mathenia,K. Papadopoulos,1
+G. Jung,S. Schipplock,1
+R. van Drongelen,C. Mathenia,1
+F. Kosti\u0107,R. van Drongelen,1
+R. van Drongelen,F. Kosti\u0107,1

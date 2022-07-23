@@ -1,0 +1,58 @@
+Source,Target,Weight
+S. Yago,A. Delort,4
+C. Jean,S. Yago,3
+A. Delort,C. Jean,3
+A. Delort,C. Jullien,3
+A. Delort,S. Yago,3
+Som\u00e1lia,C. Jean,3
+M. Gradel,K. Amian,3
+C. Jean,A. Blin,3
+C. Jullien,C. Jean,3
+G. Imbula,M. Gradel,2
+A. Blin,I. Diop,2
+G. Imbula,A. Delort,2
+K. Amian,M. Gradel,2
+M. Gradel,C. Jullien,2
+G. Imbula,Som\u00e1lia,2
+C. Jullien,K. Amian,2
+K. Amian,A. Blin,2
+C. Jean,G. Imbula,2
+K. Amian,C. Jullien,2
+Som\u00e1lia,A. Blin,1
+K. Amian,Som\u00e1lia,1
+C. Jullien,Som\u00e1lia,1
+C. Jullien,A. Lafont,1
+S. Yago,C. Jullien,1
+S. Yago,G. Imbula,1
+C. Jullien,M. Gradel,1
+A. Lafont,K. Amian,1
+M. Gradel,A. Delort,1
+I. Diop,C. Jullien,1
+I. Diop,A. Delort,1
+C. Jullien,A. Blin,1
+S. Yago,C. Jean,1
+S. Yago,K. Amian,1
+A. Blin,S. Yago,1
+A. Blin,M. Gradel,1
+A. Blin,G. Imbula,1
+A. Blin,C. Jullien,1
+Som\u00e1lia,A. Delort,1
+A. Delort,G. Imbula,1
+K. Amian,A. Lafont,1
+A. Delort,Som\u00e1lia,1
+C. Jullien,S. Yago,1
+I. Diop,G. Imbula,1
+A. Delort,K. Amian,1
+S. Yago,I. Diop,1
+A. Blin,K. Amian,1
+Som\u00e1lia,G. Imbula,1
+Som\u00e1lia,S. Yago,1
+G. Imbula,C. Jullien,1
+A. Blin,Som\u00e1lia,1
+A. Lafont,A. Delort,1
+S. Yago,Som\u00e1lia,1
+I. Diop,S. Yago,1
+C. Jullien,A. Delort,1
+C. Jean,I. Diop,1
+K. Amian,A. Delort,1
+A. Delort,A. Blin,1

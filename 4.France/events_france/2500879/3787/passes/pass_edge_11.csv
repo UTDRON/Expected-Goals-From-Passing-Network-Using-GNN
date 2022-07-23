@@ -1,0 +1,43 @@
+Source,Target,Weight
+Pedro Mendes,B. Lecomte,3
+F. P\u00edriz,Pedro Mendes,3
+G. Sio,Pedro Mendes,2
+E. Skhiri,F. P\u00edriz,2
+J. Ikon\u00e9,R. Aguilar,2
+J. Sambia,N. Mukiele,2
+G. Sio,J. Sambia,2
+J. Roussillon,J. Sambia,2
+J. Sambia,J. Roussillon,2
+E. Skhiri,J. Roussillon,2
+N. Mukiele,G. Sio,2
+B. Lecomte,N. Mukiele,2
+R. Aguilar,E. Skhiri,2
+N. Mukiele,E. Skhiri,2
+N. Mukiele,J. Ikon\u00e9,2
+Pedro Mendes,J. Roussillon,1
+N. Mukiele,J. Sambia,1
+Hilton,R. Aguilar,1
+J. Roussillon,Pedro Mendes,1
+B. Lecomte,Hilton,1
+F. P\u00edriz,N. Mukiele,1
+E. Skhiri,J. Ikon\u00e9,1
+J. Ikon\u00e9,G. Sio,1
+J. Ikon\u00e9,B. Lecomte,1
+E. Skhiri,N. Mukiele,1
+G. Sio,F. P\u00edriz,1
+R. Aguilar,J. Ikon\u00e9,1
+Hilton,J. Ikon\u00e9,1
+J. Sambia,Hilton,1
+F. P\u00edriz,E. Skhiri,1
+Pedro Mendes,G. Sio,1
+B. Lecomte,E. Skhiri,1
+R. Aguilar,N. Mukiele,1
+J. Roussillon,N. Mukiele,1
+E. Skhiri,Pedro Mendes,1
+F. P\u00edriz,B. Lecomte,1
+N. Mukiele,F. P\u00edriz,1
+J. Roussillon,G. Sio,1
+Pedro Mendes,F. P\u00edriz,1
+B. Lecomte,R. Aguilar,1
+J. Roussillon,F. P\u00edriz,1
+Pedro Mendes,E. Skhiri,1

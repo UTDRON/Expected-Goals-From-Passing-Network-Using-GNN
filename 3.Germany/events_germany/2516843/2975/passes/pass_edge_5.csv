@@ -1,0 +1,66 @@
+Source,Target,Weight
+K. Kampl,M. Halstenberg,5
+D. Demme,M. Sabitzer,4
+M. Halstenberg,E. Forsberg,4
+D. Demme,I. Konat\u00e9,4
+K. Kampl,D. Demme,4
+M. Halstenberg,D. Demme,4
+Bernardo,D. Demme,3
+M. Sabitzer,Bernardo,3
+M. Sabitzer,T. Werner,3
+T. Werner,W. Orban,3
+W. Orban,K. Kampl,3
+D. Demme,K. Kampl,3
+W. Orban,I. Konat\u00e9,2
+I. Konat\u00e9,D. Demme,2
+D. Demme,T. Werner,2
+J. Augustin,M. Halstenberg,2
+T. Werner,D. Demme,2
+E. Forsberg,T. Werner,2
+E. Forsberg,M. Halstenberg,2
+M. Halstenberg,W. Orban,2
+D. Demme,W. Orban,2
+T. Werner,K. Kampl,2
+D. Demme,M. Halstenberg,2
+J. Augustin,D. Demme,2
+I. Konat\u00e9,M. Sabitzer,2
+M. Sabitzer,M. Halstenberg,1
+Bernardo,I. Konat\u00e9,1
+I. Konat\u00e9,K. Kampl,1
+I. Konat\u00e9,P. Gul\u00e1csi,1
+M. Halstenberg,Bernardo,1
+W. Orban,P. Gul\u00e1csi,1
+K. Kampl,E. Forsberg,1
+P. Gul\u00e1csi,T. Werner,1
+J. Augustin,M. Sabitzer,1
+P. Gul\u00e1csi,W. Orban,1
+Bernardo,M. Halstenberg,1
+T. Werner,J. Augustin,1
+M. Sabitzer,W. Orban,1
+I. Konat\u00e9,W. Orban,1
+K. Kampl,M. Sabitzer,1
+M. Sabitzer,I. Konat\u00e9,1
+E. Forsberg,J. Augustin,1
+M. Sabitzer,D. Demme,1
+Bernardo,M. Sabitzer,1
+I. Konat\u00e9,J. Augustin,1
+K. Kampl,D. Upamecano,1
+D. Demme,P. Gul\u00e1csi,1
+Bernardo,K. Kampl,1
+M. Halstenberg,P. Gul\u00e1csi,1
+D. Demme,Bernardo,1
+W. Orban,Bernardo,1
+W. Orban,D. Demme,1
+P. Gul\u00e1csi,Bernardo,1
+M. Halstenberg,K. Kampl,1
+M. Halstenberg,I. Konat\u00e9,1
+M. Halstenberg,J. Augustin,1
+P. Gul\u00e1csi,I. Konat\u00e9,1
+W. Orban,J. Augustin,1
+I. Konat\u00e9,Bernardo,1
+T. Werner,M. Sabitzer,1
+W. Orban,M. Sabitzer,1
+Bernardo,T. Werner,1
+W. Orban,M. Halstenberg,1
+I. Konat\u00e9,M. Halstenberg,1
+D. Upamecano,K. Kampl,1

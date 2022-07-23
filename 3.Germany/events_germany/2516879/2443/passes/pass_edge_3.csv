@@ -1,0 +1,47 @@
+Source,Target,Weight
+M. Veljkovic,N. Moisander,5
+M. Kruse,T. Delaney,3
+I. Belfodil,M. Kruse,3
+N. Moisander,I. Belfodil,3
+N. Moisander,M. Veljkovic,3
+N. Moisander,M. Eggestein,3
+T. Delaney,N. Moisander,2
+M. Kruse,M. Veljkovic,2
+M. Eggestein,M. Veljkovic,2
+T. Gebre Selassie,M. Veljkovic,2
+M. Veljkovic,T. Delaney,2
+I. Hajrovi\u0107,M. Eggestein,2
+T. Delaney,Z. Junuzovi\u0107,2
+I. Hajrovi\u0107,T. Delaney,2
+J. Pavlenka,M. Veljkovic,2
+M. Veljkovic,I. Hajrovi\u0107,2
+T. Delaney,M. Veljkovic,2
+M. Veljkovic,M. Eggestein,2
+M. Eggestein,I. Hajrovi\u0107,2
+N. Moisander,M. Kruse,2
+M. Eggestein,J. Pavlenka,1
+T. Gebre Selassie,Z. Junuzovi\u0107,1
+Z. Junuzovi\u0107,M. Eggestein,1
+I. Belfodil,T. Gebre Selassie,1
+T. Gebre Selassie,N. Moisander,1
+M. Veljkovic,T. Gebre Selassie,1
+I. Hajrovi\u0107,M. Kruse,1
+M. Eggestein,T. Gebre Selassie,1
+T. Delaney,I. Belfodil,1
+Z. Junuzovi\u0107,N. Moisander,1
+M. Eggestein,T. Delaney,1
+T. Delaney,T. Gebre Selassie,1
+M. Eggestein,I. Belfodil,1
+M. Kruse,N. Moisander,1
+T. Delaney,I. Hajrovi\u0107,1
+I. Hajrovi\u0107,M. Veljkovic,1
+M. Eggestein,M. Kruse,1
+T. Delaney,M. Eggestein,1
+M. Kruse,I. Belfodil,1
+Z. Junuzovi\u0107,I. Hajrovi\u0107,1
+I. Belfodil,I. Hajrovi\u0107,1
+M. Veljkovic,Z. Junuzovi\u0107,1
+I. Belfodil,N. Moisander,1
+I. Belfodil,T. Delaney,1
+M. Veljkovic,I. Belfodil,1
+Z. Junuzovi\u0107,J. Pavlenka,1

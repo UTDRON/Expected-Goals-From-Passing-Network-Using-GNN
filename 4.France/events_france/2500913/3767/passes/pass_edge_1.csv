@@ -1,0 +1,18 @@
+Source,Target,Weight
+P. Kimpembe,G. Lo Celso,2
+P. Kimpembe,L. Kurzawa,2
+L. Kurzawa,P. Kimpembe,2
+Thiago Silva,A. Rabiot,1
+G. Lo Celso,Thiago Silva,1
+Neymar,T. Meunier,1
+G. Lo Celso,Neymar,1
+G. Lo Celso,P. Kimpembe,1
+A. Rabiot,L. Kurzawa,1
+Neymar,J. Draxler,1
+Thiago Silva,J. Draxler,1
+J. Draxler,Thiago Silva,1
+P. Kimpembe,Neymar,1
+T. Meunier,P. Kimpembe,1
+Thiago Silva,P. Kimpembe,1
+T. Meunier,Thiago Silva,1
+L. Kurzawa,G. Lo Celso,1

@@ -1,0 +1,17 @@
+Source,Target,Weight
+D. Opare,Caiuby,1
+P. Max,Ja-Cheol Koo,1
+R. Khedira,M. Heller,1
+K. Danso,D. Baier,1
+K. Danso,J. Gouweleeuw,1
+J. Gouweleeuw,Ja-Cheol Koo,1
+Ja-Cheol Koo,K. Danso,1
+M. Heller,D. Opare,1
+M. Heller,Ja-Cheol Koo,1
+Ja-Cheol Koo,M. Heller,1
+Caiuby,R. Khedira,1
+P. Max,K. Danso,1
+Ja-Cheol Koo,R. Khedira,1
+R. Khedira,M. Gregoritsch,1
+M. Gregoritsch,P. Max,1
+D. Baier,P. Max,1

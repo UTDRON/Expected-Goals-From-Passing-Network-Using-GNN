@@ -1,0 +1,68 @@
+Source,Target,Weight
+H. Manzala,Danilo Avelar,4
+T. Monconduit,H. Manzala,4
+G. Kakuta,T. Monconduit,4
+T. Monconduit,B. Zungu,3
+M. Konat\u00e9,O. El Hajjam,3
+B. Zungu,T. Monconduit,3
+P. Gouano,O. El Hajjam,2
+R. Gurtner,M. Konat\u00e9,2
+H. Manzala,T. Monconduit,2
+B. Dibassy,R. Gurtner,2
+Danilo Avelar,H. Manzala,2
+H. Manzala,P. Gouano,2
+O. El Hajjam,P. Gouano,2
+B. Zungu,B. Dibassy,2
+R. Gurtner,P. Gouano,2
+B. Zungu,G. Kakuta,2
+T. Monconduit,L. Traor\u00e9,2
+Danilo Avelar,G. Kakuta,2
+O. El Hajjam,E. Bourgaud,2
+E. Bourgaud,G. Kakuta,2
+L. Traor\u00e9,T. Monconduit,2
+T. Monconduit,G. Kakuta,2
+G. Kakuta,M. Konat\u00e9,2
+G. Kakuta,B. Dibassy,2
+B. Dibassy,G. Kakuta,2
+G. Kakuta,B. Zungu,2
+P. Gouano,T. Monconduit,2
+B. Zungu,Danilo Avelar,2
+Danilo Avelar,M. Konat\u00e9,1
+Danilo Avelar,T. Monconduit,1
+B. Dibassy,E. Bourgaud,1
+M. Konat\u00e9,G. Kakuta,1
+H. Manzala,B. Zungu,1
+L. Traor\u00e9,H. Manzala,1
+E. Bourgaud,B. Dibassy,1
+T. Monconduit,Danilo Avelar,1
+T. Monconduit,B. Dibassy,1
+O. El Hajjam,B. Zungu,1
+E. Bourgaud,O. El Hajjam,1
+R. Gurtner,B. Zungu,1
+R. Gurtner,T. Monconduit,1
+T. Monconduit,M. Konat\u00e9,1
+Danilo Avelar,B. Dibassy,1
+E. Bourgaud,R. Gurtner,1
+T. Monconduit,E. Bourgaud,1
+O. El Hajjam,T. Monconduit,1
+B. Dibassy,T. Monconduit,1
+E. Bourgaud,M. Konat\u00e9,1
+M. Konat\u00e9,B. Zungu,1
+B. Zungu,R. Gurtner,1
+E. Bourgaud,L. Traor\u00e9,1
+T. Monconduit,P. Gouano,1
+T. Monconduit,O. El Hajjam,1
+R. Gurtner,E. Bourgaud,1
+B. Zungu,E. Bourgaud,1
+P. Gouano,S. Gakp\u00e9,1
+P. Gouano,H. Manzala,1
+O. El Hajjam,H. Manzala,1
+L. Traor\u00e9,B. Zungu,1
+G. Kakuta,Danilo Avelar,1
+M. Konat\u00e9,E. Bourgaud,1
+Danilo Avelar,L. Traor\u00e9,1
+S. Gakp\u00e9,O. El Hajjam,1
+M. Konat\u00e9,T. Monconduit,1
+P. Gouano,R. Gurtner,1
+B. Dibassy,B. Zungu,1
+O. El Hajjam,R. Gurtner,1

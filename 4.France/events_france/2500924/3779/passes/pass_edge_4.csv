@@ -1,0 +1,92 @@
+Source,Target,Weight
+J. Aholou,K. Lala,11
+Nuno Da Costa,D. Foulquier,7
+J. Martin,K. Mangane,7
+K. Lala,J. Martin,7
+M. Terrier,J. Aholou,6
+D. Foulquier,J. Martin,6
+K. Lala,B. Kamara,5
+K. Lala,M. Terrier,5
+D. Foulquier,Nuno Da Costa,5
+J. Martin,M. Terrier,4
+Nuno Da Costa,J. Martin,4
+J. Martin,J. Aholou,4
+K. Lala,J. Aholou,4
+K. Mangane,P. Martinez,4
+M. Terrier,K. Lala,4
+P. Martinez,B. Kamara,4
+J. Blayac,K. Lala,4
+I. Saadi,D. Foulquier,3
+J. Martin,J. Blayac,3
+P. Martinez,J. Martin,3
+P. Martinez,M. Terrier,3
+J. Aholou,P. Martinez,3
+K. Lala,P. Martinez,3
+J. Martin,P. Martinez,3
+Nuno Da Costa,I. Saadi,3
+B. Kamara,D. Foulquier,2
+D. Foulquier,K. Mangane,2
+D. Foulquier,J. Grimm,2
+K. Lala,I. Saadi,2
+I. Saadi,K. Lala,2
+P. Martinez,K. Lala,2
+K. Lala,J. Blayac,2
+M. Terrier,J. Martin,2
+B. Kamara,Nuno Da Costa,2
+M. Terrier,P. Martinez,2
+J. Grimm,D. Foulquier,2
+K. Mangane,J. Martin,2
+D. Foulquier,J. Aholou,2
+P. Martinez,J. Aholou,2
+J. Martin,K. Lala,2
+J. Martin,Nuno Da Costa,2
+I. Saadi,Nuno Da Costa,2
+J. Martin,D. Foulquier,2
+B. Kamara,K. Lala,2
+B. Kamara,J. Martin,2
+K. Mangane,D. Foulquier,2
+J. Grimm,K. Lala,2
+J. Grimm,P. Martinez,1
+J. Aholou,Nuno Da Costa,1
+B. Kamara,P. Martinez,1
+Nuno Da Costa,J. Grimm,1
+J. Blayac,J. Martin,1
+K. Mangane,K. Lala,1
+K. Mangane,J. Blayac,1
+J. Blayac,Nuno Da Costa,1
+D. Foulquier,B. Kamara,1
+D. Foulquier,I. Saadi,1
+K. Lala,K. Mangane,1
+I. Saadi,M. Terrier,1
+K. Lala,D. Foulquier,1
+J. Grimm,M. Terrier,1
+K. Mangane,Nuno Da Costa,1
+Nuno Da Costa,M. Terrier,1
+P. Martinez,J. Grimm,1
+P. Martinez,D. Foulquier,1
+J. Aholou,J. Grimm,1
+P. Martinez,Nuno Da Costa,1
+J. Martin,J. Grimm,1
+K. Mangane,I. Saadi,1
+S. Bahoken,J. Martin,1
+M. Terrier,I. Saadi,1
+J. Martin,I. Saadi,1
+D. Foulquier,S. Bahoken,1
+J. Aholou,M. Terrier,1
+B. Kamara,M. Terrier,1
+D. Foulquier,K. Lala,1
+J. Blayac,P. Martinez,1
+P. Martinez,J. Blayac,1
+J. Aholou,K. Mangane,1
+J. Aholou,J. Martin,1
+J. Blayac,I. Saadi,1
+K. Mangane,J. Aholou,1
+M. Terrier,D. Foulquier,1
+B. Kamara,K. Mangane,1
+I. Saadi,J. Blayac,1
+K. Mangane,B. Kamara,1
+P. Martinez,K. Mangane,1
+M. Terrier,Nuno Da Costa,1
+Nuno Da Costa,K. Mangane,1
+J. Grimm,Nuno Da Costa,1
+K. Lala,J. Grimm,1

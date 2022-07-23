@@ -1,0 +1,30 @@
+Source,Target,Weight
+C. Kerbrat,J. Briand,2
+J. Briand,J. Martins-Pereira,2
+L. Blas,L. Deaux,2
+J. Briand,L. Blas,2
+M. Coco,L. Blas,2
+J. Martins-Pereira,J. Briand,2
+R. Camara,L. Blas,2
+L. Blas,M. Thuram,2
+K. Johnsson,Pedro Rebocho,2
+L. Deaux,C. Kerbrat,1
+L. Blas,J. Martins-Pereira,1
+F. Eboa Eboa,Pedro Rebocho,1
+C. Kerbrat,K. Johnsson,1
+Pedro Rebocho,F. Eboa Eboa,1
+Pedro Rebocho,L. Blas,1
+J. Martins-Pereira,M. Coco,1
+F. Eboa Eboa,C. Kerbrat,1
+Pedro Rebocho,C. Kerbrat,1
+M. Coco,L. Deaux,1
+L. Blas,Pedro Rebocho,1
+L. Blas,R. Camara,1
+L. Blas,F. Eboa Eboa,1
+L. Deaux,M. Coco,1
+Pedro Rebocho,R. Camara,1
+M. Thuram,M. Coco,1
+M. Thuram,L. Blas,1
+L. Deaux,J. Martins-Pereira,1
+F. Eboa Eboa,K. Johnsson,1
+J. Martins-Pereira,R. Camara,1

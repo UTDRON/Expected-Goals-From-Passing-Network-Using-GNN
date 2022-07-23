@@ -1,0 +1,58 @@
+Source,Target,Weight
+F. Tabanou,N. Benezet,6
+J. Briand,F. Tabanou,4
+N. Benezet,J. Briand,4
+L. Blas,F. Tabanou,3
+N. Benezet,F. Tabanou,3
+C. Kerbrat,F. Eboa Eboa,3
+F. Eboa Eboa,F. Tabanou,3
+L. Blas,N. Benezet,3
+F. Tabanou,C. Kerbrat,2
+N. Benezet,J. Martins-Pereira,2
+F. Eboa Eboa,L. Blas,2
+J. Martins-Pereira,\u00c9. Didot,2
+N. Benezet,M. Diallo,2
+\u00c9. Didot,F. Tabanou,2
+F. Tabanou,J. Briand,2
+\u00c9. Didot,F. Eboa Eboa,2
+F. Tabanou,\u00c9. Didot,2
+J. Martins-Pereira,N. Benezet,2
+F. Tabanou,M. Diallo,2
+J. Briand,N. Benezet,2
+N. Benezet,L. Blas,2
+R. Camara,N. Benezet,2
+N. Benezet,R. Camara,1
+F. Tabanou,R. Camara,1
+F. Eboa Eboa,J. Martins-Pereira,1
+N. Benezet,K. Johnsson,1
+M. Diallo,R. Camara,1
+M. Diallo,N. Benezet,1
+J. Martins-Pereira,R. Camara,1
+C. Kerbrat,J. Martins-Pereira,1
+C. Kerbrat,\u00c9. Didot,1
+M. Diallo,J. Martins-Pereira,1
+\u00c9. Didot,N. Benezet,1
+\u00c9. Didot,J. Briand,1
+M. Diallo,F. Eboa Eboa,1
+J. Briand,\u00c9. Didot,1
+J. Briand,L. Blas,1
+\u00c9. Didot,L. Blas,1
+R. Camara,\u00c9. Didot,1
+J. Briand,F. Eboa Eboa,1
+J. Briand,C. Kerbrat,1
+F. Eboa Eboa,\u00c9. Didot,1
+N. Benezet,C. Kerbrat,1
+K. Johnsson,J. Briand,1
+N. Benezet,F. Eboa Eboa,1
+C. Kerbrat,L. Blas,1
+R. Camara,J. Briand,1
+L. Blas,C. Kerbrat,1
+J. Martins-Pereira,C. Kerbrat,1
+J. Briand,K. Johnsson,1
+J. Martins-Pereira,L. Blas,1
+\u00c9. Didot,R. Camara,1
+L. Blas,J. Briand,1
+R. Camara,J. Martins-Pereira,1
+K. Johnsson,M. Diallo,1
+F. Eboa Eboa,J. Briand,1
+\u00c9. Didot,J. Martins-Pereira,1

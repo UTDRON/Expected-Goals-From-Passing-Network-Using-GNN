@@ -1,0 +1,26 @@
+Source,Target,Weight
+Omar Mascarell,S. Haller,3
+M. Hasebe,Omar Mascarell,2
+S. Haller,M. Hasebe,2
+C. Salcedo,Omar Mascarell,2
+M. Hasebe,C. Salcedo,2
+Omar Mascarell,M. Hasebe,1
+M. Hasebe,G. Fernandes,1
+G. Fernandes,S. Falette,1
+C. Salcedo,M. Hasebe,1
+C. Salcedo,T. Chandler,1
+M. Fabi\u00e1n,M. Wolf,1
+Omar Mascarell,C. Salcedo,1
+S. Falette,M. Hasebe,1
+Omar Mascarell,T. Chandler,1
+G. Fernandes,M. Fabi\u00e1n,1
+S. Haller,Omar Mascarell,1
+M. Fabi\u00e1n,G. Fernandes,1
+M. Wolf,C. Salcedo,1
+T. Chandler,S. Falette,1
+M. Hasebe,M. Wolf,1
+Omar Mascarell,L. Jovi\u0107,1
+G. Fernandes,Omar Mascarell,1
+T. Chandler,Omar Mascarell,1
+S. Falette,G. Fernandes,1
+L. Jovi\u0107,M. Fabi\u00e1n,1

@@ -1,0 +1,77 @@
+Source,Target,Weight
+K. Ad\u00e9non,B. Dibassy,6
+O. El Hajjam,B. Zungu,4
+B. Zungu,O. El Hajjam,4
+T. Monconduit,K. Ad\u00e9non,4
+R. Gurtner,P. Gouano,4
+T. Monconduit,O. El Hajjam,4
+O. El Hajjam,P. Gouano,4
+P. Gouano,R. Gurtner,4
+P. Gouano,K. Ad\u00e9non,4
+O. El Hajjam,G. Kakuta,4
+G. Kakuta,T. Monconduit,3
+B. Zungu,T. Monconduit,3
+R. Gurtner,M. Konat\u00e9,3
+K. Ad\u00e9non,R. Gurtner,3
+B. Zungu,P. Gouano,3
+B. Dibassy,T. Monconduit,3
+S. Gakp\u00e9,O. El Hajjam,2
+H. Manzala,M. Konat\u00e9,2
+R. Gurtner,K. Ad\u00e9non,2
+G. Kakuta,B. Zungu,2
+P. Gouano,G. Kakuta,2
+K. Ad\u00e9non,P. Gouano,2
+S. Gakp\u00e9,G. Kakuta,2
+O. El Hajjam,R. Gurtner,2
+M. Konat\u00e9,B. Dibassy,2
+S. Gakp\u00e9,B. Dibassy,2
+T. Monconduit,H. Manzala,2
+G. Kakuta,O. El Hajjam,2
+B. Dibassy,P. Gouano,2
+S. Gakp\u00e9,B. Zungu,2
+K. Ad\u00e9non,B. Zungu,2
+P. Gouano,T. Monconduit,2
+B. Dibassy,K. Ad\u00e9non,2
+G. Kakuta,S. Gakp\u00e9,2
+B. Zungu,S. Gakp\u00e9,2
+M. Konat\u00e9,K. Ad\u00e9non,2
+B. Dibassy,B. Zungu,2
+P. Gouano,M. Konat\u00e9,1
+B. Dibassy,S. Gakp\u00e9,1
+B. Dibassy,M. Konat\u00e9,1
+O. El Hajjam,S. Gakp\u00e9,1
+G. Kakuta,P. Gouano,1
+M. Konat\u00e9,P. Gouano,1
+B. Dibassy,R. Gurtner,1
+O. El Hajjam,H. Manzala,1
+M. Konat\u00e9,O. El Hajjam,1
+P. Gouano,B. Zungu,1
+G. Kakuta,B. Dibassy,1
+M. Konat\u00e9,T. Monconduit,1
+B. Zungu,R. Gurtner,1
+K. Ad\u00e9non,M. Konat\u00e9,1
+H. Manzala,R. Gurtner,1
+B. Dibassy,G. Kakuta,1
+H. Manzala,K. Ad\u00e9non,1
+K. Ad\u00e9non,G. Kakuta,1
+R. Gurtner,G. Kakuta,1
+O. El Hajjam,K. Ad\u00e9non,1
+M. Konat\u00e9,B. Zungu,1
+H. Manzala,O. El Hajjam,1
+P. Gouano,S. Gakp\u00e9,1
+B. Dibassy,H. Manzala,1
+B. Zungu,H. Manzala,1
+M. Konat\u00e9,H. Manzala,1
+H. Manzala,B. Zungu,1
+K. Ad\u00e9non,T. Monconduit,1
+T. Monconduit,B. Zungu,1
+R. Gurtner,B. Dibassy,1
+T. Monconduit,M. Konat\u00e9,1
+P. Gouano,O. El Hajjam,1
+B. Zungu,G. Kakuta,1
+P. Gouano,H. Manzala,1
+B. Zungu,B. Dibassy,1
+G. Kakuta,K. Ad\u00e9non,1
+H. Manzala,B. Dibassy,1
+R. Gurtner,S. Gakp\u00e9,1
+K. Ad\u00e9non,O. El Hajjam,1

@@ -1,0 +1,90 @@
+Source,Target,Weight
+D. Latza,S. Bell,6
+D. Latza,J. Gbamin,5
+S. Bell,A. Maxim,4
+J. Gbamin,R. Zentner,3
+S. Serdar,D. Latza,3
+A. Maxim,A. Diallo,3
+S. Serdar,G. Donati,3
+J. Gbamin,K. Kodro,3
+A. Diallo,P. De Blasis,3
+S. Bell,A. Diallo,3
+A. Diallo,S. Bell,3
+A. Diallo,D. Latza,3
+G. Holtmann,A. Maxim,3
+A. Diallo,G. Holtmann,3
+A. Maxim,D. Latza,3
+J. Gbamin,D. Latza,3
+G. Donati,S. Bell,3
+S. Bell,E. Berggreen,3
+J. Gbamin,S. Bell,3
+S. Bell,D. Latza,3
+A. Diallo,J. Gbamin,3
+K. Kodro,E. Berggreen,2
+G. Donati,D. Latza,2
+G. Donati,S. Serdar,2
+D. Latza,S. Serdar,2
+J. Gbamin,P. De Blasis,2
+G. Holtmann,A. Diallo,2
+P. De Blasis,A. Maxim,2
+G. Donati,J. Gbamin,2
+K. Kodro,A. Diallo,2
+D. Latza,A. Maxim,2
+J. Gbamin,A. Diallo,2
+D. Latza,G. Holtmann,2
+R. Zentner,A. Diallo,2
+S. Serdar,G. Holtmann,2
+E. Berggreen,S. Serdar,2
+D. Latza,A. Diallo,2
+G. Holtmann,G. Donati,2
+E. Berggreen,D. Latza,2
+K. Kodro,D. Latza,2
+S. Serdar,A. Diallo,2
+S. Bell,G. Donati,2
+K. Kodro,J. Gbamin,2
+G. Holtmann,D. Latza,2
+L. \u00d6ztunali,G. Holtmann,2
+E. Berggreen,K. Kodro,2
+D. Latza,K. Kodro,2
+E. Berggreen,S. Bell,2
+A. Maxim,L. \u00d6ztunali,2
+S. Bell,G. Holtmann,1
+A. Diallo,A. Maxim,1
+D. Latza,G. Donati,1
+S. Bell,R. Zentner,1
+G. Donati,K. Kodro,1
+A. Maxim,S. Serdar,1
+P. De Blasis,J. Gbamin,1
+G. Holtmann,S. Serdar,1
+K. Kodro,L. \u00d6ztunali,1
+E. Berggreen,J. Gbamin,1
+A. Maxim,J. Gbamin,1
+P. De Blasis,K. Kodro,1
+L. \u00d6ztunali,J. Gbamin,1
+A. Maxim,P. De Blasis,1
+G. Donati,E. Berggreen,1
+G. Donati,A. Maxim,1
+A. Maxim,G. Holtmann,1
+D. Latza,E. Berggreen,1
+A. Diallo,E. Berggreen,1
+K. Kodro,S. Serdar,1
+K. Kodro,G. Holtmann,1
+G. Holtmann,E. Berggreen,1
+R. Zentner,G. Donati,1
+A. Diallo,R. Zentner,1
+P. De Blasis,G. Donati,1
+P. De Blasis,A. Diallo,1
+R. Zentner,S. Serdar,1
+J. Gbamin,G. Donati,1
+G. Holtmann,P. De Blasis,1
+P. De Blasis,G. Holtmann,1
+R. Zentner,K. Kodro,1
+J. Gbamin,E. Berggreen,1
+A. Diallo,K. Kodro,1
+S. Serdar,K. Kodro,1
+S. Bell,J. Gbamin,1
+G. Holtmann,J. Gbamin,1
+K. Kodro,A. Maxim,1
+E. Berggreen,A. Diallo,1
+A. Maxim,G. Donati,1
+A. Diallo,S. Serdar,1

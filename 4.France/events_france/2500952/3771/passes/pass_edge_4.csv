@@ -1,0 +1,47 @@
+Source,Target,Weight
+A. Rami,A. Zambo Anguissa,4
+A. Zambo Anguissa,A. Rami,3
+D. Payet,Luiz Gustavo,3
+A. Zambo Anguissa,H. Sakai,3
+A. Zambo Anguissa,F. Thauvin,3
+F. Thauvin,A. Zambo Anguissa,2
+H. Sakai,A. Rami,2
+Luiz Gustavo,H. Sakai,2
+H. Sakai,A. Zambo Anguissa,2
+L. Ocampos,A. Zambo Anguissa,2
+A. Zambo Anguissa,D. Payet,2
+Luiz Gustavo,L. Ocampos,2
+J. Amavi,Rolando,2
+A. Rami,Rolando,1
+F. Thauvin,Y. Pel\u00e9,1
+Rolando,Y. Pel\u00e9,1
+Rolando,D. Payet,1
+H. Sakai,L. Ocampos,1
+F. Thauvin,H. Sakai,1
+Y. Pel\u00e9,D. Payet,1
+F. Thauvin,Rolando,1
+Luiz Gustavo,A. Zambo Anguissa,1
+H. Sakai,J. Amavi,1
+V. Germain,H. Sakai,1
+F. Thauvin,A. Rami,1
+Rolando,A. Rami,1
+Rolando,Luiz Gustavo,1
+A. Rami,F. Thauvin,1
+Luiz Gustavo,J. Amavi,1
+H. Sakai,F. Thauvin,1
+L. Ocampos,F. Thauvin,1
+Y. Pel\u00e9,A. Rami,1
+D. Payet,A. Zambo Anguissa,1
+D. Payet,Y. Pel\u00e9,1
+M. Sanson,D. Payet,1
+A. Rami,Luiz Gustavo,1
+A. Zambo Anguissa,Luiz Gustavo,1
+Y. Pel\u00e9,Rolando,1
+L. Ocampos,D. Payet,1
+D. Payet,M. Sanson,1
+D. Payet,H. Sakai,1
+A. Rami,D. Payet,1
+Rolando,H. Sakai,1
+H. Sakai,Rolando,1
+Rolando,L. Ocampos,1
+H. Sakai,V. Germain,1

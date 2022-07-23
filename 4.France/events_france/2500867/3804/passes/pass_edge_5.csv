@@ -1,0 +1,23 @@
+Source,Target,Weight
+A. Bouka Moutou,P. Djilobodji,2
+A. Bouka Moutou,\u00c1. Lang,2
+N. Sliti,F. Sammaritano,2
+B. Jeannot,N. Sliti,2
+F. Sammaritano,A. Bouka Moutou,1
+N. Sliti,B. Jeannot,1
+P. Djilobodji,B. Jeannot,1
+M. Abeid,A. Bouka Moutou,1
+B. Reynet,F. Sammaritano,1
+\u00c1. Lang,A. Bouka Moutou,1
+P. Djilobodji,M. Abeid,1
+B. Jeannot,W. Sa\u00efd,1
+F. Sammaritano,N. Sliti,1
+W. Sa\u00efd,F. Sammaritano,1
+M. Abeid,B. Jeannot,1
+N. Sliti,\u00c1. Lang,1
+P. Djilobodji,A. Bouka Moutou,1
+M. Abeid,P. Djilobodji,1
+\u00c1. Lang,Xeka,1
+\u00c1. Lang,N. Sliti,1
+F. Sammaritano,M. Abeid,1
+Xeka,B. Reynet,1

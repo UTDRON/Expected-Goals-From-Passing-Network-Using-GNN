@@ -1,0 +1,36 @@
+Source,Target,Weight
+S. Ilsanker,K. Laimer,4
+K. Laimer,D. Upamecano,3
+N. Ke\u00efta,L. Klostermann,3
+Y. Poulsen,S. Ilsanker,2
+E. Forsberg,D. Upamecano,2
+D. Upamecano,N. Ke\u00efta,2
+L. Klostermann,Bruma,2
+D. Upamecano,S. Ilsanker,2
+S. Ilsanker,Y. Poulsen,2
+N. Ke\u00efta,Bruma,1
+S. Ilsanker,N. Ke\u00efta,1
+L. Klostermann,N. Ke\u00efta,1
+K. Laimer,P. Gul\u00e1csi,1
+W. Orban,S. Ilsanker,1
+E. Forsberg,M. Sabitzer,1
+T. Werner,S. Ilsanker,1
+L. Klostermann,D. Upamecano,1
+D. Upamecano,K. Laimer,1
+N. Ke\u00efta,E. Forsberg,1
+E. Forsberg,L. Klostermann,1
+S. Ilsanker,W. Orban,1
+M. Sabitzer,K. Laimer,1
+Bruma,L. Klostermann,1
+L. Klostermann,M. Sabitzer,1
+D. Upamecano,L. Klostermann,1
+P. Gul\u00e1csi,S. Ilsanker,1
+Bruma,E. Forsberg,1
+E. Forsberg,S. Ilsanker,1
+N. Ke\u00efta,J. Augustin,1
+M. Sabitzer,W. Orban,1
+K. Laimer,N. Ke\u00efta,1
+L. Klostermann,E. Forsberg,1
+W. Orban,N. Ke\u00efta,1
+K. Laimer,E. Forsberg,1
+Bruma,T. Werner,1

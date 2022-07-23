@@ -1,0 +1,44 @@
+Source,Target,Weight
+A. Mbengue,V. Bessat,3
+V. Bessat,R. Rodelin,2
+J. Nkololo,R. Rodelin,2
+F. Guilbert,R. Vercoutre,2
+J. Nkololo,F. Guilbert,2
+R. Rodelin,J. Nkololo,2
+V. Bessat,I. Santini,2
+R. Vercoutre,V. Bessat,2
+V. Bessat,B. Sankoh,2
+B. Sankoh,V. Bessat,2
+R. Rodelin,D. Da Silva,2
+V. Bessat,A. Mbengue,2
+B. Sankoh,I. Diomand\u00e9,1
+V. Bessat,I. Diomand\u00e9,1
+I. Diomand\u00e9,R. Vercoutre,1
+R. Rodelin,I. Diomand\u00e9,1
+I. Diomand\u00e9,A. Mbengue,1
+I. Santini,B. Sankoh,1
+F. Guilbert,V. Bessat,1
+F. Guilbert,B. Sankoh,1
+J. Nkololo,A. Mbengue,1
+F. Guilbert,I. Santini,1
+B. Sankoh,F. Guilbert,1
+I. Santini,J. Nkololo,1
+A. Mbengue,F. Guilbert,1
+F. Guilbert,R. Rodelin,1
+I. Santini,V. Bessat,1
+B. Sankoh,A. Mbengue,1
+Y. A\u00eft Bennasser,R. Rodelin,1
+Y. A\u00eft Bennasser,B. Sankoh,1
+A. Mbengue,I. Santini,1
+B. Sankoh,R. Rodelin,1
+R. Vercoutre,A. Mbengue,1
+I. Diomand\u00e9,Y. A\u00eft Bennasser,1
+D. Da Silva,I. Diomand\u00e9,1
+R. Rodelin,F. Guilbert,1
+R. Rodelin,B. Sankoh,1
+I. Santini,Y. A\u00eft Bennasser,1
+V. Bessat,J. Nkololo,1
+D. Da Silva,I. Santini,1
+A. Mbengue,R. Rodelin,1
+I. Diomand\u00e9,J. Nkololo,1
+I. Santini,F. Guilbert,1

@@ -1,0 +1,66 @@
+Source,Target,Weight
+R. Aguilar,N. Mukiele,5
+D. Congr\u00e9,N. Mukiele,4
+P. Lasne,R. Aguilar,4
+N. Mukiele,P. Lasne,4
+R. Aguilar,I. Mbenza,3
+N. Mukiele,R. Aguilar,3
+N. Mukiele,D. Congr\u00e9,2
+J. Ikon\u00e9,D. Congr\u00e9,2
+B. Lecomte,Hilton,2
+I. Mbenza,R. Aguilar,2
+D. Congr\u00e9,P. Lasne,2
+Hilton,R. Aguilar,2
+J. Roussillon,J. Ikon\u00e9,2
+P. Lasne,J. Ikon\u00e9,2
+N. Mukiele,F. P\u00edriz,2
+D. Congr\u00e9,J. Roussillon,2
+I. Mbenza,J. Roussillon,2
+J. Roussillon,D. Congr\u00e9,2
+R. Aguilar,B. Lecomte,2
+J. Ikon\u00e9,R. Aguilar,2
+P. Lasne,Hilton,2
+J. Ikon\u00e9,N. Mukiele,2
+N. Mukiele,I. Mbenza,2
+J. Ikon\u00e9,Hilton,2
+Hilton,N. Mukiele,2
+B. Lecomte,G. Sio,1
+F. P\u00edriz,Hilton,1
+E. Skhiri,D. Congr\u00e9,1
+C. Ninga,R. Aguilar,1
+P. Lasne,D. Congr\u00e9,1
+R. Aguilar,J. Ikon\u00e9,1
+E. Skhiri,N. Mukiele,1
+F. P\u00edriz,R. Aguilar,1
+G. Sio,N. Mukiele,1
+R. Aguilar,C. Ninga,1
+Hilton,D. Congr\u00e9,1
+E. Skhiri,B. Lecomte,1
+P. Lasne,N. Mukiele,1
+Hilton,B. Lecomte,1
+N. Mukiele,Hilton,1
+F. P\u00edriz,P. Lasne,1
+N. Mukiele,J. Ikon\u00e9,1
+Hilton,P. Lasne,1
+I. Mbenza,P. Lasne,1
+E. Skhiri,R. Aguilar,1
+Hilton,G. Sio,1
+R. Aguilar,E. Skhiri,1
+C. Ninga,P. Lasne,1
+J. Roussillon,P. Lasne,1
+J. Roussillon,C. Ninga,1
+N. Mukiele,B. Lecomte,1
+R. Aguilar,J. Roussillon,1
+G. Sio,E. Skhiri,1
+I. Mbenza,J. Ikon\u00e9,1
+D. Congr\u00e9,J. Ikon\u00e9,1
+B. Lecomte,E. Skhiri,1
+E. Skhiri,P. Lasne,1
+P. Lasne,I. Mbenza,1
+P. Lasne,J. Roussillon,1
+J. Ikon\u00e9,E. Skhiri,1
+D. Congr\u00e9,E. Skhiri,1
+R. Aguilar,G. Sio,1
+R. Aguilar,F. P\u00edriz,1
+G. Sio,D. Congr\u00e9,1
+B. Lecomte,J. Ikon\u00e9,1

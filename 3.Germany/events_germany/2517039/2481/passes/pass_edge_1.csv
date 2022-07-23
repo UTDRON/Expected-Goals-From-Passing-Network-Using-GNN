@@ -1,0 +1,41 @@
+Source,Target,Weight
+R. Khedira,J. Gouweleeuw,4
+J. Schmid,M. Richter,3
+Caiuby,D. Baier,2
+D. Baier,Caiuby,2
+J. Gouweleeuw,J. Mor\u00e1vek,2
+A. Luthe,K. Danso,2
+A. Luthe,J. Gouweleeuw,2
+J. Mor\u00e1vek,J. Schmid,2
+J. Gouweleeuw,A. Luthe,2
+K. Danso,A. Luthe,2
+K. Danso,A. Finnbogason,2
+R. Khedira,K. Danso,2
+J. Gouweleeuw,J. Schmid,1
+M. Richter,A. Finnbogason,1
+Caiuby,R. Khedira,1
+D. Baier,R. Khedira,1
+K. Danso,D. Baier,1
+J. Gouweleeuw,D. Baier,1
+K. Danso,J. Schmid,1
+A. Luthe,R. Khedira,1
+M. Hinteregger,J. Schmid,1
+J. Mor\u00e1vek,R. Khedira,1
+D. Baier,A. Luthe,1
+M. Richter,M. Hinteregger,1
+J. Schmid,K. Danso,1
+A. Finnbogason,Caiuby,1
+M. Hinteregger,D. Baier,1
+D. Baier,J. Mor\u00e1vek,1
+A. Finnbogason,J. Gouweleeuw,1
+D. Baier,M. Hinteregger,1
+Caiuby,A. Finnbogason,1
+J. Gouweleeuw,M. Hinteregger,1
+M. Hinteregger,J. Mor\u00e1vek,1
+A. Finnbogason,J. Schmid,1
+J. Schmid,D. Baier,1
+M. Richter,R. Khedira,1
+J. Mor\u00e1vek,D. Baier,1
+J. Schmid,J. Gouweleeuw,1
+J. Gouweleeuw,R. Khedira,1
+D. Baier,K. Danso,1

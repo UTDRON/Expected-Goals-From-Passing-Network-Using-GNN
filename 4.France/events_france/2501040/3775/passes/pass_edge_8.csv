@@ -1,0 +1,84 @@
+Source,Target,Weight
+Dante,Marlon,8
+J. Seri,Dante,8
+J. Seri,W. Cyprien,6
+Dante,J. Seri,6
+M. Le Marchand,J. Seri,6
+W. Cyprien,Marlon,6
+M. Le Marchand,Dante,5
+W. Cyprien,J. Seri,5
+Marlon,A. Souquet,5
+A. Souquet,W. Cyprien,5
+Dante,M. Le Marchand,5
+A. Souquet,Marlon,5
+A. Saint-Maximin,A. Souquet,4
+W. Cyprien,A. Saint-Maximin,4
+M. Le Marchand,P. Lees Melou,4
+Marlon,J. Seri,4
+A. Souquet,P. Lees Melou,4
+P. Lees Melou,M. Le Marchand,4
+Marlon,Dante,4
+M. Balotelli,W. Cyprien,4
+A. Souquet,J. Seri,4
+J. Seri,A. Souquet,4
+J. Seri,M. Le Marchand,4
+Marlon,W. Cyprien,4
+W. Cyprien,Dante,4
+M. Le Marchand,A. Pl\u00e9a,4
+W. Cyprien,M. Le Marchand,3
+P. Lees Melou,M. Le Bihan,3
+A. Pl\u00e9a,J. Seri,3
+M. Balotelli,A. Souquet,3
+W. Cyprien,A. Souquet,3
+A. Pl\u00e9a,M. Le Marchand,3
+J. Seri,Marlon,3
+P. Lees Melou,A. Pl\u00e9a,3
+M. Le Marchand,W. Cyprien,3
+A. Souquet,Dante,3
+Dante,W. Ben\u00edtez,2
+Dante,A. Pl\u00e9a,2
+Marlon,M. Balotelli,2
+Dante,W. Cyprien,2
+W. Ben\u00edtez,A. Souquet,2
+J. Seri,W. Ben\u00edtez,2
+Dante,P. Lees Melou,2
+P. Lees Melou,W. Cyprien,2
+Marlon,P. Lees Melou,2
+P. Lees Melou,A. Souquet,2
+J. Seri,M. Le Bihan,2
+M. Le Bihan,Dante,2
+A. Pl\u00e9a,M. Balotelli,2
+P. Lees Melou,J. Seri,2
+W. Cyprien,M. Balotelli,2
+J. Seri,P. Lees Melou,2
+M. Le Bihan,Marlon,1
+B. Srarfi,J. Seri,1
+P. Lees Melou,Dante,1
+A. Saint-Maximin,A. Pl\u00e9a,1
+A. Pl\u00e9a,P. Lees Melou,1
+M. Le Bihan,A. Souquet,1
+A. Souquet,M. Balotelli,1
+Marlon,M. Le Marchand,1
+W. Ben\u00edtez,P. Lees Melou,1
+A. Saint-Maximin,M. Balotelli,1
+A. Souquet,A. Saint-Maximin,1
+Marlon,A. Saint-Maximin,1
+B. Srarfi,M. Le Bihan,1
+M. Le Bihan,W. Cyprien,1
+J. Seri,B. Srarfi,1
+A. Pl\u00e9a,A. Souquet,1
+A. Saint-Maximin,P. Lees Melou,1
+B. Srarfi,M. Le Marchand,1
+A. Souquet,A. Pl\u00e9a,1
+P. Lees Melou,A. Saint-Maximin,1
+Marlon,B. Srarfi,1
+A. Souquet,M. Le Marchand,1
+A. Saint-Maximin,Dante,1
+A. Pl\u00e9a,W. Cyprien,1
+W. Ben\u00edtez,Marlon,1
+W. Ben\u00edtez,B. Srarfi,1
+Marlon,W. Ben\u00edtez,1
+Dante,A. Saint-Maximin,1
+M. Le Bihan,M. Le Marchand,1
+W. Cyprien,P. Lees Melou,1
+M. Balotelli,J. Seri,1

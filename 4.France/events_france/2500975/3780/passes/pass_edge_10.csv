@@ -1,0 +1,28 @@
+Source,Target,Weight
+S. Yago,F. Mubele,2
+Y. Cahuzac,S. Yago,2
+A. Lafont,Som\u00e1lia,2
+Y. Sanogo,M. Gradel,1
+G. Imbula,I. Sylla,1
+G. Imbula,Y. Cahuzac,1
+I. Sylla,G. Imbula,1
+Y. Cahuzac,I. Sylla,1
+G. Imbula,M. Gradel,1
+Som\u00e1lia,Y. Sanogo,1
+Som\u00e1lia,I. Sylla,1
+S. Yago,G. Imbula,1
+I. Sylla,M. Gradel,1
+F. Mubele,G. Imbula,1
+M. Gradel,I. Sylla,1
+M. Gradel,Y. Sanogo,1
+M. Gradel,A. Lafont,1
+K. Amian,Y. Cahuzac,1
+I. Diop,Y. Cahuzac,1
+Som\u00e1lia,G. Imbula,1
+Y. Sanogo,I. Sylla,1
+G. Imbula,I. Diop,1
+I. Sylla,Y. Sanogo,1
+I. Sylla,K. Amian,1
+I. Sylla,Som\u00e1lia,1
+S. Yago,A. Lafont,1
+F. Mubele,S. Yago,1

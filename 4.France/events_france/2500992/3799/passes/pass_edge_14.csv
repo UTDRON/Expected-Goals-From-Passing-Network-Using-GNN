@@ -1,0 +1,15 @@
+Source,Target,Weight
+T. Tour\u00e9,K. Toko Ekambi,2
+A. Bamba,B. Santamaria,1
+K. Toko Ekambi,T. Tour\u00e9,1
+F. Tait,V. Manceau,1
+F. Tait,K. Toko Ekambi,1
+B. Guillaume,A. Bamba,1
+A. Bamba,B. Guillaume,1
+K. Toko Ekambi,F. Tait,1
+T. Mangani,A. Bamba,1
+V. Manceau,B. Santamaria,1
+B. Santamaria,T. Mangani,1
+B. Santamaria,A. Bamba,1
+B. Guillaume,F. Tait,1
+A. Bamba,T. Tour\u00e9,1

@@ -1,0 +1,25 @@
+Source,Target,Weight
+B. Kapustka,J. Haberer,3
+J. Haberer,Y. Ravet,2
+A. Schwolow,M. Kempf,2
+A. Schwolow,R. Koch,2
+R. Koch,A. Schwolow,2
+R. Koch,B. Kapustka,1
+J. Schuster,P. Stenzel,1
+N. H\u00f6fler,J. Haberer,1
+J. Schuster,B. Kapustka,1
+P. Stenzel,R. Koch,1
+B. Kapustka,J. Schuster,1
+J. Haberer,P. Stenzel,1
+R. Koch,M. Kempf,1
+M. Kempf,A. Schwolow,1
+P. Stenzel,B. Kapustka,1
+Y. Ravet,J. Haberer,1
+P. Stenzel,A. Schwolow,1
+M. Kempf,B. Kapustka,1
+N. H\u00f6fler,P. Stenzel,1
+Y. Ravet,C. G\u00fcnter,1
+J. Haberer,J. Schuster,1
+M. Kempf,R. Koch,1
+J. Haberer,N. H\u00f6fler,1
+C. G\u00fcnter,M. Terrazzino,1

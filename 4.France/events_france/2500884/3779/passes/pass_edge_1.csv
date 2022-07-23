@@ -1,0 +1,35 @@
+Source,Target,Weight
+J. Martin,J. Grimm,3
+E. Seka,J. Martin,2
+A. Gon\u00e7alves,K. Lala,2
+J. Grimm,Nuno Da Costa,1
+S. Bahoken,J. Grimm,1
+B. Kon\u00e9,I. Sacko,1
+A. Oukidja,B. Kon\u00e9,1
+S. Bahoken,B. Kon\u00e9,1
+B. Kon\u00e9,K. Mangane,1
+J. Grimm,J. Martin,1
+K. Lala,A. Oukidja,1
+I. Sacko,J. Martin,1
+J. Grimm,K. Lala,1
+I. Sacko,A. Gon\u00e7alves,1
+K. Lala,J. Grimm,1
+E. Seka,B. Kon\u00e9,1
+J. Martin,K. Mangane,1
+B. Kon\u00e9,Nuno Da Costa,1
+Nuno Da Costa,K. Mangane,1
+B. Kon\u00e9,J. Martin,1
+K. Mangane,I. Sacko,1
+J. Martin,S. Bahoken,1
+Nuno Da Costa,S. Bahoken,1
+K. Lala,A. Gon\u00e7alves,1
+K. Mangane,B. Kon\u00e9,1
+K. Mangane,E. Seka,1
+J. Grimm,E. Seka,1
+I. Sacko,E. Seka,1
+J. Martin,B. Kon\u00e9,1
+K. Mangane,K. Lala,1
+K. Lala,K. Mangane,1
+B. Kon\u00e9,S. Bahoken,1
+J. Grimm,S. Bahoken,1
+S. Bahoken,J. Martin,1

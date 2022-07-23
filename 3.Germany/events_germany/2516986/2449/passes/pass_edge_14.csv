@@ -1,0 +1,20 @@
+Source,Target,Weight
+B. Stambouli,N. Bentaleb,2
+N. Bentaleb,B. Stambouli,1
+L. Goretzka,Naldo,1
+L. Goretzka,C. Teuchert,1
+D. Caligiuri,L. Goretzka,1
+R. F\u00e4hrmann,B. Stambouli,1
+M. Nastasi\u0107,L. Goretzka,1
+B. Stambouli,D. Caligiuri,1
+M. Nastasi\u0107,A. Sch\u00f6pf,1
+N. Bentaleb,M. Nastasi\u0107,1
+A. Sch\u00f6pf,N. Bentaleb,1
+C. Teuchert,D. Caligiuri,1
+D. Caligiuri,B. Stambouli,1
+A. Sch\u00f6pf,R. F\u00e4hrmann,1
+Naldo,A. Harit,1
+N. Bentaleb,A. Sch\u00f6pf,1
+N. Bentaleb,Naldo,1
+A. Harit,C. Teuchert,1
+Naldo,M. Nastasi\u0107,1

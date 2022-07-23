@@ -1,0 +1,15 @@
+Source,Target,Weight
+J. Briand,N. Benezet,2
+N. Benezet,J. Ikoko,2
+C. Kerbrat,\u00c9. Didot,2
+N. Benezet,C. Kerbrat,1
+N. Benezet,M. Thuram,1
+M. Diallo,J. Sorbon,1
+J. Sorbon,\u00c9. Didot,1
+J. Ikoko,J. Briand,1
+F. Tabanou,N. Benezet,1
+J. Ikoko,L. Blas,1
+L. Blas,F. Tabanou,1
+\u00c9. Didot,N. Benezet,1
+\u00c9. Didot,C. Kerbrat,1
+\u00c9. Didot,J. Briand,1

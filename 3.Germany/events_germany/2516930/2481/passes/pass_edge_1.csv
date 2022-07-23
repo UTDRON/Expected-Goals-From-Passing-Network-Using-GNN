@@ -1,0 +1,42 @@
+Source,Target,Weight
+D. Baier,M. Hinteregger,5
+D. Baier,P. Max,3
+M. Hinteregger,D. Baier,3
+Caiuby,P. Max,3
+P. Max,D. Baier,3
+M. Heller,K. Danso,2
+R. Framberger,Caiuby,2
+R. Khedira,K. Danso,2
+P. Max,Caiuby,2
+K. Danso,M. Heller,2
+K. Danso,R. Khedira,2
+R. Framberger,R. Khedira,2
+R. Khedira,Ja-Cheol Koo,2
+M. Gregoritsch,D. Baier,2
+P. Max,M. Hitz,1
+Caiuby,Ja-Cheol Koo,1
+Ja-Cheol Koo,R. Khedira,1
+M. Heller,R. Framberger,1
+M. Hinteregger,Ja-Cheol Koo,1
+P. Max,M. Heller,1
+M. Hinteregger,M. Heller,1
+M. Hinteregger,R. Framberger,1
+R. Khedira,R. Framberger,1
+M. Hinteregger,M. Gregoritsch,1
+M. Gregoritsch,P. Max,1
+Ja-Cheol Koo,D. Baier,1
+R. Framberger,M. Gregoritsch,1
+M. Hitz,Ja-Cheol Koo,1
+Ja-Cheol Koo,R. Framberger,1
+Ja-Cheol Koo,P. Max,1
+D. Baier,R. Framberger,1
+M. Heller,R. Khedira,1
+K. Danso,R. Framberger,1
+M. Gregoritsch,Caiuby,1
+Caiuby,M. Hitz,1
+R. Framberger,P. Max,1
+M. Hitz,M. Gregoritsch,1
+Ja-Cheol Koo,M. Gregoritsch,1
+P. Max,K. Danso,1
+P. Max,M. Hinteregger,1
+R. Khedira,M. Hinteregger,1

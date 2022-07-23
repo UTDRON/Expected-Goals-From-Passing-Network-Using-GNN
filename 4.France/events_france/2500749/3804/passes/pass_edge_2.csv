@@ -1,0 +1,80 @@
+Source,Target,Weight
+R. Amalfitano,P. Djilobodji,6
+Xeka,R. Amalfitano,6
+B. Jeannot,Kwon Chang-Hoon,5
+B. Jeannot,R. Amalfitano,4
+P. Djilobodji,B. Jeannot,4
+Kwon Chang-Hoon,B. Jeannot,4
+F. Chafik,J. Mari\u00e9,4
+N. Sliti,B. Jeannot,4
+J. Mari\u00e9,F. Chafik,3
+C. Yamber\u00e9,P. Djilobodji,3
+P. Djilobodji,Xeka,3
+R. Amalfitano,Xeka,3
+J. Mari\u00e9,N. Sliti,3
+B. Reynet,R. Amalfitano,3
+C. Yamber\u00e9,B. Reynet,3
+F. Chafik,C. Yamber\u00e9,3
+J. Mari\u00e9,Kwon Chang-Hoon,3
+N. Sliti,V. Rosier,3
+Kwon Chang-Hoon,F. Chafik,3
+Kwon Chang-Hoon,N. Sliti,3
+V. Rosier,C. Yamber\u00e9,3
+N. Sliti,Kwon Chang-Hoon,3
+B. Jeannot,Xeka,3
+P. Djilobodji,B. Reynet,3
+C. Yamber\u00e9,J. Mari\u00e9,2
+N. Sliti,Xeka,2
+V. Rosier,Xeka,2
+P. Djilobodji,N. Sliti,2
+Kwon Chang-Hoon,Xeka,2
+B. Reynet,P. Djilobodji,2
+B. Jeannot,N. Sliti,2
+F. Chafik,Kwon Chang-Hoon,2
+Xeka,J. Mari\u00e9,2
+Xeka,C. Yamber\u00e9,2
+R. Amalfitano,V. Rosier,2
+V. Rosier,N. Sliti,2
+B. Reynet,V. Rosier,2
+Kwon Chang-Hoon,V. Rosier,2
+N. Sliti,F. Chafik,2
+P. Djilobodji,Kwon Chang-Hoon,2
+C. Yamber\u00e9,B. Jeannot,2
+R. Amalfitano,F. Chafik,2
+R. Amalfitano,B. Reynet,2
+F. Chafik,R. Amalfitano,2
+R. Amalfitano,N. Sliti,2
+V. Rosier,J. Mari\u00e9,2
+J. Mari\u00e9,R. Amalfitano,2
+V. Rosier,P. Djilobodji,1
+B. Reynet,C. Yamber\u00e9,1
+C. Yamber\u00e9,R. Amalfitano,1
+B. Jeannot,C. Yamber\u00e9,1
+N. Sliti,R. Amalfitano,1
+Xeka,N. Sliti,1
+P. Djilobodji,V. Rosier,1
+V. Rosier,Kwon Chang-Hoon,1
+Kwon Chang-Hoon,J. Mari\u00e9,1
+Xeka,V. Rosier,1
+Xeka,B. Jeannot,1
+J. Mari\u00e9,C. Yamber\u00e9,1
+B. Jeannot,P. Djilobodji,1
+B. Jeannot,V. Rosier,1
+Xeka,Kwon Chang-Hoon,1
+Xeka,P. Djilobodji,1
+B. Jeannot,F. Chafik,1
+F. Chafik,B. Jeannot,1
+N. Sliti,P. Djilobodji,1
+R. Amalfitano,Kwon Chang-Hoon,1
+R. Amalfitano,J. Mari\u00e9,1
+J. Mari\u00e9,P. Djilobodji,1
+B. Reynet,F. Chafik,1
+N. Sliti,J. Mari\u00e9,1
+P. Djilobodji,R. Amalfitano,1
+R. Amalfitano,B. Jeannot,1
+C. Yamber\u00e9,N. Sliti,1
+Kwon Chang-Hoon,P. Djilobodji,1
+P. Djilobodji,C. Yamber\u00e9,1
+Kwon Chang-Hoon,B. Reynet,1
+V. Rosier,B. Jeannot,1
+F. Chafik,N. Sliti,1

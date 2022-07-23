@@ -1,0 +1,86 @@
+Source,Target,Weight
+G. Holtmann,A. Hack,5
+A. Hack,P. De Blasis,4
+A. Hack,A. Maxim,4
+N. de Jong,J. Gbamin,4
+P. De Blasis,A. Hack,4
+P. De Blasis,S. Bell,3
+A. Maxim,S. Bell,3
+J. Gbamin,A. Hack,3
+A. Hack,G. Holtmann,3
+A. Hack,N. de Jong,3
+N. de Jong,G. Holtmann,3
+J. Gbamin,D. Brosinski,3
+D. Brosinski,N. de Jong,3
+A. Maxim,A. Hack,3
+R. Quaison,A. Hack,3
+G. Holtmann,P. De Blasis,2
+N. de Jong,A. Hack,2
+D. Brosinski,J. Gbamin,2
+A. Hack,D. Brosinski,2
+A. Maxim,G. Holtmann,2
+P. De Blasis,J. Gbamin,2
+P. De Blasis,R. Quaison,2
+J. Gbamin,P. De Blasis,2
+S. Bell,A. Hack,2
+N. de Jong,S. Bell,2
+R. Quaison,D. Brosinski,2
+Y. Muto,G. Holtmann,2
+A. Hack,J. Gbamin,2
+S. Bell,J. Gbamin,2
+N. de Jong,R. Zentner,2
+S. Bell,N. de Jong,2
+J. Gbamin,N. de Jong,2
+A. Hack,R. Quaison,2
+G. Holtmann,S. Bell,2
+S. Bell,R. Zentner,2
+R. Zentner,A. Hack,2
+Y. Muto,D. Brosinski,2
+G. Holtmann,Y. Muto,2
+S. Bell,Y. Muto,2
+J. Gbamin,R. Quaison,2
+A. Hack,R. Zentner,2
+Y. Muto,N. de Jong,2
+A. Maxim,P. De Blasis,2
+S. Bell,D. Brosinski,1
+N. de Jong,Y. Muto,1
+R. Zentner,S. Bell,1
+A. Hack,S. Bell,1
+R. Zentner,G. Holtmann,1
+N. de Jong,R. Quaison,1
+P. De Blasis,G. Holtmann,1
+N. de Jong,P. De Blasis,1
+Y. Muto,J. Gbamin,1
+Y. Muto,A. Maxim,1
+R. Quaison,Y. Muto,1
+P. De Blasis,N. de Jong,1
+D. Brosinski,G. Holtmann,1
+J. Gbamin,A. Maxim,1
+N. de Jong,A. Maxim,1
+A. Hack,Y. Muto,1
+S. Bell,P. De Blasis,1
+R. Zentner,N. de Jong,1
+R. Quaison,S. Bell,1
+J. Gbamin,G. Holtmann,1
+A. Maxim,N. de Jong,1
+R. Quaison,J. Gbamin,1
+R. Zentner,Y. Muto,1
+D. Brosinski,P. De Blasis,1
+Y. Muto,R. Quaison,1
+D. Brosinski,A. Maxim,1
+P. De Blasis,R. Zentner,1
+A. Maxim,D. Brosinski,1
+R. Quaison,P. De Blasis,1
+R. Zentner,P. De Blasis,1
+G. Holtmann,A. Maxim,1
+R. Zentner,J. Gbamin,1
+G. Holtmann,N. de Jong,1
+J. Gbamin,Y. Muto,1
+R. Quaison,N. de Jong,1
+R. Zentner,A. Maxim,1
+P. De Blasis,A. Maxim,1
+G. Holtmann,J. Gbamin,1
+S. Bell,A. Maxim,1
+D. Brosinski,R. Zentner,1
+D. Brosinski,R. Quaison,1
+J. Gbamin,R. Zentner,1

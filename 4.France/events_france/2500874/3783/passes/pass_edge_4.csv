@@ -1,0 +1,50 @@
+Source,Target,Weight
+R. Rodelin,A. Mbengue,4
+A. Mbengue,R. Rodelin,3
+R. Vercoutre,R. Rodelin,3
+F. Guilbert,R. Vercoutre,3
+R. Rodelin,J. Delaplace,2
+F. Guilbert,Y. A\u00eft Bennasser,2
+D. Da Silva,I. Diomand\u00e9,2
+S. Peeters,A. Mbengue,2
+Y. A\u00eft Bennasser,F. Guilbert,2
+J. Delaplace,F. Guilbert,2
+J. Delaplace,R. Rodelin,2
+A. Mbengue,S. Peeters,2
+I. Santini,F. Guilbert,2
+B. Sankoh,R. Vercoutre,2
+S. Peeters,R. Rodelin,2
+S. Peeters,I. Santini,2
+F. Guilbert,B. Sankoh,2
+J. Delaplace,D. Da Silva,1
+R. Vercoutre,A. Mbengue,1
+J. Delaplace,S. Peeters,1
+R. Vercoutre,S. Peeters,1
+I. Diomand\u00e9,J. Delaplace,1
+S. Peeters,D. Da Silva,1
+I. Diomand\u00e9,Y. A\u00eft Bennasser,1
+A. Mbengue,J. Delaplace,1
+Y. A\u00eft Bennasser,R. Vercoutre,1
+I. Diomand\u00e9,R. Vercoutre,1
+Y. A\u00eft Bennasser,R. Rodelin,1
+I. Santini,S. Peeters,1
+A. Mbengue,F. Guilbert,1
+R. Vercoutre,I. Santini,1
+A. Mbengue,D. Da Silva,1
+R. Rodelin,I. Santini,1
+R. Rodelin,F. Guilbert,1
+Y. A\u00eft Bennasser,I. Santini,1
+D. Da Silva,A. Mbengue,1
+D. Da Silva,S. Peeters,1
+D. Da Silva,Y. A\u00eft Bennasser,1
+I. Diomand\u00e9,D. Da Silva,1
+B. Sankoh,D. Da Silva,1
+F. Guilbert,S. Peeters,1
+D. Da Silva,R. Rodelin,1
+I. Santini,B. Sankoh,1
+Y. A\u00eft Bennasser,I. Diomand\u00e9,1
+R. Rodelin,Y. A\u00eft Bennasser,1
+I. Santini,Y. A\u00eft Bennasser,1
+R. Rodelin,I. Diomand\u00e9,1
+R. Vercoutre,J. Delaplace,1
+R. Rodelin,D. Da Silva,1

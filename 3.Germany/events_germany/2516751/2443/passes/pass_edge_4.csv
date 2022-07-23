@@ -1,0 +1,46 @@
+Source,Target,Weight
+T. Delaney,L. Augustinsson,4
+J. Gondorf,T. Gebre Selassie,3
+J. Pavlenka,M. Kruse,2
+R. Bauer,J. Pavlenka,2
+J. Pavlenka,T. Gebre Selassie,2
+T. Gebre Selassie,L. Augustinsson,2
+T. Gebre Selassie,M. Eggestein,2
+M. Kruse,J. Gondorf,2
+T. Gebre Selassie,J. Gondorf,2
+L. Augustinsson,M. Kruse,2
+R. Bauer,L. San\u00e9,2
+J. Gondorf,T. Delaney,2
+M. Eggestein,L. Augustinsson,1
+L. Augustinsson,R. Bauer,1
+M. Kruse,J. Pavlenka,1
+L. San\u00e9,M. Veljkovic,1
+T. Gebre Selassie,M. Kruse,1
+T. Delaney,M. Eggestein,1
+M. Kruse,T. Delaney,1
+T. Delaney,R. Bauer,1
+M. Eggestein,J. Gondorf,1
+J. Pavlenka,L. San\u00e9,1
+M. Eggestein,M. Veljkovic,1
+M. Kruse,T. Gebre Selassie,1
+M. Veljkovic,T. Gebre Selassie,1
+T. Delaney,F. Bartels,1
+T. Gebre Selassie,M. Veljkovic,1
+T. Gebre Selassie,L. San\u00e9,1
+L. San\u00e9,T. Gebre Selassie,1
+L. Augustinsson,J. Pavlenka,1
+L. Augustinsson,F. Bartels,1
+J. Gondorf,J. Pavlenka,1
+L. Augustinsson,T. Delaney,1
+L. San\u00e9,M. Kruse,1
+L. San\u00e9,T. Delaney,1
+M. Eggestein,T. Delaney,1
+M. Veljkovic,R. Bauer,1
+F. Bartels,T. Gebre Selassie,1
+T. Gebre Selassie,R. Bauer,1
+F. Bartels,M. Kruse,1
+L. Augustinsson,T. Gebre Selassie,1
+M. Kruse,F. Bartels,1
+F. Bartels,J. Gondorf,1
+M. Veljkovic,J. Gondorf,1
+M. Kruse,M. Eggestein,1

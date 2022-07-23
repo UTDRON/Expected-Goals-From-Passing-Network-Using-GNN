@@ -1,0 +1,90 @@
+Source,Target,Weight
+K. Glik,Jemerson,5
+K. Glik,A. Tour\u00e9,5
+A. Tour\u00e9,Y. Tielemans,5
+Jemerson,K. Glik,5
+Fabinho,Jo\u00e3o Moutinho,5
+Y. Tielemans,A. Tour\u00e9,5
+Y. Tielemans,Jo\u00e3o Moutinho,4
+Fabinho,Jemerson,4
+Jorge,Fabinho,4
+Jemerson,R. Falcao,3
+Fabinho,Jorge,3
+Jorge,A. Raggi,3
+A. Tour\u00e9,Fabinho,3
+D. Suba\u0161i\u0107,Jemerson,3
+K. Glik,Y. Tielemans,3
+Jo\u00e3o Moutinho,Fabinho,3
+Jo\u00e3o Moutinho,Jorge,3
+R. Falcao,Y. Tielemans,3
+Jemerson,A. Raggi,3
+A. Tour\u00e9,R. Falcao,3
+Jo\u00e3o Moutinho,A. Tour\u00e9,3
+Jo\u00e3o Moutinho,Y. Tielemans,3
+A. Tour\u00e9,B. Keita,3
+R. Falcao,Jo\u00e3o Moutinho,3
+B. Keita,K. Glik,3
+Fabinho,K. Glik,3
+A. Raggi,Jorge,2
+Jo\u00e3o Moutinho,Jemerson,2
+Y. Tielemans,B. Keita,2
+Fabinho,D. Suba\u0161i\u0107,2
+A. Raggi,R. Falcao,2
+D. Suba\u0161i\u0107,Fabinho,2
+A. Tour\u00e9,K. Glik,2
+R. Falcao,K. Glik,2
+K. Glik,Jo\u00e3o Moutinho,2
+Y. Tielemans,D. Suba\u0161i\u0107,2
+Jemerson,A. Tour\u00e9,2
+Jo\u00e3o Moutinho,B. Keita,2
+B. Keita,A. Tour\u00e9,2
+K. Glik,Fabinho,2
+Jorge,B. Keita,2
+A. Raggi,D. Suba\u0161i\u0107,2
+Jo\u00e3o Moutinho,K. Glik,2
+Jorge,Jo\u00e3o Moutinho,2
+Fabinho,Rony Lopes,1
+A. Raggi,Jo\u00e3o Moutinho,1
+K. Glik,D. Suba\u0161i\u0107,1
+Rony Lopes,Jemerson,1
+Y. Tielemans,Fabinho,1
+Rony Lopes,R. Falcao,1
+R. Falcao,D. Suba\u0161i\u0107,1
+Jo\u00e3o Moutinho,R. Falcao,1
+R. Falcao,Rony Lopes,1
+A. Tour\u00e9,Jo\u00e3o Moutinho,1
+Jemerson,D. Suba\u0161i\u0107,1
+A. Raggi,Jemerson,1
+B. Keita,Y. Tielemans,1
+Jemerson,Fabinho,1
+Y. Tielemans,Rony Lopes,1
+B. Keita,Fabinho,1
+D. Suba\u0161i\u0107,R. Falcao,1
+Y. Tielemans,K. Glik,1
+Jo\u00e3o Moutinho,A. Raggi,1
+B. Keita,Jo\u00e3o Moutinho,1
+D. Suba\u0161i\u0107,Jorge,1
+K. Glik,B. Keita,1
+Jemerson,Jo\u00e3o Moutinho,1
+A. Raggi,K. Glik,1
+R. Ghezzal,K. Glik,1
+Jorge,Y. Tielemans,1
+R. Falcao,Jorge,1
+Rony Lopes,Fabinho,1
+A. Tour\u00e9,R. Ghezzal,1
+Rony Lopes,D. Suba\u0161i\u0107,1
+K. Glik,A. Raggi,1
+K. Glik,Jorge,1
+Rony Lopes,A. Tour\u00e9,1
+A. Raggi,Fabinho,1
+B. Keita,Jorge,1
+D. Suba\u0161i\u0107,K. Glik,1
+D. Suba\u0161i\u0107,R. Ghezzal,1
+Jemerson,Rony Lopes,1
+A. Tour\u00e9,Jemerson,1
+R. Falcao,A. Raggi,1
+B. Keita,A. Raggi,1
+D. Suba\u0161i\u0107,Y. Tielemans,1
+Y. Tielemans,R. Falcao,1
+R. Ghezzal,Rony Lopes,1
+Fabinho,R. Falcao,1

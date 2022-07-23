@@ -1,0 +1,97 @@
+Source,Target,Weight
+Pedro Mendes,Hilton,16
+Pedro Mendes,R. Aguilar,16
+R. Aguilar,Pedro Mendes,14
+Hilton,Pedro Mendes,11
+Hilton,D. Congr\u00e9,10
+P. Lasne,D. Congr\u00e9,8
+R. Aguilar,J. Ikon\u00e9,8
+D. Congr\u00e9,P. Lasne,7
+D. Congr\u00e9,J. Roussillon,7
+R. Aguilar,E. Skhiri,7
+Hilton,J. Roussillon,7
+E. Skhiri,R. Aguilar,7
+J. Sambia,R. Aguilar,6
+J. Ikon\u00e9,R. Aguilar,6
+P. Lasne,Hilton,6
+J. Ikon\u00e9,D. Congr\u00e9,6
+D. Congr\u00e9,Hilton,6
+R. Aguilar,J. Sambia,6
+J. Roussillon,D. Congr\u00e9,5
+J. Ikon\u00e9,E. Skhiri,5
+J. Roussillon,P. Lasne,5
+Hilton,R. Aguilar,5
+J. Sambia,Hilton,5
+P. Lasne,J. Sambia,4
+J. Ikon\u00e9,P. Lasne,4
+Hilton,J. Sambia,4
+I. Mbenza,Pedro Mendes,4
+J. Roussillon,Hilton,3
+S. Camara,E. Skhiri,3
+D. Congr\u00e9,J. Ikon\u00e9,3
+D. Congr\u00e9,S. Camara,3
+J. Roussillon,I. Mbenza,3
+R. Aguilar,Hilton,3
+R. Aguilar,D. Congr\u00e9,3
+J. Sambia,Pedro Mendes,3
+P. Lasne,J. Ikon\u00e9,3
+Pedro Mendes,J. Roussillon,3
+S. Camara,P. Lasne,3
+P. Lasne,Pedro Mendes,3
+I. Mbenza,J. Ikon\u00e9,3
+R. Aguilar,I. Mbenza,3
+R. Aguilar,P. Lasne,3
+D. Congr\u00e9,Pedro Mendes,3
+B. Lecomte,D. Congr\u00e9,3
+E. Skhiri,J. Ikon\u00e9,3
+J. Roussillon,J. Ikon\u00e9,3
+R. Aguilar,S. Camara,2
+I. Mbenza,J. Roussillon,2
+J. Sambia,S. Camara,2
+J. Ikon\u00e9,J. Roussillon,2
+Pedro Mendes,J. Sambia,2
+E. Skhiri,Hilton,2
+E. Skhiri,S. Camara,2
+D. Congr\u00e9,I. Mbenza,2
+E. Skhiri,P. Lasne,2
+J. Ikon\u00e9,Pedro Mendes,2
+S. Camara,R. Aguilar,2
+Pedro Mendes,S. Camara,2
+I. Mbenza,P. Lasne,2
+J. Ikon\u00e9,B. Lecomte,2
+B. Lecomte,P. Lasne,2
+P. Lasne,I. Mbenza,2
+Hilton,I. Mbenza,2
+J. Ikon\u00e9,J. Sambia,2
+S. Camara,J. Ikon\u00e9,2
+D. Congr\u00e9,R. Aguilar,2
+B. Lecomte,Pedro Mendes,2
+J. Roussillon,R. Aguilar,2
+Hilton,P. Lasne,2
+D. Congr\u00e9,B. Lecomte,2
+J. Roussillon,S. Camara,2
+P. Lasne,J. Roussillon,2
+P. Lasne,R. Aguilar,2
+I. Mbenza,E. Skhiri,2
+Pedro Mendes,J. Ikon\u00e9,2
+J. Sambia,P. Lasne,2
+Pedro Mendes,I. Mbenza,1
+I. Mbenza,Hilton,1
+Hilton,J. Ikon\u00e9,1
+Pedro Mendes,D. Congr\u00e9,1
+S. Camara,Pedro Mendes,1
+J. Roussillon,Pedro Mendes,1
+Pedro Mendes,B. Lecomte,1
+Pedro Mendes,E. Skhiri,1
+P. Lasne,B. Lecomte,1
+D. Congr\u00e9,J. Sambia,1
+J. Ikon\u00e9,Hilton,1
+E. Skhiri,Pedro Mendes,1
+Hilton,B. Lecomte,1
+I. Mbenza,R. Aguilar,1
+S. Camara,J. Roussillon,1
+S. Camara,Hilton,1
+J. Sambia,J. Ikon\u00e9,1
+E. Skhiri,I. Mbenza,1
+Hilton,S. Camara,1
+S. Camara,I. Mbenza,1

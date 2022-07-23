@@ -1,0 +1,16 @@
+Source,Target,Weight
+J. Pla\u0161il,Malcom,3
+Malcom,L. Lerager,2
+Malcom,Y. Sabaly,2
+Y. Sabaly,J. Kound\u00e9,1
+J. Kound\u00e9,J. Pla\u0161il,1
+Y. Sabaly,N. de Pr\u00e9ville,1
+Y. Sabaly,S. Me\u00eft\u00e9,1
+L. Lerager,J. Pla\u0161il,1
+N. de Pr\u00e9ville,L. Lerager,1
+L. Lerager,Malcom,1
+J. Kound\u00e9,N. de Pr\u00e9ville,1
+L. Lerager,Y. Sabaly,1
+N. de Pr\u00e9ville,J. Pla\u0161il,1
+J. Pla\u0161il,J. Kound\u00e9,1
+S. Me\u00eft\u00e9,F. Kamano,1

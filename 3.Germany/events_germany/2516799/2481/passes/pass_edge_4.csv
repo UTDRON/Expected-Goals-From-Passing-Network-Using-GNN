@@ -1,0 +1,50 @@
+Source,Target,Weight
+Ja-Cheol Koo,D. Baier,5
+D. Baier,D. Opare,4
+D. Baier,P. Max,4
+J. Gouweleeuw,Ja-Cheol Koo,3
+M. Hinteregger,A. Finnbogason,3
+D. Baier,J. Gouweleeuw,3
+A. Finnbogason,J. Gouweleeuw,3
+D. Opare,D. Baier,2
+Caiuby,D. Baier,2
+M. Heller,J. Gouweleeuw,2
+J. Gouweleeuw,P. Max,2
+D. Opare,J. Gouweleeuw,2
+Caiuby,M. Hinteregger,2
+A. Finnbogason,P. Max,2
+P. Max,M. Hinteregger,2
+M. Hitz,A. Finnbogason,1
+Ja-Cheol Koo,M. Heller,1
+P. Max,M. Gregoritsch,1
+M. Hitz,D. Baier,1
+P. Max,M. Heller,1
+M. Heller,A. Finnbogason,1
+M. Gregoritsch,D. Baier,1
+M. Hinteregger,M. Gregoritsch,1
+Caiuby,P. Max,1
+M. Hinteregger,M. Hitz,1
+D. Opare,M. Heller,1
+J. Gouweleeuw,D. Baier,1
+J. Gouweleeuw,Caiuby,1
+P. Max,Ja-Cheol Koo,1
+M. Hitz,Caiuby,1
+P. Max,D. Baier,1
+M. Hinteregger,Caiuby,1
+A. Finnbogason,D. Opare,1
+J. Gouweleeuw,M. Heller,1
+J. Gouweleeuw,M. Hinteregger,1
+P. Max,A. Finnbogason,1
+M. Hinteregger,J. Gouweleeuw,1
+D. Baier,Caiuby,1
+D. Opare,Ja-Cheol Koo,1
+P. Max,M. Hitz,1
+M. Gregoritsch,M. Hinteregger,1
+M. Hinteregger,M. Heller,1
+J. Gouweleeuw,M. Hitz,1
+J. Gouweleeuw,D. Opare,1
+D. Baier,M. Gregoritsch,1
+D. Baier,M. Hinteregger,1
+M. Heller,D. Baier,1
+M. Heller,Ja-Cheol Koo,1
+P. Max,Caiuby,1

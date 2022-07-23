@@ -1,0 +1,48 @@
+Source,Target,Weight
+S. Ilsanker,D. Kaiser,6
+N. Ke\u00efta,S. Ilsanker,5
+D. Demme,S. Ilsanker,5
+D. Demme,D. Kaiser,4
+D. Kaiser,W. Orban,3
+D. Kaiser,Bruma,3
+D. Kaiser,D. Demme,3
+D. Kaiser,N. Ke\u00efta,3
+S. Ilsanker,N. Ke\u00efta,3
+D. Demme,N. Ke\u00efta,3
+W. Orban,D. Demme,3
+W. Orban,D. Kaiser,2
+N. Ke\u00efta,W. Orban,2
+D. Demme,M. Halstenberg,2
+Bruma,N. Ke\u00efta,2
+N. Ke\u00efta,D. Kaiser,2
+N. Ke\u00efta,D. Demme,2
+S. Ilsanker,Bruma,2
+S. Ilsanker,D. Demme,2
+Bruma,S. Ilsanker,2
+Bruma,D. Demme,2
+D. Kaiser,P. Gul\u00e1csi,1
+J. Augustin,S. Ilsanker,1
+S. Ilsanker,W. Orban,1
+W. Orban,T. Werner,1
+T. Werner,D. Demme,1
+M. Halstenberg,P. Gul\u00e1csi,1
+P. Gul\u00e1csi,D. Kaiser,1
+D. Kaiser,S. Ilsanker,1
+J. Augustin,D. Demme,1
+N. Ke\u00efta,K. Kampl,1
+P. Gul\u00e1csi,Bruma,1
+K. Kampl,D. Demme,1
+W. Orban,M. Halstenberg,1
+D. Demme,T. Werner,1
+S. Ilsanker,M. Halstenberg,1
+M. Halstenberg,J. Augustin,1
+D. Demme,W. Orban,1
+M. Halstenberg,S. Ilsanker,1
+D. Kaiser,K. Kampl,1
+Bruma,M. Halstenberg,1
+T. Werner,S. Ilsanker,1
+K. Kampl,D. Kaiser,1
+M. Halstenberg,Bruma,1
+S. Ilsanker,P. Gul\u00e1csi,1
+D. Kaiser,J. Augustin,1
+P. Gul\u00e1csi,D. Demme,1

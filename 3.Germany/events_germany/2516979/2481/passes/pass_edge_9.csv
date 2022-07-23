@@ -1,0 +1,24 @@
+Source,Target,Weight
+Caiuby,D. Baier,2
+D. Baier,Ja-Cheol Koo,2
+D. Baier,M. Richter,2
+M. Hinteregger,R. Khedira,1
+R. Khedira,M. Hitz,1
+J. Mor\u00e1vek,D. Baier,1
+J. Schmid,Caiuby,1
+Ja-Cheol Koo,Caiuby,1
+J. Schmid,R. Khedira,1
+R. Khedira,J. Schmid,1
+M. Hinteregger,P. Max,1
+Ja-Cheol Koo,M. Hinteregger,1
+P. Max,M. Hinteregger,1
+Ja-Cheol Koo,M. Gregoritsch,1
+M. Richter,D. Baier,1
+M. Gregoritsch,D. Baier,1
+M. Hitz,P. Max,1
+R. Khedira,D. Baier,1
+M. Richter,Caiuby,1
+D. Baier,Caiuby,1
+Caiuby,Ja-Cheol Koo,1
+P. Max,J. Mor\u00e1vek,1
+D. Baier,J. Schmid,1

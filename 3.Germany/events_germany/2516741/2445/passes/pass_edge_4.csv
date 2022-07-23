@@ -1,0 +1,16 @@
+Source,Target,Weight
+Ailton,C. Gentner,1
+M. Zimmermann,O. Mangala,1
+R. Zieler,M. Zimmermann,1
+C. Gentner,Ailton,1
+S. Terodde,M. Kami\u0144ski,1
+M. Kami\u0144ski,B. Pavard,1
+O. Mangala,C. Gentner,1
+M. Kami\u0144ski,Ailton,1
+M. Zimmermann,B. Pavard,1
+B. Pavard,M. Kami\u0144ski,1
+C. Gentner,O. Mangala,1
+B. Pavard,R. Zieler,1
+O. Mangala,B. Pavard,1
+B. Pavard,M. Zimmermann,1
+Ailton,J. Brekalo,1

@@ -1,0 +1,36 @@
+Source,Target,Weight
+D. Da Silva,B. Samba,2
+R. Rodelin,F. Guilbert,2
+T. Stavitski,J. Delaplace,2
+A. Djiku,B. Samba,1
+A. Djiku,D. Da Silva,1
+B. Sankoh,R. Rodelin,1
+B. Sankoh,J. F\u00e9ret,1
+J. F\u00e9ret,F. Guilbert,1
+J. Delaplace,D. Da Silva,1
+I. Santini,B. Sankoh,1
+B. Samba,D. Da Silva,1
+R. Rodelin,J. Delaplace,1
+T. Stavitski,A. Djiku,1
+B. Samba,I. Santini,1
+F. Guilbert,D. Da Silva,1
+D. Da Silva,A. Djiku,1
+J. F\u00e9ret,A. Djiku,1
+I. Santini,R. Rodelin,1
+B. Sankoh,I. Santini,1
+R. Rodelin,B. Sankoh,1
+B. Samba,T. Stavitski,1
+D. Da Silva,B. Sankoh,1
+B. Sankoh,H. Bazile,1
+J. Delaplace,R. Rodelin,1
+J. F\u00e9ret,B. Sankoh,1
+H. Bazile,J. Delaplace,1
+T. Stavitski,V. Bessat,1
+A. Djiku,J. F\u00e9ret,1
+D. Da Silva,T. Stavitski,1
+V. Bessat,R. Rodelin,1
+F. Guilbert,J. Delaplace,1
+J. Delaplace,J. F\u00e9ret,1
+F. Guilbert,H. Bazile,1
+J. Delaplace,T. Stavitski,1
+H. Bazile,D. Da Silva,1

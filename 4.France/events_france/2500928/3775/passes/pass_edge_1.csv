@@ -1,0 +1,42 @@
+Source,Target,Weight
+Marlon,B. Srarfi,4
+A. Pl\u00e9a,R. Coly,3
+R. Coly,M. Sarr,3
+M. Sarr,A. Pl\u00e9a,2
+A. Tameze,M. Sarr,2
+M. Sarr,A. Tameze,2
+A. Tameze,Marlon,2
+B. Srarfi,Marlon,1
+M. Sarr,Marlon,1
+Marlon,M. Balotelli,1
+A. Tameze,R. Coly,1
+A. Pl\u00e9a,M. Sarr,1
+M. Sarr,Dante,1
+M. Balotelli,J. Seri,1
+Marlon,Dante,1
+A. Pl\u00e9a,J. Seri,1
+P. Lees Melou,A. Pl\u00e9a,1
+P. Lees Melou,Marlon,1
+B. Srarfi,A. Tameze,1
+M. Sarr,P. Lees Melou,1
+R. Coly,A. Pl\u00e9a,1
+B. Srarfi,Dante,1
+J. Seri,A. Pl\u00e9a,1
+R. Coly,A. Tameze,1
+A. Pl\u00e9a,A. Tameze,1
+M. Balotelli,R. Coly,1
+J. Seri,Marlon,1
+Dante,M. Sarr,1
+A. Tameze,Dante,1
+P. Lees Melou,M. Balotelli,1
+R. Coly,J. Seri,1
+J. Seri,P. Lees Melou,1
+Dante,J. Seri,1
+B. Srarfi,M. Sarr,1
+M. Sarr,J. Seri,1
+A. Tameze,A. Pl\u00e9a,1
+Dante,Marlon,1
+Dante,A. Tameze,1
+J. Seri,R. Coly,1
+J. Seri,A. Tameze,1
+Marlon,P. Lees Melou,1

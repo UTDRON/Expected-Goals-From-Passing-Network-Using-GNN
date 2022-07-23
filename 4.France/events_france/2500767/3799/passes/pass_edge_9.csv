@@ -1,0 +1,47 @@
+Source,Target,Weight
+A. Fulgini,B. Guillaume,5
+B. Guillaume,V. Manceau,3
+M. Michel,B. Guillaume,3
+A. Fulgini,Y. Andreu,2
+V. Manceau,A. Fulgini,2
+B. Guillaume,R. Thomas,2
+V. Manceau,R. Thomas,2
+R. Thomas,T. Mangani,2
+T. Mangani,V. Manceau,2
+I. Traor\u00e9,M. Michel,2
+M. Michel,A. Fulgini,2
+B. Guillaume,A. Fulgini,2
+M. Tahrat,V. Manceau,2
+P. Capelle,A. Fulgini,2
+B. Guillaume,M. Tahrat,2
+T. Mangani,K. Toko Ekambi,2
+V. Manceau,B. Guillaume,2
+A. Fulgini,V. Manceau,1
+P. Capelle,M. Michel,1
+R. Thomas,Y. Andreu,1
+V. Manceau,M. Tahrat,1
+A. Fulgini,P. Capelle,1
+M. Tahrat,A. Fulgini,1
+A. Fulgini,I. Traor\u00e9,1
+R. Thomas,M. Michel,1
+R. Thomas,K. Toko Ekambi,1
+R. Thomas,A. Fulgini,1
+Y. Andreu,A. Fulgini,1
+Y. Andreu,B. Guillaume,1
+Y. Andreu,I. Traor\u00e9,1
+V. Manceau,T. Mangani,1
+B. Guillaume,K. Toko Ekambi,1
+K. Toko Ekambi,A. Fulgini,1
+K. Toko Ekambi,T. Mangani,1
+V. Manceau,M. Michel,1
+M. Tahrat,T. Mangani,1
+A. Fulgini,T. Mangani,1
+B. Guillaume,P. Capelle,1
+M. Michel,M. Tahrat,1
+A. Fulgini,M. Tahrat,1
+T. Mangani,Y. Andreu,1
+K. Toko Ekambi,R. Thomas,1
+T. Mangani,M. Michel,1
+M. Tahrat,P. Capelle,1
+P. Capelle,V. Manceau,1
+K. Toko Ekambi,P. Capelle,1

@@ -1,0 +1,26 @@
+Source,Target,Weight
+I. Bebou,P. Schwegler,3
+I. Fossum,P. Schwegler,2
+M. Ostrzolek,I. Fossum,2
+N. F\u00fcllkrug,I. Bebou,2
+P. Schwegler,M. Ostrzolek,2
+I. Bebou,J. Korb,2
+P. Schwegler,I. Bebou,2
+S. Maier,J. Korb,1
+I. Bebou,J. Elez,1
+J. Korb,J. Elez,1
+I. Fossum,S. Maier,1
+W. Anton,I. Bebou,1
+W. Anton,N. F\u00fcllkrug,1
+J. Elez,S. San\u00e9,1
+S. San\u00e9,I. Bebou,1
+I. Fossum,W. Anton,1
+P. Schwegler,I. Fossum,1
+J. Elez,M. Ostrzolek,1
+W. Anton,I. Fossum,1
+J. Korb,W. Anton,1
+M. Ostrzolek,N. F\u00fcllkrug,1
+P. Schwegler,W. Anton,1
+N. F\u00fcllkrug,P. Schwegler,1
+W. Anton,S. Maier,1
+S. Maier,W. Anton,1

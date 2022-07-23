@@ -1,0 +1,59 @@
+Source,Target,Weight
+R. Aguilar,J. Sambia,4
+P. Lasne,Pedro Mendes,3
+R. Aguilar,Pedro Mendes,3
+Hilton,Pedro Mendes,3
+Pedro Mendes,P. Lasne,3
+D. Congr\u00e9,Hilton,3
+Pedro Mendes,R. Aguilar,3
+Hilton,D. Congr\u00e9,3
+P. Lasne,J. Sambia,2
+J. Sambia,J. Ikon\u00e9,2
+Hilton,J. Sambia,2
+R. Aguilar,Hilton,2
+J. Sambia,Pedro Mendes,2
+J. Ikon\u00e9,Hilton,2
+Pedro Mendes,Hilton,2
+Pedro Mendes,J. Sambia,2
+P. Lasne,R. Aguilar,2
+B. Lecomte,D. Congr\u00e9,2
+D. Congr\u00e9,P. Lasne,2
+J. Sambia,R. Aguilar,2
+Hilton,B. Lecomte,2
+J. Roussillon,D. Congr\u00e9,2
+Hilton,S. Camara,2
+J. Sambia,P. Lasne,2
+J. Ikon\u00e9,I. Mbenza,1
+Pedro Mendes,B. Lecomte,1
+S. Camara,Hilton,1
+P. Lasne,B. Lecomte,1
+S. Camara,J. Ikon\u00e9,1
+J. Sambia,J. Roussillon,1
+D. Congr\u00e9,I. Mbenza,1
+J. Ikon\u00e9,S. Camara,1
+J. Sambia,Hilton,1
+D. Congr\u00e9,J. Roussillon,1
+B. Lecomte,Hilton,1
+Pedro Mendes,S. Camara,1
+P. Lasne,I. Mbenza,1
+P. Lasne,D. Congr\u00e9,1
+P. Lasne,J. Ikon\u00e9,1
+C. Ninga,Hilton,1
+J. Sambia,C. Ninga,1
+Hilton,R. Aguilar,1
+S. Camara,D. Congr\u00e9,1
+J. Roussillon,Hilton,1
+S. Camara,R. Aguilar,1
+Hilton,J. Roussillon,1
+J. Ikon\u00e9,J. Roussillon,1
+I. Mbenza,R. Aguilar,1
+D. Congr\u00e9,Pedro Mendes,1
+J. Roussillon,J. Sambia,1
+D. Congr\u00e9,S. Camara,1
+B. Lecomte,P. Lasne,1
+S. Camara,P. Lasne,1
+I. Mbenza,D. Congr\u00e9,1
+I. Mbenza,J. Roussillon,1
+D. Congr\u00e9,J. Ikon\u00e9,1
+R. Aguilar,P. Lasne,1
+Hilton,P. Lasne,1

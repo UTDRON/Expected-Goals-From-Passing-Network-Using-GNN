@@ -1,0 +1,59 @@
+Source,Target,Weight
+D. Demme,S. Ilsanker,5
+D. Upamecano,D. Demme,5
+K. Kampl,L. Klostermann,4
+L. Klostermann,K. Kampl,4
+D. Demme,K. Kampl,4
+K. Kampl,D. Demme,4
+S. Ilsanker,K. Kampl,3
+L. Klostermann,N. Ke\u00efta,3
+D. Demme,D. Upamecano,3
+S. Ilsanker,P. Gul\u00e1csi,3
+D. Upamecano,Bernardo,3
+K. Laimer,D. Upamecano,3
+S. Ilsanker,L. Klostermann,2
+N. Ke\u00efta,T. Werner,2
+K. Kampl,S. Ilsanker,2
+K. Laimer,K. Kampl,2
+L. Klostermann,S. Ilsanker,2
+K. Laimer,L. Klostermann,2
+D. Demme,N. Ke\u00efta,2
+K. Kampl,K. Laimer,2
+Bernardo,D. Demme,2
+N. Ke\u00efta,D. Upamecano,2
+Bernardo,D. Upamecano,2
+S. Ilsanker,D. Demme,2
+T. Werner,D. Upamecano,2
+D. Upamecano,S. Ilsanker,2
+P. Gul\u00e1csi,S. Ilsanker,2
+D. Upamecano,P. Gul\u00e1csi,1
+K. Kampl,N. Ke\u00efta,1
+S. Ilsanker,D. Upamecano,1
+Bernardo,N. Ke\u00efta,1
+L. Klostermann,D. Demme,1
+E. Forsberg,T. Werner,1
+P. Gul\u00e1csi,D. Upamecano,1
+D. Demme,Bernardo,1
+K. Kampl,T. Werner,1
+N. Ke\u00efta,L. Klostermann,1
+E. Forsberg,N. Ke\u00efta,1
+L. Klostermann,K. Laimer,1
+S. Ilsanker,E. Forsberg,1
+E. Forsberg,D. Demme,1
+N. Ke\u00efta,D. Demme,1
+K. Kampl,E. Forsberg,1
+N. Ke\u00efta,K. Kampl,1
+K. Laimer,D. Demme,1
+D. Upamecano,N. Ke\u00efta,1
+P. Gul\u00e1csi,K. Laimer,1
+N. Ke\u00efta,S. Ilsanker,1
+D. Demme,P. Gul\u00e1csi,1
+S. Ilsanker,Bernardo,1
+D. Upamecano,K. Laimer,1
+N. Ke\u00efta,K. Laimer,1
+T. Werner,K. Laimer,1
+T. Werner,N. Ke\u00efta,1
+D. Upamecano,E. Forsberg,1
+S. Ilsanker,K. Laimer,1
+P. Gul\u00e1csi,K. Kampl,1
+D. Demme,L. Klostermann,1

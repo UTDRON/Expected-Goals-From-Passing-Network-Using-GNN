@@ -1,0 +1,38 @@
+Source,Target,Weight
+J. Roussillon,P. Lasne,3
+I. Mbenza,J. Roussillon,2
+P. Lasne,E. Skhiri,2
+D. Congr\u00e9,J. Roussillon,2
+R. Aguilar,D. Congr\u00e9,2
+N. Mukiele,R. Aguilar,2
+E. Skhiri,N. Mukiele,2
+N. Mukiele,S. Camara,2
+R. Aguilar,N. Mukiele,2
+S. Camara,R. Aguilar,1
+J. Roussillon,I. Mbenza,1
+D. Congr\u00e9,P. Lasne,1
+P. Lasne,S. Camara,1
+Hilton,J. Roussillon,1
+N. Mukiele,J. Roussillon,1
+R. Aguilar,Hilton,1
+K. Dolly,N. Mukiele,1
+J. Roussillon,Hilton,1
+B. Lecomte,P. Lasne,1
+S. Camara,D. Congr\u00e9,1
+D. Congr\u00e9,R. Aguilar,1
+I. Mbenza,P. Lasne,1
+J. Roussillon,S. Camara,1
+R. Aguilar,J. Ikon\u00e9,1
+P. Lasne,D. Congr\u00e9,1
+P. Lasne,R. Aguilar,1
+N. Mukiele,J. Ikon\u00e9,1
+J. Ikon\u00e9,R. Aguilar,1
+J. Roussillon,B. Lecomte,1
+N. Mukiele,E. Skhiri,1
+E. Skhiri,P. Lasne,1
+S. Camara,N. Mukiele,1
+Hilton,I. Mbenza,1
+S. Camara,J. Ikon\u00e9,1
+P. Lasne,J. Roussillon,1
+J. Ikon\u00e9,N. Mukiele,1
+P. Lasne,I. Mbenza,1

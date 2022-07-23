@@ -1,0 +1,31 @@
+Source,Target,Weight
+Caiuby,M. Gregoritsch,3
+R. Khedira,D. Opare,3
+J. Gouweleeuw,A. Finnbogason,2
+J. Gouweleeuw,R. Khedira,2
+M. Heller,D. Opare,2
+P. Max,J. Gouweleeuw,2
+D. Opare,D. Baier,2
+M. Gregoritsch,J. Gouweleeuw,1
+D. Opare,Caiuby,1
+M. Heller,Caiuby,1
+Caiuby,J. Gouweleeuw,1
+M. Gregoritsch,D. Baier,1
+P. Max,A. Finnbogason,1
+D. Baier,P. Max,1
+D. Opare,A. Finnbogason,1
+D. Opare,R. Khedira,1
+A. Finnbogason,D. Opare,1
+A. Finnbogason,M. Hitz,1
+R. Khedira,M. Heller,1
+D. Opare,M. Gregoritsch,1
+D. Baier,Caiuby,1
+R. Khedira,A. Finnbogason,1
+M. Hitz,P. Max,1
+A. Finnbogason,M. Heller,1
+A. Finnbogason,Caiuby,1
+A. Finnbogason,R. Khedira,1
+D. Baier,R. Khedira,1
+M. Gregoritsch,P. Max,1
+Caiuby,P. Max,1
+P. Max,M. Heller,1

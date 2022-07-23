@@ -1,0 +1,19 @@
+Source,Target,Weight
+D. Demme,K. Kampl,2
+K. Kampl,D. Demme,2
+N. Ke\u00efta,T. Werner,2
+D. Upamecano,K. Kampl,1
+S. Ilsanker,D. Demme,1
+D. Demme,K. Laimer,1
+Bruma,K. Kampl,1
+D. Demme,Y. Poulsen,1
+K. Kampl,Bruma,1
+K. Kampl,S. Ilsanker,1
+T. Werner,K. Laimer,1
+K. Laimer,Y. Poulsen,1
+S. Ilsanker,D. Upamecano,1
+Y. Poulsen,K. Laimer,1
+K. Laimer,N. Ke\u00efta,1
+K. Laimer,T. Werner,1
+Y. Poulsen,S. Ilsanker,1
+T. Werner,N. Ke\u00efta,1

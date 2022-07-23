@@ -1,0 +1,61 @@
+Source,Target,Weight
+A. Souquet,Y. Cardinale,3
+A. Pl\u00e9a,M. Balotelli,3
+A. Saint-Maximin,A. Souquet,3
+V. Koziello,Marlon,2
+P. Lees Melou,Dante,2
+Marlon,Y. Cardinale,2
+N. Mendy,A. Souquet,2
+C. Jallet,N. Mendy,2
+V. Koziello,C. Jallet,2
+A. Pl\u00e9a,V. Koziello,2
+Dante,Marlon,2
+Y. Cardinale,A. Pl\u00e9a,2
+Marlon,A. Souquet,2
+Marlon,V. Koziello,2
+A. Saint-Maximin,A. Pl\u00e9a,1
+V. Koziello,J. Seri,1
+P. Lees Melou,A. Pl\u00e9a,1
+M. Balotelli,V. Koziello,1
+V. Koziello,Dante,1
+A. Saint-Maximin,N. Mendy,1
+A. Souquet,V. Koziello,1
+M. Balotelli,C. Jallet,1
+V. Koziello,N. Mendy,1
+M. Balotelli,A. Saint-Maximin,1
+C. Jallet,V. Koziello,1
+A. Pl\u00e9a,A. Saint-Maximin,1
+Y. Cardinale,M. Balotelli,1
+A. Pl\u00e9a,C. Jallet,1
+A. Souquet,N. Mendy,1
+A. Souquet,C. Jallet,1
+V. Koziello,Y. Cardinale,1
+A. Pl\u00e9a,Dante,1
+M. Balotelli,P. Lees Melou,1
+M. Balotelli,Marlon,1
+J. Seri,V. Koziello,1
+N. Mendy,M. Balotelli,1
+A. Souquet,A. Saint-Maximin,1
+J. Seri,A. Souquet,1
+A. Souquet,A. Pl\u00e9a,1
+N. Mendy,Marlon,1
+Dante,J. Seri,1
+C. Jallet,A. Pl\u00e9a,1
+Marlon,N. Mendy,1
+Marlon,A. Pl\u00e9a,1
+N. Mendy,V. Koziello,1
+N. Mendy,A. Saint-Maximin,1
+V. Koziello,P. Lees Melou,1
+C. Jallet,M. Balotelli,1
+Dante,Y. Cardinale,1
+C. Jallet,P. Lees Melou,1
+Y. Cardinale,N. Mendy,1
+J. Seri,A. Pl\u00e9a,1
+Y. Cardinale,A. Saint-Maximin,1
+Y. Cardinale,Marlon,1
+N. Mendy,A. Pl\u00e9a,1
+A. Souquet,J. Seri,1
+V. Koziello,A. Saint-Maximin,1
+A. Saint-Maximin,Marlon,1
+A. Pl\u00e9a,A. Souquet,1
+Y. Cardinale,V. Koziello,1

@@ -1,0 +1,41 @@
+Source,Target,Weight
+L. San\u00e9,T. Delaney,2
+L. Augustinsson,F. Kainz,2
+N. Moisander,J. Pavlenka,2
+Z. Junuzovi\u0107,T. Gebre Selassie,2
+I. Hajrovi\u0107,I. Belfodil,2
+T. Gebre Selassie,Z. Junuzovi\u0107,2
+J. Pavlenka,N. Moisander,2
+N. Moisander,Z. Junuzovi\u0107,2
+J. Pavlenka,L. San\u00e9,2
+I. Belfodil,I. Hajrovi\u0107,2
+I. Hajrovi\u0107,T. Gebre Selassie,2
+Z. Junuzovi\u0107,N. Moisander,2
+Z. Junuzovi\u0107,M. Kruse,2
+T. Gebre Selassie,L. San\u00e9,1
+L. Augustinsson,T. Delaney,1
+Z. Junuzovi\u0107,I. Hajrovi\u0107,1
+L. San\u00e9,N. Moisander,1
+T. Gebre Selassie,I. Hajrovi\u0107,1
+L. San\u00e9,J. Pavlenka,1
+M. Kruse,L. Augustinsson,1
+F. Kainz,L. Augustinsson,1
+F. Kainz,Z. Junuzovi\u0107,1
+N. Moisander,L. Augustinsson,1
+L. Augustinsson,N. Moisander,1
+I. Belfodil,M. Kruse,1
+T. Delaney,L. San\u00e9,1
+M. Kruse,Z. Junuzovi\u0107,1
+L. San\u00e9,Z. Junuzovi\u0107,1
+N. Moisander,L. San\u00e9,1
+N. Moisander,T. Gebre Selassie,1
+T. Delaney,I. Hajrovi\u0107,1
+L. San\u00e9,I. Belfodil,1
+T. Delaney,L. Augustinsson,1
+T. Delaney,N. Moisander,1
+F. Kainz,M. Kruse,1
+I. Hajrovi\u0107,T. Delaney,1
+I. Belfodil,Z. Junuzovi\u0107,1
+M. Kruse,F. Kainz,1
+T. Gebre Selassie,J. Pavlenka,1
+Z. Junuzovi\u0107,I. Belfodil,1

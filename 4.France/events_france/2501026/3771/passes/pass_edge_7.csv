@@ -1,0 +1,26 @@
+Source,Target,Weight
+B. Sarr,M. Lopez,2
+A. Zambo Anguissa,D. Payet,2
+B. Sarr,A. Zambo Anguissa,2
+L. Ocampos,B. Sarr,1
+J. Amavi,A. Rami,1
+Rolando,L. Ocampos,1
+Luiz Gustavo,M. Lopez,1
+M. Lopez,Rolando,1
+D. Payet,J. Amavi,1
+D. Payet,Rolando,1
+A. Rami,B. Sarr,1
+A. Zambo Anguissa,M. Lopez,1
+M. Lopez,A. Zambo Anguissa,1
+A. Zambo Anguissa,B. Sarr,1
+Y. Pel\u00e9,L. Ocampos,1
+L. Ocampos,J. Amavi,1
+J. Amavi,Luiz Gustavo,1
+L. Ocampos,D. Payet,1
+M. Lopez,B. Sarr,1
+A. Rami,L. Ocampos,1
+D. Payet,C. N'Jie,1
+Luiz Gustavo,J. Amavi,1
+J. Amavi,Y. Pel\u00e9,1
+M. Lopez,Luiz Gustavo,1
+C. N'Jie,A. Zambo Anguissa,1

@@ -1,0 +1,35 @@
+Source,Target,Weight
+L. Phiri,Y. N'Gbakoto,2
+J. Ikoko,L. Phiri,2
+L. Phiri,\u00c9. Didot,2
+\u00c9. Didot,J. Ikoko,2
+\u00c9. Didot,L. Blas,2
+J. Ikoko,C. Kerbrat,2
+Y. N'Gbakoto,L. Blas,2
+F. Eboa Eboa,J. Ikoko,1
+L. Blas,\u00c9. Didot,1
+M. Thuram,Y. N'Gbakoto,1
+L. Blas,M. Thuram,1
+J. Ikoko,\u00c9. Didot,1
+L. Blas,Pedro Rebocho,1
+Y. N'Gbakoto,L. Phiri,1
+L. Phiri,J. Ikoko,1
+J. Ikoko,F. Eboa Eboa,1
+K. Johnsson,L. Blas,1
+C. Kerbrat,J. Ikoko,1
+C. Kerbrat,Pedro Rebocho,1
+Pedro Rebocho,L. Phiri,1
+Pedro Rebocho,C. Kerbrat,1
+C. Kerbrat,L. Phiri,1
+M. Thuram,J. Ikoko,1
+J. Ikoko,L. Blas,1
+Y. N'Gbakoto,Pedro Rebocho,1
+L. Phiri,C. Kerbrat,1
+F. Eboa Eboa,K. Johnsson,1
+L. Blas,Y. N'Gbakoto,1
+C. Kerbrat,L. Blas,1
+L. Blas,J. Ikoko,1
+Pedro Rebocho,Y. N'Gbakoto,1
+L. Blas,L. Phiri,1
+L. Blas,F. Eboa Eboa,1
+Y. N'Gbakoto,M. Thuram,1

@@ -1,0 +1,34 @@
+Source,Target,Weight
+Marlon,Dante,3
+Marlon,W. Cyprien,3
+R. Coly,W. Cyprien,2
+M. Sarr,J. Seri,2
+W. Cyprien,A. Saint-Maximin,2
+A. Saint-Maximin,Marlon,2
+J. Seri,P. Lees Melou,2
+R. Coly,M. Sarr,2
+J. Seri,Marlon,2
+W. Cyprien,Marlon,2
+P. Lees Melou,J. Seri,2
+Dante,Marlon,2
+W. Cyprien,P. Lees Melou,1
+P. Lees Melou,A. Saint-Maximin,1
+M. Balotelli,P. Lees Melou,1
+J. Seri,A. Saint-Maximin,1
+J. Seri,W. Cyprien,1
+Dante,R. Coly,1
+M. Balotelli,J. Seri,1
+A. Saint-Maximin,J. Seri,1
+R. Coly,J. Seri,1
+Dante,M. Sarr,1
+M. Sarr,M. Balotelli,1
+J. Seri,R. Coly,1
+Marlon,A. Saint-Maximin,1
+Marlon,R. Coly,1
+A. Saint-Maximin,Dante,1
+M. Sarr,W. Cyprien,1
+P. Lees Melou,Dante,1
+Dante,W. Cyprien,1
+W. Cyprien,R. Coly,1
+A. Saint-Maximin,M. Balotelli,1
+W. Cyprien,M. Sarr,1

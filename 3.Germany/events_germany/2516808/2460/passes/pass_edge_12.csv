@@ -1,0 +1,30 @@
+Source,Target,Weight
+S. Serdar,A. Diallo,2
+L. \u00d6ztunali,J. Gbamin,2
+S. Bell,D. Latza,2
+D. Latza,S. Bell,2
+J. Gbamin,D. Latza,1
+P. De Blasis,S. Serdar,1
+Y. Muto,D. Latza,1
+P. De Blasis,Y. Muto,1
+G. Donati,S. Serdar,1
+J. Gbamin,G. Donati,1
+A. Diallo,D. Latza,1
+J. Gbamin,L. \u00d6ztunali,1
+D. Brosinski,R. Adler,1
+Y. Muto,D. Brosinski,1
+A. Diallo,D. Brosinski,1
+S. Bell,G. Donati,1
+G. Donati,P. De Blasis,1
+S. Serdar,S. Bell,1
+D. Latza,Y. Muto,1
+P. De Blasis,J. Gbamin,1
+S. Bell,L. \u00d6ztunali,1
+J. Gbamin,S. Serdar,1
+D. Latza,P. De Blasis,1
+D. Brosinski,S. Bell,1
+D. Latza,D. Brosinski,1
+R. Adler,P. De Blasis,1
+G. Donati,J. Gbamin,1
+D. Brosinski,Y. Muto,1
+Y. Muto,S. Serdar,1

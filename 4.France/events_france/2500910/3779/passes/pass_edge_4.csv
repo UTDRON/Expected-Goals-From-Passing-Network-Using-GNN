@@ -1,0 +1,47 @@
+Source,Target,Weight
+P. Martinez,K. Lala,3
+J. Aholou,K. Lala,3
+D. Foulquier,J. Aholou,2
+K. Lala,B. Kamara,2
+K. Lala,P. Martinez,2
+K. Lala,J. Aholou,2
+K. Lala,D. Li\u00e9nard,2
+K. Mangane,M. Terrier,2
+P. Martinez,J. Martin,1
+J. Martin,J. Aholou,1
+K. Lala,J. Martin,1
+J. Aholou,K. Mangane,1
+B. Kamara,K. Mangane,1
+J. Aholou,P. Martinez,1
+B. Kamara,D. Foulquier,1
+K. Lala,A. Gon\u00e7alves,1
+J. Martin,K. Lala,1
+B. Kamara,K. Lala,1
+M. Terrier,J. Martin,1
+Nuno Da Costa,J. Aholou,1
+A. Gon\u00e7alves,D. Foulquier,1
+D. Foulquier,A. Gon\u00e7alves,1
+Nuno Da Costa,K. Lala,1
+D. Li\u00e9nard,K. Mangane,1
+D. Foulquier,B. Kamara,1
+K. Lala,D. Foulquier,1
+K. Mangane,D. Foulquier,1
+J. Martin,M. Terrier,1
+J. Aholou,D. Foulquier,1
+D. Li\u00e9nard,K. Lala,1
+J. Martin,D. Li\u00e9nard,1
+M. Terrier,Nuno Da Costa,1
+M. Terrier,B. Kamara,1
+A. Gon\u00e7alves,J. Martin,1
+J. Aholou,M. Terrier,1
+J. Martin,P. Martinez,1
+A. Gon\u00e7alves,Nuno Da Costa,1
+M. Terrier,K. Lala,1
+K. Mangane,A. Gon\u00e7alves,1
+D. Li\u00e9nard,J. Aholou,1
+B. Kamara,J. Aholou,1
+B. Kamara,J. Martin,1
+D. Foulquier,K. Mangane,1
+A. Gon\u00e7alves,D. Li\u00e9nard,1
+J. Aholou,A. Gon\u00e7alves,1
+D. Li\u00e9nard,Nuno Da Costa,1

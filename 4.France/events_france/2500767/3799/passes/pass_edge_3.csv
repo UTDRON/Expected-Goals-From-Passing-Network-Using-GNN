@@ -1,0 +1,50 @@
+Source,Target,Weight
+F. Tait,P. Capelle,3
+Y. Andreu,R. Thomas,3
+M. Tahrat,V. Manceau,3
+R. Thomas,V. Manceau,2
+T. Mangani,V. Manceau,2
+Y. Andreu,T. Mangani,2
+Y. Andreu,E. Crivelli,2
+P. Capelle,F. Tait,2
+F. Tait,T. Mangani,2
+M. Tahrat,Y. Andreu,2
+V. Manceau,M. Tahrat,2
+V. Manceau,E. Crivelli,2
+V. Manceau,T. Mangani,2
+R. Thomas,P. Capelle,2
+I. Traor\u00e9,F. Tait,2
+M. Michel,V. Manceau,1
+V. Manceau,M. Michel,1
+E. Crivelli,Y. Andreu,1
+V. Manceau,K. Toko Ekambi,1
+P. Capelle,Y. Andreu,1
+M. Michel,R. Thomas,1
+E. Crivelli,F. Tait,1
+K. Toko Ekambi,M. Michel,1
+K. Toko Ekambi,Y. Andreu,1
+T. Mangani,I. Traor\u00e9,1
+F. Tait,V. Manceau,1
+R. Thomas,Y. Andreu,1
+T. Mangani,K. Toko Ekambi,1
+M. Michel,Y. Andreu,1
+E. Crivelli,M. Tahrat,1
+M. Michel,M. Tahrat,1
+F. Tait,M. Tahrat,1
+T. Mangani,P. Capelle,1
+T. Mangani,M. Tahrat,1
+E. Crivelli,V. Manceau,1
+K. Toko Ekambi,F. Tait,1
+M. Tahrat,E. Crivelli,1
+P. Capelle,K. Toko Ekambi,1
+M. Tahrat,F. Tait,1
+Y. Andreu,M. Tahrat,1
+Y. Andreu,M. Michel,1
+V. Manceau,F. Tait,1
+E. Crivelli,I. Traor\u00e9,1
+V. Manceau,Y. Andreu,1
+T. Mangani,R. Thomas,1
+I. Traor\u00e9,M. Michel,1
+M. Tahrat,I. Traor\u00e9,1
+P. Capelle,T. Mangani,1
+F. Tait,Y. Andreu,1

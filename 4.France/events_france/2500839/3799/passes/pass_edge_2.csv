@@ -1,0 +1,61 @@
+Source,Target,Weight
+R. Thomas,M. Tahrat,4
+Y. Andreu,R. Thomas,4
+M. Tahrat,V. Manceau,3
+V. Manceau,I. Traor\u00e9,3
+Y. Andreu,S. Ciss,3
+M. Tahrat,T. Mangani,3
+T. Mangani,Y. Andreu,3
+T. Mangani,R. Thomas,3
+T. Mangani,M. Tahrat,2
+S. Ciss,Y. Andreu,2
+E. Crivelli,B. Ketkeophomphone,2
+Y. Andreu,T. Mangani,2
+R. Thomas,Y. Andreu,2
+I. Traor\u00e9,M. Tahrat,2
+M. Tahrat,Y. Andreu,2
+I. Traor\u00e9,Y. Andreu,2
+B. Ketkeophomphone,T. Mangani,2
+T. Mangani,I. Traor\u00e9,2
+R. Thomas,T. Mangani,2
+Y. Andreu,A. Fulgini,2
+Y. Andreu,E. Crivelli,2
+B. Ketkeophomphone,I. Traor\u00e9,2
+B. Ketkeophomphone,K. Toko Ekambi,1
+R. Thomas,B. Ketkeophomphone,1
+Y. Andreu,B. Ketkeophomphone,1
+I. Traor\u00e9,R. Thomas,1
+I. Traor\u00e9,A. Letellier,1
+B. Ketkeophomphone,M. Tahrat,1
+K. Toko Ekambi,Y. Andreu,1
+E. Crivelli,V. Manceau,1
+I. Traor\u00e9,T. Mangani,1
+K. Toko Ekambi,R. Thomas,1
+K. Toko Ekambi,I. Traor\u00e9,1
+R. Thomas,A. Letellier,1
+B. Ketkeophomphone,V. Manceau,1
+A. Fulgini,B. Ketkeophomphone,1
+I. Traor\u00e9,V. Manceau,1
+B. Ketkeophomphone,Y. Andreu,1
+A. Letellier,B. Ketkeophomphone,1
+V. Manceau,R. Thomas,1
+T. Mangani,K. Toko Ekambi,1
+Y. Andreu,K. Toko Ekambi,1
+M. Tahrat,B. Ketkeophomphone,1
+A. Fulgini,Y. Andreu,1
+S. Ciss,T. Mangani,1
+A. Letellier,Y. Andreu,1
+A. Letellier,K. Toko Ekambi,1
+Y. Andreu,A. Letellier,1
+I. Traor\u00e9,B. Ketkeophomphone,1
+V. Manceau,M. Tahrat,1
+E. Crivelli,Y. Andreu,1
+V. Manceau,E. Crivelli,1
+T. Mangani,S. Ciss,1
+R. Thomas,E. Crivelli,1
+M. Tahrat,R. Thomas,1
+S. Ciss,R. Thomas,1
+R. Thomas,S. Ciss,1
+S. Ciss,K. Toko Ekambi,1
+R. Thomas,I. Traor\u00e9,1
+K. Toko Ekambi,T. Mangani,1

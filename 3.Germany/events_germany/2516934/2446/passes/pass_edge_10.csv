@@ -1,0 +1,17 @@
+Source,Target,Weight
+S. Bender,D. Kohr,2
+K. Bellarabi,S. Bender,2
+S. Bender,P. Retsos,2
+P. Retsos,S. Bender,2
+K. Bellarabi,D. Kohr,1
+D. Kohr,K. Havertz,1
+K. Bellarabi,J. Baumgartlinger,1
+K. Havertz,K. Bellarabi,1
+L. Alario,K. Bellarabi,1
+D. Kohr,K. Bellarabi,1
+K. Bellarabi,L. Alario,1
+D. Kohr,L. Alario,1
+P. Retsos,D. Kohr,1
+L. Alario,K. Volland,1
+K. Volland,P. Retsos,1
+J. Baumgartlinger,K. Bellarabi,1

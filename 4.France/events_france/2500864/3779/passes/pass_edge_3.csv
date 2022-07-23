@@ -1,0 +1,95 @@
+Source,Target,Weight
+E. Seka,D. Li\u00e9nard,12
+D. Li\u00e9nard,E. Seka,10
+K. Mangane,K. Lala,6
+D. Li\u00e9nard,B. Kon\u00e9,5
+E. Seka,B. Kon\u00e9,4
+A. Gon\u00e7alves,J. Aholou,4
+D. Li\u00e9nard,K. Mangane,4
+B. Kon\u00e9,E. Seka,4
+K. Mangane,Nuno Da Costa,4
+E. Seka,J. Aholou,4
+J. Aholou,E. Seka,4
+K. Lala,K. Mangane,4
+Nuno Da Costa,D. Li\u00e9nard,4
+J. Martin,D. Li\u00e9nard,4
+K. Lala,A. Gon\u00e7alves,4
+D. Li\u00e9nard,Nuno Da Costa,3
+K. Mangane,J. Martin,3
+A. Gon\u00e7alves,K. Lala,3
+A. Gon\u00e7alves,K. Mangane,3
+B. Kon\u00e9,K. Mangane,3
+J. Martin,K. Mangane,3
+Nuno Da Costa,K. Lala,3
+L. Bonnefoi,E. Seka,3
+J. Blayac,B. Kon\u00e9,3
+D. Li\u00e9nard,J. Blayac,3
+B. Kon\u00e9,L. Bonnefoi,3
+L. Bonnefoi,K. Mangane,3
+E. Seka,J. Martin,3
+J. Blayac,A. Gon\u00e7alves,3
+K. Mangane,J. Blayac,3
+K. Lala,L. Bonnefoi,3
+A. Gon\u00e7alves,D. Li\u00e9nard,3
+J. Aholou,K. Lala,3
+J. Martin,Nuno Da Costa,2
+K. Lala,Nuno Da Costa,2
+J. Martin,E. Seka,2
+K. Lala,D. Li\u00e9nard,2
+K. Lala,J. Martin,2
+K. Mangane,E. Seka,2
+D. Li\u00e9nard,K. Lala,2
+K. Mangane,L. Bonnefoi,2
+J. Blayac,K. Mangane,2
+L. Bonnefoi,J. Blayac,2
+D. Li\u00e9nard,A. Gon\u00e7alves,2
+K. Lala,B. Kon\u00e9,2
+L. Bonnefoi,K. Lala,2
+J. Aholou,J. Blayac,2
+Nuno Da Costa,K. Mangane,2
+Nuno Da Costa,A. Gon\u00e7alves,2
+K. Mangane,A. Gon\u00e7alves,2
+J. Martin,K. Lala,2
+E. Seka,L. Bonnefoi,2
+J. Aholou,K. Mangane,2
+A. Gon\u00e7alves,Nuno Da Costa,2
+K. Lala,J. Blayac,2
+K. Mangane,D. Li\u00e9nard,2
+B. Kon\u00e9,J. Aholou,2
+D. Li\u00e9nard,J. Aholou,2
+Nuno Da Costa,J. Martin,2
+Nuno Da Costa,L. Bonnefoi,2
+D. Li\u00e9nard,J. Martin,1
+J. Blayac,J. Aholou,1
+B. Kon\u00e9,Nuno Da Costa,1
+J. Blayac,D. Li\u00e9nard,1
+Nuno Da Costa,E. Seka,1
+A. Gon\u00e7alves,J. Martin,1
+B. Kon\u00e9,J. Blayac,1
+J. Aholou,Nuno Da Costa,1
+B. Kon\u00e9,D. Li\u00e9nard,1
+J. Blayac,E. Seka,1
+J. Martin,J. Aholou,1
+L. Bonnefoi,B. Kon\u00e9,1
+K. Mangane,J. Aholou,1
+E. Seka,K. Lala,1
+E. Seka,A. Gon\u00e7alves,1
+B. Kon\u00e9,J. Martin,1
+J. Aholou,J. Martin,1
+L. Bonnefoi,D. Li\u00e9nard,1
+J. Martin,A. Gon\u00e7alves,1
+L. Bonnefoi,A. Gon\u00e7alves,1
+K. Lala,J. Aholou,1
+K. Lala,E. Seka,1
+J. Blayac,L. Bonnefoi,1
+J. Aholou,D. Li\u00e9nard,1
+J. Aholou,A. Gon\u00e7alves,1
+J. Blayac,J. Martin,1
+E. Seka,Nuno Da Costa,1
+K. Mangane,B. Kon\u00e9,1
+B. Kon\u00e9,K. Lala,1
+A. Gon\u00e7alves,E. Seka,1
+B. Kon\u00e9,A. Gon\u00e7alves,1
+A. Gon\u00e7alves,B. Kon\u00e9,1
+E. Seka,K. Mangane,1
+J. Aholou,B. Kon\u00e9,1

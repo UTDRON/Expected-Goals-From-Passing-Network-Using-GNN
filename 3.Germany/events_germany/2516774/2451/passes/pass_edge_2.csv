@@ -1,0 +1,67 @@
+Source,Target,Weight
+J. Guilavogui,R. Knoche,5
+William,K. Casteels,4
+J. Guilavogui,William,4
+F. Uduokhai,Y. Gerhardt,3
+Y. Gerhardt,M. Arnold,3
+D. Origi,J. Guilavogui,3
+William,J. Guilavogui,3
+F. Uduokhai,D. Origi,3
+J. Guilavogui,F. Uduokhai,3
+R. Knoche,M. Arnold,3
+R. Knoche,William,3
+R. Knoche,J. Guilavogui,2
+R. Knoche,K. Casteels,2
+Camacho,F. Uduokhai,2
+M. Arnold,D. Origi,2
+M. Arnold,R. Knoche,2
+R. Knoche,F. Uduokhai,2
+L. Dimata,J. Guilavogui,2
+D. Origi,William,2
+D. Origi,R. Knoche,2
+M. Arnold,L. Dimata,2
+R. Knoche,D. Origi,2
+Y. Gerhardt,J. Guilavogui,2
+M. Arnold,J. Guilavogui,2
+J. Guilavogui,Y. Gerhardt,2
+William,Camacho,2
+F. Uduokhai,R. Knoche,1
+D. Origi,M. Arnold,1
+D. Origi,Camacho,1
+J. Guilavogui,L. Dimata,1
+K. Casteels,F. Uduokhai,1
+Camacho,D. Origi,1
+K. Casteels,L. Dimata,1
+K. Casteels,J. Guilavogui,1
+William,F. Uduokhai,1
+Camacho,William,1
+D. Didavi,J. Guilavogui,1
+F. Uduokhai,Camacho,1
+Camacho,J. Guilavogui,1
+K. Casteels,R. Knoche,1
+F. Uduokhai,D. Didavi,1
+Y. Gerhardt,Camacho,1
+D. Didavi,William,1
+Camacho,D. Didavi,1
+L. Dimata,R. Knoche,1
+William,D. Origi,1
+M. Arnold,William,1
+K. Casteels,M. Arnold,1
+F. Uduokhai,K. Casteels,1
+Camacho,R. Knoche,1
+F. Uduokhai,J. Guilavogui,1
+M. Arnold,F. Uduokhai,1
+L. Dimata,F. Uduokhai,1
+K. Casteels,D. Origi,1
+J. Guilavogui,M. Arnold,1
+D. Origi,Y. Gerhardt,1
+J. Guilavogui,Camacho,1
+D. Didavi,R. Knoche,1
+Y. Gerhardt,R. Knoche,1
+R. Knoche,Camacho,1
+R. Knoche,D. Didavi,1
+Camacho,M. Arnold,1
+William,R. Knoche,1
+R. Knoche,Y. Gerhardt,1
+K. Casteels,Camacho,1
+J. Guilavogui,D. Origi,1

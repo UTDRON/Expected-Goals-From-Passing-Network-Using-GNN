@@ -1,0 +1,47 @@
+Source,Target,Weight
+A. Hunt,B. Wood,5
+G. Sakai,A. Hunt,4
+A. Hunt,A. Ekdal,3
+Walace,F. Kosti\u0107,3
+R. van Drongelen,Walace,3
+F. Kosti\u0107,A. Hunt,3
+A. Ekdal,Walace,2
+Walace,A. Ekdal,2
+F. Kosti\u0107,Walace,2
+B. Wood,M. Mavraj,2
+Walace,A. Hunt,2
+A. Ekdal,Douglas Santos,2
+A. Hunt,F. Kosti\u0107,2
+M. Mavraj,C. Mathenia,1
+M. Mavraj,A. Hunt,1
+M. Mavraj,G. Sakai,1
+G. Sakai,B. Wood,1
+A. Ekdal,R. van Drongelen,1
+A. Hunt,Walace,1
+G. Jung,M. Mavraj,1
+B. Wood,G. Sakai,1
+Douglas Santos,G. Sakai,1
+B. Wood,A. Hunt,1
+F. Kosti\u0107,G. Sakai,1
+A. Ekdal,G. Jung,1
+F. Kosti\u0107,A. Ekdal,1
+Walace,M. Mavraj,1
+M. Mavraj,R. van Drongelen,1
+A. Ekdal,B. Wood,1
+C. Mathenia,G. Jung,1
+C. Mathenia,B. Wood,1
+Walace,Douglas Santos,1
+G. Jung,F. Kosti\u0107,1
+B. Wood,A. Ekdal,1
+Douglas Santos,C. Mathenia,1
+Douglas Santos,Walace,1
+Walace,G. Jung,1
+A. Ekdal,G. Sakai,1
+G. Jung,Douglas Santos,1
+G. Sakai,R. van Drongelen,1
+B. Wood,Walace,1
+B. Wood,R. van Drongelen,1
+G. Jung,G. Sakai,1
+B. Wood,F. Kosti\u0107,1
+R. van Drongelen,G. Jung,1
+Douglas Santos,A. Ekdal,1

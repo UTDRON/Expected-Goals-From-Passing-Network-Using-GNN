@@ -1,0 +1,22 @@
+Source,Target,Weight
+D. Heintz,J. Hector,2
+D. Heintz,V. Koziello,2
+V. Koziello,D. Heintz,2
+L. Bittencourt,Y. \u014csako,2
+J. Hector,Y. \u014csako,2
+Y. \u014csako,L. Bittencourt,2
+L. Bittencourt,J. Hector,1
+V. Koziello,L. Bittencourt,1
+Jorge Mer\u00e9,D. Heintz,1
+Y. \u014csako,V. Koziello,1
+D. Maroh,D. Heintz,1
+J. Hector,L. Bittencourt,1
+Y. \u014csako,J. Hector,1
+L. Bittencourt,M. Risse,1
+M. Risse,M. H\u00f6ger,1
+J. Hector,D. Heintz,1
+L. Bittencourt,V. Koziello,1
+M. H\u00f6ger,M. Risse,1
+D. Heintz,Y. \u014csako,1
+V. Koziello,Jorge Mer\u00e9,1
+M. Risse,D. Maroh,1

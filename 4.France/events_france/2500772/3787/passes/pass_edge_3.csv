@@ -1,0 +1,22 @@
+Source,Target,Weight
+S. Sess\u00e8gnon,E. Skhiri,2
+D. Congr\u00e9,J. Roussillon,2
+S. Sess\u00e8gnon,C. Ninga,1
+J. Roussillon,S. Sess\u00e8gnon,1
+N. Mukiele,S. Camara,1
+R. Aguilar,S. Camara,1
+Hilton,D. Congr\u00e9,1
+E. Skhiri,D. Congr\u00e9,1
+S. Camara,J. Roussillon,1
+C. Ninga,R. Aguilar,1
+J. Roussillon,D. Congr\u00e9,1
+E. Skhiri,S. Sess\u00e8gnon,1
+R. Aguilar,S. Sess\u00e8gnon,1
+S. Sess\u00e8gnon,R. Aguilar,1
+N. Mukiele,R. Aguilar,1
+D. Congr\u00e9,Hilton,1
+D. Congr\u00e9,N. Mukiele,1
+R. Aguilar,N. Mukiele,1
+S. Camara,S. Sess\u00e8gnon,1
+Hilton,N. Mukiele,1
+N. Mukiele,Hilton,1

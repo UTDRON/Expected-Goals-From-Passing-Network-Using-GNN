@@ -1,0 +1,79 @@
+Source,Target,Weight
+M. Veljkovic,S. Langkamp,8
+M. Friedl,F. Kainz,5
+S. Langkamp,M. Friedl,5
+P. Bargfrede,M. Veljkovic,4
+I. Belfodil,M. Kruse,4
+T. Gebre Selassie,P. Bargfrede,4
+S. Langkamp,P. Bargfrede,4
+I. Belfodil,M. Eggestein,4
+J. Pavlenka,T. Gebre Selassie,4
+M. Eggestein,M. Veljkovic,4
+M. Veljkovic,P. Bargfrede,4
+J. Pavlenka,S. Langkamp,3
+P. Bargfrede,J. Pavlenka,3
+T. Gebre Selassie,M. Veljkovic,3
+S. Langkamp,M. Veljkovic,3
+F. Kainz,M. Friedl,3
+J. Pavlenka,M. Veljkovic,3
+M. Eggestein,M. Kruse,3
+M. Veljkovic,T. Gebre Selassie,3
+T. Gebre Selassie,I. Belfodil,3
+F. Kainz,S. Langkamp,3
+S. Langkamp,J. Pavlenka,3
+T. Gebre Selassie,M. Kruse,3
+M. Eggestein,I. Belfodil,3
+T. Delaney,M. Friedl,3
+M. Friedl,S. Langkamp,2
+M. Kruse,T. Gebre Selassie,2
+M. Eggestein,T. Delaney,2
+S. Langkamp,F. Kainz,2
+M. Friedl,T. Delaney,2
+I. Belfodil,T. Delaney,2
+J. Pavlenka,M. Eggestein,2
+P. Bargfrede,S. Langkamp,2
+M. Kruse,M. Eggestein,2
+M. Eggestein,P. Bargfrede,2
+I. Belfodil,T. Gebre Selassie,2
+P. Bargfrede,M. Eggestein,2
+F. Kainz,M. Eggestein,2
+T. Gebre Selassie,M. Eggestein,2
+S. Langkamp,M. Eggestein,2
+P. Bargfrede,I. Belfodil,2
+M. Kruse,T. Delaney,2
+M. Kruse,M. Veljkovic,2
+M. Eggestein,J. Pavlenka,2
+T. Delaney,T. Gebre Selassie,2
+M. Friedl,I. Belfodil,2
+M. Veljkovic,M. Friedl,2
+M. Veljkovic,J. Pavlenka,2
+T. Delaney,M. Eggestein,2
+P. Bargfrede,M. Kruse,1
+P. Bargfrede,F. Kainz,1
+M. Veljkovic,I. Belfodil,1
+S. Langkamp,T. Delaney,1
+M. Kruse,P. Bargfrede,1
+M. Eggestein,F. Kainz,1
+M. Eggestein,T. Gebre Selassie,1
+M. Veljkovic,M. Eggestein,1
+F. Kainz,M. Kruse,1
+M. Kruse,M. Friedl,1
+M. Kruse,I. Belfodil,1
+P. Bargfrede,T. Gebre Selassie,1
+T. Gebre Selassie,S. Langkamp,1
+M. Friedl,P. Bargfrede,1
+F. Kainz,T. Delaney,1
+T. Delaney,M. Kruse,1
+M. Kruse,J. Pavlenka,1
+F. Kainz,M. Veljkovic,1
+M. Eggestein,S. Langkamp,1
+T. Delaney,F. Kainz,1
+T. Delaney,S. Langkamp,1
+P. Bargfrede,M. Friedl,1
+M. Veljkovic,F. Kainz,1
+M. Friedl,T. Gebre Selassie,1
+M. Kruse,F. Kainz,1
+M. Friedl,J. Pavlenka,1
+F. Kainz,P. Bargfrede,1
+S. Langkamp,M. Kruse,1
+M. Friedl,M. Veljkovic,1

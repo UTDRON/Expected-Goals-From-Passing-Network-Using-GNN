@@ -1,0 +1,39 @@
+Source,Target,Weight
+Pedro Mendes,R. Aguilar,4
+R. Aguilar,Pedro Mendes,3
+J. Ikon\u00e9,R. Aguilar,3
+P. Lasne,J. Sambia,3
+R. Aguilar,G. Sio,2
+R. Aguilar,J. Ikon\u00e9,2
+J. Sambia,P. Lasne,2
+G. Sio,R. Aguilar,2
+J. Roussillon,J. Ikon\u00e9,1
+J. Roussillon,B. Lecomte,1
+G. Sio,P. Lasne,1
+R. Aguilar,J. Sambia,1
+R. Aguilar,D. Congr\u00e9,1
+J. Sambia,J. Ikon\u00e9,1
+J. Roussillon,D. Congr\u00e9,1
+B. Lecomte,J. Sambia,1
+B. Lecomte,P. Lasne,1
+D. Congr\u00e9,Hilton,1
+P. Lasne,J. Roussillon,1
+J. Sambia,E. Skhiri,1
+D. Congr\u00e9,G. Sio,1
+D. Congr\u00e9,Pedro Mendes,1
+Hilton,J. Roussillon,1
+Pedro Mendes,J. Ikon\u00e9,1
+J. Sambia,B. Lecomte,1
+J. Roussillon,P. Lasne,1
+D. Congr\u00e9,J. Roussillon,1
+Hilton,G. Sio,1
+P. Lasne,B. Lecomte,1
+J. Ikon\u00e9,B. Lecomte,1
+E. Skhiri,Hilton,1
+B. Lecomte,R. Aguilar,1
+P. Lasne,D. Congr\u00e9,1
+B. Lecomte,Pedro Mendes,1
+R. Aguilar,J. Roussillon,1
+J. Ikon\u00e9,P. Lasne,1
+G. Sio,J. Roussillon,1
+J. Roussillon,E. Skhiri,1

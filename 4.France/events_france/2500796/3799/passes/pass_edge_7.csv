@@ -1,0 +1,28 @@
+Source,Target,Weight
+S. Ciss,R. Thomas,4
+R. Thomas,B. Santamaria,2
+V. Manceau,A. Fulgini,2
+B. Santamaria,V. Manceau,1
+F. Tait,R. Thomas,1
+A. Fulgini,V. Manceau,1
+F. Tait,A. Fulgini,1
+B. Santamaria,F. Tait,1
+E. Crivelli,T. Mangani,1
+R. Thomas,V. Manceau,1
+M. Michel,S. Ciss,1
+R. Thomas,M. Michel,1
+E. Crivelli,R. Thomas,1
+E. Crivelli,S. Ciss,1
+R. Thomas,F. Tait,1
+F. Tait,S. Ciss,1
+V. Manceau,E. Crivelli,1
+K. Toko Ekambi,E. Crivelli,1
+K. Toko Ekambi,F. Tait,1
+A. Fulgini,F. Tait,1
+V. Manceau,B. Santamaria,1
+R. Thomas,S. Ciss,1
+F. Tait,V. Manceau,1
+M. Michel,K. Toko Ekambi,1
+T. Mangani,K. Toko Ekambi,1
+B. Santamaria,M. Michel,1
+B. Santamaria,E. Crivelli,1

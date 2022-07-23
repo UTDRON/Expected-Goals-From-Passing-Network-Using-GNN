@@ -1,0 +1,33 @@
+Source,Target,Weight
+C. Charrier,O. El Hajjam,4
+O. El Hajjam,C. Charrier,3
+T. Monconduit,B. Dibassy,3
+O. El Hajjam,T. Monconduit,3
+M. Konat\u00e9,C. Charrier,2
+T. Monconduit,G. Gope-Fenepej,2
+T. Monconduit,S. Koita,2
+C. Charrier,G. Kakuta,2
+O. El Hajjam,G. Kakuta,2
+C. Charrier,K. Ad\u00e9non,2
+K. Ad\u00e9non,T. Monconduit,2
+T. Monconduit,C. Charrier,2
+C. Charrier,P. Gouano,2
+G. Kakuta,O. El Hajjam,2
+G. Kakuta,C. Charrier,2
+C. Charrier,T. Monconduit,1
+B. Dibassy,K. Ad\u00e9non,1
+P. Gouano,K. Ad\u00e9non,1
+B. Dibassy,G. Gope-Fenepej,1
+K. Ad\u00e9non,O. El Hajjam,1
+B. Dibassy,T. Monconduit,1
+G. Gope-Fenepej,B. Dibassy,1
+M. Konat\u00e9,O. El Hajjam,1
+O. El Hajjam,S. Koita,1
+G. Gope-Fenepej,T. Monconduit,1
+S. Koita,M. Konat\u00e9,1
+B. Dibassy,C. Charrier,1
+K. Ad\u00e9non,M. Konat\u00e9,1
+P. Gouano,C. Charrier,1
+S. Koita,O. El Hajjam,1
+G. Gope-Fenepej,R. Gurtner,1
+R. Gurtner,M. Konat\u00e9,1

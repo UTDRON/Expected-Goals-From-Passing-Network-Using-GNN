@@ -1,0 +1,26 @@
+Source,Target,Weight
+D. Brosinski,P. De Blasis,5
+P. De Blasis,G. Donati,4
+G. Donati,R. Quaison,3
+P. De Blasis,V. Fischer,3
+G. Donati,P. De Blasis,3
+K. Kodro,D. Brosinski,2
+A. Diallo,S. Bell,2
+A. Diallo,D. Brosinski,2
+P. De Blasis,K. Kodro,2
+D. Brosinski,A. Diallo,2
+S. Bell,G. Donati,2
+D. Latza,D. Brosinski,1
+S. Bell,A. Diallo,1
+D. Latza,P. De Blasis,1
+P. De Blasis,S. Bell,1
+G. Donati,S. Bell,1
+R. Quaison,G. Donati,1
+R. Quaison,D. Latza,1
+V. Fischer,R. Adler,1
+P. De Blasis,D. Brosinski,1
+S. Bell,P. De Blasis,1
+R. Quaison,P. De Blasis,1
+R. Adler,A. Diallo,1
+V. Fischer,P. De Blasis,1
+P. De Blasis,D. Latza,1

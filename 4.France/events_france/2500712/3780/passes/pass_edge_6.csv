@@ -1,0 +1,32 @@
+Source,Target,Weight
+C. Jean,F. Moubandje,4
+C. Michelin,K. Amian,3
+K. Amian,C. Michelin,3
+F. Moubandje,C. Jean,2
+C. Michelin,I. Diop,2
+F. Moubandje,C. Jullien,2
+C. Jullien,I. Diop,1
+C. Michelin,A. Lafont,1
+C. Jullien,C. Jean,1
+C. Jullien,A. Blin,1
+A. Lafont,A. Delort,1
+I. Diop,K. Amian,1
+A. Blin,I. Diop,1
+A. Blin,C. Michelin,1
+A. Delort,C. Michelin,1
+C. Michelin,A. Blin,1
+Som\u00e1lia,K. Amian,1
+I. Diop,Som\u00e1lia,1
+Som\u00e1lia,I. Diop,1
+F. Moubandje,C. Michelin,1
+A. Blin,A. Delort,1
+F. Moubandje,Som\u00e1lia,1
+K. Amian,Som\u00e1lia,1
+I. Diop,Z. Machach,1
+A. Delort,A. Blin,1
+A. Blin,K. Amian,1
+Z. Machach,C. Michelin,1
+K. Amian,F. Moubandje,1
+I. Diop,F. Moubandje,1
+Som\u00e1lia,A. Blin,1
+I. Diop,C. Jullien,1

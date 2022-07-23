@@ -1,0 +1,35 @@
+Source,Target,Weight
+T. Kehrer,B. Oczipka,2
+B. Oczipka,M. Meyer,2
+B. Stambouli,D. Caligiuri,2
+Naldo,G. Burgstaller,2
+N. Bentaleb,F. Di Santo,2
+Naldo,B. Stambouli,1
+B. Oczipka,N. Bentaleb,1
+B. Stambouli,F. Di Santo,1
+F. Di Santo,A. Harit,1
+M. Meyer,Naldo,1
+B. Oczipka,Naldo,1
+B. Stambouli,B. Oczipka,1
+M. Meyer,D. Caligiuri,1
+F. Di Santo,Naldo,1
+M. Meyer,B. Stambouli,1
+F. Di Santo,B. Stambouli,1
+A. Harit,B. Stambouli,1
+B. Stambouli,R. F\u00e4hrmann,1
+N. Bentaleb,T. Kehrer,1
+G. Burgstaller,B. Oczipka,1
+D. Caligiuri,B. Stambouli,1
+A. Harit,M. Meyer,1
+D. Caligiuri,F. Di Santo,1
+G. Burgstaller,B. Stambouli,1
+B. Oczipka,F. Di Santo,1
+M. Meyer,A. Harit,1
+B. Stambouli,N. Bentaleb,1
+D. Caligiuri,A. Harit,1
+R. F\u00e4hrmann,T. Kehrer,1
+F. Di Santo,R. F\u00e4hrmann,1
+A. Harit,N. Bentaleb,1
+Naldo,M. Meyer,1
+R. F\u00e4hrmann,M. Meyer,1
+M. Meyer,B. Oczipka,1

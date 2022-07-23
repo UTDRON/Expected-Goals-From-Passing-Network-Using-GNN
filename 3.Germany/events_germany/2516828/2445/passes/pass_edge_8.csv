@@ -1,0 +1,20 @@
+Source,Target,Weight
+D. Burnic,S. Ascac\u00edbar,2
+E. Ins\u00faa,B. Pavard,2
+S. Ascac\u00edbar,C. Akolo,2
+B. Pavard,E. Ins\u00faa,2
+S. Ascac\u00edbar,D. Burnic,1
+B. Pavard,S. Ascac\u00edbar,1
+B. \u00d6zcan,S. Ascac\u00edbar,1
+S. Ascac\u00edbar,B. Pavard,1
+A. Beck,D. Burnic,1
+C. Akolo,A. Beck,1
+C. Akolo,S. Ascac\u00edbar,1
+D. Burnic,T. Baumgartl,1
+T. Baumgartl,D. Burnic,1
+T. Baumgartl,B. \u00d6zcan,1
+B. Pavard,D. Burnic,1
+B. \u00d6zcan,T. Baumgartl,1
+S. Ascac\u00edbar,T. Baumgartl,1
+D. Burnic,B. Pavard,1
+T. Baumgartl,B. Pavard,1

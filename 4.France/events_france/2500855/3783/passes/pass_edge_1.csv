@@ -1,0 +1,82 @@
+Source,Target,Weight
+R. Rodelin,J. F\u00e9ret,5
+J. F\u00e9ret,F. Guilbert,5
+J. Repas,R. Rodelin,4
+R. Rodelin,J. Repas,4
+F. Guilbert,J. F\u00e9ret,3
+A. Djiku,D. Da Silva,3
+F. Guilbert,J. Repas,3
+F. Guilbert,A. Djiku,3
+R. Genevois,J. Nkololo,3
+A. Djiku,R. Genevois,3
+J. Nkololo,I. Santini,3
+Y. A\u00eft Bennasser,J. F\u00e9ret,3
+R. Rodelin,I. Santini,3
+Y. A\u00eft Bennasser,R. Genevois,3
+J. Repas,Y. A\u00eft Bennasser,3
+R. Vercoutre,R. Rodelin,3
+R. Genevois,A. Djiku,2
+I. Santini,R. Rodelin,2
+Y. A\u00eft Bennasser,J. Nkololo,2
+I. Santini,R. Genevois,2
+J. F\u00e9ret,Y. A\u00eft Bennasser,2
+D. Da Silva,R. Genevois,2
+A. Djiku,Y. A\u00eft Bennasser,2
+R. Rodelin,A. Djiku,2
+R. Genevois,R. Rodelin,2
+R. Rodelin,F. Guilbert,2
+D. Da Silva,R. Vercoutre,2
+R. Genevois,Y. A\u00eft Bennasser,2
+J. F\u00e9ret,I. Santini,2
+A. Djiku,R. Rodelin,2
+Y. A\u00eft Bennasser,A. Djiku,2
+J. F\u00e9ret,R. Rodelin,2
+Y. A\u00eft Bennasser,F. Guilbert,2
+F. Guilbert,R. Vercoutre,2
+R. Genevois,I. Santini,1
+R. Vercoutre,J. Nkololo,1
+D. Da Silva,J. F\u00e9ret,1
+R. Vercoutre,D. Da Silva,1
+R. Vercoutre,J. F\u00e9ret,1
+Y. A\u00eft Bennasser,J. Repas,1
+J. Nkololo,D. Da Silva,1
+R. Genevois,F. Guilbert,1
+J. Repas,R. Vercoutre,1
+D. Da Silva,Y. A\u00eft Bennasser,1
+J. F\u00e9ret,J. Repas,1
+J. Nkololo,J. F\u00e9ret,1
+F. Guilbert,Y. A\u00eft Bennasser,1
+J. Repas,F. Guilbert,1
+J. Nkololo,F. Guilbert,1
+J. F\u00e9ret,R. Genevois,1
+J. Nkololo,Y. A\u00eft Bennasser,1
+F. Guilbert,R. Genevois,1
+R. Vercoutre,I. Santini,1
+R. Genevois,D. Da Silva,1
+I. Santini,F. Guilbert,1
+J. F\u00e9ret,J. Nkololo,1
+J. Repas,I. Santini,1
+J. Nkololo,R. Rodelin,1
+D. Da Silva,J. Repas,1
+R. Vercoutre,Y. A\u00eft Bennasser,1
+J. Repas,D. Da Silva,1
+J. F\u00e9ret,R. Vercoutre,1
+A. Djiku,R. Vercoutre,1
+I. Santini,Y. A\u00eft Bennasser,1
+I. Santini,A. Djiku,1
+I. Santini,J. F\u00e9ret,1
+D. Da Silva,R. Rodelin,1
+F. Guilbert,D. Da Silva,1
+D. Da Silva,A. Djiku,1
+R. Genevois,J. F\u00e9ret,1
+J. Nkololo,R. Genevois,1
+R. Rodelin,D. Da Silva,1
+Y. A\u00eft Bennasser,D. Da Silva,1
+J. F\u00e9ret,A. Djiku,1
+D. Da Silva,F. Guilbert,1
+A. Djiku,F. Guilbert,1
+R. Rodelin,J. Nkololo,1
+F. Guilbert,J. Nkololo,1
+J. Nkololo,J. Repas,1
+I. Santini,R. Vercoutre,1
+I. Santini,J. Nkololo,1

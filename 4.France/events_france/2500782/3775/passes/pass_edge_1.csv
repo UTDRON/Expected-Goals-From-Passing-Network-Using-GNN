@@ -1,0 +1,90 @@
+Source,Target,Weight
+N. Mendy,C. Jallet,12
+C. Jallet,A. Saint-Maximin,11
+P. Lees Melou,N. Mendy,10
+C. Jallet,Dante,10
+Dante,C. Jallet,10
+C. Jallet,P. Lees Melou,10
+A. Souquet,B. Srarfi,10
+A. Saint-Maximin,C. Jallet,8
+A. Souquet,P. Lees Melou,7
+N. Mendy,P. Lees Melou,7
+V. Koziello,N. Mendy,6
+Marlon,A. Souquet,6
+A. Souquet,V. Koziello,5
+A. Saint-Maximin,A. Souquet,5
+V. Koziello,A. Souquet,5
+P. Lees Melou,A. Souquet,5
+B. Srarfi,A. Souquet,4
+P. Lees Melou,Marlon,4
+C. Jallet,A. Souquet,4
+Marlon,Dante,4
+A. Souquet,Marlon,4
+Dante,N. Mendy,4
+V. Koziello,Marlon,4
+N. Mendy,V. Koziello,4
+Dante,V. Koziello,4
+P. Lees Melou,C. Jallet,4
+A. Saint-Maximin,P. Lees Melou,4
+P. Lees Melou,A. Saint-Maximin,4
+A. Souquet,A. Pl\u00e9a,4
+Dante,Marlon,3
+V. Koziello,Dante,3
+A. Saint-Maximin,Marlon,3
+Dante,A. Saint-Maximin,3
+Marlon,C. Jallet,3
+C. Jallet,A. Pl\u00e9a,3
+C. Jallet,N. Mendy,3
+A. Pl\u00e9a,C. Jallet,3
+Y. Cardinale,N. Mendy,3
+N. Mendy,Dante,3
+A. Souquet,N. Mendy,3
+N. Mendy,A. Souquet,3
+C. Jallet,V. Koziello,2
+Dante,A. Souquet,2
+Y. Cardinale,Dante,2
+B. Srarfi,V. Koziello,2
+A. Souquet,C. Jallet,2
+N. Mendy,A. Saint-Maximin,2
+B. Srarfi,C. Jallet,2
+A. Pl\u00e9a,N. Mendy,2
+Marlon,V. Koziello,2
+N. Mendy,Y. Cardinale,2
+Marlon,Y. Cardinale,2
+A. Pl\u00e9a,A. Souquet,2
+Y. Cardinale,A. Saint-Maximin,2
+A. Saint-Maximin,N. Mendy,2
+P. Lees Melou,Dante,2
+Dante,Y. Cardinale,2
+A. Pl\u00e9a,A. Saint-Maximin,2
+B. Srarfi,P. Lees Melou,2
+Marlon,N. Mendy,1
+Y. Cardinale,A. Souquet,1
+N. Mendy,B. Srarfi,1
+V. Koziello,B. Srarfi,1
+P. Lees Melou,B. Srarfi,1
+A. Souquet,Dante,1
+B. Srarfi,Dante,1
+B. Srarfi,A. Saint-Maximin,1
+A. Souquet,A. Saint-Maximin,1
+A. Saint-Maximin,Dante,1
+V. Koziello,A. Saint-Maximin,1
+C. Jallet,Y. Cardinale,1
+Marlon,A. Pl\u00e9a,1
+B. Srarfi,N. Mendy,1
+P. Lees Melou,V. Koziello,1
+A. Pl\u00e9a,Dante,1
+A. Saint-Maximin,B. Srarfi,1
+Y. Cardinale,Marlon,1
+A. Pl\u00e9a,B. Srarfi,1
+B. Srarfi,A. Pl\u00e9a,1
+A. Saint-Maximin,A. Pl\u00e9a,1
+P. Lees Melou,Y. Cardinale,1
+A. Pl\u00e9a,P. Lees Melou,1
+Y. Cardinale,C. Jallet,1
+B. Srarfi,Marlon,1
+B. Srarfi,Y. Cardinale,1
+Marlon,P. Lees Melou,1
+C. Jallet,B. Srarfi,1
+N. Mendy,A. Pl\u00e9a,1
+A. Saint-Maximin,Y. Cardinale,1

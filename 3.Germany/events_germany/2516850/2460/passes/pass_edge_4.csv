@@ -1,0 +1,27 @@
+Source,Target,Weight
+A. Hack,S. Bell,3
+S. Bell,D. Latza,3
+S. Bell,G. Holtmann,2
+A. Maxim,K. Kodro,2
+L. \u00d6ztunali,D. Brosinski,1
+L. \u00d6ztunali,S. Bell,1
+D. Latza,J. Gbamin,1
+D. Brosinski,D. Latza,1
+K. Kodro,G. Holtmann,1
+D. Latza,A. Maxim,1
+D. Brosinski,L. \u00d6ztunali,1
+R. Zentner,A. Hack,1
+K. Kodro,R. Zentner,1
+D. Latza,A. Hack,1
+D. Latza,L. \u00d6ztunali,1
+G. Holtmann,D. Latza,1
+D. Brosinski,A. Maxim,1
+S. Bell,D. Brosinski,1
+G. Holtmann,A. Maxim,1
+A. Maxim,A. Hack,1
+A. Maxim,S. Bell,1
+J. Gbamin,D. Brosinski,1
+A. Hack,A. Maxim,1
+G. Holtmann,A. Hack,1
+A. Hack,D. Brosinski,1
+D. Brosinski,A. Hack,1

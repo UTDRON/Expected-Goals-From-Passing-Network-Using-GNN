@@ -1,0 +1,43 @@
+Source,Target,Weight
+A. Sch\u00f6pf,L. Goretzka,4
+B. Embolo,A. Sch\u00f6pf,3
+T. Kehrer,R. F\u00e4hrmann,3
+M. Meyer,L. Goretzka,2
+R. F\u00e4hrmann,B. Embolo,2
+D. Caligiuri,F. Di Santo,2
+Naldo,M. Meyer,2
+L. Goretzka,B. Stambouli,2
+T. Kehrer,M. Meyer,2
+B. Stambouli,D. Caligiuri,2
+L. Goretzka,A. Sch\u00f6pf,2
+F. Di Santo,D. Caligiuri,2
+A. Sch\u00f6pf,B. Embolo,2
+D. Caligiuri,B. Embolo,1
+Naldo,R. F\u00e4hrmann,1
+D. Caligiuri,G. Burgstaller,1
+R. F\u00e4hrmann,D. Caligiuri,1
+G. Burgstaller,L. Goretzka,1
+M. Meyer,D. Caligiuri,1
+M. Meyer,T. Kehrer,1
+M. Meyer,Naldo,1
+T. Kehrer,F. Di Santo,1
+Naldo,B. Stambouli,1
+B. Embolo,B. Stambouli,1
+D. Caligiuri,L. Goretzka,1
+F. Di Santo,A. Sch\u00f6pf,1
+Naldo,T. Kehrer,1
+B. Embolo,Naldo,1
+B. Stambouli,Naldo,1
+R. F\u00e4hrmann,G. Burgstaller,1
+L. Goretzka,T. Kehrer,1
+F. Di Santo,T. Kehrer,1
+A. Sch\u00f6pf,M. Meyer,1
+L. Goretzka,F. Di Santo,1
+R. F\u00e4hrmann,T. Kehrer,1
+M. Meyer,R. F\u00e4hrmann,1
+B. Embolo,L. Goretzka,1
+L. Goretzka,Naldo,1
+D. Caligiuri,T. Kehrer,1
+B. Stambouli,B. Embolo,1
+L. Goretzka,M. Meyer,1
+G. Burgstaller,Naldo,1

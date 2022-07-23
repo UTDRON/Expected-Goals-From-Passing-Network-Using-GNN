@@ -1,0 +1,57 @@
+Source,Target,Weight
+R. van Drongelen,Douglas Santos,3
+M. Mavraj,A. Hunt,3
+Douglas Santos,F. Kosti\u0107,3
+Douglas Santos,A. Hunt,3
+F. Kosti\u0107,Douglas Santos,3
+M. Mavraj,K. Papadopoulos,2
+C. Mathenia,A. Hahn,2
+G. Sakai,R. van Drongelen,2
+M. Mavraj,G. Sakai,2
+A. Hunt,M. Mavraj,2
+A. Hunt,F. Kosti\u0107,2
+C. Mathenia,R. van Drongelen,2
+G. Sakai,M. Mavraj,2
+G. Jung,A. Hunt,2
+A. Hunt,K. Papadopoulos,2
+K. Papadopoulos,C. Mathenia,2
+G. Jung,F. Kosti\u0107,1
+Douglas Santos,G. Sakai,1
+G. Sakai,G. Jung,1
+F. Kosti\u0107,A. Hunt,1
+Douglas Santos,A. Ekdal,1
+G. Jung,R. van Drongelen,1
+A. Hahn,G. Sakai,1
+A. Hunt,C. Mathenia,1
+F. Kosti\u0107,A. Hahn,1
+K. Papadopoulos,Douglas Santos,1
+C. Mathenia,M. Mavraj,1
+A. Hunt,Douglas Santos,1
+A. Hunt,A. Hahn,1
+A. Hunt,G. Jung,1
+R. van Drongelen,G. Jung,1
+F. Kosti\u0107,R. van Drongelen,1
+Douglas Santos,G. Jung,1
+K. Papadopoulos,G. Sakai,1
+G. Sakai,A. Ekdal,1
+K. Papadopoulos,F. Kosti\u0107,1
+A. Ekdal,G. Sakai,1
+G. Sakai,A. Hunt,1
+A. Hunt,G. Sakai,1
+F. Kosti\u0107,A. Ekdal,1
+A. Ekdal,Douglas Santos,1
+K. Papadopoulos,G. Jung,1
+A. Hahn,F. Kosti\u0107,1
+R. van Drongelen,F. Kosti\u0107,1
+R. van Drongelen,A. Hahn,1
+A. Hahn,Douglas Santos,1
+A. Hahn,A. Hunt,1
+A. Hahn,C. Mathenia,1
+F. Kosti\u0107,M. Mavraj,1
+F. Kosti\u0107,K. Papadopoulos,1
+G. Jung,M. Mavraj,1
+C. Mathenia,G. Sakai,1
+R. van Drongelen,C. Mathenia,1
+Douglas Santos,R. van Drongelen,1
+G. Sakai,C. Mathenia,1
+A. Ekdal,F. Kosti\u0107,1

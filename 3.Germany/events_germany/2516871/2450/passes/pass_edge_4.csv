@@ -1,0 +1,78 @@
+Source,Target,Weight
+T. Ito,D. Diekmeier,8
+J. Arp,Douglas Santos,6
+M. Mavraj,Douglas Santos,6
+A. Hunt,Douglas Santos,5
+Douglas Santos,Walace,5
+K. Papadopoulos,D. Diekmeier,4
+Douglas Santos,M. Mavraj,4
+Douglas Santos,G. Jung,4
+T. Ito,A. Hunt,4
+M. Mavraj,C. Mathenia,4
+D. Diekmeier,J. Arp,4
+A. Hunt,T. Ito,4
+Walace,A. Hunt,3
+Douglas Santos,T. Ito,3
+K. Papadopoulos,C. Mathenia,3
+Douglas Santos,K. Papadopoulos,3
+C. Mathenia,M. Mavraj,3
+Walace,Douglas Santos,3
+M. Mavraj,Walace,3
+D. Diekmeier,K. Papadopoulos,3
+Walace,M. Mavraj,2
+D. Diekmeier,M. Mavraj,2
+Douglas Santos,J. Arp,2
+G. Jung,J. Arp,2
+Walace,T. Ito,2
+F. Kosti\u0107,Walace,2
+G. Jung,Douglas Santos,2
+Walace,G. Jung,2
+D. Diekmeier,Walace,2
+T. Ito,G. Jung,2
+K. Papadopoulos,G. Jung,2
+D. Diekmeier,T. Ito,2
+Walace,F. Kosti\u0107,2
+Walace,K. Papadopoulos,2
+A. Hunt,Walace,2
+G. Jung,M. Mavraj,2
+F. Kosti\u0107,C. Mathenia,2
+K. Papadopoulos,M. Mavraj,2
+C. Mathenia,K. Papadopoulos,2
+Douglas Santos,A. Hunt,2
+K. Papadopoulos,T. Ito,1
+F. Kosti\u0107,K. Papadopoulos,1
+G. Jung,Walace,1
+T. Ito,K. Papadopoulos,1
+C. Mathenia,Walace,1
+D. Diekmeier,F. Kosti\u0107,1
+C. Mathenia,Douglas Santos,1
+M. Mavraj,J. Arp,1
+G. Jung,K. Papadopoulos,1
+K. Papadopoulos,Walace,1
+Walace,J. Arp,1
+J. Arp,A. Hunt,1
+A. Hunt,F. Kosti\u0107,1
+J. Arp,C. Mathenia,1
+Walace,D. Diekmeier,1
+F. Kosti\u0107,M. Mavraj,1
+C. Mathenia,A. Hunt,1
+C. Mathenia,F. Kosti\u0107,1
+Douglas Santos,C. Mathenia,1
+J. Arp,T. Ito,1
+F. Kosti\u0107,J. Arp,1
+Douglas Santos,F. Kosti\u0107,1
+A. Hunt,D. Diekmeier,1
+J. Arp,F. Kosti\u0107,1
+K. Papadopoulos,A. Hunt,1
+T. Ito,Douglas Santos,1
+M. Mavraj,F. Kosti\u0107,1
+C. Mathenia,J. Arp,1
+G. Jung,A. Hunt,1
+D. Diekmeier,A. Hunt,1
+M. Mavraj,T. Ito,1
+J. Arp,Walace,1
+G. Jung,D. Diekmeier,1
+G. Jung,T. Ito,1
+A. Hunt,G. Jung,1
+F. Kosti\u0107,Douglas Santos,1
+C. Mathenia,T. Ito,1

@@ -1,0 +1,26 @@
+Source,Target,Weight
+Dante,A. Souquet,3
+P. Lees Melou,W. Sneijder,2
+A. Tameze,W. Sneijder,1
+W. Sneijder,M. Le Marchand,1
+A. Souquet,M. Le Marchand,1
+P. Lees Melou,C. Jallet,1
+C. Jallet,Dante,1
+A. Tameze,P. Lees Melou,1
+W. Sneijder,P. Lees Melou,1
+C. Jallet,A. Pl\u00e9a,1
+M. Le Marchand,J. Seri,1
+W. Sneijder,A. Tameze,1
+A. Souquet,A. Tameze,1
+J. Seri,P. Lees Melou,1
+J. Seri,W. Sneijder,1
+C. Jallet,J. Seri,1
+M. Le Marchand,A. Tameze,1
+A. Tameze,Dante,1
+J. Seri,Dante,1
+P. Lees Melou,Dante,1
+M. Le Marchand,P. Lees Melou,1
+Dante,J. Seri,1
+W. Sneijder,J. Seri,1
+A. Souquet,C. Jallet,1
+J. Seri,C. Jallet,1

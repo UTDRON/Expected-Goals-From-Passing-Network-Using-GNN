@@ -1,0 +1,83 @@
+Source,Target,Weight
+P. Lasne,R. Aguilar,12
+N. Mukiele,Pedro Mendes,12
+R. Aguilar,P. Lasne,12
+Pedro Mendes,Hilton,11
+P. Lasne,Hilton,8
+Hilton,P. Lasne,8
+S. Sess\u00e8gnon,P. Lasne,8
+Hilton,R. Aguilar,8
+R. Aguilar,J. Roussillon,7
+J. Sambia,N. Mukiele,7
+N. Mukiele,P. Lasne,7
+P. Lasne,N. Mukiele,7
+P. Lasne,E. Skhiri,7
+Pedro Mendes,N. Mukiele,6
+E. Skhiri,Hilton,6
+J. Roussillon,R. Aguilar,6
+N. Mukiele,J. Sambia,5
+N. Mukiele,E. Skhiri,5
+P. Lasne,S. Sess\u00e8gnon,5
+E. Skhiri,J. Sambia,5
+E. Skhiri,N. Mukiele,4
+R. Aguilar,S. Sess\u00e8gnon,4
+S. Sess\u00e8gnon,E. Skhiri,4
+Hilton,Pedro Mendes,4
+J. Sambia,E. Skhiri,4
+S. Sess\u00e8gnon,N. Mukiele,4
+R. Aguilar,C. Ninga,4
+Hilton,J. Roussillon,4
+J. Roussillon,S. Sess\u00e8gnon,4
+P. Lasne,Pedro Mendes,4
+B. Lecomte,N. Mukiele,4
+Hilton,N. Mukiele,4
+J. Roussillon,C. Ninga,3
+S. Sess\u00e8gnon,R. Aguilar,3
+E. Skhiri,P. Lasne,3
+Hilton,B. Lecomte,3
+R. Aguilar,E. Skhiri,3
+N. Mukiele,S. Sess\u00e8gnon,3
+E. Skhiri,S. Sess\u00e8gnon,3
+J. Roussillon,B. Lecomte,2
+B. Lecomte,J. Sambia,2
+E. Skhiri,B. Lecomte,2
+N. Mukiele,C. Ninga,2
+S. Sess\u00e8gnon,J. Sambia,2
+J. Sambia,S. Sess\u00e8gnon,2
+E. Skhiri,R. Aguilar,2
+Pedro Mendes,C. Ninga,2
+Pedro Mendes,E. Skhiri,2
+B. Lecomte,Hilton,2
+B. Lecomte,Pedro Mendes,2
+C. Ninga,S. Sess\u00e8gnon,2
+E. Skhiri,Pedro Mendes,2
+N. Mukiele,B. Lecomte,2
+Pedro Mendes,B. Lecomte,2
+C. Ninga,J. Roussillon,2
+R. Aguilar,B. Lecomte,2
+Pedro Mendes,P. Lasne,2
+C. Ninga,E. Skhiri,2
+R. Aguilar,Hilton,2
+C. Ninga,B. Lecomte,1
+E. Skhiri,C. Ninga,1
+B. Lecomte,R. Aguilar,1
+J. Sambia,Pedro Mendes,1
+S. Sess\u00e8gnon,Hilton,1
+B. Lecomte,E. Skhiri,1
+N. Mukiele,J. Roussillon,1
+B. Lecomte,P. Lasne,1
+C. Ninga,P. Lasne,1
+C. Ninga,R. Aguilar,1
+C. Ninga,Pedro Mendes,1
+J. Roussillon,Hilton,1
+J. Sambia,J. Roussillon,1
+J. Sambia,P. Lasne,1
+Hilton,J. Sambia,1
+B. Lecomte,J. Roussillon,1
+C. Ninga,N. Mukiele,1
+J. Roussillon,P. Lasne,1
+S. Sess\u00e8gnon,Pedro Mendes,1
+Pedro Mendes,S. Sess\u00e8gnon,1
+S. Sess\u00e8gnon,J. Roussillon,1
+P. Lasne,J. Sambia,1
+C. Ninga,Hilton,1

@@ -1,0 +1,71 @@
+Source,Target,Weight
+F. Mendy,M. Depay,5
+Marcelo,H. Aouar,4
+Rafael,Marcelo,4
+J. Morel,F. Mendy,3
+M. Gorgelin,Marcelo,3
+H. Aouar,L. Tousart,3
+L. Tousart,Rafael,3
+F. Mendy,H. Aouar,3
+H. Aouar,M. Depay,3
+M. Depay,N. Fekir,3
+M. Depay,F. Mendy,2
+M. Depay,L. Tousart,2
+H. Aouar,F. Mendy,2
+Marcelo,B. Traor\u00e9,2
+F. Mendy,M. Gorgelin,2
+Mar\u00e7al,L. Tousart,2
+M. Gorgelin,J. Morel,2
+B. Traor\u00e9,N. Fekir,2
+Mariano D\u00edaz,N. Fekir,2
+J. Morel,H. Aouar,2
+M. Depay,B. Traor\u00e9,2
+M. Depay,J. Morel,2
+N. Fekir,L. Tousart,2
+Marcelo,M. Gorgelin,2
+B. Traor\u00e9,Marcelo,2
+Rafael,B. Traor\u00e9,2
+N. Fekir,Rafael,2
+M. Depay,Marcelo,1
+J. Morel,Marcelo,1
+L. Tousart,Marcelo,1
+J. Morel,M. Depay,1
+Rafael,M. Depay,1
+B. Traor\u00e9,Mariano D\u00edaz,1
+B. Traor\u00e9,F. Mendy,1
+Marcelo,Rafael,1
+N. Fekir,Mar\u00e7al,1
+N. Fekir,M. Depay,1
+L. Tousart,B. Traor\u00e9,1
+Mariano D\u00edaz,J. Morel,1
+Marcelo,N. Fekir,1
+L. Tousart,Mariano D\u00edaz,1
+Mariano D\u00edaz,F. Mendy,1
+L. Tousart,M. Gorgelin,1
+N. Fekir,J. Morel,1
+H. Aouar,M. Gorgelin,1
+H. Aouar,Marcelo,1
+Rafael,H. Aouar,1
+N. Fekir,Mariano D\u00edaz,1
+Mariano D\u00edaz,Rafael,1
+Marcelo,L. Tousart,1
+F. Mendy,N. Fekir,1
+H. Aouar,Mar\u00e7al,1
+Mariano D\u00edaz,B. Traor\u00e9,1
+L. Tousart,J. Morel,1
+Mar\u00e7al,M. Gorgelin,1
+N. Fekir,H. Aouar,1
+J. Morel,Mariano D\u00edaz,1
+Marcelo,Mariano D\u00edaz,1
+F. Mendy,Mar\u00e7al,1
+N. Fekir,F. Mendy,1
+Marcelo,J. Morel,1
+L. Tousart,F. Mendy,1
+F. Mendy,Mariano D\u00edaz,1
+B. Traor\u00e9,M. Depay,1
+J. Morel,N. Fekir,1
+L. Tousart,H. Aouar,1
+M. Gorgelin,F. Mendy,1
+B. Traor\u00e9,Rafael,1
+H. Aouar,J. Morel,1
+M. Gorgelin,Mariano D\u00edaz,1

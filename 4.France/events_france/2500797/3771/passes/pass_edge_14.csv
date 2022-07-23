@@ -1,0 +1,45 @@
+Source,Target,Weight
+M. Sanson,F. Thauvin,3
+F. Thauvin,J. Amavi,3
+F. Thauvin,M. Sanson,3
+A. Abdennour,A. Rami,3
+J. Amavi,Luiz Gustavo,2
+A. Rami,A. Abdennour,2
+M. Sanson,L. Ocampos,2
+J. Amavi,F. Thauvin,2
+A. Rami,H. Sakai,2
+J. Amavi,L. Ocampos,2
+J. Amavi,A. Abdennour,2
+J. Amavi,M. Sanson,2
+Luiz Gustavo,J. Amavi,2
+H. Sakai,A. Zambo Anguissa,2
+A. Zambo Anguissa,J. Amavi,2
+S. Mandanda,A. Rami,1
+Luiz Gustavo,L. Ocampos,1
+L. Ocampos,A. Zambo Anguissa,1
+A. Zambo Anguissa,A. Rami,1
+M. Sanson,A. Abdennour,1
+A. Abdennour,L. Ocampos,1
+M. Sanson,J. Amavi,1
+L. Ocampos,F. Thauvin,1
+H. Sakai,A. Rami,1
+L. Ocampos,M. Sanson,1
+S. Mandanda,J. Amavi,1
+L. Ocampos,H. Sakai,1
+A. Abdennour,F. Thauvin,1
+F. Thauvin,A. Zambo Anguissa,1
+M. Sanson,H. Sakai,1
+A. Zambo Anguissa,H. Sakai,1
+L. Ocampos,Luiz Gustavo,1
+A. Zambo Anguissa,S. Mandanda,1
+A. Rami,Luiz Gustavo,1
+A. Rami,A. Zambo Anguissa,1
+Luiz Gustavo,M. Sanson,1
+A. Abdennour,J. Amavi,1
+S. Mandanda,A. Zambo Anguissa,1
+H. Sakai,S. Mandanda,1
+H. Sakai,F. Thauvin,1
+A. Zambo Anguissa,Luiz Gustavo,1
+L. Ocampos,J. Amavi,1
+Luiz Gustavo,A. Abdennour,1
+J. Amavi,S. Mandanda,1

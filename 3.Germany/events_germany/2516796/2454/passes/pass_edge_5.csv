@@ -1,0 +1,12 @@
+Source,Target,Weight
+M. Ginter,J. Vestergaard,3
+M. Ginter,C. Kramer,2
+J. Vestergaard,M. Ginter,2
+C. Kramer,M. Ginter,2
+J. Vestergaard,L. Stindl,1
+F. Johnson,T. Hazard,1
+N. Elvedi,M. Ginter,1
+L. Stindl,O. Wendt,1
+L. Stindl,F. Johnson,1
+T. Hazard,M. Ginter,1
+O. Wendt,L. Stindl,1

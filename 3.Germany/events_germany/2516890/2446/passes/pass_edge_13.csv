@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Mehmedi,D. Kohr,2
+K. Havertz,L. Bailey,2
+J. Brandt,L. Bailey,2
+L. Alario,P. Retsos,1
+L. Alario,D. Kohr,1
+K. Havertz,D. Kohr,1
+L. Alario,K. Havertz,1
+L. Bailey,K. Havertz,1
+P. Retsos,L. Bailey,1
+L. Bailey,J. Brandt,1
+D. Kohr,B. Leno,1
+L. Bailey,B. Leno,1
+D. Kohr,K. Bellarabi,1
+B. Leno,L. Alario,1
+K. Bellarabi,J. Brandt,1
+D. Kohr,K. Havertz,1
+B. Leno,A. Mehmedi,1
+J. Brandt,K. Havertz,1
+L. Bailey,L. Alario,1
+D. Kohr,L. Alario,1
+K. Havertz,J. Brandt,1

@@ -1,0 +1,68 @@
+Source,Target,Weight
+C. Jallet,P. Lees Melou,9
+Dante,A. Souquet,6
+A. Tameze,M. Le Marchand,5
+P. Lees Melou,C. Jallet,5
+Dante,A. Tameze,5
+P. Lees Melou,W. Sneijder,4
+M. Le Marchand,A. Tameze,4
+R. Walter,V. Koziello,4
+C. Jallet,M. Le Marchand,4
+M. Le Marchand,C. Jallet,4
+A. Souquet,R. Walter,4
+Y. Cardinale,C. Jallet,4
+M. Le Marchand,Y. Cardinale,3
+W. Sneijder,C. Jallet,3
+V. Koziello,W. Sneijder,3
+P. Lees Melou,A. Tameze,3
+A. Souquet,Y. Cardinale,3
+M. Le Marchand,V. Koziello,3
+A. Souquet,Dante,3
+V. Koziello,A. Souquet,3
+A. Tameze,W. Sneijder,3
+A. Tameze,Dante,3
+A. Souquet,V. Koziello,3
+W. Sneijder,P. Lees Melou,3
+Y. Cardinale,Dante,3
+A. Tameze,A. Souquet,3
+Y. Cardinale,M. Le Marchand,2
+W. Sneijder,R. Walter,2
+W. Sneijder,Dante,2
+M. Le Marchand,Dante,2
+R. Walter,M. Le Marchand,2
+W. Sneijder,M. Le Marchand,2
+C. Jallet,A. Tameze,2
+V. Koziello,M. Le Marchand,2
+W. Sneijder,V. Koziello,2
+R. Walter,A. Tameze,2
+A. Tameze,C. Jallet,2
+P. Lees Melou,A. Souquet,2
+V. Koziello,Dante,2
+Dante,Y. Cardinale,2
+M. Le Marchand,W. Sneijder,2
+V. Koziello,R. Walter,2
+P. Lees Melou,M. Le Marchand,2
+M. Le Marchand,A. Pl\u00e9a,2
+A. Souquet,A. Tameze,2
+Dante,M. Le Marchand,2
+M. Le Marchand,P. Lees Melou,1
+A. Tameze,Y. Cardinale,1
+A. Pl\u00e9a,C. Jallet,1
+A. Souquet,C. Jallet,1
+C. Jallet,W. Sneijder,1
+R. Walter,A. Souquet,1
+Dante,W. Sneijder,1
+W. Sneijder,A. Tameze,1
+Y. Cardinale,R. Walter,1
+C. Jallet,Y. Cardinale,1
+A. Tameze,R. Walter,1
+R. Walter,Dante,1
+R. Walter,W. Sneijder,1
+Dante,R. Walter,1
+A. Pl\u00e9a,R. Walter,1
+C. Jallet,Dante,1
+A. Tameze,P. Lees Melou,1
+A. Pl\u00e9a,P. Lees Melou,1
+C. Jallet,V. Koziello,1
+V. Koziello,A. Pl\u00e9a,1
+C. Jallet,A. Souquet,1

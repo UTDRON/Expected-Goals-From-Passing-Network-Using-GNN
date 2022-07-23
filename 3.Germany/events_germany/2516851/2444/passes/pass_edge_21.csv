@@ -1,0 +1,20 @@
+Source,Target,Weight
+C. Tolisso,R. Lewandowski,2
+A. Vidal,C. Tolisso,2
+R. Lewandowski,C. Tolisso,2
+R. Lewandowski,O. Wriedt,1
+C. Tolisso,A. Vidal,1
+M. Friedl,A. Vidal,1
+Javi Mart\u00ednez,A. Vidal,1
+S. Ulreich,N. S\u00fcle,1
+O. Wriedt,S. Ulreich,1
+N. S\u00fcle,C. Tolisso,1
+C. Tolisso,N. S\u00fcle,1
+N. S\u00fcle,M. Hummels,1
+K. Coman,M. Friedl,1
+O. Wriedt,R. Lewandowski,1
+M. Friedl,K. Coman,1
+M. Hummels,M. Friedl,1
+A. Vidal,O. Wriedt,1
+C. Tolisso,K. Coman,1
+M. Friedl,Javi Mart\u00ednez,1

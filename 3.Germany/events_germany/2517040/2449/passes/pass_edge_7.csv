@@ -1,0 +1,69 @@
+Source,Target,Weight
+T. Kehrer,W. McKennie,6
+A. N\u00fcbel,G. Burgstaller,5
+W. McKennie,B. Oczipka,4
+B. Oczipka,T. Kehrer,4
+L. Goretzka,T. Kehrer,3
+A. N\u00fcbel,B. Stambouli,3
+G. Burgstaller,D. Caligiuri,3
+B. Stambouli,A. N\u00fcbel,3
+W. McKennie,L. Goretzka,3
+L. Goretzka,A. Harit,3
+T. Kehrer,A. N\u00fcbel,3
+L. Goretzka,B. Stambouli,3
+T. Kehrer,Y. Konoplyanka,3
+Naldo,L. Goretzka,3
+G. Burgstaller,L. Goretzka,2
+B. Oczipka,W. McKennie,2
+A. Harit,L. Goretzka,2
+Y. Konoplyanka,W. McKennie,2
+W. McKennie,Y. Konoplyanka,2
+G. Burgstaller,T. Kehrer,2
+W. McKennie,T. Kehrer,2
+L. Goretzka,A. N\u00fcbel,2
+B. Stambouli,G. Burgstaller,2
+Y. Konoplyanka,B. Oczipka,2
+B. Oczipka,L. Goretzka,2
+Y. Konoplyanka,T. Kehrer,2
+L. Goretzka,B. Oczipka,2
+Y. Konoplyanka,L. Goretzka,2
+G. Burgstaller,A. Baba,2
+A. N\u00fcbel,T. Kehrer,2
+A. Baba,G. Burgstaller,2
+D. Caligiuri,B. Stambouli,2
+L. Goretzka,G. Burgstaller,1
+A. N\u00fcbel,Naldo,1
+T. Kehrer,G. Burgstaller,1
+B. Stambouli,A. Harit,1
+D. Caligiuri,L. Goretzka,1
+A. N\u00fcbel,B. Oczipka,1
+Naldo,A. N\u00fcbel,1
+D. Caligiuri,W. McKennie,1
+G. Burgstaller,A. N\u00fcbel,1
+A. Harit,D. Caligiuri,1
+D. Caligiuri,A. N\u00fcbel,1
+A. Harit,Naldo,1
+L. Goretzka,W. McKennie,1
+B. Oczipka,A. N\u00fcbel,1
+Y. Konoplyanka,Naldo,1
+T. Kehrer,Naldo,1
+B. Stambouli,D. Caligiuri,1
+W. McKennie,A. Harit,1
+B. Oczipka,Y. Konoplyanka,1
+B. Stambouli,Y. Konoplyanka,1
+T. Kehrer,D. Caligiuri,1
+G. Burgstaller,Y. Konoplyanka,1
+Naldo,B. Stambouli,1
+W. McKennie,Naldo,1
+D. Caligiuri,T. Kehrer,1
+A. Baba,L. Goretzka,1
+W. McKennie,A. Baba,1
+G. Burgstaller,A. Harit,1
+A. Baba,W. McKennie,1
+B. Oczipka,A. Baba,1
+A. Harit,G. Burgstaller,1
+D. Caligiuri,Y. Konoplyanka,1
+B. Stambouli,B. Oczipka,1
+T. Kehrer,B. Oczipka,1
+A. Harit,W. McKennie,1
+L. Goretzka,D. Caligiuri,1

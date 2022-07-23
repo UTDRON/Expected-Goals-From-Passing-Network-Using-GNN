@@ -1,0 +1,13 @@
+Source,Target,Weight
+D. Caligiuri,B. Stambouli,2
+B. Stambouli,D. Caligiuri,1
+Y. Konoplyanka,G. Burgstaller,1
+Naldo,T. Kehrer,1
+B. Oczipka,T. Kehrer,1
+D. Caligiuri,Naldo,1
+B. Stambouli,M. Meyer,1
+T. Kehrer,Y. Konoplyanka,1
+G. Burgstaller,B. Oczipka,1
+Naldo,D. Caligiuri,1
+T. Kehrer,Naldo,1
+M. Meyer,T. Kehrer,1

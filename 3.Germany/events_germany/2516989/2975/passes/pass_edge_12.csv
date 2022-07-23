@@ -1,0 +1,58 @@
+Source,Target,Weight
+K. Laimer,N. Ke\u00efta,3
+N. Ke\u00efta,K. Laimer,3
+J. Augustin,Bernardo,3
+N. Ke\u00efta,T. Werner,2
+T. Werner,K. Laimer,2
+D. Demme,N. Ke\u00efta,2
+K. Laimer,D. Demme,2
+D. Demme,J. Augustin,2
+Bernardo,Bruma,2
+Bruma,Bernardo,2
+N. Ke\u00efta,E. Forsberg,2
+K. Laimer,I. Konat\u00e9,2
+Bernardo,T. Werner,2
+E. Forsberg,Bernardo,2
+M. Sabitzer,W. Orban,1
+W. Orban,K. Laimer,1
+T. Werner,D. Demme,1
+I. Konat\u00e9,D. Demme,1
+P. Gul\u00e1csi,M. Sabitzer,1
+I. Konat\u00e9,E. Forsberg,1
+M. Sabitzer,Bernardo,1
+Bruma,J. Augustin,1
+W. Orban,Bernardo,1
+Bruma,N. Ke\u00efta,1
+N. Ke\u00efta,W. Orban,1
+D. Demme,T. Werner,1
+P. Gul\u00e1csi,K. Laimer,1
+J. Augustin,N. Ke\u00efta,1
+Bruma,D. Demme,1
+D. Demme,K. Laimer,1
+I. Konat\u00e9,P. Gul\u00e1csi,1
+T. Werner,J. Augustin,1
+I. Konat\u00e9,W. Orban,1
+T. Werner,Bruma,1
+Bernardo,N. Ke\u00efta,1
+K. Laimer,M. Sabitzer,1
+E. Forsberg,J. Augustin,1
+W. Orban,D. Demme,1
+E. Forsberg,K. Laimer,1
+I. Konat\u00e9,N. Ke\u00efta,1
+Bernardo,I. Konat\u00e9,1
+E. Forsberg,P. Gul\u00e1csi,1
+W. Orban,N. Ke\u00efta,1
+D. Demme,E. Forsberg,1
+T. Werner,P. Gul\u00e1csi,1
+J. Augustin,K. Laimer,1
+P. Gul\u00e1csi,Bruma,1
+K. Laimer,E. Forsberg,1
+M. Sabitzer,J. Augustin,1
+Bernardo,D. Demme,1
+K. Laimer,W. Orban,1
+Bernardo,J. Augustin,1
+J. Augustin,T. Werner,1
+N. Ke\u00efta,D. Demme,1
+N. Ke\u00efta,I. Konat\u00e9,1
+D. Demme,I. Konat\u00e9,1
+J. Augustin,M. Sabitzer,1

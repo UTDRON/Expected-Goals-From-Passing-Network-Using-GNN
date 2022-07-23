@@ -1,0 +1,103 @@
+Source,Target,Weight
+A. Hahn,D. Diekmeier,8
+D. Diekmeier,A. Hahn,8
+Douglas Santos,L. Holtby,8
+C. Mathenia,A. Hahn,8
+S. Schipplock,Douglas Santos,7
+G. Jung,Douglas Santos,7
+A. Hahn,S. Schipplock,6
+D. Diekmeier,A. Ekdal,6
+A. Hahn,A. Ekdal,6
+K. Papadopoulos,D. Diekmeier,6
+D. Diekmeier,S. Schipplock,6
+A. Ekdal,D. Diekmeier,6
+Douglas Santos,A. Hahn,5
+Walace,B. Jatta,5
+Douglas Santos,Walace,5
+L. Holtby,B. Jatta,5
+A. Ekdal,Walace,5
+L. Holtby,Walace,5
+Walace,Douglas Santos,5
+A. Ekdal,K. Papadopoulos,5
+A. Ekdal,B. Jatta,4
+B. Jatta,A. Hahn,4
+A. Hahn,C. Mathenia,4
+G. Jung,L. Holtby,4
+L. Holtby,A. Ekdal,4
+B. Jatta,Douglas Santos,4
+A. Ekdal,G. Jung,4
+B. Jatta,K. Papadopoulos,4
+S. Schipplock,L. Holtby,4
+G. Jung,A. Ekdal,4
+Douglas Santos,G. Jung,4
+Walace,D. Diekmeier,4
+D. Diekmeier,K. Papadopoulos,4
+S. Schipplock,A. Ekdal,4
+A. Ekdal,S. Schipplock,4
+K. Papadopoulos,A. Hahn,4
+A. Hahn,K. Papadopoulos,4
+C. Mathenia,G. Jung,3
+A. Hahn,Walace,3
+K. Papadopoulos,Douglas Santos,3
+Douglas Santos,B. Jatta,3
+K. Papadopoulos,Walace,3
+Walace,A. Hahn,3
+L. Holtby,Douglas Santos,3
+D. Diekmeier,G. Jung,3
+Douglas Santos,K. Papadopoulos,3
+A. Hahn,G. Jung,3
+L. Holtby,S. Schipplock,3
+Walace,A. Ekdal,3
+G. Jung,C. Mathenia,3
+Douglas Santos,S. Salihovi\u0107,3
+S. Salihovi\u0107,Douglas Santos,3
+B. Jatta,A. Ekdal,3
+A. Ekdal,L. Holtby,3
+L. Holtby,A. Hahn,3
+Walace,L. Holtby,3
+A. Hahn,Douglas Santos,3
+B. Jatta,L. Holtby,3
+Douglas Santos,C. Mathenia,3
+L. Holtby,D. Diekmeier,3
+Douglas Santos,S. Schipplock,3
+L. Holtby,G. Jung,2
+K. Papadopoulos,L. Holtby,2
+K. Papadopoulos,C. Mathenia,2
+S. Schipplock,K. Papadopoulos,2
+S. Schipplock,G. Jung,2
+S. Schipplock,B. Jatta,2
+G. Jung,B. Jatta,2
+S. Schipplock,A. Hahn,2
+D. Diekmeier,B. Jatta,2
+B. Jatta,D. Diekmeier,2
+C. Mathenia,L. Holtby,2
+L. Holtby,S. Salihovi\u0107,2
+A. Hahn,B. Jatta,2
+B. Jatta,G. Jung,2
+K. Papadopoulos,A. Ekdal,2
+S. Schipplock,D. Diekmeier,2
+A. Ekdal,Douglas Santos,2
+G. Jung,A. Hahn,2
+K. Papadopoulos,S. Schipplock,1
+Douglas Santos,A. Ekdal,1
+D. Diekmeier,L. Holtby,1
+D. Diekmeier,Douglas Santos,1
+K. Papadopoulos,G. Jung,1
+B. Jatta,S. Schipplock,1
+Walace,G. Jung,1
+G. Jung,D. Diekmeier,1
+A. Hahn,L. Holtby,1
+G. Jung,K. Papadopoulos,1
+G. Jung,S. Salihovi\u0107,1
+B. Jatta,C. Mathenia,1
+L. Holtby,K. Papadopoulos,1
+A. Ekdal,A. Hahn,1
+G. Jung,Walace,1
+D. Diekmeier,Walace,1
+S. Salihovi\u0107,S. Schipplock,1
+B. Jatta,Walace,1
+C. Mathenia,Walace,1
+S. Schipplock,Walace,1
+Walace,S. Schipplock,1
+S. Salihovi\u0107,A. Ekdal,1
+Walace,C. Mathenia,1

@@ -1,0 +1,15 @@
+Source,Target,Weight
+K. Havertz,J. Brandt,3
+J. Brandt,D. Kohr,1
+L. Bender,K. Volland,1
+K. Volland,K. Havertz,1
+D. Kohr,B. Henrichs,1
+J. Brandt,K. Havertz,1
+K. Volland,D. Kohr,1
+D. Kohr,K. Havertz,1
+J. Brandt,J. Baumgartlinger,1
+J. Baumgartlinger,D. Kohr,1
+D. Kohr,L. Bailey,1
+K. Havertz,K. Volland,1
+L. Bailey,K. Havertz,1
+K. Havertz,L. Bender,1

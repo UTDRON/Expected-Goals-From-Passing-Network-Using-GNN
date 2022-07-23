@@ -1,0 +1,13 @@
+Source,Target,Weight
+M. Halstenberg,L. Klostermann,2
+L. Klostermann,M. Sabitzer,2
+J. Augustin,M. Halstenberg,1
+D. Demme,D. Upamecano,1
+D. Demme,K. Kampl,1
+M. Sabitzer,K. Kampl,1
+W. Orban,D. Demme,1
+M. Sabitzer,D. Demme,1
+T. Werner,J. Augustin,1
+D. Upamecano,M. Halstenberg,1
+J. Augustin,T. Werner,1
+K. Kampl,J. Augustin,1

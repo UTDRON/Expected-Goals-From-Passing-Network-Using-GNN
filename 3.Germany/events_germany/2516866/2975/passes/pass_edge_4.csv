@@ -1,0 +1,14 @@
+Source,Target,Weight
+S. Ilsanker,Bernardo,3
+K. Laimer,S. Ilsanker,1
+Y. Poulsen,D. Demme,1
+W. Orban,P. Gul\u00e1csi,1
+Bernardo,K. Kampl,1
+D. Demme,K. Kampl,1
+T. Werner,K. Laimer,1
+P. Gul\u00e1csi,S. Ilsanker,1
+Bernardo,T. Werner,1
+Bernardo,D. Demme,1
+K. Kampl,W. Orban,1
+D. Demme,K. Laimer,1
+K. Laimer,Y. Poulsen,1

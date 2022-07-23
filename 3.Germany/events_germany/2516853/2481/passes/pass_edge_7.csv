@@ -1,0 +1,19 @@
+Source,Target,Weight
+P. Max,J. Gouweleeuw,2
+A. Finnbogason,D. Baier,2
+E. Thommy,A. Finnbogason,1
+D. Baier,A. Finnbogason,1
+J. Gouweleeuw,A. Finnbogason,1
+E. Thommy,P. Max,1
+Caiuby,J. Gouweleeuw,1
+D. Baier,M. Gregoritsch,1
+A. Finnbogason,E. Thommy,1
+M. Gregoritsch,D. Opare,1
+D. Baier,D. Opare,1
+D. Baier,E. Thommy,1
+D. Opare,E. Thommy,1
+J. Gouweleeuw,Caiuby,1
+D. Opare,Caiuby,1
+E. Thommy,M. Gregoritsch,1
+J. Gouweleeuw,D. Baier,1
+M. Gregoritsch,D. Baier,1

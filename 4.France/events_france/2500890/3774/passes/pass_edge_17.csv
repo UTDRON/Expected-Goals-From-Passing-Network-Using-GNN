@@ -1,0 +1,20 @@
+Source,Target,Weight
+B. Bourigeaud,J. Lea Siliki,3
+J. Lea Siliki,B. Bourigeaud,3
+M. Zeffane,J. Gelin,2
+Mexer,M. Zeffane,2
+B. Bourigeaud,B. Andr\u00e9,2
+B. Bourigeaud,H. Traor\u00e9,2
+M. Zeffane,Mexer,1
+J. Gelin,I. Sarr,1
+B. Andr\u00e9,J. Gnagnon,1
+M. Zeffane,I. Sarr,1
+B. Andr\u00e9,M. Zeffane,1
+I. Sarr,M. Zeffane,1
+I. Sarr,B. Bourigeaud,1
+J. Gelin,J. Lea Siliki,1
+B. Andr\u00e9,B. Bourigeaud,1
+H. Traor\u00e9,J. Gnagnon,1
+J. Gnagnon,B. Bourigeaud,1
+H. Traor\u00e9,B. Bourigeaud,1
+J. Gnagnon,Mexer,1

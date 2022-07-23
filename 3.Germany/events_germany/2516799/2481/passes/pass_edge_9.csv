@@ -1,0 +1,68 @@
+Source,Target,Weight
+D. Baier,D. Opare,4
+A. Finnbogason,M. Heller,3
+D. Baier,P. Max,3
+D. Opare,M. Heller,3
+Ja-Cheol Koo,D. Opare,3
+D. Opare,D. Baier,3
+D. Opare,Ja-Cheol Koo,2
+D. Opare,S. C\u00f3rdova,2
+S. C\u00f3rdova,M. Heller,2
+J. Gouweleeuw,Ja-Cheol Koo,2
+M. Heller,J. Gouweleeuw,2
+M. Heller,A. Finnbogason,2
+Ja-Cheol Koo,S. C\u00f3rdova,2
+Caiuby,D. Baier,2
+P. Max,E. Thommy,2
+M. Hinteregger,J. Gouweleeuw,2
+E. Thommy,Caiuby,2
+P. Max,D. Baier,2
+D. Baier,M. Hitz,1
+J. Gouweleeuw,E. Thommy,1
+M. Hitz,A. Finnbogason,1
+D. Baier,S. C\u00f3rdova,1
+M. Hitz,D. Opare,1
+Ja-Cheol Koo,A. Finnbogason,1
+S. C\u00f3rdova,D. Opare,1
+E. Thommy,D. Opare,1
+S. C\u00f3rdova,D. Baier,1
+D. Opare,A. Finnbogason,1
+D. Opare,P. Max,1
+Caiuby,S. C\u00f3rdova,1
+J. Gouweleeuw,Caiuby,1
+M. Heller,D. Baier,1
+P. Max,M. Hitz,1
+P. Max,M. Hinteregger,1
+D. Opare,E. Thommy,1
+J. Gouweleeuw,A. Finnbogason,1
+M. Hinteregger,Caiuby,1
+Caiuby,P. Max,1
+M. Hitz,P. Max,1
+A. Finnbogason,J. Gouweleeuw,1
+M. Heller,D. Opare,1
+A. Finnbogason,D. Opare,1
+S. C\u00f3rdova,E. Thommy,1
+J. Gouweleeuw,D. Opare,1
+P. Max,Caiuby,1
+D. Opare,J. Gouweleeuw,1
+M. Heller,Ja-Cheol Koo,1
+M. Heller,S. C\u00f3rdova,1
+E. Thommy,P. Max,1
+Ja-Cheol Koo,J. Gouweleeuw,1
+D. Baier,A. Finnbogason,1
+Caiuby,D. Opare,1
+J. Gouweleeuw,D. Baier,1
+A. Finnbogason,M. Hinteregger,1
+J. Gouweleeuw,M. Hinteregger,1
+Ja-Cheol Koo,M. Hitz,1
+M. Hitz,Caiuby,1
+P. Max,J. Gouweleeuw,1
+D. Baier,Ja-Cheol Koo,1
+J. Gouweleeuw,M. Hitz,1
+Ja-Cheol Koo,M. Hinteregger,1
+M. Hinteregger,P. Max,1
+S. C\u00f3rdova,Ja-Cheol Koo,1
+E. Thommy,J. Gouweleeuw,1
+S. C\u00f3rdova,A. Finnbogason,1
+A. Finnbogason,D. Baier,1
+A. Finnbogason,Ja-Cheol Koo,1

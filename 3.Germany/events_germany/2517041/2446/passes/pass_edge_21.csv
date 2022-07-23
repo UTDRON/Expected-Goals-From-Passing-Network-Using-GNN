@@ -1,0 +1,13 @@
+Source,Target,Weight
+J. Tah,T. Jedvaj,2
+C. Ar\u00e1nguiz,J. Tah,1
+J. Brandt,D. Kohr,1
+L. Bender,C. Ar\u00e1nguiz,1
+Wendell,J. Tah,1
+T. Jedvaj,Wendell,1
+L. Alario,J. Brandt,1
+K. Havertz,C. Ar\u00e1nguiz,1
+D. Kohr,L. Bender,1
+D. Kohr,K. Havertz,1
+T. Jedvaj,D. Kohr,1
+Wendell,L. Alario,1

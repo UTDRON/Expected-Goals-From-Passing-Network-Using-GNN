@@ -1,0 +1,24 @@
+Source,Target,Weight
+T. Delaney,T. Gebre Selassie,2
+T. Gebre Selassie,T. Delaney,2
+M. Kruse,T. Delaney,2
+Z. Junuzovi\u0107,F. Kainz,2
+N. Moisander,L. Augustinsson,2
+L. Augustinsson,M. Kruse,2
+I. Belfodil,N. Moisander,1
+T. Delaney,M. Kruse,1
+M. Eggestein,I. Belfodil,1
+L. Augustinsson,Z. Junuzovi\u0107,1
+I. Belfodil,F. Kainz,1
+Z. Junuzovi\u0107,M. Eggestein,1
+T. Delaney,Z. Junuzovi\u0107,1
+T. Gebre Selassie,Z. Junuzovi\u0107,1
+F. Kainz,T. Gebre Selassie,1
+F. Kainz,T. Delaney,1
+F. Kainz,M. Eggestein,1
+M. Kruse,F. Kainz,1
+T. Delaney,L. Augustinsson,1
+M. Veljkovic,N. Moisander,1
+M. Eggestein,L. Augustinsson,1
+F. Kainz,M. Kruse,1
+M. Kruse,I. Belfodil,1

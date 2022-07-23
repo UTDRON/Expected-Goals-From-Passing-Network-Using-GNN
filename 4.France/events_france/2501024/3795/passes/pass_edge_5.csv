@@ -1,0 +1,70 @@
+Source,Target,Weight
+C. Traor\u00e9,J. Obiang,5
+J. Obiang,K. Azamoum,4
+J. Cordoval,S. Darbion,4
+F. Bellugou,C. Traor\u00e9,4
+K. Azamoum,S. Grandsir,4
+S. Grandsir,S. Darbion,4
+F. Bellugou,J. Obiang,4
+S. Darbion,J. Cordoval,3
+B. Nivet,S. Grandsir,3
+S. Grandsir,C. Ben Saada,3
+S. Grandsir,F. Bellugou,3
+J. Obiang,C. Traor\u00e9,3
+J. Cordoval,S. Grandsir,3
+C. Ben Saada,F. Bellugou,3
+F. Bellugou,S. Grandsir,3
+S. Grandsir,K. Azamoum,3
+S. Darbion,K. Azamoum,2
+C. Traor\u00e9,C. Ben Saada,2
+C. Ben Saada,J. Cordoval,2
+K. Azamoum,F. Bellugou,2
+Suk Hyun-Jun,J. Cordoval,2
+J. Obiang,C. Ben Saada,2
+K. Azamoum,C. Traor\u00e9,2
+S. Darbion,B. Nivet,2
+C. Traor\u00e9,F. Bellugou,2
+J. Obiang,F. Bellugou,2
+C. Ben Saada,S. Grandsir,2
+K. Azamoum,J. Cordoval,2
+J. Giraudon,S. Darbion,2
+C. Traor\u00e9,Suk Hyun-Jun,2
+J. Cordoval,J. Giraudon,2
+C. H\u00e9relle,C. Traor\u00e9,2
+S. Darbion,J. Giraudon,2
+E. Zelazny,J. Obiang,1
+S. Grandsir,B. Nivet,1
+S. Grandsir,J. Giraudon,1
+C. Traor\u00e9,E. Zelazny,1
+J. Giraudon,K. Azamoum,1
+C. H\u00e9relle,B. Nivet,1
+B. Nivet,F. Bellugou,1
+J. Giraudon,C. H\u00e9relle,1
+S. Grandsir,C. Traor\u00e9,1
+S. Grandsir,Suk Hyun-Jun,1
+K. Azamoum,J. Obiang,1
+C. Ben Saada,J. Obiang,1
+J. Obiang,S. Grandsir,1
+B. Nivet,K. Azamoum,1
+Suk Hyun-Jun,C. Ben Saada,1
+B. Nivet,C. H\u00e9relle,1
+J. Giraudon,Suk Hyun-Jun,1
+S. Darbion,S. Grandsir,1
+J. Giraudon,C. Ben Saada,1
+C. Ben Saada,C. Traor\u00e9,1
+S. Darbion,F. Bellugou,1
+J. Cordoval,B. Nivet,1
+F. Bellugou,J. Cordoval,1
+Suk Hyun-Jun,S. Grandsir,1
+J. Cordoval,F. Bellugou,1
+E. Zelazny,Suk Hyun-Jun,1
+K. Azamoum,C. H\u00e9relle,1
+J. Cordoval,E. Zelazny,1
+F. Bellugou,S. Darbion,1
+J. Giraudon,J. Cordoval,1
+C. Traor\u00e9,J. Giraudon,1
+S. Grandsir,J. Cordoval,1
+F. Bellugou,K. Azamoum,1
+J. Obiang,B. Nivet,1
+Suk Hyun-Jun,F. Bellugou,1
+F. Bellugou,J. Giraudon,1

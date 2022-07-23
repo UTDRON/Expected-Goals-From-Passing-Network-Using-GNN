@@ -1,0 +1,40 @@
+Source,Target,Weight
+Dante,A. Souquet,3
+M. Sarr,J. Seri,3
+A. Souquet,Dante,3
+P. Lees Melou,J. Seri,3
+J. Seri,Dante,2
+Dante,J. Seri,2
+J. Seri,A. Souquet,2
+M. Le Marchand,V. Koziello,2
+J. Seri,B. Srarfi,2
+J. Seri,M. Sarr,2
+V. Koziello,J. Seri,2
+J. Seri,V. Koziello,2
+M. Sarr,M. Le Marchand,2
+Y. Cardinale,M. Le Marchand,1
+V. Koziello,M. Sarr,1
+M. Sarr,Y. Cardinale,1
+P. Lees Melou,B. Srarfi,1
+J. Seri,P. Lees Melou,1
+B. Srarfi,Dante,1
+J. Seri,A. Pl\u00e9a,1
+M. Sarr,A. Saint-Maximin,1
+A. Saint-Maximin,M. Le Marchand,1
+M. Le Marchand,B. Srarfi,1
+P. Lees Melou,Dante,1
+V. Koziello,Dante,1
+A. Souquet,V. Koziello,1
+A. Souquet,M. Sarr,1
+Dante,B. Srarfi,1
+B. Srarfi,P. Lees Melou,1
+B. Srarfi,M. Le Marchand,1
+Dante,A. Saint-Maximin,1
+B. Srarfi,J. Seri,1
+M. Le Marchand,P. Lees Melou,1
+A. Saint-Maximin,M. Sarr,1
+M. Le Marchand,M. Sarr,1
+B. Srarfi,M. Sarr,1
+V. Koziello,A. Saint-Maximin,1
+Dante,P. Lees Melou,1
+A. Saint-Maximin,P. Lees Melou,1

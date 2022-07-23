@@ -1,0 +1,72 @@
+Source,Target,Weight
+K. Mangane,Nuno Da Costa,6
+D. Foulquier,K. Mangane,5
+K. Lala,J. Aholou,5
+Nuno Da Costa,D. Foulquier,4
+J. Aholou,K. Lala,4
+M. Terrier,J. Aholou,3
+Nuno Da Costa,J. Aholou,3
+M. Terrier,J. Martin,3
+K. Mangane,J. Martin,3
+J. Aholou,Nuno Da Costa,3
+J. Martin,K. Lala,3
+J. Martin,I. Saadi,3
+I. Saadi,J. Grimm,3
+D. Foulquier,J. Grimm,3
+J. Grimm,D. Foulquier,3
+J. Grimm,I. Saadi,3
+J. Aholou,P. Martinez,3
+K. Lala,K. Mangane,3
+P. Martinez,K. Lala,3
+J. Aholou,K. Mangane,3
+M. Terrier,P. Martinez,2
+Nuno Da Costa,M. Terrier,2
+P. Martinez,K. Mangane,2
+I. Saadi,M. Terrier,2
+K. Lala,J. Martin,2
+K. Mangane,K. Lala,2
+J. Martin,J. Grimm,2
+K. Mangane,P. Martinez,2
+D. Foulquier,J. Martin,2
+K. Mangane,J. Grimm,2
+J. Martin,K. Mangane,2
+P. Martinez,M. Terrier,2
+K. Lala,M. Terrier,2
+J. Grimm,J. Martin,2
+J. Martin,J. Aholou,2
+J. Martin,P. Martinez,2
+I. Saadi,K. Mangane,2
+K. Mangane,J. Aholou,1
+J. Martin,M. Terrier,1
+P. Martinez,B. Kamara,1
+M. Terrier,K. Lala,1
+J. Grimm,Nuno Da Costa,1
+K. Lala,B. Kamara,1
+M. Terrier,K. Mangane,1
+Nuno Da Costa,J. Martin,1
+B. Kamara,P. Martinez,1
+K. Lala,D. Foulquier,1
+J. Aholou,M. Terrier,1
+K. Lala,J. Grimm,1
+J. Aholou,I. Saadi,1
+K. Mangane,D. Foulquier,1
+K. Mangane,B. Kamara,1
+P. Martinez,J. Aholou,1
+K. Mangane,I. Saadi,1
+P. Martinez,D. Foulquier,1
+J. Aholou,D. Foulquier,1
+J. Grimm,K. Lala,1
+I. Saadi,J. Martin,1
+K. Mangane,M. Terrier,1
+J. Grimm,P. Martinez,1
+B. Kamara,D. Foulquier,1
+Nuno Da Costa,K. Mangane,1
+B. Kamara,J. Martin,1
+J. Grimm,K. Mangane,1
+D. Foulquier,Nuno Da Costa,1
+J. Martin,D. Foulquier,1
+D. Foulquier,J. Aholou,1
+P. Martinez,J. Grimm,1
+D. Foulquier,K. Lala,1
+Nuno Da Costa,I. Saadi,1
+M. Terrier,Nuno Da Costa,1

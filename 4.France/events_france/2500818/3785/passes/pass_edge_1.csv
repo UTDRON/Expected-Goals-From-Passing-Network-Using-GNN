@@ -1,0 +1,39 @@
+Source,Target,Weight
+F. Tabanou,J. Briand,3
+J. Martins-Pereira,C. Kerbrat,2
+J. Briand,\u00c9. Didot,2
+J. Sorbon,F. Eboa Eboa,2
+R. Camara,L. Blas,2
+L. Blas,J. Martins-Pereira,2
+F. Tabanou,R. Camara,2
+J. Briand,J. Martins-Pereira,2
+F. Eboa Eboa,L. Blas,2
+L. Blas,J. Briand,2
+L. Blas,F. Tabanou,1
+F. Eboa Eboa,R. Camara,1
+\u00c9. Didot,R. Camara,1
+R. Camara,\u00c9. Didot,1
+J. Martins-Pereira,L. Blas,1
+R. Camara,J. Sorbon,1
+J. Briand,Y. Salibur,1
+Y. Salibur,J. Martins-Pereira,1
+C. Kerbrat,J. Briand,1
+J. Martins-Pereira,R. Camara,1
+J. Martins-Pereira,J. Sorbon,1
+K. Johnsson,J. Briand,1
+R. Camara,F. Tabanou,1
+R. Camara,J. Briand,1
+\u00c9. Didot,F. Tabanou,1
+J. Martins-Pereira,J. Briand,1
+J. Briand,J. Sorbon,1
+J. Briand,L. Blas,1
+C. Kerbrat,F. Tabanou,1
+J. Sorbon,K. Johnsson,1
+J. Briand,C. Kerbrat,1
+J. Sorbon,R. Camara,1
+\u00c9. Didot,L. Blas,1
+C. Kerbrat,F. Eboa Eboa,1
+L. Blas,J. Sorbon,1
+L. Blas,F. Eboa Eboa,1
+F. Eboa Eboa,J. Martins-Pereira,1
+J. Briand,F. Eboa Eboa,1

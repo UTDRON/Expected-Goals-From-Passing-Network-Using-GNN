@@ -1,0 +1,17 @@
+Source,Target,Weight
+N. Elvedi,T. Hazard,2
+T. Sippel,T. Jantschke,1
+C. Kramer,J. Vestergaard,1
+T. Jantschke,T. Sippel,1
+T. Jantschke,T. Hazard,1
+T. Hazard,N. Elvedi,1
+J. Vestergaard,T. Jantschke,1
+M. Ginter,T. Sippel,1
+T. Sippel,J. Vestergaard,1
+J. Vestergaard,M. Ginter,1
+T. Jantschke,L. Stindl,1
+L. Stindl,M. Cuisance,1
+T. Hazard,T. Jantschke,1
+L. Stindl,T. Jantschke,1
+T. Jantschke,C. Kramer,1
+T. Hazard,L. Stindl,1

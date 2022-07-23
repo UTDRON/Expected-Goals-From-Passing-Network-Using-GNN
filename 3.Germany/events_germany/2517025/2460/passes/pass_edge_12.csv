@@ -1,0 +1,34 @@
+Source,Target,Weight
+R. Baku,G. Holtmann,3
+A. Diallo,R. Baku,3
+Y. Muto,J. Gbamin,3
+G. Holtmann,Y. Muto,2
+A. Hack,R. Baku,2
+J. Gbamin,P. De Blasis,2
+D. Brosinski,A. Diallo,2
+P. De Blasis,A. Hack,2
+G. Holtmann,A. Diallo,2
+P. De Blasis,Y. Muto,1
+R. Baku,D. Brosinski,1
+J. Gbamin,D. Brosinski,1
+D. Brosinski,A. Hack,1
+Y. Muto,R. Adler,1
+N. de Jong,A. Diallo,1
+A. Diallo,A. Hack,1
+J. Gbamin,N. de Jong,1
+P. De Blasis,D. Brosinski,1
+S. Bell,A. Hack,1
+D. Brosinski,G. Holtmann,1
+A. Diallo,S. Bell,1
+R. Adler,N. de Jong,1
+A. Diallo,G. Holtmann,1
+A. Hack,J. Gbamin,1
+R. Adler,P. De Blasis,1
+N. de Jong,Y. Muto,1
+R. Baku,Y. Muto,1
+J. Gbamin,G. Holtmann,1
+A. Hack,R. Adler,1
+A. Hack,G. Holtmann,1
+Y. Muto,A. Diallo,1
+G. Holtmann,P. De Blasis,1
+G. Holtmann,J. Gbamin,1

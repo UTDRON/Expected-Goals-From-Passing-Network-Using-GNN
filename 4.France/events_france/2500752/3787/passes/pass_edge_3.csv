@@ -1,0 +1,72 @@
+Source,Target,Weight
+R. Aguilar,E. Skhiri,7
+P. Lasne,J. Roussillon,5
+J. Roussillon,E. Skhiri,5
+J. Sambia,R. Aguilar,5
+E. Skhiri,S. Sess\u00e8gnon,4
+B. Lecomte,J. Sambia,4
+C. Ninga,J. Roussillon,4
+R. Aguilar,Pedro Mendes,4
+E. Skhiri,R. Aguilar,4
+Pedro Mendes,B. Lecomte,4
+S. Sess\u00e8gnon,P. Lasne,3
+C. Ninga,S. Sess\u00e8gnon,3
+J. Roussillon,C. Ninga,3
+P. Lasne,S. Sess\u00e8gnon,3
+E. Skhiri,J. Roussillon,3
+E. Skhiri,C. Ninga,3
+J. Sambia,B. Lecomte,3
+S. Sess\u00e8gnon,C. Ninga,3
+B. Lecomte,D. Congr\u00e9,2
+Pedro Mendes,J. Roussillon,2
+R. Aguilar,S. Sess\u00e8gnon,2
+J. Roussillon,S. Sess\u00e8gnon,2
+R. Aguilar,C. Ninga,2
+Pedro Mendes,J. Sambia,2
+S. Sess\u00e8gnon,E. Skhiri,2
+D. Congr\u00e9,P. Lasne,2
+E. Skhiri,P. Lasne,2
+Pedro Mendes,Hilton,2
+J. Sambia,D. Congr\u00e9,2
+J. Roussillon,R. Aguilar,2
+B. Lecomte,R. Aguilar,2
+S. Sess\u00e8gnon,R. Aguilar,2
+D. Congr\u00e9,J. Roussillon,2
+J. Roussillon,Pedro Mendes,2
+S. Sess\u00e8gnon,Pedro Mendes,2
+C. Ninga,P. Lasne,2
+C. Ninga,J. Sambia,2
+S. Sess\u00e8gnon,Hilton,2
+E. Skhiri,J. Sambia,2
+Hilton,J. Roussillon,1
+J. Roussillon,D. Congr\u00e9,1
+J. Sambia,C. Ninga,1
+C. Ninga,D. Congr\u00e9,1
+C. Ninga,B. Lecomte,1
+Pedro Mendes,E. Skhiri,1
+Hilton,D. Congr\u00e9,1
+B. Lecomte,E. Skhiri,1
+S. Sess\u00e8gnon,B. Lecomte,1
+P. Lasne,D. Congr\u00e9,1
+D. Congr\u00e9,Pedro Mendes,1
+D. Congr\u00e9,C. Ninga,1
+J. Roussillon,P. Lasne,1
+Hilton,E. Skhiri,1
+P. Lasne,C. Ninga,1
+Hilton,Pedro Mendes,1
+Pedro Mendes,P. Lasne,1
+D. Congr\u00e9,S. Sess\u00e8gnon,1
+R. Aguilar,D. Congr\u00e9,1
+B. Lecomte,Pedro Mendes,1
+Pedro Mendes,R. Aguilar,1
+E. Skhiri,Pedro Mendes,1
+D. Congr\u00e9,E. Skhiri,1
+B. Lecomte,P. Lasne,1
+J. Roussillon,J. Sambia,1
+D. Congr\u00e9,B. Lecomte,1
+D. Congr\u00e9,J. Sambia,1
+J. Sambia,Pedro Mendes,1
+Hilton,J. Sambia,1
+P. Lasne,B. Lecomte,1
+J. Sambia,Hilton,1
+P. Lasne,E. Skhiri,1

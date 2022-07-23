@@ -1,0 +1,23 @@
+Source,Target,Weight
+V. Vada,Jonathan Cafu,3
+Jonathan Cafu,V. Vada,2
+Jonathan Cafu,L. Lerager,2
+V. Vada,L. Lerager,2
+N. de Pr\u00e9ville,V. Vada,2
+J. Toulalan,Y. Sabaly,1
+L. Lerager,Jonathan Cafu,1
+T. Carrique,Jonathan Cafu,1
+L. Lerager,V. Vada,1
+Jonathan Cafu,T. Carrique,1
+Ot\u00e1vio,Y. Sabaly,1
+Y. Sabaly,B. Costil,1
+N. de Pr\u00e9ville,Jonathan Cafu,1
+Ot\u00e1vio,V. Vada,1
+T. Carrique,N. de Pr\u00e9ville,1
+B. Costil,Ot\u00e1vio,1
+Jonathan Cafu,N. de Pr\u00e9ville,1
+V. Vada,Ot\u00e1vio,1
+L. Lerager,N. de Pr\u00e9ville,1
+N. de Pr\u00e9ville,T. Carrique,1
+Y. Sabaly,Ot\u00e1vio,1
+Ot\u00e1vio,N. de Pr\u00e9ville,1

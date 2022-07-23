@@ -1,0 +1,64 @@
+Source,Target,Weight
+Marquinhos,Dani Alves,5
+Marquinhos,T. Meunier,5
+A. Rabiot,P. Kimpembe,5
+T. Meunier,Marquinhos,5
+P. Kimpembe,A. Rabiot,4
+A. Rabiot,Dani Alves,4
+T. Meunier,Dani Alves,4
+Neymar,J. Draxler,4
+Yuri Berchiche,P. Kimpembe,4
+A. Rabiot,J. Draxler,4
+Yuri Berchiche,Neymar,4
+J. Draxler,A. Rabiot,3
+Neymar,Marquinhos,3
+J. Draxler,Neymar,3
+Dani Alves,T. Meunier,3
+Dani Alves,A. Rabiot,3
+Dani Alves,\u00c1. di Mar\u00eda,3
+P. Kimpembe,Yuri Berchiche,3
+J. Draxler,Yuri Berchiche,3
+P. Kimpembe,Marquinhos,3
+\u00c1. di Mar\u00eda,Yuri Berchiche,2
+Dani Alves,Neymar,2
+P. Kimpembe,T. Meunier,2
+J. Draxler,P. Kimpembe,2
+Neymar,A. Rabiot,2
+Yuri Berchiche,J. Draxler,2
+P. Kimpembe,J. Draxler,2
+A. Rabiot,T. Meunier,2
+Neymar,Dani Alves,2
+Marquinhos,A. Rabiot,2
+Dani Alves,K. Mbapp\u00e9,2
+K. Mbapp\u00e9,A. Rabiot,2
+P. Kimpembe,Neymar,2
+Neymar,Yuri Berchiche,2
+A. Ar\u00e9ola,Marquinhos,1
+A. Rabiot,Marquinhos,1
+T. Meunier,\u00c1. di Mar\u00eda,1
+A. Rabiot,A. Ar\u00e9ola,1
+T. Meunier,K. Mbapp\u00e9,1
+Marquinhos,\u00c1. di Mar\u00eda,1
+T. Meunier,A. Rabiot,1
+K. Mbapp\u00e9,P. Kimpembe,1
+T. Meunier,J. Draxler,1
+T. Meunier,P. Kimpembe,1
+Dani Alves,P. Kimpembe,1
+Yuri Berchiche,A. Rabiot,1
+Marquinhos,P. Kimpembe,1
+Dani Alves,Yuri Berchiche,1
+\u00c1. di Mar\u00eda,T. Meunier,1
+K. Mbapp\u00e9,Neymar,1
+P. Kimpembe,Dani Alves,1
+Yuri Berchiche,Marquinhos,1
+\u00c1. di Mar\u00eda,P. Kimpembe,1
+Neymar,\u00c1. di Mar\u00eda,1
+\u00c1. di Mar\u00eda,Marquinhos,1
+A. Rabiot,Neymar,1
+Marquinhos,Yuri Berchiche,1
+Marquinhos,Neymar,1
+A. Ar\u00e9ola,P. Kimpembe,1
+J. Draxler,T. Meunier,1
+Dani Alves,A. Ar\u00e9ola,1
+Dani Alves,Marquinhos,1
+J. Draxler,Dani Alves,1

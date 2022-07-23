@@ -1,0 +1,92 @@
+Source,Target,Weight
+A. Rabiot,L. Diarra,10
+L. Diarra,G. Lo Celso,10
+L. Diarra,A. Rabiot,10
+T. Meunier,G. Lo Celso,10
+P. Kimpembe,L. Diarra,8
+G. Lo Celso,T. Meunier,8
+A. Rabiot,J. Pastore,8
+G. Lo Celso,A. Rabiot,7
+G. Lo Celso,L. Diarra,7
+J. Pastore,A. Rabiot,7
+L. Kurzawa,A. Rabiot,7
+T. Meunier,\u00c1. di Mar\u00eda,7
+P. Kimpembe,A. Rabiot,6
+T. Meunier,Marquinhos,6
+A. Rabiot,L. Kurzawa,6
+J. Pastore,L. Diarra,6
+G. Lo Celso,J. Pastore,6
+L. Diarra,T. Meunier,6
+Marquinhos,P. Kimpembe,6
+L. Kurzawa,J. Pastore,6
+\u00c1. di Mar\u00eda,T. Meunier,5
+L. Diarra,\u00c1. di Mar\u00eda,5
+L. Diarra,Marquinhos,5
+A. Rabiot,G. Lo Celso,5
+J. Pastore,G. Lo Celso,5
+\u00c1. di Mar\u00eda,G. Lo Celso,5
+Marquinhos,T. Meunier,5
+J. Pastore,L. Kurzawa,4
+G. Lo Celso,L. Kurzawa,4
+L. Kurzawa,K. Mbapp\u00e9,4
+L. Kurzawa,L. Diarra,4
+J. Pastore,\u00c1. di Mar\u00eda,4
+K. Mbapp\u00e9,L. Diarra,4
+L. Diarra,L. Kurzawa,4
+\u00c1. di Mar\u00eda,L. Diarra,4
+A. Rabiot,T. Meunier,4
+A. Ar\u00e9ola,P. Kimpembe,3
+\u00c1. di Mar\u00eda,J. Pastore,3
+A. Rabiot,Marquinhos,3
+L. Kurzawa,\u00c1. di Mar\u00eda,3
+A. Rabiot,P. Kimpembe,3
+Marquinhos,\u00c1. di Mar\u00eda,3
+\u00c1. di Mar\u00eda,K. Mbapp\u00e9,3
+L. Diarra,A. Ar\u00e9ola,3
+A. Rabiot,K. Mbapp\u00e9,3
+L. Kurzawa,Marquinhos,3
+\u00c1. di Mar\u00eda,P. Kimpembe,3
+L. Diarra,P. Kimpembe,3
+K. Mbapp\u00e9,L. Kurzawa,3
+J. Pastore,P. Kimpembe,3
+T. Meunier,J. Pastore,3
+T. Meunier,A. Ar\u00e9ola,3
+Marquinhos,L. Diarra,3
+P. Kimpembe,J. Pastore,3
+G. Lo Celso,Marquinhos,2
+Marquinhos,L. Kurzawa,2
+L. Diarra,J. Pastore,2
+J. Pastore,K. Mbapp\u00e9,2
+K. Mbapp\u00e9,G. Lo Celso,2
+K. Mbapp\u00e9,J. Pastore,2
+K. Mbapp\u00e9,A. Rabiot,2
+A. Ar\u00e9ola,L. Diarra,2
+A. Ar\u00e9ola,\u00c1. di Mar\u00eda,2
+\u00c1. di Mar\u00eda,L. Kurzawa,2
+P. Kimpembe,L. Kurzawa,2
+\u00c1. di Mar\u00eda,A. Rabiot,2
+G. Lo Celso,P. Kimpembe,2
+Marquinhos,A. Rabiot,2
+P. Kimpembe,T. Meunier,2
+P. Kimpembe,Marquinhos,2
+P. Kimpembe,\u00c1. di Mar\u00eda,2
+T. Meunier,P. Kimpembe,2
+A. Ar\u00e9ola,L. Kurzawa,1
+T. Meunier,K. Mbapp\u00e9,1
+J. Pastore,T. Meunier,1
+G. Lo Celso,K. Mbapp\u00e9,1
+J. Pastore,A. Ar\u00e9ola,1
+K. Mbapp\u00e9,Marquinhos,1
+L. Kurzawa,T. Meunier,1
+L. Kurzawa,P. Kimpembe,1
+P. Kimpembe,G. Lo Celso,1
+K. Mbapp\u00e9,\u00c1. di Mar\u00eda,1
+T. Meunier,L. Kurzawa,1
+Marquinhos,A. Ar\u00e9ola,1
+Marquinhos,G. Lo Celso,1
+A. Ar\u00e9ola,T. Meunier,1
+J. Pastore,Marquinhos,1
+Marquinhos,J. Pastore,1
+A. Rabiot,A. Ar\u00e9ola,1
+\u00c1. di Mar\u00eda,Marquinhos,1
+G. Lo Celso,\u00c1. di Mar\u00eda,1

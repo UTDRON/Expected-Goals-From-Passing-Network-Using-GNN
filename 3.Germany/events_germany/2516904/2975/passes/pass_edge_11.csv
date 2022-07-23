@@ -1,0 +1,15 @@
+Source,Target,Weight
+D. Upamecano,Bernardo,2
+W. Orban,D. Upamecano,2
+K. Laimer,W. Orban,1
+T. Werner,W. Orban,1
+M. Sabitzer,Y. Poulsen,1
+K. Kampl,J. Augustin,1
+J. Augustin,W. Orban,1
+Bernardo,M. Sabitzer,1
+P. Gul\u00e1csi,K. Laimer,1
+Bernardo,K. Kampl,1
+K. Kampl,P. Gul\u00e1csi,1
+W. Orban,Bernardo,1
+Bernardo,K. Laimer,1
+K. Laimer,T. Werner,1

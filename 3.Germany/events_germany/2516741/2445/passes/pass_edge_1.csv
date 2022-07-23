@@ -1,0 +1,52 @@
+Source,Target,Weight
+M. Kami\u0144ski,Ailton,4
+B. Pavard,M. Kami\u0144ski,4
+Ailton,O. Mangala,3
+B. Pavard,M. Zimmermann,3
+O. Mangala,B. Pavard,3
+M. Zimmermann,C. Akolo,2
+O. Mangala,Ailton,2
+M. Kami\u0144ski,R. Zieler,2
+T. Asano,M. Zimmermann,2
+C. Akolo,T. Asano,2
+Ailton,M. Kami\u0144ski,2
+J. Brekalo,C. Gentner,2
+M. Zimmermann,B. Pavard,2
+Ailton,B. Pavard,2
+Ailton,C. Gentner,2
+C. Gentner,Ailton,2
+B. Pavard,J. Brekalo,1
+R. Zieler,C. Gentner,1
+C. Akolo,O. Mangala,1
+R. Zieler,Ailton,1
+M. Kami\u0144ski,C. Gentner,1
+M. Zimmermann,O. Mangala,1
+S. Terodde,O. Mangala,1
+S. Terodde,C. Akolo,1
+C. Gentner,B. Pavard,1
+B. Pavard,O. Mangala,1
+C. Gentner,M. Zimmermann,1
+S. Terodde,T. Asano,1
+C. Gentner,T. Asano,1
+M. Zimmermann,J. Brekalo,1
+C. Gentner,M. Kami\u0144ski,1
+C. Gentner,C. Akolo,1
+M. Kami\u0144ski,B. Pavard,1
+Ailton,R. Zieler,1
+B. Pavard,T. Asano,1
+S. Terodde,Ailton,1
+M. Zimmermann,Ailton,1
+S. Terodde,M. Zimmermann,1
+Ailton,S. Terodde,1
+T. Asano,B. Pavard,1
+T. Asano,S. Terodde,1
+J. Brekalo,Ailton,1
+M. Zimmermann,C. Gentner,1
+O. Mangala,M. Zimmermann,1
+M. Zimmermann,S. Terodde,1
+C. Gentner,S. Terodde,1
+T. Asano,M. Kami\u0144ski,1
+Ailton,J. Brekalo,1
+O. Mangala,C. Gentner,1
+Ailton,M. Zimmermann,1
+R. Zieler,S. Terodde,1

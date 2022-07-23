@@ -1,0 +1,39 @@
+Source,Target,Weight
+Andrei Girotto,J. Kayembe,5
+Andrei Girotto,L. Dubois,5
+L. Dubois,Andrei Girotto,5
+J. Kayembe,L. Dubois,4
+V. Rongier,Andrei Girotto,3
+Lucas Lima,Y. El Ghanassy,3
+L. Dubois,V. Rongier,2
+Y. El Ghanassy,Andrei Girotto,2
+Y. El Ghanassy,V. Rongier,2
+E. Sala,Diego Carlos,2
+Y. El Ghanassy,N. Pallois,2
+Y. El Ghanassy,L. Dubois,1
+Diego Carlos,N. Pallois,1
+J. Kayembe,N. Pallois,1
+C. T\u0103t\u0103ru\u0219anu,S. Ngom,1
+V. Rongier,Lucas Lima,1
+N. Pallois,L. Dubois,1
+E. Sala,Andrei Girotto,1
+L. Dubois,Lucas Lima,1
+N. Pallois,E. Sala,1
+J. Kayembe,Andrei Girotto,1
+Diego Carlos,V. Rongier,1
+S. Ngom,Y. El Ghanassy,1
+Diego Carlos,Lucas Lima,1
+V. Rongier,Y. El Ghanassy,1
+N. Pallois,Y. El Ghanassy,1
+N. Pallois,V. Rongier,1
+Andrei Girotto,E. Sala,1
+L. Dubois,J. Kayembe,1
+N. Pallois,Lucas Lima,1
+L. Dubois,E. Sala,1
+L. Dubois,N. Pallois,1
+Andrei Girotto,Y. El Ghanassy,1
+Lucas Lima,Diego Carlos,1
+Andrei Girotto,S. Ngom,1
+Diego Carlos,Andrei Girotto,1
+V. Rongier,C. T\u0103t\u0103ru\u0219anu,1
+S. Ngom,Andrei Girotto,1

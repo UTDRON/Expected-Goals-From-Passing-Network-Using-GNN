@@ -1,0 +1,22 @@
+Source,Target,Weight
+S. Yago,C. Jean,2
+A. Delort,J. Durmaz,2
+Y. Cahuzac,M. Gradel,2
+A. Lafont,I. Diop,1
+S. Yago,M. Gradel,1
+A. Blin,Y. Cahuzac,1
+J. Durmaz,A. Delort,1
+A. Lafont,A. Blin,1
+I. Diop,A. Lafont,1
+J. Durmaz,Y. Cahuzac,1
+M. Gradel,S. Yago,1
+J. Durmaz,M. Gradel,1
+C. Jean,A. Lafont,1
+M. Gradel,J. Durmaz,1
+C. Jullien,S. Yago,1
+M. Gradel,A. Blin,1
+A. Delort,C. Jullien,1
+J. Durmaz,I. Diop,1
+C. Jean,S. Yago,1
+A. Blin,J. Durmaz,1
+I. Diop,A. Delort,1

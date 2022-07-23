@@ -1,0 +1,20 @@
+Source,Target,Weight
+F. Mendy,N. Fekir,4
+J. Morel,F. Mendy,2
+N. Fekir,H. Aouar,2
+H. Aouar,F. Mendy,2
+Marcelo,F. Mendy,2
+F. Mendy,H. Aouar,2
+Rafael,M. Cornet,2
+Mariano D\u00edaz,N. Fekir,1
+H. Aouar,N. Fekir,1
+Marcelo,J. Morel,1
+N. Fekir,Marcelo,1
+N. Fekir,Mariano D\u00edaz,1
+N. Fekir,F. Mendy,1
+H. Aouar,Rafael,1
+N. Fekir,M. Cornet,1
+M. Cornet,Rafael,1
+H. Aouar,J. Morel,1
+M. Cornet,H. Aouar,1
+M. Cornet,Marcelo,1

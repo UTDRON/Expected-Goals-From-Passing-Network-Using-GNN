@@ -1,0 +1,12 @@
+Source,Target,Weight
+J. Hofmann,D. Zakaria,2
+C. Kramer,Raffael,2
+Raffael,J. Hofmann,2
+Y. Sommer,M. Ginter,1
+Raffael,M. Ginter,1
+M. Ginter,J. Drmic,1
+C. Kramer,Y. Sommer,1
+D. Zakaria,C. Kramer,1
+J. Vestergaard,C. Kramer,1
+M. Ginter,J. Vestergaard,1
+J. Drmic,Raffael,1

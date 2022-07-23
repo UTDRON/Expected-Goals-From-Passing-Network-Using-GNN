@@ -1,0 +1,102 @@
+Source,Target,Weight
+J. Brekalo,P. Verhaegh,9
+R. Knoche,J. Bruma,9
+R. Knoche,William,8
+M. Arnold,R. Knoche,7
+P. Verhaegh,J. Brekalo,6
+J. Guilavogui,R. Knoche,6
+P. Verhaegh,M. Arnold,6
+A. Mehmedi,William,6
+K. Casteels,J. Brekalo,5
+D. Origi,William,5
+M. Arnold,D. Didavi,5
+M. Arnold,William,5
+A. Mehmedi,M. Arnold,5
+William,J. Bruma,5
+J. Bruma,P. Verhaegh,5
+D. Didavi,R. Knoche,5
+William,J. Guilavogui,5
+William,A. Mehmedi,5
+D. Didavi,A. Mehmedi,4
+J. Guilavogui,J. Brekalo,4
+J. Bruma,R. Knoche,4
+M. Arnold,J. Guilavogui,4
+J. Brekalo,J. Guilavogui,4
+J. Brekalo,D. Didavi,4
+R. Knoche,K. Casteels,4
+J. Bruma,K. Casteels,4
+William,R. Knoche,4
+J. Bruma,M. Arnold,4
+P. Verhaegh,D. Didavi,4
+William,D. Didavi,4
+R. Knoche,A. Mehmedi,4
+D. Didavi,D. Origi,4
+R. Knoche,M. Arnold,4
+M. Arnold,P. Verhaegh,4
+William,K. Casteels,3
+P. Verhaegh,J. Guilavogui,3
+D. Didavi,M. Arnold,3
+A. Mehmedi,R. Knoche,3
+A. Mehmedi,J. Brekalo,3
+D. Didavi,J. Brekalo,3
+J. Guilavogui,P. Verhaegh,3
+William,M. Arnold,3
+R. Knoche,J. Guilavogui,3
+D. Origi,J. Brekalo,3
+R. Knoche,D. Didavi,3
+P. Verhaegh,R. Knoche,3
+J. Brekalo,R. Knoche,3
+K. Casteels,J. Bruma,3
+P. Verhaegh,J. Bruma,3
+K. Casteels,D. Origi,2
+K. Casteels,M. Arnold,2
+J. Bruma,D. Origi,2
+D. Origi,R. Knoche,2
+D. Didavi,P. Verhaegh,2
+J. Bruma,William,2
+J. Brekalo,A. Mehmedi,2
+D. Origi,D. Didavi,2
+D. Didavi,K. Casteels,2
+J. Bruma,J. Guilavogui,2
+R. Knoche,P. Verhaegh,2
+J. Guilavogui,M. Arnold,2
+J. Brekalo,J. Bruma,2
+K. Casteels,D. Didavi,2
+P. Verhaegh,D. Origi,2
+D. Origi,A. Mehmedi,2
+K. Casteels,P. Verhaegh,2
+D. Didavi,William,2
+J. Guilavogui,D. Didavi,2
+J. Guilavogui,D. Origi,2
+D. Didavi,J. Guilavogui,2
+P. Verhaegh,A. Mehmedi,2
+J. Guilavogui,William,2
+A. Mehmedi,P. Verhaegh,2
+M. Arnold,D. Origi,2
+J. Brekalo,D. Origi,1
+A. Mehmedi,K. Casteels,1
+R. Knoche,D. Origi,1
+J. Bruma,A. Mehmedi,1
+A. Mehmedi,D. Origi,1
+A. Mehmedi,J. Bruma,1
+D. Origi,M. Arnold,1
+D. Origi,P. Verhaegh,1
+P. Verhaegh,K. Casteels,1
+K. Casteels,R. Knoche,1
+J. Brekalo,K. Casteels,1
+A. Mehmedi,D. Didavi,1
+M. Arnold,J. Brekalo,1
+M. Arnold,K. Casteels,1
+J. Guilavogui,K. Casteels,1
+J. Bruma,D. Didavi,1
+K. Casteels,A. Mehmedi,1
+M. Arnold,A. Mehmedi,1
+J. Guilavogui,J. Bruma,1
+J. Bruma,J. Brekalo,1
+William,D. Origi,1
+William,J. Brekalo,1
+P. Verhaegh,William,1
+D. Origi,J. Bruma,1
+William,P. Verhaegh,1
+D. Didavi,J. Bruma,1
+J. Brekalo,William,1

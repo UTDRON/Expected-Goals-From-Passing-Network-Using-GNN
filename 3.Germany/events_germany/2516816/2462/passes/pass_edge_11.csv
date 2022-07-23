@@ -1,0 +1,16 @@
+Source,Target,Weight
+B. Hrgota,C. Salcedo,1
+C. Salcedo,B. Hrgota,1
+J. Willems,K. Boateng,1
+M. Wolf,C. Salcedo,1
+J. Willems,S. Haller,1
+S. Haller,B. Hrgota,1
+B. Hrgota,M. Wolf,1
+K. Boateng,B. Hrgota,1
+K. Boateng,M. Wolf,1
+M. Wolf,K. Boateng,1
+C. Salcedo,K. Boateng,1
+B. Hrgota,J. Willems,1
+K. Boateng,S. Haller,1
+S. Haller,C. Salcedo,1
+C. Salcedo,A. Rebi\u0107,1

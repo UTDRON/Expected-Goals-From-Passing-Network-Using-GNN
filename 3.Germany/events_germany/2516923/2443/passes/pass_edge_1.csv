@@ -1,0 +1,41 @@
+Source,Target,Weight
+N. Moisander,M. Veljkovic,4
+N. Moisander,L. Augustinsson,3
+M. Veljkovic,N. Moisander,3
+M. Veljkovic,T. Gebre Selassie,3
+T. Delaney,N. Moisander,3
+I. Belfodil,T. Gebre Selassie,2
+M. Kruse,M. Rashica,2
+J. Pavlenka,N. Moisander,2
+M. Veljkovic,T. Delaney,2
+T. Delaney,M. Veljkovic,2
+L. Augustinsson,N. Moisander,2
+T. Gebre Selassie,M. Rashica,2
+T. Gebre Selassie,M. Eggestein,2
+M. Rashica,T. Gebre Selassie,2
+T. Gebre Selassie,M. Veljkovic,2
+N. Moisander,T. Delaney,2
+T. Delaney,J. Pavlenka,2
+M. Rashica,M. Kruse,1
+M. Eggestein,M. Veljkovic,1
+M. Kruse,T. Delaney,1
+M. Kruse,T. Gebre Selassie,1
+J. Gondorf,M. Eggestein,1
+M. Eggestein,M. Kruse,1
+M. Veljkovic,M. Eggestein,1
+M. Eggestein,N. Moisander,1
+L. Augustinsson,T. Gebre Selassie,1
+J. Pavlenka,M. Veljkovic,1
+M. Veljkovic,L. Augustinsson,1
+T. Gebre Selassie,M. Kruse,1
+T. Gebre Selassie,J. Gondorf,1
+M. Veljkovic,J. Pavlenka,1
+M. Eggestein,T. Delaney,1
+N. Moisander,J. Gondorf,1
+T. Gebre Selassie,T. Delaney,1
+N. Moisander,I. Belfodil,1
+M. Kruse,M. Veljkovic,1
+L. Augustinsson,J. Gondorf,1
+J. Gondorf,L. Augustinsson,1
+J. Gondorf,I. Belfodil,1
+L. Augustinsson,M. Kruse,1

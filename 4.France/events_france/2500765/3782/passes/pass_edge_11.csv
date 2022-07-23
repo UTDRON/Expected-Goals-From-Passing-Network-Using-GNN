@@ -1,0 +1,30 @@
+Source,Target,Weight
+S. Janko,R. Cabella,3
+R. Pierre-Gabriel,J. Bamba,3
+Hernani,R. Hamouma,2
+R. Cabella,J. Bamba,2
+R. Cabella,S. Janko,2
+R. Hamouma,R. Cabella,2
+K. Th\u00e9ophile Catherine,S. Janko,2
+J. Bamba,R. Pierre-Gabriel,1
+S. Janko,A. S\u00f8derlund,1
+Hernani,S. Janko,1
+V. Pajot,S. Janko,1
+L. Diony,K. Th\u00e9ophile Catherine,1
+J. Bamba,Hernani,1
+R. Cabella,K. Th\u00e9ophile Catherine,1
+Hernani,R. Cabella,1
+J. Bamba,R. Cabella,1
+R. Cabella,Hernani,1
+J. Bamba,K. Th\u00e9ophile Catherine,1
+S. Janko,Hernani,1
+R. Hamouma,L. Diony,1
+J. Bamba,V. Pajot,1
+J. Bamba,S. Janko,1
+A. S\u00f8derlund,J. Bamba,1
+S. Janko,K. Th\u00e9ophile Catherine,1
+K. Th\u00e9ophile Catherine,R. Hamouma,1
+K. Th\u00e9ophile Catherine,R. Pierre-Gabriel,1
+S. Janko,L. Diony,1
+V. Pajot,R. Pierre-Gabriel,1
+L. Diony,Hernani,1

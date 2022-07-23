@@ -1,0 +1,17 @@
+Source,Target,Weight
+J. Durmaz,I. Sylla,2
+I. Sylla,J. Durmaz,2
+I. Sylla,K. Amian,1
+C. Jean,I. Sangar\u00e9,1
+A. Lafont,K. Amian,1
+G. Imbula,Y. Cahuzac,1
+A. Lafont,C. Jean,1
+C. Jean,S. Yago,1
+I. Sangar\u00e9,G. Imbula,1
+K. Amian,I. Sylla,1
+K. Amian,I. Diop,1
+I. Sylla,G. Imbula,1
+S. Yago,A. Lafont,1
+I. Diop,S. Yago,1
+S. Yago,C. Jean,1
+Y. Cahuzac,I. Sylla,1

@@ -1,0 +1,38 @@
+Source,Target,Weight
+A. Hunt,Walace,2
+Walace,C. Mathenia,2
+Walace,Douglas Santos,2
+G. Sakai,A. Hunt,2
+G. Jung,G. Sakai,2
+G. Sakai,G. Jung,2
+A. Hunt,B. Jatta,2
+C. Mathenia,S. Schipplock,1
+C. Mathenia,K. Papadopoulos,1
+Douglas Santos,A. Hunt,1
+R. van Drongelen,G. Jung,1
+B. Jatta,Douglas Santos,1
+S. Schipplock,G. Sakai,1
+Douglas Santos,R. van Drongelen,1
+G. Jung,K. Papadopoulos,1
+G. Jung,B. Jatta,1
+R. van Drongelen,K. Papadopoulos,1
+R. van Drongelen,Douglas Santos,1
+B. Jatta,G. Sakai,1
+K. Papadopoulos,G. Jung,1
+K. Papadopoulos,G. Sakai,1
+K. Papadopoulos,C. Mathenia,1
+G. Sakai,C. Mathenia,1
+B. Jatta,A. Hunt,1
+K. Papadopoulos,B. Jatta,1
+K. Papadopoulos,Walace,1
+Walace,K. Papadopoulos,1
+B. Jatta,Walace,1
+C. Mathenia,A. Hunt,1
+A. Hunt,K. Papadopoulos,1
+Douglas Santos,F. Kosti\u0107,1
+A. Hunt,S. Schipplock,1
+Douglas Santos,G. Sakai,1
+G. Sakai,Walace,1
+F. Kosti\u0107,Walace,1
+S. Schipplock,A. Hunt,1
+C. Mathenia,R. van Drongelen,1

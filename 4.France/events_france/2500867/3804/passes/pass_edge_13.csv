@@ -1,0 +1,83 @@
+Source,Target,Weight
+V. Rosier,M. Abeid,8
+V. Rosier,F. Sammaritano,6
+Xeka,\u00c1. Lang,5
+M. Abeid,Xeka,5
+F. Sammaritano,V. Rosier,5
+M. Abeid,\u00c1. Lang,4
+P. Djilobodji,B. Reynet,4
+M. Abeid,V. Rosier,4
+M. Abeid,P. Djilobodji,4
+A. Bouka Moutou,Xeka,4
+Xeka,N. Sliti,3
+W. Sa\u00efd,A. Bouka Moutou,3
+A. Bouka Moutou,P. Djilobodji,3
+Xeka,B. Reynet,3
+P. Djilobodji,A. Bouka Moutou,3
+Xeka,M. Abeid,3
+M. Abeid,A. Bouka Moutou,3
+N. Sliti,Xeka,3
+F. Sammaritano,W. Sa\u00efd,3
+F. Sammaritano,Xeka,3
+Xeka,V. Rosier,3
+W. Sa\u00efd,P. Djilobodji,3
+B. Reynet,M. Abeid,3
+P. Djilobodji,Xeka,3
+B. Jeannot,V. Rosier,2
+A. Bouka Moutou,B. Jeannot,2
+W. Sa\u00efd,Xeka,2
+F. Sammaritano,B. Jeannot,2
+P. Djilobodji,B. Jeannot,2
+M. Abeid,N. Sliti,2
+Xeka,F. Sammaritano,2
+\u00c1. Lang,B. Reynet,2
+\u00c1. Lang,Xeka,2
+Xeka,W. Sa\u00efd,2
+\u00c1. Lang,M. Abeid,2
+P. Djilobodji,M. Abeid,2
+Xeka,P. Djilobodji,2
+N. Sliti,M. Abeid,2
+N. Sliti,F. Sammaritano,2
+A. Bouka Moutou,W. Sa\u00efd,2
+\u00c1. Lang,P. Djilobodji,2
+\u00c1. Lang,F. Sammaritano,2
+B. Jeannot,A. Bouka Moutou,2
+B. Jeannot,M. Abeid,2
+P. Djilobodji,F. Sammaritano,2
+N. Sliti,V. Rosier,1
+F. Sammaritano,N. Sliti,1
+B. Reynet,W. Sa\u00efd,1
+A. Bouka Moutou,\u00c1. Lang,1
+Xeka,A. Bouka Moutou,1
+P. Djilobodji,N. Sliti,1
+B. Reynet,V. Rosier,1
+M. Abeid,W. Sa\u00efd,1
+Xeka,B. Jeannot,1
+W. Sa\u00efd,F. Sammaritano,1
+B. Reynet,B. Jeannot,1
+W. Sa\u00efd,M. Abeid,1
+V. Rosier,N. Sliti,1
+\u00c1. Lang,W. Sa\u00efd,1
+\u00c1. Lang,B. Jeannot,1
+B. Reynet,P. Djilobodji,1
+W. Sa\u00efd,V. Rosier,1
+A. Bouka Moutou,N. Sliti,1
+V. Rosier,P. Djilobodji,1
+B. Reynet,A. Bouka Moutou,1
+F. Sammaritano,\u00c1. Lang,1
+F. Sammaritano,A. Bouka Moutou,1
+A. Bouka Moutou,F. Sammaritano,1
+N. Sliti,P. Djilobodji,1
+V. Rosier,\u00c1. Lang,1
+A. Bouka Moutou,B. Reynet,1
+N. Sliti,W. Sa\u00efd,1
+W. Sa\u00efd,N. Sliti,1
+B. Reynet,Xeka,1
+\u00c1. Lang,V. Rosier,1
+V. Rosier,Xeka,1
+F. Sammaritano,M. Abeid,1
+B. Jeannot,N. Sliti,1
+B. Reynet,\u00c1. Lang,1
+B. Jeannot,F. Sammaritano,1
+B. Jeannot,Xeka,1
+N. Sliti,A. Bouka Moutou,1

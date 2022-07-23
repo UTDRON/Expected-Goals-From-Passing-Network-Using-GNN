@@ -1,0 +1,26 @@
+Source,Target,Weight
+Diego Carlos,G. Gillet,3
+G. Gillet,N. Pallois,2
+N. Pallois,Diego Carlos,2
+G. Gillet,Diego Carlos,2
+E. Sala,G. Gillet,1
+A. Thomasson,C. Awaziem,1
+M. Dup\u00e9,E. Sala,1
+A. Ka\u010danikli\u0107,L. Dubois,1
+P. Nakoulma,E. Sala,1
+V. Rongier,A. Ka\u010danikli\u0107,1
+A. Ka\u010danikli\u0107,V. Rongier,1
+E. Sala,P. Nakoulma,1
+G. Gillet,V. Rongier,1
+E. Sala,V. Rongier,1
+P. Nakoulma,V. Rongier,1
+N. Pallois,A. Thomasson,1
+L. Dubois,P. Nakoulma,1
+C. Awaziem,E. Sala,1
+V. Rongier,G. Gillet,1
+P. Nakoulma,G. Gillet,1
+V. Rongier,A. Thomasson,1
+G. Gillet,L. Dubois,1
+Diego Carlos,M. Dup\u00e9,1
+A. Thomasson,P. Nakoulma,1
+L. Dubois,A. Ka\u010danikli\u0107,1

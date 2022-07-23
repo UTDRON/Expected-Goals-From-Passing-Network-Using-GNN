@@ -1,0 +1,24 @@
+Source,Target,Weight
+Naldo,F. Di Santo,2
+F. Di Santo,A. Sch\u00f6pf,2
+B. Embolo,A. Sch\u00f6pf,2
+A. Sch\u00f6pf,F. Di Santo,1
+A. Sch\u00f6pf,M. Nastasi\u0107,1
+A. Sch\u00f6pf,R. F\u00e4hrmann,1
+B. Stambouli,B. Embolo,1
+D. Caligiuri,A. Sch\u00f6pf,1
+Naldo,A. Sch\u00f6pf,1
+F. Di Santo,B. Stambouli,1
+R. F\u00e4hrmann,G. Burgstaller,1
+A. Sch\u00f6pf,D. Caligiuri,1
+D. Caligiuri,Naldo,1
+M. Nastasi\u0107,G. Burgstaller,1
+G. Burgstaller,B. Embolo,1
+G. Burgstaller,L. Goretzka,1
+F. Di Santo,D. Caligiuri,1
+M. Nastasi\u0107,F. Di Santo,1
+B. Embolo,G. Burgstaller,1
+L. Goretzka,T. Kehrer,1
+A. Sch\u00f6pf,B. Embolo,1
+A. Sch\u00f6pf,Naldo,1
+T. Kehrer,Naldo,1

@@ -1,0 +1,31 @@
+Source,Target,Weight
+Xeka,P. Djilobodji,3
+P. Djilobodji,B. Reynet,3
+F. Sammaritano,O. Haddadi,3
+B. Reynet,P. Djilobodji,3
+C. Yamber\u00e9,B. Reynet,2
+B. Reynet,C. Yamber\u00e9,2
+P. Djilobodji,R. Amalfitano,2
+F. Sammaritano,R. Amalfitano,1
+C. Yamber\u00e9,J\u00falio Tavares,1
+Xeka,F. Sammaritano,1
+R. Amalfitano,Xeka,1
+Xeka,B. Reynet,1
+V. Rosier,R. Amalfitano,1
+R. Amalfitano,B. Reynet,1
+J\u00falio Tavares,F. Sammaritano,1
+O. Haddadi,P. Djilobodji,1
+B. Reynet,O. Haddadi,1
+P. Djilobodji,C. Yamber\u00e9,1
+O. Haddadi,F. Sammaritano,1
+J\u00falio Tavares,V. Rosier,1
+B. Reynet,Xeka,1
+C. Yamber\u00e9,V. Rosier,1
+O. Haddadi,Xeka,1
+O. Haddadi,J. Mari\u00e9,1
+P. Djilobodji,J\u00falio Tavares,1
+R. Amalfitano,C. Yamber\u00e9,1
+J. Mari\u00e9,R. Amalfitano,1
+R. Amalfitano,V. Rosier,1
+V. Rosier,Xeka,1
+V. Rosier,F. Sammaritano,1

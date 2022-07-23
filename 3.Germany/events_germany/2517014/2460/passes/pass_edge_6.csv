@@ -1,0 +1,96 @@
+Source,Target,Weight
+A. Diallo,A. Maxim,7
+A. Diallo,D. Latza,7
+J. Gbamin,G. Donati,6
+D. Latza,A. Diallo,6
+A. Diallo,P. De Blasis,6
+G. Donati,L. \u00d6ztunali,6
+N. de Jong,P. De Blasis,6
+N. de Jong,J. Gbamin,5
+J. Gbamin,A. Hack,5
+A. Hack,J. Gbamin,5
+P. De Blasis,A. Maxim,5
+A. Hack,N. de Jong,4
+P. De Blasis,A. Hack,4
+A. Maxim,P. De Blasis,4
+P. De Blasis,J. Gbamin,4
+A. Maxim,A. Diallo,4
+R. Adler,N. de Jong,3
+L. \u00d6ztunali,G. Donati,3
+R. Adler,J. Gbamin,3
+G. Donati,A. Hack,3
+A. Diallo,A. Hack,3
+A. Hack,A. Maxim,3
+N. de Jong,A. Diallo,3
+P. De Blasis,D. Latza,3
+A. Hack,G. Donati,3
+A. Hack,A. Diallo,3
+R. Adler,A. Hack,3
+D. Latza,P. De Blasis,3
+A. Hack,R. Adler,3
+J. Gbamin,A. Diallo,3
+G. Donati,S. Serdar,3
+J. Gbamin,N. de Jong,3
+R. Adler,A. Diallo,3
+P. De Blasis,G. Donati,3
+J. Gbamin,R. Adler,2
+G. Donati,R. Adler,2
+P. De Blasis,N. de Jong,2
+D. Latza,A. Hack,2
+S. Serdar,J. Gbamin,2
+A. Maxim,G. Donati,2
+P. De Blasis,A. Diallo,2
+L. \u00d6ztunali,S. Serdar,2
+L. \u00d6ztunali,A. Hack,2
+L. \u00d6ztunali,P. De Blasis,2
+S. Serdar,D. Latza,2
+S. Serdar,G. Donati,2
+A. Maxim,A. Hack,2
+A. Hack,S. Serdar,2
+A. Ujah,L. \u00d6ztunali,2
+S. Serdar,A. Diallo,2
+G. Donati,P. De Blasis,2
+A. Diallo,R. Adler,2
+G. Donati,J. Gbamin,2
+A. Maxim,R. Adler,2
+S. Serdar,N. de Jong,2
+N. de Jong,D. Latza,2
+D. Latza,N. de Jong,2
+D. Latza,R. Adler,2
+A. Diallo,R. Quaison,1
+S. Serdar,A. Maxim,1
+A. Hack,P. De Blasis,1
+P. De Blasis,L. \u00d6ztunali,1
+G. Donati,D. Latza,1
+P. De Blasis,S. Serdar,1
+A. Maxim,N. de Jong,1
+A. Hack,A. Ujah,1
+N. de Jong,A. Hack,1
+A. Diallo,J. Gbamin,1
+A. Maxim,L. \u00d6ztunali,1
+G. Donati,N. de Jong,1
+Y. Muto,P. De Blasis,1
+D. Latza,A. Ujah,1
+S. Serdar,L. \u00d6ztunali,1
+N. de Jong,Y. Muto,1
+A. Ujah,A. Hack,1
+R. Quaison,S. Serdar,1
+G. Donati,A. Maxim,1
+J. Gbamin,A. Ujah,1
+N. de Jong,R. Adler,1
+A. Maxim,S. Serdar,1
+L. \u00d6ztunali,A. Diallo,1
+A. Hack,R. Quaison,1
+L. \u00d6ztunali,N. de Jong,1
+J. Gbamin,L. \u00d6ztunali,1
+R. Quaison,A. Diallo,1
+R. Adler,G. Donati,1
+D. Latza,S. Serdar,1
+J. Gbamin,S. Serdar,1
+J. Gbamin,D. Latza,1
+P. De Blasis,A. Ujah,1
+A. Ujah,P. De Blasis,1
+R. Adler,A. Ujah,1
+A. Diallo,G. Donati,1
+A. Hack,D. Latza,1
+A. Ujah,J. Gbamin,1

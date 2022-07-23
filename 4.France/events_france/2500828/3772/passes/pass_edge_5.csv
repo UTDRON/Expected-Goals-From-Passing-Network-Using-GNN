@@ -1,0 +1,19 @@
+Source,Target,Weight
+V. Vada,Malcom,4
+Malcom,V. Vada,3
+Ot\u00e1vio,V. Vada,3
+J. Toulalan,Y. Sabaly,2
+Y. Sabaly,V. Vada,2
+J. Toulalan,L. Lerager,2
+L. Lerager,Ot\u00e1vio,2
+V. Vada,Jonathan Cafu,1
+L. Lerager,J. Toulalan,1
+Jonathan Cafu,V. Vada,1
+Y. Sabaly,J. Toulalan,1
+V. Vada,Ot\u00e1vio,1
+Malcom,L. Lerager,1
+V. Vada,B. Costil,1
+Jonathan Cafu,J. Toulalan,1
+B. Costil,Y. Sabaly,1
+V. Vada,Y. Sabaly,1
+Y. Sabaly,Jonathan Cafu,1

@@ -1,0 +1,17 @@
+Source,Target,Weight
+Bruma,K. Laimer,2
+Bruma,Bernardo,1
+S. Ilsanker,L. Klostermann,1
+S. Ilsanker,D. Upamecano,1
+N. Ke\u00efta,T. Werner,1
+D. Upamecano,Bruma,1
+L. Klostermann,N. Ke\u00efta,1
+T. Werner,Bruma,1
+D. Upamecano,Bernardo,1
+Bernardo,T. Werner,1
+Bernardo,Bruma,1
+E. Forsberg,T. Werner,1
+K. Laimer,S. Ilsanker,1
+K. Laimer,L. Klostermann,1
+L. Klostermann,S. Ilsanker,1
+T. Werner,E. Forsberg,1

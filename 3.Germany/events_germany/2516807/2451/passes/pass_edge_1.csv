@@ -1,0 +1,86 @@
+Source,Target,Weight
+Y. Gerhardt,M. Arnold,9
+Y. Mall\u0131,Y. Gerhardt,7
+Y. Gerhardt,M. Tisserand,5
+M. Tisserand,P. Verhaegh,5
+Camacho,P. Verhaegh,5
+M. Arnold,Camacho,5
+M. Tisserand,Y. Gerhardt,5
+J. Guilavogui,P. Verhaegh,5
+Y. Gerhardt,Camacho,5
+J. Guilavogui,M. Tisserand,5
+M. Arnold,Y. Gerhardt,4
+M. Tisserand,J. Guilavogui,4
+Y. Gerhardt,Y. Mall\u0131,4
+J. Guilavogui,Y. Gerhardt,4
+P. Verhaegh,M. Tisserand,4
+F. Uduokhai,M. Tisserand,4
+J. B\u0142aszczykowski,P. Verhaegh,4
+K. Casteels,M. Tisserand,4
+F. Uduokhai,K. Casteels,4
+P. Verhaegh,J. B\u0142aszczykowski,4
+K. Casteels,F. Uduokhai,4
+Camacho,Y. Gerhardt,4
+F. Uduokhai,Camacho,4
+M. Arnold,F. Uduokhai,4
+Camacho,Y. Mall\u0131,4
+D. Origi,M. Arnold,4
+P. Verhaegh,K. Casteels,3
+M. Tisserand,F. Uduokhai,3
+P. Verhaegh,F. Uduokhai,3
+M. Arnold,J. Guilavogui,3
+M. Arnold,D. Origi,3
+Y. Gerhardt,F. Uduokhai,3
+D. Origi,Camacho,3
+K. Casteels,D. Origi,3
+F. Uduokhai,Y. Gerhardt,3
+Camacho,M. Arnold,3
+Camacho,F. Uduokhai,3
+F. Uduokhai,J. Guilavogui,3
+P. Verhaegh,J. Guilavogui,2
+Y. Mall\u0131,J. Guilavogui,2
+J. Guilavogui,Camacho,2
+Y. Gerhardt,K. Casteels,2
+Camacho,J. B\u0142aszczykowski,2
+M. Tisserand,K. Casteels,2
+M. Tisserand,M. Arnold,2
+P. Verhaegh,D. Origi,2
+Camacho,J. Guilavogui,2
+M. Arnold,K. Casteels,2
+J. B\u0142aszczykowski,K. Casteels,2
+J. B\u0142aszczykowski,J. Guilavogui,2
+K. Casteels,Camacho,2
+Y. Mall\u0131,M. Arnold,2
+M. Tisserand,J. B\u0142aszczykowski,2
+M. Tisserand,Camacho,2
+F. Uduokhai,M. Arnold,2
+M. Arnold,J. B\u0142aszczykowski,2
+F. Uduokhai,Y. Mall\u0131,2
+Camacho,M. Tisserand,2
+J. Guilavogui,D. Origi,2
+M. Arnold,Y. Mall\u0131,2
+D. Origi,J. Guilavogui,2
+D. Origi,Y. Gerhardt,2
+K. Casteels,Y. Mall\u0131,1
+J. Guilavogui,M. Arnold,1
+K. Casteels,Y. Gerhardt,1
+M. Arnold,M. Tisserand,1
+J. B\u0142aszczykowski,M. Tisserand,1
+D. Origi,Y. Mall\u0131,1
+Y. Mall\u0131,F. Uduokhai,1
+P. Verhaegh,M. Arnold,1
+J. Guilavogui,Y. Mall\u0131,1
+J. B\u0142aszczykowski,M. Arnold,1
+Y. Gerhardt,J. Guilavogui,1
+Y. Mall\u0131,P. Verhaegh,1
+P. Verhaegh,Camacho,1
+Y. Gerhardt,D. Origi,1
+F. Uduokhai,D. Origi,1
+J. B\u0142aszczykowski,F. Uduokhai,1
+Y. Mall\u0131,Camacho,1
+J. B\u0142aszczykowski,D. Origi,1
+K. Casteels,J. B\u0142aszczykowski,1
+D. Origi,J. B\u0142aszczykowski,1
+Y. Mall\u0131,K. Casteels,1
+D. Origi,F. Uduokhai,1
+M. Tisserand,D. Origi,1

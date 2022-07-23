@@ -1,0 +1,101 @@
+Source,Target,Weight
+R. Aguilar,N. Mukiele,10
+E. Skhiri,R. Aguilar,7
+N. Mukiele,E. Skhiri,6
+J. Roussillon,P. Lasne,6
+S. Camara,J. Roussillon,5
+R. Aguilar,E. Skhiri,5
+J. Roussillon,S. Camara,5
+S. Sess\u00e8gnon,N. Mukiele,4
+J. Roussillon,S. Sess\u00e8gnon,4
+P. Lasne,J. Roussillon,4
+N. Mukiele,R. Aguilar,4
+Pedro Mendes,J. Roussillon,4
+S. Sess\u00e8gnon,P. Lasne,3
+P. Lasne,S. Sess\u00e8gnon,3
+S. Sess\u00e8gnon,E. Skhiri,3
+S. Sess\u00e8gnon,J. Roussillon,3
+J. Roussillon,E. Skhiri,3
+Hilton,N. Mukiele,3
+R. Aguilar,Pedro Mendes,3
+E. Skhiri,Pedro Mendes,3
+D. Congr\u00e9,J. Roussillon,3
+N. Mukiele,Hilton,3
+E. Skhiri,N. Mukiele,3
+B. Lecomte,R. Aguilar,3
+P. Lasne,Pedro Mendes,2
+I. Mbenza,S. Sess\u00e8gnon,2
+S. Camara,N. Mukiele,2
+E. Skhiri,S. Sess\u00e8gnon,2
+E. Skhiri,I. Mbenza,2
+B. Lecomte,Hilton,2
+R. Aguilar,I. Mbenza,2
+Pedro Mendes,Hilton,2
+Hilton,B. Lecomte,2
+N. Mukiele,S. Sess\u00e8gnon,2
+J. Roussillon,D. Congr\u00e9,2
+R. Aguilar,B. Lecomte,2
+J. Roussillon,R. Aguilar,2
+Hilton,R. Aguilar,2
+Pedro Mendes,R. Aguilar,2
+N. Mukiele,J. Roussillon,2
+N. Mukiele,I. Mbenza,2
+S. Camara,E. Skhiri,2
+I. Mbenza,N. Mukiele,2
+Hilton,J. Roussillon,2
+P. Lasne,I. Mbenza,2
+Pedro Mendes,S. Camara,2
+P. Lasne,R. Aguilar,2
+N. Mukiele,P. Lasne,2
+B. Lecomte,S. Camara,2
+J. Roussillon,Hilton,2
+J. Roussillon,B. Lecomte,2
+Hilton,Pedro Mendes,2
+S. Sess\u00e8gnon,R. Aguilar,1
+G. Sio,E. Skhiri,1
+J. Roussillon,G. Sio,1
+Pedro Mendes,S. Sess\u00e8gnon,1
+I. Mbenza,G. Sio,1
+S. Camara,R. Aguilar,1
+G. Sio,S. Sess\u00e8gnon,1
+B. Lecomte,Pedro Mendes,1
+E. Skhiri,S. Camara,1
+P. Lasne,E. Skhiri,1
+Pedro Mendes,P. Lasne,1
+S. Camara,S. Sess\u00e8gnon,1
+Hilton,D. Congr\u00e9,1
+G. Sio,Hilton,1
+Pedro Mendes,G. Sio,1
+P. Lasne,G. Sio,1
+E. Skhiri,Hilton,1
+G. Sio,P. Lasne,1
+Pedro Mendes,I. Mbenza,1
+Hilton,S. Camara,1
+P. Lasne,Hilton,1
+R. Aguilar,J. Roussillon,1
+I. Mbenza,J. Roussillon,1
+J. Roussillon,Pedro Mendes,1
+P. Lasne,S. Camara,1
+S. Camara,P. Lasne,1
+S. Camara,Pedro Mendes,1
+B. Lecomte,J. Roussillon,1
+I. Mbenza,B. Lecomte,1
+S. Sess\u00e8gnon,Pedro Mendes,1
+E. Skhiri,J. Roussillon,1
+D. Congr\u00e9,Hilton,1
+I. Mbenza,S. Camara,1
+Hilton,P. Lasne,1
+N. Mukiele,Pedro Mendes,1
+G. Sio,R. Aguilar,1
+E. Skhiri,P. Lasne,1
+E. Skhiri,D. Congr\u00e9,1
+S. Sess\u00e8gnon,Hilton,1
+D. Congr\u00e9,I. Mbenza,1
+Hilton,S. Sess\u00e8gnon,1
+R. Aguilar,G. Sio,1
+S. Sess\u00e8gnon,D. Congr\u00e9,1
+I. Mbenza,P. Lasne,1
+N. Mukiele,B. Lecomte,1
+Pedro Mendes,B. Lecomte,1
+R. Aguilar,Hilton,1
+I. Mbenza,E. Skhiri,1

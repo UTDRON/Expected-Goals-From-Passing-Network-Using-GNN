@@ -1,0 +1,26 @@
+Source,Target,Weight
+C. Kerbrat,\u00c9. Didot,3
+\u00c9. Didot,C. Kerbrat,3
+C. Kerbrat,Pedro Rebocho,2
+M. Coco,J. Briand,2
+Pedro Rebocho,M. Coco,2
+\u00c9. Didot,Pedro Rebocho,2
+Y. Salibur,L. Deaux,1
+C. Grenier,J. Ikoko,1
+L. Deaux,C. Kerbrat,1
+F. Eboa Eboa,C. Kerbrat,1
+J. Briand,L. Deaux,1
+F. Eboa Eboa,Pedro Rebocho,1
+J. Ikoko,C. Kerbrat,1
+\u00c9. Didot,J. Briand,1
+Pedro Rebocho,\u00c9. Didot,1
+J. Briand,Y. Salibur,1
+L. Deaux,\u00c9. Didot,1
+C. Kerbrat,C. Grenier,1
+\u00c9. Didot,L. Deaux,1
+Pedro Rebocho,C. Kerbrat,1
+F. Eboa Eboa,\u00c9. Didot,1
+C. Grenier,\u00c9. Didot,1
+L. Deaux,C. Grenier,1
+Pedro Rebocho,F. Eboa Eboa,1
+C. Kerbrat,F. Eboa Eboa,1

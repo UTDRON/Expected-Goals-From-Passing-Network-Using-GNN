@@ -1,0 +1,15 @@
+Source,Target,Weight
+L. Blas,J. Briand,3
+L. Deaux,L. Blas,2
+L. Blas,L. Phiri,2
+J. Briand,L. Blas,2
+J. Briand,L. Phiri,1
+Y. Salibur,M. Diallo,1
+M. Diallo,L. Blas,1
+J. Briand,Y. Salibur,1
+M. Diallo,L. Deaux,1
+L. Phiri,J. Briand,1
+L. Phiri,L. Deaux,1
+L. Phiri,M. Diallo,1
+L. Deaux,M. Diallo,1
+M. Diallo,Y. Salibur,1

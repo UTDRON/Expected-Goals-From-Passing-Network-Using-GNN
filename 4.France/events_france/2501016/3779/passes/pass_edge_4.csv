@@ -1,0 +1,24 @@
+Source,Target,Weight
+B. Corgnet,D. Li\u00e9nard,3
+A. N'Dour,D. Li\u00e9nard,3
+D. Li\u00e9nard,A. N'Dour,3
+D. Li\u00e9nard,J. Martin,2
+A. Gon\u00e7alves,D. Foulquier,2
+J. Martin,B. Kon\u00e9,2
+D. Foulquier,B. Corgnet,1
+D. Foulquier,B. Kon\u00e9,1
+A. N'Dour,A. Gon\u00e7alves,1
+D. Li\u00e9nard,B. Corgnet,1
+A. Oukidja,J. Martin,1
+B. Corgnet,A. Gon\u00e7alves,1
+D. Foulquier,A. Gon\u00e7alves,1
+B. Kon\u00e9,D. Foulquier,1
+B. Kon\u00e9,A. N'Dour,1
+B. Kon\u00e9,A. Gon\u00e7alves,1
+A. Gon\u00e7alves,B. Corgnet,1
+A. Gon\u00e7alves,J. Martin,1
+J. Martin,J. Aholou,1
+D. Li\u00e9nard,J. Aholou,1
+J. Martin,B. Corgnet,1
+J. Aholou,D. Li\u00e9nard,1
+A. N'Dour,A. Oukidja,1

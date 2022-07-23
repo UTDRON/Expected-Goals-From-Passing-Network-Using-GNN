@@ -1,0 +1,13 @@
+Source,Target,Weight
+D. Origi,William,2
+R. Knoche,F. Uduokhai,2
+P. Jaeckel,R. Knoche,1
+Y. Mall\u0131,William,1
+William,M. Arnold,1
+Y. Mall\u0131,D. Origi,1
+F. Uduokhai,Y. Mall\u0131,1
+M. Arnold,P. Jaeckel,1
+William,Y. Mall\u0131,1
+F. Uduokhai,M. Arnold,1
+M. Arnold,F. Uduokhai,1
+F. Uduokhai,R. Knoche,1

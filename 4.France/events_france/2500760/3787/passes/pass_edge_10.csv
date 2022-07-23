@@ -1,0 +1,46 @@
+Source,Target,Weight
+E. Skhiri,R. Aguilar,4
+Pedro Mendes,Hilton,3
+R. Aguilar,E. Skhiri,3
+R. Aguilar,Pedro Mendes,2
+E. Skhiri,P. Lasne,2
+P. Lasne,R. Aguilar,2
+S. Sess\u00e8gnon,R. Aguilar,2
+D. Congr\u00e9,P. Lasne,2
+Pedro Mendes,E. Skhiri,2
+P. Lasne,S. Sess\u00e8gnon,2
+R. Aguilar,P. Lasne,2
+D. Congr\u00e9,S. Camara,2
+J. Roussillon,D. Congr\u00e9,2
+I. Mbenza,D. Congr\u00e9,2
+I. Mbenza,R. Aguilar,1
+E. Skhiri,S. Sess\u00e8gnon,1
+R. Aguilar,J. Roussillon,1
+P. Lasne,B. Lecomte,1
+S. Camara,E. Skhiri,1
+R. Aguilar,I. Mbenza,1
+Hilton,I. Mbenza,1
+P. Lasne,I. Mbenza,1
+S. Camara,S. Sess\u00e8gnon,1
+S. Sess\u00e8gnon,D. Congr\u00e9,1
+S. Sess\u00e8gnon,E. Skhiri,1
+B. Lecomte,S. Camara,1
+I. Mbenza,P. Lasne,1
+D. Congr\u00e9,J. Roussillon,1
+S. Camara,J. Roussillon,1
+J. Roussillon,Hilton,1
+Hilton,J. Roussillon,1
+S. Sess\u00e8gnon,I. Mbenza,1
+J. Roussillon,Pedro Mendes,1
+P. Lasne,Hilton,1
+R. Aguilar,S. Sess\u00e8gnon,1
+E. Skhiri,I. Mbenza,1
+P. Lasne,Pedro Mendes,1
+Hilton,E. Skhiri,1
+J. Roussillon,R. Aguilar,1
+Hilton,D. Congr\u00e9,1
+I. Mbenza,S. Sess\u00e8gnon,1
+Hilton,S. Camara,1
+S. Camara,P. Lasne,1
+S. Sess\u00e8gnon,J. Roussillon,1
+D. Congr\u00e9,Pedro Mendes,1

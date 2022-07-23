@@ -1,0 +1,43 @@
+Source,Target,Weight
+S. Janko,O. Tannane,5
+L. Perrin,R. Pierre-Gabriel,3
+O. Tannane,J. Bamba,3
+O. Tannane,S. Janko,3
+O. Seln\u00e6s,O. Tannane,2
+O. Seln\u00e6s,B. Dabo,2
+R. Pierre-Gabriel,S. Janko,2
+B. Dabo,A. Diouss\u00e9,2
+A. Diouss\u00e9,K. Th\u00e9ophile Catherine,2
+J. Bamba,O. Tannane,2
+B. Dabo,L. Perrin,2
+R. Pierre-Gabriel,O. Seln\u00e6s,2
+A. Diouss\u00e9,R. Hamouma,2
+O. Tannane,L. Perrin,2
+L. Perrin,O. Seln\u00e6s,2
+J. Bamba,B. Dabo,1
+K. Th\u00e9ophile Catherine,R. Pierre-Gabriel,1
+S. Janko,A. Diouss\u00e9,1
+K. Th\u00e9ophile Catherine,S. Janko,1
+L. Perrin,A. Diouss\u00e9,1
+R. Hamouma,L. Perrin,1
+R. Hamouma,A. Diouss\u00e9,1
+J. Bamba,A. Diouss\u00e9,1
+O. Seln\u00e6s,S. Janko,1
+O. Tannane,O. Seln\u00e6s,1
+O. Seln\u00e6s,J. Bamba,1
+A. Diouss\u00e9,R. Pierre-Gabriel,1
+R. Pierre-Gabriel,O. Tannane,1
+A. Diouss\u00e9,O. Seln\u00e6s,1
+B. Dabo,S. Janko,1
+S. Janko,B. Dabo,1
+L. Perrin,B. Dabo,1
+O. Seln\u00e6s,A. Diouss\u00e9,1
+R. Pierre-Gabriel,A. Diouss\u00e9,1
+S. Janko,K. Th\u00e9ophile Catherine,1
+A. Diouss\u00e9,J. Bamba,1
+A. Diouss\u00e9,L. Perrin,1
+K. Th\u00e9ophile Catherine,R. Hamouma,1
+B. Dabo,O. Seln\u00e6s,1
+R. Hamouma,R. Pierre-Gabriel,1
+O. Tannane,B. Dabo,1
+O. Seln\u00e6s,L. Perrin,1

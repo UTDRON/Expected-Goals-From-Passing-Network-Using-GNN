@@ -1,0 +1,30 @@
+Source,Target,Weight
+B. Leno,K. Havertz,3
+K. Havertz,A. Mehmedi,2
+B. Henrichs,B. Leno,2
+S. Bender,Wendell,2
+Wendell,B. Leno,2
+P. Retsos,B. Leno,2
+B. Henrichs,P. Retsos,1
+B. Leno,S. Bender,1
+S. Bender,D. Kohr,1
+S. Bender,B. Leno,1
+B. Henrichs,C. Ar\u00e1nguiz,1
+B. Leno,B. Henrichs,1
+A. Mehmedi,B. Henrichs,1
+C. Ar\u00e1nguiz,P. Retsos,1
+P. Retsos,C. Ar\u00e1nguiz,1
+D. Kohr,S. Bender,1
+Wendell,S. Bender,1
+C. Ar\u00e1nguiz,S. Bender,1
+J. Brandt,Wendell,1
+Wendell,P. Retsos,1
+P. Retsos,B. Henrichs,1
+B. Leno,J. Brandt,1
+B. Leno,P. Retsos,1
+K. Havertz,S. Bender,1
+S. Bender,P. Retsos,1
+K. Havertz,B. Henrichs,1
+P. Retsos,Wendell,1
+B. Henrichs,K. Havertz,1
+A. Mehmedi,K. Havertz,1

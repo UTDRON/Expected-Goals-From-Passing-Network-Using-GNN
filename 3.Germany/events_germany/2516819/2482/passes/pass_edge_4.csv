@@ -1,0 +1,21 @@
+Source,Target,Weight
+S. Zuber,P. Kade\u0159\u00e1bek,2
+M. Uth,P. Kade\u0159\u00e1bek,1
+S. Zuber,M. Uth,1
+S. Wagner,S. Zuber,1
+K. Vogt,A. Kramari\u0107,1
+S. Posch,S. Wagner,1
+K. Vogt,B. H\u00fcbner,1
+P. Kade\u0159\u00e1bek,M. Uth,1
+P. Kade\u0159\u00e1bek,S. Posch,1
+M. Uth,K. Demirbay,1
+M. Uth,F. Grillitsch,1
+S. Zuber,A. Kramari\u0107,1
+K. Demirbay,M. Uth,1
+A. Kramari\u0107,S. Zuber,1
+F. Grillitsch,K. Vogt,1
+F. Grillitsch,K. Demirbay,1
+A. Kramari\u0107,F. Grillitsch,1
+B. H\u00fcbner,S. Zuber,1
+K. Demirbay,K. Vogt,1
+P. Kade\u0159\u00e1bek,S. Zuber,1

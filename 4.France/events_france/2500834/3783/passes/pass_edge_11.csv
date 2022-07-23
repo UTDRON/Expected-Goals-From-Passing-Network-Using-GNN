@@ -1,0 +1,65 @@
+Source,Target,Weight
+F. Guilbert,B. Sankoh,5
+A. Djiku,Y. A\u00eft Bennasser,5
+Y. A\u00eft Bennasser,A. Djiku,4
+R. Genevois,F. Guilbert,4
+B. Sankoh,R. Rodelin,4
+R. Rodelin,Y. Armougom,4
+Y. A\u00eft Bennasser,A. Mbengue,3
+J. Nkololo,F. Guilbert,3
+F. Guilbert,I. Santini,3
+Y. A\u00eft Bennasser,F. Guilbert,3
+B. Sankoh,Y. A\u00eft Bennasser,3
+A. Mbengue,R. Rodelin,3
+B. Sankoh,A. Djiku,3
+A. Mbengue,Y. A\u00eft Bennasser,3
+R. Rodelin,Y. A\u00eft Bennasser,3
+Y. A\u00eft Bennasser,B. Sankoh,2
+B. Sankoh,J. Nkololo,2
+A. Djiku,A. Mbengue,2
+J. Nkololo,B. Sankoh,2
+Y. A\u00eft Bennasser,J. Nkololo,2
+A. Mbengue,D. Avounou,2
+I. Santini,R. Rodelin,2
+F. Guilbert,R. Genevois,2
+Y. Armougom,B. Sankoh,2
+I. Santini,B. Sankoh,2
+R. Genevois,A. Djiku,2
+B. Sankoh,I. Santini,2
+F. Guilbert,J. Nkololo,2
+A. Djiku,R. Genevois,2
+I. Santini,F. Guilbert,2
+J. Nkololo,Y. Armougom,2
+D. Avounou,Y. A\u00eft Bennasser,2
+I. Santini,A. Mbengue,2
+R. Genevois,A. Mbengue,1
+F. Guilbert,R. Rodelin,1
+Y. A\u00eft Bennasser,R. Vercoutre,1
+R. Vercoutre,R. Rodelin,1
+R. Rodelin,B. Sankoh,1
+D. Avounou,A. Djiku,1
+F. Guilbert,A. Djiku,1
+A. Djiku,R. Rodelin,1
+R. Vercoutre,Y. A\u00eft Bennasser,1
+B. Sankoh,F. Guilbert,1
+F. Guilbert,D. Avounou,1
+R. Rodelin,F. Guilbert,1
+Y. A\u00eft Bennasser,D. Avounou,1
+Y. A\u00eft Bennasser,I. Santini,1
+I. Santini,R. Genevois,1
+Y. Armougom,A. Mbengue,1
+Y. Armougom,Y. A\u00eft Bennasser,1
+A. Mbengue,I. Santini,1
+R. Rodelin,D. Avounou,1
+R. Rodelin,I. Santini,1
+Y. Armougom,R. Rodelin,1
+A. Mbengue,A. Djiku,1
+R. Rodelin,A. Mbengue,1
+A. Djiku,R. Vercoutre,1
+Y. Armougom,J. Nkololo,1
+B. Sankoh,A. Mbengue,1
+A. Mbengue,R. Genevois,1
+D. Avounou,B. Sankoh,1
+A. Djiku,B. Sankoh,1
+D. Avounou,I. Santini,1
+Y. A\u00eft Bennasser,R. Genevois,1

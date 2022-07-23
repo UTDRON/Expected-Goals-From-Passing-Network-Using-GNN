@@ -1,0 +1,77 @@
+Source,Target,Weight
+F. Guilbert,J. F\u00e9ret,6
+A. Djiku,V. Bessat,6
+Y. A\u00eft Bennasser,V. Bessat,6
+V. Bessat,Y. A\u00eft Bennasser,5
+V. Bessat,A. Djiku,5
+Y. A\u00eft Bennasser,D. Da Silva,5
+D. Da Silva,F. Guilbert,4
+D. Da Silva,Y. A\u00eft Bennasser,4
+E. Crivelli,D. Da Silva,3
+I. Santini,F. Guilbert,3
+V. Bessat,R. Rodelin,3
+D. Da Silva,A. Djiku,3
+J. F\u00e9ret,F. Guilbert,3
+F. Guilbert,R. Vercoutre,3
+R. Rodelin,F. Guilbert,3
+R. Vercoutre,E. Crivelli,3
+D. Da Silva,J. F\u00e9ret,3
+V. Bessat,I. Santini,3
+J. F\u00e9ret,J. Deminguet,3
+J. Deminguet,V. Bessat,3
+J. F\u00e9ret,D. Da Silva,2
+F. Guilbert,J. Deminguet,2
+F. Guilbert,E. Crivelli,2
+J. Deminguet,J. F\u00e9ret,2
+Y. A\u00eft Bennasser,J. Deminguet,2
+Y. A\u00eft Bennasser,A. Djiku,2
+J. F\u00e9ret,Y. A\u00eft Bennasser,2
+A. Djiku,D. Da Silva,2
+A. Djiku,I. Santini,2
+E. Crivelli,Y. A\u00eft Bennasser,2
+J. Deminguet,F. Guilbert,2
+Y. A\u00eft Bennasser,F. Guilbert,2
+R. Rodelin,Y. A\u00eft Bennasser,2
+F. Guilbert,V. Bessat,2
+I. Santini,Y. A\u00eft Bennasser,2
+E. Crivelli,J. Deminguet,2
+J. F\u00e9ret,A. Djiku,2
+R. Vercoutre,I. Santini,2
+V. Bessat,J. Deminguet,2
+R. Rodelin,V. Bessat,2
+F. Guilbert,Y. A\u00eft Bennasser,1
+E. Crivelli,I. Santini,1
+I. Santini,J. F\u00e9ret,1
+V. Bessat,E. Crivelli,1
+J. Deminguet,Y. A\u00eft Bennasser,1
+V. Bessat,F. Guilbert,1
+A. Djiku,R. Vercoutre,1
+A. Djiku,F. Guilbert,1
+I. Santini,R. Rodelin,1
+A. Djiku,R. Rodelin,1
+E. Crivelli,V. Bessat,1
+Y. A\u00eft Bennasser,J. F\u00e9ret,1
+I. Santini,R. Vercoutre,1
+A. Djiku,E. Crivelli,1
+J. Deminguet,D. Da Silva,1
+F. Guilbert,I. Santini,1
+J. Deminguet,A. Djiku,1
+F. Guilbert,R. Rodelin,1
+A. Djiku,J. F\u00e9ret,1
+E. Crivelli,R. Rodelin,1
+Y. A\u00eft Bennasser,E. Crivelli,1
+R. Rodelin,J. Deminguet,1
+Y. A\u00eft Bennasser,R. Vercoutre,1
+F. Guilbert,A. Djiku,1
+R. Vercoutre,Y. A\u00eft Bennasser,1
+J. F\u00e9ret,R. Rodelin,1
+D. Da Silva,E. Crivelli,1
+I. Santini,V. Bessat,1
+J. Deminguet,R. Rodelin,1
+F. Guilbert,D. Da Silva,1
+I. Santini,A. Djiku,1
+J. F\u00e9ret,I. Santini,1
+R. Rodelin,E. Crivelli,1
+J. Deminguet,R. Vercoutre,1
+R. Vercoutre,R. Rodelin,1
+V. Bessat,D. Da Silva,1

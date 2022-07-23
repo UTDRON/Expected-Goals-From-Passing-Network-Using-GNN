@@ -1,0 +1,26 @@
+Source,Target,Weight
+M. Arnold,F. Uduokhai,3
+D. Didavi,M. Arnold,2
+F. Uduokhai,William,2
+P. Verhaegh,P. Jaeckel,2
+William,L. Dimata,2
+P. Verhaegh,D. Didavi,2
+M. Arnold,D. Origi,1
+P. Jaeckel,P. Verhaegh,1
+William,K. Casteels,1
+D. Didavi,F. Uduokhai,1
+R. Knoche,F. Uduokhai,1
+L. Dimata,M. Arnold,1
+P. Jaeckel,D. Didavi,1
+L. Dimata,D. Origi,1
+Y. Mall\u0131,P. Verhaegh,1
+William,M. Arnold,1
+K. Casteels,P. Verhaegh,1
+D. Origi,Y. Mall\u0131,1
+D. Origi,William,1
+D. Didavi,P. Verhaegh,1
+F. Uduokhai,R. Knoche,1
+F. Uduokhai,D. Didavi,1
+L. Dimata,P. Jaeckel,1
+M. Arnold,William,1
+P. Jaeckel,L. Dimata,1

@@ -1,0 +1,41 @@
+Source,Target,Weight
+Y. Cardinale,P. Lees Melou,2
+A. Souquet,N. Mendy,2
+Dante,M. Le Marchand,2
+M. Le Marchand,Y. Cardinale,2
+P. Lees Melou,M. Le Marchand,2
+Y. Cardinale,M. Le Marchand,2
+A. Souquet,Y. Cardinale,1
+M. Balotelli,A. Pl\u00e9a,1
+M. Le Marchand,Dante,1
+M. Sarr,P. Lees Melou,1
+Dante,A. Souquet,1
+M. Sarr,M. Le Marchand,1
+N. Mendy,J. Seri,1
+N. Mendy,A. Souquet,1
+M. Le Marchand,M. Balotelli,1
+N. Mendy,A. Saint-Maximin,1
+M. Balotelli,M. Sarr,1
+A. Saint-Maximin,M. Balotelli,1
+M. Le Marchand,M. Sarr,1
+J. Seri,A. Pl\u00e9a,1
+J. Seri,M. Balotelli,1
+A. Pl\u00e9a,M. Sarr,1
+M. Le Marchand,A. Saint-Maximin,1
+A. Saint-Maximin,N. Mendy,1
+M. Sarr,A. Souquet,1
+P. Lees Melou,Dante,1
+A. Pl\u00e9a,J. Seri,1
+M. Le Marchand,P. Lees Melou,1
+M. Balotelli,J. Seri,1
+P. Lees Melou,A. Pl\u00e9a,1
+A. Souquet,M. Le Marchand,1
+M. Sarr,J. Seri,1
+A. Souquet,Dante,1
+P. Lees Melou,Y. Cardinale,1
+M. Le Marchand,A. Souquet,1
+J. Seri,A. Souquet,1
+N. Mendy,P. Lees Melou,1
+A. Saint-Maximin,P. Lees Melou,1
+J. Seri,M. Sarr,1
+P. Lees Melou,A. Saint-Maximin,1

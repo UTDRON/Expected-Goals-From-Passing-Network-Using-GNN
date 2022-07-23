@@ -1,0 +1,82 @@
+Source,Target,Weight
+B. Santamaria,I. Traor\u00e9,4
+I. Traor\u00e9,V. Manceau,4
+P. Capelle,B. Santamaria,4
+R. Thomas,P. Capelle,4
+B. Santamaria,B. Guillaume,3
+B. Guillaume,K. Toko Ekambi,3
+K. Toko Ekambi,P. Capelle,3
+I. Traor\u00e9,R. Thomas,3
+R. Thomas,B. Santamaria,3
+A. Letellier,B. Guillaume,3
+V. Manceau,A. Fulgini,3
+B. Santamaria,L. Coulibaly,3
+B. Guillaume,B. Santamaria,3
+A. Fulgini,T. Mangani,3
+T. Mangani,R. Thomas,3
+R. Thomas,T. Mangani,3
+V. Manceau,B. Guillaume,2
+T. Mangani,A. Fulgini,2
+P. Capelle,R. Thomas,2
+P. Capelle,B. Guillaume,2
+V. Manceau,P. Capelle,2
+K. Toko Ekambi,A. Fulgini,2
+P. Capelle,K. Toko Ekambi,2
+B. Santamaria,F. Tait,2
+T. Mangani,V. Manceau,2
+R. Thomas,K. Toko Ekambi,2
+A. Fulgini,L. Coulibaly,2
+K. Toko Ekambi,T. Mangani,2
+B. Santamaria,M. Pavlovi\u0107,2
+V. Manceau,M. Pavlovi\u0107,2
+A. Fulgini,V. Manceau,2
+B. Guillaume,F. Tait,2
+V. Manceau,A. Letellier,2
+L. Coulibaly,V. Manceau,2
+M. Pavlovi\u0107,V. Manceau,2
+M. Pavlovi\u0107,A. Fulgini,2
+M. Pavlovi\u0107,A. Letellier,2
+R. Thomas,M. Pavlovi\u0107,2
+K. Toko Ekambi,R. Thomas,2
+V. Manceau,K. Toko Ekambi,1
+F. Tait,A. Letellier,1
+L. Coulibaly,P. Capelle,1
+L. Coulibaly,A. Fulgini,1
+P. Capelle,F. Tait,1
+K. Toko Ekambi,F. Tait,1
+F. Tait,R. Thomas,1
+F. Tait,T. Mangani,1
+F. Tait,M. Pavlovi\u0107,1
+A. Fulgini,I. Traor\u00e9,1
+F. Tait,K. Toko Ekambi,1
+A. Letellier,R. Thomas,1
+A. Letellier,K. Toko Ekambi,1
+T. Mangani,L. Coulibaly,1
+F. Tait,P. Capelle,1
+A. Letellier,B. Santamaria,1
+T. Mangani,A. Letellier,1
+L. Coulibaly,B. Santamaria,1
+B. Santamaria,P. Capelle,1
+A. Fulgini,F. Tait,1
+R. Thomas,I. Traor\u00e9,1
+B. Guillaume,R. Thomas,1
+A. Fulgini,K. Toko Ekambi,1
+B. Guillaume,A. Fulgini,1
+P. Capelle,A. Letellier,1
+F. Tait,A. Fulgini,1
+A. Fulgini,R. Thomas,1
+K. Toko Ekambi,I. Traor\u00e9,1
+K. Toko Ekambi,M. Pavlovi\u0107,1
+T. Mangani,K. Toko Ekambi,1
+L. Coulibaly,T. Mangani,1
+V. Manceau,I. Traor\u00e9,1
+V. Manceau,B. Santamaria,1
+B. Guillaume,T. Mangani,1
+T. Mangani,B. Santamaria,1
+F. Tait,B. Guillaume,1
+I. Traor\u00e9,B. Santamaria,1
+B. Guillaume,V. Manceau,1
+A. Letellier,T. Mangani,1
+A. Fulgini,B. Guillaume,1
+M. Pavlovi\u0107,R. Thomas,1
+M. Pavlovi\u0107,F. Tait,1

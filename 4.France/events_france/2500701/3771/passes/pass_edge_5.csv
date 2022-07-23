@@ -1,0 +1,30 @@
+Source,Target,Weight
+H. Sakai,M. Lopez,3
+M. Lopez,H. Sakai,3
+Luiz Gustavo,M. Lopez,2
+M. Lopez,A. Rami,2
+P. Evra,Rolando,2
+F. Thauvin,M. Lopez,2
+Luiz Gustavo,Rolando,2
+Rolando,A. Rami,2
+M. Lopez,F. Thauvin,2
+M. Lopez,Luiz Gustavo,2
+F. Thauvin,P. Evra,1
+A. Rami,Rolando,1
+Luiz Gustavo,S. Mandanda,1
+A. Zambo Anguissa,Rolando,1
+Rolando,S. Mandanda,1
+H. Sakai,Luiz Gustavo,1
+Rolando,M. Lopez,1
+Rolando,F. Thauvin,1
+A. Rami,Luiz Gustavo,1
+S. Mandanda,P. Evra,1
+Rolando,Luiz Gustavo,1
+P. Evra,Luiz Gustavo,1
+F. Thauvin,H. Sakai,1
+A. Rami,H. Sakai,1
+Rolando,P. Evra,1
+H. Sakai,F. Thauvin,1
+S. Mandanda,Rolando,1
+A. Rami,A. Zambo Anguissa,1
+Luiz Gustavo,C. N'Jie,1

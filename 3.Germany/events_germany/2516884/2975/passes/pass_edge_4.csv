@@ -1,0 +1,88 @@
+Source,Target,Weight
+K. Kampl,I. Konat\u00e9,5
+M. Halstenberg,N. Ke\u00efta,5
+S. Ilsanker,I. Konat\u00e9,5
+S. Ilsanker,L. Klostermann,4
+S. Ilsanker,W. Orban,4
+W. Orban,N. Ke\u00efta,4
+L. Klostermann,K. Kampl,4
+W. Orban,M. Halstenberg,4
+N. Ke\u00efta,Y. Poulsen,4
+Y. Poulsen,N. Ke\u00efta,3
+I. Konat\u00e9,S. Ilsanker,3
+K. Kampl,S. Ilsanker,3
+M. Halstenberg,S. Ilsanker,3
+K. Kampl,T. Werner,3
+L. Klostermann,S. Ilsanker,3
+I. Konat\u00e9,Y. Poulsen,3
+M. Halstenberg,D. Demme,3
+Y. Poulsen,K. Kampl,3
+S. Ilsanker,K. Kampl,3
+I. Konat\u00e9,L. Klostermann,3
+Bruma,M. Halstenberg,3
+S. Ilsanker,Bruma,3
+D. Demme,S. Ilsanker,3
+N. Ke\u00efta,M. Halstenberg,3
+T. Werner,S. Ilsanker,2
+Bruma,S. Ilsanker,2
+Y. Poulsen,T. Werner,2
+M. Halstenberg,W. Orban,2
+I. Konat\u00e9,K. Kampl,2
+I. Konat\u00e9,M. Halstenberg,2
+S. Ilsanker,Y. Poulsen,2
+Y. Poulsen,I. Konat\u00e9,2
+Bruma,W. Orban,2
+L. Klostermann,N. Ke\u00efta,2
+S. Ilsanker,N. Ke\u00efta,2
+Bruma,L. Klostermann,2
+W. Orban,S. Ilsanker,2
+N. Ke\u00efta,K. Kampl,2
+N. Ke\u00efta,W. Orban,2
+I. Konat\u00e9,N. Ke\u00efta,2
+N. Ke\u00efta,S. Ilsanker,2
+T. Werner,Y. Poulsen,2
+N. Ke\u00efta,Bruma,2
+P. Gul\u00e1csi,W. Orban,1
+W. Orban,Y. Poulsen,1
+L. Klostermann,Bruma,1
+N. Ke\u00efta,I. Konat\u00e9,1
+M. Halstenberg,L. Klostermann,1
+M. Halstenberg,P. Gul\u00e1csi,1
+I. Konat\u00e9,W. Orban,1
+T. Werner,K. Kampl,1
+W. Orban,I. Konat\u00e9,1
+M. Halstenberg,T. Werner,1
+S. Ilsanker,T. Werner,1
+Y. Poulsen,W. Orban,1
+M. Halstenberg,Bruma,1
+K. Kampl,Y. Poulsen,1
+D. Demme,N. Ke\u00efta,1
+D. Demme,W. Orban,1
+K. Kampl,M. Halstenberg,1
+M. Halstenberg,Y. Poulsen,1
+Y. Poulsen,Bruma,1
+W. Orban,D. Demme,1
+W. Orban,T. Werner,1
+N. Ke\u00efta,D. Demme,1
+Y. Poulsen,S. Ilsanker,1
+L. Klostermann,M. Halstenberg,1
+L. Klostermann,Y. Poulsen,1
+T. Werner,L. Klostermann,1
+T. Werner,D. Demme,1
+Y. Poulsen,L. Klostermann,1
+K. Kampl,W. Orban,1
+T. Werner,M. Halstenberg,1
+T. Werner,W. Orban,1
+N. Ke\u00efta,T. Werner,1
+T. Werner,I. Konat\u00e9,1
+W. Orban,P. Gul\u00e1csi,1
+W. Orban,Bruma,1
+L. Klostermann,T. Werner,1
+D. Demme,M. Halstenberg,1
+N. Ke\u00efta,L. Klostermann,1
+L. Klostermann,I. Konat\u00e9,1
+Y. Poulsen,D. Demme,1
+P. Gul\u00e1csi,Y. Poulsen,1
+Y. Poulsen,M. Halstenberg,1
+S. Ilsanker,M. Halstenberg,1
+K. Kampl,L. Klostermann,1

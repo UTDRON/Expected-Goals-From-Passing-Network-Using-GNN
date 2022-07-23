@@ -1,0 +1,32 @@
+Source,Target,Weight
+C. Jean,C. Michelin,2
+M. Gradel,K. Amian,2
+A. Delort,M. Gradel,2
+C. Jullien,I. Diop,2
+A. Blin,O. Toivonen,2
+C. Michelin,I. Diop,1
+O. Toivonen,A. Blin,1
+A. Blin,M. Gradel,1
+M. Gradel,A. Delort,1
+A. Blin,C. Jullien,1
+I. Diop,A. Lafont,1
+A. Delort,O. Toivonen,1
+A. Delort,Y. Sanogo,1
+M. Gradel,C. Jullien,1
+K. Amian,A. Blin,1
+O. Toivonen,C. Michelin,1
+I. Diop,C. Jean,1
+C. Jullien,A. Delort,1
+C. Michelin,C. Jean,1
+I. Diop,A. Blin,1
+O. Toivonen,K. Amian,1
+Som\u00e1lia,C. Jean,1
+C. Jean,A. Blin,1
+K. Amian,O. Toivonen,1
+C. Michelin,A. Delort,1
+A. Blin,C. Michelin,1
+O. Toivonen,C. Jullien,1
+A. Lafont,Som\u00e1lia,1
+C. Michelin,Y. Sanogo,1
+K. Amian,M. Gradel,1
+Y. Sanogo,A. Delort,1

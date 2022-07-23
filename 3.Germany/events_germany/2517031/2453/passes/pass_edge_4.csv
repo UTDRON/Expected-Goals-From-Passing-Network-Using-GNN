@@ -1,0 +1,23 @@
+Source,Target,Weight
+M. Terrazzino,C. G\u00fcnter,2
+C. G\u00fcnter,M. Kempf,1
+C. G\u00fcnter,L. K\u00fcbler,1
+M. Gulde,L. K\u00fcbler,1
+J. Schuster,N. Petersen,1
+A. Schwolow,M. Gulde,1
+C. G\u00fcnter,N. H\u00f6fler,1
+N. Petersen,M. Frantz,1
+M. Kempf,A. Schwolow,1
+N. Petersen,M. Kempf,1
+L. K\u00fcbler,T. Kleindienst,1
+M. Frantz,L. K\u00fcbler,1
+L. K\u00fcbler,N. H\u00f6fler,1
+T. Kleindienst,M. Terrazzino,1
+M. Kempf,J. Schuster,1
+N. H\u00f6fler,M. Kempf,1
+L. K\u00fcbler,M. Frantz,1
+M. Kempf,M. Terrazzino,1
+M. Kempf,M. Frantz,1
+N. H\u00f6fler,C. G\u00fcnter,1
+M. Frantz,J. Schuster,1
+M. Frantz,N. Petersen,1

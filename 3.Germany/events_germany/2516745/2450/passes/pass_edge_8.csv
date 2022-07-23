@@ -1,0 +1,20 @@
+Source,Target,Weight
+K. Papadopoulos,A. Ekdal,3
+D. Diekmeier,A. Hahn,3
+A. Hahn,K. Papadopoulos,3
+B. Wood,K. Papadopoulos,1
+A. Ekdal,Walace,1
+B. Wood,D. Diekmeier,1
+A. Hahn,B. Wood,1
+R. van Drongelen,A. Hahn,1
+A. Ekdal,A. Hahn,1
+Walace,L. Waldschmidt,1
+L. Waldschmidt,B. Wood,1
+K. Papadopoulos,C. Mathenia,1
+D. Diekmeier,Walace,1
+Walace,A. Ekdal,1
+A. Hahn,D. Diekmeier,1
+C. Mathenia,A. Hahn,1
+A. Ekdal,D. Diekmeier,1
+A. Ekdal,B. Wood,1
+A. Hahn,R. van Drongelen,1

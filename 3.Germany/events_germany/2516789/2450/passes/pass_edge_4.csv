@@ -1,0 +1,45 @@
+Source,Target,Weight
+Walace,G. Sakai,4
+G. Jung,K. Papadopoulos,4
+Walace,K. Papadopoulos,3
+K. Papadopoulos,Walace,3
+G. Sakai,S. Salihovi\u0107,3
+S. Salihovi\u0107,K. Papadopoulos,2
+Walace,S. Salihovi\u0107,2
+B. Wood,Walace,2
+L. Holtby,G. Sakai,2
+D. Diekmeier,Walace,2
+B. Wood,G. Jung,2
+A. Hahn,D. Diekmeier,2
+D. Diekmeier,A. Hahn,2
+A. Hahn,Walace,2
+S. Salihovi\u0107,G. Sakai,2
+K. Papadopoulos,G. Jung,2
+C. Mathenia,B. Wood,1
+Walace,D. Diekmeier,1
+K. Papadopoulos,S. Salihovi\u0107,1
+D. Diekmeier,K. Papadopoulos,1
+S. Salihovi\u0107,Walace,1
+G. Sakai,D. Diekmeier,1
+D. Diekmeier,B. Wood,1
+K. Papadopoulos,D. Diekmeier,1
+B. Wood,S. Salihovi\u0107,1
+M. Mavraj,G. Sakai,1
+G. Sakai,L. Holtby,1
+K. Papadopoulos,M. Mavraj,1
+K. Papadopoulos,L. Holtby,1
+G. Sakai,A. Hahn,1
+S. Salihovi\u0107,L. Holtby,1
+K. Papadopoulos,B. Wood,1
+G. Sakai,M. Mavraj,1
+L. Holtby,S. Salihovi\u0107,1
+B. Wood,K. Papadopoulos,1
+S. Salihovi\u0107,B. Wood,1
+S. Salihovi\u0107,A. Hahn,1
+G. Sakai,B. Wood,1
+Walace,A. Hahn,1
+G. Jung,Walace,1
+Walace,B. Wood,1
+M. Mavraj,Walace,1
+G. Sakai,G. Jung,1
+K. Papadopoulos,C. Mathenia,1

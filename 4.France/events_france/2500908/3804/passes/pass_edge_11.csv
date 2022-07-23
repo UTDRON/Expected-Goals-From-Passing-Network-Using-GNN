@@ -1,0 +1,27 @@
+Source,Target,Weight
+F. Balmont,V. Rosier,3
+V. Rosier,F. Balmont,2
+F. Balmont,M. Abeid,2
+W. Lautoa,O. Haddadi,2
+C. Yamber\u00e9,M. Abeid,2
+W. Lautoa,F. Balmont,2
+Xeka,W. Lautoa,1
+V. Rosier,N. Sliti,1
+V. Rosier,O. Haddadi,1
+M. Abeid,O. Haddadi,1
+N. Sliti,Xeka,1
+V. Rosier,C. Yamber\u00e9,1
+F. Sammaritano,F. Balmont,1
+M. Abeid,V. Rosier,1
+M. Abeid,W. Lautoa,1
+O. Haddadi,N. Sliti,1
+O. Haddadi,F. Balmont,1
+Xeka,F. Sammaritano,1
+F. Sammaritano,O. Haddadi,1
+F. Balmont,J\u00falio Tavares,1
+N. Sliti,F. Balmont,1
+F. Balmont,W. Lautoa,1
+M. Abeid,C. Yamber\u00e9,1
+O. Haddadi,F. Sammaritano,1
+O. Haddadi,W. Lautoa,1
+O. Haddadi,Xeka,1

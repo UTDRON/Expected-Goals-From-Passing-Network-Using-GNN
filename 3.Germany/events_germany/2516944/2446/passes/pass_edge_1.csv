@@ -1,0 +1,95 @@
+Source,Target,Weight
+S. Bender,C. Ar\u00e1nguiz,8
+D. Kohr,T. Jedvaj,7
+T. Jedvaj,J. Brandt,7
+S. Bender,P. Retsos,6
+J. Brandt,T. Jedvaj,6
+D. Kohr,S. Bender,5
+B. Leno,S. Bender,5
+C. Ar\u00e1nguiz,S. Bender,5
+C. Ar\u00e1nguiz,D. Kohr,5
+J. Brandt,D. Kohr,5
+L. Bailey,C. Ar\u00e1nguiz,4
+C. Ar\u00e1nguiz,Wendell,4
+P. Retsos,K. Havertz,4
+T. Jedvaj,P. Retsos,4
+C. Ar\u00e1nguiz,T. Jedvaj,4
+K. Havertz,C. Ar\u00e1nguiz,4
+L. Bailey,K. Volland,4
+J. Brandt,C. Ar\u00e1nguiz,4
+P. Retsos,B. Leno,4
+K. Havertz,S. Bender,3
+T. Jedvaj,D. Kohr,3
+D. Kohr,K. Havertz,3
+T. Jedvaj,S. Bender,3
+P. Retsos,S. Bender,3
+Wendell,L. Bailey,3
+K. Havertz,J. Brandt,3
+C. Ar\u00e1nguiz,L. Bailey,3
+D. Kohr,B. Leno,2
+P. Retsos,T. Jedvaj,2
+L. Bailey,Wendell,2
+S. Bender,D. Kohr,2
+T. Jedvaj,L. Bailey,2
+T. Jedvaj,K. Volland,2
+S. Bender,T. Jedvaj,2
+T. Jedvaj,K. Havertz,2
+K. Volland,D. Kohr,2
+K. Volland,L. Bailey,2
+S. Bender,B. Henrichs,2
+L. Bailey,D. Kohr,2
+B. Leno,D. Kohr,2
+D. Kohr,P. Retsos,2
+D. Kohr,J. Brandt,2
+S. Bender,B. Leno,2
+B. Henrichs,L. Bailey,2
+B. Leno,P. Retsos,2
+Wendell,D. Kohr,2
+P. Retsos,D. Kohr,2
+C. Ar\u00e1nguiz,K. Havertz,2
+B. Henrichs,B. Leno,2
+K. Volland,P. Retsos,2
+S. Bender,K. Havertz,2
+D. Kohr,B. Henrichs,2
+C. Ar\u00e1nguiz,J. Brandt,2
+Wendell,S. Bender,1
+K. Volland,J. Brandt,1
+K. Havertz,B. Henrichs,1
+L. Bailey,B. Henrichs,1
+Wendell,P. Retsos,1
+K. Volland,T. Jedvaj,1
+D. Kohr,K. Volland,1
+B. Leno,K. Havertz,1
+T. Jedvaj,C. Ar\u00e1nguiz,1
+K. Volland,S. Bender,1
+K. Volland,C. Ar\u00e1nguiz,1
+J. Brandt,K. Volland,1
+K. Havertz,K. Volland,1
+B. Leno,L. Bailey,1
+P. Retsos,C. Ar\u00e1nguiz,1
+P. Retsos,K. Volland,1
+K. Havertz,P. Retsos,1
+B. Henrichs,K. Havertz,1
+K. Havertz,L. Bailey,1
+Wendell,C. Ar\u00e1nguiz,1
+S. Bender,J. Brandt,1
+K. Havertz,T. Jedvaj,1
+C. Ar\u00e1nguiz,B. Henrichs,1
+P. Retsos,J. Brandt,1
+K. Havertz,D. Kohr,1
+L. Bailey,S. Bender,1
+D. Kohr,C. Ar\u00e1nguiz,1
+B. Henrichs,C. Ar\u00e1nguiz,1
+D. Kohr,L. Bailey,1
+L. Bailey,T. Jedvaj,1
+L. Bailey,K. Havertz,1
+B. Henrichs,D. Kohr,1
+L. Bailey,J. Brandt,1
+S. Bender,L. Bailey,1
+S. Bender,K. Volland,1
+K. Havertz,B. Leno,1
+J. Brandt,L. Bailey,1
+J. Brandt,K. Havertz,1
+K. Havertz,Wendell,1
+K. Volland,K. Havertz,1
+S. Bender,Wendell,1

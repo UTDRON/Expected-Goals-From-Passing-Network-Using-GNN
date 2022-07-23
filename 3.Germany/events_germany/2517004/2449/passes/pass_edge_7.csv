@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Sch\u00f6pf,A. Harit,3
+Y. Konoplyanka,A. Sch\u00f6pf,3
+A. Sch\u00f6pf,Y. Konoplyanka,2
+B. Stambouli,D. Caligiuri,2
+D. Caligiuri,B. Stambouli,2
+N. Bentaleb,A. Harit,1
+A. Sch\u00f6pf,N. Bentaleb,1
+A. Harit,A. Sch\u00f6pf,1
+D. Caligiuri,Naldo,1
+G. Burgstaller,B. Stambouli,1
+A. Harit,Y. Konoplyanka,1
+A. Harit,L. Goretzka,1
+B. Stambouli,R. F\u00e4hrmann,1
+T. Kehrer,A. Sch\u00f6pf,1
+N. Bentaleb,D. Caligiuri,1
+A. Harit,N. Bentaleb,1
+Y. Konoplyanka,D. Caligiuri,1
+R. F\u00e4hrmann,A. Sch\u00f6pf,1
+D. Caligiuri,Y. Konoplyanka,1
+Naldo,T. Kehrer,1
+D. Caligiuri,G. Burgstaller,1

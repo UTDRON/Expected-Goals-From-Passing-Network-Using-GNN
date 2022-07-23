@@ -1,0 +1,26 @@
+Source,Target,Weight
+A. Letellier,E. Crivelli,2
+E. Crivelli,T. Mangani,2
+T. Mangani,Y. Andreu,2
+G. Sunu,T. Mangani,1
+R. Thomas,A. Letellier,1
+B. Santamaria,V. Manceau,1
+P. Capelle,V. Manceau,1
+R. Thomas,B. Santamaria,1
+G. Sunu,P. Capelle,1
+Y. Andreu,G. Sunu,1
+E. Crivelli,R. Thomas,1
+V. Manceau,A. Letellier,1
+G. Sunu,Y. Andreu,1
+V. Manceau,Y. Andreu,1
+Y. Andreu,A. Letellier,1
+A. Letellier,T. Mangani,1
+Y. Andreu,M. Pavlovi\u0107,1
+R. Thomas,E. Crivelli,1
+Y. Andreu,B. Santamaria,1
+T. Mangani,R. Thomas,1
+T. Mangani,E. Crivelli,1
+M. Pavlovi\u0107,R. Thomas,1
+T. Mangani,G. Sunu,1
+B. Santamaria,P. Capelle,1
+E. Crivelli,G. Sunu,1

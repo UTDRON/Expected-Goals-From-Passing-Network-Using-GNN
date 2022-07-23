@@ -1,0 +1,13 @@
+Source,Target,Weight
+G. Jung,G. Sakai,2
+R. van Drongelen,A. Hahn,1
+Walace,K. Papadopoulos,1
+G. Sakai,B. Wood,1
+G. Jung,Walace,1
+G. Sakai,Walace,1
+G. Sakai,R. van Drongelen,1
+Walace,G. Jung,1
+A. Hahn,G. Jung,1
+R. van Drongelen,Walace,1
+K. Papadopoulos,R. van Drongelen,1
+Walace,G. Sakai,1

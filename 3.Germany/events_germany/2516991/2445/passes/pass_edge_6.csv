@@ -1,0 +1,81 @@
+Source,Target,Weight
+A. Beck,B. Pavard,5
+D. Ginczek,M. G\u00f3mez,4
+J. Bruun Larsen,C. Gentner,3
+E. Ins\u00faa,C. Gentner,3
+S. Ascac\u00edbar,A. Beck,3
+H. Badstuber,E. Ins\u00faa,3
+C. Gentner,H. Badstuber,3
+C. Gentner,S. Ascac\u00edbar,3
+A. Beck,J. Bruun Larsen,3
+H. Badstuber,S. Ascac\u00edbar,3
+C. Gentner,M. G\u00f3mez,3
+M. G\u00f3mez,B. \u00d6zcan,3
+S. Ascac\u00edbar,J. Bruun Larsen,3
+B. Pavard,A. Beck,3
+E. Ins\u00faa,H. Badstuber,3
+S. Ascac\u00edbar,E. Ins\u00faa,2
+H. Badstuber,C. Gentner,2
+A. Beck,C. Gentner,2
+M. G\u00f3mez,E. Ins\u00faa,2
+S. Ascac\u00edbar,D. Ginczek,2
+D. Aogo,E. Ins\u00faa,2
+C. Gentner,D. Aogo,2
+M. G\u00f3mez,C. Gentner,2
+S. Ascac\u00edbar,H. Badstuber,2
+E. Ins\u00faa,D. Ginczek,2
+R. Zieler,D. Ginczek,2
+D. Ginczek,R. Zieler,2
+A. Beck,S. Ascac\u00edbar,2
+M. G\u00f3mez,D. Ginczek,2
+J. Bruun Larsen,A. Beck,2
+J. Bruun Larsen,S. Ascac\u00edbar,2
+A. Beck,M. G\u00f3mez,2
+D. Aogo,A. Beck,2
+C. Gentner,D. Ginczek,2
+D. Ginczek,C. Gentner,2
+C. Gentner,A. Beck,2
+D. Ginczek,A. Beck,2
+S. Ascac\u00edbar,M. G\u00f3mez,1
+B. Pavard,D. Ginczek,1
+D. Aogo,C. Gentner,1
+A. Beck,D. Ginczek,1
+J. Bruun Larsen,D. Aogo,1
+C. Gentner,E. Ins\u00faa,1
+R. Zieler,J. Bruun Larsen,1
+B. \u00d6zcan,E. Ins\u00faa,1
+R. Zieler,C. Gentner,1
+M. G\u00f3mez,J. Bruun Larsen,1
+J. Bruun Larsen,D. Ginczek,1
+B. Pavard,H. Badstuber,1
+E. Ins\u00faa,R. Zieler,1
+S. Ascac\u00edbar,R. Zieler,1
+E. Ins\u00faa,S. Ascac\u00edbar,1
+R. Zieler,E. Ins\u00faa,1
+H. Badstuber,B. Pavard,1
+E. Ins\u00faa,B. Pavard,1
+D. Aogo,H. Badstuber,1
+A. Beck,H. Badstuber,1
+E. Ins\u00faa,A. Beck,1
+D. Ginczek,B. Pavard,1
+H. Badstuber,D. Aogo,1
+D. Aogo,S. Ascac\u00edbar,1
+B. Pavard,B. \u00d6zcan,1
+M. G\u00f3mez,A. Beck,1
+A. Beck,R. Zieler,1
+B. \u00d6zcan,S. Ascac\u00edbar,1
+M. G\u00f3mez,H. Badstuber,1
+C. Gentner,B. Pavard,1
+J. Bruun Larsen,M. G\u00f3mez,1
+C. Gentner,J. Bruun Larsen,1
+H. Badstuber,M. G\u00f3mez,1
+B. \u00d6zcan,C. Gentner,1
+B. Pavard,S. Ascac\u00edbar,1
+M. G\u00f3mez,S. Ascac\u00edbar,1
+H. Badstuber,A. Beck,1
+S. Ascac\u00edbar,C. Gentner,1
+B. Pavard,D. Aogo,1
+B. Pavard,M. G\u00f3mez,1
+S. Ascac\u00edbar,D. Aogo,1
+D. Ginczek,S. Ascac\u00edbar,1
+D. Ginczek,J. Bruun Larsen,1

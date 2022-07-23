@@ -1,0 +1,22 @@
+Source,Target,Weight
+D. Heintz,T. Horn,2
+M. Lehmann,F. S\u00f8rensen,2
+F. S\u00f8rensen,T. Horn,1
+F. S\u00f8rensen,M. Lehmann,1
+M. Lehmann,J. Horn,1
+J. Hector,S. Zoller,1
+J. C\u00f3rdoba,M. Lehmann,1
+J. Horn,D. Heintz,1
+J. C\u00f3rdoba,J. Horn,1
+T. Horn,J. C\u00f3rdoba,1
+S. Zoller,J. C\u00f3rdoba,1
+J. Horn,M. Lehmann,1
+T. Horn,F. S\u00f8rensen,1
+J. Horn,F. S\u00f8rensen,1
+F. S\u00f8rensen,D. Heintz,1
+D. Heintz,J. Horn,1
+F. S\u00f8rensen,S. Guirassy,1
+J. Hector,D. Heintz,1
+T. Horn,S. Guirassy,1
+S. Guirassy,J. Hector,1
+S. Guirassy,J. C\u00f3rdoba,1

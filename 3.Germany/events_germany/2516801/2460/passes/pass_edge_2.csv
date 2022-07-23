@@ -1,0 +1,31 @@
+Source,Target,Weight
+D. Brosinski,P. De Blasis,2
+L. \u00d6ztunali,G. Donati,2
+D. Brosinski,Y. Muto,2
+P. De Blasis,D. Brosinski,2
+A. Diallo,D. Brosinski,2
+D. Brosinski,A. Diallo,1
+S. Bell,D. Latza,1
+D. Brosinski,R. Adler,1
+D. Latza,F. Frei,1
+S. Bell,D. Brosinski,1
+F. Frei,L. \u00d6ztunali,1
+P. De Blasis,J. Gbamin,1
+R. Adler,D. Brosinski,1
+F. Frei,A. Diallo,1
+D. Latza,S. Bell,1
+Y. Muto,A. Diallo,1
+P. De Blasis,Y. Muto,1
+A. Diallo,S. Bell,1
+A. Diallo,P. De Blasis,1
+J. Gbamin,F. Frei,1
+Y. Muto,F. Frei,1
+G. Donati,L. \u00d6ztunali,1
+G. Donati,P. De Blasis,1
+S. Bell,A. Diallo,1
+R. Adler,S. Bell,1
+S. Bell,G. Donati,1
+Y. Muto,D. Latza,1
+D. Latza,D. Brosinski,1
+G. Donati,R. Adler,1
+D. Brosinski,D. Latza,1

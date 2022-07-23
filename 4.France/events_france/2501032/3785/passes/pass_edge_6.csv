@@ -1,0 +1,14 @@
+Source,Target,Weight
+F. Eboa Eboa,N. Benezet,2
+N. Benezet,L. Blas,2
+M. Thuram,J. Ikoko,2
+J. Ikoko,K. Johnsson,1
+J. Ikoko,F. Eboa Eboa,1
+L. Blas,F. Eboa Eboa,1
+C. Kerbrat,F. Eboa Eboa,1
+L. Blas,M. Thuram,1
+L. Blas,J. Ikoko,1
+F. Eboa Eboa,C. Grenier,1
+C. Grenier,L. Blas,1
+K. Johnsson,M. Thuram,1
+J. Ikoko,M. Thuram,1

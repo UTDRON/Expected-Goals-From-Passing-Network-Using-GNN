@@ -1,0 +1,37 @@
+Source,Target,Weight
+A. Diallo,D. Latza,3
+A. Hack,A. Diallo,2
+D. Latza,A. Diallo,2
+J. Gbamin,A. Hack,2
+A. Hack,R. Adler,2
+R. Adler,P. De Blasis,2
+R. Adler,R. Quaison,1
+L. \u00d6ztunali,J. Gbamin,1
+N. de Jong,D. Latza,1
+D. Latza,R. Quaison,1
+R. Quaison,P. De Blasis,1
+P. De Blasis,R. Quaison,1
+R. Quaison,G. Donati,1
+A. Hack,P. De Blasis,1
+R. Quaison,J. Gbamin,1
+S. Serdar,A. Hack,1
+R. Quaison,A. Hack,1
+N. de Jong,A. Diallo,1
+A. Diallo,P. De Blasis,1
+G. Donati,L. \u00d6ztunali,1
+A. Hack,S. Serdar,1
+L. \u00d6ztunali,N. de Jong,1
+P. De Blasis,R. Adler,1
+P. De Blasis,S. Serdar,1
+S. Serdar,N. de Jong,1
+D. Latza,A. Hack,1
+P. De Blasis,A. Hack,1
+N. de Jong,G. Donati,1
+N. de Jong,J. Gbamin,1
+J. Gbamin,N. de Jong,1
+G. Donati,D. Latza,1
+J. Gbamin,R. Quaison,1
+P. De Blasis,J. Gbamin,1
+R. Quaison,N. de Jong,1
+A. Diallo,R. Quaison,1
+N. de Jong,L. \u00d6ztunali,1

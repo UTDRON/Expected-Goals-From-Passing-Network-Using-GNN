@@ -1,0 +1,20 @@
+Source,Target,Weight
+C. Jallet,W. Sneijder,2
+W. Sneijder,C. Jallet,2
+Marlon,H. Mahou,2
+N. Mendy,A. Souquet,1
+A. Souquet,Marlon,1
+P. Lees Melou,A. Souquet,1
+H. Mahou,N. Mendy,1
+W. Sneijder,P. Lees Melou,1
+Y. Cardinale,Marlon,1
+P. Lees Melou,Y. Cardinale,1
+Marlon,C. Jallet,1
+H. Mahou,C. Jallet,1
+Dante,W. Sneijder,1
+A. Souquet,A. Lusamba,1
+Marlon,Dante,1
+C. Jallet,H. Mahou,1
+C. Jallet,P. Lees Melou,1
+A. Lusamba,W. Sneijder,1
+H. Mahou,Marlon,1

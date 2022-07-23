@@ -1,0 +1,25 @@
+Source,Target,Weight
+S. Bender,J. Tah,3
+J. Tah,S. Bender,2
+J. Tah,B. Leno,2
+B. Leno,J. Tah,1
+P. Retsos,S. Bender,1
+K. Havertz,J. Tah,1
+J. Brandt,L. Bender,1
+L. Bender,D. Kohr,1
+P. Retsos,J. Brandt,1
+L. Bailey,J. Brandt,1
+J. Tah,D. Kohr,1
+B. Leno,P. Retsos,1
+D. Kohr,K. Volland,1
+D. Kohr,J. Tah,1
+L. Bender,J. Brandt,1
+K. Volland,K. Havertz,1
+J. Brandt,D. Kohr,1
+L. Bender,L. Bailey,1
+K. Volland,L. Bender,1
+K. Havertz,A. Mehmedi,1
+D. Kohr,K. Havertz,1
+J. Brandt,P. Retsos,1
+J. Tah,L. Bender,1
+A. Mehmedi,L. Bailey,1

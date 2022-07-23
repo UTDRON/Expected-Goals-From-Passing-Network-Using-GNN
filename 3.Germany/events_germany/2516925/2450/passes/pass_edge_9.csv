@@ -1,0 +1,58 @@
+Source,Target,Weight
+R. van Drongelen,K. Papadopoulos,5
+K. Papadopoulos,G. Sakai,4
+A. Ekdal,G. Sakai,4
+G. Sakai,R. van Drongelen,3
+G. Sakai,K. Papadopoulos,3
+A. Ekdal,K. Papadopoulos,3
+F. Kosti\u0107,B. Wood,3
+G. Sakai,Douglas Santos,2
+Walace,G. Sakai,2
+K. Papadopoulos,Walace,2
+T. Ito,G. Sakai,2
+T. Ito,A. Ekdal,2
+K. Papadopoulos,J. Arp,2
+R. van Drongelen,C. Mathenia,2
+J. Arp,T. Ito,2
+Walace,R. van Drongelen,2
+G. Sakai,C. Mathenia,2
+G. Sakai,A. Ekdal,2
+G. Sakai,Walace,2
+B. Wood,A. Ekdal,2
+K. Papadopoulos,A. Ekdal,2
+C. Mathenia,F. Kosti\u0107,1
+B. Wood,Walace,1
+C. Mathenia,B. Wood,1
+Douglas Santos,B. Wood,1
+A. Ekdal,B. Wood,1
+J. Arp,R. van Drongelen,1
+F. Kosti\u0107,A. Ekdal,1
+A. Hunt,T. Ito,1
+J. Arp,G. Sakai,1
+C. Mathenia,Douglas Santos,1
+Douglas Santos,A. Ekdal,1
+A. Ekdal,F. Kosti\u0107,1
+A. Ekdal,Douglas Santos,1
+F. Kosti\u0107,Douglas Santos,1
+R. van Drongelen,F. Kosti\u0107,1
+Walace,A. Hunt,1
+R. van Drongelen,Walace,1
+C. Mathenia,J. Arp,1
+G. Sakai,J. Arp,1
+C. Mathenia,R. van Drongelen,1
+Douglas Santos,J. Arp,1
+F. Kosti\u0107,T. Ito,1
+K. Papadopoulos,R. van Drongelen,1
+R. van Drongelen,G. Sakai,1
+Walace,C. Mathenia,1
+B. Wood,T. Ito,1
+T. Ito,R. van Drongelen,1
+Douglas Santos,R. van Drongelen,1
+T. Ito,F. Kosti\u0107,1
+A. Ekdal,T. Ito,1
+Douglas Santos,G. Sakai,1
+B. Wood,Douglas Santos,1
+B. Wood,F. Kosti\u0107,1
+G. Sakai,F. Kosti\u0107,1
+B. Wood,G. Sakai,1
+J. Arp,B. Wood,1

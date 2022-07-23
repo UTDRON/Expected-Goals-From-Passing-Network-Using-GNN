@@ -1,0 +1,42 @@
+Source,Target,Weight
+F. Thauvin,D. Payet,4
+D. Payet,F. Thauvin,3
+A. Zambo Anguissa,H. Sakai,3
+A. Zambo Anguissa,D. Payet,3
+H. Sakai,Luiz Gustavo,2
+L. Ocampos,F. Thauvin,2
+F. Thauvin,H. Sakai,2
+K. Mitroglou,A. Zambo Anguissa,2
+F. Thauvin,A. Zambo Anguissa,2
+Luiz Gustavo,J. Amavi,2
+A. Zambo Anguissa,F. Thauvin,2
+D. Payet,A. Rami,2
+H. Sakai,A. Zambo Anguissa,2
+D. Payet,A. Zambo Anguissa,2
+A. Rami,D. Payet,2
+H. Sakai,D. Payet,2
+Luiz Gustavo,D. Payet,1
+A. Zambo Anguissa,K. Mitroglou,1
+J. Amavi,A. Rami,1
+K. Mitroglou,Luiz Gustavo,1
+J. Amavi,F. Thauvin,1
+D. Payet,J. Amavi,1
+H. Sakai,F. Thauvin,1
+Luiz Gustavo,Rolando,1
+D. Payet,H. Sakai,1
+D. Payet,Rolando,1
+Rolando,A. Rami,1
+J. Amavi,K. Mitroglou,1
+S. Mandanda,K. Mitroglou,1
+F. Thauvin,L. Ocampos,1
+A. Rami,Luiz Gustavo,1
+A. Rami,S. Mandanda,1
+Luiz Gustavo,K. Mitroglou,1
+K. Mitroglou,F. Thauvin,1
+J. Amavi,A. Zambo Anguissa,1
+Luiz Gustavo,H. Sakai,1
+D. Payet,L. Ocampos,1
+Rolando,Luiz Gustavo,1
+D. Payet,Luiz Gustavo,1
+F. Thauvin,Luiz Gustavo,1
+Luiz Gustavo,A. Zambo Anguissa,1

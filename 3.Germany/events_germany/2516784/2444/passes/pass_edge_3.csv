@@ -1,0 +1,93 @@
+Source,Target,Weight
+Rafinha,F. Rib\u00e9ry,13
+M. Hummels,J. Boateng,13
+M. Hummels,A. Vidal,13
+F. Rib\u00e9ry,Rafinha,11
+Rafinha,M. Hummels,10
+A. Vidal,Rafinha,10
+J. Boateng,M. Hummels,10
+A. Vidal,M. Hummels,9
+M. Hummels,Rafinha,8
+J. Kimmich,J. Boateng,7
+S. Rudy,J. Boateng,7
+Rafinha,A. Vidal,7
+J. Boateng,Rafinha,7
+F. Rib\u00e9ry,S. Rudy,6
+J. Boateng,A. Vidal,6
+J. Kimmich,M. Hummels,5
+T. M\u00fcller,J. Kimmich,5
+T. M\u00fcller,J. Boateng,5
+M. Hummels,S. Rudy,5
+J. Boateng,F. Rib\u00e9ry,5
+J. Boateng,J. Kimmich,5
+S. Rudy,M. Hummels,5
+A. Vidal,F. Rib\u00e9ry,5
+J. Kimmich,T. M\u00fcller,5
+A. Robben,J. Kimmich,5
+R. Lewandowski,J. Kimmich,5
+F. Rib\u00e9ry,M. Hummels,5
+M. Hummels,F. Rib\u00e9ry,5
+A. Robben,F. Rib\u00e9ry,4
+F. Rib\u00e9ry,A. Robben,4
+A. Vidal,J. Boateng,4
+A. Robben,T. M\u00fcller,4
+J. Kimmich,S. Rudy,4
+J. Boateng,T. M\u00fcller,4
+Rafinha,J. Boateng,4
+J. Boateng,A. Robben,4
+S. Rudy,A. Vidal,3
+S. Ulreich,M. Hummels,3
+S. Ulreich,S. Rudy,3
+S. Rudy,Rafinha,3
+R. Lewandowski,A. Vidal,3
+A. Robben,J. Boateng,3
+J. Boateng,R. Lewandowski,3
+J. Kimmich,A. Robben,3
+A. Vidal,T. M\u00fcller,3
+T. M\u00fcller,F. Rib\u00e9ry,2
+Rafinha,A. Robben,2
+F. Rib\u00e9ry,S. Ulreich,2
+Rafinha,S. Ulreich,2
+T. M\u00fcller,M. Hummels,2
+A. Vidal,A. Robben,2
+Rafinha,R. Lewandowski,2
+R. Lewandowski,J. Boateng,2
+F. Rib\u00e9ry,J. Boateng,2
+F. Rib\u00e9ry,T. M\u00fcller,2
+M. Hummels,R. Lewandowski,2
+S. Rudy,J. Kimmich,2
+M. Hummels,J. Kimmich,2
+T. M\u00fcller,S. Rudy,2
+J. Boateng,S. Ulreich,2
+J. Boateng,S. Rudy,2
+J. Kimmich,R. Lewandowski,2
+S. Rudy,R. Lewandowski,2
+A. Vidal,J. Kimmich,2
+S. Rudy,A. Robben,2
+F. Rib\u00e9ry,A. Vidal,2
+T. M\u00fcller,A. Robben,2
+A. Vidal,S. Rudy,2
+A. Robben,A. Vidal,2
+F. Rib\u00e9ry,J. Kimmich,2
+Rafinha,S. Rudy,1
+J. Kimmich,Rafinha,1
+R. Lewandowski,M. Hummels,1
+A. Robben,Rafinha,1
+F. Rib\u00e9ry,R. Lewandowski,1
+M. Hummels,S. Ulreich,1
+S. Ulreich,Rafinha,1
+R. Lewandowski,F. Rib\u00e9ry,1
+T. M\u00fcller,S. Ulreich,1
+S. Rudy,T. M\u00fcller,1
+R. Lewandowski,A. Robben,1
+Rafinha,T. M\u00fcller,1
+T. M\u00fcller,A. Vidal,1
+S. Ulreich,J. Boateng,1
+A. Vidal,R. Lewandowski,1
+A. Robben,R. Lewandowski,1
+J. Kimmich,A. Vidal,1
+R. Lewandowski,S. Rudy,1
+R. Lewandowski,T. M\u00fcller,1
+T. M\u00fcller,R. Lewandowski,1
+S. Rudy,F. Rib\u00e9ry,1
+M. Hummels,A. Robben,1

@@ -1,0 +1,15 @@
+Source,Target,Weight
+J. Augustin,K. Kampl,1
+Y. Poulsen,N. Ke\u00efta,1
+Y. Poulsen,Bernardo,1
+M. Halstenberg,M. Sabitzer,1
+K. Kampl,M. Sabitzer,1
+M. Sabitzer,K. Kampl,1
+N. Ke\u00efta,M. Halstenberg,1
+D. Upamecano,J. Augustin,1
+Bernardo,M. Halstenberg,1
+M. Halstenberg,D. Upamecano,1
+K. Kampl,S. Ilsanker,1
+K. Kampl,Y. Poulsen,1
+S. Ilsanker,Bernardo,1
+Bernardo,Y. Poulsen,1

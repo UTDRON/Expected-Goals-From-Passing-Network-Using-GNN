@@ -1,0 +1,85 @@
+Source,Target,Weight
+J. Pla\u0161il,M. Poundj\u00e9,9
+M. Poundj\u00e9,V. Vada,7
+M. Poundj\u00e9,N. de Pr\u00e9ville,6
+V. Vada,M. Poundj\u00e9,6
+V. Vada,J. Pla\u0161il,6
+P. Baysse,B. Costil,6
+J. Pla\u0161il,V. Vada,5
+Y. Sabaly,L. Lerager,5
+P. Baysse,J. Pla\u0161il,5
+B. Costil,F. Kamano,5
+N. de Pr\u00e9ville,V. Vada,5
+M. Poundj\u00e9,J. Pla\u0161il,5
+L. Lerager,Y. Sabaly,5
+F. Kamano,Y. Sabaly,4
+N. de Pr\u00e9ville,M. Poundj\u00e9,4
+J. Pla\u0161il,Y. Sabaly,4
+Pablo,V. Vada,4
+Y. Sabaly,P. Baysse,4
+B. Costil,J. Pla\u0161il,3
+B. Costil,L. Lerager,3
+F. Kamano,L. Lerager,3
+L. Lerager,F. Kamano,3
+V. Vada,N. de Pr\u00e9ville,3
+N. de Pr\u00e9ville,F. Kamano,3
+V. Vada,P. Baysse,3
+J. Pla\u0161il,N. de Pr\u00e9ville,3
+V. Vada,Pablo,3
+N. de Pr\u00e9ville,J. Pla\u0161il,3
+Y. Sabaly,M. Braithwaite,3
+M. Poundj\u00e9,Pablo,3
+Pablo,P. Baysse,3
+J. Pla\u0161il,F. Kamano,3
+M. Poundj\u00e9,P. Baysse,3
+Y. Sabaly,F. Kamano,3
+P. Baysse,Y. Sabaly,3
+F. Kamano,J. Pla\u0161il,3
+P. Baysse,Pablo,3
+M. Braithwaite,F. Kamano,3
+M. Braithwaite,V. Vada,2
+Pablo,J. Pla\u0161il,2
+N. de Pr\u00e9ville,P. Baysse,2
+J. Pla\u0161il,L. Lerager,2
+F. Kamano,N. de Pr\u00e9ville,2
+B. Costil,Y. Sabaly,2
+V. Vada,M. Braithwaite,2
+B. Costil,P. Baysse,2
+F. Kamano,V. Vada,2
+J. Pla\u0161il,Pablo,2
+V. Vada,B. Costil,2
+F. Kamano,Pablo,2
+Pablo,B. Costil,2
+L. Lerager,J. Pla\u0161il,2
+P. Baysse,L. Lerager,2
+F. Kamano,P. Baysse,2
+M. Braithwaite,Y. Sabaly,2
+F. Kamano,M. Poundj\u00e9,2
+F. Kamano,B. Costil,2
+M. Poundj\u00e9,B. Costil,2
+Y. Sabaly,M. Poundj\u00e9,2
+B. Costil,N. de Pr\u00e9ville,2
+J. Pla\u0161il,P. Baysse,2
+Y. Sabaly,J. Pla\u0161il,2
+L. Lerager,Pablo,2
+Pablo,N. de Pr\u00e9ville,2
+J. Pla\u0161il,B. Costil,2
+Pablo,M. Poundj\u00e9,1
+M. Poundj\u00e9,F. Kamano,1
+Y. Sabaly,N. de Pr\u00e9ville,1
+L. Lerager,B. Costil,1
+P. Baysse,F. Kamano,1
+L. Lerager,M. Braithwaite,1
+N. de Pr\u00e9ville,Y. Sabaly,1
+P. Baysse,M. Poundj\u00e9,1
+P. Baysse,J. Kound\u00e9,1
+J. Kound\u00e9,J. Pla\u0161il,1
+N. de Pr\u00e9ville,L. Lerager,1
+Y. Sabaly,V. Vada,1
+L. Lerager,M. Poundj\u00e9,1
+Y. Sabaly,B. Costil,1
+L. Lerager,P. Baysse,1
+B. Costil,M. Braithwaite,1
+L. Lerager,V. Vada,1
+V. Vada,Y. Sabaly,1
+Pablo,L. Lerager,1

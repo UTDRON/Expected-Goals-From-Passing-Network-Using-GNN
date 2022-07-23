@@ -1,0 +1,66 @@
+Source,Target,Weight
+C. Grenier,Pedro Rebocho,3
+J. Briand,L. Blas,3
+L. Phiri,J. Ikoko,3
+L. Blas,L. Phiri,3
+C. Kerbrat,J. Ikoko,3
+K. Johnsson,C. Kerbrat,3
+F. Eboa Eboa,Pedro Rebocho,3
+C. Grenier,K. Johnsson,2
+M. Coco,C. Grenier,2
+J. Ikoko,Pedro Rebocho,2
+J. Ikoko,N. Benezet,2
+J. Briand,N. Benezet,2
+N. Benezet,L. Phiri,2
+C. Grenier,J. Ikoko,2
+Pedro Rebocho,J. Briand,2
+C. Kerbrat,L. Blas,2
+L. Phiri,C. Grenier,2
+F. Eboa Eboa,C. Grenier,2
+N. Benezet,C. Grenier,2
+M. Coco,J. Ikoko,2
+Pedro Rebocho,F. Eboa Eboa,2
+L. Blas,K. Johnsson,2
+J. Ikoko,M. Coco,2
+C. Kerbrat,M. Coco,1
+C. Grenier,C. Kerbrat,1
+J. Ikoko,C. Grenier,1
+J. Ikoko,F. Eboa Eboa,1
+F. Eboa Eboa,K. Johnsson,1
+C. Kerbrat,J. Briand,1
+K. Johnsson,Pedro Rebocho,1
+N. Benezet,M. Coco,1
+L. Phiri,L. Blas,1
+F. Eboa Eboa,L. Phiri,1
+K. Johnsson,F. Eboa Eboa,1
+J. Briand,L. Phiri,1
+L. Blas,J. Ikoko,1
+Pedro Rebocho,K. Johnsson,1
+N. Benezet,J. Briand,1
+M. Coco,C. Kerbrat,1
+K. Johnsson,L. Blas,1
+Pedro Rebocho,N. Benezet,1
+C. Grenier,J. Briand,1
+Pedro Rebocho,C. Grenier,1
+C. Kerbrat,K. Johnsson,1
+N. Benezet,L. Blas,1
+L. Blas,N. Benezet,1
+J. Ikoko,L. Blas,1
+J. Ikoko,J. Briand,1
+L. Blas,C. Kerbrat,1
+C. Kerbrat,F. Eboa Eboa,1
+L. Phiri,C. Kerbrat,1
+M. Coco,Pedro Rebocho,1
+J. Ikoko,C. Kerbrat,1
+Pedro Rebocho,J. Ikoko,1
+Pedro Rebocho,M. Coco,1
+Pedro Rebocho,L. Blas,1
+J. Ikoko,L. Phiri,1
+L. Blas,C. Grenier,1
+J. Briand,C. Grenier,1
+K. Johnsson,M. Coco,1
+L. Blas,J. Briand,1
+C. Grenier,L. Blas,1
+L. Blas,F. Eboa Eboa,1
+L. Phiri,F. Eboa Eboa,1
+C. Grenier,N. Benezet,1

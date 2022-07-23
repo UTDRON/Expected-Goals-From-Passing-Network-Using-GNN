@@ -1,0 +1,10 @@
+Source,Target,Weight
+J. Toljan,K. Demirbay,2
+M. Uth,D. Geiger,1
+K. Demirbay,J. Toljan,1
+D. Geiger,K. Demirbay,1
+M. Uth,K. Demirbay,1
+S. Zuber,M. Uth,1
+B. H\u00fcbner,S. Zuber,1
+K. Demirbay,B. H\u00fcbner,1
+K. Demirbay,M. Uth,1

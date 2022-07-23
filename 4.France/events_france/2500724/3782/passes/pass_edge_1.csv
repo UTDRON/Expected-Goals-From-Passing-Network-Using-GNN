@@ -1,0 +1,46 @@
+Source,Target,Weight
+B. Dabo,Gabriel Silva,4
+Gabriel Silva,B. Dabo,4
+H. Ma\u00efga,L. Perrin,2
+B. Dabo,K. Th\u00e9ophile Catherine,2
+L. Perrin,O. Seln\u00e6s,2
+H. Ma\u00efga,R. Pierre-Gabriel,2
+S. Ruffier,K. Th\u00e9ophile Catherine,2
+R. Pierre-Gabriel,H. Ma\u00efga,1
+R. Hamouma,H. Ma\u00efga,1
+K. Th\u00e9ophile Catherine,R. Hamouma,1
+H. Ma\u00efga,O. Seln\u00e6s,1
+R. Hamouma,S. Janko,1
+K. Th\u00e9ophile Catherine,S. Ruffier,1
+J. Bamba,H. Ma\u00efga,1
+J. Bamba,B. Dabo,1
+S. Janko,R. Hamouma,1
+B. Dabo,H. Ma\u00efga,1
+O. Seln\u00e6s,B. Dabo,1
+B. Dabo,R. Hamouma,1
+H. Ma\u00efga,S. Janko,1
+K. Th\u00e9ophile Catherine,J. Bamba,1
+J. Bamba,Gabriel Silva,1
+Gabriel Silva,K. Th\u00e9ophile Catherine,1
+R. Hamouma,B. Dabo,1
+L. Perrin,B. Dabo,1
+S. Janko,L. Perrin,1
+S. Janko,S. Ruffier,1
+R. Hamouma,Gabriel Silva,1
+R. Pierre-Gabriel,J. Bamba,1
+H. Ma\u00efga,R. Hamouma,1
+O. Seln\u00e6s,S. Ruffier,1
+S. Ruffier,R. Hamouma,1
+S. Janko,H. Ma\u00efga,1
+K. Th\u00e9ophile Catherine,H. Ma\u00efga,1
+J. Bamba,S. Janko,1
+L. Perrin,S. Janko,1
+O. Seln\u00e6s,L. Perrin,1
+O. Seln\u00e6s,Gabriel Silva,1
+B. Dabo,J. Bamba,1
+Gabriel Silva,S. Janko,1
+Gabriel Silva,R. Pierre-Gabriel,1
+R. Hamouma,O. Seln\u00e6s,1
+K. Th\u00e9ophile Catherine,B. Dabo,1
+R. Pierre-Gabriel,S. Ruffier,1
+S. Ruffier,H. Ma\u00efga,1

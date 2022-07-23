@@ -1,0 +1,71 @@
+Source,Target,Weight
+B. Stambouli,Naldo,10
+Naldo,T. Kehrer,10
+B. Oczipka,T. Kehrer,9
+T. Kehrer,Naldo,8
+Naldo,D. Caligiuri,8
+T. Kehrer,B. Oczipka,8
+Naldo,B. Stambouli,7
+D. Caligiuri,B. Stambouli,7
+D. Caligiuri,M. Meyer,5
+D. Caligiuri,Naldo,5
+M. Meyer,T. Kehrer,5
+B. Stambouli,D. Caligiuri,5
+Naldo,W. McKennie,4
+M. Meyer,D. Caligiuri,4
+D. Caligiuri,G. Burgstaller,4
+W. McKennie,M. Meyer,4
+R. F\u00e4hrmann,B. Stambouli,4
+F. Di Santo,B. Oczipka,3
+M. Meyer,Naldo,3
+W. McKennie,D. Caligiuri,3
+M. Meyer,B. Oczipka,3
+B. Oczipka,Y. Konoplyanka,3
+B. Stambouli,F. Di Santo,3
+G. Burgstaller,Naldo,3
+Naldo,F. Di Santo,3
+B. Oczipka,Naldo,3
+G. Burgstaller,F. Di Santo,3
+F. Di Santo,G. Burgstaller,2
+G. Burgstaller,D. Caligiuri,2
+F. Di Santo,W. McKennie,2
+F. Di Santo,M. Meyer,2
+T. Kehrer,W. McKennie,2
+T. Kehrer,D. Caligiuri,2
+W. McKennie,B. Stambouli,2
+Y. Konoplyanka,B. Oczipka,2
+Y. Konoplyanka,M. Meyer,2
+B. Stambouli,W. McKennie,2
+D. Caligiuri,W. McKennie,2
+W. McKennie,Naldo,2
+B. Oczipka,M. Meyer,2
+G. Burgstaller,W. McKennie,2
+T. Kehrer,M. Meyer,2
+Naldo,B. Oczipka,2
+W. McKennie,F. Di Santo,2
+W. McKennie,Y. Konoplyanka,1
+B. Stambouli,G. Burgstaller,1
+M. Meyer,W. McKennie,1
+Naldo,Y. Konoplyanka,1
+M. Meyer,B. Stambouli,1
+T. Kehrer,R. F\u00e4hrmann,1
+W. McKennie,R. F\u00e4hrmann,1
+D. Caligiuri,B. Oczipka,1
+T. Kehrer,F. Di Santo,1
+B. Oczipka,G. Burgstaller,1
+G. Burgstaller,T. Kehrer,1
+B. Oczipka,R. F\u00e4hrmann,1
+Naldo,M. Meyer,1
+D. Caligiuri,R. F\u00e4hrmann,1
+Y. Konoplyanka,Naldo,1
+F. Di Santo,B. Stambouli,1
+W. McKennie,G. Burgstaller,1
+M. Meyer,G. Burgstaller,1
+Y. Konoplyanka,D. Caligiuri,1
+B. Stambouli,Y. Konoplyanka,1
+F. Di Santo,Y. Konoplyanka,1
+R. F\u00e4hrmann,G. Burgstaller,1
+F. Di Santo,D. Caligiuri,1
+B. Stambouli,R. F\u00e4hrmann,1
+Y. Konoplyanka,W. McKennie,1
+T. Kehrer,B. Stambouli,1

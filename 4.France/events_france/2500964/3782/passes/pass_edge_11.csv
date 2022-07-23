@@ -1,0 +1,40 @@
+Source,Target,Weight
+Y. M'Vila,Hernani,4
+L. Perrin,Gabriel Silva,3
+Gabriel Silva,L. Perrin,3
+Hernani,Vagner,3
+Vagner,M. Debuchy,2
+Vagner,Gabriel Silva,2
+L. Perrin,Y. M'Vila,2
+L. Perrin,Vagner,2
+M. Debuchy,Vagner,2
+N. Suboti\u0107,M. Debuchy,2
+R. Beri\u010d,K. Monnet-Paquet,2
+S. Ruffier,L. Perrin,2
+M. Debuchy,N. Suboti\u0107,2
+R. Cabella,M. Debuchy,2
+Vagner,Y. M'Vila,2
+S. Ruffier,R. Cabella,1
+Hernani,K. Monnet-Paquet,1
+Y. M'Vila,M. Debuchy,1
+Y. M'Vila,Vagner,1
+K. Monnet-Paquet,Hernani,1
+K. Monnet-Paquet,L. Perrin,1
+R. Beri\u010d,L. Perrin,1
+Gabriel Silva,R. Cabella,1
+M. Debuchy,Hernani,1
+L. Perrin,R. Beri\u010d,1
+R. Cabella,Y. M'Vila,1
+Gabriel Silva,N. Suboti\u0107,1
+Y. M'Vila,S. Ruffier,1
+Vagner,R. Beri\u010d,1
+M. Debuchy,Y. M'Vila,1
+L. Perrin,Hernani,1
+Hernani,Y. M'Vila,1
+K. Monnet-Paquet,Gabriel Silva,1
+M. Debuchy,L. Perrin,1
+L. Perrin,S. Ruffier,1
+Gabriel Silva,S. Ruffier,1
+N. Suboti\u0107,L. Perrin,1
+Hernani,R. Cabella,1
+Hernani,R. Beri\u010d,1

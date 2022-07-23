@@ -1,0 +1,27 @@
+Source,Target,Weight
+J. Schmid,J. Gouweleeuw,3
+R. Khedira,M. Hitz,2
+M. Gregoritsch,J. Schmid,2
+J. Gouweleeuw,J. Schmid,2
+M. Gregoritsch,D. Baier,1
+J. Schmid,M. Gregoritsch,1
+M. Gregoritsch,R. Khedira,1
+M. Gregoritsch,Ja-Cheol Koo,1
+M. Hitz,S. C\u00f3rdova,1
+D. Baier,M. Gregoritsch,1
+M. Gregoritsch,S. C\u00f3rdova,1
+Ja-Cheol Koo,M. Gregoritsch,1
+J. Gouweleeuw,M. Gregoritsch,1
+Ja-Cheol Koo,J. Schmid,1
+D. Baier,P. Max,1
+S. C\u00f3rdova,Ja-Cheol Koo,1
+R. Khedira,M. Gregoritsch,1
+M. Hitz,J. Gouweleeuw,1
+J. Gouweleeuw,Ja-Cheol Koo,1
+P. Max,D. Baier,1
+J. Schmid,R. Khedira,1
+J. Gouweleeuw,M. Hitz,1
+S. C\u00f3rdova,R. Khedira,1
+Ja-Cheol Koo,J. Gouweleeuw,1
+J. Schmid,D. Baier,1
+M. Hitz,J. Schmid,1

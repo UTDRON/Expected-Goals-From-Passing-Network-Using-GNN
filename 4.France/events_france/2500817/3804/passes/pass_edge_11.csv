@@ -1,0 +1,96 @@
+Source,Target,Weight
+O. Haddadi,Xeka,5
+P. Djilobodji,F. Sammaritano,5
+Xeka,Kwon Chang-Hoon,4
+F. Balmont,V. Rosier,4
+R. Amalfitano,V. Rosier,4
+V. Rosier,Kwon Chang-Hoon,3
+R. Amalfitano,P. Djilobodji,3
+J\u00falio Tavares,V. Rosier,3
+F. Chafik,C. Yamber\u00e9,3
+B. Reynet,J\u00falio Tavares,3
+F. Chafik,O. Haddadi,3
+B. Reynet,O. Haddadi,3
+C. Yamber\u00e9,F. Sammaritano,2
+V. Rosier,Xeka,2
+O. Haddadi,R. Amalfitano,2
+V. Rosier,F. Balmont,2
+J\u00falio Tavares,Xeka,2
+O. Haddadi,P. Djilobodji,2
+Xeka,B. Reynet,2
+P. Djilobodji,B. Reynet,2
+W. Sa\u00efd,Xeka,2
+Xeka,R. Amalfitano,2
+Kwon Chang-Hoon,F. Balmont,2
+V. Rosier,R. Amalfitano,2
+Xeka,F. Sammaritano,2
+R. Amalfitano,J\u00falio Tavares,2
+O. Haddadi,B. Reynet,2
+Xeka,O. Haddadi,2
+F. Sammaritano,P. Djilobodji,2
+F. Sammaritano,R. Amalfitano,2
+V. Rosier,C. Yamber\u00e9,2
+J\u00falio Tavares,F. Balmont,2
+F. Sammaritano,W. Sa\u00efd,2
+Xeka,F. Chafik,2
+P. Djilobodji,O. Haddadi,2
+W. Sa\u00efd,R. Amalfitano,2
+F. Chafik,R. Amalfitano,2
+F. Sammaritano,F. Chafik,2
+Kwon Chang-Hoon,O. Haddadi,2
+R. Amalfitano,Xeka,2
+J\u00falio Tavares,O. Haddadi,2
+C. Yamber\u00e9,F. Chafik,2
+J\u00falio Tavares,W. Sa\u00efd,1
+F. Sammaritano,J\u00falio Tavares,1
+W. Sa\u00efd,Kwon Chang-Hoon,1
+Xeka,J\u00falio Tavares,1
+F. Balmont,W. Sa\u00efd,1
+F. Balmont,Kwon Chang-Hoon,1
+O. Haddadi,F. Balmont,1
+W. Sa\u00efd,O. Haddadi,1
+M. Abeid,B. Reynet,1
+P. Djilobodji,R. Amalfitano,1
+J\u00falio Tavares,F. Chafik,1
+O. Haddadi,F. Sammaritano,1
+F. Balmont,M. Abeid,1
+R. Amalfitano,F. Chafik,1
+O. Haddadi,Kwon Chang-Hoon,1
+Kwon Chang-Hoon,Xeka,1
+Kwon Chang-Hoon,F. Sammaritano,1
+J\u00falio Tavares,R. Amalfitano,1
+M. Abeid,O. Haddadi,1
+W. Sa\u00efd,P. Djilobodji,1
+P. Djilobodji,W. Sa\u00efd,1
+O. Haddadi,F. Chafik,1
+W. Sa\u00efd,J\u00falio Tavares,1
+O. Haddadi,J\u00falio Tavares,1
+B. Reynet,W. Sa\u00efd,1
+C. Yamber\u00e9,V. Rosier,1
+R. Amalfitano,O. Haddadi,1
+V. Rosier,B. Reynet,1
+F. Chafik,F. Sammaritano,1
+F. Sammaritano,C. Yamber\u00e9,1
+R. Amalfitano,W. Sa\u00efd,1
+O. Haddadi,V. Rosier,1
+Kwon Chang-Hoon,F. Chafik,1
+V. Rosier,P. Djilobodji,1
+B. Reynet,Kwon Chang-Hoon,1
+Xeka,V. Rosier,1
+C. Yamber\u00e9,P. Djilobodji,1
+Kwon Chang-Hoon,W. Sa\u00efd,1
+Xeka,W. Sa\u00efd,1
+F. Balmont,J\u00falio Tavares,1
+F. Chafik,Xeka,1
+F. Sammaritano,B. Reynet,1
+B. Reynet,Xeka,1
+P. Djilobodji,J\u00falio Tavares,1
+V. Rosier,J\u00falio Tavares,1
+C. Yamber\u00e9,B. Reynet,1
+Xeka,P. Djilobodji,1
+B. Reynet,C. Yamber\u00e9,1
+C. Yamber\u00e9,Xeka,1
+W. Sa\u00efd,F. Balmont,1
+Kwon Chang-Hoon,C. Yamber\u00e9,1
+F. Sammaritano,Xeka,1
+Kwon Chang-Hoon,M. Abeid,1

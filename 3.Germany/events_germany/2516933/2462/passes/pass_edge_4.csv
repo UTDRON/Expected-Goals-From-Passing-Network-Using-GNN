@@ -1,0 +1,64 @@
+Source,Target,Weight
+D. da Costa,K. Boateng,4
+Omar Mascarell,A. Rebi\u0107,4
+M. Hasebe,M. Russ,4
+M. Hasebe,K. Boateng,3
+K. Boateng,Omar Mascarell,3
+M. Russ,D. da Costa,3
+T. Chandler,L. Jovi\u0107,3
+M. Hasebe,T. Chandler,3
+S. Falette,M. Hasebe,3
+M. Wolf,M. Hasebe,3
+M. Hasebe,S. Falette,2
+T. Chandler,M. Hasebe,2
+T. Chandler,S. Falette,2
+S. Falette,D. da Costa,2
+L. Jovi\u0107,M. Wolf,2
+D. da Costa,M. Hasebe,2
+K. Boateng,M. Wolf,2
+M. Hasebe,L. Hradecky,2
+K. Boateng,M. Hasebe,2
+D. da Costa,M. Wolf,2
+L. Jovi\u0107,D. da Costa,2
+D. da Costa,L. Jovi\u0107,2
+A. Rebi\u0107,Omar Mascarell,2
+M. Wolf,D. da Costa,2
+Omar Mascarell,M. Hasebe,2
+K. Boateng,D. da Costa,2
+L. Hradecky,T. Chandler,1
+M. Wolf,M. Russ,1
+L. Jovi\u0107,M. Hasebe,1
+M. Russ,M. Wolf,1
+L. Hradecky,M. Hasebe,1
+A. Rebi\u0107,S. Falette,1
+M. Russ,Omar Mascarell,1
+M. Hasebe,A. Rebi\u0107,1
+L. Jovi\u0107,T. Chandler,1
+S. Falette,L. Hradecky,1
+M. Wolf,Omar Mascarell,1
+Omar Mascarell,M. Russ,1
+A. Rebi\u0107,M. Hasebe,1
+S. Falette,K. Boateng,1
+K. Boateng,T. Chandler,1
+Omar Mascarell,M. Wolf,1
+M. Hasebe,M. Wolf,1
+D. da Costa,Omar Mascarell,1
+M. Russ,K. Boateng,1
+A. Rebi\u0107,T. Chandler,1
+L. Jovi\u0107,Omar Mascarell,1
+L. Hradecky,L. Jovi\u0107,1
+M. Hasebe,L. Jovi\u0107,1
+M. Russ,M. Hasebe,1
+L. Jovi\u0107,K. Boateng,1
+K. Boateng,S. Falette,1
+D. da Costa,M. Russ,1
+Omar Mascarell,S. Falette,1
+M. Hasebe,Omar Mascarell,1
+L. Jovi\u0107,S. Falette,1
+S. Falette,Omar Mascarell,1
+M. Wolf,K. Boateng,1
+K. Boateng,L. Jovi\u0107,1
+T. Chandler,D. da Costa,1
+Omar Mascarell,K. Boateng,1
+Omar Mascarell,T. Chandler,1
+M. Wolf,L. Jovi\u0107,1

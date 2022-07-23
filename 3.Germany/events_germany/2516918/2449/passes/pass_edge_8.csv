@@ -1,0 +1,70 @@
+Source,Target,Weight
+Naldo,T. Kehrer,5
+M. Meyer,A. Harit,4
+D. Caligiuri,Naldo,4
+F. Di Santo,Y. Konoplyanka,4
+M. Meyer,B. Oczipka,3
+Naldo,D. Caligiuri,3
+D. Caligiuri,A. Harit,3
+T. Kehrer,R. F\u00e4hrmann,3
+R. F\u00e4hrmann,F. Di Santo,3
+T. Kehrer,D. Caligiuri,3
+D. Caligiuri,M. Meyer,3
+B. Oczipka,R. F\u00e4hrmann,2
+T. Kehrer,Naldo,2
+A. Harit,D. Caligiuri,2
+D. Caligiuri,F. Di Santo,2
+Y. Konoplyanka,B. Oczipka,2
+F. Di Santo,B. Oczipka,2
+M. Meyer,T. Kehrer,2
+R. F\u00e4hrmann,M. Nastasi\u0107,2
+L. Goretzka,F. Di Santo,2
+F. Di Santo,M. Meyer,2
+B. Oczipka,F. Di Santo,2
+M. Nastasi\u0107,R. F\u00e4hrmann,2
+F. Di Santo,D. Caligiuri,2
+A. Harit,L. Goretzka,2
+Naldo,M. Meyer,1
+F. Di Santo,M. Nastasi\u0107,1
+L. Goretzka,M. Meyer,1
+T. Kehrer,M. Nastasi\u0107,1
+L. Goretzka,D. Caligiuri,1
+R. F\u00e4hrmann,T. Kehrer,1
+D. Caligiuri,R. F\u00e4hrmann,1
+M. Nastasi\u0107,Naldo,1
+Y. Konoplyanka,T. Kehrer,1
+T. Kehrer,B. Oczipka,1
+Naldo,F. Di Santo,1
+L. Goretzka,Naldo,1
+M. Meyer,Y. Konoplyanka,1
+A. Harit,F. Di Santo,1
+F. Di Santo,L. Goretzka,1
+R. F\u00e4hrmann,M. Meyer,1
+Y. Konoplyanka,M. Meyer,1
+T. Kehrer,A. Harit,1
+B. Oczipka,Y. Konoplyanka,1
+M. Nastasi\u0107,Y. Konoplyanka,1
+A. Harit,M. Nastasi\u0107,1
+M. Nastasi\u0107,L. Goretzka,1
+M. Meyer,D. Caligiuri,1
+A. Harit,Naldo,1
+Naldo,A. Harit,1
+Y. Konoplyanka,D. Caligiuri,1
+M. Nastasi\u0107,F. Di Santo,1
+B. Stambouli,D. Caligiuri,1
+A. Harit,T. Kehrer,1
+B. Oczipka,D. Caligiuri,1
+A. Harit,M. Meyer,1
+Naldo,B. Stambouli,1
+Y. Konoplyanka,F. Di Santo,1
+R. F\u00e4hrmann,Naldo,1
+D. Caligiuri,Y. Konoplyanka,1
+B. Oczipka,Naldo,1
+M. Meyer,Naldo,1
+T. Kehrer,M. Meyer,1
+Y. Konoplyanka,M. Nastasi\u0107,1
+Naldo,B. Oczipka,1
+D. Caligiuri,T. Kehrer,1
+B. Oczipka,M. Meyer,1
+Y. Konoplyanka,Naldo,1
+B. Oczipka,L. Goretzka,1

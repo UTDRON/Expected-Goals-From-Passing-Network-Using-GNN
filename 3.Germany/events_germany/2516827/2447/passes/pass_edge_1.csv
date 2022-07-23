@@ -1,0 +1,84 @@
+Source,Target,Weight
+Bartra,N. \u015eahin,8
+A. Yarmolenko,Bartra,7
+Bartra,A. Yarmolenko,5
+N. \u015eahin,A. Yarmolenko,5
+M. Schmelzer,C. Pulisic,5
+Bartra,S. Papastathopoulos,5
+D. Zagadou,M. Schmelzer,4
+M. Schmelzer,M. G\u00f6tze,4
+Bartra,P. Aubameyang,4
+M. G\u00f6tze,Bartra,4
+N. \u015eahin,Bartra,4
+M. Schmelzer,D. Zagadou,4
+A. Yarmolenko,S. Papastathopoulos,3
+D. Zagadou,N. \u015eahin,3
+D. Zagadou,R. B\u00fcrki,3
+N. \u015eahin,D. Zagadou,3
+S. Papastathopoulos,R. B\u00fcrki,3
+N. \u015eahin,M. Schmelzer,3
+S. Papastathopoulos,D. Zagadou,3
+S. Papastathopoulos,A. Yarmolenko,3
+D. Zagadou,Bartra,3
+C. Pulisic,S. Papastathopoulos,3
+S. Papastathopoulos,Bartra,3
+P. Aubameyang,M. G\u00f6tze,3
+C. Pulisic,M. Schmelzer,3
+Bartra,M. G\u00f6tze,2
+P. Aubameyang,M. Schmelzer,2
+M. Schmelzer,N. \u015eahin,2
+G. Castro,M. Schmelzer,2
+C. Pulisic,Bartra,2
+M. G\u00f6tze,C. Pulisic,2
+G. Castro,Bartra,2
+Bartra,D. Zagadou,2
+R. B\u00fcrki,A. Yarmolenko,2
+A. Yarmolenko,G. Castro,2
+P. Aubameyang,R. B\u00fcrki,2
+S. Papastathopoulos,P. Aubameyang,2
+M. G\u00f6tze,G. Castro,2
+M. G\u00f6tze,A. Yarmolenko,2
+D. Zagadou,S. Papastathopoulos,2
+G. Castro,C. Pulisic,2
+M. Schmelzer,P. Aubameyang,2
+M. G\u00f6tze,S. Papastathopoulos,2
+D. Zagadou,C. Pulisic,2
+S. Papastathopoulos,M. G\u00f6tze,2
+A. Yarmolenko,N. \u015eahin,2
+R. B\u00fcrki,D. Zagadou,2
+A. Yarmolenko,D. Zagadou,2
+C. Pulisic,N. \u015eahin,2
+C. Pulisic,P. Aubameyang,2
+C. Pulisic,G. Castro,2
+N. \u015eahin,G. Castro,1
+R. B\u00fcrki,M. G\u00f6tze,1
+D. Zagadou,A. Yarmolenko,1
+A. Yarmolenko,M. G\u00f6tze,1
+G. Castro,M. G\u00f6tze,1
+P. Aubameyang,G. Castro,1
+N. \u015eahin,S. Papastathopoulos,1
+R. B\u00fcrki,Bartra,1
+M. G\u00f6tze,N. \u015eahin,1
+R. B\u00fcrki,M. Schmelzer,1
+P. Aubameyang,Bartra,1
+G. Castro,P. Aubameyang,1
+A. Yarmolenko,M. Schmelzer,1
+M. Schmelzer,A. Yarmolenko,1
+D. Zagadou,G. Castro,1
+M. G\u00f6tze,M. Schmelzer,1
+Bartra,R. B\u00fcrki,1
+P. Aubameyang,S. Papastathopoulos,1
+P. Aubameyang,C. Pulisic,1
+Bartra,M. Schmelzer,1
+R. B\u00fcrki,N. \u015eahin,1
+M. Schmelzer,Bartra,1
+G. Castro,A. Yarmolenko,1
+N. \u015eahin,M. G\u00f6tze,1
+R. B\u00fcrki,C. Pulisic,1
+M. G\u00f6tze,D. Zagadou,1
+R. B\u00fcrki,P. Aubameyang,1
+N. \u015eahin,C. Pulisic,1
+P. Aubameyang,D. Zagadou,1
+A. Yarmolenko,C. Pulisic,1
+S. Papastathopoulos,M. Schmelzer,1
+C. Pulisic,R. B\u00fcrki,1

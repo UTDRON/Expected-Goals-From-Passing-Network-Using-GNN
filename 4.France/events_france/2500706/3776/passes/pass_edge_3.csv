@@ -1,0 +1,88 @@
+Source,Target,Weight
+I. Amadou,Edgar I\u00e9,10
+I. Amadou,J. Alonso,10
+Edgar I\u00e9,I. Amadou,9
+J. Alonso,I. Amadou,8
+Y. Benzia,N. P\u00e9p\u00e9,7
+Thiago Maia,Edgar I\u00e9,7
+Y. Bissouma,A. El Ghazi,7
+Edgar I\u00e9,Y. Bissouma,7
+N. P\u00e9p\u00e9,Y. Benzia,6
+J. Alonso,F. Tour\u00e9,6
+Edgar I\u00e9,A. El Ghazi,6
+Thiago Maia,J. Alonso,6
+I. Amadou,Thiago Maia,6
+N. P\u00e9p\u00e9,Y. Bissouma,6
+Y. Bissouma,N. P\u00e9p\u00e9,6
+F. Tour\u00e9,J. Alonso,5
+H. Koffi,I. Amadou,5
+F. Tour\u00e9,Thiago Maia,5
+Edgar I\u00e9,Y. Benzia,5
+Thiago Maia,Y. Bissouma,5
+J. Alonso,N. P\u00e9p\u00e9,4
+J. Alonso,Thiago Maia,4
+Thiago Maia,I. Amadou,4
+Y. Benzia,Luiz Ara\u00fajo,4
+Y. Bissouma,Thiago Maia,4
+A. El Ghazi,Y. Bissouma,4
+I. Amadou,Y. Bissouma,3
+N. P\u00e9p\u00e9,Edgar I\u00e9,3
+Thiago Maia,Y. Benzia,3
+F. Tour\u00e9,Luiz Ara\u00fajo,3
+A. El Ghazi,Thiago Maia,3
+N. P\u00e9p\u00e9,J. Alonso,3
+J. Alonso,Edgar I\u00e9,3
+F. Tour\u00e9,H. Koffi,3
+Y. Bissouma,Edgar I\u00e9,3
+Y. Bissouma,I. Amadou,3
+Edgar I\u00e9,Thiago Maia,3
+Y. Bissouma,Y. Benzia,3
+H. Koffi,Edgar I\u00e9,3
+I. Amadou,H. Koffi,3
+Thiago Maia,F. Tour\u00e9,3
+J. Alonso,Y. Benzia,3
+J. Alonso,H. Koffi,2
+A. El Ghazi,J. Alonso,2
+A. El Ghazi,I. Amadou,2
+A. El Ghazi,Luiz Ara\u00fajo,2
+Y. Benzia,I. Amadou,2
+Y. Benzia,Edgar I\u00e9,2
+N. P\u00e9p\u00e9,Thiago Maia,2
+H. Koffi,J. Alonso,2
+H. Koffi,F. Tour\u00e9,2
+Luiz Ara\u00fajo,F. Tour\u00e9,2
+Thiago Maia,N. P\u00e9p\u00e9,2
+I. Amadou,N. P\u00e9p\u00e9,2
+Luiz Ara\u00fajo,Y. Benzia,2
+Y. Benzia,Y. Bissouma,2
+Y. Benzia,Thiago Maia,2
+N. P\u00e9p\u00e9,F. Tour\u00e9,2
+A. El Ghazi,H. Koffi,2
+Y. Benzia,F. Tour\u00e9,1
+A. El Ghazi,F. Tour\u00e9,1
+F. Tour\u00e9,Edgar I\u00e9,1
+Y. Bissouma,J. Alonso,1
+Y. Bissouma,F. Tour\u00e9,1
+Edgar I\u00e9,H. Koffi,1
+Luiz Ara\u00fajo,Thiago Maia,1
+Edgar I\u00e9,F. Tour\u00e9,1
+A. El Ghazi,Edgar I\u00e9,1
+J. Alonso,A. El Ghazi,1
+Y. Benzia,H. Koffi,1
+I. Amadou,Y. Benzia,1
+F. Tour\u00e9,I. Amadou,1
+Edgar I\u00e9,J. Alonso,1
+Luiz Ara\u00fajo,I. Amadou,1
+Luiz Ara\u00fajo,H. Koffi,1
+H. Koffi,N. P\u00e9p\u00e9,1
+N. P\u00e9p\u00e9,I. Amadou,1
+H. Koffi,Thiago Maia,1
+I. Amadou,F. Tour\u00e9,1
+N. P\u00e9p\u00e9,A. El Ghazi,1
+Luiz Ara\u00fajo,N. P\u00e9p\u00e9,1
+Y. Benzia,J. Alonso,1
+Thiago Maia,A. El Ghazi,1
+Y. Benzia,A. El Ghazi,1
+Thiago Maia,H. Koffi,1
+F. Tour\u00e9,N. P\u00e9p\u00e9,1
+Luiz Ara\u00fajo,Y. Bissouma,1

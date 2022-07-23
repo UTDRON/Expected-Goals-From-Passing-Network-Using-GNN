@@ -1,0 +1,21 @@
+Source,Target,Weight
+M. Meyer,A. Sch\u00f6pf,2
+A. Sch\u00f6pf,B. Oczipka,2
+D. Caligiuri,G. Burgstaller,1
+B. Oczipka,D. Caligiuri,1
+B. Oczipka,Naldo,1
+B. Oczipka,M. Meyer,1
+B. Stambouli,D. Caligiuri,1
+A. Sch\u00f6pf,A. Harit,1
+B. Embolo,D. Caligiuri,1
+B. Stambouli,B. Embolo,1
+A. Harit,B. Stambouli,1
+D. Caligiuri,M. Meyer,1
+G. Burgstaller,A. Sch\u00f6pf,1
+B. Embolo,B. Stambouli,1
+B. Stambouli,M. Meyer,1
+B. Oczipka,B. Embolo,1
+A. Sch\u00f6pf,B. Stambouli,1
+D. Caligiuri,B. Stambouli,1
+M. Meyer,B. Oczipka,1
+B. Stambouli,A. Sch\u00f6pf,1

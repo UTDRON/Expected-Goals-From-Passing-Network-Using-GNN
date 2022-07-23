@@ -1,0 +1,70 @@
+Source,Target,Weight
+Jo\u00e3o Moutinho,K. N'Doram,6
+K. N'Doram,D. Sidib\u00e9,5
+A. Diakhaby,Jorge,5
+Jorge,Jo\u00e3o Moutinho,5
+T. Lemar,B. Keita,4
+B. Keita,D. Sidib\u00e9,4
+Jorge,A. Diakhaby,4
+A. Diakhaby,Jo\u00e3o Moutinho,4
+D. Sidib\u00e9,T. Lemar,4
+Jorge,R. Falcao,4
+Jo\u00e3o Moutinho,Jorge,4
+A. Raggi,Jo\u00e3o Moutinho,4
+K. N'Doram,A. Raggi,3
+R. Falcao,Jo\u00e3o Moutinho,3
+D. Sidib\u00e9,A. Raggi,3
+D. Sidib\u00e9,B. Keita,3
+R. Falcao,K. N'Doram,3
+Jo\u00e3o Moutinho,A. Raggi,3
+A. Diakhaby,T. Lemar,2
+T. Lemar,D. Sidib\u00e9,2
+Jo\u00e3o Moutinho,B. Keita,2
+K. N'Doram,T. Lemar,2
+B. Keita,A. Diakhaby,2
+Jo\u00e3o Moutinho,A. Diakhaby,2
+K. N'Doram,Jorge,2
+Jo\u00e3o Moutinho,T. Lemar,2
+K. N'Doram,K. Glik,2
+B. Keita,K. N'Doram,2
+Jorge,T. Lemar,2
+K. Glik,A. Raggi,2
+K. Glik,D. Sidib\u00e9,2
+D. Suba\u0161i\u0107,Jorge,2
+D. Suba\u0161i\u0107,K. Glik,2
+K. N'Doram,D. Suba\u0161i\u0107,2
+D. Suba\u0161i\u0107,B. Keita,2
+T. Lemar,R. Falcao,2
+D. Sidib\u00e9,R. Falcao,2
+T. Lemar,K. N'Doram,2
+A. Raggi,Jorge,2
+A. Raggi,K. Glik,2
+K. Glik,T. Lemar,2
+R. Falcao,Jorge,2
+A. Raggi,D. Suba\u0161i\u0107,2
+Jo\u00e3o Moutinho,K. Glik,2
+T. Lemar,A. Diakhaby,2
+K. Glik,K. N'Doram,2
+T. Lemar,Jo\u00e3o Moutinho,2
+A. Raggi,A. Diakhaby,1
+K. N'Doram,A. Diakhaby,1
+R. Falcao,K. Glik,1
+Jorge,D. Suba\u0161i\u0107,1
+K. Glik,R. Falcao,1
+D. Sidib\u00e9,K. N'Doram,1
+K. Glik,Jo\u00e3o Moutinho,1
+K. Glik,D. Suba\u0161i\u0107,1
+A. Diakhaby,K. N'Doram,1
+Jorge,D. Sidib\u00e9,1
+B. Keita,R. Falcao,1
+Jorge,K. N'Doram,1
+R. Falcao,B. Keita,1
+A. Raggi,T. Lemar,1
+B. Keita,Jorge,1
+K. N'Doram,Jo\u00e3o Moutinho,1
+A. Raggi,K. N'Doram,1
+B. Keita,K. Glik,1
+R. Falcao,A. Raggi,1
+D. Sidib\u00e9,K. Glik,1
+K. N'Doram,R. Falcao,1
+B. Keita,Jo\u00e3o Moutinho,1

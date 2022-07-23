@@ -1,0 +1,14 @@
+Source,Target,Weight
+N. Mukiele,Hilton,2
+Hilton,Pedro Mendes,2
+J. Roussillon,Pedro Mendes,2
+Pedro Mendes,J. Roussillon,2
+J. Roussillon,P. Lasne,1
+J. Roussillon,I. Mbenza,1
+E. Skhiri,Hilton,1
+P. Lasne,E. Skhiri,1
+Pedro Mendes,N. Mukiele,1
+I. Mbenza,J. Roussillon,1
+Hilton,N. Mukiele,1
+Pedro Mendes,Hilton,1
+Hilton,J. Roussillon,1

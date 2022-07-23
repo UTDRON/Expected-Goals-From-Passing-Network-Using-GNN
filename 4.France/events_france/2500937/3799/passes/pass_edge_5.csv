@@ -1,0 +1,49 @@
+Source,Target,Weight
+B. Santamaria,T. Mangani,5
+P. Capelle,V. Manceau,3
+T. Mangani,Y. Andreu,3
+T. Mangani,K. Toko Ekambi,3
+P. Oniangu\u00e9,V. Manceau,3
+Y. Andreu,K. Toko Ekambi,3
+V. Manceau,B. Santamaria,3
+Y. Andreu,B. Santamaria,3
+V. Manceau,P. Oniangu\u00e9,2
+K. Toko Ekambi,P. Oniangu\u00e9,2
+K. Toko Ekambi,T. Mangani,2
+L. Butelle,P. Oniangu\u00e9,2
+T. Mangani,V. Manceau,2
+M. Pavlovi\u0107,Y. Andreu,2
+V. Manceau,P. Capelle,2
+B. Santamaria,I. Traor\u00e9,2
+Y. Andreu,M. Pavlovi\u0107,1
+I. Traor\u00e9,L. Butelle,1
+K. Toko Ekambi,M. Pavlovi\u0107,1
+L. Butelle,K. Toko Ekambi,1
+F. Tait,M. Pavlovi\u0107,1
+I. Traor\u00e9,M. Pavlovi\u0107,1
+P. Capelle,B. Santamaria,1
+K. Toko Ekambi,Y. Andreu,1
+M. Pavlovi\u0107,P. Oniangu\u00e9,1
+P. Oniangu\u00e9,T. Mangani,1
+B. Santamaria,V. Manceau,1
+Y. Andreu,T. Mangani,1
+T. Mangani,M. Pavlovi\u0107,1
+B. Santamaria,Y. Andreu,1
+M. Pavlovi\u0107,B. Santamaria,1
+M. Pavlovi\u0107,P. Capelle,1
+P. Oniangu\u00e9,M. Pavlovi\u0107,1
+P. Oniangu\u00e9,B. Santamaria,1
+V. Manceau,Y. Andreu,1
+M. Pavlovi\u0107,T. Mangani,1
+F. Tait,V. Manceau,1
+V. Manceau,K. Toko Ekambi,1
+P. Capelle,L. Butelle,1
+I. Traor\u00e9,F. Tait,1
+T. Mangani,P. Capelle,1
+K. Toko Ekambi,P. Capelle,1
+V. Manceau,I. Traor\u00e9,1
+I. Traor\u00e9,P. Capelle,1
+L. Butelle,I. Traor\u00e9,1
+P. Capelle,Y. Andreu,1
+P. Oniangu\u00e9,L. Butelle,1
+Y. Andreu,L. Butelle,1

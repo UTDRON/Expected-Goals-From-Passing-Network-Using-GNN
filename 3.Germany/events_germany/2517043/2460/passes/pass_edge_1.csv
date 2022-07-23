@@ -1,0 +1,47 @@
+Source,Target,Weight
+N. de Jong,A. Hack,6
+P. De Blasis,D. Brosinski,5
+J. Gbamin,N. de Jong,3
+R. Baku,D. Brosinski,3
+A. Hack,R. Baku,3
+D. Brosinski,G. Donati,3
+D. Brosinski,R. Baku,3
+L. \u00d6ztunali,J. Gbamin,2
+R. Baku,A. Hack,2
+G. Donati,L. \u00d6ztunali,2
+R. Baku,P. De Blasis,2
+F. M\u00fcller,P. De Blasis,2
+L. \u00d6ztunali,G. Donati,2
+R. Baku,N. de Jong,2
+A. Hack,N. de Jong,1
+J. Gbamin,L. \u00d6ztunali,1
+P. De Blasis,R. Baku,1
+D. Brosinski,P. De Blasis,1
+N. de Jong,J. Gbamin,1
+P. De Blasis,N. de Jong,1
+A. Hack,P. De Blasis,1
+S. Bell,J. Gbamin,1
+N. de Jong,P. De Blasis,1
+N. de Jong,R. Baku,1
+P. De Blasis,S. Bell,1
+D. Brosinski,Y. Muto,1
+D. Brosinski,N. de Jong,1
+A. Hack,G. Donati,1
+G. Donati,S. Bell,1
+S. Bell,G. Donati,1
+G. Donati,J. Gbamin,1
+A. Hack,L. \u00d6ztunali,1
+G. Donati,A. Hack,1
+S. Bell,L. \u00d6ztunali,1
+D. Brosinski,A. Hack,1
+A. Hack,S. Bell,1
+J. Gbamin,S. Bell,1
+N. de Jong,D. Brosinski,1
+A. Hack,J. Gbamin,1
+J. Gbamin,G. Donati,1
+G. Donati,P. De Blasis,1
+G. Donati,R. Baku,1
+S. Bell,N. de Jong,1
+A. Hack,F. M\u00fcller,1
+Y. Muto,D. Brosinski,1
+G. Donati,F. M\u00fcller,1

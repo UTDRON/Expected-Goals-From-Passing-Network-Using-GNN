@@ -1,0 +1,32 @@
+Source,Target,Weight
+J. Willems,S. Haller,3
+J. de Guzm\u00e1n,J. Willems,2
+J. Willems,K. Boateng,2
+K. Boateng,J. Willems,2
+L. Hradecky,T. Chandler,2
+T. Chandler,C. Salcedo,2
+S. Haller,L. Hradecky,1
+S. Haller,G. Fernandes,1
+M. Ga\u0107inovi\u0107,T. Chandler,1
+S. Haller,C. Salcedo,1
+C. Salcedo,D. Abraham,1
+S. Haller,T. Chandler,1
+K. Boateng,J. de Guzm\u00e1n,1
+D. Abraham,K. Boateng,1
+K. Boateng,S. Haller,1
+M. Ga\u0107inovi\u0107,S. Haller,1
+G. Fernandes,K. Boateng,1
+J. Willems,D. Abraham,1
+D. Abraham,G. Fernandes,1
+K. Boateng,M. Ga\u0107inovi\u0107,1
+C. Salcedo,M. Ga\u0107inovi\u0107,1
+G. Fernandes,D. Abraham,1
+T. Chandler,J. Willems,1
+S. Haller,J. Willems,1
+M. Ga\u0107inovi\u0107,L. Hradecky,1
+S. Haller,M. Ga\u0107inovi\u0107,1
+T. Chandler,S. Haller,1
+C. Salcedo,J. de Guzm\u00e1n,1
+D. Abraham,J. de Guzm\u00e1n,1
+J. de Guzm\u00e1n,S. Haller,1
+S. Haller,K. Boateng,1

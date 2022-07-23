@@ -1,0 +1,31 @@
+Source,Target,Weight
+Bruma,L. Klostermann,2
+Bruma,N. Ke\u00efta,2
+D. Upamecano,P. Gul\u00e1csi,1
+S. Ilsanker,L. Klostermann,1
+T. Werner,N. Ke\u00efta,1
+N. Ke\u00efta,T. Werner,1
+L. Klostermann,Bruma,1
+D. Upamecano,Bruma,1
+K. Kampl,Bruma,1
+N. Ke\u00efta,Y. Poulsen,1
+Y. Poulsen,T. Werner,1
+K. Kampl,I. Konat\u00e9,1
+N. Ke\u00efta,K. Kampl,1
+L. Klostermann,M. Halstenberg,1
+L. Klostermann,Y. Poulsen,1
+T. Werner,D. Upamecano,1
+Y. Poulsen,Bruma,1
+Y. Poulsen,N. Ke\u00efta,1
+S. Ilsanker,K. Kampl,1
+S. Ilsanker,M. Halstenberg,1
+I. Konat\u00e9,Y. Poulsen,1
+P. Gul\u00e1csi,S. Ilsanker,1
+N. Ke\u00efta,S. Ilsanker,1
+M. Halstenberg,S. Ilsanker,1
+S. Ilsanker,N. Ke\u00efta,1
+I. Konat\u00e9,S. Ilsanker,1
+Bruma,I. Konat\u00e9,1
+N. Ke\u00efta,Bruma,1
+M. Halstenberg,Y. Poulsen,1
+Y. Poulsen,L. Klostermann,1

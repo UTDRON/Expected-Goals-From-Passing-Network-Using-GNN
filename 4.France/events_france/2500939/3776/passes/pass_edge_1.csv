@@ -1,0 +1,69 @@
+Source,Target,Weight
+A. Soumaoro,I. Amadou,8
+J. Alonso,Thiago Maia,5
+A. El Ghazi,F. Tour\u00e9,4
+F. Tour\u00e9,J. Alonso,4
+Thiago Maia,I. Amadou,4
+Edgar I\u00e9,N. P\u00e9p\u00e9,4
+I. Amadou,Edgar I\u00e9,4
+J. Alonso,A. Soumaoro,4
+I. Amadou,J. Alonso,4
+F. Tour\u00e9,A. El Ghazi,3
+L. Mothiba,I. Amadou,3
+J. Alonso,M. Maignan,3
+Thiago Mendes,Thiago Maia,3
+I. Amadou,Thiago Maia,3
+Thiago Maia,Thiago Mendes,3
+N. P\u00e9p\u00e9,J. Alonso,3
+N. P\u00e9p\u00e9,A. Soumaoro,2
+I. Amadou,A. Soumaoro,2
+J. Alonso,N. P\u00e9p\u00e9,2
+J. Alonso,I. Amadou,2
+A. Soumaoro,Edgar I\u00e9,2
+Thiago Mendes,I. Amadou,2
+I. Amadou,Thiago Mendes,2
+I. Amadou,F. Tour\u00e9,2
+M. Maignan,A. El Ghazi,2
+Thiago Mendes,N. P\u00e9p\u00e9,2
+Edgar I\u00e9,Thiago Mendes,2
+Thiago Maia,A. Soumaoro,2
+A. Soumaoro,M. Maignan,2
+Thiago Maia,A. El Ghazi,2
+L. Mothiba,Thiago Mendes,2
+Thiago Maia,F. Tour\u00e9,2
+N. P\u00e9p\u00e9,Thiago Mendes,2
+Thiago Mendes,J. Alonso,2
+Thiago Mendes,L. Mothiba,2
+Edgar I\u00e9,Thiago Maia,2
+J. Alonso,A. El Ghazi,1
+N. P\u00e9p\u00e9,I. Amadou,1
+A. El Ghazi,J. Alonso,1
+A. El Ghazi,Thiago Maia,1
+Thiago Mendes,Edgar I\u00e9,1
+Thiago Mendes,A. El Ghazi,1
+A. Soumaoro,Thiago Mendes,1
+A. El Ghazi,N. P\u00e9p\u00e9,1
+J. Alonso,F. Tour\u00e9,1
+Thiago Maia,J. Alonso,1
+A. Soumaoro,J. Alonso,1
+I. Amadou,A. El Ghazi,1
+I. Amadou,N. P\u00e9p\u00e9,1
+A. El Ghazi,Edgar I\u00e9,1
+A. El Ghazi,A. Soumaoro,1
+L. Mothiba,A. Soumaoro,1
+A. El Ghazi,L. Mothiba,1
+I. Amadou,L. Mothiba,1
+Edgar I\u00e9,A. Soumaoro,1
+N. P\u00e9p\u00e9,L. Mothiba,1
+F. Tour\u00e9,N. P\u00e9p\u00e9,1
+M. Maignan,A. Soumaoro,1
+N. P\u00e9p\u00e9,Edgar I\u00e9,1
+M. Maignan,J. Alonso,1
+Thiago Maia,Edgar I\u00e9,1
+F. Tour\u00e9,Thiago Maia,1
+M. Maignan,F. Tour\u00e9,1
+F. Tour\u00e9,Thiago Mendes,1
+A. El Ghazi,M. Maignan,1
+Edgar I\u00e9,J. Alonso,1
+N. P\u00e9p\u00e9,A. El Ghazi,1
+M. Maignan,Thiago Mendes,1

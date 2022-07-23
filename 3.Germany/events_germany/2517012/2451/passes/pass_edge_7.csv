@@ -1,0 +1,62 @@
+Source,Target,Weight
+M. Arnold,P. Verhaegh,4
+William,R. Knoche,3
+P. Jaeckel,R. Steffen,3
+D. Didavi,M. Arnold,3
+M. Arnold,D. Didavi,2
+R. Knoche,P. Jaeckel,2
+M. Tisserand,D. Didavi,2
+P. Verhaegh,D. Didavi,2
+William,Y. Mall\u0131,2
+R. Steffen,M. Arnold,2
+P. Jaeckel,M. Arnold,2
+P. Jaeckel,K. Casteels,2
+M. Arnold,William,2
+R. Knoche,William,2
+P. Verhaegh,P. Jaeckel,2
+Y. Mall\u0131,William,2
+P. Jaeckel,P. Verhaegh,1
+D. Origi,D. Didavi,1
+William,D. Didavi,1
+L. Dimata,D. Didavi,1
+M. Tisserand,William,1
+D. Didavi,William,1
+R. Steffen,P. Verhaegh,1
+William,P. Jaeckel,1
+R. Knoche,M. Tisserand,1
+M. Tisserand,M. Arnold,1
+P. Verhaegh,R. Knoche,1
+D. Didavi,P. Jaeckel,1
+R. Steffen,R. Knoche,1
+D. Didavi,M. Tisserand,1
+P. Jaeckel,D. Origi,1
+R. Steffen,P. Jaeckel,1
+K. Casteels,M. Arnold,1
+D. Origi,P. Jaeckel,1
+D. Didavi,R. Knoche,1
+R. Knoche,R. Steffen,1
+P. Verhaegh,M. Tisserand,1
+P. Verhaegh,R. Steffen,1
+R. Knoche,L. Dimata,1
+William,P. Verhaegh,1
+Y. Mall\u0131,D. Didavi,1
+P. Verhaegh,William,1
+D. Didavi,R. Steffen,1
+R. Knoche,D. Didavi,1
+D. Didavi,P. Verhaegh,1
+M. Arnold,P. Jaeckel,1
+William,M. Tisserand,1
+R. Steffen,D. Didavi,1
+William,D. Origi,1
+D. Didavi,Y. Mall\u0131,1
+M. Arnold,R. Steffen,1
+M. Tisserand,P. Verhaegh,1
+D. Didavi,D. Origi,1
+D. Origi,William,1
+R. Knoche,M. Arnold,1
+P. Verhaegh,M. Arnold,1
+Y. Mall\u0131,R. Knoche,1
+K. Casteels,P. Jaeckel,1
+M. Arnold,R. Knoche,1
+R. Steffen,Y. Mall\u0131,1
+P. Jaeckel,R. Knoche,1

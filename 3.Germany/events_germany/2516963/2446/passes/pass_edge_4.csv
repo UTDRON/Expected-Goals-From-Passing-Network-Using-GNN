@@ -1,0 +1,27 @@
+Source,Target,Weight
+C. Ar\u00e1nguiz,S. Bender,2
+K. Bellarabi,Wendell,2
+K. Havertz,J. Tah,1
+S. Bender,C. Ar\u00e1nguiz,1
+B. Leno,J. Tah,1
+Wendell,B. Leno,1
+L. Bender,S. Bender,1
+Wendell,L. Alario,1
+C. Ar\u00e1nguiz,K. Volland,1
+J. Baumgartlinger,K. Havertz,1
+B. Leno,Wendell,1
+C. Ar\u00e1nguiz,B. Leno,1
+J. Tah,S. Bender,1
+K. Bellarabi,K. Havertz,1
+S. Bender,K. Bellarabi,1
+J. Tah,K. Volland,1
+K. Havertz,K. Bellarabi,1
+K. Volland,C. Ar\u00e1nguiz,1
+Wendell,C. Ar\u00e1nguiz,1
+K. Volland,K. Bellarabi,1
+J. Tah,J. Baumgartlinger,1
+S. Bender,Wendell,1
+Wendell,K. Bellarabi,1
+L. Alario,C. Ar\u00e1nguiz,1
+S. Bender,J. Baumgartlinger,1
+J. Baumgartlinger,J. Tah,1

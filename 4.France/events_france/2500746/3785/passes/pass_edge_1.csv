@@ -1,0 +1,53 @@
+Source,Target,Weight
+J. Ikoko,L. Deaux,3
+L. Deaux,J. Ikoko,3
+C. Kerbrat,Y. Salibur,2
+J. Ikoko,J. Sorbon,2
+K. Johnsson,M. Thuram,2
+J. Briand,M. Thuram,2
+J. Sorbon,R. Camara,2
+L. Deaux,J. Briand,2
+C. Kerbrat,K. Johnsson,2
+L. Deaux,C. Kerbrat,2
+Y. Salibur,C. Kerbrat,2
+J. Ikoko,F. Eboa Eboa,2
+R. Camara,Y. Salibur,2
+R. Camara,L. Deaux,2
+Y. Salibur,\u00c9. Didot,2
+M. Thuram,J. Briand,2
+\u00c9. Didot,J. Sorbon,1
+J. Ikoko,R. Camara,1
+J. Sorbon,\u00c9. Didot,1
+J. Briand,K. Johnsson,1
+C. Kerbrat,J. Sorbon,1
+L. Deaux,K. Johnsson,1
+\u00c9. Didot,K. Johnsson,1
+J. Sorbon,L. Deaux,1
+\u00c9. Didot,F. Eboa Eboa,1
+C. Kerbrat,J. Briand,1
+L. Deaux,\u00c9. Didot,1
+M. Thuram,F. Eboa Eboa,1
+F. Eboa Eboa,J. Sorbon,1
+\u00c9. Didot,C. Kerbrat,1
+J. Briand,C. Kerbrat,1
+Y. Salibur,F. Eboa Eboa,1
+C. Kerbrat,L. Deaux,1
+C. Kerbrat,J. Ikoko,1
+M. Thuram,J. Ikoko,1
+F. Eboa Eboa,\u00c9. Didot,1
+\u00c9. Didot,R. Camara,1
+F. Eboa Eboa,C. Kerbrat,1
+Y. Salibur,J. Sorbon,1
+F. Eboa Eboa,M. Thuram,1
+Y. Salibur,L. Deaux,1
+M. Thuram,R. Camara,1
+K. Johnsson,J. Ikoko,1
+K. Johnsson,J. Briand,1
+\u00c9. Didot,L. Deaux,1
+J. Briand,F. Eboa Eboa,1
+J. Sorbon,Y. Salibur,1
+F. Eboa Eboa,J. Ikoko,1
+F. Eboa Eboa,Y. Salibur,1
+J. Sorbon,J. Ikoko,1
+K. Johnsson,Y. Salibur,1
+J. Briand,\u00c9. Didot,1

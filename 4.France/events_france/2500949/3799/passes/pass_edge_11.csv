@@ -1,0 +1,53 @@
+Source,Target,Weight
+K. Toko Ekambi,Y. Andreu,4
+M. Pavlovi\u0107,T. Mangani,3
+V. Manceau,K. Toko Ekambi,3
+Y. Andreu,K. Toko Ekambi,3
+K. Toko Ekambi,B. Santamaria,3
+B. Santamaria,T. Mangani,2
+T. Mangani,Y. Andreu,2
+T. Mangani,I. Traor\u00e9,2
+Y. Andreu,A. Fulgini,2
+T. Mangani,K. Toko Ekambi,2
+T. Mangani,V. Manceau,2
+P. Capelle,V. Manceau,2
+I. Traor\u00e9,M. Pavlovi\u0107,2
+P. Oniangu\u00e9,T. Mangani,2
+B. Santamaria,P. Capelle,2
+Y. Andreu,F. Tait,2
+B. Santamaria,I. Traor\u00e9,2
+P. Capelle,P. Oniangu\u00e9,1
+Y. Andreu,L. Butelle,1
+P. Oniangu\u00e9,B. Santamaria,1
+V. Manceau,P. Oniangu\u00e9,1
+A. Fulgini,Y. Andreu,1
+P. Oniangu\u00e9,Y. Andreu,1
+P. Capelle,F. Tait,1
+F. Tait,M. Pavlovi\u0107,1
+K. Toko Ekambi,M. Pavlovi\u0107,1
+K. Toko Ekambi,T. Mangani,1
+A. Fulgini,P. Oniangu\u00e9,1
+B. Santamaria,K. Toko Ekambi,1
+Y. Andreu,M. Pavlovi\u0107,1
+K. Toko Ekambi,P. Oniangu\u00e9,1
+P. Capelle,L. Butelle,1
+F. Tait,P. Capelle,1
+F. Tait,K. Toko Ekambi,1
+T. Mangani,A. Fulgini,1
+M. Pavlovi\u0107,B. Santamaria,1
+M. Pavlovi\u0107,K. Toko Ekambi,1
+A. Fulgini,K. Toko Ekambi,1
+V. Manceau,T. Mangani,1
+I. Traor\u00e9,P. Oniangu\u00e9,1
+P. Oniangu\u00e9,V. Manceau,1
+I. Traor\u00e9,V. Manceau,1
+K. Toko Ekambi,I. Traor\u00e9,1
+T. Mangani,B. Santamaria,1
+K. Toko Ekambi,P. Capelle,1
+P. Oniangu\u00e9,M. Pavlovi\u0107,1
+V. Manceau,Y. Andreu,1
+L. Butelle,P. Oniangu\u00e9,1
+Y. Andreu,T. Mangani,1
+L. Butelle,Y. Andreu,1
+Y. Andreu,B. Santamaria,1
+I. Traor\u00e9,P. Capelle,1

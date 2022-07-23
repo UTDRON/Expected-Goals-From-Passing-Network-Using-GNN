@@ -1,0 +1,62 @@
+Source,Target,Weight
+N. Mukiele,F. P\u00edriz,5
+Pedro Mendes,N. Mukiele,4
+Hilton,K. Dolly,4
+Hilton,D. Congr\u00e9,4
+K. Dolly,D. Congr\u00e9,3
+N. Mukiele,J. Sambia,3
+F. P\u00edriz,N. Mukiele,3
+J. Sambia,F. P\u00edriz,3
+F. P\u00edriz,E. Skhiri,3
+G. Sio,K. Dolly,3
+F. P\u00edriz,Pedro Mendes,3
+E. Skhiri,G. Sio,3
+K. Dolly,F. P\u00edriz,2
+D. Congr\u00e9,K. Dolly,2
+F. P\u00edriz,Hilton,2
+G. Sio,Hilton,2
+Hilton,E. Skhiri,2
+K. Dolly,G. Sio,2
+K. Dolly,J. Sambia,2
+Hilton,N. Mukiele,2
+D. Congr\u00e9,Hilton,2
+K. Dolly,Hilton,2
+F. P\u00edriz,J. Sambia,2
+N. Mukiele,Hilton,2
+D. Congr\u00e9,E. Skhiri,2
+N. Mukiele,I. Mbenza,2
+J. Sambia,E. Skhiri,2
+E. Skhiri,N. Mukiele,2
+E. Skhiri,Pedro Mendes,2
+E. Skhiri,F. P\u00edriz,2
+F. P\u00edriz,K. Dolly,2
+Hilton,Pedro Mendes,1
+I. Mbenza,G. Sio,1
+K. Dolly,E. Skhiri,1
+K. Dolly,N. Mukiele,1
+D. Congr\u00e9,J. Sambia,1
+G. Sio,N. Mukiele,1
+E. Skhiri,D. Congr\u00e9,1
+D. Congr\u00e9,G. Sio,1
+Hilton,F. P\u00edriz,1
+E. Skhiri,Hilton,1
+J. Sambia,K. Dolly,1
+I. Mbenza,N. Mukiele,1
+D. Congr\u00e9,Pedro Mendes,1
+J. Sambia,G. Sio,1
+B. Lecomte,Hilton,1
+Pedro Mendes,F. P\u00edriz,1
+Pedro Mendes,Hilton,1
+K. Dolly,B. Lecomte,1
+F. P\u00edriz,G. Sio,1
+J. Sambia,D. Congr\u00e9,1
+B. Lecomte,K. Dolly,1
+Pedro Mendes,B. Lecomte,1
+G. Sio,F. P\u00edriz,1
+Pedro Mendes,J. Sambia,1
+G. Sio,E. Skhiri,1
+N. Mukiele,Pedro Mendes,1
+N. Mukiele,E. Skhiri,1
+D. Congr\u00e9,F. P\u00edriz,1
+J. Sambia,Hilton,1
+G. Sio,D. Congr\u00e9,1

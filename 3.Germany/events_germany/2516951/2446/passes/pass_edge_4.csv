@@ -1,0 +1,87 @@
+Source,Target,Weight
+J. Brandt,Wendell,6
+P. Retsos,T. Jedvaj,5
+L. Bailey,P. Retsos,5
+K. Havertz,T. Jedvaj,5
+J. Brandt,K. Havertz,5
+C. Ar\u00e1nguiz,T. Jedvaj,5
+L. Bailey,T. Jedvaj,4
+C. Ar\u00e1nguiz,J. Brandt,4
+T. Jedvaj,P. Retsos,4
+T. Jedvaj,K. Havertz,4
+K. Havertz,L. Bailey,4
+T. Jedvaj,L. Bailey,4
+Wendell,J. Brandt,3
+K. Volland,J. Brandt,3
+S. Bender,Wendell,3
+T. Jedvaj,C. Ar\u00e1nguiz,3
+T. Jedvaj,K. Volland,3
+K. Volland,C. Ar\u00e1nguiz,3
+Wendell,K. Havertz,3
+P. Retsos,B. Leno,3
+Wendell,K. Volland,3
+Wendell,C. Ar\u00e1nguiz,3
+C. Ar\u00e1nguiz,P. Retsos,3
+P. Retsos,K. Havertz,3
+D. Kohr,Wendell,3
+K. Volland,L. Bailey,3
+J. Brandt,T. Jedvaj,3
+J. Brandt,C. Ar\u00e1nguiz,3
+S. Bender,D. Kohr,3
+K. Volland,P. Retsos,3
+K. Havertz,P. Retsos,3
+Wendell,S. Bender,3
+K. Havertz,S. Bender,3
+L. Bailey,C. Ar\u00e1nguiz,3
+S. Bender,C. Ar\u00e1nguiz,2
+P. Retsos,Wendell,2
+S. Bender,K. Havertz,2
+P. Retsos,J. Brandt,2
+L. Bailey,B. Leno,2
+D. Kohr,J. Brandt,2
+K. Havertz,D. Kohr,2
+P. Retsos,K. Volland,2
+B. Leno,J. Brandt,2
+S. Bender,J. Brandt,2
+B. Leno,S. Bender,2
+T. Jedvaj,S. Bender,2
+D. Kohr,S. Bender,2
+C. Ar\u00e1nguiz,K. Volland,2
+J. Brandt,D. Kohr,2
+T. Jedvaj,J. Brandt,2
+D. Kohr,K. Havertz,2
+C. Ar\u00e1nguiz,Wendell,2
+B. Leno,K. Volland,2
+S. Bender,K. Volland,2
+C. Ar\u00e1nguiz,S. Bender,2
+P. Retsos,L. Bailey,2
+Wendell,D. Kohr,2
+B. Leno,K. Havertz,1
+C. Ar\u00e1nguiz,D. Kohr,1
+S. Bender,L. Bailey,1
+K. Havertz,C. Ar\u00e1nguiz,1
+B. Leno,C. Ar\u00e1nguiz,1
+B. Leno,L. Bailey,1
+S. Bender,B. Leno,1
+D. Kohr,P. Retsos,1
+J. Brandt,L. Bailey,1
+P. Retsos,C. Ar\u00e1nguiz,1
+D. Kohr,C. Ar\u00e1nguiz,1
+T. Jedvaj,B. Leno,1
+L. Bailey,Wendell,1
+C. Ar\u00e1nguiz,K. Havertz,1
+P. Retsos,S. Bender,1
+K. Havertz,Wendell,1
+Wendell,T. Jedvaj,1
+T. Jedvaj,D. Kohr,1
+K. Volland,S. Bender,1
+J. Brandt,S. Bender,1
+D. Kohr,K. Volland,1
+S. Bender,P. Retsos,1
+L. Bailey,K. Volland,1
+K. Volland,K. Havertz,1
+K. Havertz,B. Leno,1
+K. Volland,D. Kohr,1
+K. Havertz,J. Brandt,1
+K. Volland,T. Jedvaj,1
+C. Ar\u00e1nguiz,B. Leno,1

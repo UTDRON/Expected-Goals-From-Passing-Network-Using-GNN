@@ -1,0 +1,45 @@
+Source,Target,Weight
+R. Rodelin,S. Peeters,4
+J. F\u00e9ret,R. Rodelin,3
+S. Peeters,R. Rodelin,2
+S. Peeters,R. Vercoutre,2
+V. Bessat,R. Rodelin,2
+V. Bessat,A. Djiku,2
+J. F\u00e9ret,F. Guilbert,2
+F. Guilbert,V. Bessat,2
+I. Santini,J. F\u00e9ret,2
+R. Vercoutre,I. Santini,2
+B. Sankoh,V. Bessat,2
+F. Guilbert,I. Santini,2
+R. Rodelin,F. Guilbert,2
+V. Bessat,D. Da Silva,2
+F. Guilbert,R. Genevois,2
+A. Djiku,R. Vercoutre,1
+S. Peeters,R. Genevois,1
+I. Santini,S. Peeters,1
+D. Da Silva,J. F\u00e9ret,1
+R. Rodelin,V. Bessat,1
+A. Djiku,R. Rodelin,1
+F. Guilbert,R. Vercoutre,1
+D. Da Silva,V. Bessat,1
+D. Da Silva,R. Vercoutre,1
+V. Bessat,B. Sankoh,1
+D. Da Silva,B. Sankoh,1
+R. Genevois,D. Da Silva,1
+S. Peeters,V. Bessat,1
+R. Vercoutre,F. Guilbert,1
+S. Peeters,J. F\u00e9ret,1
+R. Vercoutre,V. Bessat,1
+R. Rodelin,D. Da Silva,1
+R. Genevois,J. F\u00e9ret,1
+S. Peeters,F. Guilbert,1
+D. Da Silva,S. Peeters,1
+I. Santini,R. Rodelin,1
+R. Rodelin,R. Genevois,1
+D. Da Silva,R. Rodelin,1
+B. Sankoh,D. Da Silva,1
+R. Genevois,R. Vercoutre,1
+R. Genevois,F. Guilbert,1
+R. Vercoutre,S. Peeters,1
+R. Vercoutre,D. Da Silva,1
+V. Bessat,S. Peeters,1

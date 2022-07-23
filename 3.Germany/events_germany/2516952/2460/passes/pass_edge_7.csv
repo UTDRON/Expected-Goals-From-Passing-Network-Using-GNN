@@ -1,0 +1,16 @@
+Source,Target,Weight
+S. Bell,D. Latza,2
+D. Latza,G. Holtmann,2
+S. Bell,A. Diallo,2
+D. Latza,S. Bell,2
+S. Serdar,J. Gbamin,1
+A. Diallo,S. Bell,1
+L. Balogun,D. Latza,1
+R. Quaison,D. Latza,1
+J. Gbamin,L. Balogun,1
+R. Zentner,S. Bell,1
+A. Diallo,R. Zentner,1
+G. Holtmann,A. Diallo,1
+A. Diallo,R. Quaison,1
+R. Quaison,S. Serdar,1
+G. Holtmann,Y. Muto,1

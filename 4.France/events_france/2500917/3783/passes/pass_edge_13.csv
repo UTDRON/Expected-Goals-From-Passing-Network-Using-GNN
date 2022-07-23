@@ -1,0 +1,40 @@
+Source,Target,Weight
+A. Djiku,V. Bessat,3
+B. Sankoh,D. Da Silva,2
+H. Bazile,V. Bessat,2
+V. Bessat,I. Santini,2
+I. Santini,S. Peeters,2
+S. Peeters,T. Stavitski,2
+V. Bessat,R. Rodelin,2
+D. Da Silva,B. Sankoh,2
+R. Rodelin,R. Genevois,2
+D. Da Silva,A. Djiku,2
+H. Bazile,S. Peeters,1
+R. Rodelin,D. Da Silva,1
+A. Djiku,R. Rodelin,1
+R. Rodelin,H. Bazile,1
+T. Stavitski,R. Genevois,1
+H. Bazile,B. Sankoh,1
+V. Bessat,D. Da Silva,1
+R. Genevois,T. Stavitski,1
+R. Genevois,B. Sankoh,1
+R. Vercoutre,H. Bazile,1
+A. Djiku,D. Da Silva,1
+T. Stavitski,R. Rodelin,1
+D. Da Silva,T. Stavitski,1
+I. Santini,H. Bazile,1
+V. Bessat,R. Vercoutre,1
+R. Rodelin,I. Santini,1
+R. Rodelin,S. Peeters,1
+T. Stavitski,V. Bessat,1
+I. Santini,V. Bessat,1
+H. Bazile,A. Djiku,1
+B. Sankoh,R. Genevois,1
+B. Sankoh,R. Rodelin,1
+T. Stavitski,I. Santini,1
+V. Bessat,H. Bazile,1
+S. Peeters,A. Djiku,1
+R. Genevois,D. Da Silva,1
+V. Bessat,A. Djiku,1
+R. Genevois,H. Bazile,1
+S. Peeters,R. Rodelin,1

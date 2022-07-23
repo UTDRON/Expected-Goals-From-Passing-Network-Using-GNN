@@ -1,0 +1,37 @@
+Source,Target,Weight
+A. Saint-Maximin,A. Souquet,5
+A. Souquet,P. Lees Melou,4
+M. Le Marchand,A. Pl\u00e9a,2
+P. Lees Melou,J. Seri,2
+W. Ben\u00edtez,Dante,2
+P. Lees Melou,A. Saint-Maximin,2
+W. Cyprien,A. Pl\u00e9a,2
+Dante,M. Le Marchand,2
+Dante,W. Cyprien,2
+M. Balotelli,Marlon,1
+A. Pl\u00e9a,A. Souquet,1
+A. Pl\u00e9a,W. Ben\u00edtez,1
+Marlon,J. Seri,1
+W. Cyprien,J. Seri,1
+J. Seri,W. Ben\u00edtez,1
+A. Pl\u00e9a,W. Cyprien,1
+A. Souquet,W. Cyprien,1
+W. Cyprien,P. Lees Melou,1
+A. Souquet,Dante,1
+J. Seri,A. Souquet,1
+W. Cyprien,A. Souquet,1
+A. Souquet,A. Saint-Maximin,1
+M. Le Marchand,Dante,1
+P. Lees Melou,M. Balotelli,1
+M. Le Marchand,M. Balotelli,1
+A. Pl\u00e9a,A. Saint-Maximin,1
+M. Balotelli,M. Le Marchand,1
+P. Lees Melou,A. Souquet,1
+J. Seri,A. Saint-Maximin,1
+J. Seri,A. Pl\u00e9a,1
+A. Pl\u00e9a,J. Seri,1
+A. Souquet,M. Balotelli,1
+Marlon,P. Lees Melou,1
+M. Balotelli,A. Pl\u00e9a,1
+A. Souquet,Marlon,1
+A. Pl\u00e9a,M. Le Marchand,1

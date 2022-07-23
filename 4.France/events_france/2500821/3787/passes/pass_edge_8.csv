@@ -1,0 +1,33 @@
+Source,Target,Weight
+S. Sess\u00e8gnon,R. Aguilar,4
+J. Roussillon,G. Sio,2
+R. Aguilar,C. Ninga,2
+R. Aguilar,N. Mukiele,2
+G. Sio,S. Sess\u00e8gnon,1
+N. Mukiele,R. Aguilar,1
+N. Mukiele,Hilton,1
+G. Sio,Hilton,1
+E. Skhiri,C. Ninga,1
+Hilton,B. Lecomte,1
+C. Ninga,P. Lasne,1
+N. Mukiele,B. Lecomte,1
+B. Lecomte,E. Skhiri,1
+P. Lasne,S. Sess\u00e8gnon,1
+R. Aguilar,J. Roussillon,1
+G. Sio,C. Ninga,1
+C. Ninga,J. Roussillon,1
+B. Lecomte,S. Sess\u00e8gnon,1
+R. Aguilar,E. Skhiri,1
+B. Lecomte,R. Aguilar,1
+R. Aguilar,S. Sess\u00e8gnon,1
+E. Skhiri,P. Lasne,1
+P. Lasne,G. Sio,1
+N. Mukiele,Pedro Mendes,1
+C. Ninga,R. Aguilar,1
+C. Ninga,E. Skhiri,1
+P. Lasne,N. Mukiele,1
+E. Skhiri,Hilton,1
+Hilton,P. Lasne,1
+Hilton,E. Skhiri,1
+Pedro Mendes,G. Sio,1
+E. Skhiri,B. Lecomte,1

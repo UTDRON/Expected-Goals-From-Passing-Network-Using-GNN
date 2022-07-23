@@ -1,0 +1,79 @@
+Source,Target,Weight
+G. Kakuta,O. El Hajjam,7
+O. El Hajjam,G. Kakuta,7
+G. Kakuta,B. Zungu,6
+T. Monconduit,B. Dibassy,6
+B. Zungu,K. Ad\u00e9non,6
+B. Dibassy,K. Ad\u00e9non,6
+B. Dibassy,T. Monconduit,6
+K. Ad\u00e9non,B. Zungu,5
+P. Gouano,B. Zungu,4
+K. Ad\u00e9non,P. Gouano,4
+O. El Hajjam,B. Zungu,4
+K. Ad\u00e9non,B. Dibassy,4
+B. Zungu,O. El Hajjam,4
+S. Gakp\u00e9,G. Kakuta,4
+S. Mendoza,B. Dibassy,4
+B. Zungu,S. Gakp\u00e9,3
+B. Zungu,S. Mendoza,3
+K. Ad\u00e9non,T. Monconduit,3
+P. Gouano,R. Gurtner,3
+O. El Hajjam,M. Konat\u00e9,3
+B. Zungu,P. Gouano,3
+O. El Hajjam,T. Monconduit,3
+B. Dibassy,S. Mendoza,3
+P. Gouano,K. Ad\u00e9non,3
+O. El Hajjam,P. Gouano,3
+T. Monconduit,O. El Hajjam,3
+R. Gurtner,K. Ad\u00e9non,3
+B. Zungu,G. Kakuta,2
+S. Mendoza,M. Konat\u00e9,2
+S. Mendoza,H. Manzala,2
+S. Gakp\u00e9,B. Dibassy,2
+T. Monconduit,S. Gakp\u00e9,2
+B. Zungu,M. Konat\u00e9,2
+H. Manzala,O. El Hajjam,2
+P. Gouano,O. El Hajjam,2
+K. Ad\u00e9non,G. Kakuta,2
+O. El Hajjam,H. Manzala,2
+K. Ad\u00e9non,S. Mendoza,2
+G. Kakuta,S. Gakp\u00e9,2
+S. Mendoza,B. Zungu,2
+M. Konat\u00e9,K. Ad\u00e9non,2
+K. Ad\u00e9non,R. Gurtner,2
+G. Kakuta,P. Gouano,2
+M. Konat\u00e9,B. Zungu,2
+M. Konat\u00e9,T. Monconduit,2
+B. Dibassy,O. El Hajjam,1
+B. Zungu,H. Manzala,1
+H. Manzala,B. Zungu,1
+H. Manzala,G. Kakuta,1
+R. Gurtner,O. El Hajjam,1
+G. Kakuta,K. Ad\u00e9non,1
+P. Gouano,T. Monconduit,1
+T. Monconduit,B. Zungu,1
+P. Gouano,G. Kakuta,1
+S. Mendoza,O. El Hajjam,1
+R. Gurtner,P. Gouano,1
+K. Ad\u00e9non,S. Gakp\u00e9,1
+S. Gakp\u00e9,O. El Hajjam,1
+R. Gurtner,B. Dibassy,1
+T. Monconduit,S. Mendoza,1
+B. Dibassy,B. Zungu,1
+B. Dibassy,S. Gakp\u00e9,1
+S. Gakp\u00e9,K. Ad\u00e9non,1
+O. El Hajjam,S. Mendoza,1
+M. Konat\u00e9,G. Kakuta,1
+G. Kakuta,M. Konat\u00e9,1
+B. Zungu,B. Dibassy,1
+M. Konat\u00e9,O. El Hajjam,1
+O. El Hajjam,K. Ad\u00e9non,1
+P. Gouano,M. Konat\u00e9,1
+K. Ad\u00e9non,O. El Hajjam,1
+T. Monconduit,G. Kakuta,1
+S. Gakp\u00e9,P. Gouano,1
+T. Monconduit,K. Ad\u00e9non,1
+T. Monconduit,P. Gouano,1
+B. Dibassy,R. Gurtner,1
+B. Zungu,T. Monconduit,1
+M. Konat\u00e9,S. Mendoza,1

@@ -1,0 +1,23 @@
+Source,Target,Weight
+D. Selke,K. Rekik,3
+A. Esswein,V. Lazaro,2
+M. Plattenhardt,A. Esswein,2
+K. Rekik,M. Plattenhardt,1
+V. Lazaro,F. Lustenberger,1
+V. Lazaro,M. Plattenhardt,1
+F. Lustenberger,V. Lazaro,1
+M. Weiser,S. Langkamp,1
+M. Leckie,D. Selke,1
+M. Plattenhardt,F. Lustenberger,1
+M. Plattenhardt,M. Leckie,1
+K. Rekik,R. Jarstein,1
+D. Selke,M. Plattenhardt,1
+F. Lustenberger,D. Selke,1
+R. Jarstein,D. Selke,1
+M. Leckie,M. Weiser,1
+K. Rekik,A. Esswein,1
+S. Langkamp,M. Weiser,1
+K. Rekik,S. Langkamp,1
+S. Langkamp,D. Selke,1
+A. Esswein,M. Plattenhardt,1
+V. Lazaro,M. Leckie,1

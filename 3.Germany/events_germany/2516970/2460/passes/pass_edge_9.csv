@@ -1,0 +1,43 @@
+Source,Target,Weight
+A. Maxim,N. de Jong,2
+N. de Jong,A. Diallo,2
+J. Gbamin,A. Ujah,2
+S. Serdar,A. Maxim,2
+S. Bell,N. de Jong,2
+A. Diallo,A. Maxim,2
+K. Onisiwo,J. Gbamin,2
+A. Diallo,S. Bell,2
+A. Ujah,S. Serdar,1
+A. Maxim,A. Ujah,1
+K. Onisiwo,S. Serdar,1
+S. Serdar,D. Latza,1
+S. Bell,A. Maxim,1
+J. Gbamin,A. Diallo,1
+N. de Jong,A. Maxim,1
+S. Serdar,D. Brosinski,1
+D. Latza,J. Gbamin,1
+K. Onisiwo,A. Ujah,1
+D. Brosinski,N. de Jong,1
+N. de Jong,D. Latza,1
+D. Latza,K. Onisiwo,1
+A. Ujah,K. Onisiwo,1
+A. Ujah,A. Diallo,1
+A. Ujah,D. Brosinski,1
+D. Brosinski,D. Latza,1
+A. Maxim,S. Serdar,1
+R. Quaison,A. Diallo,1
+S. Serdar,J. Gbamin,1
+S. Bell,F. M\u00fcller,1
+A. Diallo,D. Latza,1
+D. Latza,A. Diallo,1
+A. Diallo,S. Serdar,1
+D. Brosinski,S. Bell,1
+N. de Jong,S. Bell,1
+J. Gbamin,D. Brosinski,1
+D. Latza,S. Bell,1
+A. Maxim,R. Quaison,1
+A. Diallo,J. Gbamin,1
+A. Maxim,K. Onisiwo,1
+J. Gbamin,K. Onisiwo,1
+S. Bell,A. Diallo,1
+F. M\u00fcller,D. Brosinski,1

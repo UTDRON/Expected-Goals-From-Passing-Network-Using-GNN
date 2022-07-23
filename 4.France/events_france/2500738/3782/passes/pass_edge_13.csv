@@ -1,0 +1,40 @@
+Source,Target,Weight
+B. Dabo,S. Janko,4
+J. Bamba,R. Pierre-Gabriel,3
+S. Janko,B. Dabo,3
+R. Pierre-Gabriel,R. Cabella,3
+R. Cabella,S. Janko,2
+R. Cabella,R. Pierre-Gabriel,2
+S. Janko,R. Cabella,2
+S. Ruffier,B. Dabo,2
+S. Janko,L. Diony,2
+S. Janko,K. Th\u00e9ophile Catherine,1
+O. Seln\u00e6s,L. Diony,1
+O. Seln\u00e6s,J. Bamba,1
+K. Th\u00e9ophile Catherine,R. Cabella,1
+R. Cabella,L. Diony,1
+R. Pierre-Gabriel,J. Bamba,1
+K. Th\u00e9ophile Catherine,B. Dabo,1
+H. Ma\u00efga,J. Bamba,1
+L. Diony,O. Seln\u00e6s,1
+R. Cabella,B. Dabo,1
+H. Ma\u00efga,K. Th\u00e9ophile Catherine,1
+R. Pierre-Gabriel,H. Ma\u00efga,1
+B. Dabo,J. Bamba,1
+O. Seln\u00e6s,S. Janko,1
+K. Th\u00e9ophile Catherine,S. Ruffier,1
+J. Bamba,O. Seln\u00e6s,1
+R. Pierre-Gabriel,L. Diony,1
+B. Dabo,K. Th\u00e9ophile Catherine,1
+L. Diony,S. Janko,1
+R. Pierre-Gabriel,S. Ruffier,1
+O. Seln\u00e6s,K. Th\u00e9ophile Catherine,1
+L. Diony,K. Th\u00e9ophile Catherine,1
+L. Diony,H. Ma\u00efga,1
+K. Th\u00e9ophile Catherine,L. Perrin,1
+S. Janko,L. Perrin,1
+K. Th\u00e9ophile Catherine,S. Janko,1
+B. Dabo,O. Seln\u00e6s,1
+L. Perrin,R. Pierre-Gabriel,1
+L. Perrin,R. Cabella,1
+R. Cabella,O. Seln\u00e6s,1

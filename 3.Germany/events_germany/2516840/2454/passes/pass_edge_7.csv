@@ -1,0 +1,94 @@
+Source,Target,Weight
+N. Elvedi,T. Hazard,9
+D. Zakaria,L. Stindl,8
+L. Stindl,C. Kramer,8
+Raffael,T. Hazard,8
+T. Hazard,N. Elvedi,6
+C. Kramer,Raffael,6
+T. Hazard,L. Stindl,6
+C. Kramer,L. Stindl,6
+L. Stindl,T. Hazard,6
+N. Elvedi,L. Stindl,5
+M. Ginter,N. Elvedi,4
+J. Vestergaard,Y. Sommer,4
+L. Stindl,N. Elvedi,4
+C. Kramer,T. Hazard,4
+F. Johnson,D. Zakaria,4
+N. Elvedi,P. Herrmann,4
+T. Hazard,Raffael,4
+T. Hazard,F. Johnson,4
+L. Stindl,F. Johnson,4
+N. Elvedi,C. Kramer,4
+F. Johnson,O. Wendt,4
+L. Stindl,D. Zakaria,4
+O. Wendt,D. Zakaria,4
+C. Kramer,N. Elvedi,4
+O. Wendt,Raffael,4
+J. Vestergaard,M. Ginter,4
+P. Herrmann,N. Elvedi,4
+O. Wendt,M. Ginter,3
+T. Hazard,M. Ginter,3
+Raffael,O. Wendt,3
+C. Kramer,J. Vestergaard,3
+Raffael,D. Zakaria,3
+J. Vestergaard,O. Wendt,3
+L. Stindl,J. Vestergaard,3
+M. Ginter,C. Kramer,3
+O. Wendt,J. Vestergaard,3
+T. Hazard,C. Kramer,3
+N. Elvedi,M. Ginter,3
+D. Zakaria,C. Kramer,3
+L. Stindl,O. Wendt,3
+F. Johnson,Raffael,3
+T. Hazard,J. Vestergaard,3
+D. Zakaria,O. Wendt,3
+N. Elvedi,Raffael,3
+Raffael,L. Stindl,3
+F. Johnson,N. Elvedi,3
+M. Ginter,O. Wendt,3
+Y. Sommer,N. Elvedi,3
+C. Kramer,D. Zakaria,3
+F. Johnson,L. Stindl,3
+Raffael,F. Johnson,3
+O. Wendt,C. Kramer,2
+Raffael,C. Kramer,2
+D. Zakaria,Raffael,2
+D. Zakaria,M. Ginter,2
+L. Stindl,Raffael,2
+M. Ginter,D. Zakaria,2
+O. Wendt,F. Johnson,2
+D. Zakaria,T. Hazard,2
+O. Wendt,L. Stindl,2
+J. Vestergaard,C. Kramer,2
+Y. Sommer,J. Vestergaard,2
+T. Hazard,D. Zakaria,2
+M. Ginter,Y. Sommer,2
+O. Wendt,T. Hazard,2
+T. Hazard,O. Wendt,2
+M. Ginter,P. Herrmann,1
+Raffael,M. Ginter,1
+Y. Sommer,L. Stindl,1
+N. Elvedi,O. Wendt,1
+C. Kramer,P. Herrmann,1
+Y. Sommer,M. Ginter,1
+M. Ginter,T. Hazard,1
+N. Elvedi,F. Johnson,1
+L. Stindl,P. Herrmann,1
+P. Herrmann,Raffael,1
+C. Kramer,M. Ginter,1
+P. Herrmann,L. Stindl,1
+Raffael,N. Elvedi,1
+Raffael,Y. Sommer,1
+D. Zakaria,F. Johnson,1
+M. Ginter,Raffael,1
+Y. Sommer,T. Hazard,1
+L. Stindl,M. Ginter,1
+J. Vestergaard,N. Elvedi,1
+D. Zakaria,Y. Sommer,1
+J. Vestergaard,F. Johnson,1
+Y. Sommer,C. Kramer,1
+M. Ginter,J. Vestergaard,1
+P. Herrmann,Y. Sommer,1
+F. Johnson,J. Vestergaard,1
+J. Vestergaard,L. Stindl,1
+M. Ginter,F. Johnson,1

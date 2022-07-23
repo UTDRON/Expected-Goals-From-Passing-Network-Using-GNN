@@ -1,0 +1,13 @@
+Source,Target,Weight
+K. Demirbay,N. Amiri,3
+S. Zuber,K. Demirbay,2
+N. Amiri,K. Demirbay,1
+D. Geiger,K. Vogt,1
+D. Geiger,S. Zuber,1
+N. Amiri,J. Toljan,1
+K. Demirbay,D. Geiger,1
+H. Nordtveit,K. Demirbay,1
+K. Vogt,D. Geiger,1
+\u00c1. Szalai,H. Nordtveit,1
+N. Amiri,\u00c1. Szalai,1
+J. Toljan,K. Demirbay,1

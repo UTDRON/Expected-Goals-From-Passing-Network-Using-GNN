@@ -1,0 +1,50 @@
+Source,Target,Weight
+Som\u00e1lia,K. Amian,4
+I. Sylla,F. Moubandje,4
+G. Imbula,A. Blin,4
+A. Blin,I. Sylla,3
+I. Sylla,Y. Cahuzac,3
+Y. Cahuzac,K. Amian,3
+K. Amian,Som\u00e1lia,3
+F. Moubandje,I. Sylla,3
+F. Moubandje,A. Blin,3
+K. Amian,Y. Cahuzac,3
+A. Blin,G. Imbula,3
+A. Blin,F. Moubandje,2
+C. Jullien,F. Moubandje,2
+G. Imbula,C. Jullien,2
+I. Diop,A. Delort,2
+Y. Cahuzac,I. Diop,2
+F. Moubandje,A. Lafont,2
+F. Moubandje,G. Imbula,2
+Y. Cahuzac,G. Imbula,2
+G. Imbula,Y. Cahuzac,2
+Y. Cahuzac,A. Delort,1
+Som\u00e1lia,G. Imbula,1
+I. Sylla,A. Blin,1
+A. Delort,A. Lafont,1
+A. Delort,I. Sylla,1
+I. Diop,A. Blin,1
+Y. Cahuzac,I. Sylla,1
+A. Delort,I. Diop,1
+A. Blin,Som\u00e1lia,1
+K. Amian,I. Diop,1
+I. Diop,Som\u00e1lia,1
+C. Jullien,I. Diop,1
+I. Sylla,G. Imbula,1
+A. Blin,K. Amian,1
+G. Imbula,F. Moubandje,1
+A. Delort,A. Blin,1
+K. Amian,C. Jullien,1
+A. Lafont,Som\u00e1lia,1
+K. Amian,A. Blin,1
+Y. Cahuzac,Som\u00e1lia,1
+A. Blin,Y. Cahuzac,1
+I. Diop,F. Moubandje,1
+I. Diop,K. Amian,1
+A. Lafont,I. Sylla,1
+Som\u00e1lia,I. Diop,1
+A. Lafont,G. Imbula,1
+A. Delort,G. Imbula,1
+Som\u00e1lia,A. Delort,1
+G. Imbula,A. Delort,1

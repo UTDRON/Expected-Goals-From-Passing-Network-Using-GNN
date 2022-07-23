@@ -1,0 +1,43 @@
+Source,Target,Weight
+D. Li\u00e9nard,J. Martin,3
+B. Kon\u00e9,Y. Salmier,3
+K. Lala,D. Li\u00e9nard,2
+E. Seka,D. Li\u00e9nard,2
+J. Aholou,E. Seka,2
+J. Martin,J. Aholou,2
+Y. Salmier,K. Lala,2
+M. Terrier,J. Aholou,2
+E. Seka,B. Kon\u00e9,2
+K. Lala,S. Bahoken,1
+S. Bahoken,D. Li\u00e9nard,1
+S. Bahoken,E. Seka,1
+J. Martin,B. Kon\u00e9,1
+D. Li\u00e9nard,M. Terrier,1
+M. Terrier,J. Martin,1
+J. Martin,S. Bahoken,1
+K. Lala,B. Kon\u00e9,1
+B. Kamara,K. Lala,1
+B. Kon\u00e9,J. Martin,1
+K. Lala,J. Martin,1
+Nuno Da Costa,M. Terrier,1
+D. Li\u00e9nard,E. Seka,1
+E. Seka,A. Gon\u00e7alves,1
+D. Li\u00e9nard,K. Lala,1
+B. Kon\u00e9,D. Li\u00e9nard,1
+D. Li\u00e9nard,B. Kon\u00e9,1
+M. Terrier,A. Gon\u00e7alves,1
+K. Lala,A. Gon\u00e7alves,1
+Y. Salmier,E. Seka,1
+Y. Salmier,M. Terrier,1
+A. Gon\u00e7alves,J. Martin,1
+J. Aholou,D. Li\u00e9nard,1
+J. Aholou,Y. Salmier,1
+B. Kamara,M. Terrier,1
+A. Gon\u00e7alves,Y. Salmier,1
+J. Martin,K. Lala,1
+K. Lala,B. Kamara,1
+B. Kon\u00e9,B. Kamara,1
+J. Martin,D. Li\u00e9nard,1
+J. Martin,Nuno Da Costa,1
+Y. Salmier,B. Kon\u00e9,1
+A. Gon\u00e7alves,K. Lala,1

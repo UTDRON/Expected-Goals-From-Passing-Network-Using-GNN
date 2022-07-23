@@ -1,0 +1,22 @@
+Source,Target,Weight
+L. Blas,R. Camara,2
+R. Camara,L. Blas,2
+L. Blas,F. Tabanou,2
+F. Tabanou,N. Benezet,1
+J. Martins-Pereira,C. Kerbrat,1
+F. Eboa Eboa,N. Benezet,1
+N. Benezet,J. Martins-Pereira,1
+F. Tabanou,L. Blas,1
+R. Camara,M. Diallo,1
+J. Briand,N. Benezet,1
+N. Benezet,J. Briand,1
+F. Tabanou,J. Briand,1
+C. Kerbrat,L. Blas,1
+C. Kerbrat,K. Johnsson,1
+N. Benezet,F. Tabanou,1
+K. Johnsson,R. Camara,1
+F. Eboa Eboa,C. Kerbrat,1
+F. Eboa Eboa,L. Blas,1
+L. Blas,C. Kerbrat,1
+C. Kerbrat,F. Eboa Eboa,1
+M. Diallo,F. Eboa Eboa,1

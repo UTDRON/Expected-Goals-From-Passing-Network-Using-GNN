@@ -1,0 +1,52 @@
+Source,Target,Weight
+M. Le Marchand,Y. Cardinale,3
+M. Le Marchand,J. Seri,3
+J. Seri,M. Balotelli,3
+A. Saint-Maximin,A. Pl\u00e9a,3
+A. Souquet,A. Saint-Maximin,3
+C. Jallet,M. Le Marchand,3
+A. Souquet,M. Balotelli,3
+A. Pl\u00e9a,A. Souquet,2
+P. Lees Melou,M. Le Marchand,2
+J. Seri,Marlon,2
+P. Lees Melou,J. Seri,2
+J. Seri,C. Jallet,2
+M. Balotelli,J. Seri,2
+Marlon,A. Saint-Maximin,2
+Marlon,V. Koziello,2
+M. Balotelli,A. Souquet,2
+M. Balotelli,A. Pl\u00e9a,2
+A. Souquet,A. Pl\u00e9a,2
+C. Jallet,P. Lees Melou,2
+P. Lees Melou,V. Koziello,2
+J. Seri,A. Souquet,2
+Y. Cardinale,A. Souquet,2
+V. Koziello,P. Lees Melou,2
+A. Saint-Maximin,M. Balotelli,1
+A. Souquet,Marlon,1
+J. Seri,A. Saint-Maximin,1
+A. Pl\u00e9a,A. Saint-Maximin,1
+M. Balotelli,M. Le Marchand,1
+A. Saint-Maximin,V. Koziello,1
+A. Saint-Maximin,A. Souquet,1
+V. Koziello,J. Seri,1
+V. Koziello,Marlon,1
+Y. Cardinale,P. Lees Melou,1
+A. Saint-Maximin,J. Seri,1
+M. Balotelli,C. Jallet,1
+P. Lees Melou,Y. Cardinale,1
+A. Pl\u00e9a,Marlon,1
+P. Lees Melou,M. Balotelli,1
+M. Balotelli,P. Lees Melou,1
+A. Pl\u00e9a,P. Lees Melou,1
+M. Le Marchand,P. Lees Melou,1
+M. Le Marchand,C. Jallet,1
+Y. Cardinale,M. Le Marchand,1
+V. Koziello,M. Balotelli,1
+C. Jallet,J. Seri,1
+A. Pl\u00e9a,C. Jallet,1
+A. Saint-Maximin,C. Jallet,1
+Y. Cardinale,J. Seri,1
+V. Koziello,Y. Cardinale,1
+Marlon,M. Le Marchand,1
+J. Seri,V. Koziello,1

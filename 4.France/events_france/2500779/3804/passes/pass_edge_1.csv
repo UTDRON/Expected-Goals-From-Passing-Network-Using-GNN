@@ -1,0 +1,47 @@
+Source,Target,Weight
+O. Haddadi,P. Djilobodji,3
+P. Djilobodji,C. Varrault,3
+C. Varrault,Xeka,2
+C. Varrault,Kwon Chang-Hoon,2
+P. Djilobodji,J. Mari\u00e9,2
+R. Amalfitano,P. Djilobodji,2
+Kwon Chang-Hoon,C. Varrault,2
+C. Varrault,V. Rosier,2
+B. Reynet,P. Djilobodji,2
+C. Varrault,B. Reynet,2
+J. Mari\u00e9,C. Varrault,2
+P. Djilobodji,B. Reynet,2
+N. Sliti,Kwon Chang-Hoon,2
+O. Haddadi,R. Amalfitano,1
+B. Jeannot,V. Rosier,1
+V. Rosier,Kwon Chang-Hoon,1
+Kwon Chang-Hoon,V. Rosier,1
+B. Reynet,C. Varrault,1
+Xeka,B. Jeannot,1
+Xeka,C. Varrault,1
+Kwon Chang-Hoon,Xeka,1
+B. Jeannot,J. Mari\u00e9,1
+R. Amalfitano,N. Sliti,1
+B. Jeannot,Xeka,1
+P. Djilobodji,B. Jeannot,1
+N. Sliti,Xeka,1
+Xeka,P. Djilobodji,1
+Kwon Chang-Hoon,O. Haddadi,1
+Xeka,O. Haddadi,1
+J. Mari\u00e9,P. Djilobodji,1
+N. Sliti,C. Varrault,1
+V. Rosier,J. Mari\u00e9,1
+V. Rosier,C. Varrault,1
+B. Reynet,O. Haddadi,1
+C. Varrault,O. Haddadi,1
+P. Djilobodji,N. Sliti,1
+V. Rosier,R. Amalfitano,1
+Xeka,J. Mari\u00e9,1
+C. Varrault,R. Amalfitano,1
+J. Mari\u00e9,B. Jeannot,1
+O. Haddadi,N. Sliti,1
+C. Varrault,B. Jeannot,1
+J. Mari\u00e9,O. Haddadi,1
+V. Rosier,B. Jeannot,1
+B. Jeannot,N. Sliti,1
+B. Jeannot,Kwon Chang-Hoon,1

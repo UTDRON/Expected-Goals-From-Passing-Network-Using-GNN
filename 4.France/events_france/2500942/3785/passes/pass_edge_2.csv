@@ -1,0 +1,64 @@
+Source,Target,Weight
+C. Grenier,M. Thuram,3
+F. Eboa Eboa,J. Briand,3
+L. Phiri,C. Grenier,3
+C. Grenier,F. Eboa Eboa,3
+L. Phiri,Y. N'Gbakoto,3
+C. Grenier,Y. Salibur,3
+F. Eboa Eboa,K. Johnsson,3
+F. Eboa Eboa,F. Tabanou,3
+F. Eboa Eboa,L. Phiri,2
+L. Phiri,K. Johnsson,2
+J. Ikoko,C. Grenier,2
+L. Blas,F. Eboa Eboa,2
+F. Tabanou,K. Johnsson,2
+J. Briand,K. Johnsson,2
+K. Johnsson,L. Phiri,2
+C. Kerbrat,C. Grenier,2
+L. Phiri,F. Eboa Eboa,2
+F. Tabanou,F. Eboa Eboa,2
+J. Briand,L. Phiri,2
+F. Eboa Eboa,C. Grenier,2
+M. Thuram,J. Briand,2
+Y. Salibur,L. Phiri,2
+K. Johnsson,J. Ikoko,2
+K. Johnsson,Y. Salibur,2
+F. Tabanou,C. Kerbrat,2
+M. Thuram,L. Phiri,1
+J. Briand,F. Eboa Eboa,1
+M. Thuram,C. Grenier,1
+Y. Salibur,M. Thuram,1
+F. Tabanou,C. Grenier,1
+L. Phiri,L. Blas,1
+M. Thuram,C. Kerbrat,1
+C. Grenier,L. Blas,1
+Y. Salibur,L. Blas,1
+K. Johnsson,F. Tabanou,1
+Y. Salibur,C. Kerbrat,1
+J. Ikoko,L. Phiri,1
+J. Ikoko,F. Eboa Eboa,1
+M. Thuram,F. Tabanou,1
+K. Johnsson,C. Kerbrat,1
+L. Blas,M. Thuram,1
+F. Tabanou,J. Briand,1
+M. Thuram,F. Eboa Eboa,1
+J. Ikoko,C. Kerbrat,1
+C. Kerbrat,J. Briand,1
+L. Phiri,J. Ikoko,1
+J. Briand,J. Ikoko,1
+L. Phiri,F. Tabanou,1
+J. Briand,F. Tabanou,1
+J. Ikoko,Y. Salibur,1
+Y. Salibur,J. Ikoko,1
+K. Johnsson,J. Briand,1
+C. Kerbrat,K. Johnsson,1
+K. Johnsson,M. Thuram,1
+Y. N'Gbakoto,J. Briand,1
+C. Kerbrat,F. Tabanou,1
+Y. Salibur,F. Eboa Eboa,1
+J. Briand,M. Thuram,1
+Y. N'Gbakoto,F. Eboa Eboa,1
+C. Kerbrat,L. Phiri,1
+Y. N'Gbakoto,L. Phiri,1
+C. Grenier,L. Phiri,1
+F. Eboa Eboa,J. Ikoko,1

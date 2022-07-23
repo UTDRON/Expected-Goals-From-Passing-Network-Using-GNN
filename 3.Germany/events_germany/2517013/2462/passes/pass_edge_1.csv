@@ -1,0 +1,52 @@
+Source,Target,Weight
+D. da Costa,D. Abraham,4
+D. Abraham,M. Hasebe,4
+M. Russ,L. Hradecky,4
+M. Hasebe,D. Abraham,3
+L. Jovi\u0107,D. da Costa,2
+J. de Guzm\u00e1n,L. Jovi\u0107,2
+D. Abraham,L. Hradecky,2
+L. Hradecky,D. Abraham,2
+L. Hradecky,M. Russ,2
+J. de Guzm\u00e1n,M. Ga\u0107inovi\u0107,2
+L. Hradecky,S. Haller,2
+D. Abraham,D. da Costa,2
+S. Haller,J. de Guzm\u00e1n,2
+L. Jovi\u0107,J. de Guzm\u00e1n,2
+D. Abraham,J. de Guzm\u00e1n,2
+M. Hasebe,M. Russ,1
+M. Ga\u0107inovi\u0107,A. Barkok,1
+M. Hasebe,A. Barkok,1
+J. de Guzm\u00e1n,D. da Costa,1
+T. Chandler,M. Russ,1
+M. Russ,L. Jovi\u0107,1
+S. Haller,L. Jovi\u0107,1
+L. Hradecky,L. Jovi\u0107,1
+M. Ga\u0107inovi\u0107,L. Hradecky,1
+T. Chandler,M. Ga\u0107inovi\u0107,1
+M. Russ,S. Haller,1
+S. Haller,D. da Costa,1
+L. Jovi\u0107,S. Haller,1
+S. Haller,D. Abraham,1
+A. Barkok,M. Ga\u0107inovi\u0107,1
+L. Hradecky,M. Hasebe,1
+S. Haller,M. Russ,1
+D. da Costa,L. Hradecky,1
+D. da Costa,S. Haller,1
+A. Barkok,M. Hasebe,1
+M. Ga\u0107inovi\u0107,D. Abraham,1
+J. de Guzm\u00e1n,M. Russ,1
+D. Abraham,S. Haller,1
+M. Ga\u0107inovi\u0107,D. da Costa,1
+M. Hasebe,L. Jovi\u0107,1
+M. Ga\u0107inovi\u0107,J. de Guzm\u00e1n,1
+M. Hasebe,T. Chandler,1
+S. Haller,M. Ga\u0107inovi\u0107,1
+M. Russ,M. Hasebe,1
+D. da Costa,M. Ga\u0107inovi\u0107,1
+L. Jovi\u0107,M. Ga\u0107inovi\u0107,1
+M. Ga\u0107inovi\u0107,S. Haller,1
+L. Jovi\u0107,M. Russ,1
+M. Ga\u0107inovi\u0107,L. Jovi\u0107,1
+D. Abraham,L. Jovi\u0107,1
+J. de Guzm\u00e1n,D. Abraham,1

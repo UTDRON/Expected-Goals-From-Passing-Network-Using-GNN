@@ -1,0 +1,14 @@
+Source,Target,Weight
+J. Hofmann,Raffael,2
+J. Hofmann,N. Elvedi,1
+L. B\u00e9nes,T. Hazard,1
+L. B\u00e9nes,C. Kramer,1
+C. Kramer,J. Hofmann,1
+Raffael,J. Hofmann,1
+L. B\u00e9nes,J. Hofmann,1
+T. Hazard,Raffael,1
+Raffael,L. B\u00e9nes,1
+N. Elvedi,J. Hofmann,1
+J. Hofmann,L. B\u00e9nes,1
+J. Hofmann,L. Stindl,1
+L. Stindl,J. Hofmann,1

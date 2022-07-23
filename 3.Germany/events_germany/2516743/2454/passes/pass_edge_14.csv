@@ -1,0 +1,20 @@
+Source,Target,Weight
+M. Ginter,N. Elvedi,2
+C. Kramer,Y. Sommer,1
+I. Traor\u00e9,Raffael,1
+M. Ginter,D. Zakaria,1
+T. Hazard,M. Ginter,1
+N. Elvedi,L. Stindl,1
+N. Elvedi,I. Traor\u00e9,1
+Y. Sommer,T. Hazard,1
+Raffael,M. Ginter,1
+N. Elvedi,Raffael,1
+M. Ginter,C. Kramer,1
+D. Zakaria,C. Kramer,1
+C. Kramer,D. Zakaria,1
+Raffael,L. Stindl,1
+C. Kramer,M. Ginter,1
+D. Zakaria,I. Traor\u00e9,1
+L. Stindl,N. Elvedi,1
+L. Stindl,I. Traor\u00e9,1
+I. Traor\u00e9,M. Ginter,1

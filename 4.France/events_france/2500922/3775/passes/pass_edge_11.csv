@@ -1,0 +1,28 @@
+Source,Target,Weight
+A. Lusamba,J. Seri,4
+J. Seri,P. Burner,4
+R. Coly,A. Lusamba,3
+P. Burner,J. Seri,3
+B. Srarfi,J. Seri,2
+M. Sarr,P. Burner,2
+J. Seri,R. Coly,2
+J. Seri,A. Lusamba,2
+J. Seri,M. Sarr,2
+A. Lusamba,R. Coly,1
+I. Sacko,I. Ganago,1
+J. Seri,Dante,1
+R. Coly,J. Seri,1
+M. Sarr,I. Sacko,1
+P. Burner,M. Sarr,1
+I. Ganago,J. Seri,1
+I. Sacko,R. Coly,1
+I. Ganago,I. Sacko,1
+R. Coly,Dante,1
+P. Burner,B. Srarfi,1
+P. Burner,I. Ganago,1
+Dante,A. Lusamba,1
+Dante,P. Burner,1
+M. Sarr,A. Lusamba,1
+A. Lusamba,B. Srarfi,1
+A. Lusamba,M. Sarr,1
+P. Burner,R. Coly,1

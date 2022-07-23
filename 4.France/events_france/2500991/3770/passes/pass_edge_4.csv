@@ -1,0 +1,46 @@
+Source,Target,Weight
+L. Dubois,Diego Carlos,4
+Diego Carlos,L. Dubois,4
+S. Moutoussamy,Y. Bammou,3
+Y. Bammou,Lucas Lima,3
+N. Pallois,Lucas Lima,3
+Lucas Lima,E. Sala,2
+Diego Carlos,N. Pallois,2
+L. Dubois,S. Moutoussamy,2
+Lucas Lima,L. Dubois,2
+Lucas Lima,Y. Bammou,2
+Diego Carlos,R. Krhin,2
+Diego Carlos,V. Rongier,2
+V. Rongier,N. Pallois,1
+V. Rongier,Lucas Lima,1
+L. Dubois,C. T\u0103t\u0103ru\u0219anu,1
+N. Pallois,Diego Carlos,1
+R. Krhin,V. Rongier,1
+Y. Bammou,N. Pallois,1
+Y. Bammou,L. Dubois,1
+R. Krhin,S. Moutoussamy,1
+Y. El Ghanassy,Diego Carlos,1
+Lucas Lima,N. Pallois,1
+S. Moutoussamy,L. Dubois,1
+V. Rongier,Y. Bammou,1
+C. T\u0103t\u0103ru\u0219anu,Y. El Ghanassy,1
+Y. Bammou,S. Moutoussamy,1
+E. Sala,Y. Bammou,1
+L. Dubois,Lucas Lima,1
+Lucas Lima,S. Moutoussamy,1
+V. Rongier,Diego Carlos,1
+N. Pallois,C. T\u0103t\u0103ru\u0219anu,1
+Y. El Ghanassy,S. Moutoussamy,1
+C. T\u0103t\u0103ru\u0219anu,Diego Carlos,1
+E. Sala,N. Pallois,1
+L. Dubois,Y. El Ghanassy,1
+Diego Carlos,Y. El Ghanassy,1
+Y. Bammou,Diego Carlos,1
+S. Moutoussamy,V. Rongier,1
+R. Krhin,Diego Carlos,1
+E. Sala,Diego Carlos,1
+Y. Bammou,R. Krhin,1
+Y. Bammou,E. Sala,1
+N. Pallois,L. Dubois,1
+N. Pallois,Y. Bammou,1
+S. Moutoussamy,N. Pallois,1

@@ -1,0 +1,98 @@
+Source,Target,Weight
+J. Bruma,William,13
+R. Knoche,P. Verhaegh,12
+A. Mehmedi,William,9
+J. Brekalo,A. Mehmedi,8
+M. Arnold,William,8
+P. Verhaegh,J. Brekalo,8
+William,V. Osimhen,8
+A. Mehmedi,J. Brekalo,7
+P. Verhaegh,R. Knoche,7
+V. Osimhen,J. Guilavogui,6
+J. Brekalo,P. Verhaegh,6
+William,J. Bruma,6
+R. Knoche,J. Bruma,6
+A. Mehmedi,M. Arnold,6
+William,M. Arnold,6
+William,A. Mehmedi,6
+P. Verhaegh,M. Arnold,6
+Y. Mall\u0131,M. Arnold,6
+William,R. Knoche,6
+William,J. Guilavogui,6
+V. Osimhen,William,5
+Y. Mall\u0131,J. Brekalo,5
+M. Arnold,J. Bruma,5
+J. Bruma,M. Arnold,5
+J. Bruma,R. Knoche,5
+J. Bruma,K. Casteels,5
+J. Guilavogui,P. Verhaegh,5
+V. Osimhen,A. Mehmedi,5
+M. Arnold,J. Brekalo,5
+M. Arnold,V. Osimhen,4
+K. Casteels,J. Bruma,4
+J. Brekalo,J. Bruma,4
+J. Guilavogui,William,4
+R. Knoche,K. Casteels,4
+M. Arnold,J. Guilavogui,4
+J. Brekalo,M. Arnold,4
+K. Casteels,V. Osimhen,4
+M. Arnold,K. Casteels,4
+J. Guilavogui,J. Brekalo,4
+M. Arnold,R. Knoche,4
+V. Osimhen,P. Verhaegh,3
+William,J. Brekalo,3
+A. Mehmedi,R. Knoche,3
+M. Arnold,Y. Mall\u0131,3
+J. Guilavogui,R. Knoche,3
+P. Verhaegh,Y. Mall\u0131,3
+J. Guilavogui,J. Bruma,3
+J. Brekalo,J. Guilavogui,3
+J. Brekalo,Y. Mall\u0131,3
+J. Guilavogui,M. Arnold,3
+J. Brekalo,R. Knoche,3
+R. Knoche,Y. Mall\u0131,3
+J. Guilavogui,A. Mehmedi,3
+K. Casteels,A. Mehmedi,3
+J. Guilavogui,Y. Mall\u0131,3
+A. Mehmedi,V. Osimhen,3
+A. Mehmedi,Y. Mall\u0131,3
+Y. Mall\u0131,J. Guilavogui,3
+J. Brekalo,William,3
+M. Arnold,A. Mehmedi,2
+P. Verhaegh,J. Bruma,2
+J. Bruma,Y. Mall\u0131,2
+R. Knoche,J. Brekalo,2
+William,P. Verhaegh,2
+V. Osimhen,J. Bruma,2
+R. Knoche,J. Guilavogui,2
+R. Knoche,M. Arnold,2
+V. Osimhen,R. Knoche,2
+P. Verhaegh,V. Osimhen,2
+Y. Mall\u0131,P. Verhaegh,2
+J. Bruma,A. Mehmedi,2
+R. Knoche,A. Mehmedi,2
+P. Verhaegh,J. Guilavogui,2
+R. Knoche,William,2
+J. Brekalo,V. Osimhen,2
+K. Casteels,R. Knoche,2
+Y. Mall\u0131,A. Mehmedi,2
+P. Verhaegh,K. Casteels,2
+K. Casteels,P. Verhaegh,2
+J. Bruma,J. Guilavogui,2
+P. Verhaegh,A. Mehmedi,2
+K. Casteels,M. Arnold,1
+K. Casteels,J. Brekalo,1
+V. Osimhen,J. Brekalo,1
+A. Mehmedi,K. Casteels,1
+A. Mehmedi,P. Verhaegh,1
+Y. Mall\u0131,V. Osimhen,1
+V. Osimhen,M. Arnold,1
+A. Mehmedi,J. Guilavogui,1
+William,K. Casteels,1
+Y. Mall\u0131,J. Bruma,1
+M. Arnold,P. Verhaegh,1
+V. Osimhen,Y. Mall\u0131,1
+R. Knoche,V. Osimhen,1
+A. Mehmedi,J. Bruma,1
+J. Guilavogui,V. Osimhen,1
+Y. Mall\u0131,R. Knoche,1

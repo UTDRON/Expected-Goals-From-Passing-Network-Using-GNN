@@ -1,0 +1,25 @@
+Source,Target,Weight
+S. Serdar,D. Latza,3
+E. Berggreen,D. Brosinski,2
+E. Berggreen,L. Balogun,2
+G. Donati,J. Gbamin,1
+L. Balogun,R. Zentner,1
+J. Gbamin,S. Serdar,1
+L. Balogun,E. Berggreen,1
+D. Latza,J. Gbamin,1
+R. Zentner,E. Berggreen,1
+D. Latza,S. Serdar,1
+D. Brosinski,E. Berggreen,1
+J. Gbamin,E. Berggreen,1
+J. Gbamin,D. Latza,1
+D. Latza,D. Brosinski,1
+L. Balogun,J. Gbamin,1
+E. Berggreen,Jairo Samperio,1
+D. Brosinski,Jairo Samperio,1
+L. Balogun,S. Serdar,1
+D. Brosinski,A. Diallo,1
+Jairo Samperio,A. Maxim,1
+Jairo Samperio,L. Balogun,1
+D. Latza,G. Donati,1
+A. Diallo,L. Balogun,1
+A. Maxim,D. Latza,1

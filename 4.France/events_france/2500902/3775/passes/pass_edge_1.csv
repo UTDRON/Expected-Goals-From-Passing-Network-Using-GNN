@@ -1,0 +1,96 @@
+Source,Target,Weight
+Dante,P. Burner,19
+W. Cyprien,J. Seri,19
+M. Sarr,W. Cyprien,13
+W. Cyprien,Dante,12
+Dante,M. Sarr,12
+J. Seri,W. Cyprien,11
+M. Sarr,R. Coly,11
+M. Sarr,Dante,11
+R. Coly,M. Sarr,11
+P. Burner,Dante,10
+B. Srarfi,P. Burner,9
+P. Burner,W. Cyprien,9
+P. Burner,B. Srarfi,9
+P. Lees Melou,P. Burner,8
+P. Lees Melou,B. Srarfi,8
+W. Cyprien,P. Lees Melou,8
+P. Burner,P. Lees Melou,7
+A. Saint-Maximin,J. Seri,7
+Dante,W. Cyprien,7
+J. Seri,M. Sarr,7
+W. Cyprien,B. Srarfi,6
+R. Coly,W. Cyprien,6
+J. Seri,R. Coly,6
+J. Seri,P. Lees Melou,6
+R. Coly,J. Seri,5
+P. Lees Melou,W. Cyprien,5
+J. Seri,A. Saint-Maximin,5
+W. Cyprien,R. Coly,5
+W. Cyprien,M. Sarr,5
+P. Lees Melou,M. Sarr,4
+J. Seri,Dante,4
+M. Sarr,J. Makengo,4
+W. Ben\u00edtez,M. Sarr,4
+R. Coly,A. Saint-Maximin,4
+Dante,J. Seri,4
+J. Seri,W. Ben\u00edtez,3
+W. Cyprien,P. Burner,3
+A. Saint-Maximin,R. Coly,3
+P. Burner,M. Balotelli,3
+J. Makengo,R. Coly,3
+B. Srarfi,M. Sarr,3
+A. Saint-Maximin,W. Cyprien,3
+P. Lees Melou,Dante,3
+P. Burner,J. Seri,3
+M. Sarr,P. Lees Melou,3
+J. Seri,M. Balotelli,3
+R. Coly,P. Lees Melou,3
+B. Srarfi,W. Ben\u00edtez,3
+M. Sarr,J. Seri,3
+M. Sarr,A. Saint-Maximin,3
+Dante,W. Ben\u00edtez,2
+J. Makengo,J. Seri,2
+R. Coly,Dante,2
+M. Balotelli,R. Coly,2
+M. Balotelli,P. Lees Melou,2
+Dante,A. Saint-Maximin,2
+B. Srarfi,R. Coly,2
+B. Srarfi,J. Seri,2
+P. Lees Melou,J. Seri,2
+M. Balotelli,J. Seri,2
+A. Saint-Maximin,M. Balotelli,2
+J. Makengo,W. Cyprien,2
+B. Srarfi,Dante,2
+J. Seri,J. Makengo,2
+B. Srarfi,P. Lees Melou,2
+B. Srarfi,W. Cyprien,2
+B. Srarfi,M. Balotelli,1
+W. Ben\u00edtez,R. Coly,1
+M. Balotelli,B. Srarfi,1
+R. Coly,W. Ben\u00edtez,1
+M. Balotelli,P. Burner,1
+J. Seri,P. Burner,1
+W. Cyprien,J. Makengo,1
+P. Lees Melou,R. Coly,1
+M. Balotelli,J. Makengo,1
+R. Coly,M. Balotelli,1
+W. Cyprien,A. Saint-Maximin,1
+M. Balotelli,M. Sarr,1
+W. Ben\u00edtez,B. Srarfi,1
+M. Sarr,M. Balotelli,1
+W. Ben\u00edtez,Dante,1
+P. Burner,M. Sarr,1
+M. Sarr,W. Ben\u00edtez,1
+M. Balotelli,Dante,1
+P. Lees Melou,W. Ben\u00edtez,1
+W. Ben\u00edtez,P. Burner,1
+A. Saint-Maximin,M. Sarr,1
+P. Lees Melou,M. Balotelli,1
+W. Ben\u00edtez,W. Cyprien,1
+J. Makengo,Dante,1
+M. Balotelli,W. Cyprien,1
+R. Coly,B. Srarfi,1
+W. Ben\u00edtez,A. Saint-Maximin,1
+Dante,P. Lees Melou,1
+W. Ben\u00edtez,P. Lees Melou,1

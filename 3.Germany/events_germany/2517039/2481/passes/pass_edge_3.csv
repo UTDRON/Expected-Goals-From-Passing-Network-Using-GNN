@@ -1,0 +1,76 @@
+Source,Target,Weight
+Caiuby,M. Hinteregger,7
+R. Khedira,J. Gouweleeuw,6
+K. Danso,A. Luthe,5
+M. Hinteregger,D. Baier,5
+D. Baier,R. Khedira,4
+M. Hinteregger,J. Mor\u00e1vek,4
+J. Gouweleeuw,A. Luthe,4
+A. Luthe,J. Gouweleeuw,4
+K. Danso,Caiuby,4
+J. Gouweleeuw,Caiuby,4
+R. Khedira,M. Hinteregger,3
+A. Luthe,K. Danso,3
+J. Mor\u00e1vek,M. Hinteregger,3
+D. Baier,J. Mor\u00e1vek,3
+J. Gouweleeuw,K. Danso,3
+J. Gouweleeuw,M. Hinteregger,3
+K. Danso,J. Schmid,3
+M. Richter,J. Gouweleeuw,3
+R. Khedira,K. Danso,3
+J. Schmid,M. Richter,3
+J. Mor\u00e1vek,D. Baier,3
+M. Hinteregger,A. Finnbogason,2
+J. Gouweleeuw,J. Schmid,2
+K. Danso,D. Baier,2
+D. Baier,K. Danso,2
+K. Danso,M. Richter,2
+M. Hinteregger,A. Luthe,2
+M. Hinteregger,J. Gouweleeuw,2
+M. Hinteregger,R. Khedira,2
+M. Richter,J. Schmid,2
+K. Danso,R. Khedira,2
+A. Finnbogason,D. Baier,2
+A. Luthe,J. Mor\u00e1vek,2
+R. Khedira,A. Luthe,2
+D. Baier,M. Hinteregger,2
+Caiuby,A. Finnbogason,2
+Caiuby,R. Khedira,2
+J. Schmid,K. Danso,2
+J. Mor\u00e1vek,R. Khedira,2
+M. Richter,J. Mor\u00e1vek,2
+J. Mor\u00e1vek,M. Richter,2
+D. Baier,M. Richter,2
+J. Schmid,R. Khedira,2
+R. Khedira,D. Baier,2
+D. Baier,Caiuby,2
+M. Richter,K. Danso,2
+Caiuby,K. Danso,2
+A. Finnbogason,J. Mor\u00e1vek,2
+A. Finnbogason,J. Schmid,1
+M. Richter,D. Baier,1
+A. Finnbogason,K. Danso,1
+J. Gouweleeuw,A. Finnbogason,1
+J. Schmid,D. Baier,1
+A. Luthe,Caiuby,1
+J. Gouweleeuw,D. Baier,1
+A. Luthe,M. Hinteregger,1
+J. Mor\u00e1vek,K. Danso,1
+M. Hinteregger,Caiuby,1
+D. Baier,J. Schmid,1
+A. Finnbogason,J. Gouweleeuw,1
+M. Hinteregger,K. Danso,1
+A. Luthe,A. Finnbogason,1
+J. Gouweleeuw,R. Khedira,1
+D. Baier,J. Gouweleeuw,1
+A. Luthe,R. Khedira,1
+M. Hinteregger,M. Richter,1
+J. Mor\u00e1vek,A. Finnbogason,1
+J. Mor\u00e1vek,J. Schmid,1
+J. Mor\u00e1vek,Caiuby,1
+A. Finnbogason,Caiuby,1
+K. Danso,M. Hinteregger,1
+J. Schmid,A. Finnbogason,1
+Caiuby,J. Mor\u00e1vek,1
+J. Mor\u00e1vek,J. Gouweleeuw,1
+K. Danso,J. Mor\u00e1vek,1

@@ -1,0 +1,24 @@
+Source,Target,Weight
+L. Blas,J. Ikoko,2
+J. Ikoko,L. Blas,2
+Pedro Rebocho,J. Sorbon,2
+J. Sorbon,M. Coco,2
+M. Thuram,L. Blas,2
+M. Coco,Pedro Rebocho,1
+\u00c9. Didot,K. Johnsson,1
+C. Grenier,M. Thuram,1
+J. Sorbon,\u00c9. Didot,1
+M. Coco,\u00c9. Didot,1
+L. Blas,Pedro Rebocho,1
+L. Blas,M. Coco,1
+M. Coco,J. Sorbon,1
+K. Johnsson,C. Kerbrat,1
+J. Sorbon,L. Blas,1
+C. Kerbrat,J. Ikoko,1
+L. Blas,\u00c9. Didot,1
+C. Grenier,J. Sorbon,1
+J. Ikoko,J. Briand,1
+J. Ikoko,M. Coco,1
+\u00c9. Didot,M. Thuram,1
+\u00c9. Didot,C. Grenier,1
+M. Coco,J. Ikoko,1

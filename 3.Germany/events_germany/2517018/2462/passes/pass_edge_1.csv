@@ -1,0 +1,49 @@
+Source,Target,Weight
+S. Falette,L. Hradecky,4
+L. Hradecky,S. Falette,3
+D. da Costa,L. Jovi\u0107,2
+J. Willems,S. Falette,2
+M. Fabi\u00e1n,J. Willems,2
+D. Abraham,L. Hradecky,2
+J. Willems,B. Hrgota,2
+D. Abraham,D. da Costa,2
+B. Hrgota,J. Willems,2
+M. Ga\u0107inovi\u0107,J. Willems,2
+J. Willems,L. Jovi\u0107,2
+M. Wolf,M. Fabi\u00e1n,2
+S. Falette,Omar Mascarell,2
+Omar Mascarell,D. Abraham,2
+B. Hrgota,M. Ga\u0107inovi\u0107,1
+L. Jovi\u0107,L. Hradecky,1
+D. Abraham,J. Willems,1
+L. Hradecky,D. da Costa,1
+M. Fabi\u00e1n,D. da Costa,1
+Omar Mascarell,L. Jovi\u0107,1
+D. da Costa,D. Abraham,1
+L. Jovi\u0107,M. Fabi\u00e1n,1
+Omar Mascarell,L. Hradecky,1
+J. Willems,M. Ga\u0107inovi\u0107,1
+S. Falette,M. Fabi\u00e1n,1
+M. Ga\u0107inovi\u0107,D. da Costa,1
+D. da Costa,M. Ga\u0107inovi\u0107,1
+L. Jovi\u0107,D. Abraham,1
+L. Hradecky,M. Fabi\u00e1n,1
+J. Willems,D. da Costa,1
+D. Abraham,Omar Mascarell,1
+L. Hradecky,M. Ga\u0107inovi\u0107,1
+D. da Costa,M. Wolf,1
+B. Hrgota,S. Falette,1
+Omar Mascarell,S. Falette,1
+S. Falette,J. Willems,1
+M. Fabi\u00e1n,D. Abraham,1
+M. Fabi\u00e1n,B. Hrgota,1
+D. Abraham,S. Falette,1
+L. Jovi\u0107,M. Wolf,1
+M. Ga\u0107inovi\u0107,M. Fabi\u00e1n,1
+L. Hradecky,M. Wolf,1
+M. Wolf,Omar Mascarell,1
+L. Hradecky,D. Abraham,1
+D. da Costa,Omar Mascarell,1
+M. Ga\u0107inovi\u0107,D. Abraham,1
+M. Fabi\u00e1n,M. Ga\u0107inovi\u0107,1
+L. Jovi\u0107,B. Hrgota,1

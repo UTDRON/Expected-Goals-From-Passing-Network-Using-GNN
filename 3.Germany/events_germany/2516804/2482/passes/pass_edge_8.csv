@@ -1,0 +1,27 @@
+Source,Target,Weight
+B. H\u00fcbner,K. Vogt,4
+K. Vogt,B. H\u00fcbner,3
+O. Baumann,S. Wagner,2
+S. Posch,K. Vogt,2
+K. Demirbay,B. H\u00fcbner,2
+K. Vogt,S. Posch,2
+S. Wagner,K. Demirbay,2
+S. Posch,S. Wagner,1
+S. Zuber,B. H\u00fcbner,1
+N. Amiri,S. Zuber,1
+S. Posch,M. Uth,1
+K. Demirbay,O. Baumann,1
+K. Demirbay,S. Posch,1
+K. Vogt,S. Wagner,1
+M. Uth,S. Posch,1
+B. H\u00fcbner,O. Baumann,1
+M. Uth,K. Demirbay,1
+S. Wagner,D. Geiger,1
+K. Vogt,N. Amiri,1
+O. Baumann,K. Vogt,1
+S. Wagner,K. Vogt,1
+D. Geiger,A. Kramari\u0107,1
+B. H\u00fcbner,K. Demirbay,1
+S. Posch,O. Baumann,1
+K. Vogt,K. Demirbay,1
+K. Demirbay,M. Uth,1

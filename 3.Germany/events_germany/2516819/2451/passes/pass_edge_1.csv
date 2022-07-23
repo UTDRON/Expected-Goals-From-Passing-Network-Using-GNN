@@ -1,0 +1,85 @@
+Source,Target,Weight
+M. Arnold,G. Itter,7
+J. B\u0142aszczykowski,P. Verhaegh,7
+P. Verhaegh,J. B\u0142aszczykowski,6
+P. Verhaegh,M. Tisserand,6
+M. Tisserand,P. Verhaegh,6
+G. Itter,M. Arnold,5
+K. Casteels,M. Tisserand,5
+L. Dimata,Camacho,5
+Camacho,F. Uduokhai,5
+Camacho,D. Didavi,5
+P. Verhaegh,D. Didavi,5
+M. Tisserand,Camacho,5
+F. Uduokhai,K. Casteels,5
+D. Didavi,M. Arnold,5
+F. Uduokhai,M. Arnold,4
+M. Tisserand,F. Uduokhai,4
+G. Itter,L. Dimata,4
+P. Verhaegh,Camacho,4
+F. Uduokhai,Camacho,4
+D. Origi,P. Verhaegh,4
+J. B\u0142aszczykowski,D. Origi,4
+M. Arnold,D. Didavi,4
+D. Origi,M. Arnold,4
+G. Itter,F. Uduokhai,4
+M. Arnold,Camacho,4
+Camacho,P. Verhaegh,4
+Camacho,M. Arnold,4
+K. Casteels,F. Uduokhai,4
+P. Verhaegh,D. Origi,4
+Camacho,L. Dimata,3
+M. Arnold,M. Tisserand,3
+Camacho,M. Tisserand,3
+Camacho,J. B\u0142aszczykowski,3
+M. Arnold,L. Dimata,3
+M. Tisserand,K. Casteels,3
+F. Uduokhai,G. Itter,3
+M. Arnold,F. Uduokhai,3
+D. Didavi,J. B\u0142aszczykowski,3
+D. Didavi,Camacho,3
+L. Dimata,G. Itter,3
+D. Didavi,P. Verhaegh,3
+M. Tisserand,J. B\u0142aszczykowski,3
+J. B\u0142aszczykowski,K. Casteels,3
+D. Didavi,L. Dimata,3
+J. B\u0142aszczykowski,D. Didavi,2
+J. B\u0142aszczykowski,Camacho,2
+P. Verhaegh,M. Arnold,2
+D. Origi,L. Dimata,2
+L. Dimata,M. Arnold,2
+D. Didavi,G. Itter,2
+G. Itter,D. Origi,2
+L. Dimata,J. B\u0142aszczykowski,2
+D. Didavi,M. Tisserand,2
+J. B\u0142aszczykowski,M. Tisserand,2
+K. Casteels,G. Itter,2
+Camacho,K. Casteels,2
+M. Tisserand,D. Didavi,2
+F. Uduokhai,M. Tisserand,2
+F. Uduokhai,P. Verhaegh,2
+L. Dimata,D. Didavi,2
+P. Verhaegh,K. Casteels,2
+M. Arnold,P. Verhaegh,2
+D. Origi,D. Didavi,1
+K. Casteels,J. B\u0142aszczykowski,1
+M. Arnold,K. Casteels,1
+K. Casteels,L. Dimata,1
+K. Casteels,M. Arnold,1
+M. Tisserand,M. Arnold,1
+M. Arnold,D. Origi,1
+D. Origi,J. B\u0142aszczykowski,1
+D. Origi,F. Uduokhai,1
+L. Dimata,D. Origi,1
+K. Casteels,Camacho,1
+L. Dimata,P. Verhaegh,1
+M. Tisserand,L. Dimata,1
+D. Origi,Camacho,1
+G. Itter,Camacho,1
+L. Dimata,M. Tisserand,1
+D. Didavi,D. Origi,1
+Camacho,G. Itter,1
+G. Itter,M. Tisserand,1
+G. Itter,D. Didavi,1
+F. Uduokhai,J. B\u0142aszczykowski,1
+K. Casteels,D. Origi,1

@@ -1,0 +1,63 @@
+Source,Target,Weight
+J. Pavlenka,N. Moisander,4
+F. Kainz,Z. Junuzovi\u0107,4
+T. Gebre Selassie,A. J\u00f3hannsson,3
+A. J\u00f3hannsson,M. Eggestein,3
+M. Veljkovic,J. Pavlenka,2
+M. Kruse,P. Bargfrede,2
+P. Bargfrede,A. J\u00f3hannsson,2
+P. Bargfrede,T. Gebre Selassie,2
+L. Augustinsson,N. Moisander,2
+M. Kruse,T. Gebre Selassie,2
+F. Kainz,L. Augustinsson,2
+L. Augustinsson,F. Kainz,2
+N. Moisander,P. Bargfrede,2
+M. Veljkovic,F. Kainz,2
+T. Gebre Selassie,M. Veljkovic,2
+Z. Junuzovi\u0107,M. Kruse,2
+F. Kainz,M. Kruse,2
+P. Bargfrede,J. Pavlenka,2
+A. J\u00f3hannsson,Z. Junuzovi\u0107,2
+Z. Junuzovi\u0107,A. J\u00f3hannsson,1
+M. Veljkovic,P. Bargfrede,1
+J. Pavlenka,T. Gebre Selassie,1
+M. Eggestein,T. Gebre Selassie,1
+N. Moisander,F. Kainz,1
+M. Kruse,F. Kainz,1
+Z. Junuzovi\u0107,N. Moisander,1
+N. Moisander,Z. Junuzovi\u0107,1
+P. Bargfrede,F. Kainz,1
+Z. Junuzovi\u0107,L. Augustinsson,1
+A. J\u00f3hannsson,T. Gebre Selassie,1
+M. Kruse,Z. Junuzovi\u0107,1
+Z. Junuzovi\u0107,P. Bargfrede,1
+A. J\u00f3hannsson,M. Veljkovic,1
+M. Veljkovic,A. J\u00f3hannsson,1
+N. Moisander,T. Gebre Selassie,1
+P. Bargfrede,L. Augustinsson,1
+P. Bargfrede,M. Kruse,1
+T. Gebre Selassie,P. Bargfrede,1
+M. Kruse,M. Veljkovic,1
+F. Kainz,A. J\u00f3hannsson,1
+A. J\u00f3hannsson,J. Pavlenka,1
+M. Eggestein,P. Bargfrede,1
+M. Eggestein,F. Kainz,1
+J. Pavlenka,M. Veljkovic,1
+Z. Junuzovi\u0107,M. Eggestein,1
+T. Gebre Selassie,Z. Junuzovi\u0107,1
+Z. Junuzovi\u0107,F. Kainz,1
+L. Augustinsson,P. Bargfrede,1
+M. Kruse,L. Augustinsson,1
+N. Moisander,A. J\u00f3hannsson,1
+N. Moisander,J. Pavlenka,1
+M. Veljkovic,M. Kruse,1
+T. Gebre Selassie,M. Kruse,1
+M. Eggestein,A. J\u00f3hannsson,1
+P. Bargfrede,M. Veljkovic,1
+Z. Junuzovi\u0107,M. Veljkovic,1
+T. Gebre Selassie,M. Eggestein,1
+A. J\u00f3hannsson,P. Bargfrede,1
+L. Augustinsson,T. Gebre Selassie,1
+L. Augustinsson,M. Kruse,1
+N. Moisander,L. Augustinsson,1
+A. J\u00f3hannsson,L. Augustinsson,1

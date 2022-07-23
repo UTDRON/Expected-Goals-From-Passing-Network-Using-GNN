@@ -1,0 +1,16 @@
+Source,Target,Weight
+T. Tawatha,D. Abraham,3
+D. Abraham,T. Tawatha,3
+K. Boateng,M. Hasebe,2
+M. Russ,K. Boateng,1
+D. Abraham,M. Hasebe,1
+M. Wolf,S. Haller,1
+T. Chandler,K. Boateng,1
+M. Hasebe,M. Wolf,1
+M. Hasebe,M. Ga\u0107inovi\u0107,1
+M. Ga\u0107inovi\u0107,D. Abraham,1
+D. Abraham,M. Russ,1
+M. Hasebe,D. Abraham,1
+M. Russ,M. Wolf,1
+M. Wolf,M. Russ,1
+S. Haller,M. Wolf,1

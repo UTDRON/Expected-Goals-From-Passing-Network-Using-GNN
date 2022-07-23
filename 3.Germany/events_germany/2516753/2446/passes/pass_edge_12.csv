@@ -1,0 +1,39 @@
+Source,Target,Weight
+Wendell,B. Henrichs,3
+B. Henrichs,Wendell,3
+C. Ar\u00e1nguiz,J. Brandt,2
+D. Kohr,K. Volland,2
+J. Brandt,A. Mehmedi,2
+Wendell,J. Brandt,2
+S. Bender,B. Henrichs,1
+B. Henrichs,C. Ar\u00e1nguiz,1
+C. Ar\u00e1nguiz,D. Kohr,1
+C. Ar\u00e1nguiz,J. Tah,1
+K. Volland,C. Ar\u00e1nguiz,1
+C. Ar\u00e1nguiz,B. Henrichs,1
+B. Henrichs,S. Bender,1
+A. Mehmedi,J. Brandt,1
+A. Mehmedi,C. Ar\u00e1nguiz,1
+J. Brandt,C. Ar\u00e1nguiz,1
+J. Tah,Wendell,1
+J. Tah,D. Kohr,1
+B. Leno,C. Ar\u00e1nguiz,1
+S. Bender,J. Tah,1
+K. Bellarabi,A. Mehmedi,1
+A. Mehmedi,K. Bellarabi,1
+J. Tah,K. Bellarabi,1
+Wendell,C. Ar\u00e1nguiz,1
+A. Mehmedi,J. Tah,1
+C. Ar\u00e1nguiz,K. Volland,1
+K. Bellarabi,C. Ar\u00e1nguiz,1
+B. Leno,Wendell,1
+J. Brandt,B. Henrichs,1
+J. Brandt,Wendell,1
+C. Ar\u00e1nguiz,Wendell,1
+K. Volland,B. Leno,1
+D. Kohr,B. Leno,1
+B. Henrichs,A. Mehmedi,1
+Wendell,D. Kohr,1
+A. Mehmedi,K. Volland,1
+K. Volland,S. Bender,1
+K. Volland,K. Bellarabi,1

@@ -1,0 +1,57 @@
+Source,Target,Weight
+M. Sanson,L. Ocampos,6
+A. Zambo Anguissa,B. Kamara,4
+L. Ocampos,M. Sanson,4
+L. Ocampos,A. Zambo Anguissa,4
+A. Zambo Anguissa,J. Amavi,4
+B. Kamara,S. Mandanda,3
+L. Ocampos,J. Amavi,3
+V. Germain,H. Sakai,3
+J. Amavi,A. Zambo Anguissa,3
+J. Amavi,L. Ocampos,3
+J. Amavi,B. Kamara,3
+B. Kamara,M. Lopez,3
+M. Lopez,H. Sakai,2
+M. Lopez,B. Kamara,2
+H. Sakai,M. Lopez,2
+A. Zambo Anguissa,M. Sanson,2
+B. Kamara,G. Sertic,2
+M. Lopez,J. Amavi,2
+B. Kamara,L. Ocampos,2
+S. Mandanda,V. Germain,2
+F. Thauvin,M. Lopez,2
+V. Germain,M. Sanson,2
+G. Sertic,M. Lopez,2
+M. Lopez,A. Zambo Anguissa,2
+L. Ocampos,M. Lopez,2
+M. Lopez,V. Germain,2
+M. Lopez,M. Sanson,2
+J. Amavi,V. Germain,2
+J. Amavi,M. Lopez,1
+G. Sertic,S. Mandanda,1
+H. Sakai,G. Sertic,1
+H. Sakai,J. Amavi,1
+H. Sakai,V. Germain,1
+S. Mandanda,B. Kamara,1
+G. Sertic,A. Zambo Anguissa,1
+G. Sertic,V. Germain,1
+M. Sanson,A. Zambo Anguissa,1
+M. Sanson,M. Lopez,1
+V. Germain,G. Sertic,1
+L. Ocampos,H. Sakai,1
+V. Germain,L. Ocampos,1
+S. Mandanda,L. Ocampos,1
+J. Amavi,G. Sertic,1
+M. Sanson,F. Thauvin,1
+F. Thauvin,L. Ocampos,1
+F. Thauvin,B. Kamara,1
+S. Mandanda,J. Amavi,1
+L. Ocampos,S. Mandanda,1
+A. Zambo Anguissa,F. Thauvin,1
+A. Zambo Anguissa,L. Ocampos,1
+M. Sanson,J. Amavi,1
+G. Sertic,J. Amavi,1
+H. Sakai,F. Thauvin,1
+B. Kamara,A. Zambo Anguissa,1
+M. Lopez,F. Thauvin,1
+L. Ocampos,G. Sertic,1

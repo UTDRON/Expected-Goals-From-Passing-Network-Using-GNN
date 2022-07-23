@@ -1,0 +1,42 @@
+Source,Target,Weight
+M. Cuisance,M. Ginter,3
+T. Jantschke,M. Ginter,2
+Raffael,J. Drmic,2
+J. Drmic,M. Cuisance,2
+T. Hazard,Raffael,2
+T. Jantschke,M. Cuisance,2
+N. Elvedi,O. Wendt,1
+M. Cuisance,T. Hazard,1
+T. Hazard,O. Wendt,1
+Raffael,M. Cuisance,1
+Raffael,T. Hazard,1
+M. Ginter,N. Elvedi,1
+T. Jantschke,T. Hazard,1
+T. Strobl,M. Ginter,1
+T. Strobl,O. Wendt,1
+N. Elvedi,Raffael,1
+Y. Sommer,T. Jantschke,1
+M. Cuisance,J. Drmic,1
+M. Cuisance,T. Jantschke,1
+M. Ginter,T. Jantschke,1
+M. Ginter,Y. Sommer,1
+T. Jantschke,J. Drmic,1
+O. Wendt,J. Drmic,1
+M. Ginter,T. Strobl,1
+O. Wendt,Raffael,1
+M. Ginter,M. Cuisance,1
+Y. Sommer,J. Drmic,1
+M. Ginter,O. Wendt,1
+T. Hazard,T. Jantschke,1
+Raffael,T. Jantschke,1
+N. Elvedi,Y. Sommer,1
+J. Drmic,J. Hofmann,1
+J. Drmic,Raffael,1
+O. Wendt,N. Elvedi,1
+O. Wendt,M. Cuisance,1
+J. Hofmann,T. Jantschke,1
+T. Jantschke,T. Strobl,1
+J. Drmic,O. Wendt,1
+O. Wendt,T. Hazard,1
+M. Cuisance,N. Elvedi,1
+J. Drmic,T. Jantschke,1

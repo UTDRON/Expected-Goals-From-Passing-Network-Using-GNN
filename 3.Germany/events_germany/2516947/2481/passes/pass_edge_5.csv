@@ -1,0 +1,86 @@
+Source,Target,Weight
+K. Jakob,M. Hinteregger,7
+M. Hinteregger,K. Jakob,7
+M. Gregoritsch,P. Max,5
+M. Hinteregger,P. Max,5
+J. Mor\u00e1vek,Ja-Cheol Koo,5
+K. Danso,K. Jakob,4
+K. Danso,J. Mor\u00e1vek,4
+Caiuby,J. Mor\u00e1vek,4
+Ja-Cheol Koo,Caiuby,4
+J. Schmid,R. Framberger,4
+R. Framberger,M. Gregoritsch,3
+Caiuby,Ja-Cheol Koo,3
+Ja-Cheol Koo,R. Framberger,3
+Ja-Cheol Koo,M. Hinteregger,3
+J. Schmid,J. Mor\u00e1vek,3
+Caiuby,M. Hinteregger,3
+R. Framberger,M. Hinteregger,3
+P. Max,K. Jakob,3
+J. Mor\u00e1vek,K. Danso,3
+M. Gregoritsch,Ja-Cheol Koo,3
+Ja-Cheol Koo,P. Max,3
+K. Jakob,R. Khedira,3
+K. Jakob,K. Danso,3
+P. Max,Ja-Cheol Koo,3
+P. Max,J. Schmid,3
+J. Mor\u00e1vek,R. Khedira,3
+R. Framberger,K. Danso,3
+M. Hinteregger,Caiuby,3
+P. Max,Caiuby,2
+K. Danso,Ja-Cheol Koo,2
+R. Khedira,Ja-Cheol Koo,2
+Caiuby,M. Gregoritsch,2
+R. Framberger,K. Jakob,2
+R. Khedira,J. Mor\u00e1vek,2
+R. Framberger,R. Khedira,2
+P. Max,M. Gregoritsch,2
+P. Max,J. Mor\u00e1vek,2
+Ja-Cheol Koo,M. Gregoritsch,2
+P. Max,M. Hinteregger,2
+J. Mor\u00e1vek,J. Schmid,2
+R. Khedira,M. Hinteregger,2
+M. Gregoritsch,J. Schmid,2
+M. Gregoritsch,R. Framberger,2
+J. Mor\u00e1vek,Caiuby,2
+M. Hinteregger,M. Gregoritsch,2
+Ja-Cheol Koo,K. Danso,2
+K. Jakob,Caiuby,2
+M. Hinteregger,K. Danso,2
+Ja-Cheol Koo,J. Mor\u00e1vek,2
+J. Mor\u00e1vek,M. Gregoritsch,2
+M. Hinteregger,Ja-Cheol Koo,2
+Caiuby,P. Max,2
+R. Khedira,K. Jakob,2
+M. Gregoritsch,K. Jakob,1
+J. Mor\u00e1vek,M. Hinteregger,1
+K. Jakob,J. Schmid,1
+K. Jakob,M. Gregoritsch,1
+R. Khedira,P. Max,1
+J. Mor\u00e1vek,P. Max,1
+R. Framberger,Ja-Cheol Koo,1
+K. Jakob,R. Framberger,1
+J. Mor\u00e1vek,R. Framberger,1
+R. Khedira,K. Danso,1
+M. Hinteregger,J. Mor\u00e1vek,1
+J. Schmid,M. Hinteregger,1
+R. Khedira,R. Framberger,1
+K. Jakob,Ja-Cheol Koo,1
+K. Danso,M. Gregoritsch,1
+M. Hinteregger,J. Schmid,1
+K. Jakob,P. Max,1
+K. Danso,R. Khedira,1
+M. Gregoritsch,M. Hinteregger,1
+J. Schmid,M. Gregoritsch,1
+Ja-Cheol Koo,K. Jakob,1
+Ja-Cheol Koo,R. Khedira,1
+Caiuby,R. Framberger,1
+M. Gregoritsch,J. Mor\u00e1vek,1
+R. Framberger,J. Mor\u00e1vek,1
+P. Max,R. Khedira,1
+M. Gregoritsch,Caiuby,1
+K. Danso,Caiuby,1
+K. Danso,R. Framberger,1
+R. Khedira,J. Schmid,1
+Ja-Cheol Koo,J. Schmid,1
+J. Schmid,R. Khedira,1

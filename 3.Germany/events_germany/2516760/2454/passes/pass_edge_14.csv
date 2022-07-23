@@ -1,0 +1,52 @@
+Source,Target,Weight
+N. Elvedi,Y. Sommer,4
+Raffael,J. Hofmann,3
+L. Stindl,T. Hazard,3
+N. Elvedi,J. Vestergaard,3
+J. Hofmann,L. Stindl,3
+C. Kramer,L. Stindl,3
+C. Kramer,N. Elvedi,2
+M. Ginter,J. Hofmann,2
+J. Vestergaard,C. Kramer,2
+J. Vestergaard,Y. Sommer,2
+J. Vestergaard,J. Hofmann,2
+N. Elvedi,T. Hazard,2
+J. Villalba,L. Stindl,2
+T. Hazard,N. Elvedi,2
+Y. Sommer,T. Hazard,2
+Y. Sommer,J. Villalba,2
+L. Stindl,Raffael,2
+J. Hofmann,Raffael,2
+T. Hazard,M. Ginter,1
+M. Ginter,J. Vestergaard,1
+Y. Sommer,M. Ginter,1
+Y. Sommer,R. Bobadilla,1
+M. Ginter,L. Stindl,1
+J. Villalba,C. Kramer,1
+Raffael,J. Villalba,1
+Raffael,N. Elvedi,1
+L. Stindl,N. Elvedi,1
+R. Bobadilla,J. Vestergaard,1
+Raffael,R. Bobadilla,1
+T. Hazard,Raffael,1
+J. Vestergaard,L. Stindl,1
+R. Bobadilla,Raffael,1
+J. Villalba,N. Elvedi,1
+M. Ginter,Raffael,1
+Raffael,C. Kramer,1
+J. Villalba,M. Ginter,1
+R. Bobadilla,M. Ginter,1
+Y. Sommer,N. Elvedi,1
+L. Stindl,Y. Sommer,1
+C. Kramer,J. Vestergaard,1
+M. Ginter,C. Kramer,1
+T. Hazard,Y. Sommer,1
+Y. Sommer,J. Vestergaard,1
+J. Hofmann,J. Vestergaard,1
+T. Hazard,L. Stindl,1
+L. Stindl,R. Bobadilla,1
+J. Vestergaard,N. Elvedi,1
+J. Hofmann,M. Ginter,1
+L. Stindl,J. Villalba,1
+L. Stindl,C. Kramer,1
+T. Hazard,J. Villalba,1

@@ -1,0 +1,57 @@
+Source,Target,Weight
+J. de Guzm\u00e1n,M. Stendera,5
+J. de Guzm\u00e1n,M. Ga\u0107inovi\u0107,4
+K. Boateng,M. Stendera,4
+M. Ga\u0107inovi\u0107,J. de Guzm\u00e1n,4
+M. Stendera,J. de Guzm\u00e1n,3
+M. Stendera,S. Haller,3
+M. Ga\u0107inovi\u0107,T. Chandler,3
+T. Tawatha,K. Boateng,2
+K. Boateng,T. Tawatha,2
+S. Haller,M. Stendera,2
+M. Stendera,K. Boateng,2
+T. Chandler,L. Hradecky,2
+A. Rebi\u0107,D. Abraham,2
+J. de Guzm\u00e1n,S. Haller,2
+S. Falette,A. Rebi\u0107,2
+S. Falette,J. de Guzm\u00e1n,2
+J. de Guzm\u00e1n,S. Falette,2
+T. Chandler,M. Ga\u0107inovi\u0107,2
+S. Haller,K. Boateng,2
+M. Stendera,S. Falette,2
+M. Stendera,T. Chandler,2
+A. Rebi\u0107,M. Ga\u0107inovi\u0107,1
+S. Haller,S. Falette,1
+S. Falette,K. Boateng,1
+L. Hradecky,M. Ga\u0107inovi\u0107,1
+D. Abraham,S. Haller,1
+J. de Guzm\u00e1n,T. Tawatha,1
+S. Falette,M. Stendera,1
+L. Hradecky,J. de Guzm\u00e1n,1
+K. Boateng,A. Rebi\u0107,1
+K. Boateng,T. Chandler,1
+D. Abraham,S. Falette,1
+D. Abraham,T. Chandler,1
+K. Boateng,J. de Guzm\u00e1n,1
+M. Stendera,A. Rebi\u0107,1
+S. Falette,L. Hradecky,1
+S. Falette,S. Haller,1
+A. Rebi\u0107,T. Chandler,1
+T. Chandler,J. de Guzm\u00e1n,1
+T. Tawatha,J. de Guzm\u00e1n,1
+S. Falette,T. Tawatha,1
+T. Chandler,T. Tawatha,1
+M. Ga\u0107inovi\u0107,M. Stendera,1
+T. Chandler,S. Falette,1
+M. Stendera,D. Abraham,1
+T. Tawatha,S. Haller,1
+L. Hradecky,M. Stendera,1
+T. Tawatha,M. Stendera,1
+T. Tawatha,S. Falette,1
+S. Haller,T. Tawatha,1
+M. Ga\u0107inovi\u0107,D. Abraham,1
+D. Abraham,K. Boateng,1
+S. Haller,J. de Guzm\u00e1n,1
+T. Chandler,K. Boateng,1
+S. Haller,M. Ga\u0107inovi\u0107,1
+M. Stendera,T. Tawatha,1

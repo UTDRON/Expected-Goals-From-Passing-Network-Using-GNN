@@ -1,0 +1,18 @@
+Source,Target,Weight
+N. Elvedi,C. Kramer,3
+C. Kramer,M. Ginter,2
+M. Ginter,J. Vestergaard,1
+J. Drmic,N. Elvedi,1
+M. Ginter,C. Kramer,1
+Raffael,N. Elvedi,1
+J. Vestergaard,N. Elvedi,1
+L. Stindl,T. Hazard,1
+J. Vestergaard,Raffael,1
+T. Hazard,J. Vestergaard,1
+C. Kramer,J. Drmic,1
+C. Kramer,Y. Sommer,1
+Y. Sommer,J. Hofmann,1
+J. Drmic,J. Vestergaard,1
+Y. Sommer,J. Drmic,1
+J. Hofmann,J. Drmic,1
+J. Drmic,L. Stindl,1

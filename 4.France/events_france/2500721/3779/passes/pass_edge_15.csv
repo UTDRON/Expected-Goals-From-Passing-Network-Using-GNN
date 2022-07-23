@@ -1,0 +1,26 @@
+Source,Target,Weight
+J. Grimm,K. Lala,2
+Y. Salmier,P. Martinez,1
+K. Mangane,J. Grimm,1
+D. Li\u00e9nard,Y. Salmier,1
+J. Grimm,K. Mangane,1
+P. Martinez,Nuno Da Costa,1
+D. Li\u00e9nard,J. Grimm,1
+K. Lala,Y. Salmier,1
+I. Saadi,D. Li\u00e9nard,1
+Y. Salmier,M. Terrier,1
+P. Martinez,D. Li\u00e9nard,1
+Nuno Da Costa,K. Lala,1
+J. Grimm,P. Martinez,1
+M. Terrier,J. Grimm,1
+K. Mangane,Nuno Da Costa,1
+P. Martinez,Y. Salmier,1
+K. Lala,B. Kamara,1
+Nuno Da Costa,K. Mangane,1
+K. Lala,J. Grimm,1
+J. Grimm,D. Li\u00e9nard,1
+B. Kamara,D. Li\u00e9nard,1
+K. Mangane,D. Li\u00e9nard,1
+Y. Salmier,K. Mangane,1
+D. Li\u00e9nard,P. Martinez,1
+D. Li\u00e9nard,I. Saadi,1

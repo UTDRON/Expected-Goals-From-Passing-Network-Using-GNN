@@ -1,0 +1,15 @@
+Source,Target,Weight
+N. H\u00f6fler,M. Kempf,2
+M. Kempf,N. H\u00f6fler,2
+C. G\u00fcnter,J. Haberer,1
+R. Kent,N. Petersen,1
+N. H\u00f6fler,C. G\u00fcnter,1
+R. Kent,M. Terrazzino,1
+C. G\u00fcnter,N. H\u00f6fler,1
+N. Petersen,R. Kent,1
+J. Haberer,C. G\u00fcnter,1
+C. G\u00fcnter,M. Kempf,1
+M. Kempf,J. Haberer,1
+J. Haberer,J. Schuster,1
+J. Schuster,P. Stenzel,1
+P. Stenzel,R. Kent,1

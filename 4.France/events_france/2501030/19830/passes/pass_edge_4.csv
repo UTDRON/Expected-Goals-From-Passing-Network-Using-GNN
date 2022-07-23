@@ -1,0 +1,28 @@
+Source,Target,Weight
+T. Lemar,Fabinho,3
+Fabinho,Jo\u00e3o Moutinho,3
+Jo\u00e3o Moutinho,Boschilia,2
+T. Lemar,A. Tour\u00e9,2
+K. N'Doram,T. Lemar,2
+Fabinho,T. Lemar,2
+T. Lemar,K. N'Doram,2
+A. Raggi,T. Lemar,2
+K. Glik,K. N'Doram,2
+A. Tour\u00e9,Jo\u00e3o Moutinho,1
+Jo\u00e3o Moutinho,T. Lemar,1
+K. Glik,Fabinho,1
+K. Glik,R. Falcao,1
+Jo\u00e3o Moutinho,A. Raggi,1
+K. N'Doram,A. Raggi,1
+Fabinho,A. Raggi,1
+Jo\u00e3o Moutinho,K. Glik,1
+R. Falcao,Jo\u00e3o Moutinho,1
+Boschilia,Fabinho,1
+Jo\u00e3o Moutinho,Fabinho,1
+A. Tour\u00e9,T. Lemar,1
+T. Lemar,Boschilia,1
+Boschilia,A. Tour\u00e9,1
+Boschilia,Jo\u00e3o Moutinho,1
+A. Raggi,Jo\u00e3o Moutinho,1
+K. N'Doram,K. Glik,1
+A. Tour\u00e9,K. Glik,1

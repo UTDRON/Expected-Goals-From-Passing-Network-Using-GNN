@@ -1,0 +1,77 @@
+Source,Target,Weight
+F. Guilbert,I. Santini,5
+R. Rodelin,F. Guilbert,4
+R. Rodelin,Y. A\u00eft Bennasser,4
+F. Guilbert,R. Rodelin,4
+A. Mbengue,E. Imorou,4
+Y. A\u00eft Bennasser,F. Guilbert,4
+Y. A\u00eft Bennasser,E. Imorou,3
+E. Imorou,A. Djiku,3
+R. Rodelin,A. Mbengue,3
+J. F\u00e9ret,R. Rodelin,3
+I. Santini,A. Mbengue,3
+E. Imorou,J. F\u00e9ret,3
+R. Rodelin,I. Santini,3
+R. Rodelin,J. F\u00e9ret,3
+S. Peeters,J. Delaplace,2
+I. Santini,R. Rodelin,2
+C. Kouakou,Y. A\u00eft Bennasser,2
+Y. A\u00eft Bennasser,R. Rodelin,2
+I. Santini,Y. A\u00eft Bennasser,2
+R. Vercoutre,R. Rodelin,2
+R. Rodelin,D. Da Silva,2
+J. F\u00e9ret,F. Guilbert,2
+C. Kouakou,R. Rodelin,2
+J. F\u00e9ret,A. Mbengue,2
+D. Da Silva,Y. A\u00eft Bennasser,2
+E. Imorou,R. Rodelin,2
+Y. A\u00eft Bennasser,A. Djiku,2
+F. Guilbert,D. Da Silva,2
+I. Santini,C. Kouakou,2
+I. Santini,E. Imorou,2
+Y. A\u00eft Bennasser,D. Da Silva,2
+J. F\u00e9ret,A. Djiku,2
+A. Mbengue,R. Rodelin,2
+A. Djiku,A. Mbengue,2
+J. Delaplace,R. Rodelin,2
+D. Da Silva,C. Kouakou,2
+E. Imorou,A. Mbengue,2
+A. Djiku,I. Santini,2
+A. Djiku,J. F\u00e9ret,2
+F. Guilbert,Y. A\u00eft Bennasser,2
+D. Da Silva,S. Peeters,1
+A. Mbengue,D. Da Silva,1
+R. Rodelin,C. Kouakou,1
+A. Mbengue,F. Guilbert,1
+C. Kouakou,F. Guilbert,1
+I. Santini,J. F\u00e9ret,1
+D. Da Silva,R. Rodelin,1
+A. Mbengue,A. Djiku,1
+I. Santini,A. Djiku,1
+Y. A\u00eft Bennasser,I. Santini,1
+A. Mbengue,Y. A\u00eft Bennasser,1
+A. Djiku,D. Da Silva,1
+R. Rodelin,S. Peeters,1
+J. Delaplace,D. Da Silva,1
+J. F\u00e9ret,D. Da Silva,1
+A. Mbengue,J. F\u00e9ret,1
+A. Djiku,Y. A\u00eft Bennasser,1
+F. Guilbert,C. Kouakou,1
+D. Da Silva,J. F\u00e9ret,1
+I. Santini,J. Delaplace,1
+J. F\u00e9ret,R. Vercoutre,1
+J. F\u00e9ret,Y. A\u00eft Bennasser,1
+E. Imorou,I. Santini,1
+R. Rodelin,E. Imorou,1
+D. Da Silva,I. Santini,1
+A. Djiku,F. Guilbert,1
+C. Kouakou,R. Vercoutre,1
+D. Da Silva,F. Guilbert,1
+D. Da Silva,E. Imorou,1
+D. Avounou,A. Mbengue,1
+J. F\u00e9ret,I. Santini,1
+A. Mbengue,D. Avounou,1
+E. Imorou,Y. A\u00eft Bennasser,1
+Y. A\u00eft Bennasser,D. Avounou,1
+D. Avounou,E. Imorou,1
+Y. A\u00eft Bennasser,J. F\u00e9ret,1

@@ -1,0 +1,46 @@
+Source,Target,Weight
+N. Mukiele,Hilton,4
+Pedro Mendes,B. Lecomte,2
+S. Camara,R. Aguilar,2
+E. Skhiri,S. Camara,2
+J. Roussillon,S. Sess\u00e8gnon,2
+Hilton,Pedro Mendes,2
+Hilton,N. Mukiele,2
+B. Lecomte,J. Roussillon,2
+Pedro Mendes,N. Mukiele,2
+R. Aguilar,N. Mukiele,2
+N. Mukiele,R. Aguilar,2
+E. Skhiri,N. Mukiele,2
+S. Camara,E. Skhiri,2
+S. Sess\u00e8gnon,Pedro Mendes,2
+N. Mukiele,S. Sess\u00e8gnon,1
+R. Aguilar,Pedro Mendes,1
+E. Skhiri,P. Lasne,1
+N. Mukiele,I. Mbenza,1
+J. Roussillon,Pedro Mendes,1
+N. Mukiele,E. Skhiri,1
+S. Sess\u00e8gnon,N. Mukiele,1
+Pedro Mendes,S. Sess\u00e8gnon,1
+S. Sess\u00e8gnon,J. Roussillon,1
+Hilton,R. Aguilar,1
+I. Mbenza,Pedro Mendes,1
+Pedro Mendes,P. Lasne,1
+Pedro Mendes,E. Skhiri,1
+R. Aguilar,I. Mbenza,1
+B. Lecomte,Hilton,1
+S. Sess\u00e8gnon,E. Skhiri,1
+Pedro Mendes,S. Camara,1
+N. Mukiele,B. Lecomte,1
+I. Mbenza,S. Camara,1
+J. Roussillon,S. Camara,1
+I. Mbenza,E. Skhiri,1
+S. Camara,J. Roussillon,1
+R. Aguilar,E. Skhiri,1
+E. Skhiri,Hilton,1
+S. Sess\u00e8gnon,I. Mbenza,1
+E. Skhiri,R. Aguilar,1
+P. Lasne,S. Sess\u00e8gnon,1
+J. Roussillon,N. Mukiele,1
+P. Lasne,Pedro Mendes,1
+R. Aguilar,S. Sess\u00e8gnon,1
+Hilton,S. Camara,1

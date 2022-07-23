@@ -1,0 +1,20 @@
+Source,Target,Weight
+R. Hamouma,B. Dabo,2
+B. Dabo,R. Hamouma,2
+S. Ruffier,B. Dabo,2
+L. Perrin,S. Ruffier,2
+S. Ruffier,L. Perrin,1
+S. Ruffier,H. Ma\u00efga,1
+K. Th\u00e9ophile Catherine,S. Ruffier,1
+H. Ma\u00efga,Gabriel Silva,1
+L. Perrin,K. Th\u00e9ophile Catherine,1
+B. Dabo,Gabriel Silva,1
+Gabriel Silva,L. Perrin,1
+Gabriel Silva,S. Ruffier,1
+H. Ma\u00efga,O. Seln\u00e6s,1
+O. Seln\u00e6s,J. Bamba,1
+B. Dabo,J. Bamba,1
+R. Hamouma,L. Perrin,1
+J. Bamba,O. Seln\u00e6s,1
+J. Bamba,L. Diony,1
+O. Seln\u00e6s,H. Ma\u00efga,1

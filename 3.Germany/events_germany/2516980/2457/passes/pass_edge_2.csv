@@ -1,0 +1,26 @@
+Source,Target,Weight
+V. Darida,M. Mittelst\u00e4dt,3
+N. Stark,K. Rekik,3
+N. Stark,M. Weiser,2
+K. Rekik,M. Plattenhardt,2
+M. Plattenhardt,N. Stark,2
+M. Mittelst\u00e4dt,N. Stark,2
+N. Stark,F. Lustenberger,1
+F. Lustenberger,N. Stark,1
+R. Jarstein,N. Stark,1
+M. Plattenhardt,V. Darida,1
+V. Darida,V. Ibi\u0161evi\u0107,1
+K. Rekik,M. Mittelst\u00e4dt,1
+M. Weiser,N. Stark,1
+M. Weiser,A. Maier,1
+M. Mittelst\u00e4dt,K. Rekik,1
+K. Rekik,M. Weiser,1
+F. Lustenberger,V. Darida,1
+A. Maier,V. Lazaro,1
+M. Weiser,V. Darida,1
+N. Stark,M. Plattenhardt,1
+M. Plattenhardt,K. Rekik,1
+V. Lazaro,A. Maier,1
+M. Mittelst\u00e4dt,F. Lustenberger,1
+K. Rekik,R. Jarstein,1
+A. Maier,V. Darida,1

@@ -1,0 +1,17 @@
+Source,Target,Weight
+R. Ghezzal,A. Tour\u00e9,6
+A. Tour\u00e9,Jo\u00e3o Moutinho,4
+A. Tour\u00e9,Rony Lopes,2
+Fabinho,A. Tour\u00e9,2
+Jo\u00e3o Moutinho,Fabinho,2
+Jo\u00e3o Moutinho,R. Ghezzal,2
+A. Tour\u00e9,R. Ghezzal,2
+A. Tour\u00e9,Jemerson,1
+R. Ghezzal,A. Raggi,1
+Jemerson,Jorge,1
+A. Raggi,Jemerson,1
+Rony Lopes,R. Ghezzal,1
+Jemerson,R. Ghezzal,1
+T. Lemar,Jo\u00e3o Moutinho,1
+Jo\u00e3o Moutinho,A. Tour\u00e9,1
+Jorge,T. Lemar,1

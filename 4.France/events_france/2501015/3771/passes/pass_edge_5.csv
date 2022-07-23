@@ -1,0 +1,53 @@
+Source,Target,Weight
+A. Rami,Luiz Gustavo,5
+A. Zambo Anguissa,D. Payet,3
+Luiz Gustavo,J. Amavi,3
+M. Sanson,A. Rami,3
+H. Sakai,A. Rami,3
+D. Payet,A. Zambo Anguissa,2
+Luiz Gustavo,F. Thauvin,2
+Luiz Gustavo,M. Sanson,2
+A. Zambo Anguissa,H. Sakai,2
+D. Payet,F. Thauvin,2
+J. Amavi,M. Sanson,2
+M. Sanson,J. Amavi,2
+J. Amavi,A. Zambo Anguissa,2
+A. Rami,A. Zambo Anguissa,2
+A. Rami,H. Sakai,2
+F. Thauvin,H. Sakai,2
+A. Zambo Anguissa,M. Sanson,2
+J. Amavi,A. Rami,1
+H. Sakai,V. Germain,1
+C. N'Jie,D. Payet,1
+V. Germain,J. Amavi,1
+Luiz Gustavo,C. N'Jie,1
+V. Germain,H. Sakai,1
+M. Sanson,C. N'Jie,1
+A. Zambo Anguissa,Luiz Gustavo,1
+Luiz Gustavo,D. Payet,1
+F. Thauvin,A. Rami,1
+Y. Pel\u00e9,J. Amavi,1
+J. Amavi,Luiz Gustavo,1
+A. Zambo Anguissa,J. Amavi,1
+H. Sakai,M. Sanson,1
+Y. Pel\u00e9,M. Sanson,1
+H. Sakai,Luiz Gustavo,1
+H. Sakai,A. Zambo Anguissa,1
+A. Rami,V. Germain,1
+M. Sanson,F. Thauvin,1
+V. Germain,A. Rami,1
+D. Payet,A. Rami,1
+F. Thauvin,D. Payet,1
+J. Amavi,Y. Pel\u00e9,1
+D. Payet,C. N'Jie,1
+D. Payet,H. Sakai,1
+A. Rami,D. Payet,1
+C. N'Jie,Luiz Gustavo,1
+H. Sakai,Y. Pel\u00e9,1
+Luiz Gustavo,A. Rami,1
+M. Sanson,Luiz Gustavo,1
+J. Amavi,H. Sakai,1
+M. Sanson,A. Zambo Anguissa,1
+H. Sakai,D. Payet,1
+F. Thauvin,V. Germain,1
+D. Payet,M. Sanson,1

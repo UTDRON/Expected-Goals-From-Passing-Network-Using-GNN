@@ -1,0 +1,53 @@
+Source,Target,Weight
+D. Brosinski,F. Frei,4
+R. Quaison,F. Frei,4
+K. Kodro,F. Frei,3
+F. Frei,R. Quaison,3
+S. Bell,R. Quaison,3
+A. Diallo,D. Brosinski,3
+D. Latza,D. Brosinski,2
+A. Diallo,S. Bell,2
+F. Frei,D. Latza,2
+D. Brosinski,D. Latza,2
+S. Bell,D. Latza,2
+L. \u00d6ztunali,R. Quaison,2
+D. Brosinski,P. De Blasis,2
+F. Frei,D. Brosinski,2
+F. Frei,S. Bell,2
+D. Latza,P. De Blasis,2
+D. Brosinski,R. Quaison,2
+P. De Blasis,D. Brosinski,2
+S. Bell,A. Diallo,2
+P. De Blasis,K. Kodro,2
+D. Latza,K. Kodro,2
+P. De Blasis,A. Diallo,1
+K. Kodro,S. Bell,1
+D. Brosinski,A. Diallo,1
+L. \u00d6ztunali,Y. Muto,1
+F. Frei,K. Kodro,1
+R. Quaison,D. Brosinski,1
+R. Quaison,S. Bell,1
+A. Diallo,R. Adler,1
+R. Quaison,D. Latza,1
+R. Adler,S. Bell,1
+D. Latza,L. \u00d6ztunali,1
+D. Brosinski,R. Adler,1
+F. Frei,L. \u00d6ztunali,1
+D. Brosinski,S. Bell,1
+F. Frei,A. Diallo,1
+Y. Muto,D. Brosinski,1
+K. Kodro,P. De Blasis,1
+A. Diallo,D. Latza,1
+Y. Muto,F. Frei,1
+D. Latza,F. Frei,1
+R. Quaison,Y. Muto,1
+P. De Blasis,S. Bell,1
+R. Adler,D. Brosinski,1
+F. Frei,P. De Blasis,1
+R. Quaison,L. \u00d6ztunali,1
+S. Bell,F. Frei,1
+R. Quaison,A. Diallo,1
+K. Kodro,D. Brosinski,1
+R. Adler,R. Quaison,1
+F. Frei,R. Adler,1
+S. Bell,K. Kodro,1

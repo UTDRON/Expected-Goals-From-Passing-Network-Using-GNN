@@ -1,0 +1,49 @@
+Source,Target,Weight
+M. Tisserand,K. Casteels,4
+Camacho,M. Arnold,3
+K. Casteels,P. Verhaegh,2
+F. Uduokhai,Camacho,2
+M. Tisserand,M. Arnold,2
+P. Verhaegh,L. Dimata,2
+P. Verhaegh,D. Didavi,2
+M. Arnold,P. Verhaegh,2
+K. Casteels,F. Uduokhai,2
+M. Arnold,M. Tisserand,2
+Y. Gerhardt,M. Tisserand,2
+K. Casteels,Camacho,1
+Camacho,M. Tisserand,1
+Camacho,D. Origi,1
+L. Dimata,D. Didavi,1
+M. Arnold,D. Didavi,1
+D. Didavi,M. Tisserand,1
+F. Uduokhai,L. Dimata,1
+M. Arnold,Camacho,1
+P. Verhaegh,F. Uduokhai,1
+D. Didavi,D. Origi,1
+L. Dimata,M. Arnold,1
+L. Dimata,Y. Mall\u0131,1
+D. Didavi,Camacho,1
+F. Uduokhai,P. Verhaegh,1
+D. Origi,P. Verhaegh,1
+D. Origi,F. Uduokhai,1
+D. Didavi,Y. Gerhardt,1
+D. Didavi,L. Dimata,1
+F. Uduokhai,M. Tisserand,1
+M. Arnold,F. Uduokhai,1
+Y. Mall\u0131,F. Uduokhai,1
+Camacho,K. Casteels,1
+L. Dimata,F. Uduokhai,1
+Y. Gerhardt,Camacho,1
+Camacho,Y. Mall\u0131,1
+Y. Mall\u0131,D. Didavi,1
+M. Tisserand,Y. Gerhardt,1
+M. Tisserand,P. Verhaegh,1
+Y. Mall\u0131,Camacho,1
+P. Verhaegh,M. Tisserand,1
+F. Uduokhai,K. Casteels,1
+D. Didavi,M. Arnold,1
+F. Uduokhai,Y. Gerhardt,1
+Y. Gerhardt,Y. Mall\u0131,1
+P. Verhaegh,Camacho,1
+K. Casteels,D. Origi,1
+Camacho,D. Didavi,1

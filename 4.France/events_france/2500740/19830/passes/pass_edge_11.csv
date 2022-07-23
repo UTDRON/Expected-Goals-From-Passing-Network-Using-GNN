@@ -1,0 +1,51 @@
+Source,Target,Weight
+Fabinho,R. Ghezzal,4
+Jorge,Fabinho,4
+Fabinho,Jemerson,3
+Rony Lopes,Fabinho,3
+Jorge,Rony Lopes,3
+Rony Lopes,Jorge,3
+Fabinho,Jorge,3
+Jemerson,Jorge,3
+D. Sidib\u00e9,Jorge,2
+Fabinho,D. Benaglio,2
+D. Benaglio,K. Glik,2
+Jorge,K. Glik,2
+Rony Lopes,B. Keita,2
+R. Falcao,Rony Lopes,2
+K. Glik,D. Sidib\u00e9,2
+B. Keita,D. Sidib\u00e9,2
+Y. Tielemans,K. Glik,2
+R. Ghezzal,R. Falcao,1
+R. Ghezzal,K. Glik,1
+Jemerson,R. Falcao,1
+B. Keita,Rony Lopes,1
+K. Glik,Jemerson,1
+D. Sidib\u00e9,Fabinho,1
+K. Glik,Fabinho,1
+Rony Lopes,Jemerson,1
+Y. Tielemans,Jemerson,1
+D. Benaglio,Fabinho,1
+Jorge,Y. Tielemans,1
+R. Ghezzal,Y. Tielemans,1
+B. Keita,R. Ghezzal,1
+K. Glik,Y. Tielemans,1
+Fabinho,Rony Lopes,1
+Y. Tielemans,Rony Lopes,1
+K. Glik,Rony Lopes,1
+D. Sidib\u00e9,R. Ghezzal,1
+Fabinho,B. Keita,1
+B. Keita,Y. Tielemans,1
+R. Ghezzal,Fabinho,1
+Jemerson,Y. Tielemans,1
+Jemerson,Fabinho,1
+K. Glik,B. Keita,1
+Jorge,R. Falcao,1
+D. Sidib\u00e9,R. Falcao,1
+R. Ghezzal,D. Sidib\u00e9,1
+Jemerson,D. Benaglio,1
+R. Falcao,Jorge,1
+Y. Tielemans,Fabinho,1
+S. Joveti\u0107,Fabinho,1
+Jorge,S. Joveti\u0107,1
+R. Ghezzal,B. Keita,1

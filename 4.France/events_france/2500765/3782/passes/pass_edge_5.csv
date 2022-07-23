@@ -1,0 +1,55 @@
+Source,Target,Weight
+V. Pajot,R. Cabella,5
+V. Pajot,S. Ruffier,3
+S. Janko,L. Perrin,3
+R. Pierre-Gabriel,A. Diouss\u00e9,3
+Hernani,S. Janko,3
+A. Diouss\u00e9,Hernani,3
+L. Perrin,V. Pajot,3
+R. Cabella,V. Pajot,3
+L. Perrin,Hernani,2
+K. Th\u00e9ophile Catherine,A. Diouss\u00e9,2
+V. Pajot,K. Monnet-Paquet,2
+Hernani,V. Pajot,2
+K. Monnet-Paquet,Hernani,2
+K. Monnet-Paquet,R. Pierre-Gabriel,2
+A. Diouss\u00e9,L. Perrin,2
+A. Diouss\u00e9,R. Pierre-Gabriel,2
+K. Monnet-Paquet,R. Cabella,2
+R. Cabella,A. Diouss\u00e9,2
+R. Cabella,S. Janko,2
+V. Pajot,Hernani,2
+R. Cabella,R. Pierre-Gabriel,2
+R. Pierre-Gabriel,K. Monnet-Paquet,2
+S. Janko,V. Pajot,2
+S. Janko,A. Diouss\u00e9,1
+L. Perrin,K. Th\u00e9ophile Catherine,1
+K. Th\u00e9ophile Catherine,L. Perrin,1
+R. Cabella,K. Monnet-Paquet,1
+A. Diouss\u00e9,V. Pajot,1
+Hernani,L. Perrin,1
+Hernani,K. Monnet-Paquet,1
+R. Cabella,K. Th\u00e9ophile Catherine,1
+K. Th\u00e9ophile Catherine,K. Monnet-Paquet,1
+A. Diouss\u00e9,K. Monnet-Paquet,1
+K. Monnet-Paquet,V. Pajot,1
+S. Ruffier,L. Perrin,1
+V. Pajot,L. Perrin,1
+S. Janko,K. Th\u00e9ophile Catherine,1
+Hernani,A. Diouss\u00e9,1
+J. Bamba,R. Cabella,1
+R. Pierre-Gabriel,R. Cabella,1
+S. Janko,Hernani,1
+A. Diouss\u00e9,R. Cabella,1
+V. Pajot,A. Diouss\u00e9,1
+S. Ruffier,S. Janko,1
+A. Diouss\u00e9,S. Janko,1
+K. Th\u00e9ophile Catherine,R. Pierre-Gabriel,1
+S. Ruffier,K. Th\u00e9ophile Catherine,1
+L. Perrin,A. Diouss\u00e9,1
+Hernani,J. Bamba,1
+R. Pierre-Gabriel,V. Pajot,1
+K. Monnet-Paquet,K. Th\u00e9ophile Catherine,1
+L. Perrin,K. Monnet-Paquet,1
+K. Monnet-Paquet,S. Janko,1
+L. Perrin,R. Cabella,1

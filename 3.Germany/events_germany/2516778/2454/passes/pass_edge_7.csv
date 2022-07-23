@@ -1,0 +1,42 @@
+Source,Target,Weight
+M. Cuisance,T. Hazard,3
+N. Elvedi,P. Herrmann,3
+L. Stindl,M. Cuisance,3
+P. Herrmann,N. Elvedi,3
+N. Elvedi,M. Cuisance,3
+D. Zakaria,L. Stindl,3
+N. Elvedi,L. Stindl,2
+L. Stindl,N. Elvedi,2
+L. Stindl,Raffael,2
+J. Vestergaard,O. Wendt,2
+L. Stindl,D. Zakaria,2
+J. Vestergaard,M. Ginter,1
+Raffael,L. Stindl,1
+Raffael,M. Cuisance,1
+M. Cuisance,N. Elvedi,1
+O. Wendt,L. Stindl,1
+T. Hazard,O. Wendt,1
+M. Ginter,N. Elvedi,1
+P. Herrmann,Raffael,1
+T. Sippel,T. Hazard,1
+M. Ginter,J. Vestergaard,1
+T. Sippel,N. Elvedi,1
+M. Cuisance,M. Ginter,1
+O. Wendt,M. Cuisance,1
+T. Hazard,D. Zakaria,1
+M. Cuisance,J. Vestergaard,1
+D. Zakaria,O. Wendt,1
+D. Zakaria,P. Herrmann,1
+M. Cuisance,D. Zakaria,1
+O. Wendt,J. Vestergaard,1
+T. Hazard,J. Vestergaard,1
+O. Wendt,D. Zakaria,1
+P. Herrmann,J. Vestergaard,1
+D. Zakaria,N. Elvedi,1
+J. Vestergaard,D. Zakaria,1
+J. Vestergaard,P. Herrmann,1
+N. Elvedi,M. Ginter,1
+M. Ginter,L. Stindl,1
+Raffael,T. Sippel,1
+O. Wendt,T. Sippel,1
+T. Hazard,L. Stindl,1

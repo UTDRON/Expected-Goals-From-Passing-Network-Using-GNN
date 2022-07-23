@@ -1,0 +1,23 @@
+Source,Target,Weight
+P. Gul\u00e1csi,D. Upamecano,2
+D. Demme,W. Orban,2
+D. Upamecano,M. Halstenberg,1
+D. Upamecano,D. Demme,1
+J. Augustin,P. Gul\u00e1csi,1
+Bruma,M. Sabitzer,1
+W. Orban,J. Augustin,1
+M. Halstenberg,P. Gul\u00e1csi,1
+D. Demme,T. Werner,1
+M. Halstenberg,D. Demme,1
+M. Sabitzer,D. Demme,1
+T. Werner,Bruma,1
+P. Gul\u00e1csi,W. Orban,1
+W. Orban,P. Gul\u00e1csi,1
+D. Demme,N. Ke\u00efta,1
+W. Orban,L. Klostermann,1
+J. Augustin,M. Halstenberg,1
+Bruma,N. Ke\u00efta,1
+D. Upamecano,J. Augustin,1
+L. Klostermann,W. Orban,1
+N. Ke\u00efta,Bruma,1
+W. Orban,D. Demme,1

@@ -1,0 +1,69 @@
+Source,Target,Weight
+J. Gbamin,D. Latza,4
+D. Latza,G. Holtmann,4
+G. Holtmann,J. Gbamin,3
+P. De Blasis,L. Balogun,3
+G. Holtmann,D. Latza,3
+L. Balogun,G. Donati,3
+D. Latza,G. Donati,2
+G. Holtmann,A. Diallo,2
+G. Donati,D. Latza,2
+R. Zentner,A. Diallo,2
+L. Balogun,J. Gbamin,2
+R. Quaison,S. Bell,2
+G. Donati,P. De Blasis,2
+R. Quaison,L. Balogun,2
+L. Balogun,S. Serdar,2
+A. Diallo,G. Holtmann,2
+S. Bell,A. Ujah,1
+G. Donati,S. Bell,1
+A. Diallo,R. Quaison,1
+S. Bell,R. Zentner,1
+R. Quaison,Y. Muto,1
+A. Ujah,G. Donati,1
+A. Diallo,Y. Muto,1
+L. Balogun,S. Bell,1
+S. Bell,A. Diallo,1
+S. Serdar,R. Quaison,1
+R. Zentner,S. Bell,1
+S. Bell,G. Donati,1
+Y. Muto,A. Diallo,1
+Y. Muto,R. Zentner,1
+D. Latza,Y. Muto,1
+S. Serdar,G. Donati,1
+S. Serdar,R. Zentner,1
+S. Bell,J. Gbamin,1
+J. Gbamin,P. De Blasis,1
+G. Donati,G. Holtmann,1
+P. De Blasis,Y. Muto,1
+P. De Blasis,G. Donati,1
+G. Donati,A. Diallo,1
+Y. Muto,G. Holtmann,1
+A. Diallo,D. Latza,1
+S. Bell,L. Balogun,1
+G. Holtmann,R. Quaison,1
+A. Diallo,R. Zentner,1
+R. Zentner,P. De Blasis,1
+P. De Blasis,R. Quaison,1
+L. Balogun,D. Latza,1
+J. Gbamin,S. Bell,1
+A. Diallo,P. De Blasis,1
+R. Quaison,G. Donati,1
+R. Zentner,L. Balogun,1
+D. Latza,A. Diallo,1
+G. Donati,R. Zentner,1
+Y. Muto,D. Latza,1
+Y. Muto,L. Balogun,1
+G. Donati,R. Quaison,1
+A. Ujah,Y. Muto,1
+S. Bell,P. De Blasis,1
+S. Serdar,S. Bell,1
+A. Diallo,S. Serdar,1
+J. Gbamin,A. Ujah,1
+S. Bell,Y. Muto,1
+D. Latza,S. Bell,1
+Y. Muto,J. Gbamin,1
+J. Gbamin,G. Holtmann,1
+D. Latza,L. Balogun,1
+G. Donati,J. Gbamin,1
+D. Latza,R. Quaison,1

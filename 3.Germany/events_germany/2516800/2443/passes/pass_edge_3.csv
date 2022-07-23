@@ -1,0 +1,16 @@
+Source,Target,Weight
+F. Kainz,I. Belfodil,3
+I. Belfodil,F. Kainz,2
+F. Kainz,T. Delaney,1
+R. Bauer,I. Belfodil,1
+F. Bartels,U. Garcia,1
+P. Bargfrede,U. Garcia,1
+I. Belfodil,P. Bargfrede,1
+R. Bauer,F. Kainz,1
+U. Garcia,P. Bargfrede,1
+P. Bargfrede,R. Bauer,1
+T. Delaney,R. Bauer,1
+I. Belfodil,F. Bartels,1
+R. Bauer,M. Veljkovic,1
+M. Veljkovic,R. Bauer,1
+U. Garcia,F. Kainz,1

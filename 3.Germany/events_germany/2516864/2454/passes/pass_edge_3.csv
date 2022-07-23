@@ -1,0 +1,17 @@
+Source,Target,Weight
+V. Grifo,O. Wendt,2
+O. Wendt,V. Grifo,2
+Y. Sommer,N. Elvedi,2
+N. Elvedi,Y. Sommer,1
+V. Grifo,M. Ginter,1
+L. Stindl,J. Vestergaard,1
+D. Zakaria,M. Ginter,1
+M. Ginter,D. Zakaria,1
+J. Vestergaard,O. Wendt,1
+O. Wendt,Y. Sommer,1
+N. Elvedi,T. Hazard,1
+O. Wendt,T. Hazard,1
+V. Grifo,L. Stindl,1
+T. Hazard,Raffael,1
+Raffael,V. Grifo,1
+M. Ginter,O. Wendt,1

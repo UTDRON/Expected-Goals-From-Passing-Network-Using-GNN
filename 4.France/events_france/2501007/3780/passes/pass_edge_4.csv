@@ -1,0 +1,48 @@
+Source,Target,Weight
+F. Moubandje,M. Gradel,5
+A. Lafont,C. Jullien,3
+I. Diop,A. Lafont,3
+G. Imbula,C. Jullien,3
+M. Gradel,F. Moubandje,3
+A. Delort,Som\u00e1lia,2
+A. Delort,M. Gradel,2
+Som\u00e1lia,I. Diop,2
+F. Moubandje,Y. Cahuzac,2
+M. Gradel,I. Diop,2
+M. Gradel,A. Delort,2
+Y. Cahuzac,G. Imbula,2
+I. Sangar\u00e9,G. Imbula,2
+I. Sangar\u00e9,Som\u00e1lia,2
+Som\u00e1lia,Y. Cahuzac,2
+C. Jullien,M. Gradel,2
+Y. Cahuzac,K. Amian,2
+A. Lafont,A. Delort,2
+M. Gradel,I. Sangar\u00e9,2
+K. Amian,Som\u00e1lia,2
+Y. Cahuzac,A. Delort,1
+G. Imbula,M. Gradel,1
+C. Jullien,F. Moubandje,1
+A. Lafont,I. Diop,1
+C. Jullien,Y. Cahuzac,1
+A. Delort,F. Moubandje,1
+C. Jullien,A. Lafont,1
+Som\u00e1lia,C. Jullien,1
+Y. Cahuzac,A. Lafont,1
+Som\u00e1lia,I. Sangar\u00e9,1
+I. Sangar\u00e9,F. Moubandje,1
+Y. Cahuzac,I. Sangar\u00e9,1
+K. Amian,C. Jullien,1
+C. Jullien,G. Imbula,1
+Som\u00e1lia,A. Lafont,1
+A. Delort,I. Sangar\u00e9,1
+I. Diop,I. Sangar\u00e9,1
+K. Amian,A. Delort,1
+I. Diop,K. Amian,1
+M. Gradel,Y. Cahuzac,1
+K. Amian,G. Imbula,1
+C. Jullien,Som\u00e1lia,1
+Y. Cahuzac,F. Moubandje,1
+G. Imbula,K. Amian,1
+G. Imbula,Y. Cahuzac,1
+C. Jullien,K. Amian,1
+I. Sangar\u00e9,M. Gradel,1

@@ -1,0 +1,36 @@
+Source,Target,Weight
+P. Burner,Dante,3
+Dante,N. Mendy,3
+M. Sarr,J. Seri,3
+R. Coly,J. Makengo,3
+N. Mendy,M. Sarr,3
+M. Sarr,Dante,2
+M. Sarr,R. Coly,2
+N. Mendy,P. Burner,2
+J. Seri,A. Tameze,2
+J. Makengo,M. Sarr,2
+P. Burner,N. Mendy,2
+A. Tameze,J. Seri,1
+Dante,J. Seri,1
+A. Tameze,Dante,1
+B. Srarfi,N. Mendy,1
+J. Seri,A. Pl\u00e9a,1
+A. Tameze,P. Burner,1
+J. Seri,R. Coly,1
+J. Seri,Dante,1
+A. Pl\u00e9a,R. Coly,1
+P. Burner,B. Srarfi,1
+Dante,M. Sarr,1
+J. Seri,B. Srarfi,1
+N. Mendy,J. Seri,1
+N. Mendy,A. Tameze,1
+B. Srarfi,P. Burner,1
+Dante,R. Coly,1
+P. Burner,J. Makengo,1
+J. Seri,N. Mendy,1
+J. Makengo,J. Seri,1
+M. Sarr,P. Burner,1
+J. Seri,M. Sarr,1
+R. Coly,M. Sarr,1
+R. Coly,J. Seri,1
+Dante,P. Burner,1

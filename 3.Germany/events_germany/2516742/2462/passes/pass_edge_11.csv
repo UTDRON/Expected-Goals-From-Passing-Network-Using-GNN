@@ -1,0 +1,33 @@
+Source,Target,Weight
+L. Hradecky,S. Falette,3
+D. Abraham,L. Hradecky,3
+S. Haller,D. Abraham,2
+D. Abraham,T. Chandler,2
+M. Hasebe,S. Falette,2
+T. Chandler,J. de Guzm\u00e1n,2
+T. Chandler,D. Abraham,2
+S. Falette,S. Haller,2
+D. Kamada,G. Fernandes,1
+T. Chandler,M. Hasebe,1
+D. Kamada,S. Haller,1
+G. Fernandes,M. Hasebe,1
+J. de Guzm\u00e1n,G. Fernandes,1
+D. Abraham,S. Falette,1
+L. Hradecky,D. Abraham,1
+G. Fernandes,D. Abraham,1
+M. Ga\u0107inovi\u0107,T. Chandler,1
+S. Haller,M. Ga\u0107inovi\u0107,1
+S. Falette,J. Willems,1
+J. Willems,M. Hasebe,1
+L. Hradecky,D. Kamada,1
+S. Falette,T. Chandler,1
+M. Ga\u0107inovi\u0107,M. Hasebe,1
+M. Hasebe,D. Abraham,1
+S. Falette,G. Fernandes,1
+S. Falette,L. Hradecky,1
+D. Abraham,J. de Guzm\u00e1n,1
+M. Hasebe,L. Hradecky,1
+G. Fernandes,M. Ga\u0107inovi\u0107,1
+J. de Guzm\u00e1n,D. Kamada,1
+J. de Guzm\u00e1n,T. Chandler,1
+D. Kamada,T. Chandler,1

@@ -1,0 +1,20 @@
+Source,Target,Weight
+K. Demirbay,D. Geiger,1
+A. Kramari\u0107,N. Amiri,1
+D. Geiger,L. Rupp,1
+P. Ochs,D. Geiger,1
+K. Akpoguma,P. Ochs,1
+N. Amiri,A. Kramari\u0107,1
+D. Geiger,P. Ochs,1
+L. Rupp,K. Akpoguma,1
+K. Akpoguma,L. Rupp,1
+K. Akpoguma,K. Demirbay,1
+L. Rupp,O. Baumann,1
+O. Baumann,K. Vogt,1
+K. Vogt,K. Akpoguma,1
+N. Amiri,K. Demirbay,1
+K. Demirbay,K. Vogt,1
+K. Vogt,N. Schulz,1
+P. Ochs,K. Akpoguma,1
+K. Demirbay,N. Amiri,1
+N. Schulz,N. Amiri,1

@@ -1,0 +1,25 @@
+Source,Target,Weight
+S. Camara,K. Dolly,3
+Pedro Mendes,D. Congr\u00e9,2
+D. Congr\u00e9,B. Lecomte,1
+K. Dolly,B. Lecomte,1
+Pedro Mendes,K. Dolly,1
+K. Dolly,Pedro Mendes,1
+N. Cozza,Pedro Mendes,1
+K. Dolly,P. Lasne,1
+B. Lecomte,Pedro Mendes,1
+P. Lasne,N. Cozza,1
+D. Congr\u00e9,P. Lasne,1
+B. Lecomte,I. Mbenza,1
+C. Ninga,P. Lasne,1
+K. Dolly,N. Cozza,1
+I. Mbenza,C. Ninga,1
+P. Lasne,S. Camara,1
+N. Cozza,S. Camara,1
+N. Cozza,K. Dolly,1
+D. Congr\u00e9,Pedro Mendes,1
+D. Congr\u00e9,N. Cozza,1
+K. Dolly,C. Ninga,1
+P. Lasne,D. Congr\u00e9,1
+Pedro Mendes,S. Camara,1
+C. Ninga,I. Mbenza,1

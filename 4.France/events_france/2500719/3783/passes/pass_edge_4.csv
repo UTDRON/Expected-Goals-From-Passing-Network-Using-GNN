@@ -1,0 +1,28 @@
+Source,Target,Weight
+D. Da Silva,A. Djiku,4
+A. Djiku,J. F\u00e9ret,3
+J. F\u00e9ret,D. Da Silva,2
+A. Mbengue,I. Santini,1
+R. Rodelin,J. F\u00e9ret,1
+C. Kouakou,Y. A\u00eft Bennasser,1
+R. Vercoutre,C. Kouakou,1
+J. F\u00e9ret,A. Mbengue,1
+Y. A\u00eft Bennasser,R. Vercoutre,1
+A. Djiku,A. Mbengue,1
+A. Djiku,D. Da Silva,1
+J. F\u00e9ret,A. Djiku,1
+A. Mbengue,Y. A\u00eft Bennasser,1
+J. F\u00e9ret,R. Vercoutre,1
+I. Santini,A. Mbengue,1
+R. Vercoutre,A. Djiku,1
+D. Avounou,A. Djiku,1
+A. Djiku,F. Guilbert,1
+F. Guilbert,R. Rodelin,1
+A. Mbengue,R. Rodelin,1
+Y. A\u00eft Bennasser,R. Rodelin,1
+D. Da Silva,J. F\u00e9ret,1
+R. Rodelin,I. Santini,1
+A. Djiku,D. Avounou,1
+J. F\u00e9ret,F. Guilbert,1
+F. Guilbert,D. Da Silva,1
+R. Rodelin,D. Da Silva,1

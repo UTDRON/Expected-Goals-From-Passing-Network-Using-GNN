@@ -1,0 +1,23 @@
+Source,Target,Weight
+M. Plattenhardt,V. Lazaro,2
+N. Stark,P. Pekar\u00edk,2
+M. Weiser,M. Plattenhardt,2
+A. Maier,N. Stark,1
+A. Maier,M. Plattenhardt,1
+V. Lazaro,M. Weiser,1
+M. Plattenhardt,A. Maier,1
+K. Rekik,R. Jarstein,1
+K. Rekik,M. Plattenhardt,1
+V. Lazaro,P. Pekar\u00edk,1
+N. Stark,R. Jarstein,1
+F. Lustenberger,K. Rekik,1
+M. Plattenhardt,K. Rekik,1
+R. Jarstein,F. Lustenberger,1
+P. Pekar\u00edk,S. Kalou,1
+K. Rekik,F. Lustenberger,1
+P. Pekar\u00edk,K. Rekik,1
+V. Lazaro,F. Lustenberger,1
+F. Lustenberger,N. Stark,1
+R. Jarstein,A. Maier,1
+F. Lustenberger,V. Lazaro,1
+P. Pekar\u00edk,M. Weiser,1

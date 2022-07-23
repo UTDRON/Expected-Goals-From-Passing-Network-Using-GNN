@@ -1,0 +1,21 @@
+Source,Target,Weight
+P. Max,Ja-Cheol Koo,2
+D. Opare,E. Thommy,1
+A. Finnbogason,D. Opare,1
+Ja-Cheol Koo,J. Gouweleeuw,1
+D. Baier,A. Finnbogason,1
+Ja-Cheol Koo,D. Opare,1
+Caiuby,D. Baier,1
+Ja-Cheol Koo,D. Baier,1
+D. Baier,M. Hinteregger,1
+M. Hinteregger,D. Baier,1
+D. Baier,P. Max,1
+M. Hinteregger,P. Max,1
+E. Thommy,J. Gouweleeuw,1
+E. Thommy,Ja-Cheol Koo,1
+P. Max,Caiuby,1
+J. Gouweleeuw,E. Thommy,1
+J. Gouweleeuw,M. Hinteregger,1
+D. Opare,M. Hinteregger,1
+Caiuby,P. Max,1
+M. Hinteregger,Caiuby,1

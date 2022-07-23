@@ -1,0 +1,28 @@
+Source,Target,Weight
+L. Lerager,Pablo,2
+L. Lerager,M. Poundj\u00e9,2
+F. Kamano,L. Lerager,2
+Pablo,B. Costil,2
+Pablo,F. Kamano,2
+M. Braithwaite,Pablo,2
+B. Costil,M. Braithwaite,2
+Y. Sabaly,Malcom,1
+Pablo,S. Me\u00eft\u00e9,1
+B. Costil,Pablo,1
+J. Kound\u00e9,L. Lerager,1
+J. Kound\u00e9,Y. Sabaly,1
+M. Braithwaite,L. Lerager,1
+M. Braithwaite,Y. Sankhar\u00e9,1
+L. Lerager,F. Kamano,1
+F. Kamano,B. Costil,1
+M. Poundj\u00e9,L. Lerager,1
+Malcom,S. Me\u00eft\u00e9,1
+M. Poundj\u00e9,F. Kamano,1
+F. Kamano,Y. Sankhar\u00e9,1
+S. Me\u00eft\u00e9,Malcom,1
+S. Me\u00eft\u00e9,Y. Sankhar\u00e9,1
+Y. Sankhar\u00e9,F. Kamano,1
+Malcom,Pablo,1
+Pablo,M. Braithwaite,1
+Y. Sankhar\u00e9,J. Kound\u00e9,1
+Y. Sankhar\u00e9,M. Braithwaite,1

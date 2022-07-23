@@ -1,0 +1,14 @@
+Source,Target,Weight
+Y. Sommer,M. Ginter,2
+Raffael,T. Hazard,1
+O. Wendt,T. Hazard,1
+M. Ginter,Y. Sommer,1
+J. Vestergaard,N. Elvedi,1
+N. Elvedi,Y. Sommer,1
+T. Hazard,Raffael,1
+M. Ginter,Raffael,1
+Y. Sommer,J. Vestergaard,1
+J. Vestergaard,Y. Sommer,1
+T. Hazard,O. Wendt,1
+O. Wendt,Raffael,1
+Raffael,O. Wendt,1

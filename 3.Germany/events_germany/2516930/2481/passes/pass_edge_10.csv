@@ -1,0 +1,32 @@
+Source,Target,Weight
+P. Max,R. Framberger,3
+R. Khedira,P. Max,2
+J. Schmid,D. Baier,2
+R. Framberger,J. Schmid,2
+R. Framberger,S. C\u00f3rdova,2
+J. Schmid,R. Khedira,2
+P. Max,Caiuby,1
+J. Mor\u00e1vek,R. Framberger,1
+Caiuby,S. C\u00f3rdova,1
+S. C\u00f3rdova,R. Framberger,1
+J. Schmid,S. C\u00f3rdova,1
+R. Framberger,D. Baier,1
+R. Khedira,R. Framberger,1
+M. Hinteregger,P. Max,1
+D. Baier,M. Hinteregger,1
+S. C\u00f3rdova,D. Baier,1
+R. Framberger,J. Mor\u00e1vek,1
+Caiuby,P. Max,1
+J. Mor\u00e1vek,J. Schmid,1
+R. Framberger,P. Max,1
+K. Danso,R. Framberger,1
+K. Danso,J. Schmid,1
+K. Danso,Caiuby,1
+D. Baier,P. Max,1
+S. C\u00f3rdova,J. Schmid,1
+D. Baier,K. Danso,1
+P. Max,M. Hinteregger,1
+P. Max,K. Danso,1
+S. C\u00f3rdova,K. Danso,1
+M. Hinteregger,R. Khedira,1
+R. Khedira,J. Mor\u00e1vek,1

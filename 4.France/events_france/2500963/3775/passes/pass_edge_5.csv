@@ -1,0 +1,55 @@
+Source,Target,Weight
+Dante,R. Coly,7
+R. Coly,A. Pl\u00e9a,6
+Marlon,Dante,6
+A. Saint-Maximin,P. Burner,5
+Dante,J. Seri,5
+P. Burner,A. Saint-Maximin,5
+J. Seri,W. Cyprien,4
+Dante,W. Ben\u00edtez,4
+A. Saint-Maximin,W. Cyprien,4
+R. Coly,W. Cyprien,4
+W. Ben\u00edtez,Marlon,4
+W. Cyprien,J. Seri,4
+P. Burner,Dante,3
+A. Tameze,Dante,3
+A. Pl\u00e9a,A. Saint-Maximin,3
+J. Seri,Marlon,3
+R. Coly,J. Seri,3
+Marlon,P. Burner,3
+W. Cyprien,P. Burner,3
+W. Cyprien,Dante,3
+J. Seri,R. Coly,3
+Marlon,A. Saint-Maximin,2
+P. Burner,W. Cyprien,2
+J. Seri,Dante,2
+J. Seri,A. Tameze,2
+W. Cyprien,Marlon,2
+Dante,Marlon,2
+P. Burner,Marlon,2
+A. Pl\u00e9a,J. Seri,2
+W. Cyprien,A. Pl\u00e9a,2
+A. Pl\u00e9a,R. Coly,2
+P. Burner,J. Seri,2
+Marlon,R. Coly,1
+W. Cyprien,M. Balotelli,1
+M. Balotelli,R. Coly,1
+A. Saint-Maximin,J. Seri,1
+J. Seri,P. Burner,1
+R. Coly,Dante,1
+A. Tameze,P. Burner,1
+P. Burner,A. Pl\u00e9a,1
+A. Pl\u00e9a,Dante,1
+J. Seri,W. Ben\u00edtez,1
+W. Ben\u00edtez,A. Tameze,1
+W. Ben\u00edtez,P. Burner,1
+A. Pl\u00e9a,A. Tameze,1
+Marlon,W. Ben\u00edtez,1
+A. Pl\u00e9a,M. Balotelli,1
+W. Ben\u00edtez,W. Cyprien,1
+Dante,A. Pl\u00e9a,1
+Marlon,A. Tameze,1
+A. Tameze,W. Cyprien,1
+W. Cyprien,A. Saint-Maximin,1
+M. Balotelli,P. Burner,1
+A. Saint-Maximin,W. Ben\u00edtez,1

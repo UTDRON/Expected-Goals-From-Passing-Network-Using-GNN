@@ -1,0 +1,69 @@
+Source,Target,Weight
+A. Harit,M. Meyer,5
+Naldo,M. Nastasi\u0107,5
+B. Embolo,W. McKennie,5
+T. Kehrer,Naldo,4
+M. Meyer,Naldo,4
+B. Oczipka,A. Harit,4
+M. Nastasi\u0107,B. Oczipka,4
+Naldo,T. Kehrer,4
+M. Nastasi\u0107,B. Embolo,3
+M. Meyer,A. Harit,3
+W. McKennie,M. Meyer,3
+D. Caligiuri,T. Kehrer,3
+T. Kehrer,D. Caligiuri,3
+B. Oczipka,B. Embolo,3
+M. Meyer,T. Kehrer,3
+M. Meyer,M. Nastasi\u0107,3
+T. Kehrer,F. Di Santo,3
+T. Kehrer,M. Meyer,3
+W. McKennie,D. Caligiuri,3
+M. Meyer,B. Oczipka,2
+T. Kehrer,M. Nastasi\u0107,2
+B. Embolo,T. Kehrer,2
+W. McKennie,A. Harit,2
+Naldo,M. Meyer,2
+D. Caligiuri,A. Harit,2
+A. Harit,W. McKennie,2
+B. Embolo,B. Oczipka,2
+W. McKennie,T. Kehrer,2
+T. Kehrer,W. McKennie,2
+R. F\u00e4hrmann,B. Embolo,2
+D. Caligiuri,Naldo,2
+A. Harit,B. Oczipka,2
+M. Meyer,W. McKennie,2
+M. Nastasi\u0107,Naldo,2
+M. Nastasi\u0107,M. Meyer,1
+W. McKennie,M. Nastasi\u0107,1
+F. Di Santo,T. Kehrer,1
+B. Oczipka,Naldo,1
+B. Embolo,D. Caligiuri,1
+Naldo,B. Oczipka,1
+T. Kehrer,B. Embolo,1
+M. Nastasi\u0107,W. McKennie,1
+B. Oczipka,D. Caligiuri,1
+F. Di Santo,M. Meyer,1
+M. Nastasi\u0107,T. Kehrer,1
+R. F\u00e4hrmann,M. Nastasi\u0107,1
+M. Nastasi\u0107,D. Caligiuri,1
+D. Caligiuri,B. Oczipka,1
+F. Di Santo,D. Caligiuri,1
+D. Caligiuri,B. Embolo,1
+R. F\u00e4hrmann,T. Kehrer,1
+W. McKennie,F. Di Santo,1
+D. Caligiuri,M. Meyer,1
+A. Harit,D. Caligiuri,1
+Naldo,R. F\u00e4hrmann,1
+A. Harit,M. Nastasi\u0107,1
+Naldo,W. McKennie,1
+B. Embolo,R. F\u00e4hrmann,1
+B. Oczipka,M. Nastasi\u0107,1
+Naldo,D. Caligiuri,1
+B. Oczipka,M. Meyer,1
+F. Di Santo,B. Embolo,1
+B. Oczipka,T. Kehrer,1
+B. Oczipka,F. Di Santo,1
+F. Di Santo,Naldo,1
+W. McKennie,Naldo,1
+D. Caligiuri,R. F\u00e4hrmann,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1

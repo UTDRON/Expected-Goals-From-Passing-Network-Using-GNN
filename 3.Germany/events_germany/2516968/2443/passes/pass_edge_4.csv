@@ -1,0 +1,60 @@
+Source,Target,Weight
+M. Veljkovic,T. Delaney,4
+T. Delaney,N. Moisander,3
+T. Gebre Selassie,M. Veljkovic,3
+T. Gebre Selassie,M. Eggestein,3
+M. Kruse,M. Veljkovic,2
+F. Kainz,T. Gebre Selassie,2
+J. Pavlenka,F. Kainz,2
+Z. Junuzovi\u0107,T. Gebre Selassie,2
+M. Veljkovic,Z. Junuzovi\u0107,2
+N. Moisander,M. Kruse,2
+M. Eggestein,L. Augustinsson,2
+N. Moisander,M. Veljkovic,2
+L. Augustinsson,T. Delaney,2
+M. Kruse,N. Moisander,2
+M. Rashica,Z. Junuzovi\u0107,2
+M. Eggestein,M. Kruse,2
+Z. Junuzovi\u0107,M. Eggestein,2
+F. Kainz,T. Delaney,1
+T. Delaney,J. Pavlenka,1
+J. Pavlenka,M. Kruse,1
+L. Augustinsson,J. Pavlenka,1
+M. Eggestein,M. Rashica,1
+M. Rashica,N. Moisander,1
+M. Veljkovic,M. Eggestein,1
+M. Kruse,L. Augustinsson,1
+M. Kruse,T. Gebre Selassie,1
+M. Eggestein,T. Delaney,1
+F. Kainz,Z. Junuzovi\u0107,1
+M. Kruse,J. Pavlenka,1
+T. Delaney,L. Augustinsson,1
+M. Eggestein,F. Kainz,1
+L. Augustinsson,M. Kruse,1
+M. Kruse,M. Rashica,1
+J. Pavlenka,M. Veljkovic,1
+M. Rashica,F. Kainz,1
+F. Kainz,J. Pavlenka,1
+M. Eggestein,Z. Junuzovi\u0107,1
+M. Eggestein,T. Gebre Selassie,1
+M. Eggestein,J. Pavlenka,1
+T. Delaney,M. Eggestein,1
+J. Pavlenka,T. Gebre Selassie,1
+T. Delaney,M. Rashica,1
+N. Moisander,J. Pavlenka,1
+Z. Junuzovi\u0107,L. Augustinsson,1
+N. Moisander,M. Rashica,1
+T. Gebre Selassie,T. Delaney,1
+M. Veljkovic,F. Kainz,1
+J. Pavlenka,T. Delaney,1
+T. Delaney,T. Gebre Selassie,1
+F. Kainz,M. Eggestein,1
+T. Delaney,M. Kruse,1
+L. Augustinsson,N. Moisander,1
+L. Augustinsson,M. Eggestein,1
+T. Delaney,M. Veljkovic,1
+N. Moisander,L. Augustinsson,1
+M. Kruse,M. Eggestein,1
+M. Veljkovic,M. Kruse,1
+Z. Junuzovi\u0107,M. Rashica,1
+T. Gebre Selassie,F. Kainz,1

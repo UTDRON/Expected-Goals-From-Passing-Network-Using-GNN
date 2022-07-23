@@ -1,0 +1,24 @@
+Source,Target,Weight
+N. Schulz,N. Amiri,3
+N. Amiri,N. Schulz,2
+N. Amiri,A. Kramari\u0107,2
+K. Vogt,N. Schulz,2
+F. Grillitsch,N. Amiri,2
+S. Posch,F. Grillitsch,2
+A. Kramari\u0107,N. Schulz,1
+K. Demirbay,K. Akpoguma,1
+S. Posch,K. Demirbay,1
+N. Amiri,K. Demirbay,1
+O. Baumann,K. Vogt,1
+K. Demirbay,N. Amiri,1
+K. Demirbay,S. Posch,1
+N. Schulz,K. Demirbay,1
+A. Kramari\u0107,S. Posch,1
+K. Akpoguma,F. Grillitsch,1
+F. Grillitsch,K. Vogt,1
+N. Schulz,F. Grillitsch,1
+S. Posch,S. Gnabry,1
+F. Grillitsch,S. Posch,1
+K. Vogt,A. Kramari\u0107,1
+S. Gnabry,S. Posch,1
+A. Kramari\u0107,O. Baumann,1

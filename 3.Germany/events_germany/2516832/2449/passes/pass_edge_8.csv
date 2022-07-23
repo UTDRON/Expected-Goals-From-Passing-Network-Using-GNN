@@ -1,0 +1,38 @@
+Source,Target,Weight
+B. Oczipka,T. Kehrer,3
+B. Oczipka,M. Meyer,3
+T. Kehrer,Naldo,3
+D. Caligiuri,F. Di Santo,2
+M. Meyer,B. Oczipka,2
+F. Di Santo,T. Kehrer,2
+Naldo,M. Meyer,2
+T. Kehrer,B. Oczipka,2
+Naldo,T. Kehrer,2
+A. Harit,W. McKennie,1
+G. Burgstaller,Naldo,1
+Naldo,B. Stambouli,1
+F. Di Santo,Naldo,1
+W. McKennie,B. Oczipka,1
+G. Burgstaller,T. Kehrer,1
+B. Stambouli,Naldo,1
+Naldo,F. Di Santo,1
+D. Caligiuri,B. Stambouli,1
+T. Kehrer,A. Harit,1
+Naldo,D. Caligiuri,1
+T. Kehrer,R. F\u00e4hrmann,1
+B. Oczipka,Naldo,1
+R. F\u00e4hrmann,F. Di Santo,1
+B. Stambouli,D. Caligiuri,1
+M. Meyer,W. McKennie,1
+R. F\u00e4hrmann,G. Burgstaller,1
+M. Meyer,Naldo,1
+W. McKennie,R. F\u00e4hrmann,1
+T. Kehrer,W. McKennie,1
+A. Harit,B. Oczipka,1
+R. F\u00e4hrmann,D. Caligiuri,1
+W. McKennie,G. Burgstaller,1
+Naldo,R. F\u00e4hrmann,1
+F. Di Santo,G. Burgstaller,1
+G. Burgstaller,W. McKennie,1
+M. Meyer,G. Burgstaller,1
+W. McKennie,A. Harit,1

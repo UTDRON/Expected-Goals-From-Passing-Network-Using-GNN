@@ -1,0 +1,24 @@
+Source,Target,Weight
+A. Hahn,B. Wood,3
+G. Jung,A. Hahn,2
+A. Hunt,A. Hahn,2
+K. Papadopoulos,A. Hahn,1
+B. Wood,D. Diekmeier,1
+L. Waldschmidt,A. Hunt,1
+K. Papadopoulos,A. Hunt,1
+B. Wood,A. Ekdal,1
+A. Hahn,G. Jung,1
+A. Hahn,K. Papadopoulos,1
+A. Hunt,Walace,1
+A. Hahn,D. Diekmeier,1
+D. Diekmeier,K. Papadopoulos,1
+G. Jung,K. Papadopoulos,1
+D. Diekmeier,C. Mathenia,1
+Walace,G. Jung,1
+C. Mathenia,B. Wood,1
+K. Papadopoulos,C. Mathenia,1
+B. Wood,L. Waldschmidt,1
+B. Wood,Walace,1
+A. Ekdal,G. Jung,1
+C. Mathenia,L. Waldschmidt,1
+Walace,A. Hahn,1

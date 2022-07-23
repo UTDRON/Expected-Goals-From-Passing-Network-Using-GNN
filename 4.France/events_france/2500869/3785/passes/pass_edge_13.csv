@@ -1,0 +1,16 @@
+Source,Target,Weight
+J. Sorbon,L. Blas,2
+J. Sorbon,C. Kerbrat,1
+M. Coco,F. Tabanou,1
+M. Coco,L. Deaux,1
+C. Kerbrat,L. Deaux,1
+L. Deaux,K. Johnsson,1
+F. Tabanou,M. Coco,1
+M. Coco,J. Sorbon,1
+L. Blas,J. Briand,1
+J. Briand,M. Coco,1
+C. Kerbrat,Y. Salibur,1
+K. Johnsson,J. Sorbon,1
+Y. Salibur,J. Sorbon,1
+L. Blas,M. Coco,1
+L. Deaux,M. Coco,1

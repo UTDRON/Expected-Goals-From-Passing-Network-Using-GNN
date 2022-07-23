@@ -1,0 +1,12 @@
+Source,Target,Weight
+L. Deaux,Y. Salibur,2
+K. Johnsson,L. Deaux,1
+C. Grenier,L. Deaux,1
+L. Deaux,Y. N'Gbakoto,1
+Y. N'Gbakoto,L. Deaux,1
+Y. N'Gbakoto,C. Grenier,1
+Y. Salibur,K. Johnsson,1
+Y. Salibur,L. Deaux,1
+J. Ikoko,Y. Salibur,1
+Y. N'Gbakoto,J. Ikoko,1
+Y. Salibur,Y. N'Gbakoto,1

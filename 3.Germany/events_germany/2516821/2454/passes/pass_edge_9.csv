@@ -1,0 +1,24 @@
+Source,Target,Weight
+V. Grifo,M. Ginter,2
+O. Wendt,D. Zakaria,2
+O. Wendt,J. Vestergaard,2
+J. Vestergaard,L. Stindl,1
+P. Herrmann,O. Wendt,1
+P. Herrmann,M. Ginter,1
+M. Ginter,O. Wendt,1
+O. Wendt,P. Herrmann,1
+M. Ginter,T. Jantschke,1
+M. Ginter,D. Zakaria,1
+L. Stindl,O. Wendt,1
+D. Zakaria,L. Stindl,1
+J. Vestergaard,O. Wendt,1
+D. Zakaria,O. Wendt,1
+M. Ginter,T. Hazard,1
+L. Stindl,V. Grifo,1
+T. Hazard,V. Grifo,1
+D. Zakaria,M. Ginter,1
+O. Wendt,T. Hazard,1
+V. Grifo,N. Elvedi,1
+T. Jantschke,P. Herrmann,1
+T. Hazard,M. Ginter,1
+M. Ginter,V. Grifo,1

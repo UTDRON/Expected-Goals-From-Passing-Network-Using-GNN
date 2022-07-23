@@ -1,0 +1,18 @@
+Source,Target,Weight
+J. Brandt,K. Havertz,2
+K. Havertz,C. Ar\u00e1nguiz,2
+K. Havertz,Wendell,1
+L. Bender,K. Havertz,1
+J. Baumgartlinger,L. Bender,1
+L. Bender,J. Baumgartlinger,1
+L. Bender,L. Bailey,1
+K. Havertz,J. Baumgartlinger,1
+Wendell,L. Bender,1
+L. Bailey,K. Havertz,1
+L. Bender,J. Brandt,1
+C. Ar\u00e1nguiz,Wendell,1
+K. Havertz,L. Bender,1
+J. Tah,K. Havertz,1
+Wendell,J. Brandt,1
+J. Baumgartlinger,K. Havertz,1
+C. Ar\u00e1nguiz,L. Bender,1

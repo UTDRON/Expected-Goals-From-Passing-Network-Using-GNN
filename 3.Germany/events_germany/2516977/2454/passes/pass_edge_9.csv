@@ -1,0 +1,18 @@
+Source,Target,Weight
+T. Hazard,L. Stindl,2
+T. Jantschke,P. Herrmann,2
+N. Elvedi,T. Hazard,2
+L. Stindl,O. Wendt,2
+L. Stindl,J. Drmic,1
+N. Elvedi,T. Jantschke,1
+M. Cuisance,J. Hofmann,1
+J. Drmic,T. Hazard,1
+J. Drmic,N. Elvedi,1
+T. Hazard,P. Herrmann,1
+P. Herrmann,J. Hofmann,1
+O. Wendt,L. Stindl,1
+J. Hofmann,T. Jantschke,1
+T. Hazard,M. Cuisance,1
+P. Herrmann,T. Hazard,1
+J. Hofmann,N. Elvedi,1
+O. Wendt,J. Drmic,1

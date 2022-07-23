@@ -1,0 +1,111 @@
+Source,Target,Weight
+J. Brekalo,William,10
+William,Camacho,9
+R. Knoche,J. Brekalo,8
+P. Verhaegh,V. Osimhen,7
+Camacho,R. Knoche,7
+R. Knoche,J. Bruma,6
+J. Bruma,P. Verhaegh,6
+P. Verhaegh,J. Bruma,6
+Camacho,J. Bruma,6
+R. Knoche,Camacho,6
+L. Dimata,William,6
+J. Bruma,Camacho,6
+J. Bruma,V. Osimhen,5
+M. Arnold,R. Knoche,5
+William,R. Knoche,5
+V. Osimhen,P. Verhaegh,5
+J. Bruma,R. Knoche,5
+Camacho,William,5
+M. Arnold,J. Brekalo,4
+William,L. Dimata,4
+William,J. Brekalo,4
+William,J. Bruma,4
+Camacho,M. Arnold,4
+J. Bruma,J. Guilavogui,4
+M. Arnold,William,4
+R. Knoche,J. Guilavogui,4
+J. Bruma,K. Casteels,4
+L. Dimata,P. Verhaegh,4
+Camacho,J. Brekalo,4
+J. Guilavogui,J. Bruma,3
+M. Arnold,P. Verhaegh,3
+J. Bruma,M. Arnold,3
+M. Arnold,Camacho,3
+K. Casteels,L. Dimata,3
+V. Osimhen,M. Arnold,3
+R. Knoche,K. Casteels,3
+K. Casteels,J. Bruma,3
+J. Guilavogui,R. Knoche,3
+V. Osimhen,J. Bruma,3
+P. Verhaegh,L. Dimata,3
+J. Brekalo,Camacho,3
+R. Knoche,M. Arnold,3
+William,J. Guilavogui,3
+K. Casteels,R. Knoche,3
+J. Brekalo,M. Arnold,3
+R. Knoche,William,3
+J. Guilavogui,L. Dimata,3
+J. Brekalo,J. Bruma,3
+William,K. Casteels,3
+P. Verhaegh,Camacho,3
+V. Osimhen,J. Guilavogui,2
+K. Casteels,V. Osimhen,2
+Camacho,J. Guilavogui,2
+Camacho,D. Didavi,2
+L. Dimata,V. Osimhen,2
+V. Osimhen,Camacho,2
+Camacho,P. Verhaegh,2
+K. Casteels,M. Arnold,2
+V. Osimhen,L. Dimata,2
+J. Guilavogui,J. Brekalo,2
+J. Guilavogui,K. Casteels,2
+J. Guilavogui,William,2
+P. Verhaegh,R. Knoche,2
+L. Dimata,D. Didavi,2
+D. Didavi,P. Verhaegh,2
+D. Didavi,L. Dimata,2
+P. Verhaegh,D. Didavi,2
+J. Guilavogui,P. Verhaegh,2
+D. Didavi,J. Brekalo,2
+M. Arnold,L. Dimata,2
+J. Brekalo,J. Guilavogui,2
+J. Guilavogui,V. Osimhen,2
+D. Didavi,R. Knoche,2
+J. Brekalo,K. Casteels,2
+R. Knoche,L. Dimata,2
+J. Brekalo,P. Verhaegh,2
+J. Guilavogui,D. Didavi,2
+L. Dimata,R. Knoche,2
+J. Guilavogui,M. Arnold,2
+J. Brekalo,L. Dimata,2
+L. Dimata,M. Arnold,2
+D. Didavi,J. Guilavogui,2
+Camacho,V. Osimhen,2
+P. Verhaegh,M. Arnold,2
+L. Dimata,Camacho,2
+M. Arnold,D. Didavi,2
+K. Casteels,J. Brekalo,2
+L. Dimata,J. Guilavogui,2
+J. Bruma,William,1
+William,M. Arnold,1
+V. Osimhen,K. Casteels,1
+K. Casteels,William,1
+J. Bruma,J. Brekalo,1
+J. Guilavogui,Camacho,1
+P. Verhaegh,J. Brekalo,1
+J. Brekalo,V. Osimhen,1
+V. Osimhen,J. Brekalo,1
+P. Verhaegh,J. Guilavogui,1
+K. Casteels,Camacho,1
+M. Arnold,J. Guilavogui,1
+V. Osimhen,William,1
+Camacho,L. Dimata,1
+William,P. Verhaegh,1
+R. Knoche,P. Verhaegh,1
+Camacho,K. Casteels,1
+V. Osimhen,R. Knoche,1
+M. Arnold,K. Casteels,1
+L. Dimata,J. Bruma,1
+J. Brekalo,R. Knoche,1
+P. Verhaegh,William,1

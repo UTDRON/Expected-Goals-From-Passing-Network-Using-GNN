@@ -1,0 +1,87 @@
+Source,Target,Weight
+N. Moisander,L. San\u00e9,8
+L. San\u00e9,M. Veljkovic,8
+T. Gebre Selassie,M. Kruse,7
+L. San\u00e9,N. Moisander,6
+M. Kruse,N. Moisander,5
+T. Gebre Selassie,L. San\u00e9,5
+M. Kruse,T. Gebre Selassie,5
+O. K\u00e4uper,M. Veljkovic,5
+J. Pavlenka,T. Gebre Selassie,5
+M. Veljkovic,M. Eggestein,5
+M. Veljkovic,O. K\u00e4uper,4
+M. Veljkovic,T. Delaney,4
+M. Veljkovic,T. Gebre Selassie,4
+N. Moisander,L. Augustinsson,4
+F. Kainz,N. Moisander,4
+N. Moisander,T. Delaney,4
+F. Kainz,L. Augustinsson,4
+L. Augustinsson,N. Moisander,4
+M. Kruse,M. Eggestein,4
+M. Veljkovic,L. San\u00e9,4
+M. Eggestein,O. K\u00e4uper,4
+L. San\u00e9,J. Pavlenka,4
+T. Delaney,F. Kainz,3
+N. Moisander,F. Kainz,3
+T. Gebre Selassie,M. Eggestein,3
+M. Kruse,M. Veljkovic,3
+M. Eggestein,M. Kruse,3
+L. San\u00e9,T. Delaney,3
+T. Gebre Selassie,T. Delaney,3
+L. Augustinsson,F. Kainz,3
+M. Eggestein,T. Gebre Selassie,3
+T. Delaney,N. Moisander,3
+O. K\u00e4uper,T. Gebre Selassie,3
+L. Augustinsson,M. Kruse,3
+T. Delaney,T. Gebre Selassie,3
+J. Pavlenka,M. Veljkovic,3
+N. Moisander,M. Veljkovic,2
+L. Augustinsson,T. Delaney,2
+T. Delaney,M. Veljkovic,2
+T. Delaney,L. San\u00e9,2
+F. Kainz,M. Eggestein,2
+L. Augustinsson,J. Pavlenka,2
+M. Eggestein,L. San\u00e9,2
+T. Delaney,O. K\u00e4uper,2
+M. Eggestein,N. Moisander,2
+O. K\u00e4uper,L. Augustinsson,2
+T. Gebre Selassie,O. K\u00e4uper,2
+T. Gebre Selassie,M. Veljkovic,2
+M. Kruse,L. Augustinsson,2
+N. Moisander,J. Pavlenka,2
+M. Veljkovic,M. Kruse,2
+T. Delaney,M. Eggestein,2
+F. Kainz,M. Kruse,2
+M. Eggestein,T. Delaney,2
+L. San\u00e9,O. K\u00e4uper,2
+N. Moisander,M. Kruse,2
+M. Kruse,L. San\u00e9,2
+L. Augustinsson,L. San\u00e9,2
+O. K\u00e4uper,F. Kainz,1
+M. Kruse,J. Pavlenka,1
+L. San\u00e9,M. Kruse,1
+N. Moisander,M. Eggestein,1
+J. Pavlenka,O. K\u00e4uper,1
+M. Eggestein,F. Kainz,1
+O. K\u00e4uper,N. Moisander,1
+T. Delaney,M. Kruse,1
+M. Veljkovic,F. Kainz,1
+F. Kainz,T. Delaney,1
+O. K\u00e4uper,J. Pavlenka,1
+N. Moisander,T. Gebre Selassie,1
+T. Delaney,L. Augustinsson,1
+O. K\u00e4uper,M. Eggestein,1
+T. Gebre Selassie,L. Augustinsson,1
+O. K\u00e4uper,T. Delaney,1
+T. Gebre Selassie,N. Moisander,1
+T. Gebre Selassie,F. Kainz,1
+J. Pavlenka,M. Kruse,1
+M. Veljkovic,N. Moisander,1
+M. Kruse,F. Kainz,1
+T. Delaney,J. Pavlenka,1
+L. San\u00e9,L. Augustinsson,1
+O. K\u00e4uper,M. Kruse,1
+F. Kainz,L. San\u00e9,1
+L. San\u00e9,T. Gebre Selassie,1
+N. Moisander,O. K\u00e4uper,1
+J. Pavlenka,L. Augustinsson,1

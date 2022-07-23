@@ -1,0 +1,48 @@
+Source,Target,Weight
+Ailton,S. Ascac\u00edbar,3
+T. Baumgartl,A. Beck,2
+S. Ascac\u00edbar,B. Pavard,2
+T. Baumgartl,B. Pavard,2
+D. Burnic,T. Baumgartl,2
+M. Kami\u0144ski,D. Burnic,2
+B. Pavard,M. Kami\u0144ski,2
+B. Pavard,T. Baumgartl,2
+A. Beck,T. Baumgartl,2
+B. Pavard,Ailton,2
+D. Burnic,Ailton,2
+J. Brekalo,D. Burnic,2
+S. Ascac\u00edbar,A. Beck,2
+Ailton,A. Beck,1
+A. Donis,A. Beck,1
+T. Baumgartl,S. Ascac\u00edbar,1
+T. Baumgartl,S. Terodde,1
+S. Ascac\u00edbar,J. Brekalo,1
+R. Zieler,T. Baumgartl,1
+S. Terodde,B. Pavard,1
+A. Donis,B. Pavard,1
+Ailton,A. Donis,1
+Ailton,J. Brekalo,1
+A. Beck,A. Donis,1
+R. Zieler,M. Kami\u0144ski,1
+M. Kami\u0144ski,J. Brekalo,1
+A. Donis,Ailton,1
+D. Burnic,B. Pavard,1
+Ailton,M. Kami\u0144ski,1
+M. Kami\u0144ski,B. Pavard,1
+A. Beck,S. Ascac\u00edbar,1
+S. Ascac\u00edbar,T. Baumgartl,1
+S. Terodde,Ailton,1
+J. Brekalo,Ailton,1
+D. Burnic,J. Brekalo,1
+B. Pavard,S. Terodde,1
+T. Baumgartl,J. Brekalo,1
+A. Donis,J. Brekalo,1
+J. Brekalo,A. Donis,1
+M. Kami\u0144ski,S. Ascac\u00edbar,1
+J. Brekalo,S. Ascac\u00edbar,1
+J. Brekalo,M. Kami\u0144ski,1
+A. Beck,D. Burnic,1
+J. Brekalo,R. Zieler,1
+T. Baumgartl,R. Zieler,1
+B. Pavard,J. Brekalo,1
+S. Ascac\u00edbar,D. Burnic,1

@@ -1,0 +1,32 @@
+Source,Target,Weight
+Dante,W. Sneijder,2
+Dante,M. Le Marchand,2
+N. Mendy,Marlon,2
+Dante,N. Mendy,2
+Marlon,Dante,2
+N. Mendy,Dante,2
+M. Le Marchand,Dante,2
+W. Sneijder,N. Mendy,1
+N. Mendy,P. Lees Melou,1
+P. Burner,P. Lees Melou,1
+M. Le Marchand,P. Lees Melou,1
+C. Jallet,A. Lusamba,1
+P. Lees Melou,M. Balotelli,1
+M. Le Marchand,Marlon,1
+A. Lusamba,C. Jallet,1
+W. Sneijder,A. Lusamba,1
+Marlon,A. Lusamba,1
+P. Lees Melou,C. Jallet,1
+A. Lusamba,W. Ben\u00edtez,1
+A. Lusamba,W. Sneijder,1
+W. Ben\u00edtez,M. Le Marchand,1
+Dante,P. Burner,1
+A. Lusamba,Dante,1
+W. Ben\u00edtez,N. Mendy,1
+N. Mendy,M. Le Marchand,1
+M. Le Marchand,N. Mendy,1
+C. Jallet,W. Ben\u00edtez,1
+P. Lees Melou,A. Lusamba,1
+W. Sneijder,P. Burner,1
+P. Burner,M. Le Marchand,1
+P. Burner,N. Mendy,1

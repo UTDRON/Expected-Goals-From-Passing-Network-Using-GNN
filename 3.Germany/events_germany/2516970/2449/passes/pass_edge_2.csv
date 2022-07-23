@@ -1,0 +1,62 @@
+Source,Target,Weight
+T. Kehrer,A. Sch\u00f6pf,6
+A. Sch\u00f6pf,T. Kehrer,6
+N. Bentaleb,D. Caligiuri,4
+N. Bentaleb,A. Sch\u00f6pf,4
+R. F\u00e4hrmann,M. Nastasi\u0107,4
+A. Sch\u00f6pf,G. Burgstaller,4
+D. Caligiuri,N. Bentaleb,4
+W. McKennie,D. Caligiuri,3
+R. F\u00e4hrmann,T. Kehrer,3
+M. Nastasi\u0107,R. F\u00e4hrmann,3
+T. Kehrer,W. McKennie,3
+M. Nastasi\u0107,D. Caligiuri,3
+M. Pjaca,A. Sch\u00f6pf,3
+A. Sch\u00f6pf,M. Pjaca,3
+D. Caligiuri,M. Nastasi\u0107,3
+W. McKennie,A. Sch\u00f6pf,2
+D. Caligiuri,T. Kehrer,2
+G. Burgstaller,D. Caligiuri,2
+D. Caligiuri,R. F\u00e4hrmann,2
+M. Nastasi\u0107,Naldo,2
+D. Caligiuri,F. Di Santo,2
+T. Kehrer,R. F\u00e4hrmann,2
+A. Sch\u00f6pf,N. Bentaleb,2
+W. McKennie,N. Bentaleb,2
+F. Di Santo,T. Kehrer,2
+G. Burgstaller,W. McKennie,2
+G. Burgstaller,M. Pjaca,2
+Naldo,G. Burgstaller,2
+N. Bentaleb,Naldo,2
+A. Sch\u00f6pf,W. McKennie,1
+M. Pjaca,T. Kehrer,1
+G. Burgstaller,A. Sch\u00f6pf,1
+N. Bentaleb,W. McKennie,1
+G. Burgstaller,F. Di Santo,1
+M. Pjaca,G. Burgstaller,1
+F. Di Santo,W. McKennie,1
+N. Bentaleb,M. Nastasi\u0107,1
+W. McKennie,Naldo,1
+Naldo,T. Kehrer,1
+Naldo,D. Caligiuri,1
+T. Kehrer,M. Pjaca,1
+T. Kehrer,G. Burgstaller,1
+F. Di Santo,D. Caligiuri,1
+G. Burgstaller,N. Bentaleb,1
+Naldo,M. Pjaca,1
+T. Kehrer,Naldo,1
+M. Nastasi\u0107,N. Bentaleb,1
+T. Kehrer,F. Di Santo,1
+M. Pjaca,R. F\u00e4hrmann,1
+M. Nastasi\u0107,F. Di Santo,1
+R. F\u00e4hrmann,D. Caligiuri,1
+D. Caligiuri,W. McKennie,1
+W. McKennie,T. Kehrer,1
+M. Pjaca,D. Caligiuri,1
+W. McKennie,M. Pjaca,1
+D. Caligiuri,G. Burgstaller,1
+T. Kehrer,N. Bentaleb,1
+F. Di Santo,N. Bentaleb,1
+Naldo,M. Nastasi\u0107,1
+A. Sch\u00f6pf,M. Nastasi\u0107,1
+M. Pjaca,W. McKennie,1

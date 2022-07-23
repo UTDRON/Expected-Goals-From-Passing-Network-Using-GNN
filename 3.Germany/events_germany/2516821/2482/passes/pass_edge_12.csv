@@ -1,0 +1,23 @@
+Source,Target,Weight
+S. Posch,K. Demirbay,2
+N. Schulz,A. Kramari\u0107,2
+K. Demirbay,N. Schulz,2
+N. Amiri,D. Geiger,2
+O. Baumann,K. Akpoguma,1
+A. Kramari\u0107,N. Amiri,1
+L. Rupp,S. Wagner,1
+L. Rupp,S. Posch,1
+K. Demirbay,K. Vogt,1
+K. Akpoguma,L. Rupp,1
+S. Wagner,D. Geiger,1
+K. Vogt,N. Amiri,1
+K. Demirbay,S. Wagner,1
+D. Geiger,O. Baumann,1
+D. Geiger,K. Demirbay,1
+S. Wagner,K. Demirbay,1
+D. Geiger,A. Kramari\u0107,1
+N. Amiri,K. Demirbay,1
+N. Schulz,O. Baumann,1
+A. Kramari\u0107,N. Schulz,1
+A. Kramari\u0107,L. Rupp,1
+O. Baumann,S. Posch,1

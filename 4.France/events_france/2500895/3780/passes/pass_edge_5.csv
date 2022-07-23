@@ -1,0 +1,42 @@
+Source,Target,Weight
+C. Jullien,G. Imbula,4
+I. Sangar\u00e9,Som\u00e1lia,3
+Som\u00e1lia,J. Durmaz,2
+I. Sylla,I. Diop,2
+Som\u00e1lia,C. Jean,2
+I. Sylla,I. Sangar\u00e9,2
+J. Durmaz,Som\u00e1lia,2
+G. Imbula,Som\u00e1lia,2
+C. Jean,Som\u00e1lia,1
+G. Imbula,M. Gradel,1
+K. Amian,J. Durmaz,1
+I. Sangar\u00e9,J. Durmaz,1
+J. Durmaz,C. Jullien,1
+I. Diop,K. Amian,1
+M. Gradel,G. Imbula,1
+J. Durmaz,K. Amian,1
+I. Diop,I. Sangar\u00e9,1
+I. Diop,M. Gradel,1
+A. Lafont,C. Jullien,1
+G. Imbula,I. Sangar\u00e9,1
+I. Sangar\u00e9,I. Diop,1
+M. Gradel,C. Jean,1
+Som\u00e1lia,G. Imbula,1
+C. Jullien,I. Sangar\u00e9,1
+Som\u00e1lia,I. Diop,1
+G. Imbula,K. Amian,1
+C. Jean,I. Sylla,1
+J. Durmaz,G. Imbula,1
+G. Imbula,C. Jullien,1
+M. Gradel,I. Sylla,1
+I. Sangar\u00e9,C. Jean,1
+I. Diop,J. Durmaz,1
+C. Jean,I. Diop,1
+I. Sangar\u00e9,I. Sylla,1
+C. Jean,I. Sangar\u00e9,1
+I. Diop,C. Jullien,1
+I. Sylla,M. Gradel,1
+G. Imbula,I. Sylla,1
+K. Amian,C. Jullien,1
+K. Amian,A. Lafont,1
+Som\u00e1lia,I. Sylla,1

@@ -1,0 +1,15 @@
+Source,Target,Weight
+E. Seka,J. Martin,3
+J. Martin,E. Seka,3
+K. Mangane,Nuno Da Costa,2
+K. Lala,J. Grimm,1
+J. Blayac,K. Mangane,1
+E. Seka,Nuno Da Costa,1
+A. Gon\u00e7alves,J. Blayac,1
+J. Blayac,K. Lala,1
+J. Grimm,J. Martin,1
+J. Grimm,E. Seka,1
+Nuno Da Costa,J. Grimm,1
+K. Lala,J. Blayac,1
+J. Martin,K. Mangane,1
+Nuno Da Costa,K. Lala,1

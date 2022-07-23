@@ -1,0 +1,48 @@
+Source,Target,Weight
+J. Toljan,M. G\u00f6tze,5
+M. Schmelzer,S. Kagawa,4
+J. Weigl,M. Schmelzer,4
+M. G\u00f6tze,A. Sch\u00fcrrle,4
+M. Schmelzer,Bartra,4
+A. Sch\u00fcrrle,A. Yarmolenko,3
+S. Kagawa,M. G\u00f6tze,3
+J. Weigl,Bartra,3
+J. Toljan,A. Sch\u00fcrrle,3
+S. Kagawa,J. Toljan,3
+A. Yarmolenko,Bartra,3
+Bartra,M. Schmelzer,3
+A. Sch\u00fcrrle,J. Toljan,3
+J. Toljan,J. Weigl,3
+M. Philipp,M. Schmelzer,3
+Bartra,S. Kagawa,2
+A. Yarmolenko,J. Toljan,2
+M. G\u00f6tze,J. Weigl,2
+Bartra,J. Toljan,2
+S. Papastathopoulos,S. Kagawa,2
+A. Sch\u00fcrrle,M. Schmelzer,2
+M. G\u00f6tze,J. Toljan,2
+M. Schmelzer,M. Philipp,2
+Bartra,J. Weigl,2
+S. Kagawa,M. Schmelzer,2
+M. Schmelzer,A. Sch\u00fcrrle,2
+A. Yarmolenko,M. Schmelzer,1
+M. Schmelzer,J. Weigl,1
+M. G\u00f6tze,A. Yarmolenko,1
+A. Yarmolenko,A. Sch\u00fcrrle,1
+Bartra,M. G\u00f6tze,1
+J. Weigl,S. Kagawa,1
+M. G\u00f6tze,S. Papastathopoulos,1
+M. Schmelzer,A. Yarmolenko,1
+S. Papastathopoulos,M. Schmelzer,1
+M. Schmelzer,M. G\u00f6tze,1
+A. Sch\u00fcrrle,M. G\u00f6tze,1
+J. Toljan,A. Yarmolenko,1
+A. Sch\u00fcrrle,Bartra,1
+A. Yarmolenko,J. Weigl,1
+J. Toljan,M. Philipp,1
+Bartra,S. Papastathopoulos,1
+J. Weigl,A. Yarmolenko,1
+M. Philipp,A. Yarmolenko,1
+M. Schmelzer,J. Toljan,1
+S. Kagawa,M. Philipp,1
+M. G\u00f6tze,M. Philipp,1

@@ -1,0 +1,37 @@
+Source,Target,Weight
+Nuno Da Costa,K. Mangane,2
+M. Terrier,D. Li\u00e9nard,2
+K. Lala,Nuno Da Costa,2
+A. Oukidja,Nuno Da Costa,2
+Nuno Da Costa,S. Bahoken,2
+K. Lala,A. Oukidja,1
+J. Grimm,M. Terrier,1
+J. Grimm,J. Aholou,1
+E. Seka,D. Li\u00e9nard,1
+D. Li\u00e9nard,B. Kon\u00e9,1
+Y. Salmier,J. Grimm,1
+J. Aholou,M. Terrier,1
+K. Lala,M. Terrier,1
+K. Mangane,D. Li\u00e9nard,1
+A. Oukidja,Y. Salmier,1
+D. Li\u00e9nard,Nuno Da Costa,1
+Nuno Da Costa,J. Aholou,1
+B. Kon\u00e9,K. Lala,1
+D. Li\u00e9nard,K. Lala,1
+K. Mangane,J. Grimm,1
+K. Mangane,J. Aholou,1
+M. Terrier,E. Seka,1
+D. Li\u00e9nard,E. Seka,1
+J. Grimm,Nuno Da Costa,1
+K. Lala,K. Mangane,1
+E. Seka,J. Aholou,1
+J. Aholou,K. Lala,1
+J. Aholou,B. Kon\u00e9,1
+S. Bahoken,J. Grimm,1
+J. Aholou,K. Mangane,1
+K. Mangane,K. Lala,1
+B. Kon\u00e9,A. Oukidja,1
+S. Bahoken,K. Lala,1
+K. Lala,Y. Salmier,1
+Nuno Da Costa,K. Lala,1
+Y. Salmier,A. Oukidja,1

@@ -1,0 +1,63 @@
+Source,Target,Weight
+Bernardo,D. Demme,5
+Bruma,K. Laimer,4
+W. Orban,D. Demme,4
+K. Kampl,K. Laimer,4
+K. Laimer,D. Demme,4
+D. Demme,K. Laimer,4
+K. Laimer,K. Kampl,4
+D. Demme,Bernardo,4
+D. Demme,W. Orban,3
+K. Laimer,W. Orban,3
+K. Laimer,T. Werner,2
+K. Laimer,Bruma,2
+W. Orban,K. Laimer,2
+D. Demme,M. Sabitzer,2
+P. Gul\u00e1csi,D. Demme,2
+D. Upamecano,W. Orban,2
+T. Werner,D. Demme,1
+K. Kampl,Bruma,1
+Bernardo,P. Gul\u00e1csi,1
+P. Gul\u00e1csi,Bernardo,1
+K. Laimer,M. Sabitzer,1
+K. Laimer,Bernardo,1
+W. Orban,K. Kampl,1
+Y. Poulsen,Bruma,1
+D. Upamecano,K. Laimer,1
+M. Sabitzer,K. Laimer,1
+J. Augustin,K. Laimer,1
+D. Demme,N. Ke\u00efta,1
+M. Sabitzer,Y. Poulsen,1
+D. Demme,K. Kampl,1
+D. Demme,T. Werner,1
+T. Werner,P. Gul\u00e1csi,1
+K. Kampl,M. Sabitzer,1
+W. Orban,P. Gul\u00e1csi,1
+T. Werner,D. Upamecano,1
+K. Kampl,N. Ke\u00efta,1
+D. Demme,D. Upamecano,1
+N. Ke\u00efta,D. Upamecano,1
+W. Orban,D. Upamecano,1
+Bernardo,T. Werner,1
+Y. Poulsen,Bernardo,1
+D. Upamecano,P. Gul\u00e1csi,1
+T. Werner,Y. Poulsen,1
+N. Ke\u00efta,T. Werner,1
+Y. Poulsen,T. Werner,1
+M. Sabitzer,T. Werner,1
+W. Orban,Bernardo,1
+Bernardo,Y. Poulsen,1
+N. Ke\u00efta,Bruma,1
+K. Kampl,Bernardo,1
+K. Kampl,W. Orban,1
+P. Gul\u00e1csi,K. Kampl,1
+T. Werner,N. Ke\u00efta,1
+Bruma,K. Kampl,1
+M. Sabitzer,Bernardo,1
+W. Orban,J. Augustin,1
+T. Werner,K. Kampl,1
+D. Upamecano,D. Demme,1
+J. Augustin,W. Orban,1
+Bernardo,D. Upamecano,1
+K. Laimer,J. Augustin,1
+Bernardo,W. Orban,1

@@ -1,0 +1,11 @@
+Source,Target,Weight
+E. Bourgaud,O. El Hajjam,2
+E. Bourgaud,G. Kakuta,2
+G. Kakuta,O. El Hajjam,1
+G. Kakuta,B. Dibassy,1
+O. El Hajjam,T. Monconduit,1
+O. El Hajjam,E. Bourgaud,1
+P. Gouano,E. Bourgaud,1
+G. Kakuta,P. Gouano,1
+B. Dibassy,G. Kakuta,1
+T. Monconduit,E. Bourgaud,1

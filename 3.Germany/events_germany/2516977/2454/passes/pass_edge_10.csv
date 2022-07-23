@@ -1,0 +1,14 @@
+Source,Target,Weight
+P. Herrmann,T. Hazard,3
+T. Hazard,J. Drmic,2
+T. Hazard,P. Herrmann,2
+Y. Sommer,P. Herrmann,2
+P. Herrmann,T. Jantschke,1
+J. Drmic,L. Stindl,1
+L. Stindl,Y. Sommer,1
+J. Drmic,N. Elvedi,1
+L. Stindl,T. Hazard,1
+T. Jantschke,Y. Sommer,1
+N. Elvedi,L. Stindl,1
+P. Herrmann,J. Hofmann,1
+J. Hofmann,P. Herrmann,1

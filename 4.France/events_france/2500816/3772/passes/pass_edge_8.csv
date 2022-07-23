@@ -1,0 +1,51 @@
+Source,Target,Weight
+Malcom,Y. Sabaly,4
+N. de Pr\u00e9ville,Y. Sabaly,4
+L. Lerager,Malcom,4
+L. Lerager,N. de Pr\u00e9ville,4
+N. de Pr\u00e9ville,L. Lerager,4
+Ot\u00e1vio,L. Lerager,3
+Y. Sabaly,Malcom,3
+L. Lerager,F. Kamano,2
+A. Mendy,N. de Pr\u00e9ville,2
+V. Jovanovi\u0107,Y. Sabaly,2
+T. Pellenard,J. Toulalan,2
+B. Costil,A. Mendy,2
+T. Pellenard,Ot\u00e1vio,2
+L. Lerager,V. Jovanovi\u0107,2
+Y. Sabaly,L. Lerager,2
+F. Kamano,Ot\u00e1vio,2
+F. Kamano,N. de Pr\u00e9ville,2
+J. Toulalan,V. Jovanovi\u0107,1
+J. Toulalan,Ot\u00e1vio,1
+Ot\u00e1vio,V. Jovanovi\u0107,1
+Y. Sabaly,T. Pellenard,1
+Y. Sabaly,B. Costil,1
+N. de Pr\u00e9ville,Malcom,1
+A. Mendy,Malcom,1
+V. Jovanovi\u0107,L. Lerager,1
+B. Costil,Ot\u00e1vio,1
+N. de Pr\u00e9ville,T. Pellenard,1
+F. Kamano,L. Lerager,1
+V. Jovanovi\u0107,F. Kamano,1
+A. Mendy,L. Lerager,1
+Malcom,B. Costil,1
+V. Jovanovi\u0107,B. Costil,1
+N. de Pr\u00e9ville,A. Mendy,1
+Y. Sabaly,J. Toulalan,1
+Y. Sabaly,V. Jovanovi\u0107,1
+Y. Sabaly,A. Mendy,1
+T. Pellenard,F. Kamano,1
+T. Pellenard,L. Lerager,1
+J. Toulalan,F. Kamano,1
+V. Jovanovi\u0107,N. de Pr\u00e9ville,1
+Malcom,T. Pellenard,1
+Malcom,A. Mendy,1
+Malcom,L. Lerager,1
+L. Lerager,T. Pellenard,1
+A. Mendy,V. Jovanovi\u0107,1
+Malcom,N. de Pr\u00e9ville,1
+Ot\u00e1vio,B. Costil,1
+Ot\u00e1vio,N. de Pr\u00e9ville,1
+B. Costil,T. Pellenard,1
+F. Kamano,T. Pellenard,1

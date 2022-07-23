@@ -1,0 +1,99 @@
+Source,Target,Weight
+Caiuby,D. Baier,7
+M. Hitz,Caiuby,5
+R. Khedira,Ja-Cheol Koo,5
+M. Hinteregger,M. Hitz,5
+M. Gregoritsch,P. Max,5
+M. Hitz,M. Gregoritsch,5
+Ja-Cheol Koo,D. Baier,5
+J. Schmid,G. Ka\u010dar,5
+Ja-Cheol Koo,R. Khedira,4
+P. Max,M. Hitz,4
+P. Max,M. Gregoritsch,4
+J. Schmid,M. Richter,4
+Ja-Cheol Koo,M. Richter,4
+R. Khedira,G. Ka\u010dar,4
+M. Richter,P. Max,3
+D. Baier,M. Hinteregger,3
+M. Richter,D. Baier,3
+G. Ka\u010dar,R. Khedira,3
+D. Baier,P. Max,3
+P. Max,Caiuby,3
+M. Hinteregger,M. Richter,3
+M. Hitz,M. Hinteregger,3
+M. Richter,Ja-Cheol Koo,3
+Caiuby,M. Hinteregger,3
+R. Khedira,Caiuby,3
+Ja-Cheol Koo,M. Hinteregger,3
+Caiuby,R. Khedira,3
+M. Gregoritsch,J. Schmid,3
+D. Baier,R. Khedira,3
+D. Baier,Caiuby,3
+M. Hinteregger,P. Max,3
+D. Baier,G. Ka\u010dar,3
+G. Ka\u010dar,J. Schmid,3
+D. Baier,Ja-Cheol Koo,3
+P. Max,D. Baier,3
+M. Richter,M. Hinteregger,2
+D. Baier,J. Schmid,2
+M. Gregoritsch,R. Khedira,2
+M. Hinteregger,D. Baier,2
+R. Khedira,M. Gregoritsch,2
+M. Hinteregger,C. Janker,2
+M. Heller,Ja-Cheol Koo,2
+Caiuby,Ja-Cheol Koo,2
+G. Ka\u010dar,M. Hinteregger,2
+G. Ka\u010dar,M. Hitz,2
+M. Hinteregger,R. Khedira,2
+R. Khedira,P. Max,2
+Caiuby,P. Max,2
+M. Hinteregger,M. Gregoritsch,2
+M. Richter,J. Schmid,2
+G. Ka\u010dar,Ja-Cheol Koo,1
+R. Khedira,M. Hinteregger,1
+M. Richter,R. Khedira,1
+C. Janker,M. Heller,1
+G. Ka\u010dar,D. Baier,1
+M. Gregoritsch,Ja-Cheol Koo,1
+Ja-Cheol Koo,J. Schmid,1
+Ja-Cheol Koo,M. Gregoritsch,1
+Caiuby,G. Ka\u010dar,1
+P. Max,R. Khedira,1
+J. Schmid,R. Khedira,1
+D. Baier,M. Gregoritsch,1
+J. Schmid,M. Hitz,1
+M. Gregoritsch,M. Heller,1
+M. Heller,Caiuby,1
+M. Hitz,J. Schmid,1
+M. Gregoritsch,M. Hinteregger,1
+M. Gregoritsch,M. Richter,1
+Caiuby,M. Gregoritsch,1
+G. Ka\u010dar,P. Max,1
+R. Khedira,M. Richter,1
+P. Max,C. Janker,1
+Ja-Cheol Koo,Caiuby,1
+P. Max,M. Richter,1
+M. Gregoritsch,G. Ka\u010dar,1
+D. Baier,M. Hitz,1
+R. Khedira,M. Hitz,1
+R. Khedira,J. Schmid,1
+P. Max,M. Hinteregger,1
+J. Schmid,D. Baier,1
+C. Janker,R. Khedira,1
+J. Schmid,Ja-Cheol Koo,1
+Ja-Cheol Koo,M. Hitz,1
+G. Ka\u010dar,Caiuby,1
+P. Max,Ja-Cheol Koo,1
+G. Ka\u010dar,M. Heller,1
+D. Baier,M. Richter,1
+J. Schmid,M. Hinteregger,1
+Caiuby,M. Richter,1
+P. Max,J. Schmid,1
+R. Khedira,D. Baier,1
+M. Richter,Caiuby,1
+C. Janker,Ja-Cheol Koo,1
+Ja-Cheol Koo,P. Max,1
+M. Hitz,Ja-Cheol Koo,1
+M. Richter,G. Ka\u010dar,1
+M. Gregoritsch,Caiuby,1
+M. Hinteregger,Caiuby,1

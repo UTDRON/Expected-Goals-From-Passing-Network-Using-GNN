@@ -1,0 +1,79 @@
+Source,Target,Weight
+Wendell,S. Bender,6
+S. Bender,Wendell,5
+C. Ar\u00e1nguiz,L. Bailey,5
+J. Brandt,Wendell,4
+Wendell,J. Brandt,4
+J. Tah,S. Bender,4
+K. Havertz,C. Ar\u00e1nguiz,4
+C. Ar\u00e1nguiz,S. Bender,4
+S. Bender,C. Ar\u00e1nguiz,4
+J. Baumgartlinger,C. Ar\u00e1nguiz,3
+C. Ar\u00e1nguiz,J. Brandt,3
+C. Ar\u00e1nguiz,K. Havertz,3
+K. Havertz,J. Baumgartlinger,3
+J. Brandt,C. Ar\u00e1nguiz,3
+J. Baumgartlinger,P. Retsos,3
+S. Bender,J. Tah,3
+K. Havertz,L. Bailey,3
+L. Bailey,K. Havertz,3
+C. Ar\u00e1nguiz,Wendell,3
+Wendell,K. Havertz,3
+L. Bailey,C. Ar\u00e1nguiz,2
+S. Bender,J. Brandt,2
+C. Ar\u00e1nguiz,J. Tah,2
+Wendell,C. Ar\u00e1nguiz,2
+P. Retsos,J. Tah,2
+J. Brandt,S. Bender,2
+J. Tah,B. Leno,2
+K. Havertz,Wendell,2
+C. Ar\u00e1nguiz,J. Baumgartlinger,2
+P. Retsos,C. Ar\u00e1nguiz,2
+J. Baumgartlinger,L. Bailey,2
+J. Tah,C. Ar\u00e1nguiz,2
+L. Bailey,J. Tah,2
+S. Bender,J. Baumgartlinger,2
+K. Havertz,P. Retsos,2
+L. Bailey,Wendell,2
+J. Tah,K. Havertz,2
+J. Brandt,K. Havertz,2
+B. Leno,K. Havertz,1
+J. Baumgartlinger,D. Kohr,1
+K. Havertz,J. Tah,1
+J. Brandt,B. Henrichs,1
+K. Volland,S. Kie\u00dfling,1
+S. Kie\u00dfling,J. Tah,1
+P. Retsos,K. Havertz,1
+J. Baumgartlinger,J. Tah,1
+S. Kie\u00dfling,J. Brandt,1
+Wendell,J. Tah,1
+K. Havertz,B. Henrichs,1
+J. Tah,Wendell,1
+B. Leno,S. Bender,1
+Wendell,K. Volland,1
+B. Henrichs,S. Kie\u00dfling,1
+J. Tah,L. Bailey,1
+C. Ar\u00e1nguiz,P. Retsos,1
+K. Volland,Wendell,1
+J. Baumgartlinger,J. Brandt,1
+D. Kohr,C. Ar\u00e1nguiz,1
+S. Kie\u00dfling,K. Havertz,1
+L. Bailey,B. Henrichs,1
+L. Bailey,K. Volland,1
+J. Tah,J. Brandt,1
+C. Ar\u00e1nguiz,S. Kie\u00dfling,1
+L. Bailey,J. Baumgartlinger,1
+L. Bailey,J. Brandt,1
+B. Henrichs,C. Ar\u00e1nguiz,1
+K. Volland,C. Ar\u00e1nguiz,1
+J. Tah,J. Baumgartlinger,1
+K. Volland,J. Tah,1
+C. Ar\u00e1nguiz,K. Volland,1
+S. Bender,S. Kie\u00dfling,1
+D. Kohr,L. Bailey,1
+J. Brandt,J. Baumgartlinger,1
+P. Retsos,L. Bailey,1
+Wendell,D. Kohr,1
+S. Kie\u00dfling,K. Volland,1
+P. Retsos,J. Baumgartlinger,1
+L. Bailey,P. Retsos,1

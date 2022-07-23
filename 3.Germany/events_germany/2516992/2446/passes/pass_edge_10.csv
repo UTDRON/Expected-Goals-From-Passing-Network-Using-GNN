@@ -1,0 +1,50 @@
+Source,Target,Weight
+L. Bender,K. Havertz,3
+K. Volland,L. Bender,3
+B. Henrichs,K. Havertz,3
+K. Havertz,K. Volland,3
+J. Baumgartlinger,C. Ar\u00e1nguiz,3
+C. Ar\u00e1nguiz,J. Baumgartlinger,2
+K. Havertz,P. Retsos,2
+J. Brandt,K. Havertz,2
+B. Leno,K. Havertz,2
+C. Ar\u00e1nguiz,J. Brandt,2
+K. Havertz,C. Ar\u00e1nguiz,2
+P. Retsos,B. Henrichs,1
+B. Henrichs,K. Volland,1
+K. Havertz,J. Baumgartlinger,1
+C. Ar\u00e1nguiz,K. Volland,1
+K. Havertz,L. Bender,1
+P. Retsos,J. Brandt,1
+L. Bender,P. Retsos,1
+C. Ar\u00e1nguiz,K. Havertz,1
+C. Ar\u00e1nguiz,L. Bailey,1
+L. Bailey,C. Ar\u00e1nguiz,1
+K. Volland,Wendell,1
+J. Brandt,K. Volland,1
+B. Leno,L. Bender,1
+Wendell,L. Bender,1
+J. Brandt,C. Ar\u00e1nguiz,1
+K. Volland,J. Brandt,1
+C. Ar\u00e1nguiz,L. Bender,1
+P. Retsos,L. Bender,1
+L. Bender,K. Volland,1
+J. Tah,B. Henrichs,1
+J. Baumgartlinger,P. Retsos,1
+B. Henrichs,J. Baumgartlinger,1
+K. Havertz,J. Brandt,1
+P. Retsos,Wendell,1
+L. Bailey,B. Henrichs,1
+J. Brandt,B. Henrichs,1
+L. Bender,B. Leno,1
+P. Retsos,C. Ar\u00e1nguiz,1
+K. Volland,L. Bailey,1
+B. Henrichs,L. Bailey,1
+J. Baumgartlinger,J. Brandt,1
+K. Havertz,J. Tah,1
+Wendell,B. Leno,1
+L. Bender,B. Henrichs,1
+L. Bailey,J. Baumgartlinger,1
+L. Bender,J. Baumgartlinger,1
+J. Brandt,P. Retsos,1
+J. Baumgartlinger,B. Henrichs,1

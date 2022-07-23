@@ -1,0 +1,91 @@
+Source,Target,Weight
+A. Abdennour,G. Sertic,7
+A. Rami,S. Mandanda,5
+B. Sarr,A. Rami,4
+G. Sertic,A. Abdennour,4
+G. Sertic,D. Payet,4
+A. Rami,A. Abdennour,4
+G. Sertic,A. Rami,4
+D. Payet,F. Thauvin,4
+A. Rami,G. Sertic,3
+A. Rami,B. Sarr,3
+V. Germain,A. Rami,3
+B. Sarr,A. Zambo Anguissa,3
+D. Payet,M. Lopez,3
+M. Sanson,P. Evra,3
+B. Sarr,G. Sertic,3
+G. Sertic,M. Sanson,3
+M. Sanson,G. Sertic,3
+P. Evra,G. Sertic,3
+P. Evra,A. Abdennour,3
+A. Abdennour,P. Evra,3
+G. Sertic,P. Evra,3
+D. Payet,B. Sarr,3
+A. Zambo Anguissa,A. Rami,3
+A. Rami,M. Sanson,2
+A. Zambo Anguissa,D. Payet,2
+A. Abdennour,A. Zambo Anguissa,2
+A. Abdennour,S. Mandanda,2
+P. Evra,M. Sanson,2
+A. Zambo Anguissa,A. Abdennour,2
+G. Sertic,A. Zambo Anguissa,2
+A. Abdennour,D. Payet,2
+B. Sarr,D. Payet,2
+S. Mandanda,P. Evra,2
+P. Evra,A. Zambo Anguissa,2
+S. Mandanda,V. Germain,2
+M. Lopez,F. Thauvin,2
+F. Thauvin,D. Payet,2
+G. Sertic,M. Lopez,2
+S. Mandanda,B. Sarr,2
+A. Zambo Anguissa,B. Sarr,2
+F. Thauvin,A. Rami,2
+M. Sanson,M. Lopez,2
+G. Sertic,V. Germain,2
+F. Thauvin,B. Sarr,2
+S. Mandanda,A. Rami,2
+P. Evra,D. Payet,2
+M. Lopez,S. Mandanda,2
+M. Lopez,A. Abdennour,1
+A. Rami,P. Evra,1
+A. Rami,V. Germain,1
+D. Payet,A. Abdennour,1
+V. Germain,P. Evra,1
+P. Evra,A. Rami,1
+F. Thauvin,A. Abdennour,1
+M. Lopez,D. Payet,1
+V. Germain,G. Sertic,1
+A. Abdennour,M. Lopez,1
+V. Germain,A. Zambo Anguissa,1
+A. Zambo Anguissa,P. Evra,1
+A. Abdennour,A. Rami,1
+S. Mandanda,G. Sertic,1
+B. Sarr,M. Sanson,1
+P. Evra,F. Thauvin,1
+M. Lopez,P. Evra,1
+M. Sanson,F. Thauvin,1
+B. Sarr,M. Lopez,1
+V. Germain,A. Abdennour,1
+M. Lopez,M. Sanson,1
+S. Mandanda,M. Sanson,1
+V. Germain,F. Thauvin,1
+M. Lopez,B. Sarr,1
+D. Payet,A. Rami,1
+A. Rami,M. Lopez,1
+M. Sanson,V. Germain,1
+F. Thauvin,M. Lopez,1
+D. Payet,M. Sanson,1
+A. Rami,F. Thauvin,1
+M. Lopez,G. Sertic,1
+P. Evra,S. Mandanda,1
+M. Lopez,V. Germain,1
+V. Germain,D. Payet,1
+D. Payet,P. Evra,1
+G. Sertic,B. Sarr,1
+D. Payet,V. Germain,1
+M. Sanson,D. Payet,1
+P. Evra,V. Germain,1
+A. Zambo Anguissa,G. Sertic,1
+D. Payet,A. Zambo Anguissa,1
+D. Payet,G. Sertic,1
+F. Thauvin,G. Sertic,1

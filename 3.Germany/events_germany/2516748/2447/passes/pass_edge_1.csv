@@ -1,0 +1,65 @@
+Source,Target,Weight
+S. Papastathopoulos,Bartra,13
+Bartra,D. Zagadou,12
+Bartra,S. Papastathopoulos,11
+S. Papastathopoulos,\u0141. Piszczek,7
+D. Zagadou,Bartra,6
+\u0141. Piszczek,S. Papastathopoulos,5
+R. B\u00fcrki,S. Papastathopoulos,5
+\u0141. Piszczek,C. Pulisic,5
+D. Zagadou,M. G\u00f6tze,5
+M. G\u00f6tze,D. Zagadou,4
+G. Castro,S. Papastathopoulos,4
+S. Papastathopoulos,G. Castro,3
+M. Philipp,P. Aubameyang,3
+N. \u015eahin,\u0141. Piszczek,3
+S. Papastathopoulos,R. B\u00fcrki,3
+D. Zagadou,S. Papastathopoulos,2
+C. Pulisic,N. \u015eahin,2
+D. Zagadou,M. Philipp,2
+\u0141. Piszczek,Bartra,2
+N. \u015eahin,M. G\u00f6tze,2
+P. Aubameyang,D. Zagadou,2
+D. Zagadou,R. B\u00fcrki,2
+G. Castro,N. \u015eahin,2
+Bartra,M. G\u00f6tze,2
+M. G\u00f6tze,N. \u015eahin,2
+N. \u015eahin,Bartra,2
+Bartra,N. \u015eahin,2
+C. Pulisic,\u0141. Piszczek,2
+D. Zagadou,N. \u015eahin,2
+C. Pulisic,G. Castro,2
+M. Philipp,Bartra,1
+G. Castro,C. Pulisic,1
+R. B\u00fcrki,Bartra,1
+S. Papastathopoulos,M. G\u00f6tze,1
+\u0141. Piszczek,G. Castro,1
+G. Castro,D. Zagadou,1
+P. Aubameyang,Bartra,1
+D. Zagadou,P. Aubameyang,1
+G. Castro,P. Aubameyang,1
+G. Castro,Bartra,1
+D. Zagadou,G. Castro,1
+P. Aubameyang,C. Pulisic,1
+Bartra,G. Castro,1
+N. \u015eahin,D. Zagadou,1
+M. G\u00f6tze,G. Castro,1
+\u0141. Piszczek,R. B\u00fcrki,1
+D. Zagadou,\u0141. Piszczek,1
+S. Papastathopoulos,D. Zagadou,1
+Bartra,M. Philipp,1
+M. G\u00f6tze,Bartra,1
+R. B\u00fcrki,D. Zagadou,1
+M. G\u00f6tze,S. Papastathopoulos,1
+N. \u015eahin,S. Papastathopoulos,1
+S. Papastathopoulos,N. \u015eahin,1
+M. Philipp,M. G\u00f6tze,1
+N. \u015eahin,M. Philipp,1
+P. Aubameyang,G. Castro,1
+N. \u015eahin,R. B\u00fcrki,1
+P. Aubameyang,\u0141. Piszczek,1
+M. Philipp,N. \u015eahin,1
+C. Pulisic,Bartra,1
+M. G\u00f6tze,M. Philipp,1
+C. Pulisic,M. Philipp,1
+M. G\u00f6tze,C. Pulisic,1

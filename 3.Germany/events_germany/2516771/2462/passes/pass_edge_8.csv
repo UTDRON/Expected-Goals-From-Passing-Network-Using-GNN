@@ -1,0 +1,82 @@
+Source,Target,Weight
+C. Salcedo,D. Abraham,5
+J. Willems,M. Ga\u0107inovi\u0107,4
+S. Falette,J. Willems,4
+S. Haller,J. de Guzm\u00e1n,3
+S. Falette,K. Boateng,3
+C. Salcedo,T. Chandler,3
+M. Hasebe,K. Boateng,3
+M. Ga\u0107inovi\u0107,J. de Guzm\u00e1n,3
+S. Falette,M. Hasebe,3
+K. Boateng,M. Hasebe,3
+D. Abraham,S. Falette,3
+K. Boateng,T. Chandler,3
+J. de Guzm\u00e1n,S. Falette,3
+T. Chandler,J. de Guzm\u00e1n,3
+D. Abraham,C. Salcedo,3
+M. Hasebe,J. Willems,3
+J. Willems,S. Haller,3
+J. Willems,S. Falette,3
+M. Hasebe,C. Salcedo,3
+J. de Guzm\u00e1n,T. Chandler,2
+K. Boateng,J. Willems,2
+D. Abraham,T. Chandler,2
+J. de Guzm\u00e1n,J. Willems,2
+S. Falette,D. Abraham,2
+J. de Guzm\u00e1n,M. Ga\u0107inovi\u0107,2
+J. Willems,M. Hasebe,2
+J. de Guzm\u00e1n,M. Hasebe,2
+M. Hasebe,D. Abraham,2
+J. Willems,K. Boateng,2
+C. Salcedo,J. de Guzm\u00e1n,2
+T. Chandler,D. Abraham,2
+S. Haller,J. Willems,2
+J. de Guzm\u00e1n,D. Abraham,2
+D. Abraham,M. Hasebe,2
+T. Chandler,M. Ga\u0107inovi\u0107,2
+M. Hasebe,S. Falette,2
+L. Hradecky,C. Salcedo,2
+S. Haller,S. Falette,2
+C. Salcedo,M. Hasebe,2
+M. Ga\u0107inovi\u0107,J. Willems,2
+K. Boateng,J. de Guzm\u00e1n,2
+S. Haller,K. Boateng,2
+J. Willems,C. Salcedo,2
+D. Abraham,J. Willems,2
+J. de Guzm\u00e1n,S. Haller,2
+T. Chandler,M. Hasebe,2
+K. Boateng,S. Haller,1
+C. Salcedo,S. Haller,1
+L. Hradecky,S. Haller,1
+D. Abraham,L. Hradecky,1
+M. Hasebe,J. de Guzm\u00e1n,1
+T. Chandler,S. Haller,1
+M. Hasebe,L. Hradecky,1
+J. Willems,J. de Guzm\u00e1n,1
+D. Abraham,J. de Guzm\u00e1n,1
+J. de Guzm\u00e1n,C. Salcedo,1
+M. Ga\u0107inovi\u0107,M. Hasebe,1
+M. Ga\u0107inovi\u0107,T. Chandler,1
+T. Chandler,C. Salcedo,1
+K. Boateng,D. Abraham,1
+M. Hasebe,T. Chandler,1
+D. Abraham,S. Haller,1
+C. Salcedo,K. Boateng,1
+T. Chandler,K. Boateng,1
+K. Boateng,M. Ga\u0107inovi\u0107,1
+M. Ga\u0107inovi\u0107,C. Salcedo,1
+D. Abraham,K. Boateng,1
+J. de Guzm\u00e1n,K. Boateng,1
+M. Ga\u0107inovi\u0107,D. Abraham,1
+T. Chandler,S. Falette,1
+S. Falette,J. de Guzm\u00e1n,1
+S. Haller,T. Chandler,1
+T. Chandler,L. Hradecky,1
+J. Willems,D. Abraham,1
+M. Ga\u0107inovi\u0107,K. Boateng,1
+S. Falette,T. Chandler,1
+S. Falette,C. Salcedo,1
+M. Ga\u0107inovi\u0107,S. Falette,1
+M. Hasebe,M. Ga\u0107inovi\u0107,1
+C. Salcedo,J. Willems,1
+K. Boateng,C. Salcedo,1

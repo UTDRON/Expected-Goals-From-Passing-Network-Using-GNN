@@ -1,0 +1,75 @@
+Source,Target,Weight
+P. Burner,Marlon,9
+A. Tameze,Marlon,8
+Marlon,A. Tameze,7
+Marlon,P. Burner,6
+J. Seri,P. Burner,6
+M. Le Marchand,J. Seri,6
+Marlon,B. Srarfi,5
+M. Sarr,Marlon,5
+M. Sarr,A. Tameze,5
+B. Srarfi,P. Burner,5
+A. Saint-Maximin,M. Sarr,4
+J. Seri,Marlon,4
+J. Seri,A. Tameze,4
+M. Sarr,A. Saint-Maximin,4
+J. Seri,B. Srarfi,4
+M. Le Marchand,M. Sarr,4
+A. Tameze,M. Sarr,4
+Marlon,J. Seri,4
+B. Srarfi,M. Le Marchand,4
+A. Pl\u00e9a,J. Seri,3
+P. Burner,J. Seri,3
+P. Burner,A. Saint-Maximin,3
+B. Srarfi,A. Tameze,3
+P. Lees Melou,M. Le Marchand,3
+A. Tameze,J. Seri,3
+A. Saint-Maximin,M. Le Marchand,3
+Marlon,M. Sarr,3
+M. Le Marchand,A. Saint-Maximin,3
+B. Srarfi,P. Lees Melou,3
+P. Lees Melou,Marlon,3
+J. Seri,P. Lees Melou,2
+P. Lees Melou,M. Sarr,2
+A. Saint-Maximin,J. Seri,2
+P. Burner,P. Lees Melou,2
+J. Seri,A. Pl\u00e9a,2
+A. Tameze,M. Le Marchand,2
+A. Pl\u00e9a,A. Saint-Maximin,2
+M. Sarr,M. Le Marchand,2
+M. Le Marchand,B. Srarfi,2
+P. Lees Melou,J. Seri,2
+A. Tameze,W. Ben\u00edtez,2
+P. Burner,M. Le Marchand,2
+A. Saint-Maximin,P. Burner,2
+M. Sarr,B. Srarfi,2
+Marlon,P. Lees Melou,2
+A. Saint-Maximin,P. Lees Melou,2
+Marlon,A. Saint-Maximin,1
+A. Tameze,P. Burner,1
+W. Ben\u00edtez,M. Le Marchand,1
+P. Burner,W. Ben\u00edtez,1
+P. Lees Melou,A. Saint-Maximin,1
+W. Ben\u00edtez,M. Sarr,1
+A. Pl\u00e9a,B. Srarfi,1
+B. Srarfi,Marlon,1
+P. Burner,M. Sarr,1
+W. Ben\u00edtez,A. Tameze,1
+A. Saint-Maximin,B. Srarfi,1
+J. Seri,M. Sarr,1
+J. Seri,M. Le Marchand,1
+M. Sarr,A. Pl\u00e9a,1
+Marlon,A. Pl\u00e9a,1
+P. Lees Melou,B. Srarfi,1
+B. Srarfi,J. Seri,1
+M. Le Marchand,P. Burner,1
+A. Tameze,A. Pl\u00e9a,1
+M. Le Marchand,A. Pl\u00e9a,1
+P. Lees Melou,P. Burner,1
+W. Ben\u00edtez,P. Lees Melou,1
+M. Le Marchand,P. Lees Melou,1
+M. Sarr,P. Lees Melou,1
+M. Le Marchand,A. Tameze,1
+B. Srarfi,W. Ben\u00edtez,1
+P. Burner,B. Srarfi,1
+Marlon,M. Le Marchand,1

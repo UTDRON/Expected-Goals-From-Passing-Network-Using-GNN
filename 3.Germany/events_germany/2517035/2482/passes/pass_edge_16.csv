@@ -1,0 +1,22 @@
+Source,Target,Weight
+F. Grillitsch,N. Amiri,3
+N. Schulz,N. Amiri,2
+R. Hack,A. Kramari\u0107,2
+\u00c1. Szalai,M. Uth,2
+N. Amiri,F. Grillitsch,2
+M. Uth,R. Hack,2
+A. Kramari\u0107,R. Hack,2
+K. Akpoguma,K. Vogt,2
+R. Zulj,K. Akpoguma,1
+R. Hack,\u00c1. Szalai,1
+N. Amiri,A. Kramari\u0107,1
+A. Kramari\u0107,N. Schulz,1
+K. Akpoguma,F. Grillitsch,1
+K. Vogt,R. Hack,1
+K. Vogt,N. Schulz,1
+A. Kramari\u0107,\u00c1. Szalai,1
+R. Hack,M. Uth,1
+M. Uth,K. Vogt,1
+K. Vogt,K. Akpoguma,1
+N. Amiri,K. Akpoguma,1
+R. Hack,R. Zulj,1

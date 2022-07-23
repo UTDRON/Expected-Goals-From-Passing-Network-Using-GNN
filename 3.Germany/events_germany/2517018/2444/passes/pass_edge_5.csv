@@ -1,0 +1,78 @@
+Source,Target,Weight
+Rafinha,L. Mai,6
+S. Rudy,M. Hummels,5
+Rafinha,M. Shabani,4
+Rafinha,M. Hummels,4
+S. Rudy,Rafinha,4
+M. Hummels,S. Rudy,4
+C. Tolisso,Rafinha,4
+Rafinha,C. Tolisso,4
+L. Mai,Rafinha,4
+Thiago Alc\u00e2ntara,N. Dorsch,3
+L. Mai,S. Ulreich,3
+N. Dorsch,C. Tolisso,3
+S. Ulreich,Rafinha,2
+F. Evina,Juan Bernat,2
+M. Hummels,Rafinha,2
+M. Hummels,S. Ulreich,2
+Juan Bernat,S. Rudy,2
+Juan Bernat,M. Hummels,2
+M. Shabani,S. Rudy,2
+M. Hummels,S. Wagner,2
+N. Dorsch,Juan Bernat,2
+M. Hummels,Thiago Alc\u00e2ntara,2
+M. Hummels,Juan Bernat,2
+Juan Bernat,N. Dorsch,2
+M. Hummels,N. Dorsch,2
+S. Ulreich,M. Hummels,2
+S. Ulreich,S. Rudy,2
+N. Dorsch,S. Rudy,2
+S. Rudy,N. Dorsch,2
+S. Wagner,M. Hummels,2
+Juan Bernat,S. Wagner,2
+M. Shabani,L. Mai,2
+C. Tolisso,S. Rudy,2
+S. Rudy,S. Ulreich,2
+S. Wagner,F. Evina,2
+S. Wagner,Juan Bernat,1
+S. Ulreich,M. Shabani,1
+Thiago Alc\u00e2ntara,S. Wagner,1
+M. Shabani,J. Kimmich,1
+S. Rudy,Thiago Alc\u00e2ntara,1
+S. Rudy,M. Shabani,1
+M. Shabani,M. Hummels,1
+Thiago Alc\u00e2ntara,S. Rudy,1
+M. Hummels,L. Mai,1
+S. Rudy,Juan Bernat,1
+S. Wagner,Thiago Alc\u00e2ntara,1
+N. Dorsch,S. Wagner,1
+L. Mai,M. Hummels,1
+S. Rudy,J. Kimmich,1
+L. Mai,M. Shabani,1
+J. Kimmich,L. Mai,1
+N. Dorsch,M. Shabani,1
+N. Dorsch,Thiago Alc\u00e2ntara,1
+S. Wagner,M. Shabani,1
+L. Mai,Juan Bernat,1
+F. Evina,N. Dorsch,1
+C. Tolisso,Thiago Alc\u00e2ntara,1
+L. Mai,F. Evina,1
+N. Dorsch,L. Mai,1
+M. Shabani,Rafinha,1
+L. Mai,S. Rudy,1
+C. Tolisso,N. Dorsch,1
+L. Mai,C. Tolisso,1
+S. Wagner,C. Tolisso,1
+Thiago Alc\u00e2ntara,L. Mai,1
+F. Evina,Rafinha,1
+Juan Bernat,Thiago Alc\u00e2ntara,1
+Juan Bernat,F. Evina,1
+M. Shabani,S. Wagner,1
+S. Wagner,S. Rudy,1
+S. Rudy,S. Wagner,1
+M. Hummels,F. Evina,1
+S. Ulreich,L. Mai,1
+C. Tolisso,S. Wagner,1
+J. Kimmich,S. Rudy,1
+F. Evina,S. Ulreich,1
+M. Shabani,Juan Bernat,1

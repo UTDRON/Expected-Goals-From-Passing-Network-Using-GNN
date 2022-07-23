@@ -1,0 +1,91 @@
+Source,Target,Weight
+I. Diop,C. Jullien,14
+C. Jullien,I. Diop,13
+A. Blin,G. Imbula,9
+I. Sangar\u00e9,G. Imbula,9
+G. Imbula,A. Blin,8
+I. Sangar\u00e9,A. Blin,8
+F. Moubandje,C. Jullien,8
+C. Jullien,A. Blin,8
+G. Imbula,I. Sangar\u00e9,8
+G. Imbula,C. Jullien,7
+A. Blin,I. Diop,7
+C. Jullien,F. Moubandje,7
+F. Moubandje,G. Imbula,7
+I. Sangar\u00e9,Som\u00e1lia,6
+I. Diop,G. Imbula,6
+G. Imbula,I. Diop,6
+K. Amian,I. Sangar\u00e9,6
+I. Sylla,F. Moubandje,5
+Som\u00e1lia,K. Amian,5
+A. Lafont,I. Diop,5
+F. Moubandje,I. Sylla,5
+Som\u00e1lia,C. Jullien,5
+C. Jullien,A. Lafont,5
+Som\u00e1lia,G. Imbula,5
+K. Amian,I. Diop,4
+I. Sylla,C. Jullien,4
+C. Jullien,I. Sangar\u00e9,4
+I. Diop,A. Blin,4
+A. Delort,I. Sylla,4
+A. Blin,C. Jullien,4
+K. Amian,A. Blin,4
+A. Delort,K. Amian,4
+F. Moubandje,I. Sangar\u00e9,4
+A. Blin,F. Moubandje,4
+G. Imbula,Som\u00e1lia,4
+C. Jullien,G. Imbula,3
+I. Diop,F. Moubandje,3
+G. Imbula,F. Moubandje,3
+I. Diop,I. Sangar\u00e9,3
+G. Imbula,I. Sylla,3
+I. Sangar\u00e9,K. Amian,3
+Som\u00e1lia,I. Sangar\u00e9,3
+I. Sangar\u00e9,F. Moubandje,3
+I. Sylla,A. Delort,3
+A. Blin,I. Sylla,3
+A. Blin,K. Amian,3
+C. Jullien,I. Sylla,3
+G. Imbula,A. Delort,3
+K. Amian,Som\u00e1lia,3
+I. Diop,K. Amian,3
+K. Amian,C. Jullien,3
+C. Jullien,K. Amian,2
+A. Lafont,I. Sangar\u00e9,2
+I. Sangar\u00e9,I. Diop,2
+A. Delort,F. Moubandje,2
+K. Amian,G. Imbula,2
+C. Jullien,Som\u00e1lia,2
+K. Amian,A. Delort,2
+I. Diop,Som\u00e1lia,2
+Som\u00e1lia,A. Delort,2
+I. Diop,A. Lafont,2
+I. Sylla,I. Diop,2
+A. Blin,I. Sangar\u00e9,2
+A. Blin,A. Delort,2
+I. Sylla,Som\u00e1lia,2
+F. Moubandje,Som\u00e1lia,2
+A. Delort,Som\u00e1lia,2
+I. Sylla,A. Blin,2
+F. Moubandje,A. Lafont,2
+A. Lafont,K. Amian,2
+A. Lafont,F. Moubandje,2
+Som\u00e1lia,A. Lafont,1
+A. Delort,I. Diop,1
+I. Sylla,I. Sangar\u00e9,1
+A. Blin,A. Lafont,1
+I. Sylla,G. Imbula,1
+I. Diop,I. Sylla,1
+G. Imbula,K. Amian,1
+G. Imbula,A. Lafont,1
+A. Lafont,G. Imbula,1
+Som\u00e1lia,I. Sylla,1
+Som\u00e1lia,A. Blin,1
+A. Lafont,C. Jullien,1
+A. Delort,I. Sangar\u00e9,1
+I. Sylla,K. Amian,1
+I. Diop,A. Delort,1
+F. Moubandje,A. Delort,1
+I. Sangar\u00e9,A. Lafont,1
+I. Sangar\u00e9,C. Jullien,1
+I. Sangar\u00e9,I. Sylla,1

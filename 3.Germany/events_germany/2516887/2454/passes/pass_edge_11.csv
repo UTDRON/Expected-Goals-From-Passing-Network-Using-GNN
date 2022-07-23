@@ -1,0 +1,31 @@
+Source,Target,Weight
+T. Jantschke,L. Stindl,3
+L. Stindl,T. Hazard,2
+T. Hazard,M. Ginter,1
+M. Ginter,M. Cuisance,1
+T. Hazard,T. Jantschke,1
+L. Stindl,M. Cuisance,1
+Y. Sommer,L. Stindl,1
+T. Hazard,Raffael,1
+R. Oxford,M. Ginter,1
+M. Cuisance,J. Vestergaard,1
+R. Oxford,L. Stindl,1
+M. Cuisance,V. Grifo,1
+Raffael,M. Cuisance,1
+T. Hazard,R. Oxford,1
+M. Ginter,R. Oxford,1
+R. Oxford,T. Hazard,1
+R. Oxford,Y. Sommer,1
+L. Stindl,Raffael,1
+T. Jantschke,M. Cuisance,1
+M. Ginter,T. Jantschke,1
+T. Jantschke,R. Oxford,1
+M. Cuisance,O. Wendt,1
+M. Cuisance,T. Hazard,1
+L. Stindl,M. Ginter,1
+O. Wendt,V. Grifo,1
+V. Grifo,T. Jantschke,1
+J. Vestergaard,T. Jantschke,1
+V. Grifo,M. Cuisance,1
+L. Stindl,T. Jantschke,1
+M. Cuisance,L. Stindl,1

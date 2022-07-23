@@ -1,0 +1,90 @@
+Source,Target,Weight
+A. Abdennour,A. Rami,14
+H. Sakai,A. Rami,13
+A. Rami,A. Abdennour,12
+A. Abdennour,J. Amavi,11
+J. Amavi,A. Abdennour,11
+A. Zambo Anguissa,A. Rami,10
+A. Rami,J. Amavi,9
+A. Rami,H. Sakai,8
+D. Payet,A. Zambo Anguissa,8
+A. Zambo Anguissa,F. Thauvin,8
+Luiz Gustavo,A. Zambo Anguissa,8
+A. Zambo Anguissa,Luiz Gustavo,8
+A. Rami,A. Zambo Anguissa,8
+J. Amavi,Luiz Gustavo,8
+Luiz Gustavo,A. Abdennour,7
+D. Payet,Luiz Gustavo,7
+J. Amavi,D. Payet,7
+H. Sakai,F. Thauvin,7
+M. Sanson,D. Payet,6
+F. Thauvin,H. Sakai,6
+Luiz Gustavo,D. Payet,6
+A. Zambo Anguissa,H. Sakai,5
+A. Rami,D. Payet,5
+H. Sakai,A. Zambo Anguissa,5
+A. Rami,Luiz Gustavo,5
+Luiz Gustavo,J. Amavi,5
+A. Zambo Anguissa,M. Sanson,5
+M. Sanson,A. Zambo Anguissa,4
+V. Germain,H. Sakai,4
+J. Amavi,M. Sanson,4
+M. Sanson,H. Sakai,4
+J. Amavi,A. Zambo Anguissa,4
+M. Sanson,A. Rami,4
+F. Thauvin,A. Zambo Anguissa,4
+D. Payet,F. Thauvin,4
+Luiz Gustavo,A. Rami,4
+H. Sakai,D. Payet,4
+A. Abdennour,H. Sakai,3
+Luiz Gustavo,H. Sakai,3
+D. Payet,H. Sakai,3
+F. Thauvin,A. Rami,3
+F. Thauvin,V. Germain,3
+A. Zambo Anguissa,A. Abdennour,3
+A. Abdennour,M. Sanson,3
+D. Payet,A. Rami,3
+F. Thauvin,M. Sanson,3
+A. Abdennour,Luiz Gustavo,3
+A. Rami,M. Sanson,3
+D. Payet,M. Sanson,3
+M. Sanson,J. Amavi,3
+F. Thauvin,D. Payet,2
+D. Payet,V. Germain,2
+S. Mandanda,H. Sakai,2
+F. Thauvin,J. Amavi,2
+H. Sakai,V. Germain,2
+A. Zambo Anguissa,J. Amavi,2
+J. Amavi,F. Thauvin,2
+S. Mandanda,A. Abdennour,2
+V. Germain,J. Amavi,2
+H. Sakai,Luiz Gustavo,2
+V. Germain,D. Payet,2
+A. Abdennour,S. Mandanda,2
+A. Zambo Anguissa,D. Payet,2
+S. Mandanda,Luiz Gustavo,2
+D. Payet,J. Amavi,2
+H. Sakai,M. Sanson,2
+D. Payet,S. Mandanda,2
+Luiz Gustavo,M. Sanson,1
+A. Abdennour,A. Zambo Anguissa,1
+V. Germain,F. Thauvin,1
+F. Thauvin,A. Abdennour,1
+M. Sanson,F. Thauvin,1
+J. Amavi,V. Germain,1
+D. Payet,A. Abdennour,1
+S. Mandanda,A. Zambo Anguissa,1
+A. Rami,V. Germain,1
+M. Sanson,Luiz Gustavo,1
+Luiz Gustavo,S. Mandanda,1
+A. Rami,S. Mandanda,1
+V. Germain,A. Zambo Anguissa,1
+H. Sakai,S. Mandanda,1
+A. Abdennour,D. Payet,1
+H. Sakai,A. Abdennour,1
+H. Sakai,J. Amavi,1
+M. Sanson,A. Abdennour,1
+A. Abdennour,V. Germain,1
+Luiz Gustavo,F. Thauvin,1
+V. Germain,A. Rami,1
+A. Zambo Anguissa,V. Germain,1

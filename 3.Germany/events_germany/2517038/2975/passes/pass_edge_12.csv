@@ -1,0 +1,16 @@
+Source,Target,Weight
+Bruma,J. Augustin,2
+D. Demme,K. Kampl,1
+T. Werner,Bruma,1
+P. Gul\u00e1csi,N. Ke\u00efta,1
+N. Ke\u00efta,D. Demme,1
+K. Kampl,K. Laimer,1
+K. Laimer,D. Upamecano,1
+J. Augustin,N. Ke\u00efta,1
+T. Werner,D. Demme,1
+N. Ke\u00efta,K. Laimer,1
+K. Laimer,T. Werner,1
+K. Kampl,Bruma,1
+D. Upamecano,P. Gul\u00e1csi,1
+J. Augustin,T. Werner,1
+D. Demme,Bruma,1

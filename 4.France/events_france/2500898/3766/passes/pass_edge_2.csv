@@ -1,0 +1,62 @@
+Source,Target,Weight
+Rafael,M. Cornet,8
+H. Aouar,F. Mendy,6
+F. Mendy,H. Aouar,5
+N. Fekir,Rafael,3
+M. Cornet,Rafael,3
+M. Cornet,N. Fekir,3
+F. Mendy,J. Morel,3
+N. Fekir,M. Cornet,3
+Marcelo,Rafael,3
+A. Lopes,Marcelo,3
+Rafael,A. Lopes,2
+N. Fekir,Marcelo,2
+A. Lopes,Mariano D\u00edaz,2
+J. Morel,Rafael,2
+F. Mendy,L. Tousart,2
+L. Tousart,J. Morel,2
+J. Morel,F. Mendy,2
+A. Lopes,F. Mendy,2
+L. Tousart,N. Fekir,2
+M. Cornet,H. Aouar,2
+T. Ndomb\u00e8l\u00e9,N. Fekir,2
+Mariano D\u00edaz,N. Fekir,2
+F. Mendy,T. Ndomb\u00e8l\u00e9,2
+M. Cornet,J. Morel,2
+L. Tousart,A. Lopes,2
+T. Ndomb\u00e8l\u00e9,M. Cornet,2
+N. Fekir,A. Lopes,2
+J. Morel,Mariano D\u00edaz,1
+M. Cornet,L. Tousart,1
+M. Cornet,Marcelo,1
+H. Aouar,M. Cornet,1
+J. Morel,L. Tousart,1
+Mariano D\u00edaz,M. Cornet,1
+M. Cornet,T. Ndomb\u00e8l\u00e9,1
+Mariano D\u00edaz,Rafael,1
+H. Aouar,N. Fekir,1
+Marcelo,A. Lopes,1
+J. Morel,H. Aouar,1
+Rafael,Marcelo,1
+Marcelo,L. Tousart,1
+T. Ndomb\u00e8l\u00e9,Rafael,1
+M. Cornet,Mariano D\u00edaz,1
+L. Tousart,F. Mendy,1
+A. Lopes,N. Fekir,1
+N. Fekir,L. Tousart,1
+J. Morel,N. Fekir,1
+Mariano D\u00edaz,A. Lopes,1
+J. Morel,Marcelo,1
+H. Aouar,J. Morel,1
+Rafael,F. Mendy,1
+Marcelo,T. Ndomb\u00e8l\u00e9,1
+Rafael,N. Fekir,1
+N. Fekir,T. Ndomb\u00e8l\u00e9,1
+Marcelo,J. Morel,1
+M. Cornet,F. Mendy,1
+T. Ndomb\u00e8l\u00e9,L. Tousart,1
+Rafael,L. Tousart,1
+N. Fekir,Mariano D\u00edaz,1
+Rafael,T. Ndomb\u00e8l\u00e9,1
+L. Tousart,Rafael,1
+F. Mendy,Rafael,1

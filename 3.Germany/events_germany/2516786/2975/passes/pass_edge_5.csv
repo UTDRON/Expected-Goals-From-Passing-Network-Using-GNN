@@ -1,0 +1,14 @@
+Source,Target,Weight
+J. Augustin,S. Ilsanker,2
+J. Augustin,M. Sabitzer,2
+S. Ilsanker,D. Demme,2
+T. Werner,E. Forsberg,1
+M. Halstenberg,M. Sabitzer,1
+M. Sabitzer,J. Augustin,1
+E. Forsberg,L. Klostermann,1
+D. Demme,J. Augustin,1
+M. Sabitzer,S. Ilsanker,1
+D. Demme,M. Halstenberg,1
+M. Sabitzer,M. Halstenberg,1
+M. Halstenberg,J. Augustin,1
+S. Ilsanker,T. Werner,1

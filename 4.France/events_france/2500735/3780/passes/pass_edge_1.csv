@@ -1,0 +1,83 @@
+Source,Target,Weight
+F. Moubandje,J. Durmaz,8
+C. Jean,K. Amian,6
+J. Durmaz,F. Moubandje,6
+K. Amian,I. Diop,6
+K. Amian,C. Jean,5
+I. Diop,K. Amian,5
+F. Moubandje,I. Diop,5
+C. Jullien,F. Moubandje,5
+I. Diop,G. Imbula,4
+C. Jullien,I. Diop,4
+Y. Cahuzac,I. Diop,4
+G. Imbula,A. Delort,4
+C. Jullien,Y. Cahuzac,4
+A. Delort,C. Jean,4
+K. Amian,A. Delort,4
+F. Moubandje,G. Imbula,4
+I. Diop,C. Jullien,4
+G. Imbula,F. Moubandje,4
+I. Diop,J. Durmaz,3
+I. Diop,A. Delort,3
+A. Delort,K. Amian,3
+Som\u00e1lia,K. Amian,3
+A. Delort,F. Moubandje,3
+Y. Cahuzac,G. Imbula,3
+A. Lafont,A. Delort,3
+J. Durmaz,C. Jullien,3
+K. Amian,A. Lafont,3
+Y. Cahuzac,C. Jullien,3
+J. Durmaz,G. Imbula,3
+F. Moubandje,A. Lafont,3
+A. Lafont,F. Moubandje,3
+F. Moubandje,A. Delort,3
+J. Durmaz,Y. Cahuzac,3
+G. Imbula,Y. Cahuzac,3
+C. Jean,F. Moubandje,2
+J. Durmaz,K. Amian,2
+K. Amian,Y. Cahuzac,2
+C. Jullien,K. Amian,2
+Y. Cahuzac,K. Amian,2
+C. Jullien,J. Durmaz,2
+A. Delort,Som\u00e1lia,2
+C. Jullien,Som\u00e1lia,2
+A. Delort,C. Jullien,2
+A. Lafont,C. Jullien,2
+J. Durmaz,Som\u00e1lia,2
+Som\u00e1lia,F. Moubandje,2
+A. Delort,G. Imbula,2
+G. Imbula,I. Diop,2
+C. Jullien,G. Imbula,2
+K. Amian,J. Durmaz,2
+G. Imbula,J. Durmaz,2
+I. Diop,F. Moubandje,2
+C. Jean,C. Jullien,2
+F. Moubandje,C. Jullien,2
+K. Amian,Som\u00e1lia,2
+G. Imbula,C. Jean,2
+A. Delort,Y. Cahuzac,2
+A. Delort,A. Lafont,1
+Y. Cahuzac,C. Jean,1
+Y. Cahuzac,A. Lafont,1
+G. Imbula,C. Jullien,1
+F. Moubandje,Y. Cahuzac,1
+F. Moubandje,K. Amian,1
+Som\u00e1lia,C. Jullien,1
+Y. Cahuzac,Som\u00e1lia,1
+C. Jean,G. Imbula,1
+A. Lafont,C. Jean,1
+C. Jean,Som\u00e1lia,1
+F. Moubandje,C. Jean,1
+K. Amian,C. Jullien,1
+A. Delort,I. Diop,1
+Som\u00e1lia,J. Durmaz,1
+Som\u00e1lia,Y. Cahuzac,1
+Som\u00e1lia,A. Lafont,1
+K. Amian,F. Moubandje,1
+J. Durmaz,A. Delort,1
+C. Jean,A. Delort,1
+C. Jean,J. Durmaz,1
+Y. Cahuzac,A. Delort,1
+I. Diop,Y. Cahuzac,1
+G. Imbula,K. Amian,1
+Y. Cahuzac,J. Durmaz,1

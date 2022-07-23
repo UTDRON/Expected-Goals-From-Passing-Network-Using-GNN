@@ -1,0 +1,23 @@
+Source,Target,Weight
+Fabinho,Jorge,4
+Jorge,Fabinho,2
+R. Ghezzal,Fabinho,1
+R. Falcao,B. Keita,1
+K. Glik,A. Raggi,1
+Fabinho,K. Glik,1
+Jemerson,K. Glik,1
+Jorge,Y. Tielemans,1
+R. Ghezzal,Y. Tielemans,1
+Fabinho,Jemerson,1
+K. Glik,R. Falcao,1
+B. Keita,Y. Tielemans,1
+Y. Tielemans,Fabinho,1
+A. Raggi,R. Ghezzal,1
+Y. Tielemans,R. Ghezzal,1
+R. Falcao,R. Ghezzal,1
+R. Ghezzal,A. Raggi,1
+Jorge,B. Keita,1
+A. Raggi,G. Carrillo,1
+Y. Tielemans,R. Falcao,1
+B. Keita,Fabinho,1
+G. Carrillo,R. Ghezzal,1

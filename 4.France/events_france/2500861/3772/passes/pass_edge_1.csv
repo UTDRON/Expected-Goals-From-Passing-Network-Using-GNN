@@ -1,0 +1,33 @@
+Source,Target,Weight
+L. Lerager,N. de Pr\u00e9ville,4
+N. de Pr\u00e9ville,J. Pla\u0161il,3
+L. Lerager,Y. Sabaly,3
+Y. Sabaly,L. Lerager,2
+J. Pla\u0161il,F. Kamano,2
+J. Pla\u0161il,N. de Pr\u00e9ville,2
+F. Kamano,V. Jovanovi\u0107,2
+N. de Pr\u00e9ville,Y. Sabaly,2
+M. Poundj\u00e9,J. Pla\u0161il,2
+V. Jovanovi\u0107,J. Toulalan,2
+L. Lerager,F. Kamano,2
+Y. Sabaly,N. de Pr\u00e9ville,2
+N. de Pr\u00e9ville,L. Lerager,1
+T. Pellenard,M. Poundj\u00e9,1
+M. Poundj\u00e9,T. Pellenard,1
+N. de Pr\u00e9ville,T. Pellenard,1
+N. de Pr\u00e9ville,M. Poundj\u00e9,1
+Y. Sabaly,V. Jovanovi\u0107,1
+F. Kamano,Ot\u00e1vio,1
+Ot\u00e1vio,N. de Pr\u00e9ville,1
+F. Kamano,J. Pla\u0161il,1
+F. Kamano,Y. Sabaly,1
+T. Pellenard,J. Prior,1
+T. Pellenard,L. Lerager,1
+J. Pla\u0161il,M. Poundj\u00e9,1
+J. Pla\u0161il,L. Lerager,1
+J. Prior,L. Lerager,1
+V. Jovanovi\u0107,L. Lerager,1
+Y. Sabaly,F. Kamano,1
+F. Kamano,L. Lerager,1
+J. Toulalan,T. Pellenard,1
+J. Toulalan,L. Lerager,1

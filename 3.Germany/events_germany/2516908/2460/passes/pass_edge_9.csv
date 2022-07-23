@@ -1,0 +1,67 @@
+Source,Target,Weight
+J. Gbamin,D. Brosinski,9
+G. Holtmann,A. Diallo,9
+A. Diallo,A. Hack,6
+D. Brosinski,J. Gbamin,5
+D. Brosinski,S. Serdar,5
+G. Holtmann,D. Latza,4
+D. Latza,A. Diallo,4
+A. Diallo,R. Quaison,4
+D. Latza,Y. Muto,4
+A. Diallo,G. Holtmann,3
+D. Latza,G. Holtmann,3
+D. Brosinski,R. Quaison,3
+D. Brosinski,G. Holtmann,3
+R. Quaison,J. Gbamin,3
+R. Quaison,G. Holtmann,3
+A. Diallo,D. Latza,3
+S. Serdar,D. Brosinski,3
+R. Zentner,J. Gbamin,2
+J. Gbamin,N. de Jong,2
+R. Quaison,D. Brosinski,2
+A. Diallo,J. Gbamin,2
+A. Hack,R. Zentner,2
+S. Serdar,D. Latza,2
+A. Hack,A. Diallo,2
+N. de Jong,J. Gbamin,2
+A. Diallo,Y. Muto,2
+D. Latza,A. Hack,2
+N. de Jong,D. Latza,2
+A. Hack,D. Latza,2
+J. Gbamin,D. Latza,2
+A. Hack,D. Brosinski,2
+D. Latza,S. Serdar,2
+Y. Muto,R. Quaison,2
+R. Quaison,A. Diallo,2
+R. Zentner,D. Brosinski,2
+G. Holtmann,A. Hack,2
+Y. Muto,G. Holtmann,2
+J. Gbamin,A. Diallo,2
+S. Serdar,Y. Muto,1
+A. Hack,J. Gbamin,1
+A. Hack,G. Holtmann,1
+S. Serdar,A. Hack,1
+G. Holtmann,S. Serdar,1
+D. Brosinski,D. Latza,1
+J. Gbamin,R. Quaison,1
+A. Hack,R. Quaison,1
+G. Holtmann,Y. Muto,1
+Y. Muto,J. Gbamin,1
+S. Serdar,J. Gbamin,1
+D. Latza,J. Gbamin,1
+A. Hack,Y. Muto,1
+A. Diallo,N. de Jong,1
+R. Zentner,N. de Jong,1
+A. Diallo,R. Zentner,1
+Y. Muto,A. Diallo,1
+Y. Muto,S. Serdar,1
+R. Quaison,R. Zentner,1
+Y. Muto,A. Hack,1
+R. Zentner,A. Diallo,1
+D. Brosinski,A. Hack,1
+S. Serdar,R. Zentner,1
+J. Gbamin,S. Serdar,1
+N. de Jong,A. Diallo,1
+J. Gbamin,R. Zentner,1
+S. Serdar,G. Holtmann,1
+A. Hack,N. de Jong,1

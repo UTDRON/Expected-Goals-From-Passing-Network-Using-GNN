@@ -1,0 +1,46 @@
+Source,Target,Weight
+A. Tameze,J. Seri,5
+Marlon,A. Tameze,4
+J. Seri,P. Lees Melou,4
+P. Lees Melou,A. Pl\u00e9a,3
+J. Seri,Marlon,3
+J. Seri,A. Tameze,3
+J. Seri,M. Le Marchand,2
+C. Jallet,P. Lees Melou,2
+A. Tameze,A. Souquet,2
+A. Souquet,A. Tameze,2
+A. Tameze,C. Jallet,2
+Marlon,J. Seri,2
+M. Le Marchand,A. Pl\u00e9a,2
+P. Lees Melou,J. Seri,2
+M. Le Marchand,A. Tameze,2
+A. Pl\u00e9a,J. Seri,2
+A. Pl\u00e9a,C. Jallet,1
+A. Pl\u00e9a,A. Tameze,1
+A. Saint-Maximin,Marlon,1
+A. Tameze,M. Le Marchand,1
+C. Jallet,M. Le Marchand,1
+M. Le Marchand,A. Souquet,1
+A. Tameze,Marlon,1
+A. Tameze,P. Lees Melou,1
+M. Le Marchand,P. Lees Melou,1
+A. Souquet,J. Seri,1
+C. Jallet,Marlon,1
+P. Lees Melou,M. Balotelli,1
+P. Lees Melou,Marlon,1
+C. Jallet,A. Tameze,1
+W. Ben\u00edtez,M. Le Marchand,1
+J. Seri,A. Souquet,1
+P. Lees Melou,M. Le Marchand,1
+A. Souquet,W. Ben\u00edtez,1
+C. Jallet,J. Seri,1
+Marlon,M. Le Marchand,1
+M. Balotelli,J. Seri,1
+A. Saint-Maximin,A. Tameze,1
+J. Seri,C. Jallet,1
+P. Lees Melou,C. Jallet,1
+A. Souquet,A. Saint-Maximin,1
+A. Tameze,A. Saint-Maximin,1
+M. Balotelli,A. Souquet,1
+A. Tameze,M. Balotelli,1
+M. Le Marchand,C. Jallet,1

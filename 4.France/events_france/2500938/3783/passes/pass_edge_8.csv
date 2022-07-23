@@ -1,0 +1,12 @@
+Source,Target,Weight
+R. Rodelin,D. Avounou,2
+F. Guilbert,J. F\u00e9ret,2
+R. Genevois,F. Guilbert,1
+R. Genevois,R. Rodelin,1
+D. Avounou,R. Rodelin,1
+J. F\u00e9ret,R. Genevois,1
+I. Diomand\u00e9,R. Genevois,1
+R. Rodelin,S. Peeters,1
+D. Da Silva,I. Diomand\u00e9,1
+D. Avounou,D. Da Silva,1
+J. F\u00e9ret,F. Guilbert,1

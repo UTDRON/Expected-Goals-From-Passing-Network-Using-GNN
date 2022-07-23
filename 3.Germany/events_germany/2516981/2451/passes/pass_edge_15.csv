@@ -1,0 +1,19 @@
+Source,Target,Weight
+William,M. Arnold,2
+M. Arnold,William,2
+R. Knoche,J. Guilavogui,2
+M. Arnold,D. Origi,1
+J. Guilavogui,D. Didavi,1
+D. Didavi,R. Knoche,1
+William,R. Knoche,1
+R. Knoche,D. Didavi,1
+D. Origi,R. Knoche,1
+J. Guilavogui,R. Knoche,1
+D. Didavi,L. Dimata,1
+L. Dimata,R. Knoche,1
+J. Bruma,William,1
+V. Osimhen,L. Dimata,1
+R. Knoche,J. Bruma,1
+R. Knoche,William,1
+R. Knoche,M. Arnold,1
+William,V. Osimhen,1

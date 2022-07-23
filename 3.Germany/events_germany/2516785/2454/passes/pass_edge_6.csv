@@ -1,0 +1,19 @@
+Source,Target,Weight
+N. Elvedi,T. Hazard,1
+F. Johnson,O. Wendt,1
+O. Wendt,F. Johnson,1
+T. Sippel,O. Wendt,1
+D. Zakaria,F. Johnson,1
+L. Stindl,Raffael,1
+T. Hazard,T. Sippel,1
+C. Kramer,J. Vestergaard,1
+D. Zakaria,C. Kramer,1
+Raffael,L. Stindl,1
+J. Vestergaard,N. Elvedi,1
+O. Wendt,C. Kramer,1
+M. Ginter,D. Zakaria,1
+L. Stindl,T. Hazard,1
+J. Vestergaard,M. Ginter,1
+C. Kramer,O. Wendt,1
+F. Johnson,D. Zakaria,1
+O. Wendt,L. Stindl,1

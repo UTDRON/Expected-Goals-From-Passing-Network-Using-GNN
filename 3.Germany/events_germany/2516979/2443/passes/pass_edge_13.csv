@@ -1,0 +1,53 @@
+Source,Target,Weight
+T. Gebre Selassie,P. Bargfrede,4
+M. Kruse,T. Delaney,4
+T. Gebre Selassie,I. Belfodil,3
+I. Belfodil,T. Delaney,3
+I. Belfodil,L. Augustinsson,3
+T. Gebre Selassie,M. Kruse,3
+T. Delaney,F. Kainz,2
+I. Belfodil,T. Gebre Selassie,2
+J. Pavlenka,N. Moisander,2
+T. Gebre Selassie,T. Delaney,2
+L. Augustinsson,I. Belfodil,2
+T. Delaney,T. Gebre Selassie,2
+N. Moisander,L. Augustinsson,2
+T. Gebre Selassie,M. Eggestein,2
+F. Kainz,S. Langkamp,2
+N. Moisander,T. Gebre Selassie,2
+M. Eggestein,T. Gebre Selassie,2
+T. Delaney,M. Kruse,2
+T. Delaney,I. Belfodil,2
+M. Kruse,I. Belfodil,2
+M. Kruse,T. Gebre Selassie,2
+M. Eggestein,T. Delaney,1
+S. Langkamp,M. Eggestein,1
+L. Augustinsson,J. Pavlenka,1
+L. Augustinsson,F. Kainz,1
+I. Belfodil,M. Eggestein,1
+S. Langkamp,T. Gebre Selassie,1
+T. Delaney,S. Langkamp,1
+I. Belfodil,P. Bargfrede,1
+J. Pavlenka,T. Gebre Selassie,1
+M. Eggestein,J. Pavlenka,1
+J. Pavlenka,I. Belfodil,1
+T. Delaney,N. Moisander,1
+L. Augustinsson,M. Kruse,1
+N. Moisander,J. Pavlenka,1
+F. Kainz,L. Augustinsson,1
+L. Augustinsson,T. Gebre Selassie,1
+L. Augustinsson,N. Moisander,1
+P. Bargfrede,I. Belfodil,1
+N. Moisander,F. Kainz,1
+S. Langkamp,I. Belfodil,1
+T. Gebre Selassie,N. Moisander,1
+P. Bargfrede,T. Gebre Selassie,1
+T. Gebre Selassie,J. Pavlenka,1
+M. Eggestein,M. Kruse,1
+P. Bargfrede,L. Augustinsson,1
+S. Langkamp,N. Moisander,1
+I. Belfodil,M. Kruse,1
+P. Bargfrede,N. Moisander,1
+F. Kainz,T. Gebre Selassie,1
+N. Moisander,M. Eggestein,1
+P. Bargfrede,S. Langkamp,1

@@ -1,0 +1,72 @@
+Source,Target,Weight
+O. Wendt,T. Hazard,5
+J. Vestergaard,C. Kramer,5
+M. Ginter,D. Zakaria,4
+C. Kramer,J. Vestergaard,4
+M. Ginter,J. Hofmann,3
+N. Elvedi,M. Ginter,3
+J. Vestergaard,M. Ginter,3
+T. Hazard,J. Vestergaard,3
+D. Zakaria,J. Vestergaard,3
+J. Hofmann,N. Elvedi,3
+T. Hazard,Raffael,3
+D. Zakaria,C. Kramer,3
+Y. Sommer,N. Elvedi,3
+C. Kramer,Y. Sommer,3
+T. Hazard,D. Zakaria,2
+Raffael,D. Zakaria,2
+C. Kramer,O. Wendt,2
+Y. Sommer,D. Zakaria,2
+O. Wendt,J. Vestergaard,2
+N. Elvedi,T. Hazard,2
+Raffael,T. Hazard,2
+C. Kramer,J. Drmic,2
+D. Zakaria,Y. Sommer,2
+N. Elvedi,Y. Sommer,2
+D. Zakaria,M. Ginter,2
+D. Zakaria,N. Elvedi,2
+T. Hazard,O. Wendt,2
+J. Vestergaard,O. Wendt,2
+J. Vestergaard,Raffael,2
+J. Drmic,O. Wendt,2
+Y. Sommer,T. Hazard,2
+Y. Sommer,C. Kramer,2
+M. Ginter,Y. Sommer,2
+D. Zakaria,J. Hofmann,2
+Y. Sommer,M. Ginter,2
+Y. Sommer,J. Vestergaard,2
+T. Hazard,J. Drmic,2
+N. Elvedi,J. Hofmann,2
+T. Hazard,C. Kramer,1
+M. Ginter,T. Hazard,1
+J. Hofmann,Y. Sommer,1
+C. Kramer,N. Elvedi,1
+C. Kramer,T. Hazard,1
+C. Kramer,D. Zakaria,1
+J. Drmic,T. Hazard,1
+J. Drmic,C. Kramer,1
+Raffael,M. Ginter,1
+J. Hofmann,O. Wendt,1
+T. Hazard,Y. Sommer,1
+J. Drmic,D. Zakaria,1
+J. Vestergaard,T. Hazard,1
+N. Elvedi,Raffael,1
+M. Ginter,J. Vestergaard,1
+J. Vestergaard,Y. Sommer,1
+C. Kramer,Raffael,1
+D. Zakaria,O. Wendt,1
+M. Ginter,C. Kramer,1
+O. Wendt,Raffael,1
+T. Hazard,M. Ginter,1
+O. Wendt,D. Zakaria,1
+Raffael,O. Wendt,1
+O. Wendt,Y. Sommer,1
+J. Drmic,Raffael,1
+O. Wendt,J. Drmic,1
+J. Hofmann,C. Kramer,1
+J. Hofmann,J. Drmic,1
+Raffael,N. Elvedi,1
+J. Vestergaard,D. Zakaria,1
+J. Hofmann,D. Zakaria,1
+Raffael,J. Drmic,1
+Raffael,C. Kramer,1

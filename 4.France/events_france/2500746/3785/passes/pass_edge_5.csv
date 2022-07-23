@@ -1,0 +1,45 @@
+Source,Target,Weight
+L. Deaux,J. Sorbon,3
+J. Ikoko,J. Sorbon,2
+L. Deaux,R. Camara,2
+J. Sorbon,M. Coco,2
+M. Thuram,J. Sorbon,2
+J. Ikoko,C. Kerbrat,2
+Y. Salibur,L. Deaux,2
+Y. Salibur,M. Thuram,2
+J. Sorbon,K. Johnsson,2
+K. Johnsson,Y. Salibur,2
+Y. Salibur,J. Sorbon,2
+M. Coco,M. Thuram,2
+M. Coco,L. Deaux,2
+K. Johnsson,M. Coco,2
+F. Eboa Eboa,K. Johnsson,2
+C. Kerbrat,K. Johnsson,2
+J. Sorbon,L. Phiri,2
+C. Kerbrat,J. Ikoko,1
+M. Thuram,M. Coco,1
+M. Coco,Y. Salibur,1
+K. Johnsson,R. Camara,1
+J. Ikoko,F. Eboa Eboa,1
+R. Camara,M. Thuram,1
+J. Ikoko,L. Deaux,1
+J. Sorbon,J. Ikoko,1
+F. Eboa Eboa,R. Camara,1
+R. Camara,C. Kerbrat,1
+L. Phiri,C. Kerbrat,1
+J. Sorbon,Y. Salibur,1
+L. Phiri,K. Johnsson,1
+F. Eboa Eboa,J. Ikoko,1
+R. Camara,Y. Salibur,1
+K. Johnsson,F. Eboa Eboa,1
+C. Kerbrat,F. Eboa Eboa,1
+M. Thuram,L. Deaux,1
+C. Kerbrat,Y. Salibur,1
+K. Johnsson,C. Kerbrat,1
+L. Deaux,M. Thuram,1
+J. Sorbon,L. Deaux,1
+M. Thuram,Y. Salibur,1
+R. Camara,L. Phiri,1
+L. Deaux,J. Ikoko,1
+L. Phiri,F. Eboa Eboa,1
+Y. Salibur,J. Ikoko,1

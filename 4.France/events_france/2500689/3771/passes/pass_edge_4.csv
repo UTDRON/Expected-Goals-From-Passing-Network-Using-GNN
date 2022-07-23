@@ -1,0 +1,66 @@
+Source,Target,Weight
+Rolando,M. Sanson,4
+H. Sakai,A. Rami,4
+A. Rami,Rolando,4
+Luiz Gustavo,M. Sanson,3
+Luiz Gustavo,A. Rami,3
+M. Sanson,M. Lopez,3
+D. Payet,H. Sakai,3
+M. Sanson,D. Payet,2
+H. Sakai,M. Sanson,2
+S. Mandanda,Luiz Gustavo,2
+A. Rami,H. Sakai,2
+Luiz Gustavo,H. Sakai,2
+M. Lopez,Luiz Gustavo,2
+M. Lopez,D. Payet,2
+Rolando,A. Rami,2
+M. Sanson,Rolando,2
+M. Lopez,M. Sanson,2
+D. Payet,P. Evra,2
+P. Evra,D. Payet,2
+M. Sanson,Luiz Gustavo,2
+A. Rami,Luiz Gustavo,2
+F. Thauvin,P. Evra,2
+Rolando,P. Evra,2
+P. Evra,F. Thauvin,2
+F. Thauvin,M. Lopez,2
+M. Sanson,F. Thauvin,2
+Luiz Gustavo,F. Thauvin,2
+H. Sakai,Luiz Gustavo,2
+H. Sakai,D. Payet,1
+H. Sakai,M. Lopez,1
+D. Payet,F. Thauvin,1
+P. Evra,M. Sanson,1
+Rolando,S. Mandanda,1
+P. Evra,S. Mandanda,1
+M. Sanson,P. Evra,1
+V. Germain,Rolando,1
+V. Germain,A. Rami,1
+D. Payet,M. Sanson,1
+A. Rami,F. Thauvin,1
+M. Lopez,A. Rami,1
+M. Sanson,V. Germain,1
+Luiz Gustavo,M. Lopez,1
+F. Thauvin,M. Sanson,1
+Rolando,V. Germain,1
+A. Rami,M. Lopez,1
+S. Mandanda,Rolando,1
+F. Thauvin,H. Sakai,1
+D. Payet,Luiz Gustavo,1
+D. Payet,A. Rami,1
+H. Sakai,Rolando,1
+M. Lopez,P. Evra,1
+M. Sanson,H. Sakai,1
+D. Payet,M. Lopez,1
+Luiz Gustavo,V. Germain,1
+F. Thauvin,Luiz Gustavo,1
+A. Rami,S. Mandanda,1
+F. Thauvin,D. Payet,1
+V. Germain,H. Sakai,1
+Luiz Gustavo,P. Evra,1
+P. Evra,Rolando,1
+P. Evra,M. Lopez,1
+V. Germain,D. Payet,1
+A. Rami,D. Payet,1
+P. Evra,Luiz Gustavo,1
+M. Lopez,H. Sakai,1

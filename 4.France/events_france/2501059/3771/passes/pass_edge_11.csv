@@ -1,0 +1,34 @@
+Source,Target,Weight
+F. Thauvin,M. Lopez,5
+M. Lopez,B. Sarr,4
+B. Kamara,M. Lopez,4
+B. Sarr,F. Thauvin,3
+M. Lopez,B. Kamara,3
+M. Lopez,F. Thauvin,3
+B. Sarr,M. Lopez,3
+M. Lopez,Rolando,2
+M. Lopez,Luiz Gustavo,2
+Luiz Gustavo,M. Lopez,2
+F. Thauvin,M. Sanson,2
+M. Sanson,F. Thauvin,2
+Luiz Gustavo,M. Sanson,1
+Rolando,L. Ocampos,1
+Rolando,M. Lopez,1
+B. Sarr,B. Kamara,1
+B. Kamara,B. Sarr,1
+F. Thauvin,B. Kamara,1
+B. Kamara,S. Mandanda,1
+M. Sanson,K. Mitroglou,1
+S. Mandanda,Rolando,1
+S. Mandanda,B. Kamara,1
+M. Lopez,M. Sanson,1
+M. Sanson,S. Mandanda,1
+B. Kamara,Luiz Gustavo,1
+H. Sakai,Luiz Gustavo,1
+H. Sakai,M. Sanson,1
+Rolando,H. Sakai,1
+F. Thauvin,B. Sarr,1
+Rolando,B. Kamara,1
+L. Ocampos,H. Sakai,1
+Luiz Gustavo,F. Thauvin,1
+M. Sanson,B. Sarr,1

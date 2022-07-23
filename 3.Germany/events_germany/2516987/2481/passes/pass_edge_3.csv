@@ -1,0 +1,13 @@
+Source,Target,Weight
+R. Khedira,J. Mor\u00e1vek,2
+M. Hinteregger,R. Khedira,2
+Ja-Cheol Koo,P. Max,2
+P. Max,Caiuby,2
+J. Mor\u00e1vek,Ja-Cheol Koo,2
+P. Max,M. Gregoritsch,1
+M. Gregoritsch,Ja-Cheol Koo,1
+Caiuby,P. Max,1
+M. Gregoritsch,P. Max,1
+Ja-Cheol Koo,M. Gregoritsch,1
+J. Mor\u00e1vek,M. Hinteregger,1
+P. Max,J. Mor\u00e1vek,1

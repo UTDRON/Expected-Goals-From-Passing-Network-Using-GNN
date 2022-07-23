@@ -1,0 +1,31 @@
+Source,Target,Weight
+J. Bruma,K. Casteels,2
+R. Steffen,K. Casteels,2
+D. Didavi,J. Bruma,2
+J. Bruma,William,2
+William,R. Steffen,1
+M. Arnold,J. Bruma,1
+William,M. Arnold,1
+D. Didavi,M. Arnold,1
+F. Uduokhai,J. Bruma,1
+J. Guilavogui,L. Dimata,1
+K. Casteels,F. Uduokhai,1
+D. Didavi,William,1
+J. Bruma,D. Didavi,1
+J. Guilavogui,J. Bruma,1
+K. Casteels,R. Steffen,1
+F. Uduokhai,D. Didavi,1
+M. Arnold,F. Uduokhai,1
+R. Steffen,F. Uduokhai,1
+F. Uduokhai,J. Guilavogui,1
+K. Casteels,J. Guilavogui,1
+William,J. Guilavogui,1
+F. Uduokhai,M. Arnold,1
+F. Uduokhai,J. Brekalo,1
+J. Bruma,R. Steffen,1
+K. Casteels,J. Bruma,1
+J. Brekalo,D. Origi,1
+L. Dimata,F. Uduokhai,1
+D. Origi,L. Dimata,1
+J. Guilavogui,D. Didavi,1
+L. Dimata,D. Didavi,1

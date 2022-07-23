@@ -1,0 +1,11 @@
+Source,Target,Weight
+J. Briand,L. Deaux,1
+L. Deaux,L. Blas,1
+F. Tabanou,L. Blas,1
+J. Sorbon,F. Tabanou,1
+L. Deaux,J. Briand,1
+L. Blas,L. Deaux,1
+L. Blas,J. Briand,1
+M. Coco,L. Blas,1
+L. Blas,M. Coco,1
+J. Briand,L. Blas,1

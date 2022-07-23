@@ -1,0 +1,51 @@
+Source,Target,Weight
+D. Brosinski,E. Berggreen,3
+E. Berggreen,D. Latza,3
+L. Balogun,A. Hack,3
+D. Latza,D. Brosinski,3
+A. Hack,A. Diallo,2
+D. Latza,A. Diallo,2
+A. Diallo,E. Berggreen,2
+R. Zentner,A. Hack,2
+D. Brosinski,D. Latza,2
+Y. Muto,E. Berggreen,2
+R. Zentner,E. Berggreen,2
+G. Donati,L. Balogun,2
+J. Gbamin,G. Donati,2
+E. Berggreen,G. Donati,2
+E. Berggreen,J. Gbamin,2
+A. Diallo,D. Brosinski,1
+N. de Jong,L. Balogun,1
+Y. Muto,D. Brosinski,1
+G. Donati,E. Berggreen,1
+R. Zentner,A. Diallo,1
+A. Diallo,R. Zentner,1
+N. de Jong,G. Donati,1
+E. Berggreen,N. de Jong,1
+L. Balogun,N. de Jong,1
+J. Gbamin,D. Brosinski,1
+N. de Jong,D. Latza,1
+G. Donati,Y. Muto,1
+G. Donati,A. Hack,1
+L. Balogun,J. Gbamin,1
+L. Balogun,G. Donati,1
+D. Latza,Y. Muto,1
+D. Brosinski,J. Gbamin,1
+D. Brosinski,N. de Jong,1
+R. Zentner,Y. Muto,1
+A. Hack,E. Berggreen,1
+N. de Jong,R. Zentner,1
+A. Hack,N. de Jong,1
+A. Hack,R. Zentner,1
+E. Berggreen,L. Balogun,1
+L. Balogun,R. Zentner,1
+J. Gbamin,D. Latza,1
+A. Hack,Y. Muto,1
+D. Latza,L. Balogun,1
+G. Donati,R. Zentner,1
+A. Diallo,A. Hack,1
+Y. Muto,G. Donati,1
+G. Donati,J. Gbamin,1
+J. Gbamin,R. Zentner,1
+E. Berggreen,D. Brosinski,1
+A. Hack,L. Balogun,1

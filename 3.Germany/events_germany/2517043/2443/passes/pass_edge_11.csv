@@ -1,0 +1,42 @@
+Source,Target,Weight
+T. Delaney,F. Kainz,3
+J. Gondorf,M. Kruse,3
+T. Gebre Selassie,M. Friedl,2
+M. Eggestein,T. Gebre Selassie,2
+T. Gebre Selassie,P. Bargfrede,2
+P. Bargfrede,J. Gondorf,2
+M. Friedl,J. Pavlenka,2
+M. Friedl,T. Gebre Selassie,2
+J. Gondorf,M. Eggestein,2
+M. Eggestein,J. Eggestein,2
+L. Augustinsson,M. Friedl,2
+F. Kainz,J. Gondorf,2
+M. Eggestein,J. Gondorf,2
+M. Kruse,T. Delaney,1
+M. Friedl,P. Bargfrede,1
+J. Eggestein,T. Gebre Selassie,1
+T. Delaney,M. Kruse,1
+M. Kruse,M. Eggestein,1
+T. Delaney,M. Friedl,1
+L. Augustinsson,J. Pavlenka,1
+J. Eggestein,M. Eggestein,1
+J. Eggestein,F. Kainz,1
+T. Delaney,L. Augustinsson,1
+J. Eggestein,M. Kruse,1
+P. Bargfrede,J. Eggestein,1
+L. Augustinsson,T. Delaney,1
+J. Gondorf,L. Augustinsson,1
+F. Kainz,T. Gebre Selassie,1
+M. Kruse,J. Gondorf,1
+M. Kruse,L. Augustinsson,1
+P. Bargfrede,L. Augustinsson,1
+J. Pavlenka,M. Eggestein,1
+J. Pavlenka,T. Delaney,1
+M. Friedl,T. Delaney,1
+F. Kainz,T. Delaney,1
+F. Kainz,M. Eggestein,1
+J. Pavlenka,M. Friedl,1
+J. Gondorf,F. Kainz,1
+T. Gebre Selassie,J. Eggestein,1
+J. Eggestein,P. Bargfrede,1
+M. Kruse,J. Eggestein,1

@@ -1,0 +1,49 @@
+Source,Target,Weight
+L. Ocampos,B. Kamara,4
+B. Kamara,L. Ocampos,3
+S. Mandanda,V. Germain,3
+B. Sarr,S. Mandanda,3
+B. Kamara,Luiz Gustavo,3
+Luiz Gustavo,A. Rami,3
+A. Rami,S. Mandanda,2
+L. Ocampos,M. Sanson,2
+M. Sanson,L. Ocampos,2
+D. Payet,Luiz Gustavo,2
+Luiz Gustavo,L. Ocampos,2
+D. Payet,V. Germain,2
+V. Germain,L. Ocampos,2
+Rolando,Luiz Gustavo,2
+V. Germain,Rolando,2
+A. Rami,B. Sarr,2
+Luiz Gustavo,B. Kamara,2
+M. Sanson,B. Kamara,1
+Luiz Gustavo,M. Sanson,1
+L. Ocampos,S. Mandanda,1
+Rolando,L. Ocampos,1
+B. Kamara,B. Sarr,1
+M. Sanson,Rolando,1
+Luiz Gustavo,V. Germain,1
+S. Mandanda,Luiz Gustavo,1
+Rolando,D. Payet,1
+B. Sarr,Rolando,1
+Rolando,B. Kamara,1
+M. Sanson,D. Payet,1
+V. Germain,A. Zambo Anguissa,1
+Rolando,V. Germain,1
+V. Germain,D. Payet,1
+A. Rami,Rolando,1
+D. Payet,M. Sanson,1
+V. Germain,A. Rami,1
+A. Rami,Luiz Gustavo,1
+A. Zambo Anguissa,D. Payet,1
+S. Mandanda,Rolando,1
+S. Mandanda,B. Sarr,1
+S. Mandanda,A. Rami,1
+D. Payet,A. Zambo Anguissa,1
+Luiz Gustavo,D. Payet,1
+A. Zambo Anguissa,A. Rami,1
+L. Ocampos,D. Payet,1
+V. Germain,M. Sanson,1
+B. Kamara,V. Germain,1
+B. Kamara,S. Mandanda,1
+L. Ocampos,Luiz Gustavo,1

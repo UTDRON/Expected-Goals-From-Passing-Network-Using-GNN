@@ -1,0 +1,41 @@
+Source,Target,Weight
+M. Hinteregger,M. Hitz,3
+P. Max,A. Finnbogason,3
+P. Max,J. Schmid,3
+J. Gouweleeuw,M. Hinteregger,3
+D. Baier,J. Gouweleeuw,2
+J. Gouweleeuw,M. Gregoritsch,2
+M. Hitz,M. Hinteregger,2
+M. Gregoritsch,J. Gouweleeuw,2
+M. Hinteregger,S. C\u00f3rdova,2
+A. Finnbogason,P. Max,2
+Caiuby,R. Framberger,2
+S. C\u00f3rdova,P. Max,1
+J. Schmid,A. Finnbogason,1
+M. Hinteregger,J. Gouweleeuw,1
+M. Gregoritsch,S. C\u00f3rdova,1
+P. Max,J. Gouweleeuw,1
+Caiuby,J. Gouweleeuw,1
+M. Gregoritsch,J. Schmid,1
+M. Hinteregger,P. Max,1
+J. Schmid,P. Max,1
+Caiuby,P. Max,1
+A. Finnbogason,D. Baier,1
+D. Baier,M. Hinteregger,1
+M. Hitz,D. Baier,1
+J. Gouweleeuw,R. Framberger,1
+J. Schmid,M. Gregoritsch,1
+R. Framberger,Caiuby,1
+M. Hitz,Caiuby,1
+M. Hinteregger,M. Gregoritsch,1
+D. Baier,R. Framberger,1
+R. Framberger,M. Hinteregger,1
+S. C\u00f3rdova,D. Baier,1
+S. C\u00f3rdova,Caiuby,1
+M. Gregoritsch,M. Hinteregger,1
+R. Framberger,P. Max,1
+M. Hinteregger,Caiuby,1
+J. Gouweleeuw,D. Baier,1
+J. Gouweleeuw,M. Hitz,1
+J. Schmid,M. Hinteregger,1
+R. Framberger,J. Gouweleeuw,1

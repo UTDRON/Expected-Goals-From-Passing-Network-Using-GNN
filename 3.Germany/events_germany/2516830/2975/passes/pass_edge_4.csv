@@ -1,0 +1,71 @@
+Source,Target,Weight
+M. Sabitzer,Y. Poulsen,6
+M. Halstenberg,D. Upamecano,6
+I. Konat\u00e9,D. Demme,5
+Y. Poulsen,L. Klostermann,5
+Y. Poulsen,M. Sabitzer,4
+L. Klostermann,I. Konat\u00e9,4
+Bruma,M. Halstenberg,4
+D. Demme,I. Konat\u00e9,4
+D. Demme,Bruma,4
+M. Sabitzer,D. Demme,4
+D. Demme,M. Sabitzer,3
+Y. Poulsen,D. Demme,3
+D. Demme,K. Laimer,3
+M. Sabitzer,D. Upamecano,3
+K. Laimer,M. Sabitzer,3
+D. Upamecano,D. Demme,3
+L. Klostermann,M. Sabitzer,3
+D. Upamecano,M. Halstenberg,3
+M. Halstenberg,D. Demme,3
+D. Upamecano,M. Sabitzer,3
+D. Upamecano,Bruma,3
+D. Demme,L. Klostermann,2
+D. Upamecano,K. Laimer,2
+T. Werner,Y. Poulsen,2
+I. Konat\u00e9,D. Upamecano,2
+D. Demme,D. Upamecano,2
+I. Konat\u00e9,P. Gul\u00e1csi,2
+K. Laimer,Y. Poulsen,2
+M. Sabitzer,T. Werner,2
+I. Konat\u00e9,M. Halstenberg,2
+M. Halstenberg,Y. Poulsen,2
+Bruma,Y. Poulsen,2
+L. Klostermann,D. Demme,2
+Y. Poulsen,D. Upamecano,2
+Y. Poulsen,I. Konat\u00e9,1
+M. Halstenberg,P. Gul\u00e1csi,1
+M. Halstenberg,I. Konat\u00e9,1
+Y. Poulsen,M. Halstenberg,1
+D. Demme,P. Gul\u00e1csi,1
+T. Werner,L. Klostermann,1
+Y. Poulsen,K. Laimer,1
+M. Sabitzer,K. Laimer,1
+L. Klostermann,Y. Poulsen,1
+Bruma,L. Klostermann,1
+D. Upamecano,L. Klostermann,1
+T. Werner,M. Halstenberg,1
+P. Gul\u00e1csi,M. Sabitzer,1
+Bruma,T. Werner,1
+D. Demme,M. Halstenberg,1
+L. Klostermann,K. Laimer,1
+P. Gul\u00e1csi,D. Upamecano,1
+T. Werner,D. Upamecano,1
+D. Upamecano,I. Konat\u00e9,1
+D. Upamecano,P. Gul\u00e1csi,1
+D. Demme,T. Werner,1
+P. Gul\u00e1csi,D. Demme,1
+K. Laimer,D. Demme,1
+P. Gul\u00e1csi,I. Konat\u00e9,1
+M. Sabitzer,L. Klostermann,1
+K. Laimer,M. Halstenberg,1
+Bruma,K. Laimer,1
+D. Upamecano,Y. Poulsen,1
+M. Halstenberg,Bruma,1
+I. Konat\u00e9,M. Sabitzer,1
+Y. Poulsen,Bruma,1
+Bruma,D. Upamecano,1
+P. Gul\u00e1csi,Y. Poulsen,1
+K. Laimer,T. Werner,1
+D. Demme,Y. Poulsen,1
+K. Laimer,Bruma,1

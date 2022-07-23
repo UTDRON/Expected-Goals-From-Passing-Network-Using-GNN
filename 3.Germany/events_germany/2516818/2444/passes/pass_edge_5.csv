@@ -1,0 +1,31 @@
+Source,Target,Weight
+A. Vidal,D. Alaba,4
+M. Hummels,A. Vidal,3
+Rafinha,N. S\u00fcle,2
+D. Alaba,K. Coman,2
+C. Tolisso,M. Hummels,2
+A. Robben,Rafinha,2
+T. M\u00fcller,N. S\u00fcle,1
+D. Alaba,C. Tolisso,1
+N. S\u00fcle,C. Tolisso,1
+T. M\u00fcller,C. Tolisso,1
+A. Robben,M. Hummels,1
+A. Robben,T. M\u00fcller,1
+M. Hummels,Rafinha,1
+A. Vidal,M. Hummels,1
+M. Hummels,T. M\u00fcller,1
+C. Tolisso,A. Robben,1
+M. Hummels,C. Tolisso,1
+N. S\u00fcle,Rafinha,1
+D. Alaba,A. Vidal,1
+C. Tolisso,A. Vidal,1
+K. Coman,Rafinha,1
+K. Coman,M. Hummels,1
+Rafinha,M. Hummels,1
+T. M\u00fcller,K. Coman,1
+A. Vidal,A. Robben,1
+Rafinha,C. Tolisso,1
+K. Coman,D. Alaba,1
+N. S\u00fcle,A. Vidal,1
+Rafinha,A. Robben,1
+D. Alaba,T. M\u00fcller,1

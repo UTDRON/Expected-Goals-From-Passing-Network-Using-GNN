@@ -1,0 +1,18 @@
+Source,Target,Weight
+L. Dimata,J. Brekalo,2
+K. Casteels,R. Knoche,2
+R. Knoche,William,2
+J. Bruma,R. Knoche,1
+D. Didavi,J. Bruma,1
+J. Guilavogui,P. Verhaegh,1
+D. Didavi,J. Guilavogui,1
+J. Brekalo,D. Didavi,1
+J. Guilavogui,William,1
+William,K. Casteels,1
+William,L. Dimata,1
+R. Knoche,L. Dimata,1
+R. Bazoer,J. Guilavogui,1
+J. Guilavogui,R. Bazoer,1
+J. Brekalo,J. Guilavogui,1
+P. Verhaegh,K. Casteels,1
+J. Guilavogui,D. Didavi,1

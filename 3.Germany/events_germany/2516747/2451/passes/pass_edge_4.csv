@@ -1,0 +1,95 @@
+Source,Target,Weight
+R. Bazoer,Camacho,6
+K. Casteels,M. G\u00f3mez,5
+Y. Gerhardt,K. Hinds,4
+Camacho,Y. Gerhardt,4
+F. Uduokhai,Y. Gerhardt,4
+M. G\u00f3mez,R. Bazoer,4
+P. Verhaegh,J. B\u0142aszczykowski,4
+P. Verhaegh,Camacho,4
+Camacho,D. Didavi,4
+J. B\u0142aszczykowski,P. Verhaegh,3
+Y. Gerhardt,F. Uduokhai,3
+F. Uduokhai,R. Bazoer,3
+Camacho,F. Uduokhai,3
+M. G\u00f3mez,P. Verhaegh,3
+R. Bazoer,F. Uduokhai,3
+D. Didavi,L. Dimata,3
+Camacho,R. Bazoer,3
+F. Uduokhai,Camacho,3
+Y. Gerhardt,K. Casteels,3
+R. Bazoer,K. Casteels,2
+Camacho,K. Casteels,2
+R. Knoche,R. Bazoer,2
+D. Didavi,F. Uduokhai,2
+R. Knoche,Y. Gerhardt,2
+R. Bazoer,Y. Gerhardt,2
+Y. Gerhardt,Camacho,2
+Y. Gerhardt,R. Knoche,2
+L. Dimata,D. Didavi,2
+P. Verhaegh,M. G\u00f3mez,2
+P. Verhaegh,K. Casteels,2
+M. G\u00f3mez,Y. Gerhardt,2
+F. Uduokhai,R. Knoche,2
+Camacho,L. Dimata,2
+D. Didavi,M. G\u00f3mez,2
+F. Uduokhai,K. Casteels,2
+F. Uduokhai,P. Verhaegh,2
+M. G\u00f3mez,Camacho,2
+D. Didavi,Camacho,2
+P. Verhaegh,F. Uduokhai,2
+K. Casteels,Camacho,2
+K. Hinds,F. Uduokhai,2
+Y. Gerhardt,D. Didavi,2
+K. Hinds,M. G\u00f3mez,2
+D. Didavi,R. Knoche,2
+M. G\u00f3mez,D. Didavi,2
+K. Hinds,Y. Gerhardt,2
+Y. Gerhardt,R. Bazoer,2
+J. B\u0142aszczykowski,R. Bazoer,2
+J. B\u0142aszczykowski,R. Knoche,1
+R. Knoche,P. Verhaegh,1
+L. Dimata,R. Knoche,1
+Y. Gerhardt,L. Dimata,1
+Camacho,M. G\u00f3mez,1
+K. Casteels,K. Hinds,1
+R. Knoche,M. G\u00f3mez,1
+R. Bazoer,J. B\u0142aszczykowski,1
+R. Knoche,F. Uduokhai,1
+M. G\u00f3mez,K. Casteels,1
+D. Didavi,J. B\u0142aszczykowski,1
+K. Casteels,D. Didavi,1
+D. Didavi,R. Bazoer,1
+L. Dimata,Y. Gerhardt,1
+L. Dimata,M. G\u00f3mez,1
+J. B\u0142aszczykowski,D. Didavi,1
+M. G\u00f3mez,F. Uduokhai,1
+P. Verhaegh,R. Bazoer,1
+F. Uduokhai,K. Hinds,1
+P. Verhaegh,R. Knoche,1
+J. B\u0142aszczykowski,M. G\u00f3mez,1
+F. Uduokhai,D. Didavi,1
+R. Knoche,L. Dimata,1
+K. Casteels,J. B\u0142aszczykowski,1
+R. Knoche,D. Didavi,1
+L. Dimata,P. Verhaegh,1
+R. Knoche,K. Casteels,1
+K. Casteels,P. Verhaegh,1
+M. G\u00f3mez,R. Knoche,1
+F. Uduokhai,M. G\u00f3mez,1
+K. Casteels,F. Uduokhai,1
+R. Bazoer,P. Verhaegh,1
+R. Bazoer,D. Didavi,1
+L. Dimata,F. Uduokhai,1
+R. Bazoer,M. G\u00f3mez,1
+Camacho,K. Hinds,1
+J. B\u0142aszczykowski,Camacho,1
+Y. Gerhardt,P. Verhaegh,1
+D. Didavi,Y. Gerhardt,1
+K. Hinds,P. Verhaegh,1
+K. Casteels,Y. Gerhardt,1
+R. Bazoer,R. Knoche,1
+Camacho,J. B\u0142aszczykowski,1
+Camacho,P. Verhaegh,1
+D. Didavi,P. Verhaegh,1
+R. Knoche,J. B\u0142aszczykowski,1

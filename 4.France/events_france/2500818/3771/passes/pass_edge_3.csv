@@ -1,0 +1,20 @@
+Source,Target,Weight
+A. Abdennour,Luiz Gustavo,2
+Luiz Gustavo,M. Lopez,1
+M. Lopez,F. Thauvin,1
+F. Thauvin,M. Lopez,1
+F. Thauvin,M. Sanson,1
+B. Sarr,A. Abdennour,1
+B. Sarr,F. Thauvin,1
+J. Amavi,A. Abdennour,1
+Luiz Gustavo,J. Amavi,1
+Luiz Gustavo,B. Sarr,1
+F. Thauvin,J. Amavi,1
+J. Amavi,A. Rami,1
+A. Rami,F. Thauvin,1
+M. Lopez,D. Payet,1
+B. Sarr,A. Rami,1
+A. Rami,M. Lopez,1
+M. Sanson,Luiz Gustavo,1
+D. Payet,A. Abdennour,1
+M. Lopez,B. Sarr,1

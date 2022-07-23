@@ -1,0 +1,26 @@
+Source,Target,Weight
+M. Le Marchand,A. Tameze,3
+J. Seri,A. Souquet,2
+M. Le Marchand,Dante,2
+Dante,M. Le Marchand,2
+A. Tameze,R. Walter,2
+C. Jallet,M. Le Marchand,2
+R. Walter,V. Koziello,2
+V. Koziello,M. Le Marchand,2
+A. Tameze,J. Seri,2
+Dante,V. Koziello,2
+A. Souquet,J. Seri,1
+M. Balotelli,J. Seri,1
+V. Koziello,J. Seri,1
+A. Souquet,Dante,1
+V. Koziello,M. Balotelli,1
+J. Seri,Dante,1
+V. Koziello,C. Jallet,1
+J. Seri,C. Jallet,1
+J. Seri,M. Balotelli,1
+C. Jallet,M. Balotelli,1
+M. Balotelli,R. Walter,1
+M. Balotelli,P. Lees Melou,1
+R. Walter,M. Balotelli,1
+M. Le Marchand,C. Jallet,1
+P. Lees Melou,V. Koziello,1

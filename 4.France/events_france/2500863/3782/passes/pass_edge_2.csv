@@ -1,0 +1,78 @@
+Source,Target,Weight
+R. Cabella,Hernani,6
+Hernani,R. Cabella,6
+K. Monnet-Paquet,R. Cabella,6
+Gabriel Silva,K. Monnet-Paquet,5
+Vagner,H. Ma\u00efga,5
+R. Cabella,K. Monnet-Paquet,5
+K. Monnet-Paquet,Hernani,5
+Hernani,H. Ma\u00efga,5
+Hernani,K. Monnet-Paquet,4
+H. Ma\u00efga,Vagner,4
+K. Th\u00e9ophile Catherine,S. Ruffier,4
+Hernani,C. M'Bengue,4
+H. Ma\u00efga,Hernani,4
+H. Ma\u00efga,R. Cabella,4
+Hernani,V. Pajot,4
+V. Pajot,Hernani,3
+Hernani,Gabriel Silva,3
+H. Ma\u00efga,K. Th\u00e9ophile Catherine,3
+V. Pajot,K. Th\u00e9ophile Catherine,3
+L. Diony,Hernani,3
+K. Th\u00e9ophile Catherine,Hernani,3
+V. Pajot,Vagner,3
+H. Ma\u00efga,V. Pajot,3
+C. M'Bengue,Gabriel Silva,3
+S. Ruffier,Hernani,2
+K. Th\u00e9ophile Catherine,V. Pajot,2
+V. Pajot,R. Cabella,2
+V. Pajot,H. Ma\u00efga,2
+R. Cabella,C. M'Bengue,2
+K. Th\u00e9ophile Catherine,H. Ma\u00efga,2
+R. Cabella,Vagner,2
+C. M'Bengue,K. Monnet-Paquet,2
+K. Monnet-Paquet,Gabriel Silva,2
+R. Cabella,H. Ma\u00efga,2
+C. M'Bengue,K. Th\u00e9ophile Catherine,2
+Gabriel Silva,C. M'Bengue,2
+Vagner,Gabriel Silva,2
+Gabriel Silva,Hernani,2
+C. M'Bengue,Hernani,2
+K. Monnet-Paquet,L. Diony,2
+Hernani,K. Th\u00e9ophile Catherine,2
+S. Ruffier,R. Cabella,2
+Gabriel Silva,K. Th\u00e9ophile Catherine,1
+Vagner,K. Monnet-Paquet,1
+H. Ma\u00efga,S. Ruffier,1
+H. Ma\u00efga,K. Monnet-Paquet,1
+K. Monnet-Paquet,H. Ma\u00efga,1
+R. Cabella,Gabriel Silva,1
+L. Diony,V. Pajot,1
+C. M'Bengue,S. Ruffier,1
+S. Ruffier,C. M'Bengue,1
+L. Diony,H. Ma\u00efga,1
+L. Diony,Vagner,1
+Vagner,Hernani,1
+Hernani,L. Diony,1
+S. Ruffier,V. Pajot,1
+K. Th\u00e9ophile Catherine,K. Monnet-Paquet,1
+Vagner,K. Th\u00e9ophile Catherine,1
+S. Ruffier,H. Ma\u00efga,1
+Hernani,S. Ruffier,1
+V. Pajot,C. M'Bengue,1
+Vagner,R. Cabella,1
+L. Diony,R. Cabella,1
+C. M'Bengue,H. Ma\u00efga,1
+Gabriel Silva,H. Ma\u00efga,1
+K. Monnet-Paquet,Vagner,1
+H. Ma\u00efga,L. Diony,1
+S. Ruffier,L. Diony,1
+R. Cabella,V. Pajot,1
+C. M'Bengue,V. Pajot,1
+R. Cabella,L. Diony,1
+K. Monnet-Paquet,V. Pajot,1
+Vagner,L. Diony,1
+K. Th\u00e9ophile Catherine,C. M'Bengue,1
+R. Cabella,S. Ruffier,1
+Hernani,Vagner,1
+R. Cabella,K. Th\u00e9ophile Catherine,1

@@ -1,0 +1,23 @@
+Source,Target,Weight
+P. Gul\u00e1csi,S. Ilsanker,2
+K. Laimer,P. Gul\u00e1csi,2
+I. Konat\u00e9,K. Laimer,2
+K. Kampl,I. Konat\u00e9,2
+Bruma,K. Kampl,1
+S. Ilsanker,P. Gul\u00e1csi,1
+N. Ke\u00efta,D. Demme,1
+D. Demme,I. Konat\u00e9,1
+K. Laimer,Y. Poulsen,1
+I. Konat\u00e9,D. Demme,1
+D. Demme,Bruma,1
+S. Ilsanker,D. Upamecano,1
+Y. Poulsen,T. Werner,1
+P. Gul\u00e1csi,Y. Poulsen,1
+D. Upamecano,Bruma,1
+Bruma,T. Werner,1
+Y. Poulsen,K. Laimer,1
+T. Werner,S. Ilsanker,1
+D. Demme,K. Kampl,1
+K. Laimer,T. Werner,1
+S. Ilsanker,N. Ke\u00efta,1
+T. Werner,K. Laimer,1

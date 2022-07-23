@@ -1,0 +1,46 @@
+Source,Target,Weight
+T. Delaney,N. Moisander,5
+N. Moisander,M. Veljkovic,4
+I. Belfodil,T. Delaney,3
+F. Bartels,F. Kainz,3
+M. Veljkovic,R. Bauer,3
+P. Bargfrede,F. Kainz,3
+F. Kainz,T. Gebre Selassie,3
+L. Augustinsson,T. Delaney,3
+J. Pavlenka,I. Belfodil,3
+M. Veljkovic,N. Moisander,2
+R. Bauer,F. Kainz,2
+N. Moisander,J. Pavlenka,2
+F. Kainz,P. Bargfrede,2
+F. Kainz,M. Veljkovic,2
+N. Moisander,I. Belfodil,2
+R. Bauer,I. Belfodil,2
+R. Bauer,F. Bartels,2
+I. Belfodil,F. Bartels,2
+F. Bartels,P. Bargfrede,2
+I. Belfodil,N. Moisander,1
+M. Veljkovic,L. Augustinsson,1
+F. Kainz,R. Bauer,1
+F. Bartels,R. Bauer,1
+I. Belfodil,M. Veljkovic,1
+P. Bargfrede,N. Moisander,1
+F. Kainz,F. Bartels,1
+I. Belfodil,F. Kainz,1
+L. Augustinsson,M. Veljkovic,1
+N. Moisander,T. Delaney,1
+T. Gebre Selassie,F. Kainz,1
+T. Delaney,R. Bauer,1
+F. Kainz,I. Belfodil,1
+M. Veljkovic,F. Kainz,1
+T. Delaney,L. Augustinsson,1
+L. Augustinsson,N. Moisander,1
+P. Bargfrede,L. Augustinsson,1
+T. Delaney,I. Belfodil,1
+N. Moisander,P. Bargfrede,1
+M. Veljkovic,T. Delaney,1
+N. Moisander,L. Augustinsson,1
+I. Belfodil,J. Pavlenka,1
+J. Pavlenka,N. Moisander,1
+T. Gebre Selassie,R. Bauer,1
+T. Gebre Selassie,F. Bartels,1
+R. Bauer,J. Pavlenka,1

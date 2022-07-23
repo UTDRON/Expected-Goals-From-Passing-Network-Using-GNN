@@ -1,0 +1,36 @@
+Source,Target,Weight
+J. Pollersbeck,G. Jung,3
+M. Steinmann,J. Pollersbeck,2
+J. Pollersbeck,M. Steinmann,2
+T. Ito,L. Waldschmidt,2
+L. Waldschmidt,Douglas Santos,2
+A. Hunt,G. Sakai,2
+R. van Drongelen,J. Pollersbeck,2
+A. Hunt,M. Steinmann,2
+Douglas Santos,A. Hunt,2
+G. Jung,J. Pollersbeck,2
+L. Holtby,A. Hunt,2
+M. Steinmann,G. Jung,2
+G. Jung,G. Sakai,2
+F. Kosti\u0107,R. van Drongelen,1
+T. Ito,L. Holtby,1
+Douglas Santos,R. van Drongelen,1
+A. Hunt,T. Ito,1
+L. Waldschmidt,J. Pollersbeck,1
+G. Jung,R. van Drongelen,1
+G. Sakai,A. Hunt,1
+A. Hunt,Douglas Santos,1
+J. Pollersbeck,R. van Drongelen,1
+M. Steinmann,G. Sakai,1
+G. Jung,Douglas Santos,1
+R. van Drongelen,T. Ito,1
+R. van Drongelen,L. Waldschmidt,1
+Douglas Santos,T. Ito,1
+J. Pollersbeck,Douglas Santos,1
+L. Waldschmidt,A. Hunt,1
+G. Sakai,G. Jung,1
+G. Sakai,M. Steinmann,1
+Douglas Santos,L. Waldschmidt,1
+G. Sakai,R. van Drongelen,1
+Douglas Santos,L. Holtby,1
+R. van Drongelen,F. Kosti\u0107,1

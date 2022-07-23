@@ -1,0 +1,18 @@
+Source,Target,Weight
+F. Tour\u00e9,Y. Benzia,2
+F. Tour\u00e9,L. Mothiba,1
+Y. Benzia,J. Alonso,1
+K. Malcuit,F. Tour\u00e9,1
+Edgar I\u00e9,M. Maignan,1
+N. P\u00e9p\u00e9,K. Malcuit,1
+L. Mothiba,K. Malcuit,1
+Y. Benzia,Edgar I\u00e9,1
+K. Malcuit,N. P\u00e9p\u00e9,1
+J. Alonso,Edgar I\u00e9,1
+Edgar I\u00e9,F. Tour\u00e9,1
+Edgar I\u00e9,K. Malcuit,1
+N. P\u00e9p\u00e9,Edgar I\u00e9,1
+Edgar I\u00e9,N. P\u00e9p\u00e9,1
+K. Malcuit,L. Mothiba,1
+M. Maignan,F. Tour\u00e9,1
+L. Mothiba,N. P\u00e9p\u00e9,1

@@ -1,0 +1,57 @@
+Source,Target,Weight
+P. Capelle,V. Manceau,7
+V. Manceau,J. Reine-Adelaide,4
+Y. Andreu,M. Pavlovi\u0107,4
+V. Manceau,P. Capelle,3
+M. Pavlovi\u0107,Y. Andreu,3
+V. Manceau,B. Santamaria,3
+B. Santamaria,T. Mangani,3
+M. Pavlovi\u0107,T. Mangani,3
+J. Reine-Adelaide,Y. Andreu,2
+L. Butelle,P. Capelle,2
+T. Mangani,I. Traor\u00e9,2
+B. Santamaria,V. Manceau,2
+T. Mangani,F. Tait,2
+F. Tait,Y. Andreu,2
+V. Manceau,L. Butelle,2
+F. Tait,M. Pavlovi\u0107,2
+P. Capelle,J. Reine-Adelaide,1
+J. Reine-Adelaide,M. Pavlovi\u0107,1
+T. Mangani,Y. Andreu,1
+I. Traor\u00e9,B. Santamaria,1
+B. Santamaria,K. Toko Ekambi,1
+I. Traor\u00e9,T. Mangani,1
+T. Mangani,J. Reine-Adelaide,1
+Y. Andreu,L. Butelle,1
+T. Mangani,V. Manceau,1
+J. Reine-Adelaide,P. Capelle,1
+L. Butelle,F. Tait,1
+M. Pavlovi\u0107,L. Butelle,1
+F. Tait,J. Reine-Adelaide,1
+P. Capelle,G. Sunu,1
+I. Traor\u00e9,V. Manceau,1
+B. Santamaria,I. Traor\u00e9,1
+K. Toko Ekambi,B. Santamaria,1
+B. Santamaria,P. Capelle,1
+B. Santamaria,G. Sunu,1
+Y. Andreu,T. Mangani,1
+I. Traor\u00e9,P. Capelle,1
+Y. Andreu,P. Capelle,1
+M. Pavlovi\u0107,I. Traor\u00e9,1
+K. Toko Ekambi,M. Pavlovi\u0107,1
+Y. Andreu,F. Tait,1
+G. Sunu,K. Toko Ekambi,1
+T. Mangani,P. Capelle,1
+T. Mangani,M. Pavlovi\u0107,1
+L. Butelle,Y. Andreu,1
+J. Reine-Adelaide,B. Santamaria,1
+G. Sunu,B. Santamaria,1
+J. Reine-Adelaide,V. Manceau,1
+J. Reine-Adelaide,T. Mangani,1
+Y. Andreu,B. Santamaria,1
+K. Toko Ekambi,V. Manceau,1
+K. Toko Ekambi,F. Tait,1
+V. Manceau,K. Toko Ekambi,1
+P. Capelle,K. Toko Ekambi,1
+F. Tait,P. Capelle,1
+P. Capelle,F. Tait,1

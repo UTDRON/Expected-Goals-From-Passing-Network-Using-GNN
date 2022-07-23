@@ -1,0 +1,25 @@
+Source,Target,Weight
+O. Duda,A. Maier,3
+O. Duda,V. Lazaro,3
+D. Selke,O. Duda,2
+A. Maier,O. Duda,2
+F. Lustenberger,P. Skjelbred,2
+M. Weiser,A. Maier,1
+M. Weiser,O. Duda,1
+A. Maier,D. Selke,1
+S. Kalou,D. Selke,1
+D. Selke,V. Lazaro,1
+O. Duda,N. Stark,1
+V. Lazaro,P. Skjelbred,1
+N. Stark,O. Duda,1
+D. Selke,F. Lustenberger,1
+V. Lazaro,M. Weiser,1
+P. Skjelbred,M. Plattenhardt,1
+F. Lustenberger,D. Selke,1
+A. Maier,F. Lustenberger,1
+S. Kalou,F. Lustenberger,1
+M. Plattenhardt,O. Duda,1
+P. Skjelbred,M. Weiser,1
+V. Lazaro,D. Selke,1
+P. Skjelbred,S. Kalou,1
+V. Lazaro,A. Maier,1

@@ -1,0 +1,15 @@
+Source,Target,Weight
+J. Tah,S. Bender,2
+B. Henrichs,J. Tah,1
+S. Bender,J. Pohjanpalo,1
+J. Pohjanpalo,J. Tah,1
+J. Brandt,J. Pohjanpalo,1
+B. Henrichs,B. Leno,1
+B. Leno,Wendell,1
+J. Pohjanpalo,J. Brandt,1
+J. Tah,B. Henrichs,1
+S. Bender,J. Tah,1
+J. Tah,K. Volland,1
+Wendell,J. Pohjanpalo,1
+K. Volland,J. Brandt,1
+J. Brandt,J. Tah,1

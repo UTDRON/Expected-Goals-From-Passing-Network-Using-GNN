@@ -1,0 +1,96 @@
+Source,Target,Weight
+Danilo Avelar,H. Manzala,9
+Danilo Avelar,G. Kakuta,9
+G. Kakuta,T. Monconduit,8
+K. Ad\u00e9non,Danilo Avelar,7
+O. El Hajjam,P. Gouano,7
+M. Konat\u00e9,Danilo Avelar,7
+T. Monconduit,B. Zungu,6
+G. Kakuta,O. El Hajjam,6
+R. Gurtner,M. Konat\u00e9,6
+M. Konat\u00e9,T. Monconduit,5
+G. Kakuta,M. Konat\u00e9,5
+G. Kakuta,H. Manzala,5
+B. Zungu,P. Gouano,5
+T. Monconduit,K. Ad\u00e9non,4
+B. Zungu,R. Gurtner,4
+Danilo Avelar,K. Ad\u00e9non,4
+B. Zungu,I. Cissokho,4
+P. Gouano,I. Cissokho,4
+I. Cissokho,O. El Hajjam,4
+G. Kakuta,K. Ad\u00e9non,4
+O. El Hajjam,G. Kakuta,4
+H. Manzala,G. Kakuta,4
+M. Konat\u00e9,B. Zungu,4
+O. El Hajjam,Danilo Avelar,3
+B. Zungu,K. Ad\u00e9non,3
+H. Manzala,P. Gouano,3
+M. Konat\u00e9,K. Ad\u00e9non,3
+P. Gouano,O. El Hajjam,3
+O. El Hajjam,I. Cissokho,3
+M. Konat\u00e9,G. Kakuta,3
+O. El Hajjam,K. Ad\u00e9non,3
+T. Monconduit,O. El Hajjam,3
+B. Zungu,Danilo Avelar,3
+P. Gouano,K. Ad\u00e9non,3
+P. Gouano,R. Gurtner,3
+H. Manzala,T. Monconduit,3
+K. Ad\u00e9non,P. Gouano,3
+P. Gouano,B. Zungu,3
+H. Manzala,B. Zungu,3
+H. Manzala,Danilo Avelar,3
+K. Ad\u00e9non,G. Kakuta,3
+T. Monconduit,Danilo Avelar,3
+T. Monconduit,G. Kakuta,3
+I. Cissokho,B. Zungu,3
+P. Gouano,M. Konat\u00e9,3
+T. Monconduit,H. Manzala,3
+K. Ad\u00e9non,T. Monconduit,3
+Danilo Avelar,T. Monconduit,3
+Danilo Avelar,M. Konat\u00e9,3
+K. Ad\u00e9non,O. El Hajjam,3
+I. Cissokho,P. Gouano,2
+H. Manzala,O. El Hajjam,2
+B. Zungu,O. El Hajjam,2
+K. Ad\u00e9non,R. Gurtner,2
+M. Konat\u00e9,P. Gouano,2
+P. Gouano,G. Kakuta,2
+B. Zungu,T. Monconduit,2
+R. Gurtner,B. Zungu,2
+O. El Hajjam,B. Zungu,2
+K. Ad\u00e9non,B. Zungu,2
+G. Kakuta,Danilo Avelar,2
+R. Gurtner,T. Monconduit,2
+I. Cissokho,M. Konat\u00e9,2
+B. Zungu,M. Konat\u00e9,2
+I. Cissokho,G. Kakuta,2
+O. El Hajjam,M. Konat\u00e9,2
+M. Konat\u00e9,H. Manzala,1
+Danilo Avelar,R. Gurtner,1
+T. Monconduit,I. Cissokho,1
+B. Zungu,H. Manzala,1
+R. Gurtner,Danilo Avelar,1
+I. Cissokho,T. Monconduit,1
+G. Kakuta,B. Zungu,1
+K. Ad\u00e9non,H. Manzala,1
+R. Gurtner,G. Kakuta,1
+G. Kakuta,R. Gurtner,1
+R. Gurtner,K. Ad\u00e9non,1
+M. Konat\u00e9,I. Cissokho,1
+O. El Hajjam,R. Gurtner,1
+R. Gurtner,I. Cissokho,1
+I. Cissokho,R. Gurtner,1
+H. Manzala,K. Ad\u00e9non,1
+K. Ad\u00e9non,I. Cissokho,1
+T. Monconduit,P. Gouano,1
+R. Gurtner,O. El Hajjam,1
+P. Gouano,H. Manzala,1
+B. Zungu,G. Kakuta,1
+T. Monconduit,R. Gurtner,1
+K. Ad\u00e9non,M. Konat\u00e9,1
+Danilo Avelar,B. Zungu,1
+M. Konat\u00e9,O. El Hajjam,1
+T. Monconduit,M. Konat\u00e9,1
+H. Manzala,M. Konat\u00e9,1
+P. Gouano,Danilo Avelar,1
+H. Manzala,R. Gurtner,1

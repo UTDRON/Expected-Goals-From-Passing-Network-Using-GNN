@@ -1,0 +1,95 @@
+Source,Target,Weight
+P. Gouano,O. El Hajjam,9
+G. Kakuta,I. Cissokho,6
+B. Dibassy,P. Gouano,6
+P. Gouano,B. Dibassy,5
+I. Cissokho,T. Monconduit,5
+L. Traor\u00e9,O. El Hajjam,5
+S. Mendoza,G. Kakuta,5
+O. El Hajjam,S. Gakp\u00e9,5
+I. Cissokho,B. Dibassy,5
+G. Kakuta,P. Gouano,5
+O. El Hajjam,G. Fofana,5
+S. Mendoza,I. Cissokho,4
+G. Fofana,I. Cissokho,4
+I. Cissokho,S. Mendoza,4
+G. Kakuta,L. Traor\u00e9,4
+B. Dibassy,G. Fofana,4
+G. Fofana,B. Dibassy,4
+S. Gakp\u00e9,P. Gouano,4
+B. Dibassy,I. Cissokho,4
+T. Monconduit,B. Dibassy,4
+P. Gouano,G. Kakuta,3
+G. Fofana,O. El Hajjam,3
+B. Dibassy,L. Traor\u00e9,3
+P. Gouano,G. Fofana,3
+S. Gakp\u00e9,G. Kakuta,3
+T. Monconduit,G. Fofana,3
+O. El Hajjam,P. Gouano,3
+G. Fofana,S. Mendoza,3
+T. Monconduit,O. El Hajjam,3
+L. Traor\u00e9,G. Kakuta,3
+O. El Hajjam,T. Monconduit,3
+G. Fofana,L. Traor\u00e9,3
+I. Cissokho,G. Kakuta,3
+O. El Hajjam,L. Traor\u00e9,3
+T. Monconduit,G. Kakuta,3
+S. Gakp\u00e9,G. Fofana,3
+G. Kakuta,T. Monconduit,3
+G. Fofana,P. Gouano,3
+R. Gurtner,B. Dibassy,2
+O. El Hajjam,R. Gurtner,2
+B. Dibassy,S. Mendoza,2
+I. Cissokho,O. El Hajjam,2
+I. Cissokho,P. Gouano,2
+G. Kakuta,G. Fofana,2
+P. Gouano,S. Gakp\u00e9,2
+T. Monconduit,I. Cissokho,2
+L. Traor\u00e9,T. Monconduit,2
+T. Monconduit,S. Mendoza,2
+L. Traor\u00e9,P. Gouano,2
+G. Kakuta,B. Dibassy,2
+P. Gouano,R. Gurtner,2
+S. Mendoza,S. Gakp\u00e9,2
+B. Dibassy,G. Kakuta,2
+L. Traor\u00e9,S. Mendoza,2
+O. El Hajjam,S. Mendoza,2
+S. Mendoza,E. Bourgaud,1
+I. Cissokho,L. Traor\u00e9,1
+B. Dibassy,S. Gakp\u00e9,1
+B. Dibassy,T. Monconduit,1
+E. Bourgaud,L. Traor\u00e9,1
+S. Gakp\u00e9,T. Monconduit,1
+P. Gouano,T. Monconduit,1
+G. Kakuta,S. Gakp\u00e9,1
+P. Gouano,L. Traor\u00e9,1
+T. Monconduit,S. Gakp\u00e9,1
+L. Traor\u00e9,R. Gurtner,1
+L. Traor\u00e9,G. Fofana,1
+T. Monconduit,L. Traor\u00e9,1
+S. Mendoza,O. El Hajjam,1
+E. Bourgaud,T. Monconduit,1
+L. Traor\u00e9,S. Gakp\u00e9,1
+G. Fofana,E. Bourgaud,1
+R. Gurtner,S. Mendoza,1
+S. Gakp\u00e9,L. Traor\u00e9,1
+E. Bourgaud,B. Dibassy,1
+G. Kakuta,O. El Hajjam,1
+S. Mendoza,T. Monconduit,1
+G. Kakuta,E. Bourgaud,1
+O. El Hajjam,G. Kakuta,1
+R. Gurtner,G. Fofana,1
+E. Bourgaud,G. Kakuta,1
+B. Dibassy,O. El Hajjam,1
+S. Mendoza,B. Dibassy,1
+B. Dibassy,E. Bourgaud,1
+L. Traor\u00e9,I. Cissokho,1
+O. El Hajjam,B. Dibassy,1
+R. Gurtner,O. El Hajjam,1
+E. Bourgaud,O. El Hajjam,1
+I. Cissokho,G. Fofana,1
+O. El Hajjam,I. Cissokho,1
+G. Fofana,G. Kakuta,1
+O. El Hajjam,E. Bourgaud,1
+G. Fofana,T. Monconduit,1
+S. Gakp\u00e9,I. Cissokho,1

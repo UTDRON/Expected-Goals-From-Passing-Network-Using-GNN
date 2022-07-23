@@ -1,0 +1,13 @@
+Source,Target,Weight
+N. Petersen,T. Kleindienst,2
+T. Kleindienst,J. Haberer,2
+J. Haberer,L. H\u00f6ler,1
+C. G\u00fcnter,A. Abrashi,1
+T. Kleindienst,C. G\u00fcnter,1
+L. H\u00f6ler,N. Petersen,1
+L. H\u00f6ler,T. Kleindienst,1
+J. Haberer,C. G\u00fcnter,1
+N. Petersen,J. Haberer,1
+A. Abrashi,L. H\u00f6ler,1
+L. K\u00fcbler,N. Petersen,1
+C. G\u00fcnter,L. K\u00fcbler,1

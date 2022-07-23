@@ -1,0 +1,54 @@
+Source,Target,Weight
+B. Embolo,A. Sch\u00f6pf,4
+M. Nastasi\u0107,D. Caligiuri,3
+G. Burgstaller,D. Caligiuri,3
+T. Kehrer,A. Sch\u00f6pf,3
+B. Embolo,F. Di Santo,3
+F. Di Santo,M. Nastasi\u0107,3
+A. Sch\u00f6pf,T. Kehrer,3
+L. Goretzka,D. Caligiuri,3
+M. Nastasi\u0107,B. Embolo,2
+D. Caligiuri,M. Nastasi\u0107,2
+B. Stambouli,A. Sch\u00f6pf,2
+G. Burgstaller,T. Kehrer,2
+D. Caligiuri,L. Goretzka,2
+A. Sch\u00f6pf,B. Embolo,2
+M. Nastasi\u0107,L. Goretzka,2
+D. Caligiuri,G. Burgstaller,2
+A. Sch\u00f6pf,F. Di Santo,2
+G. Burgstaller,M. Nastasi\u0107,1
+G. Burgstaller,F. Di Santo,1
+D. Caligiuri,F. Di Santo,1
+R. F\u00e4hrmann,G. Burgstaller,1
+L. Goretzka,B. Embolo,1
+M. Nastasi\u0107,Naldo,1
+Naldo,T. Kehrer,1
+L. Goretzka,F. Di Santo,1
+F. Di Santo,L. Goretzka,1
+B. Stambouli,G. Burgstaller,1
+M. Nastasi\u0107,G. Burgstaller,1
+D. Caligiuri,B. Embolo,1
+Naldo,G. Burgstaller,1
+A. Sch\u00f6pf,Naldo,1
+L. Goretzka,A. Sch\u00f6pf,1
+D. Caligiuri,Naldo,1
+D. Caligiuri,B. Stambouli,1
+T. Kehrer,Naldo,1
+D. Caligiuri,R. F\u00e4hrmann,1
+R. F\u00e4hrmann,M. Nastasi\u0107,1
+D. Caligiuri,T. Kehrer,1
+B. Embolo,D. Caligiuri,1
+T. Kehrer,M. Nastasi\u0107,1
+A. Sch\u00f6pf,D. Caligiuri,1
+F. Di Santo,D. Caligiuri,1
+L. Goretzka,B. Stambouli,1
+F. Di Santo,B. Stambouli,1
+A. Sch\u00f6pf,M. Nastasi\u0107,1
+T. Kehrer,R. F\u00e4hrmann,1
+B. Stambouli,L. Goretzka,1
+A. Sch\u00f6pf,B. Stambouli,1
+Naldo,B. Stambouli,1
+Naldo,L. Goretzka,1
+T. Kehrer,B. Embolo,1
+B. Stambouli,B. Embolo,1
+F. Di Santo,A. Sch\u00f6pf,1

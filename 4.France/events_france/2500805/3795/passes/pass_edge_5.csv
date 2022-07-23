@@ -1,0 +1,20 @@
+Source,Target,Weight
+B. Pel\u00e9,C. H\u00e9relle,2
+C. Traor\u00e9,S. Khaoui,2
+C. H\u00e9relle,B. Pel\u00e9,2
+F. Bellugou,C. H\u00e9relle,2
+M. Samassa,F. Bellugou,1
+F. Bellugou,B. Pel\u00e9,1
+S. Khaoui,C. Traor\u00e9,1
+C. Traor\u00e9,F. Bellugou,1
+C. H\u00e9relle,C. Traor\u00e9,1
+C. H\u00e9relle,F. Bellugou,1
+C. H\u00e9relle,M. Samassa,1
+S. Khaoui,M. Deplagne,1
+M. Deplagne,C. H\u00e9relle,1
+J. Giraudon,C. H\u00e9relle,1
+B. Pel\u00e9,T. Dingom\u00e9,1
+M. Deplagne,J. Giraudon,1
+C. H\u00e9relle,J. Giraudon,1
+T. Dingom\u00e9,S. Khaoui,1
+J. Giraudon,C. Traor\u00e9,1

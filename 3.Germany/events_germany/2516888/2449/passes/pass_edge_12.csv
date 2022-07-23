@@ -1,0 +1,23 @@
+Source,Target,Weight
+Naldo,B. Oczipka,2
+B. Oczipka,W. McKennie,2
+W. McKennie,Naldo,2
+M. Meyer,B. Oczipka,2
+B. Stambouli,R. F\u00e4hrmann,1
+B. Oczipka,M. Meyer,1
+Naldo,B. Stambouli,1
+B. Stambouli,Naldo,1
+M. Nastasi\u0107,Naldo,1
+D. Caligiuri,W. McKennie,1
+B. Stambouli,W. McKennie,1
+R. F\u00e4hrmann,M. Nastasi\u0107,1
+Naldo,B. Embolo,1
+B. Oczipka,M. Nastasi\u0107,1
+B. Stambouli,M. Meyer,1
+M. Meyer,B. Stambouli,1
+B. Embolo,Naldo,1
+W. McKennie,D. Caligiuri,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+W. McKennie,M. Meyer,1
+R. F\u00e4hrmann,B. Stambouli,1
+B. Oczipka,B. Stambouli,1

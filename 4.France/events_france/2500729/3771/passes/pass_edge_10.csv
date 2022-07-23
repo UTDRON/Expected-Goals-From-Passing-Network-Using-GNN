@@ -1,0 +1,27 @@
+Source,Target,Weight
+A. Zambo Anguissa,P. Evra,3
+B. Sarr,D. Payet,3
+G. Sertic,A. Zambo Anguissa,3
+D. Payet,G. Sertic,3
+F. Thauvin,D. Payet,2
+A. Zambo Anguissa,G. Sertic,2
+D. Payet,A. Zambo Anguissa,2
+Rolando,A. Rami,2
+A. Rami,G. Sertic,2
+A. Zambo Anguissa,D. Payet,2
+G. Sertic,B. Sarr,2
+G. Sertic,D. Payet,2
+D. Payet,M. Sanson,2
+D. Payet,B. Sarr,2
+B. Sarr,A. Rami,1
+P. Evra,Rolando,1
+F. Thauvin,B. Sarr,1
+P. Evra,A. Zambo Anguissa,1
+P. Evra,M. Sanson,1
+A. Rami,Rolando,1
+G. Sertic,F. Thauvin,1
+A. Zambo Anguissa,F. Thauvin,1
+M. Sanson,G. Sertic,1
+B. Sarr,F. Thauvin,1
+B. Sarr,A. Zambo Anguissa,1
+M. Sanson,A. Zambo Anguissa,1

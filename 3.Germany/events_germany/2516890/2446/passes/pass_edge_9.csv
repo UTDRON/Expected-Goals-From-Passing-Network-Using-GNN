@@ -1,0 +1,14 @@
+Source,Target,Weight
+L. Alario,A. Mehmedi,2
+A. Mehmedi,L. Alario,2
+A. Mehmedi,J. Tah,1
+J. Brandt,K. Havertz,1
+K. Havertz,J. Brandt,1
+J. Brandt,L. Bailey,1
+K. Havertz,L. Bailey,1
+B. Henrichs,A. Mehmedi,1
+L. Alario,B. Henrichs,1
+J. Tah,A. Mehmedi,1
+L. Bailey,L. Alario,1
+A. Mehmedi,D. Kohr,1
+D. Kohr,J. Brandt,1

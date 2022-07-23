@@ -1,0 +1,60 @@
+Source,Target,Weight
+Y. Benzia,Thiago Mendes,4
+K. Malcuit,Y. Bissouma,4
+Thiago Mendes,Y. Benzia,4
+Y. Bissouma,B. Soumar\u00e9,4
+Y. Bissouma,K. Malcuit,4
+B. Soumar\u00e9,K. Malcuit,3
+B. Soumar\u00e9,Edgar I\u00e9,3
+M. Maignan,Edgar I\u00e9,3
+Y. Benzia,A. Soumaoro,3
+A. Soumaoro,B. Soumar\u00e9,3
+K. Malcuit,E. Ponce,2
+Edgar I\u00e9,A. Soumaoro,2
+Thiago Mendes,H. Mendyl,2
+A. Soumaoro,Thiago Mendes,2
+B. Soumar\u00e9,Y. Bissouma,2
+B. Soumar\u00e9,Thiago Mendes,2
+Y. Bissouma,Y. Benzia,2
+E. Ponce,H. Mendyl,2
+H. Mendyl,M. Maignan,2
+A. Soumaoro,Y. Bissouma,2
+Y. Bissouma,A. Soumaoro,2
+B. Soumar\u00e9,A. El Ghazi,2
+K. Malcuit,B. Soumar\u00e9,2
+K. Malcuit,Thiago Mendes,2
+Y. Benzia,H. Mendyl,2
+H. Mendyl,Y. Benzia,2
+B. Soumar\u00e9,Y. Benzia,2
+Edgar I\u00e9,K. Malcuit,2
+Thiago Mendes,B. Soumar\u00e9,2
+N. P\u00e9p\u00e9,Y. Benzia,1
+K. Malcuit,A. El Ghazi,1
+Y. Benzia,N. P\u00e9p\u00e9,1
+A. El Ghazi,E. Ponce,1
+A. El Ghazi,B. Soumar\u00e9,1
+H. Mendyl,Thiago Mendes,1
+Thiago Mendes,Y. Bissouma,1
+A. El Ghazi,Y. Bissouma,1
+Edgar I\u00e9,B. Soumar\u00e9,1
+Thiago Mendes,A. El Ghazi,1
+N. P\u00e9p\u00e9,K. Malcuit,1
+Y. Benzia,B. Soumar\u00e9,1
+H. Mendyl,B. Soumar\u00e9,1
+K. Malcuit,Y. Benzia,1
+B. Soumar\u00e9,H. Mendyl,1
+Y. Bissouma,A. El Ghazi,1
+E. Ponce,Y. Bissouma,1
+H. Mendyl,Edgar I\u00e9,1
+A. Soumaoro,H. Mendyl,1
+M. Maignan,K. Malcuit,1
+Edgar I\u00e9,M. Maignan,1
+K. Malcuit,N. P\u00e9p\u00e9,1
+H. Mendyl,Y. Bissouma,1
+Y. Benzia,M. Maignan,1
+E. Ponce,K. Malcuit,1
+A. El Ghazi,A. Soumaoro,1
+H. Mendyl,E. Ponce,1
+Edgar I\u00e9,Y. Bissouma,1
+A. El Ghazi,K. Malcuit,1
+M. Maignan,H. Mendyl,1

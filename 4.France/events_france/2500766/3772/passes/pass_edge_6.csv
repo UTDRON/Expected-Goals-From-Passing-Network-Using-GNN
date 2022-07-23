@@ -1,0 +1,32 @@
+Source,Target,Weight
+T. Pellenard,F. Kamano,3
+V. Jovanovi\u0107,J. Toulalan,2
+V. Jovanovi\u0107,Y. Sankhar\u00e9,2
+Y. Sankhar\u00e9,T. Pellenard,2
+I. Lewczuk,L. Lerager,2
+B. Costil,V. Jovanovi\u0107,2
+N. de Pr\u00e9ville,Malcom,2
+Malcom,I. Lewczuk,2
+L. Lerager,N. de Pr\u00e9ville,2
+T. Pellenard,Ot\u00e1vio,2
+T. Pellenard,Y. Sankhar\u00e9,1
+I. Lewczuk,Malcom,1
+V. Jovanovi\u0107,B. Costil,1
+Y. Sankhar\u00e9,F. Kamano,1
+J. Toulalan,Y. Sankhar\u00e9,1
+V. Jovanovi\u0107,T. Pellenard,1
+J. Toulalan,I. Lewczuk,1
+Malcom,V. Jovanovi\u0107,1
+Y. Sankhar\u00e9,N. de Pr\u00e9ville,1
+J. Toulalan,B. Costil,1
+Malcom,J. Toulalan,1
+F. Kamano,Malcom,1
+Ot\u00e1vio,T. Pellenard,1
+Ot\u00e1vio,V. Jovanovi\u0107,1
+J. Toulalan,N. de Pr\u00e9ville,1
+F. Kamano,V. Jovanovi\u0107,1
+N. de Pr\u00e9ville,T. Pellenard,1
+N. de Pr\u00e9ville,I. Lewczuk,1
+I. Lewczuk,T. Pellenard,1
+T. Pellenard,J. Toulalan,1
+F. Kamano,T. Pellenard,1

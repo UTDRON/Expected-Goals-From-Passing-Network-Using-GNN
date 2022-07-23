@@ -1,0 +1,25 @@
+Source,Target,Weight
+Douglas Santos,L. Waldschmidt,2
+Douglas Santos,Walace,2
+Walace,A. Hunt,2
+A. Hunt,G. Jung,1
+A. Hunt,D. Diekmeier,1
+G. Jung,Walace,1
+D. Diekmeier,M. Mavraj,1
+L. Waldschmidt,G. Jung,1
+D. Diekmeier,J. Arp,1
+G. Jung,Douglas Santos,1
+M. Mavraj,Walace,1
+L. Waldschmidt,Walace,1
+J. Arp,C. Mathenia,1
+A. Hunt,M. Mavraj,1
+Walace,F. Kosti\u0107,1
+M. Mavraj,C. Mathenia,1
+K. Papadopoulos,Douglas Santos,1
+C. Mathenia,Douglas Santos,1
+G. Jung,K. Papadopoulos,1
+F. Kosti\u0107,A. Hunt,1
+C. Mathenia,A. Hunt,1
+Walace,Douglas Santos,1
+Walace,D. Diekmeier,1
+A. Hunt,L. Waldschmidt,1

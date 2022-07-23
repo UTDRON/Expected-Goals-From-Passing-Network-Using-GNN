@@ -1,0 +1,24 @@
+Source,Target,Weight
+L. Deaux,M. Coco,3
+L. Deaux,L. Blas,2
+M. Thuram,Pedro Rebocho,2
+K. Johnsson,M. Thuram,1
+L. Blas,Pedro Rebocho,1
+L. Blas,J. Briand,1
+Pedro Rebocho,C. Kerbrat,1
+L. Blas,L. Deaux,1
+M. Thuram,L. Deaux,1
+C. Kerbrat,J. Sorbon,1
+C. Grenier,M. Thuram,1
+M. Coco,C. Grenier,1
+Pedro Rebocho,K. Johnsson,1
+J. Briand,L. Deaux,1
+J. Sorbon,L. Blas,1
+M. Coco,Pedro Rebocho,1
+Pedro Rebocho,L. Deaux,1
+Pedro Rebocho,C. Grenier,1
+L. Blas,C. Kerbrat,1
+Pedro Rebocho,M. Coco,1
+M. Coco,L. Deaux,1
+C. Grenier,Pedro Rebocho,1
+M. Coco,L. Blas,1

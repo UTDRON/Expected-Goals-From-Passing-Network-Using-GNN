@@ -1,0 +1,99 @@
+Source,Target,Weight
+P. Jaeckel,P. Verhaegh,9
+R. Knoche,P. Jaeckel,9
+M. Arnold,J. Brooks,7
+M. Arnold,William,7
+K. Casteels,L. Dimata,7
+R. Bazoer,P. Verhaegh,6
+William,D. Didavi,6
+P. Jaeckel,R. Knoche,6
+P. Verhaegh,D. Didavi,5
+M. Arnold,R. Knoche,5
+J. Brooks,R. Knoche,5
+R. Knoche,J. Brooks,4
+D. Didavi,P. Jaeckel,4
+R. Knoche,K. Casteels,4
+D. Didavi,R. Bazoer,4
+R. Knoche,William,4
+P. Verhaegh,R. Bazoer,4
+L. Dimata,William,4
+L. Dimata,R. Bazoer,4
+R. Knoche,M. Arnold,4
+D. Didavi,Y. Mall\u0131,4
+R. Bazoer,M. Arnold,4
+M. Tisserand,K. Casteels,3
+William,Y. Mall\u0131,3
+William,R. Bazoer,3
+J. Brooks,K. Casteels,3
+William,K. Casteels,3
+D. Didavi,William,3
+K. Casteels,P. Jaeckel,3
+R. Knoche,P. Verhaegh,3
+P. Verhaegh,M. Arnold,3
+P. Verhaegh,Y. Mall\u0131,3
+L. Dimata,Y. Mall\u0131,3
+Y. Mall\u0131,P. Jaeckel,3
+William,R. Knoche,3
+William,L. Dimata,3
+Y. Mall\u0131,M. Arnold,3
+R. Bazoer,D. Didavi,3
+M. Arnold,D. Didavi,3
+P. Jaeckel,William,3
+Y. Mall\u0131,William,3
+William,M. Arnold,3
+William,M. Tisserand,3
+P. Verhaegh,M. Tisserand,3
+D. Didavi,M. Arnold,3
+P. Verhaegh,L. Dimata,3
+L. Dimata,P. Verhaegh,3
+P. Verhaegh,R. Knoche,2
+M. Tisserand,M. Arnold,2
+M. Tisserand,R. Knoche,2
+P. Verhaegh,P. Jaeckel,2
+P. Jaeckel,J. Brooks,2
+L. Dimata,D. Didavi,2
+K. Casteels,William,2
+L. Dimata,M. Arnold,2
+J. Brooks,R. Bazoer,2
+M. Tisserand,William,2
+P. Jaeckel,R. Bazoer,2
+R. Bazoer,R. Knoche,2
+P. Jaeckel,L. Dimata,2
+D. Didavi,L. Dimata,2
+R. Bazoer,P. Jaeckel,2
+K. Casteels,R. Knoche,2
+J. Brooks,D. Didavi,2
+William,J. Brooks,1
+Y. Mall\u0131,R. Bazoer,1
+William,P. Jaeckel,1
+D. Didavi,K. Casteels,1
+J. Brooks,William,1
+M. Arnold,P. Jaeckel,1
+M. Arnold,K. Casteels,1
+K. Casteels,P. Verhaegh,1
+M. Tisserand,L. Dimata,1
+R. Bazoer,Y. Mall\u0131,1
+R. Bazoer,M. Tisserand,1
+Y. Mall\u0131,P. Verhaegh,1
+K. Casteels,R. Bazoer,1
+R. Bazoer,L. Dimata,1
+M. Arnold,M. Tisserand,1
+Y. Mall\u0131,M. Tisserand,1
+D. Didavi,P. Verhaegh,1
+L. Dimata,J. Brooks,1
+P. Jaeckel,K. Casteels,1
+L. Dimata,M. Tisserand,1
+K. Casteels,D. Didavi,1
+L. Dimata,P. Jaeckel,1
+William,P. Verhaegh,1
+P. Jaeckel,M. Arnold,1
+J. Brooks,L. Dimata,1
+D. Didavi,R. Knoche,1
+M. Arnold,L. Dimata,1
+R. Bazoer,William,1
+R. Bazoer,K. Casteels,1
+Y. Mall\u0131,R. Knoche,1
+R. Knoche,R. Bazoer,1
+J. Brooks,M. Arnold,1
+R. Knoche,D. Didavi,1
+L. Dimata,R. Knoche,1

@@ -1,0 +1,100 @@
+Source,Target,Weight
+A. Souquet,V. Eysseric,10
+Dante,A. Souquet,8
+V. Eysseric,P. Lees Melou,7
+P. Lees Melou,A. Souquet,7
+V. Eysseric,A. Souquet,6
+M. Sarr,V. Marcel,5
+V. Marcel,J. Makengo,5
+A. Souquet,P. Lees Melou,4
+J. Makengo,V. Marcel,4
+A. Souquet,Dante,4
+M. Sarr,J. Makengo,4
+Y. Cardinale,M. Sarr,4
+M. Le Marchand,Dante,4
+Dante,M. Le Marchand,4
+J. Makengo,A. Tameze,4
+A. Souquet,A. Tameze,3
+A. Tameze,Dante,3
+A. Tameze,P. Lees Melou,3
+M. Le Marchand,A. Tameze,3
+V. Marcel,A. Tameze,3
+V. Koziello,M. Le Marchand,3
+Dante,P. Lees Melou,3
+A. Tameze,J. Makengo,3
+P. Lees Melou,V. Eysseric,3
+M. Le Marchand,M. Sarr,3
+P. Lees Melou,M. Le Marchand,3
+V. Eysseric,Dante,3
+A. Tameze,M. Le Marchand,3
+V. Eysseric,V. Marcel,2
+V. Marcel,V. Koziello,2
+M. Le Marchand,V. Marcel,2
+V. Eysseric,A. Pl\u00e9a,2
+J. Makengo,M. Le Marchand,2
+V. Koziello,M. Sarr,2
+A. Souquet,V. Koziello,2
+M. Sarr,V. Eysseric,2
+P. Lees Melou,Y. Cardinale,2
+A. Tameze,V. Eysseric,2
+R. Walter,A. Souquet,2
+A. Souquet,Y. Cardinale,2
+A. Pl\u00e9a,P. Lees Melou,2
+P. Lees Melou,M. Sarr,2
+V. Marcel,M. Le Marchand,2
+J. Makengo,A. Souquet,2
+V. Eysseric,A. Tameze,1
+J. Makengo,M. Sarr,1
+A. Pl\u00e9a,V. Marcel,1
+Y. Cardinale,R. Walter,1
+M. Le Marchand,Y. Cardinale,1
+P. Lees Melou,V. Marcel,1
+J. Makengo,A. Pl\u00e9a,1
+A. Pl\u00e9a,V. Koziello,1
+A. Souquet,A. Pl\u00e9a,1
+Dante,A. Pl\u00e9a,1
+P. Lees Melou,A. Pl\u00e9a,1
+A. Souquet,R. Walter,1
+M. Sarr,A. Souquet,1
+M. Sarr,A. Tameze,1
+R. Walter,M. Sarr,1
+M. Le Marchand,P. Lees Melou,1
+M. Sarr,M. Le Marchand,1
+Dante,J. Makengo,1
+R. Walter,Dante,1
+V. Marcel,M. Sarr,1
+P. Lees Melou,V. Koziello,1
+A. Pl\u00e9a,A. Souquet,1
+V. Marcel,A. Pl\u00e9a,1
+P. Lees Melou,Dante,1
+J. Makengo,V. Eysseric,1
+A. Pl\u00e9a,V. Eysseric,1
+J. Makengo,Dante,1
+M. Sarr,P. Lees Melou,1
+Dante,R. Walter,1
+A. Tameze,A. Souquet,1
+A. Souquet,V. Marcel,1
+M. Le Marchand,R. Walter,1
+M. Le Marchand,J. Makengo,1
+A. Souquet,M. Le Marchand,1
+V. Marcel,P. Lees Melou,1
+V. Eysseric,V. Koziello,1
+A. Souquet,J. Makengo,1
+A. Pl\u00e9a,R. Walter,1
+Y. Cardinale,Dante,1
+M. Le Marchand,V. Eysseric,1
+R. Walter,V. Eysseric,1
+V. Marcel,Dante,1
+V. Marcel,V. Eysseric,1
+V. Koziello,V. Eysseric,1
+V. Koziello,Dante,1
+P. Lees Melou,J. Makengo,1
+V. Eysseric,M. Sarr,1
+Y. Cardinale,V. Marcel,1
+R. Walter,V. Koziello,1
+M. Le Marchand,A. Souquet,1
+V. Koziello,Y. Cardinale,1
+V. Marcel,R. Walter,1
+Dante,Y. Cardinale,1
+V. Koziello,A. Souquet,1
+M. Le Marchand,V. Koziello,1

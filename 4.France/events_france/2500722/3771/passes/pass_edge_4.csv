@@ -1,0 +1,44 @@
+Source,Target,Weight
+M. Lopez,F. Thauvin,5
+F. Thauvin,M. Lopez,4
+F. Thauvin,T. Hubo\u010dan,3
+F. Thauvin,Rolando,3
+R. Cabella,Rolando,3
+H. Sakai,F. Thauvin,3
+H. Sakai,G. Sertic,3
+M. Lopez,H. Sakai,3
+Rolando,T. Hubo\u010dan,2
+Rolando,Luiz Gustavo,2
+Rolando,M. Lopez,2
+G. Sertic,R. Cabella,2
+H. Sakai,M. Lopez,2
+Luiz Gustavo,H. Sakai,2
+Luiz Gustavo,R. Cabella,2
+R. Cabella,Luiz Gustavo,2
+M. Lopez,M. Sanson,2
+Rolando,G. Sertic,2
+Luiz Gustavo,F. Thauvin,2
+S. Mandanda,Luiz Gustavo,1
+R. Cabella,T. Hubo\u010dan,1
+T. Hubo\u010dan,F. Thauvin,1
+R. Cabella,M. Sanson,1
+M. Sanson,R. Cabella,1
+T. Hubo\u010dan,Luiz Gustavo,1
+Rolando,S. Mandanda,1
+S. Mandanda,G. Sertic,1
+Rolando,R. Cabella,1
+G. Sertic,H. Sakai,1
+G. Sertic,S. Mandanda,1
+T. Hubo\u010dan,V. Germain,1
+G. Sertic,Luiz Gustavo,1
+T. Hubo\u010dan,Rolando,1
+V. Germain,M. Sanson,1
+T. Hubo\u010dan,R. Cabella,1
+G. Sertic,M. Lopez,1
+Luiz Gustavo,Rolando,1
+H. Sakai,Rolando,1
+F. Thauvin,H. Sakai,1
+G. Sertic,Rolando,1
+M. Sanson,H. Sakai,1
+M. Sanson,M. Lopez,1
+T. Hubo\u010dan,G. Sertic,1

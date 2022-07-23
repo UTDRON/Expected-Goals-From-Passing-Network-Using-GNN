@@ -1,0 +1,20 @@
+Source,Target,Weight
+B. Nivet,S. Grandsir,2
+M. Samassa,S. Darbion,1
+B. Nivet,C. Traor\u00e9,1
+M. Samassa,A. Niane,1
+O. Vizcarrondo,M. Samassa,1
+S. Grandsir,B. Nivet,1
+S. Darbion,B. Nivet,1
+S. Darbion,O. Vizcarrondo,1
+O. Vizcarrondo,C. H\u00e9relle,1
+F. Bellugou,O. Vizcarrondo,1
+C. H\u00e9relle,M. Samassa,1
+A. Niane,B. Nivet,1
+B. Nivet,T. Dingom\u00e9,1
+C. Traor\u00e9,B. Nivet,1
+T. Dingom\u00e9,B. Nivet,1
+T. Dingom\u00e9,S. Grandsir,1
+S. Grandsir,F. Bellugou,1
+B. Nivet,O. Vizcarrondo,1
+S. Grandsir,S. Darbion,1

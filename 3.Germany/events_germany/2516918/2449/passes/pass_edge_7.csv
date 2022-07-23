@@ -1,0 +1,32 @@
+Source,Target,Weight
+M. Meyer,T. Kehrer,3
+T. Kehrer,M. Meyer,3
+M. Meyer,M. Nastasi\u0107,2
+B. Oczipka,M. Nastasi\u0107,2
+M. Nastasi\u0107,B. Oczipka,2
+F. Di Santo,M. Nastasi\u0107,1
+A. Harit,M. Nastasi\u0107,1
+M. Meyer,L. Goretzka,1
+M. Nastasi\u0107,M. Meyer,1
+B. Oczipka,F. Di Santo,1
+M. Meyer,A. Harit,1
+T. Kehrer,R. F\u00e4hrmann,1
+F. Di Santo,Y. Konoplyanka,1
+M. Nastasi\u0107,F. Di Santo,1
+M. Nastasi\u0107,T. Kehrer,1
+M. Nastasi\u0107,L. Goretzka,1
+Y. Konoplyanka,M. Meyer,1
+A. Harit,M. Meyer,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+A. Harit,T. Kehrer,1
+M. Meyer,F. Di Santo,1
+M. Nastasi\u0107,Y. Konoplyanka,1
+R. F\u00e4hrmann,L. Goretzka,1
+L. Goretzka,A. Harit,1
+L. Goretzka,M. Meyer,1
+L. Goretzka,D. Caligiuri,1
+T. Kehrer,A. Harit,1
+R. F\u00e4hrmann,M. Nastasi\u0107,1
+D. Caligiuri,T. Kehrer,1
+F. Di Santo,B. Oczipka,1
+T. Kehrer,M. Nastasi\u0107,1

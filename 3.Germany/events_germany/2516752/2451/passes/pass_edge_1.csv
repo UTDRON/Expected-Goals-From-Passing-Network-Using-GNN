@@ -1,0 +1,18 @@
+Source,Target,Weight
+L. Dimata,M. Tisserand,2
+R. Knoche,Camacho,1
+Camacho,M. Tisserand,1
+M. Tisserand,Camacho,1
+P. Verhaegh,J. Guilavogui,1
+J. Guilavogui,Camacho,1
+M. Tisserand,L. Dimata,1
+Camacho,J. Guilavogui,1
+Camacho,M. Arnold,1
+M. Tisserand,P. Verhaegh,1
+J. Guilavogui,L. Dimata,1
+P. Verhaegh,K. Casteels,1
+M. G\u00f3mez,P. Verhaegh,1
+M. Tisserand,M. G\u00f3mez,1
+K. Casteels,M. G\u00f3mez,1
+J. Guilavogui,R. Knoche,1
+M. G\u00f3mez,J. Guilavogui,1

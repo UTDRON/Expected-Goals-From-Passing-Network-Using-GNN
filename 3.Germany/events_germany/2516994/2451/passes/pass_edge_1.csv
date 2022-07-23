@@ -1,0 +1,15 @@
+Source,Target,Weight
+R. Knoche,P. Jaeckel,1
+L. Dimata,D. Didavi,1
+P. Verhaegh,J. Brekalo,1
+Camacho,D. Didavi,1
+P. Verhaegh,R. Knoche,1
+R. Knoche,Camacho,1
+D. Didavi,Camacho,1
+P. Jaeckel,R. Knoche,1
+J. Brekalo,P. Verhaegh,1
+P. Verhaegh,P. Jaeckel,1
+P. Jaeckel,L. Dimata,1
+Camacho,P. Verhaegh,1
+L. Dimata,P. Verhaegh,1
+P. Verhaegh,L. Dimata,1

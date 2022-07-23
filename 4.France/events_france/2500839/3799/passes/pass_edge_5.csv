@@ -1,0 +1,60 @@
+Source,Target,Weight
+V. Manceau,M. Tahrat,6
+M. Tahrat,L. Puyo,4
+L. Puyo,Y. Andreu,3
+R. Thomas,A. Fulgini,3
+R. Thomas,L. Puyo,3
+L. Puyo,A. Fulgini,3
+E. Crivelli,R. Thomas,2
+A. Fulgini,E. Crivelli,2
+T. Mangani,R. Thomas,2
+R. Thomas,E. Crivelli,2
+P. Capelle,M. Tahrat,2
+A. Fulgini,I. Traor\u00e9,2
+Y. Andreu,A. Fulgini,2
+R. Thomas,T. Mangani,2
+A. Fulgini,P. Capelle,2
+A. Letellier,R. Thomas,2
+R. Thomas,I. Traor\u00e9,2
+A. Fulgini,V. Manceau,2
+I. Traor\u00e9,A. Fulgini,2
+A. Fulgini,L. Puyo,2
+M. Tahrat,V. Manceau,2
+M. Tahrat,R. Thomas,2
+I. Traor\u00e9,M. Tahrat,2
+E. Crivelli,V. Manceau,2
+Y. Andreu,E. Crivelli,2
+Y. Andreu,I. Traor\u00e9,1
+P. Capelle,L. Puyo,1
+Y. Andreu,V. Manceau,1
+E. Crivelli,I. Traor\u00e9,1
+V. Manceau,K. Toko Ekambi,1
+M. Tahrat,T. Mangani,1
+A. Fulgini,A. Letellier,1
+Y. Andreu,T. Mangani,1
+P. Capelle,R. Thomas,1
+E. Crivelli,P. Capelle,1
+V. Manceau,E. Crivelli,1
+L. Puyo,V. Manceau,1
+I. Traor\u00e9,T. Mangani,1
+I. Traor\u00e9,E. Crivelli,1
+M. Tahrat,K. Toko Ekambi,1
+P. Capelle,A. Fulgini,1
+V. Manceau,R. Thomas,1
+L. Puyo,A. Letellier,1
+M. Tahrat,P. Capelle,1
+V. Manceau,I. Traor\u00e9,1
+I. Traor\u00e9,Y. Andreu,1
+L. Puyo,M. Tahrat,1
+K. Toko Ekambi,V. Manceau,1
+M. Tahrat,Y. Andreu,1
+I. Traor\u00e9,K. Toko Ekambi,1
+L. Puyo,R. Thomas,1
+T. Mangani,Y. Andreu,1
+Y. Andreu,R. Thomas,1
+T. Mangani,L. Puyo,1
+E. Crivelli,M. Tahrat,1
+K. Toko Ekambi,Y. Andreu,1
+E. Crivelli,Y. Andreu,1
+T. Mangani,I. Traor\u00e9,1
+L. Puyo,P. Capelle,1

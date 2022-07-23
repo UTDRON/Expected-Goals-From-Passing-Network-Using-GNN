@@ -1,0 +1,49 @@
+Source,Target,Weight
+L. Blas,L. Phiri,3
+Y. N'Gbakoto,Pedro Rebocho,3
+C. Kerbrat,J. Ikoko,3
+L. Blas,C. Kerbrat,3
+C. Grenier,L. Blas,2
+F. Eboa Eboa,L. Blas,2
+L. Phiri,L. Blas,2
+J. Ikoko,M. Coco,2
+L. Phiri,Pedro Rebocho,2
+Pedro Rebocho,L. Phiri,2
+J. Briand,N. Benezet,2
+M. Coco,K. Johnsson,2
+Pedro Rebocho,Y. N'Gbakoto,2
+C. Grenier,M. Coco,2
+L. Blas,Pedro Rebocho,2
+C. Kerbrat,M. Coco,2
+J. Ikoko,C. Kerbrat,2
+Pedro Rebocho,C. Grenier,1
+\u00c9. Didot,Pedro Rebocho,1
+J. Briand,C. Kerbrat,1
+L. Phiri,N. Benezet,1
+C. Kerbrat,K. Johnsson,1
+N. Benezet,F. Eboa Eboa,1
+M. Coco,\u00c9. Didot,1
+F. Eboa Eboa,K. Johnsson,1
+L. Blas,\u00c9. Didot,1
+N. Benezet,J. Briand,1
+C. Kerbrat,C. Grenier,1
+K. Johnsson,J. Ikoko,1
+Pedro Rebocho,C. Kerbrat,1
+\u00c9. Didot,L. Blas,1
+Pedro Rebocho,J. Briand,1
+C. Kerbrat,F. Eboa Eboa,1
+M. Coco,J. Briand,1
+K. Johnsson,C. Grenier,1
+K. Johnsson,M. Coco,1
+L. Blas,F. Eboa Eboa,1
+C. Kerbrat,\u00c9. Didot,1
+M. Coco,L. Blas,1
+L. Blas,C. Grenier,1
+M. Coco,J. Ikoko,1
+\u00c9. Didot,C. Kerbrat,1
+Pedro Rebocho,L. Blas,1
+N. Benezet,L. Blas,1
+J. Briand,L. Phiri,1
+J. Ikoko,L. Blas,1
+K. Johnsson,J. Briand,1
+L. Phiri,Y. N'Gbakoto,1

@@ -1,0 +1,104 @@
+Source,Target,Weight
+L. Ocampos,P. Evra,9
+Rolando,S. Mandanda,9
+H. Sakai,F. Thauvin,8
+F. Thauvin,M. Sanson,8
+M. Sanson,A. Zambo Anguissa,7
+A. Zambo Anguissa,M. Sanson,6
+S. Mandanda,L. Ocampos,6
+K. Mitroglou,P. Evra,6
+H. Sakai,K. Mitroglou,6
+P. Evra,M. Sanson,6
+P. Evra,L. Ocampos,6
+F. Thauvin,A. Zambo Anguissa,6
+P. Evra,K. Mitroglou,6
+M. Sanson,H. Sakai,6
+Luiz Gustavo,Rolando,5
+Luiz Gustavo,P. Evra,5
+F. Thauvin,H. Sakai,5
+S. Mandanda,H. Sakai,5
+M. Sanson,F. Thauvin,5
+A. Zambo Anguissa,A. Rami,4
+L. Ocampos,H. Sakai,4
+K. Mitroglou,F. Thauvin,4
+H. Sakai,M. Sanson,4
+A. Rami,H. Sakai,4
+P. Evra,V. Germain,4
+S. Mandanda,Rolando,4
+F. Thauvin,Luiz Gustavo,4
+Rolando,P. Evra,4
+A. Zambo Anguissa,F. Thauvin,4
+A. Rami,L. Ocampos,3
+A. Rami,K. Mitroglou,3
+H. Sakai,S. Mandanda,3
+Rolando,A. Zambo Anguissa,3
+K. Mitroglou,L. Ocampos,3
+L. Ocampos,F. Thauvin,3
+M. Sanson,Luiz Gustavo,3
+M. Sanson,A. Rami,3
+H. Sakai,Rolando,3
+Luiz Gustavo,F. Thauvin,3
+Rolando,L. Ocampos,3
+L. Ocampos,Luiz Gustavo,3
+P. Evra,A. Zambo Anguissa,3
+F. Thauvin,L. Ocampos,2
+H. Sakai,A. Zambo Anguissa,2
+K. Mitroglou,H. Sakai,2
+L. Ocampos,A. Rami,2
+L. Ocampos,M. Sanson,2
+A. Zambo Anguissa,Rolando,2
+K. Mitroglou,M. Sanson,2
+L. Ocampos,V. Germain,2
+F. Thauvin,A. Rami,2
+A. Zambo Anguissa,L. Ocampos,2
+Luiz Gustavo,H. Sakai,2
+A. Zambo Anguissa,K. Mitroglou,2
+A. Zambo Anguissa,Luiz Gustavo,2
+K. Mitroglou,A. Rami,2
+L. Ocampos,A. Zambo Anguissa,2
+F. Thauvin,Rolando,2
+P. Evra,S. Mandanda,2
+M. Sanson,K. Mitroglou,2
+S. Mandanda,M. Sanson,2
+V. Germain,M. Sanson,2
+A. Rami,P. Evra,2
+K. Mitroglou,Luiz Gustavo,2
+M. Sanson,P. Evra,2
+M. Sanson,S. Mandanda,2
+M. Sanson,Rolando,2
+Luiz Gustavo,L. Ocampos,2
+S. Mandanda,K. Mitroglou,2
+H. Sakai,A. Rami,2
+A. Rami,Rolando,1
+P. Evra,Rolando,1
+Rolando,H. Sakai,1
+L. Ocampos,K. Mitroglou,1
+P. Evra,H. Sakai,1
+A. Rami,S. Mandanda,1
+H. Sakai,Luiz Gustavo,1
+A. Zambo Anguissa,P. Evra,1
+Luiz Gustavo,M. Sanson,1
+F. Thauvin,P. Evra,1
+V. Germain,Rolando,1
+V. Germain,F. Thauvin,1
+L. Ocampos,Rolando,1
+P. Evra,Luiz Gustavo,1
+M. Sanson,V. Germain,1
+A. Rami,F. Thauvin,1
+K. Mitroglou,A. Zambo Anguissa,1
+Rolando,M. Sanson,1
+H. Sakai,L. Ocampos,1
+A. Rami,Luiz Gustavo,1
+V. Germain,L. Ocampos,1
+M. Sanson,L. Ocampos,1
+S. Mandanda,F. Thauvin,1
+Rolando,Luiz Gustavo,1
+Luiz Gustavo,A. Rami,1
+V. Germain,P. Evra,1
+P. Evra,A. Rami,1
+A. Zambo Anguissa,H. Sakai,1
+V. Germain,Luiz Gustavo,1
+L. Ocampos,S. Mandanda,1
+A. Zambo Anguissa,S. Mandanda,1
+A. Rami,A. Zambo Anguissa,1
+H. Sakai,V. Germain,1

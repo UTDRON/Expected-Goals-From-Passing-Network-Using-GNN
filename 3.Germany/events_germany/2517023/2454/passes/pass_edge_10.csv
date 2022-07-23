@@ -1,0 +1,70 @@
+Source,Target,Weight
+O. Wendt,J. Vestergaard,9
+J. Vestergaard,T. Strobl,7
+O. Wendt,T. Hazard,5
+T. Hazard,T. Strobl,5
+J. Vestergaard,M. Ginter,5
+T. Strobl,O. Wendt,4
+M. Ginter,O. Wendt,4
+C. Kramer,T. Hazard,4
+T. Strobl,M. Cuisance,4
+N. Elvedi,M. Ginter,3
+T. Strobl,C. Kramer,3
+M. Ginter,T. Strobl,3
+C. Kramer,J. Vestergaard,3
+O. Wendt,C. Kramer,3
+J. Vestergaard,C. Kramer,3
+T. Strobl,J. Vestergaard,3
+M. Cuisance,C. Kramer,3
+M. Ginter,J. Vestergaard,3
+M. Cuisance,M. Ginter,2
+M. Cuisance,J. Hofmann,2
+Y. Sommer,O. Wendt,2
+T. Strobl,Raffael,2
+J. Hofmann,O. Wendt,2
+T. Strobl,N. Elvedi,2
+Raffael,T. Strobl,2
+M. Ginter,N. Elvedi,2
+J. Hofmann,N. Elvedi,2
+C. Kramer,O. Wendt,2
+T. Strobl,M. Ginter,2
+C. Kramer,M. Ginter,2
+T. Hazard,O. Wendt,2
+J. Vestergaard,O. Wendt,2
+N. Elvedi,M. Cuisance,2
+J. Vestergaard,M. Cuisance,2
+M. Cuisance,T. Strobl,2
+O. Wendt,T. Strobl,2
+J. Hofmann,M. Cuisance,1
+J. Vestergaard,J. Hofmann,1
+M. Cuisance,T. Hazard,1
+N. Elvedi,J. Hofmann,1
+O. Wendt,Raffael,1
+M. Cuisance,Raffael,1
+T. Hazard,J. Hofmann,1
+J. Hofmann,M. Ginter,1
+N. Elvedi,J. Vestergaard,1
+T. Strobl,J. Hofmann,1
+M. Cuisance,N. Elvedi,1
+M. Ginter,M. Cuisance,1
+T. Hazard,M. Cuisance,1
+T. Strobl,T. Hazard,1
+M. Ginter,Y. Sommer,1
+T. Hazard,C. Kramer,1
+M. Ginter,T. Hazard,1
+N. Elvedi,O. Wendt,1
+T. Strobl,Y. Sommer,1
+T. Hazard,N. Elvedi,1
+M. Cuisance,J. Vestergaard,1
+Raffael,O. Wendt,1
+J. Hofmann,T. Strobl,1
+C. Kramer,T. Strobl,1
+Raffael,J. Vestergaard,1
+C. Kramer,J. Hofmann,1
+J. Vestergaard,Raffael,1
+J. Vestergaard,N. Elvedi,1
+J. Hofmann,C. Kramer,1
+Raffael,M. Cuisance,1
+C. Kramer,M. Cuisance,1
+Raffael,J. Hofmann,1
+T. Hazard,J. Vestergaard,1

@@ -1,0 +1,25 @@
+Source,Target,Weight
+Raffael,D. Zakaria,3
+C. Kramer,O. Wendt,2
+C. Kramer,Raffael,2
+O. Wendt,C. Kramer,2
+D. Zakaria,Raffael,1
+D. Zakaria,J. Vestergaard,1
+N. Elvedi,M. Cuisance,1
+O. Wendt,D. Zakaria,1
+M. Ginter,C. Kramer,1
+Raffael,O. Wendt,1
+M. Cuisance,C. Kramer,1
+D. Zakaria,M. Ginter,1
+D. Zakaria,O. Wendt,1
+J. Vestergaard,O. Wendt,1
+M. Ginter,D. Zakaria,1
+O. Wendt,N. Elvedi,1
+O. Wendt,Raffael,1
+T. Hazard,M. Ginter,1
+C. Kramer,J. Hofmann,1
+D. Zakaria,T. Hazard,1
+N. Elvedi,J. Hofmann,1
+D. Zakaria,C. Kramer,1
+J. Hofmann,N. Elvedi,1
+J. Hofmann,T. Hazard,1

@@ -1,0 +1,42 @@
+Source,Target,Weight
+Diego Carlos,R. Krhin,3
+Diego Carlos,K. Djidji,3
+Lucas Lima,Diego Carlos,3
+L. Dubois,C. Awaziem,2
+C. Awaziem,Diego Carlos,2
+R. Krhin,C. Awaziem,2
+A. Tour\u00e9,L. Dubois,2
+A. Tour\u00e9,P. Nakoulma,2
+K. Djidji,A. Tour\u00e9,2
+C. Awaziem,A. Tour\u00e9,2
+L. Dubois,Y. El Ghanassy,1
+E. Sala,A. Tour\u00e9,1
+Lucas Lima,Y. El Ghanassy,1
+A. Tour\u00e9,Lucas Lima,1
+A. Tour\u00e9,C. Awaziem,1
+Diego Carlos,E. Sala,1
+C. T\u0103t\u0103ru\u0219anu,Diego Carlos,1
+Y. El Ghanassy,E. Sala,1
+Diego Carlos,C. T\u0103t\u0103ru\u0219anu,1
+Y. El Ghanassy,L. Dubois,1
+A. Tour\u00e9,Diego Carlos,1
+P. Nakoulma,C. Awaziem,1
+E. Sala,C. Awaziem,1
+Diego Carlos,L. Dubois,1
+C. Awaziem,C. T\u0103t\u0103ru\u0219anu,1
+R. Krhin,A. Tour\u00e9,1
+Y. El Ghanassy,Lucas Lima,1
+C. Awaziem,P. Nakoulma,1
+P. Nakoulma,K. Djidji,1
+Y. El Ghanassy,A. Tour\u00e9,1
+R. Krhin,P. Nakoulma,1
+K. Djidji,R. Krhin,1
+K. Djidji,Y. El Ghanassy,1
+L. Dubois,K. Djidji,1
+C. T\u0103t\u0103ru\u0219anu,K. Djidji,1
+K. Djidji,Lucas Lima,1
+P. Nakoulma,Y. El Ghanassy,1
+P. Nakoulma,L. Dubois,1
+L. Dubois,Diego Carlos,1
+C. Awaziem,Lucas Lima,1
+K. Djidji,Diego Carlos,1

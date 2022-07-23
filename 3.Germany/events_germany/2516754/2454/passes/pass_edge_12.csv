@@ -1,0 +1,30 @@
+Source,Target,Weight
+J. Vestergaard,C. Kramer,3
+Y. Sommer,L. Stindl,3
+M. Ginter,J. Vestergaard,2
+C. Kramer,L. Stindl,2
+L. Stindl,T. Hazard,2
+C. Kramer,J. Vestergaard,2
+J. Vestergaard,L. Stindl,2
+L. Stindl,J. Vestergaard,2
+L. B\u00e9nes,L. Stindl,2
+C. Kramer,J. Hofmann,1
+C. Kramer,M. Ginter,1
+C. Kramer,Y. Sommer,1
+J. Vestergaard,L. B\u00e9nes,1
+L. B\u00e9nes,J. Vestergaard,1
+J. Hofmann,Raffael,1
+L. B\u00e9nes,M. Ginter,1
+J. Vestergaard,Y. Sommer,1
+Raffael,L. B\u00e9nes,1
+L. Stindl,M. Ginter,1
+Y. Sommer,C. Kramer,1
+N. Elvedi,C. Kramer,1
+L. Stindl,Raffael,1
+M. Ginter,Y. Sommer,1
+L. Stindl,C. Kramer,1
+Raffael,N. Elvedi,1
+L. Stindl,Y. Sommer,1
+T. Hazard,L. B\u00e9nes,1
+C. Kramer,L. B\u00e9nes,1
+T. Hazard,C. Kramer,1

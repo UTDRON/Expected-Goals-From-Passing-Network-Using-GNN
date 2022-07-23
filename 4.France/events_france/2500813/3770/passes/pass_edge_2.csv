@@ -1,0 +1,16 @@
+Source,Target,Weight
+A. Tour\u00e9,V. Rongier,1
+E. Sala,L. Dubois,1
+V. Rongier,N. Pallois,1
+Andrei Girotto,Lucas Lima,1
+Diego Carlos,A. Tour\u00e9,1
+A. Tour\u00e9,Diego Carlos,1
+L. Dubois,Andrei Girotto,1
+Andrei Girotto,A. Tour\u00e9,1
+N. Pallois,A. Tour\u00e9,1
+A. Tour\u00e9,Andrei Girotto,1
+V. Rongier,Diego Carlos,1
+Diego Carlos,V. Rongier,1
+Diego Carlos,C. Awaziem,1
+C. Awaziem,E. Sala,1
+Lucas Lima,Andrei Girotto,1

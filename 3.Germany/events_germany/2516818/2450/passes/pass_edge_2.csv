@@ -1,0 +1,83 @@
+Source,Target,Weight
+A. Hahn,D. Diekmeier,8
+G. Sakai,A. Hunt,6
+Douglas Santos,R. van Drongelen,6
+G. Jung,A. Hunt,6
+D. Diekmeier,A. Hahn,6
+Douglas Santos,G. Sakai,5
+D. Diekmeier,G. Sakai,5
+B. Wood,Douglas Santos,5
+C. Mathenia,A. Hahn,5
+A. Hunt,D. Diekmeier,4
+D. Diekmeier,G. Jung,4
+G. Sakai,K. Papadopoulos,4
+R. van Drongelen,Douglas Santos,4
+A. Hunt,Douglas Santos,4
+A. Hahn,G. Jung,4
+Douglas Santos,B. Wood,3
+G. Sakai,Douglas Santos,3
+A. Hahn,A. Hunt,3
+A. Hunt,B. Wood,3
+A. Hunt,A. Hahn,3
+G. Jung,D. Diekmeier,2
+M. Mavraj,G. Jung,2
+G. Jung,A. Hahn,2
+M. Mavraj,C. Mathenia,2
+Douglas Santos,M. Mavraj,2
+D. Diekmeier,M. Mavraj,2
+A. Hahn,G. Sakai,2
+K. Papadopoulos,G. Sakai,2
+D. Diekmeier,K. Papadopoulos,2
+R. van Drongelen,D. Diekmeier,2
+G. Jung,M. Mavraj,2
+M. Mavraj,D. Diekmeier,2
+K. Papadopoulos,C. Mathenia,2
+B. Wood,G. Jung,2
+B. Wood,G. Sakai,2
+M. Mavraj,A. Hahn,2
+G. Sakai,M. Mavraj,2
+B. Wood,M. Mavraj,2
+G. Sakai,B. Wood,2
+K. Papadopoulos,A. Hunt,2
+M. Mavraj,G. Sakai,2
+A. Hunt,G. Sakai,2
+K. Papadopoulos,B. Wood,2
+G. Sakai,D. Diekmeier,2
+G. Jung,G. Sakai,2
+R. van Drongelen,C. Mathenia,2
+K. Papadopoulos,A. Hahn,2
+G. Sakai,R. van Drongelen,2
+A. Hunt,K. Papadopoulos,2
+K. Papadopoulos,Douglas Santos,1
+B. Wood,D. Diekmeier,1
+D. Diekmeier,B. Wood,1
+A. Hahn,C. Mathenia,1
+K. Papadopoulos,M. Mavraj,1
+G. Sakai,C. Mathenia,1
+B. Wood,A. Hahn,1
+Douglas Santos,G. Jung,1
+A. Hahn,K. Papadopoulos,1
+A. Hunt,R. van Drongelen,1
+C. Mathenia,M. Mavraj,1
+Douglas Santos,C. Mathenia,1
+M. Mavraj,R. van Drongelen,1
+R. van Drongelen,M. Mavraj,1
+B. Wood,A. Hunt,1
+A. Hunt,G. Jung,1
+C. Mathenia,G. Jung,1
+R. van Drongelen,A. Hunt,1
+G. Jung,B. Wood,1
+D. Diekmeier,Douglas Santos,1
+R. van Drongelen,G. Jung,1
+A. Hahn,B. Wood,1
+D. Diekmeier,R. van Drongelen,1
+G. Jung,Douglas Santos,1
+Douglas Santos,K. Papadopoulos,1
+C. Mathenia,K. Papadopoulos,1
+R. van Drongelen,A. Hahn,1
+A. Hahn,Douglas Santos,1
+M. Mavraj,K. Papadopoulos,1
+M. Mavraj,B. Wood,1
+D. Diekmeier,A. Hunt,1
+C. Mathenia,D. Diekmeier,1
+A. Hahn,R. van Drongelen,1

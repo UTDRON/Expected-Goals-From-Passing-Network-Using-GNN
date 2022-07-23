@@ -1,0 +1,23 @@
+Source,Target,Weight
+J. Brandt,C. Ar\u00e1nguiz,2
+C. Ar\u00e1nguiz,J. Brandt,2
+S. Bender,P. Retsos,1
+B. Henrichs,S. Bender,1
+T. Jedvaj,J. Brandt,1
+L. Bailey,B. Henrichs,1
+K. Havertz,T. Jedvaj,1
+B. Henrichs,K. Volland,1
+C. Ar\u00e1nguiz,L. Bailey,1
+J. Brandt,K. Havertz,1
+J. Brandt,S. Bender,1
+K. Volland,K. Havertz,1
+S. Bender,J. Brandt,1
+K. Havertz,C. Ar\u00e1nguiz,1
+P. Retsos,K. Havertz,1
+B. Leno,K. Havertz,1
+K. Havertz,J. Brandt,1
+P. Retsos,B. Leno,1
+K. Havertz,P. Retsos,1
+T. Jedvaj,C. Ar\u00e1nguiz,1
+J. Brandt,T. Jedvaj,1
+P. Retsos,B. Henrichs,1

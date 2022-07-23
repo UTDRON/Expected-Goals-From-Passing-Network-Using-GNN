@@ -1,0 +1,37 @@
+Source,Target,Weight
+P. Lasne,R. Aguilar,5
+R. Aguilar,P. Lasne,3
+R. Aguilar,I. Mbenza,3
+I. Mbenza,R. Aguilar,3
+R. Aguilar,N. Mukiele,2
+P. Lasne,S. Camara,2
+N. Mukiele,R. Aguilar,2
+Hilton,D. Congr\u00e9,2
+E. Skhiri,D. Congr\u00e9,2
+P. Lasne,E. Skhiri,2
+D. Congr\u00e9,N. Mukiele,1
+R. Aguilar,E. Skhiri,1
+G. Sio,P. Lasne,1
+P. Lasne,Hilton,1
+N. Mukiele,I. Mbenza,1
+I. Mbenza,P. Lasne,1
+Hilton,E. Skhiri,1
+E. Skhiri,I. Mbenza,1
+K. Dolly,G. Sio,1
+D. Congr\u00e9,E. Skhiri,1
+I. Mbenza,Hilton,1
+S. Camara,E. Skhiri,1
+E. Skhiri,R. Aguilar,1
+E. Skhiri,N. Mukiele,1
+D. Congr\u00e9,P. Lasne,1
+R. Aguilar,Hilton,1
+R. Aguilar,C. Ninga,1
+B. Lecomte,P. Lasne,1
+C. Ninga,S. Camara,1
+D. Congr\u00e9,K. Dolly,1
+R. Aguilar,B. Lecomte,1
+S. Camara,P. Lasne,1
+N. Mukiele,P. Lasne,1
+E. Skhiri,P. Lasne,1
+S. Camara,Hilton,1
+Hilton,R. Aguilar,1

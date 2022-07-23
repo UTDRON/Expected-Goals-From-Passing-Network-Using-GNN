@@ -1,0 +1,33 @@
+Source,Target,Weight
+T. Kehrer,Naldo,2
+W. McKennie,T. Kehrer,2
+Naldo,M. Meyer,2
+M. Meyer,T. Kehrer,2
+T. Kehrer,B. Embolo,1
+D. Caligiuri,A. Harit,1
+B. Oczipka,T. Kehrer,1
+F. Di Santo,A. Harit,1
+A. Harit,W. McKennie,1
+B. Embolo,B. Oczipka,1
+M. Meyer,F. Di Santo,1
+B. Oczipka,R. F\u00e4hrmann,1
+A. Harit,B. Embolo,1
+Naldo,B. Embolo,1
+B. Embolo,M. Meyer,1
+B. Embolo,A. Harit,1
+A. Harit,B. Oczipka,1
+F. Di Santo,D. Caligiuri,1
+B. Embolo,R. F\u00e4hrmann,1
+M. Nastasi\u0107,B. Oczipka,1
+R. F\u00e4hrmann,Naldo,1
+A. Harit,F. Di Santo,1
+T. Kehrer,M. Meyer,1
+D. Caligiuri,B. Oczipka,1
+Naldo,M. Nastasi\u0107,1
+R. F\u00e4hrmann,T. Kehrer,1
+M. Meyer,B. Embolo,1
+B. Oczipka,D. Caligiuri,1
+T. Kehrer,W. McKennie,1
+M. Meyer,M. Nastasi\u0107,1
+B. Oczipka,Naldo,1
+M. Nastasi\u0107,A. Harit,1

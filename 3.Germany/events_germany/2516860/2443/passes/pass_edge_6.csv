@@ -1,0 +1,20 @@
+Source,Target,Weight
+P. Bargfrede,T. Gebre Selassie,2
+T. Gebre Selassie,T. Delaney,1
+P. Bargfrede,N. Moisander,1
+Z. Junuzovi\u0107,M. Kruse,1
+N. Moisander,Z. Junuzovi\u0107,1
+N. Moisander,P. Bargfrede,1
+L. Augustinsson,P. Bargfrede,1
+T. Delaney,N. Moisander,1
+M. Veljkovic,T. Delaney,1
+T. Gebre Selassie,M. Veljkovic,1
+T. Delaney,P. Bargfrede,1
+M. Kruse,T. Delaney,1
+T. Delaney,L. Augustinsson,1
+M. Veljkovic,N. Moisander,1
+N. Moisander,F. Bartels,1
+M. Kruse,M. Veljkovic,1
+L. Augustinsson,M. Kruse,1
+F. Bartels,M. Kruse,1
+M. Kruse,L. Augustinsson,1

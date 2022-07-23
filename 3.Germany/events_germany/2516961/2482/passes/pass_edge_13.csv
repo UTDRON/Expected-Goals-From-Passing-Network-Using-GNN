@@ -1,0 +1,24 @@
+Source,Target,Weight
+N. Amiri,F. Grillitsch,3
+F. Grillitsch,K. Vogt,2
+F. Grillitsch,D. Geiger,2
+D. Geiger,N. Amiri,2
+P. Kade\u0159\u00e1bek,D. Geiger,2
+D. Geiger,O. Baumann,1
+F. Grillitsch,P. Kade\u0159\u00e1bek,1
+M. Uth,B. H\u00fcbner,1
+M. Uth,N. Amiri,1
+D. Geiger,F. Grillitsch,1
+K. Vogt,M. Uth,1
+B. H\u00fcbner,N. Schulz,1
+O. Baumann,B. H\u00fcbner,1
+B. H\u00fcbner,F. Grillitsch,1
+K. Vogt,\u00c1. Szalai,1
+N. Schulz,N. Amiri,1
+D. Geiger,N. Schulz,1
+\u00c1. Szalai,P. Kade\u0159\u00e1bek,1
+N. Schulz,D. Geiger,1
+N. Amiri,N. Schulz,1
+N. Schulz,M. Uth,1
+D. Geiger,M. Uth,1
+M. Uth,D. Geiger,1

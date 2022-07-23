@@ -1,0 +1,19 @@
+Source,Target,Weight
+P. Martinez,J. Martin,3
+J. Martin,P. Martinez,3
+K. Lala,J. Aholou,3
+J. Aholou,P. Martinez,2
+J. Aholou,I. Sacko,2
+P. Martinez,I. Saadi,2
+P. Martinez,Y. Salmier,2
+I. Sacko,J. Aholou,1
+J. Martin,J. Aholou,1
+Y. Salmier,J. Martin,1
+K. Lala,I. Sacko,1
+I. Sacko,J. Martin,1
+I. Sacko,K. Lala,1
+Y. Salmier,K. Mangane,1
+J. Aholou,K. Lala,1
+K. Mangane,P. Martinez,1
+J. Martin,K. Lala,1
+I. Saadi,K. Lala,1

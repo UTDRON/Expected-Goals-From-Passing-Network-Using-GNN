@@ -1,0 +1,90 @@
+Source,Target,Weight
+J. Ikoko,C. Grenier,12
+Pedro Rebocho,L. Blas,9
+Pedro Rebocho,N. Benezet,9
+L. Phiri,F. Eboa Eboa,9
+C. Grenier,N. Benezet,9
+L. Blas,Pedro Rebocho,8
+Pedro Rebocho,F. Eboa Eboa,8
+J. Ikoko,M. Coco,7
+F. Eboa Eboa,Pedro Rebocho,7
+N. Benezet,Pedro Rebocho,7
+C. Kerbrat,L. Phiri,6
+Pedro Rebocho,C. Grenier,6
+L. Blas,L. Phiri,6
+C. Grenier,J. Ikoko,6
+C. Kerbrat,J. Ikoko,5
+C. Grenier,Pedro Rebocho,5
+M. Coco,L. Phiri,5
+N. Benezet,L. Blas,5
+L. Phiri,J. Ikoko,5
+L. Phiri,Pedro Rebocho,5
+N. Benezet,C. Grenier,5
+F. Eboa Eboa,L. Blas,5
+L. Phiri,L. Blas,5
+C. Grenier,L. Phiri,4
+J. Ikoko,L. Blas,4
+L. Blas,C. Kerbrat,4
+F. Eboa Eboa,J. Ikoko,4
+L. Phiri,C. Kerbrat,4
+L. Blas,F. Eboa Eboa,4
+L. Blas,N. Benezet,4
+M. Coco,J. Ikoko,4
+F. Eboa Eboa,C. Kerbrat,4
+M. Coco,F. Eboa Eboa,4
+L. Blas,J. Ikoko,4
+L. Blas,C. Grenier,4
+J. Ikoko,L. Phiri,4
+C. Grenier,L. Blas,4
+J. Briand,L. Phiri,3
+J. Ikoko,C. Kerbrat,3
+N. Benezet,M. Coco,3
+N. Benezet,J. Ikoko,3
+C. Grenier,M. Coco,3
+M. Coco,J. Briand,3
+N. Benezet,F. Eboa Eboa,3
+J. Briand,N. Benezet,3
+F. Eboa Eboa,C. Grenier,3
+C. Grenier,C. Kerbrat,3
+K. Johnsson,Pedro Rebocho,3
+F. Eboa Eboa,K. Johnsson,3
+C. Kerbrat,C. Grenier,3
+Pedro Rebocho,L. Phiri,2
+K. Johnsson,M. Coco,2
+N. Benezet,L. Phiri,2
+N. Benezet,J. Briand,2
+L. Blas,M. Coco,2
+L. Phiri,C. Grenier,2
+C. Kerbrat,Pedro Rebocho,2
+M. Coco,L. Blas,2
+M. Coco,N. Benezet,2
+F. Eboa Eboa,J. Briand,2
+K. Johnsson,F. Eboa Eboa,2
+J. Briand,L. Blas,2
+F. Eboa Eboa,N. Benezet,2
+Pedro Rebocho,C. Kerbrat,2
+C. Kerbrat,K. Johnsson,2
+J. Briand,C. Grenier,2
+L. Phiri,J. Briand,2
+J. Briand,M. Coco,1
+J. Ikoko,N. Benezet,1
+C. Grenier,F. Eboa Eboa,1
+Pedro Rebocho,K. Johnsson,1
+C. Grenier,J. Briand,1
+K. Johnsson,C. Kerbrat,1
+C. Grenier,K. Johnsson,1
+C. Kerbrat,N. Benezet,1
+F. Eboa Eboa,M. Coco,1
+J. Briand,Pedro Rebocho,1
+J. Briand,J. Ikoko,1
+K. Johnsson,L. Phiri,1
+N. Benezet,K. Johnsson,1
+J. Ikoko,J. Briand,1
+J. Briand,F. Eboa Eboa,1
+Pedro Rebocho,J. Briand,1
+C. Kerbrat,M. Coco,1
+C. Kerbrat,J. Briand,1
+F. Eboa Eboa,L. Phiri,1
+L. Phiri,K. Johnsson,1
+L. Phiri,M. Coco,1
+L. Blas,J. Briand,1

@@ -1,0 +1,25 @@
+Source,Target,Weight
+L. Rupp,S. Gnabry,2
+F. Grillitsch,A. Kramari\u0107,2
+S. Gnabry,L. Rupp,2
+S. Gnabry,A. Kramari\u0107,2
+A. Kramari\u0107,K. Vogt,1
+D. Geiger,P. Kade\u0159\u00e1bek,1
+O. Baumann,N. Schulz,1
+N. Schulz,D. Geiger,1
+B. H\u00fcbner,O. Baumann,1
+P. Kade\u0159\u00e1bek,K. Akpoguma,1
+K. Vogt,B. H\u00fcbner,1
+D. Geiger,K. Akpoguma,1
+K. Akpoguma,L. Rupp,1
+N. Schulz,S. Gnabry,1
+A. Kramari\u0107,S. Gnabry,1
+K. Akpoguma,S. Gnabry,1
+N. Schulz,F. Grillitsch,1
+L. Rupp,F. Grillitsch,1
+B. H\u00fcbner,N. Schulz,1
+S. Gnabry,D. Geiger,1
+L. Rupp,D. Geiger,1
+A. Kramari\u0107,L. Rupp,1
+A. Kramari\u0107,N. Schulz,1
+D. Geiger,L. Rupp,1

@@ -1,0 +1,19 @@
+Source,Target,Weight
+R. Aguilar,N. Mukiele,3
+Pedro Mendes,J. Sambia,3
+Pedro Mendes,Hilton,2
+J. Sambia,Hilton,2
+J. Sambia,R. Aguilar,2
+Hilton,R. Aguilar,2
+J. Sambia,G. Sio,1
+B. Lecomte,Pedro Mendes,1
+N. Mukiele,B. Lecomte,1
+Hilton,Pedro Mendes,1
+G. Sio,N. Mukiele,1
+R. Aguilar,Pedro Mendes,1
+N. Mukiele,Pedro Mendes,1
+N. Mukiele,J. Sambia,1
+Hilton,I. Mbenza,1
+N. Mukiele,G. Sio,1
+I. Mbenza,E. Skhiri,1
+E. Skhiri,J. Sambia,1

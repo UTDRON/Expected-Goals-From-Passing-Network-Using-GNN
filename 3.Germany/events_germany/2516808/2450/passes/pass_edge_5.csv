@@ -1,0 +1,51 @@
+Source,Target,Weight
+G. Sakai,Walace,5
+Walace,G. Sakai,3
+A. Ekdal,M. Mavraj,3
+A. Hunt,M. Mavraj,3
+T. Ito,Walace,3
+T. Ito,G. Sakai,3
+M. Mavraj,G. Jung,3
+Walace,T. Ito,2
+C. Mathenia,G. Jung,2
+A. Ekdal,G. Jung,2
+G. Sakai,M. Mavraj,2
+A. Hunt,D. Diekmeier,2
+M. Mavraj,G. Sakai,2
+B. Wood,Walace,2
+G. Jung,M. Mavraj,2
+M. Mavraj,A. Ekdal,2
+M. Mavraj,Walace,2
+A. Hahn,A. Hunt,2
+Walace,C. Mathenia,2
+D. Diekmeier,T. Ito,2
+M. Mavraj,B. Wood,2
+A. Hunt,G. Jung,1
+G. Jung,A. Hahn,1
+Walace,G. Jung,1
+A. Hahn,M. Mavraj,1
+A. Hunt,G. Sakai,1
+M. Mavraj,T. Ito,1
+Walace,A. Ekdal,1
+D. Diekmeier,A. Hahn,1
+G. Jung,A. Hunt,1
+B. Wood,T. Ito,1
+A. Ekdal,C. Mathenia,1
+G. Sakai,A. Hunt,1
+G. Sakai,T. Ito,1
+C. Mathenia,D. Diekmeier,1
+C. Mathenia,M. Mavraj,1
+G. Jung,B. Wood,1
+Walace,A. Hunt,1
+T. Ito,A. Ekdal,1
+D. Diekmeier,A. Hunt,1
+B. Wood,A. Hunt,1
+G. Jung,T. Ito,1
+Walace,M. Mavraj,1
+G. Jung,Walace,1
+G. Jung,A. Ekdal,1
+Walace,B. Wood,1
+Walace,A. Hahn,1
+G. Jung,D. Diekmeier,1
+A. Hunt,A. Ekdal,1
+M. Mavraj,C. Mathenia,1

@@ -1,0 +1,25 @@
+Source,Target,Weight
+J. Gbamin,S. Serdar,2
+D. Latza,J. Gbamin,2
+K. Kodro,D. Latza,2
+G. Holtmann,D. Latza,2
+S. Serdar,S. Bell,2
+D. Latza,K. Kodro,2
+D. Brosinski,J. Gbamin,2
+J. Gbamin,D. Brosinski,2
+V. Fischer,G. Holtmann,1
+S. Bell,A. Hack,1
+S. Bell,V. Fischer,1
+D. Brosinski,S. Bell,1
+G. Holtmann,R. Zentner,1
+J. Gbamin,S. Bell,1
+S. Serdar,D. Brosinski,1
+S. Bell,D. Latza,1
+S. Bell,J. Gbamin,1
+A. Hack,D. Latza,1
+D. Latza,A. Hack,1
+D. Latza,G. Holtmann,1
+A. Hack,S. Serdar,1
+R. Zentner,S. Bell,1
+S. Bell,S. Serdar,1
+S. Serdar,D. Latza,1

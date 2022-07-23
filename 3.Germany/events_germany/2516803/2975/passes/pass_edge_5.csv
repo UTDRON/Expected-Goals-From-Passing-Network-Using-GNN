@@ -1,0 +1,98 @@
+Source,Target,Weight
+Bruma,M. Halstenberg,6
+M. Halstenberg,Y. Poulsen,5
+Bernardo,M. Sabitzer,5
+M. Sabitzer,K. Kampl,4
+K. Kampl,S. Ilsanker,4
+N. Ke\u00efta,Bruma,4
+S. Ilsanker,Bernardo,4
+K. Kampl,Bruma,4
+Bruma,N. Ke\u00efta,4
+Y. Poulsen,J. Augustin,4
+M. Sabitzer,Bruma,4
+Bruma,Y. Poulsen,3
+Bernardo,K. Kampl,3
+Y. Poulsen,Bruma,3
+M. Halstenberg,D. Upamecano,3
+S. Ilsanker,P. Gul\u00e1csi,3
+Y. Poulsen,M. Sabitzer,3
+P. Gul\u00e1csi,Y. Poulsen,3
+M. Halstenberg,M. Sabitzer,3
+M. Sabitzer,D. Upamecano,3
+M. Sabitzer,Bernardo,3
+J. Augustin,M. Halstenberg,3
+N. Ke\u00efta,M. Sabitzer,3
+S. Ilsanker,D. Upamecano,3
+Y. Poulsen,K. Kampl,3
+D. Upamecano,Bernardo,3
+J. Augustin,M. Sabitzer,3
+D. Upamecano,K. Kampl,3
+Bernardo,M. Halstenberg,2
+D. Upamecano,M. Halstenberg,2
+J. Augustin,Y. Poulsen,2
+Bruma,P. Gul\u00e1csi,2
+D. Upamecano,J. Augustin,2
+N. Ke\u00efta,M. Halstenberg,2
+Bernardo,D. Upamecano,2
+M. Halstenberg,Bruma,2
+J. Augustin,D. Upamecano,2
+Bernardo,Y. Poulsen,2
+J. Augustin,N. Ke\u00efta,2
+M. Sabitzer,M. Halstenberg,2
+P. Gul\u00e1csi,S. Ilsanker,2
+D. Demme,S. Ilsanker,2
+D. Demme,K. Kampl,2
+P. Gul\u00e1csi,D. Demme,2
+Y. Poulsen,S. Ilsanker,2
+M. Sabitzer,J. Augustin,2
+S. Ilsanker,M. Sabitzer,2
+K. Kampl,Y. Poulsen,2
+D. Upamecano,Bruma,2
+Bernardo,S. Ilsanker,2
+Y. Poulsen,Bernardo,2
+M. Sabitzer,N. Ke\u00efta,2
+D. Demme,J. Augustin,2
+K. Kampl,M. Sabitzer,1
+Bernardo,Bruma,1
+D. Demme,M. Halstenberg,1
+M. Sabitzer,D. Demme,1
+K. Kampl,P. Gul\u00e1csi,1
+J. Augustin,D. Demme,1
+K. Laimer,M. Sabitzer,1
+M. Halstenberg,D. Demme,1
+Y. Poulsen,M. Halstenberg,1
+K. Kampl,D. Demme,1
+M. Halstenberg,N. Ke\u00efta,1
+M. Halstenberg,K. Laimer,1
+D. Upamecano,P. Gul\u00e1csi,1
+M. Sabitzer,S. Ilsanker,1
+D. Demme,Bernardo,1
+Y. Poulsen,D. Demme,1
+Bruma,J. Augustin,1
+Bruma,D. Upamecano,1
+M. Halstenberg,Bernardo,1
+D. Upamecano,Y. Poulsen,1
+Y. Poulsen,N. Ke\u00efta,1
+M. Halstenberg,P. Gul\u00e1csi,1
+Bruma,K. Kampl,1
+P. Gul\u00e1csi,Bruma,1
+S. Ilsanker,Y. Poulsen,1
+J. Augustin,Bernardo,1
+N. Ke\u00efta,Bernardo,1
+Bruma,D. Demme,1
+P. Gul\u00e1csi,J. Augustin,1
+S. Ilsanker,D. Demme,1
+K. Kampl,Bernardo,1
+M. Halstenberg,J. Augustin,1
+Bruma,S. Ilsanker,1
+D. Demme,Y. Poulsen,1
+D. Upamecano,N. Ke\u00efta,1
+Bernardo,J. Augustin,1
+J. Augustin,K. Kampl,1
+Bruma,M. Sabitzer,1
+N. Ke\u00efta,Y. Poulsen,1
+N. Ke\u00efta,P. Gul\u00e1csi,1
+K. Kampl,J. Augustin,1
+Y. Poulsen,D. Upamecano,1
+K. Kampl,M. Halstenberg,1
+K. Kampl,N. Ke\u00efta,1

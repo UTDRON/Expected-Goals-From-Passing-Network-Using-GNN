@@ -1,0 +1,21 @@
+Source,Target,Weight
+I. Cissokho,B. Zungu,3
+B. Zungu,T. Monconduit,2
+P. Gouano,I. Cissokho,2
+Danilo Avelar,T. Monconduit,2
+T. Monconduit,Q. Cornette,2
+Q. Cornette,T. Monconduit,1
+B. Zungu,I. Cissokho,1
+P. Gouano,B. Zungu,1
+T. Monconduit,P. Gouano,1
+B. Dibassy,P. Gouano,1
+T. Monconduit,G. Kakuta,1
+T. Monconduit,Danilo Avelar,1
+G. Kakuta,R. Gurtner,1
+B. Zungu,B. Dibassy,1
+B. Dibassy,Q. Cornette,1
+T. Monconduit,B. Dibassy,1
+R. Gurtner,I. Cissokho,1
+Q. Cornette,G. Kakuta,1
+I. Cissokho,P. Gouano,1
+G. Kakuta,T. Monconduit,1

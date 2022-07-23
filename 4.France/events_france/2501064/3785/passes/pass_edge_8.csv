@@ -1,0 +1,21 @@
+Source,Target,Weight
+C. Kerbrat,M. Coco,2
+L. Blas,F. Tabanou,1
+M. Thuram,L. Blas,1
+M. Thuram,M. Coco,1
+F. Tabanou,M. Thuram,1
+C. Grenier,L. Deaux,1
+M. Coco,K. Johnsson,1
+M. Coco,F. Tabanou,1
+M. Coco,C. Grenier,1
+Pedro Rebocho,M. Coco,1
+K. Johnsson,M. Thuram,1
+C. Grenier,C. Kerbrat,1
+F. Tabanou,L. Deaux,1
+Pedro Rebocho,C. Grenier,1
+M. Thuram,J. Briand,1
+L. Blas,Pedro Rebocho,1
+L. Deaux,J. Sorbon,1
+L. Deaux,Pedro Rebocho,1
+J. Briand,M. Thuram,1
+J. Sorbon,C. Kerbrat,1

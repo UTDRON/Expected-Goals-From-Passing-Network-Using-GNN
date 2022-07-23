@@ -1,0 +1,31 @@
+Source,Target,Weight
+L. Phiri,N. Benezet,2
+\u00c9. Didot,C. Kerbrat,2
+L. Blas,L. Phiri,2
+M. Coco,J. Briand,1
+C. Kerbrat,J. Briand,1
+C. Kerbrat,K. Johnsson,1
+C. Kerbrat,\u00c9. Didot,1
+M. Coco,N. Benezet,1
+C. Kerbrat,L. Phiri,1
+N. Benezet,\u00c9. Didot,1
+N. Benezet,L. Blas,1
+Pedro Rebocho,M. Coco,1
+J. Ikoko,L. Blas,1
+L. Phiri,J. Ikoko,1
+J. Briand,\u00c9. Didot,1
+Pedro Rebocho,L. Blas,1
+F. Eboa Eboa,Pedro Rebocho,1
+J. Briand,N. Benezet,1
+L. Blas,C. Kerbrat,1
+J. Ikoko,N. Benezet,1
+L. Blas,M. Coco,1
+C. Kerbrat,F. Eboa Eboa,1
+N. Benezet,F. Eboa Eboa,1
+K. Johnsson,C. Kerbrat,1
+\u00c9. Didot,L. Blas,1
+F. Eboa Eboa,N. Benezet,1
+N. Benezet,J. Ikoko,1
+N. Benezet,J. Briand,1
+M. Coco,Pedro Rebocho,1
+J. Briand,M. Coco,1

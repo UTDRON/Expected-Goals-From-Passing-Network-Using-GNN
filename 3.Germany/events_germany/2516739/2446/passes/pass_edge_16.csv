@@ -1,0 +1,43 @@
+Source,Target,Weight
+B. Henrichs,K. Kampl,3
+J. Brandt,B. Henrichs,3
+K. Bellarabi,J. Brandt,2
+A. Dragovi\u0107,D. Kohr,2
+A. Mehmedi,A. Dragovi\u0107,2
+A. Dragovi\u0107,A. Mehmedi,2
+A. Dragovi\u0107,K. Kampl,2
+D. Kohr,A. Dragovi\u0107,2
+B. Henrichs,A. Mehmedi,2
+A. Mehmedi,D. Kohr,2
+A. Mehmedi,B. Henrichs,1
+K. Volland,J. Brandt,1
+D. Kohr,K. Bellarabi,1
+B. Henrichs,A. Dragovi\u0107,1
+A. Dragovi\u0107,B. Leno,1
+A. Mehmedi,K. Volland,1
+A. Mehmedi,J. Brandt,1
+K. Kampl,A. Mehmedi,1
+K. Bellarabi,A. Mehmedi,1
+B. Henrichs,B. Leno,1
+B. Leno,A. Dragovi\u0107,1
+K. Kampl,D. Kohr,1
+B. Henrichs,K. Bellarabi,1
+J. Brandt,Wendell,1
+D. Kohr,J. Tah,1
+K. Kampl,A. Dragovi\u0107,1
+A. Dragovi\u0107,B. Henrichs,1
+K. Kampl,J. Brandt,1
+K. Kampl,K. Bellarabi,1
+J. Brandt,A. Mehmedi,1
+K. Bellarabi,Wendell,1
+J. Tah,K. Kampl,1
+A. Mehmedi,K. Kampl,1
+K. Kampl,J. Tah,1
+B. Henrichs,J. Tah,1
+J. Tah,A. Dragovi\u0107,1
+Wendell,A. Mehmedi,1
+K. Kampl,B. Henrichs,1
+J. Tah,B. Henrichs,1
+D. Kohr,A. Mehmedi,1
+B. Leno,B. Henrichs,1
+A. Mehmedi,K. Bellarabi,1

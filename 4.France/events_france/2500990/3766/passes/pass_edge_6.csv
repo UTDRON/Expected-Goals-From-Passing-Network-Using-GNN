@@ -1,0 +1,15 @@
+Source,Target,Weight
+L. Tousart,M. Cornet,2
+M. Cornet,L. Tousart,1
+M. Depay,Marcelo,1
+F. Mendy,H. Aouar,1
+Rafael,M. Depay,1
+M. Depay,L. Tousart,1
+Marcelo,Rafael,1
+H. Aouar,M. Cornet,1
+H. Aouar,Marcelo,1
+Marcelo,H. Aouar,1
+M. Cornet,M. Depay,1
+M. Cornet,F. Mendy,1
+M. Depay,H. Aouar,1
+H. Aouar,M. Depay,1

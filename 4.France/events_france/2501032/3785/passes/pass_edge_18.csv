@@ -1,0 +1,60 @@
+Source,Target,Weight
+N. Benezet,C. Grenier,4
+N. Benezet,J. Ikoko,4
+C. Grenier,N. Benezet,4
+C. Grenier,L. Blas,3
+J. Ikoko,M. Thuram,3
+N. Benezet,F. Eboa Eboa,3
+L. Blas,C. Grenier,3
+M. Thuram,C. Grenier,3
+C. Grenier,J. Briand,3
+L. Blas,J. Briand,3
+\u00c9. Didot,C. Grenier,3
+L. Blas,N. Benezet,3
+J. Briand,L. Blas,3
+C. Kerbrat,N. Benezet,3
+J. Briand,J. Ikoko,3
+F. Eboa Eboa,C. Grenier,2
+J. Ikoko,C. Grenier,2
+C. Grenier,J. Ikoko,2
+C. Grenier,J. Sorbon,2
+J. Sorbon,\u00c9. Didot,2
+C. Grenier,\u00c9. Didot,2
+J. Ikoko,L. Blas,2
+\u00c9. Didot,L. Blas,2
+N. Benezet,L. Blas,2
+F. Eboa Eboa,N. Benezet,2
+C. Grenier,C. Kerbrat,1
+N. Benezet,C. Kerbrat,1
+K. Johnsson,\u00c9. Didot,1
+C. Grenier,M. Thuram,1
+F. Eboa Eboa,K. Johnsson,1
+L. Blas,\u00c9. Didot,1
+L. Blas,M. Thuram,1
+M. Thuram,J. Ikoko,1
+M. Thuram,N. Benezet,1
+L. Blas,C. Kerbrat,1
+J. Sorbon,M. Thuram,1
+\u00c9. Didot,J. Ikoko,1
+C. Kerbrat,L. Blas,1
+M. Thuram,L. Blas,1
+\u00c9. Didot,M. Thuram,1
+J. Ikoko,K. Johnsson,1
+N. Benezet,K. Johnsson,1
+J. Briand,F. Eboa Eboa,1
+J. Sorbon,L. Blas,1
+L. Blas,J. Sorbon,1
+F. Eboa Eboa,J. Sorbon,1
+N. Benezet,J. Briand,1
+F. Eboa Eboa,J. Briand,1
+M. Thuram,F. Eboa Eboa,1
+J. Briand,N. Benezet,1
+M. Thuram,\u00c9. Didot,1
+K. Johnsson,N. Benezet,1
+L. Blas,F. Eboa Eboa,1
+L. Blas,J. Ikoko,1
+J. Ikoko,C. Kerbrat,1
+J. Ikoko,N. Benezet,1
+J. Ikoko,J. Briand,1
+J. Ikoko,F. Eboa Eboa,1
+K. Johnsson,M. Thuram,1

@@ -1,0 +1,45 @@
+Source,Target,Weight
+R. Adler,A. Diallo,4
+S. Bell,J. Gbamin,3
+D. Latza,F. Frei,3
+J. Gbamin,S. Bell,3
+J. Gbamin,F. Frei,3
+F. Frei,D. Latza,2
+F. Frei,S. Bell,2
+A. Diallo,S. Bell,2
+D. Brosinski,Y. Muto,2
+J. Gbamin,A. Diallo,2
+Y. Muto,D. Latza,2
+G. Donati,R. Adler,2
+D. Latza,J. Gbamin,2
+S. Bell,R. Adler,2
+F. Frei,L. \u00d6ztunali,2
+S. Bell,G. Donati,2
+A. Diallo,P. De Blasis,1
+L. \u00d6ztunali,P. De Blasis,1
+P. De Blasis,S. Bell,1
+P. De Blasis,J. Gbamin,1
+A. Diallo,J. Gbamin,1
+F. Frei,J. Gbamin,1
+S. Bell,D. Latza,1
+G. Donati,F. Frei,1
+D. Latza,P. De Blasis,1
+L. \u00d6ztunali,F. Frei,1
+D. Latza,D. Brosinski,1
+F. Frei,Y. Muto,1
+P. De Blasis,G. Donati,1
+G. Donati,J. Gbamin,1
+J. Gbamin,D. Latza,1
+F. Frei,G. Donati,1
+A. Diallo,L. \u00d6ztunali,1
+J. Gbamin,Y. Muto,1
+Y. Muto,A. Diallo,1
+Y. Muto,J. Gbamin,1
+A. Diallo,R. Adler,1
+L. \u00d6ztunali,D. Latza,1
+R. Adler,S. Bell,1
+S. Bell,Y. Muto,1
+A. Diallo,D. Brosinski,1
+S. Bell,A. Diallo,1
+Y. Muto,F. Frei,1
+A. Diallo,D. Latza,1

@@ -1,0 +1,26 @@
+Source,Target,Weight
+T. Delaney,L. San\u00e9,1
+L. Augustinsson,M. Eggestein,1
+L. San\u00e9,N. Moisander,1
+N. Moisander,L. San\u00e9,1
+P. Bargfrede,L. Augustinsson,1
+L. Augustinsson,N. Moisander,1
+F. Bartels,T. Gebre Selassie,1
+M. Kruse,M. Eggestein,1
+N. Moisander,M. Kruse,1
+L. San\u00e9,L. Augustinsson,1
+L. Augustinsson,M. Kruse,1
+M. Eggestein,J. Pavlenka,1
+M. Kruse,T. Delaney,1
+L. San\u00e9,P. Bargfrede,1
+J. Pavlenka,T. Delaney,1
+M. Kruse,T. Gebre Selassie,1
+P. Bargfrede,M. Veljkovic,1
+M. Veljkovic,F. Bartels,1
+T. Delaney,F. Bartels,1
+F. Bartels,M. Veljkovic,1
+T. Gebre Selassie,M. Veljkovic,1
+M. Veljkovic,L. San\u00e9,1
+T. Gebre Selassie,L. Augustinsson,1
+F. Bartels,P. Bargfrede,1
+M. Veljkovic,M. Kruse,1

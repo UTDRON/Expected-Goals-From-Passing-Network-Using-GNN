@@ -1,0 +1,86 @@
+Source,Target,Weight
+B. Corgnet,D. Li\u00e9nard,7
+D. Li\u00e9nard,K. Lala,7
+B. Kon\u00e9,D. Li\u00e9nard,6
+B. Corgnet,J. Aholou,5
+K. Lala,B. Corgnet,5
+E. Seka,J. Aholou,5
+B. Kon\u00e9,K. Lala,4
+B. Corgnet,E. Seka,4
+J. Aholou,K. Lala,4
+E. Seka,B. Corgnet,4
+K. Lala,Nuno Da Costa,4
+D. Li\u00e9nard,B. Kon\u00e9,4
+E. Seka,B. Kamara,4
+K. Mangane,D. Li\u00e9nard,4
+B. Kamara,B. Corgnet,4
+J. Aholou,E. Seka,4
+J. Martin,E. Seka,4
+D. Li\u00e9nard,J. Aholou,4
+I. Saadi,J. Martin,4
+B. Corgnet,Nuno Da Costa,4
+J. Aholou,D. Li\u00e9nard,4
+D. Li\u00e9nard,J. Martin,3
+K. Lala,K. Mangane,3
+J. Martin,K. Mangane,3
+K. Lala,B. Kon\u00e9,3
+K. Lala,D. Li\u00e9nard,3
+J. Martin,B. Kon\u00e9,3
+Nuno Da Costa,D. Li\u00e9nard,3
+K. Mangane,E. Seka,3
+J. Martin,B. Corgnet,3
+E. Seka,I. Saadi,3
+J. Aholou,I. Saadi,3
+J. Aholou,B. Corgnet,3
+B. Kamara,K. Lala,2
+D. Li\u00e9nard,K. Mangane,2
+B. Kon\u00e9,K. Mangane,2
+E. Seka,K. Mangane,2
+E. Seka,J. Martin,2
+K. Lala,J. Martin,2
+B. Corgnet,I. Saadi,2
+B. Corgnet,J. Martin,2
+K. Mangane,B. Kon\u00e9,2
+B. Kamara,E. Seka,2
+B. Kon\u00e9,J. Martin,2
+Nuno Da Costa,K. Lala,2
+K. Lala,J. Aholou,2
+D. Li\u00e9nard,B. Corgnet,2
+D. Li\u00e9nard,Nuno Da Costa,2
+D. Li\u00e9nard,E. Seka,2
+J. Aholou,B. Kon\u00e9,2
+J. Martin,J. Aholou,2
+J. Aholou,B. Kamara,2
+B. Kamara,B. Kon\u00e9,2
+I. Saadi,E. Seka,2
+E. Seka,D. Li\u00e9nard,2
+K. Mangane,J. Aholou,2
+B. Kon\u00e9,J. Aholou,2
+J. Martin,K. Lala,2
+J. Aholou,K. Mangane,2
+I. Saadi,B. Corgnet,2
+D. Li\u00e9nard,I. Saadi,2
+I. Saadi,B. Kamara,2
+Nuno Da Costa,J. Martin,2
+B. Kamara,J. Aholou,1
+Nuno Da Costa,J. Aholou,1
+B. Kon\u00e9,E. Seka,1
+Nuno Da Costa,B. Corgnet,1
+I. Saadi,J. Aholou,1
+I. Saadi,K. Lala,1
+B. Kon\u00e9,Nuno Da Costa,1
+Nuno Da Costa,B. Kon\u00e9,1
+K. Mangane,B. Kamara,1
+K. Mangane,J. Martin,1
+Nuno Da Costa,I. Saadi,1
+D. Li\u00e9nard,B. Kamara,1
+Nuno Da Costa,E. Seka,1
+K. Lala,B. Kamara,1
+J. Aholou,J. Martin,1
+J. Martin,Nuno Da Costa,1
+K. Lala,I. Saadi,1
+B. Corgnet,K. Lala,1
+E. Seka,K. Lala,1
+I. Saadi,B. Kon\u00e9,1
+K. Mangane,B. Corgnet,1
+J. Martin,I. Saadi,1

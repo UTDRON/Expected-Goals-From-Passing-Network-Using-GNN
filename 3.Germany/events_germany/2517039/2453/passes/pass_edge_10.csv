@@ -1,0 +1,26 @@
+Source,Target,Weight
+T. Kleindienst,M. Terrazzino,6
+M. Terrazzino,T. Kleindienst,3
+M. Terrazzino,C. G\u00fcnter,2
+M. Terrazzino,P. Stenzel,2
+N. Petersen,T. Kleindienst,1
+N. Petersen,M. Terrazzino,1
+M. Kempf,T. Kleindienst,1
+N. H\u00f6fler,L. K\u00fcbler,1
+C. G\u00fcnter,A. Schwolow,1
+P. Stenzel,N. H\u00f6fler,1
+P. Stenzel,T. Kleindienst,1
+A. Schwolow,N. Petersen,1
+T. Kleindienst,C. G\u00fcnter,1
+C. G\u00fcnter,T. Kleindienst,1
+L. K\u00fcbler,N. H\u00f6fler,1
+C. G\u00fcnter,N. Petersen,1
+N. Petersen,J. Haberer,1
+N. H\u00f6fler,P. Stenzel,1
+P. Stenzel,C. G\u00fcnter,1
+M. Gulde,T. Kleindienst,1
+J. Haberer,T. Kleindienst,1
+P. Stenzel,M. Kempf,1
+M. Terrazzino,N. Petersen,1
+C. G\u00fcnter,M. Terrazzino,1
+T. Kleindienst,P. Stenzel,1

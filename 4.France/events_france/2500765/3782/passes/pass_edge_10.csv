@@ -1,0 +1,45 @@
+Source,Target,Weight
+R. Cabella,R. Hamouma,3
+R. Pierre-Gabriel,J. Bamba,3
+R. Hamouma,S. Janko,2
+J. Bamba,R. Pierre-Gabriel,2
+R. Pierre-Gabriel,Hernani,2
+S. Janko,R. Cabella,2
+L. Diony,R. Hamouma,2
+Hernani,J. Bamba,2
+S. Janko,Hernani,2
+J. Bamba,V. Pajot,2
+V. Pajot,R. Cabella,2
+V. Pajot,R. Pierre-Gabriel,1
+R. Cabella,S. Ruffier,1
+S. Ruffier,Hernani,1
+Hernani,A. S\u00f8derlund,1
+A. S\u00f8derlund,L. Diony,1
+L. Diony,V. Pajot,1
+V. Pajot,S. Janko,1
+K. Th\u00e9ophile Catherine,R. Pierre-Gabriel,1
+R. Cabella,L. Diony,1
+A. S\u00f8derlund,R. Pierre-Gabriel,1
+R. Pierre-Gabriel,K. Th\u00e9ophile Catherine,1
+R. Hamouma,R. Pierre-Gabriel,1
+R. Cabella,K. Th\u00e9ophile Catherine,1
+A. S\u00f8derlund,R. Hamouma,1
+Hernani,V. Pajot,1
+R. Hamouma,Hernani,1
+J. Bamba,R. Cabella,1
+R. Cabella,S. Janko,1
+S. Janko,R. Hamouma,1
+S. Janko,V. Pajot,1
+K. Th\u00e9ophile Catherine,S. Janko,1
+Hernani,S. Janko,1
+V. Pajot,S. Ruffier,1
+K. Th\u00e9ophile Catherine,R. Cabella,1
+R. Hamouma,K. Th\u00e9ophile Catherine,1
+K. Th\u00e9ophile Catherine,J. Bamba,1
+J. Bamba,L. Diony,1
+S. Ruffier,V. Pajot,1
+V. Pajot,K. Th\u00e9ophile Catherine,1
+R. Cabella,J. Bamba,1
+Hernani,R. Cabella,1
+J. Bamba,A. S\u00f8derlund,1
+R. Hamouma,R. Cabella,1

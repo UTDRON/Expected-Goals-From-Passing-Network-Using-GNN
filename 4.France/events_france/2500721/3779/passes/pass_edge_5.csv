@@ -1,0 +1,19 @@
+Source,Target,Weight
+B. Corgnet,I. Sacko,2
+J. Martin,K. Lala,1
+K. Lala,I. Saadi,1
+I. Sacko,K. Lala,1
+K. Mangane,I. Sacko,1
+M. Terrier,B. Kamara,1
+K. Lala,K. Mangane,1
+K. Mangane,K. Lala,1
+M. Terrier,K. Mangane,1
+I. Sacko,J. Martin,1
+K. Lala,J. Martin,1
+I. Saadi,Y. Salmier,1
+B. Corgnet,M. Terrier,1
+J. Martin,B. Corgnet,1
+Y. Salmier,B. Corgnet,1
+Y. Salmier,K. Mangane,1
+B. Kamara,M. Terrier,1
+K. Mangane,B. Corgnet,1

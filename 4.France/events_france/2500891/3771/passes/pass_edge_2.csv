@@ -1,0 +1,43 @@
+Source,Target,Weight
+A. Zambo Anguissa,B. Sarr,3
+V. Germain,F. Thauvin,2
+Luiz Gustavo,H. Sakai,2
+Luiz Gustavo,A. Abdennour,2
+H. Sakai,Luiz Gustavo,2
+M. Sanson,F. Thauvin,2
+A. Abdennour,A. Zambo Anguissa,2
+F. Thauvin,A. Rami,2
+F. Thauvin,A. Zambo Anguissa,2
+B. Sarr,A. Rami,2
+L. Ocampos,H. Sakai,1
+H. Sakai,V. Germain,1
+F. Thauvin,M. Sanson,1
+B. Sarr,L. Ocampos,1
+A. Abdennour,A. Rami,1
+H. Sakai,A. Rami,1
+B. Sarr,Luiz Gustavo,1
+Luiz Gustavo,A. Zambo Anguissa,1
+L. Ocampos,A. Abdennour,1
+H. Sakai,A. Abdennour,1
+A. Zambo Anguissa,F. Thauvin,1
+M. Sanson,L. Ocampos,1
+A. Rami,B. Sarr,1
+A. Zambo Anguissa,M. Sanson,1
+B. Sarr,F. Thauvin,1
+A. Rami,H. Sakai,1
+A. Rami,A. Zambo Anguissa,1
+A. Abdennour,M. Sanson,1
+F. Thauvin,S. Mandanda,1
+B. Sarr,A. Abdennour,1
+A. Zambo Anguissa,Luiz Gustavo,1
+A. Rami,Luiz Gustavo,1
+L. Ocampos,B. Sarr,1
+B. Sarr,V. Germain,1
+Luiz Gustavo,A. Rami,1
+S. Mandanda,Luiz Gustavo,1
+A. Rami,F. Thauvin,1
+F. Thauvin,H. Sakai,1
+V. Germain,B. Sarr,1
+A. Rami,V. Germain,1
+H. Sakai,L. Ocampos,1
+A. Abdennour,H. Sakai,1

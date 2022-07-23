@@ -1,0 +1,25 @@
+Source,Target,Weight
+M. Sabitzer,W. Orban,2
+W. Orban,L. Klostermann,2
+P. Gul\u00e1csi,W. Orban,2
+P. Gul\u00e1csi,M. Halstenberg,2
+D. Demme,P. Gul\u00e1csi,1
+N. Ke\u00efta,P. Gul\u00e1csi,1
+L. Klostermann,M. Sabitzer,1
+J. Augustin,T. Werner,1
+W. Orban,M. Halstenberg,1
+P. Gul\u00e1csi,D. Demme,1
+T. Werner,D. Upamecano,1
+M. Halstenberg,D. Upamecano,1
+D. Demme,W. Orban,1
+D. Upamecano,D. Demme,1
+D. Upamecano,T. Werner,1
+W. Orban,M. Sabitzer,1
+N. Ke\u00efta,W. Orban,1
+W. Orban,P. Gul\u00e1csi,1
+D. Upamecano,N. Ke\u00efta,1
+T. Werner,P. Gul\u00e1csi,1
+W. Orban,N. Ke\u00efta,1
+M. Halstenberg,P. Gul\u00e1csi,1
+M. Halstenberg,J. Augustin,1
+L. Klostermann,J. Augustin,1

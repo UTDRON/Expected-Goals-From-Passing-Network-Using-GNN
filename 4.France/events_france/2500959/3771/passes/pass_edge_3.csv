@@ -1,0 +1,24 @@
+Source,Target,Weight
+Luiz Gustavo,A. Rami,3
+Rolando,Luiz Gustavo,3
+A. Zambo Anguissa,J. Amavi,3
+A. Rami,B. Sarr,2
+J. Amavi,Rolando,2
+A. Rami,F. Thauvin,2
+J. Amavi,Luiz Gustavo,2
+A. Rami,Rolando,1
+Rolando,A. Zambo Anguissa,1
+A. Rami,Luiz Gustavo,1
+Rolando,J. Amavi,1
+B. Sarr,A. Rami,1
+Rolando,A. Rami,1
+F. Thauvin,A. Rami,1
+Luiz Gustavo,B. Sarr,1
+B. Sarr,F. Thauvin,1
+B. Sarr,M. Sanson,1
+Luiz Gustavo,Rolando,1
+Luiz Gustavo,A. Zambo Anguissa,1
+F. Thauvin,V. Germain,1
+M. Sanson,D. Payet,1
+F. Thauvin,Rolando,1
+D. Payet,A. Zambo Anguissa,1

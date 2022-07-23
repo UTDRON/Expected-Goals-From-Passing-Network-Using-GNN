@@ -1,0 +1,24 @@
+Source,Target,Weight
+L. Dubois,V. Rongier,4
+J. Iloki,L. Dubois,2
+V. Rongier,J. Iloki,2
+V. Rongier,L. Dubois,2
+E. Sala,Lucas Lima,2
+S. Ngom,A. Thomasson,1
+L. Dubois,E. Sala,1
+Lucas Lima,K. Djidji,1
+J. Iloki,Lucas Lima,1
+R. Krhin,Lucas Lima,1
+Lucas Lima,V. Rongier,1
+A. Thomasson,R. Krhin,1
+Lucas Lima,E. Sala,1
+Lucas Lima,S. Ngom,1
+V. Rongier,N. Pallois,1
+K. Djidji,E. Sala,1
+E. Sala,J. Iloki,1
+Lucas Lima,R. Krhin,1
+N. Pallois,S. Ngom,1
+V. Rongier,A. Thomasson,1
+R. Krhin,N. Pallois,1
+S. Ngom,V. Rongier,1
+N. Pallois,Lucas Lima,1

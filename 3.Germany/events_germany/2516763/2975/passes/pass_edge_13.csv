@@ -1,0 +1,19 @@
+Source,Target,Weight
+K. Kampl,D. Demme,2
+D. Demme,W. Orban,2
+W. Orban,D. Upamecano,1
+D. Demme,D. Upamecano,1
+W. Orban,P. Gul\u00e1csi,1
+M. Halstenberg,K. Kampl,1
+P. Gul\u00e1csi,K. Kampl,1
+W. Orban,M. Sabitzer,1
+D. Upamecano,M. Halstenberg,1
+D. Upamecano,D. Demme,1
+M. Sabitzer,K. Kampl,1
+P. Gul\u00e1csi,L. Klostermann,1
+L. Klostermann,N. Ke\u00efta,1
+T. Werner,P. Gul\u00e1csi,1
+K. Kampl,T. Werner,1
+W. Orban,T. Werner,1
+N. Ke\u00efta,K. Kampl,1
+K. Kampl,W. Orban,1

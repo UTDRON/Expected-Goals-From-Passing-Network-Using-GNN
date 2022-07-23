@@ -1,0 +1,35 @@
+Source,Target,Weight
+T. Mangani,A. Bamba,3
+L. Butelle,I. Traor\u00e9,2
+A. Bamba,B. Santamaria,2
+I. Traor\u00e9,V. Manceau,2
+K. Toko Ekambi,P. Oniangu\u00e9,2
+J. Reine-Adelaide,T. Mangani,2
+J. Reine-Adelaide,K. Toko Ekambi,2
+P. Oniangu\u00e9,J. Reine-Adelaide,2
+K. Toko Ekambi,V. Manceau,1
+R. Thomas,A. Bamba,1
+V. Manceau,J. Reine-Adelaide,1
+R. Thomas,I. Traor\u00e9,1
+R. Thomas,V. Manceau,1
+B. Santamaria,K. Toko Ekambi,1
+K. Toko Ekambi,T. Mangani,1
+R. Thomas,B. Santamaria,1
+L. Butelle,R. Thomas,1
+K. Toko Ekambi,F. Tait,1
+A. Bamba,F. Tait,1
+F. Tait,K. Toko Ekambi,1
+V. Manceau,R. Thomas,1
+F. Tait,B. Santamaria,1
+A. Bamba,R. Thomas,1
+V. Manceau,L. Butelle,1
+T. Mangani,K. Toko Ekambi,1
+R. Thomas,L. Butelle,1
+B. Santamaria,T. Mangani,1
+B. Santamaria,J. Reine-Adelaide,1
+J. Reine-Adelaide,L. Butelle,1
+B. Santamaria,R. Thomas,1
+I. Traor\u00e9,T. Mangani,1
+V. Manceau,I. Traor\u00e9,1
+T. Mangani,J. Reine-Adelaide,1
+I. Traor\u00e9,R. Thomas,1

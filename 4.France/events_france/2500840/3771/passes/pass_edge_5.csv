@@ -1,0 +1,80 @@
+Source,Target,Weight
+A. Rami,A. Abdennour,8
+A. Abdennour,J. Amavi,7
+H. Sakai,A. Rami,7
+A. Rami,H. Sakai,7
+J. Amavi,A. Abdennour,6
+A. Zambo Anguissa,Luiz Gustavo,6
+A. Abdennour,A. Rami,5
+Luiz Gustavo,A. Rami,5
+J. Amavi,A. Zambo Anguissa,5
+A. Zambo Anguissa,D. Payet,5
+J. Amavi,D. Payet,4
+A. Zambo Anguissa,M. Sanson,4
+H. Sakai,A. Zambo Anguissa,4
+D. Payet,Luiz Gustavo,4
+A. Rami,A. Zambo Anguissa,4
+Luiz Gustavo,J. Amavi,4
+J. Amavi,Luiz Gustavo,4
+A. Zambo Anguissa,J. Amavi,4
+Luiz Gustavo,A. Zambo Anguissa,4
+D. Payet,F. Thauvin,4
+A. Rami,J. Amavi,3
+D. Payet,M. Sanson,3
+F. Thauvin,J. Amavi,3
+A. Zambo Anguissa,H. Sakai,3
+A. Zambo Anguissa,A. Rami,3
+A. Abdennour,A. Zambo Anguissa,3
+J. Amavi,V. Germain,3
+M. Sanson,V. Germain,3
+D. Payet,A. Rami,3
+V. Germain,H. Sakai,3
+F. Thauvin,Luiz Gustavo,2
+A. Abdennour,D. Payet,2
+H. Sakai,F. Thauvin,2
+M. Sanson,J. Amavi,2
+M. Sanson,D. Payet,2
+H. Sakai,V. Germain,2
+H. Sakai,M. Sanson,2
+M. Sanson,A. Rami,2
+A. Rami,Luiz Gustavo,2
+A. Rami,D. Payet,2
+F. Thauvin,D. Payet,2
+Luiz Gustavo,F. Thauvin,2
+M. Sanson,A. Abdennour,2
+A. Zambo Anguissa,F. Thauvin,2
+Luiz Gustavo,D. Payet,2
+D. Payet,V. Germain,2
+D. Payet,A. Zambo Anguissa,2
+M. Sanson,H. Sakai,2
+V. Germain,A. Zambo Anguissa,2
+J. Amavi,M. Sanson,2
+J. Amavi,S. Mandanda,1
+V. Germain,D. Payet,1
+A. Rami,M. Sanson,1
+L. Ocampos,A. Zambo Anguissa,1
+S. Mandanda,A. Zambo Anguissa,1
+F. Thauvin,M. Sanson,1
+L. Ocampos,A. Rami,1
+H. Sakai,L. Ocampos,1
+A. Zambo Anguissa,A. Abdennour,1
+Luiz Gustavo,A. Abdennour,1
+Luiz Gustavo,M. Sanson,1
+V. Germain,M. Sanson,1
+A. Abdennour,H. Sakai,1
+D. Payet,A. Abdennour,1
+Luiz Gustavo,H. Sakai,1
+M. Sanson,A. Zambo Anguissa,1
+D. Payet,J. Amavi,1
+H. Sakai,J. Amavi,1
+V. Germain,L. Ocampos,1
+F. Thauvin,A. Abdennour,1
+F. Thauvin,H. Sakai,1
+V. Germain,J. Amavi,1
+H. Sakai,Luiz Gustavo,1
+L. Ocampos,H. Sakai,1
+A. Abdennour,Luiz Gustavo,1
+J. Amavi,H. Sakai,1
+S. Mandanda,A. Rami,1
+A. Abdennour,S. Mandanda,1
+M. Sanson,L. Ocampos,1

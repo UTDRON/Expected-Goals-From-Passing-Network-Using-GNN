@@ -1,0 +1,54 @@
+Source,Target,Weight
+M. Poundj\u00e9,N. de Pr\u00e9ville,5
+Y. Sabaly,L. Lerager,4
+Pablo,M. Poundj\u00e9,4
+Pablo,P. Baysse,4
+B. Costil,Pablo,3
+J. Pla\u0161il,M. Poundj\u00e9,3
+N. de Pr\u00e9ville,M. Poundj\u00e9,3
+N. de Pr\u00e9ville,J. Pla\u0161il,3
+L. Lerager,Y. Sabaly,3
+L. Lerager,J. Pla\u0161il,2
+P. Baysse,N. de Pr\u00e9ville,2
+M. Braithwaite,L. Lerager,2
+L. Lerager,F. Kamano,2
+L. Lerager,P. Baysse,2
+M. Poundj\u00e9,Pablo,2
+J. Pla\u0161il,F. Kamano,2
+P. Baysse,L. Lerager,2
+J. Pla\u0161il,N. de Pr\u00e9ville,2
+F. Kamano,L. Lerager,2
+P. Baysse,B. Costil,2
+Pablo,J. Pla\u0161il,2
+Y. Sabaly,F. Kamano,2
+S. Me\u00eft\u00e9,N. de Pr\u00e9ville,1
+M. Poundj\u00e9,J. Pla\u0161il,1
+S. Me\u00eft\u00e9,M. Poundj\u00e9,1
+N. de Pr\u00e9ville,M. Braithwaite,1
+L. Lerager,N. de Pr\u00e9ville,1
+P. Baysse,Pablo,1
+F. Kamano,M. Braithwaite,1
+S. Me\u00eft\u00e9,Pablo,1
+P. Baysse,Y. Sabaly,1
+M. Poundj\u00e9,B. Costil,1
+F. Kamano,P. Baysse,1
+S. Me\u00eft\u00e9,J. Pla\u0161il,1
+F. Kamano,S. Me\u00eft\u00e9,1
+J. Pla\u0161il,Pablo,1
+Pablo,L. Lerager,1
+Y. Sabaly,Pablo,1
+F. Kamano,Pablo,1
+M. Braithwaite,P. Baysse,1
+B. Costil,Y. Sabaly,1
+J. Pla\u0161il,Y. Sabaly,1
+M. Poundj\u00e9,S. Me\u00eft\u00e9,1
+P. Baysse,M. Poundj\u00e9,1
+N. de Pr\u00e9ville,Pablo,1
+F. Kamano,Y. Sabaly,1
+M. Poundj\u00e9,P. Baysse,1
+Pablo,B. Costil,1
+M. Poundj\u00e9,M. Braithwaite,1
+L. Lerager,Pablo,1
+N. de Pr\u00e9ville,F. Kamano,1
+N. de Pr\u00e9ville,S. Me\u00eft\u00e9,1
+J. Pla\u0161il,S. Me\u00eft\u00e9,1

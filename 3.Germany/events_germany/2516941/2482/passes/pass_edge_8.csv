@@ -1,0 +1,17 @@
+Source,Target,Weight
+S. Zuber,M. Uth,4
+M. Uth,S. Zuber,2
+R. Zulj,\u00c1. Szalai,2
+M. Uth,R. Zulj,2
+K. Vogt,O. Baumann,2
+\u00c1. Szalai,S. Zuber,2
+S. Zuber,F. Grillitsch,1
+O. Baumann,K. Vogt,1
+A. Kramari\u0107,L. Rupp,1
+L. Rupp,K. Vogt,1
+F. Grillitsch,S. Zuber,1
+O. Baumann,B. H\u00fcbner,1
+B. H\u00fcbner,F. Grillitsch,1
+F. Grillitsch,\u00c1. Szalai,1
+M. Uth,A. Kramari\u0107,1
+\u00c1. Szalai,M. Uth,1

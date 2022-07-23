@@ -1,0 +1,20 @@
+Source,Target,Weight
+C. Ninga,E. Skhiri,2
+N. Mukiele,C. Ninga,2
+G. Sio,J. Roussillon,2
+B. Lecomte,R. Aguilar,1
+P. Lasne,R. Aguilar,1
+Hilton,N. Mukiele,1
+E. Skhiri,Hilton,1
+P. Lasne,E. Skhiri,1
+S. Sess\u00e8gnon,G. Sio,1
+R. Aguilar,E. Skhiri,1
+R. Aguilar,C. Ninga,1
+C. Ninga,B. Lecomte,1
+Hilton,P. Lasne,1
+J. Roussillon,G. Sio,1
+J. Roussillon,Hilton,1
+E. Skhiri,N. Mukiele,1
+E. Skhiri,P. Lasne,1
+J. Roussillon,S. Sess\u00e8gnon,1
+E. Skhiri,S. Sess\u00e8gnon,1

@@ -1,0 +1,13 @@
+Source,Target,Weight
+A. Saint-Maximin,J. Seri,2
+Y. Cardinale,H. Mahou,1
+J. Seri,A. Saint-Maximin,1
+P. Lees Melou,A. Saint-Maximin,1
+C. Jallet,H. Mahou,1
+Dante,P. Lees Melou,1
+H. Mahou,J. Seri,1
+P. Lees Melou,J. Seri,1
+Dante,Y. Cardinale,1
+J. Seri,C. Jallet,1
+J. Seri,Dante,1
+J. Seri,P. Lees Melou,1

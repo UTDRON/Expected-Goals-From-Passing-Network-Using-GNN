@@ -1,0 +1,78 @@
+Source,Target,Weight
+B. Oczipka,G. Burgstaller,7
+M. Meyer,B. Oczipka,5
+M. Nastasi\u0107,B. Oczipka,5
+M. Nastasi\u0107,M. Meyer,4
+G. Burgstaller,A. Harit,4
+G. Burgstaller,B. Oczipka,4
+A. Harit,B. Oczipka,4
+B. Oczipka,M. Nastasi\u0107,4
+W. McKennie,D. Caligiuri,4
+R. F\u00e4hrmann,F. Di Santo,3
+W. McKennie,A. Harit,3
+D. Caligiuri,W. McKennie,3
+A. Harit,G. Burgstaller,3
+B. Oczipka,W. McKennie,3
+B. Stambouli,M. Nastasi\u0107,3
+B. Oczipka,A. Harit,2
+Naldo,R. F\u00e4hrmann,2
+W. McKennie,M. Nastasi\u0107,2
+G. Burgstaller,F. Di Santo,2
+M. Meyer,D. Caligiuri,2
+G. Burgstaller,D. Caligiuri,2
+Naldo,W. McKennie,2
+R. F\u00e4hrmann,G. Burgstaller,2
+M. Nastasi\u0107,Naldo,2
+D. Caligiuri,M. Meyer,2
+M. Nastasi\u0107,B. Stambouli,2
+M. Meyer,A. Harit,2
+D. Caligiuri,Naldo,2
+A. Harit,M. Meyer,2
+F. Di Santo,M. Meyer,2
+B. Stambouli,W. McKennie,2
+G. Burgstaller,W. McKennie,2
+D. Caligiuri,B. Embolo,2
+D. Caligiuri,G. Burgstaller,2
+B. Embolo,D. Caligiuri,2
+G. Burgstaller,M. Nastasi\u0107,2
+B. Oczipka,M. Meyer,2
+D. Caligiuri,B. Stambouli,1
+M. Meyer,R. F\u00e4hrmann,1
+W. McKennie,G. Burgstaller,1
+D. Caligiuri,R. F\u00e4hrmann,1
+M. Meyer,M. Nastasi\u0107,1
+G. Burgstaller,B. Stambouli,1
+Naldo,G. Burgstaller,1
+F. Di Santo,G. Burgstaller,1
+R. F\u00e4hrmann,B. Oczipka,1
+B. Oczipka,R. F\u00e4hrmann,1
+A. Harit,Naldo,1
+F. Di Santo,B. Stambouli,1
+R. F\u00e4hrmann,B. Stambouli,1
+W. McKennie,F. Di Santo,1
+F. Di Santo,M. Nastasi\u0107,1
+W. McKennie,Naldo,1
+A. Harit,D. Caligiuri,1
+F. Di Santo,R. F\u00e4hrmann,1
+R. F\u00e4hrmann,M. Nastasi\u0107,1
+B. Stambouli,D. Caligiuri,1
+A. Harit,W. McKennie,1
+B. Oczipka,B. Stambouli,1
+A. Harit,B. Embolo,1
+W. McKennie,R. F\u00e4hrmann,1
+M. Meyer,G. Burgstaller,1
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+Naldo,A. Harit,1
+Naldo,B. Oczipka,1
+M. Meyer,Naldo,1
+F. Di Santo,D. Caligiuri,1
+B. Oczipka,F. Di Santo,1
+M. Meyer,F. Di Santo,1
+B. Oczipka,Naldo,1
+B. Embolo,B. Oczipka,1
+W. McKennie,B. Oczipka,1
+B. Stambouli,M. Meyer,1
+F. Di Santo,W. McKennie,1
+Naldo,D. Caligiuri,1
+G. Burgstaller,M. Meyer,1
+D. Caligiuri,A. Harit,1

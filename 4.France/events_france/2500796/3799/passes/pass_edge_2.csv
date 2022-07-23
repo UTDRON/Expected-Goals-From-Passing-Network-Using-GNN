@@ -1,0 +1,21 @@
+Source,Target,Weight
+S. Ciss,T. Mangani,4
+T. Mangani,B. Santamaria,3
+B. Santamaria,S. Ciss,3
+G. Sunu,T. Mangani,2
+I. Traor\u00e9,T. Mangani,2
+T. Mangani,G. Sunu,2
+G. Sunu,S. Ciss,1
+V. Manceau,T. Mangani,1
+T. Mangani,I. Traor\u00e9,1
+R. Thomas,G. Sunu,1
+M. Michel,V. Manceau,1
+T. Mangani,K. Toko Ekambi,1
+S. Ciss,R. Thomas,1
+T. Mangani,R. Thomas,1
+M. Michel,S. Ciss,1
+T. Mangani,S. Ciss,1
+R. Thomas,B. Santamaria,1
+S. Ciss,G. Sunu,1
+B. Santamaria,I. Traor\u00e9,1
+K. Toko Ekambi,M. Michel,1

@@ -1,0 +1,89 @@
+Source,Target,Weight
+F. Eboa Eboa,Y. Salibur,6
+Pedro Rebocho,J. Briand,6
+Pedro Rebocho,\u00c9. Didot,5
+Y. Salibur,L. Deaux,5
+Pedro Rebocho,J. Sorbon,5
+\u00c9. Didot,Pedro Rebocho,5
+J. Sorbon,Pedro Rebocho,4
+Y. Salibur,F. Eboa Eboa,4
+L. Deaux,F. Eboa Eboa,4
+\u00c9. Didot,L. Deaux,3
+M. Thuram,M. Diallo,3
+M. Diallo,Y. Salibur,3
+C. Kerbrat,Pedro Rebocho,3
+M. Diallo,C. Kerbrat,3
+J. Briand,Pedro Rebocho,3
+L. Deaux,J. Sorbon,3
+J. Sorbon,\u00c9. Didot,3
+F. Eboa Eboa,\u00c9. Didot,3
+L. Deaux,Y. Salibur,3
+Pedro Rebocho,L. Deaux,3
+J. Briand,L. Deaux,3
+K. Johnsson,M. Diallo,2
+C. Kerbrat,\u00c9. Didot,2
+C. Kerbrat,F. Eboa Eboa,2
+C. Kerbrat,J. Sorbon,2
+J. Sorbon,K. Johnsson,2
+J. Briand,\u00c9. Didot,2
+J. Briand,C. Kerbrat,2
+F. Eboa Eboa,K. Johnsson,2
+\u00c9. Didot,Y. Salibur,2
+J. Sorbon,L. Deaux,2
+L. Deaux,Pedro Rebocho,2
+L. Deaux,J. Briand,2
+F. Eboa Eboa,Pedro Rebocho,2
+Y. Salibur,M. Thuram,2
+\u00c9. Didot,F. Eboa Eboa,2
+L. Deaux,\u00c9. Didot,2
+Y. Salibur,J. Briand,2
+F. Eboa Eboa,C. Kerbrat,2
+Y. Salibur,\u00c9. Didot,2
+Y. Salibur,Pedro Rebocho,2
+\u00c9. Didot,M. Diallo,2
+\u00c9. Didot,J. Sorbon,2
+\u00c9. Didot,M. Thuram,2
+M. Thuram,Y. Salibur,2
+Pedro Rebocho,K. Johnsson,1
+J. Briand,J. Sorbon,1
+C. Kerbrat,M. Thuram,1
+M. Thuram,\u00c9. Didot,1
+M. Diallo,M. Thuram,1
+C. Kerbrat,Y. Salibur,1
+J. Sorbon,C. Kerbrat,1
+L. Deaux,K. Johnsson,1
+M. Thuram,F. Eboa Eboa,1
+J. Sorbon,F. Eboa Eboa,1
+J. Briand,F. Eboa Eboa,1
+F. Eboa Eboa,M. Diallo,1
+M. Thuram,J. Briand,1
+L. Deaux,C. Kerbrat,1
+J. Sorbon,J. Briand,1
+\u00c9. Didot,C. Kerbrat,1
+F. Eboa Eboa,L. Deaux,1
+L. Deaux,M. Diallo,1
+K. Johnsson,L. Deaux,1
+M. Thuram,C. Kerbrat,1
+J. Briand,M. Thuram,1
+Pedro Rebocho,F. Eboa Eboa,1
+Pedro Rebocho,M. Diallo,1
+L. Deaux,M. Thuram,1
+J. Sorbon,M. Thuram,1
+\u00c9. Didot,J. Briand,1
+M. Thuram,L. Deaux,1
+C. Kerbrat,J. Briand,1
+M. Diallo,L. Deaux,1
+J. Briand,M. Diallo,1
+F. Eboa Eboa,M. Thuram,1
+C. Kerbrat,M. Diallo,1
+Y. Salibur,J. Sorbon,1
+M. Diallo,Pedro Rebocho,1
+K. Johnsson,Y. Salibur,1
+M. Diallo,J. Briand,1
+K. Johnsson,F. Eboa Eboa,1
+K. Johnsson,C. Kerbrat,1
+J. Briand,K. Johnsson,1
+M. Diallo,J. Sorbon,1
+M. Diallo,F. Eboa Eboa,1
+K. Johnsson,J. Sorbon,1
+J. Sorbon,Y. Salibur,1

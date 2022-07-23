@@ -1,0 +1,54 @@
+Source,Target,Weight
+R. Bensebaini,B. Bourigeaud,3
+R. Bensebaini,J. Lea Siliki,3
+R. Bensebaini,J. Gnagnon,2
+I. Sarr,H. Traor\u00e9,2
+B. Bourigeaud,H. Traor\u00e9,2
+H. Traor\u00e9,D. Sakho,2
+H. Traor\u00e9,S. Prci\u0107,2
+J. Gelin,J. Gnagnon,2
+J. Lea Siliki,R. Bensebaini,2
+H. Traor\u00e9,I. Sarr,2
+J. Lea Siliki,B. Bourigeaud,2
+B. Andr\u00e9,H. Traor\u00e9,2
+B. Bourigeaud,R. Bensebaini,2
+I. Sarr,J. Gelin,2
+B. Andr\u00e9,T. Koubek,1
+D. Sakho,R. Bensebaini,1
+J. Gnagnon,J. Gelin,1
+I. Sarr,W. Khazri,1
+D. Sakho,T. Koubek,1
+W. Khazri,B. Bourigeaud,1
+J. Gnagnon,B. Bourigeaud,1
+I. Sarr,J. Lea Siliki,1
+T. Koubek,D. Sakho,1
+D. Sakho,B. Andr\u00e9,1
+W. Khazri,S. Prci\u0107,1
+T. Koubek,J. Gelin,1
+W. Khazri,R. Bensebaini,1
+S. Prci\u0107,I. Sarr,1
+S. Prci\u0107,W. Khazri,1
+I. Sarr,B. Andr\u00e9,1
+S. Prci\u0107,H. Traor\u00e9,1
+B. Bourigeaud,J. Gnagnon,1
+H. Traor\u00e9,J. Gelin,1
+B. Bourigeaud,I. Sarr,1
+J. Gelin,H. Traor\u00e9,1
+B. Bourigeaud,B. Andr\u00e9,1
+J. Gnagnon,W. Khazri,1
+B. Andr\u00e9,I. Sarr,1
+J. Lea Siliki,H. Traor\u00e9,1
+J. Gelin,B. Andr\u00e9,1
+H. Traor\u00e9,J. Lea Siliki,1
+B. Bourigeaud,D. Sakho,1
+B. Andr\u00e9,B. Bourigeaud,1
+J. Lea Siliki,I. Sarr,1
+S. Prci\u0107,B. Andr\u00e9,1
+J. Gnagnon,J. Lea Siliki,1
+B. Andr\u00e9,W. Khazri,1
+T. Koubek,R. Bensebaini,1
+D. Sakho,J. Gnagnon,1
+W. Khazri,I. Sarr,1
+J. Gelin,T. Koubek,1
+J. Gnagnon,S. Prci\u0107,1
+J. Gnagnon,R. Bensebaini,1

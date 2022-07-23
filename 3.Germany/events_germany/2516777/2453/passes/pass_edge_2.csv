@@ -1,0 +1,25 @@
+Source,Target,Weight
+J. Schuster,P. Stenzel,2
+P. Stenzel,J. Schuster,2
+M. Terrazzino,C. S\u00f6y\u00fcnc\u00fc,2
+N. H\u00f6fler,P. Stenzel,1
+A. Schwolow,M. Terrazzino,1
+A. Schwolow,C. S\u00f6y\u00fcnc\u00fc,1
+N. H\u00f6fler,J. Schuster,1
+J. Haberer,N. H\u00f6fler,1
+M. Frantz,N. H\u00f6fler,1
+J. Schuster,C. G\u00fcnter,1
+C. S\u00f6y\u00fcnc\u00fc,C. G\u00fcnter,1
+P. Stenzel,M. Frantz,1
+N. H\u00f6fler,M. Frantz,1
+C. G\u00fcnter,F. Niederlechner,1
+J. Schuster,F. Niederlechner,1
+C. S\u00f6y\u00fcnc\u00fc,N. H\u00f6fler,1
+M. Frantz,F. Niederlechner,1
+F. Niederlechner,M. Terrazzino,1
+F. Niederlechner,C. G\u00fcnter,1
+F. Niederlechner,J. Schuster,1
+C. S\u00f6y\u00fcnc\u00fc,A. Schwolow,1
+C. G\u00fcnter,A. Schwolow,1
+C. G\u00fcnter,J. Haberer,1
+J. Schuster,J. Haberer,1

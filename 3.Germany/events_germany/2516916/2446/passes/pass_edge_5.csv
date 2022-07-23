@@ -1,0 +1,31 @@
+Source,Target,Weight
+S. Bender,C. Ar\u00e1nguiz,2
+C. Ar\u00e1nguiz,L. Alario,2
+D. Kohr,L. Bender,2
+L. Alario,C. Ar\u00e1nguiz,2
+L. Bailey,C. Ar\u00e1nguiz,2
+J. Brandt,S. Bender,2
+C. Ar\u00e1nguiz,J. Brandt,2
+J. Tah,S. Bender,1
+L. Bender,D. Kohr,1
+K. Volland,L. Bailey,1
+K. Volland,Wendell,1
+L. Alario,D. Kohr,1
+C. Ar\u00e1nguiz,S. Bender,1
+L. Bender,L. Alario,1
+L. Alario,L. Bender,1
+S. Bender,J. Tah,1
+C. Ar\u00e1nguiz,J. Tah,1
+J. Tah,B. Leno,1
+S. Bender,D. Kohr,1
+D. Kohr,C. Ar\u00e1nguiz,1
+C. Ar\u00e1nguiz,K. Volland,1
+C. Ar\u00e1nguiz,Wendell,1
+B. Leno,S. Bender,1
+L. Bender,J. Tah,1
+J. Tah,L. Alario,1
+S. Bender,B. Leno,1
+Wendell,J. Brandt,1
+B. Leno,D. Kohr,1
+Wendell,C. Ar\u00e1nguiz,1
+D. Kohr,K. Volland,1

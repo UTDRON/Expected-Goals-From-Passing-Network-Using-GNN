@@ -1,0 +1,63 @@
+Source,Target,Weight
+R. Cabella,R. Hamouma,6
+L. Lacroix,K. Th\u00e9ophile Catherine,6
+K. Th\u00e9ophile Catherine,L. Lacroix,5
+K. Monnet-Paquet,R. Cabella,4
+Gabriel Silva,L. Diony,4
+V. Pajot,H. Ma\u00efga,4
+R. Cabella,K. Monnet-Paquet,4
+R. Hamouma,K. Monnet-Paquet,4
+R. Cabella,Gabriel Silva,3
+K. Monnet-Paquet,R. Hamouma,3
+L. Diony,Gabriel Silva,3
+Gabriel Silva,L. Lacroix,3
+S. Ruffier,V. Pajot,3
+V. Pajot,R. Cabella,3
+K. Th\u00e9ophile Catherine,S. Ruffier,3
+H. Ma\u00efga,K. Monnet-Paquet,2
+L. Lacroix,Gabriel Silva,2
+S. Janko,Gabriel Silva,2
+L. Lacroix,H. Ma\u00efga,2
+K. Monnet-Paquet,Gabriel Silva,2
+K. Th\u00e9ophile Catherine,K. Monnet-Paquet,2
+Gabriel Silva,V. Pajot,2
+Gabriel Silva,K. Monnet-Paquet,2
+S. Ruffier,K. Th\u00e9ophile Catherine,2
+H. Ma\u00efga,V. Pajot,2
+K. Th\u00e9ophile Catherine,S. Janko,2
+K. Th\u00e9ophile Catherine,H. Ma\u00efga,2
+R. Cabella,H. Ma\u00efga,2
+R. Hamouma,K. Th\u00e9ophile Catherine,2
+V. Pajot,S. Janko,2
+L. Lacroix,R. Cabella,2
+Gabriel Silva,R. Cabella,2
+K. Monnet-Paquet,L. Lacroix,2
+H. Ma\u00efga,R. Cabella,2
+R. Hamouma,R. Cabella,2
+H. Ma\u00efga,K. Th\u00e9ophile Catherine,2
+L. Diony,V. Pajot,1
+S. Janko,V. Pajot,1
+K. Monnet-Paquet,L. Diony,1
+R. Cabella,S. Ruffier,1
+L. Diony,S. Ruffier,1
+H. Ma\u00efga,Gabriel Silva,1
+S. Ruffier,R. Cabella,1
+L. Diony,R. Hamouma,1
+S. Janko,K. Th\u00e9ophile Catherine,1
+H. Ma\u00efga,L. Lacroix,1
+L. Lacroix,K. Monnet-Paquet,1
+K. Monnet-Paquet,V. Pajot,1
+S. Janko,L. Lacroix,1
+V. Pajot,Gabriel Silva,1
+R. Hamouma,Gabriel Silva,1
+K. Th\u00e9ophile Catherine,R. Cabella,1
+H. Ma\u00efga,R. Hamouma,1
+Gabriel Silva,S. Ruffier,1
+H. Ma\u00efga,S. Janko,1
+K. Monnet-Paquet,K. Th\u00e9ophile Catherine,1
+R. Cabella,S. Janko,1
+Gabriel Silva,K. Th\u00e9ophile Catherine,1
+S. Janko,H. Ma\u00efga,1
+V. Pajot,L. Lacroix,1
+R. Hamouma,L. Diony,1
+K. Monnet-Paquet,H. Ma\u00efga,1

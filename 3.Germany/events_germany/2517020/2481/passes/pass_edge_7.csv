@@ -1,0 +1,34 @@
+Source,Target,Weight
+R. Khedira,J. Mor\u00e1vek,3
+P. Max,M. Hinteregger,3
+Caiuby,M. Gregoritsch,3
+J. Schmid,J. Mor\u00e1vek,2
+A. Luthe,J. Gouweleeuw,2
+M. Hinteregger,A. Luthe,2
+J. Mor\u00e1vek,J. Schmid,2
+J. Mor\u00e1vek,M. Gregoritsch,2
+J. Mor\u00e1vek,R. Khedira,2
+M. Hinteregger,P. Max,2
+M. Hinteregger,J. Gouweleeuw,1
+R. Khedira,Caiuby,1
+A. Finnbogason,P. Max,1
+J. Gouweleeuw,Caiuby,1
+J. Gouweleeuw,A. Luthe,1
+Caiuby,J. Mor\u00e1vek,1
+J. Gouweleeuw,J. Schmid,1
+P. Max,A. Luthe,1
+J. Mor\u00e1vek,P. Max,1
+A. Luthe,A. Finnbogason,1
+A. Finnbogason,R. Khedira,1
+J. Schmid,M. Hinteregger,1
+M. Gregoritsch,J. Mor\u00e1vek,1
+A. Luthe,Caiuby,1
+M. Richter,A. Finnbogason,1
+A. Finnbogason,J. Mor\u00e1vek,1
+A. Luthe,M. Hinteregger,1
+J. Schmid,A. Luthe,1
+M. Gregoritsch,Caiuby,1
+M. Gregoritsch,M. Richter,1
+M. Gregoritsch,J. Schmid,1
+Caiuby,A. Finnbogason,1
+J. Mor\u00e1vek,Caiuby,1

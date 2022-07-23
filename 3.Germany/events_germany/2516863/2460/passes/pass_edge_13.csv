@@ -1,0 +1,24 @@
+Source,Target,Weight
+J. Gbamin,D. Latza,2
+D. Latza,J. Gbamin,2
+S. Bell,E. Berggreen,2
+J. Gbamin,S. Bell,2
+K. Kodro,D. Latza,2
+S. Serdar,G. Holtmann,1
+A. Maxim,K. Kodro,1
+S. Serdar,K. Kodro,1
+S. Serdar,J. Gbamin,1
+S. Bell,S. Serdar,1
+G. Holtmann,A. Diallo,1
+G. Holtmann,S. Bell,1
+J. Gbamin,E. Berggreen,1
+D. Latza,S. Serdar,1
+A. Diallo,A. Maxim,1
+D. Latza,K. Kodro,1
+E. Berggreen,J. Gbamin,1
+K. Kodro,J. Gbamin,1
+A. Maxim,E. Berggreen,1
+E. Berggreen,G. Holtmann,1
+E. Berggreen,A. Maxim,1
+E. Berggreen,S. Serdar,1
+D. Latza,G. Holtmann,1

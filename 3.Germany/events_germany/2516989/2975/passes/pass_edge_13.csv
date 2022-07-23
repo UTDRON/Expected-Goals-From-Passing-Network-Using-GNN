@@ -1,0 +1,41 @@
+Source,Target,Weight
+D. Demme,N. Ke\u00efta,3
+N. Ke\u00efta,Bernardo,2
+M. Sabitzer,K. Laimer,2
+K. Laimer,D. Demme,2
+Bernardo,N. Ke\u00efta,2
+M. Sabitzer,N. Ke\u00efta,2
+K. Laimer,Y. Poulsen,2
+T. Werner,K. Laimer,2
+N. Ke\u00efta,M. Sabitzer,2
+T. Werner,N. Ke\u00efta,2
+K. Laimer,M. Sabitzer,2
+N. Ke\u00efta,D. Demme,2
+P. Gul\u00e1csi,T. Werner,1
+D. Demme,K. Laimer,1
+Y. Poulsen,T. Werner,1
+P. Gul\u00e1csi,N. Ke\u00efta,1
+N. Ke\u00efta,W. Orban,1
+M. Sabitzer,D. Demme,1
+Y. Poulsen,N. Ke\u00efta,1
+J. Augustin,Y. Poulsen,1
+E. Forsberg,N. Ke\u00efta,1
+D. Demme,Bernardo,1
+M. Sabitzer,E. Forsberg,1
+E. Forsberg,Y. Poulsen,1
+J. Augustin,W. Orban,1
+D. Demme,P. Gul\u00e1csi,1
+I. Konat\u00e9,J. Augustin,1
+W. Orban,P. Gul\u00e1csi,1
+N. Ke\u00efta,K. Laimer,1
+Y. Poulsen,I. Konat\u00e9,1
+E. Forsberg,D. Demme,1
+M. Sabitzer,I. Konat\u00e9,1
+I. Konat\u00e9,M. Sabitzer,1
+Bernardo,D. Demme,1
+N. Ke\u00efta,J. Augustin,1
+D. Demme,T. Werner,1
+N. Ke\u00efta,E. Forsberg,1
+W. Orban,M. Sabitzer,1
+Y. Poulsen,E. Forsberg,1
+N. Ke\u00efta,T. Werner,1

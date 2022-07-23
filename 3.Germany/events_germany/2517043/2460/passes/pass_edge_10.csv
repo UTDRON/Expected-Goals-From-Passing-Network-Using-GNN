@@ -1,0 +1,44 @@
+Source,Target,Weight
+A. Hack,G. Donati,2
+G. Donati,A. Maxim,2
+A. Maxim,D. Brosinski,2
+D. Brosinski,P. De Blasis,2
+G. Donati,P. De Blasis,1
+J. Gbamin,A. Hack,1
+Y. Muto,P. De Blasis,1
+P. De Blasis,A. Maxim,1
+L. \u00d6ztunali,A. Hack,1
+A. Hack,F. M\u00fcller,1
+A. Maxim,R. Baku,1
+Y. Muto,A. Maxim,1
+R. Baku,P. De Blasis,1
+A. Maxim,G. Holtmann,1
+R. Baku,G. Donati,1
+G. Donati,Y. Muto,1
+P. De Blasis,Y. Muto,1
+A. Maxim,G. Donati,1
+P. De Blasis,R. Baku,1
+A. Maxim,Y. Muto,1
+A. Maxim,P. De Blasis,1
+Y. Muto,A. Hack,1
+D. Brosinski,G. Holtmann,1
+P. De Blasis,D. Brosinski,1
+D. Brosinski,J. Gbamin,1
+R. Baku,A. Hack,1
+R. Baku,S. Bell,1
+G. Donati,R. Baku,1
+F. M\u00fcller,L. \u00d6ztunali,1
+A. Hack,R. Baku,1
+G. Holtmann,R. Baku,1
+P. De Blasis,S. Bell,1
+R. Baku,A. Maxim,1
+P. De Blasis,A. Hack,1
+A. Hack,G. Holtmann,1
+R. Baku,D. Brosinski,1
+S. Bell,G. Donati,1
+L. \u00d6ztunali,R. Baku,1
+G. Holtmann,A. Hack,1
+G. Holtmann,A. Maxim,1
+G. Donati,L. \u00d6ztunali,1
+A. Hack,D. Brosinski,1
+S. Bell,A. Maxim,1

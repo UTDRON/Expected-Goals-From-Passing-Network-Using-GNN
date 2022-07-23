@@ -1,0 +1,19 @@
+Source,Target,Weight
+Luiz Gustavo,C. N'Jie,2
+F. Thauvin,S. Mandanda,1
+H. Sakai,V. Germain,1
+F. Thauvin,Luiz Gustavo,1
+B. Sarr,F. Thauvin,1
+C. N'Jie,Luiz Gustavo,1
+A. Zambo Anguissa,B. Sarr,1
+S. Mandanda,B. Sarr,1
+V. Germain,C. N'Jie,1
+B. Sarr,A. Zambo Anguissa,1
+Luiz Gustavo,F. Thauvin,1
+C. N'Jie,F. Thauvin,1
+F. Thauvin,V. Germain,1
+A. Zambo Anguissa,V. Germain,1
+B. Sarr,Luiz Gustavo,1
+V. Germain,Luiz Gustavo,1
+C. N'Jie,H. Sakai,1
+Luiz Gustavo,A. Zambo Anguissa,1

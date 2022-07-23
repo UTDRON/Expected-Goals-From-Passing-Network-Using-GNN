@@ -1,0 +1,21 @@
+Source,Target,Weight
+D. da Costa,M. Russ,2
+S. Falette,T. Chandler,2
+M. Wolf,S. Haller,2
+T. Chandler,S. Falette,2
+M. Russ,S. Haller,1
+M. Wolf,Omar Mascarell,1
+L. Hradecky,Omar Mascarell,1
+S. Haller,M. Wolf,1
+M. Russ,L. Hradecky,1
+S. Haller,D. da Costa,1
+M. Russ,T. Chandler,1
+S. Haller,M. Russ,1
+T. Chandler,M. Wolf,1
+M. Russ,M. Wolf,1
+Omar Mascarell,T. Chandler,1
+Omar Mascarell,D. da Costa,1
+M. Wolf,A. Rebi\u0107,1
+Omar Mascarell,M. Wolf,1
+A. Rebi\u0107,S. Haller,1
+T. Chandler,M. Russ,1

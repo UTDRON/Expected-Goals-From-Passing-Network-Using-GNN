@@ -1,0 +1,69 @@
+Source,Target,Weight
+M. Nastasi\u0107,Naldo,10
+T. Kehrer,Naldo,9
+Naldo,M. Nastasi\u0107,9
+T. Kehrer,A. Sch\u00f6pf,7
+A. Sch\u00f6pf,T. Kehrer,5
+Naldo,T. Kehrer,4
+B. Oczipka,M. Meyer,4
+B. Oczipka,M. Pjaca,4
+G. Burgstaller,T. Kehrer,3
+A. Harit,B. Oczipka,3
+Naldo,M. Pjaca,3
+M. Nastasi\u0107,B. Oczipka,3
+M. Pjaca,B. Oczipka,3
+M. Meyer,A. Sch\u00f6pf,3
+B. Oczipka,A. Harit,3
+L. Goretzka,T. Kehrer,3
+A. Sch\u00f6pf,M. Meyer,3
+M. Meyer,T. Kehrer,3
+A. Sch\u00f6pf,G. Burgstaller,3
+R. F\u00e4hrmann,T. Kehrer,2
+Naldo,B. Oczipka,2
+M. Pjaca,A. Sch\u00f6pf,2
+M. Meyer,M. Nastasi\u0107,2
+M. Nastasi\u0107,M. Pjaca,2
+Naldo,A. Sch\u00f6pf,2
+A. Sch\u00f6pf,Naldo,2
+M. Meyer,B. Oczipka,2
+A. Harit,M. Meyer,2
+M. Pjaca,L. Goretzka,2
+Naldo,M. Meyer,2
+M. Nastasi\u0107,A. Harit,2
+Naldo,G. Burgstaller,2
+T. Kehrer,M. Nastasi\u0107,2
+Naldo,L. Goretzka,2
+B. Oczipka,R. F\u00e4hrmann,2
+M. Nastasi\u0107,R. F\u00e4hrmann,1
+R. F\u00e4hrmann,M. Nastasi\u0107,1
+G. Burgstaller,M. Nastasi\u0107,1
+M. Pjaca,T. Kehrer,1
+R. F\u00e4hrmann,B. Oczipka,1
+B. Oczipka,T. Kehrer,1
+A. Sch\u00f6pf,M. Nastasi\u0107,1
+T. Kehrer,B. Oczipka,1
+B. Oczipka,M. Nastasi\u0107,1
+B. Oczipka,L. Goretzka,1
+Naldo,R. F\u00e4hrmann,1
+L. Goretzka,M. Nastasi\u0107,1
+M. Pjaca,G. Burgstaller,1
+G. Burgstaller,M. Meyer,1
+M. Meyer,L. Goretzka,1
+T. Kehrer,L. Goretzka,1
+G. Burgstaller,L. Goretzka,1
+L. Goretzka,A. Sch\u00f6pf,1
+L. Goretzka,Naldo,1
+L. Goretzka,M. Meyer,1
+M. Pjaca,Naldo,1
+A. Sch\u00f6pf,L. Goretzka,1
+T. Kehrer,M. Pjaca,1
+M. Meyer,A. Harit,1
+R. F\u00e4hrmann,Naldo,1
+G. Burgstaller,Naldo,1
+M. Meyer,R. F\u00e4hrmann,1
+A. Harit,M. Pjaca,1
+T. Kehrer,M. Meyer,1
+L. Goretzka,B. Oczipka,1
+A. Harit,Naldo,1
+M. Meyer,Naldo,1
+L. Goretzka,A. Harit,1

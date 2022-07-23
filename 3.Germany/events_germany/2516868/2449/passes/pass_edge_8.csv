@@ -1,0 +1,45 @@
+Source,Target,Weight
+Naldo,M. Nastasi\u0107,4
+A. Harit,M. Meyer,4
+M. Nastasi\u0107,B. Oczipka,3
+M. Meyer,A. Harit,3
+D. Caligiuri,B. Stambouli,2
+D. Caligiuri,T. Kehrer,2
+B. Stambouli,Naldo,2
+W. McKennie,G. Burgstaller,2
+M. Nastasi\u0107,A. Harit,2
+B. Stambouli,D. Caligiuri,2
+M. Meyer,Naldo,2
+D. Caligiuri,W. McKennie,2
+A. Harit,B. Oczipka,2
+B. Oczipka,A. Harit,2
+B. Oczipka,Naldo,2
+B. Oczipka,F. Di Santo,2
+T. Kehrer,M. Nastasi\u0107,1
+F. Di Santo,B. Oczipka,1
+Naldo,D. Caligiuri,1
+G. Burgstaller,B. Oczipka,1
+F. Di Santo,D. Caligiuri,1
+M. Meyer,D. Caligiuri,1
+W. McKennie,D. Caligiuri,1
+A. Harit,W. McKennie,1
+M. Meyer,G. Burgstaller,1
+D. Caligiuri,M. Nastasi\u0107,1
+M. Nastasi\u0107,B. Stambouli,1
+T. Kehrer,D. Caligiuri,1
+G. Burgstaller,A. Harit,1
+R. F\u00e4hrmann,B. Stambouli,1
+W. McKennie,M. Meyer,1
+T. Kehrer,M. Meyer,1
+G. Burgstaller,W. McKennie,1
+M. Meyer,B. Oczipka,1
+G. Burgstaller,D. Caligiuri,1
+Naldo,B. Stambouli,1
+B. Oczipka,M. Nastasi\u0107,1
+B. Oczipka,M. Meyer,1
+A. Harit,R. F\u00e4hrmann,1
+B. Stambouli,G. Burgstaller,1
+M. Nastasi\u0107,Naldo,1
+D. Caligiuri,Naldo,1
+Naldo,T. Kehrer,1
+Naldo,M. Meyer,1

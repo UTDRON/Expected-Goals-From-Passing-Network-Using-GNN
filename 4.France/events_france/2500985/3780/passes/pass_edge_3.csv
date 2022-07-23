@@ -1,0 +1,24 @@
+Source,Target,Weight
+I. Diop,S. Yago,2
+A. Blin,G. Imbula,2
+G. Imbula,I. Sylla,2
+F. Mubele,A. Blin,2
+Som\u00e1lia,F. Mubele,2
+I. Sylla,F. Mubele,1
+F. Mubele,I. Diop,1
+I. Sylla,Y. Sanogo,1
+I. Sylla,A. Lafont,1
+I. Diop,I. Sylla,1
+A. Lafont,K. Amian,1
+K. Amian,I. Sylla,1
+F. Mubele,G. Imbula,1
+A. Lafont,I. Diop,1
+K. Amian,I. Diop,1
+I. Sylla,K. Amian,1
+I. Diop,Som\u00e1lia,1
+Y. Sanogo,M. Gradel,1
+S. Yago,Som\u00e1lia,1
+M. Gradel,I. Diop,1
+I. Diop,A. Lafont,1
+G. Imbula,I. Diop,1
+S. Yago,F. Mubele,1

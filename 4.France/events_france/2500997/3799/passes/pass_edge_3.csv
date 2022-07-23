@@ -1,0 +1,104 @@
+Source,Target,Weight
+T. Mangani,A. Bamba,8
+A. Bamba,T. Mangani,7
+T. Mangani,R. Thomas,7
+R. Thomas,T. Mangani,7
+B. Santamaria,T. Mangani,7
+A. Bamba,F. Tait,7
+I. Traor\u00e9,T. Mangani,6
+I. Traor\u00e9,V. Manceau,6
+J. Reine-Adelaide,V. Manceau,6
+K. Toko Ekambi,B. Santamaria,6
+T. Mangani,F. Tait,6
+V. Manceau,I. Traor\u00e9,5
+V. Manceau,B. Santamaria,5
+V. Manceau,T. Mangani,5
+B. Santamaria,V. Manceau,5
+V. Manceau,J. Reine-Adelaide,4
+P. Oniangu\u00e9,B. Santamaria,4
+R. Thomas,I. Traor\u00e9,4
+V. Manceau,K. Toko Ekambi,4
+L. Butelle,I. Traor\u00e9,4
+T. Mangani,B. Ketkeophomphone,4
+B. Santamaria,A. Bamba,4
+B. Santamaria,P. Oniangu\u00e9,4
+K. Toko Ekambi,V. Manceau,4
+F. Tait,A. Bamba,4
+F. Tait,B. Santamaria,4
+F. Tait,T. Mangani,4
+T. Mangani,B. Santamaria,4
+A. Fulgini,P. Oniangu\u00e9,3
+L. Butelle,R. Thomas,3
+T. Mangani,K. Toko Ekambi,3
+P. Oniangu\u00e9,A. Fulgini,3
+F. Tait,J. Reine-Adelaide,3
+I. Traor\u00e9,P. Oniangu\u00e9,3
+R. Thomas,A. Bamba,3
+V. Manceau,L. Butelle,3
+T. Mangani,V. Manceau,3
+A. Bamba,R. Thomas,3
+J. Reine-Adelaide,K. Toko Ekambi,3
+A. Bamba,L. Butelle,3
+R. Thomas,B. Santamaria,3
+J. Reine-Adelaide,P. Oniangu\u00e9,3
+B. Santamaria,F. Tait,3
+B. Santamaria,R. Thomas,3
+P. Oniangu\u00e9,V. Manceau,3
+P. Oniangu\u00e9,K. Toko Ekambi,2
+L. Butelle,K. Toko Ekambi,2
+K. Toko Ekambi,R. Thomas,2
+R. Thomas,K. Toko Ekambi,2
+B. Santamaria,J. Reine-Adelaide,2
+T. Mangani,P. Oniangu\u00e9,2
+B. Ketkeophomphone,A. Bamba,2
+L. Butelle,V. Manceau,2
+F. Tait,V. Manceau,2
+K. Toko Ekambi,T. Mangani,2
+P. Oniangu\u00e9,R. Thomas,2
+B. Santamaria,I. Traor\u00e9,2
+R. Thomas,P. Oniangu\u00e9,2
+R. Thomas,L. Butelle,2
+V. Manceau,R. Thomas,2
+F. Tait,R. Thomas,2
+T. Mangani,I. Traor\u00e9,2
+T. Mangani,L. Butelle,2
+L. Butelle,P. Oniangu\u00e9,2
+P. Oniangu\u00e9,I. Traor\u00e9,2
+T. Mangani,J. Reine-Adelaide,2
+V. Manceau,A. Fulgini,2
+F. Tait,K. Toko Ekambi,2
+K. Toko Ekambi,I. Traor\u00e9,2
+K. Toko Ekambi,P. Oniangu\u00e9,2
+J. Reine-Adelaide,B. Santamaria,2
+P. Oniangu\u00e9,T. Mangani,2
+P. Oniangu\u00e9,F. Tait,1
+V. Manceau,A. Bamba,1
+K. Toko Ekambi,F. Tait,1
+B. Ketkeophomphone,T. Mangani,1
+L. Butelle,J. Reine-Adelaide,1
+A. Bamba,B. Ketkeophomphone,1
+K. Toko Ekambi,A. Bamba,1
+A. Bamba,B. Santamaria,1
+I. Traor\u00e9,B. Santamaria,1
+J. Reine-Adelaide,F. Tait,1
+I. Traor\u00e9,L. Butelle,1
+P. Oniangu\u00e9,L. Butelle,1
+A. Bamba,J. Reine-Adelaide,1
+J. Reine-Adelaide,L. Butelle,1
+A. Fulgini,B. Santamaria,1
+I. Traor\u00e9,A. Bamba,1
+B. Santamaria,L. Butelle,1
+A. Fulgini,L. Butelle,1
+F. Tait,I. Traor\u00e9,1
+L. Butelle,F. Tait,1
+P. Oniangu\u00e9,J. Reine-Adelaide,1
+B. Santamaria,K. Toko Ekambi,1
+I. Traor\u00e9,F. Tait,1
+A. Fulgini,T. Mangani,1
+R. Thomas,F. Tait,1
+I. Traor\u00e9,R. Thomas,1
+B. Ketkeophomphone,B. Santamaria,1
+I. Traor\u00e9,J. Reine-Adelaide,1
+I. Traor\u00e9,K. Toko Ekambi,1
+A. Bamba,A. Fulgini,1
+R. Thomas,J. Reine-Adelaide,1

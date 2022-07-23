@@ -1,0 +1,48 @@
+Source,Target,Weight
+N. Ke\u00efta,S. Ilsanker,4
+Bruma,N. Ke\u00efta,3
+K. Laimer,S. Ilsanker,3
+S. Ilsanker,Bruma,3
+D. Upamecano,S. Ilsanker,2
+K. Kampl,Bruma,2
+S. Ilsanker,D. Upamecano,2
+W. Orban,P. Gul\u00e1csi,2
+S. Ilsanker,N. Ke\u00efta,2
+Bruma,K. Laimer,2
+N. Ke\u00efta,Bruma,2
+S. Ilsanker,K. Kampl,2
+L. Klostermann,N. Ke\u00efta,2
+D. Upamecano,N. Ke\u00efta,1
+N. Ke\u00efta,Y. Poulsen,1
+N. Ke\u00efta,W. Orban,1
+Y. Poulsen,Bruma,1
+D. Upamecano,W. Orban,1
+K. Kampl,S. Ilsanker,1
+D. Upamecano,K. Kampl,1
+T. Werner,S. Ilsanker,1
+K. Kampl,L. Klostermann,1
+W. Orban,N. Ke\u00efta,1
+K. Kampl,D. Upamecano,1
+S. Ilsanker,Y. Poulsen,1
+W. Orban,K. Kampl,1
+W. Orban,T. Werner,1
+N. Ke\u00efta,K. Kampl,1
+D. Upamecano,L. Klostermann,1
+P. Gul\u00e1csi,D. Upamecano,1
+Y. Poulsen,L. Klostermann,1
+Bruma,W. Orban,1
+Y. Poulsen,K. Kampl,1
+K. Kampl,N. Ke\u00efta,1
+P. Gul\u00e1csi,Y. Poulsen,1
+Bruma,S. Ilsanker,1
+Bruma,Y. Poulsen,1
+Y. Poulsen,W. Orban,1
+S. Ilsanker,T. Werner,1
+S. Ilsanker,W. Orban,1
+D. Upamecano,Bruma,1
+Bruma,K. Kampl,1
+N. Ke\u00efta,D. Upamecano,1
+L. Klostermann,D. Upamecano,1
+S. Ilsanker,K. Laimer,1
+T. Werner,D. Upamecano,1
+K. Kampl,T. Werner,1

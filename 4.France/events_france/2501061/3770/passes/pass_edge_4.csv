@@ -1,0 +1,18 @@
+Source,Target,Weight
+K. Djidji,L. Dubois,3
+L. Dubois,V. Rongier,2
+V. Rongier,L. Dubois,2
+L. Dubois,K. Coulibaly,2
+K. Coulibaly,S. Moutoussamy,1
+L. Dubois,K. Djidji,1
+R. Krhin,V. Rongier,1
+V. Rongier,K. Djidji,1
+S. Moutoussamy,V. Rongier,1
+Lucas Lima,V. Rongier,1
+V. Rongier,Lucas Lima,1
+K. Coulibaly,N. Pallois,1
+K. Coulibaly,R. Krhin,1
+S. Moutoussamy,K. Coulibaly,1
+N. Pallois,K. Djidji,1
+V. Rongier,K. Coulibaly,1
+K. Coulibaly,E. Sala,1

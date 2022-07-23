@@ -1,0 +1,19 @@
+Source,Target,Weight
+L. Stindl,M. Cuisance,3
+T. Hazard,L. Stindl,2
+M. Cuisance,D. Zakaria,2
+D. Zakaria,L. Stindl,1
+N. Elvedi,M. Cuisance,1
+L. Stindl,P. Herrmann,1
+Y. Sommer,L. Stindl,1
+M. Cuisance,L. Stindl,1
+O. Wendt,L. Stindl,1
+D. Zakaria,Y. Sommer,1
+L. Stindl,O. Wendt,1
+Raffael,N. Elvedi,1
+P. Herrmann,M. Cuisance,1
+M. Cuisance,T. Hazard,1
+O. Wendt,M. Cuisance,1
+L. Stindl,T. Hazard,1
+M. Cuisance,Raffael,1
+T. Hazard,O. Wendt,1

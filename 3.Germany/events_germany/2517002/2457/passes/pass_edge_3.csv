@@ -1,0 +1,25 @@
+Source,Target,Weight
+M. Weiser,V. Lazaro,3
+S. Kalou,P. Skjelbred,3
+V. Lazaro,M. Weiser,3
+P. Skjelbred,V. Darida,3
+M. Plattenhardt,S. Kalou,3
+N. Stark,M. Weiser,2
+K. Rekik,M. Plattenhardt,2
+N. Stark,K. Rekik,2
+P. Skjelbred,M. Weiser,2
+V. Darida,M. Plattenhardt,2
+M. Weiser,N. Stark,2
+K. Rekik,V. Darida,1
+V. Darida,R. Jarstein,1
+S. Kalou,M. Plattenhardt,1
+M. Plattenhardt,K. Rekik,1
+V. Darida,N. Stark,1
+M. Weiser,S. Kalou,1
+K. Rekik,N. Stark,1
+R. Jarstein,K. Rekik,1
+M. Plattenhardt,P. Skjelbred,1
+M. Weiser,M. Plattenhardt,1
+M. Plattenhardt,V. Lazaro,1
+V. Lazaro,P. Skjelbred,1
+V. Lazaro,V. Darida,1

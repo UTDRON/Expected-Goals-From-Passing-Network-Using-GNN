@@ -1,0 +1,27 @@
+Source,Target,Weight
+A. Blin,G. Imbula,3
+G. Imbula,A. Delort,2
+A. Blin,I. Sylla,2
+I. Diop,A. Blin,2
+I. Sylla,Q. Boisgard,2
+I. Sylla,G. Imbula,2
+G. Imbula,I. Sylla,2
+A. Delort,O. Toivonen,2
+G. Imbula,C. Jean,1
+S. Yago,A. Blin,1
+S. Yago,C. Jean,1
+Q. Boisgard,I. Sylla,1
+K. Amian,S. Yago,1
+O. Toivonen,K. Amian,1
+C. Jean,G. Imbula,1
+A. Blin,S. Yago,1
+C. Jean,I. Diop,1
+C. Jean,O. Toivonen,1
+O. Toivonen,I. Diop,1
+O. Toivonen,C. Jean,1
+O. Toivonen,A. Blin,1
+G. Imbula,O. Toivonen,1
+S. Yago,G. Imbula,1
+Q. Boisgard,O. Toivonen,1
+G. Imbula,A. Blin,1
+I. Sylla,A. Blin,1

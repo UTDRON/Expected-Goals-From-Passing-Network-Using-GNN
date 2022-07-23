@@ -1,0 +1,25 @@
+Source,Target,Weight
+M. Meyer,Naldo,2
+W. McKennie,M. Meyer,2
+A. Harit,W. McKennie,2
+W. McKennie,A. Harit,1
+Naldo,W. McKennie,1
+M. Meyer,W. McKennie,1
+W. McKennie,D. Caligiuri,1
+G. Burgstaller,B. Stambouli,1
+W. McKennie,M. Nastasi\u0107,1
+D. Caligiuri,Naldo,1
+A. Harit,D. Caligiuri,1
+D. Caligiuri,A. Harit,1
+M. Nastasi\u0107,Naldo,1
+D. Caligiuri,W. McKennie,1
+Naldo,M. Nastasi\u0107,1
+W. McKennie,B. Oczipka,1
+R. F\u00e4hrmann,G. Burgstaller,1
+Naldo,M. Meyer,1
+B. Stambouli,R. F\u00e4hrmann,1
+M. Nastasi\u0107,B. Oczipka,1
+B. Oczipka,W. McKennie,1
+B. Stambouli,D. Caligiuri,1
+Naldo,A. Harit,1
+B. Oczipka,Y. Konoplyanka,1

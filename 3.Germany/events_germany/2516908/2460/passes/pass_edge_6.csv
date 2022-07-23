@@ -1,0 +1,49 @@
+Source,Target,Weight
+J. Gbamin,D. Brosinski,4
+G. Holtmann,A. Diallo,4
+D. Brosinski,A. Hack,3
+A. Hack,G. Holtmann,2
+R. Quaison,J. Gbamin,2
+A. Hack,D. Latza,2
+R. Quaison,A. Hack,2
+S. Serdar,D. Brosinski,2
+Y. Muto,G. Holtmann,2
+D. Brosinski,J. Gbamin,2
+A. Hack,Y. Muto,2
+D. Latza,G. Holtmann,2
+D. Latza,D. Brosinski,2
+A. Diallo,D. Latza,1
+A. Diallo,G. Holtmann,1
+R. Zentner,S. Serdar,1
+D. Brosinski,R. Zentner,1
+D. Latza,A. Hack,1
+A. Diallo,R. Zentner,1
+D. Latza,A. Diallo,1
+N. de Jong,D. Latza,1
+G. Holtmann,R. Quaison,1
+A. Diallo,R. Quaison,1
+D. Latza,N. de Jong,1
+N. de Jong,A. Hack,1
+A. Hack,N. de Jong,1
+N. de Jong,A. Diallo,1
+D. Brosinski,N. de Jong,1
+J. Gbamin,S. Serdar,1
+G. Holtmann,A. Hack,1
+J. Gbamin,D. Latza,1
+S. Serdar,N. de Jong,1
+R. Zentner,R. Quaison,1
+D. Brosinski,R. Quaison,1
+A. Hack,R. Quaison,1
+N. de Jong,S. Serdar,1
+A. Hack,R. Zentner,1
+Y. Muto,J. Gbamin,1
+A. Diallo,A. Hack,1
+A. Diallo,N. de Jong,1
+Y. Muto,A. Hack,1
+G. Holtmann,Y. Muto,1
+Y. Muto,D. Latza,1
+A. Hack,J. Gbamin,1
+R. Quaison,D. Latza,1
+N. de Jong,Y. Muto,1
+R. Zentner,A. Diallo,1
+A. Diallo,Y. Muto,1

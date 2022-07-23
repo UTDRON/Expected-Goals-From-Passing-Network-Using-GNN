@@ -1,0 +1,18 @@
+Source,Target,Weight
+N. Petersen,L. H\u00f6ler,2
+J. Haberer,N. Petersen,2
+L. H\u00f6ler,N. H\u00f6fler,2
+L. H\u00f6ler,J. Schuster,2
+J. Schuster,T. Kleindienst,2
+J. Schuster,C. S\u00f6y\u00fcnc\u00fc,1
+C. S\u00f6y\u00fcnc\u00fc,A. Schwolow,1
+T. Kleindienst,N. Petersen,1
+A. Schwolow,T. Kleindienst,1
+N. H\u00f6fler,N. Petersen,1
+T. Kleindienst,J. Haberer,1
+N. Petersen,J. Haberer,1
+N. H\u00f6fler,J. Schuster,1
+T. Kleindienst,L. H\u00f6ler,1
+J. Schuster,J. Haberer,1
+C. S\u00f6y\u00fcnc\u00fc,L. H\u00f6ler,1
+N. Petersen,J. Schuster,1

@@ -1,0 +1,17 @@
+Source,Target,Weight
+K. Vogt,B. H\u00fcbner,2
+S. Posch,K. Vogt,2
+B. H\u00fcbner,S. Posch,1
+K. Demirbay,F. Grillitsch,1
+S. Gnabry,K. Vogt,1
+S. Gnabry,N. Amiri,1
+B. H\u00fcbner,S. Gnabry,1
+S. Gnabry,K. Demirbay,1
+F. Grillitsch,S. Gnabry,1
+K. Vogt,S. Posch,1
+B. H\u00fcbner,F. Grillitsch,1
+P. Kade\u0159\u00e1bek,M. Uth,1
+K. Demirbay,S. Gnabry,1
+F. Grillitsch,B. H\u00fcbner,1
+B. H\u00fcbner,K. Demirbay,1
+N. Amiri,P. Kade\u0159\u00e1bek,1

@@ -1,0 +1,87 @@
+Source,Target,Weight
+R. Knoche,William,10
+William,L. Dimata,7
+D. Didavi,William,6
+William,R. Knoche,6
+William,M. Arnold,5
+P. Verhaegh,J. Brekalo,5
+L. Dimata,D. Didavi,5
+P. Verhaegh,R. Knoche,5
+Camacho,William,4
+R. Knoche,Camacho,4
+Camacho,P. Verhaegh,4
+P. Jaeckel,R. Knoche,4
+Y. Mall\u0131,William,4
+D. Didavi,J. Brekalo,4
+William,Camacho,4
+J. Brekalo,P. Verhaegh,4
+M. Arnold,William,3
+L. Dimata,R. Knoche,3
+Camacho,D. Didavi,3
+William,P. Jaeckel,3
+J. Brekalo,William,3
+P. Verhaegh,D. Didavi,3
+William,Y. Mall\u0131,3
+William,D. Didavi,3
+M. Arnold,L. Dimata,3
+D. Didavi,R. Knoche,2
+J. Brekalo,R. Knoche,2
+D. Didavi,Camacho,2
+J. Brekalo,D. Didavi,2
+R. Knoche,D. Didavi,2
+R. Knoche,P. Jaeckel,2
+M. Arnold,Camacho,2
+Y. Mall\u0131,P. Verhaegh,2
+P. Jaeckel,Camacho,2
+William,P. Verhaegh,2
+P. Jaeckel,Y. Mall\u0131,2
+D. Didavi,K. Casteels,2
+Y. Mall\u0131,D. Didavi,2
+R. Knoche,M. Arnold,2
+P. Verhaegh,William,2
+P. Jaeckel,William,2
+K. Casteels,P. Verhaegh,2
+D. Didavi,P. Jaeckel,2
+R. Knoche,K. Casteels,2
+Camacho,P. Jaeckel,2
+L. Dimata,Y. Mall\u0131,2
+D. Didavi,M. Arnold,2
+M. Arnold,J. Brekalo,1
+K. Casteels,R. Knoche,1
+P. Verhaegh,Y. Mall\u0131,1
+Camacho,M. Arnold,1
+R. Knoche,J. Brekalo,1
+Y. Mall\u0131,P. Jaeckel,1
+P. Jaeckel,P. Verhaegh,1
+L. Dimata,William,1
+R. Knoche,Y. Mall\u0131,1
+M. Arnold,K. Casteels,1
+M. Arnold,R. Knoche,1
+William,K. Casteels,1
+K. Casteels,P. Jaeckel,1
+D. Didavi,L. Dimata,1
+K. Casteels,Camacho,1
+L. Dimata,J. Brekalo,1
+William,J. Brekalo,1
+M. Arnold,Y. Mall\u0131,1
+Y. Mall\u0131,M. Arnold,1
+R. Knoche,P. Verhaegh,1
+J. Brekalo,K. Casteels,1
+Camacho,R. Knoche,1
+L. Dimata,P. Jaeckel,1
+K. Casteels,M. Arnold,1
+Y. Mall\u0131,J. Brekalo,1
+Y. Mall\u0131,R. Knoche,1
+J. Brekalo,Camacho,1
+P. Verhaegh,K. Casteels,1
+D. Didavi,P. Verhaegh,1
+J. Brekalo,Y. Mall\u0131,1
+P. Jaeckel,M. Arnold,1
+R. Knoche,L. Dimata,1
+L. Dimata,P. Verhaegh,1
+M. Arnold,P. Verhaegh,1
+K. Casteels,L. Dimata,1
+K. Casteels,Y. Mall\u0131,1
+P. Verhaegh,P. Jaeckel,1
+P. Verhaegh,L. Dimata,1
+P. Jaeckel,D. Didavi,1

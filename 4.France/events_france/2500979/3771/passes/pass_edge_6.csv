@@ -1,0 +1,92 @@
+Source,Target,Weight
+Luiz Gustavo,M. Lopez,9
+B. Sarr,A. Rami,9
+L. Ocampos,Luiz Gustavo,9
+A. Rami,Rolando,8
+Rolando,J. Amavi,8
+B. Sarr,F. Thauvin,8
+F. Thauvin,B. Sarr,8
+M. Lopez,F. Thauvin,7
+M. Lopez,Luiz Gustavo,7
+A. Rami,B. Sarr,6
+M. Lopez,Rolando,6
+Rolando,M. Lopez,5
+A. Rami,Luiz Gustavo,5
+Luiz Gustavo,B. Sarr,5
+M. Lopez,L. Ocampos,5
+Luiz Gustavo,J. Amavi,5
+J. Amavi,Luiz Gustavo,5
+M. Lopez,B. Sarr,5
+J. Amavi,Rolando,5
+J. Amavi,L. Ocampos,5
+B. Sarr,M. Lopez,5
+F. Thauvin,M. Lopez,5
+L. Ocampos,M. Lopez,4
+Rolando,A. Rami,4
+J. Amavi,A. Rami,4
+A. Rami,J. Amavi,3
+Rolando,Luiz Gustavo,3
+Luiz Gustavo,D. Payet,3
+Rolando,L. Ocampos,3
+A. Rami,V. Germain,3
+A. Rami,M. Lopez,3
+Luiz Gustavo,A. Rami,3
+Luiz Gustavo,F. Thauvin,3
+L. Ocampos,J. Amavi,3
+D. Payet,F. Thauvin,3
+S. Mandanda,M. Lopez,3
+D. Payet,A. Rami,3
+A. Rami,L. Ocampos,3
+B. Sarr,Luiz Gustavo,3
+S. Mandanda,L. Ocampos,3
+L. Ocampos,A. Rami,3
+L. Ocampos,B. Sarr,3
+L. Ocampos,D. Payet,3
+Luiz Gustavo,Rolando,3
+Rolando,S. Mandanda,3
+V. Germain,M. Lopez,2
+S. Mandanda,A. Rami,2
+M. Lopez,D. Payet,2
+F. Thauvin,A. Rami,2
+M. Lopez,S. Mandanda,2
+M. Lopez,A. Rami,2
+D. Payet,J. Amavi,2
+L. Ocampos,Rolando,2
+Luiz Gustavo,L. Ocampos,2
+D. Payet,Luiz Gustavo,2
+F. Thauvin,V. Germain,2
+Rolando,D. Payet,2
+F. Thauvin,L. Ocampos,2
+F. Thauvin,Luiz Gustavo,2
+L. Ocampos,F. Thauvin,2
+V. Germain,L. Ocampos,2
+F. Thauvin,D. Payet,2
+J. Amavi,S. Mandanda,1
+D. Payet,L. Ocampos,1
+Luiz Gustavo,S. Mandanda,1
+D. Payet,Rolando,1
+B. Sarr,V. Germain,1
+M. Lopez,J. Amavi,1
+Luiz Gustavo,M. Sanson,1
+M. Sanson,F. Thauvin,1
+J. Amavi,M. Lopez,1
+F. Thauvin,Rolando,1
+J. Amavi,V. Germain,1
+V. Germain,A. Rami,1
+J. Amavi,D. Payet,1
+A. Rami,D. Payet,1
+V. Germain,D. Payet,1
+M. Lopez,V. Germain,1
+D. Payet,M. Lopez,1
+K. Mitroglou,L. Ocampos,1
+V. Germain,B. Sarr,1
+F. Thauvin,K. Mitroglou,1
+A. Rami,S. Mandanda,1
+S. Mandanda,Rolando,1
+Luiz Gustavo,V. Germain,1
+V. Germain,J. Amavi,1
+B. Sarr,Rolando,1
+B. Sarr,S. Mandanda,1
+D. Payet,B. Sarr,1
+B. Sarr,L. Ocampos,1
+V. Germain,F. Thauvin,1

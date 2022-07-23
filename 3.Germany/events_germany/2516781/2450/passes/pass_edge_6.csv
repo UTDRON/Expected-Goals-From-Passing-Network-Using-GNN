@@ -1,0 +1,34 @@
+Source,Target,Weight
+Douglas Santos,M. Mavraj,4
+G. Jung,D. Diekmeier,3
+D. Diekmeier,A. Hahn,2
+L. Holtby,G. Jung,2
+Walace,B. Wood,2
+M. Mavraj,Douglas Santos,2
+D. Diekmeier,L. Waldschmidt,2
+Walace,Douglas Santos,2
+L. Waldschmidt,L. Holtby,2
+B. Wood,Douglas Santos,2
+M. Mavraj,D. Diekmeier,1
+D. Diekmeier,Walace,1
+Walace,D. Diekmeier,1
+Douglas Santos,Walace,1
+M. Mavraj,Walace,1
+C. Mathenia,L. Holtby,1
+G. Jung,L. Holtby,1
+L. Waldschmidt,C. Mathenia,1
+Walace,L. Waldschmidt,1
+A. Hahn,L. Holtby,1
+L. Holtby,L. Waldschmidt,1
+L. Holtby,Walace,1
+A. Hahn,B. Wood,1
+Douglas Santos,L. Holtby,1
+M. Mavraj,K. Papadopoulos,1
+L. Waldschmidt,Douglas Santos,1
+B. Wood,D. Diekmeier,1
+L. Holtby,B. Wood,1
+L. Waldschmidt,Walace,1
+Douglas Santos,L. Waldschmidt,1
+B. Wood,G. Jung,1
+K. Papadopoulos,Walace,1
+D. Diekmeier,M. Mavraj,1

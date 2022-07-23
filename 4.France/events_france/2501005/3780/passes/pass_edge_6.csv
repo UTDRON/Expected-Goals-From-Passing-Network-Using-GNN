@@ -1,0 +1,20 @@
+Source,Target,Weight
+K. Amian,A. Delort,2
+A. Delort,Som\u00e1lia,2
+A. Lafont,A. Delort,2
+A. Blin,I. Sylla,1
+Steven Fort\u00e8s,A. Blin,1
+I. Sylla,A. Lafont,1
+I. Sangar\u00e9,I. Sylla,1
+I. Sangar\u00e9,M. Gradel,1
+I. Sangar\u00e9,K. Amian,1
+I. Sylla,I. Sangar\u00e9,1
+A. Blin,Som\u00e1lia,1
+Som\u00e1lia,A. Blin,1
+A. Delort,K. Amian,1
+A. Delort,I. Sangar\u00e9,1
+K. Amian,Steven Fort\u00e8s,1
+Som\u00e1lia,K. Amian,1
+M. Gradel,Steven Fort\u00e8s,1
+Steven Fort\u00e8s,A. Lafont,1
+K. Amian,I. Sangar\u00e9,1

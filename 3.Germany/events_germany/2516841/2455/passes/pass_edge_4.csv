@@ -1,0 +1,25 @@
+Source,Target,Weight
+O. Sorg,Jonathas,2
+Miiko Albornoz,P. Schwegler,2
+M. Harnik,Miiko Albornoz,2
+O. Sorg,F. H\u00fcbner,2
+P. Schwegler,S. Maier,1
+Jonathas,M. Bakalorz,1
+M. Bakalorz,F. H\u00fcbner,1
+P. Schwegler,M. Bakalorz,1
+S. San\u00e9,M. Bakalorz,1
+F. H\u00fcbner,M. Esser,1
+M. Bakalorz,S. Maier,1
+S. Maier,S. San\u00e9,1
+M. Bakalorz,F. Klaus,1
+S. Maier,M. Harnik,1
+Jonathas,O. Sorg,1
+F. H\u00fcbner,O. Sorg,1
+Jonathas,P. Schwegler,1
+F. Klaus,Miiko Albornoz,1
+F. H\u00fcbner,M. Bakalorz,1
+S. Maier,O. Sorg,1
+Miiko Albornoz,M. Harnik,1
+M. Bakalorz,O. Sorg,1
+M. Esser,Jonathas,1
+P. Schwegler,S. San\u00e9,1

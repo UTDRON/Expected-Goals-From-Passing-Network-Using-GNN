@@ -1,0 +1,21 @@
+Source,Target,Weight
+J. Korb,M. Bakalorz,2
+J. Korb,W. Anton,1
+P. Schwegler,S. San\u00e9,1
+K. Karaman,M. Bakalorz,1
+K. Karaman,I. Bebou,1
+J. Korb,K. Karaman,1
+M. Harnik,I. Bebou,1
+I. Bebou,J. Korb,1
+W. Anton,J. Korb,1
+S. San\u00e9,J. Korb,1
+J. Korb,F. Klaus,1
+M. Bakalorz,K. Karaman,1
+M. Bakalorz,J. Korb,1
+K. Karaman,F. Klaus,1
+M. Bakalorz,M. Harnik,1
+F. Klaus,P. Schwegler,1
+F. Klaus,J. Korb,1
+I. Bebou,P. Schwegler,1
+P. Schwegler,K. Karaman,1
+J. Korb,I. Bebou,1

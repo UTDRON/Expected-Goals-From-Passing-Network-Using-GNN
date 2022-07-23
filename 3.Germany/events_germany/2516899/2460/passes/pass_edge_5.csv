@@ -1,0 +1,33 @@
+Source,Target,Weight
+J. Gbamin,A. Hack,3
+G. Holtmann,P. De Blasis,3
+D. Brosinski,R. Quaison,2
+A. Hack,Y. Muto,2
+S. Bell,D. Brosinski,2
+D. Brosinski,R. Zentner,2
+R. Zentner,J. Gbamin,1
+A. Hack,G. Holtmann,1
+A. Hack,D. Brosinski,1
+N. de Jong,J. Gbamin,1
+N. de Jong,S. Bell,1
+R. Quaison,S. Bell,1
+A. Maxim,D. Brosinski,1
+R. Zentner,G. Holtmann,1
+S. Bell,R. Quaison,1
+A. Hack,P. De Blasis,1
+D. Brosinski,N. de Jong,1
+R. Quaison,J. Gbamin,1
+R. Zentner,A. Hack,1
+Y. Muto,J. Gbamin,1
+S. Bell,R. Zentner,1
+A. Maxim,N. de Jong,1
+A. Hack,R. Quaison,1
+Y. Muto,G. Holtmann,1
+P. De Blasis,S. Bell,1
+P. De Blasis,A. Hack,1
+P. De Blasis,G. Holtmann,1
+P. De Blasis,A. Maxim,1
+J. Gbamin,D. Brosinski,1
+G. Holtmann,A. Maxim,1
+R. Quaison,A. Maxim,1
+A. Maxim,A. Hack,1

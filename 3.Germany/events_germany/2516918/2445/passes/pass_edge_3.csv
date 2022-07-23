@@ -1,0 +1,18 @@
+Source,Target,Weight
+T. Baumgartl,B. Pavard,3
+M. Kami\u0144ski,E. Ins\u00faa,2
+B. Pavard,M. Kami\u0144ski,2
+M. G\u00f3mez,D. Burnic,2
+D. Burnic,T. Baumgartl,2
+C. Gentner,C. Akolo,1
+M. G\u00f3mez,D. Ginczek,1
+C. Akolo,E. Ins\u00faa,1
+C. Akolo,M. G\u00f3mez,1
+E. Ins\u00faa,M. Kami\u0144ski,1
+T. Baumgartl,M. G\u00f3mez,1
+E. Ins\u00faa,M. G\u00f3mez,1
+D. Ginczek,C. Gentner,1
+M. G\u00f3mez,A. Donis,1
+A. Donis,T. Baumgartl,1
+B. Pavard,T. Baumgartl,1
+E. Ins\u00faa,C. Akolo,1

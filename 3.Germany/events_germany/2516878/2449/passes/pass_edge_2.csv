@@ -1,0 +1,94 @@
+Source,Target,Weight
+B. Stambouli,Naldo,19
+Naldo,M. Nastasi\u0107,17
+M. Nastasi\u0107,B. Oczipka,13
+M. Nastasi\u0107,Naldo,12
+Naldo,B. Stambouli,10
+D. Caligiuri,B. Stambouli,10
+M. Meyer,B. Stambouli,10
+B. Oczipka,M. Nastasi\u0107,10
+B. Stambouli,D. Caligiuri,9
+A. Harit,D. Caligiuri,9
+D. Caligiuri,A. Harit,8
+Naldo,M. Meyer,8
+B. Oczipka,W. McKennie,7
+M. Meyer,B. Oczipka,6
+F. Di Santo,W. McKennie,6
+M. Nastasi\u0107,M. Meyer,6
+F. Di Santo,B. Oczipka,6
+M. Nastasi\u0107,A. Harit,6
+B. Stambouli,M. Nastasi\u0107,6
+F. Di Santo,D. Caligiuri,6
+B. Oczipka,M. Meyer,6
+D. Caligiuri,G. Burgstaller,6
+F. Di Santo,M. Meyer,6
+B. Stambouli,A. Harit,5
+A. Harit,F. Di Santo,5
+D. Caligiuri,F. Di Santo,5
+G. Burgstaller,D. Caligiuri,5
+B. Oczipka,F. Di Santo,5
+W. McKennie,G. Burgstaller,5
+M. Meyer,A. Harit,5
+G. Burgstaller,W. McKennie,5
+G. Burgstaller,F. Di Santo,4
+D. Caligiuri,Naldo,4
+W. McKennie,M. Nastasi\u0107,4
+Naldo,G. Burgstaller,4
+M. Meyer,Naldo,4
+M. Meyer,D. Caligiuri,4
+A. Harit,Naldo,4
+R. F\u00e4hrmann,M. Nastasi\u0107,4
+D. Caligiuri,W. McKennie,4
+M. Nastasi\u0107,B. Stambouli,4
+A. Harit,B. Stambouli,4
+A. Harit,M. Nastasi\u0107,4
+W. McKennie,B. Oczipka,4
+M. Nastasi\u0107,R. F\u00e4hrmann,4
+Naldo,D. Caligiuri,3
+B. Oczipka,A. Harit,3
+W. McKennie,B. Stambouli,3
+B. Stambouli,F. Di Santo,3
+M. Nastasi\u0107,F. Di Santo,3
+B. Stambouli,G. Burgstaller,3
+G. Burgstaller,B. Stambouli,3
+W. McKennie,D. Caligiuri,3
+A. Harit,B. Oczipka,3
+F. Di Santo,M. Nastasi\u0107,3
+R. F\u00e4hrmann,B. Stambouli,3
+Naldo,F. Di Santo,3
+M. Meyer,M. Nastasi\u0107,3
+W. McKennie,M. Meyer,3
+G. Burgstaller,M. Nastasi\u0107,3
+G. Burgstaller,A. Harit,2
+M. Meyer,F. Di Santo,2
+A. Harit,W. McKennie,2
+A. Harit,M. Meyer,2
+D. Caligiuri,M. Meyer,2
+M. Nastasi\u0107,D. Caligiuri,2
+F. Di Santo,Naldo,2
+W. McKennie,A. Harit,2
+Naldo,A. Harit,2
+M. Nastasi\u0107,W. McKennie,2
+F. Di Santo,G. Burgstaller,2
+B. Stambouli,W. McKennie,2
+B. Stambouli,M. Meyer,2
+W. McKennie,Naldo,2
+M. Nastasi\u0107,G. Burgstaller,2
+F. Di Santo,R. F\u00e4hrmann,2
+B. Oczipka,B. Stambouli,2
+G. Burgstaller,M. Meyer,2
+D. Caligiuri,B. Oczipka,2
+W. McKennie,R. F\u00e4hrmann,2
+W. McKennie,F. Di Santo,2
+B. Oczipka,G. Burgstaller,2
+R. F\u00e4hrmann,F. Di Santo,2
+R. F\u00e4hrmann,Naldo,1
+B. Oczipka,R. F\u00e4hrmann,1
+M. Meyer,G. Burgstaller,1
+M. Meyer,R. F\u00e4hrmann,1
+B. Oczipka,Naldo,1
+Naldo,B. Oczipka,1
+M. Meyer,W. McKennie,1
+G. Burgstaller,B. Oczipka,1
+Naldo,R. F\u00e4hrmann,1
+R. F\u00e4hrmann,B. Oczipka,1

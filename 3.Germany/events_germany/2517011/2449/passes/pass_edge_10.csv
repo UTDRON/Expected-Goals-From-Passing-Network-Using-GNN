@@ -1,0 +1,21 @@
+Source,Target,Weight
+Y. Konoplyanka,F. Di Santo,3
+F. Di Santo,Naldo,3
+Naldo,Y. Konoplyanka,3
+B. Oczipka,Y. Konoplyanka,2
+B. Oczipka,W. McKennie,2
+W. McKennie,B. Oczipka,2
+F. Di Santo,B. Oczipka,2
+D. Caligiuri,B. Stambouli,1
+W. McKennie,F. Di Santo,1
+D. Caligiuri,F. Di Santo,1
+B. Stambouli,Naldo,1
+Naldo,B. Oczipka,1
+F. Di Santo,W. McKennie,1
+W. McKennie,B. Stambouli,1
+B. Oczipka,D. Caligiuri,1
+L. Goretzka,W. McKennie,1
+B. Stambouli,F. Di Santo,1
+W. McKennie,D. Caligiuri,1
+D. Caligiuri,W. McKennie,1
+Y. Konoplyanka,D. Caligiuri,1

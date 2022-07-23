@@ -1,0 +1,46 @@
+Source,Target,Weight
+Wendell,J. Baumgartlinger,4
+J. Baumgartlinger,Wendell,3
+K. Volland,K. Havertz,3
+J. Baumgartlinger,P. Retsos,3
+D. Kohr,L. Bailey,3
+P. Retsos,K. Volland,2
+L. Bailey,P. Retsos,2
+C. Ar\u00e1nguiz,J. Baumgartlinger,2
+L. Bailey,C. Ar\u00e1nguiz,2
+P. Retsos,C. Ar\u00e1nguiz,2
+C. Ar\u00e1nguiz,K. Havertz,2
+P. Retsos,L. Bailey,2
+C. Ar\u00e1nguiz,D. Kohr,2
+J. Baumgartlinger,D. Kohr,2
+J. Brandt,D. Kohr,1
+Wendell,C. Ar\u00e1nguiz,1
+K. Havertz,L. Bailey,1
+L. Bailey,D. Kohr,1
+D. Kohr,Wendell,1
+K. Havertz,T. Jedvaj,1
+K. Havertz,K. Volland,1
+T. Jedvaj,J. Baumgartlinger,1
+K. Havertz,C. Ar\u00e1nguiz,1
+J. Brandt,L. Bailey,1
+L. Bailey,T. Jedvaj,1
+K. Volland,J. Brandt,1
+T. Jedvaj,Wendell,1
+T. Jedvaj,D. Kohr,1
+K. Havertz,J. Brandt,1
+C. Ar\u00e1nguiz,T. Jedvaj,1
+D. Kohr,J. Baumgartlinger,1
+P. Retsos,D. Kohr,1
+D. Kohr,K. Volland,1
+J. Baumgartlinger,C. Ar\u00e1nguiz,1
+T. Jedvaj,P. Retsos,1
+J. Brandt,J. Baumgartlinger,1
+K. Volland,T. Jedvaj,1
+C. Ar\u00e1nguiz,P. Retsos,1
+D. Kohr,T. Jedvaj,1
+D. Kohr,J. Brandt,1
+Wendell,J. Brandt,1
+J. Brandt,K. Volland,1
+L. Bailey,Wendell,1
+P. Retsos,K. Havertz,1
+T. Jedvaj,C. Ar\u00e1nguiz,1

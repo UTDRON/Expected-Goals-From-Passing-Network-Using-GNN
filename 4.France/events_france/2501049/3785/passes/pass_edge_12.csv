@@ -1,0 +1,13 @@
+Source,Target,Weight
+C. Kerbrat,F. Eboa Eboa,1
+C. Grenier,M. Thuram,1
+Y. Salibur,J. Ikoko,1
+M. Diallo,Y. Salibur,1
+C. Grenier,Y. Salibur,1
+F. Eboa Eboa,Y. Salibur,1
+F. Eboa Eboa,C. Grenier,1
+M. Coco,C. Kerbrat,1
+M. Thuram,M. Diallo,1
+C. Kerbrat,M. Coco,1
+J. Ikoko,C. Kerbrat,1
+Y. Salibur,F. Eboa Eboa,1

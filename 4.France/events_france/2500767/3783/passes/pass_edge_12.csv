@@ -1,0 +1,24 @@
+Source,Target,Weight
+D. Da Silva,H. Bazile,2
+F. Guilbert,H. Bazile,2
+S. Peeters,D. Da Silva,2
+Y. A\u00eft Bennasser,F. Guilbert,2
+R. Genevois,S. Peeters,1
+F. Guilbert,A. Mbengue,1
+H. Bazile,A. Mbengue,1
+R. Vercoutre,D. Da Silva,1
+C. Kouakou,Y. A\u00eft Bennasser,1
+H. Bazile,J. F\u00e9ret,1
+S. Peeters,J. F\u00e9ret,1
+H. Bazile,S. Peeters,1
+J. F\u00e9ret,R. Genevois,1
+A. Mbengue,R. Rodelin,1
+J. F\u00e9ret,H. Bazile,1
+R. Rodelin,S. Peeters,1
+A. Mbengue,R. Genevois,1
+D. Da Silva,Y. A\u00eft Bennasser,1
+H. Bazile,R. Rodelin,1
+D. Da Silva,R. Vercoutre,1
+H. Bazile,F. Guilbert,1
+R. Genevois,R. Vercoutre,1
+R. Vercoutre,C. Kouakou,1

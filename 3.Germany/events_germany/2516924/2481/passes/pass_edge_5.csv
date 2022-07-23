@@ -1,0 +1,57 @@
+Source,Target,Weight
+Ja-Cheol Koo,J. Mor\u00e1vek,2
+J. Mor\u00e1vek,K. Danso,2
+D. Baier,M. Hinteregger,2
+R. Framberger,M. Gregoritsch,2
+M. Gregoritsch,R. Framberger,2
+M. Gregoritsch,M. Heller,2
+D. Baier,M. Hitz,2
+M. Hinteregger,Ja-Cheol Koo,2
+J. Mor\u00e1vek,P. Max,1
+M. Gregoritsch,J. Mor\u00e1vek,1
+M. Hitz,J. Mor\u00e1vek,1
+Caiuby,M. Heller,1
+K. Danso,M. Hinteregger,1
+M. Heller,Ja-Cheol Koo,1
+R. Framberger,Caiuby,1
+M. Heller,M. Gregoritsch,1
+J. Mor\u00e1vek,D. Baier,1
+M. Hitz,Ja-Cheol Koo,1
+J. Mor\u00e1vek,M. Hitz,1
+R. Framberger,D. Baier,1
+J. Mor\u00e1vek,R. Framberger,1
+M. Hinteregger,R. Framberger,1
+K. Danso,R. Framberger,1
+M. Hitz,M. Gregoritsch,1
+Ja-Cheol Koo,M. Gregoritsch,1
+Ja-Cheol Koo,K. Danso,1
+M. Heller,P. Max,1
+Caiuby,D. Baier,1
+M. Gregoritsch,Ja-Cheol Koo,1
+Caiuby,K. Danso,1
+Ja-Cheol Koo,Caiuby,1
+Caiuby,Ja-Cheol Koo,1
+K. Danso,M. Hitz,1
+P. Max,Ja-Cheol Koo,1
+J. Mor\u00e1vek,M. Gregoritsch,1
+M. Hinteregger,D. Baier,1
+Ja-Cheol Koo,P. Max,1
+M. Gregoritsch,K. Danso,1
+M. Hinteregger,Caiuby,1
+M. Heller,M. Hinteregger,1
+K. Danso,Ja-Cheol Koo,1
+M. Heller,J. Mor\u00e1vek,1
+M. Hinteregger,M. Heller,1
+P. Max,M. Heller,1
+Ja-Cheol Koo,M. Hinteregger,1
+J. Mor\u00e1vek,M. Hinteregger,1
+M. Hinteregger,J. Mor\u00e1vek,1
+R. Framberger,M. Hinteregger,1
+P. Max,J. Mor\u00e1vek,1
+R. Framberger,K. Danso,1
+Caiuby,M. Gregoritsch,1
+D. Baier,Caiuby,1
+K. Danso,J. Mor\u00e1vek,1
+K. Danso,D. Baier,1
+M. Hitz,Caiuby,1
+Ja-Cheol Koo,D. Baier,1

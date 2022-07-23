@@ -1,0 +1,84 @@
+Source,Target,Weight
+Rafinha,N. S\u00fcle,14
+Juan Bernat,Rafinha,10
+J. Boateng,J. Kimmich,9
+Rafinha,Juan Bernat,8
+N. S\u00fcle,S. Ulreich,7
+S. Rudy,J. Rodr\u00edguez,6
+Juan Bernat,J. Rodr\u00edguez,6
+J. Boateng,S. Ulreich,6
+N. S\u00fcle,J. Boateng,6
+N. S\u00fcle,Rafinha,6
+S. Ulreich,N. S\u00fcle,6
+Rafinha,S. Rudy,6
+J. Kimmich,J. Boateng,6
+C. Tolisso,J. Kimmich,5
+S. Rudy,Rafinha,5
+J. Rodr\u00edguez,N. S\u00fcle,5
+J. Rodr\u00edguez,Juan Bernat,4
+C. Tolisso,Juan Bernat,4
+N. S\u00fcle,J. Rodr\u00edguez,4
+J. Kimmich,S. Ulreich,4
+S. Ulreich,S. Wagner,4
+J. Kimmich,A. Robben,4
+J. Kimmich,C. Tolisso,4
+J. Rodr\u00edguez,C. Tolisso,4
+A. Robben,J. Kimmich,4
+J. Rodr\u00edguez,Rafinha,4
+C. Tolisso,J. Rodr\u00edguez,4
+N. S\u00fcle,J. Kimmich,4
+Juan Bernat,C. Tolisso,3
+S. Wagner,Rafinha,3
+S. Ulreich,Juan Bernat,3
+S. Ulreich,Rafinha,3
+S. Wagner,J. Boateng,3
+Rafinha,S. Wagner,3
+S. Ulreich,J. Boateng,3
+J. Boateng,C. Tolisso,3
+A. Robben,C. Tolisso,3
+C. Tolisso,Rafinha,3
+J. Kimmich,Rafinha,3
+J. Rodr\u00edguez,A. Robben,3
+J. Boateng,N. S\u00fcle,3
+Juan Bernat,S. Rudy,2
+J. Rodr\u00edguez,J. Boateng,2
+S. Wagner,Juan Bernat,2
+S. Rudy,J. Kimmich,2
+J. Rodr\u00edguez,J. Kimmich,2
+S. Ulreich,S. Rudy,2
+A. Robben,Juan Bernat,2
+J. Kimmich,J. Rodr\u00edguez,2
+Rafinha,C. Tolisso,2
+S. Wagner,J. Rodr\u00edguez,2
+J. Rodr\u00edguez,S. Rudy,2
+S. Ulreich,A. Robben,2
+Rafinha,S. Ulreich,2
+S. Wagner,S. Rudy,2
+N. S\u00fcle,S. Rudy,2
+S. Rudy,S. Ulreich,2
+S. Rudy,J. Boateng,1
+J. Kimmich,S. Rudy,1
+Juan Bernat,S. Wagner,1
+N. S\u00fcle,S. Wagner,1
+C. Tolisso,N. S\u00fcle,1
+N. S\u00fcle,C. Tolisso,1
+S. Rudy,Juan Bernat,1
+Juan Bernat,N. S\u00fcle,1
+J. Kimmich,Juan Bernat,1
+N. S\u00fcle,A. Robben,1
+J. Boateng,S. Wagner,1
+Juan Bernat,J. Boateng,1
+J. Rodr\u00edguez,S. Wagner,1
+S. Rudy,N. S\u00fcle,1
+J. Boateng,J. Rodr\u00edguez,1
+J. Kimmich,N. S\u00fcle,1
+J. Boateng,S. Rudy,1
+C. Tolisso,J. Boateng,1
+C. Tolisso,A. Robben,1
+J. Kimmich,S. Wagner,1
+Rafinha,J. Boateng,1
+A. Robben,J. Rodr\u00edguez,1
+Juan Bernat,S. Ulreich,1
+Rafinha,J. Rodr\u00edguez,1
+S. Wagner,S. Ulreich,1
+A. Robben,S. Wagner,1

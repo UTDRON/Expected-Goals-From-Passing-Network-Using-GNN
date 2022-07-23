@@ -1,0 +1,46 @@
+Source,Target,Weight
+W. Orban,K. Laimer,3
+K. Laimer,M. Sabitzer,3
+D. Upamecano,K. Kampl,3
+W. Orban,P. Gul\u00e1csi,2
+M. Sabitzer,K. Kampl,2
+K. Kampl,N. Ke\u00efta,2
+L. Klostermann,D. Upamecano,2
+P. Gul\u00e1csi,W. Orban,2
+N. Ke\u00efta,P. Gul\u00e1csi,2
+D. Upamecano,N. Ke\u00efta,2
+N. Ke\u00efta,K. Laimer,2
+K. Kampl,D. Upamecano,2
+M. Sabitzer,D. Upamecano,2
+K. Laimer,W. Orban,1
+K. Laimer,L. Klostermann,1
+Bruma,L. Klostermann,1
+N. Ke\u00efta,K. Kampl,1
+Y. Poulsen,N. Ke\u00efta,1
+Bruma,M. Sabitzer,1
+D. Upamecano,M. Sabitzer,1
+P. Gul\u00e1csi,D. Upamecano,1
+K. Kampl,Bruma,1
+P. Gul\u00e1csi,Y. Poulsen,1
+D. Upamecano,Bruma,1
+K. Kampl,T. Werner,1
+Bruma,K. Kampl,1
+L. Klostermann,K. Kampl,1
+L. Klostermann,N. Ke\u00efta,1
+K. Laimer,N. Ke\u00efta,1
+M. Sabitzer,Y. Poulsen,1
+D. Upamecano,L. Klostermann,1
+W. Orban,N. Ke\u00efta,1
+M. Sabitzer,K. Laimer,1
+M. Sabitzer,W. Orban,1
+K. Kampl,M. Sabitzer,1
+K. Kampl,L. Klostermann,1
+W. Orban,T. Werner,1
+T. Werner,M. Sabitzer,1
+T. Werner,W. Orban,1
+N. Ke\u00efta,M. Sabitzer,1
+L. Klostermann,Bruma,1
+N. Ke\u00efta,T. Werner,1
+N. Ke\u00efta,W. Orban,1
+T. Werner,L. Klostermann,1
+Y. Poulsen,W. Orban,1

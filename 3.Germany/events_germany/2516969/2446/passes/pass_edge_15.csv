@@ -1,0 +1,81 @@
+Source,Target,Weight
+Wendell,J. Brandt,7
+C. Ar\u00e1nguiz,Wendell,6
+S. Bender,Wendell,5
+B. Leno,L. Alario,5
+Wendell,S. Bender,5
+J. Brandt,S. Bender,4
+J. Brandt,J. Baumgartlinger,4
+J. Baumgartlinger,Wendell,3
+Wendell,J. Baumgartlinger,3
+L. Alario,J. Brandt,3
+Wendell,C. Ar\u00e1nguiz,3
+L. Alario,C. Ar\u00e1nguiz,3
+J. Tah,B. Leno,3
+C. Ar\u00e1nguiz,K. Havertz,3
+S. Bender,B. Leno,3
+J. Tah,J. Baumgartlinger,3
+Wendell,L. Alario,3
+J. Baumgartlinger,J. Brandt,2
+L. Bender,K. Volland,2
+K. Volland,C. Ar\u00e1nguiz,2
+J. Baumgartlinger,C. Ar\u00e1nguiz,2
+D. Kohr,Wendell,2
+J. Baumgartlinger,S. Bender,2
+C. Ar\u00e1nguiz,L. Bender,2
+J. Baumgartlinger,L. Bender,2
+D. Kohr,J. Brandt,2
+B. Leno,Wendell,2
+S. Bender,J. Baumgartlinger,2
+S. Bender,K. Volland,2
+J. Brandt,C. Ar\u00e1nguiz,2
+J. Brandt,K. Havertz,2
+J. Baumgartlinger,J. Tah,2
+J. Brandt,L. Alario,2
+Wendell,J. Tah,2
+J. Tah,S. Bender,2
+K. Volland,Wendell,1
+B. Leno,K. Havertz,1
+L. Alario,K. Volland,1
+C. Ar\u00e1nguiz,S. Bender,1
+L. Alario,K. Havertz,1
+C. Ar\u00e1nguiz,J. Baumgartlinger,1
+J. Tah,C. Ar\u00e1nguiz,1
+C. Ar\u00e1nguiz,J. Brandt,1
+J. Baumgartlinger,D. Kohr,1
+J. Brandt,L. Bender,1
+L. Bender,J. Tah,1
+J. Brandt,B. Leno,1
+K. Havertz,S. Bender,1
+L. Bender,J. Baumgartlinger,1
+S. Bender,J. Tah,1
+K. Havertz,C. Ar\u00e1nguiz,1
+C. Ar\u00e1nguiz,L. Alario,1
+J. Brandt,Wendell,1
+K. Volland,J. Brandt,1
+L. Alario,Wendell,1
+K. Havertz,K. Volland,1
+L. Bender,Wendell,1
+L. Bender,S. Bender,1
+K. Havertz,J. Brandt,1
+L. Alario,L. Bender,1
+L. Bender,C. Ar\u00e1nguiz,1
+Wendell,B. Leno,1
+J. Baumgartlinger,B. Leno,1
+K. Volland,D. Kohr,1
+L. Alario,J. Tah,1
+K. Havertz,J. Tah,1
+K. Havertz,L. Bender,1
+J. Baumgartlinger,K. Havertz,1
+J. Tah,Wendell,1
+S. Bender,J. Brandt,1
+B. Leno,J. Brandt,1
+J. Brandt,D. Kohr,1
+K. Havertz,Wendell,1
+S. Bender,C. Ar\u00e1nguiz,1
+J. Brandt,J. Tah,1
+S. Bender,L. Alario,1
+L. Alario,J. Baumgartlinger,1
+K. Volland,J. Tah,1
+Wendell,D. Kohr,1
+K. Havertz,J. Baumgartlinger,1

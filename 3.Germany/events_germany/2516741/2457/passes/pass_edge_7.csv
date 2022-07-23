@@ -1,0 +1,17 @@
+Source,Target,Weight
+S. Langkamp,M. Weiser,2
+V. Darida,P. Skjelbred,2
+M. Weiser,S. Langkamp,2
+P. Skjelbred,V. Darida,1
+P. Skjelbred,M. Plattenhardt,1
+S. Kalou,V. Darida,1
+M. Plattenhardt,V. Ibi\u0161evi\u0107,1
+V. Ibi\u0161evi\u0107,M. Weiser,1
+M. Plattenhardt,S. Kalou,1
+S. Langkamp,P. Skjelbred,1
+S. Langkamp,R. Jarstein,1
+R. Jarstein,S. Langkamp,1
+M. Weiser,A. Esswein,1
+P. Skjelbred,S. Langkamp,1
+M. Weiser,V. Darida,1
+V. Darida,M. Weiser,1

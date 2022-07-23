@@ -1,0 +1,37 @@
+Source,Target,Weight
+F. Guilbert,B. Sankoh,3
+S. Peeters,C. Kouakou,2
+I. Santini,S. Peeters,2
+D. Da Silva,R. Vercoutre,2
+S. Peeters,D. Da Silva,2
+B. Sankoh,C. Kouakou,2
+R. Rodelin,J. Repas,1
+A. Djiku,B. Sankoh,1
+S. Peeters,F. Guilbert,1
+J. Repas,D. Da Silva,1
+J. Repas,F. Guilbert,1
+R. Rodelin,S. Peeters,1
+V. Bessat,R. Rodelin,1
+J. Deminguet,V. Bessat,1
+F. Guilbert,J. Repas,1
+F. Guilbert,D. Da Silva,1
+C. Kouakou,B. Sankoh,1
+D. Da Silva,V. Bessat,1
+C. Kouakou,D. Da Silva,1
+D. Da Silva,A. Djiku,1
+C. Kouakou,I. Santini,1
+I. Santini,R. Rodelin,1
+V. Bessat,R. Vercoutre,1
+B. Sankoh,F. Guilbert,1
+R. Rodelin,A. Djiku,1
+R. Vercoutre,V. Bessat,1
+D. Da Silva,F. Guilbert,1
+A. Djiku,S. Peeters,1
+B. Sankoh,A. Djiku,1
+R. Rodelin,D. Da Silva,1
+B. Sankoh,S. Peeters,1
+R. Vercoutre,I. Santini,1
+A. Djiku,F. Guilbert,1
+D. Da Silva,R. Rodelin,1
+V. Bessat,J. Deminguet,1
+R. Vercoutre,R. Rodelin,1

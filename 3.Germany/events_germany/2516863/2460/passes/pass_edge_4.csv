@@ -1,0 +1,54 @@
+Source,Target,Weight
+A. Diallo,G. Holtmann,2
+S. Bell,A. Diallo,2
+S. Bell,L. \u00d6ztunali,2
+J. Gbamin,L. \u00d6ztunali,2
+G. Holtmann,A. Maxim,2
+D. Latza,R. Zentner,2
+J. Gbamin,P. De Blasis,2
+G. Donati,K. Kodro,2
+L. \u00d6ztunali,D. Latza,2
+R. Zentner,S. Bell,2
+P. De Blasis,A. Diallo,1
+L. \u00d6ztunali,G. Donati,1
+L. \u00d6ztunali,R. Zentner,1
+R. Zentner,A. Maxim,1
+R. Zentner,K. Kodro,1
+L. \u00d6ztunali,G. Holtmann,1
+K. Kodro,A. Maxim,1
+L. \u00d6ztunali,A. Maxim,1
+K. Kodro,G. Holtmann,1
+D. Latza,L. \u00d6ztunali,1
+G. Holtmann,R. Zentner,1
+A. Maxim,A. Diallo,1
+R. Zentner,J. Gbamin,1
+J. Gbamin,S. Bell,1
+G. Holtmann,S. Bell,1
+A. Maxim,K. Kodro,1
+J. Gbamin,A. Maxim,1
+D. Latza,G. Donati,1
+G. Donati,S. Bell,1
+G. Donati,J. Gbamin,1
+K. Kodro,J. Gbamin,1
+G. Holtmann,K. Kodro,1
+S. Bell,J. Gbamin,1
+K. Kodro,R. Zentner,1
+P. De Blasis,A. Maxim,1
+G. Holtmann,J. Gbamin,1
+K. Kodro,L. \u00d6ztunali,1
+L. \u00d6ztunali,P. De Blasis,1
+G. Donati,D. Latza,1
+A. Maxim,R. Zentner,1
+G. Donati,L. \u00d6ztunali,1
+P. De Blasis,K. Kodro,1
+A. Maxim,G. Donati,1
+A. Maxim,G. Holtmann,1
+A. Diallo,G. Donati,1
+S. Bell,R. Zentner,1
+L. \u00d6ztunali,S. Bell,1
+A. Diallo,L. \u00d6ztunali,1
+A. Maxim,D. Latza,1
+R. Zentner,G. Donati,1
+A. Maxim,J. Gbamin,1
+K. Kodro,G. Donati,1
+R. Zentner,G. Holtmann,1

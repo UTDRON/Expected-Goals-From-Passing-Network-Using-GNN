@@ -1,0 +1,16 @@
+Source,Target,Weight
+T. Hazard,N. Elvedi,1
+D. Zakaria,O. Wendt,1
+C. Kramer,Raffael,1
+T. Hazard,L. Stindl,1
+O. Wendt,C. Kramer,1
+C. Kramer,N. Elvedi,1
+O. Wendt,T. Hazard,1
+M. Ginter,T. Hazard,1
+Raffael,C. Kramer,1
+C. Kramer,M. Ginter,1
+N. Elvedi,Raffael,1
+N. Elvedi,C. Kramer,1
+Raffael,M. Ginter,1
+M. Ginter,D. Zakaria,1
+L. Stindl,T. Hazard,1

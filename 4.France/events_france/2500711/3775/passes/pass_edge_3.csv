@@ -1,0 +1,16 @@
+Source,Target,Weight
+A. Souquet,R. Walter,3
+J. Seri,W. Sneijder,2
+R. Walter,A. Souquet,2
+W. Sneijder,C. Jallet,2
+C. Jallet,P. Lees Melou,2
+W. Sneijder,R. Walter,1
+P. Lees Melou,A. Tameze,1
+P. Lees Melou,R. Walter,1
+A. Tameze,M. Le Marchand,1
+M. Le Marchand,Dante,1
+A. Tameze,J. Seri,1
+R. Walter,J. Seri,1
+R. Walter,W. Sneijder,1
+Dante,A. Souquet,1
+R. Walter,P. Lees Melou,1

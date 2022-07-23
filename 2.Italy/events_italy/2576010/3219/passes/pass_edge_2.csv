@@ -1,0 +1,21 @@
+Source,Target,Weight
+L. Memushaj,C. Lombardi,2
+C. Lombardi,L. Venuti,2
+M. Coda,A. Gravillon,1
+A. Gravillon,M. Coda,1
+L. Memushaj,A. Gravillon,1
+C. Lombardi,M. Coda,1
+C. Lombardi,L. Memushaj,1
+A. Gravillon,G. Pu\u015fca\u015f,1
+A. Gravillon,C. Lombardi,1
+L. Venuti,C. Lombardi,1
+L. Venuti,V. Belec,1
+L. Venuti,M. Coda,1
+M. Coda,A. Costa,1
+L. Venuti,A. Gravillon,1
+V. Belec,G. Pu\u015fca\u015f,1
+L. Memushaj,L. Venuti,1
+A. Costa,A. Gravillon,1
+G. Pu\u015fca\u015f,L. Venuti,1
+G. Pu\u015fca\u015f,L. Memushaj,1
+A. Gravillon,L. Memushaj,1

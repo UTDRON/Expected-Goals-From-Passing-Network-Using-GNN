@@ -1,0 +1,71 @@
+Source,Target,Weight
+Balenziaga,A. Laporte,6
+A. Laporte,Arrizabalaga,5
+A. Laporte,Unai N\u00fa\u00f1ez,5
+Unai N\u00fa\u00f1ez,Lekue,4
+Lekue,Unai N\u00fa\u00f1ez,4
+Unai N\u00fa\u00f1ez,A. Laporte,4
+Vesga,Unai N\u00fa\u00f1ez,4
+Vesga,Muniain,3
+Lekue,Muniain,3
+Vesga,A. Laporte,3
+Muniain,I\u00f1aki Williams,3
+Unai N\u00fa\u00f1ez,Vesga,3
+A. Laporte,I\u00f1igo C\u00f3rdoba,3
+San Jos\u00e9,Lekue,3
+San Jos\u00e9,Vesga,3
+Lekue,Balenziaga,3
+San Jos\u00e9,Unai N\u00fa\u00f1ez,3
+Unai N\u00fa\u00f1ez,I\u00f1aki Williams,2
+Arrizabalaga,Aduriz,2
+Muniain,San Jos\u00e9,2
+A. Laporte,Vesga,2
+I\u00f1aki Williams,Lekue,2
+A. Laporte,Balenziaga,2
+A. Laporte,I\u00f1aki Williams,2
+I\u00f1aki Williams,San Jos\u00e9,2
+Muniain,Lekue,2
+Vesga,Balenziaga,2
+Arrizabalaga,I\u00f1aki Williams,2
+Vesga,I\u00f1igo C\u00f3rdoba,2
+Arrizabalaga,A. Laporte,2
+Aduriz,Vesga,2
+I\u00f1aki Williams,Muniain,2
+Balenziaga,Vesga,2
+Muniain,Vesga,2
+Vesga,San Jos\u00e9,2
+Unai N\u00fa\u00f1ez,Arrizabalaga,1
+I\u00f1igo C\u00f3rdoba,Arrizabalaga,1
+Muniain,Unai N\u00fa\u00f1ez,1
+San Jos\u00e9,I\u00f1igo C\u00f3rdoba,1
+Aduriz,Lekue,1
+I\u00f1igo C\u00f3rdoba,San Jos\u00e9,1
+Unai N\u00fa\u00f1ez,I\u00f1igo C\u00f3rdoba,1
+I\u00f1igo C\u00f3rdoba,Vesga,1
+Balenziaga,Aduriz,1
+Balenziaga,San Jos\u00e9,1
+I\u00f1igo C\u00f3rdoba,A. Laporte,1
+I\u00f1igo C\u00f3rdoba,Lekue,1
+Muniain,Balenziaga,1
+I\u00f1igo C\u00f3rdoba,Balenziaga,1
+I\u00f1aki Williams,Vesga,1
+Arrizabalaga,Unai N\u00fa\u00f1ez,1
+Muniain,A. Laporte,1
+San Jos\u00e9,A. Laporte,1
+Aduriz,Unai N\u00fa\u00f1ez,1
+A. Laporte,San Jos\u00e9,1
+Unai N\u00fa\u00f1ez,Muniain,1
+I\u00f1igo C\u00f3rdoba,Muniain,1
+Unai N\u00fa\u00f1ez,Aduriz,1
+Unai N\u00fa\u00f1ez,San Jos\u00e9,1
+A. Laporte,Aduriz,1
+I\u00f1aki Williams,Aduriz,1
+Lekue,A. Laporte,1
+Lekue,Arrizabalaga,1
+Aduriz,A. Laporte,1
+Aduriz,Muniain,1
+Lekue,Vesga,1
+Aduriz,San Jos\u00e9,1
+Vesga,Aduriz,1
+Arrizabalaga,Muniain,1
+Unai N\u00fa\u00f1ez,Balenziaga,1

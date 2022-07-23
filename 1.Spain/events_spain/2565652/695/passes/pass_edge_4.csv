@@ -1,0 +1,34 @@
+Source,Target,Weight
+Campa\u00f1a,J. Lerma,4
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,3
+Campa\u00f1a,Pedro L\u00f3pez,3
+J. Lerma,To\u00f1o,3
+J. Lerma,Ivi,3
+To\u00f1o,J. Lerma,2
+J. Lerma,Campa\u00f1a,2
+Pedro L\u00f3pez,J. Lerma,2
+Sergio Postigo,Pedro L\u00f3pez,2
+Sergio Postigo,Campa\u00f1a,2
+Chema,Campa\u00f1a,2
+Ivi,J. Lerma,1
+Ivi,Sergio Postigo,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+Ivi,To\u00f1o,1
+Campa\u00f1a,E. Boateng,1
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,1
+Ivi,E. \u00dcnal,1
+E. \u00dcnal,J. Lerma,1
+J. Lerma,Sergio Postigo,1
+To\u00f1o,E. Boateng,1
+To\u00f1o,Sergio Postigo,1
+Pedro L\u00f3pez,Sergio Postigo,1
+E. Boateng,Campa\u00f1a,1
+J. Lerma,Pedro L\u00f3pez,1
+Pedro L\u00f3pez,Campa\u00f1a,1
+Campa\u00f1a,Chema,1
+Sergio Postigo,Chema,1
+Chema,To\u00f1o,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+J. Lerma,Chema,1
+To\u00f1o,Ivi,1
+Campa\u00f1a,Sergio Postigo,1

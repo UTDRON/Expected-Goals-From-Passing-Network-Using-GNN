@@ -1,0 +1,58 @@
+Source,Target,Weight
+Xabi Prieto,Odriozola,6
+Odriozola,Xabi Prieto,6
+Odriozola,Mikel Oyarzabal,5
+Mikel Oyarzabal,Illarramendi,5
+Illarramendi,Mikel Oyarzabal,4
+Aritz Elustondo,Illarramendi,4
+Illarramendi,Odriozola,4
+Illarramendi,Zurutuza,4
+K\u00e9vin Rodrigues,Zubeld\u00eda,4
+Zubeld\u00eda,Zurutuza,4
+Zurutuza,Odriozola,4
+K\u00e9vin Rodrigues,Zurutuza,3
+Zurutuza,Zubeld\u00eda,3
+Mikel Oyarzabal,Xabi Prieto,3
+Aritz Elustondo,Zubeld\u00eda,3
+Illarramendi,Xabi Prieto,3
+Zubeld\u00eda,K\u00e9vin Rodrigues,3
+Zubeld\u00eda,Aritz Elustondo,3
+Zubeld\u00eda,Illarramendi,3
+Illarramendi,K\u00e9vin Rodrigues,3
+K\u00e9vin Rodrigues,Illarramendi,3
+Illarramendi,Aritz Elustondo,2
+Zurutuza,Xabi Prieto,2
+Illarramendi,G. Rulli,2
+Juanmi,Illarramendi,2
+Willian Jos\u00e9,K\u00e9vin Rodrigues,2
+Zurutuza,Aritz Elustondo,2
+Zurutuza,K\u00e9vin Rodrigues,2
+K\u00e9vin Rodrigues,Juanmi,2
+Odriozola,Illarramendi,2
+Juanmi,Zurutuza,2
+Xabi Prieto,Zurutuza,2
+G. Rulli,Illarramendi,2
+Xabi Prieto,Mikel Oyarzabal,2
+Willian Jos\u00e9,Juanmi,1
+Odriozola,Zurutuza,1
+Mikel Oyarzabal,Willian Jos\u00e9,1
+Mikel Oyarzabal,K\u00e9vin Rodrigues,1
+Mikel Oyarzabal,Odriozola,1
+Xabi Prieto,Illarramendi,1
+Zurutuza,Willian Jos\u00e9,1
+Willian Jos\u00e9,Zubeld\u00eda,1
+Zurutuza,Juanmi,1
+K\u00e9vin Rodrigues,Willian Jos\u00e9,1
+Mikel Oyarzabal,Zubeld\u00eda,1
+G. Rulli,K\u00e9vin Rodrigues,1
+Zubeld\u00eda,G. Rulli,1
+Juanmi,K\u00e9vin Rodrigues,1
+Xabi Prieto,Zubeld\u00eda,1
+Zurutuza,Illarramendi,1
+Aritz Elustondo,K\u00e9vin Rodrigues,1
+K\u00e9vin Rodrigues,G. Rulli,1
+Xabi Prieto,Aritz Elustondo,1
+G. Rulli,Zurutuza,1
+Odriozola,Juanmi,1
+Zurutuza,Mikel Oyarzabal,1
+Illarramendi,Willian Jos\u00e9,1

@@ -1,0 +1,43 @@
+Source,Target,Weight
+Carlos Soler,Gabriel,4
+Dani Parejo,Jos\u00e9 Gay\u00e1,3
+Gabriel,Carlos Soler,3
+Jos\u00e9 Gay\u00e1,Gabriel,2
+Carlos Soler,G. Kondogbia,2
+G. Kondogbia,J. Murillo,2
+E. Garay,Carlos Soler,2
+Jos\u00e9 Gay\u00e1,Dani Parejo,2
+Carlos Soler,F. Coquelin,2
+Neto,Ferr\u00e1n Torres,1
+G. Kondogbia,E. Garay,1
+E. Garay,G. Kondogbia,1
+Gabriel,Dani Parejo,1
+Carlos Soler,Neto,1
+G. Kondogbia,Carlos Soler,1
+Dani Parejo,Carlos Soler,1
+Gabriel,F. Coquelin,1
+G. Kondogbia,Gabriel,1
+F. Coquelin,Carlos Soler,1
+Ferr\u00e1n Torres,Carlos Soler,1
+J. Murillo,E. Garay,1
+J. Murillo,Gon\u00e7alo Guedes,1
+Ferr\u00e1n Torres,Gabriel,1
+Gon\u00e7alo Guedes,Rodrigo,1
+Ferr\u00e1n Torres,Gon\u00e7alo Guedes,1
+Gon\u00e7alo Guedes,Jos\u00e9 Gay\u00e1,1
+J. Murillo,G. Kondogbia,1
+Gabriel,E. Garay,1
+Dani Parejo,Ferr\u00e1n Torres,1
+Ferr\u00e1n Torres,Jos\u00e9 Gay\u00e1,1
+Rodrigo,E. Garay,1
+F. Coquelin,Jos\u00e9 Gay\u00e1,1
+Gon\u00e7alo Guedes,Ferr\u00e1n Torres,1
+Dani Parejo,Gon\u00e7alo Guedes,1
+F. Coquelin,Gon\u00e7alo Guedes,1
+E. Garay,F. Coquelin,1
+Gabriel,Gon\u00e7alo Guedes,1
+Gon\u00e7alo Guedes,Dani Parejo,1
+Gabriel,G. Kondogbia,1
+Jos\u00e9 Gay\u00e1,J. Murillo,1
+F. Coquelin,Dani Parejo,1
+Jos\u00e9 Gay\u00e1,Ferr\u00e1n Torres,1

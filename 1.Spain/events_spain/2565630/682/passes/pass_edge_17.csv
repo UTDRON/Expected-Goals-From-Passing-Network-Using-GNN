@@ -1,0 +1,14 @@
+Source,Target,Weight
+Jaume Costa,Trigueros,2
+Trigueros,Mario,1
+Samu Castillejo,Pablo Fornals,1
+Pablo Fornals,Jaume Costa,1
+Mario,C. Bakambu,1
+C. Bakambu,C. Bacca,1
+Pablo Fornals,C. Bacca,1
+Samu Castillejo,Jaume Costa,1
+Trigueros,Samu Castillejo,1
+Mario,Samu Castillejo,1
+C. Bacca,Pablo Fornals,1
+Samu Castillejo,C. Bakambu,1
+C. Bakambu,Samu Castillejo,1

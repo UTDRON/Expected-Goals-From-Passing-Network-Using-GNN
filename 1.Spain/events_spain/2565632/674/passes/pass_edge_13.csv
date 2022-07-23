@@ -1,0 +1,80 @@
+Source,Target,Weight
+J. Murillo,Jos\u00e9 Gay\u00e1,7
+Dani Parejo,Jos\u00e9 Gay\u00e1,6
+Gon\u00e7alo Guedes,Jos\u00e9 Gay\u00e1,5
+J. Murillo,Dani Parejo,5
+Jos\u00e9 Gay\u00e1,Gon\u00e7alo Guedes,5
+J. Murillo,G. Kondogbia,4
+G. Kondogbia,Neto,4
+Jos\u00e9 Gay\u00e1,J. Murillo,4
+J. Murillo,Gabriel,4
+Jos\u00e9 Gay\u00e1,G. Kondogbia,4
+Dani Parejo,J. Murillo,4
+Gon\u00e7alo Guedes,Dani Parejo,3
+G. Kondogbia,Jos\u00e9 Gay\u00e1,3
+Gabriel,Gon\u00e7alo Guedes,3
+S. Zaza,J. Murillo,3
+Dani Parejo,G. Kondogbia,3
+Rodrigo,Carlos Soler,3
+G. Kondogbia,Dani Parejo,2
+Dani Parejo,Rodrigo,2
+S. Zaza,Dani Parejo,2
+Rodrigo,J. Murillo,2
+Jos\u00e9 Gay\u00e1,Montoya,2
+Carlos Soler,Montoya,2
+Gabriel,Rodrigo,2
+Gabriel,J. Murillo,2
+G. Kondogbia,Rodrigo,2
+Dani Parejo,Gon\u00e7alo Guedes,2
+Montoya,J. Murillo,2
+Gon\u00e7alo Guedes,Rodrigo,2
+Jos\u00e9 Gay\u00e1,Dani Parejo,2
+Gon\u00e7alo Guedes,J. Murillo,2
+Montoya,Dani Parejo,2
+Neto,Gon\u00e7alo Guedes,2
+Jos\u00e9 Gay\u00e1,Gabriel,2
+S. Zaza,Gon\u00e7alo Guedes,2
+Santi Mina,Rodrigo,1
+Montoya,S. Zaza,1
+Gon\u00e7alo Guedes,Montoya,1
+Santi Mina,Gon\u00e7alo Guedes,1
+G. Kondogbia,J. Murillo,1
+S. Zaza,G. Kondogbia,1
+Neto,S. Zaza,1
+G. Kondogbia,Gon\u00e7alo Guedes,1
+Gon\u00e7alo Guedes,Gabriel,1
+Gon\u00e7alo Guedes,Neto,1
+Gon\u00e7alo Guedes,S. Zaza,1
+Neto,Gabriel,1
+Gon\u00e7alo Guedes,Santi Mina,1
+Rodrigo,S. Zaza,1
+Gabriel,S. Zaza,1
+Carlos Soler,Dani Parejo,1
+Neto,J. Murillo,1
+Dani Parejo,Carlos Soler,1
+Montoya,G. Kondogbia,1
+Montoya,Gabriel,1
+Rodrigo,G. Kondogbia,1
+Jos\u00e9 Gay\u00e1,Rodrigo,1
+Rodrigo,Jos\u00e9 Gay\u00e1,1
+Gabriel,Montoya,1
+Dani Parejo,Montoya,1
+Neto,Montoya,1
+Santi Mina,Dani Parejo,1
+Rodrigo,Gon\u00e7alo Guedes,1
+Jos\u00e9 Gay\u00e1,S. Zaza,1
+Neto,Santi Mina,1
+Rodrigo,Dani Parejo,1
+G. Kondogbia,S. Zaza,1
+Neto,G. Kondogbia,1
+Montoya,Rodrigo,1
+Gabriel,Dani Parejo,1
+Gabriel,Neto,1
+Gon\u00e7alo Guedes,Carlos Soler,1
+Carlos Soler,J. Murillo,1
+Jos\u00e9 Gay\u00e1,Neto,1
+G. Kondogbia,Santi Mina,1
+J. Murillo,S. Zaza,1
+J. Murillo,Neto,1
+Carlos Soler,Gon\u00e7alo Guedes,1
+Dani Parejo,Gabriel,1

@@ -1,0 +1,48 @@
+Source,Target,Weight
+A. Ferrari,R\u00f4mulo,5
+R\u00f4mulo,A. Ferrari,4
+R\u00f4mulo,A. Cerci,3
+B. Zuculini,A. Ferrari,3
+A. Cerci,A. Ferrari,2
+Nicolas,R\u00f4mulo,2
+R\u00f4mulo,Nicolas,2
+M. Valoti,R\u00f4mulo,2
+Nicolas,M. Valoti,2
+A. Caracciolo,Nicolas,2
+T. Heurtaux,M. C\u00e1ceres,2
+R\u00f4mulo,T. Heurtaux,2
+A. Ferrari,A. Cerci,2
+A. Ferrari,B. Zuculini,2
+Nicolas,T. Heurtaux,2
+M. Valoti,B. Zuculini,2
+A. Cerci,R\u00f4mulo,2
+M. B\u00fcchel,M. Valoti,1
+A. Cerci,M. C\u00e1ceres,1
+D. Verde,A. Caracciolo,1
+R\u00f4mulo,M. Valoti,1
+M. C\u00e1ceres,R\u00f4mulo,1
+A. Cerci,T. Heurtaux,1
+B. Zuculini,A. Cerci,1
+M. Valoti,D. Verde,1
+M. B\u00fcchel,D. Verde,1
+T. Heurtaux,A. Ferrari,1
+M. Valoti,A. Ferrari,1
+A. Caracciolo,T. Heurtaux,1
+D. Verde,M. C\u00e1ceres,1
+A. Ferrari,T. Heurtaux,1
+A. Ferrari,M. B\u00fcchel,1
+T. Heurtaux,R\u00f4mulo,1
+B. Zuculini,R\u00f4mulo,1
+M. C\u00e1ceres,D. Verde,1
+A. Caracciolo,M. B\u00fcchel,1
+T. Heurtaux,Nicolas,1
+T. Heurtaux,B. Zuculini,1
+T. Heurtaux,A. Caracciolo,1
+D. Verde,A. Ferrari,1
+M. C\u00e1ceres,Nicolas,1
+T. Heurtaux,M. Valoti,1
+M. C\u00e1ceres,A. Caracciolo,1
+R\u00f4mulo,B. Zuculini,1
+B. Zuculini,T. Heurtaux,1
+A. Ferrari,M. Valoti,1
+R\u00f4mulo,A. Caracciolo,1

@@ -1,0 +1,24 @@
+Source,Target,Weight
+Bruno Peres,S. El Shaarawy,2
+Alisson,H. Moreno,2
+S. El Shaarawy,Bruno Peres,2
+D. De Rossi,R. Nainggolan,1
+F. Fazio,K. Strootman,1
+F. Fazio,D. Perotti,1
+K. Manolas,H. Moreno,1
+K. Strootman,F. Fazio,1
+H. Moreno,D. Perotti,1
+K. Manolas,S. El Shaarawy,1
+R. Nainggolan,K. Strootman,1
+H. Moreno,Alisson,1
+K. Strootman,R. Nainggolan,1
+R. Nainggolan,D. De Rossi,1
+D. Perotti,K. Strootman,1
+H. Moreno,Bruno Peres,1
+K. Strootman,H. Moreno,1
+Bruno Peres,D. De Rossi,1
+F. Fazio,Alisson,1
+H. Moreno,F. Fazio,1
+D. Perotti,F. Fazio,1
+D. De Rossi,K. Manolas,1
+F. Fazio,K. Manolas,1

@@ -1,0 +1,52 @@
+Source,Target,Weight
+M. Valoti,M. Kean,4
+Nicolas,B. Petkovi\u0107,4
+M. Kean,M. Fares,3
+M. Kean,M. Valoti,3
+Nicolas,M. Fares,3
+J. Vukovi\u0107,Nicolas,3
+R\u00f4mulo,R. Aarons,3
+M. Fares,J. Vukovi\u0107,3
+M. Fares,B. Petkovi\u0107,3
+M. B\u00fcchel,R\u00f4mulo,2
+A. Caracciolo,M. B\u00fcchel,2
+A. Caracciolo,R\u00f4mulo,2
+R. Aarons,R\u00f4mulo,2
+B. Petkovi\u0107,M. B\u00fcchel,2
+M. B\u00fcchel,A. Caracciolo,2
+M. Valoti,R\u00f4mulo,2
+M. B\u00fcchel,Nicolas,2
+M. B\u00fcchel,M. Fares,2
+J. Vukovi\u0107,M. B\u00fcchel,2
+R\u00f4mulo,A. Caracciolo,2
+M. Fares,Nicolas,2
+M. Valoti,A. Caracciolo,2
+M. Fares,M. Valoti,2
+B. Petkovi\u0107,M. Valoti,2
+A. Caracciolo,J. Vukovi\u0107,1
+B. Petkovi\u0107,R\u00f4mulo,1
+M. Valoti,M. Fares,1
+A. Caracciolo,Nicolas,1
+R\u00f4mulo,M. B\u00fcchel,1
+R\u00f4mulo,M. Valoti,1
+B. Petkovi\u0107,R. Aarons,1
+R\u00f4mulo,Ryder Matos,1
+Nicolas,M. Valoti,1
+B. Petkovi\u0107,M. Kean,1
+R. Aarons,Ryder Matos,1
+B. Petkovi\u0107,J. Vukovi\u0107,1
+R. Aarons,Nicolas,1
+M. B\u00fcchel,B. Petkovi\u0107,1
+R\u00f4mulo,Nicolas,1
+M. Valoti,B. Petkovi\u0107,1
+M. Fares,M. B\u00fcchel,1
+Nicolas,R. Aarons,1
+R\u00f4mulo,M. Kean,1
+R. Aarons,M. B\u00fcchel,1
+Nicolas,M. B\u00fcchel,1
+M. B\u00fcchel,J. Vukovi\u0107,1
+Ryder Matos,R\u00f4mulo,1
+B. Petkovi\u0107,M. Fares,1
+Ryder Matos,M. Kean,1
+J. Vukovi\u0107,M. Valoti,1
+M. Kean,B. Petkovi\u0107,1

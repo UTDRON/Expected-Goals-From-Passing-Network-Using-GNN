@@ -1,0 +1,45 @@
+Source,Target,Weight
+F. Ricci,A. Stoian,6
+B. Martella,R. Mandragora,4
+M. Sampirisi,B. Martella,3
+D. Faraoni,F. Ricci,3
+D. Faraoni,F. Ceccherini,3
+F. Ceccherini,M. Sampirisi,3
+A. Ajeti,D. Faraoni,3
+A. Stoian,D. Faraoni,3
+R. Mandragora,M. Sampirisi,3
+M. Sampirisi,F. Ceccherini,3
+R. Mandragora,B. Martella,2
+A. Stoian,A. Ajeti,2
+M. Sampirisi,A. Ajeti,2
+M. Trotta,B. Martella,2
+M. Sampirisi,R. Mandragora,2
+F. Ceccherini,A. Stoian,2
+A. Stoian,F. Ricci,2
+B. Martella,M. Trotta,2
+M. Trotta,D. Faraoni,2
+M. Sampirisi,M. Trotta,1
+A. Ajeti,Simy,1
+A. Ajeti,M. Sampirisi,1
+A. Cordaz,M. Sampirisi,1
+D. Faraoni,Simy,1
+D. Faraoni,M. Sampirisi,1
+Simy,F. Ricci,1
+A. Stoian,M. Trotta,1
+Simy,R. Mandragora,1
+A. Ajeti,R. Mandragora,1
+D. Faraoni,A. Cordaz,1
+A. Stoian,M. Sampirisi,1
+B. Martella,M. Sampirisi,1
+A. Cordaz,A. Stoian,1
+R. Mandragora,F. Ricci,1
+A. Stoian,A. Cordaz,1
+Simy,D. Faraoni,1
+D. Faraoni,A. Stoian,1
+F. Ceccherini,D. Faraoni,1
+M. Trotta,A. Ajeti,1
+B. Martella,Simy,1
+F. Ricci,D. Faraoni,1
+D. Faraoni,B. Martella,1
+R. Mandragora,M. Trotta,1
+R. Mandragora,D. Faraoni,1

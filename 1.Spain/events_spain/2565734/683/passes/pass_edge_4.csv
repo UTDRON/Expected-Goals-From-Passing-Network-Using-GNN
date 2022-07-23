@@ -1,0 +1,62 @@
+Source,Target,Weight
+Chory Castro,F. Ricca,6
+F. Ricca,Chory Castro,6
+Keko,R. Rosales,5
+Recio,Chory Castro,5
+F. Ricca,Recio,4
+R. Rosales,Recio,4
+F. Ricca,Miquel,4
+Y. En-Nesyri,M. Iturra,4
+M. Iturra,Keko,3
+Miquel,Adri\u00e1n,3
+Adri\u00e1n,F. Ricca,3
+Recio,Luis Hern\u00e1ndez,3
+Chory Castro,M. Iturra,3
+Recio,M. Iturra,3
+Miquel,Y. En-Nesyri,3
+M. Iturra,Luis Hern\u00e1ndez,3
+Y. En-Nesyri,F. Ricca,3
+M. Iturra,Adri\u00e1n,3
+Adri\u00e1n,Chory Castro,3
+Adri\u00e1n,Miquel,3
+Adri\u00e1n,M. Iturra,2
+F. Ricca,Y. En-Nesyri,2
+Luis Hern\u00e1ndez,Keko,2
+Recio,Keko,2
+Keko,Y. En-Nesyri,2
+Miquel,F. Ricca,2
+R. Rosales,Adri\u00e1n,2
+Recio,F. Ricca,2
+Chory Castro,Adri\u00e1n,2
+R. Rosales,Keko,2
+M. Iturra,Recio,2
+Luis Hern\u00e1ndez,R. Rosales,2
+Adri\u00e1n,Recio,2
+R. Rosales,Y. En-Nesyri,2
+Chory Castro,Recio,2
+Adri\u00e1n,R. Rosales,2
+Keko,Roberto,1
+M. Iturra,Miquel,1
+Miquel,Chory Castro,1
+Keko,Adri\u00e1n,1
+Luis Hern\u00e1ndez,Chory Castro,1
+F. Ricca,Adri\u00e1n,1
+M. Iturra,F. Ricca,1
+M. Iturra,R. Rosales,1
+Miquel,M. Iturra,1
+Luis Hern\u00e1ndez,Adri\u00e1n,1
+Roberto,Y. En-Nesyri,1
+Recio,Miquel,1
+Miquel,Keko,1
+Y. En-Nesyri,Recio,1
+Y. En-Nesyri,Keko,1
+Chory Castro,Y. En-Nesyri,1
+Y. En-Nesyri,Adri\u00e1n,1
+Roberto,Miquel,1
+Keko,M. Iturra,1
+Y. En-Nesyri,Luis Hern\u00e1ndez,1
+Luis Hern\u00e1ndez,Roberto,1
+Chory Castro,Miquel,1
+Roberto,F. Ricca,1
+Chory Castro,Roberto,1
+Keko,Recio,1

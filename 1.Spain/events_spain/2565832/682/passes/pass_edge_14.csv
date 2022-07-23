@@ -1,0 +1,20 @@
+Source,Target,Weight
+E. \u00dcnal,Mario,2
+Mario,Trigueros,2
+Rodri,Samu Castillejo,2
+D. Bonera,E. \u00dcnal,1
+C. Bacca,Rodri,1
+Trigueros,C. Bacca,1
+N. Sansone,Trigueros,1
+\u00c1lvaro Gonz\u00e1lez,D. Bonera,1
+C. Bacca,Mario,1
+Samu Castillejo,E. \u00dcnal,1
+Mario,C. Bacca,1
+Samu Castillejo,\u00c1lvaro Gonz\u00e1lez,1
+\u00c1lvaro Gonz\u00e1lez,E. \u00dcnal,1
+Trigueros,N. Sansone,1
+E. \u00dcnal,N. Sansone,1
+Mario,Sergio Asenjo,1
+Trigueros,Rodri,1
+N. Sansone,C. Bacca,1
+Sergio Asenjo,\u00c1lvaro Gonz\u00e1lez,1

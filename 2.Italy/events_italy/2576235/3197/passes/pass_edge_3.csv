@@ -1,0 +1,18 @@
+Source,Target,Weight
+A. Nalini,F. Ceccherini,1
+A. Benali,B. Martella,1
+F. Ceccherini,A. Stoian,1
+D. Faraoni,F. Ceccherini,1
+B. Martella,F. Ceccherini,1
+B. Martella,A. Nalini,1
+F. Ceccherini,D. Faraoni,1
+B. Martella,A. Cordaz,1
+A. Nalini,F. Ricci,1
+A. Stoian,F. Ricci,1
+A. Cordaz,A. Nalini,1
+F. Ricci,D. Faraoni,1
+R. Mandragora,B. Martella,1
+B. Martella,R. Mandragora,1
+D. Faraoni,A. Cordaz,1
+F. Ceccherini,A. Benali,1
+A. Cordaz,B. Martella,1

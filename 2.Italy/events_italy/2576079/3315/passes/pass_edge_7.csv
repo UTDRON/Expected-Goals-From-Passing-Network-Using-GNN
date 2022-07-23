@@ -1,0 +1,27 @@
+Source,Target,Weight
+M. Gazzola,M. Politano,4
+M. Politano,M. Gazzola,2
+F. Magnanelli,F. Acerbi,2
+F. Acerbi,F. Magnanelli,2
+M. Politano,A. Ragusa,2
+D. Biondini,P. Cannavaro,1
+D. Biondini,A. Matri,1
+M. Politano,D. Biondini,1
+D. Biondini,M. Politano,1
+F. Magnanelli,M. Politano,1
+A. Ragusa,M. Politano,1
+F. Acerbi,A. Matri,1
+F. Magnanelli,M. Gazzola,1
+F. Peluso,F. Magnanelli,1
+M. Gazzola,S. Missiroli,1
+A. Matri,D. Biondini,1
+D. Biondini,S. Missiroli,1
+P. Cannavaro,M. Gazzola,1
+M. Politano,F. Peluso,1
+M. Politano,F. Magnanelli,1
+A. Ragusa,F. Magnanelli,1
+S. Missiroli,M. Politano,1
+A. Matri,M. Politano,1
+S. Missiroli,M. Gazzola,1
+M. Politano,F. Acerbi,1
+F. Magnanelli,D. Biondini,1

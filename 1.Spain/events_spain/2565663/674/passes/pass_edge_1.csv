@@ -1,0 +1,38 @@
+Source,Target,Weight
+Gabriel,J. Murillo,6
+Montoya,Gabriel,5
+Andreas Pereira,Montoya,4
+Toni Lato,Jos\u00e9 Gay\u00e1,3
+Toni Lato,J. Murillo,3
+J. Murillo,Toni Lato,3
+G. Kondogbia,Dani Parejo,2
+Montoya,Andreas Pereira,2
+J. Murillo,G. Kondogbia,2
+J. Murillo,Montoya,2
+J. Murillo,Neto,2
+Dani Parejo,Toni Lato,2
+Toni Lato,G. Kondogbia,2
+Rodrigo,Andreas Pereira,1
+Dani Parejo,Gabriel,1
+Andreas Pereira,Dani Parejo,1
+Neto,Rodrigo,1
+G. Kondogbia,Andreas Pereira,1
+Gabriel,G. Kondogbia,1
+G. Kondogbia,Toni Lato,1
+Jos\u00e9 Gay\u00e1,Gabriel,1
+G. Kondogbia,J. Murillo,1
+Gabriel,Montoya,1
+Gabriel,Neto,1
+Neto,Andreas Pereira,1
+Santi Mina,Toni Lato,1
+Rodrigo,G. Kondogbia,1
+G. Kondogbia,Gabriel,1
+Montoya,Dani Parejo,1
+Neto,Santi Mina,1
+Dani Parejo,Rodrigo,1
+Santi Mina,J. Murillo,1
+Dani Parejo,Santi Mina,1
+Jos\u00e9 Gay\u00e1,Toni Lato,1
+Jos\u00e9 Gay\u00e1,Dani Parejo,1
+G. Kondogbia,Montoya,1
+J. Murillo,Gabriel,1

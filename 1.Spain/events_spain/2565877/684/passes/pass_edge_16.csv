@@ -1,0 +1,86 @@
+Source,Target,Weight
+A. Guardado,Bartra,6
+Jordi Amat,Bartra,6
+A. Mandi,Bartra,5
+Bartra,Jordi Amat,5
+Bartra,A. Mandi,5
+A. Guardado,A. Mandi,4
+J. Firpo,Jordi Amat,4
+A. Mandi,A. Guardado,4
+Fabi\u00e1n,R. Boudebouz,4
+Cristian Tello,A. Guardado,3
+Bartra,A. Guardado,3
+Barrag\u00e1n,J. Campbell,3
+Barrag\u00e1n,Fabi\u00e1n,3
+J. Campbell,Barrag\u00e1n,3
+Barrag\u00e1n,A. Mandi,3
+A. Mandi,Barrag\u00e1n,3
+A. Guardado,Barrag\u00e1n,3
+J. Campbell,A. Guardado,3
+Barrag\u00e1n,J. Firpo,3
+Dani Gim\u00e9nez,A. Mandi,2
+R. Boudebouz,Fabi\u00e1n,2
+A. Guardado,J. Firpo,2
+J. Firpo,Fabi\u00e1n,2
+Bartra,Fabi\u00e1n,2
+J. Campbell,Jordi Amat,2
+A. Mandi,Fabi\u00e1n,2
+Jordi Amat,Cristian Tello,2
+R. Boudebouz,J. Firpo,2
+R. Boudebouz,A. Guardado,2
+A. Mandi,J. Campbell,2
+A. Guardado,Jordi Amat,2
+Barrag\u00e1n,A. Guardado,2
+A. Sanabria,A. Mandi,2
+R. Boudebouz,A. Sanabria,2
+Fabi\u00e1n,A. Guardado,2
+Fabi\u00e1n,Barrag\u00e1n,2
+Jordi Amat,A. Guardado,2
+Cristian Tello,Barrag\u00e1n,2
+A. Guardado,J. Campbell,2
+Barrag\u00e1n,Bartra,1
+A. Mandi,R. Boudebouz,1
+Bartra,Dani Gim\u00e9nez,1
+A. Mandi,A. Sanabria,1
+R. Boudebouz,Cristian Tello,1
+Dani Gim\u00e9nez,J. Campbell,1
+A. Sanabria,Cristian Tello,1
+Fabi\u00e1n,Dani Gim\u00e9nez,1
+A. Guardado,Dani Gim\u00e9nez,1
+Jordi Amat,R. Boudebouz,1
+J. Campbell,A. Mandi,1
+A. Guardado,R. Boudebouz,1
+Jordi Amat,J. Campbell,1
+Jordi Amat,Dani Gim\u00e9nez,1
+Bartra,Barrag\u00e1n,1
+A. Mandi,Jordi Amat,1
+A. Sanabria,Jordi Amat,1
+Fabi\u00e1n,A. Sanabria,1
+Dani Gim\u00e9nez,Bartra,1
+Cristian Tello,R. Boudebouz,1
+Fabi\u00e1n,Jordi Amat,1
+R. Boudebouz,Barrag\u00e1n,1
+J. Firpo,Dani Gim\u00e9nez,1
+Jordi Amat,J. Firpo,1
+Cristian Tello,J. Firpo,1
+Cristian Tello,Fabi\u00e1n,1
+Bartra,Cristian Tello,1
+A. Sanabria,A. Guardado,1
+A. Guardado,A. Sanabria,1
+Dani Gim\u00e9nez,A. Guardado,1
+A. Guardado,Fabi\u00e1n,1
+J. Firpo,A. Guardado,1
+R. Boudebouz,A. Mandi,1
+A. Sanabria,R. Boudebouz,1
+Bartra,J. Campbell,1
+R. Boudebouz,Bartra,1
+Fabi\u00e1n,J. Firpo,1
+Jordi Amat,A. Mandi,1
+J. Firpo,R. Boudebouz,1
+A. Guardado,Cristian Tello,1
+Jordi Amat,A. Sanabria,1
+Cristian Tello,A. Mandi,1
+Bartra,R. Boudebouz,1
+J. Campbell,Cristian Tello,1
+Fabi\u00e1n,Cristian Tello,1
+A. Mandi,Cristian Tello,1

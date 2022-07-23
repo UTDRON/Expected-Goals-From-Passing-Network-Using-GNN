@@ -1,0 +1,68 @@
+Source,Target,Weight
+Zald\u00faa,N. El Zhar,6
+N. Amrabat,Diego Rico,6
+Diego Rico,M. Mantovani,5
+Rub\u00e9n P\u00e9rez,Zald\u00faa,5
+Zald\u00faa,Rub\u00e9n P\u00e9rez,4
+N. El Zhar,Zald\u00faa,4
+Gumbau,Diego Rico,4
+M. Mantovani,Gumbau,3
+Diego Rico,Zald\u00faa,3
+Zald\u00faa,Cu\u00e9llar,3
+Diego Rico,N. Amrabat,3
+E. Mu\u00f1oz,Rub\u00e9n P\u00e9rez,3
+M. Mantovani,Diego Rico,3
+E. Mu\u00f1oz,Zald\u00faa,3
+Rub\u00e9n P\u00e9rez,E. Mu\u00f1oz,3
+Rub\u00e9n P\u00e9rez,N. Amrabat,3
+Cu\u00e9llar,N. Amrabat,3
+E. Mu\u00f1oz,N. El Zhar,3
+Rub\u00e9n P\u00e9rez,M. Mantovani,2
+N. Amrabat,M. Mantovani,2
+Rub\u00e9n P\u00e9rez,Cu\u00e9llar,2
+C. Beauvue,E. Mu\u00f1oz,2
+Eraso,Rub\u00e9n P\u00e9rez,2
+C. Beauvue,M. Mantovani,2
+Zald\u00faa,Gumbau,2
+Diego Rico,Rub\u00e9n P\u00e9rez,2
+Eraso,E. Mu\u00f1oz,2
+Diego Rico,C. Beauvue,2
+N. El Zhar,Eraso,2
+N. El Zhar,Rub\u00e9n P\u00e9rez,2
+Gumbau,N. Amrabat,1
+C. Beauvue,Diego Rico,1
+M. Mantovani,Eraso,1
+M. Mantovani,Zald\u00faa,1
+Gumbau,Zald\u00faa,1
+M. Mantovani,C. Beauvue,1
+M. Mantovani,Rub\u00e9n P\u00e9rez,1
+M. Mantovani,N. Amrabat,1
+Zald\u00faa,Eraso,1
+E. Mu\u00f1oz,Gumbau,1
+Gumbau,M. Mantovani,1
+Eraso,Gumbau,1
+E. Mu\u00f1oz,Diego Rico,1
+Zald\u00faa,M. Mantovani,1
+N. El Zhar,Diego Rico,1
+N. Amrabat,Zald\u00faa,1
+Rub\u00e9n P\u00e9rez,Diego Rico,1
+Rub\u00e9n P\u00e9rez,Gumbau,1
+Rub\u00e9n P\u00e9rez,Eraso,1
+E. Mu\u00f1oz,N. Amrabat,1
+Cu\u00e9llar,C. Beauvue,1
+Zald\u00faa,C. Beauvue,1
+Eraso,N. El Zhar,1
+Gumbau,Rub\u00e9n P\u00e9rez,1
+Diego Rico,E. Mu\u00f1oz,1
+C. Beauvue,Zald\u00faa,1
+N. El Zhar,E. Mu\u00f1oz,1
+Gumbau,E. Mu\u00f1oz,1
+Zald\u00faa,E. Mu\u00f1oz,1
+N. Amrabat,Rub\u00e9n P\u00e9rez,1
+N. Amrabat,Eraso,1
+Gumbau,C. Beauvue,1
+Cu\u00e9llar,Rub\u00e9n P\u00e9rez,1
+N. El Zhar,Gumbau,1
+Diego Rico,N. El Zhar,1
+M. Mantovani,E. Mu\u00f1oz,1
+N. Amrabat,Gumbau,1

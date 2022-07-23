@@ -1,0 +1,52 @@
+Source,Target,Weight
+David Soria,Sergio Escudero,3
+W. Ben Yedder,M. Krohn-Dehli,2
+G. Pizarro,David Soria,2
+W. Ben Yedder,G. Pizarro,2
+M. Krohn-Dehli,C. Lenglet,2
+C. Lenglet,G. Pizarro,2
+C. Lenglet,Sergio Escudero,2
+Sergio Escudero,Nolito,2
+Pablo Sarabia,W. Ben Yedder,2
+Nolito,David Soria,2
+M. Krohn-Dehli,J. Geis,2
+Pablo Sarabia,\u00c9. Banega,1
+Nolito,M. Krohn-Dehli,1
+G. Mercado,W. Ben Yedder,1
+David Soria,M. Krohn-Dehli,1
+Sergio Escudero,Pablo Sarabia,1
+David Soria,Pablo Sarabia,1
+G. Mercado,J. Geis,1
+G. Pizarro,W. Ben Yedder,1
+David Soria,Nolito,1
+J. Geis,David Soria,1
+J. Geis,Pablo Sarabia,1
+G. Mercado,Pablo Sarabia,1
+G. Mercado,C. Lenglet,1
+Sergio Escudero,C. Lenglet,1
+J. Geis,Sergio Escudero,1
+J. Correa,Jes\u00fas Navas,1
+Sergio Escudero,Jes\u00fas Navas,1
+\u00c9. Banega,Pablo Sarabia,1
+Nolito,C. Lenglet,1
+Pablo Sarabia,G. Mercado,1
+W. Ben Yedder,Pablo Sarabia,1
+W. Ben Yedder,G. Mercado,1
+\u00c9. Banega,G. Mercado,1
+Sergio Escudero,G. Mercado,1
+G. Pizarro,J. Geis,1
+Jes\u00fas Navas,David Soria,1
+Sergio Escudero,W. Ben Yedder,1
+J. Geis,G. Pizarro,1
+M. Krohn-Dehli,Pablo Sarabia,1
+M. Krohn-Dehli,\u00c9. Banega,1
+M. Krohn-Dehli,Sergio Escudero,1
+G. Pizarro,M. Krohn-Dehli,1
+Jes\u00fas Navas,W. Ben Yedder,1
+Pablo Sarabia,G. Pizarro,1
+C. Lenglet,W. Ben Yedder,1
+G. Pizarro,Sergio Escudero,1
+Sergio Escudero,M. Krohn-Dehli,1
+W. Ben Yedder,Nolito,1
+Pablo Sarabia,J. Correa,1
+J. Geis,M. Krohn-Dehli,1

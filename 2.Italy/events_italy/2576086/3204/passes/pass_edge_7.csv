@@ -1,0 +1,67 @@
+Source,Target,Weight
+A. Gomis,S. Floccari,5
+S. Floccari,F. Mattiello,4
+M. Oikonomou,Felipe,4
+A. Paloschi,S. Floccari,3
+Felipe,A. Gomis,3
+F. Viviani,M. Lazzari,2
+F. Viviani,A. Gomis,2
+F. Mattiello,A. Grassi,2
+S. Floccari,F. Viviani,2
+F. Viviani,F. Mattiello,2
+S. Floccari,Felipe,2
+A. Grassi,A. Paloschi,2
+P. Schiattarella,F. Viviani,2
+M. Oikonomou,F. Mattiello,2
+M. Lazzari,M. Oikonomou,2
+F. Vicari,F. Viviani,2
+S. Floccari,F. Vicari,2
+P. Schiattarella,F. Mattiello,2
+A. Gomis,F. Viviani,1
+S. Floccari,E. Schiavon,1
+Felipe,S. Floccari,1
+E. Schiavon,M. Oikonomou,1
+Felipe,P. Schiattarella,1
+F. Mattiello,M. Oikonomou,1
+F. Mattiello,M. Lazzari,1
+F. Viviani,F. Vicari,1
+A. Paloschi,Felipe,1
+A. Grassi,A. Gomis,1
+A. Grassi,F. Mattiello,1
+S. Floccari,P. Schiattarella,1
+F. Viviani,A. Paloschi,1
+A. Paloschi,P. Schiattarella,1
+F. Vicari,M. Oikonomou,1
+A. Gomis,P. Schiattarella,1
+A. Grassi,Felipe,1
+Felipe,F. Viviani,1
+M. Oikonomou,F. Viviani,1
+P. Schiattarella,F. Vicari,1
+A. Gomis,A. Paloschi,1
+A. Paloschi,F. Viviani,1
+Felipe,M. Oikonomou,1
+P. Schiattarella,A. Grassi,1
+S. Floccari,A. Paloschi,1
+E. Schiavon,F. Vicari,1
+A. Paloschi,M. Lazzari,1
+F. Mattiello,E. Schiavon,1
+M. Lazzari,P. Schiattarella,1
+A. Paloschi,M. Oikonomou,1
+F. Mattiello,A. Gomis,1
+M. Oikonomou,S. Floccari,1
+F. Viviani,P. Schiattarella,1
+P. Schiattarella,S. Floccari,1
+M. Lazzari,A. Paloschi,1
+F. Vicari,S. Floccari,1
+F. Mattiello,A. Paloschi,1
+M. Lazzari,Felipe,1
+F. Vicari,A. Grassi,1
+F. Mattiello,P. Schiattarella,1
+F. Mattiello,S. Floccari,1
+Felipe,A. Paloschi,1
+S. Floccari,A. Grassi,1
+F. Vicari,A. Gomis,1
+F. Viviani,M. Oikonomou,1
+F. Viviani,S. Floccari,1
+Felipe,M. Lazzari,1
+F. Mattiello,F. Viviani,1

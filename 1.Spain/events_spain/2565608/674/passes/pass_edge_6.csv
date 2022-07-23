@@ -1,0 +1,55 @@
+Source,Target,Weight
+E. Garay,S. Zaza,3
+Neto,S. Zaza,3
+Montoya,Gon\u00e7alo Guedes,3
+Andreas Pereira,Gon\u00e7alo Guedes,3
+Gabriel,Montoya,2
+Montoya,E. Garay,2
+Rodrigo,Andreas Pereira,2
+Gon\u00e7alo Guedes,Gabriel,2
+Jos\u00e9 Gay\u00e1,Carlos Soler,2
+Gon\u00e7alo Guedes,Dani Parejo,2
+S. Zaza,Jos\u00e9 Gay\u00e1,2
+Dani Parejo,Jos\u00e9 Gay\u00e1,2
+Dani Parejo,Carlos Soler,2
+S. Zaza,Montoya,2
+Andreas Pereira,Dani Parejo,2
+Gon\u00e7alo Guedes,Montoya,2
+Montoya,S. Zaza,2
+E. Garay,Neto,2
+S. Zaza,Rodrigo,2
+Gon\u00e7alo Guedes,Andreas Pereira,2
+Gabriel,Dani Parejo,2
+Montoya,Rodrigo,2
+S. Zaza,Andreas Pereira,1
+Carlos Soler,Andreas Pereira,1
+Andreas Pereira,Montoya,1
+Jos\u00e9 Gay\u00e1,Andreas Pereira,1
+Dani Parejo,Gon\u00e7alo Guedes,1
+Neto,Andreas Pereira,1
+Carlos Soler,Neto,1
+Carlos Soler,S. Zaza,1
+Rodrigo,E. Garay,1
+Rodrigo,Gabriel,1
+Carlos Soler,Montoya,1
+Dani Parejo,Neto,1
+Jos\u00e9 Gay\u00e1,Gabriel,1
+Jos\u00e9 Gay\u00e1,S. Zaza,1
+Andreas Pereira,Jos\u00e9 Gay\u00e1,1
+Rodrigo,Gon\u00e7alo Guedes,1
+E. Garay,Montoya,1
+S. Zaza,E. Garay,1
+Dani Parejo,Montoya,1
+Gon\u00e7alo Guedes,Carlos Soler,1
+Montoya,Dani Parejo,1
+Neto,Rodrigo,1
+S. Zaza,Gon\u00e7alo Guedes,1
+Jos\u00e9 Gay\u00e1,Neto,1
+S. Zaza,Dani Parejo,1
+Gabriel,E. Garay,1
+Carlos Soler,Jos\u00e9 Gay\u00e1,1
+Carlos Soler,Gabriel,1
+Gabriel,Neto,1
+Dani Parejo,Gabriel,1
+Dani Parejo,E. Garay,1
+Neto,Dani Parejo,1

@@ -1,0 +1,51 @@
+Source,Target,Weight
+F. Helander,S. De Maio,5
+E. Krafth,F. Helander,4
+E. Krafth,S. De Maio,4
+A. Mirante,A. Masina,3
+E. Pulgar,S. De Maio,3
+G. Donsah,F. Helander,3
+S. De Maio,A. Masina,2
+S. De Maio,E. Pulgar,2
+E. Pulgar,A. Poli,2
+A. Masina,G. Donsah,2
+M. Destro,E. Krafth,2
+A. Poli,A. Mirante,2
+A. Masina,E. Krafth,2
+A. Masina,A. Mirante,2
+F. Helander,E. Pulgar,2
+F. Helander,M. Destro,2
+S. De Maio,E. Krafth,2
+S. De Maio,A. Poli,2
+S. De Maio,G. Donsah,2
+S. De Maio,A. Mirante,2
+A. Poli,S. Verdi,1
+G. Gonz\u00e1lez,M. Destro,1
+A. Mirante,E. Krafth,1
+A. Poli,F. Helander,1
+M. Destro,F. Helander,1
+E. Pulgar,F. Helander,1
+F. Helander,E. Krafth,1
+S. De Maio,M. Destro,1
+G. Donsah,G. Gonz\u00e1lez,1
+M. Destro,S. Verdi,1
+E. Pulgar,A. Mirante,1
+G. Gonz\u00e1lez,A. Masina,1
+S. Verdi,M. Destro,1
+A. Poli,M. Destro,1
+A. Poli,E. Krafth,1
+F. Helander,A. Masina,1
+A. Masina,A. Poli,1
+A. Mirante,F. Helander,1
+G. Gonz\u00e1lez,F. Helander,1
+E. Krafth,A. Poli,1
+F. Helander,A. Poli,1
+E. Krafth,G. Donsah,1
+A. Poli,E. Pulgar,1
+M. Destro,G. Donsah,1
+G. Donsah,E. Pulgar,1
+S. Verdi,E. Krafth,1
+G. Donsah,M. Destro,1
+A. Mirante,S. De Maio,1
+A. Mirante,G. Gonz\u00e1lez,1
+M. Destro,E. Pulgar,1

@@ -1,0 +1,24 @@
+Source,Target,Weight
+D. Laxalt,A. Bertolacci,3
+A. Izzo,A. Rosi,2
+A. Taarabt,A. Izzo,2
+N. Spolli,A. Izzo,2
+A. Bertolacci,D. Laxalt,2
+A. Rosi,N. Spolli,1
+A. Izzo,L. Rigoni,1
+M. Perin,D. Laxalt,1
+D. Laxalt,G. Lapadula,1
+E. Zukanovi\u0107,M. Perin,1
+Miguel Veloso,M. Perin,1
+A. Izzo,E. Zukanovi\u0107,1
+G. Lapadula,D. Laxalt,1
+L. Rigoni,A. Taarabt,1
+A. Rosi,A. Izzo,1
+M. Perin,G. Lapadula,1
+A. Bertolacci,A. Taarabt,1
+A. Izzo,N. Spolli,1
+G. Lapadula,N. Spolli,1
+A. Taarabt,Miguel Veloso,1
+D. Laxalt,A. Rosi,1
+N. Spolli,D. Laxalt,1
+A. Rosi,Miguel Veloso,1

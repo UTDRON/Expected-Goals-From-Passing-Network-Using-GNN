@@ -1,0 +1,55 @@
+Source,Target,Weight
+Gabriel,N. Maksimovi\u0107,4
+Jos\u00e9 Gay\u00e1,J. Murillo,4
+J. Murillo,Gabriel,3
+N. Maksimovi\u0107,Jos\u00e9 Gay\u00e1,3
+L. Vietto,Carlos Soler,3
+N. Maksimovi\u0107,Montoya,3
+Montoya,Gabriel,3
+Carlos Soler,Montoya,3
+Jos\u00e9 Gay\u00e1,Gon\u00e7alo Guedes,2
+N. Maksimovi\u0107,G. Kondogbia,2
+Montoya,Carlos Soler,2
+J. Murillo,Jos\u00e9 Gay\u00e1,2
+Montoya,L. Vietto,2
+Carlos Soler,N. Maksimovi\u0107,2
+Carlos Soler,G. Kondogbia,2
+Carlos Soler,Jos\u00e9 Gay\u00e1,2
+G. Kondogbia,Jos\u00e9 Gay\u00e1,2
+G. Kondogbia,Carlos Soler,2
+Jos\u00e9 Gay\u00e1,G. Kondogbia,2
+Gabriel,G. Kondogbia,2
+G. Kondogbia,Montoya,1
+G. Kondogbia,N. Maksimovi\u0107,1
+Gabriel,Montoya,1
+Carlos Soler,S. Zaza,1
+Montoya,Neto,1
+G. Kondogbia,S. Zaza,1
+Jos\u00e9 Gay\u00e1,N. Maksimovi\u0107,1
+Gon\u00e7alo Guedes,Carlos Soler,1
+G. Kondogbia,Gabriel,1
+Gon\u00e7alo Guedes,Montoya,1
+J. Murillo,N. Maksimovi\u0107,1
+J. Murillo,G. Kondogbia,1
+S. Zaza,Jos\u00e9 Gay\u00e1,1
+L. Vietto,Gon\u00e7alo Guedes,1
+Montoya,S. Zaza,1
+S. Zaza,L. Vietto,1
+N. Maksimovi\u0107,Carlos Soler,1
+J. Murillo,Montoya,1
+N. Maksimovi\u0107,S. Zaza,1
+N. Maksimovi\u0107,J. Murillo,1
+Gon\u00e7alo Guedes,L. Vietto,1
+Montoya,N. Maksimovi\u0107,1
+S. Zaza,J. Murillo,1
+G. Kondogbia,Gon\u00e7alo Guedes,1
+L. Vietto,N. Maksimovi\u0107,1
+Montoya,G. Kondogbia,1
+Gon\u00e7alo Guedes,S. Zaza,1
+Jos\u00e9 Gay\u00e1,Carlos Soler,1
+S. Zaza,Montoya,1
+Gabriel,J. Murillo,1
+Carlos Soler,L. Vietto,1
+S. Zaza,Gabriel,1
+Neto,S. Zaza,1
+G. Kondogbia,J. Murillo,1

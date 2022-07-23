@@ -1,0 +1,30 @@
+Source,Target,Weight
+F. Kessi\u00e9,D. Calabria,2
+Andr\u00e9 Silva,P. Cutrone,2
+Suso,F. Borini,2
+R. Montolivo,F. Kessi\u00e9,2
+D. Calabria,Suso,2
+Suso,R. Montolivo,2
+R. Montolivo,Suso,2
+P. Cutrone,R. Montolivo,2
+F. Kessi\u00e9,R. Montolivo,2
+P. Cutrone,R. Rodr\u00edguez,2
+Suso,D. Calabria,1
+R. Rodr\u00edguez,G. Donnarumma,1
+R. Montolivo,D. Calabria,1
+G. Donnarumma,R. Rodr\u00edguez,1
+Andr\u00e9 Silva,Suso,1
+D. Calabria,M. Musacchio,1
+G. Donnarumma,Andr\u00e9 Silva,1
+R. Rodr\u00edguez,R. Montolivo,1
+D. Calabria,F. Kessi\u00e9,1
+F. Kessi\u00e9,Suso,1
+F. Borini,P. Cutrone,1
+Suso,F. Kessi\u00e9,1
+M. Musacchio,F. Kessi\u00e9,1
+R. Montolivo,G. Bonaventura,1
+R. Montolivo,P. Cutrone,1
+F. Borini,Suso,1
+G. Bonaventura,P. Cutrone,1
+Suso,Andr\u00e9 Silva,1
+R. Rodr\u00edguez,Andr\u00e9 Silva,1

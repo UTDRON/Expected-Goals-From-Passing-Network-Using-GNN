@@ -1,0 +1,46 @@
+Source,Target,Weight
+Portu,Ramalho,5
+\u00c1lex Granell,Bernardo Espinosa,4
+Ramalho,Portu,4
+Juanpe,\u00c1lex Granell,4
+Ramalho,\u00c1lex Granell,3
+Bernardo Espinosa,Y. Bounou,3
+Aday,J. Mojica,3
+Bernardo Espinosa,C. Stuani,2
+Pere Pons,\u00c1lex Granell,2
+C. Stuani,Pere Pons,2
+\u00c1lex Granell,Juanpe,2
+Pere Pons,Bernardo Espinosa,2
+Y. Bounou,Aday,2
+\u00c1lex Granell,Portu,2
+Y. Bounou,C. Stuani,2
+\u00c1lex Granell,Aday,2
+Juanpe,Bernardo Espinosa,1
+Ramalho,C. Stuani,1
+Choco Lozano,Ramalho,1
+Juanpe,Pere Pons,1
+Aday,\u00c1lex Granell,1
+Bernardo Espinosa,Portu,1
+\u00c1lex Granell,Ramalho,1
+Bernardo Espinosa,Choco Lozano,1
+Bernardo Espinosa,\u00c1lex Granell,1
+Pere Pons,Juanpe,1
+C. Stuani,Juanpe,1
+Portu,C. Stuani,1
+Choco Lozano,Juanpe,1
+Pere Pons,Ramalho,1
+\u00c1lex Granell,Pere Pons,1
+J. Mojica,Aday,1
+Portu,Pere Pons,1
+C. Stuani,\u00c1lex Granell,1
+J. Mojica,C. Stuani,1
+C. Stuani,Portu,1
+Portu,Choco Lozano,1
+C. Stuani,J. Mojica,1
+J. Mojica,Pere Pons,1
+C. Stuani,Choco Lozano,1
+Aday,Y. Bounou,1
+Choco Lozano,C. Stuani,1
+J. Mojica,Juanpe,1
+Bernardo Espinosa,Ramalho,1
+Ramalho,Bernardo Espinosa,1

@@ -1,0 +1,43 @@
+Source,Target,Weight
+A. Mandi,Bartra,3
+Bartra,A. Mandi,3
+Fabi\u00e1n,R. Boudebouz,3
+Fabi\u00e1n,A. Mandi,2
+Barrag\u00e1n,Bartra,2
+R. Boudebouz,Barrag\u00e1n,2
+J. Firpo,Loren Mor\u00f3n,2
+Bartra,J. Firpo,2
+Fabi\u00e1n,Dani Gim\u00e9nez,2
+Barrag\u00e1n,R. Boudebouz,2
+A. Mandi,Fabi\u00e1n,2
+Dani Gim\u00e9nez,Fabi\u00e1n,2
+A. Mandi,Javi Garc\u00eda,2
+Javi Garc\u00eda,Fabi\u00e1n,2
+R. Boudebouz,Fabi\u00e1n,2
+Bartra,Jordi Amat,2
+Barrag\u00e1n,A. Mandi,2
+A. Mandi,Barrag\u00e1n,2
+Loren Mor\u00f3n,Barrag\u00e1n,2
+Javi Garc\u00eda,A. Mandi,1
+Dani Gim\u00e9nez,Bartra,1
+Loren Mor\u00f3n,Fabi\u00e1n,1
+J. Firpo,Javi Garc\u00eda,1
+Cristian Tello,Barrag\u00e1n,1
+Bartra,R. Boudebouz,1
+J. Firpo,Jordi Amat,1
+A. Mandi,Jordi Amat,1
+Jordi Amat,Bartra,1
+Bartra,Loren Mor\u00f3n,1
+R. Boudebouz,Bartra,1
+Jordi Amat,Javi Garc\u00eda,1
+Jordi Amat,A. Mandi,1
+Javi Garc\u00eda,Loren Mor\u00f3n,1
+Barrag\u00e1n,J. Firpo,1
+Jordi Amat,Cristian Tello,1
+Fabi\u00e1n,J. Firpo,1
+R. Boudebouz,A. Mandi,1
+Bartra,Fabi\u00e1n,1
+Javi Garc\u00eda,Bartra,1
+Bartra,Dani Gim\u00e9nez,1
+Fabi\u00e1n,Bartra,1
+Fabi\u00e1n,Javi Garc\u00eda,1

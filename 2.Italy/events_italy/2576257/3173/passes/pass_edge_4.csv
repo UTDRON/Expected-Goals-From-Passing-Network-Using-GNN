@@ -1,0 +1,26 @@
+Source,Target,Weight
+S. Miangue,S. Padoin,3
+S. Miangue,L. Pavoletti,2
+S. Padoin,F. Romagna,2
+N. Barella,Leandro Cast\u00e1n,2
+L. Pavoletti,S. Miangue,2
+L. Pavoletti,P. Farag\u00f2,2
+P. Farag\u00f2,L. Pavoletti,2
+L. Ceppitelli,L. Pavoletti,1
+P. Farag\u00f2,A. Deiola,1
+F. Romagna,A. Deiola,1
+M. Sau,S. Miangue,1
+F. Romagna,P. Farag\u00f2,1
+A. Deiola,M. Sau,1
+Leandro Cast\u00e1n,S. Miangue,1
+N. Barella,P. Farag\u00f2,1
+A. Deiola,S. Miangue,1
+F. Romagna,M. Sau,1
+P. Farag\u00f2,L. Ceppitelli,1
+S. Miangue,Leandro Cast\u00e1n,1
+S. Padoin,S. Miangue,1
+Leandro Cast\u00e1n,N. Barella,1
+M. Sau,N. Barella,1
+Leandro Cast\u00e1n,P. Farag\u00f2,1
+N. Barella,F. Romagna,1
+L. Pavoletti,N. Barella,1

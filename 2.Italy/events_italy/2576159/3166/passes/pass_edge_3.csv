@@ -1,0 +1,32 @@
+Source,Target,Weight
+B. D\u017eemaili,G. Donsah,3
+B. D\u017eemaili,D. Maietta,2
+D. Maietta,R. Palacio,2
+A. Poli,S. De Maio,2
+R. Palacio,B. D\u017eemaili,2
+G. Donsah,B. D\u017eemaili,2
+G. Donsah,D. Maietta,2
+M. Destro,I. M'baye,2
+D. Maietta,G. Donsah,2
+I. M'baye,M. Destro,2
+D. Maietta,S. Verdi,1
+S. De Maio,G. Donsah,1
+S. Verdi,D. Maietta,1
+A. Poli,B. D\u017eemaili,1
+G. Donsah,A. Poli,1
+R. Palacio,I. M'baye,1
+R. Palacio,S. Verdi,1
+M. Destro,S. De Maio,1
+S. Verdi,R. Palacio,1
+S. De Maio,S. Verdi,1
+S. Verdi,I. M'baye,1
+G. Donsah,S. De Maio,1
+S. Verdi,B. D\u017eemaili,1
+S. De Maio,D. Maietta,1
+S. De Maio,A. Poli,1
+S. De Maio,A. Mirante,1
+B. D\u017eemaili,M. Destro,1
+I. M'baye,S. De Maio,1
+D. Maietta,A. Poli,1
+A. Mirante,M. Destro,1
+M. Destro,S. Verdi,1

@@ -1,0 +1,11 @@
+Source,Target,Weight
+M. Politano,D. Berardi,2
+D. Berardi,S. Missiroli,2
+Pol Lirola,A. Duncan,1
+F. Peluso,M. Politano,1
+A. Duncan,F. Peluso,1
+S. Missiroli,Pol Lirola,1
+A. Duncan,M. Politano,1
+S. Missiroli,A. Duncan,1
+M. Politano,S. Missiroli,1
+S. Missiroli,M. Politano,1

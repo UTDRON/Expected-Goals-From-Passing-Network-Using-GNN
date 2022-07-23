@@ -1,0 +1,77 @@
+Source,Target,Weight
+D. God\u00edn,Sa\u00fal,5
+S. Savi\u0107,Sa\u00fal,5
+S. Savi\u0107,D. God\u00edn,4
+Sa\u00fal,Koke,4
+Koke,D. God\u00edn,4
+Sa\u00fal,S. Savi\u0107,4
+Koke,Thomas,4
+D. God\u00edn,S. Savi\u0107,3
+Sa\u00fal,A. Griezmann,3
+J. Gim\u00e9nez,Gabi,3
+\u00c1. Correa,J. Gim\u00e9nez,3
+A. Griezmann,Koke,3
+Thomas,Gabi,3
+Thomas,J. Gim\u00e9nez,3
+A. Griezmann,Thomas,3
+Koke,L. Vietto,3
+D. God\u00edn,Koke,3
+L. Vietto,\u00c1. Correa,3
+A. Griezmann,Sa\u00fal,2
+Thomas,D. God\u00edn,2
+\u00c1. Correa,A. Griezmann,2
+Sa\u00fal,Thomas,2
+L. Vietto,Thomas,2
+Koke,Sa\u00fal,2
+L. Vietto,Gabi,2
+Gabi,S. Savi\u0107,2
+Thomas,Koke,2
+J. Oblak,D. God\u00edn,2
+Gabi,\u00c1. Correa,2
+L. Vietto,S. Savi\u0107,2
+Gabi,J. Gim\u00e9nez,2
+Thomas,S. Savi\u0107,2
+D. God\u00edn,Thomas,2
+Gabi,D. God\u00edn,2
+J. Gim\u00e9nez,\u00c1. Correa,2
+\u00c1. Correa,L. Vietto,2
+S. Savi\u0107,L. Vietto,2
+J. Gim\u00e9nez,L. Vietto,2
+\u00c1. Correa,S. Savi\u0107,1
+J. Gim\u00e9nez,S. Savi\u0107,1
+D. God\u00edn,A. Griezmann,1
+Gabi,Koke,1
+\u00c1. Correa,D. God\u00edn,1
+Koke,J. Gim\u00e9nez,1
+J. Gim\u00e9nez,Thomas,1
+Sa\u00fal,Gabi,1
+Sa\u00fal,\u00c1. Correa,1
+A. Griezmann,\u00c1. Correa,1
+D. God\u00edn,J. Gim\u00e9nez,1
+\u00c1. Correa,Thomas,1
+Koke,\u00c1. Correa,1
+L. Vietto,Koke,1
+Koke,A. Griezmann,1
+S. Savi\u0107,Gabi,1
+J. Gim\u00e9nez,Koke,1
+Thomas,J. Oblak,1
+Thomas,Sa\u00fal,1
+S. Savi\u0107,J. Oblak,1
+L. Vietto,Sa\u00fal,1
+S. Savi\u0107,Thomas,1
+Gabi,A. Griezmann,1
+Thomas,\u00c1. Correa,1
+Gabi,L. Vietto,1
+Sa\u00fal,D. God\u00edn,1
+J. Oblak,Koke,1
+Sa\u00fal,L. Vietto,1
+S. Savi\u0107,J. Gim\u00e9nez,1
+A. Griezmann,J. Gim\u00e9nez,1
+D. God\u00edn,J. Oblak,1
+Thomas,A. Griezmann,1
+S. Savi\u0107,Koke,1
+Koke,Gabi,1
+J. Gim\u00e9nez,D. God\u00edn,1
+Koke,S. Savi\u0107,1
+J. Gim\u00e9nez,A. Griezmann,1
+\u00c1. Correa,Sa\u00fal,1

@@ -1,0 +1,85 @@
+Source,Target,Weight
+A. Kolarov,F. Fazio,8
+S. El Shaarawy,A. Florenzi,6
+F. Fazio,K. Manolas,4
+A. Florenzi,S. El Shaarawy,4
+M. Gonalons,K. Strootman,4
+F. Fazio,L. Pellegrini,4
+K. Manolas,D. Perotti,4
+A. Florenzi,E. D\u017eeko,4
+A. Florenzi,K. Manolas,4
+K. Manolas,F. Fazio,4
+F. Fazio,Alisson,4
+K. Strootman,A. Kolarov,4
+K. Strootman,M. Gonalons,4
+D. Perotti,L. Pellegrini,3
+L. Pellegrini,A. Florenzi,3
+D. Perotti,A. Kolarov,3
+K. Strootman,F. Fazio,3
+F. Fazio,M. Gonalons,3
+A. Kolarov,K. Strootman,3
+K. Manolas,A. Kolarov,3
+M. Gonalons,K. Manolas,3
+F. Fazio,A. Florenzi,3
+E. D\u017eeko,K. Strootman,3
+E. D\u017eeko,S. El Shaarawy,3
+A. Kolarov,D. Perotti,3
+D. Perotti,F. Fazio,3
+F. Fazio,K. Strootman,3
+L. Pellegrini,F. Fazio,2
+S. El Shaarawy,K. Manolas,2
+L. Pellegrini,K. Manolas,2
+E. D\u017eeko,M. Gonalons,2
+D. Perotti,K. Strootman,2
+L. Pellegrini,S. El Shaarawy,2
+K. Manolas,K. Strootman,2
+L. Pellegrini,A. Kolarov,2
+A. Kolarov,E. D\u017eeko,2
+A. Florenzi,L. Pellegrini,2
+Alisson,M. Gonalons,2
+Alisson,E. D\u017eeko,2
+M. Gonalons,L. Pellegrini,2
+K. Manolas,A. Florenzi,2
+K. Manolas,L. Pellegrini,2
+L. Pellegrini,M. Gonalons,2
+K. Manolas,S. El Shaarawy,2
+K. Strootman,L. Pellegrini,2
+E. D\u017eeko,F. Fazio,2
+D. Perotti,K. Manolas,2
+F. Fazio,D. Perotti,2
+K. Strootman,D. Perotti,2
+Alisson,A. Florenzi,2
+A. Florenzi,M. Gonalons,2
+L. Pellegrini,Alisson,1
+E. D\u017eeko,D. Perotti,1
+Alisson,K. Strootman,1
+A. Kolarov,K. Manolas,1
+K. Strootman,E. D\u017eeko,1
+M. Gonalons,E. D\u017eeko,1
+A. Florenzi,Alisson,1
+K. Manolas,Alisson,1
+L. Pellegrini,K. Strootman,1
+E. D\u017eeko,A. Kolarov,1
+S. El Shaarawy,L. Pellegrini,1
+E. D\u017eeko,K. Manolas,1
+K. Manolas,M. Gonalons,1
+K. Strootman,K. Manolas,1
+A. Florenzi,A. Kolarov,1
+M. Gonalons,D. Perotti,1
+M. Gonalons,A. Kolarov,1
+M. Gonalons,Alisson,1
+M. Gonalons,A. Florenzi,1
+K. Strootman,A. Florenzi,1
+S. El Shaarawy,D. Perotti,1
+S. El Shaarawy,A. Kolarov,1
+M. Gonalons,S. El Shaarawy,1
+D. Perotti,E. D\u017eeko,1
+K. Strootman,Alisson,1
+A. Florenzi,F. Fazio,1
+L. Pellegrini,E. D\u017eeko,1
+M. Gonalons,F. Fazio,1
+Alisson,K. Manolas,1
+Alisson,A. Kolarov,1
+E. D\u017eeko,A. Florenzi,1
+F. Fazio,E. D\u017eeko,1
+S. El Shaarawy,E. D\u017eeko,1

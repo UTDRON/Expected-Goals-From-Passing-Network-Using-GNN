@@ -1,0 +1,41 @@
+Source,Target,Weight
+L. Pellegrini,M. Gonalons,3
+Alisson,J. Silva,2
+P. Schick,M. Gonalons,2
+J. Silva,K. Strootman,2
+M. Gonalons,F. Fazio,2
+F. Fazio,L. Pellegrini,2
+J. Silva,F. Fazio,2
+F. Fazio,K. Manolas,2
+K. Strootman,J. Silva,2
+K. Strootman,S. El Shaarawy,2
+K. Manolas,Alisson,2
+F. Fazio,Alisson,1
+M. Gonalons,P. Schick,1
+Alisson,K. Strootman,1
+S. El Shaarawy,R. Nainggolan,1
+M. Gonalons,Alisson,1
+K. Manolas,Bruno Peres,1
+K. Strootman,F. Fazio,1
+R. Nainggolan,S. El Shaarawy,1
+M. Gonalons,K. Strootman,1
+Alisson,L. Pellegrini,1
+S. El Shaarawy,M. Gonalons,1
+M. Gonalons,R. Nainggolan,1
+K. Strootman,R. Nainggolan,1
+M. Gonalons,L. Pellegrini,1
+M. Gonalons,K. Manolas,1
+Bruno Peres,L. Pellegrini,1
+Bruno Peres,J. Silva,1
+J. Silva,M. Gonalons,1
+L. Pellegrini,Bruno Peres,1
+F. Fazio,J. Silva,1
+J. Silva,S. El Shaarawy,1
+P. Schick,K. Strootman,1
+L. Pellegrini,K. Manolas,1
+R. Nainggolan,P. Schick,1
+S. El Shaarawy,P. Schick,1
+R. Nainggolan,L. Pellegrini,1
+S. El Shaarawy,K. Strootman,1
+K. Manolas,F. Fazio,1
+L. Pellegrini,R. Nainggolan,1

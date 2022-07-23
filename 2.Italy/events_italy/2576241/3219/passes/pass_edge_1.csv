@@ -1,0 +1,70 @@
+Source,Target,Weight
+B. Djimsiti,A. To\u0219ca,8
+B. Sagna,B. Djimsiti,6
+A. To\u0219ca,G. Letizia,6
+N. Viola,B. Djimsiti,5
+G. Letizia,A. To\u0219ca,5
+B. Djimsiti,B. Sagna,5
+F. \u0110uri\u010di\u0107,G. Letizia,5
+A. To\u0219ca,B. Djimsiti,4
+G. Letizia,N. Viola,4
+E. Brignola,B. Sagna,4
+Guilherme,E. Brignola,4
+Sandro,B. Sagna,3
+G. Letizia,F. \u0110uri\u010di\u0107,3
+E. Brignola,B. Djimsiti,3
+Sandro,Guilherme,3
+N. Viola,A. To\u0219ca,3
+A. To\u0219ca,F. \u0110uri\u010di\u0107,3
+G. Letizia,Sandro,3
+A. To\u0219ca,N. Viola,3
+B. Sagna,E. Brignola,3
+B. Sagna,Guilherme,3
+Guilherme,G. Letizia,3
+A. To\u0219ca,Sandro,2
+G. Letizia,M. Coda,2
+Sandro,E. Brignola,2
+B. Djimsiti,Sandro,2
+M. Coda,F. \u0110uri\u010di\u0107,2
+B. Djimsiti,F. \u0110uri\u010di\u0107,2
+F. \u0110uri\u010di\u0107,A. To\u0219ca,2
+B. Djimsiti,Guilherme,2
+B. Djimsiti,N. Viola,2
+N. Viola,M. Coda,2
+N. Viola,G. Letizia,2
+M. Coda,N. Viola,2
+A. To\u0219ca,B. Sagna,2
+F. \u0110uri\u010di\u0107,N. Viola,2
+E. Brignola,Guilherme,1
+B. Sagna,F. \u0110uri\u010di\u0107,1
+Sandro,N. Viola,1
+E. Brignola,Sandro,1
+F. \u0110uri\u010di\u0107,E. Brignola,1
+G. Letizia,E. Brignola,1
+C. Puggioni,B. Sagna,1
+Sandro,B. Djimsiti,1
+N. Viola,B. Sagna,1
+B. Djimsiti,C. Puggioni,1
+F. \u0110uri\u010di\u0107,B. Djimsiti,1
+Guilherme,B. Djimsiti,1
+E. Brignola,A. To\u0219ca,1
+N. Viola,C. Puggioni,1
+B. Sagna,A. To\u0219ca,1
+M. Coda,E. Brignola,1
+Guilherme,B. Sagna,1
+F. \u0110uri\u010di\u0107,Sandro,1
+G. Letizia,Guilherme,1
+C. Puggioni,B. Djimsiti,1
+B. Sagna,M. Coda,1
+B. Sagna,N. Viola,1
+N. Viola,F. \u0110uri\u010di\u0107,1
+F. \u0110uri\u010di\u0107,M. Coda,1
+M. Coda,Sandro,1
+M. Coda,G. Letizia,1
+E. Brignola,G. Letizia,1
+B. Sagna,Sandro,1
+Guilherme,F. \u0110uri\u010di\u0107,1
+A. To\u0219ca,C. Puggioni,1
+Sandro,A. To\u0219ca,1
+C. Puggioni,G. Letizia,1
+E. Brignola,N. Viola,1

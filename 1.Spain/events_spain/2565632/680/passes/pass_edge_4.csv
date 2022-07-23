@@ -1,0 +1,91 @@
+Source,Target,Weight
+G. Pizarro,\u00c9. Banega,8
+F. V\u00e1zquez,L. Muriel,7
+\u00c9. Banega,G. Pizarro,6
+\u00c9. Banega,F. V\u00e1zquez,6
+F. V\u00e1zquez,Sergio Escudero,6
+G. Pizarro,F. V\u00e1zquez,6
+L. Muriel,F. V\u00e1zquez,5
+G. Mercado,\u00c9. Banega,5
+F. V\u00e1zquez,\u00c9. Banega,4
+\u00c9. Banega,C. Lenglet,4
+G. Pizarro,Sergio Escudero,4
+F. V\u00e1zquez,G. Mercado,4
+G. Mercado,G. Pizarro,4
+Sergio Escudero,Nolito,4
+\u00c9. Banega,L. Muriel,4
+Nolito,\u00c9. Banega,4
+Sergio Escudero,G. Pizarro,3
+S. Kj\u00e6r,G. Mercado,3
+\u00c9. Banega,G. Mercado,3
+\u00c9. Banega,Nolito,3
+L. Muriel,G. Mercado,3
+S. Corchia,Jes\u00fas Navas,3
+S. Kj\u00e6r,Nolito,3
+S. Kj\u00e6r,Sergio Rico,3
+Sergio Rico,L. Muriel,3
+\u00c9. Banega,Jes\u00fas Navas,3
+G. Mercado,Sergio Rico,3
+G. Mercado,S. Kj\u00e6r,3
+Nolito,G. Pizarro,3
+Sergio Escudero,\u00c9. Banega,3
+S. Kj\u00e6r,G. Pizarro,3
+L. Muriel,\u00c9. Banega,3
+Sergio Escudero,F. V\u00e1zquez,3
+Nolito,F. V\u00e1zquez,3
+Sergio Escudero,S. Kj\u00e6r,2
+G. Mercado,F. V\u00e1zquez,2
+\u00c9. Banega,S. Corchia,2
+Jes\u00fas Navas,S. Corchia,2
+C. Lenglet,Nolito,2
+S. Kj\u00e6r,\u00c9. Banega,2
+L. Muriel,S. Kj\u00e6r,2
+S. Kj\u00e6r,Sergio Escudero,2
+Sergio Escudero,G. Mercado,2
+F. V\u00e1zquez,G. Pizarro,2
+S. Corchia,S. Kj\u00e6r,2
+F. V\u00e1zquez,S. Corchia,2
+Nolito,S. Kj\u00e6r,2
+S. Corchia,F. V\u00e1zquez,2
+F. V\u00e1zquez,Nolito,2
+Nolito,L. Muriel,2
+Sergio Rico,Sergio Escudero,2
+Jes\u00fas Navas,\u00c9. Banega,2
+G. Pizarro,S. Kj\u00e6r,2
+Nolito,Sergio Escudero,2
+Jes\u00fas Navas,C. Lenglet,1
+Sergio Rico,G. Pizarro,1
+C. Lenglet,\u00c9. Banega,1
+G. Pizarro,Jes\u00fas Navas,1
+Sergio Rico,S. Corchia,1
+Sergio Escudero,Sergio Rico,1
+G. Mercado,Nolito,1
+C. Lenglet,Sergio Rico,1
+Nolito,G. Mercado,1
+Jes\u00fas Navas,G. Pizarro,1
+L. Muriel,S. Corchia,1
+G. Mercado,S. Corchia,1
+Jes\u00fas Navas,F. V\u00e1zquez,1
+F. V\u00e1zquez,Sergio Rico,1
+G. Pizarro,G. Mercado,1
+L. Muriel,Jes\u00fas Navas,1
+\u00c9. Banega,Sergio Escudero,1
+Sergio Escudero,L. Muriel,1
+Jes\u00fas Navas,G. Mercado,1
+G. Pizarro,C. Lenglet,1
+S. Corchia,G. Mercado,1
+Sergio Rico,F. V\u00e1zquez,1
+Sergio Rico,\u00c9. Banega,1
+Sergio Escudero,S. Corchia,1
+L. Muriel,Nolito,1
+G. Pizarro,L. Muriel,1
+Jes\u00fas Navas,Sergio Escudero,1
+L. Muriel,Sergio Escudero,1
+G. Pizarro,Nolito,1
+S. Corchia,Sergio Escudero,1
+C. Lenglet,Jes\u00fas Navas,1
+\u00c9. Banega,S. Kj\u00e6r,1
+S. Corchia,G. Pizarro,1
+F. V\u00e1zquez,Jes\u00fas Navas,1
+C. Lenglet,S. Kj\u00e6r,1
+L. Muriel,G. Pizarro,1

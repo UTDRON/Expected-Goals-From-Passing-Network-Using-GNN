@@ -1,0 +1,27 @@
+Source,Target,Weight
+Koke,Filipe Luis,3
+Filipe Luis,Koke,3
+Koke,A. Griezmann,3
+Sa\u00fal,Thomas,2
+A. Griezmann,Gabi,2
+Thomas,Sa\u00fal,2
+Filipe Luis,Diego Costa,1
+Filipe Luis,Sa\u00fal,1
+A. Griezmann,Thomas,1
+Gabi,A. Griezmann,1
+Sa\u00fal,Koke,1
+Filipe Luis,A. Griezmann,1
+Sa\u00fal,Diego Costa,1
+A. Griezmann,Sa\u00fal,1
+Thomas,Filipe Luis,1
+A. Griezmann,Koke,1
+Gabi,\u0160. Vrsaljko,1
+Diego Costa,Filipe Luis,1
+Koke,D. God\u00edn,1
+Diego Costa,Koke,1
+\u0160. Vrsaljko,Koke,1
+Thomas,\u0160. Vrsaljko,1
+Diego Costa,A. Griezmann,1
+A. Griezmann,Diego Costa,1
+D. God\u00edn,Filipe Luis,1
+\u0160. Vrsaljko,Thomas,1

@@ -1,0 +1,68 @@
+Source,Target,Weight
+F. Sch\u00e4r,A. Arribas,6
+A. Arribas,F. Sch\u00e4r,5
+F. Sch\u00e4r,C. Pantilimon,4
+A. Arribas,Juanfran,4
+C. Pantilimon,F. Sch\u00e4r,4
+F. Andone,Luisinho,4
+Luisinho,F. Sch\u00e4r,3
+Lucas P\u00e9rez,F. Valverde,3
+F. Sch\u00e4r,C. Borges,3
+A. Arribas,C. Pantilimon,3
+C. Borges,F. Andone,3
+Juanfran,A. Arribas,3
+Luisinho,Lucas P\u00e9rez,3
+Luisinho,F. Valverde,3
+Fede Cartabia,A. Arribas,3
+F. Andone,Juanfran,3
+C. Borges,Luisinho,2
+Lucas P\u00e9rez,F. Sch\u00e4r,2
+Juanfran,F. Sch\u00e4r,2
+C. Borges,Fede Cartabia,2
+F. Sch\u00e4r,Luisinho,2
+F. Valverde,F. Sch\u00e4r,2
+Lucas P\u00e9rez,C. Borges,2
+Fede Cartabia,Juanfran,2
+Juanfran,Guilherme,2
+F. Sch\u00e4r,F. Andone,2
+Juanfran,Fede Cartabia,2
+F. Andone,Lucas P\u00e9rez,2
+C. Borges,Guilherme,1
+Juanfran,C. Borges,1
+Guilherme,Lucas P\u00e9rez,1
+Lucas P\u00e9rez,Luisinho,1
+F. Andone,Fede Cartabia,1
+Fede Cartabia,Lucas P\u00e9rez,1
+F. Sch\u00e4r,Fede Cartabia,1
+F. Valverde,Lucas P\u00e9rez,1
+F. Valverde,Guilherme,1
+Guilherme,Luisinho,1
+Luisinho,C. Borges,1
+Juanfran,F. Andone,1
+C. Pantilimon,A. Arribas,1
+A. Arribas,Fede Cartabia,1
+A. Arribas,Lucas P\u00e9rez,1
+Guilherme,C. Pantilimon,1
+Luisinho,A. Arribas,1
+F. Andone,C. Borges,1
+F. Valverde,Luisinho,1
+C. Pantilimon,Luisinho,1
+Guilherme,Juanfran,1
+C. Borges,Juanfran,1
+Guilherme,F. Andone,1
+Lucas P\u00e9rez,A. Arribas,1
+F. Sch\u00e4r,Guilherme,1
+Lucas P\u00e9rez,Guilherme,1
+A. Arribas,C. Borges,1
+C. Borges,A. Arribas,1
+Fede Cartabia,F. Sch\u00e4r,1
+Fede Cartabia,Luisinho,1
+Luisinho,Guilherme,1
+Guilherme,C. Borges,1
+F. Sch\u00e4r,Lucas P\u00e9rez,1
+Lucas P\u00e9rez,F. Andone,1
+C. Pantilimon,Lucas P\u00e9rez,1
+A. Arribas,F. Andone,1
+C. Pantilimon,F. Andone,1
+Guilherme,F. Sch\u00e4r,1
+Luisinho,Fede Cartabia,1

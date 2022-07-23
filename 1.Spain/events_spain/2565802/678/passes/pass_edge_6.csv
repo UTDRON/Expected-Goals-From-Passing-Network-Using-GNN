@@ -1,0 +1,69 @@
+Source,Target,Weight
+\u00cd\u00f1igo Mart\u00ednez,Saborit,4
+I\u00f1igo C\u00f3rdoba,Aduriz,3
+San Jos\u00e9,Susaeta,3
+Be\u00f1at,Ra\u00fal Garc\u00eda,3
+Saborit,Be\u00f1at,3
+Be\u00f1at,I\u00f1igo C\u00f3rdoba,3
+Saborit,\u00cd\u00f1igo Mart\u00ednez,3
+Saborit,I\u00f1igo C\u00f3rdoba,3
+I\u00f1igo C\u00f3rdoba,Saborit,3
+Aduriz,I\u00f1igo C\u00f3rdoba,2
+Unai N\u00fa\u00f1ez,\u00cd\u00f1igo Mart\u00ednez,2
+Unai N\u00fa\u00f1ez,Arrizabalaga,2
+Be\u00f1at,Saborit,2
+I\u00f1aki Williams,Be\u00f1at,2
+De Marcos,I\u00f1aki Williams,2
+Aduriz,Unai N\u00fa\u00f1ez,2
+San Jos\u00e9,Saborit,2
+Ra\u00fal Garc\u00eda,San Jos\u00e9,2
+Arrizabalaga,Ra\u00fal Garc\u00eda,2
+Saborit,Ra\u00fal Garc\u00eda,2
+Arrizabalaga,Aduriz,2
+Be\u00f1at,Unai N\u00fa\u00f1ez,2
+Unai N\u00fa\u00f1ez,De Marcos,2
+I\u00f1igo C\u00f3rdoba,Be\u00f1at,2
+\u00cd\u00f1igo Mart\u00ednez,Unai N\u00fa\u00f1ez,2
+Ra\u00fal Garc\u00eda,Saborit,2
+Ra\u00fal Garc\u00eda,I\u00f1igo C\u00f3rdoba,2
+De Marcos,Be\u00f1at,2
+Saborit,San Jos\u00e9,2
+I\u00f1igo C\u00f3rdoba,\u00cd\u00f1igo Mart\u00ednez,2
+I\u00f1igo C\u00f3rdoba,Arrizabalaga,1
+I\u00f1igo C\u00f3rdoba,Ra\u00fal Garc\u00eda,1
+Saborit,Arrizabalaga,1
+Aduriz,Be\u00f1at,1
+Arrizabalaga,\u00cd\u00f1igo Mart\u00ednez,1
+Unai N\u00fa\u00f1ez,Susaeta,1
+Susaeta,San Jos\u00e9,1
+Be\u00f1at,Arrizabalaga,1
+San Jos\u00e9,I\u00f1igo C\u00f3rdoba,1
+Ra\u00fal Garc\u00eda,Aduriz,1
+\u00cd\u00f1igo Mart\u00ednez,De Marcos,1
+Ra\u00fal Garc\u00eda,Susaeta,1
+Ra\u00fal Garc\u00eda,\u00cd\u00f1igo Mart\u00ednez,1
+Arrizabalaga,I\u00f1igo C\u00f3rdoba,1
+San Jos\u00e9,Aduriz,1
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,1
+San Jos\u00e9,Unai N\u00fa\u00f1ez,1
+Aduriz,San Jos\u00e9,1
+De Marcos,\u00cd\u00f1igo Mart\u00ednez,1
+Be\u00f1at,Susaeta,1
+Susaeta,I\u00f1igo C\u00f3rdoba,1
+Susaeta,Saborit,1
+Susaeta,Be\u00f1at,1
+Be\u00f1at,San Jos\u00e9,1
+Arrizabalaga,Be\u00f1at,1
+I\u00f1igo C\u00f3rdoba,San Jos\u00e9,1
+\u00cd\u00f1igo Mart\u00ednez,San Jos\u00e9,1
+Susaeta,Arrizabalaga,1
+I\u00f1aki Williams,Ra\u00fal Garc\u00eda,1
+I\u00f1igo C\u00f3rdoba,De Marcos,1
+Unai N\u00fa\u00f1ez,I\u00f1igo C\u00f3rdoba,1
+Susaeta,Unai N\u00fa\u00f1ez,1
+I\u00f1aki Williams,De Marcos,1
+Be\u00f1at,I\u00f1aki Williams,1
+Ra\u00fal Garc\u00eda,Be\u00f1at,1
+San Jos\u00e9,I\u00f1aki Williams,1
+\u00cd\u00f1igo Mart\u00ednez,Arrizabalaga,1
+\u00cd\u00f1igo Mart\u00ednez,Be\u00f1at,1

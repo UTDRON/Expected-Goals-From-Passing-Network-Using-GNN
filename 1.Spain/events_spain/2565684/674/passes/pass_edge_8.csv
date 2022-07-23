@@ -1,0 +1,38 @@
+Source,Target,Weight
+Dani Parejo,Nacho Gil,4
+Nacho Gil,Dani Parejo,3
+Jos\u00e9 Gay\u00e1,Dani Parejo,3
+Carlos Soler,Dani Parejo,3
+Jos\u00e9 Gay\u00e1,Carlos Soler,2
+Gabriel,Jos\u00e9 Gay\u00e1,2
+Jos\u00e9 Gay\u00e1,R\u00faben Vezo,2
+Dani Parejo,Santi Mina,2
+Dani Parejo,Montoya,2
+Nacho Gil,Carlos Soler,2
+Dani Parejo,Jos\u00e9 Gay\u00e1,2
+Gabriel,Dani Parejo,2
+Nacho Gil,Montoya,2
+Dani Parejo,Carlos Soler,2
+Carlos Soler,Montoya,2
+Gabriel,Carlos Soler,2
+Montoya,Nacho Gil,2
+Carlos Soler,Nacho Gil,2
+Santi Mina,Jos\u00e9 Gay\u00e1,1
+Montoya,Jos\u00e9 Gay\u00e1,1
+Carlos Soler,Rodrigo,1
+Rodrigo,Carlos Soler,1
+Nacho Gil,Gabriel,1
+Jos\u00e9 Gay\u00e1,Gabriel,1
+R\u00faben Vezo,Jos\u00e9 Gay\u00e1,1
+Carlos Soler,Jos\u00e9 Gay\u00e1,1
+Carlos Soler,Gabriel,1
+R\u00faben Vezo,Carlos Soler,1
+Santi Mina,R\u00faben Vezo,1
+Montoya,R\u00faben Vezo,1
+R\u00faben Vezo,Dani Parejo,1
+Montoya,Dani Parejo,1
+Montoya,Gabriel,1
+Nacho Gil,Santi Mina,1
+Dani Parejo,R\u00faben Vezo,1
+R\u00faben Vezo,Gabriel,1
+R\u00faben Vezo,Nacho Gil,1

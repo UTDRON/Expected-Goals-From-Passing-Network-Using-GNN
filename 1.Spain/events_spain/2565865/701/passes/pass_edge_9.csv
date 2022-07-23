@@ -1,0 +1,43 @@
+Source,Target,Weight
+Pedro Le\u00f3n,Ramis,3
+T. Inui,David Junc\u00e0,3
+Pedro Le\u00f3n,Rub\u00e9n Pe\u00f1a,3
+Arbilla,T. Inui,2
+Rub\u00e9n Pe\u00f1a,Ramis,2
+David Junc\u00e0,Pedro Le\u00f3n,2
+T. Inui,Dani Garc\u00eda,2
+David Junc\u00e0,Arbilla,2
+David Junc\u00e0,Dani Garc\u00eda,2
+Dani Garc\u00eda,Rub\u00e9n Pe\u00f1a,2
+P. Diop,Arbilla,2
+David Junc\u00e0,P. Diop,1
+F. Orellana,M. Dmitrovi\u0107,1
+F. Orellana,Kike Garc\u00eda,1
+Ramis,P. Diop,1
+M. Dmitrovi\u0107,Pedro Le\u00f3n,1
+Kike Garc\u00eda,P. Diop,1
+Rub\u00e9n Pe\u00f1a,F. Orellana,1
+Arbilla,Pedro Le\u00f3n,1
+Arbilla,M. Dmitrovi\u0107,1
+M. Dmitrovi\u0107,David Junc\u00e0,1
+Rub\u00e9n Pe\u00f1a,Kike Garc\u00eda,1
+Dani Garc\u00eda,Pedro Le\u00f3n,1
+P. Diop,Dani Garc\u00eda,1
+Dani Garc\u00eda,F. Orellana,1
+Kike Garc\u00eda,Pedro Le\u00f3n,1
+Rub\u00e9n Pe\u00f1a,Pedro Le\u00f3n,1
+Ramis,F. Orellana,1
+Dani Garc\u00eda,David Junc\u00e0,1
+Dani Garc\u00eda,T. Inui,1
+Arbilla,Dani Garc\u00eda,1
+Pedro Le\u00f3n,T. Inui,1
+David Junc\u00e0,T. Inui,1
+Ramis,Pedro Le\u00f3n,1
+Ramis,David Junc\u00e0,1
+Pedro Le\u00f3n,P. Diop,1
+F. Orellana,T. Inui,1
+Ramis,Arbilla,1
+P. Diop,F. Orellana,1
+Pedro Le\u00f3n,David Junc\u00e0,1
+P. Diop,Pedro Le\u00f3n,1
+T. Inui,P. Diop,1

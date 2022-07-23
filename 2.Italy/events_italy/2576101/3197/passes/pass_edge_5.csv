@@ -1,0 +1,15 @@
+Source,Target,Weight
+R. Mandragora,S. Simi\u010d,2
+M. Rohd\u00e9n,M. Sampirisi,1
+Simy,M. Rohd\u00e9n,1
+M. Trotta,A. Barberis,1
+M. Trotta,Simy,1
+F. Ceccherini,S. Simi\u010d,1
+S. Simi\u010d,D. Pavlovic,1
+M. Rohd\u00e9n,M. Trotta,1
+S. Simi\u010d,M. Rohd\u00e9n,1
+A. Barberis,R. Mandragora,1
+M. Sampirisi,R. Mandragora,1
+D. Pavlovic,M. Trotta,1
+S. Simi\u010d,M. Sampirisi,1
+M. Sampirisi,Simy,1

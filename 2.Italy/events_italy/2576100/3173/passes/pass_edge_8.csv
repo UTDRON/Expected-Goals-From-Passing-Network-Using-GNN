@@ -1,0 +1,40 @@
+Source,Target,Weight
+F. Pisacane,L. Pavoletti,2
+P. Farag\u00f2,F. Pisacane,2
+L. Pavoletti,L. Cigarini,2
+N. Barella,D. Dessena,2
+D. Dessena,N. Barella,2
+L. Pavoletti,A. Ioni\u0163\u0103,2
+D. Dessena,P. Farag\u00f2,2
+L. Cigarini,D. Dessena,2
+A. Ioni\u0163\u0103,D. Dessena,2
+N. Barella,F. Romagna,2
+L. Cigarini,A. Ioni\u0163\u0103,1
+A. Ioni\u0163\u0103,N. Barella,1
+F. Romagna,L. Pavoletti,1
+F. Romagna,D. Dessena,1
+F. Romagna,N. Barella,1
+P. Farag\u00f2,N. Barella,1
+A. Ioni\u0163\u0103,S. Padoin,1
+L. Cigarini,L. Pavoletti,1
+L. Cigarini,N. Barella,1
+D. Dessena,L. Pavoletti,1
+D. Dessena,F. Pisacane,1
+N. Barella,A. Ioni\u0163\u0103,1
+L. Pavoletti,S. Padoin,1
+L. Pavoletti,F. Pisacane,1
+F. Pisacane,P. Farag\u00f2,1
+S. Padoin,A. Ioni\u0163\u0103,1
+F. Pisacane,L. Cigarini,1
+F. Pisacane,Rafael,1
+N. Barella,S. Padoin,1
+Rafael,L. Ceppitelli,1
+A. Ioni\u0163\u0103,L. Cigarini,1
+S. Padoin,N. Barella,1
+N. Barella,L. Pavoletti,1
+L. Ceppitelli,L. Pavoletti,1
+L. Cigarini,P. Farag\u00f2,1
+L. Pavoletti,F. Romagna,1
+P. Farag\u00f2,L. Cigarini,1
+S. Padoin,L. Cigarini,1
+F. Romagna,F. Pisacane,1

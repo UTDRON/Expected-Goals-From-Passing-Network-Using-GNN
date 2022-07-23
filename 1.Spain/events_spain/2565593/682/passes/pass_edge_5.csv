@@ -1,0 +1,10 @@
+Source,Target,Weight
+Mario,D. Cheryshev,2
+Rodri,Samu Castillejo,1
+D. Cheryshev,Mario,1
+Samu Castillejo,Rodri,1
+D. Cheryshev,Samu Castillejo,1
+Jaume Costa,Rodri,1
+M. Barbosa,Jaume Costa,1
+D. Cheryshev,M. Barbosa,1
+Rodri,D. Cheryshev,1

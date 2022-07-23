@@ -1,0 +1,60 @@
+Source,Target,Weight
+Luisinho,Pedro Mosquera,5
+S. Muntari,Luisinho,4
+M. Krohn-Dehli,S. Muntari,4
+Adri\u00e1n L\u00f3pez,S. Muntari,3
+Juanfran,F. Sch\u00e4r,3
+Pedro Mosquera,S. Muntari,3
+S. Muntari,B\u00f3veda,3
+M. Krohn-Dehli,Juanfran,3
+Pedro Mosquera,Luisinho,3
+Luisinho,S. Muntari,2
+Juanfran,S. Muntari,2
+Z. Bakkali,M. Krohn-Dehli,2
+Pedro Mosquera,Adri\u00e1n L\u00f3pez,2
+B\u00f3veda,M. Krohn-Dehli,2
+F. Sch\u00e4r,B\u00f3veda,2
+S. Muntari,Adri\u00e1n L\u00f3pez,2
+F. Sch\u00e4r,Juanfran,2
+B\u00f3veda,F. Sch\u00e4r,2
+B\u00f3veda,Luisinho,2
+M. Krohn-Dehli,F. Sch\u00e4r,2
+S. Muntari,Z. Bakkali,2
+Luisinho,Adri\u00e1n L\u00f3pez,2
+Pedro Mosquera,M. Krohn-Dehli,2
+Rub\u00e9n,Luisinho,1
+Juanfran,Lucas P\u00e9rez,1
+Luisinho,Lucas P\u00e9rez,1
+Adri\u00e1n L\u00f3pez,F. Sch\u00e4r,1
+S. Muntari,M. Krohn-Dehli,1
+S. Muntari,Juanfran,1
+Rub\u00e9n,F. Sch\u00e4r,1
+B\u00f3veda,Rub\u00e9n,1
+Juanfran,Pedro Mosquera,1
+Lucas P\u00e9rez,Juanfran,1
+Luisinho,Rub\u00e9n,1
+Luisinho,B\u00f3veda,1
+Adri\u00e1n L\u00f3pez,Luisinho,1
+Lucas P\u00e9rez,Pedro Mosquera,1
+Juanfran,Z. Bakkali,1
+S. Muntari,Lucas P\u00e9rez,1
+F. Sch\u00e4r,Luisinho,1
+Adri\u00e1n L\u00f3pez,M. Krohn-Dehli,1
+Rub\u00e9n,M. Krohn-Dehli,1
+F. Sch\u00e4r,S. Muntari,1
+F. Sch\u00e4r,M. Krohn-Dehli,1
+Luisinho,M. Krohn-Dehli,1
+S. Muntari,F. Sch\u00e4r,1
+S. Muntari,Rub\u00e9n,1
+Adri\u00e1n L\u00f3pez,Pedro Mosquera,1
+F. Sch\u00e4r,Rub\u00e9n,1
+S. Muntari,Pedro Mosquera,1
+F. Sch\u00e4r,Pedro Mosquera,1
+Lucas P\u00e9rez,S. Muntari,1
+Rub\u00e9n,Adri\u00e1n L\u00f3pez,1
+Adri\u00e1n L\u00f3pez,B\u00f3veda,1
+M. Krohn-Dehli,Luisinho,1
+Z. Bakkali,Juanfran,1
+B\u00f3veda,S. Muntari,1
+F. Sch\u00e4r,Adri\u00e1n L\u00f3pez,1
+M. Krohn-Dehli,B\u00f3veda,1

@@ -1,0 +1,29 @@
+Source,Target,Weight
+S. Ta\u00efder,S. Verdi,3
+R. Palacio,S. Verdi,3
+G. Gonz\u00e1lez,S. De Maio,2
+S. De Maio,S. Ta\u00efder,2
+G. Donsah,G. Gonz\u00e1lez,2
+G. Donsah,R. Palacio,2
+S. Verdi,S. Ta\u00efder,2
+S. Verdi,G. Donsah,2
+F. Di Francesco,S. Ta\u00efder,1
+F. Di Francesco,S. Verdi,1
+S. Ta\u00efder,F. Di Francesco,1
+S. Ta\u00efder,G. Gonz\u00e1lez,1
+I. M'baye,G. Donsah,1
+R. Palacio,G. Donsah,1
+G. Gonz\u00e1lez,A. Mirante,1
+A. Mirante,S. Verdi,1
+I. M'baye,E. Pulgar,1
+S. De Maio,G. Gonz\u00e1lez,1
+G. Donsah,F. Di Francesco,1
+S. Verdi,V. Torosidis,1
+R. Palacio,I. M'baye,1
+V. Torosidis,R. Palacio,1
+G. Gonz\u00e1lez,G. Donsah,1
+E. Pulgar,G. Donsah,1
+S. Verdi,A. Mirante,1
+A. Mirante,R. Palacio,1
+S. Verdi,S. De Maio,1
+G. Donsah,I. M'baye,1

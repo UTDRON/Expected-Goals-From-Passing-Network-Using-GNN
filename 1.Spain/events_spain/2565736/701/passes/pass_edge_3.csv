@@ -1,0 +1,100 @@
+Source,Target,Weight
+Ander Capa,Paulo Oliveira,14
+Paulo Oliveira,Ramis,12
+Dani Garc\u00eda,Ramis,10
+Dani Garc\u00eda,Jos\u00e9 \u00c1ngel,9
+Sergi Enrich,Dani Garc\u00eda,9
+Ramis,Paulo Oliveira,9
+Paulo Oliveira,Ander Capa,8
+Jos\u00e9 \u00c1ngel,Ramis,8
+Ramis,Jos\u00e9 \u00c1ngel,8
+Joan Jord\u00e1n,Dani Garc\u00eda,7
+Jos\u00e9 \u00c1ngel,Dani Garc\u00eda,7
+Jos\u00e9 \u00c1ngel,Sergi Enrich,7
+Jos\u00e9 \u00c1ngel,T. Inui,6
+Ander Capa,F. Orellana,6
+F. Orellana,Paulo Oliveira,5
+Sergi Enrich,F. Orellana,5
+Dani Garc\u00eda,Joan Jord\u00e1n,5
+F. Orellana,Joan Jord\u00e1n,5
+Joan Jord\u00e1n,Ander Capa,5
+Ramis,Joan Jord\u00e1n,5
+Joan Jord\u00e1n,Jos\u00e9 \u00c1ngel,5
+Ander Capa,Dani Garc\u00eda,5
+Paulo Oliveira,M. Dmitrovi\u0107,5
+Paulo Oliveira,Dani Garc\u00eda,5
+Ramis,M. Dmitrovi\u0107,5
+Dani Garc\u00eda,Ander Capa,5
+Ramis,Dani Garc\u00eda,5
+Ander Capa,Joan Jord\u00e1n,5
+T. Inui,Jos\u00e9 \u00c1ngel,5
+T. Inui,Ramis,4
+Joan Jord\u00e1n,Charles,4
+Iv\u00e1n Alejo,Ander Capa,4
+F. Orellana,Ander Capa,4
+M. Dmitrovi\u0107,Paulo Oliveira,4
+Ramis,Ander Capa,4
+Joan Jord\u00e1n,Sergi Enrich,4
+Dani Garc\u00eda,T. Inui,4
+M. Dmitrovi\u0107,Ramis,4
+Dani Garc\u00eda,F. Orellana,4
+Jos\u00e9 \u00c1ngel,Joan Jord\u00e1n,4
+Sergi Enrich,Jos\u00e9 \u00c1ngel,3
+Ramis,T. Inui,3
+Charles,Dani Garc\u00eda,3
+M. Dmitrovi\u0107,Charles,3
+T. Inui,Joan Jord\u00e1n,3
+Dani Garc\u00eda,Paulo Oliveira,3
+Joan Jord\u00e1n,M. Dmitrovi\u0107,3
+T. Inui,Charles,3
+Ander Capa,M. Dmitrovi\u0107,3
+Charles,Sergi Enrich,3
+Sergi Enrich,T. Inui,3
+M. Dmitrovi\u0107,Ander Capa,3
+F. Orellana,Sergi Enrich,2
+Paulo Oliveira,Jos\u00e9 \u00c1ngel,2
+Charles,Joan Jord\u00e1n,2
+Jos\u00e9 \u00c1ngel,M. Dmitrovi\u0107,2
+T. Inui,Sergi Enrich,2
+T. Inui,Paulo Oliveira,2
+Dani Garc\u00eda,M. Dmitrovi\u0107,2
+M. Dmitrovi\u0107,T. Inui,2
+Paulo Oliveira,F. Orellana,2
+Ander Capa,Iv\u00e1n Alejo,2
+Ander Capa,Sergi Enrich,2
+Charles,F. Orellana,2
+Paulo Oliveira,Sergi Enrich,2
+M. Dmitrovi\u0107,Dani Garc\u00eda,2
+Sergi Enrich,Charles,2
+Jos\u00e9 \u00c1ngel,Ander Capa,2
+Charles,T. Inui,2
+Dani Garc\u00eda,Sergi Enrich,2
+T. Inui,M. Dmitrovi\u0107,1
+Iv\u00e1n Alejo,Sergi Enrich,1
+F. Orellana,Ramis,1
+F. Orellana,T. Inui,1
+Jos\u00e9 \u00c1ngel,Paulo Oliveira,1
+Ramis,Iv\u00e1n Alejo,1
+Sergi Enrich,Ramis,1
+Dani Garc\u00eda,Charles,1
+Ramis,Sergi Enrich,1
+Charles,Jos\u00e9 \u00c1ngel,1
+Paulo Oliveira,Iv\u00e1n Alejo,1
+T. Inui,Dani Garc\u00eda,1
+M. Dmitrovi\u0107,Sergi Enrich,1
+Paulo Oliveira,Charles,1
+Joan Jord\u00e1n,Ramis,1
+M. Dmitrovi\u0107,Joan Jord\u00e1n,1
+Iv\u00e1n Alejo,Jos\u00e9 \u00c1ngel,1
+Joan Jord\u00e1n,F. Orellana,1
+Sergi Enrich,Ander Capa,1
+Joan Jord\u00e1n,Paulo Oliveira,1
+Paulo Oliveira,Joan Jord\u00e1n,1
+F. Orellana,Dani Garc\u00eda,1
+Joan Jord\u00e1n,Iv\u00e1n Alejo,1
+F. Orellana,Jos\u00e9 \u00c1ngel,1
+M. Dmitrovi\u0107,Jos\u00e9 \u00c1ngel,1
+Sergi Enrich,Joan Jord\u00e1n,1
+Charles,Ander Capa,1
+Sergi Enrich,Iv\u00e1n Alejo,1
+Ander Capa,Jos\u00e9 \u00c1ngel,1

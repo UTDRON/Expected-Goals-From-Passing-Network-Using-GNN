@@ -1,0 +1,31 @@
+Source,Target,Weight
+Diego Rico,A. Szymanowski,2
+A. Szymanowski,Zald\u00faa,2
+A. Szymanowski,Diego Rico,2
+Diego Rico,Gabriel,2
+Gabriel,C. Beauvue,1
+Eraso,Erik Mor\u00e1n,1
+Zald\u00faa,Erik Mor\u00e1n,1
+Gabriel,A. Szymanowski,1
+Eraso,C. Beauvue,1
+E. Mu\u00f1oz,Gabriel,1
+E. Mu\u00f1oz,Cu\u00e9llar,1
+C. Beauvue,Zald\u00faa,1
+A. Szymanowski,Eraso,1
+Zald\u00faa,D. Bra\u0161anac,1
+Erik Mor\u00e1n,E. Mu\u00f1oz,1
+Eraso,Gabriel,1
+Gabriel,D. Siovas,1
+Zald\u00faa,A. Szymanowski,1
+Gabriel,E. Mu\u00f1oz,1
+D. Bra\u0161anac,Erik Mor\u00e1n,1
+Gabriel,Diego Rico,1
+D. Siovas,Diego Rico,1
+Erik Mor\u00e1n,Eraso,1
+E. Mu\u00f1oz,D. Bra\u0161anac,1
+Gabriel,Eraso,1
+D. Bra\u0161anac,Gabriel,1
+Cu\u00e9llar,Gabriel,1
+Eraso,Zald\u00faa,1
+Erik Mor\u00e1n,A. Szymanowski,1
+Zald\u00faa,Eraso,1

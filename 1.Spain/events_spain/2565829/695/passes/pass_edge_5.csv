@@ -1,0 +1,28 @@
+Source,Target,Weight
+Roger,Ivi,2
+Coke,Roger,2
+E. Cabaco,J. Lerma,2
+J. Lerma,Rober,1
+G. Pazzini,Coke,1
+Oier,Roger,1
+Rober,Ivi,1
+Luna,Jos\u00e9 Luis Morales,1
+J. Lerma,E. Cabaco,1
+S. Luki\u0107,E. Cabaco,1
+J. Lerma,Coke,1
+Jos\u00e9 Luis Morales,G. Pazzini,1
+Coke,Luna,1
+Ivi,J. Lerma,1
+Luna,Oier,1
+Rober,Roger,1
+E. Cabaco,Luna,1
+Jos\u00e9 Luis Morales,Ivi,1
+Roger,G. Pazzini,1
+Ivi,Coke,1
+Ivi,Oier,1
+G. Pazzini,Jos\u00e9 Luis Morales,1
+Roger,Jos\u00e9 Luis Morales,1
+Roger,E. Cabaco,1
+Jos\u00e9 Luis Morales,Roger,1
+Ivi,S. Luki\u0107,1
+Oier,Jos\u00e9 Luis Morales,1

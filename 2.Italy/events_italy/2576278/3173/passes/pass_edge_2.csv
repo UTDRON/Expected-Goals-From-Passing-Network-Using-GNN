@@ -1,0 +1,19 @@
+Source,Target,Weight
+L. Cigarini,S. Padoin,2
+S. Padoin,L. Pavoletti,2
+S. Miangue,S. Padoin,1
+N. Barella,L. Cigarini,1
+L. Pavoletti,N. Barella,1
+M. Sau,F. Pisacane,1
+L. Ceppitelli,L. Cigarini,1
+L. Cigarini,L. Pavoletti,1
+P. Farag\u00f2,L. Cigarini,1
+S. Padoin,S. Miangue,1
+L. Pavoletti,S. Miangue,1
+L. Pavoletti,L. Cigarini,1
+S. Miangue,M. Sau,1
+S. Miangue,L. Pavoletti,1
+M. Sau,S. Miangue,1
+L. Cigarini,P. Farag\u00f2,1
+F. Pisacane,P. Farag\u00f2,1
+P. Farag\u00f2,L. Ceppitelli,1

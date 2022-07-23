@@ -1,0 +1,76 @@
+Source,Target,Weight
+A. Aquilani,Tana,5
+Dani Castellano,Bigas,4
+L. R\u00e9my,Jonathan Viera,4
+M. Lemos,A. Aquilani,4
+Tana,A. Aquilani,4
+A. Aquilani,Dani Castellano,4
+Bigas,Ra\u00fal Lizo\u00e1in,4
+Jonathan Viera,Tana,4
+Dani Castellano,Javi Castellano,4
+Javi Castellano,Ra\u00fal Lizo\u00e1in,3
+Vitolo,Jonathan Viera,3
+Bigas,A. Aquilani,3
+Bigas,L. R\u00e9my,3
+Tana,Jonathan Viera,3
+Jonathan Viera,L. R\u00e9my,3
+Jonathan Viera,Dani Castellano,3
+Ra\u00fal Lizo\u00e1in,M. Lemos,3
+Tana,Dani Castellano,2
+Ra\u00fal Lizo\u00e1in,Bigas,2
+Vitolo,Bigas,2
+M. Lemos,Tana,2
+Dani Castellano,Vitolo,2
+Tana,M. Lemos,2
+A. Aquilani,Bigas,2
+Dani Castellano,Ra\u00fal Lizo\u00e1in,2
+A. Aquilani,Vitolo,2
+Ra\u00fal Lizo\u00e1in,Dani Castellano,2
+Jonathan Viera,A. Aquilani,2
+M. Lemos,M\u00edchel,2
+M\u00edchel,A. Aquilani,2
+A. Aquilani,Jonathan Viera,2
+Ra\u00fal Lizo\u00e1in,Javi Castellano,1
+M\u00edchel,Jonathan Viera,1
+L. R\u00e9my,A. Aquilani,1
+M\u00edchel,Bigas,1
+Dani Castellano,L. R\u00e9my,1
+Vitolo,Dani Castellano,1
+Dani Castellano,Jonathan Viera,1
+M\u00edchel,Ra\u00fal Lizo\u00e1in,1
+Ra\u00fal Lizo\u00e1in,M\u00edchel,1
+Javi Castellano,A. Aquilani,1
+L. R\u00e9my,Javi Castellano,1
+M. Lemos,Bigas,1
+Vitolo,A. Aquilani,1
+Vitolo,Javi Castellano,1
+Tana,L. R\u00e9my,1
+Ra\u00fal Lizo\u00e1in,L. R\u00e9my,1
+Bigas,Jonathan Viera,1
+Ra\u00fal Lizo\u00e1in,Jonathan Viera,1
+Jonathan Viera,M. Lemos,1
+Dani Castellano,A. Aquilani,1
+Jonathan Viera,Ra\u00fal Lizo\u00e1in,1
+A. Aquilani,Javi Castellano,1
+Tana,Javi Castellano,1
+Ra\u00fal Lizo\u00e1in,Tana,1
+Javi Castellano,Bigas,1
+L. R\u00e9my,Ra\u00fal Lizo\u00e1in,1
+Javi Castellano,Dani Castellano,1
+Javi Castellano,M. Lemos,1
+Jonathan Viera,Vitolo,1
+Javi Castellano,Tana,1
+L. R\u00e9my,Dani Castellano,1
+Jonathan Viera,Bigas,1
+Bigas,M. Lemos,1
+Bigas,Javi Castellano,1
+Bigas,Dani Castellano,1
+A. Aquilani,M\u00edchel,1
+A. Aquilani,M. Lemos,1
+A. Aquilani,L. R\u00e9my,1
+L. R\u00e9my,Tana,1
+L. R\u00e9my,Vitolo,1
+Javi Castellano,L. R\u00e9my,1
+Jonathan Viera,M\u00edchel,1
+Javi Castellano,Vitolo,1
+Tana,Vitolo,1

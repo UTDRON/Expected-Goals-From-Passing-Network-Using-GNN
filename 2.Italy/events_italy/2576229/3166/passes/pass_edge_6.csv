@@ -1,0 +1,74 @@
+Source,Target,Weight
+A. Masina,S. Verdi,6
+F. Avenatti,A. Masina,6
+F. Helander,A. Mirante,5
+S. Romagnoli,F. Helander,5
+S. Verdi,A. Masina,4
+A. Masina,F. Helander,4
+F. Di Francesco,\u00c1. Nagy,4
+F. Helander,A. Masina,4
+F. Helander,S. De Maio,3
+G. Donsah,F. Helander,3
+F. Helander,S. Romagnoli,3
+\u00c1. Nagy,F. Avenatti,3
+F. Helander,F. Avenatti,3
+A. Masina,E. Pulgar,3
+A. Masina,S. De Maio,3
+E. Pulgar,F. Helander,3
+S. De Maio,S. Romagnoli,3
+S. Romagnoli,F. Di Francesco,3
+\u00c1. Nagy,F. Di Francesco,2
+S. Verdi,F. Helander,2
+F. Di Francesco,S. Verdi,2
+E. Pulgar,F. Avenatti,2
+S. Romagnoli,S. De Maio,2
+A. Mirante,F. Avenatti,2
+F. Avenatti,S. Romagnoli,2
+F. Di Francesco,G. Donsah,2
+A. Mirante,E. Pulgar,2
+S. De Maio,F. Di Francesco,2
+S. Romagnoli,\u00c1. Nagy,2
+A. Masina,G. Donsah,2
+F. Avenatti,F. Di Francesco,2
+A. Mirante,F. Helander,2
+S. De Maio,A. Masina,2
+\u00c1. Nagy,E. Pulgar,2
+S. Verdi,G. Donsah,2
+A. Masina,F. Avenatti,2
+G. Donsah,A. Masina,2
+F. Helander,S. Verdi,2
+S. Verdi,S. Romagnoli,2
+G. Donsah,S. Verdi,2
+S. Romagnoli,F. Avenatti,1
+\u00c1. Nagy,S. Romagnoli,1
+F. Avenatti,S. Verdi,1
+S. Verdi,E. Pulgar,1
+S. De Maio,S. Verdi,1
+S. Romagnoli,A. Masina,1
+F. Avenatti,S. De Maio,1
+S. De Maio,A. Mirante,1
+F. Di Francesco,S. Romagnoli,1
+S. De Maio,\u00c1. Nagy,1
+F. Avenatti,F. Helander,1
+E. Pulgar,\u00c1. Nagy,1
+S. De Maio,F. Helander,1
+\u00c1. Nagy,S. De Maio,1
+S. Verdi,A. Mirante,1
+F. Helander,G. Donsah,1
+A. Mirante,S. Romagnoli,1
+\u00c1. Nagy,G. Donsah,1
+E. Pulgar,A. Mirante,1
+S. Romagnoli,E. Pulgar,1
+G. Donsah,F. Avenatti,1
+E. Pulgar,S. Romagnoli,1
+E. Pulgar,S. De Maio,1
+E. Pulgar,G. Donsah,1
+A. Masina,S. Romagnoli,1
+S. Verdi,\u00c1. Nagy,1
+F. Avenatti,\u00c1. Nagy,1
+G. Donsah,\u00c1. Nagy,1
+F. Avenatti,G. Donsah,1
+F. Helander,E. Pulgar,1
+S. Verdi,F. Avenatti,1
+\u00c1. Nagy,F. Helander,1
+A. Mirante,A. Masina,1

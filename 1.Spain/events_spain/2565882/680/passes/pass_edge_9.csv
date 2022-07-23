@@ -1,0 +1,47 @@
+Source,Target,Weight
+L. Muriel,W. Ben Yedder,3
+S. N'Zonzi,C. Lenglet,2
+F. V\u00e1zquez,G. Pizarro,2
+C. Lenglet,G. Pizarro,2
+L. Muriel,F. V\u00e1zquez,2
+G. Mercado,S. N'Zonzi,2
+F. V\u00e1zquez,S. N'Zonzi,2
+Sergio Escudero,L. Muriel,2
+S. N'Zonzi,M. Lay\u00fan,2
+C. Lenglet,S. N'Zonzi,2
+G. Pizarro,N. Pareja,2
+M. Lay\u00fan,David Soria,2
+M. Lay\u00fan,L. Muriel,2
+N. Pareja,L. Muriel,2
+Sergio Escudero,F. V\u00e1zquez,2
+S. N'Zonzi,G. Pizarro,1
+G. Pizarro,G. Mercado,1
+N. Pareja,G. Pizarro,1
+L. Muriel,N. Pareja,1
+David Soria,Sergio Escudero,1
+N. Pareja,W. Ben Yedder,1
+W. Ben Yedder,C. Lenglet,1
+F. V\u00e1zquez,G. Mercado,1
+S. N'Zonzi,Sergio Escudero,1
+G. Pizarro,David Soria,1
+G. Pizarro,C. Lenglet,1
+David Soria,G. Pizarro,1
+G. Pizarro,M. Lay\u00fan,1
+G. Pizarro,S. N'Zonzi,1
+G. Pizarro,F. V\u00e1zquez,1
+G. Mercado,G. Pizarro,1
+S. N'Zonzi,F. V\u00e1zquez,1
+W. Ben Yedder,M. Lay\u00fan,1
+David Soria,S. N'Zonzi,1
+S. N'Zonzi,N. Pareja,1
+N. Pareja,G. Mercado,1
+W. Ben Yedder,L. Muriel,1
+David Soria,C. Lenglet,1
+F. V\u00e1zquez,Sergio Escudero,1
+L. Muriel,C. Lenglet,1
+N. Pareja,M. Lay\u00fan,1
+L. Muriel,Sergio Escudero,1
+C. Lenglet,L. Muriel,1
+M. Lay\u00fan,N. Pareja,1
+C. Lenglet,N. Pareja,1
+F. V\u00e1zquez,David Soria,1

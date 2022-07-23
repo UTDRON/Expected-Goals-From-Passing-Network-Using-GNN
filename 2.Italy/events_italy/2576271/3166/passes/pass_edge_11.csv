@@ -1,0 +1,44 @@
+Source,Target,Weight
+A. Masina,L. Crisetig,5
+A. Masina,R. Palacio,4
+L. Crisetig,B. D\u017eemaili,3
+L. Crisetig,A. Masina,3
+S. De Maio,L. Crisetig,2
+I. M'baye,L. Crisetig,2
+F. Helander,S. De Maio,2
+A. Mirante,A. Masina,2
+B. D\u017eemaili,A. Masina,2
+M. Destro,A. Masina,2
+\u00c1. Nagy,M. Destro,2
+R. Palacio,A. Poli,1
+L. Crisetig,\u00c1. Nagy,1
+M. Destro,B. D\u017eemaili,1
+I. M'baye,B. D\u017eemaili,1
+A. Poli,I. M'baye,1
+R. Palacio,S. De Maio,1
+\u00c1. Nagy,R. Palacio,1
+A. Masina,A. Mirante,1
+R. Palacio,A. Masina,1
+S. De Maio,I. M'baye,1
+R. Palacio,\u00c1. Nagy,1
+A. Masina,M. Destro,1
+\u00c1. Nagy,A. Masina,1
+B. D\u017eemaili,R. Palacio,1
+L. Crisetig,S. Verdi,1
+L. Crisetig,A. Poli,1
+A. Mirante,M. Destro,1
+M. Destro,F. Helander,1
+R. Palacio,L. Crisetig,1
+A. Poli,A. Masina,1
+I. M'baye,A. Mirante,1
+M. Destro,\u00c1. Nagy,1
+A. Masina,F. Helander,1
+B. D\u017eemaili,L. Crisetig,1
+L. Crisetig,I. M'baye,1
+L. Crisetig,F. Helander,1
+S. Verdi,I. M'baye,1
+B. D\u017eemaili,M. Destro,1
+A. Masina,\u00c1. Nagy,1
+R. Palacio,B. D\u017eemaili,1
+L. Crisetig,A. Mirante,1
+F. Helander,A. Masina,1

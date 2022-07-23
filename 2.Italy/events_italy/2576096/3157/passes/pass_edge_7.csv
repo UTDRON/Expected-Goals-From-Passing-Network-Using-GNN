@@ -1,0 +1,25 @@
+Source,Target,Weight
+G. Bonaventura,A. Romagnoli,3
+A. Romagnoli,G. Bonaventura,2
+A. Romagnoli,L. Bonucci,1
+R. Rodr\u00edguez,G. Bonaventura,1
+Andr\u00e9 Silva,G. Bonaventura,1
+G. Donnarumma,N. Kalini\u0107,1
+F. Kessi\u00e9,A. Romagnoli,1
+A. Romagnoli,G. Donnarumma,1
+F. Kessi\u00e9,Suso,1
+G. Bonaventura,Suso,1
+L. Bonucci,A. Romagnoli,1
+A. Romagnoli,F. Kessi\u00e9,1
+Suso,F. Kessi\u00e9,1
+N. Kalini\u0107,G. Donnarumma,1
+F. Kessi\u00e9,L. Bonucci,1
+G. Donnarumma,R. Rodr\u00edguez,1
+C. Zapata,F. Kessi\u00e9,1
+F. Kessi\u00e9,G. Bonaventura,1
+F. Kessi\u00e9,C. Zapata,1
+L. Bonucci,Suso,1
+R. Rodr\u00edguez,Andr\u00e9 Silva,1
+Suso,R. Rodr\u00edguez,1
+G. Bonaventura,F. Kessi\u00e9,1
+Suso,L. Bonucci,1

@@ -1,0 +1,46 @@
+Source,Target,Weight
+A. Ljaji\u0107,C. Ansaldi,4
+C. Ansaldi,J. Obi,4
+C. Ansaldi,A. Belotti,3
+L. De Silvestri,D. Baselli,3
+N. N'Koulou,L. De Silvestri,2
+A. Belotti,C. Ansaldi,2
+C. Ansaldi,A. Ljaji\u0107,2
+J. Obi,C. Ansaldi,2
+A. Belotti,N. N'Koulou,2
+N. N'Koulou,S. Sirigu,2
+L. De Silvestri,A. Ljaji\u0107,2
+L. De Silvestri,Iago Falqu\u00e9,2
+A. Ljaji\u0107,L. De Silvestri,2
+J. Obi,A. Ljaji\u0107,2
+Iago Falqu\u00e9,D. Baselli,2
+S. Sirigu,A. Belotti,1
+S. Sirigu,Iago Falqu\u00e9,1
+S. Sirigu,N. Burdisso,1
+S. Sirigu,C. Ansaldi,1
+C. Ansaldi,N. N'Koulou,1
+N. Burdisso,S. Sirigu,1
+D. Baselli,N. N'Koulou,1
+C. Ansaldi,N. Burdisso,1
+Iago Falqu\u00e9,T. Rinc\u00f3n,1
+T. Rinc\u00f3n,L. De Silvestri,1
+T. Rinc\u00f3n,C. Ansaldi,1
+C. Ansaldi,L. De Silvestri,1
+J. Obi,N. Burdisso,1
+T. Rinc\u00f3n,N. Burdisso,1
+N. Burdisso,L. De Silvestri,1
+N. Burdisso,A. Belotti,1
+D. Baselli,A. Belotti,1
+N. Burdisso,N. N'Koulou,1
+A. Belotti,L. De Silvestri,1
+N. N'Koulou,C. Ansaldi,1
+Iago Falqu\u00e9,L. De Silvestri,1
+N. Burdisso,T. Rinc\u00f3n,1
+D. Baselli,L. De Silvestri,1
+L. De Silvestri,T. Rinc\u00f3n,1
+A. Belotti,Iago Falqu\u00e9,1
+D. Baselli,Iago Falqu\u00e9,1
+L. De Silvestri,A. Belotti,1
+D. Baselli,N. Burdisso,1
+L. De Silvestri,S. Sirigu,1
+A. Belotti,J. Obi,1

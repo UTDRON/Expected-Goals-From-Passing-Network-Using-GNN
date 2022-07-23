@@ -1,0 +1,31 @@
+Source,Target,Weight
+Fernando Navarro,Juanfran,2
+Pedro Mosquera,Fernando Navarro,2
+Fernando Navarro,Sidnei,2
+Guilherme,Fernando Navarro,2
+Sidnei,Pedro Mosquera,2
+Lucas P\u00e9rez,Sidnei,1
+Adri\u00e1n L\u00f3pez,Sidnei,1
+E. \u00c7olak,Guilherme,1
+Lucas P\u00e9rez,E. \u00c7olak,1
+Lucas P\u00e9rez,Guilherme,1
+Albentosa,Adri\u00e1n L\u00f3pez,1
+Albentosa,Juanfran,1
+Albentosa,Pedro Mosquera,1
+Juanfran,Pedro Mosquera,1
+Pedro Mosquera,Juanfran,1
+Sidnei,Adri\u00e1n L\u00f3pez,1
+Juanfran,Lucas P\u00e9rez,1
+Adri\u00e1n L\u00f3pez,Fernando Navarro,1
+Juanfran,E. \u00c7olak,1
+Pedro Mosquera,Lucas P\u00e9rez,1
+Sidnei,Albentosa,1
+Guilherme,Juanfran,1
+E. \u00c7olak,Lucas P\u00e9rez,1
+Guilherme,Adri\u00e1n L\u00f3pez,1
+Adri\u00e1n L\u00f3pez,Guilherme,1
+Lucas P\u00e9rez,Pedro Mosquera,1
+Juanfran,Guilherme,1
+Pedro Mosquera,Rub\u00e9n,1
+Fernando Navarro,Albentosa,1
+Rub\u00e9n,Lucas P\u00e9rez,1

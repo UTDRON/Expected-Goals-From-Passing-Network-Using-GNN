@@ -1,0 +1,14 @@
+Source,Target,Weight
+M. Parolo,S. de Vrij,2
+Lucas Leiva,Wallace,1
+Lucas Leiva,M. Parolo,1
+S. de Vrij,M. Parolo,1
+S. de Vrij,D. Basta,1
+D. Basta,M. Parolo,1
+M. Parolo,Nani,1
+T. Strakosha,Lucas Leiva,1
+S. de Vrij,Wallace,1
+Wallace,T. Strakosha,1
+Wallace,M. Parolo,1
+M. Parolo,D. Basta,1
+D. Basta,Lucas Leiva,1

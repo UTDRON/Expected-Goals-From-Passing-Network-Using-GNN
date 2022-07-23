@@ -1,0 +1,12 @@
+Source,Target,Weight
+F. Acerbi,F. Peluso,1
+F. Acerbi,Pol Lirola,1
+S. Missiroli,M. Politano,1
+C. Dell'Orco,S. Missiroli,1
+F. Peluso,C. Dell'Orco,1
+M. Politano,F. Acerbi,1
+F. Cassata,F. Acerbi,1
+Pol Lirola,M. Politano,1
+F. Magnanelli,F. Cassata,1
+M. Politano,F. Magnanelli,1
+C. Dell'Orco,M. Politano,1

@@ -1,0 +1,16 @@
+Source,Target,Weight
+Muniain,Iturraspe,3
+Iturraspe,Lekue,2
+Lekue,Muniain,1
+Lekue,Iturraspe,1
+Aduriz,Iturraspe,1
+I\u00f1igo C\u00f3rdoba,Yeray,1
+Yeray,I\u00f1aki Williams,1
+Iturraspe,Aduriz,1
+I\u00f1igo C\u00f3rdoba,Muniain,1
+Lekue,I\u00f1igo C\u00f3rdoba,1
+Iturraspe,Yeray,1
+I\u00f1aki Williams,Lekue,1
+Yeray,Unai N\u00fa\u00f1ez,1
+Unai N\u00fa\u00f1ez,Lekue,1
+Iturraspe,Muniain,1

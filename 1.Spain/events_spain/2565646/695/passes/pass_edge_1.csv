@@ -1,0 +1,78 @@
+Source,Target,Weight
+Ivi,Luna,8
+Luna,\u00c1lex Alegr\u00eda,7
+Ra\u00fal Fern\u00e1ndez,\u00c1lex Alegr\u00eda,6
+Jos\u00e9 Luis Morales,Luna,4
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,4
+J. Lerma,E. Bardhi,4
+\u00c1lex Alegr\u00eda,Ivi,4
+\u00c1lex Alegr\u00eda,Luna,4
+Ivi,Jos\u00e9 Luis Morales,4
+Jos\u00e9 Luis Morales,Sergio Postigo,4
+\u00c1lex Alegr\u00eda,Sergio Postigo,4
+Ivi,Chema,4
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,4
+Luna,Campa\u00f1a,4
+Pedro L\u00f3pez,\u00c1lex Alegr\u00eda,4
+E. Bardhi,J. Lerma,3
+Sergio Postigo,Jos\u00e9 Luis Morales,3
+J. Lerma,Jos\u00e9 Luis Morales,3
+\u00c1lex Alegr\u00eda,Jos\u00e9 Luis Morales,3
+E. Bardhi,Ivi,3
+Luna,Ivi,3
+Luna,Ra\u00fal Fern\u00e1ndez,3
+Jos\u00e9 Luis Morales,Ivi,3
+Campa\u00f1a,Ivi,3
+E. Bardhi,Pedro L\u00f3pez,3
+Chema,Ivi,3
+Jos\u00e9 Luis Morales,J. Lerma,3
+Chema,J. Lerma,3
+J. Lerma,Pedro L\u00f3pez,2
+Sergio Postigo,Pedro L\u00f3pez,2
+Luna,J. Lerma,2
+Campa\u00f1a,Chema,2
+\u00c1lex Alegr\u00eda,Campa\u00f1a,2
+\u00c1lex Alegr\u00eda,E. Bardhi,2
+E. Bardhi,Ra\u00fal Fern\u00e1ndez,2
+J. Lerma,\u00c1lex Alegr\u00eda,2
+Ivi,Campa\u00f1a,2
+\u00c1lex Alegr\u00eda,J. Lerma,2
+Pedro L\u00f3pez,E. Bardhi,2
+Sergio Postigo,Ra\u00fal Fern\u00e1ndez,2
+Campa\u00f1a,E. Bardhi,2
+E. Bardhi,Jos\u00e9 Luis Morales,2
+Ivi,J. Lerma,1
+E. Bardhi,Luna,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+Sergio Postigo,\u00c1lex Alegr\u00eda,1
+\u00c1lex Alegr\u00eda,Chema,1
+Luna,E. Bardhi,1
+Jos\u00e9 Luis Morales,Chema,1
+Jos\u00e9 Luis Morales,\u00c1lex Alegr\u00eda,1
+\u00c1lex Alegr\u00eda,Ra\u00fal Fern\u00e1ndez,1
+Ivi,Sergio Postigo,1
+J. Lerma,Luna,1
+Luna,Chema,1
+Sergio Postigo,Ivi,1
+Chema,\u00c1lex Alegr\u00eda,1
+Campa\u00f1a,Luna,1
+Pedro L\u00f3pez,Luna,1
+J. Lerma,Sergio Postigo,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+Luna,Jos\u00e9 Luis Morales,1
+Ivi,\u00c1lex Alegr\u00eda,1
+Ivi,E. Bardhi,1
+Chema,Luna,1
+Chema,Ra\u00fal Fern\u00e1ndez,1
+Sergio Postigo,J. Lerma,1
+Chema,Pedro L\u00f3pez,1
+Pedro L\u00f3pez,J. Lerma,1
+J. Lerma,Ivi,1
+Pedro L\u00f3pez,Ivi,1
+Ra\u00fal Fern\u00e1ndez,Pedro L\u00f3pez,1
+J. Lerma,Chema,1
+Ra\u00fal Fern\u00e1ndez,Luna,1
+Ra\u00fal Fern\u00e1ndez,E. Bardhi,1
+J. Lerma,Ra\u00fal Fern\u00e1ndez,1
+Ra\u00fal Fern\u00e1ndez,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,E. Bardhi,1

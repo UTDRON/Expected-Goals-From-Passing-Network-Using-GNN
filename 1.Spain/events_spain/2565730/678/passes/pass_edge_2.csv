@@ -1,0 +1,93 @@
+Source,Target,Weight
+A. Laporte,Saborit,11
+Saborit,A. Laporte,10
+Lekue,Iturraspe,9
+Lekue,I\u00f1aki Williams,8
+Saborit,Mikel Rico,7
+Mikel Rico,Susaeta,6
+Ra\u00fal Garc\u00eda,Iturraspe,6
+Lekue,Unai N\u00fa\u00f1ez,6
+I\u00f1aki Williams,Lekue,6
+Iturraspe,I\u00f1aki Williams,6
+Iturraspe,Lekue,6
+A. Laporte,Unai N\u00fa\u00f1ez,5
+Mikel Rico,Ra\u00fal Garc\u00eda,5
+Unai N\u00fa\u00f1ez,Lekue,5
+I\u00f1aki Williams,Mikel Rico,5
+Mikel Rico,Saborit,5
+Mikel Rico,Lekue,5
+Iturraspe,Unai N\u00fa\u00f1ez,4
+A. Laporte,Iturraspe,4
+Ra\u00fal Garc\u00eda,A. Laporte,4
+Susaeta,Lekue,4
+Unai N\u00fa\u00f1ez,Iturraspe,4
+Saborit,Susaeta,4
+Iturraspe,A. Laporte,4
+A. Laporte,Lekue,4
+Susaeta,A. Laporte,4
+Iturraspe,Ra\u00fal Garc\u00eda,3
+Susaeta,Ra\u00fal Garc\u00eda,3
+Mikel Rico,A. Laporte,3
+Lekue,Aduriz,3
+Unai N\u00fa\u00f1ez,Mikel Rico,3
+Unai N\u00fa\u00f1ez,Susaeta,3
+Iturraspe,Mikel Rico,3
+Saborit,Ra\u00fal Garc\u00eda,3
+Ra\u00fal Garc\u00eda,Unai N\u00fa\u00f1ez,3
+Susaeta,Saborit,3
+A. Laporte,Mikel Rico,3
+Unai N\u00fa\u00f1ez,Saborit,3
+Mikel Rico,Iturraspe,3
+Ra\u00fal Garc\u00eda,Mikel Rico,3
+Lekue,A. Laporte,3
+Ra\u00fal Garc\u00eda,Lekue,3
+I\u00f1aki Williams,Ra\u00fal Garc\u00eda,3
+A. Laporte,Ra\u00fal Garc\u00eda,2
+Mikel Rico,I\u00f1aki Williams,2
+Susaeta,Mikel Rico,2
+Iturraspe,Iago Herrer\u00edn,2
+Aduriz,Lekue,2
+A. Laporte,Susaeta,2
+Ra\u00fal Garc\u00eda,Saborit,2
+Lekue,Mikel Rico,2
+Lekue,Ra\u00fal Garc\u00eda,2
+Susaeta,Iturraspe,2
+Iturraspe,Susaeta,2
+I\u00f1aki Williams,Iturraspe,2
+Lekue,Susaeta,2
+Iago Herrer\u00edn,Lekue,2
+Aduriz,Ra\u00fal Garc\u00eda,2
+Iturraspe,Saborit,2
+Iago Herrer\u00edn,A. Laporte,2
+I\u00f1aki Williams,Unai N\u00fa\u00f1ez,2
+Ra\u00fal Garc\u00eda,Iago Herrer\u00edn,2
+Unai N\u00fa\u00f1ez,I\u00f1aki Williams,2
+Aduriz,Mikel Rico,1
+Unai N\u00fa\u00f1ez,Iago Herrer\u00edn,1
+Susaeta,Unai N\u00fa\u00f1ez,1
+Iago Herrer\u00edn,Saborit,1
+A. Laporte,Iago Herrer\u00edn,1
+Iturraspe,Aduriz,1
+I\u00f1aki Williams,Saborit,1
+Saborit,Iago Herrer\u00edn,1
+Ra\u00fal Garc\u00eda,Susaeta,1
+Saborit,I\u00f1aki Williams,1
+Unai N\u00fa\u00f1ez,Aduriz,1
+I\u00f1aki Williams,A. Laporte,1
+Saborit,Iturraspe,1
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,1
+Lekue,Iago Herrer\u00edn,1
+Aduriz,Unai N\u00fa\u00f1ez,1
+Lekue,Saborit,1
+Ra\u00fal Garc\u00eda,Aduriz,1
+Saborit,Aduriz,1
+Iago Herrer\u00edn,Ra\u00fal Garc\u00eda,1
+Saborit,Unai N\u00fa\u00f1ez,1
+Susaeta,I\u00f1aki Williams,1
+Iago Herrer\u00edn,Mikel Rico,1
+Unai N\u00fa\u00f1ez,A. Laporte,1
+Iago Herrer\u00edn,Unai N\u00fa\u00f1ez,1
+Mikel Rico,Aduriz,1
+Susaeta,Aduriz,1
+Aduriz,Susaeta,1
+Aduriz,Iturraspe,1

@@ -1,0 +1,56 @@
+Source,Target,Weight
+Bigas,Jonathan Viera,5
+Bigas,David Garc\u00eda,5
+A. Aquilani,Momo,4
+David Garc\u00eda,A. Aquilani,4
+Momo,Bigas,4
+David Garc\u00eda,Bigas,4
+Borja Herrera,Bigas,4
+Jonathan Viera,Momo,4
+Hern\u00e1n,Bigas,3
+M\u00edchel,David Garc\u00eda,3
+David Garc\u00eda,L. Chichizola,3
+Bigas,L. Chichizola,3
+J. Calleri,Jonathan Viera,3
+Bigas,Borja Herrera,3
+Borja Herrera,Jonathan Viera,3
+Jonathan Viera,David Garc\u00eda,3
+Momo,Borja Herrera,3
+Momo,Jonathan Viera,3
+A. Aquilani,Hern\u00e1n,3
+M\u00edchel,Borja Herrera,3
+Bigas,A. Aquilani,2
+L. Chichizola,Hern\u00e1n,2
+L. Chichizola,M\u00edchel,2
+Hern\u00e1n,A. Aquilani,2
+J. Calleri,A. Aquilani,2
+Borja Herrera,Momo,2
+L. Chichizola,Bigas,2
+Bigas,Momo,2
+Borja Herrera,J. Calleri,2
+Jonathan Viera,Borja Herrera,2
+O. Tannane,Momo,1
+J. Calleri,Bigas,1
+Jonathan Viera,J. Calleri,1
+Momo,Hern\u00e1n,1
+J. Calleri,Borja Herrera,1
+Hern\u00e1n,J. Calleri,1
+Jonathan Viera,A. Aquilani,1
+Jonathan Viera,L. Chichizola,1
+Momo,A. Aquilani,1
+Borja Herrera,M\u00edchel,1
+A. Aquilani,Borja Herrera,1
+L. Chichizola,David Garc\u00eda,1
+Bigas,O. Tannane,1
+A. Aquilani,Bigas,1
+Jonathan Viera,O. Tannane,1
+A. Aquilani,David Garc\u00eda,1
+A. Aquilani,J. Calleri,1
+David Garc\u00eda,M\u00edchel,1
+Borja Herrera,David Garc\u00eda,1
+Jonathan Viera,Bigas,1
+Momo,J. Calleri,1
+Jonathan Viera,M\u00edchel,1
+A. Aquilani,M\u00edchel,1
+David Garc\u00eda,J. Calleri,1
+O. Tannane,Jonathan Viera,1

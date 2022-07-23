@@ -1,0 +1,43 @@
+Source,Target,Weight
+F. Fazio,H. Moreno,8
+H. Moreno,F. Fazio,8
+F. Fazio,R. Karsdorp,4
+H. Moreno,Gerson,4
+A. Kolarov,H. Moreno,4
+R. Karsdorp,R. Nainggolan,3
+Gerson,D. Perotti,3
+D. Perotti,A. Kolarov,3
+R. Nainggolan,R. Karsdorp,3
+D. Perotti,Gerson,3
+R. Karsdorp,C. \u00dcnder,3
+H. Moreno,A. Kolarov,3
+A. Kolarov,D. Perotti,2
+Gerson,M. Gonalons,2
+Gerson,A. Kolarov,2
+C. \u00dcnder,R. Nainggolan,2
+A. Kolarov,R. Karsdorp,2
+M. Gonalons,F. Fazio,2
+R. Karsdorp,F. Fazio,2
+M. Gonalons,H. Moreno,2
+R. Nainggolan,H. Moreno,2
+C. \u00dcnder,A. Kolarov,2
+H. Moreno,D. Perotti,2
+H. Moreno,M. Gonalons,1
+D. Perotti,R. Karsdorp,1
+R. Karsdorp,D. Perotti,1
+H. Moreno,R. Nainggolan,1
+F. Fazio,R. Nainggolan,1
+A. Kolarov,C. \u00dcnder,1
+E. D\u017eeko,D. Perotti,1
+D. Perotti,E. D\u017eeko,1
+D. Perotti,M. Gonalons,1
+M. Gonalons,R. Nainggolan,1
+D. Perotti,H. Moreno,1
+R. Karsdorp,H. Moreno,1
+R. Nainggolan,A. Kolarov,1
+A. Kolarov,M. Gonalons,1
+R. Karsdorp,Alisson,1
+R. Nainggolan,C. \u00dcnder,1
+Alisson,R. Karsdorp,1
+C. \u00dcnder,H. Moreno,1
+R. Nainggolan,D. Perotti,1

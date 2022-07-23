@@ -1,0 +1,24 @@
+Source,Target,Weight
+M. Politano,A. Duncan,2
+D. Berardi,M. Politano,2
+Pol Lirola,S. Missiroli,1
+A. Matri,Pol Lirola,1
+A. Matri,S. Missiroli,1
+F. Magnanelli,A. Matri,1
+F. Magnanelli,Pol Lirola,1
+S. Missiroli,F. Magnanelli,1
+S. Missiroli,E. Goldaniga,1
+F. Peluso,F. Acerbi,1
+F. Acerbi,F. Peluso,1
+F. Acerbi,Pol Lirola,1
+Pol Lirola,D. Berardi,1
+E. Goldaniga,S. Missiroli,1
+D. Berardi,F. Acerbi,1
+M. Politano,F. Magnanelli,1
+A. Duncan,F. Peluso,1
+S. Missiroli,M. Politano,1
+S. Missiroli,D. Berardi,1
+F. Acerbi,E. Goldaniga,1
+Pol Lirola,F. Acerbi,1
+F. Peluso,A. Matri,1
+E. Goldaniga,D. Berardi,1

@@ -1,0 +1,49 @@
+Source,Target,Weight
+B. Martella,A. Nalini,4
+F. Ceccherini,B. Martella,4
+A. Stoian,B. Martella,3
+B. Martella,A. Stoian,3
+B. Martella,F. Ceccherini,2
+A. Nalini,M. Rohd\u00e9n,2
+A. Nalini,A. Barberis,2
+M. Rohd\u00e9n,Simy,2
+M. Rohd\u00e9n,R. Mandragora,2
+Simy,F. Ceccherini,2
+A. Barberis,B. Martella,2
+Simy,B. Martella,2
+A. Stoian,Simy,2
+R. Mandragora,M. Rohd\u00e9n,1
+M. Rohd\u00e9n,A. Nalini,1
+A. Ajeti,Simy,1
+M. Sampirisi,A. Ajeti,1
+A. Nalini,M. Sampirisi,1
+A. Barberis,F. Ceccherini,1
+R. Mandragora,Simy,1
+A. Barberis,A. Nalini,1
+M. Sampirisi,M. Rohd\u00e9n,1
+A. Ajeti,F. Ceccherini,1
+F. Ceccherini,A. Cordaz,1
+A. Cordaz,M. Rohd\u00e9n,1
+A. Stoian,M. Sampirisi,1
+B. Martella,M. Rohd\u00e9n,1
+F. Ceccherini,M. Sampirisi,1
+F. Ceccherini,A. Barberis,1
+M. Rohd\u00e9n,A. Ajeti,1
+A. Nalini,F. Ceccherini,1
+R. Mandragora,A. Stoian,1
+M. Sampirisi,R. Mandragora,1
+Simy,A. Stoian,1
+A. Cordaz,A. Stoian,1
+Simy,R. Mandragora,1
+A. Cordaz,M. Sampirisi,1
+A. Barberis,A. Cordaz,1
+B. Martella,Simy,1
+R. Mandragora,A. Cordaz,1
+R. Mandragora,B. Martella,1
+B. Martella,R. Mandragora,1
+M. Sampirisi,B. Martella,1
+A. Ajeti,R. Mandragora,1
+A. Nalini,A. Stoian,1
+Simy,A. Nalini,1
+B. Martella,A. Barberis,1
+R. Mandragora,A. Ajeti,1

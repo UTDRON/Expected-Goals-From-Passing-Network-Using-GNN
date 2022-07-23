@@ -1,0 +1,12 @@
+Source,Target,Weight
+D. Faraoni,M. Trotta,1
+Simy,B. Martella,1
+A. Stoian,A. Ajeti,1
+D. Faraoni,A. Stoian,1
+M. Trotta,F. Ceccherini,1
+B. Martella,Simy,1
+F. Ricci,D. Faraoni,1
+B. Martella,F. Ceccherini,1
+Simy,F. Ricci,1
+A. Ajeti,Simy,1
+F. Ceccherini,B. Martella,1

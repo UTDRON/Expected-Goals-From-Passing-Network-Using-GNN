@@ -1,0 +1,45 @@
+Source,Target,Weight
+Illarramendi,Ra\u00fal Navas,8
+Ra\u00fal Navas,Illarramendi,8
+H. Moreno,G. Rulli,5
+Ra\u00fal Navas,Rub\u00e9n Pardo,4
+G. Rulli,Ra\u00fal Navas,4
+Rub\u00e9n Pardo,Illarramendi,4
+H. Moreno,Ra\u00fal Navas,4
+Illarramendi,H. Moreno,4
+Illarramendi,Canales,3
+Ra\u00fal Navas,Odriozola,3
+G. Rulli,H. Moreno,3
+Odriozola,Illarramendi,2
+H. Moreno,K\u00e9vin Rodrigues,2
+Odriozola,Juanmi,2
+Illarramendi,Willian Jos\u00e9,2
+K\u00e9vin Rodrigues,H. Moreno,2
+Rub\u00e9n Pardo,H. Moreno,2
+H. Moreno,Illarramendi,2
+Mikel Oyarzabal,K\u00e9vin Rodrigues,2
+Willian Jos\u00e9,Rub\u00e9n Pardo,1
+H. Moreno,Rub\u00e9n Pardo,1
+Canales,H. Moreno,1
+Odriozola,Ra\u00fal Navas,1
+Willian Jos\u00e9,H. Moreno,1
+Ra\u00fal Navas,Canales,1
+Ra\u00fal Navas,Juanmi,1
+Illarramendi,Mikel Oyarzabal,1
+Juanmi,Ra\u00fal Navas,1
+Canales,Odriozola,1
+Ra\u00fal Navas,H. Moreno,1
+Ra\u00fal Navas,K\u00e9vin Rodrigues,1
+K\u00e9vin Rodrigues,Rub\u00e9n Pardo,1
+Willian Jos\u00e9,Canales,1
+Rub\u00e9n Pardo,Mikel Oyarzabal,1
+Canales,Rub\u00e9n Pardo,1
+Canales,Ra\u00fal Navas,1
+Rub\u00e9n Pardo,Odriozola,1
+Juanmi,Illarramendi,1
+Ra\u00fal Navas,Willian Jos\u00e9,1
+K\u00e9vin Rodrigues,Mikel Oyarzabal,1
+Mikel Oyarzabal,G. Rulli,1
+Canales,Illarramendi,1
+K\u00e9vin Rodrigues,Ra\u00fal Navas,1
+Illarramendi,G. Rulli,1

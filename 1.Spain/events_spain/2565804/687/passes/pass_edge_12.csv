@@ -1,0 +1,39 @@
+Source,Target,Weight
+De La Bella,H. Moreno,4
+H. Moreno,Jon Guridi,3
+De La Bella,A. Januzaj,2
+Jon Guridi,Canales,2
+Canales,De La Bella,2
+Zubeld\u00eda,De La Bella,2
+Jon Guridi,H. Moreno,2
+Jon Guridi,A. Januzaj,2
+Canales,Zubeld\u00eda,2
+H. Moreno,De La Bella,2
+Canales,Jon Guridi,2
+H. Moreno,Canales,2
+Canales,Odriozola,2
+A. Januzaj,Canales,2
+H. Moreno,Moy\u00e0,1
+Diego Llorente,Canales,1
+Mikel Oyarzabal,H. Moreno,1
+Odriozola,Diego Llorente,1
+Illarramendi,De La Bella,1
+De La Bella,Mikel Oyarzabal,1
+Zubeld\u00eda,A. Januzaj,1
+Odriozola,Mikel Oyarzabal,1
+De La Bella,Canales,1
+Moy\u00e0,Mikel Oyarzabal,1
+Illarramendi,Canales,1
+De La Bella,Zubeld\u00eda,1
+A. Januzaj,Jon Guridi,1
+H. Moreno,Illarramendi,1
+Odriozola,De La Bella,1
+Mikel Oyarzabal,De La Bella,1
+A. Januzaj,Zubeld\u00eda,1
+Zubeld\u00eda,H. Moreno,1
+De La Bella,Odriozola,1
+Canales,Moy\u00e0,1
+Mikel Oyarzabal,Canales,1
+Moy\u00e0,De La Bella,1
+Canales,Illarramendi,1
+A. Januzaj,Illarramendi,1

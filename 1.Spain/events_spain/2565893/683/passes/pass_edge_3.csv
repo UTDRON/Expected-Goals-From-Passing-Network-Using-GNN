@@ -1,0 +1,59 @@
+Source,Target,Weight
+M. Lestienne,Miquel,3
+Diego Gonz\u00e1lez,Roberto,3
+Luis Hern\u00e1ndez,R. Rosales,3
+Luis Hern\u00e1ndez,Diego Gonz\u00e1lez,3
+Y. En-Nesyri,Luis Hern\u00e1ndez,3
+R. Rosales,I. Success,3
+Luis Hern\u00e1ndez,Adri\u00e1n,2
+M. Lacen,M. Lestienne,2
+Adri\u00e1n,Luis Hern\u00e1ndez,2
+Y. En-Nesyri,Miquel,2
+R. Rosales,Luis Hern\u00e1ndez,2
+I. Success,Adri\u00e1n,2
+M. Lacen,R. Rosales,2
+Miquel,Y. En-Nesyri,2
+Roberto,I. Success,2
+Luis Hern\u00e1ndez,Roberto,2
+Adri\u00e1n,M. Lestienne,2
+Diego Gonz\u00e1lez,Adri\u00e1n,2
+Adri\u00e1n,Diego Gonz\u00e1lez,2
+Adri\u00e1n,M. Lacen,1
+Roberto,R. Rosales,1
+M. Lacen,I. Success,1
+Diego Gonz\u00e1lez,M. Lestienne,1
+M. Lacen,D. Rol\u00e1n,1
+Diego Gonz\u00e1lez,M. Lacen,1
+Roberto,M. Lacen,1
+D. Rol\u00e1n,M. Lacen,1
+Y. En-Nesyri,M. Lacen,1
+Roberto,M. Lestienne,1
+I. Success,Y. En-Nesyri,1
+M. Lacen,Y. En-Nesyri,1
+I. Success,Luis Hern\u00e1ndez,1
+Luis Hern\u00e1ndez,Miquel,1
+I. Success,Diego Gonz\u00e1lez,1
+M. Lacen,Luis Hern\u00e1ndez,1
+M. Lestienne,Adri\u00e1n,1
+Miquel,M. Lacen,1
+M. Lestienne,M. Lacen,1
+M. Lestienne,Y. En-Nesyri,1
+Miquel,Adri\u00e1n,1
+Diego Gonz\u00e1lez,Y. En-Nesyri,1
+I. Success,M. Lacen,1
+I. Success,Miquel,1
+M. Lestienne,Luis Hern\u00e1ndez,1
+R. Rosales,M. Lacen,1
+Miquel,R. Rosales,1
+Miquel,M. Lestienne,1
+D. Rol\u00e1n,Miquel,1
+Adri\u00e1n,Y. En-Nesyri,1
+M. Lestienne,D. Rol\u00e1n,1
+Luis Hern\u00e1ndez,I. Success,1
+Miquel,Luis Hern\u00e1ndez,1
+Miquel,Diego Gonz\u00e1lez,1
+Miquel,D. Rol\u00e1n,1
+R. Rosales,M. Lestienne,1
+Adri\u00e1n,Miquel,1
+D. Rol\u00e1n,Adri\u00e1n,1
+M. Lacen,Diego Gonz\u00e1lez,1

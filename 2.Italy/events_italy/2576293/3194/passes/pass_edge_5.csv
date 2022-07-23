@@ -1,0 +1,55 @@
+Source,Target,Weight
+E. Bearzotti,R\u00f4mulo,3
+A. Caracciolo,J. Vukovi\u0107,3
+A. Danzi,R\u00f4mulo,3
+E. Bearzotti,A. Caracciolo,2
+R\u00f4mulo,J. Vukovi\u0107,2
+R\u00f4mulo,A. Caracciolo,2
+A. Caracciolo,A. Danzi,2
+A. Danzi,A. Caracciolo,2
+J. Vukovi\u0107,M. Valoti,2
+J. Vukovi\u0107,S. Souprayen,2
+S. Souprayen,M. Valoti,2
+A. Caracciolo,E. Bearzotti,2
+Ryder Matos,A. Danzi,1
+M. Valoti,A. Danzi,1
+Nicolas,A. Caracciolo,1
+Ryder Matos,M. Valoti,1
+S. Souprayen,A. Caracciolo,1
+A. Danzi,M. Valoti,1
+J. Vukovi\u0107,E. Bearzotti,1
+M. Valoti,S. Souprayen,1
+A. Danzi,Nicolas,1
+R\u00f4mulo,Nicolas,1
+J. Vukovi\u0107,Ryder Matos,1
+M. Fares,Nicolas,1
+M. Fares,E. Bearzotti,1
+A. Danzi,S. Souprayen,1
+Nicolas,A. Cerci,1
+E. Bearzotti,Nicolas,1
+M. Fares,A. Cerci,1
+R\u00f4mulo,Ryder Matos,1
+E. Bearzotti,A. Danzi,1
+A. Cerci,Ryder Matos,1
+M. Fares,J. Vukovi\u0107,1
+S. Souprayen,A. Danzi,1
+J. Vukovi\u0107,M. Fares,1
+A. Cerci,M. Valoti,1
+J. Vukovi\u0107,A. Danzi,1
+Ryder Matos,A. Cerci,1
+A. Cerci,M. Fares,1
+M. Valoti,M. Fares,1
+M. Valoti,Ryder Matos,1
+M. Valoti,E. Bearzotti,1
+A. Danzi,J. Vukovi\u0107,1
+Nicolas,E. Bearzotti,1
+Nicolas,J. Vukovi\u0107,1
+Nicolas,A. Danzi,1
+R\u00f4mulo,A. Danzi,1
+M. Valoti,A. Caracciolo,1
+E. Bearzotti,J. Vukovi\u0107,1
+A. Caracciolo,M. Fares,1
+Ryder Matos,E. Bearzotti,1
+A. Caracciolo,Nicolas,1
+J. Vukovi\u0107,R\u00f4mulo,1
+R\u00f4mulo,E. Bearzotti,1

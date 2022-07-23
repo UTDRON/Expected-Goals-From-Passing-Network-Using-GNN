@@ -1,0 +1,24 @@
+Source,Target,Weight
+Carlos Isaac,Sa\u00fal,4
+Thomas,Gabi,2
+Koke,Gabi,2
+Gabi,Carlos Isaac,2
+Sa\u00fal,Carlos Isaac,2
+Gabi,Thomas,2
+Sa\u00fal,Gabi,2
+L. Hern\u00e1ndez,K. Gameiro,1
+Gabi,D. God\u00edn,1
+Gabi,\u00c1. Correa,1
+Carlos Isaac,Gabi,1
+Carlos Isaac,Koke,1
+S. Savi\u0107,Carlos Isaac,1
+K. Gameiro,Carlos Isaac,1
+Thomas,L. Hern\u00e1ndez,1
+K. Gameiro,Thomas,1
+Gabi,K. Gameiro,1
+Sa\u00fal,\u00c1. Correa,1
+\u00c1. Correa,Sa\u00fal,1
+D. God\u00edn,L. Hern\u00e1ndez,1
+\u00c1. Correa,Thomas,1
+L. Hern\u00e1ndez,Koke,1
+Sa\u00fal,S. Savi\u0107,1

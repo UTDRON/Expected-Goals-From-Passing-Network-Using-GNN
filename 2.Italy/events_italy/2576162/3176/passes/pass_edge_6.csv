@@ -1,0 +1,27 @@
+Source,Target,Weight
+V. Laurini,G. Pezzella,5
+Vitor Hugo,C. Biraghi,4
+C. Biraghi,Vitor Hugo,3
+G. Pezzella,Vitor Hugo,3
+Vitor Hugo,M. Benassi,2
+V. Eysseric,Vitor Hugo,2
+G. Pezzella,V. Laurini,2
+M. Benassi,M. Badelj,2
+Vitor Hugo,V. Laurini,1
+M. Sportiello,V. Laurini,1
+K. Babacar,V. Eysseric,1
+M. Badelj,K. Babacar,1
+C. Biraghi,V. Laurini,1
+M. Sportiello,V. Eysseric,1
+C. Biraghi,V. Eysseric,1
+G. Pezzella,M. Badelj,1
+M. Badelj,Vitor Hugo,1
+V. Laurini,M. Benassi,1
+M. Benassi,G. Pezzella,1
+M. Benassi,V. Laurini,1
+M. Badelj,M. Benassi,1
+V. Eysseric,C. Biraghi,1
+G. Pezzella,M. Benassi,1
+Vitor Hugo,G. Pezzella,1
+C. Biraghi,M. Sportiello,1
+Vitor Hugo,M. Sportiello,1

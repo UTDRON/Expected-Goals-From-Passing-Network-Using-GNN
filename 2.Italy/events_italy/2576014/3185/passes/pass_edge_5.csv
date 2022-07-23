@@ -1,0 +1,68 @@
+Source,Target,Weight
+C. Ansaldi,Lyanco,7
+T. Rinc\u00f3n,A. Ljaji\u0107,5
+Lyanco,T. Rinc\u00f3n,5
+Lyanco,C. Ansaldi,5
+A. Ljaji\u0107,C. Ansaldi,5
+C. Ansaldi,A. Ljaji\u0107,5
+C. Ansaldi,T. Rinc\u00f3n,4
+L. De Silvestri,M. Niang,4
+A. Acquah,C. Ansaldi,4
+M. Niang,L. De Silvestri,4
+T. Rinc\u00f3n,Lyanco,4
+A. Acquah,Lyanco,4
+L. De Silvestri,N. N'Koulou,3
+L. De Silvestri,T. Rinc\u00f3n,3
+T. Rinc\u00f3n,A. Acquah,3
+Lyanco,A. Acquah,3
+A. Belotti,C. Ansaldi,3
+S. Sirigu,N. N'Koulou,3
+A. Ljaji\u0107,T. Rinc\u00f3n,3
+Lyanco,L. De Silvestri,3
+N. N'Koulou,T. Rinc\u00f3n,2
+A. Ljaji\u0107,A. Belotti,2
+M. Niang,A. Acquah,2
+M. Niang,S. Sirigu,2
+C. Ansaldi,S. Sirigu,2
+N. N'Koulou,A. Acquah,2
+N. N'Koulou,L. De Silvestri,2
+A. Acquah,M. Niang,2
+N. N'Koulou,M. Niang,2
+S. Sirigu,L. De Silvestri,2
+Lyanco,N. N'Koulou,2
+T. Rinc\u00f3n,N. N'Koulou,2
+A. Acquah,N. N'Koulou,2
+N. N'Koulou,Lyanco,2
+T. Rinc\u00f3n,L. De Silvestri,2
+T. Rinc\u00f3n,C. Ansaldi,2
+A. Acquah,A. Belotti,2
+N. N'Koulou,S. Sirigu,2
+A. Belotti,A. Acquah,2
+C. Ansaldi,A. Acquah,2
+M. Niang,A. Belotti,1
+S. Sirigu,M. Niang,1
+A. Belotti,M. Niang,1
+M. Niang,C. Ansaldi,1
+A. Ljaji\u0107,A. Acquah,1
+C. Ansaldi,A. Belotti,1
+M. Niang,T. Rinc\u00f3n,1
+T. Rinc\u00f3n,A. Belotti,1
+A. Acquah,S. Sirigu,1
+A. Ljaji\u0107,M. Niang,1
+L. De Silvestri,A. Belotti,1
+S. Sirigu,A. Ljaji\u0107,1
+S. Sirigu,A. Acquah,1
+N. N'Koulou,C. Ansaldi,1
+A. Belotti,S. Sirigu,1
+A. Acquah,T. Rinc\u00f3n,1
+A. Belotti,A. Ljaji\u0107,1
+S. Sirigu,Lyanco,1
+A. Ljaji\u0107,N. N'Koulou,1
+Lyanco,S. Sirigu,1
+L. De Silvestri,A. Acquah,1
+A. Acquah,A. Ljaji\u0107,1
+L. De Silvestri,S. Sirigu,1
+A. Ljaji\u0107,L. De Silvestri,1
+S. Sirigu,C. Ansaldi,1
+M. Niang,Lyanco,1
+C. Ansaldi,M. Niang,1

@@ -1,0 +1,20 @@
+Source,Target,Weight
+L. Castro,S. Bastien,3
+F. Cacciatore,V. Birsa,2
+F. Cacciatore,P. Hetemaj,2
+S. Bastien,F. Cacciatore,2
+P. Hetemaj,F. Cacciatore,2
+V. Birsa,P. Hetemaj,1
+S. Sorrentino,V. Birsa,1
+V. Birsa,F. Cacciatore,1
+P. Hetemaj,S. Sorrentino,1
+P. Hetemaj,N. Tomovi\u0107,1
+M. Gobbi,P. Hetemaj,1
+V. Birsa,S. Bastien,1
+F. Cacciatore,L. Castro,1
+V. Birsa,L. Castro,1
+S. Bastien,V. Birsa,1
+I. Radovanovi\u0107,V. Birsa,1
+S. Bastien,L. Castro,1
+V. Birsa,N. Tomovi\u0107,1
+N. Tomovi\u0107,M. Gobbi,1

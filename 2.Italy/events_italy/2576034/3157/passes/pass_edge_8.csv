@@ -1,0 +1,25 @@
+Source,Target,Weight
+L. Bonucci,M. Musacchio,3
+M. Musacchio,Andr\u00e9 Silva,3
+F. Borini,P. Cutrone,2
+F. Borini,G. Bonaventura,2
+P. Cutrone,R. Rodr\u00edguez,2
+A. Romagnoli,R. Rodr\u00edguez,1
+G. Bonaventura,R. Rodr\u00edguez,1
+Andr\u00e9 Silva,F. Borini,1
+L. Biglia,F. Borini,1
+Andr\u00e9 Silva,M. Musacchio,1
+R. Rodr\u00edguez,G. Bonaventura,1
+G. Bonaventura,L. Bonucci,1
+R. Rodr\u00edguez,A. Romagnoli,1
+G. Bonaventura,P. Cutrone,1
+A. Romagnoli,L. Bonucci,1
+Andr\u00e9 Silva,Suso,1
+R. Rodr\u00edguez,L. Biglia,1
+P. Cutrone,F. Borini,1
+R. Rodr\u00edguez,L. Bonucci,1
+Suso,R. Rodr\u00edguez,1
+L. Biglia,G. Bonaventura,1
+G. Bonaventura,A. Romagnoli,1
+M. Musacchio,L. Biglia,1
+R. Rodr\u00edguez,P. Cutrone,1

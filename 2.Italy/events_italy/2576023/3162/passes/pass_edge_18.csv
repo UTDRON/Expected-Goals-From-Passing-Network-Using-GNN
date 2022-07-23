@@ -1,0 +1,41 @@
+Source,Target,Weight
+S. Milinkovi\u0107-Savi\u0107,Nani,5
+S. Milinkovi\u0107-Savi\u0107,S. Luli\u0107,5
+Nani,M. Parolo,3
+S. Luli\u0107,S. Milinkovi\u0107-Savi\u0107,3
+Nani,S. Milinkovi\u0107-Savi\u0107,3
+Nani,A. Maru\u0161i\u0107,3
+Nani,S. Luli\u0107,3
+A. Maru\u0161i\u0107,M. Parolo,3
+Patric,S. Milinkovi\u0107-Savi\u0107,3
+A. Maru\u0161i\u0107,Nani,3
+M. Parolo,A. Maru\u0161i\u0107,3
+Lucas Leiva,Nani,3
+S. Luli\u0107,Patric,2
+S. Milinkovi\u0107-Savi\u0107,\u015e. Radu,2
+S. Luli\u0107,Nani,2
+S. Milinkovi\u0107-Savi\u0107,C. Immobile,1
+S. Luli\u0107,Lucas Leiva,1
+A. Maru\u0161i\u0107,Lucas Leiva,1
+T. Strakosha,S. Luli\u0107,1
+Luiz Felipe,S. Milinkovi\u0107-Savi\u0107,1
+\u015e. Radu,Lucas Leiva,1
+Lucas Leiva,Patric,1
+Luiz Felipe,T. Strakosha,1
+T. Strakosha,Patric,1
+A. Maru\u0161i\u0107,C. Immobile,1
+Patric,A. Maru\u0161i\u0107,1
+M. Parolo,S. Milinkovi\u0107-Savi\u0107,1
+Nani,Luiz Felipe,1
+Lucas Leiva,A. Maru\u0161i\u0107,1
+C. Immobile,S. Milinkovi\u0107-Savi\u0107,1
+\u015e. Radu,T. Strakosha,1
+S. Luli\u0107,C. Immobile,1
+Luiz Felipe,Patric,1
+\u015e. Radu,S. Milinkovi\u0107-Savi\u0107,1
+C. Immobile,Patric,1
+M. Parolo,\u015e. Radu,1
+Patric,Lucas Leiva,1
+Patric,T. Strakosha,1
+M. Parolo,Luiz Felipe,1
+T. Strakosha,Luiz Felipe,1

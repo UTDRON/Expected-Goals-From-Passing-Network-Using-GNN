@@ -1,0 +1,101 @@
+Source,Target,Weight
+A. Romagnoli,R. Rodr\u00edguez,7
+I. Abate,L. Bonucci,6
+R. Rodr\u00edguez,G. Bonaventura,6
+F. Kessi\u00e9,Suso,6
+R. Rodr\u00edguez,A. Romagnoli,6
+Suso,I. Abate,5
+R. Rodr\u00edguez,H. \u00c7alhano\u011flu,5
+Suso,F. Kessi\u00e9,5
+H. \u00c7alhano\u011flu,R. Rodr\u00edguez,5
+L. Biglia,Suso,5
+A. Romagnoli,G. Bonaventura,4
+R. Rodr\u00edguez,L. Biglia,4
+R. Montolivo,H. \u00c7alhano\u011flu,4
+Suso,H. \u00c7alhano\u011flu,4
+L. Bonucci,G. Donnarumma,4
+G. Donnarumma,I. Abate,4
+Suso,R. Montolivo,4
+N. Kalini\u0107,H. \u00c7alhano\u011flu,3
+G. Donnarumma,A. Romagnoli,3
+I. Abate,F. Kessi\u00e9,3
+H. \u00c7alhano\u011flu,Suso,3
+L. Bonucci,Suso,3
+G. Bonaventura,R. Montolivo,3
+G. Bonaventura,R. Rodr\u00edguez,3
+L. Bonucci,N. Kalini\u0107,3
+F. Kessi\u00e9,R. Rodr\u00edguez,3
+H. \u00c7alhano\u011flu,L. Biglia,3
+L. Biglia,L. Bonucci,3
+H. \u00c7alhano\u011flu,L. Bonucci,3
+I. Abate,G. Donnarumma,3
+Suso,L. Biglia,3
+G. Bonaventura,L. Biglia,2
+N. Kalini\u0107,Suso,2
+R. Rodr\u00edguez,L. Bonucci,2
+H. \u00c7alhano\u011flu,A. Romagnoli,2
+L. Biglia,A. Romagnoli,2
+L. Biglia,R. Rodr\u00edguez,2
+G. Bonaventura,I. Abate,2
+L. Biglia,I. Abate,2
+N. Kalini\u0107,R. Rodr\u00edguez,2
+G. Bonaventura,Suso,2
+I. Abate,A. Romagnoli,2
+L. Bonucci,I. Abate,2
+N. Kalini\u0107,G. Bonaventura,2
+G. Donnarumma,R. Rodr\u00edguez,2
+F. Kessi\u00e9,N. Kalini\u0107,2
+I. Abate,R. Rodr\u00edguez,2
+L. Bonucci,F. Kessi\u00e9,2
+R. Rodr\u00edguez,R. Montolivo,2
+G. Donnarumma,L. Biglia,2
+H. \u00c7alhano\u011flu,N. Kalini\u0107,2
+A. Romagnoli,I. Abate,2
+R. Montolivo,R. Rodr\u00edguez,2
+L. Biglia,G. Donnarumma,2
+R. Rodr\u00edguez,G. Donnarumma,1
+L. Bonucci,L. Biglia,1
+A. Romagnoli,N. Kalini\u0107,1
+N. Kalini\u0107,L. Biglia,1
+H. \u00c7alhano\u011flu,I. Abate,1
+A. Romagnoli,R. Montolivo,1
+R. Montolivo,Suso,1
+I. Abate,Suso,1
+L. Biglia,F. Kessi\u00e9,1
+A. Romagnoli,L. Bonucci,1
+F. Kessi\u00e9,G. Bonaventura,1
+L. Bonucci,G. Bonaventura,1
+N. Kalini\u0107,F. Kessi\u00e9,1
+Suso,G. Bonaventura,1
+I. Abate,L. Biglia,1
+L. Bonucci,H. \u00c7alhano\u011flu,1
+I. Abate,N. Kalini\u0107,1
+R. Montolivo,N. Kalini\u0107,1
+F. Kessi\u00e9,H. \u00c7alhano\u011flu,1
+A. Romagnoli,G. Donnarumma,1
+Suso,N. Kalini\u0107,1
+G. Bonaventura,A. Romagnoli,1
+G. Bonaventura,H. \u00c7alhano\u011flu,1
+F. Kessi\u00e9,L. Biglia,1
+R. Montolivo,F. Kessi\u00e9,1
+H. \u00c7alhano\u011flu,F. Kessi\u00e9,1
+F. Kessi\u00e9,L. Bonucci,1
+N. Kalini\u0107,R. Montolivo,1
+L. Biglia,G. Bonaventura,1
+R. Rodr\u00edguez,Suso,1
+I. Abate,G. Bonaventura,1
+G. Bonaventura,G. Donnarumma,1
+G. Donnarumma,L. Bonucci,1
+G. Donnarumma,F. Kessi\u00e9,1
+R. Rodr\u00edguez,F. Kessi\u00e9,1
+A. Romagnoli,H. \u00c7alhano\u011flu,1
+L. Bonucci,A. Romagnoli,1
+Suso,A. Romagnoli,1
+G. Bonaventura,N. Kalini\u0107,1
+L. Bonucci,R. Rodr\u00edguez,1
+R. Rodr\u00edguez,I. Abate,1
+F. Kessi\u00e9,I. Abate,1
+R. Montolivo,L. Bonucci,1
+G. Bonaventura,L. Bonucci,1
+I. Abate,H. \u00c7alhano\u011flu,1
+R. Montolivo,I. Abate,1

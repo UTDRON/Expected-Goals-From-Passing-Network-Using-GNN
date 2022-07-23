@@ -1,0 +1,25 @@
+Source,Target,Weight
+S. Sensi,M. Gazzola,3
+P. Cannavaro,D. Berardi,2
+M. Gazzola,M. Politano,2
+M. Gazzola,A. Matri,1
+S. Missiroli,S. Sensi,1
+M. Politano,M. Gazzola,1
+S. Missiroli,M. Politano,1
+S. Sensi,P. Cannavaro,1
+A. Ragusa,M. Gazzola,1
+M. Politano,S. Sensi,1
+M. Gazzola,F. Magnanelli,1
+A. Consigli,S. Sensi,1
+F. Acerbi,A. Ragusa,1
+F. Magnanelli,F. Acerbi,1
+M. Gazzola,D. Berardi,1
+A. Matri,M. Politano,1
+P. Cannavaro,S. Sensi,1
+D. Berardi,P. Cannavaro,1
+A. Matri,P. Cannavaro,1
+D. Berardi,M. Gazzola,1
+M. Politano,S. Missiroli,1
+M. Gazzola,A. Consigli,1
+D. Berardi,S. Missiroli,1
+M. Politano,F. Peluso,1

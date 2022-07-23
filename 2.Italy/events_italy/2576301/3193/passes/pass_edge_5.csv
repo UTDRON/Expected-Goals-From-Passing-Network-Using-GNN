@@ -1,0 +1,22 @@
+Source,Target,Weight
+Miguel Veloso,G. Pandev,2
+G. Rossi,G. Lapadula,1
+Miguel Veloso,A. Bertolacci,1
+E. Zukanovi\u0107,Miguel Veloso,1
+O. Hiljemark,G. Pandev,1
+A. Bertolacci,E. Zukanovi\u0107,1
+L. Rossettini,G. Pandev,1
+G. Pandev,G. Rossi,1
+G. Lapadula,A. Bertolacci,1
+G. Pandev,A. Bertolacci,1
+A. Bertolacci,G. Lapadula,1
+G. Rossi,D. Lazovi\u0107,1
+G. Lapadula,G. Rossi,1
+G. Pandev,D. Biraschi,1
+E. Zukanovi\u0107,L. Rossettini,1
+D. Lazovi\u0107,G. Pandev,1
+O. Hiljemark,E. Zukanovi\u0107,1
+D. Biraschi,M. Perin,1
+G. Pandev,Miguel Veloso,1
+G. Pandev,O. Hiljemark,1
+M. Perin,Miguel Veloso,1

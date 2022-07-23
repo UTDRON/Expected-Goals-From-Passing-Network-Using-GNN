@@ -1,0 +1,36 @@
+Source,Target,Weight
+S. Miangue,L. Pavoletti,3
+M. Sau,M. Capuano,3
+S. Miangue,S. Padoin,2
+L. Cigarini,L. Pavoletti,2
+M. Capuano,S. Miangue,2
+L. Ceppitelli,F. Romagna,2
+L. Pavoletti,S. Padoin,2
+F. Romagna,L. Ceppitelli,2
+S. Padoin,L. Pavoletti,1
+L. Ceppitelli,M. Sau,1
+S. Padoin,M. Sau,1
+F. Romagna,L. Cigarini,1
+Rafael,M. Capuano,1
+M. Capuano,P. Farag\u00f2,1
+S. Padoin,F. Pisacane,1
+F. Pisacane,F. Romagna,1
+N. Barella,L. Cigarini,1
+L. Pavoletti,L. Cigarini,1
+S. Padoin,L. Ceppitelli,1
+M. Sau,S. Miangue,1
+L. Ceppitelli,F. Pisacane,1
+M. Sau,L. Cigarini,1
+P. Farag\u00f2,N. Barella,1
+F. Romagna,N. Barella,1
+F. Pisacane,L. Ceppitelli,1
+L. Cigarini,S. Padoin,1
+L. Pavoletti,F. Romagna,1
+M. Capuano,M. Sau,1
+S. Miangue,L. Ceppitelli,1
+S. Padoin,S. Miangue,1
+N. Barella,M. Sau,1
+L. Cigarini,S. Miangue,1
+L. Ceppitelli,S. Miangue,1
+M. Capuano,Rafael,1
+L. Pavoletti,M. Capuano,1

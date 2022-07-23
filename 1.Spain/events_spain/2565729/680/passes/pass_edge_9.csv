@@ -1,0 +1,36 @@
+Source,Target,Weight
+\u00c9. Banega,L. Muriel,3
+L. Muriel,Pablo Sarabia,3
+L. Carole,C. Lenglet,3
+L. Muriel,L. Carole,2
+\u00c9. Banega,Nolito,2
+\u00c9. Banega,G. Mercado,2
+Pablo Sarabia,G. Mercado,2
+G. Mercado,\u00c9. Banega,2
+Nolito,\u00c9. Banega,2
+W. Ben Yedder,\u00c9. Banega,1
+Pablo Sarabia,\u00c9. Banega,1
+Pablo Sarabia,L. Muriel,1
+G. Pizarro,W. Ben Yedder,1
+C. Lenglet,\u00c9. Banega,1
+Nolito,G. Pizarro,1
+G. Pizarro,L. Carole,1
+Sergio Rico,S. Kj\u00e6r,1
+S. Kj\u00e6r,G. Pizarro,1
+L. Muriel,\u00c9. Banega,1
+C. Lenglet,S. Kj\u00e6r,1
+Nolito,L. Muriel,1
+S. Kj\u00e6r,\u00c9. Banega,1
+L. Muriel,Nolito,1
+S. Kj\u00e6r,L. Muriel,1
+G. Mercado,Pablo Sarabia,1
+C. Lenglet,Nolito,1
+G. Mercado,Nolito,1
+\u00c9. Banega,G. Pizarro,1
+L. Carole,Sergio Rico,1
+G. Pizarro,G. Mercado,1
+G. Pizarro,Pablo Sarabia,1
+\u00c9. Banega,S. Kj\u00e6r,1
+Pablo Sarabia,C. Lenglet,1
+G. Mercado,L. Muriel,1
+C. Lenglet,L. Carole,1

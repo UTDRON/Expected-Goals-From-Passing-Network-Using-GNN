@@ -1,0 +1,34 @@
+Source,Target,Weight
+\u00c1ngel,Portillo,2
+Portillo,F. Fajr,2
+Portillo,D. Su\u00e1rez,2
+M. Arambarri,Antunes,2
+Antunes,G. Shibasaki,2
+D. Su\u00e1rez,Portillo,2
+M. Arambarri,D. Su\u00e1rez,1
+D. Su\u00e1rez,M. Arambarri,1
+Portillo,G. Shibasaki,1
+G. Shibasaki,Bruno,1
+\u00c1ngel,M. Arambarri,1
+Djen\u00e9,G. Shibasaki,1
+F. Fajr,D. Su\u00e1rez,1
+Portillo,Bruno,1
+A. Ndiaye,Portillo,1
+Antunes,Guaita,1
+M. Arambarri,Djen\u00e9,1
+Djen\u00e9,A. Ndiaye,1
+G. Shibasaki,\u00c1ngel,1
+G. Shibasaki,Djen\u00e9,1
+F. Fajr,Portillo,1
+Bruno,M. Arambarri,1
+G. Shibasaki,Portillo,1
+A. Ndiaye,D. Su\u00e1rez,1
+D. Su\u00e1rez,F. Fajr,1
+F. Fajr,A. Ndiaye,1
+Guaita,M. Arambarri,1
+A. Ndiaye,\u00c1ngel,1
+A. Ndiaye,Guaita,1
+Bruno,A. Ndiaye,1
+Guaita,\u00c1ngel,1
+Portillo,\u00c1ngel,1
+D. Su\u00e1rez,A. Ndiaye,1

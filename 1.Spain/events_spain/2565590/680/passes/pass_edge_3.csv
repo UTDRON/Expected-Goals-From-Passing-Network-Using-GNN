@@ -1,0 +1,36 @@
+Source,Target,Weight
+Sergio Escudero,S. N'Zonzi,5
+Sergio Escudero,M. Krohn-Dehli,3
+S. N'Zonzi,Sergio Escudero,3
+J. Correa,Ganso,2
+S. N'Zonzi,Jes\u00fas Navas,2
+Jes\u00fas Navas,G. Mercado,2
+S. N'Zonzi,Ganso,2
+S. Kj\u00e6r,N. Pareja,2
+Ganso,S. N'Zonzi,2
+S. Kj\u00e6r,Sergio Escudero,2
+J. Correa,Sergio Escudero,2
+N. Pareja,S. Kj\u00e6r,1
+W. Ben Yedder,M. Krohn-Dehli,1
+M. Krohn-Dehli,Jes\u00fas Navas,1
+M. Krohn-Dehli,S. Kj\u00e6r,1
+Ganso,Sergio Escudero,1
+Ganso,J. Correa,1
+M. Krohn-Dehli,Sergio Escudero,1
+S. N'Zonzi,N. Pareja,1
+M. Krohn-Dehli,W. Ben Yedder,1
+G. Mercado,S. N'Zonzi,1
+N. Pareja,Sergio Escudero,1
+Jes\u00fas Navas,Sergio Escudero,1
+W. Ben Yedder,J. Correa,1
+M. Krohn-Dehli,Ganso,1
+S. N'Zonzi,J. Correa,1
+Sergio Escudero,J. Correa,1
+Sergio Escudero,S. Kj\u00e6r,1
+Ganso,M. Krohn-Dehli,1
+Jes\u00fas Navas,S. N'Zonzi,1
+G. Mercado,W. Ben Yedder,1
+S. N'Zonzi,S. Kj\u00e6r,1
+W. Ben Yedder,S. N'Zonzi,1
+N. Pareja,Jes\u00fas Navas,1
+Sergio Escudero,W. Ben Yedder,1

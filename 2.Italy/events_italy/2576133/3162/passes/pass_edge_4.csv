@@ -1,0 +1,71 @@
+Source,Target,Weight
+Patric,S. de Vrij,14
+S. de Vrij,Wallace,10
+A. Murgia,Patric,10
+A. Maru\u0161i\u0107,Patric,9
+Wallace,J. Lukaku,8
+S. de Vrij,A. Murgia,7
+Wallace,A. Murgia,7
+Patric,A. Murgia,7
+A. Murgia,S. de Vrij,6
+Patric,A. Maru\u0161i\u0107,6
+S. de Vrij,Patric,5
+M. Parolo,Patric,4
+Wallace,S. Milinkovi\u0107-Savi\u0107,4
+Patric,T. Strakosha,4
+J. Lukaku,Wallace,4
+A. Murgia,A. Maru\u0161i\u0107,4
+J. Lukaku,Luis Alberto,4
+Patric,Wallace,4
+T. Strakosha,S. de Vrij,4
+Wallace,S. de Vrij,3
+S. de Vrij,J. Lukaku,3
+A. Murgia,Luis Alberto,3
+J. Lukaku,A. Murgia,3
+Luis Alberto,J. Lukaku,3
+M. Parolo,A. Murgia,3
+A. Maru\u0161i\u0107,M. Parolo,3
+S. Milinkovi\u0107-Savi\u0107,J. Lukaku,3
+J. Lukaku,S. Milinkovi\u0107-Savi\u0107,3
+T. Strakosha,Patric,3
+T. Strakosha,Wallace,3
+M. Parolo,A. Maru\u0161i\u0107,2
+S. Milinkovi\u0107-Savi\u0107,Patric,2
+S. Milinkovi\u0107-Savi\u0107,Wallace,2
+Patric,M. Parolo,2
+A. Maru\u0161i\u0107,A. Murgia,2
+S. de Vrij,T. Strakosha,2
+Luis Alberto,Patric,2
+A. Murgia,Wallace,2
+Wallace,Patric,2
+Luis Alberto,Wallace,2
+A. Murgia,S. Milinkovi\u0107-Savi\u0107,2
+A. Murgia,M. Parolo,2
+A. Murgia,J. Lukaku,1
+Wallace,C. Immobile,1
+J. Lukaku,Patric,1
+S. Milinkovi\u0107-Savi\u0107,A. Maru\u0161i\u0107,1
+J. Lukaku,M. Parolo,1
+J. Lukaku,T. Strakosha,1
+C. Immobile,J. Lukaku,1
+S. Milinkovi\u0107-Savi\u0107,A. Murgia,1
+C. Immobile,S. de Vrij,1
+S. Milinkovi\u0107-Savi\u0107,Luis Alberto,1
+Luis Alberto,M. Parolo,1
+A. Murgia,T. Strakosha,1
+S. Milinkovi\u0107-Savi\u0107,T. Strakosha,1
+S. de Vrij,S. Milinkovi\u0107-Savi\u0107,1
+C. Immobile,A. Murgia,1
+Luis Alberto,T. Strakosha,1
+M. Parolo,Luis Alberto,1
+J. Lukaku,C. Immobile,1
+Wallace,A. Maru\u0161i\u0107,1
+C. Immobile,S. Milinkovi\u0107-Savi\u0107,1
+Luis Alberto,A. Murgia,1
+Patric,C. Immobile,1
+A. Maru\u0161i\u0107,Luis Alberto,1
+A. Maru\u0161i\u0107,C. Immobile,1
+C. Immobile,A. Maru\u0161i\u0107,1
+A. Murgia,C. Immobile,1
+J. Lukaku,S. de Vrij,1
+S. de Vrij,M. Parolo,1

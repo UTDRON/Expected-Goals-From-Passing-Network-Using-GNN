@@ -1,0 +1,46 @@
+Source,Target,Weight
+G. Pizarro,\u00c9. Banega,7
+\u00c9. Banega,G. Pizarro,5
+G. Mercado,G. Pizarro,3
+S. Kj\u00e6r,Jes\u00fas Navas,3
+\u00c9. Banega,L. Carole,3
+G. Pizarro,Jes\u00fas Navas,2
+G. Pizarro,C. Lenglet,2
+L. Carole,\u00c9. Banega,2
+Jes\u00fas Navas,S. Kj\u00e6r,2
+S. Kj\u00e6r,G. Mercado,2
+\u00c9. Banega,Nolito,2
+Jes\u00fas Navas,\u00c9. Banega,2
+G. Mercado,Jes\u00fas Navas,1
+Jes\u00fas Navas,C. Lenglet,1
+L. Carole,G. Pizarro,1
+G. Pizarro,L. Muriel,1
+Jes\u00fas Navas,L. Muriel,1
+G. Pizarro,S. Kj\u00e6r,1
+\u00c9. Banega,G. Mercado,1
+L. Muriel,G. Pizarro,1
+Sergio Rico,L. Carole,1
+C. Lenglet,Jes\u00fas Navas,1
+L. Carole,S. Kj\u00e6r,1
+Nolito,S. Kj\u00e6r,1
+Nolito,Jes\u00fas Navas,1
+Jes\u00fas Navas,Sergio Rico,1
+L. Muriel,\u00c9. Banega,1
+F. V\u00e1zquez,\u00c9. Banega,1
+L. Carole,Jes\u00fas Navas,1
+\u00c9. Banega,Jes\u00fas Navas,1
+Sergio Rico,F. V\u00e1zquez,1
+Jes\u00fas Navas,G. Pizarro,1
+\u00c9. Banega,S. Kj\u00e6r,1
+L. Carole,G. Mercado,1
+L. Carole,Sergio Rico,1
+Jes\u00fas Navas,G. Mercado,1
+G. Mercado,Nolito,1
+L. Muriel,F. V\u00e1zquez,1
+F. V\u00e1zquez,G. Pizarro,1
+C. Lenglet,L. Carole,1
+Nolito,L. Carole,1
+Jes\u00fas Navas,Nolito,1
+Nolito,F. V\u00e1zquez,1
+C. Lenglet,G. Pizarro,1
+F. V\u00e1zquez,L. Carole,1

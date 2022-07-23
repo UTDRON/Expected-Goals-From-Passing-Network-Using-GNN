@@ -1,0 +1,28 @@
+Source,Target,Weight
+Portu,M. Olunga,3
+Bernardo Espinosa,Aday,2
+Aday,M. Olunga,2
+\u00c1lex Granell,J. Mojica,2
+M. Olunga,Portu,2
+Pere Pons,Portu,1
+M. Olunga,Pere Pons,1
+Juanpe,Aday,1
+Juanpe,Bernardo Espinosa,1
+Pere Pons,Ramalho,1
+Aday,\u00c1lex Granell,1
+M. Olunga,Aday,1
+Aday,Ramalho,1
+M. Olunga,Ramalho,1
+Ramalho,Aday,1
+J. Mojica,M. Olunga,1
+M. Olunga,Borja Garc\u00eda,1
+J. Mojica,Juanpe,1
+Aday,Juanpe,1
+J. Mojica,\u00c1lex Granell,1
+Borja Garc\u00eda,J. Mojica,1
+Portu,Bernardo Espinosa,1
+Ramalho,Bernardo Espinosa,1
+J. Mojica,Aday,1
+Bernardo Espinosa,J. Mojica,1
+Juanpe,Pere Pons,1
+Ramalho,Portu,1

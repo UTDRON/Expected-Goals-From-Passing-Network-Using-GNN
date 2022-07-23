@@ -1,0 +1,46 @@
+Source,Target,Weight
+R\u00f4mulo,M. Fossati,5
+M. Valoti,M. Fossati,4
+M. Fossati,M. Valoti,4
+M. Fossati,Daniel Bessa,3
+S. Souprayen,M. Fossati,3
+Daniel Bessa,M. Valoti,3
+M. Fossati,R\u00f4mulo,3
+R\u00f4mulo,S. Souprayen,2
+Daniel Bessa,S. Souprayen,2
+Nicolas,G. Pazzini,2
+M. Fares,Daniel Bessa,2
+M. Valoti,R\u00f4mulo,2
+M. Fossati,Nicolas,2
+M. Fossati,A. Caracciolo,2
+M. Valoti,Daniel Bessa,2
+A. Cerci,M. C\u00e1ceres,2
+M. Fares,S. Souprayen,1
+A. Cerci,R\u00f4mulo,1
+Nicolas,A. Caracciolo,1
+M. Valoti,A. Cerci,1
+R\u00f4mulo,Nicolas,1
+S. Souprayen,A. Caracciolo,1
+S. Souprayen,M. Valoti,1
+M. C\u00e1ceres,M. Fossati,1
+S. Souprayen,Daniel Bessa,1
+G. Pazzini,S. Souprayen,1
+S. Souprayen,M. Fares,1
+S. Souprayen,Nicolas,1
+M. Valoti,M. Fares,1
+A. Caracciolo,M. C\u00e1ceres,1
+A. Caracciolo,M. Fossati,1
+M. C\u00e1ceres,A. Cerci,1
+M. Fares,M. Fossati,1
+A. Caracciolo,S. Souprayen,1
+M. C\u00e1ceres,R\u00f4mulo,1
+Nicolas,A. Cerci,1
+G. Pazzini,M. Valoti,1
+Daniel Bessa,G. Pazzini,1
+G. Pazzini,M. C\u00e1ceres,1
+A. Caracciolo,R\u00f4mulo,1
+G. Pazzini,M. Fares,1
+M. C\u00e1ceres,M. Valoti,1
+A. Cerci,G. Pazzini,1
+M. Fossati,S. Souprayen,1
+Daniel Bessa,A. Cerci,1

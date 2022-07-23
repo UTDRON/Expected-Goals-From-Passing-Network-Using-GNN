@@ -1,0 +1,23 @@
+Source,Target,Weight
+V. Eysseric,C. S\u00e1nchez,2
+C. S\u00e1nchez,M. Benassi,2
+C. Biraghi,K. Babacar,1
+G. Pezzella,D. Astori,1
+M. Benassi,G. Pezzella,1
+C. Biraghi,M. Benassi,1
+D. Astori,Bruno Gaspar,1
+V. Eysseric,K. Babacar,1
+K. Babacar,V. Eysseric,1
+M. Benassi,V. Eysseric,1
+M. Benassi,J. Veretout,1
+K. Babacar,J. Veretout,1
+J. Veretout,C. Biraghi,1
+C. S\u00e1nchez,J. Veretout,1
+D. Astori,V. Eysseric,1
+J. Veretout,D. Astori,1
+J. Veretout,M. Benassi,1
+D. Astori,J. Veretout,1
+V. Eysseric,Bruno Gaspar,1
+Bruno Gaspar,C. S\u00e1nchez,1
+M. Benassi,C. Biraghi,1
+Bruno Gaspar,V. Eysseric,1

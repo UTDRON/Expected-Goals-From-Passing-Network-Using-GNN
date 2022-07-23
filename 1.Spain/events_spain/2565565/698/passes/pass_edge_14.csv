@@ -1,0 +1,25 @@
+Source,Target,Weight
+F. Fajr,D. Su\u00e1rez,2
+\u00c1ngel,Juan Cala,2
+Guaita,Sergio Mora,1
+D. Su\u00e1rez,Portillo,1
+F. Fajr,Djen\u00e9,1
+Juan Cala,Antunes,1
+Juan Cala,F. Fajr,1
+Portillo,Djen\u00e9,1
+Djen\u00e9,Guaita,1
+Sergio Mora,Juan Cala,1
+Antunes,Jorge Molina,1
+F. Fajr,\u00c1ngel,1
+Guaita,Juan Cala,1
+Juan Cala,Guaita,1
+Jorge Molina,Antunes,1
+Portillo,F. Fajr,1
+Jorge Molina,Portillo,1
+Juan Cala,Jorge Molina,1
+Sergio Mora,Jorge Molina,1
+Antunes,\u00c1ngel,1
+D. Su\u00e1rez,F. Fajr,1
+Djen\u00e9,F. Fajr,1
+Jorge Molina,Juan Cala,1
+Juan Cala,\u00c1ngel,1

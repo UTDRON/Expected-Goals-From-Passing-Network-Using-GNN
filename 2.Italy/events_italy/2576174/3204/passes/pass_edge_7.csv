@@ -1,0 +1,10 @@
+Source,Target,Weight
+F. Viviani,A. Grassi,2
+J. Kurti\u010d,Felipe,2
+Felipe,F. Viviani,1
+F. Mattiello,J. Kurti\u010d,1
+A. Grassi,F. Mattiello,1
+P. Schiattarella,F. Viviani,1
+A. Meret,J. Kurti\u010d,1
+Felipe,A. Meret,1
+A. Grassi,P. Schiattarella,1

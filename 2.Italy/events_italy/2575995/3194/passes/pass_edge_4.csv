@@ -1,0 +1,27 @@
+Source,Target,Weight
+A. Ferrari,Nicolas,3
+M. Valoti,Daniel Bessa,3
+Daniel Bessa,T. Heurtaux,2
+T. Heurtaux,B. Zuculini,2
+M. C\u00e1ceres,A. Ferrari,2
+T. Heurtaux,M. C\u00e1ceres,2
+B. Zuculini,M. C\u00e1ceres,2
+Daniel Bessa,M. Valoti,2
+M. C\u00e1ceres,B. Zuculini,2
+Nicolas,M. Valoti,1
+Nicolas,T. Heurtaux,1
+B. Zuculini,Daniel Bessa,1
+B. Zuculini,A. Ferrari,1
+S. Souprayen,T. Heurtaux,1
+Nicolas,M. C\u00e1ceres,1
+A. Ferrari,M. Valoti,1
+M. C\u00e1ceres,M. B\u00fcchel,1
+Daniel Bessa,S. Souprayen,1
+M. B\u00fcchel,A. Ferrari,1
+A. Ferrari,M. C\u00e1ceres,1
+B. Zuculini,S. Souprayen,1
+Nicolas,Daniel Bessa,1
+M. Valoti,B. Zuculini,1
+M. C\u00e1ceres,M. Kean,1
+S. Souprayen,Nicolas,1
+M. Kean,A. Ferrari,1

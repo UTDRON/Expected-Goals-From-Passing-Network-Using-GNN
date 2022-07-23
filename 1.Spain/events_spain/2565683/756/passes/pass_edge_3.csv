@@ -1,0 +1,13 @@
+Source,Target,Weight
+J. Mojica,Muniesa,2
+Muniesa,Bernardo Espinosa,2
+Pere Pons,Pablo Maffeo,1
+J. Mojica,C. Stuani,1
+Muniesa,J. Mojica,1
+Pablo Maffeo,Borja Garc\u00eda,1
+Pablo Maffeo,\u00c1lex Granell,1
+Pere Pons,J. Mojica,1
+Bernardo Espinosa,Pere Pons,1
+C. Stuani,Pablo Maffeo,1
+Bernardo Espinosa,Muniesa,1
+\u00c1lex Granell,Pere Pons,1

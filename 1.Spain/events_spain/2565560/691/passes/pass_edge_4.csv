@@ -1,0 +1,17 @@
+Source,Target,Weight
+P. Piatti,Granero,2
+Javi Fuego,Gerard Moreno,1
+David L\u00f3pez,L\u00e9o Baptist\u00e3o,1
+Jurado,H. P\u00e9rez,1
+Naldo,Aar\u00f3n,1
+Aar\u00f3n,Granero,1
+Granero,Jurado,1
+L\u00e9o Baptist\u00e3o,Javi Fuego,1
+L\u00e9o Baptist\u00e3o,H. P\u00e9rez,1
+H. P\u00e9rez,L\u00e9o Baptist\u00e3o,1
+Gerard Moreno,Granero,1
+Gerard Moreno,P. Piatti,1
+Granero,David L\u00f3pez,1
+Granero,Aar\u00f3n,1
+Aar\u00f3n,P. Piatti,1
+H. P\u00e9rez,Gerard Moreno,1

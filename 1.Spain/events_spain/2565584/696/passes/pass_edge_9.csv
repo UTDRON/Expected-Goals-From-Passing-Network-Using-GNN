@@ -1,0 +1,22 @@
+Source,Target,Weight
+Alfonso Pedraza,Ibai G\u00f3mez,2
+Alfonso Pedraza,Fernando Pacheco,1
+Fernando Pacheco,Alfonso Pedraza,1
+Tom\u00e1s Pina,Bojan,1
+Medr\u00e1n,Bojan,1
+Bojan,Tom\u00e1s Pina,1
+Fernando Pacheco,Medr\u00e1n,1
+Rodrigo Ely,Alexis,1
+Fernando Pacheco,Bojan,1
+Bojan,Ibai G\u00f3mez,1
+Alexis,Alfonso Pedraza,1
+Bojan,Carlos Vigaray,1
+Ibai G\u00f3mez,Alfonso Pedraza,1
+Carlos Vigaray,\u00d3scar Romero,1
+Munir,Fernando Pacheco,1
+Ibai G\u00f3mez,Alexis,1
+Alexis,Munir,1
+\u00d3scar Romero,Carlos Vigaray,1
+Medr\u00e1n,Fernando Pacheco,1
+Alexis,Medr\u00e1n,1
+Carlos Vigaray,Rodrigo Ely,1

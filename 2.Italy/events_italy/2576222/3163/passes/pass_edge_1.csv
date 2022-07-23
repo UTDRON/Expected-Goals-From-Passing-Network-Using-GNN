@@ -1,0 +1,66 @@
+Source,Target,Weight
+S. Perica,G. Pezzella,6
+S. Widmer,R. de Paul,6
+S. Widmer,J. Stryger Larsen,6
+G. Pezzella,S. Perica,5
+R. de Paul,G. Pezzella,5
+G. Pezzella,Danilo,5
+J. Stryger Larsen,Danilo,4
+Danilo,S. Widmer,4
+Samir,G. Pezzella,3
+Samir,Danilo,3
+E. Hallfre\u00f0sson,R. de Paul,3
+A. Bali\u0107,E. Hallfre\u00f0sson,3
+A. Bar\u00e1k,S. Widmer,3
+Samir,A. Bali\u0107,3
+Danilo,Samir,3
+E. Hallfre\u00f0sson,G. Pezzella,3
+E. Hallfre\u00f0sson,S. Widmer,3
+G. Pezzella,E. Hallfre\u00f0sson,2
+R. de Paul,Samir,2
+G. Pezzella,A. Bar\u00e1k,2
+G. Pezzella,A. Bizzarri,2
+A. Bar\u00e1k,G. Pezzella,2
+Danilo,A. Bar\u00e1k,2
+R. de Paul,E. Hallfre\u00f0sson,2
+A. Bar\u00e1k,J. Stryger Larsen,2
+R. de Paul,J. Stryger Larsen,2
+G. Pezzella,A. Bali\u0107,2
+Danilo,E. Hallfre\u00f0sson,2
+G. Pezzella,Samir,2
+R. de Paul,A. Bar\u00e1k,2
+J. Stryger Larsen,S. Widmer,2
+S. Widmer,S. Perica,2
+G. Pezzella,S. Widmer,2
+S. Widmer,G. Pezzella,2
+Samir,R. de Paul,2
+J. Stryger Larsen,R. de Paul,2
+A. Bizzarri,S. Widmer,2
+Danilo,J. Stryger Larsen,2
+A. Bar\u00e1k,R. de Paul,2
+J. Stryger Larsen,E. Hallfre\u00f0sson,2
+E. Hallfre\u00f0sson,Samir,2
+A. Bali\u0107,Samir,2
+R. de Paul,Danilo,2
+R. de Paul,S. Perica,2
+S. Widmer,A. Bar\u00e1k,1
+E. Hallfre\u00f0sson,A. Bar\u00e1k,1
+S. Perica,E. Hallfre\u00f0sson,1
+Danilo,A. Bizzarri,1
+Samir,E. Hallfre\u00f0sson,1
+A. Bizzarri,G. Pezzella,1
+Danilo,G. Pezzella,1
+J. Stryger Larsen,A. Bar\u00e1k,1
+J. Stryger Larsen,S. Perica,1
+A. Bizzarri,Samir,1
+S. Perica,A. Bali\u0107,1
+R. de Paul,S. Widmer,1
+A. Bali\u0107,S. Widmer,1
+Samir,A. Bizzarri,1
+S. Perica,Samir,1
+E. Hallfre\u00f0sson,A. Bali\u0107,1
+S. Perica,R. de Paul,1
+A. Bali\u0107,S. Perica,1
+S. Widmer,E. Hallfre\u00f0sson,1
+E. Hallfre\u00f0sson,Danilo,1
+G. Pezzella,R. de Paul,1

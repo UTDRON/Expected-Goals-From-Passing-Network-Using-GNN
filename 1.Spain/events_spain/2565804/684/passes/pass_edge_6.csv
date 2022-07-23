@@ -1,0 +1,71 @@
+Source,Target,Weight
+Francis Guerrero,A. Mandi,5
+Bartra,Cristian Tello,4
+J. Firpo,Ad\u00e1n,4
+Cristian Tello,J. Firpo,4
+Francis Guerrero,R. Boudebouz,4
+R. Boudebouz,J. Firpo,3
+Cristian Tello,Francis Guerrero,3
+A. Mandi,Bartra,3
+Fabi\u00e1n,Javi Garc\u00eda,2
+J. Firpo,Fabi\u00e1n,2
+Bartra,J. Firpo,2
+J. Firpo,R. Durmisi,2
+R. Durmisi,J. Firpo,2
+Javi Garc\u00eda,J. Firpo,2
+A. Mandi,Javi Garc\u00eda,2
+R. Boudebouz,Javi Garc\u00eda,2
+Javi Garc\u00eda,Francis Guerrero,2
+J. Firpo,Bartra,2
+Bartra,Francis Guerrero,2
+Javi Garc\u00eda,Bartra,2
+Bartra,A. Mandi,2
+R. Durmisi,Fabi\u00e1n,2
+J. Firpo,Javi Garc\u00eda,2
+Fabi\u00e1n,Bartra,1
+Francis Guerrero,Cristian Tello,1
+Fabi\u00e1n,Sergio Le\u00f3n,1
+R. Durmisi,Javi Garc\u00eda,1
+Cristian Tello,Bartra,1
+J. Firpo,R. Boudebouz,1
+Fabi\u00e1n,R. Durmisi,1
+Ad\u00e1n,J. Firpo,1
+R. Boudebouz,Francis Guerrero,1
+Ad\u00e1n,R. Durmisi,1
+A. Mandi,R. Boudebouz,1
+Ad\u00e1n,Sergio Le\u00f3n,1
+Sergio Le\u00f3n,Bartra,1
+Sergio Le\u00f3n,Francis Guerrero,1
+A. Mandi,Francis Guerrero,1
+Francis Guerrero,Sergio Le\u00f3n,1
+R. Boudebouz,Cristian Tello,1
+J. Firpo,Francis Guerrero,1
+R. Durmisi,Bartra,1
+A. Mandi,Fabi\u00e1n,1
+Cristian Tello,Fabi\u00e1n,1
+A. Mandi,Ad\u00e1n,1
+Bartra,Sergio Le\u00f3n,1
+Sergio Le\u00f3n,J. Firpo,1
+A. Mandi,Sergio Le\u00f3n,1
+Ad\u00e1n,A. Mandi,1
+Francis Guerrero,Bartra,1
+R. Durmisi,Rub\u00e9n Castro,1
+Sergio Le\u00f3n,R. Durmisi,1
+Ad\u00e1n,Cristian Tello,1
+Bartra,R. Durmisi,1
+Javi Garc\u00eda,R. Boudebouz,1
+Sergio Le\u00f3n,Cristian Tello,1
+Joaqu\u00edn,Bartra,1
+Javi Garc\u00eda,Fabi\u00e1n,1
+Ad\u00e1n,Francis Guerrero,1
+Ad\u00e1n,Joaqu\u00edn,1
+Francis Guerrero,Ad\u00e1n,1
+Bartra,Ad\u00e1n,1
+Fabi\u00e1n,A. Mandi,1
+R. Boudebouz,R. Durmisi,1
+Javi Garc\u00eda,A. Mandi,1
+Bartra,Fabi\u00e1n,1
+Fabi\u00e1n,R. Boudebouz,1
+R. Boudebouz,Bartra,1
+Fabi\u00e1n,Francis Guerrero,1
+J. Firpo,Cristian Tello,1

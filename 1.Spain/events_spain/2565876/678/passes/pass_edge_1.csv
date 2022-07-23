@@ -1,0 +1,41 @@
+Source,Target,Weight
+Balenziaga,I\u00f1igo C\u00f3rdoba,3
+Lekue,Ra\u00fal Garc\u00eda,2
+Ra\u00fal Garc\u00eda,Balenziaga,2
+I\u00f1aki Williams,Ra\u00fal Garc\u00eda,2
+Ra\u00fal Garc\u00eda,I\u00f1aki Williams,2
+I\u00f1igo C\u00f3rdoba,Balenziaga,2
+I\u00f1igo C\u00f3rdoba,San Jos\u00e9,2
+San Jos\u00e9,Balenziaga,2
+I\u00f1aki Williams,Lekue,1
+Lekue,De Marcos,1
+\u00cd\u00f1igo Mart\u00ednez,Arrizabalaga,1
+Arrizabalaga,Lekue,1
+Balenziaga,De Marcos,1
+De Marcos,Iturraspe,1
+Ra\u00fal Garc\u00eda,San Jos\u00e9,1
+Unai N\u00fa\u00f1ez,I\u00f1aki Williams,1
+Ra\u00fal Garc\u00eda,Lekue,1
+I\u00f1aki Williams,San Jos\u00e9,1
+Balenziaga,San Jos\u00e9,1
+Ra\u00fal Garc\u00eda,Unai N\u00fa\u00f1ez,1
+De Marcos,Ra\u00fal Garc\u00eda,1
+De Marcos,Lekue,1
+Lekue,Balenziaga,1
+Ra\u00fal Garc\u00eda,De Marcos,1
+I\u00f1aki Williams,Balenziaga,1
+Arrizabalaga,Ra\u00fal Garc\u00eda,1
+Iturraspe,Lekue,1
+Iturraspe,Unai N\u00fa\u00f1ez,1
+Lekue,I\u00f1igo C\u00f3rdoba,1
+Balenziaga,Arrizabalaga,1
+\u00cd\u00f1igo Mart\u00ednez,Iturraspe,1
+San Jos\u00e9,I\u00f1aki Williams,1
+Balenziaga,Ra\u00fal Garc\u00eda,1
+San Jos\u00e9,\u00cd\u00f1igo Mart\u00ednez,1
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,1
+Balenziaga,I\u00f1aki Williams,1
+I\u00f1igo C\u00f3rdoba,De Marcos,1
+\u00cd\u00f1igo Mart\u00ednez,I\u00f1igo C\u00f3rdoba,1
+Balenziaga,\u00cd\u00f1igo Mart\u00ednez,1
+De Marcos,\u00cd\u00f1igo Mart\u00ednez,1

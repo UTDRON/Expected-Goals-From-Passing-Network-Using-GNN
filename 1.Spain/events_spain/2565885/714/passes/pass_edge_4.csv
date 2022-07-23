@@ -1,0 +1,41 @@
+Source,Target,Weight
+Javi Castellano,O. Etebo,2
+David Garc\u00eda,G\u00e1lvez,2
+David Sim\u00f3n,O. Etebo,2
+David Sim\u00f3n,David Garc\u00eda,2
+David Garc\u00eda,David Sim\u00f3n,2
+David Garc\u00eda,Javi Castellano,2
+Javi Castellano,Vicente G\u00f3mez,1
+G\u00e1lvez,David Sim\u00f3n,1
+O. Etebo,David Sim\u00f3n,1
+O. Etebo,David Garc\u00eda,1
+O. Etebo,Javi Castellano,1
+A. Halilovi\u0107,Vicente G\u00f3mez,1
+J. Calleri,O. Etebo,1
+A. Halilovi\u0107,David Sim\u00f3n,1
+Vicente G\u00f3mez,M. Aguirregaray,1
+J. Calleri,A. Halilovi\u0107,1
+A. Halilovi\u0107,J. Calleri,1
+O. Etebo,Ra\u00fal Lizo\u00e1in,1
+Ra\u00fal Lizo\u00e1in,G\u00e1lvez,1
+Javi Castellano,David Garc\u00eda,1
+O. Etebo,J. Calleri,1
+Vicente G\u00f3mez,David Sim\u00f3n,1
+David Sim\u00f3n,J. Calleri,1
+G\u00e1lvez,A. Halilovi\u0107,1
+O. Etebo,A. Halilovi\u0107,1
+M. Aguirregaray,O. Etebo,1
+A. Halilovi\u0107,David Garc\u00eda,1
+M. Aguirregaray,A. Halilovi\u0107,1
+A. Halilovi\u0107,M. Aguirregaray,1
+David Sim\u00f3n,A. Halilovi\u0107,1
+G\u00e1lvez,Javi Castellano,1
+I. Ezekiel,David Sim\u00f3n,1
+David Sim\u00f3n,G\u00e1lvez,1
+A. Halilovi\u0107,G\u00e1lvez,1
+G\u00e1lvez,Vicente G\u00f3mez,1
+J. Calleri,I. Ezekiel,1
+A. Halilovi\u0107,O. Etebo,1
+G\u00e1lvez,David Garc\u00eda,1
+Vicente G\u00f3mez,David Garc\u00eda,1
+David Garc\u00eda,A. Halilovi\u0107,1

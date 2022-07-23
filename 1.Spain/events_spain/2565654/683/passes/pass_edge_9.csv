@@ -1,0 +1,55 @@
+Source,Target,Weight
+A. Pe\u00f1aranda,Recio,4
+P. Baysse,Roberto,4
+A. Pe\u00f1aranda,Juankar,4
+Recio,A. Pe\u00f1aranda,3
+Recio,Keko,3
+Juankar,P. Baysse,3
+Keko,R. Rosales,3
+Chory Castro,Juankar,3
+Recio,R. Rosales,3
+Juankar,Chory Castro,3
+Roberto,Recio,2
+R. Rosales,A. Pe\u00f1aranda,2
+R. Rosales,Keko,2
+Keko,Adri\u00e1n,2
+Adri\u00e1n,P. Baysse,2
+Juankar,A. Pe\u00f1aranda,2
+R. Rosales,Adri\u00e1n,2
+R. Rosales,P. Baysse,2
+Juankar,Adri\u00e1n,2
+P. Baysse,Juankar,2
+A. Pe\u00f1aranda,Chory Castro,1
+P. Baysse,Luis Hern\u00e1ndez,1
+P. Baysse,A. Pe\u00f1aranda,1
+Juankar,R. Rosales,1
+Adri\u00e1n,Roberto,1
+Roberto,A. Pe\u00f1aranda,1
+Adri\u00e1n,Chory Castro,1
+A. Pe\u00f1aranda,Adri\u00e1n,1
+Adri\u00e1n,Recio,1
+Roberto,Juankar,1
+Juanpi,Keko,1
+Juanpi,Juankar,1
+Y. En-Nesyri,Recio,1
+Juankar,Juanpi,1
+Roberto,Juanpi,1
+Recio,P. Baysse,1
+Juanpi,Adri\u00e1n,1
+Adri\u00e1n,Keko,1
+R. Rosales,Recio,1
+P. Baysse,Recio,1
+Adri\u00e1n,R. Rosales,1
+Keko,Recio,1
+Y. En-Nesyri,A. Pe\u00f1aranda,1
+Roberto,Y. En-Nesyri,1
+Juanpi,A. Pe\u00f1aranda,1
+Chory Castro,Juanpi,1
+Luis Hern\u00e1ndez,P. Baysse,1
+Recio,Luis Hern\u00e1ndez,1
+Luis Hern\u00e1ndez,Juanpi,1
+Juanpi,Recio,1
+A. Pe\u00f1aranda,R. Rosales,1
+Recio,Juanpi,1
+Chory Castro,Y. En-Nesyri,1
+Keko,Roberto,1

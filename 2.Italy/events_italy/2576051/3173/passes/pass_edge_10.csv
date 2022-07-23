@@ -1,0 +1,48 @@
+Source,Target,Weight
+F. Romagna,N. Barella,3
+M. Capuano,S. Padoin,3
+S. Padoin,F. Romagna,2
+L. Cigarini,N. Barella,2
+P. Farag\u00f2,L. Cigarini,2
+F. Romagna,M. Capuano,2
+L. Ceppitelli,S. Padoin,2
+S. Miangue,L. Ceppitelli,2
+L. Ceppitelli,S. Miangue,2
+S. Padoin,S. Miangue,2
+S. Padoin,L. Ceppitelli,2
+L. Ceppitelli,M. Capuano,2
+L. Pavoletti,F. Romagna,2
+L. Ceppitelli,N. Barella,2
+F. Romagna,S. Padoin,1
+M. Sau,S. Padoin,1
+S. Miangue,S. Padoin,1
+S. Padoin,M. Sau,1
+L. Cigarini,M. Capuano,1
+L. Cigarini,Rafael,1
+L. Pavoletti,M. Capuano,1
+N. Barella,L. Ceppitelli,1
+P. Farag\u00f2,S. Miangue,1
+F. Romagna,L. Cigarini,1
+L. Cigarini,P. Farag\u00f2,1
+M. Capuano,S. Miangue,1
+N. Barella,Rafael,1
+Rafael,F. Romagna,1
+M. Sau,L. Pavoletti,1
+M. Capuano,L. Cigarini,1
+N. Barella,L. Cigarini,1
+S. Padoin,L. Cigarini,1
+Rafael,P. Farag\u00f2,1
+M. Capuano,L. Ceppitelli,1
+M. Capuano,F. Romagna,1
+S. Miangue,M. Sau,1
+L. Cigarini,F. Romagna,1
+N. Barella,P. Farag\u00f2,1
+S. Miangue,L. Cigarini,1
+N. Barella,M. Sau,1
+M. Sau,L. Cigarini,1
+F. Romagna,L. Ceppitelli,1
+N. Barella,L. Pavoletti,1
+N. Barella,M. Capuano,1
+L. Cigarini,L. Pavoletti,1
+L. Cigarini,L. Ceppitelli,1
+S. Miangue,P. Farag\u00f2,1

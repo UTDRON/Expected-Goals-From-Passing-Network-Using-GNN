@@ -1,0 +1,60 @@
+Source,Target,Weight
+G. Mercado,S. N'Zonzi,4
+Pablo Sarabia,G. Mercado,3
+S. N'Zonzi,L. Muriel,3
+L. Muriel,\u00c9. Banega,3
+\u00c9. Banega,Pablo Sarabia,2
+S. N'Zonzi,C. Lenglet,2
+C. Lenglet,M. Lay\u00fan,2
+L. Muriel,C. Lenglet,2
+G. Mercado,\u00c9. Banega,2
+W. Ben Yedder,L. Muriel,2
+Pablo Sarabia,W. Ben Yedder,2
+\u00c9. Banega,Sergio Escudero,2
+Sergio Escudero,L. Muriel,2
+L. Muriel,Pablo Sarabia,2
+G. Mercado,C. Lenglet,2
+\u00c9. Banega,S. N'Zonzi,2
+\u00c9. Banega,L. Muriel,2
+M. Lay\u00fan,S. N'Zonzi,2
+S. N'Zonzi,G. Mercado,1
+L. Muriel,Sergio Escudero,1
+C. Lenglet,Sergio Escudero,1
+S. N'Zonzi,Sergio Escudero,1
+L. Muriel,G. Mercado,1
+Sergio Rico,Sergio Escudero,1
+L. Muriel,S. N'Zonzi,1
+F. V\u00e1zquez,G. Mercado,1
+M. Lay\u00fan,Sergio Escudero,1
+G. Mercado,Sergio Escudero,1
+S. N'Zonzi,F. V\u00e1zquez,1
+M. Lay\u00fan,F. V\u00e1zquez,1
+Sergio Escudero,C. Lenglet,1
+\u00c9. Banega,C. Lenglet,1
+S. N'Zonzi,M. Lay\u00fan,1
+M. Lay\u00fan,G. Mercado,1
+C. Lenglet,\u00c9. Banega,1
+Sergio Escudero,S. N'Zonzi,1
+Pablo Sarabia,M. Lay\u00fan,1
+F. V\u00e1zquez,\u00c9. Banega,1
+Nolito,Pablo Sarabia,1
+\u00c9. Banega,M. Lay\u00fan,1
+Pablo Sarabia,L. Muriel,1
+L. Muriel,Nolito,1
+Sergio Escudero,M. Lay\u00fan,1
+F. V\u00e1zquez,Sergio Escudero,1
+Nolito,W. Ben Yedder,1
+C. Lenglet,S. N'Zonzi,1
+C. Lenglet,F. V\u00e1zquez,1
+W. Ben Yedder,Nolito,1
+S. N'Zonzi,Pablo Sarabia,1
+Sergio Escudero,W. Ben Yedder,1
+W. Ben Yedder,\u00c9. Banega,1
+Sergio Escudero,F. V\u00e1zquez,1
+F. V\u00e1zquez,L. Muriel,1
+Pablo Sarabia,\u00c9. Banega,1
+Sergio Escudero,\u00c9. Banega,1
+M. Lay\u00fan,Pablo Sarabia,1
+C. Lenglet,Sergio Rico,1
+Sergio Escudero,G. Mercado,1
+C. Lenglet,G. Mercado,1

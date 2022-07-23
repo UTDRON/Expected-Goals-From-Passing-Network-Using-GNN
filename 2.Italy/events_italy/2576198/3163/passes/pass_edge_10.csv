@@ -1,0 +1,40 @@
+Source,Target,Weight
+Samir,F. Zampano,3
+B. Nuytinck,S. Widmer,3
+B. Nuytinck,E. Hallfre\u00f0sson,2
+Samir,A. Bizzarri,2
+E. Hallfre\u00f0sson,S. Widmer,2
+S. Widmer,Samir,2
+E. Hallfre\u00f0sson,B. Nuytinck,2
+S. Widmer,A. Bizzarri,1
+Maxi L\u00f3pez,S. Widmer,1
+S. Perica,E. Hallfre\u00f0sson,1
+R. de Paul,B. Nuytinck,1
+S. Widmer,Maxi L\u00f3pez,1
+S. Widmer,A. Bar\u00e1k,1
+R. de Paul,J. Jankto,1
+Maxi L\u00f3pez,B. Nuytinck,1
+S. Perica,R. de Paul,1
+S. Perica,J. Jankto,1
+J. Jankto,Samir,1
+F. Zampano,B. Nuytinck,1
+A. Bizzarri,Maxi L\u00f3pez,1
+Samir,B. Nuytinck,1
+R. de Paul,Samir,1
+A. Bizzarri,F. Zampano,1
+Maxi L\u00f3pez,E. Hallfre\u00f0sson,1
+S. Widmer,R. de Paul,1
+F. Zampano,Maxi L\u00f3pez,1
+J. Jankto,F. Zampano,1
+S. Widmer,B. Nuytinck,1
+E. Hallfre\u00f0sson,Samir,1
+E. Hallfre\u00f0sson,R. de Paul,1
+F. Zampano,E. Hallfre\u00f0sson,1
+A. Bar\u00e1k,Maxi L\u00f3pez,1
+F. Zampano,R. de Paul,1
+R. de Paul,S. Widmer,1
+B. Nuytinck,R. de Paul,1
+F. Zampano,Samir,1
+A. Bizzarri,S. Perica,1
+B. Nuytinck,S. Perica,1
+Maxi L\u00f3pez,S. Perica,1

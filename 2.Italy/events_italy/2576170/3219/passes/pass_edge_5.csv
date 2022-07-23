@@ -1,0 +1,85 @@
+Source,Target,Weight
+G. Letizia,D. Cataldi,8
+B. Djimsiti,G. Letizia,8
+M. D'Alessandro,G. Letizia,7
+Guilherme,L. Venuti,7
+L. Venuti,J. Billong,6
+B. Djimsiti,A. Brignoli,6
+A. Brignoli,B. Djimsiti,5
+L. Venuti,L. Memushaj,5
+J. Billong,L. Venuti,5
+L. Venuti,D. Cataldi,5
+D. Cataldi,J. Billong,5
+M. Coda,D. Cataldi,5
+A. Brignoli,Guilherme,4
+D. Cataldi,L. Venuti,4
+D. Cataldi,G. Letizia,4
+M. D'Alessandro,D. Cataldi,4
+Guilherme,D. Cataldi,4
+D. Cataldi,Sandro,4
+J. Billong,A. Brignoli,4
+D. Cataldi,B. Djimsiti,4
+L. Memushaj,B. Djimsiti,4
+Sandro,Guilherme,4
+B. Djimsiti,Sandro,4
+D. Cataldi,Guilherme,4
+Sandro,B. Djimsiti,4
+A. Brignoli,M. Coda,4
+L. Venuti,Guilherme,4
+B. Djimsiti,M. D'Alessandro,3
+Sandro,M. Coda,3
+B. Djimsiti,J. Billong,3
+J. Billong,Sandro,3
+G. Letizia,B. Djimsiti,3
+L. Memushaj,L. Venuti,3
+J. Billong,B. Djimsiti,3
+J. Billong,Guilherme,3
+L. Memushaj,J. Billong,3
+Guilherme,M. Coda,3
+Guilherme,B. Djimsiti,3
+Sandro,D. Cataldi,3
+D. Cataldi,L. Memushaj,3
+Guilherme,Sandro,3
+L. Venuti,M. D'Alessandro,2
+M. Coda,M. D'Alessandro,2
+L. Memushaj,M. Coda,2
+B. Djimsiti,L. Venuti,2
+B. Djimsiti,L. Memushaj,2
+G. Letizia,M. D'Alessandro,2
+J. Billong,L. Memushaj,2
+M. Coda,A. Brignoli,2
+G. Letizia,M. Coda,2
+G. Letizia,Sandro,2
+A. Brignoli,G. Letizia,2
+L. Memushaj,Guilherme,2
+Guilherme,M. D'Alessandro,2
+L. Venuti,B. Djimsiti,2
+D. Cataldi,M. D'Alessandro,2
+M. Coda,J. Billong,2
+G. Letizia,L. Memushaj,2
+Guilherme,J. Billong,2
+M. D'Alessandro,Guilherme,2
+G. Letizia,Guilherme,2
+M. Coda,Guilherme,1
+L. Memushaj,G. Letizia,1
+G. Letizia,A. Brignoli,1
+J. Billong,D. Cataldi,1
+M. D'Alessandro,B. Djimsiti,1
+M. Coda,L. Venuti,1
+Guilherme,A. Brignoli,1
+Sandro,J. Billong,1
+G. Letizia,L. Venuti,1
+B. Djimsiti,D. Cataldi,1
+Guilherme,L. Memushaj,1
+J. Billong,G. Letizia,1
+D. Cataldi,A. Brignoli,1
+M. Coda,L. Memushaj,1
+A. Brignoli,P. Iemmello,1
+P. Iemmello,M. D'Alessandro,1
+Sandro,M. D'Alessandro,1
+B. Djimsiti,M. Coda,1
+M. D'Alessandro,L. Venuti,1
+D. Cataldi,P. Iemmello,1
+M. Coda,B. Djimsiti,1
+P. Iemmello,A. Brignoli,1
+L. Memushaj,D. Cataldi,1

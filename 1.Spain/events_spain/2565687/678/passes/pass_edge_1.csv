@@ -1,0 +1,59 @@
+Source,Target,Weight
+Iturraspe,De Marcos,3
+Iturraspe,Aduriz,3
+Aduriz,De Marcos,3
+De Marcos,Aduriz,3
+Ra\u00fal Garc\u00eda,I\u00f1aki Williams,3
+Balenziaga,Susaeta,3
+Arrizabalaga,Ra\u00fal Garc\u00eda,3
+Unai N\u00fa\u00f1ez,I\u00f1aki Williams,2
+Susaeta,Balenziaga,2
+Etxeita,Iturraspe,2
+De Marcos,Balenziaga,2
+Ra\u00fal Garc\u00eda,Iturraspe,2
+Iturraspe,Ra\u00fal Garc\u00eda,2
+Susaeta,Iturraspe,2
+I\u00f1aki Williams,Ra\u00fal Garc\u00eda,2
+Mikel Rico,Susaeta,2
+Aduriz,Arrizabalaga,2
+Ra\u00fal Garc\u00eda,Aduriz,2
+Unai N\u00fa\u00f1ez,Etxeita,2
+Arrizabalaga,Unai N\u00fa\u00f1ez,2
+Ra\u00fal Garc\u00eda,De Marcos,2
+I\u00f1aki Williams,Iturraspe,2
+I\u00f1aki Williams,De Marcos,2
+Unai N\u00fa\u00f1ez,De Marcos,1
+De Marcos,I\u00f1aki Williams,1
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,1
+Iturraspe,I\u00f1aki Williams,1
+Etxeita,I\u00f1aki Williams,1
+Balenziaga,Aduriz,1
+De Marcos,Iturraspe,1
+Susaeta,Mikel Rico,1
+De Marcos,Etxeita,1
+Iturraspe,Mikel Rico,1
+Mikel Rico,Iturraspe,1
+Arrizabalaga,Etxeita,1
+I\u00f1aki Williams,Arrizabalaga,1
+De Marcos,Unai N\u00fa\u00f1ez,1
+Mikel Rico,Unai N\u00fa\u00f1ez,1
+Etxeita,Ra\u00fal Garc\u00eda,1
+Balenziaga,Arrizabalaga,1
+Aduriz,Etxeita,1
+Etxeita,Arrizabalaga,1
+Mikel Rico,Balenziaga,1
+Susaeta,Arrizabalaga,1
+Balenziaga,Mikel Rico,1
+De Marcos,Mikel Rico,1
+I\u00f1aki Williams,Balenziaga,1
+Iturraspe,Balenziaga,1
+I\u00f1aki Williams,Aduriz,1
+I\u00f1aki Williams,Susaeta,1
+De Marcos,Ra\u00fal Garc\u00eda,1
+Balenziaga,Etxeita,1
+Aduriz,Unai N\u00fa\u00f1ez,1
+Balenziaga,I\u00f1aki Williams,1
+Etxeita,Balenziaga,1
+Aduriz,I\u00f1aki Williams,1
+Ra\u00fal Garc\u00eda,Mikel Rico,1
+Aduriz,Iturraspe,1

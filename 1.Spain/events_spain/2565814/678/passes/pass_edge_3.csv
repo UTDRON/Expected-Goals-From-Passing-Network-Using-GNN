@@ -1,0 +1,16 @@
+Source,Target,Weight
+Yeray,I\u00f1aki Williams,2
+Saborit,San Jos\u00e9,2
+San Jos\u00e9,Yeray,2
+I\u00f1aki Williams,Saborit,1
+Susaeta,Lekue,1
+Susaeta,San Jos\u00e9,1
+San Jos\u00e9,Lekue,1
+Lekue,San Jos\u00e9,1
+Lekue,Susaeta,1
+Vesga,I\u00f1aki Williams,1
+I\u00f1aki Williams,San Jos\u00e9,1
+San Jos\u00e9,Vesga,1
+San Jos\u00e9,\u00cd\u00f1igo Mart\u00ednez,1
+\u00cd\u00f1igo Mart\u00ednez,Susaeta,1
+San Jos\u00e9,Saborit,1

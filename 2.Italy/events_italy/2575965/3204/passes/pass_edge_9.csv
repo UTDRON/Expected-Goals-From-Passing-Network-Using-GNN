@@ -1,0 +1,22 @@
+Source,Target,Weight
+S. Floccari,F. Costa,3
+F. Costa,A. Gomis,2
+F. Costa,S. Floccari,2
+P. Schiattarella,F. Viviani,2
+S. Floccari,F. Vicari,2
+P. Schiattarella,S. Floccari,2
+A. Gomis,S. Floccari,2
+A. Gomis,L. Mora,1
+S. Floccari,L. Mora,1
+F. Vicari,A. Gomis,1
+F. Viviani,F. Costa,1
+S. Floccari,P. Schiattarella,1
+S. Floccari,F. Viviani,1
+P. Schiattarella,A. Gomis,1
+L. Mora,P. Schiattarella,1
+L. Mora,S. Floccari,1
+S. V\u00e4is\u00e4nen,S. Floccari,1
+P. Schiattarella,S. V\u00e4is\u00e4nen,1
+F. Vicari,P. Schiattarella,1
+F. Viviani,P. Schiattarella,1
+A. Gomis,P. Schiattarella,1

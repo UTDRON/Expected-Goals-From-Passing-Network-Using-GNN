@@ -1,0 +1,84 @@
+Source,Target,Weight
+A. Pe\u00f1aranda,Juanpi,5
+E. Rol\u00f3n,Luis Hern\u00e1ndez,5
+\u00c1lex Mula,Recio,5
+R. Rosales,Recio,4
+Recio,Juanpi,3
+Luis Hern\u00e1ndez,P. Baysse,3
+Roberto,Juankar,3
+Recio,\u00c1lex Mula,3
+A. Pe\u00f1aranda,E. Rol\u00f3n,3
+P. Baysse,Juankar,3
+Luis Hern\u00e1ndez,\u00c1lex Mula,3
+Recio,P. Baysse,3
+Luis Hern\u00e1ndez,A. Pe\u00f1aranda,3
+Recio,Juankar,3
+P. Baysse,E. Rol\u00f3n,3
+Juanpi,Recio,3
+Juanpi,D. Rol\u00e1n,3
+P. Baysse,R. Rosales,3
+Juankar,P. Baysse,3
+Recio,R. Rosales,2
+Juankar,E. Rol\u00f3n,2
+R. Rosales,Luis Hern\u00e1ndez,2
+D. Rol\u00e1n,P. Baysse,2
+R. Rosales,\u00c1lex Mula,2
+\u00c1lex Mula,Juanpi,2
+Juanpi,A. Pe\u00f1aranda,2
+R. Rosales,E. Rol\u00f3n,2
+Juankar,D. Rol\u00e1n,2
+Luis Hern\u00e1ndez,R. Rosales,2
+A. Pe\u00f1aranda,R. Rosales,2
+E. Rol\u00f3n,Roberto,2
+E. Rol\u00f3n,R. Rosales,2
+Juankar,Roberto,2
+Juankar,Recio,2
+Luis Hern\u00e1ndez,E. Rol\u00f3n,2
+Juanpi,Luis Hern\u00e1ndez,2
+P. Baysse,Luis Hern\u00e1ndez,2
+E. Rol\u00f3n,\u00c1lex Mula,1
+Roberto,\u00c1lex Mula,1
+E. Rol\u00f3n,Recio,1
+D. Rol\u00e1n,Luis Hern\u00e1ndez,1
+R. Rosales,D. Rol\u00e1n,1
+D. Rol\u00e1n,R. Rosales,1
+A. Pe\u00f1aranda,Luis Hern\u00e1ndez,1
+Roberto,Recio,1
+P. Baysse,D. Rol\u00e1n,1
+Juanpi,P. Baysse,1
+R. Rosales,Juanpi,1
+P. Baysse,A. Pe\u00f1aranda,1
+Roberto,Juanpi,1
+Luis Hern\u00e1ndez,Recio,1
+\u00c1lex Mula,E. Rol\u00f3n,1
+Recio,Roberto,1
+R. Rosales,A. Pe\u00f1aranda,1
+Recio,D. Rol\u00e1n,1
+Recio,A. Pe\u00f1aranda,1
+A. Pe\u00f1aranda,Recio,1
+Roberto,E. Rol\u00f3n,1
+Juankar,A. Pe\u00f1aranda,1
+E. Rol\u00f3n,D. Rol\u00e1n,1
+D. Rol\u00e1n,Juankar,1
+\u00c1lex Mula,P. Baysse,1
+E. Rol\u00f3n,Juankar,1
+D. Rol\u00e1n,A. Pe\u00f1aranda,1
+D. Rol\u00e1n,Juanpi,1
+D. Rol\u00e1n,\u00c1lex Mula,1
+R. Rosales,Roberto,1
+Jony,A. Pe\u00f1aranda,1
+\u00c1lex Mula,A. Pe\u00f1aranda,1
+Recio,E. Rol\u00f3n,1
+Juankar,Juanpi,1
+E. Rol\u00f3n,Jony,1
+Recio,Jony,1
+P. Baysse,Roberto,1
+R. Rosales,Juankar,1
+Juanpi,E. Rol\u00f3n,1
+\u00c1lex Mula,R. Rosales,1
+Jony,R. Rosales,1
+E. Rol\u00f3n,P. Baysse,1
+Juanpi,R. Rosales,1
+E. Rol\u00f3n,A. Pe\u00f1aranda,1
+Juanpi,Juankar,1
+D. Rol\u00e1n,Recio,1

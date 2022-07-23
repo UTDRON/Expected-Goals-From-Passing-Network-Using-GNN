@@ -1,0 +1,60 @@
+Source,Target,Weight
+Vitolo,Jonathan Viera,9
+Ximo Navarro,M. Lemos,6
+Ximo Navarro,Vicente G\u00f3mez,5
+Jonathan Viera,Vitolo,5
+David Sim\u00f3n,Ximo Navarro,5
+Vicente G\u00f3mez,Ximo Navarro,5
+Javi Castellano,Vitolo,4
+Jonathan Viera,Ximo Navarro,4
+Ximo Navarro,David Sim\u00f3n,4
+David Sim\u00f3n,Vicente G\u00f3mez,4
+Tana,Jonathan Viera,3
+Vicente G\u00f3mez,Tana,3
+M. Lemos,Ximo Navarro,3
+Vicente G\u00f3mez,Javi Castellano,3
+Jonathan Viera,David Sim\u00f3n,3
+Tana,David Sim\u00f3n,2
+Vicente G\u00f3mez,M. Lemos,2
+Vitolo,Javi Castellano,2
+M. Lemos,Dani Castellano,2
+M. Lemos,Tana,2
+Javi Castellano,Dani Castellano,2
+M. Lemos,Vicente G\u00f3mez,2
+Jonathan Viera,Vicente G\u00f3mez,2
+Tana,Vicente G\u00f3mez,2
+Ximo Navarro,Tana,2
+Javi Castellano,Ra\u00fal Lizo\u00e1in,2
+Dani Castellano,M. Lemos,2
+David Sim\u00f3n,J. Calleri,2
+Vicente G\u00f3mez,David Sim\u00f3n,2
+M. Lemos,Javi Castellano,2
+Jonathan Viera,Tana,1
+Javi Castellano,Jonathan Viera,1
+Dani Castellano,Vitolo,1
+Javi Castellano,David Sim\u00f3n,1
+Jonathan Viera,Javi Castellano,1
+Ra\u00fal Lizo\u00e1in,M. Lemos,1
+David Sim\u00f3n,Tana,1
+David Sim\u00f3n,Vitolo,1
+Javi Castellano,Ximo Navarro,1
+Jonathan Viera,M. Lemos,1
+Ximo Navarro,Jonathan Viera,1
+Ra\u00fal Lizo\u00e1in,David Sim\u00f3n,1
+Ra\u00fal Lizo\u00e1in,Javi Castellano,1
+Ra\u00fal Lizo\u00e1in,Vicente G\u00f3mez,1
+Dani Castellano,Jonathan Viera,1
+Ximo Navarro,Vitolo,1
+J. Calleri,M. Lemos,1
+Tana,Ximo Navarro,1
+Vicente G\u00f3mez,Ra\u00fal Lizo\u00e1in,1
+Vicente G\u00f3mez,Jonathan Viera,1
+M. Lemos,Ra\u00fal Lizo\u00e1in,1
+Vitolo,Tana,1
+M. Lemos,Vitolo,1
+Tana,Vitolo,1
+Vitolo,Dani Castellano,1
+Ximo Navarro,Javi Castellano,1
+Dani Castellano,Javi Castellano,1
+Vitolo,Vicente G\u00f3mez,1
+J. Calleri,Jonathan Viera,1

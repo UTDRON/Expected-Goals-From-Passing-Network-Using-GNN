@@ -1,0 +1,93 @@
+Source,Target,Weight
+L. De Silvestri,Iago Falqu\u00e9,8
+N. N'Koulou,S. Sirigu,8
+T. Rinc\u00f3n,N. N'Koulou,7
+A. Belotti,T. Rinc\u00f3n,6
+N. N'Koulou,L. De Silvestri,5
+D. Baselli,L. De Silvestri,5
+A. Ljaji\u0107,A. Belotti,5
+Iago Falqu\u00e9,N. N'Koulou,4
+S. Sirigu,C. Ansaldi,4
+S. Sirigu,N. N'Koulou,4
+L. De Silvestri,D. Baselli,3
+T. Rinc\u00f3n,D. Baselli,3
+L. De Silvestri,N. N'Koulou,3
+A. Belotti,L. De Silvestri,3
+Iago Falqu\u00e9,D. Baselli,3
+N. Burdisso,S. Sirigu,3
+N. Burdisso,C. Ansaldi,3
+D. Baselli,Iago Falqu\u00e9,3
+A. Barreca,T. Rinc\u00f3n,3
+L. De Silvestri,A. Belotti,3
+A. Barreca,S. Sirigu,3
+A. Barreca,A. Ljaji\u0107,3
+S. Sirigu,A. Barreca,3
+S. Sirigu,A. Belotti,3
+Iago Falqu\u00e9,L. De Silvestri,3
+T. Rinc\u00f3n,L. De Silvestri,2
+L. De Silvestri,A. Barreca,2
+C. Ansaldi,A. Belotti,2
+J. Obi,T. Rinc\u00f3n,2
+D. Baselli,T. Rinc\u00f3n,2
+D. Baselli,N. Burdisso,2
+L. De Silvestri,A. Ljaji\u0107,2
+N. Burdisso,A. Ljaji\u0107,2
+A. Belotti,Iago Falqu\u00e9,2
+N. N'Koulou,Iago Falqu\u00e9,2
+A. Belotti,A. Ljaji\u0107,2
+N. N'Koulou,D. Baselli,2
+A. Barreca,J. Obi,2
+T. Rinc\u00f3n,A. Barreca,2
+C. Ansaldi,J. Obi,2
+C. Ansaldi,L. De Silvestri,2
+A. Ljaji\u0107,A. Barreca,2
+Iago Falqu\u00e9,A. Belotti,2
+J. Obi,A. Ljaji\u0107,2
+A. Ljaji\u0107,T. Rinc\u00f3n,2
+S. Sirigu,D. Baselli,2
+L. De Silvestri,T. Rinc\u00f3n,2
+A. Ljaji\u0107,J. Obi,2
+N. N'Koulou,N. Burdisso,2
+J. Obi,L. De Silvestri,1
+N. N'Koulou,J. Obi,1
+N. Burdisso,N. N'Koulou,1
+Iago Falqu\u00e9,S. Sirigu,1
+A. Belotti,N. Burdisso,1
+T. Rinc\u00f3n,A. Ljaji\u0107,1
+C. Ansaldi,A. Ljaji\u0107,1
+A. Belotti,J. Obi,1
+A. Ljaji\u0107,C. Ansaldi,1
+J. Obi,N. N'Koulou,1
+N. Burdisso,A. Barreca,1
+A. Belotti,S. Sirigu,1
+D. Baselli,N. N'Koulou,1
+Iago Falqu\u00e9,N. Burdisso,1
+D. Baselli,A. Barreca,1
+A. Belotti,A. Barreca,1
+N. N'Koulou,A. Barreca,1
+T. Rinc\u00f3n,J. Obi,1
+L. De Silvestri,N. Burdisso,1
+A. Barreca,A. Belotti,1
+A. Belotti,C. Ansaldi,1
+N. N'Koulou,A. Ljaji\u0107,1
+A. Ljaji\u0107,N. N'Koulou,1
+N. Burdisso,L. De Silvestri,1
+T. Rinc\u00f3n,S. Sirigu,1
+N. N'Koulou,A. Belotti,1
+A. Ljaji\u0107,Iago Falqu\u00e9,1
+A. Barreca,N. Burdisso,1
+Iago Falqu\u00e9,A. Ljaji\u0107,1
+J. Obi,A. Barreca,1
+C. Ansaldi,S. Sirigu,1
+A. Barreca,L. De Silvestri,1
+T. Rinc\u00f3n,A. Belotti,1
+C. Ansaldi,N. Burdisso,1
+S. Sirigu,N. Burdisso,1
+D. Baselli,J. Obi,1
+D. Baselli,A. Belotti,1
+Iago Falqu\u00e9,T. Rinc\u00f3n,1
+J. Obi,D. Baselli,1
+S. Sirigu,L. De Silvestri,1
+A. Ljaji\u0107,D. Baselli,1
+J. Obi,N. Burdisso,1
+A. Belotti,N. N'Koulou,1

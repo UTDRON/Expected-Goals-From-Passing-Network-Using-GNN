@@ -1,0 +1,47 @@
+Source,Target,Weight
+F. Fazio,Juan Jesus,4
+C. \u00dcnder,A. Florenzi,3
+A. Florenzi,C. \u00dcnder,3
+L. Pellegrini,Juan Jesus,2
+A. Florenzi,F. Fazio,2
+Alisson,F. Fazio,2
+Juan Jesus,Alisson,2
+A. Kolarov,S. El Shaarawy,2
+Juan Jesus,A. Kolarov,2
+Gerson,A. Florenzi,1
+F. Fazio,L. Pellegrini,1
+A. Florenzi,Alisson,1
+S. El Shaarawy,A. Florenzi,1
+A. Florenzi,A. Kolarov,1
+Gerson,F. Fazio,1
+M. Gonalons,F. Fazio,1
+F. Fazio,A. Kolarov,1
+F. Fazio,A. Florenzi,1
+M. Gonalons,E. D\u017eeko,1
+A. Kolarov,Juan Jesus,1
+E. D\u017eeko,A. Kolarov,1
+A. Kolarov,L. Pellegrini,1
+A. Kolarov,M. Gonalons,1
+L. Pellegrini,Alisson,1
+A. Kolarov,Gerson,1
+E. D\u017eeko,S. El Shaarawy,1
+A. Florenzi,E. D\u017eeko,1
+Alisson,Juan Jesus,1
+C. \u00dcnder,Gerson,1
+A. Florenzi,Gerson,1
+F. Fazio,C. \u00dcnder,1
+Juan Jesus,A. Florenzi,1
+E. D\u017eeko,C. \u00dcnder,1
+Juan Jesus,F. Fazio,1
+Gerson,L. Pellegrini,1
+Gerson,E. D\u017eeko,1
+M. Gonalons,Gerson,1
+L. Pellegrini,M. Gonalons,1
+Alisson,A. Florenzi,1
+S. El Shaarawy,A. Kolarov,1
+M. Gonalons,A. Florenzi,1
+Juan Jesus,M. Gonalons,1
+L. Pellegrini,S. El Shaarawy,1
+S. El Shaarawy,F. Fazio,1
+S. El Shaarawy,L. Pellegrini,1
+Juan Jesus,L. Pellegrini,1

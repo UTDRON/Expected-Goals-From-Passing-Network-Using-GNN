@@ -1,0 +1,24 @@
+Source,Target,Weight
+A. Budimir,S. Simi\u010d,3
+F. Ceccherini,A. Budimir,2
+A. Nalini,S. Simi\u010d,2
+M. Trotta,A. Nalini,2
+A. Budimir,M. Trotta,2
+S. Simi\u010d,A. Budimir,2
+A. Nalini,M. Sampirisi,1
+A. Cordaz,F. Ceccherini,1
+M. Sampirisi,A. Cordaz,1
+M. Trotta,A. Cordaz,1
+S. Simi\u010d,A. Nalini,1
+R. Mandragora,D. Pavlovic,1
+M. Sampirisi,M. Trotta,1
+A. Cordaz,A. Budimir,1
+A. Budimir,A. Nalini,1
+S. Simi\u010d,F. Ceccherini,1
+D. Pavlovic,A. Stoian,1
+M. Trotta,A. Stoian,1
+A. Stoian,M. Trotta,1
+A. Barberis,A. Budimir,1
+A. Stoian,R. Mandragora,1
+S. Simi\u010d,M. Sampirisi,1
+A. Nalini,R. Mandragora,1

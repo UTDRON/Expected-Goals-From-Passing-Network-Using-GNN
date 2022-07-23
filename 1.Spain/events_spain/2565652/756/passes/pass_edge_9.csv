@@ -1,0 +1,65 @@
+Source,Target,Weight
+Aday,\u00c1lex Granell,7
+Bernardo Espinosa,Muniesa,6
+\u00c1lex Granell,Aday,6
+Muniesa,Bernardo Espinosa,5
+Juanpe,Timor,4
+Bernardo Espinosa,Pablo Maffeo,3
+Bernardo Espinosa,Juanpe,3
+Muniesa,Aday,3
+Pere Pons,Bernardo Espinosa,3
+Pere Pons,Y. Bounou,3
+Muniesa,\u00c1lex Granell,3
+Portu,Pablo Maffeo,3
+\u00c1lex Granell,Muniesa,3
+Portu,Pere Pons,3
+Juanpe,Bernardo Espinosa,3
+Pablo Maffeo,Pere Pons,3
+Y. Bounou,C. Stuani,3
+Bernardo Espinosa,\u00c1lex Granell,2
+Pere Pons,Portu,2
+Muniesa,Pere Pons,2
+Pablo Maffeo,Aday,2
+Pere Pons,Juanpe,2
+Pablo Maffeo,Portu,2
+Muniesa,Pablo Maffeo,2
+Juanpe,Muniesa,2
+Juanpe,Y. Bounou,2
+Timor,Juanpe,2
+C. Stuani,Muniesa,2
+Muniesa,Y. Bounou,2
+Y. Bounou,Bernardo Espinosa,2
+Timor,Bernardo Espinosa,2
+Bernardo Espinosa,Timor,1
+C. Stuani,Pablo Maffeo,1
+\u00c1lex Granell,Timor,1
+Pablo Maffeo,Juanpe,1
+Y. Bounou,Muniesa,1
+Pablo Maffeo,\u00c1lex Granell,1
+Timor,Portu,1
+Pablo Maffeo,Muniesa,1
+Borja Garc\u00eda,\u00c1lex Granell,1
+Borja Garc\u00eda,Muniesa,1
+Y. Bounou,Timor,1
+\u00c1lex Granell,C. Stuani,1
+Aday,Timor,1
+Aday,Juanpe,1
+Timor,Pere Pons,1
+Timor,Pablo Maffeo,1
+Y. Bounou,Juanpe,1
+\u00c1lex Granell,Borja Garc\u00eda,1
+Y. Bounou,Pablo Maffeo,1
+Timor,Y. Bounou,1
+Muniesa,Timor,1
+Portu,Juanpe,1
+\u00c1lex Granell,Y. Bounou,1
+Bernardo Espinosa,Pere Pons,1
+Timor,Muniesa,1
+Muniesa,Portu,1
+Pablo Maffeo,Borja Garc\u00eda,1
+\u00c1lex Granell,Bernardo Espinosa,1
+C. Stuani,Pere Pons,1
+Pere Pons,C. Stuani,1
+Aday,Muniesa,1
+C. Stuani,Portu,1
+Aday,C. Stuani,1

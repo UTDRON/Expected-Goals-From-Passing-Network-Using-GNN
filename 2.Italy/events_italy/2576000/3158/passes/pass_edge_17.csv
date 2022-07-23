@@ -1,0 +1,29 @@
+Source,Target,Weight
+K. Strootman,S. El Shaarawy,5
+A. Kolarov,K. Strootman,3
+M. Gonalons,D. Perotti,2
+K. Strootman,M. Gonalons,2
+M. Gonalons,K. Strootman,2
+Gerson,M. Gonalons,2
+S. El Shaarawy,A. Kolarov,2
+Gerson,E. D\u017eeko,1
+K. Strootman,Gerson,1
+Juan Jesus,M. Gonalons,1
+E. D\u017eeko,M. Gonalons,1
+D. Perotti,Bruno Peres,1
+D. Perotti,Gerson,1
+S. El Shaarawy,K. Strootman,1
+D. Perotti,K. Strootman,1
+K. Strootman,Juan Jesus,1
+Bruno Peres,D. Perotti,1
+E. D\u017eeko,K. Strootman,1
+Bruno Peres,Gerson,1
+E. D\u017eeko,Juan Jesus,1
+M. Gonalons,Bruno Peres,1
+S. El Shaarawy,M. Gonalons,1
+Gerson,K. Strootman,1
+S. El Shaarawy,E. D\u017eeko,1
+M. Gonalons,Gerson,1
+M. Gonalons,S. El Shaarawy,1
+Juan Jesus,K. Strootman,1
+K. Strootman,A. Kolarov,1

@@ -1,0 +1,22 @@
+Source,Target,Weight
+Bruno Gaspar,Gil Dias,3
+G. Pezzella,Bruno Gaspar,3
+J. Veretout,F. Chiesa,3
+D. Astori,J. Veretout,2
+Gil Dias,Bruno Gaspar,2
+C. S\u00e1nchez,J. Veretout,1
+Bruno Gaspar,G. Pezzella,1
+G. Pezzella,D. Astori,1
+C. S\u00e1nchez,Gil Dias,1
+F. Chiesa,G. Pezzella,1
+G. Pezzella,C. S\u00e1nchez,1
+Bruno Gaspar,J. Veretout,1
+C. S\u00e1nchez,D. Astori,1
+Gil Dias,C. S\u00e1nchez,1
+J. Veretout,M. Sportiello,1
+D. Astori,G. Pezzella,1
+F. Chiesa,M. Benassi,1
+J. Veretout,D. Astori,1
+M. Sportiello,G. Pezzella,1
+M. Benassi,C. S\u00e1nchez,1
+Gil Dias,G. Pezzella,1

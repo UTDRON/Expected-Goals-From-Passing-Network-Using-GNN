@@ -1,0 +1,40 @@
+Source,Target,Weight
+A. Poli,E. Krafth,5
+F. Helander,G. Gonz\u00e1lez,3
+F. Helander,A. Poli,2
+G. Gonz\u00e1lez,E. Krafth,2
+E. Krafth,L. Crisetig,2
+G. Gonz\u00e1lez,F. Helander,2
+A. Poli,G. Gonz\u00e1lez,2
+E. Krafth,A. Poli,2
+E. Krafth,R. Palacio,2
+G. Gonz\u00e1lez,R. Palacio,2
+L. Crisetig,A. Poli,2
+L. Crisetig,G. Gonz\u00e1lez,1
+G. Donsah,A. Poli,1
+E. Krafth,G. Gonz\u00e1lez,1
+A. Masina,F. Helander,1
+G. Gonz\u00e1lez,L. Crisetig,1
+S. Verdi,F. Helander,1
+R. Palacio,G. Gonz\u00e1lez,1
+F. Di Francesco,A. Masina,1
+R. Palacio,S. Verdi,1
+R. Palacio,A. Poli,1
+R. Palacio,F. Helander,1
+E. Krafth,F. Di Francesco,1
+F. Helander,L. Crisetig,1
+R. Palacio,A. Masina,1
+A. Masina,E. Krafth,1
+L. Crisetig,A. Masina,1
+L. Crisetig,F. Helander,1
+L. Crisetig,G. Donsah,1
+A. Masina,F. Di Francesco,1
+A. Masina,S. Verdi,1
+F. Di Francesco,S. Verdi,1
+A. Poli,F. Di Francesco,1
+A. Poli,L. Crisetig,1
+S. Verdi,G. Donsah,1
+F. Di Francesco,A. Poli,1
+G. Gonz\u00e1lez,A. Masina,1
+G. Donsah,A. Masina,1
+A. Masina,R. Palacio,1

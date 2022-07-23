@@ -1,0 +1,41 @@
+Source,Target,Weight
+S. Ingelsson,G. Pezzella,3
+G. Pezzella,A. Bali\u0107,3
+A. Bar\u00e1k,F. Zampano,3
+A. Bali\u0107,A. Bar\u00e1k,3
+G. Pezzella,S. Perica,3
+F. Zampano,A. Bar\u00e1k,3
+F. Zampano,A. Bali\u0107,3
+A. Bar\u00e1k,A. Bali\u0107,2
+A. Bar\u00e1k,G. Pezzella,2
+S. Perica,F. Zampano,2
+F. Zampano,B. Nuytinck,2
+S. Perica,G. Pezzella,2
+G. Pezzella,Danilo,1
+A. Bali\u0107,B. Nuytinck,1
+B. Nuytinck,Danilo,1
+S. Ingelsson,B. Nuytinck,1
+A. Bali\u0107,Danilo,1
+F. Zampano,J. Jankto,1
+A. Bali\u0107,F. Zampano,1
+S. Perica,Samir,1
+J. Jankto,F. Zampano,1
+Samir,A. Bar\u00e1k,1
+Danilo,B. Nuytinck,1
+B. Nuytinck,A. Bizzarri,1
+A. Bali\u0107,Samir,1
+B. Nuytinck,F. Zampano,1
+Danilo,A. Bar\u00e1k,1
+Samir,G. Pezzella,1
+A. Bar\u00e1k,S. Ingelsson,1
+A. Bizzarri,G. Pezzella,1
+S. Ingelsson,S. Perica,1
+G. Pezzella,B. Nuytinck,1
+Samir,J. Jankto,1
+J. Jankto,S. Ingelsson,1
+B. Nuytinck,S. Perica,1
+A. Bali\u0107,S. Perica,1
+Danilo,F. Zampano,1
+S. Perica,S. Ingelsson,1
+B. Nuytinck,Samir,1
+G. Pezzella,S. Ingelsson,1

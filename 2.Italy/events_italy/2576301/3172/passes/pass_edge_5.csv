@@ -1,0 +1,35 @@
+Source,Target,Weight
+A. Masiello,R. Freuler,4
+R. Freuler,A. Masiello,3
+B. Cristante,A. G\u00f3mez,2
+Rafael Tol\u00f3i,B. Cristante,2
+E. Berisha,A. Masiello,2
+M. de Roon,B. Cristante,2
+R. Freuler,R. Gosens,2
+A. Masiello,A. G\u00f3mez,1
+M. de Roon,R. Freuler,1
+M. Barrow,R. Freuler,1
+R. Gosens,B. Cristante,1
+A. G\u00f3mez,Rafael Tol\u00f3i,1
+R. Freuler,A. G\u00f3mez,1
+A. Masiello,M. de Roon,1
+M. Caldara,M. de Roon,1
+Rafael Tol\u00f3i,M. Caldara,1
+R. Freuler,M. de Roon,1
+Rafael Tol\u00f3i,M. de Roon,1
+B. Cristante,M. Barrow,1
+M. de Roon,Rafael Tol\u00f3i,1
+B. Cristante,T. Castagne,1
+M. Barrow,A. Masiello,1
+T. Castagne,M. Barrow,1
+B. Cristante,Rafael Tol\u00f3i,1
+A. G\u00f3mez,B. Cristante,1
+A. G\u00f3mez,R. Freuler,1
+R. Freuler,Rafael Tol\u00f3i,1
+A. Masiello,Rafael Tol\u00f3i,1
+A. G\u00f3mez,E. Berisha,1
+Rafael Tol\u00f3i,T. Castagne,1
+M. de Roon,E. Berisha,1
+T. Castagne,M. de Roon,1
+R. Gosens,R. Freuler,1
+M. de Roon,A. Masiello,1

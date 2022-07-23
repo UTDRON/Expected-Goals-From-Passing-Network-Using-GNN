@@ -1,0 +1,36 @@
+Source,Target,Weight
+Sergi Enrich,David Junc\u00e0,3
+David Junc\u00e0,Dani Garc\u00eda,3
+Ander Capa,Iv\u00e1n Alejo,3
+T. Inui,Ander Capa,3
+Arbilla,David Junc\u00e0,3
+Dani Garc\u00eda,David Junc\u00e0,2
+Arbilla,Ander Capa,2
+G. Escalante,Arbilla,2
+Dani Garc\u00eda,T. Inui,2
+David Junc\u00e0,T. Inui,2
+David Junc\u00e0,Arbilla,2
+Sergi Enrich,Charles,1
+Iv\u00e1n Alejo,T. Inui,1
+Ander Capa,Paulo Oliveira,1
+G. Escalante,David Junc\u00e0,1
+Arbilla,G. Escalante,1
+Charles,David Junc\u00e0,1
+David Junc\u00e0,Sergi Enrich,1
+Ander Capa,Sergi Enrich,1
+Paulo Oliveira,Arbilla,1
+T. Inui,Sergi Enrich,1
+Paulo Oliveira,Sergi Enrich,1
+Sergi Enrich,Ander Capa,1
+Arbilla,Dani Garc\u00eda,1
+Ander Capa,Arbilla,1
+Iv\u00e1n Alejo,Ander Capa,1
+T. Inui,G. Escalante,1
+Dani Garc\u00eda,Arbilla,1
+T. Inui,Dani Garc\u00eda,1
+Ander Capa,Dani Garc\u00eda,1
+David Junc\u00e0,G. Escalante,1
+Iv\u00e1n Alejo,Sergi Enrich,1
+Ander Capa,T. Inui,1
+Dani Garc\u00eda,Ander Capa,1
+David Junc\u00e0,Charles,1

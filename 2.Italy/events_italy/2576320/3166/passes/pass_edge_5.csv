@@ -1,0 +1,87 @@
+Source,Target,Weight
+A. Poli,I. M'baye,9
+I. M'baye,A. Poli,8
+F. Helander,A. Masina,6
+E. Pulgar,A. Masina,6
+E. Pulgar,S. Verdi,5
+C. Falletti,E. Pulgar,5
+A. Poli,C. Falletti,5
+A. Masina,C. Falletti,5
+E. Pulgar,F. Helander,5
+C. Falletti,S. Verdi,4
+I. M'baye,S. De Maio,4
+G. Donsah,A. Masina,4
+I. M'baye,E. Pulgar,4
+S. De Maio,A. Poli,4
+F. Avenatti,I. M'baye,4
+E. Pulgar,A. Poli,4
+S. De Maio,F. Helander,3
+S. Verdi,F. Avenatti,3
+A. Mirante,F. Helander,3
+A. Masina,A. Poli,3
+F. Helander,E. Pulgar,3
+G. Donsah,E. Pulgar,3
+E. Pulgar,S. De Maio,3
+A. Masina,F. Helander,3
+A. Masina,G. Donsah,3
+A. Poli,E. Pulgar,3
+S. Verdi,E. Pulgar,3
+I. M'baye,A. Mirante,2
+S. De Maio,A. Mirante,2
+F. Helander,F. Avenatti,2
+F. Helander,C. Falletti,2
+S. De Maio,E. Pulgar,2
+S. Verdi,F. Helander,2
+R. Palacio,S. De Maio,2
+C. Falletti,I. M'baye,2
+C. Falletti,F. Avenatti,2
+C. Falletti,F. Helander,2
+A. Masina,F. Avenatti,2
+I. M'baye,R. Palacio,2
+A. Poli,S. Verdi,2
+A. Poli,S. De Maio,2
+A. Masina,S. Verdi,2
+S. De Maio,I. M'baye,2
+F. Helander,A. Poli,2
+E. Pulgar,F. Avenatti,2
+F. Avenatti,A. Masina,2
+E. Pulgar,I. M'baye,2
+R. Palacio,C. Falletti,2
+S. Verdi,G. Donsah,2
+F. Helander,G. Donsah,2
+F. Avenatti,R. Palacio,2
+F. Avenatti,E. Pulgar,2
+S. Verdi,A. Masina,2
+I. M'baye,F. Avenatti,2
+A. Masina,E. Pulgar,2
+E. Pulgar,A. Mirante,1
+F. Helander,I. M'baye,1
+G. Donsah,I. M'baye,1
+S. Verdi,I. M'baye,1
+A. Masina,R. Palacio,1
+A. Masina,S. De Maio,1
+F. Avenatti,F. Helander,1
+S. Verdi,C. Falletti,1
+I. M'baye,G. Donsah,1
+F. Avenatti,S. Verdi,1
+E. Pulgar,R. Palacio,1
+A. Poli,A. Masina,1
+F. Helander,R. Palacio,1
+A. Mirante,E. Pulgar,1
+R. Palacio,E. Pulgar,1
+F. Avenatti,C. Falletti,1
+C. Falletti,A. Poli,1
+F. Helander,S. De Maio,1
+F. Avenatti,G. Donsah,1
+A. Mirante,S. De Maio,1
+R. Palacio,F. Helander,1
+F. Avenatti,A. Poli,1
+F. Helander,A. Mirante,1
+S. De Maio,R. Palacio,1
+R. Palacio,S. Verdi,1
+A. Poli,F. Avenatti,1
+G. Donsah,S. Verdi,1
+R. Palacio,I. M'baye,1
+R. Palacio,A. Masina,1
+S. Verdi,R. Palacio,1
+A. Mirante,F. Avenatti,1

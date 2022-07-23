@@ -1,0 +1,84 @@
+Source,Target,Weight
+R. Freuler,H. Hateboer,7
+R. Freuler,A. G\u00f3mez,7
+A. Masiello,R. Freuler,6
+H. Hateboer,R. Freuler,6
+A. G\u00f3mez,R. Freuler,6
+H. Hateboer,A. Masiello,6
+Rafael Tol\u00f3i,B. Cristante,5
+R. Freuler,M. de Roon,5
+M. Caldara,Rafael Tol\u00f3i,4
+A. Masiello,A. G\u00f3mez,4
+M. de Roon,Rafael Tol\u00f3i,4
+M. de Roon,A. Masiello,4
+B. Cristante,T. Castagne,3
+T. Castagne,R. Freuler,3
+B. Cristante,A. Cornelius,3
+A. G\u00f3mez,H. Hateboer,3
+R. Freuler,T. Castagne,2
+E. Berisha,B. Cristante,2
+R. Freuler,A. Masiello,2
+A. Cornelius,M. Caldara,2
+Rafael Tol\u00f3i,M. Caldara,2
+E. Berisha,A. Cornelius,2
+A. Masiello,M. Caldara,2
+M. de Roon,B. Cristante,2
+A. G\u00f3mez,M. Caldara,2
+A. Cornelius,M. de Roon,2
+B. Cristante,Rafael Tol\u00f3i,2
+A. Masiello,Rafael Tol\u00f3i,2
+M. Caldara,A. Masiello,2
+A. G\u00f3mez,B. Cristante,2
+A. G\u00f3mez,A. Cornelius,2
+M. Caldara,M. de Roon,2
+Rafael Tol\u00f3i,A. Cornelius,2
+A. G\u00f3mez,A. Masiello,2
+A. Masiello,E. Berisha,2
+H. Hateboer,B. Cristante,2
+B. Cristante,M. Caldara,2
+H. Hateboer,A. G\u00f3mez,2
+A. Masiello,H. Hateboer,2
+E. Berisha,H. Hateboer,2
+A. Cornelius,E. Berisha,1
+Rafael Tol\u00f3i,E. Berisha,1
+Rafael Tol\u00f3i,M. de Roon,1
+M. Caldara,A. Cornelius,1
+M. Caldara,A. G\u00f3mez,1
+B. Cristante,M. de Roon,1
+A. Cornelius,Rafael Tol\u00f3i,1
+E. Berisha,R. Freuler,1
+R. Freuler,A. Cornelius,1
+M. de Roon,A. G\u00f3mez,1
+T. Castagne,M. Caldara,1
+R. Freuler,M. Caldara,1
+T. Castagne,Rafael Tol\u00f3i,1
+M. Caldara,R. Freuler,1
+Rafael Tol\u00f3i,T. Castagne,1
+A. Masiello,M. de Roon,1
+R. Freuler,B. Cristante,1
+A. Cornelius,H. Hateboer,1
+M. de Roon,M. Caldara,1
+H. Hateboer,M. de Roon,1
+M. Caldara,E. Berisha,1
+T. Castagne,M. de Roon,1
+A. G\u00f3mez,T. Castagne,1
+A. Cornelius,T. Castagne,1
+T. Castagne,E. Berisha,1
+A. Cornelius,A. G\u00f3mez,1
+B. Cristante,A. Masiello,1
+A. Cornelius,R. Freuler,1
+B. Cristante,H. Hateboer,1
+Rafael Tol\u00f3i,A. G\u00f3mez,1
+Rafael Tol\u00f3i,H. Hateboer,1
+Rafael Tol\u00f3i,R. Freuler,1
+R. Freuler,Rafael Tol\u00f3i,1
+T. Castagne,B. Cristante,1
+B. Cristante,R. Freuler,1
+A. Cornelius,B. Cristante,1
+M. de Roon,T. Castagne,1
+M. de Roon,A. Cornelius,1
+H. Hateboer,E. Berisha,1
+B. Cristante,A. G\u00f3mez,1
+T. Castagne,A. Masiello,1
+M. Caldara,H. Hateboer,1
+A. Cornelius,A. Masiello,1

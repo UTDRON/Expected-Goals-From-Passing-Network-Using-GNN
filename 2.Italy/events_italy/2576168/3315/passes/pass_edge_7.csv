@@ -1,0 +1,21 @@
+Source,Target,Weight
+Pol Lirola,D. Berardi,3
+D. Berardi,Pol Lirola,2
+D. Berardi,S. Missiroli,2
+D. Berardi,F. Magnanelli,2
+F. Acerbi,D. Berardi,2
+S. Missiroli,F. Acerbi,2
+S. Missiroli,Pol Lirola,2
+F. Magnanelli,D. Berardi,1
+Pol Lirola,A. Ragusa,1
+F. Peluso,Pol Lirola,1
+A. Duncan,F. Peluso,1
+F. Magnanelli,S. Missiroli,1
+Pol Lirola,A. Duncan,1
+Pol Lirola,E. Goldaniga,1
+A. Consigli,S. Missiroli,1
+Pol Lirola,S. Missiroli,1
+F. Acerbi,A. Consigli,1
+E. Goldaniga,Pol Lirola,1
+S. Missiroli,D. Berardi,1
+A. Ragusa,Pol Lirola,1

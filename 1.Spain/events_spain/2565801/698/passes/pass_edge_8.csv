@@ -1,0 +1,39 @@
+Source,Target,Weight
+M. Arambarri,D. Su\u00e1rez,4
+D. Su\u00e1rez,M. Arambarri,3
+D. Su\u00e1rez,A. Ndiaye,2
+D. Su\u00e1rez,Portillo,2
+D. Su\u00e1rez,Bruno,2
+Sergio Mora,Jorge Molina,2
+\u00c1ngel,D. Su\u00e1rez,2
+Portillo,D. Su\u00e1rez,2
+Portillo,\u00c1ngel,1
+\u00c1ngel,Antunes,1
+\u00c1ngel,Djen\u00e9,1
+Djen\u00e9,\u00c1ngel,1
+Djen\u00e9,D. Su\u00e1rez,1
+Antunes,D. Su\u00e1rez,1
+Bruno,Djen\u00e9,1
+D. Su\u00e1rez,Djen\u00e9,1
+Portillo,Jorge Molina,1
+Jorge Molina,Portillo,1
+A. Ndiaye,\u00c1ngel,1
+Jorge Molina,D. Su\u00e1rez,1
+A. Ndiaye,Djen\u00e9,1
+Djen\u00e9,A. Ndiaye,1
+Jorge Molina,\u00c1ngel,1
+A. Ndiaye,M. Arambarri,1
+A. Ndiaye,Portillo,1
+Jorge Molina,Antunes,1
+Djen\u00e9,Portillo,1
+M. Arambarri,A. Ndiaye,1
+A. Ndiaye,Sergio Mora,1
+D. Su\u00e1rez,Jorge Molina,1
+Djen\u00e9,Bruno,1
+Bruno,M. Arambarri,1
+Bruno,A. Ndiaye,1
+D. Su\u00e1rez,Sergio Mora,1
+\u00c1ngel,A. Ndiaye,1
+Portillo,Djen\u00e9,1
+A. Ndiaye,D. Su\u00e1rez,1
+Antunes,Bruno,1

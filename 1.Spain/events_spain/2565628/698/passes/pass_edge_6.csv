@@ -1,0 +1,39 @@
+Source,Target,Weight
+Juan Cala,Djen\u00e9,3
+F. Fajr,Markel Bergara,2
+Antunes,Juan Cala,2
+Markel Bergara,D. Su\u00e1rez,2
+D. Su\u00e1rez,Juan Cala,2
+Djen\u00e9,Antunes,2
+Djen\u00e9,Markel Bergara,2
+M. Arambarri,Djen\u00e9,2
+D. Su\u00e1rez,M. Arambarri,2
+A. Ndiaye,Portillo,2
+Guaita,Juan Cala,1
+A. Ndiaye,D. Su\u00e1rez,1
+Portillo,Guaita,1
+F. Fajr,D. Su\u00e1rez,1
+M. Arambarri,Juan Cala,1
+A. Ndiaye,F. Fajr,1
+Guaita,D. Su\u00e1rez,1
+D. Su\u00e1rez,Djen\u00e9,1
+Juan Cala,Antunes,1
+D. Su\u00e1rez,A. Ndiaye,1
+Antunes,M. Arambarri,1
+Markel Bergara,Antunes,1
+Juan Cala,Markel Bergara,1
+Juan Cala,M. Arambarri,1
+M. Arambarri,Guaita,1
+Juan Cala,A. Ndiaye,1
+Markel Bergara,F. Fajr,1
+Markel Bergara,Juan Cala,1
+Antunes,Markel Bergara,1
+Markel Bergara,Djen\u00e9,1
+Djen\u00e9,D. Su\u00e1rez,1
+Djen\u00e9,Juan Cala,1
+Markel Bergara,A. Ndiaye,1
+Djen\u00e9,Guaita,1
+D. Su\u00e1rez,Markel Bergara,1
+Guaita,Antunes,1
+Portillo,A. Ndiaye,1
+Antunes,D. Su\u00e1rez,1

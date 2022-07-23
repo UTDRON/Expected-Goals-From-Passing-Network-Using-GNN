@@ -1,0 +1,83 @@
+Source,Target,Weight
+A. Mandi,Barrag\u00e1n,10
+J. Narv\u00e1ez,Barrag\u00e1n,6
+Z. Feddal,A. Mandi,6
+Barrag\u00e1n,J. Narv\u00e1ez,6
+Barrag\u00e1n,A. Mandi,6
+A. Guardado,Z. Feddal,5
+Ad\u00e1n,A. Mandi,5
+Mat\u00edas Nahuel,J. Narv\u00e1ez,5
+Barrag\u00e1n,Mat\u00edas Nahuel,4
+A. Mandi,J. Narv\u00e1ez,4
+J. Narv\u00e1ez,A. Guardado,4
+Z. Feddal,Ad\u00e1n,4
+A. To\u0219ca,Z. Feddal,4
+A. Guardado,Mat\u00edas Nahuel,3
+A. To\u0219ca,Joaqu\u00edn,3
+Ad\u00e1n,A. To\u0219ca,3
+Joaqu\u00edn,V\u00edctor Camarasa,3
+A. Mandi,A. Guardado,3
+Barrag\u00e1n,A. Guardado,3
+A. Guardado,A. Mandi,3
+A. Mandi,Ad\u00e1n,3
+Z. Feddal,Joaqu\u00edn,2
+J. Narv\u00e1ez,V\u00edctor Camarasa,2
+A. Guardado,A. To\u0219ca,2
+Joaqu\u00edn,A. Guardado,2
+J. Narv\u00e1ez,Z. Feddal,2
+Mat\u00edas Nahuel,Sergio Le\u00f3n,2
+Barrag\u00e1n,Ad\u00e1n,2
+Joaqu\u00edn,J. Narv\u00e1ez,2
+Z. Feddal,A. Guardado,2
+V\u00edctor Camarasa,Mat\u00edas Nahuel,2
+Z. Feddal,Sergio Le\u00f3n,2
+A. To\u0219ca,A. Guardado,2
+A. Guardado,J. Narv\u00e1ez,2
+Mat\u00edas Nahuel,V\u00edctor Camarasa,2
+Sergio Le\u00f3n,A. To\u0219ca,2
+J. Narv\u00e1ez,Ad\u00e1n,2
+A. Mandi,Mat\u00edas Nahuel,2
+V\u00edctor Camarasa,A. Mandi,2
+Mat\u00edas Nahuel,Z. Feddal,2
+V\u00edctor Camarasa,Z. Feddal,2
+J. Narv\u00e1ez,Mat\u00edas Nahuel,2
+V\u00edctor Camarasa,A. Guardado,2
+Ad\u00e1n,Joaqu\u00edn,1
+Z. Feddal,V\u00edctor Camarasa,1
+Ad\u00e1n,Barrag\u00e1n,1
+A. Mandi,A. To\u0219ca,1
+Barrag\u00e1n,V\u00edctor Camarasa,1
+Z. Feddal,Mat\u00edas Nahuel,1
+J. Narv\u00e1ez,A. To\u0219ca,1
+J. Narv\u00e1ez,A. Mandi,1
+Mat\u00edas Nahuel,Barrag\u00e1n,1
+V\u00edctor Camarasa,Ad\u00e1n,1
+Mat\u00edas Nahuel,A. Guardado,1
+V\u00edctor Camarasa,Barrag\u00e1n,1
+Joaqu\u00edn,A. To\u0219ca,1
+Ad\u00e1n,A. Guardado,1
+A. To\u0219ca,V\u00edctor Camarasa,1
+J. Narv\u00e1ez,Sergio Le\u00f3n,1
+Ad\u00e1n,Mat\u00edas Nahuel,1
+V\u00edctor Camarasa,J. Narv\u00e1ez,1
+V\u00edctor Camarasa,Joaqu\u00edn,1
+Joaqu\u00edn,Barrag\u00e1n,1
+Mat\u00edas Nahuel,A. Mandi,1
+Sergio Le\u00f3n,V\u00edctor Camarasa,1
+A. Mandi,Z. Feddal,1
+A. Guardado,Joaqu\u00edn,1
+Ad\u00e1n,Sergio Le\u00f3n,1
+A. Guardado,Barrag\u00e1n,1
+Joaqu\u00edn,Sergio Le\u00f3n,1
+Joaqu\u00edn,Z. Feddal,1
+A. Guardado,V\u00edctor Camarasa,1
+A. Guardado,Ad\u00e1n,1
+Sergio Le\u00f3n,Barrag\u00e1n,1
+A. Mandi,Joaqu\u00edn,1
+Sergio Le\u00f3n,A. Mandi,1
+Ad\u00e1n,Z. Feddal,1
+J. Narv\u00e1ez,Joaqu\u00edn,1
+Sergio Le\u00f3n,J. Narv\u00e1ez,1
+A. Guardado,Sergio Le\u00f3n,1
+Sergio Le\u00f3n,Joaqu\u00edn,1
+Mat\u00edas Nahuel,Ad\u00e1n,1

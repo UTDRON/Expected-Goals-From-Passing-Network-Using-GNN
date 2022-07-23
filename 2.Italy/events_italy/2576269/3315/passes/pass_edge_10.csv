@@ -1,0 +1,48 @@
+Source,Target,Weight
+C. Dell'Orco,F. Acerbi,4
+F. Acerbi,A. Consigli,3
+F. Acerbi,C. Dell'Orco,2
+M. Politano,S. Missiroli,2
+C. Adjapong,F. Magnanelli,2
+F. Peluso,C. Adjapong,2
+C. Dell'Orco,Rog\u00e9rio,2
+Rog\u00e9rio,F. Acerbi,2
+S. Missiroli,K. Babacar,2
+A. Consigli,S. Missiroli,2
+Rog\u00e9rio,C. Dell'Orco,2
+F. Acerbi,F. Peluso,2
+K. Babacar,M. Politano,2
+S. Missiroli,C. Dell'Orco,2
+K. Babacar,Rog\u00e9rio,2
+M. Politano,C. Dell'Orco,2
+F. Magnanelli,M. Politano,2
+C. Dell'Orco,M. Politano,2
+S. Missiroli,F. Acerbi,1
+F. Peluso,D. Berardi,1
+S. Missiroli,C. Adjapong,1
+M. Politano,F. Magnanelli,1
+F. Peluso,F. Acerbi,1
+C. Dell'Orco,K. Babacar,1
+F. Cassata,F. Peluso,1
+Rog\u00e9rio,S. Missiroli,1
+C. Adjapong,M. Politano,1
+M. Politano,Rog\u00e9rio,1
+S. Missiroli,Rog\u00e9rio,1
+F. Acerbi,F. Cassata,1
+F. Magnanelli,S. Missiroli,1
+D. Berardi,C. Dell'Orco,1
+M. Politano,K. Babacar,1
+S. Missiroli,M. Politano,1
+F. Magnanelli,F. Acerbi,1
+A. Consigli,F. Acerbi,1
+F. Acerbi,K. Babacar,1
+M. Politano,C. Adjapong,1
+C. Dell'Orco,F. Cassata,1
+K. Babacar,S. Missiroli,1
+F. Acerbi,Rog\u00e9rio,1
+Rog\u00e9rio,C. Adjapong,1
+C. Adjapong,F. Peluso,1
+Rog\u00e9rio,M. Politano,1
+Rog\u00e9rio,F. Magnanelli,1
+F. Cassata,Rog\u00e9rio,1
+C. Adjapong,S. Missiroli,1

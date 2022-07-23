@@ -1,0 +1,80 @@
+Source,Target,Weight
+A. Aquilani,Jonathan Viera,7
+Tana,Jonathan Viera,7
+A. Aquilani,Hern\u00e1n,7
+Hern\u00e1n,A. Aquilani,6
+Jonathan Viera,A. Aquilani,6
+Jonathan Viera,Hern\u00e1n,6
+O. Tannane,A. Aquilani,4
+Hern\u00e1n,M\u00edchel,4
+O. Tannane,J. Calleri,4
+Ximo Navarro,L. Chichizola,4
+Jonathan Viera,Tana,4
+Borja Herrera,Jonathan Viera,4
+Jonathan Viera,M. Lemos,4
+Borja Herrera,Tana,3
+A. Aquilani,Tana,3
+M\u00edchel,M. Lemos,3
+Tana,A. Aquilani,3
+M. Lemos,Ximo Navarro,3
+J. Calleri,Hern\u00e1n,3
+Ximo Navarro,M. Lemos,3
+Hern\u00e1n,Tana,3
+A. Aquilani,Borja Herrera,3
+Tana,J. Calleri,3
+A. Aquilani,Ximo Navarro,3
+Jonathan Viera,Borja Herrera,3
+L. Chichizola,A. Aquilani,2
+Jonathan Viera,M\u00edchel,2
+A. Aquilani,O. Tannane,2
+M. Lemos,A. Aquilani,2
+Ximo Navarro,Jonathan Viera,2
+M\u00edchel,Jonathan Viera,2
+Hern\u00e1n,L. Chichizola,2
+O. Tannane,M\u00edchel,2
+M\u00edchel,Ximo Navarro,2
+M. Lemos,M\u00edchel,2
+J. Calleri,M\u00edchel,2
+J. Calleri,O. Tannane,2
+Jonathan Viera,J. Calleri,2
+L. Chichizola,M. Lemos,2
+Borja Herrera,J. Calleri,2
+Tana,O. Tannane,2
+M. Lemos,Jonathan Viera,2
+M\u00edchel,Hern\u00e1n,2
+M\u00edchel,J. Calleri,2
+Hern\u00e1n,O. Tannane,2
+Tana,Borja Herrera,2
+A. Aquilani,M\u00edchel,1
+M\u00edchel,Tana,1
+L. Chichizola,Borja Herrera,1
+Hern\u00e1n,Jonathan Viera,1
+Ximo Navarro,M\u00edchel,1
+Borja Herrera,O. Tannane,1
+J. Calleri,Jonathan Viera,1
+M. Lemos,Borja Herrera,1
+M. Lemos,Hern\u00e1n,1
+J. Calleri,Borja Herrera,1
+L. Chichizola,Ximo Navarro,1
+O. Tannane,Tana,1
+Borja Herrera,Hern\u00e1n,1
+M\u00edchel,O. Tannane,1
+M\u00edchel,L. Chichizola,1
+M. Lemos,O. Tannane,1
+Hern\u00e1n,Borja Herrera,1
+Hern\u00e1n,M. Lemos,1
+L. Chichizola,O. Tannane,1
+L. Chichizola,Tana,1
+J. Calleri,A. Aquilani,1
+Borja Herrera,Ximo Navarro,1
+J. Calleri,Tana,1
+Tana,Hern\u00e1n,1
+M. Lemos,L. Chichizola,1
+M. Lemos,Tana,1
+M\u00edchel,A. Aquilani,1
+Hern\u00e1n,Ximo Navarro,1
+O. Tannane,Jonathan Viera,1
+Borja Herrera,M\u00edchel,1
+J. Calleri,M. Lemos,1
+Ximo Navarro,A. Aquilani,1
+O. Tannane,Borja Herrera,1

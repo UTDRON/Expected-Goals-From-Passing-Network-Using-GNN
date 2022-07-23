@@ -1,0 +1,53 @@
+Source,Target,Weight
+Zald\u00faa,N. El Zhar,3
+C. Beauvue,A. Szymanowski,2
+Erik Mor\u00e1n,Diego Rico,2
+Diego Rico,Erik Mor\u00e1n,2
+N. El Zhar,Diego Rico,2
+Diego Rico,Cu\u00e9llar,2
+Diego Rico,Rub\u00e9n P\u00e9rez,2
+M. Mantovani,Erik Mor\u00e1n,2
+Cu\u00e9llar,C. Beauvue,2
+Diego Rico,A. Szymanowski,2
+Rub\u00e9n P\u00e9rez,Diego Rico,2
+A. Szymanowski,Diego Rico,2
+Zald\u00faa,Rub\u00e9n P\u00e9rez,2
+A. Szymanowski,Zald\u00faa,2
+M. Mantovani,Diego Rico,2
+C. Beauvue,Zald\u00faa,2
+A. Szymanowski,M. Mantovani,1
+N. El Zhar,Gabriel,1
+E. Mu\u00f1oz,Diego Rico,1
+Guerrero,M. Mantovani,1
+Diego Rico,Guerrero,1
+Gabriel,M. Mantovani,1
+Cu\u00e9llar,Gabriel,1
+E. Mu\u00f1oz,Guerrero,1
+Rub\u00e9n P\u00e9rez,M. Mantovani,1
+Cu\u00e9llar,Rub\u00e9n P\u00e9rez,1
+C. Beauvue,N. El Zhar,1
+Zald\u00faa,E. Mu\u00f1oz,1
+Zald\u00faa,C. Beauvue,1
+Diego Rico,C. Beauvue,1
+A. Szymanowski,E. Mu\u00f1oz,1
+E. Mu\u00f1oz,Cu\u00e9llar,1
+Erik Mor\u00e1n,Gabriel,1
+Rub\u00e9n P\u00e9rez,C. Beauvue,1
+C. Beauvue,Diego Rico,1
+E. Mu\u00f1oz,Erik Mor\u00e1n,1
+Erik Mor\u00e1n,Zald\u00faa,1
+E. Mu\u00f1oz,Rub\u00e9n P\u00e9rez,1
+M. Mantovani,C. Beauvue,1
+Diego Rico,E. Mu\u00f1oz,1
+Gabriel,Diego Rico,1
+N. El Zhar,A. Szymanowski,1
+Gabriel,E. Mu\u00f1oz,1
+E. Mu\u00f1oz,N. El Zhar,1
+Rub\u00e9n P\u00e9rez,A. Szymanowski,1
+Rub\u00e9n P\u00e9rez,E. Mu\u00f1oz,1
+Erik Mor\u00e1n,Rub\u00e9n P\u00e9rez,1
+Diego Rico,Zald\u00faa,1
+Guerrero,Zald\u00faa,1
+Rub\u00e9n P\u00e9rez,Zald\u00faa,1
+Diego Rico,M. Mantovani,1
+N. El Zhar,Cu\u00e9llar,1

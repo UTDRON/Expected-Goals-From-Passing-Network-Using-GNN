@@ -1,0 +1,95 @@
+Source,Target,Weight
+Molinero,Portillo,7
+Portillo,Molinero,7
+Juan Cala,Antunes,6
+Antunes,Juan Cala,6
+Portillo,Jorge Molina,5
+E. Mart\u00ednez,Jorge Molina,5
+Jorge Molina,A. Ndiaye,5
+M. Arambarri,Portillo,4
+Antunes,Portillo,4
+Antunes,M. Arambarri,4
+A. Ndiaye,Antunes,4
+M. Arambarri,Antunes,4
+Jorge Molina,Portillo,3
+A. Ndiaye,M. Arambarri,3
+Juan Cala,Jorge Molina,3
+Portillo,Markel Bergara,3
+Molinero,M. Arambarri,3
+Antunes,Dani Pacheco,3
+M. Arambarri,E. Mart\u00ednez,3
+Djen\u00e9,E. Mart\u00ednez,3
+Antunes,A. Ndiaye,3
+Juan Cala,Djen\u00e9,3
+Djen\u00e9,Juan Cala,3
+Djen\u00e9,Molinero,3
+M. Arambarri,Molinero,3
+Jorge Molina,Antunes,3
+Portillo,A. Ndiaye,3
+M. Arambarri,Juan Cala,3
+Markel Bergara,Antunes,2
+Jorge Molina,Molinero,2
+Molinero,Juan Cala,2
+Jorge Molina,M. Arambarri,2
+G. Shibasaki,Juan Cala,2
+E. Mart\u00ednez,Portillo,2
+Juan Cala,Portillo,2
+Molinero,Jorge Molina,2
+Antunes,Molinero,2
+Markel Bergara,Djen\u00e9,2
+Portillo,Antunes,2
+A. Ndiaye,G. Shibasaki,2
+D. Su\u00e1rez,Portillo,2
+Molinero,Djen\u00e9,2
+D. Su\u00e1rez,Djen\u00e9,2
+Antunes,Jorge Molina,2
+Juan Cala,M. Arambarri,2
+Djen\u00e9,M. Arambarri,2
+Jorge Molina,D. Su\u00e1rez,2
+Molinero,G. Shibasaki,2
+M. Arambarri,Djen\u00e9,2
+Portillo,Djen\u00e9,2
+Dani Pacheco,M. Arambarri,2
+\u00c1ngel,M. Arambarri,2
+Molinero,E. Mart\u00ednez,2
+Dani Pacheco,Antunes,2
+D. Su\u00e1rez,Jorge Molina,2
+Portillo,M. Arambarri,2
+G. Shibasaki,Portillo,2
+E. Mart\u00ednez,D. Su\u00e1rez,1
+E. Mart\u00ednez,G. Shibasaki,1
+A. Ndiaye,Portillo,1
+M. Arambarri,Markel Bergara,1
+Portillo,D. Su\u00e1rez,1
+Djen\u00e9,D. Su\u00e1rez,1
+M. Arambarri,Dani Pacheco,1
+Djen\u00e9,G. Shibasaki,1
+Markel Bergara,Juan Cala,1
+G. Shibasaki,Molinero,1
+G. Shibasaki,D. Su\u00e1rez,1
+Portillo,\u00c1ngel,1
+G. Shibasaki,A. Ndiaye,1
+\u00c1ngel,Molinero,1
+D. Su\u00e1rez,Markel Bergara,1
+E. Mart\u00ednez,Juan Cala,1
+E. Mart\u00ednez,M. Arambarri,1
+D. Su\u00e1rez,E. Mart\u00ednez,1
+M. Arambarri,\u00c1ngel,1
+Juan Cala,Markel Bergara,1
+D. Su\u00e1rez,G. Shibasaki,1
+\u00c1ngel,Antunes,1
+Antunes,E. Mart\u00ednez,1
+Juan Cala,Molinero,1
+Juan Cala,D. Su\u00e1rez,1
+Jorge Molina,\u00c1ngel,1
+A. Ndiaye,Djen\u00e9,1
+G. Shibasaki,M. Arambarri,1
+Markel Bergara,Molinero,1
+Portillo,Juan Cala,1
+Djen\u00e9,Antunes,1
+A. Ndiaye,E. Mart\u00ednez,1
+Jorge Molina,Markel Bergara,1
+Jorge Molina,G. Shibasaki,1
+Molinero,\u00c1ngel,1
+M. Arambarri,Jorge Molina,1
+Markel Bergara,D. Su\u00e1rez,1

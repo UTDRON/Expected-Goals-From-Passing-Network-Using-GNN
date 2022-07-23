@@ -1,0 +1,19 @@
+Source,Target,Weight
+Ivi,Luna,2
+Chema,E. Cabaco,2
+J. Lerma,Chema,2
+S. Luki\u0107,J. Lerma,2
+Roger,J. Lerma,1
+E. Cabaco,Ivi,1
+Chema,Oier,1
+J. Lerma,Oier,1
+J. Lerma,Luna,1
+Oier,Ivi,1
+Luna,Roger,1
+Luna,Ivi,1
+E. Cabaco,Chema,1
+Ivi,S. Luki\u0107,1
+J. Lerma,E. Cabaco,1
+Luna,J. Lerma,1
+Oier,S. Luki\u0107,1
+E. Cabaco,J. Lerma,1

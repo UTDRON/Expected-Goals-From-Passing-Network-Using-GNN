@@ -1,0 +1,29 @@
+Source,Target,Weight
+M. Parolo,Felipe Anderson,2
+D. Basta,M. Parolo,2
+Wallace,Lucas Leiva,2
+M. Parolo,D. Basta,2
+C. Immobile,Luis Alberto,1
+Luis Alberto,Luiz Felipe,1
+Felipe Anderson,Luiz Felipe,1
+T. Strakosha,J. Lukaku,1
+D. Basta,Luis Alberto,1
+Lucas Leiva,C. Immobile,1
+Lucas Leiva,Wallace,1
+D. Basta,T. Strakosha,1
+Felipe Anderson,Lucas Leiva,1
+Lucas Leiva,Felipe Anderson,1
+Lucas Leiva,M. Parolo,1
+Luis Alberto,Lucas Leiva,1
+M. Parolo,T. Strakosha,1
+Luiz Felipe,T. Strakosha,1
+Felipe Anderson,Wallace,1
+Luiz Felipe,C. Immobile,1
+Luiz Felipe,M. Parolo,1
+T. Strakosha,Luiz Felipe,1
+C. Immobile,Lucas Leiva,1
+Lucas Leiva,D. Basta,1
+J. Lukaku,Felipe Anderson,1
+Lucas Leiva,J. Lukaku,1
+T. Strakosha,Lucas Leiva,1
+Felipe Anderson,M. Parolo,1

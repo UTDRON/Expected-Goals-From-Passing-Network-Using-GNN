@@ -1,0 +1,14 @@
+Source,Target,Weight
+Odriozola,Canales,2
+Canales,Odriozola,2
+Odriozola,Diego Llorente,1
+Illarramendi,Canales,1
+Mikel Oyarzabal,Zurutuza,1
+Zurutuza,Illarramendi,1
+Odriozola,Illarramendi,1
+Canales,Diego Llorente,1
+Diego Llorente,Odriozola,1
+Diego Llorente,G. Rulli,1
+Illarramendi,Odriozola,1
+G. Rulli,Diego Llorente,1
+Diego Llorente,Illarramendi,1

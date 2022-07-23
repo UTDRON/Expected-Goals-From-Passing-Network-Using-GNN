@@ -1,0 +1,50 @@
+Source,Target,Weight
+B\u00f3veda,Pedro Mosquera,4
+F. Sch\u00e4r,Juanfran,4
+Juanfran,Pedro Mosquera,3
+Juanfran,Z. Bakkali,3
+Juanfran,C. Borges,3
+Adri\u00e1n L\u00f3pez,B\u00f3veda,2
+Pedro Mosquera,Juanfran,2
+F. Sch\u00e4r,B\u00f3veda,2
+B\u00f3veda,F. Sch\u00e4r,2
+C. Borges,Juanfran,2
+C. Borges,Pedro Mosquera,2
+Juanfran,F. Andone,2
+Pedro Mosquera,F. Sch\u00e4r,2
+Z. Bakkali,Juanfran,2
+Lucas P\u00e9rez,B\u00f3veda,1
+F. Andone,F. Sch\u00e4r,1
+Fede Cartabia,Lucas P\u00e9rez,1
+F. Sch\u00e4r,Fede Cartabia,1
+Pedro Mosquera,F. Andone,1
+Fede Cartabia,Luisinho,1
+Z. Bakkali,F. Andone,1
+Pedro Mosquera,B\u00f3veda,1
+C. Borges,Fede Cartabia,1
+B\u00f3veda,Luisinho,1
+Luisinho,Pedro Mosquera,1
+F. Andone,Z. Bakkali,1
+Adri\u00e1n L\u00f3pez,Juanfran,1
+F. Andone,Juanfran,1
+Pedro Mosquera,Adri\u00e1n L\u00f3pez,1
+Z. Bakkali,Rub\u00e9n,1
+Lucas P\u00e9rez,Luisinho,1
+Z. Bakkali,Lucas P\u00e9rez,1
+Juanfran,Adri\u00e1n L\u00f3pez,1
+Pedro Mosquera,Lucas P\u00e9rez,1
+F. Andone,Adri\u00e1n L\u00f3pez,1
+C. Borges,Adri\u00e1n L\u00f3pez,1
+Rub\u00e9n,F. Sch\u00e4r,1
+Fede Cartabia,F. Sch\u00e4r,1
+Pedro Mosquera,C. Borges,1
+Pedro Mosquera,Rub\u00e9n,1
+Lucas P\u00e9rez,Juanfran,1
+Juanfran,Fede Cartabia,1
+Adri\u00e1n L\u00f3pez,Pedro Mosquera,1
+C. Borges,Lucas P\u00e9rez,1
+Luisinho,C. Borges,1
+Rub\u00e9n,B\u00f3veda,1
+Pedro Mosquera,Z. Bakkali,1
+B\u00f3veda,C. Borges,1
+Lucas P\u00e9rez,C. Borges,1

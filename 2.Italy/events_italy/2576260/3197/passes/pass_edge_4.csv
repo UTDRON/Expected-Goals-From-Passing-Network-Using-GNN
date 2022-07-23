@@ -1,0 +1,77 @@
+Source,Target,Weight
+B. Martella,F. Ricci,6
+D. Faraoni,M. Trotta,6
+M. Trotta,D. Faraoni,4
+A. Stoian,B. Martella,4
+M. Capuano,A. Stoian,4
+A. Barberis,Simy,4
+R. Mandragora,M. Capuano,4
+M. Capuano,R. Mandragora,4
+Simy,M. Capuano,4
+R. Mandragora,A. Stoian,4
+M. Trotta,R. Mandragora,3
+R. Mandragora,D. Faraoni,3
+Simy,R. Mandragora,3
+R. Mandragora,M. Trotta,3
+F. Ceccherini,D. Faraoni,3
+B. Martella,A. Stoian,3
+M. Trotta,Simy,3
+A. Stoian,R. Mandragora,3
+Simy,M. Trotta,2
+F. Ceccherini,M. Capuano,2
+Simy,B. Martella,2
+D. Faraoni,F. Ceccherini,2
+Simy,D. Faraoni,2
+D. Faraoni,A. Barberis,2
+M. Capuano,B. Martella,2
+A. Cordaz,A. Barberis,2
+R. Mandragora,Simy,2
+D. Faraoni,M. Capuano,2
+F. Ricci,B. Martella,2
+A. Stoian,F. Ceccherini,2
+F. Ricci,A. Barberis,2
+A. Barberis,D. Faraoni,2
+D. Faraoni,Simy,2
+F. Ceccherini,A. Barberis,2
+F. Ricci,R. Mandragora,2
+M. Trotta,B. Martella,2
+A. Stoian,F. Ricci,2
+B. Martella,A. Cordaz,1
+F. Ceccherini,R. Mandragora,1
+B. Martella,M. Capuano,1
+A. Cordaz,M. Capuano,1
+M. Capuano,M. Trotta,1
+A. Barberis,F. Ceccherini,1
+D. Faraoni,A. Stoian,1
+M. Capuano,D. Faraoni,1
+B. Martella,M. Trotta,1
+A. Cordaz,R. Mandragora,1
+R. Mandragora,F. Ceccherini,1
+F. Ricci,M. Trotta,1
+Simy,F. Ricci,1
+A. Cordaz,B. Martella,1
+M. Capuano,A. Cordaz,1
+D. Faraoni,A. Cordaz,1
+A. Stoian,M. Trotta,1
+M. Capuano,F. Ceccherini,1
+F. Ceccherini,A. Cordaz,1
+A. Stoian,Simy,1
+M. Capuano,A. Barberis,1
+R. Mandragora,A. Cordaz,1
+F. Ricci,Simy,1
+F. Ricci,M. Capuano,1
+M. Trotta,F. Ceccherini,1
+F. Ceccherini,M. Trotta,1
+B. Martella,Simy,1
+B. Martella,D. Faraoni,1
+Simy,F. Ceccherini,1
+A. Barberis,B. Martella,1
+A. Stoian,M. Capuano,1
+F. Ricci,F. Ceccherini,1
+A. Barberis,F. Ricci,1
+M. Trotta,A. Barberis,1
+F. Ricci,A. Stoian,1
+M. Capuano,Simy,1
+M. Trotta,F. Ricci,1
+A. Barberis,R. Mandragora,1
+M. Trotta,A. Stoian,1

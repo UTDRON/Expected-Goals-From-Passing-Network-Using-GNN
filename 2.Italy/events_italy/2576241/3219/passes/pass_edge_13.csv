@@ -1,0 +1,26 @@
+Source,Target,Weight
+Sandro,B. Djimsiti,2
+D. Cataldi,M. Coda,2
+C. Puggioni,M. Coda,2
+J. Billong,Sandro,2
+M. Coda,N. Viola,2
+Guilherme,N. Viola,2
+N. Viola,D. Cataldi,2
+M. Coda,J. Billong,2
+Sandro,L. Venuti,1
+Guilherme,Sandro,1
+M. Coda,G. Letizia,1
+D. Cataldi,C. Puggioni,1
+N. Viola,M. Coda,1
+Sandro,N. Viola,1
+B. Djimsiti,C. Puggioni,1
+N. Viola,J. Billong,1
+J. Billong,G. Letizia,1
+G. Letizia,Guilherme,1
+G. Letizia,Sandro,1
+L. Venuti,A. To\u0219ca,1
+G. Letizia,M. Coda,1
+A. To\u0219ca,D. Cataldi,1
+N. Viola,Guilherme,1
+B. Djimsiti,D. Cataldi,1
+D. Cataldi,Guilherme,1

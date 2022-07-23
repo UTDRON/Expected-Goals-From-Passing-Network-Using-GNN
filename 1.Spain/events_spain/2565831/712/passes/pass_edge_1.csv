@@ -1,0 +1,23 @@
+Source,Target,Weight
+Eraso,D. Siovas,2
+Diego Rico,Omar Ramos,2
+D. Siovas,Diego Rico,2
+Gabriel,Eraso,1
+Omar Ramos,Eraso,1
+Gabriel,Omar Ramos,1
+Bustinza,N. Amrabat,1
+D. Siovas,Gabriel,1
+Zald\u00faa,Bustinza,1
+Diego Rico,D. Siovas,1
+N. Amrabat,Eraso,1
+D. Siovas,Cu\u00e9llar,1
+Omar Ramos,Gabriel,1
+Eraso,N. El Zhar,1
+D. Siovas,Zald\u00faa,1
+Rub\u00e9n P\u00e9rez,Zald\u00faa,1
+Cu\u00e9llar,Diego Rico,1
+Eraso,Rub\u00e9n P\u00e9rez,1
+Zald\u00faa,N. El Zhar,1
+Bustinza,D. Siovas,1
+Omar Ramos,Bustinza,1
+N. El Zhar,D. Siovas,1

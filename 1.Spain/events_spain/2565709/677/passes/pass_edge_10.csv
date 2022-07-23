@@ -1,0 +1,45 @@
+Source,Target,Weight
+F. Valverde,Juanfran,3
+C. Borges,Luisinho,2
+Luisinho,Sidnei,2
+F. Valverde,Guilherme,2
+C. Borges,F. Valverde,2
+Sidnei,Guilherme,2
+C. Borges,Adri\u00e1n L\u00f3pez,2
+Guilherme,C. Borges,2
+Carles Gil,F. Valverde,2
+Luisinho,Carles Gil,2
+Juanfran,Lucas P\u00e9rez,2
+F. Valverde,Sidnei,1
+Carles Gil,C. Borges,1
+Luisinho,F. Andone,1
+F. Valverde,Lucas P\u00e9rez,1
+F. Andone,C. Borges,1
+Lucas P\u00e9rez,F. Valverde,1
+Sidnei,F. Valverde,1
+Carles Gil,Lucas P\u00e9rez,1
+Rub\u00e9n,Luisinho,1
+Juanfran,Rub\u00e9n,1
+Adri\u00e1n L\u00f3pez,F. Valverde,1
+Adri\u00e1n L\u00f3pez,C. Borges,1
+F. Valverde,C. Borges,1
+Lucas P\u00e9rez,Luisinho,1
+Lucas P\u00e9rez,Guilherme,1
+Adri\u00e1n L\u00f3pez,Luisinho,1
+Guilherme,Carles Gil,1
+Guilherme,Luisinho,1
+Juanfran,Adri\u00e1n L\u00f3pez,1
+Juanfran,Guilherme,1
+C. Borges,Guilherme,1
+Luisinho,Juanfran,1
+F. Andone,Juanfran,1
+Guilherme,Juanfran,1
+Sidnei,F. Andone,1
+F. Valverde,Adri\u00e1n L\u00f3pez,1
+Guilherme,F. Valverde,1
+Juanfran,Carles Gil,1
+C. Borges,Carles Gil,1
+Juanfran,F. Valverde,1
+Carles Gil,Juanfran,1
+Guilherme,Sidnei,1
+Lucas P\u00e9rez,C. Borges,1

@@ -1,0 +1,36 @@
+Source,Target,Weight
+M. Lemos,David Sim\u00f3n,3
+David Sim\u00f3n,Tana,3
+Jonathan Viera,A. Halilovi\u0107,2
+M. Lemos,Ximo Navarro,2
+Tana,David Sim\u00f3n,2
+Vitolo,Jonathan Viera,2
+David Sim\u00f3n,M. Lemos,2
+Jonathan Viera,M. Lemos,2
+M. Lemos,Bigas,1
+Ximo Navarro,David Sim\u00f3n,1
+J. Calleri,Bigas,1
+Ximo Navarro,Jonathan Viera,1
+Tana,Dani Castellano,1
+Vitolo,Tana,1
+Tana,Vitolo,1
+Vitolo,A. Halilovi\u0107,1
+A. Halilovi\u0107,Dani Castellano,1
+A. Halilovi\u0107,David Sim\u00f3n,1
+Bigas,Dani Castellano,1
+Ximo Navarro,Vitolo,1
+Dani Castellano,Bigas,1
+David Sim\u00f3n,Vitolo,1
+Vitolo,Dani Castellano,1
+Vitolo,M. Lemos,1
+David Sim\u00f3n,L. Chichizola,1
+Dani Castellano,Jonathan Viera,1
+Bigas,M. Lemos,1
+A. Halilovi\u0107,Vitolo,1
+Dani Castellano,David Sim\u00f3n,1
+M. Lemos,L. Chichizola,1
+Dani Castellano,Vitolo,1
+Bigas,Vitolo,1
+L. Chichizola,M. Lemos,1
+L. Chichizola,J. Calleri,1
+David Sim\u00f3n,Ximo Navarro,1

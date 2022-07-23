@@ -1,0 +1,63 @@
+Source,Target,Weight
+Javi Garc\u00eda,Francis Guerrero,6
+Francis Guerrero,A. Guardado,5
+Z. Feddal,Joaqu\u00edn,4
+A. Mandi,Z. Feddal,4
+A. Mandi,Francis Guerrero,4
+Francis Guerrero,A. Mandi,4
+R. Boudebouz,A. Guardado,3
+A. Guardado,Francis Guerrero,3
+R. Durmisi,Fabi\u00e1n,3
+Fabi\u00e1n,Francis Guerrero,3
+A. Mandi,Javi Garc\u00eda,2
+Z. Feddal,R. Durmisi,2
+Ad\u00e1n,Fabi\u00e1n,2
+R. Boudebouz,Fabi\u00e1n,2
+A. Guardado,Javi Garc\u00eda,2
+A. Guardado,Sergio Le\u00f3n,2
+Joaqu\u00edn,Fabi\u00e1n,2
+Javi Garc\u00eda,A. Mandi,2
+Ad\u00e1n,Z. Feddal,2
+Fabi\u00e1n,R. Durmisi,2
+Francis Guerrero,R. Boudebouz,2
+A. Guardado,Fabi\u00e1n,2
+Z. Feddal,Javi Garc\u00eda,2
+A. Guardado,R. Boudebouz,2
+Fabi\u00e1n,Z. Feddal,2
+Z. Feddal,A. Mandi,2
+Francis Guerrero,R. Durmisi,2
+R. Durmisi,Z. Feddal,2
+R. Durmisi,Javi Garc\u00eda,2
+Z. Feddal,A. Guardado,1
+Francis Guerrero,Ad\u00e1n,1
+Fabi\u00e1n,A. Mandi,1
+Joaqu\u00edn,R. Boudebouz,1
+A. Mandi,R. Durmisi,1
+Fabi\u00e1n,Joaqu\u00edn,1
+Francis Guerrero,Javi Garc\u00eda,1
+Cristian Tello,Javi Garc\u00eda,1
+R. Boudebouz,Cristian Tello,1
+Javi Garc\u00eda,Z. Feddal,1
+Sergio Le\u00f3n,R. Boudebouz,1
+Ad\u00e1n,A. Mandi,1
+Sergio Le\u00f3n,Ad\u00e1n,1
+Z. Feddal,Fabi\u00e1n,1
+R. Boudebouz,A. Mandi,1
+Cristian Tello,Z. Feddal,1
+R. Durmisi,Cristian Tello,1
+Cristian Tello,R. Durmisi,1
+Z. Feddal,Ad\u00e1n,1
+Fabi\u00e1n,Cristian Tello,1
+Fabi\u00e1n,R. Boudebouz,1
+Joaqu\u00edn,Z. Feddal,1
+Francis Guerrero,Z. Feddal,1
+R. Boudebouz,R. Durmisi,1
+Cristian Tello,A. Guardado,1
+Joaqu\u00edn,R. Durmisi,1
+Sergio Le\u00f3n,R. Durmisi,1
+Javi Garc\u00eda,R. Boudebouz,1
+Fabi\u00e1n,Javi Garc\u00eda,1
+R. Durmisi,Sergio Le\u00f3n,1
+R. Durmisi,Ad\u00e1n,1
+Javi Garc\u00eda,Ad\u00e1n,1
+Z. Feddal,Cristian Tello,1

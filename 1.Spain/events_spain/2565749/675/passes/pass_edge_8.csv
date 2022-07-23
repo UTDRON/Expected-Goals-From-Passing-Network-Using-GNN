@@ -1,0 +1,35 @@
+Source,Target,Weight
+Casemiro,T. Kroos,3
+G. Bale,Cristiano Ronaldo,2
+R. Varane,Daniel Carvajal,2
+Cristiano Ronaldo,Nacho,2
+T. Kroos,Marcelo,2
+K. Benzema,T. Kroos,2
+Casemiro,R. Varane,1
+Daniel Carvajal,K. Benzema,1
+T. Kroos,G. Bale,1
+G. Bale,L. Modri\u0107,1
+Daniel Carvajal,Nacho,1
+T. Kroos,Cristiano Ronaldo,1
+K. Navas,R. Varane,1
+Marcelo,Casemiro,1
+K. Benzema,G. Bale,1
+G. Bale,Daniel Carvajal,1
+T. Kroos,K. Benzema,1
+K. Benzema,Nacho,1
+K. Benzema,L. Modri\u0107,1
+R. Varane,G. Bale,1
+Nacho,Casemiro,1
+Nacho,K. Benzema,1
+L. Modri\u0107,Casemiro,1
+L. Modri\u0107,G. Bale,1
+Daniel Carvajal,G. Bale,1
+Nacho,R. Varane,1
+Casemiro,Marcelo,1
+Daniel Carvajal,Casemiro,1
+Nacho,Daniel Carvajal,1
+Marcelo,R. Varane,1
+Marcelo,K. Benzema,1
+R. Varane,K. Navas,1
+G. Bale,Casemiro,1
+K. Navas,K. Benzema,1

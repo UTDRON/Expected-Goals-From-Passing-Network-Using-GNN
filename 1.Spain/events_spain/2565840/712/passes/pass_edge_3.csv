@@ -1,0 +1,63 @@
+Source,Target,Weight
+Gabriel,Diego Rico,8
+Diego Rico,Gabriel,7
+Bustinza,E. Mu\u00f1oz,5
+Gabriel,Rub\u00e9n P\u00e9rez,5
+D. Siovas,Gabriel,5
+Rub\u00e9n P\u00e9rez,Bustinza,5
+Gabriel,N. Amrabat,5
+N. Amrabat,Gabriel,5
+Rub\u00e9n P\u00e9rez,Gabriel,5
+Gabriel,Cu\u00e9llar,4
+Gabriel,D. Siovas,4
+E. Mu\u00f1oz,Gabriel,4
+Eraso,Gabriel,3
+Diego Rico,Omar Ramos,3
+E. Mu\u00f1oz,Rub\u00e9n P\u00e9rez,3
+Gabriel,Zald\u00faa,3
+D. Siovas,Diego Rico,3
+Zald\u00faa,N. Amrabat,3
+Bustinza,Zald\u00faa,2
+N. Amrabat,Eraso,2
+Eraso,Rub\u00e9n P\u00e9rez,2
+Omar Ramos,Gabriel,2
+D. Siovas,E. Mu\u00f1oz,2
+Eraso,N. Amrabat,2
+Cu\u00e9llar,Bustinza,2
+Zald\u00faa,Eraso,2
+Rub\u00e9n P\u00e9rez,Diego Rico,2
+N. Amrabat,Zald\u00faa,2
+Bustinza,Gabriel,2
+E. Mu\u00f1oz,D. Siovas,2
+Gabriel,Eraso,2
+Diego Rico,D. Siovas,2
+Gabriel,Bustinza,2
+N. Amrabat,Bustinza,2
+Zald\u00faa,Bustinza,1
+Bustinza,Cu\u00e9llar,1
+Diego Rico,Rub\u00e9n P\u00e9rez,1
+Eraso,E. Mu\u00f1oz,1
+Cu\u00e9llar,Diego Rico,1
+Zald\u00faa,Rub\u00e9n P\u00e9rez,1
+Cu\u00e9llar,Zald\u00faa,1
+Cu\u00e9llar,Gabriel,1
+D. Siovas,Rub\u00e9n P\u00e9rez,1
+Rub\u00e9n P\u00e9rez,Eraso,1
+E. Mu\u00f1oz,Bustinza,1
+Zald\u00faa,Cu\u00e9llar,1
+Cu\u00e9llar,N. Amrabat,1
+Omar Ramos,E. Mu\u00f1oz,1
+Eraso,Zald\u00faa,1
+Diego Rico,Eraso,1
+Zald\u00faa,D. Siovas,1
+Bustinza,N. Amrabat,1
+Bustinza,D. Siovas,1
+N. Amrabat,Rub\u00e9n P\u00e9rez,1
+E. Mu\u00f1oz,Cu\u00e9llar,1
+Omar Ramos,Diego Rico,1
+Gabriel,E. Mu\u00f1oz,1
+Rub\u00e9n P\u00e9rez,E. Mu\u00f1oz,1
+Cu\u00e9llar,Eraso,1
+Cu\u00e9llar,D. Siovas,1
+Bustinza,Omar Ramos,1
+Diego Rico,Cu\u00e9llar,1

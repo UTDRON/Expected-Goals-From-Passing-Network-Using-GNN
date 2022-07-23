@@ -1,0 +1,24 @@
+Source,Target,Weight
+Koke,L. Vietto,3
+Koke,Y. Carrasco,2
+Y. Carrasco,L. Hern\u00e1ndez,2
+Koke,J. Gim\u00e9nez,2
+J. Gim\u00e9nez,Koke,2
+L. Hern\u00e1ndez,Y. Carrasco,2
+J. Gim\u00e9nez,D. God\u00edn,2
+L. Vietto,Koke,2
+D. God\u00edn,Thomas,1
+Thomas,J. Oblak,1
+Y. Carrasco,Koke,1
+Koke,Thomas,1
+Sa\u00fal,L. Vietto,1
+Y. Carrasco,Sa\u00fal,1
+Thomas,Koke,1
+\u0160. Vrsaljko,J. Gim\u00e9nez,1
+L. Vietto,Thomas,1
+J. Oblak,L. Hern\u00e1ndez,1
+Sa\u00fal,Koke,1
+Thomas,J. Gim\u00e9nez,1
+L. Vietto,\u00c1. Correa,1
+D. God\u00edn,\u0160. Vrsaljko,1
+L. Hern\u00e1ndez,Sa\u00fal,1

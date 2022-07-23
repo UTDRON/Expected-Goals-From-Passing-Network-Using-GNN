@@ -1,0 +1,48 @@
+Source,Target,Weight
+Carlos Soler,Montoya,3
+Santi Mina,Jos\u00e9 Gay\u00e1,3
+Montoya,Carlos Soler,3
+Jos\u00e9 Gay\u00e1,J. Murillo,3
+Dani Parejo,Jos\u00e9 Gay\u00e1,3
+Gabriel,Neto,2
+Jos\u00e9 Gay\u00e1,Dani Parejo,2
+Rodrigo,Jos\u00e9 Gay\u00e1,2
+Jos\u00e9 Gay\u00e1,Santi Mina,2
+Dani Parejo,Rodrigo,2
+F. Coquelin,Gon\u00e7alo Guedes,2
+J. Murillo,Dani Parejo,2
+Gon\u00e7alo Guedes,Montoya,2
+Rodrigo,Dani Parejo,2
+F. Coquelin,Montoya,2
+Neto,Gabriel,2
+Montoya,Dani Parejo,1
+Montoya,Gon\u00e7alo Guedes,1
+Dani Parejo,Carlos Soler,1
+Montoya,F. Coquelin,1
+Jos\u00e9 Gay\u00e1,Gon\u00e7alo Guedes,1
+Jos\u00e9 Gay\u00e1,Neto,1
+Montoya,Rodrigo,1
+Neto,Rodrigo,1
+Carlos Soler,Jos\u00e9 Gay\u00e1,1
+Neto,Santi Mina,1
+Montoya,Gabriel,1
+Gon\u00e7alo Guedes,Jos\u00e9 Gay\u00e1,1
+Gabriel,F. Coquelin,1
+Carlos Soler,Dani Parejo,1
+Carlos Soler,Neto,1
+Gon\u00e7alo Guedes,Carlos Soler,1
+J. Murillo,Gon\u00e7alo Guedes,1
+Dani Parejo,J. Murillo,1
+Gon\u00e7alo Guedes,Dani Parejo,1
+Carlos Soler,Gon\u00e7alo Guedes,1
+F. Coquelin,J. Murillo,1
+Jos\u00e9 Gay\u00e1,F. Coquelin,1
+Gabriel,Montoya,1
+Gon\u00e7alo Guedes,F. Coquelin,1
+Rodrigo,F. Coquelin,1
+Neto,F. Coquelin,1
+J. Murillo,Gabriel,1
+F. Coquelin,Carlos Soler,1
+Dani Parejo,Gon\u00e7alo Guedes,1
+J. Murillo,Neto,1
+Gon\u00e7alo Guedes,Rodrigo,1

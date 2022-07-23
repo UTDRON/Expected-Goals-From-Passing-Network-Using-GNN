@@ -1,0 +1,18 @@
+Source,Target,Weight
+G. Pizarro,Pablo Sarabia,2
+S. Kj\u00e6r,Jes\u00fas Navas,2
+C. Lenglet,\u00c9. Banega,2
+Pablo Sarabia,C. Lenglet,1
+S. Kj\u00e6r,C. Lenglet,1
+Pablo Sarabia,S. Kj\u00e6r,1
+\u00c9. Banega,Sergio Escudero,1
+Pablo Sarabia,G. Pizarro,1
+Sergio Escudero,L. Muriel,1
+\u00c9. Banega,C. Lenglet,1
+\u00c9. Banega,G. Pizarro,1
+C. Lenglet,Jes\u00fas Navas,1
+\u00c9. Banega,S. Kj\u00e6r,1
+Sergio Escudero,\u00c9. Banega,1
+Jes\u00fas Navas,S. Kj\u00e6r,1
+Jes\u00fas Navas,Pablo Sarabia,1
+Jes\u00fas Navas,\u00c9. Banega,1

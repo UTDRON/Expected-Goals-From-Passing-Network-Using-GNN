@@ -1,0 +1,52 @@
+Source,Target,Weight
+Toni Lato,J. Murillo,3
+Carlos Soler,Jaume,2
+Jaume,S. Zaza,2
+J. Murillo,Jaume,2
+Gon\u00e7alo Guedes,L. Vietto,2
+S. Zaza,Carlos Soler,2
+J. Murillo,S. Zaza,2
+J. Murillo,R\u00faben Vezo,2
+R\u00faben Vezo,Ferr\u00e1n Torres,2
+R\u00faben Vezo,J. Murillo,2
+Toni Lato,Jaume,2
+Montoya,Toni Lato,2
+N. Maksimovi\u0107,Gon\u00e7alo Guedes,2
+S. Zaza,N. Maksimovi\u0107,2
+Carlos Soler,L. Vietto,2
+J. Murillo,Ferr\u00e1n Torres,2
+L. Vietto,Toni Lato,2
+Gon\u00e7alo Guedes,N. Maksimovi\u0107,1
+Toni Lato,Gon\u00e7alo Guedes,1
+Jaume,N. Maksimovi\u0107,1
+S. Zaza,L. Vietto,1
+Jaume,J. Murillo,1
+N. Maksimovi\u0107,R\u00faben Vezo,1
+Gon\u00e7alo Guedes,Toni Lato,1
+Ferr\u00e1n Torres,Gon\u00e7alo Guedes,1
+L. Vietto,J. Murillo,1
+Jaume,R\u00faben Vezo,1
+Carlos Soler,Gon\u00e7alo Guedes,1
+Carlos Soler,R\u00faben Vezo,1
+S. Zaza,Ferr\u00e1n Torres,1
+Toni Lato,R\u00faben Vezo,1
+R\u00faben Vezo,Carlos Soler,1
+Gon\u00e7alo Guedes,S. Zaza,1
+Ferr\u00e1n Torres,Carlos Soler,1
+Ferr\u00e1n Torres,J. Murillo,1
+Carlos Soler,S. Zaza,1
+Montoya,S. Zaza,1
+Ferr\u00e1n Torres,Toni Lato,1
+Toni Lato,Carlos Soler,1
+L. Vietto,Gon\u00e7alo Guedes,1
+L. Vietto,Jaume,1
+S. Zaza,Montoya,1
+N. Maksimovi\u0107,J. Murillo,1
+R\u00faben Vezo,L. Vietto,1
+N. Maksimovi\u0107,Toni Lato,1
+Jaume,Montoya,1
+Ferr\u00e1n Torres,Montoya,1
+J. Murillo,Carlos Soler,1
+Jaume,Carlos Soler,1
+L. Vietto,S. Zaza,1
+S. Zaza,Toni Lato,1

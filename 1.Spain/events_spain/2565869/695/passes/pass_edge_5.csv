@@ -1,0 +1,50 @@
+Source,Target,Weight
+Coke,Campa\u00f1a,4
+Coke,Ivi,4
+Ivi,Coke,4
+J. Lerma,Rober,2
+Ivi,Sergio Postigo,2
+Coke,J. Lerma,2
+J. Lerma,Campa\u00f1a,2
+Campa\u00f1a,Ivi,2
+Rober,Coke,2
+Sergio Postigo,Rober,2
+Sergio Postigo,Jos\u00e9 Luis Morales,2
+Campa\u00f1a,E. Boateng,2
+Pedro L\u00f3pez,Oier,2
+Pedro L\u00f3pez,Sergio Postigo,2
+J. Lerma,Ivi,2
+E. Boateng,Ivi,2
+Rober,J. Lerma,1
+E. Boateng,Roger,1
+Ivi,Rober,1
+Roger,Coke,1
+Campa\u00f1a,Coke,1
+J. Lerma,E. Boateng,1
+Rober,E. Boateng,1
+E. Boateng,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+Ivi,E. Boateng,1
+Rober,Oier,1
+Oier,J. Lerma,1
+Campa\u00f1a,Roger,1
+E. Boateng,J. Lerma,1
+Campa\u00f1a,Sergio Postigo,1
+Oier,Pedro L\u00f3pez,1
+J. Lerma,Pedro L\u00f3pez,1
+Oier,Rober,1
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,1
+Pedro L\u00f3pez,Campa\u00f1a,1
+Rober,Sergio Postigo,1
+Oier,Roger,1
+Ivi,Jos\u00e9 Luis Morales,1
+Campa\u00f1a,Pedro L\u00f3pez,1
+Campa\u00f1a,J. Lerma,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+Ivi,J. Lerma,1
+Roger,Campa\u00f1a,1
+Sergio Postigo,Oier,1
+Ivi,Pedro L\u00f3pez,1
+E. Boateng,Coke,1
+Sergio Postigo,E. Boateng,1
+Jos\u00e9 Luis Morales,Coke,1

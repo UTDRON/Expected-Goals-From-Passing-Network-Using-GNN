@@ -1,0 +1,27 @@
+Source,Target,Weight
+L. Castro,I. Radovanovi\u0107,3
+M. Gobbi,L. Castro,2
+N. Tomovi\u0107,M. Bani,2
+F. Cacciatore,N. Tomovi\u0107,2
+M. Gobbi,E. Giaccherini,1
+E. Giaccherini,M. St\u0119pi\u0144ski,1
+F. Depaoli,R. Inglese,1
+I. Radovanovi\u0107,F. Depaoli,1
+M. Bani,M. Gobbi,1
+I. Radovanovi\u0107,R. Inglese,1
+M. Bani,L. Castro,1
+F. Depaoli,M. Gobbi,1
+L. Castro,M. Gobbi,1
+L. Castro,F. Cacciatore,1
+N. Tomovi\u0107,L. Castro,1
+I. Radovanovi\u0107,M. Bani,1
+E. Giaccherini,N. Tomovi\u0107,1
+M. St\u0119pi\u0144ski,E. Giaccherini,1
+F. Cacciatore,L. Castro,1
+M. St\u0119pi\u0144ski,L. Castro,1
+R. Inglese,M. Gobbi,1
+M. Gobbi,M. St\u0119pi\u0144ski,1
+R. Inglese,E. Giaccherini,1
+M. Bani,F. Cacciatore,1
+E. Giaccherini,F. Cacciatore,1
+M. Gobbi,F. Depaoli,1

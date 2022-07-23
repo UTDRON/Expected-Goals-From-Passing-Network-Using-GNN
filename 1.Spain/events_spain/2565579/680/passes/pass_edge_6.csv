@@ -1,0 +1,65 @@
+Source,Target,Weight
+S. N'Zonzi,Pablo Sarabia,4
+Ganso,S. Corchia,3
+S. Corchia,Sergio Rico,3
+C. Lenglet,\u00c9. Banega,3
+\u00c9. Banega,S. N'Zonzi,3
+S. N'Zonzi,L. Carole,3
+W. Montoya,Ganso,2
+S. Corchia,W. Montoya,2
+S. N'Zonzi,W. Montoya,2
+L. Carole,\u00c9. Banega,2
+Daniel Carri\u00e7o,S. Corchia,2
+W. Montoya,Daniel Carri\u00e7o,2
+\u00c9. Banega,S. Corchia,2
+S. Corchia,Ganso,2
+Sergio Rico,S. N'Zonzi,2
+\u00c9. Banega,Ganso,2
+W. Montoya,\u00c9. Banega,2
+Daniel Carri\u00e7o,\u00c9. Banega,2
+L. Carole,S. Corchia,2
+Pablo Sarabia,S. N'Zonzi,2
+\u00c9. Banega,W. Montoya,2
+W. Montoya,Pablo Sarabia,2
+Sergio Rico,Daniel Carri\u00e7o,2
+\u00c9. Banega,L. Carole,2
+L. Muriel,L. Carole,2
+L. Carole,C. Lenglet,2
+Ganso,W. Montoya,1
+L. Carole,S. N'Zonzi,1
+F. V\u00e1zquez,Daniel Carri\u00e7o,1
+Pablo Sarabia,W. Montoya,1
+Daniel Carri\u00e7o,S. N'Zonzi,1
+Daniel Carri\u00e7o,L. Muriel,1
+S. N'Zonzi,\u00c9. Banega,1
+L. Carole,L. Muriel,1
+F. V\u00e1zquez,Sergio Rico,1
+C. Lenglet,S. N'Zonzi,1
+W. Montoya,L. Muriel,1
+Pablo Sarabia,L. Carole,1
+Daniel Carri\u00e7o,L. Carole,1
+Pablo Sarabia,C. Lenglet,1
+Sergio Rico,L. Carole,1
+L. Muriel,C. Lenglet,1
+\u00c9. Banega,C. Lenglet,1
+Pablo Sarabia,Daniel Carri\u00e7o,1
+Daniel Carri\u00e7o,F. V\u00e1zquez,1
+Pablo Sarabia,L. Muriel,1
+S. Corchia,\u00c9. Banega,1
+Daniel Carri\u00e7o,Pablo Sarabia,1
+C. Lenglet,W. Montoya,1
+Ganso,Pablo Sarabia,1
+S. Corchia,Daniel Carri\u00e7o,1
+C. Lenglet,Daniel Carri\u00e7o,1
+L. Carole,Daniel Carri\u00e7o,1
+W. Montoya,S. Corchia,1
+Pablo Sarabia,Ganso,1
+Ganso,Daniel Carri\u00e7o,1
+W. Montoya,Sergio Rico,1
+Ganso,C. Lenglet,1
+S. Corchia,S. N'Zonzi,1
+Daniel Carri\u00e7o,W. Montoya,1
+L. Carole,W. Montoya,1
+F. V\u00e1zquez,L. Muriel,1
+S. N'Zonzi,F. V\u00e1zquez,1
+L. Muriel,F. V\u00e1zquez,1

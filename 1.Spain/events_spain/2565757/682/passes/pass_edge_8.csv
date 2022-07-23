@@ -1,0 +1,76 @@
+Source,Target,Weight
+Samu Castillejo,Mario,5
+Mario,E. \u00dcnal,4
+Jaume Costa,E. \u00dcnal,4
+Rodri,D. Bonera,3
+Rodri,Pablo Fornals,3
+Samu Castillejo,Rodri,3
+Mario,Rodri,3
+E. \u00dcnal,Mario,3
+C. Bacca,Jaume Costa,3
+Pablo Fornals,Samu Castillejo,3
+Rodri,Mario,3
+D. Bonera,Jaume Costa,2
+E. \u00dcnal,Jaume Costa,2
+Jaume Costa,D. Bonera,2
+Jaume Costa,Trigueros,2
+Trigueros,Rodri,2
+V\u00edctor Ru\u00edz,Pablo Fornals,2
+Jaume Costa,Rodri,2
+D. Cheryshev,Mario,2
+Jaume Costa,V\u00edctor Ru\u00edz,2
+D. Bonera,Samu Castillejo,2
+D. Bonera,Mario,2
+Mario,D. Bonera,2
+Jaume Costa,Samu Castillejo,2
+Sergio Asenjo,V\u00edctor Ru\u00edz,2
+Samu Castillejo,Jaume Costa,2
+Rodri,Jaume Costa,2
+Jaume Costa,Sergio Asenjo,2
+Mario,Jaume Costa,2
+V\u00edctor Ru\u00edz,Rodri,2
+Rodri,Sergio Asenjo,1
+E. \u00dcnal,Pablo Fornals,1
+D. Bonera,Rodri,1
+Sergio Asenjo,D. Cheryshev,1
+Mario,Sergio Asenjo,1
+E. \u00dcnal,V\u00edctor Ru\u00edz,1
+Rodri,Samu Castillejo,1
+Rodri,C. Bacca,1
+Pablo Fornals,E. \u00dcnal,1
+Mario,Samu Castillejo,1
+Pablo Fornals,Jaume Costa,1
+D. Bonera,Trigueros,1
+E. \u00dcnal,Samu Castillejo,1
+D. Cheryshev,E. \u00dcnal,1
+Jaume Costa,Pablo Fornals,1
+E. \u00dcnal,Trigueros,1
+C. Bacca,Sergio Asenjo,1
+Jaume Costa,C. Bacca,1
+D. Cheryshev,V\u00edctor Ru\u00edz,1
+C. Bacca,D. Bonera,1
+Mario,Pablo Fornals,1
+Trigueros,Jaume Costa,1
+Rodri,Trigueros,1
+Sergio Asenjo,Samu Castillejo,1
+Samu Castillejo,E. \u00dcnal,1
+Samu Castillejo,V\u00edctor Ru\u00edz,1
+Trigueros,Samu Castillejo,1
+Pablo Fornals,D. Cheryshev,1
+V\u00edctor Ru\u00edz,Jaume Costa,1
+Pablo Fornals,Trigueros,1
+D. Cheryshev,Pablo Fornals,1
+Pablo Fornals,Rodri,1
+Trigueros,D. Cheryshev,1
+V\u00edctor Ru\u00edz,C. Bacca,1
+D. Cheryshev,Jaume Costa,1
+V\u00edctor Ru\u00edz,Sergio Asenjo,1
+Mario,D. Cheryshev,1
+Trigueros,E. \u00dcnal,1
+E. \u00dcnal,D. Cheryshev,1
+Pablo Fornals,C. Bacca,1
+V\u00edctor Ru\u00edz,D. Cheryshev,1
+Sergio Asenjo,D. Bonera,1
+D. Bonera,V\u00edctor Ru\u00edz,1
+E. \u00dcnal,Rodri,1
+Sergio Asenjo,C. Bacca,1

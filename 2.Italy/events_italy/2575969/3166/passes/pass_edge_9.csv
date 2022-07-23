@@ -1,0 +1,32 @@
+Source,Target,Weight
+L. Crisetig,S. Verdi,2
+A. Masina,L. Crisetig,2
+A. Mirante,M. Destro,2
+L. Crisetig,S. Ta\u00efder,2
+S. Ta\u00efder,A. Masina,2
+A. Mirante,S. Verdi,1
+F. Di Francesco,S. De Maio,1
+F. Helander,A. Masina,1
+L. Crisetig,A. Masina,1
+S. Ta\u00efder,L. Crisetig,1
+S. Verdi,F. Di Francesco,1
+S. De Maio,L. Crisetig,1
+S. Verdi,M. Destro,1
+S. Verdi,A. Mirante,1
+F. Helander,F. Di Francesco,1
+A. Mirante,F. Helander,1
+M. Destro,S. Ta\u00efder,1
+S. Verdi,L. Crisetig,1
+A. Masina,S. Ta\u00efder,1
+L. Crisetig,A. Mirante,1
+F. Helander,A. Mirante,1
+F. Di Francesco,L. Crisetig,1
+S. De Maio,A. Mirante,1
+S. Ta\u00efder,M. Destro,1
+A. Masina,F. Helander,1
+S. Ta\u00efder,F. Di Francesco,1
+M. Destro,A. Masina,1
+F. Di Francesco,F. Helander,1
+M. Destro,S. De Maio,1
+A. Masina,A. Mirante,1
+A. Mirante,S. Ta\u00efder,1

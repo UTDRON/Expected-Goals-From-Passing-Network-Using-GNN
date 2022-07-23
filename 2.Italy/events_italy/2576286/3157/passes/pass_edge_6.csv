@@ -1,0 +1,74 @@
+Source,Target,Weight
+C. Zapata,R. Rodr\u00edguez,7
+R. Rodr\u00edguez,G. Bonaventura,6
+L. Biglia,G. Bonaventura,5
+G. Bonaventura,C. Zapata,5
+C. Zapata,L. Biglia,5
+R. Rodr\u00edguez,C. Zapata,5
+L. Bonucci,L. Biglia,4
+G. Bonaventura,N. Kalini\u0107,4
+Suso,G. Bonaventura,4
+R. Rodr\u00edguez,F. Borini,4
+L. Biglia,G. Donnarumma,4
+I. Abate,Suso,4
+F. Borini,R. Rodr\u00edguez,4
+F. Kessi\u00e9,I. Abate,4
+L. Biglia,Suso,3
+I. Abate,L. Bonucci,3
+I. Abate,F. Kessi\u00e9,3
+G. Bonaventura,R. Rodr\u00edguez,3
+L. Bonucci,Suso,3
+F. Borini,G. Bonaventura,3
+G. Bonaventura,Suso,3
+Suso,I. Abate,3
+N. Kalini\u0107,F. Borini,2
+F. Borini,L. Bonucci,2
+L. Biglia,R. Rodr\u00edguez,2
+G. Donnarumma,L. Bonucci,2
+C. Zapata,G. Donnarumma,2
+R. Rodr\u00edguez,I. Abate,2
+G. Bonaventura,F. Borini,2
+C. Zapata,L. Bonucci,2
+N. Kalini\u0107,L. Biglia,2
+G. Donnarumma,L. Biglia,2
+I. Abate,C. Zapata,2
+L. Biglia,L. Bonucci,2
+I. Abate,N. Kalini\u0107,2
+N. Kalini\u0107,F. Kessi\u00e9,2
+Suso,L. Biglia,2
+G. Bonaventura,I. Abate,2
+Suso,L. Bonucci,2
+L. Bonucci,C. Zapata,2
+L. Bonucci,F. Kessi\u00e9,2
+R. Rodr\u00edguez,L. Bonucci,1
+R. Rodr\u00edguez,G. Donnarumma,1
+L. Biglia,I. Abate,1
+L. Bonucci,R. Rodr\u00edguez,1
+C. Zapata,I. Abate,1
+F. Kessi\u00e9,R. Rodr\u00edguez,1
+Suso,F. Kessi\u00e9,1
+G. Donnarumma,C. Zapata,1
+F. Kessi\u00e9,G. Bonaventura,1
+I. Abate,R. Rodr\u00edguez,1
+F. Kessi\u00e9,L. Biglia,1
+N. Kalini\u0107,Suso,1
+Suso,F. Borini,1
+L. Biglia,C. Zapata,1
+L. Bonucci,N. Kalini\u0107,1
+N. Kalini\u0107,I. Abate,1
+F. Kessi\u00e9,Suso,1
+L. Bonucci,I. Abate,1
+I. Abate,L. Biglia,1
+R. Rodr\u00edguez,F. Kessi\u00e9,1
+G. Donnarumma,I. Abate,1
+F. Borini,C. Zapata,1
+G. Donnarumma,R. Rodr\u00edguez,1
+L. Bonucci,G. Bonaventura,1
+C. Zapata,F. Borini,1
+F. Borini,N. Kalini\u0107,1
+F. Kessi\u00e9,C. Zapata,1
+G. Bonaventura,L. Biglia,1
+N. Kalini\u0107,L. Bonucci,1
+L. Biglia,F. Borini,1
+F. Borini,L. Biglia,1
+Suso,N. Kalini\u0107,1

@@ -1,0 +1,12 @@
+Source,Target,Weight
+J. Jankto,Samir,2
+K. Lasagna,J. Jankto,2
+A. Bar\u00e1k,K. Lasagna,1
+Maxi L\u00f3pez,R. de Paul,1
+Samir,V. Behrami,1
+R. de Paul,Maxi L\u00f3pez,1
+Samir,A. Bar\u00e1k,1
+R. de Paul,K. Lasagna,1
+A. Bar\u00e1k,J. Jankto,1
+V. Behrami,A. Bar\u00e1k,1
+J. Jankto,R. de Paul,1

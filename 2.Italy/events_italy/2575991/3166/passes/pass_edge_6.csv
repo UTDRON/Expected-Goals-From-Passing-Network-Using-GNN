@@ -1,0 +1,68 @@
+Source,Target,Weight
+E. Pulgar,I. M'baye,4
+I. M'baye,F. Helander,3
+R. Palacio,I. M'baye,3
+I. M'baye,E. Pulgar,3
+F. Helander,R. Palacio,3
+S. Verdi,E. Pulgar,3
+G. Gonz\u00e1lez,F. Helander,2
+I. M'baye,B. Petkovi\u0107,2
+G. Gonz\u00e1lez,E. Pulgar,2
+A. Poli,G. Gonz\u00e1lez,2
+E. Pulgar,E. Krafth,2
+R. Palacio,S. Verdi,2
+R. Palacio,E. Pulgar,2
+S. Ta\u00efder,A. Masina,2
+G. Gonz\u00e1lez,A. Mirante,2
+B. Petkovi\u0107,F. Di Francesco,2
+E. Pulgar,A. Masina,2
+B. Petkovi\u0107,A. Masina,2
+A. Masina,B. Petkovi\u0107,2
+R. Palacio,E. Krafth,2
+S. Verdi,R. Palacio,1
+E. Krafth,R. Palacio,1
+E. Krafth,G. Gonz\u00e1lez,1
+F. Di Francesco,F. Helander,1
+O. Okwonkwo,E. Krafth,1
+S. Verdi,G. Gonz\u00e1lez,1
+F. Helander,I. M'baye,1
+F. Di Francesco,I. M'baye,1
+O. Okwonkwo,G. Gonz\u00e1lez,1
+G. Gonz\u00e1lez,S. Ta\u00efder,1
+E. Pulgar,O. Okwonkwo,1
+I. M'baye,S. Ta\u00efder,1
+A. Poli,E. Krafth,1
+F. Helander,G. Gonz\u00e1lez,1
+S. Ta\u00efder,S. Verdi,1
+E. Krafth,F. Helander,1
+G. Gonz\u00e1lez,R. Palacio,1
+A. Mirante,R. Palacio,1
+S. Ta\u00efder,G. Gonz\u00e1lez,1
+E. Krafth,B. Petkovi\u0107,1
+F. Helander,A. Poli,1
+G. Gonz\u00e1lez,E. Krafth,1
+E. Krafth,A. Mirante,1
+E. Pulgar,R. Palacio,1
+E. Pulgar,G. Gonz\u00e1lez,1
+A. Mirante,S. Verdi,1
+S. Verdi,I. M'baye,1
+I. M'baye,R. Palacio,1
+B. Petkovi\u0107,S. Verdi,1
+F. Helander,E. Pulgar,1
+F. Di Francesco,B. Petkovi\u0107,1
+F. Helander,S. Ta\u00efder,1
+A. Mirante,B. Petkovi\u0107,1
+A. Masina,A. Poli,1
+A. Masina,S. Ta\u00efder,1
+S. Ta\u00efder,R. Palacio,1
+A. Mirante,G. Gonz\u00e1lez,1
+A. Masina,E. Pulgar,1
+R. Palacio,S. Ta\u00efder,1
+A. Masina,F. Helander,1
+E. Pulgar,A. Poli,1
+F. Helander,F. Di Francesco,1
+B. Petkovi\u0107,R. Palacio,1
+E. Pulgar,F. Helander,1
+B. Petkovi\u0107,E. Pulgar,1
+E. Krafth,S. Verdi,1
+E. Krafth,O. Okwonkwo,1

@@ -1,0 +1,25 @@
+Source,Target,Weight
+P. Brlek,A. Rosi,3
+A. Rosi,P. Brlek,3
+A. Rosi,G. Pandev,2
+A. Izzo,A. Rosi,1
+P. Brlek,E. Zukanovi\u0107,1
+G. Pandev,A. Izzo,1
+A. Rosi,A. Izzo,1
+G. Pandev,A. Rosi,1
+E. Zukanovi\u0107,F. Migliore,1
+A. Izzo,N. Spolli,1
+A. Rosi,A. Taarabt,1
+A. Bertolacci,A. Rosi,1
+F. Migliore,M. Perin,1
+A. Taarabt,P. Brlek,1
+N. Spolli,A. Taarabt,1
+P. Brlek,G. Pandev,1
+E. Zukanovi\u0107,A. Rosi,1
+M. Perin,A. Izzo,1
+A. Taarabt,E. Zukanovi\u0107,1
+A. Taarabt,G. Pandev,1
+G. Pandev,P. Brlek,1
+P. Brlek,A. Bertolacci,1
+A. Izzo,P. Brlek,1
+G. Pandev,A. Taarabt,1

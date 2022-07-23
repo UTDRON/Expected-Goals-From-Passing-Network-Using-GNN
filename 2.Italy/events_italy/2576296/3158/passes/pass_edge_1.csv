@@ -1,0 +1,78 @@
+Source,Target,Weight
+F. Fazio,Alisson,5
+Bruno Peres,R. Nainggolan,5
+J. Silva,F. Fazio,5
+J. Silva,K. Strootman,5
+F. Fazio,M. Gonalons,5
+M. Gonalons,J. Silva,5
+K. Manolas,M. Gonalons,4
+Bruno Peres,M. Gonalons,4
+K. Strootman,F. Fazio,4
+Alisson,Bruno Peres,4
+K. Strootman,J. Silva,4
+R. Nainggolan,P. Schick,4
+M. Gonalons,L. Pellegrini,3
+P. Schick,S. El Shaarawy,3
+M. Gonalons,F. Fazio,3
+F. Fazio,K. Strootman,3
+S. El Shaarawy,F. Fazio,3
+P. Schick,Bruno Peres,3
+K. Manolas,Bruno Peres,3
+M. Gonalons,R. Nainggolan,3
+J. Silva,S. El Shaarawy,3
+K. Manolas,L. Pellegrini,3
+L. Pellegrini,K. Manolas,3
+L. Pellegrini,M. Gonalons,2
+K. Strootman,S. El Shaarawy,2
+R. Nainggolan,K. Strootman,2
+K. Strootman,P. Schick,2
+L. Pellegrini,Bruno Peres,2
+Alisson,K. Manolas,2
+Bruno Peres,L. Pellegrini,2
+K. Strootman,K. Manolas,2
+R. Nainggolan,M. Gonalons,2
+M. Gonalons,P. Schick,2
+K. Manolas,R. Nainggolan,2
+S. El Shaarawy,L. Pellegrini,2
+F. Fazio,J. Silva,2
+Alisson,J. Silva,2
+Bruno Peres,K. Manolas,2
+P. Schick,K. Strootman,2
+S. El Shaarawy,K. Manolas,2
+S. El Shaarawy,K. Strootman,2
+R. Nainggolan,K. Manolas,2
+K. Strootman,M. Gonalons,2
+M. Gonalons,K. Manolas,2
+S. El Shaarawy,J. Silva,1
+L. Pellegrini,F. Fazio,1
+K. Strootman,Bruno Peres,1
+P. Schick,J. Silva,1
+M. Gonalons,K. Strootman,1
+Bruno Peres,K. Strootman,1
+K. Manolas,Alisson,1
+R. Nainggolan,S. El Shaarawy,1
+P. Schick,R. Nainggolan,1
+K. Manolas,K. Strootman,1
+L. Pellegrini,R. Nainggolan,1
+F. Fazio,P. Schick,1
+L. Pellegrini,Alisson,1
+K. Manolas,F. Fazio,1
+Bruno Peres,F. Fazio,1
+P. Schick,M. Gonalons,1
+Bruno Peres,S. El Shaarawy,1
+Alisson,K. Strootman,1
+M. Gonalons,Alisson,1
+J. Silva,P. Schick,1
+K. Strootman,Alisson,1
+M. Gonalons,Bruno Peres,1
+F. Fazio,S. El Shaarawy,1
+F. Fazio,Bruno Peres,1
+L. Pellegrini,S. El Shaarawy,1
+F. Fazio,L. Pellegrini,1
+F. Fazio,K. Manolas,1
+R. Nainggolan,Bruno Peres,1
+R. Nainggolan,Alisson,1
+Alisson,F. Fazio,1
+S. El Shaarawy,R. Nainggolan,1
+J. Silva,M. Gonalons,1
+K. Manolas,P. Schick,1

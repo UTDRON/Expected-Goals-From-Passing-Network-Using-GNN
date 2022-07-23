@@ -1,0 +1,25 @@
+Source,Target,Weight
+R. Boudebouz,A. Guardado,2
+R. Boudebouz,Fabi\u00e1n,2
+Fabi\u00e1n,Sergio Le\u00f3n,1
+A. Guardado,A. Mandi,1
+Sergio Le\u00f3n,R. Boudebouz,1
+A. Guardado,Sergio Le\u00f3n,1
+Sergio Le\u00f3n,Fabi\u00e1n,1
+A. Mandi,R. Boudebouz,1
+Fabi\u00e1n,R. Boudebouz,1
+R. Boudebouz,Cristian Tello,1
+Sergio Le\u00f3n,A. Mandi,1
+Fabi\u00e1n,A. Guardado,1
+A. Mandi,Barrag\u00e1n,1
+Cristian Tello,R. Boudebouz,1
+Sergio Le\u00f3n,Bartra,1
+Barrag\u00e1n,Fabi\u00e1n,1
+A. Guardado,Jordi Amat,1
+Bartra,A. Mandi,1
+Fabi\u00e1n,Barrag\u00e1n,1
+Jordi Amat,R. Boudebouz,1
+Jordi Amat,J. Firpo,1
+A. Mandi,Sergio Le\u00f3n,1
+Barrag\u00e1n,Sergio Le\u00f3n,1
+J. Firpo,Jordi Amat,1

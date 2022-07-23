@@ -1,0 +1,37 @@
+Source,Target,Weight
+Luna,Ivi,3
+E. Boateng,Ivi,3
+Ivi,J. Lerma,3
+J. Lerma,Ivi,3
+J. Lerma,Jos\u00e9 Luis Morales,2
+Luna,J. Lerma,2
+Ivi,C. Doukour\u00e9,2
+Luna,Oier,2
+Ivi,E. Boateng,2
+J. Lerma,Luna,2
+Sergio Postigo,Oier,2
+Oier,Luna,2
+Jos\u00e9 Luis Morales,Rober,2
+Rober,J. Lerma,2
+Ivi,Luna,2
+Oier,Sergio Postigo,1
+Jos\u00e9 Luis Morales,Sergio Postigo,1
+Sergio Postigo,Luna,1
+Ivi,Rober,1
+J. Lerma,Sergio Postigo,1
+Oier,E. Boateng,1
+Jason,Jos\u00e9 Luis Morales,1
+Sergio Postigo,Rober,1
+C. Doukour\u00e9,J. Lerma,1
+Oier,Ivi,1
+Rober,E. Boateng,1
+Luna,E. Boateng,1
+Rober,Jason,1
+Jos\u00e9 Luis Morales,Ivi,1
+J. Lerma,Jason,1
+C. Doukour\u00e9,Luna,1
+Ivi,Jos\u00e9 Luis Morales,1
+Jason,J. Lerma,1
+J. Lerma,Rober,1
+E. Boateng,J. Lerma,1
+Rober,Sergio Postigo,1

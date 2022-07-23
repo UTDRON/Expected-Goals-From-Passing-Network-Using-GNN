@@ -1,0 +1,31 @@
+Source,Target,Weight
+Pablo Sarabia,Nolito,3
+Pablo Sarabia,C. Lenglet,2
+Jes\u00fas Navas,S. Corchia,2
+S. N'Zonzi,C. Lenglet,2
+S. Kj\u00e6r,C. Lenglet,2
+Nolito,Jes\u00fas Navas,2
+C. Lenglet,S. N'Zonzi,2
+Nolito,Pablo Sarabia,2
+Nolito,C. Lenglet,2
+Jes\u00fas Navas,Nolito,1
+Borja Lasso,Ganso,1
+C. Lenglet,S. Kj\u00e6r,1
+L. Muriel,Nolito,1
+Borja Lasso,S. Kj\u00e6r,1
+S. Corchia,Ganso,1
+S. N'Zonzi,Borja Lasso,1
+Borja Lasso,Nolito,1
+C. Lenglet,Borja Lasso,1
+S. Kj\u00e6r,S. Corchia,1
+C. Lenglet,Ganso,1
+S. Corchia,Jes\u00fas Navas,1
+Ganso,S. N'Zonzi,1
+Jes\u00fas Navas,Borja Lasso,1
+Pablo Sarabia,S. N'Zonzi,1
+C. Lenglet,Pablo Sarabia,1
+S. Corchia,S. Kj\u00e6r,1
+Ganso,Pablo Sarabia,1
+Ganso,Jes\u00fas Navas,1
+S. N'Zonzi,Pablo Sarabia,1
+C. Lenglet,L. Muriel,1

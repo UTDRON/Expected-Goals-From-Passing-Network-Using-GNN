@@ -1,0 +1,48 @@
+Source,Target,Weight
+Jorginho,M. Ham\u0161\u00edk,9
+M. Ham\u0161\u00edk,Jorginho,6
+Albiol,Jorginho,4
+M. Rog,D. Mertens,3
+D. Mertens,M. Rog,3
+K. Koulibaly,F. Ghoulam,3
+M. Rog,E. Hysaj,3
+M. Ham\u0161\u00edk,E. Giaccherini,3
+E. Hysaj,Albiol,3
+E. Giaccherini,M. Ham\u0161\u00edk,2
+Jorginho,E. Hysaj,2
+F. Ghoulam,Jorginho,2
+Jorginho,M. Rog,2
+Jorginho,Albiol,2
+Jorginho,E. Giaccherini,2
+F. Ghoulam,K. Koulibaly,2
+M. Rog,Jorginho,2
+E. Giaccherini,F. Ghoulam,2
+E. Hysaj,Jorginho,2
+E. Giaccherini,K. Koulibaly,2
+F. Ghoulam,E. Giaccherini,1
+D. Mertens,A. Ounas,1
+A. Ounas,M. Rog,1
+F. Ghoulam,M. Rog,1
+M. Ham\u0161\u00edk,F. Ghoulam,1
+F. Ghoulam,M. Ham\u0161\u00edk,1
+M. Ham\u0161\u00edk,K. Koulibaly,1
+K. Koulibaly,Jorginho,1
+A. Ounas,E. Hysaj,1
+M. Rog,K. Koulibaly,1
+D. Mertens,E. Giaccherini,1
+Albiol,A. Ounas,1
+M. Ham\u0161\u00edk,M. Rog,1
+A. Ounas,Pepe Reina,1
+M. Rog,M. Ham\u0161\u00edk,1
+Pepe Reina,F. Ghoulam,1
+M. Ham\u0161\u00edk,D. Mertens,1
+K. Koulibaly,E. Hysaj,1
+E. Hysaj,M. Rog,1
+Jorginho,K. Koulibaly,1
+K. Koulibaly,M. Rog,1
+Jorginho,D. Mertens,1
+E. Giaccherini,A. Ounas,1
+K. Koulibaly,E. Giaccherini,1
+A. Ounas,E. Giaccherini,1
+E. Hysaj,A. Ounas,1
+E. Giaccherini,Jorginho,1

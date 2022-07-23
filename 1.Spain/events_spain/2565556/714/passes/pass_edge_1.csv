@@ -1,0 +1,69 @@
+Source,Target,Weight
+Ximo Navarro,Bigas,6
+Jonathan Viera,Bigas,6
+Vitolo,Dani Castellano,5
+Bigas,Jonathan Viera,5
+A. Halilovi\u0107,David Sim\u00f3n,5
+Jonathan Viera,Vitolo,4
+David Sim\u00f3n,J. Calleri,4
+Tana,A. Halilovi\u0107,4
+David Sim\u00f3n,Ximo Navarro,4
+M. Lemos,Jonathan Viera,4
+Vitolo,M. Lemos,3
+J. Calleri,David Sim\u00f3n,3
+Tana,M. Lemos,3
+J. Calleri,M. Lemos,3
+L. Chichizola,Bigas,3
+David Sim\u00f3n,Tana,3
+Bigas,M. Lemos,3
+Jonathan Viera,M. Lemos,3
+Bigas,L. Chichizola,3
+Dani Castellano,Jonathan Viera,3
+M. Lemos,Ximo Navarro,3
+David Sim\u00f3n,L. Chichizola,3
+L. Chichizola,M. Lemos,3
+Bigas,David Sim\u00f3n,2
+M. Lemos,Dani Castellano,2
+Vitolo,Jonathan Viera,2
+M. Lemos,L. Chichizola,2
+Tana,Vitolo,2
+Tana,Jonathan Viera,2
+Vitolo,A. Halilovi\u0107,2
+Jonathan Viera,David Sim\u00f3n,2
+Jonathan Viera,Tana,2
+Dani Castellano,David Sim\u00f3n,2
+Ximo Navarro,J. Calleri,2
+A. Halilovi\u0107,Tana,2
+M. Lemos,Tana,2
+L. Chichizola,Vitolo,2
+David Sim\u00f3n,Jonathan Viera,2
+M. Lemos,Vitolo,2
+A. Halilovi\u0107,Ximo Navarro,2
+Tana,J. Calleri,2
+M. Lemos,A. Halilovi\u0107,2
+M. Lemos,David Sim\u00f3n,2
+Ximo Navarro,Tana,1
+Vitolo,Tana,1
+Jonathan Viera,Dani Castellano,1
+Ximo Navarro,A. Halilovi\u0107,1
+David Sim\u00f3n,A. Halilovi\u0107,1
+M. Lemos,Bigas,1
+Dani Castellano,M. Lemos,1
+Jonathan Viera,Ximo Navarro,1
+A. Halilovi\u0107,Jonathan Viera,1
+L. Chichizola,David Sim\u00f3n,1
+A. Halilovi\u0107,J. Calleri,1
+Ximo Navarro,Vitolo,1
+J. Calleri,Ximo Navarro,1
+J. Calleri,A. Halilovi\u0107,1
+Ximo Navarro,M. Lemos,1
+Bigas,Dani Castellano,1
+Dani Castellano,A. Halilovi\u0107,1
+Bigas,Tana,1
+A. Halilovi\u0107,Vitolo,1
+Dani Castellano,J. Calleri,1
+Dani Castellano,Vitolo,1
+Bigas,Ximo Navarro,1
+Jonathan Viera,A. Halilovi\u0107,1
+J. Calleri,Jonathan Viera,1
+J. Calleri,Tana,1

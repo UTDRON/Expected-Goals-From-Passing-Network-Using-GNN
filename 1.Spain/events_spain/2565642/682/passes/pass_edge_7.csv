@@ -1,0 +1,48 @@
+Source,Target,Weight
+Pablo Fornals,Jaume Costa,3
+Jaume Costa,Pablo Fornals,2
+Samu Castillejo,Mario,2
+Rodri,Samu Castillejo,2
+Jaume Costa,M. Barbosa,2
+C. Bakambu,C. Bacca,2
+V\u00edctor Ru\u00edz,C. Bakambu,2
+C. Bakambu,Mario,2
+V\u00edctor Ru\u00edz,Pablo Fornals,2
+Jaume Costa,Trigueros,2
+\u00c1lvaro Gonz\u00e1lez,Samu Castillejo,2
+Mario,V\u00edctor Ru\u00edz,2
+V\u00edctor Ru\u00edz,Mario,2
+\u00c1lvaro Gonz\u00e1lez,Mario,2
+Mario,\u00c1lvaro Gonz\u00e1lez,2
+Pablo Fornals,C. Bacca,2
+Samu Castillejo,V\u00edctor Ru\u00edz,2
+Samu Castillejo,Jaume Costa,2
+V\u00edctor Ru\u00edz,Jaume Costa,1
+Rodri,\u00c1lvaro Gonz\u00e1lez,1
+C. Bacca,C. Bakambu,1
+M. Barbosa,Jaume Costa,1
+R. Soriano,V\u00edctor Ru\u00edz,1
+C. Bakambu,Pablo Fornals,1
+Pablo Fornals,M. Barbosa,1
+C. Bacca,Pablo Fornals,1
+Trigueros,Rodri,1
+Mario,C. Bakambu,1
+Jaume Costa,C. Bakambu,1
+C. Bakambu,Jaume Costa,1
+Jaume Costa,V\u00edctor Ru\u00edz,1
+M. Barbosa,V\u00edctor Ru\u00edz,1
+Trigueros,Mario,1
+Rodri,M. Barbosa,1
+Mario,Jaume Costa,1
+Jaume Costa,Samu Castillejo,1
+V\u00edctor Ru\u00edz,\u00c1lvaro Gonz\u00e1lez,1
+C. Bacca,\u00c1lvaro Gonz\u00e1lez,1
+Trigueros,\u00c1lvaro Gonz\u00e1lez,1
+M. Barbosa,Rodri,1
+M. Barbosa,C. Bakambu,1
+\u00c1lvaro Gonz\u00e1lez,V\u00edctor Ru\u00edz,1
+\u00c1lvaro Gonz\u00e1lez,Rodri,1
+C. Bacca,Rodri,1
+Rodri,Trigueros,1
+Mario,Rodri,1
+Mario,Samu Castillejo,1

@@ -1,0 +1,37 @@
+Source,Target,Weight
+Danilo,S. Widmer,3
+S. Widmer,A. Bali\u0107,3
+A. Bali\u0107,Danilo,3
+A. Bar\u00e1k,R. de Paul,2
+S. Widmer,A. Bar\u00e1k,2
+S. Widmer,J. Stryger Larsen,2
+J. Stryger Larsen,A. Bali\u0107,2
+Ali Adnan,Danilo,1
+R. de Paul,A. Bali\u0107,1
+A. Bali\u0107,J. Stryger Larsen,1
+A. Bizzarri,J. Stryger Larsen,1
+A. Bali\u0107,Ali Adnan,1
+J. Stryger Larsen,R. de Paul,1
+S. Widmer,K. Lasagna,1
+B. Nuytinck,S. Widmer,1
+Ali Adnan,S. Widmer,1
+K. Lasagna,A. Bar\u00e1k,1
+A. Bar\u00e1k,S. Widmer,1
+A. Bali\u0107,S. Widmer,1
+A. Bizzarri,A. Bar\u00e1k,1
+J. Stryger Larsen,S. Widmer,1
+S. Widmer,A. Bizzarri,1
+J. Stryger Larsen,B. Nuytinck,1
+J. Stryger Larsen,A. Bizzarri,1
+J. Jankto,J. Stryger Larsen,1
+R. de Paul,J. Jankto,1
+Danilo,A. Bizzarri,1
+A. Bizzarri,A. Bali\u0107,1
+S. Widmer,Danilo,1
+R. de Paul,S. Widmer,1
+A. Bali\u0107,R. de Paul,1
+Danilo,B. Nuytinck,1
+A. Bar\u00e1k,J. Jankto,1
+B. Nuytinck,Ali Adnan,1
+J. Jankto,S. Widmer,1
+Ali Adnan,J. Stryger Larsen,1

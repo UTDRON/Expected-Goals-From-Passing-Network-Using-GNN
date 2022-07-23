@@ -1,0 +1,65 @@
+Source,Target,Weight
+Ivi,Luna,4
+Chema,Coke,3
+J. Lerma,C. Doukour\u00e9,3
+Luna,C. Doukour\u00e9,3
+G. Pazzini,J. Lerma,2
+Roger,J. Lerma,2
+Coke,Rub\u00e9n Rochina,2
+C. Doukour\u00e9,Ivi,2
+Luna,J. Lerma,2
+Jos\u00e9 Luis Morales,Chema,2
+Rub\u00e9n Rochina,Jos\u00e9 Luis Morales,2
+Oier,Roger,2
+Roger,Chema,2
+Luna,G. Pazzini,2
+Chema,Ivi,2
+C. Doukour\u00e9,J. Lerma,2
+Chema,Luna,1
+Coke,Oier,1
+J. Lerma,Sergio Postigo,1
+Coke,Roger,1
+Roger,G. Pazzini,1
+Jos\u00e9 Luis Morales,Rub\u00e9n Rochina,1
+C. Doukour\u00e9,Coke,1
+J. Lerma,Coke,1
+J. Lerma,Luna,1
+C. Doukour\u00e9,Oier,1
+J. Lerma,Roger,1
+Roger,Ivi,1
+Rub\u00e9n Rochina,Ivi,1
+Ivi,Coke,1
+Oier,Coke,1
+Oier,G. Pazzini,1
+Coke,Luna,1
+Coke,Jos\u00e9 Luis Morales,1
+Sergio Postigo,J. Lerma,1
+Jos\u00e9 Luis Morales,Ivi,1
+Luna,Oier,1
+Rub\u00e9n Rochina,Luna,1
+G. Pazzini,Luna,1
+C. Doukour\u00e9,Roger,1
+Roger,C. Doukour\u00e9,1
+G. Pazzini,Jos\u00e9 Luis Morales,1
+G. Pazzini,C. Doukour\u00e9,1
+Luna,Ivi,1
+Chema,G. Pazzini,1
+G. Pazzini,Chema,1
+C. Doukour\u00e9,Chema,1
+Coke,Chema,1
+Coke,G. Pazzini,1
+C. Doukour\u00e9,Luna,1
+Ivi,C. Doukour\u00e9,1
+J. Lerma,Ivi,1
+Ivi,Roger,1
+C. Doukour\u00e9,G. Pazzini,1
+Ivi,Oier,1
+G. Pazzini,Coke,1
+Chema,Roger,1
+Chema,C. Doukour\u00e9,1
+Sergio Postigo,C. Doukour\u00e9,1
+C. Doukour\u00e9,Sergio Postigo,1
+J. Lerma,Chema,1
+G. Pazzini,Rub\u00e9n Rochina,1
+Luna,Chema,1
+Ivi,Rub\u00e9n Rochina,1

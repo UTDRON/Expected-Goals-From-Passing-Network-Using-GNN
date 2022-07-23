@@ -1,0 +1,45 @@
+Source,Target,Weight
+Aday,C. Stuani,3
+Juanpe,Aday,2
+Portu,Pablo Maffeo,2
+Pablo Maffeo,Pedro Alcal\u00e1,2
+Aday,Juanpe,2
+C. Stuani,Aday,2
+\u00c1lex Granell,Aday,2
+C. Stuani,Portu,2
+Timor,Y. Bounou,2
+Aday,\u00c1lex Granell,2
+Y. Bounou,Juanpe,1
+\u00c1lex Granell,Timor,1
+Y. Bounou,Aday,1
+Y. Bounou,Bernardo Espinosa,1
+C. Stuani,Timor,1
+Bernardo Espinosa,Timor,1
+C. Stuani,\u00c1lex Granell,1
+Pedro Alcal\u00e1,Pablo Maffeo,1
+Portu,Aday,1
+Y. Bounou,Pablo Maffeo,1
+Y. Bounou,C. Stuani,1
+Pedro Alcal\u00e1,C. Stuani,1
+Aday,Timor,1
+C. Stuani,Y. Bounou,1
+Pedro Alcal\u00e1,Juanpe,1
+Juanpe,Bernardo Espinosa,1
+Pablo Maffeo,Y. Bounou,1
+Timor,Pere Pons,1
+Pedro Alcal\u00e1,Y. Bounou,1
+Pablo Maffeo,C. Stuani,1
+Pedro Alcal\u00e1,Aday,1
+Aday,Bernardo Espinosa,1
+Portu,Pedro Alcal\u00e1,1
+Juanpe,Portu,1
+Timor,Pablo Maffeo,1
+Pedro Alcal\u00e1,Portu,1
+Pablo Maffeo,Portu,1
+Juanpe,C. Stuani,1
+Bernardo Espinosa,Juanpe,1
+Bernardo Espinosa,Pedro Alcal\u00e1,1
+Pere Pons,Pablo Maffeo,1
+Pablo Maffeo,Timor,1
+Timor,Aday,1
+Aday,Pedro Alcal\u00e1,1

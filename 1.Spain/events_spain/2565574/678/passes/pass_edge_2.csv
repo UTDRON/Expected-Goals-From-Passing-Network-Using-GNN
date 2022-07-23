@@ -1,0 +1,80 @@
+Source,Target,Weight
+Balenziaga,A. Laporte,6
+Unai N\u00fa\u00f1ez,San Jos\u00e9,6
+San Jos\u00e9,Balenziaga,5
+Lekue,Be\u00f1at,4
+Unai N\u00fa\u00f1ez,Lekue,4
+Be\u00f1at,San Jos\u00e9,4
+Balenziaga,Aduriz,4
+Be\u00f1at,Balenziaga,4
+Balenziaga,Be\u00f1at,4
+Unai N\u00fa\u00f1ez,Iago Herrer\u00edn,3
+Unai N\u00fa\u00f1ez,I\u00f1aki Williams,3
+Aduriz,Unai N\u00fa\u00f1ez,3
+Lekue,Unai N\u00fa\u00f1ez,3
+Muniain,Balenziaga,3
+San Jos\u00e9,Unai N\u00fa\u00f1ez,3
+Unai N\u00fa\u00f1ez,Be\u00f1at,3
+Be\u00f1at,Unai N\u00fa\u00f1ez,3
+Be\u00f1at,Lekue,3
+Ra\u00fal Garc\u00eda,Unai N\u00fa\u00f1ez,3
+Ra\u00fal Garc\u00eda,Balenziaga,3
+I\u00f1aki Williams,Unai N\u00fa\u00f1ez,3
+San Jos\u00e9,Aduriz,3
+Balenziaga,Muniain,3
+Iago Herrer\u00edn,Aduriz,3
+Aduriz,I\u00f1aki Williams,3
+Balenziaga,Ra\u00fal Garc\u00eda,2
+I\u00f1aki Williams,Aduriz,2
+Aduriz,Balenziaga,2
+Aduriz,Ra\u00fal Garc\u00eda,2
+Lekue,Ra\u00fal Garc\u00eda,2
+Ra\u00fal Garc\u00eda,Muniain,2
+Aduriz,Lekue,2
+Aduriz,Be\u00f1at,2
+I\u00f1aki Williams,Lekue,2
+Ra\u00fal Garc\u00eda,Be\u00f1at,2
+Aduriz,San Jos\u00e9,2
+A. Laporte,San Jos\u00e9,2
+San Jos\u00e9,Be\u00f1at,2
+A. Laporte,Unai N\u00fa\u00f1ez,2
+Be\u00f1at,A. Laporte,2
+Lekue,Iago Herrer\u00edn,2
+Be\u00f1at,Muniain,2
+Lekue,Aduriz,2
+Unai N\u00fa\u00f1ez,Balenziaga,2
+Unai N\u00fa\u00f1ez,A. Laporte,1
+Muniain,Unai N\u00fa\u00f1ez,1
+Iago Herrer\u00edn,Ra\u00fal Garc\u00eda,1
+Muniain,Aduriz,1
+Muniain,Be\u00f1at,1
+Iago Herrer\u00edn,Be\u00f1at,1
+Iago Herrer\u00edn,Lekue,1
+Muniain,I\u00f1aki Williams,1
+Be\u00f1at,Ra\u00fal Garc\u00eda,1
+Iago Herrer\u00edn,Muniain,1
+A. Laporte,Iago Herrer\u00edn,1
+Iago Herrer\u00edn,Unai N\u00fa\u00f1ez,1
+Muniain,Iago Herrer\u00edn,1
+I\u00f1aki Williams,Be\u00f1at,1
+A. Laporte,Balenziaga,1
+Muniain,Ra\u00fal Garc\u00eda,1
+A. Laporte,Ra\u00fal Garc\u00eda,1
+San Jos\u00e9,Iago Herrer\u00edn,1
+Unai N\u00fa\u00f1ez,Muniain,1
+A. Laporte,Aduriz,1
+A. Laporte,Be\u00f1at,1
+San Jos\u00e9,Lekue,1
+Lekue,San Jos\u00e9,1
+Ra\u00fal Garc\u00eda,Lekue,1
+Be\u00f1at,Aduriz,1
+I\u00f1aki Williams,Balenziaga,1
+I\u00f1aki Williams,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,I\u00f1aki Williams,1
+Balenziaga,Unai N\u00fa\u00f1ez,1
+Balenziaga,San Jos\u00e9,1
+Be\u00f1at,I\u00f1aki Williams,1
+San Jos\u00e9,Ra\u00fal Garc\u00eda,1
+Lekue,I\u00f1aki Williams,1
+Aduriz,Muniain,1
+Muniain,Lekue,1

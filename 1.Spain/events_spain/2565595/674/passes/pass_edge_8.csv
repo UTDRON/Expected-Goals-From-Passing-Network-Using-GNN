@@ -1,0 +1,21 @@
+Source,Target,Weight
+Gabriel,Dani Parejo,2
+Carlos Soler,Montoya,2
+Santi Mina,S. Zaza,2
+G. Kondogbia,Santi Mina,2
+Dani Parejo,Gabriel,2
+Montoya,Gabriel,2
+Dani Parejo,G. Kondogbia,1
+S. Zaza,Santi Mina,1
+J. Murillo,Dani Parejo,1
+Gabriel,G. Kondogbia,1
+Santi Mina,Gon\u00e7alo Guedes,1
+Gabriel,J. Murillo,1
+Gon\u00e7alo Guedes,Santi Mina,1
+Santi Mina,Carlos Soler,1
+G. Kondogbia,J. Murillo,1
+J. Murillo,G. Kondogbia,1
+Santi Mina,G. Kondogbia,1
+Montoya,Dani Parejo,1
+G. Kondogbia,Carlos Soler,1
+Dani Parejo,Santi Mina,1

@@ -1,0 +1,74 @@
+Source,Target,Weight
+Trigueros,Jaume Costa,10
+Jaume Costa,Trigueros,9
+Mario,\u00c1lvaro Gonz\u00e1lez,7
+\u00c1lvaro Gonz\u00e1lez,V\u00edctor Ru\u00edz,7
+\u00c1lvaro Gonz\u00e1lez,Javi Fuego,6
+V\u00edctor Ru\u00edz,\u00c1lvaro Gonz\u00e1lez,6
+\u00c1lvaro Gonz\u00e1lez,Mario,6
+V\u00edctor Ru\u00edz,Trigueros,5
+Javi Fuego,Jaume Costa,5
+Mario,Samu Castillejo,5
+Trigueros,Pablo Fornals,4
+V\u00edctor Ru\u00edz,Javi Fuego,4
+Samu Castillejo,\u00c1lvaro Gonz\u00e1lez,4
+Javi Fuego,V\u00edctor Ru\u00edz,4
+Trigueros,V\u00edctor Ru\u00edz,4
+Javi Fuego,Trigueros,4
+Sergio Asenjo,V\u00edctor Ru\u00edz,3
+Samu Castillejo,Mario,3
+Javi Fuego,\u00c1lvaro Gonz\u00e1lez,3
+V\u00edctor Ru\u00edz,Mario,3
+Jaume Costa,V\u00edctor Ru\u00edz,3
+Samu Castillejo,Trigueros,3
+Jaume Costa,Javi Fuego,3
+Pablo Fornals,Samu Castillejo,3
+R. Mart\u00ednez,Trigueros,2
+Mario,Javi Fuego,2
+V\u00edctor Ru\u00edz,Jaume Costa,2
+\u00c1lvaro Gonz\u00e1lez,C. Bacca,2
+Pablo Fornals,\u00c1lvaro Gonz\u00e1lez,2
+Trigueros,Mario,2
+Samu Castillejo,C. Bacca,2
+Pablo Fornals,Mario,2
+Pablo Fornals,C. Bacca,2
+\u00c1lvaro Gonz\u00e1lez,Samu Castillejo,2
+Sergio Asenjo,\u00c1lvaro Gonz\u00e1lez,2
+Trigueros,R. Mart\u00ednez,2
+Trigueros,Samu Castillejo,2
+C. Bacca,\u00c1lvaro Gonz\u00e1lez,2
+Mario,Pablo Fornals,2
+Jaume Costa,Samu Castillejo,2
+Samu Castillejo,Javi Fuego,1
+Jaume Costa,C. Bacca,1
+R. Mart\u00ednez,Pablo Fornals,1
+Samu Castillejo,Sergio Asenjo,1
+\u00c1lvaro Gonz\u00e1lez,Trigueros,1
+Trigueros,Javi Fuego,1
+R. Mart\u00ednez,\u00c1lvaro Gonz\u00e1lez,1
+Pablo Fornals,Trigueros,1
+Samu Castillejo,Pablo Fornals,1
+Javi Fuego,Mario,1
+V\u00edctor Ru\u00edz,C. Bacca,1
+Samu Castillejo,R. Mart\u00ednez,1
+Trigueros,Sergio Asenjo,1
+Samu Castillejo,V\u00edctor Ru\u00edz,1
+C. Bacca,Samu Castillejo,1
+C. Bacca,Mario,1
+R. Mart\u00ednez,Samu Castillejo,1
+\u00c1lvaro Gonz\u00e1lez,Sergio Asenjo,1
+Javi Fuego,R. Mart\u00ednez,1
+Mario,R. Mart\u00ednez,1
+V\u00edctor Ru\u00edz,Sergio Asenjo,1
+Javi Fuego,Pablo Fornals,1
+Mario,C. Bacca,1
+C. Bacca,Javi Fuego,1
+C. Bacca,V\u00edctor Ru\u00edz,1
+\u00c1lvaro Gonz\u00e1lez,R. Mart\u00ednez,1
+V\u00edctor Ru\u00edz,Samu Castillejo,1
+Jaume Costa,Pablo Fornals,1
+C. Bacca,Sergio Asenjo,1
+C. Bacca,Jaume Costa,1
+Pablo Fornals,Javi Fuego,1
+\u00c1lvaro Gonz\u00e1lez,Pablo Fornals,1
+C. Bacca,Trigueros,1

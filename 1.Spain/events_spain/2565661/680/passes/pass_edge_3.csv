@@ -1,0 +1,32 @@
+Source,Target,Weight
+J. Geis,S. N'Zonzi,2
+C. Lenglet,S. N'Zonzi,2
+G. Pizarro,Nolito,2
+S. N'Zonzi,J. Geis,2
+J. Geis,G. Pizarro,2
+J. Geis,C. Lenglet,2
+F. V\u00e1zquez,J. Geis,2
+S. Corchia,J. Geis,2
+G. Pizarro,F. V\u00e1zquez,1
+J. Geis,S. Corchia,1
+Nolito,F. V\u00e1zquez,1
+S. Corchia,Pablo Sarabia,1
+C. Lenglet,David Soria,1
+G. Pizarro,S. Corchia,1
+S. N'Zonzi,G. Pizarro,1
+C. Lenglet,Sergio Escudero,1
+Nolito,G. Pizarro,1
+J. Geis,F. V\u00e1zquez,1
+G. Pizarro,Sergio Escudero,1
+Sergio Escudero,C. Lenglet,1
+F. V\u00e1zquez,G. Pizarro,1
+Pablo Sarabia,F. V\u00e1zquez,1
+C. Lenglet,J. Geis,1
+G. Pizarro,C. Lenglet,1
+S. N'Zonzi,S. Corchia,1
+S. N'Zonzi,C. Lenglet,1
+Sergio Escudero,Nolito,1
+S. Corchia,S. N'Zonzi,1
+C. Lenglet,G. Pizarro,1
+David Soria,S. Corchia,1
+Nolito,C. Lenglet,1

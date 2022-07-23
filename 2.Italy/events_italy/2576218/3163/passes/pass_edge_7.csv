@@ -1,0 +1,17 @@
+Source,Target,Weight
+Samir,G. Angella,3
+Ali Adnan,S. Fofana,2
+G. Angella,S. Widmer,2
+S. Widmer,G. Angella,2
+J. Jankto,S. Fofana,2
+G. Angella,Samir,1
+G. Angella,Ali Adnan,1
+G. Angella,A. Bali\u0107,1
+S. Fofana,Samir,1
+S. Widmer,R. de Paul,1
+R. de Paul,S. Widmer,1
+Samir,J. Jankto,1
+A. Bar\u00e1k,J. Jankto,1
+A. Bali\u0107,Samir,1
+S. Fofana,Ali Adnan,1
+S. Fofana,A. Bar\u00e1k,1

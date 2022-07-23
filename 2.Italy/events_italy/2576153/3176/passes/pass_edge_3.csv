@@ -1,0 +1,26 @@
+Source,Target,Weight
+V. Laurini,G. Pezzella,3
+G. Simeone,J. Veretout,2
+J. Veretout,G. Simeone,2
+M. Benassi,F. Chiesa,2
+G. Pezzella,M. Benassi,2
+C. Th\u00e9r\u00e9au,J. Veretout,1
+M. Benassi,V. Laurini,1
+M. Benassi,D. Astori,1
+M. Badelj,M. Benassi,1
+C. Biraghi,M. Benassi,1
+M. Sportiello,M. Badelj,1
+F. Chiesa,C. Th\u00e9r\u00e9au,1
+J. Veretout,D. Astori,1
+J. Veretout,C. Biraghi,1
+D. Astori,C. Th\u00e9r\u00e9au,1
+D. Astori,V. Laurini,1
+G. Pezzella,C. Th\u00e9r\u00e9au,1
+F. Chiesa,V. Laurini,1
+M. Benassi,J. Veretout,1
+G. Pezzella,M. Sportiello,1
+C. Th\u00e9r\u00e9au,M. Benassi,1
+V. Laurini,G. Simeone,1
+M. Badelj,G. Pezzella,1
+M. Benassi,M. Badelj,1
+G. Simeone,M. Benassi,1

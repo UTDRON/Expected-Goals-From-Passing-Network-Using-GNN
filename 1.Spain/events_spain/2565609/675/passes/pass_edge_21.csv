@@ -1,0 +1,35 @@
+Source,Target,Weight
+A. Hakimi,Dani Ceballos,3
+Nacho,Cristiano Ronaldo,2
+Dani Ceballos,R. Varane,2
+Dani Ceballos,Isco,2
+Dani Ceballos,A. Hakimi,2
+Sergio Ramos,Marco Asensio,2
+Marco Asensio,Sergio Ramos,2
+Sergio Ramos,Nacho,2
+Casemiro,Nacho,2
+Nacho,Dani Ceballos,1
+R. Varane,Dani Ceballos,1
+Cristiano Ronaldo,Sergio Ramos,1
+Sergio Ramos,R. Varane,1
+Sergio Ramos,Casemiro,1
+Isco,Marco Asensio,1
+Isco,Dani Ceballos,1
+A. Hakimi,Lucas V\u00e1zquez,1
+Casemiro,Sergio Ramos,1
+Sergio Ramos,Cristiano Ronaldo,1
+Dani Ceballos,Cristiano Ronaldo,1
+Cristiano Ronaldo,Casemiro,1
+Sergio Ramos,Dani Ceballos,1
+R. Varane,Sergio Ramos,1
+Cristiano Ronaldo,Lucas V\u00e1zquez,1
+Nacho,A. Hakimi,1
+Isco,Cristiano Ronaldo,1
+Cristiano Ronaldo,Dani Ceballos,1
+Lucas V\u00e1zquez,A. Hakimi,1
+Dani Ceballos,Casemiro,1
+R. Varane,K. Navas,1
+Cristiano Ronaldo,Nacho,1
+K. Navas,Sergio Ramos,1
+Nacho,Sergio Ramos,1
+Marco Asensio,Isco,1

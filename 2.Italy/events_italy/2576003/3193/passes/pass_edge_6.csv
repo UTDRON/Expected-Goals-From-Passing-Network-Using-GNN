@@ -1,0 +1,25 @@
+Source,Target,Weight
+D. Laxalt,R. Palladino,2
+Miguel Veloso,A. Rosi,2
+A. Rosi,D. Biraschi,2
+L. Rossettini,E. Zukanovi\u0107,2
+D. Biraschi,L. Rossettini,2
+A. Bertolacci,Miguel Veloso,1
+L. Rossettini,A. Rosi,1
+D. Biraschi,A. Rosi,1
+R. Palladino,Miguel Veloso,1
+P. Pellegri,A. Taarabt,1
+D. Biraschi,A. Bertolacci,1
+A. Rosi,L. Rossettini,1
+Miguel Veloso,D. Laxalt,1
+A. Taarabt,D. Laxalt,1
+E. Zukanovi\u0107,R. Palladino,1
+A. Rosi,A. Bertolacci,1
+D. Laxalt,D. Biraschi,1
+E. Zukanovi\u0107,Miguel Veloso,1
+R. Palladino,D. Laxalt,1
+D. Biraschi,P. Pellegri,1
+Miguel Veloso,D. Biraschi,1
+A. Bertolacci,D. Biraschi,1
+R. Palladino,P. Pellegri,1
+P. Pellegri,Miguel Veloso,1

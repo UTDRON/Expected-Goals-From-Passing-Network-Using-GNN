@@ -1,0 +1,55 @@
+Source,Target,Weight
+Portillo,Antunes,5
+Juan Cala,Antunes,3
+Sergio Mora,Portillo,3
+Antunes,Juan Cala,3
+Juan Cala,Guaita,3
+Jorge Molina,Sergio Mora,3
+Guaita,Juan Cala,3
+Antunes,Sergio Mora,3
+Antunes,Portillo,2
+Djen\u00e9,A. Ndiaye,2
+A. Ndiaye,Antunes,2
+A. Ndiaye,Jorge Molina,2
+Portillo,\u00c1ngel,2
+Antunes,A. Ndiaye,2
+Djen\u00e9,Juan Cala,2
+Sergio Mora,A. Ndiaye,2
+D. Su\u00e1rez,\u00c1ngel,2
+D. Su\u00e1rez,Djen\u00e9,2
+\u00c1ngel,Portillo,2
+Antunes,Jorge Molina,2
+A. Ndiaye,D. Su\u00e1rez,2
+D. Su\u00e1rez,A. Ndiaye,1
+M. Arambarri,D. Su\u00e1rez,1
+Guaita,D. Su\u00e1rez,1
+Juan Cala,D. Su\u00e1rez,1
+A. Ndiaye,Djen\u00e9,1
+Juan Cala,Jorge Molina,1
+Portillo,D. Su\u00e1rez,1
+Portillo,M. Arambarri,1
+Sergio Mora,Djen\u00e9,1
+Guaita,Djen\u00e9,1
+D. Su\u00e1rez,Juan Cala,1
+Juan Cala,M. Arambarri,1
+D. Su\u00e1rez,Antunes,1
+\u00c1ngel,D. Su\u00e1rez,1
+A. Ndiaye,Juan Cala,1
+Jorge Molina,Portillo,1
+\u00c1ngel,Antunes,1
+Antunes,\u00c1ngel,1
+M. Arambarri,Sergio Mora,1
+D. Su\u00e1rez,Jorge Molina,1
+A. Ndiaye,Sergio Mora,1
+Sergio Mora,Jorge Molina,1
+Jorge Molina,D. Su\u00e1rez,1
+M. Arambarri,Portillo,1
+Juan Cala,A. Ndiaye,1
+D. Su\u00e1rez,Guaita,1
+\u00c1ngel,Djen\u00e9,1
+Jorge Molina,Guaita,1
+Djen\u00e9,Antunes,1
+Djen\u00e9,D. Su\u00e1rez,1
+Sergio Mora,M. Arambarri,1
+Antunes,Guaita,1
+Guaita,Antunes,1

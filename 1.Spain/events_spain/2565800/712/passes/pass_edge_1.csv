@@ -1,0 +1,34 @@
+Source,Target,Weight
+Gabriel,Bustinza,2
+Bustinza,Omar Ramos,2
+Ra\u00fal Garc\u00eda,Gabriel,2
+Cu\u00e9llar,Bustinza,2
+Bustinza,M. Mantovani,2
+Gumbau,Gabriel,2
+M. Mantovani,Bustinza,1
+M. Mantovani,Cu\u00e9llar,1
+Omar Ramos,Gabriel,1
+Gabriel,Diego Rico,1
+Gabriel,Ra\u00fal Garc\u00eda,1
+Gabriel,Omar Ramos,1
+Diego Rico,Ra\u00fal Garc\u00eda,1
+Omar Ramos,Ra\u00fal Garc\u00eda,1
+M. Mantovani,Gabriel,1
+Gabriel,E. Mu\u00f1oz,1
+Eraso,Gabriel,1
+Diego Rico,Gumbau,1
+Bustinza,Guerrero,1
+Eraso,Omar Ramos,1
+Gabriel,M. Mantovani,1
+Gumbau,Eraso,1
+Omar Ramos,M. Mantovani,1
+Omar Ramos,Diego Rico,1
+Eraso,Bustinza,1
+Guerrero,Gumbau,1
+E. Mu\u00f1oz,Eraso,1
+Omar Ramos,Eraso,1
+Omar Ramos,Cu\u00e9llar,1
+M. Mantovani,Omar Ramos,1
+Ra\u00fal Garc\u00eda,Guerrero,1
+Bustinza,E. Mu\u00f1oz,1
+E. Mu\u00f1oz,Omar Ramos,1

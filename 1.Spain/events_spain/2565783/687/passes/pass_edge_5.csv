@@ -1,0 +1,14 @@
+Source,Target,Weight
+Illarramendi,Juanmi,2
+Mikel Oyarzabal,Canales,1
+Illarramendi,Aritz Elustondo,1
+Illarramendi,Zurutuza,1
+Zurutuza,De La Bella,1
+Canales,Juanmi,1
+Aritz Elustondo,Illarramendi,1
+Aritz Elustondo,Odriozola,1
+Odriozola,Aritz Elustondo,1
+Juanmi,Illarramendi,1
+De La Bella,Illarramendi,1
+Juanmi,Odriozola,1
+Odriozola,Mikel Oyarzabal,1

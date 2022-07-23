@@ -1,0 +1,46 @@
+Source,Target,Weight
+Brais M\u00e9ndez,S. Lobotka,3
+Brais M\u00e9ndez,Jozabed,3
+Jozabed,P. Sisto,3
+D. Wass,Brais M\u00e9ndez,3
+P. Sisto,Jonny,3
+Jonny,Jozabed,2
+P. Sisto,Iago Aspas,2
+Iago Aspas,Brais M\u00e9ndez,2
+F. Roncaglia,Brais M\u00e9ndez,2
+S. Lobotka,P. Sisto,2
+Jozabed,Jonny,2
+P. Sisto,Jozabed,1
+Sergio \u00c1lvarez,D. Wass,1
+Iago Aspas,Jonny,1
+Jonny,Sergio \u00c1lvarez,1
+Sergi G\u00f3mez,D. Wass,1
+Jozabed,Maxi G\u00f3mez,1
+P. Sisto,Sergi G\u00f3mez,1
+Brais M\u00e9ndez,Maxi G\u00f3mez,1
+Sergi G\u00f3mez,S. Lobotka,1
+S. Lobotka,Sergi G\u00f3mez,1
+Brais M\u00e9ndez,F. Roncaglia,1
+Maxi G\u00f3mez,P. Sisto,1
+Maxi G\u00f3mez,S. Lobotka,1
+Brais M\u00e9ndez,D. Wass,1
+Jozabed,S. Lobotka,1
+F. Roncaglia,Jozabed,1
+S. Lobotka,D. Wass,1
+F. Roncaglia,P. Sisto,1
+Jonny,Brais M\u00e9ndez,1
+Jonny,Sergi G\u00f3mez,1
+P. Sisto,F. Roncaglia,1
+Iago Aspas,P. Sisto,1
+Iago Aspas,Jozabed,1
+D. Wass,Iago Aspas,1
+Jonny,P. Sisto,1
+P. Sisto,D. Wass,1
+Maxi G\u00f3mez,Iago Aspas,1
+Brais M\u00e9ndez,Iago Aspas,1
+Sergi G\u00f3mez,F. Roncaglia,1
+S. Lobotka,Maxi G\u00f3mez,1
+Jozabed,Brais M\u00e9ndez,1
+D. Wass,S. Lobotka,1
+S. Lobotka,F. Roncaglia,1
+S. Lobotka,Brais M\u00e9ndez,1

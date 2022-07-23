@@ -1,0 +1,83 @@
+Source,Target,Weight
+Alfonso Pedraza,Rub\u00e9n Duarte,7
+Laguardia,J. Guidetti,7
+Mart\u00edn,Ibai G\u00f3mez,7
+Ibai G\u00f3mez,Mart\u00edn,6
+Rub\u00e9n Duarte,Fernando Pacheco,6
+Rub\u00e9n Duarte,Alfonso Pedraza,6
+Mart\u00edn,Laguardia,5
+D. Torres,Laguardia,5
+Tom\u00e1s Pina,Laguardia,5
+Rub\u00e9n Duarte,Rub\u00e9n Sobrino,5
+D. Torres,Rub\u00e9n Duarte,5
+Tom\u00e1s Pina,Mart\u00edn,5
+Fernando Pacheco,Laguardia,5
+Rub\u00e9n Sobrino,J. Guidetti,5
+Ibai G\u00f3mez,D. Torres,5
+Rub\u00e9n Sobrino,Mart\u00edn,4
+Alfonso Pedraza,Ibai G\u00f3mez,4
+Laguardia,Fernando Pacheco,4
+Fernando Pacheco,J. Guidetti,4
+Laguardia,Tom\u00e1s Pina,4
+J. Guidetti,Tom\u00e1s Pina,4
+Rodrigo Ely,Fernando Pacheco,4
+Rub\u00e9n Duarte,Tom\u00e1s Pina,3
+Rodrigo Ely,Tom\u00e1s Pina,3
+D. Torres,Rodrigo Ely,3
+D. Torres,Tom\u00e1s Pina,3
+Tom\u00e1s Pina,Rub\u00e9n Duarte,3
+Mart\u00edn,Rodrigo Ely,3
+J. Guidetti,Rub\u00e9n Duarte,3
+Mart\u00edn,Tom\u00e1s Pina,3
+Rodrigo Ely,Rub\u00e9n Duarte,3
+J. Guidetti,D. Torres,3
+Rodrigo Ely,D. Torres,3
+J. Guidetti,Alfonso Pedraza,3
+Tom\u00e1s Pina,Rub\u00e9n Sobrino,3
+Rub\u00e9n Sobrino,Rub\u00e9n Duarte,3
+Laguardia,D. Torres,3
+Rub\u00e9n Sobrino,Tom\u00e1s Pina,3
+Laguardia,Rodrigo Ely,2
+Rub\u00e9n Duarte,Mart\u00edn,2
+Laguardia,Mart\u00edn,2
+Fernando Pacheco,Rodrigo Ely,2
+Ibai G\u00f3mez,Rub\u00e9n Duarte,2
+Rodrigo Ely,Alfonso Pedraza,2
+Mart\u00edn,Rub\u00e9n Duarte,2
+Rub\u00e9n Duarte,Rodrigo Ely,2
+Ibai G\u00f3mez,Laguardia,2
+Alfonso Pedraza,Rodrigo Ely,2
+Tom\u00e1s Pina,D. Torres,2
+Rub\u00e9n Duarte,D. Torres,2
+J. Guidetti,Laguardia,2
+Fernando Pacheco,Rub\u00e9n Sobrino,2
+Ibai G\u00f3mez,Alfonso Pedraza,2
+Mart\u00edn,Rub\u00e9n Sobrino,2
+Rub\u00e9n Sobrino,D. Torres,2
+Laguardia,Ibai G\u00f3mez,2
+D. Torres,J. Guidetti,2
+Ibai G\u00f3mez,Rub\u00e9n Sobrino,2
+Alfonso Pedraza,Rub\u00e9n Sobrino,2
+Tom\u00e1s Pina,Ibai G\u00f3mez,2
+J. Guidetti,Ibai G\u00f3mez,2
+Tom\u00e1s Pina,Rodrigo Ely,2
+J. Guidetti,Rub\u00e9n Sobrino,2
+Rub\u00e9n Sobrino,Ibai G\u00f3mez,1
+Rodrigo Ely,Laguardia,1
+Rub\u00e9n Duarte,Laguardia,1
+Rub\u00e9n Sobrino,Alfonso Pedraza,1
+Alfonso Pedraza,Fernando Pacheco,1
+Laguardia,Rub\u00e9n Sobrino,1
+Mart\u00edn,Alfonso Pedraza,1
+D. Torres,Mart\u00edn,1
+D. Torres,Alfonso Pedraza,1
+Rodrigo Ely,J. Guidetti,1
+Laguardia,Alfonso Pedraza,1
+D. Torres,Rub\u00e9n Sobrino,1
+Rub\u00e9n Sobrino,Rodrigo Ely,1
+Rub\u00e9n Duarte,J. Guidetti,1
+Fernando Pacheco,D. Torres,1
+Fernando Pacheco,Mart\u00edn,1
+Tom\u00e1s Pina,Alfonso Pedraza,1
+Alfonso Pedraza,Mart\u00edn,1
+J. Guidetti,Mart\u00edn,1

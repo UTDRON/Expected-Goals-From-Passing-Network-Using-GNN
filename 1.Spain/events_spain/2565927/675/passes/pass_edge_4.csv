@@ -1,0 +1,41 @@
+Source,Target,Weight
+Marcelo,Isco,5
+Isco,Marcelo,2
+T. Kroos,R. Varane,2
+T. Kroos,Cristiano Ronaldo,2
+R. Varane,Sergio Ramos,2
+Sergio Ramos,T. Kroos,2
+L. Modri\u0107,G. Bale,2
+Casemiro,L. Zidane,2
+Isco,Sergio Ramos,2
+Isco,T. Kroos,2
+Sergio Ramos,Marcelo,2
+G. Bale,Casemiro,1
+Daniel Carvajal,R. Varane,1
+L. Zidane,Sergio Ramos,1
+R. Varane,Cristiano Ronaldo,1
+Marcelo,Sergio Ramos,1
+Daniel Carvajal,Casemiro,1
+Cristiano Ronaldo,T. Kroos,1
+Sergio Ramos,R. Varane,1
+Sergio Ramos,Casemiro,1
+T. Kroos,L. Modri\u0107,1
+R. Varane,G. Bale,1
+Casemiro,R. Varane,1
+L. Zidane,G. Bale,1
+T. Kroos,Isco,1
+G. Bale,Daniel Carvajal,1
+Casemiro,Sergio Ramos,1
+T. Kroos,Marcelo,1
+R. Varane,Daniel Carvajal,1
+Cristiano Ronaldo,Marcelo,1
+T. Kroos,Casemiro,1
+G. Bale,L. Modri\u0107,1
+Sergio Ramos,Isco,1
+L. Modri\u0107,T. Kroos,1
+Daniel Carvajal,L. Modri\u0107,1
+Marcelo,T. Kroos,1
+Isco,L. Modri\u0107,1
+Casemiro,T. Kroos,1
+L. Modri\u0107,Daniel Carvajal,1
+G. Bale,Marcelo,1

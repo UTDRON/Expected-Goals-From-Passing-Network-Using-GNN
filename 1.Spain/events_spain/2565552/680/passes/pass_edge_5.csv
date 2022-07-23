@@ -1,0 +1,101 @@
+Source,Target,Weight
+Pablo Sarabia,C. Lenglet,13
+S. Kj\u00e6r,C. Lenglet,11
+C. Lenglet,Pablo Sarabia,10
+C. Lenglet,S. N'Zonzi,8
+S. Corchia,S. Kj\u00e6r,7
+S. Corchia,Jes\u00fas Navas,7
+S. N'Zonzi,Pablo Sarabia,7
+S. Kj\u00e6r,S. Corchia,7
+Pablo Sarabia,Ganso,7
+Jes\u00fas Navas,S. Corchia,6
+Pablo Sarabia,Nolito,6
+Nolito,Pablo Sarabia,6
+Borja Lasso,Nolito,6
+C. Lenglet,Nolito,5
+S. N'Zonzi,Borja Lasso,5
+C. Lenglet,Ganso,5
+Nolito,S. Kj\u00e6r,5
+Ganso,Pablo Sarabia,5
+S. N'Zonzi,S. Kj\u00e6r,5
+Nolito,S. N'Zonzi,4
+Pablo Sarabia,S. N'Zonzi,4
+Nolito,Ganso,4
+Ganso,C. Lenglet,4
+C. Lenglet,L. Muriel,3
+L. Muriel,Nolito,3
+Sergio Rico,C. Lenglet,3
+Ganso,S. N'Zonzi,3
+C. Lenglet,S. Kj\u00e6r,3
+S. N'Zonzi,C. Lenglet,3
+Ganso,Borja Lasso,3
+S. Kj\u00e6r,S. N'Zonzi,3
+C. Lenglet,Sergio Rico,3
+S. Kj\u00e6r,Borja Lasso,3
+Borja Lasso,S. Kj\u00e6r,3
+Ganso,Nolito,3
+S. Kj\u00e6r,Sergio Rico,3
+C. Lenglet,\u00c9. Banega,3
+S. N'Zonzi,Ganso,2
+\u00c9. Banega,S. Kj\u00e6r,2
+Nolito,L. Muriel,2
+Jes\u00fas Navas,Ganso,2
+Borja Lasso,Pablo Sarabia,2
+S. Corchia,Borja Lasso,2
+\u00c9. Banega,C. Lenglet,2
+Jes\u00fas Navas,Pablo Sarabia,2
+Nolito,Jes\u00fas Navas,2
+S. Corchia,Nolito,2
+Ganso,S. Kj\u00e6r,2
+Jes\u00fas Navas,S. Kj\u00e6r,2
+Borja Lasso,S. Corchia,2
+S. Kj\u00e6r,Ganso,2
+Sergio Rico,S. Kj\u00e6r,2
+Pablo Sarabia,S. Corchia,2
+Ganso,S. Corchia,2
+Jes\u00fas Navas,C. Lenglet,2
+S. Corchia,C. Lenglet,2
+Nolito,C. Lenglet,2
+Borja Lasso,Jes\u00fas Navas,2
+Nolito,S. Corchia,1
+S. Corchia,\u00c9. Banega,1
+Sergio Rico,Borja Lasso,1
+L. Muriel,C. Lenglet,1
+\u00c9. Banega,Pablo Sarabia,1
+S. N'Zonzi,Jes\u00fas Navas,1
+Pablo Sarabia,S. Kj\u00e6r,1
+C. Lenglet,S. Corchia,1
+Ganso,\u00c9. Banega,1
+Pablo Sarabia,Jes\u00fas Navas,1
+Jes\u00fas Navas,Borja Lasso,1
+Jes\u00fas Navas,Nolito,1
+Nolito,\u00c9. Banega,1
+L. Muriel,Jes\u00fas Navas,1
+Borja Lasso,S. N'Zonzi,1
+C. Lenglet,Borja Lasso,1
+\u00c9. Banega,S. N'Zonzi,1
+S. Kj\u00e6r,L. Muriel,1
+S. Kj\u00e6r,Nolito,1
+S. Kj\u00e6r,Jes\u00fas Navas,1
+Borja Lasso,Ganso,1
+S. N'Zonzi,\u00c9. Banega,1
+Ganso,Jes\u00fas Navas,1
+L. Muriel,S. N'Zonzi,1
+L. Muriel,Pablo Sarabia,1
+S. Corchia,Ganso,1
+L. Muriel,Ganso,1
+Nolito,Borja Lasso,1
+S. N'Zonzi,L. Muriel,1
+L. Muriel,S. Corchia,1
+Sergio Rico,S. N'Zonzi,1
+\u00c9. Banega,Sergio Rico,1
+Sergio Rico,Pablo Sarabia,1
+C. Lenglet,Jes\u00fas Navas,1
+Ganso,L. Muriel,1
+L. Muriel,Sergio Rico,1
+Sergio Rico,Ganso,1
+Borja Lasso,Sergio Rico,1
+S. N'Zonzi,Nolito,1
+Pablo Sarabia,Borja Lasso,1
+Jes\u00fas Navas,L. Muriel,1
+Pablo Sarabia,L. Muriel,1

@@ -1,0 +1,75 @@
+Source,Target,Weight
+Sergi G\u00f3mez,G. Cabral,7
+G. Cabral,Sergi G\u00f3mez,7
+P. Hern\u00e1ndez,Jonny,7
+Jonny,P. Hern\u00e1ndez,6
+Rub\u00e9n Blanco,Sergi G\u00f3mez,6
+D. Wass,G. Cabral,5
+Jonny,G. Cabral,5
+Brais M\u00e9ndez,D. Wass,4
+D. Wass,Brais M\u00e9ndez,4
+Sergi G\u00f3mez,Rub\u00e9n Blanco,4
+D. Wass,S. Lobotka,4
+Brais M\u00e9ndez,Sergi G\u00f3mez,4
+G. Cabral,Rub\u00e9n Blanco,4
+S. Lobotka,Brais M\u00e9ndez,4
+G. Cabral,D. Wass,3
+Sergi G\u00f3mez,Jonny,3
+Sergi G\u00f3mez,D. Wass,3
+Jonny,P. Sisto,3
+Brais M\u00e9ndez,S. Lobotka,3
+Maxi G\u00f3mez,D. Wass,2
+G. Cabral,P. Hern\u00e1ndez,2
+G. Cabral,S. Lobotka,2
+S. Lobotka,D. Wass,2
+Maxi G\u00f3mez,P. Hern\u00e1ndez,2
+Jozabed,Brais M\u00e9ndez,2
+D. Wass,Jozabed,2
+P. Hern\u00e1ndez,P. Sisto,2
+G. Cabral,P. Sisto,2
+Brais M\u00e9ndez,Jozabed,2
+Rub\u00e9n Blanco,G. Cabral,2
+S. Lobotka,Jonny,2
+P. Sisto,G. Cabral,2
+P. Sisto,Rub\u00e9n Blanco,2
+Maxi G\u00f3mez,Brais M\u00e9ndez,2
+Jozabed,Jonny,2
+Jonny,S. Lobotka,2
+G. Cabral,Jonny,2
+D. Wass,Jonny,1
+Jonny,Jozabed,1
+Jozabed,Maxi G\u00f3mez,1
+Maxi G\u00f3mez,S. Lobotka,1
+S. Lobotka,P. Sisto,1
+G. Cabral,Maxi G\u00f3mez,1
+S. Lobotka,G. Cabral,1
+Brais M\u00e9ndez,P. Hern\u00e1ndez,1
+Brais M\u00e9ndez,G. Cabral,1
+Maxi G\u00f3mez,Jonny,1
+Sergi G\u00f3mez,Jozabed,1
+D. Wass,Sergi G\u00f3mez,1
+P. Hern\u00e1ndez,D. Wass,1
+P. Hern\u00e1ndez,Jozabed,1
+P. Hern\u00e1ndez,Brais M\u00e9ndez,1
+P. Hern\u00e1ndez,Maxi G\u00f3mez,1
+Rub\u00e9n Blanco,Brais M\u00e9ndez,1
+Sergi G\u00f3mez,Maxi G\u00f3mez,1
+Sergi G\u00f3mez,P. Hern\u00e1ndez,1
+Rub\u00e9n Blanco,P. Hern\u00e1ndez,1
+G. Cabral,Jozabed,1
+P. Hern\u00e1ndez,Rub\u00e9n Blanco,1
+S. Lobotka,Jozabed,1
+Rub\u00e9n Blanco,Maxi G\u00f3mez,1
+P. Sisto,P. Hern\u00e1ndez,1
+P. Sisto,S. Lobotka,1
+Jozabed,Sergi G\u00f3mez,1
+S. Lobotka,Maxi G\u00f3mez,1
+P. Sisto,Maxi G\u00f3mez,1
+Jozabed,G. Cabral,1
+G. Cabral,Brais M\u00e9ndez,1
+Maxi G\u00f3mez,G. Cabral,1
+P. Sisto,Brais M\u00e9ndez,1
+Jozabed,D. Wass,1
+S. Lobotka,Sergi G\u00f3mez,1
+Jonny,D. Wass,1
+Brais M\u00e9ndez,Maxi G\u00f3mez,1

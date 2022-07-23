@@ -1,0 +1,36 @@
+Source,Target,Weight
+J. Jankto,G. Pezzella,3
+G. Angella,R. de Paul,3
+C. Th\u00e9r\u00e9au,A. Bar\u00e1k,2
+Danilo,J. Jankto,2
+A. Bar\u00e1k,G. Pezzella,2
+G. Angella,S. Perica,2
+R. de Paul,G. Angella,2
+B. Nuytinck,R. de Paul,2
+K. Lasagna,G. Angella,1
+J. Jankto,G. Angella,1
+R. de Paul,J. Jankto,1
+G. Pezzella,J. Jankto,1
+G. Angella,K. Lasagna,1
+S. Perica,J. Jankto,1
+R. de Paul,B. Nuytinck,1
+Danilo,A. Bar\u00e1k,1
+G. Angella,Danilo,1
+C. Th\u00e9r\u00e9au,S. Perica,1
+B. Nuytinck,C. Th\u00e9r\u00e9au,1
+S. Perica,C. Th\u00e9r\u00e9au,1
+R. de Paul,A. Bar\u00e1k,1
+S. Perica,G. Angella,1
+A. Bar\u00e1k,Danilo,1
+R. de Paul,C. Th\u00e9r\u00e9au,1
+C. Th\u00e9r\u00e9au,B. Nuytinck,1
+G. Pezzella,R. de Paul,1
+A. Bar\u00e1k,S. Perica,1
+J. Jankto,C. Th\u00e9r\u00e9au,1
+G. Pezzella,B. Nuytinck,1
+S. Perica,A. Bar\u00e1k,1
+G. Pezzella,G. Angella,1
+G. Pezzella,C. Th\u00e9r\u00e9au,1
+A. Bar\u00e1k,C. Th\u00e9r\u00e9au,1
+C. Th\u00e9r\u00e9au,G. Angella,1
+C. Th\u00e9r\u00e9au,Danilo,1

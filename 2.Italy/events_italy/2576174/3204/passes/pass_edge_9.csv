@@ -1,0 +1,22 @@
+Source,Target,Weight
+F. Mattiello,Felipe,2
+J. Kurti\u010d,F. Mattiello,2
+M. Lazzari,F. Viviani,2
+M. Antenucci,J. Kurti\u010d,2
+T. Cionek,M. Lazzari,1
+A. Meret,A. Grassi,1
+F. Vicari,M. Antenucci,1
+J. Kurti\u010d,M. Antenucci,1
+F. Viviani,F. Vicari,1
+A. Paloschi,M. Lazzari,1
+M. Antenucci,A. Paloschi,1
+F. Viviani,F. Mattiello,1
+Felipe,A. Meret,1
+A. Grassi,T. Cionek,1
+Felipe,A. Grassi,1
+F. Mattiello,J. Kurti\u010d,1
+F. Mattiello,T. Cionek,1
+T. Cionek,F. Mattiello,1
+A. Grassi,F. Viviani,1
+T. Cionek,M. Antenucci,1
+F. Viviani,A. Paloschi,1

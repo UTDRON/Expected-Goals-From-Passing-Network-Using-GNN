@@ -1,0 +1,30 @@
+Source,Target,Weight
+Aday,Pedro Alcal\u00e1,3
+Pedro Alcal\u00e1,Y. Bounou,2
+Aleix Garc\u00eda,\u00c1lex Granell,2
+\u00c1lex Granell,Aday,2
+Choco Lozano,\u00c1lex Granell,2
+\u00c1lex Granell,Aleix Garc\u00eda,2
+Aleix Garc\u00eda,Aday,2
+Aday,Aleix Garc\u00eda,1
+Y. Bounou,Choco Lozano,1
+Pedro Alcal\u00e1,Juanpe,1
+Y. Bounou,Pedro Alcal\u00e1,1
+Juanpe,Aday,1
+Aday,Y. Bounou,1
+Choco Lozano,J. Mojica,1
+Choco Lozano,Aleix Garc\u00eda,1
+J. Mojica,Juanpe,1
+J. Mojica,Choco Lozano,1
+Juanpe,\u00c1lex Granell,1
+Choco Lozano,Aday,1
+\u00c1lex Granell,J. Mojica,1
+\u00c1lex Granell,Portu,1
+Juanpe,Aleix Garc\u00eda,1
+Aleix Garc\u00eda,Choco Lozano,1
+Portu,Pedro Alcal\u00e1,1
+Pedro Alcal\u00e1,Choco Lozano,1
+Y. Bounou,\u00c1lex Granell,1
+Pedro Alcal\u00e1,Borja Garc\u00eda,1
+Aday,Choco Lozano,1
+Borja Garc\u00eda,Portu,1

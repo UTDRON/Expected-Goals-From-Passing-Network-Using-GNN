@@ -1,0 +1,16 @@
+Source,Target,Weight
+Rodri,Trigueros,2
+Trigueros,V\u00edctor Ru\u00edz,2
+Trigueros,Jaume Costa,2
+V\u00edctor Ru\u00edz,Trigueros,1
+Samu Castillejo,Trigueros,1
+Jaume Costa,V\u00edctor Ru\u00edz,1
+Mario,Pablo Fornals,1
+Trigueros,Mario,1
+Jaume Costa,Trigueros,1
+V\u00edctor Ru\u00edz,Rodri,1
+Jaume Costa,Pablo Fornals,1
+V\u00edctor Ru\u00edz,Jaume Costa,1
+Pablo Fornals,Mario,1
+Mario,Samu Castillejo,1
+Pablo Fornals,Samu Castillejo,1

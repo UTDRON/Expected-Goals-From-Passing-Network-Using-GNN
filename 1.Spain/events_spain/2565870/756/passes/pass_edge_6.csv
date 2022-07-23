@@ -1,0 +1,29 @@
+Source,Target,Weight
+Aleix Garc\u00eda,Timor,3
+Borja Garc\u00eda,Choco Lozano,3
+Choco Lozano,Aleix Garc\u00eda,2
+Pedro Alcal\u00e1,Pablo Maffeo,2
+Pablo Maffeo,Choco Lozano,2
+Pablo Maffeo,Aleix Garc\u00eda,2
+Timor,Borja Garc\u00eda,2
+Choco Lozano,Pablo Maffeo,2
+Aleix Garc\u00eda,Pablo Maffeo,2
+Borja Garc\u00eda,Aleix Garc\u00eda,2
+Aleix Garc\u00eda,Borja Garc\u00eda,2
+Juanpe,Pablo Maffeo,2
+Pablo Maffeo,Pedro Alcal\u00e1,2
+Timor,Aleix Garc\u00eda,1
+Muniesa,Juanpe,1
+Muniesa,Aday,1
+Juanpe,Timor,1
+Aday,Aleix Garc\u00eda,1
+Choco Lozano,Juanpe,1
+Aleix Garc\u00eda,Choco Lozano,1
+Aleix Garc\u00eda,Juanpe,1
+M. Olunga,Borja Garc\u00eda,1
+Timor,Aday,1
+Pablo Maffeo,M. Olunga,1
+Aday,Choco Lozano,1
+Choco Lozano,Aday,1
+Choco Lozano,Muniesa,1
+Pablo Maffeo,Muniesa,1

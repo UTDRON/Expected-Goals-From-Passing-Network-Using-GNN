@@ -1,0 +1,55 @@
+Source,Target,Weight
+D. Su\u00e1rez,M. Arambarri,7
+Sergio Mora,D. Su\u00e1rez,5
+D. Su\u00e1rez,Djen\u00e9,4
+\u00c1ngel,Sergio Mora,4
+\u00c1ngel,D. Su\u00e1rez,4
+D. Su\u00e1rez,Portillo,4
+Sergio Mora,Portillo,3
+Djen\u00e9,\u00c1ngel,3
+E. Mart\u00ednez,Jorge Molina,3
+Djen\u00e9,D. Su\u00e1rez,3
+Portillo,\u00c1ngel,3
+Bruno,Sergio Mora,3
+M. Arambarri,Portillo,2
+Sergio Mora,Djen\u00e9,2
+Jorge Molina,Portillo,2
+A. Ndiaye,D. Su\u00e1rez,2
+D. Su\u00e1rez,Jorge Molina,2
+Antunes,Sergio Mora,2
+M. Arambarri,D. Su\u00e1rez,2
+D. Su\u00e1rez,Bruno,2
+Bruno,Antunes,2
+Portillo,Sergio Mora,2
+Portillo,Jorge Molina,2
+M. Arambarri,Sergio Mora,2
+Djen\u00e9,E. Mart\u00ednez,2
+Antunes,D. Su\u00e1rez,2
+Portillo,A. Ndiaye,2
+D. Su\u00e1rez,Antunes,1
+Djen\u00e9,Bruno,1
+Antunes,A. Ndiaye,1
+A. Ndiaye,Antunes,1
+E. Mart\u00ednez,D. Su\u00e1rez,1
+Jorge Molina,D. Su\u00e1rez,1
+Portillo,Bruno,1
+Portillo,E. Mart\u00ednez,1
+Sergio Mora,Bruno,1
+M. Arambarri,Antunes,1
+M. Arambarri,Djen\u00e9,1
+Antunes,Djen\u00e9,1
+Jorge Molina,Djen\u00e9,1
+Sergio Mora,Jorge Molina,1
+Sergio Mora,M. Arambarri,1
+Antunes,\u00c1ngel,1
+D. Su\u00e1rez,\u00c1ngel,1
+Portillo,D. Su\u00e1rez,1
+Sergio Mora,Antunes,1
+Jorge Molina,Antunes,1
+Jorge Molina,\u00c1ngel,1
+Sergio Mora,A. Ndiaye,1
+\u00c1ngel,Antunes,1
+Antunes,E. Mart\u00ednez,1
+Bruno,Portillo,1
+Jorge Molina,Bruno,1
+Jorge Molina,Sergio Mora,1

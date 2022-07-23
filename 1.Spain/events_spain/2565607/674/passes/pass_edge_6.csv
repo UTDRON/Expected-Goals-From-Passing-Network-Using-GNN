@@ -1,0 +1,37 @@
+Source,Target,Weight
+Jaume,E. Garay,2
+G. Kondogbia,E. Garay,2
+Rodrigo,G. Kondogbia,2
+Nacho Vidal,Rodrigo,2
+Gabriel,G. Kondogbia,2
+E. Garay,Nacho Vidal,2
+Dani Parejo,Carlos Soler,2
+G. Kondogbia,Carlos Soler,1
+E. Garay,S. Zaza,1
+Dani Parejo,G. Kondogbia,1
+Dani Parejo,Gabriel,1
+Nacho Vidal,Jos\u00e9 Gay\u00e1,1
+Gon\u00e7alo Guedes,Nacho Vidal,1
+Gabriel,Jaume,1
+G. Kondogbia,S. Zaza,1
+S. Zaza,Nacho Vidal,1
+E. Garay,Rodrigo,1
+G. Kondogbia,Nacho Vidal,1
+Nacho Vidal,Gabriel,1
+G. Kondogbia,Dani Parejo,1
+Rodrigo,Gon\u00e7alo Guedes,1
+S. Zaza,E. Garay,1
+Gon\u00e7alo Guedes,S. Zaza,1
+Dani Parejo,Gon\u00e7alo Guedes,1
+E. Garay,Jaume,1
+S. Zaza,Dani Parejo,1
+Carlos Soler,Rodrigo,1
+Nacho Vidal,G. Kondogbia,1
+E. Garay,Dani Parejo,1
+Carlos Soler,Nacho Vidal,1
+Rodrigo,Dani Parejo,1
+Jos\u00e9 Gay\u00e1,Gabriel,1
+Carlos Soler,E. Garay,1
+Dani Parejo,E. Garay,1
+Gon\u00e7alo Guedes,Dani Parejo,1
+E. Garay,Gon\u00e7alo Guedes,1

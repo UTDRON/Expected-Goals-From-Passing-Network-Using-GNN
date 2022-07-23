@@ -1,0 +1,71 @@
+Source,Target,Weight
+S. Widmer,B. Nuytinck,11
+B. Nuytinck,S. Widmer,9
+Samir,G. Angella,7
+G. Angella,Samir,7
+B. Nuytinck,G. Angella,6
+G. Angella,B. Nuytinck,6
+Ali Adnan,S. Fofana,6
+A. Bar\u00e1k,S. Widmer,4
+S. Fofana,G. Angella,4
+S. Widmer,J. Jankto,4
+S. Widmer,A. Bar\u00e1k,3
+V. Behrami,Samir,3
+V. Behrami,S. Widmer,3
+Samir,Ali Adnan,3
+Ali Adnan,G. Angella,3
+J. Jankto,Ali Adnan,3
+B. Nuytinck,A. Bar\u00e1k,3
+S. Fofana,V. Behrami,3
+G. Angella,S. Widmer,3
+J. Jankto,S. Widmer,3
+S. Fofana,Ali Adnan,3
+Samir,A. Bizzarri,2
+Samir,S. Fofana,2
+Maxi L\u00f3pez,A. Bar\u00e1k,2
+A. Bar\u00e1k,B. Nuytinck,2
+B. Nuytinck,V. Behrami,2
+Samir,V. Behrami,2
+G. Angella,A. Bizzarri,2
+G. Angella,V. Behrami,2
+V. Behrami,S. Fofana,2
+Ali Adnan,Samir,2
+G. Angella,J. Jankto,1
+Maxi L\u00f3pez,Ali Adnan,1
+A. Bar\u00e1k,V. Behrami,1
+A. Bar\u00e1k,S. Fofana,1
+S. Widmer,V. Behrami,1
+Maxi L\u00f3pez,V. Behrami,1
+Ali Adnan,A. Bar\u00e1k,1
+S. Fofana,J. Jankto,1
+S. Fofana,S. Widmer,1
+A. Bizzarri,B. Nuytinck,1
+J. Jankto,V. Behrami,1
+S. Widmer,G. Angella,1
+V. Behrami,J. Jankto,1
+V. Behrami,Maxi L\u00f3pez,1
+Ali Adnan,Maxi L\u00f3pez,1
+G. Angella,S. Fofana,1
+Samir,B. Nuytinck,1
+A. Bar\u00e1k,Samir,1
+B. Nuytinck,Samir,1
+A. Bar\u00e1k,Maxi L\u00f3pez,1
+G. Angella,Maxi L\u00f3pez,1
+V. Behrami,A. Bar\u00e1k,1
+V. Behrami,Ali Adnan,1
+Ali Adnan,S. Widmer,1
+J. Jankto,S. Fofana,1
+Maxi L\u00f3pez,Samir,1
+S. Widmer,Samir,1
+S. Fofana,B. Nuytinck,1
+S. Widmer,Maxi L\u00f3pez,1
+A. Bizzarri,Samir,1
+S. Widmer,S. Fofana,1
+B. Nuytinck,Ali Adnan,1
+A. Bar\u00e1k,G. Angella,1
+Samir,A. Bar\u00e1k,1
+A. Bizzarri,Ali Adnan,1
+V. Behrami,B. Nuytinck,1
+S. Fofana,Samir,1
+B. Nuytinck,J. Jankto,1
+A. Bizzarri,G. Angella,1

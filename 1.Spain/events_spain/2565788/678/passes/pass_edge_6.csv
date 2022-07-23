@@ -1,0 +1,59 @@
+Source,Target,Weight
+San Jos\u00e9,\u00cd\u00f1igo Mart\u00ednez,5
+Iturraspe,Yeray,5
+Iturraspe,San Jos\u00e9,4
+Susaeta,San Jos\u00e9,4
+San Jos\u00e9,Iturraspe,3
+Iturraspe,Susaeta,3
+Yeray,Iturraspe,3
+San Jos\u00e9,Be\u00f1at,3
+De Marcos,Iturraspe,3
+\u00cd\u00f1igo Mart\u00ednez,Arrizabalaga,2
+San Jos\u00e9,Arrizabalaga,2
+Be\u00f1at,San Jos\u00e9,2
+Ra\u00fal Garc\u00eda,Be\u00f1at,2
+Ra\u00fal Garc\u00eda,Aduriz,2
+De Marcos,San Jos\u00e9,2
+Arrizabalaga,Ra\u00fal Garc\u00eda,2
+\u00cd\u00f1igo Mart\u00ednez,San Jos\u00e9,2
+San Jos\u00e9,Yeray,2
+Aduriz,San Jos\u00e9,2
+Yeray,De Marcos,2
+Arrizabalaga,Iturraspe,2
+Be\u00f1at,Iturraspe,1
+\u00cd\u00f1igo Mart\u00ednez,Aduriz,1
+Arrizabalaga,\u00cd\u00f1igo Mart\u00ednez,1
+Susaeta,De Marcos,1
+Arrizabalaga,De Marcos,1
+Yeray,Saborit,1
+Susaeta,Saborit,1
+Aduriz,Susaeta,1
+Yeray,Ra\u00fal Garc\u00eda,1
+San Jos\u00e9,Ra\u00fal Garc\u00eda,1
+\u00cd\u00f1igo Mart\u00ednez,Susaeta,1
+De Marcos,Susaeta,1
+\u00cd\u00f1igo Mart\u00ednez,Lekue,1
+\u00cd\u00f1igo Mart\u00ednez,De Marcos,1
+Susaeta,Aduriz,1
+Lekue,Yeray,1
+Iturraspe,\u00cd\u00f1igo Mart\u00ednez,1
+Be\u00f1at,Susaeta,1
+I\u00f1aki Williams,De Marcos,1
+De Marcos,\u00cd\u00f1igo Mart\u00ednez,1
+De Marcos,I\u00f1aki Williams,1
+Aduriz,De Marcos,1
+De Marcos,Yeray,1
+Arrizabalaga,Susaeta,1
+Ra\u00fal Garc\u00eda,Iturraspe,1
+Saborit,Arrizabalaga,1
+Saborit,\u00cd\u00f1igo Mart\u00ednez,1
+Yeray,San Jos\u00e9,1
+Susaeta,Iturraspe,1
+\u00cd\u00f1igo Mart\u00ednez,Saborit,1
+Be\u00f1at,Arrizabalaga,1
+Yeray,Arrizabalaga,1
+Saborit,Aduriz,1
+Susaeta,Ra\u00fal Garc\u00eda,1
+San Jos\u00e9,Saborit,1
+Saborit,Susaeta,1
+Iturraspe,De Marcos,1

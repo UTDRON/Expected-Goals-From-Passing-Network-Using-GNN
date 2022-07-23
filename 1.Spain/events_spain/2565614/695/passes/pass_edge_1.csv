@@ -1,0 +1,45 @@
+Source,Target,Weight
+Chema,Sergio Postigo,3
+Pedro L\u00f3pez,E. Bardhi,3
+Samu Garc\u00eda,Pedro L\u00f3pez,3
+Sergio Postigo,Chema,3
+E. Bardhi,Rober,2
+Pedro L\u00f3pez,Sergio Postigo,2
+Sergio Postigo,Rober,2
+Jos\u00e9 Luis Morales,To\u00f1o,2
+To\u00f1o,\u00c1lex Alegr\u00eda,2
+Chema,To\u00f1o,2
+Pedro L\u00f3pez,Rober,2
+Rober,E. Bardhi,2
+To\u00f1o,Campa\u00f1a,1
+\u00c1lex Alegr\u00eda,Rober,1
+Rober,Samu Garc\u00eda,1
+Sergio Postigo,To\u00f1o,1
+\u00c1lex Alegr\u00eda,Samu Garc\u00eda,1
+Rober,Sergio Postigo,1
+\u00c1lex Alegr\u00eda,Sergio Postigo,1
+Sergio Postigo,Ra\u00fal Fern\u00e1ndez,1
+Rober,Pedro L\u00f3pez,1
+Campa\u00f1a,To\u00f1o,1
+Sergio Postigo,Pedro L\u00f3pez,1
+Pedro L\u00f3pez,Chema,1
+E. Bardhi,Sergio Postigo,1
+To\u00f1o,Samu Garc\u00eda,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,1
+Sergio Postigo,\u00c1lex Alegr\u00eda,1
+Rober,To\u00f1o,1
+To\u00f1o,Sergio Postigo,1
+To\u00f1o,Rober,1
+Rober,\u00c1lex Alegr\u00eda,1
+Campa\u00f1a,Sergio Postigo,1
+E. Bardhi,To\u00f1o,1
+To\u00f1o,Jos\u00e9 Luis Morales,1
+To\u00f1o,Pedro L\u00f3pez,1
+\u00c1lex Alegr\u00eda,Jos\u00e9 Luis Morales,1
+E. Bardhi,Pedro L\u00f3pez,1
+Sergio Postigo,Campa\u00f1a,1
+Rober,Chema,1
+Ra\u00fal Fern\u00e1ndez,\u00c1lex Alegr\u00eda,1
+Chema,Campa\u00f1a,1
+To\u00f1o,Chema,1

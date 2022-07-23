@@ -1,0 +1,20 @@
+Source,Target,Weight
+F. Ricci,A. Benali,2
+M. Capuano,F. Ceccherini,2
+A. Nalini,F. Ceccherini,2
+A. Benali,F. Ricci,1
+M. Capuano,A. Cordaz,1
+F. Ceccherini,M. Capuano,1
+B. Martella,M. Capuano,1
+A. Nalini,F. Ricci,1
+A. Cordaz,F. Ricci,1
+F. Ceccherini,A. Cordaz,1
+A. Benali,A. Nalini,1
+A. Cordaz,M. Capuano,1
+F. Ceccherini,D. Faraoni,1
+M. Capuano,B. Martella,1
+F. Ricci,R. Mandragora,1
+A. Nalini,M. Capuano,1
+D. Faraoni,A. Nalini,1
+R. Mandragora,G. Crociata,1
+F. Ceccherini,A. Nalini,1

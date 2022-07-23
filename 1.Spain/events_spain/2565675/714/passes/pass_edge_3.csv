@@ -1,0 +1,63 @@
+Source,Target,Weight
+Bigas,Vitolo,4
+Dani Castellano,Vitolo,4
+Jonathan Viera,Bigas,4
+Tana,M\u00edchel,4
+M\u00edchel,A. Aquilani,4
+Dani Castellano,Bigas,3
+Vitolo,Dani Castellano,3
+Bigas,Jonathan Viera,3
+M\u00edchel,Tana,3
+A. Aquilani,M\u00edchel,2
+Vitolo,L. R\u00e9my,2
+Bigas,Dani Castellano,2
+L. R\u00e9my,M\u00edchel,2
+Ra\u00fal Lizo\u00e1in,M. Lemos,2
+M\u00edchel,Jonathan Viera,2
+A. Aquilani,Jonathan Viera,2
+Jonathan Viera,Javi Castellano,2
+A. Aquilani,Tana,2
+Javi Castellano,Bigas,2
+Bigas,L. R\u00e9my,2
+Javi Castellano,Ra\u00fal Lizo\u00e1in,2
+Ra\u00fal Lizo\u00e1in,Bigas,2
+Tana,A. Aquilani,2
+Vitolo,Jonathan Viera,2
+Jonathan Viera,A. Aquilani,2
+Vitolo,Javi Castellano,2
+Bigas,Tana,2
+M\u00edchel,L. R\u00e9my,1
+L. R\u00e9my,A. Aquilani,1
+Bigas,M. Lemos,1
+M\u00edchel,Bigas,1
+A. Aquilani,Ra\u00fal Lizo\u00e1in,1
+Javi Castellano,L. R\u00e9my,1
+A. Aquilani,Bigas,1
+A. Aquilani,Vitolo,1
+A. Aquilani,M. Lemos,1
+L. R\u00e9my,Dani Castellano,1
+Javi Castellano,A. Aquilani,1
+M. Lemos,Bigas,1
+Vitolo,A. Aquilani,1
+Jonathan Viera,M. Lemos,1
+Tana,Jonathan Viera,1
+A. Aquilani,Javi Castellano,1
+Ra\u00fal Lizo\u00e1in,M\u00edchel,1
+L. R\u00e9my,Vitolo,1
+M\u00edchel,Ra\u00fal Lizo\u00e1in,1
+M. Lemos,Javi Castellano,1
+Dani Castellano,M\u00edchel,1
+M. Lemos,Ra\u00fal Lizo\u00e1in,1
+M\u00edchel,Dani Castellano,1
+L. R\u00e9my,Bigas,1
+Jonathan Viera,Vitolo,1
+Bigas,M\u00edchel,1
+Vitolo,Bigas,1
+Jonathan Viera,Tana,1
+Tana,Dani Castellano,1
+M. Lemos,M\u00edchel,1
+Javi Castellano,M\u00edchel,1
+M. Lemos,Jonathan Viera,1
+Dani Castellano,Jonathan Viera,1
+Jonathan Viera,M\u00edchel,1
+Bigas,Javi Castellano,1

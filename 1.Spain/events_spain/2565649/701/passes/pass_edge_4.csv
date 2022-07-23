@@ -1,0 +1,19 @@
+Source,Target,Weight
+G\u00e1lvez,Sergi Enrich,2
+G\u00e1lvez,T. Inui,2
+Sergi Enrich,G\u00e1lvez,2
+Sergi Enrich,Kike Garc\u00eda,1
+Kike Garc\u00eda,Sergi Enrich,1
+Christian Rivera,Ander Capa,1
+Ander Capa,Joan Jord\u00e1n,1
+T. Inui,Kike Garc\u00eda,1
+T. Inui,Sergi Enrich,1
+Joan Jord\u00e1n,T. Inui,1
+Kike Garc\u00eda,Joan Jord\u00e1n,1
+Joan Jord\u00e1n,G\u00e1lvez,1
+G\u00e1lvez,Christian Rivera,1
+T. Inui,G\u00e1lvez,1
+Christian Rivera,G\u00e1lvez,1
+G\u00e1lvez,Joan Jord\u00e1n,1
+Ander Capa,G\u00e1lvez,1
+Joan Jord\u00e1n,Ander Capa,1

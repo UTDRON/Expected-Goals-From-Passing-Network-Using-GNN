@@ -1,0 +1,18 @@
+Source,Target,Weight
+Rub\u00e9n P\u00e9rez,E. Mu\u00f1oz,3
+N. El Zhar,Rub\u00e9n P\u00e9rez,3
+Gabriel,Zald\u00faa,2
+Zald\u00faa,N. Amrabat,2
+N. Amrabat,Zald\u00faa,1
+Rub\u00e9n P\u00e9rez,Zald\u00faa,1
+Zald\u00faa,N. El Zhar,1
+Diego Rico,N. Amrabat,1
+Zald\u00faa,Gabriel,1
+N. Amrabat,Gabriel,1
+E. Mu\u00f1oz,Rub\u00e9n P\u00e9rez,1
+E. Mu\u00f1oz,N. El Zhar,1
+E. Mu\u00f1oz,Diego Rico,1
+Rub\u00e9n P\u00e9rez,N. El Zhar,1
+Gabriel,Rub\u00e9n P\u00e9rez,1
+Diego Rico,A. Szymanowski,1
+A. Szymanowski,Diego Rico,1

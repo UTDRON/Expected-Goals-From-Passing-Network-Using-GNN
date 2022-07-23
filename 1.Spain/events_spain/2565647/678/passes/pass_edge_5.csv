@@ -1,0 +1,74 @@
+Source,Target,Weight
+Iturraspe,B\u00f3veda,5
+A. Laporte,San Jos\u00e9,4
+B\u00f3veda,Iturraspe,4
+I\u00f1aki Williams,A. Laporte,3
+B\u00f3veda,A. Laporte,3
+Iturraspe,Ra\u00fal Garc\u00eda,3
+Lekue,B\u00f3veda,3
+B\u00f3veda,I\u00f1aki Williams,3
+Iturraspe,A. Laporte,3
+I\u00f1igo C\u00f3rdoba,Iturraspe,3
+Ra\u00fal Garc\u00eda,Lekue,3
+Lekue,Arrizabalaga,2
+Arrizabalaga,Ra\u00fal Garc\u00eda,2
+Aduriz,Ra\u00fal Garc\u00eda,2
+A. Laporte,I\u00f1igo C\u00f3rdoba,2
+I\u00f1aki Williams,Lekue,2
+I\u00f1igo C\u00f3rdoba,Lekue,2
+Arrizabalaga,Iturraspe,2
+A. Laporte,Lekue,2
+Aduriz,Arrizabalaga,2
+Lekue,Iturraspe,2
+A. Laporte,I\u00f1aki Williams,2
+Ra\u00fal Garc\u00eda,B\u00f3veda,2
+A. Laporte,Unai N\u00fa\u00f1ez,2
+Aduriz,I\u00f1igo C\u00f3rdoba,2
+Lekue,Ra\u00fal Garc\u00eda,2
+Ra\u00fal Garc\u00eda,Iturraspe,2
+Lekue,Aduriz,2
+San Jos\u00e9,Lekue,2
+Arrizabalaga,Aduriz,2
+Unai N\u00fa\u00f1ez,A. Laporte,2
+San Jos\u00e9,Iturraspe,2
+Iturraspe,Lekue,2
+I\u00f1igo C\u00f3rdoba,San Jos\u00e9,1
+Iturraspe,Unai N\u00fa\u00f1ez,1
+Lekue,I\u00f1igo C\u00f3rdoba,1
+Lekue,I\u00f1aki Williams,1
+Aduriz,Lekue,1
+A. Laporte,Arrizabalaga,1
+I\u00f1aki Williams,I\u00f1igo C\u00f3rdoba,1
+San Jos\u00e9,B\u00f3veda,1
+Aduriz,San Jos\u00e9,1
+Ra\u00fal Garc\u00eda,I\u00f1aki Williams,1
+B\u00f3veda,Arrizabalaga,1
+I\u00f1igo C\u00f3rdoba,I\u00f1aki Williams,1
+Unai N\u00fa\u00f1ez,San Jos\u00e9,1
+Arrizabalaga,I\u00f1igo C\u00f3rdoba,1
+Iturraspe,I\u00f1igo C\u00f3rdoba,1
+Iturraspe,San Jos\u00e9,1
+Iturraspe,Arrizabalaga,1
+A. Laporte,B\u00f3veda,1
+I\u00f1aki Williams,Iturraspe,1
+Ra\u00fal Garc\u00eda,A. Laporte,1
+Ra\u00fal Garc\u00eda,Aduriz,1
+Aduriz,Unai N\u00fa\u00f1ez,1
+Ra\u00fal Garc\u00eda,I\u00f1igo C\u00f3rdoba,1
+I\u00f1aki Williams,Ra\u00fal Garc\u00eda,1
+Unai N\u00fa\u00f1ez,Iturraspe,1
+A. Laporte,Iturraspe,1
+Lekue,A. Laporte,1
+Unai N\u00fa\u00f1ez,I\u00f1igo C\u00f3rdoba,1
+Aduriz,B\u00f3veda,1
+San Jos\u00e9,Aduriz,1
+I\u00f1igo C\u00f3rdoba,A. Laporte,1
+I\u00f1aki Williams,Aduriz,1
+Iturraspe,I\u00f1aki Williams,1
+San Jos\u00e9,Ra\u00fal Garc\u00eda,1
+A. Laporte,Aduriz,1
+B\u00f3veda,Aduriz,1
+San Jos\u00e9,A. Laporte,1
+I\u00f1igo C\u00f3rdoba,Unai N\u00fa\u00f1ez,1
+B\u00f3veda,Ra\u00fal Garc\u00eda,1
+I\u00f1igo C\u00f3rdoba,Aduriz,1

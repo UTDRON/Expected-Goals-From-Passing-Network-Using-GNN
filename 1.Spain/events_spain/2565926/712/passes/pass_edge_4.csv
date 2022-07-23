@@ -1,0 +1,41 @@
+Source,Target,Weight
+Gumbau,Omar Ramos,3
+Omar Ramos,D. Siovas,3
+Omar Ramos,Gumbau,2
+Rub\u00e9n P\u00e9rez,Gumbau,2
+Rub\u00e9n P\u00e9rez,Omar Ramos,2
+Guerrero,Tito,2
+Guerrero,Rub\u00e9n P\u00e9rez,2
+Rub\u00e9n P\u00e9rez,Tito,2
+D. Siovas,Omar Ramos,2
+Serantes,Rub\u00e9n P\u00e9rez,2
+Tito,Guerrero,2
+Omar Ramos,Guerrero,1
+D. Bra\u0161anac,Serantes,1
+Rub\u00e9n P\u00e9rez,Jos\u00e9 Naranjo,1
+Tito,Serantes,1
+Jos\u00e9 Naranjo,Guerrero,1
+Serantes,Guerrero,1
+Rub\u00e9n P\u00e9rez,D. Bra\u0161anac,1
+Tito,D. Bra\u0161anac,1
+D. Bra\u0161anac,Tito,1
+Guerrero,E. Mu\u00f1oz,1
+D. Siovas,Gumbau,1
+E. Mu\u00f1oz,D. Bra\u0161anac,1
+E. Mu\u00f1oz,Rub\u00e9n P\u00e9rez,1
+Tito,Gumbau,1
+D. Siovas,Rub\u00e9n P\u00e9rez,1
+Tito,Rub\u00e9n P\u00e9rez,1
+Gumbau,Tito,1
+Gumbau,Guerrero,1
+D. Bra\u0161anac,Rub\u00e9n P\u00e9rez,1
+Gumbau,Rub\u00e9n P\u00e9rez,1
+Jos\u00e9 Naranjo,Gumbau,1
+Omar Ramos,Jos\u00e9 Naranjo,1
+Jos\u00e9 Naranjo,Tito,1
+Gumbau,D. Siovas,1
+D. Bra\u0161anac,Jos\u00e9 Naranjo,1
+Guerrero,D. Bra\u0161anac,1
+Rub\u00e9n P\u00e9rez,Guerrero,1
+Tito,E. Mu\u00f1oz,1
+Omar Ramos,Serantes,1

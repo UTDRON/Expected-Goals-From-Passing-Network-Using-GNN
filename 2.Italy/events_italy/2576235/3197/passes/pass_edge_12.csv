@@ -1,0 +1,97 @@
+Source,Target,Weight
+M. Trotta,A. Barberis,6
+A. Cordaz,Simy,5
+D. Faraoni,F. Ricci,5
+A. Barberis,M. Trotta,5
+A. Benali,M. Capuano,5
+F. Ricci,A. Stoian,4
+A. Barberis,D. Faraoni,4
+R. Mandragora,M. Trotta,4
+A. Barberis,R. Mandragora,3
+M. Capuano,A. Cordaz,3
+R. Mandragora,F. Ricci,3
+D. Faraoni,A. Barberis,3
+Simy,A. Barberis,3
+A. Benali,A. Cordaz,3
+D. Faraoni,R. Mandragora,3
+F. Ricci,D. Faraoni,3
+A. Benali,F. Ceccherini,3
+B. Martella,A. Benali,3
+A. Nalini,R. Mandragora,2
+M. Trotta,D. Faraoni,2
+M. Capuano,R. Mandragora,2
+R. Mandragora,B. Martella,2
+Simy,M. Trotta,2
+M. Trotta,A. Benali,2
+Simy,F. Ricci,2
+A. Stoian,A. Nalini,2
+M. Capuano,Simy,2
+F. Ricci,B. Martella,2
+M. Capuano,B. Martella,2
+A. Cordaz,F. Ricci,2
+A. Cordaz,M. Capuano,2
+A. Stoian,D. Faraoni,2
+F. Ricci,R. Mandragora,2
+R. Mandragora,A. Barberis,2
+D. Faraoni,M. Trotta,2
+F. Ceccherini,A. Cordaz,2
+F. Ricci,M. Capuano,2
+F. Ceccherini,A. Barberis,2
+M. Trotta,R. Mandragora,2
+F. Ceccherini,A. Benali,2
+Simy,D. Faraoni,2
+R. Mandragora,A. Benali,2
+A. Benali,A. Nalini,2
+R. Mandragora,D. Faraoni,2
+D. Faraoni,F. Ceccherini,1
+F. Ceccherini,A. Stoian,1
+M. Trotta,Simy,1
+A. Barberis,A. Benali,1
+M. Trotta,B. Martella,1
+A. Cordaz,M. Trotta,1
+A. Benali,B. Martella,1
+A. Cordaz,A. Benali,1
+F. Ricci,A. Cordaz,1
+A. Barberis,Simy,1
+D. Faraoni,A. Nalini,1
+Simy,R. Mandragora,1
+A. Barberis,A. Cordaz,1
+A. Barberis,F. Ceccherini,1
+M. Capuano,A. Benali,1
+M. Capuano,M. Trotta,1
+A. Benali,D. Faraoni,1
+F. Ricci,A. Benali,1
+D. Faraoni,A. Benali,1
+B. Martella,M. Trotta,1
+A. Nalini,A. Cordaz,1
+B. Martella,A. Nalini,1
+F. Ceccherini,Simy,1
+A. Barberis,F. Ricci,1
+B. Martella,D. Faraoni,1
+A. Benali,R. Mandragora,1
+A. Benali,F. Ricci,1
+Simy,A. Benali,1
+A. Stoian,A. Benali,1
+M. Trotta,F. Ceccherini,1
+A. Stoian,F. Ceccherini,1
+D. Faraoni,A. Cordaz,1
+R. Mandragora,Simy,1
+F. Ricci,A. Barberis,1
+A. Cordaz,D. Faraoni,1
+M. Trotta,A. Nalini,1
+A. Barberis,M. Capuano,1
+A. Nalini,F. Ricci,1
+F. Ceccherini,B. Martella,1
+A. Nalini,B. Martella,1
+B. Martella,A. Barberis,1
+M. Capuano,F. Ceccherini,1
+B. Martella,M. Capuano,1
+B. Martella,F. Ricci,1
+B. Martella,F. Ceccherini,1
+M. Trotta,M. Capuano,1
+R. Mandragora,F. Ceccherini,1
+A. Nalini,M. Trotta,1
+R. Mandragora,A. Stoian,1
+D. Faraoni,Simy,1
+A. Nalini,A. Benali,1
+F. Ceccherini,R. Mandragora,1

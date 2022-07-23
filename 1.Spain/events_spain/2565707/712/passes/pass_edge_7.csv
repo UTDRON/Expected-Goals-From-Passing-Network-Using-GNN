@@ -1,0 +1,41 @@
+Source,Target,Weight
+Eraso,Rub\u00e9n P\u00e9rez,3
+Diego Rico,Gabriel,3
+Tito,Eraso,2
+Gabriel,Diego Rico,2
+Eraso,Tito,1
+N. El Zhar,Tito,1
+C. Beauvue,Eraso,1
+Rub\u00e9n P\u00e9rez,Diego Rico,1
+N. El Zhar,Eraso,1
+Diego Rico,C. Beauvue,1
+N. El Zhar,N. Amrabat,1
+Diego Rico,M. Mantovani,1
+Gabriel,Cu\u00e9llar,1
+Bustinza,M. Mantovani,1
+Bustinza,Diego Rico,1
+Gabriel,N. El Zhar,1
+Gabriel,Rub\u00e9n P\u00e9rez,1
+Rub\u00e9n P\u00e9rez,M. Mantovani,1
+Eraso,C. Beauvue,1
+Cu\u00e9llar,Bustinza,1
+C. Beauvue,M. Mantovani,1
+Rub\u00e9n P\u00e9rez,Tito,1
+M. Mantovani,N. El Zhar,1
+Tito,Cu\u00e9llar,1
+Rub\u00e9n P\u00e9rez,N. El Zhar,1
+Bustinza,Cu\u00e9llar,1
+Gabriel,N. Amrabat,1
+M. Mantovani,Diego Rico,1
+N. Amrabat,Bustinza,1
+Rub\u00e9n P\u00e9rez,Gabriel,1
+M. Mantovani,Cu\u00e9llar,1
+M. Mantovani,Eraso,1
+Cu\u00e9llar,N. Amrabat,1
+C. Beauvue,Rub\u00e9n P\u00e9rez,1
+Diego Rico,Tito,1
+Cu\u00e9llar,Tito,1
+Tito,C. Beauvue,1
+Cu\u00e9llar,Diego Rico,1
+Tito,Gabriel,1
+N. Amrabat,Gabriel,1

@@ -1,0 +1,85 @@
+Source,Target,Weight
+S. Widmer,A. Bar\u00e1k,6
+S. Fofana,R. de Paul,6
+A. Bizzarri,K. Lasagna,6
+Ali Adnan,B. Nuytinck,5
+S. Widmer,S. Fofana,4
+J. Jankto,Ali Adnan,4
+R. de Paul,J. Jankto,4
+A. Bar\u00e1k,R. de Paul,4
+B. Nuytinck,Danilo,4
+J. Jankto,A. Bar\u00e1k,4
+S. Widmer,Danilo,3
+K. Lasagna,R. de Paul,3
+A. Bar\u00e1k,A. Bizzarri,3
+R. de Paul,Danilo,3
+Danilo,J. Stryger Larsen,3
+A. Bar\u00e1k,J. Stryger Larsen,3
+Danilo,S. Widmer,3
+J. Stryger Larsen,Danilo,3
+B. Nuytinck,A. Bizzarri,3
+Danilo,S. Fofana,3
+A. Bar\u00e1k,S. Widmer,3
+R. de Paul,S. Widmer,3
+Ali Adnan,A. Bar\u00e1k,3
+J. Jankto,R. de Paul,3
+A. Bar\u00e1k,S. Fofana,2
+S. Fofana,J. Jankto,2
+Danilo,J. Jankto,2
+J. Jankto,S. Fofana,2
+S. Widmer,J. Stryger Larsen,2
+S. Fofana,Ali Adnan,2
+S. Fofana,B. Nuytinck,2
+S. Fofana,S. Widmer,2
+S. Widmer,J. Jankto,2
+Ali Adnan,S. Fofana,2
+Ali Adnan,J. Jankto,2
+R. de Paul,K. Lasagna,2
+K. Lasagna,B. Nuytinck,2
+A. Bar\u00e1k,B. Nuytinck,2
+J. Stryger Larsen,S. Fofana,2
+S. Fofana,J. Stryger Larsen,2
+J. Stryger Larsen,A. Bizzarri,2
+R. de Paul,Ali Adnan,2
+K. Lasagna,J. Stryger Larsen,2
+J. Stryger Larsen,A. Bar\u00e1k,2
+A. Bizzarri,Ali Adnan,2
+R. de Paul,A. Bar\u00e1k,2
+R. de Paul,S. Fofana,2
+Ali Adnan,S. Widmer,2
+J. Stryger Larsen,S. Widmer,2
+Danilo,A. Bar\u00e1k,1
+J. Jankto,J. Stryger Larsen,1
+B. Nuytinck,R. de Paul,1
+S. Fofana,Danilo,1
+Danilo,A. Bizzarri,1
+B. Nuytinck,K. Lasagna,1
+B. Nuytinck,S. Fofana,1
+K. Lasagna,J. Jankto,1
+J. Jankto,S. Widmer,1
+K. Lasagna,A. Bar\u00e1k,1
+Ali Adnan,K. Lasagna,1
+S. Widmer,A. Bizzarri,1
+S. Fofana,K. Lasagna,1
+R. de Paul,A. Bizzarri,1
+Danilo,B. Nuytinck,1
+K. Lasagna,Ali Adnan,1
+K. Lasagna,Danilo,1
+B. Nuytinck,Ali Adnan,1
+K. Lasagna,S. Widmer,1
+B. Nuytinck,J. Jankto,1
+A. Bizzarri,S. Widmer,1
+A. Bar\u00e1k,K. Lasagna,1
+J. Jankto,K. Lasagna,1
+B. Nuytinck,J. Stryger Larsen,1
+A. Bar\u00e1k,J. Jankto,1
+A. Bar\u00e1k,Ali Adnan,1
+Danilo,R. de Paul,1
+A. Bizzarri,B. Nuytinck,1
+B. Nuytinck,A. Bar\u00e1k,1
+S. Widmer,R. de Paul,1
+A. Bizzarri,Danilo,1
+Danilo,Ali Adnan,1
+J. Stryger Larsen,B. Nuytinck,1
+J. Stryger Larsen,Ali Adnan,1
+J. Stryger Larsen,J. Jankto,1

@@ -1,0 +1,19 @@
+Source,Target,Weight
+L. Mazzitelli,C. Adjapong,3
+C. Adjapong,L. Mazzitelli,3
+D. Berardi,F. Acerbi,2
+F. Acerbi,C. Adjapong,1
+Rog\u00e9rio,F. Magnanelli,1
+M. Politano,D. Berardi,1
+L. Mazzitelli,M. Politano,1
+C. Adjapong,F. Acerbi,1
+F. Magnanelli,D. Berardi,1
+C. Adjapong,M. Politano,1
+F. Acerbi,K. Babacar,1
+K. Babacar,Rog\u00e9rio,1
+F. Peluso,C. Adjapong,1
+M. Politano,C. Adjapong,1
+D. Berardi,F. Peluso,1
+Rog\u00e9rio,F. Peluso,1
+F. Acerbi,Rog\u00e9rio,1
+F. Peluso,L. Mazzitelli,1

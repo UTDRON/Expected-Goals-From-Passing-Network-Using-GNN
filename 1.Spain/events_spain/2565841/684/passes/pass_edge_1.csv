@@ -1,0 +1,96 @@
+Source,Target,Weight
+Jordi Amat,Bartra,14
+A. Mandi,Bartra,9
+J. Firpo,Jordi Amat,7
+Bartra,J. Firpo,7
+Bartra,Javi Garc\u00eda,7
+Bartra,Jordi Amat,7
+Bartra,A. Mandi,7
+Jordi Amat,Fabi\u00e1n,6
+Jordi Amat,J. Firpo,5
+Bartra,Barrag\u00e1n,5
+Javi Garc\u00eda,Jordi Amat,5
+J. Firpo,Bartra,5
+Fabi\u00e1n,Ad\u00e1n,4
+Javi Garc\u00eda,Bartra,4
+Fabi\u00e1n,A. Mandi,4
+Javi Garc\u00eda,A. Mandi,4
+A. Mandi,Barrag\u00e1n,4
+Jordi Amat,Javi Garc\u00eda,4
+Barrag\u00e1n,R. Boudebouz,4
+R. Boudebouz,Jordi Amat,3
+Barrag\u00e1n,A. Mandi,3
+Ad\u00e1n,Barrag\u00e1n,3
+Barrag\u00e1n,Javi Garc\u00eda,3
+A. Guardado,Jordi Amat,3
+A. Mandi,A. Guardado,3
+A. Guardado,A. Mandi,3
+Fabi\u00e1n,J. Firpo,3
+Bartra,Fabi\u00e1n,3
+Barrag\u00e1n,A. Guardado,3
+Fabi\u00e1n,Jordi Amat,3
+Bartra,R. Boudebouz,3
+Ad\u00e1n,Bartra,3
+J. Firpo,Fabi\u00e1n,3
+Barrag\u00e1n,Bartra,3
+Loren Mor\u00f3n,Jordi Amat,3
+A. Guardado,J. Firpo,3
+Barrag\u00e1n,Fabi\u00e1n,3
+Fabi\u00e1n,Javi Garc\u00eda,3
+Javi Garc\u00eda,Fabi\u00e1n,3
+R. Boudebouz,A. Guardado,3
+A. Guardado,Javi Garc\u00eda,3
+J. Firpo,Javi Garc\u00eda,3
+Jordi Amat,Barrag\u00e1n,3
+Jordi Amat,Ad\u00e1n,3
+Javi Garc\u00eda,A. Guardado,3
+Javi Garc\u00eda,J. Firpo,3
+Ad\u00e1n,Jordi Amat,3
+Ad\u00e1n,Javi Garc\u00eda,2
+Fabi\u00e1n,Barrag\u00e1n,2
+A. Guardado,Barrag\u00e1n,2
+Fabi\u00e1n,A. Guardado,2
+Fabi\u00e1n,R. Boudebouz,2
+Barrag\u00e1n,Jordi Amat,2
+Ad\u00e1n,Fabi\u00e1n,2
+A. Mandi,Fabi\u00e1n,2
+A. Mandi,Ad\u00e1n,2
+Bartra,Ad\u00e1n,2
+A. Guardado,Loren Mor\u00f3n,2
+Javi Garc\u00eda,R. Boudebouz,2
+R. Boudebouz,Barrag\u00e1n,2
+R. Boudebouz,Bartra,2
+Loren Mor\u00f3n,J. Firpo,2
+A. Guardado,Bartra,2
+J. Firpo,Loren Mor\u00f3n,2
+Barrag\u00e1n,Ad\u00e1n,2
+Loren Mor\u00f3n,R. Boudebouz,2
+Fabi\u00e1n,Bartra,2
+Ad\u00e1n,Loren Mor\u00f3n,2
+Ad\u00e1n,A. Mandi,2
+J. Firpo,A. Guardado,2
+Bartra,A. Guardado,2
+A. Mandi,R. Boudebouz,2
+J. Firpo,Ad\u00e1n,2
+R. Boudebouz,Fabi\u00e1n,2
+J. Firpo,Barrag\u00e1n,1
+A. Mandi,Javi Garc\u00eda,1
+Fabi\u00e1n,Loren Mor\u00f3n,1
+A. Mandi,Loren Mor\u00f3n,1
+Javi Garc\u00eda,Barrag\u00e1n,1
+Bartra,Loren Mor\u00f3n,1
+Loren Mor\u00f3n,A. Guardado,1
+Loren Mor\u00f3n,Fabi\u00e1n,1
+Barrag\u00e1n,Loren Mor\u00f3n,1
+R. Boudebouz,Loren Mor\u00f3n,1
+A. Mandi,Jordi Amat,1
+R. Boudebouz,A. Mandi,1
+Loren Mor\u00f3n,Barrag\u00e1n,1
+Jordi Amat,Loren Mor\u00f3n,1
+Javi Garc\u00eda,Ad\u00e1n,1
+Ad\u00e1n,J. Firpo,1
+Jordi Amat,A. Mandi,1
+R. Boudebouz,Ad\u00e1n,1
+A. Mandi,J. Firpo,1
+Loren Mor\u00f3n,Ad\u00e1n,1
+A. Guardado,Fabi\u00e1n,1

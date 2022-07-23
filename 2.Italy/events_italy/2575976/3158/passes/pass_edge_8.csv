@@ -1,0 +1,40 @@
+Source,Target,Weight
+D. Perotti,A. Kolarov,4
+R. Nainggolan,D. De Rossi,3
+D. De Rossi,R. Nainggolan,3
+A. Kolarov,K. Strootman,3
+A. Kolarov,D. Perotti,3
+K. Strootman,A. Kolarov,2
+D. De Rossi,A. Kolarov,2
+K. Strootman,Alisson,2
+E. D\u017eeko,D. De Rossi,2
+G. Defrel,D. De Rossi,2
+R. Nainggolan,Juan Jesus,2
+G. Defrel,R. Nainggolan,1
+R. Nainggolan,E. D\u017eeko,1
+E. D\u017eeko,K. Strootman,1
+Alisson,R. Nainggolan,1
+K. Manolas,K. Strootman,1
+D. De Rossi,G. Defrel,1
+A. Kolarov,Alisson,1
+K. Strootman,D. Perotti,1
+Alisson,D. De Rossi,1
+D. De Rossi,D. Perotti,1
+Juan Jesus,G. Defrel,1
+Alisson,F. Fazio,1
+D. De Rossi,Juan Jesus,1
+D. Perotti,D. De Rossi,1
+F. Fazio,A. Kolarov,1
+Juan Jesus,K. Manolas,1
+D. De Rossi,F. Fazio,1
+Juan Jesus,K. Strootman,1
+D. Perotti,R. Nainggolan,1
+F. Fazio,Alisson,1
+A. Kolarov,D. De Rossi,1
+D. Perotti,K. Strootman,1
+E. D\u017eeko,D. Perotti,1
+Alisson,K. Manolas,1
+D. De Rossi,E. D\u017eeko,1
+A. Kolarov,G. Defrel,1
+K. Manolas,E. D\u017eeko,1
+K. Strootman,E. D\u017eeko,1

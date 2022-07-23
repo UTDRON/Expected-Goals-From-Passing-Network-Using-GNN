@@ -1,0 +1,12 @@
+Source,Target,Weight
+M. Trotta,A. Stoian,2
+R. Mandragora,M. Trotta,1
+F. Ceccherini,R. Mandragora,1
+B. Martella,M. Trotta,1
+A. Stoian,B. Martella,1
+A. Stoian,F. Ceccherini,1
+A. Budimir,R. Mandragora,1
+R. Mandragora,S. Simi\u010d,1
+R. Mandragora,A. Budimir,1
+A. Stoian,R. Mandragora,1
+B. Martella,A. Stoian,1

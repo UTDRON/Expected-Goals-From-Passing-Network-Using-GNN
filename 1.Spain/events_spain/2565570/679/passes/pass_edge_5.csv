@@ -1,0 +1,34 @@
+Source,Target,Weight
+L. Vietto,Thomas,2
+L. Hern\u00e1ndez,Sa\u00fal,2
+Y. Carrasco,Sa\u00fal,2
+Juanfran,Y. Carrasco,2
+Thomas,Juanfran,1
+L. Hern\u00e1ndez,Juanfran,1
+Y. Carrasco,\u00c1. Correa,1
+Juanfran,Thomas,1
+Thomas,S. Savi\u0107,1
+J. Oblak,L. Vietto,1
+Thomas,L. Hern\u00e1ndez,1
+Sa\u00fal,S. Savi\u0107,1
+Koke,Filipe Luis,1
+Sa\u00fal,L. Hern\u00e1ndez,1
+Sa\u00fal,L. Vietto,1
+Koke,\u00c1. Correa,1
+\u00c1. Correa,Filipe Luis,1
+\u00c1. Correa,Y. Carrasco,1
+Filipe Luis,Sa\u00fal,1
+Juanfran,Koke,1
+Y. Carrasco,Juanfran,1
+S. Savi\u0107,Juanfran,1
+Sa\u00fal,Thomas,1
+S. Savi\u0107,L. Hern\u00e1ndez,1
+Sa\u00fal,Y. Carrasco,1
+Koke,L. Hern\u00e1ndez,1
+Thomas,Koke,1
+Filipe Luis,S. Savi\u0107,1
+L. Hern\u00e1ndez,Filipe Luis,1
+S. Savi\u0107,Sa\u00fal,1
+Filipe Luis,Koke,1
+Sa\u00fal,J. Oblak,1
+Koke,Y. Carrasco,1

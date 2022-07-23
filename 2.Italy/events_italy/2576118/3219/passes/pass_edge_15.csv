@@ -1,0 +1,44 @@
+Source,Target,Weight
+L. Del Pinto,B. Gyamfi,3
+B. Gyamfi,A. Brignoli,2
+A. Brignoli,S. Armenteros,2
+B. Gyamfi,A. Ciciretti,2
+A. Ciciretti,L. Memushaj,2
+L. Antei,L. Del Pinto,2
+G. Pu\u015fca\u015f,L. Memushaj,2
+L. Memushaj,G. Letizia,2
+B. Gyamfi,B. Djimsiti,2
+S. Armenteros,G. Letizia,1
+L. Memushaj,L. Del Pinto,1
+G. Letizia,L. Antei,1
+R. Chibsah,A. Costa,1
+A. Costa,L. Memushaj,1
+L. Antei,A. Brignoli,1
+L. Del Pinto,G. Pu\u015fca\u015f,1
+L. Memushaj,B. Gyamfi,1
+L. Memushaj,G. Pu\u015fca\u015f,1
+R. Chibsah,L. Memushaj,1
+L. Memushaj,M. D'Alessandro,1
+A. Ciciretti,B. Gyamfi,1
+B. Djimsiti,L. Del Pinto,1
+M. D'Alessandro,L. Memushaj,1
+B. Gyamfi,L. Del Pinto,1
+A. Brignoli,M. D'Alessandro,1
+A. Ciciretti,M. D'Alessandro,1
+G. Letizia,G. Pu\u015fca\u015f,1
+G. Pu\u015fca\u015f,G. Letizia,1
+G. Pu\u015fca\u015f,B. Djimsiti,1
+B. Djimsiti,B. Gyamfi,1
+M. D'Alessandro,G. Pu\u015fca\u015f,1
+L. Memushaj,L. Antei,1
+S. Armenteros,B. Djimsiti,1
+G. Letizia,A. Costa,1
+M. D'Alessandro,B. Gyamfi,1
+L. Del Pinto,L. Memushaj,1
+B. Djimsiti,A. Costa,1
+S. Armenteros,A. Ciciretti,1
+B. Djimsiti,A. Ciciretti,1
+L. Memushaj,R. Chibsah,1
+A. Costa,S. Armenteros,1
+A. Costa,R. Chibsah,1
+G. Letizia,L. Memushaj,1

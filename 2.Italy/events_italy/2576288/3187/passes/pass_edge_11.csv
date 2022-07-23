@@ -1,0 +1,65 @@
+Source,Target,Weight
+A. Diawara,M\u00e1rio Rui,5
+L. Tonelli,M\u00e1rio Rui,4
+M\u00e1rio Rui,A. Diawara,4
+M\u00e1rio Rui,L. Insigne,4
+M. Ham\u0161\u00edk,A. Diawara,3
+L. Tonelli,A. Diawara,3
+E. Hysaj,L. Tonelli,3
+A. Diawara,Albiol,3
+A. Diawara,L. Insigne,3
+L. Insigne,M\u00e1rio Rui,2
+L. Insigne,D. Mertens,2
+M\u00e1rio Rui,M. Ham\u0161\u00edk,2
+L. Insigne,A. Diawara,2
+M\u00e1rio Rui,L. Tonelli,2
+Albiol,Jos\u00e9 Callej\u00f3n,2
+D. Mertens,L. Insigne,2
+E. Hysaj,P. Zieli\u0144ski,2
+Jos\u00e9 Callej\u00f3n,P. Zieli\u0144ski,2
+A. Diawara,E. Hysaj,2
+M. Ham\u0161\u00edk,L. Insigne,2
+P. Zieli\u0144ski,D. Mertens,2
+A. Milik,E. Hysaj,2
+L. Insigne,L. Tonelli,2
+M. Ham\u0161\u00edk,M\u00e1rio Rui,2
+P. Zieli\u0144ski,Jos\u00e9 Callej\u00f3n,2
+L. Insigne,M. Ham\u0161\u00edk,2
+Albiol,Pepe Reina,2
+Jos\u00e9 Callej\u00f3n,M. Ham\u0161\u00edk,2
+D. Mertens,E. Hysaj,2
+A. Milik,L. Tonelli,1
+A. Diawara,D. Mertens,1
+A. Diawara,M. Ham\u0161\u00edk,1
+A. Diawara,P. Zieli\u0144ski,1
+L. Insigne,P. Zieli\u0144ski,1
+D. Mertens,A. Milik,1
+Albiol,E. Hysaj,1
+L. Insigne,A. Milik,1
+A. Milik,Albiol,1
+Jos\u00e9 Callej\u00f3n,D. Mertens,1
+L. Tonelli,Pepe Reina,1
+A. Milik,A. Diawara,1
+P. Zieli\u0144ski,M\u00e1rio Rui,1
+Albiol,M\u00e1rio Rui,1
+A. Milik,Jos\u00e9 Callej\u00f3n,1
+P. Zieli\u0144ski,M. Ham\u0161\u00edk,1
+Pepe Reina,A. Diawara,1
+Pepe Reina,A. Milik,1
+M. Ham\u0161\u00edk,L. Tonelli,1
+M\u00e1rio Rui,Albiol,1
+Jos\u00e9 Callej\u00f3n,Albiol,1
+M. Ham\u0161\u00edk,E. Hysaj,1
+P. Zieli\u0144ski,A. Milik,1
+Pepe Reina,Albiol,1
+M\u00e1rio Rui,Jos\u00e9 Callej\u00f3n,1
+E. Hysaj,Jos\u00e9 Callej\u00f3n,1
+E. Hysaj,A. Milik,1
+M\u00e1rio Rui,P. Zieli\u0144ski,1
+P. Zieli\u0144ski,A. Diawara,1
+E. Hysaj,A. Diawara,1
+Albiol,L. Tonelli,1
+L. Tonelli,L. Insigne,1
+D. Mertens,P. Zieli\u0144ski,1
+L. Tonelli,M. Ham\u0161\u00edk,1
+Jos\u00e9 Callej\u00f3n,A. Milik,1

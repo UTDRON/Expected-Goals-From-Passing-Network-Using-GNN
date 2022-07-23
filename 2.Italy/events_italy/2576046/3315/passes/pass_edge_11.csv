@@ -1,0 +1,25 @@
+Source,Target,Weight
+F. Magnanelli,D. Berardi,2
+F. Magnanelli,F. Peluso,2
+F. Peluso,F. Magnanelli,2
+D. Berardi,M. Gazzola,1
+S. Missiroli,F. Magnanelli,1
+M. Gazzola,A. Consigli,1
+F. Acerbi,F. Peluso,1
+F. Peluso,S. Sensi,1
+S. Missiroli,F. Acerbi,1
+A. Consigli,F. Peluso,1
+M. Gazzola,S. Missiroli,1
+S. Sensi,D. Falcinelli,1
+F. Magnanelli,S. Missiroli,1
+F. Peluso,D. Falcinelli,1
+D. Falcinelli,F. Peluso,1
+D. Falcinelli,S. Missiroli,1
+P. Cannavaro,F. Magnanelli,1
+S. Missiroli,M. Politano,1
+S. Missiroli,P. Cannavaro,1
+F. Peluso,D. Berardi,1
+S. Missiroli,M. Gazzola,1
+D. Berardi,S. Missiroli,1
+M. Politano,F. Magnanelli,1
+D. Berardi,M. Politano,1

@@ -1,0 +1,63 @@
+Source,Target,Weight
+Vesga,Iturraspe,5
+Sabin Merino,Ra\u00fal Garc\u00eda,5
+Iturraspe,B\u00f3veda,4
+B\u00f3veda,Vesga,4
+B\u00f3veda,Susaeta,4
+Ra\u00fal Garc\u00eda,B\u00f3veda,3
+A. Laporte,Unai N\u00fa\u00f1ez,3
+Susaeta,B\u00f3veda,3
+B\u00f3veda,Unai N\u00fa\u00f1ez,3
+Vesga,B\u00f3veda,3
+Unai N\u00fa\u00f1ez,A. Laporte,3
+Ra\u00fal Garc\u00eda,Vesga,3
+Ra\u00fal Garc\u00eda,Unai N\u00fa\u00f1ez,2
+Susaeta,Vesga,2
+Vesga,Sabin Merino,2
+Arrizabalaga,A. Laporte,2
+Iturraspe,Vesga,2
+Unai N\u00fa\u00f1ez,Arrizabalaga,2
+Saborit,Sabin Merino,2
+Vesga,Saborit,2
+Ra\u00fal Garc\u00eda,Sabin Merino,2
+Sabin Merino,I\u00f1aki Williams,2
+I\u00f1aki Williams,Vesga,2
+Vesga,Ra\u00fal Garc\u00eda,1
+Iturraspe,Ra\u00fal Garc\u00eda,1
+Unai N\u00fa\u00f1ez,I\u00f1aki Williams,1
+B\u00f3veda,A. Laporte,1
+Vesga,Susaeta,1
+A. Laporte,Susaeta,1
+B\u00f3veda,Saborit,1
+I\u00f1aki Williams,B\u00f3veda,1
+B\u00f3veda,Ra\u00fal Garc\u00eda,1
+Iturraspe,Saborit,1
+Unai N\u00fa\u00f1ez,Vesga,1
+I\u00f1aki Williams,Susaeta,1
+Saborit,I\u00f1aki Williams,1
+Unai N\u00fa\u00f1ez,Sabin Merino,1
+Saborit,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,Iturraspe,1
+A. Laporte,B\u00f3veda,1
+Susaeta,Unai N\u00fa\u00f1ez,1
+A. Laporte,Arrizabalaga,1
+B\u00f3veda,I\u00f1aki Williams,1
+Iturraspe,Unai N\u00fa\u00f1ez,1
+B\u00f3veda,Iturraspe,1
+Iturraspe,A. Laporte,1
+Saborit,Vesga,1
+Susaeta,Iturraspe,1
+Saborit,B\u00f3veda,1
+Arrizabalaga,Saborit,1
+A. Laporte,Sabin Merino,1
+Susaeta,Arrizabalaga,1
+I\u00f1aki Williams,Iturraspe,1
+A. Laporte,Iturraspe,1
+Unai N\u00fa\u00f1ez,Susaeta,1
+Ra\u00fal Garc\u00eda,Saborit,1
+A. Laporte,Ra\u00fal Garc\u00eda,1
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,Susaeta,1
+Vesga,A. Laporte,1
+Susaeta,A. Laporte,1
+Arrizabalaga,Ra\u00fal Garc\u00eda,1

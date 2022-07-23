@@ -1,0 +1,70 @@
+Source,Target,Weight
+Bruno Gama,Luisinho,7
+Luisinho,Pedro Mosquera,5
+Pedro Mosquera,Luisinho,5
+Luisinho,Bruno Gama,4
+Luisinho,Adri\u00e1n L\u00f3pez,4
+Juanfran,F. Sch\u00e4r,4
+Fede Cartabia,Guilherme,4
+Sidnei,Luisinho,4
+F. Sch\u00e4r,Guilherme,4
+Adri\u00e1n L\u00f3pez,Luisinho,4
+Sidnei,Adri\u00e1n L\u00f3pez,3
+Juanfran,Fede Cartabia,3
+Adri\u00e1n L\u00f3pez,Bruno Gama,3
+Luisinho,Guilherme,3
+Guilherme,Sidnei,3
+Pedro Mosquera,Sidnei,3
+Guilherme,Pedro Mosquera,3
+P. Tyto\u0144,F. Sch\u00e4r,2
+Adri\u00e1n L\u00f3pez,Pedro Mosquera,2
+F. Sch\u00e4r,Fede Cartabia,2
+Pedro Mosquera,F. Sch\u00e4r,2
+Guilherme,Bruno Gama,2
+Sidnei,F. Sch\u00e4r,2
+Fede Cartabia,Bruno Gama,2
+Sidnei,P. Tyto\u0144,2
+F. Sch\u00e4r,Sidnei,2
+Guilherme,Adri\u00e1n L\u00f3pez,2
+F. Andone,Luisinho,2
+Guilherme,F. Andone,2
+Pedro Mosquera,Bruno Gama,2
+Guilherme,Fede Cartabia,2
+Guilherme,Juanfran,2
+Pedro Mosquera,Guilherme,2
+Fede Cartabia,Juanfran,2
+Adri\u00e1n L\u00f3pez,Fede Cartabia,2
+Adri\u00e1n L\u00f3pez,Sidnei,2
+Bruno Gama,Adri\u00e1n L\u00f3pez,2
+Luisinho,Fede Cartabia,2
+Bruno Gama,Guilherme,1
+P. Tyto\u0144,Pedro Mosquera,1
+F. Sch\u00e4r,Bruno Gama,1
+Juanfran,Adri\u00e1n L\u00f3pez,1
+F. Andone,Juanfran,1
+P. Tyto\u0144,Juanfran,1
+F. Sch\u00e4r,Adri\u00e1n L\u00f3pez,1
+Luisinho,Juanfran,1
+Juanfran,Guilherme,1
+Sidnei,Pedro Mosquera,1
+Bruno Gama,F. Andone,1
+Adri\u00e1n L\u00f3pez,Juanfran,1
+Sidnei,Bruno Gama,1
+Bruno Gama,Sidnei,1
+F. Sch\u00e4r,Pedro Mosquera,1
+Pedro Mosquera,Adri\u00e1n L\u00f3pez,1
+Guilherme,F. Sch\u00e4r,1
+F. Andone,Sidnei,1
+F. Sch\u00e4r,Juanfran,1
+Sidnei,Guilherme,1
+Luisinho,F. Sch\u00e4r,1
+F. Sch\u00e4r,P. Tyto\u0144,1
+Luisinho,F. Andone,1
+Adri\u00e1n L\u00f3pez,Guilherme,1
+Fede Cartabia,Pedro Mosquera,1
+Fede Cartabia,Adri\u00e1n L\u00f3pez,1
+Bruno Gama,Pedro Mosquera,1
+Fede Cartabia,Sidnei,1
+Fede Cartabia,F. Sch\u00e4r,1
+Bruno Gama,Fede Cartabia,1
+Luisinho,P. Tyto\u0144,1

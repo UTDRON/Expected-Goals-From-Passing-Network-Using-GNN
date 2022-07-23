@@ -1,0 +1,23 @@
+Source,Target,Weight
+F. V\u00e1zquez,W. Ben Yedder,3
+G. Pizarro,F. V\u00e1zquez,3
+S. Kj\u00e6r,G. Pizarro,2
+W. Ben Yedder,S. Kj\u00e6r,2
+G. Pizarro,L. Carole,2
+Nolito,G. Pizarro,1
+C. Lenglet,G. Pizarro,1
+F. V\u00e1zquez,G. Pizarro,1
+L. Carole,C. Lenglet,1
+Nolito,F. V\u00e1zquez,1
+G. Pizarro,M. Krohn-Dehli,1
+W. Ben Yedder,G. Pizarro,1
+F. V\u00e1zquez,Nolito,1
+S. Kj\u00e6r,M. Krohn-Dehli,1
+G. Pizarro,Nolito,1
+M. Krohn-Dehli,G. Pizarro,1
+M. Krohn-Dehli,S. Kj\u00e6r,1
+Nolito,L. Carole,1
+G. Pizarro,W. Ben Yedder,1
+L. Carole,W. Ben Yedder,1
+L. Carole,F. V\u00e1zquez,1
+W. Ben Yedder,Nolito,1

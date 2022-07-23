@@ -1,0 +1,65 @@
+Source,Target,Weight
+Gabi,Koke,12
+Thomas,Gabi,9
+Koke,Gabi,8
+Gabi,Thomas,7
+L. Hern\u00e1ndez,Vitolo,6
+Thomas,\u00c1. Correa,5
+\u00c1. Correa,Koke,5
+\u0160. Vrsaljko,Koke,5
+Koke,L. Hern\u00e1ndez,5
+Koke,Vitolo,4
+Koke,Thomas,4
+Vitolo,Gabi,4
+Vitolo,\u00c1. Correa,4
+\u0160. Vrsaljko,Gabi,4
+Vitolo,Koke,4
+Koke,\u0160. Vrsaljko,4
+Diego Costa,Vitolo,4
+L. Hern\u00e1ndez,Gabi,3
+\u0160. Vrsaljko,Thomas,3
+Diego Costa,\u00c1. Correa,3
+Fernando Torres,Thomas,3
+Koke,Fernando Torres,3
+\u00c1. Correa,\u0160. Vrsaljko,3
+Vitolo,Diego Costa,3
+\u00c1. Correa,Vitolo,3
+\u00c1. Correa,Thomas,3
+Thomas,Koke,3
+Gabi,\u0160. Vrsaljko,3
+\u0160. Vrsaljko,\u00c1. Correa,3
+Gabi,\u00c1. Correa,2
+\u00c1. Correa,Fernando Torres,2
+Diego Costa,L. Hern\u00e1ndez,2
+Fernando Torres,Vitolo,2
+Thomas,Fernando Torres,2
+Gabi,Vitolo,2
+Koke,Diego Costa,2
+\u00c1. Correa,Diego Costa,2
+S. Savi\u0107,Koke,2
+Gabi,Diego Costa,2
+Koke,\u00c1. Correa,2
+Gabi,S. Savi\u0107,2
+\u00c1. Correa,Gabi,2
+Fernando Torres,Gabi,2
+\u00c1. Correa,L. Hern\u00e1ndez,2
+Vitolo,S. Savi\u0107,1
+L. Hern\u00e1ndez,\u0160. Vrsaljko,1
+Fernando Torres,\u0160. Vrsaljko,1
+L. Hern\u00e1ndez,S. Savi\u0107,1
+Diego Costa,\u0160. Vrsaljko,1
+S. Savi\u0107,L. Hern\u00e1ndez,1
+L. Hern\u00e1ndez,Koke,1
+Vitolo,Fernando Torres,1
+Vitolo,L. Hern\u00e1ndez,1
+Gabi,Fernando Torres,1
+Vitolo,A. Werner,1
+Thomas,\u0160. Vrsaljko,1
+\u0160. Vrsaljko,L. Hern\u00e1ndez,1
+L. Hern\u00e1ndez,\u00c1. Correa,1
+Gabi,L. Hern\u00e1ndez,1
+Fernando Torres,\u00c1. Correa,1
+Vitolo,\u0160. Vrsaljko,1
+Thomas,Diego Costa,1
+A. Werner,\u0160. Vrsaljko,1
+S. Savi\u0107,\u00c1. Correa,1

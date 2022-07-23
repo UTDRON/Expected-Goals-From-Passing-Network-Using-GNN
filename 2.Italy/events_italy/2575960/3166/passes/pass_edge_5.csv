@@ -1,0 +1,27 @@
+Source,Target,Weight
+V. Torosidis,S. Ta\u00efder,2
+A. Masina,V. Torosidis,2
+A. Poli,V. Torosidis,2
+A. Mirante,S. De Maio,2
+V. Torosidis,A. Mirante,2
+S. Ta\u00efder,V. Torosidis,2
+S. Verdi,A. Poli,1
+S. Verdi,A. Masina,1
+A. Poli,S. De Maio,1
+M. Destro,A. Poli,1
+M. Destro,V. Torosidis,1
+V. Torosidis,M. Destro,1
+S. De Maio,A. Mirante,1
+A. Poli,M. Destro,1
+M. Destro,S. Ta\u00efder,1
+A. Mirante,S. Verdi,1
+A. Mirante,V. Torosidis,1
+S. De Maio,A. Poli,1
+S. Ta\u00efder,A. Mirante,1
+V. Torosidis,E. Pulgar,1
+V. Torosidis,S. Verdi,1
+V. Torosidis,A. Poli,1
+V. Torosidis,A. Masina,1
+S. De Maio,V. Torosidis,1
+S. De Maio,M. Destro,1
+E. Pulgar,S. De Maio,1

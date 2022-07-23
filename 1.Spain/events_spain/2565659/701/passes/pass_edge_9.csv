@@ -1,0 +1,25 @@
+Source,Target,Weight
+Charles,Iv\u00e1n Alejo,2
+Sergi Enrich,Arbilla,2
+David Junc\u00e0,Arbilla,2
+Arbilla,Sergi Enrich,2
+Paulo Oliveira,T. Inui,1
+Ander Capa,M. Dmitrovi\u0107,1
+Charles,M. Dmitrovi\u0107,1
+Iv\u00e1n Alejo,Charles,1
+G. Escalante,Arbilla,1
+M. Dmitrovi\u0107,Arbilla,1
+T. Inui,Charles,1
+M. Dmitrovi\u0107,Sergi Enrich,1
+Arbilla,Paulo Oliveira,1
+Iv\u00e1n Alejo,T. Inui,1
+Sergi Enrich,Paulo Oliveira,1
+Arbilla,T. Inui,1
+T. Inui,Ander Capa,1
+Arbilla,David Junc\u00e0,1
+Paulo Oliveira,Ander Capa,1
+T. Inui,David Junc\u00e0,1
+Ander Capa,Charles,1
+Arbilla,Ander Capa,1
+Ander Capa,G. Escalante,1
+Sergi Enrich,T. Inui,1

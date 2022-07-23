@@ -1,0 +1,87 @@
+Source,Target,Weight
+B. Nuytinck,S. Widmer,11
+Danilo,B. Nuytinck,9
+Samir,G. Pezzella,9
+S. Widmer,B. Nuytinck,7
+A. Bizzarri,B. Nuytinck,7
+Samir,Danilo,7
+S. Fofana,G. Pezzella,7
+Danilo,Samir,6
+G. Pezzella,Samir,6
+G. Pezzella,Danilo,6
+S. Fofana,Samir,6
+S. Widmer,S. Fofana,6
+B. Nuytinck,A. Bar\u00e1k,5
+B. Nuytinck,S. Fofana,5
+S. Fofana,B. Nuytinck,5
+G. Pezzella,S. Fofana,5
+G. Pezzella,R. de Paul,4
+A. Bar\u00e1k,Danilo,4
+B. Nuytinck,A. Bizzarri,4
+R. de Paul,G. Pezzella,4
+A. Bar\u00e1k,B. Nuytinck,4
+K. Lasagna,S. Fofana,4
+K. Lasagna,S. Widmer,4
+B. Nuytinck,Danilo,4
+J. Jankto,Samir,3
+G. Pezzella,J. Jankto,3
+Danilo,A. Bar\u00e1k,3
+R. de Paul,A. Bar\u00e1k,3
+A. Bar\u00e1k,R. de Paul,3
+S. Widmer,A. Bar\u00e1k,3
+B. Nuytinck,G. Pezzella,3
+K. Lasagna,A. Bizzarri,3
+S. Widmer,R. de Paul,3
+G. Pezzella,A. Bizzarri,3
+S. Fofana,S. Widmer,3
+Danilo,A. Bizzarri,3
+R. de Paul,Danilo,3
+G. Pezzella,K. Lasagna,3
+S. Fofana,Danilo,3
+Danilo,R. de Paul,3
+R. de Paul,J. Jankto,2
+A. Bizzarri,K. Lasagna,2
+Danilo,G. Pezzella,2
+A. Bizzarri,G. Pezzella,2
+K. Lasagna,A. Bar\u00e1k,2
+R. de Paul,A. Bizzarri,2
+Samir,J. Jankto,2
+S. Widmer,Danilo,2
+Samir,K. Lasagna,2
+Danilo,S. Fofana,2
+S. Fofana,A. Bar\u00e1k,2
+A. Bar\u00e1k,S. Widmer,2
+A. Bar\u00e1k,S. Fofana,2
+Samir,S. Fofana,2
+J. Jankto,R. de Paul,2
+S. Widmer,K. Lasagna,2
+J. Jankto,S. Widmer,2
+A. Bar\u00e1k,K. Lasagna,2
+Samir,R. de Paul,2
+A. Bizzarri,S. Widmer,2
+J. Jankto,Danilo,2
+J. Jankto,G. Pezzella,2
+A. Bizzarri,Samir,2
+R. de Paul,K. Lasagna,2
+S. Widmer,A. Bizzarri,1
+A. Bizzarri,A. Bar\u00e1k,1
+B. Nuytinck,J. Jankto,1
+B. Nuytinck,Samir,1
+B. Nuytinck,K. Lasagna,1
+A. Bar\u00e1k,J. Jankto,1
+A. Bar\u00e1k,Samir,1
+J. Jankto,K. Lasagna,1
+Samir,B. Nuytinck,1
+R. de Paul,S. Fofana,1
+S. Fofana,K. Lasagna,1
+Samir,A. Bar\u00e1k,1
+S. Widmer,G. Pezzella,1
+A. Bar\u00e1k,G. Pezzella,1
+S. Widmer,J. Jankto,1
+Samir,S. Widmer,1
+K. Lasagna,J. Jankto,1
+G. Pezzella,B. Nuytinck,1
+K. Lasagna,Samir,1
+Danilo,J. Jankto,1
+K. Lasagna,B. Nuytinck,1
+Danilo,S. Widmer,1

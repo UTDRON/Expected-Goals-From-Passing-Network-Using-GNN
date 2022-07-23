@@ -1,0 +1,88 @@
+Source,Target,Weight
+J. Murillo,Toni Lato,8
+Andreas Pereira,Montoya,7
+J. Murillo,Gabriel,7
+Montoya,Gabriel,7
+Dani Parejo,Montoya,7
+G. Kondogbia,Jos\u00e9 Gay\u00e1,5
+Toni Lato,Gabriel,5
+Gabriel,G. Kondogbia,5
+Gabriel,J. Murillo,5
+G. Kondogbia,Dani Parejo,5
+Montoya,Andreas Pereira,5
+Montoya,G. Kondogbia,4
+Gabriel,Dani Parejo,4
+G. Kondogbia,J. Murillo,4
+Dani Parejo,Toni Lato,4
+Toni Lato,Santi Mina,4
+G. Kondogbia,Santi Mina,4
+Dani Parejo,J. Murillo,4
+Santi Mina,Dani Parejo,4
+Gabriel,Montoya,4
+Toni Lato,J. Murillo,4
+Dani Parejo,Rodrigo,4
+J. Murillo,G. Kondogbia,4
+Montoya,J. Murillo,3
+Rodrigo,Jos\u00e9 Gay\u00e1,3
+Santi Mina,Rodrigo,3
+Toni Lato,Rodrigo,3
+Andreas Pereira,G. Kondogbia,3
+Toni Lato,G. Kondogbia,3
+Gabriel,Toni Lato,3
+G. Kondogbia,Montoya,3
+Jos\u00e9 Gay\u00e1,G. Kondogbia,3
+Santi Mina,G. Kondogbia,3
+Neto,Dani Parejo,3
+Jos\u00e9 Gay\u00e1,Dani Parejo,3
+Santi Mina,J. Murillo,3
+J. Murillo,Andreas Pereira,2
+Rodrigo,Toni Lato,2
+Rodrigo,Andreas Pereira,2
+G. Kondogbia,Rodrigo,2
+Jos\u00e9 Gay\u00e1,Toni Lato,2
+Neto,Montoya,2
+Montoya,Dani Parejo,2
+Toni Lato,Jos\u00e9 Gay\u00e1,2
+G. Kondogbia,Gabriel,2
+Neto,Santi Mina,2
+J. Murillo,Neto,2
+G. Kondogbia,Toni Lato,2
+Gabriel,Andreas Pereira,2
+Dani Parejo,Santi Mina,2
+Toni Lato,Dani Parejo,2
+Toni Lato,Neto,2
+Montoya,Neto,2
+Rodrigo,G. Kondogbia,2
+Jos\u00e9 Gay\u00e1,J. Murillo,2
+Dani Parejo,G. Kondogbia,2
+Santi Mina,Toni Lato,2
+Dani Parejo,Jos\u00e9 Gay\u00e1,1
+Neto,Andreas Pereira,1
+Dani Parejo,Andreas Pereira,1
+G. Kondogbia,Andreas Pereira,1
+Santi Mina,Montoya,1
+Santi Mina,Jos\u00e9 Gay\u00e1,1
+Santi Mina,Neto,1
+G. Kondogbia,Neto,1
+Andreas Pereira,Toni Lato,1
+J. Murillo,Santi Mina,1
+Andreas Pereira,Gabriel,1
+Andreas Pereira,Santi Mina,1
+Neto,Rodrigo,1
+Andreas Pereira,Dani Parejo,1
+Andreas Pereira,Jos\u00e9 Gay\u00e1,1
+Gabriel,Rodrigo,1
+J. Murillo,Montoya,1
+Rodrigo,Dani Parejo,1
+Jos\u00e9 Gay\u00e1,Andreas Pereira,1
+Rodrigo,Santi Mina,1
+Dani Parejo,Gabriel,1
+J. Murillo,Dani Parejo,1
+Montoya,Santi Mina,1
+Jos\u00e9 Gay\u00e1,Gabriel,1
+Jos\u00e9 Gay\u00e1,Santi Mina,1
+Montoya,Toni Lato,1
+Dani Parejo,Neto,1
+Rodrigo,Gabriel,1
+Gabriel,Santi Mina,1
+Rodrigo,J. Murillo,1

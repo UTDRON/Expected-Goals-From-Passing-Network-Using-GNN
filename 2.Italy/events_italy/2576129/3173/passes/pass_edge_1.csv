@@ -1,0 +1,66 @@
+Source,Target,Weight
+F. Romagna,M. Andreolli,4
+N. Barella,F. Pisacane,3
+F. Pisacane,N. Barella,3
+M. Andreolli,A. Cragno,3
+N. Barella,A. Cossu,2
+G. van der Wiel,A. Ioni\u0163\u0103,2
+F. Romagna,G. van der Wiel,2
+L. Pavoletti,A. Cossu,2
+G. van der Wiel,N. Barella,2
+A. Cossu,F. Pisacane,2
+A. Cossu,M. Andreolli,2
+A. Cossu,S. Padoin,2
+A. Ioni\u0163\u0103,G. van der Wiel,2
+F. Pisacane,A. Cossu,2
+Jo\u00e3o Pedro,L. Pavoletti,2
+L. Pavoletti,N. Barella,2
+A. Cossu,F. Romagna,2
+F. Pisacane,M. Andreolli,2
+F. Pisacane,S. Padoin,2
+G. van der Wiel,A. Cossu,2
+A. Cragno,F. Pisacane,2
+F. Pisacane,F. Romagna,2
+A. Ioni\u0163\u0103,Jo\u00e3o Pedro,2
+M. Andreolli,F. Pisacane,2
+Jo\u00e3o Pedro,A. Cossu,1
+F. Romagna,A. Cossu,1
+F. Romagna,N. Barella,1
+A. Cragno,F. Romagna,1
+M. Andreolli,A. Ioni\u0163\u0103,1
+Jo\u00e3o Pedro,M. Andreolli,1
+Jo\u00e3o Pedro,F. Romagna,1
+M. Andreolli,G. van der Wiel,1
+A. Cossu,A. Ioni\u0163\u0103,1
+F. Romagna,A. Ioni\u0163\u0103,1
+S. Padoin,F. Pisacane,1
+M. Andreolli,A. Cossu,1
+S. Padoin,L. Pavoletti,1
+F. Pisacane,L. Pavoletti,1
+N. Barella,Jo\u00e3o Pedro,1
+A. Cossu,G. van der Wiel,1
+A. Cossu,N. Barella,1
+N. Barella,G. van der Wiel,1
+F. Romagna,S. Padoin,1
+N. Barella,A. Cragno,1
+N. Barella,L. Pavoletti,1
+S. Padoin,A. Cossu,1
+F. Romagna,F. Pisacane,1
+N. Barella,F. Romagna,1
+N. Barella,S. Padoin,1
+M. Andreolli,F. Romagna,1
+A. Ioni\u0163\u0103,N. Barella,1
+A. Cragno,A. Ioni\u0163\u0103,1
+S. Padoin,F. Romagna,1
+G. van der Wiel,F. Romagna,1
+S. Padoin,N. Barella,1
+A. Cossu,L. Pavoletti,1
+A. Ioni\u0163\u0103,M. Andreolli,1
+L. Pavoletti,G. van der Wiel,1
+Jo\u00e3o Pedro,G. van der Wiel,1
+Jo\u00e3o Pedro,F. Pisacane,1
+S. Padoin,Jo\u00e3o Pedro,1
+G. van der Wiel,F. Pisacane,1
+L. Pavoletti,Jo\u00e3o Pedro,1
+M. Andreolli,Jo\u00e3o Pedro,1
+F. Pisacane,Jo\u00e3o Pedro,1

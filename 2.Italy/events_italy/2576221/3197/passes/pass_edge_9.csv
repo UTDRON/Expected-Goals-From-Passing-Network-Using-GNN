@@ -1,0 +1,33 @@
+Source,Target,Weight
+N. Zanellato,Simy,3
+D. Faraoni,N. Zanellato,3
+Simy,A. Barberis,2
+A. Ajeti,N. Zanellato,2
+N. Zanellato,D. Faraoni,2
+M. Tumminello,D. Faraoni,2
+A. Barberis,Simy,1
+F. Ceccherini,M. Tumminello,1
+M. Sampirisi,A. Ajeti,1
+D. Faraoni,A. Barberis,1
+A. Barberis,M. Tumminello,1
+D. Faraoni,A. Ajeti,1
+A. Barberis,N. Zanellato,1
+N. Zanellato,A. Ajeti,1
+Simy,M. Tumminello,1
+M. Rohd\u00e9n,D. Pavlovic,1
+Simy,D. Faraoni,1
+D. Pavlovic,M. Rohd\u00e9n,1
+D. Pavlovic,M. Sampirisi,1
+A. Ajeti,D. Faraoni,1
+M. Rohd\u00e9n,A. Barberis,1
+F. Ceccherini,D. Pavlovic,1
+Simy,D. Pavlovic,1
+A. Barberis,A. Ajeti,1
+N. Zanellato,F. Ceccherini,1
+D. Faraoni,F. Ceccherini,1
+A. Ajeti,M. Sampirisi,1
+N. Zanellato,M. Rohd\u00e9n,1
+M. Tumminello,Simy,1
+M. Sampirisi,G. Crociata,1
+D. Pavlovic,N. Zanellato,1
+G. Crociata,M. Tumminello,1

@@ -1,0 +1,50 @@
+Source,Target,Weight
+Dani Parejo,Montoya,5
+Montoya,Dani Parejo,5
+Carlos Soler,Montoya,4
+Montoya,Carlos Soler,3
+Dani Parejo,Carlos Soler,3
+Gon\u00e7alo Guedes,Santi Mina,2
+F. Coquelin,Gon\u00e7alo Guedes,2
+L. Vietto,Gon\u00e7alo Guedes,2
+Santi Mina,Carlos Soler,2
+G. Kondogbia,Gabriel,2
+Montoya,L. Vietto,2
+Carlos Soler,Dani Parejo,2
+Dani Parejo,Jos\u00e9 Gay\u00e1,2
+Gabriel,Dani Parejo,2
+Dani Parejo,R\u00faben Vezo,2
+F. Coquelin,Dani Parejo,2
+Dani Parejo,G. Kondogbia,2
+Gabriel,R\u00faben Vezo,2
+Montoya,F. Coquelin,2
+Jos\u00e9 Gay\u00e1,F. Coquelin,1
+G. Kondogbia,Dani Parejo,1
+Gon\u00e7alo Guedes,Jos\u00e9 Gay\u00e1,1
+Santi Mina,Dani Parejo,1
+Dani Parejo,Gon\u00e7alo Guedes,1
+Montoya,Santi Mina,1
+Montoya,Gabriel,1
+Gon\u00e7alo Guedes,Dani Parejo,1
+R\u00faben Vezo,Dani Parejo,1
+Dani Parejo,Gabriel,1
+Jos\u00e9 Gay\u00e1,Montoya,1
+R\u00faben Vezo,Santi Mina,1
+R\u00faben Vezo,Jos\u00e9 Gay\u00e1,1
+G. Kondogbia,L. Vietto,1
+L. Vietto,Montoya,1
+R\u00faben Vezo,Montoya,1
+Gon\u00e7alo Guedes,F. Coquelin,1
+Gon\u00e7alo Guedes,R\u00faben Vezo,1
+Jos\u00e9 Gay\u00e1,Gon\u00e7alo Guedes,1
+F. Coquelin,Gabriel,1
+Gabriel,Montoya,1
+G. Kondogbia,Jos\u00e9 Gay\u00e1,1
+R\u00faben Vezo,G. Kondogbia,1
+R\u00faben Vezo,Gabriel,1
+Gabriel,G. Kondogbia,1
+Jos\u00e9 Gay\u00e1,Dani Parejo,1
+Santi Mina,F. Coquelin,1
+Carlos Soler,Santi Mina,1
+Carlos Soler,G. Kondogbia,1
+Jos\u00e9 Gay\u00e1,R\u00faben Vezo,1

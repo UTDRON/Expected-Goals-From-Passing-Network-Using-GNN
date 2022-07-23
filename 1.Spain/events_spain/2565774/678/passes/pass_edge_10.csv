@@ -1,0 +1,41 @@
+Source,Target,Weight
+Ra\u00fal Garc\u00eda,Yeray,3
+Yeray,Arrizabalaga,2
+Mikel Rico,Ra\u00fal Garc\u00eda,2
+Be\u00f1at,Yeray,2
+I\u00f1aki Williams,De Marcos,2
+Be\u00f1at,Mikel Rico,2
+Arrizabalaga,\u00cd\u00f1igo Mart\u00ednez,2
+Arrizabalaga,Aduriz,2
+\u00cd\u00f1igo Mart\u00ednez,Be\u00f1at,2
+De Marcos,Ra\u00fal Garc\u00eda,2
+\u00cd\u00f1igo Mart\u00ednez,I\u00f1aki Williams,1
+I\u00f1aki Williams,Mikel Rico,1
+Ra\u00fal Garc\u00eda,De Marcos,1
+Aduriz,Arrizabalaga,1
+Mikel Rico,I\u00f1aki Williams,1
+Yeray,Ra\u00fal Garc\u00eda,1
+Aduriz,\u00cd\u00f1igo Mart\u00ednez,1
+Yeray,Be\u00f1at,1
+De Marcos,Be\u00f1at,1
+De Marcos,\u00cd\u00f1igo Mart\u00ednez,1
+Yeray,Aduriz,1
+Saborit,Mikel Rico,1
+Mikel Rico,Be\u00f1at,1
+\u00cd\u00f1igo Mart\u00ednez,Arrizabalaga,1
+Yeray,I\u00f1aki Williams,1
+Saborit,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,Mikel Rico,1
+Mikel Rico,I\u00f1igo C\u00f3rdoba,1
+De Marcos,Aduriz,1
+Lekue,Mikel Rico,1
+De Marcos,Mikel Rico,1
+Aduriz,Lekue,1
+Saborit,\u00cd\u00f1igo Mart\u00ednez,1
+Mikel Rico,De Marcos,1
+I\u00f1igo C\u00f3rdoba,Saborit,1
+\u00cd\u00f1igo Mart\u00ednez,Saborit,1
+Aduriz,Saborit,1
+Ra\u00fal Garc\u00eda,I\u00f1aki Williams,1
+Be\u00f1at,De Marcos,1
+Mikel Rico,Yeray,1

@@ -1,0 +1,59 @@
+Source,Target,Weight
+Ivi,Luna,8
+Campa\u00f1a,Ivi,5
+Luna,Chema,5
+Luna,Campa\u00f1a,5
+Luna,Ivi,4
+Jos\u00e9 Luis Morales,C. Doukour\u00e9,4
+Sergio Postigo,Pedro L\u00f3pez,4
+Campa\u00f1a,J. Lerma,4
+C. Doukour\u00e9,Jos\u00e9 Luis Morales,3
+J. Lerma,Sergio Postigo,3
+Ra\u00fal Fern\u00e1ndez,Jos\u00e9 Luis Morales,3
+J. Lerma,Luna,3
+Nano,Ivi,2
+Pedro L\u00f3pez,Ra\u00fal Fern\u00e1ndez,2
+Pedro L\u00f3pez,C. Doukour\u00e9,2
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,2
+J. Lerma,Pedro L\u00f3pez,2
+Pedro L\u00f3pez,Campa\u00f1a,2
+Ivi,Campa\u00f1a,2
+Sergio Postigo,Ra\u00fal Fern\u00e1ndez,2
+Chema,Sergio Postigo,2
+Pedro L\u00f3pez,Sergio Postigo,2
+Chema,Ra\u00fal Fern\u00e1ndez,2
+J. Lerma,Campa\u00f1a,1
+C. Doukour\u00e9,J. Lerma,1
+J. Lerma,Nano,1
+Pedro L\u00f3pez,Ivi,1
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,1
+Ra\u00fal Fern\u00e1ndez,Campa\u00f1a,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+Ivi,Jos\u00e9 Luis Morales,1
+Luna,J. Lerma,1
+Sergio Postigo,Jos\u00e9 Luis Morales,1
+Ivi,C. Doukour\u00e9,1
+Campa\u00f1a,Pedro L\u00f3pez,1
+C. Doukour\u00e9,Luna,1
+Nano,J. Lerma,1
+Sergio Postigo,Nano,1
+Luna,Ra\u00fal Fern\u00e1ndez,1
+Jos\u00e9 Luis Morales,Ivi,1
+C. Doukour\u00e9,Nano,1
+Jos\u00e9 Luis Morales,Luna,1
+Ra\u00fal Fern\u00e1ndez,C. Doukour\u00e9,1
+Ra\u00fal Fern\u00e1ndez,Ivi,1
+Pedro L\u00f3pez,Luna,1
+C. Doukour\u00e9,Sergio Postigo,1
+Chema,Campa\u00f1a,1
+Ra\u00fal Fern\u00e1ndez,Pedro L\u00f3pez,1
+Ra\u00fal Fern\u00e1ndez,Nano,1
+Ivi,Chema,1
+C. Doukour\u00e9,Pedro L\u00f3pez,1
+Jos\u00e9 Luis Morales,Nano,1
+Nano,Luna,1
+Ivi,J. Lerma,1
+Nano,Campa\u00f1a,1
+Jos\u00e9 Luis Morales,Ra\u00fal Fern\u00e1ndez,1
+Campa\u00f1a,Luna,1
+Chema,J. Lerma,1

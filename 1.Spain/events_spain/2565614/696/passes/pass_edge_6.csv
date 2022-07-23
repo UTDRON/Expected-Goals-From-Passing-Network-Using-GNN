@@ -1,0 +1,39 @@
+Source,Target,Weight
+Carlos Vigaray,D. Torres,2
+Manu Garc\u00eda,Munir,2
+Fernando Pacheco,Carlos Vigaray,2
+G. Marip\u00e1n,Medr\u00e1n,1
+D. Torres,Alexis,1
+Rodrigo Ely,Alexis,1
+Medr\u00e1n,Rodrigo Ely,1
+Rub\u00e9n Duarte,Alfonso Pedraza,1
+Alfonso Pedraza,Fernando Pacheco,1
+Rodrigo Ely,Medr\u00e1n,1
+Alexis,Fernando Pacheco,1
+Alfonso Pedraza,G. Marip\u00e1n,1
+Rodrigo Ely,Alfonso Pedraza,1
+D. Torres,G. Marip\u00e1n,1
+Rub\u00e9n Duarte,G. Marip\u00e1n,1
+Munir,Manu Garc\u00eda,1
+Alexis,Rodrigo Ely,1
+Munir,Rub\u00e9n Duarte,1
+G. Marip\u00e1n,Alfonso Pedraza,1
+Medr\u00e1n,Munir,1
+Munir,Medr\u00e1n,1
+Alexis,Manu Garc\u00eda,1
+D. Torres,Rodrigo Ely,1
+Medr\u00e1n,Manu Garc\u00eda,1
+Carlos Vigaray,Medr\u00e1n,1
+Carlos Vigaray,Munir,1
+D. Torres,Medr\u00e1n,1
+D. Torres,Carlos Vigaray,1
+Alexis,G. Marip\u00e1n,1
+Manu Garc\u00eda,Alexis,1
+Medr\u00e1n,Carlos Vigaray,1
+Munir,D. Torres,1
+Munir,Carlos Vigaray,1
+G. Marip\u00e1n,D. Torres,1
+Carlos Vigaray,Alexis,1
+Alfonso Pedraza,Munir,1
+G. Marip\u00e1n,Rub\u00e9n Duarte,1
+Medr\u00e1n,Alfonso Pedraza,1

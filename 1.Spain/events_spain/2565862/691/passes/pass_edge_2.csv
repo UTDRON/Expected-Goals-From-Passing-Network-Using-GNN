@@ -1,0 +1,47 @@
+Source,Target,Weight
+Granero,Marc Navarro,5
+Mario Hermoso,D\u00eddac Vil\u00e1,5
+D\u00eddac Vil\u00e1,Sergi Darder,3
+Marc Navarro,Granero,3
+D\u00eddac Vil\u00e1,Granero,3
+Sergi Darder,L\u00e9o Baptist\u00e3o,3
+Granero,Sergi Darder,3
+Sergi Darder,Granero,3
+Marc Navarro,David L\u00f3pez,3
+D\u00eddac Vil\u00e1,P. Piatti,3
+Marc Navarro,Sergi Darder,3
+L\u00e9o Baptist\u00e3o,Gerard Moreno,2
+Sergi Darder,Mario Hermoso,2
+David L\u00f3pez,Mario Hermoso,2
+Sergi Darder,Marc Navarro,2
+Gerard Moreno,Sergi Darder,2
+Granero,Mario Hermoso,2
+L\u00e9o Baptist\u00e3o,Marc Navarro,2
+Pau L\u00f3pez,David L\u00f3pez,1
+Sergi Darder,D\u00eddac Vil\u00e1,1
+Pau L\u00f3pez,D\u00eddac Vil\u00e1,1
+L\u00e9o Baptist\u00e3o,Pau L\u00f3pez,1
+Mario Hermoso,David L\u00f3pez,1
+D\u00eddac Vil\u00e1,Marc Navarro,1
+L\u00e9o Baptist\u00e3o,Granero,1
+David L\u00f3pez,Granero,1
+D\u00eddac Vil\u00e1,David L\u00f3pez,1
+Gerard Moreno,D\u00eddac Vil\u00e1,1
+Granero,Sergio Garc\u00eda,1
+Mario Hermoso,Pau L\u00f3pez,1
+Sergio Garc\u00eda,Mario Hermoso,1
+Gerard Moreno,P. Piatti,1
+Mario Hermoso,Granero,1
+Granero,L\u00e9o Baptist\u00e3o,1
+Sergi Darder,Gerard Moreno,1
+P. Piatti,Mario Hermoso,1
+David L\u00f3pez,D\u00eddac Vil\u00e1,1
+P. Piatti,D\u00eddac Vil\u00e1,1
+Marc Navarro,Gerard Moreno,1
+P. Piatti,Sergio Garc\u00eda,1
+David L\u00f3pez,Sergi Darder,1
+P. Piatti,Sergi Darder,1
+Sergio Garc\u00eda,D\u00eddac Vil\u00e1,1
+David L\u00f3pez,L\u00e9o Baptist\u00e3o,1
+Sergi Darder,P. Piatti,1
+P. Piatti,L\u00e9o Baptist\u00e3o,1

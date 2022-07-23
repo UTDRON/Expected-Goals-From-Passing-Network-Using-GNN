@@ -1,0 +1,79 @@
+Source,Target,Weight
+Jordi Amat,J. Firpo,7
+J. Firpo,Cristian Tello,6
+J. Firpo,Fabi\u00e1n,5
+Fabi\u00e1n,J. Firpo,5
+Cristian Tello,J. Firpo,4
+Javi Garc\u00eda,Fabi\u00e1n,4
+R. Boudebouz,Cristian Tello,4
+A. Mandi,Javi Garc\u00eda,4
+A. Mandi,Barrag\u00e1n,4
+Javi Garc\u00eda,Barrag\u00e1n,4
+Fabi\u00e1n,Jordi Amat,3
+Barrag\u00e1n,Fabi\u00e1n,3
+Cristian Tello,Javi Garc\u00eda,3
+J. Firpo,Jordi Amat,3
+Barrag\u00e1n,Loren Mor\u00f3n,3
+Bartra,A. Mandi,3
+Javi Garc\u00eda,Jordi Amat,3
+Barrag\u00e1n,Javi Garc\u00eda,3
+Pedro L\u00f3pez,Loren Mor\u00f3n,3
+Loren Mor\u00f3n,Barrag\u00e1n,3
+Barrag\u00e1n,A. Mandi,3
+Javi Garc\u00eda,J. Firpo,2
+Javi Garc\u00eda,R. Boudebouz,2
+J. Firpo,Bartra,2
+Loren Mor\u00f3n,Cristian Tello,2
+Jordi Amat,Bartra,2
+R. Boudebouz,Jordi Amat,2
+J. Firpo,Pedro L\u00f3pez,2
+Loren Mor\u00f3n,A. Mandi,2
+Javi Garc\u00eda,Bartra,2
+Fabi\u00e1n,Barrag\u00e1n,2
+Barrag\u00e1n,Bartra,2
+Bartra,Barrag\u00e1n,2
+Fabi\u00e1n,R. Boudebouz,2
+Cristian Tello,R. Boudebouz,2
+A. Mandi,Fabi\u00e1n,2
+Fabi\u00e1n,Javi Garc\u00eda,2
+Loren Mor\u00f3n,Javi Garc\u00eda,1
+Cristian Tello,Bartra,1
+Barrag\u00e1n,Pedro L\u00f3pez,1
+Barrag\u00e1n,J. Firpo,1
+Fabi\u00e1n,Loren Mor\u00f3n,1
+Barrag\u00e1n,Jordi Amat,1
+Bartra,Loren Mor\u00f3n,1
+J. Firpo,R. Boudebouz,1
+Jordi Amat,Javi Garc\u00eda,1
+Bartra,Javi Garc\u00eda,1
+Fabi\u00e1n,A. Mandi,1
+Pedro L\u00f3pez,Barrag\u00e1n,1
+J. Firpo,Javi Garc\u00eda,1
+R. Boudebouz,J. Firpo,1
+Javi Garc\u00eda,A. Mandi,1
+Pedro L\u00f3pez,Fabi\u00e1n,1
+R. Boudebouz,Barrag\u00e1n,1
+Loren Mor\u00f3n,Fabi\u00e1n,1
+Bartra,Pedro L\u00f3pez,1
+Bartra,Fabi\u00e1n,1
+Loren Mor\u00f3n,J. Firpo,1
+Jordi Amat,R. Boudebouz,1
+R. Boudebouz,A. Mandi,1
+Pedro L\u00f3pez,Bartra,1
+Bartra,R. Boudebouz,1
+Cristian Tello,Pedro L\u00f3pez,1
+A. Mandi,Loren Mor\u00f3n,1
+Cristian Tello,Loren Mor\u00f3n,1
+Barrag\u00e1n,R. Boudebouz,1
+Jordi Amat,Barrag\u00e1n,1
+J. Firpo,Loren Mor\u00f3n,1
+Bartra,Jordi Amat,1
+Pedro L\u00f3pez,Javi Garc\u00eda,1
+R. Boudebouz,Fabi\u00e1n,1
+A. Mandi,Pedro L\u00f3pez,1
+Jordi Amat,A. Mandi,1
+Cristian Tello,Fabi\u00e1n,1
+Fabi\u00e1n,Bartra,1
+Fabi\u00e1n,Pedro L\u00f3pez,1
+Fabi\u00e1n,Cristian Tello,1
+R. Boudebouz,Javi Garc\u00eda,1

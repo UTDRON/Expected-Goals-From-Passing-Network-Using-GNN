@@ -1,0 +1,23 @@
+Source,Target,Weight
+T. Inui,David Junc\u00e0,2
+Charles,Sergi Enrich,2
+Sergi Enrich,David Junc\u00e0,2
+G. Escalante,Arbilla,1
+G. Escalante,Sergi Enrich,1
+Sergi Enrich,Charles,1
+M. Dmitrovi\u0107,G. Escalante,1
+David Junc\u00e0,Sergi Enrich,1
+Dani Garc\u00eda,T. Inui,1
+David Junc\u00e0,M. Dmitrovi\u0107,1
+David Junc\u00e0,Iv\u00e1n Alejo,1
+Arbilla,David Junc\u00e0,1
+David Junc\u00e0,Arbilla,1
+Sergi Enrich,Paulo Oliveira,1
+David Junc\u00e0,T. Inui,1
+Iv\u00e1n Alejo,Sergi Enrich,1
+Paulo Oliveira,Charles,1
+Arbilla,M. Dmitrovi\u0107,1
+T. Inui,Sergi Enrich,1
+Sergi Enrich,G. Escalante,1
+M. Dmitrovi\u0107,Sergi Enrich,1
+Sergi Enrich,Dani Garc\u00eda,1

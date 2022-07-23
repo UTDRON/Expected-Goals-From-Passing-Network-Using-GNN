@@ -1,0 +1,23 @@
+Source,Target,Weight
+Roger,Jason,2
+Jos\u00e9 Luis Morales,J. Lerma,2
+Luna,S. Luki\u0107,1
+J. Lerma,Jason,1
+Chema,S. Luki\u0107,1
+Roger,J. Lerma,1
+J. Lerma,Jos\u00e9 Luis Morales,1
+J. Lerma,Campa\u00f1a,1
+Jason,Roger,1
+S. Luki\u0107,Chema,1
+S. Luki\u0107,J. Lerma,1
+Campa\u00f1a,Coke,1
+Jason,J. Lerma,1
+J. Lerma,Roger,1
+Chema,Jos\u00e9 Luis Morales,1
+J. Lerma,Coke,1
+Coke,Roger,1
+Jason,Jos\u00e9 Luis Morales,1
+Coke,Campa\u00f1a,1
+Jos\u00e9 Luis Morales,Luna,1
+Jason,Chema,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1

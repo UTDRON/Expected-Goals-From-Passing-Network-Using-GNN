@@ -1,0 +1,54 @@
+Source,Target,Weight
+Bastos,M. Parolo,4
+S. Milinkovi\u0107-Savi\u0107,A. Maru\u0161i\u0107,3
+\u015e. Radu,Lucas Leiva,3
+T. Strakosha,S. de Vrij,3
+Lucas Leiva,S. de Vrij,2
+S. de Vrij,T. Strakosha,2
+Bastos,Lucas Leiva,2
+S. Luli\u0107,A. Maru\u0161i\u0107,2
+A. Maru\u0161i\u0107,S. Luli\u0107,2
+A. Maru\u0161i\u0107,Lucas Leiva,2
+S. Milinkovi\u0107-Savi\u0107,S. Luli\u0107,2
+A. Maru\u0161i\u0107,Bastos,2
+S. Luli\u0107,\u015e. Radu,2
+M. Parolo,S. Luli\u0107,2
+Lucas Leiva,T. Strakosha,2
+M. Parolo,T. Strakosha,2
+S. de Vrij,A. Maru\u0161i\u0107,2
+S. de Vrij,M. Parolo,2
+A. Maru\u0161i\u0107,S. Milinkovi\u0107-Savi\u0107,2
+S. Luli\u0107,Lucas Leiva,2
+Lucas Leiva,Luis Alberto,2
+M. Parolo,Bastos,2
+T. Strakosha,Bastos,1
+A. Maru\u0161i\u0107,C. Immobile,1
+Luis Alberto,C. Immobile,1
+M. Parolo,A. Maru\u0161i\u0107,1
+S. de Vrij,\u015e. Radu,1
+M. Parolo,S. Milinkovi\u0107-Savi\u0107,1
+T. Strakosha,M. Parolo,1
+Luis Alberto,S. de Vrij,1
+Lucas Leiva,S. Milinkovi\u0107-Savi\u0107,1
+Lucas Leiva,M. Parolo,1
+\u015e. Radu,M. Parolo,1
+S. Luli\u0107,S. Milinkovi\u0107-Savi\u0107,1
+Lucas Leiva,S. Luli\u0107,1
+M. Parolo,Lucas Leiva,1
+Bastos,A. Maru\u0161i\u0107,1
+C. Immobile,S. Luli\u0107,1
+C. Immobile,S. Milinkovi\u0107-Savi\u0107,1
+A. Maru\u0161i\u0107,M. Parolo,1
+Lucas Leiva,A. Maru\u0161i\u0107,1
+S. Milinkovi\u0107-Savi\u0107,\u015e. Radu,1
+\u015e. Radu,C. Immobile,1
+Lucas Leiva,\u015e. Radu,1
+T. Strakosha,\u015e. Radu,1
+S. Milinkovi\u0107-Savi\u0107,Bastos,1
+C. Immobile,M. Parolo,1
+C. Immobile,Bastos,1
+T. Strakosha,S. Milinkovi\u0107-Savi\u0107,1
+S. de Vrij,C. Immobile,1
+M. Parolo,S. de Vrij,1
+S. Luli\u0107,S. de Vrij,1
+\u015e. Radu,T. Strakosha,1

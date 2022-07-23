@@ -1,0 +1,71 @@
+Source,Target,Weight
+Sergio Escudero,Nolito,4
+Sergio Escudero,S. N'Zonzi,4
+S. N'Zonzi,Sergio Escudero,4
+S. N'Zonzi,\u00c9. Banega,3
+S. Corchia,Jes\u00fas Navas,3
+S. Kj\u00e6r,G. Pizarro,3
+Sergio Escudero,\u00c9. Banega,3
+\u00c9. Banega,Nolito,3
+Nolito,Sergio Escudero,3
+G. Pizarro,S. N'Zonzi,3
+\u00c9. Banega,Sergio Escudero,3
+Jes\u00fas Navas,S. N'Zonzi,2
+Nolito,Jes\u00fas Navas,2
+Nolito,\u00c9. Banega,2
+S. Corchia,J. Geis,2
+S. N'Zonzi,Jes\u00fas Navas,2
+G. Pizarro,Nolito,2
+S. N'Zonzi,S. Kj\u00e6r,2
+S. Kj\u00e6r,S. Corchia,2
+Jes\u00fas Navas,S. Kj\u00e6r,2
+Sergio Escudero,G. Pizarro,2
+\u00c9. Banega,G. Pizarro,2
+J. Geis,S. Corchia,2
+C. Lenglet,Sergio Escudero,2
+G. Pizarro,\u00c9. Banega,2
+Jes\u00fas Navas,G. Pizarro,2
+Jes\u00fas Navas,C. Lenglet,2
+G. Pizarro,C. Lenglet,2
+Nolito,S. Corchia,1
+Pablo Sarabia,David Soria,1
+David Soria,S. N'Zonzi,1
+S. Corchia,S. Kj\u00e6r,1
+C. Lenglet,Nolito,1
+Nolito,S. N'Zonzi,1
+Jes\u00fas Navas,Pablo Sarabia,1
+C. Lenglet,David Soria,1
+G. Pizarro,S. Kj\u00e6r,1
+S. Corchia,C. Lenglet,1
+S. Kj\u00e6r,Jes\u00fas Navas,1
+C. Lenglet,J. Geis,1
+\u00c9. Banega,S. Kj\u00e6r,1
+Nolito,G. Pizarro,1
+\u00c9. Banega,S. N'Zonzi,1
+Nolito,L. Muriel,1
+S. Corchia,Sergio Escudero,1
+Sergio Escudero,Jes\u00fas Navas,1
+C. Lenglet,S. Corchia,1
+S. Corchia,S. N'Zonzi,1
+Nolito,S. Kj\u00e6r,1
+L. Muriel,Jes\u00fas Navas,1
+C. Lenglet,G. Pizarro,1
+S. Corchia,\u00c9. Banega,1
+S. N'Zonzi,L. Muriel,1
+J. Geis,S. N'Zonzi,1
+Jes\u00fas Navas,J. Geis,1
+David Soria,C. Lenglet,1
+W. Ben Yedder,Jes\u00fas Navas,1
+S. N'Zonzi,S. Corchia,1
+S. Kj\u00e6r,C. Lenglet,1
+Jes\u00fas Navas,W. Ben Yedder,1
+L. Muriel,S. N'Zonzi,1
+S. Kj\u00e6r,Nolito,1
+J. Geis,Jes\u00fas Navas,1
+G. Pizarro,Sergio Escudero,1
+Jes\u00fas Navas,S. Corchia,1
+\u00c9. Banega,J. Geis,1
+S. N'Zonzi,G. Pizarro,1
+G. Pizarro,S. Corchia,1
+S. N'Zonzi,Nolito,1
+J. Geis,G. Pizarro,1

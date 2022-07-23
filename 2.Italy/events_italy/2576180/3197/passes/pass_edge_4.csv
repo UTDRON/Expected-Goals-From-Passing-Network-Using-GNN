@@ -1,0 +1,9 @@
+Source,Target,Weight
+R. Mandragora,F. Ricci,1
+A. Nalini,R. Mandragora,1
+R. Mandragora,A. Nalini,1
+F. Ricci,A. Barberis,1
+F. Ricci,R. Mandragora,1
+A. Barberis,F. Ricci,1
+R. Mandragora,A. Barberis,1
+A. Barberis,M. Trotta,1

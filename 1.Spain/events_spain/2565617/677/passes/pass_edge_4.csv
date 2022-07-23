@@ -1,0 +1,32 @@
+Source,Target,Weight
+C. Borges,E. \u00c7olak,4
+E. \u00c7olak,F. Valverde,3
+F. Valverde,Sidnei,2
+Guilherme,Juanfran,2
+Sidnei,C. Borges,2
+Fede Cartabia,Guilherme,2
+Juanfran,Fede Cartabia,2
+F. Sch\u00e4r,Fede Cartabia,1
+Sidnei,Luisinho,1
+Fede Cartabia,Juanfran,1
+Guilherme,C. Borges,1
+C. Borges,F. Sch\u00e4r,1
+Luisinho,F. Valverde,1
+Juanfran,F. Valverde,1
+F. Sch\u00e4r,Juanfran,1
+Fede Cartabia,F. Sch\u00e4r,1
+Juanfran,C. Borges,1
+Guilherme,Luisinho,1
+Sidnei,F. Sch\u00e4r,1
+F. Valverde,E. \u00c7olak,1
+F. Valverde,Juanfran,1
+Luisinho,Guilherme,1
+F. Sch\u00e4r,C. Borges,1
+Luisinho,F. Sch\u00e4r,1
+F. Sch\u00e4r,Luisinho,1
+C. Borges,Sidnei,1
+Guilherme,Sidnei,1
+F. Sch\u00e4r,Guilherme,1
+E. \u00c7olak,C. Borges,1
+Juanfran,F. Sch\u00e4r,1
+E. \u00c7olak,Fede Cartabia,1

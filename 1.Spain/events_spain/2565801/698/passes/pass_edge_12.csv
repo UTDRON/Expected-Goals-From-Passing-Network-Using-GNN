@@ -1,0 +1,47 @@
+Source,Target,Weight
+Portillo,D. Su\u00e1rez,3
+Bruno,Antunes,3
+G. Shibasaki,D. Su\u00e1rez,3
+D. Su\u00e1rez,G. Shibasaki,3
+D. Su\u00e1rez,Portillo,2
+Jorge Molina,G. Shibasaki,2
+Djen\u00e9,Bruno,2
+Portillo,Jorge Molina,2
+Antunes,Jorge Molina,2
+M. Arambarri,D. Su\u00e1rez,2
+Jorge Molina,Portillo,2
+Bruno,Djen\u00e9,2
+Jorge Molina,Antunes,2
+L. R\u00e9my,M. Arambarri,2
+Antunes,Bruno,2
+G. Shibasaki,Jorge Molina,1
+G. Shibasaki,Djen\u00e9,1
+M. Arambarri,E. Mart\u00ednez,1
+Djen\u00e9,D. Su\u00e1rez,1
+Jorge Molina,A. Ndiaye,1
+G. Shibasaki,M. Arambarri,1
+E. Mart\u00ednez,Bruno,1
+E. Mart\u00ednez,L. R\u00e9my,1
+D. Su\u00e1rez,Jorge Molina,1
+Bruno,L. R\u00e9my,1
+D. Su\u00e1rez,Antunes,1
+Bruno,Jorge Molina,1
+Antunes,M. Arambarri,1
+A. Ndiaye,Djen\u00e9,1
+Antunes,G. Shibasaki,1
+D. Su\u00e1rez,Bruno,1
+D. Su\u00e1rez,A. Ndiaye,1
+A. Ndiaye,E. Mart\u00ednez,1
+G. Shibasaki,Bruno,1
+L. R\u00e9my,Portillo,1
+M. Arambarri,Bruno,1
+A. Ndiaye,G. Shibasaki,1
+Portillo,L. R\u00e9my,1
+A. Ndiaye,Bruno,1
+Antunes,A. Ndiaye,1
+E. Mart\u00ednez,Jorge Molina,1
+Bruno,A. Ndiaye,1
+G. Shibasaki,Portillo,1
+Djen\u00e9,Antunes,1
+Bruno,D. Su\u00e1rez,1
+D. Su\u00e1rez,E. Mart\u00ednez,1

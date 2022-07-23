@@ -1,0 +1,28 @@
+Source,Target,Weight
+K. Lasagna,S. Fofana,3
+S. Fofana,S. Widmer,2
+S. Widmer,B. Nuytinck,2
+G. Angella,K. Lasagna,2
+B. Nuytinck,Samir,1
+Samir,A. Bizzarri,1
+S. Fofana,J. Jankto,1
+S. Widmer,S. Fofana,1
+Danilo,Samir,1
+Danilo,G. Angella,1
+A. Bizzarri,G. Angella,1
+A. Bizzarri,K. Lasagna,1
+J. Jankto,G. Angella,1
+A. Bar\u00e1k,K. Lasagna,1
+Ali Adnan,A. Bar\u00e1k,1
+A. Bar\u00e1k,S. Widmer,1
+B. Nuytinck,Ali Adnan,1
+Samir,S. Fofana,1
+G. Angella,J. Jankto,1
+S. Fofana,Danilo,1
+G. Angella,B. Nuytinck,1
+S. Fofana,S. Perica,1
+J. Jankto,S. Widmer,1
+S. Perica,Ali Adnan,1
+K. Lasagna,G. Angella,1
+B. Nuytinck,A. Bizzarri,1
+S. Widmer,A. Bar\u00e1k,1

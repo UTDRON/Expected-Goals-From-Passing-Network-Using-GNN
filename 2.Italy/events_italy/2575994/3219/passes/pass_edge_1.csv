@@ -1,0 +1,20 @@
+Source,Target,Weight
+S. Armenteros,N. Viola,2
+N. Viola,G. Di Chiara,2
+A. Lazaar,F. Lucioni,1
+N. Viola,M. Coda,1
+S. Armenteros,R. Chibsah,1
+V. Belec,S. Armenteros,1
+G. Di Chiara,A. Lazaar,1
+G. Di Chiara,S. Armenteros,1
+F. Lucioni,V. Belec,1
+M. Coda,N. Viola,1
+N. Viola,A. Lazaar,1
+S. Armenteros,L. Antei,1
+R. Chibsah,N. Viola,1
+N. Viola,F. Lucioni,1
+L. Antei,V. Belec,1
+F. Lucioni,A. Lazaar,1
+A. Lazaar,N. Viola,1
+V. Belec,M. Coda,1
+A. Lazaar,S. Armenteros,1

@@ -1,0 +1,62 @@
+Source,Target,Weight
+Balenziaga,\u00cd\u00f1igo Mart\u00ednez,5
+De Marcos,Susaeta,4
+Arrizabalaga,Ra\u00fal Garc\u00eda,4
+\u00cd\u00f1igo Mart\u00ednez,Arrizabalaga,4
+De Marcos,Iturraspe,3
+Iturraspe,\u00cd\u00f1igo Mart\u00ednez,3
+\u00cd\u00f1igo Mart\u00ednez,Iturraspe,3
+Balenziaga,Ra\u00fal Garc\u00eda,3
+Susaeta,De Marcos,3
+Iturraspe,De Marcos,3
+\u00cd\u00f1igo Mart\u00ednez,Balenziaga,3
+Ra\u00fal Garc\u00eda,Balenziaga,3
+Iturraspe,Balenziaga,2
+Ra\u00fal Garc\u00eda,Iturraspe,2
+Iturraspe,Susaeta,2
+\u00cd\u00f1igo Mart\u00ednez,Unai N\u00fa\u00f1ez,2
+Susaeta,Unai N\u00fa\u00f1ez,2
+Ra\u00fal Garc\u00eda,\u00cd\u00f1igo Mart\u00ednez,2
+Susaeta,Iturraspe,2
+Unai N\u00fa\u00f1ez,De Marcos,2
+Arrizabalaga,I\u00f1aki Williams,2
+I\u00f1igo C\u00f3rdoba,Susaeta,2
+San Jos\u00e9,Iturraspe,1
+\u00cd\u00f1igo Mart\u00ednez,I\u00f1aki Williams,1
+Susaeta,San Jos\u00e9,1
+De Marcos,Arrizabalaga,1
+I\u00f1aki Williams,San Jos\u00e9,1
+Unai N\u00fa\u00f1ez,\u00cd\u00f1igo Mart\u00ednez,1
+I\u00f1igo C\u00f3rdoba,Ra\u00fal Garc\u00eda,1
+I\u00f1aki Williams,De Marcos,1
+I\u00f1igo C\u00f3rdoba,San Jos\u00e9,1
+San Jos\u00e9,I\u00f1aki Williams,1
+Balenziaga,Iturraspe,1
+Balenziaga,I\u00f1igo C\u00f3rdoba,1
+Iturraspe,I\u00f1igo C\u00f3rdoba,1
+Unai N\u00fa\u00f1ez,Arrizabalaga,1
+Balenziaga,Unai N\u00fa\u00f1ez,1
+I\u00f1aki Williams,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,Arrizabalaga,1
+Iturraspe,Unai N\u00fa\u00f1ez,1
+Balenziaga,I\u00f1aki Williams,1
+De Marcos,Unai N\u00fa\u00f1ez,1
+Unai N\u00fa\u00f1ez,I\u00f1igo C\u00f3rdoba,1
+I\u00f1aki Williams,Balenziaga,1
+Unai N\u00fa\u00f1ez,San Jos\u00e9,1
+Ra\u00fal Garc\u00eda,I\u00f1igo C\u00f3rdoba,1
+Unai N\u00fa\u00f1ez,Iturraspe,1
+Susaeta,\u00cd\u00f1igo Mart\u00ednez,1
+Unai N\u00fa\u00f1ez,Susaeta,1
+San Jos\u00e9,Balenziaga,1
+Ra\u00fal Garc\u00eda,Susaeta,1
+I\u00f1igo C\u00f3rdoba,\u00cd\u00f1igo Mart\u00ednez,1
+Arrizabalaga,I\u00f1igo C\u00f3rdoba,1
+Ra\u00fal Garc\u00eda,Unai N\u00fa\u00f1ez,1
+I\u00f1igo C\u00f3rdoba,Balenziaga,1
+\u00cd\u00f1igo Mart\u00ednez,Ra\u00fal Garc\u00eda,1
+Iturraspe,Arrizabalaga,1
+Susaeta,I\u00f1igo C\u00f3rdoba,1
+De Marcos,Ra\u00fal Garc\u00eda,1
+Arrizabalaga,De Marcos,1
+I\u00f1aki Williams,\u00cd\u00f1igo Mart\u00ednez,1

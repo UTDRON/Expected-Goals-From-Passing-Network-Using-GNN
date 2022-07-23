@@ -1,0 +1,27 @@
+Source,Target,Weight
+Jason,Pedro L\u00f3pez,2
+Pedro L\u00f3pez,Campa\u00f1a,2
+Sergio Postigo,Campa\u00f1a,2
+Campa\u00f1a,Jason,2
+E. Cabaco,Campa\u00f1a,2
+Jason,Luna,2
+Pedro L\u00f3pez,Jason,2
+Campa\u00f1a,Pedro L\u00f3pez,2
+Oier,E. \u00dcnal,2
+Jos\u00e9 Luis Morales,Jason,1
+Luna,Pedro L\u00f3pez,1
+Luna,Oier,1
+Sergio Postigo,Jason,1
+J. Lerma,E. Cabaco,1
+Jason,E. Cabaco,1
+Pedro L\u00f3pez,E. Cabaco,1
+Pedro L\u00f3pez,Oier,1
+Jason,Campa\u00f1a,1
+E. \u00dcnal,Pedro L\u00f3pez,1
+Campa\u00f1a,E. Bardhi,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+E. Bardhi,Sergio Postigo,1
+Campa\u00f1a,J. Lerma,1
+E. \u00dcnal,Sergio Postigo,1
+J. Lerma,Jason,1
+E. Cabaco,Sergio Postigo,1

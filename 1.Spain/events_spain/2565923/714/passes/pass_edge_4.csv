@@ -1,0 +1,36 @@
+Source,Target,Weight
+Dani Castellano,Benito Ram\u00edrez,4
+Benito Ram\u00edrez,Dani Castellano,3
+G\u00e1lvez,Ximo Navarro,3
+Vicente G\u00f3mez,M. Aguirregaray,2
+Vicente G\u00f3mez,Benito Ram\u00edrez,2
+Dani Castellano,Momo,2
+Momo,A. Halilovi\u0107,2
+Benito Ram\u00edrez,Vicente G\u00f3mez,2
+M. Aguirregaray,Momo,1
+Benito Ram\u00edrez,Momo,1
+Dani Castellano,G\u00e1lvez,1
+A. Halilovi\u0107,O. Etebo,1
+Vicente G\u00f3mez,Dani Castellano,1
+Ximo Navarro,L. Chichizola,1
+Vicente G\u00f3mez,G\u00e1lvez,1
+M. Aguirregaray,Vicente G\u00f3mez,1
+Momo,M. Aguirregaray,1
+M. Aguirregaray,G\u00e1lvez,1
+Momo,Ximo Navarro,1
+O. Etebo,Dani Castellano,1
+G\u00e1lvez,L. Chichizola,1
+O. Etebo,G\u00e1lvez,1
+L. Chichizola,Dani Castellano,1
+L. Chichizola,O. Etebo,1
+O. Etebo,Momo,1
+A. Halilovi\u0107,Vicente G\u00f3mez,1
+Benito Ram\u00edrez,O. Etebo,1
+O. Etebo,Vicente G\u00f3mez,1
+Ximo Navarro,A. Halilovi\u0107,1
+Ximo Navarro,Benito Ram\u00edrez,1
+A. Halilovi\u0107,G\u00e1lvez,1
+Vicente G\u00f3mez,O. Etebo,1
+Ximo Navarro,Dani Castellano,1
+G\u00e1lvez,Momo,1
+Momo,Vicente G\u00f3mez,1

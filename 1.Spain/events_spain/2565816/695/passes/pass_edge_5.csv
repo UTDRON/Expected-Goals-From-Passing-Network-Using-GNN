@@ -1,0 +1,65 @@
+Source,Target,Weight
+S. Luki\u0107,Luna,4
+Luna,E. Boateng,3
+Luna,C. Doukour\u00e9,3
+C. Doukour\u00e9,Rober,3
+Rober,E. Cabaco,3
+E. Cabaco,S. Luki\u0107,3
+C. Doukour\u00e9,Jos\u00e9 Luis Morales,3
+Jos\u00e9 Luis Morales,E. Cabaco,2
+C. Doukour\u00e9,Luna,2
+E. Cabaco,Luna,2
+E. Cabaco,Rober,2
+Ivi,Luna,2
+Ivi,E. Cabaco,2
+E. Boateng,Rober,2
+Coke,C. Doukour\u00e9,2
+Luna,E. Cabaco,2
+E. Cabaco,Oier,2
+E. Boateng,Ivi,2
+Jos\u00e9 Luis Morales,Ivi,1
+C. Doukour\u00e9,E. Cabaco,1
+E. Cabaco,G. Pazzini,1
+E. Boateng,C. Doukour\u00e9,1
+Oier,S. Luki\u0107,1
+S. Luki\u0107,G. Pazzini,1
+G. Pazzini,Ivi,1
+G. Pazzini,Luna,1
+Jos\u00e9 Luis Morales,Oier,1
+A. Sadiku,Ivi,1
+E. Cabaco,C. Doukour\u00e9,1
+Oier,Coke,1
+E. Boateng,Luna,1
+S. Luki\u0107,Ivi,1
+E. Boateng,Jos\u00e9 Luis Morales,1
+Coke,S. Luki\u0107,1
+Pedro L\u00f3pez,Oier,1
+Ivi,E. Boateng,1
+Ivi,Jos\u00e9 Luis Morales,1
+C. Doukour\u00e9,Pedro L\u00f3pez,1
+Oier,Ivi,1
+S. Luki\u0107,C. Doukour\u00e9,1
+G. Pazzini,S. Luki\u0107,1
+Rober,S. Luki\u0107,1
+Jos\u00e9 Luis Morales,E. Boateng,1
+Rober,E. Boateng,1
+Coke,Rober,1
+Oier,E. Boateng,1
+Rober,Oier,1
+Jos\u00e9 Luis Morales,Coke,1
+G. Pazzini,Coke,1
+Rober,Jos\u00e9 Luis Morales,1
+Ivi,G. Pazzini,1
+Luna,Rober,1
+Ivi,C. Doukour\u00e9,1
+Luna,G. Pazzini,1
+Oier,Pedro L\u00f3pez,1
+Luna,Jos\u00e9 Luis Morales,1
+C. Doukour\u00e9,A. Sadiku,1
+Rober,Pedro L\u00f3pez,1
+Pedro L\u00f3pez,C. Doukour\u00e9,1
+Pedro L\u00f3pez,E. Cabaco,1
+Rober,C. Doukour\u00e9,1
+Luna,Ivi,1
+Jos\u00e9 Luis Morales,C. Doukour\u00e9,1
+C. Doukour\u00e9,Coke,1

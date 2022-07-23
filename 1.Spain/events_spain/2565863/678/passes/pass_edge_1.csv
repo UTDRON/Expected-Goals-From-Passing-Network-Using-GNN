@@ -1,0 +1,68 @@
+Source,Target,Weight
+Etxeita,De Marcos,6
+Be\u00f1at,Balenziaga,5
+Etxeita,Arrizabalaga,4
+De Marcos,Etxeita,4
+Balenziaga,\u00cd\u00f1igo Mart\u00ednez,4
+Susaeta,Etxeita,4
+\u00cd\u00f1igo Mart\u00ednez,Be\u00f1at,3
+Be\u00f1at,I\u00f1igo C\u00f3rdoba,3
+I\u00f1igo C\u00f3rdoba,Ra\u00fal Garc\u00eda,3
+Balenziaga,Be\u00f1at,3
+\u00cd\u00f1igo Mart\u00ednez,Arrizabalaga,3
+Be\u00f1at,San Jos\u00e9,3
+Balenziaga,I\u00f1igo C\u00f3rdoba,3
+De Marcos,San Jos\u00e9,3
+Ra\u00fal Garc\u00eda,Etxeita,2
+Be\u00f1at,Susaeta,2
+\u00cd\u00f1igo Mart\u00ednez,Etxeita,2
+Susaeta,Ra\u00fal Garc\u00eda,2
+Ra\u00fal Garc\u00eda,San Jos\u00e9,2
+De Marcos,Be\u00f1at,2
+Etxeita,Balenziaga,2
+San Jos\u00e9,Susaeta,2
+De Marcos,Susaeta,2
+Balenziaga,Susaeta,2
+Ra\u00fal Garc\u00eda,Susaeta,2
+I\u00f1igo C\u00f3rdoba,Be\u00f1at,2
+Susaeta,De Marcos,2
+Arrizabalaga,Balenziaga,2
+Arrizabalaga,Ra\u00fal Garc\u00eda,2
+I\u00f1aki Williams,Be\u00f1at,2
+I\u00f1igo C\u00f3rdoba,I\u00f1aki Williams,2
+I\u00f1igo C\u00f3rdoba,De Marcos,2
+San Jos\u00e9,Ra\u00fal Garc\u00eda,2
+San Jos\u00e9,De Marcos,1
+Balenziaga,De Marcos,1
+De Marcos,I\u00f1igo C\u00f3rdoba,1
+I\u00f1igo C\u00f3rdoba,Balenziaga,1
+Susaeta,Balenziaga,1
+Arrizabalaga,\u00cd\u00f1igo Mart\u00ednez,1
+\u00cd\u00f1igo Mart\u00ednez,Balenziaga,1
+Susaeta,\u00cd\u00f1igo Mart\u00ednez,1
+I\u00f1aki Williams,\u00cd\u00f1igo Mart\u00ednez,1
+De Marcos,I\u00f1aki Williams,1
+De Marcos,\u00cd\u00f1igo Mart\u00ednez,1
+\u00cd\u00f1igo Mart\u00ednez,De Marcos,1
+Arrizabalaga,San Jos\u00e9,1
+Etxeita,San Jos\u00e9,1
+San Jos\u00e9,I\u00f1aki Williams,1
+De Marcos,Balenziaga,1
+Etxeita,I\u00f1igo C\u00f3rdoba,1
+I\u00f1igo C\u00f3rdoba,Etxeita,1
+San Jos\u00e9,I\u00f1igo C\u00f3rdoba,1
+Balenziaga,Etxeita,1
+San Jos\u00e9,Balenziaga,1
+San Jos\u00e9,Etxeita,1
+Ra\u00fal Garc\u00eda,I\u00f1igo C\u00f3rdoba,1
+Be\u00f1at,Ra\u00fal Garc\u00eda,1
+Be\u00f1at,\u00cd\u00f1igo Mart\u00ednez,1
+Ra\u00fal Garc\u00eda,Be\u00f1at,1
+Ra\u00fal Garc\u00eda,I\u00f1aki Williams,1
+Ra\u00fal Garc\u00eda,De Marcos,1
+Arrizabalaga,Etxeita,1
+Etxeita,\u00cd\u00f1igo Mart\u00ednez,1
+San Jos\u00e9,Be\u00f1at,1
+Be\u00f1at,De Marcos,1
+Etxeita,Be\u00f1at,1
+I\u00f1aki Williams,I\u00f1igo C\u00f3rdoba,1

@@ -1,0 +1,19 @@
+Source,Target,Weight
+G. Pezzella,M. Badelj,1
+G. Simeone,M. Badelj,1
+D. Astori,G. Simeone,1
+J. Veretout,D. Astori,1
+F. Chiesa,C. Biraghi,1
+Gil Dias,M. Badelj,1
+M. Badelj,J. Veretout,1
+G. Pezzella,Bruno Gaspar,1
+Gil Dias,G. Pezzella,1
+M. Badelj,F. Chiesa,1
+Bruno Gaspar,G. Pezzella,1
+M. Badelj,M. Benassi,1
+D. Astori,F. Chiesa,1
+F. Chiesa,Gil Dias,1
+Bruno Gaspar,D. Astori,1
+M. Benassi,G. Pezzella,1
+C. Biraghi,Gil Dias,1
+G. Pezzella,Gil Dias,1

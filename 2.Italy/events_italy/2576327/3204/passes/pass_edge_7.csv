@@ -1,0 +1,25 @@
+Source,Target,Weight
+A. Paloschi,A. Grassi,2
+A. Grassi,Everton Luiz,2
+A. Gomis,T. Cionek,2
+T. Cionek,B. Salamon,1
+M. Antenucci,A. Gomis,1
+B. Salamon,A. Paloschi,1
+Felipe,Everton Luiz,1
+T. Cionek,A. Paloschi,1
+J. Kurti\u010d,A. Gomis,1
+A. Paloschi,J. Kurti\u010d,1
+B. Salamon,T. Cionek,1
+Everton Luiz,E. Schiavon,1
+J. Kurti\u010d,A. Paloschi,1
+A. Grassi,J. Kurti\u010d,1
+T. Cionek,A. Gomis,1
+E. Schiavon,A. Grassi,1
+J. Kurti\u010d,F. Costa,1
+T. Cionek,J. Kurti\u010d,1
+A. Grassi,F. Costa,1
+J. Kurti\u010d,T. Cionek,1
+F. Costa,B. Salamon,1
+A. Gomis,M. Antenucci,1
+F. Costa,Felipe,1
+Everton Luiz,A. Grassi,1

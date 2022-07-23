@@ -1,0 +1,46 @@
+Source,Target,Weight
+Sandro,\u00c9. Banega,3
+J. Correa,Sandro,3
+G. Mercado,J. Correa,2
+Pablo Sarabia,M. Lay\u00fan,2
+David Soria,G. Mercado,2
+\u00c9. Banega,F. V\u00e1zquez,2
+F. V\u00e1zquez,\u00c9. Banega,2
+S. N'Zonzi,Pablo Sarabia,2
+Sandro,F. V\u00e1zquez,2
+J. Geis,Sergio Escudero,2
+\u00c9. Banega,S. N'Zonzi,2
+\u00c9. Banega,Sandro,2
+Sergio Escudero,J. Geis,2
+M. Lay\u00fan,S. N'Zonzi,2
+M. Lay\u00fan,G. Mercado,1
+M. Lay\u00fan,Pablo Sarabia,1
+J. Geis,S. N'Zonzi,1
+Sergio Escudero,David Soria,1
+David Soria,M. Lay\u00fan,1
+Pablo Sarabia,Sandro,1
+\u00c9. Banega,J. Correa,1
+Pablo Sarabia,C. Lenglet,1
+\u00c9. Banega,G. Mercado,1
+M. Lay\u00fan,J. Correa,1
+Sandro,Pablo Sarabia,1
+C. Lenglet,Sergio Escudero,1
+S. N'Zonzi,Sergio Escudero,1
+Sandro,S. N'Zonzi,1
+Pablo Sarabia,David Soria,1
+S. N'Zonzi,\u00c9. Banega,1
+S. N'Zonzi,G. Mercado,1
+J. Correa,J. Geis,1
+G. Mercado,\u00c9. Banega,1
+F. V\u00e1zquez,C. Lenglet,1
+G. Mercado,David Soria,1
+J. Geis,M. Lay\u00fan,1
+S. N'Zonzi,M. Lay\u00fan,1
+F. V\u00e1zquez,J. Geis,1
+C. Lenglet,S. N'Zonzi,1
+G. Mercado,Pablo Sarabia,1
+J. Geis,Pablo Sarabia,1
+G. Mercado,J. Geis,1
+Sergio Escudero,G. Mercado,1
+S. N'Zonzi,Sandro,1
+Pablo Sarabia,J. Geis,1

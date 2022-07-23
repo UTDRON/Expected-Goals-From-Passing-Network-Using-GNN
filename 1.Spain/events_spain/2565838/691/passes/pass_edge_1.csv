@@ -1,0 +1,57 @@
+Source,Target,Weight
+Granero,C. S\u00e1nchez,4
+Aar\u00f3n,\u00d3. Duarte,4
+V\u00edctor S\u00e1nchez,David L\u00f3pez,3
+Sergi Darder,Gerard Moreno,3
+\u00d3. Duarte,Granero,3
+Sergi Darder,Aar\u00f3n,3
+\u00d3. Duarte,Sergi Darder,3
+Aar\u00f3n,Sergi Darder,3
+C. S\u00e1nchez,Jurado,2
+C. S\u00e1nchez,V\u00edctor S\u00e1nchez,2
+C. S\u00e1nchez,Granero,2
+Granero,Aar\u00f3n,2
+\u00d3. Duarte,C. S\u00e1nchez,2
+Granero,Sergi Darder,2
+Aar\u00f3n,Granero,2
+Gerard Moreno,V\u00edctor S\u00e1nchez,2
+David L\u00f3pez,C. S\u00e1nchez,2
+C. S\u00e1nchez,Pau L\u00f3pez,2
+Sergi Darder,C. S\u00e1nchez,2
+David L\u00f3pez,\u00d3. Duarte,2
+Gerard Moreno,Jurado,2
+Granero,Jurado,2
+Aar\u00f3n,C. S\u00e1nchez,2
+V\u00edctor S\u00e1nchez,Jurado,2
+Jurado,Granero,2
+\u00d3. Duarte,David L\u00f3pez,2
+Granero,\u00d3. Duarte,1
+Pau L\u00f3pez,Gerard Moreno,1
+\u00d3. Duarte,V\u00edctor S\u00e1nchez,1
+Sergi Darder,Granero,1
+Sergi Darder,\u00d3. Duarte,1
+\u00d3. Duarte,Aar\u00f3n,1
+Jurado,Sergio Garc\u00eda,1
+C. S\u00e1nchez,Sergi Darder,1
+Jurado,Sergi Darder,1
+David L\u00f3pez,Jurado,1
+David L\u00f3pez,Granero,1
+David L\u00f3pez,Sergi Darder,1
+C. S\u00e1nchez,David L\u00f3pez,1
+Gerard Moreno,Aar\u00f3n,1
+David L\u00f3pez,Aar\u00f3n,1
+Pau L\u00f3pez,\u00d3. Duarte,1
+Jurado,David L\u00f3pez,1
+Sergio Garc\u00eda,Aar\u00f3n,1
+C. S\u00e1nchez,Aar\u00f3n,1
+V\u00edctor S\u00e1nchez,Sergi Darder,1
+Jurado,Gerard Moreno,1
+Jurado,\u00d3. Duarte,1
+Sergi Darder,V\u00edctor S\u00e1nchez,1
+Pau L\u00f3pez,David L\u00f3pez,1
+C. S\u00e1nchez,\u00d3. Duarte,1
+David L\u00f3pez,Pau L\u00f3pez,1
+Jurado,Aar\u00f3n,1
+Sergi Darder,David L\u00f3pez,1
+Gerard Moreno,David L\u00f3pez,1
+David L\u00f3pez,Gerard Moreno,1

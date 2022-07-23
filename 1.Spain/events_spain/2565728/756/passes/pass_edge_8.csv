@@ -1,0 +1,10 @@
+Source,Target,Weight
+Portu,Aday,2
+Ramalho,Portu,1
+Y. Bounou,M. Olunga,1
+Juanpe,Y. Bounou,1
+Aday,M. Olunga,1
+Aday,Ramalho,1
+Bernardo Espinosa,Aday,1
+M. Olunga,Bernardo Espinosa,1
+Aday,Portu,1

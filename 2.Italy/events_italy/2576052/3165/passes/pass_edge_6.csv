@@ -1,0 +1,19 @@
+Source,Target,Weight
+F. Cacciatore,V. Birsa,4
+A. Gamberini,F. Cacciatore,3
+M. Pucciarelli,L. Castro,2
+L. Castro,F. Cacciatore,2
+V. Birsa,F. Cacciatore,2
+F. Cacciatore,A. Gamberini,2
+F. Cacciatore,L. Castro,2
+V. Birsa,L. Castro,1
+V. Birsa,A. Gamberini,1
+V. Birsa,I. Radovanovi\u0107,1
+L. Castro,M. Pucciarelli,1
+L. Castro,V. Birsa,1
+I. Radovanovi\u0107,F. Cacciatore,1
+N. Tomovi\u0107,I. Radovanovi\u0107,1
+M. St\u0119pi\u0144ski,V. Birsa,1
+F. Cacciatore,M. Pucciarelli,1
+I. Radovanovi\u0107,N. Tomovi\u0107,1
+L. Castro,M. St\u0119pi\u0144ski,1

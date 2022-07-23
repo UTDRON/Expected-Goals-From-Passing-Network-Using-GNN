@@ -1,0 +1,56 @@
+Source,Target,Weight
+C. Lenglet,Ganso,4
+Ganso,Nolito,3
+G. Mercado,S. N'Zonzi,3
+S. N'Zonzi,Pablo Sarabia,3
+Jes\u00fas Navas,Pablo Sarabia,3
+G. Mercado,Daniel Carri\u00e7o,3
+Jes\u00fas Navas,G. Mercado,3
+Sergio Rico,Ganso,2
+G. Mercado,W. Ben Yedder,2
+Daniel Carri\u00e7o,Jes\u00fas Navas,2
+Pablo Sarabia,G. Mercado,2
+Sergio Escudero,C. Lenglet,2
+Nolito,Sergio Escudero,2
+W. Ben Yedder,Jes\u00fas Navas,2
+Daniel Carri\u00e7o,C. Lenglet,2
+Pablo Sarabia,S. N'Zonzi,2
+Nolito,S. N'Zonzi,2
+Pablo Sarabia,Ganso,1
+Ganso,Sergio Rico,1
+Pablo Sarabia,S. Corchia,1
+Sergio Escudero,Daniel Carri\u00e7o,1
+W. Ben Yedder,Pablo Sarabia,1
+Ganso,Sergio Escudero,1
+Pablo Sarabia,C. Lenglet,1
+Jes\u00fas Navas,Daniel Carri\u00e7o,1
+Ganso,C. Lenglet,1
+S. Corchia,W. Ben Yedder,1
+Sergio Escudero,G. Mercado,1
+C. Lenglet,Sergio Escudero,1
+Pablo Sarabia,W. Ben Yedder,1
+S. N'Zonzi,Ganso,1
+C. Lenglet,Daniel Carri\u00e7o,1
+Sergio Rico,Jes\u00fas Navas,1
+S. Corchia,Nolito,1
+S. N'Zonzi,Daniel Carri\u00e7o,1
+Sergio Rico,W. Ben Yedder,1
+Daniel Carri\u00e7o,S. Corchia,1
+Pablo Sarabia,Jes\u00fas Navas,1
+G. Mercado,C. Lenglet,1
+Nolito,Pablo Sarabia,1
+Nolito,Ganso,1
+S. N'Zonzi,Sergio Escudero,1
+Daniel Carri\u00e7o,G. Mercado,1
+Sergio Escudero,W. Ben Yedder,1
+C. Lenglet,Sergio Rico,1
+S. N'Zonzi,G. Mercado,1
+W. Ben Yedder,Nolito,1
+W. Ben Yedder,Ganso,1
+Ganso,Jes\u00fas Navas,1
+Daniel Carri\u00e7o,Nolito,1
+Daniel Carri\u00e7o,Sergio Rico,1
+Ganso,Pablo Sarabia,1
+Ganso,G. Mercado,1
+G. Mercado,Sergio Rico,1
+Ganso,Daniel Carri\u00e7o,1

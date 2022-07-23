@@ -1,0 +1,30 @@
+Source,Target,Weight
+Joan Jord\u00e1n,Ander Capa,3
+Ramis,Jos\u00e9 \u00c1ngel,3
+Ander Capa,Paulo Oliveira,3
+Paulo Oliveira,Ramis,3
+Ander Capa,Joan Jord\u00e1n,2
+Jos\u00e9 \u00c1ngel,Sergi Enrich,2
+Joan Jord\u00e1n,Kike Garc\u00eda,2
+Ander Capa,Kike Garc\u00eda,2
+Kike Garc\u00eda,Ander Capa,2
+Jos\u00e9 \u00c1ngel,Charles,1
+Sergi Enrich,Joan Jord\u00e1n,1
+Kike Garc\u00eda,M. Dmitrovi\u0107,1
+Kike Garc\u00eda,Ramis,1
+Ramis,Joan Jord\u00e1n,1
+Beb\u00e9,Ander Capa,1
+Sergi Enrich,Dani Garc\u00eda,1
+Ramis,Sergi Enrich,1
+Sergi Enrich,M. Dmitrovi\u0107,1
+M. Dmitrovi\u0107,Joan Jord\u00e1n,1
+M. Dmitrovi\u0107,Beb\u00e9,1
+Joan Jord\u00e1n,Dani Garc\u00eda,1
+Beb\u00e9,Ramis,1
+Kike Garc\u00eda,Joan Jord\u00e1n,1
+Dani Garc\u00eda,Joan Jord\u00e1n,1
+Joan Jord\u00e1n,Sergi Enrich,1
+Charles,Beb\u00e9,1
+Sergi Enrich,Jos\u00e9 \u00c1ngel,1
+Dani Garc\u00eda,Kike Garc\u00eda,1
+Jos\u00e9 \u00c1ngel,Beb\u00e9,1

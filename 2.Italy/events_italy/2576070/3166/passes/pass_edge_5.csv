@@ -1,0 +1,43 @@
+Source,Target,Weight
+A. Poli,L. Crisetig,3
+F. Helander,Angelo da Costa,3
+E. Krafth,A. Poli,2
+A. Masina,R. Palacio,2
+R. Palacio,E. Krafth,2
+A. Poli,E. Krafth,2
+L. Crisetig,A. Poli,2
+A. Masina,F. Helander,2
+G. Gonz\u00e1lez,E. Krafth,2
+E. Krafth,R. Palacio,2
+F. Helander,A. Masina,2
+R. Palacio,F. Helander,1
+Angelo da Costa,L. Crisetig,1
+L. Crisetig,A. Masina,1
+F. Helander,G. Donsah,1
+E. Krafth,S. Verdi,1
+Angelo da Costa,F. Helander,1
+G. Donsah,E. Krafth,1
+R. Palacio,L. Crisetig,1
+G. Gonz\u00e1lez,R. Palacio,1
+G. Donsah,G. Gonz\u00e1lez,1
+G. Gonz\u00e1lez,F. Helander,1
+S. Verdi,A. Masina,1
+A. Masina,F. Di Francesco,1
+F. Di Francesco,A. Masina,1
+A. Masina,E. Krafth,1
+E. Krafth,F. Helander,1
+L. Crisetig,G. Gonz\u00e1lez,1
+Angelo da Costa,A. Masina,1
+G. Donsah,F. Helander,1
+A. Poli,R. Palacio,1
+E. Krafth,G. Donsah,1
+F. Helander,S. Verdi,1
+R. Palacio,A. Poli,1
+F. Helander,F. Di Francesco,1
+G. Donsah,A. Poli,1
+L. Crisetig,F. Helander,1
+E. Krafth,Angelo da Costa,1
+F. Di Francesco,G. Donsah,1
+Angelo da Costa,G. Gonz\u00e1lez,1
+S. Verdi,G. Donsah,1
+E. Krafth,G. Gonz\u00e1lez,1

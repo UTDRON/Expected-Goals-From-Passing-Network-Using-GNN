@@ -1,0 +1,39 @@
+Source,Target,Weight
+Pablo Sarabia,C. Lenglet,4
+C. Lenglet,Pablo Sarabia,4
+S. N'Zonzi,Roque Mesa,3
+C. Lenglet,S. N'Zonzi,3
+S. N'Zonzi,Pablo Sarabia,3
+Roque Mesa,S. N'Zonzi,3
+F. V\u00e1zquez,Roque Mesa,2
+N. Pareja,F. V\u00e1zquez,2
+Roque Mesa,Nolito,2
+Pablo Sarabia,N. Pareja,2
+C. Lenglet,N. Pareja,2
+Nolito,Sandro,1
+N. Pareja,M. Lay\u00fan,1
+Roque Mesa,C. Lenglet,1
+M. Lay\u00fan,F. V\u00e1zquez,1
+N. Pareja,Nolito,1
+S. N'Zonzi,N. Pareja,1
+Pablo Sarabia,David Soria,1
+N. Pareja,David Soria,1
+F. V\u00e1zquez,Pablo Sarabia,1
+David Soria,C. Lenglet,1
+Pablo Sarabia,Roque Mesa,1
+Nolito,C. Lenglet,1
+N. Pareja,Pablo Sarabia,1
+Sandro,C. Lenglet,1
+Pablo Sarabia,S. N'Zonzi,1
+Nolito,S. N'Zonzi,1
+Pablo Sarabia,F. V\u00e1zquez,1
+S. N'Zonzi,C. Lenglet,1
+F. V\u00e1zquez,N. Pareja,1
+David Soria,N. Pareja,1
+Pablo Sarabia,Nolito,1
+C. Lenglet,Roque Mesa,1
+Nolito,Roque Mesa,1
+N. Pareja,C. Lenglet,1
+Roque Mesa,F. V\u00e1zquez,1
+Roque Mesa,Pablo Sarabia,1
+F. V\u00e1zquez,Sandro,1

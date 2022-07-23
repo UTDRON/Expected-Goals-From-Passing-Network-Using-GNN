@@ -1,0 +1,37 @@
+Source,Target,Weight
+Alex Sandro,B. Matuidi,5
+A. Barzagli,D. Rugani,5
+B. Matuidi,Alex Sandro,5
+P. Dybala,M. De Sciglio,4
+Douglas Costa,D. Rugani,3
+M. De Sciglio,M. Pjani\u0107,3
+D. Rugani,A. Barzagli,3
+M. Pjani\u0107,G. Higua\u00edn,3
+A. Barzagli,M. Pjani\u0107,3
+G. Higua\u00edn,M. Pjani\u0107,3
+B. Matuidi,M. Mand\u017euki\u0107,2
+A. Barzagli,B. Matuidi,2
+M. Pjani\u0107,A. Barzagli,2
+D. Rugani,M. Pjani\u0107,2
+D. Rugani,Douglas Costa,2
+M. Pjani\u0107,M. De Sciglio,2
+G. Higua\u00edn,B. Matuidi,2
+M. De Sciglio,A. Barzagli,2
+M. Pjani\u0107,Douglas Costa,2
+B. Matuidi,M. Pjani\u0107,2
+B. Matuidi,A. Barzagli,2
+M. Pjani\u0107,P. Dybala,2
+B. Matuidi,G. Higua\u00edn,1
+M. De Sciglio,G. Higua\u00edn,1
+M. Mand\u017euki\u0107,A. Barzagli,1
+Douglas Costa,G. Higua\u00edn,1
+Alex Sandro,Douglas Costa,1
+M. Mand\u017euki\u0107,B. Matuidi,1
+D. Rugani,B. Matuidi,1
+M. Pjani\u0107,D. Rugani,1
+M. Pjani\u0107,B. Matuidi,1
+G. Higua\u00edn,Alex Sandro,1
+M. De Sciglio,P. Dybala,1
+Douglas Costa,P. Dybala,1
+D. Rugani,M. De Sciglio,1
+M. De Sciglio,Douglas Costa,1

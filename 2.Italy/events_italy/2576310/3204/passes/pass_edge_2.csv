@@ -1,0 +1,52 @@
+Source,Target,Weight
+A. Paloschi,F. Costa,3
+T. Cionek,J. Kurti\u010d,3
+F. Mattiello,T. Cionek,3
+Everton Luiz,Felipe,3
+A. Paloschi,Everton Luiz,3
+F. Vicari,A. Grassi,3
+A. Grassi,F. Costa,3
+Everton Luiz,J. Kurti\u010d,3
+J. Kurti\u010d,Everton Luiz,2
+F. Costa,A. Grassi,2
+A. Grassi,Everton Luiz,2
+F. Vicari,T. Cionek,2
+T. Cionek,Everton Luiz,2
+A. Grassi,M. Antenucci,2
+J. Kurti\u010d,A. Paloschi,2
+Everton Luiz,F. Vicari,2
+A. Gomis,A. Paloschi,2
+T. Cionek,Felipe,2
+F. Costa,M. Antenucci,2
+T. Cionek,A. Gomis,2
+Felipe,F. Mattiello,2
+Everton Luiz,F. Mattiello,1
+A. Paloschi,A. Grassi,1
+J. Kurti\u010d,F. Mattiello,1
+M. Antenucci,Everton Luiz,1
+M. Antenucci,F. Costa,1
+A. Grassi,A. Paloschi,1
+A. Gomis,F. Vicari,1
+Everton Luiz,T. Cionek,1
+Everton Luiz,A. Grassi,1
+M. Antenucci,T. Cionek,1
+F. Costa,Everton Luiz,1
+F. Mattiello,M. Antenucci,1
+J. Kurti\u010d,F. Costa,1
+M. Antenucci,A. Grassi,1
+F. Vicari,Everton Luiz,1
+Felipe,J. Kurti\u010d,1
+Everton Luiz,M. Antenucci,1
+T. Cionek,F. Vicari,1
+A. Paloschi,T. Cionek,1
+F. Mattiello,A. Grassi,1
+Felipe,A. Gomis,1
+Felipe,Everton Luiz,1
+F. Costa,A. Paloschi,1
+F. Costa,T. Cionek,1
+J. Kurti\u010d,F. Vicari,1
+A. Grassi,F. Mattiello,1
+F. Costa,J. Kurti\u010d,1
+J. Kurti\u010d,T. Cionek,1
+Everton Luiz,A. Paloschi,1
+M. Antenucci,A. Paloschi,1

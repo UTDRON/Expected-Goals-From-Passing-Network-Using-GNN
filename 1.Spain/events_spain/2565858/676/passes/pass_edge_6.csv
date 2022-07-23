@@ -1,0 +1,33 @@
+Source,Target,Weight
+Jordi Alba,Iniesta,3
+Iniesta,Sergio Busquets,3
+Sergi Roberto,L. Messi,3
+Paulinho,Sergi Roberto,2
+L. Messi,Sergi Roberto,2
+L. Messi,Iniesta,2
+Iniesta,Jordi Alba,2
+S. Umtiti,Jordi Alba,2
+Sergi Roberto,Philippe Coutinho,2
+Sergio Busquets,L. Messi,2
+Paulinho,S. Umtiti,1
+Paulinho,L. Messi,1
+Jordi Alba,Sergi Roberto,1
+L. Messi,Paulinho,1
+Jordi Alba,Philippe Coutinho,1
+Sergio Busquets,Iniesta,1
+Iniesta,Paulinho,1
+L. Messi,Jordi Alba,1
+Philippe Coutinho,Piqu\u00e9,1
+Jordi Alba,Paulinho,1
+Iniesta,L. Messi,1
+Piqu\u00e9,Sergio Busquets,1
+Philippe Coutinho,Paulinho,1
+Sergio Busquets,Piqu\u00e9,1
+Sergio Busquets,M. ter Stegen,1
+Paulinho,Sergio Busquets,1
+Paulinho,Iniesta,1
+M. ter Stegen,Sergi Roberto,1
+Sergi Roberto,Paulinho,1
+Philippe Coutinho,L. Su\u00e1rez,1
+Piqu\u00e9,S. Umtiti,1
+L. Su\u00e1rez,Jordi Alba,1

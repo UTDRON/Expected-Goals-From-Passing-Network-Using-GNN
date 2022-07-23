@@ -1,0 +1,65 @@
+Source,Target,Weight
+Balenziaga,A. Laporte,5
+Balenziaga,Iturraspe,3
+San Jos\u00e9,Unai N\u00fa\u00f1ez,3
+Ra\u00fal Garc\u00eda,San Jos\u00e9,3
+Iturraspe,Balenziaga,3
+Ra\u00fal Garc\u00eda,Balenziaga,3
+A. Laporte,Iturraspe,3
+Unai N\u00fa\u00f1ez,Susaeta,2
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,2
+Unai N\u00fa\u00f1ez,Lekue,2
+Aduriz,Ra\u00fal Garc\u00eda,2
+Iturraspe,Unai N\u00fa\u00f1ez,2
+Muniain,Balenziaga,2
+Unai N\u00fa\u00f1ez,A. Laporte,2
+Muniain,Ra\u00fal Garc\u00eda,2
+Arrizabalaga,Ra\u00fal Garc\u00eda,2
+A. Laporte,Unai N\u00fa\u00f1ez,2
+Susaeta,Unai N\u00fa\u00f1ez,1
+Susaeta,Lekue,1
+Unai N\u00fa\u00f1ez,Balenziaga,1
+Unai N\u00fa\u00f1ez,San Jos\u00e9,1
+Unai N\u00fa\u00f1ez,Aduriz,1
+Lekue,Arrizabalaga,1
+Ra\u00fal Garc\u00eda,Susaeta,1
+San Jos\u00e9,Balenziaga,1
+Ra\u00fal Garc\u00eda,Unai N\u00fa\u00f1ez,1
+Iturraspe,Susaeta,1
+San Jos\u00e9,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,Muniain,1
+Susaeta,Aduriz,1
+Susaeta,Iturraspe,1
+San Jos\u00e9,Muniain,1
+Lekue,Iturraspe,1
+Iturraspe,Ra\u00fal Garc\u00eda,1
+Lekue,Aduriz,1
+Muniain,Unai N\u00fa\u00f1ez,1
+San Jos\u00e9,Iturraspe,1
+Lekue,Unai N\u00fa\u00f1ez,1
+San Jos\u00e9,Lekue,1
+San Jos\u00e9,A. Laporte,1
+Balenziaga,Susaeta,1
+Muniain,Aduriz,1
+Iturraspe,Muniain,1
+Susaeta,Balenziaga,1
+Unai N\u00fa\u00f1ez,Muniain,1
+Aduriz,Muniain,1
+Susaeta,San Jos\u00e9,1
+A. Laporte,Muniain,1
+Lekue,Susaeta,1
+Aduriz,Unai N\u00fa\u00f1ez,1
+Balenziaga,San Jos\u00e9,1
+Arrizabalaga,Unai N\u00fa\u00f1ez,1
+Balenziaga,Muniain,1
+Iturraspe,San Jos\u00e9,1
+Ra\u00fal Garc\u00eda,Arrizabalaga,1
+Iturraspe,Lekue,1
+Arrizabalaga,Balenziaga,1
+Balenziaga,Ra\u00fal Garc\u00eda,1
+A. Laporte,San Jos\u00e9,1
+Iturraspe,Aduriz,1
+A. Laporte,Arrizabalaga,1
+Muniain,San Jos\u00e9,1
+Unai N\u00fa\u00f1ez,Iturraspe,1
+Aduriz,Iturraspe,1

@@ -1,0 +1,27 @@
+Source,Target,Weight
+T. Letschert,S. Sensi,3
+A. Ragusa,Pol Lirola,2
+S. Sensi,T. Letschert,2
+S. Sensi,Pol Lirola,2
+Pol Lirola,A. Ragusa,2
+S. Sensi,D. Berardi,1
+D. Berardi,F. Acerbi,1
+C. Adjapong,A. Matri,1
+A. Consigli,C. Adjapong,1
+A. Duncan,P. Cannavaro,1
+Pol Lirola,S. Sensi,1
+P. Cannavaro,A. Duncan,1
+S. Sensi,P. Cannavaro,1
+P. Cannavaro,T. Letschert,1
+Pol Lirola,D. Berardi,1
+P. Cannavaro,Pol Lirola,1
+D. Berardi,S. Sensi,1
+F. Acerbi,A. Consigli,1
+A. Ragusa,S. Sensi,1
+T. Letschert,A. Ragusa,1
+F. Acerbi,S. Sensi,1
+S. Sensi,F. Acerbi,1
+A. Matri,C. Adjapong,1
+A. Duncan,T. Letschert,1
+Pol Lirola,F. Acerbi,1
+C. Adjapong,P. Cannavaro,1

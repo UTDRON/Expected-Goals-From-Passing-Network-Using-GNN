@@ -1,0 +1,84 @@
+Source,Target,Weight
+A. Barreca,M. Niang,9
+M. Niang,D. Baselli,5
+Iago Falqu\u00e9,S. Umar,5
+M. Niang,A. Barreca,5
+S. Umar,M. Niang,5
+S. Sirigu,L. De Silvestri,4
+D. Baselli,Iago Falqu\u00e9,4
+L. De Silvestri,Iago Falqu\u00e9,4
+S. Umar,Iago Falqu\u00e9,4
+L. De Silvestri,S. Umar,4
+Iago Falqu\u00e9,T. Rinc\u00f3n,4
+A. Ljaji\u0107,Iago Falqu\u00e9,3
+L. De Silvestri,D. Baselli,3
+Iago Falqu\u00e9,N. N'Koulou,3
+M. Niang,S. Umar,3
+N. N'Koulou,E. Moretti,3
+M. Niang,N. N'Koulou,3
+T. Rinc\u00f3n,A. Ljaji\u0107,3
+D. Baselli,T. Rinc\u00f3n,3
+N. N'Koulou,S. Sirigu,3
+T. Rinc\u00f3n,E. Moretti,3
+A. Ljaji\u0107,S. Umar,3
+T. Rinc\u00f3n,N. N'Koulou,3
+E. Moretti,M. Niang,3
+D. Baselli,L. De Silvestri,3
+E. Moretti,A. Barreca,3
+Iago Falqu\u00e9,D. Baselli,2
+A. Barreca,A. Ljaji\u0107,2
+T. Rinc\u00f3n,L. De Silvestri,2
+D. Baselli,A. Ljaji\u0107,2
+Iago Falqu\u00e9,M. Niang,2
+L. De Silvestri,A. Ljaji\u0107,2
+M. Niang,A. Ljaji\u0107,2
+N. N'Koulou,A. Ljaji\u0107,2
+A. Ljaji\u0107,N. N'Koulou,2
+T. Rinc\u00f3n,Iago Falqu\u00e9,2
+A. Ljaji\u0107,E. Moretti,2
+S. Umar,A. Barreca,2
+A. Ljaji\u0107,D. Baselli,2
+N. N'Koulou,L. De Silvestri,2
+E. Moretti,L. De Silvestri,2
+D. Baselli,E. Moretti,2
+M. Niang,T. Rinc\u00f3n,2
+S. Umar,A. Ljaji\u0107,2
+S. Umar,D. Baselli,2
+S. Umar,T. Rinc\u00f3n,2
+Iago Falqu\u00e9,L. De Silvestri,2
+A. Barreca,S. Sirigu,1
+T. Rinc\u00f3n,M. Niang,1
+A. Ljaji\u0107,T. Rinc\u00f3n,1
+L. De Silvestri,T. Rinc\u00f3n,1
+D. Baselli,S. Sirigu,1
+Iago Falqu\u00e9,A. Ljaji\u0107,1
+S. Sirigu,T. Rinc\u00f3n,1
+N. N'Koulou,S. Umar,1
+S. Sirigu,D. Baselli,1
+S. Umar,N. N'Koulou,1
+L. De Silvestri,S. Sirigu,1
+A. Ljaji\u0107,S. Sirigu,1
+L. De Silvestri,N. N'Koulou,1
+A. Ljaji\u0107,M. Niang,1
+T. Rinc\u00f3n,S. Umar,1
+E. Moretti,S. Umar,1
+A. Ljaji\u0107,A. Barreca,1
+S. Umar,E. Moretti,1
+E. Moretti,D. Baselli,1
+S. Sirigu,S. Umar,1
+S. Sirigu,M. Niang,1
+N. N'Koulou,T. Rinc\u00f3n,1
+M. Niang,S. Sirigu,1
+D. Baselli,N. N'Koulou,1
+E. Moretti,Iago Falqu\u00e9,1
+A. Barreca,T. Rinc\u00f3n,1
+Iago Falqu\u00e9,E. Moretti,1
+T. Rinc\u00f3n,A. Barreca,1
+D. Baselli,A. Barreca,1
+N. N'Koulou,D. Baselli,1
+S. Sirigu,Iago Falqu\u00e9,1
+M. Niang,Iago Falqu\u00e9,1
+T. Rinc\u00f3n,S. Sirigu,1
+N. N'Koulou,Iago Falqu\u00e9,1
+E. Moretti,T. Rinc\u00f3n,1
+A. Ljaji\u0107,L. De Silvestri,1

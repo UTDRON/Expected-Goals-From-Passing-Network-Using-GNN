@@ -1,0 +1,15 @@
+Source,Target,Weight
+N. Amrabat,Ra\u00fal Garc\u00eda,2
+Ra\u00fal Garc\u00eda,N. Amrabat,2
+N. Amrabat,Gumbau,2
+Gumbau,Bustinza,1
+Gumbau,N. Amrabat,1
+Ra\u00fal Garc\u00eda,M. Mantovani,1
+M. Mantovani,Bustinza,1
+M. Mantovani,N. Amrabat,1
+Bustinza,D. Bra\u0161anac,1
+D. Bra\u0161anac,M. Mantovani,1
+Ra\u00fal Garc\u00eda,Gumbau,1
+Bustinza,Gumbau,1
+Gumbau,D. Bra\u0161anac,1
+D. Bra\u0161anac,Ra\u00fal Garc\u00eda,1

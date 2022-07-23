@@ -1,0 +1,10 @@
+Source,Target,Weight
+G. Ferrari,M. Silvestre,3
+M. Silvestre,V. Regini,2
+M. Silvestre,G. Ferrari,2
+V. Regini,M. Silvestre,1
+F. Quagliarella,G. Caprari,1
+G. Caprari,G. Ferrari,1
+B. Bereszy\u0144ski,G. Caprari,1
+G. Ferrari,B. Bereszy\u0144ski,1
+V. Regini,F. Quagliarella,1

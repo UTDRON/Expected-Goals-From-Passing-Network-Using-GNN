@@ -1,0 +1,42 @@
+Source,Target,Weight
+A. Maru\u0161i\u0107,M. C\u00e1ceres,5
+S. de Vrij,\u015e. Radu,3
+M. C\u00e1ceres,A. Maru\u0161i\u0107,3
+M. C\u00e1ceres,S. de Vrij,3
+Luis Alberto,A. Murgia,2
+M. Parolo,M. C\u00e1ceres,2
+A. Murgia,S. de Vrij,2
+\u015e. Radu,Lucas Leiva,2
+M. C\u00e1ceres,Lucas Leiva,2
+A. Murgia,A. Maru\u0161i\u0107,2
+Lucas Leiva,S. de Vrij,2
+Lucas Leiva,Luis Alberto,2
+A. Murgia,J. Lukaku,2
+S. de Vrij,Luis Alberto,2
+M. C\u00e1ceres,M. Parolo,2
+J. Lukaku,A. Murgia,2
+\u015e. Radu,A. Murgia,2
+S. de Vrij,Lucas Leiva,1
+\u015e. Radu,C. Immobile,1
+C. Immobile,Lucas Leiva,1
+A. Maru\u0161i\u0107,Lucas Leiva,1
+S. de Vrij,A. Murgia,1
+J. Lukaku,Luis Alberto,1
+A. Murgia,M. Parolo,1
+S. de Vrij,M. C\u00e1ceres,1
+A. Maru\u0161i\u0107,Luis Alberto,1
+Lucas Leiva,A. Murgia,1
+Lucas Leiva,M. Parolo,1
+A. Murgia,Luis Alberto,1
+Lucas Leiva,M. C\u00e1ceres,1
+Luis Alberto,A. Maru\u0161i\u0107,1
+M. Parolo,A. Maru\u0161i\u0107,1
+Luis Alberto,\u015e. Radu,1
+A. Maru\u0161i\u0107,M. Parolo,1
+Luis Alberto,C. Immobile,1
+M. Parolo,\u015e. Radu,1
+C. Immobile,S. de Vrij,1
+Luis Alberto,M. C\u00e1ceres,1
+\u015e. Radu,T. Strakosha,1
+Luis Alberto,J. Lukaku,1
+T. Strakosha,\u015e. Radu,1

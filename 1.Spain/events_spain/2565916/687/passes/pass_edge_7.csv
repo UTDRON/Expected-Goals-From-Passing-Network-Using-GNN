@@ -1,0 +1,26 @@
+Source,Target,Weight
+Ra\u00fal Navas,Illarramendi,3
+Canales,Ra\u00fal Navas,3
+Ra\u00fal Navas,Canales,2
+H. Moreno,Rub\u00e9n Pardo,1
+Illarramendi,Canales,1
+Ra\u00fal Navas,Willian Jos\u00e9,1
+Rub\u00e9n Pardo,Ra\u00fal Navas,1
+Illarramendi,G. Rulli,1
+K\u00e9vin Rodrigues,Canales,1
+Ra\u00fal Navas,K\u00e9vin Rodrigues,1
+Illarramendi,Rub\u00e9n Pardo,1
+Willian Jos\u00e9,Mikel Oyarzabal,1
+Rub\u00e9n Pardo,G. Rulli,1
+K\u00e9vin Rodrigues,Odriozola,1
+Canales,Odriozola,1
+G. Rulli,Ra\u00fal Navas,1
+Mikel Oyarzabal,K\u00e9vin Rodrigues,1
+Odriozola,Canales,1
+Odriozola,Illarramendi,1
+Odriozola,Ra\u00fal Navas,1
+Illarramendi,Odriozola,1
+K\u00e9vin Rodrigues,Willian Jos\u00e9,1
+G. Rulli,H. Moreno,1
+Illarramendi,Ra\u00fal Navas,1
+Willian Jos\u00e9,K\u00e9vin Rodrigues,1

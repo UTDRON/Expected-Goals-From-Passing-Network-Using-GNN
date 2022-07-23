@@ -1,0 +1,44 @@
+Source,Target,Weight
+S. Widmer,J. Stryger Larsen,4
+A. Bali\u0107,S. Widmer,4
+J. Stryger Larsen,S. Widmer,3
+Samir,Danilo,3
+V. Behrami,S. Fofana,3
+A. Bar\u00e1k,A. Bali\u0107,3
+A. Bali\u0107,J. Stryger Larsen,2
+S. Widmer,K. Lasagna,2
+Samir,V. Behrami,2
+Danilo,Samir,2
+J. Stryger Larsen,Danilo,2
+S. Fofana,Samir,2
+V. Behrami,J. Stryger Larsen,2
+A. Bar\u00e1k,S. Fofana,2
+S. Fofana,V. Behrami,2
+Danilo,V. Behrami,2
+J. Stryger Larsen,A. Bar\u00e1k,2
+A. Bizzarri,Samir,1
+G. Pezzella,A. Bali\u0107,1
+S. Fofana,A. Bali\u0107,1
+V. Behrami,Danilo,1
+K. Lasagna,J. Stryger Larsen,1
+K. Lasagna,S. Widmer,1
+Samir,A. Bar\u00e1k,1
+Samir,G. Pezzella,1
+S. Widmer,V. Behrami,1
+S. Widmer,A. Bar\u00e1k,1
+V. Behrami,A. Bar\u00e1k,1
+A. Bar\u00e1k,K. Lasagna,1
+S. Widmer,A. Bali\u0107,1
+G. Pezzella,V. Behrami,1
+S. Fofana,J. Stryger Larsen,1
+S. Widmer,G. Pezzella,1
+Danilo,S. Widmer,1
+Danilo,A. Bali\u0107,1
+A. Bali\u0107,S. Fofana,1
+G. Pezzella,A. Bizzarri,1
+J. Stryger Larsen,Samir,1
+J. Stryger Larsen,G. Pezzella,1
+S. Fofana,A. Bar\u00e1k,1
+A. Bizzarri,S. Fofana,1
+J. Stryger Larsen,A. Bizzarri,1
+V. Behrami,S. Widmer,1

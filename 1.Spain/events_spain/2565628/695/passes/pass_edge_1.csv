@@ -1,0 +1,108 @@
+Source,Target,Weight
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,11
+Ivi,Luna,9
+Rober,J. Lerma,9
+Campa\u00f1a,Ivi,8
+Pedro L\u00f3pez,Rober,8
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,8
+Chema,Sergio Postigo,7
+Sergio Postigo,J. Lerma,7
+J. Lerma,Jos\u00e9 Luis Morales,7
+Rober,Sergio Postigo,6
+J. Lerma,Sergio Postigo,6
+Pedro L\u00f3pez,Sergio Postigo,6
+J. Lerma,Pedro L\u00f3pez,6
+Sergio Postigo,Rober,6
+Rober,Ivi,6
+Sergio Postigo,Pedro L\u00f3pez,6
+Luna,Rober,5
+Luna,Campa\u00f1a,5
+Jos\u00e9 Luis Morales,Rober,5
+Campa\u00f1a,Luna,5
+Luna,Chema,5
+Ivi,Rober,5
+Luna,Jos\u00e9 Luis Morales,5
+J. Lerma,Rober,5
+Ivi,Campa\u00f1a,5
+Campa\u00f1a,Rober,5
+Sergio Postigo,Campa\u00f1a,5
+Rober,Luna,4
+Pedro L\u00f3pez,J. Lerma,4
+Sergio Postigo,Nano,4
+Rober,Jos\u00e9 Luis Morales,4
+Rober,Chema,4
+Nano,Rober,4
+Luna,Ivi,4
+Rober,Pedro L\u00f3pez,4
+Campa\u00f1a,J. Lerma,4
+J. Lerma,Campa\u00f1a,4
+Chema,Campa\u00f1a,4
+Rober,Campa\u00f1a,4
+Nano,Chema,3
+J. Lerma,Ra\u00fal Fern\u00e1ndez,3
+Chema,Rober,3
+Campa\u00f1a,Nano,3
+Sergio Postigo,Chema,3
+Luna,J. Lerma,3
+Rober,Ra\u00fal Fern\u00e1ndez,3
+Pedro L\u00f3pez,Ivi,3
+Rober,Nano,3
+Jos\u00e9 Luis Morales,J. Lerma,3
+Pedro L\u00f3pez,Luna,3
+Campa\u00f1a,Sergio Postigo,3
+Ra\u00fal Fern\u00e1ndez,J. Lerma,3
+Jos\u00e9 Luis Morales,Nano,3
+Chema,Luna,3
+Nano,Pedro L\u00f3pez,3
+Ra\u00fal Fern\u00e1ndez,Campa\u00f1a,2
+Ivi,Sergio Postigo,2
+E. Bardhi,Luna,2
+Nano,Sergio Postigo,2
+Ivi,Jos\u00e9 Luis Morales,2
+Ivi,Chema,2
+Chema,Ra\u00fal Fern\u00e1ndez,2
+J. Lerma,Luna,2
+Nano,Ivi,2
+Pedro L\u00f3pez,Nano,2
+Chema,Ivi,2
+Luna,Ra\u00fal Fern\u00e1ndez,2
+J. Lerma,Nano,2
+Chema,Pedro L\u00f3pez,2
+Jos\u00e9 Luis Morales,Sergio Postigo,2
+Nano,J. Lerma,2
+E. Bardhi,Chema,2
+Ra\u00fal Fern\u00e1ndez,Chema,2
+Ivi,Nano,2
+Ra\u00fal Fern\u00e1ndez,Pedro L\u00f3pez,2
+Campa\u00f1a,Pedro L\u00f3pez,2
+Sergio Postigo,Ivi,1
+Ra\u00fal Fern\u00e1ndez,Nano,1
+Ivi,J. Lerma,1
+Jos\u00e9 Luis Morales,E. Bardhi,1
+Luna,E. Bardhi,1
+Ra\u00fal Fern\u00e1ndez,Luna,1
+Luna,Nano,1
+Pedro L\u00f3pez,Ra\u00fal Fern\u00e1ndez,1
+E. Bardhi,Campa\u00f1a,1
+Nano,Campa\u00f1a,1
+Nano,Jos\u00e9 Luis Morales,1
+Chema,E. Bardhi,1
+J. Lerma,Ivi,1
+Nano,E. Bardhi,1
+Jos\u00e9 Luis Morales,Chema,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+Nano,Ra\u00fal Fern\u00e1ndez,1
+Chema,J. Lerma,1
+Ivi,Ra\u00fal Fern\u00e1ndez,1
+J. Lerma,Chema,1
+Ra\u00fal Fern\u00e1ndez,Rober,1
+Sergio Postigo,Luna,1
+Sergio Postigo,Jos\u00e9 Luis Morales,1
+Pedro L\u00f3pez,Chema,1
+Jos\u00e9 Luis Morales,Ivi,1
+Nano,Luna,1
+Ra\u00fal Fern\u00e1ndez,Sergio Postigo,1
+Sergio Postigo,Ra\u00fal Fern\u00e1ndez,1
+Campa\u00f1a,Chema,1
+Campa\u00f1a,E. Bardhi,1
+Ra\u00fal Fern\u00e1ndez,Ivi,1

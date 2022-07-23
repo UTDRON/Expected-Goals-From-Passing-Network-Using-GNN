@@ -1,0 +1,35 @@
+Source,Target,Weight
+G. Bonaventura,Suso,3
+M. Locatelli,F. Borini,2
+F. Borini,M. Locatelli,2
+M. Locatelli,G. Bonaventura,2
+M. Locatelli,P. Cutrone,2
+Suso,F. Kessi\u00e9,1
+F. Kessi\u00e9,G. Bonaventura,1
+G. Bonaventura,M. Locatelli,1
+L. Bonucci,F. Kessi\u00e9,1
+M. Locatelli,L. Bonucci,1
+F. Kessi\u00e9,M. Locatelli,1
+P. Cutrone,F. Borini,1
+F. Borini,Andr\u00e9 Silva,1
+A. Romagnoli,F. Borini,1
+P. Cutrone,M. Locatelli,1
+Suso,P. Cutrone,1
+F. Borini,G. Bonaventura,1
+F. Borini,A. Romagnoli,1
+Andr\u00e9 Silva,Suso,1
+Suso,L. Bonucci,1
+G. Donnarumma,G. Bonaventura,1
+Suso,G. Bonaventura,1
+P. Cutrone,Suso,1
+G. Bonaventura,L. Bonucci,1
+F. Kessi\u00e9,L. Bonucci,1
+D. Calabria,G. Donnarumma,1
+L. Bonucci,G. Donnarumma,1
+G. Bonaventura,A. Romagnoli,1
+A. Romagnoli,F. Kessi\u00e9,1
+G. Donnarumma,A. Romagnoli,1
+L. Bonucci,D. Calabria,1
+A. Romagnoli,M. Locatelli,1
+L. Bonucci,F. Borini,1
+Suso,M. Locatelli,1

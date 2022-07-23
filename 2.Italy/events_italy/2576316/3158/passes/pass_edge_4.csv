@@ -1,0 +1,100 @@
+Source,Target,Weight
+Gerson,A. Kolarov,12
+Bruno Peres,M. Gonalons,11
+A. Kolarov,Gerson,11
+E. Capradossi,Bruno Peres,10
+A. Kolarov,R. Nainggolan,9
+R. Nainggolan,A. Kolarov,9
+Bruno Peres,E. Capradossi,8
+D. De Rossi,A. Kolarov,7
+F. Fazio,R. Nainggolan,7
+E. D\u017eeko,C. \u00dcnder,6
+E. Capradossi,D. De Rossi,6
+M. Gonalons,Bruno Peres,6
+A. Kolarov,F. Fazio,5
+R. Nainggolan,D. De Rossi,5
+Bruno Peres,C. \u00dcnder,5
+R. Nainggolan,F. Fazio,5
+C. \u00dcnder,M. Gonalons,5
+R. Nainggolan,Gerson,5
+Gerson,R. Nainggolan,5
+F. Fazio,A. Kolarov,5
+C. \u00dcnder,Bruno Peres,4
+D. De Rossi,Gerson,4
+Gerson,F. Fazio,4
+A. Kolarov,E. D\u017eeko,4
+D. De Rossi,E. Capradossi,4
+Bruno Peres,F. Fazio,4
+C. \u00dcnder,E. Capradossi,4
+M. Gonalons,R. Nainggolan,4
+M. Gonalons,D. De Rossi,4
+E. Capradossi,F. Fazio,4
+E. D\u017eeko,A. Kolarov,4
+M. Gonalons,E. Capradossi,4
+D. De Rossi,C. \u00dcnder,3
+Gerson,D. De Rossi,3
+A. Kolarov,Bruno Peres,3
+F. Fazio,E. D\u017eeko,3
+Alisson,A. Kolarov,3
+M. Gonalons,F. Fazio,3
+A. Kolarov,Alisson,3
+F. Fazio,Gerson,3
+D. De Rossi,Bruno Peres,3
+F. Fazio,D. De Rossi,3
+D. De Rossi,M. Gonalons,3
+Alisson,E. Capradossi,3
+A. Kolarov,M. Gonalons,3
+R. Nainggolan,E. D\u017eeko,3
+Alisson,Gerson,3
+C. \u00dcnder,D. De Rossi,3
+F. Fazio,E. Capradossi,3
+F. Fazio,Bruno Peres,3
+Bruno Peres,D. De Rossi,2
+M. Gonalons,Gerson,2
+E. D\u017eeko,F. Fazio,2
+Gerson,M. Gonalons,2
+Alisson,F. Fazio,2
+M. Gonalons,C. \u00dcnder,2
+D. De Rossi,E. D\u017eeko,2
+Bruno Peres,R. Nainggolan,2
+E. D\u017eeko,Bruno Peres,2
+R. Nainggolan,Bruno Peres,2
+Alisson,E. D\u017eeko,2
+A. Kolarov,E. Capradossi,2
+Bruno Peres,Alisson,2
+Alisson,C. \u00dcnder,2
+F. Fazio,Alisson,2
+E. Capradossi,C. \u00dcnder,2
+Alisson,Bruno Peres,2
+R. Nainggolan,Alisson,2
+A. Kolarov,D. De Rossi,2
+D. De Rossi,Alisson,2
+Gerson,E. D\u017eeko,2
+C. \u00dcnder,E. D\u017eeko,2
+D. De Rossi,R. Nainggolan,2
+E. Capradossi,E. D\u017eeko,2
+E. D\u017eeko,Alisson,2
+Gerson,Alisson,2
+C. \u00dcnder,Gerson,1
+C. \u00dcnder,R. Nainggolan,1
+E. Capradossi,R. Nainggolan,1
+E. D\u017eeko,M. Gonalons,1
+C. \u00dcnder,Alisson,1
+E. D\u017eeko,R. Nainggolan,1
+Bruno Peres,E. D\u017eeko,1
+E. Capradossi,Alisson,1
+E. D\u017eeko,D. De Rossi,1
+Bruno Peres,Gerson,1
+E. Capradossi,Gerson,1
+F. Fazio,M. Gonalons,1
+E. D\u017eeko,Gerson,1
+A. Kolarov,C. \u00dcnder,1
+Gerson,C. \u00dcnder,1
+R. Nainggolan,C. \u00dcnder,1
+E. Capradossi,A. Kolarov,1
+E. Capradossi,M. Gonalons,1
+C. \u00dcnder,F. Fazio,1
+M. Gonalons,A. Kolarov,1
+Gerson,Bruno Peres,1
+C. \u00dcnder,A. Kolarov,1
+E. D\u017eeko,E. Capradossi,1

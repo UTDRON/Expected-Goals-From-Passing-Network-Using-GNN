@@ -1,0 +1,45 @@
+Source,Target,Weight
+Gerson,J. Silva,4
+E. D\u017eeko,A. Florenzi,3
+A. Kolarov,J. Silva,3
+A. Florenzi,M. Gonalons,3
+A. Florenzi,C. \u00dcnder,3
+J. Silva,A. Kolarov,3
+M. Gonalons,A. Florenzi,2
+C. \u00dcnder,R. Nainggolan,2
+D. De Rossi,J. Silva,2
+Gerson,R. Nainggolan,2
+C. \u00dcnder,A. Florenzi,2
+M. Gonalons,Gerson,2
+J. Silva,A. Florenzi,2
+J. Silva,Gerson,2
+R. Nainggolan,D. De Rossi,2
+D. De Rossi,Gerson,2
+J. Silva,E. D\u017eeko,2
+J. Silva,M. Gonalons,1
+D. De Rossi,C. \u00dcnder,1
+M. Gonalons,E. Capradossi,1
+E. D\u017eeko,D. De Rossi,1
+C. \u00dcnder,J. Silva,1
+D. De Rossi,M. Gonalons,1
+R. Nainggolan,E. Capradossi,1
+J. Silva,R. Nainggolan,1
+R. Nainggolan,C. \u00dcnder,1
+Gerson,D. De Rossi,1
+E. Capradossi,M. Gonalons,1
+A. Kolarov,R. Nainggolan,1
+M. Gonalons,E. D\u017eeko,1
+E. Capradossi,Alisson,1
+A. Florenzi,A. Kolarov,1
+A. Florenzi,E. D\u017eeko,1
+M. Gonalons,A. Kolarov,1
+A. Kolarov,F. Fazio,1
+M. Gonalons,F. Fazio,1
+A. Kolarov,D. De Rossi,1
+Alisson,C. \u00dcnder,1
+C. \u00dcnder,M. Gonalons,1
+Gerson,A. Kolarov,1
+F. Fazio,Gerson,1
+R. Nainggolan,J. Silva,1
+R. Nainggolan,Gerson,1
+A. Florenzi,D. De Rossi,1

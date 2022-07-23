@@ -1,0 +1,27 @@
+Source,Target,Weight
+I. Rakiti\u0107,Piqu\u00e9,2
+Piqu\u00e9,N\u00e9lson Semedo,2
+S. Umtiti,Piqu\u00e9,2
+Piqu\u00e9,S. Umtiti,2
+Jordi Alba,Iniesta,2
+Jordi Alba,L. Messi,2
+L. Su\u00e1rez,Jordi Alba,1
+Sergio Busquets,Jordi Alba,1
+Iniesta,N\u00e9lson Semedo,1
+Iniesta,Jordi Alba,1
+Sergio Busquets,L. Messi,1
+N\u00e9lson Semedo,Piqu\u00e9,1
+Iniesta,L. Su\u00e1rez,1
+Deulofeu,Sergio Busquets,1
+Piqu\u00e9,Sergio Busquets,1
+L. Messi,N\u00e9lson Semedo,1
+Deulofeu,I. Rakiti\u0107,1
+S. Umtiti,Sergio Busquets,1
+Piqu\u00e9,I. Rakiti\u0107,1
+L. Messi,Jordi Alba,1
+N\u00e9lson Semedo,L. Su\u00e1rez,1
+Sergio Busquets,Piqu\u00e9,1
+N\u00e9lson Semedo,Deulofeu,1
+N\u00e9lson Semedo,S. Umtiti,1
+Sergio Busquets,Iniesta,1
+L. Su\u00e1rez,Deulofeu,1

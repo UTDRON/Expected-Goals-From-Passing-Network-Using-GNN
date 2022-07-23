@@ -1,0 +1,121 @@
+Source,Target,Weight
+T. Heurtaux,Nicolas,12
+Nicolas,T. Heurtaux,11
+A. Caracciolo,Nicolas,11
+A. Ferrari,Daniel Bessa,9
+R\u00f4mulo,Daniel Bessa,8
+Nicolas,M. Fares,8
+A. Ferrari,R\u00f4mulo,7
+M. B\u00fcchel,A. Ferrari,7
+M. B\u00fcchel,A. Caracciolo,7
+R\u00f4mulo,M. Fares,7
+T. Heurtaux,A. Ferrari,7
+Nicolas,A. Ferrari,6
+A. Caracciolo,M. B\u00fcchel,6
+D. Verde,M. C\u00e1ceres,6
+M. Fares,A. Caracciolo,6
+R\u00f4mulo,A. Ferrari,6
+A. Ferrari,Nicolas,5
+A. Ferrari,T. Heurtaux,5
+T. Heurtaux,M. B\u00fcchel,5
+A. Ferrari,M. B\u00fcchel,5
+Daniel Bessa,A. Ferrari,5
+Daniel Bessa,T. Heurtaux,5
+M. C\u00e1ceres,D. Verde,5
+T. Heurtaux,M. Fares,5
+M. Fares,Nicolas,4
+Daniel Bessa,R\u00f4mulo,4
+A. Ferrari,D. Verde,4
+M. Fares,R\u00f4mulo,4
+D. Verde,M. B\u00fcchel,4
+Daniel Bessa,M. C\u00e1ceres,4
+M. C\u00e1ceres,M. B\u00fcchel,4
+M. Fares,T. Heurtaux,4
+M. B\u00fcchel,D. Verde,4
+T. Heurtaux,M. C\u00e1ceres,4
+M. B\u00fcchel,R\u00f4mulo,4
+M. Fares,A. Ferrari,4
+M. Fares,M. B\u00fcchel,4
+M. B\u00fcchel,M. Fares,4
+Daniel Bessa,M. B\u00fcchel,4
+Daniel Bessa,M. Kean,4
+M. Kean,A. Caracciolo,4
+R\u00f4mulo,M. B\u00fcchel,3
+M. B\u00fcchel,T. Heurtaux,3
+M. Kean,R\u00f4mulo,3
+Daniel Bessa,A. Caracciolo,3
+M. Fares,M. C\u00e1ceres,3
+M. C\u00e1ceres,M. Fares,3
+A. Ferrari,M. Fares,3
+M. C\u00e1ceres,T. Heurtaux,3
+T. Heurtaux,A. Caracciolo,3
+D. Verde,M. Fares,3
+A. Caracciolo,M. C\u00e1ceres,3
+M. Kean,Nicolas,3
+Nicolas,M. B\u00fcchel,3
+M. B\u00fcchel,Daniel Bessa,3
+M. C\u00e1ceres,A. Caracciolo,3
+M. B\u00fcchel,M. C\u00e1ceres,3
+A. Caracciolo,T. Heurtaux,3
+A. Caracciolo,A. Ferrari,3
+A. Ferrari,M. Kean,3
+D. Verde,A. Ferrari,3
+M. C\u00e1ceres,Nicolas,3
+Nicolas,D. Verde,2
+Nicolas,R\u00f4mulo,2
+M. Fares,D. Verde,2
+T. Heurtaux,Daniel Bessa,2
+D. Verde,R\u00f4mulo,2
+M. B\u00fcchel,M. Kean,2
+D. Verde,T. Heurtaux,2
+M. Kean,M. Fares,2
+M. C\u00e1ceres,Daniel Bessa,2
+R\u00f4mulo,D. Verde,2
+Nicolas,M. Kean,2
+G. Pazzini,Daniel Bessa,2
+M. Fares,G. Pazzini,2
+A. Caracciolo,M. Kean,2
+Nicolas,Daniel Bessa,2
+A. Ferrari,A. Caracciolo,2
+M. Kean,T. Heurtaux,2
+M. Kean,A. Ferrari,2
+M. B\u00fcchel,Nicolas,2
+Nicolas,A. Caracciolo,2
+M. Fares,M. Kean,2
+A. Caracciolo,Daniel Bessa,2
+M. Fares,Daniel Bessa,2
+Nicolas,G. Pazzini,2
+R\u00f4mulo,A. Caracciolo,1
+Daniel Bessa,D. Verde,1
+A. Caracciolo,S. Calvano,1
+S. Calvano,A. Ferrari,1
+S. Calvano,M. B\u00fcchel,1
+Nicolas,G. Felicioli,1
+A. Ferrari,S. Calvano,1
+S. Calvano,T. Heurtaux,1
+R\u00f4mulo,T. Heurtaux,1
+G. Felicioli,M. C\u00e1ceres,1
+G. Pazzini,R\u00f4mulo,1
+S. Calvano,A. Caracciolo,1
+G. Pazzini,S. Calvano,1
+A. Ferrari,G. Pazzini,1
+Nicolas,M. C\u00e1ceres,1
+M. C\u00e1ceres,A. Ferrari,1
+D. Verde,Daniel Bessa,1
+G. Pazzini,M. C\u00e1ceres,1
+A. Caracciolo,G. Pazzini,1
+Daniel Bessa,G. Pazzini,1
+Daniel Bessa,M. Fares,1
+T. Heurtaux,R\u00f4mulo,1
+A. Caracciolo,M. Fares,1
+G. Pazzini,Nicolas,1
+D. Verde,A. Caracciolo,1
+Daniel Bessa,Nicolas,1
+M. C\u00e1ceres,M. Kean,1
+M. Kean,D. Verde,1
+A. Caracciolo,D. Verde,1
+M. C\u00e1ceres,R\u00f4mulo,1
+T. Heurtaux,M. Kean,1
+S. Calvano,M. Fares,1
+M. Fares,S. Calvano,1
+R\u00f4mulo,S. Calvano,1

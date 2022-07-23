@@ -1,0 +1,97 @@
+Source,Target,Weight
+R. Palacio,A. Masina,7
+E. Pulgar,A. Masina,5
+A. Masina,E. Pulgar,5
+E. Krafth,M. Destro,5
+F. Helander,A. Mirante,5
+S. Verdi,A. Masina,5
+D. Maietta,R. Palacio,5
+S. Verdi,E. Krafth,5
+E. Pulgar,E. Krafth,5
+E. Krafth,F. Di Francesco,5
+F. Helander,E. Pulgar,4
+S. Verdi,R. Palacio,4
+F. Di Francesco,E. Krafth,4
+A. Masina,R. Palacio,4
+A. Mirante,E. Pulgar,4
+E. Pulgar,F. Di Francesco,3
+E. Krafth,E. Pulgar,3
+R. Palacio,S. Verdi,3
+R. Palacio,E. Pulgar,3
+E. Pulgar,F. Helander,3
+A. Masina,E. Krafth,3
+A. Mirante,R. Palacio,3
+E. Krafth,A. Mirante,3
+R. Palacio,E. Krafth,3
+F. Di Francesco,A. Poli,3
+A. Mirante,S. Verdi,3
+M. Destro,E. Pulgar,3
+E. Pulgar,S. Verdi,3
+E. Pulgar,A. Mirante,3
+A. Poli,D. Maietta,3
+A. Masina,M. Destro,3
+E. Krafth,F. Helander,3
+A. Masina,A. Poli,2
+R. Palacio,F. Di Francesco,2
+F. Helander,E. Krafth,2
+A. Masina,A. Mirante,2
+D. Maietta,E. Krafth,2
+A. Poli,R. Palacio,2
+F. Di Francesco,A. Masina,2
+D. Maietta,F. Di Francesco,2
+A. Poli,F. Helander,2
+M. Destro,R. Palacio,2
+E. Krafth,A. Poli,2
+A. Masina,S. Verdi,2
+S. Verdi,F. Helander,2
+R. Palacio,M. Destro,2
+E. Krafth,S. Verdi,2
+R. Palacio,F. Helander,2
+M. Destro,F. Di Francesco,2
+F. Helander,A. Masina,2
+A. Mirante,S. De Maio,2
+A. Poli,A. Mirante,2
+A. Masina,F. Helander,2
+E. Pulgar,A. Poli,2
+A. Poli,S. Verdi,2
+M. Destro,A. Poli,2
+A. Mirante,D. Maietta,2
+A. Masina,D. Maietta,2
+D. Maietta,E. Pulgar,1
+F. Di Francesco,D. Maietta,1
+M. Destro,S. Verdi,1
+A. Poli,E. Pulgar,1
+E. Pulgar,R. Palacio,1
+S. Verdi,M. Destro,1
+M. Destro,D. Maietta,1
+S. Verdi,E. Pulgar,1
+F. Helander,S. Verdi,1
+F. Di Francesco,M. Destro,1
+F. Di Francesco,S. Verdi,1
+F. Helander,F. Di Francesco,1
+A. Mirante,A. Masina,1
+S. Verdi,D. Maietta,1
+S. De Maio,E. Pulgar,1
+S. De Maio,A. Masina,1
+E. Pulgar,D. Maietta,1
+E. Krafth,A. Masina,1
+E. Pulgar,S. De Maio,1
+F. Di Francesco,F. Helander,1
+S. De Maio,S. Verdi,1
+A. Masina,F. Di Francesco,1
+A. Poli,E. Krafth,1
+D. Maietta,F. Helander,1
+E. Krafth,D. Maietta,1
+F. Di Francesco,A. Mirante,1
+E. Krafth,R. Palacio,1
+A. Mirante,E. Krafth,1
+F. Di Francesco,R. Palacio,1
+D. Maietta,A. Mirante,1
+A. Mirante,F. Helander,1
+A. Poli,A. Masina,1
+F. Helander,D. Maietta,1
+F. Helander,A. Poli,1
+S. Verdi,A. Poli,1
+D. Maietta,S. Verdi,1
+F. Di Francesco,E. Pulgar,1
+R. Palacio,A. Poli,1

@@ -1,0 +1,17 @@
+Source,Target,Weight
+E. \u00c7olak,C. Borges,2
+Albentosa,Sidnei,2
+Albentosa,Juanfran,2
+C. Borges,Albentosa,2
+Sidnei,Fernando Navarro,2
+C. Borges,E. \u00c7olak,2
+Guilherme,Fernando Navarro,1
+Albentosa,C. Borges,1
+Sidnei,Albentosa,1
+Juanfran,Guilherme,1
+Fernando Navarro,Albentosa,1
+Fernando Navarro,Pedro Mosquera,1
+Guilherme,Juanfran,1
+Juanfran,Albentosa,1
+Pedro Mosquera,C. Borges,1
+Fernando Navarro,Guilherme,1

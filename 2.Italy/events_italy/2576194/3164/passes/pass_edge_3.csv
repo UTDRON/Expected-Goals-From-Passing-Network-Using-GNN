@@ -1,0 +1,20 @@
+Source,Target,Weight
+F. Quagliarella,G. Ferrari,2
+B. Bereszy\u0144ski,M. Silvestre,2
+M. Silvestre,B. Bereszy\u0144ski,1
+L. Torreira,K. Linetty,1
+N. Murru,K. Linetty,1
+K. Linetty,N. Murru,1
+\u00c9. Barreto,N. Murru,1
+G. Ferrari,L. Torreira,1
+M. Silvestre,K. Linetty,1
+M. Silvestre,N. Murru,1
+N. Murru,M. Silvestre,1
+K. Linetty,B. Bereszy\u0144ski,1
+B. Bereszy\u0144ski,F. Quagliarella,1
+L. Torreira,\u00c9. Barreto,1
+K. Linetty,G. Caprari,1
+N. Murru,L. Torreira,1
+N. Murru,B. Bereszy\u0144ski,1
+G. Caprari,F. Quagliarella,1
+G. Ferrari,F. Quagliarella,1

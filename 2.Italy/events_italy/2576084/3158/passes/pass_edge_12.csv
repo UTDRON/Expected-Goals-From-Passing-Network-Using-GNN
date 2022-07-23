@@ -1,0 +1,21 @@
+Source,Target,Weight
+Gerson,R. Nainggolan,1
+Alisson,D. Perotti,1
+R. Nainggolan,Alisson,1
+D. De Rossi,A. Florenzi,1
+D. De Rossi,R. Nainggolan,1
+K. Manolas,E. D\u017eeko,1
+D. De Rossi,E. D\u017eeko,1
+R. Nainggolan,D. De Rossi,1
+D. Perotti,A. Florenzi,1
+D. De Rossi,D. Perotti,1
+E. D\u017eeko,D. Perotti,1
+A. Florenzi,Gerson,1
+D. Perotti,F. Fazio,1
+A. Kolarov,K. Manolas,1
+D. Perotti,A. Kolarov,1
+F. Fazio,A. Kolarov,1
+F. Fazio,K. Strootman,1
+E. D\u017eeko,D. De Rossi,1
+A. Kolarov,D. De Rossi,1
+K. Strootman,D. De Rossi,1

@@ -1,0 +1,22 @@
+Source,Target,Weight
+Gil Dias,C. Biraghi,2
+G. Pezzella,Vitor Hugo,1
+R. Saponara,Gil Dias,1
+C. S\u00e1nchez,Gil Dias,1
+C. Biraghi,R. Saponara,1
+G. Pezzella,C. S\u00e1nchez,1
+V. Laurini,M. Badelj,1
+C. S\u00e1nchez,F. Chiesa,1
+Vitor Hugo,G. Pezzella,1
+R. Saponara,C. S\u00e1nchez,1
+F. Chiesa,M. Badelj,1
+Gil Dias,Vitor Hugo,1
+C. Biraghi,G. Pezzella,1
+Vitor Hugo,Gil Dias,1
+Vitor Hugo,V. Laurini,1
+M. Badelj,F. Chiesa,1
+C. Biraghi,Vitor Hugo,1
+C. Biraghi,M. Badelj,1
+M. Badelj,R. Saponara,1
+F. Chiesa,C. Biraghi,1
+M. Badelj,C. S\u00e1nchez,1

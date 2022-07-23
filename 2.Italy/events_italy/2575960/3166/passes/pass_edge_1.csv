@@ -1,0 +1,23 @@
+Source,Target,Weight
+A. Mirante,D. Maietta,2
+S. De Maio,A. Mirante,2
+D. Maietta,S. De Maio,2
+M. Destro,F. Di Francesco,2
+S. Ta\u00efder,A. Masina,2
+A. Masina,S. Ta\u00efder,1
+V. Torosidis,S. Ta\u00efder,1
+S. De Maio,S. Verdi,1
+D. Maietta,S. Ta\u00efder,1
+A. Mirante,S. De Maio,1
+A. Masina,S. De Maio,1
+S. Ta\u00efder,F. Di Francesco,1
+F. Di Francesco,E. Pulgar,1
+D. Maietta,V. Torosidis,1
+S. Verdi,A. Mirante,1
+F. Di Francesco,M. Destro,1
+D. Maietta,A. Masina,1
+E. Pulgar,A. Poli,1
+F. Di Francesco,D. Maietta,1
+A. Masina,D. Maietta,1
+A. Poli,D. Maietta,1
+S. De Maio,M. Destro,1

@@ -1,0 +1,14 @@
+Source,Target,Weight
+A. Matri,A. Ragusa,2
+A. Consigli,F. Acerbi,1
+F. Acerbi,S. Missiroli,1
+F. Magnanelli,A. Ragusa,1
+S. Missiroli,P. Cannavaro,1
+P. Cannavaro,A. Ragusa,1
+S. Missiroli,A. Matri,1
+F. Magnanelli,A. Consigli,1
+A. Ragusa,M. Politano,1
+M. Politano,F. Magnanelli,1
+F. Acerbi,A. Matri,1
+A. Ragusa,F. Magnanelli,1
+A. Ragusa,F. Acerbi,1

@@ -1,0 +1,60 @@
+Source,Target,Weight
+S. N'Zonzi,Sergio Escudero,5
+Sergio Escudero,S. N'Zonzi,4
+Sergio Escudero,C. Lenglet,3
+G. Pizarro,Sergio Escudero,3
+S. N'Zonzi,J. Geis,3
+J. Geis,S. N'Zonzi,3
+C. Lenglet,S. N'Zonzi,3
+Sergio Escudero,G. Pizarro,3
+F. V\u00e1zquez,Sergio Escudero,3
+Nolito,Sergio Escudero,2
+C. Lenglet,J. Geis,2
+Sergio Escudero,David Soria,2
+L. Muriel,C. Lenglet,2
+S. N'Zonzi,G. Pizarro,2
+G. Pizarro,Nolito,2
+David Soria,F. V\u00e1zquez,2
+J. Geis,C. Lenglet,2
+G. Pizarro,C. Lenglet,2
+Pablo Sarabia,S. N'Zonzi,2
+F. V\u00e1zquez,G. Pizarro,2
+C. Lenglet,Sergio Escudero,2
+G. Pizarro,Pablo Sarabia,2
+Nolito,Pablo Sarabia,2
+L. Muriel,Nolito,1
+David Soria,S. Corchia,1
+Pablo Sarabia,G. Pizarro,1
+Nolito,G. Pizarro,1
+G. Pizarro,J. Geis,1
+David Soria,G. Pizarro,1
+Pablo Sarabia,L. Muriel,1
+S. N'Zonzi,Nolito,1
+Nolito,S. N'Zonzi,1
+S. N'Zonzi,C. Lenglet,1
+S. Corchia,F. V\u00e1zquez,1
+G. Pizarro,S. N'Zonzi,1
+C. Lenglet,G. Pizarro,1
+Sergio Escudero,S. Corchia,1
+F. V\u00e1zquez,Pablo Sarabia,1
+L. Muriel,Pablo Sarabia,1
+Pablo Sarabia,F. V\u00e1zquez,1
+F. V\u00e1zquez,Nolito,1
+S. N'Zonzi,David Soria,1
+S. N'Zonzi,S. Corchia,1
+C. Lenglet,F. V\u00e1zquez,1
+Pablo Sarabia,Sergio Escudero,1
+S. N'Zonzi,L. Muriel,1
+C. Lenglet,L. Muriel,1
+Sergio Escudero,J. Geis,1
+J. Geis,David Soria,1
+Sergio Escudero,Nolito,1
+S. Corchia,S. N'Zonzi,1
+Sergio Escudero,F. V\u00e1zquez,1
+David Soria,S. N'Zonzi,1
+S. N'Zonzi,F. V\u00e1zquez,1
+J. Geis,G. Pizarro,1
+G. Pizarro,David Soria,1
+S. Corchia,Pablo Sarabia,1
+G. Pizarro,L. Muriel,1
+Pablo Sarabia,Nolito,1

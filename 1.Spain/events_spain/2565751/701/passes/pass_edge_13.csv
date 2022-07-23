@@ -1,0 +1,12 @@
+Source,Target,Weight
+Ander Capa,F. Orellana,2
+F. Orellana,T. Inui,1
+Ramis,Arbilla,1
+T. Inui,Ramis,1
+F. Orellana,Charles,1
+F. Orellana,Ander Capa,1
+P. Diop,Ander Capa,1
+T. Inui,Arbilla,1
+Charles,P. Diop,1
+Arbilla,Charles,1
+Charles,F. Orellana,1

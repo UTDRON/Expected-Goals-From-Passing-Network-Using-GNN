@@ -1,0 +1,21 @@
+Source,Target,Weight
+G. Cabral,Sergio \u00c1lvarez,2
+Jozabed,D. Wass,2
+Font\u00e0s,N. Radoja,2
+Iago Aspas,P. Sisto,2
+P. Sisto,Jozabed,2
+P. Sisto,Iago Aspas,1
+P. Hern\u00e1ndez,Iago Aspas,1
+Sergio \u00c1lvarez,Jonny,1
+P. Hern\u00e1ndez,Jonny,1
+Hugo Mallo,G. Cabral,1
+Sergio \u00c1lvarez,G. Cabral,1
+Iago Aspas,Hugo Mallo,1
+Jozabed,Iago Aspas,1
+Sergio \u00c1lvarez,P. Hern\u00e1ndez,1
+Jonny,Font\u00e0s,1
+N. Radoja,Jozabed,1
+N. Radoja,Sergio \u00c1lvarez,1
+D. Wass,Jozabed,1
+Jozabed,P. Hern\u00e1ndez,1
+D. Wass,P. Sisto,1

@@ -1,0 +1,54 @@
+Source,Target,Weight
+Juanpe,Bernardo Espinosa,4
+Bernardo Espinosa,Aday,4
+J. Mojica,Juanpe,4
+Ramalho,Aleix Garc\u00eda,3
+Aleix Garc\u00eda,Juanpe,3
+Aday,Ramalho,3
+Aday,K. Soni,3
+Juanpe,J. Mojica,2
+Aday,Bernardo Espinosa,2
+Bernardo Espinosa,Aleix Garc\u00eda,2
+\u00c1lex Granell,Aday,2
+Aleix Garc\u00eda,Bernardo Espinosa,2
+Bernardo Espinosa,J. Mojica,2
+K. Soni,Aday,2
+Aleix Garc\u00eda,Aday,2
+Aday,Borja Garc\u00eda,2
+Aleix Garc\u00eda,\u00c1lex Granell,2
+Juanpe,Borja Garc\u00eda,2
+J. Mojica,Aleix Garc\u00eda,2
+Aday,\u00c1lex Granell,2
+Ramalho,Aday,2
+K. Soni,Juanpe,2
+Bernardo Espinosa,Ramalho,2
+J. Mojica,Borja Garc\u00eda,1
+Ramalho,Bernardo Espinosa,1
+Ramalho,K. Soni,1
+Ramalho,C. Stuani,1
+C. Stuani,Aday,1
+Aleix Garc\u00eda,Y. Bounou,1
+J. Mojica,Y. Bounou,1
+Y. Bounou,Aleix Garc\u00eda,1
+Aleix Garc\u00eda,Ramalho,1
+K. Soni,Bernardo Espinosa,1
+Borja Garc\u00eda,Aleix Garc\u00eda,1
+Borja Garc\u00eda,Ramalho,1
+\u00c1lex Granell,J. Mojica,1
+Aleix Garc\u00eda,J. Mojica,1
+\u00c1lex Granell,Borja Garc\u00eda,1
+Borja Garc\u00eda,Aday,1
+Juanpe,Aleix Garc\u00eda,1
+J. Mojica,Ramalho,1
+K. Soni,Aleix Garc\u00eda,1
+Y. Bounou,K. Soni,1
+Bernardo Espinosa,K. Soni,1
+Borja Garc\u00eda,Y. Bounou,1
+Borja Garc\u00eda,J. Mojica,1
+Aday,J. Mojica,1
+Y. Bounou,Bernardo Espinosa,1
+Y. Bounou,Juanpe,1
+Y. Bounou,C. Stuani,1
+Aday,Y. Bounou,1
+C. Stuani,Aleix Garc\u00eda,1
+Juanpe,Y. Bounou,1

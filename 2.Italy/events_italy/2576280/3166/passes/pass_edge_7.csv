@@ -1,0 +1,58 @@
+Source,Target,Weight
+F. Avenatti,S. Verdi,4
+S. Romagnoli,L. Crisetig,4
+S. Verdi,\u00c1. Nagy,3
+F. Di Francesco,\u00c1. Nagy,3
+S. Verdi,F. Di Francesco,3
+F. Helander,F. Avenatti,3
+L. Crisetig,G. Gonz\u00e1lez,3
+S. Romagnoli,G. Gonz\u00e1lez,3
+B. D\u017eemaili,F. Helander,3
+\u00c1. Nagy,S. Verdi,3
+\u00c1. Nagy,B. D\u017eemaili,3
+G. Gonz\u00e1lez,F. Di Francesco,2
+A. Mirante,C. Keita,2
+B. D\u017eemaili,S. Romagnoli,2
+C. Keita,B. D\u017eemaili,2
+F. Helander,S. Romagnoli,2
+F. Helander,A. Mirante,2
+C. Keita,S. Romagnoli,2
+C. Keita,L. Crisetig,2
+C. Keita,F. Helander,2
+F. Avenatti,L. Crisetig,2
+F. Di Francesco,S. Verdi,2
+F. Helander,C. Keita,2
+A. Mirante,F. Avenatti,2
+G. Gonz\u00e1lez,A. Mirante,2
+S. Romagnoli,B. D\u017eemaili,1
+C. Keita,S. Verdi,1
+F. Helander,B. D\u017eemaili,1
+F. Di Francesco,S. Romagnoli,1
+F. Avenatti,R. Palacio,1
+B. D\u017eemaili,\u00c1. Nagy,1
+B. D\u017eemaili,S. Verdi,1
+L. Crisetig,C. Keita,1
+G. Gonz\u00e1lez,F. Helander,1
+S. Verdi,A. Mirante,1
+S. Verdi,S. Romagnoli,1
+S. Verdi,F. Avenatti,1
+L. Crisetig,B. D\u017eemaili,1
+G. Gonz\u00e1lez,L. Crisetig,1
+L. Crisetig,F. Helander,1
+R. Palacio,C. Keita,1
+L. Crisetig,R. Palacio,1
+G. Gonz\u00e1lez,F. Avenatti,1
+S. Verdi,F. Helander,1
+S. Romagnoli,F. Di Francesco,1
+F. Avenatti,F. Helander,1
+S. Verdi,C. Keita,1
+L. Crisetig,S. Romagnoli,1
+A. Mirante,F. Helander,1
+F. Avenatti,C. Keita,1
+S. Romagnoli,C. Keita,1
+B. D\u017eemaili,F. Avenatti,1
+\u00c1. Nagy,G. Gonz\u00e1lez,1
+G. Gonz\u00e1lez,S. Romagnoli,1
+F. Di Francesco,L. Crisetig,1
+L. Crisetig,F. Di Francesco,1
+L. Crisetig,F. Avenatti,1

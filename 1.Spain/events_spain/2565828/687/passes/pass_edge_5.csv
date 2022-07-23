@@ -1,0 +1,97 @@
+Source,Target,Weight
+De La Bella,H. Moreno,10
+Willian Jos\u00e9,Illarramendi,8
+Odriozola,Canales,8
+Canales,Illarramendi,7
+Ra\u00fal Navas,H. Moreno,7
+H. Moreno,De La Bella,7
+Illarramendi,Odriozola,7
+Moy\u00e0,H. Moreno,6
+Odriozola,Willian Jos\u00e9,6
+Ra\u00fal Navas,Zubeld\u00eda,5
+De La Bella,Mikel Oyarzabal,5
+Willian Jos\u00e9,Canales,5
+H. Moreno,Willian Jos\u00e9,5
+Ra\u00fal Navas,Moy\u00e0,5
+H. Moreno,Zurutuza,5
+Illarramendi,Zubeld\u00eda,5
+Odriozola,Ra\u00fal Navas,5
+Willian Jos\u00e9,Odriozola,5
+Odriozola,Illarramendi,5
+H. Moreno,Moy\u00e0,4
+Canales,Odriozola,4
+De La Bella,Moy\u00e0,4
+H. Moreno,Ra\u00fal Navas,4
+Odriozola,De La Bella,4
+Zubeld\u00eda,Ra\u00fal Navas,4
+Illarramendi,De La Bella,4
+Zurutuza,Mikel Oyarzabal,4
+Zurutuza,De La Bella,4
+H. Moreno,Odriozola,4
+Mikel Oyarzabal,Zurutuza,4
+Zubeld\u00eda,Odriozola,4
+Zurutuza,Canales,3
+De La Bella,Zurutuza,3
+Canales,Willian Jos\u00e9,3
+Zubeld\u00eda,H. Moreno,3
+Illarramendi,Ra\u00fal Navas,3
+Moy\u00e0,Ra\u00fal Navas,3
+Moy\u00e0,De La Bella,3
+Canales,H. Moreno,3
+Moy\u00e0,Odriozola,3
+Zubeld\u00eda,Illarramendi,3
+Mikel Oyarzabal,De La Bella,3
+Zubeld\u00eda,De La Bella,3
+Mikel Oyarzabal,Canales,3
+Canales,Mikel Oyarzabal,3
+Mikel Oyarzabal,Illarramendi,2
+Zubeld\u00eda,Willian Jos\u00e9,2
+Mikel Oyarzabal,H. Moreno,2
+H. Moreno,Mikel Oyarzabal,2
+Illarramendi,Canales,2
+Moy\u00e0,Illarramendi,2
+Illarramendi,H. Moreno,2
+Ra\u00fal Navas,Canales,2
+Mikel Oyarzabal,Zubeld\u00eda,2
+Willian Jos\u00e9,Ra\u00fal Navas,2
+Canales,Zubeld\u00eda,2
+Ra\u00fal Navas,Odriozola,2
+Mikel Oyarzabal,Ra\u00fal Navas,2
+Zubeld\u00eda,Moy\u00e0,2
+De La Bella,Willian Jos\u00e9,2
+Illarramendi,Mikel Oyarzabal,2
+Odriozola,Moy\u00e0,2
+Illarramendi,Moy\u00e0,2
+Odriozola,Zubeld\u00eda,2
+Canales,Ra\u00fal Navas,2
+Ra\u00fal Navas,Mikel Oyarzabal,2
+Ra\u00fal Navas,Willian Jos\u00e9,2
+De La Bella,Ra\u00fal Navas,2
+Illarramendi,Willian Jos\u00e9,2
+Zurutuza,Zubeld\u00eda,2
+Zurutuza,Willian Jos\u00e9,2
+H. Moreno,Zubeld\u00eda,2
+De La Bella,Odriozola,2
+Zurutuza,H. Moreno,1
+H. Moreno,Canales,1
+Willian Jos\u00e9,Zubeld\u00eda,1
+Canales,Moy\u00e0,1
+Zurutuza,Odriozola,1
+De La Bella,Canales,1
+Willian Jos\u00e9,Zurutuza,1
+Zurutuza,Illarramendi,1
+Mikel Oyarzabal,Odriozola,1
+Willian Jos\u00e9,H. Moreno,1
+Canales,Zurutuza,1
+Moy\u00e0,Zurutuza,1
+Ra\u00fal Navas,Zurutuza,1
+Ra\u00fal Navas,De La Bella,1
+Moy\u00e0,Zubeld\u00eda,1
+Moy\u00e0,Mikel Oyarzabal,1
+De La Bella,Illarramendi,1
+Zubeld\u00eda,Canales,1
+Odriozola,Zurutuza,1
+Ra\u00fal Navas,Illarramendi,1
+Illarramendi,Zurutuza,1
+Willian Jos\u00e9,De La Bella,1
+H. Moreno,Illarramendi,1

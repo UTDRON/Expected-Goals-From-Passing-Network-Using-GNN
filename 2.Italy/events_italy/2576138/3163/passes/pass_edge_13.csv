@@ -1,0 +1,13 @@
+Source,Target,Weight
+V. Behrami,J. Jankto,1
+Ali Adnan,K. Lasagna,1
+Ali Adnan,J. Stryger Larsen,1
+J. Jankto,A. Bar\u00e1k,1
+A. Bar\u00e1k,Ali Adnan,1
+J. Jankto,J. Stryger Larsen,1
+K. Lasagna,Ali Adnan,1
+S. Widmer,V. Behrami,1
+K. Lasagna,J. Jankto,1
+A. Bar\u00e1k,S. Widmer,1
+J. Stryger Larsen,A. Bar\u00e1k,1
+J. Stryger Larsen,K. Lasagna,1

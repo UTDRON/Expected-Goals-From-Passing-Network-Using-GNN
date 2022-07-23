@@ -1,0 +1,22 @@
+Source,Target,Weight
+Gabriel,Omar Ramos,2
+Ra\u00fal Garc\u00eda,E. Mu\u00f1oz,1
+Omar Ramos,Gabriel,1
+Omar Ramos,Gumbau,1
+E. Mu\u00f1oz,Tito,1
+D. Siovas,Gabriel,1
+D. Bra\u0161anac,Gabriel,1
+Ra\u00fal Garc\u00eda,Gumbau,1
+E. Mu\u00f1oz,D. Siovas,1
+Tito,D. Bra\u0161anac,1
+Gabriel,D. Bra\u0161anac,1
+Gumbau,Tito,1
+Gumbau,N. Amrabat,1
+D. Bra\u0161anac,Ra\u00fal Garc\u00eda,1
+N. Amrabat,Gabriel,1
+Gumbau,D. Bra\u0161anac,1
+Tito,N. Amrabat,1
+D. Siovas,Gumbau,1
+Gabriel,Gumbau,1
+N. Amrabat,E. Mu\u00f1oz,1
+Gumbau,Ra\u00fal Garc\u00eda,1

@@ -1,0 +1,27 @@
+Source,Target,Weight
+Danilo,A. Bar\u00e1k,2
+K. Lasagna,S. Perica,2
+Samir,G. Pezzella,2
+Danilo,A. Bali\u0107,2
+G. Pezzella,Samir,2
+J. Jankto,J. Stryger Larsen,1
+S. Widmer,Danilo,1
+S. Ingelsson,S. Widmer,1
+J. Jankto,Danilo,1
+A. Bali\u0107,S. Widmer,1
+A. Bar\u00e1k,Danilo,1
+A. Bali\u0107,J. Jankto,1
+S. Widmer,Samir,1
+G. Pezzella,S. Perica,1
+S. Perica,G. Pezzella,1
+J. Stryger Larsen,J. Jankto,1
+S. Perica,S. Ingelsson,1
+Danilo,G. Pezzella,1
+A. Bali\u0107,S. Ingelsson,1
+J. Jankto,K. Lasagna,1
+A. Bar\u00e1k,K. Lasagna,1
+Samir,Danilo,1
+G. Pezzella,Danilo,1
+S. Widmer,K. Lasagna,1
+S. Ingelsson,A. Bali\u0107,1
+S. Perica,S. Widmer,1

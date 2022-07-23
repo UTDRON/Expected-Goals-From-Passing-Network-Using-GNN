@@ -1,0 +1,30 @@
+Source,Target,Weight
+N. Sansone,Pablo Fornals,3
+Jaume Costa,N. Sansone,3
+N. Sansone,Jaume Costa,3
+Trigueros,N. Sansone,3
+Rodri,Trigueros,2
+Jaume Costa,Rodri,2
+Pablo Fornals,Trigueros,2
+Pablo Fornals,N. Sansone,2
+M. Barbosa,Pablo Fornals,1
+C. Bakambu,Pablo Fornals,1
+V\u00edctor Ru\u00edz,Jaume Costa,1
+Trigueros,Rodri,1
+V\u00edctor Ru\u00edz,C. Bakambu,1
+Rodri,M. Barbosa,1
+N. Sansone,V\u00edctor Ru\u00edz,1
+Pablo Fornals,Samu Castillejo,1
+Samu Castillejo,Trigueros,1
+Samu Castillejo,Pablo Fornals,1
+Pablo Fornals,Jaume Costa,1
+N. Sansone,Samu Castillejo,1
+Mario,Samu Castillejo,1
+Jaume Costa,Pablo Fornals,1
+Trigueros,V\u00edctor Ru\u00edz,1
+V\u00edctor Ru\u00edz,Rodri,1
+Pablo Fornals,Rodri,1
+Rodri,Mario,1
+Rodri,Pablo Fornals,1
+Samu Castillejo,Jaume Costa,1
+Pablo Fornals,C. Bakambu,1

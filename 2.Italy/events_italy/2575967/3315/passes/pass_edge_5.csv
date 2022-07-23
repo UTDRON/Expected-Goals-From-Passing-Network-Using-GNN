@@ -1,0 +1,16 @@
+Source,Target,Weight
+P. Cannavaro,F. Acerbi,3
+A. Duncan,F. Acerbi,1
+F. Magnanelli,F. Acerbi,1
+P. Cannavaro,Pol Lirola,1
+D. Berardi,S. Sensi,1
+F. Acerbi,F. Peluso,1
+F. Acerbi,D. Berardi,1
+F. Acerbi,A. Duncan,1
+Pol Lirola,F. Magnanelli,1
+F. Magnanelli,P. Cannavaro,1
+F. Acerbi,P. Cannavaro,1
+F. Peluso,P. Cannavaro,1
+F. Acerbi,M. Politano,1
+M. Politano,F. Magnanelli,1
+S. Sensi,Pol Lirola,1

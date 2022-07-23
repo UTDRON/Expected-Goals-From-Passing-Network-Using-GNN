@@ -1,0 +1,25 @@
+Source,Target,Weight
+B. Bereszy\u0144ski,D. Praet,2
+B. Bereszy\u0144ski,M. Silvestre,2
+D. Praet,B. Bereszy\u0144ski,2
+K. Linetty,V. Regini,2
+M. Silvestre,G. Ferrari,2
+K. Linetty,L. Torreira,1
+V. Regini,G. Ferrari,1
+G. Caprari,L. Torreira,1
+G. Ferrari,M. Silvestre,1
+E. Viviano,G. Caprari,1
+V. Regini,D. Zapata,1
+G. Ferrari,B. Bereszy\u0144ski,1
+V. Regini,E. Viviano,1
+M. Silvestre,B. Bereszy\u0144ski,1
+E. Viviano,K. Linetty,1
+G. Caprari,K. Linetty,1
+L. Torreira,M. Silvestre,1
+L. Torreira,E. Viviano,1
+M. Silvestre,D. Praet,1
+B. Bereszy\u0144ski,K. Linetty,1
+D. Praet,L. Torreira,1
+G. Ferrari,V. Regini,1
+D. Zapata,G. Caprari,1
+L. Torreira,K. Linetty,1

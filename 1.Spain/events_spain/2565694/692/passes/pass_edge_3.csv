@@ -1,0 +1,20 @@
+Source,Target,Weight
+Jonny,P. Sisto,2
+Hugo Mallo,G. Cabral,2
+S. Lobotka,P. Sisto,2
+Font\u00e0s,S. Lobotka,2
+G. Cabral,Font\u00e0s,2
+Font\u00e0s,Jonny,2
+S. Lobotka,Iago Aspas,1
+D. Wass,Font\u00e0s,1
+Jonny,D. Wass,1
+P. Sisto,Jonny,1
+P. Sisto,Font\u00e0s,1
+P. Hern\u00e1ndez,D. Wass,1
+D. Wass,P. Sisto,1
+P. Sisto,P. Hern\u00e1ndez,1
+P. Sisto,Hugo Mallo,1
+S. Lobotka,Hugo Mallo,1
+P. Hern\u00e1ndez,S. Lobotka,1
+Iago Aspas,P. Sisto,1
+P. Sisto,S. Lobotka,1

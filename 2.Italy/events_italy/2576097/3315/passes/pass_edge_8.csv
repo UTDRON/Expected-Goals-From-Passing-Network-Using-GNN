@@ -1,0 +1,21 @@
+Source,Target,Weight
+M. Politano,F. Magnanelli,2
+P. Cannavaro,F. Acerbi,2
+F. Magnanelli,D. Biondini,2
+P. Cannavaro,D. Biondini,1
+F. Acerbi,F. Peluso,1
+D. Biondini,D. Berardi,1
+M. Gazzola,M. Politano,1
+D. Biondini,P. Cannavaro,1
+A. Consigli,P. Cannavaro,1
+D. Biondini,M. Gazzola,1
+F. Peluso,F. Acerbi,1
+P. Cannavaro,F. Magnanelli,1
+F. Magnanelli,M. Gazzola,1
+F. Acerbi,P. Cannavaro,1
+M. Gazzola,F. Magnanelli,1
+F. Magnanelli,F. Peluso,1
+D. Berardi,F. Magnanelli,1
+F. Magnanelli,P. Cannavaro,1
+F. Peluso,M. Politano,1
+F. Acerbi,A. Consigli,1

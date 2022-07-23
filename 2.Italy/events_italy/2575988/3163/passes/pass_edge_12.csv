@@ -1,0 +1,59 @@
+Source,Target,Weight
+J. Jankto,A. Bar\u00e1k,5
+B. Nuytinck,Samir,5
+Samir,A. Bar\u00e1k,5
+Samir,V. Behrami,5
+A. Bar\u00e1k,Samir,5
+J. Jankto,Samir,4
+V. Behrami,Danilo,4
+Samir,J. Jankto,3
+A. Bar\u00e1k,J. Jankto,3
+A. Bar\u00e1k,B. Nuytinck,3
+Danilo,J. Stryger Larsen,3
+J. Stryger Larsen,A. Bar\u00e1k,3
+A. Bar\u00e1k,V. Behrami,3
+Maxi L\u00f3pez,A. Bar\u00e1k,2
+R. de Paul,Samir,2
+Danilo,A. Bar\u00e1k,2
+Danilo,B. Nuytinck,2
+B. Nuytinck,Danilo,2
+J. Stryger Larsen,Maxi L\u00f3pez,2
+A. Bar\u00e1k,Danilo,2
+Maxi L\u00f3pez,R. de Paul,2
+R. de Paul,A. Bar\u00e1k,2
+K. Lasagna,B. Nuytinck,2
+B. Nuytinck,A. Bar\u00e1k,2
+V. Behrami,A. Bar\u00e1k,2
+V. Behrami,J. Jankto,2
+A. Bar\u00e1k,R. de Paul,2
+J. Jankto,V. Behrami,2
+A. Bar\u00e1k,K. Lasagna,2
+Samir,S. Scuffet,1
+Danilo,Maxi L\u00f3pez,1
+J. Stryger Larsen,R. de Paul,1
+K. Lasagna,R. de Paul,1
+K. Lasagna,J. Jankto,1
+S. Scuffet,J. Jankto,1
+V. Behrami,B. Nuytinck,1
+Maxi L\u00f3pez,J. Jankto,1
+R. de Paul,K. Lasagna,1
+B. Nuytinck,K. Lasagna,1
+K. Lasagna,J. Stryger Larsen,1
+Danilo,J. Jankto,1
+A. Bar\u00e1k,J. Stryger Larsen,1
+Maxi L\u00f3pez,K. Lasagna,1
+A. Bar\u00e1k,Maxi L\u00f3pez,1
+R. de Paul,J. Stryger Larsen,1
+R. de Paul,Danilo,1
+Samir,B. Nuytinck,1
+V. Behrami,R. de Paul,1
+R. de Paul,V. Behrami,1
+Danilo,R. de Paul,1
+J. Jankto,R. de Paul,1
+R. de Paul,B. Nuytinck,1
+J. Jankto,B. Nuytinck,1
+R. de Paul,Maxi L\u00f3pez,1
+J. Stryger Larsen,Danilo,1
+V. Behrami,J. Stryger Larsen,1
+B. Nuytinck,J. Jankto,1
+Samir,Maxi L\u00f3pez,1

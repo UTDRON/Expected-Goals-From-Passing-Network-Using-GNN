@@ -1,0 +1,62 @@
+Source,Target,Weight
+E. Hysaj,Albiol,10
+Albiol,E. Hysaj,8
+M\u00e1rio Rui,L. Insigne,6
+L. Insigne,M\u00e1rio Rui,6
+M\u00e1rio Rui,M. Ham\u0161\u00edk,6
+K. Koulibaly,M\u00e1rio Rui,5
+M. Ham\u0161\u00edk,M\u00e1rio Rui,4
+K. Koulibaly,E. Hysaj,3
+K. Koulibaly,Albiol,3
+Jorginho,Albiol,3
+Albiol,Allan,3
+E. Hysaj,K. Koulibaly,3
+Jorginho,K. Koulibaly,3
+M. Ham\u0161\u00edk,K. Koulibaly,3
+Albiol,Jorginho,3
+M. Ham\u0161\u00edk,L. Insigne,3
+L. Insigne,M. Ham\u0161\u00edk,2
+Allan,E. Hysaj,2
+M\u00e1rio Rui,Jorginho,2
+M\u00e1rio Rui,D. Mertens,2
+Allan,Albiol,2
+Allan,Jorginho,2
+D. Mertens,E. Hysaj,2
+Albiol,K. Koulibaly,2
+Jorginho,M\u00e1rio Rui,2
+Jorginho,E. Hysaj,2
+M. Ham\u0161\u00edk,Albiol,2
+L. Insigne,Jorginho,2
+E. Hysaj,Allan,2
+Albiol,L. Insigne,2
+K. Koulibaly,L. Insigne,2
+L. Insigne,K. Koulibaly,2
+Albiol,M. Ham\u0161\u00edk,2
+M. Ham\u0161\u00edk,Jorginho,2
+Albiol,Jos\u00e9 Callej\u00f3n,1
+Jos\u00e9 Callej\u00f3n,E. Hysaj,1
+Jos\u00e9 Callej\u00f3n,Albiol,1
+M\u00e1rio Rui,K. Koulibaly,1
+Jos\u00e9 Callej\u00f3n,D. Mertens,1
+Albiol,M\u00e1rio Rui,1
+Allan,Jos\u00e9 Callej\u00f3n,1
+M\u00e1rio Rui,Pepe Reina,1
+Allan,M. Ham\u0161\u00edk,1
+E. Hysaj,Jorginho,1
+K. Koulibaly,M. Ham\u0161\u00edk,1
+K. Koulibaly,Allan,1
+M\u00e1rio Rui,Albiol,1
+Albiol,Pepe Reina,1
+K. Koulibaly,Pepe Reina,1
+Pepe Reina,Albiol,1
+Pepe Reina,Jos\u00e9 Callej\u00f3n,1
+E. Hysaj,M. Ham\u0161\u00edk,1
+Jorginho,L. Insigne,1
+Pepe Reina,K. Koulibaly,1
+E. Hysaj,M\u00e1rio Rui,1
+D. Mertens,K. Koulibaly,1
+L. Insigne,D. Mertens,1
+M\u00e1rio Rui,Allan,1
+L. Insigne,Allan,1
+D. Mertens,L. Insigne,1
+Jorginho,M. Ham\u0161\u00edk,1

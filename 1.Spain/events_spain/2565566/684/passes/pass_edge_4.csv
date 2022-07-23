@@ -1,0 +1,29 @@
+Source,Target,Weight
+A. Mandi,Javi Garc\u00eda,3
+Barrag\u00e1n,A. Guardado,2
+A. Guardado,A. Mandi,2
+R. Durmisi,Z. Feddal,2
+V\u00edctor Camarasa,R. Durmisi,2
+Ad\u00e1n,Sergio Le\u00f3n,2
+Z. Feddal,A. Guardado,1
+A. Mandi,Barrag\u00e1n,1
+A. Mandi,Z. Feddal,1
+A. Guardado,Ad\u00e1n,1
+Joaqu\u00edn,R. Durmisi,1
+Francis Guerrero,A. Mandi,1
+Sergio Le\u00f3n,Francis Guerrero,1
+V\u00edctor Camarasa,A. Guardado,1
+Sergio Le\u00f3n,Barrag\u00e1n,1
+R. Durmisi,V\u00edctor Camarasa,1
+Javi Garc\u00eda,Ad\u00e1n,1
+V\u00edctor Camarasa,Francis Guerrero,1
+Javi Garc\u00eda,V\u00edctor Camarasa,1
+V\u00edctor Camarasa,Barrag\u00e1n,1
+Z. Feddal,A. Mandi,1
+Francis Guerrero,A. Guardado,1
+Barrag\u00e1n,V\u00edctor Camarasa,1
+A. Guardado,V\u00edctor Camarasa,1
+A. Guardado,Joaqu\u00edn,1
+Joaqu\u00edn,A. Mandi,1
+Javi Garc\u00eda,Joaqu\u00edn,1
+Z. Feddal,V\u00edctor Camarasa,1

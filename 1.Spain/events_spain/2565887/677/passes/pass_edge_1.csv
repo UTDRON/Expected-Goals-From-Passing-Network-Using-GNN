@@ -1,0 +1,35 @@
+Source,Target,Weight
+E. \u00c7olak,Pedro Mosquera,2
+Juanfran,Albentosa,2
+Pedro Mosquera,Guilherme,2
+Albentosa,F. Sch\u00e4r,2
+Luisinho,C. Borges,2
+Guilherme,E. \u00c7olak,2
+F. Sch\u00e4r,Luisinho,1
+Lucas P\u00e9rez,Adri\u00e1n L\u00f3pez,1
+Luisinho,Pedro Mosquera,1
+Pedro Mosquera,Lucas P\u00e9rez,1
+Juanfran,Lucas P\u00e9rez,1
+C. Borges,Pedro Mosquera,1
+Lucas P\u00e9rez,C. Borges,1
+Albentosa,Juanfran,1
+Juanfran,Guilherme,1
+Guilherme,Juanfran,1
+E. \u00c7olak,C. Borges,1
+C. Borges,Luisinho,1
+Adri\u00e1n L\u00f3pez,E. \u00c7olak,1
+C. Borges,E. \u00c7olak,1
+C. Borges,Adri\u00e1n L\u00f3pez,1
+Guilherme,Luisinho,1
+C. Borges,Juanfran,1
+Pedro Mosquera,Luisinho,1
+E. \u00c7olak,Lucas P\u00e9rez,1
+F. Sch\u00e4r,C. Borges,1
+F. Sch\u00e4r,Juanfran,1
+Adri\u00e1n L\u00f3pez,F. Sch\u00e4r,1
+Juanfran,E. \u00c7olak,1
+Luisinho,F. Sch\u00e4r,1
+F. Sch\u00e4r,Guilherme,1
+Lucas P\u00e9rez,F. Sch\u00e4r,1
+E. \u00c7olak,Juanfran,1
+F. Sch\u00e4r,Albentosa,1

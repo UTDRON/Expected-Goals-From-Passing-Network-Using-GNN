@@ -1,0 +1,24 @@
+Source,Target,Weight
+L. Memushaj,B. Gyamfi,2
+G. Letizia,L. Memushaj,2
+D. Cataldi,L. Venuti,2
+L. Memushaj,G. Letizia,2
+L. Memushaj,A. Brignoli,1
+L. Memushaj,D. Cataldi,1
+B. Djimsiti,A. Ciciretti,1
+L. Venuti,L. Memushaj,1
+G. Letizia,B. Djimsiti,1
+A. Brignoli,L. Venuti,1
+A. Ciciretti,D. Cataldi,1
+D. Cataldi,S. Armenteros,1
+S. Armenteros,L. Memushaj,1
+L. Venuti,D. Cataldi,1
+B. Gyamfi,L. Memushaj,1
+D. Cataldi,L. Memushaj,1
+B. Gyamfi,A. Ciciretti,1
+L. Venuti,B. Gyamfi,1
+L. Memushaj,S. Armenteros,1
+A. Ciciretti,B. Gyamfi,1
+B. Djimsiti,L. Memushaj,1
+B. Gyamfi,B. Djimsiti,1
+B. Gyamfi,D. Cataldi,1

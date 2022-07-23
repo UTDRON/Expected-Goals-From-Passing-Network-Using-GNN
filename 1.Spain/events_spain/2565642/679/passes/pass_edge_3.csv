@@ -1,0 +1,16 @@
+Source,Target,Weight
+Juanfran,K. Gameiro,2
+K. Gameiro,\u00c1. Correa,1
+Gabi,Filipe Luis,1
+D. God\u00edn,Filipe Luis,1
+Thomas,A. Griezmann,1
+S. Savi\u0107,A. Griezmann,1
+A. Griezmann,Gabi,1
+Filipe Luis,Thomas,1
+Filipe Luis,Sa\u00fal,1
+Sa\u00fal,Juanfran,1
+\u00c1. Correa,Juanfran,1
+Gabi,D. God\u00edn,1
+K. Gameiro,Sa\u00fal,1
+Sa\u00fal,Gabi,1
+A. Griezmann,\u00c1. Correa,1

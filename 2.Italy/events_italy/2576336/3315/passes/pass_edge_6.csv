@@ -1,0 +1,23 @@
+Source,Target,Weight
+C. Adjapong,D. Berardi,2
+D. Berardi,A. Duncan,2
+F. Acerbi,F. Magnanelli,1
+F. Magnanelli,F. Peluso,1
+M. Lemos,F. Magnanelli,1
+A. Duncan,S. Missiroli,1
+G. Pegolo,M. Lemos,1
+D. Berardi,C. Adjapong,1
+M. Lemos,F. Peluso,1
+F. Magnanelli,G. Pegolo,1
+S. Missiroli,M. Politano,1
+F. Peluso,C. Adjapong,1
+F. Peluso,F. Magnanelli,1
+F. Magnanelli,D. Berardi,1
+C. Adjapong,F. Acerbi,1
+M. Politano,D. Berardi,1
+F. Magnanelli,Rog\u00e9rio,1
+Rog\u00e9rio,C. Adjapong,1
+A. Duncan,F. Acerbi,1
+D. Berardi,F. Magnanelli,1
+Rog\u00e9rio,A. Duncan,1
+F. Acerbi,M. Lemos,1

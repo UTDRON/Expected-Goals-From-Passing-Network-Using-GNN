@@ -1,0 +1,83 @@
+Source,Target,Weight
+Bigas,Jonathan Viera,9
+Momo,Dani Castellano,8
+David Sim\u00f3n,Fabio Gonz\u00e1lez,7
+Dani Castellano,Jonathan Viera,5
+Jonathan Viera,Momo,5
+Hern\u00e1n,Fabio Gonz\u00e1lez,5
+Fabio Gonz\u00e1lez,M. Lemos,5
+Jonathan Viera,Tana,5
+Fabio Gonz\u00e1lez,Bigas,5
+Dani Castellano,Bigas,4
+Bigas,Momo,4
+Hern\u00e1n,Tana,4
+Jonathan Viera,Dani Castellano,4
+Jonathan Viera,Bigas,4
+Tana,David Sim\u00f3n,4
+Jonathan Viera,Hern\u00e1n,4
+Fabio Gonz\u00e1lez,David Sim\u00f3n,4
+Fabio Gonz\u00e1lez,Momo,4
+Momo,Jonathan Viera,4
+Hern\u00e1n,Bigas,4
+Dani Castellano,Momo,4
+David Sim\u00f3n,Hern\u00e1n,3
+David Sim\u00f3n,M. Lemos,3
+Jonathan Viera,Fabio Gonz\u00e1lez,3
+Bigas,Hern\u00e1n,3
+Fabio Gonz\u00e1lez,Jonathan Viera,3
+Hern\u00e1n,David Sim\u00f3n,3
+Momo,Hern\u00e1n,3
+M. Lemos,Fabio Gonz\u00e1lez,3
+M. Lemos,Hern\u00e1n,3
+Bigas,Dani Castellano,3
+M. Lemos,David Sim\u00f3n,3
+Dani Castellano,Hern\u00e1n,3
+Tana,Hern\u00e1n,3
+Tana,Dani Castellano,2
+David Sim\u00f3n,Momo,2
+J. Calleri,Jonathan Viera,2
+J. Calleri,David Sim\u00f3n,2
+Bigas,L. Chichizola,2
+Tana,Jonathan Viera,2
+Momo,Fabio Gonz\u00e1lez,2
+Dani Castellano,Tana,2
+Jonathan Viera,J. Calleri,2
+Momo,Tana,2
+Hern\u00e1n,Dani Castellano,2
+L. Chichizola,Bigas,2
+Momo,Bigas,2
+Fabio Gonz\u00e1lez,J. Calleri,2
+Tana,Fabio Gonz\u00e1lez,2
+David Sim\u00f3n,Tana,2
+David Sim\u00f3n,Jonathan Viera,2
+Hern\u00e1n,Jonathan Viera,2
+M. Lemos,L. Chichizola,2
+Tana,M. Lemos,2
+L. Chichizola,Momo,1
+Bigas,Fabio Gonz\u00e1lez,1
+Hern\u00e1n,Momo,1
+Fabio Gonz\u00e1lez,Hern\u00e1n,1
+Hern\u00e1n,J. Calleri,1
+M. Lemos,Bigas,1
+J. Calleri,Hern\u00e1n,1
+Jonathan Viera,David Sim\u00f3n,1
+David Sim\u00f3n,J. Calleri,1
+M. Lemos,Dani Castellano,1
+Hern\u00e1n,L. Chichizola,1
+Bigas,M. Lemos,1
+L. Chichizola,J. Calleri,1
+J. Calleri,Tana,1
+Tana,Bigas,1
+Momo,J. Calleri,1
+J. Calleri,M. Lemos,1
+Jonathan Viera,M. Lemos,1
+M. Lemos,Momo,1
+J. Calleri,Fabio Gonz\u00e1lez,1
+L. Chichizola,David Sim\u00f3n,1
+Bigas,David Sim\u00f3n,1
+Hern\u00e1n,M. Lemos,1
+Momo,David Sim\u00f3n,1
+Fabio Gonz\u00e1lez,Tana,1
+Tana,Momo,1
+Dani Castellano,Fabio Gonz\u00e1lez,1
+Dani Castellano,J. Calleri,1

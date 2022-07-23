@@ -1,0 +1,35 @@
+Source,Target,Weight
+Vitor Hugo,G. Pezzella,3
+B. Dabo,R. Saponara,3
+G. Pezzella,V. Laurini,3
+F. Chiesa,B. Dabo,2
+G. Pezzella,B. Dabo,2
+B. Dabo,V. Laurini,2
+V. Laurini,F. Chiesa,2
+V. Laurini,G. Pezzella,2
+M. Olivera,Vitor Hugo,2
+B. Dabo,M. Olivera,2
+B. Dabo,J. Veretout,2
+R. Saponara,V. Eysseric,2
+V. Laurini,B. Dabo,2
+V. Eysseric,J. Veretout,2
+M. Olivera,B. Dabo,2
+V. Eysseric,V. Laurini,2
+R. Saponara,S. Lo Faso,1
+B. Dabo,Vitor Hugo,1
+V. Laurini,R. Saponara,1
+J. Veretout,V. Eysseric,1
+G. Pezzella,J. Veretout,1
+S. Lo Faso,B. Dabo,1
+R. Saponara,B. Dabo,1
+R. Saponara,J. Veretout,1
+J. Veretout,R. Saponara,1
+J. Veretout,G. Pezzella,1
+V. Eysseric,S. Lo Faso,1
+J. Veretout,B. Dabo,1
+V. Laurini,V. Eysseric,1
+J. Veretout,M. Olivera,1
+J. Veretout,S. Lo Faso,1
+S. Lo Faso,J. Veretout,1
+B. Dabo,V. Eysseric,1
+J. Veretout,V. Laurini,1

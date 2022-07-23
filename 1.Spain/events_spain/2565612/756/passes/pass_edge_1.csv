@@ -1,0 +1,16 @@
+Source,Target,Weight
+Portu,Pedro Alcal\u00e1,2
+Pedro Alcal\u00e1,Pablo Maffeo,1
+Portu,C. Stuani,1
+C. Stuani,Pere Pons,1
+Portu,Aleix Garc\u00eda,1
+Aleix Garc\u00eda,Bernardo Espinosa,1
+Bernardo Espinosa,Iraizoz,1
+C. Stuani,Portu,1
+Pere Pons,Iraizoz,1
+Iraizoz,Portu,1
+Pablo Maffeo,Portu,1
+Iraizoz,C. Stuani,1
+Pedro Alcal\u00e1,Pere Pons,1
+Pere Pons,Portu,1
+Aleix Garc\u00eda,Juanpe,1

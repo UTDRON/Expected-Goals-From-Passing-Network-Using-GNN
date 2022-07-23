@@ -1,0 +1,26 @@
+Source,Target,Weight
+A. Laporte,San Jos\u00e9,3
+Susaeta,San Jos\u00e9,3
+San Jos\u00e9,Balenziaga,2
+San Jos\u00e9,Aduriz,2
+Balenziaga,A. Laporte,2
+Be\u00f1at,San Jos\u00e9,2
+San Jos\u00e9,Be\u00f1at,2
+San Jos\u00e9,Susaeta,2
+Be\u00f1at,Muniain,1
+Muniain,Lekue,1
+Unai N\u00fa\u00f1ez,Susaeta,1
+Muniain,I\u00f1aki Williams,1
+Lekue,Muniain,1
+Arrizabalaga,A. Laporte,1
+Aduriz,I\u00f1aki Williams,1
+San Jos\u00e9,Unai N\u00fa\u00f1ez,1
+Unai N\u00fa\u00f1ez,Lekue,1
+San Jos\u00e9,Muniain,1
+I\u00f1aki Williams,Be\u00f1at,1
+Muniain,Be\u00f1at,1
+I\u00f1aki Williams,Arrizabalaga,1
+Lekue,San Jos\u00e9,1
+Be\u00f1at,I\u00f1aki Williams,1
+Be\u00f1at,Unai N\u00fa\u00f1ez,1
+Aduriz,San Jos\u00e9,1

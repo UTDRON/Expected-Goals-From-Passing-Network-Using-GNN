@@ -1,0 +1,66 @@
+Source,Target,Weight
+F. Romagna,P. Farag\u00f2,7
+N. Barella,P. Farag\u00f2,4
+P. Farag\u00f2,N. Barella,3
+A. Ioni\u0163\u0103,L. Cigarini,3
+F. Romagna,M. Andreolli,3
+P. Farag\u00f2,F. Romagna,3
+M. Andreolli,F. Romagna,3
+N. Barella,L. Cigarini,3
+M. Andreolli,S. Padoin,3
+S. Padoin,A. Ioni\u0163\u0103,3
+L. Cigarini,F. Romagna,3
+M. Andreolli,L. Pavoletti,2
+M. Andreolli,Rafael,2
+Rafael,F. Romagna,2
+Jo\u00e3o Pedro,P. Farag\u00f2,2
+P. Farag\u00f2,L. Pavoletti,2
+A. Ioni\u0163\u0103,Jo\u00e3o Pedro,2
+Jo\u00e3o Pedro,L. Cigarini,2
+L. Ceppitelli,M. Andreolli,2
+L. Cigarini,N. Barella,2
+L. Cigarini,M. Andreolli,2
+P. Farag\u00f2,Jo\u00e3o Pedro,2
+L. Pavoletti,Jo\u00e3o Pedro,2
+L. Ceppitelli,F. Romagna,2
+A. Ioni\u0163\u0103,L. Ceppitelli,2
+L. Cigarini,A. Ioni\u0163\u0103,2
+P. Farag\u00f2,A. Ioni\u0163\u0103,2
+L. Pavoletti,P. Farag\u00f2,1
+Rafael,P. Farag\u00f2,1
+P. Farag\u00f2,L. Cigarini,1
+L. Cigarini,L. Pavoletti,1
+F. Romagna,Rafael,1
+S. Padoin,Rafael,1
+Rafael,L. Pavoletti,1
+Jo\u00e3o Pedro,S. Padoin,1
+L. Cigarini,P. Farag\u00f2,1
+Jo\u00e3o Pedro,M. Andreolli,1
+L. Ceppitelli,L. Cigarini,1
+F. Romagna,L. Cigarini,1
+A. Ioni\u0163\u0103,N. Barella,1
+L. Cigarini,S. Padoin,1
+N. Barella,S. Padoin,1
+P. Farag\u00f2,Rafael,1
+N. Barella,Jo\u00e3o Pedro,1
+Jo\u00e3o Pedro,N. Barella,1
+M. Andreolli,L. Cigarini,1
+L. Pavoletti,L. Ceppitelli,1
+L. Pavoletti,M. Andreolli,1
+F. Romagna,N. Barella,1
+P. Farag\u00f2,M. Andreolli,1
+N. Barella,A. Ioni\u0163\u0103,1
+L. Pavoletti,S. Padoin,1
+M. Andreolli,L. Ceppitelli,1
+A. Ioni\u0163\u0103,M. Andreolli,1
+S. Padoin,M. Andreolli,1
+S. Padoin,L. Ceppitelli,1
+L. Ceppitelli,N. Barella,1
+L. Cigarini,Jo\u00e3o Pedro,1
+Rafael,L. Ceppitelli,1
+L. Pavoletti,N. Barella,1
+Jo\u00e3o Pedro,L. Ceppitelli,1
+S. Padoin,L. Cigarini,1
+A. Ioni\u0163\u0103,S. Padoin,1
+L. Ceppitelli,A. Ioni\u0163\u0103,1
+S. Padoin,L. Pavoletti,1

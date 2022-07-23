@@ -1,0 +1,80 @@
+Source,Target,Weight
+M. Lazzari,A. Paloschi,5
+F. Viviani,Felipe,4
+J. Kurti\u010d,M. Lazzari,4
+F. Costa,A. Grassi,3
+M. Lazzari,F. Viviani,3
+F. Viviani,M. Lazzari,3
+B. Salamon,J. Kurti\u010d,3
+M. Antenucci,T. Cionek,3
+T. Cionek,M. Lazzari,3
+A. Grassi,F. Viviani,3
+A. Paloschi,J. Kurti\u010d,3
+A. Paloschi,M. Lazzari,3
+B. Salamon,A. Meret,3
+F. Viviani,M. Antenucci,3
+Felipe,F. Viviani,3
+A. Paloschi,F. Viviani,3
+A. Paloschi,T. Cionek,3
+M. Lazzari,T. Cionek,3
+M. Antenucci,F. Viviani,3
+J. Kurti\u010d,A. Paloschi,3
+A. Grassi,F. Costa,3
+M. Lazzari,M. Antenucci,3
+F. Costa,A. Paloschi,3
+T. Cionek,J. Kurti\u010d,3
+Felipe,A. Meret,2
+T. Cionek,Felipe,2
+B. Salamon,M. Lazzari,2
+Felipe,F. Costa,2
+A. Paloschi,B. Salamon,2
+B. Salamon,T. Cionek,2
+T. Cionek,B. Salamon,2
+J. Kurti\u010d,M. Antenucci,2
+A. Grassi,M. Lazzari,2
+M. Lazzari,Felipe,2
+M. Lazzari,B. Salamon,2
+M. Antenucci,A. Grassi,2
+F. Viviani,A. Paloschi,2
+F. Viviani,J. Kurti\u010d,2
+F. Costa,F. Viviani,2
+F. Viviani,F. Costa,2
+A. Grassi,T. Cionek,2
+T. Cionek,F. Viviani,2
+J. Kurti\u010d,B. Salamon,2
+A. Meret,F. Costa,2
+A. Paloschi,A. Grassi,2
+Felipe,M. Lazzari,1
+B. Salamon,F. Costa,1
+F. Costa,M. Antenucci,1
+F. Viviani,A. Grassi,1
+J. Kurti\u010d,Felipe,1
+B. Salamon,A. Paloschi,1
+J. Kurti\u010d,F. Costa,1
+A. Meret,J. Kurti\u010d,1
+T. Cionek,A. Meret,1
+M. Antenucci,A. Paloschi,1
+M. Antenucci,F. Costa,1
+M. Lazzari,A. Grassi,1
+B. Salamon,A. Grassi,1
+Felipe,B. Salamon,1
+A. Meret,M. Antenucci,1
+J. Kurti\u010d,F. Viviani,1
+F. Costa,B. Salamon,1
+Felipe,J. Kurti\u010d,1
+A. Grassi,B. Salamon,1
+Felipe,M. Antenucci,1
+A. Grassi,Felipe,1
+F. Costa,M. Lazzari,1
+T. Cionek,A. Paloschi,1
+A. Meret,A. Paloschi,1
+M. Lazzari,J. Kurti\u010d,1
+M. Antenucci,M. Lazzari,1
+A. Meret,T. Cionek,1
+M. Antenucci,B. Salamon,1
+F. Viviani,A. Meret,1
+F. Viviani,B. Salamon,1
+F. Costa,Felipe,1
+A. Paloschi,M. Antenucci,1
+Felipe,A. Grassi,1
+A. Meret,A. Grassi,1

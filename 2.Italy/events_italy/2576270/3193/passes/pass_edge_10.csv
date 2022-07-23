@@ -1,0 +1,13 @@
+Source,Target,Weight
+Daniel Bessa,O. Hiljemark,2
+Iuri Medeiros,L. Rossettini,1
+O. Hiljemark,Iuri Medeiros,1
+L. Rossettini,Daniel Bessa,1
+O. Hiljemark,Daniel Bessa,1
+O. Hiljemark,L. Rossettini,1
+L. Rossettini,E. Zukanovi\u0107,1
+A. Galabinov,Daniel Bessa,1
+D. Lazovi\u0107,Iuri Medeiros,1
+Iuri Medeiros,O. Hiljemark,1
+O. Hiljemark,D. Lazovi\u0107,1
+E. Zukanovi\u0107,A. Galabinov,1

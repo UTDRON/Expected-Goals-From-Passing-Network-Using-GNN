@@ -1,0 +1,29 @@
+Source,Target,Weight
+Mario,Pablo Fornals,5
+Javi Fuego,Mario,3
+E. \u00dcnal,Rodri,2
+Rodri,Javi Fuego,2
+Mario,Rodri,2
+E. \u00dcnal,Mario,2
+Pablo Fornals,Mario,2
+Mario,Javi Fuego,1
+Rodri,Adri\u00e1n Mar\u00edn,1
+\u00c1lvaro Gonz\u00e1lez,Adri\u00e1n Mar\u00edn,1
+Andr\u00e9s Fern\u00e1ndez,Pablo Fornals,1
+Mario,D. Bonera,1
+Javi Fuego,Adri\u00e1n Mar\u00edn,1
+Pablo Fornals,E. \u00dcnal,1
+Rodri,\u00c1lvaro Gonz\u00e1lez,1
+Pablo Fornals,\u00c1lvaro Gonz\u00e1lez,1
+\u00c1lvaro Gonz\u00e1lez,D. Bonera,1
+Adri\u00e1n Mar\u00edn,E. \u00dcnal,1
+\u00c1lvaro Gonz\u00e1lez,Mario,1
+D. Bonera,Andr\u00e9s Fern\u00e1ndez,1
+Adri\u00e1n Mar\u00edn,N. Sansone,1
+Adri\u00e1n Mar\u00edn,\u00c1lvaro Gonz\u00e1lez,1
+Andr\u00e9s Fern\u00e1ndez,E. \u00dcnal,1
+D. Bonera,Pablo Fornals,1
+Pablo Fornals,Javi Fuego,1
+Rodri,E. \u00dcnal,1
+Pablo Fornals,Andr\u00e9s Fern\u00e1ndez,1
+N. Sansone,Rodri,1

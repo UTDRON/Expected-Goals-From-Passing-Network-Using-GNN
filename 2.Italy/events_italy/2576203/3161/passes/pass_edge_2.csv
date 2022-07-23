@@ -1,0 +1,64 @@
+Source,Target,Weight
+Jo\u00e3o Cancelo,M. Vecino,6
+M. Vecino,Jo\u00e3o Cancelo,6
+A. Ranocchia,M. Vecino,5
+A. Candreva,R. Gagliardini,4
+Jo\u00e3o Cancelo,A. Ranocchia,4
+Eder,Jo\u00e3o Cancelo,3
+A. Ranocchia,Jo\u00e3o Cancelo,3
+M. \u0160kriniar,Borja Valero,3
+A. Candreva,D. D'Ambrosio,3
+M. Vecino,Y. Karamoh,3
+R. Gagliardini,M. Vecino,3
+D. D'Ambrosio,A. Candreva,3
+R. Gagliardini,M. \u0160kriniar,3
+Jo\u00e3o Cancelo,Eder,2
+M. Vecino,R. Gagliardini,2
+Borja Valero,Eder,2
+M. \u0160kriniar,A. Ranocchia,2
+M. Vecino,Borja Valero,2
+M. Vecino,A. Ranocchia,2
+M. Vecino,S. Handanovi\u010d,2
+Borja Valero,A. Candreva,2
+Jo\u00e3o Cancelo,R. Gagliardini,2
+Jo\u00e3o Cancelo,A. Candreva,2
+S. Handanovi\u010d,Jo\u00e3o Cancelo,2
+Borja Valero,R. Gagliardini,2
+R. Gagliardini,Jo\u00e3o Cancelo,2
+Borja Valero,Y. Karamoh,2
+Y. Karamoh,Jo\u00e3o Cancelo,2
+D. D'Ambrosio,Borja Valero,2
+M. \u0160kriniar,M. Vecino,2
+Jo\u00e3o Cancelo,M. \u0160kriniar,2
+R. Gagliardini,A. Candreva,2
+D. D'Ambrosio,M. \u0160kriniar,2
+Eder,Y. Karamoh,2
+A. Ranocchia,M. \u0160kriniar,2
+Borja Valero,Jo\u00e3o Cancelo,1
+S. Handanovi\u010d,A. Ranocchia,1
+M. \u0160kriniar,Jo\u00e3o Cancelo,1
+R. Gagliardini,A. Ranocchia,1
+M. \u0160kriniar,D. D'Ambrosio,1
+Y. Karamoh,R. Gagliardini,1
+Eder,A. Candreva,1
+A. Candreva,M. \u0160kriniar,1
+A. Ranocchia,Eder,1
+M. \u0160kriniar,A. Candreva,1
+R. Gagliardini,Y. Karamoh,1
+R. Gagliardini,D. D'Ambrosio,1
+Y. Karamoh,A. Ranocchia,1
+A. Candreva,Eder,1
+Borja Valero,D. D'Ambrosio,1
+Y. Karamoh,M. \u0160kriniar,1
+M. \u0160kriniar,R. Gagliardini,1
+Y. Karamoh,A. Candreva,1
+Y. Karamoh,D. D'Ambrosio,1
+Jo\u00e3o Cancelo,Y. Karamoh,1
+A. Candreva,Borja Valero,1
+Y. Karamoh,M. Vecino,1
+Y. Karamoh,Borja Valero,1
+Jo\u00e3o Cancelo,Borja Valero,1
+A. Ranocchia,R. Gagliardini,1
+Borja Valero,S. Handanovi\u010d,1
+R. Gagliardini,Borja Valero,1
+A. Candreva,A. Ranocchia,1

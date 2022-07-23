@@ -1,0 +1,56 @@
+Source,Target,Weight
+Ander Capa,Paulo Oliveira,4
+Arbilla,Paulo Oliveira,4
+Arbilla,Lomb\u00e1n,4
+Kike Garc\u00eda,Arbilla,3
+Paulo Oliveira,Ander Capa,3
+Lomb\u00e1n,Ander Capa,3
+Ander Capa,G. Escalante,3
+Paulo Oliveira,Lomb\u00e1n,3
+G. Escalante,Ander Capa,3
+Paulo Oliveira,Arbilla,3
+Ander Capa,Lomb\u00e1n,2
+Ander Capa,Sergi Enrich,2
+Paulo Oliveira,Dani Garc\u00eda,2
+Sergi Enrich,G. Escalante,2
+M. Dmitrovi\u0107,Arbilla,2
+Sergi Enrich,Paulo Oliveira,2
+Lomb\u00e1n,Arbilla,2
+Paulo Oliveira,Kike Garc\u00eda,2
+Arbilla,Jos\u00e9 \u00c1ngel,2
+Lomb\u00e1n,Dani Garc\u00eda,2
+Paulo Oliveira,Sergi Enrich,2
+Dani Garc\u00eda,Ander Capa,2
+T. Inui,Paulo Oliveira,2
+Ander Capa,Kike Garc\u00eda,1
+Dani Garc\u00eda,Jos\u00e9 \u00c1ngel,1
+Jos\u00e9 \u00c1ngel,Arbilla,1
+Kike Garc\u00eda,Dani Garc\u00eda,1
+T. Inui,Jos\u00e9 \u00c1ngel,1
+Dani Garc\u00eda,Arbilla,1
+Kike Garc\u00eda,Paulo Oliveira,1
+Jos\u00e9 \u00c1ngel,T. Inui,1
+Ander Capa,Arbilla,1
+Arbilla,Sergi Enrich,1
+Arbilla,Kike Garc\u00eda,1
+Kike Garc\u00eda,Ander Capa,1
+Jos\u00e9 \u00c1ngel,Paulo Oliveira,1
+Sergi Enrich,Dani Garc\u00eda,1
+G. Escalante,Kike Garc\u00eda,1
+T. Inui,G. Escalante,1
+Kike Garc\u00eda,T. Inui,1
+Dani Garc\u00eda,T. Inui,1
+Jos\u00e9 \u00c1ngel,Dani Garc\u00eda,1
+Lomb\u00e1n,M. Dmitrovi\u0107,1
+T. Inui,Lomb\u00e1n,1
+Lomb\u00e1n,Jos\u00e9 \u00c1ngel,1
+Jos\u00e9 \u00c1ngel,Kike Garc\u00eda,1
+Dani Garc\u00eda,Lomb\u00e1n,1
+G. Escalante,Jos\u00e9 \u00c1ngel,1
+Lomb\u00e1n,Kike Garc\u00eda,1
+Lomb\u00e1n,Paulo Oliveira,1
+Lomb\u00e1n,T. Inui,1
+Dani Garc\u00eda,Paulo Oliveira,1
+Paulo Oliveira,T. Inui,1
+Arbilla,M. Dmitrovi\u0107,1
+Jos\u00e9 \u00c1ngel,Lomb\u00e1n,1

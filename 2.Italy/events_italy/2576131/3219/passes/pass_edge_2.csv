@@ -1,0 +1,44 @@
+Source,Target,Weight
+F. Lucioni,L. Del Pinto,3
+G. Pu\u015fca\u015f,L. Del Pinto,2
+A. Costa,V. Parigini,2
+F. Lucioni,A. Costa,2
+B. Djimsiti,F. Lucioni,2
+L. Venuti,L. Del Pinto,2
+L. Del Pinto,V. Parigini,2
+C. Lombardi,F. Lucioni,2
+L. Venuti,G. Pu\u015fca\u015f,2
+L. Del Pinto,D. Cataldi,1
+L. Del Pinto,L. Venuti,1
+V. Parigini,V. Belec,1
+V. Parigini,D. Cataldi,1
+V. Belec,V. Parigini,1
+V. Parigini,A. Costa,1
+L. Venuti,V. Parigini,1
+F. Lucioni,B. Djimsiti,1
+G. Pu\u015fca\u015f,F. Lucioni,1
+A. Costa,L. Venuti,1
+L. Venuti,B. Djimsiti,1
+B. Djimsiti,C. Lombardi,1
+V. Parigini,B. Djimsiti,1
+L. Del Pinto,A. Ciciretti,1
+V. Belec,D. Cataldi,1
+L. Del Pinto,G. Pu\u015fca\u015f,1
+L. Venuti,V. Belec,1
+G. Pu\u015fca\u015f,L. Venuti,1
+G. Pu\u015fca\u015f,V. Parigini,1
+V. Parigini,L. Del Pinto,1
+V. Parigini,C. Lombardi,1
+V. Belec,G. Pu\u015fca\u015f,1
+A. Ciciretti,L. Venuti,1
+C. Lombardi,G. Pu\u015fca\u015f,1
+A. Costa,F. Lucioni,1
+D. Cataldi,A. Ciciretti,1
+V. Parigini,L. Venuti,1
+D. Cataldi,A. Costa,1
+A. Ciciretti,V. Parigini,1
+L. Del Pinto,V. Belec,1
+B. Djimsiti,L. Venuti,1
+F. Lucioni,C. Lombardi,1
+D. Cataldi,L. Venuti,1
+L. Del Pinto,B. Djimsiti,1

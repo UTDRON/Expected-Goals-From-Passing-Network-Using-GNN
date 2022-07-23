@@ -1,0 +1,35 @@
+Source,Target,Weight
+Adri\u00e1n,F. Ricca,4
+F. Ricca,Adri\u00e1n,3
+F. Ricca,Bueno,2
+Bueno,Miquel,2
+Bueno,Luis Hern\u00e1ndez,2
+\u00c1lex Mula,F. Ricca,1
+Recio,\u00c1lex Mula,1
+Y. En-Nesyri,Miquel,1
+\u00c1lex Mula,Adri\u00e1n,1
+Luis Hern\u00e1ndez,\u00c1lex Mula,1
+\u00c1lex Mula,Recio,1
+Luis Hern\u00e1ndez,A. Pe\u00f1aranda,1
+F. Ricca,\u00c1lex Mula,1
+Adri\u00e1n,Bueno,1
+Bueno,F. Ricca,1
+R. Rosales,F. Ricca,1
+Miquel,Y. En-Nesyri,1
+Miquel,F. Ricca,1
+Adri\u00e1n,Recio,1
+Miquel,Roberto,1
+F. Ricca,Miquel,1
+F. Ricca,R. Rosales,1
+A. Pe\u00f1aranda,Bueno,1
+Recio,Miquel,1
+Luis Hern\u00e1ndez,F. Ricca,1
+Miquel,Adri\u00e1n,1
+Roberto,Recio,1
+Miquel,Luis Hern\u00e1ndez,1
+Recio,A. Pe\u00f1aranda,1
+Recio,Adri\u00e1n,1
+Adri\u00e1n,Miquel,1
+A. Pe\u00f1aranda,Luis Hern\u00e1ndez,1
+F. Ricca,Recio,1
+Luis Hern\u00e1ndez,Bueno,1

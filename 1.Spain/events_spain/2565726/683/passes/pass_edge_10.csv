@@ -1,0 +1,73 @@
+Source,Target,Weight
+Recio,Keko,4
+Keko,R. Rosales,4
+R. Rosales,Recio,4
+Keko,Borja Bast\u00f3n,3
+M. Iturra,R. Rosales,3
+Diego Gonz\u00e1lez,Javi Ontiveros,3
+R. Rosales,Keko,3
+Luis Hern\u00e1ndez,Miquel,3
+A. Pe\u00f1aranda,Recio,2
+Luis Hern\u00e1ndez,Diego Gonz\u00e1lez,2
+Keko,Miquel,2
+Miquel,Borja Bast\u00f3n,2
+Luis Hern\u00e1ndez,Roberto,2
+Diego Gonz\u00e1lez,Y. En-Nesyri,2
+Recio,R. Rosales,2
+R. Rosales,Luis Hern\u00e1ndez,2
+Keko,Recio,2
+Chory Castro,Keko,2
+Miquel,Luis Hern\u00e1ndez,2
+Luis Hern\u00e1ndez,R. Rosales,2
+Recio,M. Iturra,2
+Javi Ontiveros,Recio,2
+Javi Ontiveros,Keko,1
+Chory Castro,Recio,1
+Roberto,Luis Hern\u00e1ndez,1
+Roberto,Javi Ontiveros,1
+Keko,Luis Hern\u00e1ndez,1
+Miquel,Diego Gonz\u00e1lez,1
+R. Rosales,A. Pe\u00f1aranda,1
+Luis Hern\u00e1ndez,Keko,1
+Chory Castro,Miquel,1
+Y. En-Nesyri,Diego Gonz\u00e1lez,1
+Y. En-Nesyri,Luis Hern\u00e1ndez,1
+Diego Gonz\u00e1lez,Keko,1
+Javi Ontiveros,Y. En-Nesyri,1
+Recio,Chory Castro,1
+M. Iturra,Roberto,1
+Miquel,Y. En-Nesyri,1
+R. Rosales,Javi Ontiveros,1
+Miquel,Recio,1
+R. Rosales,Diego Gonz\u00e1lez,1
+Borja Bast\u00f3n,Luis Hern\u00e1ndez,1
+Miquel,M. Iturra,1
+Javi Ontiveros,Borja Bast\u00f3n,1
+Luis Hern\u00e1ndez,Recio,1
+Diego Gonz\u00e1lez,R. Rosales,1
+Chory Castro,Luis Hern\u00e1ndez,1
+R. Rosales,Chory Castro,1
+Borja Bast\u00f3n,Javi Ontiveros,1
+Roberto,Miquel,1
+Javi Ontiveros,Diego Gonz\u00e1lez,1
+Roberto,Diego Gonz\u00e1lez,1
+Borja Bast\u00f3n,Diego Gonz\u00e1lez,1
+Miquel,Javi Ontiveros,1
+Diego Gonz\u00e1lez,A. Pe\u00f1aranda,1
+Javi Ontiveros,Roberto,1
+Diego Gonz\u00e1lez,Chory Castro,1
+M. Iturra,Chory Castro,1
+Keko,Diego Gonz\u00e1lez,1
+Recio,Javi Ontiveros,1
+Diego Gonz\u00e1lez,M. Iturra,1
+M. Iturra,Luis Hern\u00e1ndez,1
+Borja Bast\u00f3n,R. Rosales,1
+Keko,M. Iturra,1
+Recio,Luis Hern\u00e1ndez,1
+Javi Ontiveros,Miquel,1
+Borja Bast\u00f3n,Keko,1
+A. Pe\u00f1aranda,Keko,1
+Recio,A. Pe\u00f1aranda,1
+Y. En-Nesyri,Chory Castro,1
+Recio,Diego Gonz\u00e1lez,1
+Borja Bast\u00f3n,Miquel,1

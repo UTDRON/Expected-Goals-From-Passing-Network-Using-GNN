@@ -1,0 +1,16 @@
+Source,Target,Weight
+B. Martella,R. Mandragora,2
+A. Nalini,B. Martella,2
+R. Mandragora,B. Martella,1
+B. Martella,M. Sampirisi,1
+B. Martella,A. Benali,1
+F. Ricci,M. Sampirisi,1
+F. Ceccherini,A. Benali,1
+A. Benali,M. Sampirisi,1
+M. Sampirisi,F. Ricci,1
+A. Benali,A. Nalini,1
+B. Martella,A. Nalini,1
+M. Sampirisi,B. Martella,1
+R. Mandragora,A. Benali,1
+A. Benali,B. Martella,1
+M. Sampirisi,A. Budimir,1

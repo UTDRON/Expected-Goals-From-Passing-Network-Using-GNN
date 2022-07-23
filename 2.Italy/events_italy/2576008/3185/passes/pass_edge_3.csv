@@ -1,0 +1,81 @@
+Source,Target,Weight
+D. Baselli,C. Molinaro,8
+M. Niang,C. Molinaro,8
+T. Rinc\u00f3n,N. N'Koulou,8
+Lyanco,D. Baselli,8
+D. Baselli,M. Niang,6
+S. Sirigu,Lyanco,6
+C. Molinaro,A. Belotti,5
+C. Molinaro,Lyanco,4
+Iago Falqu\u00e9,T. Rinc\u00f3n,4
+N. N'Koulou,S. Sirigu,4
+Iago Falqu\u00e9,C. Ansaldi,4
+C. Molinaro,A. Ljaji\u0107,4
+N. N'Koulou,T. Rinc\u00f3n,4
+D. Baselli,Iago Falqu\u00e9,3
+Lyanco,A. Ljaji\u0107,3
+D. Baselli,T. Rinc\u00f3n,3
+A. Belotti,Iago Falqu\u00e9,3
+N. N'Koulou,Iago Falqu\u00e9,3
+C. Ansaldi,Iago Falqu\u00e9,3
+N. N'Koulou,C. Ansaldi,3
+T. Rinc\u00f3n,D. Baselli,3
+T. Rinc\u00f3n,Lyanco,3
+C. Molinaro,M. Niang,3
+Lyanco,T. Rinc\u00f3n,3
+C. Molinaro,D. Baselli,3
+C. Molinaro,T. Rinc\u00f3n,3
+A. Ljaji\u0107,D. Baselli,3
+Lyanco,N. N'Koulou,3
+M. Niang,Lyanco,3
+Iago Falqu\u00e9,A. Belotti,3
+Iago Falqu\u00e9,N. N'Koulou,3
+C. Ansaldi,A. Belotti,3
+T. Rinc\u00f3n,M. Niang,2
+M. Niang,T. Rinc\u00f3n,2
+S. Sirigu,C. Ansaldi,2
+C. Molinaro,S. Sirigu,2
+D. Baselli,N. N'Koulou,2
+N. N'Koulou,M. Niang,2
+A. Belotti,Lyanco,2
+A. Belotti,T. Rinc\u00f3n,2
+C. Ansaldi,Lyanco,2
+Lyanco,C. Molinaro,2
+M. Niang,D. Baselli,2
+Lyanco,S. Sirigu,2
+T. Rinc\u00f3n,C. Ansaldi,2
+A. Ljaji\u0107,Iago Falqu\u00e9,2
+N. N'Koulou,D. Baselli,2
+S. Sirigu,N. N'Koulou,2
+N. N'Koulou,Lyanco,2
+A. Ljaji\u0107,M. Niang,1
+Iago Falqu\u00e9,S. Sirigu,1
+T. Rinc\u00f3n,A. Belotti,1
+T. Rinc\u00f3n,Iago Falqu\u00e9,1
+A. Belotti,N. N'Koulou,1
+C. Ansaldi,S. Sirigu,1
+Iago Falqu\u00e9,C. Molinaro,1
+Lyanco,M. Niang,1
+C. Ansaldi,M. Niang,1
+Lyanco,A. Belotti,1
+A. Belotti,C. Ansaldi,1
+C. Ansaldi,N. N'Koulou,1
+D. Baselli,C. Ansaldi,1
+A. Ljaji\u0107,N. N'Koulou,1
+S. Sirigu,C. Molinaro,1
+M. Niang,Iago Falqu\u00e9,1
+A. Ljaji\u0107,C. Molinaro,1
+A. Ljaji\u0107,S. Sirigu,1
+A. Belotti,A. Ljaji\u0107,1
+C. Ansaldi,A. Ljaji\u0107,1
+A. Belotti,D. Baselli,1
+N. N'Koulou,C. Molinaro,1
+C. Ansaldi,D. Baselli,1
+C. Molinaro,C. Ansaldi,1
+Iago Falqu\u00e9,D. Baselli,1
+T. Rinc\u00f3n,C. Molinaro,1
+A. Belotti,C. Molinaro,1
+D. Baselli,A. Belotti,1
+C. Ansaldi,C. Molinaro,1
+A. Belotti,S. Sirigu,1
+S. Sirigu,Iago Falqu\u00e9,1

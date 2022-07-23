@@ -1,0 +1,27 @@
+Source,Target,Weight
+D. Zapata,D. Praet,2
+F. Quagliarella,M. Silvestre,2
+L. Torreira,K. Linetty,1
+E. Viviano,N. Murru,1
+J. Sala,E. Viviano,1
+D. Zapata,L. Torreira,1
+V. Regini,F. Quagliarella,1
+K. Linetty,G. Caprari,1
+F. Quagliarella,D. Zapata,1
+D. Praet,J. Sala,1
+J. Sala,D. Praet,1
+L. Torreira,N. Murru,1
+E. Viviano,F. Quagliarella,1
+D. Praet,E. Viviano,1
+D. Praet,D. Zapata,1
+M. Silvestre,J. Sala,1
+G. Caprari,J. Sala,1
+M. Silvestre,V. Regini,1
+V. Regini,M. Silvestre,1
+M. Silvestre,D. Praet,1
+D. Praet,L. Torreira,1
+N. Murru,K. Linetty,1
+N. Murru,V. Regini,1
+J. Sala,M. Silvestre,1
+M. Silvestre,F. Quagliarella,1
+K. Linetty,L. Torreira,1

@@ -1,0 +1,80 @@
+Source,Target,Weight
+Jordi Alba,Iniesta,13
+Sergio Busquets,L. Messi,11
+Iniesta,Jordi Alba,11
+Sergio Busquets,I. Rakiti\u0107,8
+L. Messi,Sergio Busquets,7
+I. Rakiti\u0107,Sergio Busquets,7
+N\u00e9lson Semedo,I. Rakiti\u0107,7
+T. Vermaelen,Sergio Busquets,6
+Sergio Busquets,T. Vermaelen,6
+Jordi Alba,T. Vermaelen,5
+I. Rakiti\u0107,L. Messi,5
+L. Messi,Iniesta,5
+S. Umtiti,Sergio Busquets,5
+L. Su\u00e1rez,Paulinho,5
+T. Vermaelen,Jordi Alba,5
+I. Rakiti\u0107,N\u00e9lson Semedo,5
+Sergio Busquets,N\u00e9lson Semedo,4
+Iniesta,Sergio Busquets,4
+N\u00e9lson Semedo,Paulinho,4
+I. Rakiti\u0107,S. Umtiti,4
+Paulinho,L. Messi,4
+N\u00e9lson Semedo,L. Messi,4
+L. Messi,L. Su\u00e1rez,4
+Paulinho,N\u00e9lson Semedo,4
+Paulinho,Jordi Alba,4
+L. Messi,Paulinho,3
+L. Messi,I. Rakiti\u0107,3
+Iniesta,L. Su\u00e1rez,3
+Paulinho,Iniesta,3
+Iniesta,Paulinho,3
+S. Umtiti,I. Rakiti\u0107,3
+L. Messi,T. Vermaelen,3
+Jordi Alba,Paulinho,3
+Sergio Busquets,S. Umtiti,3
+N\u00e9lson Semedo,Sergio Busquets,2
+L. Su\u00e1rez,L. Messi,2
+T. Vermaelen,Iniesta,2
+T. Vermaelen,S. Umtiti,2
+Jordi Alba,L. Su\u00e1rez,2
+Sergio Busquets,Jordi Alba,2
+N\u00e9lson Semedo,L. Su\u00e1rez,2
+Paulinho,Sergio Busquets,2
+L. Su\u00e1rez,N\u00e9lson Semedo,2
+S. Umtiti,N\u00e9lson Semedo,2
+L. Messi,N\u00e9lson Semedo,2
+S. Umtiti,T. Vermaelen,2
+Iniesta,L. Messi,2
+Jordi Alba,N\u00e9lson Semedo,2
+Iniesta,I. Rakiti\u0107,2
+Iniesta,S. Umtiti,2
+L. Su\u00e1rez,Iniesta,2
+S. Umtiti,Paulinho,1
+I. Rakiti\u0107,T. Vermaelen,1
+M. ter Stegen,Sergio Busquets,1
+M. ter Stegen,S. Umtiti,1
+N\u00e9lson Semedo,M. ter Stegen,1
+T. Vermaelen,I. Rakiti\u0107,1
+L. Messi,S. Umtiti,1
+Paulinho,M. ter Stegen,1
+M. ter Stegen,Jordi Alba,1
+Paulinho,T. Vermaelen,1
+I. Rakiti\u0107,Iniesta,1
+L. Su\u00e1rez,Jordi Alba,1
+Paulinho,S. Umtiti,1
+S. Umtiti,Iniesta,1
+N\u00e9lson Semedo,S. Umtiti,1
+Jordi Alba,Sergio Busquets,1
+L. Su\u00e1rez,I. Rakiti\u0107,1
+T. Vermaelen,L. Messi,1
+S. Umtiti,L. Messi,1
+I. Rakiti\u0107,L. Su\u00e1rez,1
+L. Messi,Jordi Alba,1
+S. Umtiti,Jordi Alba,1
+Sergio Busquets,Iniesta,1
+Jordi Alba,S. Umtiti,1
+Iniesta,M. ter Stegen,1
+I. Rakiti\u0107,Paulinho,1
+T. Vermaelen,M. ter Stegen,1
+M. ter Stegen,L. Su\u00e1rez,1

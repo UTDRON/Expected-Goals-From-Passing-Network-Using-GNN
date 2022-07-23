@@ -1,0 +1,43 @@
+Source,Target,Weight
+Yeray,Muniain,6
+De Marcos,Yeray,5
+Muniain,San Jos\u00e9,3
+Susaeta,Muniain,3
+San Jos\u00e9,Yeray,2
+I\u00f1aki Williams,De Marcos,2
+Muniain,Susaeta,2
+Susaeta,De Marcos,2
+De Marcos,San Jos\u00e9,2
+Muniain,Yeray,2
+Balenziaga,Susaeta,2
+Susaeta,Yeray,2
+Aduriz,Susaeta,2
+Ra\u00fal Garc\u00eda,Yeray,1
+Balenziaga,De Marcos,1
+San Jos\u00e9,Susaeta,1
+San Jos\u00e9,Muniain,1
+Muniain,De Marcos,1
+Yeray,Susaeta,1
+Aduriz,I\u00f1aki Williams,1
+Yeray,\u00cd\u00f1igo Mart\u00ednez,1
+Susaeta,Balenziaga,1
+Muniain,I\u00f1aki Williams,1
+\u00cd\u00f1igo Mart\u00ednez,San Jos\u00e9,1
+I\u00f1aki Williams,Aduriz,1
+Susaeta,San Jos\u00e9,1
+San Jos\u00e9,De Marcos,1
+Arrizabalaga,\u00cd\u00f1igo Mart\u00ednez,1
+\u00cd\u00f1igo Mart\u00ednez,Balenziaga,1
+Yeray,De Marcos,1
+Yeray,Aduriz,1
+\u00cd\u00f1igo Mart\u00ednez,Arrizabalaga,1
+Muniain,\u00cd\u00f1igo Mart\u00ednez,1
+\u00cd\u00f1igo Mart\u00ednez,Susaeta,1
+Susaeta,\u00cd\u00f1igo Mart\u00ednez,1
+San Jos\u00e9,\u00cd\u00f1igo Mart\u00ednez,1
+Yeray,I\u00f1aki Williams,1
+De Marcos,Susaeta,1
+Aduriz,Ra\u00fal Garc\u00eda,1
+\u00cd\u00f1igo Mart\u00ednez,Aduriz,1
+San Jos\u00e9,Balenziaga,1
+Balenziaga,Aduriz,1

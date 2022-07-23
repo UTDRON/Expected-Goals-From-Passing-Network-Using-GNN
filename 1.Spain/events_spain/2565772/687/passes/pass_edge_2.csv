@@ -1,0 +1,13 @@
+Source,Target,Weight
+Zurutuza,Illarramendi,2
+Illarramendi,Ra\u00fal Navas,1
+Illarramendi,De La Bella,1
+Juanmi,De La Bella,1
+Odriozola,Juanmi,1
+Canales,Juanmi,1
+Ra\u00fal Navas,G. Rulli,1
+De La Bella,Zurutuza,1
+De La Bella,Odriozola,1
+Canales,Zurutuza,1
+De La Bella,Canales,1
+G. Rulli,De La Bella,1

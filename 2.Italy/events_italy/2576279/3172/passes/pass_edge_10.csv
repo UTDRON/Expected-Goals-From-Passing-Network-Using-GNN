@@ -1,0 +1,33 @@
+Source,Target,Weight
+R. Gosens,B. Cristante,2
+B. Cristante,A. Masiello,2
+A. Masiello,A. G\u00f3mez,2
+A. Masiello,R. Gosens,2
+M. Barrow,H. Hateboer,1
+H. Hateboer,M. de Roon,1
+R. Gosens,E. Berisha,1
+R. Freuler,A. G\u00f3mez,1
+M. Caldara,B. Cristante,1
+E. Berisha,M. Barrow,1
+R. Gosens,M. Caldara,1
+M. Caldara,T. Castagne,1
+B. Cristante,R. Freuler,1
+A. G\u00f3mez,R. Freuler,1
+R. Freuler,R. Gosens,1
+B. Cristante,R. Gosens,1
+A. G\u00f3mez,B. Cristante,1
+T. Castagne,M. Caldara,1
+A. G\u00f3mez,A. Masiello,1
+M. Barrow,E. Berisha,1
+M. Barrow,A. G\u00f3mez,1
+B. Cristante,M. Barrow,1
+R. Freuler,B. Cristante,1
+E. Berisha,A. Masiello,1
+R. Gosens,M. Barrow,1
+E. Berisha,T. Castagne,1
+M. Caldara,E. Berisha,1
+T. Castagne,M. de Roon,1
+M. de Roon,R. Freuler,1
+M. de Roon,M. Barrow,1
+A. G\u00f3mez,R. Gosens,1
+M. Barrow,B. Cristante,1

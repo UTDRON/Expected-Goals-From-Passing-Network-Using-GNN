@@ -1,0 +1,17 @@
+Source,Target,Weight
+M. Silvestre,J. Sala,2
+F. Quagliarella,M. Silvestre,2
+M. Silvestre,F. Quagliarella,2
+V. Regini,G. Ferrari,1
+K. Linetty,V. Regini,1
+J. Sala,D. Praet,1
+V. Regini,D. Zapata,1
+D. Zapata,V. Regini,1
+G. Ferrari,M. Silvestre,1
+V. Regini,M. Silvestre,1
+J. Sala,M. Silvestre,1
+F. Quagliarella,G. Caprari,1
+V. Regini,K. Linetty,1
+M. Silvestre,G. Ferrari,1
+G. Ferrari,V. Regini,1
+D. Praet,F. Quagliarella,1

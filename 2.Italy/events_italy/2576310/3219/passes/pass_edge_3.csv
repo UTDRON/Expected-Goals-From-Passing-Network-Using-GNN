@@ -1,0 +1,33 @@
+Source,Target,Weight
+B. Sagna,B. Djimsiti,3
+B. Djimsiti,B. Sagna,3
+L. Venuti,B. Djimsiti,2
+B. Sagna,P. Iemmello,2
+L. Venuti,C. Diabat\u00e9,2
+V. Parigini,L. Venuti,2
+P. Iemmello,Sandro,2
+B. Djimsiti,Sandro,1
+G. Letizia,V. Parigini,1
+P. Iemmello,L. Venuti,1
+V. Parigini,Sandro,1
+Sandro,V. Parigini,1
+G. Letizia,L. Venuti,1
+L. Venuti,C. Puggioni,1
+C. Puggioni,B. Sagna,1
+Sandro,P. Iemmello,1
+Sandro,N. Viola,1
+C. Diabat\u00e9,N. Viola,1
+P. Iemmello,B. Djimsiti,1
+N. Viola,V. Parigini,1
+C. Puggioni,P. Iemmello,1
+B. Djimsiti,L. Venuti,1
+Sandro,G. Letizia,1
+C. Diabat\u00e9,L. Venuti,1
+B. Sagna,B. Gyamfi,1
+B. Djimsiti,C. Puggioni,1
+L. Venuti,N. Viola,1
+B. Sagna,Sandro,1
+Sandro,B. Sagna,1
+N. Viola,B. Sagna,1
+B. Gyamfi,P. Iemmello,1
+P. Iemmello,B. Sagna,1

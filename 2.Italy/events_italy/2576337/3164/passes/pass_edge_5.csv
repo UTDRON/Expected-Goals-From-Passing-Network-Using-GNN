@@ -1,0 +1,22 @@
+Source,Target,Weight
+L. Capezzi,F. Quagliarella,2
+N. Murru,F. Quagliarella,2
+F. Quagliarella,N. Murru,2
+V. Regini,J. Andersen,2
+N. Murru,V. Regini,2
+K. Linetty,J. Andersen,1
+J. Andersen,N. Murru,1
+J. Andersen,B. Bereszy\u0144ski,1
+F. Quagliarella,V. Regini,1
+K. Linetty,L. Capezzi,1
+V. Regini,N. Murru,1
+D. Kownacki,V. Regini,1
+J. Andersen,K. Linetty,1
+D. Kownacki,L. Capezzi,1
+V. Regini,L. Capezzi,1
+J. Andersen,D. Kownacki,1
+B. Bereszy\u0144ski,D. Kownacki,1
+N. Murru,L. Capezzi,1
+L. Capezzi,D. Kownacki,1
+L. Capezzi,N. Murru,1
+D. Kownacki,J. Andersen,1

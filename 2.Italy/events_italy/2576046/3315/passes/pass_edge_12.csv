@@ -1,0 +1,14 @@
+Source,Target,Weight
+M. Politano,F. Peluso,2
+F. Peluso,M. Politano,2
+F. Magnanelli,M. Politano,1
+D. Berardi,M. Politano,1
+S. Sensi,M. Gazzola,1
+M. Gazzola,S. Missiroli,1
+M. Politano,D. Berardi,1
+M. Politano,S. Sensi,1
+S. Sensi,F. Peluso,1
+F. Peluso,S. Sensi,1
+S. Missiroli,D. Berardi,1
+S. Sensi,D. Berardi,1
+D. Berardi,F. Magnanelli,1

@@ -1,0 +1,36 @@
+Source,Target,Weight
+Chema,Luna,2
+C. Doukour\u00e9,Rober,2
+Luna,Chema,2
+Ivi,C. Doukour\u00e9,2
+J. Lerma,Rober,2
+C. Doukour\u00e9,Ivi,2
+Chema,Jos\u00e9 Luis Morales,2
+Ra\u00fal Fern\u00e1ndez,\u00c1lex Alegr\u00eda,2
+Ivi,Rober,2
+Rober,C. Doukour\u00e9,2
+Rober,Sergio Postigo,2
+Rober,Ivi,2
+Luna,\u00c1lex Alegr\u00eda,2
+Rober,Luna,1
+Luna,E. Bardhi,1
+\u00c1lex Alegr\u00eda,J. Lerma,1
+E. Bardhi,J. Lerma,1
+C. Doukour\u00e9,J. Lerma,1
+Rober,J. Lerma,1
+J. Lerma,Luna,1
+J. Lerma,Ra\u00fal Fern\u00e1ndez,1
+J. Lerma,Ivi,1
+Chema,\u00c1lex Alegr\u00eda,1
+\u00c1lex Alegr\u00eda,Chema,1
+Jos\u00e9 Luis Morales,Rober,1
+\u00c1lex Alegr\u00eda,C. Doukour\u00e9,1
+Jos\u00e9 Luis Morales,Chema,1
+Sergio Postigo,Chema,1
+Sergio Postigo,Ivi,1
+Ivi,J. Lerma,1
+\u00c1lex Alegr\u00eda,Jos\u00e9 Luis Morales,1
+C. Doukour\u00e9,Sergio Postigo,1
+Sergio Postigo,Ra\u00fal Fern\u00e1ndez,1
+Jos\u00e9 Luis Morales,C. Doukour\u00e9,1
+\u00c1lex Alegr\u00eda,Luna,1

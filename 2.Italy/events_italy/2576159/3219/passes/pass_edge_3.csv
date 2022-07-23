@@ -1,0 +1,119 @@
+Source,Target,Weight
+J. Billong,B. Djimsiti,17
+N. Viola,A. Costa,16
+L. Memushaj,N. Viola,15
+L. Memushaj,J. Billong,15
+A. Costa,N. Viola,13
+N. Viola,L. Memushaj,13
+J. Billong,L. Memushaj,11
+Guilherme,L. Memushaj,11
+L. Memushaj,Guilherme,11
+B. Djimsiti,A. Costa,11
+A. Costa,B. Djimsiti,11
+N. Viola,L. Venuti,10
+B. Djimsiti,L. Memushaj,10
+L. Memushaj,C. Lombardi,9
+L. Venuti,E. Brignola,9
+B. Djimsiti,J. Billong,9
+C. Lombardi,J. Billong,8
+E. Brignola,L. Memushaj,8
+C. Lombardi,L. Memushaj,8
+J. Billong,Guilherme,7
+L. Memushaj,E. Brignola,7
+J. Billong,N. Viola,7
+B. Djimsiti,N. Viola,7
+A. Costa,L. Memushaj,7
+L. Venuti,N. Viola,6
+A. Costa,L. Venuti,6
+A. Costa,M. Coda,6
+L. Memushaj,B. Djimsiti,6
+L. Memushaj,A. Costa,6
+J. Billong,C. Lombardi,6
+L. Memushaj,L. Venuti,6
+N. Viola,B. Djimsiti,6
+L. Venuti,A. Costa,6
+L. Venuti,L. Memushaj,6
+N. Viola,J. Billong,6
+Guilherme,C. Lombardi,6
+M. Coda,L. Venuti,6
+V. Belec,A. Costa,5
+Guilherme,J. Billong,5
+N. Viola,E. Brignola,5
+L. Memushaj,G. Letizia,5
+Guilherme,N. Viola,5
+G. Letizia,N. Viola,5
+Guilherme,G. Letizia,5
+G. Letizia,J. Billong,4
+E. Brignola,C. Lombardi,4
+E. Brignola,A. Costa,4
+M. Coda,Guilherme,4
+G. Letizia,L. Memushaj,4
+E. Brignola,N. Viola,4
+A. Costa,E. Brignola,3
+E. Brignola,J. Billong,3
+C. Lombardi,Guilherme,3
+A. Costa,Guilherme,3
+C. Lombardi,M. Coda,3
+V. Belec,J. Billong,3
+L. Venuti,M. Coda,3
+M. Coda,N. Viola,3
+J. Billong,V. Belec,3
+J. Billong,G. Letizia,3
+E. Brignola,L. Venuti,3
+M. Coda,G. Letizia,3
+J. Billong,M. Coda,3
+L. Memushaj,M. Coda,3
+B. Djimsiti,M. Coda,3
+N. Viola,M. Coda,3
+A. Costa,J. Billong,3
+M. Coda,L. Memushaj,3
+B. Djimsiti,V. Belec,3
+L. Venuti,C. Lombardi,2
+M. Coda,B. Djimsiti,2
+L. Venuti,V. Belec,2
+N. Viola,C. Lombardi,2
+M. D'Alessandro,F. \u0110uri\u010di\u0107,2
+V. Belec,B. Djimsiti,2
+L. Venuti,J. Billong,2
+F. \u0110uri\u010di\u0107,Guilherme,2
+F. \u0110uri\u010di\u0107,J. Billong,2
+J. Billong,L. Venuti,2
+Guilherme,L. Venuti,2
+L. Venuti,Guilherme,2
+M. D'Alessandro,A. Costa,2
+A. Costa,V. Belec,2
+N. Viola,Guilherme,2
+B. Djimsiti,F. \u0110uri\u010di\u0107,2
+M. Coda,E. Brignola,2
+C. Lombardi,V. Belec,2
+C. Lombardi,L. Venuti,2
+E. Brignola,Guilherme,1
+B. Djimsiti,M. D'Alessandro,1
+V. Belec,L. Venuti,1
+M. D'Alessandro,M. Coda,1
+C. Lombardi,A. Costa,1
+V. Belec,G. Letizia,1
+V. Belec,L. Memushaj,1
+Guilherme,M. D'Alessandro,1
+E. Brignola,V. Belec,1
+V. Belec,E. Brignola,1
+N. Viola,G. Letizia,1
+Guilherme,B. Djimsiti,1
+G. Letizia,Guilherme,1
+F. \u0110uri\u010di\u0107,M. D'Alessandro,1
+G. Letizia,F. \u0110uri\u010di\u0107,1
+J. Billong,F. \u0110uri\u010di\u0107,1
+N. Viola,M. D'Alessandro,1
+M. Coda,J. Billong,1
+G. Letizia,B. Djimsiti,1
+B. Djimsiti,Guilherme,1
+F. \u0110uri\u010di\u0107,L. Memushaj,1
+C. Lombardi,B. Djimsiti,1
+N. Viola,V. Belec,1
+V. Belec,Guilherme,1
+Guilherme,A. Costa,1
+Guilherme,E. Brignola,1
+C. Lombardi,N. Viola,1
+G. Letizia,A. Costa,1
+G. Letizia,M. D'Alessandro,1
+J. Billong,A. Costa,1

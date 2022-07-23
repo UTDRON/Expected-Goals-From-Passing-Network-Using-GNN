@@ -1,0 +1,44 @@
+Source,Target,Weight
+Rodri,Trigueros,5
+Trigueros,Pablo Fornals,3
+Pablo Fornals,Jaume Costa,3
+V\u00edctor Ru\u00edz,Jaume Costa,3
+Jaume Costa,Pablo Fornals,3
+Trigueros,V\u00edctor Ru\u00edz,3
+Trigueros,Rodri,3
+Pablo Fornals,Samu Castillejo,2
+Pablo Fornals,Trigueros,2
+D. Bonera,Mario,2
+Mario,D. Bonera,2
+D. Bonera,V\u00edctor Ru\u00edz,2
+Samu Castillejo,D. Bonera,2
+V\u00edctor Ru\u00edz,Rodri,2
+Pablo Fornals,Mario,2
+Mario,Pablo Fornals,1
+C. Bakambu,Samu Castillejo,1
+C. Bakambu,Pablo Fornals,1
+M. Barbosa,Trigueros,1
+Samu Castillejo,V\u00edctor Ru\u00edz,1
+C. Bacca,Mario,1
+Rodri,C. Bakambu,1
+C. Bacca,Trigueros,1
+Jaume Costa,Rodri,1
+Samu Castillejo,Mario,1
+Rodri,C. Bacca,1
+V\u00edctor Ru\u00edz,Trigueros,1
+Mario,Rodri,1
+Mario,C. Bakambu,1
+Jaume Costa,D. Bonera,1
+C. Bacca,Pablo Fornals,1
+Pablo Fornals,Rodri,1
+Trigueros,Samu Castillejo,1
+Samu Castillejo,Pablo Fornals,1
+Mario,C. Bacca,1
+Pablo Fornals,C. Bacca,1
+Rodri,Pablo Fornals,1
+C. Bacca,D. Bonera,1
+Jaume Costa,Trigueros,1
+D. Bonera,Rodri,1
+D. Bonera,Samu Castillejo,1
+Trigueros,C. Bacca,1
+Rodri,M. Barbosa,1

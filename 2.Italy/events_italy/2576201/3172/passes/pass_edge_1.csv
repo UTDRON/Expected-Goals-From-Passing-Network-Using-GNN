@@ -1,0 +1,80 @@
+Source,Target,Weight
+J. Palomino,R. Freuler,8
+R. Freuler,A. G\u00f3mez,7
+G. Mancini,M. de Roon,7
+T. Castagne,G. Mancini,5
+M. de Roon,G. Mancini,5
+J. Palomino,R. Gosens,4
+R. Freuler,J. Palomino,4
+G. Mancini,A. Petagna,4
+A. Petagna,G. Mancini,4
+J. Palomino,A. G\u00f3mez,4
+M. de Roon,J. Palomino,4
+A. Petagna,M. de Roon,3
+A. G\u00f3mez,M. Caldara,3
+G. Mancini,B. Cristante,3
+T. Castagne,M. de Roon,3
+A. G\u00f3mez,R. Gosens,3
+R. Freuler,M. de Roon,3
+M. Caldara,G. Mancini,3
+R. Gosens,R. Freuler,3
+R. Gosens,J. Palomino,3
+R. Gosens,M. Caldara,3
+G. Mancini,T. Castagne,3
+A. Petagna,A. G\u00f3mez,3
+A. G\u00f3mez,R. Freuler,3
+A. G\u00f3mez,T. Castagne,3
+J. Palomino,A. Petagna,2
+B. Cristante,G. Mancini,2
+J. Palomino,B. Cristante,2
+M. de Roon,M. Caldara,2
+B. Cristante,A. G\u00f3mez,2
+A. G\u00f3mez,J. Palomino,2
+M. de Roon,T. Castagne,2
+M. Caldara,M. de Roon,2
+P. Gollini,J. Palomino,2
+B. Cristante,T. Castagne,2
+T. Castagne,A. Petagna,2
+R. Freuler,R. Gosens,2
+R. Gosens,B. Cristante,2
+A. G\u00f3mez,M. de Roon,2
+M. de Roon,A. G\u00f3mez,2
+M. Caldara,R. Gosens,2
+A. G\u00f3mez,A. Petagna,2
+A. Petagna,T. Castagne,2
+M. Caldara,J. Palomino,2
+M. de Roon,B. Cristante,2
+R. Freuler,M. Caldara,2
+R. Gosens,A. Petagna,1
+A. Petagna,J. Palomino,1
+B. Cristante,R. Gosens,1
+G. Mancini,R. Gosens,1
+T. Castagne,R. Gosens,1
+B. Cristante,A. Petagna,1
+A. G\u00f3mez,G. Mancini,1
+P. Gollini,M. Caldara,1
+G. Mancini,J. Palomino,1
+J. Palomino,T. Castagne,1
+P. Gollini,B. Cristante,1
+M. Caldara,T. Castagne,1
+B. Cristante,J. Palomino,1
+J. Palomino,P. Gollini,1
+T. Castagne,B. Cristante,1
+T. Castagne,J. Palomino,1
+R. Gosens,A. G\u00f3mez,1
+M. Caldara,P. Gollini,1
+B. Cristante,M. Caldara,1
+M. de Roon,R. Freuler,1
+B. Cristante,R. Freuler,1
+M. Caldara,A. Petagna,1
+M. de Roon,P. Gollini,1
+G. Mancini,P. Gollini,1
+M. Caldara,A. G\u00f3mez,1
+R. Gosens,P. Gollini,1
+P. Gollini,R. Freuler,1
+P. Gollini,G. Mancini,1
+A. G\u00f3mez,B. Cristante,1
+M. de Roon,A. Petagna,1
+G. Mancini,M. Caldara,1
+A. Petagna,R. Freuler,1
+T. Castagne,P. Gollini,1

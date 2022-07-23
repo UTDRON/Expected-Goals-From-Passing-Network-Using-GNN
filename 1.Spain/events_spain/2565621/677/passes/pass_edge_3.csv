@@ -1,0 +1,69 @@
+Source,Target,Weight
+Guilherme,Albentosa,4
+Sidnei,Guilherme,4
+Juanfran,Guilherme,4
+Guilherme,Juanfran,4
+Luisinho,Sidnei,4
+F. Andone,E. \u00c7olak,3
+C. Borges,Juanfran,3
+Fede Cartabia,Juanfran,3
+Juanfran,C. Borges,3
+Albentosa,Juanfran,3
+E. \u00c7olak,C. Borges,3
+C. Borges,Fede Cartabia,2
+F. Valverde,Luisinho,2
+Juanfran,Fede Cartabia,2
+Sidnei,F. Valverde,2
+E. \u00c7olak,Guilherme,2
+C. Borges,F. Andone,2
+Sidnei,Luisinho,2
+Luisinho,E. \u00c7olak,2
+C. Borges,Sidnei,2
+Luisinho,C. Borges,2
+Albentosa,Fede Cartabia,2
+Fede Cartabia,E. \u00c7olak,2
+Guilherme,Fede Cartabia,2
+Albentosa,Sidnei,2
+E. \u00c7olak,Luisinho,2
+Fede Cartabia,Albentosa,1
+F. Valverde,Sidnei,1
+Albentosa,F. Uzoho,1
+F. Andone,Luisinho,1
+E. \u00c7olak,Sidnei,1
+F. Uzoho,C. Borges,1
+C. Borges,Guilherme,1
+Luisinho,F. Andone,1
+F. Andone,C. Borges,1
+C. Borges,F. Valverde,1
+C. Borges,Luisinho,1
+F. Uzoho,F. Andone,1
+Luisinho,F. Valverde,1
+Guilherme,E. \u00c7olak,1
+Juanfran,F. Uzoho,1
+E. \u00c7olak,F. Valverde,1
+C. Borges,Albentosa,1
+Guilherme,F. Uzoho,1
+Albentosa,F. Valverde,1
+F. Andone,Albentosa,1
+Fede Cartabia,Luisinho,1
+F. Valverde,F. Andone,1
+Fede Cartabia,Sidnei,1
+F. Valverde,C. Borges,1
+E. \u00c7olak,Albentosa,1
+F. Uzoho,Albentosa,1
+Albentosa,Guilherme,1
+Juanfran,E. \u00c7olak,1
+C. Borges,E. \u00c7olak,1
+Sidnei,Albentosa,1
+F. Valverde,Guilherme,1
+E. \u00c7olak,Fede Cartabia,1
+F. Valverde,E. \u00c7olak,1
+Sidnei,C. Borges,1
+Albentosa,C. Borges,1
+Guilherme,Luisinho,1
+Juanfran,Albentosa,1
+Luisinho,Guilherme,1
+Fede Cartabia,F. Andone,1
+F. Uzoho,Luisinho,1
+Guilherme,C. Borges,1
+Sidnei,F. Uzoho,1

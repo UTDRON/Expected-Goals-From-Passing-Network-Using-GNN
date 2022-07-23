@@ -1,0 +1,23 @@
+Source,Target,Weight
+Aday,Borja Garc\u00eda,6
+Borja Garc\u00eda,Aday,4
+Timor,Aday,3
+Aday,Timor,3
+Timor,Bernardo Espinosa,2
+Pere Pons,Portu,2
+Borja Garc\u00eda,Timor,2
+Aday,M. Moreno,1
+Bernardo Espinosa,Juanpe,1
+Portu,C. Stuani,1
+Timor,Pere Pons,1
+M. Moreno,Timor,1
+C. Stuani,Aday,1
+Bernardo Espinosa,Aday,1
+Timor,Portu,1
+Juanpe,Aday,1
+Ramalho,C. Stuani,1
+M. Moreno,Ramalho,1
+Portu,Y. Bounou,1
+Portu,Timor,1
+Y. Bounou,M. Moreno,1
+Bernardo Espinosa,Pere Pons,1

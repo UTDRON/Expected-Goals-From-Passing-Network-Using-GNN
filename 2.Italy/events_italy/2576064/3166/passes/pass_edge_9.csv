@@ -1,0 +1,87 @@
+Source,Target,Weight
+E. Pulgar,F. Helander,8
+A. Poli,E. Krafth,7
+A. Poli,E. Pulgar,6
+A. Masina,\u00c1. Nagy,6
+\u00c1. Nagy,E. Pulgar,5
+G. Gonz\u00e1lez,Angelo da Costa,5
+Angelo da Costa,B. Petkovi\u0107,5
+E. Pulgar,A. Masina,5
+A. Masina,E. Pulgar,5
+E. Krafth,A. Poli,5
+G. Gonz\u00e1lez,A. Poli,4
+Angelo da Costa,G. Gonz\u00e1lez,4
+E. Krafth,G. Gonz\u00e1lez,4
+A. Poli,B. Petkovi\u0107,4
+\u00c1. Nagy,A. Masina,4
+B. Petkovi\u0107,A. Poli,4
+F. Di Francesco,A. Masina,4
+A. Masina,F. Helander,4
+B. Petkovi\u0107,E. Pulgar,4
+E. Pulgar,G. Gonz\u00e1lez,4
+F. Di Francesco,\u00c1. Nagy,3
+Angelo da Costa,A. Masina,3
+B. Petkovi\u0107,A. Masina,3
+F. Helander,G. Gonz\u00e1lez,3
+\u00c1. Nagy,B. Petkovi\u0107,3
+\u00c1. Nagy,F. Di Francesco,3
+E. Krafth,E. Pulgar,3
+A. Poli,G. Gonz\u00e1lez,3
+B. Petkovi\u0107,\u00c1. Nagy,3
+F. Di Francesco,B. Petkovi\u0107,3
+F. Helander,F. Di Francesco,3
+S. Verdi,A. Poli,2
+E. Pulgar,S. Verdi,2
+F. Helander,A. Poli,2
+E. Pulgar,Angelo da Costa,2
+E. Pulgar,F. Di Francesco,2
+G. Gonz\u00e1lez,A. Masina,2
+E. Pulgar,A. Poli,2
+G. Gonz\u00e1lez,E. Pulgar,2
+A. Poli,S. Verdi,2
+B. Petkovi\u0107,S. Verdi,2
+A. Masina,Angelo da Costa,2
+G. Gonz\u00e1lez,S. Verdi,2
+B. Petkovi\u0107,E. Krafth,2
+A. Poli,F. Di Francesco,2
+Angelo da Costa,A. Poli,2
+F. Helander,A. Masina,2
+G. Gonz\u00e1lez,E. Krafth,2
+A. Masina,F. Di Francesco,2
+E. Krafth,Angelo da Costa,2
+F. Helander,E. Pulgar,2
+A. Masina,B. Petkovi\u0107,2
+S. Verdi,F. Helander,2
+E. Pulgar,\u00c1. Nagy,2
+S. Verdi,Angelo da Costa,2
+B. Petkovi\u0107,G. Gonz\u00e1lez,2
+S. Verdi,E. Krafth,2
+A. Masina,E. Krafth,2
+E. Krafth,\u00c1. Nagy,1
+G. Gonz\u00e1lez,B. Petkovi\u0107,1
+G. Gonz\u00e1lez,F. Helander,1
+E. Krafth,F. Di Francesco,1
+E. Pulgar,B. Petkovi\u0107,1
+\u00c1. Nagy,A. Poli,1
+F. Helander,\u00c1. Nagy,1
+F. Helander,E. Krafth,1
+G. Gonz\u00e1lez,\u00c1. Nagy,1
+F. Helander,Angelo da Costa,1
+A. Masina,A. Poli,1
+Angelo da Costa,E. Pulgar,1
+F. Di Francesco,E. Pulgar,1
+S. Verdi,E. Pulgar,1
+E. Krafth,A. Masina,1
+F. Di Francesco,F. Helander,1
+\u00c1. Nagy,Angelo da Costa,1
+Angelo da Costa,S. Verdi,1
+F. Di Francesco,A. Poli,1
+C. Falletti,Angelo da Costa,1
+B. Petkovi\u0107,F. Di Francesco,1
+F. Di Francesco,S. Verdi,1
+E. Pulgar,E. Krafth,1
+F. Helander,C. Falletti,1
+E. Pulgar,C. Falletti,1
+\u00c1. Nagy,E. Krafth,1
+S. Verdi,\u00c1. Nagy,1
+E. Krafth,B. Petkovi\u0107,1

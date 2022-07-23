@@ -1,0 +1,56 @@
+Source,Target,Weight
+Zurutuza,Canales,5
+A. Januzaj,Canales,4
+De La Bella,Zurutuza,4
+Canales,Zurutuza,4
+Zurutuza,Illarramendi,4
+Canales,A. Januzaj,3
+Juanmi,H. Moreno,3
+Juanmi,De La Bella,3
+Zurutuza,De La Bella,3
+De La Bella,Juanmi,3
+Canales,Illarramendi,3
+Aritz Elustondo,A. Januzaj,2
+G. Rulli,A. Januzaj,2
+G. Rulli,Zurutuza,2
+Willian Jos\u00e9,Juanmi,2
+Illarramendi,De La Bella,2
+Juanmi,Zurutuza,2
+H. Moreno,Illarramendi,2
+Zurutuza,Aritz Elustondo,2
+De La Bella,H. Moreno,2
+Aritz Elustondo,Zurutuza,2
+Illarramendi,Ra\u00fal Navas,2
+G. Rulli,H. Moreno,2
+H. Moreno,De La Bella,2
+Zurutuza,Ra\u00fal Navas,2
+A. Januzaj,Zurutuza,2
+Illarramendi,Zurutuza,2
+Ra\u00fal Navas,Aritz Elustondo,2
+H. Moreno,Juanmi,2
+Zurutuza,Jon Bautista,1
+Illarramendi,Juanmi,1
+Aritz Elustondo,G. Rulli,1
+De La Bella,G. Rulli,1
+Willian Jos\u00e9,Canales,1
+Illarramendi,G. Rulli,1
+Illarramendi,Aritz Elustondo,1
+A. Januzaj,Willian Jos\u00e9,1
+Zurutuza,Willian Jos\u00e9,1
+Ra\u00fal Navas,Canales,1
+Ra\u00fal Navas,G. Rulli,1
+A. Januzaj,Aritz Elustondo,1
+Jon Bautista,Ra\u00fal Navas,1
+Aritz Elustondo,H. Moreno,1
+Zurutuza,Juanmi,1
+H. Moreno,Willian Jos\u00e9,1
+Zurutuza,H. Moreno,1
+Willian Jos\u00e9,Zurutuza,1
+G. Rulli,Willian Jos\u00e9,1
+Ra\u00fal Navas,Zurutuza,1
+Canales,Aritz Elustondo,1
+H. Moreno,Zurutuza,1
+Canales,G. Rulli,1
+H. Moreno,G. Rulli,1
+Aritz Elustondo,Canales,1
+Zurutuza,G. Rulli,1

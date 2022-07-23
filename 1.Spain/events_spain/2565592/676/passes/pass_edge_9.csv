@@ -1,0 +1,62 @@
+Source,Target,Weight
+I. Rakiti\u0107,Piqu\u00e9,5
+Piqu\u00e9,Paulinho,5
+N\u00e9lson Semedo,Aleix Vidal,4
+Aleix Vidal,N\u00e9lson Semedo,4
+Paulinho,Piqu\u00e9,4
+Paulinho,N\u00e9lson Semedo,4
+Paulinho,L. Messi,4
+I. Rakiti\u0107,J. Mascherano,4
+L. Digne,I. Rakiti\u0107,3
+L. Messi,Aleix Vidal,3
+J. Mascherano,L. Digne,3
+L. Messi,I. Rakiti\u0107,3
+N\u00e9lson Semedo,Paulinho,3
+Piqu\u00e9,N\u00e9lson Semedo,3
+I. Rakiti\u0107,Sergi Roberto,3
+Paulinho,I. Rakiti\u0107,3
+N\u00e9lson Semedo,Piqu\u00e9,3
+J. Mascherano,L. Messi,2
+J. Mascherano,I. Rakiti\u0107,2
+L. Messi,Paulinho,2
+Sergi Roberto,L. Digne,2
+L. Digne,J. Mascherano,2
+J. Mascherano,Sergi Roberto,2
+Sergi Roberto,Paulinho,2
+N\u00e9lson Semedo,M. ter Stegen,2
+I. Rakiti\u0107,N\u00e9lson Semedo,2
+M. ter Stegen,I. Rakiti\u0107,2
+Piqu\u00e9,J. Mascherano,2
+I. Rakiti\u0107,Paulinho,2
+J. Mascherano,Denis Su\u00e1rez,2
+L. Digne,Sergi Roberto,2
+Piqu\u00e9,I. Rakiti\u0107,2
+Sergi Roberto,Denis Su\u00e1rez,2
+J. Mascherano,M. ter Stegen,2
+M. ter Stegen,J. Mascherano,2
+Sergi Roberto,J. Mascherano,2
+Sergi Roberto,L. Messi,2
+Denis Su\u00e1rez,I. Rakiti\u0107,2
+N\u00e9lson Semedo,L. Messi,1
+Piqu\u00e9,M. ter Stegen,1
+Piqu\u00e9,Aleix Vidal,1
+Piqu\u00e9,Sergi Roberto,1
+J. Mascherano,Piqu\u00e9,1
+I. Rakiti\u0107,Aleix Vidal,1
+Denis Su\u00e1rez,J. Mascherano,1
+Paulinho,Aleix Vidal,1
+Sergi Roberto,Piqu\u00e9,1
+Aleix Vidal,I. Rakiti\u0107,1
+Aleix Vidal,L. Messi,1
+L. Messi,Sergi Roberto,1
+I. Rakiti\u0107,L. Digne,1
+Denis Su\u00e1rez,L. Digne,1
+Aleix Vidal,Sergi Roberto,1
+Aleix Vidal,Paulinho,1
+Sergi Roberto,M. ter Stegen,1
+N\u00e9lson Semedo,J. Mascherano,1
+Aleix Vidal,Piqu\u00e9,1
+M. ter Stegen,Sergi Roberto,1
+M. ter Stegen,N\u00e9lson Semedo,1
+Denis Su\u00e1rez,Sergi Roberto,1
+Aleix Vidal,Denis Su\u00e1rez,1

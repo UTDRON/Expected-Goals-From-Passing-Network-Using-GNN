@@ -1,0 +1,25 @@
+Source,Target,Weight
+Luis Alberto,Wallace,2
+Wallace,D. Basta,2
+S. Milinkovi\u0107-Savi\u0107,Luis Alberto,2
+M. Parolo,Luis Alberto,2
+S. de Vrij,M. Parolo,2
+D. Basta,S. de Vrij,1
+C. Immobile,S. Milinkovi\u0107-Savi\u0107,1
+S. Luli\u0107,S. de Vrij,1
+\u015e. Radu,Luis Alberto,1
+S. Milinkovi\u0107-Savi\u0107,S. Luli\u0107,1
+S. de Vrij,Wallace,1
+M. Parolo,S. Milinkovi\u0107-Savi\u0107,1
+Wallace,Luis Alberto,1
+Luis Alberto,S. de Vrij,1
+S. de Vrij,T. Strakosha,1
+Luis Alberto,S. Milinkovi\u0107-Savi\u0107,1
+T. Strakosha,\u015e. Radu,1
+\u015e. Radu,S. de Vrij,1
+D. Basta,Wallace,1
+Luis Alberto,\u015e. Radu,1
+Luis Alberto,M. Parolo,1
+\u015e. Radu,C. Immobile,1
+Wallace,\u015e. Radu,1
+Luis Alberto,C. Immobile,1

@@ -1,0 +1,42 @@
+Source,Target,Weight
+Mujaid Sadick,Albentosa,4
+M. Krohn-Dehli,Pedro Mosquera,4
+Pedro Mosquera,Luisinho,3
+M. Krohn-Dehli,Mujaid Sadick,3
+Albentosa,Mujaid Sadick,3
+Luisinho,Z. Bakkali,3
+Fernando Navarro,Albentosa,3
+Luisinho,Fernando Navarro,3
+Albentosa,Pedro Mosquera,3
+Pedro Mosquera,M. Krohn-Dehli,3
+Albentosa,M. Krohn-Dehli,3
+Albentosa,Fernando Navarro,2
+Pedro Mosquera,Albentosa,2
+M. Krohn-Dehli,Z. Bakkali,2
+Fernando Navarro,Luisinho,2
+Z. Bakkali,Luisinho,2
+Pedro Mosquera,Mujaid Sadick,2
+Z. Bakkali,M. Krohn-Dehli,2
+Mujaid Sadick,Borja Valle,2
+Albentosa,Luisinho,1
+Mujaid Sadick,M. Krohn-Dehli,1
+Mujaid Sadick,Adri\u00e1n L\u00f3pez,1
+Pedro Mosquera,Borja Valle,1
+Pedro Mosquera,Adri\u00e1n L\u00f3pez,1
+Adri\u00e1n L\u00f3pez,Albentosa,1
+Adri\u00e1n L\u00f3pez,Z. Bakkali,1
+Borja Valle,Luisinho,1
+Borja Valle,M. Krohn-Dehli,1
+Z. Bakkali,Albentosa,1
+Pedro Mosquera,Z. Bakkali,1
+Z. Bakkali,Pedro Mosquera,1
+Borja Valle,Pedro Mosquera,1
+Rub\u00e9n,Pedro Mosquera,1
+Luisinho,M. Krohn-Dehli,1
+Luisinho,Borja Valle,1
+M. Krohn-Dehli,Albentosa,1
+Borja Valle,Mujaid Sadick,1
+Luisinho,Rub\u00e9n,1
+M. Krohn-Dehli,Luisinho,1
+Mujaid Sadick,Pedro Mosquera,1
+Luisinho,Pedro Mosquera,1

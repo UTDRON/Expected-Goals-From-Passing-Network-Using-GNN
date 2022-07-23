@@ -1,0 +1,80 @@
+Source,Target,Weight
+B. Petkovi\u0107,M. Valoti,6
+Nicolas,B. Petkovi\u0107,6
+A. Ferrari,R\u00f4mulo,6
+A. Caracciolo,A. Ferrari,5
+M. Valoti,A. Ferrari,4
+A. Ferrari,Nicolas,4
+M. Fares,J. Vukovi\u0107,4
+R\u00f4mulo,S. Calvano,4
+B. Petkovi\u0107,M. Kean,4
+S. Calvano,M. Fares,4
+S. Calvano,A. Caracciolo,3
+M. Valoti,J. Vukovi\u0107,3
+J. Vukovi\u0107,M. Fares,3
+J. Vukovi\u0107,Nicolas,3
+M. Kean,D. Verde,3
+R\u00f4mulo,A. Ferrari,3
+A. Ferrari,A. Caracciolo,3
+M. Valoti,B. Petkovi\u0107,3
+M. Valoti,R\u00f4mulo,3
+M. Kean,S. Calvano,2
+M. Kean,B. Petkovi\u0107,2
+M. Valoti,M. Fares,2
+R\u00f4mulo,A. Caracciolo,2
+R\u00f4mulo,B. Petkovi\u0107,2
+A. Caracciolo,B. Petkovi\u0107,2
+M. Fares,R\u00f4mulo,2
+M. Kean,M. Fares,2
+D. Verde,A. Ferrari,2
+S. Calvano,J. Vukovi\u0107,2
+M. Fares,B. Petkovi\u0107,2
+A. Caracciolo,M. Valoti,2
+A. Ferrari,M. Valoti,2
+R\u00f4mulo,M. Valoti,2
+D. Verde,M. Valoti,2
+J. Vukovi\u0107,M. Valoti,2
+B. Petkovi\u0107,S. Calvano,2
+A. Ferrari,B. Petkovi\u0107,2
+B. Petkovi\u0107,M. Fares,2
+B. Petkovi\u0107,A. Ferrari,2
+M. Valoti,M. Kean,2
+A. Ferrari,D. Verde,1
+B. Petkovi\u0107,J. Vukovi\u0107,1
+M. Fares,A. Ferrari,1
+D. Verde,A. Caracciolo,1
+M. Fares,S. Calvano,1
+J. Vukovi\u0107,M. Kean,1
+M. Kean,A. Ferrari,1
+A. Ferrari,S. Calvano,1
+A. Ferrari,M. Kean,1
+M. Fares,D. Verde,1
+J. Vukovi\u0107,D. Verde,1
+Nicolas,M. Kean,1
+S. Calvano,B. Petkovi\u0107,1
+B. Petkovi\u0107,D. Verde,1
+D. Verde,S. Calvano,1
+S. Calvano,A. Ferrari,1
+R\u00f4mulo,M. Kean,1
+D. Verde,M. Fares,1
+J. Vukovi\u0107,R\u00f4mulo,1
+R\u00f4mulo,J. Vukovi\u0107,1
+A. Caracciolo,S. Calvano,1
+Nicolas,M. Valoti,1
+D. Verde,B. Petkovi\u0107,1
+Nicolas,S. Calvano,1
+A. Caracciolo,D. Verde,1
+M. Fares,M. Valoti,1
+M. Fares,A. Caracciolo,1
+S. Calvano,M. Kean,1
+M. Valoti,D. Verde,1
+M. Fares,M. Kean,1
+A. Caracciolo,Nicolas,1
+B. Petkovi\u0107,R\u00f4mulo,1
+S. Calvano,R\u00f4mulo,1
+M. Kean,R\u00f4mulo,1
+J. Vukovi\u0107,A. Caracciolo,1
+D. Verde,Nicolas,1
+A. Caracciolo,J. Vukovi\u0107,1
+B. Petkovi\u0107,A. Caracciolo,1
+M. Kean,A. Caracciolo,1

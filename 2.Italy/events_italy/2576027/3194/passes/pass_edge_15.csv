@@ -1,0 +1,17 @@
+Source,Target,Weight
+A. Ferrari,A. Cerci,3
+Daniel Bessa,A. Ferrari,3
+A. Cerci,Daniel Bessa,2
+T. Heurtaux,A. Caracciolo,1
+T. Heurtaux,B. Zuculini,1
+A. Ferrari,Daniel Bessa,1
+B. Zuculini,M. Fares,1
+M. Fares,A. Caracciolo,1
+A. Caracciolo,Daniel Bessa,1
+B. Zuculini,T. Heurtaux,1
+T. Heurtaux,A. Ferrari,1
+A. Cerci,A. Caracciolo,1
+A. Caracciolo,T. Heurtaux,1
+A. Cerci,A. Ferrari,1
+A. Ferrari,T. Heurtaux,1
+Daniel Bessa,A. Cerci,1

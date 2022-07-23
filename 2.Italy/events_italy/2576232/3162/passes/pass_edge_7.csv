@@ -1,0 +1,33 @@
+Source,Target,Weight
+Luis Alberto,Lucas Leiva,3
+Lucas Leiva,S. Milinkovi\u0107-Savi\u0107,3
+Lucas Leiva,Luis Alberto,2
+Felipe Anderson,S. Luli\u0107,2
+Nani,Lucas Leiva,2
+S. Luli\u0107,Felipe Anderson,2
+Lucas Leiva,Nani,2
+\u015e. Radu,Lucas Leiva,2
+S. Milinkovi\u0107-Savi\u0107,Luis Alberto,2
+\u015e. Radu,Luiz Felipe,2
+Lucas Leiva,Felipe Anderson,2
+Nani,D. Basta,1
+C. Immobile,Nani,1
+\u015e. Radu,T. Strakosha,1
+Luis Alberto,Felipe Anderson,1
+T. Strakosha,S. Luli\u0107,1
+Felipe Anderson,\u015e. Radu,1
+S. Luli\u0107,\u015e. Radu,1
+D. Basta,Luis Alberto,1
+Luiz Felipe,\u015e. Radu,1
+Felipe Anderson,Luis Alberto,1
+Luiz Felipe,Nani,1
+Felipe Anderson,S. Milinkovi\u0107-Savi\u0107,1
+S. Milinkovi\u0107-Savi\u0107,\u015e. Radu,1
+S. Luli\u0107,S. Milinkovi\u0107-Savi\u0107,1
+Luis Alberto,Luiz Felipe,1
+S. Luli\u0107,Lucas Leiva,1
+Nani,S. Luli\u0107,1
+Luiz Felipe,Lucas Leiva,1
+S. Milinkovi\u0107-Savi\u0107,D. Basta,1
+S. Milinkovi\u0107-Savi\u0107,S. Luli\u0107,1
+D. Basta,C. Immobile,1

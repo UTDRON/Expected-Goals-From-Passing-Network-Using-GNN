@@ -1,0 +1,84 @@
+Source,Target,Weight
+L. Antei,G. Di Chiara,11
+L. Memushaj,N. Viola,10
+G. Di Chiara,L. Memushaj,9
+N. Viola,G. Di Chiara,9
+L. Venuti,C. Lombardi,8
+G. Di Chiara,L. Antei,8
+D. Cataldi,R. Chibsah,7
+L. Venuti,L. Antei,7
+C. Lombardi,L. Venuti,7
+L. Antei,L. Venuti,6
+C. Lombardi,R. Chibsah,6
+G. Di Chiara,A. Brignoli,6
+R. Chibsah,L. Venuti,5
+R. Chibsah,L. Antei,5
+G. Di Chiara,A. Lazaar,5
+L. Memushaj,G. Di Chiara,4
+N. Viola,L. Venuti,4
+L. Memushaj,P. Iemmello,4
+A. Lazaar,G. Di Chiara,4
+R. Chibsah,L. Memushaj,4
+N. Viola,R. Chibsah,4
+R. Chibsah,D. Cataldi,4
+L. Memushaj,R. Chibsah,4
+R. Chibsah,N. Viola,4
+N. Viola,L. Memushaj,4
+A. Brignoli,L. Venuti,3
+D. Cataldi,C. Lombardi,3
+D. Cataldi,L. Memushaj,3
+L. Venuti,G. Di Chiara,3
+G. Di Chiara,D. Cataldi,3
+A. Lazaar,N. Viola,3
+L. Venuti,N. Viola,3
+G. Di Chiara,N. Viola,3
+R. Chibsah,C. Lombardi,3
+G. Di Chiara,L. Venuti,3
+A. Brignoli,G. Di Chiara,3
+A. Lazaar,L. Memushaj,3
+L. Venuti,D. Cataldi,3
+L. Memushaj,A. Lazaar,2
+L. Antei,L. Memushaj,2
+R. Chibsah,G. Di Chiara,2
+N. Viola,A. Lazaar,2
+D. Cataldi,G. Di Chiara,2
+P. Iemmello,C. Lombardi,2
+A. Lazaar,R. Chibsah,2
+L. Venuti,R. Chibsah,2
+L. Memushaj,C. Lombardi,2
+P. Iemmello,A. Lazaar,2
+C. Lombardi,D. Cataldi,2
+L. Venuti,A. Brignoli,2
+C. Lombardi,L. Antei,2
+L. Venuti,P. Iemmello,1
+G. Di Chiara,R. Chibsah,1
+A. Brignoli,R. Chibsah,1
+P. Iemmello,G. Di Chiara,1
+A. Brignoli,L. Memushaj,1
+L. Antei,C. Lombardi,1
+P. Iemmello,L. Venuti,1
+C. Lombardi,L. Memushaj,1
+R. Chibsah,A. Brignoli,1
+C. Lombardi,P. Iemmello,1
+L. Venuti,A. Lazaar,1
+N. Viola,D. Cataldi,1
+A. Brignoli,D. Cataldi,1
+L. Antei,A. Lazaar,1
+C. Lombardi,A. Lazaar,1
+D. Cataldi,N. Viola,1
+P. Iemmello,L. Memushaj,1
+N. Viola,L. Antei,1
+P. Iemmello,N. Viola,1
+L. Memushaj,L. Venuti,1
+A. Lazaar,L. Antei,1
+L. Antei,D. Cataldi,1
+G. Di Chiara,P. Iemmello,1
+A. Lazaar,A. Brignoli,1
+P. Iemmello,R. Chibsah,1
+L. Antei,R. Chibsah,1
+P. Iemmello,D. Cataldi,1
+A. Brignoli,C. Lombardi,1
+R. Chibsah,P. Iemmello,1
+N. Viola,P. Iemmello,1
+L. Memushaj,D. Cataldi,1
+L. Antei,N. Viola,1

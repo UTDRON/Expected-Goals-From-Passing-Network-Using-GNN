@@ -1,0 +1,45 @@
+Source,Target,Weight
+A. Mandi,A. Guardado,4
+Francis Guerrero,A. Mandi,4
+A. Mandi,Francis Guerrero,3
+R. Boudebouz,Francis Guerrero,2
+Bartra,Ad\u00e1n,2
+Francis Guerrero,Fabi\u00e1n,2
+Fabi\u00e1n,A. Mandi,2
+A. Guardado,Bartra,2
+R. Boudebouz,A. Mandi,2
+A. Guardado,Fabi\u00e1n,2
+R. Boudebouz,Fabi\u00e1n,2
+Fabi\u00e1n,R. Boudebouz,2
+J. Firpo,Joaqu\u00edn,1
+A. Guardado,Joaqu\u00edn,1
+Joaqu\u00edn,Bartra,1
+Joaqu\u00edn,R. Boudebouz,1
+A. Mandi,R. Boudebouz,1
+Loren Mor\u00f3n,Joaqu\u00edn,1
+Joaqu\u00edn,A. Guardado,1
+Bartra,J. Firpo,1
+Loren Mor\u00f3n,Francis Guerrero,1
+A. Mandi,Loren Mor\u00f3n,1
+Bartra,Jordi Amat,1
+Fabi\u00e1n,Jordi Amat,1
+J. Firpo,Jordi Amat,1
+Jordi Amat,Loren Mor\u00f3n,1
+Ad\u00e1n,Bartra,1
+Jordi Amat,Joaqu\u00edn,1
+A. Mandi,Bartra,1
+R. Boudebouz,A. Guardado,1
+Francis Guerrero,R. Boudebouz,1
+Bartra,R. Boudebouz,1
+Ad\u00e1n,Francis Guerrero,1
+Ad\u00e1n,Loren Mor\u00f3n,1
+J. Firpo,Ad\u00e1n,1
+A. Guardado,R. Boudebouz,1
+Fabi\u00e1n,Bartra,1
+A. Mandi,Fabi\u00e1n,1
+Loren Mor\u00f3n,J. Firpo,1
+Joaqu\u00edn,A. Mandi,1
+A. Guardado,A. Mandi,1
+Bartra,A. Guardado,1
+Jordi Amat,A. Guardado,1
+A. Guardado,J. Firpo,1

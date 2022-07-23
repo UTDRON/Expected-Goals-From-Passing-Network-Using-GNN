@@ -1,0 +1,45 @@
+Source,Target,Weight
+G. van der Wiel,Diego Farias,3
+F. Romagna,F. Pisacane,3
+L. Cigarini,F. Romagna,3
+F. Romagna,L. Cigarini,2
+F. Pisacane,L. Pavoletti,2
+Diego Farias,F. Romagna,2
+F. Romagna,G. van der Wiel,2
+S. Padoin,F. Pisacane,2
+S. Padoin,Jo\u00e3o Pedro,2
+L. Cigarini,N. Barella,2
+Jo\u00e3o Pedro,L. Cigarini,2
+N. Barella,P. Farag\u00f2,2
+P. Farag\u00f2,L. Pavoletti,2
+L. Pavoletti,F. Romagna,1
+Diego Farias,A. Ioni\u0163\u0103,1
+Diego Farias,N. Barella,1
+L. Cigarini,L. Pavoletti,1
+L. Cigarini,G. van der Wiel,1
+G. van der Wiel,L. Cigarini,1
+F. Romagna,S. Padoin,1
+Diego Farias,L. Cigarini,1
+L. Cigarini,Diego Farias,1
+Diego Farias,G. van der Wiel,1
+P. Farag\u00f2,L. Cigarini,1
+S. Padoin,F. Romagna,1
+F. Pisacane,S. Padoin,1
+S. Padoin,N. Barella,1
+G. van der Wiel,F. Romagna,1
+F. Pisacane,L. Cigarini,1
+N. Barella,Diego Farias,1
+N. Barella,A. Ioni\u0163\u0103,1
+F. Pisacane,Diego Farias,1
+A. Ioni\u0163\u0103,P. Farag\u00f2,1
+L. Cigarini,F. Pisacane,1
+P. Farag\u00f2,N. Barella,1
+L. Pavoletti,L. Cigarini,1
+G. van der Wiel,S. Padoin,1
+A. Ioni\u0163\u0103,G. van der Wiel,1
+N. Barella,S. Padoin,1
+L. Cigarini,S. Padoin,1
+L. Pavoletti,S. Padoin,1
+F. Pisacane,G. van der Wiel,1
+S. Padoin,L. Cigarini,1
+L. Pavoletti,P. Farag\u00f2,1

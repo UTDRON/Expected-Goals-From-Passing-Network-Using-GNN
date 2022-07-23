@@ -1,0 +1,20 @@
+Source,Target,Weight
+Rodrigo,Gon\u00e7alo Guedes,2
+Gon\u00e7alo Guedes,Dani Parejo,2
+S. Zaza,Rodrigo,2
+Dani Parejo,S. Zaza,2
+Rodrigo,Dani Parejo,1
+Nacho Vidal,Carlos Soler,1
+Rodrigo,S. Zaza,1
+Carlos Soler,Dani Parejo,1
+Carlos Soler,Rodrigo,1
+Dani Parejo,Carlos Soler,1
+Dani Parejo,J. Murillo,1
+Dani Parejo,Nacho Vidal,1
+Nacho Vidal,Dani Parejo,1
+Gon\u00e7alo Guedes,Jos\u00e9 Gay\u00e1,1
+S. Zaza,Dani Parejo,1
+Dani Parejo,Gon\u00e7alo Guedes,1
+Jos\u00e9 Gay\u00e1,J. Murillo,1
+J. Murillo,Dani Parejo,1
+Dani Parejo,Rodrigo,1

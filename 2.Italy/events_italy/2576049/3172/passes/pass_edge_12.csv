@@ -1,0 +1,41 @@
+Source,Target,Weight
+H. Hateboer,M. de Roon,4
+J. Palomino,Rafael Tol\u00f3i,4
+M. Caldara,R. Gosens,3
+J. Palomino,M. Caldara,3
+Rafael Tol\u00f3i,M. de Roon,3
+R. Gosens,R. Freuler,3
+R. Freuler,R. Gosens,2
+R. Freuler,Rafael Tol\u00f3i,2
+R. Gosens,M. Caldara,2
+R. Gosens,J. Palomino,2
+M. de Roon,R. Freuler,2
+M. de Roon,H. Hateboer,2
+Rafael Tol\u00f3i,R. Freuler,2
+M. Caldara,J. Palomino,2
+Rafael Tol\u00f3i,H. Hateboer,2
+A. Cornelius,J. Palomino,2
+M. de Roon,M. Caldara,2
+R. Freuler,J. Palomino,2
+R. Freuler,H. Hateboer,1
+R. Freuler,A. Cornelius,1
+Rafael Tol\u00f3i,P. Gollini,1
+A. Cornelius,A. G\u00f3mez,1
+A. G\u00f3mez,R. Gosens,1
+M. de Roon,Rafael Tol\u00f3i,1
+M. Caldara,R. Freuler,1
+Rafael Tol\u00f3i,A. Cornelius,1
+H. Hateboer,Rafael Tol\u00f3i,1
+P. Gollini,R. Freuler,1
+R. Freuler,P. Gollini,1
+M. Caldara,Rafael Tol\u00f3i,1
+Rafael Tol\u00f3i,J. Ili\u010di\u0107,1
+A. Cornelius,M. de Roon,1
+J. Palomino,R. Gosens,1
+J. Ili\u010di\u0107,R. Freuler,1
+P. Gollini,A. Cornelius,1
+R. Freuler,J. Ili\u010di\u0107,1
+M. de Roon,A. Cornelius,1
+J. Ili\u010di\u0107,H. Hateboer,1
+R. Freuler,A. G\u00f3mez,1
+H. Hateboer,R. Freuler,1

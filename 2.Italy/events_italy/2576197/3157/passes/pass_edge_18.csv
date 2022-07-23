@@ -1,0 +1,70 @@
+Source,Target,Weight
+G. Bonaventura,R. Montolivo,6
+R. Montolivo,R. Rodr\u00edguez,5
+I. Abate,L. Bonucci,5
+Suso,I. Abate,5
+L. Bonucci,I. Abate,5
+R. Montolivo,G. Bonaventura,4
+I. Abate,Suso,4
+L. Bonucci,A. Romagnoli,4
+A. Romagnoli,R. Montolivo,4
+Suso,R. Montolivo,4
+H. \u00c7alhano\u011flu,G. Bonaventura,4
+G. Bonaventura,R. Rodr\u00edguez,4
+R. Rodr\u00edguez,G. Bonaventura,4
+F. Kessi\u00e9,Suso,3
+H. \u00c7alhano\u011flu,I. Abate,3
+G. Bonaventura,H. \u00c7alhano\u011flu,3
+Andr\u00e9 Silva,F. Kessi\u00e9,3
+A. Romagnoli,G. Bonaventura,3
+I. Abate,H. \u00c7alhano\u011flu,3
+I. Abate,R. Montolivo,3
+Suso,L. Bonucci,3
+H. \u00c7alhano\u011flu,Suso,3
+R. Montolivo,A. Romagnoli,3
+A. Romagnoli,R. Rodr\u00edguez,3
+G. Bonaventura,A. Romagnoli,3
+R. Montolivo,F. Kessi\u00e9,2
+I. Abate,F. Kessi\u00e9,2
+H. \u00c7alhano\u011flu,R. Montolivo,2
+H. \u00c7alhano\u011flu,Andr\u00e9 Silva,2
+H. \u00c7alhano\u011flu,L. Bonucci,2
+R. Rodr\u00edguez,A. Romagnoli,2
+R. Rodr\u00edguez,F. Borini,2
+Suso,H. \u00c7alhano\u011flu,2
+R. Montolivo,Suso,2
+L. Bonucci,R. Montolivo,2
+Andr\u00e9 Silva,R. Rodr\u00edguez,2
+R. Montolivo,I. Abate,2
+R. Rodr\u00edguez,I. Abate,2
+R. Montolivo,H. \u00c7alhano\u011flu,2
+A. Romagnoli,H. \u00c7alhano\u011flu,2
+R. Rodr\u00edguez,H. \u00c7alhano\u011flu,2
+A. Romagnoli,L. Bonucci,2
+R. Montolivo,Andr\u00e9 Silva,2
+G. Donnarumma,I. Abate,2
+Andr\u00e9 Silva,R. Montolivo,2
+R. Montolivo,L. Bonucci,2
+F. Kessi\u00e9,Andr\u00e9 Silva,2
+I. Abate,G. Donnarumma,1
+F. Kessi\u00e9,R. Montolivo,1
+L. Bonucci,G. Bonaventura,1
+F. Borini,G. Bonaventura,1
+L. Bonucci,Andr\u00e9 Silva,1
+R. Rodr\u00edguez,Suso,1
+G. Bonaventura,L. Bonucci,1
+F. Borini,H. \u00c7alhano\u011flu,1
+A. Romagnoli,G. Donnarumma,1
+Andr\u00e9 Silva,H. \u00c7alhano\u011flu,1
+I. Abate,Andr\u00e9 Silva,1
+F. Kessi\u00e9,G. Bonaventura,1
+G. Bonaventura,F. Borini,1
+F. Borini,A. Romagnoli,1
+R. Montolivo,F. Borini,1
+Andr\u00e9 Silva,G. Bonaventura,1
+L. Bonucci,F. Borini,1
+F. Borini,Suso,1
+L. Bonucci,H. \u00c7alhano\u011flu,1
+H. \u00c7alhano\u011flu,A. Romagnoli,1
+R. Rodr\u00edguez,R. Montolivo,1
+G. Bonaventura,Andr\u00e9 Silva,1

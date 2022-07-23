@@ -1,0 +1,46 @@
+Source,Target,Weight
+A. Florenzi,Gerson,4
+Gerson,A. Florenzi,4
+D. Perotti,A. Florenzi,3
+A. Florenzi,K. Manolas,3
+Alisson,K. Strootman,2
+Gerson,K. Manolas,2
+K. Manolas,F. Fazio,2
+K. Manolas,K. Strootman,2
+A. Kolarov,F. Fazio,2
+F. Fazio,D. Perotti,2
+K. Strootman,S. El Shaarawy,2
+K. Manolas,A. Florenzi,2
+A. Kolarov,K. Manolas,2
+A. Florenzi,D. Perotti,2
+K. Strootman,A. Kolarov,2
+K. Manolas,C. \u00dcnder,2
+A. Kolarov,Alisson,2
+K. Strootman,Gerson,2
+C. \u00dcnder,A. Florenzi,1
+K. Manolas,Alisson,1
+A. Kolarov,K. Strootman,1
+Alisson,A. Kolarov,1
+C. \u00dcnder,A. Kolarov,1
+S. El Shaarawy,A. Kolarov,1
+Alisson,D. Perotti,1
+Gerson,D. Perotti,1
+D. Perotti,Gerson,1
+D. Perotti,S. El Shaarawy,1
+F. Fazio,K. Manolas,1
+E. D\u017eeko,A. Kolarov,1
+A. Kolarov,D. Perotti,1
+S. El Shaarawy,K. Manolas,1
+D. Perotti,K. Strootman,1
+A. Florenzi,F. Fazio,1
+A. Florenzi,C. \u00dcnder,1
+D. Perotti,A. Kolarov,1
+Gerson,K. Strootman,1
+A. Florenzi,E. D\u017eeko,1
+D. Perotti,Alisson,1
+F. Fazio,A. Kolarov,1
+K. Manolas,E. D\u017eeko,1
+C. \u00dcnder,K. Manolas,1
+F. Fazio,A. Florenzi,1
+E. D\u017eeko,D. Perotti,1
+K. Strootman,A. Florenzi,1

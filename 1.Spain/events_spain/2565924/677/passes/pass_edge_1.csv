@@ -1,0 +1,87 @@
+Source,Target,Weight
+Z. Bakkali,Luisinho,13
+Luisinho,Z. Bakkali,13
+Pedro Mosquera,Z. Bakkali,12
+Luisinho,Pedro Mosquera,10
+Pedro Mosquera,Luisinho,9
+Juanfran,Gerard Valent\u00edn,8
+Z. Bakkali,E. \u00c7olak,7
+Gerard Valent\u00edn,Juanfran,7
+Luisinho,Fernando Navarro,7
+Pedro Mosquera,E. \u00c7olak,7
+Fernando Navarro,Luisinho,7
+E. \u00c7olak,M. Krohn-Dehli,6
+E. \u00c7olak,Pedro Mosquera,6
+Fernando Navarro,Mujaid Sadick,5
+E. \u00c7olak,Z. Bakkali,5
+Mujaid Sadick,Fernando Navarro,5
+M. Krohn-Dehli,Pedro Mosquera,5
+Z. Bakkali,Pedro Mosquera,5
+E. \u00c7olak,Borja Valle,5
+Pedro Mosquera,Juanfran,4
+E. \u00c7olak,Gerard Valent\u00edn,4
+M. Krohn-Dehli,E. \u00c7olak,4
+Mujaid Sadick,Pedro Mosquera,4
+Juanfran,Mujaid Sadick,4
+Luisinho,M. Krohn-Dehli,4
+Borja Valle,E. \u00c7olak,4
+Juanfran,E. \u00c7olak,4
+Fernando Navarro,Pedro Mosquera,4
+M. Koval,Juanfran,3
+Fernando Navarro,M. Krohn-Dehli,3
+M. Krohn-Dehli,Juanfran,3
+M. Krohn-Dehli,Luisinho,3
+Z. Bakkali,Fernando Navarro,3
+Juanfran,M. Krohn-Dehli,3
+Luisinho,E. \u00c7olak,3
+Borja Valle,M. Krohn-Dehli,3
+M. Krohn-Dehli,Mujaid Sadick,3
+M. Krohn-Dehli,Gerard Valent\u00edn,3
+Mujaid Sadick,Juanfran,3
+E. \u00c7olak,Mujaid Sadick,2
+Z. Bakkali,Juanfran,2
+Luisinho,Gerard Valent\u00edn,2
+Pedro Mosquera,M. Krohn-Dehli,2
+E. \u00c7olak,Juanfran,2
+Gerard Valent\u00edn,Mujaid Sadick,2
+Borja Valle,Luisinho,2
+Luisinho,M. Koval,2
+M. Koval,Luisinho,2
+M. Koval,Borja Valle,2
+M. Krohn-Dehli,Fernando Navarro,2
+Juanfran,Luisinho,2
+Juanfran,Pedro Mosquera,2
+Z. Bakkali,Borja Valle,2
+Fernando Navarro,M. Koval,2
+Gerard Valent\u00edn,M. Koval,2
+Luisinho,Borja Valle,2
+Mujaid Sadick,M. Koval,2
+Mujaid Sadick,Luisinho,2
+Pedro Mosquera,Mujaid Sadick,2
+Borja Valle,Fernando Navarro,2
+Mujaid Sadick,E. \u00c7olak,2
+E. \u00c7olak,Luisinho,2
+Juanfran,Fernando Navarro,2
+Gerard Valent\u00edn,Z. Bakkali,2
+Gerard Valent\u00edn,Fernando Navarro,2
+Gerard Valent\u00edn,M. Krohn-Dehli,1
+M. Koval,Pedro Mosquera,1
+Gerard Valent\u00edn,E. \u00c7olak,1
+Mujaid Sadick,Gerard Valent\u00edn,1
+Fernando Navarro,Juanfran,1
+Z. Bakkali,M. Krohn-Dehli,1
+Pedro Mosquera,Fernando Navarro,1
+Fernando Navarro,Z. Bakkali,1
+M. Krohn-Dehli,Z. Bakkali,1
+E. \u00c7olak,M. Koval,1
+Gerard Valent\u00edn,Pedro Mosquera,1
+Borja Valle,Juanfran,1
+Gerard Valent\u00edn,Luisinho,1
+Z. Bakkali,Mujaid Sadick,1
+Pedro Mosquera,Borja Valle,1
+Mujaid Sadick,M. Krohn-Dehli,1
+Borja Valle,Gerard Valent\u00edn,1
+M. Koval,Z. Bakkali,1
+Juanfran,M. Koval,1
+Fernando Navarro,E. \u00c7olak,1
+M. Koval,Mujaid Sadick,1

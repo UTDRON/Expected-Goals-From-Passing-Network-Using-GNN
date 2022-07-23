@@ -1,0 +1,38 @@
+Source,Target,Weight
+Bustinza,N. El Zhar,3
+Diego Rico,Omar Ramos,2
+Guerrero,Diego Rico,2
+N. El Zhar,Guerrero,2
+N. El Zhar,Rub\u00e9n P\u00e9rez,2
+Guerrero,Rub\u00e9n P\u00e9rez,2
+N. El Zhar,Bustinza,2
+Diego Rico,Bustinza,1
+M. Dos Santos,Diego Rico,1
+N. Champagne,Gumbau,1
+Gumbau,Eraso,1
+Diego Rico,E. Mu\u00f1oz,1
+Rub\u00e9n P\u00e9rez,N. El Zhar,1
+Rub\u00e9n P\u00e9rez,Bustinza,1
+Gumbau,Guerrero,1
+Omar Ramos,E. Mu\u00f1oz,1
+E. Mu\u00f1oz,Bustinza,1
+N. Champagne,M. Dos Santos,1
+Rub\u00e9n P\u00e9rez,Diego Rico,1
+Bustinza,Diego Rico,1
+Bustinza,Guerrero,1
+Diego Rico,Eraso,1
+E. Mu\u00f1oz,Diego Rico,1
+Omar Ramos,Eraso,1
+E. Mu\u00f1oz,N. El Zhar,1
+Eraso,Bustinza,1
+Omar Ramos,Diego Rico,1
+Rub\u00e9n P\u00e9rez,E. Mu\u00f1oz,1
+Bustinza,N. Champagne,1
+Diego Rico,M. Dos Santos,1
+M. Dos Santos,Omar Ramos,1
+Eraso,N. El Zhar,1
+Guerrero,N. El Zhar,1
+Eraso,E. Mu\u00f1oz,1
+N. El Zhar,Eraso,1
+E. Mu\u00f1oz,N. Champagne,1
+Eraso,Gumbau,1

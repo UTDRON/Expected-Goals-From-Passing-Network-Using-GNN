@@ -1,0 +1,37 @@
+Source,Target,Weight
+L. Hern\u00e1ndez,N. Gait\u00e1n,4
+Juanfran,Thomas,4
+N. Gait\u00e1n,L. Hern\u00e1ndez,3
+L. Hern\u00e1ndez,A. Fern\u00e1ndez,3
+Thomas,Juanfran,2
+Juanfran,N. Gait\u00e1n,2
+A. Fern\u00e1ndez,L. Hern\u00e1ndez,2
+A. Fern\u00e1ndez,Juanfran,2
+Thomas,S. Savi\u0107,2
+N. Gait\u00e1n,A. Fern\u00e1ndez,2
+J. Oblak,L. Hern\u00e1ndez,2
+Sa\u00fal,N. Gait\u00e1n,2
+Gabi,Juanfran,1
+Juanfran,A. Fern\u00e1ndez,1
+Gabi,S. Savi\u0107,1
+L. Hern\u00e1ndez,J. Oblak,1
+S. Savi\u0107,L. Hern\u00e1ndez,1
+L. Hern\u00e1ndez,Juanfran,1
+Juanfran,J. Oblak,1
+Thomas,A. Fern\u00e1ndez,1
+L. Hern\u00e1ndez,D. God\u00edn,1
+A. Fern\u00e1ndez,A. Griezmann,1
+S. Savi\u0107,Thomas,1
+Juanfran,L. Hern\u00e1ndez,1
+A. Griezmann,L. Hern\u00e1ndez,1
+D. God\u00edn,S. Savi\u0107,1
+N. Gait\u00e1n,Sa\u00fal,1
+S. Savi\u0107,Sa\u00fal,1
+N. Gait\u00e1n,Juanfran,1
+A. Fern\u00e1ndez,Sa\u00fal,1
+Juanfran,Gabi,1
+J. Oblak,Juanfran,1
+Sa\u00fal,D. God\u00edn,1
+D. God\u00edn,Juanfran,1
+A. Fern\u00e1ndez,Gabi,1
+S. Savi\u0107,J. Oblak,1

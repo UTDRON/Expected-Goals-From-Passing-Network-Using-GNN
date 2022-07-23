@@ -1,0 +1,125 @@
+Source,Target,Weight
+A. Poli,G. Gonz\u00e1lez,13
+S. Verdi,L. Crisetig,9
+L. Krej\u010d\u00ed,L. Crisetig,9
+G. Gonz\u00e1lez,E. Krafth,9
+L. Crisetig,F. Helander,9
+A. Masina,L. Krej\u010d\u00ed,8
+E. Krafth,A. Poli,8
+G. Gonz\u00e1lez,F. Helander,7
+F. Helander,A. Masina,7
+A. Poli,E. Krafth,7
+G. Gonz\u00e1lez,A. Poli,7
+L. Crisetig,A. Masina,6
+E. Krafth,G. Gonz\u00e1lez,6
+L. Crisetig,C. Falletti,6
+F. Helander,G. Gonz\u00e1lez,6
+L. Crisetig,L. Krej\u010d\u00ed,6
+E. Krafth,S. Verdi,6
+S. Verdi,A. Poli,6
+L. Krej\u010d\u00ed,F. Helander,5
+L. Crisetig,E. Krafth,5
+L. Krej\u010d\u00ed,A. Masina,5
+A. Poli,L. Crisetig,5
+G. Gonz\u00e1lez,R. Palacio,5
+E. Krafth,R. Palacio,5
+G. Donsah,F. Helander,5
+R. Palacio,S. Verdi,5
+F. Helander,L. Crisetig,5
+A. Masina,F. Helander,5
+L. Crisetig,G. Gonz\u00e1lez,5
+G. Donsah,L. Crisetig,4
+F. Helander,G. Donsah,4
+A. Poli,S. Verdi,4
+S. Verdi,L. Krej\u010d\u00ed,4
+R. Palacio,E. Krafth,4
+R. Palacio,A. Poli,4
+A. Masina,G. Donsah,4
+L. Crisetig,S. Verdi,4
+A. Poli,F. Helander,3
+F. Helander,R. Palacio,3
+Angelo da Costa,G. Gonz\u00e1lez,3
+G. Gonz\u00e1lez,L. Crisetig,3
+F. Helander,L. Krej\u010d\u00ed,3
+Angelo da Costa,L. Krej\u010d\u00ed,3
+S. Verdi,E. Krafth,3
+E. Krafth,L. Crisetig,3
+R. Palacio,L. Crisetig,3
+A. Masina,L. Crisetig,3
+G. Gonz\u00e1lez,Angelo da Costa,3
+L. Crisetig,R. Palacio,3
+F. Helander,C. Falletti,3
+A. Poli,Angelo da Costa,3
+R. Palacio,A. Masina,3
+M. Destro,A. Poli,3
+L. Krej\u010d\u00ed,S. Verdi,3
+F. Helander,S. Verdi,3
+F. Helander,A. Poli,3
+C. Falletti,E. Krafth,3
+E. Krafth,G. Donsah,2
+A. Poli,A. Masina,2
+G. Gonz\u00e1lez,M. Destro,2
+L. Krej\u010d\u00ed,C. Falletti,2
+A. Poli,R. Palacio,2
+Angelo da Costa,F. Helander,2
+C. Falletti,G. Gonz\u00e1lez,2
+E. Krafth,F. Helander,2
+S. Verdi,C. Falletti,2
+E. Krafth,Angelo da Costa,2
+Angelo da Costa,G. Donsah,2
+L. Krej\u010d\u00ed,G. Gonz\u00e1lez,2
+G. Gonz\u00e1lez,G. Donsah,2
+A. Masina,R. Palacio,2
+F. Helander,Angelo da Costa,2
+A. Masina,Angelo da Costa,2
+G. Gonz\u00e1lez,S. Verdi,2
+C. Falletti,A. Poli,2
+L. Krej\u010d\u00ed,E. Krafth,2
+S. Verdi,Angelo da Costa,2
+C. Falletti,S. Verdi,2
+C. Falletti,L. Krej\u010d\u00ed,2
+L. Crisetig,G. Donsah,2
+G. Donsah,A. Poli,2
+S. Verdi,G. Gonz\u00e1lez,2
+G. Donsah,E. Krafth,2
+A. Masina,A. Poli,2
+Angelo da Costa,A. Masina,2
+G. Donsah,L. Krej\u010d\u00ed,1
+C. Falletti,L. Crisetig,1
+S. Verdi,F. Di Francesco,1
+Angelo da Costa,E. Krafth,1
+M. Destro,S. Verdi,1
+G. Gonz\u00e1lez,L. Krej\u010d\u00ed,1
+F. Di Francesco,L. Crisetig,1
+L. Krej\u010d\u00ed,A. Poli,1
+G. Gonz\u00e1lez,F. Di Francesco,1
+S. Verdi,R. Palacio,1
+R. Palacio,F. Helander,1
+R. Palacio,M. Destro,1
+E. Krafth,M. Destro,1
+G. Donsah,G. Gonz\u00e1lez,1
+F. Di Francesco,S. Verdi,1
+L. Crisetig,A. Poli,1
+S. Verdi,F. Helander,1
+R. Palacio,G. Donsah,1
+R. Palacio,G. Gonz\u00e1lez,1
+M. Destro,A. Masina,1
+C. Falletti,R. Palacio,1
+L. Krej\u010d\u00ed,R. Palacio,1
+M. Destro,L. Crisetig,1
+E. Krafth,C. Falletti,1
+S. Verdi,A. Masina,1
+C. Falletti,F. Helander,1
+E. Krafth,A. Masina,1
+S. Verdi,M. Destro,1
+A. Poli,L. Krej\u010d\u00ed,1
+R. Palacio,L. Krej\u010d\u00ed,1
+F. Helander,E. Krafth,1
+Angelo da Costa,A. Poli,1
+Angelo da Costa,R. Palacio,1
+F. Helander,M. Destro,1
+G. Donsah,R. Palacio,1
+A. Masina,G. Gonz\u00e1lez,1
+L. Crisetig,Angelo da Costa,1
+A. Masina,S. Verdi,1
+G. Donsah,S. Verdi,1

@@ -1,0 +1,56 @@
+Source,Target,Weight
+Coke,Jos\u00e9 Luis Morales,5
+Luna,Jos\u00e9 Luis Morales,3
+Coke,A. Sadiku,3
+C. Doukour\u00e9,Coke,3
+Coke,Jason,2
+Chema,A. Sadiku,2
+A. Sadiku,C. Doukour\u00e9,2
+A. Sadiku,Coke,2
+Jason,Roger,2
+Jos\u00e9 Luis Morales,A. Sadiku,2
+Jos\u00e9 Luis Morales,J. Lerma,2
+Jos\u00e9 Luis Morales,Coke,2
+C. Doukour\u00e9,J. Lerma,2
+Jos\u00e9 Luis Morales,C. Doukour\u00e9,2
+J. Lerma,Chema,2
+A. Sadiku,Luna,2
+Jos\u00e9 Luis Morales,Roger,1
+Sergio Postigo,Oier,1
+Roger,C. Doukour\u00e9,1
+Chema,Luna,1
+Roger,Sergio Postigo,1
+A. Sadiku,Chema,1
+Jason,Sergio Postigo,1
+A. Sadiku,J. Lerma,1
+Luna,Chema,1
+Luna,Sergio Postigo,1
+J. Lerma,Luna,1
+Jos\u00e9 Luis Morales,Oier,1
+Sergio Postigo,Jason,1
+A. Sadiku,Jason,1
+C. Doukour\u00e9,Jos\u00e9 Luis Morales,1
+Coke,Roger,1
+Oier,A. Sadiku,1
+J. Lerma,Sergio Postigo,1
+Roger,Jason,1
+Jos\u00e9 Luis Morales,Jason,1
+Sergio Postigo,C. Doukour\u00e9,1
+J. Lerma,Coke,1
+Coke,J. Lerma,1
+Roger,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,Chema,1
+Jason,Jos\u00e9 Luis Morales,1
+Roger,Coke,1
+A. Sadiku,Jos\u00e9 Luis Morales,1
+Sergio Postigo,A. Sadiku,1
+C. Doukour\u00e9,A. Sadiku,1
+Oier,Coke,1
+Luna,Roger,1
+C. Doukour\u00e9,Roger,1
+Chema,Jason,1
+Chema,Coke,1
+Jason,Luna,1
+Jason,C. Doukour\u00e9,1
+Roger,Luna,1
+J. Lerma,C. Doukour\u00e9,1

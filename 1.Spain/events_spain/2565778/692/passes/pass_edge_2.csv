@@ -1,0 +1,114 @@
+Source,Target,Weight
+F. Roncaglia,Hugo Mallo,14
+F. Roncaglia,P. Hern\u00e1ndez,9
+P. Hern\u00e1ndez,F. Roncaglia,7
+Hugo Mallo,F. Roncaglia,7
+P. Hern\u00e1ndez,Jonny,6
+S. Lobotka,F. Roncaglia,6
+Hugo Mallo,D. Wass,6
+P. Hern\u00e1ndez,Sergi G\u00f3mez,5
+F. Roncaglia,D. Wass,5
+Sergi G\u00f3mez,Jonny,5
+Jonny,S. Lobotka,5
+S. Lobotka,Sergi G\u00f3mez,5
+S. Lobotka,Jonny,4
+Sergi G\u00f3mez,P. Hern\u00e1ndez,4
+Hugo Mallo,S. Lobotka,4
+Rub\u00e9n Blanco,F. Roncaglia,4
+F. Roncaglia,Rub\u00e9n Blanco,4
+Jonny,N. Radoja,4
+Sergi G\u00f3mez,Hugo Mallo,4
+Hugo Mallo,P. Hern\u00e1ndez,4
+S. Lobotka,Hugo Mallo,4
+Jonny,P. Sisto,4
+D. Wass,F. Roncaglia,4
+Hugo Mallo,Sergi G\u00f3mez,4
+Jonny,P. Hern\u00e1ndez,3
+Iago Aspas,D. Wass,3
+S. Lobotka,D. Wass,3
+Jonny,F. Roncaglia,3
+D. Wass,N. Radoja,3
+Maxi G\u00f3mez,F. Roncaglia,3
+Hugo Mallo,Iago Aspas,3
+P. Hern\u00e1ndez,P. Sisto,3
+D. Wass,Hugo Mallo,3
+F. Roncaglia,Sergi G\u00f3mez,3
+P. Hern\u00e1ndez,S. Lobotka,3
+Sergi G\u00f3mez,Maxi G\u00f3mez,3
+L. Boy\u00e9,Jonny,3
+Jonny,L. Boy\u00e9,3
+E. Mor,F. Roncaglia,3
+Sergi G\u00f3mez,Rub\u00e9n Blanco,3
+D. Wass,E. Mor,3
+D. Wass,Sergi G\u00f3mez,2
+Maxi G\u00f3mez,P. Sisto,2
+N. Radoja,S. Lobotka,2
+N. Radoja,Jonny,2
+Maxi G\u00f3mez,S. Lobotka,2
+Sergi G\u00f3mez,F. Roncaglia,2
+F. Roncaglia,Iago Aspas,2
+Rub\u00e9n Blanco,Sergi G\u00f3mez,2
+Iago Aspas,S. Lobotka,2
+P. Sisto,S. Lobotka,2
+Iago Aspas,Hugo Mallo,2
+E. Mor,Jonny,2
+Jonny,Sergi G\u00f3mez,2
+D. Wass,S. Lobotka,2
+P. Sisto,Jonny,2
+Hugo Mallo,E. Mor,2
+D. Wass,Maxi G\u00f3mez,2
+Hugo Mallo,Maxi G\u00f3mez,2
+P. Sisto,Hugo Mallo,2
+Iago Aspas,F. Roncaglia,2
+Rub\u00e9n Blanco,S. Lobotka,2
+F. Roncaglia,Jonny,2
+Sergi G\u00f3mez,S. Lobotka,2
+S. Lobotka,P. Hern\u00e1ndez,2
+F. Roncaglia,Maxi G\u00f3mez,2
+P. Sisto,P. Hern\u00e1ndez,2
+N. Radoja,Hugo Mallo,2
+Rub\u00e9n Blanco,Maxi G\u00f3mez,1
+Jonny,E. Mor,1
+Sergi G\u00f3mez,N. Radoja,1
+D. Wass,Rub\u00e9n Blanco,1
+Jonny,Rub\u00e9n Blanco,1
+E. Mor,L. Boy\u00e9,1
+N. Radoja,Rub\u00e9n Blanco,1
+Sergi G\u00f3mez,P. Sisto,1
+Maxi G\u00f3mez,D. Wass,1
+P. Hern\u00e1ndez,D. Wass,1
+Rub\u00e9n Blanco,D. Wass,1
+N. Radoja,D. Wass,1
+Rub\u00e9n Blanco,Jonny,1
+L. Boy\u00e9,Sergi G\u00f3mez,1
+E. Mor,Hugo Mallo,1
+Jonny,Maxi G\u00f3mez,1
+Iago Aspas,P. Hern\u00e1ndez,1
+Hugo Mallo,P. Sisto,1
+N. Radoja,F. Roncaglia,1
+Sergi G\u00f3mez,E. Mor,1
+Maxi G\u00f3mez,Sergi G\u00f3mez,1
+P. Hern\u00e1ndez,Hugo Mallo,1
+Maxi G\u00f3mez,Hugo Mallo,1
+P. Sisto,Sergi G\u00f3mez,1
+P. Sisto,Iago Aspas,1
+S. Lobotka,Rub\u00e9n Blanco,1
+Iago Aspas,E. Mor,1
+Maxi G\u00f3mez,Iago Aspas,1
+Maxi G\u00f3mez,P. Hern\u00e1ndez,1
+E. Mor,D. Wass,1
+P. Hern\u00e1ndez,Iago Aspas,1
+Iago Aspas,Jonny,1
+Sergi G\u00f3mez,Iago Aspas,1
+P. Sisto,N. Radoja,1
+P. Sisto,Maxi G\u00f3mez,1
+Hugo Mallo,Rub\u00e9n Blanco,1
+Jonny,Iago Aspas,1
+D. Wass,P. Hern\u00e1ndez,1
+F. Roncaglia,E. Mor,1
+Maxi G\u00f3mez,E. Mor,1
+S. Lobotka,Maxi G\u00f3mez,1
+Rub\u00e9n Blanco,Iago Aspas,1
+E. Mor,N. Radoja,1
+N. Radoja,Sergi G\u00f3mez,1
+D. Wass,Iago Aspas,1

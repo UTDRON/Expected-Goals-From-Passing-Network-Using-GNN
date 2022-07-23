@@ -1,0 +1,107 @@
+Source,Target,Weight
+Dani Raba,Mario,8
+Rodri,Mario,8
+A. Rukavina,V\u00edctor Ru\u00edz,6
+Mario,\u00c1lvaro Gonz\u00e1lez,6
+\u00c1lvaro Gonz\u00e1lez,Mario,6
+Rodri,A. Rukavina,6
+Mario,Javi Fuego,5
+D. Cheryshev,A. Rukavina,5
+Mario,Rodri,5
+Javi Fuego,Rodri,4
+V\u00edctor Ru\u00edz,Rodri,4
+\u00c1lvaro Gonz\u00e1lez,A. Rukavina,4
+Mario,Dani Raba,4
+Mario,R. Mart\u00ednez,4
+Rodri,Dani Raba,4
+\u00c1lvaro Gonz\u00e1lez,Rodri,4
+A. Rukavina,Rodri,4
+A. Rukavina,E. \u00dcnal,4
+V\u00edctor Ru\u00edz,A. Rukavina,4
+E. \u00dcnal,Mario,3
+Sergio Asenjo,R. Mart\u00ednez,3
+Mario,E. \u00dcnal,3
+Dani Raba,\u00c1lvaro Gonz\u00e1lez,3
+Rodri,D. Cheryshev,3
+Javi Fuego,V\u00edctor Ru\u00edz,3
+R. Mart\u00ednez,\u00c1lvaro Gonz\u00e1lez,3
+A. Rukavina,R. Mart\u00ednez,3
+\u00c1lvaro Gonz\u00e1lez,Dani Raba,3
+Rodri,V\u00edctor Ru\u00edz,3
+D. Cheryshev,Rodri,3
+V\u00edctor Ru\u00edz,\u00c1lvaro Gonz\u00e1lez,3
+Mario,V\u00edctor Ru\u00edz,2
+Mario,A. Rukavina,2
+R. Mart\u00ednez,D. Cheryshev,2
+V\u00edctor Ru\u00edz,Mario,2
+Rodri,Trigueros,2
+Dani Raba,Sergio Asenjo,2
+R. Mart\u00ednez,Dani Raba,2
+V\u00edctor Ru\u00edz,Sergio Asenjo,2
+Sergio Asenjo,Mario,2
+Mario,D. Cheryshev,2
+D. Cheryshev,\u00c1lvaro Gonz\u00e1lez,2
+Javi Fuego,D. Cheryshev,2
+Javi Fuego,Mario,2
+Dani Raba,R. Mart\u00ednez,2
+Javi Fuego,E. \u00dcnal,2
+C. Bacca,Trigueros,2
+D. Cheryshev,Javi Fuego,2
+Trigueros,Rodri,2
+R. Mart\u00ednez,Trigueros,2
+A. Rukavina,Sergio Asenjo,2
+Trigueros,C. Bacca,2
+Sergio Asenjo,\u00c1lvaro Gonz\u00e1lez,2
+Rodri,Javi Fuego,2
+Dani Raba,Rodri,2
+V\u00edctor Ru\u00edz,D. Cheryshev,2
+\u00c1lvaro Gonz\u00e1lez,Trigueros,2
+R. Mart\u00ednez,A. Rukavina,2
+Rodri,\u00c1lvaro Gonz\u00e1lez,2
+V\u00edctor Ru\u00edz,Javi Fuego,2
+Sergio Asenjo,V\u00edctor Ru\u00edz,2
+E. \u00dcnal,D. Cheryshev,1
+E. \u00dcnal,\u00c1lvaro Gonz\u00e1lez,1
+R. Mart\u00ednez,Rodri,1
+Trigueros,Mario,1
+Trigueros,V\u00edctor Ru\u00edz,1
+Rodri,C. Bacca,1
+Dani Raba,Javi Fuego,1
+\u00c1lvaro Gonz\u00e1lez,D. Cheryshev,1
+A. Rukavina,D. Cheryshev,1
+Trigueros,R. Mart\u00ednez,1
+E. \u00dcnal,Javi Fuego,1
+Sergio Asenjo,Dani Raba,1
+C. Bacca,D. Cheryshev,1
+C. Bacca,R. Mart\u00ednez,1
+Rodri,R. Mart\u00ednez,1
+Dani Raba,D. Cheryshev,1
+Javi Fuego,\u00c1lvaro Gonz\u00e1lez,1
+Javi Fuego,Sergio Asenjo,1
+\u00c1lvaro Gonz\u00e1lez,Javi Fuego,1
+R. Mart\u00ednez,V\u00edctor Ru\u00edz,1
+D. Cheryshev,V\u00edctor Ru\u00edz,1
+Trigueros,Sergio Asenjo,1
+E. \u00dcnal,Dani Raba,1
+V\u00edctor Ru\u00edz,Dani Raba,1
+D. Cheryshev,R. Mart\u00ednez,1
+V\u00edctor Ru\u00edz,R. Mart\u00ednez,1
+R. Mart\u00ednez,C. Bacca,1
+Trigueros,Dani Raba,1
+E. \u00dcnal,V\u00edctor Ru\u00edz,1
+Sergio Asenjo,Rodri,1
+Javi Fuego,Dani Raba,1
+Mario,Sergio Asenjo,1
+\u00c1lvaro Gonz\u00e1lez,Sergio Asenjo,1
+D. Cheryshev,Mario,1
+A. Rukavina,Dani Raba,1
+\u00c1lvaro Gonz\u00e1lez,C. Bacca,1
+A. Rukavina,Javi Fuego,1
+R. Mart\u00ednez,Mario,1
+E. \u00dcnal,Rodri,1
+Dani Raba,V\u00edctor Ru\u00edz,1
+D. Cheryshev,Sergio Asenjo,1
+A. Rukavina,Mario,1
+Mario,Trigueros,1
+C. Bacca,Rodri,1
+R. Mart\u00ednez,Javi Fuego,1

@@ -1,0 +1,16 @@
+Source,Target,Weight
+Muniesa,J. Mojica,1
+Pablo Maffeo,Bernardo Espinosa,1
+Borja Garc\u00eda,Pablo Maffeo,1
+Borja Garc\u00eda,Juanpe,1
+\u00c1lex Granell,Timor,1
+Timor,Pablo Maffeo,1
+Bernardo Espinosa,Borja Garc\u00eda,1
+J. Mojica,Muniesa,1
+Pablo Maffeo,Juanpe,1
+Juanpe,J. Mojica,1
+J. Mojica,Pablo Maffeo,1
+Pablo Maffeo,Borja Garc\u00eda,1
+Pablo Maffeo,\u00c1lex Granell,1
+\u00c1lex Granell,Pablo Maffeo,1
+Juanpe,\u00c1lex Granell,1

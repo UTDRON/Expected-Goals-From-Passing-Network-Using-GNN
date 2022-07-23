@@ -1,0 +1,91 @@
+Source,Target,Weight
+E. Cabaco,Pedro L\u00f3pez,6
+Pedro L\u00f3pez,Campa\u00f1a,6
+Campa\u00f1a,Luna,6
+Luna,Jason,6
+Pedro L\u00f3pez,E. Cabaco,6
+Chema,E. Cabaco,5
+Luna,Chema,5
+Campa\u00f1a,Chema,5
+Chema,Campa\u00f1a,4
+Rub\u00e9n Rochina,Pedro L\u00f3pez,4
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,4
+Campa\u00f1a,E. Cabaco,4
+Jason,Jos\u00e9 Luis Morales,3
+Campa\u00f1a,Rub\u00e9n Rochina,3
+Luna,Campa\u00f1a,3
+Luna,Rub\u00e9n Rochina,3
+E. Cabaco,A. Sadiku,3
+Pedro L\u00f3pez,Rub\u00e9n Rochina,3
+Rub\u00e9n Rochina,Campa\u00f1a,3
+E. Cabaco,S. Luki\u0107,3
+Rub\u00e9n Rochina,A. Sadiku,3
+Rub\u00e9n Rochina,S. Luki\u0107,3
+E. Cabaco,Luna,3
+E. Cabaco,Koke,3
+Koke,A. Sadiku,3
+Luna,A. Sadiku,3
+A. Sadiku,Pedro L\u00f3pez,3
+S. Luki\u0107,Campa\u00f1a,3
+S. Luki\u0107,Chema,3
+Pedro L\u00f3pez,S. Luki\u0107,3
+S. Luki\u0107,Pedro L\u00f3pez,3
+A. Sadiku,S. Luki\u0107,2
+Rub\u00e9n Rochina,Chema,2
+E. Cabaco,Jos\u00e9 Luis Morales,2
+S. Luki\u0107,Rub\u00e9n Rochina,2
+Jason,Luna,2
+E. Cabaco,Chema,2
+Jason,Rub\u00e9n Rochina,2
+Chema,A. Sadiku,2
+Chema,Koke,2
+Jason,S. Luki\u0107,2
+S. Luki\u0107,Luna,2
+A. Sadiku,Rub\u00e9n Rochina,2
+A. Sadiku,Jos\u00e9 Luis Morales,2
+Koke,Campa\u00f1a,2
+Rub\u00e9n Rochina,E. Cabaco,2
+Jos\u00e9 Luis Morales,Luna,2
+A. Sadiku,E. Cabaco,2
+Chema,Luna,2
+Pedro L\u00f3pez,Koke,2
+Campa\u00f1a,Pedro L\u00f3pez,2
+Campa\u00f1a,Jos\u00e9 Luis Morales,2
+Rub\u00e9n Rochina,Luna,2
+Chema,Rub\u00e9n Rochina,2
+Jason,E. Cabaco,2
+A. Sadiku,Campa\u00f1a,2
+Campa\u00f1a,Jason,2
+Chema,Jos\u00e9 Luis Morales,1
+Luna,S. Luki\u0107,1
+S. Luki\u0107,A. Sadiku,1
+Pedro L\u00f3pez,Jason,1
+Jason,Chema,1
+Luna,E. Cabaco,1
+Jos\u00e9 Luis Morales,Koke,1
+Campa\u00f1a,A. Sadiku,1
+A. Sadiku,Luna,1
+Rub\u00e9n Rochina,Jason,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+A. Sadiku,Chema,1
+Koke,Pedro L\u00f3pez,1
+S. Luki\u0107,E. Cabaco,1
+S. Luki\u0107,Jason,1
+Koke,Luna,1
+Campa\u00f1a,S. Luki\u0107,1
+E. Cabaco,Rub\u00e9n Rochina,1
+Jos\u00e9 Luis Morales,Rub\u00e9n Rochina,1
+Jos\u00e9 Luis Morales,Chema,1
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,1
+Pedro L\u00f3pez,Luna,1
+Jos\u00e9 Luis Morales,Jason,1
+Jason,A. Sadiku,1
+A. Sadiku,Jason,1
+Chema,S. Luki\u0107,1
+Koke,Rub\u00e9n Rochina,1
+Jason,Campa\u00f1a,1
+A. Sadiku,Koke,1
+Chema,Jason,1
+Pedro L\u00f3pez,A. Sadiku,1
+Koke,E. Cabaco,1
+E. Cabaco,Campa\u00f1a,1

@@ -1,0 +1,67 @@
+Source,Target,Weight
+Pedro L\u00f3pez,Rober,5
+Campa\u00f1a,Pedro L\u00f3pez,4
+Campa\u00f1a,Ivi,4
+Ivi,Campa\u00f1a,4
+Samu Garc\u00eda,To\u00f1o,3
+To\u00f1o,Ivi,3
+Rober,Pedro L\u00f3pez,3
+Pedro L\u00f3pez,Campa\u00f1a,3
+Ivi,Rober,3
+Rober,Campa\u00f1a,3
+To\u00f1o,Chema,2
+Campa\u00f1a,Jason,2
+Ivi,To\u00f1o,2
+To\u00f1o,Samu Garc\u00eda,2
+E. Bardhi,Ivi,2
+To\u00f1o,Campa\u00f1a,2
+E. Bardhi,Chema,2
+Sergio Postigo,Campa\u00f1a,2
+Pedro L\u00f3pez,To\u00f1o,2
+E. Bardhi,Jason,2
+Ivi,Sergio Postigo,2
+Campa\u00f1a,Rober,2
+Chema,To\u00f1o,2
+Pedro L\u00f3pez,Sergio Postigo,2
+Rober,Chema,2
+Sergio Postigo,E. Bardhi,2
+Sergio Postigo,Pedro L\u00f3pez,2
+To\u00f1o,Jason,2
+Chema,Rober,2
+Rober,Ivi,2
+Ivi,Samu Garc\u00eda,2
+Rober,To\u00f1o,2
+Samu Garc\u00eda,Ivi,2
+Campa\u00f1a,To\u00f1o,2
+Chema,Ra\u00fal Fern\u00e1ndez,1
+\u00c1lex Alegr\u00eda,Pedro L\u00f3pez,1
+Jason,Campa\u00f1a,1
+To\u00f1o,Sergio Postigo,1
+\u00c1lex Alegr\u00eda,E. Bardhi,1
+Ra\u00fal Fern\u00e1ndez,\u00c1lex Alegr\u00eda,1
+E. Bardhi,Campa\u00f1a,1
+Jason,Pedro L\u00f3pez,1
+Jason,To\u00f1o,1
+Ra\u00fal Fern\u00e1ndez,Samu Garc\u00eda,1
+Samu Garc\u00eda,Rober,1
+Jason,Rober,1
+Campa\u00f1a,\u00c1lex Alegr\u00eda,1
+Ivi,Chema,1
+Chema,Sergio Postigo,1
+Sergio Postigo,Ra\u00fal Fern\u00e1ndez,1
+Sergio Postigo,\u00c1lex Alegr\u00eda,1
+Ra\u00fal Fern\u00e1ndez,To\u00f1o,1
+Jason,Ivi,1
+To\u00f1o,Ra\u00fal Fern\u00e1ndez,1
+\u00c1lex Alegr\u00eda,Sergio Postigo,1
+Jason,E. Bardhi,1
+Sergio Postigo,To\u00f1o,1
+Rober,Sergio Postigo,1
+To\u00f1o,Rober,1
+Ivi,Pedro L\u00f3pez,1
+To\u00f1o,Pedro L\u00f3pez,1
+Rober,E. Bardhi,1
+Campa\u00f1a,E. Bardhi,1
+Chema,Ivi,1
+Rober,Samu Garc\u00eda,1
+To\u00f1o,E. Bardhi,1

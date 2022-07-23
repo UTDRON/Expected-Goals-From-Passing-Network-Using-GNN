@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Duncan,Rog\u00e9rio,2
+Rog\u00e9rio,A. Duncan,2
+C. Adjapong,S. Sensi,1
+Rog\u00e9rio,F. Peluso,1
+S. Sensi,C. Adjapong,1
+M. Politano,Rog\u00e9rio,1
+D. Berardi,S. Sensi,1
+F. Acerbi,A. Consigli,1
+S. Sensi,D. Berardi,1
+Rog\u00e9rio,C. Adjapong,1
+F. Peluso,F. Acerbi,1
+A. Consigli,F. Peluso,1
+C. Adjapong,S. Missiroli,1
+F. Acerbi,C. Adjapong,1
+S. Missiroli,C. Adjapong,1
+A. Consigli,Rog\u00e9rio,1
+F. Peluso,Rog\u00e9rio,1
+F. Peluso,A. Consigli,1
+C. Adjapong,M. Lemos,1
+Rog\u00e9rio,M. Politano,1
+M. Lemos,F. Acerbi,1

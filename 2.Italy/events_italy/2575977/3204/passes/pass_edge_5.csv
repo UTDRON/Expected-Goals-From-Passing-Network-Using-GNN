@@ -1,0 +1,17 @@
+Source,Target,Weight
+F. Vicari,F. Viviani,2
+M. Borriello,B. Salamon,1
+F. Viviani,S. V\u00e4is\u00e4nen,1
+F. Mattiello,M. Borriello,1
+S. Floccari,P. Schiattarella,1
+P. Schiattarella,F. Vicari,1
+S. V\u00e4is\u00e4nen,S. Floccari,1
+F. Viviani,M. Borriello,1
+M. Borriello,S. V\u00e4is\u00e4nen,1
+S. V\u00e4is\u00e4nen,F. Vicari,1
+B. Salamon,P. Schiattarella,1
+M. Borriello,M. Lazzari,1
+F. Viviani,F. Mattiello,1
+P. Schiattarella,F. Mattiello,1
+F. Mattiello,F. Viviani,1
+P. Schiattarella,M. Borriello,1

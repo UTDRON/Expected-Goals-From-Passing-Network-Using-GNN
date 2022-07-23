@@ -1,0 +1,19 @@
+Source,Target,Weight
+G. Donnarumma,D. Calabria,3
+D. Calabria,Suso,2
+D. Calabria,P. Cutrone,2
+Suso,A. Romagnoli,2
+Suso,P. Cutrone,2
+P. Cutrone,D. Calabria,2
+P. Cutrone,Suso,1
+L. Biglia,G. Donnarumma,1
+D. Calabria,G. Donnarumma,1
+F. Borini,L. Biglia,1
+P. Cutrone,L. Biglia,1
+L. Biglia,Suso,1
+A. Romagnoli,F. Borini,1
+F. Borini,F. Kessi\u00e9,1
+A. Romagnoli,P. Cutrone,1
+R. Rodr\u00edguez,G. Donnarumma,1
+F. Kessi\u00e9,Suso,1
+Suso,F. Borini,1

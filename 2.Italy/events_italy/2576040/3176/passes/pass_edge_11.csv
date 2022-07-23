@@ -1,0 +1,60 @@
+Source,Target,Weight
+C. Th\u00e9r\u00e9au,S. Lo Faso,6
+M. Benassi,C. Th\u00e9r\u00e9au,3
+C. Biraghi,D. Astori,3
+C. Biraghi,C. Th\u00e9r\u00e9au,2
+S. Lo Faso,D. Astori,2
+M. Benassi,S. Lo Faso,2
+J. Veretout,V. Laurini,2
+V. Laurini,M. Badelj,2
+G. Pezzella,V. Laurini,2
+S. Lo Faso,V. Laurini,2
+V. Laurini,S. Lo Faso,2
+S. Lo Faso,J. Veretout,2
+G. Pezzella,D. Astori,2
+D. Astori,M. Benassi,2
+S. Crist\u00f3foro,G. Pezzella,2
+D. Astori,S. Crist\u00f3foro,2
+V. Laurini,G. Pezzella,2
+V. Laurini,C. Th\u00e9r\u00e9au,1
+C. Th\u00e9r\u00e9au,M. Badelj,1
+C. Th\u00e9r\u00e9au,J. Veretout,1
+V. Laurini,M. Benassi,1
+S. Lo Faso,M. Badelj,1
+S. Lo Faso,M. Benassi,1
+D. Astori,C. Th\u00e9r\u00e9au,1
+M. Sportiello,D. Astori,1
+V. Laurini,J. Veretout,1
+C. Th\u00e9r\u00e9au,K. Babacar,1
+G. Pezzella,K. Babacar,1
+C. Biraghi,M. Badelj,1
+G. Pezzella,J. Veretout,1
+S. Crist\u00f3foro,C. Th\u00e9r\u00e9au,1
+M. Benassi,S. Crist\u00f3foro,1
+S. Lo Faso,G. Pezzella,1
+D. Astori,C. Biraghi,1
+S. Lo Faso,C. Biraghi,1
+J. Veretout,G. Pezzella,1
+M. Sportiello,G. Pezzella,1
+M. Badelj,J. Veretout,1
+S. Lo Faso,M. Sportiello,1
+M. Benassi,V. Laurini,1
+C. Th\u00e9r\u00e9au,M. Benassi,1
+D. Astori,S. Lo Faso,1
+C. Th\u00e9r\u00e9au,D. Astori,1
+M. Badelj,S. Crist\u00f3foro,1
+G. Pezzella,S. Lo Faso,1
+M. Badelj,V. Laurini,1
+J. Veretout,C. Th\u00e9r\u00e9au,1
+K. Babacar,C. Biraghi,1
+M. Badelj,M. Benassi,1
+K. Babacar,C. Th\u00e9r\u00e9au,1
+S. Crist\u00f3foro,V. Laurini,1
+D. Astori,G. Pezzella,1
+J. Veretout,M. Benassi,1
+M. Badelj,C. Biraghi,1
+D. Astori,J. Veretout,1
+J. Veretout,C. Biraghi,1
+M. Badelj,C. Th\u00e9r\u00e9au,1
+J. Veretout,M. Badelj,1
+G. Pezzella,M. Sportiello,1

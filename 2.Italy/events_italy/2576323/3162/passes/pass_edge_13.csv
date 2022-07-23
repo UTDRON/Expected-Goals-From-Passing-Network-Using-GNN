@@ -1,0 +1,29 @@
+Source,Target,Weight
+Felipe Anderson,Nani,2
+Felipe Anderson,S. Milinkovi\u0107-Savi\u0107,2
+Nani,Felipe Anderson,1
+M. C\u00e1ceres,Nani,1
+S. Milinkovi\u0107-Savi\u0107,Felipe Anderson,1
+S. Luli\u0107,S. Milinkovi\u0107-Savi\u0107,1
+S. Luli\u0107,Wallace,1
+S. de Vrij,Wallace,1
+T. Strakosha,Wallace,1
+Lucas Leiva,Patric,1
+S. de Vrij,Lucas Leiva,1
+Patric,Wallace,1
+Nani,T. Strakosha,1
+Wallace,T. Strakosha,1
+T. Strakosha,S. Luli\u0107,1
+Nani,Patric,1
+Wallace,S. de Vrij,1
+Nani,S. de Vrij,1
+S. Milinkovi\u0107-Savi\u0107,Lucas Leiva,1
+Lucas Leiva,M. C\u00e1ceres,1
+Patric,Felipe Anderson,1
+Wallace,S. Milinkovi\u0107-Savi\u0107,1
+S. Milinkovi\u0107-Savi\u0107,S. de Vrij,1
+Patric,Nani,1
+Wallace,Lucas Leiva,1
+S. de Vrij,S. Milinkovi\u0107-Savi\u0107,1
+Lucas Leiva,Felipe Anderson,1
+S. Milinkovi\u0107-Savi\u0107,Patric,1

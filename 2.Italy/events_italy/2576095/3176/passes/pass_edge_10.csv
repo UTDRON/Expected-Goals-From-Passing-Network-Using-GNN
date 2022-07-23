@@ -1,0 +1,14 @@
+Source,Target,Weight
+G. Simeone,G. Pezzella,2
+G. Simeone,F. Chiesa,1
+F. Chiesa,M. Badelj,1
+G. Pezzella,G. Simeone,1
+J. Veretout,M. Benassi,1
+M. Benassi,G. Simeone,1
+M. Badelj,M. Benassi,1
+M. Sportiello,G. Simeone,1
+G. Pezzella,J. Veretout,1
+J. Veretout,M. Sportiello,1
+F. Chiesa,C. Biraghi,1
+C. Biraghi,C. Th\u00e9r\u00e9au,1
+C. Th\u00e9r\u00e9au,F. Chiesa,1

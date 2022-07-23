@@ -1,0 +1,60 @@
+Source,Target,Weight
+Xabi Prieto,Odriozola,6
+Xabi Prieto,Mikel Oyarzabal,5
+Aritz Elustondo,Xabi Prieto,4
+Odriozola,Illarramendi,4
+Aritz Elustondo,G. Rulli,4
+Mikel Oyarzabal,Xabi Prieto,4
+Illarramendi,Odriozola,4
+Odriozola,Aritz Elustondo,3
+Zurutuza,G. Rulli,3
+Illarramendi,Xabi Prieto,3
+Odriozola,Xabi Prieto,3
+Odriozola,Mikel Oyarzabal,3
+Mikel Oyarzabal,Illarramendi,3
+Juanmi,Ra\u00fal Navas,2
+Ra\u00fal Navas,Aritz Elustondo,2
+Ra\u00fal Navas,K\u00e9vin Rodrigues,2
+Aritz Elustondo,Odriozola,2
+G. Rulli,Zurutuza,2
+Zurutuza,Ra\u00fal Navas,2
+Zurutuza,K\u00e9vin Rodrigues,2
+Illarramendi,Mikel Oyarzabal,2
+K\u00e9vin Rodrigues,Juanmi,2
+Illarramendi,Aritz Elustondo,2
+G. Rulli,Aritz Elustondo,2
+K\u00e9vin Rodrigues,Willian Jos\u00e9,2
+Illarramendi,Zurutuza,2
+Mikel Oyarzabal,Odriozola,2
+Odriozola,G. Rulli,2
+Willian Jos\u00e9,Illarramendi,2
+G. Rulli,Illarramendi,2
+G. Rulli,K\u00e9vin Rodrigues,1
+Mikel Oyarzabal,Juanmi,1
+Willian Jos\u00e9,Aritz Elustondo,1
+Juanmi,Zurutuza,1
+Juanmi,Xabi Prieto,1
+Xabi Prieto,Zurutuza,1
+G. Rulli,Willian Jos\u00e9,1
+Aritz Elustondo,Zurutuza,1
+Xabi Prieto,Juanmi,1
+Aritz Elustondo,K\u00e9vin Rodrigues,1
+Xabi Prieto,K\u00e9vin Rodrigues,1
+Zurutuza,Illarramendi,1
+Zurutuza,Odriozola,1
+Zurutuza,Mikel Oyarzabal,1
+K\u00e9vin Rodrigues,Aritz Elustondo,1
+Ra\u00fal Navas,Juanmi,1
+Ra\u00fal Navas,Zurutuza,1
+Zurutuza,Aritz Elustondo,1
+K\u00e9vin Rodrigues,Illarramendi,1
+Illarramendi,Ra\u00fal Navas,1
+Mikel Oyarzabal,Ra\u00fal Navas,1
+Xabi Prieto,Illarramendi,1
+Juanmi,K\u00e9vin Rodrigues,1
+K\u00e9vin Rodrigues,Mikel Oyarzabal,1
+K\u00e9vin Rodrigues,Zurutuza,1
+Mikel Oyarzabal,Zurutuza,1
+Odriozola,Zurutuza,1
+Willian Jos\u00e9,Juanmi,1
+G. Rulli,Odriozola,1

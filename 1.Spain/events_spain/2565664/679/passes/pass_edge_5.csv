@@ -1,0 +1,42 @@
+Source,Target,Weight
+\u00c1. Correa,Y. Carrasco,2
+\u00c1. Correa,Sa\u00fal,2
+\u00c1. Correa,Gabi,2
+Y. Carrasco,Koke,2
+Sa\u00fal,Gabi,2
+Koke,\u00c1. Correa,2
+Gabi,D. God\u00edn,2
+Gabi,Koke,2
+L. Hern\u00e1ndez,\u00c1. Correa,2
+Koke,L. Hern\u00e1ndez,2
+Y. Carrasco,\u00c1. Correa,1
+Juanfran,Gabi,1
+Juanfran,Koke,1
+Koke,D. God\u00edn,1
+Gabi,\u00c1. Correa,1
+J. Oblak,L. Hern\u00e1ndez,1
+Gabi,Juanfran,1
+L. Hern\u00e1ndez,Y. Carrasco,1
+\u00c1. Correa,A. Griezmann,1
+A. Griezmann,Y. Carrasco,1
+A. Griezmann,L. Hern\u00e1ndez,1
+Y. Carrasco,Gabi,1
+L. Hern\u00e1ndez,Gabi,1
+Sa\u00fal,Juanfran,1
+L. Hern\u00e1ndez,Koke,1
+Y. Carrasco,A. Griezmann,1
+Juanfran,Y. Carrasco,1
+Koke,Y. Carrasco,1
+L. Hern\u00e1ndez,Sa\u00fal,1
+D. God\u00edn,Y. Carrasco,1
+D. God\u00edn,L. Hern\u00e1ndez,1
+Gabi,L. Hern\u00e1ndez,1
+Koke,Sa\u00fal,1
+D. God\u00edn,Sa\u00fal,1
+Sa\u00fal,D. God\u00edn,1
+L. Hern\u00e1ndez,Juanfran,1
+Y. Carrasco,Juanfran,1
+Juanfran,Sa\u00fal,1
+Sa\u00fal,\u00c1. Correa,1
+D. God\u00edn,J. Oblak,1
+Sa\u00fal,L. Hern\u00e1ndez,1

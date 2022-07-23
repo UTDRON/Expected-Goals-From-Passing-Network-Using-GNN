@@ -1,0 +1,52 @@
+Source,Target,Weight
+G. Chiellini,Alex Sandro,5
+C. Marchisio,G. Chiellini,4
+P. Dybala,C. Marchisio,4
+Alex Sandro,D. Rugani,3
+D. Rugani,G. Chiellini,3
+C. Marchisio,D. Rugani,2
+J. Cuadrado,C. Marchisio,2
+C. Marchisio,P. Dybala,2
+M. De Sciglio,P. Dybala,2
+Douglas Costa,G. Chiellini,2
+P. Dybala,J. Cuadrado,2
+M. De Sciglio,J. Cuadrado,2
+Alex Sandro,C. Marchisio,2
+J. Cuadrado,M. De Sciglio,2
+G. Chiellini,Douglas Costa,2
+B. Matuidi,Alex Sandro,2
+D. Rugani,B. Matuidi,2
+G. Chiellini,D. Rugani,2
+M. De Sciglio,G. Chiellini,1
+Alex Sandro,M. De Sciglio,1
+C. Marchisio,M. De Sciglio,1
+C. Marchisio,G. Higua\u00edn,1
+B. Matuidi,Douglas Costa,1
+B. Matuidi,P. Dybala,1
+B. Matuidi,C. Marchisio,1
+Douglas Costa,Alex Sandro,1
+Alex Sandro,G. Chiellini,1
+G. Chiellini,P. Dybala,1
+Alex Sandro,W. Szcz\u0119sny,1
+P. Dybala,M. De Sciglio,1
+G. Chiellini,J. Cuadrado,1
+J. Cuadrado,D. Rugani,1
+C. Marchisio,Alex Sandro,1
+D. Rugani,M. De Sciglio,1
+G. Higua\u00edn,B. Matuidi,1
+J. Cuadrado,Alex Sandro,1
+J. Cuadrado,B. Matuidi,1
+J. Cuadrado,G. Higua\u00edn,1
+M. De Sciglio,D. Rugani,1
+G. Higua\u00edn,J. Cuadrado,1
+P. Dybala,G. Higua\u00edn,1
+D. Rugani,J. Cuadrado,1
+Alex Sandro,P. Dybala,1
+W. Szcz\u0119sny,D. Rugani,1
+Alex Sandro,J. Cuadrado,1
+D. Rugani,C. Marchisio,1
+G. Chiellini,C. Marchisio,1
+D. Rugani,Alex Sandro,1
+G. Higua\u00edn,G. Chiellini,1
+Alex Sandro,B. Matuidi,1
+D. Rugani,P. Dybala,1

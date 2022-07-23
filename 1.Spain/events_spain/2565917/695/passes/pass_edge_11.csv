@@ -1,0 +1,30 @@
+Source,Target,Weight
+J. Lerma,Sergio Postigo,3
+Luna,J. Lerma,2
+G. Pazzini,J. Lerma,2
+Sergio Postigo,Luna,2
+Coke,Rub\u00e9n Rochina,1
+Campa\u00f1a,G. Pazzini,1
+Campa\u00f1a,Sergio Postigo,1
+J. Lerma,Coke,1
+S. Luki\u0107,J. Lerma,1
+Luna,Jos\u00e9 Luis Morales,1
+S. Luki\u0107,Coke,1
+Jos\u00e9 Luis Morales,E. Bardhi,1
+Rober,Jos\u00e9 Luis Morales,1
+Sergio Postigo,E. Bardhi,1
+Sergio Postigo,S. Luki\u0107,1
+Rub\u00e9n Rochina,Coke,1
+J. Lerma,Rober,1
+J. Lerma,Luna,1
+Oier,G. Pazzini,1
+J. Lerma,Campa\u00f1a,1
+Coke,J. Lerma,1
+Coke,Campa\u00f1a,1
+E. Bardhi,Oier,1
+Sergio Postigo,J. Lerma,1
+E. Bardhi,Sergio Postigo,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+J. Lerma,Oier,1
+J. Lerma,S. Luki\u0107,1
+Oier,Rub\u00e9n Rochina,1

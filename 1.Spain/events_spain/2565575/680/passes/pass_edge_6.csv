@@ -1,0 +1,44 @@
+Source,Target,Weight
+G. Mercado,Jes\u00fas Navas,5
+Sergio Escudero,Nolito,4
+C. Lenglet,Sergio Escudero,3
+Sergio Rico,Daniel Carri\u00e7o,3
+S. N'Zonzi,Jes\u00fas Navas,2
+S. N'Zonzi,C. Lenglet,2
+Nolito,C. Lenglet,2
+C. Lenglet,Sergio Rico,2
+Jes\u00fas Navas,Sergio Rico,2
+Sergio Escudero,S. N'Zonzi,2
+Jes\u00fas Navas,S. N'Zonzi,2
+Daniel Carri\u00e7o,G. Mercado,2
+Nolito,Daniel Carri\u00e7o,1
+Sergio Rico,Sergio Escudero,1
+S. N'Zonzi,Pablo Sarabia,1
+G. Mercado,Sergio Rico,1
+Daniel Carri\u00e7o,C. Lenglet,1
+S. N'Zonzi,Sergio Escudero,1
+Ganso,C. Lenglet,1
+S. N'Zonzi,G. Mercado,1
+Nolito,Pablo Sarabia,1
+Pablo Sarabia,Sergio Escudero,1
+W. Ben Yedder,Ganso,1
+Daniel Carri\u00e7o,S. N'Zonzi,1
+Sergio Rico,C. Lenglet,1
+Sergio Escudero,G. Mercado,1
+Pablo Sarabia,S. N'Zonzi,1
+C. Lenglet,G. Mercado,1
+C. Lenglet,W. Ben Yedder,1
+Daniel Carri\u00e7o,Ganso,1
+Jes\u00fas Navas,W. Ben Yedder,1
+C. Lenglet,S. N'Zonzi,1
+Jes\u00fas Navas,Daniel Carri\u00e7o,1
+C. Lenglet,Pablo Sarabia,1
+Sergio Escudero,C. Lenglet,1
+S. N'Zonzi,Nolito,1
+W. Ben Yedder,G. Mercado,1
+Pablo Sarabia,C. Lenglet,1
+Nolito,Ganso,1
+Jes\u00fas Navas,Nolito,1
+Jes\u00fas Navas,Sergio Escudero,1
+Nolito,Sergio Escudero,1
+Ganso,Jes\u00fas Navas,1

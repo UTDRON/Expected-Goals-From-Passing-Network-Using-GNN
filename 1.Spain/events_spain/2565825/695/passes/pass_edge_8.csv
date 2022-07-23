@@ -1,0 +1,19 @@
+Source,Target,Weight
+Campa\u00f1a,Coke,3
+Ivi,Coke,2
+Coke,E. Cabaco,2
+Coke,E. Boateng,2
+Coke,Campa\u00f1a,1
+Coke,J. Lerma,1
+E. Bardhi,Coke,1
+E. Boateng,Campa\u00f1a,1
+E. Boateng,Ivi,1
+Luna,E. Bardhi,1
+Rober,Luna,1
+E. Cabaco,Coke,1
+J. Lerma,Coke,1
+Coke,Rober,1
+E. Cabaco,Oier,1
+Coke,Ivi,1
+Oier,E. Boateng,1
+E. Boateng,Coke,1

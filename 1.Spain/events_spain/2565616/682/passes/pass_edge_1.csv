@@ -1,0 +1,76 @@
+Source,Target,Weight
+Jaume Costa,Trigueros,11
+Trigueros,Jaume Costa,8
+Rodri,V\u00edctor Ru\u00edz,7
+V\u00edctor Ru\u00edz,Jaume Costa,7
+Samu Castillejo,Mario,6
+Rodri,\u00c1lvaro Gonz\u00e1lez,6
+\u00c1lvaro Gonz\u00e1lez,V\u00edctor Ru\u00edz,5
+\u00c1lvaro Gonz\u00e1lez,Mario,5
+M. Barbosa,V\u00edctor Ru\u00edz,5
+V\u00edctor Ru\u00edz,M. Barbosa,5
+Jaume Costa,V\u00edctor Ru\u00edz,5
+Mario,\u00c1lvaro Gonz\u00e1lez,5
+Jaume Costa,Pablo Fornals,4
+Samu Castillejo,Rodri,4
+Jaume Costa,Rodri,3
+Mario,Samu Castillejo,3
+Trigueros,Samu Castillejo,3
+N. Sansone,Trigueros,3
+Trigueros,Rodri,3
+Trigueros,N. Sansone,3
+Pablo Fornals,Rodri,3
+C. Bakambu,Jaume Costa,3
+Samu Castillejo,Jaume Costa,3
+V\u00edctor Ru\u00edz,\u00c1lvaro Gonz\u00e1lez,3
+Rodri,Samu Castillejo,3
+V\u00edctor Ru\u00edz,Rodri,3
+V\u00edctor Ru\u00edz,Trigueros,3
+Mario,Rodri,3
+Rodri,Mario,3
+\u00c1lvaro Gonz\u00e1lez,Trigueros,3
+Pablo Fornals,Samu Castillejo,2
+Mario,N. Sansone,2
+Jaume Costa,N. Sansone,2
+N. Sansone,Pablo Fornals,2
+N. Sansone,Jaume Costa,2
+\u00c1lvaro Gonz\u00e1lez,M. Barbosa,2
+V\u00edctor Ru\u00edz,C. Bakambu,2
+M. Barbosa,\u00c1lvaro Gonz\u00e1lez,2
+\u00c1lvaro Gonz\u00e1lez,Samu Castillejo,2
+Trigueros,Pablo Fornals,2
+Trigueros,M. Barbosa,2
+Pablo Fornals,Jaume Costa,2
+C. Bakambu,N. Sansone,2
+N. Sansone,Samu Castillejo,2
+N. Sansone,C. Bakambu,2
+Pablo Fornals,C. Bakambu,2
+\u00c1lvaro Gonz\u00e1lez,N. Sansone,2
+Pablo Fornals,\u00c1lvaro Gonz\u00e1lez,1
+Samu Castillejo,V\u00edctor Ru\u00edz,1
+Trigueros,C. Bakambu,1
+Jaume Costa,Samu Castillejo,1
+V\u00edctor Ru\u00edz,Pablo Fornals,1
+N. Sansone,V\u00edctor Ru\u00edz,1
+Trigueros,\u00c1lvaro Gonz\u00e1lez,1
+Mario,Trigueros,1
+M. Barbosa,N. Sansone,1
+M. Barbosa,Rodri,1
+Samu Castillejo,Pablo Fornals,1
+Samu Castillejo,Trigueros,1
+N. Sansone,Mario,1
+C. Bakambu,Samu Castillejo,1
+Rodri,N. Sansone,1
+C. Bakambu,Pablo Fornals,1
+C. Bakambu,Rodri,1
+Pablo Fornals,N. Sansone,1
+Pablo Fornals,V\u00edctor Ru\u00edz,1
+Samu Castillejo,C. Bakambu,1
+V\u00edctor Ru\u00edz,N. Sansone,1
+Rodri,Trigueros,1
+Rodri,Pablo Fornals,1
+Rodri,Jaume Costa,1
+N. Sansone,\u00c1lvaro Gonz\u00e1lez,1
+V\u00edctor Ru\u00edz,Mario,1
+Mario,V\u00edctor Ru\u00edz,1
+N. Sansone,Rodri,1

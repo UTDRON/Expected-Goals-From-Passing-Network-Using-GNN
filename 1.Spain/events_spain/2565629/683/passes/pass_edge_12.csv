@@ -1,0 +1,13 @@
+Source,Target,Weight
+Juanpi,Juankar,2
+Keko,Juanpi,2
+Keko,Adri\u00e1n,1
+Luis Hern\u00e1ndez,Adri\u00e1n,1
+R. Rosales,Juanpi,1
+R. Rosales,Luis Hern\u00e1ndez,1
+Juankar,Keko,1
+Adri\u00e1n,Keko,1
+Adri\u00e1n,R. Rosales,1
+Juanpi,Keko,1
+Adri\u00e1n,Juanpi,1
+Juanpi,Adri\u00e1n,1

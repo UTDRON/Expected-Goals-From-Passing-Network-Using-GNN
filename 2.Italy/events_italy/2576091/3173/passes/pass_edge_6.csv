@@ -1,0 +1,31 @@
+Source,Target,Weight
+L. Ceppitelli,F. Romagna,2
+F. Romagna,M. Andreolli,2
+M. Andreolli,S. Padoin,2
+P. Farag\u00f2,L. Cigarini,2
+P. Farag\u00f2,N. Barella,2
+M. Andreolli,L. Ceppitelli,2
+L. Cigarini,L. Ceppitelli,2
+L. Ceppitelli,M. Andreolli,2
+L. Cigarini,F. Romagna,2
+F. Romagna,P. Farag\u00f2,2
+F. Romagna,L. Ceppitelli,2
+L. Ceppitelli,P. Farag\u00f2,1
+Rafael,F. Romagna,1
+S. Padoin,F. Romagna,1
+M. Andreolli,Rafael,1
+N. Barella,P. Farag\u00f2,1
+N. Barella,F. Romagna,1
+F. Romagna,L. Pavoletti,1
+F. Romagna,L. Cigarini,1
+L. Pavoletti,L. Cigarini,1
+L. Ceppitelli,N. Barella,1
+L. Cigarini,S. Padoin,1
+L. Cigarini,N. Barella,1
+Rafael,L. Cigarini,1
+S. Padoin,L. Cigarini,1
+N. Barella,L. Pavoletti,1
+L. Cigarini,M. Andreolli,1
+L. Pavoletti,P. Farag\u00f2,1
+S. Padoin,Rafael,1
+P. Farag\u00f2,F. Romagna,1

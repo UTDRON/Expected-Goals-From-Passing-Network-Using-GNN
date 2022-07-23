@@ -1,0 +1,83 @@
+Source,Target,Weight
+Ander Capa,Pedro Le\u00f3n,6
+Iv\u00e1n Alejo,Jos\u00e9 \u00c1ngel,6
+Pedro Le\u00f3n,Ander Capa,6
+Jos\u00e9 \u00c1ngel,Lomb\u00e1n,6
+Paulo Oliveira,Lomb\u00e1n,4
+Ander Capa,Paulo Oliveira,4
+Lomb\u00e1n,Jos\u00e9 \u00c1ngel,4
+Lomb\u00e1n,Paulo Oliveira,4
+Joan Jord\u00e1n,Iv\u00e1n Alejo,3
+Ander Capa,Dani Garc\u00eda,3
+Dani Garc\u00eda,G. Escalante,3
+Iv\u00e1n Alejo,G. Escalante,3
+Paulo Oliveira,G. Escalante,3
+Jos\u00e9 \u00c1ngel,Iv\u00e1n Alejo,3
+Ander Capa,Rub\u00e9n Pe\u00f1a,3
+G. Escalante,Iv\u00e1n Alejo,3
+Paulo Oliveira,M. Dmitrovi\u0107,3
+G. Escalante,Paulo Oliveira,3
+G. Escalante,Ander Capa,3
+G. Escalante,Dani Garc\u00eda,3
+Jos\u00e9 \u00c1ngel,Rub\u00e9n Pe\u00f1a,2
+M. Dmitrovi\u0107,Ander Capa,2
+G. Escalante,Pedro Le\u00f3n,2
+Lomb\u00e1n,Pedro Le\u00f3n,2
+Paulo Oliveira,Pedro Le\u00f3n,2
+Dani Garc\u00eda,Pedro Le\u00f3n,2
+Paulo Oliveira,Ander Capa,2
+Lomb\u00e1n,Dani Garc\u00eda,2
+M. Dmitrovi\u0107,Joan Jord\u00e1n,2
+Paulo Oliveira,Joan Jord\u00e1n,2
+Jos\u00e9 \u00c1ngel,Paulo Oliveira,2
+Pedro Le\u00f3n,G. Escalante,2
+Dani Garc\u00eda,Ander Capa,2
+Dani Garc\u00eda,Jos\u00e9 \u00c1ngel,2
+Lomb\u00e1n,M. Dmitrovi\u0107,2
+Lomb\u00e1n,G. Escalante,2
+Ander Capa,M. Dmitrovi\u0107,2
+Rub\u00e9n Pe\u00f1a,Ander Capa,2
+Pedro Le\u00f3n,Paulo Oliveira,2
+M. Dmitrovi\u0107,Lomb\u00e1n,2
+Pedro Le\u00f3n,Lomb\u00e1n,2
+Joan Jord\u00e1n,G. Escalante,2
+Dani Garc\u00eda,Paulo Oliveira,2
+Paulo Oliveira,Iv\u00e1n Alejo,2
+Pedro Le\u00f3n,Jos\u00e9 \u00c1ngel,1
+Rub\u00e9n Pe\u00f1a,Lomb\u00e1n,1
+Jos\u00e9 \u00c1ngel,Pedro Le\u00f3n,1
+G. Escalante,Jos\u00e9 \u00c1ngel,1
+Joan Jord\u00e1n,Ander Capa,1
+Rub\u00e9n Pe\u00f1a,Dani Garc\u00eda,1
+M. Dmitrovi\u0107,Jos\u00e9 \u00c1ngel,1
+Rub\u00e9n Pe\u00f1a,Pedro Le\u00f3n,1
+Paulo Oliveira,Jos\u00e9 \u00c1ngel,1
+Pedro Le\u00f3n,Rub\u00e9n Pe\u00f1a,1
+Jos\u00e9 \u00c1ngel,M. Dmitrovi\u0107,1
+Pedro Le\u00f3n,Joan Jord\u00e1n,1
+G. Escalante,Joan Jord\u00e1n,1
+M. Dmitrovi\u0107,Iv\u00e1n Alejo,1
+Ander Capa,G. Escalante,1
+Joan Jord\u00e1n,Paulo Oliveira,1
+Iv\u00e1n Alejo,Ander Capa,1
+Jos\u00e9 \u00c1ngel,G. Escalante,1
+Lomb\u00e1n,Iv\u00e1n Alejo,1
+G. Escalante,Lomb\u00e1n,1
+Rub\u00e9n Pe\u00f1a,G. Escalante,1
+G. Escalante,Rub\u00e9n Pe\u00f1a,1
+Lomb\u00e1n,Joan Jord\u00e1n,1
+Pedro Le\u00f3n,Iv\u00e1n Alejo,1
+Jos\u00e9 \u00c1ngel,Dani Garc\u00eda,1
+Iv\u00e1n Alejo,Paulo Oliveira,1
+Dani Garc\u00eda,Lomb\u00e1n,1
+Joan Jord\u00e1n,Dani Garc\u00eda,1
+Ander Capa,Lomb\u00e1n,1
+Joan Jord\u00e1n,Pedro Le\u00f3n,1
+Pedro Le\u00f3n,Dani Garc\u00eda,1
+Dani Garc\u00eda,Joan Jord\u00e1n,1
+Lomb\u00e1n,Ander Capa,1
+Iv\u00e1n Alejo,Dani Garc\u00eda,1
+Iv\u00e1n Alejo,Pedro Le\u00f3n,1
+Rub\u00e9n Pe\u00f1a,Joan Jord\u00e1n,1
+Joan Jord\u00e1n,Lomb\u00e1n,1
+Iv\u00e1n Alejo,Joan Jord\u00e1n,1

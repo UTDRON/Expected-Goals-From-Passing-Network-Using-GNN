@@ -1,0 +1,49 @@
+Source,Target,Weight
+Recio,Chory Castro,7
+Y. En-Nesyri,R. Rosales,5
+R. Rosales,Recio,4
+Recio,R. Rosales,4
+Y. En-Nesyri,M. Iturra,4
+R. Rosales,M. Iturra,4
+Chory Castro,Recio,4
+R. Rosales,Y. En-Nesyri,3
+Y. En-Nesyri,Luis Hern\u00e1ndez,3
+Roberto,Y. En-Nesyri,3
+M. Iturra,R. Rosales,3
+M. Iturra,Roberto,2
+M. Iturra,M. Lestienne,2
+Luis Hern\u00e1ndez,Recio,2
+M. Lestienne,Y. En-Nesyri,2
+Diego Gonz\u00e1lez,Recio,2
+Chory Castro,B. Ideye,2
+R. Rosales,B. Ideye,2
+Y. En-Nesyri,Diego Gonz\u00e1lez,2
+B. Ideye,Y. En-Nesyri,2
+Recio,Y. En-Nesyri,2
+Luis Hern\u00e1ndez,Y. En-Nesyri,1
+Roberto,R. Rosales,1
+M. Lestienne,Luis Hern\u00e1ndez,1
+Chory Castro,R. Rosales,1
+M. Iturra,Recio,1
+Diego Gonz\u00e1lez,R. Rosales,1
+Roberto,B. Ideye,1
+Luis Hern\u00e1ndez,Chory Castro,1
+B. Ideye,Luis Hern\u00e1ndez,1
+M. Iturra,Diego Gonz\u00e1lez,1
+Recio,Diego Gonz\u00e1lez,1
+R. Rosales,Chory Castro,1
+Diego Gonz\u00e1lez,M. Iturra,1
+M. Iturra,Miquel,1
+Diego Gonz\u00e1lez,Y. En-Nesyri,1
+Luis Hern\u00e1ndez,R. Rosales,1
+Miquel,M. Iturra,1
+Chory Castro,Diego Gonz\u00e1lez,1
+R. Rosales,M. Lestienne,1
+Diego Gonz\u00e1lez,Chory Castro,1
+Chory Castro,Roberto,1
+Diego Gonz\u00e1lez,Roberto,1
+M. Lestienne,R. Rosales,1
+Chory Castro,M. Lestienne,1
+B. Ideye,Recio,1
+R. Rosales,Roberto,1
+R. Rosales,Diego Gonz\u00e1lez,1

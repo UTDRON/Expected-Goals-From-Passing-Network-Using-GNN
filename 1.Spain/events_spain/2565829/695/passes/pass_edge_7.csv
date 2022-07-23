@@ -1,0 +1,49 @@
+Source,Target,Weight
+J. Lerma,S. Luki\u0107,3
+S. Luki\u0107,E. Cabaco,3
+Coke,E. Boateng,2
+E. Boateng,Roger,2
+Coke,S. Luki\u0107,2
+Pedro L\u00f3pez,S. Luki\u0107,2
+Ivi,Coke,2
+Roger,E. Boateng,2
+S. Luki\u0107,Coke,2
+Coke,Pedro L\u00f3pez,2
+Jos\u00e9 Luis Morales,Roger,1
+Oier,Pedro L\u00f3pez,1
+Coke,Oier,1
+S. Luki\u0107,Pedro L\u00f3pez,1
+Pedro L\u00f3pez,Coke,1
+Pedro L\u00f3pez,Ivi,1
+Jos\u00e9 Luis Morales,E. Boateng,1
+Jos\u00e9 Luis Morales,Rober,1
+E. Boateng,E. Cabaco,1
+Roger,J. Lerma,1
+E. Cabaco,J. Lerma,1
+Pedro L\u00f3pez,Rober,1
+Pedro L\u00f3pez,Roger,1
+J. Lerma,Pedro L\u00f3pez,1
+E. Cabaco,Coke,1
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,1
+Rober,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+E. Boateng,Pedro L\u00f3pez,1
+Rober,Ivi,1
+Roger,Coke,1
+E. Boateng,Oier,1
+S. Luki\u0107,Jos\u00e9 Luis Morales,1
+E. Boateng,Ivi,1
+E. Cabaco,Ivi,1
+Ivi,S. Luki\u0107,1
+Pedro L\u00f3pez,E. Boateng,1
+Coke,Ivi,1
+S. Luki\u0107,Ivi,1
+E. Cabaco,Pedro L\u00f3pez,1
+Ivi,E. Cabaco,1
+Ivi,Roger,1
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,1
+Pedro L\u00f3pez,J. Lerma,1
+E. Cabaco,E. Boateng,1
+E. Boateng,Coke,1
+Oier,Jos\u00e9 Luis Morales,1
+Ivi,Jos\u00e9 Luis Morales,1

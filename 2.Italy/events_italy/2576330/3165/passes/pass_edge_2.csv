@@ -1,0 +1,23 @@
+Source,Target,Weight
+V. Birsa,F. Depaoli,3
+F. Depaoli,R. Inglese,3
+R. Inglese,V. Birsa,2
+F. Depaoli,V. Birsa,2
+V. Birsa,L. Castro,1
+E. Giaccherini,P. Hetemaj,1
+R. Inglese,L. Castro,1
+I. Radovanovi\u0107,E. Giaccherini,1
+V. Birsa,I. Radovanovi\u0107,1
+L. Castro,I. Radovanovi\u0107,1
+L. Castro,E. Giaccherini,1
+V. Birsa,N. Tomovi\u0107,1
+I. Radovanovi\u0107,S. Sorrentino,1
+P. Hetemaj,E. Giaccherini,1
+N. Tomovi\u0107,F. Depaoli,1
+E. Giaccherini,L. Castro,1
+E. Giaccherini,I. Radovanovi\u0107,1
+S. Sorrentino,L. Castro,1
+I. Radovanovi\u0107,L. Castro,1
+R. Inglese,F. Depaoli,1
+L. Castro,R. Inglese,1
+L. Castro,V. Birsa,1

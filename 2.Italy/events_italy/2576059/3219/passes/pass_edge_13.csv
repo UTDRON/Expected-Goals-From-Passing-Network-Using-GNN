@@ -1,0 +1,12 @@
+Source,Target,Weight
+N. Viola,D. Cataldi,3
+A. Lazaar,N. Viola,2
+D. Cataldi,A. Lazaar,2
+D. Cataldi,R. Chibsah,2
+R. Chibsah,N. Viola,2
+R. Chibsah,A. Ciciretti,1
+L. Antei,R. Chibsah,1
+C. Lombardi,L. Antei,1
+A. Ciciretti,M. Coda,1
+N. Viola,A. Ciciretti,1
+M. Coda,D. Cataldi,1

@@ -1,0 +1,76 @@
+Source,Target,Weight
+Filipe Luis,Koke,6
+Koke,L. Hern\u00e1ndez,5
+Sa\u00fal,S. Savi\u0107,5
+Koke,Sa\u00fal,5
+Koke,Filipe Luis,4
+L. Hern\u00e1ndez,S. Savi\u0107,4
+Juanfran,Koke,4
+Sa\u00fal,Koke,4
+Fernando Torres,Koke,3
+Sa\u00fal,L. Hern\u00e1ndez,3
+S. Savi\u0107,Koke,3
+Juanfran,Thomas,3
+Thomas,Koke,3
+L. Hern\u00e1ndez,Filipe Luis,3
+S. Savi\u0107,N. Gait\u00e1n,3
+N. Gait\u00e1n,Thomas,3
+L. Hern\u00e1ndez,Sa\u00fal,3
+J. Oblak,Fernando Torres,3
+Filipe Luis,N. Gait\u00e1n,2
+Thomas,Filipe Luis,2
+N. Gait\u00e1n,Filipe Luis,2
+Fernando Torres,Sa\u00fal,2
+S. Savi\u0107,J. Oblak,2
+S. Savi\u0107,Sa\u00fal,2
+Fernando Torres,Juanfran,2
+N. Gait\u00e1n,Sa\u00fal,2
+N. Gait\u00e1n,Koke,2
+Thomas,Juanfran,2
+Koke,Fernando Torres,2
+Thomas,N. Gait\u00e1n,2
+Koke,\u00c1. Correa,2
+Fernando Torres,N. Gait\u00e1n,2
+Koke,Juanfran,2
+Filipe Luis,S. Savi\u0107,2
+Koke,K. Gameiro,2
+Koke,Thomas,2
+K. Gameiro,Fernando Torres,2
+S. Savi\u0107,Filipe Luis,1
+S. Savi\u0107,Juanfran,1
+Sa\u00fal,K. Gameiro,1
+\u00c1. Correa,Thomas,1
+S. Savi\u0107,Fernando Torres,1
+Filipe Luis,L. Hern\u00e1ndez,1
+Fernando Torres,Filipe Luis,1
+Koke,J. Oblak,1
+L. Hern\u00e1ndez,Juanfran,1
+N. Gait\u00e1n,S. Savi\u0107,1
+Filipe Luis,Thomas,1
+Sa\u00fal,Juanfran,1
+Juanfran,L. Hern\u00e1ndez,1
+\u00c1. Correa,J. Oblak,1
+N. Gait\u00e1n,K. Gameiro,1
+J. Oblak,N. Gait\u00e1n,1
+L. Hern\u00e1ndez,Koke,1
+\u00c1. Correa,L. Hern\u00e1ndez,1
+K. Gameiro,Filipe Luis,1
+Filipe Luis,K. Gameiro,1
+K. Gameiro,S. Savi\u0107,1
+Juanfran,N. Gait\u00e1n,1
+L. Hern\u00e1ndez,Fernando Torres,1
+Thomas,Sa\u00fal,1
+Thomas,L. Hern\u00e1ndez,1
+Filipe Luis,Fernando Torres,1
+Sa\u00fal,Thomas,1
+Sa\u00fal,N. Gait\u00e1n,1
+Juanfran,S. Savi\u0107,1
+Koke,S. Savi\u0107,1
+S. Savi\u0107,Thomas,1
+N. Gait\u00e1n,Juanfran,1
+Fernando Torres,\u00c1. Correa,1
+Koke,N. Gait\u00e1n,1
+S. Savi\u0107,\u00c1. Correa,1
+N. Gait\u00e1n,L. Hern\u00e1ndez,1
+\u00c1. Correa,Fernando Torres,1
+K. Gameiro,Koke,1

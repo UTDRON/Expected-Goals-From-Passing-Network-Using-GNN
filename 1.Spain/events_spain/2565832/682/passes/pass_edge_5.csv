@@ -1,0 +1,21 @@
+Source,Target,Weight
+Rodri,R. Soriano,2
+Rodri,Jaume Costa,2
+Trigueros,Mario,2
+Trigueros,Dani Raba,2
+Dani Raba,Rodri,1
+Jaume Costa,Pablo Fornals,1
+Dani Raba,Trigueros,1
+Dani Raba,Pablo Fornals,1
+Jaume Costa,Rodri,1
+Jaume Costa,Sergio Asenjo,1
+Pablo Fornals,Trigueros,1
+Rodri,C. Bacca,1
+Sergio Asenjo,Pablo Fornals,1
+C. Bacca,Trigueros,1
+Mario,Dani Raba,1
+R. Soriano,Rodri,1
+Mario,Trigueros,1
+Pablo Fornals,Rodri,1
+R. Soriano,Jaume Costa,1
+Trigueros,Rodri,1

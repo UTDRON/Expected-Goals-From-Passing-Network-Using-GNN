@@ -1,0 +1,45 @@
+Source,Target,Weight
+C. Lenglet,S. Kj\u00e6r,4
+S. Kj\u00e6r,G. Pizarro,4
+S. Kj\u00e6r,C. Lenglet,4
+C. Lenglet,Sergio Escudero,4
+Sergio Escudero,C. Lenglet,3
+S. Kj\u00e6r,S. N'Zonzi,3
+Sergio Escudero,M. Krohn-Dehli,2
+S. N'Zonzi,S. Kj\u00e6r,2
+G. Pizarro,M. Krohn-Dehli,2
+Sergio Escudero,J. Correa,2
+G. Pizarro,S. Kj\u00e6r,2
+S. N'Zonzi,S. Corchia,2
+C. Lenglet,S. N'Zonzi,2
+S. Corchia,S. Kj\u00e6r,2
+J. Correa,Sergio Escudero,2
+S. Corchia,Pablo Sarabia,2
+J. Correa,G. Pizarro,2
+David Soria,S. Kj\u00e6r,1
+M. Krohn-Dehli,C. Lenglet,1
+G. Pizarro,David Soria,1
+S. N'Zonzi,G. Pizarro,1
+M. Krohn-Dehli,W. Ben Yedder,1
+J. Correa,S. N'Zonzi,1
+G. Pizarro,W. Ben Yedder,1
+G. Pizarro,S. N'Zonzi,1
+Pablo Sarabia,C. Lenglet,1
+W. Ben Yedder,Sergio Escudero,1
+W. Ben Yedder,M. Krohn-Dehli,1
+C. Lenglet,S. Corchia,1
+Sergio Escudero,Pablo Sarabia,1
+S. N'Zonzi,C. Lenglet,1
+Pablo Sarabia,J. Correa,1
+M. Krohn-Dehli,Sergio Escudero,1
+C. Lenglet,J. Correa,1
+W. Ben Yedder,C. Lenglet,1
+M. Krohn-Dehli,S. Corchia,1
+Sergio Escudero,G. Pizarro,1
+G. Pizarro,J. Correa,1
+S. Corchia,C. Lenglet,1
+M. Krohn-Dehli,G. Pizarro,1
+J. Correa,S. Corchia,1
+C. Lenglet,W. Ben Yedder,1
+G. Pizarro,C. Lenglet,1
+S. N'Zonzi,Sergio Escudero,1

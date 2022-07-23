@@ -1,0 +1,52 @@
+Source,Target,Weight
+Diego Llorente,A. Januzaj,4
+Diego Llorente,H. Moreno,4
+A. Januzaj,Diego Llorente,3
+K\u00e9vin Rodrigues,Zurutuza,3
+A. Januzaj,Zubeld\u00eda,3
+Zurutuza,H. Moreno,3
+H. Moreno,K\u00e9vin Rodrigues,3
+K\u00e9vin Rodrigues,Juanmi,3
+H. Moreno,Diego Llorente,3
+Canales,Diego Llorente,3
+Juanmi,Zurutuza,2
+G. Rulli,Diego Llorente,2
+Diego Llorente,Zubeld\u00eda,2
+Zubeld\u00eda,G. Rulli,2
+Diego Llorente,G. Rulli,2
+Zurutuza,K\u00e9vin Rodrigues,2
+Canales,Odriozola,2
+H. Moreno,Zurutuza,2
+Zurutuza,A. Januzaj,2
+Zubeld\u00eda,Canales,2
+Odriozola,A. Januzaj,2
+Odriozola,Diego Llorente,1
+Canales,Zubeld\u00eda,1
+K\u00e9vin Rodrigues,Agirretxe,1
+Zubeld\u00eda,A. Januzaj,1
+G. Rulli,Odriozola,1
+K\u00e9vin Rodrigues,Diego Llorente,1
+Juanmi,H. Moreno,1
+Diego Llorente,Agirretxe,1
+Diego Llorente,Canales,1
+Zurutuza,Zubeld\u00eda,1
+K\u00e9vin Rodrigues,Canales,1
+G. Rulli,Juanmi,1
+Zubeld\u00eda,K\u00e9vin Rodrigues,1
+A. Januzaj,Zurutuza,1
+Agirretxe,Zurutuza,1
+Zurutuza,Juanmi,1
+Agirretxe,Zubeld\u00eda,1
+Diego Llorente,K\u00e9vin Rodrigues,1
+Zubeld\u00eda,Diego Llorente,1
+Odriozola,Canales,1
+Juanmi,K\u00e9vin Rodrigues,1
+Agirretxe,Odriozola,1
+Juanmi,Diego Llorente,1
+Canales,Agirretxe,1
+H. Moreno,G. Rulli,1
+A. Januzaj,Odriozola,1
+A. Januzaj,Canales,1
+Zubeld\u00eda,H. Moreno,1
+Odriozola,K\u00e9vin Rodrigues,1
+G. Rulli,A. Januzaj,1

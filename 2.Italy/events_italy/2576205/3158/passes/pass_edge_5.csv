@@ -1,0 +1,24 @@
+Source,Target,Weight
+L. Pellegrini,K. Manolas,2
+F. Fazio,K. Manolas,1
+L. Pellegrini,C. \u00dcnder,1
+K. Manolas,L. Pellegrini,1
+K. Manolas,F. Fazio,1
+R. Nainggolan,K. Manolas,1
+C. \u00dcnder,R. Nainggolan,1
+S. El Shaarawy,L. Pellegrini,1
+K. Manolas,R. Nainggolan,1
+F. Fazio,A. Florenzi,1
+K. Manolas,A. Florenzi,1
+A. Florenzi,F. Fazio,1
+L. Pellegrini,D. De Rossi,1
+A. Florenzi,C. \u00dcnder,1
+D. De Rossi,S. El Shaarawy,1
+R. Nainggolan,C. \u00dcnder,1
+C. \u00dcnder,D. De Rossi,1
+A. Florenzi,R. Nainggolan,1
+C. \u00dcnder,E. D\u017eeko,1
+S. El Shaarawy,Juan Jesus,1
+R. Nainggolan,L. Pellegrini,1
+D. De Rossi,L. Pellegrini,1
+Juan Jesus,S. El Shaarawy,1

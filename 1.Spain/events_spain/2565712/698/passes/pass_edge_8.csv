@@ -1,0 +1,43 @@
+Source,Target,Weight
+D. Su\u00e1rez,Jorge Molina,4
+Portillo,D. Su\u00e1rez,3
+A. Ndiaye,Antunes,3
+F. Fajr,A. Ndiaye,3
+Djen\u00e9,Guaita,3
+Guaita,Jorge Molina,3
+Sergio Mora,Jorge Molina,2
+Jorge Molina,Sergio Mora,2
+Jorge Molina,D. Su\u00e1rez,2
+Antunes,Jorge Molina,2
+F. Fajr,Sergio Mora,2
+Jorge Molina,Djen\u00e9,2
+Jorge Molina,Juan Cala,2
+\u00c1ngel,Portillo,2
+D. Su\u00e1rez,F. Fajr,2
+F. Fajr,Antunes,1
+Guaita,Portillo,1
+Sergio Mora,A. Ndiaye,1
+Antunes,A. Ndiaye,1
+Antunes,F. Fajr,1
+Antunes,Djen\u00e9,1
+D. Su\u00e1rez,Djen\u00e9,1
+Djen\u00e9,\u00c1ngel,1
+Djen\u00e9,D. Su\u00e1rez,1
+Portillo,F. Fajr,1
+Sergio Mora,\u00c1ngel,1
+Jorge Molina,F. Fajr,1
+Juan Cala,D. Su\u00e1rez,1
+Djen\u00e9,F. Fajr,1
+Sergio Mora,Guaita,1
+Sergio Mora,F. Fajr,1
+Jorge Molina,Antunes,1
+Juan Cala,Portillo,1
+D. Su\u00e1rez,Antunes,1
+Jorge Molina,Guaita,1
+F. Fajr,\u00c1ngel,1
+Antunes,Juan Cala,1
+A. Ndiaye,Sergio Mora,1
+A. Ndiaye,Jorge Molina,1
+\u00c1ngel,D. Su\u00e1rez,1
+Juan Cala,Djen\u00e9,1
+Guaita,Djen\u00e9,1

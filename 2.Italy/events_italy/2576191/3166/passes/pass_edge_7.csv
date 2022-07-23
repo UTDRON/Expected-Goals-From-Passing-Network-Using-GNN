@@ -1,0 +1,63 @@
+Source,Target,Weight
+G. Gonz\u00e1lez,E. Pulgar,6
+V. Torosidis,E. Pulgar,5
+V. Torosidis,G. Gonz\u00e1lez,5
+G. Gonz\u00e1lez,V. Torosidis,5
+V. Torosidis,S. De Maio,4
+E. Pulgar,B. D\u017eemaili,4
+E. Pulgar,G. Gonz\u00e1lez,4
+B. D\u017eemaili,V. Torosidis,4
+A. Masina,C. Falletti,4
+E. Pulgar,V. Torosidis,4
+S. De Maio,C. Falletti,4
+S. De Maio,E. Pulgar,4
+G. Gonz\u00e1lez,A. Mirante,3
+C. Falletti,B. D\u017eemaili,3
+S. De Maio,A. Mirante,3
+C. Falletti,G. Gonz\u00e1lez,3
+C. Falletti,S. De Maio,3
+S. De Maio,A. Masina,3
+B. D\u017eemaili,C. Falletti,3
+A. Masina,S. De Maio,2
+B. D\u017eemaili,S. De Maio,2
+A. Mirante,G. Gonz\u00e1lez,2
+S. De Maio,G. Gonz\u00e1lez,2
+R. Palacio,S. De Maio,2
+C. Falletti,V. Torosidis,2
+V. Torosidis,R. Palacio,2
+E. Pulgar,S. De Maio,2
+F. Avenatti,R. Palacio,2
+E. Pulgar,C. Falletti,2
+G. Gonz\u00e1lez,F. Avenatti,2
+V. Torosidis,B. D\u017eemaili,2
+A. Mirante,S. De Maio,2
+A. Poli,E. Pulgar,1
+E. Pulgar,A. Masina,1
+R. Palacio,V. Torosidis,1
+G. Gonz\u00e1lez,B. D\u017eemaili,1
+R. Palacio,B. D\u017eemaili,1
+C. Falletti,E. Pulgar,1
+B. D\u017eemaili,A. Masina,1
+R. Palacio,A. Masina,1
+A. Masina,R. Palacio,1
+S. De Maio,B. D\u017eemaili,1
+B. D\u017eemaili,G. Gonz\u00e1lez,1
+F. Di Francesco,E. Pulgar,1
+B. D\u017eemaili,F. Di Francesco,1
+V. Torosidis,F. Di Francesco,1
+E. Pulgar,F. Avenatti,1
+C. Falletti,R. Palacio,1
+F. Avenatti,V. Torosidis,1
+A. Masina,G. Gonz\u00e1lez,1
+F. Di Francesco,B. D\u017eemaili,1
+G. Gonz\u00e1lez,A. Poli,1
+S. De Maio,V. Torosidis,1
+A. Mirante,V. Torosidis,1
+I. M'baye,A. Poli,1
+A. Mirante,A. Masina,1
+B. D\u017eemaili,I. M'baye,1
+G. Gonz\u00e1lez,S. De Maio,1
+A. Poli,G. Gonz\u00e1lez,1
+R. Palacio,C. Falletti,1
+S. De Maio,R. Palacio,1
+C. Falletti,A. Masina,1

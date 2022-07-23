@@ -1,0 +1,45 @@
+Source,Target,Weight
+E. Pulgar,F. Di Francesco,3
+S. Verdi,G. Donsah,2
+A. Masina,F. Di Francesco,2
+E. Pulgar,A. Masina,2
+G. Donsah,S. Ta\u00efder,2
+G. Donsah,E. Pulgar,2
+G. Donsah,S. Verdi,2
+V. Torosidis,G. Donsah,2
+S. Verdi,V. Torosidis,2
+S. De Maio,A. Mirante,1
+A. Masina,S. Verdi,1
+S. De Maio,G. Donsah,1
+F. Di Francesco,D. Maietta,1
+D. Maietta,A. Masina,1
+G. Donsah,S. De Maio,1
+S. Ta\u00efder,S. De Maio,1
+V. Torosidis,A. Masina,1
+F. Di Francesco,S. De Maio,1
+M. Destro,E. Pulgar,1
+F. Di Francesco,V. Torosidis,1
+S. Verdi,S. Ta\u00efder,1
+G. Donsah,D. Maietta,1
+D. Maietta,F. Di Francesco,1
+A. Masina,D. Maietta,1
+D. Maietta,S. De Maio,1
+V. Torosidis,S. Verdi,1
+S. Verdi,M. Destro,1
+A. Mirante,M. Destro,1
+E. Pulgar,G. Donsah,1
+D. Maietta,E. Pulgar,1
+F. Di Francesco,S. Verdi,1
+A. Masina,V. Torosidis,1
+A. Masina,E. Pulgar,1
+S. Ta\u00efder,D. Maietta,1
+S. De Maio,S. Verdi,1
+F. Di Francesco,A. Masina,1
+M. Destro,A. Masina,1
+A. Masina,S. Ta\u00efder,1
+S. Ta\u00efder,E. Pulgar,1
+S. Verdi,A. Masina,1
+S. Ta\u00efder,S. Verdi,1
+S. De Maio,V. Torosidis,1
+V. Torosidis,F. Di Francesco,1
+F. Di Francesco,G. Donsah,1

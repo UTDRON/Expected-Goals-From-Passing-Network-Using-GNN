@@ -1,0 +1,66 @@
+Source,Target,Weight
+Rodri,Trigueros,9
+Trigueros,R. Soriano,8
+Dani Raba,Rodri,6
+A. Rukavina,Rodri,5
+A. Rukavina,Dani Raba,5
+R. Soriano,Trigueros,5
+Adri\u00e1n Mar\u00edn,Trigueros,5
+\u00c1lvaro Gonz\u00e1lez,Rodri,5
+Pablo Fornals,Trigueros,4
+Trigueros,Adri\u00e1n Mar\u00edn,4
+Trigueros,Pablo Fornals,4
+D. Bonera,Rodri,4
+Rodri,A. Rukavina,3
+D. Bonera,A. Rukavina,3
+Dani Raba,R. Soriano,3
+Pablo Fornals,A. Rukavina,3
+Trigueros,\u00c1lvaro Gonz\u00e1lez,3
+Dani Raba,A. Rukavina,3
+Adri\u00e1n Mar\u00edn,\u00c1lvaro Gonz\u00e1lez,3
+Rodri,Adri\u00e1n Mar\u00edn,3
+Rodri,D. Bonera,3
+Trigueros,D. Bonera,3
+Rodri,Dani Raba,2
+R. Soriano,Adri\u00e1n Mar\u00edn,2
+\u00c1lvaro Gonz\u00e1lez,Trigueros,2
+R. Soriano,Dani Raba,2
+R. Soriano,Rodri,2
+Pablo Fornals,Dani Raba,2
+Dani Raba,Pablo Fornals,2
+A. Rukavina,Pablo Fornals,2
+R. Soriano,D. Bonera,2
+Pablo Fornals,D. Bonera,2
+Rodri,R. Soriano,2
+D. Bonera,Sergio Asenjo,2
+Trigueros,A. Rukavina,2
+A. Rukavina,D. Bonera,2
+Adri\u00e1n Mar\u00edn,R. Soriano,2
+D. Bonera,\u00c1lvaro Gonz\u00e1lez,2
+Trigueros,Rodri,2
+D. Bonera,Dani Raba,2
+Sergio Asenjo,Adri\u00e1n Mar\u00edn,1
+Rodri,Pablo Fornals,1
+Sergio Asenjo,C. Bacca,1
+A. Rukavina,Sergio Asenjo,1
+Adri\u00e1n Mar\u00edn,Sergio Asenjo,1
+C. Bacca,D. Bonera,1
+Rodri,\u00c1lvaro Gonz\u00e1lez,1
+Sergio Asenjo,Dani Raba,1
+C. Bacca,Dani Raba,1
+D. Bonera,Adri\u00e1n Mar\u00edn,1
+Rodri,C. Bacca,1
+R. Soriano,C. Bacca,1
+A. Rukavina,\u00c1lvaro Gonz\u00e1lez,1
+Adri\u00e1n Mar\u00edn,A. Rukavina,1
+Dani Raba,D. Bonera,1
+\u00c1lvaro Gonz\u00e1lez,Adri\u00e1n Mar\u00edn,1
+D. Bonera,Pablo Fornals,1
+R. Soriano,A. Rukavina,1
+Sergio Asenjo,R. Soriano,1
+Sergio Asenjo,Rodri,1
+Dani Raba,Trigueros,1
+R. Soriano,Sergio Asenjo,1
+\u00c1lvaro Gonz\u00e1lez,R. Soriano,1
+R. Soriano,Pablo Fornals,1
+\u00c1lvaro Gonz\u00e1lez,Dani Raba,1

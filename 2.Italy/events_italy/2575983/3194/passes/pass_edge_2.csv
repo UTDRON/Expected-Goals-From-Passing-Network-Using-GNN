@@ -1,0 +1,54 @@
+Source,Target,Weight
+B. Zuculini,S. Souprayen,4
+M. Fares,G. Pazzini,3
+M. C\u00e1ceres,D. Verde,3
+M. C\u00e1ceres,M. B\u00fcchel,3
+T. Heurtaux,B. Zuculini,3
+D. Verde,B. Zuculini,3
+M. C\u00e1ceres,Daniel Bessa,3
+S. Souprayen,Nicolas,3
+M. B\u00fcchel,S. Souprayen,2
+A. Ferrari,Daniel Bessa,2
+B. Zuculini,M. C\u00e1ceres,2
+A. Ferrari,M. C\u00e1ceres,2
+Daniel Bessa,B. Zuculini,2
+S. Souprayen,M. Fares,2
+G. Pazzini,A. Ferrari,2
+Daniel Bessa,D. Verde,2
+M. B\u00fcchel,G. Pazzini,2
+D. Verde,M. C\u00e1ceres,2
+A. Ferrari,S. Souprayen,2
+S. Souprayen,B. Zuculini,2
+B. Zuculini,Daniel Bessa,2
+G. Pazzini,M. C\u00e1ceres,1
+T. Heurtaux,S. Souprayen,1
+S. Souprayen,M. B\u00fcchel,1
+S. Souprayen,M. C\u00e1ceres,1
+Nicolas,M. B\u00fcchel,1
+G. Pazzini,M. Fares,1
+S. Souprayen,A. Ferrari,1
+Daniel Bessa,G. Pazzini,1
+Nicolas,M. C\u00e1ceres,1
+B. Zuculini,Nicolas,1
+Daniel Bessa,M. Fares,1
+D. Verde,A. Ferrari,1
+M. C\u00e1ceres,T. Heurtaux,1
+B. Zuculini,T. Heurtaux,1
+Nicolas,T. Heurtaux,1
+M. Fares,S. Souprayen,1
+M. B\u00fcchel,B. Zuculini,1
+D. Verde,M. Fares,1
+M. Fares,B. Zuculini,1
+A. Ferrari,D. Verde,1
+G. Pazzini,S. Souprayen,1
+T. Heurtaux,A. Ferrari,1
+M. Fares,M. B\u00fcchel,1
+B. Zuculini,M. B\u00fcchel,1
+S. Souprayen,T. Heurtaux,1
+M. C\u00e1ceres,G. Pazzini,1
+M. B\u00fcchel,A. Ferrari,1
+Nicolas,M. Fares,1
+G. Pazzini,D. Verde,1
+Daniel Bessa,M. C\u00e1ceres,1
+M. B\u00fcchel,M. C\u00e1ceres,1
+B. Zuculini,A. Ferrari,1

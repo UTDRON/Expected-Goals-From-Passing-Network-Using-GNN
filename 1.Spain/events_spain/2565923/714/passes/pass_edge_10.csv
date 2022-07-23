@@ -1,0 +1,91 @@
+Source,Target,Weight
+O. Etebo,David Garc\u00eda,5
+Dani Castellano,G\u00e1lvez,4
+M. Aguirregaray,A. Halilovi\u0107,4
+G\u00e1lvez,L. Chichizola,4
+Benito Ram\u00edrez,Dani Castellano,4
+Vicente G\u00f3mez,David Garc\u00eda,4
+David Garc\u00eda,O. Etebo,4
+Momo,G\u00e1lvez,4
+Nacho Gil,O. Etebo,3
+G\u00e1lvez,David Garc\u00eda,3
+Benito Ram\u00edrez,Vicente G\u00f3mez,3
+G\u00e1lvez,Dani Castellano,3
+L. Chichizola,G\u00e1lvez,3
+J. Calleri,Erik Exp\u00f3sito,3
+O. Etebo,G\u00e1lvez,3
+Momo,Vicente G\u00f3mez,3
+J. Calleri,Vicente G\u00f3mez,3
+David Garc\u00eda,M. Aguirregaray,3
+G\u00e1lvez,J. Calleri,3
+David Garc\u00eda,Benito Ram\u00edrez,3
+O. Etebo,Vicente G\u00f3mez,3
+G\u00e1lvez,O. Etebo,3
+A. Halilovi\u0107,Momo,2
+L. Chichizola,Benito Ram\u00edrez,2
+Vicente G\u00f3mez,A. Halilovi\u0107,2
+M. Aguirregaray,L. Chichizola,2
+L. Chichizola,J. Calleri,2
+Benito Ram\u00edrez,Momo,2
+Vicente G\u00f3mez,J. Calleri,2
+David Garc\u00eda,L. Chichizola,2
+Vicente G\u00f3mez,Benito Ram\u00edrez,2
+Erik Exp\u00f3sito,G\u00e1lvez,2
+L. Chichizola,O. Etebo,2
+Benito Ram\u00edrez,L. Chichizola,2
+Vicente G\u00f3mez,G\u00e1lvez,2
+A. Halilovi\u0107,M. Aguirregaray,2
+A. Halilovi\u0107,David Garc\u00eda,2
+J. Calleri,Benito Ram\u00edrez,2
+Vicente G\u00f3mez,M. Aguirregaray,2
+David Garc\u00eda,Momo,2
+David Garc\u00eda,A. Halilovi\u0107,2
+Vicente G\u00f3mez,Momo,2
+A. Halilovi\u0107,Vicente G\u00f3mez,2
+G\u00e1lvez,Benito Ram\u00edrez,2
+L. Chichizola,David Garc\u00eda,1
+Vicente G\u00f3mez,O. Etebo,1
+O. Etebo,A. Halilovi\u0107,1
+Dani Castellano,David Garc\u00eda,1
+O. Etebo,L. Chichizola,1
+Momo,David Garc\u00eda,1
+Dani Castellano,M. Aguirregaray,1
+Dani Castellano,Momo,1
+A. Halilovi\u0107,O. Etebo,1
+Benito Ram\u00edrez,J. Calleri,1
+Momo,Benito Ram\u00edrez,1
+Dani Castellano,Erik Exp\u00f3sito,1
+David Garc\u00eda,Vicente G\u00f3mez,1
+G\u00e1lvez,Vicente G\u00f3mez,1
+Erik Exp\u00f3sito,Nacho Gil,1
+M. Aguirregaray,J. Calleri,1
+J. Calleri,Dani Castellano,1
+L. Chichizola,Momo,1
+O. Etebo,J. Calleri,1
+L. Chichizola,Erik Exp\u00f3sito,1
+Benito Ram\u00edrez,O. Etebo,1
+David Garc\u00eda,G\u00e1lvez,1
+Benito Ram\u00edrez,G\u00e1lvez,1
+O. Etebo,Benito Ram\u00edrez,1
+Erik Exp\u00f3sito,A. Halilovi\u0107,1
+O. Etebo,Nacho Gil,1
+David Garc\u00eda,Erik Exp\u00f3sito,1
+Nacho Gil,David Garc\u00eda,1
+G\u00e1lvez,Erik Exp\u00f3sito,1
+Momo,O. Etebo,1
+G\u00e1lvez,Nacho Gil,1
+David Garc\u00eda,Nacho Gil,1
+Momo,Dani Castellano,1
+Erik Exp\u00f3sito,Vicente G\u00f3mez,1
+A. Halilovi\u0107,Nacho Gil,1
+Nacho Gil,A. Halilovi\u0107,1
+Erik Exp\u00f3sito,Benito Ram\u00edrez,1
+Benito Ram\u00edrez,David Garc\u00eda,1
+Dani Castellano,J. Calleri,1
+J. Calleri,A. Halilovi\u0107,1
+M. Aguirregaray,O. Etebo,1
+A. Halilovi\u0107,G\u00e1lvez,1
+Dani Castellano,L. Chichizola,1
+Erik Exp\u00f3sito,Dani Castellano,1
+O. Etebo,Momo,1
+J. Calleri,David Garc\u00eda,1

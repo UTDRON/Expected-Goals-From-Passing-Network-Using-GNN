@@ -1,0 +1,12 @@
+Source,Target,Weight
+Ivi,Luna,2
+Luna,Ivi,2
+Roger,E. Boateng,1
+Jos\u00e9 Luis Morales,Chema,1
+E. Boateng,Luna,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+E. Boateng,Roger,1
+Chema,Ivi,1
+Chema,E. Boateng,1
+Luna,Chema,1
+Luna,Campa\u00f1a,1

@@ -1,0 +1,82 @@
+Source,Target,Weight
+Ra\u00fal Garc\u00eda,Gumbau,7
+M. Dos Santos,Gumbau,6
+E. Mu\u00f1oz,M. Dos Santos,5
+Jos\u00e9 Naranjo,Rub\u00e9n P\u00e9rez,5
+Tito,Rub\u00e9n P\u00e9rez,5
+C. Beauvue,Ra\u00fal Garc\u00eda,4
+E. Mu\u00f1oz,Rub\u00e9n P\u00e9rez,4
+M. Dos Santos,Ra\u00fal Garc\u00eda,4
+Rub\u00e9n P\u00e9rez,E. Mu\u00f1oz,4
+D. Bra\u0161anac,Jos\u00e9 Naranjo,4
+Rub\u00e9n P\u00e9rez,C. Beauvue,4
+Cu\u00e9llar,C. Beauvue,4
+Gabriel,Tito,4
+Ra\u00fal Garc\u00eda,Gabriel,4
+Rub\u00e9n P\u00e9rez,Gabriel,3
+Gabriel,E. Mu\u00f1oz,3
+C. Beauvue,Rub\u00e9n P\u00e9rez,3
+M. Dos Santos,Rub\u00e9n P\u00e9rez,3
+Gumbau,Ra\u00fal Garc\u00eda,3
+Rub\u00e9n P\u00e9rez,Tito,3
+Rub\u00e9n P\u00e9rez,Ra\u00fal Garc\u00eda,3
+Tito,Gabriel,3
+Ra\u00fal Garc\u00eda,Jos\u00e9 Naranjo,3
+C. Beauvue,M. Dos Santos,3
+Rub\u00e9n P\u00e9rez,D. Bra\u0161anac,3
+E. Mu\u00f1oz,D. Bra\u0161anac,3
+Gabriel,C. Beauvue,3
+Gabriel,Ra\u00fal Garc\u00eda,3
+D. Bra\u0161anac,Gabriel,3
+Gumbau,Gabriel,3
+E. Mu\u00f1oz,Gabriel,3
+Rub\u00e9n P\u00e9rez,M. Dos Santos,3
+Jos\u00e9 Naranjo,Gabriel,2
+Gumbau,Rub\u00e9n P\u00e9rez,2
+Rub\u00e9n P\u00e9rez,Gumbau,2
+Gabriel,D. Bra\u0161anac,2
+Cu\u00e9llar,E. Mu\u00f1oz,2
+Jos\u00e9 Naranjo,Cu\u00e9llar,2
+Ra\u00fal Garc\u00eda,E. Mu\u00f1oz,2
+Gumbau,Jos\u00e9 Naranjo,2
+Gumbau,Tito,2
+C. Beauvue,D. Bra\u0161anac,2
+D. Bra\u0161anac,E. Mu\u00f1oz,2
+Gumbau,E. Mu\u00f1oz,2
+D. Bra\u0161anac,Rub\u00e9n P\u00e9rez,2
+E. Mu\u00f1oz,Tito,2
+Gabriel,M. Dos Santos,2
+Gumbau,D. Bra\u0161anac,2
+Tito,M. Dos Santos,2
+Gabriel,Jos\u00e9 Naranjo,2
+M. Dos Santos,Cu\u00e9llar,2
+Gumbau,M. Dos Santos,2
+Gabriel,Gumbau,2
+Tito,Ra\u00fal Garc\u00eda,1
+Jos\u00e9 Naranjo,C. Beauvue,1
+Cu\u00e9llar,Jos\u00e9 Naranjo,1
+Jos\u00e9 Naranjo,Ra\u00fal Garc\u00eda,1
+D. Bra\u0161anac,M. Dos Santos,1
+Tito,Cu\u00e9llar,1
+E. Mu\u00f1oz,Cu\u00e9llar,1
+M. Dos Santos,E. Mu\u00f1oz,1
+D. Bra\u0161anac,Tito,1
+E. Mu\u00f1oz,Jos\u00e9 Naranjo,1
+Tito,D. Bra\u0161anac,1
+Tito,Jos\u00e9 Naranjo,1
+Cu\u00e9llar,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,Cu\u00e9llar,1
+M. Dos Santos,Gabriel,1
+M. Dos Santos,D. Bra\u0161anac,1
+Jos\u00e9 Naranjo,Gumbau,1
+Jos\u00e9 Naranjo,E. Mu\u00f1oz,1
+D. Bra\u0161anac,C. Beauvue,1
+Cu\u00e9llar,Tito,1
+Ra\u00fal Garc\u00eda,Rub\u00e9n P\u00e9rez,1
+Ra\u00fal Garc\u00eda,C. Beauvue,1
+Tito,E. Mu\u00f1oz,1
+Gabriel,Rub\u00e9n P\u00e9rez,1
+Ra\u00fal Garc\u00eda,Tito,1
+Rub\u00e9n P\u00e9rez,Cu\u00e9llar,1
+C. Beauvue,Cu\u00e9llar,1
+C. Beauvue,E. Mu\u00f1oz,1

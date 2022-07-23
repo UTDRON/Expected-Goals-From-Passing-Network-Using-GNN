@@ -1,0 +1,42 @@
+Source,Target,Weight
+A. Kolarov,K. Strootman,3
+E. Capradossi,L. Pellegrini,3
+K. Strootman,S. El Shaarawy,3
+M. Gonalons,F. Fazio,2
+L. Pellegrini,M. Gonalons,2
+M. Gonalons,K. Strootman,2
+A. Kolarov,E. D\u017eeko,2
+A. Kolarov,S. El Shaarawy,2
+K. Manolas,E. Capradossi,2
+L. Pellegrini,K. Manolas,2
+K. Strootman,A. Kolarov,2
+F. Fazio,K. Manolas,1
+L. Pellegrini,S. El Shaarawy,1
+E. Capradossi,F. Fazio,1
+F. Fazio,E. Capradossi,1
+E. D\u017eeko,K. Strootman,1
+K. Manolas,Gerson,1
+E. D\u017eeko,K. Manolas,1
+F. Fazio,L. Pellegrini,1
+K. Manolas,E. D\u017eeko,1
+S. El Shaarawy,F. Fazio,1
+F. Fazio,A. Kolarov,1
+S. El Shaarawy,L. Pellegrini,1
+Gerson,L. Pellegrini,1
+M. Gonalons,E. Capradossi,1
+K. Strootman,L. Pellegrini,1
+S. El Shaarawy,K. Manolas,1
+K. Strootman,M. Gonalons,1
+E. D\u017eeko,A. Kolarov,1
+S. El Shaarawy,A. Kolarov,1
+S. El Shaarawy,K. Strootman,1
+L. Pellegrini,E. Capradossi,1
+\u0141. Skorupski,M. Gonalons,1
+M. Gonalons,A. Kolarov,1
+K. Manolas,M. Gonalons,1
+K. Strootman,E. D\u017eeko,1
+E. Capradossi,A. Kolarov,1
+E. D\u017eeko,M. Gonalons,1
+L. Pellegrini,\u0141. Skorupski,1
+S. El Shaarawy,E. D\u017eeko,1
+E. D\u017eeko,L. Pellegrini,1

@@ -1,0 +1,26 @@
+Source,Target,Weight
+M. Silvestre,G. Ferrari,3
+G. Ferrari,D. Praet,2
+D. Praet,\u00c9. Barreto,2
+L. Capezzi,M. Silvestre,2
+L. Capezzi,D. Praet,2
+N. Murru,G. Ferrari,2
+G. Ferrari,\u00c9. Barreto,1
+\u00c9. Barreto,K. Linetty,1
+K. Linetty,L. Capezzi,1
+D. Zapata,L. Capezzi,1
+G. Ferrari,K. Linetty,1
+\u00c9. Barreto,L. Capezzi,1
+N. Murru,D. Zapata,1
+K. Linetty,N. Murru,1
+G. Ferrari,M. Silvestre,1
+\u00c9. Barreto,G. Ferrari,1
+M. Silvestre,L. Capezzi,1
+D. Praet,L. Capezzi,1
+K. Linetty,\u00c9. Barreto,1
+D. Praet,M. Silvestre,1
+L. Capezzi,K. Linetty,1
+\u00c9. Barreto,M. Silvestre,1
+L. Capezzi,N. Murru,1
+M. Silvestre,D. Zapata,1
+G. Ferrari,N. Murru,1

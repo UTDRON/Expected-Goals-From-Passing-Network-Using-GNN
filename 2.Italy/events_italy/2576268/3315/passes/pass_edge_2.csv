@@ -1,0 +1,73 @@
+Source,Target,Weight
+Rog\u00e9rio,M. Politano,5
+Pol Lirola,D. Berardi,5
+M. Lemos,D. Berardi,3
+S. Missiroli,D. Berardi,3
+D. Berardi,Rog\u00e9rio,3
+D. Berardi,S. Missiroli,3
+F. Acerbi,M. Lemos,3
+M. Politano,L. Mazzitelli,3
+D. Berardi,S. Sensi,2
+S. Sensi,M. Lemos,2
+Pol Lirola,M. Politano,2
+Rog\u00e9rio,A. Consigli,2
+L. Mazzitelli,Pol Lirola,2
+L. Mazzitelli,Rog\u00e9rio,2
+A. Consigli,S. Sensi,2
+Rog\u00e9rio,F. Peluso,2
+F. Peluso,L. Mazzitelli,2
+F. Acerbi,F. Peluso,2
+S. Sensi,Rog\u00e9rio,2
+M. Politano,S. Sensi,2
+F. Peluso,S. Missiroli,2
+M. Politano,Rog\u00e9rio,2
+S. Missiroli,A. Consigli,2
+D. Berardi,F. Peluso,2
+S. Missiroli,F. Peluso,2
+F. Peluso,Rog\u00e9rio,2
+M. Lemos,F. Peluso,2
+A. Consigli,S. Missiroli,2
+S. Missiroli,S. Sensi,2
+S. Sensi,S. Missiroli,2
+L. Mazzitelli,M. Lemos,2
+L. Mazzitelli,M. Politano,2
+S. Sensi,Pol Lirola,2
+F. Peluso,F. Acerbi,2
+D. Berardi,M. Lemos,1
+F. Acerbi,Rog\u00e9rio,1
+M. Lemos,Pol Lirola,1
+M. Lemos,S. Sensi,1
+D. Berardi,L. Mazzitelli,1
+S. Sensi,A. Consigli,1
+M. Politano,D. Berardi,1
+S. Missiroli,L. Mazzitelli,1
+F. Peluso,A. Consigli,1
+D. Berardi,Pol Lirola,1
+Rog\u00e9rio,S. Missiroli,1
+Rog\u00e9rio,S. Sensi,1
+Pol Lirola,Rog\u00e9rio,1
+M. Politano,F. Acerbi,1
+Rog\u00e9rio,D. Berardi,1
+M. Politano,S. Missiroli,1
+L. Mazzitelli,D. Berardi,1
+A. Consigli,Pol Lirola,1
+F. Acerbi,S. Sensi,1
+M. Lemos,M. Politano,1
+S. Sensi,D. Berardi,1
+D. Berardi,F. Acerbi,1
+S. Sensi,F. Acerbi,1
+S. Sensi,L. Mazzitelli,1
+A. Consigli,M. Politano,1
+F. Peluso,S. Sensi,1
+S. Missiroli,Rog\u00e9rio,1
+Pol Lirola,F. Acerbi,1
+M. Lemos,Rog\u00e9rio,1
+F. Acerbi,A. Consigli,1
+M. Politano,Pol Lirola,1
+Rog\u00e9rio,F. Acerbi,1
+Pol Lirola,L. Mazzitelli,1
+A. Consigli,M. Lemos,1
+D. Berardi,M. Politano,1
+M. Lemos,F. Acerbi,1
+Rog\u00e9rio,Pol Lirola,1
+Rog\u00e9rio,M. Lemos,1

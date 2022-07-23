@@ -1,0 +1,80 @@
+Source,Target,Weight
+Naldo,David L\u00f3pez,8
+Granero,H. P\u00e9rez,5
+David L\u00f3pez,H. P\u00e9rez,5
+H. P\u00e9rez,Gerard Moreno,5
+Gerard Moreno,Javi Fuego,4
+Javi Fuego,Naldo,4
+David L\u00f3pez,P. Piatti,4
+David L\u00f3pez,Naldo,4
+Naldo,Pau L\u00f3pez,4
+Gerard Moreno,P. Piatti,4
+Pau L\u00f3pez,Naldo,3
+P. Piatti,L\u00e9o Baptist\u00e3o,3
+P. Piatti,David L\u00f3pez,3
+Javi L\u00f3pez,Javi Fuego,3
+Javi Fuego,P. Piatti,3
+Gerard Moreno,Granero,2
+Gerard Moreno,David L\u00f3pez,2
+H. P\u00e9rez,Javi L\u00f3pez,2
+Jurado,David L\u00f3pez,2
+Pau L\u00f3pez,David L\u00f3pez,2
+H. P\u00e9rez,Javi Fuego,2
+David L\u00f3pez,Gerard Moreno,2
+Javi L\u00f3pez,David L\u00f3pez,2
+Granero,Jurado,2
+David L\u00f3pez,Javi Fuego,2
+Jurado,Aar\u00f3n,2
+P. Piatti,Granero,2
+David L\u00f3pez,Javi L\u00f3pez,2
+P. Piatti,Naldo,2
+Jurado,Naldo,2
+P. Piatti,Jurado,2
+Naldo,Jurado,2
+H. P\u00e9rez,Naldo,2
+Javi Fuego,Gerard Moreno,2
+P. Piatti,Javi Fuego,2
+L\u00e9o Baptist\u00e3o,Gerard Moreno,2
+Javi Fuego,H. P\u00e9rez,2
+Pau L\u00f3pez,Javi L\u00f3pez,1
+Naldo,Gerard Moreno,1
+Javi Fuego,Javi L\u00f3pez,1
+Javi Fuego,Granero,1
+Javi L\u00f3pez,H. P\u00e9rez,1
+Naldo,Javi L\u00f3pez,1
+Aar\u00f3n,Javi Fuego,1
+Jurado,Gerard Moreno,1
+H. P\u00e9rez,Granero,1
+P. Piatti,Gerard Moreno,1
+H. P\u00e9rez,Aar\u00f3n,1
+Naldo,Javi Fuego,1
+Javi Fuego,Jurado,1
+Naldo,Aar\u00f3n,1
+Jurado,P. Piatti,1
+Javi L\u00f3pez,Gerard Moreno,1
+L\u00e9o Baptist\u00e3o,P. Piatti,1
+David L\u00f3pez,Pau L\u00f3pez,1
+Gerard Moreno,Aar\u00f3n,1
+Javi L\u00f3pez,P. Piatti,1
+Jurado,Pau L\u00f3pez,1
+Granero,Naldo,1
+Naldo,Granero,1
+Javi Fuego,Pau L\u00f3pez,1
+Granero,Gerard Moreno,1
+Gerard Moreno,H. P\u00e9rez,1
+Aar\u00f3n,P. Piatti,1
+Jurado,Granero,1
+Gerard Moreno,Javi L\u00f3pez,1
+H. P\u00e9rez,Jurado,1
+Aar\u00f3n,Naldo,1
+Javi L\u00f3pez,Naldo,1
+H. P\u00e9rez,David L\u00f3pez,1
+Pau L\u00f3pez,Jurado,1
+David L\u00f3pez,Granero,1
+Aar\u00f3n,Jurado,1
+Aar\u00f3n,Pau L\u00f3pez,1
+Pau L\u00f3pez,P. Piatti,1
+P. Piatti,Javi L\u00f3pez,1
+L\u00e9o Baptist\u00e3o,David L\u00f3pez,1
+Gerard Moreno,L\u00e9o Baptist\u00e3o,1
+Naldo,P. Piatti,1

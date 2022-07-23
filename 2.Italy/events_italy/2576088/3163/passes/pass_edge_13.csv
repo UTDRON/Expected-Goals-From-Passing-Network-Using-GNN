@@ -1,0 +1,64 @@
+Source,Target,Weight
+G. Angella,Samir,7
+S. Widmer,Danilo,7
+Danilo,S. Widmer,6
+Samir,A. Bar\u00e1k,5
+Samir,J. Jankto,5
+Samir,G. Angella,5
+A. Bar\u00e1k,J. Jankto,5
+J. Jankto,S. Fofana,4
+J. Jankto,Samir,4
+K. Lasagna,S. Widmer,4
+S. Widmer,G. Angella,3
+A. Bar\u00e1k,Samir,3
+Samir,S. Perica,3
+S. Widmer,S. Fofana,3
+K. Lasagna,Danilo,3
+S. Perica,Samir,3
+S. Widmer,Samir,2
+Danilo,G. Angella,2
+A. Bar\u00e1k,S. Widmer,2
+G. Angella,K. Lasagna,2
+J. Jankto,Danilo,2
+J. Jankto,S. Widmer,2
+S. Widmer,K. Lasagna,2
+S. Fofana,S. Widmer,2
+S. Fofana,A. Bar\u00e1k,2
+S. Fofana,J. Jankto,2
+J. Jankto,A. Bar\u00e1k,2
+Danilo,A. Bar\u00e1k,2
+R. de Paul,S. Widmer,2
+Samir,S. Fofana,2
+Samir,S. Widmer,1
+S. Perica,G. Angella,1
+S. Fofana,Samir,1
+S. Fofana,G. Angella,1
+S. Fofana,R. Baji\u0107,1
+G. Angella,Danilo,1
+K. Lasagna,J. Jankto,1
+G. Angella,A. Bizzarri,1
+A. Bar\u00e1k,G. Angella,1
+A. Bizzarri,K. Lasagna,1
+G. Angella,S. Widmer,1
+J. Jankto,R. Baji\u0107,1
+Danilo,R. de Paul,1
+A. Bizzarri,G. Angella,1
+R. Baji\u0107,Danilo,1
+A. Bizzarri,R. Baji\u0107,1
+S. Widmer,A. Bizzarri,1
+R. Baji\u0107,K. Lasagna,1
+G. Angella,J. Jankto,1
+G. Angella,A. Bar\u00e1k,1
+R. Baji\u0107,J. Jankto,1
+S. Widmer,J. Jankto,1
+A. Bar\u00e1k,S. Perica,1
+S. Widmer,R. de Paul,1
+J. Jankto,A. Bizzarri,1
+S. Perica,Danilo,1
+S. Fofana,S. Perica,1
+R. Baji\u0107,S. Fofana,1
+Danilo,Samir,1
+R. Baji\u0107,S. Widmer,1
+Danilo,R. Baji\u0107,1
+S. Widmer,R. Baji\u0107,1
+Danilo,K. Lasagna,1

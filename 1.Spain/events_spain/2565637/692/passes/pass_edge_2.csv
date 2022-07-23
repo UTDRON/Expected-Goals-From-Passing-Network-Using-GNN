@@ -1,0 +1,40 @@
+Source,Target,Weight
+G. Cabral,Hugo Mallo,5
+Hugo Mallo,G. Cabral,4
+Sergi G\u00f3mez,Jonny,2
+Iago Aspas,Maxi G\u00f3mez,2
+P. Hern\u00e1ndez,G. Cabral,2
+Maxi G\u00f3mez,Iago Aspas,2
+Hugo Mallo,D. Wass,2
+Jonny,Sergi G\u00f3mez,2
+P. Sisto,P. Hern\u00e1ndez,2
+D. Wass,Hugo Mallo,2
+Hugo Mallo,P. Hern\u00e1ndez,2
+P. Sisto,Jonny,1
+S. Lobotka,Iago Aspas,1
+Jonny,Sergio \u00c1lvarez,1
+G. Cabral,Sergi G\u00f3mez,1
+Iago Aspas,P. Sisto,1
+Sergi G\u00f3mez,P. Hern\u00e1ndez,1
+Sergio \u00c1lvarez,G. Cabral,1
+S. Lobotka,Hugo Mallo,1
+G. Cabral,D. Wass,1
+Hugo Mallo,Iago Aspas,1
+P. Hern\u00e1ndez,P. Sisto,1
+Hugo Mallo,S. Lobotka,1
+Sergi G\u00f3mez,Maxi G\u00f3mez,1
+S. Lobotka,D. Wass,1
+Maxi G\u00f3mez,Jonny,1
+P. Hern\u00e1ndez,Hugo Mallo,1
+Maxi G\u00f3mez,S. Lobotka,1
+Jonny,P. Sisto,1
+P. Hern\u00e1ndez,Jonny,1
+S. Lobotka,P. Sisto,1
+D. Wass,S. Lobotka,1
+P. Sisto,D. Wass,1
+S. Lobotka,Sergi G\u00f3mez,1
+D. Wass,Maxi G\u00f3mez,1
+D. Wass,Jonny,1
+Jonny,P. Hern\u00e1ndez,1
+P. Hern\u00e1ndez,S. Lobotka,1
+Jonny,S. Lobotka,1

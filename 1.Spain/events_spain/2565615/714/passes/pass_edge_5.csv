@@ -1,0 +1,30 @@
+Source,Target,Weight
+Tana,A. Aquilani,2
+L. Chichizola,J. Calleri,2
+J. Calleri,M. Lemos,2
+A. Aquilani,M\u00edchel,2
+L. Chichizola,Ximo Navarro,2
+M. Lemos,L. Chichizola,2
+Ximo Navarro,Jonathan Viera,1
+A. Aquilani,Borja Herrera,1
+Borja Herrera,Jonathan Viera,1
+Ximo Navarro,Borja Herrera,1
+J. Calleri,Tana,1
+M\u00edchel,L. Chichizola,1
+A. Aquilani,Tana,1
+M\u00edchel,M. Lemos,1
+Borja Herrera,L. Chichizola,1
+Tana,J. Calleri,1
+M. Lemos,Ximo Navarro,1
+M. Lemos,Tana,1
+Jonathan Viera,Ximo Navarro,1
+Tana,M. Lemos,1
+J. Calleri,M\u00edchel,1
+Ximo Navarro,A. Aquilani,1
+Jonathan Viera,Tana,1
+J. Calleri,A. Aquilani,1
+A. Aquilani,L. Chichizola,1
+Ximo Navarro,J. Calleri,1
+L. Chichizola,Jonathan Viera,1
+M\u00edchel,A. Aquilani,1
+Jonathan Viera,O. Tannane,1

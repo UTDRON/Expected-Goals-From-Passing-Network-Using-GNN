@@ -1,0 +1,17 @@
+Source,Target,Weight
+Alexis,M. Wakaso,2
+Fernando Pacheco,Alexis,2
+M. Wakaso,Bojan,2
+Alexis,Tom\u00e1s Pina,2
+Tom\u00e1s Pina,Rodrigo Ely,2
+Bojan,M. Wakaso,1
+Rodrigo Ely,Fernando Pacheco,1
+M. Wakaso,Tom\u00e1s Pina,1
+Rodrigo Ely,Carlos Vigaray,1
+Carlos Vigaray,Rodrigo Ely,1
+Tom\u00e1s Pina,M. Wakaso,1
+Bojan,Fernando Pacheco,1
+M. Wakaso,Alexis,1
+M. Wakaso,Ibai G\u00f3mez,1
+Rodrigo Ely,Alexis,1
+Rodrigo Ely,M. Wakaso,1

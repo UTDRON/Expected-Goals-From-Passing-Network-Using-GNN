@@ -1,0 +1,40 @@
+Source,Target,Weight
+Ander Capa,Charles,4
+Ramis,Ander Capa,4
+Jos\u00e9 \u00c1ngel,Arbilla,3
+Charles,Ramis,3
+Joan Jord\u00e1n,Charles,2
+Ramis,Jos\u00e9 \u00c1ngel,2
+Jos\u00e9 \u00c1ngel,Charles,2
+Charles,Jos\u00e9 \u00c1ngel,2
+Arbilla,M. Dmitrovi\u0107,2
+Ramis,Dani Garc\u00eda,2
+Arbilla,Ramis,2
+Charles,Pedro Le\u00f3n,2
+Kike Garc\u00eda,Dani Garc\u00eda,2
+Dani Garc\u00eda,Jos\u00e9 \u00c1ngel,2
+Pedro Le\u00f3n,Joan Jord\u00e1n,1
+Joan Jord\u00e1n,Jos\u00e9 \u00c1ngel,1
+M. Dmitrovi\u0107,Kike Garc\u00eda,1
+Jos\u00e9 \u00c1ngel,Dani Garc\u00eda,1
+Kike Garc\u00eda,Jos\u00e9 \u00c1ngel,1
+Ramis,Joan Jord\u00e1n,1
+Arbilla,Joan Jord\u00e1n,1
+Dani Garc\u00eda,Arbilla,1
+Ramis,Arbilla,1
+M. Dmitrovi\u0107,Ander Capa,1
+Dani Garc\u00eda,M. Dmitrovi\u0107,1
+M. Dmitrovi\u0107,Charles,1
+Pedro Le\u00f3n,Ander Capa,1
+Charles,Ander Capa,1
+Jos\u00e9 \u00c1ngel,M. Dmitrovi\u0107,1
+M. Dmitrovi\u0107,Ramis,1
+Ander Capa,Joan Jord\u00e1n,1
+Ander Capa,Ramis,1
+Joan Jord\u00e1n,Dani Garc\u00eda,1
+Dani Garc\u00eda,Kike Garc\u00eda,1
+Jos\u00e9 \u00c1ngel,Joan Jord\u00e1n,1
+Dani Garc\u00eda,Ramis,1
+Joan Jord\u00e1n,Ramis,1
+Pedro Le\u00f3n,Ramis,1
+Ander Capa,Pedro Le\u00f3n,1

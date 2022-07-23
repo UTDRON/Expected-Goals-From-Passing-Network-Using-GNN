@@ -1,0 +1,39 @@
+Source,Target,Weight
+Marcelo,Marco Asensio,5
+Marco Asensio,Marcelo,4
+T. Kroos,Marcelo,3
+Marcos Llorente,T. Kroos,3
+Marco Asensio,K. Benzema,3
+T. Kroos,Marco Asensio,3
+Lucas V\u00e1zquez,Marcos Llorente,3
+K. Benzema,Cristiano Ronaldo,2
+Kiko Casilla,Marco Asensio,2
+Marcelo,K. Benzema,2
+Cristiano Ronaldo,A. Hakimi,2
+Marcos Llorente,A. Hakimi,2
+A. Hakimi,Cristiano Ronaldo,2
+A. Hakimi,Lucas V\u00e1zquez,1
+Marcos Llorente,K. Benzema,1
+Marco Asensio,T. Kroos,1
+Marcos Llorente,Kiko Casilla,1
+A. Hakimi,Nacho,1
+Lucas V\u00e1zquez,Nacho,1
+Nacho,A. Hakimi,1
+Nacho,T. Kroos,1
+Marco Asensio,Kiko Casilla,1
+K. Benzema,Lucas V\u00e1zquez,1
+A. Hakimi,Marcelo,1
+K. Benzema,Marcelo,1
+K. Benzema,A. Hakimi,1
+Marcelo,Sergio Ramos,1
+K. Benzema,T. Kroos,1
+Sergio Ramos,Marcelo,1
+Sergio Ramos,T. Kroos,1
+Cristiano Ronaldo,Marcos Llorente,1
+Marco Asensio,Sergio Ramos,1
+T. Kroos,Nacho,1
+Marcelo,Cristiano Ronaldo,1
+Cristiano Ronaldo,Lucas V\u00e1zquez,1
+Nacho,Lucas V\u00e1zquez,1
+Marcelo,Marcos Llorente,1
+A. Hakimi,Marcos Llorente,1

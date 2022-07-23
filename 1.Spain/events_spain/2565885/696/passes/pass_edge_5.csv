@@ -1,0 +1,13 @@
+Source,Target,Weight
+Tom\u00e1s Pina,M. Wakaso,2
+Manu Garc\u00eda,Tom\u00e1s Pina,2
+Manu Garc\u00eda,Rodrigo Ely,2
+Rub\u00e9n Sobrino,Rub\u00e9n Duarte,2
+Rub\u00e9n Sobrino,Manu Garc\u00eda,1
+Fernando Pacheco,Rub\u00e9n Sobrino,1
+M. Wakaso,Munir,1
+Rodrigo Ely,Fernando Pacheco,1
+Rub\u00e9n Duarte,Rub\u00e9n Sobrino,1
+Rub\u00e9n Duarte,Manu Garc\u00eda,1
+M. Wakaso,Rub\u00e9n Sobrino,1
+Rodrigo Ely,Manu Garc\u00eda,1

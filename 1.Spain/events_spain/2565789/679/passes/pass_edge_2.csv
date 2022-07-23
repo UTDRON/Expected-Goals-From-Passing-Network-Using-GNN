@@ -1,0 +1,74 @@
+Source,Target,Weight
+Filipe Luis,Koke,11
+Koke,Filipe Luis,9
+Gabi,Thomas,7
+Thomas,Gabi,6
+Thomas,Koke,6
+Sa\u00fal,Gabi,6
+\u0160. Vrsaljko,Sa\u00fal,5
+D. God\u00edn,J. Gim\u00e9nez,4
+J. Gim\u00e9nez,Thomas,4
+Filipe Luis,D. God\u00edn,4
+D. God\u00edn,Filipe Luis,4
+Thomas,Filipe Luis,4
+A. Griezmann,Koke,4
+Koke,Diego Costa,4
+Diego Costa,Gabi,4
+Gabi,J. Gim\u00e9nez,4
+Gabi,Sa\u00fal,3
+Gabi,D. God\u00edn,3
+Gabi,A. Griezmann,3
+Filipe Luis,Diego Costa,3
+Koke,Thomas,3
+Koke,Gabi,3
+Sa\u00fal,\u0160. Vrsaljko,3
+A. Griezmann,Thomas,3
+J. Gim\u00e9nez,D. God\u00edn,2
+Sa\u00fal,A. Griezmann,2
+D. God\u00edn,Thomas,2
+Diego Costa,Koke,2
+J. Oblak,Filipe Luis,2
+Gabi,\u0160. Vrsaljko,2
+A. Griezmann,\u0160. Vrsaljko,2
+J. Gim\u00e9nez,J. Oblak,2
+Thomas,\u0160. Vrsaljko,2
+A. Griezmann,Filipe Luis,2
+Filipe Luis,J. Oblak,2
+Thomas,A. Griezmann,2
+J. Oblak,Diego Costa,2
+Diego Costa,Filipe Luis,2
+Koke,A. Griezmann,2
+\u0160. Vrsaljko,Thomas,2
+Koke,J. Oblak,2
+J. Gim\u00e9nez,Diego Costa,2
+Filipe Luis,Thomas,1
+Koke,Sa\u00fal,1
+Thomas,J. Gim\u00e9nez,1
+D. God\u00edn,Gabi,1
+\u0160. Vrsaljko,J. Gim\u00e9nez,1
+Filipe Luis,Gabi,1
+Sa\u00fal,Thomas,1
+Diego Costa,A. Griezmann,1
+Filipe Luis,Sa\u00fal,1
+Gabi,Koke,1
+Koke,D. God\u00edn,1
+\u0160. Vrsaljko,Gabi,1
+Thomas,Diego Costa,1
+\u0160. Vrsaljko,A. Griezmann,1
+J. Gim\u00e9nez,Filipe Luis,1
+Filipe Luis,A. Griezmann,1
+J. Gim\u00e9nez,Sa\u00fal,1
+Thomas,D. God\u00edn,1
+Diego Costa,J. Gim\u00e9nez,1
+J. Oblak,Sa\u00fal,1
+Sa\u00fal,D. God\u00edn,1
+Diego Costa,\u0160. Vrsaljko,1
+J. Oblak,\u0160. Vrsaljko,1
+Diego Costa,Thomas,1
+Thomas,Sa\u00fal,1
+D. God\u00edn,J. Oblak,1
+J. Oblak,D. God\u00edn,1
+Sa\u00fal,J. Gim\u00e9nez,1
+D. God\u00edn,Sa\u00fal,1
+A. Griezmann,Gabi,1
+\u0160. Vrsaljko,Koke,1

@@ -1,0 +1,30 @@
+Source,Target,Weight
+E. Giaccherini,D. Mertens,3
+P. Zieli\u0144ski,V. Chiriche\u0219,3
+E. Giaccherini,P. Zieli\u0144ski,3
+V. Chiriche\u0219,Jorginho,3
+P. Zieli\u0144ski,E. Giaccherini,2
+V. Chiriche\u0219,Albiol,2
+Allan,C. Maggio,2
+Albiol,Jorginho,2
+Jorginho,P. Zieli\u0144ski,2
+D. Mertens,E. Giaccherini,2
+C. Maggio,Allan,1
+Jorginho,E. Giaccherini,1
+D. Mertens,P. Zieli\u0144ski,1
+C. Maggio,D. Mertens,1
+C. Maggio,M. Rog,1
+Jorginho,Allan,1
+M. Rog,Albiol,1
+P. Zieli\u0144ski,D. Mertens,1
+Jorginho,M. Rog,1
+D. Mertens,V. Chiriche\u0219,1
+F. Ghoulam,P. Zieli\u0144ski,1
+P. Zieli\u0144ski,Albiol,1
+M. Rog,C. Maggio,1
+Allan,P. Zieli\u0144ski,1
+C. Maggio,V. Chiriche\u0219,1
+P. Zieli\u0144ski,F. Ghoulam,1
+Albiol,F. Ghoulam,1
+Albiol,C. Maggio,1
+F. Ghoulam,E. Giaccherini,1

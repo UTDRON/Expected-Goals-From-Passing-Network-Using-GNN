@@ -1,0 +1,14 @@
+Source,Target,Weight
+Eraso,Tito,1
+Rub\u00e9n P\u00e9rez,A. Szymanowski,1
+Guerrero,Tito,1
+Gumbau,Tito,1
+Tito,Rub\u00e9n P\u00e9rez,1
+A. Szymanowski,Gumbau,1
+Rub\u00e9n P\u00e9rez,Eraso,1
+Tito,Guerrero,1
+Guerrero,Rub\u00e9n P\u00e9rez,1
+Tito,Gumbau,1
+Rub\u00e9n P\u00e9rez,Guerrero,1
+Gumbau,Cu\u00e9llar,1
+Cu\u00e9llar,Rub\u00e9n P\u00e9rez,1

@@ -1,0 +1,39 @@
+Source,Target,Weight
+Antunes,Dani Pacheco,3
+Dani Pacheco,G. Shibasaki,2
+M. Lacen,Antunes,2
+Jorge Molina,M. Lacen,2
+Djen\u00e9,M. Lacen,2
+Juan Cala,M. Lacen,2
+Jorge Molina,Juan Cala,1
+Antunes,\u00c1ngel,1
+D. Su\u00e1rez,Djen\u00e9,1
+G. Shibasaki,Dani Pacheco,1
+D. Su\u00e1rez,F. Fajr,1
+\u00c1ngel,F. Fajr,1
+Djen\u00e9,G. Shibasaki,1
+F. Fajr,Djen\u00e9,1
+G. Shibasaki,D. Su\u00e1rez,1
+D. Su\u00e1rez,G. Shibasaki,1
+F. Fajr,Jorge Molina,1
+F. Fajr,Antunes,1
+G. Shibasaki,Guaita,1
+M. Lacen,F. Fajr,1
+G. Shibasaki,Juan Cala,1
+Juan Cala,\u00c1ngel,1
+Antunes,Juan Cala,1
+G. Shibasaki,Djen\u00e9,1
+G. Shibasaki,F. Fajr,1
+D. Su\u00e1rez,Antunes,1
+Dani Pacheco,Antunes,1
+D. Su\u00e1rez,Jorge Molina,1
+Juan Cala,D. Su\u00e1rez,1
+M. Lacen,D. Su\u00e1rez,1
+Guaita,Jorge Molina,1
+\u00c1ngel,M. Lacen,1
+M. Lacen,Juan Cala,1
+Juan Cala,G. Shibasaki,1
+Jorge Molina,G. Shibasaki,1
+M. Lacen,Jorge Molina,1
+F. Fajr,D. Su\u00e1rez,1
+Dani Pacheco,Juan Cala,1

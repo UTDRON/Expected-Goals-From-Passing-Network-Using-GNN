@@ -1,0 +1,55 @@
+Source,Target,Weight
+F. Fajr,Markel Bergara,6
+A. Ndiaye,Juan Cala,5
+Markel Bergara,D. Su\u00e1rez,4
+M. Arambarri,D. Su\u00e1rez,3
+D. Su\u00e1rez,Markel Bergara,3
+M. Arambarri,A. Ndiaye,3
+Markel Bergara,M. Arambarri,3
+Juan Cala,A. Ndiaye,2
+Jorge Molina,Djen\u00e9,2
+A. Ndiaye,Antunes,2
+Juan Cala,F. Fajr,2
+Antunes,A. Ndiaye,2
+Antunes,Jorge Molina,2
+Jorge Molina,Antunes,2
+D. Su\u00e1rez,Djen\u00e9,2
+M. Arambarri,Juan Cala,2
+Jorge Molina,F. Fajr,2
+Antunes,M. Arambarri,2
+Guaita,Jorge Molina,2
+D. Su\u00e1rez,Jorge Molina,2
+M. Arambarri,F. Fajr,2
+G. Shibasaki,Juan Cala,1
+Juan Cala,Antunes,1
+Jorge Molina,A. Ndiaye,1
+Juan Cala,M. Arambarri,1
+Markel Bergara,Guaita,1
+D. Su\u00e1rez,Guaita,1
+Markel Bergara,Djen\u00e9,1
+D. Su\u00e1rez,G. Shibasaki,1
+Djen\u00e9,F. Fajr,1
+D. Su\u00e1rez,A. Ndiaye,1
+A. Ndiaye,M. Arambarri,1
+A. Ndiaye,F. Fajr,1
+F. Fajr,G. Shibasaki,1
+Markel Bergara,F. Fajr,1
+Markel Bergara,A. Ndiaye,1
+Markel Bergara,Jorge Molina,1
+Jorge Molina,Markel Bergara,1
+M. Arambarri,Markel Bergara,1
+Juan Cala,Markel Bergara,1
+Jorge Molina,M. Arambarri,1
+F. Fajr,A. Ndiaye,1
+Djen\u00e9,Jorge Molina,1
+F. Fajr,D. Su\u00e1rez,1
+Juan Cala,Jorge Molina,1
+Markel Bergara,Antunes,1
+Djen\u00e9,D. Su\u00e1rez,1
+Djen\u00e9,M. Arambarri,1
+Jorge Molina,D. Su\u00e1rez,1
+A. Ndiaye,Jorge Molina,1
+Djen\u00e9,Markel Bergara,1
+G. Shibasaki,M. Arambarri,1
+D. Su\u00e1rez,M. Arambarri,1
+A. Ndiaye,D. Su\u00e1rez,1

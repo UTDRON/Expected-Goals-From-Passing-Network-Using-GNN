@@ -1,0 +1,25 @@
+Source,Target,Weight
+V. Laurini,M. Badelj,6
+Vitor Hugo,V. Laurini,3
+D. Astori,Vitor Hugo,3
+M. Badelj,V. Eysseric,3
+M. Badelj,D. Astori,2
+Vitor Hugo,M. Badelj,2
+M. Badelj,V. Laurini,2
+V. Eysseric,F. Chiesa,1
+V. Laurini,Vitor Hugo,1
+J. Veretout,V. Laurini,1
+V. Eysseric,J. Veretout,1
+M. Badelj,Vitor Hugo,1
+Vitor Hugo,V. Eysseric,1
+C. Biraghi,V. Eysseric,1
+F. Chiesa,Vitor Hugo,1
+Vitor Hugo,D. Astori,1
+J. Veretout,C. Biraghi,1
+G. Simeone,V. Laurini,1
+C. Biraghi,M. Badelj,1
+J. Veretout,Vitor Hugo,1
+V. Eysseric,C. Biraghi,1
+V. Eysseric,G. Simeone,1
+C. Biraghi,J. Veretout,1
+M. Badelj,J. Veretout,1

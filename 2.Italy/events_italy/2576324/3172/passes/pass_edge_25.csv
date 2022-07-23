@@ -1,0 +1,48 @@
+Source,Target,Weight
+N. Haas,A. G\u00f3mez,5
+R. Gosens,A. G\u00f3mez,4
+J. Ili\u010di\u0107,M. de Roon,3
+H. Hateboer,J. Ili\u010di\u0107,3
+A. G\u00f3mez,R. Gosens,3
+M. de Roon,J. Ili\u010di\u0107,3
+A. G\u00f3mez,N. Haas,3
+M. de Roon,H. Hateboer,3
+H. Hateboer,M. de Roon,3
+R. Gosens,A. Masiello,3
+M. Caldara,M. de Roon,3
+R. Freuler,N. Haas,3
+A. G\u00f3mez,A. Masiello,2
+M. de Roon,M. Caldara,2
+M. Caldara,R. Gosens,2
+J. Ili\u010di\u0107,R. Freuler,2
+A. Masiello,M. de Roon,2
+N. Haas,M. Caldara,2
+M. de Roon,A. Masiello,2
+E. Berisha,J. Ili\u010di\u0107,1
+E. Berisha,R. Gosens,1
+R. Gosens,M. de Roon,1
+N. Haas,R. Freuler,1
+J. Ili\u010di\u0107,R. Gosens,1
+A. G\u00f3mez,J. Ili\u010di\u0107,1
+A. Masiello,E. Berisha,1
+M. de Roon,R. Freuler,1
+J. Ili\u010di\u0107,A. G\u00f3mez,1
+M. de Roon,R. Gosens,1
+R. Gosens,N. Haas,1
+A. Masiello,R. Gosens,1
+A. Masiello,A. G\u00f3mez,1
+J. Ili\u010di\u0107,H. Hateboer,1
+A. Masiello,M. Caldara,1
+J. Ili\u010di\u0107,M. Caldara,1
+R. Freuler,J. Ili\u010di\u0107,1
+M. de Roon,N. Haas,1
+A. G\u00f3mez,M. de Roon,1
+A. G\u00f3mez,M. Caldara,1
+M. Caldara,H. Hateboer,1
+M. Caldara,J. Ili\u010di\u0107,1
+R. Freuler,A. G\u00f3mez,1
+A. Masiello,N. Haas,1
+N. Haas,E. Berisha,1
+R. Gosens,R. Freuler,1
+A. G\u00f3mez,H. Hateboer,1
+J. Ili\u010di\u0107,A. Masiello,1

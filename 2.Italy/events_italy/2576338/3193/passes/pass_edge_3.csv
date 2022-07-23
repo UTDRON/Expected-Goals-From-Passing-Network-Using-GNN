@@ -1,0 +1,82 @@
+Source,Target,Weight
+D. Biraschi,Pedro Pereira,6
+G. Lapadula,A. Bertolacci,5
+Miguel Veloso,A. Bertolacci,4
+A. Bertolacci,D. Laxalt,4
+Pedro Pereira,G. Lapadula,4
+A. Bertolacci,Miguel Veloso,4
+A. Bertolacci,Daniel Bessa,4
+D. Laxalt,A. Bertolacci,4
+A. Bertolacci,G. Lapadula,4
+Pedro Pereira,D. Biraschi,4
+Miguel Veloso,J. El Yamiq,3
+Iuri Medeiros,Pedro Pereira,3
+A. Izzo,D. Laxalt,3
+Daniel Bessa,A. Bertolacci,3
+S. Omeonga,Iuri Medeiros,3
+J. El Yamiq,A. Bertolacci,3
+D. Biraschi,M. Perin,3
+G. Lapadula,D. Laxalt,3
+Daniel Bessa,D. Biraschi,3
+Pedro Pereira,M. Perin,3
+Miguel Veloso,Daniel Bessa,2
+Iuri Medeiros,A. Bertolacci,2
+Daniel Bessa,Pedro Pereira,2
+D. Laxalt,Daniel Bessa,2
+Iuri Medeiros,Miguel Veloso,2
+M. Perin,J. El Yamiq,2
+M. Perin,G. Lapadula,2
+D. Laxalt,Pedro Pereira,2
+Miguel Veloso,D. Laxalt,2
+M. Perin,D. Biraschi,2
+G. Lapadula,Miguel Veloso,2
+Iuri Medeiros,S. Omeonga,2
+Daniel Bessa,Miguel Veloso,2
+Pedro Pereira,Iuri Medeiros,2
+A. Bertolacci,J. El Yamiq,2
+A. Bertolacci,D. Biraschi,2
+Daniel Bessa,A. Izzo,2
+Pedro Pereira,A. Bertolacci,2
+J. El Yamiq,Miguel Veloso,2
+G. Lapadula,Daniel Bessa,2
+Pedro Pereira,Daniel Bessa,2
+J. El Yamiq,Pedro Pereira,2
+J. El Yamiq,A. Izzo,2
+A. Izzo,J. El Yamiq,2
+J. El Yamiq,D. Biraschi,2
+A. Izzo,Miguel Veloso,2
+M. Perin,Iuri Medeiros,1
+D. Laxalt,A. Izzo,1
+G. Lapadula,Pedro Pereira,1
+Miguel Veloso,Pedro Pereira,1
+D. Laxalt,G. Lapadula,1
+Pedro Pereira,J. El Yamiq,1
+D. Laxalt,Miguel Veloso,1
+Miguel Veloso,D. Biraschi,1
+Miguel Veloso,Iuri Medeiros,1
+D. Laxalt,M. Perin,1
+M. Perin,Pedro Pereira,1
+Pedro Pereira,Miguel Veloso,1
+J. El Yamiq,M. Perin,1
+A. Bertolacci,M. Perin,1
+J. El Yamiq,D. Laxalt,1
+D. Laxalt,Iuri Medeiros,1
+Miguel Veloso,S. Omeonga,1
+D. Laxalt,J. El Yamiq,1
+D. Biraschi,J. El Yamiq,1
+D. Biraschi,Miguel Veloso,1
+Miguel Veloso,M. Perin,1
+M. Perin,Daniel Bessa,1
+Daniel Bessa,D. Laxalt,1
+M. Perin,S. Omeonga,1
+A. Bertolacci,Iuri Medeiros,1
+Iuri Medeiros,G. Lapadula,1
+A. Bertolacci,A. Izzo,1
+Daniel Bessa,J. El Yamiq,1
+A. Izzo,Pedro Pereira,1
+S. Omeonga,G. Lapadula,1
+Miguel Veloso,A. Izzo,1
+D. Biraschi,G. Lapadula,1
+G. Lapadula,Iuri Medeiros,1
+D. Biraschi,S. Omeonga,1
+D. Biraschi,Daniel Bessa,1

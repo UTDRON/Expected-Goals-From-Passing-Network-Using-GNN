@@ -1,0 +1,73 @@
+Source,Target,Weight
+Jozabed,S. Lobotka,4
+S. Lobotka,G. Cabral,4
+G. Cabral,Sergio \u00c1lvarez,3
+G. Cabral,Hugo Mallo,3
+Font\u00e0s,P. Sisto,3
+G. Cabral,S. Lobotka,3
+Hugo Mallo,Sergio \u00c1lvarez,3
+S. Lobotka,D. Wass,3
+S. Lobotka,Font\u00e0s,3
+Font\u00e0s,Jozabed,3
+Font\u00e0s,S. Lobotka,2
+S. Lobotka,Hugo Mallo,2
+Sergi G\u00f3mez,Font\u00e0s,2
+P. Sisto,P. Hern\u00e1ndez,2
+Sergio \u00c1lvarez,S. Lobotka,2
+Sergi G\u00f3mez,S. Lobotka,2
+S. Lobotka,Jozabed,2
+Font\u00e0s,G. Cabral,2
+Font\u00e0s,Sergi G\u00f3mez,2
+Jozabed,D. Wass,2
+P. Sisto,Jozabed,2
+D. Wass,Font\u00e0s,2
+Sergio \u00c1lvarez,P. Sisto,2
+Hugo Mallo,Brais M\u00e9ndez,2
+P. Sisto,G. Cabral,2
+Brais M\u00e9ndez,Hugo Mallo,2
+Jozabed,Sergio \u00c1lvarez,1
+Jozabed,Brais M\u00e9ndez,1
+Sergio \u00c1lvarez,Maxi G\u00f3mez,1
+P. Sisto,S. Lobotka,1
+G. Cabral,Font\u00e0s,1
+Maxi G\u00f3mez,D. Wass,1
+Font\u00e0s,Sergio \u00c1lvarez,1
+D. Wass,P. Sisto,1
+D. Wass,S. Lobotka,1
+Sergio \u00c1lvarez,D. Wass,1
+Sergio \u00c1lvarez,Sergi G\u00f3mez,1
+Brais M\u00e9ndez,Sergi G\u00f3mez,1
+G. Cabral,Jozabed,1
+Sergio \u00c1lvarez,Brais M\u00e9ndez,1
+Hugo Mallo,Maxi G\u00f3mez,1
+Sergi G\u00f3mez,Hugo Mallo,1
+D. Wass,Hugo Mallo,1
+Maxi G\u00f3mez,Brais M\u00e9ndez,1
+P. Sisto,Hugo Mallo,1
+Brais M\u00e9ndez,Maxi G\u00f3mez,1
+P. Sisto,Font\u00e0s,1
+Hugo Mallo,Font\u00e0s,1
+D. Wass,Sergio \u00c1lvarez,1
+Sergio \u00c1lvarez,Hugo Mallo,1
+P. Hern\u00e1ndez,D. Wass,1
+Hugo Mallo,D. Wass,1
+D. Wass,Jozabed,1
+S. Lobotka,Sergio \u00c1lvarez,1
+P. Hern\u00e1ndez,P. Sisto,1
+Maxi G\u00f3mez,G. Cabral,1
+G. Cabral,P. Sisto,1
+Brais M\u00e9ndez,G. Cabral,1
+S. Lobotka,P. Hern\u00e1ndez,1
+Brais M\u00e9ndez,Font\u00e0s,1
+S. Lobotka,Brais M\u00e9ndez,1
+Brais M\u00e9ndez,S. Lobotka,1
+Hugo Mallo,Jozabed,1
+Hugo Mallo,S. Lobotka,1
+D. Wass,Brais M\u00e9ndez,1
+Jozabed,Sergi G\u00f3mez,1
+P. Hern\u00e1ndez,Font\u00e0s,1
+Sergio \u00c1lvarez,G. Cabral,1
+Sergio \u00c1lvarez,Font\u00e0s,1
+Hugo Mallo,G. Cabral,1
+Sergi G\u00f3mez,Sergio \u00c1lvarez,1
+Jozabed,P. Sisto,1

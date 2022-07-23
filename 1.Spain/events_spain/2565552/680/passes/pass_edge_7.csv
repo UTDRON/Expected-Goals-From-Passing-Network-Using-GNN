@@ -1,0 +1,44 @@
+Source,Target,Weight
+S. Corchia,Jes\u00fas Navas,6
+Pablo Sarabia,\u00c9. Banega,4
+\u00c9. Banega,Ganso,4
+Jes\u00fas Navas,Ganso,4
+Jes\u00fas Navas,S. Corchia,4
+S. N'Zonzi,Pablo Sarabia,3
+Pablo Sarabia,S. N'Zonzi,3
+Ganso,\u00c9. Banega,3
+\u00c9. Banega,Jes\u00fas Navas,2
+S. Kj\u00e6r,Sergio Rico,2
+S. N'Zonzi,\u00c9. Banega,2
+S. Corchia,Ganso,2
+S. N'Zonzi,S. Kj\u00e6r,2
+C. Lenglet,S. Kj\u00e6r,2
+Pablo Sarabia,Nolito,2
+Ganso,Pablo Sarabia,2
+S. Kj\u00e6r,S. Corchia,2
+\u00c9. Banega,S. N'Zonzi,2
+Ganso,S. N'Zonzi,2
+Nolito,S. N'Zonzi,1
+C. Lenglet,S. Corchia,1
+Sergio Rico,Jes\u00fas Navas,1
+Ganso,S. Corchia,1
+Sergio Rico,\u00c9. Banega,1
+Ganso,S. Kj\u00e6r,1
+Jes\u00fas Navas,S. Kj\u00e6r,1
+S. N'Zonzi,Jes\u00fas Navas,1
+\u00c9. Banega,Pablo Sarabia,1
+Ganso,Jes\u00fas Navas,1
+S. Kj\u00e6r,C. Lenglet,1
+Jes\u00fas Navas,Pablo Sarabia,1
+\u00c9. Banega,S. Corchia,1
+S. Kj\u00e6r,Jes\u00fas Navas,1
+\u00c9. Banega,S. Kj\u00e6r,1
+\u00c9. Banega,C. Lenglet,1
+Nolito,\u00c9. Banega,1
+S. Corchia,S. Kj\u00e6r,1
+S. Kj\u00e6r,S. N'Zonzi,1
+Jes\u00fas Navas,\u00c9. Banega,1
+S. Kj\u00e6r,Ganso,1
+S. N'Zonzi,C. Lenglet,1
+Ganso,C. Lenglet,1
+C. Lenglet,Pablo Sarabia,1

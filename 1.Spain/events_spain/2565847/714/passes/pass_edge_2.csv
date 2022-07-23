@@ -1,0 +1,23 @@
+Source,Target,Weight
+Javi Castellano,A. Aquilani,3
+Ximo Navarro,A. Aquilani,2
+Vicente G\u00f3mez,Momo,2
+Ximo Navarro,M. Aguirregaray,2
+A. Aquilani,M. Aguirregaray,2
+M. Aguirregaray,Vicente G\u00f3mez,2
+Momo,M. Aguirregaray,1
+Momo,Vicente G\u00f3mez,1
+A. Aquilani,Ximo Navarro,1
+M. Aguirregaray,Momo,1
+J. Calleri,Javi Castellano,1
+L. Chichizola,Javi Castellano,1
+A. Halilovi\u0107,Javi Castellano,1
+M. Aguirregaray,J. Calleri,1
+M. Aguirregaray,Ximo Navarro,1
+Vicente G\u00f3mez,A. Halilovi\u0107,1
+Momo,Ximo Navarro,1
+A. Aquilani,L. Chichizola,1
+Ximo Navarro,M\u00edchel,1
+A. Aquilani,Javi Castellano,1
+M\u00edchel,Ximo Navarro,1
+Javi Castellano,A. Halilovi\u0107,1

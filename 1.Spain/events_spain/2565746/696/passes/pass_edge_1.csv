@@ -1,0 +1,42 @@
+Source,Target,Weight
+Mart\u00edn,Ibai G\u00f3mez,4
+Alexis,Rodrigo Ely,3
+Alexis,D. Torres,3
+Ibai G\u00f3mez,Laguardia,2
+Fernando Pacheco,Alexis,2
+Fernando Pacheco,Rodrigo Ely,2
+Laguardia,Alexis,2
+Ibai G\u00f3mez,Alfonso Pedraza,2
+Rodrigo Ely,Fernando Pacheco,2
+Rodrigo Ely,Laguardia,2
+D. Torres,Alexis,2
+D. Torres,Fernando Pacheco,1
+Alexis,Laguardia,1
+Alfonso Pedraza,Fernando Pacheco,1
+Laguardia,Mart\u00edn,1
+Munir,Mart\u00edn,1
+J. Guidetti,Munir,1
+Tom\u00e1s Pina,Fernando Pacheco,1
+Munir,Rodrigo Ely,1
+Rodrigo Ely,Alexis,1
+Mart\u00edn,Munir,1
+Ibai G\u00f3mez,Mart\u00edn,1
+Laguardia,Munir,1
+Fernando Pacheco,Laguardia,1
+Alexis,Fernando Pacheco,1
+Fernando Pacheco,Tom\u00e1s Pina,1
+Alfonso Pedraza,Tom\u00e1s Pina,1
+Tom\u00e1s Pina,Mart\u00edn,1
+Ibai G\u00f3mez,Alexis,1
+Laguardia,Ibai G\u00f3mez,1
+Laguardia,Tom\u00e1s Pina,1
+Rodrigo Ely,Ibai G\u00f3mez,1
+D. Torres,Laguardia,1
+Rodrigo Ely,D. Torres,1
+D. Torres,Rodrigo Ely,1
+Ibai G\u00f3mez,Fernando Pacheco,1
+Tom\u00e1s Pina,Alfonso Pedraza,1
+Laguardia,D. Torres,1
+Fernando Pacheco,Mart\u00edn,1
+Munir,Ibai G\u00f3mez,1
+Alexis,J. Guidetti,1

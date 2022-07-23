@@ -1,0 +1,36 @@
+Source,Target,Weight
+Nolito,Sergio Escudero,4
+S. Corchia,G. Pizarro,3
+G. Pizarro,Sergio Escudero,3
+Sergio Escudero,Nolito,3
+\u00c9. Banega,Jes\u00fas Navas,3
+Sergio Escudero,\u00c9. Banega,2
+S. Kj\u00e6r,\u00c9. Banega,2
+G. Pizarro,Nolito,2
+Sergio Escudero,S. Kj\u00e6r,2
+G. Pizarro,F. V\u00e1zquez,2
+Jes\u00fas Navas,L. Muriel,1
+S. Kj\u00e6r,Sergio Escudero,1
+Sergio Escudero,G. Pizarro,1
+G. Pizarro,Jes\u00fas Navas,1
+Nolito,Sergio Rico,1
+Jes\u00fas Navas,G. Mercado,1
+L. Muriel,G. Pizarro,1
+Nolito,S. Corchia,1
+F. V\u00e1zquez,G. Pizarro,1
+S. Kj\u00e6r,Nolito,1
+S. Corchia,G. Mercado,1
+F. V\u00e1zquez,S. Corchia,1
+G. Mercado,Jes\u00fas Navas,1
+L. Muriel,\u00c9. Banega,1
+G. Mercado,G. Pizarro,1
+\u00c9. Banega,G. Pizarro,1
+G. Pizarro,S. Corchia,1
+Jes\u00fas Navas,\u00c9. Banega,1
+\u00c9. Banega,S. Kj\u00e6r,1
+Sergio Rico,G. Pizarro,1
+\u00c9. Banega,G. Mercado,1
+Jes\u00fas Navas,G. Pizarro,1
+G. Mercado,Sergio Rico,1
+G. Pizarro,S. Kj\u00e6r,1
+Sergio Rico,L. Muriel,1

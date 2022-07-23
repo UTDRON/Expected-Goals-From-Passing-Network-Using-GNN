@@ -1,0 +1,20 @@
+Source,Target,Weight
+Felipe,F. Mattiello,2
+F. Viviani,M. Lazzari,2
+F. Vicari,F. Viviani,2
+M. Lazzari,F. Vicari,1
+M. Lazzari,A. Paloschi,1
+F. Viviani,L. \u0160imi\u0107,1
+F. Viviani,F. Vicari,1
+M. Lazzari,L. \u0160imi\u0107,1
+Felipe,F. Vicari,1
+A. Paloschi,J. Kurti\u010d,1
+J. Kurti\u010d,M. Lazzari,1
+F. Vicari,Felipe,1
+L. \u0160imi\u0107,J. Kurti\u010d,1
+J. Kurti\u010d,Felipe,1
+F. Mattiello,F. Viviani,1
+M. Antenucci,F. Viviani,1
+L. \u0160imi\u0107,F. Viviani,1
+F. Viviani,M. Antenucci,1
+F. Mattiello,Felipe,1

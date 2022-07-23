@@ -1,0 +1,47 @@
+Source,Target,Weight
+Naldo,David L\u00f3pez,4
+Javi L\u00f3pez,David L\u00f3pez,3
+Sergi Darder,\u00d3scar Melendo,3
+D\u00eddac Vil\u00e1,Sergio Garc\u00eda,3
+David L\u00f3pez,Naldo,3
+Naldo,Sergi Darder,3
+Sergi Darder,D\u00eddac Vil\u00e1,3
+D\u00eddac Vil\u00e1,Sergi Darder,2
+Sergi Darder,Naldo,2
+Gerard Moreno,Sergi Darder,2
+\u00d3scar Melendo,Sergi Darder,2
+David L\u00f3pez,Diego L\u00f3pez,2
+Sergi Darder,Gerard Moreno,2
+Sergio Garc\u00eda,D\u00eddac Vil\u00e1,2
+Sergio Garc\u00eda,Sergi Darder,2
+David L\u00f3pez,L\u00e9o Baptist\u00e3o,1
+Javi L\u00f3pez,Sergio Garc\u00eda,1
+\u00d3scar Melendo,D\u00eddac Vil\u00e1,1
+D\u00eddac Vil\u00e1,David L\u00f3pez,1
+Sergi Darder,David L\u00f3pez,1
+David L\u00f3pez,C. S\u00e1nchez,1
+Javi L\u00f3pez,Diego L\u00f3pez,1
+Diego L\u00f3pez,Naldo,1
+Gerard Moreno,D\u00eddac Vil\u00e1,1
+D\u00eddac Vil\u00e1,Naldo,1
+Diego L\u00f3pez,C. S\u00e1nchez,1
+David L\u00f3pez,\u00d3scar Melendo,1
+C. S\u00e1nchez,Naldo,1
+Naldo,Javi L\u00f3pez,1
+C. S\u00e1nchez,David L\u00f3pez,1
+\u00d3scar Melendo,Naldo,1
+Gerard Moreno,David L\u00f3pez,1
+L\u00e9o Baptist\u00e3o,Naldo,1
+Sergio Garc\u00eda,L\u00e9o Baptist\u00e3o,1
+Diego L\u00f3pez,Gerard Moreno,1
+Javi L\u00f3pez,L\u00e9o Baptist\u00e3o,1
+Gerard Moreno,Sergio Garc\u00eda,1
+Naldo,Gerard Moreno,1
+D\u00eddac Vil\u00e1,Javi L\u00f3pez,1
+D\u00eddac Vil\u00e1,Gerard Moreno,1
+Sergio Garc\u00eda,Javi L\u00f3pez,1
+David L\u00f3pez,D\u00eddac Vil\u00e1,1
+David L\u00f3pez,Sergio Garc\u00eda,1
+L\u00e9o Baptist\u00e3o,Javi L\u00f3pez,1
+David L\u00f3pez,Javi L\u00f3pez,1
+Naldo,D\u00eddac Vil\u00e1,1

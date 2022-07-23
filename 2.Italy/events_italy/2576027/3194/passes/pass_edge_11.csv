@@ -1,0 +1,19 @@
+Source,Target,Weight
+A. Caracciolo,Nicolas,2
+Nicolas,A. Caracciolo,1
+T. Heurtaux,M. Fares,1
+T. Heurtaux,B. Zuculini,1
+G. Pazzini,T. Heurtaux,1
+M. Fares,M. Valoti,1
+A. Cerci,A. Ferrari,1
+Nicolas,G. Pazzini,1
+M. Fares,A. Caracciolo,1
+A. Ferrari,M. Valoti,1
+B. Zuculini,Daniel Bessa,1
+Daniel Bessa,B. Zuculini,1
+A. Caracciolo,M. Fares,1
+M. Valoti,Daniel Bessa,1
+T. Heurtaux,A. Caracciolo,1
+B. Zuculini,Nicolas,1
+M. Valoti,T. Heurtaux,1
+Nicolas,A. Cerci,1

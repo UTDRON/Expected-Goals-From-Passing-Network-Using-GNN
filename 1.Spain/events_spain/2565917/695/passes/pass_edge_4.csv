@@ -1,0 +1,42 @@
+Source,Target,Weight
+E. Bardhi,Luna,4
+Luna,E. Bardhi,2
+Luna,Campa\u00f1a,2
+Jos\u00e9 Luis Morales,Campa\u00f1a,2
+E. Boateng,E. Bardhi,2
+Roger,Sergio Postigo,2
+Jos\u00e9 Luis Morales,S. Luki\u0107,2
+Campa\u00f1a,Coke,2
+E. Bardhi,Jos\u00e9 Luis Morales,2
+Coke,Sergio Postigo,2
+Sergio Postigo,Jos\u00e9 Luis Morales,2
+Campa\u00f1a,Oier,2
+Jos\u00e9 Luis Morales,E. Boateng,2
+Oier,Coke,2
+Coke,Rober,1
+S. Luki\u0107,Jos\u00e9 Luis Morales,1
+S. Luki\u0107,E. Bardhi,1
+Luna,S. Luki\u0107,1
+Coke,Luna,1
+Coke,E. Boateng,1
+E. Boateng,Roger,1
+Rober,Campa\u00f1a,1
+E. Boateng,Campa\u00f1a,1
+Oier,E. Boateng,1
+Coke,Jos\u00e9 Luis Morales,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+Sergio Postigo,E. Bardhi,1
+S. Luki\u0107,E. Boateng,1
+E. Bardhi,Roger,1
+Sergio Postigo,Campa\u00f1a,1
+E. Boateng,Coke,1
+Luna,E. Boateng,1
+Jos\u00e9 Luis Morales,Coke,1
+S. Luki\u0107,Rober,1
+Campa\u00f1a,Luna,1
+Coke,E. Bardhi,1
+Rober,Oier,1
+Rober,Luna,1
+Campa\u00f1a,E. Bardhi,1
+Luna,Rober,1
+E. Bardhi,Coke,1

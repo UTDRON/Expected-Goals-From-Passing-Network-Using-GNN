@@ -1,0 +1,25 @@
+Source,Target,Weight
+R. Palacio,I. M'baye,2
+O. Okwonkwo,A. Poli,2
+A. Poli,O. Okwonkwo,2
+A. Masina,E. Pulgar,2
+A. Masina,A. Poli,2
+E. Pulgar,I. M'baye,1
+A. Poli,E. Pulgar,1
+I. M'baye,S. De Maio,1
+D. Maietta,O. Okwonkwo,1
+E. Pulgar,S. De Maio,1
+I. M'baye,D. Maietta,1
+S. De Maio,I. M'baye,1
+I. M'baye,O. Okwonkwo,1
+S. De Maio,D. Maietta,1
+A. Poli,A. Masina,1
+O. Okwonkwo,R. Palacio,1
+I. M'baye,A. Masina,1
+G. Donsah,A. Masina,1
+D. Maietta,A. Masina,1
+A. Poli,G. Donsah,1
+O. Okwonkwo,E. Pulgar,1
+E. Pulgar,A. Masina,1
+A. Masina,R. Palacio,1
+E. Pulgar,G. Donsah,1

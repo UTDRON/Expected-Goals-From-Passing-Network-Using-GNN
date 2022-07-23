@@ -1,0 +1,58 @@
+Source,Target,Weight
+C. Borges,Luisinho,7
+Luisinho,Guilherme,6
+Guilherme,M. Krohn-Dehli,5
+C. Borges,Borja Valle,5
+Luisinho,C. Borges,4
+E. \u00c7olak,M. Krohn-Dehli,4
+Albentosa,Juanfran,4
+Guilherme,Juanfran,3
+C. Borges,Guilherme,3
+Luisinho,E. \u00c7olak,3
+Juanfran,M. Krohn-Dehli,3
+M. Krohn-Dehli,E. \u00c7olak,3
+Juanfran,C. Borges,2
+E. \u00c7olak,Luisinho,2
+M. Krohn-Dehli,Guilherme,2
+Guilherme,Luisinho,2
+E. \u00c7olak,C. Borges,2
+Guilherme,C. Borges,2
+Borja Valle,C. Borges,2
+Juanfran,Guilherme,2
+F. Sch\u00e4r,E. \u00c7olak,2
+Lucas P\u00e9rez,Juanfran,2
+M. Krohn-Dehli,Lucas P\u00e9rez,2
+Juanfran,Albentosa,2
+Juanfran,Luisinho,2
+Guilherme,F. Sch\u00e4r,2
+F. Sch\u00e4r,Guilherme,2
+Borja Valle,Luisinho,2
+Borja Valle,F. Sch\u00e4r,2
+Luisinho,Lucas P\u00e9rez,2
+Luisinho,F. Sch\u00e4r,2
+Juanfran,E. \u00c7olak,2
+M. Krohn-Dehli,C. Borges,2
+Guilherme,E. \u00c7olak,2
+M. Krohn-Dehli,Juanfran,2
+M. Krohn-Dehli,Albentosa,2
+E. \u00c7olak,Guilherme,1
+E. \u00c7olak,Juanfran,1
+E. \u00c7olak,Albentosa,1
+Lucas P\u00e9rez,Luisinho,1
+C. Borges,Albentosa,1
+C. Borges,F. Sch\u00e4r,1
+Lucas P\u00e9rez,M. Krohn-Dehli,1
+Albentosa,Guilherme,1
+Guilherme,Albentosa,1
+Borja Valle,Juanfran,1
+F. Sch\u00e4r,C. Borges,1
+Borja Valle,Lucas P\u00e9rez,1
+F. Sch\u00e4r,Borja Valle,1
+F. Sch\u00e4r,Rub\u00e9n,1
+F. Sch\u00e4r,M. Krohn-Dehli,1
+Albentosa,Borja Valle,1
+M. Krohn-Dehli,Luisinho,1
+Rub\u00e9n,C. Borges,1
+Juanfran,Borja Valle,1
+E. \u00c7olak,F. Sch\u00e4r,1
+Lucas P\u00e9rez,C. Borges,1

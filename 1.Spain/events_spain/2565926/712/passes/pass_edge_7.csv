@@ -1,0 +1,35 @@
+Source,Target,Weight
+Serantes,Guerrero,2
+Zald\u00faa,Serantes,2
+N. Amrabat,Gumbau,2
+D. Bra\u0161anac,Zald\u00faa,2
+Serantes,Zald\u00faa,1
+D. Siovas,D. Bra\u0161anac,1
+Rub\u00e9n P\u00e9rez,N. Amrabat,1
+Gumbau,Tito,1
+Gumbau,Guerrero,1
+D. Bra\u0161anac,Gumbau,1
+Zald\u00faa,Gumbau,1
+Gumbau,Serantes,1
+Gumbau,Zald\u00faa,1
+Serantes,D. Bra\u0161anac,1
+Guerrero,N. Amrabat,1
+Gumbau,Rub\u00e9n P\u00e9rez,1
+E. Mu\u00f1oz,Rub\u00e9n P\u00e9rez,1
+Guerrero,Zald\u00faa,1
+Tito,Gumbau,1
+Zald\u00faa,D. Bra\u0161anac,1
+Serantes,N. Amrabat,1
+Gumbau,N. Amrabat,1
+Tito,D. Bra\u0161anac,1
+D. Bra\u0161anac,N. Amrabat,1
+Rub\u00e9n P\u00e9rez,Serantes,1
+D. Bra\u0161anac,E. Mu\u00f1oz,1
+Rub\u00e9n P\u00e9rez,E. Mu\u00f1oz,1
+N. Amrabat,D. Bra\u0161anac,1
+E. Mu\u00f1oz,Tito,1
+Guerrero,Tito,1
+Zald\u00faa,Rub\u00e9n P\u00e9rez,1
+Tito,D. Siovas,1
+N. Amrabat,D. Siovas,1
+D. Siovas,Serantes,1

@@ -1,0 +1,11 @@
+Source,Target,Weight
+Allan,A. Diawara,1
+D. Mertens,L. Insigne,1
+A. Diawara,F. Ghoulam,1
+E. Giaccherini,A. Diawara,1
+A. Diawara,E. Giaccherini,1
+Allan,D. Mertens,1
+A. Diawara,Allan,1
+L. Insigne,A. Diawara,1
+F. Ghoulam,L. Insigne,1
+E. Giaccherini,Allan,1

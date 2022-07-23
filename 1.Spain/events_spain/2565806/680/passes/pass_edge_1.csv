@@ -1,0 +1,62 @@
+Source,Target,Weight
+Pablo Sarabia,M. Lay\u00fan,6
+M. Lay\u00fan,S. Kj\u00e6r,5
+Guilherme Arana,\u00c9. Banega,4
+S. Kj\u00e6r,\u00c9. Banega,4
+M. Lay\u00fan,Pablo Sarabia,4
+S. Kj\u00e6r,M. Lay\u00fan,4
+M. Lay\u00fan,G. Pizarro,4
+G. Pizarro,C. Lenglet,3
+G. Pizarro,M. Lay\u00fan,3
+\u00c9. Banega,Guilherme Arana,3
+M. Lay\u00fan,W. Ben Yedder,3
+\u00c9. Banega,G. Pizarro,3
+C. Lenglet,G. Pizarro,3
+Guilherme Arana,G. Pizarro,3
+\u00c9. Banega,M. Lay\u00fan,3
+G. Pizarro,Guilherme Arana,3
+C. Lenglet,S. Kj\u00e6r,3
+\u00c9. Banega,Nolito,2
+Guilherme Arana,C. Lenglet,2
+\u00c9. Banega,Pablo Sarabia,2
+M. Lay\u00fan,Guilherme Arana,2
+C. Lenglet,\u00c9. Banega,2
+S. Kj\u00e6r,Pablo Sarabia,2
+Guilherme Arana,J. Correa,2
+G. Pizarro,Pablo Sarabia,2
+Pablo Sarabia,Nolito,2
+C. Lenglet,Guilherme Arana,2
+Nolito,S. Kj\u00e6r,2
+Pablo Sarabia,S. Kj\u00e6r,2
+G. Pizarro,W. Ben Yedder,1
+Sergio Rico,M. Lay\u00fan,1
+\u00c9. Banega,S. Kj\u00e6r,1
+Pablo Sarabia,C. Lenglet,1
+G. Pizarro,Sergio Rico,1
+W. Ben Yedder,M. Lay\u00fan,1
+W. Ben Yedder,\u00c9. Banega,1
+W. Ben Yedder,J. Correa,1
+Nolito,Pablo Sarabia,1
+W. Ben Yedder,Pablo Sarabia,1
+J. Correa,G. Pizarro,1
+Pablo Sarabia,\u00c9. Banega,1
+Sergio Rico,C. Lenglet,1
+\u00c9. Banega,J. Correa,1
+G. Pizarro,J. Correa,1
+J. Correa,C. Lenglet,1
+S. Kj\u00e6r,W. Ben Yedder,1
+S. Kj\u00e6r,Guilherme Arana,1
+Nolito,C. Lenglet,1
+Guilherme Arana,Sergio Rico,1
+J. Correa,\u00c9. Banega,1
+M. Lay\u00fan,C. Lenglet,1
+C. Lenglet,M. Lay\u00fan,1
+W. Ben Yedder,C. Lenglet,1
+G. Pizarro,\u00c9. Banega,1
+S. Kj\u00e6r,C. Lenglet,1
+J. Correa,Nolito,1
+C. Lenglet,J. Correa,1
+S. Kj\u00e6r,G. Pizarro,1
+Nolito,\u00c9. Banega,1
+J. Correa,M. Lay\u00fan,1
+J. Correa,Guilherme Arana,1

@@ -1,0 +1,35 @@
+Source,Target,Weight
+M. Arambarri,Juan Cala,2
+Juan Cala,Antunes,2
+Guaita,Jorge Molina,2
+Molinero,Markel Bergara,2
+Molinero,Portillo,2
+Jorge Molina,Portillo,1
+Juan Cala,A. Ndiaye,1
+A. Ndiaye,Antunes,1
+Portillo,Guaita,1
+Antunes,Guaita,1
+Portillo,Juan Cala,1
+M. Arambarri,A. Ndiaye,1
+Jorge Molina,\u00c1ngel,1
+Djen\u00e9,M. Arambarri,1
+Portillo,Markel Bergara,1
+Markel Bergara,Molinero,1
+Molinero,M. Arambarri,1
+M. Arambarri,Molinero,1
+Antunes,Portillo,1
+Markel Bergara,M. Arambarri,1
+Portillo,Jorge Molina,1
+Molinero,Jorge Molina,1
+\u00c1ngel,Portillo,1
+A. Ndiaye,Portillo,1
+Portillo,Antunes,1
+Antunes,M. Arambarri,1
+Antunes,Molinero,1
+Jorge Molina,A. Ndiaye,1
+Portillo,Molinero,1
+Markel Bergara,Antunes,1
+A. Ndiaye,Molinero,1
+Jorge Molina,Molinero,1
+Molinero,Guaita,1
+Guaita,Djen\u00e9,1

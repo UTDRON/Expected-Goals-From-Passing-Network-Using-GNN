@@ -1,0 +1,24 @@
+Source,Target,Weight
+To\u00f1o,\u00c1lex Alegr\u00eda,6
+\u00c1lex Alegr\u00eda,To\u00f1o,4
+Rober,Campa\u00f1a,3
+\u00c1lex Alegr\u00eda,Rober,3
+Ivi,To\u00f1o,2
+Campa\u00f1a,Jos\u00e9 Luis Morales,2
+Campa\u00f1a,To\u00f1o,2
+To\u00f1o,Campa\u00f1a,2
+Ra\u00fal Fern\u00e1ndez,Ivi,1
+Rober,Ivi,1
+Campa\u00f1a,Rober,1
+Chema,Rober,1
+Jos\u00e9 Luis Morales,Ra\u00fal Fern\u00e1ndez,1
+Ra\u00fal Fern\u00e1ndez,Chema,1
+Chema,Ra\u00fal Fern\u00e1ndez,1
+Rober,To\u00f1o,1
+Ra\u00fal Fern\u00e1ndez,\u00c1lex Alegr\u00eda,1
+\u00c1lex Alegr\u00eda,Campa\u00f1a,1
+Ivi,\u00c1lex Alegr\u00eda,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+To\u00f1o,Chema,1
+Campa\u00f1a,Ivi,1
+Ivi,Ra\u00fal Fern\u00e1ndez,1

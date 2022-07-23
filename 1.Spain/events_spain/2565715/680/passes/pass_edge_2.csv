@@ -1,0 +1,20 @@
+Source,Target,Weight
+J. Geis,G. Pizarro,3
+G. Pizarro,\u00c9. Banega,2
+\u00c9. Banega,J. Geis,2
+\u00c9. Banega,Ganso,2
+David Soria,\u00c9. Banega,2
+Sergio Escudero,David Soria,1
+S. Corchia,W. Ben Yedder,1
+Ganso,S. Corchia,1
+\u00c9. Banega,Sergio Escudero,1
+S. Corchia,J. Geis,1
+G. Pizarro,J. Geis,1
+W. Ben Yedder,Sergio Escudero,1
+Sergio Escudero,\u00c9. Banega,1
+J. Geis,Pablo Sarabia,1
+S. Kj\u00e6r,David Soria,1
+Ganso,M. Krohn-Dehli,1
+J. Geis,S. Corchia,1
+Pablo Sarabia,W. Ben Yedder,1
+M. Krohn-Dehli,J. Geis,1

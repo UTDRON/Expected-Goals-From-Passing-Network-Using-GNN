@@ -1,0 +1,31 @@
+Source,Target,Weight
+Eraso,D. Bra\u0161anac,3
+E. Mu\u00f1oz,C. Beauvue,2
+C. Beauvue,Eraso,2
+Tito,E. Mu\u00f1oz,2
+Eraso,Tito,2
+D. Bra\u0161anac,Eraso,2
+Tito,Guerrero,2
+Tito,Gumbau,1
+Gumbau,Cu\u00e9llar,1
+D. Bra\u0161anac,Tito,1
+E. Mu\u00f1oz,M. Dos Santos,1
+Sergio Arribas,E. Mu\u00f1oz,1
+M. Dos Santos,E. Mu\u00f1oz,1
+D. Bra\u0161anac,Gumbau,1
+C. Beauvue,Tito,1
+C. Beauvue,Sergio Arribas,1
+Guerrero,Eraso,1
+Ra\u00fal Garc\u00eda,E. Mu\u00f1oz,1
+E. Mu\u00f1oz,Tito,1
+M. Dos Santos,Eraso,1
+Tito,C. Beauvue,1
+Ra\u00fal Garc\u00eda,Guerrero,1
+Gumbau,Ra\u00fal Garc\u00eda,1
+Eraso,C. Beauvue,1
+E. Mu\u00f1oz,Ra\u00fal Garc\u00eda,1
+Cu\u00e9llar,Tito,1
+Guerrero,Gumbau,1
+Eraso,Gumbau,1
+Guerrero,D. Bra\u0161anac,1
+Gumbau,Eraso,1

@@ -1,0 +1,48 @@
+Source,Target,Weight
+Dani Raba,A. Rukavina,3
+\u00c1lvaro Gonz\u00e1lez,R. Soriano,3
+Trigueros,Jaume Costa,3
+Rodri,Trigueros,3
+Dani Raba,Rodri,2
+C. Bacca,Dani Raba,2
+Jaume Costa,\u00c1lvaro Gonz\u00e1lez,2
+R. Soriano,Rodri,2
+Jaume Costa,C. Bacca,2
+Rodri,\u00c1lvaro Gonz\u00e1lez,2
+C. Bacca,Jaume Costa,2
+R. Soriano,Jaume Costa,2
+A. Rukavina,Pablo Fornals,2
+Pablo Fornals,Rodri,2
+Jaume Costa,Pablo Fornals,2
+Pablo Fornals,A. Rukavina,1
+D. Bonera,Trigueros,1
+D. Bonera,Rodri,1
+Dani Raba,Pablo Fornals,1
+\u00c1lvaro Gonz\u00e1lez,Sergio Asenjo,1
+Pablo Fornals,Dani Raba,1
+Rodri,A. Rukavina,1
+R. Soriano,Pablo Fornals,1
+A. Rukavina,D. Bonera,1
+Jaume Costa,Sergio Asenjo,1
+Jaume Costa,Trigueros,1
+Jaume Costa,D. Bonera,1
+Rodri,Pablo Fornals,1
+Sergio Asenjo,Jaume Costa,1
+C. Bacca,Sergio Asenjo,1
+Sergio Asenjo,C. Bacca,1
+C. Bacca,Rodri,1
+\u00c1lvaro Gonz\u00e1lez,Jaume Costa,1
+Jaume Costa,R. Soriano,1
+A. Rukavina,C. Bacca,1
+Dani Raba,C. Bacca,1
+A. Rukavina,Dani Raba,1
+R. Soriano,Dani Raba,1
+Pablo Fornals,Trigueros,1
+Sergio Asenjo,R. Soriano,1
+Pablo Fornals,Jaume Costa,1
+Rodri,Dani Raba,1
+Trigueros,Dani Raba,1
+Pablo Fornals,C. Bacca,1
+Trigueros,Pablo Fornals,1
+Pablo Fornals,R. Soriano,1
+Trigueros,C. Bacca,1

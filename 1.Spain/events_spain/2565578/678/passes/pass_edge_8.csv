@@ -1,0 +1,81 @@
+Source,Target,Weight
+Arrizabalaga,A. Laporte,5
+B\u00f3veda,Iturraspe,4
+A. Laporte,Iturraspe,4
+Vesga,A. Laporte,4
+Iturraspe,B\u00f3veda,3
+A. Laporte,Vesga,3
+A. Laporte,Arrizabalaga,3
+Susaeta,B\u00f3veda,3
+B\u00f3veda,Vesga,3
+Saborit,A. Laporte,3
+Iturraspe,Muniain,3
+Unai N\u00fa\u00f1ez,Arrizabalaga,3
+Ra\u00fal Garc\u00eda,Unai N\u00fa\u00f1ez,3
+Ra\u00fal Garc\u00eda,B\u00f3veda,3
+Arrizabalaga,Ra\u00fal Garc\u00eda,3
+Iturraspe,Unai N\u00fa\u00f1ez,3
+Ra\u00fal Garc\u00eda,Iturraspe,3
+Arrizabalaga,Sabin Merino,2
+I\u00f1aki Williams,Ra\u00fal Garc\u00eda,2
+Vesga,Iturraspe,2
+Muniain,I\u00f1aki Williams,2
+Vesga,Susaeta,2
+Iturraspe,Arrizabalaga,2
+B\u00f3veda,Susaeta,2
+Iturraspe,Ra\u00fal Garc\u00eda,2
+Susaeta,Ra\u00fal Garc\u00eda,2
+Sabin Merino,Vesga,2
+Iturraspe,Susaeta,2
+Ra\u00fal Garc\u00eda,Saborit,2
+Iturraspe,Vesga,2
+Susaeta,I\u00f1aki Williams,1
+Muniain,A. Laporte,1
+I\u00f1aki Williams,Muniain,1
+I\u00f1aki Williams,B\u00f3veda,1
+Vesga,Sabin Merino,1
+A. Laporte,B\u00f3veda,1
+Unai N\u00fa\u00f1ez,I\u00f1aki Williams,1
+Muniain,Iturraspe,1
+B\u00f3veda,Muniain,1
+A. Laporte,Saborit,1
+Ra\u00fal Garc\u00eda,Vesga,1
+A. Laporte,Unai N\u00fa\u00f1ez,1
+Vesga,I\u00f1aki Williams,1
+Aduriz,A. Laporte,1
+A. Laporte,Susaeta,1
+Aduriz,Ra\u00fal Garc\u00eda,1
+Unai N\u00fa\u00f1ez,Saborit,1
+Sabin Merino,Arrizabalaga,1
+Sabin Merino,A. Laporte,1
+Arrizabalaga,Iturraspe,1
+Unai N\u00fa\u00f1ez,Iturraspe,1
+B\u00f3veda,Arrizabalaga,1
+A. Laporte,Sabin Merino,1
+Arrizabalaga,Unai N\u00fa\u00f1ez,1
+Saborit,Ra\u00fal Garc\u00eda,1
+B\u00f3veda,A. Laporte,1
+Vesga,Ra\u00fal Garc\u00eda,1
+Susaeta,Saborit,1
+Unai N\u00fa\u00f1ez,B\u00f3veda,1
+Susaeta,A. Laporte,1
+Vesga,Arrizabalaga,1
+I\u00f1aki Williams,Susaeta,1
+Muniain,Unai N\u00fa\u00f1ez,1
+B\u00f3veda,Sabin Merino,1
+A. Laporte,I\u00f1aki Williams,1
+Ra\u00fal Garc\u00eda,Susaeta,1
+Susaeta,Iturraspe,1
+Iturraspe,A. Laporte,1
+Aduriz,B\u00f3veda,1
+Susaeta,Arrizabalaga,1
+Muniain,Aduriz,1
+Saborit,Vesga,1
+Ra\u00fal Garc\u00eda,Muniain,1
+Unai N\u00fa\u00f1ez,Vesga,1
+A. Laporte,Ra\u00fal Garc\u00eda,1
+B\u00f3veda,Ra\u00fal Garc\u00eda,1
+Unai N\u00fa\u00f1ez,Aduriz,1
+I\u00f1aki Williams,Iturraspe,1
+Vesga,B\u00f3veda,1
+Sabin Merino,Aduriz,1

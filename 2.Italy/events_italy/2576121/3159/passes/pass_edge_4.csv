@@ -1,0 +1,83 @@
+Source,Target,Weight
+M. Benatia,A. Barzagli,9
+A. Barzagli,M. Pjani\u0107,9
+S. Khedira,M. Benatia,8
+Alex Sandro,M. Mand\u017euki\u0107,8
+B. Matuidi,M. Mand\u017euki\u0107,8
+M. Mand\u017euki\u0107,Alex Sandro,6
+M. Pjani\u0107,M. Benatia,6
+A. Barzagli,B. Matuidi,6
+M. Benatia,S. Khedira,6
+Douglas Costa,G. Higua\u00edn,5
+M. Pjani\u0107,Alex Sandro,5
+M. Mand\u017euki\u0107,G. Higua\u00edn,5
+M. Mand\u017euki\u0107,B. Matuidi,5
+G. Higua\u00edn,M. Pjani\u0107,4
+M. Pjani\u0107,S. Khedira,4
+S. Khedira,M. De Sciglio,4
+A. Barzagli,M. Benatia,4
+G. Higua\u00edn,Douglas Costa,4
+G. Higua\u00edn,Alex Sandro,4
+Alex Sandro,B. Matuidi,4
+B. Matuidi,A. Barzagli,4
+B. Matuidi,Alex Sandro,4
+M. Pjani\u0107,A. Barzagli,3
+G. Higua\u00edn,M. De Sciglio,3
+M. De Sciglio,S. Khedira,3
+M. Benatia,B. Matuidi,3
+M. De Sciglio,Douglas Costa,3
+Alex Sandro,G. Higua\u00edn,3
+M. De Sciglio,M. Pjani\u0107,3
+M. Pjani\u0107,G. Higua\u00edn,3
+B. Matuidi,M. Benatia,3
+Alex Sandro,A. Barzagli,3
+M. Benatia,M. Pjani\u0107,3
+Douglas Costa,M. De Sciglio,3
+A. Barzagli,G. Higua\u00edn,3
+M. Pjani\u0107,M. Mand\u017euki\u0107,3
+G. Higua\u00edn,B. Matuidi,3
+A. Barzagli,Alex Sandro,3
+M. Benatia,M. De Sciglio,3
+M. Mand\u017euki\u0107,A. Barzagli,3
+Alex Sandro,M. Pjani\u0107,2
+M. Pjani\u0107,M. De Sciglio,2
+A. Barzagli,S. Khedira,2
+M. Benatia,Douglas Costa,2
+Douglas Costa,M. Pjani\u0107,2
+G. Higua\u00edn,A. Barzagli,2
+S. Khedira,B. Matuidi,2
+M. De Sciglio,M. Benatia,2
+Douglas Costa,A. Barzagli,2
+G. Higua\u00edn,S. Khedira,2
+Alex Sandro,Douglas Costa,2
+W. Szcz\u0119sny,M. Benatia,2
+Douglas Costa,S. Khedira,2
+M. Pjani\u0107,Douglas Costa,2
+M. De Sciglio,W. Szcz\u0119sny,2
+M. Mand\u017euki\u0107,M. Pjani\u0107,2
+M. Mand\u017euki\u0107,M. Benatia,2
+S. Khedira,Douglas Costa,2
+M. De Sciglio,A. Barzagli,2
+B. Matuidi,M. Pjani\u0107,2
+B. Matuidi,G. Higua\u00edn,1
+S. Khedira,M. Pjani\u0107,1
+A. Barzagli,Douglas Costa,1
+B. Matuidi,Douglas Costa,1
+W. Szcz\u0119sny,G. Higua\u00edn,1
+M. Benatia,W. Szcz\u0119sny,1
+M. Benatia,M. Mand\u017euki\u0107,1
+Douglas Costa,Alex Sandro,1
+S. Khedira,A. Barzagli,1
+A. Barzagli,M. Mand\u017euki\u0107,1
+M. Mand\u017euki\u0107,W. Szcz\u0119sny,1
+W. Szcz\u0119sny,Alex Sandro,1
+Alex Sandro,W. Szcz\u0119sny,1
+A. Barzagli,W. Szcz\u0119sny,1
+Douglas Costa,M. Mand\u017euki\u0107,1
+M. De Sciglio,G. Higua\u00edn,1
+B. Matuidi,M. De Sciglio,1
+W. Szcz\u0119sny,A. Barzagli,1
+S. Khedira,G. Higua\u00edn,1
+W. Szcz\u0119sny,M. Mand\u017euki\u0107,1
+G. Higua\u00edn,M. Benatia,1
+Douglas Costa,B. Matuidi,1

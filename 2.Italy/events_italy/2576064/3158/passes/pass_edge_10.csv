@@ -1,0 +1,32 @@
+Source,Target,Weight
+F. Fazio,Juan Jesus,3
+Juan Jesus,K. Strootman,2
+D. De Rossi,Bruno Peres,2
+D. De Rossi,A. Florenzi,2
+Juan Jesus,D. De Rossi,2
+K. Strootman,Bruno Peres,1
+Bruno Peres,F. Fazio,1
+S. El Shaarawy,Bruno Peres,1
+G. Defrel,F. Fazio,1
+L. Pellegrini,F. Fazio,1
+F. Fazio,D. De Rossi,1
+K. Strootman,S. El Shaarawy,1
+D. De Rossi,K. Strootman,1
+D. De Rossi,L. Pellegrini,1
+Bruno Peres,Alisson,1
+F. Fazio,A. Florenzi,1
+D. De Rossi,F. Fazio,1
+Bruno Peres,Juan Jesus,1
+A. Florenzi,G. Defrel,1
+D. De Rossi,Juan Jesus,1
+A. Florenzi,D. De Rossi,1
+A. Florenzi,E. D\u017eeko,1
+Bruno Peres,D. De Rossi,1
+Juan Jesus,F. Fazio,1
+Juan Jesus,S. El Shaarawy,1
+Alisson,D. De Rossi,1
+L. Pellegrini,A. Florenzi,1
+A. Florenzi,Juan Jesus,1
+K. Strootman,A. Florenzi,1
+E. D\u017eeko,D. De Rossi,1
+A. Florenzi,L. Pellegrini,1

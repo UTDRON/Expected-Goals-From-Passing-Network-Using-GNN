@@ -1,0 +1,77 @@
+Source,Target,Weight
+C. Zapata,I. Abate,10
+L. Biglia,F. Kessi\u00e9,7
+F. Kessi\u00e9,C. Zapata,7
+C. Zapata,L. Biglia,6
+F. Kessi\u00e9,Suso,6
+L. Bonucci,C. Zapata,5
+G. Bonaventura,A. Romagnoli,5
+I. Abate,F. Kessi\u00e9,5
+G. Donnarumma,C. Zapata,5
+F. Kessi\u00e9,G. Bonaventura,4
+Suso,F. Kessi\u00e9,4
+L. Biglia,G. Bonaventura,4
+I. Abate,C. Zapata,4
+F. Kessi\u00e9,I. Abate,4
+N. Kalini\u0107,F. Kessi\u00e9,4
+Suso,L. Biglia,4
+R. Rodr\u00edguez,G. Bonaventura,4
+G. Bonaventura,F. Kessi\u00e9,3
+R. Rodr\u00edguez,Suso,3
+C. Zapata,F. Kessi\u00e9,3
+A. Romagnoli,R. Rodr\u00edguez,3
+R. Rodr\u00edguez,A. Romagnoli,3
+L. Bonucci,G. Bonaventura,3
+C. Zapata,L. Bonucci,3
+L. Bonucci,R. Rodr\u00edguez,3
+A. Romagnoli,N. Kalini\u0107,2
+G. Bonaventura,C. Zapata,2
+L. Biglia,L. Bonucci,2
+F. Kessi\u00e9,N. Kalini\u0107,2
+Suso,R. Rodr\u00edguez,2
+G. Bonaventura,R. Rodr\u00edguez,2
+Suso,G. Bonaventura,2
+G. Bonaventura,Suso,2
+Suso,C. Zapata,2
+I. Abate,Suso,2
+F. Kessi\u00e9,L. Biglia,2
+C. Zapata,G. Donnarumma,2
+G. Donnarumma,L. Bonucci,2
+N. Kalini\u0107,I. Abate,2
+L. Bonucci,L. Biglia,2
+A. Romagnoli,G. Donnarumma,2
+F. Kessi\u00e9,R. Rodr\u00edguez,2
+I. Abate,N. Kalini\u0107,2
+A. Romagnoli,L. Bonucci,2
+N. Kalini\u0107,Suso,2
+G. Bonaventura,L. Bonucci,2
+I. Abate,R. Rodr\u00edguez,1
+R. Rodr\u00edguez,N. Kalini\u0107,1
+L. Biglia,C. Zapata,1
+Suso,N. Kalini\u0107,1
+R. Rodr\u00edguez,G. Donnarumma,1
+I. Abate,L. Biglia,1
+C. Zapata,N. Kalini\u0107,1
+A. Romagnoli,I. Abate,1
+C. Zapata,R. Rodr\u00edguez,1
+A. Romagnoli,C. Zapata,1
+A. Romagnoli,F. Kessi\u00e9,1
+L. Bonucci,A. Romagnoli,1
+I. Abate,A. Romagnoli,1
+R. Rodr\u00edguez,L. Bonucci,1
+N. Kalini\u0107,A. Romagnoli,1
+Suso,L. Bonucci,1
+F. Kessi\u00e9,G. Donnarumma,1
+L. Biglia,G. Donnarumma,1
+R. Rodr\u00edguez,F. Kessi\u00e9,1
+L. Biglia,I. Abate,1
+L. Biglia,A. Romagnoli,1
+I. Abate,G. Bonaventura,1
+G. Bonaventura,L. Biglia,1
+N. Kalini\u0107,L. Biglia,1
+G. Donnarumma,A. Romagnoli,1
+I. Abate,L. Bonucci,1
+C. Zapata,Suso,1
+L. Biglia,N. Kalini\u0107,1
+A. Romagnoli,Suso,1
+G. Bonaventura,G. Donnarumma,1

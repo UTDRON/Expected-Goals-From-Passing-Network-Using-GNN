@@ -1,0 +1,67 @@
+Source,Target,Weight
+R. Rosales,Recio,7
+Recio,R. Rosales,6
+Adri\u00e1n,P. Baysse,6
+Diego Gonz\u00e1lez,Chory Castro,5
+Luis Hern\u00e1ndez,R. Rosales,5
+R. Rosales,D. Rol\u00e1n,4
+D. Rol\u00e1n,R. Rosales,4
+Adri\u00e1n,R. Rosales,3
+R. Rosales,Adri\u00e1n,3
+Recio,Adri\u00e1n,3
+Juanpi,Adri\u00e1n,3
+Chory Castro,Juanpi,3
+Adri\u00e1n,Chory Castro,3
+P. Baysse,Diego Gonz\u00e1lez,2
+Chory Castro,Adri\u00e1n,2
+P. Baysse,Luis Hern\u00e1ndez,2
+Chory Castro,Diego Gonz\u00e1lez,2
+Diego Gonz\u00e1lez,P. Baysse,2
+Chory Castro,Luis Hern\u00e1ndez,2
+P. Baysse,R. Rosales,2
+P. Baysse,Chory Castro,2
+R. Rosales,Juanpi,2
+Adri\u00e1n,Diego Gonz\u00e1lez,2
+Luis Hern\u00e1ndez,Adri\u00e1n,2
+D. Rol\u00e1n,P. Baysse,2
+R. Rosales,Luis Hern\u00e1ndez,2
+Borja Bast\u00f3n,Recio,2
+Recio,Diego Gonz\u00e1lez,2
+Borja Bast\u00f3n,Luis Hern\u00e1ndez,2
+Juanpi,R. Rosales,1
+Borja Bast\u00f3n,Chory Castro,1
+D. Rol\u00e1n,Luis Hern\u00e1ndez,1
+D. Rol\u00e1n,Recio,1
+Keko,Roberto,1
+Chory Castro,Roberto,1
+A. Pe\u00f1aranda,P. Baysse,1
+R. Rosales,Borja Bast\u00f3n,1
+P. Baysse,A. Pe\u00f1aranda,1
+P. Baysse,Adri\u00e1n,1
+Adri\u00e1n,D. Rol\u00e1n,1
+Chory Castro,Recio,1
+Borja Bast\u00f3n,Keko,1
+Luis Hern\u00e1ndez,Diego Gonz\u00e1lez,1
+Recio,Chory Castro,1
+Keko,Adri\u00e1n,1
+Chory Castro,R. Rosales,1
+Roberto,Chory Castro,1
+Roberto,D. Rol\u00e1n,1
+P. Baysse,D. Rol\u00e1n,1
+Juanpi,Recio,1
+Luis Hern\u00e1ndez,D. Rol\u00e1n,1
+Diego Gonz\u00e1lez,D. Rol\u00e1n,1
+R. Rosales,Diego Gonz\u00e1lez,1
+R. Rosales,Keko,1
+Juanpi,Borja Bast\u00f3n,1
+Roberto,Borja Bast\u00f3n,1
+Recio,Borja Bast\u00f3n,1
+Keko,Borja Bast\u00f3n,1
+Keko,P. Baysse,1
+Adri\u00e1n,Borja Bast\u00f3n,1
+Diego Gonz\u00e1lez,Adri\u00e1n,1
+Borja Bast\u00f3n,Juanpi,1
+Chory Castro,Keko,1
+P. Baysse,Recio,1
+Diego Gonz\u00e1lez,Roberto,1
+D. Rol\u00e1n,Borja Bast\u00f3n,1

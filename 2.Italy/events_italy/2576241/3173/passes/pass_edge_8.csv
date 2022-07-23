@@ -1,0 +1,19 @@
+Source,Target,Weight
+D. Ceter,Diego Farias,2
+S. Miangue,D. Ceter,2
+F. Romagna,P. Farag\u00f2,2
+P. Farag\u00f2,M. Sau,1
+L. Pavoletti,F. Romagna,1
+L. Ceppitelli,L. Pavoletti,1
+Diego Farias,S. Miangue,1
+S. Miangue,L. Ceppitelli,1
+N. Barella,F. Romagna,1
+L. Ceppitelli,S. Miangue,1
+P. Farag\u00f2,L. Ceppitelli,1
+M. Sau,N. Barella,1
+A. Cragno,S. Miangue,1
+Diego Farias,D. Ceter,1
+L. Ceppitelli,A. Cragno,1
+N. Barella,S. Miangue,1
+D. Ceter,N. Barella,1
+S. Miangue,Diego Farias,1

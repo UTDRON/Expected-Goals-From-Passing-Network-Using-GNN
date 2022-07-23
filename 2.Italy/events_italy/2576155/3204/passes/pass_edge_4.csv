@@ -1,0 +1,22 @@
+Source,Target,Weight
+B. Salamon,F. Vicari,2
+P. Schiattarella,M. Antenucci,2
+M. Lazzari,F. Viviani,2
+F. Viviani,B. Salamon,2
+Felipe,F. Viviani,2
+F. Vicari,B. Salamon,2
+F. Viviani,Felipe,1
+M. Antenucci,P. Schiattarella,1
+Felipe,F. Vicari,1
+A. Grassi,Felipe,1
+F. Mattiello,F. Vicari,1
+Felipe,A. Grassi,1
+B. Salamon,F. Mattiello,1
+F. Vicari,Felipe,1
+F. Vicari,F. Viviani,1
+B. Salamon,M. Lazzari,1
+F. Viviani,M. Lazzari,1
+F. Mattiello,F. Viviani,1
+M. Lazzari,Felipe,1
+F. Viviani,P. Schiattarella,1
+F. Viviani,F. Mattiello,1

@@ -1,0 +1,42 @@
+Source,Target,Weight
+F. Viviani,M. Lazzari,4
+M. Lazzari,F. Viviani,3
+M. Lazzari,T. Cionek,3
+T. Cionek,M. Lazzari,3
+A. Grassi,M. Lazzari,3
+J. Kurti\u010d,A. Grassi,2
+M. Antenucci,T. Cionek,2
+M. Lazzari,F. Vicari,2
+M. Lazzari,A. Grassi,2
+J. Kurti\u010d,M. Lazzari,2
+A. Grassi,F. Viviani,2
+M. Lazzari,M. Antenucci,2
+F. Viviani,Felipe,1
+M. Antenucci,A. Paloschi,1
+F. Vicari,F. Viviani,1
+T. Cionek,F. Viviani,1
+F. Viviani,T. Cionek,1
+F. Vicari,J. Kurti\u010d,1
+A. Paloschi,F. Viviani,1
+T. Cionek,A. Grassi,1
+M. Antenucci,F. Mattiello,1
+F. Mattiello,M. Antenucci,1
+F. Vicari,M. Antenucci,1
+F. Viviani,A. Grassi,1
+Felipe,A. Grassi,1
+F. Mattiello,A. Paloschi,1
+F. Mattiello,Felipe,1
+F. Viviani,J. Kurti\u010d,1
+A. Paloschi,F. Mattiello,1
+Felipe,M. Lazzari,1
+A. Grassi,A. Meret,1
+M. Lazzari,A. Paloschi,1
+T. Cionek,A. Paloschi,1
+A. Meret,J. Kurti\u010d,1
+A. Paloschi,A. Grassi,1
+A. Grassi,A. Paloschi,1
+M. Lazzari,Felipe,1
+A. Paloschi,M. Lazzari,1
+Felipe,F. Mattiello,1
+A. Paloschi,T. Cionek,1
+T. Cionek,F. Vicari,1

@@ -1,0 +1,41 @@
+Source,Target,Weight
+Luna,S. Luki\u0107,4
+Ivi,Rober,3
+Ivi,G. Pazzini,3
+Luna,Ivi,3
+S. Luki\u0107,Ivi,2
+Rober,Luna,2
+Oier,A. Sadiku,2
+S. Luki\u0107,Luna,2
+C. Doukour\u00e9,E. Cabaco,2
+G. Pazzini,Pedro L\u00f3pez,2
+Ivi,Luna,2
+A. Sadiku,C. Doukour\u00e9,2
+G. Pazzini,Oier,1
+A. Sadiku,S. Luki\u0107,1
+S. Luki\u0107,A. Sadiku,1
+C. Doukour\u00e9,Jos\u00e9 Luis Morales,1
+Rober,A. Sadiku,1
+G. Pazzini,C. Doukour\u00e9,1
+Pedro L\u00f3pez,A. Sadiku,1
+A. Sadiku,Rober,1
+A. Sadiku,Ivi,1
+Pedro L\u00f3pez,E. Cabaco,1
+Oier,G. Pazzini,1
+E. Cabaco,Rober,1
+S. Luki\u0107,G. Pazzini,1
+E. Cabaco,Jos\u00e9 Luis Morales,1
+Rober,Pedro L\u00f3pez,1
+Jos\u00e9 Luis Morales,S. Luki\u0107,1
+Pedro L\u00f3pez,Oier,1
+G. Pazzini,A. Sadiku,1
+A. Sadiku,Jos\u00e9 Luis Morales,1
+S. Luki\u0107,Rober,1
+Jos\u00e9 Luis Morales,A. Sadiku,1
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,1
+Rober,Ivi,1
+A. Sadiku,Luna,1
+Pedro L\u00f3pez,C. Doukour\u00e9,1
+Rober,Oier,1
+E. Cabaco,Ivi,1
+C. Doukour\u00e9,A. Sadiku,1

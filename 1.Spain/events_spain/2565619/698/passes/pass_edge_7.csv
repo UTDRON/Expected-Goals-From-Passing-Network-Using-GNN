@@ -1,0 +1,18 @@
+Source,Target,Weight
+Antunes,Portillo,1
+Juan Cala,Antunes,1
+Jorge Molina,F. Fajr,1
+M. Lacen,Jorge Molina,1
+M. Lacen,F. Fajr,1
+Markel Bergara,Portillo,1
+Portillo,M. Lacen,1
+Antunes,Djen\u00e9,1
+Portillo,Markel Bergara,1
+F. Fajr,M. Lacen,1
+Djen\u00e9,Antunes,1
+M. Lacen,Juan Cala,1
+D. Su\u00e1rez,M. Lacen,1
+Djen\u00e9,D. Su\u00e1rez,1
+Juan Cala,Jorge Molina,1
+F. Fajr,Juan Cala,1
+Jorge Molina,Markel Bergara,1

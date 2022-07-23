@@ -1,0 +1,40 @@
+Source,Target,Weight
+Gerard Moreno,P. Piatti,3
+Mario Hermoso,David L\u00f3pez,3
+P. Piatti,Mario Hermoso,2
+Mario Hermoso,P. Piatti,2
+Aar\u00f3n,Mario Hermoso,2
+V\u00edctor S\u00e1nchez,David L\u00f3pez,2
+Sergi Darder,Gerard Moreno,2
+P. Piatti,Aar\u00f3n,2
+David L\u00f3pez,Gerard Moreno,1
+P. Piatti,V\u00edctor S\u00e1nchez,1
+Javi Fuego,Sergi Darder,1
+Aar\u00f3n,L\u00e9o Baptist\u00e3o,1
+V\u00edctor S\u00e1nchez,Javi Fuego,1
+L\u00e9o Baptist\u00e3o,V\u00edctor S\u00e1nchez,1
+L\u00e9o Baptist\u00e3o,Gerard Moreno,1
+L\u00e9o Baptist\u00e3o,Mario Hermoso,1
+Jurado,L\u00e9o Baptist\u00e3o,1
+Gerard Moreno,Aar\u00f3n,1
+Javi Fuego,P. Piatti,1
+Pau L\u00f3pez,L\u00e9o Baptist\u00e3o,1
+Mario Hermoso,V\u00edctor S\u00e1nchez,1
+L\u00e9o Baptist\u00e3o,Aar\u00f3n,1
+Gerard Moreno,V\u00edctor S\u00e1nchez,1
+David L\u00f3pez,V\u00edctor S\u00e1nchez,1
+V\u00edctor S\u00e1nchez,Aar\u00f3n,1
+David L\u00f3pez,Pau L\u00f3pez,1
+P. Piatti,L\u00e9o Baptist\u00e3o,1
+Aar\u00f3n,Gerard Moreno,1
+V\u00edctor S\u00e1nchez,Jurado,1
+Aar\u00f3n,Javi Fuego,1
+Mario Hermoso,Aar\u00f3n,1
+Aar\u00f3n,P. Piatti,1
+P. Piatti,Gerard Moreno,1
+Jurado,V\u00edctor S\u00e1nchez,1
+David L\u00f3pez,L\u00e9o Baptist\u00e3o,1
+David L\u00f3pez,Mario Hermoso,1
+Gerard Moreno,Mario Hermoso,1
+V\u00edctor S\u00e1nchez,Sergi Darder,1
+L\u00e9o Baptist\u00e3o,Jurado,1

@@ -1,0 +1,56 @@
+Source,Target,Weight
+Bueno,Y. En-Nesyri,3
+Luis Hern\u00e1ndez,R. Rosales,3
+M. Iturra,Alberto L\u00f3pez,3
+Adri\u00e1n,M. Iturra,3
+Bueno,M. Iturra,2
+M. Iturra,Luis Hern\u00e1ndez,2
+R. Rosales,Adri\u00e1n,2
+Luis Hern\u00e1ndez,Andr\u00e9s,2
+Alberto L\u00f3pez,Miquel,2
+Alberto L\u00f3pez,Adri\u00e1n,2
+Miquel,Adri\u00e1n,2
+R. Rosales,Y. En-Nesyri,2
+Luis Hern\u00e1ndez,Bueno,2
+Andr\u00e9s,Luis Hern\u00e1ndez,2
+Y. En-Nesyri,Adri\u00e1n,2
+R. Rosales,Alberto L\u00f3pez,2
+M. Iturra,R. Rosales,2
+R. Rosales,Borja Bast\u00f3n,2
+Miquel,Luis Hern\u00e1ndez,2
+Y. En-Nesyri,M. Iturra,2
+M. Iturra,D. Rol\u00e1n,1
+Adri\u00e1n,D. Rol\u00e1n,1
+M. Iturra,Miquel,1
+Miquel,Andr\u00e9s,1
+Luis Hern\u00e1ndez,Miquel,1
+Miquel,M. Iturra,1
+Borja Bast\u00f3n,Luis Hern\u00e1ndez,1
+Alberto L\u00f3pez,Y. En-Nesyri,1
+Andr\u00e9s,Borja Bast\u00f3n,1
+Adri\u00e1n,R. Rosales,1
+Y. En-Nesyri,D. Rol\u00e1n,1
+Y. En-Nesyri,R. Rosales,1
+Alberto L\u00f3pez,R. Rosales,1
+Miquel,Bueno,1
+D. Rol\u00e1n,R. Rosales,1
+M. Iturra,Andr\u00e9s,1
+Y. En-Nesyri,Andr\u00e9s,1
+Adri\u00e1n,Andr\u00e9s,1
+I. Success,Miquel,1
+Adri\u00e1n,Bueno,1
+Alberto L\u00f3pez,M. Iturra,1
+Borja Bast\u00f3n,Bueno,1
+Andr\u00e9s,Y. En-Nesyri,1
+Miquel,Y. En-Nesyri,1
+Andr\u00e9s,I. Success,1
+Adri\u00e1n,Miquel,1
+D. Rol\u00e1n,Borja Bast\u00f3n,1
+D. Rol\u00e1n,Miquel,1
+R. Rosales,Miquel,1
+Andr\u00e9s,Alberto L\u00f3pez,1
+Borja Bast\u00f3n,Adri\u00e1n,1
+Adri\u00e1n,Luis Hern\u00e1ndez,1
+R. Rosales,Andr\u00e9s,1
+Andr\u00e9s,M. Iturra,1
+Borja Bast\u00f3n,Alberto L\u00f3pez,1

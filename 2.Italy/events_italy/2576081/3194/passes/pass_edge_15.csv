@@ -1,0 +1,38 @@
+Source,Target,Weight
+D. Verde,M. Fares,3
+M. Fares,D. Verde,3
+M. Fossati,B. Zuculini,3
+B. Zuculini,T. Heurtaux,3
+M. C\u00e1ceres,B. Zuculini,2
+M. Fossati,D. Verde,2
+D. Verde,T. Heurtaux,2
+T. Heurtaux,B. Zuculini,2
+B. Zuculini,M. C\u00e1ceres,2
+T. Heurtaux,M. C\u00e1ceres,2
+M. Fares,A. Caracciolo,2
+M. C\u00e1ceres,M. Fares,2
+T. Heurtaux,D. Verde,2
+B. Zuculini,M. Fossati,2
+M. Fares,M. Fossati,1
+G. Pazzini,M. Fares,1
+M. Fares,Lee Seung-Woo,1
+D. Verde,G. Pazzini,1
+G. Pazzini,Nicolas,1
+T. Heurtaux,G. Pazzini,1
+M. Fares,M. C\u00e1ceres,1
+Lee Seung-Woo,M. Fares,1
+T. Heurtaux,M. Fares,1
+A. Caracciolo,B. Zuculini,1
+M. Fares,T. Heurtaux,1
+B. Zuculini,A. Caracciolo,1
+M. C\u00e1ceres,Nicolas,1
+M. Fares,Nicolas,1
+A. Caracciolo,T. Heurtaux,1
+Nicolas,M. Fossati,1
+Nicolas,M. Fares,1
+Nicolas,T. Heurtaux,1
+D. Verde,M. Fossati,1
+D. Verde,A. Caracciolo,1
+B. Zuculini,D. Verde,1
+A. Caracciolo,D. Verde,1
+D. Verde,B. Zuculini,1

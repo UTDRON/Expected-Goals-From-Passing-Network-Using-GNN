@@ -1,0 +1,50 @@
+Source,Target,Weight
+Ra\u00fal Garc\u00eda,A. Szymanowski,3
+D. Siovas,Cu\u00e9llar,3
+Rub\u00e9n P\u00e9rez,Gabriel,3
+Eraso,Ra\u00fal Garc\u00eda,3
+Gabriel,Eraso,2
+C. Beauvue,Eraso,2
+M. Dos Santos,Rub\u00e9n P\u00e9rez,2
+Eraso,Gabriel,2
+C. Beauvue,Ra\u00fal Garc\u00eda,2
+Ra\u00fal Garc\u00eda,Gabriel,2
+M. Dos Santos,D. Siovas,2
+A. Szymanowski,M. Dos Santos,2
+Cu\u00e9llar,C. Beauvue,2
+A. Szymanowski,Ra\u00fal Garc\u00eda,2
+M. Dos Santos,Eraso,2
+A. Szymanowski,C. Beauvue,2
+Eraso,Rub\u00e9n P\u00e9rez,1
+Cu\u00e9llar,Gabriel,1
+Ra\u00fal Garc\u00eda,M. Dos Santos,1
+C. Beauvue,Cu\u00e9llar,1
+Gabriel,N. Amrabat,1
+D. Bra\u0161anac,C. Beauvue,1
+Gabriel,D. Bra\u0161anac,1
+Cu\u00e9llar,Ra\u00fal Garc\u00eda,1
+Rub\u00e9n P\u00e9rez,D. Bra\u0161anac,1
+Rub\u00e9n P\u00e9rez,A. Szymanowski,1
+Eraso,N. El Zhar,1
+Ra\u00fal Garc\u00eda,D. Siovas,1
+C. Beauvue,A. Szymanowski,1
+Zald\u00faa,C. Beauvue,1
+Gabriel,A. Szymanowski,1
+D. Siovas,Rub\u00e9n P\u00e9rez,1
+N. El Zhar,Ra\u00fal Garc\u00eda,1
+Rub\u00e9n P\u00e9rez,D. Siovas,1
+Rub\u00e9n P\u00e9rez,C. Beauvue,1
+D. Bra\u0161anac,Zald\u00faa,1
+Gabriel,Rub\u00e9n P\u00e9rez,1
+Gabriel,M. Dos Santos,1
+Ra\u00fal Garc\u00eda,Rub\u00e9n P\u00e9rez,1
+D. Siovas,D. Bra\u0161anac,1
+Ra\u00fal Garc\u00eda,Eraso,1
+C. Beauvue,D. Siovas,1
+Rub\u00e9n P\u00e9rez,M. Dos Santos,1
+A. Szymanowski,Rub\u00e9n P\u00e9rez,1
+Ra\u00fal Garc\u00eda,C. Beauvue,1
+N. Amrabat,Zald\u00faa,1
+C. Beauvue,Rub\u00e9n P\u00e9rez,1
+D. Bra\u0161anac,Ra\u00fal Garc\u00eda,1
+Zald\u00faa,A. Szymanowski,1

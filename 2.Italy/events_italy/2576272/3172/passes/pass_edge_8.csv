@@ -1,0 +1,25 @@
+Source,Target,Weight
+R. Gosens,A. G\u00f3mez,3
+B. Cristante,M. de Roon,2
+Rafael Tol\u00f3i,B. Cristante,2
+B. Cristante,R. Freuler,2
+R. Freuler,R. Gosens,2
+A. G\u00f3mez,M. Barrow,2
+A. G\u00f3mez,R. Gosens,2
+A. Masiello,H. Hateboer,1
+R. Gosens,R. Freuler,1
+Rafael Tol\u00f3i,M. Barrow,1
+A. Masiello,A. G\u00f3mez,1
+M. de Roon,Rafael Tol\u00f3i,1
+M. de Roon,H. Hateboer,1
+H. Hateboer,M. de Roon,1
+H. Hateboer,B. Cristante,1
+M. Barrow,A. Masiello,1
+A. G\u00f3mez,A. Masiello,1
+M. Barrow,H. Hateboer,1
+A. Masiello,M. de Roon,1
+M. de Roon,R. Freuler,1
+H. Hateboer,Rafael Tol\u00f3i,1
+M. de Roon,B. Cristante,1
+R. Freuler,A. Masiello,1
+R. Freuler,A. G\u00f3mez,1

@@ -1,0 +1,19 @@
+Source,Target,Weight
+Coke,J. Lerma,2
+J. Lerma,Coke,2
+E. Cabaco,Ivi,1
+E. Cabaco,Oier,1
+Ivi,E. Cabaco,1
+Luna,Ivi,1
+Campa\u00f1a,Luna,1
+Ivi,Coke,1
+Ivi,Luna,1
+Oier,Coke,1
+Coke,Jason,1
+E. Cabaco,J. Lerma,1
+Coke,E. Cabaco,1
+Ivi,Campa\u00f1a,1
+Jason,Campa\u00f1a,1
+Campa\u00f1a,Ivi,1
+Luna,E. Cabaco,1
+J. Lerma,Ivi,1

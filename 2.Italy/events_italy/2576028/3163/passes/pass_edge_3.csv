@@ -1,0 +1,25 @@
+Source,Target,Weight
+A. Bar\u00e1k,R. de Paul,2
+Maxi L\u00f3pez,K. Lasagna,2
+Samir,J. Jankto,2
+J. Jankto,Samir,1
+K. Lasagna,B. Nuytinck,1
+Samir,Maxi L\u00f3pez,1
+A. Bizzarri,Samir,1
+R. de Paul,Samir,1
+G. Angella,Maxi L\u00f3pez,1
+R. de Paul,A. Bar\u00e1k,1
+Samir,R. de Paul,1
+J. Jankto,K. Lasagna,1
+B. Nuytinck,Samir,1
+A. Bar\u00e1k,J. Stryger Larsen,1
+K. Lasagna,R. de Paul,1
+K. Lasagna,J. Jankto,1
+R. de Paul,V. Behrami,1
+V. Behrami,G. Angella,1
+J. Stryger Larsen,G. Angella,1
+G. Angella,V. Behrami,1
+J. Jankto,Maxi L\u00f3pez,1
+V. Behrami,A. Bar\u00e1k,1
+G. Angella,A. Bizzarri,1
+Maxi L\u00f3pez,A. Bar\u00e1k,1

@@ -1,0 +1,17 @@
+Source,Target,Weight
+F. Pisacane,Jo\u00e3o Pedro,2
+M. Sau,M. Capuano,1
+M. Andreolli,L. Pavoletti,1
+M. Capuano,F. Pisacane,1
+L. Cigarini,N. Barella,1
+Jo\u00e3o Pedro,N. Barella,1
+L. Pavoletti,L. Cigarini,1
+M. Andreolli,M. Sau,1
+Jo\u00e3o Pedro,L. Cigarini,1
+L. Cigarini,M. Andreolli,1
+M. Capuano,M. Sau,1
+S. Padoin,L. Pavoletti,1
+N. Barella,M. Capuano,1
+M. Sau,F. Pisacane,1
+F. Pisacane,M. Andreolli,1
+N. Barella,S. Padoin,1

@@ -1,0 +1,33 @@
+Source,Target,Weight
+D. Cataldi,A. To\u0219ca,2
+A. To\u0219ca,F. \u0110uri\u010di\u0107,2
+B. Djimsiti,C. Puggioni,2
+Guilherme,B. Sagna,2
+A. To\u0219ca,D. Cataldi,2
+C. Puggioni,A. To\u0219ca,2
+A. To\u0219ca,C. Puggioni,2
+B. Djimsiti,A. To\u0219ca,1
+C. Puggioni,L. Venuti,1
+F. \u0110uri\u010di\u0107,B. Djimsiti,1
+L. Del Pinto,F. \u0110uri\u010di\u0107,1
+L. Venuti,M. Coda,1
+L. Venuti,F. \u0110uri\u010di\u0107,1
+D. Cataldi,L. Del Pinto,1
+B. Sagna,M. Coda,1
+B. Sagna,B. Djimsiti,1
+F. \u0110uri\u010di\u0107,D. Cataldi,1
+M. Coda,A. To\u0219ca,1
+C. Lombardi,B. Djimsiti,1
+A. To\u0219ca,L. Venuti,1
+M. Coda,C. Lombardi,1
+B. Djimsiti,Guilherme,1
+C. Puggioni,B. Djimsiti,1
+B. Djimsiti,L. Venuti,1
+A. To\u0219ca,M. Coda,1
+L. Venuti,L. Del Pinto,1
+M. Coda,Guilherme,1
+L. Del Pinto,B. Djimsiti,1
+L. Venuti,B. Djimsiti,1
+F. \u0110uri\u010di\u0107,A. To\u0219ca,1
+B. Djimsiti,B. Sagna,1
+B. Sagna,A. To\u0219ca,1

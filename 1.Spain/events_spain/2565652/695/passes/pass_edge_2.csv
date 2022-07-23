@@ -1,0 +1,76 @@
+Source,Target,Weight
+Sergio Postigo,Campa\u00f1a,7
+J. Lerma,Sergio Postigo,5
+Pedro L\u00f3pez,Campa\u00f1a,4
+Campa\u00f1a,Pedro L\u00f3pez,4
+Campa\u00f1a,Jason,3
+E. \u00dcnal,J. Lerma,3
+E. \u00dcnal,Jos\u00e9 Luis Morales,3
+To\u00f1o,J. Lerma,3
+To\u00f1o,Campa\u00f1a,3
+Pedro L\u00f3pez,Sergio Postigo,3
+Jason,Campa\u00f1a,3
+Campa\u00f1a,Sergio Postigo,3
+Ra\u00fal Fern\u00e1ndez,E. \u00dcnal,3
+E. \u00dcnal,E. Bardhi,3
+Jason,Pedro L\u00f3pez,3
+Chema,Ra\u00fal Fern\u00e1ndez,3
+Jos\u00e9 Luis Morales,Campa\u00f1a,2
+Campa\u00f1a,Jos\u00e9 Luis Morales,2
+Campa\u00f1a,J. Lerma,2
+Jos\u00e9 Luis Morales,E. \u00dcnal,2
+Ivi,Pedro L\u00f3pez,2
+Ra\u00fal Fern\u00e1ndez,Sergio Postigo,2
+Campa\u00f1a,E. Bardhi,2
+Sergio Postigo,To\u00f1o,2
+J. Lerma,Ra\u00fal Fern\u00e1ndez,2
+Campa\u00f1a,To\u00f1o,2
+Pedro L\u00f3pez,Jason,2
+Jos\u00e9 Luis Morales,Ivi,2
+E. Bardhi,Jos\u00e9 Luis Morales,2
+E. Bardhi,E. \u00dcnal,2
+Sergio Postigo,Ra\u00fal Fern\u00e1ndez,2
+Chema,Sergio Postigo,1
+E. \u00dcnal,Sergio Postigo,1
+Pedro L\u00f3pez,E. Bardhi,1
+Jos\u00e9 Luis Morales,Chema,1
+J. Lerma,Campa\u00f1a,1
+Campa\u00f1a,Chema,1
+Campa\u00f1a,E. \u00dcnal,1
+Pedro L\u00f3pez,Chema,1
+J. Lerma,Chema,1
+Ra\u00fal Fern\u00e1ndez,To\u00f1o,1
+Ivi,J. Lerma,1
+Sergio Postigo,E. \u00dcnal,1
+E. Bardhi,Pedro L\u00f3pez,1
+Ra\u00fal Fern\u00e1ndez,Campa\u00f1a,1
+Ra\u00fal Fern\u00e1ndez,Chema,1
+Pedro L\u00f3pez,To\u00f1o,1
+Sergio Postigo,J. Lerma,1
+E. \u00dcnal,Pedro L\u00f3pez,1
+Sergio Postigo,E. Bardhi,1
+To\u00f1o,Jason,1
+Sergio Postigo,Pedro L\u00f3pez,1
+E. Bardhi,Sergio Postigo,1
+Campa\u00f1a,Ra\u00fal Fern\u00e1ndez,1
+E. \u00dcnal,Chema,1
+Chema,To\u00f1o,1
+J. Lerma,Jason,1
+Jason,J. Lerma,1
+E. Bardhi,Chema,1
+Ivi,Sergio Postigo,1
+Chema,J. Lerma,1
+Pedro L\u00f3pez,E. \u00dcnal,1
+Sergio Postigo,Jason,1
+E. Bardhi,Ivi,1
+Jason,E. \u00dcnal,1
+E. \u00dcnal,To\u00f1o,1
+Chema,E. Bardhi,1
+E. \u00dcnal,Campa\u00f1a,1
+To\u00f1o,Chema,1
+To\u00f1o,E. \u00dcnal,1
+J. Lerma,E. \u00dcnal,1
+J. Lerma,To\u00f1o,1
+Sergio Postigo,Jos\u00e9 Luis Morales,1
+Chema,E. \u00dcnal,1
+Campa\u00f1a,Ivi,1

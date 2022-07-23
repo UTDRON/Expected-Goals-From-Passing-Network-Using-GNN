@@ -1,0 +1,35 @@
+Source,Target,Weight
+E. Brignola,B. Sagna,3
+B. Sagna,G. Letizia,3
+N. Viola,B. Djimsiti,3
+B. Sagna,Sandro,3
+B. Djimsiti,A. To\u0219ca,2
+V. Parigini,N. Viola,2
+C. Diabat\u00e9,E. Brignola,2
+Sandro,B. Sagna,2
+Sandro,G. Letizia,2
+B. Djimsiti,B. Sagna,2
+G. Letizia,E. Brignola,2
+Sandro,N. Viola,2
+E. Brignola,B. Djimsiti,2
+E. Brignola,D. Cataldi,1
+B. Sagna,E. Brignola,1
+N. Viola,Sandro,1
+B. Sagna,B. Djimsiti,1
+V. Parigini,Sandro,1
+Sandro,E. Brignola,1
+G. Letizia,C. Diabat\u00e9,1
+D. Cataldi,E. Brignola,1
+E. Brignola,A. To\u0219ca,1
+N. Viola,C. Diabat\u00e9,1
+A. To\u0219ca,D. Cataldi,1
+B. Djimsiti,V. Parigini,1
+G. Letizia,N. Viola,1
+B. Djimsiti,Sandro,1
+D. Cataldi,C. Diabat\u00e9,1
+G. Letizia,Sandro,1
+A. To\u0219ca,V. Parigini,1
+C. Diabat\u00e9,B. Djimsiti,1
+A. To\u0219ca,C. Diabat\u00e9,1
+G. Letizia,B. Sagna,1
+C. Diabat\u00e9,V. Parigini,1

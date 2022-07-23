@@ -1,0 +1,57 @@
+Source,Target,Weight
+S. Fofana,J. Jankto,5
+Samir,Danilo,5
+J. Jankto,Samir,4
+S. Fofana,A. Bar\u00e1k,4
+J. Jankto,S. Fofana,3
+S. Widmer,Ali Adnan,3
+Danilo,Samir,3
+Ali Adnan,J. Jankto,3
+Danilo,S. Fofana,2
+Danilo,B. Nuytinck,2
+A. Bar\u00e1k,S. Fofana,2
+Samir,S. Fofana,2
+Samir,Ali Adnan,2
+S. Perica,A. Bar\u00e1k,2
+A. Bar\u00e1k,Samir,2
+A. Bar\u00e1k,J. Jankto,2
+Samir,J. Jankto,2
+S. Fofana,Danilo,2
+Ali Adnan,S. Widmer,2
+A. Bizzarri,A. Bar\u00e1k,2
+S. Perica,S. Fofana,2
+S. Fofana,Samir,2
+J. Jankto,Danilo,2
+J. Jankto,S. Perica,2
+A. Bar\u00e1k,S. Widmer,2
+B. Nuytinck,Ali Adnan,1
+S. Perica,A. Bizzarri,1
+B. Nuytinck,S. Fofana,1
+A. Bar\u00e1k,K. Lasagna,1
+S. Widmer,K. Lasagna,1
+B. Nuytinck,A. Bizzarri,1
+Danilo,Ali Adnan,1
+Ali Adnan,B. Nuytinck,1
+S. Widmer,J. Jankto,1
+S. Widmer,B. Nuytinck,1
+Ali Adnan,S. Perica,1
+A. Bar\u00e1k,S. Perica,1
+A. Bizzarri,S. Perica,1
+B. Nuytinck,K. Lasagna,1
+B. Nuytinck,S. Perica,1
+J. Jankto,Ali Adnan,1
+S. Widmer,S. Perica,1
+K. Lasagna,A. Bizzarri,1
+B. Nuytinck,S. Widmer,1
+K. Lasagna,S. Widmer,1
+J. Jankto,B. Nuytinck,1
+S. Perica,S. Widmer,1
+K. Lasagna,A. Bar\u00e1k,1
+Samir,B. Nuytinck,1
+S. Perica,Samir,1
+K. Lasagna,S. Fofana,1
+Danilo,S. Perica,1
+Ali Adnan,K. Lasagna,1
+Danilo,J. Jankto,1
+S. Perica,Danilo,1
+S. Widmer,A. Bar\u00e1k,1

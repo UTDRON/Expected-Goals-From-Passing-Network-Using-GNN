@@ -1,0 +1,71 @@
+Source,Target,Weight
+Arbilla,Joan Jord\u00e1n,5
+Arbilla,David Junc\u00e0,5
+Joan Jord\u00e1n,Arbilla,5
+Ramis,Arbilla,4
+Ander Capa,Ramis,4
+Arbilla,Ramis,4
+David Junc\u00e0,Arbilla,4
+Ander Capa,Kike Garc\u00eda,3
+Joan Jord\u00e1n,Kike Garc\u00eda,3
+Ramis,Ander Capa,3
+Dani Garc\u00eda,Ander Capa,3
+Ander Capa,Paulo Oliveira,3
+Kike Garc\u00eda,Joan Jord\u00e1n,3
+Joan Jord\u00e1n,David Junc\u00e0,3
+David Junc\u00e0,Joan Jord\u00e1n,3
+Paulo Oliveira,Ander Capa,3
+Joan Jord\u00e1n,Ander Capa,2
+Ramis,Paulo Oliveira,2
+M. Dmitrovi\u0107,Sergi Enrich,2
+Ramis,Joan Jord\u00e1n,2
+M. Dmitrovi\u0107,Arbilla,2
+Joan Jord\u00e1n,G. Escalante,2
+Ander Capa,Dani Garc\u00eda,2
+G. Escalante,Paulo Oliveira,2
+Joan Jord\u00e1n,Dani Garc\u00eda,2
+Paulo Oliveira,G. Escalante,2
+Paulo Oliveira,Arbilla,2
+Dani Garc\u00eda,M. Dmitrovi\u0107,2
+G. Escalante,M. Dmitrovi\u0107,2
+Paulo Oliveira,Dani Garc\u00eda,2
+Paulo Oliveira,Ramis,2
+M. Dmitrovi\u0107,David Junc\u00e0,1
+Dani Garc\u00eda,Arbilla,1
+Kike Garc\u00eda,Paulo Oliveira,1
+G. Escalante,Ramis,1
+Kike Garc\u00eda,Ramis,1
+Dani Garc\u00eda,Joan Jord\u00e1n,1
+M. Dmitrovi\u0107,Paulo Oliveira,1
+Joan Jord\u00e1n,M. Dmitrovi\u0107,1
+Sergi Enrich,Ramis,1
+Arbilla,Ander Capa,1
+Kike Garc\u00eda,Ander Capa,1
+Arbilla,M. Dmitrovi\u0107,1
+Ramis,Dani Garc\u00eda,1
+Arbilla,G. Escalante,1
+Paulo Oliveira,Kike Garc\u00eda,1
+Dani Garc\u00eda,Kike Garc\u00eda,1
+M. Dmitrovi\u0107,Ander Capa,1
+David Junc\u00e0,Paulo Oliveira,1
+Arbilla,Sergi Enrich,1
+M. Dmitrovi\u0107,Joan Jord\u00e1n,1
+Sergi Enrich,Paulo Oliveira,1
+Ander Capa,M. Dmitrovi\u0107,1
+Paulo Oliveira,M. Dmitrovi\u0107,1
+Ander Capa,Joan Jord\u00e1n,1
+Ander Capa,Arbilla,1
+Sergi Enrich,Joan Jord\u00e1n,1
+Dani Garc\u00eda,Sergi Enrich,1
+G. Escalante,Joan Jord\u00e1n,1
+Joan Jord\u00e1n,Paulo Oliveira,1
+G. Escalante,Ander Capa,1
+Sergi Enrich,Dani Garc\u00eda,1
+David Junc\u00e0,Sergi Enrich,1
+Kike Garc\u00eda,G. Escalante,1
+G. Escalante,Dani Garc\u00eda,1
+Sergi Enrich,G. Escalante,1
+Kike Garc\u00eda,Sergi Enrich,1
+Arbilla,Paulo Oliveira,1
+Sergi Enrich,Kike Garc\u00eda,1
+Ramis,G. Escalante,1

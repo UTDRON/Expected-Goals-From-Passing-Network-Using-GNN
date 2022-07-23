@@ -1,0 +1,54 @@
+Source,Target,Weight
+Mario,\u00c1lvaro Gonz\u00e1lez,4
+Mario,N. Sansone,3
+N. Sansone,Mario,3
+Pau Torres,\u00c1lvaro Gonz\u00e1lez,3
+N. Sansone,Jaume Costa,3
+Jaume Costa,N. Sansone,3
+\u00c1lvaro Gonz\u00e1lez,C. Bakambu,2
+Mario,Pau Torres,2
+Pablo Fornals,R. Guerra,2
+Jaume Costa,Pablo Fornals,2
+Pablo Fornals,Mario,2
+N. Sansone,C. Bacca,2
+\u00c1lvaro Gonz\u00e1lez,Pablo Fornals,2
+R. Guerra,Pablo Fornals,2
+Trigueros,N. Sansone,2
+\u00c1lvaro Gonz\u00e1lez,Pau Torres,2
+M. Barbosa,Mario,2
+C. Bakambu,Jaume Costa,2
+\u00c1lvaro Gonz\u00e1lez,Jaume Costa,2
+Jaume Costa,\u00c1lvaro Gonz\u00e1lez,2
+Pau Torres,N. Sansone,2
+C. Bacca,Mario,1
+N. Sansone,R. Guerra,1
+N. Sansone,\u00c1lvaro Gonz\u00e1lez,1
+V\u00edctor Ru\u00edz,C. Bakambu,1
+Pablo Fornals,M. Barbosa,1
+Trigueros,\u00c1lvaro Gonz\u00e1lez,1
+\u00c1lvaro Gonz\u00e1lez,R. Guerra,1
+Trigueros,V\u00edctor Ru\u00edz,1
+\u00c1lvaro Gonz\u00e1lez,M. Barbosa,1
+Pau Torres,Mario,1
+Pablo Fornals,Trigueros,1
+Mario,R. Guerra,1
+Pablo Fornals,N. Sansone,1
+Pablo Fornals,Jaume Costa,1
+\u00c1lvaro Gonz\u00e1lez,Mario,1
+R. Guerra,Jaume Costa,1
+N. Sansone,Pau Torres,1
+Mario,Jaume Costa,1
+Jaume Costa,Pau Torres,1
+R. Guerra,Pau Torres,1
+C. Bacca,C. Bakambu,1
+C. Bacca,Pablo Fornals,1
+C. Bakambu,C. Bacca,1
+M. Barbosa,Pablo Fornals,1
+R. Guerra,M. Barbosa,1
+C. Bacca,N. Sansone,1
+C. Bakambu,Trigueros,1
+Pau Torres,Jaume Costa,1
+N. Sansone,Trigueros,1
+Jaume Costa,C. Bakambu,1
+Jaume Costa,Mario,1
+Jaume Costa,C. Bacca,1

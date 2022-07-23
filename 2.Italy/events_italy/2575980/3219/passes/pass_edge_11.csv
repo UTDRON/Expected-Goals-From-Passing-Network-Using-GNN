@@ -1,0 +1,23 @@
+Source,Target,Weight
+M. D'Alessandro,L. Venuti,2
+G. Letizia,P. Iemmello,2
+D. Cataldi,A. Ciciretti,2
+A. Ciciretti,F. Lucioni,1
+L. Venuti,D. Cataldi,1
+M. Coda,M. D'Alessandro,1
+D. Cataldi,G. Letizia,1
+P. Iemmello,M. Coda,1
+P. Iemmello,M. D'Alessandro,1
+L. Memushaj,F. Lucioni,1
+F. Lucioni,G. Letizia,1
+G. Letizia,A. Lazaar,1
+F. Lucioni,A. Lazaar,1
+L. Venuti,M. D'Alessandro,1
+M. D'Alessandro,G. Letizia,1
+A. Lazaar,P. Iemmello,1
+G. Letizia,M. D'Alessandro,1
+A. Lazaar,D. Cataldi,1
+P. Iemmello,G. Letizia,1
+M. D'Alessandro,D. Cataldi,1
+A. Ciciretti,D. Cataldi,1
+D. Cataldi,L. Memushaj,1

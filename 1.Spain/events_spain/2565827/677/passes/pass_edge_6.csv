@@ -1,0 +1,82 @@
+Source,Target,Weight
+Pedro Mosquera,C. Borges,7
+Z. Bakkali,Pedro Mosquera,5
+Pedro Mosquera,Sidnei,4
+Fernando Navarro,Sidnei,4
+C. Borges,Pedro Mosquera,4
+C. Borges,Lucas P\u00e9rez,4
+Fernando Navarro,Z. Bakkali,3
+C. Borges,Adri\u00e1n L\u00f3pez,3
+Pedro Mosquera,Fernando Navarro,3
+Adri\u00e1n L\u00f3pez,C. Borges,2
+F. Andone,Pedro Mosquera,2
+C. Borges,B\u00f3veda,2
+Sidnei,Fernando Navarro,2
+F. Andone,Fernando Navarro,2
+Adri\u00e1n L\u00f3pez,B\u00f3veda,2
+Pedro Mosquera,Z. Bakkali,2
+B\u00f3veda,C. Borges,2
+Juanfran,Rub\u00e9n,2
+Pedro Mosquera,S. Muntari,2
+Adri\u00e1n L\u00f3pez,Lucas P\u00e9rez,2
+Lucas P\u00e9rez,Juanfran,2
+Rub\u00e9n,Fernando Navarro,2
+Lucas P\u00e9rez,Pedro Mosquera,2
+Pedro Mosquera,Juanfran,2
+Sidnei,Juanfran,2
+F. Andone,Z. Bakkali,2
+Lucas P\u00e9rez,F. Andone,2
+Sidnei,C. Borges,2
+Fernando Navarro,Pedro Mosquera,2
+Juanfran,Pedro Mosquera,2
+Adri\u00e1n L\u00f3pez,F. Andone,2
+Juanfran,C. Borges,2
+C. Borges,Albentosa,2
+B\u00f3veda,S. Muntari,2
+S. Muntari,Albentosa,2
+Z. Bakkali,F. Andone,2
+Fernando Navarro,F. Andone,2
+F. Andone,Albentosa,1
+Adri\u00e1n L\u00f3pez,Fernando Navarro,1
+Adri\u00e1n L\u00f3pez,Pedro Mosquera,1
+Adri\u00e1n L\u00f3pez,Juanfran,1
+Pedro Mosquera,Adri\u00e1n L\u00f3pez,1
+C. Borges,Sidnei,1
+C. Borges,Juanfran,1
+Z. Bakkali,C. Borges,1
+Albentosa,Juanfran,1
+Pedro Mosquera,F. Andone,1
+Juanfran,Lucas P\u00e9rez,1
+Z. Bakkali,Adri\u00e1n L\u00f3pez,1
+S. Muntari,B\u00f3veda,1
+Lucas P\u00e9rez,C. Borges,1
+Rub\u00e9n,C. Borges,1
+F. Andone,Adri\u00e1n L\u00f3pez,1
+C. Borges,Fernando Navarro,1
+Albentosa,Fernando Navarro,1
+Sidnei,Z. Bakkali,1
+Z. Bakkali,Lucas P\u00e9rez,1
+Juanfran,F. Andone,1
+Fernando Navarro,Lucas P\u00e9rez,1
+Albentosa,B\u00f3veda,1
+Fernando Navarro,S. Muntari,1
+Albentosa,Z. Bakkali,1
+Lucas P\u00e9rez,Fernando Navarro,1
+Fernando Navarro,Adri\u00e1n L\u00f3pez,1
+Juanfran,Albentosa,1
+S. Muntari,Pedro Mosquera,1
+B\u00f3veda,Fernando Navarro,1
+Juanfran,Adri\u00e1n L\u00f3pez,1
+Albentosa,Pedro Mosquera,1
+B\u00f3veda,Pedro Mosquera,1
+Albentosa,Rub\u00e9n,1
+Rub\u00e9n,Pedro Mosquera,1
+S. Muntari,Adri\u00e1n L\u00f3pez,1
+B\u00f3veda,Adri\u00e1n L\u00f3pez,1
+F. Andone,Juanfran,1
+C. Borges,Z. Bakkali,1
+Lucas P\u00e9rez,Adri\u00e1n L\u00f3pez,1
+Lucas P\u00e9rez,B\u00f3veda,1
+F. Andone,Lucas P\u00e9rez,1
+Sidnei,Adri\u00e1n L\u00f3pez,1
+Sidnei,Rub\u00e9n,1

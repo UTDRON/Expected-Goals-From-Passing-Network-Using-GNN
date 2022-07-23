@@ -1,0 +1,21 @@
+Source,Target,Weight
+B. Bereszy\u0144ski,D. Zapata,2
+L. Capezzi,J. Andersen,2
+V. Verre,B. Bereszy\u0144ski,2
+D. Zapata,L. Capezzi,1
+D. Zapata,B. Bereszy\u0144ski,1
+G. Ferrari,V. Verre,1
+G. Ferrari,L. Capezzi,1
+J. Andersen,G. Ferrari,1
+G. Ram\u00edrez,B. Bereszy\u0144ski,1
+D. Praet,V. Verre,1
+B. Bereszy\u0144ski,V. Verre,1
+V. Verre,D. Praet,1
+V. Verre,D. Zapata,1
+D. Zapata,V. Verre,1
+L. Capezzi,G. Ram\u00edrez,1
+D. Praet,G. Ram\u00edrez,1
+D. Praet,L. Capezzi,1
+B. Bereszy\u0144ski,L. Capezzi,1
+G. Ram\u00edrez,G. Ferrari,1
+L. Capezzi,D. Praet,1

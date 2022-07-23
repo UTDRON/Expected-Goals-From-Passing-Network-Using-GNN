@@ -1,0 +1,73 @@
+Source,Target,Weight
+M. Vecino,Eder,5
+Jo\u00e3o Cancelo,M. Vecino,5
+A. Ranocchia,A. Candreva,5
+M. Vecino,Jo\u00e3o Cancelo,4
+A. Candreva,R. Gagliardini,4
+R. Gagliardini,M. Vecino,4
+R. Gagliardini,A. Candreva,4
+Y. Karamoh,Jo\u00e3o Cancelo,3
+D. D'Ambrosio,A. Candreva,3
+A. Candreva,Jo\u00e3o Cancelo,3
+A. Candreva,M. Brozovi\u0107,3
+A. Candreva,M. Vecino,3
+M. \u0160kriniar,Jo\u00e3o Cancelo,3
+A. Ranocchia,D. D'Ambrosio,3
+Jo\u00e3o Cancelo,Y. Karamoh,3
+M. Vecino,R. Gagliardini,2
+R. Gagliardini,I. Peri\u0161i\u0107,2
+A. Candreva,I. Peri\u0161i\u0107,2
+I. Peri\u0161i\u0107,Eder,2
+M. Brozovi\u0107,Jo\u00e3o Cancelo,2
+Eder,R. Gagliardini,2
+Eder,Y. Karamoh,2
+I. Peri\u0161i\u0107,A. Candreva,2
+M. \u0160kriniar,A. Ranocchia,2
+Jo\u00e3o Cancelo,I. Peri\u0161i\u0107,2
+Jo\u00e3o Cancelo,A. Candreva,2
+I. Peri\u0161i\u0107,R. Gagliardini,2
+Y. Karamoh,R. Gagliardini,2
+M. \u0160kriniar,R. Gagliardini,2
+M. Vecino,M. \u0160kriniar,2
+D. D'Ambrosio,A. Ranocchia,2
+A. Ranocchia,M. \u0160kriniar,2
+Y. Karamoh,M. Brozovi\u0107,1
+I. Peri\u0161i\u0107,M. Vecino,1
+A. Candreva,Y. Karamoh,1
+S. Handanovi\u010d,A. Ranocchia,1
+M. \u0160kriniar,M. Vecino,1
+Eder,M. Vecino,1
+Eder,I. Peri\u0161i\u0107,1
+Y. Karamoh,D. D'Ambrosio,1
+M. \u0160kriniar,A. Candreva,1
+Eder,A. Ranocchia,1
+R. Gagliardini,M. \u0160kriniar,1
+R. Gagliardini,Y. Karamoh,1
+A. Ranocchia,R. Gagliardini,1
+I. Peri\u0161i\u0107,Y. Karamoh,1
+Eder,M. \u0160kriniar,1
+D. D'Ambrosio,M. Vecino,1
+D. D'Ambrosio,I. Peri\u0161i\u0107,1
+A. Candreva,M. \u0160kriniar,1
+Jo\u00e3o Cancelo,M. \u0160kriniar,1
+M. \u0160kriniar,Y. Karamoh,1
+Jo\u00e3o Cancelo,A. Ranocchia,1
+M. Brozovi\u0107,D. D'Ambrosio,1
+Eder,S. Handanovi\u010d,1
+M. Brozovi\u0107,A. Ranocchia,1
+R. Gagliardini,A. Ranocchia,1
+M. Vecino,A. Candreva,1
+A. Candreva,D. D'Ambrosio,1
+M. Vecino,D. D'Ambrosio,1
+R. Gagliardini,Eder,1
+M. Brozovi\u0107,M. Vecino,1
+Eder,M. Brozovi\u0107,1
+M. Vecino,I. Peri\u0161i\u0107,1
+I. Peri\u0161i\u0107,M. \u0160kriniar,1
+Jo\u00e3o Cancelo,Eder,1
+Y. Karamoh,A. Candreva,1
+M. Vecino,Y. Karamoh,1
+M. Vecino,A. Ranocchia,1
+Y. Karamoh,M. \u0160kriniar,1
+A. Candreva,A. Ranocchia,1
+Y. Karamoh,M. Vecino,1

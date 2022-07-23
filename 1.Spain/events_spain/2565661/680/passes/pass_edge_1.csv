@@ -1,0 +1,20 @@
+Source,Target,Weight
+Nolito,C. Lenglet,2
+C. Lenglet,David Soria,1
+G. Pizarro,Sergio Escudero,1
+Pablo Sarabia,S. N'Zonzi,1
+S. Corchia,Pablo Sarabia,1
+F. V\u00e1zquez,S. N'Zonzi,1
+C. Lenglet,G. Pizarro,1
+David Soria,S. Corchia,1
+C. Lenglet,S. N'Zonzi,1
+S. N'Zonzi,C. Lenglet,1
+S. N'Zonzi,J. Geis,1
+J. Geis,C. Lenglet,1
+S. N'Zonzi,F. V\u00e1zquez,1
+Sergio Escudero,L. Muriel,1
+S. Corchia,S. N'Zonzi,1
+C. Lenglet,Sergio Escudero,1
+S. N'Zonzi,Nolito,1
+L. Muriel,F. V\u00e1zquez,1
+Sergio Escudero,Nolito,1

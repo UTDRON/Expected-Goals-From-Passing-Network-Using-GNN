@@ -1,0 +1,18 @@
+Source,Target,Weight
+B. Cristante,R. Orsolini,2
+H. Hateboer,A. Masiello,2
+A. Masiello,N. Haas,2
+N. Haas,H. Hateboer,2
+A. Masiello,H. Hateboer,2
+H. Hateboer,B. Cristante,2
+R. Orsolini,H. Hateboer,1
+B. Cristante,A. Masiello,1
+H. Hateboer,M. de Roon,1
+B. Cristante,M. de Roon,1
+N. Haas,B. Cristante,1
+A. Masiello,J. Palomino,1
+R. Orsolini,B. Cristante,1
+J. Palomino,T. Castagne,1
+T. Castagne,J. Kurti\u010d,1
+M. de Roon,N. Haas,1
+J. Kurti\u010d,A. Masiello,1

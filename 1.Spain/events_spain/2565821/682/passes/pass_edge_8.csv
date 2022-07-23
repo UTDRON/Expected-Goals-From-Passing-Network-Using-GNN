@@ -1,0 +1,36 @@
+Source,Target,Weight
+R. Soriano,Trigueros,5
+Trigueros,\u00c1lvaro Gonz\u00e1lez,3
+Trigueros,Rodri,3
+N. Sansone,R. Soriano,2
+Adri\u00e1n Mar\u00edn,N. Sansone,2
+Rodri,A. Rukavina,2
+Rodri,R. Soriano,2
+\u00c1lvaro Gonz\u00e1lez,N. Sansone,2
+A. Rukavina,Trigueros,1
+\u00c1lvaro Gonz\u00e1lez,Trigueros,1
+Pablo Fornals,N. Sansone,1
+Trigueros,Pablo Fornals,1
+Adri\u00e1n Mar\u00edn,\u00c1lvaro Gonz\u00e1lez,1
+A. Rukavina,R. Soriano,1
+A. Rukavina,Pablo Fornals,1
+A. Rukavina,Rodri,1
+Rodri,Pablo Fornals,1
+Trigueros,A. Rukavina,1
+R. Soriano,Rodri,1
+Pablo Fornals,R. Soriano,1
+Trigueros,Sergio Asenjo,1
+R. Soriano,Pablo Fornals,1
+Sergio Asenjo,Pablo Fornals,1
+D. Bonera,Adri\u00e1n Mar\u00edn,1
+Pablo Fornals,\u00c1lvaro Gonz\u00e1lez,1
+Pablo Fornals,C. Bacca,1
+Pablo Fornals,Rodri,1
+Pablo Fornals,Trigueros,1
+\u00c1lvaro Gonz\u00e1lez,Pablo Fornals,1
+Rodri,\u00c1lvaro Gonz\u00e1lez,1
+N. Sansone,D. Bonera,1
+N. Sansone,Adri\u00e1n Mar\u00edn,1
+\u00c1lvaro Gonz\u00e1lez,Adri\u00e1n Mar\u00edn,1
+\u00c1lvaro Gonz\u00e1lez,R. Soriano,1
+N. Sansone,Trigueros,1

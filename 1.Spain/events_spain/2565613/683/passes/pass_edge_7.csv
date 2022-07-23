@@ -1,0 +1,53 @@
+Source,Target,Weight
+P. Baysse,Juankar,6
+Juankar,P. Baysse,4
+Juankar,D. Rol\u00e1n,2
+R. Rosales,Juanpi,2
+D. Rol\u00e1n,R. Rosales,2
+Miguel Torres,Juanpi,2
+P. Baysse,Recio,2
+Miguel Torres,Adri\u00e1n,2
+D. Rol\u00e1n,P. Baysse,2
+A. Pe\u00f1aranda,Juankar,2
+Recio,Adri\u00e1n,2
+Juankar,A. Pe\u00f1aranda,2
+P. Baysse,Juanpi,2
+R. Rosales,Miguel Torres,2
+Juanpi,E. Rol\u00f3n,2
+Adri\u00e1n,Juankar,2
+Recio,Miguel Torres,1
+A. Pe\u00f1aranda,Recio,1
+Miguel Torres,R. Rosales,1
+Juanpi,Miguel Torres,1
+Adri\u00e1n,D. Rol\u00e1n,1
+P. Baysse,R. Rosales,1
+Recio,Juanpi,1
+R. Rosales,Roberto,1
+Juanpi,A. Pe\u00f1aranda,1
+Juankar,Juanpi,1
+Juankar,Recio,1
+Juanpi,D. Rol\u00e1n,1
+Juankar,Roberto,1
+A. Pe\u00f1aranda,D. Rol\u00e1n,1
+Juankar,Miguel Torres,1
+E. Rol\u00f3n,D. Rol\u00e1n,1
+Juanpi,Recio,1
+P. Baysse,Miguel Torres,1
+Juanpi,Juankar,1
+Miguel Torres,P. Baysse,1
+\u00c1lex Mula,E. Rol\u00f3n,1
+A. Pe\u00f1aranda,Juanpi,1
+Adri\u00e1n,Recio,1
+Adri\u00e1n,P. Baysse,1
+Juanpi,P. Baysse,1
+D. Rol\u00e1n,Adri\u00e1n,1
+Juanpi,\u00c1lex Mula,1
+D. Rol\u00e1n,A. Pe\u00f1aranda,1
+Juanpi,R. Rosales,1
+Roberto,A. Pe\u00f1aranda,1
+Miguel Torres,E. Rol\u00f3n,1
+E. Rol\u00f3n,Miguel Torres,1
+Roberto,P. Baysse,1
+E. Rol\u00f3n,Juanpi,1
+Recio,P. Baysse,1
+E. Rol\u00f3n,P. Baysse,1

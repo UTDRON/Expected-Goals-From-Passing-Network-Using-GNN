@@ -1,0 +1,16 @@
+Source,Target,Weight
+A. Kolarov,H. Moreno,4
+H. Moreno,D. Perotti,4
+H. Moreno,A. Kolarov,2
+D. Perotti,H. Moreno,1
+R. Nainggolan,R. Karsdorp,1
+A. Kolarov,E. D\u017eeko,1
+D. Perotti,Gerson,1
+R. Karsdorp,A. Kolarov,1
+F. Fazio,H. Moreno,1
+H. Moreno,F. Fazio,1
+D. Perotti,R. Nainggolan,1
+Gerson,A. Kolarov,1
+R. Nainggolan,M. Gonalons,1
+M. Gonalons,R. Nainggolan,1
+E. D\u017eeko,A. Kolarov,1

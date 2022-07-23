@@ -1,0 +1,37 @@
+Source,Target,Weight
+B. Nuytinck,Danilo,4
+Samir,E. Hallfre\u00f0sson,4
+B. Nuytinck,Samir,4
+Samir,B. Nuytinck,3
+E. Hallfre\u00f0sson,S. Fofana,3
+S. Fofana,A. Bar\u00e1k,3
+Danilo,B. Nuytinck,3
+A. Bar\u00e1k,Danilo,2
+S. Fofana,Samir,2
+Danilo,E. Hallfre\u00f0sson,2
+K. Lasagna,S. Fofana,2
+E. Hallfre\u00f0sson,Samir,2
+A. Bizzarri,B. Nuytinck,2
+J. Jankto,Samir,1
+Danilo,S. Fofana,1
+Danilo,J. Stryger Larsen,1
+E. Hallfre\u00f0sson,Danilo,1
+B. Nuytinck,A. Bar\u00e1k,1
+A. Bizzarri,K. Lasagna,1
+J. Stryger Larsen,B. Nuytinck,1
+Samir,K. Lasagna,1
+E. Hallfre\u00f0sson,A. Bar\u00e1k,1
+S. Fofana,A. Bizzarri,1
+A. Bar\u00e1k,E. Hallfre\u00f0sson,1
+J. Stryger Larsen,R. de Paul,1
+J. Stryger Larsen,S. Fofana,1
+Danilo,K. Lasagna,1
+B. Nuytinck,E. Hallfre\u00f0sson,1
+E. Hallfre\u00f0sson,B. Nuytinck,1
+R. de Paul,J. Stryger Larsen,1
+K. Lasagna,A. Bizzarri,1
+S. Fofana,Danilo,1
+Samir,J. Jankto,1
+R. de Paul,A. Bizzarri,1
+A. Bar\u00e1k,J. Stryger Larsen,1
+A. Bar\u00e1k,R. de Paul,1

@@ -1,0 +1,20 @@
+Source,Target,Weight
+L. Venuti,L. Memushaj,2
+L. Memushaj,L. Venuti,2
+F. Lucioni,L. Memushaj,1
+L. Del Pinto,G. Letizia,1
+L. Venuti,L. Del Pinto,1
+L. Del Pinto,L. Memushaj,1
+L. Memushaj,D. Cataldi,1
+L. Antei,A. Lazaar,1
+L. Memushaj,L. Del Pinto,1
+G. Letizia,D. Cataldi,1
+D. Cataldi,F. Lucioni,1
+A. Lazaar,M. Coda,1
+L. Del Pinto,L. Venuti,1
+L. Venuti,F. Lucioni,1
+M. Coda,G. Letizia,1
+F. Lucioni,D. Cataldi,1
+D. Cataldi,L. Del Pinto,1
+G. Letizia,A. Lazaar,1
+D. Cataldi,L. Antei,1

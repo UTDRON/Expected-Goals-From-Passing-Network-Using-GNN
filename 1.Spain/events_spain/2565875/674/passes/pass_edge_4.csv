@@ -1,0 +1,55 @@
+Source,Target,Weight
+E. Garay,Montoya,7
+Andreas Pereira,Montoya,6
+Montoya,E. Garay,4
+Montoya,Andreas Pereira,4
+Gon\u00e7alo Guedes,E. Garay,3
+Dani Parejo,Gon\u00e7alo Guedes,3
+Montoya,Dani Parejo,3
+E. Garay,N. Maksimovi\u0107,2
+E. Garay,J. Murillo,2
+Montoya,S. Zaza,2
+Andreas Pereira,E. Garay,2
+S. Zaza,J. Murillo,2
+Jos\u00e9 Gay\u00e1,Dani Parejo,2
+N. Maksimovi\u0107,L. Vietto,2
+L. Vietto,Andreas Pereira,2
+J. Murillo,E. Garay,2
+Dani Parejo,E. Garay,2
+Montoya,J. Murillo,2
+Dani Parejo,S. Zaza,2
+J. Murillo,Montoya,1
+J. Murillo,L. Vietto,1
+L. Vietto,Montoya,1
+Dani Parejo,L. Vietto,1
+S. Zaza,Montoya,1
+S. Zaza,Jaume,1
+Jaume,J. Murillo,1
+N. Maksimovi\u0107,S. Zaza,1
+Andreas Pereira,L. Vietto,1
+Gon\u00e7alo Guedes,Dani Parejo,1
+N. Maksimovi\u0107,Jos\u00e9 Gay\u00e1,1
+Gon\u00e7alo Guedes,Jos\u00e9 Gay\u00e1,1
+N. Maksimovi\u0107,Andreas Pereira,1
+Jos\u00e9 Gay\u00e1,E. Garay,1
+N. Maksimovi\u0107,Jaume,1
+S. Zaza,N. Maksimovi\u0107,1
+J. Murillo,N. Maksimovi\u0107,1
+Montoya,Gon\u00e7alo Guedes,1
+L. Vietto,Jos\u00e9 Gay\u00e1,1
+J. Murillo,Andreas Pereira,1
+Jos\u00e9 Gay\u00e1,Gon\u00e7alo Guedes,1
+Jaume,Montoya,1
+Montoya,N. Maksimovi\u0107,1
+L. Vietto,Dani Parejo,1
+S. Zaza,Dani Parejo,1
+E. Garay,L. Vietto,1
+Dani Parejo,Andreas Pereira,1
+Jaume,E. Garay,1
+E. Garay,Jaume,1
+Gon\u00e7alo Guedes,Andreas Pereira,1
+E. Garay,S. Zaza,1
+Andreas Pereira,S. Zaza,1
+L. Vietto,Gon\u00e7alo Guedes,1
+E. Garay,Dani Parejo,1
+J. Murillo,Jos\u00e9 Gay\u00e1,1

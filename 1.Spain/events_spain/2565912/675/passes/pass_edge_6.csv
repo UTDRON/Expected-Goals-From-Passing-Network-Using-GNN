@@ -1,0 +1,39 @@
+Source,Target,Weight
+A. Hakimi,Isco,4
+R. Varane,A. Hakimi,3
+L. Modri\u0107,G. Bale,2
+G. Bale,L. Modri\u0107,2
+L. Modri\u0107,T. Kroos,2
+L. Modri\u0107,Casemiro,2
+A. Hakimi,L. Modri\u0107,2
+A. Hakimi,R. Varane,2
+T. Kroos,R. Varane,2
+Nacho,T. Kroos,2
+Isco,Marcelo,2
+Casemiro,T. Kroos,2
+Isco,T. Kroos,1
+T. Kroos,A. Hakimi,1
+K. Benzema,R. Varane,1
+Casemiro,K. Benzema,1
+R. Varane,K. Navas,1
+T. Kroos,L. Modri\u0107,1
+Marcelo,Nacho,1
+K. Benzema,A. Hakimi,1
+L. Modri\u0107,A. Hakimi,1
+Isco,Casemiro,1
+G. Bale,Nacho,1
+G. Bale,A. Hakimi,1
+Isco,A. Hakimi,1
+T. Kroos,Marcelo,1
+R. Varane,Casemiro,1
+K. Navas,Nacho,1
+Isco,L. Modri\u0107,1
+Casemiro,L. Modri\u0107,1
+T. Kroos,G. Bale,1
+T. Kroos,K. Benzema,1
+Nacho,Casemiro,1
+K. Benzema,Marcelo,1
+Casemiro,G. Bale,1
+Marcelo,Isco,1
+Marcelo,K. Benzema,1
+Marcelo,G. Bale,1

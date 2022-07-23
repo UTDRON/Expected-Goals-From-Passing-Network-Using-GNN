@@ -1,0 +1,20 @@
+Source,Target,Weight
+D. Calabria,Suso,2
+R. Rodr\u00edguez,R. Montolivo,2
+R. Rodr\u00edguez,H. \u00c7alhano\u011flu,2
+Suso,D. Calabria,1
+Suso,R. Montolivo,1
+D. Calabria,R. Rodr\u00edguez,1
+F. Kessi\u00e9,D. Calabria,1
+H. \u00c7alhano\u011flu,D. Calabria,1
+H. \u00c7alhano\u011flu,R. Rodr\u00edguez,1
+D. Calabria,F. Kessi\u00e9,1
+R. Montolivo,R. Rodr\u00edguez,1
+R. Montolivo,D. Calabria,1
+R. Rodr\u00edguez,Andr\u00e9 Silva,1
+H. \u00c7alhano\u011flu,G. Donnarumma,1
+R. Montolivo,H. \u00c7alhano\u011flu,1
+Andr\u00e9 Silva,H. \u00c7alhano\u011flu,1
+G. Donnarumma,Andr\u00e9 Silva,1
+H. \u00c7alhano\u011flu,Andr\u00e9 Silva,1
+Andr\u00e9 Silva,R. Rodr\u00edguez,1

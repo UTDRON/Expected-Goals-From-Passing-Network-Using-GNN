@@ -1,0 +1,32 @@
+Source,Target,Weight
+J. Stryger Larsen,A. Bar\u00e1k,4
+J. Stryger Larsen,S. Widmer,3
+A. Bar\u00e1k,J. Stryger Larsen,3
+A. Bali\u0107,Ali Adnan,3
+S. Widmer,J. Stryger Larsen,3
+Ali Adnan,Samir,2
+V. Behrami,A. Bali\u0107,2
+V. Behrami,J. Stryger Larsen,2
+Ali Adnan,A. Bali\u0107,2
+J. Stryger Larsen,A. Bali\u0107,2
+Ali Adnan,K. Lasagna,1
+A. Bali\u0107,S. Widmer,1
+A. Bar\u00e1k,V. Behrami,1
+K. Lasagna,J. Stryger Larsen,1
+S. Widmer,Danilo,1
+A. Bar\u00e1k,Ali Adnan,1
+Danilo,A. Bizzarri,1
+A. Bali\u0107,Samir,1
+Samir,A. Bizzarri,1
+A. Bizzarri,Ali Adnan,1
+A. Bizzarri,A. Bar\u00e1k,1
+A. Bali\u0107,V. Behrami,1
+V. Behrami,A. Bar\u00e1k,1
+A. Bar\u00e1k,A. Bali\u0107,1
+Ali Adnan,J. Stryger Larsen,1
+A. Bali\u0107,A. Bar\u00e1k,1
+S. Widmer,V. Behrami,1
+J. Stryger Larsen,V. Behrami,1
+Samir,A. Bali\u0107,1
+A. Bar\u00e1k,S. Widmer,1
+Samir,Ali Adnan,1

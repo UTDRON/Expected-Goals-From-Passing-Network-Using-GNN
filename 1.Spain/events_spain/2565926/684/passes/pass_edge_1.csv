@@ -1,0 +1,59 @@
+Source,Target,Weight
+Bartra,R. Durmisi,5
+Bartra,A. Mandi,5
+A. Mandi,Bartra,5
+Jordi Amat,Bartra,5
+Jordi Amat,A. Mandi,4
+V\u00edctor Camarasa,Bartra,3
+Francis Guerrero,J. Campbell,3
+Jordi Amat,Francis Guerrero,3
+V\u00edctor Camarasa,Jordi Amat,3
+A. Mandi,Jordi Amat,3
+Pedro L\u00f3pez,A. Mandi,3
+J. Campbell,Rub\u00e9n Castro,3
+Bartra,Jordi Amat,3
+R. Durmisi,V\u00edctor Camarasa,3
+Loren Mor\u00f3n,Bartra,3
+Bartra,Pedro L\u00f3pez,3
+A. Mandi,V\u00edctor Camarasa,3
+J. Campbell,Francis Guerrero,2
+Francis Guerrero,A. Mandi,2
+Pedro L\u00f3pez,Bartra,2
+Fabi\u00e1n,R. Durmisi,2
+A. Mandi,J. Campbell,2
+Bartra,Fabi\u00e1n,2
+R. Durmisi,Pedro L\u00f3pez,2
+R. Durmisi,Bartra,2
+Fabi\u00e1n,Jordi Amat,2
+Bartra,V\u00edctor Camarasa,2
+Fabi\u00e1n,Rub\u00e9n Castro,1
+Bartra,Francis Guerrero,1
+Pedro L\u00f3pez,Fabi\u00e1n,1
+J. Campbell,Jordi Amat,1
+Francis Guerrero,Fabi\u00e1n,1
+Bartra,Loren Mor\u00f3n,1
+Pedro L\u00f3pez,Jordi Amat,1
+V\u00edctor Camarasa,A. Mandi,1
+Francis Guerrero,R. Durmisi,1
+Fabi\u00e1n,Bartra,1
+Jordi Amat,Fabi\u00e1n,1
+V\u00edctor Camarasa,Fabi\u00e1n,1
+Rub\u00e9n Castro,Jordi Amat,1
+J. Campbell,Pedro L\u00f3pez,1
+Rub\u00e9n Castro,J. Campbell,1
+A. Mandi,Fabi\u00e1n,1
+J. Campbell,Bartra,1
+Fabi\u00e1n,Francis Guerrero,1
+Francis Guerrero,Pedro L\u00f3pez,1
+Loren Mor\u00f3n,Fabi\u00e1n,1
+Rub\u00e9n Castro,Loren Mor\u00f3n,1
+Bartra,J. Campbell,1
+A. Mandi,Francis Guerrero,1
+R. Durmisi,Loren Mor\u00f3n,1
+Francis Guerrero,Bartra,1
+V\u00edctor Camarasa,Francis Guerrero,1
+V\u00edctor Camarasa,Loren Mor\u00f3n,1
+Rub\u00e9n Castro,V\u00edctor Camarasa,1
+Jordi Amat,V\u00edctor Camarasa,1
+Fabi\u00e1n,V\u00edctor Camarasa,1
+V\u00edctor Camarasa,J. Campbell,1

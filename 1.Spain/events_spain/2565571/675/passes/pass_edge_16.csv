@@ -1,0 +1,23 @@
+Source,Target,Weight
+T. Hern\u00e1ndez,Isco,3
+Isco,Marcelo,3
+Marcelo,T. Hern\u00e1ndez,2
+T. Kroos,Daniel Carvajal,2
+Isco,Sergio Ramos,2
+Sergio Ramos,T. Hern\u00e1ndez,2
+T. Kroos,Isco,1
+Marcelo,Isco,1
+Marcelo,Sergio Ramos,1
+T. Hern\u00e1ndez,Marcelo,1
+Daniel Carvajal,Isco,1
+Isco,T. Hern\u00e1ndez,1
+Marco Asensio,T. Kroos,1
+Nacho,T. Kroos,1
+Sergio Ramos,Daniel Carvajal,1
+Daniel Carvajal,Marco Asensio,1
+Isco,Nacho,1
+Daniel Carvajal,Sergio Ramos,1
+Sergio Ramos,Isco,1
+Sergio Ramos,Nacho,1
+Sergio Ramos,T. Kroos,1
+T. Hern\u00e1ndez,Sergio Ramos,1

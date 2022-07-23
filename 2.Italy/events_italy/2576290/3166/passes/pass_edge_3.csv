@@ -1,0 +1,56 @@
+Source,Target,Weight
+L. Crisetig,S. Romagnoli,4
+G. Gonz\u00e1lez,A. Poli,3
+A. Poli,L. Crisetig,3
+L. Crisetig,S. De Maio,3
+S. De Maio,A. Masina,3
+G. Gonz\u00e1lez,A. Mirante,3
+R. Palacio,A. Masina,3
+A. Mirante,S. De Maio,3
+B. D\u017eemaili,S. Romagnoli,3
+S. Romagnoli,G. Gonz\u00e1lez,3
+S. De Maio,L. Crisetig,3
+S. De Maio,S. Romagnoli,2
+A. Masina,R. Palacio,2
+L. Crisetig,B. D\u017eemaili,2
+R. Orsolini,A. Masina,2
+G. Gonz\u00e1lez,R. Orsolini,2
+S. De Maio,G. Gonz\u00e1lez,2
+S. Romagnoli,R. Orsolini,2
+S. Romagnoli,S. De Maio,2
+R. Orsolini,G. Gonz\u00e1lez,2
+A. Masina,S. De Maio,2
+S. Romagnoli,B. D\u017eemaili,2
+B. D\u017eemaili,S. De Maio,1
+S. Verdi,R. Palacio,1
+A. Poli,A. Masina,1
+G. Gonz\u00e1lez,L. Crisetig,1
+A. Mirante,R. Palacio,1
+R. Palacio,L. Crisetig,1
+R. Palacio,G. Gonz\u00e1lez,1
+S. De Maio,R. Palacio,1
+G. Gonz\u00e1lez,S. Romagnoli,1
+R. Orsolini,S. Verdi,1
+A. Masina,B. D\u017eemaili,1
+L. Crisetig,A. Poli,1
+S. Romagnoli,A. Poli,1
+S. Romagnoli,A. Mirante,1
+L. Crisetig,R. Orsolini,1
+L. Crisetig,R. Palacio,1
+A. Poli,R. Orsolini,1
+A. Masina,S. Romagnoli,1
+R. Palacio,S. De Maio,1
+A. Masina,L. Crisetig,1
+A. Poli,S. Verdi,1
+S. Romagnoli,L. Crisetig,1
+R. Orsolini,L. Crisetig,1
+S. De Maio,A. Mirante,1
+A. Masina,A. Poli,1
+S. Verdi,G. Gonz\u00e1lez,1
+L. Crisetig,G. Gonz\u00e1lez,1
+G. Gonz\u00e1lez,A. Masina,1
+R. Palacio,A. Poli,1
+A. Mirante,S. Romagnoli,1
+A. Masina,G. Gonz\u00e1lez,1
+A. Poli,R. Palacio,1
+B. D\u017eemaili,L. Crisetig,1

@@ -1,0 +1,16 @@
+Source,Target,Weight
+M. Capuano,M. Sampirisi,2
+M. Sampirisi,F. Ceccherini,2
+A. Cordaz,Simy,1
+F. Ceccherini,A. Barberis,1
+M. Sampirisi,Simy,1
+D. Faraoni,B. Martella,1
+M. Sampirisi,D. Faraoni,1
+A. Barberis,D. Faraoni,1
+F. Ceccherini,A. Cordaz,1
+Simy,M. Sampirisi,1
+Simy,M. Capuano,1
+D. Faraoni,M. Sampirisi,1
+F. Ceccherini,R. Mandragora,1
+R. Mandragora,F. Ceccherini,1
+B. Martella,Simy,1

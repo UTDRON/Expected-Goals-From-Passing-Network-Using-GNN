@@ -1,0 +1,90 @@
+Source,Target,Weight
+C. Molinaro,D. Baselli,12
+E. Moretti,N. N'Koulou,8
+D. Baselli,N. N'Koulou,8
+N. N'Koulou,E. Moretti,7
+E. Moretti,D. Baselli,7
+D. Baselli,T. Rinc\u00f3n,6
+C. Molinaro,A. Ljaji\u0107,6
+N. N'Koulou,A. Ljaji\u0107,5
+D. Baselli,C. Molinaro,5
+E. Moretti,C. Molinaro,5
+C. Molinaro,E. Moretti,5
+A. Ljaji\u0107,C. Molinaro,5
+T. Rinc\u00f3n,C. Molinaro,4
+A. Ljaji\u0107,S. Umar,4
+D. Baselli,S. Sirigu,4
+T. Rinc\u00f3n,E. Moretti,4
+A. Ljaji\u0107,Iago Falqu\u00e9,4
+N. N'Koulou,C. Molinaro,4
+Iago Falqu\u00e9,D. Baselli,3
+Iago Falqu\u00e9,T. Rinc\u00f3n,3
+S. Umar,D. Baselli,3
+D. Baselli,A. Ljaji\u0107,3
+S. Sirigu,D. Baselli,3
+L. De Silvestri,Iago Falqu\u00e9,3
+N. N'Koulou,D. Baselli,3
+Iago Falqu\u00e9,A. Ljaji\u0107,3
+N. N'Koulou,Iago Falqu\u00e9,3
+D. Baselli,S. Umar,3
+C. Molinaro,N. N'Koulou,3
+A. Ljaji\u0107,D. Baselli,3
+E. Moretti,M. Niang,3
+Iago Falqu\u00e9,C. Molinaro,3
+M. Niang,L. Boy\u00e9,2
+D. Baselli,E. Moretti,2
+M. Niang,S. Umar,2
+S. Umar,C. Molinaro,2
+A. Ljaji\u0107,E. Moretti,2
+C. Molinaro,T. Rinc\u00f3n,2
+L. Boy\u00e9,E. Moretti,2
+D. Baselli,L. De Silvestri,2
+S. Umar,Iago Falqu\u00e9,2
+C. Molinaro,L. Boy\u00e9,2
+L. Boy\u00e9,C. Molinaro,2
+S. Umar,N. N'Koulou,2
+M. Niang,Iago Falqu\u00e9,2
+A. Ljaji\u0107,N. N'Koulou,2
+M. Niang,E. Moretti,2
+N. N'Koulou,T. Rinc\u00f3n,2
+L. De Silvestri,N. N'Koulou,2
+T. Rinc\u00f3n,N. N'Koulou,2
+T. Rinc\u00f3n,S. Umar,2
+S. Sirigu,C. Molinaro,2
+N. N'Koulou,L. De Silvestri,1
+S. Umar,L. De Silvestri,1
+T. Rinc\u00f3n,M. Niang,1
+E. Moretti,S. Sirigu,1
+L. Boy\u00e9,Iago Falqu\u00e9,1
+N. N'Koulou,M. Niang,1
+E. Moretti,A. Ljaji\u0107,1
+C. Molinaro,Iago Falqu\u00e9,1
+T. Rinc\u00f3n,D. Baselli,1
+Iago Falqu\u00e9,N. N'Koulou,1
+Iago Falqu\u00e9,M. Niang,1
+E. Moretti,T. Rinc\u00f3n,1
+Iago Falqu\u00e9,E. Moretti,1
+A. Ljaji\u0107,L. De Silvestri,1
+A. Ljaji\u0107,M. Niang,1
+N. N'Koulou,L. Boy\u00e9,1
+C. Molinaro,S. Umar,1
+S. Sirigu,N. N'Koulou,1
+Iago Falqu\u00e9,L. Boy\u00e9,1
+D. Baselli,Iago Falqu\u00e9,1
+L. Boy\u00e9,A. Ljaji\u0107,1
+L. De Silvestri,T. Rinc\u00f3n,1
+C. Molinaro,S. Sirigu,1
+Iago Falqu\u00e9,L. De Silvestri,1
+S. Umar,M. Niang,1
+S. Sirigu,A. Ljaji\u0107,1
+C. Molinaro,L. De Silvestri,1
+M. Niang,C. Molinaro,1
+N. N'Koulou,S. Umar,1
+S. Sirigu,E. Moretti,1
+L. Boy\u00e9,S. Sirigu,1
+S. Umar,L. Boy\u00e9,1
+L. De Silvestri,A. Ljaji\u0107,1
+S. Umar,A. Ljaji\u0107,1
+Iago Falqu\u00e9,S. Sirigu,1
+D. Baselli,M. Niang,1
+T. Rinc\u00f3n,Iago Falqu\u00e9,1

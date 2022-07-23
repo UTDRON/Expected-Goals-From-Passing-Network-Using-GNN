@@ -1,0 +1,95 @@
+Source,Target,Weight
+R. Rodr\u00edguez,F. Borini,5
+M. Locatelli,F. Borini,5
+F. Borini,R. Rodr\u00edguez,4
+C. Zapata,R. Rodr\u00edguez,4
+G. Donnarumma,C. Zapata,4
+I. Abate,F. Kessi\u00e9,4
+F. Kessi\u00e9,I. Abate,4
+F. Borini,G. Bonaventura,4
+G. Bonaventura,R. Rodr\u00edguez,3
+R. Rodr\u00edguez,L. Biglia,3
+M. Locatelli,I. Abate,3
+G. Bonaventura,F. Kessi\u00e9,3
+L. Biglia,R. Rodr\u00edguez,3
+F. Kessi\u00e9,R. Rodr\u00edguez,3
+F. Borini,L. Bonucci,3
+R. Rodr\u00edguez,C. Zapata,3
+P. Cutrone,M. Locatelli,3
+I. Abate,Suso,3
+L. Bonucci,F. Kessi\u00e9,3
+C. Zapata,M. Locatelli,3
+R. Rodr\u00edguez,F. Kessi\u00e9,3
+G. Bonaventura,F. Borini,3
+C. Zapata,I. Abate,2
+P. Cutrone,L. Bonucci,2
+G. Donnarumma,L. Bonucci,2
+L. Biglia,I. Abate,2
+F. Kessi\u00e9,P. Cutrone,2
+G. Donnarumma,G. Bonaventura,2
+L. Bonucci,Andr\u00e9 Silva,2
+F. Borini,G. Donnarumma,2
+F. Kessi\u00e9,C. Zapata,2
+R. Rodr\u00edguez,G. Bonaventura,2
+F. Kessi\u00e9,F. Borini,2
+G. Bonaventura,C. Zapata,2
+I. Abate,M. Locatelli,2
+C. Zapata,G. Donnarumma,2
+L. Bonucci,F. Borini,2
+I. Abate,P. Cutrone,2
+F. Borini,L. Biglia,2
+Andr\u00e9 Silva,F. Borini,2
+F. Kessi\u00e9,L. Bonucci,2
+F. Borini,M. Locatelli,2
+P. Cutrone,F. Borini,2
+F. Borini,P. Cutrone,2
+M. Locatelli,R. Rodr\u00edguez,2
+R. Rodr\u00edguez,I. Abate,1
+L. Bonucci,L. Biglia,1
+L. Bonucci,M. Locatelli,1
+N. Kalini\u0107,I. Abate,1
+N. Kalini\u0107,G. Bonaventura,1
+R. Rodr\u00edguez,P. Cutrone,1
+C. Zapata,F. Borini,1
+P. Cutrone,C. Zapata,1
+F. Borini,C. Zapata,1
+F. Kessi\u00e9,G. Donnarumma,1
+M. Locatelli,L. Bonucci,1
+R. Rodr\u00edguez,N. Kalini\u0107,1
+M. Locatelli,P. Cutrone,1
+L. Bonucci,C. Zapata,1
+F. Kessi\u00e9,N. Kalini\u0107,1
+I. Abate,C. Zapata,1
+L. Bonucci,G. Donnarumma,1
+F. Borini,F. Kessi\u00e9,1
+C. Zapata,G. Bonaventura,1
+C. Zapata,L. Biglia,1
+F. Kessi\u00e9,Suso,1
+G. Bonaventura,Andr\u00e9 Silva,1
+N. Kalini\u0107,R. Rodr\u00edguez,1
+F. Borini,Andr\u00e9 Silva,1
+L. Biglia,L. Bonucci,1
+L. Bonucci,G. Bonaventura,1
+Suso,M. Locatelli,1
+M. Locatelli,F. Kessi\u00e9,1
+M. Locatelli,N. Kalini\u0107,1
+L. Biglia,G. Bonaventura,1
+F. Borini,Suso,1
+G. Bonaventura,M. Locatelli,1
+Andr\u00e9 Silva,F. Kessi\u00e9,1
+Suso,F. Borini,1
+I. Abate,G. Donnarumma,1
+Suso,G. Bonaventura,1
+F. Kessi\u00e9,Andr\u00e9 Silva,1
+N. Kalini\u0107,F. Kessi\u00e9,1
+C. Zapata,F. Kessi\u00e9,1
+C. Zapata,L. Bonucci,1
+G. Donnarumma,M. Locatelli,1
+Andr\u00e9 Silva,P. Cutrone,1
+G. Bonaventura,L. Bonucci,1
+R. Rodr\u00edguez,G. Donnarumma,1
+Andr\u00e9 Silva,G. Bonaventura,1
+Suso,F. Kessi\u00e9,1
+L. Bonucci,Suso,1
+Suso,N. Kalini\u0107,1
+Suso,C. Zapata,1

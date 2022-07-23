@@ -1,0 +1,22 @@
+Source,Target,Weight
+J. Mojica,Borja Garc\u00eda,3
+Borja Garc\u00eda,Aleix Garc\u00eda,2
+J. Mojica,Bernardo Espinosa,2
+C. Stuani,Juanpe,2
+Aleix Garc\u00eda,Pedro Alcal\u00e1,2
+Aleix Garc\u00eda,J. Mojica,2
+C. Stuani,Borja Garc\u00eda,2
+Borja Garc\u00eda,J. Mojica,2
+J. Mojica,Pablo Maffeo,1
+Borja Garc\u00eda,C. Stuani,1
+Portu,Aleix Garc\u00eda,1
+J. Mojica,C. Stuani,1
+Bernardo Espinosa,Pedro Alcal\u00e1,1
+Pedro Alcal\u00e1,Aleix Garc\u00eda,1
+Juanpe,J. Mojica,1
+Bernardo Espinosa,C. Stuani,1
+Pedro Alcal\u00e1,Pablo Maffeo,1
+Pedro Alcal\u00e1,Portu,1
+Juanpe,C. Stuani,1
+Pablo Maffeo,Portu,1
+Portu,J. Mojica,1

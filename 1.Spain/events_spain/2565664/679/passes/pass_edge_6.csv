@@ -1,0 +1,55 @@
+Source,Target,Weight
+Koke,Sa\u00fal,5
+Sa\u00fal,Gabi,4
+Juanfran,Gabi,4
+Gabi,Koke,4
+Gabi,Juanfran,3
+Sa\u00fal,Juanfran,3
+Sa\u00fal,Koke,3
+L. Hern\u00e1ndez,Sa\u00fal,3
+Gabi,Sa\u00fal,3
+L. Hern\u00e1ndez,Y. Carrasco,3
+Koke,Gabi,2
+Juanfran,\u00c1. Correa,2
+Koke,Y. Carrasco,2
+\u00c1. Correa,Sa\u00fal,2
+Sa\u00fal,L. Hern\u00e1ndez,2
+Koke,L. Hern\u00e1ndez,2
+S. Savi\u0107,Sa\u00fal,1
+S. Savi\u0107,L. Hern\u00e1ndez,1
+A. Griezmann,Juanfran,1
+J. Oblak,D. God\u00edn,1
+Y. Carrasco,Juanfran,1
+Koke,S. Savi\u0107,1
+A. Griezmann,D. God\u00edn,1
+Gabi,S. Savi\u0107,1
+\u00c1. Correa,L. Hern\u00e1ndez,1
+Juanfran,Sa\u00fal,1
+Y. Carrasco,Sa\u00fal,1
+Koke,\u00c1. Correa,1
+Fernando Torres,Koke,1
+J. Oblak,Juanfran,1
+Sa\u00fal,S. Savi\u0107,1
+Gabi,J. Oblak,1
+D. God\u00edn,Fernando Torres,1
+D. God\u00edn,Koke,1
+Sa\u00fal,A. Griezmann,1
+L. Hern\u00e1ndez,Koke,1
+Fernando Torres,K. Gameiro,1
+Sa\u00fal,\u00c1. Correa,1
+Sa\u00fal,Fernando Torres,1
+\u00c1. Correa,Gabi,1
+L. Hern\u00e1ndez,D. God\u00edn,1
+Fernando Torres,Gabi,1
+Y. Carrasco,L. Hern\u00e1ndez,1
+\u00c1. Correa,Koke,1
+J. Oblak,Fernando Torres,1
+Y. Carrasco,Koke,1
+Juanfran,J. Oblak,1
+S. Savi\u0107,J. Oblak,1
+Juanfran,L. Hern\u00e1ndez,1
+D. God\u00edn,S. Savi\u0107,1
+Y. Carrasco,\u00c1. Correa,1
+Juanfran,A. Griezmann,1
+S. Savi\u0107,Koke,1
+\u00c1. Correa,Juanfran,1

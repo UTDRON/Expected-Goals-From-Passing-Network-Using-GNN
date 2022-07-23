@@ -1,0 +1,23 @@
+Source,Target,Weight
+E. Pulgar,F. Helander,4
+A. Masina,E. Pulgar,3
+B. D\u017eemaili,E. Pulgar,2
+I. M'baye,B. D\u017eemaili,2
+B. D\u017eemaili,I. M'baye,2
+F. Helander,A. Masina,2
+A. Masina,B. D\u017eemaili,2
+E. Pulgar,F. Di Francesco,1
+B. D\u017eemaili,A. Masina,1
+A. Poli,F. Di Francesco,1
+F. Helander,S. De Maio,1
+F. Di Francesco,B. D\u017eemaili,1
+F. Di Francesco,I. M'baye,1
+S. De Maio,A. Mirante,1
+B. D\u017eemaili,S. De Maio,1
+F. Helander,E. Pulgar,1
+A. Mirante,A. Masina,1
+E. Pulgar,B. D\u017eemaili,1
+A. Masina,L. Krej\u010d\u00ed,1
+I. M'baye,A. Masina,1
+E. Pulgar,A. Poli,1
+L. Krej\u010d\u00ed,A. Masina,1

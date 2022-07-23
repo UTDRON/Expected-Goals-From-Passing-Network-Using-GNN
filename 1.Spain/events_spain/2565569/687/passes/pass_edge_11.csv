@@ -1,0 +1,53 @@
+Source,Target,Weight
+Xabi Prieto,C. Vela,5
+C. Vela,Odriozola,4
+C. Vela,Canales,4
+Odriozola,Xabi Prieto,3
+Illarramendi,Xabi Prieto,3
+Aritz Elustondo,Illarramendi,2
+Diego Llorente,G. Rulli,2
+Xabi Prieto,Odriozola,2
+Zurutuza,Xabi Prieto,2
+Illarramendi,C. Vela,2
+Canales,Aritz Elustondo,2
+Xabi Prieto,Illarramendi,2
+G. Rulli,Diego Llorente,2
+Zurutuza,Illarramendi,2
+Canales,Xabi Prieto,2
+Xabi Prieto,Aritz Elustondo,2
+Aritz Elustondo,G. Rulli,2
+G. Rulli,Zurutuza,2
+G. Rulli,Aritz Elustondo,1
+Willian Jos\u00e9,Aritz Elustondo,1
+Xabi Prieto,Canales,1
+Illarramendi,Odriozola,1
+Odriozola,Illarramendi,1
+Canales,C. Vela,1
+Xabi Prieto,Willian Jos\u00e9,1
+Illarramendi,Zurutuza,1
+K\u00e9vin Rodrigues,Diego Llorente,1
+C. Vela,Xabi Prieto,1
+Odriozola,C. Vela,1
+Canales,Diego Llorente,1
+Diego Llorente,K\u00e9vin Rodrigues,1
+Aritz Elustondo,Xabi Prieto,1
+Zurutuza,Diego Llorente,1
+Illarramendi,Aritz Elustondo,1
+Willian Jos\u00e9,K\u00e9vin Rodrigues,1
+Diego Llorente,Illarramendi,1
+Diego Llorente,Odriozola,1
+Canales,Odriozola,1
+Odriozola,Willian Jos\u00e9,1
+Aritz Elustondo,Diego Llorente,1
+Aritz Elustondo,C. Vela,1
+Odriozola,Canales,1
+Zurutuza,G. Rulli,1
+Diego Llorente,Canales,1
+Odriozola,Aritz Elustondo,1
+Illarramendi,Diego Llorente,1
+C. Vela,Illarramendi,1
+Aritz Elustondo,Zurutuza,1
+Canales,Zurutuza,1
+Willian Jos\u00e9,Canales,1
+K\u00e9vin Rodrigues,Willian Jos\u00e9,1
+Odriozola,Zurutuza,1

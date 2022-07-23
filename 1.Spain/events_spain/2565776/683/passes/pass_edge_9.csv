@@ -1,0 +1,45 @@
+Source,Target,Weight
+M. Lacen,F. Ricca,4
+Luis Hern\u00e1ndez,R. Rosales,3
+Adri\u00e1n,R. Rosales,3
+Adri\u00e1n,M. Lacen,3
+R. Rosales,Adri\u00e1n,3
+R. Rosales,Luis Hern\u00e1ndez,2
+B. Ideye,Y. En-Nesyri,2
+Chory Castro,Miquel,2
+D. Rol\u00e1n,F. Ricca,2
+F. Ricca,Miquel,2
+Adri\u00e1n,Luis Hern\u00e1ndez,2
+F. Ricca,D. Rol\u00e1n,2
+F. Ricca,B. Ideye,2
+R. Rosales,Chory Castro,2
+Y. En-Nesyri,Adri\u00e1n,2
+Luis Hern\u00e1ndez,Adri\u00e1n,1
+Luis Hern\u00e1ndez,Roberto,1
+Adri\u00e1n,Chory Castro,1
+F. Ricca,Adri\u00e1n,1
+D. Rol\u00e1n,Luis Hern\u00e1ndez,1
+R. Rosales,B. Ideye,1
+Luis Hern\u00e1ndez,M. Lacen,1
+M. Lacen,D. Rol\u00e1n,1
+Miquel,Luis Hern\u00e1ndez,1
+Miquel,Adri\u00e1n,1
+Miquel,F. Ricca,1
+B. Ideye,D. Rol\u00e1n,1
+D. Rol\u00e1n,Adri\u00e1n,1
+R. Rosales,F. Ricca,1
+F. Ricca,Luis Hern\u00e1ndez,1
+Chory Castro,M. Lacen,1
+Chory Castro,R. Rosales,1
+Y. En-Nesyri,Chory Castro,1
+Luis Hern\u00e1ndez,Chory Castro,1
+Roberto,Chory Castro,1
+Y. En-Nesyri,F. Ricca,1
+Roberto,Y. En-Nesyri,1
+Chory Castro,Adri\u00e1n,1
+Miquel,R. Rosales,1
+Miquel,Roberto,1
+Y. En-Nesyri,R. Rosales,1
+Adri\u00e1n,Miquel,1
+Chory Castro,Luis Hern\u00e1ndez,1
+Luis Hern\u00e1ndez,Y. En-Nesyri,1

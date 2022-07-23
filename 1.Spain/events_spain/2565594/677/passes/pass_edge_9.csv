@@ -1,0 +1,48 @@
+Source,Target,Weight
+E. \u00c7olak,Luisinho,4
+F. Valverde,E. \u00c7olak,4
+C. Borges,E. \u00c7olak,3
+F. Andone,Juanfran,2
+Luisinho,F. Andone,2
+E. \u00c7olak,Juanfran,2
+F. Sch\u00e4r,C. Borges,2
+Guilherme,F. Sch\u00e4r,2
+Fede Cartabia,C. Borges,2
+Juanfran,C. Borges,2
+Guilherme,E. \u00c7olak,2
+C. Borges,Juanfran,2
+A. Arribas,F. Sch\u00e4r,2
+Juanfran,Fede Cartabia,2
+Luisinho,F. Valverde,2
+Fede Cartabia,Juanfran,2
+Juanfran,A. Arribas,2
+F. Sch\u00e4r,E. \u00c7olak,2
+E. \u00c7olak,Fede Cartabia,2
+F. Sch\u00e4r,Luisinho,1
+E. \u00c7olak,F. Valverde,1
+Luisinho,Guilherme,1
+Fede Cartabia,F. Valverde,1
+Guilherme,F. Valverde,1
+Juanfran,F. Valverde,1
+Fede Cartabia,F. Andone,1
+F. Andone,F. Valverde,1
+F. Valverde,Fede Cartabia,1
+Guilherme,Luisinho,1
+E. \u00c7olak,Guilherme,1
+E. \u00c7olak,A. Arribas,1
+C. Borges,Guilherme,1
+C. Borges,F. Sch\u00e4r,1
+E. \u00c7olak,C. Borges,1
+Guilherme,C. Borges,1
+A. Arribas,Juanfran,1
+Juanfran,E. \u00c7olak,1
+Juanfran,Guilherme,1
+Luisinho,Juanfran,1
+C. Borges,A. Arribas,1
+A. Arribas,Fede Cartabia,1
+F. Valverde,C. Borges,1
+F. Sch\u00e4r,Guilherme,1
+Juanfran,F. Sch\u00e4r,1
+C. Borges,Fede Cartabia,1
+Fede Cartabia,Guilherme,1
+F. Valverde,Luisinho,1

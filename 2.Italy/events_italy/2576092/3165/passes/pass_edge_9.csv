@@ -1,0 +1,23 @@
+Source,Target,Weight
+P. Hetemaj,M. Gobbi,2
+M. Gobbi,P. Hetemaj,2
+N. Tomovi\u0107,F. Cacciatore,1
+N. Rigoni,N. Tomovi\u0107,1
+S. Pellissier,R. Inglese,1
+P. Hetemaj,N. Rigoni,1
+F. Cacciatore,R. Inglese,1
+R. Inglese,P. Hetemaj,1
+R. Inglese,F. Cacciatore,1
+S. Bastien,V. Birsa,1
+S. Pellissier,S. Bastien,1
+P. Hetemaj,S. Bastien,1
+V. Birsa,P. Hetemaj,1
+F. Cacciatore,V. Birsa,1
+F. Cacciatore,N. Rigoni,1
+S. Bastien,F. Cacciatore,1
+S. Bastien,N. Rigoni,1
+F. Cacciatore,S. Bastien,1
+N. Rigoni,M. Gobbi,1
+R. Inglese,S. Pellissier,1
+N. Rigoni,S. Pellissier,1
+M. Gobbi,R. Inglese,1

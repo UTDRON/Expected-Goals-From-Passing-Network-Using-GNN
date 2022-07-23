@@ -1,0 +1,75 @@
+Source,Target,Weight
+A. Laporte,Arrizabalaga,6
+Balenziaga,A. Laporte,5
+Mikel Rico,Susaeta,4
+Arrizabalaga,Unai N\u00fa\u00f1ez,4
+Mikel Rico,Balenziaga,4
+Iturraspe,A. Laporte,4
+Iturraspe,Mikel Rico,4
+Susaeta,Iturraspe,4
+Unai N\u00fa\u00f1ez,B\u00f3veda,4
+B\u00f3veda,Balenziaga,4
+Mikel Rico,Iturraspe,4
+Susaeta,Unai N\u00fa\u00f1ez,3
+Arrizabalaga,A. Laporte,3
+A. Laporte,Mikel Rico,3
+Aduriz,Balenziaga,3
+A. Laporte,Susaeta,3
+Balenziaga,Susaeta,3
+Unai N\u00fa\u00f1ez,Mikel Rico,3
+I\u00f1aki Williams,B\u00f3veda,3
+Iturraspe,Susaeta,3
+B\u00f3veda,Mikel Rico,3
+I\u00f1aki Williams,Mikel Rico,3
+B\u00f3veda,I\u00f1aki Williams,2
+De Marcos,Unai N\u00fa\u00f1ez,2
+Iturraspe,B\u00f3veda,2
+Unai N\u00fa\u00f1ez,Iturraspe,2
+Iturraspe,I\u00f1aki Williams,2
+A. Laporte,Unai N\u00fa\u00f1ez,2
+Balenziaga,Aduriz,2
+Arrizabalaga,B\u00f3veda,2
+Mikel Rico,Ra\u00fal Garc\u00eda,2
+Mikel Rico,A. Laporte,2
+Iturraspe,Unai N\u00fa\u00f1ez,2
+B\u00f3veda,Iturraspe,2
+B\u00f3veda,De Marcos,2
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,2
+A. Laporte,Iturraspe,2
+Balenziaga,Iturraspe,2
+Unai N\u00fa\u00f1ez,A. Laporte,2
+Susaeta,A. Laporte,2
+Susaeta,Mikel Rico,2
+Unai N\u00fa\u00f1ez,Arrizabalaga,2
+Susaeta,Aduriz,2
+Aduriz,Susaeta,2
+Susaeta,De Marcos,2
+Mikel Rico,Unai N\u00fa\u00f1ez,1
+Balenziaga,Mikel Rico,1
+Arrizabalaga,Aduriz,1
+Mikel Rico,I\u00f1aki Williams,1
+A. Laporte,Balenziaga,1
+De Marcos,Mikel Rico,1
+Ra\u00fal Garc\u00eda,Balenziaga,1
+A. Laporte,De Marcos,1
+Balenziaga,I\u00f1aki Williams,1
+Iturraspe,Balenziaga,1
+Iturraspe,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,Susaeta,1
+Mikel Rico,B\u00f3veda,1
+A. Laporte,Ra\u00fal Garc\u00eda,1
+De Marcos,Iturraspe,1
+Ra\u00fal Garc\u00eda,A. Laporte,1
+Balenziaga,Arrizabalaga,1
+B\u00f3veda,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,Unai N\u00fa\u00f1ez,1
+Mikel Rico,De Marcos,1
+Ra\u00fal Garc\u00eda,Mikel Rico,1
+I\u00f1aki Williams,Iturraspe,1
+Susaeta,Balenziaga,1
+Ra\u00fal Garc\u00eda,I\u00f1aki Williams,1
+De Marcos,Susaeta,1
+Susaeta,I\u00f1aki Williams,1
+Mikel Rico,Arrizabalaga,1
+De Marcos,B\u00f3veda,1
+Ra\u00fal Garc\u00eda,Iturraspe,1

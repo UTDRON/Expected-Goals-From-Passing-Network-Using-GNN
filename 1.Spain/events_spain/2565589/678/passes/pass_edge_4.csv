@@ -1,0 +1,117 @@
+Source,Target,Weight
+Balenziaga,A. Laporte,15
+A. Laporte,Balenziaga,10
+Unai N\u00fa\u00f1ez,Lekue,8
+San Jos\u00e9,Muniain,7
+A. Laporte,Unai N\u00fa\u00f1ez,7
+Lekue,Unai N\u00fa\u00f1ez,7
+Muniain,A. Laporte,6
+Iturraspe,Balenziaga,6
+Susaeta,Balenziaga,5
+Balenziaga,Susaeta,5
+Unai N\u00fa\u00f1ez,A. Laporte,5
+Iturraspe,Unai N\u00fa\u00f1ez,5
+Arrizabalaga,Ra\u00fal Garc\u00eda,5
+San Jos\u00e9,Unai N\u00fa\u00f1ez,5
+A. Laporte,Arrizabalaga,5
+Ra\u00fal Garc\u00eda,Balenziaga,5
+A. Laporte,Lekue,5
+Ra\u00fal Garc\u00eda,San Jos\u00e9,4
+Balenziaga,Ra\u00fal Garc\u00eda,4
+San Jos\u00e9,Balenziaga,4
+Arrizabalaga,A. Laporte,4
+A. Laporte,San Jos\u00e9,4
+Aduriz,Ra\u00fal Garc\u00eda,4
+Balenziaga,San Jos\u00e9,4
+Balenziaga,Muniain,4
+A. Laporte,Ra\u00fal Garc\u00eda,4
+Muniain,San Jos\u00e9,4
+Unai N\u00fa\u00f1ez,Iturraspe,4
+Unai N\u00fa\u00f1ez,Arrizabalaga,4
+Be\u00f1at,San Jos\u00e9,4
+Lekue,Ra\u00fal Garc\u00eda,3
+Iturraspe,A. Laporte,3
+Balenziaga,Iturraspe,3
+Ra\u00fal Garc\u00eda,Muniain,3
+San Jos\u00e9,A. Laporte,3
+Muniain,Iturraspe,3
+San Jos\u00e9,Arrizabalaga,3
+Iturraspe,Lekue,3
+Muniain,Balenziaga,3
+Balenziaga,Aduriz,3
+Lekue,Be\u00f1at,3
+A. Laporte,Iturraspe,3
+Lekue,I\u00f1aki Williams,3
+Muniain,Be\u00f1at,3
+Lekue,San Jos\u00e9,3
+Susaeta,Muniain,2
+Ra\u00fal Garc\u00eda,A. Laporte,2
+Muniain,Susaeta,2
+Muniain,Ra\u00fal Garc\u00eda,2
+Ra\u00fal Garc\u00eda,Unai N\u00fa\u00f1ez,2
+I\u00f1aki Williams,Aduriz,2
+San Jos\u00e9,Lekue,2
+Be\u00f1at,Ra\u00fal Garc\u00eda,2
+Unai N\u00fa\u00f1ez,Muniain,2
+Arrizabalaga,San Jos\u00e9,2
+Arrizabalaga,Aduriz,2
+Lekue,Arrizabalaga,2
+Be\u00f1at,Muniain,2
+Ra\u00fal Garc\u00eda,Arrizabalaga,2
+Muniain,Unai N\u00fa\u00f1ez,2
+Arrizabalaga,Iturraspe,2
+Ra\u00fal Garc\u00eda,Aduriz,2
+Unai N\u00fa\u00f1ez,Balenziaga,2
+San Jos\u00e9,Iturraspe,2
+Lekue,Iturraspe,2
+Be\u00f1at,Balenziaga,2
+Arrizabalaga,Lekue,2
+Susaeta,Iturraspe,2
+Ra\u00fal Garc\u00eda,Susaeta,2
+Iturraspe,Muniain,2
+Lekue,A. Laporte,2
+Ra\u00fal Garc\u00eda,Lekue,2
+A. Laporte,Be\u00f1at,2
+Iturraspe,Arrizabalaga,2
+A. Laporte,Muniain,2
+Iturraspe,San Jos\u00e9,2
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,2
+San Jos\u00e9,Be\u00f1at,2
+Aduriz,Lekue,2
+Unai N\u00fa\u00f1ez,San Jos\u00e9,2
+Susaeta,A. Laporte,2
+San Jos\u00e9,Ra\u00fal Garc\u00eda,1
+Arrizabalaga,Unai N\u00fa\u00f1ez,1
+San Jos\u00e9,Susaeta,1
+Be\u00f1at,A. Laporte,1
+Be\u00f1at,Lekue,1
+Balenziaga,Arrizabalaga,1
+Unai N\u00fa\u00f1ez,Be\u00f1at,1
+Ra\u00fal Garc\u00eda,Be\u00f1at,1
+Susaeta,Lekue,1
+Lekue,Balenziaga,1
+Unai N\u00fa\u00f1ez,Susaeta,1
+Aduriz,Iturraspe,1
+I\u00f1aki Williams,A. Laporte,1
+Balenziaga,Lekue,1
+Aduriz,San Jos\u00e9,1
+Arrizabalaga,Susaeta,1
+Ra\u00fal Garc\u00eda,Iturraspe,1
+Be\u00f1at,Unai N\u00fa\u00f1ez,1
+A. Laporte,Aduriz,1
+Arrizabalaga,Balenziaga,1
+Aduriz,I\u00f1aki Williams,1
+Lekue,Aduriz,1
+Aduriz,Balenziaga,1
+Aduriz,Arrizabalaga,1
+Ra\u00fal Garc\u00eda,I\u00f1aki Williams,1
+I\u00f1aki Williams,Muniain,1
+A. Laporte,Susaeta,1
+Aduriz,Susaeta,1
+Susaeta,San Jos\u00e9,1
+Balenziaga,Unai N\u00fa\u00f1ez,1
+Iturraspe,Ra\u00fal Garc\u00eda,1
+San Jos\u00e9,Aduriz,1
+Susaeta,Aduriz,1
+Aduriz,Be\u00f1at,1
+I\u00f1aki Williams,Balenziaga,1

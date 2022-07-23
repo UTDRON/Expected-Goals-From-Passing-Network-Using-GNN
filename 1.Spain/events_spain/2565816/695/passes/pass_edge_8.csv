@@ -1,0 +1,46 @@
+Source,Target,Weight
+Coke,E. Boateng,4
+Campa\u00f1a,Coke,3
+G. Pazzini,Campa\u00f1a,2
+Coke,Jos\u00e9 Luis Morales,2
+E. Boateng,Jos\u00e9 Luis Morales,2
+E. Boateng,Coke,2
+S. Luki\u0107,E. Boateng,2
+G. Pazzini,Coke,2
+E. Boateng,G. Pazzini,2
+Jos\u00e9 Luis Morales,Luna,2
+Campa\u00f1a,S. Luki\u0107,2
+Luna,E. Boateng,2
+E. Boateng,Ivi,2
+Ivi,Rober,2
+S. Luki\u0107,Rober,1
+Luna,Rober,1
+S. Luki\u0107,Luna,1
+Ivi,Oier,1
+E. Cabaco,Coke,1
+Coke,S. Luki\u0107,1
+Oier,Campa\u00f1a,1
+Rober,Ivi,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+C. Doukour\u00e9,Coke,1
+E. Cabaco,C. Doukour\u00e9,1
+Ivi,Luna,1
+Jos\u00e9 Luis Morales,Coke,1
+Campa\u00f1a,E. Boateng,1
+E. Boateng,S. Luki\u0107,1
+Coke,Campa\u00f1a,1
+Ivi,Campa\u00f1a,1
+Oier,E. Boateng,1
+Coke,C. Doukour\u00e9,1
+S. Luki\u0107,Ivi,1
+Rober,Campa\u00f1a,1
+S. Luki\u0107,Oier,1
+Jos\u00e9 Luis Morales,Ivi,1
+C. Doukour\u00e9,Ivi,1
+Luna,G. Pazzini,1
+Ivi,G. Pazzini,1
+Rober,E. Cabaco,1
+E. Boateng,E. Cabaco,1
+Rober,Luna,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+Luna,S. Luki\u0107,1

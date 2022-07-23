@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Costa,N. Viola,3
+G. Letizia,L. Memushaj,2
+L. Memushaj,D. Cataldi,2
+D. Cataldi,A. Costa,1
+N. Viola,G. Letizia,1
+P. Iemmello,L. Venuti,1
+L. Memushaj,M. D'Alessandro,1
+A. Costa,P. Iemmello,1
+N. Viola,P. Iemmello,1
+V. Belec,A. Costa,1
+N. Viola,A. Costa,1
+M. D'Alessandro,L. Memushaj,1
+N. Viola,C. Lombardi,1
+L. Venuti,C. Lombardi,1
+C. Lombardi,B. Djimsiti,1
+L. Memushaj,N. Viola,1
+C. Lombardi,D. Cataldi,1
+B. Djimsiti,G. Letizia,1
+P. Iemmello,A. Costa,1
+D. Cataldi,L. Memushaj,1
+G. Letizia,V. Belec,1

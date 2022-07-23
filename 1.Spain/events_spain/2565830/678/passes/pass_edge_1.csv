@@ -1,0 +1,93 @@
+Source,Target,Weight
+Saborit,Lekue,10
+\u00cd\u00f1igo Mart\u00ednez,Saborit,10
+Lekue,Saborit,9
+Be\u00f1at,\u00cd\u00f1igo Mart\u00ednez,8
+Saborit,\u00cd\u00f1igo Mart\u00ednez,8
+Sabin Merino,Saborit,7
+San Jos\u00e9,Ra\u00fal Garc\u00eda,7
+Susaeta,De Marcos,6
+De Marcos,San Jos\u00e9,6
+De Marcos,Susaeta,6
+Saborit,Sabin Merino,5
+\u00cd\u00f1igo Mart\u00ednez,Be\u00f1at,5
+\u00cd\u00f1igo Mart\u00ednez,Arrizabalaga,5
+Ra\u00fal Garc\u00eda,Unai N\u00fa\u00f1ez,5
+Saborit,Be\u00f1at,5
+Unai N\u00fa\u00f1ez,De Marcos,5
+Arrizabalaga,Unai N\u00fa\u00f1ez,4
+De Marcos,Unai N\u00fa\u00f1ez,4
+Unai N\u00fa\u00f1ez,Susaeta,4
+Ra\u00fal Garc\u00eda,Saborit,4
+Unai N\u00fa\u00f1ez,Arrizabalaga,4
+Ra\u00fal Garc\u00eda,De Marcos,4
+Saborit,De Marcos,4
+San Jos\u00e9,\u00cd\u00f1igo Mart\u00ednez,4
+\u00cd\u00f1igo Mart\u00ednez,Unai N\u00fa\u00f1ez,4
+Arrizabalaga,\u00cd\u00f1igo Mart\u00ednez,4
+Saborit,Arrizabalaga,4
+Arrizabalaga,Ra\u00fal Garc\u00eda,4
+Susaeta,Be\u00f1at,4
+Be\u00f1at,Lekue,4
+Susaeta,Ra\u00fal Garc\u00eda,4
+Ra\u00fal Garc\u00eda,Susaeta,3
+\u00cd\u00f1igo Mart\u00ednez,Ra\u00fal Garc\u00eda,3
+Be\u00f1at,Saborit,3
+San Jos\u00e9,De Marcos,3
+Ra\u00fal Garc\u00eda,\u00cd\u00f1igo Mart\u00ednez,3
+Saborit,Unai N\u00fa\u00f1ez,3
+De Marcos,Ra\u00fal Garc\u00eda,3
+Susaeta,Saborit,3
+Lekue,\u00cd\u00f1igo Mart\u00ednez,3
+Be\u00f1at,De Marcos,3
+Sabin Merino,Lekue,3
+Lekue,San Jos\u00e9,3
+Be\u00f1at,Arrizabalaga,3
+Saborit,San Jos\u00e9,3
+Be\u00f1at,Susaeta,3
+De Marcos,Be\u00f1at,2
+Ra\u00fal Garc\u00eda,Be\u00f1at,2
+De Marcos,Sabin Merino,2
+\u00cd\u00f1igo Mart\u00ednez,Lekue,2
+San Jos\u00e9,Be\u00f1at,2
+Lekue,Sabin Merino,2
+Lekue,Be\u00f1at,2
+Susaeta,San Jos\u00e9,2
+\u00cd\u00f1igo Mart\u00ednez,Sabin Merino,2
+De Marcos,Arrizabalaga,2
+Sabin Merino,San Jos\u00e9,2
+Sabin Merino,Susaeta,2
+Unai N\u00fa\u00f1ez,Lekue,2
+Ra\u00fal Garc\u00eda,Sabin Merino,2
+De Marcos,Lekue,2
+Lekue,Susaeta,2
+Unai N\u00fa\u00f1ez,Saborit,2
+Susaeta,Lekue,2
+San Jos\u00e9,Saborit,2
+Lekue,Ra\u00fal Garc\u00eda,2
+Arrizabalaga,Saborit,2
+Ra\u00fal Garc\u00eda,San Jos\u00e9,2
+San Jos\u00e9,Susaeta,2
+Unai N\u00fa\u00f1ez,Be\u00f1at,2
+Unai N\u00fa\u00f1ez,\u00cd\u00f1igo Mart\u00ednez,2
+De Marcos,Saborit,1
+\u00cd\u00f1igo Mart\u00ednez,Susaeta,1
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,1
+Be\u00f1at,Sabin Merino,1
+San Jos\u00e9,Unai N\u00fa\u00f1ez,1
+Sabin Merino,Be\u00f1at,1
+Be\u00f1at,San Jos\u00e9,1
+Lekue,Unai N\u00fa\u00f1ez,1
+\u00cd\u00f1igo Mart\u00ednez,De Marcos,1
+Susaeta,Unai N\u00fa\u00f1ez,1
+Arrizabalaga,Susaeta,1
+Arrizabalaga,Sabin Merino,1
+Arrizabalaga,De Marcos,1
+Sabin Merino,Arrizabalaga,1
+Lekue,De Marcos,1
+Saborit,Ra\u00fal Garc\u00eda,1
+Arrizabalaga,Lekue,1
+Susaeta,\u00cd\u00f1igo Mart\u00ednez,1
+Unai N\u00fa\u00f1ez,San Jos\u00e9,1
+Arrizabalaga,San Jos\u00e9,1
+Susaeta,Sabin Merino,1

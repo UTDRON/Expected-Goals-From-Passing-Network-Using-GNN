@@ -1,0 +1,26 @@
+Source,Target,Weight
+R. Freuler,L. Spinazzola,4
+L. Spinazzola,R. Freuler,3
+A. Masiello,M. Caldara,2
+M. Caldara,J. Palomino,2
+J. Palomino,L. Spinazzola,2
+A. Masiello,B. Cristante,1
+L. Vido,A. G\u00f3mez,1
+A. Masiello,J. Palomino,1
+A. Cornelius,A. Masiello,1
+E. Berisha,A. Masiello,1
+A. Cornelius,A. G\u00f3mez,1
+A. G\u00f3mez,R. Freuler,1
+H. Hateboer,E. Berisha,1
+A. Masiello,L. Vido,1
+L. Spinazzola,H. Hateboer,1
+A. G\u00f3mez,A. Masiello,1
+J. Palomino,A. Cornelius,1
+B. Cristante,A. Masiello,1
+L. Vido,B. Cristante,1
+A. Cornelius,H. Hateboer,1
+B. Cristante,L. Vido,1
+H. Hateboer,L. Vido,1
+L. Spinazzola,A. G\u00f3mez,1
+L. Spinazzola,A. Cornelius,1
+L. Vido,A. Cornelius,1

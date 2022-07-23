@@ -1,0 +1,24 @@
+Source,Target,Weight
+C. Biraghi,D. Astori,3
+M. Badelj,C. Biraghi,2
+G. Simeone,D. Astori,2
+D. Astori,M. Badelj,2
+D. Astori,M. Sportiello,2
+M. Sportiello,G. Simeone,1
+D. Astori,G. Pezzella,1
+C. Biraghi,G. Simeone,1
+M. Benassi,G. Pezzella,1
+V. Eysseric,J. Veretout,1
+V. Eysseric,C. Biraghi,1
+G. Pezzella,D. Astori,1
+M. Badelj,M. Sportiello,1
+D. Astori,G. Simeone,1
+M. Sportiello,F. Chiesa,1
+M. Badelj,V. Eysseric,1
+G. Pezzella,V. Laurini,1
+J. Veretout,M. Badelj,1
+G. Simeone,F. Chiesa,1
+F. Chiesa,M. Badelj,1
+J. Veretout,C. Biraghi,1
+V. Laurini,M. Benassi,1
+M. Sportiello,V. Eysseric,1

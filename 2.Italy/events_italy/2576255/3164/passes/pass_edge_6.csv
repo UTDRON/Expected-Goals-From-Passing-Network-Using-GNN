@@ -1,0 +1,24 @@
+Source,Target,Weight
+V. Regini,K. Linetty,3
+M. Silvestre,V. Regini,2
+L. Torreira,N. Murru,2
+K. Linetty,L. Torreira,2
+K. Linetty,N. Murru,2
+N. Murru,G. Caprari,2
+N. Murru,L. Torreira,2
+D. Zapata,G. Caprari,1
+V. Regini,L. Torreira,1
+L. Torreira,D. Zapata,1
+N. Murru,V. Regini,1
+F. Quagliarella,N. Murru,1
+L. Torreira,K. Linetty,1
+G. Caprari,K. Linetty,1
+L. Torreira,D. Praet,1
+K. Linetty,V. Regini,1
+V. Regini,M. Silvestre,1
+L. Torreira,M. Silvestre,1
+G. Caprari,V. Regini,1
+G. Caprari,D. Zapata,1
+K. Linetty,F. Quagliarella,1
+D. Praet,K. Linetty,1
+D. Zapata,F. Quagliarella,1

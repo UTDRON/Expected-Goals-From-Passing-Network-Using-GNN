@@ -1,0 +1,62 @@
+Source,Target,Weight
+David Sim\u00f3n,G\u00e1lvez,6
+Javi Castellano,David Sim\u00f3n,4
+G\u00e1lvez,Javi Castellano,4
+David Garc\u00eda,G\u00e1lvez,4
+Javi Castellano,David Garc\u00eda,3
+Javi Castellano,O. Etebo,3
+Nacho Gil,David Sim\u00f3n,3
+David Sim\u00f3n,Vicente G\u00f3mez,3
+Javi Castellano,G\u00e1lvez,3
+O. Etebo,David Sim\u00f3n,3
+David Sim\u00f3n,Javi Castellano,3
+G\u00e1lvez,H. Toledo,3
+Vicente G\u00f3mez,H. Toledo,2
+J. Calleri,O. Etebo,2
+Jairo Samperio,Vicente G\u00f3mez,2
+G\u00e1lvez,David Sim\u00f3n,2
+O. Etebo,H. Toledo,2
+H. Toledo,Vicente G\u00f3mez,2
+O. Etebo,G\u00e1lvez,2
+David Sim\u00f3n,J. Calleri,2
+H. Toledo,Javi Castellano,2
+Jairo Samperio,O. Etebo,2
+G\u00e1lvez,Vicente G\u00f3mez,2
+Vicente G\u00f3mez,Jairo Samperio,2
+Vicente G\u00f3mez,David Sim\u00f3n,2
+Nacho Gil,O. Etebo,2
+O. Etebo,Nacho Gil,2
+David Sim\u00f3n,Nacho Gil,1
+Vicente G\u00f3mez,Javi Castellano,1
+O. Etebo,Jairo Samperio,1
+H. Toledo,G\u00e1lvez,1
+G\u00e1lvez,J. Calleri,1
+J. Calleri,David Garc\u00eda,1
+Vicente G\u00f3mez,Nacho Gil,1
+H. Toledo,David Garc\u00eda,1
+David Garc\u00eda,Vicente G\u00f3mez,1
+Ra\u00fal Lizo\u00e1in,David Sim\u00f3n,1
+O. Etebo,Javi Castellano,1
+H. Toledo,Nacho Gil,1
+J. Calleri,Jairo Samperio,1
+Vicente G\u00f3mez,O. Etebo,1
+Nacho Gil,Vicente G\u00f3mez,1
+David Garc\u00eda,David Sim\u00f3n,1
+Jairo Samperio,Javi Castellano,1
+G\u00e1lvez,O. Etebo,1
+G\u00e1lvez,Jairo Samperio,1
+J. Calleri,Javi Castellano,1
+G\u00e1lvez,Nacho Gil,1
+Vicente G\u00f3mez,Ra\u00fal Lizo\u00e1in,1
+David Sim\u00f3n,David Garc\u00eda,1
+H. Toledo,David Sim\u00f3n,1
+O. Etebo,David Garc\u00eda,1
+Nacho Gil,Javi Castellano,1
+David Sim\u00f3n,Jairo Samperio,1
+Jairo Samperio,Nacho Gil,1
+Javi Castellano,J. Calleri,1
+Javi Castellano,H. Toledo,1
+David Garc\u00eda,H. Toledo,1
+David Garc\u00eda,Javi Castellano,1
+G\u00e1lvez,David Garc\u00eda,1
+H. Toledo,J. Calleri,1

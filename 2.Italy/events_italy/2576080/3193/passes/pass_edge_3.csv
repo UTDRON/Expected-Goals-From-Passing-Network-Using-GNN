@@ -1,0 +1,24 @@
+Source,Target,Weight
+A. Izzo,N. Spolli,2
+Miguel Veloso,L. Rigoni,2
+A. Rosi,A. Izzo,1
+A. Rosi,G. Pandev,1
+G. Pandev,D. Laxalt,1
+Miguel Veloso,A. Izzo,1
+L. Rigoni,G. Pandev,1
+M. Perin,A. Rosi,1
+A. Izzo,L. Rigoni,1
+N. Spolli,E. Zukanovi\u0107,1
+A. Rosi,A. Bertolacci,1
+A. Taarabt,A. Rosi,1
+A. Bertolacci,A. Rosi,1
+D. Laxalt,Miguel Veloso,1
+E. Zukanovi\u0107,A. Taarabt,1
+L. Rigoni,A. Izzo,1
+A. Bertolacci,Miguel Veloso,1
+G. Pandev,A. Taarabt,1
+D. Laxalt,A. Bertolacci,1
+A. Taarabt,G. Pandev,1
+L. Rigoni,A. Taarabt,1
+A. Taarabt,Miguel Veloso,1
+N. Spolli,M. Perin,1

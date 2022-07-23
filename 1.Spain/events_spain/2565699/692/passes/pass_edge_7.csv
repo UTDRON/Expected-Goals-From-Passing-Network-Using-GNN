@@ -1,0 +1,45 @@
+Source,Target,Weight
+Jonny,E. Mor,6
+Sergi G\u00f3mez,S. Lobotka,5
+S. Lobotka,G. Cabral,4
+G. Cabral,Sergi G\u00f3mez,3
+S. Lobotka,P. Hern\u00e1ndez,3
+G. Cabral,Jonny,2
+N. Radoja,Jonny,2
+Sergi G\u00f3mez,D. Wass,2
+N. Radoja,S. Lobotka,2
+S. Lobotka,Sergi G\u00f3mez,2
+E. Mor,G. Cabral,2
+P. Hern\u00e1ndez,S. Lobotka,2
+S. Lobotka,Jonny,2
+E. Mor,Sergi G\u00f3mez,2
+D. Wass,Sergi G\u00f3mez,1
+D. Wass,G. Cabral,1
+P. Hern\u00e1ndez,E. Mor,1
+Jonny,G. Cabral,1
+E. Mor,Maxi G\u00f3mez,1
+Rub\u00e9n Blanco,P. Hern\u00e1ndez,1
+Sergi G\u00f3mez,G. Cabral,1
+D. Wass,N. Radoja,1
+D. Wass,Rub\u00e9n Blanco,1
+Jonny,N. Radoja,1
+P. Hern\u00e1ndez,D. Wass,1
+Sergi G\u00f3mez,J. Guidetti,1
+J. Guidetti,Maxi G\u00f3mez,1
+Rub\u00e9n Blanco,Sergi G\u00f3mez,1
+J. Guidetti,Jonny,1
+S. Lobotka,D. Wass,1
+G. Cabral,E. Mor,1
+D. Wass,P. Hern\u00e1ndez,1
+Maxi G\u00f3mez,S. Lobotka,1
+G. Cabral,D. Wass,1
+G. Cabral,N. Radoja,1
+Maxi G\u00f3mez,Sergi G\u00f3mez,1
+E. Mor,D. Wass,1
+E. Mor,S. Lobotka,1
+E. Mor,Jonny,1
+Maxi G\u00f3mez,J. Guidetti,1
+D. Wass,Maxi G\u00f3mez,1
+Sergi G\u00f3mez,Rub\u00e9n Blanco,1
+G. Cabral,S. Lobotka,1
+P. Hern\u00e1ndez,Sergi G\u00f3mez,1

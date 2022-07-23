@@ -1,0 +1,55 @@
+Source,Target,Weight
+Thomas,\u00c1. Correa,8
+\u00c1. Correa,Thomas,7
+Koke,Sa\u00fal,5
+Koke,Diego Costa,5
+Sa\u00fal,Koke,4
+Gabi,Thomas,3
+Sa\u00fal,Diego Costa,3
+Diego Costa,Koke,3
+Diego Costa,L. Hern\u00e1ndez,3
+D. God\u00edn,Sa\u00fal,2
+Diego Costa,\u00c1. Correa,2
+L. Hern\u00e1ndez,Diego Costa,2
+S. Savi\u0107,Gabi,2
+Thomas,Koke,2
+L. Hern\u00e1ndez,Koke,2
+Koke,Gabi,2
+L. Hern\u00e1ndez,Sa\u00fal,2
+Gabi,Koke,2
+\u00c1. Correa,L. Hern\u00e1ndez,2
+Sa\u00fal,Thomas,2
+Sa\u00fal,L. Hern\u00e1ndez,2
+Koke,Thomas,2
+Diego Costa,Sa\u00fal,2
+Thomas,Sa\u00fal,1
+\u00c1. Correa,K. Gameiro,1
+\u00c1. Correa,Koke,1
+S. Savi\u0107,L. Hern\u00e1ndez,1
+Sa\u00fal,Gabi,1
+Gabi,\u00c1. Correa,1
+D. God\u00edn,Koke,1
+L. Hern\u00e1ndez,Gabi,1
+J. Oblak,L. Hern\u00e1ndez,1
+Thomas,K. Gameiro,1
+S. Savi\u0107,\u00c1. Correa,1
+Sa\u00fal,\u00c1. Correa,1
+Gabi,D. God\u00edn,1
+L. Hern\u00e1ndez,D. God\u00edn,1
+Koke,Fernando Torres,1
+Thomas,D. God\u00edn,1
+Gabi,K. Gameiro,1
+Fernando Torres,Koke,1
+\u00c1. Correa,S. Savi\u0107,1
+J. Oblak,Fernando Torres,1
+\u00c1. Correa,Gabi,1
+K. Gameiro,Sa\u00fal,1
+Thomas,J. Oblak,1
+K. Gameiro,S. Savi\u0107,1
+L. Hern\u00e1ndez,Thomas,1
+L. Hern\u00e1ndez,J. Oblak,1
+Koke,L. Hern\u00e1ndez,1
+Thomas,Gabi,1
+Thomas,S. Savi\u0107,1
+Diego Costa,S. Savi\u0107,1
+K. Gameiro,Diego Costa,1

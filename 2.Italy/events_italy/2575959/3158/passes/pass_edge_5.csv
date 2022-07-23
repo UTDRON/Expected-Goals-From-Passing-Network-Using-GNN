@@ -1,0 +1,80 @@
+Source,Target,Weight
+A. Kolarov,D. Perotti,9
+A. Kolarov,K. Strootman,6
+D. Perotti,A. Kolarov,6
+Juan Jesus,A. Kolarov,6
+Bruno Peres,G. Defrel,5
+A. Kolarov,Juan Jesus,5
+D. De Rossi,A. Kolarov,5
+Bruno Peres,K. Strootman,5
+E. D\u017eeko,R. Nainggolan,4
+A. Kolarov,R. Nainggolan,4
+D. De Rossi,Bruno Peres,4
+K. Strootman,A. Kolarov,4
+Bruno Peres,E. D\u017eeko,4
+K. Strootman,Bruno Peres,4
+K. Manolas,Bruno Peres,4
+Bruno Peres,K. Manolas,4
+Juan Jesus,Bruno Peres,4
+D. Perotti,Juan Jesus,4
+Bruno Peres,Alisson,3
+D. De Rossi,Juan Jesus,3
+Juan Jesus,D. De Rossi,3
+K. Strootman,D. De Rossi,3
+G. Defrel,Bruno Peres,3
+E. D\u017eeko,Bruno Peres,3
+A. Kolarov,E. D\u017eeko,3
+R. Nainggolan,A. Kolarov,3
+Bruno Peres,D. De Rossi,3
+R. Nainggolan,D. De Rossi,3
+Alisson,A. Kolarov,3
+R. Nainggolan,D. Perotti,3
+R. Nainggolan,E. D\u017eeko,2
+K. Strootman,R. Nainggolan,2
+E. D\u017eeko,K. Strootman,2
+A. Kolarov,D. De Rossi,2
+E. D\u017eeko,D. De Rossi,2
+R. Nainggolan,Bruno Peres,2
+R. Nainggolan,G. Defrel,2
+Bruno Peres,R. Nainggolan,2
+K. Strootman,E. D\u017eeko,2
+G. Defrel,E. D\u017eeko,2
+D. Perotti,E. D\u017eeko,2
+D. De Rossi,D. Perotti,2
+K. Manolas,A. Kolarov,2
+D. Perotti,Bruno Peres,2
+Juan Jesus,R. Nainggolan,2
+K. Manolas,R. Nainggolan,2
+E. D\u017eeko,K. Manolas,2
+R. Nainggolan,Juan Jesus,2
+G. Defrel,Juan Jesus,2
+Alisson,K. Manolas,2
+Juan Jesus,G. Defrel,1
+D. De Rossi,K. Strootman,1
+D. De Rossi,K. Manolas,1
+K. Strootman,K. Manolas,1
+Juan Jesus,Alisson,1
+D. De Rossi,Alisson,1
+D. Perotti,R. Nainggolan,1
+K. Manolas,G. Defrel,1
+Juan Jesus,K. Manolas,1
+G. Defrel,D. De Rossi,1
+K. Manolas,Juan Jesus,1
+Alisson,Juan Jesus,1
+A. Kolarov,Alisson,1
+K. Manolas,K. Strootman,1
+Juan Jesus,E. D\u017eeko,1
+R. Nainggolan,K. Manolas,1
+R. Nainggolan,K. Strootman,1
+K. Manolas,Alisson,1
+E. D\u017eeko,D. Perotti,1
+K. Strootman,Juan Jesus,1
+Alisson,E. D\u017eeko,1
+E. D\u017eeko,A. Kolarov,1
+D. De Rossi,R. Nainggolan,1
+D. Perotti,K. Strootman,1
+Juan Jesus,D. Perotti,1
+A. Kolarov,K. Manolas,1
+E. D\u017eeko,Juan Jesus,1
+G. Defrel,R. Nainggolan,1
+K. Manolas,D. De Rossi,1

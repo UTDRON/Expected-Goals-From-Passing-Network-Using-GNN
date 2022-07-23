@@ -1,0 +1,58 @@
+Source,Target,Weight
+G. Pizarro,\u00c9. Banega,8
+\u00c9. Banega,G. Mercado,6
+\u00c9. Banega,G. Pizarro,6
+F. V\u00e1zquez,\u00c9. Banega,4
+Jes\u00fas Navas,G. Mercado,4
+\u00c9. Banega,L. Carole,4
+G. Pizarro,L. Carole,4
+G. Mercado,Jes\u00fas Navas,4
+G. Pizarro,G. Mercado,4
+C. Lenglet,G. Pizarro,4
+L. Carole,\u00c9. Banega,3
+L. Carole,Nolito,3
+S. Kj\u00e6r,G. Pizarro,3
+G. Pizarro,C. Lenglet,3
+G. Mercado,S. Kj\u00e6r,3
+G. Mercado,\u00c9. Banega,3
+G. Mercado,G. Pizarro,3
+L. Carole,G. Pizarro,3
+S. Kj\u00e6r,\u00c9. Banega,3
+G. Mercado,F. V\u00e1zquez,3
+G. Pizarro,F. V\u00e1zquez,2
+\u00c9. Banega,F. V\u00e1zquez,2
+L. Muriel,C. Lenglet,2
+S. Kj\u00e6r,F. V\u00e1zquez,2
+C. Lenglet,S. Kj\u00e6r,2
+C. Lenglet,Jes\u00fas Navas,1
+Sergio Rico,G. Mercado,1
+Jes\u00fas Navas,L. Muriel,1
+F. V\u00e1zquez,Jes\u00fas Navas,1
+L. Carole,L. Muriel,1
+Nolito,Jes\u00fas Navas,1
+Sergio Rico,C. Lenglet,1
+G. Pizarro,L. Muriel,1
+Jes\u00fas Navas,\u00c9. Banega,1
+L. Muriel,G. Pizarro,1
+\u00c9. Banega,Jes\u00fas Navas,1
+F. V\u00e1zquez,Nolito,1
+F. V\u00e1zquez,L. Carole,1
+Nolito,\u00c9. Banega,1
+\u00c9. Banega,Sergio Rico,1
+F. V\u00e1zquez,S. Kj\u00e6r,1
+\u00c9. Banega,Nolito,1
+F. V\u00e1zquez,C. Lenglet,1
+C. Lenglet,Sergio Rico,1
+G. Pizarro,S. Kj\u00e6r,1
+\u00c9. Banega,C. Lenglet,1
+Nolito,G. Pizarro,1
+F. V\u00e1zquez,G. Mercado,1
+Jes\u00fas Navas,G. Pizarro,1
+L. Muriel,G. Mercado,1
+Nolito,F. V\u00e1zquez,1
+S. Kj\u00e6r,Nolito,1
+L. Muriel,L. Carole,1
+G. Mercado,L. Muriel,1
+Nolito,S. Kj\u00e6r,1
+Nolito,L. Muriel,1
+\u00c9. Banega,S. Kj\u00e6r,1

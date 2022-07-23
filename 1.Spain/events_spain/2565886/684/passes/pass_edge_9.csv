@@ -1,0 +1,71 @@
+Source,Target,Weight
+A. Mandi,Barrag\u00e1n,6
+Barrag\u00e1n,Cristian Tello,5
+Barrag\u00e1n,A. Mandi,5
+Cristian Tello,Barrag\u00e1n,4
+Cristian Tello,Javi Garc\u00eda,4
+Jordi Amat,Javi Garc\u00eda,4
+Bartra,Pedro L\u00f3pez,3
+J. Firpo,Joaqu\u00edn,3
+Joaqu\u00edn,Barrag\u00e1n,3
+A. Mandi,Cristian Tello,3
+Javi Garc\u00eda,A. Mandi,3
+A. Mandi,Bartra,3
+A. Mandi,Joaqu\u00edn,3
+Javi Garc\u00eda,Jordi Amat,3
+Javi Garc\u00eda,Fabi\u00e1n,2
+Barrag\u00e1n,Javi Garc\u00eda,2
+Pedro L\u00f3pez,Loren Mor\u00f3n,2
+Barrag\u00e1n,Bartra,2
+Joaqu\u00edn,A. Mandi,2
+Javi Garc\u00eda,Bartra,2
+Cristian Tello,A. Mandi,2
+Fabi\u00e1n,Loren Mor\u00f3n,2
+Bartra,Jordi Amat,2
+Pedro L\u00f3pez,A. Mandi,2
+Loren Mor\u00f3n,Barrag\u00e1n,2
+Barrag\u00e1n,J. Firpo,2
+Loren Mor\u00f3n,Bartra,2
+Bartra,A. Mandi,2
+Bartra,Loren Mor\u00f3n,2
+Loren Mor\u00f3n,Fabi\u00e1n,2
+Fabi\u00e1n,Cristian Tello,1
+J. Firpo,Cristian Tello,1
+Loren Mor\u00f3n,Joaqu\u00edn,1
+Jordi Amat,J. Firpo,1
+Cristian Tello,Loren Mor\u00f3n,1
+A. Mandi,Loren Mor\u00f3n,1
+Loren Mor\u00f3n,Cristian Tello,1
+Joaqu\u00edn,J. Firpo,1
+Jordi Amat,Cristian Tello,1
+Fabi\u00e1n,A. Mandi,1
+Bartra,Javi Garc\u00eda,1
+Joaqu\u00edn,Cristian Tello,1
+J. Firpo,Fabi\u00e1n,1
+Fabi\u00e1n,Barrag\u00e1n,1
+Jordi Amat,Barrag\u00e1n,1
+Fabi\u00e1n,Joaqu\u00edn,1
+Jordi Amat,A. Mandi,1
+Jordi Amat,Pedro L\u00f3pez,1
+J. Firpo,Jordi Amat,1
+J. Firpo,Bartra,1
+Joaqu\u00edn,Fabi\u00e1n,1
+Cristian Tello,Joaqu\u00edn,1
+A. Mandi,Fabi\u00e1n,1
+Javi Garc\u00eda,J. Firpo,1
+Jordi Amat,Bartra,1
+Fabi\u00e1n,Jordi Amat,1
+Loren Mor\u00f3n,Jordi Amat,1
+Barrag\u00e1n,Pedro L\u00f3pez,1
+Joaqu\u00edn,Loren Mor\u00f3n,1
+Javi Garc\u00eda,Joaqu\u00edn,1
+Joaqu\u00edn,Bartra,1
+Bartra,Fabi\u00e1n,1
+Loren Mor\u00f3n,J. Firpo,1
+Fabi\u00e1n,J. Firpo,1
+Bartra,Barrag\u00e1n,1
+Cristian Tello,J. Firpo,1
+Pedro L\u00f3pez,Jordi Amat,1
+A. Mandi,Javi Garc\u00eda,1
+A. Mandi,Jordi Amat,1
+J. Firpo,Loren Mor\u00f3n,1

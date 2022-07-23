@@ -1,0 +1,63 @@
+Source,Target,Weight
+F. Peluso,Rog\u00e9rio,4
+A. Duncan,Rog\u00e9rio,4
+F. Magnanelli,D. Berardi,4
+F. Magnanelli,F. Peluso,4
+D. Berardi,F. Magnanelli,3
+F. Acerbi,F. Peluso,3
+Rog\u00e9rio,F. Magnanelli,3
+F. Acerbi,M. Lemos,3
+M. Lemos,F. Magnanelli,3
+F. Magnanelli,M. Lemos,3
+Rog\u00e9rio,A. Duncan,3
+M. Lemos,F. Peluso,3
+A. Ragusa,F. Magnanelli,3
+F. Peluso,F. Acerbi,3
+Rog\u00e9rio,F. Peluso,2
+M. Politano,M. Lemos,2
+F. Acerbi,Rog\u00e9rio,2
+M. Politano,K. Babacar,2
+D. Berardi,M. Politano,2
+Rog\u00e9rio,A. Ragusa,2
+S. Missiroli,D. Berardi,2
+M. Lemos,D. Berardi,2
+A. Duncan,M. Politano,2
+F. Peluso,A. Duncan,2
+M. Lemos,M. Politano,2
+D. Berardi,A. Ragusa,2
+K. Babacar,M. Politano,2
+M. Politano,F. Acerbi,2
+M. Lemos,F. Acerbi,2
+K. Babacar,Rog\u00e9rio,1
+S. Missiroli,F. Magnanelli,1
+A. Ragusa,A. Duncan,1
+F. Magnanelli,S. Missiroli,1
+F. Acerbi,A. Consigli,1
+D. Berardi,Rog\u00e9rio,1
+M. Politano,F. Magnanelli,1
+F. Peluso,A. Ragusa,1
+D. Berardi,S. Missiroli,1
+K. Babacar,M. Lemos,1
+A. Ragusa,Rog\u00e9rio,1
+M. Politano,S. Missiroli,1
+A. Duncan,A. Consigli,1
+F. Acerbi,D. Berardi,1
+M. Lemos,A. Duncan,1
+A. Consigli,F. Acerbi,1
+F. Magnanelli,M. Politano,1
+A. Consigli,Rog\u00e9rio,1
+S. Missiroli,M. Lemos,1
+A. Duncan,A. Ragusa,1
+Rog\u00e9rio,S. Missiroli,1
+F. Peluso,M. Lemos,1
+Rog\u00e9rio,F. Acerbi,1
+F. Acerbi,A. Duncan,1
+M. Politano,D. Berardi,1
+D. Berardi,K. Babacar,1
+A. Ragusa,F. Acerbi,1
+F. Peluso,F. Magnanelli,1
+K. Babacar,F. Acerbi,1
+Rog\u00e9rio,K. Babacar,1
+F. Magnanelli,F. Acerbi,1
+Rog\u00e9rio,M. Lemos,1
+F. Magnanelli,K. Babacar,1

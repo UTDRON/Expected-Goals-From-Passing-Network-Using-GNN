@@ -1,0 +1,67 @@
+Source,Target,Weight
+Balenziaga,A. Laporte,9
+San Jos\u00e9,Unai N\u00fa\u00f1ez,6
+Unai N\u00fa\u00f1ez,San Jos\u00e9,6
+Be\u00f1at,A. Laporte,6
+A. Laporte,Balenziaga,6
+A. Laporte,Be\u00f1at,5
+Be\u00f1at,Unai N\u00fa\u00f1ez,5
+De Marcos,San Jos\u00e9,4
+De Marcos,Unai N\u00fa\u00f1ez,4
+A. Laporte,San Jos\u00e9,4
+San Jos\u00e9,Be\u00f1at,4
+Unai N\u00fa\u00f1ez,Balenziaga,3
+Unai N\u00fa\u00f1ez,A. Laporte,3
+A. Laporte,Unai N\u00fa\u00f1ez,3
+Unai N\u00fa\u00f1ez,Susaeta,3
+Balenziaga,Ra\u00fal Garc\u00eda,3
+A. Laporte,Muniain,3
+San Jos\u00e9,A. Laporte,3
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,3
+Ra\u00fal Garc\u00eda,Unai N\u00fa\u00f1ez,2
+Susaeta,De Marcos,2
+Arrizabalaga,Unai N\u00fa\u00f1ez,2
+San Jos\u00e9,Arrizabalaga,2
+San Jos\u00e9,I\u00f1aki Williams,2
+Muniain,Be\u00f1at,2
+Ra\u00fal Garc\u00eda,Muniain,2
+Arrizabalaga,A. Laporte,2
+Muniain,Balenziaga,2
+A. Laporte,De Marcos,2
+A. Laporte,Arrizabalaga,2
+San Jos\u00e9,Susaeta,2
+Be\u00f1at,San Jos\u00e9,2
+Unai N\u00fa\u00f1ez,Be\u00f1at,2
+Unai N\u00fa\u00f1ez,De Marcos,2
+I\u00f1aki Williams,Balenziaga,1
+De Marcos,Balenziaga,1
+Balenziaga,I\u00f1aki Williams,1
+Arrizabalaga,San Jos\u00e9,1
+De Marcos,Be\u00f1at,1
+Ra\u00fal Garc\u00eda,I\u00f1aki Williams,1
+Arrizabalaga,Be\u00f1at,1
+Balenziaga,Be\u00f1at,1
+Be\u00f1at,Balenziaga,1
+I\u00f1aki Williams,De Marcos,1
+Susaeta,San Jos\u00e9,1
+Be\u00f1at,Muniain,1
+Ra\u00fal Garc\u00eda,San Jos\u00e9,1
+Balenziaga,Muniain,1
+Muniain,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,Susaeta,1
+I\u00f1aki Williams,Muniain,1
+Balenziaga,De Marcos,1
+Unai N\u00fa\u00f1ez,Arrizabalaga,1
+Susaeta,Unai N\u00fa\u00f1ez,1
+Ra\u00fal Garc\u00eda,A. Laporte,1
+I\u00f1aki Williams,Be\u00f1at,1
+Susaeta,Muniain,1
+Be\u00f1at,Arrizabalaga,1
+San Jos\u00e9,Balenziaga,1
+Muniain,San Jos\u00e9,1
+San Jos\u00e9,De Marcos,1
+Muniain,A. Laporte,1
+Be\u00f1at,De Marcos,1
+Susaeta,Ra\u00fal Garc\u00eda,1
+Susaeta,Balenziaga,1
+Muniain,Susaeta,1

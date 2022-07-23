@@ -1,0 +1,53 @@
+Source,Target,Weight
+Pedro Le\u00f3n,Ander Capa,4
+Ander Capa,Pedro Le\u00f3n,3
+Arbilla,Pedro Le\u00f3n,3
+Jos\u00e9 \u00c1ngel,Dani Garc\u00eda,2
+Dani Garc\u00eda,Joan Jord\u00e1n,2
+Ramis,Dani Garc\u00eda,2
+Ramis,Arbilla,2
+Dani Garc\u00eda,Arbilla,2
+Joan Jord\u00e1n,Dani Garc\u00eda,2
+Arbilla,Joan Jord\u00e1n,2
+Dani Garc\u00eda,Pedro Le\u00f3n,2
+Joan Jord\u00e1n,Arbilla,1
+Ander Capa,Ramis,1
+Joan Jord\u00e1n,Ramis,1
+M. Dmitrovi\u0107,Dani Garc\u00eda,1
+Dani Garc\u00eda,Kike Garc\u00eda,1
+T. Inui,Jos\u00e9 \u00c1ngel,1
+Arbilla,Dani Garc\u00eda,1
+Ramis,M. Dmitrovi\u0107,1
+Kike Garc\u00eda,Joan Jord\u00e1n,1
+Kike Garc\u00eda,Ramis,1
+Arbilla,T. Inui,1
+Dani Garc\u00eda,G. Escalante,1
+Joan Jord\u00e1n,Jos\u00e9 \u00c1ngel,1
+Ander Capa,Dani Garc\u00eda,1
+G. Escalante,Joan Jord\u00e1n,1
+Pedro Le\u00f3n,T. Inui,1
+Pedro Le\u00f3n,Ramis,1
+Kike Garc\u00eda,T. Inui,1
+Pedro Le\u00f3n,Arbilla,1
+Arbilla,Jos\u00e9 \u00c1ngel,1
+Kike Garc\u00eda,G. Escalante,1
+Arbilla,Ramis,1
+Jos\u00e9 \u00c1ngel,Ander Capa,1
+G. Escalante,Kike Garc\u00eda,1
+Kike Garc\u00eda,Pedro Le\u00f3n,1
+Ander Capa,Kike Garc\u00eda,1
+Ander Capa,G. Escalante,1
+T. Inui,M. Dmitrovi\u0107,1
+M. Dmitrovi\u0107,Jos\u00e9 \u00c1ngel,1
+Ander Capa,Arbilla,1
+Pedro Le\u00f3n,Kike Garc\u00eda,1
+T. Inui,Arbilla,1
+Ramis,Ander Capa,1
+Pedro Le\u00f3n,M. Dmitrovi\u0107,1
+Joan Jord\u00e1n,G. Escalante,1
+G. Escalante,Ramis,1
+Dani Garc\u00eda,Ander Capa,1
+M. Dmitrovi\u0107,Arbilla,1
+G. Escalante,Ander Capa,1
+Ramis,G. Escalante,1
+Jos\u00e9 \u00c1ngel,Ramis,1

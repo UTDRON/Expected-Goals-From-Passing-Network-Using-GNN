@@ -1,0 +1,37 @@
+Source,Target,Weight
+S. Fofana,Danilo,3
+Danilo,J. Stryger Larsen,3
+Samir,Ali Adnan,3
+Ali Adnan,A. Bar\u00e1k,2
+J. Stryger Larsen,A. Bizzarri,2
+Ali Adnan,S. Fofana,2
+A. Bar\u00e1k,Ali Adnan,2
+S. Fofana,Samir,2
+Ali Adnan,J. Jankto,2
+Danilo,V. Behrami,1
+J. Jankto,F. Zampano,1
+V. Behrami,Ali Adnan,1
+A. Bizzarri,Samir,1
+A. Bizzarri,Ali Adnan,1
+F. Zampano,A. Bali\u0107,1
+Samir,A. Bar\u00e1k,1
+J. Jankto,V. Behrami,1
+A. Bali\u0107,F. Zampano,1
+V. Behrami,Danilo,1
+J. Jankto,S. Fofana,1
+F. Zampano,S. Fofana,1
+J. Stryger Larsen,K. Lasagna,1
+Danilo,S. Fofana,1
+Ali Adnan,Samir,1
+Samir,Danilo,1
+A. Bar\u00e1k,J. Stryger Larsen,1
+K. Lasagna,S. Fofana,1
+J. Stryger Larsen,Samir,1
+J. Stryger Larsen,F. Zampano,1
+K. Lasagna,Samir,1
+Danilo,K. Lasagna,1
+F. Zampano,Ali Adnan,1
+Ali Adnan,V. Behrami,1
+Samir,J. Stryger Larsen,1
+V. Behrami,S. Fofana,1
+S. Fofana,J. Jankto,1

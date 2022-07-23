@@ -1,0 +1,128 @@
+Source,Target,Weight
+Be\u00f1at,De Marcos,9
+Be\u00f1at,I\u00f1aki Williams,8
+Be\u00f1at,Muniain,7
+Etxeita,Vesga,7
+De Marcos,Be\u00f1at,6
+I\u00f1aki Williams,Be\u00f1at,6
+Muniain,I\u00f1aki Williams,6
+Unai N\u00fa\u00f1ez,De Marcos,6
+De Marcos,Unai N\u00fa\u00f1ez,6
+De Marcos,Muniain,6
+Muniain,Lekue,5
+I\u00f1aki Williams,De Marcos,5
+Lekue,Unai N\u00fa\u00f1ez,5
+Vesga,Etxeita,5
+Vesga,Muniain,5
+Yeray,Lekue,5
+Muniain,Be\u00f1at,5
+Muniain,Vesga,4
+Yeray,Etxeita,4
+I\u00f1igo C\u00f3rdoba,Iturraspe,4
+Be\u00f1at,Unai N\u00fa\u00f1ez,4
+De Marcos,I\u00f1aki Williams,4
+De Marcos,Yeray,4
+Yeray,De Marcos,4
+Unai N\u00fa\u00f1ez,Arrizabalaga,4
+Iturraspe,Be\u00f1at,4
+Unai N\u00fa\u00f1ez,Yeray,4
+Muniain,De Marcos,4
+Lekue,Be\u00f1at,3
+Vesga,Yeray,3
+I\u00f1aki Williams,Yeray,3
+Etxeita,Lekue,3
+Aduriz,Muniain,3
+Lekue,Muniain,3
+Vesga,Be\u00f1at,3
+Yeray,Muniain,3
+Iturraspe,Lekue,3
+Be\u00f1at,Yeray,3
+Arrizabalaga,Unai N\u00fa\u00f1ez,3
+Lekue,Vesga,3
+I\u00f1aki Williams,Lekue,3
+Lekue,I\u00f1igo C\u00f3rdoba,3
+Unai N\u00fa\u00f1ez,Be\u00f1at,3
+Yeray,I\u00f1aki Williams,2
+Arrizabalaga,Aduriz,2
+Sabin Merino,Muniain,2
+Yeray,Vesga,2
+De Marcos,Vesga,2
+Muniain,Sabin Merino,2
+Sabin Merino,De Marcos,2
+I\u00f1aki Williams,Aduriz,2
+Etxeita,Arrizabalaga,2
+De Marcos,Sabin Merino,2
+Lekue,Yeray,2
+Lekue,Etxeita,2
+I\u00f1igo C\u00f3rdoba,Lekue,2
+Muniain,Yeray,2
+I\u00f1aki Williams,Muniain,2
+Unai N\u00fa\u00f1ez,I\u00f1igo C\u00f3rdoba,2
+Muniain,Iturraspe,2
+Yeray,Iturraspe,2
+Yeray,Unai N\u00fa\u00f1ez,2
+Arrizabalaga,Lekue,2
+Etxeita,Yeray,2
+Yeray,Arrizabalaga,2
+Iturraspe,I\u00f1igo C\u00f3rdoba,2
+Unai N\u00fa\u00f1ez,Muniain,2
+Yeray,Be\u00f1at,2
+Aduriz,Etxeita,2
+Lekue,Arrizabalaga,2
+Vesga,I\u00f1aki Williams,2
+I\u00f1igo C\u00f3rdoba,Arrizabalaga,2
+Iturraspe,Yeray,2
+Arrizabalaga,Vesga,2
+De Marcos,Iturraspe,2
+Aduriz,Be\u00f1at,2
+I\u00f1igo C\u00f3rdoba,I\u00f1aki Williams,2
+Be\u00f1at,Etxeita,2
+Arrizabalaga,I\u00f1igo C\u00f3rdoba,1
+Unai N\u00fa\u00f1ez,Lekue,1
+Vesga,Arrizabalaga,1
+Unai N\u00fa\u00f1ez,Vesga,1
+Aduriz,Yeray,1
+Vesga,Lekue,1
+De Marcos,Arrizabalaga,1
+De Marcos,Aduriz,1
+I\u00f1aki Williams,Etxeita,1
+I\u00f1igo C\u00f3rdoba,Be\u00f1at,1
+Muniain,I\u00f1igo C\u00f3rdoba,1
+De Marcos,I\u00f1igo C\u00f3rdoba,1
+Aduriz,I\u00f1aki Williams,1
+Be\u00f1at,I\u00f1igo C\u00f3rdoba,1
+Lekue,Aduriz,1
+Etxeita,Aduriz,1
+I\u00f1igo C\u00f3rdoba,De Marcos,1
+Unai N\u00fa\u00f1ez,Aduriz,1
+Vesga,Unai N\u00fa\u00f1ez,1
+Unai N\u00fa\u00f1ez,Etxeita,1
+Unai N\u00fa\u00f1ez,Iturraspe,1
+Arrizabalaga,Yeray,1
+Be\u00f1at,Iturraspe,1
+Etxeita,Unai N\u00fa\u00f1ez,1
+Be\u00f1at,Vesga,1
+Aduriz,Unai N\u00fa\u00f1ez,1
+Lekue,Iturraspe,1
+I\u00f1aki Williams,Vesga,1
+Vesga,Aduriz,1
+Iturraspe,Sabin Merino,1
+Iturraspe,De Marcos,1
+Sabin Merino,Yeray,1
+Muniain,Aduriz,1
+Arrizabalaga,Iturraspe,1
+Arrizabalaga,I\u00f1aki Williams,1
+I\u00f1aki Williams,Unai N\u00fa\u00f1ez,1
+Muniain,Etxeita,1
+Vesga,De Marcos,1
+Aduriz,Lekue,1
+Lekue,De Marcos,1
+Iturraspe,Unai N\u00fa\u00f1ez,1
+Arrizabalaga,Be\u00f1at,1
+Arrizabalaga,De Marcos,1
+Muniain,Unai N\u00fa\u00f1ez,1
+Etxeita,Muniain,1
+I\u00f1aki Williams,Arrizabalaga,1
+Etxeita,Be\u00f1at,1
+Be\u00f1at,Aduriz,1
+I\u00f1aki Williams,I\u00f1igo C\u00f3rdoba,1

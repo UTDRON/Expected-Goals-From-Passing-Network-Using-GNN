@@ -1,0 +1,59 @@
+Source,Target,Weight
+B. Djimsiti,N. Viola,4
+L. Sparandeo,B. Djimsiti,4
+B. Djimsiti,V. Parigini,4
+N. Viola,B. Gyamfi,3
+Sandro,N. Viola,3
+B. Gyamfi,L. Sparandeo,3
+N. Viola,B. Djimsiti,3
+B. Sagna,N. Viola,3
+N. Viola,B. Sagna,3
+C. Puggioni,B. Sagna,2
+Sandro,B. Gyamfi,2
+N. Viola,L. Sparandeo,2
+V. Parigini,L. Sparandeo,2
+L. Sparandeo,C. Puggioni,2
+L. Del Pinto,B. Djimsiti,2
+B. Gyamfi,Sandro,2
+L. Sparandeo,N. Viola,2
+L. Del Pinto,Sandro,2
+N. Viola,C. Diabat\u00e9,2
+Sandro,C. Diabat\u00e9,1
+B. Gyamfi,L. Del Pinto,1
+N. Viola,L. Del Pinto,1
+C. Diabat\u00e9,L. Sparandeo,1
+C. Puggioni,B. Djimsiti,1
+L. Del Pinto,N. Viola,1
+P. Iemmello,B. Djimsiti,1
+Sandro,L. Del Pinto,1
+C. Diabat\u00e9,L. Del Pinto,1
+B. Gyamfi,C. Puggioni,1
+C. Diabat\u00e9,P. Iemmello,1
+Sandro,B. Sagna,1
+L. Del Pinto,V. Parigini,1
+C. Diabat\u00e9,N. Viola,1
+P. Iemmello,B. Gyamfi,1
+L. Sparandeo,B. Sagna,1
+L. Venuti,Sandro,1
+L. Sparandeo,L. Venuti,1
+B. Sagna,B. Gyamfi,1
+M. Coda,C. Diabat\u00e9,1
+B. Sagna,M. Coda,1
+P. Iemmello,C. Puggioni,1
+V. Parigini,B. Gyamfi,1
+B. Sagna,L. Sparandeo,1
+Sandro,P. Iemmello,1
+C. Diabat\u00e9,B. Sagna,1
+B. Djimsiti,B. Gyamfi,1
+B. Djimsiti,M. Coda,1
+B. Sagna,C. Diabat\u00e9,1
+B. Sagna,L. Del Pinto,1
+B. Gyamfi,N. Viola,1
+C. Puggioni,L. Sparandeo,1
+V. Parigini,L. Del Pinto,1
+B. Djimsiti,Sandro,1
+C. Diabat\u00e9,Sandro,1
+N. Viola,Sandro,1
+B. Gyamfi,C. Diabat\u00e9,1
+N. Viola,P. Iemmello,1
+M. Coda,Sandro,1

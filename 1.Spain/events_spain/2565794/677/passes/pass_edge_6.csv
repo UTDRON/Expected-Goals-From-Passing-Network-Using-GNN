@@ -1,0 +1,74 @@
+Source,Target,Weight
+Luisinho,B\u00f3veda,6
+Adri\u00e1n L\u00f3pez,Luisinho,4
+Juanfran,F. Sch\u00e4r,4
+Juanfran,Guilherme,4
+F. Sch\u00e4r,B\u00f3veda,4
+F. Sch\u00e4r,Juanfran,4
+F. Andone,Juanfran,4
+B\u00f3veda,Juanfran,4
+Fede Cartabia,Luisinho,3
+Pedro Mosquera,Luisinho,3
+Lucas P\u00e9rez,Pedro Mosquera,3
+Pedro Mosquera,F. Andone,3
+Rub\u00e9n,Adri\u00e1n L\u00f3pez,3
+Pedro Mosquera,B\u00f3veda,3
+Juanfran,F. Andone,3
+Guilherme,Fede Cartabia,3
+Juanfran,Lucas P\u00e9rez,3
+B\u00f3veda,Lucas P\u00e9rez,2
+Luisinho,Adri\u00e1n L\u00f3pez,2
+Luisinho,F. Sch\u00e4r,2
+Guilherme,Luisinho,2
+Adri\u00e1n L\u00f3pez,Guilherme,2
+Fede Cartabia,Pedro Mosquera,2
+Lucas P\u00e9rez,Juanfran,2
+Fede Cartabia,B\u00f3veda,2
+Guilherme,Juanfran,2
+Lucas P\u00e9rez,F. Sch\u00e4r,2
+F. Sch\u00e4r,Guilherme,2
+B\u00f3veda,F. Sch\u00e4r,2
+B\u00f3veda,Guilherme,2
+Adri\u00e1n L\u00f3pez,Lucas P\u00e9rez,2
+Luisinho,Fede Cartabia,2
+Juanfran,Pedro Mosquera,2
+Guilherme,Pedro Mosquera,2
+B\u00f3veda,Pedro Mosquera,2
+Fede Cartabia,Adri\u00e1n L\u00f3pez,2
+F. Sch\u00e4r,Lucas P\u00e9rez,1
+Pedro Mosquera,Juanfran,1
+F. Andone,Adri\u00e1n L\u00f3pez,1
+Guilherme,Lucas P\u00e9rez,1
+B\u00f3veda,Luisinho,1
+Luisinho,Pedro Mosquera,1
+Guilherme,Rub\u00e9n,1
+Guilherme,F. Sch\u00e4r,1
+B\u00f3veda,Adri\u00e1n L\u00f3pez,1
+Fede Cartabia,F. Sch\u00e4r,1
+Juanfran,Fede Cartabia,1
+Juanfran,Adri\u00e1n L\u00f3pez,1
+F. Sch\u00e4r,Pedro Mosquera,1
+Lucas P\u00e9rez,Adri\u00e1n L\u00f3pez,1
+Lucas P\u00e9rez,F. Andone,1
+Pedro Mosquera,Adri\u00e1n L\u00f3pez,1
+F. Andone,Lucas P\u00e9rez,1
+Lucas P\u00e9rez,Luisinho,1
+F. Andone,Guilherme,1
+F. Andone,Luisinho,1
+Lucas P\u00e9rez,Guilherme,1
+F. Sch\u00e4r,Luisinho,1
+Luisinho,Juanfran,1
+Luisinho,Guilherme,1
+Adri\u00e1n L\u00f3pez,Juanfran,1
+Pedro Mosquera,Rub\u00e9n,1
+Guilherme,F. Andone,1
+Pedro Mosquera,Lucas P\u00e9rez,1
+B\u00f3veda,Fede Cartabia,1
+Luisinho,Lucas P\u00e9rez,1
+Lucas P\u00e9rez,Fede Cartabia,1
+Adri\u00e1n L\u00f3pez,F. Andone,1
+Pedro Mosquera,Fede Cartabia,1
+Pedro Mosquera,F. Sch\u00e4r,1
+Adri\u00e1n L\u00f3pez,Pedro Mosquera,1
+Juanfran,Rub\u00e9n,1
+Adri\u00e1n L\u00f3pez,Fede Cartabia,1

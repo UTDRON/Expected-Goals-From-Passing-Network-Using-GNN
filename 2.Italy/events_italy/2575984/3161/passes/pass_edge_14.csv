@@ -1,0 +1,23 @@
+Source,Target,Weight
+M. \u0160kriniar,D. D'Ambrosio,3
+M. Vecino,M. Brozovi\u0107,2
+D. D'Ambrosio,M. \u0160kriniar,2
+D. D'Ambrosio,M. Vecino,2
+S. Handanovi\u010d,M. \u0160kriniar,2
+S. Handanovi\u010d,M. Vecino,1
+A. Candreva,R. Gagliardini,1
+M. Brozovi\u0107,M. Icardi,1
+M. Vecino,A. Candreva,1
+R. Gagliardini,M. Brozovi\u0107,1
+M. Icardi,D. D'Ambrosio,1
+M. Vecino,S. Handanovi\u010d,1
+M. Brozovi\u0107,Dalbert,1
+R. Gagliardini,M. Vecino,1
+D. D'Ambrosio,I. Peri\u0161i\u0107,1
+M. Vecino,R. Gagliardini,1
+M. Brozovi\u0107,D. D'Ambrosio,1
+Dalbert,I. Peri\u0161i\u0107,1
+R. Gagliardini,Dalbert,1
+M. \u0160kriniar,S. Handanovi\u010d,1
+I. Peri\u0161i\u0107,S. Handanovi\u010d,1
+Dalbert,R. Gagliardini,1

@@ -1,0 +1,71 @@
+Source,Target,Weight
+N. Viola,A. Costa,6
+A. Ciciretti,G. Letizia,5
+A. Costa,N. Viola,4
+L. Antei,A. Brignoli,4
+A. Costa,L. Antei,4
+M. D'Alessandro,D. Cataldi,4
+G. Letizia,A. Ciciretti,4
+D. Cataldi,N. Viola,4
+N. Viola,M. D'Alessandro,3
+R. Chibsah,G. Letizia,3
+L. Antei,A. Costa,3
+A. Brignoli,A. Costa,3
+S. Armenteros,D. Cataldi,3
+D. Cataldi,G. Letizia,3
+G. Di Chiara,R. Chibsah,2
+R. Chibsah,G. Di Chiara,2
+L. Antei,A. Ciciretti,2
+A. Costa,G. Letizia,2
+S. Armenteros,R. Chibsah,2
+D. Cataldi,G. Di Chiara,2
+G. Letizia,L. Antei,2
+D. Cataldi,S. Armenteros,2
+N. Viola,D. Cataldi,2
+R. Chibsah,S. Armenteros,2
+S. Armenteros,L. Antei,2
+G. Letizia,S. Armenteros,2
+G. Di Chiara,M. D'Alessandro,2
+M. D'Alessandro,A. Costa,2
+A. Costa,G. Di Chiara,2
+L. Antei,N. Viola,2
+G. Letizia,N. Viola,2
+D. Cataldi,R. Chibsah,2
+A. Costa,D. Cataldi,2
+M. D'Alessandro,S. Armenteros,1
+S. Armenteros,N. Viola,1
+A. Brignoli,M. D'Alessandro,1
+A. Brignoli,G. Di Chiara,1
+R. Chibsah,L. Antei,1
+G. Letizia,G. Di Chiara,1
+A. Ciciretti,S. Armenteros,1
+S. Armenteros,G. Letizia,1
+G. Di Chiara,A. Costa,1
+D. Cataldi,A. Ciciretti,1
+G. Di Chiara,L. Antei,1
+G. Letizia,D. Cataldi,1
+L. Antei,R. Chibsah,1
+G. Letizia,A. Costa,1
+N. Viola,A. Ciciretti,1
+G. Di Chiara,S. Armenteros,1
+N. Viola,G. Letizia,1
+A. Costa,S. Armenteros,1
+A. Costa,M. D'Alessandro,1
+G. Letizia,A. Brignoli,1
+A. Ciciretti,D. Cataldi,1
+A. Ciciretti,R. Chibsah,1
+N. Viola,L. Antei,1
+A. Costa,R. Chibsah,1
+S. Armenteros,A. Costa,1
+A. Brignoli,L. Antei,1
+A. Ciciretti,N. Viola,1
+A. Costa,A. Brignoli,1
+N. Viola,S. Armenteros,1
+M. D'Alessandro,A. Ciciretti,1
+R. Chibsah,N. Viola,1
+G. Di Chiara,D. Cataldi,1
+N. Viola,R. Chibsah,1
+R. Chibsah,A. Costa,1
+G. Letizia,R. Chibsah,1
+G. Di Chiara,N. Viola,1
+S. Armenteros,M. D'Alessandro,1

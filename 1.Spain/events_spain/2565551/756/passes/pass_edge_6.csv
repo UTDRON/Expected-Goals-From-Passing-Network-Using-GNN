@@ -1,0 +1,85 @@
+Source,Target,Weight
+Aday,Borja Garc\u00eda,11
+Borja Garc\u00eda,\u00c1lex Granell,10
+Borja Garc\u00eda,Aday,8
+Pablo Maffeo,Pedro Alcal\u00e1,7
+Muniesa,Aday,6
+Muniesa,Borja Garc\u00eda,6
+\u00c1lex Granell,Muniesa,6
+Aday,Muniesa,6
+\u00c1lex Granell,Borja Garc\u00eda,6
+Borja Garc\u00eda,C. Stuani,5
+Borja Garc\u00eda,Pere Pons,4
+Pere Pons,Borja Garc\u00eda,4
+Pedro Alcal\u00e1,Bernardo Espinosa,4
+Aday,\u00c1lex Granell,4
+Muniesa,\u00c1lex Granell,4
+Pedro Alcal\u00e1,Pablo Maffeo,4
+Borja Garc\u00eda,Muniesa,4
+Pere Pons,Pedro Alcal\u00e1,3
+\u00c1lex Granell,Pedro Alcal\u00e1,3
+\u00c1lex Granell,Aday,3
+\u00c1lex Granell,Pere Pons,3
+C. Stuani,Pablo Maffeo,3
+Bernardo Espinosa,Pere Pons,3
+Portu,Pablo Maffeo,3
+Bernardo Espinosa,Muniesa,3
+C. Stuani,Borja Garc\u00eda,3
+\u00c1lex Granell,Bernardo Espinosa,3
+Borja Garc\u00eda,Pedro Alcal\u00e1,3
+\u00c1lex Granell,Pablo Maffeo,3
+Muniesa,Pablo Maffeo,3
+Bernardo Espinosa,\u00c1lex Granell,3
+Pablo Maffeo,Aday,3
+Pere Pons,\u00c1lex Granell,3
+Pedro Alcal\u00e1,\u00c1lex Granell,3
+C. Stuani,Muniesa,2
+Pablo Maffeo,Muniesa,2
+Pedro Alcal\u00e1,Aday,2
+Pablo Maffeo,Borja Garc\u00eda,2
+Aday,C. Stuani,2
+Iraizoz,Pablo Maffeo,2
+Muniesa,Bernardo Espinosa,2
+Pablo Maffeo,\u00c1lex Granell,2
+C. Stuani,Aday,2
+Pablo Maffeo,C. Stuani,2
+Pedro Alcal\u00e1,Iraizoz,2
+Pedro Alcal\u00e1,Pere Pons,2
+Iraizoz,Borja Garc\u00eda,2
+Portu,Muniesa,2
+Pere Pons,Bernardo Espinosa,2
+Muniesa,C. Stuani,2
+Muniesa,Pedro Alcal\u00e1,2
+Pere Pons,Muniesa,2
+Iraizoz,Muniesa,1
+Bernardo Espinosa,Aday,1
+Borja Garc\u00eda,Pablo Maffeo,1
+Bernardo Espinosa,Iraizoz,1
+Pedro Alcal\u00e1,Muniesa,1
+Muniesa,Pere Pons,1
+C. Stuani,Portu,1
+Bernardo Espinosa,Borja Garc\u00eda,1
+Borja Garc\u00eda,Bernardo Espinosa,1
+Pedro Alcal\u00e1,Borja Garc\u00eda,1
+Muniesa,Portu,1
+Pedro Alcal\u00e1,Portu,1
+Portu,Bernardo Espinosa,1
+C. Stuani,Iraizoz,1
+Aday,Portu,1
+C. Stuani,Bernardo Espinosa,1
+Aday,Pere Pons,1
+\u00c1lex Granell,Iraizoz,1
+Bernardo Espinosa,C. Stuani,1
+Pablo Maffeo,Portu,1
+Pere Pons,Aday,1
+Iraizoz,C. Stuani,1
+Muniesa,Iraizoz,1
+Pere Pons,Pablo Maffeo,1
+Pablo Maffeo,Pere Pons,1
+C. Stuani,Pere Pons,1
+Portu,Pedro Alcal\u00e1,1
+Aday,Pedro Alcal\u00e1,1
+Pere Pons,Portu,1
+\u00c1lex Granell,Portu,1
+Pedro Alcal\u00e1,C. Stuani,1
+Bernardo Espinosa,Pedro Alcal\u00e1,1

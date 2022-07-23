@@ -1,0 +1,23 @@
+Source,Target,Weight
+M. Bani,F. Cacciatore,2
+N. Tomovi\u0107,P. Hetemaj,2
+P. Hetemaj,P. Jaroszy\u0144ski,2
+M. Bani,P. Jaroszy\u0144ski,1
+F. Cacciatore,E. Giaccherini,1
+P. Jaroszy\u0144ski,M. Pucciarelli,1
+N. Tomovi\u0107,M. Bani,1
+N. Tomovi\u0107,S. Sorrentino,1
+P. Jaroszy\u0144ski,N. Tomovi\u0107,1
+M. Pucciarelli,P. Hetemaj,1
+P. Jaroszy\u0144ski,E. Giaccherini,1
+P. Hetemaj,N. Tomovi\u0107,1
+E. Giaccherini,M. Bani,1
+P. Jaroszy\u0144ski,R. Inglese,1
+E. Giaccherini,F. Cacciatore,1
+M. Bani,N. Tomovi\u0107,1
+P. Hetemaj,R. Inglese,1
+P. Hetemaj,M. Bani,1
+F. Cacciatore,M. Bani,1
+S. Sorrentino,P. Hetemaj,1
+R. Inglese,P. Jaroszy\u0144ski,1
+F. Cacciatore,N. Tomovi\u0107,1

@@ -1,0 +1,24 @@
+Source,Target,Weight
+F. Magnanelli,S. Sensi,2
+T. Letschert,F. Magnanelli,2
+A. Matri,S. Sensi,2
+P. Cannavaro,T. Letschert,2
+A. Consigli,T. Letschert,1
+F. Magnanelli,A. Duncan,1
+S. Sensi,A. Consigli,1
+A. Consigli,P. Cannavaro,1
+F. Acerbi,C. Adjapong,1
+T. Letschert,A. Consigli,1
+A. Consigli,S. Missiroli,1
+A. Duncan,P. Cannavaro,1
+P. Cannavaro,A. Consigli,1
+C. Adjapong,A. Matri,1
+S. Sensi,A. Duncan,1
+S. Missiroli,Pol Lirola,1
+A. Duncan,A. Matri,1
+F. Acerbi,P. Cannavaro,1
+A. Matri,F. Acerbi,1
+F. Magnanelli,F. Acerbi,1
+Pol Lirola,A. Matri,1
+F. Acerbi,F. Magnanelli,1
+S. Sensi,F. Acerbi,1

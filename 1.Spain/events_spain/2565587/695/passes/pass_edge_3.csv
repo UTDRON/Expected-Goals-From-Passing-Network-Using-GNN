@@ -1,0 +1,65 @@
+Source,Target,Weight
+Jason,Pedro L\u00f3pez,5
+Pedro L\u00f3pez,E. Bardhi,4
+J. Lerma,Campa\u00f1a,4
+To\u00f1o,E. Bardhi,4
+To\u00f1o,Ivi,4
+E. Bardhi,To\u00f1o,3
+Campa\u00f1a,Pedro L\u00f3pez,3
+J. Lerma,To\u00f1o,3
+Campa\u00f1a,Jason,3
+Pedro L\u00f3pez,J. Lerma,3
+J. Lerma,\u00c1lex Alegr\u00eda,2
+Ivi,Chema,2
+Campa\u00f1a,Sergio Postigo,2
+E. Bardhi,Jason,2
+E. Bardhi,Ivi,2
+Chema,Sergio Postigo,2
+To\u00f1o,Chema,2
+Pedro L\u00f3pez,Campa\u00f1a,2
+J. Lerma,Pedro L\u00f3pez,2
+Pedro L\u00f3pez,Jason,2
+Ivi,J. Lerma,2
+\u00c1lex Alegr\u00eda,J. Lerma,2
+E. Bardhi,Pedro L\u00f3pez,2
+Sergio Postigo,J. Lerma,2
+To\u00f1o,Sergio Postigo,1
+Ivi,Campa\u00f1a,1
+E. Bardhi,Chema,1
+Chema,Ivi,1
+Sergio Postigo,\u00c1lex Alegr\u00eda,1
+Jason,Campa\u00f1a,1
+Ra\u00fal Fern\u00e1ndez,Jason,1
+Sergio Postigo,E. Bardhi,1
+Ra\u00fal Fern\u00e1ndez,To\u00f1o,1
+Ivi,Sergio Postigo,1
+J. Lerma,E. Bardhi,1
+E. Bardhi,J. Lerma,1
+Jason,Chema,1
+Chema,Pedro L\u00f3pez,1
+Campa\u00f1a,Ivi,1
+\u00c1lex Alegr\u00eda,Sergio Postigo,1
+Jason,\u00c1lex Alegr\u00eda,1
+\u00c1lex Alegr\u00eda,Jason,1
+Pedro L\u00f3pez,Chema,1
+Ivi,To\u00f1o,1
+Campa\u00f1a,E. Bardhi,1
+Chema,Ra\u00fal Fern\u00e1ndez,1
+Pedro L\u00f3pez,\u00c1lex Alegr\u00eda,1
+Sergio Postigo,To\u00f1o,1
+Ivi,E. Bardhi,1
+Campa\u00f1a,\u00c1lex Alegr\u00eda,1
+Chema,\u00c1lex Alegr\u00eda,1
+Ra\u00fal Fern\u00e1ndez,Chema,1
+Sergio Postigo,Ra\u00fal Fern\u00e1ndez,1
+\u00c1lex Alegr\u00eda,Campa\u00f1a,1
+Chema,Campa\u00f1a,1
+Pedro L\u00f3pez,Ra\u00fal Fern\u00e1ndez,1
+Chema,To\u00f1o,1
+E. Bardhi,Campa\u00f1a,1
+\u00c1lex Alegr\u00eda,E. Bardhi,1
+\u00c1lex Alegr\u00eda,To\u00f1o,1
+Campa\u00f1a,J. Lerma,1
+To\u00f1o,J. Lerma,1
+Sergio Postigo,Campa\u00f1a,1
+Jason,To\u00f1o,1

@@ -1,0 +1,14 @@
+Source,Target,Weight
+L. Venuti,A. Brignoli,1
+V. Parigini,S. Armenteros,1
+A. Brignoli,S. Armenteros,1
+N. Viola,L. Venuti,1
+L. Venuti,L. Antei,1
+S. Armenteros,N. Viola,1
+A. Ciciretti,L. Venuti,1
+S. Armenteros,L. Antei,1
+L. Antei,A. Ciciretti,1
+A. Brignoli,N. Viola,1
+L. Antei,A. Brignoli,1
+N. Viola,G. Di Chiara,1
+G. Di Chiara,V. Parigini,1

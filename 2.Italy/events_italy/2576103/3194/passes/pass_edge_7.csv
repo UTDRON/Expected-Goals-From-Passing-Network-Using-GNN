@@ -1,0 +1,98 @@
+Source,Target,Weight
+A. Caracciolo,S. Souprayen,11
+S. Souprayen,M. B\u00fcchel,9
+M. B\u00fcchel,S. Souprayen,8
+A. Ferrari,R\u00f4mulo,7
+R\u00f4mulo,D. Verde,6
+M. B\u00fcchel,B. Zuculini,6
+S. Souprayen,A. Caracciolo,6
+A. Caracciolo,A. Ferrari,6
+D. Verde,R\u00f4mulo,5
+S. Souprayen,M. Valoti,5
+B. Zuculini,D. Verde,5
+A. Ferrari,A. Caracciolo,5
+B. Zuculini,M. B\u00fcchel,5
+M. Valoti,M. B\u00fcchel,4
+D. Verde,M. B\u00fcchel,4
+M. B\u00fcchel,A. Ferrari,4
+Daniel Bessa,A. Ferrari,4
+S. Souprayen,Daniel Bessa,4
+S. Souprayen,B. Zuculini,4
+Daniel Bessa,A. Caracciolo,3
+M. B\u00fcchel,D. Verde,3
+R\u00f4mulo,A. Cerci,3
+R\u00f4mulo,B. Zuculini,3
+D. Verde,B. Zuculini,3
+A. Ferrari,S. Souprayen,3
+D. Verde,A. Cerci,3
+M. B\u00fcchel,Daniel Bessa,3
+Daniel Bessa,M. B\u00fcchel,3
+B. Zuculini,A. Cerci,3
+M. B\u00fcchel,M. Valoti,3
+A. Cerci,D. Verde,3
+M. Valoti,S. Souprayen,3
+A. Ferrari,Daniel Bessa,3
+M. Valoti,R\u00f4mulo,3
+Nicolas,M. Valoti,3
+B. Zuculini,A. Ferrari,3
+D. Verde,Daniel Bessa,3
+Daniel Bessa,D. Verde,3
+R\u00f4mulo,A. Ferrari,3
+A. Caracciolo,M. B\u00fcchel,3
+M. Valoti,Daniel Bessa,3
+A. Ferrari,M. B\u00fcchel,3
+A. Caracciolo,Nicolas,3
+B. Zuculini,M. Valoti,2
+S. Souprayen,A. Ferrari,2
+A. Cerci,A. Caracciolo,2
+M. Kean,D. Verde,2
+Nicolas,S. Souprayen,2
+Daniel Bessa,M. Valoti,2
+D. Verde,M. Kean,2
+B. Zuculini,A. Caracciolo,2
+D. Verde,S. Souprayen,2
+R\u00f4mulo,A. Caracciolo,2
+M. Kean,M. Valoti,2
+Daniel Bessa,R\u00f4mulo,2
+M. Valoti,A. Caracciolo,2
+R\u00f4mulo,S. Souprayen,2
+M. B\u00fcchel,R\u00f4mulo,2
+A. Cerci,B. Zuculini,2
+R\u00f4mulo,Daniel Bessa,2
+Daniel Bessa,B. Zuculini,2
+M. B\u00fcchel,Nicolas,2
+A. Ferrari,Nicolas,2
+M. Valoti,B. Zuculini,1
+S. Souprayen,A. Cerci,1
+M. Valoti,A. Ferrari,1
+M. Kean,A. Ferrari,1
+M. B\u00fcchel,A. Caracciolo,1
+S. Souprayen,M. Kean,1
+Nicolas,A. Ferrari,1
+A. Ferrari,B. Zuculini,1
+A. Ferrari,M. Kean,1
+D. Verde,A. Caracciolo,1
+D. Verde,M. Valoti,1
+B. Zuculini,R\u00f4mulo,1
+Nicolas,A. Caracciolo,1
+Nicolas,R\u00f4mulo,1
+A. Cerci,S. Souprayen,1
+S. Souprayen,D. Verde,1
+A. Cerci,M. Valoti,1
+R\u00f4mulo,Nicolas,1
+M. B\u00fcchel,A. Cerci,1
+B. Zuculini,Nicolas,1
+A. Caracciolo,A. Cerci,1
+Nicolas,M. B\u00fcchel,1
+Nicolas,M. Kean,1
+A. Caracciolo,Daniel Bessa,1
+A. Cerci,R\u00f4mulo,1
+A. Cerci,Daniel Bessa,1
+D. Verde,A. Ferrari,1
+M. Kean,Nicolas,1
+A. Cerci,M. B\u00fcchel,1
+Daniel Bessa,S. Souprayen,1
+M. Valoti,D. Verde,1
+M. B\u00fcchel,M. Kean,1
+A. Ferrari,D. Verde,1
+M. Valoti,M. Kean,1

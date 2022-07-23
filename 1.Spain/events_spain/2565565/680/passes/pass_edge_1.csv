@@ -1,0 +1,69 @@
+Source,Target,Weight
+N. Pareja,G. Mercado,5
+G. Pizarro,Ganso,4
+G. Pizarro,M. Krohn-Dehli,4
+S. Kj\u00e6r,N. Pareja,4
+S. Kj\u00e6r,Sergio Escudero,4
+Sergio Escudero,S. Kj\u00e6r,4
+G. Mercado,N. Pareja,4
+W. Ben Yedder,Ganso,4
+N. Pareja,S. Kj\u00e6r,4
+Ganso,G. Mercado,3
+M. Krohn-Dehli,S. Kj\u00e6r,3
+G. Pizarro,Sergio Escudero,3
+Sergio Escudero,G. Pizarro,3
+Nolito,M. Krohn-Dehli,3
+M. Krohn-Dehli,Sergio Escudero,3
+Ganso,G. Pizarro,3
+M. Krohn-Dehli,G. Mercado,3
+Sergio Escudero,Nolito,3
+Ganso,Nolito,3
+S. Kj\u00e6r,G. Pizarro,3
+N. Pareja,M. Krohn-Dehli,3
+M. Krohn-Dehli,Ganso,3
+Ganso,W. Ben Yedder,3
+G. Mercado,Ganso,3
+N. Pareja,Sergio Rico,2
+Ganso,Sergio Escudero,2
+G. Mercado,Jes\u00fas Navas,2
+S. Kj\u00e6r,Nolito,2
+Jes\u00fas Navas,N. Pareja,2
+Jes\u00fas Navas,Nolito,2
+M. Krohn-Dehli,Nolito,2
+G. Mercado,M. Krohn-Dehli,2
+M. Krohn-Dehli,W. Ben Yedder,2
+Ganso,M. Krohn-Dehli,2
+G. Pizarro,S. Kj\u00e6r,2
+Nolito,G. Pizarro,2
+S. Kj\u00e6r,M. Krohn-Dehli,2
+Sergio Escudero,N. Pareja,2
+Nolito,N. Pareja,2
+G. Pizarro,N. Pareja,2
+G. Mercado,S. Kj\u00e6r,2
+N. Pareja,G. Pizarro,2
+G. Mercado,G. Pizarro,2
+Sergio Escudero,Jes\u00fas Navas,1
+Sergio Rico,G. Pizarro,1
+W. Ben Yedder,G. Mercado,1
+Sergio Escudero,M. Krohn-Dehli,1
+Nolito,Sergio Escudero,1
+M. Krohn-Dehli,N. Pareja,1
+Sergio Escudero,G. Mercado,1
+S. Kj\u00e6r,Ganso,1
+G. Mercado,Sergio Escudero,1
+N. Pareja,W. Ben Yedder,1
+Ganso,S. Kj\u00e6r,1
+Nolito,G. Mercado,1
+W. Ben Yedder,N. Pareja,1
+Nolito,S. Kj\u00e6r,1
+N. Pareja,Ganso,1
+Ganso,Jes\u00fas Navas,1
+Sergio Rico,Sergio Escudero,1
+Jes\u00fas Navas,G. Mercado,1
+G. Pizarro,W. Ben Yedder,1
+Nolito,Jes\u00fas Navas,1
+Jes\u00fas Navas,Ganso,1
+Nolito,Ganso,1
+W. Ben Yedder,G. Pizarro,1
+G. Pizarro,Jes\u00fas Navas,1
+S. Kj\u00e6r,G. Mercado,1

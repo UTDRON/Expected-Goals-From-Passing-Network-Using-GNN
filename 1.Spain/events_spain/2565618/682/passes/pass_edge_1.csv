@@ -1,0 +1,55 @@
+Source,Target,Weight
+Mario,\u00c1lvaro Gonz\u00e1lez,6
+V\u00edctor Ru\u00edz,Rodri,5
+\u00c1lvaro Gonz\u00e1lez,V\u00edctor Ru\u00edz,5
+Rodri,Mario,4
+Rodri,Samu Castillejo,4
+V\u00edctor Ru\u00edz,Jaume Costa,4
+Mario,Samu Castillejo,3
+Jaume Costa,Pablo Fornals,3
+Samu Castillejo,Trigueros,3
+Trigueros,V\u00edctor Ru\u00edz,3
+Trigueros,C. Bakambu,3
+Jaume Costa,\u00c1lvaro Gonz\u00e1lez,2
+Pablo Fornals,Mario,2
+N. Sansone,Rodri,2
+Jaume Costa,Trigueros,2
+\u00c1lvaro Gonz\u00e1lez,Rodri,2
+Samu Castillejo,Mario,2
+Samu Castillejo,V\u00edctor Ru\u00edz,2
+\u00c1lvaro Gonz\u00e1lez,Mario,2
+Rodri,Trigueros,1
+Jaume Costa,Samu Castillejo,1
+V\u00edctor Ru\u00edz,Trigueros,1
+Pablo Fornals,C. Bakambu,1
+\u00c1lvaro Gonz\u00e1lez,Samu Castillejo,1
+V\u00edctor Ru\u00edz,N. Sansone,1
+Samu Castillejo,M. Barbosa,1
+Mario,Rodri,1
+\u00c1lvaro Gonz\u00e1lez,Trigueros,1
+N. Sansone,Jaume Costa,1
+Trigueros,Jaume Costa,1
+Samu Castillejo,Pablo Fornals,1
+Rodri,V\u00edctor Ru\u00edz,1
+C. Bakambu,Jaume Costa,1
+C. Bakambu,N. Sansone,1
+Trigueros,\u00c1lvaro Gonz\u00e1lez,1
+Pablo Fornals,Jaume Costa,1
+N. Sansone,Samu Castillejo,1
+Jaume Costa,Rodri,1
+Trigueros,N. Sansone,1
+Jaume Costa,V\u00edctor Ru\u00edz,1
+C. Bakambu,Samu Castillejo,1
+Pablo Fornals,V\u00edctor Ru\u00edz,1
+\u00c1lvaro Gonz\u00e1lez,C. Bakambu,1
+Trigueros,Samu Castillejo,1
+V\u00edctor Ru\u00edz,\u00c1lvaro Gonz\u00e1lez,1
+Rodri,Jaume Costa,1
+Samu Castillejo,\u00c1lvaro Gonz\u00e1lez,1
+Samu Castillejo,Rodri,1
+V\u00edctor Ru\u00edz,M. Barbosa,1
+Samu Castillejo,Jaume Costa,1
+M. Barbosa,Trigueros,1
+M. Barbosa,Pablo Fornals,1
+C. Bakambu,Trigueros,1
+Rodri,\u00c1lvaro Gonz\u00e1lez,1

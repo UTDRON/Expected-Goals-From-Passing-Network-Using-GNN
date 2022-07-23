@@ -1,0 +1,118 @@
+Source,Target,Weight
+B. Nuytinck,S. Widmer,16
+G. Angella,B. Nuytinck,16
+S. Widmer,B. Nuytinck,15
+Samir,Ali Adnan,15
+B. Nuytinck,G. Angella,11
+S. Fofana,V. Behrami,10
+Ali Adnan,Samir,10
+V. Behrami,Samir,10
+G. Angella,Samir,9
+Ali Adnan,S. Fofana,9
+S. Widmer,J. Jankto,8
+V. Behrami,G. Angella,8
+S. Widmer,V. Behrami,8
+S. Fofana,Ali Adnan,8
+Samir,G. Angella,8
+S. Widmer,A. Bar\u00e1k,7
+B. Nuytinck,A. Bizzarri,7
+G. Angella,S. Widmer,7
+V. Behrami,S. Widmer,6
+Samir,S. Fofana,6
+V. Behrami,S. Fofana,6
+G. Angella,A. Bizzarri,5
+J. Jankto,S. Widmer,5
+J. Jankto,V. Behrami,5
+A. Bar\u00e1k,S. Fofana,5
+A. Bar\u00e1k,S. Widmer,5
+S. Fofana,G. Angella,5
+A. Bizzarri,Ali Adnan,5
+J. Jankto,B. Nuytinck,4
+S. Fofana,S. Widmer,4
+V. Behrami,Ali Adnan,4
+A. Bizzarri,S. Widmer,4
+Ali Adnan,G. Angella,4
+B. Nuytinck,V. Behrami,4
+Maxi L\u00f3pez,A. Bar\u00e1k,4
+A. Bizzarri,G. Angella,4
+B. Nuytinck,Samir,4
+B. Nuytinck,S. Fofana,4
+A. Bar\u00e1k,V. Behrami,4
+S. Fofana,B. Nuytinck,4
+Ali Adnan,B. Nuytinck,4
+A. Bar\u00e1k,Ali Adnan,4
+Ali Adnan,A. Bar\u00e1k,4
+Samir,A. Bizzarri,4
+A. Bizzarri,B. Nuytinck,4
+Ali Adnan,V. Behrami,4
+S. Widmer,S. Fofana,3
+S. Widmer,A. Bizzarri,3
+Ali Adnan,S. Perica,3
+J. Jankto,A. Bali\u0107,3
+S. Fofana,A. Bar\u00e1k,3
+G. Angella,V. Behrami,3
+S. Widmer,Ali Adnan,3
+V. Behrami,A. Bar\u00e1k,3
+A. Bali\u0107,B. Nuytinck,3
+S. Widmer,G. Angella,3
+G. Angella,Ali Adnan,3
+S. Widmer,Samir,3
+A. Bar\u00e1k,Maxi L\u00f3pez,3
+Ali Adnan,J. Jankto,3
+Samir,S. Widmer,3
+Maxi L\u00f3pez,J. Jankto,3
+S. Perica,Ali Adnan,2
+B. Nuytinck,A. Bar\u00e1k,2
+Samir,V. Behrami,2
+A. Bizzarri,J. Jankto,2
+A. Bar\u00e1k,B. Nuytinck,2
+Ali Adnan,Maxi L\u00f3pez,2
+S. Widmer,Maxi L\u00f3pez,2
+Ali Adnan,S. Widmer,2
+V. Behrami,J. Jankto,2
+B. Nuytinck,A. Bali\u0107,2
+R. de Paul,S. Widmer,2
+V. Behrami,B. Nuytinck,2
+S. Fofana,A. Bizzarri,2
+A. Bali\u0107,J. Jankto,2
+V. Behrami,Maxi L\u00f3pez,1
+A. Bizzarri,Maxi L\u00f3pez,1
+G. Angella,A. Bar\u00e1k,1
+J. Jankto,S. Fofana,1
+Maxi L\u00f3pez,S. Fofana,1
+B. Nuytinck,R. de Paul,1
+B. Nuytinck,Ali Adnan,1
+A. Bali\u0107,G. Angella,1
+A. Bali\u0107,V. Behrami,1
+S. Perica,Samir,1
+Ali Adnan,R. de Paul,1
+B. Nuytinck,J. Jankto,1
+G. Angella,A. Bali\u0107,1
+A. Bizzarri,Samir,1
+A. Bali\u0107,A. Bizzarri,1
+Maxi L\u00f3pez,G. Angella,1
+S. Widmer,A. Bali\u0107,1
+Samir,B. Nuytinck,1
+A. Bali\u0107,S. Fofana,1
+S. Fofana,A. Bali\u0107,1
+B. Nuytinck,Maxi L\u00f3pez,1
+J. Jankto,S. Perica,1
+S. Perica,J. Jankto,1
+J. Jankto,Samir,1
+S. Perica,V. Behrami,1
+A. Bar\u00e1k,J. Jankto,1
+G. Angella,Maxi L\u00f3pez,1
+Maxi L\u00f3pez,S. Widmer,1
+J. Jankto,A. Bar\u00e1k,1
+G. Angella,S. Fofana,1
+Maxi L\u00f3pez,Ali Adnan,1
+Ali Adnan,A. Bali\u0107,1
+Maxi L\u00f3pez,Samir,1
+A. Bar\u00e1k,G. Angella,1
+Samir,A. Bali\u0107,1
+B. Nuytinck,S. Perica,1
+J. Jankto,Maxi L\u00f3pez,1
+J. Jankto,G. Angella,1
+A. Bali\u0107,S. Perica,1
+S. Perica,S. Widmer,1
+A. Bizzarri,A. Bali\u0107,1

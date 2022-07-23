@@ -1,0 +1,48 @@
+Source,Target,Weight
+Illarramendi,Diego Llorente,4
+De La Bella,Illarramendi,3
+Odriozola,Diego Llorente,2
+Diego Llorente,Odriozola,2
+De La Bella,Juanmi,2
+Juanmi,De La Bella,2
+Zubeld\u00eda,De La Bella,2
+Mikel Oyarzabal,Illarramendi,2
+Xabi Prieto,Odriozola,2
+Jon Bautista,Juanmi,2
+Diego Llorente,Illarramendi,2
+Diego Llorente,Zubeld\u00eda,2
+Diego Llorente,\u00cd\u00f1igo Mart\u00ednez,1
+Odriozola,\u00cd\u00f1igo Mart\u00ednez,1
+G. Rulli,Diego Llorente,1
+Odriozola,Mikel Oyarzabal,1
+Juanmi,Odriozola,1
+De La Bella,Zubeld\u00eda,1
+Zubeld\u00eda,Diego Llorente,1
+Zubeld\u00eda,\u00cd\u00f1igo Mart\u00ednez,1
+Xabi Prieto,Mikel Oyarzabal,1
+Illarramendi,Xabi Prieto,1
+\u00cd\u00f1igo Mart\u00ednez,G. Rulli,1
+G. Rulli,Jon Bautista,1
+Illarramendi,\u00cd\u00f1igo Mart\u00ednez,1
+\u00cd\u00f1igo Mart\u00ednez,De La Bella,1
+Xabi Prieto,\u00cd\u00f1igo Mart\u00ednez,1
+Mikel Oyarzabal,Odriozola,1
+\u00cd\u00f1igo Mart\u00ednez,Diego Llorente,1
+Juanmi,Xabi Prieto,1
+Diego Llorente,Xabi Prieto,1
+Mikel Oyarzabal,\u00cd\u00f1igo Mart\u00ednez,1
+Illarramendi,G. Rulli,1
+Xabi Prieto,Juanmi,1
+\u00cd\u00f1igo Mart\u00ednez,Xabi Prieto,1
+Diego Llorente,Mikel Oyarzabal,1
+Juanmi,Zubeld\u00eda,1
+\u00cd\u00f1igo Mart\u00ednez,Mikel Oyarzabal,1
+\u00cd\u00f1igo Mart\u00ednez,Illarramendi,1
+Odriozola,Illarramendi,1
+Illarramendi,Juanmi,1
+Xabi Prieto,Jon Bautista,1
+Illarramendi,De La Bella,1
+Odriozola,De La Bella,1
+Odriozola,Xabi Prieto,1
+De La Bella,Xabi Prieto,1
+Juanmi,Mikel Oyarzabal,1

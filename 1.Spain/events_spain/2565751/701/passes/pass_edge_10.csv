@@ -1,0 +1,65 @@
+Source,Target,Weight
+Rub\u00e9n Pe\u00f1a,P. Diop,4
+M. Dmitrovi\u0107,Kike Garc\u00eda,4
+G. Escalante,F. Orellana,4
+T. Inui,Rub\u00e9n Pe\u00f1a,3
+G. Escalante,Ramis,3
+F. Orellana,Ander Capa,3
+G. Escalante,Charles,3
+Ramis,M. Dmitrovi\u0107,3
+P. Diop,G. Escalante,3
+F. Orellana,P. Diop,2
+Charles,F. Orellana,2
+T. Inui,G. Escalante,2
+G. Escalante,Arbilla,2
+M. Dmitrovi\u0107,G. Escalante,2
+Charles,G. Escalante,2
+Charles,Ramis,2
+G. Escalante,Ander Capa,2
+Ander Capa,P. Diop,2
+P. Diop,Ramis,2
+P. Diop,Arbilla,2
+Ander Capa,F. Orellana,2
+Ramis,Ander Capa,2
+Kike Garc\u00eda,Charles,2
+Rub\u00e9n Pe\u00f1a,Ramis,2
+Kike Garc\u00eda,G. Escalante,2
+F. Orellana,Rub\u00e9n Pe\u00f1a,2
+Ander Capa,G. Escalante,1
+Ander Capa,Ramis,1
+Arbilla,Charles,1
+Arbilla,M. Dmitrovi\u0107,1
+F. Orellana,G. Escalante,1
+Arbilla,T. Inui,1
+T. Inui,Kike Garc\u00eda,1
+Ramis,G. Escalante,1
+David Junc\u00e0,Kike Garc\u00eda,1
+P. Diop,T. Inui,1
+P. Diop,David Junc\u00e0,1
+Ramis,T. Inui,1
+Ramis,Arbilla,1
+David Junc\u00e0,G. Escalante,1
+Ramis,Charles,1
+Arbilla,P. Diop,1
+F. Orellana,Charles,1
+Kike Garc\u00eda,P. Diop,1
+Arbilla,David Junc\u00e0,1
+Ander Capa,M. Dmitrovi\u0107,1
+Charles,Arbilla,1
+Arbilla,G. Escalante,1
+Kike Garc\u00eda,Arbilla,1
+P. Diop,Rub\u00e9n Pe\u00f1a,1
+Kike Garc\u00eda,F. Orellana,1
+F. Orellana,T. Inui,1
+Rub\u00e9n Pe\u00f1a,Kike Garc\u00eda,1
+Kike Garc\u00eda,T. Inui,1
+Rub\u00e9n Pe\u00f1a,F. Orellana,1
+David Junc\u00e0,T. Inui,1
+David Junc\u00e0,Rub\u00e9n Pe\u00f1a,1
+Ramis,Rub\u00e9n Pe\u00f1a,1
+Kike Garc\u00eda,David Junc\u00e0,1
+Ramis,F. Orellana,1
+Arbilla,Ramis,1
+G. Escalante,Kike Garc\u00eda,1
+G. Escalante,David Junc\u00e0,1
+Charles,Kike Garc\u00eda,1

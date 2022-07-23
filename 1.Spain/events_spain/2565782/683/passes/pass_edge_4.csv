@@ -1,0 +1,20 @@
+Source,Target,Weight
+B. Ideye,Recio,2
+Recio,B. Ideye,2
+Diego Gonz\u00e1lez,Chory Castro,2
+Luis Hern\u00e1ndez,Miquel,1
+Chory Castro,Diego Gonz\u00e1lez,1
+Y. En-Nesyri,B. Ideye,1
+Diego Gonz\u00e1lez,Luis Hern\u00e1ndez,1
+Recio,Diego Gonz\u00e1lez,1
+Y. En-Nesyri,M. Iturra,1
+R. Rosales,Y. En-Nesyri,1
+M. Iturra,B. Ideye,1
+Chory Castro,Y. En-Nesyri,1
+Y. En-Nesyri,R. Rosales,1
+M. Iturra,Y. En-Nesyri,1
+Miquel,Recio,1
+B. Ideye,M. Iturra,1
+R. Rosales,M. Iturra,1
+B. Ideye,R. Rosales,1
+M. Iturra,Diego Gonz\u00e1lez,1

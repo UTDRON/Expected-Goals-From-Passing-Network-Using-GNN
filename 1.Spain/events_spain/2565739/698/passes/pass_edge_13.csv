@@ -1,0 +1,24 @@
+Source,Target,Weight
+Jorge Molina,Portillo,3
+Molinero,Jorge Molina,3
+Jorge Molina,\u00c1ngel,2
+\u00c1ngel,Molinero,2
+Djen\u00e9,Juan Cala,1
+Dani Pacheco,Djen\u00e9,1
+\u00c1ngel,Jorge Molina,1
+Antunes,Dani Pacheco,1
+Dani Pacheco,Antunes,1
+Portillo,Djen\u00e9,1
+Jorge Molina,Antunes,1
+Portillo,Markel Bergara,1
+Juan Cala,Molinero,1
+Djen\u00e9,Portillo,1
+Markel Bergara,M. Arambarri,1
+Portillo,Jorge Molina,1
+Jorge Molina,Dani Pacheco,1
+Juan Cala,Jorge Molina,1
+Antunes,Jorge Molina,1
+M. Arambarri,Jorge Molina,1
+Antunes,\u00c1ngel,1
+Portillo,\u00c1ngel,1
+Jorge Molina,Juan Cala,1

@@ -1,0 +1,23 @@
+Source,Target,Weight
+Illarramendi,Mikel Oyarzabal,3
+Diego Llorente,Illarramendi,2
+Canales,Illarramendi,2
+Zubeld\u00eda,Canales,2
+Mikel Oyarzabal,Illarramendi,2
+Illarramendi,Diego Llorente,2
+Illarramendi,Willian Jos\u00e9,1
+H. Moreno,Illarramendi,1
+De La Bella,H. Moreno,1
+De La Bella,Moy\u00e0,1
+Willian Jos\u00e9,Zubeld\u00eda,1
+Mikel Oyarzabal,Zurutuza,1
+Moy\u00e0,Canales,1
+Zurutuza,Canales,1
+Diego Llorente,H. Moreno,1
+Canales,De La Bella,1
+Canales,Zubeld\u00eda,1
+H. Moreno,Canales,1
+H. Moreno,Zurutuza,1
+H. Moreno,Diego Llorente,1
+Illarramendi,H. Moreno,1
+Zurutuza,De La Bella,1

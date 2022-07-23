@@ -1,0 +1,17 @@
+Source,Target,Weight
+Jorge Molina,F. Fajr,2
+G. Shibasaki,M. Arambarri,2
+Guaita,Jorge Molina,2
+Jorge Molina,G. Shibasaki,2
+F. Fajr,Markel Bergara,1
+F. Fajr,G. Shibasaki,1
+Jorge Molina,Markel Bergara,1
+Markel Bergara,Jorge Molina,1
+F. Fajr,Jorge Molina,1
+G. Shibasaki,F. Fajr,1
+M. Arambarri,Guaita,1
+Markel Bergara,Antunes,1
+A. Ndiaye,F. Fajr,1
+Antunes,F. Fajr,1
+F. Fajr,Guaita,1
+M. Arambarri,A. Ndiaye,1

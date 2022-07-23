@@ -1,0 +1,65 @@
+Source,Target,Weight
+A. Brignoli,M. Coda,6
+B. Sagna,N. Viola,5
+B. Sagna,E. Brignola,5
+N. Viola,B. Sagna,4
+E. Brignola,B. Sagna,4
+A. Brignoli,B. Sagna,4
+E. Brignola,B. Djimsiti,3
+Sandro,B. Sagna,3
+M. Coda,A. Brignoli,3
+E. Brignola,N. Viola,3
+A. To\u0219ca,A. Brignoli,3
+B. Sagna,D. Cataldi,3
+A. Brignoli,A. To\u0219ca,2
+L. Venuti,A. To\u0219ca,2
+M. Coda,D. Cataldi,2
+N. Viola,E. Brignola,2
+L. Venuti,P. Iemmello,2
+M. Coda,B. Sagna,2
+M. Coda,B. Djimsiti,2
+B. Djimsiti,A. To\u0219ca,2
+B. Djimsiti,N. Viola,2
+D. Cataldi,Sandro,2
+B. Djimsiti,A. Brignoli,2
+N. Viola,L. Venuti,2
+L. Venuti,A. Brignoli,2
+N. Viola,B. Djimsiti,2
+D. Cataldi,L. Venuti,2
+B. Sagna,Sandro,2
+N. Viola,Sandro,1
+N. Viola,A. Brignoli,1
+B. Djimsiti,M. Coda,1
+B. Djimsiti,D. Cataldi,1
+D. Cataldi,B. Djimsiti,1
+A. To\u0219ca,L. Venuti,1
+E. Brignola,A. Brignoli,1
+B. Sagna,B. Djimsiti,1
+B. Djimsiti,E. Brignola,1
+B. Sagna,A. Brignoli,1
+N. Viola,M. Coda,1
+P. Iemmello,D. Cataldi,1
+B. Sagna,A. To\u0219ca,1
+Sandro,A. Brignoli,1
+M. Coda,E. Brignola,1
+Sandro,A. To\u0219ca,1
+B. Djimsiti,B. Sagna,1
+A. To\u0219ca,M. Coda,1
+P. Iemmello,L. Venuti,1
+A. To\u0219ca,Sandro,1
+P. Iemmello,N. Viola,1
+L. Venuti,B. Djimsiti,1
+A. To\u0219ca,B. Djimsiti,1
+A. Brignoli,P. Iemmello,1
+P. Iemmello,E. Brignola,1
+Sandro,D. Cataldi,1
+M. Coda,N. Viola,1
+A. To\u0219ca,B. Sagna,1
+D. Cataldi,P. Iemmello,1
+D. Cataldi,M. Coda,1
+M. Coda,P. Iemmello,1
+B. Sagna,M. Coda,1
+D. Cataldi,N. Viola,1
+P. Iemmello,M. Coda,1
+A. Brignoli,Sandro,1
+Sandro,E. Brignola,1

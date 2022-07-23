@@ -1,0 +1,40 @@
+Source,Target,Weight
+G\u00e1lvez,Jos\u00e9 \u00c1ngel,3
+G\u00e1lvez,Kike Garc\u00eda,3
+Jos\u00e9 \u00c1ngel,G\u00e1lvez,3
+T. Inui,Dani Garc\u00eda,2
+Kike Garc\u00eda,T. Inui,2
+Jos\u00e9 \u00c1ngel,T. Inui,2
+T. Inui,Jos\u00e9 \u00c1ngel,2
+Ander Capa,Paulo Oliveira,2
+Dani Garc\u00eda,G\u00e1lvez,2
+Dani Garc\u00eda,Jos\u00e9 \u00c1ngel,2
+Ander Capa,Kike Garc\u00eda,1
+Jos\u00e9 \u00c1ngel,M. Dmitrovi\u0107,1
+M. Dmitrovi\u0107,G\u00e1lvez,1
+G\u00e1lvez,Paulo Oliveira,1
+G. Escalante,Ander Capa,1
+G\u00e1lvez,G. Escalante,1
+G. Escalante,Kike Garc\u00eda,1
+Jos\u00e9 \u00c1ngel,Dani Garc\u00eda,1
+Kike Garc\u00eda,Charles,1
+Dani Garc\u00eda,Ander Capa,1
+Kike Garc\u00eda,G\u00e1lvez,1
+Paulo Oliveira,M. Dmitrovi\u0107,1
+Kike Garc\u00eda,Jos\u00e9 \u00c1ngel,1
+Paulo Oliveira,Ander Capa,1
+Jos\u00e9 \u00c1ngel,G. Escalante,1
+G\u00e1lvez,Beb\u00e9,1
+Paulo Oliveira,G\u00e1lvez,1
+G. Escalante,Dani Garc\u00eda,1
+Dani Garc\u00eda,Paulo Oliveira,1
+Beb\u00e9,G. Escalante,1
+Charles,Dani Garc\u00eda,1
+M. Dmitrovi\u0107,Dani Garc\u00eda,1
+Paulo Oliveira,G. Escalante,1
+G. Escalante,Beb\u00e9,1
+M. Dmitrovi\u0107,T. Inui,1
+G. Escalante,Charles,1
+Beb\u00e9,Kike Garc\u00eda,1
+T. Inui,M. Dmitrovi\u0107,1
+Charles,G. Escalante,1

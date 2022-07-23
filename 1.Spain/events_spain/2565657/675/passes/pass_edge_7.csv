@@ -1,0 +1,26 @@
+Source,Target,Weight
+Isco,Marcelo,4
+Sergio Ramos,T. Kroos,2
+Jes\u00fas Vallejo,T. Kroos,2
+Sergio Ramos,Isco,2
+T. Kroos,Marcelo,2
+Marcelo,Isco,2
+Marcelo,Sergio Ramos,2
+Nacho,T. Kroos,2
+T. Kroos,Nacho,1
+Sergio Ramos,Nacho,1
+Casemiro,Sergio Ramos,1
+Cristiano Ronaldo,Sergio Ramos,1
+Marcelo,Nacho,1
+Marcelo,K. Benzema,1
+T. Kroos,Sergio Ramos,1
+K. Benzema,Sergio Ramos,1
+Marco Asensio,Nacho,1
+T. Kroos,Marco Asensio,1
+Sergio Ramos,Marcelo,1
+Nacho,Sergio Ramos,1
+Isco,Sergio Ramos,1
+Sergio Ramos,Jes\u00fas Vallejo,1
+Marcelo,Casemiro,1
+Sergio Ramos,Cristiano Ronaldo,1
+T. Kroos,Isco,1

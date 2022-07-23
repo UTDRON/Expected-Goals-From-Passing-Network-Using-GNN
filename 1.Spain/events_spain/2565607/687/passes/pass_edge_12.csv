@@ -1,0 +1,32 @@
+Source,Target,Weight
+Odriozola,Canales,3
+Canales,Illarramendi,2
+Canales,K\u00e9vin Rodrigues,2
+Illarramendi,Odriozola,2
+K\u00e9vin Rodrigues,Zurutuza,2
+Aritz Elustondo,Rub\u00e9n Pardo,2
+Illarramendi,A. Januzaj,2
+K\u00e9vin Rodrigues,Canales,1
+Aritz Elustondo,K\u00e9vin Rodrigues,1
+Rub\u00e9n Pardo,Canales,1
+Zurutuza,Illarramendi,1
+Zurutuza,Aritz Elustondo,1
+Aritz Elustondo,Odriozola,1
+Illarramendi,Rub\u00e9n Pardo,1
+Rub\u00e9n Pardo,Aritz Elustondo,1
+Aritz Elustondo,G. Rulli,1
+Illarramendi,Zurutuza,1
+A. Januzaj,Canales,1
+Zurutuza,G. Rulli,1
+G. Rulli,Aritz Elustondo,1
+K\u00e9vin Rodrigues,Rub\u00e9n Pardo,1
+Zurutuza,K\u00e9vin Rodrigues,1
+A. Januzaj,K\u00e9vin Rodrigues,1
+Odriozola,Zurutuza,1
+Rub\u00e9n Pardo,Odriozola,1
+G. Rulli,Illarramendi,1
+Rub\u00e9n Pardo,Illarramendi,1
+Canales,Rub\u00e9n Pardo,1
+Rub\u00e9n Pardo,K\u00e9vin Rodrigues,1
+K\u00e9vin Rodrigues,Aritz Elustondo,1
+K\u00e9vin Rodrigues,Illarramendi,1

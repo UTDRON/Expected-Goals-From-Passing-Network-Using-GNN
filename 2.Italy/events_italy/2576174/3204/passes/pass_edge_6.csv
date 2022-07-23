@@ -1,0 +1,37 @@
+Source,Target,Weight
+F. Viviani,P. Schiattarella,3
+F. Vicari,F. Mattiello,2
+T. Cionek,M. Lazzari,2
+M. Lazzari,J. Kurti\u010d,2
+F. Viviani,T. Cionek,2
+J. Kurti\u010d,Felipe,2
+F. Viviani,F. Vicari,2
+J. Kurti\u010d,F. Viviani,2
+M. Lazzari,P. Schiattarella,2
+P. Schiattarella,A. Grassi,1
+P. Schiattarella,A. Meret,1
+J. Kurti\u010d,M. Lazzari,1
+M. Lazzari,T. Cionek,1
+A. Grassi,M. Lazzari,1
+A. Grassi,F. Mattiello,1
+P. Schiattarella,J. Kurti\u010d,1
+F. Mattiello,F. Vicari,1
+F. Mattiello,J. Kurti\u010d,1
+Felipe,M. Antenucci,1
+M. Antenucci,F. Viviani,1
+A. Grassi,Felipe,1
+F. Mattiello,A. Grassi,1
+A. Meret,J. Kurti\u010d,1
+Felipe,J. Kurti\u010d,1
+F. Viviani,Felipe,1
+A. Meret,F. Viviani,1
+Felipe,F. Mattiello,1
+Felipe,F. Viviani,1
+J. Kurti\u010d,T. Cionek,1
+F. Vicari,J. Kurti\u010d,1
+P. Schiattarella,M. Lazzari,1
+T. Cionek,F. Viviani,1
+T. Cionek,A. Meret,1
+M. Lazzari,F. Viviani,1
+F. Mattiello,M. Lazzari,1
+P. Schiattarella,F. Viviani,1

@@ -1,0 +1,53 @@
+Source,Target,Weight
+Mario,R. Soriano,7
+D. Bonera,Mario,7
+Jaume Costa,Chuca,5
+R. Soriano,Mario,4
+Jaume Costa,V\u00edctor Ru\u00edz,4
+V\u00edctor Ru\u00edz,D. Bonera,4
+Mario,D. Bonera,4
+V\u00edctor Ru\u00edz,Jaume Costa,4
+Rodri,V\u00edctor Ru\u00edz,3
+Rodri,Jaume Costa,3
+Rodri,Mario,3
+C. Bacca,Pablo Fornals,3
+D. Bonera,V\u00edctor Ru\u00edz,3
+R. Soriano,D. Bonera,3
+Mario,Rodri,3
+Chuca,Mario,2
+Pablo Fornals,Mario,2
+Rodri,R. Soriano,2
+Mario,Pablo Fornals,2
+V\u00edctor Ru\u00edz,Rodri,2
+R. Soriano,C. Bacca,2
+R. Soriano,Pablo Fornals,2
+Jaume Costa,D. Bonera,2
+Chuca,Rodri,2
+D. Bonera,Chuca,2
+Pablo Fornals,Jaume Costa,2
+D. Bonera,Rodri,2
+R. Soriano,Chuca,2
+Pablo Fornals,Rodri,2
+Chuca,C. Bacca,2
+V\u00edctor Ru\u00edz,Mario,2
+Pablo Fornals,V\u00edctor Ru\u00edz,1
+C. Bacca,Jaume Costa,1
+Chuca,Pablo Fornals,1
+Rodri,Pablo Fornals,1
+Mario,C. Bakambu,1
+Pablo Fornals,C. Bacca,1
+Mario,Chuca,1
+Pablo Fornals,C. Bakambu,1
+D. Bonera,R. Soriano,1
+C. Bacca,Mario,1
+Chuca,Jaume Costa,1
+Mario,C. Bacca,1
+Rodri,D. Bonera,1
+Chuca,V\u00edctor Ru\u00edz,1
+Jaume Costa,Pablo Fornals,1
+Pablo Fornals,R. Soriano,1
+C. Bakambu,D. Bonera,1
+Chuca,R. Soriano,1
+C. Bacca,R. Soriano,1
+C. Bakambu,Rodri,1
+Mario,Jaume Costa,1

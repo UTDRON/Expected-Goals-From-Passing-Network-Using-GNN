@@ -1,0 +1,19 @@
+Source,Target,Weight
+F. Fajr,Antunes,2
+F. Fajr,G. Shibasaki,1
+Portillo,F. Fajr,1
+Jorge Molina,Portillo,1
+Molinero,Portillo,1
+Antunes,Jorge Molina,1
+\u00c1ngel,Jorge Molina,1
+Molinero,Bruno,1
+G. Shibasaki,Molinero,1
+Portillo,\u00c1ngel,1
+Bruno,Portillo,1
+G. Shibasaki,Antunes,1
+F. Fajr,Molinero,1
+G. Shibasaki,F. Fajr,1
+Djen\u00e9,F. Fajr,1
+Antunes,F. Fajr,1
+Portillo,G. Shibasaki,1
+Jorge Molina,G. Shibasaki,1

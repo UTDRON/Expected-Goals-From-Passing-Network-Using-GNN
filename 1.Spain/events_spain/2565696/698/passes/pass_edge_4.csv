@@ -1,0 +1,39 @@
+Source,Target,Weight
+Antunes,Juan Cala,4
+Juan Cala,Guaita,4
+Dani Pacheco,G. Shibasaki,3
+G. Shibasaki,\u00c1ngel,3
+Guaita,Jorge Molina,3
+G. Shibasaki,Antunes,2
+Jorge Molina,Antunes,2
+Juan Cala,Jorge Molina,2
+Jorge Molina,Juan Cala,2
+M. Lacen,D. Su\u00e1rez,2
+M. Lacen,Juan Cala,2
+\u00c1ngel,Djen\u00e9,2
+Antunes,M. Lacen,2
+Juan Cala,Antunes,1
+M. Lacen,Antunes,1
+Antunes,Dani Pacheco,1
+G. Shibasaki,Jorge Molina,1
+Jorge Molina,G. Shibasaki,1
+Guaita,G. Shibasaki,1
+G. Shibasaki,Dani Pacheco,1
+D. Su\u00e1rez,M. Lacen,1
+Djen\u00e9,M. Lacen,1
+D. Su\u00e1rez,A. Ndiaye,1
+\u00c1ngel,D. Su\u00e1rez,1
+Jorge Molina,D. Su\u00e1rez,1
+M. Lacen,Dani Pacheco,1
+D. Su\u00e1rez,G. Shibasaki,1
+Jorge Molina,M. Lacen,1
+Juan Cala,M. Lacen,1
+D. Su\u00e1rez,Jorge Molina,1
+G. Shibasaki,D. Su\u00e1rez,1
+Djen\u00e9,A. Ndiaye,1
+M. Lacen,G. Shibasaki,1
+Antunes,G. Shibasaki,1
+D. Su\u00e1rez,Antunes,1
+A. Ndiaye,Djen\u00e9,1
+A. Ndiaye,Antunes,1
+Djen\u00e9,Juan Cala,1

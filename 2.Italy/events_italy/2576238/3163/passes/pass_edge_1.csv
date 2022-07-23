@@ -1,0 +1,15 @@
+Source,Target,Weight
+A. Bar\u00e1k,J. Jankto,2
+B. Nuytinck,V. Behrami,2
+V. Behrami,A. Bar\u00e1k,2
+J. Jankto,S. Fofana,1
+V. Behrami,S. Fofana,1
+Ali Adnan,S. Fofana,1
+S. Fofana,B. Nuytinck,1
+S. Fofana,Ali Adnan,1
+J. Jankto,V. Behrami,1
+J. Jankto,Ali Adnan,1
+Ali Adnan,J. Jankto,1
+S. Fofana,Samir,1
+Samir,A. Bizzarri,1
+A. Bizzarri,B. Nuytinck,1

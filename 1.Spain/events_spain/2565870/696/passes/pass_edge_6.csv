@@ -1,0 +1,79 @@
+Source,Target,Weight
+Rub\u00e9n Duarte,Munir,6
+Munir,Rub\u00e9n Duarte,6
+Tom\u00e1s Pina,Laguardia,5
+D. Torres,Rodrigo Ely,4
+Rub\u00e9n Duarte,D. Torres,4
+Rodrigo Ely,Laguardia,3
+Laguardia,Tom\u00e1s Pina,3
+D. Torres,Rub\u00e9n Duarte,3
+D. Torres,Munir,3
+Laguardia,Fernando Pacheco,3
+Rodrigo Ely,D. Torres,3
+J. Guidetti,Tom\u00e1s Pina,3
+D. Torres,Ibai G\u00f3mez,3
+D. Torres,Burgui,3
+Rodrigo Ely,Rub\u00e9n Duarte,3
+Laguardia,D. Torres,2
+Tom\u00e1s Pina,Rodrigo Ely,2
+Munir,Burgui,2
+Munir,Tom\u00e1s Pina,2
+Ibai G\u00f3mez,J. Guidetti,2
+Laguardia,Mart\u00edn,2
+Fernando Pacheco,Tom\u00e1s Pina,2
+Burgui,Rub\u00e9n Duarte,2
+Burgui,D. Torres,2
+Rub\u00e9n Duarte,Laguardia,2
+Rub\u00e9n Duarte,Ibai G\u00f3mez,2
+Laguardia,Munir,2
+Mart\u00edn,D. Torres,2
+Rub\u00e9n Duarte,Rodrigo Ely,2
+Mart\u00edn,Laguardia,2
+Burgui,Ibai G\u00f3mez,2
+Tom\u00e1s Pina,Burgui,2
+Tom\u00e1s Pina,D. Torres,2
+Munir,D. Torres,2
+Mart\u00edn,Ibai G\u00f3mez,2
+Ibai G\u00f3mez,Tom\u00e1s Pina,2
+Ibai G\u00f3mez,Mart\u00edn,2
+Burgui,Munir,2
+Rodrigo Ely,Mart\u00edn,2
+Laguardia,Rub\u00e9n Duarte,1
+Laguardia,J. Guidetti,1
+Mart\u00edn,Fernando Pacheco,1
+Munir,J. Guidetti,1
+Ibai G\u00f3mez,Fernando Pacheco,1
+Tom\u00e1s Pina,J. Guidetti,1
+Ibai G\u00f3mez,D. Torres,1
+J. Guidetti,Rub\u00e9n Duarte,1
+Fernando Pacheco,Laguardia,1
+Munir,Mart\u00edn,1
+Ibai G\u00f3mez,Laguardia,1
+Tom\u00e1s Pina,Fernando Pacheco,1
+J. Guidetti,Laguardia,1
+D. Torres,Fernando Pacheco,1
+Burgui,Tom\u00e1s Pina,1
+Ibai G\u00f3mez,Rub\u00e9n Duarte,1
+Laguardia,Burgui,1
+D. Torres,Tom\u00e1s Pina,1
+Tom\u00e1s Pina,Mart\u00edn,1
+Mart\u00edn,Burgui,1
+Mart\u00edn,Rodrigo Ely,1
+J. Guidetti,Mart\u00edn,1
+Fernando Pacheco,J. Guidetti,1
+Tom\u00e1s Pina,Ibai G\u00f3mez,1
+J. Guidetti,D. Torres,1
+Rub\u00e9n Duarte,J. Guidetti,1
+Rodrigo Ely,Ibai G\u00f3mez,1
+Fernando Pacheco,Munir,1
+Ibai G\u00f3mez,Rodrigo Ely,1
+Fernando Pacheco,Rub\u00e9n Duarte,1
+Fernando Pacheco,Rodrigo Ely,1
+Mart\u00edn,Tom\u00e1s Pina,1
+Burgui,Rodrigo Ely,1
+Rodrigo Ely,Munir,1
+Rub\u00e9n Duarte,Burgui,1
+Burgui,J. Guidetti,1
+Rodrigo Ely,Burgui,1
+Munir,Rodrigo Ely,1
+D. Torres,Mart\u00edn,1

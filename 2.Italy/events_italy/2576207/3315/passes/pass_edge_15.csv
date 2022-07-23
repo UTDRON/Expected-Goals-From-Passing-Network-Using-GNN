@@ -1,0 +1,25 @@
+Source,Target,Weight
+D. Berardi,M. Politano,3
+S. Missiroli,F. Magnanelli,2
+F. Magnanelli,L. Mazzitelli,2
+A. Ragusa,F. Magnanelli,2
+M. Politano,Pol Lirola,2
+M. Politano,S. Missiroli,2
+Pol Lirola,M. Politano,1
+F. Acerbi,L. Mazzitelli,1
+S. Missiroli,F. Acerbi,1
+Pol Lirola,D. Berardi,1
+L. Mazzitelli,F. Peluso,1
+F. Magnanelli,S. Missiroli,1
+F. Magnanelli,A. Ragusa,1
+F. Peluso,S. Missiroli,1
+F. Magnanelli,M. Politano,1
+L. Mazzitelli,D. Berardi,1
+L. Mazzitelli,F. Acerbi,1
+D. Berardi,S. Missiroli,1
+S. Missiroli,F. Peluso,1
+F. Acerbi,D. Berardi,1
+S. Missiroli,M. Politano,1
+M. Politano,F. Magnanelli,1
+F. Peluso,A. Ragusa,1
+M. Politano,A. Ragusa,1

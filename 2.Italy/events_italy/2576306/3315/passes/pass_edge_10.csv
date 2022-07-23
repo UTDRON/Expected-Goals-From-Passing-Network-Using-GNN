@@ -1,0 +1,28 @@
+Source,Target,Weight
+K. Babacar,L. Mazzitelli,4
+L. Mazzitelli,K. Babacar,3
+F. Acerbi,M. Lemos,3
+M. Politano,Rog\u00e9rio,2
+Rog\u00e9rio,M. Politano,2
+M. Lemos,D. Berardi,2
+L. Mazzitelli,A. Duncan,1
+L. Mazzitelli,F. Acerbi,1
+L. Mazzitelli,D. Berardi,1
+F. Peluso,L. Mazzitelli,1
+F. Acerbi,F. Magnanelli,1
+L. Mazzitelli,F. Peluso,1
+S. Missiroli,D. Berardi,1
+F. Peluso,Rog\u00e9rio,1
+F. Magnanelli,M. Politano,1
+Rog\u00e9rio,F. Peluso,1
+K. Babacar,A. Duncan,1
+F. Magnanelli,S. Missiroli,1
+M. Lemos,K. Babacar,1
+M. Politano,F. Acerbi,1
+D. Berardi,F. Magnanelli,1
+F. Peluso,F. Acerbi,1
+M. Lemos,L. Mazzitelli,1
+D. Berardi,M. Lemos,1
+D. Berardi,K. Babacar,1
+D. Berardi,L. Mazzitelli,1
+A. Duncan,F. Peluso,1

@@ -1,0 +1,48 @@
+Source,Target,Weight
+Saborit,\u00cd\u00f1igo Mart\u00ednez,5
+Unai N\u00fa\u00f1ez,De Marcos,4
+San Jos\u00e9,Unai N\u00fa\u00f1ez,3
+De Marcos,Unai N\u00fa\u00f1ez,3
+I\u00f1igo C\u00f3rdoba,Be\u00f1at,3
+\u00cd\u00f1igo Mart\u00ednez,I\u00f1igo C\u00f3rdoba,2
+I\u00f1igo C\u00f3rdoba,Saborit,2
+I\u00f1igo C\u00f3rdoba,Unai N\u00fa\u00f1ez,2
+De Marcos,San Jos\u00e9,2
+Be\u00f1at,I\u00f1igo C\u00f3rdoba,2
+I\u00f1igo C\u00f3rdoba,Ra\u00fal Garc\u00eda,2
+Ra\u00fal Garc\u00eda,Saborit,2
+Unai N\u00fa\u00f1ez,\u00cd\u00f1igo Mart\u00ednez,2
+\u00cd\u00f1igo Mart\u00ednez,San Jos\u00e9,2
+Unai N\u00fa\u00f1ez,Aduriz,2
+Ra\u00fal Garc\u00eda,Aduriz,2
+Saborit,Ra\u00fal Garc\u00eda,2
+Aduriz,I\u00f1igo C\u00f3rdoba,2
+Aduriz,San Jos\u00e9,2
+Ra\u00fal Garc\u00eda,De Marcos,2
+Arrizabalaga,Ra\u00fal Garc\u00eda,1
+De Marcos,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,I\u00f1igo C\u00f3rdoba,1
+Ra\u00fal Garc\u00eda,Unai N\u00fa\u00f1ez,1
+Unai N\u00fa\u00f1ez,Arrizabalaga,1
+San Jos\u00e9,De Marcos,1
+\u00cd\u00f1igo Mart\u00ednez,Unai N\u00fa\u00f1ez,1
+Unai N\u00fa\u00f1ez,San Jos\u00e9,1
+\u00cd\u00f1igo Mart\u00ednez,Saborit,1
+\u00cd\u00f1igo Mart\u00ednez,Aduriz,1
+San Jos\u00e9,Saborit,1
+Saborit,I\u00f1igo C\u00f3rdoba,1
+\u00cd\u00f1igo Mart\u00ednez,Ra\u00fal Garc\u00eda,1
+Unai N\u00fa\u00f1ez,Be\u00f1at,1
+Aduriz,Unai N\u00fa\u00f1ez,1
+Be\u00f1at,\u00cd\u00f1igo Mart\u00ednez,1
+Be\u00f1at,Unai N\u00fa\u00f1ez,1
+Be\u00f1at,Ra\u00fal Garc\u00eda,1
+Be\u00f1at,Saborit,1
+De Marcos,I\u00f1igo C\u00f3rdoba,1
+Saborit,Be\u00f1at,1
+Ra\u00fal Garc\u00eda,Be\u00f1at,1
+Aduriz,Saborit,1
+Saborit,Unai N\u00fa\u00f1ez,1
+Unai N\u00fa\u00f1ez,Saborit,1
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,1
+San Jos\u00e9,Aduriz,1

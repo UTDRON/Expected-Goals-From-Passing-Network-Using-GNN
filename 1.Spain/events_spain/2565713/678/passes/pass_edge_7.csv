@@ -1,0 +1,34 @@
+Source,Target,Weight
+A. Laporte,Unai N\u00fa\u00f1ez,3
+Ra\u00fal Garc\u00eda,I\u00f1aki Williams,2
+Mikel Rico,A. Laporte,2
+I\u00f1aki Williams,Iturraspe,2
+Iturraspe,Mikel Rico,2
+Lekue,Iturraspe,1
+Unai N\u00fa\u00f1ez,Lekue,1
+I\u00f1aki Williams,Lekue,1
+De Marcos,Lekue,1
+A. Laporte,Iago Herrer\u00edn,1
+Susaeta,A. Laporte,1
+Mikel Rico,Saborit,1
+Saborit,Susaeta,1
+De Marcos,Ra\u00fal Garc\u00eda,1
+A. Laporte,Susaeta,1
+Susaeta,Saborit,1
+Lekue,I\u00f1aki Williams,1
+Lekue,Ra\u00fal Garc\u00eda,1
+Iturraspe,A. Laporte,1
+Ra\u00fal Garc\u00eda,Lekue,1
+Iago Herrer\u00edn,I\u00f1aki Williams,1
+Unai N\u00fa\u00f1ez,Mikel Rico,1
+Mikel Rico,Ra\u00fal Garc\u00eda,1
+Iago Herrer\u00edn,Ra\u00fal Garc\u00eda,1
+Unai N\u00fa\u00f1ez,Saborit,1
+Saborit,A. Laporte,1
+Lekue,Mikel Rico,1
+Saborit,Mikel Rico,1
+Mikel Rico,Unai N\u00fa\u00f1ez,1
+Saborit,Iago Herrer\u00edn,1
+Unai N\u00fa\u00f1ez,A. Laporte,1
+Ra\u00fal Garc\u00eda,De Marcos,1
+A. Laporte,De Marcos,1

@@ -1,0 +1,73 @@
+Source,Target,Weight
+L. Venuti,D. Cataldi,4
+G. Pu\u015fca\u015f,L. Del Pinto,3
+B. Djimsiti,C. Lombardi,3
+C. Lombardi,B. Djimsiti,3
+A. Costa,G. Pu\u015fca\u015f,3
+A. Costa,C. Lombardi,3
+A. Ciciretti,L. Venuti,3
+C. Lombardi,A. Ciciretti,2
+A. Ciciretti,C. Lombardi,2
+B. Djimsiti,L. Del Pinto,2
+L. Del Pinto,B. Djimsiti,2
+L. Venuti,A. Costa,2
+B. Djimsiti,A. Ciciretti,2
+C. Lombardi,A. Costa,2
+L. Venuti,C. Lombardi,2
+D. Cataldi,V. Parigini,2
+L. Venuti,F. Lucioni,2
+A. Costa,L. Venuti,2
+D. Cataldi,A. Costa,2
+L. Del Pinto,A. Ciciretti,2
+D. Cataldi,L. Venuti,2
+L. Del Pinto,F. Lucioni,2
+L. Venuti,B. Djimsiti,2
+L. Del Pinto,B. Gyamfi,2
+B. Djimsiti,L. Venuti,2
+D. Cataldi,L. Del Pinto,2
+A. Costa,L. Del Pinto,2
+F. Lucioni,A. Ciciretti,1
+L. Del Pinto,A. Costa,1
+B. Gyamfi,C. Lombardi,1
+V. Parigini,D. Cataldi,1
+B. Gyamfi,L. Del Pinto,1
+C. Lombardi,B. Gyamfi,1
+B. Djimsiti,B. Gyamfi,1
+V. Parigini,A. Costa,1
+F. Lucioni,A. Costa,1
+G. Pu\u015fca\u015f,V. Belec,1
+G. Pu\u015fca\u015f,B. Djimsiti,1
+L. Venuti,V. Belec,1
+L. Del Pinto,V. Belec,1
+L. Venuti,G. Pu\u015fca\u015f,1
+L. Del Pinto,L. Venuti,1
+V. Belec,L. Venuti,1
+C. Lombardi,L. Venuti,1
+C. Lombardi,G. Pu\u015fca\u015f,1
+A. Costa,D. Cataldi,1
+F. Lucioni,L. Venuti,1
+B. Gyamfi,A. Ciciretti,1
+C. Lombardi,R. Chibsah,1
+F. Lucioni,D. Cataldi,1
+A. Costa,B. Djimsiti,1
+L. Del Pinto,D. Cataldi,1
+R. Chibsah,A. Costa,1
+D. Cataldi,G. Pu\u015fca\u015f,1
+C. Lombardi,L. Del Pinto,1
+F. Lucioni,R. Chibsah,1
+A. Ciciretti,L. Del Pinto,1
+V. Belec,B. Djimsiti,1
+F. Lucioni,C. Lombardi,1
+V. Belec,F. Lucioni,1
+C. Lombardi,F. Lucioni,1
+V. Belec,G. Pu\u015fca\u015f,1
+B. Gyamfi,L. Venuti,1
+B. Djimsiti,D. Cataldi,1
+A. Costa,V. Belec,1
+A. Ciciretti,B. Djimsiti,1
+B. Gyamfi,A. Costa,1
+B. Djimsiti,A. Costa,1
+A. Ciciretti,A. Costa,1
+G. Pu\u015fca\u015f,B. Gyamfi,1
+D. Cataldi,B. Djimsiti,1
+G. Pu\u015fca\u015f,D. Cataldi,1

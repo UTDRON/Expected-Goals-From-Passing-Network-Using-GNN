@@ -1,0 +1,31 @@
+Source,Target,Weight
+Sergio Busquets,Paulinho,4
+Philippe Coutinho,Iniesta,3
+Iniesta,Philippe Coutinho,3
+L. Messi,Philippe Coutinho,2
+L. Messi,Sergio Busquets,2
+Sergio Busquets,L. Messi,2
+Paulinho,N\u00e9lson Semedo,2
+Piqu\u00e9,Sergio Busquets,2
+N\u00e9lson Semedo,O. Demb\u00e9l\u00e9,2
+Philippe Coutinho,O. Demb\u00e9l\u00e9,1
+Philippe Coutinho,L. Messi,1
+Paulinho,Iniesta,1
+Paulinho,L. Messi,1
+O. Demb\u00e9l\u00e9,L. Messi,1
+N\u00e9lson Semedo,T. Vermaelen,1
+Iniesta,O. Demb\u00e9l\u00e9,1
+Philippe Coutinho,Sergio Busquets,1
+Sergio Busquets,Iniesta,1
+Iniesta,L. Messi,1
+L. Messi,Iniesta,1
+L. Digne,Sergio Busquets,1
+O. Demb\u00e9l\u00e9,Paulinho,1
+T. Vermaelen,Philippe Coutinho,1
+Iniesta,Sergio Busquets,1
+O. Demb\u00e9l\u00e9,N\u00e9lson Semedo,1
+L. Messi,N\u00e9lson Semedo,1
+N\u00e9lson Semedo,Iniesta,1
+O. Demb\u00e9l\u00e9,L. Digne,1
+N\u00e9lson Semedo,Piqu\u00e9,1
+Paulinho,Piqu\u00e9,1

@@ -1,0 +1,21 @@
+Source,Target,Weight
+A. Mandi,Francis Guerrero,2
+V\u00edctor Camarasa,Rafa Navarro,2
+Bartra,Francis Guerrero,2
+Rafa Navarro,Joaqu\u00edn,2
+Francis Guerrero,A. Mandi,1
+Bartra,Rafa Navarro,1
+Joaqu\u00edn,R. Durmisi,1
+Bartra,A. Mandi,1
+Rafa Navarro,R. Durmisi,1
+A. Mandi,V\u00edctor Camarasa,1
+R. Durmisi,Rafa Navarro,1
+R. Durmisi,Joaqu\u00edn,1
+Joaqu\u00edn,Bartra,1
+Joaqu\u00edn,A. Mandi,1
+A. Sanabria,Bartra,1
+Rafa Navarro,V\u00edctor Camarasa,1
+A. Mandi,A. Sanabria,1
+Francis Guerrero,Bartra,1
+V\u00edctor Camarasa,Bartra,1
+Francis Guerrero,V\u00edctor Camarasa,1

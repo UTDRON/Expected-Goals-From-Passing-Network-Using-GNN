@@ -1,0 +1,20 @@
+Source,Target,Weight
+Pablo Fornals,Mario,3
+Mario,Pablo Fornals,3
+\u00c1lvaro Gonz\u00e1lez,Chuca,2
+Rodri,Chuca,1
+Mario,V\u00edctor Ru\u00edz,1
+V\u00edctor Ru\u00edz,Mario,1
+\u00c1lvaro Gonz\u00e1lez,V\u00edctor Ru\u00edz,1
+Pablo Fornals,V\u00edctor Ru\u00edz,1
+Chuca,\u00c1lvaro Gonz\u00e1lez,1
+V\u00edctor Ru\u00edz,\u00c1lvaro Gonz\u00e1lez,1
+Chuca,Rodri,1
+V\u00edctor Ru\u00edz,Rodri,1
+Jaume Costa,\u00c1lvaro Gonz\u00e1lez,1
+Rodri,Pablo Fornals,1
+Pablo Fornals,Jaume Costa,1
+Mario,\u00c1lvaro Gonz\u00e1lez,1
+Chuca,Mario,1
+Pablo Fornals,C. Bacca,1
+\u00c1lvaro Gonz\u00e1lez,Pablo Fornals,1

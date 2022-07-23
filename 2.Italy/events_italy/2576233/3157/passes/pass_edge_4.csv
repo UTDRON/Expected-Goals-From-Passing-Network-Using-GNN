@@ -1,0 +1,56 @@
+Source,Target,Weight
+L. Biglia,F. Borini,5
+A. Romagnoli,L. Bonucci,4
+F. Borini,G. Donnarumma,4
+A. Romagnoli,L. Biglia,4
+F. Borini,L. Biglia,4
+G. Donnarumma,A. Romagnoli,4
+L. Bonucci,A. Romagnoli,4
+G. Bonaventura,F. Borini,3
+F. Borini,F. Kessi\u00e9,3
+F. Kessi\u00e9,A. Romagnoli,2
+F. Kessi\u00e9,Suso,2
+A. Romagnoli,H. \u00c7alhano\u011flu,2
+F. Borini,L. Bonucci,2
+H. \u00c7alhano\u011flu,R. Rodr\u00edguez,2
+G. Bonaventura,N. Kalini\u0107,2
+A. Romagnoli,G. Bonaventura,2
+L. Biglia,L. Bonucci,2
+Suso,L. Biglia,2
+L. Bonucci,G. Bonaventura,2
+L. Biglia,G. Bonaventura,2
+R. Rodr\u00edguez,G. Bonaventura,2
+L. Bonucci,F. Borini,2
+N. Kalini\u0107,A. Romagnoli,2
+G. Bonaventura,L. Biglia,2
+A. Romagnoli,G. Donnarumma,2
+L. Bonucci,F. Kessi\u00e9,2
+G. Bonaventura,A. Romagnoli,2
+L. Bonucci,H. \u00c7alhano\u011flu,1
+H. \u00c7alhano\u011flu,G. Bonaventura,1
+H. \u00c7alhano\u011flu,L. Bonucci,1
+Suso,F. Borini,1
+L. Biglia,A. Romagnoli,1
+R. Rodr\u00edguez,L. Biglia,1
+A. Romagnoli,F. Kessi\u00e9,1
+R. Rodr\u00edguez,H. \u00c7alhano\u011flu,1
+R. Rodr\u00edguez,A. Romagnoli,1
+N. Kalini\u0107,H. \u00c7alhano\u011flu,1
+F. Kessi\u00e9,F. Borini,1
+H. \u00c7alhano\u011flu,L. Biglia,1
+A. Romagnoli,R. Rodr\u00edguez,1
+F. Kessi\u00e9,L. Bonucci,1
+G. Donnarumma,L. Bonucci,1
+G. Bonaventura,R. Rodr\u00edguez,1
+R. Rodr\u00edguez,N. Kalini\u0107,1
+L. Bonucci,R. Rodr\u00edguez,1
+G. Donnarumma,R. Rodr\u00edguez,1
+A. Romagnoli,F. Borini,1
+F. Kessi\u00e9,G. Bonaventura,1
+L. Biglia,R. Rodr\u00edguez,1
+L. Biglia,N. Kalini\u0107,1
+L. Biglia,Suso,1
+L. Biglia,G. Donnarumma,1
+Suso,A. Romagnoli,1
+G. Donnarumma,F. Kessi\u00e9,1
+R. Rodr\u00edguez,Suso,1

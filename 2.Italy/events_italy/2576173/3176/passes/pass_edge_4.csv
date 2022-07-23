@@ -1,0 +1,18 @@
+Source,Target,Weight
+G. Pezzella,D. Astori,2
+M. Badelj,J. Veretout,2
+J. Veretout,G. Simeone,1
+J. Veretout,M. Badelj,1
+D. Astori,G. Pezzella,1
+M. Sportiello,G. Pezzella,1
+F. Chiesa,G. Pezzella,1
+J. Veretout,C. Th\u00e9r\u00e9au,1
+G. Simeone,M. Sportiello,1
+C. Th\u00e9r\u00e9au,J. Veretout,1
+D. Astori,J. Veretout,1
+G. Pezzella,V. Laurini,1
+V. Laurini,M. Badelj,1
+M. Sportiello,F. Chiesa,1
+V. Laurini,M. Sportiello,1
+M. Badelj,G. Simeone,1
+G. Simeone,M. Badelj,1

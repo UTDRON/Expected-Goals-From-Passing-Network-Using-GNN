@@ -1,0 +1,29 @@
+Source,Target,Weight
+C. Santos,M. Wakaso,3
+C. Santos,Medr\u00e1n,3
+Fernando Pacheco,C. Santos,3
+Rodrigo Ely,Manu Garc\u00eda,2
+Munir,Alexis,2
+Manu Garc\u00eda,Fernando Pacheco,2
+Alexis,Munir,2
+M. Wakaso,Medr\u00e1n,2
+Alexis,C. Santos,2
+Medr\u00e1n,Alfonso Pedraza,2
+C. Santos,Alexis,1
+Alfonso Pedraza,Adri\u00e1n Di\u00e9guez,1
+Munir,C. Santos,1
+Medr\u00e1n,C. Santos,1
+Manu Garc\u00eda,Rodrigo Ely,1
+M. Wakaso,Rodrigo Ely,1
+C. Santos,Manu Garc\u00eda,1
+Manu Garc\u00eda,C. Santos,1
+Manu Garc\u00eda,Alexis,1
+Alfonso Pedraza,Fernando Pacheco,1
+Medr\u00e1n,Munir,1
+Alexis,M. Wakaso,1
+Medr\u00e1n,Manu Garc\u00eda,1
+Munir,Medr\u00e1n,1
+Adri\u00e1n Di\u00e9guez,C. Santos,1
+Medr\u00e1n,M. Wakaso,1
+C. Santos,Munir,1
+M. Wakaso,Manu Garc\u00eda,1

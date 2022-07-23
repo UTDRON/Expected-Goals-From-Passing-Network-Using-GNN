@@ -1,0 +1,13 @@
+Source,Target,Weight
+P. Cannavaro,A. Consigli,1
+F. Acerbi,P. Cannavaro,1
+S. Missiroli,F. Peluso,1
+G. Scamacca,S. Missiroli,1
+P. Cannavaro,S. Missiroli,1
+A. Consigli,F. Acerbi,1
+L. Mazzitelli,F. Acerbi,1
+D. Falcinelli,P. Cannavaro,1
+P. Cannavaro,G. Scamacca,1
+A. Matri,D. Falcinelli,1
+F. Peluso,A. Matri,1
+F. Acerbi,L. Mazzitelli,1

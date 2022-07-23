@@ -1,0 +1,61 @@
+Source,Target,Weight
+F. Zampano,J. Stryger Larsen,4
+F. Zampano,A. Bar\u00e1k,4
+G. Pezzella,R. de Paul,3
+K. Lasagna,A. Bar\u00e1k,3
+J. Stryger Larsen,A. Bizzarri,3
+G. Pezzella,J. Jankto,3
+V. Behrami,R. de Paul,2
+R. de Paul,V. Behrami,2
+A. Bar\u00e1k,F. Zampano,2
+R. de Paul,G. Pezzella,2
+A. Bizzarri,J. Stryger Larsen,2
+Danilo,F. Zampano,2
+K. Lasagna,B. Nuytinck,2
+A. Bar\u00e1k,R. de Paul,2
+J. Jankto,V. Behrami,2
+B. Nuytinck,G. Pezzella,2
+V. Behrami,J. Stryger Larsen,2
+J. Jankto,G. Pezzella,2
+J. Stryger Larsen,F. Zampano,2
+J. Stryger Larsen,V. Behrami,2
+B. Nuytinck,J. Jankto,1
+G. Pezzella,V. Behrami,1
+J. Stryger Larsen,K. Lasagna,1
+V. Behrami,A. Bar\u00e1k,1
+A. Bizzarri,F. Zampano,1
+R. de Paul,K. Lasagna,1
+Danilo,G. Pezzella,1
+F. Zampano,A. Bizzarri,1
+F. Zampano,J. Jankto,1
+A. Bar\u00e1k,Danilo,1
+B. Nuytinck,Danilo,1
+J. Jankto,F. Zampano,1
+Danilo,B. Nuytinck,1
+J. Stryger Larsen,A. Bar\u00e1k,1
+V. Behrami,J. Jankto,1
+A. Bizzarri,Danilo,1
+A. Bar\u00e1k,K. Lasagna,1
+R. de Paul,Danilo,1
+A. Bar\u00e1k,V. Behrami,1
+A. Bar\u00e1k,G. Pezzella,1
+J. Jankto,J. Stryger Larsen,1
+V. Behrami,F. Zampano,1
+A. Bar\u00e1k,B. Nuytinck,1
+A. Bar\u00e1k,J. Jankto,1
+R. de Paul,F. Zampano,1
+A. Bizzarri,K. Lasagna,1
+B. Nuytinck,A. Bizzarri,1
+Danilo,A. Bizzarri,1
+Danilo,K. Lasagna,1
+A. Bar\u00e1k,J. Stryger Larsen,1
+B. Nuytinck,R. de Paul,1
+V. Behrami,Danilo,1
+R. de Paul,B. Nuytinck,1
+V. Behrami,B. Nuytinck,1
+B. Nuytinck,V. Behrami,1
+J. Stryger Larsen,Danilo,1
+J. Jankto,B. Nuytinck,1
+Danilo,A. Bar\u00e1k,1
+G. Pezzella,A. Bar\u00e1k,1
+A. Bizzarri,V. Behrami,1

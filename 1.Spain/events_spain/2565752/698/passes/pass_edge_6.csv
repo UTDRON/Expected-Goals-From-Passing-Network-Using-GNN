@@ -1,0 +1,40 @@
+Source,Target,Weight
+Sergio Mora,Antunes,3
+Portillo,A. Ndiaye,2
+Antunes,Juan Cala,2
+Djen\u00e9,F. Fajr,2
+Bruno,F. Fajr,2
+Bruno,Antunes,2
+Bruno,Juan Cala,2
+Juan Cala,Bruno,2
+F. Fajr,Sergio Mora,2
+Antunes,Dani Pacheco,2
+A. Ndiaye,Antunes,1
+F. Fajr,\u00c1ngel,1
+\u00c1ngel,Djen\u00e9,1
+Bruno,A. Ndiaye,1
+Djen\u00e9,Juan Cala,1
+A. Ndiaye,Portillo,1
+Guaita,Bruno,1
+Juan Cala,\u00c1ngel,1
+Antunes,Bruno,1
+F. Fajr,Djen\u00e9,1
+Antunes,Guaita,1
+Bruno,Portillo,1
+Juan Cala,Djen\u00e9,1
+Antunes,Djen\u00e9,1
+Djen\u00e9,Sergio Mora,1
+Portillo,Bruno,1
+Djen\u00e9,Guaita,1
+Antunes,Portillo,1
+Guaita,Dani Pacheco,1
+Dani Pacheco,Juan Cala,1
+F. Fajr,Bruno,1
+Dani Pacheco,Portillo,1
+Juan Cala,Guaita,1
+Juan Cala,Sergio Mora,1
+Dani Pacheco,Antunes,1
+Portillo,Djen\u00e9,1
+Guaita,Antunes,1
+A. Ndiaye,F. Fajr,1
+Sergio Mora,Bruno,1

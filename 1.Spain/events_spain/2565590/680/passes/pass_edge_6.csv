@@ -1,0 +1,64 @@
+Source,Target,Weight
+M. Krohn-Dehli,S. N'Zonzi,6
+G. Mercado,Jes\u00fas Navas,6
+M. Krohn-Dehli,S. Kj\u00e6r,4
+N. Pareja,M. Krohn-Dehli,4
+S. N'Zonzi,G. Mercado,4
+Jes\u00fas Navas,G. Mercado,4
+S. N'Zonzi,Ganso,4
+G. Mercado,N. Pareja,3
+S. Kj\u00e6r,S. N'Zonzi,3
+Sergio Escudero,M. Krohn-Dehli,3
+J. Correa,M. Krohn-Dehli,3
+N. Pareja,S. N'Zonzi,3
+S. N'Zonzi,M. Krohn-Dehli,3
+S. N'Zonzi,J. Correa,3
+S. Kj\u00e6r,Sergio Rico,3
+Ganso,S. Kj\u00e6r,3
+J. Correa,G. Mercado,2
+S. N'Zonzi,Sergio Escudero,2
+S. Kj\u00e6r,Sergio Escudero,2
+Jes\u00fas Navas,M. Krohn-Dehli,2
+S. Kj\u00e6r,M. Krohn-Dehli,2
+N. Pareja,G. Mercado,2
+Sergio Rico,N. Pareja,2
+M. Krohn-Dehli,W. Ben Yedder,2
+G. Mercado,M. Krohn-Dehli,2
+Sergio Rico,J. Correa,2
+J. Correa,S. Kj\u00e6r,2
+M. Krohn-Dehli,G. Mercado,2
+S. Kj\u00e6r,N. Pareja,2
+M. Krohn-Dehli,Sergio Escudero,2
+G. Mercado,S. N'Zonzi,2
+Sergio Escudero,Ganso,2
+Jes\u00fas Navas,N. Pareja,2
+J. Correa,S. N'Zonzi,1
+Ganso,G. Mercado,1
+M. Krohn-Dehli,J. Correa,1
+M. Krohn-Dehli,Jes\u00fas Navas,1
+N. Pareja,Jes\u00fas Navas,1
+S. N'Zonzi,W. Ben Yedder,1
+Sergio Escudero,S. N'Zonzi,1
+W. Ben Yedder,Ganso,1
+N. Pareja,S. Kj\u00e6r,1
+G. Mercado,Ganso,1
+Ganso,S. N'Zonzi,1
+M. Krohn-Dehli,Ganso,1
+N. Pareja,J. Correa,1
+W. Ben Yedder,Jes\u00fas Navas,1
+Ganso,J. Correa,1
+G. Mercado,S. Kj\u00e6r,1
+J. Correa,Sergio Escudero,1
+M. Krohn-Dehli,N. Pareja,1
+G. Mercado,Sergio Escudero,1
+Ganso,N. Pareja,1
+Sergio Escudero,W. Ben Yedder,1
+S. Kj\u00e6r,G. Mercado,1
+S. N'Zonzi,N. Pareja,1
+W. Ben Yedder,S. N'Zonzi,1
+W. Ben Yedder,S. Kj\u00e6r,1
+Ganso,M. Krohn-Dehli,1
+Jes\u00fas Navas,S. Kj\u00e6r,1
+Sergio Escudero,J. Correa,1
+Ganso,W. Ben Yedder,1
+N. Pareja,Sergio Rico,1

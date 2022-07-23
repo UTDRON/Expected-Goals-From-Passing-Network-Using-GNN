@@ -1,0 +1,75 @@
+Source,Target,Weight
+David L\u00f3pez,Naldo,5
+V\u00edctor S\u00e1nchez,David L\u00f3pez,5
+Naldo,Sergi Darder,4
+V\u00edctor S\u00e1nchez,Javi Fuego,3
+Naldo,Aar\u00f3n,3
+Javi Fuego,V\u00edctor S\u00e1nchez,3
+P. Piatti,Aar\u00f3n,3
+Sergi Darder,Naldo,3
+Aar\u00f3n,P. Piatti,3
+David L\u00f3pez,V\u00edctor S\u00e1nchez,3
+Javi Fuego,Sergi Darder,3
+Sergio Garc\u00eda,P. Piatti,2
+Sergi Darder,V\u00edctor S\u00e1nchez,2
+Naldo,Gerard Moreno,2
+L\u00e9o Baptist\u00e3o,V\u00edctor S\u00e1nchez,2
+Aar\u00f3n,Naldo,2
+P. Piatti,Naldo,2
+Javi Fuego,Jurado,2
+Naldo,David L\u00f3pez,2
+Gerard Moreno,Javi Fuego,2
+V\u00edctor S\u00e1nchez,Gerard Moreno,2
+Gerard Moreno,David L\u00f3pez,2
+Gerard Moreno,P. Piatti,2
+Aar\u00f3n,Sergi Darder,2
+Pau L\u00f3pez,Sergio Garc\u00eda,2
+Jurado,Javi Fuego,2
+Gerard Moreno,V\u00edctor S\u00e1nchez,1
+Pau L\u00f3pez,David L\u00f3pez,1
+Sergi Darder,Aar\u00f3n,1
+Javi Fuego,Gerard Moreno,1
+Sergi Darder,P. Piatti,1
+Gerard Moreno,Jurado,1
+Sergi Darder,David L\u00f3pez,1
+Naldo,L\u00e9o Baptist\u00e3o,1
+V\u00edctor S\u00e1nchez,Sergi Darder,1
+Aar\u00f3n,Pau L\u00f3pez,1
+V\u00edctor S\u00e1nchez,Pau L\u00f3pez,1
+V\u00edctor S\u00e1nchez,Sergio Garc\u00eda,1
+P. Piatti,Gerard Moreno,1
+Javi Fuego,David L\u00f3pez,1
+Javi Fuego,Aar\u00f3n,1
+V\u00edctor S\u00e1nchez,Aar\u00f3n,1
+Aar\u00f3n,V\u00edctor S\u00e1nchez,1
+Jurado,Gerard Moreno,1
+Pau L\u00f3pez,Javi Fuego,1
+Jurado,V\u00edctor S\u00e1nchez,1
+Jurado,David L\u00f3pez,1
+David L\u00f3pez,Javi Fuego,1
+P. Piatti,David L\u00f3pez,1
+Sergi Darder,Pau L\u00f3pez,1
+Javi Fuego,P. Piatti,1
+Naldo,V\u00edctor S\u00e1nchez,1
+V\u00edctor S\u00e1nchez,P. Piatti,1
+Sergi Darder,Jurado,1
+Sergio Garc\u00eda,Aar\u00f3n,1
+V\u00edctor S\u00e1nchez,L\u00e9o Baptist\u00e3o,1
+David L\u00f3pez,Pau L\u00f3pez,1
+Sergio Garc\u00eda,Javi Fuego,1
+Naldo,Pau L\u00f3pez,1
+P. Piatti,V\u00edctor S\u00e1nchez,1
+Aar\u00f3n,Sergio Garc\u00eda,1
+Pau L\u00f3pez,V\u00edctor S\u00e1nchez,1
+Javi Fuego,Naldo,1
+Aar\u00f3n,Javi Fuego,1
+Sergio Garc\u00eda,Naldo,1
+David L\u00f3pez,L\u00e9o Baptist\u00e3o,1
+Naldo,Javi Fuego,1
+David L\u00f3pez,Aar\u00f3n,1
+L\u00e9o Baptist\u00e3o,David L\u00f3pez,1
+P. Piatti,Sergio Garc\u00eda,1
+P. Piatti,Javi Fuego,1
+David L\u00f3pez,Jurado,1
+David L\u00f3pez,P. Piatti,1
+David L\u00f3pez,Gerard Moreno,1

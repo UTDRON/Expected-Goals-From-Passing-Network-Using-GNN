@@ -1,0 +1,20 @@
+Source,Target,Weight
+E. Mu\u00f1oz,Gabriel,2
+C. Beauvue,Gabriel,2
+A. Szymanowski,E. Mu\u00f1oz,1
+Gabriel,C. Beauvue,1
+D. Siovas,Diego Rico,1
+Cu\u00e9llar,D. Siovas,1
+Diego Rico,E. Mu\u00f1oz,1
+E. Mu\u00f1oz,Cu\u00e9llar,1
+C. Beauvue,Eraso,1
+D. Bra\u0161anac,C. Beauvue,1
+Eraso,A. Szymanowski,1
+Diego Rico,Erik Mor\u00e1n,1
+Erik Mor\u00e1n,Zald\u00faa,1
+Gabriel,Diego Rico,1
+Gabriel,A. Szymanowski,1
+Zald\u00faa,Diego Rico,1
+Gabriel,D. Bra\u0161anac,1
+A. Szymanowski,Eraso,1
+Diego Rico,C. Beauvue,1

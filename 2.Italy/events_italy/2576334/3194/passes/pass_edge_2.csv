@@ -1,0 +1,64 @@
+Source,Target,Weight
+Nicolas,M. Fares,7
+A. Danzi,M. Fossati,5
+M. Fossati,Nicolas,5
+M. Fares,Ryder Matos,5
+M. Fossati,A. Ferrari,4
+Ryder Matos,R. Aarons,3
+M. Fares,A. Danzi,3
+M. Fossati,R\u00f4mulo,3
+M. Fares,Nicolas,3
+A. Ferrari,M. Fossati,3
+Nicolas,M. Fossati,3
+Ryder Matos,R\u00f4mulo,2
+R. Aarons,M. Fares,2
+M. Fossati,Ryder Matos,2
+A. Caracciolo,R. Aarons,2
+Ryder Matos,A. Danzi,2
+S. Souprayen,Nicolas,2
+A. Caracciolo,M. Fossati,2
+R. Aarons,R\u00f4mulo,2
+R\u00f4mulo,S. Souprayen,2
+A. Danzi,Ryder Matos,2
+R\u00f4mulo,Ryder Matos,2
+S. Souprayen,M. Fares,2
+Nicolas,A. Danzi,2
+A. Ferrari,R\u00f4mulo,2
+M. Fares,R. Aarons,2
+R\u00f4mulo,M. Fares,2
+M. Fares,M. Fossati,2
+M. Fossati,A. Caracciolo,2
+Ryder Matos,M. Fares,2
+A. Caracciolo,A. Ferrari,1
+Nicolas,A. Cerci,1
+A. Ferrari,R. Aarons,1
+A. Ferrari,S. Souprayen,1
+M. Fossati,S. Souprayen,1
+R. Aarons,Nicolas,1
+A. Danzi,A. Caracciolo,1
+A. Cerci,Nicolas,1
+S. Souprayen,A. Caracciolo,1
+A. Caracciolo,R\u00f4mulo,1
+S. Souprayen,M. Fossati,1
+A. Ferrari,A. Caracciolo,1
+A. Ferrari,M. Fares,1
+A. Caracciolo,Nicolas,1
+Nicolas,A. Caracciolo,1
+A. Ferrari,Ryder Matos,1
+R\u00f4mulo,M. Fossati,1
+R\u00f4mulo,Nicolas,1
+A. Danzi,A. Ferrari,1
+A. Cerci,A. Ferrari,1
+R. Aarons,A. Danzi,1
+R\u00f4mulo,A. Cerci,1
+R\u00f4mulo,A. Ferrari,1
+Ryder Matos,A. Ferrari,1
+R. Aarons,A. Cerci,1
+Ryder Matos,M. Fossati,1
+Nicolas,S. Souprayen,1
+M. Fossati,A. Danzi,1
+A. Cerci,A. Danzi,1
+M. Fares,S. Souprayen,1
+A. Danzi,Nicolas,1
+M. Fares,A. Caracciolo,1
+R. Aarons,A. Ferrari,1

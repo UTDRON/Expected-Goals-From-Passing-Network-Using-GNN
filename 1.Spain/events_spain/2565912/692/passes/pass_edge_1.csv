@@ -1,0 +1,62 @@
+Source,Target,Weight
+L. Boy\u00e9,Jozabed,4
+S. Lobotka,Jonny,3
+S. Lobotka,F. Roncaglia,3
+Jozabed,S. Lobotka,3
+Jozabed,L. Boy\u00e9,3
+Hugo Mallo,Brais M\u00e9ndez,3
+S. Lobotka,Hugo Mallo,2
+Sergio \u00c1lvarez,L. Boy\u00e9,2
+Jonny,S. Lobotka,2
+L. Boy\u00e9,Jonny,2
+S. Lobotka,Sergio \u00c1lvarez,2
+F. Roncaglia,Sergi G\u00f3mez,2
+Sergi G\u00f3mez,Jonny,2
+Sergi G\u00f3mez,F. Roncaglia,2
+S. Lobotka,Jozabed,2
+Jonny,F. Roncaglia,2
+Jonny,Sergi G\u00f3mez,2
+D. Wass,L. Boy\u00e9,2
+F. Roncaglia,Hugo Mallo,2
+Brais M\u00e9ndez,Hugo Mallo,2
+Brais M\u00e9ndez,S. Lobotka,2
+Sergio \u00c1lvarez,S. Lobotka,2
+Jozabed,Jonny,2
+Hugo Mallo,L. Boy\u00e9,2
+Jonny,L. Boy\u00e9,2
+Jozabed,D. Wass,1
+L. Boy\u00e9,D. Wass,1
+Sergio \u00c1lvarez,Maxi G\u00f3mez,1
+Maxi G\u00f3mez,D. Wass,1
+Sergi G\u00f3mez,D. Wass,1
+D. Wass,Jozabed,1
+F. Roncaglia,Jonny,1
+S. Lobotka,Sergi G\u00f3mez,1
+Jonny,Jozabed,1
+Hugo Mallo,S. Lobotka,1
+Hugo Mallo,F. Roncaglia,1
+Jonny,Hugo Mallo,1
+Hugo Mallo,Jozabed,1
+Sergi G\u00f3mez,L. Boy\u00e9,1
+Sergio \u00c1lvarez,Hugo Mallo,1
+D. Wass,S. Lobotka,1
+D. Wass,Brais M\u00e9ndez,1
+L. Boy\u00e9,F. Roncaglia,1
+D. Wass,Maxi G\u00f3mez,1
+Maxi G\u00f3mez,Sergi G\u00f3mez,1
+Hugo Mallo,Sergio \u00c1lvarez,1
+L. Boy\u00e9,S. Lobotka,1
+Maxi G\u00f3mez,L. Boy\u00e9,1
+S. Lobotka,D. Wass,1
+Jonny,Sergio \u00c1lvarez,1
+Maxi G\u00f3mez,Jonny,1
+F. Roncaglia,Maxi G\u00f3mez,1
+L. Boy\u00e9,Hugo Mallo,1
+L. Boy\u00e9,Maxi G\u00f3mez,1
+Maxi G\u00f3mez,S. Lobotka,1
+Jozabed,Brais M\u00e9ndez,1
+L. Boy\u00e9,Sergio \u00c1lvarez,1
+F. Roncaglia,Jozabed,1
+F. Roncaglia,Sergio \u00c1lvarez,1
+Brais M\u00e9ndez,D. Wass,1
+F. Roncaglia,S. Lobotka,1

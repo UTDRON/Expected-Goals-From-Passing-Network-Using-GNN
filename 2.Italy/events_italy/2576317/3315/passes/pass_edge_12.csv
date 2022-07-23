@@ -1,0 +1,23 @@
+Source,Target,Weight
+D. Berardi,M. Politano,2
+S. Missiroli,C. Adjapong,2
+C. Adjapong,S. Missiroli,2
+Rog\u00e9rio,F. Peluso,2
+F. Peluso,C. Adjapong,1
+M. Politano,D. Berardi,1
+C. Adjapong,D. Berardi,1
+S. Missiroli,M. Politano,1
+Rog\u00e9rio,D. Berardi,1
+D. Berardi,Rog\u00e9rio,1
+M. Politano,S. Missiroli,1
+M. Politano,Rog\u00e9rio,1
+F. Peluso,F. Acerbi,1
+D. Berardi,F. Peluso,1
+S. Missiroli,A. Duncan,1
+F. Peluso,A. Duncan,1
+C. Adjapong,Rog\u00e9rio,1
+F. Acerbi,M. Lemos,1
+F. Acerbi,C. Adjapong,1
+A. Duncan,F. Peluso,1
+M. Lemos,S. Missiroli,1
+F. Peluso,D. Berardi,1

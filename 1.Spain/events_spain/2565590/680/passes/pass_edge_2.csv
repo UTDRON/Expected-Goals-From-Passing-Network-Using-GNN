@@ -1,0 +1,26 @@
+Source,Target,Weight
+Sergio Escudero,J. Correa,3
+G. Mercado,Ganso,3
+M. Krohn-Dehli,Sergio Escudero,2
+S. N'Zonzi,Sergio Escudero,2
+J. Correa,S. N'Zonzi,1
+N. Pareja,S. N'Zonzi,1
+Ganso,N. Pareja,1
+N. Pareja,G. Mercado,1
+W. Ben Yedder,Sergio Escudero,1
+W. Ben Yedder,G. Mercado,1
+S. N'Zonzi,M. Krohn-Dehli,1
+J. Correa,G. Mercado,1
+Ganso,G. Mercado,1
+J. Correa,Sergio Escudero,1
+N. Pareja,Sergio Escudero,1
+Sergio Escudero,S. N'Zonzi,1
+Ganso,M. Krohn-Dehli,1
+Sergio Escudero,Sergio Rico,1
+Ganso,W. Ben Yedder,1
+Sergio Escudero,M. Krohn-Dehli,1
+N. Pareja,Ganso,1
+Sergio Escudero,G. Mercado,1
+Sergio Rico,N. Pareja,1
+M. Krohn-Dehli,N. Pareja,1
+G. Mercado,W. Ben Yedder,1

@@ -1,0 +1,67 @@
+Source,Target,Weight
+E. Pulgar,A. Masina,6
+A. Masina,R. Palacio,6
+A. Poli,E. Pulgar,6
+E. Pulgar,G. Gonz\u00e1lez,4
+E. Pulgar,S. De Maio,3
+S. De Maio,E. Pulgar,3
+R. Palacio,S. De Maio,3
+I. M'baye,A. Poli,3
+S. De Maio,G. Gonz\u00e1lez,3
+I. M'baye,G. Gonz\u00e1lez,3
+G. Gonz\u00e1lez,R. Orsolini,3
+B. D\u017eemaili,E. Pulgar,3
+R. Palacio,A. Masina,2
+G. Gonz\u00e1lez,A. Poli,2
+R. Orsolini,S. De Maio,2
+G. Gonz\u00e1lez,S. De Maio,2
+A. Masina,S. De Maio,2
+A. Poli,G. Gonz\u00e1lez,2
+A. Poli,I. M'baye,2
+S. De Maio,B. D\u017eemaili,2
+R. Palacio,A. Poli,2
+A. Masina,F. Di Francesco,2
+B. D\u017eemaili,R. Orsolini,2
+G. Gonz\u00e1lez,E. Pulgar,2
+E. Pulgar,I. M'baye,2
+A. Masina,E. Pulgar,2
+F. Di Francesco,E. Pulgar,2
+S. De Maio,A. Poli,2
+R. Orsolini,E. Pulgar,2
+E. Pulgar,B. D\u017eemaili,2
+G. Gonz\u00e1lez,I. M'baye,2
+R. Orsolini,I. M'baye,2
+F. Di Francesco,A. Poli,1
+G. Gonz\u00e1lez,A. Masina,1
+A. Mirante,A. Poli,1
+R. Palacio,B. D\u017eemaili,1
+I. M'baye,A. Mirante,1
+G. Gonz\u00e1lez,A. Mirante,1
+F. Di Francesco,I. M'baye,1
+A. Poli,A. Masina,1
+R. Orsolini,G. Gonz\u00e1lez,1
+S. De Maio,R. Palacio,1
+A. Poli,B. D\u017eemaili,1
+S. De Maio,R. Orsolini,1
+R. Orsolini,F. Di Francesco,1
+A. Masina,B. D\u017eemaili,1
+R. Palacio,R. Orsolini,1
+A. Mirante,E. Pulgar,1
+E. Pulgar,F. Di Francesco,1
+S. De Maio,A. Mirante,1
+A. Mirante,S. De Maio,1
+S. De Maio,I. M'baye,1
+G. Gonz\u00e1lez,R. Palacio,1
+F. Di Francesco,A. Mirante,1
+S. De Maio,F. Di Francesco,1
+B. D\u017eemaili,F. Di Francesco,1
+A. Mirante,G. Gonz\u00e1lez,1
+F. Di Francesco,S. De Maio,1
+E. Pulgar,A. Poli,1
+A. Mirante,A. Masina,1
+S. De Maio,A. Masina,1
+I. M'baye,R. Orsolini,1
+I. M'baye,S. De Maio,1
+I. M'baye,R. Palacio,1
+B. D\u017eemaili,S. De Maio,1
+E. Pulgar,A. Mirante,1

@@ -1,0 +1,15 @@
+Source,Target,Weight
+S. Souprayen,M. Fares,2
+M. Fares,Daniel Bessa,1
+M. Kean,S. Souprayen,1
+M. Fares,A. Caracciolo,1
+M. Kean,M. Fares,1
+A. Caracciolo,T. Heurtaux,1
+T. Heurtaux,Nicolas,1
+S. Souprayen,M. Kean,1
+A. Caracciolo,Nicolas,1
+Nicolas,S. Souprayen,1
+Daniel Bessa,A. Caracciolo,1
+Nicolas,M. Fares,1
+A. Caracciolo,S. Souprayen,1
+M. Fares,M. Kean,1

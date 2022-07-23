@@ -1,0 +1,21 @@
+Source,Target,Weight
+B. Dabo,G. Simeone,5
+C. Biraghi,B. Dabo,3
+M. Sportiello,B. Dabo,3
+B. Dabo,C. Biraghi,2
+G. Simeone,V. Laurini,2
+V. Laurini,B. Dabo,1
+G. Simeone,C. Biraghi,1
+V. Laurini,R. Saponara,1
+M. Benassi,M. Sportiello,1
+C. Biraghi,Vitor Hugo,1
+C. Biraghi,M. Sportiello,1
+B. Dabo,M. Benassi,1
+G. Simeone,G. Pezzella,1
+J. Veretout,C. Biraghi,1
+G. Pezzella,J. Veretout,1
+Vitor Hugo,J. Veretout,1
+G. Simeone,B. Dabo,1
+Vitor Hugo,M. Sportiello,1
+J. Veretout,V. Laurini,1
+V. Laurini,C. Biraghi,1

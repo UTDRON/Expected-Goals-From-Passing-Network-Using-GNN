@@ -1,0 +1,39 @@
+Source,Target,Weight
+M. Rog,E. Hysaj,3
+Albiol,K. Koulibaly,3
+M. Rog,M\u00e1rio Rui,2
+M\u00e1rio Rui,M. Ham\u0161\u00edk,2
+M\u00e1rio Rui,A. Diawara,2
+Jos\u00e9 Callej\u00f3n,M. Rog,2
+A. Diawara,M\u00e1rio Rui,2
+E. Hysaj,M. Rog,2
+E. Hysaj,Jos\u00e9 Callej\u00f3n,2
+M. Ham\u0161\u00edk,A. Ounas,2
+A. Ounas,M. Rog,2
+A. Ounas,M. Ham\u0161\u00edk,1
+K. Koulibaly,A. Ounas,1
+K. Koulibaly,Jorginho,1
+Jorginho,E. Hysaj,1
+Albiol,M. Rog,1
+Jorginho,Pepe Reina,1
+Jos\u00e9 Callej\u00f3n,Albiol,1
+Jorginho,Jos\u00e9 Callej\u00f3n,1
+A. Diawara,M. Rog,1
+Pepe Reina,D. Mertens,1
+M. Rog,Albiol,1
+M. Rog,Jos\u00e9 Callej\u00f3n,1
+M. Rog,A. Diawara,1
+D. Mertens,A. Diawara,1
+Jorginho,Albiol,1
+M. Rog,Jorginho,1
+A. Diawara,Albiol,1
+K. Koulibaly,M. Rog,1
+M\u00e1rio Rui,Albiol,1
+Jos\u00e9 Callej\u00f3n,E. Hysaj,1
+Albiol,A. Ounas,1
+M. Ham\u0161\u00edk,Jorginho,1
+E. Hysaj,M\u00e1rio Rui,1
+A. Ounas,M\u00e1rio Rui,1
+M\u00e1rio Rui,A. Ounas,1
+Albiol,Jorginho,1
+A. Ounas,Jos\u00e9 Callej\u00f3n,1

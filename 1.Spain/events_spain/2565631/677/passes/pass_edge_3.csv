@@ -1,0 +1,77 @@
+Source,Target,Weight
+Juanfran,Fede Cartabia,10
+Fede Cartabia,Juanfran,10
+Guilherme,Sidnei,4
+E. \u00c7olak,F. Valverde,4
+Sidnei,F. Valverde,4
+Juanfran,Albentosa,4
+Albentosa,E. \u00c7olak,4
+Sidnei,Guilherme,4
+Luisinho,F. Valverde,4
+Juanfran,Guilherme,3
+E. \u00c7olak,Luisinho,3
+Fede Cartabia,Luisinho,3
+C. Borges,Albentosa,3
+Guilherme,Fede Cartabia,3
+E. \u00c7olak,C. Borges,3
+F. Valverde,Fede Cartabia,3
+Albentosa,Sidnei,3
+E. \u00c7olak,Guilherme,3
+Fede Cartabia,E. \u00c7olak,3
+Luisinho,Guilherme,3
+C. Borges,E. \u00c7olak,3
+F. Valverde,Lucas P\u00e9rez,2
+C. Borges,Guilherme,2
+E. \u00c7olak,Lucas P\u00e9rez,2
+Fede Cartabia,C. Borges,2
+Albentosa,C. Borges,2
+Luisinho,E. \u00c7olak,2
+Guilherme,Luisinho,2
+Lucas P\u00e9rez,Sidnei,2
+Juanfran,C. Borges,2
+C. Borges,Fede Cartabia,2
+E. \u00c7olak,Fede Cartabia,2
+C. Borges,Juanfran,2
+Luisinho,Sidnei,2
+Guilherme,E. \u00c7olak,2
+Guilherme,Lucas P\u00e9rez,2
+Lucas P\u00e9rez,C. Borges,2
+Guilherme,Juanfran,2
+Guilherme,C. Borges,2
+C. Borges,Sidnei,2
+F. Valverde,Luisinho,2
+Sidnei,C. Borges,2
+Sidnei,Albentosa,2
+Lucas P\u00e9rez,E. \u00c7olak,2
+C. Borges,Lucas P\u00e9rez,2
+F. Valverde,E. \u00c7olak,2
+Albentosa,Lucas P\u00e9rez,1
+F. Valverde,Guilherme,1
+Lucas P\u00e9rez,Albentosa,1
+C. Borges,Luisinho,1
+Luisinho,Lucas P\u00e9rez,1
+Lucas P\u00e9rez,Fede Cartabia,1
+Lucas P\u00e9rez,F. Valverde,1
+E. \u00c7olak,Juanfran,1
+Sidnei,E. \u00c7olak,1
+F. Uzoho,C. Borges,1
+Juanfran,F. Valverde,1
+F. Uzoho,Juanfran,1
+Fede Cartabia,F. Uzoho,1
+Albentosa,Guilherme,1
+F. Valverde,Juanfran,1
+Fede Cartabia,Albentosa,1
+F. Valverde,F. Uzoho,1
+F. Valverde,C. Borges,1
+Sidnei,F. Uzoho,1
+Albentosa,Fede Cartabia,1
+F. Valverde,Albentosa,1
+Guilherme,Albentosa,1
+Fede Cartabia,Sidnei,1
+E. \u00c7olak,Sidnei,1
+Lucas P\u00e9rez,Guilherme,1
+Albentosa,Juanfran,1
+Lucas P\u00e9rez,Juanfran,1
+Sidnei,Juanfran,1
+F. Uzoho,Lucas P\u00e9rez,1
+Sidnei,Luisinho,1

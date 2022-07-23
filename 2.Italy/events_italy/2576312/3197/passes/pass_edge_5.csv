@@ -1,0 +1,89 @@
+Source,Target,Weight
+F. Ceccherini,D. Faraoni,12
+M. Capuano,A. Stoian,8
+D. Faraoni,F. Ceccherini,8
+M. Capuano,F. Ceccherini,8
+A. Nalini,M. Capuano,7
+F. Ceccherini,M. Capuano,7
+M. Capuano,R. Mandragora,7
+R. Mandragora,B. Martella,7
+R. Mandragora,D. Faraoni,6
+F. Ceccherini,R. Mandragora,5
+D. Faraoni,R. Mandragora,5
+R. Mandragora,F. Ceccherini,5
+B. Martella,R. Mandragora,5
+D. Faraoni,A. Barberis,5
+R. Mandragora,M. Capuano,5
+A. Stoian,R. Mandragora,5
+A. Stoian,A. Nalini,4
+A. Stoian,F. Ceccherini,4
+A. Stoian,M. Capuano,4
+A. Barberis,D. Faraoni,4
+A. Barberis,A. Nalini,4
+B. Martella,F. Ceccherini,4
+B. Martella,M. Capuano,4
+D. Faraoni,M. Capuano,4
+M. Capuano,B. Martella,4
+A. Stoian,B. Martella,4
+A. Barberis,M. Trotta,4
+B. Martella,A. Stoian,4
+A. Nalini,A. Stoian,3
+M. Trotta,A. Barberis,3
+R. Mandragora,A. Stoian,3
+M. Capuano,A. Cordaz,3
+A. Barberis,M. Capuano,3
+R. Mandragora,A. Nalini,3
+A. Nalini,A. Barberis,3
+D. Faraoni,A. Nalini,3
+Simy,F. Ceccherini,3
+F. Ceccherini,B. Martella,3
+A. Cordaz,D. Faraoni,3
+F. Ceccherini,A. Barberis,3
+A. Cordaz,A. Nalini,3
+A. Nalini,Simy,3
+D. Faraoni,M. Trotta,3
+M. Capuano,A. Nalini,2
+B. Martella,D. Faraoni,2
+F. Ceccherini,A. Stoian,2
+B. Martella,Simy,2
+A. Nalini,D. Faraoni,2
+M. Trotta,A. Nalini,2
+F. Ceccherini,A. Cordaz,2
+A. Stoian,A. Barberis,2
+A. Barberis,Simy,2
+A. Nalini,A. Cordaz,2
+M. Capuano,Simy,2
+R. Mandragora,A. Barberis,2
+A. Stoian,M. Trotta,2
+B. Martella,A. Nalini,2
+M. Trotta,R. Mandragora,2
+M. Trotta,A. Stoian,2
+D. Faraoni,B. Martella,2
+A. Nalini,R. Mandragora,1
+A. Cordaz,M. Capuano,1
+M. Capuano,D. Faraoni,1
+Simy,D. Faraoni,1
+M. Trotta,M. Capuano,1
+D. Faraoni,A. Cordaz,1
+M. Trotta,D. Faraoni,1
+A. Barberis,R. Mandragora,1
+M. Trotta,F. Ceccherini,1
+A. Nalini,B. Martella,1
+A. Barberis,F. Ceccherini,1
+R. Mandragora,M. Trotta,1
+A. Nalini,M. Trotta,1
+M. Capuano,M. Trotta,1
+A. Stoian,A. Cordaz,1
+A. Barberis,A. Stoian,1
+M. Trotta,B. Martella,1
+F. Ceccherini,M. Trotta,1
+Simy,R. Mandragora,1
+A. Cordaz,A. Stoian,1
+M. Capuano,A. Barberis,1
+D. Faraoni,A. Stoian,1
+Simy,B. Martella,1
+Simy,A. Barberis,1
+A. Cordaz,F. Ceccherini,1
+A. Stoian,Simy,1
+Simy,A. Stoian,1
+Simy,M. Capuano,1

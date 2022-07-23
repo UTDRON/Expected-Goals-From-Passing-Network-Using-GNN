@@ -1,0 +1,76 @@
+Source,Target,Weight
+Paulo Oliveira,Arbilla,8
+David Junc\u00e0,G\u00e1lvez,7
+G\u00e1lvez,David Junc\u00e0,6
+Arbilla,Ander Capa,6
+Ander Capa,Arbilla,5
+T. Inui,Dani Garc\u00eda,4
+Arbilla,Paulo Oliveira,4
+G\u00e1lvez,M. Dmitrovi\u0107,4
+David Junc\u00e0,T. Inui,4
+Dani Garc\u00eda,Arbilla,4
+Arbilla,David Junc\u00e0,3
+T. Inui,Joan Jord\u00e1n,3
+David Junc\u00e0,Dani Garc\u00eda,3
+G\u00e1lvez,Paulo Oliveira,3
+M. Dmitrovi\u0107,Sergi Enrich,3
+Ander Capa,Paulo Oliveira,3
+Dani Garc\u00eda,T. Inui,3
+Sergi Enrich,Dani Garc\u00eda,3
+G\u00e1lvez,Dani Garc\u00eda,3
+Joan Jord\u00e1n,T. Inui,3
+T. Inui,David Junc\u00e0,3
+David Junc\u00e0,G. Escalante,3
+M. Dmitrovi\u0107,G\u00e1lvez,3
+Joan Jord\u00e1n,David Junc\u00e0,3
+Dani Garc\u00eda,G\u00e1lvez,3
+David Junc\u00e0,Sergi Enrich,3
+G. Escalante,Sergi Enrich,3
+T. Inui,G. Escalante,2
+T. Inui,G\u00e1lvez,2
+Arbilla,T. Inui,2
+Dani Garc\u00eda,David Junc\u00e0,2
+Paulo Oliveira,David Junc\u00e0,2
+Sergi Enrich,Ander Capa,2
+Arbilla,G\u00e1lvez,2
+G. Escalante,Arbilla,2
+G. Escalante,G\u00e1lvez,2
+Dani Garc\u00eda,Paulo Oliveira,2
+Dani Garc\u00eda,Joan Jord\u00e1n,2
+Paulo Oliveira,M. Dmitrovi\u0107,2
+Sergi Enrich,Arbilla,2
+Sergi Enrich,David Junc\u00e0,2
+Arbilla,M. Dmitrovi\u0107,2
+Dani Garc\u00eda,Sergi Enrich,2
+Arbilla,Dani Garc\u00eda,2
+Paulo Oliveira,G. Escalante,2
+G\u00e1lvez,Sergi Enrich,1
+Sergi Enrich,G\u00e1lvez,1
+Dani Garc\u00eda,Ander Capa,1
+David Junc\u00e0,Arbilla,1
+Arbilla,Joan Jord\u00e1n,1
+G\u00e1lvez,G. Escalante,1
+Ander Capa,Dani Garc\u00eda,1
+Sergi Enrich,T. Inui,1
+G. Escalante,David Junc\u00e0,1
+David Junc\u00e0,Paulo Oliveira,1
+Arbilla,G. Escalante,1
+M. Dmitrovi\u0107,T. Inui,1
+M. Dmitrovi\u0107,David Junc\u00e0,1
+Ander Capa,T. Inui,1
+Joan Jord\u00e1n,Paulo Oliveira,1
+Paulo Oliveira,Sergi Enrich,1
+Joan Jord\u00e1n,Dani Garc\u00eda,1
+G\u00e1lvez,T. Inui,1
+Paulo Oliveira,Dani Garc\u00eda,1
+T. Inui,Ander Capa,1
+G. Escalante,Dani Garc\u00eda,1
+G. Escalante,Ander Capa,1
+Dani Garc\u00eda,G. Escalante,1
+David Junc\u00e0,Joan Jord\u00e1n,1
+G. Escalante,Joan Jord\u00e1n,1
+G\u00e1lvez,Arbilla,1
+T. Inui,Paulo Oliveira,1
+M. Dmitrovi\u0107,Paulo Oliveira,1
+Sergi Enrich,G. Escalante,1
+Ander Capa,M. Dmitrovi\u0107,1

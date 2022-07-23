@@ -1,0 +1,74 @@
+Source,Target,Weight
+Rodrigo Ely,Rub\u00e9n Duarte,6
+Mart\u00edn,Ibai G\u00f3mez,6
+Rodrigo Ely,Mart\u00edn,5
+Rodrigo Ely,Laguardia,5
+Manu Garc\u00eda,Alfonso Pedraza,4
+Rub\u00e9n Duarte,Manu Garc\u00eda,4
+Tom\u00e1s Pina,Mart\u00edn,4
+Ibai G\u00f3mez,Mart\u00edn,4
+Mart\u00edn,Laguardia,4
+Laguardia,Rodrigo Ely,4
+Mart\u00edn,Rodrigo Ely,4
+Alfonso Pedraza,Munir,4
+Laguardia,Mart\u00edn,4
+Rub\u00e9n Duarte,Rodrigo Ely,4
+Manu Garc\u00eda,Rodrigo Ely,3
+Alfonso Pedraza,Rub\u00e9n Duarte,3
+Mart\u00edn,Munir,3
+Munir,Rodrigo Ely,3
+Munir,Rub\u00e9n Duarte,3
+Ibai G\u00f3mez,Manu Garc\u00eda,3
+Mart\u00edn,Manu Garc\u00eda,2
+Munir,J. Guidetti,2
+Rub\u00e9n Duarte,J. Guidetti,2
+Rodrigo Ely,Ibai G\u00f3mez,2
+Mart\u00edn,Rub\u00e9n Duarte,2
+Tom\u00e1s Pina,Laguardia,2
+Manu Garc\u00eda,Tom\u00e1s Pina,2
+Ibai G\u00f3mez,Rodrigo Ely,2
+J. Guidetti,Munir,2
+Rub\u00e9n Duarte,Munir,2
+Manu Garc\u00eda,Rub\u00e9n Duarte,2
+Laguardia,Manu Garc\u00eda,2
+Ibai G\u00f3mez,Munir,2
+Fernando Pacheco,Tom\u00e1s Pina,2
+J. Guidetti,Tom\u00e1s Pina,2
+Rub\u00e9n Duarte,Tom\u00e1s Pina,2
+Munir,Ibai G\u00f3mez,2
+Rub\u00e9n Duarte,Alfonso Pedraza,2
+Rub\u00e9n Duarte,Laguardia,1
+Manu Garc\u00eda,Ibai G\u00f3mez,1
+Tom\u00e1s Pina,Alfonso Pedraza,1
+Laguardia,Rub\u00e9n Duarte,1
+Rub\u00e9n Duarte,Mart\u00edn,1
+Rodrigo Ely,Munir,1
+Manu Garc\u00eda,Laguardia,1
+Rub\u00e9n Duarte,Ibai G\u00f3mez,1
+Manu Garc\u00eda,Mart\u00edn,1
+Rodrigo Ely,Manu Garc\u00eda,1
+Munir,Manu Garc\u00eda,1
+Laguardia,Tom\u00e1s Pina,1
+Munir,Tom\u00e1s Pina,1
+Munir,Mart\u00edn,1
+Alfonso Pedraza,Rodrigo Ely,1
+J. Guidetti,Laguardia,1
+Tom\u00e1s Pina,Manu Garc\u00eda,1
+Laguardia,J. Guidetti,1
+Tom\u00e1s Pina,Rodrigo Ely,1
+J. Guidetti,Mart\u00edn,1
+Tom\u00e1s Pina,Rub\u00e9n Duarte,1
+Ibai G\u00f3mez,J. Guidetti,1
+Rodrigo Ely,Alfonso Pedraza,1
+Ibai G\u00f3mez,Tom\u00e1s Pina,1
+Tom\u00e1s Pina,Munir,1
+J. Guidetti,Ibai G\u00f3mez,1
+Alfonso Pedraza,Tom\u00e1s Pina,1
+Alfonso Pedraza,J. Guidetti,1
+Munir,Alfonso Pedraza,1
+Laguardia,Fernando Pacheco,1
+Tom\u00e1s Pina,J. Guidetti,1
+J. Guidetti,Rub\u00e9n Duarte,1
+Ibai G\u00f3mez,Laguardia,1
+Rodrigo Ely,Fernando Pacheco,1
+Laguardia,Alfonso Pedraza,1

@@ -1,0 +1,59 @@
+Source,Target,Weight
+Pedro L\u00f3pez,Rub\u00e9n Rochina,4
+Rub\u00e9n Rochina,Campa\u00f1a,3
+Rub\u00e9n Rochina,Pedro L\u00f3pez,3
+S. Luki\u0107,G. Pazzini,3
+Campa\u00f1a,Luna,3
+Luna,S. Luki\u0107,2
+Campa\u00f1a,S. Luki\u0107,2
+Campa\u00f1a,Rub\u00e9n Rochina,2
+Rub\u00e9n Rochina,E. Cabaco,2
+Campa\u00f1a,G. Pazzini,2
+Koke,E. Cabaco,2
+Rub\u00e9n Rochina,Jos\u00e9 Luis Morales,2
+E. Cabaco,Pedro L\u00f3pez,2
+S. Luki\u0107,Campa\u00f1a,2
+G. Pazzini,Pedro L\u00f3pez,2
+S. Luki\u0107,Rub\u00e9n Rochina,2
+Campa\u00f1a,Jos\u00e9 Luis Morales,2
+Rub\u00e9n Rochina,Koke,2
+Luna,Campa\u00f1a,2
+G. Pazzini,Campa\u00f1a,1
+Jos\u00e9 Luis Morales,Rub\u00e9n Rochina,1
+G. Pazzini,Rub\u00e9n Rochina,1
+Koke,Luna,1
+Jason,Campa\u00f1a,1
+Luna,Chema,1
+Campa\u00f1a,Pedro L\u00f3pez,1
+Jason,Chema,1
+Koke,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+Pedro L\u00f3pez,E. Cabaco,1
+Pedro L\u00f3pez,Luna,1
+Jos\u00e9 Luis Morales,S. Luki\u0107,1
+Jos\u00e9 Luis Morales,Jason,1
+G. Pazzini,Jason,1
+Chema,S. Luki\u0107,1
+G. Pazzini,E. Cabaco,1
+G. Pazzini,S. Luki\u0107,1
+E. Cabaco,Rub\u00e9n Rochina,1
+E. Cabaco,Campa\u00f1a,1
+Jos\u00e9 Luis Morales,G. Pazzini,1
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,1
+G. Pazzini,Jos\u00e9 Luis Morales,1
+Koke,Campa\u00f1a,1
+Jason,Luna,1
+E. Cabaco,Koke,1
+S. Luki\u0107,Jason,1
+Luna,Rub\u00e9n Rochina,1
+Koke,S. Luki\u0107,1
+E. Cabaco,G. Pazzini,1
+Jason,Koke,1
+Pedro L\u00f3pez,Campa\u00f1a,1
+Chema,Koke,1
+Chema,E. Cabaco,1
+E. Cabaco,Chema,1
+S. Luki\u0107,Jos\u00e9 Luis Morales,1
+Pedro L\u00f3pez,G. Pazzini,1
+Campa\u00f1a,Jason,1
+Pedro L\u00f3pez,S. Luki\u0107,1

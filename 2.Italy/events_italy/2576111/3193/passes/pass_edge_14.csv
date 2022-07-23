@@ -1,0 +1,22 @@
+Source,Target,Weight
+N. Spolli,Miguel Veloso,3
+A. Rosi,A. Izzo,3
+A. Izzo,Miguel Veloso,2
+S. Omeonga,A. Rosi,2
+Miguel Veloso,S. Omeonga,2
+Miguel Veloso,N. Spolli,2
+A. Bertolacci,A. Rosi,1
+Miguel Veloso,A. Rosi,1
+F. Ricci,A. Bertolacci,1
+A. Izzo,A. Rosi,1
+A. Bertolacci,E. Zukanovi\u0107,1
+S. Omeonga,Miguel Veloso,1
+A. Taarabt,A. Bertolacci,1
+A. Rosi,F. Ricci,1
+F. Ricci,S. Omeonga,1
+Miguel Veloso,A. Izzo,1
+Miguel Veloso,A. Taarabt,1
+A. Rosi,Miguel Veloso,1
+A. Rosi,A. Taarabt,1
+A. Taarabt,F. Ricci,1
+A. Izzo,N. Spolli,1

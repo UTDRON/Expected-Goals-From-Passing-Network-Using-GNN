@@ -1,0 +1,33 @@
+Source,Target,Weight
+A. Barberis,B. Martella,3
+Simy,A. Nalini,3
+R. Mandragora,A. Barberis,3
+A. Cordaz,Simy,2
+B. Martella,Simy,2
+A. Ajeti,M. Sampirisi,2
+M. Rohd\u00e9n,A. Ajeti,2
+B. Martella,A. Stoian,2
+M. Sampirisi,M. Rohd\u00e9n,2
+M. Rohd\u00e9n,A. Cordaz,1
+M. Rohd\u00e9n,Simy,1
+A. Cordaz,F. Ceccherini,1
+A. Nalini,R. Mandragora,1
+Simy,M. Rohd\u00e9n,1
+A. Stoian,A. Barberis,1
+A. Ajeti,A. Barberis,1
+A. Barberis,R. Mandragora,1
+A. Nalini,A. Barberis,1
+A. Nalini,F. Ceccherini,1
+A. Barberis,A. Stoian,1
+A. Cordaz,A. Nalini,1
+F. Ceccherini,M. Rohd\u00e9n,1
+A. Stoian,A. Ajeti,1
+Simy,A. Cordaz,1
+A. Ajeti,A. Cordaz,1
+A. Stoian,A. Nalini,1
+Simy,B. Martella,1
+A. Nalini,A. Stoian,1
+F. Ceccherini,A. Ajeti,1
+A. Stoian,A. Cordaz,1
+M. Sampirisi,Simy,1
+A. Nalini,M. Sampirisi,1

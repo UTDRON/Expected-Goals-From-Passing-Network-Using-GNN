@@ -1,0 +1,54 @@
+Source,Target,Weight
+S. Widmer,R. de Paul,5
+Samir,B. Nuytinck,5
+B. Nuytinck,Samir,4
+S. Widmer,B. Nuytinck,3
+Maxi L\u00f3pez,A. Bar\u00e1k,3
+F. Zampano,Samir,3
+A. Bar\u00e1k,Samir,3
+Samir,F. Zampano,3
+B. Nuytinck,S. Widmer,3
+B. Nuytinck,A. Bar\u00e1k,2
+R. de Paul,S. Perica,2
+F. Zampano,J. Jankto,2
+J. Stryger Larsen,S. Perica,2
+R. de Paul,S. Widmer,2
+S. Perica,R. de Paul,2
+A. Bar\u00e1k,S. Widmer,2
+J. Stryger Larsen,B. Nuytinck,2
+A. Bar\u00e1k,E. Hallfre\u00f0sson,2
+Samir,E. Hallfre\u00f0sson,2
+B. Nuytinck,J. Stryger Larsen,2
+E. Hallfre\u00f0sson,Samir,2
+R. de Paul,A. Bar\u00e1k,2
+J. Jankto,J. Stryger Larsen,1
+S. Widmer,J. Stryger Larsen,1
+A. Bar\u00e1k,J. Stryger Larsen,1
+E. Hallfre\u00f0sson,J. Jankto,1
+R. de Paul,B. Nuytinck,1
+Samir,J. Jankto,1
+A. Bizzarri,S. Widmer,1
+A. Bizzarri,F. Zampano,1
+B. Nuytinck,A. Bizzarri,1
+R. de Paul,Maxi L\u00f3pez,1
+F. Zampano,A. Bizzarri,1
+J. Jankto,Samir,1
+J. Jankto,F. Zampano,1
+E. Hallfre\u00f0sson,S. Widmer,1
+S. Widmer,A. Bar\u00e1k,1
+A. Bizzarri,Maxi L\u00f3pez,1
+A. Bar\u00e1k,J. Jankto,1
+A. Bar\u00e1k,B. Nuytinck,1
+J. Jankto,S. Widmer,1
+Samir,S. Widmer,1
+S. Perica,J. Jankto,1
+Maxi L\u00f3pez,S. Perica,1
+J. Jankto,Maxi L\u00f3pez,1
+E. Hallfre\u00f0sson,Maxi L\u00f3pez,1
+Samir,A. Bar\u00e1k,1
+J. Jankto,E. Hallfre\u00f0sson,1
+J. Stryger Larsen,R. de Paul,1
+B. Nuytinck,R. de Paul,1
+R. de Paul,F. Zampano,1
+S. Perica,A. Bar\u00e1k,1
+S. Perica,B. Nuytinck,1

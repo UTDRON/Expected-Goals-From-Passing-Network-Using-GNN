@@ -1,0 +1,53 @@
+Source,Target,Weight
+\u00c9. Banega,G. Pizarro,5
+\u00c9. Banega,Sergio Escudero,4
+Sergio Escudero,\u00c9. Banega,4
+M. Krohn-Dehli,G. Pizarro,3
+M. Krohn-Dehli,W. Ben Yedder,3
+G. Pizarro,J. Geis,3
+M. Krohn-Dehli,Sergio Escudero,3
+Sergio Escudero,W. Ben Yedder,2
+G. Pizarro,\u00c9. Banega,2
+G. Pizarro,S. Kj\u00e6r,2
+Sergio Escudero,G. Pizarro,2
+W. Ben Yedder,S. Corchia,2
+\u00c9. Banega,M. Krohn-Dehli,2
+Sergio Escudero,Pablo Sarabia,2
+Sergio Escudero,M. Krohn-Dehli,2
+J. Geis,M. Krohn-Dehli,2
+S. Corchia,Pablo Sarabia,2
+Ganso,Pablo Sarabia,2
+Pablo Sarabia,Sergio Escudero,2
+G. Pizarro,M. Krohn-Dehli,2
+S. Corchia,J. Geis,1
+G. Pizarro,Ganso,1
+Ganso,\u00c9. Banega,1
+W. Ben Yedder,Sergio Escudero,1
+David Soria,\u00c9. Banega,1
+Pablo Sarabia,Ganso,1
+Pablo Sarabia,G. Pizarro,1
+S. Corchia,\u00c9. Banega,1
+S. Corchia,Ganso,1
+Pablo Sarabia,W. Ben Yedder,1
+\u00c9. Banega,S. Corchia,1
+W. Ben Yedder,Pablo Sarabia,1
+Pablo Sarabia,M. Krohn-Dehli,1
+J. Geis,Sergio Escudero,1
+W. Ben Yedder,Ganso,1
+G. Pizarro,S. Corchia,1
+W. Ben Yedder,\u00c9. Banega,1
+M. Krohn-Dehli,\u00c9. Banega,1
+Ganso,David Soria,1
+J. Geis,G. Pizarro,1
+G. Pizarro,Sergio Escudero,1
+Pablo Sarabia,S. Corchia,1
+S. Kj\u00e6r,J. Geis,1
+S. Kj\u00e6r,M. Krohn-Dehli,1
+S. Corchia,W. Ben Yedder,1
+W. Ben Yedder,M. Krohn-Dehli,1
+Ganso,S. Corchia,1
+J. Geis,W. Ben Yedder,1
+S. Kj\u00e6r,Sergio Escudero,1
+J. Geis,S. Kj\u00e6r,1
+Sergio Escudero,Ganso,1
+M. Krohn-Dehli,J. Geis,1

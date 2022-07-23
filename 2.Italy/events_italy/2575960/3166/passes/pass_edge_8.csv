@@ -1,0 +1,62 @@
+Source,Target,Weight
+A. Poli,E. Pulgar,4
+S. Ta\u00efder,S. De Maio,4
+S. De Maio,V. Torosidis,3
+D. Maietta,A. Mirante,3
+E. Pulgar,D. Maietta,3
+V. Torosidis,M. Destro,3
+S. De Maio,E. Pulgar,3
+D. Maietta,A. Masina,3
+D. Maietta,S. De Maio,3
+S. De Maio,D. Maietta,3
+E. Pulgar,S. De Maio,3
+A. Masina,F. Di Francesco,3
+S. De Maio,S. Verdi,3
+F. Di Francesco,A. Masina,3
+E. Pulgar,S. Verdi,3
+A. Mirante,D. Maietta,3
+S. Ta\u00efder,V. Torosidis,3
+V. Torosidis,A. Poli,2
+D. Maietta,S. Ta\u00efder,2
+A. Mirante,A. Masina,2
+A. Poli,D. Maietta,2
+S. De Maio,A. Mirante,2
+A. Masina,S. De Maio,2
+S. Verdi,E. Pulgar,2
+M. Destro,A. Poli,2
+E. Pulgar,S. Ta\u00efder,2
+D. Maietta,F. Di Francesco,2
+A. Masina,S. Ta\u00efder,2
+V. Torosidis,E. Pulgar,1
+S. Verdi,S. De Maio,1
+A. Masina,D. Maietta,1
+S. Ta\u00efder,E. Pulgar,1
+A. Mirante,V. Torosidis,1
+M. Destro,D. Maietta,1
+A. Mirante,S. De Maio,1
+S. Verdi,S. Ta\u00efder,1
+A. Mirante,M. Destro,1
+A. Poli,S. Ta\u00efder,1
+D. Maietta,A. Poli,1
+A. Poli,S. De Maio,1
+S. De Maio,A. Poli,1
+A. Mirante,F. Di Francesco,1
+S. Verdi,V. Torosidis,1
+M. Destro,A. Masina,1
+V. Torosidis,S. Verdi,1
+S. Verdi,A. Poli,1
+M. Destro,A. Mirante,1
+F. Di Francesco,A. Mirante,1
+A. Masina,E. Pulgar,1
+A. Masina,A. Mirante,1
+A. Mirante,A. Poli,1
+E. Pulgar,M. Destro,1
+F. Di Francesco,V. Torosidis,1
+V. Torosidis,A. Masina,1
+E. Pulgar,A. Mirante,1
+S. Ta\u00efder,A. Masina,1
+A. Poli,M. Destro,1
+F. Di Francesco,S. Ta\u00efder,1
+A. Masina,A. Poli,1
+S. Verdi,D. Maietta,1
+V. Torosidis,A. Mirante,1

@@ -1,0 +1,15 @@
+Source,Target,Weight
+A. Florenzi,R. Nainggolan,2
+S. El Shaarawy,E. D\u017eeko,1
+S. El Shaarawy,A. Kolarov,1
+H. Moreno,A. Florenzi,1
+H. Moreno,R. Nainggolan,1
+R. Nainggolan,A. Florenzi,1
+A. Kolarov,H. Moreno,1
+K. Strootman,S. El Shaarawy,1
+R. Nainggolan,H. Moreno,1
+H. Moreno,K. Strootman,1
+E. D\u017eeko,K. Strootman,1
+A. Florenzi,H. Moreno,1
+K. Strootman,A. Kolarov,1
+A. Kolarov,S. El Shaarawy,1

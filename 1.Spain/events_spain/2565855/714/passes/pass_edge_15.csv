@@ -1,0 +1,36 @@
+Source,Target,Weight
+A. Halilovi\u0107,J. Calleri,3
+Javi Castellano,David Sim\u00f3n,3
+David Sim\u00f3n,Javi Castellano,2
+David Sim\u00f3n,A. Halilovi\u0107,2
+O. Etebo,J. Calleri,1
+Benito Ram\u00edrez,Erik Exp\u00f3sito,1
+I. Ezekiel,Benito Ram\u00edrez,1
+G\u00e1lvez,David Garc\u00eda,1
+David Sim\u00f3n,Erik Exp\u00f3sito,1
+Benito Ram\u00edrez,L. Chichizola,1
+Erik Exp\u00f3sito,Javi Castellano,1
+David Garc\u00eda,Benito Ram\u00edrez,1
+G\u00e1lvez,Benito Ram\u00edrez,1
+Benito Ram\u00edrez,David Garc\u00eda,1
+O. Etebo,Benito Ram\u00edrez,1
+Benito Ram\u00edrez,I. Ezekiel,1
+J. Calleri,David Sim\u00f3n,1
+J. Calleri,A. Halilovi\u0107,1
+Benito Ram\u00edrez,Javi Castellano,1
+I. Ezekiel,L. Chichizola,1
+Javi Castellano,David Garc\u00eda,1
+A. Halilovi\u0107,I. Ezekiel,1
+David Sim\u00f3n,O. Etebo,1
+L. Chichizola,Erik Exp\u00f3sito,1
+L. Chichizola,Benito Ram\u00edrez,1
+David Sim\u00f3n,Benito Ram\u00edrez,1
+Erik Exp\u00f3sito,A. Halilovi\u0107,1
+David Garc\u00eda,A. Halilovi\u0107,1
+Erik Exp\u00f3sito,O. Etebo,1
+A. Halilovi\u0107,David Sim\u00f3n,1
+David Garc\u00eda,L. Chichizola,1
+L. Chichizola,David Sim\u00f3n,1
+J. Calleri,Erik Exp\u00f3sito,1
+Benito Ram\u00edrez,G\u00e1lvez,1
+Erik Exp\u00f3sito,G\u00e1lvez,1

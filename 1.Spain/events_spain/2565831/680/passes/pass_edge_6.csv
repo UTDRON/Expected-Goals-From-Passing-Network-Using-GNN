@@ -1,0 +1,116 @@
+Source,Target,Weight
+C. Lenglet,Sergio Escudero,8
+S. Kj\u00e6r,\u00c9. Banega,7
+Nolito,Sergio Escudero,7
+\u00c9. Banega,S. N'Zonzi,7
+\u00c9. Banega,Sandro,7
+M. Lay\u00fan,S. Kj\u00e6r,6
+Sergio Escudero,C. Lenglet,6
+M. Lay\u00fan,\u00c9. Banega,6
+Sandro,S. N'Zonzi,6
+S. Kj\u00e6r,S. N'Zonzi,6
+\u00c9. Banega,M. Lay\u00fan,6
+S. Kj\u00e6r,C. Lenglet,6
+S. N'Zonzi,S. Kj\u00e6r,5
+\u00c9. Banega,S. Kj\u00e6r,5
+S. Kj\u00e6r,M. Lay\u00fan,5
+C. Lenglet,\u00c9. Banega,5
+Sergio Escudero,\u00c9. Banega,5
+S. N'Zonzi,Sergio Escudero,5
+S. N'Zonzi,Guilherme Arana,5
+S. N'Zonzi,\u00c9. Banega,5
+Sandro,\u00c9. Banega,5
+\u00c9. Banega,C. Lenglet,5
+Sergio Escudero,S. N'Zonzi,4
+Pablo Sarabia,S. Kj\u00e6r,4
+M. Lay\u00fan,Pablo Sarabia,4
+C. Lenglet,S. Kj\u00e6r,4
+\u00c9. Banega,Pablo Sarabia,4
+S. N'Zonzi,M. Lay\u00fan,4
+W. Ben Yedder,\u00c9. Banega,4
+\u00c9. Banega,W. Ben Yedder,4
+M. Lay\u00fan,S. N'Zonzi,4
+C. Lenglet,S. N'Zonzi,4
+F. V\u00e1zquez,W. Ben Yedder,3
+\u00c9. Banega,Guilherme Arana,3
+S. N'Zonzi,Nolito,3
+F. V\u00e1zquez,Sergio Escudero,3
+F. V\u00e1zquez,\u00c9. Banega,3
+S. Kj\u00e6r,Pablo Sarabia,3
+Guilherme Arana,Sandro,3
+S. Kj\u00e6r,Sergio Rico,3
+Pablo Sarabia,F. V\u00e1zquez,3
+S. N'Zonzi,Pablo Sarabia,3
+Sergio Escudero,Nolito,3
+Sergio Escudero,F. V\u00e1zquez,3
+Sergio Escudero,Pablo Sarabia,2
+Sergio Escudero,S. Kj\u00e6r,2
+F. V\u00e1zquez,M. Lay\u00fan,2
+\u00c9. Banega,Nolito,2
+W. Ben Yedder,Pablo Sarabia,2
+Sergio Rico,\u00c9. Banega,2
+Nolito,S. N'Zonzi,2
+L. Muriel,Pablo Sarabia,2
+F. V\u00e1zquez,S. Kj\u00e6r,2
+Pablo Sarabia,L. Muriel,2
+Sergio Rico,M. Lay\u00fan,2
+W. Ben Yedder,M. Lay\u00fan,2
+C. Lenglet,Nolito,2
+Sergio Rico,C. Lenglet,2
+S. N'Zonzi,F. V\u00e1zquez,2
+S. N'Zonzi,Sandro,2
+S. N'Zonzi,L. Muriel,2
+S. N'Zonzi,C. Lenglet,2
+Guilherme Arana,S. N'Zonzi,2
+S. Kj\u00e6r,F. V\u00e1zquez,2
+Pablo Sarabia,C. Lenglet,2
+Guilherme Arana,S. Kj\u00e6r,2
+Pablo Sarabia,S. N'Zonzi,2
+Guilherme Arana,C. Lenglet,2
+Pablo Sarabia,M. Lay\u00fan,2
+Sandro,Guilherme Arana,2
+\u00c9. Banega,L. Muriel,2
+Pablo Sarabia,Sandro,2
+F. V\u00e1zquez,S. N'Zonzi,2
+M. Lay\u00fan,Sergio Rico,2
+\u00c9. Banega,F. V\u00e1zquez,2
+W. Ben Yedder,S. Kj\u00e6r,2
+Pablo Sarabia,\u00c9. Banega,2
+C. Lenglet,Sandro,2
+Sandro,Pablo Sarabia,1
+C. Lenglet,L. Muriel,1
+Pablo Sarabia,Nolito,1
+L. Muriel,\u00c9. Banega,1
+S. N'Zonzi,W. Ben Yedder,1
+Sergio Rico,Sandro,1
+M. Lay\u00fan,C. Lenglet,1
+S. N'Zonzi,Sergio Rico,1
+Pablo Sarabia,Sergio Escudero,1
+W. Ben Yedder,F. V\u00e1zquez,1
+M. Lay\u00fan,F. V\u00e1zquez,1
+Sandro,Sergio Rico,1
+F. V\u00e1zquez,Pablo Sarabia,1
+L. Muriel,Sandro,1
+Nolito,\u00c9. Banega,1
+C. Lenglet,M. Lay\u00fan,1
+L. Muriel,S. Kj\u00e6r,1
+L. Muriel,S. N'Zonzi,1
+S. Kj\u00e6r,Nolito,1
+L. Muriel,C. Lenglet,1
+Sandro,Sergio Escudero,1
+Sergio Escudero,M. Lay\u00fan,1
+Sandro,S. Kj\u00e6r,1
+Sergio Rico,F. V\u00e1zquez,1
+Guilherme Arana,\u00c9. Banega,1
+Nolito,F. V\u00e1zquez,1
+M. Lay\u00fan,Sergio Escudero,1
+W. Ben Yedder,Sandro,1
+S. Kj\u00e6r,Sergio Escudero,1
+S. Kj\u00e6r,W. Ben Yedder,1
+Sergio Escudero,Sergio Rico,1
+Sandro,M. Lay\u00fan,1
+Sergio Rico,S. Kj\u00e6r,1
+Sergio Escudero,W. Ben Yedder,1
+Pablo Sarabia,W. Ben Yedder,1
+Nolito,Sergio Rico,1
+M. Lay\u00fan,W. Ben Yedder,1

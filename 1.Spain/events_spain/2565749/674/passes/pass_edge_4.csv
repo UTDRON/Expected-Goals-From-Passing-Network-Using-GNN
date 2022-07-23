@@ -1,0 +1,20 @@
+Source,Target,Weight
+F. Coquelin,G. Kondogbia,2
+Rodrigo,G. Kondogbia,2
+Montoya,E. Garay,2
+G. Kondogbia,Montoya,2
+G. Kondogbia,F. Coquelin,1
+Montoya,Dani Parejo,1
+G. Kondogbia,E. Garay,1
+Dani Parejo,F. Coquelin,1
+Toni Lato,G. Kondogbia,1
+F. Coquelin,Rodrigo,1
+E. Garay,F. Coquelin,1
+E. Garay,Dani Parejo,1
+Dani Parejo,Rodrigo,1
+Rodrigo,Dani Parejo,1
+Dani Parejo,Santi Mina,1
+Montoya,Rodrigo,1
+Rodrigo,Montoya,1
+Santi Mina,Rodrigo,1
+E. Garay,Toni Lato,1

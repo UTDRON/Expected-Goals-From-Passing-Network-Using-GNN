@@ -1,0 +1,31 @@
+Source,Target,Weight
+Rodri,V\u00edctor Ru\u00edz,3
+D. Bonera,Pablo Fornals,2
+D. Bonera,Rodri,2
+Pablo Fornals,D. Bonera,2
+Pablo Fornals,V\u00edctor Ru\u00edz,2
+Pablo Fornals,Rodri,2
+V\u00edctor Ru\u00edz,D. Bonera,2
+Rodri,Pablo Fornals,2
+V\u00edctor Ru\u00edz,Rodri,1
+Pablo Fornals,Mario,1
+N. Sansone,Rodri,1
+Mario,D. Cheryshev,1
+N. Sansone,C. Bacca,1
+Jaume Costa,Pablo Fornals,1
+N. Sansone,Pablo Fornals,1
+V\u00edctor Ru\u00edz,Jaume Costa,1
+D. Cheryshev,V\u00edctor Ru\u00edz,1
+D. Cheryshev,Rodri,1
+Rodri,C. Bakambu,1
+Pablo Fornals,N. Sansone,1
+D. Cheryshev,C. Bacca,1
+C. Bakambu,N. Sansone,1
+Rodri,D. Cheryshev,1
+V\u00edctor Ru\u00edz,Pablo Fornals,1
+Jaume Costa,D. Cheryshev,1
+C. Bacca,Rodri,1
+V\u00edctor Ru\u00edz,Mario,1
+Rodri,Jaume Costa,1
+Mario,Pablo Fornals,1
+Rodri,N. Sansone,1

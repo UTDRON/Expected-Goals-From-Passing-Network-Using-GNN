@@ -1,0 +1,52 @@
+Source,Target,Weight
+M. Sampirisi,D. Pavlovic,3
+N. Zanellato,A. Ajeti,3
+A. Barberis,M. Sampirisi,3
+A. Cordaz,Simy,3
+A. Ajeti,A. Barberis,2
+Simy,N. Zanellato,2
+N. Zanellato,D. Faraoni,2
+M. Trotta,A. Barberis,2
+M. Rohd\u00e9n,D. Pavlovic,2
+F. Ceccherini,N. Zanellato,2
+A. Ajeti,F. Ceccherini,2
+D. Faraoni,N. Zanellato,2
+D. Pavlovic,M. Rohd\u00e9n,2
+D. Faraoni,F. Ceccherini,2
+M. Rohd\u00e9n,A. Ajeti,2
+M. Sampirisi,A. Cordaz,2
+D. Pavlovic,A. Barberis,2
+Simy,A. Barberis,2
+M. Sampirisi,N. Zanellato,1
+N. Zanellato,M. Trotta,1
+A. Ajeti,M. Rohd\u00e9n,1
+F. Ceccherini,M. Trotta,1
+F. Ceccherini,D. Faraoni,1
+D. Pavlovic,M. Sampirisi,1
+D. Faraoni,A. Barberis,1
+M. Rohd\u00e9n,M. Sampirisi,1
+A. Barberis,A. Ajeti,1
+A. Ajeti,Simy,1
+A. Barberis,D. Faraoni,1
+A. Ajeti,D. Faraoni,1
+M. Sampirisi,A. Ajeti,1
+A. Cordaz,F. Ceccherini,1
+F. Ceccherini,M. Sampirisi,1
+M. Sampirisi,M. Rohd\u00e9n,1
+N. Zanellato,M. Sampirisi,1
+M. Trotta,D. Pavlovic,1
+Simy,D. Faraoni,1
+M. Rohd\u00e9n,D. Faraoni,1
+D. Faraoni,A. Ajeti,1
+A. Barberis,Simy,1
+F. Ceccherini,A. Ajeti,1
+A. Ajeti,A. Cordaz,1
+A. Barberis,M. Rohd\u00e9n,1
+A. Ajeti,N. Zanellato,1
+Simy,M. Rohd\u00e9n,1
+A. Barberis,F. Ceccherini,1
+A. Barberis,A. Cordaz,1
+D. Faraoni,Simy,1
+D. Pavlovic,M. Trotta,1
+M. Trotta,M. Sampirisi,1
+D. Faraoni,M. Trotta,1

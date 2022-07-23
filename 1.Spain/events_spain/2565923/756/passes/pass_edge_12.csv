@@ -1,0 +1,69 @@
+Source,Target,Weight
+Aday,Borja Garc\u00eda,4
+Timor,Aday,3
+Juanpe,\u00c1lex Granell,3
+Bernardo Espinosa,Juanpe,3
+Y. Bounou,C. Stuani,3
+Pere Pons,Bernardo Espinosa,3
+\u00c1lex Granell,Borja Garc\u00eda,3
+Ramalho,Juanpe,2
+Aday,\u00c1lex Granell,2
+Juanpe,Ramalho,2
+C. Stuani,Timor,2
+Y. Bounou,Timor,2
+Timor,\u00c1lex Granell,2
+Borja Garc\u00eda,\u00c1lex Granell,2
+Ramalho,Y. Bounou,2
+Bernardo Espinosa,Pere Pons,2
+Timor,Pere Pons,2
+\u00c1lex Granell,Choco Lozano,2
+Choco Lozano,C. Stuani,2
+Borja Garc\u00eda,Timor,2
+Bernardo Espinosa,Timor,2
+Aday,Ramalho,2
+Y. Bounou,Juanpe,2
+C. Stuani,Pere Pons,2
+Ramalho,Timor,2
+Borja Garc\u00eda,Aday,2
+\u00c1lex Granell,Y. Bounou,2
+Timor,Y. Bounou,2
+Juanpe,Y. Bounou,2
+C. Stuani,Ramalho,1
+Timor,Borja Garc\u00eda,1
+Choco Lozano,Ramalho,1
+Juanpe,Timor,1
+Timor,Bernardo Espinosa,1
+Choco Lozano,\u00c1lex Granell,1
+Bernardo Espinosa,Ramalho,1
+Juanpe,Choco Lozano,1
+Timor,Choco Lozano,1
+\u00c1lex Granell,Portu,1
+Ramalho,Aday,1
+C. Stuani,Aday,1
+Choco Lozano,Aday,1
+\u00c1lex Granell,Timor,1
+Pere Pons,Aday,1
+Juanpe,Aday,1
+Choco Lozano,Pere Pons,1
+Pere Pons,Timor,1
+Aday,Pere Pons,1
+Timor,Juanpe,1
+Aday,Juanpe,1
+Y. Bounou,Choco Lozano,1
+Aday,Y. Bounou,1
+Pere Pons,Ramalho,1
+Portu,Aday,1
+Ramalho,Pere Pons,1
+Borja Garc\u00eda,Portu,1
+Y. Bounou,Bernardo Espinosa,1
+M. Olunga,Bernardo Espinosa,1
+Pere Pons,Portu,1
+\u00c1lex Granell,Ramalho,1
+Pere Pons,Choco Lozano,1
+Portu,M. Olunga,1
+\u00c1lex Granell,Juanpe,1
+Pere Pons,\u00c1lex Granell,1
+Ramalho,Portu,1
+Portu,Bernardo Espinosa,1
+Borja Garc\u00eda,Bernardo Espinosa,1
+Ramalho,C. Stuani,1

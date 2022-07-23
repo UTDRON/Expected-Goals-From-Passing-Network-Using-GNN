@@ -1,0 +1,72 @@
+Source,Target,Weight
+Bruno Peres,F. Fazio,8
+F. Fazio,Bruno Peres,6
+F. Fazio,Juan Jesus,6
+M. Gonalons,R. Nainggolan,5
+Bruno Peres,Gerson,5
+Juan Jesus,A. Kolarov,5
+Juan Jesus,F. Fazio,5
+S. El Shaarawy,R. Nainggolan,4
+F. Fazio,M. Gonalons,4
+Gerson,F. Fazio,4
+R. Nainggolan,Bruno Peres,4
+Bruno Peres,M. Gonalons,3
+F. Fazio,R. Nainggolan,3
+R. Nainggolan,L. Pellegrini,3
+L. Pellegrini,Bruno Peres,3
+R. Nainggolan,Gerson,3
+R. Nainggolan,S. El Shaarawy,3
+S. El Shaarawy,M. Gonalons,3
+M. Gonalons,Bruno Peres,3
+E. D\u017eeko,A. Kolarov,3
+E. D\u017eeko,M. Gonalons,2
+Bruno Peres,E. D\u017eeko,2
+M. Gonalons,Gerson,2
+M. Gonalons,S. El Shaarawy,2
+Gerson,M. Gonalons,2
+F. Fazio,Alisson,2
+A. Kolarov,M. Gonalons,2
+A. Kolarov,Juan Jesus,2
+Juan Jesus,S. El Shaarawy,2
+A. Kolarov,L. Pellegrini,2
+R. Nainggolan,A. Kolarov,2
+F. Fazio,L. Pellegrini,2
+A. Kolarov,S. El Shaarawy,2
+Gerson,Bruno Peres,2
+Alisson,R. Nainggolan,2
+Bruno Peres,Juan Jesus,2
+M. Gonalons,F. Fazio,2
+L. Pellegrini,F. Fazio,2
+R. Nainggolan,M. Gonalons,1
+Alisson,F. Fazio,1
+Gerson,E. D\u017eeko,1
+A. Kolarov,R. Nainggolan,1
+S. El Shaarawy,Alisson,1
+S. El Shaarawy,E. D\u017eeko,1
+L. Pellegrini,Gerson,1
+Gerson,S. El Shaarawy,1
+Alisson,Bruno Peres,1
+M. Gonalons,E. D\u017eeko,1
+Alisson,Gerson,1
+A. Kolarov,Gerson,1
+A. Kolarov,Bruno Peres,1
+Gerson,L. Pellegrini,1
+E. D\u017eeko,Bruno Peres,1
+M. Gonalons,A. Kolarov,1
+R. Nainggolan,F. Fazio,1
+L. Pellegrini,S. El Shaarawy,1
+S. El Shaarawy,A. Kolarov,1
+M. Gonalons,Juan Jesus,1
+L. Pellegrini,Juan Jesus,1
+L. Pellegrini,M. Gonalons,1
+S. El Shaarawy,Bruno Peres,1
+Bruno Peres,Alisson,1
+M. Gonalons,L. Pellegrini,1
+Bruno Peres,R. Nainggolan,1
+R. Nainggolan,E. D\u017eeko,1
+S. El Shaarawy,Gerson,1
+F. Fazio,E. D\u017eeko,1
+E. D\u017eeko,R. Nainggolan,1
+Gerson,R. Nainggolan,1
+A. Kolarov,F. Fazio,1
+Gerson,Alisson,1

@@ -1,0 +1,113 @@
+Source,Target,Weight
+A. Ioni\u0163\u0103,S. Padoin,14
+N. Barella,G. van der Wiel,14
+G. van der Wiel,F. Romagna,12
+S. Padoin,A. Ioni\u0163\u0103,12
+F. Romagna,G. van der Wiel,8
+L. Cigarini,F. Pisacane,8
+F. Pisacane,S. Padoin,8
+G. van der Wiel,L. Cigarini,7
+L. Pavoletti,G. van der Wiel,7
+N. Barella,L. Cigarini,7
+L. Cigarini,G. van der Wiel,7
+S. Padoin,L. Cigarini,6
+G. van der Wiel,F. Pisacane,6
+G. van der Wiel,N. Barella,6
+L. Pavoletti,N. Barella,5
+L. Cigarini,N. Barella,5
+S. Padoin,F. Pisacane,5
+Jo\u00e3o Pedro,N. Barella,5
+L. Cigarini,L. Pavoletti,5
+F. Romagna,L. Pavoletti,5
+S. Padoin,L. Pavoletti,5
+F. Pisacane,M. Andreolli,5
+L. Pavoletti,L. Cigarini,5
+A. Cragno,L. Pavoletti,4
+L. Cigarini,F. Romagna,4
+F. Romagna,M. Andreolli,4
+L. Cigarini,S. Padoin,4
+G. van der Wiel,A. Ioni\u0163\u0103,4
+F. Romagna,N. Barella,4
+L. Pavoletti,Jo\u00e3o Pedro,4
+A. Ioni\u0163\u0103,F. Pisacane,4
+L. Cigarini,A. Ioni\u0163\u0103,4
+G. van der Wiel,L. Pavoletti,4
+F. Pisacane,G. van der Wiel,4
+A. Ioni\u0163\u0103,Jo\u00e3o Pedro,4
+M. Andreolli,F. Pisacane,3
+F. Pisacane,A. Cragno,3
+Jo\u00e3o Pedro,F. Pisacane,3
+Jo\u00e3o Pedro,S. Padoin,3
+A. Ioni\u0163\u0103,L. Cigarini,3
+Diego Farias,A. Ioni\u0163\u0103,3
+Jo\u00e3o Pedro,L. Pavoletti,3
+N. Barella,Jo\u00e3o Pedro,3
+A. Cragno,L. Cigarini,3
+F. Romagna,L. Cigarini,3
+L. Pavoletti,A. Ioni\u0163\u0103,3
+F. Pisacane,L. Pavoletti,3
+F. Pisacane,F. Romagna,3
+L. Pavoletti,F. Romagna,3
+F. Pisacane,A. Ioni\u0163\u0103,3
+M. Andreolli,A. Ioni\u0163\u0103,3
+G. van der Wiel,A. Cragno,3
+A. Cragno,F. Romagna,3
+Diego Farias,A. Deiola,3
+A. Ioni\u0163\u0103,N. Barella,3
+L. Pavoletti,F. Pisacane,3
+L. Pavoletti,Diego Farias,3
+F. Romagna,A. Cragno,3
+M. Andreolli,L. Cigarini,2
+G. van der Wiel,M. Andreolli,2
+A. Cragno,G. van der Wiel,2
+N. Barella,F. Romagna,2
+L. Pavoletti,S. Padoin,2
+Jo\u00e3o Pedro,L. Cigarini,2
+M. Andreolli,N. Barella,2
+N. Barella,S. Padoin,2
+S. Padoin,Diego Farias,2
+F. Romagna,Diego Farias,2
+N. Barella,L. Pavoletti,2
+A. Cragno,Jo\u00e3o Pedro,2
+A. Deiola,G. van der Wiel,2
+S. Padoin,Jo\u00e3o Pedro,2
+F. Romagna,S. Padoin,2
+Diego Farias,L. Pavoletti,2
+F. Pisacane,L. Cigarini,2
+M. Andreolli,A. Cragno,2
+L. Cigarini,M. Andreolli,2
+A. Cragno,N. Barella,2
+F. Pisacane,N. Barella,2
+M. Andreolli,L. Pavoletti,2
+N. Barella,A. Cragno,2
+A. Ioni\u0163\u0103,M. Andreolli,2
+G. van der Wiel,A. Deiola,2
+N. Barella,M. Andreolli,2
+A. Ioni\u0163\u0103,Diego Farias,2
+L. Pavoletti,A. Deiola,1
+A. Deiola,F. Pisacane,1
+S. Padoin,N. Barella,1
+A. Deiola,Diego Farias,1
+M. Andreolli,Jo\u00e3o Pedro,1
+A. Ioni\u0163\u0103,G. van der Wiel,1
+Jo\u00e3o Pedro,F. Romagna,1
+Jo\u00e3o Pedro,A. Ioni\u0163\u0103,1
+F. Romagna,A. Ioni\u0163\u0103,1
+A. Deiola,L. Pavoletti,1
+L. Cigarini,A. Cragno,1
+F. Pisacane,Jo\u00e3o Pedro,1
+S. Padoin,F. Romagna,1
+A. Ioni\u0163\u0103,L. Pavoletti,1
+A. Cragno,F. Pisacane,1
+M. Andreolli,G. van der Wiel,1
+A. Ioni\u0163\u0103,F. Romagna,1
+Jo\u00e3o Pedro,A. Cragno,1
+M. Andreolli,F. Romagna,1
+N. Barella,A. Ioni\u0163\u0103,1
+A. Deiola,F. Romagna,1
+F. Romagna,Jo\u00e3o Pedro,1
+Diego Farias,F. Romagna,1
+S. Padoin,A. Cragno,1
+M. Andreolli,S. Padoin,1
+L. Pavoletti,A. Cragno,1
+S. Padoin,M. Andreolli,1

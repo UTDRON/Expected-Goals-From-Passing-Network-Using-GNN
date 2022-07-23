@@ -1,0 +1,87 @@
+Source,Target,Weight
+Ra\u00fal Garc\u00eda,Gumbau,5
+E. Mu\u00f1oz,Cu\u00e9llar,5
+Gumbau,Ra\u00fal Garc\u00eda,4
+D. Bra\u0161anac,Ra\u00fal Garc\u00eda,4
+N. Amrabat,Guerrero,4
+Ra\u00fal Garc\u00eda,N. Amrabat,4
+A. Szymanowski,Ra\u00fal Garc\u00eda,4
+N. Amrabat,Ra\u00fal Garc\u00eda,4
+Erik Mor\u00e1n,Zald\u00faa,4
+Zald\u00faa,Ra\u00fal Garc\u00eda,3
+Gumbau,N. Amrabat,3
+N. Amrabat,D. Siovas,3
+Guerrero,Gumbau,3
+D. Bra\u0161anac,E. Mu\u00f1oz,3
+Cu\u00e9llar,N. Amrabat,3
+A. Szymanowski,Gumbau,3
+Ra\u00fal Garc\u00eda,D. Siovas,3
+D. Bra\u0161anac,Zald\u00faa,3
+Cu\u00e9llar,Guerrero,3
+E. Mu\u00f1oz,Zald\u00faa,3
+Zald\u00faa,Erik Mor\u00e1n,3
+N. El Zhar,Zald\u00faa,3
+Guerrero,Erik Mor\u00e1n,3
+N. Amrabat,E. Mu\u00f1oz,3
+Zald\u00faa,N. Amrabat,3
+Erik Mor\u00e1n,A. Szymanowski,3
+Gumbau,Guerrero,3
+Ra\u00fal Garc\u00eda,E. Mu\u00f1oz,2
+Guerrero,Zald\u00faa,2
+D. Siovas,D. Bra\u0161anac,2
+Ra\u00fal Garc\u00eda,Cu\u00e9llar,2
+D. Siovas,Cu\u00e9llar,2
+Ra\u00fal Garc\u00eda,D. Bra\u0161anac,2
+Zald\u00faa,Gumbau,2
+Gumbau,Erik Mor\u00e1n,2
+Erik Mor\u00e1n,D. Bra\u0161anac,2
+Zald\u00faa,D. Bra\u0161anac,2
+E. Mu\u00f1oz,N. El Zhar,2
+E. Mu\u00f1oz,Erik Mor\u00e1n,2
+Zald\u00faa,N. El Zhar,2
+Guerrero,A. Szymanowski,2
+Guerrero,D. Bra\u0161anac,2
+Ra\u00fal Garc\u00eda,Zald\u00faa,2
+D. Siovas,E. Mu\u00f1oz,2
+Guerrero,E. Mu\u00f1oz,2
+Zald\u00faa,Cu\u00e9llar,2
+Cu\u00e9llar,Gumbau,2
+Zald\u00faa,Guerrero,2
+E. Mu\u00f1oz,D. Bra\u0161anac,1
+Guerrero,D. Siovas,1
+Cu\u00e9llar,Zald\u00faa,1
+Cu\u00e9llar,Erik Mor\u00e1n,1
+A. Szymanowski,Guerrero,1
+Cu\u00e9llar,D. Siovas,1
+N. El Zhar,N. Amrabat,1
+E. Mu\u00f1oz,Guerrero,1
+N. El Zhar,Guerrero,1
+Gumbau,A. Szymanowski,1
+D. Siovas,Ra\u00fal Garc\u00eda,1
+N. Amrabat,Erik Mor\u00e1n,1
+Erik Mor\u00e1n,D. Siovas,1
+D. Bra\u0161anac,Gumbau,1
+Cu\u00e9llar,E. Mu\u00f1oz,1
+Cu\u00e9llar,A. Szymanowski,1
+N. El Zhar,Cu\u00e9llar,1
+Guerrero,N. Amrabat,1
+D. Siovas,N. El Zhar,1
+N. Amrabat,Cu\u00e9llar,1
+Ra\u00fal Garc\u00eda,Guerrero,1
+E. Mu\u00f1oz,N. Amrabat,1
+Zald\u00faa,E. Mu\u00f1oz,1
+D. Siovas,Erik Mor\u00e1n,1
+Erik Mor\u00e1n,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,A. Szymanowski,1
+Gumbau,E. Mu\u00f1oz,1
+N. Amrabat,Gumbau,1
+N. Amrabat,Zald\u00faa,1
+A. Szymanowski,N. Amrabat,1
+N. Amrabat,N. El Zhar,1
+Erik Mor\u00e1n,Guerrero,1
+N. Amrabat,A. Szymanowski,1
+Erik Mor\u00e1n,N. Amrabat,1
+D. Siovas,N. Amrabat,1
+Gumbau,Zald\u00faa,1
+Guerrero,Ra\u00fal Garc\u00eda,1
+Gumbau,D. Siovas,1

@@ -1,0 +1,59 @@
+Source,Target,Weight
+Nacho,Sergio Ramos,5
+Sergio Ramos,T. Kroos,4
+Sergio Ramos,Isco,4
+T. Kroos,Isco,4
+Isco,T. Hern\u00e1ndez,4
+Isco,Nacho,4
+Sergio Ramos,Marcos Llorente,3
+A. Hakimi,Marco Asensio,3
+Marcos Llorente,T. Hern\u00e1ndez,3
+T. Hern\u00e1ndez,Sergio Ramos,3
+Marcos Llorente,Sergio Ramos,3
+Marco Asensio,Isco,2
+Sergio Ramos,T. Hern\u00e1ndez,2
+Isco,Cristiano Ronaldo,2
+Cristiano Ronaldo,Isco,2
+Marco Asensio,T. Hern\u00e1ndez,2
+K. Benzema,Marco Asensio,2
+T. Kroos,A. Hakimi,2
+T. Hern\u00e1ndez,Isco,2
+Isco,T. Kroos,2
+T. Hern\u00e1ndez,T. Kroos,2
+T. Hern\u00e1ndez,K. Benzema,2
+Nacho,T. Kroos,2
+T. Hern\u00e1ndez,Marcos Llorente,2
+T. Kroos,Sergio Ramos,2
+T. Hern\u00e1ndez,Kiko Casilla,1
+T. Kroos,Marco Asensio,1
+Marco Asensio,A. Hakimi,1
+Marcos Llorente,Nacho,1
+Nacho,Marcos Llorente,1
+K. Benzema,Sergio Ramos,1
+T. Hern\u00e1ndez,Cristiano Ronaldo,1
+Marcos Llorente,T. Kroos,1
+Kiko Casilla,T. Hern\u00e1ndez,1
+Marco Asensio,Nacho,1
+Isco,A. Hakimi,1
+Isco,Marco Asensio,1
+Isco,Sergio Ramos,1
+T. Kroos,Cristiano Ronaldo,1
+A. Hakimi,Kiko Casilla,1
+Borja Mayoral,Marcos Llorente,1
+K. Benzema,T. Hern\u00e1ndez,1
+T. Kroos,Borja Mayoral,1
+Marco Asensio,T. Kroos,1
+Cristiano Ronaldo,Nacho,1
+Nacho,Isco,1
+Nacho,A. Hakimi,1
+Isco,K. Benzema,1
+Marcos Llorente,Isco,1
+Isco,Marcos Llorente,1
+Cristiano Ronaldo,K. Benzema,1
+Sergio Ramos,A. Hakimi,1
+A. Hakimi,Isco,1
+Sergio Ramos,Nacho,1
+A. Hakimi,Nacho,1
+T. Kroos,Nacho,1
+Kiko Casilla,Sergio Ramos,1
+Sergio Ramos,Cristiano Ronaldo,1

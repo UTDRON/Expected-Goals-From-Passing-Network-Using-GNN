@@ -1,0 +1,35 @@
+Source,Target,Weight
+Juanfran,Borja Valle,2
+Juanfran,Pedro Mosquera,2
+Pedro Mosquera,Juanfran,2
+Borja Valle,Juanfran,2
+Z. Bakkali,M. Krohn-Dehli,2
+Lucas P\u00e9rez,Pedro Mosquera,2
+Z. Bakkali,Luisinho,2
+Pedro Mosquera,Albentosa,2
+Albentosa,Juanfran,2
+Fernando Navarro,Pedro Mosquera,1
+M. Krohn-Dehli,Adri\u00e1n L\u00f3pez,1
+Lucas P\u00e9rez,Z. Bakkali,1
+Luisinho,Pedro Mosquera,1
+Juanfran,Lucas P\u00e9rez,1
+Adri\u00e1n L\u00f3pez,Lucas P\u00e9rez,1
+M. Krohn-Dehli,Z. Bakkali,1
+M. Krohn-Dehli,Juanfran,1
+Juanfran,Albentosa,1
+Pedro Mosquera,Fernando Navarro,1
+Albentosa,Rub\u00e9n,1
+Albentosa,Pedro Mosquera,1
+Luisinho,M. Krohn-Dehli,1
+Fernando Navarro,Z. Bakkali,1
+Juanfran,Z. Bakkali,1
+Pedro Mosquera,Z. Bakkali,1
+M. Krohn-Dehli,Lucas P\u00e9rez,1
+Fernando Navarro,Luisinho,1
+Albentosa,Fernando Navarro,1
+Z. Bakkali,Albentosa,1
+Luisinho,Z. Bakkali,1
+Rub\u00e9n,Fernando Navarro,1
+Z. Bakkali,Pedro Mosquera,1
+Fernando Navarro,Albentosa,1
+Pedro Mosquera,M. Krohn-Dehli,1

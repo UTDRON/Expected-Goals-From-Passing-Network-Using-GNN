@@ -1,0 +1,10 @@
+Source,Target,Weight
+D. Berardi,A. Matri,2
+S. Missiroli,D. Berardi,2
+F. Peluso,A. Consigli,1
+A. Matri,F. Magnanelli,1
+A. Consigli,S. Missiroli,1
+D. Berardi,S. Missiroli,1
+F. Magnanelli,F. Peluso,1
+D. Falcinelli,F. Magnanelli,1
+F. Magnanelli,D. Falcinelli,1

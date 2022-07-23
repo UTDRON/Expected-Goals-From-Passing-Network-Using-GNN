@@ -1,0 +1,18 @@
+Source,Target,Weight
+S. Luki\u0107,Luna,3
+Luna,Jos\u00e9 Luis Morales,2
+Coke,Luna,2
+Luna,Coke,2
+Jos\u00e9 Luis Morales,S. Luki\u0107,2
+S. Luki\u0107,Coke,1
+Luna,G. Pazzini,1
+Coke,Jason,1
+S. Luki\u0107,Jason,1
+Coke,S. Luki\u0107,1
+Jason,G. Pazzini,1
+C. Doukour\u00e9,Luna,1
+G. Pazzini,S. Luki\u0107,1
+Jason,Coke,1
+C. Doukour\u00e9,Jason,1
+Jason,C. Doukour\u00e9,1
+Luna,S. Luki\u0107,1

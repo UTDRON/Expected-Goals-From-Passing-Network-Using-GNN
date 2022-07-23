@@ -1,0 +1,63 @@
+Source,Target,Weight
+A. Masina,F. Di Francesco,6
+G. Donsah,A. Masina,6
+A. Masina,G. Donsah,5
+I. M'baye,S. Verdi,3
+F. Helander,G. Donsah,3
+G. Donsah,E. Pulgar,3
+B. Petkovi\u0107,A. Poli,3
+I. M'baye,B. Petkovi\u0107,2
+E. Pulgar,G. Donsah,2
+F. Di Francesco,G. Donsah,2
+A. Masina,B. Petkovi\u0107,2
+I. M'baye,E. Pulgar,2
+G. Donsah,I. M'baye,2
+E. Pulgar,A. Poli,2
+S. Verdi,G. Gonz\u00e1lez,2
+I. M'baye,G. Gonz\u00e1lez,2
+A. Masina,E. Pulgar,2
+A. Mirante,B. Petkovi\u0107,2
+G. Gonz\u00e1lez,A. Mirante,2
+E. Pulgar,I. M'baye,2
+B. Petkovi\u0107,A. Masina,2
+B. Petkovi\u0107,G. Donsah,2
+A. Mirante,F. Helander,2
+B. Petkovi\u0107,S. Verdi,2
+F. Helander,I. M'baye,2
+S. Verdi,F. Helander,1
+G. Gonz\u00e1lez,A. Masina,1
+F. Helander,A. Mirante,1
+A. Poli,F. Helander,1
+B. Petkovi\u0107,E. Pulgar,1
+E. Pulgar,A. Masina,1
+E. Pulgar,F. Di Francesco,1
+F. Helander,E. Pulgar,1
+F. Helander,A. Masina,1
+F. Di Francesco,F. Helander,1
+G. Donsah,S. Verdi,1
+E. Pulgar,G. Gonz\u00e1lez,1
+E. Pulgar,B. Petkovi\u0107,1
+S. Verdi,B. Petkovi\u0107,1
+A. Poli,G. Donsah,1
+A. Poli,A. Masina,1
+A. Poli,S. Verdi,1
+E. Pulgar,S. Verdi,1
+S. Verdi,I. M'baye,1
+F. Di Francesco,B. Petkovi\u0107,1
+G. Donsah,F. Helander,1
+F. Di Francesco,A. Poli,1
+G. Gonz\u00e1lez,I. M'baye,1
+A. Poli,A. Mirante,1
+F. Di Francesco,A. Masina,1
+A. Poli,I. M'baye,1
+S. Verdi,A. Masina,1
+G. Donsah,B. Petkovi\u0107,1
+G. Donsah,A. Mirante,1
+A. Poli,E. Pulgar,1
+A. Mirante,A. Masina,1
+F. Di Francesco,E. Pulgar,1
+S. Verdi,A. Poli,1
+A. Masina,F. Helander,1
+G. Gonz\u00e1lez,F. Helander,1
+G. Donsah,F. Di Francesco,1
+S. Verdi,G. Donsah,1

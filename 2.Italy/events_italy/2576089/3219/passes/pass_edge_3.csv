@@ -1,0 +1,42 @@
+Source,Target,Weight
+A. Brignoli,S. Armenteros,4
+R. Chibsah,L. Venuti,3
+L. Venuti,B. Djimsiti,2
+A. Costa,L. Del Pinto,2
+C. Lombardi,A. Brignoli,2
+B. Djimsiti,R. Chibsah,2
+L. Venuti,G. Di Chiara,2
+A. Costa,B. Djimsiti,1
+A. Costa,G. Di Chiara,1
+G. Di Chiara,A. Brignoli,1
+A. Brignoli,R. Chibsah,1
+C. Lombardi,L. Del Pinto,1
+L. Del Pinto,A. Brignoli,1
+D. Cataldi,A. Costa,1
+L. Del Pinto,A. Costa,1
+B. Djimsiti,A. Brignoli,1
+L. Del Pinto,L. Venuti,1
+S. Armenteros,C. Lombardi,1
+M. D'Alessandro,D. Cataldi,1
+L. Venuti,A. Costa,1
+G. Di Chiara,L. Del Pinto,1
+B. Djimsiti,M. D'Alessandro,1
+M. D'Alessandro,A. Costa,1
+S. Armenteros,L. Venuti,1
+L. Del Pinto,R. Chibsah,1
+L. Del Pinto,D. Cataldi,1
+R. Chibsah,C. Lombardi,1
+S. Armenteros,B. Djimsiti,1
+R. Chibsah,L. Del Pinto,1
+D. Cataldi,R. Chibsah,1
+L. Del Pinto,G. Di Chiara,1
+L. Venuti,C. Lombardi,1
+S. Armenteros,A. Costa,1
+B. Djimsiti,L. Del Pinto,1
+R. Chibsah,B. Djimsiti,1
+G. Di Chiara,B. Djimsiti,1
+L. Venuti,L. Del Pinto,1
+B. Djimsiti,L. Venuti,1
+A. Costa,R. Chibsah,1
+A. Costa,L. Venuti,1
+L. Del Pinto,M. D'Alessandro,1

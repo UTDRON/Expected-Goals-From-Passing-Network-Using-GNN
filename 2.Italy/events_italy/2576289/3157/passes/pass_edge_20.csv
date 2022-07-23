@@ -1,0 +1,24 @@
+Source,Target,Weight
+Suso,D. Calabria,2
+M. Locatelli,Suso,2
+D. Calabria,Suso,1
+Suso,F. Kessi\u00e9,1
+G. Donnarumma,C. Zapata,1
+C. Zapata,D. Calabria,1
+D. Calabria,G. Donnarumma,1
+R. Rodr\u00edguez,C. Zapata,1
+R. Rodr\u00edguez,Suso,1
+D. Calabria,L. Bonucci,1
+Suso,M. Locatelli,1
+M. Locatelli,D. Calabria,1
+C. Zapata,R. Rodr\u00edguez,1
+L. Bonucci,M. Locatelli,1
+R. Rodr\u00edguez,G. Bonaventura,1
+M. Locatelli,R. Rodr\u00edguez,1
+F. Kessi\u00e9,G. Bonaventura,1
+R. Rodr\u00edguez,M. Locatelli,1
+M. Locatelli,F. Kessi\u00e9,1
+G. Bonaventura,M. Locatelli,1
+C. Zapata,M. Locatelli,1
+G. Bonaventura,C. Zapata,1
+D. Calabria,R. Rodr\u00edguez,1

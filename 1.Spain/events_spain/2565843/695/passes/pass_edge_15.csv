@@ -1,0 +1,57 @@
+Source,Target,Weight
+Coke,Ivi,8
+Ivi,Coke,6
+Campa\u00f1a,Ivi,4
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,4
+Coke,A. Sadiku,4
+A. Sadiku,Coke,4
+Coke,Campa\u00f1a,4
+Coke,Rober,4
+Campa\u00f1a,Coke,4
+J. Lerma,Coke,3
+Campa\u00f1a,Jos\u00e9 Luis Morales,3
+Ivi,Campa\u00f1a,3
+Oier,Coke,3
+Rober,Campa\u00f1a,3
+Coke,J. Lerma,2
+Sergio Postigo,Rober,2
+Pedro L\u00f3pez,J. Lerma,2
+Rober,Coke,2
+Rober,J. Lerma,2
+A. Sadiku,Roger,2
+Jos\u00e9 Luis Morales,Campa\u00f1a,2
+Ivi,Rober,2
+Jos\u00e9 Luis Morales,Ivi,2
+J. Lerma,Rober,2
+Sergio Postigo,Oier,2
+Roger,Coke,2
+J. Lerma,Oier,1
+A. Sadiku,J. Lerma,1
+Sergio Postigo,Jos\u00e9 Luis Morales,1
+Ivi,Sergio Postigo,1
+Rober,Sergio Postigo,1
+J. Lerma,Sergio Postigo,1
+Pedro L\u00f3pez,Oier,1
+Ivi,Roger,1
+Jos\u00e9 Luis Morales,Rober,1
+Campa\u00f1a,A. Sadiku,1
+Oier,Campa\u00f1a,1
+Sergio Postigo,J. Lerma,1
+Pedro L\u00f3pez,Sergio Postigo,1
+Roger,Sergio Postigo,1
+Coke,Roger,1
+Rober,Ivi,1
+Coke,Sergio Postigo,1
+Pedro L\u00f3pez,A. Sadiku,1
+J. Lerma,Pedro L\u00f3pez,1
+Rober,Jos\u00e9 Luis Morales,1
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,1
+Rober,Pedro L\u00f3pez,1
+Ivi,J. Lerma,1
+Ivi,Jos\u00e9 Luis Morales,1
+Roger,Jos\u00e9 Luis Morales,1
+J. Lerma,Ivi,1
+J. Lerma,Jos\u00e9 Luis Morales,1
+Pedro L\u00f3pez,Ivi,1
+Ivi,A. Sadiku,1
+Campa\u00f1a,J. Lerma,1

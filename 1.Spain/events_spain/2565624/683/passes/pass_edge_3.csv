@@ -1,0 +1,57 @@
+Source,Target,Weight
+Juankar,P. Baysse,5
+Recio,D. Rol\u00e1n,5
+Juankar,Recio,4
+P. Baysse,Recio,4
+Recio,Luis Hern\u00e1ndez,4
+P. Baysse,Juankar,3
+Recio,Juankar,3
+A. Pe\u00f1aranda,Juankar,3
+D. Rol\u00e1n,Juankar,3
+Juankar,D. Rol\u00e1n,3
+Juanpi,Recio,3
+P. Baysse,A. Pe\u00f1aranda,3
+P. Baysse,Roberto,3
+Luis Hern\u00e1ndez,Recio,2
+A. Pe\u00f1aranda,E. Rol\u00f3n,2
+E. Rol\u00f3n,Luis Hern\u00e1ndez,2
+Recio,P. Baysse,2
+Luis Hern\u00e1ndez,R. Rosales,2
+R. Rosales,A. Pe\u00f1aranda,2
+A. Pe\u00f1aranda,Juanpi,2
+Roberto,P. Baysse,2
+D. Rol\u00e1n,Recio,2
+E. Rol\u00f3n,P. Baysse,2
+D. Rol\u00e1n,P. Baysse,2
+E. Rol\u00f3n,Recio,2
+Recio,Juanpi,2
+Juanpi,A. Pe\u00f1aranda,2
+Juankar,R. Rosales,1
+\u00c1lex Mula,Juankar,1
+P. Baysse,Luis Hern\u00e1ndez,1
+Juanpi,D. Rol\u00e1n,1
+A. Pe\u00f1aranda,Roberto,1
+R. Rosales,Recio,1
+P. Baysse,R. Rosales,1
+Recio,\u00c1lex Mula,1
+Juanpi,Juankar,1
+\u00c1lex Mula,P. Baysse,1
+Juankar,\u00c1lex Mula,1
+A. Pe\u00f1aranda,P. Baysse,1
+R. Rosales,P. Baysse,1
+P. Baysse,E. Rol\u00f3n,1
+E. Rol\u00f3n,Juanpi,1
+\u00c1lex Mula,E. Rol\u00f3n,1
+E. Rol\u00f3n,\u00c1lex Mula,1
+Juankar,E. Rol\u00f3n,1
+Juanpi,E. Rol\u00f3n,1
+Luis Hern\u00e1ndez,Juanpi,1
+D. Rol\u00e1n,A. Pe\u00f1aranda,1
+Luis Hern\u00e1ndez,P. Baysse,1
+D. Rol\u00e1n,E. Rol\u00f3n,1
+Roberto,Juankar,1
+E. Rol\u00f3n,Juankar,1
+Roberto,A. Pe\u00f1aranda,1
+Recio,E. Rol\u00f3n,1
+Juankar,Juanpi,1
+P. Baysse,Juanpi,1

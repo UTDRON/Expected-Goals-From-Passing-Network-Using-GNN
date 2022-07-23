@@ -1,0 +1,74 @@
+Source,Target,Weight
+Ximo Navarro,Jonathan Viera,6
+Jonathan Viera,Tana,4
+Ximo Navarro,G\u00e1lvez,4
+G\u00e1lvez,H. Toledo,3
+G. Pe\u00f1alba,Jonathan Viera,3
+G\u00e1lvez,Ximo Navarro,3
+H. Toledo,Ximo Navarro,3
+M. Lemos,G. Pe\u00f1alba,3
+J. Calleri,Dani Castellano,3
+Jonathan Viera,G\u00e1lvez,3
+H. Toledo,G\u00e1lvez,2
+Jonathan Viera,J. Calleri,2
+J. Calleri,Ximo Navarro,2
+J. Calleri,Jairo Samperio,2
+Jonathan Viera,H. Toledo,2
+H. Toledo,Jonathan Viera,2
+Dani Castellano,J. Calleri,2
+G. Pe\u00f1alba,Ximo Navarro,2
+J. Calleri,Tana,2
+G\u00e1lvez,G. Pe\u00f1alba,2
+G. Pe\u00f1alba,G\u00e1lvez,2
+Ximo Navarro,J. Calleri,2
+Dani Castellano,M. Lemos,2
+Jairo Samperio,G. Pe\u00f1alba,2
+G\u00e1lvez,Tana,2
+Jairo Samperio,Jonathan Viera,2
+G\u00e1lvez,M. Lemos,2
+Jonathan Viera,Jairo Samperio,2
+Jairo Samperio,J. Calleri,2
+Jonathan Viera,Ximo Navarro,2
+Tana,G. Pe\u00f1alba,2
+Tana,Jonathan Viera,2
+G. Pe\u00f1alba,J. Calleri,2
+L. Chichizola,J. Calleri,1
+Ximo Navarro,Dani Castellano,1
+Dani Castellano,Jairo Samperio,1
+G. Pe\u00f1alba,Jairo Samperio,1
+J. Calleri,Jonathan Viera,1
+J. Calleri,H. Toledo,1
+Tana,Ximo Navarro,1
+Tana,J. Calleri,1
+Dani Castellano,L. Chichizola,1
+Tana,Jairo Samperio,1
+Tana,H. Toledo,1
+Ximo Navarro,H. Toledo,1
+Tana,G\u00e1lvez,1
+Jonathan Viera,G. Pe\u00f1alba,1
+G. Pe\u00f1alba,Dani Castellano,1
+Jonathan Viera,L. Chichizola,1
+M. Lemos,Jonathan Viera,1
+G. Pe\u00f1alba,M. Lemos,1
+David Sim\u00f3n,H. Toledo,1
+Dani Castellano,G. Pe\u00f1alba,1
+Tana,David Sim\u00f3n,1
+Ximo Navarro,Tana,1
+Tana,Dani Castellano,1
+Jonathan Viera,Dani Castellano,1
+Ximo Navarro,G. Pe\u00f1alba,1
+L. Chichizola,Ximo Navarro,1
+Jairo Samperio,Ximo Navarro,1
+G\u00e1lvez,L. Chichizola,1
+H. Toledo,Tana,1
+Dani Castellano,Ximo Navarro,1
+L. Chichizola,H. Toledo,1
+G\u00e1lvez,Dani Castellano,1
+J. Calleri,G\u00e1lvez,1
+H. Toledo,J. Calleri,1
+H. Toledo,Dani Castellano,1
+G\u00e1lvez,Jonathan Viera,1
+M. Lemos,H. Toledo,1
+Dani Castellano,Tana,1
+J. Calleri,M. Lemos,1
+M. Lemos,G\u00e1lvez,1

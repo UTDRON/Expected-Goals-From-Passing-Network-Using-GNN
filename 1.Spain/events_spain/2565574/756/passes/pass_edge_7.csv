@@ -1,0 +1,30 @@
+Source,Target,Weight
+Pere Pons,J. Mojica,2
+J. Mojica,Pere Pons,2
+J. Mojica,Muniesa,2
+Muniesa,J. Mojica,2
+Borja Garc\u00eda,J. Mojica,2
+Muniesa,Borja Garc\u00eda,2
+Iraizoz,Muniesa,1
+Borja Garc\u00eda,Muniesa,1
+Aday,Iraizoz,1
+Pere Pons,O. Kayode,1
+Muniesa,Bernardo Espinosa,1
+Pedro Alcal\u00e1,Muniesa,1
+\u00c1lex Granell,Muniesa,1
+Muniesa,Iraizoz,1
+Bernardo Espinosa,Pere Pons,1
+Muniesa,Pere Pons,1
+J. Mojica,Bernardo Espinosa,1
+Pere Pons,Douglas Luiz,1
+Bernardo Espinosa,\u00c1lex Granell,1
+\u00c1lex Granell,Pere Pons,1
+Pedro Alcal\u00e1,Douglas Luiz,1
+Douglas Luiz,Muniesa,1
+Iraizoz,Pedro Alcal\u00e1,1
+Pere Pons,Borja Garc\u00eda,1
+Borja Garc\u00eda,\u00c1lex Granell,1
+O. Kayode,Borja Garc\u00eda,1
+J. Mojica,C. Stuani,1
+Douglas Luiz,Pedro Alcal\u00e1,1
+C. Stuani,Aday,1

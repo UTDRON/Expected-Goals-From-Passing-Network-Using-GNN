@@ -1,0 +1,109 @@
+Source,Target,Weight
+L. Antei,L. Venuti,10
+L. Antei,A. Ciciretti,9
+L. Venuti,N. Viola,9
+G. Di Chiara,A. Lazaar,8
+L. Venuti,L. Antei,8
+N. Viola,A. Lazaar,8
+A. Lazaar,N. Viola,8
+B. Djimsiti,G. Di Chiara,8
+R. Chibsah,D. Cataldi,7
+A. Ciciretti,L. Antei,7
+A. Lazaar,D. Cataldi,7
+N. Viola,L. Antei,7
+N. Viola,G. Di Chiara,6
+G. Di Chiara,B. Djimsiti,6
+B. Djimsiti,N. Viola,6
+N. Viola,D. Cataldi,6
+N. Viola,R. Chibsah,6
+L. Venuti,B. Djimsiti,6
+B. Djimsiti,A. Brignoli,6
+A. Brignoli,L. Antei,6
+B. Djimsiti,L. Antei,5
+L. Antei,S. Armenteros,5
+D. Cataldi,A. Lazaar,5
+A. Ciciretti,L. Venuti,5
+L. Venuti,A. Brignoli,5
+A. Brignoli,S. Armenteros,5
+D. Cataldi,L. Venuti,5
+L. Venuti,A. Ciciretti,5
+N. Viola,B. Djimsiti,4
+A. Ciciretti,R. Chibsah,4
+S. Armenteros,N. Viola,4
+R. Chibsah,N. Viola,4
+G. Di Chiara,R. Chibsah,4
+D. Cataldi,G. Di Chiara,4
+L. Antei,B. Djimsiti,4
+S. Armenteros,L. Venuti,4
+R. Chibsah,A. Ciciretti,4
+A. Brignoli,L. Venuti,4
+A. Lazaar,R. Chibsah,4
+R. Chibsah,B. Djimsiti,4
+D. Cataldi,N. Viola,4
+N. Viola,L. Venuti,4
+G. Di Chiara,N. Viola,3
+D. Cataldi,R. Chibsah,3
+A. Ciciretti,A. Brignoli,3
+G. Di Chiara,L. Antei,3
+D. Cataldi,A. Ciciretti,3
+S. Armenteros,A. Brignoli,3
+A. Ciciretti,G. Di Chiara,3
+A. Ciciretti,D. Cataldi,3
+S. Armenteros,R. Chibsah,3
+L. Antei,N. Viola,3
+L. Antei,R. Chibsah,3
+G. Di Chiara,A. Ciciretti,3
+A. Lazaar,G. Di Chiara,3
+R. Chibsah,L. Venuti,3
+B. Djimsiti,A. Lazaar,3
+A. Brignoli,B. Djimsiti,3
+A. Ciciretti,N. Viola,3
+L. Antei,G. Di Chiara,3
+G. Di Chiara,S. Armenteros,3
+S. Armenteros,G. Di Chiara,3
+G. Di Chiara,A. Brignoli,3
+L. Antei,A. Brignoli,3
+G. Di Chiara,D. Cataldi,2
+L. Venuti,A. Lazaar,2
+D. Cataldi,S. Armenteros,2
+D. Cataldi,L. Antei,2
+L. Venuti,R. Chibsah,2
+A. Lazaar,A. Brignoli,2
+A. Lazaar,A. Ciciretti,2
+A. Brignoli,D. Cataldi,2
+L. Venuti,G. Di Chiara,2
+R. Chibsah,L. Antei,2
+A. Brignoli,A. Ciciretti,2
+C. Lombardi,D. Cataldi,2
+R. Chibsah,A. Brignoli,2
+R. Chibsah,G. Di Chiara,2
+B. Djimsiti,A. Ciciretti,2
+A. Ciciretti,A. Lazaar,2
+A. Lazaar,B. Djimsiti,2
+A. Lazaar,L. Venuti,2
+A. Lazaar,L. Antei,2
+L. Antei,A. Lazaar,2
+A. Brignoli,N. Viola,2
+S. Armenteros,L. Antei,2
+A. Ciciretti,S. Armenteros,2
+R. Chibsah,A. Lazaar,2
+N. Viola,A. Ciciretti,2
+A. Brignoli,G. Di Chiara,2
+D. Cataldi,B. Djimsiti,2
+N. Viola,A. Brignoli,2
+N. Viola,S. Armenteros,1
+A. Brignoli,M. Coda,1
+B. Djimsiti,L. Venuti,1
+S. Armenteros,D. Cataldi,1
+L. Antei,C. Lombardi,1
+A. Ciciretti,B. Djimsiti,1
+G. Di Chiara,L. Venuti,1
+M. Coda,C. Lombardi,1
+L. Antei,D. Cataldi,1
+A. Brignoli,C. Lombardi,1
+C. Lombardi,L. Venuti,1
+L. Venuti,S. Armenteros,1
+B. Djimsiti,R. Chibsah,1
+S. Armenteros,A. Ciciretti,1
+R. Chibsah,S. Armenteros,1
+A. Brignoli,R. Chibsah,1

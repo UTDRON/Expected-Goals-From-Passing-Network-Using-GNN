@@ -1,0 +1,107 @@
+Source,Target,Weight
+Diego Rico,Omar Ramos,17
+Omar Ramos,Diego Rico,13
+Gabriel,Diego Rico,12
+Diego Rico,Gabriel,10
+Gumbau,Diego Rico,9
+Tito,Gabriel,9
+Bustinza,Gabriel,8
+N. El Zhar,Tito,8
+Tito,N. El Zhar,7
+Gabriel,Bustinza,7
+Diego Rico,Eraso,7
+Gabriel,Tito,7
+Eraso,Gabriel,6
+Gabriel,Gumbau,6
+Bustinza,D. Siovas,6
+Omar Ramos,Gabriel,6
+Eraso,Diego Rico,6
+Tito,Bustinza,6
+Bustinza,Tito,6
+Diego Rico,Gumbau,5
+Gabriel,N. El Zhar,5
+N. El Zhar,Gabriel,5
+Diego Rico,M. Mantovani,5
+D. Siovas,Bustinza,5
+Bustinza,Eraso,5
+D. Siovas,Gumbau,4
+Diego Rico,C. Beauvue,4
+N. El Zhar,Eraso,4
+D. Siovas,Gabriel,4
+C. Beauvue,N. El Zhar,4
+M. Mantovani,Diego Rico,4
+Eraso,Bustinza,4
+Gabriel,D. Siovas,4
+N. El Zhar,Bustinza,4
+Tito,Eraso,3
+Gumbau,D. Siovas,3
+Rub\u00e9n P\u00e9rez,Diego Rico,3
+Eraso,D. Siovas,3
+Cu\u00e9llar,Bustinza,3
+Gabriel,Omar Ramos,3
+Eraso,C. Beauvue,3
+C. Beauvue,Eraso,3
+Eraso,N. El Zhar,3
+Bustinza,N. El Zhar,3
+Omar Ramos,Eraso,3
+D. Siovas,Diego Rico,3
+C. Beauvue,Diego Rico,3
+D. Siovas,Cu\u00e9llar,3
+Gumbau,Tito,2
+Tito,D. Siovas,2
+D. Siovas,Tito,2
+Eraso,Omar Ramos,2
+Gabriel,Rub\u00e9n P\u00e9rez,2
+Gumbau,Eraso,2
+C. Beauvue,Tito,2
+N. El Zhar,D. Siovas,2
+Rub\u00e9n P\u00e9rez,Eraso,2
+D. Siovas,Omar Ramos,2
+C. Beauvue,D. Siovas,2
+Gabriel,Eraso,2
+Gumbau,C. Beauvue,2
+Bustinza,M. Mantovani,2
+Diego Rico,Rub\u00e9n P\u00e9rez,2
+Eraso,Gumbau,2
+C. Beauvue,Omar Ramos,2
+Omar Ramos,Bustinza,2
+Cu\u00e9llar,C. Beauvue,2
+Gabriel,C. Beauvue,2
+M. Mantovani,Rub\u00e9n P\u00e9rez,2
+Bustinza,Omar Ramos,2
+Eraso,Tito,2
+C. Beauvue,M. Mantovani,1
+Omar Ramos,N. El Zhar,1
+N. El Zhar,C. Beauvue,1
+Omar Ramos,D. Siovas,1
+Omar Ramos,Gumbau,1
+D. Siovas,C. Beauvue,1
+Rub\u00e9n P\u00e9rez,C. Beauvue,1
+Bustinza,Gumbau,1
+Gumbau,N. El Zhar,1
+N. El Zhar,Rub\u00e9n P\u00e9rez,1
+Omar Ramos,Rub\u00e9n P\u00e9rez,1
+N. El Zhar,Diego Rico,1
+Bustinza,C. Beauvue,1
+Cu\u00e9llar,Rub\u00e9n P\u00e9rez,1
+Tito,Rub\u00e9n P\u00e9rez,1
+Cu\u00e9llar,Gabriel,1
+Diego Rico,D. Siovas,1
+Gumbau,Bustinza,1
+Bustinza,Cu\u00e9llar,1
+Tito,C. Beauvue,1
+Diego Rico,Cu\u00e9llar,1
+Rub\u00e9n P\u00e9rez,Bustinza,1
+Tito,Cu\u00e9llar,1
+Rub\u00e9n P\u00e9rez,N. El Zhar,1
+Omar Ramos,Cu\u00e9llar,1
+Cu\u00e9llar,Gumbau,1
+N. El Zhar,Cu\u00e9llar,1
+M. Mantovani,C. Beauvue,1
+C. Beauvue,Bustinza,1
+Diego Rico,Bustinza,1
+Rub\u00e9n P\u00e9rez,Omar Ramos,1
+M. Mantovani,N. El Zhar,1
+Diego Rico,N. El Zhar,1
+Rub\u00e9n P\u00e9rez,Tito,1
+Gumbau,Gabriel,1

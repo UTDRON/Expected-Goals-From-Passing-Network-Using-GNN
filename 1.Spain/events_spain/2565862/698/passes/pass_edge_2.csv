@@ -1,0 +1,45 @@
+Source,Target,Weight
+L. Cabrera,Bruno,3
+D. Su\u00e1rez,Portillo,3
+F. Fajr,L. Cabrera,3
+Guaita,D. Su\u00e1rez,2
+D. Su\u00e1rez,F. Fajr,2
+A. Ndiaye,D. Su\u00e1rez,2
+Portillo,L. Cabrera,2
+Bruno,M. Flamini,2
+\u00c1ngel,L. Cabrera,2
+Bruno,F. Fajr,2
+\u00c1ngel,F. Fajr,1
+M. Flamini,D. Su\u00e1rez,1
+Bruno,A. Ndiaye,1
+M. Flamini,A. Ndiaye,1
+A. Ndiaye,Djen\u00e9,1
+L. Cabrera,F. Fajr,1
+F. Fajr,\u00c1ngel,1
+Djen\u00e9,Guaita,1
+M. Flamini,Djen\u00e9,1
+D. Su\u00e1rez,Bruno,1
+Bruno,D. Su\u00e1rez,1
+L. R\u00e9my,M. Flamini,1
+M. Flamini,Bruno,1
+Guaita,\u00c1ngel,1
+L. Cabrera,Djen\u00e9,1
+Portillo,L. R\u00e9my,1
+A. Ndiaye,L. Cabrera,1
+L. Cabrera,\u00c1ngel,1
+Djen\u00e9,Bruno,1
+A. Ndiaye,Guaita,1
+Djen\u00e9,M. Flamini,1
+Djen\u00e9,F. Fajr,1
+L. Cabrera,A. Ndiaye,1
+F. Fajr,L. R\u00e9my,1
+Bruno,Guaita,1
+F. Fajr,A. Ndiaye,1
+Guaita,A. Ndiaye,1
+M. Flamini,\u00c1ngel,1
+L. R\u00e9my,Djen\u00e9,1
+L. R\u00e9my,F. Fajr,1
+L. Cabrera,Guaita,1
+Djen\u00e9,L. R\u00e9my,1
+\u00c1ngel,M. Flamini,1
+F. Fajr,Bruno,1

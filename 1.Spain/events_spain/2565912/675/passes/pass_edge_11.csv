@@ -1,0 +1,64 @@
+Source,Target,Weight
+Marcelo,Marco Asensio,7
+Marco Asensio,Marcelo,5
+T. Kroos,L. Modri\u0107,5
+L. Modri\u0107,Marcelo,4
+Marcelo,T. Kroos,4
+Marco Asensio,Nacho,3
+R. Varane,A. Hakimi,3
+L. Modri\u0107,Marco Asensio,3
+A. Hakimi,R. Varane,3
+A. Hakimi,Lucas V\u00e1zquez,3
+T. Kroos,Marcelo,3
+K. Navas,A. Hakimi,3
+Marcelo,Borja Mayoral,3
+R. Varane,K. Navas,2
+Lucas V\u00e1zquez,L. Modri\u0107,2
+Marco Asensio,Casemiro,2
+L. Modri\u0107,Nacho,2
+Casemiro,T. Kroos,2
+Casemiro,L. Modri\u0107,2
+Marcelo,Casemiro,2
+Nacho,Casemiro,2
+Nacho,Marcelo,2
+Borja Mayoral,T. Kroos,2
+L. Modri\u0107,T. Kroos,2
+Nacho,R. Varane,2
+Borja Mayoral,Marcelo,1
+Casemiro,Lucas V\u00e1zquez,1
+T. Kroos,A. Hakimi,1
+Lucas V\u00e1zquez,Nacho,1
+Marcelo,G. Bale,1
+Lucas V\u00e1zquez,Marco Asensio,1
+Nacho,L. Modri\u0107,1
+L. Modri\u0107,A. Hakimi,1
+T. Kroos,Casemiro,1
+T. Kroos,Lucas V\u00e1zquez,1
+G. Bale,T. Kroos,1
+Marco Asensio,L. Modri\u0107,1
+T. Kroos,K. Navas,1
+Marcelo,R. Varane,1
+G. Bale,Marcelo,1
+A. Hakimi,Nacho,1
+G. Bale,Nacho,1
+Nacho,T. Kroos,1
+R. Varane,L. Modri\u0107,1
+A. Hakimi,G. Bale,1
+T. Kroos,Nacho,1
+R. Varane,Marco Asensio,1
+L. Modri\u0107,Lucas V\u00e1zquez,1
+Lucas V\u00e1zquez,R. Varane,1
+Casemiro,A. Hakimi,1
+A. Hakimi,Borja Mayoral,1
+Borja Mayoral,L. Modri\u0107,1
+A. Hakimi,Marcelo,1
+Marco Asensio,Borja Mayoral,1
+Casemiro,Marco Asensio,1
+T. Kroos,Marco Asensio,1
+Lucas V\u00e1zquez,T. Kroos,1
+L. Modri\u0107,Casemiro,1
+Marco Asensio,T. Kroos,1
+Nacho,G. Bale,1
+Casemiro,Marcelo,1
+G. Bale,L. Modri\u0107,1
+Marco Asensio,A. Hakimi,1

@@ -1,0 +1,35 @@
+Source,Target,Weight
+R. Freuler,M. de Roon,4
+J. Ili\u010di\u0107,R. Freuler,3
+R. Freuler,J. Ili\u010di\u0107,3
+M. de Roon,A. Masiello,3
+N. Haas,R. Gosens,3
+M. de Roon,R. Freuler,2
+M. de Roon,T. Castagne,2
+M. Caldara,A. Masiello,2
+T. Castagne,M. de Roon,2
+A. Masiello,R. Gosens,2
+A. Masiello,R. Freuler,2
+A. Masiello,N. Haas,2
+R. Gosens,N. Haas,2
+R. Gosens,A. G\u00f3mez,2
+R. Gosens,A. Masiello,2
+M. de Roon,J. Ili\u010di\u0107,1
+R. Gosens,T. Castagne,1
+A. Masiello,M. Caldara,1
+T. Castagne,M. Caldara,1
+E. Berisha,M. Caldara,1
+M. de Roon,E. Berisha,1
+T. Castagne,R. Freuler,1
+A. G\u00f3mez,R. Gosens,1
+N. Haas,A. Masiello,1
+J. Ili\u010di\u0107,A. G\u00f3mez,1
+N. Haas,J. Ili\u010di\u0107,1
+A. G\u00f3mez,M. de Roon,1
+M. Caldara,M. de Roon,1
+R. Freuler,A. G\u00f3mez,1
+J. Ili\u010di\u0107,N. Haas,1
+A. G\u00f3mez,N. Haas,1
+A. Masiello,M. de Roon,1
+M. de Roon,R. Gosens,1
+N. Haas,M. de Roon,1

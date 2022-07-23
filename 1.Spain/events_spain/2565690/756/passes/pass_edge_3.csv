@@ -1,0 +1,45 @@
+Source,Target,Weight
+Ramalho,Pablo Maffeo,3
+Y. Bounou,C. Stuani,3
+J. Mojica,Borja Garc\u00eda,3
+\u00c1lex Granell,J. Mojica,2
+J. Mojica,Timor,2
+Pablo Maffeo,Ramalho,2
+J. Mojica,\u00c1lex Granell,2
+Juanpe,Y. Bounou,2
+Timor,Juanpe,2
+Portu,Pere Pons,2
+C. Stuani,Timor,2
+Timor,C. Stuani,2
+Pere Pons,Borja Garc\u00eda,2
+Portu,Pablo Maffeo,2
+Borja Garc\u00eda,J. Mojica,2
+Pablo Maffeo,Pere Pons,2
+Pere Pons,Portu,1
+Timor,J. Mojica,1
+Ramalho,Portu,1
+J. Mojica,Juanpe,1
+C. Stuani,J. Mojica,1
+\u00c1lex Granell,Borja Garc\u00eda,1
+Borja Garc\u00eda,Pere Pons,1
+Portu,J. Mojica,1
+\u00c1lex Granell,Timor,1
+Borja Garc\u00eda,\u00c1lex Granell,1
+Pere Pons,C. Stuani,1
+Timor,\u00c1lex Granell,1
+\u00c1lex Granell,Ramalho,1
+Pablo Maffeo,Timor,1
+C. Stuani,Pere Pons,1
+Pere Pons,Pablo Maffeo,1
+Juanpe,Ramalho,1
+\u00c1lex Granell,Portu,1
+Ramalho,Timor,1
+J. Mojica,Pere Pons,1
+Pere Pons,J. Mojica,1
+Timor,Y. Bounou,1
+Pablo Maffeo,Portu,1
+C. Stuani,Portu,1
+Borja Garc\u00eda,Ramalho,1
+C. Stuani,Pablo Maffeo,1
+Pablo Maffeo,\u00c1lex Granell,1
+Pere Pons,\u00c1lex Granell,1

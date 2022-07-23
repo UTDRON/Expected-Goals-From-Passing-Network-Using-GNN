@@ -1,0 +1,22 @@
+Source,Target,Weight
+Montoya,Dani Parejo,2
+Neto,G. Kondogbia,2
+Dani Parejo,Montoya,2
+Gabriel,S. Zaza,1
+G. Kondogbia,Carlos Soler,1
+Jos\u00e9 Gay\u00e1,Gon\u00e7alo Guedes,1
+Montoya,Carlos Soler,1
+G. Kondogbia,Jos\u00e9 Gay\u00e1,1
+G. Kondogbia,Gabriel,1
+Rodrigo,Dani Parejo,1
+Dani Parejo,G. Kondogbia,1
+Carlos Soler,G. Kondogbia,1
+Carlos Soler,S. Zaza,1
+S. Zaza,Carlos Soler,1
+Gon\u00e7alo Guedes,Jos\u00e9 Gay\u00e1,1
+S. Zaza,Montoya,1
+Jos\u00e9 Gay\u00e1,Neto,1
+Rodrigo,Montoya,1
+Montoya,Rodrigo,1
+Gabriel,Neto,1
+Carlos Soler,Rodrigo,1

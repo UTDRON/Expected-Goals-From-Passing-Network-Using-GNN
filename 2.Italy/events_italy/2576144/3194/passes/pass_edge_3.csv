@@ -1,0 +1,79 @@
+Source,Target,Weight
+A. Ferrari,R\u00f4mulo,8
+A. Ferrari,B. Zuculini,7
+B. Zuculini,A. Ferrari,5
+Nicolas,A. Ferrari,5
+Daniel Bessa,A. Ferrari,5
+A. Ferrari,T. Heurtaux,4
+R\u00f4mulo,Daniel Bessa,4
+T. Heurtaux,B. Zuculini,4
+M. B\u00fcchel,M. Kean,4
+R\u00f4mulo,T. Heurtaux,4
+B. Zuculini,A. Caracciolo,4
+A. Ferrari,Daniel Bessa,4
+A. Caracciolo,B. Zuculini,4
+B. Zuculini,M. B\u00fcchel,3
+M. C\u00e1ceres,A. Ferrari,3
+M. C\u00e1ceres,D. Verde,3
+T. Heurtaux,A. Ferrari,3
+B. Zuculini,R\u00f4mulo,3
+M. B\u00fcchel,M. C\u00e1ceres,3
+M. Kean,R\u00f4mulo,3
+R\u00f4mulo,A. Ferrari,3
+M. B\u00fcchel,B. Zuculini,3
+B. Zuculini,M. C\u00e1ceres,2
+A. Ferrari,M. B\u00fcchel,2
+A. Caracciolo,Nicolas,2
+M. C\u00e1ceres,A. Caracciolo,2
+Nicolas,D. Verde,2
+T. Heurtaux,R\u00f4mulo,2
+T. Heurtaux,M. B\u00fcchel,2
+R\u00f4mulo,M. B\u00fcchel,2
+B. Zuculini,Daniel Bessa,2
+B. Zuculini,T. Heurtaux,2
+Daniel Bessa,M. C\u00e1ceres,2
+R\u00f4mulo,M. Kean,2
+Daniel Bessa,T. Heurtaux,2
+M. C\u00e1ceres,M. Kean,2
+B. Zuculini,Nicolas,2
+Nicolas,M. C\u00e1ceres,2
+D. Verde,M. B\u00fcchel,2
+M. Kean,M. C\u00e1ceres,2
+A. Caracciolo,M. C\u00e1ceres,2
+T. Heurtaux,M. C\u00e1ceres,1
+M. C\u00e1ceres,M. B\u00fcchel,1
+Daniel Bessa,M. B\u00fcchel,1
+M. C\u00e1ceres,T. Heurtaux,1
+M. Kean,Daniel Bessa,1
+M. Kean,Nicolas,1
+R\u00f4mulo,Nicolas,1
+D. Verde,A. Caracciolo,1
+Daniel Bessa,M. Kean,1
+M. Kean,A. Ferrari,1
+Daniel Bessa,D. Verde,1
+Nicolas,T. Heurtaux,1
+M. B\u00fcchel,A. Ferrari,1
+M. Kean,B. Zuculini,1
+M. Kean,D. Verde,1
+A. Ferrari,A. Caracciolo,1
+A. Caracciolo,Daniel Bessa,1
+D. Verde,R\u00f4mulo,1
+D. Verde,Nicolas,1
+R\u00f4mulo,B. Zuculini,1
+R\u00f4mulo,D. Verde,1
+A. Ferrari,Nicolas,1
+A. Caracciolo,R\u00f4mulo,1
+Nicolas,Daniel Bessa,1
+R\u00f4mulo,A. Caracciolo,1
+Daniel Bessa,R\u00f4mulo,1
+Daniel Bessa,Nicolas,1
+M. C\u00e1ceres,B. Zuculini,1
+D. Verde,B. Zuculini,1
+M. B\u00fcchel,Daniel Bessa,1
+T. Heurtaux,Daniel Bessa,1
+M. B\u00fcchel,T. Heurtaux,1
+T. Heurtaux,Nicolas,1
+Daniel Bessa,B. Zuculini,1
+T. Heurtaux,A. Caracciolo,1
+D. Verde,A. Ferrari,1
+D. Verde,M. Kean,1

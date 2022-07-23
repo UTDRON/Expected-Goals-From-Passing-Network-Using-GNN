@@ -1,0 +1,15 @@
+Source,Target,Weight
+Coke,Campa\u00f1a,3
+Campa\u00f1a,Jason,2
+Jason,Campa\u00f1a,2
+Campa\u00f1a,Coke,2
+Oier,Jason,1
+J. Lerma,C. Doukour\u00e9,1
+J. Lerma,Coke,1
+C. Doukour\u00e9,Jason,1
+Jason,Coke,1
+C. Doukour\u00e9,J. Lerma,1
+Chema,Oier,1
+Jason,J. Lerma,1
+J. Lerma,Chema,1
+Coke,J. Lerma,1

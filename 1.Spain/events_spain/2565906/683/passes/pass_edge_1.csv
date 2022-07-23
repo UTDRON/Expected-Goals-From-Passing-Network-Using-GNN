@@ -1,0 +1,72 @@
+Source,Target,Weight
+Luis Hern\u00e1ndez,R. Rosales,6
+R. Rosales,M. Lestienne,5
+M. Lestienne,Luis Hern\u00e1ndez,4
+D. Rol\u00e1n,Adri\u00e1n,4
+Adri\u00e1n,Y. En-Nesyri,4
+Diego Gonz\u00e1lez,D. Rol\u00e1n,4
+D. Rol\u00e1n,Diego Gonz\u00e1lez,4
+R. Rosales,Adri\u00e1n,3
+R. Rosales,B. Ideye,3
+Miquel,Diego Gonz\u00e1lez,3
+Miquel,Adri\u00e1n,3
+Diego Gonz\u00e1lez,Miquel,3
+Y. En-Nesyri,Adri\u00e1n,3
+M. Lestienne,R. Rosales,3
+Miquel,Luis Hern\u00e1ndez,3
+Y. En-Nesyri,M. Lacen,3
+Luis Hern\u00e1ndez,Miquel,3
+R. Rosales,Y. En-Nesyri,2
+R. Rosales,Miquel,2
+Adri\u00e1n,Luis Hern\u00e1ndez,2
+R. Rosales,M. Lacen,2
+Miquel,M. Lacen,2
+M. Lacen,M. Lestienne,2
+Adri\u00e1n,Miquel,2
+M. Lacen,R. Rosales,2
+Adri\u00e1n,R. Rosales,2
+Y. En-Nesyri,D. Rol\u00e1n,2
+Diego Gonz\u00e1lez,Adri\u00e1n,2
+Adri\u00e1n,M. Lestienne,2
+M. Lacen,Miquel,2
+Miquel,R. Rosales,1
+R. Rosales,Diego Gonz\u00e1lez,1
+M. Lestienne,Adri\u00e1n,1
+Miquel,B. Ideye,1
+Andr\u00e9s,R. Rosales,1
+Andr\u00e9s,Y. En-Nesyri,1
+M. Lestienne,D. Rol\u00e1n,1
+B. Ideye,Y. En-Nesyri,1
+Miquel,Andr\u00e9s,1
+Adri\u00e1n,B. Ideye,1
+Diego Gonz\u00e1lez,M. Lacen,1
+Adri\u00e1n,Diego Gonz\u00e1lez,1
+D. Rol\u00e1n,Miquel,1
+Andr\u00e9s,Miquel,1
+D. Rol\u00e1n,M. Lestienne,1
+B. Ideye,D. Rol\u00e1n,1
+Y. En-Nesyri,Miquel,1
+Diego Gonz\u00e1lez,R. Rosales,1
+M. Lestienne,Miquel,1
+Y. En-Nesyri,M. Lestienne,1
+Y. En-Nesyri,Diego Gonz\u00e1lez,1
+Luis Hern\u00e1ndez,Andr\u00e9s,1
+D. Rol\u00e1n,R. Rosales,1
+B. Ideye,Adri\u00e1n,1
+M. Lestienne,Y. En-Nesyri,1
+B. Ideye,M. Lestienne,1
+B. Ideye,R. Rosales,1
+Miquel,Y. En-Nesyri,1
+Miquel,D. Rol\u00e1n,1
+M. Lacen,Diego Gonz\u00e1lez,1
+R. Rosales,Luis Hern\u00e1ndez,1
+Luis Hern\u00e1ndez,M. Lestienne,1
+Adri\u00e1n,M. Lacen,1
+Adri\u00e1n,D. Rol\u00e1n,1
+M. Lacen,Y. En-Nesyri,1
+Andr\u00e9s,Diego Gonz\u00e1lez,1
+Y. En-Nesyri,R. Rosales,1
+M. Lacen,D. Rol\u00e1n,1
+Adri\u00e1n,Andr\u00e9s,1
+M. Lestienne,Andr\u00e9s,1
+Diego Gonz\u00e1lez,Y. En-Nesyri,1

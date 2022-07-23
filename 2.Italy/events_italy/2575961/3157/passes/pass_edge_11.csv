@@ -1,0 +1,73 @@
+Source,Target,Weight
+M. Locatelli,M. Musacchio,7
+L. Bonucci,R. Rodr\u00edguez,6
+M. Musacchio,L. Bonucci,5
+Suso,F. Kessi\u00e9,5
+H. \u00c7alhano\u011flu,M. Locatelli,5
+M. Locatelli,L. Bonucci,5
+R. Rodr\u00edguez,H. \u00c7alhano\u011flu,5
+M. Musacchio,F. Kessi\u00e9,5
+M. Musacchio,M. Locatelli,4
+M. Musacchio,H. \u00c7alhano\u011flu,4
+F. Kessi\u00e9,H. \u00c7alhano\u011flu,4
+H. \u00c7alhano\u011flu,R. Rodr\u00edguez,4
+L. Bonucci,M. Locatelli,4
+R. Rodr\u00edguez,M. Locatelli,4
+H. \u00c7alhano\u011flu,M. Musacchio,3
+F. Kessi\u00e9,Suso,3
+M. Locatelli,H. \u00c7alhano\u011flu,3
+L. Bonucci,M. Musacchio,3
+M. Locatelli,A. Conti,3
+H. \u00c7alhano\u011flu,Suso,3
+F. Borini,L. Bonucci,3
+F. Kessi\u00e9,M. Locatelli,3
+L. Bonucci,F. Borini,3
+H. \u00c7alhano\u011flu,F. Borini,3
+F. Kessi\u00e9,L. Bonucci,3
+H. \u00c7alhano\u011flu,A. Conti,3
+A. Conti,Suso,2
+A. Conti,M. Musacchio,2
+R. Rodr\u00edguez,M. Musacchio,2
+A. Conti,M. Locatelli,2
+A. Conti,L. Bonucci,2
+L. Bonucci,H. \u00c7alhano\u011flu,2
+Andr\u00e9 Silva,Suso,2
+R. Rodr\u00edguez,L. Bonucci,2
+A. Conti,F. Kessi\u00e9,2
+M. Locatelli,F. Borini,2
+L. Bonucci,A. Conti,1
+F. Borini,P. Cutrone,1
+M. Locatelli,Andr\u00e9 Silva,1
+F. Borini,M. Musacchio,1
+Suso,L. Bonucci,1
+M. Locatelli,G. Donnarumma,1
+M. Musacchio,Andr\u00e9 Silva,1
+F. Borini,F. Kessi\u00e9,1
+F. Kessi\u00e9,M. Musacchio,1
+M. Musacchio,A. Conti,1
+R. Rodr\u00edguez,G. Donnarumma,1
+F. Kessi\u00e9,A. Conti,1
+Suso,Andr\u00e9 Silva,1
+G. Donnarumma,R. Rodr\u00edguez,1
+Suso,R. Rodr\u00edguez,1
+G. Donnarumma,M. Musacchio,1
+Andr\u00e9 Silva,F. Kessi\u00e9,1
+Suso,F. Borini,1
+Andr\u00e9 Silva,G. Donnarumma,1
+H. \u00c7alhano\u011flu,Andr\u00e9 Silva,1
+M. Locatelli,Suso,1
+L. Bonucci,Andr\u00e9 Silva,1
+F. Borini,H. \u00c7alhano\u011flu,1
+F. Borini,M. Locatelli,1
+L. Bonucci,F. Kessi\u00e9,1
+Suso,H. \u00c7alhano\u011flu,1
+M. Locatelli,F. Kessi\u00e9,1
+P. Cutrone,M. Locatelli,1
+Suso,A. Conti,1
+A. Conti,H. \u00c7alhano\u011flu,1
+R. Rodr\u00edguez,A. Conti,1
+M. Locatelli,R. Rodr\u00edguez,1
+A. Conti,R. Rodr\u00edguez,1
+G. Donnarumma,M. Locatelli,1
+Andr\u00e9 Silva,A. Conti,1
+F. Borini,R. Rodr\u00edguez,1

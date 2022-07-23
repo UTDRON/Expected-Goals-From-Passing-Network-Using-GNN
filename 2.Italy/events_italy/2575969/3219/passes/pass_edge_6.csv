@@ -1,0 +1,30 @@
+Source,Target,Weight
+F. Ceravolo,G. Di Chiara,3
+G. Di Chiara,M. D'Alessandro,3
+M. D'Alessandro,F. Ceravolo,2
+M. D'Alessandro,L. Del Pinto,2
+G. Di Chiara,F. Ceravolo,2
+M. D'Alessandro,D. Cataldi,1
+M. Coda,L. Venuti,1
+L. Del Pinto,A. Costa,1
+F. Lucioni,F. Ceravolo,1
+G. Di Chiara,D. Cataldi,1
+A. Ciciretti,M. D'Alessandro,1
+F. Lucioni,G. Di Chiara,1
+L. Venuti,L. Del Pinto,1
+D. Cataldi,A. Costa,1
+F. Ceravolo,A. Ciciretti,1
+G. Di Chiara,A. Costa,1
+A. Costa,L. Venuti,1
+M. D'Alessandro,G. Di Chiara,1
+L. Del Pinto,G. Di Chiara,1
+F. Lucioni,L. Venuti,1
+L. Venuti,A. Costa,1
+A. Costa,M. Coda,1
+L. Del Pinto,F. Lucioni,1
+A. Costa,G. Di Chiara,1
+G. Di Chiara,L. Del Pinto,1
+D. Cataldi,G. Di Chiara,1
+L. Del Pinto,M. D'Alessandro,1
+L. Venuti,F. Lucioni,1
+A. Costa,M. D'Alessandro,1

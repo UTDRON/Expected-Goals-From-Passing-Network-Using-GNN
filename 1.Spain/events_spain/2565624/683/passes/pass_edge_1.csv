@@ -1,0 +1,31 @@
+Source,Target,Weight
+R. Rosales,Recio,2
+R. Rosales,\u00c1lex Mula,2
+P. Baysse,Luis Hern\u00e1ndez,2
+Recio,\u00c1lex Mula,2
+Recio,R. Rosales,1
+\u00c1lex Mula,A. Pe\u00f1aranda,1
+Juanpi,A. Pe\u00f1aranda,1
+\u00c1lex Mula,Juanpi,1
+Juanpi,R. Rosales,1
+P. Baysse,\u00c1lex Mula,1
+A. Pe\u00f1aranda,Recio,1
+Roberto,P. Baysse,1
+A. Pe\u00f1aranda,E. Rol\u00f3n,1
+P. Baysse,Juankar,1
+Luis Hern\u00e1ndez,P. Baysse,1
+A. Pe\u00f1aranda,Luis Hern\u00e1ndez,1
+E. Rol\u00f3n,\u00c1lex Mula,1
+\u00c1lex Mula,Roberto,1
+\u00c1lex Mula,E. Rol\u00f3n,1
+Luis Hern\u00e1ndez,A. Pe\u00f1aranda,1
+\u00c1lex Mula,R. Rosales,1
+Luis Hern\u00e1ndez,R. Rosales,1
+E. Rol\u00f3n,R. Rosales,1
+A. Pe\u00f1aranda,\u00c1lex Mula,1
+Luis Hern\u00e1ndez,Recio,1
+Juankar,P. Baysse,1
+Recio,Luis Hern\u00e1ndez,1
+\u00c1lex Mula,D. Rol\u00e1n,1
+R. Rosales,A. Pe\u00f1aranda,1
+D. Rol\u00e1n,Juanpi,1

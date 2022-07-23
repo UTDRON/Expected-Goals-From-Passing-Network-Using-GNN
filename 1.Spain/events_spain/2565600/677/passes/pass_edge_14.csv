@@ -1,0 +1,38 @@
+Source,Target,Weight
+C. Borges,Juanfran,3
+Guilherme,F. Sch\u00e4r,3
+Juanfran,Fede Cartabia,2
+F. Sch\u00e4r,F. Valverde,2
+Juanfran,C. Borges,2
+A. Arribas,Luisinho,2
+Luisinho,A. Arribas,2
+F. Valverde,E. \u00c7olak,2
+E. \u00c7olak,A. Arribas,2
+Luisinho,E. \u00c7olak,2
+C. Borges,F. Valverde,1
+C. Pantilimon,Juanfran,1
+Guilherme,E. \u00c7olak,1
+E. \u00c7olak,Luisinho,1
+Luisinho,C. Pantilimon,1
+A. Arribas,Guilherme,1
+F. Sch\u00e4r,Luisinho,1
+Juanfran,Guilherme,1
+F. Sch\u00e4r,C. Borges,1
+C. Borges,Lucas P\u00e9rez,1
+Lucas P\u00e9rez,Juanfran,1
+Juanfran,F. Sch\u00e4r,1
+Fede Cartabia,C. Borges,1
+A. Arribas,F. Valverde,1
+F. Sch\u00e4r,Guilherme,1
+E. \u00c7olak,C. Borges,1
+A. Arribas,C. Borges,1
+E. \u00c7olak,Lucas P\u00e9rez,1
+C. Borges,Fede Cartabia,1
+F. Valverde,F. Sch\u00e4r,1
+F. Valverde,Guilherme,1
+Fede Cartabia,Guilherme,1
+F. Sch\u00e4r,C. Pantilimon,1
+Guilherme,Juanfran,1
+C. Pantilimon,A. Arribas,1
+Lucas P\u00e9rez,Luisinho,1
+Luisinho,F. Sch\u00e4r,1

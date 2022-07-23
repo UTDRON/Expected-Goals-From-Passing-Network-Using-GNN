@@ -1,0 +1,26 @@
+Source,Target,Weight
+R. Varane,Sergio Ramos,2
+Casemiro,Dani Ceballos,2
+Casemiro,Lucas V\u00e1zquez,2
+Lucas V\u00e1zquez,Isco,2
+Isco,Lucas V\u00e1zquez,2
+Nacho,R. Varane,1
+R. Varane,Lucas V\u00e1zquez,1
+Dani Ceballos,Casemiro,1
+Dani Ceballos,Isco,1
+Daniel Carvajal,Casemiro,1
+Isco,Cristiano Ronaldo,1
+R. Varane,Casemiro,1
+Sergio Ramos,Marco Asensio,1
+Isco,R. Varane,1
+Dani Ceballos,Nacho,1
+Marco Asensio,Nacho,1
+Lucas V\u00e1zquez,Marco Asensio,1
+Nacho,Sergio Ramos,1
+Lucas V\u00e1zquez,Daniel Carvajal,1
+Sergio Ramos,Nacho,1
+Marco Asensio,Daniel Carvajal,1
+Sergio Ramos,R. Varane,1
+Lucas V\u00e1zquez,R. Varane,1
+Nacho,Dani Ceballos,1
+Daniel Carvajal,Isco,1

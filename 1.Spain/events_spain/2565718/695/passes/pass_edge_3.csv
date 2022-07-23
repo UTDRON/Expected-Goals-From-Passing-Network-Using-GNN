@@ -1,0 +1,79 @@
+Source,Target,Weight
+Luna,J. Lerma,4
+E. Boateng,Ivi,3
+S. Moore,E. Cabaco,3
+J. Lerma,S. Luki\u0107,3
+C. Doukour\u00e9,Jason,3
+E. Cabaco,S. Moore,3
+Ivi,Luna,3
+S. Moore,C. Doukour\u00e9,3
+E. Cabaco,J. Lerma,3
+C. Doukour\u00e9,S. Moore,3
+S. Moore,Luna,2
+E. Boateng,J. Lerma,2
+C. Doukour\u00e9,E. Cabaco,2
+Sergio Postigo,Luna,2
+J. Lerma,Ivi,2
+Ivi,Sergio Postigo,2
+J. Lerma,E. Boateng,2
+J. Lerma,Sergio Postigo,2
+Ivi,E. Cabaco,2
+Oier,E. Cabaco,2
+Luna,Ivi,2
+Sergio Postigo,S. Luki\u0107,2
+Luna,C. Doukour\u00e9,2
+S. Luki\u0107,Sergio Postigo,2
+C. Doukour\u00e9,S. Luki\u0107,2
+Sergio Postigo,S. Moore,2
+Oier,J. Lerma,2
+Jason,Ivi,2
+S. Luki\u0107,Oier,2
+E. Boateng,C. Doukour\u00e9,2
+Jason,S. Luki\u0107,2
+Luna,E. Boateng,2
+E. Cabaco,E. Boateng,1
+C. Doukour\u00e9,J. Lerma,1
+Ivi,C. Doukour\u00e9,1
+C. Doukour\u00e9,Sergio Postigo,1
+S. Moore,Oier,1
+J. Lerma,Oier,1
+Jason,C. Doukour\u00e9,1
+E. Cabaco,Sergio Postigo,1
+Sergio Postigo,C. Doukour\u00e9,1
+Jason,E. Boateng,1
+J. Lerma,E. Cabaco,1
+Oier,E. Boateng,1
+S. Moore,Jason,1
+S. Luki\u0107,Jason,1
+S. Luki\u0107,J. Lerma,1
+J. Lerma,C. Doukour\u00e9,1
+Sergio Postigo,Jason,1
+Sergio Postigo,Oier,1
+Ivi,Oier,1
+C. Doukour\u00e9,Luna,1
+Ivi,S. Luki\u0107,1
+E. Boateng,Luna,1
+E. Boateng,E. Cabaco,1
+E. Boateng,Jason,1
+S. Luki\u0107,C. Doukour\u00e9,1
+S. Luki\u0107,E. Boateng,1
+S. Moore,E. Boateng,1
+Luna,S. Luki\u0107,1
+E. Cabaco,C. Doukour\u00e9,1
+S. Luki\u0107,Ivi,1
+Sergio Postigo,E. Boateng,1
+Jason,Sergio Postigo,1
+Oier,Jason,1
+Ivi,J. Lerma,1
+J. Lerma,S. Moore,1
+Oier,C. Doukour\u00e9,1
+C. Doukour\u00e9,Oier,1
+Oier,Sergio Postigo,1
+J. Lerma,Luna,1
+E. Cabaco,Oier,1
+E. Cabaco,S. Luki\u0107,1
+Jason,S. Moore,1
+E. Cabaco,Ivi,1
+S. Luki\u0107,Luna,1
+S. Luki\u0107,S. Moore,1
+S. Luki\u0107,E. Cabaco,1

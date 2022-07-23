@@ -1,0 +1,28 @@
+Source,Target,Weight
+Oier,Coke,3
+Coke,Jason,2
+Coke,S. Luki\u0107,2
+Jason,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,Sergio Postigo,1
+Jason,Coke,1
+Sergio Postigo,Jos\u00e9 Luis Morales,1
+S. Luki\u0107,Oier,1
+Sergio Postigo,Oier,1
+C. Doukour\u00e9,Coke,1
+Rober,J. Lerma,1
+Coke,Rober,1
+Sergio Postigo,Jason,1
+Rober,Coke,1
+Coke,Oier,1
+Sergio Postigo,Rober,1
+Jos\u00e9 Luis Morales,S. Luki\u0107,1
+J. Lerma,Oier,1
+Luna,Sergio Postigo,1
+S. Luki\u0107,Luna,1
+S. Luki\u0107,Rober,1
+Jason,J. Lerma,1
+Luna,J. Lerma,1
+J. Lerma,Coke,1
+Oier,Luna,1
+Coke,C. Doukour\u00e9,1
+Rober,Sergio Postigo,1

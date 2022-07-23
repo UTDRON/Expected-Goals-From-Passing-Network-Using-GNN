@@ -1,0 +1,18 @@
+Source,Target,Weight
+A. Ajeti,R. Mandragora,2
+F. Ricci,A. Ajeti,2
+A. Benali,F. Ricci,1
+F. Ceccherini,F. Ricci,1
+A. Benali,A. Ajeti,1
+A. Nalini,B. Martella,1
+A. Ajeti,A. Budimir,1
+F. Ricci,A. Benali,1
+A. Budimir,R. Mandragora,1
+R. Mandragora,B. Martella,1
+A. Ajeti,A. Benali,1
+B. Martella,F. Ricci,1
+B. Martella,A. Nalini,1
+M. Capuano,B. Martella,1
+R. Mandragora,A. Nalini,1
+B. Martella,F. Ceccherini,1
+A. Nalini,A. Ajeti,1

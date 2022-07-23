@@ -1,0 +1,75 @@
+Source,Target,Weight
+C. Zapata,L. Bonucci,12
+L. Bonucci,C. Zapata,12
+L. Bonucci,R. Rodr\u00edguez,9
+R. Rodr\u00edguez,L. Bonucci,7
+M. Locatelli,L. Bonucci,5
+R. Rodr\u00edguez,M. Locatelli,5
+R. Rodr\u00edguez,H. \u00c7alhano\u011flu,5
+C. Zapata,M. Locatelli,5
+C. Zapata,D. Calabria,5
+D. Calabria,C. Zapata,4
+C. Zapata,F. Kessi\u00e9,4
+H. \u00c7alhano\u011flu,L. Bonucci,4
+F. Kessi\u00e9,C. Zapata,4
+M. Locatelli,F. Kessi\u00e9,4
+Suso,C. Zapata,4
+M. Locatelli,C. Zapata,4
+C. Zapata,Suso,3
+D. Calabria,P. Cutrone,3
+L. Bonucci,M. Locatelli,3
+P. Cutrone,M. Locatelli,3
+G. Bonaventura,R. Rodr\u00edguez,3
+M. Locatelli,R. Rodr\u00edguez,3
+H. \u00c7alhano\u011flu,C. Zapata,3
+L. Bonucci,G. Bonaventura,3
+L. Bonucci,H. \u00c7alhano\u011flu,3
+H. \u00c7alhano\u011flu,R. Rodr\u00edguez,2
+G. Bonaventura,L. Bonucci,2
+G. Donnarumma,C. Zapata,2
+Suso,D. Calabria,2
+D. Calabria,F. Kessi\u00e9,2
+F. Kessi\u00e9,R. Rodr\u00edguez,2
+H. \u00c7alhano\u011flu,P. Cutrone,2
+C. Zapata,G. Donnarumma,2
+M. Locatelli,G. Bonaventura,2
+G. Bonaventura,H. \u00c7alhano\u011flu,2
+F. Kessi\u00e9,G. Bonaventura,2
+P. Cutrone,G. Bonaventura,2
+F. Kessi\u00e9,L. Bonucci,2
+L. Bonucci,F. Kessi\u00e9,2
+D. Calabria,M. Locatelli,2
+H. \u00c7alhano\u011flu,G. Bonaventura,2
+Suso,F. Kessi\u00e9,2
+P. Cutrone,D. Calabria,2
+P. Cutrone,H. \u00c7alhano\u011flu,2
+F. Kessi\u00e9,D. Calabria,2
+F. Kessi\u00e9,Suso,2
+D. Calabria,R. Rodr\u00edguez,2
+M. Locatelli,D. Calabria,2
+R. Rodr\u00edguez,Suso,1
+G. Donnarumma,L. Bonucci,1
+G. Bonaventura,G. Donnarumma,1
+L. Bonucci,G. Donnarumma,1
+P. Cutrone,Suso,1
+C. Zapata,H. \u00c7alhano\u011flu,1
+R. Rodr\u00edguez,G. Bonaventura,1
+G. Bonaventura,P. Cutrone,1
+G. Bonaventura,D. Calabria,1
+D. Calabria,G. Donnarumma,1
+H. \u00c7alhano\u011flu,M. Locatelli,1
+C. Zapata,P. Cutrone,1
+R. Rodr\u00edguez,P. Cutrone,1
+R. Rodr\u00edguez,C. Zapata,1
+G. Donnarumma,F. Kessi\u00e9,1
+M. Locatelli,Suso,1
+G. Donnarumma,R. Rodr\u00edguez,1
+R. Rodr\u00edguez,G. Donnarumma,1
+F. Kessi\u00e9,M. Locatelli,1
+G. Bonaventura,Suso,1
+C. Zapata,R. Rodr\u00edguez,1
+R. Rodr\u00edguez,F. Kessi\u00e9,1
+M. Locatelli,P. Cutrone,1
+Suso,M. Locatelli,1
+G. Bonaventura,M. Locatelli,1
+G. Donnarumma,H. \u00c7alhano\u011flu,1

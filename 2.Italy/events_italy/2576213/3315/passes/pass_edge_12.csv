@@ -1,0 +1,57 @@
+Source,Target,Weight
+C. Adjapong,A. Ragusa,7
+F. Acerbi,C. Adjapong,4
+A. Ragusa,C. Adjapong,4
+Rog\u00e9rio,F. Acerbi,3
+C. Adjapong,L. Mazzitelli,3
+F. Peluso,S. Sensi,3
+S. Sensi,Rog\u00e9rio,3
+A. Ragusa,L. Mazzitelli,2
+L. Mazzitelli,C. Adjapong,2
+C. Adjapong,F. Acerbi,2
+F. Acerbi,Rog\u00e9rio,2
+F. Magnanelli,L. Mazzitelli,2
+S. Sensi,A. Ragusa,2
+Rog\u00e9rio,S. Sensi,2
+A. Ragusa,S. Sensi,2
+A. Consigli,K. Babacar,2
+L. Mazzitelli,F. Peluso,2
+F. Magnanelli,C. Adjapong,2
+F. Peluso,F. Magnanelli,2
+A. Ragusa,K. Babacar,2
+Rog\u00e9rio,L. Mazzitelli,1
+A. Ragusa,F. Magnanelli,1
+Rog\u00e9rio,F. Magnanelli,1
+S. Missiroli,F. Magnanelli,1
+F. Peluso,Rog\u00e9rio,1
+L. Mazzitelli,F. Magnanelli,1
+F. Magnanelli,S. Missiroli,1
+A. Ragusa,Rog\u00e9rio,1
+S. Missiroli,C. Adjapong,1
+F. Peluso,F. Acerbi,1
+L. Mazzitelli,Rog\u00e9rio,1
+S. Sensi,S. Missiroli,1
+K. Babacar,F. Magnanelli,1
+S. Missiroli,F. Peluso,1
+L. Mazzitelli,K. Babacar,1
+K. Babacar,A. Ragusa,1
+F. Acerbi,S. Missiroli,1
+F. Acerbi,F. Peluso,1
+K. Babacar,F. Peluso,1
+Rog\u00e9rio,A. Consigli,1
+C. Adjapong,F. Magnanelli,1
+A. Ragusa,F. Acerbi,1
+C. Adjapong,F. Peluso,1
+F. Acerbi,A. Consigli,1
+S. Missiroli,F. Acerbi,1
+F. Magnanelli,Rog\u00e9rio,1
+Rog\u00e9rio,S. Missiroli,1
+K. Babacar,C. Adjapong,1
+K. Babacar,Rog\u00e9rio,1
+Rog\u00e9rio,F. Peluso,1
+F. Magnanelli,A. Ragusa,1
+F. Peluso,L. Mazzitelli,1
+F. Magnanelli,F. Peluso,1
+L. Mazzitelli,F. Acerbi,1
+L. Mazzitelli,A. Ragusa,1
+S. Sensi,L. Mazzitelli,1

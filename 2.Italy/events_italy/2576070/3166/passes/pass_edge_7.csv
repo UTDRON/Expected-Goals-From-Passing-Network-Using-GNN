@@ -1,0 +1,18 @@
+Source,Target,Weight
+F. Helander,A. Masina,2
+A. Masina,G. Donsah,2
+G. Donsah,A. Masina,2
+A. Masina,S. Verdi,2
+F. Helander,A. Poli,1
+G. Gonz\u00e1lez,F. Helander,1
+E. Krafth,G. Gonz\u00e1lez,1
+S. Verdi,R. Palacio,1
+A. Poli,E. Krafth,1
+R. Palacio,A. Poli,1
+A. Masina,F. Helander,1
+S. Verdi,F. Helander,1
+F. Helander,G. Donsah,1
+L. Crisetig,G. Donsah,1
+G. Donsah,L. Crisetig,1
+G. Donsah,F. Helander,1
+L. Crisetig,A. Masina,1

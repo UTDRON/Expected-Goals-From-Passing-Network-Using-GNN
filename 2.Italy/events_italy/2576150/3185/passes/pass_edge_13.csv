@@ -1,0 +1,31 @@
+Source,Target,Weight
+C. Molinaro,\u00c1lex Berenguer,3
+L. De Silvestri,C. Molinaro,2
+E. Moretti,C. Molinaro,2
+T. Rinc\u00f3n,L. De Silvestri,2
+C. Molinaro,T. Rinc\u00f3n,2
+T. Rinc\u00f3n,\u00c1lex Berenguer,2
+T. Rinc\u00f3n,N. N'Koulou,1
+S. Sirigu,C. Molinaro,1
+M. Niang,S. Sirigu,1
+D. Baselli,\u00c1lex Berenguer,1
+L. De Silvestri,E. Moretti,1
+C. Molinaro,S. Sirigu,1
+\u00c1lex Berenguer,D. Baselli,1
+N. N'Koulou,D. Baselli,1
+\u00c1lex Berenguer,N. N'Koulou,1
+N. N'Koulou,T. Rinc\u00f3n,1
+D. Baselli,E. Moretti,1
+E. Moretti,T. Rinc\u00f3n,1
+\u00c1lex Berenguer,M. Niang,1
+\u00c1lex Berenguer,C. Molinaro,1
+L. De Silvestri,N. N'Koulou,1
+E. Moretti,L. De Silvestri,1
+T. Rinc\u00f3n,E. Moretti,1
+\u00c1lex Berenguer,T. Rinc\u00f3n,1
+E. Moretti,Iago Falqu\u00e9,1
+D. Baselli,T. Rinc\u00f3n,1
+S. Sirigu,E. Moretti,1
+Iago Falqu\u00e9,L. De Silvestri,1
+N. N'Koulou,E. Moretti,1
+L. De Silvestri,D. Baselli,1

@@ -1,0 +1,30 @@
+Source,Target,Weight
+Muniesa,Aday,2
+Aday,Borja Garc\u00eda,2
+Borja Garc\u00eda,Aday,2
+Aleix Garc\u00eda,Borja Garc\u00eda,2
+Timor,Borja Garc\u00eda,2
+Borja Garc\u00eda,Timor,2
+Juanpe,M. Olunga,1
+M. Olunga,Timor,1
+Juanpe,Y. Bounou,1
+Y. Bounou,Timor,1
+Aday,Pedro Alcal\u00e1,1
+Choco Lozano,Muniesa,1
+Pedro Alcal\u00e1,Muniesa,1
+Aleix Garc\u00eda,Timor,1
+Timor,Aday,1
+Timor,Choco Lozano,1
+Timor,Aleix Garc\u00eda,1
+Muniesa,Aleix Garc\u00eda,1
+Borja Garc\u00eda,Muniesa,1
+Timor,Juanpe,1
+Pedro Alcal\u00e1,Juanpe,1
+Juanpe,Pablo Maffeo,1
+Juanpe,Muniesa,1
+Aday,Timor,1
+Muniesa,Juanpe,1
+Aday,Aleix Garc\u00eda,1
+Aleix Garc\u00eda,Aday,1
+Pablo Maffeo,Juanpe,1
+Borja Garc\u00eda,Aleix Garc\u00eda,1

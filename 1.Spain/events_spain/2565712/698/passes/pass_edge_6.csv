@@ -1,0 +1,10 @@
+Source,Target,Weight
+Jorge Molina,\u00c1ngel,2
+Sergio Mora,Jorge Molina,2
+F. Fajr,Guaita,1
+Guaita,Sergio Mora,1
+\u00c1ngel,Jorge Molina,1
+Antunes,F. Fajr,1
+Jorge Molina,Antunes,1
+\u00c1ngel,Sergio Mora,1
+Sergio Mora,\u00c1ngel,1

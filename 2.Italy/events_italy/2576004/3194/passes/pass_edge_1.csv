@@ -1,0 +1,58 @@
+Source,Target,Weight
+M. Valoti,R\u00f4mulo,5
+Nicolas,M. Valoti,4
+Daniel Bessa,T. Heurtaux,3
+M. Valoti,E. Bearzotti,3
+M. Fossati,Daniel Bessa,3
+T. Heurtaux,Nicolas,3
+D. Verde,M. Fossati,3
+E. Bearzotti,D. Verde,3
+R\u00f4mulo,T. Heurtaux,3
+M. Fossati,E. Bearzotti,2
+Daniel Bessa,B. Zuculini,2
+E. Bearzotti,G. Pazzini,2
+T. Heurtaux,E. Bearzotti,2
+G. Pazzini,Nicolas,2
+R\u00f4mulo,M. Fossati,2
+D. Verde,E. Bearzotti,2
+R\u00f4mulo,A. Caracciolo,2
+B. Zuculini,R\u00f4mulo,2
+R\u00f4mulo,B. Zuculini,2
+G. Pazzini,A. Caracciolo,1
+E. Bearzotti,R\u00f4mulo,1
+T. Heurtaux,M. Valoti,1
+E. Bearzotti,Nicolas,1
+G. Pazzini,R\u00f4mulo,1
+G. Pazzini,D. Verde,1
+A. Caracciolo,M. Valoti,1
+E. Bearzotti,Daniel Bessa,1
+D. Verde,A. Caracciolo,1
+A. Caracciolo,G. Pazzini,1
+Daniel Bessa,E. Bearzotti,1
+Nicolas,R\u00f4mulo,1
+Nicolas,G. Pazzini,1
+R\u00f4mulo,E. Bearzotti,1
+B. Zuculini,Nicolas,1
+E. Bearzotti,M. Fossati,1
+Nicolas,D. Verde,1
+Daniel Bessa,M. Fossati,1
+M. Valoti,G. Pazzini,1
+B. Zuculini,Daniel Bessa,1
+M. Fossati,T. Heurtaux,1
+A. Caracciolo,B. Zuculini,1
+M. Fossati,M. Valoti,1
+M. Valoti,B. Zuculini,1
+E. Bearzotti,A. Caracciolo,1
+E. Bearzotti,M. Valoti,1
+A. Caracciolo,Daniel Bessa,1
+Daniel Bessa,D. Verde,1
+B. Zuculini,M. Fossati,1
+Nicolas,Daniel Bessa,1
+G. Pazzini,M. Valoti,1
+T. Heurtaux,R\u00f4mulo,1
+A. Caracciolo,Nicolas,1
+R\u00f4mulo,Daniel Bessa,1
+G. Pazzini,T. Heurtaux,1
+D. Verde,G. Pazzini,1
+B. Zuculini,M. Valoti,1
+T. Heurtaux,D. Verde,1

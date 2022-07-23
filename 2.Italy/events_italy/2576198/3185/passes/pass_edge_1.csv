@@ -1,0 +1,48 @@
+Source,Target,Weight
+N. Burdisso,L. De Silvestri,4
+L. De Silvestri,N. N'Koulou,3
+L. De Silvestri,Iago Falqu\u00e9,3
+Iago Falqu\u00e9,D. Baselli,2
+C. Molinaro,M. Niang,2
+T. Rinc\u00f3n,C. Molinaro,2
+N. N'Koulou,N. Burdisso,2
+M. Niang,J. Obi,2
+N. N'Koulou,L. De Silvestri,2
+J. Obi,T. Rinc\u00f3n,2
+D. Baselli,N. Burdisso,2
+Iago Falqu\u00e9,T. Rinc\u00f3n,2
+L. De Silvestri,D. Baselli,2
+D. Baselli,Iago Falqu\u00e9,2
+D. Baselli,L. De Silvestri,2
+A. Belotti,J. Obi,2
+Iago Falqu\u00e9,A. Belotti,2
+T. Rinc\u00f3n,J. Obi,2
+C. Molinaro,T. Rinc\u00f3n,1
+C. Molinaro,L. De Silvestri,1
+J. Obi,A. Belotti,1
+S. Sirigu,J. Obi,1
+C. Molinaro,S. Sirigu,1
+A. Belotti,T. Rinc\u00f3n,1
+J. Obi,N. Burdisso,1
+Iago Falqu\u00e9,C. Molinaro,1
+A. Belotti,N. N'Koulou,1
+J. Obi,C. Molinaro,1
+T. Rinc\u00f3n,N. Burdisso,1
+N. Burdisso,C. Molinaro,1
+T. Rinc\u00f3n,D. Baselli,1
+N. N'Koulou,S. Sirigu,1
+T. Rinc\u00f3n,Iago Falqu\u00e9,1
+S. Sirigu,N. N'Koulou,1
+N. N'Koulou,D. Baselli,1
+L. De Silvestri,N. Burdisso,1
+M. Niang,Iago Falqu\u00e9,1
+L. De Silvestri,T. Rinc\u00f3n,1
+N. Burdisso,M. Niang,1
+Iago Falqu\u00e9,L. De Silvestri,1
+M. Niang,L. De Silvestri,1
+M. Niang,N. N'Koulou,1
+D. Baselli,T. Rinc\u00f3n,1
+L. De Silvestri,M. Niang,1
+J. Obi,M. Niang,1
+T. Rinc\u00f3n,A. Belotti,1
+J. Obi,D. Baselli,1

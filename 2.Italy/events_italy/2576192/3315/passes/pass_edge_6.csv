@@ -1,0 +1,18 @@
+Source,Target,Weight
+F. Acerbi,A. Duncan,3
+A. Duncan,F. Magnanelli,2
+K. Babacar,M. Politano,2
+K. Babacar,F. Acerbi,2
+F. Magnanelli,F. Peluso,2
+F. Peluso,A. Duncan,1
+E. Goldaniga,F. Peluso,1
+A. Duncan,E. Goldaniga,1
+F. Magnanelli,K. Babacar,1
+A. Duncan,F. Acerbi,1
+M. Politano,D. Berardi,1
+M. Politano,A. Duncan,1
+F. Peluso,F. Magnanelli,1
+F. Peluso,K. Babacar,1
+A. Duncan,K. Babacar,1
+A. Duncan,M. Politano,1
+M. Politano,K. Babacar,1

@@ -1,0 +1,62 @@
+Source,Target,Weight
+L. Carole,C. Lenglet,5
+C. Lenglet,L. Carole,4
+J. Correa,G. Pizarro,3
+L. Carole,J. Correa,3
+F. V\u00e1zquez,S. N'Zonzi,3
+Jes\u00fas Navas,S. Corchia,2
+C. Lenglet,Sergio Rico,2
+G. Pizarro,S. Kj\u00e6r,2
+G. Pizarro,C. Lenglet,2
+S. Corchia,Sergio Rico,2
+J. Correa,F. V\u00e1zquez,2
+G. Pizarro,F. V\u00e1zquez,2
+S. Corchia,S. N'Zonzi,2
+W. Ben Yedder,S. Corchia,2
+S. N'Zonzi,C. Lenglet,2
+S. N'Zonzi,G. Pizarro,2
+C. Lenglet,S. Kj\u00e6r,2
+G. Pizarro,S. N'Zonzi,1
+W. Ben Yedder,F. V\u00e1zquez,1
+C. Lenglet,W. Ben Yedder,1
+Jes\u00fas Navas,G. Pizarro,1
+S. Kj\u00e6r,Jes\u00fas Navas,1
+J. Correa,C. Lenglet,1
+S. Kj\u00e6r,L. Carole,1
+G. Pizarro,J. Correa,1
+C. Lenglet,J. Correa,1
+Sergio Rico,F. V\u00e1zquez,1
+F. V\u00e1zquez,L. Carole,1
+F. V\u00e1zquez,S. Corchia,1
+S. N'Zonzi,J. Correa,1
+S. Kj\u00e6r,F. V\u00e1zquez,1
+C. Lenglet,G. Pizarro,1
+W. Ben Yedder,S. Kj\u00e6r,1
+J. Correa,S. Corchia,1
+S. Corchia,S. Kj\u00e6r,1
+F. V\u00e1zquez,C. Lenglet,1
+S. Corchia,F. V\u00e1zquez,1
+Sergio Rico,Jes\u00fas Navas,1
+S. N'Zonzi,W. Ben Yedder,1
+G. Pizarro,S. Corchia,1
+Sergio Rico,W. Ben Yedder,1
+S. Kj\u00e6r,W. Ben Yedder,1
+S. N'Zonzi,S. Corchia,1
+G. Pizarro,Sergio Rico,1
+F. V\u00e1zquez,W. Ben Yedder,1
+F. V\u00e1zquez,G. Pizarro,1
+L. Carole,G. Pizarro,1
+Sergio Rico,L. Carole,1
+J. Correa,L. Carole,1
+S. N'Zonzi,Jes\u00fas Navas,1
+S. Corchia,J. Correa,1
+G. Pizarro,Jes\u00fas Navas,1
+C. Lenglet,S. N'Zonzi,1
+S. Kj\u00e6r,G. Pizarro,1
+S. Kj\u00e6r,S. N'Zonzi,1
+S. Kj\u00e6r,C. Lenglet,1
+Sergio Rico,S. Kj\u00e6r,1
+Jes\u00fas Navas,S. N'Zonzi,1
+S. Corchia,C. Lenglet,1
+S. N'Zonzi,L. Carole,1
+W. Ben Yedder,G. Pizarro,1

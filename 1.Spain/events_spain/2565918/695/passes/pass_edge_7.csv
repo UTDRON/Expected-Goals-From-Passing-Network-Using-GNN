@@ -1,0 +1,37 @@
+Source,Target,Weight
+Luna,E. Bardhi,5
+E. Bardhi,Campa\u00f1a,5
+E. Bardhi,Jason,4
+Jason,E. Bardhi,4
+Campa\u00f1a,S. Luki\u0107,3
+Campa\u00f1a,Luna,3
+E. Cabaco,S. Luki\u0107,2
+S. Luki\u0107,Campa\u00f1a,2
+E. Bardhi,Luna,2
+S. Luki\u0107,E. Bardhi,2
+Campa\u00f1a,Fahad Al Muwallad,2
+Chema,Campa\u00f1a,1
+Koke,E. Cabaco,1
+Jason,Campa\u00f1a,1
+Jason,Luna,1
+Chema,Koke,1
+Koke,S. Luki\u0107,1
+S. Luki\u0107,Chema,1
+Luna,Campa\u00f1a,1
+Jason,S. Luki\u0107,1
+Luna,S. Luki\u0107,1
+E. Cabaco,Chema,1
+Campa\u00f1a,Jason,1
+S. Luki\u0107,Jason,1
+S. Luki\u0107,Koke,1
+Luna,E. Cabaco,1
+G. Pazzini,Luna,1
+Pedro L\u00f3pez,E. Cabaco,1
+S. Luki\u0107,G. Pazzini,1
+Chema,Jason,1
+E. Bardhi,G. Pazzini,1
+G. Pazzini,Campa\u00f1a,1
+Fahad Al Muwallad,Campa\u00f1a,1
+Campa\u00f1a,Pedro L\u00f3pez,1
+Campa\u00f1a,E. Bardhi,1
+Fahad Al Muwallad,Chema,1

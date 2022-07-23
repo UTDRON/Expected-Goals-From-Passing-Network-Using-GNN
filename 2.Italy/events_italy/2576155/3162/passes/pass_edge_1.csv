@@ -1,0 +1,37 @@
+Source,Target,Weight
+D. Basta,Lucas Leiva,3
+S. Milinkovi\u0107-Savi\u0107,\u015e. Radu,2
+S. Milinkovi\u0107-Savi\u0107,J. Lukaku,2
+Lucas Leiva,S. Milinkovi\u0107-Savi\u0107,2
+Lucas Leiva,Wallace,2
+J. Lukaku,S. Milinkovi\u0107-Savi\u0107,2
+\u015e. Radu,Lucas Leiva,1
+Wallace,M. Parolo,1
+Lucas Leiva,C. Immobile,1
+C. Immobile,D. Basta,1
+S. Milinkovi\u0107-Savi\u0107,M. Parolo,1
+M. Parolo,Lucas Leiva,1
+J. Lukaku,D. Basta,1
+T. Strakosha,S. de Vrij,1
+J. Lukaku,Lucas Leiva,1
+J. Lukaku,S. de Vrij,1
+T. Strakosha,\u015e. Radu,1
+Wallace,D. Basta,1
+Lucas Leiva,J. Lukaku,1
+S. Milinkovi\u0107-Savi\u0107,Lucas Leiva,1
+Wallace,T. Strakosha,1
+S. de Vrij,J. Lukaku,1
+M. Parolo,Wallace,1
+S. de Vrij,Wallace,1
+Wallace,Lucas Leiva,1
+Wallace,J. Lukaku,1
+Luis Alberto,C. Immobile,1
+T. Strakosha,Wallace,1
+\u015e. Radu,S. Milinkovi\u0107-Savi\u0107,1
+Lucas Leiva,Luis Alberto,1
+J. Lukaku,Luis Alberto,1
+\u015e. Radu,S. de Vrij,1
+Lucas Leiva,T. Strakosha,1
+S. de Vrij,Luis Alberto,1
+C. Immobile,S. Milinkovi\u0107-Savi\u0107,1
+Luis Alberto,T. Strakosha,1

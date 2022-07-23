@@ -1,0 +1,52 @@
+Source,Target,Weight
+Luisinho,Guilherme,6
+Guilherme,C. Borges,5
+Juanfran,Fede Cartabia,5
+Z. Bakkali,Luisinho,5
+Sidnei,Guilherme,4
+Guilherme,Z. Bakkali,4
+Fede Cartabia,Juanfran,3
+C. Borges,Guilherme,3
+Luisinho,Z. Bakkali,3
+Guilherme,Luisinho,2
+F. Sch\u00e4r,Fede Cartabia,2
+Guilherme,Sidnei,2
+Lucas P\u00e9rez,C. Borges,2
+Luisinho,Sidnei,2
+Guilherme,F. Sch\u00e4r,2
+Fede Cartabia,Sidnei,2
+Fede Cartabia,F. Sch\u00e4r,2
+F. Sch\u00e4r,Guilherme,2
+F. Valverde,Juanfran,2
+Fede Cartabia,Luisinho,2
+Z. Bakkali,Guilherme,2
+Sidnei,Luisinho,2
+Sidnei,F. Sch\u00e4r,2
+F. Sch\u00e4r,Luisinho,1
+F. Sch\u00e4r,C. Pantilimon,1
+Fede Cartabia,F. Valverde,1
+F. Sch\u00e4r,Juanfran,1
+F. Valverde,Fede Cartabia,1
+C. Borges,Juanfran,1
+Juanfran,F. Sch\u00e4r,1
+C. Borges,Z. Bakkali,1
+Guilherme,Lucas P\u00e9rez,1
+Juanfran,Guilherme,1
+Lucas P\u00e9rez,F. Valverde,1
+Juanfran,Lucas P\u00e9rez,1
+Fede Cartabia,C. Borges,1
+F. Sch\u00e4r,Sidnei,1
+C. Borges,Lucas P\u00e9rez,1
+Luisinho,Fede Cartabia,1
+Z. Bakkali,Sidnei,1
+C. Pantilimon,F. Sch\u00e4r,1
+C. Borges,Fede Cartabia,1
+Guilherme,F. Valverde,1
+Juanfran,C. Borges,1
+C. Borges,F. Valverde,1
+F. Sch\u00e4r,Z. Bakkali,1
+F. Valverde,Sidnei,1
+Luisinho,F. Sch\u00e4r,1
+Guilherme,Fede Cartabia,1
+Sidnei,Juanfran,1
+C. Borges,Luisinho,1

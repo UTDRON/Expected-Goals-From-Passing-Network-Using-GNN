@@ -1,0 +1,20 @@
+Source,Target,Weight
+F. Costa,Felipe,2
+M. Lazzari,F. Viviani,2
+M. Lazzari,F. Costa,2
+F. Costa,M. Borriello,1
+F. Vicari,S. V\u00e4is\u00e4nen,1
+A. Gomis,S. V\u00e4is\u00e4nen,1
+F. Viviani,A. Gomis,1
+Felipe,F. Vicari,1
+M. Borriello,F. Viviani,1
+F. Costa,L. Mora,1
+L. Mora,F. Costa,1
+S. V\u00e4is\u00e4nen,F. Vicari,1
+F. Vicari,F. Costa,1
+F. Viviani,F. Costa,1
+S. V\u00e4is\u00e4nen,M. Lazzari,1
+F. Costa,F. Viviani,1
+Felipe,M. Lazzari,1
+F. Viviani,P. Schiattarella,1
+F. Viviani,M. Lazzari,1

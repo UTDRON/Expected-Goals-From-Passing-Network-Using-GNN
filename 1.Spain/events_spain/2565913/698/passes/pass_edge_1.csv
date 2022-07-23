@@ -1,0 +1,66 @@
+Source,Target,Weight
+Portillo,D. Su\u00e1rez,9
+D. Su\u00e1rez,Portillo,6
+M. Flamini,Portillo,5
+Antunes,Djen\u00e9,4
+F. Fajr,A. Ndiaye,4
+L. R\u00e9my,Djen\u00e9,4
+Portillo,M. Flamini,4
+Antunes,L. R\u00e9my,3
+D. Su\u00e1rez,Djen\u00e9,3
+Bruno,Antunes,3
+Bruno,M. Flamini,3
+D. Su\u00e1rez,M. Flamini,3
+Jorge Molina,D. Su\u00e1rez,3
+Portillo,Jorge Molina,3
+Antunes,F. Fajr,3
+Djen\u00e9,Bruno,3
+Djen\u00e9,Antunes,3
+A. Ndiaye,Antunes,3
+Djen\u00e9,Portillo,3
+D. Su\u00e1rez,F. Fajr,2
+M. Flamini,Jorge Molina,2
+M. Flamini,F. Fajr,2
+Djen\u00e9,D. Su\u00e1rez,2
+L. R\u00e9my,Portillo,2
+F. Fajr,Antunes,2
+Djen\u00e9,M. Flamini,2
+M. Flamini,L. R\u00e9my,2
+Antunes,A. Ndiaye,2
+A. Ndiaye,Djen\u00e9,2
+A. Ndiaye,Bruno,2
+Portillo,L. R\u00e9my,2
+F. Fajr,Bruno,2
+Djen\u00e9,Guaita,1
+Bruno,Guaita,1
+Jorge Molina,M. Flamini,1
+Guaita,Antunes,1
+M. Flamini,Antunes,1
+L. R\u00e9my,M. Flamini,1
+L. R\u00e9my,Jorge Molina,1
+Djen\u00e9,L. R\u00e9my,1
+M. Flamini,Djen\u00e9,1
+Jorge Molina,A. Ndiaye,1
+M. Flamini,D. Su\u00e1rez,1
+Portillo,F. Fajr,1
+Portillo,Antunes,1
+A. Ndiaye,L. R\u00e9my,1
+M. Flamini,A. Ndiaye,1
+M. Flamini,Bruno,1
+F. Fajr,Portillo,1
+Jorge Molina,Portillo,1
+Bruno,Portillo,1
+D. Su\u00e1rez,Jorge Molina,1
+Bruno,F. Fajr,1
+F. Fajr,M. Flamini,1
+Jorge Molina,Djen\u00e9,1
+Antunes,Portillo,1
+L. R\u00e9my,D. Su\u00e1rez,1
+A. Ndiaye,F. Fajr,1
+F. Fajr,L. R\u00e9my,1
+Jorge Molina,L. R\u00e9my,1
+D. Su\u00e1rez,A. Ndiaye,1
+L. R\u00e9my,Bruno,1
+Antunes,M. Flamini,1
+Guaita,Jorge Molina,1
+L. R\u00e9my,A. Ndiaye,1

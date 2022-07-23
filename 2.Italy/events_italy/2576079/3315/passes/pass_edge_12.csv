@@ -1,0 +1,27 @@
+Source,Target,Weight
+S. Missiroli,D. Berardi,3
+F. Acerbi,P. Cannavaro,2
+D. Berardi,S. Missiroli,2
+F. Magnanelli,M. Politano,2
+M. Politano,S. Missiroli,1
+P. Cannavaro,F. Acerbi,1
+M. Politano,F. Magnanelli,1
+F. Acerbi,M. Politano,1
+F. Acerbi,S. Missiroli,1
+S. Sensi,F. Magnanelli,1
+D. Berardi,S. Sensi,1
+F. Magnanelli,D. Berardi,1
+P. Cannavaro,S. Missiroli,1
+F. Peluso,A. Consigli,1
+F. Magnanelli,F. Peluso,1
+D. Berardi,M. Politano,1
+A. Consigli,F. Acerbi,1
+S. Missiroli,F. Magnanelli,1
+S. Sensi,F. Acerbi,1
+A. Matri,F. Magnanelli,1
+M. Politano,A. Matri,1
+S. Missiroli,S. Sensi,1
+S. Sensi,S. Missiroli,1
+S. Missiroli,A. Matri,1
+F. Acerbi,S. Sensi,1
+M. Politano,F. Acerbi,1

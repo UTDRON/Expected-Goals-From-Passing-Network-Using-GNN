@@ -1,0 +1,79 @@
+Source,Target,Weight
+E. \u00c7olak,Guilherme,7
+Luisinho,One,6
+Juanfran,Edu Exp\u00f3sito,6
+Edu Exp\u00f3sito,Juanfran,6
+One,F. Sch\u00e4r,4
+Adri\u00e1n L\u00f3pez,Edu Exp\u00f3sito,4
+Guilherme,Luisinho,4
+F. Sch\u00e4r,One,4
+Guilherme,Edu Exp\u00f3sito,4
+Luisinho,Guilherme,4
+Guilherme,E. \u00c7olak,4
+Guilherme,Carles Gil,3
+Edu Exp\u00f3sito,F. Sch\u00e4r,3
+Carles Gil,Edu Exp\u00f3sito,3
+E. \u00c7olak,Adri\u00e1n L\u00f3pez,3
+Edu Exp\u00f3sito,Guilherme,3
+Adri\u00e1n L\u00f3pez,Lucas P\u00e9rez,3
+F. Sch\u00e4r,Edu Exp\u00f3sito,3
+Lucas P\u00e9rez,E. \u00c7olak,3
+Carles Gil,E. \u00c7olak,3
+Lucas P\u00e9rez,Edu Exp\u00f3sito,3
+Edu Exp\u00f3sito,Carles Gil,3
+Adri\u00e1n L\u00f3pez,Luisinho,2
+Edu Exp\u00f3sito,E. \u00c7olak,2
+F. Sch\u00e4r,Juanfran,2
+One,Rub\u00e9n,2
+Juanfran,Carles Gil,2
+Juanfran,F. Sch\u00e4r,2
+F. Sch\u00e4r,E. \u00c7olak,2
+One,Juanfran,2
+Edu Exp\u00f3sito,Lucas P\u00e9rez,2
+Edu Exp\u00f3sito,Adri\u00e1n L\u00f3pez,2
+F. Sch\u00e4r,Guilherme,2
+Guilherme,Juanfran,2
+Edu Exp\u00f3sito,Luisinho,2
+One,Guilherme,2
+Guilherme,F. Sch\u00e4r,2
+Edu Exp\u00f3sito,One,2
+E. \u00c7olak,F. Sch\u00e4r,1
+One,Luisinho,1
+Lucas P\u00e9rez,Adri\u00e1n L\u00f3pez,1
+Juanfran,Guilherme,1
+Rub\u00e9n,Edu Exp\u00f3sito,1
+Carles Gil,F. Sch\u00e4r,1
+Guilherme,Lucas P\u00e9rez,1
+E. \u00c7olak,Luisinho,1
+Luisinho,Adri\u00e1n L\u00f3pez,1
+Rub\u00e9n,F. Sch\u00e4r,1
+Luisinho,F. Sch\u00e4r,1
+Adri\u00e1n L\u00f3pez,Guilherme,1
+E. \u00c7olak,Carles Gil,1
+F. Sch\u00e4r,Lucas P\u00e9rez,1
+Carles Gil,Guilherme,1
+E. \u00c7olak,Juanfran,1
+Juanfran,Luisinho,1
+Lucas P\u00e9rez,F. Sch\u00e4r,1
+One,Adri\u00e1n L\u00f3pez,1
+F. Andone,Luisinho,1
+Guilherme,One,1
+Juanfran,Adri\u00e1n L\u00f3pez,1
+Luisinho,Lucas P\u00e9rez,1
+Luisinho,E. \u00c7olak,1
+F. Sch\u00e4r,Luisinho,1
+One,F. Andone,1
+Juanfran,Rub\u00e9n,1
+Carles Gil,Juanfran,1
+E. \u00c7olak,One,1
+One,Carles Gil,1
+F. Andone,Lucas P\u00e9rez,1
+Lucas P\u00e9rez,One,1
+Lucas P\u00e9rez,F. Andone,1
+One,Edu Exp\u00f3sito,1
+One,E. \u00c7olak,1
+Rub\u00e9n,Juanfran,1
+Carles Gil,Luisinho,1
+Juanfran,Lucas P\u00e9rez,1
+F. Sch\u00e4r,Adri\u00e1n L\u00f3pez,1
+E. \u00c7olak,Lucas P\u00e9rez,1

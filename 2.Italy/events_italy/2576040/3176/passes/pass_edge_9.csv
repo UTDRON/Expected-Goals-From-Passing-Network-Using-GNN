@@ -1,0 +1,24 @@
+Source,Target,Weight
+D. Astori,G. Pezzella,2
+K. Babacar,C. Biraghi,2
+V. Laurini,K. Babacar,2
+J. Veretout,C. Biraghi,2
+C. Biraghi,K. Babacar,1
+G. Pezzella,J. Veretout,1
+F. Chiesa,V. Laurini,1
+K. Babacar,D. Astori,1
+M. Badelj,C. Biraghi,1
+V. Laurini,M. Badelj,1
+C. Biraghi,D. Astori,1
+G. Pezzella,V. Laurini,1
+C. Biraghi,C. Th\u00e9r\u00e9au,1
+M. Badelj,J. Veretout,1
+C. Th\u00e9r\u00e9au,M. Badelj,1
+D. Astori,M. Badelj,1
+C. Biraghi,V. Laurini,1
+C. Th\u00e9r\u00e9au,D. Astori,1
+J. Veretout,G. Pezzella,1
+M. Badelj,F. Chiesa,1
+C. Biraghi,J. Veretout,1
+K. Babacar,F. Chiesa,1
+F. Chiesa,K. Babacar,1

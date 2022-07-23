@@ -1,0 +1,20 @@
+Source,Target,Weight
+J. Veretout,Gil Dias,3
+Gil Dias,J. Veretout,3
+G. Simeone,Gil Dias,2
+Gil Dias,D. Falcinelli,2
+Gil Dias,G. Simeone,2
+D. Falcinelli,Gil Dias,2
+J. Veretout,N. Milenkovi\u0107,2
+N. Milenkovi\u0107,Vitor Hugo,1
+Gil Dias,F. Chiesa,1
+Vitor Hugo,J. Veretout,1
+D. Falcinelli,Vitor Hugo,1
+V. Laurini,N. Milenkovi\u0107,1
+N. Milenkovi\u0107,Gil Dias,1
+N. Milenkovi\u0107,D. Falcinelli,1
+B. Dr\u0105gowski,Gil Dias,1
+G. Simeone,V. Laurini,1
+F. Chiesa,J. Veretout,1
+Vitor Hugo,G. Simeone,1
+Gil Dias,B. Dr\u0105gowski,1

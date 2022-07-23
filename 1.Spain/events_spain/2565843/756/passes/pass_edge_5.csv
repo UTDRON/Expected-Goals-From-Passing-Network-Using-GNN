@@ -1,0 +1,49 @@
+Source,Target,Weight
+Pablo Maffeo,\u00c1lex Granell,4
+Ramalho,Bernardo Espinosa,4
+Pere Pons,Ramalho,3
+Juanpe,Aday,3
+\u00c1lex Granell,Pablo Maffeo,3
+\u00c1lex Granell,Juanpe,2
+Pablo Maffeo,Ramalho,2
+Aday,\u00c1lex Granell,2
+Ramalho,Pablo Maffeo,2
+Bernardo Espinosa,Borja Garc\u00eda,2
+\u00c1lex Granell,Ramalho,2
+Pere Pons,Pablo Maffeo,2
+\u00c1lex Granell,Pere Pons,2
+Pablo Maffeo,Pere Pons,2
+Borja Garc\u00eda,Bernardo Espinosa,2
+Ramalho,Y. Bounou,2
+Bernardo Espinosa,Pere Pons,2
+Aday,Pere Pons,2
+C. Stuani,Ramalho,2
+C. Stuani,Aday,1
+Aday,Pablo Maffeo,1
+\u00c1lex Granell,Borja Garc\u00eda,1
+Pablo Maffeo,Portu,1
+Ramalho,Juanpe,1
+Pere Pons,\u00c1lex Granell,1
+Juanpe,Pere Pons,1
+Portu,\u00c1lex Granell,1
+Borja Garc\u00eda,C. Stuani,1
+Portu,C. Stuani,1
+Pablo Maffeo,Y. Bounou,1
+C. Stuani,Juanpe,1
+Y. Bounou,Pablo Maffeo,1
+Y. Bounou,Aday,1
+\u00c1lex Granell,Portu,1
+Y. Bounou,Bernardo Espinosa,1
+Bernardo Espinosa,Ramalho,1
+Borja Garc\u00eda,Portu,1
+Ramalho,\u00c1lex Granell,1
+Juanpe,Bernardo Espinosa,1
+Pere Pons,Borja Garc\u00eda,1
+Portu,Pablo Maffeo,1
+Pere Pons,Y. Bounou,1
+Pere Pons,Bernardo Espinosa,1
+Y. Bounou,C. Stuani,1
+Bernardo Espinosa,\u00c1lex Granell,1
+Pablo Maffeo,C. Stuani,1
+Bernardo Espinosa,Juanpe,1
+Bernardo Espinosa,Pablo Maffeo,1

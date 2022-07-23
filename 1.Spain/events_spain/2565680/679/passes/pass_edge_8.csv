@@ -1,0 +1,24 @@
+Source,Target,Weight
+Gabi,Thomas,2
+Gabi,D. God\u00edn,1
+A. Griezmann,Gabi,1
+Koke,K. Gameiro,1
+Filipe Luis,Koke,1
+A. Griezmann,Koke,1
+\u00c1. Correa,Gabi,1
+Sa\u00fal,A. Griezmann,1
+D. God\u00edn,A. Griezmann,1
+Koke,Sa\u00fal,1
+Thomas,D. God\u00edn,1
+Thomas,Gabi,1
+D. God\u00edn,Gabi,1
+K. Gameiro,Gabi,1
+Sa\u00fal,K. Gameiro,1
+Gabi,\u00c1. Correa,1
+Filipe Luis,\u00c1. Correa,1
+Gabi,Sa\u00fal,1
+\u00c1. Correa,Filipe Luis,1
+K. Gameiro,A. Griezmann,1
+\u00c1. Correa,Thomas,1
+Sa\u00fal,Filipe Luis,1
+Thomas,Sa\u00fal,1

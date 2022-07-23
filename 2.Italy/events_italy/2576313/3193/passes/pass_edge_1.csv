@@ -1,0 +1,66 @@
+Source,Target,Weight
+Miguel Veloso,J. El Yamiq,5
+D. Biraschi,Miguel Veloso,4
+A. Bertolacci,Iuri Medeiros,4
+J. El Yamiq,N. Spolli,3
+D. Lazovi\u0107,Miguel Veloso,3
+D. Lazovi\u0107,A. Bertolacci,3
+A. Rosi,O. Hiljemark,3
+Iuri Medeiros,D. Lazovi\u0107,3
+Miguel Veloso,A. Bertolacci,3
+M. Perin,Miguel Veloso,3
+Iuri Medeiros,O. Hiljemark,2
+J. El Yamiq,D. Biraschi,2
+N. Spolli,O. Hiljemark,2
+Iuri Medeiros,D. Biraschi,2
+O. Hiljemark,N. Spolli,2
+O. Hiljemark,Iuri Medeiros,2
+Miguel Veloso,Iuri Medeiros,2
+O. Hiljemark,J. El Yamiq,2
+A. Bertolacci,Miguel Veloso,2
+A. Rosi,D. Lazovi\u0107,2
+M. Perin,A. Rosi,2
+D. Biraschi,A. Rosi,2
+O. Hiljemark,D. Biraschi,2
+N. Spolli,M. Perin,2
+Miguel Veloso,M. Perin,2
+O. Hiljemark,G. Rossi,2
+D. Lazovi\u0107,Iuri Medeiros,2
+Miguel Veloso,O. Hiljemark,2
+N. Spolli,D. Biraschi,2
+J. El Yamiq,M. Perin,1
+A. Rosi,Miguel Veloso,1
+J. El Yamiq,A. Rosi,1
+D. Biraschi,Iuri Medeiros,1
+N. Spolli,A. Bertolacci,1
+M. Perin,D. Biraschi,1
+J. El Yamiq,A. Bertolacci,1
+Iuri Medeiros,A. Bertolacci,1
+A. Bertolacci,O. Hiljemark,1
+N. Spolli,Miguel Veloso,1
+D. Biraschi,O. Hiljemark,1
+A. Bertolacci,N. Spolli,1
+J. El Yamiq,O. Hiljemark,1
+Iuri Medeiros,A. Rosi,1
+O. Hiljemark,M. Perin,1
+G. Rossi,D. Lazovi\u0107,1
+G. Rossi,M. Perin,1
+G. Rossi,J. El Yamiq,1
+Iuri Medeiros,G. Rossi,1
+O. Hiljemark,Miguel Veloso,1
+N. Spolli,Iuri Medeiros,1
+M. Perin,N. Spolli,1
+A. Rosi,G. Rossi,1
+G. Rossi,N. Spolli,1
+M. Perin,G. Rossi,1
+D. Lazovi\u0107,N. Spolli,1
+Miguel Veloso,A. Rosi,1
+Iuri Medeiros,J. El Yamiq,1
+A. Bertolacci,M. Perin,1
+G. Rossi,Miguel Veloso,1
+N. Spolli,J. El Yamiq,1
+D. Biraschi,A. Bertolacci,1
+J. El Yamiq,D. Lazovi\u0107,1
+Iuri Medeiros,N. Spolli,1
+Miguel Veloso,D. Lazovi\u0107,1
+A. Bertolacci,D. Lazovi\u0107,1

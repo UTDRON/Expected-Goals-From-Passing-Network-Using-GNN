@@ -1,0 +1,62 @@
+Source,Target,Weight
+Koke,Gabi,6
+Sa\u00fal,L. Hern\u00e1ndez,5
+Gabi,Koke,5
+Gabi,D. God\u00edn,4
+D. God\u00edn,Gabi,4
+L. Hern\u00e1ndez,Koke,3
+Filipe Luis,Sa\u00fal,3
+Juanfran,Koke,3
+D. God\u00edn,Koke,3
+D. God\u00edn,J. Oblak,3
+Filipe Luis,Y. Carrasco,3
+Koke,Juanfran,3
+L. Hern\u00e1ndez,D. God\u00edn,3
+L. Hern\u00e1ndez,Filipe Luis,3
+Y. Carrasco,Filipe Luis,3
+Filipe Luis,Koke,2
+Gabi,Filipe Luis,2
+Koke,D. God\u00edn,2
+Y. Carrasco,L. Hern\u00e1ndez,2
+Gabi,Y. Carrasco,2
+A. Griezmann,Gabi,2
+Sa\u00fal,Koke,2
+Gabi,Juanfran,2
+Fernando Torres,Y. Carrasco,2
+L. Hern\u00e1ndez,Sa\u00fal,2
+Koke,Sa\u00fal,2
+Filipe Luis,Gabi,2
+Gabi,L. Hern\u00e1ndez,2
+Koke,A. Griezmann,2
+Y. Carrasco,D. God\u00edn,2
+Juanfran,Gabi,2
+Koke,J. Oblak,2
+Sa\u00fal,Filipe Luis,2
+Filipe Luis,L. Hern\u00e1ndez,2
+J. Oblak,Fernando Torres,1
+J. Oblak,Filipe Luis,1
+J. Oblak,D. God\u00edn,1
+L. Hern\u00e1ndez,Y. Carrasco,1
+Filipe Luis,Fernando Torres,1
+A. Griezmann,Juanfran,1
+Juanfran,Filipe Luis,1
+Koke,Filipe Luis,1
+A. Griezmann,Y. Carrasco,1
+D. God\u00edn,L. Hern\u00e1ndez,1
+Fernando Torres,L. Hern\u00e1ndez,1
+Y. Carrasco,Koke,1
+L. Hern\u00e1ndez,A. Griezmann,1
+Gabi,A. Griezmann,1
+Y. Carrasco,Gabi,1
+A. Griezmann,D. God\u00edn,1
+Y. Carrasco,Fernando Torres,1
+A. Griezmann,Fernando Torres,1
+Fernando Torres,Sa\u00fal,1
+J. Oblak,A. Griezmann,1
+Y. Carrasco,A. Griezmann,1
+L. Hern\u00e1ndez,Gabi,1
+Koke,L. Hern\u00e1ndez,1
+D. God\u00edn,Sa\u00fal,1
+D. God\u00edn,Fernando Torres,1
+Koke,Y. Carrasco,1
+J. Oblak,Y. Carrasco,1

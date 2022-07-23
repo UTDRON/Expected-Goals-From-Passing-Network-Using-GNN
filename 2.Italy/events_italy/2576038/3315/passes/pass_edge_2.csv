@@ -1,0 +1,18 @@
+Source,Target,Weight
+F. Peluso,M. Politano,3
+M. Politano,F. Peluso,2
+F. Magnanelli,F. Peluso,2
+P. Cannavaro,F. Magnanelli,2
+M. Gazzola,D. Berardi,1
+M. Gazzola,A. Consigli,1
+P. Cannavaro,M. Gazzola,1
+F. Magnanelli,P. Cannavaro,1
+A. Matri,F. Peluso,1
+D. Berardi,P. Cannavaro,1
+F. Peluso,D. Berardi,1
+A. Consigli,F. Peluso,1
+M. Politano,M. Gazzola,1
+F. Peluso,A. Duncan,1
+S. Missiroli,P. Cannavaro,1
+A. Duncan,F. Magnanelli,1
+F. Peluso,A. Matri,1

@@ -1,0 +1,29 @@
+Source,Target,Weight
+Campa\u00f1a,To\u00f1o,2
+Oier,Jason,2
+Chema,Campa\u00f1a,2
+To\u00f1o,Chema,2
+Ivi,Chema,1
+Jason,Sergio Postigo,1
+Campa\u00f1a,Jason,1
+Ivi,To\u00f1o,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+E. Bardhi,To\u00f1o,1
+Ivi,Sergio Postigo,1
+Chema,Oier,1
+Chema,E. Bardhi,1
+To\u00f1o,E. Bardhi,1
+Sergio Postigo,E. Boateng,1
+E. Boateng,Jason,1
+Jason,Campa\u00f1a,1
+Campa\u00f1a,Chema,1
+Jason,Ivi,1
+Jason,E. \u00dcnal,1
+Sergio Postigo,Campa\u00f1a,1
+To\u00f1o,Campa\u00f1a,1
+E. \u00dcnal,E. Boateng,1
+Jason,Oier,1
+Jos\u00e9 Luis Morales,Jason,1
+E. Boateng,Ivi,1
+Campa\u00f1a,Ivi,1
+E. Bardhi,Campa\u00f1a,1

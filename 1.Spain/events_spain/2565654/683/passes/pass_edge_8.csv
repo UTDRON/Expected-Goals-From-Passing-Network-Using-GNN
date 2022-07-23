@@ -1,0 +1,13 @@
+Source,Target,Weight
+Keko,R. Rosales,3
+Adri\u00e1n,Juankar,2
+R. Rosales,A. Pe\u00f1aranda,2
+R. Rosales,Keko,2
+A. Pe\u00f1aranda,Adri\u00e1n,1
+Juankar,Keko,1
+Recio,Adri\u00e1n,1
+Recio,Keko,1
+Chory Castro,Juankar,1
+A. Pe\u00f1aranda,R. Rosales,1
+Keko,Recio,1
+Juankar,Chory Castro,1

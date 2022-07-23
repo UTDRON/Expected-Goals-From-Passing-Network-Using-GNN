@@ -1,0 +1,43 @@
+Source,Target,Weight
+M. de Roon,T. Castagne,4
+R. Freuler,J. Palomino,3
+T. Castagne,A. Masiello,3
+R. Freuler,A. Cornelius,2
+A. Masiello,L. Spinazzola,2
+J. Palomino,A. Petagna,2
+J. Ili\u010di\u0107,R. Freuler,2
+A. Cornelius,J. Ili\u010di\u0107,2
+M. Caldara,M. de Roon,2
+T. Castagne,J. Ili\u010di\u0107,1
+L. Spinazzola,A. Petagna,1
+M. de Roon,A. Petagna,1
+J. Palomino,R. Freuler,1
+A. Cornelius,A. Masiello,1
+R. Freuler,L. Spinazzola,1
+L. Spinazzola,M. Caldara,1
+A. Cornelius,M. de Roon,1
+M. de Roon,A. Masiello,1
+A. Masiello,M. Caldara,1
+L. Spinazzola,R. Freuler,1
+A. Masiello,A. Cornelius,1
+J. Palomino,L. Spinazzola,1
+J. Ili\u010di\u0107,A. Petagna,1
+A. Petagna,A. Cornelius,1
+A. Petagna,J. Ili\u010di\u0107,1
+A. Petagna,M. de Roon,1
+L. Spinazzola,M. de Roon,1
+J. Ili\u010di\u0107,A. Cornelius,1
+R. Freuler,A. Masiello,1
+J. Palomino,M. Caldara,1
+M. de Roon,J. Ili\u010di\u0107,1
+A. Petagna,R. Freuler,1
+J. Ili\u010di\u0107,M. de Roon,1
+M. Caldara,R. Freuler,1
+A. Masiello,M. de Roon,1
+T. Castagne,R. Freuler,1
+L. Spinazzola,J. Palomino,1
+M. de Roon,L. Spinazzola,1
+T. Castagne,M. Caldara,1
+M. Caldara,J. Palomino,1
+A. Petagna,T. Castagne,1
+A. Masiello,T. Castagne,1

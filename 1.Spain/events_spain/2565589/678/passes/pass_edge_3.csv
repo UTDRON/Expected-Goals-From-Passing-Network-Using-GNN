@@ -1,0 +1,34 @@
+Source,Target,Weight
+Balenziaga,A. Laporte,3
+Unai N\u00fa\u00f1ez,Lekue,3
+Lekue,San Jos\u00e9,3
+Muniain,Unai N\u00fa\u00f1ez,2
+Balenziaga,Iturraspe,2
+Iturraspe,Muniain,2
+Susaeta,Lekue,2
+Lekue,Unai N\u00fa\u00f1ez,2
+San Jos\u00e9,Lekue,2
+Susaeta,Balenziaga,2
+Unai N\u00fa\u00f1ez,Aduriz,2
+Aduriz,Susaeta,1
+Iturraspe,Aduriz,1
+Aduriz,Balenziaga,1
+Balenziaga,San Jos\u00e9,1
+Lekue,Balenziaga,1
+Arrizabalaga,Muniain,1
+Muniain,Balenziaga,1
+Ra\u00fal Garc\u00eda,Susaeta,1
+Lekue,A. Laporte,1
+Unai N\u00fa\u00f1ez,Iturraspe,1
+A. Laporte,Arrizabalaga,1
+A. Laporte,Balenziaga,1
+Lekue,Susaeta,1
+San Jos\u00e9,Iturraspe,1
+Muniain,Ra\u00fal Garc\u00eda,1
+Iturraspe,Lekue,1
+A. Laporte,Iturraspe,1
+Balenziaga,Muniain,1
+Iturraspe,A. Laporte,1
+A. Laporte,Susaeta,1
+A. Laporte,Unai N\u00fa\u00f1ez,1
+San Jos\u00e9,Unai N\u00fa\u00f1ez,1

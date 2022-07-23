@@ -1,0 +1,37 @@
+Source,Target,Weight
+Sergio Rico,L. Muriel,4
+Sergio Escudero,S. N'Zonzi,3
+C. Lenglet,Sergio Rico,2
+L. Muriel,Sergio Escudero,2
+L. Muriel,\u00c9. Banega,2
+J. Correa,\u00c9. Banega,2
+S. N'Zonzi,C. Lenglet,2
+S. N'Zonzi,J. Correa,2
+\u00c9. Banega,S. N'Zonzi,2
+Nolito,J. Correa,1
+G. Mercado,Pablo Sarabia,1
+G. Pizarro,S. N'Zonzi,1
+\u00c9. Banega,G. Mercado,1
+Jes\u00fas Navas,G. Pizarro,1
+L. Muriel,G. Mercado,1
+S. N'Zonzi,L. Muriel,1
+G. Mercado,Sergio Escudero,1
+C. Lenglet,Sergio Escudero,1
+Sergio Escudero,Sergio Rico,1
+Jes\u00fas Navas,L. Muriel,1
+G. Pizarro,C. Lenglet,1
+Pablo Sarabia,Jes\u00fas Navas,1
+\u00c9. Banega,G. Pizarro,1
+L. Muriel,S. N'Zonzi,1
+S. N'Zonzi,G. Pizarro,1
+\u00c9. Banega,Nolito,1
+Sergio Escudero,J. Correa,1
+G. Pizarro,Sergio Escudero,1
+G. Pizarro,\u00c9. Banega,1
+S. N'Zonzi,\u00c9. Banega,1
+\u00c9. Banega,Sergio Rico,1
+G. Mercado,\u00c9. Banega,1
+J. Correa,S. N'Zonzi,1
+S. N'Zonzi,Sergio Escudero,1
+J. Correa,Jes\u00fas Navas,1
+Sergio Escudero,G. Pizarro,1

@@ -1,0 +1,88 @@
+Source,Target,Weight
+Pablo Fornals,Rodri,7
+Trigueros,Pablo Fornals,6
+Rodri,Trigueros,6
+C. Bakambu,Jaume Costa,5
+Jaume Costa,Pablo Fornals,5
+Rodri,Jaume Costa,4
+Pablo Fornals,Jaume Costa,4
+A. N'Diaye,Andr\u00e9s Fern\u00e1ndez,4
+Rodri,Pablo Fornals,4
+C. Bacca,\u00c1lvaro Gonz\u00e1lez,4
+\u00c1lvaro Gonz\u00e1lez,C. Bakambu,4
+A. N'Diaye,Trigueros,4
+Jaume Costa,Samu Castillejo,4
+Samu Castillejo,Jaume Costa,4
+Trigueros,C. Bakambu,3
+Jaume Costa,A. N'Diaye,3
+Samu Castillejo,Rodri,3
+A. N'Diaye,Rodri,3
+\u00c1lvaro Gonz\u00e1lez,Rodri,3
+Trigueros,\u00c1lvaro Gonz\u00e1lez,3
+Pablo Fornals,\u00c1lvaro Gonz\u00e1lez,3
+C. Bakambu,Samu Castillejo,3
+Pablo Fornals,Samu Castillejo,3
+Trigueros,Samu Castillejo,3
+\u00c1lvaro Gonz\u00e1lez,Trigueros,3
+Samu Castillejo,C. Bakambu,3
+Rodri,A. N'Diaye,3
+C. Bakambu,Trigueros,3
+R\u00faben Semedo,Rodri,3
+Rodri,C. Bacca,2
+Trigueros,M. Barbosa,2
+Trigueros,A. N'Diaye,2
+Jaume Costa,Rodri,2
+Pablo Fornals,Trigueros,2
+R\u00faben Semedo,\u00c1lvaro Gonz\u00e1lez,2
+\u00c1lvaro Gonz\u00e1lez,Samu Castillejo,2
+C. Bakambu,\u00c1lvaro Gonz\u00e1lez,2
+Samu Castillejo,C. Bacca,2
+\u00c1lvaro Gonz\u00e1lez,Pablo Fornals,2
+Jaume Costa,R\u00faben Semedo,2
+M. Barbosa,Pablo Fornals,2
+R\u00faben Semedo,A. N'Diaye,2
+Andr\u00e9s Fern\u00e1ndez,A. N'Diaye,2
+\u00c1lvaro Gonz\u00e1lez,R\u00faben Semedo,2
+Rodri,C. Bakambu,2
+C. Bacca,C. Bakambu,2
+C. Bakambu,Rodri,2
+Pablo Fornals,C. Bakambu,2
+M. Barbosa,R\u00faben Semedo,1
+Jaume Costa,C. Bakambu,1
+Rodri,R\u00faben Semedo,1
+R\u00faben Semedo,M. Barbosa,1
+Samu Castillejo,Trigueros,1
+A. N'Diaye,R\u00faben Semedo,1
+R\u00faben Semedo,Pablo Fornals,1
+Jaume Costa,Andr\u00e9s Fern\u00e1ndez,1
+R\u00faben Semedo,Jaume Costa,1
+\u00c1lvaro Gonz\u00e1lez,Jaume Costa,1
+Samu Castillejo,A. N'Diaye,1
+C. Bakambu,R\u00faben Semedo,1
+Pablo Fornals,A. N'Diaye,1
+A. N'Diaye,Jaume Costa,1
+Andr\u00e9s Fern\u00e1ndez,R\u00faben Semedo,1
+C. Bacca,Rodri,1
+C. Bacca,Samu Castillejo,1
+Samu Castillejo,R\u00faben Semedo,1
+Jaume Costa,\u00c1lvaro Gonz\u00e1lez,1
+Rodri,Samu Castillejo,1
+Jaume Costa,Trigueros,1
+Samu Castillejo,Pablo Fornals,1
+Andr\u00e9s Fern\u00e1ndez,C. Bakambu,1
+Rodri,M. Barbosa,1
+C. Bakambu,C. Bacca,1
+Pablo Fornals,C. Bacca,1
+R\u00faben Semedo,Andr\u00e9s Fern\u00e1ndez,1
+Rodri,\u00c1lvaro Gonz\u00e1lez,1
+C. Bacca,Jaume Costa,1
+Trigueros,R\u00faben Semedo,1
+C. Bakambu,A. N'Diaye,1
+Andr\u00e9s Fern\u00e1ndez,\u00c1lvaro Gonz\u00e1lez,1
+M. Barbosa,C. Bakambu,1
+Samu Castillejo,\u00c1lvaro Gonz\u00e1lez,1
+A. N'Diaye,Pablo Fornals,1
+Andr\u00e9s Fern\u00e1ndez,Pablo Fornals,1
+A. N'Diaye,C. Bacca,1
+\u00c1lvaro Gonz\u00e1lez,C. Bacca,1
+Jaume Costa,C. Bacca,1

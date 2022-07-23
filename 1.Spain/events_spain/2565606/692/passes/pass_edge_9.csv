@@ -1,0 +1,63 @@
+Source,Target,Weight
+S. Lobotka,Jonny,5
+Jonny,S. Lobotka,5
+Font\u00e0s,Jonny,4
+S. Lobotka,Jozabed,4
+P. Sisto,S. Lobotka,3
+P. Sisto,Jozabed,3
+Rub\u00e9n Blanco,S. Lobotka,3
+J. Guidetti,P. Sisto,3
+S. Lobotka,Iago Aspas,3
+Jozabed,P. Sisto,3
+Jonny,Jozabed,3
+Sergi G\u00f3mez,Rub\u00e9n Blanco,3
+Jozabed,Iago Aspas,3
+Hugo Mallo,Iago Aspas,3
+Hugo Mallo,D. Wass,2
+P. Sisto,Jonny,2
+S. Lobotka,Sergi G\u00f3mez,2
+Jozabed,Font\u00e0s,2
+Font\u00e0s,Hugo Mallo,2
+Iago Aspas,S. Lobotka,2
+Iago Aspas,J. Guidetti,2
+Iago Aspas,Jozabed,2
+Jozabed,D. Wass,2
+D. Wass,Hugo Mallo,2
+Hugo Mallo,Sergi G\u00f3mez,2
+Font\u00e0s,Rub\u00e9n Blanco,2
+J. Guidetti,Jozabed,2
+Sergi G\u00f3mez,Font\u00e0s,2
+Jonny,Font\u00e0s,2
+Jozabed,Hugo Mallo,2
+S. Lobotka,Font\u00e0s,2
+Iago Aspas,Hugo Mallo,2
+Iago Aspas,P. Sisto,2
+Sergi G\u00f3mez,Iago Aspas,1
+P. Sisto,D. Wass,1
+Rub\u00e9n Blanco,Sergi G\u00f3mez,1
+P. Sisto,Iago Aspas,1
+Font\u00e0s,D. Wass,1
+Font\u00e0s,Sergi G\u00f3mez,1
+Hugo Mallo,S. Lobotka,1
+Iago Aspas,Sergi G\u00f3mez,1
+Sergi G\u00f3mez,S. Lobotka,1
+Sergi G\u00f3mez,J. Guidetti,1
+D. Wass,S. Lobotka,1
+Hugo Mallo,Font\u00e0s,1
+Rub\u00e9n Blanco,Jonny,1
+Jozabed,J. Guidetti,1
+D. Wass,Font\u00e0s,1
+Rub\u00e9n Blanco,J. Guidetti,1
+Jonny,J. Guidetti,1
+D. Wass,P. Sisto,1
+D. Wass,Jozabed,1
+Jozabed,Rub\u00e9n Blanco,1
+Iago Aspas,Font\u00e0s,1
+Font\u00e0s,Jozabed,1
+Jozabed,S. Lobotka,1
+Jonny,P. Sisto,1
+S. Lobotka,P. Sisto,1
+J. Guidetti,Hugo Mallo,1
+D. Wass,Sergi G\u00f3mez,1
+Jonny,D. Wass,1
+Jozabed,Jonny,1

@@ -1,0 +1,29 @@
+Source,Target,Weight
+E. Pulgar,F. Helander,3
+V. Torosidis,S. Ta\u00efder,2
+S. Verdi,E. Pulgar,2
+V. Torosidis,G. Donsah,2
+G. Donsah,V. Torosidis,2
+V. Torosidis,S. Verdi,2
+F. Di Francesco,E. Pulgar,2
+S. Ta\u00efder,V. Torosidis,2
+G. Gonz\u00e1lez,V. Torosidis,1
+A. Mirante,V. Torosidis,1
+G. Donsah,E. Pulgar,1
+S. Verdi,G. Donsah,1
+S. Verdi,V. Torosidis,1
+G. Donsah,S. Verdi,1
+V. Torosidis,E. Pulgar,1
+A. Mirante,S. Ta\u00efder,1
+F. Helander,F. Di Francesco,1
+E. Pulgar,G. Gonz\u00e1lez,1
+G. Gonz\u00e1lez,G. Donsah,1
+S. Ta\u00efder,G. Gonz\u00e1lez,1
+R. Palacio,S. Ta\u00efder,1
+F. Helander,G. Gonz\u00e1lez,1
+G. Gonz\u00e1lez,F. Di Francesco,1
+E. Pulgar,S. Verdi,1
+S. Ta\u00efder,R. Palacio,1
+F. Di Francesco,S. Ta\u00efder,1
+S. Ta\u00efder,F. Di Francesco,1
+F. Helander,A. Mirante,1

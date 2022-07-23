@@ -1,0 +1,14 @@
+Source,Target,Weight
+Portu,Pablo Maffeo,2
+Pablo Maffeo,Portu,2
+Aday,O. Kayode,1
+Ramalho,C. Stuani,1
+C. Stuani,Pablo Maffeo,1
+Portu,Aday,1
+Borja Garc\u00eda,Portu,1
+O. Kayode,Aday,1
+Aday,Borja Garc\u00eda,1
+Pablo Maffeo,Juanpe,1
+Pablo Maffeo,Aday,1
+Juanpe,Aday,1
+Aday,Pablo Maffeo,1

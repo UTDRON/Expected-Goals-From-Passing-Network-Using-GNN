@@ -1,0 +1,42 @@
+Source,Target,Weight
+L. Cabrera,M. Olivera,5
+M. Olivera,\u00c1ngel,4
+L. Cabrera,\u00c1ngel,3
+Bruno,L. Cabrera,3
+M. Flamini,Bruno,2
+\u00c1ngel,L. Cabrera,2
+F. Fajr,Djen\u00e9,2
+\u00c1ngel,Guaita,2
+D. Su\u00e1rez,M. Flamini,2
+L. Cabrera,Sergio Mora,2
+A. Ndiaye,L. Cabrera,2
+M. Olivera,Bruno,2
+M. Olivera,L. Cabrera,2
+\u00c1ngel,D. Su\u00e1rez,2
+Djen\u00e9,D. Su\u00e1rez,1
+Djen\u00e9,M. Olivera,1
+M. Flamini,F. Fajr,1
+A. Ndiaye,\u00c1ngel,1
+Djen\u00e9,Guaita,1
+D. Su\u00e1rez,M. Olivera,1
+M. Olivera,A. Ndiaye,1
+Djen\u00e9,F. Fajr,1
+Sergio Mora,Djen\u00e9,1
+M. Olivera,Guaita,1
+Guaita,D. Su\u00e1rez,1
+Guaita,Djen\u00e9,1
+\u00c1ngel,M. Olivera,1
+Sergio Mora,A. Ndiaye,1
+Sergio Mora,M. Olivera,1
+Guaita,M. Olivera,1
+Bruno,D. Su\u00e1rez,1
+\u00c1ngel,F. Fajr,1
+M. Flamini,L. Cabrera,1
+A. Ndiaye,Bruno,1
+Guaita,Sergio Mora,1
+Bruno,Guaita,1
+Bruno,A. Ndiaye,1
+F. Fajr,M. Flamini,1
+D. Su\u00e1rez,\u00c1ngel,1
+Guaita,A. Ndiaye,1
+D. Su\u00e1rez,Bruno,1

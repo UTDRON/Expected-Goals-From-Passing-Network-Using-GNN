@@ -1,0 +1,32 @@
+Source,Target,Weight
+E. Mart\u00ednez,Jorge Molina,3
+Juan Cala,Antunes,2
+M. Arambarri,Bruno,2
+Portillo,Jorge Molina,2
+Jorge Molina,G. Shibasaki,2
+Jorge Molina,Portillo,2
+Antunes,Jorge Molina,1
+D. Su\u00e1rez,M. Arambarri,1
+M. Arambarri,Portillo,1
+F. Fajr,Juan Cala,1
+A. Ndiaye,E. Mart\u00ednez,1
+D. Su\u00e1rez,G. Shibasaki,1
+Jorge Molina,M. Arambarri,1
+Jorge Molina,F. Fajr,1
+G. Shibasaki,Juan Cala,1
+G. Shibasaki,Antunes,1
+Antunes,M. Arambarri,1
+Juan Cala,Bruno,1
+E. Mart\u00ednez,D. Su\u00e1rez,1
+Bruno,Juan Cala,1
+F. Fajr,Jorge Molina,1
+G. Shibasaki,D. Su\u00e1rez,1
+F. Fajr,G. Shibasaki,1
+Bruno,E. Mart\u00ednez,1
+Juan Cala,E. Mart\u00ednez,1
+Antunes,Juan Cala,1
+Bruno,F. Fajr,1
+Portillo,E. Mart\u00ednez,1
+Jorge Molina,Juan Cala,1
+G. Shibasaki,F. Fajr,1
+Juan Cala,G. Shibasaki,1

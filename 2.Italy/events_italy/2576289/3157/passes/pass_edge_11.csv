@@ -1,0 +1,42 @@
+Source,Target,Weight
+F. Kessi\u00e9,Suso,4
+C. Zapata,D. Calabria,4
+L. Bonucci,P. Cutrone,2
+L. Bonucci,R. Rodr\u00edguez,2
+L. Biglia,C. Zapata,2
+L. Biglia,F. Borini,2
+F. Borini,G. Bonaventura,2
+D. Calabria,L. Biglia,2
+D. Calabria,F. Kessi\u00e9,2
+R. Rodr\u00edguez,L. Bonucci,2
+Suso,F. Kessi\u00e9,2
+F. Borini,D. Calabria,2
+D. Calabria,C. Zapata,2
+Suso,Andr\u00e9 Silva,2
+L. Bonucci,C. Zapata,2
+L. Bonucci,L. Biglia,2
+C. Zapata,L. Bonucci,2
+L. Biglia,L. Bonucci,2
+P. Cutrone,R. Rodr\u00edguez,2
+R. Rodr\u00edguez,C. Zapata,1
+P. Cutrone,D. Calabria,1
+D. Calabria,R. Rodr\u00edguez,1
+G. Bonaventura,R. Rodr\u00edguez,1
+C. Zapata,F. Borini,1
+C. Zapata,L. Biglia,1
+R. Rodr\u00edguez,G. Donnarumma,1
+L. Biglia,F. Kessi\u00e9,1
+R. Rodr\u00edguez,L. Biglia,1
+D. Calabria,Suso,1
+F. Kessi\u00e9,C. Zapata,1
+R. Rodr\u00edguez,D. Calabria,1
+G. Bonaventura,L. Biglia,1
+R. Rodr\u00edguez,P. Cutrone,1
+C. Zapata,F. Kessi\u00e9,1
+D. Calabria,L. Bonucci,1
+G. Donnarumma,L. Bonucci,1
+Andr\u00e9 Silva,L. Bonucci,1
+F. Kessi\u00e9,F. Borini,1
+L. Bonucci,G. Donnarumma,1
+Andr\u00e9 Silva,D. Calabria,1
+G. Donnarumma,R. Rodr\u00edguez,1

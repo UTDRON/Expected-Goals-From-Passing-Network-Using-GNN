@@ -1,0 +1,23 @@
+Source,Target,Weight
+A. Kolarov,K. Strootman,2
+K. Strootman,A. Kolarov,2
+Juan Jesus,M. Gonalons,2
+M. Gonalons,Juan Jesus,1
+L. Pellegrini,C. \u00dcnder,1
+K. Manolas,Alisson,1
+A. Florenzi,L. Pellegrini,1
+M. Gonalons,L. Pellegrini,1
+K. Strootman,M. Gonalons,1
+L. Pellegrini,A. Florenzi,1
+Alisson,Juan Jesus,1
+Juan Jesus,A. Kolarov,1
+C. \u00dcnder,L. Pellegrini,1
+C. \u00dcnder,Juan Jesus,1
+A. Kolarov,C. \u00dcnder,1
+M. Gonalons,C. \u00dcnder,1
+Juan Jesus,K. Strootman,1
+K. Strootman,Juan Jesus,1
+A. Kolarov,Juan Jesus,1
+L. Pellegrini,M. Gonalons,1
+Juan Jesus,K. Manolas,1
+M. Gonalons,K. Strootman,1

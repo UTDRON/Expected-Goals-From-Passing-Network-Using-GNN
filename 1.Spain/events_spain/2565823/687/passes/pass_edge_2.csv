@@ -1,0 +1,67 @@
+Source,Target,Weight
+Diego Llorente,H. Moreno,6
+H. Moreno,Diego Llorente,5
+Illarramendi,Zubeld\u00eda,4
+H. Moreno,Moy\u00e0,4
+Odriozola,Mikel Oyarzabal,4
+De La Bella,H. Moreno,4
+Diego Llorente,Odriozola,4
+Diego Llorente,Zubeld\u00eda,3
+Illarramendi,Diego Llorente,3
+Zubeld\u00eda,Diego Llorente,3
+Canales,Diego Llorente,3
+Canales,Zubeld\u00eda,3
+Zubeld\u00eda,Odriozola,3
+H. Moreno,De La Bella,3
+Moy\u00e0,Odriozola,3
+Illarramendi,Moy\u00e0,3
+Moy\u00e0,Illarramendi,3
+Diego Llorente,Moy\u00e0,3
+Odriozola,Canales,3
+Moy\u00e0,Diego Llorente,3
+Diego Llorente,Canales,3
+H. Moreno,Illarramendi,2
+Odriozola,Moy\u00e0,2
+Moy\u00e0,H. Moreno,2
+De La Bella,Willian Jos\u00e9,2
+Odriozola,Diego Llorente,2
+Moy\u00e0,De La Bella,2
+Zubeld\u00eda,Illarramendi,2
+H. Moreno,Canales,2
+Canales,De La Bella,2
+Zubeld\u00eda,De La Bella,2
+De La Bella,Illarramendi,2
+Canales,Illarramendi,2
+Zubeld\u00eda,Mikel Oyarzabal,2
+Moy\u00e0,Willian Jos\u00e9,2
+Zubeld\u00eda,Canales,2
+Mikel Oyarzabal,Moy\u00e0,2
+Willian Jos\u00e9,H. Moreno,2
+Diego Llorente,Illarramendi,2
+Mikel Oyarzabal,Odriozola,2
+Illarramendi,De La Bella,2
+Odriozola,Zubeld\u00eda,2
+Willian Jos\u00e9,Diego Llorente,2
+Zubeld\u00eda,H. Moreno,1
+De La Bella,Diego Llorente,1
+Willian Jos\u00e9,Zubeld\u00eda,1
+Illarramendi,H. Moreno,1
+Willian Jos\u00e9,Odriozola,1
+Mikel Oyarzabal,Zubeld\u00eda,1
+Odriozola,Illarramendi,1
+Diego Llorente,Mikel Oyarzabal,1
+Illarramendi,Canales,1
+Zubeld\u00eda,Willian Jos\u00e9,1
+Canales,Odriozola,1
+Zubeld\u00eda,Moy\u00e0,1
+Diego Llorente,Willian Jos\u00e9,1
+De La Bella,Zubeld\u00eda,1
+Mikel Oyarzabal,Diego Llorente,1
+Canales,Willian Jos\u00e9,1
+Juanmi,Illarramendi,1
+Moy\u00e0,Zubeld\u00eda,1
+Mikel Oyarzabal,Canales,1
+De La Bella,Juanmi,1
+Willian Jos\u00e9,Juanmi,1
+De La Bella,Moy\u00e0,1
+Juanmi,De La Bella,1

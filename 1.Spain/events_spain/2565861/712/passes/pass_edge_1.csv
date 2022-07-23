@@ -1,0 +1,22 @@
+Source,Target,Weight
+Omar Ramos,Bustinza,2
+Diego Rico,Omar Ramos,2
+Rub\u00e9n P\u00e9rez,Zald\u00faa,1
+N. El Zhar,Eraso,1
+Cu\u00e9llar,Rub\u00e9n P\u00e9rez,1
+N. El Zhar,Rub\u00e9n P\u00e9rez,1
+Bustinza,Cu\u00e9llar,1
+Eraso,N. El Zhar,1
+Zald\u00faa,Bustinza,1
+Rub\u00e9n P\u00e9rez,Guerrero,1
+Eraso,Zald\u00faa,1
+N. El Zhar,Bustinza,1
+Rub\u00e9n P\u00e9rez,D. Siovas,1
+Zald\u00faa,Rub\u00e9n P\u00e9rez,1
+D. Siovas,Gumbau,1
+Bustinza,Rub\u00e9n P\u00e9rez,1
+Bustinza,Diego Rico,1
+Gumbau,Diego Rico,1
+Bustinza,N. El Zhar,1
+Rub\u00e9n P\u00e9rez,N. El Zhar,1
+Bustinza,Eraso,1

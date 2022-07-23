@@ -1,0 +1,23 @@
+Source,Target,Weight
+A. Ferrari,M. Fares,2
+B. Zuculini,R\u00f4mulo,1
+G. Pazzini,B. Zuculini,1
+M. Fares,B. Petkovi\u0107,1
+Nicolas,G. Pazzini,1
+B. Petkovi\u0107,Ryder Matos,1
+Nicolas,M. B\u00fcchel,1
+M. Fares,Nicolas,1
+B. Petkovi\u0107,M. B\u00fcchel,1
+M. Fares,M. B\u00fcchel,1
+M. B\u00fcchel,M. Fares,1
+M. B\u00fcchel,Ryder Matos,1
+M. B\u00fcchel,A. Ferrari,1
+M. B\u00fcchel,D. Verde,1
+R\u00f4mulo,A. Caracciolo,1
+B. Zuculini,B. Petkovi\u0107,1
+Ryder Matos,B. Petkovi\u0107,1
+A. Caracciolo,B. Zuculini,1
+A. Caracciolo,R\u00f4mulo,1
+Ryder Matos,M. B\u00fcchel,1
+B. Petkovi\u0107,A. Ferrari,1
+R\u00f4mulo,Nicolas,1

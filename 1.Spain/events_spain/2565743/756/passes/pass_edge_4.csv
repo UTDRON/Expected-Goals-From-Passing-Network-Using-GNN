@@ -1,0 +1,63 @@
+Source,Target,Weight
+Portu,M. Olunga,4
+Ramalho,Pere Pons,3
+Bernardo Espinosa,Ramalho,3
+Ramalho,Bernardo Espinosa,3
+Portu,Borja Garc\u00eda,3
+Borja Garc\u00eda,J. Mojica,3
+J. Mojica,Juanpe,3
+J. Mojica,\u00c1lex Granell,3
+M. Olunga,J. Mojica,3
+Pere Pons,Portu,3
+M. Olunga,\u00c1lex Granell,2
+J. Mojica,Timor,2
+\u00c1lex Granell,Bernardo Espinosa,2
+Ramalho,Portu,2
+Aday,Ramalho,2
+Borja Garc\u00eda,Pere Pons,2
+Pere Pons,Ramalho,2
+M. Olunga,Ramalho,2
+Bernardo Espinosa,Juanpe,2
+\u00c1lex Granell,Pere Pons,2
+Iraizoz,M. Olunga,2
+Portu,Aday,2
+M. Olunga,Portu,2
+J. Mojica,Bernardo Espinosa,2
+Pere Pons,Bernardo Espinosa,1
+Bernardo Espinosa,J. Mojica,1
+Ramalho,Iraizoz,1
+Juanpe,Borja Garc\u00eda,1
+Bernardo Espinosa,Borja Garc\u00eda,1
+Pere Pons,Aday,1
+Aday,Pere Pons,1
+J. Mojica,Borja Garc\u00eda,1
+Ramalho,M. Olunga,1
+M. Olunga,Aday,1
+Ramalho,Borja Garc\u00eda,1
+\u00c1lex Granell,J. Mojica,1
+Pere Pons,\u00c1lex Granell,1
+Borja Garc\u00eda,Iraizoz,1
+Iraizoz,J. Mojica,1
+\u00c1lex Granell,Ramalho,1
+Borja Garc\u00eda,Portu,1
+Juanpe,M. Olunga,1
+Aday,Iraizoz,1
+Timor,Borja Garc\u00eda,1
+M. Olunga,Borja Garc\u00eda,1
+\u00c1lex Granell,Aday,1
+Portu,\u00c1lex Granell,1
+Aday,J. Mojica,1
+Borja Garc\u00eda,\u00c1lex Granell,1
+Bernardo Espinosa,Portu,1
+Pere Pons,Borja Garc\u00eda,1
+Juanpe,Iraizoz,1
+Juanpe,Pere Pons,1
+Juanpe,J. Mojica,1
+\u00c1lex Granell,Borja Garc\u00eda,1
+Borja Garc\u00eda,Ramalho,1
+Bernardo Espinosa,M. Olunga,1
+J. Mojica,Portu,1
+Pere Pons,M. Olunga,1
+Borja Garc\u00eda,M. Olunga,1
+Timor,Bernardo Espinosa,1
+Iraizoz,Pere Pons,1

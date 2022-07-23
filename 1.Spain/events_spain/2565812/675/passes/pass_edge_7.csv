@@ -1,0 +1,46 @@
+Source,Target,Weight
+Casemiro,Marcos Llorente,5
+Daniel Carvajal,Marcos Llorente,4
+Marcos Llorente,Daniel Carvajal,4
+G. Bale,Daniel Carvajal,3
+Isco,Casemiro,3
+G. Bale,K. Benzema,3
+T. Hern\u00e1ndez,Cristiano Ronaldo,3
+T. Hern\u00e1ndez,Isco,3
+Marcos Llorente,Nacho,3
+Sergio Ramos,T. Hern\u00e1ndez,2
+Marcos Llorente,Sergio Ramos,2
+Daniel Carvajal,Casemiro,2
+Daniel Carvajal,Nacho,2
+G. Bale,Isco,2
+Sergio Ramos,Casemiro,2
+Daniel Carvajal,G. Bale,2
+Isco,Marcos Llorente,2
+Isco,T. Hern\u00e1ndez,2
+Marcos Llorente,Casemiro,2
+Casemiro,Daniel Carvajal,1
+Nacho,Isco,1
+Marcos Llorente,G. Bale,1
+Cristiano Ronaldo,G. Bale,1
+Nacho,G. Bale,1
+K. Benzema,Isco,1
+Nacho,Marcos Llorente,1
+Cristiano Ronaldo,Sergio Ramos,1
+K. Benzema,T. Hern\u00e1ndez,1
+Isco,Sergio Ramos,1
+Sergio Ramos,G. Bale,1
+K. Benzema,Cristiano Ronaldo,1
+Casemiro,G. Bale,1
+Nacho,Daniel Carvajal,1
+Cristiano Ronaldo,K. Benzema,1
+K. Benzema,G. Bale,1
+Sergio Ramos,Marcos Llorente,1
+K. Benzema,Sergio Ramos,1
+T. Hern\u00e1ndez,Marcos Llorente,1
+Nacho,T. Hern\u00e1ndez,1
+Casemiro,Isco,1
+Nacho,Sergio Ramos,1
+Casemiro,T. Hern\u00e1ndez,1
+Marcos Llorente,Isco,1
+Marcos Llorente,K. Benzema,1
+Cristiano Ronaldo,Daniel Carvajal,1

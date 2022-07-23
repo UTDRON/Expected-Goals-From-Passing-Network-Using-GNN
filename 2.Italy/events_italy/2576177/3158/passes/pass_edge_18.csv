@@ -1,0 +1,53 @@
+Source,Target,Weight
+A. Florenzi,M. Antonucci,5
+K. Manolas,A. Florenzi,4
+R. Nainggolan,A. Florenzi,3
+G. Defrel,A. Florenzi,3
+M. Antonucci,A. Florenzi,3
+K. Strootman,A. Kolarov,3
+A. Kolarov,D. Perotti,3
+K. Manolas,R. Nainggolan,2
+M. Antonucci,G. Defrel,2
+D. Perotti,A. Kolarov,2
+R. Nainggolan,D. Perotti,2
+A. Florenzi,K. Manolas,2
+A. Florenzi,E. D\u017eeko,2
+K. Manolas,K. Strootman,2
+K. Manolas,M. Antonucci,2
+M. Antonucci,K. Manolas,2
+A. Kolarov,Juan Jesus,2
+A. Kolarov,K. Manolas,2
+A. Florenzi,G. Defrel,2
+A. Kolarov,Alisson,1
+D. Perotti,M. Antonucci,1
+D. Perotti,K. Strootman,1
+K. Manolas,G. Defrel,1
+Juan Jesus,A. Kolarov,1
+R. Nainggolan,K. Manolas,1
+Juan Jesus,Alisson,1
+M. Antonucci,K. Strootman,1
+E. D\u017eeko,R. Nainggolan,1
+K. Manolas,D. Perotti,1
+R. Nainggolan,G. Defrel,1
+Alisson,K. Manolas,1
+Juan Jesus,A. Florenzi,1
+D. Perotti,Juan Jesus,1
+Alisson,M. Antonucci,1
+R. Nainggolan,Juan Jesus,1
+M. Antonucci,E. D\u017eeko,1
+Juan Jesus,R. Nainggolan,1
+E. D\u017eeko,K. Manolas,1
+A. Florenzi,K. Strootman,1
+G. Defrel,A. Kolarov,1
+D. Perotti,K. Manolas,1
+D. Perotti,R. Nainggolan,1
+G. Defrel,R. Nainggolan,1
+E. D\u017eeko,D. Perotti,1
+E. D\u017eeko,M. Antonucci,1
+G. Defrel,E. D\u017eeko,1
+A. Florenzi,A. Kolarov,1
+Alisson,R. Nainggolan,1
+M. Antonucci,R. Nainggolan,1
+A. Florenzi,R. Nainggolan,1
+K. Strootman,Alisson,1
+K. Strootman,K. Manolas,1

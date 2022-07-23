@@ -1,0 +1,22 @@
+Source,Target,Weight
+E. Pulgar,S. Verdi,2
+A. Masina,S. Ta\u00efder,2
+S. Verdi,A. Masina,2
+S. Ta\u00efder,A. Masina,1
+V. Torosidis,A. Poli,1
+S. Verdi,A. Poli,1
+S. Verdi,V. Torosidis,1
+D. Maietta,S. Ta\u00efder,1
+D. Maietta,S. Verdi,1
+A. Masina,S. Verdi,1
+A. Poli,S. Verdi,1
+S. Verdi,S. De Maio,1
+A. Poli,M. Destro,1
+M. Destro,A. Poli,1
+M. Destro,D. Maietta,1
+S. De Maio,E. Pulgar,1
+A. Masina,M. Destro,1
+A. Poli,V. Torosidis,1
+S. Ta\u00efder,E. Pulgar,1
+S. Ta\u00efder,S. Verdi,1
+V. Torosidis,D. Maietta,1

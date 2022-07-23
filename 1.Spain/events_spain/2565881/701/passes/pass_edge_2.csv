@@ -1,0 +1,52 @@
+Source,Target,Weight
+Ander Capa,Pedro Le\u00f3n,6
+Lomb\u00e1n,David Junc\u00e0,4
+Pedro Le\u00f3n,Ander Capa,4
+F. Orellana,Ander Capa,3
+Ander Capa,Rub\u00e9n Pe\u00f1a,3
+G. Escalante,Ander Capa,3
+Kike Garc\u00eda,Ander Capa,2
+Pedro Le\u00f3n,Paulo Oliveira,2
+David Junc\u00e0,F. Orellana,2
+Pedro Le\u00f3n,G. Escalante,2
+David Junc\u00e0,Lomb\u00e1n,2
+Ander Capa,G. Escalante,2
+Pedro Le\u00f3n,F. Orellana,2
+Kike Garc\u00eda,G. Escalante,2
+Lomb\u00e1n,M. Dmitrovi\u0107,2
+G. Escalante,Lomb\u00e1n,2
+G. Escalante,P. Diop,2
+Paulo Oliveira,Pedro Le\u00f3n,2
+Rub\u00e9n Pe\u00f1a,Lomb\u00e1n,2
+Lomb\u00e1n,G. Escalante,2
+F. Orellana,Pedro Le\u00f3n,1
+G. Escalante,David Junc\u00e0,1
+Pedro Le\u00f3n,Rub\u00e9n Pe\u00f1a,1
+P. Diop,David Junc\u00e0,1
+M. Dmitrovi\u0107,Kike Garc\u00eda,1
+David Junc\u00e0,P. Diop,1
+Pedro Le\u00f3n,Lomb\u00e1n,1
+P. Diop,Pedro Le\u00f3n,1
+G. Escalante,Paulo Oliveira,1
+G. Escalante,M. Dmitrovi\u0107,1
+P. Diop,G. Escalante,1
+Paulo Oliveira,Lomb\u00e1n,1
+G. Escalante,F. Orellana,1
+David Junc\u00e0,G. Escalante,1
+M. Dmitrovi\u0107,Pedro Le\u00f3n,1
+Lomb\u00e1n,Pedro Le\u00f3n,1
+Paulo Oliveira,G. Escalante,1
+Rub\u00e9n Pe\u00f1a,Pedro Le\u00f3n,1
+G. Escalante,Rub\u00e9n Pe\u00f1a,1
+David Junc\u00e0,Kike Garc\u00eda,1
+Lomb\u00e1n,Kike Garc\u00eda,1
+M. Dmitrovi\u0107,F. Orellana,1
+Rub\u00e9n Pe\u00f1a,Ander Capa,1
+Pedro Le\u00f3n,Kike Garc\u00eda,1
+Ander Capa,Paulo Oliveira,1
+Rub\u00e9n Pe\u00f1a,Kike Garc\u00eda,1
+Ander Capa,Lomb\u00e1n,1
+P. Diop,Lomb\u00e1n,1
+Kike Garc\u00eda,P. Diop,1
+F. Orellana,Kike Garc\u00eda,1
+F. Orellana,David Junc\u00e0,1

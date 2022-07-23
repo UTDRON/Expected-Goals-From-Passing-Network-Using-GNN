@@ -1,0 +1,8 @@
+Source,Target,Weight
+Mario,Pablo Fornals,1
+Trigueros,Jaume Costa,1
+Rodri,Trigueros,1
+Pablo Fornals,Mario,1
+Rodri,Mario,1
+Trigueros,Rodri,1
+Jaume Costa,Trigueros,1

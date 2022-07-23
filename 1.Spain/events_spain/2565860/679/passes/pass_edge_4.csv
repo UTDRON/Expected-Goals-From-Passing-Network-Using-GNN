@@ -1,0 +1,34 @@
+Source,Target,Weight
+Koke,Sa\u00fal,3
+Koke,D. God\u00edn,2
+Sa\u00fal,Koke,2
+S. Savi\u0107,D. God\u00edn,2
+Vitolo,Koke,2
+D. God\u00edn,Sa\u00fal,2
+Sa\u00fal,Vitolo,2
+Koke,Vitolo,2
+D. God\u00edn,J. Oblak,2
+D. God\u00edn,S. Savi\u0107,2
+A. Griezmann,Koke,2
+S. Savi\u0107,Koke,2
+Vitolo,L. Hern\u00e1ndez,1
+J. Oblak,Vitolo,1
+Vitolo,S. Savi\u0107,1
+L. Hern\u00e1ndez,Koke,1
+Koke,L. Hern\u00e1ndez,1
+J. Oblak,L. Hern\u00e1ndez,1
+\u0160. Vrsaljko,S. Savi\u0107,1
+L. Hern\u00e1ndez,Vitolo,1
+A. Griezmann,K. Gameiro,1
+Koke,A. Griezmann,1
+Vitolo,\u00c1. Correa,1
+L. Hern\u00e1ndez,D. God\u00edn,1
+Sa\u00fal,\u0160. Vrsaljko,1
+Koke,S. Savi\u0107,1
+Sa\u00fal,A. Griezmann,1
+\u00c1. Correa,D. God\u00edn,1
+J. Oblak,\u0160. Vrsaljko,1
+Vitolo,A. Griezmann,1
+\u0160. Vrsaljko,K. Gameiro,1
+S. Savi\u0107,J. Oblak,1
+K. Gameiro,Sa\u00fal,1

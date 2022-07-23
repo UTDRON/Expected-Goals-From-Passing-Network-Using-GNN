@@ -1,0 +1,34 @@
+Source,Target,Weight
+Trigueros,Samu Castillejo,4
+Rodri,\u00c1lvaro Gonz\u00e1lez,3
+\u00c1lvaro Gonz\u00e1lez,Trigueros,2
+Samu Castillejo,Rodri,2
+Mario,Rodri,2
+\u00c1lvaro Gonz\u00e1lez,Pablo Fornals,2
+Samu Castillejo,\u00c1lvaro Gonz\u00e1lez,2
+D. Bonera,Samu Castillejo,2
+Rodri,D. Bonera,1
+Pablo Fornals,C. Bacca,1
+Rodri,Mario,1
+Pablo Fornals,Jaume Costa,1
+\u00c1lvaro Gonz\u00e1lez,D. Bonera,1
+Trigueros,Mario,1
+Jaume Costa,Trigueros,1
+Samu Castillejo,D. Bonera,1
+D. Bonera,Rodri,1
+Trigueros,C. Bacca,1
+Samu Castillejo,Pablo Fornals,1
+\u00c1lvaro Gonz\u00e1lez,C. Bacca,1
+C. Bacca,\u00c1lvaro Gonz\u00e1lez,1
+Mario,Sergio Asenjo,1
+D. Bonera,Mario,1
+\u00c1lvaro Gonz\u00e1lez,Mario,1
+Sergio Asenjo,D. Bonera,1
+Mario,Trigueros,1
+Pablo Fornals,Rodri,1
+Mario,Samu Castillejo,1
+Rodri,Trigueros,1
+Samu Castillejo,Mario,1
+C. Bacca,Mario,1
+Mario,D. Bonera,1
+D. Bonera,\u00c1lvaro Gonz\u00e1lez,1

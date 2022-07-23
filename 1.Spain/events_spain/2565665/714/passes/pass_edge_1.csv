@@ -1,0 +1,74 @@
+Source,Target,Weight
+Dani Castellano,M. Lemos,8
+Ximo Navarro,M. Lemos,8
+M. Lemos,Javi Castellano,6
+M. Lemos,Ximo Navarro,6
+Javi Castellano,Vitolo,5
+Javi Castellano,M. Lemos,4
+M. Lemos,Dani Castellano,4
+Tana,David Sim\u00f3n,4
+Tana,Jonathan Viera,3
+David Sim\u00f3n,Tana,3
+Javi Castellano,Ximo Navarro,3
+M. Lemos,Vitolo,3
+Vitolo,Dani Castellano,3
+Ra\u00fal Lizo\u00e1in,M. Lemos,3
+David Sim\u00f3n,Vicente G\u00f3mez,3
+David Sim\u00f3n,Ximo Navarro,3
+Jonathan Viera,Vitolo,3
+Vitolo,Ximo Navarro,2
+M. Lemos,David Sim\u00f3n,2
+Jonathan Viera,Tana,2
+Dani Castellano,Jonathan Viera,2
+Vitolo,M. Lemos,2
+Ximo Navarro,Ra\u00fal Lizo\u00e1in,2
+Ximo Navarro,Dani Castellano,2
+J. Calleri,Vitolo,2
+Vicente G\u00f3mez,Tana,2
+Javi Castellano,Vicente G\u00f3mez,2
+Vitolo,Javi Castellano,2
+Vicente G\u00f3mez,Dani Castellano,2
+Vitolo,Tana,2
+Vicente G\u00f3mez,Ximo Navarro,2
+Jonathan Viera,Javi Castellano,2
+M. Lemos,J. Calleri,2
+Ximo Navarro,David Sim\u00f3n,2
+Vicente G\u00f3mez,Javi Castellano,2
+Vitolo,Jonathan Viera,2
+M. Lemos,Vicente G\u00f3mez,1
+Vicente G\u00f3mez,M. Lemos,1
+Tana,Ximo Navarro,1
+Dani Castellano,Vicente G\u00f3mez,1
+Javi Castellano,Dani Castellano,1
+Dani Castellano,Javi Castellano,1
+Jonathan Viera,Dani Castellano,1
+Tana,Dani Castellano,1
+Tana,Javi Castellano,1
+Jonathan Viera,M. Lemos,1
+Ximo Navarro,Jonathan Viera,1
+M. Lemos,Ra\u00fal Lizo\u00e1in,1
+Dani Castellano,David Sim\u00f3n,1
+M. Lemos,Tana,1
+David Sim\u00f3n,J. Calleri,1
+Javi Castellano,Tana,1
+Tana,Ra\u00fal Lizo\u00e1in,1
+Ximo Navarro,Tana,1
+Javi Castellano,Jonathan Viera,1
+Jonathan Viera,David Sim\u00f3n,1
+M. Lemos,Jonathan Viera,1
+J. Calleri,Jonathan Viera,1
+Ximo Navarro,Javi Castellano,1
+Tana,J. Calleri,1
+Ra\u00fal Lizo\u00e1in,David Sim\u00f3n,1
+Dani Castellano,Tana,1
+David Sim\u00f3n,Ra\u00fal Lizo\u00e1in,1
+Dani Castellano,Vitolo,1
+Vitolo,David Sim\u00f3n,1
+J. Calleri,Javi Castellano,1
+J. Calleri,Ximo Navarro,1
+Jonathan Viera,Ximo Navarro,1
+Ximo Navarro,J. Calleri,1
+Ximo Navarro,Vicente G\u00f3mez,1
+David Sim\u00f3n,Dani Castellano,1
+Ra\u00fal Lizo\u00e1in,Javi Castellano,1
+Tana,Vicente G\u00f3mez,1

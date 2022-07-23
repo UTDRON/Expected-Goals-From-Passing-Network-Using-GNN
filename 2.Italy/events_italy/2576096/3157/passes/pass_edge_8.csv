@@ -1,0 +1,56 @@
+Source,Target,Weight
+G. Bonaventura,A. Romagnoli,5
+C. Zapata,Suso,5
+A. Romagnoli,R. Rodr\u00edguez,4
+A. Romagnoli,G. Bonaventura,3
+Suso,C. Zapata,3
+G. Bonaventura,R. Rodr\u00edguez,3
+Suso,F. Kessi\u00e9,3
+R. Rodr\u00edguez,R. Montolivo,2
+R. Rodr\u00edguez,G. Bonaventura,2
+Andr\u00e9 Silva,R. Rodr\u00edguez,2
+R. Rodr\u00edguez,Andr\u00e9 Silva,2
+Suso,L. Bonucci,2
+C. Zapata,L. Bonucci,2
+N. Kalini\u0107,A. Romagnoli,2
+Andr\u00e9 Silva,G. Bonaventura,2
+L. Bonucci,Suso,2
+A. Romagnoli,C. Zapata,2
+G. Bonaventura,Andr\u00e9 Silva,2
+A. Romagnoli,R. Montolivo,2
+Andr\u00e9 Silva,L. Bonucci,2
+R. Rodr\u00edguez,A. Romagnoli,2
+G. Donnarumma,C. Zapata,2
+F. Kessi\u00e9,Suso,2
+R. Rodr\u00edguez,F. Kessi\u00e9,2
+A. Romagnoli,Andr\u00e9 Silva,2
+L. Bonucci,C. Zapata,2
+R. Montolivo,Andr\u00e9 Silva,2
+Andr\u00e9 Silva,F. Kessi\u00e9,1
+L. Bonucci,N. Kalini\u0107,1
+F. Kessi\u00e9,A. Romagnoli,1
+Suso,R. Montolivo,1
+C. Zapata,A. Romagnoli,1
+F. Kessi\u00e9,L. Bonucci,1
+G. Donnarumma,Andr\u00e9 Silva,1
+C. Zapata,N. Kalini\u0107,1
+F. Kessi\u00e9,C. Zapata,1
+L. Bonucci,R. Rodr\u00edguez,1
+L. Bonucci,G. Bonaventura,1
+N. Kalini\u0107,L. Bonucci,1
+Andr\u00e9 Silva,A. Romagnoli,1
+R. Montolivo,R. Rodr\u00edguez,1
+C. Zapata,G. Donnarumma,1
+A. Romagnoli,L. Bonucci,1
+R. Montolivo,A. Romagnoli,1
+L. Bonucci,G. Donnarumma,1
+Andr\u00e9 Silva,Suso,1
+R. Montolivo,F. Kessi\u00e9,1
+R. Rodr\u00edguez,N. Kalini\u0107,1
+R. Montolivo,N. Kalini\u0107,1
+Suso,A. Romagnoli,1
+Andr\u00e9 Silva,R. Montolivo,1
+F. Kessi\u00e9,R. Montolivo,1
+L. Bonucci,Andr\u00e9 Silva,1
+F. Kessi\u00e9,G. Donnarumma,1
+R. Montolivo,G. Bonaventura,1

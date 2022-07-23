@@ -1,0 +1,66 @@
+Source,Target,Weight
+M. Antenucci,A. Grassi,5
+M. Antenucci,Everton Luiz,4
+B. Salamon,Felipe,4
+Felipe,F. Costa,4
+A. Grassi,J. Kurti\u010d,4
+F. Costa,Everton Luiz,3
+F. Costa,B. Salamon,3
+T. Cionek,E. Schiavon,3
+Everton Luiz,J. Kurti\u010d,3
+B. Salamon,T. Cionek,3
+J. Kurti\u010d,F. Costa,3
+A. Grassi,M. Antenucci,3
+B. Salamon,F. Costa,3
+B. Salamon,A. Gomis,3
+E. Schiavon,T. Cionek,2
+T. Cionek,Everton Luiz,2
+F. Costa,A. Grassi,2
+A. Grassi,E. Schiavon,2
+Everton Luiz,B. Salamon,2
+A. Paloschi,M. Antenucci,2
+J. Kurti\u010d,Felipe,2
+J. Kurti\u010d,T. Cionek,2
+J. Kurti\u010d,B. Salamon,2
+F. Costa,A. Gomis,2
+Felipe,B. Salamon,2
+A. Gomis,J. Kurti\u010d,2
+Everton Luiz,M. Antenucci,2
+Everton Luiz,A. Grassi,2
+Felipe,A. Paloschi,2
+A. Gomis,B. Salamon,2
+E. Schiavon,M. Antenucci,2
+E. Schiavon,Felipe,2
+T. Cionek,B. Salamon,2
+A. Paloschi,F. Costa,2
+B. Salamon,Everton Luiz,2
+A. Gomis,A. Grassi,1
+E. Schiavon,A. Paloschi,1
+A. Gomis,M. Antenucci,1
+A. Gomis,T. Cionek,1
+Everton Luiz,T. Cionek,1
+T. Cionek,F. Costa,1
+Felipe,E. Schiavon,1
+F. Costa,A. Paloschi,1
+Felipe,A. Grassi,1
+A. Grassi,Felipe,1
+Felipe,M. Antenucci,1
+Felipe,J. Kurti\u010d,1
+T. Cionek,A. Grassi,1
+J. Kurti\u010d,Everton Luiz,1
+M. Antenucci,T. Cionek,1
+M. Antenucci,E. Schiavon,1
+M. Antenucci,A. Paloschi,1
+A. Grassi,A. Gomis,1
+M. Antenucci,B. Salamon,1
+T. Cionek,Felipe,1
+A. Paloschi,E. Schiavon,1
+A. Grassi,B. Salamon,1
+Everton Luiz,F. Costa,1
+J. Kurti\u010d,M. Antenucci,1
+E. Schiavon,A. Gomis,1
+F. Costa,M. Antenucci,1
+Everton Luiz,E. Schiavon,1
+F. Costa,Felipe,1
+E. Schiavon,A. Grassi,1
+F. Costa,J. Kurti\u010d,1

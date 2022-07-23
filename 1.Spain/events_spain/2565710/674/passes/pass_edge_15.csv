@@ -1,0 +1,15 @@
+Source,Target,Weight
+G. Kondogbia,Rodrigo,2
+Dani Parejo,E. Garay,2
+Rodrigo,Dani Parejo,2
+E. Garay,Dani Parejo,2
+Dani Parejo,Santi Mina,1
+Dani Parejo,Montoya,1
+E. Garay,G. Kondogbia,1
+E. Garay,Gabriel,1
+Montoya,E. Garay,1
+Dani Parejo,Rodrigo,1
+Santi Mina,G. Kondogbia,1
+Gabriel,G. Kondogbia,1
+G. Kondogbia,Gabriel,1
+Gabriel,E. Garay,1

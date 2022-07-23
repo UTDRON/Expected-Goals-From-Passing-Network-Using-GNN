@@ -1,0 +1,61 @@
+Source,Target,Weight
+Rober,Coke,5
+Pedro L\u00f3pez,Jason,5
+Jason,Pedro L\u00f3pez,5
+Coke,S. Luki\u0107,5
+Coke,Rober,4
+Pedro L\u00f3pez,Sergio Postigo,4
+Rober,Sergio Postigo,4
+Sergio Postigo,Rober,4
+J. Lerma,Sergio Postigo,4
+Sergio Postigo,Pedro L\u00f3pez,3
+Campa\u00f1a,Coke,3
+S. Luki\u0107,Coke,3
+Sergio Postigo,J. Lerma,3
+Coke,E. Boateng,2
+Jos\u00e9 Luis Morales,E. Boateng,2
+Coke,Campa\u00f1a,2
+Campa\u00f1a,Pedro L\u00f3pez,2
+Campa\u00f1a,Jason,2
+Sergio Postigo,Coke,2
+J. Lerma,Pedro L\u00f3pez,2
+J. Lerma,Rober,2
+Jason,Roger,2
+Coke,Jos\u00e9 Luis Morales,2
+Rober,J. Lerma,2
+Rober,Roger,1
+J. Lerma,Oier,1
+E. Boateng,Coke,1
+Sergio Postigo,Jason,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+Sergio Postigo,Campa\u00f1a,1
+J. Lerma,Roger,1
+Jason,J. Lerma,1
+J. Lerma,Jason,1
+Jos\u00e9 Luis Morales,Rober,1
+Sergio Postigo,Jos\u00e9 Luis Morales,1
+Pedro L\u00f3pez,S. Luki\u0107,1
+Campa\u00f1a,Roger,1
+Roger,J. Lerma,1
+Roger,Campa\u00f1a,1
+E. Boateng,Campa\u00f1a,1
+E. Boateng,Oier,1
+Jason,Sergio Postigo,1
+J. Lerma,Jos\u00e9 Luis Morales,1
+Pedro L\u00f3pez,J. Lerma,1
+Oier,Rober,1
+S. Luki\u0107,J. Lerma,1
+S. Luki\u0107,Jason,1
+S. Luki\u0107,Rober,1
+Jos\u00e9 Luis Morales,Coke,1
+Oier,Sergio Postigo,1
+Roger,Jason,1
+E. Boateng,Jos\u00e9 Luis Morales,1
+Jason,Oier,1
+S. Luki\u0107,Sergio Postigo,1
+Jason,Campa\u00f1a,1
+Roger,S. Luki\u0107,1
+Rober,Oier,1
+Pedro L\u00f3pez,Campa\u00f1a,1
+Oier,Campa\u00f1a,1
+Oier,J. Lerma,1

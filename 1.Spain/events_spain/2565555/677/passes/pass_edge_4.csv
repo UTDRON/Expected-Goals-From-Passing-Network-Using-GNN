@@ -1,0 +1,29 @@
+Source,Target,Weight
+C. Borges,Juanfran,3
+C. Borges,Pedro Mosquera,2
+Luisinho,C. Borges,2
+Juanfran,C. Borges,2
+Pedro Mosquera,Luisinho,1
+C. Borges,F. Andone,1
+Juanfran,Fede Cartabia,1
+Guilherme,C. Borges,1
+F. Sch\u00e4r,Z. Bakkali,1
+Juanfran,Sidnei,1
+Juanfran,Luisinho,1
+Sidnei,Juanfran,1
+Pedro Mosquera,Juanfran,1
+Z. Bakkali,Sidnei,1
+Juanfran,Guilherme,1
+Sidnei,C. Borges,1
+Guilherme,F. Sch\u00e4r,1
+Guilherme,F. Andone,1
+Fede Cartabia,Z. Bakkali,1
+F. Andone,Guilherme,1
+Fede Cartabia,Guilherme,1
+Luisinho,Guilherme,1
+Guilherme,Sidnei,1
+C. Borges,Guilherme,1
+Z. Bakkali,Fede Cartabia,1
+Sidnei,Guilherme,1
+F. Andone,Luisinho,1
+Guilherme,Juanfran,1

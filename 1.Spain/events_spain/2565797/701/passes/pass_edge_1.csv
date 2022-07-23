@@ -1,0 +1,41 @@
+Source,Target,Weight
+Charles,T. Inui,2
+T. Inui,Jos\u00e9 \u00c1ngel,2
+Joan Jord\u00e1n,Arbilla,2
+Arbilla,M. Dmitrovi\u0107,2
+Arbilla,Charles,2
+Iv\u00e1n Alejo,Rub\u00e9n Pe\u00f1a,2
+Charles,Rub\u00e9n Pe\u00f1a,2
+Jos\u00e9 \u00c1ngel,Arbilla,2
+Kike Garc\u00eda,P. Diop,2
+Jos\u00e9 \u00c1ngel,Charles,1
+Rub\u00e9n Pe\u00f1a,Iv\u00e1n Alejo,1
+Arbilla,T. Inui,1
+P. Diop,Iv\u00e1n Alejo,1
+T. Inui,Joan Jord\u00e1n,1
+M. Dmitrovi\u0107,Charles,1
+Iv\u00e1n Alejo,Charles,1
+Rub\u00e9n Pe\u00f1a,P. Diop,1
+Arbilla,Jos\u00e9 \u00c1ngel,1
+Paulo Oliveira,Kike Garc\u00eda,1
+P. Diop,Kike Garc\u00eda,1
+Joan Jord\u00e1n,Kike Garc\u00eda,1
+M. Dmitrovi\u0107,Iv\u00e1n Alejo,1
+P. Diop,Joan Jord\u00e1n,1
+Jos\u00e9 \u00c1ngel,Paulo Oliveira,1
+Kike Garc\u00eda,Iv\u00e1n Alejo,1
+Joan Jord\u00e1n,T. Inui,1
+T. Inui,Paulo Oliveira,1
+Paulo Oliveira,T. Inui,1
+Kike Garc\u00eda,T. Inui,1
+Iv\u00e1n Alejo,Arbilla,1
+T. Inui,Charles,1
+T. Inui,Arbilla,1
+Kike Garc\u00eda,Joan Jord\u00e1n,1
+Iv\u00e1n Alejo,Kike Garc\u00eda,1
+Rub\u00e9n Pe\u00f1a,Charles,1
+Charles,Joan Jord\u00e1n,1
+Rub\u00e9n Pe\u00f1a,Kike Garc\u00eda,1
+Joan Jord\u00e1n,Iv\u00e1n Alejo,1
+Charles,Iv\u00e1n Alejo,1
+Iv\u00e1n Alejo,Joan Jord\u00e1n,1

@@ -1,0 +1,36 @@
+Source,Target,Weight
+David Sim\u00f3n,G\u00e1lvez,5
+G\u00e1lvez,Jonathan Viera,4
+G\u00e1lvez,Vicente G\u00f3mez,4
+Vicente G\u00f3mez,Jonathan Viera,4
+Vicente G\u00f3mez,G\u00e1lvez,3
+G. Pe\u00f1alba,G\u00e1lvez,3
+Jonathan Viera,Vicente G\u00f3mez,2
+Jonathan Viera,Dani Castellano,2
+G\u00e1lvez,David Sim\u00f3n,2
+H. Toledo,David Sim\u00f3n,2
+Vicente G\u00f3mez,David Sim\u00f3n,2
+Dani Castellano,Vicente G\u00f3mez,2
+G\u00e1lvez,G. Pe\u00f1alba,2
+David Sim\u00f3n,Vicente G\u00f3mez,2
+H. Toledo,Vicente G\u00f3mez,1
+L. Chichizola,David Sim\u00f3n,1
+Vicente G\u00f3mez,H. Toledo,1
+G\u00e1lvez,Ximo Navarro,1
+Nacho Gil,Jonathan Viera,1
+L. Chichizola,G\u00e1lvez,1
+J. Calleri,G. Pe\u00f1alba,1
+Jonathan Viera,Nacho Gil,1
+Ximo Navarro,G. Pe\u00f1alba,1
+G. Pe\u00f1alba,Ximo Navarro,1
+Nacho Gil,L. Chichizola,1
+Jonathan Viera,David Sim\u00f3n,1
+Ximo Navarro,Dani Castellano,1
+Jonathan Viera,G\u00e1lvez,1
+Jonathan Viera,G. Pe\u00f1alba,1
+G. Pe\u00f1alba,J. Calleri,1
+Dani Castellano,G. Pe\u00f1alba,1
+David Sim\u00f3n,H. Toledo,1
+G. Pe\u00f1alba,Nacho Gil,1
+Jonathan Viera,H. Toledo,1
+Ximo Navarro,L. Chichizola,1

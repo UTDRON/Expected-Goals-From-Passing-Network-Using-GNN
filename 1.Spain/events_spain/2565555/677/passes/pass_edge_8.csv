@@ -1,0 +1,40 @@
+Source,Target,Weight
+Fede Cartabia,Juanfran,3
+Juanfran,Fede Cartabia,3
+Pedro Mosquera,Luisinho,2
+Z. Bakkali,Juanfran,2
+Fede Cartabia,Guilherme,2
+Z. Bakkali,Fede Cartabia,2
+Luisinho,Guilherme,2
+Guilherme,F. Sch\u00e4r,2
+F. Sch\u00e4r,Fede Cartabia,2
+C. Borges,Z. Bakkali,2
+F. Andone,Pedro Mosquera,2
+Juanfran,F. Sch\u00e4r,2
+Pedro Mosquera,Z. Bakkali,2
+Rub\u00e9n,F. Sch\u00e4r,1
+F. Sch\u00e4r,Guilherme,1
+Fede Cartabia,Rub\u00e9n,1
+F. Andone,Fede Cartabia,1
+Z. Bakkali,Guilherme,1
+Fede Cartabia,Luisinho,1
+Luisinho,Pedro Mosquera,1
+Z. Bakkali,Rub\u00e9n,1
+Guilherme,F. Andone,1
+Guilherme,Z. Bakkali,1
+F. Sch\u00e4r,Juanfran,1
+Rub\u00e9n,F. Andone,1
+Guilherme,Pedro Mosquera,1
+F. Sch\u00e4r,Rub\u00e9n,1
+Rub\u00e9n,C. Borges,1
+Juanfran,F. Andone,1
+C. Borges,Luisinho,1
+F. Sch\u00e4r,Sidnei,1
+Juanfran,Z. Bakkali,1
+F. Andone,C. Borges,1
+Luisinho,Z. Bakkali,1
+Sidnei,Pedro Mosquera,1
+Z. Bakkali,Sidnei,1
+Pedro Mosquera,Juanfran,1
+Fede Cartabia,F. Andone,1
+Sidnei,C. Borges,1

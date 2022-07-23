@@ -1,0 +1,43 @@
+Source,Target,Weight
+Susaeta,San Jos\u00e9,3
+De Marcos,Lekue,3
+San Jos\u00e9,A. Laporte,3
+Mikel Rico,Lekue,3
+Balenziaga,San Jos\u00e9,3
+Susaeta,Mikel Rico,2
+Mikel Rico,Susaeta,2
+San Jos\u00e9,Unai N\u00fa\u00f1ez,2
+Lekue,Mikel Rico,2
+A. Laporte,Iago Herrer\u00edn,2
+Ra\u00fal Garc\u00eda,A. Laporte,2
+Lekue,De Marcos,2
+Mikel Rico,De Marcos,1
+Lekue,A. Laporte,1
+Unai N\u00fa\u00f1ez,Aduriz,1
+Ra\u00fal Garc\u00eda,Susaeta,1
+Aduriz,A. Laporte,1
+Balenziaga,Aduriz,1
+Susaeta,Lekue,1
+Susaeta,Ra\u00fal Garc\u00eda,1
+A. Laporte,Susaeta,1
+Balenziaga,De Marcos,1
+Lekue,Susaeta,1
+De Marcos,Susaeta,1
+Unai N\u00fa\u00f1ez,Lekue,1
+Lekue,Ra\u00fal Garc\u00eda,1
+Iago Herrer\u00edn,Mikel Rico,1
+A. Laporte,Balenziaga,1
+Lekue,Balenziaga,1
+A. Laporte,Ra\u00fal Garc\u00eda,1
+Mikel Rico,Balenziaga,1
+San Jos\u00e9,Iago Herrer\u00edn,1
+Iago Herrer\u00edn,Balenziaga,1
+A. Laporte,Mikel Rico,1
+Iago Herrer\u00edn,Unai N\u00fa\u00f1ez,1
+A. Laporte,De Marcos,1
+Unai N\u00fa\u00f1ez,Mikel Rico,1
+De Marcos,Ra\u00fal Garc\u00eda,1
+Aduriz,Ra\u00fal Garc\u00eda,1
+De Marcos,San Jos\u00e9,1
+Ra\u00fal Garc\u00eda,De Marcos,1
+San Jos\u00e9,Susaeta,1

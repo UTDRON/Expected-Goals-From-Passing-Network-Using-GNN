@@ -1,0 +1,58 @@
+Source,Target,Weight
+A. Masiello,A. G\u00f3mez,8
+A. Masiello,R. Freuler,5
+R. Freuler,A. Masiello,5
+Rafael Tol\u00f3i,M. de Roon,4
+M. de Roon,B. Cristante,3
+A. Masiello,L. Spinazzola,3
+A. G\u00f3mez,A. Masiello,3
+L. Spinazzola,A. Masiello,3
+B. Cristante,A. Masiello,3
+H. Hateboer,M. de Roon,2
+E. Berisha,A. Masiello,2
+A. G\u00f3mez,R. Freuler,2
+A. G\u00f3mez,M. de Roon,2
+A. Petagna,R. Freuler,2
+R. Freuler,M. de Roon,2
+M. Caldara,M. de Roon,2
+Rafael Tol\u00f3i,A. Masiello,2
+B. Cristante,M. de Roon,2
+Rafael Tol\u00f3i,E. Berisha,2
+L. Spinazzola,E. Berisha,2
+R. Freuler,A. Petagna,2
+M. Caldara,Rafael Tol\u00f3i,2
+M. de Roon,M. Caldara,2
+M. de Roon,L. Spinazzola,2
+M. de Roon,Rafael Tol\u00f3i,2
+M. de Roon,A. Petagna,2
+A. Masiello,M. Caldara,2
+A. G\u00f3mez,B. Cristante,2
+E. Berisha,B. Cristante,2
+A. Petagna,B. Cristante,1
+H. Hateboer,Rafael Tol\u00f3i,1
+L. Spinazzola,B. Cristante,1
+M. de Roon,A. Masiello,1
+L. Spinazzola,Rafael Tol\u00f3i,1
+E. Berisha,A. Petagna,1
+H. Hateboer,B. Cristante,1
+A. Petagna,H. Hateboer,1
+B. Cristante,A. Petagna,1
+B. Cristante,R. Freuler,1
+M. Caldara,A. Masiello,1
+B. Cristante,Rafael Tol\u00f3i,1
+B. Cristante,L. Spinazzola,1
+M. de Roon,H. Hateboer,1
+A. G\u00f3mez,E. Berisha,1
+B. Cristante,H. Hateboer,1
+M. Caldara,A. G\u00f3mez,1
+M. Caldara,H. Hateboer,1
+M. de Roon,A. G\u00f3mez,1
+E. Berisha,H. Hateboer,1
+A. Masiello,Rafael Tol\u00f3i,1
+R. Freuler,M. Caldara,1
+A. Masiello,E. Berisha,1
+Rafael Tol\u00f3i,M. Caldara,1
+A. G\u00f3mez,M. Caldara,1
+H. Hateboer,A. G\u00f3mez,1
+A. Petagna,L. Spinazzola,1
+A. Petagna,Rafael Tol\u00f3i,1

@@ -1,0 +1,74 @@
+Source,Target,Weight
+Pedro L\u00f3pez,Ivi,8
+Campa\u00f1a,Pedro L\u00f3pez,6
+Ivi,Campa\u00f1a,6
+J. Lerma,Campa\u00f1a,4
+Ivi,A. Abeid,4
+E. Bardhi,A. Abeid,4
+Pedro L\u00f3pez,Campa\u00f1a,4
+Jos\u00e9 Luis Morales,A. Abeid,3
+J. Lerma,Pedro L\u00f3pez,3
+Ivi,Pedro L\u00f3pez,3
+Campa\u00f1a,E. Bardhi,3
+E. Bardhi,Pedro L\u00f3pez,3
+Campa\u00f1a,J. Lerma,3
+Ivi,E. Bardhi,3
+A. Abeid,Ivi,3
+J. Lerma,A. Abeid,2
+Campa\u00f1a,Jos\u00e9 Luis Morales,2
+A. Sadiku,Pedro L\u00f3pez,2
+E. Cabaco,Pedro L\u00f3pez,2
+Campa\u00f1a,Jason,2
+J. Lerma,E. Cabaco,2
+Jos\u00e9 Luis Morales,J. Lerma,2
+A. Abeid,Campa\u00f1a,2
+Rober,J. Lerma,2
+Rober,E. Cabaco,2
+A. Abeid,Rober,2
+Campa\u00f1a,Roger,2
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,2
+J. Lerma,Rober,2
+Campa\u00f1a,Rober,2
+Pedro L\u00f3pez,J. Lerma,2
+Pedro L\u00f3pez,Jason,2
+E. Bardhi,Campa\u00f1a,2
+Jos\u00e9 Luis Morales,Ivi,2
+Rober,Ivi,2
+E. Bardhi,J. Lerma,2
+E. Cabaco,E. Bardhi,2
+A. Abeid,J. Lerma,2
+A. Abeid,E. Bardhi,2
+Jason,A. Sadiku,2
+Pedro L\u00f3pez,E. Bardhi,2
+Ivi,Jos\u00e9 Luis Morales,1
+A. Sadiku,Jason,1
+Oier,Rober,1
+A. Abeid,Oier,1
+Rober,A. Abeid,1
+E. Bardhi,Ivi,1
+E. Bardhi,Jos\u00e9 Luis Morales,1
+Campa\u00f1a,A. Sadiku,1
+Roger,Ivi,1
+Pedro L\u00f3pez,A. Sadiku,1
+Oier,Ivi,1
+A. Abeid,Pedro L\u00f3pez,1
+Jason,Campa\u00f1a,1
+Ivi,J. Lerma,1
+J. Lerma,Jos\u00e9 Luis Morales,1
+Roger,Campa\u00f1a,1
+Oier,Roger,1
+Rober,E. Bardhi,1
+Rober,Oier,1
+Ivi,E. Cabaco,1
+A. Sadiku,Campa\u00f1a,1
+Roger,Rober,1
+Jason,E. Cabaco,1
+Ivi,Rober,1
+Campa\u00f1a,Oier,1
+A. Abeid,Jason,1
+Rober,Jos\u00e9 Luis Morales,1
+E. Cabaco,Campa\u00f1a,1
+Jason,Rober,1
+Campa\u00f1a,Ivi,1
+Jason,Pedro L\u00f3pez,1
+E. Cabaco,Ivi,1

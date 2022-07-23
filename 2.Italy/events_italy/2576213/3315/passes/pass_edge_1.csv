@@ -1,0 +1,74 @@
+Source,Target,Weight
+Rog\u00e9rio,M. Politano,7
+F. Magnanelli,Rog\u00e9rio,6
+F. Peluso,Rog\u00e9rio,6
+C. Adjapong,D. Berardi,6
+C. Adjapong,F. Acerbi,5
+F. Acerbi,C. Adjapong,4
+D. Berardi,L. Mazzitelli,4
+Rog\u00e9rio,F. Acerbi,4
+C. Adjapong,L. Mazzitelli,4
+Rog\u00e9rio,F. Peluso,3
+M. Politano,F. Magnanelli,3
+F. Acerbi,Rog\u00e9rio,3
+F. Magnanelli,F. Peluso,3
+F. Magnanelli,K. Babacar,3
+L. Mazzitelli,D. Berardi,3
+Rog\u00e9rio,S. Missiroli,3
+F. Peluso,C. Adjapong,3
+F. Acerbi,L. Mazzitelli,3
+L. Mazzitelli,C. Adjapong,3
+F. Acerbi,F. Magnanelli,3
+L. Mazzitelli,F. Magnanelli,3
+D. Berardi,F. Magnanelli,3
+S. Missiroli,Rog\u00e9rio,2
+F. Magnanelli,M. Politano,2
+Rog\u00e9rio,L. Mazzitelli,2
+L. Mazzitelli,Rog\u00e9rio,2
+A. Consigli,C. Adjapong,2
+M. Politano,F. Peluso,2
+K. Babacar,F. Acerbi,2
+D. Berardi,Rog\u00e9rio,2
+M. Politano,D. Berardi,2
+Rog\u00e9rio,F. Magnanelli,2
+F. Acerbi,A. Consigli,2
+L. Mazzitelli,S. Missiroli,2
+K. Babacar,M. Politano,2
+S. Missiroli,M. Politano,2
+M. Politano,S. Missiroli,2
+F. Magnanelli,C. Adjapong,2
+L. Mazzitelli,F. Peluso,2
+S. Missiroli,F. Magnanelli,2
+S. Missiroli,L. Mazzitelli,1
+F. Acerbi,F. Peluso,1
+D. Berardi,F. Peluso,1
+L. Mazzitelli,F. Acerbi,1
+L. Mazzitelli,A. Consigli,1
+Rog\u00e9rio,A. Consigli,1
+C. Adjapong,F. Magnanelli,1
+L. Mazzitelli,M. Politano,1
+K. Babacar,Rog\u00e9rio,1
+F. Peluso,L. Mazzitelli,1
+F. Peluso,F. Acerbi,1
+F. Magnanelli,D. Berardi,1
+M. Politano,F. Acerbi,1
+K. Babacar,F. Magnanelli,1
+F. Peluso,K. Babacar,1
+D. Berardi,A. Consigli,1
+D. Berardi,C. Adjapong,1
+S. Missiroli,D. Berardi,1
+C. Adjapong,S. Missiroli,1
+M. Politano,C. Adjapong,1
+K. Babacar,L. Mazzitelli,1
+M. Politano,Rog\u00e9rio,1
+M. Politano,L. Mazzitelli,1
+A. Consigli,F. Acerbi,1
+A. Consigli,Rog\u00e9rio,1
+K. Babacar,D. Berardi,1
+M. Politano,K. Babacar,1
+Rog\u00e9rio,K. Babacar,1
+Rog\u00e9rio,C. Adjapong,1
+A. Consigli,S. Missiroli,1
+D. Berardi,K. Babacar,1
+S. Missiroli,F. Acerbi,1
+F. Magnanelli,L. Mazzitelli,1

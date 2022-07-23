@@ -1,0 +1,82 @@
+Source,Target,Weight
+A. Nalini,F. Ceccherini,4
+R. Mandragora,A. Barberis,4
+S. Simi\u010d,A. Nalini,3
+A. Nalini,R. Mandragora,3
+A. Barberis,R. Mandragora,3
+M. Rohd\u00e9n,M. Trotta,3
+A. Cordaz,A. Budimir,3
+A. Nalini,A. Barberis,3
+A. Barberis,A. Nalini,3
+F. Ceccherini,D. Pavlovic,2
+S. Simi\u010d,M. Sampirisi,2
+R. Mandragora,A. Nalini,2
+R. Mandragora,Simy,2
+A. Barberis,D. Pavlovic,2
+D. Pavlovic,F. Ceccherini,2
+M. Trotta,S. Simi\u010d,2
+M. Sampirisi,A. Cordaz,2
+M. Rohd\u00e9n,A. Barberis,2
+A. Budimir,A. Barberis,2
+F. Ceccherini,M. Trotta,2
+A. Nalini,M. Rohd\u00e9n,2
+M. Rohd\u00e9n,S. Simi\u010d,2
+A. Barberis,F. Ceccherini,2
+M. Sampirisi,M. Rohd\u00e9n,2
+M. Trotta,A. Nalini,2
+A. Barberis,M. Trotta,2
+D. Pavlovic,R. Mandragora,1
+D. Pavlovic,S. Simi\u010d,1
+A. Stoian,R. Mandragora,1
+R. Mandragora,D. Pavlovic,1
+S. Simi\u010d,A. Cordaz,1
+A. Budimir,S. Simi\u010d,1
+M. Trotta,M. Rohd\u00e9n,1
+A. Budimir,M. Rohd\u00e9n,1
+M. Sampirisi,R. Mandragora,1
+A. Cordaz,M. Rohd\u00e9n,1
+Simy,A. Nalini,1
+M. Sampirisi,M. Trotta,1
+A. Budimir,M. Sampirisi,1
+A. Budimir,A. Nalini,1
+A. Barberis,M. Rohd\u00e9n,1
+Simy,M. Sampirisi,1
+S. Simi\u010d,R. Mandragora,1
+A. Barberis,A. Cordaz,1
+M. Rohd\u00e9n,M. Sampirisi,1
+M. Trotta,R. Mandragora,1
+R. Mandragora,M. Sampirisi,1
+A. Budimir,D. Pavlovic,1
+A. Nalini,A. Budimir,1
+F. Ceccherini,S. Simi\u010d,1
+D. Pavlovic,A. Nalini,1
+M. Trotta,A. Budimir,1
+Simy,A. Barberis,1
+D. Pavlovic,M. Sampirisi,1
+M. Trotta,A. Barberis,1
+M. Sampirisi,A. Nalini,1
+A. Barberis,A. Stoian,1
+F. Ceccherini,A. Nalini,1
+F. Ceccherini,A. Cordaz,1
+A. Barberis,A. Budimir,1
+M. Trotta,F. Ceccherini,1
+A. Cordaz,A. Barberis,1
+R. Mandragora,S. Simi\u010d,1
+S. Simi\u010d,D. Pavlovic,1
+F. Ceccherini,R. Mandragora,1
+M. Sampirisi,A. Budimir,1
+A. Nalini,D. Pavlovic,1
+A. Cordaz,A. Nalini,1
+F. Ceccherini,M. Sampirisi,1
+F. Ceccherini,A. Barberis,1
+A. Nalini,M. Sampirisi,1
+A. Nalini,S. Simi\u010d,1
+S. Simi\u010d,F. Ceccherini,1
+D. Pavlovic,A. Cordaz,1
+Simy,S. Simi\u010d,1
+S. Simi\u010d,A. Barberis,1
+F. Ceccherini,Simy,1
+D. Pavlovic,Simy,1
+M. Sampirisi,A. Barberis,1
+S. Simi\u010d,M. Trotta,1
+A. Barberis,S. Simi\u010d,1

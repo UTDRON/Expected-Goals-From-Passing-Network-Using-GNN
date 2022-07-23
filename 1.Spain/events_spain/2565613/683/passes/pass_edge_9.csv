@@ -1,0 +1,34 @@
+Source,Target,Weight
+D. Rol\u00e1n,Recio,2
+R. Rosales,Keko,2
+A. Pe\u00f1aranda,Keko,2
+R. Rosales,Recio,2
+Keko,A. Pe\u00f1aranda,2
+Keko,R. Rosales,2
+Keko,Recio,2
+Recio,Keko,2
+Recio,Juanpi,1
+P. Baysse,D. Rol\u00e1n,1
+A. Pe\u00f1aranda,R. Rosales,1
+Juanpi,R. Rosales,1
+A. Pe\u00f1aranda,P. Baysse,1
+Recio,D. Rol\u00e1n,1
+R. Rosales,A. Pe\u00f1aranda,1
+D. Rol\u00e1n,P. Baysse,1
+P. Baysse,Keko,1
+Juankar,A. Pe\u00f1aranda,1
+Recio,Adri\u00e1n,1
+P. Baysse,Adri\u00e1n,1
+Recio,Miguel Torres,1
+Miguel Torres,P. Baysse,1
+Adri\u00e1n,D. Rol\u00e1n,1
+P. Baysse,Juankar,1
+Juanpi,Miguel Torres,1
+A. Pe\u00f1aranda,Miguel Torres,1
+Miguel Torres,Juankar,1
+Keko,Juanpi,1
+Juankar,D. Rol\u00e1n,1
+Recio,P. Baysse,1
+D. Rol\u00e1n,A. Pe\u00f1aranda,1
+Miguel Torres,Recio,1
+Recio,R. Rosales,1

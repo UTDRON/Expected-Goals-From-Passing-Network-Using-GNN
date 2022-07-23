@@ -1,0 +1,18 @@
+Source,Target,Weight
+G. Mercado,\u00c9. Banega,2
+Pablo Sarabia,F. V\u00e1zquez,2
+Carlos Fern\u00e1ndez,David Soria,1
+F. V\u00e1zquez,Nolito,1
+\u00c9. Banega,Pablo Sarabia,1
+Carlos Fern\u00e1ndez,G. Mercado,1
+J. Geis,G. Mercado,1
+Pablo Sarabia,Carlos Fern\u00e1ndez,1
+David Soria,Carlos Fern\u00e1ndez,1
+Carlos Fern\u00e1ndez,Pablo Sarabia,1
+Nolito,F. V\u00e1zquez,1
+Nolito,Carlos Fern\u00e1ndez,1
+F. V\u00e1zquez,Pablo Sarabia,1
+\u00c9. Banega,J. Geis,1
+Pablo Sarabia,Nolito,1
+G. Mercado,Nolito,1
+Nolito,Pablo Sarabia,1

@@ -1,0 +1,36 @@
+Source,Target,Weight
+S. Fofana,S. Widmer,3
+S. Perica,Ali Adnan,3
+Ali Adnan,S. Perica,3
+S. Widmer,S. Fofana,2
+S. Fofana,R. de Paul,2
+G. Angella,A. Bali\u0107,2
+R. de Paul,S. Widmer,2
+S. Scuffet,Danilo,1
+R. de Paul,A. Bar\u00e1k,1
+S. Widmer,R. de Paul,1
+Danilo,S. Scuffet,1
+S. Widmer,A. Bali\u0107,1
+Samir,A. Bali\u0107,1
+S. Scuffet,S. Fofana,1
+S. Fofana,A. Bar\u00e1k,1
+S. Perica,R. de Paul,1
+A. Bali\u0107,Danilo,1
+Danilo,R. de Paul,1
+R. de Paul,S. Perica,1
+A. Bar\u00e1k,Ali Adnan,1
+G. Angella,S. Scuffet,1
+G. Angella,S. Widmer,1
+A. Bali\u0107,A. Bar\u00e1k,1
+Ali Adnan,R. de Paul,1
+S. Widmer,G. Angella,1
+A. Bar\u00e1k,S. Fofana,1
+S. Perica,S. Fofana,1
+S. Widmer,S. Scuffet,1
+A. Bali\u0107,S. Fofana,1
+A. Bar\u00e1k,G. Angella,1
+S. Fofana,G. Angella,1
+R. de Paul,G. Angella,1
+A. Bali\u0107,G. Angella,1
+S. Scuffet,S. Perica,1
+G. Angella,S. Fofana,1

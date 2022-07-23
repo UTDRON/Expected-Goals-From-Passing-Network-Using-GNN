@@ -1,0 +1,72 @@
+Source,Target,Weight
+M. Oikonomou,M. Lazzari,5
+F. Mattiello,F. Viviani,4
+L. Rizzo,F. Mattiello,4
+F. Mattiello,B. Salamon,4
+Felipe,B. Salamon,4
+F. Viviani,M. Oikonomou,4
+E. Schiavon,M. Lazzari,3
+M. Lazzari,E. Schiavon,3
+A. Paloschi,F. Mattiello,3
+M. Oikonomou,E. Schiavon,3
+F. Viviani,L. Rizzo,3
+F. Viviani,Felipe,3
+L. Rizzo,Felipe,3
+F. Mattiello,Felipe,3
+M. Borriello,F. Viviani,3
+B. Salamon,E. Schiavon,3
+M. Lazzari,F. Viviani,3
+B. Salamon,M. Oikonomou,3
+M. Borriello,B. Salamon,3
+B. Salamon,F. Mattiello,3
+A. Gomis,A. Paloschi,2
+Felipe,F. Mattiello,2
+E. Schiavon,F. Viviani,2
+F. Mattiello,L. Rizzo,2
+Felipe,L. Rizzo,2
+M. Lazzari,M. Oikonomou,2
+E. Schiavon,Felipe,2
+B. Salamon,L. Rizzo,2
+E. Schiavon,L. Rizzo,2
+A. Paloschi,E. Schiavon,2
+Felipe,M. Borriello,2
+L. Rizzo,A. Paloschi,2
+E. Schiavon,B. Salamon,2
+F. Viviani,B. Salamon,2
+B. Salamon,Felipe,2
+L. Rizzo,M. Borriello,2
+M. Lazzari,B. Salamon,2
+B. Salamon,M. Borriello,2
+Felipe,M. Lazzari,2
+B. Salamon,A. Paloschi,1
+M. Oikonomou,F. Viviani,1
+E. Schiavon,A. Paloschi,1
+M. Borriello,M. Oikonomou,1
+A. Paloschi,A. Gomis,1
+F. Viviani,A. Paloschi,1
+Felipe,M. Oikonomou,1
+Felipe,E. Schiavon,1
+A. Gomis,M. Borriello,1
+A. Gomis,F. Viviani,1
+F. Viviani,M. Borriello,1
+M. Oikonomou,Felipe,1
+L. Rizzo,E. Schiavon,1
+F. Viviani,F. Mattiello,1
+M. Oikonomou,A. Gomis,1
+L. Rizzo,F. Viviani,1
+A. Paloschi,M. Oikonomou,1
+M. Borriello,L. Rizzo,1
+M. Oikonomou,M. Borriello,1
+A. Paloschi,B. Salamon,1
+B. Salamon,F. Viviani,1
+E. Schiavon,M. Oikonomou,1
+M. Borriello,E. Schiavon,1
+E. Schiavon,F. Mattiello,1
+M. Oikonomou,A. Paloschi,1
+F. Viviani,M. Lazzari,1
+M. Borriello,F. Mattiello,1
+B. Salamon,A. Gomis,1
+M. Lazzari,L. Rizzo,1
+M. Oikonomou,B. Salamon,1
+F. Mattiello,M. Oikonomou,1
+F. Mattiello,A. Gomis,1

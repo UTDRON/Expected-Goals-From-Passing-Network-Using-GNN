@@ -1,0 +1,37 @@
+Source,Target,Weight
+Coke,J. Lerma,4
+J. Lerma,Coke,3
+E. Boateng,Coke,2
+Luna,Campa\u00f1a,2
+Jos\u00e9 Luis Morales,Rober,2
+J. Lerma,E. Boateng,2
+Coke,Jos\u00e9 Luis Morales,2
+Roger,Ivi,2
+Roger,Sergio Postigo,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+Ivi,J. Lerma,1
+Rober,Roger,1
+Campa\u00f1a,Ivi,1
+J. Lerma,Campa\u00f1a,1
+Rober,Oier,1
+Campa\u00f1a,Sergio Postigo,1
+Luna,Coke,1
+Roger,Jos\u00e9 Luis Morales,1
+Sergio Postigo,Ivi,1
+Coke,Luna,1
+Ivi,Roger,1
+Campa\u00f1a,Luna,1
+Oier,Luna,1
+Coke,E. Boateng,1
+Sergio Postigo,Rober,1
+Rober,Coke,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+J. Lerma,Roger,1
+E. Boateng,Sergio Postigo,1
+Jos\u00e9 Luis Morales,Roger,1
+Ivi,Luna,1
+Sergio Postigo,Coke,1
+J. Lerma,Rober,1
+Luna,Ivi,1
+Rober,J. Lerma,1
+Ivi,Campa\u00f1a,1

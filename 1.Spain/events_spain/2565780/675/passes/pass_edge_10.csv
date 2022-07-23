@@ -1,0 +1,28 @@
+Source,Target,Weight
+Daniel Carvajal,G. Bale,4
+G. Bale,Casemiro,3
+T. Hern\u00e1ndez,Marco Asensio,3
+Marco Asensio,T. Hern\u00e1ndez,3
+Daniel Carvajal,Lucas V\u00e1zquez,2
+Casemiro,M. Kova\u010di\u0107,2
+T. Hern\u00e1ndez,G. Bale,2
+Casemiro,Sergio Ramos,2
+M. Kova\u010di\u0107,T. Hern\u00e1ndez,2
+Lucas V\u00e1zquez,Daniel Carvajal,2
+Sergio Ramos,Daniel Carvajal,2
+T. Hern\u00e1ndez,Sergio Ramos,1
+Sergio Ramos,T. Hern\u00e1ndez,1
+K. Navas,Cristiano Ronaldo,1
+T. Hern\u00e1ndez,K. Navas,1
+Marco Asensio,Daniel Carvajal,1
+G. Bale,Daniel Carvajal,1
+G. Bale,Marco Asensio,1
+Lucas V\u00e1zquez,Casemiro,1
+G. Bale,T. Hern\u00e1ndez,1
+Lucas V\u00e1zquez,G. Bale,1
+T. Hern\u00e1ndez,Casemiro,1
+Marco Asensio,Sergio Ramos,1
+G. Bale,Lucas V\u00e1zquez,1
+Casemiro,Cristiano Ronaldo,1
+Cristiano Ronaldo,Lucas V\u00e1zquez,1
+Sergio Ramos,Marco Asensio,1

@@ -1,0 +1,33 @@
+Source,Target,Weight
+Chory Castro,Juanpi,2
+Keko,Juanpi,2
+Juanpi,Chory Castro,2
+E. Cecchini,Juanpi,2
+Chory Castro,Juankar,1
+Juankar,Keko,1
+P. Baysse,Juankar,1
+Juankar,E. Cecchini,1
+Juanpi,P. Baysse,1
+R. Rosales,Keko,1
+Andr\u00e9s,R. Rosales,1
+Luis Hern\u00e1ndez,Juankar,1
+Keko,P. Baysse,1
+P. Baysse,Chory Castro,1
+Chory Castro,Luis Hern\u00e1ndez,1
+Keko,E. Cecchini,1
+E. Cecchini,Adri\u00e1n,1
+P. Baysse,Keko,1
+Keko,R. Rosales,1
+R. Rosales,Luis Hern\u00e1ndez,1
+Juankar,P. Baysse,1
+R. Rosales,P. Baysse,1
+Chory Castro,R. Rosales,1
+Juanpi,R. Rosales,1
+R. Rosales,Juanpi,1
+Luis Hern\u00e1ndez,Keko,1
+Adri\u00e1n,E. Cecchini,1
+Juanpi,Juankar,1
+E. Cecchini,Chory Castro,1
+Juankar,Chory Castro,1
+Juanpi,E. Cecchini,1
+P. Baysse,Andr\u00e9s,1

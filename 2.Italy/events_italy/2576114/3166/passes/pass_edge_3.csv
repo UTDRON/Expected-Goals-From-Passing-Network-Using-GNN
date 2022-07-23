@@ -1,0 +1,11 @@
+Source,Target,Weight
+S. Verdi,A. Masina,4
+A. Masina,S. Verdi,3
+A. Masina,M. Destro,1
+M. Destro,S. Verdi,1
+M. Destro,A. Masina,1
+E. Pulgar,M. Destro,1
+R. Palacio,A. Masina,1
+G. Donsah,R. Palacio,1
+A. Masina,G. Donsah,1
+A. Masina,E. Pulgar,1

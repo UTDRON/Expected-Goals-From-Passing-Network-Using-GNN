@@ -1,0 +1,21 @@
+Source,Target,Weight
+A. Costa,A. Gravillon,4
+D. Cataldi,C. Lombardi,3
+C. Lombardi,D. Cataldi,2
+L. Venuti,D. Cataldi,2
+L. Venuti,A. Costa,2
+C. Lombardi,L. Venuti,2
+A. Gravillon,L. Venuti,2
+D. Cataldi,G. Di Chiara,1
+C. Lombardi,V. Parigini,1
+G. Di Chiara,V. Parigini,1
+D. Cataldi,L. Venuti,1
+V. Parigini,A. Costa,1
+A. Gravillon,D. Cataldi,1
+G. Di Chiara,A. Costa,1
+A. Gravillon,C. Lombardi,1
+L. Venuti,G. Pu\u015fca\u015f,1
+A. Costa,C. Lombardi,1
+D. Cataldi,A. Costa,1
+G. Pu\u015fca\u015f,D. Cataldi,1
+A. Costa,G. Di Chiara,1

@@ -1,0 +1,51 @@
+Source,Target,Weight
+Canales,Odriozola,5
+Odriozola,Canales,3
+G. Rulli,H. Moreno,3
+Willian Jos\u00e9,Xabi Prieto,2
+Mikel Oyarzabal,Odriozola,2
+K\u00e9vin Rodrigues,Illarramendi,2
+Ra\u00fal Navas,G. Rulli,2
+Zurutuza,K\u00e9vin Rodrigues,2
+Odriozola,Illarramendi,2
+H. Moreno,Odriozola,2
+H. Moreno,Zurutuza,2
+Odriozola,Mikel Oyarzabal,2
+Canales,Willian Jos\u00e9,2
+Illarramendi,Canales,2
+Illarramendi,Odriozola,2
+Willian Jos\u00e9,Mikel Oyarzabal,2
+Willian Jos\u00e9,Zurutuza,2
+K\u00e9vin Rodrigues,H. Moreno,2
+Zurutuza,Canales,1
+Odriozola,Xabi Prieto,1
+Odriozola,G. Rulli,1
+Ra\u00fal Navas,Xabi Prieto,1
+Illarramendi,G. Rulli,1
+Ra\u00fal Navas,Canales,1
+Juanmi,K\u00e9vin Rodrigues,1
+Canales,Illarramendi,1
+Juanmi,Illarramendi,1
+Zurutuza,Ra\u00fal Navas,1
+Xabi Prieto,Illarramendi,1
+Zurutuza,Xabi Prieto,1
+K\u00e9vin Rodrigues,Mikel Oyarzabal,1
+Odriozola,Ra\u00fal Navas,1
+Mikel Oyarzabal,Zurutuza,1
+H. Moreno,Willian Jos\u00e9,1
+Mikel Oyarzabal,K\u00e9vin Rodrigues,1
+Illarramendi,Willian Jos\u00e9,1
+Xabi Prieto,Canales,1
+Xabi Prieto,Willian Jos\u00e9,1
+G. Rulli,Illarramendi,1
+Odriozola,Willian Jos\u00e9,1
+Illarramendi,Juanmi,1
+Xabi Prieto,Odriozola,1
+Illarramendi,H. Moreno,1
+Ra\u00fal Navas,Mikel Oyarzabal,1
+Canales,Juanmi,1
+H. Moreno,K\u00e9vin Rodrigues,1
+H. Moreno,Ra\u00fal Navas,1
+Xabi Prieto,Ra\u00fal Navas,1
+Mikel Oyarzabal,Ra\u00fal Navas,1
+Odriozola,H. Moreno,1

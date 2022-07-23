@@ -1,0 +1,43 @@
+Source,Target,Weight
+Suso,F. Kessi\u00e9,6
+F. Kessi\u00e9,Suso,4
+D. Calabria,Suso,3
+G. Donnarumma,D. Calabria,3
+D. Calabria,F. Kessi\u00e9,3
+H. \u00c7alhano\u011flu,R. Montolivo,2
+F. Kessi\u00e9,L. Bonucci,2
+H. \u00c7alhano\u011flu,G. Bonaventura,2
+D. Calabria,P. Cutrone,2
+P. Cutrone,D. Calabria,2
+D. Calabria,L. Bonucci,2
+R. Montolivo,D. Calabria,2
+R. Montolivo,H. \u00c7alhano\u011flu,2
+F. Kessi\u00e9,G. Donnarumma,2
+F. Kessi\u00e9,H. \u00c7alhano\u011flu,2
+F. Kessi\u00e9,R. Montolivo,2
+P. Cutrone,H. \u00c7alhano\u011flu,1
+H. \u00c7alhano\u011flu,Suso,1
+D. Calabria,G. Donnarumma,1
+G. Bonaventura,D. Calabria,1
+Suso,G. Donnarumma,1
+L. Bonucci,D. Calabria,1
+H. \u00c7alhano\u011flu,G. Donnarumma,1
+R. Rodr\u00edguez,H. \u00c7alhano\u011flu,1
+R. Montolivo,Suso,1
+G. Donnarumma,F. Kessi\u00e9,1
+G. Bonaventura,H. \u00c7alhano\u011flu,1
+G. Bonaventura,R. Montolivo,1
+Suso,D. Calabria,1
+H. \u00c7alhano\u011flu,R. Rodr\u00edguez,1
+F. Kessi\u00e9,P. Cutrone,1
+Suso,H. \u00c7alhano\u011flu,1
+H. \u00c7alhano\u011flu,F. Kessi\u00e9,1
+A. Romagnoli,H. \u00c7alhano\u011flu,1
+L. Bonucci,R. Montolivo,1
+R. Rodr\u00edguez,D. Calabria,1
+P. Cutrone,F. Kessi\u00e9,1
+L. Bonucci,Suso,1
+G. Donnarumma,A. Romagnoli,1
+R. Montolivo,F. Kessi\u00e9,1
+L. Bonucci,P. Cutrone,1
+Suso,R. Rodr\u00edguez,1

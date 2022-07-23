@@ -1,0 +1,16 @@
+Source,Target,Weight
+A. Romero,B. Martella,2
+M. Sampirisi,A. Romero,2
+A. Romero,F. Ceccherini,1
+M. Trotta,R. Mandragora,1
+A. Budimir,M. Sampirisi,1
+M. Sampirisi,A. Ajeti,1
+A. Ajeti,F. Ceccherini,1
+R. Mandragora,A. Romero,1
+M. Sampirisi,M. Trotta,1
+M. Trotta,M. Sampirisi,1
+F. Ceccherini,A. Ajeti,1
+F. Ceccherini,A. Budimir,1
+A. Ajeti,A. Barberis,1
+A. Barberis,M. Trotta,1
+B. Martella,M. Sampirisi,1

@@ -1,0 +1,21 @@
+Source,Target,Weight
+Pol Lirola,F. Magnanelli,2
+A. Duncan,C. Adjapong,2
+C. Adjapong,M. Politano,1
+C. Adjapong,A. Duncan,1
+F. Acerbi,Pol Lirola,1
+Pol Lirola,S. Missiroli,1
+C. Adjapong,A. Matri,1
+F. Magnanelli,A. Duncan,1
+P. Cannavaro,S. Missiroli,1
+A. Consigli,P. Cannavaro,1
+A. Matri,F. Acerbi,1
+S. Missiroli,Pol Lirola,1
+M. Politano,T. Letschert,1
+T. Letschert,Pol Lirola,1
+F. Acerbi,A. Duncan,1
+S. Missiroli,T. Letschert,1
+T. Letschert,F. Acerbi,1
+S. Missiroli,A. Consigli,1
+A. Duncan,F. Acerbi,1
+F. Acerbi,C. Adjapong,1

@@ -1,0 +1,109 @@
+Source,Target,Weight
+D. Biraschi,O. Hiljemark,10
+O. Hiljemark,D. Biraschi,9
+A. Bertolacci,D. Lazovi\u0107,8
+A. Bertolacci,G. Rossi,7
+J. El Yamiq,D. Lazovi\u0107,7
+J. El Yamiq,Miguel Veloso,7
+D. Lazovi\u0107,Iuri Medeiros,7
+J. El Yamiq,A. Bertolacci,6
+Miguel Veloso,O. Hiljemark,5
+O. Hiljemark,Iuri Medeiros,5
+Miguel Veloso,J. El Yamiq,5
+D. Biraschi,M. Perin,5
+M. Perin,J. El Yamiq,5
+Iuri Medeiros,D. Lazovi\u0107,5
+Iuri Medeiros,Miguel Veloso,4
+D. Lazovi\u0107,A. Bertolacci,4
+A. Rosi,D. Biraschi,4
+Iuri Medeiros,A. Bertolacci,4
+Miguel Veloso,Iuri Medeiros,4
+N. Spolli,A. Bertolacci,4
+N. Spolli,J. El Yamiq,4
+D. Lazovi\u0107,N. Spolli,4
+G. Rossi,D. Biraschi,3
+G. Rossi,Miguel Veloso,3
+G. Pandev,O. Hiljemark,3
+D. Biraschi,J. El Yamiq,3
+D. Lazovi\u0107,D. Biraschi,3
+A. Bertolacci,Iuri Medeiros,3
+Miguel Veloso,M. Perin,3
+J. El Yamiq,D. Biraschi,3
+D. Lazovi\u0107,G. Pandev,3
+D. Biraschi,Miguel Veloso,3
+O. Hiljemark,Miguel Veloso,3
+G. Rossi,J. El Yamiq,3
+J. El Yamiq,N. Spolli,3
+M. Perin,O. Hiljemark,3
+G. Rossi,D. Lazovi\u0107,3
+Iuri Medeiros,G. Pandev,3
+D. Lazovi\u0107,G. Rossi,3
+M. Perin,D. Biraschi,3
+O. Hiljemark,J. El Yamiq,3
+D. Biraschi,Iuri Medeiros,3
+O. Hiljemark,A. Rosi,2
+A. Bertolacci,D. Biraschi,2
+Miguel Veloso,D. Biraschi,2
+G. Rossi,N. Spolli,2
+Miguel Veloso,D. Lazovi\u0107,2
+Iuri Medeiros,O. Hiljemark,2
+G. Pandev,J. El Yamiq,2
+M. Perin,Miguel Veloso,2
+A. Rosi,N. Spolli,2
+A. Bertolacci,Miguel Veloso,2
+N. Spolli,Miguel Veloso,2
+Miguel Veloso,A. Bertolacci,2
+A. Bertolacci,J. El Yamiq,2
+D. Biraschi,N. Spolli,2
+D. Biraschi,A. Rosi,2
+D. Biraschi,A. Bertolacci,2
+Iuri Medeiros,G. Rossi,2
+J. El Yamiq,O. Hiljemark,2
+G. Rossi,Iuri Medeiros,2
+N. Spolli,M. Perin,2
+O. Hiljemark,A. Bertolacci,2
+Iuri Medeiros,A. Rosi,2
+Iuri Medeiros,D. Biraschi,2
+D. Lazovi\u0107,Miguel Veloso,2
+D. Lazovi\u0107,J. El Yamiq,2
+O. Hiljemark,M. Perin,2
+Miguel Veloso,A. Rosi,2
+Iuri Medeiros,J. El Yamiq,2
+Miguel Veloso,N. Spolli,2
+Iuri Medeiros,Daniel Bessa,1
+A. Rosi,Iuri Medeiros,1
+G. Rossi,A. Bertolacci,1
+Daniel Bessa,G. Rossi,1
+D. Lazovi\u0107,O. Hiljemark,1
+J. El Yamiq,Iuri Medeiros,1
+O. Hiljemark,G. Rossi,1
+O. Hiljemark,D. Lazovi\u0107,1
+A. Rosi,A. Bertolacci,1
+J. El Yamiq,A. Rosi,1
+G. Pandev,Iuri Medeiros,1
+G. Pandev,A. Bertolacci,1
+A. Bertolacci,O. Hiljemark,1
+Daniel Bessa,A. Bertolacci,1
+A. Rosi,J. El Yamiq,1
+D. Biraschi,G. Pandev,1
+N. Spolli,O. Hiljemark,1
+A. Bertolacci,N. Spolli,1
+G. Pandev,D. Lazovi\u0107,1
+A. Bertolacci,M. Perin,1
+J. El Yamiq,G. Rossi,1
+O. Hiljemark,G. Pandev,1
+M. Perin,G. Rossi,1
+N. Spolli,A. Rosi,1
+G. Pandev,N. Spolli,1
+G. Rossi,G. Pandev,1
+Miguel Veloso,G. Rossi,1
+G. Rossi,O. Hiljemark,1
+N. Spolli,D. Lazovi\u0107,1
+N. Spolli,G. Rossi,1
+N. Spolli,D. Biraschi,1
+M. Perin,D. Lazovi\u0107,1
+D. Biraschi,G. Rossi,1
+A. Rosi,G. Rossi,1
+A. Bertolacci,Daniel Bessa,1
+A. Rosi,M. Perin,1
+J. El Yamiq,M. Perin,1

@@ -1,0 +1,73 @@
+Source,Target,Weight
+Hugo Mallo,Brais M\u00e9ndez,7
+Brais M\u00e9ndez,Hugo Mallo,6
+Hugo Mallo,D. Wass,5
+Jonny,Jozabed,4
+Sergi G\u00f3mez,Sergio \u00c1lvarez,4
+Sergio \u00c1lvarez,Sergi G\u00f3mez,3
+Hugo Mallo,S. Lobotka,3
+Jozabed,Jonny,3
+Jozabed,P. Sisto,3
+Jonny,P. Sisto,3
+S. Lobotka,Jozabed,3
+Jozabed,Hugo Mallo,3
+P. Sisto,Hugo Mallo,3
+D. Wass,Sergi G\u00f3mez,2
+D. Wass,Hugo Mallo,2
+Hugo Mallo,Sergi G\u00f3mez,2
+Sergio \u00c1lvarez,Maxi G\u00f3mez,2
+Sergio \u00c1lvarez,L. Boy\u00e9,2
+Sergi G\u00f3mez,Hugo Mallo,2
+P. Sisto,Jonny,2
+G. Cabral,Sergio \u00c1lvarez,2
+P. Sisto,Jozabed,2
+G. Cabral,Hugo Mallo,2
+Sergi G\u00f3mez,G. Cabral,2
+Jozabed,Sergi G\u00f3mez,2
+D. Wass,G. Cabral,2
+Sergi G\u00f3mez,L. Boy\u00e9,2
+P. Sisto,S. Lobotka,1
+Sergio \u00c1lvarez,Jonny,1
+Hugo Mallo,Maxi G\u00f3mez,1
+Jozabed,Maxi G\u00f3mez,1
+G. Cabral,P. Sisto,1
+S. Lobotka,Sergio \u00c1lvarez,1
+Sergi G\u00f3mez,D. Wass,1
+Maxi G\u00f3mez,P. Sisto,1
+Sergio \u00c1lvarez,S. Lobotka,1
+Brais M\u00e9ndez,S. Lobotka,1
+Maxi G\u00f3mez,S. Lobotka,1
+L. Boy\u00e9,P. Sisto,1
+S. Lobotka,G. Cabral,1
+Maxi G\u00f3mez,Hugo Mallo,1
+Brais M\u00e9ndez,D. Wass,1
+S. Lobotka,Sergi G\u00f3mez,1
+Sergi G\u00f3mez,Jonny,1
+L. Boy\u00e9,Sergi G\u00f3mez,1
+Sergio \u00c1lvarez,Jozabed,1
+Jozabed,Brais M\u00e9ndez,1
+L. Boy\u00e9,D. Wass,1
+L. Boy\u00e9,Jozabed,1
+P. Sisto,L. Boy\u00e9,1
+Maxi G\u00f3mez,Jozabed,1
+L. Boy\u00e9,Brais M\u00e9ndez,1
+D. Wass,S. Lobotka,1
+P. Sisto,Sergio \u00c1lvarez,1
+Brais M\u00e9ndez,P. Sisto,1
+D. Wass,Brais M\u00e9ndez,1
+Jonny,Maxi G\u00f3mez,1
+L. Boy\u00e9,Jonny,1
+Jozabed,G. Cabral,1
+S. Lobotka,Hugo Mallo,1
+Brais M\u00e9ndez,Sergio \u00c1lvarez,1
+S. Lobotka,D. Wass,1
+Maxi G\u00f3mez,G. Cabral,1
+S. Lobotka,Maxi G\u00f3mez,1
+Jonny,S. Lobotka,1
+Maxi G\u00f3mez,Sergi G\u00f3mez,1
+Hugo Mallo,Jozabed,1
+G. Cabral,Jonny,1
+G. Cabral,Sergi G\u00f3mez,1
+Hugo Mallo,Sergio \u00c1lvarez,1
+Sergi G\u00f3mez,Jozabed,1
+D. Wass,L. Boy\u00e9,1

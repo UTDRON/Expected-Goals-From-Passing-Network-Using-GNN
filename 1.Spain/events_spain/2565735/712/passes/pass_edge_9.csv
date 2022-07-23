@@ -1,0 +1,27 @@
+Source,Target,Weight
+N. Amrabat,Cu\u00e9llar,2
+N. Amrabat,Zald\u00faa,1
+Zald\u00faa,Ra\u00fal Garc\u00eda,1
+C. Beauvue,Gumbau,1
+Cu\u00e9llar,C. Beauvue,1
+Ra\u00fal Garc\u00eda,M. Mantovani,1
+Gabriel,C. Beauvue,1
+Gabriel,N. Amrabat,1
+C. Beauvue,Guerrero,1
+Guerrero,C. Beauvue,1
+Gumbau,Gabriel,1
+M. Mantovani,Zald\u00faa,1
+M. Mantovani,N. Amrabat,1
+Gumbau,M. Mantovani,1
+Zald\u00faa,Cu\u00e9llar,1
+Cu\u00e9llar,Guerrero,1
+Eraso,Gabriel,1
+Eraso,Bustinza,1
+Gabriel,Gumbau,1
+Ra\u00fal Garc\u00eda,C. Beauvue,1
+Gumbau,N. Amrabat,1
+Gabriel,Eraso,1
+Guerrero,Eraso,1
+C. Beauvue,Gabriel,1
+Bustinza,Gabriel,1
+Cu\u00e9llar,Gumbau,1

@@ -1,0 +1,36 @@
+Source,Target,Weight
+Ali Adnan,J. Jankto,3
+A. Bar\u00e1k,Ali Adnan,3
+J. Jankto,A. Bar\u00e1k,2
+S. Scuffet,Maxi L\u00f3pez,2
+J. Stryger Larsen,R. de Paul,2
+G. Angella,J. Stryger Larsen,2
+S. Fofana,G. Angella,2
+Maxi L\u00f3pez,J. Stryger Larsen,2
+R. de Paul,J. Stryger Larsen,2
+K. Lasagna,A. Bar\u00e1k,2
+B. Nuytinck,K. Lasagna,1
+Maxi L\u00f3pez,G. Angella,1
+Ali Adnan,S. Scuffet,1
+A. Bar\u00e1k,S. Scuffet,1
+Ali Adnan,S. Fofana,1
+Ali Adnan,Maxi L\u00f3pez,1
+R. de Paul,S. Fofana,1
+K. Lasagna,Maxi L\u00f3pez,1
+Maxi L\u00f3pez,K. Lasagna,1
+S. Fofana,R. de Paul,1
+J. Stryger Larsen,K. Lasagna,1
+A. Bar\u00e1k,S. Fofana,1
+S. Scuffet,A. Bar\u00e1k,1
+J. Stryger Larsen,A. Bar\u00e1k,1
+A. Bar\u00e1k,G. Angella,1
+G. Angella,B. Nuytinck,1
+A. Bar\u00e1k,J. Jankto,1
+J. Stryger Larsen,Maxi L\u00f3pez,1
+J. Stryger Larsen,S. Scuffet,1
+R. de Paul,A. Bar\u00e1k,1
+J. Jankto,K. Lasagna,1
+G. Angella,Ali Adnan,1
+J. Jankto,S. Scuffet,1
+S. Scuffet,R. de Paul,1
+Maxi L\u00f3pez,Ali Adnan,1

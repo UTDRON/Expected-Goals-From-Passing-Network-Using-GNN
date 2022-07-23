@@ -1,0 +1,18 @@
+Source,Target,Weight
+R. Inglese,M. Gobbi,2
+M. Gobbi,R. Inglese,2
+V. Birsa,L. Castro,1
+R. Inglese,M. Bani,1
+E. Giaccherini,P. Hetemaj,1
+I. Radovanovi\u0107,E. Giaccherini,1
+P. Hetemaj,R. Inglese,1
+L. Castro,I. Radovanovi\u0107,1
+M. Bani,P. Hetemaj,1
+M. Gobbi,V. Birsa,1
+P. Hetemaj,M. Gobbi,1
+P. Hetemaj,V. Birsa,1
+M. Gobbi,E. Giaccherini,1
+M. Bani,M. Gobbi,1
+I. Radovanovi\u0107,M. Bani,1
+E. Giaccherini,M. Gobbi,1
+M. Gobbi,P. Hetemaj,1

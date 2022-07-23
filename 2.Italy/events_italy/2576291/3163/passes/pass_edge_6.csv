@@ -1,0 +1,27 @@
+Source,Target,Weight
+S. Fofana,V. Behrami,2
+S. Widmer,K. Lasagna,1
+K. Lasagna,Ali Adnan,1
+K. Lasagna,A. Bar\u00e1k,1
+Ali Adnan,K. Lasagna,1
+Ali Adnan,Samir,1
+Ali Adnan,S. Widmer,1
+Danilo,A. Bar\u00e1k,1
+S. Fofana,S. Widmer,1
+V. Behrami,S. Fofana,1
+V. Behrami,Maxi L\u00f3pez,1
+J. Stryger Larsen,Samir,1
+Samir,Danilo,1
+Danilo,J. Stryger Larsen,1
+Samir,Ali Adnan,1
+A. Bar\u00e1k,S. Fofana,1
+A. Bar\u00e1k,Ali Adnan,1
+A. Bar\u00e1k,Maxi L\u00f3pez,1
+S. Fofana,Danilo,1
+Ali Adnan,S. Fofana,1
+A. Bar\u00e1k,Danilo,1
+Maxi L\u00f3pez,A. Bar\u00e1k,1
+V. Behrami,A. Bar\u00e1k,1
+S. Widmer,S. Fofana,1
+Maxi L\u00f3pez,S. Fofana,1
+Danilo,V. Behrami,1

@@ -1,0 +1,32 @@
+Source,Target,Weight
+C. Immobile,Lucas Leiva,3
+\u015e. Radu,A. Murgia,3
+M. C\u00e1ceres,M. Parolo,3
+Lucas Leiva,J. Lukaku,2
+M. Parolo,Lucas Leiva,2
+Lucas Leiva,A. Murgia,2
+J. Lukaku,\u015e. Radu,2
+A. Murgia,\u015e. Radu,2
+\u015e. Radu,C. Immobile,2
+A. Murgia,J. Lukaku,1
+J. Lukaku,M. C\u00e1ceres,1
+A. Murgia,S. de Vrij,1
+C. Immobile,M. C\u00e1ceres,1
+J. Lukaku,M. Parolo,1
+Lucas Leiva,C. Immobile,1
+A. Murgia,Luis Alberto,1
+M. Parolo,J. Lukaku,1
+M. Parolo,Luis Alberto,1
+C. Immobile,A. Murgia,1
+A. Murgia,C. Immobile,1
+Luis Alberto,A. Murgia,1
+Lucas Leiva,Luis Alberto,1
+Lucas Leiva,\u015e. Radu,1
+S. de Vrij,C. Immobile,1
+\u015e. Radu,Lucas Leiva,1
+Luis Alberto,Lucas Leiva,1
+Luis Alberto,M. Parolo,1
+M. Parolo,M. C\u00e1ceres,1
+Lucas Leiva,S. de Vrij,1
+S. de Vrij,\u015e. Radu,1
+A. Murgia,Lucas Leiva,1

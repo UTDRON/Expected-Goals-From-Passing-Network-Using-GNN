@@ -1,0 +1,13 @@
+Source,Target,Weight
+\u00c1lex Granell,Aday,2
+Muniesa,Borja Garc\u00eda,1
+Aday,Muniesa,1
+Aday,Pedro Alcal\u00e1,1
+Pedro Alcal\u00e1,Aday,1
+Borja Garc\u00eda,Aday,1
+Borja Garc\u00eda,\u00c1lex Granell,1
+Pedro Alcal\u00e1,Muniesa,1
+Aday,\u00c1lex Granell,1
+Bernardo Espinosa,Pedro Alcal\u00e1,1
+Muniesa,Bernardo Espinosa,1
+Aday,Borja Garc\u00eda,1

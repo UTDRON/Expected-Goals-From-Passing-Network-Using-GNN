@@ -1,0 +1,17 @@
+Source,Target,Weight
+A. Consigli,S. Missiroli,1
+M. Politano,D. Berardi,1
+F. Acerbi,A. Consigli,1
+A. Duncan,M. Politano,1
+F. Acerbi,Pol Lirola,1
+Pol Lirola,F. Peluso,1
+D. Berardi,A. Duncan,1
+F. Peluso,A. Consigli,1
+A. Consigli,F. Acerbi,1
+F. Acerbi,F. Peluso,1
+S. Missiroli,Pol Lirola,1
+A. Duncan,D. Berardi,1
+F. Peluso,F. Acerbi,1
+Pol Lirola,D. Berardi,1
+D. Berardi,M. Politano,1
+M. Politano,A. Duncan,1

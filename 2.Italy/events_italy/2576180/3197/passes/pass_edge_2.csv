@@ -1,0 +1,20 @@
+Source,Target,Weight
+F. Ricci,D. Faraoni,2
+R. Mandragora,D. Faraoni,1
+M. Capuano,F. Ceccherini,1
+M. Trotta,D. Faraoni,1
+F. Ceccherini,M. Trotta,1
+A. Cordaz,A. Nalini,1
+A. Barberis,M. Capuano,1
+D. Faraoni,F. Ceccherini,1
+A. Nalini,F. Ricci,1
+A. Barberis,A. Nalini,1
+F. Ricci,R. Mandragora,1
+D. Faraoni,F. Ricci,1
+D. Faraoni,A. Barberis,1
+D. Faraoni,A. Cordaz,1
+F. Ceccherini,F. Ricci,1
+A. Barberis,M. Trotta,1
+A. Nalini,A. Barberis,1
+F. Ricci,M. Trotta,1
+M. Trotta,A. Barberis,1

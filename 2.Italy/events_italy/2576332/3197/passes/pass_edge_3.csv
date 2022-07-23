@@ -1,0 +1,16 @@
+Source,Target,Weight
+A. Nalini,R. Mandragora,2
+R. Mandragora,Simy,2
+Simy,A. Cordaz,1
+F. Ceccherini,A. Nalini,1
+Simy,M. Trotta,1
+R. Mandragora,A. Nalini,1
+D. Faraoni,M. Trotta,1
+M. Trotta,R. Mandragora,1
+A. Barberis,R. Mandragora,1
+M. Trotta,Simy,1
+Simy,A. Barberis,1
+A. Cordaz,A. Nalini,1
+A. Nalini,M. Rohd\u00e9n,1
+M. Rohd\u00e9n,F. Ceccherini,1
+R. Mandragora,M. Rohd\u00e9n,1

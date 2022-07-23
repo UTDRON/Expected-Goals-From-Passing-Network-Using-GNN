@@ -1,0 +1,16 @@
+Source,Target,Weight
+M. Gazzola,M. Politano,2
+F. Acerbi,S. Missiroli,2
+D. Falcinelli,P. Cannavaro,1
+S. Sensi,F. Acerbi,1
+F. Peluso,D. Berardi,1
+M. Gazzola,S. Sensi,1
+S. Sensi,P. Cannavaro,1
+S. Missiroli,F. Peluso,1
+M. Politano,D. Falcinelli,1
+M. Politano,S. Missiroli,1
+S. Missiroli,M. Gazzola,1
+P. Cannavaro,F. Acerbi,1
+P. Cannavaro,M. Gazzola,1
+S. Missiroli,S. Sensi,1
+D. Berardi,D. Falcinelli,1

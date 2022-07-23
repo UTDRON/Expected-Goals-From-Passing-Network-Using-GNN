@@ -1,0 +1,30 @@
+Source,Target,Weight
+Pablo Sarabia,Ganso,2
+L. Muriel,Pablo Sarabia,2
+Ganso,L. Carole,2
+\u00c9. Banega,Ganso,2
+Pablo Sarabia,L. Carole,1
+Ganso,Pablo Sarabia,1
+W. Montoya,Ganso,1
+L. Carole,Daniel Carri\u00e7o,1
+C. Lenglet,L. Carole,1
+Daniel Carri\u00e7o,\u00c9. Banega,1
+L. Carole,Pablo Sarabia,1
+S. Corchia,Daniel Carri\u00e7o,1
+Pablo Sarabia,L. Muriel,1
+C. Lenglet,Pablo Sarabia,1
+S. N'Zonzi,C. Lenglet,1
+L. Carole,L. Muriel,1
+Pablo Sarabia,C. Lenglet,1
+\u00c9. Banega,S. Corchia,1
+L. Carole,\u00c9. Banega,1
+Daniel Carri\u00e7o,S. N'Zonzi,1
+Ganso,S. N'Zonzi,1
+S. N'Zonzi,\u00c9. Banega,1
+Ganso,\u00c9. Banega,1
+Daniel Carri\u00e7o,W. Montoya,1
+\u00c9. Banega,L. Muriel,1
+Pablo Sarabia,S. N'Zonzi,1
+L. Muriel,W. Montoya,1
+S. N'Zonzi,Pablo Sarabia,1
+W. Montoya,\u00c9. Banega,1

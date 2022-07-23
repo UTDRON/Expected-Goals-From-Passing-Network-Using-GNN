@@ -1,0 +1,37 @@
+Source,Target,Weight
+Nani,S. Milinkovi\u0107-Savi\u0107,4
+D. Basta,Wallace,4
+D. Basta,Nani,3
+M. Parolo,Wallace,3
+Wallace,D. Basta,3
+S. Milinkovi\u0107-Savi\u0107,Nani,2
+S. Milinkovi\u0107-Savi\u0107,S. de Vrij,2
+Lucas Leiva,J. Lukaku,2
+Wallace,S. Milinkovi\u0107-Savi\u0107,2
+Lucas Leiva,Nani,2
+Lucas Leiva,D. Basta,2
+J. Lukaku,Lucas Leiva,1
+J. Lukaku,S. Milinkovi\u0107-Savi\u0107,1
+\u015e. Radu,Lucas Leiva,1
+Felipe Anderson,Lucas Leiva,1
+S. de Vrij,Nani,1
+S. Milinkovi\u0107-Savi\u0107,Felipe Anderson,1
+Nani,\u015e. Radu,1
+M. Parolo,Felipe Anderson,1
+Nani,M. Parolo,1
+Wallace,Lucas Leiva,1
+Nani,Lucas Leiva,1
+Felipe Anderson,J. Lukaku,1
+S. de Vrij,M. Parolo,1
+J. Lukaku,Felipe Anderson,1
+Wallace,T. Strakosha,1
+Felipe Anderson,M. Parolo,1
+Nani,D. Basta,1
+\u015e. Radu,M. Parolo,1
+S. Milinkovi\u0107-Savi\u0107,M. Parolo,1
+M. Parolo,D. Basta,1
+D. Basta,M. Parolo,1
+S. Milinkovi\u0107-Savi\u0107,Lucas Leiva,1
+M. Parolo,S. de Vrij,1
+T. Strakosha,D. Basta,1
+S. de Vrij,\u015e. Radu,1

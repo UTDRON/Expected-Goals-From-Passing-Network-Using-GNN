@@ -1,0 +1,36 @@
+Source,Target,Weight
+D. Faraoni,A. Ajeti,3
+D. Faraoni,R. Mandragora,2
+A. Barberis,M. Rohd\u00e9n,2
+A. Ajeti,D. Faraoni,2
+M. Rohd\u00e9n,Simy,2
+A. Ajeti,F. Ceccherini,2
+R. Mandragora,A. Ajeti,2
+R. Mandragora,B. Martella,2
+M. Rohd\u00e9n,D. Faraoni,1
+M. Sampirisi,F. Ceccherini,1
+A. Ajeti,A. Cordaz,1
+Simy,D. Faraoni,1
+F. Ceccherini,A. Nalini,1
+D. Faraoni,A. Barberis,1
+M. Sampirisi,D. Faraoni,1
+B. Martella,M. Rohd\u00e9n,1
+A. Nalini,B. Martella,1
+A. Nalini,M. Rohd\u00e9n,1
+R. Mandragora,A. Nalini,1
+Simy,A. Barberis,1
+M. Rohd\u00e9n,R. Mandragora,1
+F. Ceccherini,M. Sampirisi,1
+A. Barberis,B. Martella,1
+M. Rohd\u00e9n,M. Sampirisi,1
+A. Cordaz,A. Nalini,1
+A. Ajeti,R. Mandragora,1
+B. Martella,A. Nalini,1
+B. Martella,F. Ceccherini,1
+A. Cordaz,D. Faraoni,1
+B. Martella,A. Cordaz,1
+F. Ceccherini,D. Faraoni,1
+F. Ceccherini,A. Ajeti,1
+D. Faraoni,M. Rohd\u00e9n,1
+A. Nalini,R. Mandragora,1
+M. Rohd\u00e9n,A. Barberis,1

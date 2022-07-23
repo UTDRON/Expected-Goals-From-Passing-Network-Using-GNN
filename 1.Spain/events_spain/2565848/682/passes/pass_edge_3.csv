@@ -1,0 +1,11 @@
+Source,Target,Weight
+Javi Fuego,Jaume Costa,2
+Jaume Costa,Pau Torres,1
+Jaume Costa,E. \u00dcnal,1
+C. Bacca,Trigueros,1
+Javi Fuego,C. Bacca,1
+Pau Torres,Sergio Asenjo,1
+E. \u00dcnal,Javi Fuego,1
+Pau Torres,Javi Fuego,1
+Trigueros,Pau Torres,1
+Sergio Asenjo,E. \u00dcnal,1

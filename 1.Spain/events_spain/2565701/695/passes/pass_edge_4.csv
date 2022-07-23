@@ -1,0 +1,75 @@
+Source,Target,Weight
+Jason,Pedro L\u00f3pez,8
+Jos\u00e9 Luis Morales,Luna,6
+Campa\u00f1a,Luna,6
+Pedro L\u00f3pez,Jason,5
+Luna,Jos\u00e9 Luis Morales,5
+Campa\u00f1a,Pedro L\u00f3pez,5
+E. \u00dcnal,Campa\u00f1a,5
+Campa\u00f1a,E. \u00dcnal,4
+Luna,E. \u00dcnal,4
+Pedro L\u00f3pez,Sergio Postigo,4
+Luna,Chema,4
+Sergio Postigo,Chema,3
+Jos\u00e9 Luis Morales,Campa\u00f1a,3
+Oier,Jos\u00e9 Luis Morales,3
+S. Luki\u0107,Sergio Postigo,3
+Luna,Campa\u00f1a,3
+S. Luki\u0107,Jos\u00e9 Luis Morales,3
+Pedro L\u00f3pez,J. Lerma,3
+J. Lerma,Pedro L\u00f3pez,3
+Chema,S. Luki\u0107,3
+Jos\u00e9 Luis Morales,S. Luki\u0107,3
+Jos\u00e9 Luis Morales,Jason,3
+S. Luki\u0107,J. Lerma,3
+Sergio Postigo,S. Luki\u0107,3
+Sergio Postigo,Oier,3
+E. \u00dcnal,Pedro L\u00f3pez,3
+Oier,E. \u00dcnal,2
+J. Lerma,Luna,2
+J. Lerma,S. Luki\u0107,2
+Jos\u00e9 Luis Morales,J. Lerma,2
+Chema,Luna,2
+Sergio Postigo,J. Lerma,2
+J. Lerma,Jos\u00e9 Luis Morales,2
+Jos\u00e9 Luis Morales,Sergio Postigo,2
+E. \u00dcnal,Jos\u00e9 Luis Morales,2
+J. Lerma,Jason,2
+Campa\u00f1a,Jason,2
+S. Luki\u0107,Oier,2
+Pedro L\u00f3pez,S. Luki\u0107,2
+Pedro L\u00f3pez,Oier,2
+Pedro L\u00f3pez,Campa\u00f1a,2
+Chema,Jos\u00e9 Luis Morales,2
+Oier,Campa\u00f1a,2
+Jason,J. Lerma,2
+J. Lerma,Campa\u00f1a,2
+S. Luki\u0107,Pedro L\u00f3pez,2
+S. Luki\u0107,E. \u00dcnal,1
+Jason,Luna,1
+Luna,S. Luki\u0107,1
+Pedro L\u00f3pez,Luna,1
+Jason,Campa\u00f1a,1
+E. \u00dcnal,S. Luki\u0107,1
+Campa\u00f1a,Sergio Postigo,1
+J. Lerma,Sergio Postigo,1
+Campa\u00f1a,S. Luki\u0107,1
+Pedro L\u00f3pez,E. \u00dcnal,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+Chema,Oier,1
+S. Luki\u0107,Luna,1
+E. \u00dcnal,Luna,1
+E. \u00dcnal,J. Lerma,1
+Chema,E. \u00dcnal,1
+Luna,Sergio Postigo,1
+Jason,E. \u00dcnal,1
+Luna,J. Lerma,1
+Luna,Jason,1
+Campa\u00f1a,Chema,1
+Chema,Campa\u00f1a,1
+Jason,Chema,1
+E. \u00dcnal,Jason,1
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,1
+Oier,Chema,1
+Sergio Postigo,Campa\u00f1a,1
+S. Luki\u0107,Jason,1

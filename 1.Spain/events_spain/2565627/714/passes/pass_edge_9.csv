@@ -1,0 +1,21 @@
+Source,Target,Weight
+A. Aquilani,Momo,2
+J. Calleri,A. Aquilani,2
+M\u00edchel,Hern\u00e1n,2
+Hern\u00e1n,O. Tannane,2
+Jonathan Viera,M\u00edchel,2
+Borja Herrera,A. Aquilani,1
+O. Tannane,Borja Herrera,1
+Momo,J. Calleri,1
+M\u00edchel,Jonathan Viera,1
+O. Tannane,A. Aquilani,1
+A. Aquilani,M\u00edchel,1
+A. Aquilani,Jonathan Viera,1
+Hern\u00e1n,A. Aquilani,1
+Borja Herrera,Hern\u00e1n,1
+Momo,Borja Herrera,1
+Hern\u00e1n,M\u00edchel,1
+Jonathan Viera,J. Calleri,1
+Borja Herrera,Jonathan Viera,1
+M\u00edchel,O. Tannane,1
+O. Tannane,Hern\u00e1n,1

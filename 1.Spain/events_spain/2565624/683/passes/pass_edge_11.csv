@@ -1,0 +1,58 @@
+Source,Target,Weight
+Luis Hern\u00e1ndez,R. Rosales,7
+R. Rosales,Luis Hern\u00e1ndez,7
+Luis Hern\u00e1ndez,A. Pe\u00f1aranda,5
+Luis Hern\u00e1ndez,P. Baysse,4
+P. Baysse,Luis Hern\u00e1ndez,3
+Jony,P. Baysse,3
+D. Rol\u00e1n,R. Rosales,3
+E. Rol\u00f3n,Luis Hern\u00e1ndez,3
+R. Rosales,Javi Ontiveros,3
+A. Pe\u00f1aranda,D. Rol\u00e1n,3
+D. Rol\u00e1n,Jony,3
+Jony,Luis Hern\u00e1ndez,2
+Javi Ontiveros,E. Rol\u00f3n,2
+Javi Ontiveros,Luis Hern\u00e1ndez,2
+P. Baysse,E. Rol\u00f3n,2
+R. Rosales,Recio,2
+P. Baysse,Javi Ontiveros,2
+P. Baysse,Juankar,2
+A. Pe\u00f1aranda,Recio,2
+Javi Ontiveros,Recio,2
+Jony,Juankar,2
+Juankar,E. Rol\u00f3n,2
+Juankar,Jony,2
+D. Rol\u00e1n,Luis Hern\u00e1ndez,1
+Recio,Roberto,1
+Luis Hern\u00e1ndez,E. Rol\u00f3n,1
+Recio,Javi Ontiveros,1
+R. Rosales,A. Pe\u00f1aranda,1
+Recio,Jony,1
+E. Rol\u00f3n,Juankar,1
+Jony,Javi Ontiveros,1
+E. Rol\u00f3n,R. Rosales,1
+E. Rol\u00f3n,P. Baysse,1
+Recio,Juankar,1
+Javi Ontiveros,D. Rol\u00e1n,1
+Recio,Luis Hern\u00e1ndez,1
+R. Rosales,D. Rol\u00e1n,1
+A. Pe\u00f1aranda,Luis Hern\u00e1ndez,1
+Luis Hern\u00e1ndez,Jony,1
+Recio,R. Rosales,1
+Luis Hern\u00e1ndez,Recio,1
+A. Pe\u00f1aranda,P. Baysse,1
+Recio,P. Baysse,1
+D. Rol\u00e1n,A. Pe\u00f1aranda,1
+Jony,D. Rol\u00e1n,1
+D. Rol\u00e1n,Recio,1
+Recio,D. Rol\u00e1n,1
+E. Rol\u00f3n,Jony,1
+Javi Ontiveros,R. Rosales,1
+Juankar,Javi Ontiveros,1
+Roberto,Jony,1
+A. Pe\u00f1aranda,Juankar,1
+A. Pe\u00f1aranda,R. Rosales,1
+Juankar,A. Pe\u00f1aranda,1
+Juankar,D. Rol\u00e1n,1
+Luis Hern\u00e1ndez,Javi Ontiveros,1
+P. Baysse,D. Rol\u00e1n,1

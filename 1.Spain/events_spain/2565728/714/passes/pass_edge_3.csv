@@ -1,0 +1,44 @@
+Source,Target,Weight
+Momo,Ximo Navarro,6
+Jonathan Viera,Momo,5
+Momo,Jonathan Viera,4
+G. Pe\u00f1alba,Momo,3
+David Garc\u00eda,Momo,3
+Ximo Navarro,Jonathan Viera,3
+G\u00e1lvez,Momo,3
+Momo,G. Pe\u00f1alba,2
+Jairo Samperio,Jonathan Viera,2
+Jonathan Viera,Ximo Navarro,2
+G\u00e1lvez,David Garc\u00eda,2
+Jairo Samperio,Momo,2
+Momo,G\u00e1lvez,2
+Jonathan Viera,A. Halilovi\u0107,2
+G. Pe\u00f1alba,Jonathan Viera,2
+A. Halilovi\u0107,Jonathan Viera,2
+Ximo Navarro,G. Pe\u00f1alba,2
+Ximo Navarro,Jairo Samperio,2
+David Garc\u00eda,G. Pe\u00f1alba,2
+Momo,A. Halilovi\u0107,2
+Jonathan Viera,David Garc\u00eda,2
+Jonathan Viera,J. Calleri,1
+A. Halilovi\u0107,Jairo Samperio,1
+Ximo Navarro,G\u00e1lvez,1
+Momo,David Garc\u00eda,1
+Momo,J. Calleri,1
+Ximo Navarro,Momo,1
+G\u00e1lvez,H. Toledo,1
+Jairo Samperio,G\u00e1lvez,1
+Ximo Navarro,J. Calleri,1
+J. Calleri,Momo,1
+Jonathan Viera,G\u00e1lvez,1
+H. Toledo,Momo,1
+Jairo Samperio,David Garc\u00eda,1
+G. Pe\u00f1alba,David Garc\u00eda,1
+J. Calleri,Jonathan Viera,1
+Jonathan Viera,Jairo Samperio,1
+J. Calleri,G\u00e1lvez,1
+David Garc\u00eda,Jairo Samperio,1
+H. Toledo,Jairo Samperio,1
+David Garc\u00eda,G\u00e1lvez,1
+A. Halilovi\u0107,Ximo Navarro,1
+Momo,H. Toledo,1

@@ -1,0 +1,20 @@
+Source,Target,Weight
+D. Dainelli,M. Bani,2
+M. Bani,M. Pucciarelli,2
+F. Cacciatore,P. Hetemaj,2
+P. Hetemaj,F. Cacciatore,2
+L. Castro,F. Cacciatore,1
+M. Bani,D. Dainelli,1
+M. Pucciarelli,M. Bani,1
+R. Inglese,P. Jaroszy\u0144ski,1
+I. Radovanovi\u0107,L. Castro,1
+P. Hetemaj,D. Dainelli,1
+M. Pucciarelli,P. Jaroszy\u0144ski,1
+P. Jaroszy\u0144ski,D. Dainelli,1
+F. Cacciatore,R. Inglese,1
+F. Cacciatore,R. Meggiorini,1
+M. Bani,F. Cacciatore,1
+D. Dainelli,F. Cacciatore,1
+P. Jaroszy\u0144ski,P. Hetemaj,1
+R. Meggiorini,P. Jaroszy\u0144ski,1
+F. Cacciatore,I. Radovanovi\u0107,1

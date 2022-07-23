@@ -1,0 +1,16 @@
+Source,Target,Weight
+G. Mercado,Sergio Rico,2
+Jes\u00fas Navas,G. Mercado,2
+G. Mercado,Jes\u00fas Navas,1
+Pablo Sarabia,Jes\u00fas Navas,1
+S. N'Zonzi,G. Pizarro,1
+C. Lenglet,G. Pizarro,1
+G. Pizarro,Jes\u00fas Navas,1
+G. Mercado,S. N'Zonzi,1
+G. Pizarro,G. Mercado,1
+G. Mercado,G. Pizarro,1
+Sergio Rico,G. Mercado,1
+Jes\u00fas Navas,Pablo Sarabia,1
+Sergio Rico,Pablo Sarabia,1
+Pablo Sarabia,G. Mercado,1
+G. Pizarro,W. Ben Yedder,1

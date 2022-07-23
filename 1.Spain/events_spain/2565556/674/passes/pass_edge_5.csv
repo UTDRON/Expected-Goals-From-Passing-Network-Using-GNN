@@ -1,0 +1,10 @@
+Source,Target,Weight
+S. Zaza,Medr\u00e1n,1
+S. Zaza,Rodrigo,1
+E. Garay,S. Zaza,1
+Medr\u00e1n,Rodrigo,1
+Carlos Soler,S. Zaza,1
+Nacho Vidal,S. Zaza,1
+Dani Parejo,Nacho Vidal,1
+Rodrigo,Dani Parejo,1
+Rodrigo,Carlos Soler,1

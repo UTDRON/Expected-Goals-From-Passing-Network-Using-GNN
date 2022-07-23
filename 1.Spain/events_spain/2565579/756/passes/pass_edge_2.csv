@@ -1,0 +1,75 @@
+Source,Target,Weight
+Portu,Aday,9
+Aday,Portu,6
+Juanpe,Pere Pons,4
+\u00c1lex Granell,J. Mojica,4
+Bernardo Espinosa,Muniesa,4
+Aday,C. Stuani,4
+\u00c1lex Granell,Portu,3
+Pere Pons,Aday,3
+Aday,\u00c1lex Granell,3
+J. Mojica,\u00c1lex Granell,3
+\u00c1lex Granell,Aday,3
+J. Mojica,Muniesa,3
+Pere Pons,J. Mojica,3
+Borja Garc\u00eda,J. Mojica,3
+J. Mojica,Pere Pons,3
+Bernardo Espinosa,\u00c1lex Granell,2
+\u00c1lex Granell,Pere Pons,2
+Juanpe,Portu,2
+Aday,Muniesa,2
+C. Stuani,Portu,2
+Muniesa,J. Mojica,2
+Juanpe,Bernardo Espinosa,2
+\u00c1lex Granell,Bernardo Espinosa,2
+Portu,Juanpe,2
+Muniesa,C. Stuani,2
+Borja Garc\u00eda,\u00c1lex Granell,2
+Iraizoz,Juanpe,2
+C. Stuani,Juanpe,2
+Borja Garc\u00eda,C. Stuani,2
+Juanpe,Iraizoz,2
+C. Stuani,Aday,2
+Pere Pons,Iraizoz,2
+J. Mojica,Juanpe,2
+Pere Pons,Portu,2
+Muniesa,Borja Garc\u00eda,2
+Iraizoz,C. Stuani,2
+C. Stuani,\u00c1lex Granell,2
+Bernardo Espinosa,Juanpe,2
+Iraizoz,Pere Pons,2
+Borja Garc\u00eda,Pere Pons,2
+Muniesa,Iraizoz,2
+Iraizoz,Bernardo Espinosa,2
+C. Stuani,Borja Garc\u00eda,2
+Pere Pons,\u00c1lex Granell,2
+Portu,Iraizoz,2
+Pere Pons,Bernardo Espinosa,2
+C. Stuani,J. Mojica,1
+Bernardo Espinosa,Aday,1
+Muniesa,Bernardo Espinosa,1
+Bernardo Espinosa,Iraizoz,1
+Pere Pons,Borja Garc\u00eda,1
+Pere Pons,C. Stuani,1
+J. Mojica,Bernardo Espinosa,1
+Portu,J. Mojica,1
+Aday,Pere Pons,1
+J. Mojica,C. Stuani,1
+Muniesa,Juanpe,1
+Juanpe,Muniesa,1
+Aday,Bernardo Espinosa,1
+Aday,Iraizoz,1
+C. Stuani,Pere Pons,1
+Iraizoz,Aday,1
+Portu,\u00c1lex Granell,1
+Bernardo Espinosa,J. Mojica,1
+J. Mojica,Portu,1
+Bernardo Espinosa,Borja Garc\u00eda,1
+Iraizoz,Muniesa,1
+Juanpe,Borja Garc\u00eda,1
+Juanpe,Aday,1
+\u00c1lex Granell,Juanpe,1
+Muniesa,Pere Pons,1
+Aday,Borja Garc\u00eda,1
+Aday,Juanpe,1
+Portu,Bernardo Espinosa,1

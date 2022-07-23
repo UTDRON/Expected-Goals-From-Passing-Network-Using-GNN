@@ -1,0 +1,40 @@
+Source,Target,Weight
+Iv\u00e1n Alejo,Ramis,2
+Paulo Oliveira,Sergi Enrich,2
+Kike Garc\u00eda,T. Inui,2
+Ramis,M. Dmitrovi\u0107,2
+Ander Capa,Sergi Enrich,2
+Ander Capa,Iv\u00e1n Alejo,2
+Sergi Enrich,Ander Capa,2
+Paulo Oliveira,Iv\u00e1n Alejo,2
+Iv\u00e1n Alejo,Ander Capa,2
+M. Dmitrovi\u0107,Rub\u00e9n Pe\u00f1a,2
+Ander Capa,Paulo Oliveira,2
+Iv\u00e1n Alejo,Jos\u00e9 \u00c1ngel,1
+Ander Capa,Dani Garc\u00eda,1
+Kike Garc\u00eda,Iv\u00e1n Alejo,1
+Jos\u00e9 \u00c1ngel,Kike Garc\u00eda,1
+Ramis,Kike Garc\u00eda,1
+T. Inui,Joan Jord\u00e1n,1
+Rub\u00e9n Pe\u00f1a,Paulo Oliveira,1
+Paulo Oliveira,M. Dmitrovi\u0107,1
+Ramis,Paulo Oliveira,1
+Rub\u00e9n Pe\u00f1a,Kike Garc\u00eda,1
+Joan Jord\u00e1n,Rub\u00e9n Pe\u00f1a,1
+Jos\u00e9 \u00c1ngel,Joan Jord\u00e1n,1
+Joan Jord\u00e1n,Ramis,1
+T. Inui,Iv\u00e1n Alejo,1
+Rub\u00e9n Pe\u00f1a,Iv\u00e1n Alejo,1
+Jos\u00e9 \u00c1ngel,Ramis,1
+Ramis,Ander Capa,1
+Iv\u00e1n Alejo,Joan Jord\u00e1n,1
+Ander Capa,Jos\u00e9 \u00c1ngel,1
+Paulo Oliveira,Ander Capa,1
+Iv\u00e1n Alejo,Paulo Oliveira,1
+Rub\u00e9n Pe\u00f1a,Dani Garc\u00eda,1
+M. Dmitrovi\u0107,Ramis,1
+Dani Garc\u00eda,Ander Capa,1
+Sergi Enrich,Paulo Oliveira,1
+Dani Garc\u00eda,Rub\u00e9n Pe\u00f1a,1
+Joan Jord\u00e1n,T. Inui,1
+Sergi Enrich,Jos\u00e9 \u00c1ngel,1

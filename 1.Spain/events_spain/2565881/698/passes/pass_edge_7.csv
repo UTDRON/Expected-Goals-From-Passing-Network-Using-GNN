@@ -1,0 +1,43 @@
+Source,Target,Weight
+Molinero,F. Fajr,4
+F. Fajr,M. Flamini,3
+M. Olivera,F. Fajr,3
+F. Fajr,Djen\u00e9,2
+F. Fajr,Molinero,2
+D. Su\u00e1rez,Molinero,2
+Barri,Molinero,2
+F. Fajr,L. Cabrera,2
+\u00c1ngel,Antunes,1
+Antunes,F. Fajr,1
+L. Cabrera,Barri,1
+M. Flamini,Djen\u00e9,1
+Molinero,Bruno,1
+Djen\u00e9,Antunes,1
+Barri,\u00c1ngel,1
+D. Su\u00e1rez,F. Fajr,1
+Molinero,Barri,1
+Djen\u00e9,\u00c1ngel,1
+D. Su\u00e1rez,M. Olivera,1
+F. Fajr,D. Su\u00e1rez,1
+M. Flamini,D. Su\u00e1rez,1
+Djen\u00e9,Molinero,1
+Bruno,Molinero,1
+Molinero,\u00c1ngel,1
+L. Cabrera,Bruno,1
+\u00c1ngel,Molinero,1
+M. Flamini,Molinero,1
+Molinero,Guaita,1
+Molinero,L. Cabrera,1
+F. Fajr,M. Olivera,1
+Antunes,Molinero,1
+Molinero,M. Flamini,1
+Barri,F. Fajr,1
+Bruno,Antunes,1
+Molinero,D. Su\u00e1rez,1
+M. Flamini,F. Fajr,1
+L. Cabrera,M. Olivera,1
+M. Olivera,Bruno,1
+Bruno,D. Su\u00e1rez,1
+Djen\u00e9,M. Olivera,1
+Antunes,Barri,1
+Guaita,Djen\u00e9,1

@@ -1,0 +1,78 @@
+Source,Target,Weight
+Juan Jesus,S. El Shaarawy,11
+S. El Shaarawy,Juan Jesus,7
+F. Fazio,Juan Jesus,6
+E. D\u017eeko,Juan Jesus,5
+K. Manolas,Bruno Peres,4
+R. Nainggolan,Bruno Peres,4
+Juan Jesus,R. Nainggolan,4
+K. Strootman,Bruno Peres,4
+Bruno Peres,K. Strootman,4
+Bruno Peres,R. Nainggolan,4
+Juan Jesus,E. D\u017eeko,4
+M. Gonalons,K. Strootman,3
+Alisson,F. Fazio,3
+Juan Jesus,K. Strootman,3
+E. D\u017eeko,M. Gonalons,3
+K. Manolas,K. Strootman,3
+M. Gonalons,Juan Jesus,3
+E. D\u017eeko,Bruno Peres,3
+K. Manolas,Alisson,3
+K. Strootman,M. Gonalons,3
+M. Gonalons,R. Nainggolan,3
+S. El Shaarawy,K. Manolas,3
+S. El Shaarawy,M. Gonalons,3
+Bruno Peres,M. Gonalons,2
+Bruno Peres,F. Fazio,2
+K. Strootman,F. Fazio,2
+S. El Shaarawy,K. Strootman,2
+K. Strootman,K. Manolas,2
+R. Nainggolan,S. El Shaarawy,2
+F. Fazio,Bruno Peres,2
+Bruno Peres,K. Manolas,2
+Bruno Peres,G. Defrel,2
+Juan Jesus,F. Fazio,2
+Bruno Peres,E. D\u017eeko,2
+K. Manolas,F. Fazio,2
+K. Strootman,Juan Jesus,2
+R. Nainggolan,M. Gonalons,2
+M. Gonalons,K. Manolas,2
+K. Strootman,E. D\u017eeko,2
+K. Strootman,S. El Shaarawy,2
+R. Nainggolan,G. Defrel,2
+R. Nainggolan,K. Manolas,2
+R. Nainggolan,E. D\u017eeko,2
+S. El Shaarawy,E. D\u017eeko,2
+S. El Shaarawy,R. Nainggolan,2
+Bruno Peres,Juan Jesus,1
+M. Gonalons,E. D\u017eeko,1
+E. D\u017eeko,R. Nainggolan,1
+R. Nainggolan,F. Fazio,1
+E. D\u017eeko,S. El Shaarawy,1
+M. Gonalons,F. Fazio,1
+F. Fazio,K. Strootman,1
+S. El Shaarawy,F. Fazio,1
+G. Defrel,Bruno Peres,1
+R. Nainggolan,Juan Jesus,1
+K. Manolas,M. Gonalons,1
+F. Fazio,R. Nainggolan,1
+Alisson,Bruno Peres,1
+Bruno Peres,S. El Shaarawy,1
+G. Defrel,K. Strootman,1
+F. Fazio,E. D\u017eeko,1
+K. Manolas,E. D\u017eeko,1
+G. Defrel,R. Nainggolan,1
+M. Gonalons,Alisson,1
+R. Nainggolan,K. Strootman,1
+E. D\u017eeko,K. Manolas,1
+M. Gonalons,Bruno Peres,1
+Alisson,K. Manolas,1
+F. Fazio,K. Manolas,1
+Juan Jesus,K. Manolas,1
+K. Strootman,Alisson,1
+K. Manolas,R. Nainggolan,1
+F. Fazio,S. El Shaarawy,1
+Juan Jesus,M. Gonalons,1
+M. Gonalons,S. El Shaarawy,1
+F. Fazio,M. Gonalons,1
+G. Defrel,Juan Jesus,1

@@ -1,0 +1,25 @@
+Source,Target,Weight
+A. Masina,R. Palacio,4
+R. Palacio,F. Di Francesco,2
+S. Ta\u00efder,A. Masina,2
+R. Palacio,A. Masina,2
+A. Poli,R. Palacio,2
+E. Pulgar,A. Masina,2
+A. Masina,E. Pulgar,2
+F. Di Francesco,A. Poli,2
+A. Poli,S. Verdi,1
+E. Krafth,S. Ta\u00efder,1
+R. Palacio,E. Krafth,1
+A. Masina,S. Ta\u00efder,1
+F. Di Francesco,A. Mirante,1
+S. Verdi,A. Masina,1
+A. Mirante,A. Masina,1
+A. Poli,G. Gonz\u00e1lez,1
+G. Gonz\u00e1lez,A. Poli,1
+E. Pulgar,S. Ta\u00efder,1
+R. Palacio,S. Ta\u00efder,1
+E. Krafth,A. Poli,1
+S. Ta\u00efder,E. Pulgar,1
+A. Masina,F. Di Francesco,1
+S. Ta\u00efder,F. Di Francesco,1
+F. Di Francesco,E. Pulgar,1

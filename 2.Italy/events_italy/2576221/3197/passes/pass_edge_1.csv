@@ -1,0 +1,16 @@
+Source,Target,Weight
+F. Ceccherini,A. Barberis,2
+A. Barberis,D. Pavlovic,1
+D. Faraoni,A. Barberis,1
+M. Sampirisi,A. Benali,1
+A. Barberis,Simy,1
+A. Benali,A. Ajeti,1
+A. Ajeti,Simy,1
+A. Barberis,F. Ceccherini,1
+A. Benali,M. Rohd\u00e9n,1
+M. Rohd\u00e9n,F. Ceccherini,1
+D. Pavlovic,D. Faraoni,1
+Simy,M. Sampirisi,1
+D. Faraoni,M. Trotta,1
+M. Trotta,D. Faraoni,1
+Simy,D. Pavlovic,1

@@ -1,0 +1,26 @@
+Source,Target,Weight
+L. Venuti,L. Del Pinto,2
+D. Cataldi,G. Letizia,2
+G. Pu\u015fca\u015f,L. Venuti,1
+A. Costa,D. Cataldi,1
+D. Cataldi,G. Pu\u015fca\u015f,1
+L. Del Pinto,L. Venuti,1
+F. Lucioni,D. Cataldi,1
+F. Lucioni,M. Coda,1
+M. D'Alessandro,G. Pu\u015fca\u015f,1
+L. Del Pinto,F. Lucioni,1
+L. Del Pinto,D. Cataldi,1
+L. Venuti,F. Lucioni,1
+G. Letizia,M. D'Alessandro,1
+G. Pu\u015fca\u015f,L. Del Pinto,1
+F. Lucioni,L. Venuti,1
+G. Letizia,A. Costa,1
+L. Del Pinto,A. Ciciretti,1
+A. Ciciretti,F. Lucioni,1
+M. D'Alessandro,D. Cataldi,1
+L. Venuti,A. Ciciretti,1
+A. Costa,F. Lucioni,1
+A. Ciciretti,A. Costa,1
+M. Coda,G. Pu\u015fca\u015f,1
+D. Cataldi,L. Del Pinto,1
+F. Lucioni,M. D'Alessandro,1

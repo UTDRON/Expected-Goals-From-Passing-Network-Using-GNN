@@ -1,0 +1,38 @@
+Source,Target,Weight
+\u00c1lvaro Gonz\u00e1lez,Trigueros,3
+Jaume Costa,\u00c1lvaro Gonz\u00e1lez,3
+Rodri,\u00c1lvaro Gonz\u00e1lez,3
+Trigueros,Jaume Costa,2
+Mario,\u00c1lvaro Gonz\u00e1lez,2
+\u00c1lvaro Gonz\u00e1lez,Pablo Fornals,2
+\u00c1lvaro Gonz\u00e1lez,Rodri,2
+E. \u00dcnal,D. Cheryshev,2
+D. Bonera,\u00c1lvaro Gonz\u00e1lez,2
+Jaume Costa,E. \u00dcnal,2
+\u00c1lvaro Gonz\u00e1lez,D. Bonera,2
+\u00c1lvaro Gonz\u00e1lez,Jaume Costa,1
+Sergio Asenjo,\u00c1lvaro Gonz\u00e1lez,1
+Pablo Fornals,Trigueros,1
+Pablo Fornals,Jaume Costa,1
+Trigueros,Pablo Fornals,1
+Mario,Rodri,1
+Pablo Fornals,Rodri,1
+Trigueros,Rodri,1
+Trigueros,D. Bonera,1
+Rodri,Sergio Asenjo,1
+Rodri,Jaume Costa,1
+Samu Castillejo,D. Cheryshev,1
+Mario,Samu Castillejo,1
+Trigueros,Mario,1
+D. Cheryshev,Jaume Costa,1
+Samu Castillejo,Pablo Fornals,1
+Jaume Costa,Trigueros,1
+\u00c1lvaro Gonz\u00e1lez,E. \u00dcnal,1
+D. Cheryshev,Rodri,1
+E. \u00dcnal,Rodri,1
+Rodri,Mario,1
+D. Cheryshev,Trigueros,1
+Rodri,Trigueros,1
+D. Cheryshev,Samu Castillejo,1
+Trigueros,D. Cheryshev,1
+D. Bonera,Mario,1

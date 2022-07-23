@@ -1,0 +1,26 @@
+Source,Target,Weight
+A. Duncan,F. Acerbi,2
+E. Goldaniga,A. Consigli,1
+A. Duncan,D. Berardi,1
+F. Acerbi,D. Berardi,1
+F. Peluso,D. Falcinelli,1
+A. Duncan,M. Politano,1
+F. Acerbi,F. Peluso,1
+F. Magnanelli,F. Peluso,1
+D. Berardi,D. Falcinelli,1
+D. Berardi,F. Acerbi,1
+A. Consigli,F. Acerbi,1
+M. Politano,D. Falcinelli,1
+D. Berardi,Pol Lirola,1
+F. Acerbi,Pol Lirola,1
+D. Falcinelli,D. Berardi,1
+Pol Lirola,E. Goldaniga,1
+D. Falcinelli,M. Politano,1
+D. Berardi,F. Magnanelli,1
+F. Acerbi,F. Magnanelli,1
+Pol Lirola,A. Duncan,1
+M. Politano,F. Peluso,1
+F. Magnanelli,F. Acerbi,1
+F. Peluso,A. Duncan,1
+F. Acerbi,A. Duncan,1
+F. Peluso,D. Berardi,1

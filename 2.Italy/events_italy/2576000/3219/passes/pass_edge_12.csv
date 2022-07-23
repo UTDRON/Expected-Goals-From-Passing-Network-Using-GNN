@@ -1,0 +1,36 @@
+Source,Target,Weight
+G. Letizia,D. Cataldi,4
+F. Lucioni,G. Di Chiara,3
+D. Cataldi,R. Chibsah,2
+G. Di Chiara,F. Lucioni,2
+R. Chibsah,L. Memushaj,2
+D. Cataldi,L. Memushaj,2
+G. Letizia,L. Venuti,2
+L. Venuti,G. Letizia,2
+G. Pu\u015fca\u015f,G. Letizia,2
+L. Memushaj,D. Cataldi,2
+G. Di Chiara,V. Parigini,2
+L. Memushaj,G. Letizia,2
+G. Di Chiara,L. Memushaj,2
+V. Belec,G. Letizia,2
+V. Belec,G. Di Chiara,1
+F. Lucioni,L. Memushaj,1
+F. Lucioni,L. Venuti,1
+V. Belec,G. Pu\u015fca\u015f,1
+G. Di Chiara,R. Chibsah,1
+G. Letizia,F. Lucioni,1
+D. Cataldi,F. Lucioni,1
+V. Parigini,V. Belec,1
+L. Venuti,V. Belec,1
+G. Pu\u015fca\u015f,F. Lucioni,1
+L. Memushaj,G. Pu\u015fca\u015f,1
+L. Venuti,F. Lucioni,1
+L. Memushaj,L. Venuti,1
+G. Letizia,V. Belec,1
+G. Letizia,G. Pu\u015fca\u015f,1
+V. Parigini,G. Di Chiara,1
+L. Memushaj,G. Di Chiara,1
+F. Lucioni,D. Cataldi,1
+D. Cataldi,G. Di Chiara,1
+F. Lucioni,G. Letizia,1
+R. Chibsah,F. Lucioni,1

@@ -1,0 +1,13 @@
+Source,Target,Weight
+Luna,Chema,3
+Luna,Ivi,2
+J. Lerma,Luna,2
+Sergio Postigo,J. Lerma,1
+Ivi,J. Lerma,1
+Ivi,Nano,1
+Chema,Ivi,1
+Chema,Sergio Postigo,1
+Campa\u00f1a,Luna,1
+Chema,Luna,1
+Luna,Campa\u00f1a,1
+Ivi,Luna,1

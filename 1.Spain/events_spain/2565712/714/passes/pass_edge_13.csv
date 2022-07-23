@@ -1,0 +1,53 @@
+Source,Target,Weight
+A. Aquilani,David Sim\u00f3n,7
+David Sim\u00f3n,A. Aquilani,5
+David Sim\u00f3n,Javi Castellano,4
+A. Aquilani,Jonathan Viera,3
+Jonathan Viera,A. Aquilani,3
+Ximo Navarro,A. Aquilani,3
+H. Toledo,David Sim\u00f3n,3
+Javi Castellano,Dani Castellano,2
+David Sim\u00f3n,Dani Castellano,2
+Javi Castellano,Jonathan Viera,2
+Bigas,Ximo Navarro,2
+L. R\u00e9my,A. Aquilani,2
+Jonathan Viera,Javi Castellano,2
+David Sim\u00f3n,Jonathan Viera,2
+Dani Castellano,Bigas,2
+Javi Castellano,David Sim\u00f3n,2
+Javi Castellano,H. Toledo,1
+Dani Castellano,Jonathan Viera,1
+A. Aquilani,Dani Castellano,1
+Ra\u00fal Lizo\u00e1in,A. Aquilani,1
+Bigas,A. Aquilani,1
+Bigas,Jonathan Viera,1
+David Sim\u00f3n,H. Toledo,1
+Dani Castellano,L. R\u00e9my,1
+Bigas,H. Toledo,1
+Jonathan Viera,Ra\u00fal Lizo\u00e1in,1
+Bigas,David Sim\u00f3n,1
+A. Aquilani,Ra\u00fal Lizo\u00e1in,1
+A. Aquilani,Javi Castellano,1
+Ra\u00fal Lizo\u00e1in,J. Calleri,1
+Ximo Navarro,David Sim\u00f3n,1
+Jonathan Viera,J. Calleri,1
+A. Aquilani,Ximo Navarro,1
+H. Toledo,Jonathan Viera,1
+H. Toledo,A. Aquilani,1
+Javi Castellano,Bigas,1
+L. R\u00e9my,H. Toledo,1
+L. R\u00e9my,Javi Castellano,1
+Javi Castellano,Ra\u00fal Lizo\u00e1in,1
+H. Toledo,Javi Castellano,1
+David Sim\u00f3n,L. R\u00e9my,1
+A. Aquilani,L. R\u00e9my,1
+Dani Castellano,Ximo Navarro,1
+J. Calleri,David Sim\u00f3n,1
+Javi Castellano,L. R\u00e9my,1
+Jonathan Viera,Ximo Navarro,1
+Ra\u00fal Lizo\u00e1in,Bigas,1
+Ximo Navarro,H. Toledo,1
+J. Calleri,H. Toledo,1
+Jonathan Viera,Dani Castellano,1
+Jonathan Viera,Bigas,1
+A. Aquilani,Bigas,1

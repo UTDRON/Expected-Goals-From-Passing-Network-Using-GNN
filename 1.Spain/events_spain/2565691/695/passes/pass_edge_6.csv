@@ -1,0 +1,52 @@
+Source,Target,Weight
+Sergio Postigo,To\u00f1o,3
+To\u00f1o,Chema,3
+S. Moore,E. Boateng,3
+Campa\u00f1a,E. Bardhi,3
+E. Bardhi,Sergio Postigo,2
+Chema,E. Boateng,2
+Jason,S. Moore,2
+S. Moore,Campa\u00f1a,2
+Campa\u00f1a,To\u00f1o,2
+E. Boateng,Campa\u00f1a,2
+To\u00f1o,E. Bardhi,2
+S. Moore,E. Bardhi,2
+E. \u00dcnal,Campa\u00f1a,2
+E. Bardhi,S. Moore,2
+Ivi,E. Bardhi,2
+Sergio Postigo,Jos\u00e9 Luis Morales,2
+Campa\u00f1a,Sergio Postigo,2
+E. Bardhi,Ivi,2
+E. Boateng,E. Bardhi,2
+E. Bardhi,Chema,2
+Jos\u00e9 Luis Morales,Campa\u00f1a,2
+Chema,Sergio Postigo,2
+E. Boateng,Chema,1
+E. Bardhi,Campa\u00f1a,1
+E. Bardhi,Jos\u00e9 Luis Morales,1
+Jason,E. Boateng,1
+Ivi,Campa\u00f1a,1
+Jos\u00e9 Luis Morales,E. \u00dcnal,1
+Oier,E. Boateng,1
+Campa\u00f1a,S. Moore,1
+Sergio Postigo,Campa\u00f1a,1
+E. Boateng,S. Moore,1
+Chema,Ivi,1
+E. Boateng,Jos\u00e9 Luis Morales,1
+Sergio Postigo,S. Moore,1
+Campa\u00f1a,Oier,1
+Oier,Sergio Postigo,1
+Jos\u00e9 Luis Morales,E. Bardhi,1
+Chema,To\u00f1o,1
+Jos\u00e9 Luis Morales,S. Moore,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+To\u00f1o,Jos\u00e9 Luis Morales,1
+E. Bardhi,To\u00f1o,1
+S. Moore,Jason,1
+Sergio Postigo,Chema,1
+E. Bardhi,Jason,1
+To\u00f1o,E. Boateng,1
+E. Bardhi,E. \u00dcnal,1
+Jos\u00e9 Luis Morales,Sergio Postigo,1
+Campa\u00f1a,Jason,1
+Chema,Oier,1

@@ -1,0 +1,97 @@
+Source,Target,Weight
+Jason,Coke,8
+Luna,Jason,6
+Jason,Luna,5
+Sergio Postigo,C. Doukour\u00e9,5
+Chema,Oier,5
+Oier,Jason,5
+Luna,Chema,4
+C. Doukour\u00e9,Chema,4
+Campa\u00f1a,Chema,4
+C. Doukour\u00e9,Jason,4
+Jason,Campa\u00f1a,4
+Chema,Jason,4
+Chema,Jos\u00e9 Luis Morales,3
+Coke,Chema,3
+Coke,Jason,3
+Jason,Sergio Postigo,3
+C. Doukour\u00e9,Luna,3
+Sergio Postigo,Jos\u00e9 Luis Morales,3
+Jason,C. Doukour\u00e9,3
+Luna,Jos\u00e9 Luis Morales,3
+Jos\u00e9 Luis Morales,Sergio Postigo,3
+Coke,C. Doukour\u00e9,3
+Campa\u00f1a,Luna,3
+Chema,Campa\u00f1a,3
+Jos\u00e9 Luis Morales,Luna,3
+Luna,G. Pazzini,2
+Sergio Postigo,Campa\u00f1a,2
+S. Luki\u0107,Coke,2
+Sergio Postigo,Oier,2
+G. Pazzini,Jason,2
+Oier,Campa\u00f1a,2
+C. Doukour\u00e9,Sergio Postigo,2
+Oier,Chema,2
+Roger,Jason,2
+Chema,Sergio Postigo,2
+Jos\u00e9 Luis Morales,C. Doukour\u00e9,2
+Jason,S. Luki\u0107,2
+Roger,C. Doukour\u00e9,2
+Campa\u00f1a,Roger,2
+Coke,Sergio Postigo,2
+Sergio Postigo,Coke,2
+Rub\u00e9n Rochina,Jason,2
+Jason,Rub\u00e9n Rochina,2
+C. Doukour\u00e9,Coke,2
+Luna,Oier,2
+Luna,Sergio Postigo,2
+G. Pazzini,Coke,2
+Coke,Campa\u00f1a,2
+Coke,G. Pazzini,2
+Oier,E. Boateng,1
+S. Luki\u0107,Oier,1
+C. Doukour\u00e9,Roger,1
+E. Boateng,Roger,1
+Rub\u00e9n Rochina,C. Doukour\u00e9,1
+Jason,Oier,1
+Campa\u00f1a,Oier,1
+S. Luki\u0107,Jason,1
+G. Pazzini,Sergio Postigo,1
+Roger,Rub\u00e9n Rochina,1
+Campa\u00f1a,Jason,1
+Coke,Luna,1
+Jos\u00e9 Luis Morales,Chema,1
+Jason,Jos\u00e9 Luis Morales,1
+Chema,Coke,1
+Roger,Campa\u00f1a,1
+Oier,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,Roger,1
+Jos\u00e9 Luis Morales,Oier,1
+Luna,C. Doukour\u00e9,1
+Jos\u00e9 Luis Morales,Jason,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+E. Boateng,Luna,1
+Oier,G. Pazzini,1
+Coke,Jos\u00e9 Luis Morales,1
+C. Doukour\u00e9,Jos\u00e9 Luis Morales,1
+Roger,E. Boateng,1
+Jason,Roger,1
+Chema,S. Luki\u0107,1
+Sergio Postigo,Luna,1
+G. Pazzini,Luna,1
+Campa\u00f1a,S. Luki\u0107,1
+Oier,Sergio Postigo,1
+Jason,G. Pazzini,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+Campa\u00f1a,Coke,1
+G. Pazzini,Chema,1
+Coke,Oier,1
+C. Doukour\u00e9,Rub\u00e9n Rochina,1
+Oier,Luna,1
+Sergio Postigo,S. Luki\u0107,1
+Campa\u00f1a,G. Pazzini,1
+Chema,Luna,1
+S. Luki\u0107,Chema,1
+G. Pazzini,Roger,1
+Jos\u00e9 Luis Morales,G. Pazzini,1
+S. Luki\u0107,C. Doukour\u00e9,1

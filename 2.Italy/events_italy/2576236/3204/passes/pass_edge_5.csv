@@ -1,0 +1,94 @@
+Source,Target,Weight
+M. Lazzari,P. Schiattarella,10
+T. Cionek,M. Lazzari,9
+T. Cionek,A. Grassi,8
+F. Vicari,T. Cionek,8
+A. Grassi,T. Cionek,8
+A. Grassi,M. Lazzari,7
+P. Schiattarella,M. Lazzari,7
+M. Lazzari,T. Cionek,6
+P. Schiattarella,T. Cionek,6
+A. Paloschi,A. Grassi,6
+Felipe,M. Antenucci,6
+J. Kurti\u010d,Felipe,6
+P. Schiattarella,J. Kurti\u010d,5
+T. Cionek,A. Meret,5
+T. Cionek,F. Vicari,5
+T. Cionek,P. Schiattarella,5
+M. Lazzari,A. Grassi,5
+M. Antenucci,A. Grassi,4
+Felipe,F. Costa,4
+A. Grassi,P. Schiattarella,4
+M. Antenucci,M. Lazzari,4
+T. Cionek,F. Costa,4
+A. Meret,T. Cionek,4
+A. Paloschi,T. Cionek,3
+T. Cionek,A. Paloschi,3
+A. Meret,M. Antenucci,3
+J. Kurti\u010d,F. Vicari,3
+F. Vicari,Felipe,3
+Felipe,J. Kurti\u010d,3
+P. Schiattarella,Felipe,3
+F. Costa,J. Kurti\u010d,3
+F. Vicari,P. Schiattarella,3
+M. Antenucci,F. Costa,3
+M. Antenucci,T. Cionek,3
+M. Lazzari,M. Antenucci,3
+F. Costa,M. Antenucci,3
+F. Costa,Felipe,2
+F. Costa,A. Meret,2
+F. Costa,P. Schiattarella,2
+M. Antenucci,A. Paloschi,2
+A. Grassi,F. Costa,2
+F. Costa,T. Cionek,2
+A. Meret,F. Vicari,2
+Felipe,A. Meret,2
+P. Schiattarella,A. Paloschi,2
+J. Kurti\u010d,M. Lazzari,2
+M. Lazzari,A. Meret,2
+J. Kurti\u010d,T. Cionek,2
+F. Costa,F. Vicari,2
+M. Lazzari,A. Paloschi,2
+A. Meret,Felipe,2
+J. Kurti\u010d,P. Schiattarella,2
+M. Lazzari,J. Kurti\u010d,2
+A. Grassi,S. Floccari,1
+M. Antenucci,P. Schiattarella,1
+J. Kurti\u010d,M. Antenucci,1
+T. Cionek,Felipe,1
+A. Grassi,J. Kurti\u010d,1
+M. Antenucci,F. Vicari,1
+T. Cionek,J. Kurti\u010d,1
+A. Grassi,Felipe,1
+A. Meret,A. Grassi,1
+S. Floccari,T. Cionek,1
+M. Lazzari,F. Vicari,1
+A. Grassi,A. Meret,1
+Felipe,A. Grassi,1
+P. Schiattarella,S. Floccari,1
+P. Schiattarella,M. Antenucci,1
+J. Kurti\u010d,F. Costa,1
+M. Lazzari,F. Costa,1
+S. Floccari,M. Lazzari,1
+F. Vicari,J. Kurti\u010d,1
+A. Grassi,A. Paloschi,1
+F. Costa,S. Floccari,1
+Felipe,M. Lazzari,1
+B. Dram\u00e9,F. Vicari,1
+P. Schiattarella,A. Grassi,1
+A. Meret,J. Kurti\u010d,1
+J. Kurti\u010d,B. Dram\u00e9,1
+M. Antenucci,J. Kurti\u010d,1
+P. Schiattarella,A. Meret,1
+A. Grassi,M. Antenucci,1
+P. Schiattarella,F. Costa,1
+S. Floccari,Felipe,1
+A. Meret,B. Dram\u00e9,1
+T. Cionek,M. Antenucci,1
+T. Cionek,S. Floccari,1
+A. Paloschi,M. Lazzari,1
+Felipe,F. Vicari,1
+S. Floccari,F. Costa,1
+B. Dram\u00e9,M. Antenucci,1
+Felipe,P. Schiattarella,1
+F. Vicari,A. Meret,1

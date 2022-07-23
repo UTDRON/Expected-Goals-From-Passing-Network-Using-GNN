@@ -1,0 +1,39 @@
+Source,Target,Weight
+Coke,J. Lerma,4
+Luna,Ivi,3
+Jos\u00e9 Luis Morales,Coke,3
+Coke,Jos\u00e9 Luis Morales,3
+J. Lerma,Luna,3
+Sergio Postigo,J. Lerma,2
+Chema,Luna,2
+J. Lerma,Coke,2
+Jos\u00e9 Luis Morales,Ivi,2
+Ivi,Sergio Postigo,2
+J. Lerma,Sergio Postigo,2
+Jos\u00e9 Luis Morales,J. Lerma,2
+Ivi,Jos\u00e9 Luis Morales,2
+Oier,Coke,1
+J. Lerma,Jos\u00e9 Luis Morales,1
+Luna,Coke,1
+Sergio Postigo,Coke,1
+C. Doukour\u00e9,Oier,1
+Sergio Postigo,Jos\u00e9 Luis Morales,1
+Oier,A. Sadiku,1
+A. Sadiku,Jos\u00e9 Luis Morales,1
+Coke,Chema,1
+Coke,C. Doukour\u00e9,1
+Ivi,J. Lerma,1
+Oier,Ivi,1
+J. Lerma,G. Pazzini,1
+C. Doukour\u00e9,Sergio Postigo,1
+Luna,J. Lerma,1
+G. Pazzini,Chema,1
+Luna,Chema,1
+Luna,Oier,1
+Jos\u00e9 Luis Morales,C. Doukour\u00e9,1
+Ivi,Roger,1
+Chema,Ivi,1
+Ivi,Luna,1
+Roger,Ivi,1
+Sergio Postigo,Luna,1
+Ivi,Coke,1

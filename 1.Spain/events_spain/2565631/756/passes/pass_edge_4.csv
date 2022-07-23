@@ -1,0 +1,56 @@
+Source,Target,Weight
+Borja Garc\u00eda,Aleix Garc\u00eda,5
+Aday,Borja Garc\u00eda,5
+Aday,Juanpe,4
+Juanpe,Aday,4
+Aday,Y. Bounou,3
+Bernardo Espinosa,Aday,3
+Aleix Garc\u00eda,Pere Pons,3
+Aleix Garc\u00eda,Bernardo Espinosa,2
+Borja Garc\u00eda,Aday,2
+Ramalho,Bernardo Espinosa,2
+Pere Pons,Borja Garc\u00eda,2
+Portu,Juanpe,2
+Y. Bounou,Aday,2
+Juanpe,Borja Garc\u00eda,2
+Bernardo Espinosa,Juanpe,2
+Aleix Garc\u00eda,Aday,2
+Juanpe,Aleix Garc\u00eda,2
+Juanpe,Bernardo Espinosa,2
+Bernardo Espinosa,Ramalho,2
+Aday,Ramalho,1
+Pere Pons,Pablo Maffeo,1
+Ramalho,O. Kayode,1
+Y. Bounou,Pere Pons,1
+Borja Garc\u00eda,Ramalho,1
+Y. Bounou,Portu,1
+O. Kayode,Aday,1
+Pere Pons,Ramalho,1
+Aday,Portu,1
+Aday,O. Kayode,1
+Pere Pons,Y. Bounou,1
+Portu,Aleix Garc\u00eda,1
+Aleix Garc\u00eda,O. Kayode,1
+Y. Bounou,Juanpe,1
+Pere Pons,Bernardo Espinosa,1
+O. Kayode,Borja Garc\u00eda,1
+O. Kayode,Juanpe,1
+Borja Garc\u00eda,Pere Pons,1
+Pablo Maffeo,Aleix Garc\u00eda,1
+O. Kayode,Aleix Garc\u00eda,1
+Borja Garc\u00eda,Pablo Maffeo,1
+Portu,O. Kayode,1
+Pere Pons,Aday,1
+Portu,Pablo Maffeo,1
+Juanpe,Portu,1
+Aday,Pere Pons,1
+Pere Pons,Portu,1
+Ramalho,Pere Pons,1
+Pablo Maffeo,Pere Pons,1
+Ramalho,Portu,1
+Juanpe,Y. Bounou,1
+Pablo Maffeo,Ramalho,1
+Aleix Garc\u00eda,Juanpe,1
+Ramalho,Aday,1
+Bernardo Espinosa,Pablo Maffeo,1
+Pablo Maffeo,Juanpe,1

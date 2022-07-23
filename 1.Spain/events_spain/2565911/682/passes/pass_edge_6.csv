@@ -1,0 +1,42 @@
+Source,Target,Weight
+Jaume Costa,Dani Raba,3
+Dani Raba,\u00c1lvaro Gonz\u00e1lez,3
+\u00c1lvaro Gonz\u00e1lez,Mario,3
+Dani Raba,Samu Castillejo,3
+Mario,Dani Raba,3
+\u00c1lvaro Gonz\u00e1lez,Samu Castillejo,2
+Samu Castillejo,Dani Raba,2
+Jaume Costa,V\u00edctor Ru\u00edz,2
+Mario,\u00c1lvaro Gonz\u00e1lez,2
+Dani Raba,Trigueros,2
+Samu Castillejo,Mario,2
+V\u00edctor Ru\u00edz,Jaume Costa,2
+\u00c1lvaro Gonz\u00e1lez,Sergio Asenjo,1
+Samu Castillejo,Trigueros,1
+V\u00edctor Ru\u00edz,\u00c1lvaro Gonz\u00e1lez,1
+Rodri,V\u00edctor Ru\u00edz,1
+Trigueros,Dani Raba,1
+V\u00edctor Ru\u00edz,Rodri,1
+\u00c1lvaro Gonz\u00e1lez,Jaume Costa,1
+Rodri,Jaume Costa,1
+Trigueros,Pablo Fornals,1
+Trigueros,Mario,1
+Rodri,Samu Castillejo,1
+Samu Castillejo,Jaume Costa,1
+Jaume Costa,\u00c1lvaro Gonz\u00e1lez,1
+\u00c1lvaro Gonz\u00e1lez,V\u00edctor Ru\u00edz,1
+Samu Castillejo,V\u00edctor Ru\u00edz,1
+Pablo Fornals,Rodri,1
+C. Bacca,Jaume Costa,1
+Mario,Samu Castillejo,1
+Dani Raba,Pablo Fornals,1
+Pablo Fornals,C. Bacca,1
+V\u00edctor Ru\u00edz,Trigueros,1
+Dani Raba,V\u00edctor Ru\u00edz,1
+\u00c1lvaro Gonz\u00e1lez,Dani Raba,1
+Rodri,Pablo Fornals,1
+V\u00edctor Ru\u00edz,Samu Castillejo,1
+Samu Castillejo,\u00c1lvaro Gonz\u00e1lez,1
+Trigueros,Rodri,1
+Sergio Asenjo,\u00c1lvaro Gonz\u00e1lez,1
+Jaume Costa,Rodri,1

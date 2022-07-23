@@ -1,0 +1,13 @@
+Source,Target,Weight
+Aday,Borja Garc\u00eda,3
+Pere Pons,Juanpe,1
+Juanpe,Aday,1
+Iraizoz,Bernardo Espinosa,1
+Borja Garc\u00eda,Bernardo Espinosa,1
+Bernardo Espinosa,Iraizoz,1
+Juanpe,Bernardo Espinosa,1
+Ramalho,Juanpe,1
+Borja Garc\u00eda,Pere Pons,1
+Borja Garc\u00eda,Aday,1
+Bernardo Espinosa,Aday,1
+Bernardo Espinosa,Ramalho,1

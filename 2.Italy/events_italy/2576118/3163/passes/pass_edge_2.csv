@@ -1,0 +1,55 @@
+Source,Target,Weight
+J. Stryger Larsen,S. Widmer,5
+J. Jankto,Ali Adnan,5
+B. Nuytinck,J. Jankto,5
+Danilo,B. Nuytinck,4
+J. Jankto,S. Fofana,4
+J. Stryger Larsen,Danilo,4
+Danilo,J. Stryger Larsen,4
+B. Nuytinck,Danilo,4
+Ali Adnan,B. Nuytinck,3
+S. Widmer,S. Fofana,3
+B. Nuytinck,K. Lasagna,3
+S. Fofana,J. Stryger Larsen,3
+S. Fofana,Danilo,2
+Ali Adnan,S. Fofana,2
+A. Bizzarri,Danilo,2
+S. Widmer,B. Nuytinck,2
+Danilo,S. Widmer,2
+S. Fofana,S. Widmer,2
+A. Bar\u00e1k,J. Jankto,2
+J. Jankto,B. Nuytinck,2
+Ali Adnan,J. Jankto,2
+Maxi L\u00f3pez,A. Bar\u00e1k,2
+S. Widmer,J. Stryger Larsen,2
+B. Nuytinck,Ali Adnan,2
+Ali Adnan,Maxi L\u00f3pez,1
+S. Widmer,Maxi L\u00f3pez,1
+B. Nuytinck,J. Stryger Larsen,1
+S. Widmer,A. Bar\u00e1k,1
+A. Bar\u00e1k,B. Nuytinck,1
+S. Widmer,A. Bizzarri,1
+K. Lasagna,J. Stryger Larsen,1
+K. Lasagna,Ali Adnan,1
+J. Jankto,A. Bar\u00e1k,1
+J. Jankto,A. Bizzarri,1
+J. Jankto,J. Stryger Larsen,1
+J. Stryger Larsen,J. Jankto,1
+J. Stryger Larsen,A. Bar\u00e1k,1
+Danilo,J. Jankto,1
+Maxi L\u00f3pez,K. Lasagna,1
+K. Lasagna,B. Nuytinck,1
+S. Fofana,B. Nuytinck,1
+A. Bizzarri,B. Nuytinck,1
+A. Bar\u00e1k,K. Lasagna,1
+J. Stryger Larsen,A. Bizzarri,1
+Maxi L\u00f3pez,J. Jankto,1
+S. Fofana,Ali Adnan,1
+A. Bar\u00e1k,Maxi L\u00f3pez,1
+Ali Adnan,J. Stryger Larsen,1
+Danilo,S. Fofana,1
+S. Fofana,J. Jankto,1
+J. Stryger Larsen,S. Fofana,1
+A. Bar\u00e1k,S. Widmer,1
+K. Lasagna,Maxi L\u00f3pez,1
+K. Lasagna,J. Jankto,1

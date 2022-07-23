@@ -1,0 +1,39 @@
+Source,Target,Weight
+Coke,E. Bardhi,4
+Coke,Sergio Postigo,3
+Campa\u00f1a,Sergio Postigo,3
+Sergio Postigo,Jos\u00e9 Luis Morales,3
+Sergio Postigo,Coke,3
+E. Boateng,Campa\u00f1a,2
+Luna,Rober,2
+Luna,Coke,2
+Jos\u00e9 Luis Morales,Sergio Postigo,2
+Sergio Postigo,Campa\u00f1a,2
+Rober,Sergio Postigo,2
+Luna,S. Luki\u0107,1
+E. Bardhi,Sergio Postigo,1
+Coke,Jos\u00e9 Luis Morales,1
+Sergio Postigo,E. Bardhi,1
+Rober,Jos\u00e9 Luis Morales,1
+S. Luki\u0107,Sergio Postigo,1
+Campa\u00f1a,Luna,1
+S. Luki\u0107,Campa\u00f1a,1
+Sergio Postigo,S. Luki\u0107,1
+Campa\u00f1a,Roger,1
+S. Luki\u0107,Luna,1
+Jos\u00e9 Luis Morales,Coke,1
+Jos\u00e9 Luis Morales,Luna,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+E. Bardhi,Jos\u00e9 Luis Morales,1
+E. Bardhi,Luna,1
+E. Boateng,Sergio Postigo,1
+E. Bardhi,E. Boateng,1
+Sergio Postigo,Rober,1
+E. Bardhi,S. Luki\u0107,1
+Roger,E. Boateng,1
+Rober,Campa\u00f1a,1
+Sergio Postigo,E. Boateng,1
+Campa\u00f1a,E. Bardhi,1
+Campa\u00f1a,Coke,1
+Sergio Postigo,Luna,1
+E. Bardhi,Coke,1

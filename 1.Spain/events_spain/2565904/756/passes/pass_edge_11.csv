@@ -1,0 +1,33 @@
+Source,Target,Weight
+\u00c1lex Granell,J. Mojica,3
+J. Mojica,\u00c1lex Granell,3
+\u00c1lex Granell,Juanpe,2
+Juanpe,Borja Garc\u00eda,2
+Juanpe,\u00c1lex Granell,2
+Portu,Pedro Alcal\u00e1,2
+Timor,Juanpe,1
+Borja Garc\u00eda,J. Mojica,1
+J. Mojica,Portu,1
+\u00c1lex Granell,Pedro Alcal\u00e1,1
+Timor,\u00c1lex Granell,1
+Aleix Garc\u00eda,\u00c1lex Granell,1
+Aleix Garc\u00eda,J. Mojica,1
+Aleix Garc\u00eda,Aday,1
+Aday,Juanpe,1
+Borja Garc\u00eda,Aleix Garc\u00eda,1
+Portu,Juanpe,1
+Pedro Alcal\u00e1,Timor,1
+Borja Garc\u00eda,Aday,1
+Pedro Alcal\u00e1,Portu,1
+Aday,Aleix Garc\u00eda,1
+\u00c1lex Granell,Timor,1
+Aday,\u00c1lex Granell,1
+Pedro Alcal\u00e1,Muniesa,1
+Pedro Alcal\u00e1,\u00c1lex Granell,1
+J. Mojica,Borja Garc\u00eda,1
+Juanpe,Pedro Alcal\u00e1,1
+\u00c1lex Granell,Y. Bounou,1
+\u00c1lex Granell,Aday,1
+Y. Bounou,C. Stuani,1
+Muniesa,Borja Garc\u00eda,1
+C. Stuani,Aleix Garc\u00eda,1

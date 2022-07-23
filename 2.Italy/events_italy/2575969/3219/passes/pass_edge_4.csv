@@ -1,0 +1,17 @@
+Source,Target,Weight
+M. D'Alessandro,G. Di Chiara,2
+M. Coda,M. D'Alessandro,1
+F. Lucioni,L. Venuti,1
+A. Costa,F. Lucioni,1
+D. Cataldi,F. Ceravolo,1
+L. Venuti,A. Costa,1
+A. Costa,V. Belec,1
+L. Venuti,D. Cataldi,1
+G. Di Chiara,M. Coda,1
+F. Lucioni,M. D'Alessandro,1
+G. Di Chiara,F. Ceravolo,1
+M. D'Alessandro,M. Coda,1
+V. Belec,A. Costa,1
+F. Ceravolo,M. Coda,1
+M. Coda,F. Lucioni,1
+F. Ceravolo,M. D'Alessandro,1

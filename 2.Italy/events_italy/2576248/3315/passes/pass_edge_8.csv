@@ -1,0 +1,24 @@
+Source,Target,Weight
+C. Dell'Orco,C. Adjapong,3
+F. Acerbi,C. Dell'Orco,3
+C. Dell'Orco,F. Acerbi,2
+C. Adjapong,F. Acerbi,2
+C. Adjapong,C. Dell'Orco,2
+S. Sensi,M. Politano,1
+E. Goldaniga,A. Consigli,1
+S. Missiroli,K. Babacar,1
+S. Sensi,C. Adjapong,1
+A. Consigli,S. Missiroli,1
+F. Acerbi,Pol Lirola,1
+S. Sensi,C. Dell'Orco,1
+F. Acerbi,A. Consigli,1
+C. Dell'Orco,L. Mazzitelli,1
+S. Missiroli,S. Sensi,1
+Pol Lirola,F. Acerbi,1
+F. Acerbi,K. Babacar,1
+K. Babacar,M. Politano,1
+L. Mazzitelli,S. Sensi,1
+M. Politano,C. Dell'Orco,1
+A. Consigli,F. Acerbi,1
+K. Babacar,S. Missiroli,1
+C. Dell'Orco,S. Sensi,1

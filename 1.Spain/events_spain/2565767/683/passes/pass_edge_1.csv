@@ -1,0 +1,59 @@
+Source,Target,Weight
+Recio,F. Ricca,5
+Samu Garc\u00eda,F. Ricca,5
+F. Ricca,B. Ideye,4
+M. Iturra,Samu Garc\u00eda,4
+Samu Garc\u00eda,Recio,4
+Miquel,Roberto,3
+Roberto,Adri\u00e1n,3
+Adri\u00e1n,Recio,3
+B. Ideye,Adri\u00e1n,2
+B. Ideye,Keko,2
+Recio,Samu Garc\u00eda,2
+F. Ricca,Adri\u00e1n,2
+F. Ricca,Samu Garc\u00eda,2
+F. Ricca,Roberto,2
+B. Ideye,M. Iturra,2
+Luis Hern\u00e1ndez,Recio,2
+F. Ricca,M. Iturra,2
+Samu Garc\u00eda,Miquel,2
+Adri\u00e1n,F. Ricca,2
+Recio,M. Iturra,2
+B. Ideye,Recio,2
+R. Rosales,Luis Hern\u00e1ndez,2
+Roberto,F. Ricca,1
+Roberto,Samu Garc\u00eda,1
+Adri\u00e1n,Miquel,1
+Miquel,Samu Garc\u00eda,1
+B. Ideye,Samu Garc\u00eda,1
+R. Rosales,B. Ideye,1
+Miquel,M. Iturra,1
+F. Ricca,Recio,1
+Adri\u00e1n,B. Ideye,1
+Samu Garc\u00eda,M. Iturra,1
+Adri\u00e1n,M. Iturra,1
+R. Rosales,Adri\u00e1n,1
+M. Iturra,R. Rosales,1
+Luis Hern\u00e1ndez,Adri\u00e1n,1
+Adri\u00e1n,Keko,1
+Keko,F. Ricca,1
+Luis Hern\u00e1ndez,Roberto,1
+R. Rosales,Samu Garc\u00eda,1
+Recio,B. Ideye,1
+Miquel,Luis Hern\u00e1ndez,1
+Luis Hern\u00e1ndez,R. Rosales,1
+M. Iturra,F. Ricca,1
+F. Ricca,R. Rosales,1
+M. Iturra,B. Ideye,1
+Adri\u00e1n,Samu Garc\u00eda,1
+M. Iturra,Miquel,1
+Recio,Adri\u00e1n,1
+M. Iturra,Roberto,1
+Recio,Miquel,1
+Keko,Recio,1
+Roberto,Luis Hern\u00e1ndez,1
+Adri\u00e1n,Luis Hern\u00e1ndez,1
+Roberto,B. Ideye,1
+Recio,R. Rosales,1
+F. Ricca,Miquel,1
+Keko,R. Rosales,1

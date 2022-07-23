@@ -1,0 +1,63 @@
+Source,Target,Weight
+A. Poli,E. Pulgar,7
+E. Pulgar,A. Poli,5
+F. Di Francesco,A. Poli,4
+C. Falletti,E. Pulgar,4
+S. De Maio,C. Falletti,4
+S. De Maio,G. Gonz\u00e1lez,3
+V. Torosidis,C. Falletti,3
+A. Poli,F. Di Francesco,3
+E. Krafth,G. Gonz\u00e1lez,2
+B. D\u017eemaili,A. Poli,2
+S. De Maio,B. D\u017eemaili,2
+B. D\u017eemaili,S. De Maio,2
+E. Pulgar,M. Destro,2
+B. D\u017eemaili,V. Torosidis,2
+G. Gonz\u00e1lez,S. De Maio,2
+G. Gonz\u00e1lez,E. Pulgar,2
+E. Pulgar,C. Falletti,2
+C. Falletti,V. Torosidis,2
+E. Krafth,S. De Maio,2
+M. Destro,A. Poli,2
+F. Di Francesco,E. Pulgar,2
+E. Pulgar,S. De Maio,2
+F. Di Francesco,E. Krafth,2
+G. Gonz\u00e1lez,E. Krafth,2
+E. Pulgar,B. D\u017eemaili,2
+A. Poli,S. De Maio,2
+M. Destro,B. D\u017eemaili,1
+V. Torosidis,S. De Maio,1
+F. Di Francesco,S. De Maio,1
+A. Poli,B. D\u017eemaili,1
+A. Mirante,S. De Maio,1
+S. De Maio,F. Di Francesco,1
+C. Falletti,G. Gonz\u00e1lez,1
+A. Poli,G. Gonz\u00e1lez,1
+B. D\u017eemaili,E. Pulgar,1
+A. Mirante,M. Destro,1
+E. Pulgar,G. Gonz\u00e1lez,1
+E. Pulgar,E. Krafth,1
+F. Di Francesco,G. Gonz\u00e1lez,1
+E. Krafth,C. Falletti,1
+E. Pulgar,A. Mirante,1
+B. D\u017eemaili,M. Destro,1
+G. Gonz\u00e1lez,F. Di Francesco,1
+M. Destro,F. Di Francesco,1
+B. D\u017eemaili,F. Di Francesco,1
+E. Krafth,F. Di Francesco,1
+C. Falletti,B. D\u017eemaili,1
+C. Falletti,M. Destro,1
+E. Krafth,M. Destro,1
+C. Falletti,A. Poli,1
+S. De Maio,E. Pulgar,1
+G. Gonz\u00e1lez,V. Torosidis,1
+G. Gonz\u00e1lez,A. Poli,1
+S. De Maio,E. Krafth,1
+V. Torosidis,F. Di Francesco,1
+M. Destro,S. De Maio,1
+S. De Maio,V. Torosidis,1
+S. De Maio,A. Mirante,1
+E. Krafth,B. D\u017eemaili,1
+A. Poli,E. Krafth,1
+V. Torosidis,E. Krafth,1
+E. Pulgar,F. Di Francesco,1

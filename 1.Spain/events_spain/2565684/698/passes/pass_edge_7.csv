@@ -1,0 +1,35 @@
+Source,Target,Weight
+D. Su\u00e1rez,Portillo,4
+A. Ndiaye,D. Su\u00e1rez,4
+Jorge Molina,D. Su\u00e1rez,3
+D. Su\u00e1rez,Djen\u00e9,3
+Jorge Molina,A. Ndiaye,3
+Djen\u00e9,Guaita,3
+Guaita,Jorge Molina,2
+Djen\u00e9,D. Su\u00e1rez,2
+Portillo,\u00c1ngel,2
+Portillo,D. Su\u00e1rez,2
+D. Su\u00e1rez,Jorge Molina,2
+Djen\u00e9,A. Ndiaye,2
+Markel Bergara,D. Su\u00e1rez,1
+Jorge Molina,\u00c1ngel,1
+A. Ndiaye,Portillo,1
+Djen\u00e9,Jorge Molina,1
+Guaita,A. Ndiaye,1
+D. Su\u00e1rez,A. Ndiaye,1
+Markel Bergara,Jorge Molina,1
+Portillo,Markel Bergara,1
+Markel Bergara,Molinero,1
+D. Su\u00e1rez,Bruno,1
+\u00c1ngel,Bruno,1
+Bruno,Guaita,1
+Molinero,Jorge Molina,1
+Molinero,Portillo,1
+Bruno,D. Su\u00e1rez,1
+D. Su\u00e1rez,Markel Bergara,1
+D. Su\u00e1rez,Molinero,1
+Portillo,Djen\u00e9,1
+\u00c1ngel,Djen\u00e9,1
+A. Ndiaye,Djen\u00e9,1
+\u00c1ngel,Markel Bergara,1
+Guaita,Djen\u00e9,1

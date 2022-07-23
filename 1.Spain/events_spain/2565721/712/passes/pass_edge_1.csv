@@ -1,0 +1,32 @@
+Source,Target,Weight
+Eraso,Rub\u00e9n P\u00e9rez,2
+M. Dos Santos,Cu\u00e9llar,2
+Cu\u00e9llar,C. Beauvue,2
+Rub\u00e9n P\u00e9rez,Diego Rico,2
+Diego Rico,Zald\u00faa,1
+Diego Rico,Eraso,1
+Zald\u00faa,N. El Zhar,1
+E. Mu\u00f1oz,M. Dos Santos,1
+Diego Rico,E. Mu\u00f1oz,1
+C. Beauvue,Gabriel,1
+Rub\u00e9n P\u00e9rez,Gumbau,1
+Gabriel,C. Beauvue,1
+Cu\u00e9llar,Diego Rico,1
+Eraso,Diego Rico,1
+C. Beauvue,Eraso,1
+N. El Zhar,Eraso,1
+Gabriel,Diego Rico,1
+Rub\u00e9n P\u00e9rez,M. Dos Santos,1
+Zald\u00faa,Rub\u00e9n P\u00e9rez,1
+Gumbau,Rub\u00e9n P\u00e9rez,1
+M. Dos Santos,Rub\u00e9n P\u00e9rez,1
+Eraso,Gabriel,1
+Rub\u00e9n P\u00e9rez,E. Mu\u00f1oz,1
+M. Dos Santos,Zald\u00faa,1
+Eraso,M. Dos Santos,1
+E. Mu\u00f1oz,Zald\u00faa,1
+Diego Rico,Gumbau,1
+Gumbau,Eraso,1
+Zald\u00faa,Cu\u00e9llar,1
+Diego Rico,Cu\u00e9llar,1
+Cu\u00e9llar,M. Dos Santos,1

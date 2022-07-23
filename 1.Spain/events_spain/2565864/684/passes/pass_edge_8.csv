@@ -1,0 +1,36 @@
+Source,Target,Weight
+Bartra,Javi Garc\u00eda,4
+Javi Garc\u00eda,A. Mandi,3
+Bartra,Joaqu\u00edn,3
+Javi Garc\u00eda,Bartra,3
+Bartra,A. Mandi,2
+Joaqu\u00edn,Loren Mor\u00f3n,2
+A. Mandi,Joaqu\u00edn,2
+Loren Mor\u00f3n,Fabi\u00e1n,2
+Fabi\u00e1n,Bartra,2
+Joaqu\u00edn,A. Mandi,2
+A. Mandi,A. Guardado,2
+J. Firpo,Joaqu\u00edn,2
+J. Firpo,Bartra,2
+Joaqu\u00edn,A. Guardado,2
+A. Guardado,Joaqu\u00edn,2
+A. Mandi,Bartra,1
+Joaqu\u00edn,Fabi\u00e1n,1
+J. Firpo,Barrag\u00e1n,1
+Barrag\u00e1n,Javi Garc\u00eda,1
+Barrag\u00e1n,J. Firpo,1
+Fabi\u00e1n,Loren Mor\u00f3n,1
+Joaqu\u00edn,J. Firpo,1
+Fabi\u00e1n,Javi Garc\u00eda,1
+Bartra,Sergio Le\u00f3n,1
+Bartra,Fabi\u00e1n,1
+Joaqu\u00edn,Bartra,1
+Fabi\u00e1n,A. Guardado,1
+A. Guardado,Bartra,1
+A. Mandi,Fabi\u00e1n,1
+A. Guardado,J. Firpo,1
+A. Mandi,Javi Garc\u00eda,1
+Sergio Le\u00f3n,J. Firpo,1
+A. Guardado,Javi Garc\u00eda,1
+Javi Garc\u00eda,J. Firpo,1
+Javi Garc\u00eda,Barrag\u00e1n,1

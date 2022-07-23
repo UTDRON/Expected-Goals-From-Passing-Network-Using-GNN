@@ -1,0 +1,53 @@
+Source,Target,Weight
+Pere Pons,Pablo Maffeo,4
+Iraizoz,C. Stuani,4
+Aday,\u00c1lex Granell,2
+\u00c1lex Granell,Aday,2
+Bernardo Espinosa,Muniesa,2
+Muniesa,Aday,2
+Pere Pons,Douglas Luiz,2
+Aday,Muniesa,2
+Pablo Maffeo,Pere Pons,2
+\u00c1lex Granell,Pedro Alcal\u00e1,2
+C. Stuani,Pablo Maffeo,2
+Pablo Maffeo,Bernardo Espinosa,2
+Pedro Alcal\u00e1,Bernardo Espinosa,2
+Pablo Maffeo,Pedro Alcal\u00e1,2
+Borja Garc\u00eda,Aday,2
+Bernardo Espinosa,Borja Garc\u00eda,2
+Muniesa,\u00c1lex Granell,2
+\u00c1lex Granell,Borja Garc\u00eda,2
+C. Stuani,Pere Pons,2
+C. Stuani,Borja Garc\u00eda,1
+\u00c1lex Granell,Pablo Maffeo,1
+Borja Garc\u00eda,\u00c1lex Granell,1
+Pere Pons,Pedro Alcal\u00e1,1
+Douglas Luiz,Iraizoz,1
+Pedro Alcal\u00e1,Aday,1
+C. Stuani,Bernardo Espinosa,1
+Pedro Alcal\u00e1,Iraizoz,1
+Borja Garc\u00eda,Pablo Maffeo,1
+C. Stuani,Douglas Luiz,1
+Douglas Luiz,C. Stuani,1
+Bernardo Espinosa,\u00c1lex Granell,1
+Pablo Maffeo,Douglas Luiz,1
+Aday,Pere Pons,1
+C. Stuani,\u00c1lex Granell,1
+Aday,Douglas Luiz,1
+Bernardo Espinosa,C. Stuani,1
+Pere Pons,C. Stuani,1
+\u00c1lex Granell,Douglas Luiz,1
+Douglas Luiz,Pedro Alcal\u00e1,1
+Pedro Alcal\u00e1,\u00c1lex Granell,1
+Borja Garc\u00eda,Muniesa,1
+Borja Garc\u00eda,Pere Pons,1
+Aday,Borja Garc\u00eda,1
+Pablo Maffeo,\u00c1lex Granell,1
+Douglas Luiz,Bernardo Espinosa,1
+Douglas Luiz,Pere Pons,1
+Pedro Alcal\u00e1,Pere Pons,1
+Muniesa,Iraizoz,1
+Pere Pons,Iraizoz,1
+Pablo Maffeo,C. Stuani,1
+Pedro Alcal\u00e1,Pablo Maffeo,1
+\u00c1lex Granell,Pere Pons,1

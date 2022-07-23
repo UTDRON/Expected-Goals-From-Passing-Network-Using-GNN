@@ -1,0 +1,16 @@
+Source,Target,Weight
+A. Cordaz,Simy,2
+R. Mandragora,D. Faraoni,2
+A. Ajeti,A. Cordaz,2
+Simy,M. Trotta,1
+B. Martella,M. Rohd\u00e9n,1
+B. Martella,D. Faraoni,1
+D. Faraoni,A. Ajeti,1
+M. Rohd\u00e9n,B. Martella,1
+M. Sampirisi,A. Ajeti,1
+Simy,R. Mandragora,1
+D. Faraoni,M. Sampirisi,1
+M. Trotta,D. Faraoni,1
+D. Faraoni,A. Stoian,1
+A. Stoian,B. Martella,1
+D. Faraoni,Simy,1

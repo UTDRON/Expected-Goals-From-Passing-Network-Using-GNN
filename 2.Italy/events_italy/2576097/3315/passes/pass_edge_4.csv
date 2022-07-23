@@ -1,0 +1,14 @@
+Source,Target,Weight
+M. Politano,D. Berardi,2
+D. Berardi,M. Politano,2
+S. Missiroli,M. Gazzola,1
+S. Missiroli,F. Acerbi,1
+P. Cannavaro,M. Gazzola,1
+F. Acerbi,D. Berardi,1
+D. Biondini,S. Missiroli,1
+M. Gazzola,F. Magnanelli,1
+F. Magnanelli,D. Biondini,1
+M. Gazzola,M. Politano,1
+M. Politano,P. Cannavaro,1
+D. Berardi,M. Gazzola,1
+M. Gazzola,S. Missiroli,1

@@ -1,0 +1,68 @@
+Source,Target,Weight
+Iv\u00e1n Alejo,Rub\u00e9n Pe\u00f1a,5
+David Junc\u00e0,Arbilla,4
+G. Escalante,Arbilla,4
+Ramis,Arbilla,3
+Arbilla,David Junc\u00e0,3
+Rub\u00e9n Pe\u00f1a,Iv\u00e1n Alejo,3
+Rub\u00e9n Pe\u00f1a,F. Orellana,3
+Kike Garc\u00eda,Arbilla,3
+Arbilla,Kike Garc\u00eda,3
+Ramis,Rub\u00e9n Pe\u00f1a,2
+Arbilla,Rub\u00e9n Pe\u00f1a,2
+David Junc\u00e0,P. Diop,2
+Iv\u00e1n Alejo,G. Escalante,2
+Arbilla,T. Inui,2
+F. Orellana,Iv\u00e1n Alejo,2
+F. Orellana,T. Inui,2
+G. Escalante,F. Orellana,2
+Kike Garc\u00eda,Ramis,2
+Rub\u00e9n Pe\u00f1a,Kike Garc\u00eda,2
+Arbilla,Iv\u00e1n Alejo,2
+Arbilla,P. Diop,2
+Arbilla,Ramis,2
+F. Orellana,David Junc\u00e0,2
+David Junc\u00e0,G. Escalante,2
+Arbilla,F. Orellana,2
+F. Orellana,Rub\u00e9n Pe\u00f1a,2
+Ramis,David Junc\u00e0,2
+M. Dmitrovi\u0107,Kike Garc\u00eda,2
+T. Inui,F. Orellana,2
+T. Inui,David Junc\u00e0,2
+Ramis,T. Inui,1
+Kike Garc\u00eda,G. Escalante,1
+P. Diop,Iv\u00e1n Alejo,1
+Kike Garc\u00eda,F. Orellana,1
+G. Escalante,T. Inui,1
+Rub\u00e9n Pe\u00f1a,T. Inui,1
+T. Inui,Arbilla,1
+Rub\u00e9n Pe\u00f1a,Ramis,1
+Iv\u00e1n Alejo,M. Dmitrovi\u0107,1
+G. Escalante,Kike Garc\u00eda,1
+David Junc\u00e0,M. Dmitrovi\u0107,1
+Rub\u00e9n Pe\u00f1a,G. Escalante,1
+M. Dmitrovi\u0107,Ramis,1
+P. Diop,Rub\u00e9n Pe\u00f1a,1
+M. Dmitrovi\u0107,Arbilla,1
+T. Inui,P. Diop,1
+P. Diop,F. Orellana,1
+Rub\u00e9n Pe\u00f1a,P. Diop,1
+Arbilla,M. Dmitrovi\u0107,1
+P. Diop,Arbilla,1
+P. Diop,Ramis,1
+Rub\u00e9n Pe\u00f1a,Arbilla,1
+F. Orellana,P. Diop,1
+Ramis,F. Orellana,1
+P. Diop,T. Inui,1
+Kike Garc\u00eda,P. Diop,1
+G. Escalante,Ramis,1
+F. Orellana,Arbilla,1
+David Junc\u00e0,Ramis,1
+P. Diop,Kike Garc\u00eda,1
+T. Inui,Rub\u00e9n Pe\u00f1a,1
+Kike Garc\u00eda,David Junc\u00e0,1
+T. Inui,G. Escalante,1
+Rub\u00e9n Pe\u00f1a,M. Dmitrovi\u0107,1
+Kike Garc\u00eda,Rub\u00e9n Pe\u00f1a,1
+F. Orellana,G. Escalante,1
+F. Orellana,Kike Garc\u00eda,1

@@ -1,0 +1,22 @@
+Source,Target,Weight
+F. Ricci,D. Laxalt,2
+A. Galabinov,D. Lazovi\u0107,2
+D. Lazovi\u0107,A. Galabinov,2
+D. Laxalt,F. Ricci,2
+D. Laxalt,R. Palladino,1
+R. Palladino,G. Pandev,1
+E. Zukanovi\u0107,Miguel Veloso,1
+D. Biraschi,D. Lazovi\u0107,1
+G. Pandev,I. Cofie,1
+R. Palladino,Miguel Veloso,1
+I. Cofie,D. Biraschi,1
+D. Lazovi\u0107,I. Cofie,1
+Miguel Veloso,I. Cofie,1
+I. Cofie,Miguel Veloso,1
+M. Perin,E. Zukanovi\u0107,1
+D. Laxalt,A. Galabinov,1
+L. Rossettini,M. Perin,1
+Miguel Veloso,E. Zukanovi\u0107,1
+Miguel Veloso,D. Laxalt,1
+A. Galabinov,R. Palladino,1
+E. Zukanovi\u0107,D. Laxalt,1

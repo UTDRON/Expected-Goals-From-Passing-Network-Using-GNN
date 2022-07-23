@@ -1,0 +1,32 @@
+Source,Target,Weight
+Trigueros,Jaume Costa,5
+Mario,\u00c1lvaro Gonz\u00e1lez,4
+E. \u00dcnal,Mario,3
+V\u00edctor Ru\u00edz,Trigueros,2
+Jaume Costa,E. \u00dcnal,2
+Jaume Costa,Trigueros,2
+Jaume Costa,Pablo Fornals,2
+Trigueros,Mario,2
+Pablo Fornals,Trigueros,2
+Mario,E. \u00dcnal,2
+C. Bacca,Jaume Costa,1
+Mario,Trigueros,1
+Sergio Asenjo,Jaume Costa,1
+Trigueros,V\u00edctor Ru\u00edz,1
+Jaume Costa,V\u00edctor Ru\u00edz,1
+\u00c1lvaro Gonz\u00e1lez,Mario,1
+\u00c1lvaro Gonz\u00e1lez,Sergio Asenjo,1
+Mario,Javi Fuego,1
+D. Cheryshev,Sergio Asenjo,1
+\u00c1lvaro Gonz\u00e1lez,Javi Fuego,1
+Javi Fuego,Trigueros,1
+Javi Fuego,Sergio Asenjo,1
+V\u00edctor Ru\u00edz,Jaume Costa,1
+Sergio Asenjo,Mario,1
+\u00c1lvaro Gonz\u00e1lez,Jaume Costa,1
+Jaume Costa,C. Bacca,1
+Jaume Costa,D. Cheryshev,1
+Sergio Asenjo,V\u00edctor Ru\u00edz,1
+D. Cheryshev,C. Bacca,1
+C. Bacca,Trigueros,1
+Trigueros,D. Cheryshev,1

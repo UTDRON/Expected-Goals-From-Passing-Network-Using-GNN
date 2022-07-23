@@ -1,0 +1,11 @@
+Source,Target,Weight
+D. Berardi,F. Peluso,2
+F. Acerbi,D. Berardi,1
+M. Politano,S. Missiroli,1
+M. Politano,E. Goldaniga,1
+F. Cassata,M. Politano,1
+F. Peluso,M. Politano,1
+E. Goldaniga,F. Acerbi,1
+S. Missiroli,E. Goldaniga,1
+E. Goldaniga,S. Missiroli,1
+F. Peluso,D. Berardi,1

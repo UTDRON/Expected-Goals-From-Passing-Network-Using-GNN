@@ -1,0 +1,34 @@
+Source,Target,Weight
+Diego Rico,Gabriel,4
+Gabriel,M. Mantovani,3
+E. Mu\u00f1oz,M. Mantovani,2
+M. Mantovani,Rub\u00e9n P\u00e9rez,2
+Guerrero,Gabriel,2
+Eraso,Diego Rico,2
+Rub\u00e9n P\u00e9rez,Zald\u00faa,2
+E. Mu\u00f1oz,Zald\u00faa,1
+Cu\u00e9llar,E. Mu\u00f1oz,1
+M. Mantovani,Diego Rico,1
+M. Mantovani,E. Mu\u00f1oz,1
+Gabriel,Diego Rico,1
+Gabriel,Guerrero,1
+Eraso,E. Mu\u00f1oz,1
+E. Mu\u00f1oz,Cu\u00e9llar,1
+Gabriel,E. Mu\u00f1oz,1
+Cu\u00e9llar,Diego Rico,1
+E. Mu\u00f1oz,Omar Ramos,1
+Omar Ramos,Gabriel,1
+Omar Ramos,Guerrero,1
+E. Mu\u00f1oz,Gabriel,1
+Zald\u00faa,Guerrero,1
+Zald\u00faa,Omar Ramos,1
+A. Szymanowski,Eraso,1
+Omar Ramos,E. Mu\u00f1oz,1
+Guerrero,Eraso,1
+M. Mantovani,Cu\u00e9llar,1
+Gabriel,Omar Ramos,1
+Gabriel,A. Szymanowski,1
+Diego Rico,A. Szymanowski,1
+A. Szymanowski,M. Mantovani,1
+M. Mantovani,Gabriel,1
+Zald\u00faa,E. Mu\u00f1oz,1

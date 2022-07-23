@@ -1,0 +1,53 @@
+Source,Target,Weight
+A. Rukavina,Rodri,5
+R. Soriano,A. Rukavina,5
+A. Rukavina,R. Soriano,3
+Rodri,A. Rukavina,3
+Javi Fuego,E. \u00dcnal,3
+R. Soriano,Javi Fuego,3
+D. Cheryshev,Pau Torres,3
+Pau Torres,Jaume Costa,2
+Rodri,\u00c1lvaro Gonz\u00e1lez,2
+Rodri,Javi Fuego,2
+\u00c1lvaro Gonz\u00e1lez,A. Rukavina,2
+Jaume Costa,Javi Fuego,2
+Rodri,R. Soriano,2
+E. \u00dcnal,Javi Fuego,2
+E. \u00dcnal,\u00c1lvaro Gonz\u00e1lez,2
+Pau Torres,\u00c1lvaro Gonz\u00e1lez,2
+Pau Torres,Rodri,2
+Javi Fuego,Pau Torres,2
+Rodri,Jaume Costa,2
+A. Rukavina,Javi Fuego,2
+Jaume Costa,Rodri,2
+Jaume Costa,C. Bacca,2
+\u00c1lvaro Gonz\u00e1lez,Pau Torres,2
+Pau Torres,R. Soriano,2
+Javi Fuego,Rodri,2
+Javi Fuego,A. Rukavina,2
+Sergio Asenjo,R. Soriano,1
+A. Rukavina,D. Cheryshev,1
+A. Rukavina,Pau Torres,1
+Jaume Costa,Sergio Asenjo,1
+C. Bacca,Rodri,1
+Rodri,E. \u00dcnal,1
+Jaume Costa,E. \u00dcnal,1
+A. Rukavina,Sergio Asenjo,1
+Pau Torres,E. \u00dcnal,1
+Rodri,D. Cheryshev,1
+\u00c1lvaro Gonz\u00e1lez,Javi Fuego,1
+E. \u00dcnal,Rodri,1
+\u00c1lvaro Gonz\u00e1lez,Jaume Costa,1
+D. Cheryshev,\u00c1lvaro Gonz\u00e1lez,1
+\u00c1lvaro Gonz\u00e1lez,E. \u00dcnal,1
+\u00c1lvaro Gonz\u00e1lez,R. Soriano,1
+E. \u00dcnal,A. Rukavina,1
+Sergio Asenjo,E. \u00dcnal,1
+Javi Fuego,Jaume Costa,1
+C. Bacca,Jaume Costa,1
+E. \u00dcnal,D. Cheryshev,1
+R. Soriano,E. \u00dcnal,1
+R. Soriano,D. Cheryshev,1
+E. \u00dcnal,Pau Torres,1
+Javi Fuego,R. Soriano,1
+Javi Fuego,\u00c1lvaro Gonz\u00e1lez,1

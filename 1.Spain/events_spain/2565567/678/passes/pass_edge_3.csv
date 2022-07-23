@@ -1,0 +1,79 @@
+Source,Target,Weight
+Saborit,Vesga,5
+I\u00f1igo C\u00f3rdoba,Saborit,5
+Saborit,I\u00f1igo C\u00f3rdoba,4
+Ra\u00fal Garc\u00eda,Aduriz,4
+Arrizabalaga,Ra\u00fal Garc\u00eda,4
+Saborit,Unai N\u00fa\u00f1ez,4
+A. Laporte,Arrizabalaga,4
+Unai N\u00fa\u00f1ez,B\u00f3veda,3
+Unai N\u00fa\u00f1ez,San Jos\u00e9,3
+Ra\u00fal Garc\u00eda,Saborit,3
+Vesga,I\u00f1igo C\u00f3rdoba,3
+I\u00f1igo C\u00f3rdoba,Vesga,3
+Vesga,Saborit,3
+San Jos\u00e9,Saborit,3
+Saborit,Ra\u00fal Garc\u00eda,3
+Saborit,A. Laporte,3
+San Jos\u00e9,Vesga,3
+Aduriz,Saborit,3
+B\u00f3veda,Unai N\u00fa\u00f1ez,3
+Arrizabalaga,Aduriz,3
+San Jos\u00e9,Ra\u00fal Garc\u00eda,2
+Ra\u00fal Garc\u00eda,San Jos\u00e9,2
+Vesga,A. Laporte,2
+Unai N\u00fa\u00f1ez,Vesga,2
+B\u00f3veda,A. Laporte,2
+Saborit,B\u00f3veda,2
+Ra\u00fal Garc\u00eda,B\u00f3veda,2
+Vesga,B\u00f3veda,2
+San Jos\u00e9,I\u00f1aki Williams,2
+A. Laporte,Saborit,2
+Ra\u00fal Garc\u00eda,I\u00f1igo C\u00f3rdoba,2
+Aduriz,Vesga,2
+Vesga,San Jos\u00e9,2
+B\u00f3veda,San Jos\u00e9,2
+A. Laporte,Ra\u00fal Garc\u00eda,2
+San Jos\u00e9,A. Laporte,2
+Aduriz,I\u00f1aki Williams,2
+I\u00f1aki Williams,B\u00f3veda,1
+B\u00f3veda,Aduriz,1
+Arrizabalaga,B\u00f3veda,1
+I\u00f1aki Williams,Saborit,1
+I\u00f1aki Williams,Ra\u00fal Garc\u00eda,1
+I\u00f1aki Williams,I\u00f1igo C\u00f3rdoba,1
+B\u00f3veda,I\u00f1igo C\u00f3rdoba,1
+B\u00f3veda,Ra\u00fal Garc\u00eda,1
+I\u00f1aki Williams,Unai N\u00fa\u00f1ez,1
+Muniain,I\u00f1aki Williams,1
+I\u00f1igo C\u00f3rdoba,A. Laporte,1
+A. Laporte,San Jos\u00e9,1
+I\u00f1igo C\u00f3rdoba,Arrizabalaga,1
+B\u00f3veda,Saborit,1
+Aduriz,I\u00f1igo C\u00f3rdoba,1
+A. Laporte,I\u00f1aki Williams,1
+Vesga,Muniain,1
+San Jos\u00e9,Unai N\u00fa\u00f1ez,1
+San Jos\u00e9,B\u00f3veda,1
+I\u00f1aki Williams,Aduriz,1
+B\u00f3veda,Arrizabalaga,1
+Unai N\u00fa\u00f1ez,Arrizabalaga,1
+I\u00f1igo C\u00f3rdoba,Aduriz,1
+I\u00f1aki Williams,Vesga,1
+Vesga,I\u00f1aki Williams,1
+I\u00f1aki Williams,San Jos\u00e9,1
+Aduriz,Unai N\u00fa\u00f1ez,1
+Arrizabalaga,San Jos\u00e9,1
+Unai N\u00fa\u00f1ez,Saborit,1
+Aduriz,Arrizabalaga,1
+Vesga,Arrizabalaga,1
+Saborit,San Jos\u00e9,1
+Unai N\u00fa\u00f1ez,A. Laporte,1
+Vesga,Ra\u00fal Garc\u00eda,1
+A. Laporte,Unai N\u00fa\u00f1ez,1
+Unai N\u00fa\u00f1ez,Aduriz,1
+Vesga,Aduriz,1
+I\u00f1igo C\u00f3rdoba,I\u00f1aki Williams,1
+Aduriz,A. Laporte,1
+A. Laporte,Vesga,1
+Aduriz,San Jos\u00e9,1

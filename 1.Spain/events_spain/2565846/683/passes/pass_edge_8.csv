@@ -1,0 +1,37 @@
+Source,Target,Weight
+M. Lacen,Bueno,2
+Miquel,Miguel Torres,2
+M. Lacen,Miquel,2
+M. Lacen,Chory Castro,2
+Miguel Torres,M. Lacen,2
+Chory Castro,Bueno,2
+Roberto,Y. En-Nesyri,2
+Miquel,Chory Castro,2
+Bueno,M. Lacen,2
+Chory Castro,D. Rol\u00e1n,1
+Miguel Torres,Roberto,1
+Y. En-Nesyri,Roberto,1
+M. Lacen,Luis Hern\u00e1ndez,1
+Y. En-Nesyri,M. Lacen,1
+Y. En-Nesyri,M. Iturra,1
+Y. En-Nesyri,Bueno,1
+M. Iturra,Miquel,1
+R. Rosales,Y. En-Nesyri,1
+Chory Castro,R. Rosales,1
+M. Iturra,R. Rosales,1
+Bueno,Miguel Torres,1
+R. Rosales,M. Lacen,1
+R. Rosales,Miquel,1
+Miguel Torres,Chory Castro,1
+Luis Hern\u00e1ndez,M. Iturra,1
+Miquel,M. Lacen,1
+Miguel Torres,Luis Hern\u00e1ndez,1
+I. Success,R. Rosales,1
+Bueno,Miquel,1
+Chory Castro,Y. En-Nesyri,1
+Bueno,Chory Castro,1
+Y. En-Nesyri,Miguel Torres,1
+D. Rol\u00e1n,I. Success,1
+Chory Castro,Miguel Torres,1
+Luis Hern\u00e1ndez,Y. En-Nesyri,1
+Miguel Torres,Y. En-Nesyri,1

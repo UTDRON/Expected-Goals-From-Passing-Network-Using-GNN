@@ -1,0 +1,23 @@
+Source,Target,Weight
+B. Nuytinck,K. Lasagna,2
+Samir,Danilo,2
+B. Nuytinck,Samir,2
+Danilo,A. Bizzarri,1
+A. Bizzarri,B. Nuytinck,1
+K. Lasagna,S. Fofana,1
+S. Widmer,A. Bizzarri,1
+A. Bar\u00e1k,K. Lasagna,1
+A. Bizzarri,Samir,1
+Danilo,B. Nuytinck,1
+A. Bizzarri,A. Bar\u00e1k,1
+A. Bizzarri,R. de Paul,1
+K. Lasagna,Samir,1
+S. Fofana,G. Pezzella,1
+R. de Paul,J. Jankto,1
+G. Pezzella,R. de Paul,1
+K. Lasagna,A. Bizzarri,1
+Samir,B. Nuytinck,1
+R. de Paul,B. Nuytinck,1
+Samir,A. Bizzarri,1
+Danilo,S. Widmer,1
+B. Nuytinck,Danilo,1

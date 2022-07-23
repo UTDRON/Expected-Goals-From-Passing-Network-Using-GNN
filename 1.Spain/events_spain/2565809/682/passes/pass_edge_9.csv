@@ -1,0 +1,21 @@
+Source,Target,Weight
+R. Soriano,Rodri,2
+Trigueros,Mario,2
+Pablo Fornals,C. Bacca,1
+Rodri,Trigueros,1
+C. Bacca,Trigueros,1
+Jaume Costa,Rodri,1
+R. Soriano,C. Bacca,1
+Pablo Fornals,D. Bonera,1
+Rodri,Jaume Costa,1
+C. Bacca,E. \u00dcnal,1
+D. Bonera,Sergio Asenjo,1
+Trigueros,Jaume Costa,1
+E. \u00dcnal,R. Soriano,1
+Jaume Costa,\u00c1lvaro Gonz\u00e1lez,1
+Mario,R. Soriano,1
+Sergio Asenjo,R. Soriano,1
+\u00c1lvaro Gonz\u00e1lez,Mario,1
+C. Bacca,Pablo Fornals,1
+Rodri,C. Bacca,1
+Mario,Pablo Fornals,1

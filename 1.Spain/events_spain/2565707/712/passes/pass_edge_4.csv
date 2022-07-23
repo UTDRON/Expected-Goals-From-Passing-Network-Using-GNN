@@ -1,0 +1,31 @@
+Source,Target,Weight
+N. El Zhar,Tito,3
+Gabriel,Diego Rico,3
+Tito,N. El Zhar,3
+Bustinza,Gabriel,2
+Omar Ramos,Rub\u00e9n P\u00e9rez,2
+Diego Rico,Bustinza,2
+Eraso,Gabriel,2
+Rub\u00e9n P\u00e9rez,Tito,2
+Gabriel,M. Mantovani,2
+Gabriel,Omar Ramos,1
+N. El Zhar,C. Beauvue,1
+M. Mantovani,N. El Zhar,1
+Bustinza,Cu\u00e9llar,1
+Omar Ramos,Gabriel,1
+Rub\u00e9n P\u00e9rez,M. Mantovani,1
+M. Mantovani,Diego Rico,1
+Diego Rico,Eraso,1
+Cu\u00e9llar,Diego Rico,1
+Diego Rico,Gabriel,1
+Bustinza,Omar Ramos,1
+Gabriel,Eraso,1
+M. Mantovani,Bustinza,1
+Rub\u00e9n P\u00e9rez,Cu\u00e9llar,1
+N. El Zhar,Bustinza,1
+Diego Rico,M. Mantovani,1
+Diego Rico,Omar Ramos,1
+M. Mantovani,Rub\u00e9n P\u00e9rez,1
+Cu\u00e9llar,N. El Zhar,1
+Tito,Gabriel,1
+Tito,Rub\u00e9n P\u00e9rez,1

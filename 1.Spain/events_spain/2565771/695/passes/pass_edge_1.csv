@@ -1,0 +1,71 @@
+Source,Target,Weight
+Campa\u00f1a,Ivi,5
+Campa\u00f1a,Luna,4
+C. Doukour\u00e9,Coke,3
+Coke,Campa\u00f1a,3
+Luna,Sergio Postigo,3
+Ivi,Campa\u00f1a,3
+Campa\u00f1a,S. Luki\u0107,3
+Campa\u00f1a,Coke,3
+Luna,Campa\u00f1a,3
+Sergio Postigo,Luna,3
+Luna,Jos\u00e9 Luis Morales,3
+Jos\u00e9 Luis Morales,Campa\u00f1a,2
+Oier,Coke,2
+Coke,Oier,2
+G. Pazzini,Coke,2
+S. Luki\u0107,Campa\u00f1a,2
+Sergio Postigo,S. Luki\u0107,2
+Ivi,Sergio Postigo,2
+C. Doukour\u00e9,Luna,2
+S. Luki\u0107,Sergio Postigo,2
+S. Luki\u0107,Luna,2
+G. Pazzini,C. Doukour\u00e9,2
+Coke,C. Doukour\u00e9,2
+S. Luki\u0107,G. Pazzini,2
+S. Luki\u0107,C. Doukour\u00e9,2
+Rober,Coke,2
+Coke,G. Pazzini,2
+G. Pazzini,Campa\u00f1a,2
+Jos\u00e9 Luis Morales,Rober,2
+Campa\u00f1a,C. Doukour\u00e9,1
+G. Pazzini,Ivi,1
+S. Luki\u0107,Coke,1
+Oier,Campa\u00f1a,1
+G. Pazzini,Sergio Postigo,1
+Oier,G. Pazzini,1
+C. Doukour\u00e9,G. Pazzini,1
+Rober,Jos\u00e9 Luis Morales,1
+Campa\u00f1a,Sergio Postigo,1
+Rober,Ivi,1
+Rober,C. Doukour\u00e9,1
+Ivi,S. Luki\u0107,1
+Oier,S. Luki\u0107,1
+Luna,Oier,1
+Coke,S. Luki\u0107,1
+Ivi,Rober,1
+Coke,Rober,1
+Rober,Oier,1
+Ivi,Luna,1
+Sergio Postigo,Rober,1
+Coke,Jos\u00e9 Luis Morales,1
+G. Pazzini,S. Luki\u0107,1
+Sergio Postigo,G. Pazzini,1
+Coke,Ivi,1
+Luna,S. Luki\u0107,1
+Jos\u00e9 Luis Morales,S. Luki\u0107,1
+C. Doukour\u00e9,S. Luki\u0107,1
+Ivi,C. Doukour\u00e9,1
+Coke,Luna,1
+Jos\u00e9 Luis Morales,Coke,1
+C. Doukour\u00e9,Oier,1
+Sergio Postigo,Campa\u00f1a,1
+Sergio Postigo,Oier,1
+C. Doukour\u00e9,Campa\u00f1a,1
+Luna,Ivi,1
+Rober,Sergio Postigo,1
+Oier,Ivi,1
+Ivi,G. Pazzini,1
+Luna,Rober,1
+S. Luki\u0107,Rober,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1

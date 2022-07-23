@@ -1,0 +1,54 @@
+Source,Target,Weight
+Nicolas,A. Ferrari,4
+A. Ferrari,Nicolas,4
+S. Souprayen,M. B\u00fcchel,4
+T. Heurtaux,A. Cerci,3
+M. B\u00fcchel,S. Souprayen,3
+M. B\u00fcchel,T. Heurtaux,3
+S. Souprayen,Daniel Bessa,3
+R\u00f4mulo,Daniel Bessa,2
+M. C\u00e1ceres,M. B\u00fcchel,2
+A. Ferrari,S. Souprayen,2
+M. B\u00fcchel,A. Ferrari,2
+Daniel Bessa,M. B\u00fcchel,2
+T. Heurtaux,A. Ferrari,2
+Daniel Bessa,D. Verde,2
+Daniel Bessa,R\u00f4mulo,2
+A. Cerci,M. Zaccagni,2
+M. C\u00e1ceres,S. Souprayen,2
+M. B\u00fcchel,Nicolas,1
+Daniel Bessa,T. Heurtaux,1
+A. Ferrari,D. Verde,1
+Nicolas,S. Souprayen,1
+Nicolas,M. B\u00fcchel,1
+S. Souprayen,Nicolas,1
+D. Verde,M. C\u00e1ceres,1
+S. Souprayen,M. Zaccagni,1
+M. Zaccagni,Daniel Bessa,1
+T. Heurtaux,S. Souprayen,1
+T. Heurtaux,Nicolas,1
+M. Zaccagni,A. Cerci,1
+Daniel Bessa,M. C\u00e1ceres,1
+Nicolas,Daniel Bessa,1
+M. Zaccagni,S. Souprayen,1
+M. C\u00e1ceres,Nicolas,1
+R\u00f4mulo,T. Heurtaux,1
+T. Heurtaux,M. B\u00fcchel,1
+R\u00f4mulo,A. Cerci,1
+R\u00f4mulo,M. C\u00e1ceres,1
+Nicolas,D. Verde,1
+M. B\u00fcchel,R\u00f4mulo,1
+A. Ferrari,Daniel Bessa,1
+D. Verde,R\u00f4mulo,1
+M. B\u00fcchel,A. Cerci,1
+M. Zaccagni,M. B\u00fcchel,1
+S. Souprayen,R\u00f4mulo,1
+A. Ferrari,T. Heurtaux,1
+A. Cerci,A. Ferrari,1
+S. Souprayen,T. Heurtaux,1
+D. Verde,Nicolas,1
+Nicolas,M. Zaccagni,1
+Daniel Bessa,S. Souprayen,1
+D. Verde,T. Heurtaux,1
+A. Cerci,Daniel Bessa,1
+A. Cerci,M. C\u00e1ceres,1

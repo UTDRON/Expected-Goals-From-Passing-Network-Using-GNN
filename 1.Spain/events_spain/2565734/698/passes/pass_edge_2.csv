@@ -1,0 +1,60 @@
+Source,Target,Weight
+Portillo,D. Su\u00e1rez,9
+D. Su\u00e1rez,Portillo,7
+F. Fajr,Antunes,5
+M. Arambarri,A. Ndiaye,5
+Bruno,D. Su\u00e1rez,5
+Antunes,F. Fajr,5
+D. Su\u00e1rez,M. Arambarri,4
+A. Ndiaye,M. Arambarri,4
+G. Shibasaki,D. Su\u00e1rez,4
+D. Su\u00e1rez,F. Fajr,3
+F. Fajr,D. Su\u00e1rez,3
+A. Ndiaye,Juan Cala,3
+Jorge Molina,Portillo,3
+D. Su\u00e1rez,Jorge Molina,3
+Juan Cala,G. Shibasaki,3
+D. Su\u00e1rez,A. Ndiaye,3
+Juan Cala,Bruno,2
+G. Shibasaki,Antunes,2
+A. Ndiaye,Portillo,2
+D. Su\u00e1rez,Bruno,2
+Portillo,Antunes,2
+Jorge Molina,A. Ndiaye,2
+E. Mart\u00ednez,Jorge Molina,2
+Juan Cala,A. Ndiaye,2
+D. Su\u00e1rez,Juan Cala,2
+M. Arambarri,F. Fajr,2
+Juan Cala,E. Mart\u00ednez,2
+M. Arambarri,D. Su\u00e1rez,2
+Jorge Molina,Juan Cala,2
+G. Shibasaki,F. Fajr,2
+A. Ndiaye,Antunes,2
+F. Fajr,E. Mart\u00ednez,2
+D. Su\u00e1rez,G. Shibasaki,2
+Antunes,A. Ndiaye,1
+Bruno,Portillo,1
+E. Mart\u00ednez,G. Shibasaki,1
+Juan Cala,D. Su\u00e1rez,1
+Portillo,G. Shibasaki,1
+Portillo,Jorge Molina,1
+Bruno,E. Mart\u00ednez,1
+Antunes,M. Arambarri,1
+A. Ndiaye,Bruno,1
+E. Mart\u00ednez,Juan Cala,1
+Antunes,Bruno,1
+Antunes,G. Shibasaki,1
+F. Fajr,M. Arambarri,1
+A. Ndiaye,D. Su\u00e1rez,1
+A. Ndiaye,F. Fajr,1
+Jorge Molina,D. Su\u00e1rez,1
+Portillo,M. Arambarri,1
+E. Mart\u00ednez,M. Arambarri,1
+F. Fajr,Bruno,1
+M. Arambarri,Juan Cala,1
+M. Arambarri,Jorge Molina,1
+F. Fajr,A. Ndiaye,1
+Antunes,Jorge Molina,1
+Antunes,Portillo,1
+M. Arambarri,Portillo,1
+Antunes,Juan Cala,1

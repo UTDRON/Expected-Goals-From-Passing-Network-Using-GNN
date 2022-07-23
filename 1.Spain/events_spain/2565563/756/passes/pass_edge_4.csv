@@ -1,0 +1,32 @@
+Source,Target,Weight
+Pablo Maffeo,Pedro Alcal\u00e1,3
+Portu,Pablo Maffeo,2
+Aday,C. Stuani,2
+\u00c1lex Granell,Muniesa,2
+Muniesa,Aday,2
+Bernardo Espinosa,Muniesa,2
+Borja Garc\u00eda,Aday,2
+Bernardo Espinosa,Pablo Maffeo,1
+Pablo Maffeo,Aday,1
+Portu,Pedro Alcal\u00e1,1
+Pedro Alcal\u00e1,Portu,1
+Borja Garc\u00eda,Bernardo Espinosa,1
+Muniesa,Borja Garc\u00eda,1
+Pablo Maffeo,Portu,1
+Portu,Borja Garc\u00eda,1
+Aday,Bernardo Espinosa,1
+Pedro Alcal\u00e1,Pablo Maffeo,1
+Pablo Maffeo,\u00c1lex Granell,1
+\u00c1lex Granell,Bernardo Espinosa,1
+Pedro Alcal\u00e1,Aday,1
+Pedro Alcal\u00e1,Bernardo Espinosa,1
+Borja Garc\u00eda,Pedro Alcal\u00e1,1
+C. Stuani,Pablo Maffeo,1
+C. Stuani,\u00c1lex Granell,1
+Aday,\u00c1lex Granell,1
+Muniesa,\u00c1lex Granell,1
+Aday,Borja Garc\u00eda,1
+Pedro Alcal\u00e1,C. Stuani,1
+\u00c1lex Granell,Borja Garc\u00eda,1
+C. Stuani,Portu,1
+Aday,Portu,1

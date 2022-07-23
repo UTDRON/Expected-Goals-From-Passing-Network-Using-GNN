@@ -1,0 +1,10 @@
+Source,Target,Weight
+Juan Jesus,R. Nainggolan,3
+R. Nainggolan,Juan Jesus,2
+A. Florenzi,Bruno Peres,1
+A. Kolarov,R. Nainggolan,1
+Bruno Peres,Juan Jesus,1
+M. Gonalons,A. Kolarov,1
+Alisson,A. Florenzi,1
+R. Nainggolan,Alisson,1
+R. Nainggolan,M. Gonalons,1

@@ -1,0 +1,17 @@
+Source,Target,Weight
+Campa\u00f1a,Coke,2
+Roger,E. Boateng,1
+E. Cabaco,Coke,1
+Coke,E. Boateng,1
+Oier,E. Boateng,1
+Campa\u00f1a,Jason,1
+Jason,Campa\u00f1a,1
+Coke,Oier,1
+Coke,Roger,1
+E. Boateng,Coke,1
+Coke,Campa\u00f1a,1
+E. Boateng,Campa\u00f1a,1
+Jason,J. Lerma,1
+Campa\u00f1a,Pedro L\u00f3pez,1
+Pedro L\u00f3pez,E. Cabaco,1
+E. Boateng,Jason,1

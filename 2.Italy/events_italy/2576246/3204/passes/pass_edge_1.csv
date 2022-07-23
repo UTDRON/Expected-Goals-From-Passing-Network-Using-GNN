@@ -1,0 +1,39 @@
+Source,Target,Weight
+P. Schiattarella,F. Vicari,5
+T. Cionek,M. Lazzari,4
+F. Vicari,P. Schiattarella,3
+F. Costa,P. Schiattarella,3
+P. Schiattarella,T. Cionek,3
+J. Kurti\u010d,P. Schiattarella,3
+M. Lazzari,P. Schiattarella,3
+T. Cionek,F. Vicari,3
+F. Vicari,T. Cionek,2
+M. Lazzari,T. Cionek,2
+P. Schiattarella,M. Lazzari,2
+F. Vicari,A. Grassi,2
+Felipe,F. Vicari,2
+A. Paloschi,M. Lazzari,2
+A. Paloschi,P. Schiattarella,2
+M. Antenucci,F. Costa,2
+P. Schiattarella,M. Antenucci,2
+T. Cionek,P. Schiattarella,2
+P. Schiattarella,J. Kurti\u010d,2
+P. Schiattarella,A. Grassi,1
+Felipe,M. Lazzari,1
+M. Antenucci,A. Paloschi,1
+A. Grassi,P. Schiattarella,1
+A. Grassi,A. Paloschi,1
+F. Vicari,A. Paloschi,1
+A. Paloschi,A. Grassi,1
+P. Schiattarella,F. Costa,1
+Felipe,F. Costa,1
+M. Lazzari,A. Paloschi,1
+F. Costa,T. Cionek,1
+A. Grassi,T. Cionek,1
+F. Vicari,Felipe,1
+M. Lazzari,J. Kurti\u010d,1
+P. Schiattarella,A. Paloschi,1
+A. Grassi,Felipe,1
+M. Lazzari,F. Costa,1
+M. Lazzari,Felipe,1
+F. Vicari,M. Antenucci,1

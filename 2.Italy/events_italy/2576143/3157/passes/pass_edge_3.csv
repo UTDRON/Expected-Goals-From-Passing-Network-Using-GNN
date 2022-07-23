@@ -1,0 +1,90 @@
+Source,Target,Weight
+D. Calabria,F. Kessi\u00e9,10
+F. Kessi\u00e9,D. Calabria,10
+D. Calabria,Suso,9
+A. Romagnoli,R. Rodr\u00edguez,8
+R. Rodr\u00edguez,R. Montolivo,7
+R. Rodr\u00edguez,G. Bonaventura,6
+G. Bonaventura,R. Rodr\u00edguez,6
+F. Borini,R. Rodr\u00edguez,5
+L. Bonucci,D. Calabria,5
+R. Rodr\u00edguez,A. Romagnoli,5
+P. Cutrone,F. Kessi\u00e9,5
+D. Calabria,P. Cutrone,5
+R. Montolivo,R. Rodr\u00edguez,4
+Suso,P. Cutrone,4
+P. Cutrone,D. Calabria,4
+F. Kessi\u00e9,Suso,4
+G. Bonaventura,F. Borini,4
+Suso,D. Calabria,4
+R. Montolivo,D. Calabria,4
+D. Calabria,L. Bonucci,4
+P. Cutrone,F. Borini,3
+L. Bonucci,Suso,3
+F. Kessi\u00e9,A. Romagnoli,3
+R. Montolivo,G. Bonaventura,3
+G. Bonaventura,P. Cutrone,3
+G. Donnarumma,D. Calabria,3
+A. Romagnoli,G. Bonaventura,3
+P. Cutrone,L. Bonucci,3
+L. Bonucci,A. Romagnoli,3
+F. Kessi\u00e9,P. Cutrone,3
+R. Montolivo,F. Kessi\u00e9,2
+G. Bonaventura,R. Montolivo,2
+A. Romagnoli,L. Bonucci,2
+F. Borini,G. Bonaventura,2
+R. Rodr\u00edguez,L. Bonucci,2
+Suso,F. Kessi\u00e9,2
+F. Borini,F. Kessi\u00e9,2
+P. Cutrone,R. Montolivo,2
+F. Kessi\u00e9,L. Bonucci,2
+Suso,R. Montolivo,2
+R. Rodr\u00edguez,F. Kessi\u00e9,2
+F. Borini,A. Romagnoli,2
+A. Romagnoli,F. Borini,2
+R. Rodr\u00edguez,F. Borini,2
+R. Rodr\u00edguez,P. Cutrone,2
+Suso,A. Romagnoli,2
+L. Bonucci,F. Kessi\u00e9,2
+L. Bonucci,G. Bonaventura,2
+Suso,L. Bonucci,2
+L. Bonucci,P. Cutrone,2
+Suso,F. Borini,2
+Suso,R. Rodr\u00edguez,2
+R. Montolivo,L. Bonucci,1
+F. Borini,Suso,1
+A. Romagnoli,P. Cutrone,1
+P. Cutrone,G. Bonaventura,1
+P. Cutrone,Suso,1
+G. Donnarumma,F. Kessi\u00e9,1
+R. Montolivo,G. Donnarumma,1
+D. Calabria,R. Montolivo,1
+A. Romagnoli,Suso,1
+R. Montolivo,Suso,1
+G. Donnarumma,R. Montolivo,1
+G. Bonaventura,A. Romagnoli,1
+G. Donnarumma,A. Romagnoli,1
+R. Rodr\u00edguez,D. Calabria,1
+R. Rodr\u00edguez,G. Donnarumma,1
+L. Bonucci,G. Donnarumma,1
+F. Borini,D. Calabria,1
+D. Calabria,A. Romagnoli,1
+G. Donnarumma,L. Bonucci,1
+P. Cutrone,A. Romagnoli,1
+F. Borini,P. Cutrone,1
+A. Romagnoli,D. Calabria,1
+P. Cutrone,G. Donnarumma,1
+F. Borini,R. Montolivo,1
+R. Montolivo,P. Cutrone,1
+D. Calabria,R. Rodr\u00edguez,1
+F. Kessi\u00e9,R. Montolivo,1
+G. Bonaventura,L. Bonucci,1
+F. Kessi\u00e9,G. Bonaventura,1
+F. Kessi\u00e9,G. Donnarumma,1
+R. Montolivo,F. Borini,1
+D. Calabria,F. Borini,1
+D. Calabria,G. Donnarumma,1
+P. Cutrone,R. Rodr\u00edguez,1
+G. Bonaventura,Suso,1
+F. Kessi\u00e9,R. Rodr\u00edguez,1
+A. Romagnoli,G. Donnarumma,1

@@ -1,0 +1,57 @@
+Source,Target,Weight
+T. Cionek,J. Kurti\u010d,4
+Felipe,A. Grassi,4
+J. Kurti\u010d,M. Lazzari,4
+F. Vicari,T. Cionek,4
+F. Vicari,J. Kurti\u010d,3
+T. Cionek,M. Lazzari,3
+A. Grassi,F. Mattiello,3
+M. Lazzari,S. Floccari,3
+M. Lazzari,F. Viviani,3
+F. Mattiello,A. Grassi,3
+Felipe,T. Cionek,3
+A. Grassi,S. Floccari,3
+S. Floccari,F. Mattiello,3
+F. Viviani,F. Vicari,3
+F. Mattiello,Felipe,2
+A. Gomis,F. Vicari,2
+T. Cionek,A. Gomis,2
+S. Floccari,M. Lazzari,2
+M. Lazzari,T. Cionek,2
+F. Viviani,Felipe,2
+A. Grassi,F. Viviani,2
+F. Viviani,T. Cionek,2
+F. Mattiello,M. Lazzari,2
+F. Mattiello,F. Viviani,2
+F. Vicari,Felipe,2
+F. Viviani,M. Lazzari,2
+A. Gomis,Felipe,2
+M. Lazzari,A. Gomis,2
+S. Floccari,F. Viviani,2
+S. Floccari,F. Vicari,2
+M. Lazzari,J. Kurti\u010d,2
+J. Kurti\u010d,S. Floccari,2
+F. Viviani,F. Mattiello,1
+T. Cionek,Felipe,1
+F. Mattiello,F. Vicari,1
+Felipe,F. Vicari,1
+J. Kurti\u010d,F. Mattiello,1
+S. Floccari,J. Kurti\u010d,1
+J. Kurti\u010d,F. Viviani,1
+A. Gomis,A. Grassi,1
+M. Lazzari,F. Mattiello,1
+F. Viviani,A. Gomis,1
+F. Vicari,F. Viviani,1
+J. Kurti\u010d,A. Grassi,1
+T. Cionek,F. Viviani,1
+Felipe,A. Gomis,1
+A. Grassi,M. Lazzari,1
+J. Kurti\u010d,T. Cionek,1
+J. Kurti\u010d,Felipe,1
+A. Gomis,F. Viviani,1
+F. Viviani,J. Kurti\u010d,1
+Felipe,F. Mattiello,1
+A. Grassi,F. Vicari,1
+F. Vicari,S. Floccari,1
+T. Cionek,S. Floccari,1
+F. Viviani,A. Grassi,1

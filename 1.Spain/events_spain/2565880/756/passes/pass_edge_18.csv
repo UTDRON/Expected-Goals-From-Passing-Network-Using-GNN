@@ -1,0 +1,30 @@
+Source,Target,Weight
+Aday,\u00c1lex Granell,3
+\u00c1lex Granell,Pere Pons,3
+\u00c1lex Granell,Juanpe,3
+Juanpe,\u00c1lex Granell,3
+Ramalho,Juanpe,2
+Juanpe,J. Mojica,2
+J. Mojica,Aday,2
+Y. Bounou,Juanpe,2
+Pere Pons,J. Mojica,2
+Portu,\u00c1lex Granell,2
+Pere Pons,Y. Bounou,2
+Juanpe,Aday,2
+Juanpe,Pere Pons,2
+Aday,Juanpe,2
+Ramalho,Pere Pons,1
+J. Mojica,Pere Pons,1
+\u00c1lex Granell,Portu,1
+Pablo Maffeo,Ramalho,1
+Pere Pons,Pablo Maffeo,1
+Juanpe,Ramalho,1
+Pablo Maffeo,\u00c1lex Granell,1
+Pablo Maffeo,Portu,1
+Pere Pons,Ramalho,1
+\u00c1lex Granell,Pablo Maffeo,1
+\u00c1lex Granell,J. Mojica,1
+J. Mojica,Pablo Maffeo,1
+Pere Pons,Aday,1
+J. Mojica,\u00c1lex Granell,1
+\u00c1lex Granell,M. Olunga,1

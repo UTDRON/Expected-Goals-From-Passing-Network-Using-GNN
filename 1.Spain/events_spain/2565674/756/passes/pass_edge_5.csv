@@ -1,0 +1,22 @@
+Source,Target,Weight
+Juanpe,Y. Bounou,3
+Juanpe,Ramalho,2
+Y. Bounou,\u00c1lex Granell,2
+Muniesa,Juanpe,2
+Ramalho,Juanpe,2
+Aday,\u00c1lex Granell,1
+Borja Garc\u00eda,\u00c1lex Granell,1
+Aday,Borja Garc\u00eda,1
+Y. Bounou,Juanpe,1
+Muniesa,Borja Garc\u00eda,1
+\u00c1lex Granell,Ramalho,1
+Borja Garc\u00eda,Portu,1
+Borja Garc\u00eda,Muniesa,1
+\u00c1lex Granell,Borja Garc\u00eda,1
+Ramalho,Y. Bounou,1
+\u00c1lex Granell,Aday,1
+\u00c1lex Granell,Portu,1
+Y. Bounou,C. Stuani,1
+Portu,Juanpe,1
+C. Stuani,Aday,1
+Juanpe,Muniesa,1

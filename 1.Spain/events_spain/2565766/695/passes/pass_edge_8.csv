@@ -1,0 +1,79 @@
+Source,Target,Weight
+Luna,Jos\u00e9 Luis Morales,4
+C. Doukour\u00e9,S. Luki\u0107,4
+Coke,Jason,4
+Ivi,C. Doukour\u00e9,3
+Luna,Sergio Postigo,3
+Coke,Oier,3
+Rober,Coke,3
+Jos\u00e9 Luis Morales,C. Doukour\u00e9,3
+Jos\u00e9 Luis Morales,Luna,3
+Ivi,Luna,3
+C. Doukour\u00e9,Coke,3
+Jos\u00e9 Luis Morales,Sergio Postigo,3
+S. Luki\u0107,Jos\u00e9 Luis Morales,3
+Jos\u00e9 Luis Morales,Jason,3
+Rober,Sergio Postigo,3
+Sergio Postigo,J. Lerma,3
+Sergio Postigo,Rober,3
+Oier,Jos\u00e9 Luis Morales,2
+S. Luki\u0107,Sergio Postigo,2
+Jason,J. Lerma,2
+Jason,Jos\u00e9 Luis Morales,2
+Sergio Postigo,Luna,2
+Luna,Oier,2
+S. Luki\u0107,Luna,2
+Jason,G. Pazzini,2
+S. Luki\u0107,C. Doukour\u00e9,2
+Luna,Ivi,2
+Jason,Rober,2
+J. Lerma,Luna,2
+J. Lerma,Coke,2
+Luna,S. Luki\u0107,2
+S. Luki\u0107,Rober,2
+Jos\u00e9 Luis Morales,Ivi,2
+Coke,Luna,2
+Jason,S. Luki\u0107,2
+Rober,S. Luki\u0107,2
+Oier,Ivi,2
+Jos\u00e9 Luis Morales,Coke,1
+Oier,Roger,1
+Coke,S. Luki\u0107,1
+Luna,G. Pazzini,1
+Sergio Postigo,Jason,1
+Coke,J. Lerma,1
+Ivi,Jos\u00e9 Luis Morales,1
+J. Lerma,Jason,1
+Ivi,S. Luki\u0107,1
+Coke,Jos\u00e9 Luis Morales,1
+Sergio Postigo,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,Rober,1
+Oier,Coke,1
+G. Pazzini,Sergio Postigo,1
+Luna,Coke,1
+C. Doukour\u00e9,Jos\u00e9 Luis Morales,1
+S. Luki\u0107,Coke,1
+Ivi,Coke,1
+S. Luki\u0107,Ivi,1
+Jason,Coke,1
+Rober,Jason,1
+S. Luki\u0107,Jason,1
+Sergio Postigo,Oier,1
+C. Doukour\u00e9,Luna,1
+Coke,C. Doukour\u00e9,1
+Sergio Postigo,Ivi,1
+Sergio Postigo,S. Luki\u0107,1
+Roger,Ivi,1
+Oier,S. Luki\u0107,1
+Luna,Roger,1
+Coke,Sergio Postigo,1
+Rober,Luna,1
+G. Pazzini,Oier,1
+Jos\u00e9 Luis Morales,Roger,1
+Roger,Sergio Postigo,1
+J. Lerma,Rober,1
+Roger,C. Doukour\u00e9,1
+Roger,Jos\u00e9 Luis Morales,1
+Sergio Postigo,Coke,1
+Coke,Roger,1
+C. Doukour\u00e9,Rober,1

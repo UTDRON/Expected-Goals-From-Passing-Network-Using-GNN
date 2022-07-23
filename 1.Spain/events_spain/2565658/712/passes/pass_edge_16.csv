@@ -1,0 +1,54 @@
+Source,Target,Weight
+Gabriel,Gumbau,3
+Gumbau,Diego Rico,3
+Ra\u00fal Garc\u00eda,Gabriel,3
+E. Mu\u00f1oz,Rub\u00e9n P\u00e9rez,3
+C. Beauvue,Zald\u00faa,2
+Gumbau,Gabriel,2
+Zald\u00faa,N. Amrabat,2
+Gabriel,Rub\u00e9n P\u00e9rez,2
+N. Amrabat,E. Mu\u00f1oz,2
+Rub\u00e9n P\u00e9rez,Diego Rico,2
+Diego Rico,Gumbau,2
+Gumbau,Rub\u00e9n P\u00e9rez,2
+Cu\u00e9llar,E. Mu\u00f1oz,2
+E. Mu\u00f1oz,Ra\u00fal Garc\u00eda,2
+Cu\u00e9llar,Gabriel,2
+Gumbau,Cu\u00e9llar,2
+Gabriel,Ra\u00fal Garc\u00eda,2
+Ra\u00fal Garc\u00eda,E. Mu\u00f1oz,2
+Diego Rico,Zald\u00faa,2
+Ra\u00fal Garc\u00eda,Gumbau,2
+N. El Zhar,N. Amrabat,1
+N. Amrabat,Cu\u00e9llar,1
+Rub\u00e9n P\u00e9rez,Gumbau,1
+Zald\u00faa,Gumbau,1
+Diego Rico,N. Amrabat,1
+C. Beauvue,Ra\u00fal Garc\u00eda,1
+Zald\u00faa,N. El Zhar,1
+Rub\u00e9n P\u00e9rez,C. Beauvue,1
+Diego Rico,Cu\u00e9llar,1
+Rub\u00e9n P\u00e9rez,E. Mu\u00f1oz,1
+Cu\u00e9llar,Ra\u00fal Garc\u00eda,1
+Gabriel,E. Mu\u00f1oz,1
+Zald\u00faa,C. Beauvue,1
+Zald\u00faa,Ra\u00fal Garc\u00eda,1
+Zald\u00faa,Gabriel,1
+C. Beauvue,Gabriel,1
+E. Mu\u00f1oz,Zald\u00faa,1
+E. Mu\u00f1oz,Cu\u00e9llar,1
+N. Amrabat,Gumbau,1
+E. Mu\u00f1oz,C. Beauvue,1
+Gumbau,N. Amrabat,1
+Gabriel,C. Beauvue,1
+Ra\u00fal Garc\u00eda,Diego Rico,1
+Zald\u00faa,Cu\u00e9llar,1
+Rub\u00e9n P\u00e9rez,Ra\u00fal Garc\u00eda,1
+N. El Zhar,Gabriel,1
+Gabriel,N. Amrabat,1
+Cu\u00e9llar,Zald\u00faa,1
+Rub\u00e9n P\u00e9rez,Zald\u00faa,1
+Rub\u00e9n P\u00e9rez,Gabriel,1
+Gabriel,Diego Rico,1
+N. Amrabat,Zald\u00faa,1
+Diego Rico,Rub\u00e9n P\u00e9rez,1

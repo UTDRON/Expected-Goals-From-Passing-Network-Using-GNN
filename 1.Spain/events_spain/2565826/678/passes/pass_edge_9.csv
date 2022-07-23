@@ -1,0 +1,41 @@
+Source,Target,Weight
+De Marcos,Ra\u00fal Garc\u00eda,3
+Ra\u00fal Garc\u00eda,San Jos\u00e9,2
+De Marcos,Unai N\u00fa\u00f1ez,2
+Iturraspe,De Marcos,2
+Be\u00f1at,Saborit,2
+Ra\u00fal Garc\u00eda,De Marcos,2
+Arrizabalaga,Unai N\u00fa\u00f1ez,2
+Unai N\u00fa\u00f1ez,San Jos\u00e9,2
+Arrizabalaga,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,Iturraspe,1
+Unai N\u00fa\u00f1ez,De Marcos,1
+San Jos\u00e9,Saborit,1
+Iturraspe,Saborit,1
+Unai N\u00fa\u00f1ez,Arrizabalaga,1
+I\u00f1aki Williams,De Marcos,1
+Ra\u00fal Garc\u00eda,Arrizabalaga,1
+Be\u00f1at,San Jos\u00e9,1
+San Jos\u00e9,Iturraspe,1
+Saborit,\u00cd\u00f1igo Mart\u00ednez,1
+\u00cd\u00f1igo Mart\u00ednez,I\u00f1igo C\u00f3rdoba,1
+Unai N\u00fa\u00f1ez,Iturraspe,1
+San Jos\u00e9,Be\u00f1at,1
+Saborit,Iturraspe,1
+Iturraspe,\u00cd\u00f1igo Mart\u00ednez,1
+I\u00f1aki Williams,Be\u00f1at,1
+San Jos\u00e9,Arrizabalaga,1
+Arrizabalaga,\u00cd\u00f1igo Mart\u00ednez,1
+Ra\u00fal Garc\u00eda,I\u00f1aki Williams,1
+\u00cd\u00f1igo Mart\u00ednez,Arrizabalaga,1
+De Marcos,I\u00f1aki Williams,1
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,1
+San Jos\u00e9,\u00cd\u00f1igo Mart\u00ednez,1
+\u00cd\u00f1igo Mart\u00ednez,Be\u00f1at,1
+I\u00f1igo C\u00f3rdoba,Unai N\u00fa\u00f1ez,1
+\u00cd\u00f1igo Mart\u00ednez,Saborit,1
+Be\u00f1at,Iturraspe,1
+Saborit,Be\u00f1at,1
+Iturraspe,Ra\u00fal Garc\u00eda,1
+San Jos\u00e9,Unai N\u00fa\u00f1ez,1
+Saborit,San Jos\u00e9,1

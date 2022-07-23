@@ -1,0 +1,26 @@
+Source,Target,Weight
+G. Pezzella,Vitor Hugo,4
+C. Biraghi,R. Saponara,2
+J. Veretout,M. Benassi,2
+F. Chiesa,J. Veretout,2
+J. Veretout,N. Milenkovi\u0107,2
+N. Milenkovi\u0107,G. Pezzella,2
+R. Saponara,J. Veretout,2
+Vitor Hugo,G. Pezzella,1
+J. Veretout,B. Dabo,1
+Vitor Hugo,M. Benassi,1
+R. Saponara,Vitor Hugo,1
+G. Simeone,G. Pezzella,1
+G. Simeone,M. Benassi,1
+B. Dabo,F. Chiesa,1
+Vitor Hugo,G. Simeone,1
+F. Chiesa,G. Simeone,1
+M. Benassi,N. Milenkovi\u0107,1
+M. Benassi,J. Veretout,1
+Vitor Hugo,C. Biraghi,1
+G. Simeone,C. Biraghi,1
+G. Pezzella,F. Chiesa,1
+Vitor Hugo,R. Saponara,1
+N. Milenkovi\u0107,F. Chiesa,1
+M. Benassi,R. Saponara,1
+R. Saponara,G. Simeone,1

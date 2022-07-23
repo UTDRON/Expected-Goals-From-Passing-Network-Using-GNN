@@ -1,0 +1,17 @@
+Source,Target,Weight
+A. Costa,V. Parigini,3
+C. Lombardi,A. Ciciretti,2
+A. Ciciretti,C. Lombardi,2
+V. Parigini,V. Belec,1
+G. Pu\u015fca\u015f,L. Del Pinto,1
+A. Costa,D. Cataldi,1
+V. Parigini,L. Venuti,1
+L. Del Pinto,C. Lombardi,1
+G. Pu\u015fca\u015f,V. Parigini,1
+D. Cataldi,A. Costa,1
+V. Parigini,G. Pu\u015fca\u015f,1
+V. Belec,A. Costa,1
+C. Lombardi,L. Del Pinto,1
+L. Venuti,A. Costa,1
+V. Parigini,C. Lombardi,1
+C. Lombardi,G. Pu\u015fca\u015f,1

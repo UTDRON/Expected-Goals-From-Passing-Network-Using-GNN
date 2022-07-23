@@ -1,0 +1,63 @@
+Source,Target,Weight
+K. Manolas,A. Florenzi,7
+A. Kolarov,F. Fazio,5
+M. Gonalons,R. Nainggolan,4
+A. Florenzi,F. Fazio,4
+R. Nainggolan,K. Manolas,4
+F. Fazio,M. Gonalons,4
+A. Florenzi,M. Gonalons,4
+M. Gonalons,S. El Shaarawy,4
+F. Fazio,A. Kolarov,4
+K. Manolas,F. Fazio,3
+A. Kolarov,S. El Shaarawy,3
+S. El Shaarawy,R. Nainggolan,3
+F. Fazio,K. Manolas,3
+L. Pellegrini,Gerson,3
+F. Fazio,S. El Shaarawy,3
+S. El Shaarawy,M. Gonalons,2
+Alisson,E. D\u017eeko,2
+L. Pellegrini,A. Florenzi,2
+Gerson,K. Manolas,2
+R. Nainggolan,L. Pellegrini,2
+R. Nainggolan,E. D\u017eeko,2
+A. Kolarov,K. Manolas,2
+Gerson,M. Gonalons,2
+S. El Shaarawy,A. Kolarov,2
+K. Manolas,R. Nainggolan,2
+R. Nainggolan,Alisson,2
+M. Gonalons,A. Florenzi,2
+A. Florenzi,Gerson,2
+Gerson,A. Florenzi,2
+M. Gonalons,L. Pellegrini,2
+E. D\u017eeko,A. Kolarov,2
+A. Kolarov,M. Gonalons,2
+M. Gonalons,F. Fazio,2
+S. El Shaarawy,F. Fazio,2
+A. Florenzi,L. Pellegrini,2
+K. Manolas,Alisson,2
+E. D\u017eeko,S. El Shaarawy,1
+A. Florenzi,R. Nainggolan,1
+Alisson,R. Nainggolan,1
+L. Pellegrini,M. Gonalons,1
+F. Fazio,L. Pellegrini,1
+R. Nainggolan,A. Florenzi,1
+R. Nainggolan,M. Gonalons,1
+S. El Shaarawy,L. Pellegrini,1
+R. Nainggolan,Gerson,1
+Alisson,A. Florenzi,1
+E. D\u017eeko,F. Fazio,1
+A. Florenzi,A. Kolarov,1
+M. Gonalons,A. Kolarov,1
+R. Nainggolan,S. El Shaarawy,1
+K. Manolas,Gerson,1
+L. Pellegrini,K. Manolas,1
+S. El Shaarawy,E. D\u017eeko,1
+L. Pellegrini,R. Nainggolan,1
+S. El Shaarawy,K. Manolas,1
+E. D\u017eeko,R. Nainggolan,1
+F. Fazio,E. D\u017eeko,1
+A. Florenzi,K. Manolas,1
+Gerson,R. Nainggolan,1
+F. Fazio,R. Nainggolan,1
+R. Nainggolan,A. Kolarov,1
+M. Gonalons,K. Manolas,1

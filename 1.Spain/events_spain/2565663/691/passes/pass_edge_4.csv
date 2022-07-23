@@ -1,0 +1,28 @@
+Source,Target,Weight
+Gerard Moreno,V\u00edctor S\u00e1nchez,4
+Gerard Moreno,Aar\u00f3n,2
+Pau L\u00f3pez,Gerard Moreno,2
+V\u00edctor S\u00e1nchez,Gerard Moreno,2
+David L\u00f3pez,Gerard Moreno,2
+Aar\u00f3n,Gerard Moreno,2
+V\u00edctor S\u00e1nchez,Pau L\u00f3pez,2
+Sergio Garc\u00eda,Javi Fuego,1
+Aar\u00f3n,Pau L\u00f3pez,1
+Sergi Darder,Aar\u00f3n,1
+Javi Fuego,Sergio Garc\u00eda,1
+P. Piatti,Naldo,1
+Javi Fuego,Sergi Darder,1
+P. Piatti,Aar\u00f3n,1
+David L\u00f3pez,Naldo,1
+Gerard Moreno,Jurado,1
+Javi Fuego,David L\u00f3pez,1
+Jurado,Aar\u00f3n,1
+Sergi Darder,P. Piatti,1
+Aar\u00f3n,P. Piatti,1
+David L\u00f3pez,Javi Fuego,1
+Aar\u00f3n,V\u00edctor S\u00e1nchez,1
+Pau L\u00f3pez,David L\u00f3pez,1
+Gerard Moreno,David L\u00f3pez,1
+Naldo,David L\u00f3pez,1
+V\u00edctor S\u00e1nchez,David L\u00f3pez,1
+Naldo,Sergi Darder,1

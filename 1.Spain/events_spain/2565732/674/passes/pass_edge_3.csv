@@ -1,0 +1,56 @@
+Source,Target,Weight
+Dani Parejo,Rodrigo,5
+Rodrigo,Dani Parejo,5
+Dani Parejo,E. Garay,3
+F. Coquelin,R\u00faben Vezo,3
+Jos\u00e9 Gay\u00e1,Gon\u00e7alo Guedes,3
+Dani Parejo,Jos\u00e9 Gay\u00e1,3
+Gabriel,Jos\u00e9 Gay\u00e1,3
+E. Garay,Gabriel,3
+R\u00faben Vezo,Rodrigo,3
+E. Garay,R\u00faben Vezo,3
+Gon\u00e7alo Guedes,Rodrigo,3
+N. Maksimovi\u0107,R\u00faben Vezo,2
+R\u00faben Vezo,Dani Parejo,2
+Rodrigo,F. Coquelin,2
+Rodrigo,R\u00faben Vezo,2
+F. Coquelin,E. Garay,2
+Jos\u00e9 Gay\u00e1,F. Coquelin,2
+N. Maksimovi\u0107,F. Coquelin,2
+Jos\u00e9 Gay\u00e1,Santi Mina,2
+F. Coquelin,Dani Parejo,2
+Gabriel,Dani Parejo,2
+F. Coquelin,Jos\u00e9 Gay\u00e1,2
+Rodrigo,Jos\u00e9 Gay\u00e1,2
+Dani Parejo,N. Maksimovi\u0107,2
+Gabriel,E. Garay,2
+Jos\u00e9 Gay\u00e1,N. Maksimovi\u0107,2
+R\u00faben Vezo,F. Coquelin,2
+Santi Mina,Jos\u00e9 Gay\u00e1,1
+E. Garay,N. Maksimovi\u0107,1
+Santi Mina,Gabriel,1
+Gon\u00e7alo Guedes,Dani Parejo,1
+N. Maksimovi\u0107,Gabriel,1
+Neto,Dani Parejo,1
+Gabriel,R\u00faben Vezo,1
+Jos\u00e9 Gay\u00e1,Gabriel,1
+N. Maksimovi\u0107,Santi Mina,1
+Jos\u00e9 Gay\u00e1,Dani Parejo,1
+N. Maksimovi\u0107,E. Garay,1
+Dani Parejo,Santi Mina,1
+E. Garay,Dani Parejo,1
+R\u00faben Vezo,E. Garay,1
+Santi Mina,Gon\u00e7alo Guedes,1
+Rodrigo,N. Maksimovi\u0107,1
+R\u00faben Vezo,Jos\u00e9 Gay\u00e1,1
+Dani Parejo,F. Coquelin,1
+R\u00faben Vezo,N. Maksimovi\u0107,1
+Gon\u00e7alo Guedes,Gabriel,1
+Jos\u00e9 Gay\u00e1,Rodrigo,1
+E. Garay,Santi Mina,1
+Rodrigo,Gon\u00e7alo Guedes,1
+F. Coquelin,Rodrigo,1
+F. Coquelin,Gabriel,1
+Gabriel,Neto,1
+Santi Mina,F. Coquelin,1
+R\u00faben Vezo,Gabriel,1

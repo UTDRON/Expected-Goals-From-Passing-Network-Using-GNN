@@ -1,0 +1,29 @@
+Source,Target,Weight
+O. Tannane,M\u00edchel,3
+Bigas,M. Lemos,2
+M\u00edchel,J. Calleri,2
+J. Calleri,O. Tannane,2
+Vicente G\u00f3mez,J. Calleri,1
+Dani Castellano,Jonathan Viera,1
+Dani Castellano,Bigas,1
+Jonathan Viera,Dani Castellano,1
+Javi Castellano,Bigas,1
+Dani Castellano,Javi Castellano,1
+Jonathan Viera,Vicente G\u00f3mez,1
+O. Tannane,J. Calleri,1
+M. Lemos,Javi Castellano,1
+Jonathan Viera,Javi Castellano,1
+M\u00edchel,Dani Castellano,1
+Javi Castellano,Jonathan Viera,1
+M\u00edchel,O. Tannane,1
+Javi Castellano,O. Tannane,1
+J. Calleri,Javi Castellano,1
+Dani Castellano,J. Calleri,1
+M. Lemos,Dani Castellano,1
+O. Tannane,Jonathan Viera,1
+M. Lemos,Vicente G\u00f3mez,1
+Javi Castellano,Dani Castellano,1
+Jonathan Viera,M\u00edchel,1
+J. Calleri,Dani Castellano,1
+J. Calleri,Jonathan Viera,1
+Vicente G\u00f3mez,M. Lemos,1

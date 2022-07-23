@@ -1,0 +1,105 @@
+Source,Target,Weight
+Alexis,Rub\u00e9n Sobrino,9
+Alfonso Pedraza,Adri\u00e1n Di\u00e9guez,9
+Rub\u00e9n Sobrino,Alexis,9
+Adri\u00e1n Di\u00e9guez,Alfonso Pedraza,8
+Tom\u00e1s Pina,Alfonso Pedraza,8
+Munir,J. Guidetti,8
+J. Guidetti,Rub\u00e9n Sobrino,8
+Adri\u00e1n Di\u00e9guez,M. Wakaso,8
+J. Guidetti,Munir,7
+Alexis,Munir,6
+M. Wakaso,Tom\u00e1s Pina,6
+Tom\u00e1s Pina,Munir,6
+Munir,Alfonso Pedraza,6
+Tom\u00e1s Pina,M. Wakaso,6
+M. Wakaso,G. Marip\u00e1n,6
+Alexis,J. Guidetti,6
+J. Guidetti,Tom\u00e1s Pina,6
+Rub\u00e9n Sobrino,Tom\u00e1s Pina,6
+Alexis,Tom\u00e1s Pina,6
+Laguardia,Alexis,5
+J. Guidetti,Alexis,5
+Munir,Alexis,5
+Munir,M. Wakaso,5
+Alfonso Pedraza,Tom\u00e1s Pina,5
+G. Marip\u00e1n,M. Wakaso,5
+Rub\u00e9n Sobrino,J. Guidetti,5
+M. Wakaso,Munir,5
+G. Marip\u00e1n,Adri\u00e1n Di\u00e9guez,5
+J. Guidetti,Alfonso Pedraza,5
+Rub\u00e9n Sobrino,Munir,4
+Tom\u00e1s Pina,G. Marip\u00e1n,4
+Laguardia,J. Guidetti,4
+Laguardia,Munir,4
+Adri\u00e1n Di\u00e9guez,J. Guidetti,4
+G. Marip\u00e1n,Alfonso Pedraza,4
+Alfonso Pedraza,G. Marip\u00e1n,4
+Tom\u00e1s Pina,J. Guidetti,4
+Alfonso Pedraza,Munir,4
+Tom\u00e1s Pina,Alexis,4
+Munir,Rub\u00e9n Sobrino,4
+Munir,Tom\u00e1s Pina,4
+Munir,Adri\u00e1n Di\u00e9guez,4
+M. Wakaso,Laguardia,4
+Adri\u00e1n Di\u00e9guez,Munir,3
+Rub\u00e9n Sobrino,G. Marip\u00e1n,3
+Alfonso Pedraza,M. Wakaso,3
+Rub\u00e9n Sobrino,Antonio Sivera,3
+Antonio Sivera,Rub\u00e9n Sobrino,3
+J. Guidetti,Laguardia,3
+Adri\u00e1n Di\u00e9guez,Tom\u00e1s Pina,3
+Tom\u00e1s Pina,Laguardia,3
+M. Wakaso,Rub\u00e9n Sobrino,3
+Alexis,Laguardia,3
+Alfonso Pedraza,Rub\u00e9n Sobrino,3
+M. Wakaso,J. Guidetti,3
+Tom\u00e1s Pina,Adri\u00e1n Di\u00e9guez,3
+M. Wakaso,Adri\u00e1n Di\u00e9guez,3
+G. Marip\u00e1n,Laguardia,3
+Laguardia,Tom\u00e1s Pina,3
+Alexis,M. Wakaso,3
+M. Wakaso,Alexis,3
+Alfonso Pedraza,Laguardia,3
+Adri\u00e1n Di\u00e9guez,G. Marip\u00e1n,2
+Laguardia,Antonio Sivera,2
+Laguardia,M. Wakaso,2
+Munir,G. Marip\u00e1n,2
+G. Marip\u00e1n,Tom\u00e1s Pina,2
+J. Guidetti,M. Wakaso,2
+G. Marip\u00e1n,Alexis,2
+Laguardia,Adri\u00e1n Di\u00e9guez,2
+Antonio Sivera,Tom\u00e1s Pina,2
+Alfonso Pedraza,J. Guidetti,2
+Munir,Laguardia,2
+Rub\u00e9n Sobrino,Alfonso Pedraza,2
+Tom\u00e1s Pina,Fernando Pacheco,2
+Tom\u00e1s Pina,Rub\u00e9n Sobrino,2
+Laguardia,Rub\u00e9n Sobrino,2
+Antonio Sivera,Adri\u00e1n Di\u00e9guez,2
+M. Wakaso,Antonio Sivera,2
+Antonio Sivera,Alexis,2
+Rub\u00e9n Sobrino,Laguardia,2
+Fernando Pacheco,J. Guidetti,1
+Antonio Sivera,Laguardia,1
+Fernando Pacheco,M. Wakaso,1
+J. Guidetti,G. Marip\u00e1n,1
+G. Marip\u00e1n,J. Guidetti,1
+Antonio Sivera,M. Wakaso,1
+Adri\u00e1n Di\u00e9guez,Rub\u00e9n Sobrino,1
+J. Guidetti,Antonio Sivera,1
+G. Marip\u00e1n,Antonio Sivera,1
+Alexis,G. Marip\u00e1n,1
+M. Wakaso,Alfonso Pedraza,1
+Alfonso Pedraza,Antonio Sivera,1
+Munir,Antonio Sivera,1
+Rub\u00e9n Sobrino,Adri\u00e1n Di\u00e9guez,1
+G. Marip\u00e1n,Munir,1
+Adri\u00e1n Di\u00e9guez,Laguardia,1
+Alexis,Adri\u00e1n Di\u00e9guez,1
+Tom\u00e1s Pina,Antonio Sivera,1
+Laguardia,G. Marip\u00e1n,1
+Alfonso Pedraza,Alexis,1
+Antonio Sivera,Munir,1
+Alexis,Antonio Sivera,1
+Antonio Sivera,J. Guidetti,1

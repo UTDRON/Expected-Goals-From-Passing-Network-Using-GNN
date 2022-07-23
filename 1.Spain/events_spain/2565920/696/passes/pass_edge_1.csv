@@ -1,0 +1,59 @@
+Source,Target,Weight
+Mart\u00edn,D. Torres,5
+M. Wakaso,Adri\u00e1n Di\u00e9guez,4
+D. Torres,Mart\u00edn,4
+Rub\u00e9n Sobrino,Mart\u00edn,4
+Rodrigo Ely,M. Wakaso,3
+Adri\u00e1n Di\u00e9guez,Bojan,3
+Bojan,D. Torres,3
+Mart\u00edn,Rub\u00e9n Sobrino,3
+Adri\u00e1n Di\u00e9guez,G. Marip\u00e1n,2
+D. Torres,Adri\u00e1n Di\u00e9guez,2
+E. Demirovi\u0107,Adri\u00e1n Di\u00e9guez,2
+M. Wakaso,D. Torres,2
+Rodrigo Ely,Rub\u00e9n Sobrino,2
+Adri\u00e1n Di\u00e9guez,Burgui,2
+Burgui,M. Wakaso,2
+Mart\u00edn,Rodrigo Ely,2
+M. Wakaso,Bojan,2
+D. Torres,E. Demirovi\u0107,2
+Adri\u00e1n Di\u00e9guez,D. Torres,2
+Bojan,Burgui,2
+Bojan,Mart\u00edn,2
+Burgui,Rodrigo Ely,2
+D. Torres,Burgui,2
+Burgui,Adri\u00e1n Di\u00e9guez,2
+Burgui,Mart\u00edn,2
+G. Marip\u00e1n,Burgui,1
+Fernando Pacheco,M. Wakaso,1
+Burgui,E. Demirovi\u0107,1
+Fernando Pacheco,Bojan,1
+Mart\u00edn,Bojan,1
+D. Torres,M. Wakaso,1
+M. Wakaso,Mart\u00edn,1
+Rodrigo Ely,G. Marip\u00e1n,1
+G. Marip\u00e1n,Mart\u00edn,1
+Adri\u00e1n Di\u00e9guez,E. Demirovi\u0107,1
+D. Torres,Rub\u00e9n Sobrino,1
+Adri\u00e1n Di\u00e9guez,M. Wakaso,1
+Mart\u00edn,E. Demirovi\u0107,1
+G. Marip\u00e1n,Rodrigo Ely,1
+Mart\u00edn,M. Wakaso,1
+Bojan,Rub\u00e9n Sobrino,1
+Mart\u00edn,Burgui,1
+E. Demirovi\u0107,Rub\u00e9n Sobrino,1
+E. Demirovi\u0107,Fernando Pacheco,1
+Bojan,Adri\u00e1n Di\u00e9guez,1
+Rub\u00e9n Sobrino,Burgui,1
+E. Demirovi\u0107,Burgui,1
+Burgui,Rub\u00e9n Sobrino,1
+Rub\u00e9n Sobrino,Adri\u00e1n Di\u00e9guez,1
+M. Wakaso,E. Demirovi\u0107,1
+Adri\u00e1n Di\u00e9guez,Rodrigo Ely,1
+D. Torres,Bojan,1
+Bojan,G. Marip\u00e1n,1
+G. Marip\u00e1n,Adri\u00e1n Di\u00e9guez,1
+Rub\u00e9n Sobrino,M. Wakaso,1
+Adri\u00e1n Di\u00e9guez,Fernando Pacheco,1
+E. Demirovi\u0107,D. Torres,1
+Rub\u00e9n Sobrino,Bojan,1

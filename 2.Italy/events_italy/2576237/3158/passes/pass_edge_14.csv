@@ -1,0 +1,51 @@
+Source,Target,Weight
+A. Florenzi,Gerson,4
+A. Kolarov,S. El Shaarawy,4
+Juan Jesus,K. Strootman,4
+K. Manolas,Juan Jesus,3
+L. Pellegrini,A. Florenzi,3
+R. Nainggolan,L. Pellegrini,2
+K. Strootman,L. Pellegrini,2
+K. Manolas,A. Florenzi,2
+S. El Shaarawy,K. Strootman,2
+L. Pellegrini,K. Strootman,2
+L. Pellegrini,Gerson,2
+Gerson,A. Florenzi,2
+A. Florenzi,R. Nainggolan,2
+K. Strootman,S. El Shaarawy,2
+K. Strootman,A. Florenzi,2
+M. Gonalons,A. Kolarov,2
+S. El Shaarawy,K. Manolas,2
+K. Strootman,A. Kolarov,2
+Gerson,L. Pellegrini,2
+Juan Jesus,L. Pellegrini,2
+K. Strootman,K. Manolas,2
+A. Kolarov,Alisson,1
+D. De Rossi,Gerson,1
+Gerson,A. Kolarov,1
+P. Schick,R. Nainggolan,1
+S. El Shaarawy,L. Pellegrini,1
+L. Pellegrini,M. Gonalons,1
+K. Manolas,K. Strootman,1
+A. Kolarov,Juan Jesus,1
+S. El Shaarawy,M. Gonalons,1
+M. Gonalons,Juan Jesus,1
+K. Strootman,D. De Rossi,1
+Alisson,L. Pellegrini,1
+R. Nainggolan,A. Kolarov,1
+Juan Jesus,A. Florenzi,1
+K. Strootman,Juan Jesus,1
+A. Florenzi,Juan Jesus,1
+Juan Jesus,M. Gonalons,1
+Gerson,Juan Jesus,1
+Gerson,S. El Shaarawy,1
+L. Pellegrini,R. Nainggolan,1
+L. Pellegrini,K. Manolas,1
+A. Florenzi,L. Pellegrini,1
+Gerson,K. Strootman,1
+R. Nainggolan,Gerson,1
+S. El Shaarawy,A. Kolarov,1
+A. Florenzi,K. Strootman,1
+A. Kolarov,A. Florenzi,1
+A. Florenzi,K. Manolas,1
+A. Florenzi,P. Schick,1

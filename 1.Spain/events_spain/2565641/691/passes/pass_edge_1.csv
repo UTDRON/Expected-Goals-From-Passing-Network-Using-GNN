@@ -1,0 +1,15 @@
+Source,Target,Weight
+Sergi Darder,V\u00edctor S\u00e1nchez,2
+Mario Hermoso,Sergi Darder,1
+V\u00edctor S\u00e1nchez,Aar\u00f3n,1
+Sergi Darder,Mario Hermoso,1
+Mario Hermoso,David L\u00f3pez,1
+David L\u00f3pez,Jurado,1
+Aar\u00f3n,Sergi Darder,1
+V\u00edctor S\u00e1nchez,Mario Hermoso,1
+V\u00edctor S\u00e1nchez,David L\u00f3pez,1
+David L\u00f3pez,V\u00edctor S\u00e1nchez,1
+Sergi Darder,Aar\u00f3n,1
+Jurado,Sergi Darder,1
+Aar\u00f3n,Javi Fuego,1
+Javi Fuego,Sergi Darder,1

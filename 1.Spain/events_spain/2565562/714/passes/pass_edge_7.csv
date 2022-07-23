@@ -1,0 +1,50 @@
+Source,Target,Weight
+Javi Castellano,Jonathan Viera,6
+Tana,David Sim\u00f3n,5
+David Sim\u00f3n,Tana,4
+Jonathan Viera,Javi Castellano,3
+M. Lemos,Bigas,3
+Javi Castellano,Tana,3
+David Sim\u00f3n,Javi Castellano,3
+Jonathan Viera,David Sim\u00f3n,2
+David Sim\u00f3n,S. Ara\u00fajo,2
+Jonathan Viera,M. Lemos,2
+Benito Ram\u00edrez,Dani Castellano,2
+Dani Castellano,Jonathan Viera,2
+S. Ara\u00fajo,Dani Castellano,2
+S. Ara\u00fajo,Jonathan Viera,2
+Tana,Javi Castellano,2
+Dani Castellano,Javi Castellano,2
+Benito Ram\u00edrez,David Sim\u00f3n,2
+Jonathan Viera,Benito Ram\u00edrez,2
+Bigas,Dani Castellano,2
+Javi Castellano,David Sim\u00f3n,2
+L. Chichizola,Javi Castellano,1
+M. Lemos,J. Calleri,1
+David Sim\u00f3n,Jonathan Viera,1
+Dani Castellano,Bigas,1
+Bigas,L. Chichizola,1
+Dani Castellano,Tana,1
+J. Calleri,Javi Castellano,1
+Javi Castellano,M. Lemos,1
+L. Chichizola,Dani Castellano,1
+Benito Ram\u00edrez,Jonathan Viera,1
+Javi Castellano,Benito Ram\u00edrez,1
+Bigas,Jonathan Viera,1
+Tana,S. Ara\u00fajo,1
+M. Lemos,L. Chichizola,1
+Jonathan Viera,Tana,1
+S. Ara\u00fajo,Javi Castellano,1
+L. Chichizola,M. Lemos,1
+Javi Castellano,S. Ara\u00fajo,1
+Dani Castellano,Benito Ram\u00edrez,1
+Dani Castellano,L. Chichizola,1
+Tana,M. Lemos,1
+Bigas,Javi Castellano,1
+Jonathan Viera,Bigas,1
+Jonathan Viera,Dani Castellano,1
+David Sim\u00f3n,M. Lemos,1
+M. Lemos,Jonathan Viera,1
+J. Calleri,Benito Ram\u00edrez,1
+Jonathan Viera,S. Ara\u00fajo,1
+Javi Castellano,J. Calleri,1

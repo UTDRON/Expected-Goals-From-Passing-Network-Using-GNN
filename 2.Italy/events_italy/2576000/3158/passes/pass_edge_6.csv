@@ -1,0 +1,24 @@
+Source,Target,Weight
+K. Strootman,D. Perotti,5
+D. Perotti,A. Kolarov,4
+A. Kolarov,K. Strootman,3
+K. Strootman,A. Kolarov,2
+Juan Jesus,F. Fazio,2
+A. Kolarov,D. Perotti,2
+L. Pellegrini,K. Strootman,2
+D. Perotti,E. D\u017eeko,2
+F. Fazio,Juan Jesus,2
+Juan Jesus,K. Strootman,1
+E. D\u017eeko,F. Fazio,1
+Alisson,E. D\u017eeko,1
+A. Kolarov,Juan Jesus,1
+Juan Jesus,Alisson,1
+A. Kolarov,F. Fazio,1
+F. Fazio,L. Pellegrini,1
+E. D\u017eeko,C. \u00dcnder,1
+Juan Jesus,A. Kolarov,1
+K. Strootman,Juan Jesus,1
+Alisson,Juan Jesus,1
+C. \u00dcnder,L. Pellegrini,1
+F. Fazio,K. Strootman,1
+D. Perotti,K. Strootman,1

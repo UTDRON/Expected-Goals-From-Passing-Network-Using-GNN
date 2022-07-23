@@ -1,0 +1,26 @@
+Source,Target,Weight
+Oier,A. Sadiku,2
+E. Cabaco,Jos\u00e9 Luis Morales,1
+Pedro L\u00f3pez,Oier,1
+E. Bardhi,Campa\u00f1a,1
+Jos\u00e9 Luis Morales,Coke,1
+E. Bardhi,Coke,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+E. Bardhi,E. Cabaco,1
+Jos\u00e9 Luis Morales,Roger,1
+Campa\u00f1a,Rober,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+Coke,Jos\u00e9 Luis Morales,1
+Rober,Oier,1
+Coke,E. Cabaco,1
+A. Sadiku,E. Cabaco,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+E. Cabaco,Oier,1
+J. Lerma,E. Bardhi,1
+A. Sadiku,Coke,1
+Coke,J. Lerma,1
+J. Lerma,Pedro L\u00f3pez,1
+Oier,E. Bardhi,1
+E. Cabaco,Pedro L\u00f3pez,1
+Coke,E. Bardhi,1
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,1

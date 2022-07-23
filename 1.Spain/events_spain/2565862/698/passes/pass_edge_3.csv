@@ -1,0 +1,56 @@
+Source,Target,Weight
+Bruno,L. Cabrera,5
+Djen\u00e9,Bruno,5
+Portillo,D. Su\u00e1rez,5
+D. Su\u00e1rez,Djen\u00e9,4
+Guaita,L. R\u00e9my,3
+Bruno,Guaita,3
+L. Cabrera,L. R\u00e9my,3
+M. Flamini,Portillo,3
+D. Su\u00e1rez,F. Fajr,3
+D. Su\u00e1rez,Portillo,3
+A. Ndiaye,Djen\u00e9,2
+D. Su\u00e1rez,Guaita,2
+Guaita,Bruno,2
+Guaita,Djen\u00e9,2
+\u00c1ngel,D. Su\u00e1rez,2
+M. Flamini,D. Su\u00e1rez,2
+L. Cabrera,F. Fajr,2
+Portillo,M. Flamini,2
+Djen\u00e9,Guaita,2
+L. Cabrera,Bruno,2
+L. R\u00e9my,A. Ndiaye,2
+F. Fajr,D. Su\u00e1rez,2
+Djen\u00e9,L. Cabrera,2
+A. Ndiaye,Guaita,2
+Djen\u00e9,D. Su\u00e1rez,2
+A. Ndiaye,F. Fajr,2
+L. Cabrera,Djen\u00e9,2
+F. Fajr,L. Cabrera,2
+L. Cabrera,A. Ndiaye,2
+F. Fajr,A. Ndiaye,2
+Bruno,Djen\u00e9,2
+L. R\u00e9my,M. Flamini,1
+D. Su\u00e1rez,Bruno,1
+D. Su\u00e1rez,A. Ndiaye,1
+Guaita,Portillo,1
+L. Cabrera,Guaita,1
+Portillo,A. Ndiaye,1
+D. Su\u00e1rez,\u00c1ngel,1
+A. Ndiaye,L. Cabrera,1
+L. R\u00e9my,D. Su\u00e1rez,1
+L. Cabrera,M. Flamini,1
+L. R\u00e9my,F. Fajr,1
+Djen\u00e9,Portillo,1
+Guaita,L. Cabrera,1
+Djen\u00e9,\u00c1ngel,1
+F. Fajr,Portillo,1
+Portillo,L. Cabrera,1
+M. Flamini,L. Cabrera,1
+F. Fajr,Djen\u00e9,1
+Guaita,D. Su\u00e1rez,1
+Guaita,\u00c1ngel,1
+L. R\u00e9my,\u00c1ngel,1
+\u00c1ngel,M. Flamini,1
+A. Ndiaye,Portillo,1
+\u00c1ngel,Guaita,1

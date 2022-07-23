@@ -1,0 +1,21 @@
+Source,Target,Weight
+Isco,R. Varane,2
+Daniel Carvajal,Isco,2
+Isco,Daniel Carvajal,2
+Casemiro,K. Navas,1
+R. Varane,Cristiano Ronaldo,1
+Marcelo,Sergio Ramos,1
+Casemiro,L. Modri\u0107,1
+L. Modri\u0107,Marcelo,1
+Casemiro,G. Bale,1
+K. Navas,L. Modri\u0107,1
+Cristiano Ronaldo,Isco,1
+G. Bale,T. Kroos,1
+Sergio Ramos,R. Varane,1
+Isco,Casemiro,1
+R. Varane,T. Kroos,1
+T. Kroos,Isco,1
+Casemiro,Isco,1
+T. Kroos,L. Modri\u0107,1
+R. Varane,Casemiro,1
+L. Modri\u0107,Casemiro,1

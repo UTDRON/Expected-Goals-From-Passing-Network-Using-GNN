@@ -1,0 +1,18 @@
+Source,Target,Weight
+F. Mattiello,A. Grassi,2
+A. Grassi,L. Rizzo,2
+A. Paloschi,F. Bonazzoli,1
+F. Bonazzoli,A. Grassi,1
+F. Vicari,A. Grassi,1
+L. Rizzo,F. Vicari,1
+L. Rizzo,P. Schiattarella,1
+F. Vicari,P. Schiattarella,1
+F. Bonazzoli,F. Mattiello,1
+P. Schiattarella,A. Paloschi,1
+L. Rizzo,F. Bonazzoli,1
+A. Grassi,M. Lazzari,1
+A. Grassi,A. Paloschi,1
+M. Lazzari,L. Rizzo,1
+L. Rizzo,Felipe,1
+P. Schiattarella,L. Rizzo,1
+Felipe,F. Vicari,1

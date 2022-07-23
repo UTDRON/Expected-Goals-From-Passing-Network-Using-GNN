@@ -1,0 +1,24 @@
+Source,Target,Weight
+Ander Capa,Arbilla,2
+Joan Jord\u00e1n,Ander Capa,2
+Kike Garc\u00eda,Joan Jord\u00e1n,2
+Sergi Enrich,Ander Capa,2
+T. Inui,Dani Garc\u00eda,2
+Dani Garc\u00eda,T. Inui,2
+Arbilla,Dani Garc\u00eda,2
+T. Inui,Iv\u00e1n Alejo,1
+Jos\u00e9 \u00c1ngel,Kike Garc\u00eda,1
+Ander Capa,Dani Garc\u00eda,1
+Dani Garc\u00eda,Jos\u00e9 \u00c1ngel,1
+Ander Capa,Kike Garc\u00eda,1
+Arbilla,Ander Capa,1
+Dani Garc\u00eda,Arbilla,1
+Iv\u00e1n Alejo,Kike Garc\u00eda,1
+Jos\u00e9 \u00c1ngel,Iv\u00e1n Alejo,1
+Kike Garc\u00eda,Sergi Enrich,1
+T. Inui,Jos\u00e9 \u00c1ngel,1
+Arbilla,Jos\u00e9 \u00c1ngel,1
+Jos\u00e9 \u00c1ngel,T. Inui,1
+Iv\u00e1n Alejo,T. Inui,1
+Jos\u00e9 \u00c1ngel,Arbilla,1
+Ander Capa,Sergi Enrich,1

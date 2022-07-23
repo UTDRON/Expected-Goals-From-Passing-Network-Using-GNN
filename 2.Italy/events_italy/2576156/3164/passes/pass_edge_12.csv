@@ -1,0 +1,16 @@
+Source,Target,Weight
+D. Kownacki,K. Linetty,2
+K. Linetty,D. Kownacki,2
+K. Linetty,G. Ram\u00edrez,1
+V. Regini,K. Linetty,1
+\u00c9. Barreto,M. Silvestre,1
+\u00c9. Barreto,V. Regini,1
+M. Silvestre,F. Quagliarella,1
+F. Quagliarella,V. Regini,1
+K. Linetty,\u00c9. Barreto,1
+M. Silvestre,K. Linetty,1
+G. Ram\u00edrez,V. Verre,1
+V. Regini,\u00c9. Barreto,1
+V. Verre,M. Silvestre,1
+M. Silvestre,V. Regini,1
+V. Regini,D. Kownacki,1

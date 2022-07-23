@@ -1,0 +1,18 @@
+Source,Target,Weight
+D. Berardi,A. Duncan,1
+S. Sensi,F. Acerbi,1
+M. Politano,S. Missiroli,1
+D. Berardi,M. Politano,1
+Pol Lirola,D. Berardi,1
+F. Peluso,A. Duncan,1
+A. Duncan,D. Berardi,1
+F. Acerbi,S. Sensi,1
+A. Duncan,Pol Lirola,1
+S. Missiroli,A. Duncan,1
+S. Sensi,D. Berardi,1
+A. Duncan,S. Sensi,1
+D. Falcinelli,Pol Lirola,1
+S. Missiroli,D. Falcinelli,1
+S. Sensi,M. Politano,1
+D. Berardi,S. Sensi,1
+M. Politano,F. Peluso,1

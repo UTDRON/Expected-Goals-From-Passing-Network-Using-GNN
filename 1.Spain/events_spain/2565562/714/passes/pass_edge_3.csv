@@ -1,0 +1,42 @@
+Source,Target,Weight
+Hern\u00e1n,Fabio Gonz\u00e1lez,3
+Momo,Jonathan Viera,3
+Fabio Gonz\u00e1lez,Momo,3
+Jonathan Viera,Momo,3
+Hern\u00e1n,Jonathan Viera,2
+Momo,Fabio Gonz\u00e1lez,2
+David Sim\u00f3n,M. Lemos,2
+Fabio Gonz\u00e1lez,David Sim\u00f3n,2
+M. Lemos,Bigas,2
+David Sim\u00f3n,Hern\u00e1n,2
+J. Calleri,Hern\u00e1n,2
+Momo,Hern\u00e1n,2
+M. Lemos,Fabio Gonz\u00e1lez,2
+Jonathan Viera,Fabio Gonz\u00e1lez,2
+Fabio Gonz\u00e1lez,Dani Castellano,2
+Momo,Dani Castellano,1
+Tana,J. Calleri,1
+Dani Castellano,Momo,1
+Hern\u00e1n,J. Calleri,1
+Dani Castellano,Jonathan Viera,1
+Tana,Hern\u00e1n,1
+Hern\u00e1n,Tana,1
+Tana,Jonathan Viera,1
+Bigas,Dani Castellano,1
+Hern\u00e1n,M. Lemos,1
+M. Lemos,Tana,1
+Hern\u00e1n,David Sim\u00f3n,1
+Dani Castellano,J. Calleri,1
+Hern\u00e1n,Bigas,1
+Bigas,M. Lemos,1
+Bigas,Hern\u00e1n,1
+J. Calleri,Tana,1
+Fabio Gonz\u00e1lez,Bigas,1
+Fabio Gonz\u00e1lez,Hern\u00e1n,1
+Bigas,Tana,1
+Fabio Gonz\u00e1lez,M. Lemos,1
+Bigas,Momo,1
+Jonathan Viera,Hern\u00e1n,1
+Dani Castellano,Fabio Gonz\u00e1lez,1
+Tana,Bigas,1
+J. Calleri,David Sim\u00f3n,1

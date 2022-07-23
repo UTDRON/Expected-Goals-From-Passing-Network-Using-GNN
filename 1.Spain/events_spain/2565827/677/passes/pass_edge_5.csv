@@ -1,0 +1,61 @@
+Source,Target,Weight
+Pedro Mosquera,S. Muntari,5
+C. Borges,Pedro Mosquera,4
+Pedro Mosquera,Albentosa,4
+Albentosa,Pedro Mosquera,4
+S. Muntari,Pedro Mosquera,3
+Albentosa,B\u00f3veda,3
+Lucas P\u00e9rez,Adri\u00e1n L\u00f3pez,3
+Fernando Navarro,S. Muntari,3
+S. Muntari,Albentosa,3
+Fernando Navarro,Lucas P\u00e9rez,3
+F. Andone,S. Muntari,3
+S. Muntari,Fernando Navarro,2
+F. Andone,Pedro Mosquera,2
+Sidnei,S. Muntari,2
+B\u00f3veda,Pedro Mosquera,2
+Adri\u00e1n L\u00f3pez,C. Borges,2
+S. Muntari,Adri\u00e1n L\u00f3pez,2
+Pedro Mosquera,Sidnei,2
+Adri\u00e1n L\u00f3pez,F. Andone,2
+Adri\u00e1n L\u00f3pez,Fernando Navarro,2
+Albentosa,Fernando Navarro,2
+Pedro Mosquera,Fernando Navarro,2
+Lucas P\u00e9rez,Pedro Mosquera,2
+Pedro Mosquera,B\u00f3veda,2
+Fernando Navarro,Sidnei,1
+Pedro Mosquera,F. Andone,1
+B\u00f3veda,Lucas P\u00e9rez,1
+B\u00f3veda,Albentosa,1
+Lucas P\u00e9rez,B\u00f3veda,1
+Sidnei,C. Borges,1
+Albentosa,Lucas P\u00e9rez,1
+Adri\u00e1n L\u00f3pez,Lucas P\u00e9rez,1
+S. Muntari,Lucas P\u00e9rez,1
+F. Andone,Adri\u00e1n L\u00f3pez,1
+S. Muntari,Sidnei,1
+Fernando Navarro,Pedro Mosquera,1
+B\u00f3veda,F. Andone,1
+Sidnei,Albentosa,1
+B\u00f3veda,Adri\u00e1n L\u00f3pez,1
+C. Borges,Lucas P\u00e9rez,1
+Pedro Mosquera,Lucas P\u00e9rez,1
+Lucas P\u00e9rez,Albentosa,1
+Lucas P\u00e9rez,Sidnei,1
+S. Muntari,C. Borges,1
+B\u00f3veda,Fernando Navarro,1
+Adri\u00e1n L\u00f3pez,Albentosa,1
+S. Muntari,F. Andone,1
+S. Muntari,B\u00f3veda,1
+Fernando Navarro,C. Borges,1
+B\u00f3veda,S. Muntari,1
+Sidnei,Fernando Navarro,1
+Adri\u00e1n L\u00f3pez,B\u00f3veda,1
+Lucas P\u00e9rez,S. Muntari,1
+Pedro Mosquera,Adri\u00e1n L\u00f3pez,1
+Fernando Navarro,Adri\u00e1n L\u00f3pez,1
+Albentosa,Sidnei,1
+C. Borges,Fernando Navarro,1
+Rub\u00e9n,C. Borges,1
+Sidnei,Rub\u00e9n,1
+Fernando Navarro,F. Andone,1

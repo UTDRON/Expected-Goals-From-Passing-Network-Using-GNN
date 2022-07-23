@@ -1,0 +1,69 @@
+Source,Target,Weight
+Luis Hern\u00e1ndez,R. Rosales,6
+I. Success,R. Rosales,5
+M. Lacen,Miguel Torres,5
+Miguel Torres,Chory Castro,5
+Chory Castro,D. Rol\u00e1n,4
+D. Rol\u00e1n,M. Lacen,4
+R. Rosales,Luis Hern\u00e1ndez,4
+R. Rosales,Y. En-Nesyri,4
+R. Rosales,M. Iturra,4
+R. Rosales,I. Success,3
+Luis Hern\u00e1ndez,Miquel,2
+Chory Castro,R. Rosales,2
+Y. En-Nesyri,Luis Hern\u00e1ndez,2
+M. Iturra,R. Rosales,2
+Chory Castro,M. Lacen,2
+Chory Castro,Miquel,2
+Chory Castro,Miguel Torres,2
+Y. En-Nesyri,Miguel Torres,2
+R. Rosales,Chory Castro,2
+Miguel Torres,Luis Hern\u00e1ndez,2
+Miquel,R. Rosales,2
+R. Rosales,Miquel,2
+M. Iturra,I. Success,2
+M. Lacen,D. Rol\u00e1n,2
+Y. En-Nesyri,D. Rol\u00e1n,2
+D. Rol\u00e1n,Luis Hern\u00e1ndez,2
+Luis Hern\u00e1ndez,Y. En-Nesyri,2
+Miguel Torres,R. Rosales,2
+I. Success,Luis Hern\u00e1ndez,2
+Y. En-Nesyri,R. Rosales,2
+Luis Hern\u00e1ndez,Roberto,2
+Luis Hern\u00e1ndez,I. Success,2
+M. Lacen,Miquel,2
+Roberto,Luis Hern\u00e1ndez,2
+Miquel,Y. En-Nesyri,2
+D. Rol\u00e1n,Chory Castro,2
+Miguel Torres,M. Lacen,2
+M. Lacen,Chory Castro,1
+D. Rol\u00e1n,M. Iturra,1
+Miquel,Miguel Torres,1
+Miquel,D. Rol\u00e1n,1
+I. Success,M. Lacen,1
+M. Lacen,I. Success,1
+Roberto,R. Rosales,1
+Roberto,Y. En-Nesyri,1
+Miquel,I. Success,1
+Y. En-Nesyri,M. Lacen,1
+M. Iturra,D. Rol\u00e1n,1
+R. Rosales,D. Rol\u00e1n,1
+I. Success,Chory Castro,1
+Y. En-Nesyri,M. Iturra,1
+D. Rol\u00e1n,Miquel,1
+R. Rosales,M. Lacen,1
+Y. En-Nesyri,Roberto,1
+Miquel,Luis Hern\u00e1ndez,1
+M. Lacen,Y. En-Nesyri,1
+I. Success,Y. En-Nesyri,1
+I. Success,M. Iturra,1
+Luis Hern\u00e1ndez,Miguel Torres,1
+M. Iturra,Chory Castro,1
+Roberto,I. Success,1
+M. Iturra,Luis Hern\u00e1ndez,1
+Luis Hern\u00e1ndez,M. Iturra,1
+Miquel,Roberto,1
+R. Rosales,Roberto,1
+D. Rol\u00e1n,Miguel Torres,1
+Miguel Torres,Y. En-Nesyri,1
+M. Iturra,M. Lacen,1

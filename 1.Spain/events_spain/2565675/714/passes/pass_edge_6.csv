@@ -1,0 +1,66 @@
+Source,Target,Weight
+Vitolo,Jonathan Viera,6
+Tana,Jonathan Viera,4
+Jonathan Viera,Vitolo,4
+Jonathan Viera,M\u00edchel,4
+M\u00edchel,J. Calleri,3
+Javi Castellano,Tana,3
+Vitolo,M\u00edchel,3
+Bigas,Javi Castellano,2
+Javi Castellano,M\u00edchel,2
+J. Calleri,L. R\u00e9my,2
+Tana,M\u00edchel,2
+M\u00edchel,Ximo Navarro,2
+J. Calleri,Javi Castellano,2
+L. R\u00e9my,Dani Castellano,2
+J. Calleri,Bigas,2
+Ra\u00fal Lizo\u00e1in,J. Calleri,2
+Dani Castellano,Javi Castellano,2
+M\u00edchel,A. Aquilani,2
+J. Calleri,M\u00edchel,2
+M\u00edchel,Vitolo,2
+Javi Castellano,J. Calleri,2
+Jonathan Viera,Ximo Navarro,2
+M\u00edchel,L. R\u00e9my,2
+Dani Castellano,Jonathan Viera,2
+Ximo Navarro,M\u00edchel,2
+J. Calleri,Ximo Navarro,1
+Jonathan Viera,Javi Castellano,1
+M\u00edchel,Javi Castellano,1
+M\u00edchel,Tana,1
+Ra\u00fal Lizo\u00e1in,Jonathan Viera,1
+M\u00edchel,Dani Castellano,1
+Javi Castellano,Jonathan Viera,1
+Javi Castellano,Dani Castellano,1
+Tana,Bigas,1
+Jonathan Viera,Bigas,1
+Ra\u00fal Lizo\u00e1in,Ximo Navarro,1
+Ximo Navarro,Bigas,1
+Jonathan Viera,J. Calleri,1
+Ximo Navarro,Ra\u00fal Lizo\u00e1in,1
+A. Aquilani,Vitolo,1
+Jonathan Viera,Tana,1
+Jonathan Viera,Dani Castellano,1
+A. Aquilani,Ra\u00fal Lizo\u00e1in,1
+Ximo Navarro,Tana,1
+Bigas,Vitolo,1
+Vitolo,Javi Castellano,1
+M\u00edchel,Bigas,1
+Ximo Navarro,Javi Castellano,1
+Dani Castellano,Ra\u00fal Lizo\u00e1in,1
+Ra\u00fal Lizo\u00e1in,Dani Castellano,1
+Javi Castellano,Ra\u00fal Lizo\u00e1in,1
+Bigas,Jonathan Viera,1
+Bigas,Ra\u00fal Lizo\u00e1in,1
+Javi Castellano,L. R\u00e9my,1
+Ximo Navarro,Vitolo,1
+L. R\u00e9my,M\u00edchel,1
+Bigas,J. Calleri,1
+M\u00edchel,Ra\u00fal Lizo\u00e1in,1
+Dani Castellano,Vitolo,1
+L. R\u00e9my,J. Calleri,1
+Tana,Vitolo,1
+Dani Castellano,Ximo Navarro,1
+Ra\u00fal Lizo\u00e1in,Javi Castellano,1
+J. Calleri,Tana,1
+Vitolo,Dani Castellano,1

@@ -1,0 +1,45 @@
+Source,Target,Weight
+L. Bonucci,A. Romagnoli,4
+F. Kessi\u00e9,Suso,4
+R. Rodr\u00edguez,H. \u00c7alhano\u011flu,3
+Suso,F. Kessi\u00e9,3
+L. Bonucci,I. Abate,3
+G. Bonaventura,L. Bonucci,2
+M. Locatelli,L. Bonucci,2
+A. Romagnoli,R. Rodr\u00edguez,2
+A. Romagnoli,G. Bonaventura,2
+I. Abate,L. Bonucci,2
+H. \u00c7alhano\u011flu,A. Romagnoli,2
+A. Romagnoli,H. \u00c7alhano\u011flu,2
+I. Abate,Suso,2
+A. Romagnoli,M. Locatelli,2
+M. Locatelli,A. Romagnoli,2
+A. Romagnoli,L. Bonucci,2
+Suso,G. Bonaventura,2
+H. \u00c7alhano\u011flu,R. Rodr\u00edguez,2
+G. Bonaventura,A. Romagnoli,1
+L. Bonucci,H. \u00c7alhano\u011flu,1
+I. Abate,P. Cutrone,1
+F. Kessi\u00e9,L. Bonucci,1
+A. Romagnoli,F. Kessi\u00e9,1
+I. Abate,F. Kessi\u00e9,1
+P. Cutrone,G. Bonaventura,1
+R. Rodr\u00edguez,G. Donnarumma,1
+Suso,L. Bonucci,1
+G. Bonaventura,I. Abate,1
+G. Donnarumma,A. Romagnoli,1
+G. Bonaventura,Suso,1
+L. Bonucci,F. Kessi\u00e9,1
+L. Bonucci,G. Bonaventura,1
+H. \u00c7alhano\u011flu,M. Locatelli,1
+G. Bonaventura,H. \u00c7alhano\u011flu,1
+L. Bonucci,M. Locatelli,1
+F. Kessi\u00e9,I. Abate,1
+H. \u00c7alhano\u011flu,I. Abate,1
+Suso,M. Locatelli,1
+M. Locatelli,F. Kessi\u00e9,1
+A. Romagnoli,Suso,1
+H. \u00c7alhano\u011flu,L. Bonucci,1
+F. Kessi\u00e9,A. Romagnoli,1
+L. Bonucci,R. Rodr\u00edguez,1
+R. Rodr\u00edguez,A. Romagnoli,1

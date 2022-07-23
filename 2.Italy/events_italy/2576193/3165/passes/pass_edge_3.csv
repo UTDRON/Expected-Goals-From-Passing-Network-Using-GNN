@@ -1,0 +1,21 @@
+Source,Target,Weight
+R. Meggiorini,M. Gobbi,4
+M. Gobbi,V. Birsa,3
+M. Gobbi,R. Meggiorini,2
+E. Giaccherini,A. Gamberini,2
+A. Gamberini,M. Bani,1
+V. Birsa,R. Inglese,1
+M. Gobbi,E. Giaccherini,1
+S. Sorrentino,I. Radovanovi\u0107,1
+I. Radovanovi\u0107,E. Giaccherini,1
+V. Birsa,I. Radovanovi\u0107,1
+V. Birsa,E. Giaccherini,1
+E. Giaccherini,M. Gobbi,1
+M. Bani,E. Giaccherini,1
+E. Giaccherini,S. Sorrentino,1
+A. Gamberini,M. Gobbi,1
+A. Gamberini,E. Giaccherini,1
+E. Giaccherini,F. Depaoli,1
+I. Radovanovi\u0107,V. Birsa,1
+V. Birsa,R. Meggiorini,1
+F. Depaoli,R. Meggiorini,1

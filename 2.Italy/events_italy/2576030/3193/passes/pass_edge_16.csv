@@ -1,0 +1,23 @@
+Source,Target,Weight
+F. Ricci,A. Rosi,2
+A. Rosi,A. Galabinov,2
+L. Rossettini,F. Ricci,1
+A. Rosi,M. Perin,1
+F. Ricci,A. Galabinov,1
+A. Izzo,A. Rosi,1
+A. Galabinov,S. Omeonga,1
+A. Galabinov,L. Rossettini,1
+F. Ricci,A. Izzo,1
+A. Galabinov,P. Brlek,1
+A. Rosi,Miguel Veloso,1
+L. Rossettini,A. Izzo,1
+M. Perin,Miguel Veloso,1
+Miguel Veloso,L. Rossettini,1
+P. Brlek,S. Omeonga,1
+Miguel Veloso,S. Omeonga,1
+A. Izzo,Miguel Veloso,1
+Miguel Veloso,A. Rosi,1
+S. Omeonga,A. Rosi,1
+S. Omeonga,F. Ricci,1
+Miguel Veloso,F. Ricci,1
+A. Rosi,F. Ricci,1

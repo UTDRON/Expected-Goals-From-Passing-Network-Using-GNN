@@ -1,0 +1,61 @@
+Source,Target,Weight
+A. Masina,R. Palacio,5
+A. Masina,F. Helander,4
+G. Gonz\u00e1lez,S. De Maio,4
+R. Palacio,A. Masina,4
+B. Petkovi\u0107,A. Masina,4
+B. Petkovi\u0107,A. Poli,3
+A. Poli,S. De Maio,3
+A. Masina,G. Gonz\u00e1lez,3
+S. De Maio,A. Poli,3
+E. Pulgar,B. Petkovi\u0107,3
+G. Gonz\u00e1lez,A. Masina,3
+R. Palacio,E. Pulgar,3
+S. De Maio,F. Helander,3
+B. Petkovi\u0107,S. De Maio,3
+F. Helander,G. Gonz\u00e1lez,3
+F. Helander,A. Masina,3
+F. Helander,R. Palacio,2
+S. De Maio,G. Gonz\u00e1lez,2
+A. Masina,S. De Maio,2
+E. Pulgar,F. Helander,2
+S. De Maio,B. Petkovi\u0107,2
+A. Masina,B. Petkovi\u0107,2
+S. De Maio,Angelo da Costa,2
+E. Pulgar,A. Masina,2
+A. Poli,B. Petkovi\u0107,2
+G. Donsah,E. Pulgar,2
+A. Masina,G. Donsah,2
+A. Poli,E. Pulgar,2
+I. M'baye,A. Poli,2
+F. Helander,S. De Maio,2
+E. Pulgar,S. De Maio,1
+E. Pulgar,G. Donsah,1
+F. Helander,B. Petkovi\u0107,1
+S. De Maio,R. Palacio,1
+G. Donsah,B. Petkovi\u0107,1
+O. Okwonkwo,G. Gonz\u00e1lez,1
+E. Pulgar,G. Gonz\u00e1lez,1
+B. Petkovi\u0107,R. Palacio,1
+A. Poli,G. Donsah,1
+I. M'baye,E. Pulgar,1
+R. Palacio,I. M'baye,1
+B. Petkovi\u0107,E. Pulgar,1
+G. Gonz\u00e1lez,I. M'baye,1
+G. Donsah,R. Palacio,1
+A. Poli,I. M'baye,1
+G. Gonz\u00e1lez,B. Petkovi\u0107,1
+A. Poli,A. Masina,1
+O. Okwonkwo,A. Poli,1
+S. De Maio,I. M'baye,1
+E. Pulgar,A. Poli,1
+G. Gonz\u00e1lez,O. Okwonkwo,1
+B. Petkovi\u0107,F. Helander,1
+R. Palacio,F. Helander,1
+S. De Maio,E. Pulgar,1
+F. Helander,E. Pulgar,1
+F. Helander,Angelo da Costa,1
+Angelo da Costa,A. Masina,1
+Angelo da Costa,B. Petkovi\u0107,1
+Angelo da Costa,F. Helander,1
+I. M'baye,O. Okwonkwo,1

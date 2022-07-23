@@ -1,0 +1,36 @@
+Source,Target,Weight
+N. Barella,L. Cigarini,3
+L. Cigarini,N. Barella,2
+L. Pavoletti,N. Barella,2
+L. Pavoletti,L. Cigarini,2
+A. Cragno,L. Pavoletti,2
+F. Pisacane,S. Padoin,2
+Jo\u00e3o Pedro,N. Barella,1
+G. van der Wiel,L. Cigarini,1
+G. van der Wiel,A. Cragno,1
+A. Ioni\u0163\u0103,Jo\u00e3o Pedro,1
+L. Cigarini,G. van der Wiel,1
+F. Romagna,N. Barella,1
+S. Padoin,L. Cigarini,1
+F. Pisacane,Jo\u00e3o Pedro,1
+A. Ioni\u0163\u0103,F. Pisacane,1
+N. Barella,M. Andreolli,1
+M. Andreolli,A. Cragno,1
+M. Andreolli,G. van der Wiel,1
+F. Pisacane,L. Pavoletti,1
+S. Padoin,F. Pisacane,1
+N. Barella,L. Pavoletti,1
+L. Cigarini,A. Ioni\u0163\u0103,1
+L. Cigarini,F. Pisacane,1
+G. van der Wiel,F. Pisacane,1
+G. van der Wiel,S. Padoin,1
+S. Padoin,Jo\u00e3o Pedro,1
+L. Cigarini,Jo\u00e3o Pedro,1
+A. Cragno,M. Andreolli,1
+L. Cigarini,A. Cragno,1
+Jo\u00e3o Pedro,L. Cigarini,1
+N. Barella,G. van der Wiel,1
+Jo\u00e3o Pedro,G. van der Wiel,1
+L. Cigarini,S. Padoin,1
+L. Pavoletti,F. Romagna,1
+S. Padoin,L. Pavoletti,1

@@ -1,0 +1,42 @@
+Source,Target,Weight
+G. Pizarro,Jes\u00fas Navas,3
+G. Mercado,G. Pizarro,3
+Jes\u00fas Navas,\u00c9. Banega,3
+W. Ben Yedder,L. Carole,2
+J. Geis,G. Mercado,2
+G. Pizarro,\u00c9. Banega,2
+\u00c9. Banega,J. Geis,2
+G. Pizarro,C. Lenglet,2
+\u00c9. Banega,G. Pizarro,1
+J. Geis,W. Ben Yedder,1
+G. Mercado,J. Geis,1
+\u00c9. Banega,W. Ben Yedder,1
+C. Lenglet,L. Carole,1
+L. Carole,J. Geis,1
+Nolito,J. Geis,1
+G. Mercado,Jes\u00fas Navas,1
+\u00c9. Banega,Nolito,1
+G. Mercado,Sergio Rico,1
+Sergio Rico,\u00c9. Banega,1
+S. Kj\u00e6r,G. Pizarro,1
+\u00c9. Banega,G. Mercado,1
+L. Carole,S. Kj\u00e6r,1
+W. Ben Yedder,J. Geis,1
+C. Lenglet,\u00c9. Banega,1
+J. Geis,L. Carole,1
+S. Kj\u00e6r,G. Mercado,1
+Sergio Rico,W. Ben Yedder,1
+S. Kj\u00e6r,C. Lenglet,1
+C. Lenglet,S. Kj\u00e6r,1
+S. Kj\u00e6r,Sergio Rico,1
+Jes\u00fas Navas,W. Ben Yedder,1
+\u00c9. Banega,S. Kj\u00e6r,1
+L. Carole,C. Lenglet,1
+G. Mercado,S. Kj\u00e6r,1
+C. Lenglet,Sergio Rico,1
+W. Ben Yedder,G. Mercado,1
+L. Carole,W. Ben Yedder,1
+J. Geis,Jes\u00fas Navas,1
+Jes\u00fas Navas,G. Mercado,1
+Sergio Rico,G. Mercado,1
+W. Ben Yedder,G. Pizarro,1

@@ -1,0 +1,74 @@
+Source,Target,Weight
+Keko,R. Rosales,7
+R. Rosales,Keko,5
+Roberto,Luis Hern\u00e1ndez,5
+Recio,R. Rosales,5
+Keko,Adri\u00e1n,4
+Borja Bast\u00f3n,Keko,4
+Adri\u00e1n,Recio,4
+Adri\u00e1n,Chory Castro,4
+Diego Gonz\u00e1lez,P. Baysse,4
+R. Rosales,Recio,4
+P. Baysse,Chory Castro,4
+Adri\u00e1n,Borja Bast\u00f3n,3
+Chory Castro,Adri\u00e1n,3
+R. Rosales,Luis Hern\u00e1ndez,3
+Luis Hern\u00e1ndez,Chory Castro,3
+R. Rosales,Adri\u00e1n,3
+Luis Hern\u00e1ndez,Borja Bast\u00f3n,3
+A. Pe\u00f1aranda,R. Rosales,3
+A. Pe\u00f1aranda,Chory Castro,3
+Roberto,A. Pe\u00f1aranda,3
+Chory Castro,Diego Gonz\u00e1lez,3
+Keko,A. Pe\u00f1aranda,2
+Chory Castro,Roberto,2
+Adri\u00e1n,Keko,2
+Luis Hern\u00e1ndez,Roberto,2
+R. Rosales,P. Baysse,2
+Keko,Recio,2
+Recio,P. Baysse,2
+Keko,Chory Castro,2
+Borja Bast\u00f3n,Diego Gonz\u00e1lez,2
+Chory Castro,Recio,2
+Borja Bast\u00f3n,Recio,2
+Recio,Keko,2
+Diego Gonz\u00e1lez,Adri\u00e1n,2
+P. Baysse,Roberto,2
+P. Baysse,Keko,2
+Borja Bast\u00f3n,A. Pe\u00f1aranda,2
+Borja Bast\u00f3n,Luis Hern\u00e1ndez,2
+Recio,Luis Hern\u00e1ndez,2
+Luis Hern\u00e1ndez,P. Baysse,2
+A. Pe\u00f1aranda,Keko,2
+Recio,Borja Bast\u00f3n,2
+Luis Hern\u00e1ndez,Recio,2
+Borja Bast\u00f3n,R. Rosales,2
+R. Rosales,Borja Bast\u00f3n,2
+Adri\u00e1n,A. Pe\u00f1aranda,2
+Diego Gonz\u00e1lez,Borja Bast\u00f3n,1
+Adri\u00e1n,Luis Hern\u00e1ndez,1
+P. Baysse,R. Rosales,1
+Recio,A. Pe\u00f1aranda,1
+Chory Castro,A. Pe\u00f1aranda,1
+Chory Castro,Borja Bast\u00f3n,1
+Borja Bast\u00f3n,Adri\u00e1n,1
+R. Rosales,Diego Gonz\u00e1lez,1
+Luis Hern\u00e1ndez,Diego Gonz\u00e1lez,1
+Luis Hern\u00e1ndez,A. Pe\u00f1aranda,1
+A. Pe\u00f1aranda,Borja Bast\u00f3n,1
+Borja Bast\u00f3n,P. Baysse,1
+A. Pe\u00f1aranda,Luis Hern\u00e1ndez,1
+P. Baysse,Borja Bast\u00f3n,1
+P. Baysse,Luis Hern\u00e1ndez,1
+A. Pe\u00f1aranda,Adri\u00e1n,1
+A. Pe\u00f1aranda,Roberto,1
+Recio,Adri\u00e1n,1
+Chory Castro,R. Rosales,1
+Chory Castro,P. Baysse,1
+Chory Castro,Keko,1
+Keko,Roberto,1
+Recio,Roberto,1
+Luis Hern\u00e1ndez,R. Rosales,1
+P. Baysse,Adri\u00e1n,1
+Roberto,Keko,1
+Keko,Borja Bast\u00f3n,1

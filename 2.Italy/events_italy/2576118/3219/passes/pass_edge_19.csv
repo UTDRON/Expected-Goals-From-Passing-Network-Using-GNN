@@ -1,0 +1,29 @@
+Source,Target,Weight
+L. Memushaj,G. Letizia,3
+B. Gyamfi,L. Del Pinto,3
+G. Letizia,L. Memushaj,2
+A. Ciciretti,B. Gyamfi,2
+L. Del Pinto,B. Gyamfi,2
+L. Del Pinto,L. Memushaj,2
+B. Gyamfi,S. Armenteros,2
+L. Memushaj,B. Gyamfi,2
+A. Costa,L. Memushaj,1
+S. Armenteros,B. Djimsiti,1
+G. Pu\u015fca\u015f,S. Armenteros,1
+B. Gyamfi,B. Djimsiti,1
+G. Letizia,A. Costa,1
+A. Brignoli,B. Gyamfi,1
+S. Armenteros,A. Costa,1
+A. Costa,G. Pu\u015fca\u015f,1
+G. Letizia,M. D'Alessandro,1
+B. Gyamfi,L. Memushaj,1
+B. Gyamfi,A. Ciciretti,1
+A. Brignoli,G. Letizia,1
+M. D'Alessandro,B. Gyamfi,1
+B. Djimsiti,A. Costa,1
+B. Gyamfi,G. Pu\u015fca\u015f,1
+S. Armenteros,B. Gyamfi,1
+B. Djimsiti,A. Brignoli,1
+G. Pu\u015fca\u015f,A. Ciciretti,1
+L. Memushaj,L. Del Pinto,1
+A. Costa,A. Brignoli,1

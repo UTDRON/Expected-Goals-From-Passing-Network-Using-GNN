@@ -1,0 +1,64 @@
+Source,Target,Weight
+G. Angella,R. de Paul,3
+S. Fofana,G. Angella,3
+K. Lasagna,J. Jankto,3
+S. Fofana,R. de Paul,2
+G. Angella,S. Fofana,2
+E. Hallfre\u00f0sson,J. Jankto,2
+Samir,G. Angella,2
+S. Scuffet,Samir,2
+Samir,K. Lasagna,2
+Samir,S. Fofana,2
+G. Angella,E. Hallfre\u00f0sson,2
+Samir,E. Hallfre\u00f0sson,2
+G. Angella,S. Scuffet,2
+R. de Paul,Danilo,2
+S. Fofana,Danilo,2
+E. Hallfre\u00f0sson,S. Fofana,2
+C. Th\u00e9r\u00e9au,Danilo,2
+Samir,C. Th\u00e9r\u00e9au,2
+R. de Paul,S. Fofana,2
+Danilo,G. Angella,2
+Danilo,Samir,2
+S. Fofana,Samir,2
+Danilo,B. Nuytinck,2
+Samir,B. Nuytinck,2
+B. Nuytinck,S. Fofana,2
+J. Jankto,C. Th\u00e9r\u00e9au,1
+E. Hallfre\u00f0sson,Danilo,1
+R. de Paul,G. Angella,1
+J. Jankto,Danilo,1
+E. Hallfre\u00f0sson,C. Th\u00e9r\u00e9au,1
+S. Fofana,C. Th\u00e9r\u00e9au,1
+C. Th\u00e9r\u00e9au,J. Jankto,1
+B. Nuytinck,C. Th\u00e9r\u00e9au,1
+B. Nuytinck,R. de Paul,1
+J. Jankto,G. Angella,1
+K. Lasagna,E. Hallfre\u00f0sson,1
+E. Hallfre\u00f0sson,Samir,1
+R. de Paul,J. Jankto,1
+Danilo,S. Scuffet,1
+S. Scuffet,C. Th\u00e9r\u00e9au,1
+Danilo,K. Lasagna,1
+G. Angella,Samir,1
+C. Th\u00e9r\u00e9au,B. Nuytinck,1
+S. Fofana,E. Hallfre\u00f0sson,1
+B. Nuytinck,G. Angella,1
+B. Nuytinck,Samir,1
+J. Jankto,Samir,1
+S. Scuffet,B. Nuytinck,1
+K. Lasagna,B. Nuytinck,1
+J. Jankto,K. Lasagna,1
+R. de Paul,K. Lasagna,1
+J. Jankto,S. Scuffet,1
+S. Scuffet,G. Angella,1
+S. Fofana,S. Scuffet,1
+Danilo,R. de Paul,1
+G. Angella,Danilo,1
+C. Th\u00e9r\u00e9au,Samir,1
+J. Jankto,E. Hallfre\u00f0sson,1
+C. Th\u00e9r\u00e9au,S. Scuffet,1
+E. Hallfre\u00f0sson,R. de Paul,1
+S. Scuffet,S. Fofana,1
+C. Th\u00e9r\u00e9au,S. Fofana,1
+B. Nuytinck,E. Hallfre\u00f0sson,1

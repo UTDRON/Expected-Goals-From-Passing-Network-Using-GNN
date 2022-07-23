@@ -1,0 +1,80 @@
+Source,Target,Weight
+C. Lenglet,G. Pizarro,5
+S. N'Zonzi,L. Carole,5
+G. Pizarro,C. Lenglet,4
+S. Kj\u00e6r,G. Pizarro,4
+Jes\u00fas Navas,S. Corchia,4
+F. V\u00e1zquez,Jes\u00fas Navas,4
+F. V\u00e1zquez,S. N'Zonzi,4
+G. Pizarro,L. Carole,3
+G. Pizarro,S. N'Zonzi,3
+F. V\u00e1zquez,G. Pizarro,3
+G. Pizarro,S. Kj\u00e6r,3
+J. Correa,W. Ben Yedder,3
+Sergio Rico,J. Correa,2
+J. Correa,M. Krohn-Dehli,2
+L. Carole,F. V\u00e1zquez,2
+S. Corchia,F. V\u00e1zquez,2
+L. Carole,J. Correa,2
+J. Correa,Sergio Rico,2
+L. Carole,Sergio Rico,2
+G. Pizarro,J. Correa,2
+Jes\u00fas Navas,F. V\u00e1zquez,2
+L. Carole,W. Ben Yedder,2
+S. Corchia,C. Lenglet,2
+Sergio Rico,G. Pizarro,2
+J. Correa,F. V\u00e1zquez,2
+L. Carole,G. Pizarro,2
+M. Krohn-Dehli,J. Correa,2
+G. Pizarro,W. Ben Yedder,2
+C. Lenglet,J. Correa,2
+J. Correa,C. Lenglet,2
+W. Ben Yedder,M. Krohn-Dehli,1
+W. Ben Yedder,S. Kj\u00e6r,1
+L. Carole,M. Krohn-Dehli,1
+J. Correa,S. Kj\u00e6r,1
+M. Krohn-Dehli,F. V\u00e1zquez,1
+L. Carole,S. N'Zonzi,1
+W. Ben Yedder,Jes\u00fas Navas,1
+M. Krohn-Dehli,G. Pizarro,1
+W. Ben Yedder,S. N'Zonzi,1
+M. Krohn-Dehli,L. Carole,1
+S. Kj\u00e6r,L. Carole,1
+S. Corchia,Sergio Rico,1
+G. Pizarro,M. Krohn-Dehli,1
+W. Ben Yedder,G. Pizarro,1
+F. V\u00e1zquez,J. Correa,1
+C. Lenglet,S. Corchia,1
+Sergio Rico,F. V\u00e1zquez,1
+C. Lenglet,S. Kj\u00e6r,1
+S. Corchia,S. Kj\u00e6r,1
+S. N'Zonzi,S. Corchia,1
+Sergio Rico,Jes\u00fas Navas,1
+Jes\u00fas Navas,G. Pizarro,1
+S. Kj\u00e6r,S. N'Zonzi,1
+C. Lenglet,Sergio Rico,1
+Jes\u00fas Navas,L. Carole,1
+S. N'Zonzi,W. Ben Yedder,1
+W. Ben Yedder,L. Carole,1
+W. Ben Yedder,J. Correa,1
+W. Ben Yedder,F. V\u00e1zquez,1
+Sergio Rico,C. Lenglet,1
+G. Pizarro,S. Corchia,1
+S. N'Zonzi,Jes\u00fas Navas,1
+F. V\u00e1zquez,M. Krohn-Dehli,1
+S. Corchia,G. Pizarro,1
+Sergio Rico,L. Carole,1
+M. Krohn-Dehli,Jes\u00fas Navas,1
+C. Lenglet,F. V\u00e1zquez,1
+G. Pizarro,F. V\u00e1zquez,1
+S. N'Zonzi,S. Kj\u00e6r,1
+S. N'Zonzi,G. Pizarro,1
+M. Krohn-Dehli,C. Lenglet,1
+L. Carole,S. Corchia,1
+S. Corchia,W. Ben Yedder,1
+S. Kj\u00e6r,M. Krohn-Dehli,1
+G. Pizarro,Sergio Rico,1
+S. Kj\u00e6r,Jes\u00fas Navas,1
+Jes\u00fas Navas,S. Kj\u00e6r,1
+S. N'Zonzi,C. Lenglet,1
+W. Ben Yedder,Sergio Rico,1

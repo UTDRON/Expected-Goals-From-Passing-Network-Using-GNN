@@ -1,0 +1,43 @@
+Source,Target,Weight
+H. Hateboer,R. Freuler,5
+R. Freuler,H. Hateboer,4
+A. G\u00f3mez,H. Hateboer,3
+M. de Roon,A. Masiello,3
+A. Masiello,R. Gosens,3
+H. Hateboer,G. Mancini,2
+E. Berisha,R. Freuler,2
+B. Cristante,A. G\u00f3mez,2
+R. Freuler,A. G\u00f3mez,2
+B. Cristante,M. de Roon,2
+H. Hateboer,A. G\u00f3mez,2
+A. Masiello,E. Berisha,2
+R. Freuler,A. Masiello,1
+R. Gosens,A. Cornelius,1
+A. Masiello,H. Hateboer,1
+R. Freuler,B. Cristante,1
+B. Cristante,H. Hateboer,1
+E. Berisha,R. Gosens,1
+G. Mancini,A. Cornelius,1
+M. de Roon,H. Hateboer,1
+A. Cornelius,R. Freuler,1
+A. Masiello,B. Cristante,1
+B. Cristante,R. Freuler,1
+R. Freuler,M. de Roon,1
+G. Mancini,M. de Roon,1
+A. Cornelius,B. Cristante,1
+A. G\u00f3mez,R. Gosens,1
+R. Gosens,G. Mancini,1
+H. Hateboer,B. Cristante,1
+A. Cornelius,A. G\u00f3mez,1
+R. Gosens,A. Masiello,1
+A. G\u00f3mez,A. Masiello,1
+H. Hateboer,E. Berisha,1
+M. de Roon,B. Cristante,1
+E. Berisha,H. Hateboer,1
+G. Mancini,A. Masiello,1
+A. G\u00f3mez,R. Freuler,1
+R. Gosens,B. Cristante,1
+R. Gosens,M. de Roon,1
+R. Freuler,E. Berisha,1
+A. Masiello,R. Freuler,1
+R. Freuler,A. Cornelius,1

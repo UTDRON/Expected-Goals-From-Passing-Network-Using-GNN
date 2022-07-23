@@ -1,0 +1,28 @@
+Source,Target,Weight
+J. Lerma,Coke,3
+Jos\u00e9 Luis Morales,C. Doukour\u00e9,3
+Coke,Jos\u00e9 Luis Morales,3
+Coke,J. Lerma,3
+Jos\u00e9 Luis Morales,J. Lerma,2
+Ivi,Jos\u00e9 Luis Morales,2
+Jos\u00e9 Luis Morales,Coke,2
+Rober,J. Lerma,1
+S. Luki\u0107,Coke,1
+Luna,Ivi,1
+Ivi,Luna,1
+Rober,Coke,1
+E. Boateng,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,Rober,1
+Jos\u00e9 Luis Morales,Ivi,1
+J. Lerma,Ivi,1
+Coke,Ivi,1
+J. Lerma,S. Luki\u0107,1
+Coke,S. Luki\u0107,1
+Coke,E. Boateng,1
+J. Lerma,Jos\u00e9 Luis Morales,1
+S. Luki\u0107,Jos\u00e9 Luis Morales,1
+Ivi,C. Doukour\u00e9,1
+C. Doukour\u00e9,Jos\u00e9 Luis Morales,1
+Ivi,Coke,1
+C. Doukour\u00e9,Ivi,1
+C. Doukour\u00e9,Coke,1

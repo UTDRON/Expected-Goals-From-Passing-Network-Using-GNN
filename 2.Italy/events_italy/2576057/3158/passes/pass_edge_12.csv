@@ -1,0 +1,21 @@
+Source,Target,Weight
+G. Defrel,R. Nainggolan,2
+F. Fazio,H. Moreno,1
+R. Nainggolan,F. Fazio,1
+D. Perotti,F. Fazio,1
+R. Karsdorp,R. Nainggolan,1
+D. Perotti,E. D\u017eeko,1
+R. Nainggolan,R. Karsdorp,1
+E. D\u017eeko,R. Karsdorp,1
+F. Fazio,A. Kolarov,1
+G. Defrel,F. Fazio,1
+H. Moreno,E. D\u017eeko,1
+A. Kolarov,H. Moreno,1
+H. Moreno,F. Fazio,1
+F. Fazio,D. Perotti,1
+Gerson,G. Defrel,1
+A. Kolarov,F. Fazio,1
+F. Fazio,G. Defrel,1
+E. D\u017eeko,G. Defrel,1
+R. Nainggolan,D. Perotti,1
+R. Karsdorp,Gerson,1

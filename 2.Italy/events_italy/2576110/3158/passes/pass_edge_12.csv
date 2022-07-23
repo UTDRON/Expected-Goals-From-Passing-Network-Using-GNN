@@ -1,0 +1,17 @@
+Source,Target,Weight
+Juan Jesus,A. Kolarov,1
+S. El Shaarawy,Bruno Peres,1
+A. Kolarov,K. Strootman,1
+R. Nainggolan,K. Strootman,1
+M. Gonalons,P. Schick,1
+P. Schick,K. Strootman,1
+Bruno Peres,R. Nainggolan,1
+M. Gonalons,Juan Jesus,1
+K. Strootman,Juan Jesus,1
+Juan Jesus,M. Gonalons,1
+A. Kolarov,Juan Jesus,1
+S. El Shaarawy,A. Kolarov,1
+K. Strootman,A. Kolarov,1
+Juan Jesus,Alisson,1
+Alisson,S. El Shaarawy,1
+K. Strootman,S. El Shaarawy,1

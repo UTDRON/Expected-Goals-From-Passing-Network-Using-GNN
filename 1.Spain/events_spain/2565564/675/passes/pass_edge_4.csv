@@ -1,0 +1,50 @@
+Source,Target,Weight
+T. Kroos,Daniel Carvajal,6
+Marcelo,L. Modri\u0107,5
+T. Kroos,Marcelo,3
+Nacho,T. Kroos,3
+Daniel Carvajal,Casemiro,3
+Casemiro,Nacho,3
+Isco,T. Kroos,3
+L. Modri\u0107,Marcelo,3
+G. Bale,L. Modri\u0107,2
+Marcelo,Nacho,2
+Nacho,Marcelo,2
+Marco Asensio,Marcelo,2
+G. Bale,Isco,2
+Marcelo,Isco,2
+Marco Asensio,G. Bale,2
+Marco Asensio,T. Kroos,2
+Daniel Carvajal,T. Kroos,2
+L. Modri\u0107,Marco Asensio,2
+L. Modri\u0107,Isco,2
+Isco,Daniel Carvajal,2
+Marcelo,Marco Asensio,2
+K. Benzema,T. Kroos,1
+Marcelo,T. Kroos,1
+Daniel Carvajal,Marco Asensio,1
+T. Kroos,Marco Asensio,1
+Isco,Marcelo,1
+Casemiro,Marcelo,1
+Casemiro,T. Kroos,1
+K. Navas,Daniel Carvajal,1
+K. Benzema,Daniel Carvajal,1
+Daniel Carvajal,Marcelo,1
+Daniel Carvajal,Nacho,1
+Nacho,Isco,1
+Nacho,K. Navas,1
+Daniel Carvajal,Isco,1
+T. Kroos,Casemiro,1
+L. Modri\u0107,Nacho,1
+Marcelo,Casemiro,1
+Isco,Nacho,1
+Isco,G. Bale,1
+Nacho,K. Benzema,1
+T. Kroos,K. Benzema,1
+Daniel Carvajal,G. Bale,1
+G. Bale,Marcelo,1
+Casemiro,G. Bale,1
+T. Kroos,Isco,1
+T. Kroos,L. Modri\u0107,1
+Isco,L. Modri\u0107,1
+L. Modri\u0107,Casemiro,1

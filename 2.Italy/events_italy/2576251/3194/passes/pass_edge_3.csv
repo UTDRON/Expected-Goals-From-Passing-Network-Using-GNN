@@ -1,0 +1,58 @@
+Source,Target,Weight
+A. Caracciolo,Nicolas,5
+A. Ferrari,R\u00f4mulo,5
+M. Fares,M. B\u00fcchel,5
+R\u00f4mulo,A. Ferrari,4
+M. B\u00fcchel,M. Fares,4
+A. Ferrari,A. Caracciolo,4
+Nicolas,A. Ferrari,3
+S. Calvano,R\u00f4mulo,3
+B. Petkovi\u0107,M. B\u00fcchel,3
+R. Aarons,M. Fares,3
+S. Souprayen,R. Aarons,2
+M. Fares,S. Souprayen,2
+M. B\u00fcchel,S. Calvano,2
+S. Souprayen,Nicolas,2
+S. Souprayen,M. Fares,2
+Nicolas,B. Petkovi\u0107,2
+Nicolas,S. Souprayen,2
+R\u00f4mulo,B. Petkovi\u0107,2
+S. Souprayen,S. Calvano,2
+S. Calvano,A. Ferrari,2
+M. B\u00fcchel,S. Souprayen,2
+M. B\u00fcchel,R\u00f4mulo,2
+J. Vukovi\u0107,Nicolas,2
+B. Petkovi\u0107,R\u00f4mulo,2
+M. Fares,R. Aarons,2
+Nicolas,R. Aarons,1
+R. Aarons,S. Calvano,1
+M. Fares,Nicolas,1
+S. Souprayen,A. Caracciolo,1
+J. Vukovi\u0107,S. Souprayen,1
+R\u00f4mulo,M. B\u00fcchel,1
+A. Caracciolo,S. Souprayen,1
+B. Petkovi\u0107,M. Fares,1
+B. Petkovi\u0107,S. Souprayen,1
+M. B\u00fcchel,A. Ferrari,1
+J. Vukovi\u0107,A. Ferrari,1
+S. Souprayen,J. Vukovi\u0107,1
+Nicolas,M. B\u00fcchel,1
+J. Vukovi\u0107,S. Calvano,1
+S. Calvano,A. Caracciolo,1
+M. Fares,B. Petkovi\u0107,1
+R\u00f4mulo,M. Fares,1
+A. Ferrari,S. Calvano,1
+M. Fares,S. Calvano,1
+R\u00f4mulo,J. Vukovi\u0107,1
+R. Aarons,J. Vukovi\u0107,1
+S. Souprayen,M. B\u00fcchel,1
+A. Ferrari,S. Souprayen,1
+R. Aarons,M. B\u00fcchel,1
+S. Souprayen,B. Petkovi\u0107,1
+Nicolas,J. Vukovi\u0107,1
+S. Calvano,J. Vukovi\u0107,1
+R\u00f4mulo,R. Aarons,1
+S. Calvano,M. Fares,1
+R\u00f4mulo,S. Souprayen,1
+S. Calvano,B. Petkovi\u0107,1
+R\u00f4mulo,S. Calvano,1

@@ -1,0 +1,27 @@
+Source,Target,Weight
+P. Hetemaj,V. Birsa,4
+V. Birsa,P. Hetemaj,3
+A. Gamberini,D. Dainelli,2
+I. Radovanovi\u0107,F. Cacciatore,2
+I. Radovanovi\u0107,P. Hetemaj,2
+F. Cacciatore,S. Pellissier,2
+S. Pellissier,F. Cacciatore,2
+P. Hetemaj,I. Radovanovi\u0107,2
+V. Birsa,R. Inglese,1
+D. Dainelli,I. Radovanovi\u0107,1
+P. Hetemaj,A. Gamberini,1
+M. Gobbi,I. Radovanovi\u0107,1
+L. Castro,S. Pellissier,1
+L. Castro,I. Radovanovi\u0107,1
+M. Gobbi,A. Gamberini,1
+F. Cacciatore,M. Gobbi,1
+D. Dainelli,A. Gamberini,1
+A. Gamberini,P. Hetemaj,1
+I. Radovanovi\u0107,L. Castro,1
+R. Inglese,M. Gobbi,1
+D. Dainelli,V. Birsa,1
+V. Birsa,D. Dainelli,1
+M. Gobbi,P. Hetemaj,1
+D. Dainelli,F. Cacciatore,1
+S. Pellissier,L. Castro,1
+F. Cacciatore,D. Dainelli,1

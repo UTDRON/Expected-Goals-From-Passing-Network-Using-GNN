@@ -1,0 +1,47 @@
+Source,Target,Weight
+Mikel Rico,Saborit,4
+Susaeta,Etxeita,3
+Susaeta,Mikel Rico,2
+I\u00f1aki Williams,Lekue,2
+Saborit,Iturraspe,2
+De Marcos,Iturraspe,2
+Saborit,A. Laporte,2
+Saborit,Susaeta,2
+I\u00f1aki Williams,De Marcos,2
+Iturraspe,Be\u00f1at,2
+Iturraspe,I\u00f1aki Williams,2
+A. Laporte,Iturraspe,2
+Lekue,I\u00f1aki Williams,2
+Aduriz,Iturraspe,2
+Be\u00f1at,Saborit,1
+Etxeita,Saborit,1
+Aduriz,Susaeta,1
+Iago Herrer\u00edn,Saborit,1
+Susaeta,Ra\u00fal Garc\u00eda,1
+I\u00f1aki Williams,Aduriz,1
+Saborit,Mikel Rico,1
+Iago Herrer\u00edn,Aduriz,1
+Be\u00f1at,De Marcos,1
+Be\u00f1at,Iago Herrer\u00edn,1
+Saborit,Iago Herrer\u00edn,1
+Iturraspe,De Marcos,1
+Iturraspe,Mikel Rico,1
+De Marcos,I\u00f1aki Williams,1
+Iturraspe,Saborit,1
+Iago Herrer\u00edn,Susaeta,1
+Iturraspe,Aduriz,1
+A. Laporte,Be\u00f1at,1
+Lekue,Susaeta,1
+Ra\u00fal Garc\u00eda,Etxeita,1
+Etxeita,A. Laporte,1
+Be\u00f1at,A. Laporte,1
+Iago Herrer\u00edn,Lekue,1
+De Marcos,Etxeita,1
+De Marcos,Be\u00f1at,1
+A. Laporte,Iago Herrer\u00edn,1
+Etxeita,I\u00f1aki Williams,1
+Etxeita,De Marcos,1
+Etxeita,Iturraspe,1
+A. Laporte,Susaeta,1
+Iturraspe,Etxeita,1
+I\u00f1aki Williams,A. Laporte,1

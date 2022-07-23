@@ -1,0 +1,25 @@
+Source,Target,Weight
+A. Florenzi,K. Strootman,2
+A. Kolarov,K. Strootman,2
+K. Strootman,A. Kolarov,2
+A. Kolarov,D. Perotti,2
+K. Manolas,A. Kolarov,2
+P. Schick,K. Strootman,2
+A. Kolarov,F. Fazio,1
+M. Gonalons,K. Manolas,1
+K. Strootman,F. Fazio,1
+K. Strootman,P. Schick,1
+D. Perotti,A. Kolarov,1
+F. Fazio,P. Schick,1
+F. Fazio,K. Strootman,1
+K. Strootman,A. Florenzi,1
+K. Strootman,E. D\u017eeko,1
+A. Florenzi,M. Gonalons,1
+K. Strootman,D. Perotti,1
+K. Strootman,S. El Shaarawy,1
+E. D\u017eeko,M. Gonalons,1
+D. Perotti,P. Schick,1
+S. El Shaarawy,K. Manolas,1
+D. Perotti,A. Florenzi,1
+M. Gonalons,A. Florenzi,1
+P. Schick,A. Kolarov,1

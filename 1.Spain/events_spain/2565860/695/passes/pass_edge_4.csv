@@ -1,0 +1,48 @@
+Source,Target,Weight
+Jason,Pedro L\u00f3pez,4
+A. Abeid,Campa\u00f1a,3
+Campa\u00f1a,A. Abeid,2
+J. Lerma,Roger,2
+E. Cabaco,Jason,2
+Jos\u00e9 Luis Morales,Campa\u00f1a,2
+Roger,Jason,2
+J. Lerma,Pedro L\u00f3pez,2
+A. Sadiku,Campa\u00f1a,2
+Pedro L\u00f3pez,A. Sadiku,2
+Pedro L\u00f3pez,J. Lerma,2
+A. Abeid,Jos\u00e9 Luis Morales,2
+Jos\u00e9 Luis Morales,A. Abeid,2
+Campa\u00f1a,Jason,2
+Rober,J. Lerma,2
+Jason,E. Cabaco,1
+Rober,Pedro L\u00f3pez,1
+J. Lerma,Campa\u00f1a,1
+Jason,Jos\u00e9 Luis Morales,1
+Oier,A. Sadiku,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+A. Abeid,Rober,1
+Pedro L\u00f3pez,Roger,1
+Jason,J. Lerma,1
+Pedro L\u00f3pez,Rober,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+J. Lerma,E. Cabaco,1
+Campa\u00f1a,E. Cabaco,1
+E. Cabaco,Oier,1
+Jason,Oier,1
+Rober,A. Abeid,1
+A. Abeid,Jason,1
+Campa\u00f1a,J. Lerma,1
+Jos\u00e9 Luis Morales,Roger,1
+E. Cabaco,Rober,1
+A. Sadiku,A. Abeid,1
+Campa\u00f1a,A. Sadiku,1
+Pedro L\u00f3pez,E. Cabaco,1
+Roger,Campa\u00f1a,1
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,1
+Oier,A. Abeid,1
+Oier,Jos\u00e9 Luis Morales,1
+Roger,Jos\u00e9 Luis Morales,1
+Pedro L\u00f3pez,Oier,1
+A. Sadiku,Jos\u00e9 Luis Morales,1
+Campa\u00f1a,Rober,1
+J. Lerma,Jos\u00e9 Luis Morales,1

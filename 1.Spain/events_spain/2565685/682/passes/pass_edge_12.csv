@@ -1,0 +1,75 @@
+Source,Target,Weight
+Mario,D. Bonera,11
+D. Bonera,Mario,7
+\u00c1lvaro Gonz\u00e1lez,D. Bonera,6
+D. Bonera,\u00c1lvaro Gonz\u00e1lez,5
+D. Bonera,R. Soriano,4
+D. Bonera,Rodri,4
+Rodri,Mario,4
+Rodri,Adri\u00e1n Mar\u00edn,4
+Adri\u00e1n Mar\u00edn,\u00c1lvaro Gonz\u00e1lez,3
+Adri\u00e1n Mar\u00edn,Trigueros,3
+Rodri,Pablo Fornals,3
+M. Barbosa,\u00c1lvaro Gonz\u00e1lez,3
+Trigueros,Rodri,3
+R. Soriano,D. Bonera,3
+\u00c1lvaro Gonz\u00e1lez,M. Barbosa,3
+Pablo Fornals,Trigueros,2
+R. Soriano,Mario,2
+Rodri,R. Soriano,2
+D. Bonera,Dani Raba,2
+\u00c1lvaro Gonz\u00e1lez,Pablo Fornals,2
+Adri\u00e1n Mar\u00edn,Rodri,2
+Pablo Fornals,Mario,2
+Trigueros,\u00c1lvaro Gonz\u00e1lez,2
+Dani Raba,Rodri,2
+Dani Raba,D. Bonera,2
+\u00c1lvaro Gonz\u00e1lez,Adri\u00e1n Mar\u00edn,2
+\u00c1lvaro Gonz\u00e1lez,Rodri,2
+R. Soriano,Rodri,2
+Mario,\u00c1lvaro Gonz\u00e1lez,2
+R. Soriano,Adri\u00e1n Mar\u00edn,2
+R. Soriano,Trigueros,2
+Adri\u00e1n Mar\u00edn,Dani Raba,1
+D. Bonera,C. Bakambu,1
+Dani Raba,\u00c1lvaro Gonz\u00e1lez,1
+\u00c1lvaro Gonz\u00e1lez,R. Soriano,1
+C. Bakambu,\u00c1lvaro Gonz\u00e1lez,1
+Mario,M. Barbosa,1
+\u00c1lvaro Gonz\u00e1lez,Trigueros,1
+Adri\u00e1n Mar\u00edn,D. Bonera,1
+\u00c1lvaro Gonz\u00e1lez,Dani Raba,1
+Rodri,C. Bakambu,1
+Pablo Fornals,R. Soriano,1
+D. Bonera,Adri\u00e1n Mar\u00edn,1
+Mario,C. Bakambu,1
+Rodri,Dani Raba,1
+Mario,Mario Gonz\u00e1lez,1
+C. Bakambu,Mario,1
+R. Soriano,Dani Raba,1
+Dani Raba,R. Soriano,1
+Trigueros,Mario Gonz\u00e1lez,1
+Adri\u00e1n Mar\u00edn,Pablo Fornals,1
+M. Barbosa,Rodri,1
+Chuca,Trigueros,1
+Mario Gonz\u00e1lez,Adri\u00e1n Mar\u00edn,1
+D. Bonera,Chuca,1
+D. Bonera,Mario Gonz\u00e1lez,1
+Mario,R. Soriano,1
+Mario Gonz\u00e1lez,R. Soriano,1
+Pablo Fornals,\u00c1lvaro Gonz\u00e1lez,1
+Chuca,\u00c1lvaro Gonz\u00e1lez,1
+Rodri,D. Bonera,1
+Rodri,\u00c1lvaro Gonz\u00e1lez,1
+\u00c1lvaro Gonz\u00e1lez,Chuca,1
+M. Barbosa,C. Bakambu,1
+Mario Gonz\u00e1lez,Rodri,1
+D. Bonera,M. Barbosa,1
+Trigueros,Mario,1
+\u00c1lvaro Gonz\u00e1lez,Mario Gonz\u00e1lez,1
+C. Bakambu,Pablo Fornals,1
+Mario Gonz\u00e1lez,C. Bakambu,1
+Trigueros,D. Bonera,1
+C. Bakambu,R. Soriano,1
+Trigueros,Adri\u00e1n Mar\u00edn,1
+Pablo Fornals,D. Bonera,1

@@ -1,0 +1,29 @@
+Source,Target,Weight
+\u00c1lvaro Gonz\u00e1lez,Rodri,2
+Rodri,Pablo Fornals,2
+Rodri,Trigueros,2
+V\u00edctor Ru\u00edz,\u00c1lvaro Gonz\u00e1lez,2
+\u00c1lvaro Gonz\u00e1lez,V\u00edctor Ru\u00edz,2
+Trigueros,V\u00edctor Ru\u00edz,2
+Pablo Fornals,\u00c1lvaro Gonz\u00e1lez,1
+Pablo Fornals,Rodri,1
+Jaume Costa,E. \u00dcnal,1
+V\u00edctor Ru\u00edz,Jaume Costa,1
+E. \u00dcnal,Jaume Costa,1
+Rodri,\u00c1lvaro Gonz\u00e1lez,1
+Trigueros,E. \u00dcnal,1
+Pablo Fornals,Trigueros,1
+Pablo Fornals,N. Sansone,1
+V\u00edctor Ru\u00edz,C. Bacca,1
+C. Bacca,V\u00edctor Ru\u00edz,1
+Trigueros,Pablo Fornals,1
+Andr\u00e9s Fern\u00e1ndez,E. \u00dcnal,1
+N. Sansone,Rodri,1
+V\u00edctor Ru\u00edz,Rodri,1
+E. \u00dcnal,C. Bacca,1
+N. Sansone,Trigueros,1
+Rodri,A. Rukavina,1
+E. \u00dcnal,Andr\u00e9s Fern\u00e1ndez,1
+Jaume Costa,N. Sansone,1
+A. Rukavina,Pablo Fornals,1
+C. Bacca,Pablo Fornals,1

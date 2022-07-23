@@ -1,0 +1,101 @@
+Source,Target,Weight
+S. De Maio,E. Pulgar,7
+G. Donsah,V. Torosidis,7
+S. Verdi,S. De Maio,6
+E. Pulgar,D. Maietta,6
+I. M'baye,S. Verdi,6
+S. De Maio,G. Donsah,6
+V. Torosidis,M. Destro,5
+S. Verdi,I. M'baye,5
+R. Palacio,G. Donsah,5
+M. Destro,V. Torosidis,5
+D. Maietta,E. Pulgar,4
+S. Verdi,R. Palacio,4
+V. Torosidis,R. Palacio,4
+S. Verdi,A. Poli,4
+G. Donsah,E. Pulgar,4
+R. Palacio,A. Poli,4
+A. Poli,I. M'baye,3
+G. Donsah,I. M'baye,3
+E. Pulgar,S. De Maio,3
+A. Mirante,S. Verdi,3
+I. M'baye,A. Poli,3
+E. Pulgar,G. Donsah,3
+E. Pulgar,R. Palacio,3
+I. M'baye,A. Mirante,3
+M. Destro,I. M'baye,3
+D. Maietta,S. De Maio,3
+A. Poli,M. Destro,3
+A. Masina,G. Donsah,3
+S. Verdi,A. Mirante,3
+A. Poli,S. Verdi,3
+E. Pulgar,S. Verdi,3
+G. Donsah,M. Destro,3
+R. Palacio,S. Verdi,3
+A. Masina,R. Palacio,3
+A. Mirante,M. Destro,3
+A. Mirante,R. Palacio,3
+R. Palacio,S. De Maio,3
+E. Pulgar,A. Masina,2
+R. Palacio,M. Destro,2
+V. Torosidis,S. Verdi,2
+A. Poli,E. Pulgar,2
+M. Destro,A. Mirante,2
+E. Pulgar,A. Poli,2
+I. M'baye,A. Masina,2
+I. M'baye,D. Maietta,2
+A. Poli,G. Donsah,2
+S. De Maio,V. Torosidis,2
+M. Destro,E. Pulgar,2
+D. Maietta,A. Mirante,2
+A. Poli,S. De Maio,2
+S. De Maio,A. Masina,2
+S. De Maio,A. Poli,2
+E. Pulgar,A. Mirante,2
+A. Mirante,S. De Maio,2
+A. Mirante,I. M'baye,2
+D. Maietta,A. Poli,2
+A. Poli,A. Mirante,2
+R. Palacio,A. Masina,2
+V. Torosidis,G. Donsah,2
+G. Donsah,A. Masina,2
+A. Mirante,A. Poli,2
+D. Maietta,I. M'baye,2
+A. Poli,D. Maietta,2
+I. M'baye,G. Donsah,2
+M. Destro,S. Verdi,2
+A. Mirante,D. Maietta,2
+V. Torosidis,E. Pulgar,1
+S. De Maio,S. Verdi,1
+A. Masina,S. De Maio,1
+A. Poli,R. Palacio,1
+M. Destro,R. Palacio,1
+I. M'baye,S. De Maio,1
+G. Donsah,R. Palacio,1
+R. Palacio,I. M'baye,1
+R. Palacio,E. Pulgar,1
+G. Donsah,A. Mirante,1
+A. Masina,E. Pulgar,1
+G. Donsah,S. De Maio,1
+S. De Maio,D. Maietta,1
+S. De Maio,A. Mirante,1
+G. Donsah,A. Poli,1
+A. Masina,S. Verdi,1
+S. Verdi,E. Pulgar,1
+A. Masina,D. Maietta,1
+R. Palacio,V. Torosidis,1
+M. Destro,D. Maietta,1
+I. M'baye,R. Palacio,1
+D. Maietta,V. Torosidis,1
+I. M'baye,E. Pulgar,1
+V. Torosidis,I. M'baye,1
+V. Torosidis,S. De Maio,1
+G. Donsah,S. Verdi,1
+S. De Maio,R. Palacio,1
+D. Maietta,R. Palacio,1
+R. Palacio,D. Maietta,1
+D. Maietta,G. Donsah,1
+S. Verdi,D. Maietta,1
+S. Verdi,A. Masina,1
+A. Masina,I. M'baye,1
+D. Maietta,A. Masina,1

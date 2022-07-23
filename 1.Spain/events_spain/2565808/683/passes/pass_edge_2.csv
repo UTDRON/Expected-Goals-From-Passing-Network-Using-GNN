@@ -1,0 +1,12 @@
+Source,Target,Weight
+Bueno,R. Rosales,2
+R. Rosales,Bueno,2
+Chory Castro,Luis Hern\u00e1ndez,1
+R. Rosales,M. Lacen,1
+M. Iturra,R. Rosales,1
+Luis Hern\u00e1ndez,M. Iturra,1
+Luis Hern\u00e1ndez,Bueno,1
+Chory Castro,R. Rosales,1
+R. Rosales,Chory Castro,1
+M. Lacen,D. Rol\u00e1n,1
+Bueno,Chory Castro,1

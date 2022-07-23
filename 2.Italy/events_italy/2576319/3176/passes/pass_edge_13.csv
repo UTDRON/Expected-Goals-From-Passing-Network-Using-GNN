@@ -1,0 +1,18 @@
+Source,Target,Weight
+R. Saponara,F. Chiesa,2
+F. Chiesa,G. Pezzella,2
+C. Biraghi,G. Simeone,1
+Gil Dias,M. Badelj,1
+G. Pezzella,Gil Dias,1
+Gil Dias,F. Chiesa,1
+J. Veretout,F. Chiesa,1
+G. Simeone,G. Pezzella,1
+G. Pezzella,R. Saponara,1
+M. Badelj,R. Saponara,1
+G. Pezzella,C. Biraghi,1
+R. Saponara,Gil Dias,1
+J. Veretout,Gil Dias,1
+N. Milenkovi\u0107,J. Veretout,1
+Gil Dias,R. Saponara,1
+F. Chiesa,R. Saponara,1
+R. Saponara,J. Veretout,1

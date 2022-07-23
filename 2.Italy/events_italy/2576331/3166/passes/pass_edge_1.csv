@@ -1,0 +1,86 @@
+Source,Target,Weight
+S. De Maio,B. D\u017eemaili,7
+L. Crisetig,S. De Maio,6
+R. Orsolini,L. Crisetig,6
+S. Romagnoli,V. Torosidis,6
+V. Torosidis,S. Romagnoli,6
+S. Romagnoli,S. De Maio,6
+V. Torosidis,R. Orsolini,5
+L. Crisetig,S. Romagnoli,5
+S. De Maio,S. Romagnoli,5
+L. Crisetig,A. Poli,5
+A. Poli,R. Orsolini,5
+A. Poli,L. Crisetig,5
+V. Torosidis,A. Poli,5
+B. D\u017eemaili,S. Romagnoli,4
+V. Torosidis,L. Crisetig,4
+S. Romagnoli,A. Poli,4
+S. De Maio,V. Torosidis,4
+A. Masina,S. De Maio,4
+F. Avenatti,A. Masina,4
+Angelo da Costa,S. De Maio,4
+F. Avenatti,S. De Maio,4
+S. De Maio,A. Masina,4
+S. De Maio,F. Avenatti,4
+L. Crisetig,A. Masina,4
+A. Masina,L. Crisetig,4
+A. Masina,F. Avenatti,3
+S. Romagnoli,B. D\u017eemaili,3
+B. D\u017eemaili,F. Avenatti,3
+B. D\u017eemaili,S. Verdi,3
+S. Verdi,L. Crisetig,3
+S. Romagnoli,Angelo da Costa,3
+S. De Maio,Angelo da Costa,3
+S. Verdi,B. D\u017eemaili,3
+R. Orsolini,B. D\u017eemaili,3
+L. Crisetig,S. Verdi,3
+A. Poli,S. Romagnoli,3
+R. Orsolini,V. Torosidis,3
+S. De Maio,L. Crisetig,3
+B. D\u017eemaili,S. De Maio,3
+S. Verdi,A. Masina,3
+A. Masina,S. Verdi,3
+A. Poli,V. Torosidis,3
+F. Avenatti,S. Verdi,3
+F. Avenatti,B. D\u017eemaili,2
+Angelo da Costa,V. Torosidis,2
+B. D\u017eemaili,Angelo da Costa,2
+A. Poli,S. De Maio,2
+S. Romagnoli,F. Avenatti,2
+A. Masina,V. Torosidis,2
+Angelo da Costa,F. Avenatti,2
+Angelo da Costa,A. Masina,2
+S. Verdi,R. Orsolini,2
+S. Verdi,A. Poli,2
+L. Crisetig,R. Orsolini,2
+B. D\u017eemaili,L. Crisetig,2
+S. Verdi,S. De Maio,2
+B. D\u017eemaili,A. Poli,2
+A. Poli,Angelo da Costa,2
+S. De Maio,R. Orsolini,2
+R. Orsolini,S. Verdi,2
+L. Crisetig,B. D\u017eemaili,2
+F. Avenatti,A. Poli,1
+S. De Maio,S. Verdi,1
+Angelo da Costa,S. Romagnoli,1
+R. Orsolini,Angelo da Costa,1
+B. D\u017eemaili,A. Masina,1
+R. Orsolini,S. De Maio,1
+F. Avenatti,R. Orsolini,1
+S. Romagnoli,R. Orsolini,1
+S. Romagnoli,S. Verdi,1
+A. Masina,S. Romagnoli,1
+F. Avenatti,S. Romagnoli,1
+A. Poli,A. Masina,1
+R. Orsolini,S. Romagnoli,1
+L. Crisetig,Angelo da Costa,1
+F. Avenatti,L. Crisetig,1
+S. Verdi,F. Avenatti,1
+S. Romagnoli,L. Crisetig,1
+Angelo da Costa,L. Crisetig,1
+A. Masina,B. D\u017eemaili,1
+L. Crisetig,F. Avenatti,1
+V. Torosidis,F. Avenatti,1
+A. Masina,A. Poli,1
+B. D\u017eemaili,V. Torosidis,1
+R. Orsolini,A. Poli,1

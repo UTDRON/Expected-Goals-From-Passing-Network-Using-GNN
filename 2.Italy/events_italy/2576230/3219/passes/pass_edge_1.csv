@@ -1,0 +1,88 @@
+Source,Target,Weight
+B. Sagna,E. Brignola,11
+E. Brignola,B. Sagna,10
+B. Sagna,B. Djimsiti,8
+L. Venuti,M. Coda,8
+B. Djimsiti,B. Sagna,8
+B. Djimsiti,A. To\u0219ca,7
+D. Cataldi,B. Sagna,7
+B. Sagna,D. Cataldi,7
+Guilherme,B. Sagna,6
+E. Brignola,B. Djimsiti,6
+B. Djimsiti,E. Brignola,6
+F. \u0110uri\u010di\u0107,B. Sagna,6
+A. To\u0219ca,C. Puggioni,5
+A. To\u0219ca,L. Venuti,5
+M. Coda,A. To\u0219ca,5
+B. Sagna,F. \u0110uri\u010di\u0107,5
+M. Coda,E. Brignola,5
+D. Cataldi,Guilherme,4
+M. Coda,D. Cataldi,4
+B. Sagna,M. Coda,4
+B. Djimsiti,D. Cataldi,4
+Guilherme,F. \u0110uri\u010di\u0107,4
+D. Cataldi,A. To\u0219ca,4
+C. Lombardi,B. Djimsiti,4
+E. Brignola,F. \u0110uri\u010di\u0107,4
+Guilherme,L. Venuti,4
+D. Cataldi,M. Coda,4
+B. Sagna,C. Lombardi,4
+E. Brignola,Guilherme,4
+A. To\u0219ca,B. Sagna,3
+L. Venuti,C. Lombardi,3
+C. Puggioni,B. Sagna,3
+C. Lombardi,D. Cataldi,3
+D. Cataldi,L. Venuti,3
+F. \u0110uri\u010di\u0107,B. Djimsiti,3
+E. Brignola,D. Cataldi,3
+A. To\u0219ca,F. \u0110uri\u010di\u0107,3
+A. To\u0219ca,B. Djimsiti,3
+F. \u0110uri\u010di\u0107,E. Brignola,3
+B. Djimsiti,Guilherme,3
+D. Cataldi,B. Djimsiti,3
+Guilherme,E. Brignola,2
+F. \u0110uri\u010di\u0107,D. Cataldi,2
+B. Sagna,Guilherme,2
+M. Coda,B. Djimsiti,2
+L. Venuti,D. Cataldi,2
+L. Venuti,B. Djimsiti,2
+C. Puggioni,Guilherme,2
+M. Coda,C. Lombardi,2
+B. Djimsiti,C. Puggioni,2
+C. Puggioni,A. To\u0219ca,2
+L. Venuti,Guilherme,2
+C. Puggioni,M. Coda,2
+C. Puggioni,L. Venuti,2
+C. Puggioni,B. Djimsiti,2
+B. Djimsiti,L. Venuti,2
+C. Lombardi,A. To\u0219ca,2
+A. To\u0219ca,Guilherme,2
+F. \u0110uri\u010di\u0107,M. Coda,2
+L. Venuti,F. \u0110uri\u010di\u0107,2
+C. Lombardi,F. \u0110uri\u010di\u0107,2
+F. \u0110uri\u010di\u0107,C. Puggioni,2
+Guilherme,C. Lombardi,2
+F. \u0110uri\u010di\u0107,Guilherme,1
+F. \u0110uri\u010di\u0107,L. Venuti,1
+L. Venuti,E. Brignola,1
+C. Lombardi,C. Puggioni,1
+M. Coda,B. Sagna,1
+Guilherme,A. To\u0219ca,1
+B. Djimsiti,F. \u0110uri\u010di\u0107,1
+E. Brignola,L. Venuti,1
+B. Sagna,C. Puggioni,1
+M. Coda,L. Venuti,1
+A. To\u0219ca,E. Brignola,1
+M. Coda,Guilherme,1
+Guilherme,C. Puggioni,1
+C. Puggioni,C. Lombardi,1
+C. Lombardi,L. Venuti,1
+B. Sagna,L. Venuti,1
+D. Cataldi,C. Puggioni,1
+D. Cataldi,C. Lombardi,1
+F. \u0110uri\u010di\u0107,C. Lombardi,1
+E. Brignola,C. Puggioni,1
+L. Venuti,A. To\u0219ca,1
+B. Sagna,A. To\u0219ca,1
+Guilherme,D. Cataldi,1
+A. To\u0219ca,D. Cataldi,1

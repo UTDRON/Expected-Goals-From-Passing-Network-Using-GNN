@@ -1,0 +1,48 @@
+Source,Target,Weight
+A. Gravillon,V. Belec,2
+B. Djimsiti,C. Lombardi,2
+G. Di Chiara,N. Viola,2
+C. Lombardi,V. Belec,2
+C. Lombardi,A. Gravillon,2
+E. Brignola,G. Di Chiara,2
+B. Djimsiti,A. Gravillon,2
+C. Lombardi,B. Djimsiti,2
+N. Viola,M. D'Alessandro,2
+L. Memushaj,C. Lombardi,2
+A. Gravillon,B. Djimsiti,2
+V. Belec,M. Coda,1
+B. Djimsiti,M. D'Alessandro,1
+G. Di Chiara,E. Brignola,1
+A. Gravillon,N. Viola,1
+V. Belec,F. Lucioni,1
+F. Lucioni,L. Venuti,1
+N. Viola,C. Lombardi,1
+E. Brignola,B. Djimsiti,1
+B. Djimsiti,N. Viola,1
+M. D'Alessandro,B. Djimsiti,1
+V. Belec,C. Lombardi,1
+V. Belec,A. Gravillon,1
+C. Lombardi,N. Viola,1
+N. Viola,E. Brignola,1
+L. Venuti,B. Djimsiti,1
+B. Djimsiti,F. Lucioni,1
+N. Viola,G. Di Chiara,1
+F. Lucioni,M. D'Alessandro,1
+N. Viola,L. Venuti,1
+M. D'Alessandro,E. Brignola,1
+E. Brignola,C. Lombardi,1
+L. Venuti,C. Lombardi,1
+V. Belec,L. Memushaj,1
+L. Memushaj,M. D'Alessandro,1
+L. Memushaj,E. Brignola,1
+M. D'Alessandro,L. Venuti,1
+A. Gravillon,M. D'Alessandro,1
+M. D'Alessandro,A. Gravillon,1
+B. Djimsiti,L. Memushaj,1
+M. D'Alessandro,L. Memushaj,1
+L. Venuti,N. Viola,1
+G. Di Chiara,B. Djimsiti,1
+M. D'Alessandro,G. Di Chiara,1
+N. Viola,V. Belec,1
+M. Coda,N. Viola,1
+C. Lombardi,L. Memushaj,1

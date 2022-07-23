@@ -1,0 +1,49 @@
+Source,Target,Weight
+R. Durmisi,Z. Feddal,4
+Z. Feddal,A. Mandi,3
+Z. Feddal,V\u00edctor Camarasa,3
+Fabi\u00e1n,Joaqu\u00edn,3
+V\u00edctor Camarasa,Z. Feddal,3
+Julio Gracia,A. Mandi,3
+A. Mandi,Fabi\u00e1n,3
+Joaqu\u00edn,A. Mandi,2
+A. Mandi,Z. Feddal,2
+Ad\u00e1n,Z. Feddal,2
+Joaqu\u00edn,R. Boudebouz,2
+R. Durmisi,Cristian Tello,2
+V\u00edctor Camarasa,R. Durmisi,2
+R. Boudebouz,R. Durmisi,2
+V\u00edctor Camarasa,Fabi\u00e1n,2
+Cristian Tello,V\u00edctor Camarasa,1
+Joaqu\u00edn,Julio Gracia,1
+A. Mandi,Joaqu\u00edn,1
+Joaqu\u00edn,Fabi\u00e1n,1
+Fabi\u00e1n,R. Durmisi,1
+Z. Feddal,Joaqu\u00edn,1
+Joaqu\u00edn,V\u00edctor Camarasa,1
+V\u00edctor Camarasa,A. Mandi,1
+Z. Feddal,Fabi\u00e1n,1
+Fabi\u00e1n,V\u00edctor Camarasa,1
+Z. Feddal,Cristian Tello,1
+V\u00edctor Camarasa,Ad\u00e1n,1
+R. Boudebouz,Joaqu\u00edn,1
+Fabi\u00e1n,Julio Gracia,1
+A. Mandi,Julio Gracia,1
+A. Mandi,R. Durmisi,1
+Cristian Tello,Ad\u00e1n,1
+Sergio Le\u00f3n,R. Boudebouz,1
+Z. Feddal,R. Boudebouz,1
+A. Mandi,V\u00edctor Camarasa,1
+Ad\u00e1n,V\u00edctor Camarasa,1
+R. Boudebouz,Sergio Le\u00f3n,1
+Z. Feddal,Julio Gracia,1
+Ad\u00e1n,A. Mandi,1
+R. Boudebouz,Ad\u00e1n,1
+R. Durmisi,R. Boudebouz,1
+Sergio Le\u00f3n,Ad\u00e1n,1
+Cristian Tello,R. Durmisi,1
+Fabi\u00e1n,R. Boudebouz,1
+Julio Gracia,Joaqu\u00edn,1
+R. Durmisi,Sergio Le\u00f3n,1
+Joaqu\u00edn,R. Durmisi,1
+R. Boudebouz,V\u00edctor Camarasa,1

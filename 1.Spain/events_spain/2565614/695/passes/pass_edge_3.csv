@@ -1,0 +1,65 @@
+Source,Target,Weight
+Rober,Pedro L\u00f3pez,6
+E. Bardhi,Pedro L\u00f3pez,4
+Pedro L\u00f3pez,Rober,4
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,4
+Sergio Postigo,Rober,3
+Sergio Postigo,E. Bardhi,3
+Pedro L\u00f3pez,E. Bardhi,3
+Rober,E. Bardhi,3
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,3
+Luna,Campa\u00f1a,3
+E. Bardhi,Rober,3
+Sergio Postigo,Pedro L\u00f3pez,2
+Campa\u00f1a,To\u00f1o,2
+Chema,Sergio Postigo,2
+\u00c1lex Alegr\u00eda,E. Bardhi,2
+Chema,Rober,2
+Rober,Luna,2
+Pedro L\u00f3pez,\u00c1lex Alegr\u00eda,2
+Campa\u00f1a,Chema,2
+Jos\u00e9 Luis Morales,Sergio Postigo,2
+Rober,Campa\u00f1a,2
+Campa\u00f1a,Sergio Postigo,2
+To\u00f1o,Luna,2
+Pedro L\u00f3pez,Sergio Postigo,2
+\u00c1lex Alegr\u00eda,Rober,2
+Jos\u00e9 Luis Morales,Rober,2
+Sergio Postigo,Chema,2
+\u00c1lex Alegr\u00eda,Campa\u00f1a,2
+Sergio Postigo,To\u00f1o,2
+E. Bardhi,Campa\u00f1a,2
+Campa\u00f1a,Luna,1
+Campa\u00f1a,Pedro L\u00f3pez,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+Rober,Jos\u00e9 Luis Morales,1
+Chema,Ra\u00fal Fern\u00e1ndez,1
+Pedro L\u00f3pez,Campa\u00f1a,1
+E. Bardhi,Jos\u00e9 Luis Morales,1
+Chema,\u00c1lex Alegr\u00eda,1
+To\u00f1o,Pedro L\u00f3pez,1
+Jos\u00e9 Luis Morales,Luna,1
+Chema,Campa\u00f1a,1
+Campa\u00f1a,Rober,1
+Luna,Rober,1
+Rober,Chema,1
+Luna,Jos\u00e9 Luis Morales,1
+Luna,Sergio Postigo,1
+Rober,\u00c1lex Alegr\u00eda,1
+Ra\u00fal Fern\u00e1ndez,To\u00f1o,1
+Sergio Postigo,Ra\u00fal Fern\u00e1ndez,1
+Pedro L\u00f3pez,Chema,1
+\u00c1lex Alegr\u00eda,Chema,1
+E. Bardhi,Sergio Postigo,1
+Chema,Luna,1
+To\u00f1o,E. Bardhi,1
+Rober,To\u00f1o,1
+Ra\u00fal Fern\u00e1ndez,\u00c1lex Alegr\u00eda,1
+Rober,Sergio Postigo,1
+To\u00f1o,\u00c1lex Alegr\u00eda,1
+Jos\u00e9 Luis Morales,\u00c1lex Alegr\u00eda,1
+\u00c1lex Alegr\u00eda,Jos\u00e9 Luis Morales,1
+To\u00f1o,Chema,1
+Luna,\u00c1lex Alegr\u00eda,1
+E. Bardhi,To\u00f1o,1
+To\u00f1o,Sergio Postigo,1

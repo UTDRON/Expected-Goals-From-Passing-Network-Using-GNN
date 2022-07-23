@@ -1,0 +1,93 @@
+Source,Target,Weight
+R. Rosales,Keko,10
+M. Iturra,R. Rosales,7
+Keko,R. Rosales,7
+F. Ricca,Y. En-Nesyri,7
+Adri\u00e1n,F. Ricca,6
+Y. En-Nesyri,Adri\u00e1n,6
+Luis Hern\u00e1ndez,R. Rosales,5
+F. Ricca,Chory Castro,5
+Roberto,Y. En-Nesyri,4
+R. Rosales,Luis Hern\u00e1ndez,4
+Adri\u00e1n,Keko,4
+Miquel,Chory Castro,4
+Keko,Adri\u00e1n,4
+Keko,M. Iturra,4
+Miquel,Luis Hern\u00e1ndez,4
+Chory Castro,F. Ricca,4
+R. Rosales,B. Ideye,4
+Adri\u00e1n,Luis Hern\u00e1ndez,4
+Luis Hern\u00e1ndez,Miquel,4
+B. Ideye,Chory Castro,3
+Luis Hern\u00e1ndez,F. Ricca,3
+F. Ricca,B. Ideye,3
+B. Ideye,Luis Hern\u00e1ndez,3
+M. Iturra,Luis Hern\u00e1ndez,3
+Y. En-Nesyri,B. Ideye,3
+Y. En-Nesyri,Chory Castro,3
+R. Rosales,Adri\u00e1n,3
+Keko,Miquel,3
+F. Ricca,Adri\u00e1n,3
+Miquel,F. Ricca,3
+Chory Castro,Y. En-Nesyri,3
+M. Iturra,Keko,3
+R. Rosales,M. Iturra,3
+Luis Hern\u00e1ndez,M. Iturra,3
+M. Iturra,Adri\u00e1n,3
+M. Iturra,Y. En-Nesyri,2
+Chory Castro,R. Rosales,2
+Miquel,M. Lacen,2
+Y. En-Nesyri,Miquel,2
+Keko,F. Ricca,2
+Y. En-Nesyri,M. Iturra,2
+B. Ideye,Keko,2
+Luis Hern\u00e1ndez,B. Ideye,2
+Adri\u00e1n,Y. En-Nesyri,2
+Miquel,Adri\u00e1n,2
+R. Rosales,Miquel,2
+Chory Castro,M. Lacen,2
+Adri\u00e1n,R. Rosales,2
+Adri\u00e1n,M. Iturra,2
+F. Ricca,R. Rosales,2
+Y. En-Nesyri,F. Ricca,2
+Y. En-Nesyri,Keko,2
+Luis Hern\u00e1ndez,Roberto,2
+R. Rosales,M. Lacen,2
+Keko,Y. En-Nesyri,2
+Chory Castro,M. Iturra,2
+Miquel,Y. En-Nesyri,2
+Chory Castro,Keko,2
+Adri\u00e1n,Chory Castro,2
+B. Ideye,M. Iturra,2
+Adri\u00e1n,Miquel,2
+Y. En-Nesyri,Luis Hern\u00e1ndez,1
+Miquel,M. Iturra,1
+Y. En-Nesyri,Roberto,1
+B. Ideye,Adri\u00e1n,1
+M. Lacen,B. Ideye,1
+Luis Hern\u00e1ndez,Keko,1
+F. Ricca,Roberto,1
+Chory Castro,Miquel,1
+F. Ricca,Luis Hern\u00e1ndez,1
+B. Ideye,F. Ricca,1
+M. Iturra,Miquel,1
+B. Ideye,Miquel,1
+M. Lacen,Adri\u00e1n,1
+M. Iturra,F. Ricca,1
+M. Lacen,R. Rosales,1
+M. Lacen,Miquel,1
+Adri\u00e1n,Roberto,1
+Y. En-Nesyri,R. Rosales,1
+Roberto,R. Rosales,1
+Roberto,Luis Hern\u00e1ndez,1
+M. Lacen,Keko,1
+M. Lacen,Y. En-Nesyri,1
+Chory Castro,Adri\u00e1n,1
+F. Ricca,Miquel,1
+Keko,Chory Castro,1
+Keko,M. Lacen,1
+Chory Castro,B. Ideye,1
+Keko,Roberto,1
+M. Lacen,F. Ricca,1
+Luis Hern\u00e1ndez,Adri\u00e1n,1
+B. Ideye,Y. En-Nesyri,1

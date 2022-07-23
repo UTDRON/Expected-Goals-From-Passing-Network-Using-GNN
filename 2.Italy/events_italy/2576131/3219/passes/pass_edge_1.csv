@@ -1,0 +1,81 @@
+Source,Target,Weight
+G. Letizia,L. Del Pinto,8
+L. Del Pinto,A. Costa,8
+L. Del Pinto,G. Letizia,7
+A. Costa,G. Letizia,6
+A. Costa,L. Del Pinto,6
+G. Pu\u015fca\u015f,L. Del Pinto,6
+B. Djimsiti,D. Cataldi,5
+G. Letizia,A. Costa,4
+F. Lucioni,B. Djimsiti,4
+G. Letizia,D. Cataldi,4
+D. Cataldi,B. Djimsiti,4
+B. Djimsiti,F. Lucioni,4
+V. Parigini,A. Ciciretti,4
+L. Del Pinto,G. Pu\u015fca\u015f,4
+D. Cataldi,F. Lucioni,4
+L. Del Pinto,F. Lucioni,3
+F. Lucioni,G. Letizia,3
+F. Lucioni,A. Costa,3
+D. Cataldi,L. Del Pinto,3
+L. Del Pinto,D. Cataldi,3
+A. Costa,G. Pu\u015fca\u015f,3
+C. Lombardi,V. Belec,3
+V. Belec,G. Pu\u015fca\u015f,3
+G. Letizia,V. Belec,3
+V. Belec,F. Lucioni,3
+G. Pu\u015fca\u015f,G. Letizia,3
+C. Lombardi,B. Djimsiti,3
+A. Costa,V. Parigini,3
+B. Djimsiti,C. Lombardi,3
+A. Costa,D. Cataldi,3
+F. Lucioni,L. Del Pinto,3
+D. Cataldi,A. Ciciretti,3
+A. Costa,F. Lucioni,3
+D. Cataldi,C. Lombardi,3
+G. Pu\u015fca\u015f,A. Ciciretti,2
+V. Belec,A. Costa,2
+V. Parigini,A. Costa,2
+F. Lucioni,V. Parigini,2
+A. Ciciretti,G. Pu\u015fca\u015f,2
+V. Parigini,L. Del Pinto,2
+G. Letizia,B. Djimsiti,2
+B. Djimsiti,V. Belec,2
+A. Ciciretti,B. Djimsiti,2
+G. Pu\u015fca\u015f,A. Costa,2
+A. Ciciretti,F. Lucioni,2
+A. Ciciretti,G. Letizia,2
+C. Lombardi,D. Cataldi,2
+F. Lucioni,C. Lombardi,2
+B. Djimsiti,L. Del Pinto,2
+L. Del Pinto,C. Lombardi,2
+F. Lucioni,D. Cataldi,2
+V. Parigini,G. Letizia,2
+V. Belec,G. Letizia,2
+A. Ciciretti,A. Costa,2
+G. Letizia,G. Pu\u015fca\u015f,2
+D. Cataldi,G. Letizia,1
+A. Ciciretti,D. Cataldi,1
+G. Pu\u015fca\u015f,V. Parigini,1
+L. Del Pinto,B. Djimsiti,1
+G. Letizia,V. Parigini,1
+G. Letizia,F. Lucioni,1
+V. Belec,B. Djimsiti,1
+G. Pu\u015fca\u015f,F. Lucioni,1
+G. Letizia,A. Ciciretti,1
+L. Del Pinto,V. Belec,1
+L. Del Pinto,A. Ciciretti,1
+L. Del Pinto,V. Parigini,1
+D. Cataldi,V. Parigini,1
+D. Cataldi,G. Pu\u015fca\u015f,1
+B. Djimsiti,V. Parigini,1
+F. Lucioni,V. Belec,1
+A. Ciciretti,V. Parigini,1
+D. Cataldi,V. Belec,1
+V. Parigini,B. Djimsiti,1
+B. Djimsiti,A. Costa,1
+G. Pu\u015fca\u015f,D. Cataldi,1
+A. Ciciretti,L. Del Pinto,1
+C. Lombardi,G. Pu\u015fca\u015f,1
+F. Lucioni,A. Ciciretti,1
+C. Lombardi,A. Ciciretti,1

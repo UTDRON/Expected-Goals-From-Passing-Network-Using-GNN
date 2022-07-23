@@ -1,0 +1,87 @@
+Source,Target,Weight
+Diego Rico,Gabriel,6
+Tito,Bustinza,6
+Rub\u00e9n P\u00e9rez,Tito,6
+Gabriel,Diego Rico,5
+Rub\u00e9n P\u00e9rez,C. Beauvue,5
+Tito,Rub\u00e9n P\u00e9rez,5
+Diego Rico,Ra\u00fal Garc\u00eda,5
+Ra\u00fal Garc\u00eda,Diego Rico,5
+C. Beauvue,Rub\u00e9n P\u00e9rez,5
+Diego Rico,Rub\u00e9n P\u00e9rez,4
+Bustinza,Cu\u00e9llar,4
+Bustinza,Ra\u00fal Garc\u00eda,4
+Diego Rico,A. Szymanowski,4
+Rub\u00e9n P\u00e9rez,Bustinza,4
+Rub\u00e9n P\u00e9rez,Diego Rico,4
+Eraso,Tito,4
+C. Beauvue,A. Szymanowski,4
+Cu\u00e9llar,Ra\u00fal Garc\u00eda,3
+A. Szymanowski,Diego Rico,3
+Eraso,Diego Rico,3
+Bustinza,Rub\u00e9n P\u00e9rez,3
+Gabriel,Eraso,3
+Gabriel,Rub\u00e9n P\u00e9rez,3
+Tito,Eraso,3
+A. Szymanowski,Rub\u00e9n P\u00e9rez,3
+Gabriel,Ra\u00fal Garc\u00eda,3
+C. Beauvue,Gabriel,3
+Rub\u00e9n P\u00e9rez,Gabriel,3
+Ra\u00fal Garc\u00eda,Bustinza,3
+Cu\u00e9llar,C. Beauvue,3
+Gabriel,A. Szymanowski,3
+Cu\u00e9llar,Gabriel,3
+Diego Rico,C. Beauvue,3
+N. El Zhar,Tito,3
+Gabriel,Cu\u00e9llar,3
+Diego Rico,Eraso,2
+A. Szymanowski,Gabriel,2
+Eraso,Gabriel,2
+N. El Zhar,Eraso,2
+Eraso,Rub\u00e9n P\u00e9rez,2
+Ra\u00fal Garc\u00eda,Gabriel,2
+Ra\u00fal Garc\u00eda,A. Szymanowski,2
+Rub\u00e9n P\u00e9rez,Ra\u00fal Garc\u00eda,2
+Ra\u00fal Garc\u00eda,Cu\u00e9llar,2
+Gabriel,N. El Zhar,2
+C. Beauvue,Bustinza,2
+Tito,C. Beauvue,2
+Bustinza,Eraso,2
+C. Beauvue,Cu\u00e9llar,2
+Eraso,C. Beauvue,2
+C. Beauvue,Diego Rico,2
+A. Szymanowski,C. Beauvue,2
+Ra\u00fal Garc\u00eda,Rub\u00e9n P\u00e9rez,2
+Bustinza,Gabriel,2
+A. Szymanowski,Eraso,2
+Bustinza,C. Beauvue,2
+A. Szymanowski,Tito,2
+Cu\u00e9llar,Diego Rico,2
+Cu\u00e9llar,Bustinza,1
+C. Beauvue,Eraso,1
+Eraso,A. Szymanowski,1
+Tito,A. Szymanowski,1
+Cu\u00e9llar,Tito,1
+Gabriel,Tito,1
+C. Beauvue,Ra\u00fal Garc\u00eda,1
+Diego Rico,Cu\u00e9llar,1
+Bustinza,N. El Zhar,1
+Gabriel,C. Beauvue,1
+Ra\u00fal Garc\u00eda,C. Beauvue,1
+N. El Zhar,Gabriel,1
+Bustinza,Diego Rico,1
+Ra\u00fal Garc\u00eda,Tito,1
+Rub\u00e9n P\u00e9rez,A. Szymanowski,1
+Tito,Diego Rico,1
+Rub\u00e9n P\u00e9rez,Eraso,1
+Diego Rico,Tito,1
+N. El Zhar,Bustinza,1
+Eraso,N. El Zhar,1
+Tito,Gabriel,1
+Eraso,Bustinza,1
+A. Szymanowski,Bustinza,1
+N. El Zhar,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,N. El Zhar,1
+Rub\u00e9n P\u00e9rez,N. El Zhar,1
+C. Beauvue,N. El Zhar,1
+A. Szymanowski,Cu\u00e9llar,1

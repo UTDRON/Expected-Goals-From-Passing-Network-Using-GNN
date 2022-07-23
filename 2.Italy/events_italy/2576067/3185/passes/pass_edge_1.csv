@@ -1,0 +1,60 @@
+Source,Target,Weight
+S. Sirigu,E. Moretti,5
+E. Moretti,S. Sirigu,4
+A. Ljaji\u0107,C. Ansaldi,4
+C. Ansaldi,A. Ljaji\u0107,4
+L. De Silvestri,M. Valdifiori,3
+E. Moretti,C. Ansaldi,3
+A. Acquah,L. De Silvestri,3
+N. N'Koulou,L. De Silvestri,3
+D. Baselli,C. Ansaldi,3
+A. Ljaji\u0107,D. Baselli,2
+Iago Falqu\u00e9,C. Ansaldi,2
+C. Ansaldi,N. N'Koulou,2
+E. Moretti,L. De Silvestri,2
+C. Ansaldi,S. Sirigu,2
+N. N'Koulou,S. Sirigu,2
+M. Valdifiori,D. Baselli,2
+C. Ansaldi,E. Moretti,2
+L. De Silvestri,A. Acquah,2
+S. Sirigu,C. Ansaldi,2
+M. Valdifiori,E. Moretti,2
+S. Sirigu,N. N'Koulou,2
+L. De Silvestri,S. Sirigu,2
+D. Baselli,A. Ljaji\u0107,2
+A. Belotti,Iago Falqu\u00e9,2
+D. Baselli,E. Moretti,1
+M. Valdifiori,A. Acquah,1
+D. Baselli,S. Sirigu,1
+A. Acquah,D. Baselli,1
+N. N'Koulou,M. Valdifiori,1
+S. Sirigu,D. Baselli,1
+C. Ansaldi,Iago Falqu\u00e9,1
+C. Ansaldi,L. De Silvestri,1
+E. Moretti,D. Baselli,1
+A. Acquah,M. Valdifiori,1
+A. Ljaji\u0107,M. Valdifiori,1
+Iago Falqu\u00e9,L. De Silvestri,1
+M. Valdifiori,N. N'Koulou,1
+M. Valdifiori,A. Ljaji\u0107,1
+C. Ansaldi,A. Belotti,1
+D. Baselli,M. Valdifiori,1
+S. Sirigu,M. Valdifiori,1
+Iago Falqu\u00e9,A. Acquah,1
+L. De Silvestri,E. Moretti,1
+A. Ljaji\u0107,A. Acquah,1
+E. Moretti,A. Acquah,1
+A. Acquah,Iago Falqu\u00e9,1
+Iago Falqu\u00e9,A. Ljaji\u0107,1
+A. Belotti,C. Ansaldi,1
+N. N'Koulou,D. Baselli,1
+C. Ansaldi,M. Valdifiori,1
+M. Valdifiori,C. Ansaldi,1
+M. Valdifiori,A. Belotti,1
+D. Baselli,A. Acquah,1
+E. Moretti,N. N'Koulou,1
+M. Valdifiori,Iago Falqu\u00e9,1
+C. Ansaldi,D. Baselli,1
+L. De Silvestri,N. N'Koulou,1
+A. Acquah,E. Moretti,1
+L. De Silvestri,A. Belotti,1

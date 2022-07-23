@@ -1,0 +1,42 @@
+Source,Target,Weight
+Barrag\u00e1n,Joaqu\u00edn,4
+Joaqu\u00edn,A. Guardado,4
+A. Guardado,A. Mandi,3
+Joaqu\u00edn,Barrag\u00e1n,3
+Barrag\u00e1n,A. Guardado,3
+A. Mandi,Barrag\u00e1n,3
+A. Guardado,Joaqu\u00edn,3
+Z. Feddal,V\u00edctor Camarasa,2
+R. Durmisi,Cristian Tello,2
+A. Guardado,R. Durmisi,2
+V\u00edctor Camarasa,R. Durmisi,2
+Cristian Tello,Z. Feddal,2
+R. Durmisi,A. Guardado,2
+A. Guardado,Barrag\u00e1n,2
+V\u00edctor Camarasa,A. Mandi,2
+J. Narv\u00e1ez,A. Sanabria,1
+Joaqu\u00edn,Sergio Le\u00f3n,1
+Barrag\u00e1n,V\u00edctor Camarasa,1
+Fabi\u00e1n,Joaqu\u00edn,1
+Sergio Le\u00f3n,J. Narv\u00e1ez,1
+Sergio Le\u00f3n,Cristian Tello,1
+J. Narv\u00e1ez,Z. Feddal,1
+Z. Feddal,R. Durmisi,1
+Cristian Tello,R. Durmisi,1
+Z. Feddal,Barrag\u00e1n,1
+A. Sanabria,J. Narv\u00e1ez,1
+R. Durmisi,V\u00edctor Camarasa,1
+Z. Feddal,A. Sanabria,1
+A. Mandi,A. Guardado,1
+J. Narv\u00e1ez,A. Mandi,1
+V\u00edctor Camarasa,Z. Feddal,1
+R. Durmisi,J. Narv\u00e1ez,1
+Barrag\u00e1n,J. Narv\u00e1ez,1
+V\u00edctor Camarasa,Barrag\u00e1n,1
+A. Guardado,Fabi\u00e1n,1
+Barrag\u00e1n,Z. Feddal,1
+J. Narv\u00e1ez,A. Guardado,1
+A. Mandi,V\u00edctor Camarasa,1
+A. Mandi,Z. Feddal,1
+Z. Feddal,Cristian Tello,1
+Cristian Tello,V\u00edctor Camarasa,1

@@ -1,0 +1,18 @@
+Source,Target,Weight
+P. Hetemaj,F. Cacciatore,2
+M. Pucciarelli,F. Cacciatore,2
+F. Depaoli,R. Inglese,2
+M. Bani,F. Depaoli,1
+N. Tomovi\u0107,L. Castro,1
+L. Castro,P. Hetemaj,1
+R. Inglese,L. Castro,1
+F. Cacciatore,P. Hetemaj,1
+N. Rigoni,R. Inglese,1
+R. Inglese,F. Depaoli,1
+F. Cacciatore,N. Tomovi\u0107,1
+F. Cacciatore,M. Pucciarelli,1
+L. Castro,M. Bani,1
+M. Pucciarelli,I. Radovanovi\u0107,1
+N. Tomovi\u0107,M. Pucciarelli,1
+I. Radovanovi\u0107,M. Pucciarelli,1
+F. Cacciatore,N. Rigoni,1

@@ -1,0 +1,25 @@
+Source,Target,Weight
+L. Antei,B. Djimsiti,2
+D. Cataldi,G. Letizia,2
+B. Djimsiti,R. Chibsah,2
+D. Cataldi,R. Chibsah,2
+B. Djimsiti,L. Antei,2
+R. Chibsah,L. Antei,2
+R. Chibsah,B. Djimsiti,2
+R. Chibsah,D. Cataldi,2
+G. Letizia,D. Cataldi,2
+N. Viola,R. Chibsah,1
+P. Iemmello,D. Cataldi,1
+A. Brignoli,B. Djimsiti,1
+B. Djimsiti,G. Di Chiara,1
+L. Antei,G. Letizia,1
+G. Di Chiara,B. Djimsiti,1
+A. Brignoli,P. Iemmello,1
+D. Cataldi,N. Viola,1
+G. Letizia,R. Chibsah,1
+L. Antei,R. Chibsah,1
+G. Letizia,L. Antei,1
+R. Chibsah,N. Viola,1
+L. Antei,A. Brignoli,1
+B. Djimsiti,A. Brignoli,1
+N. Viola,D. Cataldi,1

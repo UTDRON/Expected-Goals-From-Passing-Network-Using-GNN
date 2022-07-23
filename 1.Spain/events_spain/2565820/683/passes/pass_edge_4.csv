@@ -1,0 +1,71 @@
+Source,Target,Weight
+Roberto,Y. En-Nesyri,6
+D. Rol\u00e1n,F. Ricca,5
+D. Rol\u00e1n,M. Lacen,5
+F. Ricca,D. Rol\u00e1n,5
+M. Lacen,D. Rol\u00e1n,5
+Chory Castro,R. Rosales,5
+Y. En-Nesyri,F. Ricca,4
+R. Rosales,Y. En-Nesyri,4
+Y. En-Nesyri,R. Rosales,3
+Miquel,F. Ricca,3
+M. Lacen,R. Rosales,3
+R. Rosales,M. Iturra,3
+R. Rosales,Chory Castro,3
+Chory Castro,M. Lacen,3
+Chory Castro,M. Iturra,3
+R. Rosales,M. Lacen,3
+F. Ricca,Chory Castro,3
+Y. En-Nesyri,M. Lacen,3
+R. Rosales,Luis Hern\u00e1ndez,3
+F. Ricca,R. Rosales,3
+M. Iturra,R. Rosales,3
+Miquel,Roberto,2
+M. Iturra,Chory Castro,2
+Chory Castro,Luis Hern\u00e1ndez,2
+Y. En-Nesyri,Chory Castro,2
+R. Rosales,Miquel,2
+Roberto,Luis Hern\u00e1ndez,2
+D. Rol\u00e1n,Y. En-Nesyri,2
+Luis Hern\u00e1ndez,Miquel,2
+M. Iturra,Luis Hern\u00e1ndez,2
+F. Ricca,M. Lacen,2
+M. Lacen,Chory Castro,2
+M. Lacen,F. Ricca,2
+M. Lacen,Roberto,2
+Y. En-Nesyri,D. Rol\u00e1n,2
+Luis Hern\u00e1ndez,R. Rosales,2
+D. Rol\u00e1n,Roberto,2
+M. Lacen,Miquel,2
+F. Ricca,Y. En-Nesyri,1
+M. Lacen,M. Iturra,1
+R. Rosales,Roberto,1
+Chory Castro,Roberto,1
+Miquel,D. Rol\u00e1n,1
+Roberto,M. Iturra,1
+R. Rosales,D. Rol\u00e1n,1
+M. Lestienne,R. Rosales,1
+M. Lestienne,M. Lacen,1
+Luis Hern\u00e1ndez,Roberto,1
+Luis Hern\u00e1ndez,M. Lacen,1
+F. Ricca,Roberto,1
+F. Ricca,Miquel,1
+M. Lacen,Y. En-Nesyri,1
+Luis Hern\u00e1ndez,D. Rol\u00e1n,1
+Y. En-Nesyri,Roberto,1
+Y. En-Nesyri,Luis Hern\u00e1ndez,1
+M. Iturra,M. Lacen,1
+M. Lacen,Luis Hern\u00e1ndez,1
+Chory Castro,F. Ricca,1
+Luis Hern\u00e1ndez,Y. En-Nesyri,1
+D. Rol\u00e1n,Chory Castro,1
+R. Rosales,M. Lestienne,1
+Luis Hern\u00e1ndez,Chory Castro,1
+Luis Hern\u00e1ndez,M. Iturra,1
+Roberto,Chory Castro,1
+Luis Hern\u00e1ndez,M. Lestienne,1
+Miquel,Y. En-Nesyri,1
+M. Iturra,M. Lestienne,1
+Roberto,R. Rosales,1
+M. Iturra,D. Rol\u00e1n,1
+M. Lestienne,M. Iturra,1

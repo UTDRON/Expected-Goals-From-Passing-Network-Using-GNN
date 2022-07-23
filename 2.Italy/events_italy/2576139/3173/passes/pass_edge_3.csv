@@ -1,0 +1,89 @@
+Source,Target,Weight
+L. Pavoletti,A. Ioni\u0163\u0103,7
+P. Farag\u00f2,L. Cigarini,7
+L. Ceppitelli,P. Farag\u00f2,6
+P. Farag\u00f2,L. Pavoletti,6
+L. Cigarini,L. Pavoletti,6
+L. Cigarini,L. Ceppitelli,6
+L. Pavoletti,L. Cigarini,5
+M. Andreolli,L. Ceppitelli,5
+L. Pavoletti,L. Ceppitelli,4
+S. Padoin,Diego Farias,4
+M. Andreolli,F. Romagna,4
+L. Pavoletti,P. Farag\u00f2,4
+Diego Farias,L. Cigarini,4
+Rafael,P. Farag\u00f2,4
+P. Farag\u00f2,A. Ioni\u0163\u0103,4
+F. Romagna,M. Andreolli,3
+Diego Farias,P. Farag\u00f2,3
+F. Romagna,Rafael,3
+P. Farag\u00f2,L. Ceppitelli,3
+Rafael,A. Ioni\u0163\u0103,3
+Diego Farias,L. Pavoletti,3
+A. Ioni\u0163\u0103,P. Farag\u00f2,3
+M. Andreolli,Rafael,3
+A. Ioni\u0163\u0103,L. Cigarini,3
+L. Ceppitelli,L. Pavoletti,3
+A. Ioni\u0163\u0103,F. Romagna,3
+P. Farag\u00f2,Diego Farias,2
+L. Ceppitelli,L. Cigarini,2
+M. Andreolli,S. Padoin,2
+L. Ceppitelli,M. Andreolli,2
+L. Ceppitelli,F. Pisacane,2
+L. Pavoletti,M. Andreolli,2
+F. Romagna,P. Farag\u00f2,2
+L. Cigarini,P. Farag\u00f2,2
+F. Romagna,L. Pavoletti,2
+Rafael,M. Andreolli,2
+L. Cigarini,F. Romagna,2
+S. Padoin,L. Ceppitelli,2
+F. Romagna,S. Padoin,2
+A. Ioni\u0163\u0103,L. Pavoletti,2
+A. Ioni\u0163\u0103,M. Andreolli,2
+L. Ceppitelli,A. Ioni\u0163\u0103,2
+L. Cigarini,S. Miangue,2
+L. Pavoletti,S. Padoin,2
+L. Ceppitelli,S. Padoin,2
+P. Farag\u00f2,M. Andreolli,2
+L. Ceppitelli,Diego Farias,2
+M. Andreolli,L. Cigarini,2
+S. Miangue,L. Pavoletti,2
+L. Pavoletti,Diego Farias,2
+Diego Farias,F. Romagna,1
+Diego Farias,M. Andreolli,1
+F. Romagna,Diego Farias,1
+S. Padoin,L. Pavoletti,1
+L. Cigarini,A. Ioni\u0163\u0103,1
+S. Miangue,L. Ceppitelli,1
+P. Farag\u00f2,Rafael,1
+S. Padoin,M. Andreolli,1
+L. Cigarini,Rafael,1
+Rafael,L. Pavoletti,1
+A. Ioni\u0163\u0103,S. Miangue,1
+A. Ioni\u0163\u0103,Rafael,1
+Diego Farias,S. Miangue,1
+L. Ceppitelli,S. Miangue,1
+L. Cigarini,M. Andreolli,1
+Rafael,F. Romagna,1
+F. Romagna,L. Ceppitelli,1
+L. Pavoletti,Rafael,1
+A. Ioni\u0163\u0103,Diego Farias,1
+A. Ioni\u0163\u0103,L. Ceppitelli,1
+S. Miangue,M. Andreolli,1
+Diego Farias,S. Padoin,1
+Diego Farias,Rafael,1
+P. Farag\u00f2,F. Romagna,1
+L. Cigarini,Diego Farias,1
+L. Pavoletti,F. Romagna,1
+M. Andreolli,P. Farag\u00f2,1
+F. Romagna,S. Miangue,1
+F. Pisacane,Diego Farias,1
+S. Padoin,P. Farag\u00f2,1
+L. Ceppitelli,F. Romagna,1
+Rafael,F. Pisacane,1
+L. Cigarini,S. Padoin,1
+S. Miangue,Rafael,1
+S. Miangue,F. Romagna,1
+S. Miangue,Diego Farias,1
+F. Pisacane,L. Pavoletti,1
+F. Pisacane,S. Miangue,1

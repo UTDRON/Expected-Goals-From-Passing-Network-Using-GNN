@@ -1,0 +1,40 @@
+Source,Target,Weight
+To\u00f1o,J. Lerma,4
+J. Lerma,To\u00f1o,4
+E. Bardhi,J. Lerma,3
+J. Lerma,Chema,3
+J. Lerma,Campa\u00f1a,3
+Jos\u00e9 Luis Morales,Jason,3
+Campa\u00f1a,J. Lerma,3
+Jason,Jos\u00e9 Luis Morales,2
+J. Lerma,Jos\u00e9 Luis Morales,2
+Jos\u00e9 Luis Morales,E. Bardhi,2
+Campa\u00f1a,Jos\u00e9 Luis Morales,2
+Chema,J. Lerma,2
+To\u00f1o,Ivi,2
+Chema,Sergio Postigo,2
+Chema,To\u00f1o,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+\u00c1lex Alegr\u00eda,Sergio Postigo,1
+Chema,E. Bardhi,1
+Campa\u00f1a,Jason,1
+Jason,Campa\u00f1a,1
+Sergio Postigo,Chema,1
+Jos\u00e9 Luis Morales,To\u00f1o,1
+Sergio Postigo,To\u00f1o,1
+To\u00f1o,\u00c1lex Alegr\u00eda,1
+J. Lerma,Ivi,1
+J. Lerma,E. Bardhi,1
+Ivi,Chema,1
+Sergio Postigo,E. Bardhi,1
+Ivi,E. Boateng,1
+To\u00f1o,Campa\u00f1a,1
+E. Boateng,Jos\u00e9 Luis Morales,1
+E. Bardhi,Sergio Postigo,1
+Ivi,To\u00f1o,1
+E. Bardhi,Jos\u00e9 Luis Morales,1
+Sergio Postigo,J. Lerma,1
+Campa\u00f1a,To\u00f1o,1
+Jos\u00e9 Luis Morales,E. Boateng,1
+To\u00f1o,Chema,1
+E. Boateng,Campa\u00f1a,1

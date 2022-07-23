@@ -1,0 +1,60 @@
+Source,Target,Weight
+R\u00f4mulo,D. Verde,4
+M. Zaccagni,M. Valoti,3
+M. Valoti,M. Zaccagni,2
+D. Verde,A. Caracciolo,2
+A. Caracciolo,M. Fares,2
+D. Verde,R\u00f4mulo,2
+Nicolas,M. Valoti,2
+M. Fares,R\u00f4mulo,2
+D. Verde,M. Fares,2
+M. Valoti,A. Caracciolo,2
+M. Valoti,M. Fossati,2
+Nicolas,T. Heurtaux,2
+T. Heurtaux,S. Souprayen,2
+M. Fossati,S. Souprayen,2
+M. Valoti,D. Verde,2
+S. Souprayen,M. Valoti,2
+M. Valoti,Nicolas,1
+D. Verde,S. Souprayen,1
+M. Fares,Nicolas,1
+Nicolas,B. Zuculini,1
+M. Fares,D. Verde,1
+R\u00f4mulo,S. Souprayen,1
+M. Fossati,A. Caracciolo,1
+M. Fossati,T. Heurtaux,1
+T. Heurtaux,M. Fossati,1
+A. Caracciolo,D. Verde,1
+D. Verde,M. Zaccagni,1
+D. Verde,Nicolas,1
+B. Zuculini,M. Valoti,1
+M. Zaccagni,A. Caracciolo,1
+S. Souprayen,M. Zaccagni,1
+M. Fares,M. Fossati,1
+B. Zuculini,R\u00f4mulo,1
+M. Fares,T. Heurtaux,1
+R\u00f4mulo,B. Zuculini,1
+A. Caracciolo,G. Pazzini,1
+S. Souprayen,M. Fares,1
+M. Valoti,S. Souprayen,1
+T. Heurtaux,M. Fares,1
+M. Fares,M. Valoti,1
+G. Pazzini,Nicolas,1
+M. Zaccagni,M. Fossati,1
+R\u00f4mulo,M. Zaccagni,1
+T. Heurtaux,R\u00f4mulo,1
+R\u00f4mulo,M. Fares,1
+S. Souprayen,R\u00f4mulo,1
+S. Souprayen,T. Heurtaux,1
+Nicolas,A. Caracciolo,1
+M. Fossati,D. Verde,1
+M. Zaccagni,Nicolas,1
+A. Caracciolo,R\u00f4mulo,1
+D. Verde,M. Valoti,1
+R\u00f4mulo,Nicolas,1
+M. Valoti,R\u00f4mulo,1
+Nicolas,M. Zaccagni,1
+M. Fossati,R\u00f4mulo,1
+R\u00f4mulo,M. Fossati,1
+S. Souprayen,D. Verde,1
+A. Caracciolo,Nicolas,1

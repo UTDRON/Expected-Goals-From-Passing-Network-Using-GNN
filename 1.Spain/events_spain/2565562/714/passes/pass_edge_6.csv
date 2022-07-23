@@ -1,0 +1,78 @@
+Source,Target,Weight
+M. Lemos,Bigas,6
+Bigas,M. Lemos,5
+Dani Castellano,Momo,5
+Dani Castellano,Bigas,4
+Tana,David Sim\u00f3n,4
+Hern\u00e1n,Jonathan Viera,4
+Momo,Bigas,4
+J. Calleri,David Sim\u00f3n,4
+Bigas,L. Chichizola,3
+David Sim\u00f3n,Jonathan Viera,3
+Jonathan Viera,Bigas,3
+S. Ara\u00fajo,J. Calleri,3
+Jonathan Viera,M. Lemos,3
+David Sim\u00f3n,M. Lemos,3
+Bigas,J. Calleri,3
+Jonathan Viera,Tana,3
+Jonathan Viera,Dani Castellano,3
+S. Ara\u00fajo,Tana,3
+Momo,Hern\u00e1n,3
+Tana,S. Ara\u00fajo,3
+Bigas,Momo,3
+Bigas,Hern\u00e1n,3
+Hern\u00e1n,S. Ara\u00fajo,2
+David Sim\u00f3n,J. Calleri,2
+Javi Castellano,Tana,2
+Hern\u00e1n,M. Lemos,2
+M. Lemos,Hern\u00e1n,2
+David Sim\u00f3n,Hern\u00e1n,2
+Tana,Jonathan Viera,2
+Tana,Hern\u00e1n,2
+Jonathan Viera,David Sim\u00f3n,2
+J. Calleri,Dani Castellano,2
+Momo,Dani Castellano,2
+M. Lemos,Jonathan Viera,2
+Momo,Jonathan Viera,2
+J. Calleri,S. Ara\u00fajo,2
+Hern\u00e1n,Dani Castellano,2
+S. Ara\u00fajo,Jonathan Viera,2
+David Sim\u00f3n,Tana,2
+Jonathan Viera,Javi Castellano,1
+Jonathan Viera,S. Ara\u00fajo,1
+Dani Castellano,Jonathan Viera,1
+Hern\u00e1n,Bigas,1
+L. Chichizola,Dani Castellano,1
+Jonathan Viera,Momo,1
+Momo,Tana,1
+Fabio Gonz\u00e1lez,J. Calleri,1
+L. Chichizola,M. Lemos,1
+Tana,Momo,1
+Tana,J. Calleri,1
+M. Lemos,Momo,1
+Tana,Dani Castellano,1
+Bigas,David Sim\u00f3n,1
+J. Calleri,Bigas,1
+Hern\u00e1n,Tana,1
+Dani Castellano,Tana,1
+Hern\u00e1n,David Sim\u00f3n,1
+M. Lemos,Javi Castellano,1
+M. Lemos,Fabio Gonz\u00e1lez,1
+Dani Castellano,M. Lemos,1
+J. Calleri,Jonathan Viera,1
+David Sim\u00f3n,S. Ara\u00fajo,1
+Hern\u00e1n,L. Chichizola,1
+S. Ara\u00fajo,Momo,1
+Bigas,Jonathan Viera,1
+Hern\u00e1n,J. Calleri,1
+Momo,David Sim\u00f3n,1
+L. Chichizola,S. Ara\u00fajo,1
+Jonathan Viera,Hern\u00e1n,1
+M. Lemos,David Sim\u00f3n,1
+Hern\u00e1n,Momo,1
+Bigas,Dani Castellano,1
+Dani Castellano,Hern\u00e1n,1
+David Sim\u00f3n,Bigas,1
+L. Chichizola,Hern\u00e1n,1
+J. Calleri,Hern\u00e1n,1
+M. Lemos,Tana,1

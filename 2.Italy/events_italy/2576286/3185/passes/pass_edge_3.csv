@@ -1,0 +1,85 @@
+Source,Target,Weight
+L. De Silvestri,Iago Falqu\u00e9,5
+D. Baselli,Iago Falqu\u00e9,5
+C. Ansaldi,A. Ljaji\u0107,5
+A. Ljaji\u0107,Iago Falqu\u00e9,5
+E. Moretti,C. Ansaldi,5
+A. Ljaji\u0107,C. Ansaldi,4
+D. Baselli,N. N'Koulou,4
+C. Ansaldi,E. Moretti,4
+D. Baselli,N. Burdisso,4
+N. N'Koulou,Iago Falqu\u00e9,4
+S. Sirigu,E. Moretti,4
+D. Baselli,T. Rinc\u00f3n,3
+E. Moretti,T. Rinc\u00f3n,3
+N. Burdisso,A. Ljaji\u0107,3
+N. Burdisso,D. Baselli,3
+N. N'Koulou,N. Burdisso,3
+Iago Falqu\u00e9,T. Rinc\u00f3n,3
+A. Ljaji\u0107,D. Baselli,3
+S. Sirigu,L. De Silvestri,3
+A. Ljaji\u0107,L. De Silvestri,3
+D. Baselli,A. Ljaji\u0107,3
+T. Rinc\u00f3n,E. Moretti,3
+Iago Falqu\u00e9,N. Burdisso,3
+Iago Falqu\u00e9,A. Ljaji\u0107,3
+L. De Silvestri,D. Baselli,3
+T. Rinc\u00f3n,D. Baselli,3
+N. N'Koulou,L. De Silvestri,3
+N. N'Koulou,D. Baselli,3
+N. Burdisso,N. N'Koulou,3
+S. Sirigu,N. N'Koulou,3
+N. Burdisso,C. Ansaldi,3
+A. Ljaji\u0107,T. Rinc\u00f3n,2
+C. Ansaldi,N. Burdisso,2
+C. Ansaldi,A. Belotti,2
+E. Moretti,S. Sirigu,2
+A. Belotti,C. Ansaldi,2
+Iago Falqu\u00e9,N. N'Koulou,2
+C. Ansaldi,J. Obi,2
+L. De Silvestri,A. Belotti,2
+E. Moretti,N. Burdisso,2
+N. Burdisso,S. Sirigu,2
+A. Belotti,N. Burdisso,2
+T. Rinc\u00f3n,N. N'Koulou,2
+D. Baselli,L. De Silvestri,2
+Iago Falqu\u00e9,J. Obi,2
+Iago Falqu\u00e9,L. De Silvestri,2
+N. Burdisso,L. De Silvestri,2
+L. De Silvestri,N. Burdisso,2
+T. Rinc\u00f3n,A. Belotti,2
+E. Moretti,D. Baselli,2
+Iago Falqu\u00e9,S. Sirigu,2
+N. Burdisso,T. Rinc\u00f3n,2
+T. Rinc\u00f3n,C. Ansaldi,2
+L. De Silvestri,C. Ansaldi,2
+N. N'Koulou,A. Ljaji\u0107,2
+Iago Falqu\u00e9,D. Baselli,2
+C. Ansaldi,L. De Silvestri,2
+N. N'Koulou,S. Sirigu,2
+L. De Silvestri,N. N'Koulou,2
+T. Rinc\u00f3n,A. Ljaji\u0107,2
+Iago Falqu\u00e9,A. Belotti,2
+A. Belotti,T. Rinc\u00f3n,1
+J. Obi,D. Baselli,1
+J. Obi,A. Belotti,1
+A. Ljaji\u0107,A. Belotti,1
+A. Belotti,N. N'Koulou,1
+L. De Silvestri,S. Sirigu,1
+C. Ansaldi,N. N'Koulou,1
+S. Sirigu,N. Burdisso,1
+T. Rinc\u00f3n,Iago Falqu\u00e9,1
+J. Obi,A. Ljaji\u0107,1
+N. N'Koulou,A. Belotti,1
+A. Ljaji\u0107,E. Moretti,1
+J. Obi,C. Ansaldi,1
+A. Belotti,A. Ljaji\u0107,1
+A. Ljaji\u0107,N. N'Koulou,1
+N. Burdisso,E. Moretti,1
+C. Ansaldi,S. Sirigu,1
+A. Belotti,E. Moretti,1
+J. Obi,S. Sirigu,1
+A. Belotti,Iago Falqu\u00e9,1
+N. N'Koulou,C. Ansaldi,1
+A. Belotti,J. Obi,1
+C. Ansaldi,T. Rinc\u00f3n,1

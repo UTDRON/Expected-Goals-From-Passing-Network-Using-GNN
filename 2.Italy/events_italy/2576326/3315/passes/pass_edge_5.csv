@@ -1,0 +1,34 @@
+Source,Target,Weight
+F. Magnanelli,M. Lemos,3
+F. Magnanelli,M. Politano,2
+F. Magnanelli,S. Missiroli,2
+S. Missiroli,F. Magnanelli,2
+D. Berardi,F. Magnanelli,2
+M. Politano,D. Berardi,2
+M. Lemos,Rog\u00e9rio,1
+Rog\u00e9rio,F. Magnanelli,1
+A. Consigli,S. Missiroli,1
+M. Politano,S. Missiroli,1
+A. Consigli,Rog\u00e9rio,1
+S. Missiroli,M. Lemos,1
+F. Magnanelli,F. Acerbi,1
+M. Lemos,A. Consigli,1
+Rog\u00e9rio,M. Lemos,1
+M. Lemos,S. Missiroli,1
+A. Duncan,F. Magnanelli,1
+M. Politano,F. Magnanelli,1
+S. Missiroli,D. Berardi,1
+C. Dell'Orco,A. Duncan,1
+M. Lemos,C. Adjapong,1
+D. Berardi,C. Dell'Orco,1
+A. Duncan,Rog\u00e9rio,1
+Rog\u00e9rio,A. Consigli,1
+S. Missiroli,M. Politano,1
+M. Politano,F. Acerbi,1
+C. Adjapong,M. Lemos,1
+M. Lemos,A. Duncan,1
+F. Acerbi,F. Magnanelli,1
+M. Lemos,F. Magnanelli,1
+F. Magnanelli,Rog\u00e9rio,1
+F. Acerbi,M. Politano,1
+Rog\u00e9rio,M. Politano,1

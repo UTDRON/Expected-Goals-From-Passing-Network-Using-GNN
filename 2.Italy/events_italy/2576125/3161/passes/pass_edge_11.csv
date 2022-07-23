@@ -1,0 +1,23 @@
+Source,Target,Weight
+M. Brozovi\u0107,I. Peri\u0161i\u0107,5
+Borja Valero,M. Brozovi\u0107,4
+M. Brozovi\u0107,Borja Valero,3
+I. Peri\u0161i\u0107,M. Brozovi\u0107,3
+D. D'Ambrosio,A. Candreva,2
+M. Vecino,D. Santon,2
+A. Candreva,Borja Valero,2
+D. Santon,M. Vecino,2
+A. Candreva,D. D'Ambrosio,2
+M. Vecino,Borja Valero,2
+Borja Valero,M. Vecino,2
+I. Peri\u0161i\u0107,Borja Valero,1
+D. Santon,Borja Valero,1
+D. Santon,A. Candreva,1
+M. Brozovi\u0107,D. D'Ambrosio,1
+I. Peri\u0161i\u0107,M. Vecino,1
+Borja Valero,A. Candreva,1
+M. Vecino,A. Candreva,1
+A. Candreva,M. Vecino,1
+Borja Valero,D. Santon,1
+D. D'Ambrosio,D. Santon,1
+M. Vecino,M. Brozovi\u0107,1

@@ -1,0 +1,59 @@
+Source,Target,Weight
+Omar Ramos,Diego Rico,4
+Rub\u00e9n P\u00e9rez,M. Dos Santos,3
+Eraso,Omar Ramos,3
+Omar Ramos,Rub\u00e9n P\u00e9rez,3
+N. El Zhar,Rub\u00e9n P\u00e9rez,3
+Diego Rico,Omar Ramos,3
+Diego Rico,Gabriel,2
+Rub\u00e9n P\u00e9rez,Diego Rico,2
+Rub\u00e9n P\u00e9rez,N. El Zhar,2
+Zald\u00faa,Gabriel,2
+Diego Rico,Eraso,2
+Rub\u00e9n P\u00e9rez,Omar Ramos,2
+Gabriel,Diego Rico,2
+Diego Rico,Cu\u00e9llar,2
+Zald\u00faa,Rub\u00e9n P\u00e9rez,2
+E. Mu\u00f1oz,Rub\u00e9n P\u00e9rez,2
+M. Dos Santos,Cu\u00e9llar,2
+M. Dos Santos,Zald\u00faa,2
+E. Mu\u00f1oz,Cu\u00e9llar,2
+Cu\u00e9llar,Zald\u00faa,2
+Zald\u00faa,N. El Zhar,2
+Eraso,E. Mu\u00f1oz,2
+Omar Ramos,Cu\u00e9llar,2
+Rub\u00e9n P\u00e9rez,Zald\u00faa,2
+Cu\u00e9llar,Omar Ramos,2
+Cu\u00e9llar,Diego Rico,2
+M. Dos Santos,N. El Zhar,1
+Gabriel,Rub\u00e9n P\u00e9rez,1
+Gabriel,Omar Ramos,1
+Eraso,Cu\u00e9llar,1
+Omar Ramos,Zald\u00faa,1
+Zald\u00faa,Diego Rico,1
+Cu\u00e9llar,C. Beauvue,1
+Cu\u00e9llar,Gabriel,1
+Zald\u00faa,Cu\u00e9llar,1
+Zald\u00faa,Omar Ramos,1
+Cu\u00e9llar,Rub\u00e9n P\u00e9rez,1
+Zald\u00faa,E. Mu\u00f1oz,1
+C. Beauvue,Eraso,1
+Diego Rico,E. Mu\u00f1oz,1
+N. El Zhar,C. Beauvue,1
+C. Beauvue,Zald\u00faa,1
+E. Mu\u00f1oz,Gabriel,1
+Omar Ramos,Eraso,1
+Rub\u00e9n P\u00e9rez,Eraso,1
+Gabriel,C. Beauvue,1
+Rub\u00e9n P\u00e9rez,E. Mu\u00f1oz,1
+Diego Rico,Zald\u00faa,1
+Gabriel,M. Dos Santos,1
+Diego Rico,Rub\u00e9n P\u00e9rez,1
+Omar Ramos,E. Mu\u00f1oz,1
+Cu\u00e9llar,M. Dos Santos,1
+Omar Ramos,N. El Zhar,1
+C. Beauvue,Diego Rico,1
+N. El Zhar,Omar Ramos,1
+Zald\u00faa,Eraso,1
+E. Mu\u00f1oz,Zald\u00faa,1
+N. El Zhar,Zald\u00faa,1

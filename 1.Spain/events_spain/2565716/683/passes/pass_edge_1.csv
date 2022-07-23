@@ -1,0 +1,55 @@
+Source,Target,Weight
+P. Baysse,Luis Hern\u00e1ndez,6
+Luis Hern\u00e1ndez,Recio,5
+Chory Castro,Recio,4
+A. Pe\u00f1aranda,Javi Ontiveros,4
+Z. Kuzmanovi\u0107,Recio,4
+D. Rol\u00e1n,Z. Kuzmanovi\u0107,4
+D. Rol\u00e1n,Chory Castro,3
+Z. Kuzmanovi\u0107,P. Baysse,3
+Miquel,P. Baysse,3
+Luis Hern\u00e1ndez,P. Baysse,3
+Javi Ontiveros,P. Baysse,3
+Recio,P. Baysse,3
+Javi Ontiveros,Luis Hern\u00e1ndez,3
+Z. Kuzmanovi\u0107,A. Pe\u00f1aranda,3
+Recio,Chory Castro,3
+P. Baysse,Javi Ontiveros,3
+Chory Castro,D. Rol\u00e1n,2
+Miquel,Z. Kuzmanovi\u0107,2
+Luis Hern\u00e1ndez,Z. Kuzmanovi\u0107,2
+Recio,Z. Kuzmanovi\u0107,2
+A. Pe\u00f1aranda,Z. Kuzmanovi\u0107,2
+P. Baysse,Miquel,2
+Luis Hern\u00e1ndez,A. Pe\u00f1aranda,2
+Recio,D. Rol\u00e1n,2
+Recio,Luis Hern\u00e1ndez,2
+Diego Gonz\u00e1lez,Miquel,2
+P. Baysse,D. Rol\u00e1n,2
+P. Baysse,A. Pe\u00f1aranda,2
+Z. Kuzmanovi\u0107,Miquel,2
+P. Baysse,Z. Kuzmanovi\u0107,2
+Z. Kuzmanovi\u0107,Chory Castro,1
+Z. Kuzmanovi\u0107,Luis Hern\u00e1ndez,1
+Javi Ontiveros,D. Rol\u00e1n,1
+D. Rol\u00e1n,Recio,1
+Recio,Miquel,1
+Miquel,Diego Gonz\u00e1lez,1
+D. Rol\u00e1n,P. Baysse,1
+Recio,Diego Gonz\u00e1lez,1
+Javi Ontiveros,Recio,1
+Chory Castro,Luis Hern\u00e1ndez,1
+Luis Hern\u00e1ndez,Javi Ontiveros,1
+Recio,Javi Ontiveros,1
+Diego Gonz\u00e1lez,A. Pe\u00f1aranda,1
+Diego Gonz\u00e1lez,Z. Kuzmanovi\u0107,1
+A. Pe\u00f1aranda,D. Rol\u00e1n,1
+Javi Ontiveros,A. Pe\u00f1aranda,1
+Luis Hern\u00e1ndez,D. Rol\u00e1n,1
+Chory Castro,A. Pe\u00f1aranda,1
+D. Rol\u00e1n,Diego Gonz\u00e1lez,1
+A. Pe\u00f1aranda,Luis Hern\u00e1ndez,1
+Javi Ontiveros,Diego Gonz\u00e1lez,1
+A. Pe\u00f1aranda,P. Baysse,1
+A. Pe\u00f1aranda,Chory Castro,1
+Miquel,Javi Ontiveros,1

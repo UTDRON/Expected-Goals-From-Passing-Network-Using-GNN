@@ -1,0 +1,93 @@
+Source,Target,Weight
+Antunes,Juan Cala,7
+Antunes,A. Ndiaye,5
+Juan Cala,Guaita,5
+M. Arambarri,Juan Cala,5
+Antunes,M. Arambarri,4
+Guaita,Jorge Molina,4
+Portillo,D. Su\u00e1rez,4
+M. Arambarri,A. Ndiaye,4
+Jorge Molina,Djen\u00e9,4
+Djen\u00e9,\u00c1ngel,4
+D. Su\u00e1rez,Jorge Molina,4
+Juan Cala,Antunes,4
+Portillo,Juan Cala,4
+Jorge Molina,Portillo,4
+D. Su\u00e1rez,Portillo,3
+\u00c1ngel,M. Arambarri,3
+M. Arambarri,Markel Bergara,3
+Guaita,\u00c1ngel,3
+Juan Cala,A. Ndiaye,3
+D. Su\u00e1rez,Guaita,3
+D. Su\u00e1rez,Djen\u00e9,3
+Jorge Molina,M. Arambarri,3
+A. Ndiaye,D. Su\u00e1rez,3
+M. Arambarri,Portillo,3
+A. Ndiaye,M. Arambarri,3
+Portillo,Antunes,3
+Djen\u00e9,Portillo,3
+\u00c1ngel,Portillo,3
+Juan Cala,M. Arambarri,3
+Portillo,Markel Bergara,3
+D. Su\u00e1rez,M. Arambarri,3
+M. Arambarri,Djen\u00e9,3
+A. Ndiaye,Antunes,3
+Markel Bergara,D. Su\u00e1rez,3
+Markel Bergara,Jorge Molina,2
+Jorge Molina,Antunes,2
+A. Ndiaye,Portillo,2
+Juan Cala,Portillo,2
+D. Su\u00e1rez,Antunes,2
+Portillo,Djen\u00e9,2
+Djen\u00e9,Antunes,2
+Juan Cala,D. Su\u00e1rez,2
+Djen\u00e9,Juan Cala,2
+Antunes,\u00c1ngel,2
+Markel Bergara,M. Arambarri,2
+Portillo,Jorge Molina,2
+Guaita,D. Su\u00e1rez,2
+M. Arambarri,Antunes,2
+\u00c1ngel,Antunes,2
+Djen\u00e9,D. Su\u00e1rez,2
+\u00c1ngel,D. Su\u00e1rez,2
+A. Ndiaye,Markel Bergara,2
+Antunes,Markel Bergara,2
+Juan Cala,Djen\u00e9,2
+Portillo,\u00c1ngel,1
+Markel Bergara,Juan Cala,1
+M. Arambarri,\u00c1ngel,1
+Antunes,Portillo,1
+Markel Bergara,Portillo,1
+\u00c1ngel,Djen\u00e9,1
+Djen\u00e9,Markel Bergara,1
+Markel Bergara,Djen\u00e9,1
+Portillo,M. Arambarri,1
+D. Su\u00e1rez,Markel Bergara,1
+A. Ndiaye,\u00c1ngel,1
+D. Su\u00e1rez,Juan Cala,1
+A. Ndiaye,Juan Cala,1
+\u00c1ngel,Juan Cala,1
+Portillo,Guaita,1
+Guaita,Juan Cala,1
+Antunes,D. Su\u00e1rez,1
+Juan Cala,\u00c1ngel,1
+A. Ndiaye,Djen\u00e9,1
+Jorge Molina,\u00c1ngel,1
+Portillo,A. Ndiaye,1
+Djen\u00e9,Guaita,1
+Jorge Molina,D. Su\u00e1rez,1
+Markel Bergara,A. Ndiaye,1
+Djen\u00e9,Jorge Molina,1
+Markel Bergara,\u00c1ngel,1
+Djen\u00e9,M. Arambarri,1
+M. Arambarri,D. Su\u00e1rez,1
+\u00c1ngel,Markel Bergara,1
+\u00c1ngel,A. Ndiaye,1
+Jorge Molina,Guaita,1
+D. Su\u00e1rez,\u00c1ngel,1
+M. Arambarri,Jorge Molina,1
+\u00c1ngel,Jorge Molina,1
+Markel Bergara,Antunes,1
+Juan Cala,Jorge Molina,1
+D. Su\u00e1rez,A. Ndiaye,1
+Guaita,Antunes,1

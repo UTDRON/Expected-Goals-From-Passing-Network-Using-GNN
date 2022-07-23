@@ -1,0 +1,37 @@
+Source,Target,Weight
+Borja Garc\u00eda,Aday,3
+C. Stuani,Juanpe,2
+Juanpe,Ramalho,2
+Timor,Pablo Maffeo,2
+Aday,Borja Garc\u00eda,2
+Ramalho,Pablo Maffeo,2
+Pablo Maffeo,C. Stuani,2
+Muniesa,Juanpe,2
+Juanpe,Muniesa,1
+Timor,Ramalho,1
+Aday,Muniesa,1
+Pablo Maffeo,Aday,1
+Juanpe,Timor,1
+Portu,Timor,1
+C. Stuani,\u00c1lex Granell,1
+Borja Garc\u00eda,C. Stuani,1
+C. Stuani,Ramalho,1
+Portu,\u00c1lex Granell,1
+Aday,C. Stuani,1
+\u00c1lex Granell,Juanpe,1
+Muniesa,Borja Garc\u00eda,1
+Pablo Maffeo,Borja Garc\u00eda,1
+Juanpe,Y. Bounou,1
+Borja Garc\u00eda,Timor,1
+Y. Bounou,C. Stuani,1
+Aday,Y. Bounou,1
+C. Stuani,Portu,1
+Timor,Borja Garc\u00eda,1
+Ramalho,Portu,1
+Juanpe,Aday,1
+Portu,Juanpe,1
+Borja Garc\u00eda,Muniesa,1
+\u00c1lex Granell,Borja Garc\u00eda,1
+Juanpe,C. Stuani,1
+Y. Bounou,Portu,1
+Ramalho,Juanpe,1

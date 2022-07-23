@@ -1,0 +1,71 @@
+Source,Target,Weight
+Joaqu\u00edn,Fabi\u00e1n,7
+R. Durmisi,Z. Feddal,5
+Fabi\u00e1n,Barrag\u00e1n,5
+Barrag\u00e1n,Fabi\u00e1n,5
+V\u00edctor Camarasa,Z. Feddal,5
+V\u00edctor Camarasa,Fabi\u00e1n,4
+Z. Feddal,V\u00edctor Camarasa,4
+Fabi\u00e1n,Joaqu\u00edn,4
+Barrag\u00e1n,Joaqu\u00edn,4
+Fabi\u00e1n,V\u00edctor Camarasa,4
+A. Mandi,V\u00edctor Camarasa,3
+Fabi\u00e1n,A. Mandi,3
+Fabi\u00e1n,R. Durmisi,3
+R. Durmisi,R. Boudebouz,2
+R. Durmisi,V\u00edctor Camarasa,2
+Ad\u00e1n,A. Mandi,2
+Z. Feddal,A. Guardado,2
+A. Mandi,R. Durmisi,2
+A. Mandi,R. Boudebouz,2
+R. Boudebouz,A. Mandi,2
+Barrag\u00e1n,A. Mandi,2
+A. Mandi,Barrag\u00e1n,2
+Cristian Tello,R. Durmisi,2
+Joaqu\u00edn,Barrag\u00e1n,2
+Z. Feddal,R. Durmisi,2
+R. Durmisi,Cristian Tello,2
+Z. Feddal,A. Mandi,2
+V\u00edctor Camarasa,Cristian Tello,2
+R. Boudebouz,Cristian Tello,2
+A. Guardado,Cristian Tello,1
+Sergio Le\u00f3n,V\u00edctor Camarasa,1
+Julio Gracia,Joaqu\u00edn,1
+Sergio Le\u00f3n,Z. Feddal,1
+V\u00edctor Camarasa,Joaqu\u00edn,1
+V\u00edctor Camarasa,R. Boudebouz,1
+V\u00edctor Camarasa,A. Mandi,1
+V\u00edctor Camarasa,Julio Gracia,1
+Z. Feddal,Fabi\u00e1n,1
+R. Boudebouz,Fabi\u00e1n,1
+Joaqu\u00edn,V\u00edctor Camarasa,1
+Sergio Le\u00f3n,A. Mandi,1
+Cristian Tello,R. Boudebouz,1
+Z. Feddal,R. Boudebouz,1
+Cristian Tello,Fabi\u00e1n,1
+V\u00edctor Camarasa,Barrag\u00e1n,1
+R. Durmisi,Ad\u00e1n,1
+A. Guardado,R. Durmisi,1
+V\u00edctor Camarasa,R. Durmisi,1
+A. Mandi,Sergio Le\u00f3n,1
+Cristian Tello,Barrag\u00e1n,1
+R. Boudebouz,Joaqu\u00edn,1
+Joaqu\u00edn,R. Boudebouz,1
+R. Boudebouz,Sergio Le\u00f3n,1
+Cristian Tello,Z. Feddal,1
+R. Boudebouz,R. Durmisi,1
+Sergio Le\u00f3n,Joaqu\u00edn,1
+Fabi\u00e1n,Sergio Le\u00f3n,1
+Ad\u00e1n,Z. Feddal,1
+Z. Feddal,Ad\u00e1n,1
+Fabi\u00e1n,R. Boudebouz,1
+R. Boudebouz,V\u00edctor Camarasa,1
+A. Mandi,Fabi\u00e1n,1
+R. Durmisi,Fabi\u00e1n,1
+Cristian Tello,V\u00edctor Camarasa,1
+Julio Gracia,V\u00edctor Camarasa,1
+V\u00edctor Camarasa,Ad\u00e1n,1
+A. Mandi,Julio Gracia,1
+A. Mandi,Cristian Tello,1
+Joaqu\u00edn,Ad\u00e1n,1
+Ad\u00e1n,Sergio Le\u00f3n,1

@@ -1,0 +1,22 @@
+Source,Target,Weight
+Aday,Juanpe,2
+Juanpe,Aday,1
+Aday,Portu,1
+Borja Garc\u00eda,Muniesa,1
+\u00c1lex Granell,Borja Garc\u00eda,1
+C. Stuani,Borja Garc\u00eda,1
+Iraizoz,Pere Pons,1
+C. Stuani,Bernardo Espinosa,1
+Juanpe,C. Stuani,1
+Borja Garc\u00eda,\u00c1lex Granell,1
+Portu,Aday,1
+Bernardo Espinosa,Pere Pons,1
+Muniesa,Borja Garc\u00eda,1
+Borja Garc\u00eda,Bernardo Espinosa,1
+Juanpe,Iraizoz,1
+Pere Pons,Juanpe,1
+Bernardo Espinosa,Juanpe,1
+Bernardo Espinosa,Muniesa,1
+Pere Pons,Aday,1
+Juanpe,\u00c1lex Granell,1
+Muniesa,C. Stuani,1

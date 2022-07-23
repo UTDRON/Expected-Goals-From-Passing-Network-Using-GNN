@@ -1,0 +1,36 @@
+Source,Target,Weight
+G. Cabral,D. Wass,3
+N. Radoja,Jonny,2
+D. Wass,Iago Aspas,2
+Jonny,N. Radoja,2
+L. Boy\u00e9,Sergi G\u00f3mez,2
+L. Boy\u00e9,Maxi G\u00f3mez,2
+Sergi G\u00f3mez,Sergio \u00c1lvarez,2
+Iago Aspas,Jonny,1
+L. Boy\u00e9,D. Wass,1
+Maxi G\u00f3mez,L. Boy\u00e9,1
+N. Radoja,G. Cabral,1
+Iago Aspas,L. Boy\u00e9,1
+L. Boy\u00e9,N. Radoja,1
+Sergio \u00c1lvarez,L. Boy\u00e9,1
+G. Cabral,L. Boy\u00e9,1
+Iago Aspas,D. Wass,1
+Jonny,Iago Aspas,1
+Iago Aspas,S. Lobotka,1
+Sergi G\u00f3mez,Jonny,1
+S. Lobotka,L. Boy\u00e9,1
+D. Wass,N. Radoja,1
+D. Wass,Sergi G\u00f3mez,1
+Jonny,L. Boy\u00e9,1
+N. Radoja,L. Boy\u00e9,1
+D. Wass,Hugo Mallo,1
+Sergio \u00c1lvarez,S. Lobotka,1
+L. Boy\u00e9,S. Lobotka,1
+Sergi G\u00f3mez,N. Radoja,1
+S. Lobotka,G. Cabral,1
+Iago Aspas,G. Cabral,1
+N. Radoja,D. Wass,1
+Maxi G\u00f3mez,Sergi G\u00f3mez,1
+D. Wass,G. Cabral,1
+Hugo Mallo,Iago Aspas,1
+G. Cabral,Iago Aspas,1

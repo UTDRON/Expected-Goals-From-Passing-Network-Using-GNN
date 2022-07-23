@@ -1,0 +1,67 @@
+Source,Target,Weight
+G\u00e1lvez,M\u00edchel,6
+Ximo Navarro,G\u00e1lvez,4
+M. Aguirregaray,Nacho Gil,3
+G. Pe\u00f1alba,M. Aguirregaray,3
+M\u00edchel,G\u00e1lvez,3
+Nacho Gil,O. Etebo,3
+G\u00e1lvez,G. Pe\u00f1alba,3
+O. Etebo,Jonathan Viera,3
+M\u00edchel,H. Toledo,3
+Jonathan Viera,M. Aguirregaray,3
+Ximo Navarro,M. Aguirregaray,2
+O. Etebo,G. Pe\u00f1alba,2
+H. Toledo,G\u00e1lvez,2
+M. Aguirregaray,Jonathan Viera,2
+Nacho Gil,Jonathan Viera,2
+Jonathan Viera,Nacho Gil,2
+M\u00edchel,O. Etebo,2
+G. Pe\u00f1alba,M\u00edchel,2
+G. Pe\u00f1alba,J. Calleri,2
+H. Toledo,M. Aguirregaray,2
+Ximo Navarro,J. Calleri,2
+M\u00edchel,G. Pe\u00f1alba,2
+G\u00e1lvez,Ximo Navarro,2
+O. Etebo,G\u00e1lvez,2
+J. Calleri,M\u00edchel,2
+M. Aguirregaray,O. Etebo,2
+H. Toledo,M\u00edchel,1
+J. Calleri,G\u00e1lvez,1
+Jonathan Viera,G. Pe\u00f1alba,1
+M\u00edchel,Jonathan Viera,1
+M. Aguirregaray,J. Calleri,1
+G\u00e1lvez,J. Calleri,1
+M. Aguirregaray,Ximo Navarro,1
+M. Aguirregaray,G\u00e1lvez,1
+O. Etebo,M. Aguirregaray,1
+M\u00edchel,J. Calleri,1
+G. Pe\u00f1alba,Ximo Navarro,1
+M. Aguirregaray,G. Pe\u00f1alba,1
+J. Calleri,O. Etebo,1
+J. Calleri,G. Pe\u00f1alba,1
+G\u00e1lvez,M. Aguirregaray,1
+M\u00edchel,Ximo Navarro,1
+M. Aguirregaray,M\u00edchel,1
+Jonathan Viera,M\u00edchel,1
+J. Calleri,H. Toledo,1
+G. Pe\u00f1alba,O. Etebo,1
+J. Calleri,Ximo Navarro,1
+O. Etebo,Nacho Gil,1
+G\u00e1lvez,Jonathan Viera,1
+L. Chichizola,O. Etebo,1
+H. Toledo,G. Pe\u00f1alba,1
+G\u00e1lvez,L. Chichizola,1
+G\u00e1lvez,H. Toledo,1
+Jonathan Viera,Ximo Navarro,1
+Nacho Gil,G\u00e1lvez,1
+Ximo Navarro,H. Toledo,1
+G\u00e1lvez,O. Etebo,1
+Jonathan Viera,O. Etebo,1
+H. Toledo,Ximo Navarro,1
+G. Pe\u00f1alba,Nacho Gil,1
+G. Pe\u00f1alba,G\u00e1lvez,1
+J. Calleri,Jonathan Viera,1
+O. Etebo,J. Calleri,1
+O. Etebo,H. Toledo,1
+Jonathan Viera,G\u00e1lvez,1
+Nacho Gil,Ximo Navarro,1

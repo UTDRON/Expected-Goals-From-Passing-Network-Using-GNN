@@ -1,0 +1,20 @@
+Source,Target,Weight
+B. Bereszy\u0144ski,D. Praet,2
+D. Praet,D. Kownacki,1
+K. Linetty,D. Praet,1
+D. Praet,B. Bereszy\u0144ski,1
+C. Puggioni,B. Bereszy\u0144ski,1
+N. Murru,M. Silvestre,1
+F. Quagliarella,K. Linetty,1
+D. Kownacki,C. Puggioni,1
+D. Praet,F. Quagliarella,1
+F. Quagliarella,D. Praet,1
+B. Bereszy\u0144ski,M. Silvestre,1
+M. Silvestre,G. Ferrari,1
+C. Puggioni,N. Murru,1
+D. Praet,G. Caprari,1
+N. Murru,C. Puggioni,1
+G. Ferrari,K. Linetty,1
+M. Silvestre,B. Bereszy\u0144ski,1
+G. Caprari,F. Quagliarella,1
+K. Linetty,F. Quagliarella,1

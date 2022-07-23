@@ -1,0 +1,20 @@
+Source,Target,Weight
+M. Politano,A. Duncan,2
+A. Duncan,A. Ragusa,2
+A. Ragusa,S. Missiroli,1
+A. Ragusa,A. Duncan,1
+S. Missiroli,F. Magnanelli,1
+A. Duncan,M. Politano,1
+S. Missiroli,A. Duncan,1
+F. Peluso,F. Acerbi,1
+A. Duncan,F. Peluso,1
+F. Acerbi,A. Ragusa,1
+A. Ragusa,F. Magnanelli,1
+F. Magnanelli,Pol Lirola,1
+E. Goldaniga,S. Missiroli,1
+A. Duncan,S. Missiroli,1
+A. Ragusa,E. Goldaniga,1
+Pol Lirola,A. Consigli,1
+F. Magnanelli,A. Duncan,1
+S. Missiroli,M. Politano,1
+A. Consigli,A. Duncan,1

@@ -1,0 +1,48 @@
+Source,Target,Weight
+J. Jankto,Samir,3
+E. Hallfre\u00f0sson,J. Jankto,3
+Danilo,B. Nuytinck,3
+K. Lasagna,Samir,2
+J. Stryger Larsen,R. de Paul,2
+V. Behrami,A. Bar\u00e1k,2
+E. Hallfre\u00f0sson,Danilo,2
+R. de Paul,Danilo,2
+J. Jankto,B. Nuytinck,2
+V. Behrami,R. de Paul,2
+Samir,Danilo,2
+B. Nuytinck,J. Jankto,2
+B. Nuytinck,V. Behrami,2
+B. Nuytinck,E. Hallfre\u00f0sson,1
+A. Bar\u00e1k,K. Lasagna,1
+A. Bizzarri,A. Bar\u00e1k,1
+J. Stryger Larsen,A. Bizzarri,1
+B. Nuytinck,Samir,1
+R. de Paul,Samir,1
+Samir,K. Lasagna,1
+Danilo,Samir,1
+Samir,V. Behrami,1
+K. Lasagna,J. Stryger Larsen,1
+Danilo,A. Bizzarri,1
+B. Nuytinck,Danilo,1
+A. Bizzarri,E. Hallfre\u00f0sson,1
+J. Jankto,A. Bizzarri,1
+A. Bar\u00e1k,J. Jankto,1
+A. Bizzarri,K. Lasagna,1
+Danilo,K. Lasagna,1
+J. Jankto,E. Hallfre\u00f0sson,1
+Danilo,J. Stryger Larsen,1
+R. de Paul,K. Lasagna,1
+Samir,J. Stryger Larsen,1
+K. Lasagna,E. Hallfre\u00f0sson,1
+K. Lasagna,V. Behrami,1
+A. Bar\u00e1k,E. Hallfre\u00f0sson,1
+R. de Paul,B. Nuytinck,1
+V. Behrami,K. Lasagna,1
+J. Jankto,K. Lasagna,1
+K. Lasagna,J. Jankto,1
+J. Stryger Larsen,V. Behrami,1
+Samir,B. Nuytinck,1
+Samir,J. Jankto,1
+K. Lasagna,R. de Paul,1
+Samir,R. de Paul,1
+R. de Paul,A. Bar\u00e1k,1

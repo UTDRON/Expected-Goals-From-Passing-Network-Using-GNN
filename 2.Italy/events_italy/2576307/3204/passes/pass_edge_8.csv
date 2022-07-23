@@ -1,0 +1,8 @@
+Source,Target,Weight
+F. Costa,Felipe,3
+Everton Luiz,A. Grassi,2
+A. Grassi,F. Costa,2
+Felipe,F. Costa,1
+F. Mattiello,Everton Luiz,1
+Felipe,F. Mattiello,1
+Felipe,Everton Luiz,1

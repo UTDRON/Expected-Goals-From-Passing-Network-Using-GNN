@@ -1,0 +1,21 @@
+Source,Target,Weight
+Pere Pons,Portu,2
+Portu,Pere Pons,2
+Pablo Maffeo,Pere Pons,1
+Portu,Pablo Maffeo,1
+C. Stuani,Pablo Maffeo,1
+Bernardo Espinosa,Portu,1
+Juanpe,Portu,1
+Juanpe,Bernardo Espinosa,1
+Portu,Bernardo Espinosa,1
+Ramalho,Portu,1
+Aday,Juanpe,1
+Bernardo Espinosa,Aday,1
+Pere Pons,Bernardo Espinosa,1
+Ramalho,Juanpe,1
+Aday,Pablo Maffeo,1
+Bernardo Espinosa,Ramalho,1
+Bernardo Espinosa,Pere Pons,1
+Portu,Ramalho,1
+Pablo Maffeo,C. Stuani,1
+Pere Pons,Aday,1

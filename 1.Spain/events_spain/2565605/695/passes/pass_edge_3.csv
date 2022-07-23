@@ -1,0 +1,70 @@
+Source,Target,Weight
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,5
+Rober,To\u00f1o,5
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,5
+To\u00f1o,Ivi,4
+Pedro L\u00f3pez,Rober,4
+\u00c1lex Alegr\u00eda,Rober,4
+Campa\u00f1a,Jos\u00e9 Luis Morales,3
+Chema,To\u00f1o,3
+Ivi,To\u00f1o,3
+Rober,Sergio Postigo,3
+To\u00f1o,\u00c1lex Alegr\u00eda,3
+Rober,Chema,3
+Sergio Postigo,Chema,3
+Sergio Postigo,Pedro L\u00f3pez,3
+To\u00f1o,Rober,3
+Samu Garc\u00eda,Sergio Postigo,3
+Jos\u00e9 Luis Morales,Rober,2
+Sergio Postigo,Rober,2
+Jos\u00e9 Luis Morales,To\u00f1o,2
+Campa\u00f1a,Sergio Postigo,2
+Sergio Postigo,\u00c1lex Alegr\u00eda,2
+Chema,\u00c1lex Alegr\u00eda,2
+Ivi,Jos\u00e9 Luis Morales,2
+Nano,Samu Garc\u00eda,2
+Ra\u00fal Fern\u00e1ndez,Pedro L\u00f3pez,2
+Pedro L\u00f3pez,\u00c1lex Alegr\u00eda,2
+E. Bardhi,Ivi,2
+\u00c1lex Alegr\u00eda,Pedro L\u00f3pez,2
+To\u00f1o,Campa\u00f1a,2
+E. Bardhi,To\u00f1o,2
+\u00c1lex Alegr\u00eda,Jos\u00e9 Luis Morales,1
+Sergio Postigo,Campa\u00f1a,1
+\u00c1lex Alegr\u00eda,Campa\u00f1a,1
+To\u00f1o,Pedro L\u00f3pez,1
+Ivi,E. Bardhi,1
+To\u00f1o,Chema,1
+Samu Garc\u00eda,Nano,1
+Ivi,Sergio Postigo,1
+E. Bardhi,Ra\u00fal Fern\u00e1ndez,1
+\u00c1lex Alegr\u00eda,Nano,1
+Rober,Pedro L\u00f3pez,1
+Chema,Sergio Postigo,1
+Rober,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+Ivi,Rober,1
+Pedro L\u00f3pez,Ra\u00fal Fern\u00e1ndez,1
+Ivi,Campa\u00f1a,1
+Rober,Campa\u00f1a,1
+Jos\u00e9 Luis Morales,E. Bardhi,1
+Rober,E. Bardhi,1
+Campa\u00f1a,Pedro L\u00f3pez,1
+Chema,Pedro L\u00f3pez,1
+Chema,Ra\u00fal Fern\u00e1ndez,1
+E. Bardhi,\u00c1lex Alegr\u00eda,1
+Campa\u00f1a,Chema,1
+Pedro L\u00f3pez,Sergio Postigo,1
+Sergio Postigo,E. Bardhi,1
+Pedro L\u00f3pez,Campa\u00f1a,1
+\u00c1lex Alegr\u00eda,E. Bardhi,1
+Campa\u00f1a,Samu Garc\u00eda,1
+Pedro L\u00f3pez,Chema,1
+Chema,Campa\u00f1a,1
+Rober,Ivi,1
+Jos\u00e9 Luis Morales,Ivi,1
+To\u00f1o,Sergio Postigo,1
+To\u00f1o,E. Bardhi,1
+Campa\u00f1a,To\u00f1o,1
+Ra\u00fal Fern\u00e1ndez,\u00c1lex Alegr\u00eda,1
+Pedro L\u00f3pez,Samu Garc\u00eda,1

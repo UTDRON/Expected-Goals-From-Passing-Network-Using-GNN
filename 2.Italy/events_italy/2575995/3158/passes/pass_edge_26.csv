@@ -1,0 +1,33 @@
+Source,Target,Weight
+L. Pellegrini,D. De Rossi,4
+D. De Rossi,Gerson,4
+D. De Rossi,L. Pellegrini,3
+L. Pellegrini,A. Kolarov,2
+H. Moreno,L. Pellegrini,2
+Gerson,H. Moreno,2
+A. Kolarov,L. Pellegrini,2
+Gerson,D. De Rossi,1
+L. Pellegrini,H. Moreno,1
+H. Moreno,F. Fazio,1
+A. Kolarov,Gerson,1
+S. El Shaarawy,D. De Rossi,1
+S. El Shaarawy,P. Schick,1
+Alisson,D. De Rossi,1
+Gerson,L. Pellegrini,1
+L. Pellegrini,P. Schick,1
+Gerson,S. El Shaarawy,1
+A. Kolarov,E. D\u017eeko,1
+D. De Rossi,S. El Shaarawy,1
+A. Florenzi,Gerson,1
+L. Pellegrini,A. Florenzi,1
+Gerson,A. Florenzi,1
+D. De Rossi,A. Kolarov,1
+D. De Rossi,H. Moreno,1
+A. Florenzi,L. Pellegrini,1
+P. Schick,L. Pellegrini,1
+P. Schick,D. De Rossi,1
+L. Pellegrini,F. Fazio,1
+F. Fazio,D. De Rossi,1
+F. Fazio,A. Florenzi,1
+H. Moreno,A. Kolarov,1
+A. Florenzi,D. De Rossi,1

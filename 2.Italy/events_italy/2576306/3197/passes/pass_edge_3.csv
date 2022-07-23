@@ -1,0 +1,13 @@
+Source,Target,Weight
+Simy,M. Trotta,1
+B. Martella,A. Nalini,1
+B. Martella,R. Mandragora,1
+B. Martella,Simy,1
+F. Ceccherini,B. Martella,1
+M. Trotta,A. Barberis,1
+M. Trotta,B. Martella,1
+A. Barberis,Simy,1
+A. Nalini,B. Martella,1
+A. Nalini,A. Barberis,1
+R. Mandragora,A. Nalini,1
+A. Barberis,M. Trotta,1

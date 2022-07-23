@@ -1,0 +1,17 @@
+Source,Target,Weight
+M. Trotta,R. Mandragora,2
+M. Sampirisi,A. Ajeti,1
+D. Faraoni,B. Martella,1
+R. Mandragora,A. Stoian,1
+A. Budimir,A. Barberis,1
+A. Barberis,M. Sampirisi,1
+B. Martella,R. Mandragora,1
+A. Stoian,M. Sampirisi,1
+R. Mandragora,L. Cabrera,1
+L. Cabrera,A. Stoian,1
+A. Ajeti,M. Sampirisi,1
+D. Faraoni,M. Trotta,1
+M. Sampirisi,M. Trotta,1
+M. Sampirisi,A. Barberis,1
+A. Barberis,D. Faraoni,1
+A. Stoian,D. Faraoni,1

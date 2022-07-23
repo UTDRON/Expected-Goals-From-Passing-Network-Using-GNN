@@ -1,0 +1,59 @@
+Source,Target,Weight
+Guilherme Arana,Daniel Carri\u00e7o,3
+W. Ben Yedder,M. Lay\u00fan,3
+\u00c9. Banega,S. N'Zonzi,3
+G. Pizarro,Guilherme Arana,3
+Sandro,\u00c9. Banega,3
+Sandro,G. Pizarro,2
+Daniel Carri\u00e7o,G. Pizarro,2
+S. Kj\u00e6r,S. N'Zonzi,2
+Daniel Carri\u00e7o,Sandro,2
+\u00c9. Banega,M. Lay\u00fan,2
+S. N'Zonzi,\u00c9. Banega,2
+Pablo Sarabia,Daniel Carri\u00e7o,2
+W. Ben Yedder,\u00c9. Banega,2
+Guilherme Arana,Sandro,2
+S. N'Zonzi,M. Lay\u00fan,2
+Daniel Carri\u00e7o,\u00c9. Banega,2
+M. Lay\u00fan,Pablo Sarabia,2
+\u00c9. Banega,W. Ben Yedder,2
+Sandro,Guilherme Arana,2
+Guilherme Arana,\u00c9. Banega,2
+Pablo Sarabia,W. Ben Yedder,1
+W. Ben Yedder,Sandro,1
+G. Pizarro,Sandro,1
+G. Pizarro,Daniel Carri\u00e7o,1
+Sandro,S. N'Zonzi,1
+S. N'Zonzi,S. Kj\u00e6r,1
+G. Pizarro,W. Ben Yedder,1
+M. Lay\u00fan,W. Ben Yedder,1
+M. Lay\u00fan,Guilherme Arana,1
+\u00c9. Banega,Sandro,1
+\u00c9. Banega,Guilherme Arana,1
+Guilherme Arana,G. Pizarro,1
+W. Ben Yedder,Guilherme Arana,1
+S. N'Zonzi,W. Ben Yedder,1
+S. Kj\u00e6r,Guilherme Arana,1
+G. Pizarro,David Soria,1
+Sandro,Daniel Carri\u00e7o,1
+Guilherme Arana,Pablo Sarabia,1
+David Soria,S. Kj\u00e6r,1
+\u00c9. Banega,Pablo Sarabia,1
+S. N'Zonzi,Sandro,1
+Guilherme Arana,S. Kj\u00e6r,1
+S. N'Zonzi,Daniel Carri\u00e7o,1
+S. N'Zonzi,G. Pizarro,1
+S. Kj\u00e6r,Sandro,1
+David Soria,G. Pizarro,1
+S. Kj\u00e6r,W. Ben Yedder,1
+Pablo Sarabia,\u00c9. Banega,1
+\u00c9. Banega,G. Pizarro,1
+G. Pizarro,S. N'Zonzi,1
+Daniel Carri\u00e7o,David Soria,1
+Daniel Carri\u00e7o,S. Kj\u00e6r,1
+Pablo Sarabia,S. N'Zonzi,1
+\u00c9. Banega,Daniel Carri\u00e7o,1
+Daniel Carri\u00e7o,Pablo Sarabia,1
+Daniel Carri\u00e7o,Guilherme Arana,1
+M. Lay\u00fan,S. Kj\u00e6r,1
+M. Lay\u00fan,Daniel Carri\u00e7o,1

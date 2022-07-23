@@ -1,0 +1,25 @@
+Source,Target,Weight
+L. Mazzitelli,Pol Lirola,2
+T. Letschert,L. Mazzitelli,2
+F. Magnanelli,D. Falcinelli,1
+Pol Lirola,L. Mazzitelli,1
+Pol Lirola,D. Falcinelli,1
+F. Acerbi,S. Sensi,1
+F. Magnanelli,F. Acerbi,1
+L. Mazzitelli,F. Acerbi,1
+D. Falcinelli,S. Sensi,1
+D. Falcinelli,L. Mazzitelli,1
+F. Acerbi,C. Adjapong,1
+L. Mazzitelli,A. Consigli,1
+S. Sensi,M. Politano,1
+S. Sensi,F. Magnanelli,1
+A. Consigli,F. Magnanelli,1
+C. Adjapong,S. Sensi,1
+F. Magnanelli,S. Sensi,1
+Pol Lirola,T. Letschert,1
+M. Politano,F. Acerbi,1
+T. Letschert,Pol Lirola,1
+S. Sensi,C. Adjapong,1
+S. Sensi,T. Letschert,1
+F. Acerbi,F. Magnanelli,1
+C. Adjapong,M. Politano,1

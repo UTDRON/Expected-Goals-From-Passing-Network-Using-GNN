@@ -1,0 +1,14 @@
+Source,Target,Weight
+M. Benassi,S. Crist\u00f3foro,2
+S. Crist\u00f3foro,D. Falcinelli,2
+D. Astori,M. Sportiello,1
+S. Crist\u00f3foro,J. Veretout,1
+D. Falcinelli,D. Astori,1
+J. Veretout,D. Falcinelli,1
+M. Sportiello,D. Astori,1
+D. Astori,D. Falcinelli,1
+D. Falcinelli,M. Sportiello,1
+M. Sportiello,G. Pezzella,1
+D. Falcinelli,M. Benassi,1
+G. Pezzella,F. Chiesa,1
+F. Chiesa,S. Crist\u00f3foro,1

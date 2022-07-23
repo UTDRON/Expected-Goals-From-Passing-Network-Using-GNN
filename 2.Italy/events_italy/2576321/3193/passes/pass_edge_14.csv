@@ -1,0 +1,29 @@
+Source,Target,Weight
+I. Cofie,A. Izzo,2
+A. Bertolacci,S. Omeonga,2
+J. El Yamiq,A. Bertolacci,2
+G. Lapadula,O. Hiljemark,2
+I. Cofie,D. Biraschi,2
+A. Izzo,D. Biraschi,2
+A. Bertolacci,A. Izzo,1
+A. Izzo,A. Bertolacci,1
+J. El Yamiq,S. Omeonga,1
+S. Omeonga,O. Hiljemark,1
+O. Hiljemark,D. Biraschi,1
+A. Bertolacci,G. Lapadula,1
+S. Omeonga,A. Bertolacci,1
+G. Rossi,S. Omeonga,1
+O. Hiljemark,I. Cofie,1
+D. Biraschi,J. El Yamiq,1
+D. Biraschi,G. Lapadula,1
+A. Bertolacci,I. Cofie,1
+O. Hiljemark,A. Bertolacci,1
+O. Hiljemark,J. El Yamiq,1
+I. Cofie,G. Rossi,1
+A. Izzo,S. Omeonga,1
+S. Omeonga,A. Izzo,1
+G. Rossi,I. Cofie,1
+S. Omeonga,I. Cofie,1
+D. Biraschi,I. Cofie,1
+D. Biraschi,O. Hiljemark,1
+S. Omeonga,G. Rossi,1

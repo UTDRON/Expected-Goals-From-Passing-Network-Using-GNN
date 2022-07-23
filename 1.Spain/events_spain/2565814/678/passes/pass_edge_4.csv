@@ -1,0 +1,33 @@
+Source,Target,Weight
+Lekue,Susaeta,5
+Yeray,San Jos\u00e9,3
+Susaeta,Lekue,3
+San Jos\u00e9,Yeray,3
+Iturraspe,Lekue,2
+Susaeta,Iturraspe,2
+Yeray,Lekue,1
+\u00cd\u00f1igo Mart\u00ednez,Lekue,1
+Susaeta,Yeray,1
+San Jos\u00e9,I\u00f1aki Williams,1
+Susaeta,I\u00f1igo C\u00f3rdoba,1
+San Jos\u00e9,Arrizabalaga,1
+Yeray,Arrizabalaga,1
+Iturraspe,Susaeta,1
+Saborit,San Jos\u00e9,1
+Yeray,I\u00f1igo C\u00f3rdoba,1
+I\u00f1igo C\u00f3rdoba,I\u00f1aki Williams,1
+Iturraspe,San Jos\u00e9,1
+Susaeta,Vesga,1
+Lekue,Vesga,1
+Vesga,Saborit,1
+I\u00f1aki Williams,\u00cd\u00f1igo Mart\u00ednez,1
+I\u00f1aki Williams,San Jos\u00e9,1
+Vesga,Yeray,1
+I\u00f1igo C\u00f3rdoba,Yeray,1
+Arrizabalaga,I\u00f1aki Williams,1
+San Jos\u00e9,Iturraspe,1
+Susaeta,San Jos\u00e9,1
+Arrizabalaga,Susaeta,1
+Lekue,Yeray,1
+San Jos\u00e9,Susaeta,1
+Yeray,Iturraspe,1

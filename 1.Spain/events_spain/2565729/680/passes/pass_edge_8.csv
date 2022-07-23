@@ -1,0 +1,76 @@
+Source,Target,Weight
+G. Pizarro,\u00c9. Banega,6
+L. Carole,Nolito,5
+\u00c9. Banega,G. Mercado,5
+S. Kj\u00e6r,G. Pizarro,4
+G. Pizarro,W. Ben Yedder,4
+C. Lenglet,L. Carole,4
+C. Lenglet,\u00c9. Banega,4
+S. Kj\u00e6r,C. Lenglet,4
+C. Lenglet,S. Kj\u00e6r,3
+Nolito,L. Carole,3
+S. Kj\u00e6r,Sergio Rico,3
+\u00c9. Banega,C. Lenglet,3
+\u00c9. Banega,Pablo Sarabia,3
+G. Mercado,\u00c9. Banega,3
+G. Pizarro,L. Carole,3
+G. Mercado,Jes\u00fas Navas,3
+L. Carole,\u00c9. Banega,3
+G. Mercado,G. Pizarro,3
+Jes\u00fas Navas,S. Kj\u00e6r,3
+S. Kj\u00e6r,W. Ben Yedder,2
+\u00c9. Banega,G. Pizarro,2
+J. Geis,S. Kj\u00e6r,2
+Jes\u00fas Navas,G. Pizarro,2
+S. Kj\u00e6r,Jes\u00fas Navas,2
+\u00c9. Banega,S. Kj\u00e6r,2
+W. Ben Yedder,G. Mercado,2
+Pablo Sarabia,Jes\u00fas Navas,2
+L. Carole,Sergio Rico,2
+G. Pizarro,S. Kj\u00e6r,2
+W. Ben Yedder,G. Pizarro,2
+G. Pizarro,G. Mercado,2
+Sergio Rico,C. Lenglet,2
+\u00c9. Banega,Nolito,2
+Jes\u00fas Navas,Pablo Sarabia,2
+Jes\u00fas Navas,Nolito,2
+Sergio Rico,\u00c9. Banega,2
+C. Lenglet,G. Mercado,2
+G. Mercado,C. Lenglet,2
+Nolito,Jes\u00fas Navas,2
+S. Kj\u00e6r,G. Mercado,2
+Nolito,S. Kj\u00e6r,2
+W. Ben Yedder,L. Carole,1
+C. Lenglet,J. Geis,1
+L. Carole,W. Ben Yedder,1
+W. Ben Yedder,C. Lenglet,1
+W. Ben Yedder,Nolito,1
+C. Lenglet,G. Pizarro,1
+Nolito,\u00c9. Banega,1
+Nolito,C. Lenglet,1
+\u00c9. Banega,W. Ben Yedder,1
+G. Mercado,Pablo Sarabia,1
+\u00c9. Banega,L. Carole,1
+W. Ben Yedder,S. Kj\u00e6r,1
+Pablo Sarabia,L. Muriel,1
+Pablo Sarabia,G. Pizarro,1
+L. Muriel,\u00c9. Banega,1
+\u00c9. Banega,J. Geis,1
+S. Kj\u00e6r,L. Carole,1
+Sergio Rico,L. Muriel,1
+L. Carole,C. Lenglet,1
+G. Pizarro,Jes\u00fas Navas,1
+Nolito,G. Pizarro,1
+Pablo Sarabia,C. Lenglet,1
+L. Carole,S. Kj\u00e6r,1
+G. Mercado,S. Kj\u00e6r,1
+J. Geis,\u00c9. Banega,1
+G. Mercado,J. Geis,1
+Jes\u00fas Navas,G. Mercado,1
+L. Carole,G. Pizarro,1
+J. Geis,L. Carole,1
+L. Muriel,G. Pizarro,1
+S. Kj\u00e6r,J. Geis,1
+Sergio Rico,S. Kj\u00e6r,1
+\u00c9. Banega,Sergio Rico,1
+Pablo Sarabia,Nolito,1

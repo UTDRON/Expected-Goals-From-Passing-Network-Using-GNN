@@ -1,0 +1,71 @@
+Source,Target,Weight
+B. Nuytinck,J. Stryger Larsen,6
+Danilo,B. Nuytinck,5
+Danilo,Samir,5
+Samir,A. Bar\u00e1k,5
+Samir,Danilo,5
+Samir,G. Pezzella,5
+B. Nuytinck,Samir,4
+G. Pezzella,Samir,4
+Danilo,E. Hallfre\u00f0sson,4
+E. Hallfre\u00f0sson,S. Fofana,4
+S. Fofana,J. Stryger Larsen,4
+Samir,B. Nuytinck,4
+J. Stryger Larsen,S. Fofana,4
+A. Bizzarri,Samir,3
+B. Nuytinck,S. Fofana,3
+A. Bar\u00e1k,G. Pezzella,3
+E. Hallfre\u00f0sson,A. Bar\u00e1k,3
+Maxi L\u00f3pez,J. Stryger Larsen,2
+G. Pezzella,E. Hallfre\u00f0sson,2
+E. Hallfre\u00f0sson,A. Bizzarri,2
+J. Stryger Larsen,Samir,2
+E. Hallfre\u00f0sson,G. Pezzella,2
+Samir,E. Hallfre\u00f0sson,2
+A. Bar\u00e1k,Maxi L\u00f3pez,2
+S. Fofana,Maxi L\u00f3pez,2
+J. Stryger Larsen,B. Nuytinck,2
+J. Stryger Larsen,Danilo,2
+A. Bizzarri,B. Nuytinck,2
+Maxi L\u00f3pez,E. Hallfre\u00f0sson,2
+A. Bar\u00e1k,S. Perica,2
+B. Nuytinck,Danilo,2
+S. Fofana,Danilo,2
+S. Fofana,A. Bizzarri,2
+J. Stryger Larsen,E. Hallfre\u00f0sson,2
+B. Nuytinck,E. Hallfre\u00f0sson,1
+S. Fofana,E. Hallfre\u00f0sson,1
+R. de Paul,E. Hallfre\u00f0sson,1
+E. Hallfre\u00f0sson,R. de Paul,1
+B. Nuytinck,A. Bizzarri,1
+E. Hallfre\u00f0sson,B. Nuytinck,1
+S. Fofana,Samir,1
+Maxi L\u00f3pez,B. Nuytinck,1
+G. Pezzella,Danilo,1
+G. Pezzella,A. Bizzarri,1
+Maxi L\u00f3pez,S. Perica,1
+S. Perica,Danilo,1
+S. Fofana,R. de Paul,1
+S. Perica,E. Hallfre\u00f0sson,1
+B. Nuytinck,S. Perica,1
+A. Bar\u00e1k,Danilo,1
+S. Perica,Samir,1
+Samir,J. Stryger Larsen,1
+G. Pezzella,S. Perica,1
+E. Hallfre\u00f0sson,Danilo,1
+R. de Paul,S. Perica,1
+S. Perica,B. Nuytinck,1
+E. Hallfre\u00f0sson,Samir,1
+Danilo,S. Fofana,1
+A. Bizzarri,R. de Paul,1
+R. de Paul,S. Fofana,1
+A. Bar\u00e1k,Samir,1
+S. Perica,R. de Paul,1
+A. Bizzarri,S. Perica,1
+E. Hallfre\u00f0sson,Maxi L\u00f3pez,1
+J. Stryger Larsen,A. Bizzarri,1
+Danilo,A. Bar\u00e1k,1
+R. de Paul,B. Nuytinck,1
+G. Pezzella,Maxi L\u00f3pez,1
+S. Fofana,B. Nuytinck,1
+S. Perica,S. Fofana,1

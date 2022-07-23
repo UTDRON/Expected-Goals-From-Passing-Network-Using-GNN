@@ -1,0 +1,76 @@
+Source,Target,Weight
+A. Consigli,S. Missiroli,5
+M. Politano,A. Ragusa,4
+M. Politano,S. Missiroli,4
+F. Cassata,M. Politano,3
+F. Peluso,Rog\u00e9rio,3
+M. Politano,F. Cassata,3
+D. Berardi,M. Politano,3
+S. Missiroli,A. Ragusa,3
+S. Missiroli,M. Politano,2
+A. Ragusa,F. Magnanelli,2
+E. Goldaniga,A. Consigli,2
+F. Peluso,A. Consigli,2
+Rog\u00e9rio,F. Acerbi,2
+Rog\u00e9rio,F. Peluso,2
+S. Missiroli,S. Sensi,2
+A. Ragusa,M. Politano,2
+S. Sensi,F. Peluso,2
+A. Consigli,M. Politano,2
+F. Peluso,F. Acerbi,2
+Pol Lirola,A. Consigli,2
+M. Politano,Rog\u00e9rio,2
+S. Missiroli,Rog\u00e9rio,2
+D. Berardi,E. Goldaniga,2
+M. Politano,Pol Lirola,2
+F. Acerbi,A. Consigli,2
+L. Mazzitelli,M. Politano,2
+A. Ragusa,Pol Lirola,2
+S. Missiroli,E. Goldaniga,2
+A. Consigli,E. Goldaniga,1
+E. Goldaniga,S. Sensi,1
+F. Magnanelli,M. Politano,1
+E. Goldaniga,S. Missiroli,1
+S. Sensi,L. Mazzitelli,1
+F. Cassata,F. Peluso,1
+M. Politano,S. Sensi,1
+Rog\u00e9rio,D. Berardi,1
+F. Acerbi,F. Cassata,1
+Rog\u00e9rio,S. Sensi,1
+E. Goldaniga,Rog\u00e9rio,1
+A. Consigli,F. Peluso,1
+L. Mazzitelli,E. Goldaniga,1
+F. Magnanelli,A. Consigli,1
+F. Peluso,Pol Lirola,1
+S. Sensi,D. Berardi,1
+F. Cassata,A. Consigli,1
+S. Sensi,A. Consigli,1
+A. Ragusa,E. Goldaniga,1
+E. Goldaniga,Pol Lirola,1
+F. Acerbi,L. Mazzitelli,1
+F. Acerbi,M. Politano,1
+A. Consigli,F. Cassata,1
+L. Mazzitelli,S. Missiroli,1
+S. Sensi,F. Acerbi,1
+Rog\u00e9rio,Pol Lirola,1
+S. Missiroli,D. Berardi,1
+F. Acerbi,F. Peluso,1
+Pol Lirola,S. Sensi,1
+Pol Lirola,F. Peluso,1
+Rog\u00e9rio,L. Mazzitelli,1
+M. Politano,F. Acerbi,1
+Pol Lirola,A. Ragusa,1
+F. Magnanelli,Pol Lirola,1
+F. Peluso,D. Berardi,1
+F. Cassata,Pol Lirola,1
+F. Cassata,F. Magnanelli,1
+Pol Lirola,M. Politano,1
+Pol Lirola,F. Cassata,1
+Rog\u00e9rio,F. Cassata,1
+E. Goldaniga,M. Politano,1
+Pol Lirola,Rog\u00e9rio,1
+F. Acerbi,S. Missiroli,1
+E. Goldaniga,L. Mazzitelli,1
+Pol Lirola,E. Goldaniga,1
+A. Consigli,D. Berardi,1
+A. Ragusa,F. Peluso,1

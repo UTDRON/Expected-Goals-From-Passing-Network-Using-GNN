@@ -1,0 +1,21 @@
+Source,Target,Weight
+Andreas Pereira,Jos\u00e9 Gay\u00e1,2
+Montoya,Gon\u00e7alo Guedes,2
+Carlos Soler,E. Garay,1
+Dani Parejo,Carlos Soler,1
+Rodrigo,Montoya,1
+Gabriel,Dani Parejo,1
+Gabriel,Gon\u00e7alo Guedes,1
+Jos\u00e9 Gay\u00e1,Gabriel,1
+Dani Parejo,Gabriel,1
+Carlos Soler,Dani Parejo,1
+Gon\u00e7alo Guedes,Jos\u00e9 Gay\u00e1,1
+Gabriel,Andreas Pereira,1
+E. Garay,Montoya,1
+S. Zaza,Gabriel,1
+Jos\u00e9 Gay\u00e1,Andreas Pereira,1
+E. Garay,S. Zaza,1
+Montoya,S. Zaza,1
+Gon\u00e7alo Guedes,Carlos Soler,1
+Jos\u00e9 Gay\u00e1,Rodrigo,1
+S. Zaza,Montoya,1

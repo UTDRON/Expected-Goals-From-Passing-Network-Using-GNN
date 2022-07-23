@@ -1,0 +1,79 @@
+Source,Target,Weight
+A. Ferrari,S. Calvano,9
+S. Calvano,A. Ferrari,7
+D. Verde,S. Calvano,5
+M. B\u00fcchel,B. Petkovi\u0107,5
+M. B\u00fcchel,M. Fares,5
+B. Petkovi\u0107,M. B\u00fcchel,5
+J. Vukovi\u0107,M. Fares,5
+Nicolas,B. Petkovi\u0107,5
+A. Ferrari,M. B\u00fcchel,4
+M. Fares,J. Vukovi\u0107,4
+B. Petkovi\u0107,M. Fares,4
+G. Felicioli,M. Fares,4
+M. Fares,B. Petkovi\u0107,4
+M. B\u00fcchel,J. Vukovi\u0107,4
+A. Caracciolo,Nicolas,3
+A. Caracciolo,A. Ferrari,3
+M. Fares,A. Ferrari,3
+M. Fares,M. B\u00fcchel,3
+B. Petkovi\u0107,A. Ferrari,3
+Ryder Matos,M. Fares,3
+A. Ferrari,D. Verde,3
+M. Fares,G. Felicioli,3
+A. Ferrari,B. Petkovi\u0107,3
+S. Calvano,D. Verde,3
+A. Caracciolo,M. B\u00fcchel,3
+M. Fares,Nicolas,3
+S. Calvano,Ryder Matos,3
+M. Fares,D. Verde,2
+S. Calvano,J. Vukovi\u0107,2
+S. Calvano,A. Caracciolo,2
+Ryder Matos,J. Vukovi\u0107,2
+M. Fares,A. Caracciolo,2
+D. Verde,M. Fares,2
+A. Ferrari,A. Caracciolo,2
+A. Caracciolo,J. Vukovi\u0107,2
+J. Vukovi\u0107,A. Ferrari,2
+J. Vukovi\u0107,Nicolas,2
+M. B\u00fcchel,Nicolas,2
+S. Calvano,M. B\u00fcchel,2
+D. Verde,A. Caracciolo,2
+D. Verde,Ryder Matos,2
+J. Vukovi\u0107,M. B\u00fcchel,2
+G. Felicioli,A. Ferrari,2
+J. Vukovi\u0107,D. Verde,2
+Nicolas,J. Vukovi\u0107,2
+B. Petkovi\u0107,G. Felicioli,2
+Nicolas,M. Fares,2
+S. Calvano,G. Felicioli,2
+J. Vukovi\u0107,S. Calvano,2
+M. B\u00fcchel,A. Caracciolo,2
+A. Ferrari,Ryder Matos,1
+D. Verde,M. B\u00fcchel,1
+M. B\u00fcchel,G. Felicioli,1
+D. Verde,B. Petkovi\u0107,1
+Ryder Matos,M. B\u00fcchel,1
+Ryder Matos,G. Felicioli,1
+D. Verde,Nicolas,1
+M. Fares,Ryder Matos,1
+G. Felicioli,D. Verde,1
+Ryder Matos,A. Ferrari,1
+Ryder Matos,S. Calvano,1
+B. Petkovi\u0107,A. Caracciolo,1
+B. Petkovi\u0107,Ryder Matos,1
+Ryder Matos,A. Caracciolo,1
+M. B\u00fcchel,A. Ferrari,1
+G. Felicioli,S. Calvano,1
+Ryder Matos,D. Verde,1
+Nicolas,Ryder Matos,1
+J. Vukovi\u0107,G. Felicioli,1
+A. Caracciolo,Ryder Matos,1
+B. Petkovi\u0107,D. Verde,1
+B. Petkovi\u0107,S. Calvano,1
+G. Felicioli,Ryder Matos,1
+M. B\u00fcchel,S. Calvano,1
+A. Caracciolo,S. Calvano,1
+G. Felicioli,J. Vukovi\u0107,1
+Nicolas,A. Caracciolo,1
+J. Vukovi\u0107,A. Caracciolo,1

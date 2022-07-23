@@ -1,0 +1,88 @@
+Source,Target,Weight
+Diego Rico,Gabriel,7
+E. Mu\u00f1oz,Diego Rico,6
+Diego Rico,E. Mu\u00f1oz,6
+Gumbau,Bustinza,5
+M. Mantovani,E. Mu\u00f1oz,5
+Bustinza,Omar Ramos,5
+Ra\u00fal Garc\u00eda,Gumbau,5
+Diego Rico,Ra\u00fal Garc\u00eda,4
+Eraso,M. Mantovani,4
+Omar Ramos,Bustinza,4
+Gabriel,Diego Rico,4
+Diego Rico,M. Mantovani,4
+Gumbau,Diego Rico,4
+Omar Ramos,Ra\u00fal Garc\u00eda,4
+N. Amrabat,Bustinza,3
+Gabriel,Gumbau,3
+Omar Ramos,Diego Rico,3
+E. Mu\u00f1oz,Gabriel,3
+Bustinza,Gumbau,3
+Mozo,Omar Ramos,3
+E. Mu\u00f1oz,M. Mantovani,3
+Ra\u00fal Garc\u00eda,Bustinza,3
+Gabriel,Ra\u00fal Garc\u00eda,3
+Omar Ramos,Gumbau,3
+Gabriel,E. Mu\u00f1oz,3
+Bustinza,N. Amrabat,3
+Gabriel,M. Mantovani,3
+Gabriel,Omar Ramos,3
+Ra\u00fal Garc\u00eda,Gabriel,3
+Ra\u00fal Garc\u00eda,Omar Ramos,3
+M. Mantovani,Bustinza,3
+M. Mantovani,Diego Rico,3
+M. Mantovani,Cu\u00e9llar,2
+Bustinza,M. Mantovani,2
+Mozo,Eraso,2
+E. Mu\u00f1oz,Gumbau,2
+Gumbau,Eraso,2
+Bustinza,Eraso,2
+E. Mu\u00f1oz,Ra\u00fal Garc\u00eda,2
+Eraso,Omar Ramos,2
+Gabriel,Guerrero,2
+Ra\u00fal Garc\u00eda,Diego Rico,2
+Cu\u00e9llar,Gabriel,2
+E. Mu\u00f1oz,Mozo,2
+Guerrero,Gabriel,2
+Bustinza,Ra\u00fal Garc\u00eda,2
+Cu\u00e9llar,Diego Rico,2
+Gumbau,Gabriel,2
+Omar Ramos,Eraso,2
+Diego Rico,Cu\u00e9llar,2
+Diego Rico,Eraso,1
+Omar Ramos,N. Amrabat,1
+Gumbau,Omar Ramos,1
+Omar Ramos,M. Mantovani,1
+Gumbau,Ra\u00fal Garc\u00eda,1
+Guerrero,Bustinza,1
+Gumbau,E. Mu\u00f1oz,1
+Eraso,Bustinza,1
+Bustinza,Gabriel,1
+Gumbau,M. Mantovani,1
+Eraso,Guerrero,1
+Guerrero,Gumbau,1
+M. Mantovani,Mozo,1
+M. Mantovani,Omar Ramos,1
+Bustinza,E. Mu\u00f1oz,1
+M. Mantovani,Guerrero,1
+Eraso,Gumbau,1
+Gumbau,Cu\u00e9llar,1
+Cu\u00e9llar,Eraso,1
+Mozo,M. Mantovani,1
+Guerrero,Mozo,1
+Ra\u00fal Garc\u00eda,Mozo,1
+Gumbau,Guerrero,1
+Eraso,N. Amrabat,1
+Diego Rico,Guerrero,1
+Omar Ramos,E. Mu\u00f1oz,1
+M. Mantovani,Eraso,1
+Cu\u00e9llar,Omar Ramos,1
+Guerrero,Ra\u00fal Garc\u00eda,1
+N. Amrabat,Cu\u00e9llar,1
+Guerrero,Diego Rico,1
+M. Mantovani,Gumbau,1
+Eraso,Ra\u00fal Garc\u00eda,1
+Omar Ramos,Guerrero,1
+M. Mantovani,Gabriel,1
+Bustinza,Mozo,1
+Ra\u00fal Garc\u00eda,E. Mu\u00f1oz,1

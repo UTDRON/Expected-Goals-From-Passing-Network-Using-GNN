@@ -1,0 +1,51 @@
+Source,Target,Weight
+L. Digne,S. Umtiti,5
+S. Umtiti,I. Rakiti\u0107,5
+S. Umtiti,L. Digne,5
+L. Digne,Iniesta,4
+I. Rakiti\u0107,J. Mascherano,4
+N\u00e9lson Semedo,Paulinho,4
+Paulinho,L. Messi,3
+Paulinho,N\u00e9lson Semedo,3
+L. Messi,Paulinho,3
+S. Umtiti,J. Mascherano,3
+I. Rakiti\u0107,S. Umtiti,3
+J. Mascherano,S. Umtiti,2
+Paulinho,Iniesta,2
+L. Messi,Sergi Roberto,2
+Sergi Roberto,L. Messi,2
+Paulinho,S. Umtiti,2
+S. Umtiti,Iniesta,2
+Sergi Roberto,Paulinho,2
+I. Rakiti\u0107,L. Digne,2
+Iniesta,S. Umtiti,2
+N\u00e9lson Semedo,Sergi Roberto,2
+L. Messi,N\u00e9lson Semedo,2
+J. Mascherano,Paulinho,2
+J. Mascherano,I. Rakiti\u0107,2
+Iniesta,Paco Alc\u00e1cer,1
+Paulinho,Sergi Roberto,1
+N\u00e9lson Semedo,J. Mascherano,1
+Paulinho,J. Mascherano,1
+J. Mascherano,Sergi Roberto,1
+L. Messi,L. Digne,1
+J. Mascherano,N\u00e9lson Semedo,1
+Iniesta,L. Su\u00e1rez,1
+N\u00e9lson Semedo,I. Rakiti\u0107,1
+Sergio Busquets,N\u00e9lson Semedo,1
+Iniesta,L. Digne,1
+N\u00e9lson Semedo,L. Messi,1
+Iniesta,Paulinho,1
+S. Umtiti,Sergio Busquets,1
+Iniesta,N\u00e9lson Semedo,1
+L. Su\u00e1rez,L. Messi,1
+Sergi Roberto,N\u00e9lson Semedo,1
+Iniesta,Sergi Roberto,1
+I. Rakiti\u0107,L. Messi,1
+L. Digne,I. Rakiti\u0107,1
+Paco Alc\u00e1cer,S. Umtiti,1
+S. Umtiti,L. Su\u00e1rez,1
+J. Mascherano,Iniesta,1
+Sergi Roberto,L. Digne,1
+L. Su\u00e1rez,S. Umtiti,1
+Iniesta,I. Rakiti\u0107,1

@@ -1,0 +1,66 @@
+Source,Target,Weight
+R. Mandragora,B. Martella,6
+B. Martella,R. Mandragora,6
+M. Sampirisi,M. Trotta,4
+M. Rohd\u00e9n,M. Sampirisi,4
+M. Trotta,A. Barberis,3
+A. Barberis,M. Sampirisi,3
+A. Cordaz,Simy,3
+A. Cordaz,R. Mandragora,3
+R. Mandragora,A. Stoian,3
+R. Mandragora,F. Ceccherini,3
+B. Martella,F. Ceccherini,2
+R. Mandragora,A. Cordaz,2
+F. Ceccherini,M. Trotta,2
+F. Ceccherini,A. Cordaz,2
+M. Sampirisi,R. Mandragora,2
+A. Barberis,R. Mandragora,2
+Simy,R. Mandragora,2
+A. Stoian,Simy,2
+F. Ceccherini,A. Barberis,2
+F. Ceccherini,B. Martella,2
+A. Ajeti,A. Cordaz,2
+M. Trotta,F. Ceccherini,2
+Simy,A. Barberis,2
+Simy,M. Trotta,2
+R. Mandragora,A. Barberis,2
+A. Stoian,M. Rohd\u00e9n,2
+M. Sampirisi,A. Ajeti,2
+A. Stoian,M. Sampirisi,2
+Simy,B. Martella,2
+A. Barberis,M. Rohd\u00e9n,2
+M. Sampirisi,A. Stoian,1
+R. Mandragora,M. Trotta,1
+A. Barberis,Simy,1
+A. Stoian,B. Martella,1
+A. Stoian,A. Barberis,1
+M. Rohd\u00e9n,F. Ceccherini,1
+A. Cordaz,B. Martella,1
+M. Trotta,A. Stoian,1
+M. Rohd\u00e9n,A. Stoian,1
+A. Barberis,M. Trotta,1
+B. Martella,Simy,1
+M. Trotta,A. Cordaz,1
+M. Sampirisi,A. Barberis,1
+A. Cordaz,M. Sampirisi,1
+B. Martella,M. Trotta,1
+A. Barberis,A. Ajeti,1
+A. Ajeti,M. Sampirisi,1
+B. Martella,M. Rohd\u00e9n,1
+A. Ajeti,A. Barberis,1
+Simy,A. Stoian,1
+A. Barberis,A. Stoian,1
+Simy,A. Ajeti,1
+B. Martella,A. Cordaz,1
+F. Ceccherini,A. Stoian,1
+A. Stoian,R. Mandragora,1
+M. Trotta,M. Rohd\u00e9n,1
+M. Sampirisi,F. Ceccherini,1
+F. Ceccherini,M. Sampirisi,1
+R. Mandragora,Simy,1
+M. Trotta,Simy,1
+M. Trotta,R. Mandragora,1
+M. Sampirisi,Simy,1
+B. Martella,A. Ajeti,1
+A. Barberis,B. Martella,1
+A. Ajeti,R. Mandragora,1

@@ -1,0 +1,56 @@
+Source,Target,Weight
+D. Faraoni,M. Diaby,4
+A. Stoian,B. Martella,3
+M. Diaby,A. Barberis,3
+M. Diaby,D. Faraoni,3
+M. Rohd\u00e9n,A. Stoian,3
+A. Stoian,M. Rohd\u00e9n,3
+A. Barberis,D. Faraoni,2
+A. Barberis,Simy,2
+D. Faraoni,A. Stoian,2
+A. Stoian,Simy,2
+M. Rohd\u00e9n,B. Martella,2
+A. Cordaz,A. Barberis,2
+R. Mandragora,D. Faraoni,2
+Simy,A. Barberis,2
+B. Martella,M. Capuano,2
+M. Rohd\u00e9n,M. Diaby,2
+B. Martella,D. Faraoni,2
+A. Barberis,A. Stoian,1
+M. Capuano,R. Mandragora,1
+A. Barberis,R. Mandragora,1
+M. Diaby,M. Capuano,1
+F. Ceccherini,A. Barberis,1
+F. Ceccherini,M. Capuano,1
+M. Capuano,A. Stoian,1
+M. Rohd\u00e9n,M. Capuano,1
+D. Faraoni,F. Ceccherini,1
+A. Stoian,D. Faraoni,1
+D. Faraoni,Simy,1
+M. Diaby,A. Stoian,1
+D. Faraoni,M. Rohd\u00e9n,1
+A. Barberis,M. Rohd\u00e9n,1
+M. Diaby,F. Ceccherini,1
+D. Faraoni,B. Martella,1
+Simy,B. Martella,1
+M. Diaby,R. Mandragora,1
+M. Diaby,Simy,1
+B. Martella,A. Barberis,1
+B. Martella,A. Stoian,1
+Simy,M. Diaby,1
+B. Martella,M. Rohd\u00e9n,1
+B. Martella,A. Cordaz,1
+D. Faraoni,A. Cordaz,1
+B. Martella,M. Diaby,1
+F. Ceccherini,M. Diaby,1
+A. Barberis,M. Diaby,1
+Simy,A. Stoian,1
+M. Capuano,B. Martella,1
+M. Capuano,D. Faraoni,1
+A. Barberis,B. Martella,1
+M. Capuano,A. Cordaz,1
+M. Capuano,F. Ceccherini,1
+A. Cordaz,M. Rohd\u00e9n,1
+M. Diaby,M. Rohd\u00e9n,1
+A. Stoian,M. Diaby,1
+R. Mandragora,M. Diaby,1

@@ -1,0 +1,20 @@
+Source,Target,Weight
+N. Tomovi\u0107,F. Cacciatore,2
+M. Gobbi,S. Bastien,1
+F. Cacciatore,R. Inglese,1
+R. Inglese,M. Gobbi,1
+M. Gobbi,R. Inglese,1
+V. Birsa,M. Gobbi,1
+I. Radovanovi\u0107,N. Tomovi\u0107,1
+S. Bastien,M. Gobbi,1
+S. Bastien,L. Castro,1
+V. Birsa,S. Bastien,1
+L. Castro,M. Gobbi,1
+M. Gobbi,N. Tomovi\u0107,1
+L. Castro,V. Birsa,1
+R. Inglese,R. Meggiorini,1
+N. Tomovi\u0107,L. Castro,1
+F. Cacciatore,R. Meggiorini,1
+M. Gobbi,V. Birsa,1
+R. Meggiorini,S. Bastien,1
+R. Meggiorini,I. Radovanovi\u0107,1

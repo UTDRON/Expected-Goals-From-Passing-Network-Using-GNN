@@ -1,0 +1,24 @@
+Source,Target,Weight
+N. Amrabat,Gabriel,3
+Diego Rico,Jos\u00e9 Naranjo,3
+Jos\u00e9 Naranjo,N. Amrabat,2
+Eraso,N. Amrabat,2
+C. Beauvue,Tito,1
+Bustinza,Cu\u00e9llar,1
+Tito,C. Beauvue,1
+Gabriel,Eraso,1
+Ra\u00fal Garc\u00eda,Tito,1
+Cu\u00e9llar,Eraso,1
+Ra\u00fal Garc\u00eda,Rub\u00e9n P\u00e9rez,1
+Rub\u00e9n P\u00e9rez,Ra\u00fal Garc\u00eda,1
+Tito,Ra\u00fal Garc\u00eda,1
+Tito,Diego Rico,1
+N. Amrabat,Diego Rico,1
+Gabriel,N. Amrabat,1
+N. Amrabat,Jos\u00e9 Naranjo,1
+Diego Rico,Gabriel,1
+Gabriel,N. El Zhar,1
+Jos\u00e9 Naranjo,Diego Rico,1
+Gabriel,Rub\u00e9n P\u00e9rez,1
+Jos\u00e9 Naranjo,Bustinza,1
+Rub\u00e9n P\u00e9rez,Tito,1

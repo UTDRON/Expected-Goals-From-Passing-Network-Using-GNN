@@ -1,0 +1,50 @@
+Source,Target,Weight
+A. Stoian,D. Pavlovic,4
+D. Pavlovic,F. Ceccherini,3
+R. Mandragora,A. Stoian,3
+S. Simi\u010d,F. Ceccherini,3
+M. Sampirisi,A. Barberis,3
+S. Simi\u010d,M. Sampirisi,3
+A. Romero,M. Sampirisi,3
+M. Sampirisi,A. Romero,2
+D. Pavlovic,A. Romero,2
+A. Stoian,R. Mandragora,2
+A. Romero,S. Simi\u010d,2
+D. Pavlovic,A. Stoian,2
+F. Ceccherini,S. Simi\u010d,2
+R. Mandragora,Simy,2
+R. Mandragora,A. Romero,2
+S. Simi\u010d,R. Mandragora,2
+F. Ceccherini,M. Trotta,1
+A. Barberis,R. Mandragora,1
+R. Mandragora,M. Sampirisi,1
+A. Barberis,A. Romero,1
+A. Barberis,Simy,1
+F. Ceccherini,A. Romero,1
+F. Ceccherini,D. Pavlovic,1
+A. Cordaz,R. Mandragora,1
+M. Trotta,A. Barberis,1
+F. Ceccherini,R. Mandragora,1
+M. Sampirisi,S. Simi\u010d,1
+Simy,D. Pavlovic,1
+Simy,A. Stoian,1
+A. Romero,D. Pavlovic,1
+A. Stoian,M. Trotta,1
+A. Barberis,M. Trotta,1
+A. Cordaz,S. Simi\u010d,1
+Simy,A. Barberis,1
+A. Romero,A. Stoian,1
+A. Barberis,A. Stoian,1
+M. Trotta,S. Simi\u010d,1
+D. Pavlovic,R. Mandragora,1
+A. Romero,A. Cordaz,1
+D. Pavlovic,M. Trotta,1
+A. Romero,R. Mandragora,1
+R. Mandragora,D. Pavlovic,1
+M. Sampirisi,A. Cordaz,1
+R. Mandragora,S. Simi\u010d,1
+M. Trotta,D. Pavlovic,1
+M. Sampirisi,R. Mandragora,1
+M. Trotta,A. Romero,1
+A. Stoian,Simy,1
+F. Ceccherini,M. Sampirisi,1

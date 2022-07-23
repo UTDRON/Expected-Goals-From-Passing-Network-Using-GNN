@@ -1,0 +1,25 @@
+Source,Target,Weight
+D. Cataldi,A. Costa,2
+A. Costa,M. D'Alessandro,1
+M. Coda,A. Costa,1
+M. D'Alessandro,G. Letizia,1
+L. Del Pinto,M. Coda,1
+L. Del Pinto,G. Pu\u015fca\u015f,1
+A. Ciciretti,L. Del Pinto,1
+G. Letizia,G. Pu\u015fca\u015f,1
+M. D'Alessandro,A. Ciciretti,1
+G. Pu\u015fca\u015f,M. D'Alessandro,1
+F. Lucioni,V. Belec,1
+V. Belec,F. Lucioni,1
+G. Pu\u015fca\u015f,D. Cataldi,1
+V. Belec,A. Costa,1
+M. D'Alessandro,G. Pu\u015fca\u015f,1
+A. Costa,G. Letizia,1
+G. Letizia,D. Cataldi,1
+A. Costa,D. Cataldi,1
+D. Cataldi,G. Letizia,1
+G. Pu\u015fca\u015f,A. Ciciretti,1
+G. Letizia,M. D'Alessandro,1
+A. Costa,V. Belec,1
+D. Cataldi,L. Del Pinto,1
+A. Ciciretti,D. Cataldi,1

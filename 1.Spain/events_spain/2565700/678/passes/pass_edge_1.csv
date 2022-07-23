@@ -1,0 +1,90 @@
+Source,Target,Weight
+De Marcos,Lekue,7
+Iago Herrer\u00edn,Aduriz,6
+Ra\u00fal Garc\u00eda,San Jos\u00e9,6
+Lekue,San Jos\u00e9,6
+Lekue,De Marcos,5
+Mikel Rico,A. Laporte,5
+Susaeta,Balenziaga,5
+Aduriz,Balenziaga,5
+Unai N\u00fa\u00f1ez,A. Laporte,5
+San Jos\u00e9,Mikel Rico,5
+Ra\u00fal Garc\u00eda,Susaeta,5
+A. Laporte,Mikel Rico,5
+Mikel Rico,Iago Herrer\u00edn,4
+Iago Herrer\u00edn,Ra\u00fal Garc\u00eda,4
+Unai N\u00fa\u00f1ez,Lekue,4
+A. Laporte,Susaeta,4
+Mikel Rico,Ra\u00fal Garc\u00eda,4
+Susaeta,Unai N\u00fa\u00f1ez,4
+Aduriz,Ra\u00fal Garc\u00eda,4
+Balenziaga,Aduriz,4
+San Jos\u00e9,Susaeta,4
+Susaeta,Mikel Rico,4
+Ra\u00fal Garc\u00eda,Lekue,4
+Susaeta,De Marcos,4
+San Jos\u00e9,A. Laporte,3
+Ra\u00fal Garc\u00eda,Unai N\u00fa\u00f1ez,3
+Balenziaga,Ra\u00fal Garc\u00eda,3
+A. Laporte,Iago Herrer\u00edn,3
+Lekue,Ra\u00fal Garc\u00eda,3
+Balenziaga,Iago Herrer\u00edn,3
+Lekue,Aduriz,3
+Lekue,Iago Herrer\u00edn,3
+Mikel Rico,Susaeta,3
+A. Laporte,Balenziaga,3
+Susaeta,Lekue,3
+San Jos\u00e9,Unai N\u00fa\u00f1ez,3
+Balenziaga,A. Laporte,3
+De Marcos,San Jos\u00e9,2
+Unai N\u00fa\u00f1ez,Susaeta,2
+A. Laporte,Unai N\u00fa\u00f1ez,2
+Lekue,Susaeta,2
+Unai N\u00fa\u00f1ez,Aduriz,2
+Mikel Rico,San Jos\u00e9,2
+Aduriz,Susaeta,2
+Balenziaga,Susaeta,2
+San Jos\u00e9,Aduriz,2
+Ra\u00fal Garc\u00eda,De Marcos,2
+San Jos\u00e9,Lekue,2
+A. Laporte,Ra\u00fal Garc\u00eda,2
+De Marcos,Susaeta,2
+Iago Herrer\u00edn,Unai N\u00fa\u00f1ez,2
+Unai N\u00fa\u00f1ez,De Marcos,2
+Iago Herrer\u00edn,Lekue,2
+Susaeta,Ra\u00fal Garc\u00eda,2
+Balenziaga,Lekue,2
+San Jos\u00e9,Balenziaga,2
+Aduriz,Mikel Rico,2
+Susaeta,San Jos\u00e9,2
+Aduriz,Unai N\u00fa\u00f1ez,2
+Lekue,Mikel Rico,2
+Susaeta,Aduriz,1
+Balenziaga,Unai N\u00fa\u00f1ez,1
+Iago Herrer\u00edn,Mikel Rico,1
+Mikel Rico,Lekue,1
+Mikel Rico,Balenziaga,1
+Susaeta,A. Laporte,1
+Lekue,Balenziaga,1
+Balenziaga,San Jos\u00e9,1
+Aduriz,Lekue,1
+Ra\u00fal Garc\u00eda,Iago Herrer\u00edn,1
+Unai N\u00fa\u00f1ez,San Jos\u00e9,1
+Iago Herrer\u00edn,A. Laporte,1
+Aduriz,De Marcos,1
+Aduriz,Iago Herrer\u00edn,1
+De Marcos,Balenziaga,1
+Aduriz,San Jos\u00e9,1
+Mikel Rico,Aduriz,1
+Aduriz,A. Laporte,1
+De Marcos,Mikel Rico,1
+San Jos\u00e9,Iago Herrer\u00edn,1
+De Marcos,Aduriz,1
+Unai N\u00fa\u00f1ez,Iago Herrer\u00edn,1
+Ra\u00fal Garc\u00eda,Balenziaga,1
+A. Laporte,San Jos\u00e9,1
+Unai N\u00fa\u00f1ez,Balenziaga,1
+Mikel Rico,Unai N\u00fa\u00f1ez,1
+Iago Herrer\u00edn,Susaeta,1
+Lekue,A. Laporte,1
+Balenziaga,Mikel Rico,1

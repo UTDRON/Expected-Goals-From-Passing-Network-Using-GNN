@@ -1,0 +1,66 @@
+Source,Target,Weight
+Sidnei,F. Valverde,5
+Rub\u00e9n,F. Sch\u00e4r,5
+Fede Cartabia,Juanfran,4
+Juanfran,Fede Cartabia,4
+Fede Cartabia,Fernando Navarro,3
+C. Borges,Guilherme,3
+Fernando Navarro,Sidnei,3
+Sidnei,C. Borges,3
+F. Sch\u00e4r,Rub\u00e9n,3
+Guilherme,F. Valverde,3
+Juanfran,C. Borges,3
+F. Valverde,Sidnei,3
+Guilherme,Juanfran,3
+F. Sch\u00e4r,Juanfran,3
+Lucas P\u00e9rez,Adri\u00e1n L\u00f3pez,2
+F. Sch\u00e4r,Fede Cartabia,2
+Juanfran,Guilherme,2
+Adri\u00e1n L\u00f3pez,Lucas P\u00e9rez,2
+F. Sch\u00e4r,Sidnei,2
+F. Valverde,Lucas P\u00e9rez,2
+Juanfran,F. Valverde,2
+F. Valverde,Guilherme,2
+Sidnei,F. Sch\u00e4r,2
+C. Borges,Juanfran,2
+Rub\u00e9n,C. Borges,2
+F. Sch\u00e4r,Guilherme,2
+F. Valverde,F. Sch\u00e4r,2
+Sidnei,Rub\u00e9n,2
+C. Borges,Adri\u00e1n L\u00f3pez,2
+F. Valverde,Rub\u00e9n,2
+Fernando Navarro,Fede Cartabia,1
+Rub\u00e9n,Fede Cartabia,1
+Sidnei,Fede Cartabia,1
+F. Sch\u00e4r,Adri\u00e1n L\u00f3pez,1
+Rub\u00e9n,F. Valverde,1
+Guilherme,Rub\u00e9n,1
+Adri\u00e1n L\u00f3pez,Rub\u00e9n,1
+Fede Cartabia,Guilherme,1
+Fernando Navarro,F. Sch\u00e4r,1
+C. Borges,Sidnei,1
+Guilherme,F. Sch\u00e4r,1
+Fede Cartabia,F. Sch\u00e4r,1
+Guilherme,Sidnei,1
+Fernando Navarro,F. Valverde,1
+Adri\u00e1n L\u00f3pez,F. Sch\u00e4r,1
+Juanfran,Adri\u00e1n L\u00f3pez,1
+Juanfran,F. Sch\u00e4r,1
+Adri\u00e1n L\u00f3pez,Fernando Navarro,1
+Adri\u00e1n L\u00f3pez,Juanfran,1
+Lucas P\u00e9rez,Juanfran,1
+Fede Cartabia,C. Borges,1
+C. Borges,F. Valverde,1
+Fernando Navarro,Lucas P\u00e9rez,1
+C. Borges,Fernando Navarro,1
+Juanfran,Lucas P\u00e9rez,1
+F. Valverde,C. Borges,1
+Fede Cartabia,Rub\u00e9n,1
+Lucas P\u00e9rez,C. Borges,1
+Lucas P\u00e9rez,Fede Cartabia,1
+F. Valverde,Adri\u00e1n L\u00f3pez,1
+C. Borges,Fede Cartabia,1
+F. Sch\u00e4r,Fernando Navarro,1
+Lucas P\u00e9rez,Sidnei,1
+Rub\u00e9n,Sidnei,1
+Guilherme,Fernando Navarro,1

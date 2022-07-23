@@ -1,0 +1,50 @@
+Source,Target,Weight
+C. Santos,M. Wakaso,5
+Rub\u00e9n Sobrino,C. Santos,4
+Alexis,Rub\u00e9n Sobrino,3
+M. Wakaso,C. Santos,3
+Manu Garc\u00eda,M. Wakaso,3
+M. Wakaso,Rub\u00e9n Sobrino,3
+M. Wakaso,Burgui,3
+M. Wakaso,Alexis,3
+Carlos Vigaray,Rub\u00e9n Sobrino,3
+Ibai G\u00f3mez,M. Wakaso,3
+Rub\u00e9n Sobrino,M. Wakaso,2
+Rub\u00e9n Sobrino,Carlos Vigaray,2
+Alexis,Rodrigo Ely,2
+Fernando Pacheco,Alexis,2
+Manu Garc\u00eda,Alfonso Pedraza,2
+C. Santos,Rub\u00e9n Sobrino,2
+Alexis,Fernando Pacheco,2
+M. Wakaso,Manu Garc\u00eda,2
+Rodrigo Ely,Alexis,2
+Rub\u00e9n Sobrino,Alexis,2
+Burgui,Ibai G\u00f3mez,2
+Alfonso Pedraza,Manu Garc\u00eda,2
+Fernando Pacheco,Rub\u00e9n Sobrino,1
+Ibai G\u00f3mez,Alfonso Pedraza,1
+C. Santos,Manu Garc\u00eda,1
+Rub\u00e9n Sobrino,Ibai G\u00f3mez,1
+M. Wakaso,Rodrigo Ely,1
+Fernando Pacheco,C. Santos,1
+Carlos Vigaray,M. Wakaso,1
+Alexis,C. Santos,1
+Alfonso Pedraza,M. Wakaso,1
+Burgui,Carlos Vigaray,1
+Ibai G\u00f3mez,Manu Garc\u00eda,1
+M. Wakaso,Fernando Pacheco,1
+Manu Garc\u00eda,Rub\u00e9n Sobrino,1
+Rodrigo Ely,M. Wakaso,1
+Alexis,Manu Garc\u00eda,1
+Alfonso Pedraza,Fernando Pacheco,1
+M. Wakaso,Carlos Vigaray,1
+Rodrigo Ely,Fernando Pacheco,1
+Carlos Vigaray,Alfonso Pedraza,1
+Manu Garc\u00eda,C. Santos,1
+Fernando Pacheco,Ibai G\u00f3mez,1
+C. Santos,Rodrigo Ely,1
+Alexis,Carlos Vigaray,1
+Rub\u00e9n Sobrino,Burgui,1
+Manu Garc\u00eda,Ibai G\u00f3mez,1
+Burgui,Alexis,1
+Rub\u00e9n Sobrino,Manu Garc\u00eda,1

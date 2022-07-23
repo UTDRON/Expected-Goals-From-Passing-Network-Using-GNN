@@ -1,0 +1,46 @@
+Source,Target,Weight
+F. Fajr,Antunes,4
+Bruno,F. Fajr,4
+D. Su\u00e1rez,Sergio Mora,4
+F. Fajr,Bruno,3
+Sergio Mora,Portillo,3
+Antunes,Dani Pacheco,3
+F. Fajr,D. Su\u00e1rez,2
+\u00c1ngel,Bruno,2
+Sergio Mora,F. Fajr,2
+Bruno,Sergio Mora,2
+Antunes,F. Fajr,2
+Djen\u00e9,D. Su\u00e1rez,2
+Guaita,Jorge Molina,2
+Sergio Mora,Bruno,2
+Antunes,\u00c1ngel,1
+Portillo,\u00c1ngel,1
+Dani Pacheco,Guaita,1
+Sergio Mora,Djen\u00e9,1
+Bruno,Djen\u00e9,1
+\u00c1ngel,Portillo,1
+Sergio Mora,\u00c1ngel,1
+Bruno,Guaita,1
+Dani Pacheco,F. Fajr,1
+D. Su\u00e1rez,Portillo,1
+Jorge Molina,F. Fajr,1
+Portillo,Bruno,1
+Djen\u00e9,Jorge Molina,1
+Jorge Molina,Sergio Mora,1
+Portillo,D. Su\u00e1rez,1
+F. Fajr,\u00c1ngel,1
+D. Su\u00e1rez,Jorge Molina,1
+F. Fajr,Guaita,1
+Portillo,F. Fajr,1
+\u00c1ngel,Antunes,1
+\u00c1ngel,D. Su\u00e1rez,1
+F. Fajr,Sergio Mora,1
+Dani Pacheco,\u00c1ngel,1
+D. Su\u00e1rez,F. Fajr,1
+Jorge Molina,Djen\u00e9,1
+Portillo,Sergio Mora,1
+F. Fajr,Dani Pacheco,1
+Dani Pacheco,Antunes,1
+Jorge Molina,D. Su\u00e1rez,1
+Djen\u00e9,F. Fajr,1
+Guaita,Djen\u00e9,1

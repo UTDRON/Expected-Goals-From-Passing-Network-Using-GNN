@@ -1,0 +1,25 @@
+Source,Target,Weight
+R. Mandragora,Simy,2
+Simy,A. Nalini,2
+A. Barberis,F. Ceccherini,2
+F. Ceccherini,A. Barberis,1
+F. Ceccherini,D. Faraoni,1
+A. Nalini,Simy,1
+B. Martella,M. Trotta,1
+A. Cordaz,A. Nalini,1
+D. Faraoni,M. Trotta,1
+A. Barberis,A. Cordaz,1
+M. Trotta,D. Faraoni,1
+Simy,A. Barberis,1
+M. Trotta,A. Barberis,1
+Simy,B. Martella,1
+D. Faraoni,A. Barberis,1
+B. Martella,M. Capuano,1
+D. Faraoni,Simy,1
+F. Ceccherini,R. Mandragora,1
+M. Rohd\u00e9n,D. Faraoni,1
+A. Barberis,Simy,1
+M. Capuano,F. Ceccherini,1
+A. Nalini,R. Mandragora,1
+A. Nalini,B. Martella,1
+Simy,M. Trotta,1

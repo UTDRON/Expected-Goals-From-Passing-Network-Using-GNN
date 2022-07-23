@@ -1,0 +1,37 @@
+Source,Target,Weight
+Nolito,Pablo Sarabia,5
+G. Pizarro,N. Pareja,3
+N. Pareja,Nolito,2
+G. Pizarro,F. V\u00e1zquez,2
+Pablo Sarabia,Nolito,2
+M. Lay\u00fan,G. Pizarro,1
+Pablo Sarabia,N. Pareja,1
+L. Muriel,N. Pareja,1
+N. Pareja,F. V\u00e1zquez,1
+W. Ben Yedder,M. Lay\u00fan,1
+G. Pizarro,M. Lay\u00fan,1
+Nolito,L. Muriel,1
+G. Pizarro,C. Lenglet,1
+W. Ben Yedder,N. Pareja,1
+L. Muriel,David Soria,1
+David Soria,Roque Mesa,1
+Pablo Sarabia,G. Pizarro,1
+C. Lenglet,G. Pizarro,1
+Roque Mesa,G. Pizarro,1
+N. Pareja,G. Pizarro,1
+Roque Mesa,Pablo Sarabia,1
+C. Lenglet,W. Ben Yedder,1
+David Soria,Pablo Sarabia,1
+F. V\u00e1zquez,W. Ben Yedder,1
+N. Pareja,David Soria,1
+L. Muriel,Pablo Sarabia,1
+F. V\u00e1zquez,Nolito,1
+F. V\u00e1zquez,G. Pizarro,1
+N. Pareja,L. Muriel,1
+Pablo Sarabia,L. Muriel,1
+Pablo Sarabia,Roque Mesa,1
+Pablo Sarabia,C. Lenglet,1
+W. Ben Yedder,Pablo Sarabia,1
+L. Muriel,Nolito,1
+M. Lay\u00fan,L. Muriel,1
+Pablo Sarabia,W. Ben Yedder,1

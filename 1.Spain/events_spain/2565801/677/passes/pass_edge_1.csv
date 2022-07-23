@@ -1,0 +1,77 @@
+Source,Target,Weight
+M. Krohn-Dehli,Pedro Mosquera,8
+Pedro Mosquera,S. Muntari,6
+Adri\u00e1n L\u00f3pez,S. Muntari,6
+Pedro Mosquera,Adri\u00e1n L\u00f3pez,6
+S. Muntari,Pedro Mosquera,6
+F. Sch\u00e4r,Juanfran,6
+Luisinho,Adri\u00e1n L\u00f3pez,5
+Juanfran,M. Krohn-Dehli,5
+Juanfran,Z. Bakkali,5
+Adri\u00e1n L\u00f3pez,Pedro Mosquera,5
+S. Muntari,M. Krohn-Dehli,5
+Z. Bakkali,Juanfran,5
+S. Muntari,Luisinho,4
+Z. Bakkali,S. Muntari,4
+Pedro Mosquera,Luisinho,4
+S. Muntari,Adri\u00e1n L\u00f3pez,4
+B\u00f3veda,F. Sch\u00e4r,3
+Luisinho,B\u00f3veda,3
+Lucas P\u00e9rez,Adri\u00e1n L\u00f3pez,3
+Juanfran,F. Sch\u00e4r,3
+M. Krohn-Dehli,F. Sch\u00e4r,3
+Pedro Mosquera,Z. Bakkali,3
+Luisinho,Pedro Mosquera,3
+Lucas P\u00e9rez,Juanfran,3
+F. Sch\u00e4r,Luisinho,3
+Adri\u00e1n L\u00f3pez,Juanfran,3
+F. Sch\u00e4r,S. Muntari,3
+Z. Bakkali,M. Krohn-Dehli,2
+Pedro Mosquera,B\u00f3veda,2
+F. Sch\u00e4r,Adri\u00e1n L\u00f3pez,2
+Luisinho,S. Muntari,2
+Adri\u00e1n L\u00f3pez,F. Sch\u00e4r,2
+F. Sch\u00e4r,M. Krohn-Dehli,2
+S. Muntari,F. Sch\u00e4r,2
+Lucas P\u00e9rez,F. Sch\u00e4r,2
+Juanfran,Rub\u00e9n,2
+Juanfran,S. Muntari,2
+Rub\u00e9n,Luisinho,2
+Adri\u00e1n L\u00f3pez,Luisinho,2
+B\u00f3veda,M. Krohn-Dehli,2
+M. Krohn-Dehli,Juanfran,2
+B\u00f3veda,S. Muntari,2
+B\u00f3veda,Luisinho,2
+Luisinho,Lucas P\u00e9rez,2
+Juanfran,Lucas P\u00e9rez,2
+Juanfran,B\u00f3veda,2
+Pedro Mosquera,Lucas P\u00e9rez,2
+S. Muntari,Lucas P\u00e9rez,2
+Lucas P\u00e9rez,S. Muntari,1
+Juanfran,Luisinho,1
+Luisinho,Juanfran,1
+Lucas P\u00e9rez,Pedro Mosquera,1
+M. Krohn-Dehli,Rub\u00e9n,1
+S. Muntari,Juanfran,1
+Adri\u00e1n L\u00f3pez,B\u00f3veda,1
+Z. Bakkali,Lucas P\u00e9rez,1
+Luisinho,F. Sch\u00e4r,1
+S. Muntari,Rub\u00e9n,1
+Adri\u00e1n L\u00f3pez,Lucas P\u00e9rez,1
+S. Muntari,B\u00f3veda,1
+Rub\u00e9n,F. Sch\u00e4r,1
+F. Sch\u00e4r,Pedro Mosquera,1
+Luisinho,Z. Bakkali,1
+M. Krohn-Dehli,Z. Bakkali,1
+S. Muntari,Z. Bakkali,1
+M. Krohn-Dehli,Lucas P\u00e9rez,1
+Rub\u00e9n,Pedro Mosquera,1
+B\u00f3veda,Rub\u00e9n,1
+Lucas P\u00e9rez,B\u00f3veda,1
+M. Krohn-Dehli,Adri\u00e1n L\u00f3pez,1
+Lucas P\u00e9rez,M. Krohn-Dehli,1
+M. Krohn-Dehli,S. Muntari,1
+Pedro Mosquera,Juanfran,1
+Pedro Mosquera,F. Sch\u00e4r,1
+F. Sch\u00e4r,Z. Bakkali,1
+Rub\u00e9n,Lucas P\u00e9rez,1

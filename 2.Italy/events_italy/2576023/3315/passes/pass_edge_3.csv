@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Duncan,S. Missiroli,3
+S. Missiroli,S. Sensi,3
+S. Sensi,Pol Lirola,2
+S. Sensi,A. Duncan,2
+S. Missiroli,A. Duncan,2
+D. Berardi,A. Duncan,2
+Pol Lirola,F. Acerbi,1
+S. Sensi,D. Berardi,1
+A. Duncan,D. Berardi,1
+Pol Lirola,S. Missiroli,1
+S. Missiroli,C. Adjapong,1
+F. Acerbi,S. Sensi,1
+C. Adjapong,S. Missiroli,1
+A. Duncan,C. Adjapong,1
+F. Acerbi,S. Missiroli,1
+C. Adjapong,Pol Lirola,1
+A. Duncan,S. Sensi,1
+S. Sensi,A. Matri,1
+S. Sensi,F. Acerbi,1
+A. Matri,S. Sensi,1
+Pol Lirola,S. Sensi,1

@@ -1,0 +1,42 @@
+Source,Target,Weight
+Montoya,Santi Mina,3
+Santi Mina,Rodrigo,2
+Rodrigo,Santi Mina,2
+Rodrigo,Carlos Soler,2
+Neto,Santi Mina,2
+Santi Mina,Montoya,2
+Rodrigo,Montoya,1
+Rodrigo,Toni Lato,1
+Andreas Pereira,Neto,1
+N. Maksimovi\u0107,Montoya,1
+Rodrigo,Andreas Pereira,1
+S. Zaza,Gabriel,1
+Gabriel,S. Zaza,1
+Gabriel,N. Maksimovi\u0107,1
+Dani Parejo,Rodrigo,1
+Gon\u00e7alo Guedes,Rodrigo,1
+Carlos Soler,Montoya,1
+Carlos Soler,Andreas Pereira,1
+Montoya,Neto,1
+Montoya,Gabriel,1
+Rodrigo,Gon\u00e7alo Guedes,1
+Santi Mina,Gon\u00e7alo Guedes,1
+Toni Lato,Andreas Pereira,1
+Andreas Pereira,J. Murillo,1
+Santi Mina,Dani Parejo,1
+Carlos Soler,Rodrigo,1
+J. Murillo,Neto,1
+Santi Mina,Toni Lato,1
+S. Zaza,Gon\u00e7alo Guedes,1
+Santi Mina,J. Murillo,1
+Gabriel,Rodrigo,1
+Neto,Andreas Pereira,1
+Montoya,Carlos Soler,1
+J. Murillo,Santi Mina,1
+Andreas Pereira,Gabriel,1
+Toni Lato,Rodrigo,1
+Andreas Pereira,Rodrigo,1
+Gon\u00e7alo Guedes,Montoya,1
+N. Maksimovi\u0107,Andreas Pereira,1
+Gon\u00e7alo Guedes,S. Zaza,1
+Montoya,N. Maksimovi\u0107,1

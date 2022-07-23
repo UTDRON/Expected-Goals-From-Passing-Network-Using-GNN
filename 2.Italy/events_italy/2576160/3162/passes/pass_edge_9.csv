@@ -1,0 +1,52 @@
+Source,Target,Weight
+Bastos,S. de Vrij,3
+S. Luli\u0107,Felipe Anderson,3
+S. de Vrij,Wallace,3
+T. Strakosha,Wallace,3
+Bastos,T. Strakosha,3
+M. Parolo,Bastos,3
+S. de Vrij,M. Parolo,3
+Felipe Anderson,S. Luli\u0107,2
+M. Parolo,S. de Vrij,2
+Wallace,S. de Vrij,2
+Wallace,S. Luli\u0107,2
+S. de Vrij,Bastos,2
+A. Maru\u0161i\u0107,Luis Alberto,2
+Wallace,S. Milinkovi\u0107-Savi\u0107,2
+Bastos,A. Maru\u0161i\u0107,2
+A. Maru\u0161i\u0107,Felipe Anderson,2
+Luis Alberto,S. Luli\u0107,2
+S. Luli\u0107,Lucas Leiva,1
+S. Milinkovi\u0107-Savi\u0107,Bastos,1
+Luis Alberto,C. Immobile,1
+Felipe Anderson,Luis Alberto,1
+Lucas Leiva,Wallace,1
+Luis Alberto,T. Strakosha,1
+Lucas Leiva,C. Immobile,1
+Luis Alberto,M. Parolo,1
+Lucas Leiva,Bastos,1
+Felipe Anderson,M. Parolo,1
+S. Milinkovi\u0107-Savi\u0107,Luis Alberto,1
+Luis Alberto,Bastos,1
+Felipe Anderson,Bastos,1
+S. Luli\u0107,Luis Alberto,1
+S. de Vrij,Luis Alberto,1
+C. Immobile,S. Milinkovi\u0107-Savi\u0107,1
+S. Milinkovi\u0107-Savi\u0107,Lucas Leiva,1
+Bastos,S. Milinkovi\u0107-Savi\u0107,1
+Bastos,Luis Alberto,1
+A. Maru\u0161i\u0107,Bastos,1
+S. Luli\u0107,Wallace,1
+Luis Alberto,Felipe Anderson,1
+Wallace,Luis Alberto,1
+T. Strakosha,S. de Vrij,1
+S. Milinkovi\u0107-Savi\u0107,Felipe Anderson,1
+Felipe Anderson,A. Maru\u0161i\u0107,1
+C. Immobile,S. Luli\u0107,1
+S. Milinkovi\u0107-Savi\u0107,S. de Vrij,1
+T. Strakosha,S. Milinkovi\u0107-Savi\u0107,1
+Wallace,Lucas Leiva,1
+S. Luli\u0107,M. Parolo,1
+M. Parolo,A. Maru\u0161i\u0107,1
+S. Luli\u0107,T. Strakosha,1
+Luis Alberto,A. Maru\u0161i\u0107,1

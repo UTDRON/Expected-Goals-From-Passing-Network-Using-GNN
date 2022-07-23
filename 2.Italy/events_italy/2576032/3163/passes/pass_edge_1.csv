@@ -1,0 +1,87 @@
+Source,Target,Weight
+Samir,J. Jankto,7
+S. Widmer,R. de Paul,7
+Samir,Maxi L\u00f3pez,7
+Maxi L\u00f3pez,J. Jankto,6
+B. Nuytinck,Samir,6
+A. Bar\u00e1k,S. Widmer,5
+Samir,B. Nuytinck,5
+A. Bizzarri,Maxi L\u00f3pez,5
+Samir,S. Widmer,5
+S. Widmer,Maxi L\u00f3pez,5
+A. Bar\u00e1k,Samir,5
+S. Widmer,Samir,5
+R. de Paul,Samir,4
+Maxi L\u00f3pez,S. Widmer,4
+Maxi L\u00f3pez,G. Angella,4
+J. Jankto,A. Bar\u00e1k,4
+K. Lasagna,A. Bar\u00e1k,4
+G. Angella,S. Widmer,4
+Samir,A. Bar\u00e1k,3
+J. Jankto,Samir,3
+G. Angella,R. de Paul,3
+G. Angella,Samir,3
+R. de Paul,A. Bar\u00e1k,3
+J. Jankto,S. Fofana,3
+Samir,K. Lasagna,3
+S. Fofana,R. de Paul,3
+J. Jankto,K. Lasagna,3
+A. Bar\u00e1k,R. de Paul,3
+Maxi L\u00f3pez,Samir,3
+J. Jankto,A. Bizzarri,3
+R. de Paul,S. Fofana,3
+B. Nuytinck,K. Lasagna,3
+K. Lasagna,G. Angella,3
+S. Fofana,J. Jankto,3
+B. Nuytinck,S. Widmer,2
+S. Widmer,S. Fofana,2
+R. de Paul,G. Angella,2
+G. Angella,A. Bar\u00e1k,2
+B. Nuytinck,S. Fofana,2
+G. Angella,Maxi L\u00f3pez,2
+G. Angella,B. Nuytinck,2
+Maxi L\u00f3pez,K. Lasagna,2
+K. Lasagna,Samir,2
+A. Bizzarri,G. Angella,2
+A. Bar\u00e1k,J. Jankto,2
+Maxi L\u00f3pez,B. Nuytinck,2
+R. de Paul,S. Widmer,2
+A. Bar\u00e1k,A. Bizzarri,2
+J. Jankto,Maxi L\u00f3pez,2
+S. Widmer,B. Nuytinck,2
+J. Jankto,G. Angella,2
+R. de Paul,Maxi L\u00f3pez,2
+Maxi L\u00f3pez,R. de Paul,2
+A. Bar\u00e1k,G. Angella,2
+S. Fofana,B. Nuytinck,1
+K. Lasagna,R. de Paul,1
+S. Fofana,A. Bizzarri,1
+K. Lasagna,A. Bizzarri,1
+J. Jankto,S. Widmer,1
+B. Nuytinck,A. Bizzarri,1
+S. Fofana,Maxi L\u00f3pez,1
+S. Fofana,A. Bar\u00e1k,1
+A. Bar\u00e1k,K. Lasagna,1
+Maxi L\u00f3pez,S. Fofana,1
+B. Nuytinck,A. Bar\u00e1k,1
+K. Lasagna,Maxi L\u00f3pez,1
+S. Fofana,S. Widmer,1
+J. Jankto,B. Nuytinck,1
+A. Bizzarri,A. Bar\u00e1k,1
+A. Bizzarri,K. Lasagna,1
+K. Lasagna,B. Nuytinck,1
+R. de Paul,A. Bizzarri,1
+G. Angella,A. Bizzarri,1
+A. Bizzarri,J. Jankto,1
+B. Nuytinck,J. Jankto,1
+Maxi L\u00f3pez,A. Bar\u00e1k,1
+K. Lasagna,J. Jankto,1
+A. Bizzarri,S. Widmer,1
+A. Bar\u00e1k,B. Nuytinck,1
+R. de Paul,B. Nuytinck,1
+S. Widmer,K. Lasagna,1
+R. de Paul,J. Jankto,1
+S. Widmer,A. Bar\u00e1k,1
+S. Widmer,A. Bizzarri,1
+Samir,S. Fofana,1
+S. Widmer,G. Angella,1

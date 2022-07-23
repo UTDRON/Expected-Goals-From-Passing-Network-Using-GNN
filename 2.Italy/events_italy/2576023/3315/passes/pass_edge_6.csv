@@ -1,0 +1,19 @@
+Source,Target,Weight
+Pol Lirola,P. Cannavaro,2
+M. Politano,Pol Lirola,2
+D. Berardi,M. Politano,2
+A. Duncan,D. Berardi,1
+P. Cannavaro,A. Duncan,1
+A. Duncan,C. Adjapong,1
+Pol Lirola,M. Politano,1
+P. Cannavaro,M. Politano,1
+M. Politano,A. Consigli,1
+Pol Lirola,F. Acerbi,1
+A. Consigli,Pol Lirola,1
+D. Berardi,C. Adjapong,1
+D. Berardi,A. Duncan,1
+F. Acerbi,D. Berardi,1
+S. Sensi,D. Berardi,1
+C. Adjapong,S. Sensi,1
+C. Adjapong,D. Berardi,1
+S. Sensi,Pol Lirola,1

@@ -1,0 +1,75 @@
+Source,Target,Weight
+J. Stryger Larsen,S. Widmer,5
+Ali Adnan,Maxi L\u00f3pez,5
+A. Bizzarri,Ali Adnan,4
+K. Lasagna,Maxi L\u00f3pez,4
+Samir,Danilo,4
+S. Widmer,J. Stryger Larsen,4
+Danilo,K. Lasagna,3
+Maxi L\u00f3pez,Danilo,3
+Danilo,J. Stryger Larsen,3
+Maxi L\u00f3pez,K. Lasagna,3
+Danilo,Samir,3
+Samir,S. Fofana,3
+Danilo,A. Bizzarri,3
+J. Stryger Larsen,Danilo,3
+A. Bizzarri,Danilo,3
+K. Lasagna,Ali Adnan,3
+A. Bar\u00e1k,Samir,3
+Maxi L\u00f3pez,Ali Adnan,2
+V. Behrami,Samir,2
+Danilo,Maxi L\u00f3pez,2
+Ali Adnan,Danilo,2
+Samir,A. Bar\u00e1k,2
+Danilo,Ali Adnan,2
+Maxi L\u00f3pez,S. Widmer,2
+J. Stryger Larsen,K. Lasagna,2
+Ali Adnan,Samir,2
+S. Widmer,Maxi L\u00f3pez,2
+Ali Adnan,J. Stryger Larsen,2
+Maxi L\u00f3pez,V. Behrami,2
+S. Fofana,V. Behrami,2
+Danilo,S. Fofana,2
+K. Lasagna,Danilo,2
+Maxi L\u00f3pez,Samir,2
+K. Lasagna,V. Behrami,2
+A. Bar\u00e1k,V. Behrami,2
+V. Behrami,Ali Adnan,2
+Samir,S. Widmer,1
+S. Widmer,A. Bizzarri,1
+V. Behrami,A. Bar\u00e1k,1
+Samir,K. Lasagna,1
+V. Behrami,S. Widmer,1
+S. Widmer,Danilo,1
+J. Stryger Larsen,Samir,1
+J. Stryger Larsen,S. Fofana,1
+K. Lasagna,A. Bar\u00e1k,1
+K. Lasagna,Samir,1
+S. Fofana,J. Stryger Larsen,1
+Ali Adnan,S. Widmer,1
+S. Widmer,V. Behrami,1
+S. Fofana,A. Bizzarri,1
+Danilo,V. Behrami,1
+S. Fofana,S. Widmer,1
+S. Widmer,S. Fofana,1
+Ali Adnan,K. Lasagna,1
+Ali Adnan,A. Bar\u00e1k,1
+S. Widmer,A. Bar\u00e1k,1
+Samir,A. Bizzarri,1
+S. Fofana,K. Lasagna,1
+Samir,J. Stryger Larsen,1
+V. Behrami,Danilo,1
+S. Fofana,Samir,1
+A. Bar\u00e1k,K. Lasagna,1
+A. Bizzarri,K. Lasagna,1
+V. Behrami,A. Bizzarri,1
+Danilo,A. Bar\u00e1k,1
+A. Bar\u00e1k,Ali Adnan,1
+A. Bar\u00e1k,Danilo,1
+J. Stryger Larsen,A. Bar\u00e1k,1
+V. Behrami,J. Stryger Larsen,1
+Samir,V. Behrami,1
+Samir,Ali Adnan,1
+V. Behrami,S. Fofana,1
+Ali Adnan,A. Bizzarri,1
+V. Behrami,Maxi L\u00f3pez,1

@@ -1,0 +1,35 @@
+Source,Target,Weight
+S. Souprayen,M. Fossati,4
+S. Souprayen,M. Fares,4
+M. Fossati,S. Souprayen,4
+A. Cerci,M. C\u00e1ceres,3
+M. Fossati,T. Heurtaux,2
+R\u00f4mulo,A. Cerci,2
+M. C\u00e1ceres,A. Cerci,2
+T. Heurtaux,R\u00f4mulo,2
+M. C\u00e1ceres,S. Souprayen,2
+B. Zuculini,S. Souprayen,2
+M. C\u00e1ceres,R\u00f4mulo,1
+M. Fares,T. Heurtaux,1
+A. Cerci,T. Heurtaux,1
+R\u00f4mulo,M. Fossati,1
+Nicolas,G. Pazzini,1
+Nicolas,A. Cerci,1
+A. Caracciolo,Nicolas,1
+M. Fares,B. Zuculini,1
+T. Heurtaux,M. Fossati,1
+G. Pazzini,S. Souprayen,1
+M. Fares,M. Fossati,1
+S. Souprayen,T. Heurtaux,1
+M. Fares,S. Souprayen,1
+T. Heurtaux,A. Caracciolo,1
+G. Pazzini,M. Fares,1
+Nicolas,M. C\u00e1ceres,1
+T. Heurtaux,Nicolas,1
+M. Fossati,M. Fares,1
+R\u00f4mulo,Nicolas,1
+Nicolas,A. Caracciolo,1
+A. Cerci,R\u00f4mulo,1
+A. Caracciolo,M. C\u00e1ceres,1
+S. Souprayen,Nicolas,1
+M. Fares,G. Pazzini,1

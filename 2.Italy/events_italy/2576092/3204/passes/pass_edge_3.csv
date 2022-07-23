@@ -1,0 +1,72 @@
+Source,Target,Weight
+F. Mattiello,L. Rizzo,4
+S. V\u00e4is\u00e4nen,A. Grassi,4
+S. V\u00e4is\u00e4nen,M. Lazzari,4
+F. Vicari,S. V\u00e4is\u00e4nen,4
+Felipe,L. Rizzo,4
+A. Grassi,P. Schiattarella,3
+A. Grassi,S. V\u00e4is\u00e4nen,3
+L. Rizzo,F. Mattiello,3
+F. Bonazzoli,F. Mattiello,3
+M. Lazzari,F. Bonazzoli,3
+F. Mattiello,A. Paloschi,3
+P. Schiattarella,M. Lazzari,3
+S. V\u00e4is\u00e4nen,F. Vicari,3
+S. V\u00e4is\u00e4nen,P. Schiattarella,3
+F. Vicari,A. Gomis,2
+F. Bonazzoli,S. V\u00e4is\u00e4nen,2
+L. Rizzo,F. Vicari,2
+M. Lazzari,F. Vicari,2
+A. Paloschi,F. Mattiello,2
+M. Lazzari,S. V\u00e4is\u00e4nen,2
+P. Schiattarella,S. V\u00e4is\u00e4nen,2
+F. Vicari,Felipe,2
+P. Schiattarella,L. Rizzo,2
+L. Rizzo,Felipe,2
+L. Rizzo,A. Paloschi,2
+F. Mattiello,Felipe,2
+P. Schiattarella,F. Mattiello,2
+F. Mattiello,F. Bonazzoli,2
+A. Paloschi,P. Schiattarella,2
+A. Gomis,M. Lazzari,2
+P. Schiattarella,F. Bonazzoli,1
+F. Bonazzoli,L. Rizzo,1
+F. Bonazzoli,A. Grassi,1
+F. Mattiello,M. Lazzari,1
+P. Schiattarella,F. Vicari,1
+M. Lazzari,Felipe,1
+A. Gomis,P. Schiattarella,1
+F. Bonazzoli,F. Vicari,1
+Felipe,F. Mattiello,1
+Felipe,A. Paloschi,1
+A. Grassi,M. Lazzari,1
+F. Vicari,F. Mattiello,1
+M. Lazzari,A. Paloschi,1
+A. Grassi,A. Gomis,1
+A. Paloschi,L. Rizzo,1
+F. Bonazzoli,A. Gomis,1
+A. Paloschi,M. Lazzari,1
+A. Grassi,F. Bonazzoli,1
+P. Schiattarella,Felipe,1
+A. Paloschi,A. Grassi,1
+M. Lazzari,A. Grassi,1
+L. Rizzo,A. Gomis,1
+F. Mattiello,A. Grassi,1
+A. Grassi,F. Mattiello,1
+L. Rizzo,P. Schiattarella,1
+F. Mattiello,A. Gomis,1
+A. Paloschi,F. Bonazzoli,1
+A. Gomis,A. Paloschi,1
+F. Vicari,P. Schiattarella,1
+A. Gomis,F. Mattiello,1
+M. Lazzari,L. Rizzo,1
+P. Schiattarella,A. Grassi,1
+M. Lazzari,P. Schiattarella,1
+A. Paloschi,S. V\u00e4is\u00e4nen,1
+L. Rizzo,A. Grassi,1
+F. Bonazzoli,P. Schiattarella,1
+A. Grassi,A. Paloschi,1
+L. Rizzo,F. Bonazzoli,1
+A. Gomis,A. Grassi,1
+Felipe,F. Vicari,1
+Felipe,F. Bonazzoli,1

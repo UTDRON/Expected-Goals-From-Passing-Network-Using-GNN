@@ -1,0 +1,19 @@
+Source,Target,Weight
+B. Cristante,N. Haas,2
+H. Hateboer,M. Caldara,2
+R. Orsolini,B. Cristante,2
+B. Cristante,R. Orsolini,1
+A. Cornelius,R. Gosens,1
+N. Haas,R. Orsolini,1
+M. Caldara,E. Berisha,1
+A. G\u00f3mez,R. Gosens,1
+R. Gosens,N. Haas,1
+R. Gosens,R. Freuler,1
+N. Haas,H. Hateboer,1
+N. Haas,B. Cristante,1
+M. Caldara,A. Masiello,1
+R. Freuler,N. Haas,1
+B. Cristante,H. Hateboer,1
+A. Masiello,R. Gosens,1
+E. Berisha,A. Cornelius,1
+R. Gosens,A. G\u00f3mez,1

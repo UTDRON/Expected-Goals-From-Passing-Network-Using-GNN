@@ -1,0 +1,116 @@
+Source,Target,Weight
+M\u00edchel,G\u00e1lvez,9
+Dani Castellano,Nacho Gil,8
+Dani Castellano,Vicente G\u00f3mez,8
+Nacho Gil,Javi Castellano,8
+G\u00e1lvez,M\u00edchel,8
+J. Calleri,Nacho Gil,7
+Vicente G\u00f3mez,J. Calleri,7
+Vicente G\u00f3mez,G\u00e1lvez,6
+Nacho Gil,Dani Castellano,6
+Ximo Navarro,L. Chichizola,5
+M\u00edchel,L. Chichizola,5
+J. Calleri,M\u00edchel,5
+M\u00edchel,Javi Castellano,5
+G\u00e1lvez,Ximo Navarro,5
+G\u00e1lvez,L. Chichizola,5
+Nacho Gil,J. Calleri,5
+Javi Castellano,Dani Castellano,5
+J. Calleri,Dani Castellano,5
+Javi Castellano,M\u00edchel,5
+Javi Castellano,Nacho Gil,5
+Nacho Gil,Ximo Navarro,5
+Dani Castellano,Javi Castellano,4
+L. Chichizola,Dani Castellano,4
+Dani Castellano,L. Chichizola,4
+G\u00e1lvez,Dani Castellano,4
+Dani Castellano,Ximo Navarro,4
+A. Halilovi\u0107,Dani Castellano,4
+Nacho Gil,Vicente G\u00f3mez,4
+M\u00edchel,A. Halilovi\u0107,4
+Vicente G\u00f3mez,Ximo Navarro,4
+Ximo Navarro,M\u00edchel,4
+G\u00e1lvez,Vicente G\u00f3mez,4
+Ximo Navarro,Vicente G\u00f3mez,4
+L. Chichizola,J. Calleri,4
+Javi Castellano,Vicente G\u00f3mez,4
+Vicente G\u00f3mez,Nacho Gil,4
+Ximo Navarro,Javi Castellano,3
+M\u00edchel,Dani Castellano,3
+Jairo Samperio,Ximo Navarro,3
+Ximo Navarro,Nacho Gil,3
+J. Calleri,G\u00e1lvez,3
+G\u00e1lvez,Javi Castellano,3
+A. Halilovi\u0107,Jairo Samperio,3
+Javi Castellano,A. Halilovi\u0107,3
+Javi Castellano,G\u00e1lvez,3
+L. Chichizola,G\u00e1lvez,3
+L. Chichizola,M\u00edchel,3
+Dani Castellano,G\u00e1lvez,3
+I. Ezekiel,Ximo Navarro,2
+Vicente G\u00f3mez,Jairo Samperio,2
+Ximo Navarro,G\u00e1lvez,2
+I. Ezekiel,Javi Castellano,2
+Nacho Gil,M\u00edchel,2
+J. Calleri,Vicente G\u00f3mez,2
+L. Chichizola,Ximo Navarro,2
+L. Chichizola,Nacho Gil,2
+J. Calleri,Javi Castellano,2
+Javi Castellano,Ximo Navarro,2
+Vicente G\u00f3mez,I. Ezekiel,2
+L. Chichizola,A. Halilovi\u0107,2
+Vicente G\u00f3mez,A. Halilovi\u0107,2
+A. Halilovi\u0107,M\u00edchel,2
+Jairo Samperio,Dani Castellano,2
+A. Halilovi\u0107,Vicente G\u00f3mez,2
+Dani Castellano,J. Calleri,2
+M\u00edchel,J. Calleri,2
+Nacho Gil,A. Halilovi\u0107,2
+G\u00e1lvez,Jairo Samperio,2
+G\u00e1lvez,J. Calleri,2
+Javi Castellano,Momo,2
+A. Halilovi\u0107,G\u00e1lvez,2
+Jairo Samperio,A. Halilovi\u0107,2
+Ximo Navarro,Jairo Samperio,2
+A. Halilovi\u0107,Nacho Gil,2
+Vicente G\u00f3mez,Javi Castellano,2
+J. Calleri,A. Halilovi\u0107,1
+G\u00e1lvez,Nacho Gil,1
+A. Halilovi\u0107,J. Calleri,1
+Vicente G\u00f3mez,Momo,1
+Momo,Javi Castellano,1
+Jairo Samperio,M\u00edchel,1
+Vicente G\u00f3mez,Dani Castellano,1
+Momo,Vicente G\u00f3mez,1
+Ximo Navarro,A. Halilovi\u0107,1
+Dani Castellano,I. Ezekiel,1
+Jairo Samperio,Vicente G\u00f3mez,1
+I. Ezekiel,A. Halilovi\u0107,1
+Jairo Samperio,Javi Castellano,1
+Nacho Gil,I. Ezekiel,1
+Javi Castellano,J. Calleri,1
+I. Ezekiel,G\u00e1lvez,1
+Vicente G\u00f3mez,M\u00edchel,1
+L. Chichizola,I. Ezekiel,1
+Nacho Gil,G\u00e1lvez,1
+M\u00edchel,Vicente G\u00f3mez,1
+Momo,Nacho Gil,1
+I. Ezekiel,Momo,1
+M\u00edchel,Jairo Samperio,1
+M\u00edchel,I. Ezekiel,1
+Momo,I. Ezekiel,1
+Javi Castellano,Jairo Samperio,1
+Momo,M\u00edchel,1
+M\u00edchel,Nacho Gil,1
+A. Halilovi\u0107,Javi Castellano,1
+Ximo Navarro,I. Ezekiel,1
+Vicente G\u00f3mez,L. Chichizola,1
+Dani Castellano,Jairo Samperio,1
+Ximo Navarro,J. Calleri,1
+Ximo Navarro,Dani Castellano,1
+Jairo Samperio,L. Chichizola,1
+Jairo Samperio,G\u00e1lvez,1
+Javi Castellano,L. Chichizola,1
+I. Ezekiel,Vicente G\u00f3mez,1
+A. Halilovi\u0107,I. Ezekiel,1
+L. Chichizola,Momo,1

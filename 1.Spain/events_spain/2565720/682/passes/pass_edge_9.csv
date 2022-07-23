@@ -1,0 +1,86 @@
+Source,Target,Weight
+Rodri,Pablo Fornals,7
+Pablo Fornals,Mario,6
+Pablo Fornals,Rodri,5
+Mario,Chuca,4
+Rodri,Mario,4
+Mario,Rodri,4
+Jaume Costa,D. Cheryshev,4
+D. Cheryshev,Jaume Costa,4
+Mario,Pablo Fornals,4
+C. Bacca,Rodri,4
+Chuca,Mario,3
+Chuca,Pablo Fornals,3
+Rodri,C. Bacca,3
+Rodri,Jaume Costa,3
+D. Cheryshev,C. Bacca,3
+Pablo Fornals,Jaume Costa,3
+Pablo Fornals,E. \u00dcnal,3
+D. Cheryshev,Pablo Fornals,3
+Sergio Asenjo,E. \u00dcnal,3
+Jaume Costa,V\u00edctor Ru\u00edz,3
+Jaume Costa,Pablo Fornals,2
+Dani Raba,Pablo Fornals,2
+Jaume Costa,E. \u00dcnal,2
+C. Bacca,D. Cheryshev,2
+V\u00edctor Ru\u00edz,Mario,2
+V\u00edctor Ru\u00edz,Rodri,2
+Mario,\u00c1lvaro Gonz\u00e1lez,2
+E. \u00dcnal,Pablo Fornals,2
+Dani Raba,Rodri,2
+D. Cheryshev,Sergio Asenjo,2
+Jaume Costa,Rodri,2
+D. Cheryshev,Rodri,2
+Pablo Fornals,D. Cheryshev,2
+V\u00edctor Ru\u00edz,Jaume Costa,2
+Pablo Fornals,Dani Raba,2
+\u00c1lvaro Gonz\u00e1lez,Sergio Asenjo,2
+E. \u00dcnal,Jaume Costa,2
+\u00c1lvaro Gonz\u00e1lez,Dani Raba,2
+V\u00edctor Ru\u00edz,Sergio Asenjo,2
+Rodri,D. Cheryshev,2
+E. \u00dcnal,D. Cheryshev,2
+E. \u00dcnal,\u00c1lvaro Gonz\u00e1lez,2
+Mario,Dani Raba,2
+Sergio Asenjo,D. Cheryshev,2
+C. Bacca,Dani Raba,1
+C. Bacca,E. \u00dcnal,1
+Sergio Asenjo,Dani Raba,1
+C. Bacca,Jaume Costa,1
+Dani Raba,Jaume Costa,1
+D. Cheryshev,Mario,1
+Sergio Asenjo,Jaume Costa,1
+E. \u00dcnal,C. Bacca,1
+Jaume Costa,Dani Raba,1
+\u00c1lvaro Gonz\u00e1lez,D. Cheryshev,1
+Dani Raba,V\u00edctor Ru\u00edz,1
+Dani Raba,Mario,1
+E. \u00dcnal,V\u00edctor Ru\u00edz,1
+\u00c1lvaro Gonz\u00e1lez,Rodri,1
+Rodri,\u00c1lvaro Gonz\u00e1lez,1
+D. Cheryshev,V\u00edctor Ru\u00edz,1
+Dani Raba,C. Bacca,1
+Pablo Fornals,\u00c1lvaro Gonz\u00e1lez,1
+Jaume Costa,\u00c1lvaro Gonz\u00e1lez,1
+Jaume Costa,C. Bacca,1
+Rodri,E. \u00dcnal,1
+Jaume Costa,Sergio Asenjo,1
+D. Cheryshev,\u00c1lvaro Gonz\u00e1lez,1
+\u00c1lvaro Gonz\u00e1lez,Jaume Costa,1
+Chuca,V\u00edctor Ru\u00edz,1
+Pablo Fornals,Chuca,1
+Pablo Fornals,V\u00edctor Ru\u00edz,1
+Mario,E. \u00dcnal,1
+Sergio Asenjo,V\u00edctor Ru\u00edz,1
+\u00c1lvaro Gonz\u00e1lez,Chuca,1
+E. \u00dcnal,Rodri,1
+Pablo Fornals,Sergio Asenjo,1
+Sergio Asenjo,Pablo Fornals,1
+Chuca,D. Cheryshev,1
+Dani Raba,D. Cheryshev,1
+Rodri,Chuca,1
+Jaume Costa,Chuca,1
+V\u00edctor Ru\u00edz,Pablo Fornals,1
+\u00c1lvaro Gonz\u00e1lez,Mario,1
+Rodri,V\u00edctor Ru\u00edz,1
+V\u00edctor Ru\u00edz,\u00c1lvaro Gonz\u00e1lez,1

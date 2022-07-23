@@ -1,0 +1,72 @@
+Source,Target,Weight
+\u00c1lex Alegr\u00eda,Campa\u00f1a,5
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,4
+To\u00f1o,Campa\u00f1a,4
+Rober,To\u00f1o,4
+Campa\u00f1a,Rober,4
+To\u00f1o,Rober,4
+Ra\u00fal Fern\u00e1ndez,\u00c1lex Alegr\u00eda,4
+Campa\u00f1a,To\u00f1o,4
+\u00c1lex Alegr\u00eda,Pedro L\u00f3pez,4
+Pedro L\u00f3pez,\u00c1lex Alegr\u00eda,4
+E. Bardhi,To\u00f1o,3
+\u00c1lex Alegr\u00eda,E. Bardhi,3
+Ivi,Campa\u00f1a,3
+Campa\u00f1a,E. Bardhi,3
+Rober,Chema,3
+Campa\u00f1a,Sergio Postigo,3
+Ivi,Jos\u00e9 Luis Morales,3
+Chema,\u00c1lex Alegr\u00eda,3
+To\u00f1o,Jos\u00e9 Luis Morales,3
+Jos\u00e9 Luis Morales,Ivi,3
+Rober,Ra\u00fal Fern\u00e1ndez,3
+E. Bardhi,Campa\u00f1a,3
+Rober,Sergio Postigo,2
+E. Bardhi,Rober,2
+To\u00f1o,Ivi,2
+Jos\u00e9 Luis Morales,Campa\u00f1a,2
+Rober,\u00c1lex Alegr\u00eda,2
+Sergio Postigo,Pedro L\u00f3pez,2
+Sergio Postigo,Ra\u00fal Fern\u00e1ndez,2
+Ivi,Rober,2
+Chema,To\u00f1o,2
+E. Bardhi,Jos\u00e9 Luis Morales,2
+Campa\u00f1a,Ivi,2
+Pedro L\u00f3pez,Rober,2
+Sergio Postigo,Chema,2
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,2
+\u00c1lex Alegr\u00eda,Ra\u00fal Fern\u00e1ndez,1
+Rober,Jos\u00e9 Luis Morales,1
+Ivi,E. Bardhi,1
+Ra\u00fal Fern\u00e1ndez,E. Bardhi,1
+Pedro L\u00f3pez,Campa\u00f1a,1
+Rober,E. Bardhi,1
+Chema,E. Bardhi,1
+Pedro L\u00f3pez,Ivi,1
+Ivi,Chema,1
+Rober,Campa\u00f1a,1
+Pedro L\u00f3pez,E. Bardhi,1
+Campa\u00f1a,Pedro L\u00f3pez,1
+\u00c1lex Alegr\u00eda,Ivi,1
+Jos\u00e9 Luis Morales,E. Bardhi,1
+Campa\u00f1a,\u00c1lex Alegr\u00eda,1
+Jos\u00e9 Luis Morales,Rober,1
+To\u00f1o,Pedro L\u00f3pez,1
+Sergio Postigo,Jos\u00e9 Luis Morales,1
+Ra\u00fal Fern\u00e1ndez,Campa\u00f1a,1
+Campa\u00f1a,Ra\u00fal Fern\u00e1ndez,1
+Jos\u00e9 Luis Morales,Sergio Postigo,1
+Pedro L\u00f3pez,Ra\u00fal Fern\u00e1ndez,1
+Ra\u00fal Fern\u00e1ndez,Sergio Postigo,1
+Campa\u00f1a,Chema,1
+Ra\u00fal Fern\u00e1ndez,Rober,1
+Chema,Rober,1
+Sergio Postigo,\u00c1lex Alegr\u00eda,1
+Chema,Sergio Postigo,1
+Ivi,To\u00f1o,1
+To\u00f1o,Chema,1
+E. Bardhi,\u00c1lex Alegr\u00eda,1
+Ra\u00fal Fern\u00e1ndez,Ivi,1
+E. Bardhi,Ivi,1
+Jos\u00e9 Luis Morales,To\u00f1o,1
+\u00c1lex Alegr\u00eda,Jos\u00e9 Luis Morales,1

@@ -1,0 +1,29 @@
+Source,Target,Weight
+F. Acerbi,M. Lemos,2
+Rog\u00e9rio,A. Duncan,2
+F. Peluso,Rog\u00e9rio,2
+A. Duncan,D. Berardi,1
+F. Acerbi,Rog\u00e9rio,1
+F. Magnanelli,F. Acerbi,1
+F. Peluso,A. Consigli,1
+A. Duncan,F. Magnanelli,1
+D. Berardi,F. Magnanelli,1
+S. Missiroli,D. Berardi,1
+M. Lemos,F. Acerbi,1
+K. Babacar,S. Missiroli,1
+A. Duncan,F. Peluso,1
+F. Magnanelli,K. Babacar,1
+F. Magnanelli,A. Duncan,1
+A. Consigli,S. Missiroli,1
+M. Politano,F. Peluso,1
+Rog\u00e9rio,F. Peluso,1
+M. Lemos,F. Magnanelli,1
+D. Berardi,K. Babacar,1
+A. Duncan,F. Acerbi,1
+M. Lemos,F. Peluso,1
+K. Babacar,F. Magnanelli,1
+F. Magnanelli,M. Politano,1
+Rog\u00e9rio,M. Lemos,1
+F. Magnanelli,M. Lemos,1
+F. Peluso,A. Duncan,1
+S. Missiroli,F. Magnanelli,1

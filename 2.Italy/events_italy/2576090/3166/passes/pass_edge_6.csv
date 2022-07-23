@@ -1,0 +1,21 @@
+Source,Target,Weight
+G. Donsah,A. Poli,2
+D. Maietta,A. Mirante,1
+A. Poli,D. Maietta,1
+S. Verdi,I. M'baye,1
+M. Destro,G. Donsah,1
+S. De Maio,D. Maietta,1
+R. Palacio,V. Torosidis,1
+A. Mirante,M. Destro,1
+M. Destro,V. Torosidis,1
+V. Torosidis,M. Destro,1
+V. Torosidis,G. Donsah,1
+V. Torosidis,D. Maietta,1
+D. Maietta,G. Donsah,1
+I. M'baye,S. De Maio,1
+A. Poli,R. Palacio,1
+G. Donsah,I. M'baye,1
+G. Donsah,V. Torosidis,1
+D. Maietta,V. Torosidis,1
+R. Palacio,S. Verdi,1
+V. Torosidis,R. Palacio,1

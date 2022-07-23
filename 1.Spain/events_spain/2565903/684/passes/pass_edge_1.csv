@@ -1,0 +1,118 @@
+Source,Target,Weight
+Javi Garc\u00eda,Jordi Amat,18
+Javi Garc\u00eda,Bartra,18
+Cristian Tello,Jordi Amat,17
+Jordi Amat,Javi Garc\u00eda,16
+Bartra,Javi Garc\u00eda,14
+Jordi Amat,Cristian Tello,14
+Fabi\u00e1n,Javi Garc\u00eda,12
+Bartra,R. Durmisi,10
+Fabi\u00e1n,R. Durmisi,10
+J. Firpo,Bartra,10
+Fabi\u00e1n,Joaqu\u00edn,10
+Joaqu\u00edn,Fabi\u00e1n,9
+R. Durmisi,Fabi\u00e1n,9
+R. Durmisi,Bartra,9
+Joaqu\u00edn,Javi Garc\u00eda,9
+V\u00edctor Camarasa,Fabi\u00e1n,9
+Cristian Tello,Fabi\u00e1n,8
+Bartra,Fabi\u00e1n,8
+Joaqu\u00edn,R. Durmisi,8
+R. Durmisi,Joaqu\u00edn,8
+Bartra,Joaqu\u00edn,7
+Bartra,Jordi Amat,7
+Fabi\u00e1n,Pedro L\u00f3pez,7
+Fabi\u00e1n,Bartra,7
+Jordi Amat,V\u00edctor Camarasa,6
+Fabi\u00e1n,Cristian Tello,6
+Pedro L\u00f3pez,Jordi Amat,6
+Jordi Amat,Fabi\u00e1n,6
+Jordi Amat,Joaqu\u00edn,6
+Joaqu\u00edn,Jordi Amat,5
+Joaqu\u00edn,Bartra,5
+Bartra,J. Firpo,5
+R. Durmisi,Pedro L\u00f3pez,5
+Cristian Tello,Bartra,5
+A. Sanabria,Fabi\u00e1n,5
+Fabi\u00e1n,Jordi Amat,5
+Pedro L\u00f3pez,Fabi\u00e1n,5
+Loren Mor\u00f3n,Cristian Tello,5
+Bartra,Pedro L\u00f3pez,5
+Javi Garc\u00eda,J. Firpo,4
+Jordi Amat,Loren Mor\u00f3n,4
+Jordi Amat,Bartra,4
+Pedro L\u00f3pez,Javi Garc\u00eda,4
+Fabi\u00e1n,J. Firpo,4
+Javi Garc\u00eda,Fabi\u00e1n,4
+Loren Mor\u00f3n,A. Sanabria,4
+Bartra,A. Sanabria,4
+V\u00edctor Camarasa,Loren Mor\u00f3n,4
+Javi Garc\u00eda,Cristian Tello,4
+Joaqu\u00edn,V\u00edctor Camarasa,4
+Bartra,Cristian Tello,4
+J. Firpo,R. Durmisi,4
+Javi Garc\u00eda,Joaqu\u00edn,4
+Loren Mor\u00f3n,R. Durmisi,3
+A. Sanabria,R. Durmisi,3
+Pedro L\u00f3pez,Joaqu\u00edn,3
+Jordi Amat,Pedro L\u00f3pez,3
+Loren Mor\u00f3n,Bartra,3
+V\u00edctor Camarasa,A. Sanabria,3
+Cristian Tello,Loren Mor\u00f3n,3
+V\u00edctor Camarasa,Cristian Tello,3
+Joaqu\u00edn,Cristian Tello,3
+Pedro L\u00f3pez,V\u00edctor Camarasa,3
+A. Sanabria,Loren Mor\u00f3n,3
+Javi Garc\u00eda,V\u00edctor Camarasa,3
+J. Firpo,Joaqu\u00edn,3
+Cristian Tello,Javi Garc\u00eda,3
+R. Durmisi,A. Sanabria,3
+R. Durmisi,Loren Mor\u00f3n,2
+A. Sanabria,V\u00edctor Camarasa,2
+Pedro L\u00f3pez,R. Durmisi,2
+Fabi\u00e1n,V\u00edctor Camarasa,2
+Cristian Tello,V\u00edctor Camarasa,2
+Javi Garc\u00eda,Pedro L\u00f3pez,2
+Javi Garc\u00eda,A. Sanabria,2
+R. Durmisi,V\u00edctor Camarasa,2
+Pedro L\u00f3pez,Bartra,2
+A. Sanabria,Joaqu\u00edn,2
+A. Sanabria,Bartra,2
+Bartra,Loren Mor\u00f3n,2
+R. Durmisi,J. Firpo,2
+Loren Mor\u00f3n,V\u00edctor Camarasa,2
+Cristian Tello,J. Firpo,2
+V\u00edctor Camarasa,Bartra,2
+Javi Garc\u00eda,Loren Mor\u00f3n,2
+Joaqu\u00edn,Pedro L\u00f3pez,2
+Cristian Tello,Joaqu\u00edn,2
+A. Sanabria,Pedro L\u00f3pez,1
+J. Firpo,Cristian Tello,1
+V\u00edctor Camarasa,Javi Garc\u00eda,1
+V\u00edctor Camarasa,R. Durmisi,1
+Pedro L\u00f3pez,Cristian Tello,1
+Joaqu\u00edn,A. Sanabria,1
+Bartra,V\u00edctor Camarasa,1
+V\u00edctor Camarasa,Jordi Amat,1
+Loren Mor\u00f3n,J. Firpo,1
+Javi Garc\u00eda,R. Durmisi,1
+V\u00edctor Camarasa,Joaqu\u00edn,1
+Cristian Tello,Pedro L\u00f3pez,1
+J. Firpo,Javi Garc\u00eda,1
+R. Durmisi,Jordi Amat,1
+Pedro L\u00f3pez,A. Sanabria,1
+R. Durmisi,Javi Garc\u00eda,1
+Loren Mor\u00f3n,Joaqu\u00edn,1
+A. Sanabria,Jordi Amat,1
+Loren Mor\u00f3n,Fabi\u00e1n,1
+Loren Mor\u00f3n,Pedro L\u00f3pez,1
+Jordi Amat,A. Sanabria,1
+Pedro L\u00f3pez,Loren Mor\u00f3n,1
+A. Sanabria,Cristian Tello,1
+Jordi Amat,R. Durmisi,1
+R. Durmisi,Cristian Tello,1
+Fabi\u00e1n,Loren Mor\u00f3n,1
+Loren Mor\u00f3n,Javi Garc\u00eda,1
+Cristian Tello,A. Sanabria,1
+Joaqu\u00edn,J. Firpo,1
+V\u00edctor Camarasa,Pedro L\u00f3pez,1

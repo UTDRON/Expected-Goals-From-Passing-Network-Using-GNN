@@ -1,0 +1,38 @@
+Source,Target,Weight
+Sergio Escudero,S. N'Zonzi,2
+\u00c9. Banega,Pablo Sarabia,2
+C. Lenglet,S. N'Zonzi,2
+Sergio Escudero,\u00c9. Banega,2
+Nolito,F. V\u00e1zquez,2
+C. Lenglet,Sergio Escudero,2
+F. V\u00e1zquez,Sergio Escudero,2
+C. Lenglet,L. Muriel,2
+Sergio Escudero,C. Lenglet,2
+S. N'Zonzi,Sergio Escudero,2
+L. Muriel,\u00c9. Banega,2
+L. Muriel,Sergio Escudero,1
+F. V\u00e1zquez,Pablo Sarabia,1
+S. N'Zonzi,C. Lenglet,1
+L. Muriel,C. Lenglet,1
+F. V\u00e1zquez,L. Muriel,1
+Pablo Sarabia,C. Lenglet,1
+Sergio Escudero,Nolito,1
+Pablo Sarabia,Sergio Rico,1
+Sergio Rico,S. N'Zonzi,1
+C. Lenglet,Pablo Sarabia,1
+Pablo Sarabia,M. Lay\u00fan,1
+M. Lay\u00fan,Pablo Sarabia,1
+G. Mercado,M. Lay\u00fan,1
+\u00c9. Banega,G. Mercado,1
+C. Lenglet,Nolito,1
+S. N'Zonzi,Nolito,1
+\u00c9. Banega,S. N'Zonzi,1
+Pablo Sarabia,Sergio Escudero,1
+S. N'Zonzi,F. V\u00e1zquez,1
+Nolito,C. Lenglet,1
+S. N'Zonzi,M. Lay\u00fan,1
+Pablo Sarabia,\u00c9. Banega,1
+M. Lay\u00fan,L. Muriel,1
+Sergio Escudero,F. V\u00e1zquez,1
+M. Lay\u00fan,G. Mercado,1
+G. Mercado,C. Lenglet,1

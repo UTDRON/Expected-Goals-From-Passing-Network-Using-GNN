@@ -1,0 +1,37 @@
+Source,Target,Weight
+Aduriz,I\u00f1igo C\u00f3rdoba,3
+Susaeta,Vesga,3
+Balenziaga,I\u00f1igo C\u00f3rdoba,3
+Vesga,Aduriz,2
+Arrizabalaga,Aduriz,2
+I\u00f1igo C\u00f3rdoba,Balenziaga,2
+Susaeta,Lekue,2
+I\u00f1igo C\u00f3rdoba,Susaeta,2
+Lekue,Vesga,2
+Balenziaga,Arrizabalaga,1
+A. Laporte,Unai N\u00fa\u00f1ez,1
+Vesga,Balenziaga,1
+Balenziaga,A. Laporte,1
+A. Laporte,Vesga,1
+Ra\u00fal Garc\u00eda,Susaeta,1
+A. Laporte,Balenziaga,1
+Arrizabalaga,A. Laporte,1
+I\u00f1igo C\u00f3rdoba,Vesga,1
+I\u00f1igo C\u00f3rdoba,Arrizabalaga,1
+Aduriz,Vesga,1
+Vesga,Lekue,1
+Lekue,Arrizabalaga,1
+Vesga,Ra\u00fal Garc\u00eda,1
+Vesga,Arrizabalaga,1
+Vesga,A. Laporte,1
+Ra\u00fal Garc\u00eda,Lekue,1
+Arrizabalaga,Vesga,1
+Arrizabalaga,I\u00f1igo C\u00f3rdoba,1
+I\u00f1igo C\u00f3rdoba,Lekue,1
+Vesga,I\u00f1igo C\u00f3rdoba,1
+A. Laporte,Ra\u00fal Garc\u00eda,1
+I\u00f1igo C\u00f3rdoba,Aduriz,1
+Lekue,Susaeta,1
+Unai N\u00fa\u00f1ez,Arrizabalaga,1
+Lekue,A. Laporte,1
+Aduriz,Susaeta,1

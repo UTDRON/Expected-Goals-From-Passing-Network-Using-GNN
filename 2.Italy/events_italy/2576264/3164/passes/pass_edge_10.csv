@@ -1,0 +1,18 @@
+Source,Target,Weight
+M. Silvestre,E. Viviano,2
+M. Silvestre,D. Praet,2
+D. Praet,J. Sala,1
+G. Ferrari,M. Silvestre,1
+J. Sala,E. Viviano,1
+M. Silvestre,J. Sala,1
+G. Ferrari,V. Regini,1
+G. Caprari,J. Sala,1
+J. Sala,M. Silvestre,1
+J. Sala,G. Caprari,1
+E. Viviano,M. Silvestre,1
+D. Praet,M. Silvestre,1
+E. Viviano,D. Zapata,1
+E. Viviano,G. Ferrari,1
+D. Zapata,D. Praet,1
+V. Regini,G. Ferrari,1
+D. Praet,G. Caprari,1

@@ -1,0 +1,81 @@
+Source,Target,Weight
+Dani Castellano,Hern\u00e1n,6
+Fabio Gonz\u00e1lez,David Sim\u00f3n,6
+Dani Castellano,Jonathan Viera,5
+Hern\u00e1n,Bigas,5
+Hern\u00e1n,Jonathan Viera,5
+Fabio Gonz\u00e1lez,Hern\u00e1n,5
+Hern\u00e1n,Fabio Gonz\u00e1lez,5
+Momo,Dani Castellano,5
+Hern\u00e1n,Momo,5
+Bigas,L. Chichizola,5
+Jonathan Viera,Tana,4
+Jonathan Viera,Momo,4
+Tana,Hern\u00e1n,4
+Momo,Jonathan Viera,4
+Jonathan Viera,Hern\u00e1n,4
+David Sim\u00f3n,Fabio Gonz\u00e1lez,4
+Tana,Fabio Gonz\u00e1lez,4
+Bigas,Momo,3
+Bigas,Hern\u00e1n,3
+L. Chichizola,Hern\u00e1n,3
+David Sim\u00f3n,Tana,3
+Bigas,Dani Castellano,3
+Jonathan Viera,Dani Castellano,3
+M. Lemos,David Sim\u00f3n,3
+Dani Castellano,Bigas,3
+Momo,J. Calleri,3
+Hern\u00e1n,L. Chichizola,3
+J. Calleri,Bigas,2
+Fabio Gonz\u00e1lez,Tana,2
+J. Calleri,Jonathan Viera,2
+M. Lemos,Momo,2
+L. Chichizola,Fabio Gonz\u00e1lez,2
+David Sim\u00f3n,L. Chichizola,2
+L. Chichizola,Bigas,2
+Hern\u00e1n,M. Lemos,2
+Momo,Hern\u00e1n,2
+Hern\u00e1n,David Sim\u00f3n,2
+M. Lemos,Bigas,2
+Bigas,Jonathan Viera,2
+Momo,Bigas,2
+David Sim\u00f3n,M. Lemos,2
+Hern\u00e1n,Dani Castellano,2
+Tana,Jonathan Viera,2
+Fabio Gonz\u00e1lez,M. Lemos,2
+Jonathan Viera,J. Calleri,2
+Bigas,M. Lemos,2
+Jonathan Viera,M. Lemos,2
+David Sim\u00f3n,J. Calleri,2
+M. Lemos,Hern\u00e1n,2
+Tana,David Sim\u00f3n,2
+J. Calleri,Dani Castellano,2
+M. Lemos,Dani Castellano,2
+L. Chichizola,M. Lemos,1
+M. Lemos,Fabio Gonz\u00e1lez,1
+Fabio Gonz\u00e1lez,Momo,1
+David Sim\u00f3n,Momo,1
+David Sim\u00f3n,Hern\u00e1n,1
+Dani Castellano,Momo,1
+Momo,L. Chichizola,1
+J. Calleri,Momo,1
+J. Calleri,L. Chichizola,1
+Fabio Gonz\u00e1lez,J. Calleri,1
+Momo,Fabio Gonz\u00e1lez,1
+L. Chichizola,Jonathan Viera,1
+David Sim\u00f3n,Bigas,1
+Fabio Gonz\u00e1lez,Dani Castellano,1
+L. Chichizola,Tana,1
+Dani Castellano,J. Calleri,1
+Dani Castellano,David Sim\u00f3n,1
+M. Lemos,Tana,1
+Momo,M. Lemos,1
+L. Chichizola,Momo,1
+Jonathan Viera,David Sim\u00f3n,1
+Bigas,Fabio Gonz\u00e1lez,1
+Dani Castellano,Tana,1
+Hern\u00e1n,Tana,1
+J. Calleri,David Sim\u00f3n,1
+Jonathan Viera,Bigas,1
+L. Chichizola,J. Calleri,1
+Tana,M. Lemos,1

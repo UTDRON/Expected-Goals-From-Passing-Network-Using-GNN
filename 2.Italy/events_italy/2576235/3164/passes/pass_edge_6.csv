@@ -1,0 +1,23 @@
+Source,Target,Weight
+N. Murru,K. Linetty,3
+D. Zapata,G. Caprari,2
+D. Praet,N. Murru,2
+\u00c9. Barreto,E. Viviano,1
+K. Linetty,M. Silvestre,1
+G. Caprari,D. Praet,1
+L. Capezzi,N. Murru,1
+G. Ferrari,G. Caprari,1
+M. Silvestre,D. Praet,1
+E. Viviano,D. Zapata,1
+N. Murru,L. Capezzi,1
+M. Silvestre,L. Capezzi,1
+D. Praet,D. Zapata,1
+L. Capezzi,\u00c9. Barreto,1
+L. Capezzi,D. Zapata,1
+N. Murru,D. Praet,1
+K. Linetty,G. Ferrari,1
+G. Caprari,D. Zapata,1
+K. Linetty,L. Capezzi,1
+G. Caprari,N. Murru,1
+D. Zapata,L. Capezzi,1
+L. Capezzi,M. Silvestre,1

@@ -1,0 +1,17 @@
+Source,Target,Weight
+A. Masina,D. Maietta,1
+E. Pulgar,V. Torosidis,1
+V. Torosidis,E. Pulgar,1
+A. Mirante,S. Verdi,1
+F. Di Francesco,A. Poli,1
+A. Poli,M. Destro,1
+V. Torosidis,A. Mirante,1
+S. De Maio,A. Masina,1
+E. Pulgar,S. Verdi,1
+S. Verdi,S. De Maio,1
+D. Maietta,A. Masina,1
+A. Poli,F. Di Francesco,1
+M. Destro,V. Torosidis,1
+A. Masina,A. Poli,1
+A. Poli,E. Pulgar,1
+S. Verdi,A. Poli,1

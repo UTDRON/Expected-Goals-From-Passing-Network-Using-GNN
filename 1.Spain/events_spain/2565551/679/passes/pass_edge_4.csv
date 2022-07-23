@@ -1,0 +1,71 @@
+Source,Target,Weight
+L. Hern\u00e1ndez,Y. Carrasco,5
+S. Savi\u0107,Gabi,5
+Sa\u00fal,Juanfran,4
+Y. Carrasco,S. Savi\u0107,4
+Sa\u00fal,L. Hern\u00e1ndez,3
+L. Hern\u00e1ndez,Koke,3
+S. Savi\u0107,Koke,3
+Gabi,Juanfran,3
+J. Gim\u00e9nez,S. Savi\u0107,3
+Y. Carrasco,L. Hern\u00e1ndez,3
+S. Savi\u0107,L. Hern\u00e1ndez,3
+Juanfran,Gabi,3
+Sa\u00fal,Gabi,3
+Gabi,Sa\u00fal,3
+Koke,Sa\u00fal,2
+Koke,A. Griezmann,2
+Koke,Gabi,2
+A. Griezmann,Y. Carrasco,2
+L. Hern\u00e1ndez,J. Gim\u00e9nez,2
+Gabi,Y. Carrasco,2
+Koke,Y. Carrasco,2
+Gabi,L. Hern\u00e1ndez,2
+Gabi,Fernando Torres,2
+Y. Carrasco,A. Griezmann,2
+J. Gim\u00e9nez,Sa\u00fal,2
+Y. Carrasco,Fernando Torres,2
+Fernando Torres,Y. Carrasco,2
+Gabi,J. Oblak,2
+Gabi,S. Savi\u0107,2
+Koke,J. Gim\u00e9nez,2
+Juanfran,S. Savi\u0107,2
+Fernando Torres,Sa\u00fal,2
+Gabi,A. Griezmann,2
+Juanfran,Sa\u00fal,2
+S. Savi\u0107,Sa\u00fal,2
+J. Gim\u00e9nez,Gabi,2
+J. Oblak,J. Gim\u00e9nez,2
+Sa\u00fal,Fernando Torres,2
+J. Oblak,S. Savi\u0107,1
+Juanfran,J. Gim\u00e9nez,1
+S. Savi\u0107,Y. Carrasco,1
+A. Griezmann,L. Hern\u00e1ndez,1
+Gabi,J. Gim\u00e9nez,1
+Fernando Torres,Gabi,1
+Fernando Torres,J. Gim\u00e9nez,1
+Gabi,Koke,1
+L. Hern\u00e1ndez,Gabi,1
+S. Savi\u0107,J. Gim\u00e9nez,1
+Koke,S. Savi\u0107,1
+Juanfran,Koke,1
+L. Hern\u00e1ndez,Fernando Torres,1
+J. Gim\u00e9nez,Fernando Torres,1
+A. Griezmann,J. Gim\u00e9nez,1
+Koke,L. Hern\u00e1ndez,1
+J. Gim\u00e9nez,Juanfran,1
+Y. Carrasco,Sa\u00fal,1
+A. Griezmann,S. Savi\u0107,1
+Fernando Torres,A. Griezmann,1
+L. Hern\u00e1ndez,S. Savi\u0107,1
+Y. Carrasco,Gabi,1
+Sa\u00fal,J. Gim\u00e9nez,1
+A. Griezmann,Gabi,1
+Sa\u00fal,A. Griezmann,1
+A. Griezmann,Koke,1
+Fernando Torres,Koke,1
+Y. Carrasco,Koke,1
+Y. Carrasco,Juanfran,1
+J. Gim\u00e9nez,Koke,1
+J. Gim\u00e9nez,Y. Carrasco,1
+J. Gim\u00e9nez,J. Oblak,1

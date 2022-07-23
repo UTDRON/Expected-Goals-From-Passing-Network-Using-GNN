@@ -1,0 +1,48 @@
+Source,Target,Weight
+M. Iturra,Diego Gonz\u00e1lez,3
+M. Iturra,B. Ideye,3
+D. Rol\u00e1n,Alex Robles,3
+Diego Gonz\u00e1lez,M. Iturra,3
+I. Success,D. Rol\u00e1n,3
+Adri\u00e1n,Luis Hern\u00e1ndez,2
+M. Iturra,M. Lacen,2
+D. Rol\u00e1n,B. Ideye,2
+B. Ideye,M. Iturra,2
+M. Lacen,Alex Robles,2
+B. Ideye,I. Success,2
+M. Iturra,Adri\u00e1n,2
+Alex Robles,Luis Hern\u00e1ndez,1
+Alex Robles,Adri\u00e1n,1
+D. Rol\u00e1n,M. Iturra,1
+Andr\u00e9s,Diego Gonz\u00e1lez,1
+Luis Hern\u00e1ndez,Alex Robles,1
+D. Rol\u00e1n,Luis Hern\u00e1ndez,1
+Luis Hern\u00e1ndez,Adri\u00e1n,1
+Luis Hern\u00e1ndez,D. Rol\u00e1n,1
+M. Lacen,M. Iturra,1
+M. Iturra,Y. En-Nesyri,1
+Luis Hern\u00e1ndez,Andr\u00e9s,1
+M. Lacen,Adri\u00e1n,1
+Alex Robles,M. Lacen,1
+Y. En-Nesyri,Andr\u00e9s,1
+Y. En-Nesyri,I. Success,1
+Adri\u00e1n,M. Lacen,1
+Adri\u00e1n,Y. En-Nesyri,1
+Alex Robles,M. Iturra,1
+Adri\u00e1n,M. Iturra,1
+B. Ideye,Adri\u00e1n,1
+Alex Robles,B. Ideye,1
+Diego Gonz\u00e1lez,D. Rol\u00e1n,1
+Adri\u00e1n,I. Success,1
+Andr\u00e9s,B. Ideye,1
+Alex Robles,D. Rol\u00e1n,1
+Keko,M. Iturra,1
+Diego Gonz\u00e1lez,M. Lacen,1
+D. Rol\u00e1n,Andr\u00e9s,1
+Diego Gonz\u00e1lez,Alex Robles,1
+I. Success,M. Iturra,1
+B. Ideye,D. Rol\u00e1n,1
+M. Lacen,Diego Gonz\u00e1lez,1
+Andr\u00e9s,D. Rol\u00e1n,1
+M. Lacen,Keko,1
+Alex Robles,Diego Gonz\u00e1lez,1

@@ -1,0 +1,18 @@
+Source,Target,Weight
+S. El Shaarawy,Juan Jesus,2
+Juan Jesus,S. El Shaarawy,2
+D. De Rossi,Juan Jesus,1
+C. \u00dcnder,K. Manolas,1
+A. Florenzi,C. \u00dcnder,1
+P. Schick,C. \u00dcnder,1
+Juan Jesus,D. De Rossi,1
+Juan Jesus,A. Florenzi,1
+D. De Rossi,C. \u00dcnder,1
+K. Manolas,K. Strootman,1
+S. El Shaarawy,D. De Rossi,1
+K. Strootman,Juan Jesus,1
+R. Nainggolan,P. Schick,1
+K. Manolas,R. Nainggolan,1
+Juan Jesus,K. Manolas,1
+C. \u00dcnder,S. El Shaarawy,1
+K. Manolas,Juan Jesus,1

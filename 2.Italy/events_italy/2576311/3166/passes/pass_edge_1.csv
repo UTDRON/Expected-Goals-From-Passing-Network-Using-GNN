@@ -1,0 +1,94 @@
+Source,Target,Weight
+S. De Maio,S. Romagnoli,11
+L. Crisetig,S. Verdi,9
+I. M'baye,E. Krafth,8
+A. Poli,L. Crisetig,7
+S. Verdi,A. Poli,7
+S. Romagnoli,A. Mirante,7
+S. Verdi,E. Krafth,7
+I. M'baye,A. Poli,7
+E. Krafth,S. Verdi,7
+E. Krafth,I. M'baye,7
+A. Poli,E. Krafth,6
+F. Avenatti,I. M'baye,6
+S. Romagnoli,S. De Maio,6
+\u00c1. Nagy,S. De Maio,6
+F. Avenatti,A. Poli,6
+A. Mirante,F. Avenatti,6
+S. Romagnoli,I. M'baye,6
+S. Verdi,S. De Maio,5
+F. Avenatti,S. Verdi,5
+F. Avenatti,E. Krafth,5
+I. M'baye,S. Romagnoli,5
+E. Krafth,F. Avenatti,5
+S. De Maio,L. Crisetig,5
+F. Avenatti,S. De Maio,5
+S. Verdi,F. Avenatti,5
+I. M'baye,F. Avenatti,5
+L. Crisetig,F. Avenatti,5
+A. Poli,F. Avenatti,4
+S. De Maio,C. Keita,4
+A. Poli,S. Romagnoli,4
+I. M'baye,S. Verdi,4
+C. Keita,L. Crisetig,4
+L. Crisetig,I. M'baye,4
+L. Crisetig,S. De Maio,4
+L. Crisetig,A. Poli,4
+S. Verdi,L. Crisetig,4
+F. Avenatti,\u00c1. Nagy,4
+\u00c1. Nagy,C. Keita,3
+S. Romagnoli,F. Avenatti,3
+C. Keita,\u00c1. Nagy,3
+A. Poli,\u00c1. Nagy,3
+S. Verdi,C. Keita,3
+\u00c1. Nagy,S. Verdi,3
+\u00c1. Nagy,L. Crisetig,3
+S. Verdi,S. Romagnoli,3
+A. Mirante,S. De Maio,3
+F. Avenatti,S. Romagnoli,3
+L. Crisetig,\u00c1. Nagy,3
+\u00c1. Nagy,I. M'baye,3
+A. Mirante,S. Verdi,3
+E. Krafth,A. Mirante,3
+S. De Maio,S. Verdi,3
+E. Krafth,L. Crisetig,3
+S. Romagnoli,\u00c1. Nagy,3
+A. Poli,A. Mirante,3
+S. Verdi,I. M'baye,3
+A. Poli,C. Keita,2
+E. Krafth,A. Poli,2
+I. M'baye,L. Crisetig,2
+S. De Maio,A. Mirante,2
+S. De Maio,A. Poli,2
+I. M'baye,C. Keita,2
+A. Poli,S. Verdi,2
+S. De Maio,\u00c1. Nagy,2
+C. Keita,S. De Maio,2
+A. Poli,I. M'baye,2
+C. Keita,A. Poli,2
+S. Romagnoli,L. Crisetig,2
+S. De Maio,F. Avenatti,2
+S. Romagnoli,A. Poli,1
+C. Keita,E. Krafth,1
+S. De Maio,I. M'baye,1
+C. Keita,A. Mirante,1
+I. M'baye,A. Mirante,1
+S. Romagnoli,E. Krafth,1
+A. Mirante,A. Poli,1
+S. Verdi,\u00c1. Nagy,1
+L. Crisetig,E. Krafth,1
+C. Keita,S. Verdi,1
+E. Krafth,S. De Maio,1
+F. Avenatti,C. Keita,1
+\u00c1. Nagy,S. Romagnoli,1
+C. Keita,F. Avenatti,1
+F. Avenatti,L. Crisetig,1
+A. Mirante,S. Romagnoli,1
+L. Crisetig,C. Keita,1
+A. Mirante,E. Krafth,1
+S. Romagnoli,S. Verdi,1
+E. Krafth,S. Romagnoli,1
+C. Keita,I. M'baye,1
+A. Mirante,I. M'baye,1
+L. Crisetig,S. Romagnoli,1
+A. Mirante,L. Crisetig,1

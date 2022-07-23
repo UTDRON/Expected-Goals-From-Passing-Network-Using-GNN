@@ -1,0 +1,21 @@
+Source,Target,Weight
+K. Linetty,R. \u00c1lvarez,1
+L. Torreira,V. Verre,1
+N. Murru,L. Torreira,1
+D. Kownacki,F. Quagliarella,1
+K. Linetty,N. Murru,1
+D. Kownacki,N. Murru,1
+R. \u00c1lvarez,V. Verre,1
+R. \u00c1lvarez,K. Linetty,1
+V. Verre,M. Silvestre,1
+G. Ferrari,V. Verre,1
+V. Verre,G. Ferrari,1
+M. Silvestre,K. Linetty,1
+V. Verre,N. Murru,1
+E. Viviano,D. Kownacki,1
+G. Ferrari,L. Torreira,1
+L. Torreira,E. Viviano,1
+N. Murru,E. Viviano,1
+N. Murru,G. Ferrari,1
+L. Torreira,D. Kownacki,1
+E. Viviano,R. \u00c1lvarez,1

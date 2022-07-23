@@ -1,0 +1,28 @@
+Source,Target,Weight
+Ivi,Rober,2
+J. Lerma,Coke,2
+Luna,Ivi,2
+Campa\u00f1a,Roger,1
+Campa\u00f1a,Luna,1
+Campa\u00f1a,Coke,1
+Luna,Campa\u00f1a,1
+Coke,E. Cabaco,1
+E. Cabaco,J. Lerma,1
+Jason,Campa\u00f1a,1
+Coke,Roger,1
+Jason,Coke,1
+Jason,E. Cabaco,1
+Rober,E. Cabaco,1
+Rober,Luna,1
+Roger,E. Cabaco,1
+J. Lerma,Jason,1
+Ivi,Jos\u00e9 Luis Morales,1
+Coke,Campa\u00f1a,1
+E. Cabaco,Campa\u00f1a,1
+Coke,J. Lerma,1
+E. Cabaco,Luna,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+Roger,J. Lerma,1
+E. Cabaco,Coke,1
+Jos\u00e9 Luis Morales,Jason,1
+Coke,Jason,1

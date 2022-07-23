@@ -1,0 +1,19 @@
+Source,Target,Weight
+A. Tonev,A. Budimir,3
+A. Barberis,M. Sampirisi,2
+R. Mandragora,A. Tonev,2
+B. Martella,R. Mandragora,1
+M. Sampirisi,A. Tonev,1
+A. Stoian,R. Mandragora,1
+A. Budimir,A. Stoian,1
+M. Sampirisi,A. Barberis,1
+M. Sampirisi,R. Mandragora,1
+A. Budimir,A. Ajeti,1
+A. Tonev,M. Rohd\u00e9n,1
+R. Mandragora,B. Martella,1
+A. Ajeti,B. Martella,1
+B. Martella,F. Ceccherini,1
+A. Budimir,M. Sampirisi,1
+M. Rohd\u00e9n,R. Mandragora,1
+F. Ceccherini,M. Rohd\u00e9n,1
+M. Rohd\u00e9n,A. Barberis,1

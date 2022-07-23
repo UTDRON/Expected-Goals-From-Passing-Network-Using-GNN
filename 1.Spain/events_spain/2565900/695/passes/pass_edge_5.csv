@@ -1,0 +1,55 @@
+Source,Target,Weight
+Coke,Jos\u00e9 Luis Morales,4
+Luna,Campa\u00f1a,3
+Chema,Coke,3
+E. Bardhi,Coke,3
+Chema,Campa\u00f1a,3
+Campa\u00f1a,Coke,2
+Coke,J. Lerma,2
+Luna,Chema,2
+J. Lerma,Coke,2
+Campa\u00f1a,Luna,2
+Coke,E. Bardhi,2
+Sergio Postigo,Chema,2
+J. Lerma,Chema,2
+Jos\u00e9 Luis Morales,E. Bardhi,2
+Campa\u00f1a,J. Lerma,2
+Jos\u00e9 Luis Morales,Chema,2
+E. Bardhi,Luna,2
+Chema,J. Lerma,1
+E. Boateng,J. Lerma,1
+Oier,J. Lerma,1
+Sergio Postigo,Campa\u00f1a,1
+Jason,Sergio Postigo,1
+Campa\u00f1a,Jason,1
+J. Lerma,Jos\u00e9 Luis Morales,1
+E. Bardhi,Campa\u00f1a,1
+Coke,Oier,1
+Oier,Campa\u00f1a,1
+Chema,Jason,1
+Jos\u00e9 Luis Morales,Oier,1
+E. Boateng,Luna,1
+Coke,Sergio Postigo,1
+Jason,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,Coke,1
+Chema,E. Bardhi,1
+Luna,Jos\u00e9 Luis Morales,1
+Campa\u00f1a,Sergio Postigo,1
+Sergio Postigo,Oier,1
+E. Bardhi,Jos\u00e9 Luis Morales,1
+Campa\u00f1a,E. Bardhi,1
+E. Boateng,E. Bardhi,1
+Chema,Oier,1
+Coke,Luna,1
+Jos\u00e9 Luis Morales,E. Boateng,1
+Campa\u00f1a,E. Boateng,1
+Jos\u00e9 Luis Morales,Jason,1
+Sergio Postigo,Luna,1
+J. Lerma,Sergio Postigo,1
+Jason,Coke,1
+J. Lerma,E. Bardhi,1
+Oier,Chema,1
+Coke,Campa\u00f1a,1
+Oier,E. Boateng,1
+Campa\u00f1a,Chema,1
+Luna,Sergio Postigo,1

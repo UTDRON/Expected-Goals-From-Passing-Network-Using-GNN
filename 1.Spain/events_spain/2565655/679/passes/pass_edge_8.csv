@@ -1,0 +1,29 @@
+Source,Target,Weight
+Juanfran,D. God\u00edn,4
+Sa\u00fal,Juanfran,3
+Juanfran,Sa\u00fal,2
+A. Fern\u00e1ndez,D. God\u00edn,2
+D. God\u00edn,S. Savi\u0107,2
+Thomas,S. Savi\u0107,2
+S. Savi\u0107,Juanfran,2
+Gabi,A. Fern\u00e1ndez,2
+S. Savi\u0107,Thomas,1
+S. Savi\u0107,L. Hern\u00e1ndez,1
+D. God\u00edn,Gabi,1
+L. Hern\u00e1ndez,J. Oblak,1
+D. God\u00edn,A. Fern\u00e1ndez,1
+Gabi,N. Gait\u00e1n,1
+Juanfran,J. Oblak,1
+J. Oblak,Thomas,1
+D. God\u00edn,L. Hern\u00e1ndez,1
+J. Oblak,Sa\u00fal,1
+N. Gait\u00e1n,Sa\u00fal,1
+Sa\u00fal,L. Hern\u00e1ndez,1
+L. Hern\u00e1ndez,S. Savi\u0107,1
+S. Savi\u0107,Sa\u00fal,1
+D. God\u00edn,N. Gait\u00e1n,1
+L. Hern\u00e1ndez,Gabi,1
+Juanfran,L. Hern\u00e1ndez,1
+A. Fern\u00e1ndez,Juanfran,1
+L. Hern\u00e1ndez,Juanfran,1
+N. Gait\u00e1n,Juanfran,1

@@ -1,0 +1,26 @@
+Source,Target,Weight
+Campa\u00f1a,Ivi,3
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,2
+Rober,Coke,2
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,2
+Rober,E. Cabaco,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+E. Cabaco,Rober,1
+Rober,Oier,1
+Jos\u00e9 Luis Morales,E. Cabaco,1
+Ivi,Rober,1
+J. Lerma,Ivi,1
+Ivi,Coke,1
+Oier,Jos\u00e9 Luis Morales,1
+Coke,Ivi,1
+Coke,Rober,1
+Coke,J. Lerma,1
+E. Cabaco,Pedro L\u00f3pez,1
+Pedro L\u00f3pez,J. Lerma,1
+J. Lerma,E. Cabaco,1
+Ivi,Campa\u00f1a,1
+Roger,Campa\u00f1a,1
+J. Lerma,Campa\u00f1a,1
+E. Cabaco,Jos\u00e9 Luis Morales,1
+Campa\u00f1a,Rober,1
+Ivi,J. Lerma,1

@@ -1,0 +1,46 @@
+Source,Target,Weight
+E. Hallfre\u00f0sson,Samir,4
+Samir,B. Nuytinck,3
+G. Angella,B. Nuytinck,3
+B. Nuytinck,G. Angella,3
+G. Angella,K. Lasagna,2
+G. Pezzella,V. Behrami,2
+Samir,E. Hallfre\u00f0sson,2
+V. Behrami,E. Hallfre\u00f0sson,2
+G. Pezzella,G. Angella,2
+E. Hallfre\u00f0sson,J. Jankto,2
+G. Angella,G. Pezzella,2
+B. Nuytinck,Samir,2
+Samir,J. Jankto,2
+J. Jankto,Samir,2
+V. Behrami,K. Lasagna,1
+G. Pezzella,C. Th\u00e9r\u00e9au,1
+E. Hallfre\u00f0sson,G. Angella,1
+C. Th\u00e9r\u00e9au,E. Hallfre\u00f0sson,1
+K. Lasagna,V. Behrami,1
+Samir,G. Pezzella,1
+G. Pezzella,S. Scuffet,1
+S. Perica,G. Angella,1
+C. Th\u00e9r\u00e9au,Samir,1
+G. Pezzella,Samir,1
+K. Lasagna,S. Scuffet,1
+J. Jankto,S. Perica,1
+S. Scuffet,G. Pezzella,1
+Samir,G. Angella,1
+E. Hallfre\u00f0sson,G. Pezzella,1
+Samir,V. Behrami,1
+J. Jankto,C. Th\u00e9r\u00e9au,1
+J. Jankto,B. Nuytinck,1
+J. Jankto,E. Hallfre\u00f0sson,1
+S. Perica,K. Lasagna,1
+S. Scuffet,B. Nuytinck,1
+B. Nuytinck,J. Jankto,1
+G. Angella,E. Hallfre\u00f0sson,1
+C. Th\u00e9r\u00e9au,S. Perica,1
+C. Th\u00e9r\u00e9au,J. Jankto,1
+B. Nuytinck,E. Hallfre\u00f0sson,1
+S. Perica,Samir,1
+Samir,C. Th\u00e9r\u00e9au,1
+B. Nuytinck,G. Pezzella,1
+K. Lasagna,S. Perica,1
+V. Behrami,C. Th\u00e9r\u00e9au,1

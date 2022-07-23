@@ -1,0 +1,81 @@
+Source,Target,Weight
+Borja Garc\u00eda,Juanpe,7
+Juanpe,Aday,6
+Aday,Borja Garc\u00eda,5
+\u00c1lex Granell,Pablo Maffeo,4
+Juanpe,Bernardo Espinosa,4
+Pere Pons,Aday,4
+Aday,Juanpe,4
+Pere Pons,Choco Lozano,3
+Bernardo Espinosa,Ramalho,3
+Bernardo Espinosa,Pere Pons,3
+Juanpe,Borja Garc\u00eda,3
+Borja Garc\u00eda,Pere Pons,3
+Borja Garc\u00eda,Aday,3
+Ramalho,\u00c1lex Granell,3
+Pablo Maffeo,Ramalho,3
+Pablo Maffeo,\u00c1lex Granell,3
+Aday,Choco Lozano,3
+Choco Lozano,Aday,3
+\u00c1lex Granell,Borja Garc\u00eda,2
+Juanpe,Pere Pons,2
+Bernardo Espinosa,Juanpe,2
+Ramalho,Borja Garc\u00eda,2
+Pere Pons,Borja Garc\u00eda,2
+Ramalho,Pablo Maffeo,2
+\u00c1lex Granell,Aday,2
+Pablo Maffeo,Borja Garc\u00eda,2
+Ramalho,Pere Pons,2
+Pere Pons,\u00c1lex Granell,2
+Aday,Bernardo Espinosa,2
+Ramalho,Portu,2
+Portu,Pere Pons,2
+Portu,\u00c1lex Granell,2
+Choco Lozano,Juanpe,2
+Pere Pons,Juanpe,2
+Y. Bounou,Ramalho,2
+Bernardo Espinosa,Y. Bounou,2
+\u00c1lex Granell,Portu,2
+Bernardo Espinosa,Choco Lozano,2
+Choco Lozano,Pablo Maffeo,2
+Portu,Pablo Maffeo,2
+Aday,Pere Pons,2
+Juanpe,Choco Lozano,2
+Choco Lozano,Bernardo Espinosa,2
+Juanpe,Ramalho,1
+Ramalho,Bernardo Espinosa,1
+Pere Pons,Y. Bounou,1
+Pablo Maffeo,Choco Lozano,1
+Ramalho,Choco Lozano,1
+Borja Garc\u00eda,Y. Bounou,1
+Choco Lozano,Pere Pons,1
+Ramalho,Y. Bounou,1
+Pere Pons,Portu,1
+\u00c1lex Granell,Pere Pons,1
+Pere Pons,Bernardo Espinosa,1
+Portu,Juanpe,1
+Pablo Maffeo,Portu,1
+Aday,Ramalho,1
+Portu,Ramalho,1
+Choco Lozano,Ramalho,1
+Y. Bounou,Bernardo Espinosa,1
+Aday,Y. Bounou,1
+Choco Lozano,Portu,1
+Bernardo Espinosa,\u00c1lex Granell,1
+Pere Pons,Ramalho,1
+Pablo Maffeo,Aday,1
+\u00c1lex Granell,Ramalho,1
+Aday,Pablo Maffeo,1
+Borja Garc\u00eda,Pablo Maffeo,1
+Borja Garc\u00eda,Bernardo Espinosa,1
+Y. Bounou,\u00c1lex Granell,1
+\u00c1lex Granell,Juanpe,1
+Pablo Maffeo,Bernardo Espinosa,1
+Borja Garc\u00eda,Choco Lozano,1
+Bernardo Espinosa,Portu,1
+Choco Lozano,Borja Garc\u00eda,1
+Juanpe,\u00c1lex Granell,1
+Y. Bounou,Choco Lozano,1
+Y. Bounou,Aday,1
+\u00c1lex Granell,Bernardo Espinosa,1
+Aday,\u00c1lex Granell,1

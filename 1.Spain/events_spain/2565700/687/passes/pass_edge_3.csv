@@ -1,0 +1,50 @@
+Source,Target,Weight
+Diego Llorente,\u00cd\u00f1igo Mart\u00ednez,4
+Diego Llorente,Illarramendi,3
+De La Bella,\u00cd\u00f1igo Mart\u00ednez,3
+\u00cd\u00f1igo Mart\u00ednez,Willian Jos\u00e9,3
+Diego Llorente,G. Rulli,3
+\u00cd\u00f1igo Mart\u00ednez,Diego Llorente,3
+G. Rulli,Diego Llorente,3
+\u00cd\u00f1igo Mart\u00ednez,De La Bella,3
+De La Bella,Diego Llorente,2
+Odriozola,Mikel Oyarzabal,2
+\u00cd\u00f1igo Mart\u00ednez,Illarramendi,2
+G. Rulli,Mikel Oyarzabal,2
+Illarramendi,De La Bella,2
+Mikel Oyarzabal,\u00cd\u00f1igo Mart\u00ednez,2
+Odriozola,Illarramendi,2
+\u00cd\u00f1igo Mart\u00ednez,G. Rulli,2
+Illarramendi,Diego Llorente,2
+Illarramendi,Odriozola,2
+Mikel Oyarzabal,Xabi Prieto,2
+Illarramendi,A. Januzaj,2
+Illarramendi,\u00cd\u00f1igo Mart\u00ednez,2
+Zurutuza,A. Januzaj,1
+G. Rulli,\u00cd\u00f1igo Mart\u00ednez,1
+Willian Jos\u00e9,De La Bella,1
+Xabi Prieto,A. Januzaj,1
+A. Januzaj,Odriozola,1
+Mikel Oyarzabal,De La Bella,1
+Xabi Prieto,Odriozola,1
+De La Bella,Xabi Prieto,1
+A. Januzaj,G. Rulli,1
+Willian Jos\u00e9,A. Januzaj,1
+G. Rulli,Illarramendi,1
+\u00cd\u00f1igo Mart\u00ednez,Mikel Oyarzabal,1
+Diego Llorente,Zurutuza,1
+\u00cd\u00f1igo Mart\u00ednez,Odriozola,1
+A. Januzaj,\u00cd\u00f1igo Mart\u00ednez,1
+Zurutuza,\u00cd\u00f1igo Mart\u00ednez,1
+Odriozola,G. Rulli,1
+Illarramendi,Zurutuza,1
+Xabi Prieto,Mikel Oyarzabal,1
+Mikel Oyarzabal,Illarramendi,1
+Willian Jos\u00e9,Diego Llorente,1
+Odriozola,Xabi Prieto,1
+Mikel Oyarzabal,Odriozola,1
+Zurutuza,Mikel Oyarzabal,1
+A. Januzaj,Zurutuza,1
+De La Bella,Illarramendi,1
+Xabi Prieto,\u00cd\u00f1igo Mart\u00ednez,1
+A. Januzaj,Illarramendi,1

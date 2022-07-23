@@ -1,0 +1,63 @@
+Source,Target,Weight
+F. Mattiello,J. Kurti\u010d,7
+T. Cionek,F. Mattiello,7
+F. Costa,Everton Luiz,5
+T. Cionek,J. Kurti\u010d,5
+J. Kurti\u010d,T. Cionek,5
+A. Grassi,F. Costa,5
+Everton Luiz,J. Kurti\u010d,4
+F. Costa,A. Grassi,4
+F. Mattiello,T. Cionek,3
+S. Floccari,F. Mattiello,3
+M. Antenucci,F. Mattiello,3
+S. Floccari,Everton Luiz,3
+J. Kurti\u010d,F. Mattiello,3
+Everton Luiz,T. Cionek,3
+F. Costa,Felipe,2
+Everton Luiz,F. Vicari,2
+F. Mattiello,Everton Luiz,2
+T. Cionek,F. Vicari,2
+T. Cionek,A. Gomis,2
+A. Grassi,Everton Luiz,2
+J. Kurti\u010d,M. Antenucci,2
+S. Floccari,T. Cionek,2
+A. Gomis,T. Cionek,2
+M. Antenucci,S. Floccari,2
+A. Grassi,T. Cionek,2
+F. Mattiello,M. Antenucci,2
+T. Cionek,S. Floccari,2
+Everton Luiz,F. Costa,2
+Felipe,Everton Luiz,2
+F. Vicari,T. Cionek,2
+A. Grassi,Felipe,2
+J. Kurti\u010d,F. Costa,2
+J. Kurti\u010d,A. Grassi,2
+F. Costa,M. Antenucci,2
+F. Vicari,F. Costa,2
+Everton Luiz,S. Floccari,2
+T. Cionek,A. Grassi,2
+J. Kurti\u010d,S. Floccari,1
+Felipe,T. Cionek,1
+T. Cionek,Everton Luiz,1
+M. Antenucci,A. Grassi,1
+A. Gomis,F. Costa,1
+F. Vicari,Felipe,1
+F. Mattiello,S. Floccari,1
+F. Mattiello,F. Vicari,1
+F. Costa,T. Cionek,1
+Felipe,F. Costa,1
+Everton Luiz,A. Grassi,1
+Everton Luiz,A. Gomis,1
+F. Vicari,S. Floccari,1
+S. Floccari,F. Costa,1
+M. Antenucci,F. Costa,1
+F. Costa,S. Floccari,1
+Felipe,F. Vicari,1
+F. Costa,F. Mattiello,1
+S. Floccari,A. Gomis,1
+A. Grassi,S. Floccari,1
+S. Floccari,M. Antenucci,1
+J. Kurti\u010d,Felipe,1
+F. Vicari,A. Grassi,1
+Felipe,A. Grassi,1
+A. Gomis,F. Vicari,1

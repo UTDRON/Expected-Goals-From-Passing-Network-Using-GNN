@@ -1,0 +1,77 @@
+Source,Target,Weight
+G. Pizarro,Sergio Escudero,4
+Sergio Escudero,C. Lenglet,4
+Sergio Escudero,L. Muriel,3
+C. Lenglet,Sergio Rico,3
+Ganso,Jes\u00fas Navas,3
+Ganso,G. Pizarro,3
+S. Kj\u00e6r,G. Mercado,3
+Sergio Escudero,Ganso,3
+G. Mercado,Ganso,3
+Jes\u00fas Navas,Ganso,3
+Nolito,G. Pizarro,3
+C. Lenglet,Sergio Escudero,3
+G. Pizarro,Ganso,2
+C. Lenglet,G. Pizarro,2
+Nolito,Sergio Escudero,2
+Pablo Sarabia,Sergio Escudero,2
+L. Muriel,Sergio Escudero,2
+Ganso,L. Muriel,2
+C. Lenglet,S. Kj\u00e6r,2
+Pablo Sarabia,Nolito,2
+Jes\u00fas Navas,G. Mercado,2
+L. Muriel,Nolito,2
+Sergio Rico,C. Lenglet,2
+S. Kj\u00e6r,Nolito,2
+Sergio Escudero,Nolito,2
+G. Pizarro,G. Mercado,2
+Ganso,Pablo Sarabia,2
+Nolito,M. Krohn-Dehli,2
+Sergio Escudero,M. Krohn-Dehli,2
+S. Kj\u00e6r,Jes\u00fas Navas,2
+G. Mercado,Sergio Escudero,2
+G. Mercado,S. Kj\u00e6r,2
+G. Pizarro,S. Kj\u00e6r,2
+G. Mercado,G. Pizarro,2
+Nolito,Pablo Sarabia,2
+Jes\u00fas Navas,Pablo Sarabia,2
+Pablo Sarabia,C. Lenglet,2
+S. Kj\u00e6r,C. Lenglet,1
+Sergio Escudero,Pablo Sarabia,1
+S. Kj\u00e6r,G. Pizarro,1
+M. Krohn-Dehli,Nolito,1
+Nolito,C. Lenglet,1
+M. Krohn-Dehli,Sergio Escudero,1
+G. Pizarro,Pablo Sarabia,1
+W. Ben Yedder,Ganso,1
+Nolito,S. Kj\u00e6r,1
+Pablo Sarabia,G. Pizarro,1
+Ganso,W. Ben Yedder,1
+Sergio Escudero,S. Kj\u00e6r,1
+Pablo Sarabia,G. Mercado,1
+G. Pizarro,Nolito,1
+G. Mercado,Sergio Rico,1
+C. Lenglet,G. Mercado,1
+Pablo Sarabia,Ganso,1
+Sergio Escudero,Sergio Rico,1
+Ganso,G. Mercado,1
+L. Muriel,G. Pizarro,1
+Jes\u00fas Navas,Nolito,1
+G. Pizarro,L. Muriel,1
+C. Lenglet,Nolito,1
+Sergio Rico,Jes\u00fas Navas,1
+Sergio Escudero,G. Pizarro,1
+L. Muriel,C. Lenglet,1
+C. Lenglet,L. Muriel,1
+Ganso,C. Lenglet,1
+G. Mercado,Pablo Sarabia,1
+L. Muriel,G. Mercado,1
+S. Kj\u00e6r,Sergio Escudero,1
+Sergio Rico,S. Kj\u00e6r,1
+M. Krohn-Dehli,Ganso,1
+W. Ben Yedder,Sergio Escudero,1
+G. Pizarro,C. Lenglet,1
+M. Krohn-Dehli,Jes\u00fas Navas,1
+Sergio Rico,W. Ben Yedder,1
+Nolito,G. Mercado,1
+G. Mercado,Jes\u00fas Navas,1

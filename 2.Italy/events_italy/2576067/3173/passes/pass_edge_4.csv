@@ -1,0 +1,35 @@
+Source,Target,Weight
+N. Barella,L. Cigarini,3
+M. Capuano,L. Cigarini,3
+L. Cigarini,F. Romagna,2
+F. Romagna,Diego Farias,2
+L. Cigarini,M. Andreolli,2
+L. Cigarini,M. Capuano,2
+L. Cigarini,N. Barella,2
+M. Andreolli,M. Capuano,2
+M. Andreolli,S. Padoin,1
+S. Padoin,M. Capuano,1
+Diego Farias,M. Capuano,1
+P. Farag\u00f2,N. Barella,1
+L. Pavoletti,N. Barella,1
+Diego Farias,N. Barella,1
+Rafael,L. Pavoletti,1
+P. Farag\u00f2,Rafael,1
+N. Barella,L. Pavoletti,1
+N. Barella,F. Romagna,1
+M. Capuano,F. Romagna,1
+F. Romagna,L. Cigarini,1
+M. Capuano,S. Padoin,1
+F. Romagna,N. Barella,1
+M. Capuano,P. Farag\u00f2,1
+L. Cigarini,Diego Farias,1
+F. Romagna,M. Capuano,1
+N. Barella,P. Farag\u00f2,1
+L. Pavoletti,M. Andreolli,1
+Diego Farias,F. Romagna,1
+P. Farag\u00f2,Diego Farias,1
+L. Pavoletti,L. Cigarini,1
+S. Padoin,L. Cigarini,1
+Diego Farias,L. Pavoletti,1
+M. Capuano,L. Pavoletti,1
+L. Pavoletti,P. Farag\u00f2,1

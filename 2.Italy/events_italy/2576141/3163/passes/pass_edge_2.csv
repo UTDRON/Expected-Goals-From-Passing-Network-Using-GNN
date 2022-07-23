@@ -1,0 +1,80 @@
+Source,Target,Weight
+J. Stryger Larsen,V. Behrami,5
+Samir,Ali Adnan,4
+A. Bar\u00e1k,V. Behrami,4
+J. Jankto,Ali Adnan,3
+A. Bar\u00e1k,J. Stryger Larsen,3
+V. Behrami,A. Bar\u00e1k,3
+J. Stryger Larsen,A. Bar\u00e1k,3
+Maxi L\u00f3pez,K. Lasagna,3
+Danilo,A. Bizzarri,2
+V. Behrami,Danilo,2
+Ali Adnan,V. Behrami,2
+A. Bar\u00e1k,Maxi L\u00f3pez,2
+Samir,Danilo,2
+Maxi L\u00f3pez,Ali Adnan,2
+V. Behrami,Samir,2
+Maxi L\u00f3pez,A. Bar\u00e1k,2
+Ali Adnan,Danilo,2
+K. Lasagna,A. Bar\u00e1k,2
+J. Jankto,Maxi L\u00f3pez,2
+J. Stryger Larsen,K. Lasagna,2
+V. Behrami,J. Jankto,2
+S. Widmer,Danilo,2
+A. Bar\u00e1k,K. Lasagna,2
+Maxi L\u00f3pez,J. Jankto,2
+V. Behrami,S. Widmer,2
+V. Behrami,J. Stryger Larsen,2
+Danilo,K. Lasagna,2
+Samir,J. Stryger Larsen,2
+K. Lasagna,Maxi L\u00f3pez,2
+Ali Adnan,J. Stryger Larsen,2
+J. Stryger Larsen,Maxi L\u00f3pez,2
+A. Bar\u00e1k,J. Jankto,2
+Ali Adnan,Maxi L\u00f3pez,2
+Danilo,J. Stryger Larsen,2
+Ali Adnan,A. Bar\u00e1k,2
+J. Jankto,Samir,1
+A. Bizzarri,S. Widmer,1
+Danilo,Ali Adnan,1
+S. Widmer,Samir,1
+A. Bizzarri,Samir,1
+Samir,J. Jankto,1
+J. Jankto,V. Behrami,1
+Danilo,J. Jankto,1
+J. Jankto,J. Stryger Larsen,1
+Maxi L\u00f3pez,V. Behrami,1
+V. Behrami,Ali Adnan,1
+Maxi L\u00f3pez,Samir,1
+Danilo,Samir,1
+Ali Adnan,S. Widmer,1
+V. Behrami,Maxi L\u00f3pez,1
+V. Behrami,A. Bizzarri,1
+Ali Adnan,K. Lasagna,1
+Maxi L\u00f3pez,Danilo,1
+A. Bar\u00e1k,S. Widmer,1
+J. Jankto,S. Widmer,1
+K. Lasagna,Danilo,1
+Danilo,V. Behrami,1
+S. Widmer,J. Jankto,1
+J. Stryger Larsen,S. Widmer,1
+Ali Adnan,Samir,1
+A. Bar\u00e1k,A. Bizzarri,1
+J. Jankto,Danilo,1
+K. Lasagna,Samir,1
+K. Lasagna,V. Behrami,1
+A. Bizzarri,Ali Adnan,1
+S. Widmer,A. Bar\u00e1k,1
+S. Widmer,J. Stryger Larsen,1
+Danilo,Maxi L\u00f3pez,1
+K. Lasagna,J. Jankto,1
+A. Bizzarri,J. Stryger Larsen,1
+S. Widmer,V. Behrami,1
+K. Lasagna,J. Stryger Larsen,1
+S. Widmer,A. Bizzarri,1
+J. Stryger Larsen,J. Jankto,1
+K. Lasagna,S. Widmer,1
+A. Bizzarri,Maxi L\u00f3pez,1
+J. Stryger Larsen,Ali Adnan,1
+J. Jankto,A. Bar\u00e1k,1
+Maxi L\u00f3pez,S. Widmer,1

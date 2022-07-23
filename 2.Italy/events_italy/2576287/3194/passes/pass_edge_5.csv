@@ -1,0 +1,125 @@
+Source,Target,Weight
+J. Vukovi\u0107,S. Souprayen,11
+R\u00f4mulo,A. Ferrari,10
+A. Ferrari,J. Vukovi\u0107,9
+S. Souprayen,M. Fares,9
+R\u00f4mulo,A. Danzi,7
+A. Ferrari,Nicolas,7
+D. Verde,R\u00f4mulo,7
+Nicolas,A. Ferrari,7
+A. Ferrari,R\u00f4mulo,6
+Ryder Matos,R\u00f4mulo,5
+J. Vukovi\u0107,M. Valoti,5
+A. Danzi,R\u00f4mulo,5
+R\u00f4mulo,J. Vukovi\u0107,5
+Lee Seung-Woo,M. Valoti,5
+M. Fares,S. Souprayen,5
+M. Valoti,F. Zuculini,5
+R\u00f4mulo,D. Verde,5
+M. Valoti,Ryder Matos,4
+A. Danzi,M. Valoti,4
+M. Fares,M. Valoti,4
+J. Vukovi\u0107,M. Fares,4
+J. Vukovi\u0107,A. Ferrari,4
+M. Valoti,A. Danzi,4
+M. Valoti,J. Vukovi\u0107,4
+S. Souprayen,M. Valoti,4
+R\u00f4mulo,A. Cerci,4
+M. Valoti,A. Ferrari,4
+A. Danzi,D. Verde,4
+M. Valoti,R\u00f4mulo,3
+A. Danzi,S. Souprayen,3
+S. Souprayen,J. Vukovi\u0107,3
+F. Zuculini,J. Vukovi\u0107,3
+F. Zuculini,R\u00f4mulo,3
+A. Ferrari,F. Zuculini,3
+B. Petkovi\u0107,Lee Seung-Woo,3
+M. Fares,A. Cerci,3
+Nicolas,R\u00f4mulo,3
+F. Zuculini,D. Verde,3
+D. Verde,A. Danzi,3
+S. Souprayen,Lee Seung-Woo,3
+M. Fares,A. Ferrari,3
+A. Cerci,M. Fares,2
+A. Ferrari,A. Danzi,2
+A. Ferrari,M. Valoti,2
+A. Danzi,A. Ferrari,2
+J. Vukovi\u0107,A. Danzi,2
+A. Cerci,A. Danzi,2
+R\u00f4mulo,F. Zuculini,2
+Nicolas,J. Vukovi\u0107,2
+D. Verde,F. Zuculini,2
+M. Fares,J. Vukovi\u0107,2
+M. Fares,D. Verde,2
+M. Valoti,S. Souprayen,2
+A. Danzi,Nicolas,2
+M. Fares,R\u00f4mulo,2
+Ryder Matos,J. Vukovi\u0107,2
+B. Petkovi\u0107,A. Ferrari,2
+Nicolas,M. Fares,2
+R\u00f4mulo,Ryder Matos,2
+R\u00f4mulo,B. Petkovi\u0107,2
+A. Cerci,J. Vukovi\u0107,2
+A. Ferrari,Ryder Matos,2
+J. Vukovi\u0107,R\u00f4mulo,2
+A. Cerci,D. Verde,2
+Ryder Matos,A. Danzi,2
+Lee Seung-Woo,R\u00f4mulo,2
+Ryder Matos,M. Valoti,2
+J. Vukovi\u0107,Lee Seung-Woo,2
+S. Souprayen,Nicolas,2
+M. Valoti,Lee Seung-Woo,2
+A. Danzi,Ryder Matos,2
+F. Zuculini,A. Ferrari,2
+Lee Seung-Woo,Nicolas,2
+F. Zuculini,S. Souprayen,2
+A. Ferrari,B. Petkovi\u0107,2
+S. Souprayen,Ryder Matos,2
+M. Valoti,M. Fares,2
+Ryder Matos,Lee Seung-Woo,2
+M. Fares,A. Danzi,2
+A. Danzi,M. Fares,2
+R\u00f4mulo,M. Valoti,2
+F. Zuculini,M. Valoti,1
+A. Danzi,B. Petkovi\u0107,1
+M. Fares,Ryder Matos,1
+A. Cerci,A. Ferrari,1
+A. Cerci,R\u00f4mulo,1
+S. Souprayen,F. Zuculini,1
+Lee Seung-Woo,S. Souprayen,1
+B. Petkovi\u0107,A. Danzi,1
+A. Ferrari,A. Cerci,1
+D. Verde,A. Ferrari,1
+Nicolas,A. Danzi,1
+D. Verde,A. Cerci,1
+A. Danzi,A. Cerci,1
+A. Danzi,F. Zuculini,1
+A. Ferrari,Lee Seung-Woo,1
+Ryder Matos,D. Verde,1
+Lee Seung-Woo,A. Cerci,1
+D. Verde,M. Fares,1
+J. Vukovi\u0107,A. Cerci,1
+M. Fares,Lee Seung-Woo,1
+D. Verde,J. Vukovi\u0107,1
+M. Valoti,D. Verde,1
+Ryder Matos,M. Fares,1
+A. Ferrari,M. Fares,1
+D. Verde,M. Valoti,1
+A. Cerci,S. Souprayen,1
+S. Souprayen,D. Verde,1
+A. Cerci,M. Valoti,1
+J. Vukovi\u0107,Nicolas,1
+R\u00f4mulo,Nicolas,1
+A. Cerci,Nicolas,1
+J. Vukovi\u0107,F. Zuculini,1
+Nicolas,S. Souprayen,1
+Nicolas,A. Cerci,1
+D. Verde,Ryder Matos,1
+Lee Seung-Woo,A. Danzi,1
+S. Souprayen,B. Petkovi\u0107,1
+D. Verde,Nicolas,1
+Lee Seung-Woo,Ryder Matos,1
+A. Danzi,Lee Seung-Woo,1
+F. Zuculini,A. Danzi,1
+Lee Seung-Woo,B. Petkovi\u0107,1
+Lee Seung-Woo,M. Fares,1

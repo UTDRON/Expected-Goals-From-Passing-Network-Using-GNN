@@ -1,0 +1,45 @@
+Source,Target,Weight
+A. Aquilani,Vitolo,4
+Vitolo,A. Aquilani,3
+A. Aquilani,Hern\u00e1n,2
+M. Lemos,L. Chichizola,2
+Vitolo,L. R\u00e9my,2
+O. Tannane,Jonathan Viera,2
+Hern\u00e1n,O. Tannane,2
+Jonathan Viera,J. Calleri,2
+O. Tannane,Vitolo,2
+Jonathan Viera,David Garc\u00eda,2
+Bigas,A. Aquilani,2
+David Garc\u00eda,Jonathan Viera,2
+Hern\u00e1n,A. Aquilani,1
+David Garc\u00eda,M. Lemos,1
+Vitolo,J. Calleri,1
+A. Aquilani,Bigas,1
+Jonathan Viera,M. Lemos,1
+J. Calleri,O. Tannane,1
+Bigas,L. Chichizola,1
+L. Chichizola,Bigas,1
+A. Aquilani,David Garc\u00eda,1
+Bigas,Vitolo,1
+J. Calleri,Bigas,1
+Vitolo,Hern\u00e1n,1
+M. Lemos,A. Aquilani,1
+Jonathan Viera,O. Tannane,1
+L. R\u00e9my,Jonathan Viera,1
+David Garc\u00eda,J. Calleri,1
+L. R\u00e9my,A. Aquilani,1
+J. Calleri,Jonathan Viera,1
+L. Chichizola,O. Tannane,1
+J. Calleri,David Garc\u00eda,1
+L. R\u00e9my,Bigas,1
+Vitolo,M. Lemos,1
+Bigas,L. R\u00e9my,1
+L. R\u00e9my,Vitolo,1
+O. Tannane,M. Lemos,1
+Jonathan Viera,L. R\u00e9my,1
+M. Lemos,Jonathan Viera,1
+Jonathan Viera,Bigas,1
+Jonathan Viera,Hern\u00e1n,1
+L. Chichizola,M. Lemos,1
+Hern\u00e1n,Vitolo,1
+Vitolo,Jonathan Viera,1

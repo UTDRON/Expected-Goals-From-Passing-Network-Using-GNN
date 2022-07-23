@@ -1,0 +1,58 @@
+Source,Target,Weight
+Diego Rico,A. Szymanowski,4
+Diego Rico,D. Siovas,4
+N. Amrabat,Diego Rico,4
+Zald\u00faa,N. El Zhar,4
+N. El Zhar,Zald\u00faa,3
+E. Mu\u00f1oz,Cu\u00e9llar,3
+A. Szymanowski,Eraso,3
+D. Siovas,Gabriel,3
+Zald\u00faa,E. Mu\u00f1oz,3
+Cu\u00e9llar,N. Amrabat,3
+Diego Rico,Gabriel,3
+N. Amrabat,A. Szymanowski,2
+D. Siovas,Diego Rico,2
+A. Szymanowski,Diego Rico,2
+Eraso,Gabriel,2
+Gabriel,Rub\u00e9n P\u00e9rez,2
+Cu\u00e9llar,Diego Rico,2
+Gabriel,D. Siovas,2
+Gabriel,Diego Rico,2
+E. Mu\u00f1oz,Rub\u00e9n P\u00e9rez,2
+Diego Rico,Eraso,2
+Gabriel,N. Amrabat,2
+Rub\u00e9n P\u00e9rez,Zald\u00faa,2
+D. Siovas,Cu\u00e9llar,1
+Zald\u00faa,N. Amrabat,1
+N. Amrabat,Zald\u00faa,1
+Eraso,D. Siovas,1
+Rub\u00e9n P\u00e9rez,N. El Zhar,1
+A. Szymanowski,Zald\u00faa,1
+N. El Zhar,N. Amrabat,1
+Diego Rico,E. Mu\u00f1oz,1
+N. Amrabat,N. El Zhar,1
+N. El Zhar,Diego Rico,1
+D. Siovas,Zald\u00faa,1
+Eraso,E. Mu\u00f1oz,1
+Zald\u00faa,Rub\u00e9n P\u00e9rez,1
+N. El Zhar,Rub\u00e9n P\u00e9rez,1
+Rub\u00e9n P\u00e9rez,A. Szymanowski,1
+Eraso,N. Amrabat,1
+Zald\u00faa,Diego Rico,1
+Gabriel,A. Szymanowski,1
+Zald\u00faa,Cu\u00e9llar,1
+N. El Zhar,Eraso,1
+Rub\u00e9n P\u00e9rez,N. Amrabat,1
+Diego Rico,Zald\u00faa,1
+E. Mu\u00f1oz,N. El Zhar,1
+A. Szymanowski,Gabriel,1
+Rub\u00e9n P\u00e9rez,Eraso,1
+D. Siovas,N. Amrabat,1
+Rub\u00e9n P\u00e9rez,Diego Rico,1
+N. El Zhar,E. Mu\u00f1oz,1
+Diego Rico,N. El Zhar,1
+E. Mu\u00f1oz,Zald\u00faa,1
+Eraso,Diego Rico,1
+N. Amrabat,D. Siovas,1
+Eraso,Zald\u00faa,1
+A. Szymanowski,Rub\u00e9n P\u00e9rez,1

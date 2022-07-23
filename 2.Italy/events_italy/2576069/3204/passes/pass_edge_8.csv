@@ -1,0 +1,47 @@
+Source,Target,Weight
+Felipe,M. Lazzari,4
+B. Salamon,M. Lazzari,4
+F. Viviani,F. Mattiello,4
+A. Gomis,Felipe,3
+M. Lazzari,F. Viviani,3
+M. Lazzari,B. Salamon,3
+B. Salamon,Felipe,3
+M. Antenucci,F. Mattiello,2
+Felipe,F. Viviani,2
+M. Antenucci,L. Rizzo,2
+L. Rizzo,F. Costa,2
+F. Mattiello,F. Viviani,2
+E. Schiavon,M. Antenucci,2
+F. Costa,E. Schiavon,2
+F. Costa,A. Gomis,2
+F. Viviani,B. Salamon,2
+F. Mattiello,B. Salamon,2
+M. Lazzari,Felipe,2
+M. Lazzari,F. Mattiello,2
+F. Mattiello,M. Antenucci,2
+B. Salamon,A. Gomis,2
+F. Mattiello,M. Lazzari,2
+M. Antenucci,F. Costa,2
+L. Rizzo,F. Viviani,2
+F. Viviani,M. Antenucci,1
+L. Rizzo,B. Salamon,1
+Felipe,M. Antenucci,1
+F. Costa,M. Antenucci,1
+F. Viviani,M. Lazzari,1
+M. Antenucci,F. Viviani,1
+Felipe,L. Rizzo,1
+F. Viviani,Felipe,1
+F. Costa,L. Rizzo,1
+F. Mattiello,F. Costa,1
+M. Antenucci,Felipe,1
+E. Schiavon,L. Rizzo,1
+Felipe,E. Schiavon,1
+Felipe,A. Gomis,1
+E. Schiavon,F. Costa,1
+A. Gomis,A. Paloschi,1
+L. Rizzo,E. Schiavon,1
+F. Costa,Felipe,1
+A. Paloschi,F. Mattiello,1
+A. Gomis,B. Salamon,1
+Felipe,F. Costa,1
+M. Lazzari,M. Antenucci,1

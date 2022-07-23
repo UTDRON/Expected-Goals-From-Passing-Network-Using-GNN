@@ -1,0 +1,55 @@
+Source,Target,Weight
+Ander Capa,Paulo Oliveira,3
+Beb\u00e9,Dani Garc\u00eda,3
+Joan Jord\u00e1n,Sergi Enrich,3
+Paulo Oliveira,M. Dmitrovi\u0107,3
+Kike Garc\u00eda,Jos\u00e9 \u00c1ngel,2
+Jos\u00e9 \u00c1ngel,Ander Capa,2
+Dani Garc\u00eda,Joan Jord\u00e1n,2
+Paulo Oliveira,Ramis,2
+Ramis,Paulo Oliveira,2
+Ramis,Joan Jord\u00e1n,2
+Joan Jord\u00e1n,Paulo Oliveira,2
+Jos\u00e9 \u00c1ngel,Kike Garc\u00eda,2
+Ander Capa,Kike Garc\u00eda,2
+M. Dmitrovi\u0107,Sergi Enrich,2
+Kike Garc\u00eda,Beb\u00e9,1
+Ramis,Beb\u00e9,1
+Sergi Enrich,Jos\u00e9 \u00c1ngel,1
+Kike Garc\u00eda,Dani Garc\u00eda,1
+Sergi Enrich,Charles,1
+Paulo Oliveira,Ander Capa,1
+Ander Capa,T. Inui,1
+Ander Capa,Ramis,1
+Ramis,Kike Garc\u00eda,1
+Jos\u00e9 \u00c1ngel,Dani Garc\u00eda,1
+Ander Capa,Joan Jord\u00e1n,1
+Ramis,Jos\u00e9 \u00c1ngel,1
+Paulo Oliveira,T. Inui,1
+Paulo Oliveira,Jos\u00e9 \u00c1ngel,1
+T. Inui,Joan Jord\u00e1n,1
+Beb\u00e9,Ander Capa,1
+Kike Garc\u00eda,Ander Capa,1
+Jos\u00e9 \u00c1ngel,Beb\u00e9,1
+Joan Jord\u00e1n,Jos\u00e9 \u00c1ngel,1
+Sergi Enrich,Joan Jord\u00e1n,1
+Joan Jord\u00e1n,Ander Capa,1
+Jos\u00e9 \u00c1ngel,Paulo Oliveira,1
+Beb\u00e9,Kike Garc\u00eda,1
+Sergi Enrich,Ander Capa,1
+Dani Garc\u00eda,Beb\u00e9,1
+Charles,Beb\u00e9,1
+Jos\u00e9 \u00c1ngel,Sergi Enrich,1
+Dani Garc\u00eda,Ander Capa,1
+Dani Garc\u00eda,Charles,1
+Beb\u00e9,Paulo Oliveira,1
+Sergi Enrich,Beb\u00e9,1
+M. Dmitrovi\u0107,Beb\u00e9,1
+Sergi Enrich,Ramis,1
+T. Inui,Ramis,1
+Charles,Dani Garc\u00eda,1
+Beb\u00e9,Ramis,1
+Joan Jord\u00e1n,Ramis,1
+Dani Garc\u00eda,Jos\u00e9 \u00c1ngel,1
+Paulo Oliveira,Joan Jord\u00e1n,1
+Beb\u00e9,Jos\u00e9 \u00c1ngel,1

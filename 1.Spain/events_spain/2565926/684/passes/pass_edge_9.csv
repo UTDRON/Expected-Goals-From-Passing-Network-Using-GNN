@@ -1,0 +1,16 @@
+Source,Target,Weight
+R. Durmisi,A. Mandi,3
+Bartra,A. Sanabria,2
+A. Sanabria,R. Durmisi,2
+A. Mandi,R. Durmisi,1
+Fabi\u00e1n,Francis Guerrero,1
+Fabi\u00e1n,R. Durmisi,1
+J. Campbell,Rub\u00e9n Castro,1
+Francis Guerrero,J. Campbell,1
+R. Durmisi,Rafa Navarro,1
+Rafa Navarro,Bartra,1
+A. Mandi,Bartra,1
+R. Durmisi,Fabi\u00e1n,1
+Bartra,R. Durmisi,1
+A. Mandi,Fabi\u00e1n,1
+Rub\u00e9n Castro,A. Sanabria,1

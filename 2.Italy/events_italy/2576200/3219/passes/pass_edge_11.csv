@@ -1,0 +1,15 @@
+Source,Target,Weight
+M. Coda,Sandro,2
+P. Iemmello,N. Viola,2
+N. Viola,A. To\u0219ca,2
+A. To\u0219ca,P. Iemmello,2
+B. Sagna,M. Coda,2
+E. Brignola,B. Sagna,1
+P. Iemmello,M. Coda,1
+Sandro,N. Viola,1
+N. Viola,F. \u0110uri\u010di\u0107,1
+F. \u0110uri\u010di\u0107,B. Sagna,1
+Sandro,P. Iemmello,1
+M. Coda,P. Iemmello,1
+P. Iemmello,B. Sagna,1
+B. Sagna,E. Brignola,1

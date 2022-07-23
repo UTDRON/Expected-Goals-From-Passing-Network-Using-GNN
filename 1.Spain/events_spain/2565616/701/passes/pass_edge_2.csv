@@ -1,0 +1,43 @@
+Source,Target,Weight
+G. Escalante,Ander Capa,4
+David Junc\u00e0,T. Inui,3
+Ander Capa,G. Escalante,3
+Kike Garc\u00eda,G. Escalante,3
+Ander Capa,Sergi Enrich,2
+M. Dmitrovi\u0107,Kike Garc\u00eda,2
+Sergi Enrich,G. Escalante,2
+David Junc\u00e0,M. Dmitrovi\u0107,2
+G. Escalante,Kike Garc\u00eda,2
+Ander Capa,Rub\u00e9n Pe\u00f1a,2
+Sergi Enrich,David Junc\u00e0,1
+Arbilla,Rub\u00e9n Pe\u00f1a,1
+M. Dmitrovi\u0107,G. Escalante,1
+Rub\u00e9n Pe\u00f1a,Sergi Enrich,1
+Arbilla,Kike Garc\u00eda,1
+Ander Capa,Arbilla,1
+G. Escalante,M. Dmitrovi\u0107,1
+Lomb\u00e1n,Ander Capa,1
+Arbilla,Ander Capa,1
+Kike Garc\u00eda,T. Inui,1
+Ander Capa,David Junc\u00e0,1
+Arbilla,David Junc\u00e0,1
+Kike Garc\u00eda,David Junc\u00e0,1
+T. Inui,David Junc\u00e0,1
+T. Inui,Ander Capa,1
+M. Dmitrovi\u0107,Ander Capa,1
+Rub\u00e9n Pe\u00f1a,G. Escalante,1
+David Junc\u00e0,Kike Garc\u00eda,1
+Rub\u00e9n Pe\u00f1a,Arbilla,1
+Dani Garc\u00eda,Rub\u00e9n Pe\u00f1a,1
+Lomb\u00e1n,David Junc\u00e0,1
+T. Inui,Sergi Enrich,1
+T. Inui,Dani Garc\u00eda,1
+Rub\u00e9n Pe\u00f1a,David Junc\u00e0,1
+David Junc\u00e0,Lomb\u00e1n,1
+Arbilla,Dani Garc\u00eda,1
+Sergi Enrich,M. Dmitrovi\u0107,1
+G. Escalante,Lomb\u00e1n,1
+G. Escalante,David Junc\u00e0,1
+Kike Garc\u00eda,Ander Capa,1
+Dani Garc\u00eda,Arbilla,1
+G. Escalante,Arbilla,1

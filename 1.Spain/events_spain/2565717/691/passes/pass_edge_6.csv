@@ -1,0 +1,43 @@
+Source,Target,Weight
+Sergi Darder,Javi L\u00f3pez,4
+P. Piatti,Sergio Garc\u00eda,4
+Gerard Moreno,Sergi Darder,3
+Gerard Moreno,David L\u00f3pez,3
+Sergio Garc\u00eda,Gerard Moreno,3
+Sergi Darder,Sergio Garc\u00eda,3
+Javi L\u00f3pez,Sergi Darder,3
+Javi L\u00f3pez,Gerard Moreno,3
+Sergio Garc\u00eda,P. Piatti,2
+David L\u00f3pez,P. Piatti,2
+David L\u00f3pez,Javi L\u00f3pez,2
+\u00d3. Duarte,Gerard Moreno,2
+Javi L\u00f3pez,P. Piatti,1
+Aar\u00f3n,Mario Hermoso,1
+Gerard Moreno,\u00d3. Duarte,1
+\u00d3. Duarte,David L\u00f3pez,1
+Sergio Garc\u00eda,\u00d3. Duarte,1
+Javi L\u00f3pez,\u00d3. Duarte,1
+Mario Hermoso,Gerard Moreno,1
+Mario Hermoso,Javi L\u00f3pez,1
+Sergio Garc\u00eda,Aar\u00f3n,1
+Gerard Moreno,Javi L\u00f3pez,1
+Sergio Garc\u00eda,David L\u00f3pez,1
+David L\u00f3pez,\u00d3. Duarte,1
+\u00d3. Duarte,Javi L\u00f3pez,1
+Sergi Darder,Gerard Moreno,1
+\u00d3. Duarte,Sergi Darder,1
+Gerard Moreno,Mario Hermoso,1
+Sergio Garc\u00eda,Javi Fuego,1
+David L\u00f3pez,Mario Hermoso,1
+Mario Hermoso,Pau L\u00f3pez,1
+Javi L\u00f3pez,Sergio Garc\u00eda,1
+Gerard Moreno,Javi Fuego,1
+Pau L\u00f3pez,P. Piatti,1
+Javi Fuego,Mario Hermoso,1
+P. Piatti,Gerard Moreno,1
+P. Piatti,Javi Fuego,1
+Mario Hermoso,Aar\u00f3n,1
+Javi Fuego,David L\u00f3pez,1
+Aar\u00f3n,David L\u00f3pez,1
+Javi Fuego,Sergi Darder,1
+David L\u00f3pez,Sergio Garc\u00eda,1

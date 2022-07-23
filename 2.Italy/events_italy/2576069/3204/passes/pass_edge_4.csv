@@ -1,0 +1,96 @@
+Source,Target,Weight
+M. Lazzari,F. Viviani,9
+F. Viviani,M. Lazzari,7
+A. Grassi,F. Viviani,7
+F. Viviani,B. Salamon,5
+F. Mattiello,A. Grassi,5
+B. Salamon,F. Mattiello,5
+A. Grassi,M. Lazzari,4
+F. Viviani,F. Costa,4
+A. Paloschi,A. Grassi,4
+F. Viviani,A. Grassi,4
+B. Salamon,Felipe,4
+F. Mattiello,Felipe,4
+B. Salamon,F. Viviani,4
+M. Lazzari,F. Mattiello,4
+B. Salamon,M. Lazzari,4
+F. Viviani,Felipe,4
+Felipe,B. Salamon,4
+A. Grassi,L. Mora,3
+Felipe,A. Grassi,3
+F. Costa,L. Mora,3
+F. Viviani,M. Antenucci,3
+Felipe,F. Viviani,3
+L. Mora,Felipe,3
+Felipe,M. Antenucci,3
+M. Antenucci,M. Lazzari,2
+M. Antenucci,F. Costa,2
+F. Costa,B. Salamon,2
+A. Grassi,M. Antenucci,2
+B. Salamon,A. Gomis,2
+Felipe,F. Mattiello,2
+A. Gomis,L. Mora,2
+M. Antenucci,A. Grassi,2
+A. Paloschi,L. Mora,2
+M. Antenucci,B. Salamon,2
+L. Mora,F. Viviani,2
+L. Mora,F. Vicari,2
+M. Lazzari,A. Paloschi,2
+M. Antenucci,L. Mora,2
+M. Lazzari,A. Grassi,2
+F. Viviani,L. Mora,2
+A. Grassi,A. Paloschi,2
+F. Viviani,F. Mattiello,2
+L. Mora,B. Salamon,2
+F. Mattiello,B. Salamon,2
+F. Mattiello,A. Paloschi,2
+L. Mora,F. Costa,2
+Felipe,F. Vicari,2
+F. Mattiello,F. Viviani,2
+A. Paloschi,F. Viviani,2
+B. Salamon,M. Antenucci,2
+F. Costa,F. Viviani,2
+L. Mora,F. Mattiello,1
+L. Mora,A. Gomis,1
+B. Salamon,A. Paloschi,1
+M. Antenucci,A. Paloschi,1
+F. Vicari,F. Viviani,1
+M. Antenucci,F. Mattiello,1
+F. Vicari,B. Salamon,1
+A. Gomis,M. Antenucci,1
+A. Paloschi,B. Salamon,1
+Felipe,A. Paloschi,1
+F. Viviani,A. Paloschi,1
+A. Grassi,Felipe,1
+F. Vicari,L. Mora,1
+F. Mattiello,A. Gomis,1
+F. Vicari,Felipe,1
+L. Mora,M. Antenucci,1
+L. Mora,M. Lazzari,1
+M. Antenucci,F. Viviani,1
+A. Gomis,M. Lazzari,1
+M. Antenucci,F. Vicari,1
+M. Lazzari,M. Antenucci,1
+A. Grassi,F. Costa,1
+A. Gomis,F. Viviani,1
+Felipe,L. Mora,1
+A. Paloschi,F. Mattiello,1
+F. Mattiello,M. Antenucci,1
+F. Viviani,F. Vicari,1
+F. Costa,F. Mattiello,1
+F. Costa,M. Antenucci,1
+A. Gomis,F. Mattiello,1
+F. Mattiello,L. Mora,1
+L. Mora,A. Grassi,1
+F. Vicari,A. Gomis,1
+Felipe,M. Lazzari,1
+M. Lazzari,Felipe,1
+F. Viviani,A. Gomis,1
+A. Paloschi,F. Costa,1
+M. Lazzari,B. Salamon,1
+A. Grassi,B. Salamon,1
+F. Vicari,A. Paloschi,1
+F. Costa,A. Paloschi,1
+M. Antenucci,Felipe,1
+L. Mora,A. Paloschi,1
+A. Paloschi,Felipe,1

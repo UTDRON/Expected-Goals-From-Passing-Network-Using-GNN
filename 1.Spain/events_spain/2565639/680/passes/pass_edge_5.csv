@@ -1,0 +1,17 @@
+Source,Target,Weight
+Pablo Sarabia,S. Corchia,2
+Pablo Sarabia,C. Lenglet,2
+G. Pizarro,Pablo Sarabia,1
+C. Lenglet,G. Pizarro,1
+S. N'Zonzi,Pablo Sarabia,1
+M. Krohn-Dehli,Sergio Escudero,1
+S. Corchia,Pablo Sarabia,1
+G. Pizarro,M. Krohn-Dehli,1
+S. Corchia,G. Pizarro,1
+Pablo Sarabia,S. N'Zonzi,1
+S. N'Zonzi,S. Corchia,1
+M. Krohn-Dehli,Nolito,1
+S. Corchia,S. N'Zonzi,1
+C. Lenglet,S. Kj\u00e6r,1
+S. Kj\u00e6r,Pablo Sarabia,1
+Sergio Escudero,M. Krohn-Dehli,1

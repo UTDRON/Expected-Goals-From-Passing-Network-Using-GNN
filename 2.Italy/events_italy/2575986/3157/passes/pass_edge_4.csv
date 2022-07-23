@@ -1,0 +1,73 @@
+Source,Target,Weight
+M. Musacchio,R. Montolivo,9
+R. Rodr\u00edguez,R. Montolivo,8
+R. Montolivo,L. Bonucci,7
+F. Kessi\u00e9,D. Calabria,7
+L. Biglia,R. Montolivo,7
+R. Montolivo,L. Biglia,7
+L. Biglia,L. Bonucci,6
+L. Bonucci,F. Kessi\u00e9,6
+F. Kessi\u00e9,Suso,6
+L. Bonucci,D. Calabria,6
+R. Montolivo,F. Borini,5
+R. Rodr\u00edguez,L. Biglia,5
+D. Calabria,F. Kessi\u00e9,5
+M. Musacchio,R. Rodr\u00edguez,5
+L. Bonucci,M. Musacchio,4
+L. Bonucci,F. Borini,4
+F. Kessi\u00e9,L. Biglia,4
+M. Musacchio,G. Donnarumma,4
+R. Montolivo,R. Rodr\u00edguez,4
+M. Musacchio,L. Bonucci,4
+R. Montolivo,M. Musacchio,4
+G. Donnarumma,F. Kessi\u00e9,3
+Suso,L. Biglia,3
+L. Biglia,M. Musacchio,3
+D. Calabria,L. Bonucci,3
+D. Calabria,R. Rodr\u00edguez,3
+F. Borini,L. Biglia,3
+Suso,D. Calabria,3
+F. Kessi\u00e9,M. Musacchio,3
+L. Biglia,F. Borini,3
+F. Borini,M. Musacchio,3
+M. Musacchio,L. Biglia,3
+R. Rodr\u00edguez,M. Musacchio,3
+P. Cutrone,F. Kessi\u00e9,2
+F. Kessi\u00e9,L. Bonucci,2
+L. Biglia,F. Kessi\u00e9,2
+D. Calabria,G. Donnarumma,2
+D. Calabria,M. Musacchio,2
+L. Biglia,R. Rodr\u00edguez,2
+R. Rodr\u00edguez,F. Borini,2
+F. Borini,P. Cutrone,2
+L. Biglia,Suso,2
+L. Biglia,D. Calabria,2
+G. Donnarumma,M. Musacchio,2
+L. Bonucci,L. Biglia,2
+D. Calabria,Suso,2
+F. Borini,R. Montolivo,2
+R. Montolivo,F. Kessi\u00e9,2
+G. Donnarumma,L. Bonucci,2
+P. Cutrone,R. Montolivo,1
+Suso,P. Cutrone,1
+F. Kessi\u00e9,R. Montolivo,1
+Suso,R. Rodr\u00edguez,1
+F. Borini,D. Calabria,1
+Suso,G. Donnarumma,1
+R. Montolivo,G. Donnarumma,1
+G. Donnarumma,R. Montolivo,1
+F. Borini,Suso,1
+F. Borini,R. Rodr\u00edguez,1
+L. Bonucci,R. Montolivo,1
+L. Bonucci,R. Rodr\u00edguez,1
+L. Biglia,G. Donnarumma,1
+Suso,M. Musacchio,1
+D. Calabria,L. Biglia,1
+G. Donnarumma,R. Rodr\u00edguez,1
+R. Rodr\u00edguez,F. Kessi\u00e9,1
+D. Calabria,P. Cutrone,1
+F. Borini,F. Kessi\u00e9,1
+P. Cutrone,R. Rodr\u00edguez,1
+G. Donnarumma,P. Cutrone,1
+P. Cutrone,L. Bonucci,1
+L. Bonucci,G. Donnarumma,1

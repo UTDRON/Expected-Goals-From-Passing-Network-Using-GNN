@@ -1,0 +1,64 @@
+Source,Target,Weight
+E. Garay,Nacho Vidal,5
+J. Murillo,Dani Parejo,5
+Dani Parejo,N. Maksimovi\u0107,4
+Nacho Vidal,Carlos Soler,4
+J. Murillo,E. Garay,4
+E. Garay,Carlos Soler,3
+Carlos Soler,Dani Parejo,3
+Nacho Vidal,E. Garay,3
+Gon\u00e7alo Guedes,S. Zaza,3
+Dani Parejo,S. Zaza,3
+N. Maksimovi\u0107,Carlos Soler,3
+N. Maksimovi\u0107,J. Murillo,3
+Dani Parejo,Gon\u00e7alo Guedes,3
+Jaume,J. Murillo,3
+Dani Parejo,Jos\u00e9 Gay\u00e1,2
+E. Garay,N. Maksimovi\u0107,2
+S. Zaza,Jos\u00e9 Gay\u00e1,2
+Nacho Vidal,Gon\u00e7alo Guedes,2
+Carlos Soler,Nacho Vidal,2
+N. Maksimovi\u0107,Jos\u00e9 Gay\u00e1,2
+N. Maksimovi\u0107,Dani Parejo,2
+J. Murillo,Nacho Vidal,2
+S. Zaza,N. Maksimovi\u0107,2
+Carlos Soler,Rodrigo,2
+Nacho Vidal,S. Zaza,2
+Jos\u00e9 Gay\u00e1,N. Maksimovi\u0107,2
+E. Garay,J. Murillo,2
+Dani Parejo,Nacho Vidal,2
+Rodrigo,Jos\u00e9 Gay\u00e1,2
+Nacho Vidal,Jaume,2
+Jos\u00e9 Gay\u00e1,S. Zaza,2
+Jos\u00e9 Gay\u00e1,J. Murillo,2
+N. Maksimovi\u0107,E. Garay,2
+S. Zaza,Jaume,2
+Carlos Soler,N. Maksimovi\u0107,2
+Jos\u00e9 Gay\u00e1,E. Garay,1
+Dani Parejo,Carlos Soler,1
+E. Garay,Dani Parejo,1
+N. Maksimovi\u0107,Gon\u00e7alo Guedes,1
+Carlos Soler,Jos\u00e9 Gay\u00e1,1
+Rodrigo,Dani Parejo,1
+Jos\u00e9 Gay\u00e1,Nacho Vidal,1
+Gon\u00e7alo Guedes,Dani Parejo,1
+Nacho Vidal,Rodrigo,1
+S. Zaza,Nacho Vidal,1
+Jaume,Dani Parejo,1
+Gon\u00e7alo Guedes,N. Maksimovi\u0107,1
+Nacho Vidal,J. Murillo,1
+Gon\u00e7alo Guedes,Nacho Vidal,1
+S. Zaza,Gon\u00e7alo Guedes,1
+Jos\u00e9 Gay\u00e1,Dani Parejo,1
+N. Maksimovi\u0107,Nacho Vidal,1
+Carlos Soler,J. Murillo,1
+J. Murillo,Gon\u00e7alo Guedes,1
+Dani Parejo,E. Garay,1
+S. Zaza,Dani Parejo,1
+Gon\u00e7alo Guedes,J. Murillo,1
+Carlos Soler,E. Garay,1
+Gon\u00e7alo Guedes,E. Garay,1
+N. Maksimovi\u0107,Rodrigo,1
+S. Zaza,Carlos Soler,1
+Nacho Vidal,N. Maksimovi\u0107,1
+J. Murillo,N. Maksimovi\u0107,1

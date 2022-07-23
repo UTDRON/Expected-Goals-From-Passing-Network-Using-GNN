@@ -1,0 +1,35 @@
+Source,Target,Weight
+Wallace,A. Maru\u0161i\u0107,3
+A. Maru\u0161i\u0107,S. Milinkovi\u0107-Savi\u0107,3
+S. Milinkovi\u0107-Savi\u0107,Luis Alberto,2
+Luis Alberto,S. Milinkovi\u0107-Savi\u0107,2
+A. Maru\u0161i\u0107,Wallace,2
+Wallace,T. Strakosha,2
+S. Milinkovi\u0107-Savi\u0107,M. Parolo,2
+Luis Alberto,M. Parolo,1
+M. Parolo,S. Milinkovi\u0107-Savi\u0107,1
+T. Strakosha,Wallace,1
+A. Maru\u0161i\u0107,S. Luli\u0107,1
+S. Luli\u0107,Luis Alberto,1
+\u015e. Radu,J. Lukaku,1
+M. Parolo,A. Maru\u0161i\u0107,1
+S. Luli\u0107,S. de Vrij,1
+J. Lukaku,A. Maru\u0161i\u0107,1
+\u015e. Radu,Wallace,1
+S. de Vrij,S. Luli\u0107,1
+S. Luli\u0107,A. Maru\u0161i\u0107,1
+S. Milinkovi\u0107-Savi\u0107,A. Maru\u0161i\u0107,1
+S. de Vrij,S. Milinkovi\u0107-Savi\u0107,1
+S. de Vrij,\u015e. Radu,1
+J. Lukaku,\u015e. Radu,1
+M. Parolo,Wallace,1
+A. Maru\u0161i\u0107,Luis Alberto,1
+S. de Vrij,J. Lukaku,1
+C. Immobile,S. de Vrij,1
+Wallace,S. de Vrij,1
+T. Strakosha,S. de Vrij,1
+Luis Alberto,S. Luli\u0107,1
+S. Milinkovi\u0107-Savi\u0107,C. Immobile,1
+S. Luli\u0107,S. Milinkovi\u0107-Savi\u0107,1
+J. Lukaku,Wallace,1
+S. Milinkovi\u0107-Savi\u0107,J. Lukaku,1

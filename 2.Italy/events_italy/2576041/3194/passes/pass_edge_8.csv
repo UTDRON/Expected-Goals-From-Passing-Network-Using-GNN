@@ -1,0 +1,31 @@
+Source,Target,Weight
+R\u00f4mulo,M. C\u00e1ceres,3
+M. C\u00e1ceres,R\u00f4mulo,2
+M. B\u00fcchel,M. C\u00e1ceres,1
+M. B\u00fcchel,D. Verde,1
+A. Caracciolo,Nicolas,1
+M. B\u00fcchel,A. Caracciolo,1
+M. C\u00e1ceres,M. Fares,1
+A. Caracciolo,Daniel Bessa,1
+S. Souprayen,M. Fares,1
+S. Souprayen,A. Caracciolo,1
+A. Caracciolo,G. Pazzini,1
+Daniel Bessa,A. Caracciolo,1
+D. Verde,M. C\u00e1ceres,1
+M. C\u00e1ceres,S. Souprayen,1
+Daniel Bessa,R\u00f4mulo,1
+A. Caracciolo,M. B\u00fcchel,1
+S. Souprayen,M. B\u00fcchel,1
+M. C\u00e1ceres,Daniel Bessa,1
+M. B\u00fcchel,S. Souprayen,1
+M. Kean,A. Caracciolo,1
+R\u00f4mulo,Daniel Bessa,1
+M. C\u00e1ceres,M. B\u00fcchel,1
+Nicolas,M. B\u00fcchel,1
+M. C\u00e1ceres,M. Kean,1
+M. B\u00fcchel,Nicolas,1
+G. Pazzini,M. B\u00fcchel,1
+M. Fares,R\u00f4mulo,1
+Nicolas,M. C\u00e1ceres,1
+A. Caracciolo,S. Souprayen,1
+Daniel Bessa,M. C\u00e1ceres,1

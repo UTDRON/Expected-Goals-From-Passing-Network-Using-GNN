@@ -1,0 +1,30 @@
+Source,Target,Weight
+S. Perica,Danilo,3
+J. Stryger Larsen,S. Perica,3
+S. Perica,J. Stryger Larsen,2
+Ryder Matos,J. Stryger Larsen,2
+Ryder Matos,V. Behrami,2
+J. Stryger Larsen,Ryder Matos,2
+J. Jankto,V. Behrami,2
+J. Jankto,S. Perica,2
+S. Perica,Ryder Matos,2
+A. Bizzarri,S. Perica,2
+V. Behrami,A. Bizzarri,2
+Danilo,S. Perica,1
+Danilo,Samir,1
+A. Bizzarri,K. Lasagna,1
+V. Behrami,Ali Adnan,1
+Ali Adnan,J. Jankto,1
+J. Jankto,A. Bar\u00e1k,1
+K. Lasagna,J. Jankto,1
+Danilo,J. Stryger Larsen,1
+A. Bizzarri,Ryder Matos,1
+A. Bar\u00e1k,J. Stryger Larsen,1
+J. Stryger Larsen,Danilo,1
+V. Behrami,J. Stryger Larsen,1
+J. Stryger Larsen,Samir,1
+Danilo,A. Bizzarri,1
+Samir,A. Bizzarri,1
+Samir,J. Jankto,1
+S. Perica,J. Jankto,1
+Ryder Matos,S. Perica,1

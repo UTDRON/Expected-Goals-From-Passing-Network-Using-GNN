@@ -1,0 +1,15 @@
+Source,Target,Weight
+A. Grassi,F. Mattiello,2
+M. Lazzari,F. Vicari,2
+B. Salamon,M. Lazzari,1
+A. Grassi,M. Lazzari,1
+A. Gomis,A. Grassi,1
+F. Viviani,A. Grassi,1
+M. Lazzari,B. Salamon,1
+B. Salamon,M. Cremonesi,1
+F. Vicari,F. Viviani,1
+F. Vicari,B. Salamon,1
+F. Mattiello,F. Vicari,1
+M. Cremonesi,A. Gomis,1
+F. Vicari,A. Grassi,1
+F. Mattiello,A. Grassi,1

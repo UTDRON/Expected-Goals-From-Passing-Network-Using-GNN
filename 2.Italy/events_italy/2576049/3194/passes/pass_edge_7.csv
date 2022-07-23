@@ -1,0 +1,25 @@
+Source,Target,Weight
+D. Verde,M. Fares,2
+M. Fares,S. Souprayen,2
+M. Fares,M. Kean,2
+R\u00f4mulo,D. Verde,1
+Nicolas,M. Fares,1
+Nicolas,M. Kean,1
+Daniel Bessa,A. Caracciolo,1
+S. Souprayen,Nicolas,1
+R\u00f4mulo,A. Caracciolo,1
+M. Fares,Daniel Bessa,1
+A. Caracciolo,Nicolas,1
+M. Fares,T. Heurtaux,1
+Daniel Bessa,T. Heurtaux,1
+M. Kean,M. Fares,1
+T. Heurtaux,R\u00f4mulo,1
+Nicolas,T. Heurtaux,1
+A. Cerci,R\u00f4mulo,1
+T. Heurtaux,S. Souprayen,1
+D. Verde,A. Cerci,1
+T. Heurtaux,M. Fares,1
+M. Kean,Nicolas,1
+A. Caracciolo,D. Verde,1
+S. Souprayen,Daniel Bessa,1
+S. Souprayen,M. Fares,1

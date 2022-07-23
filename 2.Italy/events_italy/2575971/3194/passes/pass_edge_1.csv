@@ -1,0 +1,80 @@
+Source,Target,Weight
+S. Souprayen,M. C\u00e1ceres,7
+M. B\u00fcchel,M. C\u00e1ceres,7
+M. C\u00e1ceres,S. Souprayen,7
+S. Souprayen,M. B\u00fcchel,6
+Daniel Bessa,S. Souprayen,6
+M. Fares,D. Verde,5
+A. Ferrari,Nicolas,5
+M. B\u00fcchel,S. Souprayen,5
+S. Souprayen,D. Verde,5
+Nicolas,A. Ferrari,4
+R\u00f4mulo,A. Ferrari,4
+A. Ferrari,Daniel Bessa,4
+S. Souprayen,Daniel Bessa,4
+A. Ferrari,R\u00f4mulo,4
+D. Verde,S. Souprayen,4
+Nicolas,M. C\u00e1ceres,4
+M. C\u00e1ceres,Daniel Bessa,4
+B. Zuculini,M. B\u00fcchel,4
+M. C\u00e1ceres,A. Ferrari,4
+Daniel Bessa,D. Verde,3
+A. Cerci,R\u00f4mulo,3
+R\u00f4mulo,M. B\u00fcchel,3
+M. Fares,M. C\u00e1ceres,3
+D. Verde,M. B\u00fcchel,3
+D. Verde,Daniel Bessa,3
+M. C\u00e1ceres,M. B\u00fcchel,3
+A. Ferrari,M. C\u00e1ceres,3
+R\u00f4mulo,S. Souprayen,3
+R\u00f4mulo,M. Fares,3
+A. Ferrari,M. B\u00fcchel,3
+M. C\u00e1ceres,B. Zuculini,3
+S. Souprayen,A. Cerci,3
+M. B\u00fcchel,Daniel Bessa,3
+Daniel Bessa,M. B\u00fcchel,3
+M. B\u00fcchel,B. Zuculini,3
+M. B\u00fcchel,R\u00f4mulo,3
+R\u00f4mulo,B. Zuculini,2
+M. C\u00e1ceres,A. Cerci,2
+B. Zuculini,A. Ferrari,2
+M. B\u00fcchel,A. Ferrari,2
+Daniel Bessa,M. C\u00e1ceres,2
+M. Fares,A. Ferrari,2
+Daniel Bessa,B. Zuculini,2
+S. Souprayen,M. Fares,2
+M. C\u00e1ceres,M. Fares,2
+M. Fares,R\u00f4mulo,2
+M. B\u00fcchel,M. Fares,2
+B. Zuculini,R\u00f4mulo,2
+D. Verde,M. Fares,2
+A. Cerci,Daniel Bessa,2
+M. Fares,B. Zuculini,2
+Daniel Bessa,A. Ferrari,2
+B. Zuculini,A. Cerci,1
+Nicolas,M. Fares,1
+B. Zuculini,S. Souprayen,1
+A. Ferrari,B. Zuculini,1
+B. Zuculini,M. C\u00e1ceres,1
+S. Souprayen,A. Ferrari,1
+M. B\u00fcchel,A. Cerci,1
+M. Fares,A. Cerci,1
+R\u00f4mulo,Daniel Bessa,1
+B. Zuculini,Nicolas,1
+A. Cerci,M. B\u00fcchel,1
+Daniel Bessa,R\u00f4mulo,1
+M. Fares,S. Souprayen,1
+A. Cerci,Nicolas,1
+M. C\u00e1ceres,Nicolas,1
+Nicolas,A. Cerci,1
+A. Ferrari,M. Fares,1
+Daniel Bessa,A. Cerci,1
+M. B\u00fcchel,Nicolas,1
+M. C\u00e1ceres,R\u00f4mulo,1
+Daniel Bessa,M. Fares,1
+D. Verde,Nicolas,1
+S. Souprayen,Nicolas,1
+A. Cerci,S. Souprayen,1
+A. Cerci,M. Fares,1
+B. Zuculini,M. Fares,1
+Nicolas,S. Souprayen,1

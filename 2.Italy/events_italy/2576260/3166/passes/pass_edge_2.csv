@@ -1,0 +1,84 @@
+Source,Target,Weight
+S. De Maio,F. Helander,13
+F. Helander,S. De Maio,10
+A. Masina,R. Palacio,7
+A. Poli,S. De Maio,6
+E. Pulgar,G. Donsah,5
+A. Masina,E. Pulgar,5
+R. Palacio,E. Pulgar,5
+F. Di Francesco,A. Poli,5
+E. Pulgar,A. Poli,5
+F. Helander,A. Poli,4
+S. De Maio,E. Pulgar,4
+F. Di Francesco,A. Masina,4
+G. Donsah,E. Pulgar,4
+E. Pulgar,F. Helander,4
+A. Masina,F. Di Francesco,4
+E. Pulgar,F. Di Francesco,4
+A. Poli,A. Masina,4
+A. Mirante,A. Masina,4
+R. Palacio,S. De Maio,3
+R. Palacio,F. Di Francesco,3
+S. De Maio,A. Mirante,3
+S. De Maio,G. Donsah,3
+S. Verdi,V. Torosidis,3
+R. Palacio,S. Verdi,3
+V. Torosidis,S. De Maio,3
+V. Torosidis,E. Pulgar,3
+F. Helander,G. Donsah,3
+F. Helander,A. Mirante,3
+F. Helander,S. Verdi,3
+E. Pulgar,A. Masina,3
+A. Poli,E. Pulgar,3
+S. Verdi,S. De Maio,3
+V. Torosidis,A. Poli,2
+G. Donsah,A. Poli,2
+G. Donsah,A. Mirante,2
+S. De Maio,A. Poli,2
+A. Mirante,E. Pulgar,2
+E. Pulgar,V. Torosidis,2
+V. Torosidis,R. Palacio,2
+S. Verdi,A. Masina,2
+E. Pulgar,S. De Maio,2
+G. Donsah,F. Helander,2
+G. Donsah,V. Torosidis,2
+F. Helander,A. Masina,2
+G. Donsah,S. De Maio,2
+A. Poli,R. Palacio,2
+S. Verdi,G. Donsah,2
+F. Di Francesco,R. Palacio,2
+V. Torosidis,F. Helander,2
+E. Pulgar,S. Verdi,2
+S. De Maio,A. Masina,2
+F. Di Francesco,F. Helander,2
+A. Masina,G. Donsah,2
+S. De Maio,V. Torosidis,2
+A. Poli,V. Torosidis,2
+A. Masina,S. Verdi,2
+V. Torosidis,S. Verdi,1
+A. Mirante,R. Palacio,1
+S. Verdi,E. Pulgar,1
+A. Masina,F. Helander,1
+R. Palacio,V. Torosidis,1
+S. Verdi,R. Palacio,1
+F. Helander,V. Torosidis,1
+R. Palacio,F. Helander,1
+A. Poli,A. Mirante,1
+F. Helander,E. Pulgar,1
+A. Mirante,F. Di Francesco,1
+A. Poli,F. Helander,1
+F. Di Francesco,E. Pulgar,1
+A. Mirante,V. Torosidis,1
+S. Verdi,F. Helander,1
+G. Donsah,F. Di Francesco,1
+G. Donsah,A. Masina,1
+A. Masina,S. De Maio,1
+G. Donsah,R. Palacio,1
+R. Palacio,A. Poli,1
+R. Palacio,G. Donsah,1
+A. Mirante,S. Verdi,1
+E. Pulgar,R. Palacio,1
+S. De Maio,R. Palacio,1
+A. Poli,F. Di Francesco,1
+V. Torosidis,A. Mirante,1
+A. Poli,S. Verdi,1

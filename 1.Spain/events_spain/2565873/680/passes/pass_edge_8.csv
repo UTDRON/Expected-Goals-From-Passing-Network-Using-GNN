@@ -1,0 +1,60 @@
+Source,Target,Weight
+M. Lay\u00fan,J. Correa,4
+Sandro,M. Lay\u00fan,3
+Daniel Carri\u00e7o,J. Geis,3
+Daniel Carri\u00e7o,M. Lay\u00fan,3
+Jes\u00fas Navas,\u00c9. Banega,3
+G. Pizarro,M. Lay\u00fan,2
+J. Correa,Jes\u00fas Navas,2
+M. Lay\u00fan,Daniel Carri\u00e7o,2
+M. Lay\u00fan,G. Pizarro,2
+J. Correa,\u00c9. Banega,2
+Sandro,Daniel Carri\u00e7o,2
+G. Pizarro,\u00c9. Banega,2
+\u00c9. Banega,Daniel Carri\u00e7o,2
+Jes\u00fas Navas,G. Mercado,2
+\u00c9. Banega,M. Lay\u00fan,2
+M. Lay\u00fan,Sandro,2
+\u00c9. Banega,Jes\u00fas Navas,2
+G. Mercado,\u00c9. Banega,2
+J. Geis,David Soria,2
+M. Lay\u00fan,J. Geis,2
+G. Pizarro,G. Mercado,2
+Carlos Fern\u00e1ndez,J. Correa,2
+G. Mercado,Jes\u00fas Navas,2
+J. Geis,Carlos Fern\u00e1ndez,2
+G. Pizarro,Sandro,1
+Carlos Fern\u00e1ndez,M. Lay\u00fan,1
+Sandro,\u00c9. Banega,1
+Daniel Carri\u00e7o,G. Pizarro,1
+David Soria,G. Pizarro,1
+J. Geis,Daniel Carri\u00e7o,1
+David Soria,G. Mercado,1
+J. Correa,Carlos Fern\u00e1ndez,1
+J. Correa,M. Lay\u00fan,1
+M. Lay\u00fan,David Soria,1
+G. Mercado,G. Pizarro,1
+Carlos Fern\u00e1ndez,\u00c9. Banega,1
+J. Geis,Jes\u00fas Navas,1
+Daniel Carri\u00e7o,\u00c9. Banega,1
+\u00c9. Banega,J. Geis,1
+Jes\u00fas Navas,Sandro,1
+David Soria,Carlos Fern\u00e1ndez,1
+Carlos Fern\u00e1ndez,G. Pizarro,1
+\u00c9. Banega,G. Pizarro,1
+Daniel Carri\u00e7o,G. Mercado,1
+\u00c9. Banega,David Soria,1
+G. Mercado,J. Correa,1
+G. Mercado,J. Geis,1
+Jes\u00fas Navas,Carlos Fern\u00e1ndez,1
+J. Geis,\u00c9. Banega,1
+Sandro,G. Pizarro,1
+J. Correa,J. Geis,1
+J. Correa,Daniel Carri\u00e7o,1
+J. Geis,M. Lay\u00fan,1
+\u00c9. Banega,Sandro,1
+\u00c9. Banega,J. Correa,1
+David Soria,Sandro,1
+G. Pizarro,Daniel Carri\u00e7o,1
+\u00c9. Banega,G. Mercado,1
+J. Geis,Sandro,1

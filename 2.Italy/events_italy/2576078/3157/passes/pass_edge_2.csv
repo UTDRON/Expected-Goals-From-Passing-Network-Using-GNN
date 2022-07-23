@@ -1,0 +1,40 @@
+Source,Target,Weight
+C. Zapata,I. Abate,3
+I. Abate,F. Kessi\u00e9,3
+F. Kessi\u00e9,Suso,3
+I. Abate,R. Montolivo,3
+L. Bonucci,H. \u00c7alhano\u011flu,2
+H. \u00c7alhano\u011flu,L. Bonucci,2
+N. Kalini\u0107,I. Abate,2
+L. Bonucci,G. Donnarumma,2
+I. Abate,Suso,2
+F. Borini,I. Abate,1
+A. Romagnoli,F. Kessi\u00e9,1
+F. Kessi\u00e9,F. Borini,1
+R. Montolivo,N. Kalini\u0107,1
+A. Romagnoli,F. Borini,1
+Suso,F. Kessi\u00e9,1
+A. Romagnoli,H. \u00c7alhano\u011flu,1
+A. Romagnoli,C. Zapata,1
+H. \u00c7alhano\u011flu,A. Romagnoli,1
+H. \u00c7alhano\u011flu,F. Borini,1
+L. Bonucci,C. Zapata,1
+F. Kessi\u00e9,C. Zapata,1
+R. Montolivo,L. Bonucci,1
+R. Montolivo,A. Romagnoli,1
+Suso,A. Romagnoli,1
+F. Borini,C. Zapata,1
+I. Abate,C. Zapata,1
+C. Zapata,R. Montolivo,1
+Suso,I. Abate,1
+G. Donnarumma,L. Bonucci,1
+R. Montolivo,H. \u00c7alhano\u011flu,1
+C. Zapata,F. Kessi\u00e9,1
+I. Abate,N. Kalini\u0107,1
+H. \u00c7alhano\u011flu,R. Montolivo,1
+Suso,C. Zapata,1
+F. Kessi\u00e9,I. Abate,1
+R. Montolivo,I. Abate,1
+C. Zapata,L. Bonucci,1
+G. Donnarumma,A. Romagnoli,1
+Suso,H. \u00c7alhano\u011flu,1

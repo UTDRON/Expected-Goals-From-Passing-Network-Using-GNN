@@ -1,0 +1,55 @@
+Source,Target,Weight
+K. Manolas,Alisson,3
+D. De Rossi,L. Pellegrini,3
+L. Pellegrini,D. De Rossi,3
+R. Nainggolan,Juan Jesus,3
+S. El Shaarawy,R. Nainggolan,3
+Juan Jesus,S. El Shaarawy,3
+Juan Jesus,F. Fazio,3
+C. \u00dcnder,Juan Jesus,2
+Juan Jesus,Alisson,2
+Juan Jesus,D. De Rossi,2
+D. De Rossi,Juan Jesus,2
+K. Manolas,A. Florenzi,2
+E. D\u017eeko,C. \u00dcnder,2
+S. El Shaarawy,D. De Rossi,2
+R. Nainggolan,A. Florenzi,2
+F. Fazio,K. Manolas,2
+A. Florenzi,C. \u00dcnder,2
+S. El Shaarawy,Juan Jesus,1
+Juan Jesus,E. D\u017eeko,1
+A. Florenzi,Juan Jesus,1
+S. El Shaarawy,E. D\u017eeko,1
+D. De Rossi,F. Fazio,1
+D. De Rossi,C. \u00dcnder,1
+C. \u00dcnder,K. Manolas,1
+L. Pellegrini,A. Florenzi,1
+L. Pellegrini,Juan Jesus,1
+Alisson,L. Pellegrini,1
+C. \u00dcnder,E. D\u017eeko,1
+Juan Jesus,C. \u00dcnder,1
+D. De Rossi,A. Florenzi,1
+D. De Rossi,S. El Shaarawy,1
+Alisson,Juan Jesus,1
+E. D\u017eeko,Alisson,1
+A. Florenzi,S. El Shaarawy,1
+A. Florenzi,D. De Rossi,1
+A. Florenzi,L. Pellegrini,1
+Alisson,R. Nainggolan,1
+R. Nainggolan,K. Manolas,1
+D. De Rossi,R. Nainggolan,1
+R. Nainggolan,C. \u00dcnder,1
+Juan Jesus,R. Nainggolan,1
+C. \u00dcnder,A. Florenzi,1
+F. Fazio,Juan Jesus,1
+Alisson,S. El Shaarawy,1
+E. D\u017eeko,Juan Jesus,1
+A. Florenzi,R. Nainggolan,1
+S. El Shaarawy,Alisson,1
+L. Pellegrini,S. El Shaarawy,1
+Alisson,K. Manolas,1
+F. Fazio,S. El Shaarawy,1
+Alisson,D. De Rossi,1
+Alisson,E. D\u017eeko,1
+C. \u00dcnder,D. De Rossi,1
+C. \u00dcnder,L. Pellegrini,1

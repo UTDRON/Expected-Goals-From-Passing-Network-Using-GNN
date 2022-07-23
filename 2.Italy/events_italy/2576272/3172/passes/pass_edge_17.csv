@@ -1,0 +1,33 @@
+Source,Target,Weight
+A. Masiello,T. Castagne,2
+T. Castagne,A. Masiello,2
+E. Berisha,A. Cornelius,2
+G. Mancini,E. Berisha,2
+A. G\u00f3mez,A. Masiello,2
+Rafael Tol\u00f3i,T. Castagne,2
+A. Masiello,Rafael Tol\u00f3i,1
+G. Mancini,M. Caldara,1
+Rafael Tol\u00f3i,G. Mancini,1
+T. Castagne,Rafael Tol\u00f3i,1
+Rafael Tol\u00f3i,A. Cornelius,1
+E. Berisha,Rafael Tol\u00f3i,1
+M. Caldara,Rafael Tol\u00f3i,1
+A. Cornelius,A. G\u00f3mez,1
+A. Cornelius,M. Caldara,1
+A. Cornelius,H. Hateboer,1
+T. Castagne,A. G\u00f3mez,1
+M. Caldara,G. Mancini,1
+A. Masiello,G. Mancini,1
+R. Freuler,Rafael Tol\u00f3i,1
+G. Mancini,Rafael Tol\u00f3i,1
+R. Freuler,A. Masiello,1
+R. Freuler,M. de Roon,1
+M. Caldara,R. Freuler,1
+G. Mancini,T. Castagne,1
+Rafael Tol\u00f3i,E. Berisha,1
+T. Castagne,R. Freuler,1
+Rafael Tol\u00f3i,R. Freuler,1
+T. Castagne,M. Caldara,1
+A. Masiello,R. Freuler,1
+M. de Roon,G. Mancini,1
+R. Freuler,T. Castagne,1

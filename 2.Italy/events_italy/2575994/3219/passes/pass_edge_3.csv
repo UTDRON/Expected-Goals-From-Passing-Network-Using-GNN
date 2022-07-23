@@ -1,0 +1,42 @@
+Source,Target,Weight
+A. Lazaar,G. Di Chiara,4
+G. Letizia,L. Venuti,4
+G. Di Chiara,A. Lazaar,4
+G. Di Chiara,N. Viola,3
+F. Lucioni,A. Lazaar,3
+C. Lombardi,L. Venuti,3
+G. Letizia,R. Chibsah,2
+G. Letizia,F. Lucioni,2
+G. Letizia,V. Belec,2
+N. Viola,C. Lombardi,2
+V. Belec,N. Viola,2
+R. Chibsah,G. Letizia,2
+L. Venuti,G. Di Chiara,2
+C. Lombardi,G. Letizia,2
+A. Lazaar,C. Lombardi,2
+L. Venuti,N. Viola,2
+G. Letizia,G. Di Chiara,2
+L. Venuti,G. Letizia,2
+A. Lazaar,G. Letizia,2
+V. Belec,G. Letizia,1
+S. Armenteros,M. Coda,1
+A. Lazaar,L. Venuti,1
+L. Venuti,C. Lombardi,1
+N. Viola,A. Lazaar,1
+L. Venuti,S. Armenteros,1
+N. Viola,G. Letizia,1
+A. Lazaar,V. Belec,1
+F. Lucioni,M. Coda,1
+A. Lazaar,D. Cataldi,1
+N. Viola,F. Lucioni,1
+V. Belec,A. Lazaar,1
+N. Viola,G. Di Chiara,1
+D. Cataldi,G. Letizia,1
+M. Coda,V. Belec,1
+S. Armenteros,G. Di Chiara,1
+M. Coda,G. Letizia,1
+R. Chibsah,A. Lazaar,1
+G. Di Chiara,S. Armenteros,1
+G. Di Chiara,G. Letizia,1
+G. Letizia,A. Lazaar,1
+N. Viola,R. Chibsah,1

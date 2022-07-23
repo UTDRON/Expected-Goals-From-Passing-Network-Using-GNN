@@ -1,0 +1,25 @@
+Source,Target,Weight
+J. Veretout,G. Pezzella,2
+J. Veretout,V. Eysseric,2
+J. Veretout,C. Biraghi,2
+G. Pezzella,J. Veretout,2
+M. Badelj,V. Laurini,1
+V. Eysseric,C. Biraghi,1
+V. Eysseric,F. Chiesa,1
+G. Pezzella,V. Eysseric,1
+F. Chiesa,J. Veretout,1
+F. Chiesa,M. Badelj,1
+V. Laurini,G. Pezzella,1
+V. Eysseric,V. Laurini,1
+M. Badelj,F. Chiesa,1
+V. Laurini,M. Badelj,1
+C. Biraghi,V. Eysseric,1
+C. Biraghi,K. Babacar,1
+V. Laurini,J. Veretout,1
+F. Chiesa,G. Pezzella,1
+J. Veretout,V. Laurini,1
+V. Eysseric,J. Veretout,1
+K. Babacar,V. Eysseric,1
+V. Eysseric,G. Pezzella,1
+G. Pezzella,F. Chiesa,1
+C. Biraghi,J. Veretout,1

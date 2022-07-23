@@ -1,0 +1,19 @@
+Source,Target,Weight
+G. Di Chiara,L. Venuti,2
+A. Ciciretti,G. Letizia,2
+L. Venuti,G. Letizia,1
+L. Venuti,N. Viola,1
+D. Cataldi,G. Di Chiara,1
+G. Letizia,R. Chibsah,1
+L. Antei,G. Di Chiara,1
+G. Letizia,D. Cataldi,1
+L. Venuti,L. Antei,1
+G. Di Chiara,D. Cataldi,1
+N. Viola,A. Ciciretti,1
+L. Antei,L. Venuti,1
+G. Letizia,N. Viola,1
+D. Cataldi,N. Viola,1
+D. Cataldi,A. Ciciretti,1
+N. Viola,R. Chibsah,1
+R. Chibsah,G. Di Chiara,1
+R. Chibsah,L. Antei,1

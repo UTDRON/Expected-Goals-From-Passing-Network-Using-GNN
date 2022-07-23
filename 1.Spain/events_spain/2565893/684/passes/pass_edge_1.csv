@@ -1,0 +1,76 @@
+Source,Target,Weight
+Jordi Amat,A. Mandi,14
+A. Mandi,Jordi Amat,13
+J. Firpo,Jordi Amat,7
+R. Durmisi,J. Firpo,5
+Jordi Amat,Pedro L\u00f3pez,5
+Jordi Amat,J. Firpo,5
+Barrag\u00e1n,A. Mandi,5
+R. Boudebouz,Barrag\u00e1n,4
+Jordi Amat,Fabi\u00e1n,4
+A. Mandi,R. Boudebouz,4
+A. Mandi,Fabi\u00e1n,4
+Joaqu\u00edn,Jordi Amat,3
+Javi Garc\u00eda,J. Firpo,3
+Fabi\u00e1n,A. Mandi,3
+Pedro L\u00f3pez,A. Sanabria,3
+A. Sanabria,Javi Garc\u00eda,3
+Javi Garc\u00eda,A. Mandi,3
+Joaqu\u00edn,R. Durmisi,3
+A. Mandi,Pedro L\u00f3pez,3
+Barrag\u00e1n,Jordi Amat,3
+J. Firpo,A. Mandi,3
+J. Firpo,Pedro L\u00f3pez,3
+J. Firpo,R. Durmisi,3
+R. Durmisi,Joaqu\u00edn,3
+A. Mandi,J. Firpo,2
+Javi Garc\u00eda,Joaqu\u00edn,2
+Fabi\u00e1n,Barrag\u00e1n,2
+R. Boudebouz,Javi Garc\u00eda,2
+A. Sanabria,A. Mandi,2
+Pedro L\u00f3pez,R. Durmisi,2
+Pedro L\u00f3pez,Fabi\u00e1n,2
+Fabi\u00e1n,J. Firpo,2
+R. Durmisi,Jordi Amat,2
+R. Boudebouz,A. Sanabria,2
+Barrag\u00e1n,R. Boudebouz,2
+Fabi\u00e1n,R. Boudebouz,2
+Jordi Amat,Barrag\u00e1n,2
+A. Sanabria,Barrag\u00e1n,2
+Fabi\u00e1n,R. Durmisi,2
+Pedro L\u00f3pez,Javi Garc\u00eda,2
+A. Mandi,Barrag\u00e1n,2
+A. Mandi,Javi Garc\u00eda,2
+A. Mandi,A. Sanabria,2
+A. Sanabria,R. Boudebouz,2
+R. Boudebouz,R. Durmisi,2
+Barrag\u00e1n,Javi Garc\u00eda,1
+A. Sanabria,Fabi\u00e1n,1
+Jordi Amat,R. Durmisi,1
+A. Sanabria,R. Durmisi,1
+Jordi Amat,R. Boudebouz,1
+Fabi\u00e1n,Javi Garc\u00eda,1
+Fabi\u00e1n,A. Sanabria,1
+Javi Garc\u00eda,R. Boudebouz,1
+R. Durmisi,R. Boudebouz,1
+R. Durmisi,Barrag\u00e1n,1
+Pedro L\u00f3pez,A. Mandi,1
+R. Boudebouz,Fabi\u00e1n,1
+J. Firpo,Joaqu\u00edn,1
+Jordi Amat,Joaqu\u00edn,1
+R. Durmisi,A. Mandi,1
+Javi Garc\u00eda,Jordi Amat,1
+R. Boudebouz,J. Firpo,1
+R. Boudebouz,Joaqu\u00edn,1
+A. Sanabria,Jordi Amat,1
+J. Firpo,Fabi\u00e1n,1
+R. Durmisi,Fabi\u00e1n,1
+Joaqu\u00edn,A. Sanabria,1
+Barrag\u00e1n,J. Firpo,1
+Fabi\u00e1n,Jordi Amat,1
+J. Firpo,A. Sanabria,1
+Barrag\u00e1n,A. Sanabria,1
+Joaqu\u00edn,R. Boudebouz,1
+R. Boudebouz,Jordi Amat,1
+Pedro L\u00f3pez,Jordi Amat,1
+Javi Garc\u00eda,Barrag\u00e1n,1

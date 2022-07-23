@@ -1,0 +1,43 @@
+Source,Target,Weight
+D. Perotti,F. Fazio,5
+A. Florenzi,Gerson,3
+Gerson,D. Perotti,2
+G. Defrel,D. Perotti,2
+G. Defrel,K. Manolas,2
+F. Fazio,R. Nainggolan,2
+Gerson,F. Fazio,2
+D. Perotti,A. Kolarov,2
+A. Kolarov,D. Perotti,2
+F. Fazio,D. Perotti,2
+Gerson,A. Florenzi,2
+F. Fazio,G. Defrel,2
+E. D\u017eeko,Gerson,2
+A. Kolarov,Gerson,2
+A. Kolarov,F. Fazio,1
+E. D\u017eeko,F. Fazio,1
+R. Nainggolan,E. D\u017eeko,1
+K. Manolas,K. Strootman,1
+F. Fazio,K. Manolas,1
+D. Perotti,R. Nainggolan,1
+K. Manolas,A. Kolarov,1
+Gerson,G. Defrel,1
+Gerson,E. D\u017eeko,1
+F. Fazio,A. Kolarov,1
+R. Nainggolan,Gerson,1
+Gerson,R. Nainggolan,1
+F. Fazio,A. Florenzi,1
+D. Perotti,K. Strootman,1
+Gerson,A. Kolarov,1
+K. Manolas,G. Defrel,1
+R. Nainggolan,Alisson,1
+A. Florenzi,K. Manolas,1
+R. Nainggolan,K. Strootman,1
+A. Kolarov,A. Florenzi,1
+F. Fazio,Gerson,1
+Alisson,G. Defrel,1
+K. Strootman,A. Kolarov,1
+K. Manolas,Alisson,1
+K. Strootman,D. Perotti,1
+K. Strootman,Gerson,1
+Alisson,E. D\u017eeko,1
+G. Defrel,K. Strootman,1

@@ -1,0 +1,75 @@
+Source,Target,Weight
+L. Hern\u00e1ndez,Sa\u00fal,5
+Gabi,S. Savi\u0107,5
+Juanfran,\u00c1. Correa,5
+\u00c1. Correa,Juanfran,5
+Vitolo,Filipe Luis,4
+Sa\u00fal,Koke,4
+S. Savi\u0107,Gabi,4
+Gabi,\u00c1. Correa,4
+Sa\u00fal,Gabi,4
+Filipe Luis,Vitolo,4
+S. Savi\u0107,Sa\u00fal,4
+Koke,L. Hern\u00e1ndez,3
+\u00c1. Correa,S. Savi\u0107,3
+Vitolo,Koke,3
+Juanfran,S. Savi\u0107,3
+S. Savi\u0107,\u00c1. Correa,3
+Juanfran,Gabi,3
+Koke,Gabi,3
+Filipe Luis,Sa\u00fal,3
+Sa\u00fal,Vitolo,3
+Gabi,L. Hern\u00e1ndez,3
+Gabi,Koke,3
+Vitolo,Sa\u00fal,3
+Gabi,Juanfran,3
+S. Savi\u0107,Juanfran,3
+L. Hern\u00e1ndez,Gabi,3
+L. Hern\u00e1ndez,S. Savi\u0107,2
+Koke,Vitolo,2
+Filipe Luis,S. Savi\u0107,2
+Filipe Luis,Fernando Torres,2
+Filipe Luis,L. Hern\u00e1ndez,2
+\u00c1. Correa,Filipe Luis,2
+\u00c1. Correa,J. Oblak,2
+Sa\u00fal,Filipe Luis,2
+J. Oblak,Filipe Luis,2
+S. Savi\u0107,Filipe Luis,2
+Sa\u00fal,L. Hern\u00e1ndez,2
+Gabi,Filipe Luis,2
+\u00c1. Correa,Gabi,2
+J. Oblak,S. Savi\u0107,2
+Fernando Torres,Gabi,2
+Gabi,J. Oblak,2
+Sa\u00fal,Juanfran,2
+J. Oblak,Gabi,2
+Filipe Luis,Koke,1
+Vitolo,S. Savi\u0107,1
+Juanfran,Fernando Torres,1
+Gabi,Vitolo,1
+L. Hern\u00e1ndez,J. Oblak,1
+S. Savi\u0107,L. Hern\u00e1ndez,1
+Fernando Torres,Sa\u00fal,1
+\u00c1. Correa,Koke,1
+Filipe Luis,Juanfran,1
+Filipe Luis,Gabi,1
+Juanfran,L. Hern\u00e1ndez,1
+Koke,Filipe Luis,1
+Fernando Torres,J. Oblak,1
+Vitolo,J. Oblak,1
+Fernando Torres,Filipe Luis,1
+Sa\u00fal,Fernando Torres,1
+Fernando Torres,Juanfran,1
+Vitolo,\u00c1. Correa,1
+Koke,S. Savi\u0107,1
+Juanfran,Vitolo,1
+Koke,\u00c1. Correa,1
+Juanfran,Sa\u00fal,1
+J. Oblak,Fernando Torres,1
+L. Hern\u00e1ndez,Vitolo,1
+Sa\u00fal,\u00c1. Correa,1
+S. Savi\u0107,Koke,1
+Koke,Sa\u00fal,1
+Gabi,Fernando Torres,1
+Koke,Fernando Torres,1
+S. Savi\u0107,Vitolo,1

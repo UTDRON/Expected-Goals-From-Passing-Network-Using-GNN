@@ -1,0 +1,40 @@
+Source,Target,Weight
+F. Fajr,A. Ndiaye,4
+Antunes,F. Fajr,3
+A. Ndiaye,F. Fajr,3
+D. Su\u00e1rez,Portillo,3
+Portillo,Sergio Mora,2
+D. Su\u00e1rez,\u00c1ngel,2
+Sergio Mora,F. Fajr,2
+Sergio Mora,Antunes,2
+Portillo,D. Su\u00e1rez,2
+F. Fajr,D. Su\u00e1rez,2
+Antunes,Juan Cala,2
+Juan Cala,A. Ndiaye,2
+Juan Cala,Antunes,2
+Juan Cala,D. Su\u00e1rez,1
+F. Fajr,Portillo,1
+Portillo,Guaita,1
+\u00c1ngel,Portillo,1
+F. Fajr,\u00c1ngel,1
+Jorge Molina,F. Fajr,1
+Antunes,A. Ndiaye,1
+Antunes,Sergio Mora,1
+Guaita,Jorge Molina,1
+F. Fajr,Antunes,1
+A. Ndiaye,\u00c1ngel,1
+\u00c1ngel,A. Ndiaye,1
+F. Fajr,Djen\u00e9,1
+Guaita,Djen\u00e9,1
+A. Ndiaye,Antunes,1
+Djen\u00e9,D. Su\u00e1rez,1
+Jorge Molina,Sergio Mora,1
+D. Su\u00e1rez,Juan Cala,1
+Djen\u00e9,Juan Cala,1
+\u00c1ngel,Jorge Molina,1
+\u00c1ngel,D. Su\u00e1rez,1
+A. Ndiaye,Djen\u00e9,1
+Portillo,Antunes,1
+D. Su\u00e1rez,F. Fajr,1
+Djen\u00e9,Guaita,1
+A. Ndiaye,Portillo,1

@@ -1,0 +1,41 @@
+Source,Target,Weight
+H. Hateboer,M. de Roon,4
+L. Spinazzola,B. Cristante,3
+R. Freuler,M. Caldara,3
+M. de Roon,H. Hateboer,3
+J. Palomino,R. Freuler,2
+M. Caldara,J. Palomino,2
+M. Caldara,M. de Roon,2
+B. Cristante,J. Ili\u010di\u0107,2
+R. Freuler,A. Petagna,2
+H. Hateboer,J. Ili\u010di\u0107,2
+M. de Roon,J. Ili\u010di\u0107,1
+M. de Roon,A. Masiello,1
+J. Ili\u010di\u0107,M. Caldara,1
+R. Freuler,A. Masiello,1
+A. Masiello,H. Hateboer,1
+M. Caldara,L. Spinazzola,1
+J. Palomino,M. Caldara,1
+J. Ili\u010di\u0107,R. Freuler,1
+L. Spinazzola,H. Hateboer,1
+A. Masiello,R. Freuler,1
+J. Ili\u010di\u0107,L. Spinazzola,1
+M. Caldara,H. Hateboer,1
+A. Petagna,L. Spinazzola,1
+L. Spinazzola,M. Caldara,1
+M. de Roon,B. Cristante,1
+M. de Roon,R. Freuler,1
+J. Palomino,B. Cristante,1
+M. Caldara,A. Masiello,1
+B. Cristante,L. Spinazzola,1
+A. Petagna,J. Palomino,1
+B. Cristante,J. Palomino,1
+J. Palomino,L. Spinazzola,1
+J. Ili\u010di\u0107,B. Cristante,1
+R. Freuler,L. Spinazzola,1
+A. Masiello,J. Palomino,1
+J. Ili\u010di\u0107,A. Petagna,1
+B. Cristante,M. Caldara,1
+L. Spinazzola,R. Freuler,1
+A. Masiello,M. de Roon,1
+A. Petagna,R. Freuler,1

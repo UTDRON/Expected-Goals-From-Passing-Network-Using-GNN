@@ -1,0 +1,71 @@
+Source,Target,Weight
+David L\u00f3pez,Mario Hermoso,8
+V\u00edctor S\u00e1nchez,David L\u00f3pez,6
+Javi L\u00f3pez,\u00d3scar Melendo,5
+Mario Hermoso,David L\u00f3pez,4
+Gerard Moreno,V\u00edctor S\u00e1nchez,4
+Granero,D\u00eddac Vil\u00e1,4
+David L\u00f3pez,Gerard Moreno,3
+David L\u00f3pez,V\u00edctor S\u00e1nchez,3
+Gerard Moreno,Javi L\u00f3pez,3
+Mario Hermoso,Javi L\u00f3pez,3
+Javi L\u00f3pez,Gerard Moreno,3
+D\u00eddac Vil\u00e1,Granero,3
+V\u00edctor S\u00e1nchez,Javi L\u00f3pez,2
+Granero,V\u00edctor S\u00e1nchez,2
+\u00d3scar Melendo,V\u00edctor S\u00e1nchez,2
+D\u00eddac Vil\u00e1,Sergio Garc\u00eda,2
+Gerard Moreno,David L\u00f3pez,2
+Pau L\u00f3pez,David L\u00f3pez,2
+V\u00edctor S\u00e1nchez,Gerard Moreno,2
+\u00d3scar Melendo,David L\u00f3pez,2
+Sergi Darder,Pau L\u00f3pez,2
+Pau L\u00f3pez,Gerard Moreno,2
+Pau L\u00f3pez,D\u00eddac Vil\u00e1,2
+Sergio Garc\u00eda,Sergi Darder,2
+D\u00eddac Vil\u00e1,Mario Hermoso,2
+Granero,Mario Hermoso,2
+David L\u00f3pez,Pau L\u00f3pez,2
+Sergi Darder,Javi L\u00f3pez,2
+Mario Hermoso,D\u00eddac Vil\u00e1,2
+Mario Hermoso,Granero,1
+D\u00eddac Vil\u00e1,V\u00edctor S\u00e1nchez,1
+David L\u00f3pez,\u00d3scar Melendo,1
+Pau L\u00f3pez,Mario Hermoso,1
+Sergio Garc\u00eda,D\u00eddac Vil\u00e1,1
+\u00d3scar Melendo,D\u00eddac Vil\u00e1,1
+Sergi Darder,D\u00eddac Vil\u00e1,1
+Mario Hermoso,Pau L\u00f3pez,1
+Granero,Sergi Darder,1
+Gerard Moreno,Granero,1
+Sergi Darder,Sergio Garc\u00eda,1
+Javi L\u00f3pez,David L\u00f3pez,1
+Sergio Garc\u00eda,Pau L\u00f3pez,1
+Sergio Garc\u00eda,Javi L\u00f3pez,1
+V\u00edctor S\u00e1nchez,Sergi Darder,1
+Mario Hermoso,Gerard Moreno,1
+Mario Hermoso,V\u00edctor S\u00e1nchez,1
+Javi L\u00f3pez,V\u00edctor S\u00e1nchez,1
+D\u00eddac Vil\u00e1,Pau L\u00f3pez,1
+V\u00edctor S\u00e1nchez,Pau L\u00f3pez,1
+V\u00edctor S\u00e1nchez,\u00d3scar Melendo,1
+David L\u00f3pez,Javi L\u00f3pez,1
+\u00d3scar Melendo,Granero,1
+Pau L\u00f3pez,V\u00edctor S\u00e1nchez,1
+Javi L\u00f3pez,Sergi Darder,1
+Sergi Darder,David L\u00f3pez,1
+D\u00eddac Vil\u00e1,David L\u00f3pez,1
+David L\u00f3pez,Granero,1
+Mario Hermoso,Sergi Darder,1
+\u00d3scar Melendo,Sergi Darder,1
+David L\u00f3pez,Sergi Darder,1
+Javi L\u00f3pez,Granero,1
+Gerard Moreno,Mario Hermoso,1
+D\u00eddac Vil\u00e1,Gerard Moreno,1
+Javi L\u00f3pez,Sergio Garc\u00eda,1
+\u00d3scar Melendo,Javi L\u00f3pez,1
+Sergio Garc\u00eda,David L\u00f3pez,1
+Sergi Darder,\u00d3scar Melendo,1
+V\u00edctor S\u00e1nchez,Sergio Garc\u00eda,1
+David L\u00f3pez,Sergio Garc\u00eda,1
+V\u00edctor S\u00e1nchez,Granero,1

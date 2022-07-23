@@ -1,0 +1,52 @@
+Source,Target,Weight
+S. Pontisso,S. Widmer,3
+S. Widmer,R. de Paul,3
+S. Pontisso,B. Nuytinck,3
+B. Nuytinck,S. Pontisso,3
+S. Widmer,S. Pontisso,2
+J. Jankto,B. Nuytinck,2
+Maxi L\u00f3pez,A. Bali\u0107,2
+Danilo,A. Bizzarri,2
+S. Pontisso,Danilo,2
+J. Stryger Larsen,B. Nuytinck,2
+Maxi L\u00f3pez,B. Nuytinck,2
+J. Stryger Larsen,S. Pontisso,2
+A. Bizzarri,S. Widmer,2
+B. Nuytinck,A. Bizzarri,2
+A. Bizzarri,J. Stryger Larsen,2
+F. Zampano,J. Stryger Larsen,1
+A. Bizzarri,S. Pontisso,1
+S. Ingelsson,B. Nuytinck,1
+A. Bali\u0107,S. Ingelsson,1
+B. Nuytinck,Danilo,1
+S. Pontisso,J. Stryger Larsen,1
+S. Widmer,S. Ingelsson,1
+F. Zampano,Danilo,1
+Maxi L\u00f3pez,A. Bizzarri,1
+B. Nuytinck,S. Ingelsson,1
+R. de Paul,A. Bali\u0107,1
+Danilo,Maxi L\u00f3pez,1
+Danilo,R. de Paul,1
+A. Bali\u0107,S. Pontisso,1
+Maxi L\u00f3pez,J. Stryger Larsen,1
+R. de Paul,S. Widmer,1
+B. Nuytinck,Maxi L\u00f3pez,1
+S. Ingelsson,R. de Paul,1
+Maxi L\u00f3pez,R. de Paul,1
+J. Stryger Larsen,J. Jankto,1
+J. Stryger Larsen,Maxi L\u00f3pez,1
+R. de Paul,B. Nuytinck,1
+A. Bali\u0107,Maxi L\u00f3pez,1
+R. de Paul,Maxi L\u00f3pez,1
+B. Nuytinck,J. Stryger Larsen,1
+Danilo,S. Ingelsson,1
+S. Ingelsson,J. Stryger Larsen,1
+R. de Paul,Danilo,1
+J. Stryger Larsen,F. Zampano,1
+F. Zampano,Maxi L\u00f3pez,1
+Danilo,J. Jankto,1
+S. Widmer,Danilo,1
+R. de Paul,S. Pontisso,1
+S. Pontisso,F. Zampano,1
+B. Nuytinck,S. Widmer,1
+B. Nuytinck,F. Zampano,1

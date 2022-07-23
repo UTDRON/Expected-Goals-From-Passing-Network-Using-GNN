@@ -1,0 +1,21 @@
+Source,Target,Weight
+M. Cremonesi,F. Viviani,5
+F. Vicari,M. Cremonesi,3
+F. Viviani,F. Vicari,3
+A. Gomis,B. Salamon,2
+M. Lazzari,F. Viviani,2
+F. Viviani,B. Salamon,2
+F. Vicari,A. Gomis,2
+B. Salamon,M. Lazzari,2
+A. Gomis,M. Cremonesi,2
+A. Paloschi,M. Borriello,2
+F. Viviani,A. Gomis,1
+M. Borriello,A. Paloschi,1
+M. Cremonesi,F. Vicari,1
+B. Salamon,A. Gomis,1
+B. Salamon,A. Paloschi,1
+M. Borriello,F. Viviani,1
+F. Viviani,M. Cremonesi,1
+M. Cremonesi,L. Rizzo,1
+F. Viviani,M. Borriello,1
+L. Rizzo,M. Cremonesi,1

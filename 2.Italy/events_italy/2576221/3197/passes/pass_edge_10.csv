@@ -1,0 +1,22 @@
+Source,Target,Weight
+G. Crociata,M. Tumminello,2
+F. Ceccherini,A. Ajeti,2
+Simy,D. Pavlovic,1
+D. Faraoni,N. Zanellato,1
+Simy,F. Ceccherini,1
+M. Tumminello,G. Crociata,1
+M. Tumminello,Simy,1
+N. Zanellato,G. Crociata,1
+A. Ajeti,G. Crociata,1
+D. Pavlovic,M. Tumminello,1
+M. Tumminello,D. Faraoni,1
+G. Crociata,M. Sampirisi,1
+Simy,D. Faraoni,1
+N. Zanellato,Simy,1
+A. Ajeti,M. Tumminello,1
+F. Ceccherini,N. Zanellato,1
+M. Sampirisi,G. Crociata,1
+M. Tumminello,F. Ceccherini,1
+M. Tumminello,A. Ajeti,1
+G. Crociata,Simy,1
+A. Ajeti,F. Ceccherini,1

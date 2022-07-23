@@ -1,0 +1,75 @@
+Source,Target,Weight
+Lekue,De Marcos,6
+Ra\u00fal Garc\u00eda,Lekue,5
+A. Laporte,Iago Herrer\u00edn,5
+Iturraspe,Saborit,4
+Susaeta,Lekue,4
+Saborit,A. Laporte,4
+Saborit,Susaeta,4
+Lekue,Iturraspe,3
+A. Laporte,Mikel Rico,3
+Lekue,Unai N\u00fa\u00f1ez,3
+Iturraspe,Ra\u00fal Garc\u00eda,3
+Mikel Rico,Saborit,3
+Iturraspe,Lekue,3
+Ra\u00fal Garc\u00eda,Iturraspe,3
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,3
+Mikel Rico,A. Laporte,3
+Mikel Rico,Ra\u00fal Garc\u00eda,2
+Susaeta,Mikel Rico,2
+De Marcos,Lekue,2
+Iago Herrer\u00edn,Lekue,2
+Ra\u00fal Garc\u00eda,Mikel Rico,2
+Mikel Rico,Iturraspe,2
+Iago Herrer\u00edn,Mikel Rico,2
+De Marcos,Iago Herrer\u00edn,2
+Saborit,I\u00f1aki Williams,2
+Iago Herrer\u00edn,Unai N\u00fa\u00f1ez,2
+Iago Herrer\u00edn,A. Laporte,2
+Iturraspe,Mikel Rico,2
+Iago Herrer\u00edn,Ra\u00fal Garc\u00eda,2
+De Marcos,Iturraspe,2
+De Marcos,Mikel Rico,2
+A. Laporte,Saborit,2
+Mikel Rico,Susaeta,2
+Unai N\u00fa\u00f1ez,Iturraspe,2
+I\u00f1aki Williams,Iturraspe,2
+Ra\u00fal Garc\u00eda,Susaeta,2
+Susaeta,Saborit,2
+Mikel Rico,Lekue,2
+Susaeta,A. Laporte,2
+Lekue,Mikel Rico,2
+Saborit,Mikel Rico,2
+Saborit,Iago Herrer\u00edn,2
+Lekue,Susaeta,2
+Unai N\u00fa\u00f1ez,De Marcos,1
+A. Laporte,Susaeta,1
+Iago Herrer\u00edn,Saborit,1
+Ra\u00fal Garc\u00eda,Saborit,1
+Iago Herrer\u00edn,De Marcos,1
+Lekue,Ra\u00fal Garc\u00eda,1
+Iturraspe,Iago Herrer\u00edn,1
+Iturraspe,A. Laporte,1
+Saborit,Ra\u00fal Garc\u00eda,1
+De Marcos,Saborit,1
+Lekue,A. Laporte,1
+Lekue,Iago Herrer\u00edn,1
+Mikel Rico,I\u00f1aki Williams,1
+De Marcos,Unai N\u00fa\u00f1ez,1
+Iturraspe,De Marcos,1
+Iturraspe,I\u00f1aki Williams,1
+I\u00f1aki Williams,Lekue,1
+A. Laporte,Iturraspe,1
+Lekue,I\u00f1aki Williams,1
+Susaeta,Iturraspe,1
+Unai N\u00fa\u00f1ez,Lekue,1
+Ra\u00fal Garc\u00eda,A. Laporte,1
+Mikel Rico,Unai N\u00fa\u00f1ez,1
+I\u00f1aki Williams,Saborit,1
+A. Laporte,Unai N\u00fa\u00f1ez,1
+Susaeta,Ra\u00fal Garc\u00eda,1
+Unai N\u00fa\u00f1ez,Iago Herrer\u00edn,1
+I\u00f1aki Williams,Susaeta,1
+I\u00f1aki Williams,Ra\u00fal Garc\u00eda,1
+Ra\u00fal Garc\u00eda,I\u00f1aki Williams,1
+A. Laporte,De Marcos,1

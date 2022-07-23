@@ -1,0 +1,63 @@
+Source,Target,Weight
+F. Helander,S. Ta\u00efder,4
+V. Torosidis,A. Poli,4
+A. Masina,S. Ta\u00efder,4
+G. Donsah,V. Torosidis,4
+S. Ta\u00efder,A. Poli,4
+A. Poli,S. De Maio,3
+S. De Maio,A. Masina,3
+M. Destro,S. Verdi,3
+A. Poli,S. Verdi,2
+A. Masina,F. Di Francesco,2
+S. Verdi,S. Ta\u00efder,2
+S. Verdi,V. Torosidis,2
+A. Poli,F. Helander,2
+F. Di Francesco,V. Torosidis,2
+S. De Maio,V. Torosidis,2
+F. Di Francesco,S. De Maio,2
+S. Ta\u00efder,S. Verdi,2
+F. Helander,A. Masina,2
+A. Masina,M. Destro,2
+S. Ta\u00efder,A. Masina,2
+S. Ta\u00efder,G. Donsah,2
+A. Poli,G. Donsah,2
+A. Poli,A. Masina,2
+A. Mirante,F. Helander,2
+S. Verdi,A. Poli,2
+S. Verdi,S. De Maio,2
+V. Torosidis,G. Donsah,2
+S. De Maio,S. Ta\u00efder,1
+A. Masina,G. Donsah,1
+S. Verdi,I. M'baye,1
+F. Helander,A. Poli,1
+A. Poli,V. Torosidis,1
+V. Torosidis,F. Helander,1
+V. Torosidis,S. Verdi,1
+S. Verdi,M. Destro,1
+A. Masina,F. Helander,1
+V. Torosidis,A. Masina,1
+G. Donsah,S. Ta\u00efder,1
+A. Mirante,S. De Maio,1
+F. Helander,A. Mirante,1
+I. M'baye,S. Verdi,1
+A. Poli,A. Mirante,1
+G. Donsah,A. Masina,1
+M. Destro,F. Di Francesco,1
+S. De Maio,A. Poli,1
+S. De Maio,F. Helander,1
+S. Verdi,F. Helander,1
+F. Helander,S. De Maio,1
+V. Torosidis,S. Ta\u00efder,1
+S. Ta\u00efder,F. Helander,1
+S. De Maio,A. Mirante,1
+S. De Maio,S. Verdi,1
+G. Donsah,S. Verdi,1
+A. Masina,A. Mirante,1
+S. De Maio,F. Di Francesco,1
+A. Mirante,A. Masina,1
+S. Ta\u00efder,S. De Maio,1
+F. Di Francesco,G. Donsah,1
+V. Torosidis,A. Mirante,1
+A. Mirante,F. Di Francesco,1
+G. Donsah,M. Destro,1
+A. Masina,A. Poli,1

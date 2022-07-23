@@ -1,0 +1,52 @@
+Source,Target,Weight
+Illarramendi,De La Bella,6
+De La Bella,Zurutuza,4
+Illarramendi,Odriozola,4
+Odriozola,Canales,4
+De La Bella,Illarramendi,4
+Illarramendi,Canales,3
+Odriozola,Aritz Elustondo,3
+Canales,Illarramendi,3
+Odriozola,Illarramendi,3
+Juanmi,De La Bella,3
+De La Bella,Odriozola,3
+Zurutuza,Illarramendi,3
+Canales,Odriozola,3
+De La Bella,Diego Llorente,2
+De La Bella,Juanmi,2
+Aritz Elustondo,Diego Llorente,2
+Canales,De La Bella,2
+Mikel Oyarzabal,Zubeld\u00eda,2
+Zubeld\u00eda,Odriozola,2
+Diego Llorente,Juanmi,2
+Mikel Oyarzabal,Canales,2
+Zurutuza,De La Bella,2
+Zubeld\u00eda,De La Bella,2
+Zubeld\u00eda,Aritz Elustondo,2
+Odriozola,Mikel Oyarzabal,2
+Aritz Elustondo,Illarramendi,2
+Odriozola,Diego Llorente,1
+Diego Llorente,De La Bella,1
+Aritz Elustondo,Zubeld\u00eda,1
+De La Bella,Zubeld\u00eda,1
+Zurutuza,Odriozola,1
+Zubeld\u00eda,To\u00f1o,1
+Illarramendi,Juanmi,1
+Diego Llorente,Zurutuza,1
+Aritz Elustondo,De La Bella,1
+Aritz Elustondo,Odriozola,1
+De La Bella,Aritz Elustondo,1
+Illarramendi,Diego Llorente,1
+To\u00f1o,Aritz Elustondo,1
+Juanmi,Mikel Oyarzabal,1
+Canales,Zubeld\u00eda,1
+Juanmi,Zubeld\u00eda,1
+Illarramendi,Aritz Elustondo,1
+Canales,Mikel Oyarzabal,1
+Diego Llorente,Aritz Elustondo,1
+Juanmi,Zurutuza,1
+Odriozola,Zubeld\u00eda,1
+Aritz Elustondo,To\u00f1o,1
+Aritz Elustondo,Mikel Oyarzabal,1
+Diego Llorente,Illarramendi,1
+To\u00f1o,Canales,1

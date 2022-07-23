@@ -1,0 +1,20 @@
+Source,Target,Weight
+E. Moretti,C. Ansaldi,2
+J. Obi,S. Sirigu,1
+D. Baselli,A. Belotti,1
+E. Moretti,S. Sirigu,1
+C. Ansaldi,E. Moretti,1
+J. Obi,D. Baselli,1
+S. Sirigu,C. Ansaldi,1
+C. Ansaldi,A. Belotti,1
+J. Obi,C. Ansaldi,1
+A. Belotti,J. Obi,1
+S. Sirigu,E. Moretti,1
+C. Ansaldi,D. Baselli,1
+A. Ljaji\u0107,E. Moretti,1
+A. Belotti,A. Ljaji\u0107,1
+L. De Silvestri,A. Ljaji\u0107,1
+D. Baselli,E. Moretti,1
+C. Ansaldi,J. Obi,1
+A. Ljaji\u0107,L. De Silvestri,1
+E. Moretti,J. Obi,1

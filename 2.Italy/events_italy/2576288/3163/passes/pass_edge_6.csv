@@ -1,0 +1,18 @@
+Source,Target,Weight
+S. Ingelsson,G. Pezzella,2
+G. Pezzella,S. Perica,2
+F. Zampano,Danilo,2
+S. Perica,G. Pezzella,2
+J. Jankto,F. Zampano,2
+Samir,Danilo,1
+Danilo,S. Perica,1
+B. Nuytinck,G. Pezzella,1
+Danilo,S. Ingelsson,1
+S. Perica,B. Nuytinck,1
+Danilo,J. Jankto,1
+G. Pezzella,S. Ingelsson,1
+G. Pezzella,Samir,1
+S. Perica,J. Jankto,1
+G. Pezzella,B. Nuytinck,1
+B. Nuytinck,S. Perica,1
+Samir,J. Jankto,1

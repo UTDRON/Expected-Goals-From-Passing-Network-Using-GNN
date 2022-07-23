@@ -1,0 +1,45 @@
+Source,Target,Weight
+Toni Lato,Dani Parejo,5
+Gon\u00e7alo Guedes,Toni Lato,4
+Toni Lato,J. Murillo,3
+Carlos Soler,Gon\u00e7alo Guedes,3
+J. Murillo,Gabriel,3
+Gon\u00e7alo Guedes,Gabriel,2
+J. Murillo,G. Kondogbia,2
+J. Murillo,Toni Lato,2
+Gabriel,J. Murillo,2
+G. Kondogbia,Toni Lato,2
+S. Zaza,Carlos Soler,2
+Montoya,Dani Parejo,2
+Carlos Soler,Gabriel,2
+Dani Parejo,Gon\u00e7alo Guedes,2
+Dani Parejo,G. Kondogbia,1
+Gabriel,Gon\u00e7alo Guedes,1
+Toni Lato,Santi Mina,1
+Gabriel,Carlos Soler,1
+Dani Parejo,Santi Mina,1
+Carlos Soler,Montoya,1
+S. Zaza,Gon\u00e7alo Guedes,1
+G. Kondogbia,Carlos Soler,1
+Santi Mina,S. Zaza,1
+Dani Parejo,Montoya,1
+Gon\u00e7alo Guedes,G. Kondogbia,1
+Santi Mina,Carlos Soler,1
+Toni Lato,Gabriel,1
+Gabriel,Santi Mina,1
+Gabriel,Dani Parejo,1
+Dani Parejo,S. Zaza,1
+Toni Lato,G. Kondogbia,1
+G. Kondogbia,Dani Parejo,1
+Gabriel,Toni Lato,1
+G. Kondogbia,Gabriel,1
+Santi Mina,G. Kondogbia,1
+Gon\u00e7alo Guedes,S. Zaza,1
+Dani Parejo,Toni Lato,1
+Dani Parejo,J. Murillo,1
+Dani Parejo,Carlos Soler,1
+S. Zaza,Toni Lato,1
+Gabriel,Montoya,1
+Gabriel,S. Zaza,1
+G. Kondogbia,J. Murillo,1
+Montoya,S. Zaza,1

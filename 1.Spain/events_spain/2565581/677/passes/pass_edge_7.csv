@@ -1,0 +1,17 @@
+Source,Target,Weight
+C. Pantilimon,C. Borges,2
+F. Sch\u00e4r,Adri\u00e1n L\u00f3pez,2
+F. Andone,Juanfran,2
+Juanfran,Fede Cartabia,2
+Fede Cartabia,C. Pantilimon,2
+A. Arribas,Juanfran,1
+C. Borges,Fede Cartabia,1
+C. Borges,F. Sch\u00e4r,1
+F. Andone,A. Arribas,1
+C. Borges,F. Andone,1
+Juanfran,F. Andone,1
+Fede Cartabia,C. Borges,1
+Adri\u00e1n L\u00f3pez,Fede Cartabia,1
+C. Borges,Fernando Navarro,1
+Fernando Navarro,C. Borges,1
+Adri\u00e1n L\u00f3pez,F. Sch\u00e4r,1

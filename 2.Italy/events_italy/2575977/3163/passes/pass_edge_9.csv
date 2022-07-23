@@ -1,0 +1,90 @@
+Source,Target,Weight
+B. Nuytinck,G. Pezzella,6
+G. Pezzella,B. Nuytinck,6
+S. Fofana,R. de Paul,5
+G. Pezzella,J. Jankto,5
+R. de Paul,S. Fofana,5
+R. de Paul,G. Angella,5
+R. de Paul,A. Bar\u00e1k,4
+A. Bar\u00e1k,R. de Paul,4
+A. Bar\u00e1k,B. Nuytinck,4
+G. Angella,S. Fofana,4
+A. Bar\u00e1k,J. Jankto,4
+G. Pezzella,E. Hallfre\u00f0sson,4
+S. Fofana,G. Angella,3
+R. de Paul,C. Th\u00e9r\u00e9au,3
+E. Hallfre\u00f0sson,B. Nuytinck,3
+S. Fofana,C. Th\u00e9r\u00e9au,3
+G. Angella,R. de Paul,3
+E. Hallfre\u00f0sson,S. Scuffet,3
+J. Jankto,A. Bar\u00e1k,3
+B. Nuytinck,J. Jankto,3
+G. Angella,Danilo,3
+B. Nuytinck,Danilo,3
+C. Th\u00e9r\u00e9au,G. Pezzella,3
+Danilo,G. Pezzella,3
+Danilo,R. de Paul,3
+J. Jankto,G. Pezzella,3
+Danilo,B. Nuytinck,3
+J. Jankto,K. Lasagna,2
+G. Angella,A. Bar\u00e1k,2
+S. Scuffet,E. Hallfre\u00f0sson,2
+G. Pezzella,A. Bar\u00e1k,2
+C. Th\u00e9r\u00e9au,G. Angella,2
+A. Bar\u00e1k,G. Pezzella,2
+S. Scuffet,G. Angella,2
+E. Hallfre\u00f0sson,S. Fofana,2
+B. Nuytinck,S. Scuffet,2
+E. Hallfre\u00f0sson,R. de Paul,2
+J. Jankto,E. Hallfre\u00f0sson,2
+C. Th\u00e9r\u00e9au,S. Fofana,2
+Danilo,A. Bar\u00e1k,2
+R. de Paul,E. Hallfre\u00f0sson,2
+S. Fofana,Danilo,2
+K. Lasagna,C. Th\u00e9r\u00e9au,2
+C. Th\u00e9r\u00e9au,A. Bar\u00e1k,2
+K. Lasagna,G. Angella,2
+B. Nuytinck,A. Bar\u00e1k,2
+C. Th\u00e9r\u00e9au,R. de Paul,2
+R. de Paul,Danilo,2
+R. de Paul,K. Lasagna,1
+Danilo,S. Fofana,1
+G. Pezzella,C. Th\u00e9r\u00e9au,1
+Samir,J. Jankto,1
+J. Jankto,R. de Paul,1
+J. Jankto,B. Nuytinck,1
+K. Lasagna,Samir,1
+Danilo,C. Th\u00e9r\u00e9au,1
+G. Angella,C. Th\u00e9r\u00e9au,1
+A. Bar\u00e1k,K. Lasagna,1
+B. Nuytinck,C. Th\u00e9r\u00e9au,1
+G. Pezzella,G. Angella,1
+S. Fofana,E. Hallfre\u00f0sson,1
+G. Angella,G. Pezzella,1
+B. Nuytinck,R. de Paul,1
+C. Th\u00e9r\u00e9au,K. Lasagna,1
+S. Scuffet,Danilo,1
+A. Bar\u00e1k,G. Angella,1
+C. Th\u00e9r\u00e9au,E. Hallfre\u00f0sson,1
+G. Angella,B. Nuytinck,1
+S. Scuffet,C. Th\u00e9r\u00e9au,1
+S. Fofana,B. Nuytinck,1
+J. Jankto,S. Scuffet,1
+A. Bar\u00e1k,Danilo,1
+K. Lasagna,Danilo,1
+E. Hallfre\u00f0sson,J. Jankto,1
+S. Scuffet,B. Nuytinck,1
+K. Lasagna,A. Bar\u00e1k,1
+K. Lasagna,S. Fofana,1
+C. Th\u00e9r\u00e9au,J. Jankto,1
+G. Angella,K. Lasagna,1
+B. Nuytinck,G. Angella,1
+S. Fofana,K. Lasagna,1
+Danilo,K. Lasagna,1
+J. Jankto,S. Fofana,1
+E. Hallfre\u00f0sson,G. Pezzella,1
+A. Bar\u00e1k,S. Scuffet,1
+G. Pezzella,R. de Paul,1
+G. Angella,S. Scuffet,1
+S. Scuffet,G. Pezzella,1
+J. Jankto,C. Th\u00e9r\u00e9au,1

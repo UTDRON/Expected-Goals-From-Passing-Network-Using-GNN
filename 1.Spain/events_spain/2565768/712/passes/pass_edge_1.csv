@@ -1,0 +1,108 @@
+Source,Target,Weight
+Tito,Omar Ramos,12
+Tito,E. Mu\u00f1oz,11
+E. Mu\u00f1oz,Tito,10
+Omar Ramos,Tito,9
+D. Bra\u0161anac,Tito,9
+Tito,D. Bra\u0161anac,8
+D. Bra\u0161anac,Omar Ramos,7
+Ra\u00fal Garc\u00eda,D. Siovas,7
+Jos\u00e9 Naranjo,Ra\u00fal Garc\u00eda,7
+D. Siovas,E. Mu\u00f1oz,7
+Ra\u00fal Garc\u00eda,Jos\u00e9 Naranjo,7
+E. Mu\u00f1oz,D. Siovas,7
+Ra\u00fal Garc\u00eda,Gabriel,6
+Gabriel,Tito,6
+Omar Ramos,D. Bra\u0161anac,6
+Gumbau,E. Mu\u00f1oz,6
+Cu\u00e9llar,Gabriel,6
+Tito,Gumbau,6
+Guerrero,D. Bra\u0161anac,5
+Gabriel,E. Mu\u00f1oz,5
+Gumbau,Guerrero,5
+D. Siovas,Gumbau,5
+Tito,Cu\u00e9llar,5
+E. Mu\u00f1oz,Cu\u00e9llar,5
+Omar Ramos,E. Mu\u00f1oz,5
+D. Siovas,Ra\u00fal Garc\u00eda,5
+Guerrero,Gumbau,5
+Gabriel,D. Siovas,4
+Gumbau,Gabriel,4
+D. Bra\u0161anac,Ra\u00fal Garc\u00eda,4
+Tito,Ra\u00fal Garc\u00eda,4
+Omar Ramos,Guerrero,4
+Gabriel,Guerrero,4
+Gabriel,Gumbau,4
+Gumbau,D. Siovas,4
+D. Siovas,D. Bra\u0161anac,4
+Cu\u00e9llar,Jos\u00e9 Naranjo,4
+Cu\u00e9llar,Guerrero,4
+Jos\u00e9 Naranjo,D. Siovas,4
+D. Bra\u0161anac,Jos\u00e9 Naranjo,4
+D. Siovas,Cu\u00e9llar,4
+Ra\u00fal Garc\u00eda,Guerrero,4
+Guerrero,Gabriel,4
+D. Bra\u0161anac,D. Siovas,4
+D. Siovas,Gabriel,4
+E. Mu\u00f1oz,Guerrero,3
+D. Bra\u0161anac,Gabriel,3
+Gabriel,D. Bra\u0161anac,3
+E. Mu\u00f1oz,Omar Ramos,3
+Ra\u00fal Garc\u00eda,Tito,3
+D. Siovas,Tito,3
+Guerrero,Tito,3
+Jos\u00e9 Naranjo,Tito,3
+Gumbau,Ra\u00fal Garc\u00eda,3
+Ra\u00fal Garc\u00eda,Gumbau,3
+Omar Ramos,Ra\u00fal Garc\u00eda,3
+Guerrero,N. Amrabat,3
+Jos\u00e9 Naranjo,D. Bra\u0161anac,3
+E. Mu\u00f1oz,D. Bra\u0161anac,3
+Gumbau,Tito,3
+Jos\u00e9 Naranjo,Gumbau,2
+Guerrero,Ra\u00fal Garc\u00eda,2
+Guerrero,Cu\u00e9llar,2
+Ra\u00fal Garc\u00eda,D. Bra\u0161anac,2
+D. Bra\u0161anac,Guerrero,2
+N. Amrabat,Ra\u00fal Garc\u00eda,2
+Gabriel,Ra\u00fal Garc\u00eda,2
+Cu\u00e9llar,Ra\u00fal Garc\u00eda,2
+Guerrero,D. Siovas,2
+Tito,D. Siovas,2
+D. Siovas,Jos\u00e9 Naranjo,2
+E. Mu\u00f1oz,Gumbau,2
+Tito,Guerrero,2
+Gumbau,Jos\u00e9 Naranjo,2
+Gabriel,Jos\u00e9 Naranjo,2
+Guerrero,E. Mu\u00f1oz,2
+N. Amrabat,Omar Ramos,2
+E. Mu\u00f1oz,Ra\u00fal Garc\u00eda,2
+Tito,Gabriel,2
+Jos\u00e9 Naranjo,Gabriel,2
+D. Bra\u0161anac,Gumbau,2
+N. Amrabat,D. Bra\u0161anac,2
+N. Amrabat,Tito,2
+Gumbau,Cu\u00e9llar,2
+Jos\u00e9 Naranjo,E. Mu\u00f1oz,1
+Cu\u00e9llar,N. Amrabat,1
+Guerrero,Jos\u00e9 Naranjo,1
+Omar Ramos,D. Siovas,1
+Cu\u00e9llar,Omar Ramos,1
+Gumbau,N. Amrabat,1
+Guerrero,Omar Ramos,1
+E. Mu\u00f1oz,Jos\u00e9 Naranjo,1
+D. Siovas,Omar Ramos,1
+E. Mu\u00f1oz,Gabriel,1
+Ra\u00fal Garc\u00eda,N. Amrabat,1
+Cu\u00e9llar,D. Bra\u0161anac,1
+Gabriel,N. Amrabat,1
+Gabriel,Omar Ramos,1
+Ra\u00fal Garc\u00eda,Cu\u00e9llar,1
+Omar Ramos,Gumbau,1
+D. Bra\u0161anac,E. Mu\u00f1oz,1
+Cu\u00e9llar,Tito,1
+Ra\u00fal Garc\u00eda,Omar Ramos,1
+D. Bra\u0161anac,Cu\u00e9llar,1
+E. Mu\u00f1oz,N. Amrabat,1
+D. Siovas,Guerrero,1
+Jos\u00e9 Naranjo,Guerrero,1

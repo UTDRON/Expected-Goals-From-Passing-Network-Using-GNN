@@ -1,0 +1,40 @@
+Source,Target,Weight
+M. Niang,\u00c1lex Berenguer,4
+C. Molinaro,N. Burdisso,3
+L. De Silvestri,T. Rinc\u00f3n,3
+T. Rinc\u00f3n,L. De Silvestri,3
+M. Valdifiori,Iago Falqu\u00e9,3
+\u00c1lex Berenguer,J. Obi,2
+\u00c1lex Berenguer,M. Niang,2
+Iago Falqu\u00e9,\u00c1lex Berenguer,2
+L. De Silvestri,N. N'Koulou,2
+\u00c1lex Berenguer,N. N'Koulou,2
+N. N'Koulou,C. Molinaro,2
+N. N'Koulou,L. De Silvestri,2
+C. Molinaro,M. Niang,2
+N. N'Koulou,T. Rinc\u00f3n,2
+Iago Falqu\u00e9,L. De Silvestri,2
+\u00c1lex Berenguer,C. Molinaro,2
+L. De Silvestri,M. Valdifiori,2
+N. Burdisso,\u00c1lex Berenguer,1
+N. Burdisso,S. Sirigu,1
+N. N'Koulou,M. Valdifiori,1
+S. Sirigu,M. Niang,1
+T. Rinc\u00f3n,N. N'Koulou,1
+T. Rinc\u00f3n,Iago Falqu\u00e9,1
+Iago Falqu\u00e9,C. Molinaro,1
+N. Burdisso,L. De Silvestri,1
+J. Obi,N. N'Koulou,1
+S. Sirigu,C. Molinaro,1
+C. Molinaro,\u00c1lex Berenguer,1
+L. De Silvestri,S. Sirigu,1
+L. De Silvestri,Iago Falqu\u00e9,1
+J. Obi,M. Niang,1
+M. Niang,J. Obi,1
+J. Obi,C. Molinaro,1
+M. Niang,S. Sirigu,1
+T. Rinc\u00f3n,\u00c1lex Berenguer,1
+J. Obi,N. Burdisso,1
+N. Burdisso,T. Rinc\u00f3n,1
+S. Sirigu,L. De Silvestri,1
+C. Molinaro,N. N'Koulou,1

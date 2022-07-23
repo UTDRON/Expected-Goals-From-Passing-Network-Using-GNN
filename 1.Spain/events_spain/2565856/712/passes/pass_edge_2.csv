@@ -1,0 +1,62 @@
+Source,Target,Weight
+Gabriel,Ra\u00fal Garc\u00eda,4
+Ra\u00fal Garc\u00eda,Gabriel,3
+Zald\u00faa,Rub\u00e9n P\u00e9rez,3
+Rub\u00e9n P\u00e9rez,Gabriel,3
+Eraso,D. Siovas,2
+D. Siovas,Eraso,2
+D. Siovas,Ra\u00fal Garc\u00eda,2
+Gabriel,Omar Ramos,2
+N. El Zhar,N. Amrabat,2
+Omar Ramos,Gabriel,2
+Omar Ramos,Rub\u00e9n P\u00e9rez,2
+Rub\u00e9n P\u00e9rez,Bustinza,2
+Zald\u00faa,Cu\u00e9llar,2
+Gabriel,N. Amrabat,2
+Eraso,Rub\u00e9n P\u00e9rez,2
+Rub\u00e9n P\u00e9rez,Zald\u00faa,2
+Ra\u00fal Garc\u00eda,N. El Zhar,2
+N. Amrabat,D. Siovas,2
+Rub\u00e9n P\u00e9rez,Eraso,2
+Bustinza,Omar Ramos,2
+Eraso,Gabriel,2
+D. Siovas,Omar Ramos,2
+N. El Zhar,Eraso,1
+N. Amrabat,N. El Zhar,1
+Gabriel,Eraso,1
+Bustinza,N. El Zhar,1
+N. El Zhar,D. Siovas,1
+Omar Ramos,Zald\u00faa,1
+Omar Ramos,N. El Zhar,1
+Eraso,Omar Ramos,1
+Omar Ramos,D. Siovas,1
+D. Siovas,Bustinza,1
+Gabriel,Rub\u00e9n P\u00e9rez,1
+Ra\u00fal Garc\u00eda,D. Siovas,1
+Cu\u00e9llar,Eraso,1
+Zald\u00faa,N. El Zhar,1
+Gabriel,Bustinza,1
+Eraso,Zald\u00faa,1
+N. Amrabat,Rub\u00e9n P\u00e9rez,1
+Rub\u00e9n P\u00e9rez,N. Amrabat,1
+N. Amrabat,Bustinza,1
+Bustinza,Rub\u00e9n P\u00e9rez,1
+Eraso,Bustinza,1
+N. Amrabat,Eraso,1
+Ra\u00fal Garc\u00eda,Eraso,1
+Eraso,Ra\u00fal Garc\u00eda,1
+Bustinza,N. Amrabat,1
+N. Amrabat,Ra\u00fal Garc\u00eda,1
+Bustinza,Gabriel,1
+Ra\u00fal Garc\u00eda,Rub\u00e9n P\u00e9rez,1
+Gabriel,Zald\u00faa,1
+N. El Zhar,Zald\u00faa,1
+N. El Zhar,Bustinza,1
+Zald\u00faa,Eraso,1
+Cu\u00e9llar,N. Amrabat,1
+Bustinza,Zald\u00faa,1
+Rub\u00e9n P\u00e9rez,Cu\u00e9llar,1
+Cu\u00e9llar,Zald\u00faa,1
+Zald\u00faa,Bustinza,1
+Zald\u00faa,Gabriel,1
+Bustinza,Eraso,1

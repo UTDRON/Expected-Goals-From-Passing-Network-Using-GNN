@@ -1,0 +1,30 @@
+Source,Target,Weight
+E. Pulgar,A. Poli,3
+A. Masina,E. Pulgar,3
+B. D\u017eemaili,A. Masina,3
+F. Helander,F. Di Francesco,2
+G. Gonz\u00e1lez,B. D\u017eemaili,2
+A. Masina,F. Helander,2
+G. Gonz\u00e1lez,F. Helander,1
+A. Mirante,A. Poli,1
+F. Di Francesco,A. Poli,1
+A. Poli,G. Gonz\u00e1lez,1
+S. Romagnoli,B. D\u017eemaili,1
+E. Pulgar,F. Helander,1
+A. Masina,B. D\u017eemaili,1
+A. Poli,E. Pulgar,1
+F. Helander,E. Pulgar,1
+B. D\u017eemaili,A. Poli,1
+A. Poli,B. D\u017eemaili,1
+E. Pulgar,A. Masina,1
+\u00c1. Nagy,A. Masina,1
+G. Gonz\u00e1lez,A. Masina,1
+F. Di Francesco,G. Gonz\u00e1lez,1
+B. D\u017eemaili,E. Pulgar,1
+A. Poli,A. Mirante,1
+E. Pulgar,G. Gonz\u00e1lez,1
+E. Pulgar,M. Destro,1
+F. Helander,\u00c1. Nagy,1
+M. Destro,E. Pulgar,1
+A. Poli,S. Romagnoli,1
+A. Poli,F. Di Francesco,1

@@ -1,0 +1,28 @@
+Source,Target,Weight
+Chema,Sergio Postigo,2
+J. Lerma,Campa\u00f1a,2
+Campa\u00f1a,J. Lerma,2
+J. Lerma,Luna,2
+Sergio Postigo,Campa\u00f1a,1
+Luna,J. Lerma,1
+E. Bardhi,Luna,1
+Coke,Rub\u00e9n Rochina,1
+Roger,J. Lerma,1
+Sergio Postigo,J. Lerma,1
+Luna,Campa\u00f1a,1
+Sergio Postigo,Coke,1
+Campa\u00f1a,Coke,1
+Luna,Roger,1
+J. Lerma,Sergio Postigo,1
+Sergio Postigo,E. Boateng,1
+E. Boateng,Coke,1
+Oier,J. Lerma,1
+Luna,Sergio Postigo,1
+E. Boateng,Roger,1
+J. Lerma,Chema,1
+Coke,Oier,1
+Roger,Coke,1
+Luna,E. Boateng,1
+Rub\u00e9n Rochina,Luna,1
+Campa\u00f1a,Chema,1
+Coke,Luna,1

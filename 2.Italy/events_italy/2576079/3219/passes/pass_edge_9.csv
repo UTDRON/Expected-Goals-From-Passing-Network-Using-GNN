@@ -1,0 +1,20 @@
+Source,Target,Weight
+G. Di Chiara,V. Parigini,1
+L. Venuti,D. Cataldi,1
+L. Antei,G. Di Chiara,1
+A. Ciciretti,L. Antei,1
+A. Costa,D. Cataldi,1
+A. Ciciretti,L. Venuti,1
+V. Parigini,A. Ciciretti,1
+A. Costa,N. Viola,1
+A. Brignoli,A. Costa,1
+N. Viola,G. Di Chiara,1
+G. Di Chiara,L. Antei,1
+L. Antei,V. Parigini,1
+N. Viola,A. Costa,1
+D. Cataldi,A. Costa,1
+D. Cataldi,N. Viola,1
+V. Parigini,L. Venuti,1
+D. Cataldi,A. Brignoli,1
+A. Costa,V. Parigini,1
+L. Venuti,A. Ciciretti,1

@@ -1,0 +1,66 @@
+Source,Target,Weight
+Luis Alberto,S. Luli\u0107,4
+Luis Alberto,S. Milinkovi\u0107-Savi\u0107,4
+Patric,Lucas Leiva,4
+Luis Alberto,A. Maru\u0161i\u0107,4
+M. Parolo,Luis Alberto,4
+S. de Vrij,\u015e. Radu,3
+\u015e. Radu,S. Luli\u0107,3
+A. Maru\u0161i\u0107,M. Parolo,3
+\u015e. Radu,S. Milinkovi\u0107-Savi\u0107,3
+S. Milinkovi\u0107-Savi\u0107,M. Parolo,3
+S. Luli\u0107,Patric,3
+S. Milinkovi\u0107-Savi\u0107,S. Luli\u0107,3
+M. Parolo,Patric,3
+A. Maru\u0161i\u0107,Luis Alberto,3
+S. Milinkovi\u0107-Savi\u0107,Luis Alberto,3
+Lucas Leiva,M. Parolo,3
+Lucas Leiva,\u015e. Radu,3
+M. Parolo,Lucas Leiva,3
+Lucas Leiva,A. Maru\u0161i\u0107,3
+Luis Alberto,C. Immobile,2
+S. Luli\u0107,A. Maru\u0161i\u0107,2
+Patric,S. de Vrij,2
+S. Luli\u0107,\u015e. Radu,2
+\u015e. Radu,S. de Vrij,2
+Lucas Leiva,S. Luli\u0107,2
+Luis Alberto,M. Parolo,2
+S. Milinkovi\u0107-Savi\u0107,A. Maru\u0161i\u0107,2
+A. Maru\u0161i\u0107,S. Milinkovi\u0107-Savi\u0107,2
+S. de Vrij,Patric,2
+A. Maru\u0161i\u0107,Lucas Leiva,2
+S. de Vrij,M. Parolo,2
+C. Immobile,Luis Alberto,2
+S. Luli\u0107,Luis Alberto,2
+T. Strakosha,Patric,2
+S. Milinkovi\u0107-Savi\u0107,Lucas Leiva,2
+M. Parolo,S. Milinkovi\u0107-Savi\u0107,2
+\u015e. Radu,C. Immobile,2
+Lucas Leiva,Luis Alberto,2
+\u015e. Radu,Lucas Leiva,1
+M. Parolo,S. Luli\u0107,1
+A. Maru\u0161i\u0107,S. Luli\u0107,1
+S. Luli\u0107,S. Milinkovi\u0107-Savi\u0107,1
+Patric,\u015e. Radu,1
+Lucas Leiva,Patric,1
+\u015e. Radu,Luis Alberto,1
+Lucas Leiva,S. de Vrij,1
+S. Luli\u0107,S. de Vrij,1
+A. Maru\u0161i\u0107,S. de Vrij,1
+T. Strakosha,S. de Vrij,1
+C. Immobile,A. Maru\u0161i\u0107,1
+Patric,T. Strakosha,1
+S. Milinkovi\u0107-Savi\u0107,T. Strakosha,1
+M. Parolo,\u015e. Radu,1
+S. de Vrij,S. Milinkovi\u0107-Savi\u0107,1
+C. Immobile,\u015e. Radu,1
+S. Luli\u0107,T. Strakosha,1
+Patric,S. Milinkovi\u0107-Savi\u0107,1
+C. Immobile,Lucas Leiva,1
+S. Luli\u0107,Lucas Leiva,1
+S. Milinkovi\u0107-Savi\u0107,\u015e. Radu,1
+C. Immobile,S. Milinkovi\u0107-Savi\u0107,1
+Luis Alberto,Lucas Leiva,1
+Patric,M. Parolo,1
+S. Luli\u0107,C. Immobile,1
+Patric,C. Immobile,1

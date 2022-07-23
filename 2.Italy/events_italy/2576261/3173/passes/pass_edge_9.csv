@@ -1,0 +1,18 @@
+Source,Target,Weight
+F. Romagna,A. Ioni\u0163\u0103,1
+F. Pisacane,N. Barella,1
+L. Pavoletti,A. Ioni\u0163\u0103,1
+N. Barella,L. Pavoletti,1
+A. Ioni\u0163\u0103,A. Cragno,1
+A. Cossu,P. Farag\u00f2,1
+A. Ioni\u0163\u0103,N. Barella,1
+N. Barella,S. Miangue,1
+P. Farag\u00f2,A. Ioni\u0163\u0103,1
+A. Ioni\u0163\u0103,S. Miangue,1
+S. Miangue,F. Romagna,1
+S. Miangue,Leandro Cast\u00e1n,1
+D. Ceter,A. Ioni\u0163\u0103,1
+A. Ioni\u0163\u0103,D. Ceter,1
+Leandro Cast\u00e1n,F. Pisacane,1
+A. Cragno,F. Pisacane,1
+F. Pisacane,A. Cossu,1

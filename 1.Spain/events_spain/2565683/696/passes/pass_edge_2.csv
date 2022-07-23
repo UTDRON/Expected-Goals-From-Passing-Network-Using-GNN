@@ -1,0 +1,60 @@
+Source,Target,Weight
+Medr\u00e1n,Alexis,5
+Medr\u00e1n,M. Wakaso,4
+Tom\u00e1s Pina,Medr\u00e1n,4
+Medr\u00e1n,Tom\u00e1s Pina,3
+Medr\u00e1n,Rub\u00e9n Duarte,3
+Rub\u00e9n Duarte,Medr\u00e1n,3
+Alexis,Mart\u00edn,3
+Mart\u00edn,Munir,2
+M. Wakaso,Medr\u00e1n,2
+Tom\u00e1s Pina,Mart\u00edn,2
+M. Wakaso,Tom\u00e1s Pina,2
+Alexis,Munir,2
+Mart\u00edn,Tom\u00e1s Pina,2
+Ibai G\u00f3mez,Medr\u00e1n,2
+Mart\u00edn,Alexis,2
+M. Wakaso,Mart\u00edn,2
+G. Marip\u00e1n,Medr\u00e1n,2
+M. Wakaso,Munir,2
+Alexis,Rub\u00e9n Duarte,2
+Mart\u00edn,Ibai G\u00f3mez,2
+Mart\u00edn,M. Wakaso,2
+Alexis,Medr\u00e1n,2
+Munir,Tom\u00e1s Pina,2
+Bojan,Medr\u00e1n,1
+Rub\u00e9n Duarte,M. Wakaso,1
+Munir,Medr\u00e1n,1
+Munir,Mart\u00edn,1
+Fernando Pacheco,Mart\u00edn,1
+Rub\u00e9n Duarte,Munir,1
+Rub\u00e9n Duarte,Mart\u00edn,1
+Ibai G\u00f3mez,Mart\u00edn,1
+Munir,Ibai G\u00f3mez,1
+M. Wakaso,Bojan,1
+Munir,Rub\u00e9n Duarte,1
+Tom\u00e1s Pina,Fernando Pacheco,1
+Rub\u00e9n Duarte,Bojan,1
+Bojan,Fernando Pacheco,1
+Fernando Pacheco,M. Wakaso,1
+Tom\u00e1s Pina,M. Wakaso,1
+G. Marip\u00e1n,Ibai G\u00f3mez,1
+Ibai G\u00f3mez,Munir,1
+Mart\u00edn,G. Marip\u00e1n,1
+Bojan,M. Wakaso,1
+Rub\u00e9n Duarte,G. Marip\u00e1n,1
+Bojan,Alexis,1
+Medr\u00e1n,Mart\u00edn,1
+Munir,Bojan,1
+Mart\u00edn,Medr\u00e1n,1
+Ibai G\u00f3mez,Bojan,1
+Medr\u00e1n,Munir,1
+Alexis,Fernando Pacheco,1
+Munir,Alexis,1
+Medr\u00e1n,Ibai G\u00f3mez,1
+Tom\u00e1s Pina,G. Marip\u00e1n,1
+Tom\u00e1s Pina,Bojan,1
+Bojan,Tom\u00e1s Pina,1
+Fernando Pacheco,Ibai G\u00f3mez,1
+M. Wakaso,Rub\u00e9n Duarte,1
+Ibai G\u00f3mez,Alexis,1

@@ -1,0 +1,50 @@
+Source,Target,Weight
+E. Moretti,C. Ansaldi,5
+C. Ansaldi,E. Moretti,4
+C. Ansaldi,\u00c1lex Berenguer,4
+L. De Silvestri,M. Valdifiori,4
+M. Valdifiori,L. De Silvestri,4
+L. De Silvestri,Iago Falqu\u00e9,3
+\u00c1lex Berenguer,C. Ansaldi,3
+\u00c1lex Berenguer,L. De Silvestri,3
+N. N'Koulou,L. De Silvestri,2
+N. N'Koulou,E. Moretti,2
+Iago Falqu\u00e9,A. Belotti,2
+L. De Silvestri,C. Ansaldi,2
+L. De Silvestri,N. N'Koulou,2
+M. Valdifiori,A. Belotti,2
+E. Moretti,M. Valdifiori,2
+A. Belotti,T. Rinc\u00f3n,1
+L. De Silvestri,T. Rinc\u00f3n,1
+T. Rinc\u00f3n,C. Ansaldi,1
+Iago Falqu\u00e9,L. De Silvestri,1
+S. Sirigu,N. N'Koulou,1
+E. Moretti,A. Acquah,1
+T. Rinc\u00f3n,\u00c1lex Berenguer,1
+A. Belotti,M. Valdifiori,1
+\u00c1lex Berenguer,S. Sirigu,1
+M. Valdifiori,E. Moretti,1
+A. Acquah,A. Belotti,1
+C. Ansaldi,L. De Silvestri,1
+C. Ansaldi,T. Rinc\u00f3n,1
+A. Belotti,E. Moretti,1
+L. De Silvestri,E. Moretti,1
+A. Acquah,T. Rinc\u00f3n,1
+M. Valdifiori,\u00c1lex Berenguer,1
+A. Belotti,A. Acquah,1
+\u00c1lex Berenguer,A. Acquah,1
+N. N'Koulou,M. Valdifiori,1
+E. Moretti,\u00c1lex Berenguer,1
+L. De Silvestri,A. Belotti,1
+E. Moretti,L. De Silvestri,1
+Iago Falqu\u00e9,\u00c1lex Berenguer,1
+E. Moretti,N. N'Koulou,1
+A. Belotti,L. De Silvestri,1
+C. Ansaldi,M. Valdifiori,1
+S. Sirigu,E. Moretti,1
+A. Belotti,Iago Falqu\u00e9,1
+M. Valdifiori,N. N'Koulou,1
+E. Moretti,S. Sirigu,1
+S. Sirigu,L. De Silvestri,1
+T. Rinc\u00f3n,S. Sirigu,1
+A. Acquah,E. Moretti,1

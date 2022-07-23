@@ -1,0 +1,82 @@
+Source,Target,Weight
+Montoya,E. Garay,7
+Montoya,S. Zaza,6
+Andreas Pereira,Montoya,6
+Jos\u00e9 Gay\u00e1,Gon\u00e7alo Guedes,5
+E. Garay,Montoya,5
+Andreas Pereira,E. Garay,4
+Carlos Soler,Jos\u00e9 Gay\u00e1,4
+S. Zaza,Montoya,4
+Carlos Soler,Andreas Pereira,4
+G. Kondogbia,Carlos Soler,4
+Gabriel,Jos\u00e9 Gay\u00e1,4
+E. Garay,Neto,4
+Rodrigo,Andreas Pereira,3
+Montoya,Andreas Pereira,3
+G. Kondogbia,S. Zaza,3
+Gon\u00e7alo Guedes,Jos\u00e9 Gay\u00e1,3
+Jos\u00e9 Gay\u00e1,Carlos Soler,3
+Rodrigo,Jos\u00e9 Gay\u00e1,3
+Jos\u00e9 Gay\u00e1,Rodrigo,3
+G. Kondogbia,Rodrigo,3
+Carlos Soler,E. Garay,3
+Gabriel,Montoya,3
+Gabriel,Carlos Soler,3
+Carlos Soler,G. Kondogbia,3
+E. Garay,Gabriel,3
+Jos\u00e9 Gay\u00e1,Gabriel,3
+Jos\u00e9 Gay\u00e1,G. Kondogbia,3
+G. Kondogbia,Montoya,2
+S. Zaza,Gabriel,2
+Montoya,Gabriel,2
+Carlos Soler,Montoya,2
+Rodrigo,Carlos Soler,2
+Neto,G. Kondogbia,2
+E. Garay,G. Kondogbia,2
+Carlos Soler,Gon\u00e7alo Guedes,2
+Gon\u00e7alo Guedes,Carlos Soler,2
+Gon\u00e7alo Guedes,Gabriel,2
+E. Garay,Rodrigo,2
+E. Garay,Andreas Pereira,2
+Montoya,G. Kondogbia,2
+Rodrigo,G. Kondogbia,2
+G. Kondogbia,Gabriel,2
+S. Zaza,Jos\u00e9 Gay\u00e1,2
+Gabriel,E. Garay,2
+Gon\u00e7alo Guedes,E. Garay,1
+Neto,S. Zaza,1
+Gon\u00e7alo Guedes,S. Zaza,1
+Gon\u00e7alo Guedes,G. Kondogbia,1
+Neto,E. Garay,1
+Gon\u00e7alo Guedes,Andreas Pereira,1
+Andreas Pereira,Gon\u00e7alo Guedes,1
+Jos\u00e9 Gay\u00e1,Andreas Pereira,1
+Neto,Carlos Soler,1
+G. Kondogbia,Jos\u00e9 Gay\u00e1,1
+G. Kondogbia,Neto,1
+Neto,Rodrigo,1
+E. Garay,Gon\u00e7alo Guedes,1
+Jos\u00e9 Gay\u00e1,E. Garay,1
+E. Garay,Carlos Soler,1
+Montoya,Carlos Soler,1
+G. Kondogbia,Gon\u00e7alo Guedes,1
+S. Zaza,Neto,1
+G. Kondogbia,E. Garay,1
+S. Zaza,G. Kondogbia,1
+Andreas Pereira,Jos\u00e9 Gay\u00e1,1
+Montoya,Rodrigo,1
+E. Garay,S. Zaza,1
+S. Zaza,Andreas Pereira,1
+Gon\u00e7alo Guedes,Rodrigo,1
+Rodrigo,Gon\u00e7alo Guedes,1
+Neto,Jos\u00e9 Gay\u00e1,1
+Andreas Pereira,Neto,1
+Gabriel,Andreas Pereira,1
+Carlos Soler,Gabriel,1
+S. Zaza,Carlos Soler,1
+Andreas Pereira,Carlos Soler,1
+Gabriel,S. Zaza,1
+S. Zaza,E. Garay,1
+Gabriel,Gon\u00e7alo Guedes,1
+Andreas Pereira,S. Zaza,1
+Andreas Pereira,G. Kondogbia,1

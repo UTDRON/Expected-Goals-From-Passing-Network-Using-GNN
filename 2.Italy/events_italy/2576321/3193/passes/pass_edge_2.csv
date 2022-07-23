@@ -1,0 +1,86 @@
+Source,Target,Weight
+A. Bertolacci,A. Izzo,5
+A. Izzo,A. Bertolacci,5
+S. Omeonga,A. Bertolacci,4
+O. Hiljemark,A. Bertolacci,4
+I. Cofie,A. Izzo,4
+D. Biraschi,O. Hiljemark,4
+E. Lamanna,G. Lapadula,4
+A. Bertolacci,S. Omeonga,4
+I. Cofie,A. Bertolacci,4
+A. Bertolacci,J. El Yamiq,4
+A. Bertolacci,I. Cofie,4
+D. Biraschi,Iuri Medeiros,4
+O. Hiljemark,I. Cofie,4
+A. Izzo,I. Cofie,3
+A. Rosi,D. Biraschi,3
+J. El Yamiq,S. Omeonga,3
+A. Bertolacci,O. Hiljemark,3
+Iuri Medeiros,I. Cofie,3
+I. Cofie,O. Hiljemark,3
+G. Lapadula,A. Rosi,3
+A. Rosi,Iuri Medeiros,2
+Iuri Medeiros,N. Spolli,2
+I. Cofie,D. Biraschi,2
+Iuri Medeiros,D. Biraschi,2
+O. Hiljemark,D. Biraschi,2
+J. El Yamiq,E. Lamanna,2
+D. Biraschi,I. Cofie,2
+Iuri Medeiros,A. Bertolacci,2
+J. El Yamiq,O. Hiljemark,2
+A. Izzo,N. Spolli,2
+A. Izzo,J. El Yamiq,2
+S. Omeonga,N. Spolli,2
+G. Lapadula,I. Cofie,2
+A. Bertolacci,D. Biraschi,2
+I. Cofie,E. Lamanna,2
+A. Izzo,S. Omeonga,2
+I. Cofie,G. Lapadula,2
+N. Spolli,J. El Yamiq,2
+I. Cofie,Iuri Medeiros,2
+S. Omeonga,A. Izzo,2
+E. Lamanna,Iuri Medeiros,2
+J. El Yamiq,D. Biraschi,2
+J. El Yamiq,I. Cofie,1
+S. Omeonga,A. Rosi,1
+N. Spolli,O. Hiljemark,1
+I. Cofie,J. El Yamiq,1
+J. El Yamiq,A. Bertolacci,1
+E. Lamanna,A. Bertolacci,1
+D. Biraschi,N. Spolli,1
+A. Izzo,D. Biraschi,1
+N. Spolli,Iuri Medeiros,1
+Iuri Medeiros,J. El Yamiq,1
+A. Rosi,E. Lamanna,1
+O. Hiljemark,J. El Yamiq,1
+S. Omeonga,O. Hiljemark,1
+A. Bertolacci,E. Lamanna,1
+G. Lapadula,E. Lamanna,1
+A. Bertolacci,A. Rosi,1
+N. Spolli,A. Izzo,1
+E. Lamanna,S. Omeonga,1
+D. Biraschi,J. El Yamiq,1
+N. Spolli,A. Bertolacci,1
+D. Biraschi,E. Lamanna,1
+J. El Yamiq,A. Izzo,1
+A. Rosi,J. El Yamiq,1
+O. Hiljemark,A. Rosi,1
+E. Lamanna,A. Izzo,1
+A. Rosi,A. Bertolacci,1
+O. Hiljemark,S. Omeonga,1
+G. Lapadula,A. Bertolacci,1
+N. Spolli,E. Lamanna,1
+D. Biraschi,A. Izzo,1
+A. Izzo,O. Hiljemark,1
+G. Lapadula,A. Izzo,1
+J. El Yamiq,Iuri Medeiros,1
+Iuri Medeiros,S. Omeonga,1
+S. Omeonga,G. Lapadula,1
+O. Hiljemark,A. Izzo,1
+J. El Yamiq,G. Lapadula,1
+Iuri Medeiros,A. Izzo,1
+I. Cofie,A. Rosi,1
+S. Omeonga,I. Cofie,1
+A. Izzo,A. Rosi,1
+A. Izzo,E. Lamanna,1
+E. Lamanna,I. Cofie,1

@@ -1,0 +1,49 @@
+Source,Target,Weight
+N. Amrabat,Rub\u00e9n P\u00e9rez,3
+Zald\u00faa,N. El Zhar,2
+Gabriel,N. Amrabat,2
+C. Beauvue,Ra\u00fal Garc\u00eda,2
+Cu\u00e9llar,C. Beauvue,2
+Rub\u00e9n P\u00e9rez,N. Amrabat,2
+Ra\u00fal Garc\u00eda,Gabriel,2
+Rub\u00e9n P\u00e9rez,Zald\u00faa,2
+D. Bra\u0161anac,Zald\u00faa,1
+Rub\u00e9n P\u00e9rez,Gabriel,1
+Zald\u00faa,Gabriel,1
+N. El Zhar,Rub\u00e9n P\u00e9rez,1
+D. Bra\u0161anac,N. Amrabat,1
+N. Amrabat,D. Siovas,1
+N. Amrabat,Zald\u00faa,1
+Gabriel,Zald\u00faa,1
+Zald\u00faa,D. Siovas,1
+D. Siovas,Cu\u00e9llar,1
+Rub\u00e9n P\u00e9rez,D. Bra\u0161anac,1
+Ra\u00fal Garc\u00eda,Zald\u00faa,1
+Ra\u00fal Garc\u00eda,N. Amrabat,1
+Gabriel,Rub\u00e9n P\u00e9rez,1
+Zald\u00faa,Rub\u00e9n P\u00e9rez,1
+D. Bra\u0161anac,Rub\u00e9n P\u00e9rez,1
+C. Beauvue,D. Bra\u0161anac,1
+Gabriel,Cu\u00e9llar,1
+Rub\u00e9n P\u00e9rez,C. Beauvue,1
+N. El Zhar,C. Beauvue,1
+C. Beauvue,Zald\u00faa,1
+Ra\u00fal Garc\u00eda,D. Bra\u0161anac,1
+Ra\u00fal Garc\u00eda,Rub\u00e9n P\u00e9rez,1
+Zald\u00faa,M. Mantovani,1
+D. Siovas,Ra\u00fal Garc\u00eda,1
+D. Siovas,C. Beauvue,1
+N. Amrabat,Ra\u00fal Garc\u00eda,1
+Rub\u00e9n P\u00e9rez,Ra\u00fal Garc\u00eda,1
+Gabriel,C. Beauvue,1
+N. Amrabat,Gabriel,1
+C. Beauvue,D. Siovas,1
+C. Beauvue,N. Amrabat,1
+Guerrero,Ra\u00fal Garc\u00eda,1
+M. Mantovani,N. Amrabat,1
+C. Beauvue,Gabriel,1
+C. Beauvue,Guerrero,1
+Cu\u00e9llar,D. Bra\u0161anac,1
+D. Bra\u0161anac,C. Beauvue,1
+N. Amrabat,C. Beauvue,1
+Rub\u00e9n P\u00e9rez,Cu\u00e9llar,1

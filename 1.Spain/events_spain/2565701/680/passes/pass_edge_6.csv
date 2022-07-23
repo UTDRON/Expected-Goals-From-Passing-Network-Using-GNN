@@ -1,0 +1,26 @@
+Source,Target,Weight
+Sergio Escudero,J. Correa,2
+Pablo Sarabia,S. Kj\u00e6r,2
+S. Kj\u00e6r,G. Mercado,2
+W. Ben Yedder,J. Correa,2
+\u00c9. Banega,Sergio Escudero,2
+G. Pizarro,\u00c9. Banega,1
+J. Correa,W. Ben Yedder,1
+C. Lenglet,S. Kj\u00e6r,1
+Pablo Sarabia,W. Ben Yedder,1
+Sergio Escudero,C. Lenglet,1
+W. Ben Yedder,Pablo Sarabia,1
+\u00c9. Banega,G. Mercado,1
+J. Correa,Sergio Escudero,1
+J. Correa,Pablo Sarabia,1
+J. Correa,\u00c9. Banega,1
+G. Mercado,G. Pizarro,1
+S. Kj\u00e6r,C. Lenglet,1
+Pablo Sarabia,\u00c9. Banega,1
+C. Lenglet,W. Ben Yedder,1
+G. Mercado,W. Ben Yedder,1
+\u00c9. Banega,G. Pizarro,1
+\u00c9. Banega,Pablo Sarabia,1
+W. Ben Yedder,\u00c9. Banega,1
+G. Pizarro,Pablo Sarabia,1
+S. Kj\u00e6r,\u00c9. Banega,1

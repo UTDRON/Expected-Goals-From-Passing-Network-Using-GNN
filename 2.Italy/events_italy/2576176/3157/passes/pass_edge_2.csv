@@ -1,0 +1,50 @@
+Source,Target,Weight
+A. Romagnoli,L. Bonucci,3
+L. Antonelli,A. Romagnoli,3
+L. Bonucci,Suso,3
+L. Antonelli,G. Bonaventura,3
+Suso,P. Cutrone,2
+Suso,D. Calabria,2
+L. Biglia,H. \u00c7alhano\u011flu,2
+Suso,H. \u00c7alhano\u011flu,2
+L. Biglia,L. Antonelli,2
+L. Antonelli,L. Bonucci,2
+F. Kessi\u00e9,Suso,2
+D. Calabria,L. Bonucci,2
+G. Bonaventura,L. Biglia,2
+H. \u00c7alhano\u011flu,L. Antonelli,2
+P. Cutrone,L. Antonelli,2
+Suso,L. Antonelli,2
+G. Bonaventura,F. Kessi\u00e9,1
+L. Antonelli,H. \u00c7alhano\u011flu,1
+H. \u00c7alhano\u011flu,F. Kessi\u00e9,1
+L. Biglia,P. Cutrone,1
+L. Antonelli,Suso,1
+D. Calabria,G. Bonaventura,1
+L. Biglia,A. Romagnoli,1
+L. Bonucci,L. Biglia,1
+G. Bonaventura,L. Antonelli,1
+G. Bonaventura,H. \u00c7alhano\u011flu,1
+P. Cutrone,F. Kessi\u00e9,1
+H. \u00c7alhano\u011flu,L. Biglia,1
+Suso,F. Kessi\u00e9,1
+F. Kessi\u00e9,G. Bonaventura,1
+F. Kessi\u00e9,D. Calabria,1
+L. Bonucci,G. Donnarumma,1
+G. Bonaventura,P. Cutrone,1
+A. Romagnoli,H. \u00c7alhano\u011flu,1
+G. Donnarumma,A. Romagnoli,1
+P. Cutrone,D. Calabria,1
+L. Bonucci,F. Kessi\u00e9,1
+L. Bonucci,G. Bonaventura,1
+H. \u00c7alhano\u011flu,Suso,1
+L. Bonucci,D. Calabria,1
+L. Bonucci,L. Antonelli,1
+H. \u00c7alhano\u011flu,L. Bonucci,1
+L. Antonelli,L. Biglia,1
+L. Biglia,L. Bonucci,1
+D. Calabria,Suso,1
+G. Bonaventura,Suso,1
+D. Calabria,L. Biglia,1
+F. Kessi\u00e9,L. Biglia,1
+A. Romagnoli,L. Antonelli,1

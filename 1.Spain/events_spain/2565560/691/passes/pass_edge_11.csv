@@ -1,0 +1,57 @@
+Source,Target,Weight
+Granero,Sergio Garc\u00eda,4
+David L\u00f3pez,\u00d3scar Melendo,4
+Naldo,Aar\u00f3n,3
+P. Piatti,Granero,3
+Granero,Gerard Moreno,3
+Aar\u00f3n,P. Piatti,3
+Gerard Moreno,Granero,2
+Granero,David L\u00f3pez,2
+Javi Fuego,\u00d3scar Melendo,2
+Gerard Moreno,P. Piatti,2
+Aar\u00f3n,Naldo,2
+Sergio Garc\u00eda,David L\u00f3pez,2
+\u00d3scar Melendo,P. Piatti,2
+Aar\u00f3n,Granero,2
+\u00d3scar Melendo,Naldo,2
+Granero,Javi Fuego,2
+David L\u00f3pez,Naldo,2
+Naldo,Granero,2
+Naldo,David L\u00f3pez,2
+David L\u00f3pez,Aar\u00f3n,2
+Sergio Garc\u00eda,Gerard Moreno,2
+Gerard Moreno,Sergio Garc\u00eda,2
+Aar\u00f3n,L\u00e9o Baptist\u00e3o,1
+P. Piatti,Sergio Garc\u00eda,1
+Javi Fuego,David L\u00f3pez,1
+L\u00e9o Baptist\u00e3o,Pau L\u00f3pez,1
+Granero,\u00d3scar Melendo,1
+L\u00e9o Baptist\u00e3o,Aar\u00f3n,1
+Javi Fuego,Granero,1
+Naldo,Javi Fuego,1
+Granero,P. Piatti,1
+Pau L\u00f3pez,Gerard Moreno,1
+Gerard Moreno,L\u00e9o Baptist\u00e3o,1
+\u00d3scar Melendo,Aar\u00f3n,1
+Pau L\u00f3pez,Granero,1
+P. Piatti,Aar\u00f3n,1
+P. Piatti,Javi Fuego,1
+Javi Fuego,Naldo,1
+Sergio Garc\u00eda,Javi Fuego,1
+Gerard Moreno,David L\u00f3pez,1
+P. Piatti,Naldo,1
+Naldo,Gerard Moreno,1
+Javi Fuego,Gerard Moreno,1
+Aar\u00f3n,Javi Fuego,1
+Sergio Garc\u00eda,Naldo,1
+\u00d3scar Melendo,Sergio Garc\u00eda,1
+Javi Fuego,L\u00e9o Baptist\u00e3o,1
+\u00d3scar Melendo,Gerard Moreno,1
+L\u00e9o Baptist\u00e3o,Granero,1
+Sergio Garc\u00eda,Granero,1
+Gerard Moreno,Aar\u00f3n,1
+Granero,Aar\u00f3n,1
+\u00d3scar Melendo,Javi Fuego,1
+Aar\u00f3n,Pau L\u00f3pez,1
+P. Piatti,\u00d3scar Melendo,1
+Sergio Garc\u00eda,L\u00e9o Baptist\u00e3o,1

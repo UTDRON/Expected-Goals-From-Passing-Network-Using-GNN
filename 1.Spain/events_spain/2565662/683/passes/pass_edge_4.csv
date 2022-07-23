@@ -1,0 +1,54 @@
+Source,Target,Weight
+Adri\u00e1n,P. Baysse,4
+R. Rosales,Adri\u00e1n,3
+Luis Hern\u00e1ndez,R. Rosales,3
+P. Baysse,Adri\u00e1n,3
+Chory Castro,D. Rol\u00e1n,3
+R. Rosales,Keko,3
+P. Baysse,Juankar,3
+D. Rol\u00e1n,P. Baysse,3
+Juankar,Chory Castro,3
+Keko,R. Rosales,2
+Adri\u00e1n,Juankar,2
+P. Baysse,Roberto,2
+A. Pe\u00f1aranda,Adri\u00e1n,2
+P. Baysse,D. Rol\u00e1n,2
+E. Rol\u00f3n,R. Rosales,2
+Adri\u00e1n,A. Pe\u00f1aranda,2
+A. Pe\u00f1aranda,E. Rol\u00f3n,2
+E. Rol\u00f3n,A. Pe\u00f1aranda,2
+Chory Castro,Adri\u00e1n,2
+Luis Hern\u00e1ndez,Adri\u00e1n,2
+Adri\u00e1n,Keko,2
+A. Pe\u00f1aranda,Chory Castro,2
+Keko,A. Pe\u00f1aranda,1
+Adri\u00e1n,R. Rosales,1
+Keko,P. Baysse,1
+Chory Castro,Keko,1
+R. Rosales,E. Rol\u00f3n,1
+D. Rol\u00e1n,Luis Hern\u00e1ndez,1
+Chory Castro,P. Baysse,1
+R. Rosales,A. Pe\u00f1aranda,1
+A. Pe\u00f1aranda,R. Rosales,1
+Juankar,Adri\u00e1n,1
+P. Baysse,A. Pe\u00f1aranda,1
+Luis Hern\u00e1ndez,P. Baysse,1
+D. Rol\u00e1n,A. Pe\u00f1aranda,1
+Juankar,D. Rol\u00e1n,1
+R. Rosales,Luis Hern\u00e1ndez,1
+Chory Castro,Luis Hern\u00e1ndez,1
+Keko,Adri\u00e1n,1
+D. Rol\u00e1n,E. Rol\u00f3n,1
+Adri\u00e1n,Luis Hern\u00e1ndez,1
+Adri\u00e1n,Chory Castro,1
+R. Rosales,Juankar,1
+Keko,Luis Hern\u00e1ndez,1
+D. Rol\u00e1n,Chory Castro,1
+Roberto,A. Pe\u00f1aranda,1
+P. Baysse,Chory Castro,1
+Juankar,Luis Hern\u00e1ndez,1
+Roberto,P. Baysse,1
+A. Pe\u00f1aranda,P. Baysse,1
+A. Pe\u00f1aranda,Keko,1
+Keko,Chory Castro,1
+Adri\u00e1n,D. Rol\u00e1n,1

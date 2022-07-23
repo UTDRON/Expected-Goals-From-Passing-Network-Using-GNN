@@ -1,0 +1,58 @@
+Source,Target,Weight
+Carlos Soler,Montoya,5
+G. Kondogbia,Dani Parejo,4
+Carlos Soler,Dani Parejo,4
+Dani Parejo,Carlos Soler,4
+Jos\u00e9 Gay\u00e1,Toni Lato,4
+Toni Lato,Jos\u00e9 Gay\u00e1,4
+G. Kondogbia,Carlos Soler,4
+Toni Lato,Dani Parejo,4
+Dani Parejo,E. Garay,3
+Dani Parejo,Toni Lato,3
+G. Kondogbia,F. Coquelin,3
+Toni Lato,G. Kondogbia,3
+Jos\u00e9 Gay\u00e1,G. Kondogbia,3
+Dani Parejo,Jos\u00e9 Gay\u00e1,3
+Carlos Soler,Santi Mina,3
+F. Coquelin,Jos\u00e9 Gay\u00e1,3
+Montoya,Dani Parejo,3
+G. Kondogbia,Toni Lato,3
+Jos\u00e9 Gay\u00e1,Santi Mina,2
+Dani Parejo,G. Kondogbia,2
+Neto,Toni Lato,2
+E. Garay,G. Kondogbia,2
+E. Garay,Carlos Soler,2
+Toni Lato,F. Coquelin,2
+Montoya,E. Garay,2
+Santi Mina,G. Kondogbia,2
+Toni Lato,Santi Mina,2
+Dani Parejo,Montoya,2
+F. Coquelin,E. Garay,2
+F. Coquelin,Toni Lato,2
+Montoya,Santi Mina,2
+Santi Mina,Carlos Soler,2
+Rodrigo,Carlos Soler,2
+E. Garay,Montoya,2
+E. Garay,F. Coquelin,2
+Santi Mina,Dani Parejo,2
+Dani Parejo,F. Coquelin,1
+Dani Parejo,Santi Mina,1
+Montoya,G. Kondogbia,1
+Carlos Soler,G. Kondogbia,1
+Santi Mina,E. Garay,1
+Montoya,Carlos Soler,1
+Montoya,Neto,1
+Carlos Soler,E. Garay,1
+Jos\u00e9 Gay\u00e1,Dani Parejo,1
+Santi Mina,Toni Lato,1
+G. Kondogbia,Montoya,1
+F. Coquelin,G. Kondogbia,1
+F. Coquelin,Neto,1
+Jos\u00e9 Gay\u00e1,F. Coquelin,1
+Santi Mina,Jos\u00e9 Gay\u00e1,1
+Jos\u00e9 Gay\u00e1,Rodrigo,1
+E. Garay,Dani Parejo,1
+Dani Parejo,Rodrigo,1
+F. Coquelin,Rodrigo,1
+Rodrigo,Dani Parejo,1
+Carlos Soler,Jos\u00e9 Gay\u00e1,1

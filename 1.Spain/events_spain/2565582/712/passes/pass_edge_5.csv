@@ -1,0 +1,55 @@
+Source,Target,Weight
+Guerrero,Omar Ramos,6
+M. Mantovani,Bustinza,3
+M. Dos Santos,Bustinza,3
+Diego Rico,D. Siovas,3
+Gabriel,D. Siovas,3
+D. Siovas,D. Bra\u0161anac,3
+Gabriel,Guerrero,2
+Bustinza,M. Mantovani,2
+Bustinza,D. Bra\u0161anac,2
+D. Siovas,Gabriel,2
+Omar Ramos,Bustinza,2
+M. Dos Santos,Cu\u00e9llar,2
+Cu\u00e9llar,Gabriel,2
+Jos\u00e9 Naranjo,Gabriel,2
+Gabriel,Diego Rico,2
+Diego Rico,Jos\u00e9 Naranjo,2
+M. Mantovani,M. Dos Santos,2
+D. Siovas,Cu\u00e9llar,2
+Bustinza,Gabriel,2
+Bustinza,M. Dos Santos,1
+D. Siovas,Jos\u00e9 Naranjo,1
+D. Siovas,Bustinza,1
+Jos\u00e9 Naranjo,M. Dos Santos,1
+Omar Ramos,D. Bra\u0161anac,1
+D. Bra\u0161anac,Guerrero,1
+D. Bra\u0161anac,Jos\u00e9 Naranjo,1
+D. Bra\u0161anac,M. Dos Santos,1
+Diego Rico,Guerrero,1
+Jos\u00e9 Naranjo,Omar Ramos,1
+Cu\u00e9llar,Guerrero,1
+Gabriel,Bustinza,1
+Cu\u00e9llar,M. Mantovani,1
+Omar Ramos,Diego Rico,1
+D. Bra\u0161anac,D. Siovas,1
+Bustinza,Guerrero,1
+D. Siovas,Guerrero,1
+D. Siovas,Diego Rico,1
+Gabriel,Jos\u00e9 Naranjo,1
+D. Bra\u0161anac,Cu\u00e9llar,1
+Diego Rico,M. Dos Santos,1
+Bustinza,D. Siovas,1
+M. Dos Santos,D. Siovas,1
+D. Bra\u0161anac,M. Mantovani,1
+M. Dos Santos,Diego Rico,1
+Omar Ramos,M. Mantovani,1
+Omar Ramos,D. Siovas,1
+Omar Ramos,Gabriel,1
+Bustinza,Omar Ramos,1
+Guerrero,M. Dos Santos,1
+Jos\u00e9 Naranjo,Diego Rico,1
+D. Bra\u0161anac,Diego Rico,1
+Gabriel,D. Bra\u0161anac,1
+D. Bra\u0161anac,Gabriel,1
+Cu\u00e9llar,D. Siovas,1

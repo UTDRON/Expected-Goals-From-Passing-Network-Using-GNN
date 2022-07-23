@@ -1,0 +1,62 @@
+Source,Target,Weight
+G\u00e1lvez,L. Chichizola,4
+L. Chichizola,G\u00e1lvez,3
+Ximo Navarro,G\u00e1lvez,3
+A. Aquilani,Momo,3
+Jairo Samperio,Momo,3
+Erik Exp\u00f3sito,A. Aquilani,3
+G\u00e1lvez,Javi Castellano,2
+M. Aguirregaray,A. Aquilani,2
+Erik Exp\u00f3sito,Ximo Navarro,2
+Momo,G\u00e1lvez,2
+Momo,A. Aquilani,2
+Ximo Navarro,Momo,2
+A. Aquilani,A. Halilovi\u0107,2
+A. Halilovi\u0107,A. Aquilani,2
+Javi Castellano,Ximo Navarro,2
+J. Calleri,Jairo Samperio,2
+Javi Castellano,L. Chichizola,2
+Javi Castellano,Jairo Samperio,2
+G\u00e1lvez,A. Halilovi\u0107,2
+L. Chichizola,Javi Castellano,2
+Jairo Samperio,A. Aquilani,1
+A. Halilovi\u0107,Ximo Navarro,1
+Jairo Samperio,Javi Castellano,1
+M. Aguirregaray,Erik Exp\u00f3sito,1
+A. Aquilani,Erik Exp\u00f3sito,1
+Ximo Navarro,Erik Exp\u00f3sito,1
+A. Aquilani,Jairo Samperio,1
+A. Halilovi\u0107,J. Calleri,1
+M. Aguirregaray,Ximo Navarro,1
+Javi Castellano,A. Aquilani,1
+A. Aquilani,G\u00e1lvez,1
+G\u00e1lvez,Ximo Navarro,1
+Momo,J. Calleri,1
+G\u00e1lvez,A. Aquilani,1
+L. Chichizola,J. Calleri,1
+M. Aguirregaray,A. Halilovi\u0107,1
+L. Chichizola,Jairo Samperio,1
+Ximo Navarro,M. Aguirregaray,1
+Jairo Samperio,Erik Exp\u00f3sito,1
+A. Halilovi\u0107,Javi Castellano,1
+Momo,Erik Exp\u00f3sito,1
+G\u00e1lvez,M. Aguirregaray,1
+Javi Castellano,M. Aguirregaray,1
+A. Aquilani,L. Chichizola,1
+Momo,L. Chichizola,1
+Momo,Javi Castellano,1
+A. Halilovi\u0107,M. Aguirregaray,1
+Momo,Jairo Samperio,1
+Jairo Samperio,M. Aguirregaray,1
+A. Aquilani,Ximo Navarro,1
+A. Aquilani,M. Aguirregaray,1
+Ximo Navarro,A. Halilovi\u0107,1
+Ximo Navarro,Javi Castellano,1
+J. Calleri,A. Aquilani,1
+Javi Castellano,Momo,1
+Jairo Samperio,Ximo Navarro,1
+J. Calleri,G\u00e1lvez,1
+Ximo Navarro,Jairo Samperio,1
+A. Aquilani,J. Calleri,1
+L. Chichizola,Ximo Navarro,1
+M. Aguirregaray,Javi Castellano,1

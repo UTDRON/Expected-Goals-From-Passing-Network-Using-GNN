@@ -1,0 +1,69 @@
+Source,Target,Weight
+P. Baysse,F. Ricca,6
+F. Ricca,Z. Kuzmanovi\u0107,6
+P. Baysse,Z. Kuzmanovi\u0107,5
+Z. Kuzmanovi\u0107,Luis Hern\u00e1ndez,5
+Luis Hern\u00e1ndez,R. Rosales,4
+F. Ricca,P. Baysse,4
+D. Rol\u00e1n,F. Ricca,4
+Luis Hern\u00e1ndez,P. Baysse,4
+R. Rosales,Recio,3
+Recio,R. Rosales,3
+F. Ricca,D. Rol\u00e1n,3
+D. Rol\u00e1n,Borja Bast\u00f3n,3
+Adri\u00e1n,P. Baysse,3
+Recio,F. Ricca,3
+Borja Bast\u00f3n,Recio,3
+Recio,P. Baysse,2
+\u00c1lex Mula,Recio,2
+R. Rosales,\u00c1lex Mula,2
+R. Rosales,Adri\u00e1n,2
+\u00c1lex Mula,R. Rosales,2
+Z. Kuzmanovi\u0107,P. Baysse,2
+R. Rosales,Luis Hern\u00e1ndez,2
+R. Rosales,D. Rol\u00e1n,2
+Z. Kuzmanovi\u0107,Recio,2
+Z. Kuzmanovi\u0107,R. Rosales,2
+Z. Kuzmanovi\u0107,F. Ricca,2
+Recio,\u00c1lex Mula,2
+\u00c1lex Mula,F. Ricca,2
+R. Rosales,Z. Kuzmanovi\u0107,2
+Borja Bast\u00f3n,Luis Hern\u00e1ndez,2
+Z. Kuzmanovi\u0107,\u00c1lex Mula,2
+F. Ricca,Adri\u00e1n,2
+P. Baysse,Luis Hern\u00e1ndez,2
+Roberto,D. Rol\u00e1n,1
+Roberto,F. Ricca,1
+Adri\u00e1n,Z. Kuzmanovi\u0107,1
+Recio,Luis Hern\u00e1ndez,1
+P. Baysse,Recio,1
+Luis Hern\u00e1ndez,Z. Kuzmanovi\u0107,1
+F. Ricca,Roberto,1
+D. Rol\u00e1n,R. Rosales,1
+F. Ricca,Recio,1
+R. Rosales,Borja Bast\u00f3n,1
+Adri\u00e1n,R. Rosales,1
+P. Baysse,\u00c1lex Mula,1
+Borja Bast\u00f3n,Adri\u00e1n,1
+Borja Bast\u00f3n,D. Rol\u00e1n,1
+Luis Hern\u00e1ndez,Recio,1
+P. Baysse,Adri\u00e1n,1
+P. Baysse,D. Rol\u00e1n,1
+\u00c1lex Mula,Z. Kuzmanovi\u0107,1
+Roberto,P. Baysse,1
+D. Rol\u00e1n,Adri\u00e1n,1
+Z. Kuzmanovi\u0107,Borja Bast\u00f3n,1
+P. Baysse,Roberto,1
+F. Ricca,Luis Hern\u00e1ndez,1
+D. Rol\u00e1n,P. Baysse,1
+Luis Hern\u00e1ndez,Borja Bast\u00f3n,1
+Luis Hern\u00e1ndez,D. Rol\u00e1n,1
+Luis Hern\u00e1ndez,\u00c1lex Mula,1
+Recio,Borja Bast\u00f3n,1
+Recio,D. Rol\u00e1n,1
+R. Rosales,P. Baysse,1
+Roberto,R. Rosales,1
+Z. Kuzmanovi\u0107,Roberto,1
+Adri\u00e1n,Recio,1
+Adri\u00e1n,Roberto,1
+Recio,Z. Kuzmanovi\u0107,1

@@ -1,0 +1,50 @@
+Source,Target,Weight
+A. Costa,D. Cataldi,4
+G. Di Chiara,M. Coda,4
+F. Lucioni,A. Costa,4
+D. Cataldi,A. Costa,3
+A. Costa,G. Di Chiara,3
+A. Costa,F. Lucioni,3
+L. Venuti,A. Ciciretti,3
+D. Cataldi,A. Ciciretti,3
+M. D'Alessandro,G. Di Chiara,2
+A. Costa,M. D'Alessandro,2
+A. Ciciretti,D. Cataldi,2
+M. Coda,M. D'Alessandro,2
+M. Coda,L. Venuti,2
+F. Lucioni,L. Venuti,2
+A. Ciciretti,L. Del Pinto,2
+L. Venuti,F. Lucioni,2
+D. Cataldi,L. Venuti,2
+A. Ciciretti,L. Venuti,2
+L. Venuti,M. Coda,2
+M. D'Alessandro,A. Ciciretti,1
+D. Cataldi,G. Di Chiara,1
+F. Ceravolo,L. Venuti,1
+M. Coda,A. Ciciretti,1
+L. Venuti,D. Cataldi,1
+M. Coda,F. Ceravolo,1
+G. Di Chiara,A. Costa,1
+D. Cataldi,F. Lucioni,1
+L. Del Pinto,V. Belec,1
+V. Belec,F. Lucioni,1
+D. Cataldi,M. Coda,1
+L. Venuti,V. Belec,1
+V. Belec,A. Costa,1
+F. Ceravolo,F. Lucioni,1
+M. D'Alessandro,A. Costa,1
+F. Ceravolo,D. Cataldi,1
+V. Belec,G. Di Chiara,1
+A. Costa,F. Ceravolo,1
+L. Venuti,A. Costa,1
+F. Lucioni,V. Belec,1
+A. Ciciretti,A. Costa,1
+M. Coda,D. Cataldi,1
+G. Di Chiara,F. Lucioni,1
+L. Del Pinto,F. Lucioni,1
+F. Lucioni,L. Del Pinto,1
+A. Ciciretti,F. Ceravolo,1
+F. Lucioni,D. Cataldi,1
+F. Lucioni,A. Ciciretti,1
+L. Del Pinto,A. Costa,1
+G. Di Chiara,D. Cataldi,1

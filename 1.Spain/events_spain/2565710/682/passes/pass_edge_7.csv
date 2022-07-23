@@ -1,0 +1,24 @@
+Source,Target,Weight
+R. Soriano,Rodri,3
+R. Soriano,Mario,3
+Mario,R. Soriano,2
+Rodri,V\u00edctor Ru\u00edz,2
+Rodri,Trigueros,2
+Mario,Pablo Fornals,1
+V\u00edctor Ru\u00edz,Rodri,1
+Rodri,R. Soriano,1
+Sergio Asenjo,R. Soriano,1
+V\u00edctor Ru\u00edz,\u00c1lvaro Gonz\u00e1lez,1
+Pablo Fornals,R. Soriano,1
+Mario,Dani Raba,1
+Trigueros,Mario,1
+\u00c1lvaro Gonz\u00e1lez,Mario,1
+Trigueros,R. Soriano,1
+Dani Raba,Pablo Fornals,1
+R. Soriano,Sergio Asenjo,1
+Mario,Sergio Asenjo,1
+V\u00edctor Ru\u00edz,A. Rukavina,1
+Pablo Fornals,D. Cheryshev,1
+Sergio Asenjo,Dani Raba,1
+A. Rukavina,Rodri,1
+Dani Raba,V\u00edctor Ru\u00edz,1

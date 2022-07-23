@@ -1,0 +1,47 @@
+Source,Target,Weight
+G. Escalante,Ander Capa,4
+Ander Capa,G. Escalante,3
+Christian Rivera,Arbilla,3
+Arbilla,T. Inui,3
+Ander Capa,Lomb\u00e1n,2
+G. Escalante,Christian Rivera,2
+Arbilla,Ander Capa,2
+M. Dmitrovi\u0107,Kike Garc\u00eda,2
+Lomb\u00e1n,G. Escalante,2
+Paulo Oliveira,Arbilla,2
+T. Inui,Arbilla,2
+Kike Garc\u00eda,Jos\u00e9 \u00c1ngel,2
+Joan Jord\u00e1n,T. Inui,2
+Ander Capa,Joan Jord\u00e1n,2
+Christian Rivera,Ander Capa,2
+Arbilla,Joan Jord\u00e1n,2
+Jos\u00e9 \u00c1ngel,Paulo Oliveira,1
+M. Dmitrovi\u0107,Christian Rivera,1
+Ander Capa,Christian Rivera,1
+Lomb\u00e1n,Ander Capa,1
+Jos\u00e9 \u00c1ngel,Joan Jord\u00e1n,1
+Kike Garc\u00eda,Paulo Oliveira,1
+T. Inui,Ander Capa,1
+Paulo Oliveira,M. Dmitrovi\u0107,1
+Arbilla,Jos\u00e9 \u00c1ngel,1
+Ander Capa,Kike Garc\u00eda,1
+Christian Rivera,G. Escalante,1
+G. Escalante,Joan Jord\u00e1n,1
+Paulo Oliveira,Lomb\u00e1n,1
+Paulo Oliveira,Christian Rivera,1
+Joan Jord\u00e1n,G. Escalante,1
+Joan Jord\u00e1n,Arbilla,1
+Jos\u00e9 \u00c1ngel,Christian Rivera,1
+Arbilla,Lomb\u00e1n,1
+Jos\u00e9 \u00c1ngel,T. Inui,1
+Ander Capa,Paulo Oliveira,1
+Lomb\u00e1n,Christian Rivera,1
+T. Inui,G. Escalante,1
+G. Escalante,M. Dmitrovi\u0107,1
+T. Inui,Lomb\u00e1n,1
+T. Inui,Kike Garc\u00eda,1
+Joan Jord\u00e1n,Jos\u00e9 \u00c1ngel,1
+Joan Jord\u00e1n,Paulo Oliveira,1
+Christian Rivera,Joan Jord\u00e1n,1
+Lomb\u00e1n,Arbilla,1
+Joan Jord\u00e1n,M. Dmitrovi\u0107,1

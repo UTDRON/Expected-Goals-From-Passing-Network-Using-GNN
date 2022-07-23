@@ -1,0 +1,65 @@
+Source,Target,Weight
+Djen\u00e9,D. Su\u00e1rez,4
+D. Su\u00e1rez,Guaita,3
+Markel Bergara,D. Su\u00e1rez,3
+M. Arambarri,Djen\u00e9,3
+Jorge Molina,A. Ndiaye,3
+Guaita,Jorge Molina,3
+F. Fajr,Markel Bergara,3
+D. Su\u00e1rez,F. Fajr,3
+A. Ndiaye,F. Fajr,3
+Antunes,M. Arambarri,3
+F. Fajr,D. Su\u00e1rez,3
+D. Su\u00e1rez,Djen\u00e9,2
+M. Arambarri,D. Su\u00e1rez,2
+Guaita,Antunes,2
+Juan Cala,M. Arambarri,2
+M. Arambarri,Juan Cala,2
+Juan Cala,Antunes,2
+M. Arambarri,Jorge Molina,2
+M. Arambarri,F. Fajr,2
+Djen\u00e9,Juan Cala,2
+F. Fajr,M. Arambarri,2
+Juan Cala,Guaita,2
+F. Fajr,Antunes,2
+Markel Bergara,M. Arambarri,1
+F. Fajr,A. Ndiaye,1
+Portillo,A. Ndiaye,1
+D. Su\u00e1rez,M. Arambarri,1
+Markel Bergara,F. Fajr,1
+Juan Cala,D. Su\u00e1rez,1
+A. Ndiaye,Antunes,1
+D. Su\u00e1rez,Juan Cala,1
+Antunes,A. Ndiaye,1
+Jorge Molina,F. Fajr,1
+D. Su\u00e1rez,Markel Bergara,1
+Antunes,Jorge Molina,1
+Portillo,Djen\u00e9,1
+A. Ndiaye,Jorge Molina,1
+Jorge Molina,M. Arambarri,1
+Antunes,Juan Cala,1
+D. Su\u00e1rez,A. Ndiaye,1
+Djen\u00e9,Guaita,1
+Jorge Molina,Portillo,1
+F. Fajr,Portillo,1
+Portillo,Markel Bergara,1
+M. Arambarri,Portillo,1
+Juan Cala,F. Fajr,1
+Djen\u00e9,A. Ndiaye,1
+F. Fajr,Djen\u00e9,1
+Djen\u00e9,F. Fajr,1
+Juan Cala,Djen\u00e9,1
+A. Ndiaye,Portillo,1
+Guaita,Juan Cala,1
+A. Ndiaye,M. Arambarri,1
+Antunes,Djen\u00e9,1
+A. Ndiaye,Juan Cala,1
+Jorge Molina,Antunes,1
+Portillo,F. Fajr,1
+F. Fajr,Juan Cala,1
+Markel Bergara,Guaita,1
+Jorge Molina,Djen\u00e9,1
+Antunes,Markel Bergara,1
+Djen\u00e9,Markel Bergara,1
+Guaita,M. Arambarri,1
+D. Su\u00e1rez,Jorge Molina,1

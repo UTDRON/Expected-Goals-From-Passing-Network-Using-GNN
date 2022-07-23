@@ -1,0 +1,14 @@
+Source,Target,Weight
+M. Vecino,D. D'Ambrosio,2
+M. Brozovi\u0107,M. Vecino,1
+M. Brozovi\u0107,A. Candreva,1
+D. Santon,M. Vecino,1
+I. Peri\u0161i\u0107,Borja Valero,1
+Borja Valero,M. Vecino,1
+A. Candreva,M. Vecino,1
+A. Candreva,M. Brozovi\u0107,1
+D. D'Ambrosio,A. Candreva,1
+D. D'Ambrosio,M. \u0160kriniar,1
+M. Vecino,D. Santon,1
+M. \u0160kriniar,D. D'Ambrosio,1
+D. D'Ambrosio,M. Brozovi\u0107,1

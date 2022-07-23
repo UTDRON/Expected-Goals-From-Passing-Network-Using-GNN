@@ -1,0 +1,26 @@
+Source,Target,Weight
+L. Pellegrini,P. Schick,3
+K. Strootman,Juan Jesus,2
+L. Pellegrini,K. Strootman,2
+Juan Jesus,L. Pellegrini,2
+P. Schick,L. Pellegrini,2
+Emerson,K. Strootman,2
+K. Strootman,Emerson,1
+E. D\u017eeko,L. Pellegrini,1
+A. Florenzi,K. Manolas,1
+Gerson,Emerson,1
+K. Strootman,A. Florenzi,1
+E. D\u017eeko,S. El Shaarawy,1
+Emerson,Gerson,1
+P. Schick,Gerson,1
+Gerson,E. D\u017eeko,1
+K. Manolas,Juan Jesus,1
+L. Pellegrini,Juan Jesus,1
+Gerson,L. Pellegrini,1
+Juan Jesus,K. Manolas,1
+Gerson,K. Strootman,1
+L. Pellegrini,Emerson,1
+K. Manolas,L. Pellegrini,1
+K. Strootman,Gerson,1
+Juan Jesus,Gerson,1
+K. Strootman,E. D\u017eeko,1

@@ -1,0 +1,50 @@
+Source,Target,Weight
+G. Kondogbia,Toni Lato,4
+E. Garay,Gabriel,4
+Gabriel,G. Kondogbia,3
+G. Kondogbia,Gabriel,3
+Gabriel,E. Garay,3
+Gabriel,Dani Parejo,3
+Montoya,E. Garay,2
+Toni Lato,Rodrigo,2
+E. Garay,Montoya,2
+Gon\u00e7alo Guedes,Dani Parejo,2
+Dani Parejo,G. Kondogbia,2
+Andreas Pereira,S. Zaza,2
+Dani Parejo,Gabriel,2
+Dani Parejo,Rodrigo,2
+Toni Lato,G. Kondogbia,2
+Gabriel,Toni Lato,2
+Andreas Pereira,Gon\u00e7alo Guedes,2
+Montoya,Dani Parejo,2
+S. Zaza,Andreas Pereira,1
+G. Kondogbia,Montoya,1
+Rodrigo,Andreas Pereira,1
+Rodrigo,Gabriel,1
+Dani Parejo,E. Garay,1
+Toni Lato,Andreas Pereira,1
+S. Zaza,Montoya,1
+Andreas Pereira,E. Garay,1
+Gabriel,Gon\u00e7alo Guedes,1
+E. Garay,Dani Parejo,1
+S. Zaza,Gabriel,1
+Dani Parejo,Andreas Pereira,1
+Toni Lato,S. Zaza,1
+Gon\u00e7alo Guedes,Neto,1
+Montoya,Andreas Pereira,1
+Dani Parejo,Montoya,1
+Gabriel,S. Zaza,1
+Toni Lato,Dani Parejo,1
+G. Kondogbia,Andreas Pereira,1
+Montoya,Gabriel,1
+Montoya,G. Kondogbia,1
+Rodrigo,G. Kondogbia,1
+Toni Lato,Gabriel,1
+Montoya,S. Zaza,1
+Rodrigo,Montoya,1
+Neto,Gabriel,1
+Dani Parejo,Toni Lato,1
+S. Zaza,E. Garay,1
+Gabriel,Montoya,1
+E. Garay,Toni Lato,1
+Andreas Pereira,Montoya,1

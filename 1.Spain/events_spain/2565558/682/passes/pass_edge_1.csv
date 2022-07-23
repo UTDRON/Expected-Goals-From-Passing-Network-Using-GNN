@@ -1,0 +1,74 @@
+Source,Target,Weight
+A. N'Diaye,Trigueros,6
+Trigueros,A. N'Diaye,6
+\u00c1lvaro Gonz\u00e1lez,Samu Castillejo,5
+A. N'Diaye,Rodri,5
+Trigueros,Samu Castillejo,5
+Samu Castillejo,\u00c1lvaro Gonz\u00e1lez,4
+Trigueros,\u00c1lvaro Gonz\u00e1lez,4
+\u00c1lvaro Gonz\u00e1lez,Trigueros,4
+Samu Castillejo,A. N'Diaye,3
+C. Bakambu,Jaume Costa,3
+R\u00faben Semedo,Trigueros,3
+R\u00faben Semedo,Andr\u00e9s Fern\u00e1ndez,3
+Trigueros,R\u00faben Semedo,3
+Jaume Costa,A. N'Diaye,3
+Samu Castillejo,Trigueros,3
+Pablo Fornals,Trigueros,3
+\u00c1lvaro Gonz\u00e1lez,A. N'Diaye,2
+Rodri,A. N'Diaye,2
+Jaume Costa,C. Bacca,2
+C. Bakambu,\u00c1lvaro Gonz\u00e1lez,2
+\u00c1lvaro Gonz\u00e1lez,C. Bacca,2
+Rodri,Trigueros,2
+R\u00faben Semedo,A. N'Diaye,2
+Jaume Costa,Rodri,2
+Pablo Fornals,Rodri,2
+A. N'Diaye,\u00c1lvaro Gonz\u00e1lez,2
+A. N'Diaye,Pablo Fornals,2
+C. Bacca,Trigueros,2
+Rodri,C. Bacca,2
+Rodri,Pablo Fornals,2
+Trigueros,Jaume Costa,2
+Andr\u00e9s Fern\u00e1ndez,Samu Castillejo,2
+A. N'Diaye,R\u00faben Semedo,2
+Andr\u00e9s Fern\u00e1ndez,Trigueros,1
+Samu Castillejo,R\u00faben Semedo,1
+\u00c1lvaro Gonz\u00e1lez,C. Bakambu,1
+Rodri,Samu Castillejo,1
+Andr\u00e9s Fern\u00e1ndez,A. N'Diaye,1
+\u00c1lvaro Gonz\u00e1lez,Pablo Fornals,1
+Rodri,R\u00faben Semedo,1
+Trigueros,Rodri,1
+Samu Castillejo,Jaume Costa,1
+A. N'Diaye,C. Bakambu,1
+C. Bacca,R\u00faben Semedo,1
+Trigueros,C. Bakambu,1
+Pablo Fornals,Samu Castillejo,1
+R\u00faben Semedo,\u00c1lvaro Gonz\u00e1lez,1
+Rodri,Jaume Costa,1
+Samu Castillejo,C. Bacca,1
+Jaume Costa,Pablo Fornals,1
+C. Bacca,\u00c1lvaro Gonz\u00e1lez,1
+Rodri,\u00c1lvaro Gonz\u00e1lez,1
+Samu Castillejo,Pablo Fornals,1
+\u00c1lvaro Gonz\u00e1lez,R\u00faben Semedo,1
+C. Bacca,A. N'Diaye,1
+C. Bakambu,Rodri,1
+Jaume Costa,Trigueros,1
+A. N'Diaye,Andr\u00e9s Fern\u00e1ndez,1
+Jaume Costa,\u00c1lvaro Gonz\u00e1lez,1
+Trigueros,C. Bacca,1
+C. Bacca,Pablo Fornals,1
+Samu Castillejo,Rodri,1
+Pablo Fornals,C. Bakambu,1
+Andr\u00e9s Fern\u00e1ndez,Jaume Costa,1
+Trigueros,Andr\u00e9s Fern\u00e1ndez,1
+Pablo Fornals,A. N'Diaye,1
+Samu Castillejo,C. Bakambu,1
+C. Bakambu,Pablo Fornals,1
+A. N'Diaye,Jaume Costa,1
+C. Bacca,Samu Castillejo,1
+C. Bacca,C. Bakambu,1
+A. N'Diaye,Samu Castillejo,1
+Pablo Fornals,Jaume Costa,1

@@ -1,0 +1,43 @@
+Source,Target,Weight
+F. Acerbi,E. Goldaniga,3
+A. Consigli,L. Mazzitelli,2
+Pol Lirola,D. Berardi,2
+L. Mazzitelli,F. Acerbi,2
+E. Goldaniga,A. Consigli,2
+D. Berardi,Rog\u00e9rio,1
+F. Peluso,S. Sensi,1
+Rog\u00e9rio,S. Sensi,1
+S. Sensi,S. Missiroli,1
+E. Goldaniga,S. Sensi,1
+S. Missiroli,Pol Lirola,1
+F. Peluso,A. Consigli,1
+M. Politano,F. Acerbi,1
+A. Consigli,F. Peluso,1
+Pol Lirola,E. Goldaniga,1
+S. Sensi,F. Peluso,1
+S. Missiroli,M. Politano,1
+D. Berardi,S. Missiroli,1
+S. Sensi,Rog\u00e9rio,1
+M. Politano,S. Sensi,1
+E. Goldaniga,L. Mazzitelli,1
+S. Sensi,D. Berardi,1
+Rog\u00e9rio,Pol Lirola,1
+S. Missiroli,D. Berardi,1
+Rog\u00e9rio,S. Missiroli,1
+S. Sensi,M. Politano,1
+Rog\u00e9rio,A. Consigli,1
+E. Goldaniga,Rog\u00e9rio,1
+L. Mazzitelli,A. Consigli,1
+A. Consigli,S. Sensi,1
+M. Politano,Rog\u00e9rio,1
+S. Sensi,L. Mazzitelli,1
+S. Missiroli,S. Sensi,1
+Pol Lirola,A. Consigli,1
+F. Acerbi,M. Politano,1
+Rog\u00e9rio,F. Peluso,1
+F. Acerbi,Rog\u00e9rio,1
+A. Consigli,Pol Lirola,1
+D. Berardi,F. Acerbi,1
+L. Mazzitelli,Pol Lirola,1
+F. Peluso,F. Acerbi,1
+A. Consigli,S. Missiroli,1

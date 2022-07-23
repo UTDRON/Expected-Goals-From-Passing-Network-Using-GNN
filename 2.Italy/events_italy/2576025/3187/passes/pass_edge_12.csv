@@ -1,0 +1,15 @@
+Source,Target,Weight
+F. Ghoulam,L. Insigne,3
+Albiol,E. Hysaj,2
+L. Insigne,M. Ham\u0161\u00edk,2
+M. Ham\u0161\u00edk,Albiol,1
+Albiol,Pepe Reina,1
+Pepe Reina,K. Koulibaly,1
+M. Ham\u0161\u00edk,F. Ghoulam,1
+K. Koulibaly,Albiol,1
+Pepe Reina,F. Ghoulam,1
+K. Koulibaly,F. Ghoulam,1
+E. Hysaj,Allan,1
+E. Hysaj,Pepe Reina,1
+Allan,E. Hysaj,1
+E. Hysaj,Albiol,1

@@ -1,0 +1,20 @@
+Source,Target,Weight
+G. Lapadula,A. Taarabt,2
+A. Taarabt,G. Lapadula,2
+A. Rosi,L. Rigoni,1
+L. Rigoni,A. Taarabt,1
+L. Rossettini,A. Taarabt,1
+A. Rosi,S. Omeonga,1
+A. Taarabt,L. Rigoni,1
+L. Rigoni,L. Rossettini,1
+G. Lapadula,L. Rossettini,1
+L. Rossettini,A. Rosi,1
+A. Taarabt,A. Izzo,1
+A. Izzo,L. Rossettini,1
+S. Omeonga,A. Rosi,1
+A. Taarabt,A. Bertolacci,1
+L. Rigoni,S. Omeonga,1
+L. Rossettini,M. Perin,1
+S. Omeonga,A. Taarabt,1
+A. Bertolacci,L. Rossettini,1
+M. Perin,G. Lapadula,1

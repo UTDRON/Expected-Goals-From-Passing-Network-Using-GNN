@@ -1,0 +1,23 @@
+Source,Target,Weight
+E. Mu\u00f1oz,Gabriel,2
+Gabriel,D. Siovas,1
+Eraso,N. El Zhar,1
+N. Amrabat,Gabriel,1
+Diego Rico,Rub\u00e9n P\u00e9rez,1
+Gabriel,N. Amrabat,1
+Zald\u00faa,Diego Rico,1
+Zald\u00faa,E. Mu\u00f1oz,1
+D. Siovas,Gabriel,1
+Rub\u00e9n P\u00e9rez,N. Amrabat,1
+N. El Zhar,E. Mu\u00f1oz,1
+Gabriel,Eraso,1
+Gabriel,Rub\u00e9n P\u00e9rez,1
+N. Amrabat,A. Szymanowski,1
+Rub\u00e9n P\u00e9rez,Zald\u00faa,1
+Eraso,Zald\u00faa,1
+Eraso,Rub\u00e9n P\u00e9rez,1
+N. El Zhar,Eraso,1
+Zald\u00faa,N. El Zhar,1
+Diego Rico,Eraso,1
+Rub\u00e9n P\u00e9rez,Diego Rico,1
+N. El Zhar,Zald\u00faa,1

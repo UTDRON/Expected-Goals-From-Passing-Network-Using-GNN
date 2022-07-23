@@ -1,0 +1,42 @@
+Source,Target,Weight
+D. Rol\u00e1n,Jony,5
+Z. Kuzmanovi\u0107,Miguel Cifuentes,4
+Miguel Cifuentes,Z. Kuzmanovi\u0107,4
+Recio,D. Rol\u00e1n,3
+\u00c1lex Mula,Miguel Cifuentes,3
+Jony,F. Ricca,3
+F. Ricca,Diego Gonz\u00e1lez,3
+Jony,D. Rol\u00e1n,3
+F. Ricca,Recio,2
+Miguel Cifuentes,D. Rol\u00e1n,2
+F. Ricca,Jony,2
+E. Rol\u00f3n,D. Rol\u00e1n,2
+Z. Kuzmanovi\u0107,\u00c1lex Mula,2
+\u00c1lex Mula,E. Rol\u00f3n,2
+Diego Gonz\u00e1lez,E. Rol\u00f3n,2
+Miguel Cifuentes,\u00c1lex Mula,2
+Miguel Cifuentes,Recio,2
+D. Rol\u00e1n,Miguel Cifuentes,2
+D. Rol\u00e1n,Z. Kuzmanovi\u0107,2
+Recio,F. Ricca,2
+Luis Hern\u00e1ndez,F. Ricca,2
+D. Rol\u00e1n,Luis Hern\u00e1ndez,1
+Z. Kuzmanovi\u0107,Recio,1
+Luis Hern\u00e1ndez,Recio,1
+Diego Gonz\u00e1lez,Miguel Cifuentes,1
+Diego Gonz\u00e1lez,Jony,1
+Z. Kuzmanovi\u0107,Luis Hern\u00e1ndez,1
+E. Rol\u00f3n,Recio,1
+Recio,Z. Kuzmanovi\u0107,1
+E. Rol\u00f3n,Miguel Cifuentes,1
+Miguel Cifuentes,Luis Hern\u00e1ndez,1
+Luis Hern\u00e1ndez,Miguel Cifuentes,1
+Miguel Cifuentes,Diego Gonz\u00e1lez,1
+\u00c1lex Mula,Z. Kuzmanovi\u0107,1
+Jony,E. Rol\u00f3n,1
+Recio,\u00c1lex Mula,1
+F. Ricca,\u00c1lex Mula,1
+Jony,Roberto,1
+E. Rol\u00f3n,Luis Hern\u00e1ndez,1
+Diego Gonz\u00e1lez,F. Ricca,1
+Roberto,D. Rol\u00e1n,1

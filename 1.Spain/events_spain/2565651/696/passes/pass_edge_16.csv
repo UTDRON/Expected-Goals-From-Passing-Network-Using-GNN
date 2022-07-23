@@ -1,0 +1,29 @@
+Source,Target,Weight
+Alexis,Munir,4
+M. Wakaso,Adri\u00e1n Di\u00e9guez,3
+M. Wakaso,Bojan,2
+Munir,M. Wakaso,2
+Adri\u00e1n Di\u00e9guez,M. Wakaso,2
+Bojan,M. Wakaso,2
+Manu Garc\u00eda,Adri\u00e1n Di\u00e9guez,2
+Manu Garc\u00eda,M. Wakaso,2
+G. Marip\u00e1n,Medr\u00e1n,1
+Munir,Manu Garc\u00eda,1
+Rodrigo Ely,Manu Garc\u00eda,1
+Bojan,Adri\u00e1n Di\u00e9guez,1
+Adri\u00e1n Di\u00e9guez,Bojan,1
+Alfonso Pedraza,M. Wakaso,1
+Adri\u00e1n Di\u00e9guez,Alfonso Pedraza,1
+Alfonso Pedraza,Bojan,1
+M. Wakaso,Rodrigo Ely,1
+Adri\u00e1n Di\u00e9guez,Manu Garc\u00eda,1
+M. Wakaso,G. Marip\u00e1n,1
+M. Wakaso,Munir,1
+G. Marip\u00e1n,Alexis,1
+M. Wakaso,Medr\u00e1n,1
+Medr\u00e1n,Manu Garc\u00eda,1
+Munir,Alexis,1
+Bojan,Alexis,1
+Munir,Medr\u00e1n,1
+Adri\u00e1n Di\u00e9guez,Alexis,1
+Medr\u00e1n,G. Marip\u00e1n,1

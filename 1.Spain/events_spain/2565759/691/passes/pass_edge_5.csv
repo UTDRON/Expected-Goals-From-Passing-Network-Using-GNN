@@ -1,0 +1,74 @@
+Source,Target,Weight
+Sergi Darder,Marc Navarro,6
+Marc Navarro,Gerard Moreno,5
+Aar\u00f3n,Gerard Moreno,4
+Marc Navarro,Sergi Darder,4
+L\u00e9o Baptist\u00e3o,Gerard Moreno,4
+Gerard Moreno,Aar\u00f3n,3
+Granero,Gerard Moreno,3
+Gerard Moreno,L\u00e9o Baptist\u00e3o,3
+Gerard Moreno,V\u00edctor S\u00e1nchez,3
+Sergi Darder,Aar\u00f3n,3
+V\u00edctor S\u00e1nchez,L\u00e9o Baptist\u00e3o,3
+L\u00e9o Baptist\u00e3o,Sergi Darder,3
+Jurado,Gerard Moreno,3
+Diego L\u00f3pez,Marc Navarro,3
+Naldo,Granero,3
+Marc Navarro,L\u00e9o Baptist\u00e3o,3
+V\u00edctor S\u00e1nchez,Marc Navarro,3
+Marc Navarro,David L\u00f3pez,3
+Gerard Moreno,Granero,3
+Gerard Moreno,Marc Navarro,3
+David L\u00f3pez,Sergi Darder,3
+Granero,Sergi Darder,2
+Granero,Marc Navarro,2
+Jurado,Marc Navarro,2
+Marc Navarro,Jurado,2
+Jurado,V\u00edctor S\u00e1nchez,2
+Sergi Darder,Jurado,2
+Granero,V\u00edctor S\u00e1nchez,2
+Sergi Darder,L\u00e9o Baptist\u00e3o,2
+Granero,Jurado,2
+David L\u00f3pez,Jurado,2
+L\u00e9o Baptist\u00e3o,Granero,2
+Gerard Moreno,Sergi Darder,2
+L\u00e9o Baptist\u00e3o,V\u00edctor S\u00e1nchez,2
+V\u00edctor S\u00e1nchez,David L\u00f3pez,2
+Marc Navarro,Aar\u00f3n,2
+Aar\u00f3n,Granero,2
+Jurado,Aar\u00f3n,1
+Jurado,Granero,1
+Aar\u00f3n,V\u00edctor S\u00e1nchez,1
+Sergi Darder,Gerard Moreno,1
+David L\u00f3pez,Aar\u00f3n,1
+Gerard Moreno,Naldo,1
+Diego L\u00f3pez,David L\u00f3pez,1
+David L\u00f3pez,Gerard Moreno,1
+Gerard Moreno,David L\u00f3pez,1
+V\u00edctor S\u00e1nchez,Diego L\u00f3pez,1
+Jurado,Sergi Darder,1
+Diego L\u00f3pez,Gerard Moreno,1
+Marc Navarro,Naldo,1
+Aar\u00f3n,L\u00e9o Baptist\u00e3o,1
+V\u00edctor S\u00e1nchez,Sergi Darder,1
+Naldo,Diego L\u00f3pez,1
+Granero,Naldo,1
+Naldo,L\u00e9o Baptist\u00e3o,1
+Sergio Garc\u00eda,Marc Navarro,1
+Sergi Darder,Naldo,1
+V\u00edctor S\u00e1nchez,Sergio Garc\u00eda,1
+L\u00e9o Baptist\u00e3o,Diego L\u00f3pez,1
+Aar\u00f3n,Naldo,1
+Marc Navarro,Diego L\u00f3pez,1
+Sergi Darder,V\u00edctor S\u00e1nchez,1
+Granero,Aar\u00f3n,1
+Gerard Moreno,Jurado,1
+Jurado,L\u00e9o Baptist\u00e3o,1
+V\u00edctor S\u00e1nchez,Granero,1
+Aar\u00f3n,Sergi Darder,1
+Aar\u00f3n,Jurado,1
+Marc Navarro,V\u00edctor S\u00e1nchez,1
+L\u00e9o Baptist\u00e3o,Jurado,1
+Gerard Moreno,Diego L\u00f3pez,1
+Sergi Darder,Granero,1
+L\u00e9o Baptist\u00e3o,Marc Navarro,1

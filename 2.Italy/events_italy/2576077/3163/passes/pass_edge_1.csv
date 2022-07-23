@@ -1,0 +1,32 @@
+Source,Target,Weight
+Danilo,Samir,3
+Samir,G. Pezzella,2
+B. Nuytinck,J. Stryger Larsen,2
+Maxi L\u00f3pez,E. Hallfre\u00f0sson,2
+E. Hallfre\u00f0sson,Danilo,2
+S. Perica,Maxi L\u00f3pez,2
+A. Bizzarri,B. Nuytinck,1
+Danilo,A. Bizzarri,1
+Danilo,B. Nuytinck,1
+B. Nuytinck,E. Hallfre\u00f0sson,1
+Samir,S. Perica,1
+Maxi L\u00f3pez,S. Fofana,1
+E. Hallfre\u00f0sson,B. Nuytinck,1
+G. Pezzella,S. Perica,1
+J. Stryger Larsen,B. Nuytinck,1
+B. Nuytinck,Samir,1
+G. Pezzella,A. Bar\u00e1k,1
+Samir,E. Hallfre\u00f0sson,1
+E. Hallfre\u00f0sson,Samir,1
+J. Stryger Larsen,S. Perica,1
+S. Perica,Danilo,1
+S. Perica,G. Pezzella,1
+A. Bar\u00e1k,Samir,1
+Samir,Danilo,1
+A. Bar\u00e1k,S. Perica,1
+Maxi L\u00f3pez,B. Nuytinck,1
+E. Hallfre\u00f0sson,Maxi L\u00f3pez,1
+Samir,A. Bar\u00e1k,1
+B. Nuytinck,S. Fofana,1
+G. Pezzella,Danilo,1
+S. Fofana,E. Hallfre\u00f0sson,1

@@ -1,0 +1,52 @@
+Source,Target,Weight
+Fernando Pacheco,C. Santos,5
+Alexis,Fernando Pacheco,4
+Rub\u00e9n Sobrino,Alexis,4
+Alexis,Rodrigo Ely,4
+Rodrigo Ely,Alexis,4
+C. Santos,Rub\u00e9n Sobrino,4
+Alexis,Carlos Vigaray,3
+C. Santos,Ibai G\u00f3mez,3
+M. Wakaso,Carlos Vigaray,3
+Carlos Vigaray,M. Wakaso,3
+Rub\u00e9n Sobrino,M. Wakaso,3
+Fernando Pacheco,Rodrigo Ely,3
+Rub\u00e9n Sobrino,Burgui,2
+Rodrigo Ely,Rub\u00e9n Sobrino,2
+Rodrigo Ely,Fernando Pacheco,2
+Manu Garc\u00eda,Alexis,2
+C. Santos,Carlos Vigaray,2
+Ibai G\u00f3mez,Alfonso Pedraza,2
+C. Santos,Rodrigo Ely,2
+C. Santos,M. Wakaso,2
+Carlos Vigaray,Rub\u00e9n Sobrino,2
+M. Wakaso,Burgui,2
+Rodrigo Ely,C. Santos,2
+Alfonso Pedraza,C. Santos,2
+Ibai G\u00f3mez,M. Wakaso,1
+M. Wakaso,Manu Garc\u00eda,1
+Carlos Vigaray,Fernando Pacheco,1
+Alexis,C. Santos,1
+M. Wakaso,Fernando Pacheco,1
+Carlos Vigaray,C. Santos,1
+Carlos Vigaray,Alexis,1
+Rodrigo Ely,Carlos Vigaray,1
+Rodrigo Ely,M. Wakaso,1
+Alfonso Pedraza,Alexis,1
+Carlos Vigaray,Manu Garc\u00eda,1
+M. Wakaso,Rub\u00e9n Sobrino,1
+Burgui,Carlos Vigaray,1
+Alfonso Pedraza,Rodrigo Ely,1
+Rub\u00e9n Sobrino,Carlos Vigaray,1
+M. Wakaso,Alfonso Pedraza,1
+Burgui,C. Santos,1
+Fernando Pacheco,Alexis,1
+Burgui,Rub\u00e9n Sobrino,1
+Rodrigo Ely,Alfonso Pedraza,1
+Carlos Vigaray,Rodrigo Ely,1
+Alexis,Manu Garc\u00eda,1
+Burgui,Rodrigo Ely,1
+Manu Garc\u00eda,Rodrigo Ely,1
+Carlos Vigaray,Alfonso Pedraza,1
+M. Wakaso,C. Santos,1
+Alfonso Pedraza,Fernando Pacheco,1

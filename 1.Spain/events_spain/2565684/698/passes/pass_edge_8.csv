@@ -1,0 +1,15 @@
+Source,Target,Weight
+Jorge Molina,\u00c1ngel,3
+\u00c1ngel,Molinero,2
+Molinero,Jorge Molina,2
+Portillo,Molinero,1
+Markel Bergara,Djen\u00e9,1
+Portillo,Markel Bergara,1
+D. Su\u00e1rez,Jorge Molina,1
+A. Ndiaye,\u00c1ngel,1
+Djen\u00e9,D. Su\u00e1rez,1
+Guaita,Portillo,1
+Markel Bergara,Molinero,1
+Molinero,Guaita,1
+Molinero,Portillo,1
+\u00c1ngel,Markel Bergara,1

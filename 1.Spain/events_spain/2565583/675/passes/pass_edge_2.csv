@@ -1,0 +1,64 @@
+Source,Target,Weight
+Sergio Ramos,T. Hern\u00e1ndez,7
+Marco Asensio,L. Modri\u0107,5
+T. Hern\u00e1ndez,Marco Asensio,4
+T. Hern\u00e1ndez,Sergio Ramos,4
+Daniel Carvajal,L. Modri\u0107,4
+T. Hern\u00e1ndez,Casemiro,4
+R. Varane,Daniel Carvajal,4
+R. Varane,Sergio Ramos,4
+Isco,Sergio Ramos,4
+Sergio Ramos,Isco,4
+L. Modri\u0107,Marco Asensio,4
+L. Modri\u0107,Daniel Carvajal,3
+L. Modri\u0107,Isco,3
+Sergio Ramos,L. Modri\u0107,3
+Daniel Carvajal,G. Bale,3
+Daniel Carvajal,R. Varane,3
+Marco Asensio,T. Hern\u00e1ndez,3
+L. Modri\u0107,Sergio Ramos,3
+Marco Asensio,Isco,2
+Casemiro,Sergio Ramos,2
+Casemiro,R. Varane,2
+Isco,Marco Asensio,2
+T. Hern\u00e1ndez,Isco,2
+Sergio Ramos,Marco Asensio,2
+Marco Asensio,Casemiro,2
+G. Bale,Daniel Carvajal,2
+Isco,Daniel Carvajal,2
+Isco,L. Modri\u0107,2
+Sergio Ramos,Borja Mayoral,2
+Daniel Carvajal,Isco,2
+Casemiro,T. Hern\u00e1ndez,2
+Borja Mayoral,L. Modri\u0107,2
+L. Modri\u0107,Casemiro,2
+Daniel Carvajal,Sergio Ramos,2
+Casemiro,Daniel Carvajal,2
+R. Varane,L. Modri\u0107,1
+Sergio Ramos,Casemiro,1
+Isco,Borja Mayoral,1
+G. Bale,Marco Asensio,1
+Isco,T. Hern\u00e1ndez,1
+T. Hern\u00e1ndez,Borja Mayoral,1
+L. Modri\u0107,R. Varane,1
+Borja Mayoral,Marco Asensio,1
+Borja Mayoral,Casemiro,1
+Marco Asensio,Borja Mayoral,1
+R. Varane,T. Hern\u00e1ndez,1
+Marco Asensio,R. Varane,1
+Borja Mayoral,Daniel Carvajal,1
+Marco Asensio,Daniel Carvajal,1
+Casemiro,L. Modri\u0107,1
+K. Navas,R. Varane,1
+Daniel Carvajal,Marco Asensio,1
+Sergio Ramos,K. Navas,1
+L. Modri\u0107,T. Hern\u00e1ndez,1
+L. Modri\u0107,G. Bale,1
+G. Bale,R. Varane,1
+Borja Mayoral,T. Hern\u00e1ndez,1
+Casemiro,Borja Mayoral,1
+Isco,G. Bale,1
+G. Bale,Sergio Ramos,1
+T. Hern\u00e1ndez,R. Varane,1
+Casemiro,Isco,1
+Isco,Casemiro,1

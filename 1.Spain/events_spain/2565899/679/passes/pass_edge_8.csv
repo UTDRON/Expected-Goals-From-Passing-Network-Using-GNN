@@ -1,0 +1,33 @@
+Source,Target,Weight
+K. Gameiro,Thomas,3
+\u0160. Vrsaljko,Thomas,2
+Thomas,\u0160. Vrsaljko,2
+S. Savi\u0107,J. Oblak,2
+Thomas,Sa\u00fal,2
+S. Savi\u0107,A. San\u00e9,1
+A. San\u00e9,Sa\u00fal,1
+Sa\u00fal,K. Gameiro,1
+\u0160. Vrsaljko,Sa\u00fal,1
+Sa\u00fal,Gabi,1
+S. Savi\u0107,Gabi,1
+J. Gim\u00e9nez,J. Oblak,1
+Fernando Torres,S. Savi\u0107,1
+J. Gim\u00e9nez,Gabi,1
+Gabi,S. Savi\u0107,1
+Thomas,J. Gim\u00e9nez,1
+A. San\u00e9,J. Gim\u00e9nez,1
+J. Oblak,S. Savi\u0107,1
+K. Gameiro,S. Savi\u0107,1
+Gabi,Thomas,1
+\u0160. Vrsaljko,K. Gameiro,1
+J. Oblak,J. Gim\u00e9nez,1
+Gabi,A. San\u00e9,1
+K. Gameiro,\u0160. Vrsaljko,1
+Sa\u00fal,L. Hern\u00e1ndez,1
+S. Savi\u0107,K. Gameiro,1
+J. Oblak,Thomas,1
+L. Hern\u00e1ndez,J. Gim\u00e9nez,1
+Thomas,K. Gameiro,1
+J. Gim\u00e9nez,K. Gameiro,1
+Sa\u00fal,\u0160. Vrsaljko,1
+Thomas,Fernando Torres,1

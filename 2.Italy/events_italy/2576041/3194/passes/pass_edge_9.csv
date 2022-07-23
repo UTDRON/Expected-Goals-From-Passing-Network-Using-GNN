@@ -1,0 +1,40 @@
+Source,Target,Weight
+Daniel Bessa,R\u00f4mulo,4
+R\u00f4mulo,M. C\u00e1ceres,3
+R\u00f4mulo,M. Kean,3
+Lee Seung-Woo,R\u00f4mulo,3
+M. Fares,M. B\u00fcchel,3
+M. Fares,S. Souprayen,2
+S. Souprayen,Daniel Bessa,2
+M. B\u00fcchel,M. Fares,2
+M. C\u00e1ceres,M. B\u00fcchel,2
+R\u00f4mulo,Lee Seung-Woo,2
+M. B\u00fcchel,Lee Seung-Woo,2
+Lee Seung-Woo,Daniel Bessa,2
+A. Caracciolo,Daniel Bessa,2
+Daniel Bessa,M. C\u00e1ceres,2
+M. B\u00fcchel,Daniel Bessa,2
+Nicolas,M. Fares,1
+M. C\u00e1ceres,A. Caracciolo,1
+A. Caracciolo,Nicolas,1
+M. C\u00e1ceres,Lee Seung-Woo,1
+M. C\u00e1ceres,Nicolas,1
+Daniel Bessa,Lee Seung-Woo,1
+M. Kean,R\u00f4mulo,1
+R\u00f4mulo,M. Fares,1
+M. Kean,M. C\u00e1ceres,1
+M. Fares,A. Caracciolo,1
+M. C\u00e1ceres,R\u00f4mulo,1
+M. B\u00fcchel,A. Caracciolo,1
+M. Fares,R\u00f4mulo,1
+M. C\u00e1ceres,M. Fares,1
+Nicolas,M. B\u00fcchel,1
+A. Caracciolo,M. Fares,1
+Lee Seung-Woo,M. C\u00e1ceres,1
+M. Fares,M. Kean,1
+M. B\u00fcchel,S. Souprayen,1
+S. Souprayen,Lee Seung-Woo,1
+R\u00f4mulo,A. Caracciolo,1
+M. Kean,M. B\u00fcchel,1
+Lee Seung-Woo,M. B\u00fcchel,1
+Daniel Bessa,M. Fares,1

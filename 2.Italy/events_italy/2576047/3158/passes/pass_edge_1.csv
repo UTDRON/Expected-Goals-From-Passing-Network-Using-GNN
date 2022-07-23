@@ -1,0 +1,76 @@
+Source,Target,Weight
+L. Pellegrini,A. Florenzi,9
+A. Florenzi,L. Pellegrini,9
+A. Florenzi,D. De Rossi,8
+A. Kolarov,S. El Shaarawy,7
+H. Moreno,A. Kolarov,7
+Juan Jesus,A. Florenzi,7
+A. Kolarov,H. Moreno,6
+Juan Jesus,L. Pellegrini,5
+K. Strootman,A. Kolarov,5
+S. El Shaarawy,A. Kolarov,4
+L. Pellegrini,R. Nainggolan,4
+S. El Shaarawy,K. Strootman,3
+Alisson,A. Florenzi,3
+D. De Rossi,K. Strootman,3
+H. Moreno,Juan Jesus,3
+Juan Jesus,H. Moreno,3
+H. Moreno,S. El Shaarawy,3
+L. Pellegrini,Juan Jesus,3
+D. De Rossi,Alisson,3
+D. De Rossi,A. Kolarov,3
+A. Florenzi,R. Nainggolan,3
+Alisson,Juan Jesus,3
+A. Florenzi,Alisson,3
+A. Kolarov,L. Pellegrini,2
+D. De Rossi,H. Moreno,2
+H. Moreno,Alisson,2
+R. Nainggolan,H. Moreno,2
+Alisson,D. De Rossi,2
+S. El Shaarawy,Juan Jesus,2
+D. De Rossi,L. Pellegrini,2
+R. Nainggolan,A. Florenzi,2
+K. Strootman,A. Florenzi,2
+A. Kolarov,Alisson,2
+A. Florenzi,H. Moreno,2
+E. D\u017eeko,R. Nainggolan,2
+H. Moreno,D. De Rossi,2
+A. Kolarov,Juan Jesus,2
+A. Kolarov,A. Florenzi,2
+A. Florenzi,Juan Jesus,2
+L. Pellegrini,E. D\u017eeko,2
+A. Kolarov,D. De Rossi,2
+A. Florenzi,A. Kolarov,2
+R. Nainggolan,K. Strootman,2
+Juan Jesus,A. Kolarov,1
+R. Nainggolan,L. Pellegrini,1
+R. Nainggolan,Juan Jesus,1
+E. D\u017eeko,L. Pellegrini,1
+H. Moreno,K. Strootman,1
+K. Strootman,E. D\u017eeko,1
+Juan Jesus,R. Nainggolan,1
+S. El Shaarawy,H. Moreno,1
+L. Pellegrini,A. Kolarov,1
+E. D\u017eeko,D. De Rossi,1
+S. El Shaarawy,E. D\u017eeko,1
+D. De Rossi,A. Florenzi,1
+K. Strootman,Juan Jesus,1
+R. Nainggolan,D. De Rossi,1
+E. D\u017eeko,A. Florenzi,1
+L. Pellegrini,S. El Shaarawy,1
+H. Moreno,A. Florenzi,1
+Alisson,H. Moreno,1
+Alisson,L. Pellegrini,1
+S. El Shaarawy,A. Florenzi,1
+Alisson,A. Kolarov,1
+R. Nainggolan,S. El Shaarawy,1
+D. De Rossi,S. El Shaarawy,1
+L. Pellegrini,H. Moreno,1
+L. Pellegrini,K. Strootman,1
+D. De Rossi,Juan Jesus,1
+Alisson,E. D\u017eeko,1
+A. Kolarov,K. Strootman,1
+S. El Shaarawy,L. Pellegrini,1
+K. Strootman,H. Moreno,1
+K. Strootman,Alisson,1
+Juan Jesus,Alisson,1

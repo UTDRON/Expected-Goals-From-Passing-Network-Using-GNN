@@ -1,0 +1,45 @@
+Source,Target,Weight
+J. Palomino,A. Masiello,3
+B. Cristante,A. Petagna,3
+R. Freuler,M. de Roon,3
+B. Cristante,R. Gosens,3
+A. Masiello,B. Cristante,3
+H. Hateboer,A. G\u00f3mez,3
+M. de Roon,R. Freuler,2
+R. Gosens,R. Freuler,2
+A. Masiello,R. Gosens,2
+R. Freuler,B. Cristante,2
+P. Gollini,A. Masiello,2
+B. Cristante,R. Freuler,2
+A. Petagna,B. Cristante,2
+A. G\u00f3mez,B. Cristante,2
+A. Masiello,R. Freuler,2
+A. G\u00f3mez,H. Hateboer,2
+M. de Roon,H. Hateboer,2
+H. Hateboer,M. de Roon,1
+J. Palomino,H. Hateboer,1
+J. Palomino,M. de Roon,1
+M. de Roon,P. Gollini,1
+Rafael Tol\u00f3i,J. Palomino,1
+R. Gosens,B. Cristante,1
+R. Gosens,A. G\u00f3mez,1
+R. Gosens,A. Masiello,1
+R. Freuler,Rafael Tol\u00f3i,1
+A. Petagna,A. G\u00f3mez,1
+M. de Roon,A. Masiello,1
+A. G\u00f3mez,A. Masiello,1
+R. Freuler,A. G\u00f3mez,1
+A. Masiello,A. G\u00f3mez,1
+B. Cristante,A. G\u00f3mez,1
+M. de Roon,A. G\u00f3mez,1
+A. G\u00f3mez,A. Petagna,1
+A. G\u00f3mez,R. Freuler,1
+A. Masiello,J. Palomino,1
+A. G\u00f3mez,M. de Roon,1
+B. Cristante,J. Palomino,1
+R. Freuler,J. Palomino,1
+A. G\u00f3mez,J. Palomino,1
+A. Masiello,M. de Roon,1
+J. Palomino,P. Gollini,1
+H. Hateboer,J. Palomino,1
+R. Freuler,A. Masiello,1

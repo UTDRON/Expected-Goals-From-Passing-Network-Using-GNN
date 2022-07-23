@@ -1,0 +1,46 @@
+Source,Target,Weight
+S. Zaza,Jos\u00e9 Gay\u00e1,5
+Dani Parejo,Gabriel,4
+Montoya,Neto,2
+Montoya,F. Coquelin,2
+Neto,S. Zaza,2
+F. Coquelin,Ferr\u00e1n Torres,2
+Rodrigo,Santi Mina,2
+Jos\u00e9 Gay\u00e1,Montoya,2
+Montoya,Dani Parejo,2
+Neto,Santi Mina,2
+Santi Mina,S. Zaza,2
+F. Coquelin,Montoya,2
+Gabriel,J. Murillo,1
+S. Zaza,Ferr\u00e1n Torres,1
+Santi Mina,Montoya,1
+J. Murillo,Ferr\u00e1n Torres,1
+Montoya,Jos\u00e9 Gay\u00e1,1
+Jos\u00e9 Gay\u00e1,Santi Mina,1
+J. Murillo,Neto,1
+Gabriel,Montoya,1
+Ferr\u00e1n Torres,Gabriel,1
+Santi Mina,J. Murillo,1
+Gabriel,F. Coquelin,1
+Ferr\u00e1n Torres,Jos\u00e9 Gay\u00e1,1
+Jos\u00e9 Gay\u00e1,F. Coquelin,1
+Neto,Rodrigo,1
+Jos\u00e9 Gay\u00e1,Neto,1
+F. Coquelin,Gabriel,1
+Ferr\u00e1n Torres,Montoya,1
+N. Maksimovi\u0107,Montoya,1
+Gabriel,S. Zaza,1
+Montoya,J. Murillo,1
+Jos\u00e9 Gay\u00e1,Rodrigo,1
+Gabriel,N. Maksimovi\u0107,1
+Ferr\u00e1n Torres,Dani Parejo,1
+Jos\u00e9 Gay\u00e1,S. Zaza,1
+J. Murillo,Gabriel,1
+Santi Mina,Ferr\u00e1n Torres,1
+Santi Mina,F. Coquelin,1
+J. Murillo,Dani Parejo,1
+Jos\u00e9 Gay\u00e1,J. Murillo,1
+Montoya,Santi Mina,1
+Santi Mina,Jos\u00e9 Gay\u00e1,1
+Ferr\u00e1n Torres,Santi Mina,1
+Gabriel,Neto,1

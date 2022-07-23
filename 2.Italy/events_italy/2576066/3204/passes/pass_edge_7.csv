@@ -1,0 +1,89 @@
+Source,Target,Weight
+E. Schiavon,F. Viviani,4
+L. Mora,F. Mattiello,4
+Felipe,F. Mattiello,4
+M. Lazzari,F. Viviani,4
+M. Antenucci,M. Lazzari,3
+B. Salamon,A. Gomis,3
+A. Gomis,L. Mora,3
+F. Mattiello,A. Paloschi,3
+M. Lazzari,B. Salamon,3
+B. Salamon,Felipe,3
+M. Lazzari,E. Schiavon,3
+F. Viviani,L. Mora,3
+L. Mora,F. Viviani,3
+F. Viviani,F. Mattiello,3
+F. Mattiello,L. Mora,3
+Felipe,M. Antenucci,2
+M. Antenucci,Felipe,2
+M. Antenucci,F. Viviani,2
+B. Salamon,M. Lazzari,2
+E. Schiavon,B. Salamon,2
+F. Viviani,E. Schiavon,2
+F. Mattiello,F. Viviani,2
+F. Costa,L. Mora,2
+L. Mora,Felipe,2
+F. Viviani,M. Lazzari,2
+F. Viviani,F. Vicari,2
+F. Mattiello,M. Antenucci,2
+A. Paloschi,B. Salamon,2
+F. Viviani,M. Borriello,2
+A. Paloschi,F. Viviani,2
+F. Vicari,M. Lazzari,2
+F. Mattiello,A. Gomis,2
+F. Viviani,A. Gomis,2
+A. Gomis,A. Paloschi,2
+L. Mora,F. Costa,2
+A. Paloschi,E. Schiavon,2
+E. Schiavon,M. Lazzari,2
+M. Borriello,F. Costa,2
+M. Borriello,F. Viviani,2
+L. Mora,E. Schiavon,1
+Felipe,A. Gomis,1
+L. Mora,M. Borriello,1
+F. Vicari,Felipe,1
+L. Mora,F. Vicari,1
+F. Viviani,A. Paloschi,1
+F. Viviani,Felipe,1
+M. Borriello,L. Mora,1
+A. Paloschi,F. Mattiello,1
+A. Gomis,F. Vicari,1
+B. Salamon,M. Borriello,1
+L. Mora,M. Lazzari,1
+E. Schiavon,A. Paloschi,1
+B. Salamon,F. Costa,1
+Felipe,B. Salamon,1
+F. Viviani,M. Antenucci,1
+E. Schiavon,Felipe,1
+A. Gomis,B. Salamon,1
+E. Schiavon,A. Gomis,1
+F. Vicari,B. Salamon,1
+F. Costa,M. Borriello,1
+A. Gomis,E. Schiavon,1
+F. Viviani,B. Salamon,1
+F. Costa,M. Lazzari,1
+Felipe,L. Mora,1
+M. Lazzari,M. Antenucci,1
+M. Lazzari,M. Borriello,1
+F. Vicari,F. Mattiello,1
+M. Borriello,B. Salamon,1
+F. Vicari,E. Schiavon,1
+Felipe,E. Schiavon,1
+Felipe,F. Viviani,1
+A. Paloschi,F. Vicari,1
+F. Vicari,F. Viviani,1
+F. Mattiello,B. Salamon,1
+F. Mattiello,Felipe,1
+F. Costa,F. Vicari,1
+B. Salamon,M. Antenucci,1
+F. Costa,F. Mattiello,1
+A. Gomis,M. Borriello,1
+B. Salamon,L. Mora,1
+M. Antenucci,F. Costa,1
+B. Salamon,E. Schiavon,1
+E. Schiavon,L. Mora,1
+F. Costa,M. Antenucci,1
+M. Borriello,E. Schiavon,1
+M. Lazzari,A. Paloschi,1
+E. Schiavon,F. Costa,1
+B. Salamon,F. Vicari,1

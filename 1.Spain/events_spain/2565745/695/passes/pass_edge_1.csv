@@ -1,0 +1,42 @@
+Source,Target,Weight
+Jason,S. Luki\u0107,3
+S. Luki\u0107,Coke,3
+Coke,Rober,3
+Coke,Jason,2
+C. Doukour\u00e9,Jason,2
+J. Lerma,Sergio Postigo,2
+Jason,C. Doukour\u00e9,2
+Coke,Oier,2
+Luna,Jos\u00e9 Luis Morales,2
+Rober,Luna,2
+C. Doukour\u00e9,Luna,1
+Oier,Jason,1
+Rober,Sergio Postigo,1
+Luna,J. Lerma,1
+J. Lerma,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,S. Luki\u0107,1
+Luna,E. Boateng,1
+Jason,Coke,1
+Rober,Jason,1
+Oier,Coke,1
+C. Doukour\u00e9,S. Luki\u0107,1
+Jason,Oier,1
+E. Boateng,Jason,1
+Sergio Postigo,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,Coke,1
+Sergio Postigo,Luna,1
+C. Doukour\u00e9,Coke,1
+Rober,C. Doukour\u00e9,1
+J. Lerma,Coke,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+Luna,Rober,1
+Rober,J. Lerma,1
+Jos\u00e9 Luis Morales,Rober,1
+S. Luki\u0107,J. Lerma,1
+J. Lerma,C. Doukour\u00e9,1
+S. Luki\u0107,C. Doukour\u00e9,1
+Oier,J. Lerma,1
+Jos\u00e9 Luis Morales,Luna,1
+Sergio Postigo,Jason,1
+Jason,Rober,1
+Coke,C. Doukour\u00e9,1

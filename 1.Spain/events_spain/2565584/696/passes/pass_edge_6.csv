@@ -1,0 +1,69 @@
+Source,Target,Weight
+Medr\u00e1n,Rodrigo Ely,3
+Munir,M. Wakaso,3
+Munir,Carlos Vigaray,3
+Tom\u00e1s Pina,Alexis,3
+M. Wakaso,Alfonso Pedraza,3
+Rodrigo Ely,Carlos Vigaray,3
+Carlos Vigaray,Rodrigo Ely,3
+Alfonso Pedraza,Alexis,3
+Rodrigo Ely,Medr\u00e1n,3
+Carlos Vigaray,Bojan,2
+Carlos Vigaray,Munir,2
+M. Wakaso,Tom\u00e1s Pina,2
+M. Wakaso,Alexis,2
+M. Wakaso,Bojan,2
+Medr\u00e1n,M. Wakaso,2
+Munir,Medr\u00e1n,2
+Tom\u00e1s Pina,M. Wakaso,2
+Alfonso Pedraza,Ibai G\u00f3mez,2
+Alexis,Tom\u00e1s Pina,2
+Tom\u00e1s Pina,Rodrigo Ely,2
+Alexis,Munir,2
+Bojan,Munir,1
+Tom\u00e1s Pina,Carlos Vigaray,1
+Alexis,Rodrigo Ely,1
+Alexis,Ibai G\u00f3mez,1
+Tom\u00e1s Pina,Alfonso Pedraza,1
+Fernando Pacheco,Medr\u00e1n,1
+Alexis,Alfonso Pedraza,1
+Munir,Tom\u00e1s Pina,1
+M. Wakaso,Munir,1
+Rodrigo Ely,Fernando Pacheco,1
+Fernando Pacheco,Carlos Vigaray,1
+Rodrigo Ely,Alexis,1
+Ibai G\u00f3mez,Carlos Vigaray,1
+Rodrigo Ely,Alfonso Pedraza,1
+Bojan,Carlos Vigaray,1
+Medr\u00e1n,Carlos Vigaray,1
+Carlos Vigaray,Alfonso Pedraza,1
+Bojan,M. Wakaso,1
+Carlos Vigaray,Medr\u00e1n,1
+Carlos Vigaray,M. Wakaso,1
+Medr\u00e1n,Munir,1
+Rodrigo Ely,M. Wakaso,1
+Medr\u00e1n,Bojan,1
+Fernando Pacheco,Tom\u00e1s Pina,1
+Bojan,Rodrigo Ely,1
+Medr\u00e1n,Tom\u00e1s Pina,1
+Rodrigo Ely,Tom\u00e1s Pina,1
+Alexis,Fernando Pacheco,1
+Alexis,Carlos Vigaray,1
+Alexis,M. Wakaso,1
+Alfonso Pedraza,Fernando Pacheco,1
+Ibai G\u00f3mez,Alfonso Pedraza,1
+Ibai G\u00f3mez,Medr\u00e1n,1
+Carlos Vigaray,Alexis,1
+Alfonso Pedraza,Rodrigo Ely,1
+M. Wakaso,Ibai G\u00f3mez,1
+Alfonso Pedraza,Bojan,1
+Tom\u00e1s Pina,Munir,1
+Ibai G\u00f3mez,M. Wakaso,1
+Rodrigo Ely,Munir,1
+Carlos Vigaray,Tom\u00e1s Pina,1
+Bojan,Alfonso Pedraza,1
+Bojan,Tom\u00e1s Pina,1
+Tom\u00e1s Pina,Medr\u00e1n,1
+Alfonso Pedraza,Munir,1
+Munir,Rodrigo Ely,1
+M. Wakaso,Medr\u00e1n,1

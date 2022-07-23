@@ -1,0 +1,86 @@
+Source,Target,Weight
+Antunes,Portillo,7
+Djen\u00e9,D. Su\u00e1rez,7
+A. Ndiaye,D. Su\u00e1rez,7
+Portillo,Antunes,7
+D. Su\u00e1rez,A. Ndiaye,6
+Antunes,Juan Cala,6
+Jorge Molina,Sergio Mora,6
+Juan Cala,Djen\u00e9,6
+Sergio Mora,Juan Cala,5
+Antunes,Jorge Molina,5
+Portillo,Sergio Mora,4
+Djen\u00e9,Juan Cala,4
+Juan Cala,Portillo,4
+M. Arambarri,Antunes,4
+Juan Cala,M. Arambarri,4
+Sergio Mora,Portillo,4
+D. Su\u00e1rez,Djen\u00e9,4
+Portillo,Jorge Molina,4
+Djen\u00e9,Guaita,3
+Juan Cala,Jorge Molina,3
+D. Su\u00e1rez,Portillo,3
+Jorge Molina,\u00c1ngel,3
+M. Arambarri,Juan Cala,3
+Jorge Molina,Antunes,3
+Juan Cala,Antunes,3
+D. Su\u00e1rez,Juan Cala,3
+Sergio Mora,Djen\u00e9,3
+Juan Cala,Sergio Mora,3
+Jorge Molina,Portillo,3
+M. Arambarri,D. Su\u00e1rez,2
+D. Su\u00e1rez,Jorge Molina,2
+Antunes,Guaita,2
+A. Ndiaye,M. Arambarri,2
+Juan Cala,\u00c1ngel,2
+Sergio Mora,D. Su\u00e1rez,2
+\u00c1ngel,A. Ndiaye,2
+Juan Cala,D. Su\u00e1rez,2
+Portillo,M. Arambarri,2
+D. Su\u00e1rez,M. Arambarri,2
+D. Su\u00e1rez,Sergio Mora,2
+Guaita,Juan Cala,2
+Antunes,Sergio Mora,2
+\u00c1ngel,Djen\u00e9,2
+J. Montero,Antunes,2
+Djen\u00e9,Jorge Molina,2
+Portillo,Juan Cala,2
+A. Ndiaye,Antunes,2
+Portillo,\u00c1ngel,2
+Sergio Mora,Antunes,2
+Guaita,Sergio Mora,2
+Djen\u00e9,Sergio Mora,2
+Jorge Molina,Juan Cala,2
+Portillo,A. Ndiaye,2
+Sergio Mora,Jorge Molina,2
+M. Arambarri,Portillo,2
+Jorge Molina,A. Ndiaye,1
+Sergio Mora,A. Ndiaye,1
+Juan Cala,Guaita,1
+Juan Cala,A. Ndiaye,1
+Sergio Mora,M. Arambarri,1
+Antunes,A. Ndiaye,1
+Guaita,D. Su\u00e1rez,1
+\u00c1ngel,Juan Cala,1
+Antunes,\u00c1ngel,1
+Sergio Mora,Guaita,1
+\u00c1ngel,Guaita,1
+Guaita,Djen\u00e9,1
+A. Ndiaye,Juan Cala,1
+Jorge Molina,D. Su\u00e1rez,1
+D. Su\u00e1rez,Guaita,1
+Guaita,A. Ndiaye,1
+\u00c1ngel,Antunes,1
+Jorge Molina,Djen\u00e9,1
+D. Su\u00e1rez,Antunes,1
+Antunes,Djen\u00e9,1
+Guaita,Jorge Molina,1
+\u00c1ngel,D. Su\u00e1rez,1
+A. Ndiaye,Jorge Molina,1
+M. Arambarri,\u00c1ngel,1
+Sergio Mora,J. Montero,1
+Guaita,\u00c1ngel,1
+A. Ndiaye,Djen\u00e9,1
+A. Ndiaye,Sergio Mora,1
+\u00c1ngel,J. Montero,1
+\u00c1ngel,M. Arambarri,1

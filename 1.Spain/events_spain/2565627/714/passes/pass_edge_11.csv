@@ -1,0 +1,16 @@
+Source,Target,Weight
+Jonathan Viera,A. Aquilani,1
+Hern\u00e1n,M\u00edchel,1
+David Garc\u00eda,Bigas,1
+A. Aquilani,Momo,1
+Borja Herrera,M\u00edchel,1
+M\u00edchel,Hern\u00e1n,1
+M\u00edchel,A. Aquilani,1
+Momo,Jonathan Viera,1
+Bigas,Borja Herrera,1
+Borja Herrera,Momo,1
+A. Aquilani,Bigas,1
+Hern\u00e1n,David Garc\u00eda,1
+Bigas,Jonathan Viera,1
+Jonathan Viera,Hern\u00e1n,1
+Momo,Hern\u00e1n,1

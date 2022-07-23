@@ -1,0 +1,68 @@
+Source,Target,Weight
+L. De Silvestri,M. Niang,7
+M. Niang,L. De Silvestri,7
+L. De Silvestri,A. Belotti,5
+D. Baselli,T. Rinc\u00f3n,4
+D. Baselli,M. Niang,3
+T. Rinc\u00f3n,N. N'Koulou,3
+M. Niang,D. Baselli,3
+D. Baselli,L. De Silvestri,2
+N. N'Koulou,L. De Silvestri,2
+T. Rinc\u00f3n,D. Baselli,2
+C. Ansaldi,N. Burdisso,2
+C. Ansaldi,D. Baselli,2
+D. Baselli,S. Sirigu,2
+N. Burdisso,J. Obi,2
+A. Belotti,T. Rinc\u00f3n,2
+L. De Silvestri,D. Baselli,2
+A. Belotti,M. Niang,2
+N. N'Koulou,N. Burdisso,2
+J. Obi,C. Ansaldi,2
+M. Niang,J. Obi,2
+N. Burdisso,L. De Silvestri,2
+J. Obi,L. De Silvestri,2
+N. N'Koulou,M. Niang,2
+J. Obi,T. Rinc\u00f3n,1
+D. Baselli,A. Ljaji\u0107,1
+J. Obi,S. Sirigu,1
+M. Niang,T. Rinc\u00f3n,1
+T. Rinc\u00f3n,A. Belotti,1
+T. Rinc\u00f3n,C. Ansaldi,1
+J. Obi,N. Burdisso,1
+C. Ansaldi,N. N'Koulou,1
+N. Burdisso,N. N'Koulou,1
+N. N'Koulou,D. Baselli,1
+J. Obi,A. Ljaji\u0107,1
+S. Sirigu,L. De Silvestri,1
+L. De Silvestri,T. Rinc\u00f3n,1
+C. Ansaldi,J. Obi,1
+L. De Silvestri,J. Obi,1
+A. Ljaji\u0107,J. Obi,1
+N. Burdisso,C. Ansaldi,1
+S. Sirigu,N. Burdisso,1
+N. Burdisso,S. Sirigu,1
+D. Baselli,C. Ansaldi,1
+N. N'Koulou,T. Rinc\u00f3n,1
+T. Rinc\u00f3n,J. Obi,1
+M. Niang,N. Burdisso,1
+M. Niang,C. Ansaldi,1
+A. Belotti,D. Baselli,1
+A. Belotti,J. Obi,1
+S. Sirigu,M. Niang,1
+J. Obi,N. N'Koulou,1
+S. Sirigu,D. Baselli,1
+N. Burdisso,M. Niang,1
+T. Rinc\u00f3n,S. Sirigu,1
+A. Ljaji\u0107,D. Baselli,1
+M. Niang,N. N'Koulou,1
+C. Ansaldi,A. Belotti,1
+D. Baselli,N. Burdisso,1
+D. Baselli,A. Belotti,1
+L. De Silvestri,N. Burdisso,1
+L. De Silvestri,N. N'Koulou,1
+A. Ljaji\u0107,L. De Silvestri,1
+L. De Silvestri,A. Ljaji\u0107,1
+T. Rinc\u00f3n,L. De Silvestri,1
+S. Sirigu,C. Ansaldi,1
+A. Belotti,L. De Silvestri,1
+N. Burdisso,D. Baselli,1

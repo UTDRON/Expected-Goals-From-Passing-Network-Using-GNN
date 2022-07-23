@@ -1,0 +1,25 @@
+Source,Target,Weight
+A. Bizzarri,G. Pezzella,2
+Samir,S. Fofana,2
+Samir,J. Stryger Larsen,2
+G. Pezzella,Samir,2
+Maxi L\u00f3pez,J. Jankto,2
+J. Jankto,G. Pezzella,1
+B. Nuytinck,A. Bizzarri,1
+G. Angella,V. Behrami,1
+S. Fofana,A. Bizzarri,1
+J. Stryger Larsen,G. Angella,1
+Samir,Maxi L\u00f3pez,1
+A. Bizzarri,Samir,1
+G. Pezzella,Maxi L\u00f3pez,1
+Maxi L\u00f3pez,Samir,1
+V. Behrami,A. Bizzarri,1
+Samir,J. Jankto,1
+A. Bizzarri,Maxi L\u00f3pez,1
+S. Fofana,Samir,1
+S. Fofana,B. Nuytinck,1
+J. Jankto,S. Fofana,1
+J. Jankto,B. Nuytinck,1
+J. Stryger Larsen,A. Bizzarri,1
+B. Nuytinck,S. Fofana,1
+S. Fofana,R. de Paul,1

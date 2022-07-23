@@ -1,0 +1,88 @@
+Source,Target,Weight
+D. Maietta,I. M'baye,14
+I. M'baye,S. Verdi,12
+A. Masina,R. Palacio,11
+S. De Maio,A. Masina,11
+A. Poli,I. M'baye,10
+R. Palacio,A. Masina,9
+A. Masina,G. Donsah,8
+D. Maietta,S. De Maio,8
+S. Verdi,A. Poli,8
+S. De Maio,D. Maietta,8
+A. Poli,S. Verdi,8
+G. Donsah,R. Palacio,8
+A. Masina,E. Pulgar,7
+A. Masina,S. De Maio,7
+I. M'baye,A. Poli,7
+S. Verdi,I. M'baye,7
+G. Donsah,D. Maietta,6
+M. Destro,I. M'baye,5
+I. M'baye,A. Mirante,5
+I. M'baye,S. De Maio,5
+E. Pulgar,D. Maietta,5
+R. Palacio,G. Donsah,5
+D. Maietta,A. Masina,5
+S. Verdi,A. Masina,5
+S. De Maio,A. Mirante,5
+E. Pulgar,A. Poli,5
+S. De Maio,E. Pulgar,4
+R. Palacio,S. De Maio,4
+A. Masina,D. Maietta,4
+A. Mirante,S. De Maio,4
+S. De Maio,G. Donsah,4
+G. Donsah,A. Masina,4
+S. Verdi,E. Pulgar,4
+R. Palacio,I. M'baye,4
+G. Donsah,S. De Maio,4
+A. Poli,D. Maietta,3
+E. Pulgar,G. Donsah,3
+A. Masina,M. Destro,3
+E. Pulgar,S. Verdi,3
+E. Pulgar,S. De Maio,3
+I. M'baye,R. Palacio,3
+I. M'baye,M. Destro,3
+S. Verdi,G. Donsah,3
+G. Donsah,E. Pulgar,3
+A. Mirante,M. Destro,3
+I. M'baye,E. Pulgar,3
+I. M'baye,D. Maietta,3
+E. Pulgar,A. Masina,3
+D. Maietta,A. Mirante,3
+M. Destro,R. Palacio,2
+A. Poli,A. Masina,2
+A. Poli,E. Pulgar,2
+S. Verdi,D. Maietta,2
+A. Mirante,D. Maietta,2
+M. Destro,G. Donsah,2
+R. Palacio,A. Poli,2
+A. Masina,S. Verdi,2
+S. Verdi,M. Destro,2
+R. Palacio,S. Verdi,2
+A. Mirante,A. Masina,2
+D. Maietta,S. Verdi,2
+A. Mirante,I. M'baye,1
+A. Masina,A. Mirante,1
+M. Destro,S. Verdi,1
+D. Maietta,G. Donsah,1
+S. Verdi,R. Palacio,1
+S. De Maio,M. Destro,1
+S. De Maio,S. Verdi,1
+M. Destro,A. Masina,1
+D. Maietta,A. Poli,1
+G. Donsah,A. Poli,1
+A. Mirante,G. Donsah,1
+M. Destro,A. Poli,1
+E. Pulgar,I. M'baye,1
+I. M'baye,A. Masina,1
+S. De Maio,R. Palacio,1
+A. Mirante,S. Verdi,1
+R. Palacio,D. Maietta,1
+M. Destro,E. Pulgar,1
+A. Poli,R. Palacio,1
+S. Verdi,S. De Maio,1
+G. Donsah,I. M'baye,1
+E. Pulgar,M. Destro,1
+I. M'baye,G. Donsah,1
+G. Donsah,S. Verdi,1
+A. Masina,A. Poli,1
+S. De Maio,A. Poli,1

@@ -1,0 +1,21 @@
+Source,Target,Weight
+F. Kessi\u00e9,D. Calabria,3
+L. Biglia,Suso,2
+D. Calabria,L. Biglia,2
+C. Zapata,F. Kessi\u00e9,2
+C. Zapata,D. Calabria,2
+D. Calabria,C. Zapata,1
+L. Biglia,F. Kessi\u00e9,1
+D. Calabria,Suso,1
+F. Borini,R. Rodr\u00edguez,1
+F. Borini,F. Kessi\u00e9,1
+Suso,C. Zapata,1
+F. Kessi\u00e9,L. Biglia,1
+Suso,F. Kessi\u00e9,1
+F. Kessi\u00e9,Suso,1
+F. Kessi\u00e9,F. Borini,1
+L. Biglia,C. Zapata,1
+Suso,N. Kalini\u0107,1
+R. Rodr\u00edguez,L. Biglia,1
+D. Calabria,F. Kessi\u00e9,1
+N. Kalini\u0107,F. Borini,1

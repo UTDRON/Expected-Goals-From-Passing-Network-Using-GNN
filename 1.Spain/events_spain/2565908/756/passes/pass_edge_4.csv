@@ -1,0 +1,63 @@
+Source,Target,Weight
+Timor,Borja Garc\u00eda,6
+Borja Garc\u00eda,J. Mojica,5
+\u00c1lex Granell,J. Mojica,5
+Borja Garc\u00eda,\u00c1lex Granell,4
+J. Mojica,Borja Garc\u00eda,4
+J. Mojica,Timor,4
+\u00c1lex Granell,Timor,4
+J. Mojica,Juanpe,4
+Pablo Maffeo,Ramalho,4
+\u00c1lex Granell,Bernardo Espinosa,4
+Timor,\u00c1lex Granell,3
+Borja Garc\u00eda,Timor,3
+Ramalho,Pablo Maffeo,3
+Ramalho,Choco Lozano,3
+Bernardo Espinosa,J. Mojica,3
+Juanpe,J. Mojica,3
+Timor,J. Mojica,3
+J. Mojica,C. Stuani,3
+Pablo Maffeo,Timor,2
+C. Stuani,\u00c1lex Granell,2
+Bernardo Espinosa,Juanpe,2
+Choco Lozano,\u00c1lex Granell,2
+\u00c1lex Granell,Ramalho,2
+Choco Lozano,Pablo Maffeo,2
+Timor,Pablo Maffeo,2
+Ramalho,Timor,2
+Timor,Bernardo Espinosa,2
+Borja Garc\u00eda,Pablo Maffeo,2
+C. Stuani,Ramalho,2
+Pablo Maffeo,\u00c1lex Granell,2
+J. Mojica,Y. Bounou,2
+J. Mojica,\u00c1lex Granell,2
+Juanpe,Borja Garc\u00eda,2
+C. Stuani,Timor,1
+\u00c1lex Granell,Borja Garc\u00eda,1
+Bernardo Espinosa,C. Stuani,1
+Y. Bounou,Pablo Maffeo,1
+Y. Bounou,Timor,1
+Ramalho,Borja Garc\u00eda,1
+Bernardo Espinosa,Y. Bounou,1
+Borja Garc\u00eda,Y. Bounou,1
+Bernardo Espinosa,Choco Lozano,1
+Juanpe,Pablo Maffeo,1
+Bernardo Espinosa,Timor,1
+Ramalho,Bernardo Espinosa,1
+Pablo Maffeo,Choco Lozano,1
+Choco Lozano,Ramalho,1
+Y. Bounou,J. Mojica,1
+Choco Lozano,C. Stuani,1
+C. Stuani,Pablo Maffeo,1
+Y. Bounou,Choco Lozano,1
+Juanpe,Bernardo Espinosa,1
+Ramalho,\u00c1lex Granell,1
+Bernardo Espinosa,Ramalho,1
+J. Mojica,Choco Lozano,1
+Choco Lozano,Borja Garc\u00eda,1
+Pablo Maffeo,Juanpe,1
+Pablo Maffeo,Borja Garc\u00eda,1
+Juanpe,C. Stuani,1
+Borja Garc\u00eda,Juanpe,1
+Pablo Maffeo,Bernardo Espinosa,1
+Timor,Ramalho,1

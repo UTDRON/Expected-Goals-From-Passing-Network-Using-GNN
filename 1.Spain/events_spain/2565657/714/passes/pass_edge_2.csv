@@ -1,0 +1,125 @@
+Source,Target,Weight
+M\u00edchel,Vitolo,15
+A. Aquilani,Vitolo,13
+A. Aquilani,Javi Castellano,12
+Javi Castellano,A. Aquilani,12
+Vitolo,M\u00edchel,11
+Ximo Navarro,M. Lemos,11
+Vicente G\u00f3mez,A. Aquilani,9
+Bigas,Ra\u00fal Lizo\u00e1in,9
+Vitolo,Ximo Navarro,9
+Vicente G\u00f3mez,Vitolo,8
+Vitolo,Vicente G\u00f3mez,8
+Bigas,Dani Castellano,8
+Dani Castellano,Bigas,8
+Javi Castellano,Bigas,8
+M. Lemos,Dani Castellano,8
+Javi Castellano,M\u00edchel,8
+M\u00edchel,Ximo Navarro,8
+Vitolo,A. Aquilani,8
+Ra\u00fal Lizo\u00e1in,Bigas,8
+Ximo Navarro,Javi Castellano,7
+Ximo Navarro,Ra\u00fal Lizo\u00e1in,6
+Bigas,Javi Castellano,6
+Dani Castellano,J. Calleri,6
+Vitolo,M. Lemos,6
+Ra\u00fal Lizo\u00e1in,Ximo Navarro,6
+Dani Castellano,Vitolo,6
+Bigas,Vicente G\u00f3mez,6
+M. Lemos,Ximo Navarro,6
+Vitolo,Bigas,6
+A. Aquilani,Dani Castellano,5
+Vitolo,Dani Castellano,5
+A. Aquilani,Bigas,5
+Vitolo,Javi Castellano,5
+J. Calleri,M. Lemos,5
+Javi Castellano,Dani Castellano,5
+A. Aquilani,J. Calleri,5
+Javi Castellano,M. Lemos,5
+Bigas,Vitolo,5
+M. Lemos,M\u00edchel,5
+Dani Castellano,A. Aquilani,5
+M\u00edchel,J. Calleri,4
+A. Aquilani,Ximo Navarro,4
+Ximo Navarro,M\u00edchel,4
+Bigas,A. Aquilani,4
+A. Aquilani,Vicente G\u00f3mez,4
+Ximo Navarro,Vitolo,4
+Dani Castellano,Javi Castellano,4
+M. Lemos,Vitolo,4
+Ximo Navarro,Bigas,4
+M. Lemos,Javi Castellano,4
+M. Lemos,Vicente G\u00f3mez,4
+Vitolo,Hern\u00e1n,4
+M. Lemos,Ra\u00fal Lizo\u00e1in,4
+J. Calleri,Vitolo,4
+Javi Castellano,J. Calleri,3
+Dani Castellano,Ra\u00fal Lizo\u00e1in,3
+J. Calleri,Dani Castellano,3
+Hern\u00e1n,J. Calleri,3
+Vicente G\u00f3mez,Bigas,3
+Bigas,J. Calleri,3
+Ra\u00fal Lizo\u00e1in,Javi Castellano,3
+Bigas,M. Lemos,3
+J. Calleri,Javi Castellano,3
+Vicente G\u00f3mez,M. Lemos,3
+J. Calleri,Hern\u00e1n,3
+Javi Castellano,Vitolo,3
+J. Calleri,A. Aquilani,3
+Ra\u00fal Lizo\u00e1in,M. Lemos,3
+Vicente G\u00f3mez,Dani Castellano,3
+Dani Castellano,M. Lemos,3
+Bigas,L. R\u00e9my,3
+M\u00edchel,Javi Castellano,3
+Dani Castellano,L. R\u00e9my,3
+Vitolo,J. Calleri,3
+J. Calleri,M\u00edchel,3
+Javi Castellano,Ximo Navarro,3
+L. R\u00e9my,A. Aquilani,3
+M\u00edchel,Ra\u00fal Lizo\u00e1in,2
+Ximo Navarro,Vicente G\u00f3mez,2
+Ra\u00fal Lizo\u00e1in,J. Calleri,2
+Hern\u00e1n,Vitolo,2
+M\u00edchel,Dani Castellano,2
+Hern\u00e1n,Javi Castellano,2
+J. Calleri,Ra\u00fal Lizo\u00e1in,2
+Ra\u00fal Lizo\u00e1in,Vitolo,2
+M\u00edchel,Bigas,2
+M\u00edchel,Vicente G\u00f3mez,2
+Ra\u00fal Lizo\u00e1in,A. Aquilani,2
+M\u00edchel,A. Aquilani,2
+Dani Castellano,M\u00edchel,2
+Dani Castellano,Vicente G\u00f3mez,2
+M. Lemos,Bigas,2
+Javi Castellano,Vicente G\u00f3mez,2
+M. Lemos,J. Calleri,2
+L. R\u00e9my,Ximo Navarro,2
+A. Aquilani,M\u00edchel,2
+J. Calleri,Ximo Navarro,2
+J. Calleri,Vicente G\u00f3mez,2
+Ximo Navarro,A. Aquilani,2
+M. Lemos,A. Aquilani,2
+J. Calleri,Bigas,2
+Vicente G\u00f3mez,M\u00edchel,2
+L. R\u00e9my,Javi Castellano,2
+Ra\u00fal Lizo\u00e1in,Dani Castellano,2
+Javi Castellano,Hern\u00e1n,2
+A. Aquilani,Ra\u00fal Lizo\u00e1in,1
+Ra\u00fal Lizo\u00e1in,L. R\u00e9my,1
+Javi Castellano,Ra\u00fal Lizo\u00e1in,1
+Vitolo,Ra\u00fal Lizo\u00e1in,1
+L. R\u00e9my,Dani Castellano,1
+A. Aquilani,M. Lemos,1
+Ximo Navarro,J. Calleri,1
+J. Calleri,L. R\u00e9my,1
+Vicente G\u00f3mez,Ra\u00fal Lizo\u00e1in,1
+Ximo Navarro,Dani Castellano,1
+Dani Castellano,Ximo Navarro,1
+M\u00edchel,M. Lemos,1
+Vicente G\u00f3mez,Javi Castellano,1
+Vicente G\u00f3mez,J. Calleri,1
+Bigas,M\u00edchel,1
+Hern\u00e1n,L. R\u00e9my,1
+Hern\u00e1n,M\u00edchel,1
+Vicente G\u00f3mez,Ximo Navarro,1
+Ra\u00fal Lizo\u00e1in,M\u00edchel,1

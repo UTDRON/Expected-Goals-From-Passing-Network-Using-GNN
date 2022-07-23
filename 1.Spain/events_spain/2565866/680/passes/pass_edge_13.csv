@@ -1,0 +1,13 @@
+Source,Target,Weight
+S. N'Zonzi,Nolito,1
+\u00c9. Banega,S. N'Zonzi,1
+\u00c9. Banega,Sergio Escudero,1
+Sandro,S. N'Zonzi,1
+Sandro,\u00c9. Banega,1
+Nolito,Sandro,1
+G. Mercado,\u00c9. Banega,1
+Sergio Escudero,S. N'Zonzi,1
+S. N'Zonzi,Sandro,1
+Sandro,Sergio Escudero,1
+Sergio Escudero,Sandro,1
+Sandro,G. Mercado,1

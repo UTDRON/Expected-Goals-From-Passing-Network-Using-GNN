@@ -1,0 +1,23 @@
+Source,Target,Weight
+Manu Garc\u00eda,H. P\u00e9rez,2
+Laguardia,Alfonso Pedraza,1
+H. P\u00e9rez,J. Guidetti,1
+J. Guidetti,D. Torres,1
+Rub\u00e9n Duarte,Manu Garc\u00eda,1
+J. Guidetti,Rub\u00e9n Sobrino,1
+Alfonso Pedraza,H. P\u00e9rez,1
+Alfonso Pedraza,Rub\u00e9n Duarte,1
+D. Torres,Manu Garc\u00eda,1
+Rub\u00e9n Sobrino,Rub\u00e9n Duarte,1
+Manu Garc\u00eda,Rub\u00e9n Sobrino,1
+H. P\u00e9rez,Fernando Pacheco,1
+Rub\u00e9n Duarte,Laguardia,1
+H. P\u00e9rez,Rub\u00e9n Sobrino,1
+J. Guidetti,Fernando Pacheco,1
+Rub\u00e9n Duarte,J. Guidetti,1
+Fernando Pacheco,Rub\u00e9n Sobrino,1
+D. Torres,Rub\u00e9n Duarte,1
+Fernando Pacheco,D. Torres,1
+Rub\u00e9n Sobrino,Manu Garc\u00eda,1
+Rub\u00e9n Sobrino,J. Guidetti,1
+D. Torres,Alfonso Pedraza,1

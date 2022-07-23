@@ -1,0 +1,18 @@
+Source,Target,Weight
+Jorge Molina,Portillo,3
+Portillo,Markel Bergara,3
+Markel Bergara,Portillo,2
+Molinero,Jorge Molina,2
+Portillo,M. Arambarri,2
+M. Arambarri,A. Ndiaye,1
+Markel Bergara,Juan Cala,1
+Portillo,Jorge Molina,1
+Guaita,Jorge Molina,1
+A. Ndiaye,Portillo,1
+Jorge Molina,Molinero,1
+Juan Cala,M. Arambarri,1
+M. Arambarri,Portillo,1
+Juan Cala,Guaita,1
+\u00c1ngel,Juan Cala,1
+M. Arambarri,Antunes,1
+Antunes,Molinero,1

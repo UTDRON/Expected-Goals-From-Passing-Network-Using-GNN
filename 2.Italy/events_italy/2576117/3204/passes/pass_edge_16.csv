@@ -1,0 +1,20 @@
+Source,Target,Weight
+M. Lazzari,P. Schiattarella,2
+F. Vicari,A. Grassi,2
+F. Viviani,M. Lazzari,2
+B. Salamon,F. Viviani,2
+F. Viviani,P. Schiattarella,1
+A. Grassi,A. Paloschi,1
+A. Grassi,F. Vicari,1
+S. Floccari,A. Grassi,1
+P. Schiattarella,A. Grassi,1
+P. Schiattarella,S. Floccari,1
+M. Lazzari,B. Salamon,1
+A. Grassi,S. Floccari,1
+S. Floccari,F. Viviani,1
+F. Mattiello,F. Vicari,1
+A. Paloschi,M. Antenucci,1
+F. Vicari,F. Mattiello,1
+A. Grassi,B. Salamon,1
+M. Antenucci,A. Paloschi,1
+P. Schiattarella,M. Lazzari,1

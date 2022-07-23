@@ -1,0 +1,55 @@
+Source,Target,Weight
+J. Jankto,Samir,4
+Ali Adnan,A. Bar\u00e1k,4
+R. de Paul,Ali Adnan,4
+Ali Adnan,R. de Paul,4
+Samir,J. Jankto,3
+J. Jankto,A. Bar\u00e1k,3
+A. Bar\u00e1k,S. Perica,3
+A. Bar\u00e1k,Ali Adnan,3
+Ryder Matos,J. Jankto,3
+Ryder Matos,A. Bar\u00e1k,3
+Samir,Ryder Matos,3
+A. Bar\u00e1k,J. Jankto,3
+B. Nuytinck,A. Bar\u00e1k,2
+A. Bizzarri,G. Angella,2
+J. Jankto,Ryder Matos,2
+A. Bar\u00e1k,G. Angella,2
+J. Jankto,G. Angella,1
+R. de Paul,J. Jankto,1
+S. Perica,Maxi L\u00f3pez,1
+G. Angella,Samir,1
+S. Perica,Ryder Matos,1
+A. Bar\u00e1k,Samir,1
+B. Nuytinck,J. Jankto,1
+G. Angella,Ryder Matos,1
+G. Angella,A. Bizzarri,1
+Samir,A. Bizzarri,1
+G. Angella,Ali Adnan,1
+R. de Paul,B. Nuytinck,1
+Samir,A. Bar\u00e1k,1
+A. Bar\u00e1k,R. de Paul,1
+Ryder Matos,Ali Adnan,1
+G. Angella,R. de Paul,1
+Ali Adnan,S. Perica,1
+Samir,R. de Paul,1
+S. Perica,A. Bar\u00e1k,1
+A. Bar\u00e1k,Ryder Matos,1
+R. de Paul,A. Bar\u00e1k,1
+A. Bizzarri,Samir,1
+S. Perica,R. de Paul,1
+A. Bar\u00e1k,B. Nuytinck,1
+B. Nuytinck,Samir,1
+G. Angella,S. Perica,1
+R. de Paul,G. Angella,1
+Ryder Matos,Samir,1
+Maxi L\u00f3pez,Ali Adnan,1
+G. Angella,B. Nuytinck,1
+Ryder Matos,Maxi L\u00f3pez,1
+Maxi L\u00f3pez,A. Bizzarri,1
+Maxi L\u00f3pez,G. Angella,1
+G. Angella,Maxi L\u00f3pez,1
+J. Jankto,B. Nuytinck,1
+Ali Adnan,J. Jankto,1
+S. Perica,G. Angella,1
+Ali Adnan,Ryder Matos,1

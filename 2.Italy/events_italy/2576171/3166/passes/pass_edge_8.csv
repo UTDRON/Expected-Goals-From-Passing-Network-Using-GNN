@@ -1,0 +1,46 @@
+Source,Target,Weight
+F. Helander,A. Masina,5
+E. Pulgar,F. Helander,4
+A. Masina,F. Helander,4
+A. Masina,L. Krej\u010d\u00ed,3
+A. Poli,E. Pulgar,3
+L. Krej\u010d\u00ed,A. Masina,2
+L. Krej\u010d\u00ed,F. Helander,2
+F. Helander,L. Krej\u010d\u00ed,2
+F. Helander,E. Pulgar,2
+I. M'baye,A. Poli,2
+A. Poli,A. Masina,2
+A. Poli,F. Di Francesco,2
+E. Pulgar,A. Poli,2
+E. Pulgar,S. De Maio,1
+R. Palacio,I. M'baye,1
+I. M'baye,L. Krej\u010d\u00ed,1
+F. Di Francesco,I. M'baye,1
+B. D\u017eemaili,E. Pulgar,1
+A. Poli,B. D\u017eemaili,1
+A. Masina,E. Pulgar,1
+S. De Maio,E. Pulgar,1
+F. Helander,B. D\u017eemaili,1
+A. Mirante,F. Helander,1
+B. D\u017eemaili,A. Poli,1
+E. Pulgar,R. Palacio,1
+F. Helander,R. Palacio,1
+A. Poli,S. De Maio,1
+S. De Maio,L. Krej\u010d\u00ed,1
+F. Di Francesco,A. Poli,1
+R. Palacio,B. D\u017eemaili,1
+L. Krej\u010d\u00ed,S. De Maio,1
+B. D\u017eemaili,A. Mirante,1
+A. Masina,R. Palacio,1
+L. Krej\u010d\u00ed,E. Pulgar,1
+I. M'baye,B. D\u017eemaili,1
+A. Mirante,A. Poli,1
+R. Palacio,A. Poli,1
+S. De Maio,A. Poli,1
+A. Mirante,I. M'baye,1
+A. Poli,R. Palacio,1
+F. Helander,A. Mirante,1
+L. Krej\u010d\u00ed,A. Poli,1
+R. Palacio,A. Mirante,1
+R. Palacio,F. Helander,1
+B. D\u017eemaili,R. Palacio,1

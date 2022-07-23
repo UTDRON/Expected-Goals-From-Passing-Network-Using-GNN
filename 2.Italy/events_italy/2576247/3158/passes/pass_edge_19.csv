@@ -1,0 +1,17 @@
+Source,Target,Weight
+C. \u00dcnder,Juan Jesus,2
+F. Fazio,Alisson,2
+Juan Jesus,C. \u00dcnder,2
+Bruno Peres,F. Fazio,1
+E. D\u017eeko,F. Fazio,1
+A. Florenzi,R. Nainggolan,1
+Alisson,Juan Jesus,1
+F. Fazio,A. Florenzi,1
+K. Strootman,C. \u00dcnder,1
+Alisson,A. Kolarov,1
+A. Kolarov,K. Strootman,1
+K. Strootman,A. Florenzi,1
+Juan Jesus,E. D\u017eeko,1
+C. \u00dcnder,A. Kolarov,1
+A. Kolarov,Bruno Peres,1
+R. Nainggolan,K. Strootman,1

@@ -1,0 +1,58 @@
+Source,Target,Weight
+P. Sisto,Jonny,4
+G. Cabral,Jozabed,4
+Font\u00e0s,G. Cabral,4
+Jonny,Font\u00e0s,3
+Font\u00e0s,Jonny,2
+Jozabed,P. Sisto,2
+J. Guidetti,Iago Aspas,2
+Hugo Mallo,J. Guidetti,2
+D. Wass,J. Guidetti,2
+Jonny,P. Sisto,2
+Jozabed,Font\u00e0s,2
+G. Cabral,Rub\u00e9n Blanco,2
+Jozabed,Hugo Mallo,2
+S. Lobotka,Hugo Mallo,2
+Jozabed,G. Cabral,2
+Jonny,Jozabed,2
+Jozabed,S. Lobotka,2
+Font\u00e0s,Jozabed,1
+Jozabed,D. Wass,1
+Jonny,Rub\u00e9n Blanco,1
+D. Wass,Font\u00e0s,1
+Rub\u00e9n Blanco,S. Lobotka,1
+Jonny,S. Lobotka,1
+Jozabed,Jonny,1
+S. Lobotka,G. Cabral,1
+Hugo Mallo,Font\u00e0s,1
+Hugo Mallo,Iago Aspas,1
+G. Cabral,Font\u00e0s,1
+P. Sisto,D. Wass,1
+G. Cabral,P. Sisto,1
+Hugo Mallo,S. Lobotka,1
+E. Mor,Iago Aspas,1
+D. Wass,Jonny,1
+S. Lobotka,Jozabed,1
+Font\u00e0s,P. Sisto,1
+P. Sisto,Iago Aspas,1
+Iago Aspas,Jozabed,1
+J. Guidetti,Hugo Mallo,1
+J. Guidetti,G. Cabral,1
+G. Cabral,J. Guidetti,1
+J. Guidetti,P. Sisto,1
+E. Mor,Jonny,1
+Hugo Mallo,Jozabed,1
+J. Guidetti,E. Mor,1
+Jonny,G. Cabral,1
+S. Lobotka,J. Guidetti,1
+Font\u00e0s,S. Lobotka,1
+Rub\u00e9n Blanco,D. Wass,1
+Rub\u00e9n Blanco,J. Guidetti,1
+J. Guidetti,Jozabed,1
+Iago Aspas,Hugo Mallo,1
+Hugo Mallo,Jonny,1
+P. Sisto,Jozabed,1
+Iago Aspas,Font\u00e0s,1
+S. Lobotka,Jonny,1
+Jonny,D. Wass,1
+Iago Aspas,E. Mor,1

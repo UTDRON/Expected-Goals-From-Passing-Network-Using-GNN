@@ -1,0 +1,109 @@
+Source,Target,Weight
+Luis Hern\u00e1ndez,Javi Ontiveros,9
+Luis Hern\u00e1ndez,D. Rol\u00e1n,6
+D. Rol\u00e1n,Luis Hern\u00e1ndez,6
+P. Baysse,Luis Hern\u00e1ndez,6
+Chory Castro,Recio,5
+Z. Kuzmanovi\u0107,Chory Castro,5
+Chory Castro,Z. Kuzmanovi\u0107,5
+D. Rol\u00e1n,Recio,5
+Javi Ontiveros,Luis Hern\u00e1ndez,4
+D. Rol\u00e1n,Z. Kuzmanovi\u0107,4
+Miquel,Z. Kuzmanovi\u0107,4
+Recio,Javi Ontiveros,4
+Z. Kuzmanovi\u0107,Luis Hern\u00e1ndez,4
+Javi Ontiveros,P. Baysse,4
+Javi Ontiveros,Recio,4
+Chory Castro,Miquel,3
+Recio,Chory Castro,3
+D. Rol\u00e1n,Miquel,3
+P. Baysse,Javi Ontiveros,3
+A. Pe\u00f1aranda,D. Rol\u00e1n,3
+Diego Gonz\u00e1lez,Chory Castro,3
+Chory Castro,A. Pe\u00f1aranda,3
+Miquel,P. Baysse,3
+Javi Ontiveros,Miquel,3
+Luis Hern\u00e1ndez,A. Pe\u00f1aranda,3
+A. Pe\u00f1aranda,Chory Castro,3
+Javi Ontiveros,D. Rol\u00e1n,3
+Recio,D. Rol\u00e1n,3
+Z. Kuzmanovi\u0107,Miquel,3
+Recio,Z. Kuzmanovi\u0107,3
+Luis Hern\u00e1ndez,P. Baysse,3
+Miquel,Roberto,3
+P. Baysse,Z. Kuzmanovi\u0107,2
+P. Baysse,Roberto,2
+A. Pe\u00f1aranda,Miquel,2
+Z. Kuzmanovi\u0107,Recio,2
+Miquel,Javi Ontiveros,2
+Z. Kuzmanovi\u0107,P. Baysse,2
+Miquel,F. Ricca,2
+Recio,P. Baysse,2
+Miquel,A. Pe\u00f1aranda,2
+F. Ricca,Chory Castro,2
+Z. Kuzmanovi\u0107,A. Pe\u00f1aranda,2
+D. Rol\u00e1n,Javi Ontiveros,2
+Chory Castro,Javi Ontiveros,2
+Javi Ontiveros,Z. Kuzmanovi\u0107,2
+A. Pe\u00f1aranda,Recio,2
+Luis Hern\u00e1ndez,Borja Bast\u00f3n,2
+Luis Hern\u00e1ndez,Recio,2
+F. Ricca,Luis Hern\u00e1ndez,2
+Miquel,Luis Hern\u00e1ndez,2
+D. Rol\u00e1n,Chory Castro,2
+Roberto,Miquel,2
+Recio,Borja Bast\u00f3n,2
+F. Ricca,Miquel,2
+Recio,Miquel,2
+Z. Kuzmanovi\u0107,F. Ricca,2
+Javi Ontiveros,Chory Castro,2
+Miquel,D. Rol\u00e1n,2
+Chory Castro,D. Rol\u00e1n,2
+Recio,Luis Hern\u00e1ndez,2
+Diego Gonz\u00e1lez,Miquel,1
+Chory Castro,F. Ricca,1
+Borja Bast\u00f3n,F. Ricca,1
+F. Ricca,D. Rol\u00e1n,1
+Javi Ontiveros,A. Pe\u00f1aranda,1
+Z. Kuzmanovi\u0107,Javi Ontiveros,1
+Chory Castro,P. Baysse,1
+Miquel,Diego Gonz\u00e1lez,1
+D. Rol\u00e1n,A. Pe\u00f1aranda,1
+Luis Hern\u00e1ndez,Roberto,1
+Miquel,\u00c1lex Mula,1
+Z. Kuzmanovi\u0107,D. Rol\u00e1n,1
+A. Pe\u00f1aranda,Diego Gonz\u00e1lez,1
+P. Baysse,D. Rol\u00e1n,1
+Roberto,A. Pe\u00f1aranda,1
+P. Baysse,Recio,1
+Javi Ontiveros,\u00c1lex Mula,1
+Luis Hern\u00e1ndez,Z. Kuzmanovi\u0107,1
+Luis Hern\u00e1ndez,Miquel,1
+Borja Bast\u00f3n,D. Rol\u00e1n,1
+Recio,Diego Gonz\u00e1lez,1
+F. Ricca,Z. Kuzmanovi\u0107,1
+P. Baysse,Borja Bast\u00f3n,1
+P. Baysse,Chory Castro,1
+Chory Castro,Luis Hern\u00e1ndez,1
+A. Pe\u00f1aranda,Javi Ontiveros,1
+P. Baysse,Miquel,1
+Borja Bast\u00f3n,Javi Ontiveros,1
+A. Pe\u00f1aranda,Luis Hern\u00e1ndez,1
+Recio,A. Pe\u00f1aranda,1
+Miquel,Recio,1
+Recio,F. Ricca,1
+F. Ricca,Recio,1
+Roberto,Luis Hern\u00e1ndez,1
+Roberto,F. Ricca,1
+Luis Hern\u00e1ndez,Diego Gonz\u00e1lez,1
+Roberto,P. Baysse,1
+Borja Bast\u00f3n,Recio,1
+P. Baysse,F. Ricca,1
+Diego Gonz\u00e1lez,P. Baysse,1
+\u00c1lex Mula,Chory Castro,1
+Javi Ontiveros,Diego Gonz\u00e1lez,1
+Javi Ontiveros,F. Ricca,1
+Miquel,Chory Castro,1
+Borja Bast\u00f3n,P. Baysse,1
+F. Ricca,Javi Ontiveros,1
+A. Pe\u00f1aranda,P. Baysse,1

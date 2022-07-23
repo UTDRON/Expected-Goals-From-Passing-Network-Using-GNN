@@ -1,0 +1,20 @@
+Source,Target,Weight
+M. Sampirisi,A. Barberis,2
+A. Nalini,M. Trotta,2
+A. Barberis,A. Nalini,2
+D. Pavlovic,R. Mandragora,2
+R. Mandragora,M. Sampirisi,1
+R. Mandragora,A. Budimir,1
+R. Mandragora,D. Pavlovic,1
+A. Barberis,R. Mandragora,1
+A. Budimir,D. Pavlovic,1
+M. Trotta,A. Budimir,1
+A. Stoian,D. Pavlovic,1
+A. Budimir,M. Trotta,1
+M. Trotta,A. Barberis,1
+R. Mandragora,A. Barberis,1
+A. Nalini,A. Stoian,1
+M. Sampirisi,R. Mandragora,1
+A. Barberis,M. Sampirisi,1
+A. Stoian,A. Nalini,1
+D. Pavlovic,A. Stoian,1

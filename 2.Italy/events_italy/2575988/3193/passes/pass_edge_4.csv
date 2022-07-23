@@ -1,0 +1,25 @@
+Source,Target,Weight
+D. Biraschi,A. Bertolacci,3
+G. Lapadula,A. Taarabt,2
+L. Rossettini,A. Bertolacci,1
+G. Lapadula,D. Biraschi,1
+A. Bertolacci,D. Biraschi,1
+S. Gentiletti,G. Lapadula,1
+S. Gentiletti,Miguel Veloso,1
+A. Bertolacci,Miguel Veloso,1
+A. Taarabt,S. Gentiletti,1
+A. Bertolacci,A. Taarabt,1
+A. Taarabt,L. Rossettini,1
+S. Gentiletti,A. Taarabt,1
+Miguel Veloso,A. Taarabt,1
+L. Rossettini,G. Lapadula,1
+A. Taarabt,D. Lazovi\u0107,1
+A. Bertolacci,D. Lazovi\u0107,1
+M. Perin,S. Gentiletti,1
+A. Taarabt,D. Laxalt,1
+S. Gentiletti,M. Perin,1
+D. Lazovi\u0107,A. Taarabt,1
+D. Lazovi\u0107,L. Rossettini,1
+Miguel Veloso,S. Gentiletti,1
+D. Laxalt,D. Biraschi,1
+A. Taarabt,G. Lapadula,1

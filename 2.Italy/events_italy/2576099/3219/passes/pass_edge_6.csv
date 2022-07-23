@@ -1,0 +1,37 @@
+Source,Target,Weight
+D. Cataldi,G. Pu\u015fca\u015f,3
+A. Costa,B. Djimsiti,3
+A. Costa,D. Cataldi,3
+G. Pu\u015fca\u015f,G. Letizia,3
+D. Cataldi,G. Di Chiara,2
+B. Djimsiti,A. Costa,2
+G. Di Chiara,G. Pu\u015fca\u015f,2
+G. Letizia,M. D'Alessandro,2
+G. Di Chiara,V. Parigini,2
+B. Djimsiti,D. Cataldi,2
+D. Cataldi,B. Djimsiti,2
+G. Di Chiara,D. Cataldi,1
+G. Di Chiara,A. Brignoli,1
+A. Brignoli,A. Costa,1
+G. Di Chiara,A. Costa,1
+G. Pu\u015fca\u015f,G. Di Chiara,1
+A. Costa,G. Pu\u015fca\u015f,1
+L. Memushaj,A. Costa,1
+G. Letizia,A. Costa,1
+V. Parigini,D. Cataldi,1
+B. Djimsiti,G. Di Chiara,1
+R. Chibsah,M. D'Alessandro,1
+M. D'Alessandro,G. Di Chiara,1
+D. Cataldi,L. Memushaj,1
+A. Costa,G. Di Chiara,1
+G. Pu\u015fca\u015f,D. Cataldi,1
+G. Letizia,L. Memushaj,1
+B. Djimsiti,R. Chibsah,1
+D. Cataldi,A. Costa,1
+M. D'Alessandro,R. Chibsah,1
+G. Pu\u015fca\u015f,A. Costa,1
+V. Parigini,G. Di Chiara,1
+R. Chibsah,G. Letizia,1
+M. D'Alessandro,L. Memushaj,1
+L. Memushaj,D. Cataldi,1
+L. Memushaj,G. Letizia,1

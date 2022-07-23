@@ -1,0 +1,23 @@
+Source,Target,Weight
+A. Mirante,M. Destro,3
+M. Destro,S. Verdi,3
+S. Verdi,E. Pulgar,2
+A. Masina,M. Destro,2
+S. Verdi,A. Masina,2
+E. Pulgar,G. Donsah,2
+G. Donsah,E. Pulgar,1
+S. De Maio,S. Verdi,1
+A. Masina,S. De Maio,1
+B. D\u017eemaili,S. De Maio,1
+F. Helander,A. Mirante,1
+M. Destro,B. D\u017eemaili,1
+S. De Maio,A. Mirante,1
+A. Mirante,A. Masina,1
+E. Pulgar,A. Mirante,1
+E. Pulgar,F. Di Francesco,1
+A. Masina,E. Pulgar,1
+M. Destro,E. Pulgar,1
+G. Donsah,A. Masina,1
+E. Pulgar,A. Masina,1
+G. Donsah,A. Mirante,1
+A. Masina,F. Helander,1

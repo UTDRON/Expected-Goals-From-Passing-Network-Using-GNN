@@ -1,0 +1,41 @@
+Source,Target,Weight
+F. Fajr,Jorge Molina,2
+A. Ndiaye,F. Fajr,2
+G. Shibasaki,\u00c1ngel,2
+Antunes,Jorge Molina,2
+Djen\u00e9,Molinero,2
+F. Fajr,Djen\u00e9,2
+Bruno,Antunes,2
+Antunes,F. Fajr,1
+Bruno,Djen\u00e9,1
+Molinero,\u00c1ngel,1
+\u00c1ngel,G. Shibasaki,1
+Jorge Molina,G. Shibasaki,1
+Djen\u00e9,G. Shibasaki,1
+Antunes,Portillo,1
+Molinero,Guaita,1
+Djen\u00e9,F. Fajr,1
+Jorge Molina,F. Fajr,1
+\u00c1ngel,F. Fajr,1
+Jorge Molina,A. Ndiaye,1
+A. Ndiaye,G. Shibasaki,1
+Molinero,Djen\u00e9,1
+Jorge Molina,Antunes,1
+G. Shibasaki,Djen\u00e9,1
+Djen\u00e9,Antunes,1
+F. Fajr,Antunes,1
+Portillo,Bruno,1
+F. Fajr,Guaita,1
+Antunes,G. Shibasaki,1
+\u00c1ngel,Molinero,1
+Molinero,G. Shibasaki,1
+F. Fajr,A. Ndiaye,1
+G. Shibasaki,Portillo,1
+Guaita,Bruno,1
+G. Shibasaki,Molinero,1
+Portillo,Molinero,1
+Antunes,A. Ndiaye,1
+Guaita,F. Fajr,1
+Molinero,F. Fajr,1
+G. Shibasaki,Bruno,1
+F. Fajr,\u00c1ngel,1

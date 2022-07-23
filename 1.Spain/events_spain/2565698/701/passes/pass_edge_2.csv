@@ -1,0 +1,50 @@
+Source,Target,Weight
+T. Inui,Dani Garc\u00eda,5
+Arbilla,Jos\u00e9 \u00c1ngel,4
+Charles,T. Inui,3
+Dani Garc\u00eda,Arbilla,3
+Jos\u00e9 \u00c1ngel,Charles,3
+Dani Garc\u00eda,Jos\u00e9 \u00c1ngel,3
+Jos\u00e9 \u00c1ngel,T. Inui,2
+Ander Capa,Arbilla,2
+Arbilla,Sergi Enrich,2
+Dani Garc\u00eda,Paulo Oliveira,2
+Jos\u00e9 \u00c1ngel,Arbilla,2
+Arbilla,T. Inui,2
+Sergi Enrich,Dani Garc\u00eda,2
+Iv\u00e1n Alejo,Ander Capa,2
+Sergi Enrich,T. Inui,2
+Jos\u00e9 \u00c1ngel,Dani Garc\u00eda,1
+Dani Garc\u00eda,T. Inui,1
+M. Dmitrovi\u0107,Sergi Enrich,1
+Jos\u00e9 \u00c1ngel,Iv\u00e1n Alejo,1
+Joan Jord\u00e1n,Iv\u00e1n Alejo,1
+Arbilla,Joan Jord\u00e1n,1
+T. Inui,Sergi Enrich,1
+Arbilla,Ander Capa,1
+Paulo Oliveira,M. Dmitrovi\u0107,1
+T. Inui,Charles,1
+Paulo Oliveira,Arbilla,1
+M. Dmitrovi\u0107,Dani Garc\u00eda,1
+Iv\u00e1n Alejo,Jos\u00e9 \u00c1ngel,1
+Charles,Jos\u00e9 \u00c1ngel,1
+Charles,Ander Capa,1
+Ander Capa,Iv\u00e1n Alejo,1
+Paulo Oliveira,Dani Garc\u00eda,1
+Arbilla,M. Dmitrovi\u0107,1
+T. Inui,M. Dmitrovi\u0107,1
+Ander Capa,Paulo Oliveira,1
+Joan Jord\u00e1n,Arbilla,1
+Dani Garc\u00eda,Ander Capa,1
+Charles,Arbilla,1
+Paulo Oliveira,Joan Jord\u00e1n,1
+T. Inui,Jos\u00e9 \u00c1ngel,1
+Paulo Oliveira,Iv\u00e1n Alejo,1
+Ander Capa,Charles,1
+Arbilla,Paulo Oliveira,1
+Iv\u00e1n Alejo,Arbilla,1
+Jos\u00e9 \u00c1ngel,Sergi Enrich,1
+Jos\u00e9 \u00c1ngel,Paulo Oliveira,1
+Iv\u00e1n Alejo,Charles,1
+T. Inui,Iv\u00e1n Alejo,1
+M. Dmitrovi\u0107,Jos\u00e9 \u00c1ngel,1

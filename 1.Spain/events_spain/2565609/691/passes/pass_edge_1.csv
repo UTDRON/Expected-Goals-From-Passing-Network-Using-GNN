@@ -1,0 +1,90 @@
+Source,Target,Weight
+Marc Roca,Aar\u00f3n,8
+Aar\u00f3n,Marc Roca,7
+Mario Hermoso,Aar\u00f3n,6
+L\u00e9o Baptist\u00e3o,Sergio S\u00e1nchez,6
+Javi Fuego,Sergi Darder,6
+Sergi Darder,Sergio S\u00e1nchez,5
+Javi Fuego,Marc Roca,5
+Aar\u00f3n,Jurado,5
+Marc Roca,Jurado,5
+Sergio S\u00e1nchez,Javi Fuego,4
+David L\u00f3pez,Mario Hermoso,4
+Aar\u00f3n,Gerard Moreno,4
+Sergio S\u00e1nchez,David L\u00f3pez,4
+David L\u00f3pez,Sergi Darder,3
+Sergi Darder,Javi Fuego,3
+Mario Hermoso,Pau L\u00f3pez,3
+L\u00e9o Baptist\u00e3o,Sergi Darder,3
+Gerard Moreno,Marc Roca,3
+Jurado,Aar\u00f3n,3
+Pau L\u00f3pez,Gerard Moreno,3
+Marc Roca,L\u00e9o Baptist\u00e3o,3
+Jurado,Mario Hermoso,3
+Aar\u00f3n,Mario Hermoso,3
+Mario Hermoso,Marc Roca,3
+Sergio S\u00e1nchez,L\u00e9o Baptist\u00e3o,3
+Marc Roca,Mario Hermoso,3
+Jurado,Javi Fuego,3
+Gerard Moreno,Aar\u00f3n,3
+Gerard Moreno,Javi Fuego,3
+Mario Hermoso,Gerard Moreno,3
+Javi Fuego,Mario Hermoso,3
+Pau L\u00f3pez,L\u00e9o Baptist\u00e3o,2
+Sergio S\u00e1nchez,Jurado,2
+L\u00e9o Baptist\u00e3o,David L\u00f3pez,2
+Gerard Moreno,Jurado,2
+Sergio S\u00e1nchez,Sergi Darder,2
+Sergi Darder,Marc Roca,2
+Jurado,Sergio S\u00e1nchez,2
+Sergio S\u00e1nchez,Gerard Moreno,2
+Gerard Moreno,Sergio S\u00e1nchez,2
+Sergio S\u00e1nchez,Pau L\u00f3pez,2
+Gerard Moreno,L\u00e9o Baptist\u00e3o,2
+Javi Fuego,Pau L\u00f3pez,2
+Pau L\u00f3pez,Sergio S\u00e1nchez,2
+Javi Fuego,David L\u00f3pez,2
+Pau L\u00f3pez,David L\u00f3pez,2
+Sergi Darder,L\u00e9o Baptist\u00e3o,2
+Jurado,Marc Roca,2
+L\u00e9o Baptist\u00e3o,Gerard Moreno,2
+David L\u00f3pez,Javi Fuego,2
+Sergi Darder,Pau L\u00f3pez,2
+Marc Roca,Gerard Moreno,1
+David L\u00f3pez,Aar\u00f3n,1
+Pau L\u00f3pez,Mario Hermoso,1
+Jurado,L\u00e9o Baptist\u00e3o,1
+Mario Hermoso,L\u00e9o Baptist\u00e3o,1
+Aar\u00f3n,Sergi Darder,1
+Aar\u00f3n,Pau L\u00f3pez,1
+Sergio S\u00e1nchez,Marc Roca,1
+L\u00e9o Baptist\u00e3o,Javi Fuego,1
+Sergi Darder,Mario Hermoso,1
+L\u00e9o Baptist\u00e3o,Aar\u00f3n,1
+Sergi Darder,Gerard Moreno,1
+David L\u00f3pez,Sergio S\u00e1nchez,1
+L\u00e9o Baptist\u00e3o,Pau L\u00f3pez,1
+Marc Roca,David L\u00f3pez,1
+Sergio S\u00e1nchez,Mario Hermoso,1
+Pau L\u00f3pez,Aar\u00f3n,1
+Mario Hermoso,Sergio S\u00e1nchez,1
+Mario Hermoso,Javi Fuego,1
+Aar\u00f3n,Sergio S\u00e1nchez,1
+Marc Roca,Javi Fuego,1
+Sergi Darder,Aar\u00f3n,1
+David L\u00f3pez,Gerard Moreno,1
+Marc Roca,Sergio S\u00e1nchez,1
+Marc Roca,Sergi Darder,1
+Marc Roca,Pau L\u00f3pez,1
+L\u00e9o Baptist\u00e3o,Marc Roca,1
+Gerard Moreno,Pau L\u00f3pez,1
+David L\u00f3pez,Marc Roca,1
+Aar\u00f3n,L\u00e9o Baptist\u00e3o,1
+David L\u00f3pez,L\u00e9o Baptist\u00e3o,1
+Pau L\u00f3pez,Jurado,1
+Mario Hermoso,David L\u00f3pez,1
+Mario Hermoso,Sergi Darder,1
+Aar\u00f3n,David L\u00f3pez,1
+Pau L\u00f3pez,Javi Fuego,1
+Jurado,David L\u00f3pez,1
+Javi Fuego,L\u00e9o Baptist\u00e3o,1

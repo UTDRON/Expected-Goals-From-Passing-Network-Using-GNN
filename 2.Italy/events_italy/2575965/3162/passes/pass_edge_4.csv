@@ -1,0 +1,17 @@
+Source,Target,Weight
+Wallace,S. de Vrij,2
+S. de Vrij,\u015e. Radu,2
+\u015e. Radu,S. Luli\u0107,2
+M. Parolo,D. Basta,2
+S. Luli\u0107,M. Parolo,1
+D. Basta,M. Parolo,1
+S. Luli\u0107,Luis Alberto,1
+M. Parolo,S. de Vrij,1
+S. de Vrij,D. Basta,1
+M. Parolo,S. Luli\u0107,1
+S. Luli\u0107,Wallace,1
+D. Basta,S. Milinkovi\u0107-Savi\u0107,1
+D. Basta,Wallace,1
+D. Basta,Luis Alberto,1
+Luis Alberto,D. Basta,1
+Luis Alberto,M. Parolo,1

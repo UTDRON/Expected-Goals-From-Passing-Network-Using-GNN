@@ -1,0 +1,71 @@
+Source,Target,Weight
+S. Moore,Jos\u00e9 Luis Morales,6
+To\u00f1o,Ivi,6
+To\u00f1o,E. Bardhi,6
+Ivi,To\u00f1o,5
+Jos\u00e9 Luis Morales,C. Doukour\u00e9,4
+Ivi,E. Bardhi,4
+Rober,Chema,4
+E. Bardhi,To\u00f1o,4
+Jos\u00e9 Luis Morales,S. Moore,3
+S. Moore,E. Bardhi,3
+E. Bardhi,Rober,3
+E. Bardhi,S. Moore,3
+Chema,To\u00f1o,3
+Rober,Nano,2
+Campa\u00f1a,S. Moore,2
+S. Moore,Campa\u00f1a,2
+Rober,C. Doukour\u00e9,2
+S. Moore,Rober,2
+To\u00f1o,C. Doukour\u00e9,2
+To\u00f1o,Oier,2
+C. Doukour\u00e9,E. Bardhi,2
+C. Doukour\u00e9,To\u00f1o,2
+E. \u00dcnal,S. Moore,2
+Nano,E. Bardhi,2
+Rober,S. Moore,2
+E. Bardhi,C. Doukour\u00e9,2
+Campa\u00f1a,To\u00f1o,2
+E. Bardhi,Ivi,2
+C. Doukour\u00e9,S. Moore,2
+Ivi,Nano,1
+E. Bardhi,Campa\u00f1a,1
+Jos\u00e9 Luis Morales,Nano,1
+S. Moore,C. Doukour\u00e9,1
+Rober,E. \u00dcnal,1
+Campa\u00f1a,Rober,1
+Ivi,Rober,1
+E. Bardhi,Chema,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+C. Doukour\u00e9,Rober,1
+Jos\u00e9 Luis Morales,E. Bardhi,1
+Campa\u00f1a,C. Doukour\u00e9,1
+Nano,To\u00f1o,1
+Rober,Jos\u00e9 Luis Morales,1
+Nano,Ivi,1
+Nano,E. \u00dcnal,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+Campa\u00f1a,E. \u00dcnal,1
+Chema,Rober,1
+E. \u00dcnal,Campa\u00f1a,1
+E. Bardhi,Jos\u00e9 Luis Morales,1
+C. Doukour\u00e9,Chema,1
+C. Doukour\u00e9,Jos\u00e9 Luis Morales,1
+To\u00f1o,Rober,1
+Nano,S. Moore,1
+Chema,E. Bardhi,1
+C. Doukour\u00e9,Nano,1
+Samu Garc\u00eda,Rober,1
+S. Moore,To\u00f1o,1
+C. Doukour\u00e9,Samu Garc\u00eda,1
+C. Doukour\u00e9,Ivi,1
+Samu Garc\u00eda,S. Moore,1
+Chema,Campa\u00f1a,1
+Ivi,Campa\u00f1a,1
+Oier,Samu Garc\u00eda,1
+Oier,Chema,1
+To\u00f1o,Campa\u00f1a,1
+Oier,Rober,1
+E. Bardhi,Nano,1
+S. Moore,Oier,1
+Chema,Ivi,1

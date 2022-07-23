@@ -1,0 +1,52 @@
+Source,Target,Weight
+Suso,I. Abate,3
+F. Kessi\u00e9,Suso,3
+I. Abate,L. Bonucci,3
+I. Abate,F. Kessi\u00e9,3
+L. Biglia,I. Abate,3
+H. \u00c7alhano\u011flu,Suso,2
+A. Romagnoli,L. Biglia,2
+L. Biglia,P. Cutrone,2
+F. Kessi\u00e9,L. Biglia,2
+P. Cutrone,F. Kessi\u00e9,2
+A. Romagnoli,I. Abate,2
+L. Biglia,A. Romagnoli,2
+F. Kessi\u00e9,A. Romagnoli,2
+H. \u00c7alhano\u011flu,L. Biglia,1
+A. Romagnoli,R. Rodr\u00edguez,1
+F. Kessi\u00e9,R. Rodr\u00edguez,1
+L. Bonucci,A. Romagnoli,1
+L. Biglia,Suso,1
+I. Abate,H. \u00c7alhano\u011flu,1
+H. \u00c7alhano\u011flu,F. Kessi\u00e9,1
+G. Donnarumma,A. Romagnoli,1
+P. Cutrone,H. \u00c7alhano\u011flu,1
+L. Bonucci,G. Donnarumma,1
+L. Bonucci,F. Kessi\u00e9,1
+P. Cutrone,L. Biglia,1
+P. Cutrone,I. Abate,1
+Suso,L. Biglia,1
+G. Donnarumma,P. Cutrone,1
+G. Bonaventura,F. Kessi\u00e9,1
+I. Abate,G. Bonaventura,1
+G. Bonaventura,A. Romagnoli,1
+L. Biglia,F. Kessi\u00e9,1
+A. Romagnoli,G. Bonaventura,1
+F. Kessi\u00e9,I. Abate,1
+I. Abate,L. Biglia,1
+Suso,P. Cutrone,1
+Suso,L. Bonucci,1
+L. Bonucci,P. Cutrone,1
+A. Romagnoli,H. \u00c7alhano\u011flu,1
+Suso,F. Kessi\u00e9,1
+I. Abate,P. Cutrone,1
+H. \u00c7alhano\u011flu,I. Abate,1
+F. Kessi\u00e9,L. Bonucci,1
+R. Rodr\u00edguez,A. Romagnoli,1
+G. Bonaventura,L. Biglia,1
+I. Abate,Suso,1
+L. Bonucci,H. \u00c7alhano\u011flu,1
+A. Romagnoli,G. Donnarumma,1
+H. \u00c7alhano\u011flu,P. Cutrone,1
+R. Rodr\u00edguez,H. \u00c7alhano\u011flu,1
+P. Cutrone,G. Bonaventura,1

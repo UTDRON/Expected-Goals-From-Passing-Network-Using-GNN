@@ -1,0 +1,66 @@
+Source,Target,Weight
+M. Ham\u0161\u00edk,K. Koulibaly,7
+K. Koulibaly,M. Ham\u0161\u00edk,6
+F. Ghoulam,M. Ham\u0161\u00edk,6
+Jorginho,K. Koulibaly,4
+F. Ghoulam,K. Koulibaly,4
+K. Koulibaly,F. Ghoulam,4
+Jorginho,Allan,3
+E. Hysaj,A. Ounas,3
+K. Koulibaly,Albiol,3
+K. Koulibaly,Jorginho,3
+E. Giaccherini,F. Ghoulam,3
+M. Ham\u0161\u00edk,Jorginho,3
+Jorginho,M. Ham\u0161\u00edk,3
+Allan,Jorginho,3
+Albiol,Jorginho,3
+E. Giaccherini,M. Ham\u0161\u00edk,2
+E. Hysaj,Albiol,2
+Albiol,K. Koulibaly,2
+Jorginho,F. Ghoulam,2
+M. Ham\u0161\u00edk,E. Giaccherini,2
+A. Ounas,E. Hysaj,2
+K. Koulibaly,E. Giaccherini,2
+M. Ham\u0161\u00edk,Albiol,2
+F. Ghoulam,Jorginho,2
+M. Ham\u0161\u00edk,F. Ghoulam,2
+K. Koulibaly,Allan,2
+M. Ham\u0161\u00edk,E. Hysaj,1
+D. Mertens,Allan,1
+Allan,E. Hysaj,1
+Pepe Reina,K. Koulibaly,1
+Pepe Reina,Jorginho,1
+Albiol,A. Ounas,1
+Jorginho,M. Rog,1
+Jorginho,Albiol,1
+F. Ghoulam,E. Giaccherini,1
+A. Ounas,D. Mertens,1
+E. Hysaj,K. Koulibaly,1
+Allan,Albiol,1
+Allan,F. Ghoulam,1
+M. Rog,Jorginho,1
+A. Ounas,M. Rog,1
+E. Hysaj,M. Rog,1
+M. Ham\u0161\u00edk,D. Mertens,1
+Pepe Reina,Albiol,1
+E. Hysaj,Jorginho,1
+F. Ghoulam,E. Hysaj,1
+D. Mertens,E. Hysaj,1
+A. Ounas,F. Ghoulam,1
+Jorginho,D. Mertens,1
+Albiol,E. Hysaj,1
+E. Hysaj,Pepe Reina,1
+E. Giaccherini,Jorginho,1
+E. Giaccherini,K. Koulibaly,1
+Allan,E. Giaccherini,1
+Jorginho,E. Giaccherini,1
+Albiol,Pepe Reina,1
+M. Ham\u0161\u00edk,A. Ounas,1
+Jorginho,Pepe Reina,1
+D. Mertens,A. Ounas,1
+Albiol,M. Ham\u0161\u00edk,1
+M. Rog,A. Ounas,1
+Albiol,Allan,1
+A. Ounas,M. Ham\u0161\u00edk,1
+M. Rog,E. Hysaj,1
+Jorginho,E. Hysaj,1

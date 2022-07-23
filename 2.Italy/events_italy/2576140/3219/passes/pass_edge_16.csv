@@ -1,0 +1,18 @@
+Source,Target,Weight
+C. Lombardi,B. Djimsiti,3
+L. Memushaj,C. Lombardi,1
+L. Memushaj,N. Viola,1
+N. Viola,L. Memushaj,1
+N. Viola,M. D'Alessandro,1
+L. Venuti,M. Coda,1
+B. Djimsiti,N. Viola,1
+B. Djimsiti,E. Brignola,1
+M. Coda,E. Brignola,1
+N. Viola,C. Lombardi,1
+E. Brignola,L. Memushaj,1
+B. Djimsiti,V. Belec,1
+L. Venuti,N. Viola,1
+A. Costa,L. Venuti,1
+V. Belec,F. Lucioni,1
+M. D'Alessandro,C. Lombardi,1
+F. Lucioni,L. Venuti,1

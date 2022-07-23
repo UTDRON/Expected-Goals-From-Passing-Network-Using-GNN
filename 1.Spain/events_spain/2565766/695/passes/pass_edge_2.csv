@@ -1,0 +1,79 @@
+Source,Target,Weight
+J. Lerma,E. Boateng,3
+Ivi,Coke,3
+Coke,S. Luki\u0107,3
+Coke,J. Lerma,3
+C. Doukour\u00e9,Rober,3
+S. Luki\u0107,C. Doukour\u00e9,3
+Sergio Postigo,Luna,3
+Luna,Sergio Postigo,3
+Oier,Rober,2
+Ivi,Rober,2
+Coke,Jos\u00e9 Luis Morales,2
+E. Boateng,Ivi,2
+Rober,Ivi,2
+S. Luki\u0107,Coke,2
+C. Doukour\u00e9,Coke,2
+Rober,Jos\u00e9 Luis Morales,2
+Sergio Postigo,E. Boateng,2
+Luna,C. Doukour\u00e9,2
+Rober,Coke,2
+Sergio Postigo,Coke,2
+Rober,Oier,2
+Coke,E. Boateng,2
+E. Boateng,Jos\u00e9 Luis Morales,2
+Jos\u00e9 Luis Morales,Sergio Postigo,2
+C. Doukour\u00e9,Luna,2
+E. Boateng,J. Lerma,2
+Sergio Postigo,S. Luki\u0107,2
+Jos\u00e9 Luis Morales,S. Luki\u0107,2
+J. Lerma,Ivi,2
+J. Lerma,Rober,2
+S. Luki\u0107,E. Boateng,1
+J. Lerma,S. Luki\u0107,1
+Jos\u00e9 Luis Morales,Oier,1
+Sergio Postigo,Ivi,1
+Rober,J. Lerma,1
+Jos\u00e9 Luis Morales,Ivi,1
+Oier,Luna,1
+Oier,S. Luki\u0107,1
+Rober,Sergio Postigo,1
+Jos\u00e9 Luis Morales,Rober,1
+Coke,Oier,1
+S. Luki\u0107,Luna,1
+Oier,Ivi,1
+Rober,S. Luki\u0107,1
+Luna,E. Boateng,1
+Luna,Oier,1
+E. Boateng,C. Doukour\u00e9,1
+E. Boateng,Oier,1
+Coke,C. Doukour\u00e9,1
+C. Doukour\u00e9,Sergio Postigo,1
+E. Boateng,S. Luki\u0107,1
+E. Boateng,Coke,1
+S. Luki\u0107,Oier,1
+E. Boateng,Rober,1
+Oier,Coke,1
+Luna,Ivi,1
+Coke,Ivi,1
+E. Boateng,Sergio Postigo,1
+Ivi,E. Boateng,1
+J. Lerma,Jos\u00e9 Luis Morales,1
+J. Lerma,Sergio Postigo,1
+Ivi,Luna,1
+Sergio Postigo,J. Lerma,1
+Rober,E. Boateng,1
+Jos\u00e9 Luis Morales,E. Boateng,1
+Sergio Postigo,Rober,1
+Rober,C. Doukour\u00e9,1
+Ivi,J. Lerma,1
+Oier,E. Boateng,1
+S. Luki\u0107,Sergio Postigo,1
+Ivi,Jos\u00e9 Luis Morales,1
+S. Luki\u0107,J. Lerma,1
+E. Boateng,Luna,1
+Luna,J. Lerma,1
+J. Lerma,Coke,1
+S. Luki\u0107,Rober,1
+Coke,Sergio Postigo,1
+Ivi,Sergio Postigo,1

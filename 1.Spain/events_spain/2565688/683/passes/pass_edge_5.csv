@@ -1,0 +1,44 @@
+Source,Target,Weight
+Keko,Recio,4
+R. Rosales,Keko,4
+Recio,R. Rosales,3
+Keko,R. Rosales,3
+Borja Bast\u00f3n,Chory Castro,3
+Chory Castro,Borja Bast\u00f3n,3
+A. Pe\u00f1aranda,Luis Hern\u00e1ndez,2
+Recio,Keko,2
+Luis Hern\u00e1ndez,Recio,2
+R. Rosales,Recio,2
+Y. En-Nesyri,R. Rosales,2
+R. Rosales,Y. En-Nesyri,2
+Adri\u00e1n,Borja Bast\u00f3n,2
+Chory Castro,Adri\u00e1n,2
+Borja Bast\u00f3n,Diego Gonz\u00e1lez,2
+Recio,Chory Castro,2
+R. Rosales,Borja Bast\u00f3n,2
+Adri\u00e1n,R. Rosales,1
+Borja Bast\u00f3n,Y. En-Nesyri,1
+P. Baysse,Adri\u00e1n,1
+P. Baysse,Borja Bast\u00f3n,1
+Roberto,Chory Castro,1
+Diego Gonz\u00e1lez,Borja Bast\u00f3n,1
+Chory Castro,A. Pe\u00f1aranda,1
+A. Pe\u00f1aranda,Keko,1
+Recio,Borja Bast\u00f3n,1
+A. Pe\u00f1aranda,Roberto,1
+Luis Hern\u00e1ndez,Keko,1
+Diego Gonz\u00e1lez,Chory Castro,1
+Keko,P. Baysse,1
+Borja Bast\u00f3n,Luis Hern\u00e1ndez,1
+Chory Castro,Keko,1
+Y. En-Nesyri,Chory Castro,1
+Borja Bast\u00f3n,Adri\u00e1n,1
+Borja Bast\u00f3n,Recio,1
+Adri\u00e1n,Recio,1
+Luis Hern\u00e1ndez,R. Rosales,1
+Recio,Luis Hern\u00e1ndez,1
+Borja Bast\u00f3n,A. Pe\u00f1aranda,1
+Keko,A. Pe\u00f1aranda,1
+Diego Gonz\u00e1lez,P. Baysse,1
+Recio,A. Pe\u00f1aranda,1
+P. Baysse,Diego Gonz\u00e1lez,1

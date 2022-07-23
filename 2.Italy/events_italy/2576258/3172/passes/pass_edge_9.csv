@@ -1,0 +1,36 @@
+Source,Target,Weight
+A. G\u00f3mez,M. de Roon,3
+A. G\u00f3mez,R. Freuler,2
+R. Freuler,A. Masiello,2
+M. de Roon,Rafael Tol\u00f3i,2
+A. Masiello,A. G\u00f3mez,2
+R. Freuler,A. G\u00f3mez,2
+A. Masiello,B. Cristante,2
+M. de Roon,A. G\u00f3mez,2
+Rafael Tol\u00f3i,R. Freuler,2
+R. Freuler,R. Gosens,1
+Rafael Tol\u00f3i,B. Cristante,1
+B. Cristante,T. Castagne,1
+T. Castagne,M. de Roon,1
+J. Palomino,B. Cristante,1
+A. Masiello,J. Palomino,1
+R. Gosens,J. Palomino,1
+Rafael Tol\u00f3i,A. Masiello,1
+R. Freuler,M. de Roon,1
+B. Cristante,R. Freuler,1
+B. Cristante,J. Palomino,1
+P. Gollini,Rafael Tol\u00f3i,1
+B. Cristante,A. Masiello,1
+T. Castagne,A. Petagna,1
+R. Gosens,A. Masiello,1
+J. Palomino,T. Castagne,1
+A. Petagna,Rafael Tol\u00f3i,1
+M. de Roon,R. Gosens,1
+P. Gollini,A. Masiello,1
+Rafael Tol\u00f3i,P. Gollini,1
+A. G\u00f3mez,B. Cristante,1
+J. Palomino,P. Gollini,1
+J. Palomino,Rafael Tol\u00f3i,1
+Rafael Tol\u00f3i,M. de Roon,1
+A. Masiello,Rafael Tol\u00f3i,1
+M. de Roon,R. Freuler,1

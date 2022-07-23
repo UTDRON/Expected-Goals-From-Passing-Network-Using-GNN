@@ -1,0 +1,109 @@
+Source,Target,Weight
+R\u00f4mulo,A. Caracciolo,7
+S. Souprayen,Nicolas,6
+S. Souprayen,M. Fares,5
+A. Caracciolo,S. Souprayen,5
+M. Fossati,D. Verde,5
+A. Caracciolo,M. Fossati,5
+Nicolas,S. Souprayen,5
+Daniel Bessa,M. Fares,5
+M. Fares,S. Souprayen,5
+M. Fares,Daniel Bessa,5
+R\u00f4mulo,D. Verde,4
+Daniel Bessa,M. Fossati,4
+Nicolas,A. Caracciolo,4
+Daniel Bessa,R\u00f4mulo,4
+M. Fossati,Nicolas,4
+S. Souprayen,M. Kean,4
+Daniel Bessa,S. Souprayen,4
+M. Fossati,Daniel Bessa,4
+Nicolas,T. Heurtaux,4
+A. Caracciolo,Nicolas,4
+M. Kean,M. Fares,4
+T. Heurtaux,A. Caracciolo,3
+S. Souprayen,A. Caracciolo,3
+D. Verde,R\u00f4mulo,3
+M. Fares,Lee Seung-Woo,3
+Daniel Bessa,A. Caracciolo,3
+M. Fares,M. Kean,3
+R\u00f4mulo,M. Fossati,3
+M. Fossati,Lee Seung-Woo,3
+M. Fossati,T. Heurtaux,3
+G. Pazzini,M. Fossati,3
+D. Verde,A. Cerci,3
+Lee Seung-Woo,M. Fares,3
+M. Fossati,R\u00f4mulo,3
+R\u00f4mulo,Daniel Bessa,3
+T. Heurtaux,M. Fares,3
+Nicolas,M. Fares,2
+A. Cerci,Daniel Bessa,2
+Nicolas,R\u00f4mulo,2
+M. Fares,G. Pazzini,2
+Lee Seung-Woo,Daniel Bessa,2
+A. Caracciolo,M. Fares,2
+Lee Seung-Woo,G. Pazzini,2
+T. Heurtaux,Nicolas,2
+T. Heurtaux,S. Souprayen,2
+D. Verde,M. Fossati,2
+A. Caracciolo,R\u00f4mulo,2
+A. Cerci,M. Fossati,2
+Daniel Bessa,T. Heurtaux,2
+M. Kean,Daniel Bessa,2
+M. Fares,R\u00f4mulo,2
+S. Souprayen,T. Heurtaux,2
+M. Fares,M. Fossati,2
+A. Caracciolo,G. Pazzini,2
+R\u00f4mulo,Nicolas,2
+M. Fares,M. Zaccagni,2
+G. Pazzini,M. Zaccagni,2
+S. Souprayen,M. Fossati,2
+A. Caracciolo,Daniel Bessa,2
+M. Fossati,A. Caracciolo,2
+Lee Seung-Woo,S. Souprayen,2
+G. Pazzini,Daniel Bessa,2
+S. Souprayen,R\u00f4mulo,1
+R\u00f4mulo,S. Souprayen,1
+Daniel Bessa,Lee Seung-Woo,1
+R\u00f4mulo,Lee Seung-Woo,1
+M. Fares,T. Heurtaux,1
+Daniel Bessa,Nicolas,1
+M. Zaccagni,R\u00f4mulo,1
+M. Fossati,S. Souprayen,1
+M. Kean,Nicolas,1
+T. Heurtaux,G. Pazzini,1
+S. Souprayen,Daniel Bessa,1
+Nicolas,Daniel Bessa,1
+M. Fares,Nicolas,1
+S. Souprayen,G. Pazzini,1
+G. Pazzini,Lee Seung-Woo,1
+Lee Seung-Woo,Nicolas,1
+M. Kean,S. Souprayen,1
+T. Heurtaux,Daniel Bessa,1
+Daniel Bessa,G. Pazzini,1
+M. Zaccagni,M. Fares,1
+T. Heurtaux,M. Fossati,1
+Nicolas,G. Pazzini,1
+G. Pazzini,R\u00f4mulo,1
+D. Verde,Daniel Bessa,1
+G. Pazzini,M. Kean,1
+D. Verde,A. Caracciolo,1
+Nicolas,D. Verde,1
+A. Cerci,R\u00f4mulo,1
+Daniel Bessa,D. Verde,1
+Nicolas,M. Fossati,1
+Daniel Bessa,A. Cerci,1
+D. Verde,G. Pazzini,1
+D. Verde,T. Heurtaux,1
+T. Heurtaux,D. Verde,1
+A. Caracciolo,T. Heurtaux,1
+D. Verde,M. Fares,1
+Nicolas,M. Kean,1
+Nicolas,A. Cerci,1
+A. Caracciolo,M. Kean,1
+M. Fares,A. Caracciolo,1
+M. Kean,M. Fossati,1
+S. Souprayen,Lee Seung-Woo,1
+M. Kean,R\u00f4mulo,1
+M. Zaccagni,Nicolas,1
+M. Fossati,M. Fares,1
+G. Pazzini,D. Verde,1

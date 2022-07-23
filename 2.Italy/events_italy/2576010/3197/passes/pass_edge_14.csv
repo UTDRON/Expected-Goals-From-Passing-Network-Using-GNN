@@ -1,0 +1,14 @@
+Source,Target,Weight
+A. Ajeti,F. Ceccherini,1
+A. Stoian,A. Cordaz,1
+M. Trotta,R. Mandragora,1
+A. Ajeti,B. Martella,1
+B. Martella,A. Stoian,1
+A. Cordaz,Simy,1
+M. Sampirisi,A. Ajeti,1
+R. Mandragora,A. Barberis,1
+A. Barberis,M. Sampirisi,1
+F. Ceccherini,M. Rohd\u00e9n,1
+A. Stoian,M. Trotta,1
+M. Rohd\u00e9n,Simy,1
+Simy,A. Stoian,1

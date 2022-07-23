@@ -1,0 +1,36 @@
+Source,Target,Weight
+S. Sirigu,N. N'Koulou,3
+N. N'Koulou,S. Sirigu,3
+C. Molinaro,D. Baselli,2
+D. Baselli,E. Moretti,2
+S. Edera,T. Rinc\u00f3n,2
+N. Burdisso,S. Sirigu,2
+S. Edera,L. De Silvestri,2
+N. N'Koulou,N. Burdisso,1
+E. Moretti,C. Molinaro,1
+D. Baselli,C. Molinaro,1
+A. Belotti,D. Baselli,1
+S. Sirigu,E. Moretti,1
+S. Sirigu,S. Edera,1
+L. De Silvestri,A. Belotti,1
+N. Burdisso,L. De Silvestri,1
+E. Moretti,A. Ljaji\u0107,1
+L. De Silvestri,N. Burdisso,1
+A. Belotti,N. Burdisso,1
+S. Edera,A. Belotti,1
+A. Ljaji\u0107,D. Baselli,1
+N. N'Koulou,T. Rinc\u00f3n,1
+E. Moretti,S. Sirigu,1
+T. Rinc\u00f3n,N. Burdisso,1
+D. Baselli,A. Ljaji\u0107,1
+S. Sirigu,D. Baselli,1
+T. Rinc\u00f3n,A. Belotti,1
+L. De Silvestri,S. Edera,1
+A. Ljaji\u0107,C. Molinaro,1
+T. Rinc\u00f3n,L. De Silvestri,1
+N. N'Koulou,S. Edera,1
+A. Belotti,N. N'Koulou,1
+C. Molinaro,A. Ljaji\u0107,1
+D. Baselli,N. N'Koulou,1
+N. Burdisso,S. Edera,1
+L. De Silvestri,N. N'Koulou,1

@@ -1,0 +1,83 @@
+Source,Target,Weight
+S. Lobotka,P. Hern\u00e1ndez,11
+P. Hern\u00e1ndez,Jonny,10
+P. Sisto,Jonny,9
+Jonny,P. Hern\u00e1ndez,8
+Jonny,P. Sisto,8
+P. Hern\u00e1ndez,G. Cabral,8
+Hugo Mallo,S. Lobotka,7
+S. Lobotka,Hugo Mallo,7
+P. Hern\u00e1ndez,Hugo Mallo,6
+D. Wass,S. Lobotka,6
+Hugo Mallo,P. Hern\u00e1ndez,6
+G. Cabral,S. Lobotka,6
+Jonny,S. Lobotka,6
+Hugo Mallo,G. Cabral,5
+Iago Aspas,S. Lobotka,5
+G. Cabral,Hugo Mallo,5
+Hugo Mallo,P. Sisto,5
+P. Hern\u00e1ndez,Iago Aspas,4
+Hugo Mallo,Iago Aspas,4
+G. Cabral,P. Hern\u00e1ndez,4
+G. Cabral,D. Wass,4
+Sergi G\u00f3mez,Jonny,4
+P. Hern\u00e1ndez,S. Lobotka,4
+P. Hern\u00e1ndez,P. Sisto,4
+Iago Aspas,Sergi G\u00f3mez,4
+S. Lobotka,G. Cabral,3
+S. Lobotka,D. Wass,3
+Sergi G\u00f3mez,G. Cabral,3
+Jonny,Sergi G\u00f3mez,3
+Iago Aspas,Hugo Mallo,3
+G. Cabral,Sergi G\u00f3mez,3
+S. Lobotka,P. Sisto,3
+D. Wass,Hugo Mallo,3
+Sergi G\u00f3mez,P. Hern\u00e1ndez,3
+Jonny,Iago Aspas,3
+S. Lobotka,Jonny,3
+S. Lobotka,Iago Aspas,2
+Iago Aspas,P. Hern\u00e1ndez,2
+P. Sisto,D. Wass,2
+Sergio \u00c1lvarez,P. Hern\u00e1ndez,2
+P. Hern\u00e1ndez,Maxi G\u00f3mez,2
+Maxi G\u00f3mez,D. Wass,2
+E. Mor,Jonny,2
+S. Lobotka,Sergi G\u00f3mez,2
+D. Wass,Iago Aspas,2
+P. Sisto,Hugo Mallo,2
+Iago Aspas,D. Wass,2
+P. Hern\u00e1ndez,D. Wass,2
+P. Sisto,Iago Aspas,2
+D. Wass,G. Cabral,2
+P. Sisto,G. Cabral,2
+Jonny,Sergio \u00c1lvarez,1
+P. Sisto,E. Mor,1
+Sergio \u00c1lvarez,P. Sisto,1
+Sergi G\u00f3mez,Iago Aspas,1
+Sergi G\u00f3mez,Sergio \u00c1lvarez,1
+Hugo Mallo,Sergi G\u00f3mez,1
+G. Cabral,Jonny,1
+P. Sisto,P. Hern\u00e1ndez,1
+Iago Aspas,E. Mor,1
+Iago Aspas,Maxi G\u00f3mez,1
+Maxi G\u00f3mez,Jonny,1
+E. Mor,Hugo Mallo,1
+Maxi G\u00f3mez,P. Hern\u00e1ndez,1
+Jonny,E. Mor,1
+Maxi G\u00f3mez,S. Lobotka,1
+D. Wass,P. Hern\u00e1ndez,1
+D. Wass,Maxi G\u00f3mez,1
+S. Lobotka,Maxi G\u00f3mez,1
+S. Lobotka,Sergio \u00c1lvarez,1
+Iago Aspas,P. Sisto,1
+P. Sisto,S. Lobotka,1
+Jonny,G. Cabral,1
+Sergi G\u00f3mez,D. Wass,1
+D. Wass,Jonny,1
+P. Sisto,Sergi G\u00f3mez,1
+P. Sisto,Maxi G\u00f3mez,1
+Sergi G\u00f3mez,Maxi G\u00f3mez,1
+Jonny,Hugo Mallo,1
+G. Cabral,Iago Aspas,1
+Iago Aspas,Jonny,1
+Maxi G\u00f3mez,Iago Aspas,1

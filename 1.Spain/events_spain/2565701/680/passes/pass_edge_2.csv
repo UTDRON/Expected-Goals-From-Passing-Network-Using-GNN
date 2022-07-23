@@ -1,0 +1,66 @@
+Source,Target,Weight
+\u00c9. Banega,Sergio Escudero,5
+\u00c9. Banega,G. Mercado,4
+\u00c9. Banega,W. Ben Yedder,4
+Sergio Escudero,C. Lenglet,4
+Sergio Escudero,\u00c9. Banega,4
+W. Ben Yedder,Sergio Escudero,3
+G. Mercado,G. Pizarro,3
+G. Pizarro,S. Kj\u00e6r,3
+\u00c9. Banega,G. Pizarro,3
+G. Pizarro,G. Mercado,3
+Pablo Sarabia,\u00c9. Banega,3
+G. Mercado,\u00c9. Banega,3
+C. Lenglet,J. Correa,2
+Sergio Escudero,Pablo Sarabia,2
+G. Pizarro,\u00c9. Banega,2
+\u00c9. Banega,J. Correa,2
+Pablo Sarabia,G. Mercado,2
+W. Ben Yedder,\u00c9. Banega,2
+Sergio Escudero,G. Pizarro,2
+G. Mercado,S. Kj\u00e6r,2
+Pablo Sarabia,Sergio Escudero,2
+G. Pizarro,Ganso,2
+J. Correa,C. Lenglet,2
+C. Lenglet,S. Kj\u00e6r,2
+Sergio Escudero,J. Correa,2
+Sergio Rico,\u00c9. Banega,2
+Ganso,Pablo Sarabia,2
+J. Correa,\u00c9. Banega,2
+Ganso,G. Pizarro,2
+S. Kj\u00e6r,G. Pizarro,1
+C. Lenglet,G. Pizarro,1
+G. Pizarro,C. Lenglet,1
+G. Mercado,C. Lenglet,1
+C. Lenglet,Ganso,1
+W. Ben Yedder,G. Mercado,1
+Ganso,Sergio Escudero,1
+S. Kj\u00e6r,\u00c9. Banega,1
+W. Ben Yedder,G. Pizarro,1
+Sergio Escudero,Ganso,1
+C. Lenglet,G. Mercado,1
+Sergio Rico,C. Lenglet,1
+S. Kj\u00e6r,G. Mercado,1
+G. Mercado,Sergio Rico,1
+\u00c9. Banega,Pablo Sarabia,1
+Ganso,Sergio Rico,1
+G. Mercado,Pablo Sarabia,1
+G. Mercado,J. Correa,1
+Pablo Sarabia,W. Ben Yedder,1
+G. Mercado,W. Ben Yedder,1
+C. Lenglet,Pablo Sarabia,1
+C. Lenglet,\u00c9. Banega,1
+S. Kj\u00e6r,Ganso,1
+\u00c9. Banega,C. Lenglet,1
+J. Correa,G. Mercado,1
+J. Correa,Sergio Escudero,1
+S. Kj\u00e6r,W. Ben Yedder,1
+G. Pizarro,Pablo Sarabia,1
+S. Kj\u00e6r,Sergio Escudero,1
+W. Ben Yedder,Ganso,1
+C. Lenglet,Sergio Escudero,1
+S. Kj\u00e6r,C. Lenglet,1
+S. Kj\u00e6r,Sergio Rico,1
+C. Lenglet,W. Ben Yedder,1
+G. Pizarro,Sergio Escudero,1
+J. Correa,W. Ben Yedder,1

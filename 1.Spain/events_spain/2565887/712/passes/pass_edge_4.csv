@@ -1,0 +1,30 @@
+Source,Target,Weight
+Gabriel,Diego Rico,3
+Diego Rico,Eraso,3
+N. El Zhar,Zald\u00faa,2
+Diego Rico,Gabriel,2
+Rub\u00e9n P\u00e9rez,Diego Rico,2
+Eraso,N. El Zhar,2
+N. El Zhar,Rub\u00e9n P\u00e9rez,2
+N. Amrabat,Guerrero,1
+Eraso,Diego Rico,1
+N. El Zhar,Eraso,1
+Cu\u00e9llar,N. Amrabat,1
+D. Siovas,Bustinza,1
+Rub\u00e9n P\u00e9rez,D. Siovas,1
+Zald\u00faa,N. El Zhar,1
+N. El Zhar,N. Amrabat,1
+N. Amrabat,Gabriel,1
+Gabriel,N. El Zhar,1
+Guerrero,N. Amrabat,1
+Rub\u00e9n P\u00e9rez,N. El Zhar,1
+Diego Rico,D. Siovas,1
+Zald\u00faa,Gabriel,1
+N. Amrabat,Rub\u00e9n P\u00e9rez,1
+Diego Rico,N. El Zhar,1
+Gabriel,Eraso,1
+Bustinza,Rub\u00e9n P\u00e9rez,1
+Eraso,Zald\u00faa,1
+Zald\u00faa,Rub\u00e9n P\u00e9rez,1
+D. Siovas,Cu\u00e9llar,1
+Rub\u00e9n P\u00e9rez,Gabriel,1

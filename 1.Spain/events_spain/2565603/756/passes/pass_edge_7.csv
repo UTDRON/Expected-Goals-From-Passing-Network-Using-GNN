@@ -1,0 +1,29 @@
+Source,Target,Weight
+Juanpe,J. Mojica,2
+Ramalho,Bernardo Espinosa,2
+Ramalho,Aleix Garc\u00eda,2
+Pere Pons,Juanpe,2
+Portu,Ramalho,2
+Iraizoz,Bernardo Espinosa,1
+Pablo Maffeo,Pere Pons,1
+Aleix Garc\u00eda,Portu,1
+J. Mojica,Aleix Garc\u00eda,1
+Bernardo Espinosa,Portu,1
+Douglas Luiz,Juanpe,1
+Pablo Maffeo,Iraizoz,1
+Douglas Luiz,Pere Pons,1
+Ramalho,Pere Pons,1
+Juanpe,Ramalho,1
+Bernardo Espinosa,J. Mojica,1
+Bernardo Espinosa,Ramalho,1
+Bernardo Espinosa,Douglas Luiz,1
+Aleix Garc\u00eda,Douglas Luiz,1
+O. Kayode,Douglas Luiz,1
+J. Mojica,Pablo Maffeo,1
+Aleix Garc\u00eda,Juanpe,1
+Pere Pons,O. Kayode,1
+J. Mojica,O. Kayode,1
+Juanpe,Aleix Garc\u00eda,1
+O. Kayode,J. Mojica,1
+Douglas Luiz,Pablo Maffeo,1
+Aleix Garc\u00eda,Ramalho,1

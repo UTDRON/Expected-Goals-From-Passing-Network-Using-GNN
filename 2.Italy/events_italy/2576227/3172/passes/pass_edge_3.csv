@@ -1,0 +1,59 @@
+Source,Target,Weight
+T. Castagne,A. Masiello,6
+A. Masiello,T. Castagne,5
+H. Hateboer,Rafael Tol\u00f3i,4
+Rafael Tol\u00f3i,H. Hateboer,3
+A. G\u00f3mez,B. Cristante,3
+T. Castagne,R. Freuler,3
+M. de Roon,H. Hateboer,3
+R. Freuler,A. G\u00f3mez,3
+B. Cristante,A. G\u00f3mez,3
+H. Hateboer,M. de Roon,3
+M. de Roon,A. Petagna,2
+A. G\u00f3mez,T. Castagne,2
+A. Petagna,H. Hateboer,2
+A. Masiello,G. Mancini,2
+Rafael Tol\u00f3i,T. Castagne,2
+T. Castagne,A. G\u00f3mez,2
+M. de Roon,Rafael Tol\u00f3i,2
+A. Masiello,R. Freuler,2
+A. G\u00f3mez,Rafael Tol\u00f3i,2
+Rafael Tol\u00f3i,G. Mancini,2
+G. Mancini,A. Masiello,2
+G. Mancini,B. Cristante,2
+A. G\u00f3mez,R. Freuler,2
+G. Mancini,T. Castagne,1
+B. Cristante,A. Masiello,1
+Rafael Tol\u00f3i,R. Freuler,1
+R. Freuler,B. Cristante,1
+A. G\u00f3mez,G. Mancini,1
+Rafael Tol\u00f3i,B. Cristante,1
+H. Hateboer,A. Petagna,1
+R. Freuler,Rafael Tol\u00f3i,1
+A. Masiello,A. G\u00f3mez,1
+E. Berisha,A. Masiello,1
+B. Cristante,M. de Roon,1
+T. Castagne,B. Cristante,1
+R. Freuler,G. Mancini,1
+A. G\u00f3mez,M. de Roon,1
+B. Cristante,A. Petagna,1
+Rafael Tol\u00f3i,A. G\u00f3mez,1
+E. Berisha,M. de Roon,1
+T. Castagne,G. Mancini,1
+H. Hateboer,A. G\u00f3mez,1
+R. Freuler,A. Masiello,1
+R. Freuler,T. Castagne,1
+H. Hateboer,A. Masiello,1
+A. Petagna,T. Castagne,1
+B. Cristante,Rafael Tol\u00f3i,1
+B. Cristante,T. Castagne,1
+A. Masiello,E. Berisha,1
+E. Berisha,B. Cristante,1
+G. Mancini,E. Berisha,1
+B. Cristante,E. Berisha,1
+B. Cristante,H. Hateboer,1
+M. de Roon,B. Cristante,1
+G. Mancini,M. de Roon,1
+A. Masiello,H. Hateboer,1
+G. Mancini,Rafael Tol\u00f3i,1
+A. Petagna,M. de Roon,1

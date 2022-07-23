@@ -1,0 +1,16 @@
+Source,Target,Weight
+L. Venuti,F. Lucioni,2
+D. Cataldi,L. Venuti,1
+F. Lucioni,L. Memushaj,1
+D. Cataldi,L. Memushaj,1
+V. Parigini,L. Memushaj,1
+V. Belec,G. Di Chiara,1
+G. Di Chiara,L. Memushaj,1
+L. Memushaj,V. Parigini,1
+F. Lucioni,D. Cataldi,1
+L. Memushaj,G. Di Chiara,1
+G. Di Chiara,F. Lucioni,1
+L. Memushaj,D. Cataldi,1
+F. Lucioni,V. Belec,1
+V. Belec,L. Venuti,1
+L. Memushaj,M. Coda,1

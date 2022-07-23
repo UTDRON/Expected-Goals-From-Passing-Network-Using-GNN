@@ -1,0 +1,31 @@
+Source,Target,Weight
+V\u00edctor Ru\u00edz,Rodri,3
+Pablo Fornals,Dani Raba,2
+Rodri,Pablo Fornals,2
+Rodri,\u00c1lvaro Gonz\u00e1lez,2
+Rodri,Jaume Costa,2
+Jaume Costa,V\u00edctor Ru\u00edz,2
+\u00c1lvaro Gonz\u00e1lez,V\u00edctor Ru\u00edz,2
+Jaume Costa,Rodri,2
+V\u00edctor Ru\u00edz,Jaume Costa,2
+V\u00edctor Ru\u00edz,Dani Raba,1
+E. \u00dcnal,Samu Castillejo,1
+Dani Raba,Pablo Fornals,1
+E. \u00dcnal,Dani Raba,1
+Dani Raba,Samu Castillejo,1
+Samu Castillejo,V\u00edctor Ru\u00edz,1
+Samu Castillejo,\u00c1lvaro Gonz\u00e1lez,1
+\u00c1lvaro Gonz\u00e1lez,Sergio Asenjo,1
+Dani Raba,\u00c1lvaro Gonz\u00e1lez,1
+Dani Raba,V\u00edctor Ru\u00edz,1
+\u00c1lvaro Gonz\u00e1lez,Mario,1
+Pablo Fornals,Samu Castillejo,1
+Sergio Asenjo,E. \u00dcnal,1
+Mario,\u00c1lvaro Gonz\u00e1lez,1
+\u00c1lvaro Gonz\u00e1lez,Samu Castillejo,1
+Sergio Asenjo,Jaume Costa,1
+Jaume Costa,Sergio Asenjo,1
+Samu Castillejo,Rodri,1
+V\u00edctor Ru\u00edz,Pablo Fornals,1
+Rodri,V\u00edctor Ru\u00edz,1
+Pablo Fornals,Rodri,1

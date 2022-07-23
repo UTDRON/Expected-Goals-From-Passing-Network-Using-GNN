@@ -1,0 +1,23 @@
+Source,Target,Weight
+A. Florenzi,L. Pellegrini,3
+M. Gonalons,K. Strootman,2
+P. Schick,E. D\u017eeko,2
+L. Pellegrini,A. Florenzi,2
+L. Pellegrini,P. Schick,2
+K. Strootman,F. Fazio,2
+D. Perotti,A. Florenzi,1
+A. Florenzi,P. Schick,1
+F. Fazio,D. Perotti,1
+M. Gonalons,F. Fazio,1
+E. D\u017eeko,D. Perotti,1
+E. D\u017eeko,M. Gonalons,1
+L. Pellegrini,M. Gonalons,1
+A. Florenzi,K. Manolas,1
+M. Gonalons,L. Pellegrini,1
+D. Perotti,E. D\u017eeko,1
+K. Manolas,K. Strootman,1
+P. Schick,A. Florenzi,1
+F. Fazio,K. Manolas,1
+K. Strootman,M. Gonalons,1
+K. Manolas,A. Florenzi,1
+F. Fazio,M. Gonalons,1

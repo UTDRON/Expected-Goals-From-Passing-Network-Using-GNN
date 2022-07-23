@@ -1,0 +1,12 @@
+Source,Target,Weight
+S. El Shaarawy,A. Kolarov,3
+A. Kolarov,S. El Shaarawy,3
+Bruno Peres,R. Nainggolan,2
+A. Kolarov,Bruno Peres,2
+K. Strootman,A. Kolarov,2
+K. Strootman,S. El Shaarawy,1
+S. El Shaarawy,K. Strootman,1
+A. Kolarov,K. Strootman,1
+R. Nainggolan,K. Strootman,1
+R. Nainggolan,A. Kolarov,1
+A. Kolarov,R. Nainggolan,1

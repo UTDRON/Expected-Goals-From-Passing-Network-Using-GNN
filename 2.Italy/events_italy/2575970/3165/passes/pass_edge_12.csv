@@ -1,0 +1,25 @@
+Source,Target,Weight
+L. Castro,F. Cacciatore,3
+M. Gobbi,V. Birsa,2
+M. Pucciarelli,L. Castro,2
+L. Castro,M. Pucciarelli,2
+F. Cacciatore,L. Castro,2
+V. Birsa,F. Cacciatore,1
+S. Sorrentino,L. Castro,1
+L. Castro,P. Hetemaj,1
+D. Dainelli,S. Sorrentino,1
+M. Pucciarelli,R. Inglese,1
+M. Pucciarelli,F. Cacciatore,1
+F. Cacciatore,D. Dainelli,1
+P. Hetemaj,M. Pucciarelli,1
+F. Cacciatore,M. Pucciarelli,1
+P. Hetemaj,M. Gobbi,1
+V. Birsa,M. Gobbi,1
+M. Pucciarelli,V. Birsa,1
+D. Dainelli,M. Pucciarelli,1
+F. Cacciatore,V. Birsa,1
+A. Gamberini,D. Dainelli,1
+V. Birsa,P. Hetemaj,1
+R. Inglese,P. Hetemaj,1
+V. Birsa,L. Castro,1
+P. Hetemaj,R. Inglese,1

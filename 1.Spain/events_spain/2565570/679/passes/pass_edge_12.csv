@@ -1,0 +1,36 @@
+Source,Target,Weight
+Filipe Luis,Koke,5
+Koke,Fernando Torres,3
+Koke,Filipe Luis,3
+Thomas,Koke,2
+Sa\u00fal,Thomas,2
+Sa\u00fal,L. Hern\u00e1ndez,2
+Fernando Torres,Juanfran,2
+Fernando Torres,L. Hern\u00e1ndez,2
+Thomas,N. Gait\u00e1n,2
+Sa\u00fal,Filipe Luis,2
+N. Gait\u00e1n,Koke,1
+Koke,L. Hern\u00e1ndez,1
+L. Hern\u00e1ndez,Sa\u00fal,1
+Filipe Luis,Juanfran,1
+Filipe Luis,Thomas,1
+Thomas,Sa\u00fal,1
+J. Oblak,Filipe Luis,1
+L. Hern\u00e1ndez,Filipe Luis,1
+Filipe Luis,Sa\u00fal,1
+Juanfran,Sa\u00fal,1
+Koke,S. Savi\u0107,1
+L. Hern\u00e1ndez,Koke,1
+Koke,Sa\u00fal,1
+Juanfran,S. Savi\u0107,1
+S. Savi\u0107,Koke,1
+L. Hern\u00e1ndez,Fernando Torres,1
+L. Hern\u00e1ndez,Thomas,1
+Thomas,Juanfran,1
+Thomas,L. Hern\u00e1ndez,1
+Fernando Torres,Thomas,1
+S. Savi\u0107,Fernando Torres,1
+N. Gait\u00e1n,Thomas,1
+Juanfran,Thomas,1
+Juanfran,Filipe Luis,1
+L. Hern\u00e1ndez,J. Oblak,1

@@ -1,0 +1,15 @@
+Source,Target,Weight
+Sergio Postigo,Luna,2
+E. Bardhi,Sergio Postigo,1
+Luna,Coke,1
+Jos\u00e9 Luis Morales,Sergio Postigo,1
+S. Luki\u0107,Jos\u00e9 Luis Morales,1
+Campa\u00f1a,Rober,1
+Rober,E. Boateng,1
+Coke,S. Luki\u0107,1
+Jos\u00e9 Luis Morales,E. Bardhi,1
+Sergio Postigo,Campa\u00f1a,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+E. Boateng,Jos\u00e9 Luis Morales,1
+Luna,S. Luki\u0107,1
+S. Luki\u0107,Sergio Postigo,1

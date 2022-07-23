@@ -1,0 +1,47 @@
+Source,Target,Weight
+S. Padoin,F. Pisacane,2
+L. Cigarini,Diego Farias,2
+Diego Farias,L. Cigarini,2
+P. Farag\u00f2,F. Romagna,2
+N. Barella,F. Romagna,2
+F. Romagna,P. Farag\u00f2,2
+S. Padoin,N. Barella,2
+L. Pavoletti,Diego Farias,2
+P. Farag\u00f2,F. Pisacane,2
+N. Barella,S. Padoin,2
+L. Pavoletti,P. Farag\u00f2,2
+Diego Farias,L. Pavoletti,1
+S. Padoin,L. Cigarini,1
+F. Romagna,F. Pisacane,1
+F. Pisacane,F. Romagna,1
+Jo\u00e3o Pedro,P. Farag\u00f2,1
+F. Pisacane,Rafael,1
+Diego Farias,S. Padoin,1
+F. Pisacane,P. Farag\u00f2,1
+Jo\u00e3o Pedro,L. Cigarini,1
+F. Pisacane,L. Pavoletti,1
+S. Padoin,F. Romagna,1
+F. Romagna,L. Pavoletti,1
+F. Romagna,Diego Farias,1
+Rafael,Jo\u00e3o Pedro,1
+P. Farag\u00f2,N. Barella,1
+Rafael,S. Padoin,1
+L. Cigarini,N. Barella,1
+L. Pavoletti,S. Padoin,1
+P. Farag\u00f2,Jo\u00e3o Pedro,1
+P. Farag\u00f2,Rafael,1
+N. Barella,Jo\u00e3o Pedro,1
+Jo\u00e3o Pedro,Diego Farias,1
+S. Padoin,P. Farag\u00f2,1
+F. Pisacane,Jo\u00e3o Pedro,1
+L. Pavoletti,F. Romagna,1
+Jo\u00e3o Pedro,S. Padoin,1
+L. Cigarini,Jo\u00e3o Pedro,1
+F. Romagna,Rafael,1
+Diego Farias,P. Farag\u00f2,1
+P. Farag\u00f2,L. Pavoletti,1
+Jo\u00e3o Pedro,N. Barella,1
+F. Romagna,Jo\u00e3o Pedro,1
+F. Pisacane,S. Padoin,1
+Rafael,L. Pavoletti,1
+Jo\u00e3o Pedro,F. Pisacane,1

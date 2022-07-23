@@ -1,0 +1,34 @@
+Source,Target,Weight
+Mario,Samu Castillejo,3
+Samu Castillejo,Jaume Costa,2
+Javi Fuego,\u00c1lvaro Gonz\u00e1lez,2
+V\u00edctor Ru\u00edz,Pablo Fornals,2
+Mario,R. Mart\u00ednez,2
+R. Mart\u00ednez,Samu Castillejo,2
+Jaume Costa,V\u00edctor Ru\u00edz,2
+Samu Castillejo,Mario,2
+Mario,\u00c1lvaro Gonz\u00e1lez,1
+Pablo Fornals,C. Bacca,1
+V\u00edctor Ru\u00edz,Jaume Costa,1
+Pablo Fornals,V\u00edctor Ru\u00edz,1
+Trigueros,\u00c1lvaro Gonz\u00e1lez,1
+Javi Fuego,Sergio Asenjo,1
+\u00c1lvaro Gonz\u00e1lez,Samu Castillejo,1
+\u00c1lvaro Gonz\u00e1lez,Javi Fuego,1
+Javi Fuego,V\u00edctor Ru\u00edz,1
+C. Bacca,Trigueros,1
+Sergio Asenjo,V\u00edctor Ru\u00edz,1
+\u00c1lvaro Gonz\u00e1lez,Sergio Asenjo,1
+V\u00edctor Ru\u00edz,Javi Fuego,1
+Jaume Costa,Mario,1
+V\u00edctor Ru\u00edz,Trigueros,1
+Sergio Asenjo,Mario,1
+Sergio Asenjo,Trigueros,1
+Samu Castillejo,Javi Fuego,1
+V\u00edctor Ru\u00edz,Sergio Asenjo,1
+Trigueros,Jaume Costa,1
+Samu Castillejo,V\u00edctor Ru\u00edz,1
+\u00c1lvaro Gonz\u00e1lez,Mario,1
+Jaume Costa,Javi Fuego,1
+R. Mart\u00ednez,Mario,1
+Javi Fuego,R. Mart\u00ednez,1

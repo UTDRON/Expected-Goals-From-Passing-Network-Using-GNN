@@ -1,0 +1,63 @@
+Source,Target,Weight
+A. Poli,V. Torosidis,4
+S. De Maio,V. Torosidis,4
+V. Torosidis,A. Poli,4
+V. Torosidis,R. Palacio,3
+S. Verdi,A. Poli,3
+R. Palacio,A. Poli,3
+V. Torosidis,S. Verdi,3
+A. Poli,S. Verdi,3
+E. Pulgar,F. Helander,2
+G. Donsah,A. Masina,2
+S. Verdi,G. Donsah,2
+E. Pulgar,G. Donsah,2
+G. Donsah,S. Verdi,2
+A. Poli,G. Donsah,2
+S. De Maio,A. Santurro,2
+A. Poli,E. Pulgar,2
+E. Pulgar,F. Di Francesco,2
+R. Palacio,V. Torosidis,2
+F. Helander,S. De Maio,2
+A. Santurro,S. De Maio,2
+R. Palacio,S. De Maio,2
+R. Palacio,F. Di Francesco,2
+S. Verdi,E. Pulgar,2
+G. Donsah,F. Helander,1
+F. Helander,V. Torosidis,1
+F. Di Francesco,S. Verdi,1
+F. Di Francesco,G. Donsah,1
+V. Torosidis,S. De Maio,1
+E. Pulgar,A. Poli,1
+A. Poli,S. De Maio,1
+A. Santurro,A. Poli,1
+V. Torosidis,A. Santurro,1
+V. Torosidis,F. Helander,1
+G. Donsah,S. De Maio,1
+A. Santurro,R. Palacio,1
+F. Helander,A. Santurro,1
+E. Pulgar,S. Verdi,1
+F. Helander,A. Masina,1
+F. Helander,R. Palacio,1
+F. Helander,G. Donsah,1
+A. Masina,F. Di Francesco,1
+F. Di Francesco,V. Torosidis,1
+G. Donsah,E. Pulgar,1
+F. Di Francesco,F. Helander,1
+E. Pulgar,R. Palacio,1
+S. De Maio,R. Palacio,1
+G. Donsah,V. Torosidis,1
+A. Santurro,E. Pulgar,1
+A. Masina,A. Poli,1
+A. Masina,A. Santurro,1
+F. Di Francesco,E. Pulgar,1
+S. De Maio,A. Masina,1
+A. Masina,G. Donsah,1
+V. Torosidis,E. Pulgar,1
+A. Poli,R. Palacio,1
+R. Palacio,E. Pulgar,1
+V. Torosidis,G. Donsah,1
+S. De Maio,F. Helander,1
+G. Donsah,R. Palacio,1
+S. Verdi,V. Torosidis,1
+S. Verdi,F. Helander,1
+S. Verdi,R. Palacio,1

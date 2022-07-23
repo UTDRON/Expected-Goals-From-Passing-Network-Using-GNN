@@ -1,0 +1,15 @@
+Source,Target,Weight
+C. Lenglet,Sergio Escudero,2
+C. Lenglet,J. Geis,1
+Sergio Escudero,F. V\u00e1zquez,1
+Jes\u00fas Navas,\u00c9. Banega,1
+Nolito,Pablo Sarabia,1
+G. Mercado,\u00c9. Banega,1
+\u00c9. Banega,Pablo Sarabia,1
+F. V\u00e1zquez,Nolito,1
+Sergio Escudero,C. Lenglet,1
+\u00c9. Banega,C. Lenglet,1
+J. Geis,G. Mercado,1
+Pablo Sarabia,Jes\u00fas Navas,1
+G. Mercado,J. Geis,1
+J. Geis,C. Lenglet,1

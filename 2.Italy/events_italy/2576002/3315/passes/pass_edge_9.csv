@@ -1,0 +1,14 @@
+Source,Target,Weight
+A. Consigli,F. Acerbi,2
+A. Matri,S. Missiroli,1
+C. Adjapong,A. Duncan,1
+P. Cannavaro,A. Consigli,1
+A. Consigli,A. Matri,1
+A. Duncan,C. Adjapong,1
+Pol Lirola,A. Matri,1
+F. Acerbi,P. Cannavaro,1
+P. Cannavaro,Pol Lirola,1
+S. Missiroli,F. Magnanelli,1
+A. Matri,A. Consigli,1
+F. Magnanelli,A. Consigli,1
+F. Acerbi,C. Adjapong,1

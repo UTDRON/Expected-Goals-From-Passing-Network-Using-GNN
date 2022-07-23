@@ -1,0 +1,27 @@
+Source,Target,Weight
+Sergi Roberto,Paulinho,3
+Paulinho,L. Messi,3
+L. Messi,N\u00e9lson Semedo,2
+N\u00e9lson Semedo,L. Messi,2
+Paulinho,O. Demb\u00e9l\u00e9,2
+N\u00e9lson Semedo,O. Demb\u00e9l\u00e9,2
+N\u00e9lson Semedo,Paulinho,2
+Paulinho,N\u00e9lson Semedo,2
+O. Demb\u00e9l\u00e9,N\u00e9lson Semedo,2
+L. Messi,Paulinho,2
+T. Vermaelen,L. Digne,2
+Paco Alc\u00e1cer,Denis Su\u00e1rez,1
+Paco Alc\u00e1cer,Sergi Roberto,1
+Sergi Roberto,O. Demb\u00e9l\u00e9,1
+O. Demb\u00e9l\u00e9,Y. Mina,1
+Denis Su\u00e1rez,Paco Alc\u00e1cer,1
+Y. Mina,Sergi Roberto,1
+L. Messi,Sergi Roberto,1
+Paco Alc\u00e1cer,Paulinho,1
+L. Digne,Denis Su\u00e1rez,1
+O. Demb\u00e9l\u00e9,L. Messi,1
+O. Demb\u00e9l\u00e9,Sergi Roberto,1
+L. Digne,T. Vermaelen,1
+L. Messi,Paco Alc\u00e1cer,1
+Denis Su\u00e1rez,Sergi Roberto,1
+Sergi Roberto,T. Vermaelen,1

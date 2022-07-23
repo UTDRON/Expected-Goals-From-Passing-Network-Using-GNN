@@ -1,0 +1,20 @@
+Source,Target,Weight
+Guaita,Jorge Molina,2
+Portillo,M. Lacen,2
+Jorge Molina,Portillo,2
+M. Lacen,Jorge Molina,1
+M. Lacen,Bruno,1
+Juan Cala,Portillo,1
+Markel Bergara,M. Lacen,1
+Antunes,Portillo,1
+D. Su\u00e1rez,Guaita,1
+F. Fajr,D. Su\u00e1rez,1
+Jorge Molina,Antunes,1
+Bruno,Djen\u00e9,1
+Djen\u00e9,Guaita,1
+Portillo,Juan Cala,1
+Portillo,Jorge Molina,1
+Guaita,Portillo,1
+Portillo,F. Fajr,1
+Jorge Molina,Markel Bergara,1
+M. Lacen,Markel Bergara,1

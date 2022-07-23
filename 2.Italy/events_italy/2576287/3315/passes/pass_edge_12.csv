@@ -1,0 +1,39 @@
+Source,Target,Weight
+F. Peluso,A. Duncan,2
+M. Lemos,F. Acerbi,2
+A. Duncan,Rog\u00e9rio,2
+M. Lemos,F. Magnanelli,2
+F. Acerbi,A. Consigli,2
+L. Mazzitelli,M. Lemos,1
+M. Politano,A. Duncan,1
+F. Peluso,D. Berardi,1
+D. Berardi,F. Peluso,1
+C. Adjapong,L. Mazzitelli,1
+L. Mazzitelli,C. Adjapong,1
+A. Consigli,A. Duncan,1
+F. Magnanelli,L. Mazzitelli,1
+F. Acerbi,F. Magnanelli,1
+F. Acerbi,L. Mazzitelli,1
+M. Lemos,F. Peluso,1
+A. Duncan,M. Politano,1
+D. Berardi,F. Acerbi,1
+F. Magnanelli,F. Peluso,1
+C. Adjapong,M. Lemos,1
+C. Adjapong,M. Politano,1
+F. Acerbi,M. Lemos,1
+M. Lemos,C. Adjapong,1
+A. Duncan,D. Berardi,1
+L. Mazzitelli,F. Acerbi,1
+L. Mazzitelli,M. Politano,1
+F. Peluso,M. Lemos,1
+F. Magnanelli,A. Duncan,1
+A. Consigli,L. Mazzitelli,1
+Rog\u00e9rio,F. Magnanelli,1
+Rog\u00e9rio,A. Duncan,1
+M. Politano,M. Lemos,1
+C. Adjapong,F. Acerbi,1
+M. Politano,C. Adjapong,1
+F. Magnanelli,M. Lemos,1
+A. Duncan,C. Adjapong,1
+A. Duncan,F. Peluso,1
+F. Acerbi,D. Berardi,1

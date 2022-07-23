@@ -1,0 +1,44 @@
+Source,Target,Weight
+A. To\u0219ca,G. Letizia,5
+B. Djimsiti,B. Sagna,5
+G. Letizia,Sandro,4
+G. Letizia,A. To\u0219ca,3
+G. Letizia,D. Cataldi,3
+D. Cataldi,G. Letizia,3
+B. Sagna,B. Djimsiti,3
+A. To\u0219ca,D. Cataldi,2
+E. Brignola,B. Sagna,2
+A. To\u0219ca,Sandro,2
+A. To\u0219ca,B. Djimsiti,2
+D. Cataldi,A. To\u0219ca,2
+V. Parigini,A. To\u0219ca,2
+B. Sagna,D. Cataldi,2
+V. Parigini,G. Letizia,2
+B. Sagna,A. To\u0219ca,2
+B. Sagna,E. Brignola,2
+Sandro,G. Letizia,2
+D. Cataldi,E. Brignola,2
+D. Cataldi,B. Djimsiti,2
+B. Djimsiti,A. To\u0219ca,2
+Sandro,B. Sagna,1
+E. Brignola,Sandro,1
+G. Letizia,Guilherme,1
+Sandro,C. Diabat\u00e9,1
+Guilherme,B. Sagna,1
+B. Djimsiti,G. Letizia,1
+G. Letizia,B. Djimsiti,1
+C. Diabat\u00e9,Sandro,1
+Sandro,A. To\u0219ca,1
+Sandro,Guilherme,1
+Sandro,C. Puggioni,1
+Sandro,V. Parigini,1
+A. To\u0219ca,V. Parigini,1
+Guilherme,D. Cataldi,1
+E. Brignola,Guilherme,1
+G. Letizia,V. Parigini,1
+Guilherme,A. To\u0219ca,1
+C. Puggioni,B. Djimsiti,1
+A. To\u0219ca,Guilherme,1
+Guilherme,B. Djimsiti,1
+B. Djimsiti,D. Cataldi,1
+B. Djimsiti,E. Brignola,1

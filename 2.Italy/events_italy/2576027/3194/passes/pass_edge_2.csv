@@ -1,0 +1,39 @@
+Source,Target,Weight
+M. Fares,A. Caracciolo,3
+A. Ferrari,M. C\u00e1ceres,2
+Nicolas,A. Ferrari,2
+A. Caracciolo,Nicolas,2
+M. Fares,Nicolas,2
+A. Cerci,M. C\u00e1ceres,1
+A. Caracciolo,A. Ferrari,1
+Daniel Bessa,A. Ferrari,1
+A. Cerci,B. Zuculini,1
+Daniel Bessa,M. Fares,1
+M. Kean,M. Fares,1
+M. C\u00e1ceres,A. Cerci,1
+M. C\u00e1ceres,Daniel Bessa,1
+M. Kean,D. Verde,1
+M. C\u00e1ceres,A. Ferrari,1
+A. Ferrari,A. Caracciolo,1
+Nicolas,A. Cerci,1
+B. Zuculini,Nicolas,1
+A. Ferrari,M. Fares,1
+A. Caracciolo,Daniel Bessa,1
+A. Cerci,R\u00f4mulo,1
+A. Caracciolo,M. Kean,1
+M. Kean,A. Cerci,1
+M. Fares,B. Zuculini,1
+M. Fares,D. Verde,1
+D. Verde,Daniel Bessa,1
+Nicolas,Daniel Bessa,1
+M. C\u00e1ceres,M. Fares,1
+Nicolas,M. Fares,1
+B. Zuculini,M. C\u00e1ceres,1
+A. Caracciolo,M. Fares,1
+R\u00f4mulo,M. C\u00e1ceres,1
+M. Kean,A. Caracciolo,1
+Daniel Bessa,A. Caracciolo,1
+M. C\u00e1ceres,M. Kean,1
+Daniel Bessa,M. Kean,1
+A. Ferrari,M. Kean,1
+D. Verde,M. Kean,1

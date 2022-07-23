@@ -1,0 +1,27 @@
+Source,Target,Weight
+M. Gobbi,P. Hetemaj,3
+M. Gobbi,V. Birsa,2
+M. Gobbi,R. Meggiorini,2
+P. Hetemaj,L. Castro,2
+P. Hetemaj,M. Gobbi,2
+P. Hetemaj,R. Inglese,2
+L. Castro,M. Gobbi,1
+R. Meggiorini,F. Cacciatore,1
+R. Meggiorini,V. Birsa,1
+P. Hetemaj,F. Cacciatore,1
+R. Inglese,V. Birsa,1
+A. Gamberini,P. Hetemaj,1
+R. Inglese,A. Gamberini,1
+V. Birsa,P. Hetemaj,1
+V. Birsa,M. Gobbi,1
+F. Cacciatore,P. Hetemaj,1
+R. Meggiorini,P. Hetemaj,1
+F. Cacciatore,R. Inglese,1
+L. Castro,R. Meggiorini,1
+A. Gamberini,M. Gobbi,1
+R. Meggiorini,I. Radovanovi\u0107,1
+R. Inglese,M. Gobbi,1
+V. Birsa,A. Gamberini,1
+V. Birsa,R. Meggiorini,1
+R. Meggiorini,R. Inglese,1
+I. Radovanovi\u0107,M. Gobbi,1

@@ -1,0 +1,39 @@
+Source,Target,Weight
+E. Cabaco,Pedro L\u00f3pez,3
+J. Lerma,E. Cabaco,3
+Pedro L\u00f3pez,Jason,2
+Rober,Coke,2
+Pedro L\u00f3pez,J. Lerma,2
+E. Cabaco,J. Lerma,2
+Oier,E. Cabaco,2
+Jason,Campa\u00f1a,2
+Coke,Jos\u00e9 Luis Morales,2
+Jason,Pedro L\u00f3pez,2
+Oier,E. Boateng,1
+Coke,Oier,1
+Jos\u00e9 Luis Morales,Rober,1
+Rober,J. Lerma,1
+A. Sadiku,J. Lerma,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+J. Lerma,Rober,1
+Roger,Rober,1
+Jos\u00e9 Luis Morales,Coke,1
+J. Lerma,Jason,1
+Rober,Roger,1
+Coke,Pedro L\u00f3pez,1
+Campa\u00f1a,E. Cabaco,1
+E. Cabaco,A. Sadiku,1
+A. Sadiku,Jos\u00e9 Luis Morales,1
+E. Cabaco,Oier,1
+E. Boateng,Oier,1
+E. Cabaco,Roger,1
+J. Lerma,A. Sadiku,1
+J. Lerma,Coke,1
+Pedro L\u00f3pez,E. Cabaco,1
+Campa\u00f1a,J. Lerma,1
+A. Sadiku,Jason,1
+Oier,Rober,1
+Coke,E. Cabaco,1
+Roger,Oier,1
+Pedro L\u00f3pez,A. Sadiku,1
+J. Lerma,Jos\u00e9 Luis Morales,1

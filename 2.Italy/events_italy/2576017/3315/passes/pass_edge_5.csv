@@ -1,0 +1,17 @@
+Source,Target,Weight
+F. Magnanelli,S. Sensi,1
+F. Magnanelli,F. Acerbi,1
+S. Sensi,F. Acerbi,1
+S. Missiroli,D. Berardi,1
+S. Missiroli,Pol Lirola,1
+Pol Lirola,F. Acerbi,1
+F. Acerbi,S. Missiroli,1
+T. Letschert,F. Magnanelli,1
+F. Acerbi,P. Cannavaro,1
+P. Cannavaro,T. Letschert,1
+S. Sensi,F. Magnanelli,1
+F. Magnanelli,C. Adjapong,1
+F. Acerbi,S. Sensi,1
+F. Magnanelli,Pol Lirola,1
+Pol Lirola,F. Magnanelli,1
+D. Berardi,F. Magnanelli,1

@@ -1,0 +1,75 @@
+Source,Target,Weight
+Jurado,V\u00edctor S\u00e1nchez,9
+Gerard Moreno,Aar\u00f3n,7
+Mario Hermoso,Gerard Moreno,6
+V\u00edctor S\u00e1nchez,David L\u00f3pez,6
+Gerard Moreno,Javi Fuego,4
+David L\u00f3pez,V\u00edctor S\u00e1nchez,4
+Aar\u00f3n,Mario Hermoso,4
+Sergi Darder,Gerard Moreno,4
+Javi Fuego,V\u00edctor S\u00e1nchez,4
+Aar\u00f3n,Javi Fuego,4
+Aar\u00f3n,Gerard Moreno,4
+V\u00edctor S\u00e1nchez,Jurado,4
+Gerard Moreno,Mario Hermoso,3
+L\u00e9o Baptist\u00e3o,Aar\u00f3n,3
+L\u00e9o Baptist\u00e3o,Sergi Darder,3
+P. Piatti,Pau L\u00f3pez,3
+Gerard Moreno,P. Piatti,3
+P. Piatti,Aar\u00f3n,3
+Javi Fuego,Sergi Darder,3
+Sergi Darder,David L\u00f3pez,3
+Mario Hermoso,Aar\u00f3n,3
+Aar\u00f3n,P. Piatti,3
+P. Piatti,Gerard Moreno,3
+Jurado,Sergi Darder,3
+David L\u00f3pez,L\u00e9o Baptist\u00e3o,3
+V\u00edctor S\u00e1nchez,P. Piatti,2
+David L\u00f3pez,Jurado,2
+Sergi Darder,Mario Hermoso,2
+P. Piatti,L\u00e9o Baptist\u00e3o,2
+David L\u00f3pez,Pau L\u00f3pez,2
+Gerard Moreno,L\u00e9o Baptist\u00e3o,2
+V\u00edctor S\u00e1nchez,Aar\u00f3n,2
+L\u00e9o Baptist\u00e3o,Jurado,2
+Javi Fuego,P. Piatti,2
+Pau L\u00f3pez,David L\u00f3pez,2
+L\u00e9o Baptist\u00e3o,Javi Fuego,2
+V\u00edctor S\u00e1nchez,Sergi Darder,2
+Gerard Moreno,V\u00edctor S\u00e1nchez,2
+P. Piatti,David L\u00f3pez,2
+Javi Fuego,Mario Hermoso,2
+V\u00edctor S\u00e1nchez,L\u00e9o Baptist\u00e3o,2
+Pau L\u00f3pez,Gerard Moreno,2
+Javi Fuego,Gerard Moreno,2
+Gerard Moreno,Jurado,2
+Aar\u00f3n,David L\u00f3pez,1
+Aar\u00f3n,Jurado,1
+Jurado,L\u00e9o Baptist\u00e3o,1
+David L\u00f3pez,P. Piatti,1
+V\u00edctor S\u00e1nchez,Javi Fuego,1
+Mario Hermoso,Sergi Darder,1
+Sergi Darder,Javi Fuego,1
+Sergi Darder,Aar\u00f3n,1
+Jurado,Javi Fuego,1
+Javi Fuego,L\u00e9o Baptist\u00e3o,1
+P. Piatti,Mario Hermoso,1
+Sergi Darder,V\u00edctor S\u00e1nchez,1
+L\u00e9o Baptist\u00e3o,P. Piatti,1
+Aar\u00f3n,Pau L\u00f3pez,1
+Aar\u00f3n,L\u00e9o Baptist\u00e3o,1
+David L\u00f3pez,Gerard Moreno,1
+Sergi Darder,P. Piatti,1
+Mario Hermoso,V\u00edctor S\u00e1nchez,1
+Pau L\u00f3pez,L\u00e9o Baptist\u00e3o,1
+David L\u00f3pez,Javi Fuego,1
+Mario Hermoso,Javi Fuego,1
+V\u00edctor S\u00e1nchez,Gerard Moreno,1
+Pau L\u00f3pez,Mario Hermoso,1
+Javi Fuego,Jurado,1
+David L\u00f3pez,Sergi Darder,1
+Sergi Darder,Jurado,1
+Mario Hermoso,P. Piatti,1
+V\u00edctor S\u00e1nchez,Mario Hermoso,1
+L\u00e9o Baptist\u00e3o,David L\u00f3pez,1
+Mario Hermoso,Jurado,1

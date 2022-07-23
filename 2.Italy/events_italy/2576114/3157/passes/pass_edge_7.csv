@@ -1,0 +1,22 @@
+Source,Target,Weight
+Suso,I. Abate,2
+I. Abate,F. Kessi\u00e9,2
+N. Kalini\u0107,R. Montolivo,2
+Suso,R. Montolivo,1
+I. Abate,F. Borini,1
+R. Montolivo,Suso,1
+L. Bonucci,I. Abate,1
+G. Donnarumma,I. Abate,1
+M. Musacchio,L. Bonucci,1
+R. Montolivo,L. Bonucci,1
+F. Kessi\u00e9,N. Kalini\u0107,1
+L. Bonucci,M. Musacchio,1
+F. Kessi\u00e9,Suso,1
+F. Borini,N. Kalini\u0107,1
+I. Abate,Suso,1
+L. Bonucci,G. Donnarumma,1
+M. Musacchio,I. Abate,1
+R. Rodr\u00edguez,L. Bonucci,1
+R. Montolivo,I. Abate,1
+I. Abate,R. Montolivo,1
+I. Abate,M. Musacchio,1

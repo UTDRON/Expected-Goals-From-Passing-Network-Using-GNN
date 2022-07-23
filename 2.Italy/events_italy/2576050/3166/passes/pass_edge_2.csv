@@ -1,0 +1,43 @@
+Source,Target,Weight
+S. De Maio,F. Helander,4
+F. Helander,L. Crisetig,3
+F. Helander,A. Masina,3
+L. Crisetig,L. Krej\u010d\u00ed,3
+E. Krafth,S. De Maio,2
+A. Masina,L. Krej\u010d\u00ed,2
+L. Krej\u010d\u00ed,F. Helander,2
+L. Krej\u010d\u00ed,L. Crisetig,2
+L. Crisetig,E. Pulgar,2
+A. Masina,F. Helander,2
+G. Donsah,L. Crisetig,1
+L. Crisetig,F. Helander,1
+S. De Maio,E. Pulgar,1
+E. Pulgar,S. De Maio,1
+S. Verdi,G. Donsah,1
+A. Mirante,M. Destro,1
+A. Mirante,L. Krej\u010d\u00ed,1
+S. Verdi,S. De Maio,1
+L. Krej\u010d\u00ed,G. Donsah,1
+L. Krej\u010d\u00ed,A. Masina,1
+F. Helander,A. Mirante,1
+A. Masina,S. Verdi,1
+E. Pulgar,F. Helander,1
+L. Krej\u010d\u00ed,M. Destro,1
+S. De Maio,L. Crisetig,1
+G. Donsah,A. Mirante,1
+S. Verdi,A. Masina,1
+E. Krafth,L. Crisetig,1
+F. Helander,S. De Maio,1
+E. Pulgar,S. Verdi,1
+S. Verdi,E. Krafth,1
+M. Destro,A. Masina,1
+A. Masina,S. De Maio,1
+M. Destro,L. Crisetig,1
+L. Crisetig,S. Verdi,1
+F. Helander,L. Krej\u010d\u00ed,1
+S. De Maio,E. Krafth,1
+A. Masina,L. Crisetig,1
+L. Crisetig,A. Masina,1
+L. Crisetig,S. De Maio,1
+F. Helander,M. Destro,1
+L. Crisetig,E. Krafth,1

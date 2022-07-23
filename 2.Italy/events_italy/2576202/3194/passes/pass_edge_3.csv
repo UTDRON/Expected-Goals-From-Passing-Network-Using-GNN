@@ -1,0 +1,67 @@
+Source,Target,Weight
+M. Valoti,M. B\u00fcchel,3
+R\u00f4mulo,M. Valoti,3
+Ryder Matos,M. Fares,3
+A. Caracciolo,M. Kean,3
+M. Fares,R\u00f4mulo,3
+M. Fares,M. B\u00fcchel,3
+D. Verde,M. B\u00fcchel,2
+M. B\u00fcchel,Ryder Matos,2
+M. Kean,M. Valoti,2
+M. Fares,D. Verde,2
+Nicolas,A. Caracciolo,2
+M. Valoti,A. Caracciolo,2
+R\u00f4mulo,M. Fares,2
+A. Caracciolo,M. Fares,2
+M. Kean,R\u00f4mulo,2
+M. B\u00fcchel,M. Valoti,2
+D. Boldor,M. Kean,2
+R\u00f4mulo,Ryder Matos,2
+M. Valoti,Nicolas,2
+M. Kean,A. Caracciolo,2
+M. Kean,S. Calvano,2
+D. Boldor,R\u00f4mulo,2
+M. Valoti,D. Boldor,2
+Ryder Matos,M. Kean,1
+M. Fares,J. Vukovi\u0107,1
+S. Calvano,D. Verde,1
+M. Valoti,D. Verde,1
+M. B\u00fcchel,J. Vukovi\u0107,1
+M. B\u00fcchel,M. Fares,1
+R\u00f4mulo,S. Calvano,1
+A. Caracciolo,M. Valoti,1
+D. Boldor,M. Fares,1
+M. B\u00fcchel,A. Caracciolo,1
+Ryder Matos,M. B\u00fcchel,1
+R\u00f4mulo,M. B\u00fcchel,1
+M. Fares,D. Boldor,1
+S. Calvano,Ryder Matos,1
+M. B\u00fcchel,Nicolas,1
+Ryder Matos,R\u00f4mulo,1
+D. Verde,D. Boldor,1
+A. Caracciolo,S. Calvano,1
+A. Caracciolo,D. Verde,1
+R\u00f4mulo,D. Verde,1
+A. Caracciolo,R\u00f4mulo,1
+D. Boldor,A. Caracciolo,1
+M. Valoti,M. Kean,1
+M. B\u00fcchel,D. Boldor,1
+M. B\u00fcchel,D. Verde,1
+D. Verde,R\u00f4mulo,1
+M. Kean,M. B\u00fcchel,1
+Nicolas,M. Valoti,1
+J. Vukovi\u0107,R\u00f4mulo,1
+M. Fares,M. Valoti,1
+M. Fares,Ryder Matos,1
+Nicolas,M. Fares,1
+M. B\u00fcchel,M. Kean,1
+R\u00f4mulo,M. Kean,1
+D. Verde,J. Vukovi\u0107,1
+S. Calvano,M. Kean,1
+A. Caracciolo,Nicolas,1
+J. Vukovi\u0107,M. Fares,1
+D. Verde,A. Caracciolo,1
+D. Verde,Ryder Matos,1
+J. Vukovi\u0107,M. Valoti,1
+Ryder Matos,A. Caracciolo,1
+S. Calvano,D. Boldor,1

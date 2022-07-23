@@ -1,0 +1,43 @@
+Source,Target,Weight
+E. \u00c7olak,Guilherme,4
+Guilherme,E. \u00c7olak,3
+Juanfran,Carles Gil,3
+Guilherme,Juanfran,3
+Carles Gil,E. \u00c7olak,2
+Adri\u00e1n L\u00f3pez,Guilherme,2
+C. Borges,E. \u00c7olak,2
+Carles Gil,Guilherme,2
+Juanfran,C. Borges,2
+Fernando Navarro,Sidnei,2
+F. Sch\u00e4r,Rub\u00e9n,2
+Rub\u00e9n,Carles Gil,2
+Juanfran,F. Sch\u00e4r,1
+Guilherme,Fernando Navarro,1
+E. \u00c7olak,F. Sch\u00e4r,1
+Carles Gil,F. Sch\u00e4r,1
+F. Sch\u00e4r,Sidnei,1
+Lucas P\u00e9rez,Juanfran,1
+C. Borges,Fernando Navarro,1
+C. Borges,F. Sch\u00e4r,1
+Rub\u00e9n,Lucas P\u00e9rez,1
+Fernando Navarro,C. Borges,1
+C. Borges,Adri\u00e1n L\u00f3pez,1
+F. Sch\u00e4r,Fernando Navarro,1
+F. Sch\u00e4r,Carles Gil,1
+F. Sch\u00e4r,Lucas P\u00e9rez,1
+E. \u00c7olak,Juanfran,1
+Guilherme,Carles Gil,1
+E. \u00c7olak,Sidnei,1
+Fernando Navarro,Adri\u00e1n L\u00f3pez,1
+Juanfran,Guilherme,1
+Carles Gil,Adri\u00e1n L\u00f3pez,1
+Adri\u00e1n L\u00f3pez,Juanfran,1
+Sidnei,Lucas P\u00e9rez,1
+Carles Gil,Rub\u00e9n,1
+Rub\u00e9n,Juanfran,1
+Adri\u00e1n L\u00f3pez,C. Borges,1
+Lucas P\u00e9rez,Fernando Navarro,1
+Lucas P\u00e9rez,F. Sch\u00e4r,1
+Sidnei,Adri\u00e1n L\u00f3pez,1
+Sidnei,C. Borges,1
+Sidnei,F. Sch\u00e4r,1

@@ -1,0 +1,69 @@
+Source,Target,Weight
+B. Djimsiti,G. Di Chiara,7
+N. Viola,B. Djimsiti,5
+L. Antei,B. Djimsiti,4
+L. Antei,L. Venuti,4
+B. Djimsiti,L. Antei,4
+L. Antei,A. Ciciretti,3
+R. Chibsah,L. Antei,3
+C. Lombardi,D. Cataldi,3
+G. Di Chiara,C. Lombardi,3
+G. Di Chiara,N. Viola,3
+A. Ciciretti,G. Di Chiara,2
+N. Viola,C. Lombardi,2
+C. Lombardi,B. Djimsiti,2
+G. Di Chiara,L. Venuti,2
+D. Cataldi,R. Chibsah,2
+G. Di Chiara,A. Ciciretti,2
+G. Di Chiara,D. Cataldi,2
+R. Chibsah,L. Venuti,2
+L. Venuti,R. Chibsah,2
+R. Chibsah,A. Ciciretti,2
+A. Ciciretti,A. Brignoli,2
+M. Coda,L. Venuti,2
+C. Lombardi,R. Chibsah,2
+L. Venuti,A. Brignoli,2
+B. Djimsiti,N. Viola,2
+A. Brignoli,M. Coda,2
+D. Cataldi,G. Di Chiara,2
+L. Venuti,C. Lombardi,2
+L. Venuti,L. Antei,2
+A. Brignoli,L. Antei,1
+C. Lombardi,L. Antei,1
+V. Parigini,B. Djimsiti,1
+R. Chibsah,M. Coda,1
+C. Lombardi,N. Viola,1
+B. Djimsiti,A. Ciciretti,1
+L. Antei,D. Cataldi,1
+A. Ciciretti,B. Djimsiti,1
+A. Ciciretti,N. Viola,1
+L. Venuti,V. Parigini,1
+A. Ciciretti,R. Chibsah,1
+A. Brignoli,B. Djimsiti,1
+A. Brignoli,L. Venuti,1
+C. Lombardi,L. Venuti,1
+D. Cataldi,L. Venuti,1
+L. Venuti,D. Cataldi,1
+L. Venuti,N. Viola,1
+A. Ciciretti,L. Antei,1
+G. Di Chiara,R. Chibsah,1
+R. Chibsah,B. Djimsiti,1
+B. Djimsiti,A. Brignoli,1
+D. Cataldi,C. Lombardi,1
+D. Cataldi,A. Brignoli,1
+L. Antei,C. Lombardi,1
+L. Venuti,B. Djimsiti,1
+N. Viola,G. Di Chiara,1
+L. Venuti,A. Ciciretti,1
+R. Chibsah,G. Di Chiara,1
+A. Ciciretti,D. Cataldi,1
+N. Viola,R. Chibsah,1
+B. Djimsiti,R. Chibsah,1
+A. Brignoli,C. Lombardi,1
+R. Chibsah,N. Viola,1
+G. Di Chiara,B. Djimsiti,1
+L. Antei,G. Di Chiara,1
+D. Cataldi,L. Antei,1
+M. Coda,A. Ciciretti,1
+B. Djimsiti,M. Coda,1
+M. Coda,R. Chibsah,1

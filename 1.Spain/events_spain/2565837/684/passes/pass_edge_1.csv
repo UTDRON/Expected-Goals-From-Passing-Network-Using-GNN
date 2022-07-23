@@ -1,0 +1,80 @@
+Source,Target,Weight
+Jordi Amat,Bartra,12
+Bartra,Jordi Amat,12
+A. Mandi,Bartra,10
+R. Boudebouz,Fabi\u00e1n,8
+J. Firpo,Jordi Amat,7
+A. Mandi,R. Boudebouz,7
+Jordi Amat,A. Mandi,7
+Fabi\u00e1n,A. Mandi,6
+Javi Garc\u00eda,A. Mandi,6
+Javi Garc\u00eda,Jordi Amat,6
+Bartra,A. Mandi,6
+A. Mandi,Fabi\u00e1n,5
+Fabi\u00e1n,R. Boudebouz,5
+Jordi Amat,J. Firpo,5
+Bartra,Javi Garc\u00eda,4
+Francis Guerrero,Fabi\u00e1n,4
+R. Boudebouz,Javi Garc\u00eda,4
+A. Guardado,Javi Garc\u00eda,4
+R. Boudebouz,Francis Guerrero,4
+Fabi\u00e1n,Javi Garc\u00eda,4
+A. Mandi,Francis Guerrero,3
+J. Firpo,A. Guardado,3
+Fabi\u00e1n,Francis Guerrero,3
+Fabi\u00e1n,J. Firpo,3
+A. Mandi,Javi Garc\u00eda,3
+Ad\u00e1n,Jordi Amat,3
+Javi Garc\u00eda,Fabi\u00e1n,3
+Javi Garc\u00eda,R. Boudebouz,3
+Francis Guerrero,A. Mandi,3
+Bartra,Fabi\u00e1n,3
+Javi Garc\u00eda,Bartra,2
+Francis Guerrero,Javi Garc\u00eda,2
+A. Guardado,R. Boudebouz,2
+Fabi\u00e1n,Jordi Amat,2
+Jordi Amat,Javi Garc\u00eda,2
+R. Boudebouz,A. Guardado,2
+Loren Mor\u00f3n,R. Boudebouz,2
+R. Boudebouz,J. Firpo,2
+Jordi Amat,R. Boudebouz,2
+A. Guardado,Jordi Amat,2
+Javi Garc\u00eda,A. Guardado,2
+Francis Guerrero,Loren Mor\u00f3n,2
+A. Guardado,J. Firpo,2
+J. Firpo,Javi Garc\u00eda,2
+J. Firpo,Loren Mor\u00f3n,2
+Jordi Amat,Ad\u00e1n,2
+Jordi Amat,A. Guardado,2
+Loren Mor\u00f3n,Fabi\u00e1n,2
+Ad\u00e1n,Loren Mor\u00f3n,2
+Fabi\u00e1n,Bartra,2
+R. Boudebouz,A. Mandi,2
+Bartra,Ad\u00e1n,2
+A. Mandi,Jordi Amat,1
+Javi Garc\u00eda,Loren Mor\u00f3n,1
+Loren Mor\u00f3n,Francis Guerrero,1
+A. Mandi,J. Firpo,1
+Bartra,Francis Guerrero,1
+Francis Guerrero,R. Boudebouz,1
+Ad\u00e1n,R. Boudebouz,1
+Javi Garc\u00eda,J. Firpo,1
+J. Firpo,Bartra,1
+Ad\u00e1n,Javi Garc\u00eda,1
+R. Boudebouz,Bartra,1
+Javi Garc\u00eda,Francis Guerrero,1
+Jordi Amat,Loren Mor\u00f3n,1
+Javi Garc\u00eda,Ad\u00e1n,1
+Ad\u00e1n,Francis Guerrero,1
+Loren Mor\u00f3n,Bartra,1
+Fabi\u00e1n,Ad\u00e1n,1
+A. Mandi,Ad\u00e1n,1
+Francis Guerrero,A. Guardado,1
+Bartra,J. Firpo,1
+Loren Mor\u00f3n,A. Mandi,1
+J. Firpo,R. Boudebouz,1
+J. Firpo,Ad\u00e1n,1
+Loren Mor\u00f3n,J. Firpo,1
+Francis Guerrero,J. Firpo,1
+Jordi Amat,Fabi\u00e1n,1
+R. Boudebouz,Jordi Amat,1

@@ -1,0 +1,109 @@
+Source,Target,Weight
+T. Cionek,M. Lazzari,8
+F. Mattiello,M. Vitale,7
+Everton Luiz,T. Cionek,7
+M. Vitale,F. Mattiello,6
+F. Mattiello,F. Viviani,5
+M. Lazzari,M. Antenucci,5
+F. Vicari,T. Cionek,5
+M. Lazzari,Everton Luiz,5
+A. Meret,T. Cionek,5
+F. Viviani,F. Vicari,5
+F. Viviani,A. Meret,4
+M. Lazzari,F. Mattiello,4
+T. Cionek,F. Viviani,4
+M. Antenucci,T. Cionek,4
+T. Cionek,F. Vicari,4
+Everton Luiz,M. Lazzari,4
+M. Lazzari,F. Viviani,3
+Felipe,F. Mattiello,3
+F. Vicari,Felipe,3
+F. Viviani,M. Antenucci,3
+M. Antenucci,M. Lazzari,3
+A. Paloschi,M. Vitale,3
+F. Mattiello,Felipe,3
+F. Vicari,F. Viviani,3
+A. Meret,M. Antenucci,3
+F. Viviani,Everton Luiz,3
+S. Floccari,F. Mattiello,3
+M. Antenucci,Everton Luiz,3
+M. Vitale,F. Viviani,3
+T. Cionek,M. Antenucci,3
+A. Paloschi,T. Cionek,3
+T. Cionek,A. Paloschi,3
+M. Lazzari,S. Floccari,3
+T. Cionek,Everton Luiz,3
+S. Floccari,F. Viviani,2
+F. Vicari,M. Lazzari,2
+Everton Luiz,M. Antenucci,2
+F. Viviani,Felipe,2
+F. Viviani,S. Floccari,2
+Everton Luiz,F. Viviani,2
+M. Antenucci,Felipe,2
+F. Viviani,F. Mattiello,2
+Felipe,F. Vicari,2
+Felipe,T. Cionek,2
+Felipe,A. Meret,2
+A. Meret,M. Lazzari,2
+S. Floccari,F. Vicari,2
+Everton Luiz,S. Floccari,2
+F. Viviani,M. Lazzari,2
+S. Floccari,Everton Luiz,2
+F. Mattiello,M. Lazzari,2
+F. Mattiello,Everton Luiz,2
+Everton Luiz,M. Vitale,2
+S. Floccari,M. Vitale,2
+T. Cionek,S. Floccari,2
+T. Cionek,Felipe,2
+F. Vicari,A. Paloschi,2
+M. Antenucci,A. Paloschi,2
+M. Antenucci,F. Costa,2
+M. Vitale,F. Vicari,2
+M. Lazzari,F. Vicari,2
+M. Vitale,Everton Luiz,2
+F. Viviani,T. Cionek,2
+F. Costa,A. Meret,1
+T. Cionek,A. Meret,1
+F. Costa,S. Floccari,1
+Felipe,F. Costa,1
+F. Costa,F. Vicari,1
+M. Lazzari,F. Costa,1
+A. Meret,Everton Luiz,1
+M. Vitale,A. Meret,1
+M. Lazzari,Felipe,1
+Everton Luiz,Felipe,1
+Felipe,M. Antenucci,1
+Felipe,F. Viviani,1
+Felipe,M. Vitale,1
+F. Mattiello,A. Meret,1
+A. Paloschi,M. Lazzari,1
+S. Floccari,A. Meret,1
+M. Lazzari,M. Vitale,1
+A. Paloschi,F. Viviani,1
+Felipe,Everton Luiz,1
+A. Meret,S. Floccari,1
+F. Viviani,M. Vitale,1
+M. Vitale,Felipe,1
+F. Costa,M. Antenucci,1
+A. Meret,F. Viviani,1
+M. Vitale,M. Antenucci,1
+M. Vitale,M. Lazzari,1
+F. Vicari,S. Floccari,1
+M. Antenucci,A. Meret,1
+F. Vicari,M. Vitale,1
+F. Viviani,A. Paloschi,1
+A. Paloschi,F. Vicari,1
+M. Antenucci,M. Vitale,1
+M. Vitale,S. Floccari,1
+S. Floccari,T. Cionek,1
+F. Vicari,A. Meret,1
+F. Costa,F. Viviani,1
+A. Meret,A. Paloschi,1
+Everton Luiz,F. Mattiello,1
+Felipe,M. Lazzari,1
+M. Antenucci,F. Viviani,1
+M. Lazzari,T. Cionek,1
+F. Vicari,F. Mattiello,1
+Everton Luiz,A. Meret,1
+F. Vicari,Everton Luiz,1
+Everton Luiz,F. Costa,1

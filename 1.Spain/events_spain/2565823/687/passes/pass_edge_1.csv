@@ -1,0 +1,30 @@
+Source,Target,Weight
+H. Moreno,De La Bella,5
+De La Bella,H. Moreno,4
+De La Bella,Willian Jos\u00e9,3
+Moy\u00e0,H. Moreno,3
+Diego Llorente,Zubeld\u00eda,2
+Illarramendi,H. Moreno,2
+H. Moreno,Zubeld\u00eda,2
+Willian Jos\u00e9,Illarramendi,2
+Zubeld\u00eda,Diego Llorente,2
+De La Bella,Illarramendi,2
+Diego Llorente,De La Bella,1
+Illarramendi,Odriozola,1
+Odriozola,Diego Llorente,1
+H. Moreno,Diego Llorente,1
+Illarramendi,Canales,1
+Juanmi,Illarramendi,1
+Zubeld\u00eda,H. Moreno,1
+Juanmi,De La Bella,1
+Diego Llorente,Moy\u00e0,1
+Illarramendi,De La Bella,1
+H. Moreno,Moy\u00e0,1
+De La Bella,Juanmi,1
+Willian Jos\u00e9,Juanmi,1
+H. Moreno,Willian Jos\u00e9,1
+Zubeld\u00eda,Moy\u00e0,1
+Canales,Willian Jos\u00e9,1
+Diego Llorente,Canales,1
+Willian Jos\u00e9,De La Bella,1
+Canales,De La Bella,1

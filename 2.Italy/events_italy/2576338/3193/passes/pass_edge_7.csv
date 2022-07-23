@@ -1,0 +1,33 @@
+Source,Target,Weight
+Pedro Pereira,Iuri Medeiros,5
+Pedro Pereira,S. Omeonga,4
+S. Omeonga,Pedro Pereira,4
+Iuri Medeiros,G. Rossi,3
+G. Rossi,A. Bertolacci,3
+S. Omeonga,G. Rossi,2
+G. Pandev,S. Omeonga,2
+Iuri Medeiros,Pedro Pereira,2
+A. Bertolacci,Pedro Pereira,2
+G. Rossi,S. Omeonga,2
+G. Rossi,D. Biraschi,1
+G. Rossi,G. Lapadula,1
+A. Bertolacci,G. Pandev,1
+G. Lapadula,J. El Yamiq,1
+S. Omeonga,D. Laxalt,1
+G. Rossi,Pedro Pereira,1
+G. Rossi,D. Laxalt,1
+J. El Yamiq,G. Pandev,1
+M. Perin,Pedro Pereira,1
+D. Biraschi,M. Perin,1
+Pedro Pereira,D. Laxalt,1
+G. Pandev,D. Laxalt,1
+J. El Yamiq,A. Bertolacci,1
+S. Omeonga,G. Pandev,1
+Pedro Pereira,A. Bertolacci,1
+G. Lapadula,G. Rossi,1
+A. Bertolacci,G. Rossi,1
+D. Laxalt,J. El Yamiq,1
+D. Laxalt,G. Lapadula,1
+D. Laxalt,Pedro Pereira,1
+A. Bertolacci,J. El Yamiq,1
+J. El Yamiq,G. Rossi,1

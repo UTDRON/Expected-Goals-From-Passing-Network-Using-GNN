@@ -1,0 +1,52 @@
+Source,Target,Weight
+Lee Seung-Woo,M. Fares,3
+A. Caracciolo,R\u00f4mulo,3
+R\u00f4mulo,A. Caracciolo,3
+M. Fares,T. Heurtaux,3
+R\u00f4mulo,M. Fossati,3
+T. Heurtaux,Nicolas,3
+A. Caracciolo,S. Souprayen,3
+D. Verde,B. Zuculini,2
+B. Zuculini,G. Pazzini,2
+D. Verde,A. Caracciolo,2
+G. Pazzini,R\u00f4mulo,2
+S. Souprayen,R\u00f4mulo,2
+M. Fossati,Lee Seung-Woo,2
+T. Heurtaux,A. Caracciolo,2
+M. Fares,Lee Seung-Woo,2
+Lee Seung-Woo,M. Fossati,2
+M. Fossati,R\u00f4mulo,2
+R\u00f4mulo,D. Verde,2
+S. Souprayen,B. Zuculini,2
+Nicolas,A. Caracciolo,1
+B. Zuculini,S. Souprayen,1
+A. Caracciolo,M. Fossati,1
+Lee Seung-Woo,A. Caracciolo,1
+R\u00f4mulo,T. Heurtaux,1
+M. Fares,S. Souprayen,1
+D. Verde,Lee Seung-Woo,1
+B. Zuculini,T. Heurtaux,1
+M. Fares,B. Zuculini,1
+Nicolas,M. Fares,1
+B. Zuculini,A. Caracciolo,1
+S. Souprayen,Lee Seung-Woo,1
+S. Souprayen,M. Fares,1
+G. Pazzini,S. Souprayen,1
+G. Pazzini,M. Fares,1
+M. Fossati,B. Zuculini,1
+B. Zuculini,R\u00f4mulo,1
+B. Zuculini,Lee Seung-Woo,1
+A. Caracciolo,Nicolas,1
+R\u00f4mulo,G. Pazzini,1
+Lee Seung-Woo,D. Verde,1
+A. Caracciolo,D. Verde,1
+Nicolas,B. Zuculini,1
+M. Fossati,D. Verde,1
+Lee Seung-Woo,S. Souprayen,1
+Nicolas,G. Pazzini,1
+A. Caracciolo,T. Heurtaux,1
+G. Pazzini,B. Zuculini,1
+T. Heurtaux,D. Verde,1
+T. Heurtaux,G. Pazzini,1
+S. Souprayen,T. Heurtaux,1
+B. Zuculini,M. Fares,1

@@ -1,0 +1,58 @@
+Source,Target,Weight
+Sergio Postigo,Oier,5
+Luna,Ivi,3
+Oier,Sergio Postigo,3
+S. Luki\u0107,Luna,3
+Rober,Sergio Postigo,3
+Nano,Ivi,3
+Oier,Luna,3
+Rober,S. Moore,3
+Ivi,Luna,2
+E. Cabaco,Sergio Postigo,2
+Ivi,S. Luki\u0107,2
+Sergio Postigo,S. Luki\u0107,2
+Luna,Rober,2
+S. Moore,Samu Garc\u00eda,2
+C. Doukour\u00e9,Nano,2
+E. Cabaco,S. Luki\u0107,2
+S. Moore,E. Cabaco,2
+Samu Garc\u00eda,Rober,2
+Sergio Postigo,S. Moore,2
+Rober,C. Doukour\u00e9,2
+Luna,Sergio Postigo,2
+S. Moore,Jason,2
+S. Moore,Rober,1
+Ivi,Sergio Postigo,1
+Rober,E. Cabaco,1
+Ivi,C. Doukour\u00e9,1
+C. Doukour\u00e9,E. Cabaco,1
+S. Luki\u0107,Nano,1
+Sergio Postigo,Nano,1
+Samu Garc\u00eda,C. Doukour\u00e9,1
+Samu Garc\u00eda,S. Moore,1
+E. Cabaco,Rober,1
+S. Moore,Nano,1
+S. Luki\u0107,Ivi,1
+Luna,Oier,1
+Nano,Samu Garc\u00eda,1
+Rober,Luna,1
+S. Luki\u0107,Sergio Postigo,1
+S. Moore,Oier,1
+Jason,C. Doukour\u00e9,1
+E. Cabaco,Ivi,1
+Jason,Nano,1
+Oier,E. Cabaco,1
+Ivi,Rober,1
+C. Doukour\u00e9,Rober,1
+Sergio Postigo,C. Doukour\u00e9,1
+Jason,Luna,1
+Sergio Postigo,Rober,1
+Samu Garc\u00eda,E. Cabaco,1
+Nano,Rober,1
+Ivi,Samu Garc\u00eda,1
+Nano,Jason,1
+Nano,S. Moore,1
+E. Cabaco,Nano,1
+Luna,E. Cabaco,1
+C. Doukour\u00e9,S. Moore,1
+Luna,Samu Garc\u00eda,1

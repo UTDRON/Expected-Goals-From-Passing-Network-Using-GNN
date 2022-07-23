@@ -1,0 +1,27 @@
+Source,Target,Weight
+D. Biraschi,G. Pandev,2
+L. Rigoni,G. Pandev,2
+G. Pandev,D. Biraschi,2
+D. Laxalt,A. Bertolacci,2
+L. Rossettini,L. Rigoni,1
+G. Pandev,E. Zukanovi\u0107,1
+E. Zukanovi\u0107,G. Pandev,1
+A. Bertolacci,L. Rossettini,1
+A. Bertolacci,L. Rigoni,1
+L. Rigoni,M. Perin,1
+G. Pandev,L. Rigoni,1
+D. Laxalt,P. Brlek,1
+D. Biraschi,D. Laxalt,1
+D. Biraschi,L. Rigoni,1
+G. Pandev,D. Laxalt,1
+A. Bertolacci,G. Pandev,1
+L. Rigoni,E. Zukanovi\u0107,1
+M. Perin,D. Biraschi,1
+L. Rigoni,A. Bertolacci,1
+D. Laxalt,L. Rossettini,1
+G. Pandev,A. Bertolacci,1
+E. Zukanovi\u0107,P. Brlek,1
+A. Bertolacci,D. Laxalt,1
+P. Brlek,L. Rigoni,1
+L. Rossettini,D. Biraschi,1
+P. Brlek,D. Laxalt,1

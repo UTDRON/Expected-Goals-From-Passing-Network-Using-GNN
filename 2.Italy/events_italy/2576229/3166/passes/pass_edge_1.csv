@@ -1,0 +1,15 @@
+Source,Target,Weight
+S. Verdi,A. Masina,1
+E. Pulgar,S. Romagnoli,1
+E. Pulgar,G. Donsah,1
+S. De Maio,F. Di Francesco,1
+S. Verdi,S. Romagnoli,1
+S. Romagnoli,F. Avenatti,1
+S. Romagnoli,S. De Maio,1
+S. De Maio,S. Verdi,1
+G. Donsah,F. Avenatti,1
+F. Avenatti,S. De Maio,1
+A. Masina,F. Helander,1
+F. Avenatti,E. Pulgar,1
+F. Helander,G. Donsah,1
+G. Donsah,E. Pulgar,1

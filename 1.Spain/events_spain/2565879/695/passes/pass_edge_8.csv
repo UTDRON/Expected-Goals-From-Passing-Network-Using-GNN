@@ -1,0 +1,55 @@
+Source,Target,Weight
+Pedro L\u00f3pez,S. Luki\u0107,4
+Campa\u00f1a,Jos\u00e9 Luis Morales,3
+Luna,J. Lerma,3
+S. Luki\u0107,Coke,2
+Coke,Campa\u00f1a,2
+Chema,Luna,2
+Jos\u00e9 Luis Morales,Campa\u00f1a,2
+S. Luki\u0107,Pedro L\u00f3pez,2
+Campa\u00f1a,Luna,2
+E. Boateng,Jason,2
+E. Boateng,Jos\u00e9 Luis Morales,1
+Roger,Coke,1
+J. Lerma,Pedro L\u00f3pez,1
+Jason,S. Luki\u0107,1
+J. Lerma,Chema,1
+S. Luki\u0107,Jos\u00e9 Luis Morales,1
+Oier,Sergio Postigo,1
+Jos\u00e9 Luis Morales,Luna,1
+Sergio Postigo,Oier,1
+Chema,Coke,1
+Luna,Campa\u00f1a,1
+J. Lerma,Campa\u00f1a,1
+Jason,E. Boateng,1
+Chema,Jos\u00e9 Luis Morales,1
+E. Boateng,Coke,1
+Jason,Oier,1
+Jos\u00e9 Luis Morales,Jason,1
+Sergio Postigo,S. Luki\u0107,1
+E. Boateng,Chema,1
+Sergio Postigo,J. Lerma,1
+J. Lerma,Luna,1
+Coke,S. Luki\u0107,1
+S. Luki\u0107,J. Lerma,1
+Coke,Pedro L\u00f3pez,1
+Campa\u00f1a,S. Luki\u0107,1
+E. Boateng,Campa\u00f1a,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+Oier,Roger,1
+Luna,Chema,1
+J. Lerma,Sergio Postigo,1
+Luna,Oier,1
+Coke,Sergio Postigo,1
+S. Luki\u0107,E. Boateng,1
+Campa\u00f1a,Pedro L\u00f3pez,1
+Oier,E. Boateng,1
+Jos\u00e9 Luis Morales,S. Luki\u0107,1
+Campa\u00f1a,E. Boateng,1
+J. Lerma,S. Luki\u0107,1
+S. Luki\u0107,Campa\u00f1a,1
+S. Luki\u0107,Sergio Postigo,1
+Pedro L\u00f3pez,E. Boateng,1
+S. Luki\u0107,Roger,1
+Sergio Postigo,Luna,1
+Luna,E. Boateng,1

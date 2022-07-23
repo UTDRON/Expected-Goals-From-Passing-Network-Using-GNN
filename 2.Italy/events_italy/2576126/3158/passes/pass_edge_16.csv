@@ -1,0 +1,78 @@
+Source,Target,Weight
+F. Fazio,D. Perotti,5
+A. Kolarov,D. Perotti,5
+A. Florenzi,P. Schick,5
+K. Manolas,F. Fazio,5
+D. Perotti,A. Kolarov,4
+R. Nainggolan,A. Florenzi,4
+K. Manolas,A. Florenzi,4
+A. Florenzi,D. De Rossi,4
+A. Kolarov,R. Nainggolan,4
+P. Schick,A. Florenzi,3
+A. Kolarov,F. Fazio,3
+F. Fazio,K. Manolas,3
+D. Perotti,D. De Rossi,3
+A. Florenzi,F. Fazio,3
+A. Florenzi,S. El Shaarawy,3
+D. De Rossi,K. Manolas,3
+D. De Rossi,A. Florenzi,3
+A. Florenzi,K. Manolas,2
+D. Perotti,R. Nainggolan,2
+D. De Rossi,D. Perotti,2
+Alisson,A. Florenzi,2
+A. Florenzi,D. Perotti,2
+F. Fazio,R. Nainggolan,2
+F. Fazio,A. Kolarov,2
+D. Perotti,A. Florenzi,2
+D. Perotti,L. Pellegrini,2
+R. Nainggolan,K. Manolas,2
+F. Fazio,A. Florenzi,2
+K. Strootman,A. Kolarov,2
+S. El Shaarawy,R. Nainggolan,2
+R. Nainggolan,S. El Shaarawy,2
+P. Schick,F. Fazio,1
+D. Perotti,P. Schick,1
+S. El Shaarawy,P. Schick,1
+K. Manolas,R. Nainggolan,1
+R. Nainggolan,Alisson,1
+D. Perotti,K. Manolas,1
+A. Kolarov,Alisson,1
+A. Florenzi,A. Kolarov,1
+Alisson,D. Perotti,1
+Alisson,K. Manolas,1
+D. De Rossi,R. Nainggolan,1
+S. El Shaarawy,A. Florenzi,1
+K. Manolas,S. El Shaarawy,1
+D. De Rossi,S. El Shaarawy,1
+D. Perotti,Alisson,1
+S. El Shaarawy,K. Strootman,1
+F. Fazio,P. Schick,1
+L. Pellegrini,D. Perotti,1
+K. Manolas,L. Pellegrini,1
+R. Nainggolan,D. De Rossi,1
+P. Schick,K. Manolas,1
+P. Schick,L. Pellegrini,1
+A. Kolarov,K. Strootman,1
+L. Pellegrini,D. De Rossi,1
+D. De Rossi,A. Kolarov,1
+S. El Shaarawy,A. Kolarov,1
+F. Fazio,K. Strootman,1
+P. Schick,A. Kolarov,1
+K. Strootman,K. Manolas,1
+E. D\u017eeko,F. Fazio,1
+F. Fazio,D. De Rossi,1
+D. Perotti,E. D\u017eeko,1
+R. Nainggolan,A. Kolarov,1
+D. Perotti,F. Fazio,1
+D. De Rossi,F. Fazio,1
+E. D\u017eeko,D. De Rossi,1
+K. Manolas,D. De Rossi,1
+L. Pellegrini,A. Kolarov,1
+P. Schick,D. Perotti,1
+D. De Rossi,E. D\u017eeko,1
+K. Manolas,D. Perotti,1
+R. Nainggolan,D. Perotti,1
+L. Pellegrini,P. Schick,1
+P. Schick,D. De Rossi,1
+S. El Shaarawy,F. Fazio,1
+A. Florenzi,Alisson,1

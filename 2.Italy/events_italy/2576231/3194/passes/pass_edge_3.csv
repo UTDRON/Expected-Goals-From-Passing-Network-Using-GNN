@@ -1,0 +1,23 @@
+Source,Target,Weight
+Ryder Matos,A. Ferrari,3
+S. Calvano,A. Ferrari,3
+A. Ferrari,D. Verde,2
+A. Ferrari,S. Calvano,2
+A. Ferrari,Ryder Matos,2
+M. Fares,Ryder Matos,2
+A. Ferrari,B. Petkovi\u0107,1
+A. Ferrari,M. B\u00fcchel,1
+B. Petkovi\u0107,Ryder Matos,1
+D. Verde,A. Ferrari,1
+M. B\u00fcchel,G. Felicioli,1
+D. Verde,M. Fares,1
+Ryder Matos,J. Vukovi\u0107,1
+B. Petkovi\u0107,G. Felicioli,1
+G. Felicioli,Ryder Matos,1
+G. Felicioli,M. Fares,1
+Nicolas,S. Calvano,1
+J. Vukovi\u0107,Nicolas,1
+M. B\u00fcchel,Nicolas,1
+Ryder Matos,D. Verde,1
+Nicolas,A. Ferrari,1
+D. Verde,B. Petkovi\u0107,1

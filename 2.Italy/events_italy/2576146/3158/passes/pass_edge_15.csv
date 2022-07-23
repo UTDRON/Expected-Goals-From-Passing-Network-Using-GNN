@@ -1,0 +1,22 @@
+Source,Target,Weight
+Juan Jesus,L. Pellegrini,2
+L. Pellegrini,Juan Jesus,2
+A. Florenzi,E. D\u017eeko,2
+E. D\u017eeko,L. Pellegrini,1
+L. Pellegrini,A. Florenzi,1
+E. D\u017eeko,R. Nainggolan,1
+A. Kolarov,D. Perotti,1
+D. Perotti,A. Florenzi,1
+Juan Jesus,Alisson,1
+D. Perotti,Juan Jesus,1
+L. Pellegrini,D. Perotti,1
+D. Perotti,E. D\u017eeko,1
+L. Pellegrini,R. Nainggolan,1
+D. De Rossi,L. Pellegrini,1
+R. Nainggolan,F. Fazio,1
+F. Fazio,Juan Jesus,1
+R. Nainggolan,Juan Jesus,1
+F. Fazio,L. Pellegrini,1
+Alisson,D. De Rossi,1
+Juan Jesus,A. Kolarov,1
+Juan Jesus,D. Perotti,1

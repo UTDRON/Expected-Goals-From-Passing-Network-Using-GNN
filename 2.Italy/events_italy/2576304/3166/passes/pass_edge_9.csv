@@ -1,0 +1,47 @@
+Source,Target,Weight
+I. M'baye,S. Verdi,4
+S. Romagnoli,S. De Maio,4
+S. Romagnoli,I. M'baye,3
+E. Pulgar,A. Poli,3
+S. De Maio,A. Masina,3
+A. Masina,R. Orsolini,3
+S. Verdi,I. M'baye,3
+A. Poli,R. Orsolini,3
+A. Poli,S. Romagnoli,3
+I. M'baye,S. Romagnoli,3
+R. Orsolini,A. Masina,2
+R. Orsolini,I. M'baye,2
+A. Poli,E. Pulgar,2
+A. Poli,S. Verdi,2
+S. Verdi,S. De Maio,2
+S. Verdi,A. Poli,2
+S. Romagnoli,S. Verdi,2
+I. M'baye,A. Poli,2
+S. Verdi,R. Orsolini,2
+E. Pulgar,A. Masina,2
+I. M'baye,F. Avenatti,2
+A. Masina,I. M'baye,2
+A. Masina,E. Pulgar,2
+A. Mirante,S. Romagnoli,1
+S. De Maio,A. Mirante,1
+F. Avenatti,A. Poli,1
+F. Avenatti,I. M'baye,1
+R. Orsolini,S. Verdi,1
+S. De Maio,A. Poli,1
+S. De Maio,S. Romagnoli,1
+R. Orsolini,E. Pulgar,1
+S. Romagnoli,R. Palacio,1
+R. Orsolini,A. Poli,1
+E. Pulgar,S. Romagnoli,1
+S. Romagnoli,A. Poli,1
+R. Orsolini,R. Palacio,1
+R. Palacio,S. Romagnoli,1
+A. Masina,S. Romagnoli,1
+S. De Maio,R. Orsolini,1
+S. Romagnoli,A. Mirante,1
+A. Poli,S. De Maio,1
+S. Verdi,E. Pulgar,1
+E. Pulgar,S. Verdi,1
+R. Orsolini,S. De Maio,1
+A. Mirante,E. Pulgar,1
+R. Palacio,A. Masina,1

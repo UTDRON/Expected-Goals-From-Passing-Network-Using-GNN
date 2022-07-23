@@ -1,0 +1,13 @@
+Source,Target,Weight
+Samu Castillejo,Mario,2
+Rodri,Pablo Fornals,2
+Javi Fuego,Rodri,2
+N. Sansone,Samu Castillejo,1
+Pablo Fornals,Rodri,1
+Mario,N. Sansone,1
+Jaume Costa,Pablo Fornals,1
+Mario,Samu Castillejo,1
+Rodri,N. Sansone,1
+Pablo Fornals,Jaume Costa,1
+N. Sansone,Javi Fuego,1
+Samu Castillejo,Javi Fuego,1

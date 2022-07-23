@@ -1,0 +1,54 @@
+Source,Target,Weight
+N. Champagne,C. Beauvue,3
+Omar Ramos,Gumbau,2
+Eraso,D. Bra\u0161anac,2
+Bustinza,D. Bra\u0161anac,2
+Omar Ramos,Eraso,2
+Gumbau,Diego Rico,2
+C. Beauvue,Bustinza,2
+Diego Rico,Omar Ramos,2
+C. Beauvue,D. Bra\u0161anac,2
+Bustinza,Eraso,2
+D. Siovas,Eraso,2
+D. Bra\u0161anac,Omar Ramos,2
+D. Bra\u0161anac,M. Mantovani,2
+C. Beauvue,Diego Rico,2
+D. Bra\u0161anac,Diego Rico,2
+Diego Rico,D. Bra\u0161anac,2
+Bustinza,D. Siovas,2
+Gumbau,M. Mantovani,2
+Omar Ramos,Bustinza,2
+Eraso,Bustinza,1
+N. Champagne,Omar Ramos,1
+D. Siovas,Bustinza,1
+N. El Zhar,C. Beauvue,1
+Eraso,Omar Ramos,1
+D. Bra\u0161anac,Gumbau,1
+M. Mantovani,N. Champagne,1
+D. Siovas,C. Beauvue,1
+Gumbau,Bustinza,1
+M. Mantovani,Bustinza,1
+Eraso,C. Beauvue,1
+C. Beauvue,Eraso,1
+Bustinza,N. Champagne,1
+Diego Rico,N. Champagne,1
+Gumbau,D. Bra\u0161anac,1
+Eraso,D. Siovas,1
+D. Bra\u0161anac,Eraso,1
+Diego Rico,Bustinza,1
+Bustinza,C. Beauvue,1
+M. Mantovani,Gumbau,1
+Eraso,N. Champagne,1
+D. Bra\u0161anac,D. Siovas,1
+M. Mantovani,Eraso,1
+Bustinza,Gumbau,1
+C. Beauvue,Omar Ramos,1
+D. Bra\u0161anac,N. El Zhar,1
+M. Mantovani,D. Bra\u0161anac,1
+Omar Ramos,D. Bra\u0161anac,1
+D. Siovas,Omar Ramos,1
+Eraso,Diego Rico,1
+Diego Rico,Gumbau,1
+Diego Rico,M. Mantovani,1
+Omar Ramos,D. Siovas,1
+D. Bra\u0161anac,C. Beauvue,1

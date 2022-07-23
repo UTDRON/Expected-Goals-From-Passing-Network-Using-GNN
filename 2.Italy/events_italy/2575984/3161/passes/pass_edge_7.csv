@@ -1,0 +1,35 @@
+Source,Target,Weight
+D. D'Ambrosio,A. Candreva,5
+A. Candreva,R. Gagliardini,3
+Borja Valero,D. D'Ambrosio,3
+Jo\u00e3o Miranda,Borja Valero,3
+Dalbert,I. Peri\u0161i\u0107,2
+A. Candreva,Jo\u00e3o M\u00e1rio,2
+R. Gagliardini,M. Icardi,2
+R. Gagliardini,Borja Valero,2
+Borja Valero,R. Gagliardini,2
+R. Gagliardini,Jo\u00e3o Miranda,2
+I. Peri\u0161i\u0107,R. Gagliardini,1
+D. D'Ambrosio,R. Gagliardini,1
+Jo\u00e3o Miranda,Jo\u00e3o M\u00e1rio,1
+R. Gagliardini,A. Candreva,1
+Jo\u00e3o Miranda,S. Handanovi\u010d,1
+Borja Valero,Jo\u00e3o Miranda,1
+S. Handanovi\u010d,D. D'Ambrosio,1
+R. Gagliardini,M. \u0160kriniar,1
+D. D'Ambrosio,S. Handanovi\u010d,1
+Jo\u00e3o M\u00e1rio,D. D'Ambrosio,1
+S. Handanovi\u010d,Borja Valero,1
+Jo\u00e3o M\u00e1rio,Borja Valero,1
+M. Icardi,R. Gagliardini,1
+Jo\u00e3o M\u00e1rio,I. Peri\u0161i\u0107,1
+M. Icardi,D. D'Ambrosio,1
+A. Candreva,Dalbert,1
+Dalbert,R. Gagliardini,1
+Borja Valero,Dalbert,1
+M. \u0160kriniar,Jo\u00e3o Miranda,1
+R. Gagliardini,D. D'Ambrosio,1
+I. Peri\u0161i\u0107,Dalbert,1
+S. Handanovi\u010d,Dalbert,1
+Dalbert,M. Icardi,1
+M. Icardi,S. Handanovi\u010d,1

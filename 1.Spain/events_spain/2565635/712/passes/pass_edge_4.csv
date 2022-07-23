@@ -1,0 +1,18 @@
+Source,Target,Weight
+C. Beauvue,N. El Zhar,1
+Ra\u00fal Garc\u00eda,Cu\u00e9llar,1
+Gabriel,N. Amrabat,1
+Ra\u00fal Garc\u00eda,Gabriel,1
+Zald\u00faa,M. Dos Santos,1
+Rub\u00e9n P\u00e9rez,Ra\u00fal Garc\u00eda,1
+N. El Zhar,Ra\u00fal Garc\u00eda,1
+Cu\u00e9llar,Gabriel,1
+Ra\u00fal Garc\u00eda,N. El Zhar,1
+N. Amrabat,Gabriel,1
+Gabriel,C. Beauvue,1
+Gabriel,Rub\u00e9n P\u00e9rez,1
+Gabriel,Zald\u00faa,1
+Rub\u00e9n P\u00e9rez,Gabriel,1
+Rub\u00e9n P\u00e9rez,C. Beauvue,1
+M. Dos Santos,Ra\u00fal Garc\u00eda,1
+C. Beauvue,Rub\u00e9n P\u00e9rez,1

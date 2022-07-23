@@ -1,0 +1,44 @@
+Source,Target,Weight
+D. Maietta,I. M'baye,5
+R. Palacio,A. Masina,3
+S. De Maio,A. Masina,3
+I. M'baye,O. Okwonkwo,3
+A. Mirante,D. Maietta,2
+D. Maietta,S. De Maio,2
+S. De Maio,D. Maietta,2
+I. M'baye,E. Pulgar,2
+A. Masina,D. Maietta,2
+A. Masina,A. Mirante,2
+A. Mirante,I. M'baye,2
+I. M'baye,D. Maietta,2
+O. Okwonkwo,I. M'baye,2
+S. Verdi,E. Pulgar,1
+A. Poli,I. M'baye,1
+S. De Maio,A. Mirante,1
+S. Verdi,A. Mirante,1
+A. Poli,E. Pulgar,1
+I. M'baye,S. De Maio,1
+E. Pulgar,S. De Maio,1
+E. Pulgar,S. Verdi,1
+I. M'baye,A. Mirante,1
+G. Donsah,R. Palacio,1
+E. Pulgar,G. Donsah,1
+I. M'baye,R. Palacio,1
+G. Donsah,E. Pulgar,1
+A. Mirante,S. De Maio,1
+A. Masina,S. De Maio,1
+E. Pulgar,A. Poli,1
+D. Maietta,R. Palacio,1
+E. Pulgar,D. Maietta,1
+A. Masina,M. Destro,1
+D. Maietta,S. Verdi,1
+I. M'baye,G. Donsah,1
+A. Masina,R. Palacio,1
+S. Verdi,G. Donsah,1
+G. Donsah,O. Okwonkwo,1
+O. Okwonkwo,A. Masina,1
+R. Palacio,I. M'baye,1
+E. Pulgar,A. Masina,1
+O. Okwonkwo,G. Donsah,1
+A. Masina,E. Pulgar,1
+G. Donsah,S. Verdi,1

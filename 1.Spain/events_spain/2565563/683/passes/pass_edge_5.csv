@@ -1,0 +1,29 @@
+Source,Target,Weight
+Juankar,Jony,2
+Juankar,Recio,2
+Recio,Juankar,2
+Juankar,Luis Hern\u00e1ndez,1
+Luis Hern\u00e1ndez,R. Rosales,1
+\u00c1lex Mula,P. Baysse,1
+Borja Bast\u00f3n,\u00c1lex Mula,1
+Adri\u00e1n,Juankar,1
+P. Baysse,Juankar,1
+\u00c1lex Mula,Jony,1
+P. Baysse,\u00c1lex Mula,1
+Luis Hern\u00e1ndez,\u00c1lex Mula,1
+Jony,Juankar,1
+P. Baysse,Recio,1
+Recio,Borja Bast\u00f3n,1
+Recio,P. Baysse,1
+R. Rosales,Adri\u00e1n,1
+Juankar,R. Rosales,1
+Javi Ontiveros,P. Baysse,1
+R. Rosales,Javi Ontiveros,1
+P. Baysse,Roberto,1
+\u00c1lex Mula,Recio,1
+Javi Ontiveros,Adri\u00e1n,1
+Jony,R. Rosales,1
+Jony,Javi Ontiveros,1
+Adri\u00e1n,Jony,1
+R. Rosales,P. Baysse,1
+Roberto,Luis Hern\u00e1ndez,1

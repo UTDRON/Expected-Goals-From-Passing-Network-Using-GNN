@@ -1,0 +1,103 @@
+Source,Target,Weight
+J. Lerma,Sergio Postigo,9
+Pedro L\u00f3pez,Campa\u00f1a,7
+Campa\u00f1a,J. Lerma,6
+J. Lerma,Luna,6
+Pedro L\u00f3pez,\u00c1lex Alegr\u00eda,6
+Jos\u00e9 Luis Morales,Luna,6
+Campa\u00f1a,Pedro L\u00f3pez,5
+Luna,J. Lerma,5
+Chema,Luna,5
+\u00c1lex Alegr\u00eda,Pedro L\u00f3pez,5
+Chema,J. Lerma,5
+Luna,Chema,5
+Sergio Postigo,J. Lerma,5
+Luna,Jos\u00e9 Luis Morales,5
+J. Lerma,Chema,5
+E. Bardhi,Campa\u00f1a,4
+Sergio Postigo,Pedro L\u00f3pez,4
+Ivi,Luna,4
+Luna,E. Boateng,4
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,4
+Ra\u00fal Fern\u00e1ndez,Luna,4
+Pedro L\u00f3pez,J. Lerma,4
+J. Lerma,E. Bardhi,4
+J. Lerma,Campa\u00f1a,4
+Luna,Ivi,4
+Luna,Campa\u00f1a,3
+E. Bardhi,J. Lerma,3
+E. Bardhi,\u00c1lex Alegr\u00eda,3
+Pedro L\u00f3pez,E. Bardhi,3
+Campa\u00f1a,Jos\u00e9 Luis Morales,3
+E. Boateng,Pedro L\u00f3pez,3
+Luna,E. Bardhi,3
+J. Lerma,Pedro L\u00f3pez,3
+Luna,Ra\u00fal Fern\u00e1ndez,3
+E. Bardhi,Luna,3
+J. Lerma,\u00c1lex Alegr\u00eda,3
+E. Bardhi,Jos\u00e9 Luis Morales,3
+Campa\u00f1a,E. Bardhi,3
+Sergio Postigo,E. Boateng,3
+Campa\u00f1a,Ivi,3
+E. Boateng,J. Lerma,2
+Ra\u00fal Fern\u00e1ndez,Campa\u00f1a,2
+Sergio Postigo,E. Bardhi,2
+Campa\u00f1a,Chema,2
+\u00c1lex Alegr\u00eda,J. Lerma,2
+Pedro L\u00f3pez,Ra\u00fal Fern\u00e1ndez,2
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,2
+Jos\u00e9 Luis Morales,\u00c1lex Alegr\u00eda,2
+Campa\u00f1a,Luna,2
+E. Bardhi,Pedro L\u00f3pez,2
+\u00c1lex Alegr\u00eda,E. Bardhi,2
+Ivi,Sergio Postigo,2
+Sergio Postigo,Ra\u00fal Fern\u00e1ndez,2
+Jos\u00e9 Luis Morales,Chema,2
+Ra\u00fal Fern\u00e1ndez,E. Boateng,2
+Ivi,E. Bardhi,2
+E. Boateng,Jos\u00e9 Luis Morales,2
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+J. Lerma,Ra\u00fal Fern\u00e1ndez,1
+Sergio Postigo,Jos\u00e9 Luis Morales,1
+\u00c1lex Alegr\u00eda,Sergio Postigo,1
+Pedro L\u00f3pez,Luna,1
+E. Boateng,Campa\u00f1a,1
+E. Bardhi,Ivi,1
+E. Boateng,Sergio Postigo,1
+Sergio Postigo,Ivi,1
+Jos\u00e9 Luis Morales,E. Bardhi,1
+S. Moore,Sergio Postigo,1
+Ra\u00fal Fern\u00e1ndez,\u00c1lex Alegr\u00eda,1
+Ivi,Ra\u00fal Fern\u00e1ndez,1
+Ra\u00fal Fern\u00e1ndez,J. Lerma,1
+\u00c1lex Alegr\u00eda,Chema,1
+Jos\u00e9 Luis Morales,E. Boateng,1
+Chema,Sergio Postigo,1
+Jos\u00e9 Luis Morales,S. Moore,1
+E. Bardhi,Chema,1
+\u00c1lex Alegr\u00eda,Campa\u00f1a,1
+Chema,E. Bardhi,1
+Pedro L\u00f3pez,Sergio Postigo,1
+\u00c1lex Alegr\u00eda,Jos\u00e9 Luis Morales,1
+E. Bardhi,Sergio Postigo,1
+Jos\u00e9 Luis Morales,Sergio Postigo,1
+Chema,Jos\u00e9 Luis Morales,1
+\u00c1lex Alegr\u00eda,Ra\u00fal Fern\u00e1ndez,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+Luna,Sergio Postigo,1
+Sergio Postigo,Luna,1
+Ra\u00fal Fern\u00e1ndez,Ivi,1
+S. Moore,Campa\u00f1a,1
+E. Boateng,Ivi,1
+Ivi,J. Lerma,1
+Pedro L\u00f3pez,S. Moore,1
+Luna,Pedro L\u00f3pez,1
+Chema,Campa\u00f1a,1
+Campa\u00f1a,Sergio Postigo,1
+\u00c1lex Alegr\u00eda,Luna,1
+Chema,Ra\u00fal Fern\u00e1ndez,1
+Sergio Postigo,S. Moore,1
+Pedro L\u00f3pez,E. Boateng,1
+S. Moore,Jos\u00e9 Luis Morales,1
+Ivi,Jos\u00e9 Luis Morales,1
+Chema,Pedro L\u00f3pez,1

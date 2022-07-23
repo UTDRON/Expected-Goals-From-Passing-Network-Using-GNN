@@ -1,0 +1,61 @@
+Source,Target,Weight
+V\u00edctor S\u00e1nchez,H. P\u00e9rez,4
+David L\u00f3pez,V\u00edctor S\u00e1nchez,3
+L\u00e9o Baptist\u00e3o,V\u00edctor S\u00e1nchez,3
+Sergi Darder,David L\u00f3pez,3
+Mario Hermoso,L\u00e9o Baptist\u00e3o,3
+David L\u00f3pez,Sergi Darder,3
+Granero,Sergi Darder,3
+Aar\u00f3n,Mario Hermoso,3
+Gerard Moreno,V\u00edctor S\u00e1nchez,3
+V\u00edctor S\u00e1nchez,Mario Hermoso,3
+Javi Fuego,V\u00edctor S\u00e1nchez,2
+H. P\u00e9rez,Granero,2
+David L\u00f3pez,Gerard Moreno,2
+V\u00edctor S\u00e1nchez,L\u00e9o Baptist\u00e3o,2
+Mario Hermoso,David L\u00f3pez,2
+Sergi Darder,Granero,2
+V\u00edctor S\u00e1nchez,Sergi Darder,2
+Granero,Jurado,2
+Sergi Darder,H. P\u00e9rez,2
+Gerard Moreno,Jurado,2
+Aar\u00f3n,David L\u00f3pez,2
+Jurado,Aar\u00f3n,2
+Sergi Darder,V\u00edctor S\u00e1nchez,2
+Jurado,Granero,2
+Granero,Aar\u00f3n,2
+Granero,L\u00e9o Baptist\u00e3o,2
+Granero,V\u00edctor S\u00e1nchez,2
+H. P\u00e9rez,Gerard Moreno,1
+Mario Hermoso,Aar\u00f3n,1
+David L\u00f3pez,Mario Hermoso,1
+H. P\u00e9rez,Mario Hermoso,1
+V\u00edctor S\u00e1nchez,Gerard Moreno,1
+V\u00edctor S\u00e1nchez,Aar\u00f3n,1
+Mario Hermoso,Pau L\u00f3pez,1
+V\u00edctor S\u00e1nchez,Jurado,1
+L\u00e9o Baptist\u00e3o,Mario Hermoso,1
+Mario Hermoso,Jurado,1
+Jurado,David L\u00f3pez,1
+Aar\u00f3n,Granero,1
+Jurado,Gerard Moreno,1
+L\u00e9o Baptist\u00e3o,H. P\u00e9rez,1
+L\u00e9o Baptist\u00e3o,David L\u00f3pez,1
+V\u00edctor S\u00e1nchez,David L\u00f3pez,1
+L\u00e9o Baptist\u00e3o,Javi Fuego,1
+H. P\u00e9rez,V\u00edctor S\u00e1nchez,1
+David L\u00f3pez,Granero,1
+Aar\u00f3n,Jurado,1
+Sergi Darder,Gerard Moreno,1
+H. P\u00e9rez,Sergi Darder,1
+L\u00e9o Baptist\u00e3o,Granero,1
+Mario Hermoso,Sergi Darder,1
+David L\u00f3pez,L\u00e9o Baptist\u00e3o,1
+Pau L\u00f3pez,Gerard Moreno,1
+Jurado,Mario Hermoso,1
+V\u00edctor S\u00e1nchez,Pau L\u00f3pez,1
+Mario Hermoso,V\u00edctor S\u00e1nchez,1
+Gerard Moreno,Granero,1
+H. P\u00e9rez,David L\u00f3pez,1
+Pau L\u00f3pez,Aar\u00f3n,1
+V\u00edctor S\u00e1nchez,Granero,1

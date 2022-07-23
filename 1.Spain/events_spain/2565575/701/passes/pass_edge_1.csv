@@ -1,0 +1,98 @@
+Source,Target,Weight
+Ander Capa,Sergi Enrich,9
+Jos\u00e9 \u00c1ngel,Kike Garc\u00eda,8
+Kike Garc\u00eda,T. Inui,7
+Ramis,Jos\u00e9 \u00c1ngel,6
+Sergi Enrich,Iv\u00e1n Alejo,5
+Kike Garc\u00eda,Jos\u00e9 \u00c1ngel,5
+M. Dmitrovi\u0107,Kike Garc\u00eda,5
+Dani Garc\u00eda,M. Dmitrovi\u0107,4
+Sergi Enrich,G. Escalante,4
+T. Inui,Dani Garc\u00eda,4
+Iv\u00e1n Alejo,Ander Capa,4
+T. Inui,Jos\u00e9 \u00c1ngel,4
+Iv\u00e1n Alejo,G. Escalante,4
+G. Escalante,Sergi Enrich,4
+Dani Garc\u00eda,Kike Garc\u00eda,4
+Jos\u00e9 \u00c1ngel,Ramis,4
+G. Escalante,Iv\u00e1n Alejo,4
+G. Escalante,Ander Capa,4
+Ander Capa,Dani Garc\u00eda,4
+Ander Capa,Jos\u00e9 \u00c1ngel,3
+Dani Garc\u00eda,Jos\u00e9 \u00c1ngel,3
+Ander Capa,Iv\u00e1n Alejo,3
+G. Escalante,Dani Garc\u00eda,3
+Sergi Enrich,Rub\u00e9n Pe\u00f1a,3
+Jos\u00e9 \u00c1ngel,T. Inui,3
+G. Escalante,Kike Garc\u00eda,3
+Dani Garc\u00eda,Ramis,3
+Jos\u00e9 \u00c1ngel,Paulo Oliveira,3
+Ander Capa,G. Escalante,3
+Sergi Enrich,Ander Capa,3
+Jos\u00e9 \u00c1ngel,G. Escalante,3
+Iv\u00e1n Alejo,Dani Garc\u00eda,3
+Dani Garc\u00eda,G. Escalante,3
+Dani Garc\u00eda,Sergi Enrich,3
+Jos\u00e9 \u00c1ngel,Sergi Enrich,3
+Sergi Enrich,Dani Garc\u00eda,3
+Ramis,G. Escalante,3
+Sergi Enrich,T. Inui,3
+Jos\u00e9 \u00c1ngel,Dani Garc\u00eda,3
+G. Escalante,Jos\u00e9 \u00c1ngel,3
+Dani Garc\u00eda,T. Inui,2
+M. Dmitrovi\u0107,Dani Garc\u00eda,2
+T. Inui,Kike Garc\u00eda,2
+Jos\u00e9 \u00c1ngel,Ander Capa,2
+Ramis,Ander Capa,2
+Paulo Oliveira,M. Dmitrovi\u0107,2
+Iv\u00e1n Alejo,Jos\u00e9 \u00c1ngel,2
+Kike Garc\u00eda,Ander Capa,2
+T. Inui,Ander Capa,2
+G. Escalante,Paulo Oliveira,2
+Kike Garc\u00eda,G. Escalante,2
+T. Inui,Ramis,2
+Sergi Enrich,Ramis,2
+M. Dmitrovi\u0107,Sergi Enrich,2
+Kike Garc\u00eda,Dani Garc\u00eda,2
+Dani Garc\u00eda,Iv\u00e1n Alejo,2
+Dani Garc\u00eda,Ander Capa,2
+Sergi Enrich,Paulo Oliveira,2
+T. Inui,M. Dmitrovi\u0107,2
+G. Escalante,Rub\u00e9n Pe\u00f1a,1
+Ander Capa,Ramis,1
+Ramis,Dani Garc\u00eda,1
+Rub\u00e9n Pe\u00f1a,G. Escalante,1
+Rub\u00e9n Pe\u00f1a,Kike Garc\u00eda,1
+Ramis,M. Dmitrovi\u0107,1
+Paulo Oliveira,Jos\u00e9 \u00c1ngel,1
+Kike Garc\u00eda,Sergi Enrich,1
+Paulo Oliveira,Ander Capa,1
+Kike Garc\u00eda,Iv\u00e1n Alejo,1
+Rub\u00e9n Pe\u00f1a,Ramis,1
+Sergi Enrich,Jos\u00e9 \u00c1ngel,1
+Kike Garc\u00eda,Ramis,1
+Iv\u00e1n Alejo,M. Dmitrovi\u0107,1
+Rub\u00e9n Pe\u00f1a,Ander Capa,1
+Paulo Oliveira,Ramis,1
+Kike Garc\u00eda,Paulo Oliveira,1
+M. Dmitrovi\u0107,Ander Capa,1
+Rub\u00e9n Pe\u00f1a,Sergi Enrich,1
+Paulo Oliveira,G. Escalante,1
+Paulo Oliveira,Rub\u00e9n Pe\u00f1a,1
+Iv\u00e1n Alejo,Paulo Oliveira,1
+Ramis,T. Inui,1
+Iv\u00e1n Alejo,T. Inui,1
+Sergi Enrich,M. Dmitrovi\u0107,1
+Ander Capa,M. Dmitrovi\u0107,1
+G. Escalante,T. Inui,1
+Paulo Oliveira,Iv\u00e1n Alejo,1
+M. Dmitrovi\u0107,Jos\u00e9 \u00c1ngel,1
+T. Inui,Sergi Enrich,1
+M. Dmitrovi\u0107,Paulo Oliveira,1
+Ramis,Sergi Enrich,1
+Jos\u00e9 \u00c1ngel,Iv\u00e1n Alejo,1
+Kike Garc\u00eda,M. Dmitrovi\u0107,1
+Paulo Oliveira,Sergi Enrich,1
+M. Dmitrovi\u0107,G. Escalante,1
+Iv\u00e1n Alejo,Sergi Enrich,1
+Paulo Oliveira,Dani Garc\u00eda,1

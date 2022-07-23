@@ -1,0 +1,33 @@
+Source,Target,Weight
+Sa\u00fal,Thomas,4
+Koke,J. Gim\u00e9nez,3
+Filipe Luis,N. Gait\u00e1n,3
+D. God\u00edn,Sa\u00fal,3
+Filipe Luis,D. God\u00edn,2
+D. God\u00edn,S. Savi\u0107,2
+J. Gim\u00e9nez,S. Savi\u0107,2
+S. Savi\u0107,D. God\u00edn,2
+S. Savi\u0107,Sa\u00fal,2
+J. Gim\u00e9nez,Koke,2
+D. God\u00edn,Filipe Luis,2
+Sa\u00fal,Filipe Luis,1
+Filipe Luis,Koke,1
+Thomas,Sa\u00fal,1
+Koke,Filipe Luis,1
+N. Gait\u00e1n,A. Griezmann,1
+N. Gait\u00e1n,Filipe Luis,1
+Thomas,S. Savi\u0107,1
+Sa\u00fal,N. Gait\u00e1n,1
+N. Gait\u00e1n,D. God\u00edn,1
+A. Griezmann,Filipe Luis,1
+S. Savi\u0107,A. Griezmann,1
+\u00c1. Correa,Filipe Luis,1
+N. Gait\u00e1n,Sa\u00fal,1
+Sa\u00fal,D. God\u00edn,1
+Thomas,D. God\u00edn,1
+Thomas,\u00c1. Correa,1
+A. Griezmann,N. Gait\u00e1n,1
+D. God\u00edn,Thomas,1
+N. Gait\u00e1n,J. Gim\u00e9nez,1
+Thomas,Koke,1
+Koke,D. God\u00edn,1

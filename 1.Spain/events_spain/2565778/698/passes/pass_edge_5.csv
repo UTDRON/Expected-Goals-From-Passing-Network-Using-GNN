@@ -1,0 +1,40 @@
+Source,Target,Weight
+Jorge Molina,\u00c1ngel,4
+D. Su\u00e1rez,Portillo,3
+D. Su\u00e1rez,Jorge Molina,3
+Portillo,Jorge Molina,2
+L. Cabrera,Jorge Molina,2
+Jorge Molina,Bruno,2
+A. Ndiaye,Jorge Molina,2
+Portillo,D. Su\u00e1rez,2
+Jorge Molina,D. Su\u00e1rez,2
+\u00c1ngel,A. Ndiaye,2
+\u00c1ngel,D. Su\u00e1rez,2
+L. Cabrera,Portillo,1
+M. Arambarri,F. Fajr,1
+F. Fajr,A. Ndiaye,1
+Djen\u00e9,Portillo,1
+Portillo,L. Cabrera,1
+Bruno,A. Ndiaye,1
+A. Ndiaye,Guaita,1
+Djen\u00e9,L. Cabrera,1
+\u00c1ngel,Jorge Molina,1
+Jorge Molina,Portillo,1
+\u00c1ngel,Djen\u00e9,1
+Portillo,Guaita,1
+Portillo,\u00c1ngel,1
+A. Ndiaye,Djen\u00e9,1
+Djen\u00e9,Guaita,1
+Guaita,F. Fajr,1
+L. Cabrera,M. Arambarri,1
+Guaita,Jorge Molina,1
+Jorge Molina,A. Ndiaye,1
+A. Ndiaye,Bruno,1
+Jorge Molina,L. Cabrera,1
+F. Fajr,Portillo,1
+Bruno,L. Cabrera,1
+L. Cabrera,\u00c1ngel,1
+Guaita,\u00c1ngel,1
+\u00c1ngel,L. Cabrera,1
+Bruno,Djen\u00e9,1
+Bruno,Jorge Molina,1

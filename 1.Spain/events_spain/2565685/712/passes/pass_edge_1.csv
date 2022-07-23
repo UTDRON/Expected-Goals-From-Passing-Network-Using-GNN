@@ -1,0 +1,44 @@
+Source,Target,Weight
+Diego Rico,Gabriel,4
+Cu\u00e9llar,Ra\u00fal Garc\u00eda,3
+Tito,N. El Zhar,3
+Cu\u00e9llar,Gabriel,3
+Bustinza,Tito,3
+N. El Zhar,Eraso,3
+Gabriel,Eraso,3
+Tito,Cu\u00e9llar,2
+C. Beauvue,Rub\u00e9n P\u00e9rez,2
+Rub\u00e9n P\u00e9rez,Diego Rico,2
+Eraso,C. Beauvue,2
+Bustinza,Cu\u00e9llar,2
+Eraso,Tito,2
+Ra\u00fal Garc\u00eda,Diego Rico,2
+Eraso,Rub\u00e9n P\u00e9rez,2
+Rub\u00e9n P\u00e9rez,Tito,2
+Eraso,Bustinza,1
+Rub\u00e9n P\u00e9rez,Eraso,1
+Gabriel,Cu\u00e9llar,1
+A. Szymanowski,Bustinza,1
+Eraso,Ra\u00fal Garc\u00eda,1
+Eraso,Diego Rico,1
+Ra\u00fal Garc\u00eda,C. Beauvue,1
+Gabriel,Ra\u00fal Garc\u00eda,1
+Rub\u00e9n P\u00e9rez,Gabriel,1
+Eraso,N. El Zhar,1
+Tito,Bustinza,1
+A. Szymanowski,Ra\u00fal Garc\u00eda,1
+Gabriel,A. Szymanowski,1
+Gabriel,Rub\u00e9n P\u00e9rez,1
+N. El Zhar,Rub\u00e9n P\u00e9rez,1
+Rub\u00e9n P\u00e9rez,A. Szymanowski,1
+Ra\u00fal Garc\u00eda,Bustinza,1
+Rub\u00e9n P\u00e9rez,Bustinza,1
+Tito,Eraso,1
+Ra\u00fal Garc\u00eda,Eraso,1
+Gabriel,Diego Rico,1
+Ra\u00fal Garc\u00eda,Rub\u00e9n P\u00e9rez,1
+Diego Rico,A. Szymanowski,1
+Diego Rico,Ra\u00fal Garc\u00eda,1
+A. Szymanowski,Tito,1
+Tito,Rub\u00e9n P\u00e9rez,1
+Ra\u00fal Garc\u00eda,Cu\u00e9llar,1

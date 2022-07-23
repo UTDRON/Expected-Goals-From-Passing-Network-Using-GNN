@@ -1,0 +1,21 @@
+Source,Target,Weight
+D. Praet,E. Viviano,2
+G. Ram\u00edrez,B. Bereszy\u0144ski,2
+B. Bereszy\u0144ski,D. Praet,2
+B. Bereszy\u0144ski,G. Ram\u00edrez,1
+F. Quagliarella,G. Ferrari,1
+F. Quagliarella,D. Zapata,1
+D. Zapata,F. Quagliarella,1
+L. Torreira,G. Ram\u00edrez,1
+L. Torreira,D. Praet,1
+E. Viviano,D. Zapata,1
+D. Praet,D. Zapata,1
+G. Ferrari,D. Praet,1
+D. Praet,B. Bereszy\u0144ski,1
+E. Viviano,G. Ram\u00edrez,1
+G. Ferrari,L. Torreira,1
+D. Zapata,G. Ram\u00edrez,1
+M. Silvestre,G. Ferrari,1
+G. Ram\u00edrez,D. Praet,1
+G. Ram\u00edrez,F. Quagliarella,1
+D. Praet,L. Torreira,1

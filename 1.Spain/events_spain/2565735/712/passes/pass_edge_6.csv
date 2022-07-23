@@ -1,0 +1,47 @@
+Source,Target,Weight
+Omar Ramos,Zald\u00faa,5
+Gabriel,Omar Ramos,3
+Zald\u00faa,Omar Ramos,3
+Zald\u00faa,Gabriel,3
+Eraso,Omar Ramos,2
+Omar Ramos,Gabriel,2
+Gabriel,Gumbau,2
+Bustinza,Zald\u00faa,2
+M. Mantovani,Eraso,2
+Eraso,M. Mantovani,2
+Zald\u00faa,Bustinza,2
+Gumbau,Zald\u00faa,2
+Gumbau,Eraso,2
+Zald\u00faa,Cu\u00e9llar,1
+Zald\u00faa,Guerrero,1
+N. Amrabat,Ra\u00fal Garc\u00eda,1
+Bustinza,Omar Ramos,1
+Eraso,Ra\u00fal Garc\u00eda,1
+Guerrero,Bustinza,1
+Omar Ramos,Bustinza,1
+Bustinza,Gabriel,1
+M. Mantovani,Guerrero,1
+Gumbau,M. Mantovani,1
+Bustinza,Eraso,1
+Zald\u00faa,Eraso,1
+Omar Ramos,Gumbau,1
+Ra\u00fal Garc\u00eda,Eraso,1
+Cu\u00e9llar,N. Amrabat,1
+Guerrero,N. Amrabat,1
+Gabriel,M. Mantovani,1
+Ra\u00fal Garc\u00eda,N. Amrabat,1
+N. Amrabat,Eraso,1
+Guerrero,Eraso,1
+Eraso,Bustinza,1
+Gabriel,Bustinza,1
+M. Mantovani,Ra\u00fal Garc\u00eda,1
+Gumbau,Bustinza,1
+M. Mantovani,Omar Ramos,1
+Gumbau,Gabriel,1
+Omar Ramos,M. Mantovani,1
+Bustinza,Guerrero,1
+Bustinza,Gumbau,1
+Ra\u00fal Garc\u00eda,Gumbau,1
+Eraso,Gumbau,1
+Eraso,Zald\u00faa,1
+N. Amrabat,Gumbau,1

@@ -1,0 +1,61 @@
+Source,Target,Weight
+A. Kolarov,D. Perotti,6
+D. Perotti,A. Kolarov,5
+K. Manolas,Bruno Peres,5
+K. Manolas,F. Fazio,4
+F. Fazio,K. Manolas,4
+Alisson,A. Kolarov,3
+Bruno Peres,K. Manolas,3
+A. Kolarov,Alisson,3
+L. Pellegrini,C. \u00dcnder,2
+K. Strootman,R. Nainggolan,2
+K. Manolas,Alisson,2
+R. Nainggolan,K. Manolas,2
+Bruno Peres,C. \u00dcnder,2
+Alisson,F. Fazio,2
+Bruno Peres,L. Pellegrini,2
+D. Perotti,P. Schick,2
+A. Kolarov,K. Manolas,2
+P. Schick,A. Kolarov,2
+K. Manolas,R. Nainggolan,2
+F. Fazio,A. Kolarov,2
+Bruno Peres,K. Strootman,2
+L. Pellegrini,A. Kolarov,2
+A. Kolarov,P. Schick,2
+R. Nainggolan,P. Schick,2
+C. \u00dcnder,L. Pellegrini,2
+F. Fazio,D. Perotti,2
+R. Nainggolan,C. \u00dcnder,1
+Bruno Peres,D. Perotti,1
+Alisson,L. Pellegrini,1
+L. Pellegrini,Bruno Peres,1
+D. Perotti,Bruno Peres,1
+F. Fazio,K. Strootman,1
+L. Pellegrini,D. Perotti,1
+A. Kolarov,R. Nainggolan,1
+K. Strootman,F. Fazio,1
+R. Nainggolan,L. Pellegrini,1
+P. Schick,K. Strootman,1
+L. Pellegrini,P. Schick,1
+P. Schick,R. Nainggolan,1
+C. \u00dcnder,D. Perotti,1
+K. Manolas,C. \u00dcnder,1
+L. Pellegrini,K. Manolas,1
+C. \u00dcnder,Bruno Peres,1
+D. Perotti,Alisson,1
+A. Kolarov,L. Pellegrini,1
+K. Strootman,K. Manolas,1
+Alisson,K. Strootman,1
+K. Strootman,Bruno Peres,1
+K. Manolas,L. Pellegrini,1
+D. Perotti,K. Manolas,1
+C. \u00dcnder,R. Nainggolan,1
+L. Pellegrini,F. Fazio,1
+D. Perotti,F. Fazio,1
+P. Schick,L. Pellegrini,1
+P. Schick,D. Perotti,1
+C. \u00dcnder,K. Manolas,1
+D. Perotti,K. Strootman,1
+P. Schick,Bruno Peres,1
+R. Nainggolan,K. Strootman,1
+K. Strootman,Alisson,1

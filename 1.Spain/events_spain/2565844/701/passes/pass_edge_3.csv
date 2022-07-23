@@ -1,0 +1,33 @@
+Source,Target,Weight
+Pedro Le\u00f3n,Joan Jord\u00e1n,4
+Rub\u00e9n Pe\u00f1a,Pedro Le\u00f3n,3
+Joan Jord\u00e1n,Rub\u00e9n Pe\u00f1a,3
+Kike Garc\u00eda,T. Inui,2
+Charles,Rub\u00e9n Pe\u00f1a,1
+Pedro Le\u00f3n,Jos\u00e9 \u00c1ngel,1
+Jos\u00e9 \u00c1ngel,Arbilla,1
+Arbilla,Jos\u00e9 \u00c1ngel,1
+T. Inui,Kike Garc\u00eda,1
+Pedro Le\u00f3n,T. Inui,1
+T. Inui,Joan Jord\u00e1n,1
+Charles,P. Diop,1
+Arbilla,Rub\u00e9n Pe\u00f1a,1
+Arbilla,Charles,1
+Rub\u00e9n Pe\u00f1a,Ramis,1
+Joan Jord\u00e1n,Arbilla,1
+Arbilla,T. Inui,1
+Kike Garc\u00eda,Pedro Le\u00f3n,1
+Joan Jord\u00e1n,Pedro Le\u00f3n,1
+T. Inui,Jos\u00e9 \u00c1ngel,1
+P. Diop,Charles,1
+P. Diop,Rub\u00e9n Pe\u00f1a,1
+Jos\u00e9 \u00c1ngel,Kike Garc\u00eda,1
+Joan Jord\u00e1n,Charles,1
+Ramis,Pedro Le\u00f3n,1
+T. Inui,P. Diop,1
+Charles,Ramis,1
+Jos\u00e9 \u00c1ngel,P. Diop,1
+P. Diop,Jos\u00e9 \u00c1ngel,1
+Ramis,Joan Jord\u00e1n,1
+Rub\u00e9n Pe\u00f1a,Kike Garc\u00eda,1
+Rub\u00e9n Pe\u00f1a,Arbilla,1

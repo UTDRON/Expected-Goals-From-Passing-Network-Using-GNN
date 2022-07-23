@@ -1,0 +1,34 @@
+Source,Target,Weight
+C. Zapata,R. Rodr\u00edguez,3
+L. Bonucci,H. \u00c7alhano\u011flu,2
+C. Zapata,Suso,2
+G. Bonaventura,P. Cutrone,2
+L. Biglia,L. Bonucci,2
+Suso,L. Biglia,2
+L. Biglia,C. Zapata,2
+L. Biglia,Suso,1
+L. Bonucci,F. Borini,1
+F. Borini,F. Kessi\u00e9,1
+R. Rodr\u00edguez,F. Kessi\u00e9,1
+C. Zapata,L. Bonucci,1
+R. Rodr\u00edguez,L. Biglia,1
+F. Borini,P. Cutrone,1
+L. Bonucci,C. Zapata,1
+P. Cutrone,C. Zapata,1
+G. Bonaventura,C. Zapata,1
+F. Kessi\u00e9,G. Bonaventura,1
+P. Cutrone,G. Bonaventura,1
+Andr\u00e9 Silva,G. Bonaventura,1
+R. Rodr\u00edguez,C. Zapata,1
+Suso,P. Cutrone,1
+H. \u00c7alhano\u011flu,Andr\u00e9 Silva,1
+L. Biglia,F. Borini,1
+P. Cutrone,Suso,1
+Suso,G. Bonaventura,1
+H. \u00c7alhano\u011flu,L. Biglia,1
+L. Bonucci,G. Bonaventura,1
+F. Kessi\u00e9,L. Biglia,1
+P. Cutrone,L. Bonucci,1
+G. Bonaventura,H. \u00c7alhano\u011flu,1
+C. Zapata,L. Biglia,1
+H. \u00c7alhano\u011flu,L. Bonucci,1

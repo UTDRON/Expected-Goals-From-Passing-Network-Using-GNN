@@ -1,0 +1,55 @@
+Source,Target,Weight
+D. Rol\u00e1n,R. Rosales,5
+M. Lacen,Miguel Torres,5
+Miguel Torres,M. Lacen,4
+R. Rosales,M. Iturra,3
+R. Rosales,Bueno,3
+M. Lestienne,Adri\u00e1n,2
+Miguel Torres,M. Lestienne,2
+Miguel Torres,Luis Hern\u00e1ndez,2
+R. Rosales,D. Rol\u00e1n,2
+Luis Hern\u00e1ndez,R. Rosales,2
+Miquel,Luis Hern\u00e1ndez,2
+Luis Hern\u00e1ndez,Miguel Torres,2
+Miguel Torres,Bueno,2
+Y. En-Nesyri,M. Iturra,2
+M. Iturra,D. Rol\u00e1n,2
+Adri\u00e1n,Miguel Torres,2
+M. Iturra,M. Lacen,2
+Bueno,M. Lacen,1
+M. Iturra,Adri\u00e1n,1
+M. Lacen,Roberto,1
+Bueno,R. Rosales,1
+Roberto,Y. En-Nesyri,1
+Roberto,R. Rosales,1
+Bueno,D. Rol\u00e1n,1
+R. Rosales,Luis Hern\u00e1ndez,1
+Y. En-Nesyri,Adri\u00e1n,1
+Bueno,M. Lestienne,1
+Bueno,Miguel Torres,1
+D. Rol\u00e1n,Miquel,1
+D. Rol\u00e1n,Miguel Torres,1
+Miguel Torres,Miquel,1
+Adri\u00e1n,Y. En-Nesyri,1
+Y. En-Nesyri,D. Rol\u00e1n,1
+Luis Hern\u00e1ndez,Roberto,1
+Luis Hern\u00e1ndez,Adri\u00e1n,1
+M. Iturra,Y. En-Nesyri,1
+Miquel,Bueno,1
+D. Rol\u00e1n,Y. En-Nesyri,1
+R. Rosales,Y. En-Nesyri,1
+Bueno,Y. En-Nesyri,1
+M. Iturra,Luis Hern\u00e1ndez,1
+Adri\u00e1n,Luis Hern\u00e1ndez,1
+Bueno,Adri\u00e1n,1
+M. Lacen,Miquel,1
+M. Lacen,D. Rol\u00e1n,1
+Adri\u00e1n,Bueno,1
+Luis Hern\u00e1ndez,M. Iturra,1
+Adri\u00e1n,M. Iturra,1
+Miquel,Roberto,1
+Bueno,Miquel,1
+Miquel,M. Lacen,1
+Roberto,D. Rol\u00e1n,1
+M. Lestienne,Bueno,1
+Y. En-Nesyri,Miquel,1

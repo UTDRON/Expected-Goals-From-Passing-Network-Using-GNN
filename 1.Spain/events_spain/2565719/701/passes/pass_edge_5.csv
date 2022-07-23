@@ -1,0 +1,23 @@
+Source,Target,Weight
+T. Inui,Arbilla,3
+Arbilla,T. Inui,3
+Sergi Enrich,Joan Jord\u00e1n,2
+Jos\u00e9 \u00c1ngel,T. Inui,2
+Joan Jord\u00e1n,Charles,2
+Iv\u00e1n Alejo,Joan Jord\u00e1n,2
+Charles,Iv\u00e1n Alejo,1
+Sergi Enrich,Charles,1
+Joan Jord\u00e1n,Paulo Oliveira,1
+T. Inui,Sergi Enrich,1
+Joan Jord\u00e1n,Iv\u00e1n Alejo,1
+Charles,Sergi Enrich,1
+Joan Jord\u00e1n,Rub\u00e9n Pe\u00f1a,1
+Rub\u00e9n Pe\u00f1a,Jos\u00e9 \u00c1ngel,1
+Sergi Enrich,Paulo Oliveira,1
+Joan Jord\u00e1n,Sergi Enrich,1
+Paulo Oliveira,Arbilla,1
+Paulo Oliveira,Charles,1
+Charles,Joan Jord\u00e1n,1
+Jos\u00e9 \u00c1ngel,Joan Jord\u00e1n,1
+T. Inui,Jos\u00e9 \u00c1ngel,1
+Arbilla,Sergi Enrich,1

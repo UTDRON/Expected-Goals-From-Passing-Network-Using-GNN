@@ -1,0 +1,52 @@
+Source,Target,Weight
+D. Siovas,Bustinza,3
+Gabriel,Rub\u00e9n P\u00e9rez,3
+Bustinza,Zald\u00faa,3
+Rub\u00e9n P\u00e9rez,Omar Ramos,2
+N. El Zhar,Rub\u00e9n P\u00e9rez,2
+Diego Rico,Eraso,2
+Gabriel,Omar Ramos,2
+Gabriel,Diego Rico,2
+D. Siovas,Diego Rico,2
+Rub\u00e9n P\u00e9rez,Zald\u00faa,2
+Zald\u00faa,Gabriel,2
+Gabriel,Zald\u00faa,2
+Zald\u00faa,N. El Zhar,2
+N. El Zhar,Eraso,2
+Eraso,D. Siovas,2
+Diego Rico,D. Siovas,2
+Zald\u00faa,N. Amrabat,2
+Eraso,Diego Rico,1
+Eraso,Gabriel,1
+Eraso,Rub\u00e9n P\u00e9rez,1
+D. Siovas,Gabriel,1
+N. El Zhar,Bustinza,1
+Omar Ramos,Rub\u00e9n P\u00e9rez,1
+N. Amrabat,D. Siovas,1
+N. Amrabat,Diego Rico,1
+Bustinza,Gabriel,1
+N. Amrabat,Bustinza,1
+Rub\u00e9n P\u00e9rez,Bustinza,1
+Bustinza,Eraso,1
+Diego Rico,Rub\u00e9n P\u00e9rez,1
+N. Amrabat,Omar Ramos,1
+Omar Ramos,N. El Zhar,1
+Cu\u00e9llar,Rub\u00e9n P\u00e9rez,1
+Diego Rico,N. El Zhar,1
+N. Amrabat,Gabriel,1
+Rub\u00e9n P\u00e9rez,Diego Rico,1
+Diego Rico,Gabriel,1
+Omar Ramos,Gabriel,1
+N. El Zhar,N. Amrabat,1
+Zald\u00faa,Rub\u00e9n P\u00e9rez,1
+Rub\u00e9n P\u00e9rez,D. Siovas,1
+Rub\u00e9n P\u00e9rez,N. El Zhar,1
+Omar Ramos,Diego Rico,1
+Zald\u00faa,Bustinza,1
+Rub\u00e9n P\u00e9rez,N. Amrabat,1
+D. Siovas,N. El Zhar,1
+Bustinza,Cu\u00e9llar,1
+Omar Ramos,Zald\u00faa,1
+Rub\u00e9n P\u00e9rez,Gabriel,1
+Diego Rico,N. Amrabat,1
+Bustinza,D. Siovas,1

@@ -1,0 +1,78 @@
+Source,Target,Weight
+Sergio Escudero,\u00c9. Banega,6
+G. Pizarro,Sergio Escudero,5
+C. Lenglet,Sergio Escudero,4
+Sergio Escudero,Nolito,4
+G. Pizarro,S. Kj\u00e6r,3
+Sergio Escudero,C. Lenglet,3
+Nolito,Sergio Escudero,3
+\u00c9. Banega,Sergio Escudero,3
+David Soria,\u00c9. Banega,3
+G. Mercado,David Soria,3
+\u00c9. Banega,G. Pizarro,3
+S. Kj\u00e6r,M. Krohn-Dehli,3
+G. Mercado,S. Kj\u00e6r,3
+G. Mercado,G. Pizarro,3
+G. Pizarro,S. N'Zonzi,3
+S. Kj\u00e6r,G. Pizarro,3
+S. Kj\u00e6r,G. Mercado,3
+C. Lenglet,S. Kj\u00e6r,3
+Jes\u00fas Navas,L. Muriel,2
+\u00c9. Banega,Nolito,2
+Jes\u00fas Navas,S. Kj\u00e6r,2
+L. Muriel,Jes\u00fas Navas,2
+David Soria,G. Mercado,2
+S. Kj\u00e6r,C. Lenglet,2
+\u00c9. Banega,G. Mercado,2
+Sergio Escudero,G. Pizarro,2
+M. Krohn-Dehli,Jes\u00fas Navas,2
+M. Krohn-Dehli,S. Kj\u00e6r,2
+S. N'Zonzi,\u00c9. Banega,2
+G. Mercado,M. Krohn-Dehli,2
+\u00c9. Banega,C. Lenglet,2
+C. Lenglet,\u00c9. Banega,2
+M. Krohn-Dehli,G. Pizarro,1
+Jes\u00fas Navas,G. Pizarro,1
+G. Pizarro,C. Lenglet,1
+\u00c9. Banega,L. Muriel,1
+David Soria,C. Lenglet,1
+L. Muriel,S. N'Zonzi,1
+S. Kj\u00e6r,David Soria,1
+S. Kj\u00e6r,L. Muriel,1
+Nolito,C. Lenglet,1
+C. Lenglet,G. Pizarro,1
+S. N'Zonzi,G. Pizarro,1
+M. Krohn-Dehli,L. Muriel,1
+G. Mercado,\u00c9. Banega,1
+L. Muriel,M. Krohn-Dehli,1
+Sergio Escudero,David Soria,1
+G. Pizarro,Nolito,1
+S. Kj\u00e6r,S. N'Zonzi,1
+\u00c9. Banega,M. Krohn-Dehli,1
+G. Mercado,S. N'Zonzi,1
+Jes\u00fas Navas,G. Mercado,1
+Jes\u00fas Navas,M. Krohn-Dehli,1
+S. N'Zonzi,G. Mercado,1
+C. Lenglet,Jes\u00fas Navas,1
+Sergio Escudero,G. Mercado,1
+M. Krohn-Dehli,Sergio Escudero,1
+Sergio Escudero,S. N'Zonzi,1
+G. Pizarro,M. Krohn-Dehli,1
+Nolito,\u00c9. Banega,1
+\u00c9. Banega,S. Kj\u00e6r,1
+Nolito,David Soria,1
+\u00c9. Banega,S. N'Zonzi,1
+S. Kj\u00e6r,Sergio Escudero,1
+S. N'Zonzi,Sergio Escudero,1
+Nolito,G. Mercado,1
+G. Pizarro,Jes\u00fas Navas,1
+C. Lenglet,G. Mercado,1
+Jes\u00fas Navas,C. Lenglet,1
+M. Krohn-Dehli,Nolito,1
+G. Pizarro,G. Mercado,1
+S. N'Zonzi,Jes\u00fas Navas,1
+G. Mercado,Jes\u00fas Navas,1
+L. Muriel,\u00c9. Banega,1
+S. N'Zonzi,S. Kj\u00e6r,1
+M. Krohn-Dehli,G. Mercado,1
+S. N'Zonzi,C. Lenglet,1

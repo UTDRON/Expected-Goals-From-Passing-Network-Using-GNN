@@ -1,0 +1,27 @@
+Source,Target,Weight
+F. Peluso,S. Sensi,3
+S. Missiroli,F. Peluso,2
+M. Politano,D. Falcinelli,2
+D. Falcinelli,S. Sensi,1
+S. Sensi,M. Politano,1
+S. Sensi,S. Missiroli,1
+L. Mazzitelli,P. Cannavaro,1
+F. Cassata,L. Mazzitelli,1
+P. Cannavaro,M. Politano,1
+A. Consigli,L. Mazzitelli,1
+F. Acerbi,A. Consigli,1
+A. Consigli,F. Peluso,1
+S. Sensi,F. Cassata,1
+D. Falcinelli,A. Consigli,1
+F. Peluso,S. Missiroli,1
+L. Mazzitelli,F. Acerbi,1
+S. Sensi,L. Mazzitelli,1
+S. Missiroli,S. Sensi,1
+L. Mazzitelli,D. Falcinelli,1
+M. Politano,F. Cassata,1
+F. Peluso,F. Cassata,1
+D. Falcinelli,S. Missiroli,1
+L. Mazzitelli,F. Peluso,1
+P. Cannavaro,L. Mazzitelli,1
+S. Sensi,P. Cannavaro,1
+F. Cassata,M. Politano,1

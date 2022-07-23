@@ -1,0 +1,24 @@
+Source,Target,Weight
+M. Pucciarelli,F. Cacciatore,2
+F. Cacciatore,M. Pucciarelli,2
+F. Cacciatore,E. Giaccherini,2
+F. Cacciatore,I. Radovanovi\u0107,1
+F. Cacciatore,P. Hetemaj,1
+N. Rigoni,N. Tomovi\u0107,1
+E. Giaccherini,N. Rigoni,1
+E. Giaccherini,M. Pucciarelli,1
+I. Radovanovi\u0107,F. Cacciatore,1
+N. Tomovi\u0107,P. Jaroszy\u0144ski,1
+S. Sorrentino,R. Inglese,1
+I. Radovanovi\u0107,S. Sorrentino,1
+R. Inglese,F. Cacciatore,1
+M. Pucciarelli,R. Inglese,1
+P. Jaroszy\u0144ski,P. Hetemaj,1
+R. Inglese,E. Giaccherini,1
+P. Hetemaj,M. Pucciarelli,1
+S. Sorrentino,F. Cacciatore,1
+P. Hetemaj,E. Giaccherini,1
+E. Giaccherini,M. Bani,1
+N. Rigoni,I. Radovanovi\u0107,1
+M. Pucciarelli,N. Rigoni,1
+M. Bani,F. Cacciatore,1

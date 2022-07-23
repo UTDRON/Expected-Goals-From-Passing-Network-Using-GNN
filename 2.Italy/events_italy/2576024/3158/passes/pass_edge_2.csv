@@ -1,0 +1,16 @@
+Source,Target,Weight
+A. Florenzi,Bruno Peres,2
+Bruno Peres,D. De Rossi,2
+Bruno Peres,E. D\u017eeko,2
+D. De Rossi,Bruno Peres,1
+Bruno Peres,A. Florenzi,1
+D. De Rossi,A. Kolarov,1
+Bruno Peres,K. Manolas,1
+K. Manolas,F. Fazio,1
+A. Florenzi,D. De Rossi,1
+E. D\u017eeko,Bruno Peres,1
+E. D\u017eeko,F. Fazio,1
+F. Fazio,A. Florenzi,1
+F. Fazio,Bruno Peres,1
+D. De Rossi,A. Florenzi,1
+A. Kolarov,A. Florenzi,1

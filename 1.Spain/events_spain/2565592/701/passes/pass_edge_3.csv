@@ -1,0 +1,53 @@
+Source,Target,Weight
+Arbilla,Ander Capa,5
+G. Escalante,Arbilla,4
+Dani Garc\u00eda,Arbilla,3
+Ander Capa,Joan Jord\u00e1n,3
+Paulo Oliveira,Arbilla,3
+Joan Jord\u00e1n,G. Escalante,3
+Ander Capa,Arbilla,3
+Arbilla,Paulo Oliveira,3
+Paulo Oliveira,Sergi Enrich,2
+Arbilla,Joan Jord\u00e1n,2
+G\u00e1lvez,David Junc\u00e0,2
+Joan Jord\u00e1n,T. Inui,2
+Arbilla,Dani Garc\u00eda,2
+G. Escalante,Dani Garc\u00eda,2
+Dani Garc\u00eda,G. Escalante,2
+David Junc\u00e0,Joan Jord\u00e1n,2
+Joan Jord\u00e1n,Arbilla,2
+Arbilla,G\u00e1lvez,2
+G\u00e1lvez,M. Dmitrovi\u0107,1
+Joan Jord\u00e1n,Paulo Oliveira,1
+Paulo Oliveira,Ander Capa,1
+Sergi Enrich,M. Dmitrovi\u0107,1
+G\u00e1lvez,Paulo Oliveira,1
+T. Inui,Dani Garc\u00eda,1
+G\u00e1lvez,Sergi Enrich,1
+Dani Garc\u00eda,T. Inui,1
+T. Inui,G. Escalante,1
+T. Inui,David Junc\u00e0,1
+G\u00e1lvez,G. Escalante,1
+Ander Capa,G. Escalante,1
+G. Escalante,Ander Capa,1
+Dani Garc\u00eda,Ander Capa,1
+Dani Garc\u00eda,G\u00e1lvez,1
+Arbilla,G. Escalante,1
+G. Escalante,Paulo Oliveira,1
+Paulo Oliveira,Dani Garc\u00eda,1
+Ander Capa,Dani Garc\u00eda,1
+Sergi Enrich,Joan Jord\u00e1n,1
+M. Dmitrovi\u0107,Joan Jord\u00e1n,1
+Sergi Enrich,David Junc\u00e0,1
+Paulo Oliveira,David Junc\u00e0,1
+M. Dmitrovi\u0107,G\u00e1lvez,1
+Joan Jord\u00e1n,G\u00e1lvez,1
+David Junc\u00e0,Dani Garc\u00eda,1
+Dani Garc\u00eda,M. Dmitrovi\u0107,1
+M. Dmitrovi\u0107,Sergi Enrich,1
+Joan Jord\u00e1n,Sergi Enrich,1
+T. Inui,Paulo Oliveira,1
+David Junc\u00e0,G\u00e1lvez,1
+Sergi Enrich,Dani Garc\u00eda,1
+Sergi Enrich,T. Inui,1
+David Junc\u00e0,Paulo Oliveira,1

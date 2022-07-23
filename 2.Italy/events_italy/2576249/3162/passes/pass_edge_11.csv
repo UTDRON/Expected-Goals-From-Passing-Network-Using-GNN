@@ -1,0 +1,19 @@
+Source,Target,Weight
+Luis Alberto,M. Parolo,2
+Luiz Felipe,Luis Alberto,2
+Luis Alberto,Patric,2
+S. de Vrij,Luiz Felipe,2
+M. Parolo,S. de Vrij,2
+Patric,Luiz Felipe,2
+Luiz Felipe,Patric,1
+Luiz Felipe,Lucas Leiva,1
+Luis Alberto,F. Caicedo,1
+M. Parolo,Felipe Anderson,1
+F. Caicedo,Luis Alberto,1
+Lucas Leiva,Luis Alberto,1
+Felipe Anderson,S. de Vrij,1
+Luis Alberto,Lucas Leiva,1
+Patric,Luis Alberto,1
+Patric,M. Parolo,1
+Lucas Leiva,M. Parolo,1
+S. de Vrij,Luis Alberto,1

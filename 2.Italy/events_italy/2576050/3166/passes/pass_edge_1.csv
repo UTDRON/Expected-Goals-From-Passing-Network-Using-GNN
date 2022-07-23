@@ -1,0 +1,90 @@
+Source,Target,Weight
+F. Helander,A. Masina,10
+S. De Maio,F. Helander,9
+G. Donsah,L. Crisetig,9
+A. Masina,L. Krej\u010d\u00ed,8
+F. Helander,G. Donsah,6
+F. Helander,S. De Maio,6
+E. Krafth,S. De Maio,6
+L. Crisetig,E. Pulgar,6
+A. Masina,F. Helander,6
+L. Crisetig,A. Masina,5
+E. Pulgar,S. Verdi,5
+L. Krej\u010d\u00ed,F. Helander,5
+A. Masina,M. Destro,5
+M. Destro,A. Masina,4
+M. Destro,L. Crisetig,4
+L. Crisetig,G. Donsah,4
+S. De Maio,E. Krafth,4
+E. Krafth,E. Pulgar,4
+A. Masina,G. Donsah,4
+L. Krej\u010d\u00ed,G. Donsah,3
+S. Verdi,M. Destro,3
+L. Krej\u010d\u00ed,A. Masina,3
+M. Destro,G. Donsah,3
+S. Verdi,S. De Maio,3
+G. Donsah,L. Krej\u010d\u00ed,3
+G. Donsah,A. Masina,3
+S. Verdi,F. Helander,3
+L. Crisetig,F. Helander,3
+L. Crisetig,S. De Maio,3
+A. Mirante,F. Helander,3
+F. Helander,L. Crisetig,3
+A. Masina,L. Crisetig,3
+E. Pulgar,L. Crisetig,3
+S. Verdi,E. Krafth,3
+M. Destro,E. Pulgar,3
+E. Pulgar,L. Krej\u010d\u00ed,2
+A. Mirante,M. Destro,2
+F. Helander,A. Mirante,2
+M. Destro,A. Mirante,2
+S. De Maio,L. Crisetig,2
+S. De Maio,A. Mirante,2
+L. Crisetig,E. Krafth,2
+E. Krafth,M. Destro,2
+E. Pulgar,S. De Maio,2
+E. Pulgar,E. Krafth,2
+L. Krej\u010d\u00ed,S. Verdi,2
+E. Krafth,S. Verdi,2
+G. Donsah,E. Krafth,2
+M. Destro,E. Krafth,2
+E. Krafth,L. Crisetig,2
+E. Pulgar,G. Donsah,2
+L. Krej\u010d\u00ed,M. Destro,2
+L. Crisetig,L. Krej\u010d\u00ed,2
+A. Mirante,A. Masina,2
+M. Destro,L. Krej\u010d\u00ed,2
+S. De Maio,M. Destro,2
+G. Donsah,M. Destro,2
+F. Helander,L. Krej\u010d\u00ed,2
+A. Mirante,E. Pulgar,1
+L. Krej\u010d\u00ed,S. De Maio,1
+L. Crisetig,M. Destro,1
+S. Verdi,E. Pulgar,1
+L. Crisetig,S. Verdi,1
+E. Krafth,A. Mirante,1
+L. Krej\u010d\u00ed,L. Crisetig,1
+L. Krej\u010d\u00ed,A. Mirante,1
+M. Destro,S. Verdi,1
+G. Donsah,F. Helander,1
+L. Crisetig,A. Mirante,1
+G. Donsah,A. Mirante,1
+A. Mirante,S. De Maio,1
+S. De Maio,S. Verdi,1
+S. De Maio,L. Krej\u010d\u00ed,1
+S. De Maio,E. Pulgar,1
+A. Mirante,G. Donsah,1
+F. Helander,M. Destro,1
+A. Masina,S. Verdi,1
+E. Krafth,A. Masina,1
+E. Pulgar,M. Destro,1
+G. Donsah,E. Pulgar,1
+G. Donsah,S. Verdi,1
+F. Helander,E. Krafth,1
+S. Verdi,A. Masina,1
+S. Verdi,L. Crisetig,1
+A. Masina,E. Krafth,1
+A. Masina,E. Pulgar,1
+L. Krej\u010d\u00ed,E. Krafth,1
+E. Pulgar,F. Helander,1
+L. Krej\u010d\u00ed,E. Pulgar,1

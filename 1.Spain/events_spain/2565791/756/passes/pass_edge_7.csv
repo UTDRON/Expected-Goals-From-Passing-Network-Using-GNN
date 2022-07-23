@@ -1,0 +1,52 @@
+Source,Target,Weight
+Pablo Maffeo,Portu,4
+Portu,Pablo Maffeo,4
+Pablo Maffeo,Pere Pons,2
+Aday,Pere Pons,2
+Choco Lozano,Portu,2
+Pere Pons,Portu,2
+\u00c1lex Granell,Pablo Maffeo,2
+Portu,Choco Lozano,2
+Borja Garc\u00eda,Pere Pons,2
+Borja Garc\u00eda,Ramalho,2
+Pere Pons,Borja Garc\u00eda,2
+Carles Planas,Borja Garc\u00eda,2
+Ramalho,Bernardo Espinosa,2
+Pablo Maffeo,\u00c1lex Granell,2
+Pere Pons,Choco Lozano,2
+Portu,Pere Pons,2
+Pablo Maffeo,Choco Lozano,2
+Bernardo Espinosa,Pablo Maffeo,2
+Portu,Bernardo Espinosa,1
+Pere Pons,Pablo Maffeo,1
+Borja Garc\u00eda,Aday,1
+Bernardo Espinosa,\u00c1lex Granell,1
+\u00c1lex Granell,Carles Planas,1
+Pere Pons,Ramalho,1
+Y. Bounou,Carles Planas,1
+Choco Lozano,Pablo Maffeo,1
+Juanpe,Aday,1
+\u00c1lex Granell,Juanpe,1
+Bernardo Espinosa,Ramalho,1
+Aday,Choco Lozano,1
+Portu,Borja Garc\u00eda,1
+Borja Garc\u00eda,Pablo Maffeo,1
+Borja Garc\u00eda,Bernardo Espinosa,1
+Borja Garc\u00eda,Y. Bounou,1
+Aday,Borja Garc\u00eda,1
+Pere Pons,Aday,1
+Juanpe,Pablo Maffeo,1
+Pere Pons,Bernardo Espinosa,1
+Choco Lozano,Borja Garc\u00eda,1
+Ramalho,Pere Pons,1
+Bernardo Espinosa,Aday,1
+Borja Garc\u00eda,Portu,1
+Choco Lozano,Pere Pons,1
+Pablo Maffeo,Bernardo Espinosa,1
+Pablo Maffeo,Borja Garc\u00eda,1
+\u00c1lex Granell,Borja Garc\u00eda,1
+Carles Planas,Juanpe,1
+Choco Lozano,\u00c1lex Granell,1
+Juanpe,Carles Planas,1
+Ramalho,Portu,1
+Bernardo Espinosa,Juanpe,1

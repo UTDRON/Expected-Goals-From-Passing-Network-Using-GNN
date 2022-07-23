@@ -1,0 +1,66 @@
+Source,Target,Weight
+H. Moreno,K. Strootman,5
+K. Strootman,H. Moreno,5
+A. Kolarov,D. De Rossi,4
+A. Florenzi,C. \u00dcnder,4
+Juan Jesus,A. Florenzi,4
+K. Strootman,A. Kolarov,3
+D. De Rossi,Juan Jesus,3
+D. De Rossi,A. Kolarov,3
+H. Moreno,Juan Jesus,3
+C. \u00dcnder,Juan Jesus,2
+L. Pellegrini,K. Strootman,2
+Juan Jesus,L. Pellegrini,2
+A. Florenzi,L. Pellegrini,2
+D. De Rossi,H. Moreno,2
+Juan Jesus,S. El Shaarawy,2
+L. Pellegrini,A. Florenzi,2
+K. Strootman,R. Nainggolan,2
+C. \u00dcnder,A. Florenzi,2
+A. Kolarov,H. Moreno,2
+A. Florenzi,Alisson,2
+Alisson,A. Kolarov,2
+A. Florenzi,R. Nainggolan,2
+R. Nainggolan,Juan Jesus,2
+K. Strootman,A. Florenzi,2
+A. Kolarov,K. Strootman,2
+E. D\u017eeko,D. De Rossi,1
+D. De Rossi,K. Strootman,1
+A. Kolarov,A. Florenzi,1
+K. Strootman,D. De Rossi,1
+Alisson,Juan Jesus,1
+Alisson,E. D\u017eeko,1
+A. Florenzi,E. D\u017eeko,1
+A. Florenzi,A. Kolarov,1
+R. Nainggolan,D. De Rossi,1
+R. Nainggolan,L. Pellegrini,1
+Juan Jesus,R. Nainggolan,1
+D. De Rossi,C. \u00dcnder,1
+S. El Shaarawy,K. Strootman,1
+Juan Jesus,K. Strootman,1
+E. D\u017eeko,L. Pellegrini,1
+H. Moreno,A. Kolarov,1
+Juan Jesus,H. Moreno,1
+L. Pellegrini,R. Nainggolan,1
+S. El Shaarawy,A. Florenzi,1
+D. De Rossi,S. El Shaarawy,1
+S. El Shaarawy,R. Nainggolan,1
+A. Florenzi,D. De Rossi,1
+Alisson,D. De Rossi,1
+S. El Shaarawy,Juan Jesus,1
+S. El Shaarawy,C. \u00dcnder,1
+L. Pellegrini,Alisson,1
+C. \u00dcnder,S. El Shaarawy,1
+R. Nainggolan,A. Kolarov,1
+E. D\u017eeko,A. Florenzi,1
+R. Nainggolan,Alisson,1
+S. El Shaarawy,H. Moreno,1
+R. Nainggolan,S. El Shaarawy,1
+A. Kolarov,C. \u00dcnder,1
+Alisson,R. Nainggolan,1
+H. Moreno,S. El Shaarawy,1
+A. Kolarov,Alisson,1
+Juan Jesus,Alisson,1
+H. Moreno,D. De Rossi,1
+R. Nainggolan,E. D\u017eeko,1
+C. \u00dcnder,D. De Rossi,1

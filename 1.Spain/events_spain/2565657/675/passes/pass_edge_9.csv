@@ -1,0 +1,17 @@
+Source,Target,Weight
+Nacho,Marco Asensio,2
+Marcelo,Cristiano Ronaldo,2
+Marco Asensio,Jes\u00fas Vallejo,1
+T. Kroos,Cristiano Ronaldo,1
+Sergio Ramos,Marcelo,1
+Cristiano Ronaldo,Jes\u00fas Vallejo,1
+Jes\u00fas Vallejo,Sergio Ramos,1
+Jes\u00fas Vallejo,Nacho,1
+Cristiano Ronaldo,Isco,1
+Isco,Jes\u00fas Vallejo,1
+Marco Asensio,Nacho,1
+Isco,Marcelo,1
+Jes\u00fas Vallejo,T. Kroos,1
+Marco Asensio,T. Kroos,1
+T. Kroos,Marco Asensio,1
+Marcelo,Isco,1

@@ -1,0 +1,57 @@
+Source,Target,Weight
+Mario,D. Cheryshev,6
+D. Cheryshev,Mario,6
+Mario,Trigueros,4
+Rodri,Pablo Fornals,4
+Trigueros,D. Cheryshev,4
+Trigueros,Mario,3
+D. Cheryshev,Rodri,3
+D. Cheryshev,C. Bacca,3
+Pablo Fornals,Mario,3
+Trigueros,Rodri,2
+Rodri,C. Bacca,2
+Rodri,Trigueros,2
+M. Barbosa,Trigueros,2
+Pablo Fornals,D. Cheryshev,2
+M. Barbosa,D. Cheryshev,2
+Trigueros,V\u00edctor Ru\u00edz,2
+C. Bacca,\u00c1lvaro Gonz\u00e1lez,2
+Trigueros,Pablo Fornals,2
+D. Cheryshev,Trigueros,2
+Pablo Fornals,Rodri,2
+Pablo Fornals,M. Barbosa,1
+Mario,V\u00edctor Ru\u00edz,1
+Mario,C. Bakambu,1
+V\u00edctor Ru\u00edz,Pablo Fornals,1
+C. Bacca,M. Barbosa,1
+Jaume Costa,Mario,1
+Rodri,R. Soriano,1
+V\u00edctor Ru\u00edz,M. Barbosa,1
+Rodri,Jaume Costa,1
+V\u00edctor Ru\u00edz,Rodri,1
+C. Bacca,D. Cheryshev,1
+Mario,C. Bacca,1
+\u00c1lvaro Gonz\u00e1lez,M. Barbosa,1
+Mario,Pablo Fornals,1
+C. Bakambu,Trigueros,1
+D. Cheryshev,Pablo Fornals,1
+V\u00edctor Ru\u00edz,Mario,1
+C. Bacca,Rodri,1
+M. Barbosa,V\u00edctor Ru\u00edz,1
+Pablo Fornals,C. Bacca,1
+Jaume Costa,Pablo Fornals,1
+\u00c1lvaro Gonz\u00e1lez,Trigueros,1
+Mario,Rodri,1
+Pablo Fornals,Trigueros,1
+D. Cheryshev,M. Barbosa,1
+\u00c1lvaro Gonz\u00e1lez,Rodri,1
+Rodri,Mario,1
+R. Soriano,Jaume Costa,1
+C. Bacca,Trigueros,1
+Trigueros,M. Barbosa,1
+C. Bacca,Pablo Fornals,1
+Jaume Costa,Rodri,1
+Mario,\u00c1lvaro Gonz\u00e1lez,1
+M. Barbosa,Mario,1
+Rodri,D. Cheryshev,1
+Pablo Fornals,R. Soriano,1

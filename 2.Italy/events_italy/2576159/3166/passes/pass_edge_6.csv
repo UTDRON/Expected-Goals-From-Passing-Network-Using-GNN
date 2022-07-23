@@ -1,0 +1,37 @@
+Source,Target,Weight
+R. Palacio,B. D\u017eemaili,5
+A. Masina,R. Palacio,3
+A. Masina,E. Pulgar,3
+B. D\u017eemaili,R. Palacio,2
+S. De Maio,I. M'baye,2
+A. Mirante,A. Masina,2
+B. D\u017eemaili,A. Masina,2
+E. Pulgar,A. Masina,2
+A. Poli,S. De Maio,2
+R. Palacio,S. Verdi,1
+S. Verdi,R. Palacio,1
+I. M'baye,S. Verdi,1
+R. Palacio,D. Maietta,1
+E. Pulgar,R. Palacio,1
+A. Masina,B. D\u017eemaili,1
+A. Mirante,S. De Maio,1
+R. Palacio,F. Di Francesco,1
+R. Palacio,A. Masina,1
+S. Verdi,B. D\u017eemaili,1
+I. M'baye,A. Poli,1
+R. Palacio,I. M'baye,1
+B. D\u017eemaili,I. M'baye,1
+I. M'baye,S. De Maio,1
+E. Pulgar,S. Verdi,1
+F. Di Francesco,A. Mirante,1
+I. M'baye,A. Mirante,1
+B. D\u017eemaili,S. Verdi,1
+S. De Maio,R. Palacio,1
+A. Masina,G. Donsah,1
+S. De Maio,A. Poli,1
+B. D\u017eemaili,E. Pulgar,1
+S. De Maio,E. Pulgar,1
+G. Donsah,R. Palacio,1
+S. Verdi,A. Masina,1
+D. Maietta,S. De Maio,1
+E. Pulgar,A. Mirante,1

@@ -1,0 +1,66 @@
+Source,Target,Weight
+Bartra,A. Mandi,7
+A. Mandi,Bartra,7
+A. Mandi,Fabi\u00e1n,6
+Fabi\u00e1n,Bartra,6
+Javi Garc\u00eda,A. Mandi,5
+J. Firpo,Bartra,5
+A. Mandi,Javi Garc\u00eda,3
+Bartra,Fabi\u00e1n,3
+Javi Garc\u00eda,J. Firpo,3
+Joaqu\u00edn,Fabi\u00e1n,3
+Francis Guerrero,R. Boudebouz,3
+Bartra,J. Firpo,3
+Loren Mor\u00f3n,J. Firpo,3
+R. Boudebouz,Joaqu\u00edn,3
+Fabi\u00e1n,Javi Garc\u00eda,3
+Francis Guerrero,Javi Garc\u00eda,2
+Fabi\u00e1n,Joaqu\u00edn,2
+Ad\u00e1n,Sergio Le\u00f3n,2
+Joaqu\u00edn,J. Firpo,2
+Javi Garc\u00eda,Sergio Le\u00f3n,2
+Fabi\u00e1n,R. Boudebouz,2
+J. Firpo,Joaqu\u00edn,2
+R. Boudebouz,Fabi\u00e1n,2
+A. Mandi,Ad\u00e1n,2
+J. Firpo,Ad\u00e1n,2
+Fabi\u00e1n,A. Mandi,2
+Bartra,Javi Garc\u00eda,2
+J. Firpo,Fabi\u00e1n,2
+Bartra,Ad\u00e1n,2
+Ad\u00e1n,A. Mandi,2
+Bartra,R. Boudebouz,2
+R. Boudebouz,J. Firpo,1
+A. Mandi,J. Firpo,1
+Bartra,Loren Mor\u00f3n,1
+J. Firpo,A. Mandi,1
+Loren Mor\u00f3n,Fabi\u00e1n,1
+R. Boudebouz,Francis Guerrero,1
+Sergio Le\u00f3n,Javi Garc\u00eda,1
+Bartra,Sergio Le\u00f3n,1
+Fabi\u00e1n,Francis Guerrero,1
+R. Boudebouz,Bartra,1
+Sergio Le\u00f3n,A. Mandi,1
+Sergio Le\u00f3n,Joaqu\u00edn,1
+Ad\u00e1n,Bartra,1
+Sergio Le\u00f3n,R. Boudebouz,1
+J. Firpo,Javi Garc\u00eda,1
+Sergio Le\u00f3n,J. Firpo,1
+Fabi\u00e1n,Loren Mor\u00f3n,1
+Sergio Le\u00f3n,Loren Mor\u00f3n,1
+Loren Mor\u00f3n,Bartra,1
+J. Firpo,Loren Mor\u00f3n,1
+Fabi\u00e1n,Sergio Le\u00f3n,1
+Joaqu\u00edn,Loren Mor\u00f3n,1
+Joaqu\u00edn,Bartra,1
+Javi Garc\u00eda,R. Boudebouz,1
+Joaqu\u00edn,Ad\u00e1n,1
+Bartra,Francis Guerrero,1
+Bartra,Joaqu\u00edn,1
+Ad\u00e1n,Francis Guerrero,1
+Joaqu\u00edn,Francis Guerrero,1
+Francis Guerrero,A. Mandi,1
+Sergio Le\u00f3n,Fabi\u00e1n,1
+Javi Garc\u00eda,Francis Guerrero,1
+Ad\u00e1n,Fabi\u00e1n,1
+R. Boudebouz,Sergio Le\u00f3n,1

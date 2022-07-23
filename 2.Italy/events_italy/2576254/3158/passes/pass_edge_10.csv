@@ -1,0 +1,77 @@
+Source,Target,Weight
+D. De Rossi,K. Strootman,10
+K. Strootman,D. De Rossi,9
+K. Strootman,S. El Shaarawy,8
+K. Manolas,D. De Rossi,8
+A. Florenzi,K. Manolas,7
+K. Strootman,A. Kolarov,7
+F. Fazio,K. Strootman,7
+S. El Shaarawy,K. Strootman,7
+F. Fazio,K. Manolas,7
+K. Manolas,F. Fazio,6
+D. De Rossi,K. Manolas,6
+A. Florenzi,Gerson,6
+Gerson,A. Florenzi,5
+K. Manolas,K. Strootman,5
+D. De Rossi,D. Perotti,5
+K. Manolas,A. Florenzi,5
+D. De Rossi,A. Florenzi,4
+D. Perotti,K. Strootman,4
+F. Fazio,D. De Rossi,4
+D. De Rossi,F. Fazio,4
+K. Strootman,F. Fazio,4
+A. Florenzi,D. De Rossi,4
+F. Fazio,D. Perotti,4
+D. Perotti,A. Florenzi,3
+Gerson,K. Manolas,3
+A. Kolarov,K. Strootman,3
+D. Perotti,S. El Shaarawy,3
+D. Perotti,A. Kolarov,3
+P. Schick,D. De Rossi,3
+K. Strootman,A. Florenzi,3
+S. El Shaarawy,D. De Rossi,3
+K. Manolas,Gerson,2
+P. Schick,F. Fazio,2
+S. El Shaarawy,F. Fazio,2
+K. Strootman,D. Perotti,2
+D. Perotti,K. Manolas,2
+D. De Rossi,Gerson,2
+D. Perotti,D. De Rossi,2
+D. Perotti,F. Fazio,2
+K. Manolas,D. Perotti,2
+A. Kolarov,P. Schick,2
+Gerson,D. De Rossi,2
+K. Strootman,Gerson,2
+A. Kolarov,K. Manolas,2
+D. De Rossi,P. Schick,2
+K. Strootman,P. Schick,2
+A. Kolarov,D. Perotti,2
+Gerson,D. Perotti,2
+A. Kolarov,S. El Shaarawy,2
+D. De Rossi,A. Kolarov,1
+A. Florenzi,Alisson,1
+A. Florenzi,D. Perotti,1
+F. Fazio,Gerson,1
+Gerson,K. Strootman,1
+A. Florenzi,F. Fazio,1
+A. Kolarov,Gerson,1
+A. Kolarov,D. De Rossi,1
+A. Florenzi,K. Strootman,1
+Gerson,P. Schick,1
+P. Schick,A. Kolarov,1
+P. Schick,D. Perotti,1
+S. El Shaarawy,A. Kolarov,1
+S. El Shaarawy,A. Florenzi,1
+Gerson,Alisson,1
+D. Perotti,Gerson,1
+Alisson,A. Kolarov,1
+K. Strootman,K. Manolas,1
+Alisson,D. Perotti,1
+A. Florenzi,P. Schick,1
+A. Kolarov,F. Fazio,1
+S. El Shaarawy,D. Perotti,1
+Alisson,A. Florenzi,1
+D. De Rossi,S. El Shaarawy,1
+K. Manolas,S. El Shaarawy,1
+D. De Rossi,Alisson,1
+P. Schick,K. Manolas,1

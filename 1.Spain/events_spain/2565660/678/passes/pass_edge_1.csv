@@ -1,0 +1,38 @@
+Source,Target,Weight
+Iturraspe,I\u00f1igo C\u00f3rdoba,4
+I\u00f1igo C\u00f3rdoba,Iturraspe,3
+I\u00f1igo C\u00f3rdoba,Balenziaga,3
+Balenziaga,Aduriz,3
+Aduriz,San Jos\u00e9,3
+Balenziaga,I\u00f1igo C\u00f3rdoba,2
+Balenziaga,Iturraspe,2
+Iturraspe,A. Laporte,2
+Iturraspe,Balenziaga,2
+San Jos\u00e9,Balenziaga,2
+San Jos\u00e9,Iturraspe,2
+A. Laporte,Unai N\u00fa\u00f1ez,2
+Unai N\u00fa\u00f1ez,Aduriz,1
+I\u00f1aki Williams,Ra\u00fal Garc\u00eda,1
+San Jos\u00e9,I\u00f1aki Williams,1
+Aduriz,I\u00f1aki Williams,1
+San Jos\u00e9,A. Laporte,1
+I\u00f1igo C\u00f3rdoba,San Jos\u00e9,1
+A. Laporte,Balenziaga,1
+Unai N\u00fa\u00f1ez,San Jos\u00e9,1
+Ra\u00fal Garc\u00eda,Aduriz,1
+A. Laporte,Iturraspe,1
+I\u00f1aki Williams,Aduriz,1
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,1
+Iturraspe,Aduriz,1
+Balenziaga,A. Laporte,1
+San Jos\u00e9,Lekue,1
+Ra\u00fal Garc\u00eda,I\u00f1igo C\u00f3rdoba,1
+I\u00f1aki Williams,Balenziaga,1
+Lekue,Unai N\u00fa\u00f1ez,1
+Lekue,Iturraspe,1
+Ra\u00fal Garc\u00eda,I\u00f1aki Williams,1
+Iturraspe,San Jos\u00e9,1
+Aduriz,Ra\u00fal Garc\u00eda,1
+Balenziaga,Lekue,1
+Unai N\u00fa\u00f1ez,Iturraspe,1
+Aduriz,Unai N\u00fa\u00f1ez,1

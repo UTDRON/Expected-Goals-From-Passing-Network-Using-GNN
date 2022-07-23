@@ -1,0 +1,18 @@
+Source,Target,Weight
+M. Rohd\u00e9n,B. Martella,3
+B. Martella,R. Mandragora,2
+M. Tumminello,Simy,1
+D. Faraoni,M. Rohd\u00e9n,1
+D. Faraoni,M. Tumminello,1
+F. Ricci,D. Faraoni,1
+Simy,R. Mandragora,1
+Simy,F. Ricci,1
+R. Mandragora,M. Capuano,1
+R. Mandragora,M. Rohd\u00e9n,1
+M. Tumminello,A. Barberis,1
+M. Capuano,M. Tumminello,1
+A. Barberis,D. Faraoni,1
+B. Martella,M. Rohd\u00e9n,1
+D. Faraoni,F. Ceccherini,1
+R. Mandragora,D. Faraoni,1
+F. Ceccherini,Simy,1

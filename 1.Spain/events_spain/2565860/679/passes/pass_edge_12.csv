@@ -1,0 +1,37 @@
+Source,Target,Weight
+Gabi,Sa\u00fal,4
+Sa\u00fal,Vitolo,3
+S. Savi\u0107,D. God\u00edn,2
+Sa\u00fal,S. Savi\u0107,2
+D. God\u00edn,L. Hern\u00e1ndez,2
+D. God\u00edn,Fernando Torres,2
+Vitolo,Sa\u00fal,2
+J. Oblak,Fernando Torres,2
+S. Savi\u0107,Gabi,2
+Sa\u00fal,K. Gameiro,2
+\u00c1. Correa,K. Gameiro,2
+\u0160. Vrsaljko,Gabi,2
+L. Hern\u00e1ndez,Sa\u00fal,2
+K. Gameiro,\u0160. Vrsaljko,1
+\u0160. Vrsaljko,J. Oblak,1
+Vitolo,K. Gameiro,1
+Fernando Torres,J. Oblak,1
+K. Gameiro,D. God\u00edn,1
+D. God\u00edn,Vitolo,1
+Gabi,\u00c1. Correa,1
+Fernando Torres,\u00c1. Correa,1
+\u00c1. Correa,S. Savi\u0107,1
+Fernando Torres,Sa\u00fal,1
+K. Gameiro,S. Savi\u0107,1
+K. Gameiro,J. Oblak,1
+K. Gameiro,\u00c1. Correa,1
+Sa\u00fal,L. Hern\u00e1ndez,1
+S. Savi\u0107,\u00c1. Correa,1
+\u00c1. Correa,Fernando Torres,1
+\u00c1. Correa,Gabi,1
+Vitolo,S. Savi\u0107,1
+L. Hern\u00e1ndez,Vitolo,1
+Vitolo,\u0160. Vrsaljko,1
+Fernando Torres,\u0160. Vrsaljko,1
+Sa\u00fal,D. God\u00edn,1
+J. Oblak,D. God\u00edn,1

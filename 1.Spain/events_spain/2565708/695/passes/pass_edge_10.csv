@@ -1,0 +1,38 @@
+Source,Target,Weight
+Luna,Ivi,4
+Ivi,Jos\u00e9 Luis Morales,4
+J. Lerma,Luna,3
+E. Bardhi,Ivi,3
+Jos\u00e9 Luis Morales,Jason,3
+Jos\u00e9 Luis Morales,J. Lerma,3
+Jason,Jos\u00e9 Luis Morales,2
+Jos\u00e9 Luis Morales,E. \u00dcnal,2
+E. Cabaco,Jos\u00e9 Luis Morales,2
+Jason,J. Lerma,2
+J. Lerma,Jason,2
+Jos\u00e9 Luis Morales,E. Bardhi,2
+Luna,E. Bardhi,2
+E. \u00dcnal,Luna,2
+Oier,Jos\u00e9 Luis Morales,1
+E. Bardhi,E. Cabaco,1
+Luna,E. \u00dcnal,1
+E. Bardhi,Sergio Postigo,1
+E. Bardhi,Luna,1
+Ivi,Oier,1
+E. Bardhi,Nano,1
+Nano,Jason,1
+Ivi,J. Lerma,1
+J. Lerma,E. Bardhi,1
+Ivi,Luna,1
+Luna,Nano,1
+E. Cabaco,E. Bardhi,1
+Sergio Postigo,Luna,1
+J. Lerma,Jos\u00e9 Luis Morales,1
+Nano,J. Lerma,1
+Luna,Sergio Postigo,1
+Jos\u00e9 Luis Morales,Sergio Postigo,1
+Sergio Postigo,E. Cabaco,1
+J. Lerma,E. Cabaco,1
+Sergio Postigo,J. Lerma,1
+Jason,Luna,1
+E. \u00dcnal,E. Bardhi,1

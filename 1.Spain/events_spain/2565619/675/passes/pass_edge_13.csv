@@ -1,0 +1,18 @@
+Source,Target,Weight
+Sergio Ramos,Marcelo,2
+Marco Asensio,K. Benzema,2
+Marcelo,Marco Asensio,2
+Nacho,A. Hakimi,1
+T. Kroos,Lucas V\u00e1zquez,1
+Nacho,Sergio Ramos,1
+K. Benzema,Nacho,1
+T. Kroos,Marcelo,1
+Cristiano Ronaldo,Lucas V\u00e1zquez,1
+A. Hakimi,K. Benzema,1
+Lucas V\u00e1zquez,Marcelo,1
+Sergio Ramos,T. Kroos,1
+Lucas V\u00e1zquez,Nacho,1
+Marcelo,T. Kroos,1
+K. Benzema,Marcelo,1
+Marcelo,Sergio Ramos,1
+K. Benzema,Cristiano Ronaldo,1

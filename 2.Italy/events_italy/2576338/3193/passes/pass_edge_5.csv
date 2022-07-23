@@ -1,0 +1,44 @@
+Source,Target,Weight
+S. Omeonga,Pedro Pereira,4
+S. Omeonga,A. Bertolacci,3
+J. El Yamiq,M. Perin,3
+A. Bertolacci,Daniel Bessa,3
+D. Laxalt,J. El Yamiq,3
+Pedro Pereira,Iuri Medeiros,3
+A. Bertolacci,D. Laxalt,2
+J. El Yamiq,A. Bertolacci,2
+D. Biraschi,S. Omeonga,2
+M. Perin,Pedro Pereira,2
+Daniel Bessa,D. Biraschi,2
+G. Pandev,Daniel Bessa,2
+Pedro Pereira,S. Omeonga,2
+D. Laxalt,G. Pandev,2
+D. Biraschi,M. Perin,1
+Iuri Medeiros,D. Biraschi,1
+D. Biraschi,G. Pandev,1
+Daniel Bessa,D. Laxalt,1
+D. Laxalt,A. Bertolacci,1
+Iuri Medeiros,D. Laxalt,1
+A. Bertolacci,Pedro Pereira,1
+J. El Yamiq,D. Biraschi,1
+D. Laxalt,Daniel Bessa,1
+G. Pandev,Iuri Medeiros,1
+A. Bertolacci,J. El Yamiq,1
+M. Perin,J. El Yamiq,1
+Pedro Pereira,Daniel Bessa,1
+M. Perin,D. Biraschi,1
+Iuri Medeiros,G. Pandev,1
+Daniel Bessa,S. Omeonga,1
+Pedro Pereira,M. Perin,1
+Pedro Pereira,D. Laxalt,1
+Daniel Bessa,A. Bertolacci,1
+Daniel Bessa,Pedro Pereira,1
+Daniel Bessa,Iuri Medeiros,1
+Pedro Pereira,G. Pandev,1
+G. Pandev,A. Bertolacci,1
+G. Pandev,J. El Yamiq,1
+Iuri Medeiros,Pedro Pereira,1
+M. Perin,S. Omeonga,1
+A. Bertolacci,G. Pandev,1
+Iuri Medeiros,S. Omeonga,1
+G. Pandev,D. Laxalt,1

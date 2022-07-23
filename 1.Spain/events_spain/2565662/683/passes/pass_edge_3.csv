@@ -1,0 +1,20 @@
+Source,Target,Weight
+R. Rosales,Keko,2
+Luis Hern\u00e1ndez,Adri\u00e1n,2
+A. Pe\u00f1aranda,R. Rosales,2
+R. Rosales,P. Baysse,1
+Adri\u00e1n,Keko,1
+Adri\u00e1n,E. Rol\u00f3n,1
+E. Rol\u00f3n,Luis Hern\u00e1ndez,1
+P. Baysse,Luis Hern\u00e1ndez,1
+Luis Hern\u00e1ndez,D. Rol\u00e1n,1
+Keko,Luis Hern\u00e1ndez,1
+D. Rol\u00e1n,R. Rosales,1
+E. Rol\u00f3n,R. Rosales,1
+R. Rosales,A. Pe\u00f1aranda,1
+Keko,A. Pe\u00f1aranda,1
+Keko,D. Rol\u00e1n,1
+D. Rol\u00e1n,Keko,1
+Keko,R. Rosales,1
+D. Rol\u00e1n,A. Pe\u00f1aranda,1
+R. Rosales,E. Rol\u00f3n,1

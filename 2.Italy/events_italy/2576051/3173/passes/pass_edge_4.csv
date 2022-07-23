@@ -1,0 +1,67 @@
+Source,Target,Weight
+M. Sau,L. Cigarini,6
+F. Romagna,L. Cigarini,5
+S. Padoin,L. Ceppitelli,4
+L. Cigarini,S. Padoin,4
+L. Ceppitelli,F. Romagna,4
+L. Cigarini,F. Pisacane,4
+S. Padoin,M. Sau,3
+F. Romagna,P. Farag\u00f2,3
+P. Farag\u00f2,F. Romagna,3
+N. Barella,F. Romagna,3
+M. Sau,N. Barella,3
+L. Cigarini,L. Ceppitelli,3
+L. Cigarini,M. Sau,3
+S. Miangue,L. Cigarini,3
+P. Farag\u00f2,M. Sau,3
+N. Barella,M. Sau,2
+F. Pisacane,S. Miangue,2
+M. Sau,S. Padoin,2
+M. Sau,S. Miangue,2
+L. Cigarini,F. Romagna,2
+L. Pavoletti,M. Sau,2
+F. Romagna,L. Pavoletti,2
+F. Pisacane,L. Ceppitelli,2
+L. Pavoletti,P. Farag\u00f2,2
+F. Pisacane,N. Barella,2
+S. Padoin,F. Pisacane,2
+S. Miangue,S. Padoin,2
+S. Padoin,S. Miangue,2
+N. Barella,S. Padoin,2
+F. Romagna,Rafael,1
+P. Farag\u00f2,S. Padoin,1
+S. Miangue,F. Pisacane,1
+F. Romagna,N. Barella,1
+N. Barella,L. Cigarini,1
+F. Pisacane,S. Padoin,1
+L. Ceppitelli,S. Padoin,1
+L. Pavoletti,L. Ceppitelli,1
+S. Miangue,M. Sau,1
+N. Barella,P. Farag\u00f2,1
+L. Pavoletti,N. Barella,1
+L. Pavoletti,F. Pisacane,1
+M. Sau,L. Pavoletti,1
+P. Farag\u00f2,L. Cigarini,1
+M. Sau,P. Farag\u00f2,1
+L. Ceppitelli,S. Miangue,1
+F. Pisacane,M. Sau,1
+L. Ceppitelli,P. Farag\u00f2,1
+L. Ceppitelli,L. Cigarini,1
+S. Miangue,L. Pavoletti,1
+P. Farag\u00f2,N. Barella,1
+F. Romagna,M. Sau,1
+L. Ceppitelli,N. Barella,1
+S. Padoin,L. Cigarini,1
+P. Farag\u00f2,L. Pavoletti,1
+L. Cigarini,P. Farag\u00f2,1
+F. Pisacane,P. Farag\u00f2,1
+L. Cigarini,L. Pavoletti,1
+F. Pisacane,F. Romagna,1
+L. Cigarini,S. Miangue,1
+Rafael,F. Pisacane,1
+L. Ceppitelli,Rafael,1
+Rafael,L. Pavoletti,1
+M. Sau,L. Ceppitelli,1
+L. Ceppitelli,F. Pisacane,1
+F. Pisacane,L. Cigarini,1
+S. Padoin,L. Pavoletti,1

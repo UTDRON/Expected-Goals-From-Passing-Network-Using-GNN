@@ -1,0 +1,74 @@
+Source,Target,Weight
+R. Montolivo,A. Romagnoli,8
+A. Romagnoli,G. Donnarumma,7
+F. Kessi\u00e9,Suso,7
+A. Romagnoli,R. Montolivo,7
+F. Borini,M. Musacchio,6
+F. Borini,Suso,6
+M. Musacchio,G. Donnarumma,6
+G. Bonaventura,A. Romagnoli,5
+M. Musacchio,Suso,5
+Suso,F. Borini,5
+M. Locatelli,A. Romagnoli,5
+G. Donnarumma,F. Borini,5
+F. Borini,F. Kessi\u00e9,4
+L. Bonucci,A. Romagnoli,4
+A. Romagnoli,G. Bonaventura,4
+L. Bonucci,G. Donnarumma,4
+G. Donnarumma,L. Bonucci,4
+Suso,F. Kessi\u00e9,4
+A. Romagnoli,L. Bonucci,4
+M. Locatelli,G. Bonaventura,4
+F. Kessi\u00e9,F. Borini,4
+G. Donnarumma,F. Kessi\u00e9,4
+Suso,R. Montolivo,4
+R. Montolivo,F. Kessi\u00e9,3
+L. Bonucci,M. Musacchio,3
+G. Bonaventura,R. Montolivo,3
+G. Bonaventura,M. Locatelli,3
+M. Locatelli,F. Kessi\u00e9,3
+M. Musacchio,F. Borini,3
+N. Kalini\u0107,F. Kessi\u00e9,3
+F. Kessi\u00e9,M. Musacchio,3
+R. Montolivo,L. Bonucci,3
+N. Kalini\u0107,M. Locatelli,3
+F. Kessi\u00e9,M. Locatelli,3
+Suso,M. Musacchio,3
+A. Romagnoli,M. Locatelli,2
+M. Musacchio,R. Montolivo,2
+R. Montolivo,M. Locatelli,2
+G. Donnarumma,A. Romagnoli,2
+F. Borini,R. Montolivo,2
+G. Donnarumma,G. Bonaventura,2
+G. Donnarumma,N. Kalini\u0107,2
+M. Locatelli,N. Kalini\u0107,2
+R. Montolivo,F. Borini,2
+M. Musacchio,L. Bonucci,2
+F. Kessi\u00e9,G. Donnarumma,2
+G. Bonaventura,N. Kalini\u0107,2
+R. Montolivo,M. Musacchio,2
+F. Kessi\u00e9,G. Bonaventura,1
+N. Kalini\u0107,R. Montolivo,1
+N. Kalini\u0107,M. Musacchio,1
+N. Kalini\u0107,A. Romagnoli,1
+A. Romagnoli,N. Kalini\u0107,1
+M. Locatelli,L. Bonucci,1
+M. Locatelli,R. Montolivo,1
+M. Musacchio,F. Kessi\u00e9,1
+Suso,G. Donnarumma,1
+R. Montolivo,G. Donnarumma,1
+F. Borini,M. Locatelli,1
+L. Bonucci,M. Locatelli,1
+F. Kessi\u00e9,R. Montolivo,1
+L. Bonucci,N. Kalini\u0107,1
+F. Kessi\u00e9,N. Kalini\u0107,1
+G. Donnarumma,R. Montolivo,1
+R. Montolivo,G. Bonaventura,1
+A. Romagnoli,F. Borini,1
+Suso,M. Locatelli,1
+A. Romagnoli,Suso,1
+Suso,G. Bonaventura,1
+G. Donnarumma,M. Musacchio,1
+L. Bonucci,G. Bonaventura,1
+G. Bonaventura,Suso,1
+F. Borini,A. Romagnoli,1

@@ -1,0 +1,82 @@
+Source,Target,Weight
+C. Lenglet,Sergio Escudero,11
+S. N'Zonzi,Jes\u00fas Navas,11
+Sergio Escudero,S. N'Zonzi,10
+Jes\u00fas Navas,G. Mercado,9
+Jes\u00fas Navas,S. N'Zonzi,9
+\u00c9. Banega,C. Lenglet,8
+G. Mercado,C. Lenglet,8
+C. Lenglet,G. Mercado,7
+Sergio Escudero,J. Correa,7
+S. N'Zonzi,Sergio Escudero,7
+Sergio Escudero,\u00c9. Banega,6
+G. Mercado,Jes\u00fas Navas,6
+Sergio Escudero,C. Lenglet,5
+J. Correa,Sergio Escudero,5
+S. N'Zonzi,C. Lenglet,5
+\u00c9. Banega,F. V\u00e1zquez,5
+G. Mercado,\u00c9. Banega,4
+F. V\u00e1zquez,J. Correa,4
+C. Lenglet,S. N'Zonzi,4
+Sergio Rico,C. Lenglet,4
+\u00c9. Banega,G. Mercado,4
+\u00c9. Banega,Sergio Escudero,4
+F. V\u00e1zquez,S. N'Zonzi,4
+F. V\u00e1zquez,Jes\u00fas Navas,4
+S. N'Zonzi,\u00c9. Banega,4
+C. Lenglet,\u00c9. Banega,4
+J. Correa,\u00c9. Banega,4
+\u00c9. Banega,Jes\u00fas Navas,3
+Pablo Sarabia,Jes\u00fas Navas,3
+Sergio Escudero,F. V\u00e1zquez,3
+F. V\u00e1zquez,C. Lenglet,3
+G. Mercado,S. N'Zonzi,3
+C. Lenglet,J. Correa,3
+C. Lenglet,F. V\u00e1zquez,3
+G. Mercado,Sergio Rico,3
+S. N'Zonzi,J. Correa,3
+S. N'Zonzi,F. V\u00e1zquez,3
+S. N'Zonzi,G. Mercado,3
+Jes\u00fas Navas,\u00c9. Banega,3
+Jes\u00fas Navas,Pablo Sarabia,3
+\u00c9. Banega,S. N'Zonzi,2
+W. Ben Yedder,Sergio Escudero,2
+C. Lenglet,Jes\u00fas Navas,2
+Sergio Escudero,G. Mercado,2
+Pablo Sarabia,S. N'Zonzi,2
+W. Ben Yedder,S. N'Zonzi,2
+W. Ben Yedder,F. V\u00e1zquez,2
+Jes\u00fas Navas,W. Ben Yedder,2
+F. V\u00e1zquez,W. Ben Yedder,2
+J. Correa,C. Lenglet,2
+Jes\u00fas Navas,C. Lenglet,2
+J. Correa,F. V\u00e1zquez,2
+Pablo Sarabia,F. V\u00e1zquez,2
+G. Mercado,Pablo Sarabia,2
+W. Ben Yedder,\u00c9. Banega,2
+J. Correa,S. N'Zonzi,2
+\u00c9. Banega,W. Ben Yedder,2
+J. Correa,W. Ben Yedder,2
+F. V\u00e1zquez,\u00c9. Banega,2
+\u00c9. Banega,Pablo Sarabia,2
+F. V\u00e1zquez,Sergio Escudero,2
+S. N'Zonzi,Pablo Sarabia,1
+J. Correa,G. Mercado,1
+Pablo Sarabia,\u00c9. Banega,1
+\u00c9. Banega,J. Correa,1
+C. Lenglet,Pablo Sarabia,1
+Sergio Rico,Jes\u00fas Navas,1
+W. Ben Yedder,Sergio Rico,1
+Sergio Escudero,Jes\u00fas Navas,1
+Sergio Rico,Sergio Escudero,1
+Jes\u00fas Navas,F. V\u00e1zquez,1
+Pablo Sarabia,Sergio Escudero,1
+J. Correa,Sergio Rico,1
+C. Lenglet,W. Ben Yedder,1
+S. N'Zonzi,W. Ben Yedder,1
+W. Ben Yedder,G. Mercado,1
+Jes\u00fas Navas,Sergio Escudero,1
+C. Lenglet,Sergio Rico,1
+Sergio Rico,\u00c9. Banega,1
+Jes\u00fas Navas,Sergio Rico,1
+G. Mercado,J. Correa,1

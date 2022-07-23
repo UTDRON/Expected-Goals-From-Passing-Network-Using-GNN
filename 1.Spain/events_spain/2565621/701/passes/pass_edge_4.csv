@@ -1,0 +1,73 @@
+Source,Target,Weight
+Dani Garc\u00eda,Arbilla,5
+Ander Capa,Paulo Oliveira,5
+Ander Capa,Kike Garc\u00eda,5
+Paulo Oliveira,Ander Capa,4
+Kike Garc\u00eda,Dani Garc\u00eda,4
+Kike Garc\u00eda,Ander Capa,4
+G. Escalante,Ander Capa,4
+David Junc\u00e0,Ramis,3
+Dani Garc\u00eda,Joan Jord\u00e1n,3
+David Junc\u00e0,Dani Garc\u00eda,3
+Paulo Oliveira,Ramis,3
+Arbilla,M. Dmitrovi\u0107,3
+M. Dmitrovi\u0107,Sergi Enrich,3
+Sergi Enrich,David Junc\u00e0,3
+Arbilla,David Junc\u00e0,3
+Ramis,M. Dmitrovi\u0107,3
+Dani Garc\u00eda,Ramis,3
+Arbilla,Joan Jord\u00e1n,3
+G. Escalante,Arbilla,3
+M. Dmitrovi\u0107,David Junc\u00e0,2
+Kike Garc\u00eda,Sergi Enrich,2
+Dani Garc\u00eda,M. Dmitrovi\u0107,2
+Ander Capa,G. Escalante,2
+Paulo Oliveira,Kike Garc\u00eda,2
+Ramis,Ander Capa,2
+Ramis,Dani Garc\u00eda,2
+Paulo Oliveira,G. Escalante,2
+David Junc\u00e0,Joan Jord\u00e1n,2
+Ander Capa,Dani Garc\u00eda,2
+Joan Jord\u00e1n,Dani Garc\u00eda,2
+David Junc\u00e0,Arbilla,2
+Dani Garc\u00eda,G. Escalante,2
+David Junc\u00e0,Sergi Enrich,2
+Joan Jord\u00e1n,G. Escalante,2
+Sergi Enrich,Dani Garc\u00eda,2
+M. Dmitrovi\u0107,Paulo Oliveira,2
+Joan Jord\u00e1n,Sergi Enrich,1
+Ramis,Kike Garc\u00eda,1
+Joan Jord\u00e1n,Paulo Oliveira,1
+M. Dmitrovi\u0107,Kike Garc\u00eda,1
+Sergi Enrich,Arbilla,1
+Arbilla,Sergi Enrich,1
+Ander Capa,Joan Jord\u00e1n,1
+Arbilla,G. Escalante,1
+M. Dmitrovi\u0107,Arbilla,1
+Joan Jord\u00e1n,Ander Capa,1
+Sergi Enrich,M. Dmitrovi\u0107,1
+Dani Garc\u00eda,Paulo Oliveira,1
+Ander Capa,Ramis,1
+Joan Jord\u00e1n,Kike Garc\u00eda,1
+Sergi Enrich,Ramis,1
+Arbilla,Paulo Oliveira,1
+Joan Jord\u00e1n,David Junc\u00e0,1
+Ramis,Joan Jord\u00e1n,1
+G. Escalante,Sergi Enrich,1
+Paulo Oliveira,David Junc\u00e0,1
+Dani Garc\u00eda,David Junc\u00e0,1
+Ramis,Paulo Oliveira,1
+Paulo Oliveira,Arbilla,1
+Kike Garc\u00eda,Paulo Oliveira,1
+Paulo Oliveira,Dani Garc\u00eda,1
+Arbilla,Ramis,1
+Arbilla,Kike Garc\u00eda,1
+G. Escalante,Paulo Oliveira,1
+Sergi Enrich,Paulo Oliveira,1
+Joan Jord\u00e1n,Arbilla,1
+Kike Garc\u00eda,Arbilla,1
+G. Escalante,Kike Garc\u00eda,1
+Arbilla,Dani Garc\u00eda,1
+Arbilla,Ander Capa,1
+Ramis,David Junc\u00e0,1
+Ramis,Arbilla,1

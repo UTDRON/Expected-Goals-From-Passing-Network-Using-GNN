@@ -1,0 +1,32 @@
+Source,Target,Weight
+Allan,C. Maggio,2
+Albiol,C. Maggio,2
+C. Maggio,Allan,2
+C. Maggio,P. Zieli\u0144ski,2
+A. Diawara,M. Ham\u0161\u00edk,2
+Albiol,A. Diawara,2
+C. Maggio,Albiol,2
+A. Diawara,K. Koulibaly,1
+C. Maggio,K. Koulibaly,1
+P. Zieli\u0144ski,Allan,1
+M. Ham\u0161\u00edk,L. Insigne,1
+Jorginho,M\u00e1rio Rui,1
+L. Insigne,M\u00e1rio Rui,1
+Albiol,M\u00e1rio Rui,1
+Jorginho,Albiol,1
+K. Koulibaly,M\u00e1rio Rui,1
+Pepe Reina,C. Maggio,1
+K. Koulibaly,A. Diawara,1
+Albiol,P. Zieli\u0144ski,1
+P. Zieli\u0144ski,Jorginho,1
+L. Insigne,Jorginho,1
+A. Diawara,M\u00e1rio Rui,1
+K. Koulibaly,Pepe Reina,1
+P. Zieli\u0144ski,C. Maggio,1
+M\u00e1rio Rui,A. Diawara,1
+M. Ham\u0161\u00edk,A. Diawara,1
+M\u00e1rio Rui,L. Insigne,1
+M\u00e1rio Rui,K. Koulibaly,1
+A. Diawara,Albiol,1
+M\u00e1rio Rui,Albiol,1
+Allan,Albiol,1

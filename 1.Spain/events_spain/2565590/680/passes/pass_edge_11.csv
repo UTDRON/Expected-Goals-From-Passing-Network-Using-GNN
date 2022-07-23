@@ -1,0 +1,36 @@
+Source,Target,Weight
+Pablo Sarabia,Sergio Escudero,2
+Sergio Escudero,J. Correa,2
+F. V\u00e1zquez,Pablo Sarabia,1
+G. Mercado,N. Pareja,1
+F. V\u00e1zquez,S. N'Zonzi,1
+Sergio Escudero,F. V\u00e1zquez,1
+G. Mercado,M. Krohn-Dehli,1
+M. Krohn-Dehli,S. N'Zonzi,1
+G. Mercado,Pablo Sarabia,1
+S. N'Zonzi,Pablo Sarabia,1
+J. Correa,Jes\u00fas Navas,1
+J. Correa,Sergio Escudero,1
+Jes\u00fas Navas,F. V\u00e1zquez,1
+N. Pareja,S. N'Zonzi,1
+Sergio Rico,S. N'Zonzi,1
+S. N'Zonzi,S. Kj\u00e6r,1
+Pablo Sarabia,F. V\u00e1zquez,1
+F. V\u00e1zquez,J. Correa,1
+N. Pareja,G. Mercado,1
+Sergio Escudero,W. Ben Yedder,1
+N. Pareja,Sergio Rico,1
+Jes\u00fas Navas,G. Mercado,1
+Pablo Sarabia,S. N'Zonzi,1
+M. Krohn-Dehli,F. V\u00e1zquez,1
+S. N'Zonzi,N. Pareja,1
+S. N'Zonzi,Jes\u00fas Navas,1
+W. Ben Yedder,Pablo Sarabia,1
+S. Kj\u00e6r,Pablo Sarabia,1
+S. N'Zonzi,M. Krohn-Dehli,1
+Pablo Sarabia,W. Ben Yedder,1
+S. N'Zonzi,Sergio Escudero,1
+J. Correa,S. N'Zonzi,1
+W. Ben Yedder,S. Kj\u00e6r,1
+F. V\u00e1zquez,G. Mercado,1
+S. Kj\u00e6r,N. Pareja,1

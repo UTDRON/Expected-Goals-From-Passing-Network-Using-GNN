@@ -1,0 +1,116 @@
+Source,Target,Weight
+M. Arambarri,Antunes,9
+Antunes,Jorge Molina,6
+Antunes,Juan Cala,5
+M. Arambarri,D. Su\u00e1rez,5
+Jorge Molina,M. Arambarri,5
+Antunes,M. Arambarri,5
+Markel Bergara,F. Fajr,5
+F. Fajr,M. Arambarri,4
+F. Fajr,D. Su\u00e1rez,4
+Jorge Molina,A. Ndiaye,4
+M. Arambarri,Jorge Molina,4
+Jorge Molina,Antunes,4
+Guaita,Jorge Molina,3
+G. Shibasaki,A. Ndiaye,3
+Antunes,Markel Bergara,3
+F. Fajr,Djen\u00e9,3
+D. Su\u00e1rez,F. Fajr,3
+D. Su\u00e1rez,G. Shibasaki,3
+Jorge Molina,G. Shibasaki,3
+D. Su\u00e1rez,M. Arambarri,3
+Djen\u00e9,D. Su\u00e1rez,3
+Djen\u00e9,Juan Cala,3
+Djen\u00e9,Jorge Molina,2
+G. Shibasaki,D. Su\u00e1rez,2
+M. Arambarri,F. Fajr,2
+Markel Bergara,Antunes,2
+Juan Cala,\u00c1lvaro Jim\u00e9nez,2
+Juan Cala,M. Arambarri,2
+Djen\u00e9,F. Fajr,2
+D. Su\u00e1rez,Markel Bergara,2
+F. Fajr,G. Shibasaki,2
+A. Ndiaye,Markel Bergara,2
+D. Su\u00e1rez,\u00c1lvaro Jim\u00e9nez,2
+Djen\u00e9,M. Arambarri,2
+Jorge Molina,Djen\u00e9,2
+Djen\u00e9,Markel Bergara,2
+A. Ndiaye,G. Shibasaki,2
+Juan Cala,Antunes,2
+Markel Bergara,M. Arambarri,2
+A. Ndiaye,Djen\u00e9,2
+D. Su\u00e1rez,A. Ndiaye,2
+\u00c1lvaro Jim\u00e9nez,Djen\u00e9,2
+A. Ndiaye,Jorge Molina,2
+\u00c1lvaro Jim\u00e9nez,M. Arambarri,2
+M. Arambarri,Markel Bergara,2
+M. Arambarri,A. Ndiaye,2
+G. Shibasaki,Antunes,2
+F. Fajr,Antunes,2
+Markel Bergara,Jorge Molina,2
+D. Su\u00e1rez,Djen\u00e9,2
+Guaita,F. Fajr,2
+Antunes,F. Fajr,2
+Djen\u00e9,\u00c1lvaro Jim\u00e9nez,2
+Jorge Molina,D. Su\u00e1rez,2
+Markel Bergara,D. Su\u00e1rez,2
+\u00c1lvaro Jim\u00e9nez,Jorge Molina,2
+Juan Cala,F. Fajr,1
+A. Ndiaye,Juan Cala,1
+F. Fajr,\u00c1lvaro Jim\u00e9nez,1
+Juan Cala,G. Shibasaki,1
+Guaita,M. Arambarri,1
+A. Ndiaye,Guaita,1
+A. Ndiaye,Antunes,1
+Juan Cala,A. Ndiaye,1
+F. Fajr,A. Ndiaye,1
+Antunes,\u00c1lvaro Jim\u00e9nez,1
+Guaita,Sergio Mora,1
+Sergio Mora,Djen\u00e9,1
+\u00c1lvaro Jim\u00e9nez,Sergio Mora,1
+F. Fajr,Guaita,1
+G. Shibasaki,M. Arambarri,1
+D. Su\u00e1rez,Antunes,1
+Jorge Molina,F. Fajr,1
+G. Shibasaki,F. Fajr,1
+Sergio Mora,D. Su\u00e1rez,1
+D. Su\u00e1rez,Sergio Mora,1
+Jorge Molina,Guaita,1
+Sergio Mora,Jorge Molina,1
+\u00c1lvaro Jim\u00e9nez,Antunes,1
+Markel Bergara,\u00c1lvaro Jim\u00e9nez,1
+\u00c1lvaro Jim\u00e9nez,D. Su\u00e1rez,1
+F. Fajr,Markel Bergara,1
+Antunes,Sergio Mora,1
+Juan Cala,Djen\u00e9,1
+Antunes,Djen\u00e9,1
+D. Su\u00e1rez,Jorge Molina,1
+Djen\u00e9,G. Shibasaki,1
+G. Shibasaki,Jorge Molina,1
+M. Arambarri,Sergio Mora,1
+G. Shibasaki,Juan Cala,1
+Sergio Mora,F. Fajr,1
+Antunes,Guaita,1
+F. Fajr,Jorge Molina,1
+Jorge Molina,Juan Cala,1
+A. Ndiaye,\u00c1lvaro Jim\u00e9nez,1
+\u00c1lvaro Jim\u00e9nez,A. Ndiaye,1
+Markel Bergara,Guaita,1
+Juan Cala,Markel Bergara,1
+Djen\u00e9,Guaita,1
+\u00c1lvaro Jim\u00e9nez,F. Fajr,1
+Guaita,Djen\u00e9,1
+Guaita,Antunes,1
+Jorge Molina,Markel Bergara,1
+A. Ndiaye,D. Su\u00e1rez,1
+Markel Bergara,Djen\u00e9,1
+D. Su\u00e1rez,Guaita,1
+F. Fajr,Juan Cala,1
+M. Arambarri,\u00c1lvaro Jim\u00e9nez,1
+Sergio Mora,Markel Bergara,1
+G. Shibasaki,Guaita,1
+A. Ndiaye,M. Arambarri,1
+M. Arambarri,Djen\u00e9,1
+\u00c1lvaro Jim\u00e9nez,Markel Bergara,1
+Jorge Molina,\u00c1lvaro Jim\u00e9nez,1
+Juan Cala,Guaita,1

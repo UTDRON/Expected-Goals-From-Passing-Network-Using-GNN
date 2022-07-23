@@ -1,0 +1,50 @@
+Source,Target,Weight
+Adri\u00e1n,M. Iturra,4
+M. Iturra,Adri\u00e1n,4
+F. Ricca,Adri\u00e1n,3
+F. Ricca,M. Lacen,3
+Adri\u00e1n,D. Rol\u00e1n,3
+D. Rol\u00e1n,Adri\u00e1n,2
+M. Lacen,F. Ricca,2
+D. Rol\u00e1n,F. Ricca,2
+Roberto,Chory Castro,2
+M. Iturra,F. Ricca,2
+Miguel Torres,Roberto,2
+R. Rosales,Miguel Torres,2
+Chory Castro,F. Ricca,2
+Miquel,M. Lacen,1
+B. Ideye,Miquel,1
+D. Rol\u00e1n,M. Iturra,1
+M. Iturra,Miquel,1
+M. Lacen,D. Rol\u00e1n,1
+M. Lacen,R. Rosales,1
+Adri\u00e1n,Chory Castro,1
+Adri\u00e1n,B. Ideye,1
+Chory Castro,Bueno,1
+R. Rosales,Roberto,1
+R. Rosales,B. Ideye,1
+F. Ricca,Miquel,1
+Bueno,Chory Castro,1
+Chory Castro,Adri\u00e1n,1
+Miguel Torres,Miquel,1
+Roberto,Adri\u00e1n,1
+M. Lacen,Miquel,1
+B. Ideye,Chory Castro,1
+Adri\u00e1n,M. Lacen,1
+D. Rol\u00e1n,Miguel Torres,1
+F. Ricca,D. Rol\u00e1n,1
+Miquel,B. Ideye,1
+M. Iturra,R. Rosales,1
+F. Ricca,Roberto,1
+M. Iturra,D. Rol\u00e1n,1
+Chory Castro,B. Ideye,1
+Miquel,R. Rosales,1
+M. Lacen,M. Iturra,1
+R. Rosales,M. Iturra,1
+B. Ideye,M. Iturra,1
+B. Ideye,M. Lacen,1
+Bueno,R. Rosales,1
+Miquel,M. Iturra,1
+Adri\u00e1n,F. Ricca,1
+Miquel,Bueno,1
+Roberto,Bueno,1

@@ -1,0 +1,38 @@
+Source,Target,Weight
+A. Bizzarri,Ali Adnan,2
+K. Lasagna,R. de Paul,2
+R. de Paul,V. Behrami,2
+R. de Paul,K. Lasagna,2
+A. Bali\u0107,R. de Paul,2
+R. de Paul,Danilo,2
+S. Fofana,R. de Paul,1
+J. Stryger Larsen,Samir,1
+R. de Paul,Samir,1
+Danilo,R. de Paul,1
+A. Bali\u0107,S. Fofana,1
+V. Behrami,R. de Paul,1
+K. Lasagna,Samir,1
+Ali Adnan,R. de Paul,1
+S. Widmer,J. Stryger Larsen,1
+Ali Adnan,A. Bizzarri,1
+A. Bizzarri,J. Stryger Larsen,1
+J. Stryger Larsen,A. Bizzarri,1
+V. Behrami,K. Lasagna,1
+Samir,Danilo,1
+Danilo,K. Lasagna,1
+Samir,V. Behrami,1
+Ali Adnan,K. Lasagna,1
+S. Fofana,A. Bizzarri,1
+S. Widmer,V. Behrami,1
+Danilo,Ali Adnan,1
+Danilo,S. Fofana,1
+S. Fofana,S. Widmer,1
+A. Bizzarri,K. Lasagna,1
+R. de Paul,A. Bali\u0107,1
+K. Lasagna,Danilo,1
+V. Behrami,S. Fofana,1
+Ali Adnan,S. Widmer,1
+V. Behrami,Ali Adnan,1
+K. Lasagna,A. Bali\u0107,1
+K. Lasagna,V. Behrami,1
+Samir,A. Bizzarri,1

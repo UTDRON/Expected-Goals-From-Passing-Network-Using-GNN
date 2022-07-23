@@ -1,0 +1,35 @@
+Source,Target,Weight
+A. Guardado,R. Boudebouz,3
+Bartra,Jordi Amat,3
+Javi Garc\u00eda,Bartra,2
+A. Mandi,Francis Guerrero,2
+A. Mandi,R. Boudebouz,2
+A. Mandi,Javi Garc\u00eda,2
+Javi Garc\u00eda,A. Mandi,2
+R. Boudebouz,Bartra,2
+Bartra,A. Mandi,2
+R. Boudebouz,A. Mandi,2
+A. Mandi,A. Guardado,2
+R. Boudebouz,Jordi Amat,1
+Bartra,Javi Garc\u00eda,1
+Bartra,Francis Guerrero,1
+A. Guardado,A. Mandi,1
+Fabi\u00e1n,A. Mandi,1
+A. Mandi,Bartra,1
+Francis Guerrero,A. Guardado,1
+Jordi Amat,Javi Garc\u00eda,1
+Javi Garc\u00eda,Fabi\u00e1n,1
+J. Firpo,Bartra,1
+R. Boudebouz,A. Guardado,1
+Fabi\u00e1n,Javi Garc\u00eda,1
+Jordi Amat,R. Boudebouz,1
+Jordi Amat,A. Mandi,1
+Francis Guerrero,R. Boudebouz,1
+Jordi Amat,J. Firpo,1
+Bartra,Loren Mor\u00f3n,1
+A. Mandi,Fabi\u00e1n,1
+Francis Guerrero,Fabi\u00e1n,1
+Javi Garc\u00eda,Francis Guerrero,1
+Francis Guerrero,A. Mandi,1
+Fabi\u00e1n,Bartra,1
+R. Boudebouz,Javi Garc\u00eda,1

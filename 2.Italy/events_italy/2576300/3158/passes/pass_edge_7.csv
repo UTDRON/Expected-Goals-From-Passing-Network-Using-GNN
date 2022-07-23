@@ -1,0 +1,56 @@
+Source,Target,Weight
+Bruno Peres,D. De Rossi,5
+D. De Rossi,Bruno Peres,4
+D. De Rossi,A. Kolarov,4
+A. Kolarov,D. De Rossi,3
+Juan Jesus,F. Fazio,3
+F. Fazio,D. De Rossi,3
+S. El Shaarawy,L. Pellegrini,2
+P. Schick,F. Fazio,2
+A. Kolarov,Juan Jesus,2
+Juan Jesus,Bruno Peres,2
+F. Fazio,Bruno Peres,2
+Bruno Peres,R. Nainggolan,2
+A. Kolarov,S. El Shaarawy,2
+R. Nainggolan,D. De Rossi,2
+L. Pellegrini,E. D\u017eeko,2
+D. De Rossi,L. Pellegrini,2
+D. De Rossi,Juan Jesus,2
+E. D\u017eeko,A. Kolarov,2
+Juan Jesus,A. Kolarov,2
+A. Kolarov,L. Pellegrini,2
+Bruno Peres,L. Pellegrini,2
+Alisson,A. Kolarov,2
+Bruno Peres,F. Fazio,2
+R. Nainggolan,S. El Shaarawy,2
+L. Pellegrini,A. Kolarov,2
+R. Nainggolan,P. Schick,2
+F. Fazio,Juan Jesus,2
+Alisson,D. De Rossi,1
+Bruno Peres,Alisson,1
+S. El Shaarawy,A. Kolarov,1
+D. De Rossi,S. El Shaarawy,1
+Alisson,P. Schick,1
+L. Pellegrini,Bruno Peres,1
+P. Schick,Bruno Peres,1
+E. D\u017eeko,S. El Shaarawy,1
+L. Pellegrini,P. Schick,1
+L. Pellegrini,R. Nainggolan,1
+A. Kolarov,R. Nainggolan,1
+A. Kolarov,Bruno Peres,1
+F. Fazio,P. Schick,1
+A. Kolarov,E. D\u017eeko,1
+P. Schick,E. D\u017eeko,1
+Juan Jesus,Alisson,1
+S. El Shaarawy,F. Fazio,1
+Alisson,Bruno Peres,1
+L. Pellegrini,F. Fazio,1
+L. Pellegrini,Alisson,1
+R. Nainggolan,E. D\u017eeko,1
+F. Fazio,L. Pellegrini,1
+D. De Rossi,R. Nainggolan,1
+S. El Shaarawy,Juan Jesus,1
+E. D\u017eeko,R. Nainggolan,1
+S. El Shaarawy,R. Nainggolan,1
+P. Schick,Alisson,1
+A. Kolarov,Alisson,1

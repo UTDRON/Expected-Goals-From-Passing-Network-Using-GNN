@@ -1,0 +1,60 @@
+Source,Target,Weight
+S. De Maio,L. Crisetig,4
+A. Poli,I. M'baye,4
+S. Verdi,S. De Maio,4
+S. De Maio,C. Keita,4
+L. Crisetig,A. Poli,3
+A. Poli,L. Crisetig,3
+R. Palacio,V. Torosidis,3
+S. De Maio,S. Verdi,2
+S. De Maio,R. Palacio,2
+C. Keita,S. De Maio,2
+C. Keita,S. Verdi,2
+I. M'baye,R. Palacio,2
+R. Palacio,S. De Maio,2
+C. Keita,\u00c1. Nagy,2
+S. De Maio,S. Romagnoli,2
+A. Poli,R. Palacio,2
+V. Torosidis,I. M'baye,2
+S. Romagnoli,V. Torosidis,2
+I. M'baye,A. Poli,2
+L. Crisetig,R. Palacio,2
+R. Palacio,L. Crisetig,2
+\u00c1. Nagy,A. Poli,2
+L. Crisetig,S. De Maio,2
+L. Crisetig,S. Romagnoli,2
+A. Mirante,S. De Maio,1
+S. De Maio,\u00c1. Nagy,1
+L. Crisetig,\u00c1. Nagy,1
+I. M'baye,V. Torosidis,1
+A. Poli,M. Destro,1
+S. Romagnoli,S. Verdi,1
+L. Crisetig,V. Torosidis,1
+M. Destro,A. Poli,1
+L. Crisetig,C. Keita,1
+C. Keita,A. Poli,1
+R. Palacio,S. Romagnoli,1
+S. Verdi,C. Keita,1
+R. Palacio,C. Keita,1
+A. Poli,S. De Maio,1
+\u00c1. Nagy,L. Crisetig,1
+V. Torosidis,M. Destro,1
+I. M'baye,A. Mirante,1
+S. Romagnoli,A. Mirante,1
+\u00c1. Nagy,S. De Maio,1
+S. Romagnoli,I. M'baye,1
+V. Torosidis,R. Palacio,1
+S. Romagnoli,L. Crisetig,1
+R. Palacio,A. Poli,1
+V. Torosidis,S. Romagnoli,1
+A. Mirante,S. Verdi,1
+V. Torosidis,A. Poli,1
+C. Keita,S. Romagnoli,1
+S. Romagnoli,\u00c1. Nagy,1
+A. Mirante,L. Crisetig,1
+S. Romagnoli,S. De Maio,1
+\u00c1. Nagy,S. Romagnoli,1
+I. M'baye,C. Keita,1
+S. Verdi,R. Palacio,1
+V. Torosidis,S. De Maio,1
+S. Verdi,A. Mirante,1

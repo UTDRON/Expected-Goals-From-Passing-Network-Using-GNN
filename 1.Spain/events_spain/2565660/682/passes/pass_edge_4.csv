@@ -1,0 +1,56 @@
+Source,Target,Weight
+Pablo Fornals,Mario,4
+Trigueros,Rodri,3
+V\u00edctor Ru\u00edz,Trigueros,3
+Trigueros,Jaume Costa,3
+Trigueros,D. Bonera,3
+Mario,C. Bakambu,2
+C. Bakambu,Trigueros,2
+D. Bonera,Trigueros,2
+Rodri,Trigueros,2
+D. Bonera,V\u00edctor Ru\u00edz,2
+M. Barbosa,Jaume Costa,2
+Mario,D. Bonera,2
+M. Barbosa,Pablo Fornals,2
+R. Soriano,M. Barbosa,2
+Trigueros,Pablo Fornals,1
+Jaume Costa,R. Soriano,1
+C. Bakambu,Pablo Fornals,1
+C. Bakambu,M. Barbosa,1
+V\u00edctor Ru\u00edz,D. Bonera,1
+Trigueros,V\u00edctor Ru\u00edz,1
+Rodri,Jaume Costa,1
+V\u00edctor Ru\u00edz,R. Soriano,1
+M. Barbosa,V\u00edctor Ru\u00edz,1
+Mario,Rodri,1
+Rodri,D. Bonera,1
+Pablo Fornals,V\u00edctor Ru\u00edz,1
+Mario,Trigueros,1
+C. Bakambu,C. Bacca,1
+Rodri,V\u00edctor Ru\u00edz,1
+V\u00edctor Ru\u00edz,Jaume Costa,1
+D. Bonera,Jaume Costa,1
+D. Bonera,Mario,1
+D. Bonera,M. Barbosa,1
+Jaume Costa,C. Bakambu,1
+R. Soriano,Pablo Fornals,1
+C. Bacca,Rodri,1
+C. Bakambu,V\u00edctor Ru\u00edz,1
+Trigueros,C. Bacca,1
+C. Bacca,Trigueros,1
+Pablo Fornals,C. Bakambu,1
+Trigueros,R. Soriano,1
+Jaume Costa,C. Bacca,1
+Mario,M. Barbosa,1
+Jaume Costa,V\u00edctor Ru\u00edz,1
+M. Barbosa,C. Bakambu,1
+R. Soriano,C. Bakambu,1
+V\u00edctor Ru\u00edz,M. Barbosa,1
+M. Barbosa,D. Bonera,1
+C. Bacca,Mario,1
+V\u00edctor Ru\u00edz,Rodri,1
+Jaume Costa,Pablo Fornals,1
+D. Bonera,R. Soriano,1
+Jaume Costa,Trigueros,1
+Jaume Costa,M. Barbosa,1
+Jaume Costa,Mario,1

@@ -1,0 +1,27 @@
+Source,Target,Weight
+J. Stryger Larsen,R. de Paul,4
+J. Jankto,Ali Adnan,3
+Ali Adnan,J. Jankto,3
+A. Bar\u00e1k,B. Nuytinck,2
+G. Angella,J. Stryger Larsen,2
+R. de Paul,A. Bar\u00e1k,2
+B. Nuytinck,A. Bar\u00e1k,2
+R. de Paul,J. Stryger Larsen,2
+Ali Adnan,A. Bar\u00e1k,1
+A. Bar\u00e1k,R. de Paul,1
+A. Bar\u00e1k,S. Fofana,1
+J. Stryger Larsen,S. Scuffet,1
+B. Nuytinck,S. Fofana,1
+A. Bar\u00e1k,J. Jankto,1
+S. Fofana,G. Angella,1
+S. Scuffet,A. Bar\u00e1k,1
+J. Jankto,B. Nuytinck,1
+S. Fofana,R. de Paul,1
+R. de Paul,S. Fofana,1
+G. Angella,K. Lasagna,1
+R. de Paul,B. Nuytinck,1
+B. Nuytinck,G. Angella,1
+K. Lasagna,R. de Paul,1
+A. Bar\u00e1k,Ali Adnan,1
+S. Fofana,A. Bar\u00e1k,1
+A. Bar\u00e1k,G. Angella,1

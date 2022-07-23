@@ -1,0 +1,39 @@
+Source,Target,Weight
+M. Capuano,A. Benali,5
+M. Capuano,F. Ceccherini,4
+A. Benali,D. Faraoni,4
+D. Faraoni,Simy,3
+B. Martella,M. Capuano,3
+F. Ceccherini,A. Benali,3
+R. Mandragora,M. Capuano,3
+M. Trotta,D. Faraoni,2
+M. Capuano,R. Mandragora,2
+F. Ceccherini,M. Capuano,2
+A. Benali,B. Martella,2
+A. Benali,R. Mandragora,2
+A. Benali,M. Trotta,2
+Simy,A. Benali,1
+Simy,D. Faraoni,1
+A. Budimir,A. Nalini,1
+M. Trotta,A. Benali,1
+B. Martella,A. Nalini,1
+A. Cordaz,M. Capuano,1
+A. Nalini,M. Capuano,1
+A. Benali,A. Budimir,1
+D. Faraoni,A. Benali,1
+R. Mandragora,B. Martella,1
+A. Benali,Simy,1
+A. Nalini,A. Benali,1
+D. Faraoni,F. Ceccherini,1
+A. Budimir,A. Benali,1
+Simy,A. Nalini,1
+Simy,B. Martella,1
+Simy,M. Capuano,1
+A. Nalini,B. Martella,1
+F. Ceccherini,A. Budimir,1
+M. Capuano,A. Cordaz,1
+A. Benali,M. Capuano,1
+B. Martella,Simy,1
+D. Faraoni,M. Trotta,1
+R. Mandragora,F. Ceccherini,1
+D. Faraoni,A. Budimir,1

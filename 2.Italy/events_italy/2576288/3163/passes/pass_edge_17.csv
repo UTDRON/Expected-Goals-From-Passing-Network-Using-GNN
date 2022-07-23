@@ -1,0 +1,23 @@
+Source,Target,Weight
+Ali Adnan,R. de Paul,3
+R. de Paul,Samir,2
+S. Perica,Ali Adnan,2
+Samir,B. Nuytinck,2
+Samir,Ali Adnan,2
+F. Zampano,Samir,1
+A. Bar\u00e1k,B. Nuytinck,1
+R. de Paul,A. Bar\u00e1k,1
+B. Nuytinck,A. Bar\u00e1k,1
+Ali Adnan,S. Ingelsson,1
+S. Ingelsson,A. Bali\u0107,1
+A. Bar\u00e1k,S. Widmer,1
+A. Bali\u0107,B. Nuytinck,1
+B. Nuytinck,Samir,1
+S. Widmer,S. Perica,1
+Samir,S. Widmer,1
+Ali Adnan,S. Perica,1
+B. Nuytinck,S. Widmer,1
+S. Widmer,Ali Adnan,1
+S. Ingelsson,F. Zampano,1
+S. Widmer,Samir,1
+B. Nuytinck,S. Ingelsson,1

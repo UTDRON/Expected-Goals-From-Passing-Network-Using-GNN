@@ -1,0 +1,53 @@
+Source,Target,Weight
+D. Bonera,Mario,7
+Rodri,D. Bonera,5
+Rodri,Trigueros,5
+\u00c1lvaro Gonz\u00e1lez,Rodri,4
+Samu Castillejo,Rodri,4
+D. Bonera,Rodri,4
+Rodri,\u00c1lvaro Gonz\u00e1lez,4
+Jaume Costa,Trigueros,4
+Mario,Samu Castillejo,4
+Trigueros,Jaume Costa,3
+\u00c1lvaro Gonz\u00e1lez,D. Bonera,3
+Jaume Costa,Rodri,3
+Rodri,Jaume Costa,3
+Mario,D. Bonera,3
+Trigueros,Rodri,3
+D. Cheryshev,Rodri,3
+Sergio Asenjo,\u00c1lvaro Gonz\u00e1lez,2
+Rodri,Mario,2
+D. Bonera,\u00c1lvaro Gonz\u00e1lez,2
+\u00c1lvaro Gonz\u00e1lez,Samu Castillejo,2
+D. Cheryshev,Trigueros,2
+Jaume Costa,D. Cheryshev,2
+Trigueros,D. Cheryshev,2
+Trigueros,Samu Castillejo,2
+Trigueros,D. Bonera,2
+Samu Castillejo,D. Bonera,2
+\u00c1lvaro Gonz\u00e1lez,Jaume Costa,2
+Trigueros,\u00c1lvaro Gonz\u00e1lez,2
+Jaume Costa,\u00c1lvaro Gonz\u00e1lez,1
+Samu Castillejo,Mario,1
+Mario,D. Cheryshev,1
+D. Cheryshev,Mario,1
+Mario,E. \u00dcnal,1
+Mario,Jaume Costa,1
+Rodri,Samu Castillejo,1
+D. Cheryshev,\u00c1lvaro Gonz\u00e1lez,1
+D. Bonera,Jaume Costa,1
+Samu Castillejo,Jaume Costa,1
+Mario,Trigueros,1
+D. Cheryshev,Samu Castillejo,1
+D. Bonera,D. Cheryshev,1
+D. Cheryshev,D. Bonera,1
+Samu Castillejo,Trigueros,1
+Pablo Fornals,D. Cheryshev,1
+\u00c1lvaro Gonz\u00e1lez,Mario,1
+Samu Castillejo,Pablo Fornals,1
+D. Bonera,Sergio Asenjo,1
+E. \u00dcnal,D. Bonera,1
+Mario,Rodri,1
+Jaume Costa,Sergio Asenjo,1
+Rodri,D. Cheryshev,1
+D. Bonera,Trigueros,1

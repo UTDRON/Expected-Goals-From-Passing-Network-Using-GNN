@@ -1,0 +1,52 @@
+Source,Target,Weight
+Ager Aketxe,Lekue,6
+Ra\u00fal Garc\u00eda,Lekue,6
+Lekue,Susaeta,4
+Lekue,Ra\u00fal Garc\u00eda,4
+Lekue,Ager Aketxe,4
+Lekue,Unai N\u00fa\u00f1ez,4
+Susaeta,Lekue,3
+Unai N\u00fa\u00f1ez,A. Laporte,3
+Balenziaga,Muniain,3
+Vesga,Ra\u00fal Garc\u00eda,3
+Muniain,Ager Aketxe,3
+San Jos\u00e9,Lekue,3
+A. Laporte,Vesga,3
+Lekue,Vesga,3
+Ra\u00fal Garc\u00eda,Balenziaga,2
+A. Laporte,Ra\u00fal Garc\u00eda,2
+Balenziaga,Unai N\u00fa\u00f1ez,2
+Balenziaga,A. Laporte,2
+Vesga,Balenziaga,2
+Ager Aketxe,Muniain,2
+A. Laporte,Ager Aketxe,2
+Muniain,A. Laporte,2
+Susaeta,Vesga,2
+Muniain,Ra\u00fal Garc\u00eda,1
+Muniain,Balenziaga,1
+Muniain,San Jos\u00e9,1
+Unai N\u00fa\u00f1ez,Muniain,1
+Unai N\u00fa\u00f1ez,Lekue,1
+Ra\u00fal Garc\u00eda,A. Laporte,1
+Ager Aketxe,Susaeta,1
+Unai N\u00fa\u00f1ez,Ager Aketxe,1
+Unai N\u00fa\u00f1ez,Susaeta,1
+Lekue,San Jos\u00e9,1
+A. Laporte,Balenziaga,1
+Ra\u00fal Garc\u00eda,Ager Aketxe,1
+Susaeta,Unai N\u00fa\u00f1ez,1
+Unai N\u00fa\u00f1ez,Ra\u00fal Garc\u00eda,1
+Vesga,Susaeta,1
+Susaeta,Ager Aketxe,1
+Ager Aketxe,Balenziaga,1
+Ra\u00fal Garc\u00eda,Muniain,1
+Ra\u00fal Garc\u00eda,San Jos\u00e9,1
+Vesga,Muniain,1
+Vesga,Lekue,1
+Vesga,Unai N\u00fa\u00f1ez,1
+San Jos\u00e9,Muniain,1
+Arrizabalaga,Ra\u00fal Garc\u00eda,1
+Unai N\u00fa\u00f1ez,Vesga,1
+Unai N\u00fa\u00f1ez,San Jos\u00e9,1
+Ager Aketxe,Unai N\u00fa\u00f1ez,1
+Muniain,Unai N\u00fa\u00f1ez,1

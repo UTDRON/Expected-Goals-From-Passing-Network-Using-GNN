@@ -1,0 +1,14 @@
+Source,Target,Weight
+S. Missiroli,D. Berardi,2
+D. Berardi,F. Magnanelli,2
+F. Magnanelli,D. Berardi,1
+D. Falcinelli,A. Duncan,1
+F. Magnanelli,M. Politano,1
+F. Acerbi,S. Missiroli,1
+A. Duncan,D. Falcinelli,1
+F. Magnanelli,S. Missiroli,1
+M. Politano,F. Peluso,1
+F. Peluso,F. Magnanelli,1
+D. Berardi,S. Missiroli,1
+S. Missiroli,F. Magnanelli,1
+F. Magnanelli,D. Falcinelli,1

@@ -1,0 +1,35 @@
+Source,Target,Weight
+Dani Parejo,Gabriel,3
+Neto,Santi Mina,2
+J. Murillo,Dani Parejo,2
+Santi Mina,J. Murillo,2
+Dani Parejo,Montoya,1
+J. Murillo,Santi Mina,1
+Santi Mina,Dani Parejo,1
+Santi Mina,Rodrigo,1
+Rodrigo,Santi Mina,1
+Gon\u00e7alo Guedes,J. Murillo,1
+Santi Mina,Gon\u00e7alo Guedes,1
+Dani Parejo,Santi Mina,1
+G. Kondogbia,J. Murillo,1
+Carlos Soler,Dani Parejo,1
+Jos\u00e9 Gay\u00e1,J. Murillo,1
+Montoya,Jos\u00e9 Gay\u00e1,1
+Jos\u00e9 Gay\u00e1,Santi Mina,1
+Gabriel,Rodrigo,1
+Gabriel,Montoya,1
+Montoya,Neto,1
+Rodrigo,Montoya,1
+Gon\u00e7alo Guedes,Santi Mina,1
+Montoya,Santi Mina,1
+J. Murillo,G. Kondogbia,1
+Santi Mina,G. Kondogbia,1
+Neto,Dani Parejo,1
+Neto,Gon\u00e7alo Guedes,1
+Santi Mina,Neto,1
+Gabriel,Neto,1
+Gon\u00e7alo Guedes,Jos\u00e9 Gay\u00e1,1
+J. Murillo,Neto,1
+Jos\u00e9 Gay\u00e1,G. Kondogbia,1
+G. Kondogbia,Gon\u00e7alo Guedes,1
+G. Kondogbia,Jos\u00e9 Gay\u00e1,1

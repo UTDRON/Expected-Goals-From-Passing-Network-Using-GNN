@@ -1,0 +1,89 @@
+Source,Target,Weight
+L. Boy\u00e9,Jonny,5
+Sergi G\u00f3mez,Jonny,5
+Jonny,L. Boy\u00e9,4
+G. Cabral,Hugo Mallo,3
+L. Boy\u00e9,N. Radoja,3
+S. Lobotka,G. Cabral,3
+D. Wass,Iago Aspas,3
+Jonny,N. Radoja,3
+G. Cabral,S. Lobotka,3
+Sergi G\u00f3mez,G. Cabral,3
+Jonny,P. Hern\u00e1ndez,3
+N. Radoja,Hugo Mallo,3
+S. Lobotka,Sergi G\u00f3mez,3
+Maxi G\u00f3mez,S. Lobotka,3
+Maxi G\u00f3mez,Iago Aspas,3
+N. Radoja,Sergi G\u00f3mez,2
+P. Hern\u00e1ndez,S. Lobotka,2
+Sergi G\u00f3mez,L. Boy\u00e9,2
+Iago Aspas,N. Radoja,2
+N. Radoja,Jonny,2
+Jonny,Hugo Mallo,2
+Sergio \u00c1lvarez,Sergi G\u00f3mez,2
+N. Radoja,S. Lobotka,2
+Sergi G\u00f3mez,N. Radoja,2
+Hugo Mallo,Maxi G\u00f3mez,2
+S. Lobotka,Jonny,2
+S. Lobotka,L. Boy\u00e9,2
+Maxi G\u00f3mez,L. Boy\u00e9,2
+G. Cabral,D. Wass,2
+S. Lobotka,Hugo Mallo,2
+L. Boy\u00e9,Sergi G\u00f3mez,2
+D. Wass,Maxi G\u00f3mez,2
+Hugo Mallo,N. Radoja,2
+Iago Aspas,S. Lobotka,2
+S. Lobotka,D. Wass,2
+Iago Aspas,L. Boy\u00e9,2
+P. Hern\u00e1ndez,Sergi G\u00f3mez,2
+Hugo Mallo,S. Lobotka,2
+Jonny,Maxi G\u00f3mez,2
+Hugo Mallo,G. Cabral,1
+Jonny,Sergi G\u00f3mez,1
+Hugo Mallo,D. Wass,1
+L. Boy\u00e9,S. Lobotka,1
+L. Boy\u00e9,G. Cabral,1
+L. Boy\u00e9,D. Wass,1
+Hugo Mallo,Sergio \u00c1lvarez,1
+Maxi G\u00f3mez,D. Wass,1
+Jonny,G. Cabral,1
+G. Cabral,Sergio \u00c1lvarez,1
+P. Sisto,P. Hern\u00e1ndez,1
+Maxi G\u00f3mez,Hugo Mallo,1
+G. Cabral,Iago Aspas,1
+P. Hern\u00e1ndez,Hugo Mallo,1
+Hugo Mallo,P. Sisto,1
+Sergio \u00c1lvarez,Maxi G\u00f3mez,1
+Hugo Mallo,Iago Aspas,1
+Sergi G\u00f3mez,P. Hern\u00e1ndez,1
+P. Hern\u00e1ndez,Jonny,1
+S. Lobotka,Maxi G\u00f3mez,1
+Jonny,Iago Aspas,1
+D. Wass,Hugo Mallo,1
+Iago Aspas,G. Cabral,1
+L. Boy\u00e9,Maxi G\u00f3mez,1
+Sergi G\u00f3mez,S. Lobotka,1
+Hugo Mallo,Sergi G\u00f3mez,1
+Maxi G\u00f3mez,P. Hern\u00e1ndez,1
+N. Radoja,Iago Aspas,1
+N. Radoja,G. Cabral,1
+Iago Aspas,D. Wass,1
+N. Radoja,P. Hern\u00e1ndez,1
+P. Sisto,Maxi G\u00f3mez,1
+D. Wass,Sergi G\u00f3mez,1
+Iago Aspas,Sergi G\u00f3mez,1
+Iago Aspas,Maxi G\u00f3mez,1
+S. Lobotka,P. Sisto,1
+G. Cabral,L. Boy\u00e9,1
+G. Cabral,Maxi G\u00f3mez,1
+Sergi G\u00f3mez,Hugo Mallo,1
+G. Cabral,Sergi G\u00f3mez,1
+N. Radoja,L. Boy\u00e9,1
+P. Hern\u00e1ndez,G. Cabral,1
+P. Sisto,Jonny,1
+Sergi G\u00f3mez,Sergio \u00c1lvarez,1
+D. Wass,G. Cabral,1
+Hugo Mallo,P. Hern\u00e1ndez,1
+Maxi G\u00f3mez,Jonny,1
+Hugo Mallo,Jonny,1
+Jonny,P. Sisto,1

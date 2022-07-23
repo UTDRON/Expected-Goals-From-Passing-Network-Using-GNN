@@ -1,0 +1,32 @@
+Source,Target,Weight
+Pablo Maffeo,Portu,2
+Juanpe,Aday,2
+\u00c1lex Granell,Pere Pons,2
+\u00c1lex Granell,Bernardo Espinosa,2
+Pablo Maffeo,Juanpe,1
+Ramalho,\u00c1lex Granell,1
+Borja Garc\u00eda,Aday,1
+Portu,Juanpe,1
+Borja Garc\u00eda,Portu,1
+Borja Garc\u00eda,Juanpe,1
+Ramalho,Bernardo Espinosa,1
+C. Stuani,Pere Pons,1
+Juanpe,Borja Garc\u00eda,1
+Portu,Pablo Maffeo,1
+Bernardo Espinosa,Pablo Maffeo,1
+Aday,Pablo Maffeo,1
+Pere Pons,Ramalho,1
+Bernardo Espinosa,Juanpe,1
+Juanpe,\u00c1lex Granell,1
+Pere Pons,Borja Garc\u00eda,1
+Aday,\u00c1lex Granell,1
+Portu,C. Stuani,1
+Aday,Juanpe,1
+Bernardo Espinosa,Aday,1
+Aday,Borja Garc\u00eda,1
+Pablo Maffeo,Aday,1
+Aday,Pere Pons,1
+Pere Pons,\u00c1lex Granell,1
+Pere Pons,Pablo Maffeo,1
+Juanpe,Pablo Maffeo,1
+Pablo Maffeo,Borja Garc\u00eda,1

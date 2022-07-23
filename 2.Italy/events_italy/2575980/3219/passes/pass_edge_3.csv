@@ -1,0 +1,21 @@
+Source,Target,Weight
+D. Cataldi,P. Iemmello,2
+M. Coda,G. Letizia,1
+M. Coda,D. Cataldi,1
+V. Belec,G. Letizia,1
+A. Ciciretti,D. Cataldi,1
+L. Memushaj,V. Belec,1
+F. Lucioni,V. Belec,1
+D. Cataldi,L. Memushaj,1
+G. Letizia,L. Memushaj,1
+D. Cataldi,A. Ciciretti,1
+L. Memushaj,D. Cataldi,1
+G. Letizia,L. Antei,1
+A. Ciciretti,M. Coda,1
+L. Antei,L. Venuti,1
+D. Cataldi,F. Lucioni,1
+L. Venuti,D. Cataldi,1
+L. Venuti,G. Letizia,1
+V. Belec,M. Coda,1
+P. Iemmello,A. Ciciretti,1
+G. Letizia,D. Cataldi,1

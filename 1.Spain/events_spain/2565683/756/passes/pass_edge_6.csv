@@ -1,0 +1,64 @@
+Source,Target,Weight
+Muniesa,J. Mojica,8
+J. Mojica,\u00c1lex Granell,7
+J. Mojica,Borja Garc\u00eda,7
+Juanpe,Muniesa,5
+Borja Garc\u00eda,\u00c1lex Granell,5
+Pere Pons,Juanpe,4
+Borja Garc\u00eda,J. Mojica,4
+J. Mojica,Muniesa,4
+Ramalho,Pere Pons,4
+Pablo Maffeo,Pere Pons,3
+Pablo Maffeo,Ramalho,3
+Ramalho,Juanpe,3
+Portu,Pablo Maffeo,3
+\u00c1lex Granell,J. Mojica,3
+C. Stuani,J. Mojica,3
+Juanpe,Ramalho,3
+\u00c1lex Granell,Pere Pons,3
+\u00c1lex Granell,Borja Garc\u00eda,3
+Pablo Maffeo,Portu,3
+Ramalho,Pablo Maffeo,3
+\u00c1lex Granell,Muniesa,3
+Ramalho,\u00c1lex Granell,2
+Juanpe,J. Mojica,2
+Borja Garc\u00eda,Pere Pons,2
+Borja Garc\u00eda,C. Stuani,2
+Muniesa,Juanpe,2
+Pere Pons,J. Mojica,2
+\u00c1lex Granell,C. Stuani,2
+Pere Pons,Ramalho,2
+Muniesa,\u00c1lex Granell,2
+\u00c1lex Granell,Ramalho,2
+Pere Pons,Pablo Maffeo,2
+\u00c1lex Granell,Pablo Maffeo,2
+Pere Pons,Borja Garc\u00eda,2
+Ramalho,Borja Garc\u00eda,2
+\u00c1lex Granell,Juanpe,2
+J. Mojica,Ramalho,2
+Juanpe,\u00c1lex Granell,1
+Pablo Maffeo,J. Mojica,1
+J. Mojica,Pablo Maffeo,1
+Y. Bounou,Pere Pons,1
+Y. Bounou,Borja Garc\u00eda,1
+Borja Garc\u00eda,Ramalho,1
+C. Stuani,Ramalho,1
+\u00c1lex Granell,Y. Bounou,1
+Pere Pons,C. Stuani,1
+J. Mojica,Juanpe,1
+Pablo Maffeo,Borja Garc\u00eda,1
+Pablo Maffeo,\u00c1lex Granell,1
+Pere Pons,\u00c1lex Granell,1
+Y. Bounou,Ramalho,1
+Borja Garc\u00eda,Muniesa,1
+Borja Garc\u00eda,Portu,1
+J. Mojica,Pere Pons,1
+Muniesa,Pere Pons,1
+Portu,\u00c1lex Granell,1
+Ramalho,Muniesa,1
+Muniesa,C. Stuani,1
+Pere Pons,Muniesa,1
+Muniesa,Y. Bounou,1
+Juanpe,Y. Bounou,1
+Borja Garc\u00eda,Pablo Maffeo,1
+C. Stuani,Borja Garc\u00eda,1

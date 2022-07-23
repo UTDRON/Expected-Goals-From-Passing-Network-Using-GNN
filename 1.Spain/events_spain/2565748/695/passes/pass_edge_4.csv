@@ -1,0 +1,84 @@
+Source,Target,Weight
+Jason,Coke,12
+Coke,Jason,8
+C. Doukour\u00e9,Coke,7
+Coke,Campa\u00f1a,6
+Coke,C. Doukour\u00e9,5
+Campa\u00f1a,Jason,5
+Jason,J. Lerma,4
+Ivi,Luna,4
+Luna,Campa\u00f1a,4
+Luna,Ivi,4
+Chema,Luna,4
+J. Lerma,Luna,4
+Coke,E. Cabaco,4
+J. Lerma,Chema,4
+Luna,C. Doukour\u00e9,4
+Luna,Jos\u00e9 Luis Morales,4
+Ivi,Coke,4
+C. Doukour\u00e9,Jason,4
+C. Doukour\u00e9,J. Lerma,3
+Campa\u00f1a,Luna,3
+J. Lerma,E. Cabaco,3
+J. Lerma,Campa\u00f1a,3
+E. Cabaco,Coke,3
+Campa\u00f1a,C. Doukour\u00e9,3
+Luna,J. Lerma,3
+Coke,Ivi,3
+J. Lerma,C. Doukour\u00e9,3
+E. Cabaco,J. Lerma,3
+Jos\u00e9 Luis Morales,Ivi,2
+Ivi,E. Cabaco,2
+Campa\u00f1a,Chema,2
+Chema,J. Lerma,2
+E. Cabaco,C. Doukour\u00e9,2
+Coke,J. Lerma,2
+Chema,Campa\u00f1a,2
+Jason,Campa\u00f1a,2
+J. Lerma,Coke,2
+Jos\u00e9 Luis Morales,E. Cabaco,2
+Campa\u00f1a,Jos\u00e9 Luis Morales,2
+Campa\u00f1a,Coke,2
+E. Cabaco,Campa\u00f1a,2
+E. Cabaco,Chema,2
+Jason,C. Doukour\u00e9,2
+Campa\u00f1a,Ivi,2
+C. Doukour\u00e9,Campa\u00f1a,2
+Campa\u00f1a,J. Lerma,2
+Oier,Jason,1
+Chema,E. Cabaco,1
+J. Lerma,Jason,1
+Jason,Jos\u00e9 Luis Morales,1
+Oier,Ivi,1
+Oier,E. Cabaco,1
+Jason,E. Cabaco,1
+E. Cabaco,Jason,1
+Campa\u00f1a,Oier,1
+C. Doukour\u00e9,Luna,1
+Jos\u00e9 Luis Morales,Chema,1
+Chema,Jason,1
+E. Cabaco,Luna,1
+Coke,Luna,1
+Oier,Chema,1
+Ivi,Jos\u00e9 Luis Morales,1
+C. Doukour\u00e9,Oier,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+Jos\u00e9 Luis Morales,Luna,1
+Coke,Oier,1
+Campa\u00f1a,E. Cabaco,1
+Chema,C. Doukour\u00e9,1
+C. Doukour\u00e9,E. Cabaco,1
+Ivi,J. Lerma,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+Oier,Jos\u00e9 Luis Morales,1
+E. Cabaco,Oier,1
+Jos\u00e9 Luis Morales,Jason,1
+Ivi,Campa\u00f1a,1
+J. Lerma,Jos\u00e9 Luis Morales,1
+Jos\u00e9 Luis Morales,Roger,1
+Jos\u00e9 Luis Morales,Coke,1
+E. Cabaco,Jos\u00e9 Luis Morales,1
+Coke,Chema,1
+Ivi,Chema,1
+C. Doukour\u00e9,Ivi,1
+Chema,Oier,1

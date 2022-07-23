@@ -1,0 +1,53 @@
+Source,Target,Weight
+Tana,M\u00edchel,4
+Vicente G\u00f3mez,Bigas,3
+Javi Castellano,Jonathan Viera,2
+M\u00edchel,Tana,2
+Bigas,Dani Castellano,2
+Javi Castellano,M. Lemos,2
+M\u00edchel,J. Calleri,2
+Jonathan Viera,Vicente G\u00f3mez,2
+M. Lemos,M\u00edchel,2
+Ra\u00fal Lizo\u00e1in,M. Lemos,2
+M. Lemos,Vicente G\u00f3mez,2
+Vicente G\u00f3mez,M. Lemos,2
+Bigas,Javi Castellano,2
+M\u00edchel,M. Lemos,2
+M. Lemos,Javi Castellano,2
+J. Calleri,M\u00edchel,2
+Dani Castellano,Javi Castellano,1
+M. Lemos,Jonathan Viera,1
+M\u00edchel,Jonathan Viera,1
+M. Lemos,Bigas,1
+Jonathan Viera,L. R\u00e9my,1
+Javi Castellano,M\u00edchel,1
+Jonathan Viera,Bigas,1
+Dani Castellano,Jonathan Viera,1
+L. R\u00e9my,M\u00edchel,1
+M\u00edchel,Vicente G\u00f3mez,1
+Bigas,Vicente G\u00f3mez,1
+M. Lemos,Ra\u00fal Lizo\u00e1in,1
+Ra\u00fal Lizo\u00e1in,L. R\u00e9my,1
+J. Calleri,Jonathan Viera,1
+M. Lemos,J. Calleri,1
+Dani Castellano,Bigas,1
+M\u00edchel,Dani Castellano,1
+Jonathan Viera,M. Lemos,1
+L. R\u00e9my,Bigas,1
+Dani Castellano,Vicente G\u00f3mez,1
+Jonathan Viera,Tana,1
+Javi Castellano,Bigas,1
+J. Calleri,L. R\u00e9my,1
+J. Calleri,Tana,1
+Bigas,J. Calleri,1
+Vicente G\u00f3mez,Jonathan Viera,1
+Vicente G\u00f3mez,Javi Castellano,1
+Bigas,Ra\u00fal Lizo\u00e1in,1
+Jonathan Viera,Javi Castellano,1
+Bigas,M. Lemos,1
+Javi Castellano,Ra\u00fal Lizo\u00e1in,1
+Javi Castellano,Vicente G\u00f3mez,1
+Vicente G\u00f3mez,Dani Castellano,1
+M\u00edchel,Ra\u00fal Lizo\u00e1in,1
+Ra\u00fal Lizo\u00e1in,M\u00edchel,1
+M\u00edchel,Javi Castellano,1

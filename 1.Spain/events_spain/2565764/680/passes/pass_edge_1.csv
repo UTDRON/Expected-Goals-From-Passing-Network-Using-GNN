@@ -1,0 +1,56 @@
+Source,Target,Weight
+N. Pareja,C. Lenglet,5
+Nolito,Sandro,4
+Sergio Escudero,C. Lenglet,4
+M. Lay\u00fan,Nolito,4
+Sandro,Sergio Escudero,3
+C. Lenglet,Sergio Escudero,3
+N. Pareja,M. Lay\u00fan,3
+Sergio Escudero,Nolito,3
+Sergio Escudero,S. N'Zonzi,3
+S. N'Zonzi,Roque Mesa,2
+M. Lay\u00fan,S. N'Zonzi,2
+M. Lay\u00fan,W. Ben Yedder,2
+C. Lenglet,Sergio Rico,2
+W. Ben Yedder,Nolito,2
+C. Lenglet,Sandro,2
+W. Ben Yedder,N. Pareja,2
+Sandro,S. N'Zonzi,2
+S. N'Zonzi,N. Pareja,2
+Sergio Rico,C. Lenglet,2
+Nolito,N. Pareja,2
+N. Pareja,Pablo Sarabia,2
+Nolito,S. N'Zonzi,2
+Pablo Sarabia,M. Lay\u00fan,2
+Roque Mesa,N. Pareja,2
+C. Lenglet,N. Pareja,2
+S. N'Zonzi,Sergio Escudero,2
+C. Lenglet,S. N'Zonzi,2
+W. Ben Yedder,Pablo Sarabia,2
+Nolito,M. Lay\u00fan,2
+S. N'Zonzi,W. Ben Yedder,2
+N. Pareja,Sergio Escudero,1
+N. Pareja,Roque Mesa,1
+Pablo Sarabia,N. Pareja,1
+N. Pareja,Sergio Rico,1
+Nolito,C. Lenglet,1
+S. N'Zonzi,Nolito,1
+Sandro,Nolito,1
+Sergio Rico,N. Pareja,1
+Sergio Escudero,Roque Mesa,1
+Roque Mesa,Sergio Escudero,1
+Sergio Rico,M. Lay\u00fan,1
+Nolito,Sergio Escudero,1
+Sandro,Sergio Rico,1
+Sergio Rico,Roque Mesa,1
+Roque Mesa,Sandro,1
+Roque Mesa,S. N'Zonzi,1
+Pablo Sarabia,Nolito,1
+Roque Mesa,C. Lenglet,1
+C. Lenglet,Nolito,1
+S. N'Zonzi,M. Lay\u00fan,1
+S. N'Zonzi,C. Lenglet,1
+M. Lay\u00fan,N. Pareja,1
+C. Lenglet,W. Ben Yedder,1
+Nolito,Sergio Rico,1
+C. Lenglet,Roque Mesa,1

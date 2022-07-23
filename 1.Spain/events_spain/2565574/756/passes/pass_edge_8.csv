@@ -1,0 +1,55 @@
+Source,Target,Weight
+Muniesa,Bernardo Espinosa,6
+Pere Pons,J. Mojica,4
+J. Mojica,Muniesa,3
+Pere Pons,Muniesa,3
+Muniesa,Douglas Luiz,3
+Bernardo Espinosa,Pere Pons,3
+Douglas Luiz,Aday,3
+O. Kayode,Douglas Luiz,3
+O. Kayode,Muniesa,2
+Pedro Alcal\u00e1,Iraizoz,2
+Aday,Borja Garc\u00eda,2
+Iraizoz,C. Stuani,2
+C. Stuani,Borja Garc\u00eda,2
+Aday,Douglas Luiz,2
+Bernardo Espinosa,Douglas Luiz,2
+J. Mojica,Iraizoz,2
+Douglas Luiz,Pere Pons,2
+C. Stuani,Pere Pons,2
+Muniesa,J. Mojica,2
+Bernardo Espinosa,O. Kayode,2
+Douglas Luiz,Muniesa,2
+Aday,O. Kayode,2
+Bernardo Espinosa,Aday,2
+O. Kayode,Aday,2
+Douglas Luiz,C. Stuani,2
+Pere Pons,O. Kayode,2
+Aday,Pedro Alcal\u00e1,2
+Borja Garc\u00eda,Bernardo Espinosa,1
+Iraizoz,Borja Garc\u00eda,1
+Pedro Alcal\u00e1,Muniesa,1
+Muniesa,O. Kayode,1
+Iraizoz,Bernardo Espinosa,1
+Aday,Pere Pons,1
+J. Mojica,Aday,1
+Borja Garc\u00eda,Pere Pons,1
+Iraizoz,Muniesa,1
+Borja Garc\u00eda,Muniesa,1
+Douglas Luiz,Bernardo Espinosa,1
+Pedro Alcal\u00e1,O. Kayode,1
+Douglas Luiz,Pedro Alcal\u00e1,1
+O. Kayode,Pedro Alcal\u00e1,1
+Bernardo Espinosa,Iraizoz,1
+Bernardo Espinosa,J. Mojica,1
+Pedro Alcal\u00e1,Bernardo Espinosa,1
+C. Stuani,Bernardo Espinosa,1
+J. Mojica,O. Kayode,1
+J. Mojica,Bernardo Espinosa,1
+Borja Garc\u00eda,Douglas Luiz,1
+Pere Pons,Aday,1
+Pedro Alcal\u00e1,Pere Pons,1
+Muniesa,Pedro Alcal\u00e1,1
+Aday,C. Stuani,1
+Bernardo Espinosa,Pedro Alcal\u00e1,1
+O. Kayode,J. Mojica,1

@@ -1,0 +1,40 @@
+Source,Target,Weight
+C. Adjapong,M. Lemos,2
+A. Consigli,S. Missiroli,2
+M. Lemos,A. Consigli,2
+A. Duncan,Rog\u00e9rio,2
+Rog\u00e9rio,F. Peluso,2
+F. Acerbi,Rog\u00e9rio,2
+Rog\u00e9rio,A. Duncan,2
+S. Missiroli,C. Adjapong,2
+F. Peluso,F. Acerbi,1
+M. Lemos,M. Politano,1
+D. Berardi,S. Missiroli,1
+F. Acerbi,M. Lemos,1
+C. Adjapong,D. Berardi,1
+S. Missiroli,A. Consigli,1
+S. Sensi,S. Missiroli,1
+S. Missiroli,M. Lemos,1
+M. Politano,C. Adjapong,1
+F. Peluso,S. Sensi,1
+M. Politano,F. Peluso,1
+F. Peluso,D. Berardi,1
+A. Duncan,S. Missiroli,1
+D. Berardi,C. Adjapong,1
+M. Lemos,S. Sensi,1
+S. Missiroli,A. Duncan,1
+A. Consigli,M. Politano,1
+D. Berardi,A. Duncan,1
+M. Politano,S. Sensi,1
+S. Sensi,M. Politano,1
+Rog\u00e9rio,D. Berardi,1
+C. Adjapong,M. Politano,1
+A. Consigli,C. Adjapong,1
+M. Lemos,F. Acerbi,1
+S. Missiroli,D. Berardi,1
+A. Duncan,A. Consigli,1
+M. Politano,S. Missiroli,1
+C. Adjapong,S. Missiroli,1
+S. Missiroli,M. Politano,1
+D. Berardi,Rog\u00e9rio,1
+S. Sensi,M. Lemos,1

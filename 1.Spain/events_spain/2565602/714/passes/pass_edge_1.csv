@@ -1,0 +1,78 @@
+Source,Target,Weight
+M. Lemos,A. Aquilani,12
+Ximo Navarro,M. Lemos,10
+L. Chichizola,M. Lemos,10
+A. Aquilani,M. Lemos,10
+M. Lemos,Borja Herrera,10
+O. Tannane,M\u00edchel,8
+Javi Castellano,A. Aquilani,8
+Borja Herrera,Tana,8
+Javi Castellano,Jonathan Viera,8
+M\u00edchel,O. Tannane,7
+M. Lemos,L. Chichizola,7
+Borja Herrera,Javi Castellano,6
+M\u00edchel,Javi Castellano,6
+Tana,A. Aquilani,6
+Jonathan Viera,A. Aquilani,5
+M. Lemos,Javi Castellano,5
+A. Aquilani,Ximo Navarro,5
+Jonathan Viera,Borja Herrera,5
+Jonathan Viera,M\u00edchel,5
+Javi Castellano,M. Lemos,5
+Borja Herrera,M. Lemos,5
+M. Lemos,Ximo Navarro,4
+A. Aquilani,Jonathan Viera,4
+Jonathan Viera,Tana,4
+Borja Herrera,Jonathan Viera,4
+A. Aquilani,O. Tannane,4
+Jonathan Viera,Ximo Navarro,4
+Borja Herrera,A. Aquilani,4
+M. Lemos,M\u00edchel,3
+M\u00edchel,Ximo Navarro,3
+Ximo Navarro,L. Chichizola,3
+Javi Castellano,O. Tannane,3
+Javi Castellano,Borja Herrera,3
+Ximo Navarro,Javi Castellano,3
+Jonathan Viera,Javi Castellano,3
+A. Aquilani,Javi Castellano,3
+M\u00edchel,Jonathan Viera,3
+O. Tannane,Ximo Navarro,3
+A. Aquilani,Borja Herrera,3
+Javi Castellano,Ximo Navarro,3
+A. Aquilani,Tana,3
+J. Calleri,Jonathan Viera,3
+Ximo Navarro,M\u00edchel,3
+Tana,Borja Herrera,2
+Javi Castellano,M\u00edchel,2
+O. Tannane,J. Calleri,2
+O. Tannane,Javi Castellano,2
+Ximo Navarro,Borja Herrera,2
+A. Aquilani,J. Calleri,2
+Tana,J. Calleri,2
+M. Lemos,Jonathan Viera,2
+Tana,M. Lemos,2
+M\u00edchel,L. Chichizola,2
+L. Chichizola,Javi Castellano,2
+J. Calleri,Tana,2
+Jonathan Viera,O. Tannane,2
+Ximo Navarro,Jonathan Viera,2
+A. Aquilani,M\u00edchel,2
+O. Tannane,A. Aquilani,1
+J. Calleri,M. Lemos,1
+L. Chichizola,Ximo Navarro,1
+O. Tannane,Jonathan Viera,1
+M\u00edchel,A. Aquilani,1
+Tana,Jonathan Viera,1
+Tana,O. Tannane,1
+Ximo Navarro,J. Calleri,1
+M\u00edchel,Borja Herrera,1
+L. Chichizola,Jonathan Viera,1
+Tana,M\u00edchel,1
+Tana,Javi Castellano,1
+A. Aquilani,L. Chichizola,1
+Jonathan Viera,M. Lemos,1
+Tana,Ximo Navarro,1
+J. Calleri,Javi Castellano,1
+M\u00edchel,Tana,1
+Tana,L. Chichizola,1
+M. Lemos,J. Calleri,1

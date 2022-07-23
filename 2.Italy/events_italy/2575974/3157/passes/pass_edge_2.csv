@@ -1,0 +1,45 @@
+Source,Target,Weight
+A. Conti,Suso,5
+H. \u00c7alhano\u011flu,R. Rodr\u00edguez,4
+R. Rodr\u00edguez,L. Bonucci,3
+A. Conti,F. Kessi\u00e9,3
+L. Bonucci,A. Conti,3
+M. Musacchio,L. Bonucci,2
+M. Musacchio,A. Conti,2
+Suso,P. Cutrone,2
+F. Kessi\u00e9,A. Conti,2
+A. Conti,M. Musacchio,2
+L. Bonucci,H. \u00c7alhano\u011flu,2
+L. Bonucci,R. Rodr\u00edguez,2
+R. Rodr\u00edguez,R. Montolivo,1
+R. Montolivo,H. \u00c7alhano\u011flu,1
+F. Kessi\u00e9,L. Bonucci,1
+R. Rodr\u00edguez,H. \u00c7alhano\u011flu,1
+M. Musacchio,F. Kessi\u00e9,1
+R. Rodr\u00edguez,G. Donnarumma,1
+P. Cutrone,A. Conti,1
+G. Donnarumma,R. Rodr\u00edguez,1
+F. Borini,R. Montolivo,1
+R. Montolivo,A. Conti,1
+F. Kessi\u00e9,M. Musacchio,1
+F. Kessi\u00e9,P. Cutrone,1
+Suso,H. \u00c7alhano\u011flu,1
+L. Bonucci,F. Borini,1
+H. \u00c7alhano\u011flu,R. Montolivo,1
+R. Rodr\u00edguez,A. Conti,1
+L. Bonucci,M. Musacchio,1
+P. Cutrone,F. Kessi\u00e9,1
+Suso,A. Conti,1
+Suso,L. Bonucci,1
+R. Montolivo,P. Cutrone,1
+F. Borini,A. Conti,1
+Suso,R. Montolivo,1
+H. \u00c7alhano\u011flu,F. Borini,1
+P. Cutrone,Suso,1
+A. Conti,L. Bonucci,1
+F. Borini,H. \u00c7alhano\u011flu,1
+G. Donnarumma,M. Musacchio,1
+R. Montolivo,F. Borini,1
+A. Conti,H. \u00c7alhano\u011flu,1
+H. \u00c7alhano\u011flu,L. Bonucci,1
+L. Bonucci,G. Donnarumma,1

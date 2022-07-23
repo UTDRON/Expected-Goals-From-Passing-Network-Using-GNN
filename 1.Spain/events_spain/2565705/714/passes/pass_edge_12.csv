@@ -1,0 +1,19 @@
+Source,Target,Weight
+Javi Castellano,Bigas,2
+Dani Castellano,Javi Castellano,2
+Jonathan Viera,Dani Castellano,1
+Ra\u00fal Lizo\u00e1in,M\u00edchel,1
+M\u00edchel,Ra\u00fal Lizo\u00e1in,1
+Javi Castellano,M\u00edchel,1
+Dani Castellano,Ra\u00fal Lizo\u00e1in,1
+Dani Castellano,M\u00edchel,1
+Bigas,Dani Castellano,1
+Ra\u00fal Lizo\u00e1in,L. R\u00e9my,1
+M\u00edchel,O. Tannane,1
+Bigas,Jonathan Viera,1
+O. Tannane,Jonathan Viera,1
+L. R\u00e9my,O. Tannane,1
+J. Calleri,Dani Castellano,1
+Jonathan Viera,H. Toledo,1
+M\u00edchel,Javi Castellano,1
+H. Toledo,Dani Castellano,1

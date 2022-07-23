@@ -1,0 +1,32 @@
+Source,Target,Weight
+Paulinho,Y. Mina,3
+Y. Mina,Denis Su\u00e1rez,3
+T. Vermaelen,Y. Mina,2
+Andr\u00e9 Gomes,Y. Mina,2
+Y. Mina,N\u00e9lson Semedo,2
+Y. Mina,M. ter Stegen,2
+Y. Mina,Andr\u00e9 Gomes,2
+N\u00e9lson Semedo,Andr\u00e9 Gomes,2
+O. Demb\u00e9l\u00e9,Y. Mina,1
+Andr\u00e9 Gomes,O. Demb\u00e9l\u00e9,1
+Philippe Coutinho,O. Demb\u00e9l\u00e9,1
+Philippe Coutinho,Andr\u00e9 Gomes,1
+Paco Alc\u00e1cer,L. Digne,1
+O. Demb\u00e9l\u00e9,Paco Alc\u00e1cer,1
+T. Vermaelen,Philippe Coutinho,1
+Philippe Coutinho,Paco Alc\u00e1cer,1
+Paco Alc\u00e1cer,Philippe Coutinho,1
+Andr\u00e9 Gomes,N\u00e9lson Semedo,1
+N\u00e9lson Semedo,Y. Mina,1
+M. ter Stegen,Paco Alc\u00e1cer,1
+Denis Su\u00e1rez,Andr\u00e9 Gomes,1
+Denis Su\u00e1rez,T. Vermaelen,1
+Philippe Coutinho,L. Digne,1
+Andr\u00e9 Gomes,Paulinho,1
+Denis Su\u00e1rez,Paulinho,1
+L. Digne,T. Vermaelen,1
+M. ter Stegen,Y. Mina,1
+L. Digne,Denis Su\u00e1rez,1
+Y. Mina,Paulinho,1
+Andr\u00e9 Gomes,T. Vermaelen,1
+Denis Su\u00e1rez,Philippe Coutinho,1

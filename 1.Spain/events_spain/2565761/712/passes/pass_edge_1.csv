@@ -1,0 +1,135 @@
+Source,Target,Weight
+Jos\u00e9 Naranjo,Diego Rico,12
+Omar Ramos,Zald\u00faa,11
+Diego Rico,Jos\u00e9 Naranjo,11
+E. Mu\u00f1oz,Cu\u00e9llar,11
+Gumbau,Diego Rico,11
+D. Bra\u0161anac,Zald\u00faa,11
+Zald\u00faa,D. Bra\u0161anac,11
+Zald\u00faa,Omar Ramos,10
+E. Mu\u00f1oz,Zald\u00faa,10
+Diego Rico,Gumbau,9
+M. Mantovani,E. Mu\u00f1oz,9
+Gumbau,D. Bra\u0161anac,9
+Zald\u00faa,N. El Zhar,8
+Guerrero,Zald\u00faa,8
+Cu\u00e9llar,Gumbau,8
+Cu\u00e9llar,M. Mantovani,7
+Jos\u00e9 Naranjo,M. Mantovani,7
+Zald\u00faa,Eraso,7
+M. Mantovani,Cu\u00e9llar,7
+E. Mu\u00f1oz,Diego Rico,7
+D. Bra\u0161anac,E. Mu\u00f1oz,7
+Guerrero,E. Mu\u00f1oz,6
+Zald\u00faa,Guerrero,6
+Diego Rico,E. Mu\u00f1oz,6
+E. Mu\u00f1oz,Gumbau,6
+Diego Rico,Eraso,6
+D. Bra\u0161anac,Diego Rico,6
+Rub\u00e9n P\u00e9rez,Guerrero,6
+Eraso,Omar Ramos,6
+M. Mantovani,Diego Rico,5
+Guerrero,Jos\u00e9 Naranjo,5
+M. Mantovani,D. Bra\u0161anac,5
+M. Mantovani,Gumbau,5
+E. Mu\u00f1oz,D. Bra\u0161anac,5
+E. Mu\u00f1oz,M. Mantovani,5
+D. Bra\u0161anac,Eraso,5
+Eraso,D. Bra\u0161anac,5
+D. Bra\u0161anac,Gumbau,5
+Zald\u00faa,E. Mu\u00f1oz,5
+Gumbau,Guerrero,5
+Zald\u00faa,M. Mantovani,5
+Gumbau,M. Mantovani,5
+Cu\u00e9llar,Jos\u00e9 Naranjo,5
+Rub\u00e9n P\u00e9rez,Zald\u00faa,5
+D. Bra\u0161anac,Cu\u00e9llar,5
+Diego Rico,Guerrero,4
+Gumbau,Zald\u00faa,4
+Diego Rico,Zald\u00faa,4
+Omar Ramos,E. Mu\u00f1oz,4
+Guerrero,Gumbau,4
+Guerrero,M. Mantovani,4
+Diego Rico,M. Mantovani,4
+Eraso,Zald\u00faa,4
+Gumbau,E. Mu\u00f1oz,4
+Diego Rico,D. Bra\u0161anac,4
+M. Mantovani,Rub\u00e9n P\u00e9rez,4
+Eraso,Diego Rico,4
+Zald\u00faa,Cu\u00e9llar,3
+Gumbau,Jos\u00e9 Naranjo,3
+Cu\u00e9llar,Guerrero,3
+Eraso,Guerrero,3
+Zald\u00faa,Rub\u00e9n P\u00e9rez,3
+Eraso,Jos\u00e9 Naranjo,3
+Omar Ramos,D. Bra\u0161anac,3
+Jos\u00e9 Naranjo,Guerrero,3
+N. El Zhar,Eraso,3
+Jos\u00e9 Naranjo,Gumbau,3
+Diego Rico,Rub\u00e9n P\u00e9rez,3
+D. Bra\u0161anac,Guerrero,3
+Zald\u00faa,Diego Rico,3
+Zald\u00faa,Jos\u00e9 Naranjo,3
+Gumbau,Eraso,3
+Gumbau,Rub\u00e9n P\u00e9rez,3
+Guerrero,Omar Ramos,3
+N. El Zhar,Zald\u00faa,3
+Eraso,E. Mu\u00f1oz,3
+D. Bra\u0161anac,Omar Ramos,3
+D. Bra\u0161anac,M. Mantovani,3
+Rub\u00e9n P\u00e9rez,E. Mu\u00f1oz,3
+Cu\u00e9llar,Diego Rico,2
+Guerrero,D. Bra\u0161anac,2
+N. El Zhar,Rub\u00e9n P\u00e9rez,2
+Omar Ramos,Gumbau,2
+Rub\u00e9n P\u00e9rez,Eraso,2
+Jos\u00e9 Naranjo,Cu\u00e9llar,2
+Cu\u00e9llar,D. Bra\u0161anac,2
+Cu\u00e9llar,N. El Zhar,2
+Cu\u00e9llar,Zald\u00faa,2
+M. Mantovani,Zald\u00faa,2
+Cu\u00e9llar,E. Mu\u00f1oz,2
+N. El Zhar,Guerrero,2
+Eraso,N. El Zhar,2
+M. Mantovani,Omar Ramos,2
+Guerrero,Cu\u00e9llar,2
+Rub\u00e9n P\u00e9rez,Gumbau,2
+Jos\u00e9 Naranjo,D. Bra\u0161anac,2
+E. Mu\u00f1oz,Rub\u00e9n P\u00e9rez,2
+Diego Rico,Cu\u00e9llar,2
+N. El Zhar,Gumbau,2
+Rub\u00e9n P\u00e9rez,N. Amrabat,2
+E. Mu\u00f1oz,Eraso,2
+Rub\u00e9n P\u00e9rez,Cu\u00e9llar,1
+Omar Ramos,M. Mantovani,1
+M. Mantovani,N. El Zhar,1
+E. Mu\u00f1oz,N. El Zhar,1
+Jos\u00e9 Naranjo,Eraso,1
+N. El Zhar,M. Mantovani,1
+Gumbau,Omar Ramos,1
+Omar Ramos,Diego Rico,1
+N. El Zhar,D. Bra\u0161anac,1
+Omar Ramos,Guerrero,1
+Guerrero,Rub\u00e9n P\u00e9rez,1
+Cu\u00e9llar,Rub\u00e9n P\u00e9rez,1
+Jos\u00e9 Naranjo,Zald\u00faa,1
+N. Amrabat,Diego Rico,1
+Eraso,Gumbau,1
+Zald\u00faa,N. Amrabat,1
+N. Amrabat,Zald\u00faa,1
+N. Amrabat,Rub\u00e9n P\u00e9rez,1
+N. El Zhar,N. Amrabat,1
+Diego Rico,N. El Zhar,1
+Guerrero,Eraso,1
+Guerrero,Diego Rico,1
+N. Amrabat,Eraso,1
+M. Mantovani,Jos\u00e9 Naranjo,1
+Eraso,M. Mantovani,1
+D. Bra\u0161anac,Jos\u00e9 Naranjo,1
+Omar Ramos,Cu\u00e9llar,1
+Rub\u00e9n P\u00e9rez,Diego Rico,1
+Jos\u00e9 Naranjo,Rub\u00e9n P\u00e9rez,1
+Omar Ramos,Eraso,1
+Eraso,Rub\u00e9n P\u00e9rez,1
+M. Mantovani,Eraso,1
+Zald\u00faa,Gumbau,1

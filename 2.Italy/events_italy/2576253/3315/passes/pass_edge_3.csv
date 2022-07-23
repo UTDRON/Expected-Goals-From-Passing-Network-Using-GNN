@@ -1,0 +1,15 @@
+Source,Target,Weight
+S. Sensi,F. Peluso,2
+F. Peluso,D. Berardi,1
+S. Sensi,M. Politano,1
+M. Politano,S. Sensi,1
+S. Missiroli,S. Sensi,1
+S. Sensi,A. Consigli,1
+D. Berardi,M. Politano,1
+L. Mazzitelli,S. Sensi,1
+M. Politano,Pol Lirola,1
+Pol Lirola,L. Mazzitelli,1
+F. Peluso,F. Acerbi,1
+A. Consigli,S. Sensi,1
+F. Acerbi,S. Missiroli,1
+S. Missiroli,F. Peluso,1

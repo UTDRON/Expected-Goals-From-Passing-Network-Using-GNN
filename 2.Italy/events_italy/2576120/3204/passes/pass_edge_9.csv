@@ -1,0 +1,17 @@
+Source,Target,Weight
+F. Mattiello,M. Cremonesi,2
+B. Salamon,A. Gomis,2
+M. Lazzari,F. Viviani,2
+A. Gomis,F. Mattiello,2
+F. Viviani,B. Salamon,2
+P. Schiattarella,M. Lazzari,1
+A. Grassi,F. Viviani,1
+M. Lazzari,P. Schiattarella,1
+M. Cremonesi,B. Salamon,1
+B. Salamon,M. Lazzari,1
+M. Antenucci,P. Schiattarella,1
+M. Cremonesi,S. Floccari,1
+S. Floccari,M. Antenucci,1
+M. Antenucci,M. Lazzari,1
+M. Cremonesi,A. Grassi,1
+P. Schiattarella,M. Antenucci,1

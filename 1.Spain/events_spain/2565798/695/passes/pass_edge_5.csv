@@ -1,0 +1,43 @@
+Source,Target,Weight
+J. Lerma,Pedro L\u00f3pez,4
+J. Lerma,E. Cabaco,3
+Ivi,J. Lerma,3
+Pedro L\u00f3pez,Ivi,3
+S. Luki\u0107,Ivi,2
+Pedro L\u00f3pez,E. Cabaco,2
+J. Lerma,Oier,2
+Ivi,Luna,2
+J. Lerma,S. Luki\u0107,2
+Oier,J. Lerma,2
+S. Luki\u0107,J. Lerma,2
+E. Boateng,Ivi,2
+Luna,S. Luki\u0107,2
+E. Cabaco,S. Luki\u0107,2
+Ivi,S. Luki\u0107,2
+Oier,E. Boateng,2
+Rober,J. Lerma,2
+S. Luki\u0107,Rober,2
+E. Cabaco,Oier,2
+E. Boateng,Pedro L\u00f3pez,1
+E. Cabaco,Jos\u00e9 Luis Morales,1
+Pedro L\u00f3pez,J. Lerma,1
+Jos\u00e9 Luis Morales,S. Luki\u0107,1
+Pedro L\u00f3pez,E. Boateng,1
+Pedro L\u00f3pez,Luna,1
+E. Boateng,S. Luki\u0107,1
+Jos\u00e9 Luis Morales,E. Boateng,1
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,1
+Luna,J. Lerma,1
+Rober,Pedro L\u00f3pez,1
+S. Luki\u0107,Pedro L\u00f3pez,1
+Rober,Luna,1
+Ivi,Pedro L\u00f3pez,1
+Luna,Ivi,1
+E. Boateng,Oier,1
+S. Luki\u0107,Luna,1
+Luna,Rober,1
+S. Luki\u0107,Oier,1
+Ivi,E. Boateng,1
+Oier,Pedro L\u00f3pez,1
+S. Luki\u0107,E. Boateng,1
+Oier,Rober,1

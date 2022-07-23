@@ -1,0 +1,53 @@
+Source,Target,Weight
+Aday,Ramalho,3
+Ramalho,Bernardo Espinosa,3
+Pablo Maffeo,Aleix Garc\u00eda,3
+J. Mojica,Borja Garc\u00eda,3
+Y. Bounou,C. Stuani,2
+Aleix Garc\u00eda,Pablo Maffeo,2
+Bernardo Espinosa,Y. Bounou,2
+Aday,C. Stuani,2
+Bernardo Espinosa,J. Mojica,2
+Bernardo Espinosa,Aleix Garc\u00eda,2
+Bernardo Espinosa,Aday,2
+Aleix Garc\u00eda,Aday,2
+C. Stuani,Pablo Maffeo,2
+Aleix Garc\u00eda,J. Mojica,1
+Bernardo Espinosa,Juanpe,1
+Timor,J. Mojica,1
+Y. Bounou,Juanpe,1
+C. Stuani,Portu,1
+Borja Garc\u00eda,Timor,1
+Borja Garc\u00eda,Aday,1
+Portu,Aleix Garc\u00eda,1
+Ramalho,O. Kayode,1
+C. Stuani,Timor,1
+Timor,Juanpe,1
+C. Stuani,Bernardo Espinosa,1
+Pablo Maffeo,Portu,1
+O. Kayode,J. Mojica,1
+C. Stuani,Aday,1
+Borja Garc\u00eda,C. Stuani,1
+Juanpe,Aday,1
+Timor,Pablo Maffeo,1
+J. Mojica,Juanpe,1
+Timor,Y. Bounou,1
+Juanpe,Y. Bounou,1
+Bernardo Espinosa,Timor,1
+J. Mojica,Bernardo Espinosa,1
+J. Mojica,C. Stuani,1
+Aleix Garc\u00eda,Timor,1
+O. Kayode,Aday,1
+Juanpe,Bernardo Espinosa,1
+C. Stuani,O. Kayode,1
+Juanpe,J. Mojica,1
+O. Kayode,Bernardo Espinosa,1
+Aday,Bernardo Espinosa,1
+Borja Garc\u00eda,J. Mojica,1
+Pablo Maffeo,Bernardo Espinosa,1
+Aday,Aleix Garc\u00eda,1
+Portu,Borja Garc\u00eda,1
+Portu,C. Stuani,1
+J. Mojica,O. Kayode,1
+Aleix Garc\u00eda,Ramalho,1
+Y. Bounou,Portu,1

@@ -1,0 +1,19 @@
+Source,Target,Weight
+F. Acerbi,G. Scamacca,2
+M. Gazzola,L. Mazzitelli,2
+P. Cannavaro,F. Acerbi,2
+M. Gazzola,M. Politano,1
+G. Scamacca,P. Cannavaro,1
+L. Mazzitelli,A. Consigli,1
+F. Acerbi,L. Mazzitelli,1
+M. Politano,M. Gazzola,1
+P. Cannavaro,L. Mazzitelli,1
+L. Mazzitelli,M. Politano,1
+A. Consigli,F. Acerbi,1
+L. Mazzitelli,M. Gazzola,1
+F. Acerbi,M. Gazzola,1
+F. Acerbi,P. Cannavaro,1
+M. Politano,A. Matri,1
+M. Gazzola,F. Acerbi,1
+L. Mazzitelli,P. Cannavaro,1
+G. Scamacca,F. Acerbi,1

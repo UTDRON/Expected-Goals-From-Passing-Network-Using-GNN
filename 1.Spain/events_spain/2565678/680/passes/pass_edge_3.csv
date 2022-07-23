@@ -1,0 +1,55 @@
+Source,Target,Weight
+\u00c9. Banega,J. Geis,4
+G. Mercado,Pablo Sarabia,3
+G. Pizarro,\u00c9. Banega,3
+C. Lenglet,J. Geis,3
+\u00c9. Banega,Sergio Escudero,3
+Pablo Sarabia,F. V\u00e1zquez,3
+J. Geis,Pablo Sarabia,3
+J. Geis,G. Mercado,3
+J. Geis,\u00c9. Banega,3
+G. Mercado,\u00c9. Banega,2
+\u00c9. Banega,F. V\u00e1zquez,2
+\u00c9. Banega,Pablo Sarabia,2
+F. V\u00e1zquez,\u00c9. Banega,2
+C. Lenglet,David Soria,2
+J. Geis,G. Pizarro,2
+\u00c9. Banega,G. Pizarro,2
+F. V\u00e1zquez,G. Pizarro,2
+David Soria,C. Lenglet,2
+G. Pizarro,C. Lenglet,2
+Pablo Sarabia,J. Geis,2
+David Soria,J. Geis,2
+Sergio Escudero,\u00c9. Banega,2
+G. Mercado,C. Lenglet,1
+G. Pizarro,Nolito,1
+\u00c9. Banega,Nolito,1
+J. Geis,W. Ben Yedder,1
+G. Mercado,David Soria,1
+F. V\u00e1zquez,G. Mercado,1
+Nolito,G. Pizarro,1
+Pablo Sarabia,David Soria,1
+C. Lenglet,G. Mercado,1
+G. Pizarro,David Soria,1
+Pablo Sarabia,G. Mercado,1
+W. Ben Yedder,Pablo Sarabia,1
+G. Pizarro,J. Geis,1
+Nolito,\u00c9. Banega,1
+Nolito,Sergio Escudero,1
+Sergio Escudero,F. V\u00e1zquez,1
+Pablo Sarabia,Nolito,1
+David Soria,G. Pizarro,1
+Sergio Escudero,Nolito,1
+F. V\u00e1zquez,Pablo Sarabia,1
+Pablo Sarabia,G. Pizarro,1
+C. Lenglet,\u00c9. Banega,1
+Pablo Sarabia,W. Ben Yedder,1
+Nolito,C. Lenglet,1
+Pablo Sarabia,Sergio Escudero,1
+C. Lenglet,F. V\u00e1zquez,1
+W. Ben Yedder,Sergio Escudero,1
+G. Pizarro,G. Mercado,1
+Sergio Escudero,C. Lenglet,1
+F. V\u00e1zquez,W. Ben Yedder,1
+G. Pizarro,Pablo Sarabia,1
+W. Ben Yedder,C. Lenglet,1

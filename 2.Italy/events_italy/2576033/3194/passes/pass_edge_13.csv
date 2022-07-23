@@ -1,0 +1,23 @@
+Source,Target,Weight
+A. Caracciolo,Daniel Bessa,2
+M. Fares,A. Caracciolo,2
+M. Fossati,M. Fares,2
+Daniel Bessa,M. Fossati,2
+M. Fossati,Daniel Bessa,1
+Daniel Bessa,S. Souprayen,1
+M. C\u00e1ceres,Nicolas,1
+M. Fares,Daniel Bessa,1
+A. Cerci,M. Fares,1
+R\u00f4mulo,M. Kean,1
+Nicolas,D. Verde,1
+Daniel Bessa,A. Caracciolo,1
+M. Kean,R\u00f4mulo,1
+S. Souprayen,R\u00f4mulo,1
+D. Verde,R\u00f4mulo,1
+R\u00f4mulo,Nicolas,1
+M. Fossati,A. Cerci,1
+R\u00f4mulo,S. Souprayen,1
+A. Cerci,M. Fossati,1
+Nicolas,M. Fossati,1
+S. Souprayen,M. C\u00e1ceres,1
+A. Caracciolo,R\u00f4mulo,1

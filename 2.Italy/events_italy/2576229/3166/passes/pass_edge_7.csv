@@ -1,0 +1,27 @@
+Source,Target,Weight
+E. Krafth,\u00c1. Nagy,3
+F. Avenatti,E. Krafth,2
+\u00c1. Nagy,E. Pulgar,2
+\u00c1. Nagy,S. De Maio,2
+\u00c1. Nagy,F. Helander,1
+E. Pulgar,F. Avenatti,1
+E. Krafth,E. Pulgar,1
+E. Pulgar,E. Krafth,1
+E. Pulgar,A. Mirante,1
+S. Romagnoli,E. Krafth,1
+F. Helander,S. Romagnoli,1
+S. De Maio,F. Avenatti,1
+G. Donsah,\u00c1. Nagy,1
+A. Mirante,G. Donsah,1
+G. Donsah,S. Verdi,1
+S. De Maio,E. Pulgar,1
+A. Mirante,F. Helander,1
+F. Helander,E. Pulgar,1
+F. Avenatti,E. Pulgar,1
+S. Romagnoli,A. Mirante,1
+E. Pulgar,S. Romagnoli,1
+A. Masina,F. Avenatti,1
+E. Pulgar,S. Verdi,1
+E. Pulgar,\u00c1. Nagy,1
+S. Verdi,A. Masina,1
+E. Pulgar,G. Donsah,1

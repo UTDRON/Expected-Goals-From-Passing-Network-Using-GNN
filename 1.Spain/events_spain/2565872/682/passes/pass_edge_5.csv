@@ -1,0 +1,51 @@
+Source,Target,Weight
+Mario,\u00c1lvaro Gonz\u00e1lez,4
+V\u00edctor Ru\u00edz,\u00c1lvaro Gonz\u00e1lez,4
+\u00c1lvaro Gonz\u00e1lez,Mario,3
+\u00c1lvaro Gonz\u00e1lez,Rodri,3
+Trigueros,A. Rukavina,3
+A. Rukavina,V\u00edctor Ru\u00edz,3
+Rodri,A. Rukavina,3
+Samu Castillejo,\u00c1lvaro Gonz\u00e1lez,2
+\u00c1lvaro Gonz\u00e1lez,Trigueros,2
+Trigueros,Rodri,2
+\u00c1lvaro Gonz\u00e1lez,Samu Castillejo,2
+Rodri,D. Cheryshev,2
+Rodri,Trigueros,2
+V\u00edctor Ru\u00edz,Mario,2
+D. Cheryshev,Rodri,2
+A. Rukavina,Sergio Asenjo,1
+Sergio Asenjo,V\u00edctor Ru\u00edz,1
+Dani Raba,C. Bacca,1
+Sergio Asenjo,D. Cheryshev,1
+A. Rukavina,Mario,1
+Dani Raba,Samu Castillejo,1
+A. Rukavina,\u00c1lvaro Gonz\u00e1lez,1
+Samu Castillejo,Mario,1
+\u00c1lvaro Gonz\u00e1lez,C. Bacca,1
+Mario,V\u00edctor Ru\u00edz,1
+D. Cheryshev,V\u00edctor Ru\u00edz,1
+Samu Castillejo,Dani Raba,1
+Mario,Samu Castillejo,1
+Rodri,Dani Raba,1
+V\u00edctor Ru\u00edz,Rodri,1
+\u00c1lvaro Gonz\u00e1lez,V\u00edctor Ru\u00edz,1
+Mario,Trigueros,1
+Dani Raba,Trigueros,1
+Rodri,\u00c1lvaro Gonz\u00e1lez,1
+Mario,Dani Raba,1
+Trigueros,C. Bacca,1
+Rodri,Sergio Asenjo,1
+A. Rukavina,Rodri,1
+\u00c1lvaro Gonz\u00e1lez,Dani Raba,1
+Dani Raba,Rodri,1
+C. Bacca,D. Cheryshev,1
+Trigueros,\u00c1lvaro Gonz\u00e1lez,1
+A. Rukavina,D. Cheryshev,1
+V\u00edctor Ru\u00edz,Trigueros,1
+C. Bacca,Sergio Asenjo,1
+Rodri,Mario,1
+Sergio Asenjo,Mario,1
+Mario,Rodri,1
+D. Cheryshev,A. Rukavina,1
+C. Bacca,A. Rukavina,1

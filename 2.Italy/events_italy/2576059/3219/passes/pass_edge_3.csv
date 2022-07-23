@@ -1,0 +1,48 @@
+Source,Target,Weight
+L. Antei,G. Di Chiara,5
+L. Antei,L. Venuti,5
+G. Di Chiara,L. Antei,5
+N. Viola,C. Lombardi,4
+L. Memushaj,P. Iemmello,4
+C. Lombardi,N. Viola,3
+L. Venuti,C. Lombardi,2
+P. Iemmello,N. Viola,2
+P. Iemmello,G. Di Chiara,2
+D. Cataldi,R. Chibsah,2
+G. Di Chiara,N. Viola,2
+R. Chibsah,L. Antei,2
+L. Venuti,L. Antei,2
+N. Viola,D. Cataldi,2
+R. Chibsah,G. Di Chiara,2
+C. Lombardi,L. Antei,2
+L. Venuti,R. Chibsah,2
+D. Cataldi,L. Venuti,2
+C. Lombardi,G. Di Chiara,1
+L. Antei,D. Cataldi,1
+P. Iemmello,L. Memushaj,1
+N. Viola,L. Memushaj,1
+A. Lazaar,G. Di Chiara,1
+P. Iemmello,L. Antei,1
+A. Lazaar,C. Lombardi,1
+A. Lazaar,L. Antei,1
+G. Di Chiara,A. Lazaar,1
+G. Di Chiara,R. Chibsah,1
+D. Cataldi,C. Lombardi,1
+G. Di Chiara,L. Memushaj,1
+G. Di Chiara,P. Iemmello,1
+R. Chibsah,L. Memushaj,1
+L. Venuti,D. Cataldi,1
+L. Venuti,N. Viola,1
+L. Antei,C. Lombardi,1
+L. Antei,A. Brignoli,1
+N. Viola,G. Di Chiara,1
+C. Lombardi,L. Venuti,1
+A. Lazaar,L. Memushaj,1
+G. Di Chiara,D. Cataldi,1
+A. Brignoli,P. Iemmello,1
+N. Viola,A. Lazaar,1
+A. Ciciretti,R. Chibsah,1
+L. Memushaj,A. Lazaar,1
+R. Chibsah,N. Viola,1
+C. Lombardi,A. Ciciretti,1
+C. Lombardi,D. Cataldi,1

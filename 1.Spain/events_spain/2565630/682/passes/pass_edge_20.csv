@@ -1,0 +1,34 @@
+Source,Target,Weight
+Mario,Trigueros,2
+Pablo Fornals,Mario,2
+Trigueros,Mario,2
+N. Sansone,Mario,1
+V\u00edctor Ru\u00edz,C. Bacca,1
+V\u00edctor Ru\u00edz,Rodri,1
+M. Barbosa,V\u00edctor Ru\u00edz,1
+C. Bacca,D. Cheryshev,1
+Rodri,Pablo Fornals,1
+D. Cheryshev,C. Bacca,1
+Mario,N. Sansone,1
+M. Barbosa,Trigueros,1
+V\u00edctor Ru\u00edz,M. Barbosa,1
+C. Bacca,N. Sansone,1
+C. Bacca,Trigueros,1
+D. Bonera,Pablo Fornals,1
+N. Sansone,C. Bacca,1
+Mario,Samu Castillejo,1
+Mario,D. Bonera,1
+Pablo Fornals,M. Barbosa,1
+Mario,V\u00edctor Ru\u00edz,1
+C. Bacca,Rodri,1
+Samu Castillejo,M. Barbosa,1
+D. Bonera,Mario,1
+Samu Castillejo,V\u00edctor Ru\u00edz,1
+Rodri,V\u00edctor Ru\u00edz,1
+Trigueros,Samu Castillejo,1
+V\u00edctor Ru\u00edz,Pablo Fornals,1
+Trigueros,C. Bacca,1
+Pablo Fornals,D. Bonera,1
+Mario,Pablo Fornals,1
+M. Barbosa,Mario,1
+Pablo Fornals,C. Bacca,1

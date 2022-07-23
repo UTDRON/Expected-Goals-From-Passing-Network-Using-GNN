@@ -1,0 +1,59 @@
+Source,Target,Weight
+S. Calvano,R\u00f4mulo,3
+M. Bianchetti,S. Calvano,3
+J. Vukovi\u0107,S. Souprayen,2
+S. Calvano,D. Verde,2
+B. Petkovi\u0107,M. Bianchetti,2
+M. Bianchetti,J. Vukovi\u0107,2
+Nicolas,J. Vukovi\u0107,2
+A. Caracciolo,Nicolas,2
+J. Vukovi\u0107,M. Fares,2
+M. Fares,M. Bianchetti,2
+M. Bianchetti,Nicolas,2
+R\u00f4mulo,Nicolas,2
+M. Bianchetti,R\u00f4mulo,2
+S. Souprayen,J. Vukovi\u0107,2
+R\u00f4mulo,M. Bianchetti,2
+D. Verde,M. Bianchetti,2
+M. Fares,R\u00f4mulo,2
+Nicolas,M. B\u00fcchel,1
+B. Petkovi\u0107,D. Verde,1
+R\u00f4mulo,B. Petkovi\u0107,1
+M. Bianchetti,B. Petkovi\u0107,1
+M. Bianchetti,A. Caracciolo,1
+Nicolas,A. Cerci,1
+D. Verde,S. Souprayen,1
+Nicolas,M. Bianchetti,1
+M. B\u00fcchel,D. Verde,1
+M. B\u00fcchel,A. Caracciolo,1
+M. Fares,B. Petkovi\u0107,1
+R\u00f4mulo,M. B\u00fcchel,1
+M. Bianchetti,M. Fares,1
+Nicolas,B. Petkovi\u0107,1
+S. Souprayen,M. B\u00fcchel,1
+A. Cerci,D. Verde,1
+D. Verde,S. Calvano,1
+J. Vukovi\u0107,A. Caracciolo,1
+R\u00f4mulo,A. Cerci,1
+S. Souprayen,R\u00f4mulo,1
+M. Bianchetti,M. B\u00fcchel,1
+J. Vukovi\u0107,S. Calvano,1
+Nicolas,M. Fares,1
+R\u00f4mulo,D. Verde,1
+R\u00f4mulo,S. Souprayen,1
+D. Verde,Nicolas,1
+A. Cerci,J. Vukovi\u0107,1
+A. Cerci,M. Fares,1
+A. Caracciolo,M. Bianchetti,1
+S. Calvano,M. Bianchetti,1
+S. Calvano,A. Cerci,1
+R\u00f4mulo,S. Calvano,1
+M. Fares,S. Calvano,1
+J. Vukovi\u0107,M. Bianchetti,1
+J. Vukovi\u0107,A. Cerci,1
+S. Calvano,A. Caracciolo,1
+B. Petkovi\u0107,M. Fares,1
+A. Caracciolo,J. Vukovi\u0107,1
+M. B\u00fcchel,M. Bianchetti,1
+M. B\u00fcchel,R\u00f4mulo,1
+A. Cerci,R\u00f4mulo,1

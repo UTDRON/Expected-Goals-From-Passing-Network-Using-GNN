@@ -1,0 +1,74 @@
+Source,Target,Weight
+C. Puggioni,L. Venuti,5
+F. \u0110uri\u010di\u0107,G. Letizia,4
+Guilherme,D. Cataldi,4
+Sandro,Guilherme,4
+G. Letizia,Sandro,4
+L. Venuti,B. Djimsiti,3
+B. Djimsiti,C. Puggioni,3
+L. Venuti,D. Cataldi,3
+B. Djimsiti,G. Letizia,3
+G. Letizia,B. Djimsiti,3
+M. D'Alessandro,L. Venuti,3
+D. Cataldi,B. Djimsiti,3
+M. D'Alessandro,F. \u0110uri\u010di\u0107,3
+D. Cataldi,Guilherme,3
+F. \u0110uri\u010di\u0107,L. Venuti,2
+F. \u0110uri\u010di\u0107,Guilherme,2
+L. Venuti,A. Costa,2
+D. Cataldi,E. Brignola,2
+D. Cataldi,G. Letizia,2
+D. Cataldi,L. Memushaj,2
+D. Cataldi,L. Venuti,2
+G. Letizia,D. Cataldi,2
+G. Letizia,E. Brignola,2
+Sandro,G. Letizia,2
+L. Venuti,Sandro,2
+B. Djimsiti,D. Cataldi,2
+A. Costa,C. Puggioni,2
+Guilherme,A. Costa,2
+Guilherme,F. \u0110uri\u010di\u0107,2
+A. Costa,M. D'Alessandro,2
+Sandro,D. Cataldi,2
+L. Venuti,F. \u0110uri\u010di\u0107,2
+E. Brignola,D. Cataldi,2
+D. Cataldi,Sandro,2
+A. Costa,Sandro,2
+G. Letizia,A. Costa,2
+L. Memushaj,Sandro,1
+L. Venuti,L. Memushaj,1
+M. Coda,A. Costa,1
+F. \u0110uri\u010di\u0107,M. D'Alessandro,1
+D. Cataldi,A. Costa,1
+A. Costa,L. Venuti,1
+Guilherme,Sandro,1
+L. Venuti,Guilherme,1
+C. Puggioni,A. Costa,1
+M. Coda,F. \u0110uri\u010di\u0107,1
+E. Brignola,G. Letizia,1
+E. Brignola,M. D'Alessandro,1
+L. Memushaj,M. D'Alessandro,1
+Sandro,A. Costa,1
+A. Costa,G. Letizia,1
+L. Venuti,M. Coda,1
+L. Venuti,M. D'Alessandro,1
+A. Costa,M. Coda,1
+L. Memushaj,L. Venuti,1
+Guilherme,L. Venuti,1
+Guilherme,G. Letizia,1
+M. D'Alessandro,Guilherme,1
+Guilherme,L. Memushaj,1
+G. Letizia,L. Venuti,1
+B. Djimsiti,A. Costa,1
+Sandro,L. Venuti,1
+G. Letizia,Guilherme,1
+A. Costa,F. \u0110uri\u010di\u0107,1
+Sandro,F. \u0110uri\u010di\u0107,1
+D. Cataldi,M. D'Alessandro,1
+F. \u0110uri\u010di\u0107,D. Cataldi,1
+B. Djimsiti,M. D'Alessandro,1
+L. Memushaj,D. Cataldi,1
+A. Costa,B. Djimsiti,1
+L. Venuti,C. Puggioni,1
+M. D'Alessandro,A. Costa,1
+A. Costa,D. Cataldi,1

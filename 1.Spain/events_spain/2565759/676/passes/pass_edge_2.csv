@@ -1,0 +1,52 @@
+Source,Target,Weight
+L. Digne,Iniesta,8
+L. Digne,Philippe Coutinho,7
+Sergio Busquets,L. Digne,5
+Iniesta,Philippe Coutinho,5
+N\u00e9lson Semedo,Paco Alc\u00e1cer,5
+N\u00e9lson Semedo,Paulinho,5
+S. Umtiti,L. Digne,5
+Paulinho,N\u00e9lson Semedo,5
+Piqu\u00e9,S. Umtiti,4
+L. Digne,S. Umtiti,4
+Iniesta,L. Digne,4
+Iniesta,N\u00e9lson Semedo,4
+Philippe Coutinho,L. Digne,4
+Paulinho,Piqu\u00e9,4
+Piqu\u00e9,Paulinho,3
+S. Umtiti,Sergio Busquets,3
+Philippe Coutinho,Iniesta,3
+Sergio Busquets,Philippe Coutinho,2
+N\u00e9lson Semedo,Piqu\u00e9,2
+Paco Alc\u00e1cer,N\u00e9lson Semedo,2
+S. Umtiti,Iniesta,2
+Philippe Coutinho,Sergio Busquets,2
+Sergio Busquets,Paulinho,2
+L. Su\u00e1rez,L. Digne,2
+Philippe Coutinho,Piqu\u00e9,2
+Paulinho,Sergio Busquets,2
+Philippe Coutinho,L. Su\u00e1rez,2
+Piqu\u00e9,M. ter Stegen,2
+L. Su\u00e1rez,Sergio Busquets,1
+Iniesta,Paulinho,1
+Paco Alc\u00e1cer,Philippe Coutinho,1
+M. ter Stegen,L. Su\u00e1rez,1
+Paco Alc\u00e1cer,Piqu\u00e9,1
+S. Umtiti,N\u00e9lson Semedo,1
+Piqu\u00e9,N\u00e9lson Semedo,1
+L. Digne,Sergio Busquets,1
+Sergio Busquets,S. Umtiti,1
+Sergio Busquets,Iniesta,1
+Piqu\u00e9,Sergio Busquets,1
+L. Digne,Piqu\u00e9,1
+Paulinho,S. Umtiti,1
+Paulinho,Paco Alc\u00e1cer,1
+Iniesta,Paco Alc\u00e1cer,1
+Paco Alc\u00e1cer,Paulinho,1
+Philippe Coutinho,Paulinho,1
+Paco Alc\u00e1cer,L. Digne,1
+L. Su\u00e1rez,N\u00e9lson Semedo,1
+N\u00e9lson Semedo,Sergio Busquets,1
+M. ter Stegen,S. Umtiti,1
+N\u00e9lson Semedo,Iniesta,1
+Paco Alc\u00e1cer,L. Su\u00e1rez,1

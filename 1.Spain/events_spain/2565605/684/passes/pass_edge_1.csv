@@ -1,0 +1,69 @@
+Source,Target,Weight
+Jordi Amat,A. Mandi,15
+Jordi Amat,Javi Garc\u00eda,15
+A. Mandi,Jordi Amat,13
+Javi Garc\u00eda,A. Mandi,12
+A. Mandi,Barrag\u00e1n,7
+A. Guardado,Jordi Amat,6
+Barrag\u00e1n,Fabi\u00e1n,6
+Jordi Amat,R. Durmisi,6
+Fabi\u00e1n,Barrag\u00e1n,6
+Fabi\u00e1n,Jordi Amat,5
+Javi Garc\u00eda,R. Durmisi,5
+Javi Garc\u00eda,Jordi Amat,5
+A. Mandi,Javi Garc\u00eda,5
+R. Durmisi,A. Guardado,5
+Barrag\u00e1n,A. Mandi,5
+A. Mandi,Fabi\u00e1n,5
+Barrag\u00e1n,Sergio Le\u00f3n,4
+R. Durmisi,Jordi Amat,4
+Sergio Le\u00f3n,A. Mandi,4
+Ad\u00e1n,Jordi Amat,4
+R. Durmisi,Joaqu\u00edn,4
+Joaqu\u00edn,Jordi Amat,4
+Fabi\u00e1n,A. Mandi,3
+A. Mandi,R. Durmisi,3
+Javi Garc\u00eda,Fabi\u00e1n,3
+Joaqu\u00edn,A. Guardado,3
+Jordi Amat,A. Guardado,3
+Joaqu\u00edn,Javi Garc\u00eda,2
+Sergio Le\u00f3n,Jordi Amat,2
+A. Mandi,A. Sanabria,2
+A. Mandi,A. Guardado,2
+A. Sanabria,Javi Garc\u00eda,2
+A. Guardado,Barrag\u00e1n,2
+A. Mandi,Ad\u00e1n,2
+A. Guardado,Sergio Le\u00f3n,2
+A. Guardado,Joaqu\u00edn,2
+A. Mandi,Sergio Le\u00f3n,2
+R. Durmisi,Javi Garc\u00eda,2
+A. Mandi,Joaqu\u00edn,1
+Jordi Amat,Fabi\u00e1n,1
+A. Guardado,Fabi\u00e1n,1
+Barrag\u00e1n,R. Durmisi,1
+A. Guardado,Javi Garc\u00eda,1
+A. Sanabria,Fabi\u00e1n,1
+Jordi Amat,Ad\u00e1n,1
+Barrag\u00e1n,Jordi Amat,1
+Jordi Amat,Barrag\u00e1n,1
+A. Sanabria,Joaqu\u00edn,1
+Fabi\u00e1n,Javi Garc\u00eda,1
+Javi Garc\u00eda,Ad\u00e1n,1
+Ad\u00e1n,A. Mandi,1
+Fabi\u00e1n,A. Sanabria,1
+A. Guardado,A. Sanabria,1
+Sergio Le\u00f3n,A. Guardado,1
+Joaqu\u00edn,R. Durmisi,1
+Fabi\u00e1n,Sergio Le\u00f3n,1
+Barrag\u00e1n,Ad\u00e1n,1
+A. Sanabria,R. Durmisi,1
+Jordi Amat,Joaqu\u00edn,1
+R. Durmisi,Fabi\u00e1n,1
+Jordi Amat,A. Sanabria,1
+Javi Garc\u00eda,A. Sanabria,1
+A. Sanabria,A. Mandi,1
+R. Durmisi,A. Mandi,1
+A. Sanabria,Barrag\u00e1n,1
+Javi Garc\u00eda,A. Guardado,1
+Sergio Le\u00f3n,Barrag\u00e1n,1
+Fabi\u00e1n,Joaqu\u00edn,1

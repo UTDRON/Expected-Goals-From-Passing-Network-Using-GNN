@@ -1,0 +1,33 @@
+Source,Target,Weight
+Santi Mina,G. Kondogbia,3
+Rodrigo,Montoya,3
+Nacho Gil,Rodrigo,3
+Toni Lato,Nacho Gil,2
+Nacho Gil,Toni Lato,2
+R\u00faben Vezo,Toni Lato,2
+G. Kondogbia,Nacho Gil,2
+R\u00faben Vezo,Santi Mina,2
+Gabriel,G. Kondogbia,2
+Neto,Gabriel,1
+G. Kondogbia,N. Maksimovi\u0107,1
+Santi Mina,F. Coquelin,1
+G. Kondogbia,Santi Mina,1
+Rodrigo,Nacho Gil,1
+Toni Lato,R\u00faben Vezo,1
+Toni Lato,Gabriel,1
+G. Kondogbia,Neto,1
+Montoya,Rodrigo,1
+Neto,R\u00faben Vezo,1
+R\u00faben Vezo,Gabriel,1
+F. Coquelin,R\u00faben Vezo,1
+Rodrigo,Santi Mina,1
+N. Maksimovi\u0107,Montoya,1
+Toni Lato,G. Kondogbia,1
+Montoya,Neto,1
+Montoya,Nacho Gil,1
+G. Kondogbia,Gabriel,1
+Gabriel,R\u00faben Vezo,1
+Montoya,N. Maksimovi\u0107,1
+N. Maksimovi\u0107,Santi Mina,1
+Nacho Gil,R\u00faben Vezo,1
+Gabriel,Rodrigo,1

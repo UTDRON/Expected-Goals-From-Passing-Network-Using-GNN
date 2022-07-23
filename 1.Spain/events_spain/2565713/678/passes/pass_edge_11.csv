@@ -1,0 +1,19 @@
+Source,Target,Weight
+De Marcos,Iturraspe,2
+De Marcos,Susaeta,2
+Lekue,A. Laporte,1
+Saborit,Mikel Rico,1
+Iturraspe,Saborit,1
+Mikel Rico,Iturraspe,1
+A. Laporte,Mikel Rico,1
+Mikel Rico,Unai N\u00fa\u00f1ez,1
+Ra\u00fal Garc\u00eda,Mikel Rico,1
+Susaeta,De Marcos,1
+Unai N\u00fa\u00f1ez,Lekue,1
+Mikel Rico,Lekue,1
+Unai N\u00fa\u00f1ez,De Marcos,1
+Susaeta,Unai N\u00fa\u00f1ez,1
+Lekue,Unai N\u00fa\u00f1ez,1
+Lekue,De Marcos,1
+Iturraspe,Ra\u00fal Garc\u00eda,1
+Iturraspe,De Marcos,1

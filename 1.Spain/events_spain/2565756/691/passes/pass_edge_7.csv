@@ -1,0 +1,18 @@
+Source,Target,Weight
+Marc Navarro,V\u00edctor S\u00e1nchez,2
+Mario Hermoso,Granero,2
+Diego L\u00f3pez,Mario Hermoso,2
+Granero,Marc Navarro,2
+Aar\u00f3n,Granero,1
+\u00d3. Duarte,Diego L\u00f3pez,1
+Marc Navarro,\u00d3. Duarte,1
+Aar\u00f3n,Gerard Moreno,1
+V\u00edctor S\u00e1nchez,Marc Navarro,1
+Gerard Moreno,V\u00edctor S\u00e1nchez,1
+Granero,Aar\u00f3n,1
+V\u00edctor S\u00e1nchez,Gerard Moreno,1
+Gerard Moreno,Sergio Garc\u00eda,1
+Marc Navarro,Diego L\u00f3pez,1
+David L\u00f3pez,Marc Navarro,1
+Sergio Garc\u00eda,David L\u00f3pez,1
+David L\u00f3pez,Aar\u00f3n,1

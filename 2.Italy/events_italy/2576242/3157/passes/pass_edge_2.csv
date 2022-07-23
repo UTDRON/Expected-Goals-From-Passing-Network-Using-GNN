@@ -1,0 +1,44 @@
+Source,Target,Weight
+R. Rodr\u00edguez,C. Zapata,5
+G. Bonaventura,R. Rodr\u00edguez,5
+R. Rodr\u00edguez,G. Bonaventura,2
+L. Biglia,R. Rodr\u00edguez,2
+L. Bonucci,C. Zapata,2
+C. Zapata,R. Rodr\u00edguez,2
+R. Rodr\u00edguez,L. Biglia,2
+H. \u00c7alhano\u011flu,C. Zapata,2
+C. Zapata,L. Biglia,2
+L. Bonucci,F. Borini,2
+C. Zapata,L. Bonucci,2
+L. Biglia,G. Bonaventura,2
+C. Zapata,G. Bonaventura,2
+C. Zapata,H. \u00c7alhano\u011flu,1
+F. Borini,Suso,1
+C. Zapata,P. Cutrone,1
+P. Cutrone,F. Borini,1
+F. Borini,G. Donnarumma,1
+Suso,F. Kessi\u00e9,1
+C. Zapata,F. Kessi\u00e9,1
+G. Donnarumma,L. Biglia,1
+G. Bonaventura,C. Zapata,1
+F. Kessi\u00e9,F. Borini,1
+F. Kessi\u00e9,L. Biglia,1
+L. Biglia,Suso,1
+G. Donnarumma,F. Kessi\u00e9,1
+L. Biglia,L. Bonucci,1
+C. Zapata,G. Donnarumma,1
+F. Borini,C. Zapata,1
+R. Rodr\u00edguez,H. \u00c7alhano\u011flu,1
+G. Bonaventura,F. Borini,1
+P. Cutrone,G. Bonaventura,1
+G. Donnarumma,C. Zapata,1
+L. Bonucci,G. Bonaventura,1
+G. Bonaventura,L. Bonucci,1
+F. Kessi\u00e9,L. Bonucci,1
+H. \u00c7alhano\u011flu,R. Rodr\u00edguez,1
+F. Borini,L. Bonucci,1
+F. Kessi\u00e9,P. Cutrone,1
+L. Bonucci,G. Donnarumma,1
+Suso,L. Biglia,1
+F. Borini,H. \u00c7alhano\u011flu,1
+R. Rodr\u00edguez,F. Kessi\u00e9,1

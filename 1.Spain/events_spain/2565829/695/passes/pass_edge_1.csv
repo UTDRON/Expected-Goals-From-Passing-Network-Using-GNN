@@ -1,0 +1,68 @@
+Source,Target,Weight
+E. Cabaco,Jos\u00e9 Luis Morales,5
+Ivi,Luna,5
+Luna,Ivi,4
+Campa\u00f1a,Luna,4
+Jos\u00e9 Luis Morales,Coke,4
+Luna,Rober,3
+Luna,G. Pazzini,3
+Coke,E. Cabaco,3
+Oier,Roger,3
+Campa\u00f1a,J. Lerma,3
+Roger,Luna,3
+E. Cabaco,Oier,2
+Luna,E. Cabaco,2
+Jos\u00e9 Luis Morales,Luna,2
+G. Pazzini,E. Cabaco,2
+J. Lerma,E. Cabaco,2
+E. Cabaco,Roger,2
+Campa\u00f1a,Coke,2
+G. Pazzini,Ivi,2
+Coke,Jos\u00e9 Luis Morales,2
+Campa\u00f1a,E. Cabaco,2
+Coke,Campa\u00f1a,2
+Rober,Campa\u00f1a,2
+J. Lerma,Campa\u00f1a,2
+Coke,J. Lerma,1
+Coke,G. Pazzini,1
+Campa\u00f1a,G. Pazzini,1
+Roger,Campa\u00f1a,1
+Oier,Campa\u00f1a,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+Coke,Roger,1
+Luna,Oier,1
+Ivi,Jos\u00e9 Luis Morales,1
+G. Pazzini,Coke,1
+Luna,Coke,1
+Roger,Coke,1
+E. Cabaco,Coke,1
+J. Lerma,Coke,1
+Jos\u00e9 Luis Morales,E. Cabaco,1
+E. Cabaco,Campa\u00f1a,1
+Coke,Luna,1
+Rober,J. Lerma,1
+Jos\u00e9 Luis Morales,Oier,1
+Oier,E. Cabaco,1
+Ivi,Rober,1
+E. Cabaco,Rober,1
+Luna,Campa\u00f1a,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+Jos\u00e9 Luis Morales,G. Pazzini,1
+E. Cabaco,J. Lerma,1
+Roger,Jos\u00e9 Luis Morales,1
+Ivi,Campa\u00f1a,1
+Rober,Roger,1
+J. Lerma,Ivi,1
+G. Pazzini,Luna,1
+Luna,Jos\u00e9 Luis Morales,1
+Ivi,G. Pazzini,1
+Rober,Ivi,1
+Jos\u00e9 Luis Morales,Ivi,1
+J. Lerma,Rober,1
+J. Lerma,Jos\u00e9 Luis Morales,1
+Oier,Jos\u00e9 Luis Morales,1
+Roger,J. Lerma,1
+J. Lerma,Oier,1
+Ivi,J. Lerma,1
+Campa\u00f1a,Ivi,1
+Rober,Oier,1

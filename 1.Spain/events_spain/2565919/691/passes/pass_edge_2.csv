@@ -1,0 +1,65 @@
+Source,Target,Weight
+Naldo,David L\u00f3pez,5
+Naldo,Marc Roca,4
+David L\u00f3pez,L\u00e9o Baptist\u00e3o,4
+David L\u00f3pez,Naldo,3
+Javi L\u00f3pez,V\u00edctor S\u00e1nchez,3
+Gerard Moreno,V\u00edctor S\u00e1nchez,3
+V\u00edctor S\u00e1nchez,L\u00e9o Baptist\u00e3o,2
+Sergio Garc\u00eda,Javi L\u00f3pez,2
+P. Piatti,Marc Roca,2
+D\u00eddac Vil\u00e1,David L\u00f3pez,2
+V\u00edctor S\u00e1nchez,Diego L\u00f3pez,2
+Marc Roca,Javi L\u00f3pez,2
+D\u00eddac Vil\u00e1,P. Piatti,2
+V\u00edctor S\u00e1nchez,D\u00eddac Vil\u00e1,2
+Sergio Garc\u00eda,Gerard Moreno,2
+Javi L\u00f3pez,Sergio Garc\u00eda,2
+V\u00edctor S\u00e1nchez,Javi L\u00f3pez,2
+Gerard Moreno,Javi L\u00f3pez,2
+Marc Roca,Naldo,2
+Diego L\u00f3pez,Gerard Moreno,2
+Marc Roca,D\u00eddac Vil\u00e1,2
+David L\u00f3pez,Gerard Moreno,2
+David L\u00f3pez,V\u00edctor S\u00e1nchez,2
+D\u00eddac Vil\u00e1,Gerard Moreno,2
+L\u00e9o Baptist\u00e3o,Marc Roca,2
+Javi L\u00f3pez,L\u00e9o Baptist\u00e3o,2
+L\u00e9o Baptist\u00e3o,Javi L\u00f3pez,2
+P. Piatti,D\u00eddac Vil\u00e1,2
+D\u00eddac Vil\u00e1,Javi L\u00f3pez,2
+Naldo,V\u00edctor S\u00e1nchez,1
+Sergio Garc\u00eda,V\u00edctor S\u00e1nchez,1
+Sergio Garc\u00eda,D\u00eddac Vil\u00e1,1
+Gerard Moreno,David L\u00f3pez,1
+L\u00e9o Baptist\u00e3o,Naldo,1
+Marc Roca,Sergio Garc\u00eda,1
+L\u00e9o Baptist\u00e3o,Diego L\u00f3pez,1
+V\u00edctor S\u00e1nchez,David L\u00f3pez,1
+V\u00edctor S\u00e1nchez,P. Piatti,1
+Gerard Moreno,Naldo,1
+L\u00e9o Baptist\u00e3o,Sergio Garc\u00eda,1
+Gerard Moreno,L\u00e9o Baptist\u00e3o,1
+D\u00eddac Vil\u00e1,V\u00edctor S\u00e1nchez,1
+Gerard Moreno,Diego L\u00f3pez,1
+Javi L\u00f3pez,D\u00eddac Vil\u00e1,1
+David L\u00f3pez,Marc Roca,1
+Diego L\u00f3pez,Sergio Garc\u00eda,1
+Javi L\u00f3pez,Diego L\u00f3pez,1
+David L\u00f3pez,Sergio Garc\u00eda,1
+L\u00e9o Baptist\u00e3o,David L\u00f3pez,1
+L\u00e9o Baptist\u00e3o,P. Piatti,1
+Javi L\u00f3pez,David L\u00f3pez,1
+Diego L\u00f3pez,David L\u00f3pez,1
+Javi L\u00f3pez,Naldo,1
+V\u00edctor S\u00e1nchez,Naldo,1
+Javi L\u00f3pez,Gerard Moreno,1
+V\u00edctor S\u00e1nchez,Gerard Moreno,1
+Marc Roca,V\u00edctor S\u00e1nchez,1
+Marc Roca,David L\u00f3pez,1
+D\u00eddac Vil\u00e1,L\u00e9o Baptist\u00e3o,1
+P. Piatti,Naldo,1
+Diego L\u00f3pez,D\u00eddac Vil\u00e1,1
+Marc Roca,P. Piatti,1
+V\u00edctor S\u00e1nchez,Marc Roca,1
+Gerard Moreno,D\u00eddac Vil\u00e1,1

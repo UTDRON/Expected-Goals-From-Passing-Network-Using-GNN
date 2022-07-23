@@ -1,0 +1,16 @@
+Source,Target,Weight
+Pere Pons,Aday,2
+Aday,Choco Lozano,2
+Aday,Juanpe,2
+Portu,Pablo Maffeo,2
+Choco Lozano,Aday,1
+Pablo Maffeo,Pere Pons,1
+Pablo Maffeo,Ramalho,1
+Juanpe,Bernardo Espinosa,1
+C. Stuani,\u00c1lex Granell,1
+\u00c1lex Granell,Portu,1
+Ramalho,Bernardo Espinosa,1
+Bernardo Espinosa,Aday,1
+Juanpe,C. Stuani,1
+C. Stuani,Portu,1
+Bernardo Espinosa,Pere Pons,1

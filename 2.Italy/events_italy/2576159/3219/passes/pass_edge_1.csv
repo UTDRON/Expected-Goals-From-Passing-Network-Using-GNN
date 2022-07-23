@@ -1,0 +1,39 @@
+Source,Target,Weight
+J. Billong,B. Djimsiti,3
+J. Billong,L. Memushaj,3
+C. Lombardi,J. Billong,3
+E. Brignola,L. Venuti,3
+L. Memushaj,J. Billong,2
+A. Costa,J. Billong,2
+N. Viola,A. Costa,2
+B. Djimsiti,C. Lombardi,2
+M. Coda,E. Brignola,1
+J. Billong,Guilherme,1
+B. Djimsiti,J. Billong,1
+L. Venuti,N. Viola,1
+L. Venuti,E. Brignola,1
+A. Costa,L. Memushaj,1
+C. Lombardi,L. Memushaj,1
+A. Costa,M. Coda,1
+N. Viola,E. Brignola,1
+L. Memushaj,A. Costa,1
+V. Belec,A. Costa,1
+J. Billong,N. Viola,1
+M. Coda,V. Belec,1
+E. Brignola,C. Lombardi,1
+A. Costa,Guilherme,1
+B. Djimsiti,A. Costa,1
+M. Coda,N. Viola,1
+Guilherme,E. Brignola,1
+Guilherme,C. Lombardi,1
+N. Viola,M. Coda,1
+N. Viola,Guilherme,1
+E. Brignola,A. Costa,1
+A. Costa,E. Brignola,1
+A. Costa,N. Viola,1
+L. Memushaj,N. Viola,1
+J. Billong,M. Coda,1
+Guilherme,B. Djimsiti,1
+C. Lombardi,A. Costa,1
+L. Memushaj,C. Lombardi,1
+L. Venuti,Guilherme,1

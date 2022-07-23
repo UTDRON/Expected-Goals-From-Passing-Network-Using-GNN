@@ -1,0 +1,47 @@
+Source,Target,Weight
+Jo\u00e3o Cancelo,Dani Parejo,3
+Dani Parejo,Carlos Soler,3
+Jos\u00e9 Gay\u00e1,Dani Parejo,2
+Carlos Soler,Jos\u00e9 Gay\u00e1,2
+Nacho Vidal,Medr\u00e1n,2
+E. Garay,Dani Parejo,2
+Rodrigo,Jos\u00e9 Gay\u00e1,2
+Rodrigo,S. Zaza,2
+S. Zaza,Jo\u00e3o Cancelo,2
+Carlos Soler,Rodrigo,2
+Dani Parejo,Rodrigo,2
+Medr\u00e1n,E. Garay,2
+E. Garay,Nacho Vidal,1
+Nacho Vidal,E. Garay,1
+Medr\u00e1n,Nacho Vidal,1
+Jo\u00e3o Cancelo,Carlos Soler,1
+Rodrigo,R\u00faben Vezo,1
+S. Zaza,Medr\u00e1n,1
+Jo\u00e3o Cancelo,Neto,1
+R\u00faben Vezo,Neto,1
+Dani Parejo,E. Garay,1
+Dani Parejo,S. Zaza,1
+Dani Parejo,Jos\u00e9 Gay\u00e1,1
+R\u00faben Vezo,Medr\u00e1n,1
+Jos\u00e9 Gay\u00e1,Carlos Soler,1
+Medr\u00e1n,Rodrigo,1
+S. Zaza,Dani Parejo,1
+Neto,R\u00faben Vezo,1
+Nacho Vidal,Rodrigo,1
+Jo\u00e3o Cancelo,Rodrigo,1
+R\u00faben Vezo,Carlos Soler,1
+Rodrigo,Dani Parejo,1
+Jos\u00e9 Gay\u00e1,Nacho Vidal,1
+R\u00faben Vezo,S. Zaza,1
+Rodrigo,Jo\u00e3o Cancelo,1
+Jos\u00e9 Gay\u00e1,R\u00faben Vezo,1
+S. Zaza,R\u00faben Vezo,1
+E. Garay,Medr\u00e1n,1
+Carlos Soler,Jo\u00e3o Cancelo,1
+Jo\u00e3o Cancelo,Jos\u00e9 Gay\u00e1,1
+Jos\u00e9 Gay\u00e1,Rodrigo,1
+Carlos Soler,Medr\u00e1n,1
+Medr\u00e1n,S. Zaza,1
+Neto,Jo\u00e3o Cancelo,1
+Dani Parejo,Nacho Vidal,1
+Medr\u00e1n,Jo\u00e3o Cancelo,1

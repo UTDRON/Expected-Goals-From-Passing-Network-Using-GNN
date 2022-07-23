@@ -1,0 +1,78 @@
+Source,Target,Weight
+Vitolo,Jonathan Viera,11
+Jonathan Viera,Vitolo,9
+Ximo Navarro,M. Lemos,8
+M. Lemos,Jonathan Viera,7
+M. Lemos,Ximo Navarro,7
+Jonathan Viera,David Sim\u00f3n,6
+M. Lemos,David Sim\u00f3n,6
+David Sim\u00f3n,Tana,6
+M. Lemos,Bigas,6
+Vitolo,Dani Castellano,6
+Bigas,M. Lemos,5
+Ximo Navarro,L. Chichizola,5
+Ximo Navarro,Bigas,5
+Jonathan Viera,M. Lemos,5
+Tana,Vitolo,5
+Vitolo,Tana,5
+David Sim\u00f3n,Ximo Navarro,5
+Bigas,L. Chichizola,5
+Dani Castellano,Bigas,5
+L. Chichizola,M. Lemos,5
+Tana,David Sim\u00f3n,5
+Bigas,Jonathan Viera,5
+Dani Castellano,Jonathan Viera,5
+Tana,Jonathan Viera,5
+Bigas,Dani Castellano,4
+Dani Castellano,M. Lemos,4
+Jonathan Viera,Dani Castellano,4
+Bigas,Ximo Navarro,4
+Jonathan Viera,Bigas,4
+Jonathan Viera,Tana,4
+M. Lemos,Vitolo,4
+Ximo Navarro,Tana,3
+Tana,M. Lemos,3
+Ximo Navarro,David Sim\u00f3n,3
+J. Calleri,Vitolo,3
+Vitolo,J. Calleri,3
+David Sim\u00f3n,M. Lemos,3
+Dani Castellano,Vitolo,3
+David Sim\u00f3n,J. Calleri,3
+L. Chichizola,Ximo Navarro,3
+Tana,Ximo Navarro,2
+Jonathan Viera,J. Calleri,2
+Vitolo,Bigas,2
+David Sim\u00f3n,Dani Castellano,2
+Jonathan Viera,Ximo Navarro,2
+L. Chichizola,David Sim\u00f3n,2
+J. Calleri,Ximo Navarro,2
+Ximo Navarro,Jonathan Viera,2
+Dani Castellano,L. Chichizola,2
+Jonathan Viera,L. Chichizola,2
+L. Chichizola,Vitolo,2
+J. Calleri,Dani Castellano,2
+L. Chichizola,J. Calleri,2
+Dani Castellano,Ximo Navarro,2
+David Sim\u00f3n,Vitolo,2
+David Sim\u00f3n,Jonathan Viera,2
+L. Chichizola,Dani Castellano,1
+David Sim\u00f3n,Bigas,1
+M. Lemos,L. Chichizola,1
+M. Lemos,Tana,1
+A. Halilovi\u0107,L. Chichizola,1
+J. Calleri,David Sim\u00f3n,1
+L. Chichizola,Bigas,1
+J. Calleri,L. Chichizola,1
+David Sim\u00f3n,A. Halilovi\u0107,1
+M. Lemos,J. Calleri,1
+Tana,Dani Castellano,1
+J. Calleri,Bigas,1
+Ximo Navarro,J. Calleri,1
+J. Calleri,M. Lemos,1
+L. Chichizola,Jonathan Viera,1
+Vitolo,David Sim\u00f3n,1
+Bigas,David Sim\u00f3n,1
+Bigas,Tana,1
+Dani Castellano,Tana,1
+J. Calleri,Jonathan Viera,1
+M. Lemos,Dani Castellano,1

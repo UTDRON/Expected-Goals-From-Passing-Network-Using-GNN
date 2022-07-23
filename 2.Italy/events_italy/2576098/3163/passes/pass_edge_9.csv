@@ -1,0 +1,57 @@
+Source,Target,Weight
+S. Widmer,Danilo,4
+K. Lasagna,S. Widmer,3
+R. de Paul,Ali Adnan,3
+S. Widmer,A. Bar\u00e1k,3
+K. Lasagna,Samir,3
+S. Widmer,A. Bali\u0107,3
+Samir,S. Widmer,3
+R. Baji\u0107,A. Bali\u0107,2
+A. Bar\u00e1k,R. Baji\u0107,2
+Danilo,S. Scuffet,2
+A. Bar\u00e1k,K. Lasagna,2
+A. Bali\u0107,Samir,2
+Ali Adnan,J. Jankto,2
+Samir,R. de Paul,2
+A. Bali\u0107,Ali Adnan,2
+J. Jankto,S. Widmer,2
+Samir,K. Lasagna,2
+Ali Adnan,Samir,2
+Samir,A. Bali\u0107,2
+A. Bali\u0107,A. Bar\u00e1k,2
+A. Bali\u0107,R. Baji\u0107,2
+Ali Adnan,A. Bali\u0107,1
+Danilo,R. de Paul,1
+A. Bar\u00e1k,Ali Adnan,1
+R. Baji\u0107,K. Lasagna,1
+A. Bar\u00e1k,Samir,1
+Samir,Ali Adnan,1
+S. Scuffet,Danilo,1
+S. Scuffet,R. de Paul,1
+S. Scuffet,A. Bar\u00e1k,1
+Danilo,A. Bar\u00e1k,1
+K. Lasagna,A. Bali\u0107,1
+Danilo,Ali Adnan,1
+R. Baji\u0107,Samir,1
+Danilo,K. Lasagna,1
+Danilo,J. Jankto,1
+A. Bali\u0107,S. Widmer,1
+J. Jankto,Samir,1
+S. Widmer,R. Baji\u0107,1
+R. Baji\u0107,S. Widmer,1
+A. Bali\u0107,Danilo,1
+S. Scuffet,K. Lasagna,1
+J. Jankto,S. Scuffet,1
+S. Scuffet,S. Widmer,1
+Ali Adnan,S. Scuffet,1
+K. Lasagna,A. Bar\u00e1k,1
+Danilo,A. Bali\u0107,1
+Ali Adnan,K. Lasagna,1
+A. Bar\u00e1k,Danilo,1
+Ali Adnan,A. Bar\u00e1k,1
+A. Bali\u0107,R. de Paul,1
+R. de Paul,R. Baji\u0107,1
+A. Bar\u00e1k,A. Bali\u0107,1
+Samir,S. Scuffet,1
+R. de Paul,Danilo,1
+R. Baji\u0107,J. Jankto,1

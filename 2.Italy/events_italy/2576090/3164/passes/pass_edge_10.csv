@@ -1,0 +1,27 @@
+Source,Target,Weight
+N. Murru,V. Verre,3
+V. Verre,G. Ferrari,2
+E. Viviano,N. Murru,2
+\u00c9. Barreto,B. Bereszy\u0144ski,1
+N. Murru,\u00c9. Barreto,1
+L. Torreira,N. Murru,1
+G. Caprari,B. Bereszy\u0144ski,1
+V. Verre,G. Caprari,1
+G. Caprari,L. Torreira,1
+V. Verre,B. Bereszy\u0144ski,1
+M. Silvestre,G. Ferrari,1
+G. Ferrari,M. Silvestre,1
+B. Bereszy\u0144ski,G. Caprari,1
+B. Bereszy\u0144ski,\u00c9. Barreto,1
+M. Silvestre,L. Torreira,1
+L. Torreira,E. Viviano,1
+M. Silvestre,V. Verre,1
+G. Ferrari,L. Torreira,1
+N. Murru,E. Viviano,1
+B. Bereszy\u0144ski,N. Murru,1
+\u00c9. Barreto,E. Viviano,1
+G. Ferrari,N. Murru,1
+V. Verre,M. Silvestre,1
+G. Caprari,N. Murru,1
+L. Torreira,V. Verre,1
+E. Viviano,M. Silvestre,1

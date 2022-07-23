@@ -1,0 +1,30 @@
+Source,Target,Weight
+P. Cutrone,M. Locatelli,2
+R. Rodr\u00edguez,G. Bonaventura,2
+L. Biglia,M. Locatelli,2
+G. Donnarumma,M. Musacchio,2
+L. Bonucci,R. Rodr\u00edguez,1
+R. Rodr\u00edguez,G. Donnarumma,1
+M. Musacchio,Suso,1
+M. Locatelli,P. Cutrone,1
+L. Biglia,F. Borini,1
+G. Bonaventura,L. Bonucci,1
+M. Musacchio,L. Biglia,1
+Suso,F. Borini,1
+M. Musacchio,Andr\u00e9 Silva,1
+F. Borini,L. Biglia,1
+Andr\u00e9 Silva,P. Cutrone,1
+R. Rodr\u00edguez,Andr\u00e9 Silva,1
+M. Locatelli,G. Donnarumma,1
+G. Donnarumma,R. Rodr\u00edguez,1
+G. Bonaventura,L. Biglia,1
+M. Locatelli,R. Rodr\u00edguez,1
+Andr\u00e9 Silva,R. Rodr\u00edguez,1
+M. Locatelli,M. Musacchio,1
+F. Borini,G. Bonaventura,1
+G. Bonaventura,R. Rodr\u00edguez,1
+L. Biglia,G. Donnarumma,1
+G. Bonaventura,M. Locatelli,1
+R. Rodr\u00edguez,M. Musacchio,1
+M. Locatelli,G. Bonaventura,1
+M. Musacchio,L. Bonucci,1

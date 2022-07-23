@@ -1,0 +1,42 @@
+Source,Target,Weight
+Arbilla,Jos\u00e9 \u00c1ngel,4
+Ramis,Arbilla,4
+Jos\u00e9 \u00c1ngel,Arbilla,3
+Ander Capa,Dani Garc\u00eda,3
+Arbilla,Ramis,3
+Dani Garc\u00eda,Arbilla,2
+G. Escalante,Dani Garc\u00eda,2
+Dani Garc\u00eda,G. Escalante,2
+Ander Capa,Ramis,2
+Jos\u00e9 \u00c1ngel,Pedro Le\u00f3n,1
+Joan Jord\u00e1n,Ander Capa,1
+Ander Capa,Kike Garc\u00eda,1
+G. Escalante,Ander Capa,1
+Jos\u00e9 \u00c1ngel,Dani Garc\u00eda,1
+Ramis,G. Escalante,1
+Pedro Le\u00f3n,Jos\u00e9 \u00c1ngel,1
+Joan Jord\u00e1n,Arbilla,1
+M. Dmitrovi\u0107,Jos\u00e9 \u00c1ngel,1
+Kike Garc\u00eda,Joan Jord\u00e1n,1
+Arbilla,Joan Jord\u00e1n,1
+Arbilla,M. Dmitrovi\u0107,1
+Dani Garc\u00eda,Jos\u00e9 \u00c1ngel,1
+Jos\u00e9 \u00c1ngel,G. Escalante,1
+Jos\u00e9 \u00c1ngel,Kike Garc\u00eda,1
+Jos\u00e9 \u00c1ngel,Ander Capa,1
+Arbilla,G. Escalante,1
+Kike Garc\u00eda,Ramis,1
+M. Dmitrovi\u0107,Dani Garc\u00eda,1
+G. Escalante,Ramis,1
+Arbilla,Kike Garc\u00eda,1
+Jos\u00e9 \u00c1ngel,M. Dmitrovi\u0107,1
+Ramis,Iv\u00e1n Alejo,1
+Ramis,Jos\u00e9 \u00c1ngel,1
+Joan Jord\u00e1n,Jos\u00e9 \u00c1ngel,1
+Iv\u00e1n Alejo,Ander Capa,1
+Dani Garc\u00eda,Ramis,1
+G. Escalante,Joan Jord\u00e1n,1
+Ramis,Ander Capa,1
+Kike Garc\u00eda,Ander Capa,1
+Pedro Le\u00f3n,Arbilla,1
+Dani Garc\u00eda,Kike Garc\u00eda,1

@@ -1,0 +1,24 @@
+Source,Target,Weight
+M. Gobbi,P. Hetemaj,2
+I. Radovanovi\u0107,S. Bastien,2
+V. Birsa,M. Bani,2
+M. Gobbi,N. Tomovi\u0107,2
+V. Birsa,I. Radovanovi\u0107,2
+N. Tomovi\u0107,M. Gobbi,2
+F. Cacciatore,V. Birsa,2
+I. Radovanovi\u0107,F. Cacciatore,1
+V. Birsa,N. Tomovi\u0107,1
+N. Tomovi\u0107,I. Radovanovi\u0107,1
+M. Bani,V. Birsa,1
+S. Sorrentino,I. Radovanovi\u0107,1
+P. Hetemaj,F. Cacciatore,1
+S. Bastien,F. Cacciatore,1
+P. Hetemaj,I. Radovanovi\u0107,1
+S. Bastien,M. Gobbi,1
+F. Cacciatore,S. Bastien,1
+M. Bani,S. Sorrentino,1
+S. Bastien,I. Radovanovi\u0107,1
+I. Radovanovi\u0107,V. Birsa,1
+N. Tomovi\u0107,F. Cacciatore,1
+I. Radovanovi\u0107,M. Gobbi,1
+F. Cacciatore,N. Tomovi\u0107,1

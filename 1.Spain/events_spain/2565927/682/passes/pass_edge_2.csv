@@ -1,0 +1,59 @@
+Source,Target,Weight
+Mario,Pablo Fornals,6
+Pablo Fornals,Mario,6
+Javi Fuego,Rodri,4
+E. \u00dcnal,Mario,4
+N. Sansone,Adri\u00e1n Mar\u00edn,3
+N. Sansone,Pablo Fornals,3
+Mario,E. \u00dcnal,3
+Mario,Javi Fuego,3
+Adri\u00e1n Mar\u00edn,N. Sansone,3
+Adri\u00e1n Mar\u00edn,R. Soriano,2
+Rodri,N. Sansone,2
+Pablo Fornals,E. \u00dcnal,2
+\u00c1lvaro Gonz\u00e1lez,Adri\u00e1n Mar\u00edn,2
+\u00c1lvaro Gonz\u00e1lez,Javi Fuego,2
+Javi Fuego,Mario,2
+Andr\u00e9s Fern\u00e1ndez,\u00c1lvaro Gonz\u00e1lez,2
+Mario,Rodri,2
+Mario,Andr\u00e9s Fern\u00e1ndez,2
+Rodri,Mario,2
+D. Bonera,Mario,2
+\u00c1lvaro Gonz\u00e1lez,Andr\u00e9s Fern\u00e1ndez,1
+N. Sansone,Javi Fuego,1
+Pablo Fornals,\u00c1lvaro Gonz\u00e1lez,1
+R. Soriano,Rodri,1
+R. Soriano,E. \u00dcnal,1
+Rodri,Adri\u00e1n Mar\u00edn,1
+Pablo Fornals,R. Soriano,1
+Adri\u00e1n Mar\u00edn,Rodri,1
+N. Sansone,Rodri,1
+Rodri,Javi Fuego,1
+R. Soriano,Mario,1
+Javi Fuego,R. Soriano,1
+Adri\u00e1n Mar\u00edn,Pablo Fornals,1
+E. \u00dcnal,Pablo Fornals,1
+Mario,D. Bonera,1
+Javi Fuego,E. \u00dcnal,1
+Pablo Fornals,N. Sansone,1
+Pablo Fornals,Javi Fuego,1
+Andr\u00e9s Fern\u00e1ndez,Pablo Fornals,1
+Andr\u00e9s Fern\u00e1ndez,N. Sansone,1
+D. Bonera,N. Sansone,1
+Rodri,Andr\u00e9s Fern\u00e1ndez,1
+E. \u00dcnal,N. Sansone,1
+R. Soriano,\u00c1lvaro Gonz\u00e1lez,1
+N. Sansone,R. Soriano,1
+E. \u00dcnal,D. Bonera,1
+Javi Fuego,\u00c1lvaro Gonz\u00e1lez,1
+Andr\u00e9s Fern\u00e1ndez,Javi Fuego,1
+N. Sansone,D. Bonera,1
+R. Soriano,Javi Fuego,1
+Javi Fuego,Andr\u00e9s Fern\u00e1ndez,1
+D. Bonera,R. Soriano,1
+E. \u00dcnal,Javi Fuego,1
+Javi Fuego,Adri\u00e1n Mar\u00edn,1
+R. Soriano,N. Sansone,1
+\u00c1lvaro Gonz\u00e1lez,R. Soriano,1
+Rodri,\u00c1lvaro Gonz\u00e1lez,1
+Rodri,E. \u00dcnal,1

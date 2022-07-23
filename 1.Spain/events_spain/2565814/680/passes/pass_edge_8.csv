@@ -1,0 +1,20 @@
+Source,Target,Weight
+C. Lenglet,S. N'Zonzi,2
+G. Mercado,M. Lay\u00fan,2
+F. V\u00e1zquez,L. Muriel,2
+S. N'Zonzi,F. V\u00e1zquez,2
+L. Muriel,C. Lenglet,1
+Sergio Rico,J. Correa,1
+G. Mercado,Sergio Rico,1
+F. V\u00e1zquez,Sergio Escudero,1
+S. N'Zonzi,G. Mercado,1
+J. Correa,S. N'Zonzi,1
+F. V\u00e1zquez,C. Lenglet,1
+J. Correa,M. Lay\u00fan,1
+M. Lay\u00fan,G. Mercado,1
+M. Lay\u00fan,F. V\u00e1zquez,1
+C. Lenglet,\u00c9. Banega,1
+M. Lay\u00fan,Sergio Rico,1
+Sergio Escudero,J. Correa,1
+\u00c9. Banega,F. V\u00e1zquez,1
+Sergio Rico,C. Lenglet,1

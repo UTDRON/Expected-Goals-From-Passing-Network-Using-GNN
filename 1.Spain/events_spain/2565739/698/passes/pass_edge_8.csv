@@ -1,0 +1,44 @@
+Source,Target,Weight
+Molinero,Portillo,4
+Antunes,Dani Pacheco,4
+Portillo,Molinero,3
+M. Arambarri,Juan Cala,3
+Juan Cala,Antunes,3
+Djen\u00e9,Molinero,2
+Djen\u00e9,Portillo,2
+Markel Bergara,M. Arambarri,2
+Juan Cala,Djen\u00e9,2
+Dani Pacheco,M. Arambarri,1
+Markel Bergara,Djen\u00e9,1
+Antunes,\u00c1ngel,1
+\u00c1ngel,Molinero,1
+E. Mart\u00ednez,Dani Pacheco,1
+Molinero,Markel Bergara,1
+Portillo,Markel Bergara,1
+Dani Pacheco,Jorge Molina,1
+Dani Pacheco,Juan Cala,1
+Jorge Molina,E. Mart\u00ednez,1
+\u00c1ngel,Djen\u00e9,1
+Djen\u00e9,Markel Bergara,1
+M. Arambarri,Djen\u00e9,1
+Djen\u00e9,Jorge Molina,1
+Portillo,Djen\u00e9,1
+Juan Cala,E. Mart\u00ednez,1
+Dani Pacheco,Antunes,1
+Molinero,M. Arambarri,1
+Molinero,Djen\u00e9,1
+M. Arambarri,Jorge Molina,1
+Djen\u00e9,M. Arambarri,1
+Jorge Molina,Molinero,1
+Portillo,M. Arambarri,1
+Portillo,E. Mart\u00ednez,1
+Antunes,Jorge Molina,1
+Jorge Molina,Portillo,1
+M. Arambarri,\u00c1ngel,1
+E. Mart\u00ednez,Markel Bergara,1
+E. Mart\u00ednez,Jorge Molina,1
+Dani Pacheco,\u00c1ngel,1
+Jorge Molina,\u00c1ngel,1
+\u00c1ngel,Juan Cala,1
+Markel Bergara,Antunes,1
+Jorge Molina,Juan Cala,1

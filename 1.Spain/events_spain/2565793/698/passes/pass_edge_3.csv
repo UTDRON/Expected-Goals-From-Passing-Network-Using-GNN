@@ -1,0 +1,93 @@
+Source,Target,Weight
+F. Fajr,Antunes,9
+Antunes,F. Fajr,7
+Bruno,Antunes,6
+F. Fajr,Bruno,6
+Portillo,Molinero,5
+Bruno,M. Arambarri,5
+Antunes,L. R\u00e9my,5
+L. R\u00e9my,F. Fajr,4
+M. Arambarri,F. Fajr,4
+M. Arambarri,Bruno,4
+Antunes,A. Ndiaye,4
+\u00c1ngel,Antunes,4
+Antunes,Bruno,4
+F. Fajr,M. Arambarri,3
+Bruno,F. Fajr,3
+Jorge Molina,Portillo,3
+F. Fajr,Djen\u00e9,3
+Antunes,Djen\u00e9,3
+Molinero,Djen\u00e9,3
+Guaita,Jorge Molina,3
+Djen\u00e9,\u00c1ngel,3
+Djen\u00e9,Guaita,3
+Djen\u00e9,M. Arambarri,3
+M. Arambarri,Antunes,3
+Molinero,Portillo,3
+Molinero,M. Ndockyt,2
+M. Arambarri,Molinero,2
+Bruno,A. Ndiaye,2
+M. Ndockyt,Jorge Molina,2
+\u00c1ngel,M. Ndockyt,2
+Djen\u00e9,Bruno,2
+Molinero,Bruno,2
+Guaita,\u00c1ngel,2
+Molinero,Jorge Molina,2
+M. Ndockyt,M. Arambarri,2
+F. Fajr,Guaita,2
+A. Ndiaye,F. Fajr,2
+Guaita,Djen\u00e9,2
+Jorge Molina,M. Arambarri,2
+F. Fajr,Jorge Molina,2
+\u00c1ngel,F. Fajr,2
+F. Fajr,Portillo,2
+M. Arambarri,Djen\u00e9,2
+Djen\u00e9,Jorge Molina,2
+Djen\u00e9,Molinero,2
+Portillo,Djen\u00e9,2
+Djen\u00e9,F. Fajr,2
+Antunes,Jorge Molina,1
+M. Arambarri,\u00c1ngel,1
+Antunes,Molinero,1
+Molinero,M. Arambarri,1
+Jorge Molina,M. Ndockyt,1
+Portillo,F. Fajr,1
+A. Ndiaye,Antunes,1
+Bruno,L. R\u00e9my,1
+Bruno,Portillo,1
+Jorge Molina,Bruno,1
+Portillo,Jorge Molina,1
+Jorge Molina,Guaita,1
+M. Arambarri,Guaita,1
+Jorge Molina,Antunes,1
+Molinero,F. Fajr,1
+Djen\u00e9,Portillo,1
+M. Ndockyt,Molinero,1
+Bruno,Djen\u00e9,1
+Bruno,Guaita,1
+\u00c1ngel,Molinero,1
+Jorge Molina,A. Ndiaye,1
+A. Ndiaye,M. Ndockyt,1
+Guaita,Molinero,1
+Antunes,\u00c1ngel,1
+\u00c1ngel,A. Ndiaye,1
+A. Ndiaye,M. Arambarri,1
+A. Ndiaye,Djen\u00e9,1
+Molinero,A. Ndiaye,1
+Guaita,Antunes,1
+Jorge Molina,F. Fajr,1
+Portillo,Guaita,1
+M. Ndockyt,F. Fajr,1
+\u00c1ngel,Bruno,1
+Jorge Molina,Djen\u00e9,1
+M. Arambarri,Portillo,1
+Jorge Molina,\u00c1ngel,1
+L. R\u00e9my,Guaita,1
+F. Fajr,Molinero,1
+A. Ndiaye,Molinero,1
+L. R\u00e9my,Antunes,1
+Molinero,\u00c1ngel,1
+Portillo,M. Arambarri,1
+A. Ndiaye,\u00c1ngel,1
+Guaita,F. Fajr,1
+F. Fajr,\u00c1ngel,1

@@ -1,0 +1,48 @@
+Source,Target,Weight
+J. Palomino,Rafael Tol\u00f3i,3
+R. Freuler,A. Masiello,3
+B. Cristante,T. Castagne,3
+T. Castagne,J. Palomino,3
+Rafael Tol\u00f3i,E. Berisha,2
+M. de Roon,Rafael Tol\u00f3i,2
+A. G\u00f3mez,R. Freuler,2
+M. de Roon,B. Cristante,2
+T. Castagne,A. Petagna,2
+Rafael Tol\u00f3i,M. de Roon,2
+A. Masiello,R. Freuler,2
+E. Berisha,Rafael Tol\u00f3i,2
+L. Spinazzola,J. Palomino,2
+L. Spinazzola,A. Petagna,2
+J. Palomino,A. Masiello,2
+A. Masiello,J. Palomino,1
+B. Cristante,M. de Roon,1
+J. Palomino,E. Berisha,1
+T. Castagne,M. de Roon,1
+A. Petagna,T. Castagne,1
+R. Freuler,L. Spinazzola,1
+R. Freuler,A. G\u00f3mez,1
+L. Spinazzola,A. G\u00f3mez,1
+M. de Roon,R. Freuler,1
+Rafael Tol\u00f3i,L. Spinazzola,1
+R. Freuler,J. Palomino,1
+Rafael Tol\u00f3i,R. Freuler,1
+M. de Roon,A. G\u00f3mez,1
+Rafael Tol\u00f3i,J. Palomino,1
+J. Palomino,M. de Roon,1
+B. Cristante,Rafael Tol\u00f3i,1
+J. Palomino,L. Spinazzola,1
+A. Petagna,M. de Roon,1
+E. Berisha,J. Palomino,1
+A. Petagna,B. Cristante,1
+J. Palomino,T. Castagne,1
+Rafael Tol\u00f3i,A. Petagna,1
+A. Masiello,L. Spinazzola,1
+A. Masiello,E. Berisha,1
+Rafael Tol\u00f3i,B. Cristante,1
+M. de Roon,T. Castagne,1
+A. Petagna,L. Spinazzola,1
+E. Berisha,B. Cristante,1
+A. Masiello,M. de Roon,1
+A. G\u00f3mez,M. de Roon,1
+M. de Roon,A. Masiello,1
+A. Petagna,A. G\u00f3mez,1

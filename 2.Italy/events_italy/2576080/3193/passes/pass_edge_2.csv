@@ -1,0 +1,11 @@
+Source,Target,Weight
+A. Taarabt,A. Rosi,1
+A. Rosi,G. Pandev,1
+A. Taarabt,G. Pandev,1
+L. Rigoni,A. Taarabt,1
+A. Rosi,L. Rigoni,1
+A. Bertolacci,A. Rosi,1
+G. Pandev,A. Taarabt,1
+L. Rigoni,G. Pandev,1
+G. Pandev,L. Rigoni,1
+L. Rigoni,A. Bertolacci,1

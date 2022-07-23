@@ -1,0 +1,8 @@
+Source,Target,Weight
+A. Duncan,F. Peluso,2
+F. Peluso,M. Politano,2
+F. Magnanelli,Pol Lirola,1
+F. Magnanelli,A. Duncan,1
+Pol Lirola,M. Politano,1
+M. Politano,F. Magnanelli,1
+M. Politano,A. Duncan,1

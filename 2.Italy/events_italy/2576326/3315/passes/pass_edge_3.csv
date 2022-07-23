@@ -1,0 +1,40 @@
+Source,Target,Weight
+A. Duncan,Rog\u00e9rio,3
+F. Acerbi,A. Consigli,2
+M. Politano,F. Magnanelli,2
+Rog\u00e9rio,M. Politano,2
+A. Duncan,C. Dell'Orco,2
+A. Consigli,S. Missiroli,2
+S. Missiroli,A. Duncan,2
+C. Dell'Orco,F. Acerbi,2
+F. Acerbi,A. Duncan,1
+S. Missiroli,M. Politano,1
+C. Dell'Orco,A. Duncan,1
+S. Missiroli,M. Lemos,1
+D. Berardi,F. Magnanelli,1
+S. Missiroli,D. Berardi,1
+M. Politano,D. Berardi,1
+Rog\u00e9rio,A. Consigli,1
+C. Adjapong,Rog\u00e9rio,1
+M. Lemos,C. Dell'Orco,1
+F. Magnanelli,M. Lemos,1
+A. Duncan,D. Berardi,1
+F. Magnanelli,C. Dell'Orco,1
+C. Dell'Orco,M. Lemos,1
+D. Berardi,S. Missiroli,1
+M. Lemos,C. Adjapong,1
+C. Adjapong,S. Missiroli,1
+F. Acerbi,M. Lemos,1
+C. Adjapong,M. Lemos,1
+M. Politano,A. Duncan,1
+A. Consigli,F. Acerbi,1
+M. Lemos,S. Missiroli,1
+M. Lemos,D. Berardi,1
+A. Duncan,F. Acerbi,1
+Rog\u00e9rio,A. Duncan,1
+S. Missiroli,C. Adjapong,1
+M. Lemos,A. Duncan,1
+Rog\u00e9rio,F. Acerbi,1
+F. Acerbi,C. Adjapong,1
+F. Magnanelli,S. Missiroli,1
+D. Berardi,M. Politano,1

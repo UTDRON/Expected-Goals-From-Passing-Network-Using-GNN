@@ -1,0 +1,31 @@
+Source,Target,Weight
+M. de Roon,M. Barrow,2
+M. Barrow,M. de Roon,2
+M. Barrow,R. Freuler,2
+B. Cristante,A. G\u00f3mez,2
+R. Freuler,T. Castagne,1
+B. Cristante,Rafael Tol\u00f3i,1
+M. Barrow,R. Gosens,1
+R. Gosens,M. Barrow,1
+M. Barrow,A. G\u00f3mez,1
+A. G\u00f3mez,R. Freuler,1
+R. Freuler,R. Gosens,1
+T. Castagne,E. Berisha,1
+Rafael Tol\u00f3i,T. Castagne,1
+G. Mancini,R. Freuler,1
+M. Caldara,G. Mancini,1
+Rafael Tol\u00f3i,A. Bastoni,1
+T. Castagne,Rafael Tol\u00f3i,1
+Rafael Tol\u00f3i,M. Barrow,1
+A. G\u00f3mez,R. Gosens,1
+E. Berisha,M. Caldara,1
+Rafael Tol\u00f3i,B. Cristante,1
+G. Mancini,M. de Roon,1
+R. Freuler,A. G\u00f3mez,1
+R. Gosens,B. Cristante,1
+A. Bastoni,Rafael Tol\u00f3i,1
+A. G\u00f3mez,M. Barrow,1
+R. Freuler,M. Barrow,1
+R. Gosens,G. Mancini,1
+A. G\u00f3mez,Rafael Tol\u00f3i,1
+M. de Roon,B. Cristante,1

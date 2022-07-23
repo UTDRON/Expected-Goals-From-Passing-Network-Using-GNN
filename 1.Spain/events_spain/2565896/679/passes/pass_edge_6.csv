@@ -1,0 +1,44 @@
+Source,Target,Weight
+Thomas,Gabi,3
+Gabi,Vitolo,3
+Vitolo,Gabi,3
+\u00c1. Correa,Gabi,3
+Gabi,Thomas,2
+Thomas,\u00c1. Correa,2
+Vitolo,K. Gameiro,2
+K. Gameiro,Vitolo,2
+Gabi,\u00c1. Correa,2
+L. Hern\u00e1ndez,A. Werner,1
+A. Werner,Thomas,1
+S. Savi\u0107,Thomas,1
+Vitolo,Fernando Torres,1
+Fernando Torres,Vitolo,1
+\u00c1. Correa,K. Gameiro,1
+S. Savi\u0107,A. Werner,1
+D. God\u00edn,L. Hern\u00e1ndez,1
+Fernando Torres,Gabi,1
+K. Gameiro,S. Savi\u0107,1
+S. Savi\u0107,D. God\u00edn,1
+Vitolo,D. God\u00edn,1
+Gabi,S. Savi\u0107,1
+Thomas,L. Hern\u00e1ndez,1
+Gabi,\u0160. Vrsaljko,1
+K. Gameiro,L. Hern\u00e1ndez,1
+L. Hern\u00e1ndez,K. Gameiro,1
+L. Hern\u00e1ndez,Vitolo,1
+\u0160. Vrsaljko,Thomas,1
+A. Werner,\u0160. Vrsaljko,1
+Gabi,D. God\u00edn,1
+Vitolo,L. Hern\u00e1ndez,1
+\u00c1. Correa,\u0160. Vrsaljko,1
+Thomas,Vitolo,1
+D. God\u00edn,Gabi,1
+L. Hern\u00e1ndez,Gabi,1
+\u0160. Vrsaljko,Gabi,1
+Gabi,L. Hern\u00e1ndez,1
+D. God\u00edn,S. Savi\u0107,1
+L. Hern\u00e1ndez,Thomas,1
+\u0160. Vrsaljko,D. God\u00edn,1
+K. Gameiro,Thomas,1
+Gabi,K. Gameiro,1
+Gabi,Fernando Torres,1

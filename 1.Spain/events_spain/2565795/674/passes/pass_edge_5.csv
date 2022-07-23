@@ -1,0 +1,84 @@
+Source,Target,Weight
+Carlos Soler,Montoya,9
+Dani Parejo,Carlos Soler,7
+Dani Parejo,Rodrigo,6
+Gabriel,Dani Parejo,6
+Jos\u00e9 Gay\u00e1,J. Murillo,6
+Montoya,Gabriel,5
+Gon\u00e7alo Guedes,Jos\u00e9 Gay\u00e1,5
+Montoya,Rodrigo,5
+Gabriel,Montoya,5
+Jos\u00e9 Gay\u00e1,F. Coquelin,5
+Jos\u00e9 Gay\u00e1,Gon\u00e7alo Guedes,5
+Carlos Soler,Dani Parejo,4
+J. Murillo,Jos\u00e9 Gay\u00e1,4
+Montoya,Carlos Soler,4
+Dani Parejo,Gon\u00e7alo Guedes,4
+Rodrigo,Dani Parejo,4
+F. Coquelin,Jos\u00e9 Gay\u00e1,4
+F. Coquelin,Gabriel,4
+Rodrigo,Carlos Soler,4
+Santi Mina,Dani Parejo,4
+Gabriel,Carlos Soler,4
+F. Coquelin,Dani Parejo,4
+J. Murillo,Santi Mina,3
+Carlos Soler,Gon\u00e7alo Guedes,3
+Gon\u00e7alo Guedes,Dani Parejo,3
+Carlos Soler,F. Coquelin,3
+Montoya,Dani Parejo,3
+Dani Parejo,J. Murillo,3
+Carlos Soler,Gabriel,3
+Santi Mina,Jos\u00e9 Gay\u00e1,3
+Santi Mina,Gon\u00e7alo Guedes,3
+Dani Parejo,Santi Mina,3
+J. Murillo,Gabriel,3
+Jos\u00e9 Gay\u00e1,Santi Mina,3
+Rodrigo,Jos\u00e9 Gay\u00e1,3
+Montoya,F. Coquelin,3
+Gon\u00e7alo Guedes,Carlos Soler,3
+Rodrigo,Santi Mina,3
+Gon\u00e7alo Guedes,J. Murillo,2
+Carlos Soler,Rodrigo,2
+Santi Mina,Carlos Soler,2
+Jos\u00e9 Gay\u00e1,Montoya,2
+F. Coquelin,Rodrigo,2
+Gon\u00e7alo Guedes,Montoya,2
+Carlos Soler,Jos\u00e9 Gay\u00e1,2
+Neto,F. Coquelin,2
+Santi Mina,J. Murillo,2
+Dani Parejo,Montoya,2
+Montoya,Santi Mina,2
+Dani Parejo,F. Coquelin,2
+Gon\u00e7alo Guedes,Rodrigo,2
+Rodrigo,Montoya,2
+Gon\u00e7alo Guedes,Santi Mina,2
+Gon\u00e7alo Guedes,Neto,1
+Neto,J. Murillo,1
+Santi Mina,Neto,1
+F. Coquelin,Gon\u00e7alo Guedes,1
+Dani Parejo,Jos\u00e9 Gay\u00e1,1
+Jos\u00e9 Gay\u00e1,Dani Parejo,1
+Neto,Rodrigo,1
+F. Coquelin,Neto,1
+Neto,Gon\u00e7alo Guedes,1
+Gabriel,F. Coquelin,1
+Rodrigo,F. Coquelin,1
+Neto,Gabriel,1
+J. Murillo,Gon\u00e7alo Guedes,1
+Rodrigo,Gon\u00e7alo Guedes,1
+J. Murillo,F. Coquelin,1
+Gon\u00e7alo Guedes,Gabriel,1
+F. Coquelin,Santi Mina,1
+Dani Parejo,Neto,1
+Gabriel,Neto,1
+J. Murillo,Montoya,1
+F. Coquelin,Carlos Soler,1
+Montoya,Jos\u00e9 Gay\u00e1,1
+Jos\u00e9 Gay\u00e1,Rodrigo,1
+Gabriel,Jos\u00e9 Gay\u00e1,1
+J. Murillo,Neto,1
+S. Zaza,Gon\u00e7alo Guedes,1
+F. Coquelin,S. Zaza,1
+Jos\u00e9 Gay\u00e1,Carlos Soler,1
+Santi Mina,F. Coquelin,1
+Rodrigo,Gabriel,1

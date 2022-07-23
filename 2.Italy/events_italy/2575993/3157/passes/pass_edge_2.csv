@@ -1,0 +1,41 @@
+Source,Target,Weight
+G. Bonaventura,A. Romagnoli,5
+A. Romagnoli,L. Biglia,4
+A. Romagnoli,L. Bonucci,3
+L. Biglia,M. Musacchio,3
+L. Biglia,Suso,3
+M. Musacchio,F. Kessi\u00e9,3
+L. Bonucci,G. Donnarumma,2
+L. Biglia,A. Romagnoli,2
+G. Bonaventura,R. Rodr\u00edguez,2
+M. Musacchio,L. Biglia,2
+R. Rodr\u00edguez,G. Bonaventura,2
+L. Bonucci,D. Calabria,2
+D. Calabria,M. Musacchio,1
+F. Kessi\u00e9,N. Kalini\u0107,1
+F. Kessi\u00e9,M. Musacchio,1
+R. Rodr\u00edguez,M. Musacchio,1
+G. Bonaventura,L. Biglia,1
+G. Donnarumma,A. Romagnoli,1
+Suso,F. Kessi\u00e9,1
+Suso,R. Rodr\u00edguez,1
+Suso,L. Bonucci,1
+A. Romagnoli,G. Bonaventura,1
+N. Kalini\u0107,L. Bonucci,1
+D. Calabria,F. Kessi\u00e9,1
+Suso,D. Calabria,1
+M. Musacchio,G. Donnarumma,1
+G. Donnarumma,Suso,1
+D. Calabria,L. Biglia,1
+F. Kessi\u00e9,G. Bonaventura,1
+L. Bonucci,L. Biglia,1
+L. Biglia,L. Bonucci,1
+A. Romagnoli,R. Rodr\u00edguez,1
+G. Donnarumma,L. Biglia,1
+L. Bonucci,G. Bonaventura,1
+R. Rodr\u00edguez,A. Romagnoli,1
+Suso,G. Bonaventura,1
+F. Kessi\u00e9,L. Bonucci,1
+L. Bonucci,M. Musacchio,1
+L. Biglia,G. Bonaventura,1
+M. Musacchio,Suso,1

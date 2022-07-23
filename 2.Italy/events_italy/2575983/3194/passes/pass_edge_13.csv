@@ -1,0 +1,43 @@
+Source,Target,Weight
+M. B\u00fcchel,M. Fares,3
+M. Valoti,M. B\u00fcchel,3
+M. C\u00e1ceres,M. Valoti,3
+M. Fares,T. Heurtaux,3
+M. C\u00e1ceres,R\u00f4mulo,2
+Nicolas,Daniel Bessa,2
+Daniel Bessa,D. Verde,2
+T. Heurtaux,M. C\u00e1ceres,2
+R\u00f4mulo,M. C\u00e1ceres,2
+M. Valoti,Daniel Bessa,2
+M. Fares,G. Pazzini,2
+G. Pazzini,M. Valoti,2
+Nicolas,M. B\u00fcchel,2
+M. C\u00e1ceres,M. Fares,1
+M. Fares,M. C\u00e1ceres,1
+M. B\u00fcchel,Daniel Bessa,1
+R\u00f4mulo,D. Verde,1
+Daniel Bessa,R\u00f4mulo,1
+M. Valoti,M. C\u00e1ceres,1
+M. B\u00fcchel,M. C\u00e1ceres,1
+M. B\u00fcchel,M. Valoti,1
+Daniel Bessa,Nicolas,1
+Daniel Bessa,M. Valoti,1
+D. Verde,Nicolas,1
+D. Verde,G. Pazzini,1
+Nicolas,R\u00f4mulo,1
+D. Verde,M. B\u00fcchel,1
+Nicolas,G. Pazzini,1
+D. Verde,M. Valoti,1
+R\u00f4mulo,T. Heurtaux,1
+M. Valoti,M. Fares,1
+T. Heurtaux,Nicolas,1
+M. C\u00e1ceres,D. Verde,1
+T. Heurtaux,G. Pazzini,1
+M. Fares,Nicolas,1
+M. Valoti,Nicolas,1
+M. Fares,Daniel Bessa,1
+M. B\u00fcchel,T. Heurtaux,1
+T. Heurtaux,M. Fares,1
+G. Pazzini,M. Fares,1
+G. Pazzini,M. B\u00fcchel,1
+Daniel Bessa,M. Fares,1

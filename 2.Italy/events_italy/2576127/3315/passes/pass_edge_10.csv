@@ -1,0 +1,13 @@
+Source,Target,Weight
+Pol Lirola,D. Falcinelli,2
+S. Missiroli,Pol Lirola,1
+F. Acerbi,F. Peluso,1
+S. Missiroli,F. Acerbi,1
+A. Consigli,Pol Lirola,1
+A. Consigli,S. Missiroli,1
+D. Berardi,F. Acerbi,1
+D. Berardi,S. Missiroli,1
+F. Peluso,A. Consigli,1
+A. Duncan,D. Berardi,1
+F. Acerbi,A. Duncan,1
+D. Falcinelli,D. Berardi,1

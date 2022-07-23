@@ -1,0 +1,52 @@
+Source,Target,Weight
+Dani Castellano,O. Etebo,3
+J. Calleri,I. Ezekiel,3
+O. Etebo,L. Chichizola,3
+L. Chichizola,G\u00e1lvez,3
+L. Chichizola,J. Calleri,2
+M\u00edchel,G\u00e1lvez,2
+J. Calleri,Dani Castellano,2
+J. Calleri,A. Aquilani,2
+I. Ezekiel,O. Etebo,2
+I. Ezekiel,A. Aquilani,2
+G\u00e1lvez,L. Chichizola,2
+O. Etebo,Dani Castellano,2
+A. Aquilani,O. Etebo,2
+Nacho Gil,Dani Castellano,2
+Dani Castellano,Nacho Gil,2
+G\u00e1lvez,M\u00edchel,2
+Dani Castellano,M\u00edchel,2
+M\u00edchel,I. Ezekiel,2
+O. Etebo,G\u00e1lvez,1
+J. Calleri,Ximo Navarro,1
+Ximo Navarro,O. Etebo,1
+O. Etebo,Vicente G\u00f3mez,1
+O. Etebo,I. Ezekiel,1
+Dani Castellano,Vicente G\u00f3mez,1
+Ximo Navarro,Nacho Gil,1
+G\u00e1lvez,A. Aquilani,1
+O. Etebo,Ximo Navarro,1
+O. Etebo,A. Aquilani,1
+G\u00e1lvez,I. Ezekiel,1
+M\u00edchel,L. Chichizola,1
+Dani Castellano,A. Aquilani,1
+A. Aquilani,G\u00e1lvez,1
+Ximo Navarro,Dani Castellano,1
+G\u00e1lvez,O. Etebo,1
+Vicente G\u00f3mez,J. Calleri,1
+I. Ezekiel,Dani Castellano,1
+L. Chichizola,Ximo Navarro,1
+Ximo Navarro,L. Chichizola,1
+L. Chichizola,M\u00edchel,1
+A. Aquilani,I. Ezekiel,1
+A. Aquilani,Vicente G\u00f3mez,1
+Vicente G\u00f3mez,O. Etebo,1
+I. Ezekiel,J. Calleri,1
+G\u00e1lvez,J. Calleri,1
+Nacho Gil,Ximo Navarro,1
+I. Ezekiel,G\u00e1lvez,1
+Ximo Navarro,J. Calleri,1
+A. Aquilani,J. Calleri,1
+Nacho Gil,J. Calleri,1
+A. Aquilani,Dani Castellano,1
+I. Ezekiel,Nacho Gil,1

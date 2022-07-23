@@ -1,0 +1,92 @@
+Source,Target,Weight
+F. Helander,A. Masina,10
+G. Gonz\u00e1lez,I. M'baye,8
+I. M'baye,E. Pulgar,8
+I. M'baye,G. Gonz\u00e1lez,7
+I. M'baye,S. Verdi,6
+A. Masina,F. Di Francesco,6
+S. Verdi,I. M'baye,6
+I. M'baye,R. Palacio,5
+E. Pulgar,A. Masina,5
+G. Gonz\u00e1lez,F. Helander,5
+A. Masina,G. Gonz\u00e1lez,4
+A. Masina,F. Helander,4
+S. Verdi,F. Di Francesco,4
+E. Pulgar,I. M'baye,4
+A. Masina,G. Donsah,3
+S. Verdi,G. Gonz\u00e1lez,3
+F. Helander,E. Pulgar,3
+A. Mirante,F. Helander,3
+E. Pulgar,S. Verdi,3
+S. Verdi,A. Masina,3
+A. Masina,S. Verdi,3
+F. Di Francesco,A. Masina,3
+E. Pulgar,G. Donsah,3
+F. Helander,I. M'baye,3
+R. Palacio,I. M'baye,3
+I. M'baye,F. Helander,2
+G. Gonz\u00e1lez,S. Ta\u00efder,2
+F. Di Francesco,E. Pulgar,2
+S. Ta\u00efder,S. Verdi,2
+S. Ta\u00efder,A. Masina,2
+G. Gonz\u00e1lez,E. Pulgar,2
+F. Helander,R. Palacio,2
+\u00c1. Nagy,E. Pulgar,2
+R. Palacio,F. Helander,2
+A. Mirante,G. Gonz\u00e1lez,2
+S. Verdi,\u00c1. Nagy,2
+E. Pulgar,S. Ta\u00efder,2
+M. Destro,I. M'baye,2
+G. Gonz\u00e1lez,A. Mirante,2
+F. Di Francesco,S. Verdi,2
+S. Verdi,F. Helander,2
+G. Donsah,I. M'baye,2
+F. Helander,G. Gonz\u00e1lez,2
+A. Masina,A. Mirante,2
+R. Palacio,S. Ta\u00efder,2
+F. Helander,S. Verdi,2
+S. Ta\u00efder,F. Helander,2
+G. Donsah,E. Pulgar,2
+G. Donsah,F. Di Francesco,1
+F. Di Francesco,I. M'baye,1
+S. Ta\u00efder,G. Gonz\u00e1lez,1
+\u00c1. Nagy,S. Verdi,1
+G. Donsah,R. Palacio,1
+R. Palacio,S. Verdi,1
+A. Mirante,A. Masina,1
+S. Verdi,R. Palacio,1
+G. Donsah,A. Mirante,1
+G. Gonz\u00e1lez,R. Palacio,1
+M. Destro,G. Gonz\u00e1lez,1
+S. Verdi,G. Donsah,1
+R. Palacio,G. Donsah,1
+E. Pulgar,G. Gonz\u00e1lez,1
+A. Mirante,I. M'baye,1
+E. Pulgar,M. Destro,1
+M. Destro,F. Helander,1
+A. Masina,R. Palacio,1
+I. M'baye,M. Destro,1
+I. M'baye,S. Ta\u00efder,1
+C. Falletti,S. Verdi,1
+A. Masina,E. Pulgar,1
+G. Gonz\u00e1lez,S. Verdi,1
+F. Helander,S. Ta\u00efder,1
+\u00c1. Nagy,I. M'baye,1
+G. Gonz\u00e1lez,M. Destro,1
+A. Masina,M. Destro,1
+E. Pulgar,\u00c1. Nagy,1
+F. Di Francesco,G. Gonz\u00e1lez,1
+F. Di Francesco,G. Donsah,1
+G. Donsah,F. Helander,1
+I. M'baye,A. Mirante,1
+M. Destro,C. Falletti,1
+G. Donsah,A. Masina,1
+E. Pulgar,F. Helander,1
+R. Palacio,G. Gonz\u00e1lez,1
+F. Di Francesco,M. Destro,1
+S. Ta\u00efder,I. M'baye,1
+I. M'baye,\u00c1. Nagy,1
+F. Di Francesco,A. Mirante,1
+S. Verdi,E. Pulgar,1
+G. Gonz\u00e1lez,F. Di Francesco,1
+R. Palacio,M. Destro,1

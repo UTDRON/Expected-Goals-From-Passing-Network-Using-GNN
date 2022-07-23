@@ -1,0 +1,32 @@
+Source,Target,Weight
+Coke,C. Doukour\u00e9,3
+C. Doukour\u00e9,Coke,3
+Ivi,Jason,3
+Ivi,C. Doukour\u00e9,2
+Jason,C. Doukour\u00e9,2
+C. Doukour\u00e9,J. Lerma,2
+Luna,Ivi,2
+Jason,Chema,2
+Coke,Jason,2
+Jos\u00e9 Luis Morales,Luna,1
+C. Doukour\u00e9,E. Cabaco,1
+Coke,Oier,1
+Luna,Campa\u00f1a,1
+Jason,Coke,1
+J. Lerma,Jason,1
+E. Cabaco,C. Doukour\u00e9,1
+Campa\u00f1a,Ivi,1
+Coke,Ivi,1
+Campa\u00f1a,Coke,1
+C. Doukour\u00e9,Luna,1
+Oier,C. Doukour\u00e9,1
+Chema,Luna,1
+J. Lerma,Coke,1
+Jos\u00e9 Luis Morales,Campa\u00f1a,1
+C. Doukour\u00e9,Ivi,1
+C. Doukour\u00e9,Campa\u00f1a,1
+Jason,J. Lerma,1
+Chema,Ivi,1
+Ivi,Jos\u00e9 Luis Morales,1
+Ivi,Coke,1
+J. Lerma,Jos\u00e9 Luis Morales,1

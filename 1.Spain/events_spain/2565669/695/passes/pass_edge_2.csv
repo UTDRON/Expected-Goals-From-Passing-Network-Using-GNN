@@ -1,0 +1,60 @@
+Source,Target,Weight
+S. Moore,Rober,5
+Rober,S. Moore,4
+Campa\u00f1a,S. Moore,3
+Rober,Chema,3
+To\u00f1o,Oier,3
+E. Bardhi,To\u00f1o,3
+C. Doukour\u00e9,Jason,3
+Chema,Campa\u00f1a,3
+To\u00f1o,E. Bardhi,2
+Oier,Chema,2
+E. Bardhi,Rober,2
+To\u00f1o,Chema,2
+S. Moore,To\u00f1o,2
+C. Doukour\u00e9,Rober,2
+Jason,C. Doukour\u00e9,2
+Chema,To\u00f1o,2
+Rober,Campa\u00f1a,2
+C. Doukour\u00e9,S. Moore,2
+Campa\u00f1a,C. Doukour\u00e9,2
+E. \u00dcnal,E. Bardhi,1
+Rober,E. \u00dcnal,1
+Jason,Campa\u00f1a,1
+Jason,E. Bardhi,1
+Chema,E. \u00dcnal,1
+Rober,C. Doukour\u00e9,1
+Oier,C. Doukour\u00e9,1
+S. Moore,Jason,1
+S. Moore,E. Bardhi,1
+S. Moore,C. Doukour\u00e9,1
+Jos\u00e9 Luis Morales,Rober,1
+Campa\u00f1a,Chema,1
+E. Bardhi,Oier,1
+Chema,Oier,1
+E. Bardhi,Jos\u00e9 Luis Morales,1
+S. Moore,Chema,1
+Oier,E. Bardhi,1
+Jos\u00e9 Luis Morales,E. Bardhi,1
+E. Bardhi,S. Moore,1
+Campa\u00f1a,To\u00f1o,1
+E. \u00dcnal,Campa\u00f1a,1
+Oier,S. Moore,1
+Chema,Rober,1
+Oier,To\u00f1o,1
+Chema,S. Moore,1
+S. Moore,Jos\u00e9 Luis Morales,1
+C. Doukour\u00e9,E. Bardhi,1
+Jason,Chema,1
+Campa\u00f1a,E. Bardhi,1
+Jos\u00e9 Luis Morales,Jason,1
+C. Doukour\u00e9,Campa\u00f1a,1
+Campa\u00f1a,Oier,1
+Oier,Jos\u00e9 Luis Morales,1
+To\u00f1o,C. Doukour\u00e9,1
+C. Doukour\u00e9,To\u00f1o,1
+Rober,Oier,1
+E. Bardhi,Jason,1
+To\u00f1o,Rober,1
+Chema,C. Doukour\u00e9,1
+To\u00f1o,Campa\u00f1a,1

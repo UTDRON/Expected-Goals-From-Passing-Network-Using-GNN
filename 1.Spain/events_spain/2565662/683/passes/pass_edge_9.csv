@@ -1,0 +1,46 @@
+Source,Target,Weight
+R. Rosales,Juanpi,6
+Juanpi,R. Rosales,4
+Adri\u00e1n,Chory Castro,3
+P. Baysse,Luis Hern\u00e1ndez,2
+Juanpi,Adri\u00e1n,2
+D. Rol\u00e1n,Chory Castro,2
+Chory Castro,Luis Hern\u00e1ndez,2
+Luis Hern\u00e1ndez,Chory Castro,2
+Chory Castro,Juankar,2
+Juankar,P. Baysse,2
+D. Rol\u00e1n,Juankar,2
+Javi Ontiveros,D. Rol\u00e1n,1
+Juankar,Chory Castro,1
+Luis Hern\u00e1ndez,Javi Ontiveros,1
+Adri\u00e1n,Javi Ontiveros,1
+Javi Ontiveros,Adri\u00e1n,1
+Luis Hern\u00e1ndez,Adri\u00e1n,1
+Chory Castro,Adri\u00e1n,1
+Luis Hern\u00e1ndez,R. Rosales,1
+Juanpi,Javi Ontiveros,1
+R. Rosales,P. Baysse,1
+Adri\u00e1n,R. Rosales,1
+R. Rosales,Javi Ontiveros,1
+Javi Ontiveros,Luis Hern\u00e1ndez,1
+Javi Ontiveros,R. Rosales,1
+Borja Bast\u00f3n,Chory Castro,1
+Adri\u00e1n,D. Rol\u00e1n,1
+Chory Castro,R. Rosales,1
+Chory Castro,D. Rol\u00e1n,1
+Chory Castro,Juanpi,1
+P. Baysse,Juankar,1
+P. Baysse,D. Rol\u00e1n,1
+R. Rosales,Borja Bast\u00f3n,1
+Chory Castro,P. Baysse,1
+Borja Bast\u00f3n,R. Rosales,1
+Juanpi,Borja Bast\u00f3n,1
+Javi Ontiveros,P. Baysse,1
+Luis Hern\u00e1ndez,Juanpi,1
+Juankar,D. Rol\u00e1n,1
+P. Baysse,Borja Bast\u00f3n,1
+D. Rol\u00e1n,Adri\u00e1n,1
+Adri\u00e1n,Juanpi,1
+Juankar,Adri\u00e1n,1
+Juanpi,Chory Castro,1
+Chory Castro,Javi Ontiveros,1

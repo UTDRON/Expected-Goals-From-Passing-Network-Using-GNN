@@ -1,0 +1,30 @@
+Source,Target,Weight
+N. Radoja,Hugo Mallo,2
+Hugo Mallo,N. Radoja,2
+S. Lobotka,Sergi G\u00f3mez,2
+Sergi G\u00f3mez,Jonny,1
+Sergi G\u00f3mez,Maxi G\u00f3mez,1
+Jonny,Sergi G\u00f3mez,1
+Iago Aspas,P. Hern\u00e1ndez,1
+Hugo Mallo,Iago Aspas,1
+P. Hern\u00e1ndez,Sergi G\u00f3mez,1
+P. Hern\u00e1ndez,S. Lobotka,1
+Maxi G\u00f3mez,F. Roncaglia,1
+Hugo Mallo,S. Lobotka,1
+Sergi G\u00f3mez,Rub\u00e9n Blanco,1
+Sergi G\u00f3mez,F. Roncaglia,1
+Rub\u00e9n Blanco,P. Hern\u00e1ndez,1
+P. Hern\u00e1ndez,Hugo Mallo,1
+N. Radoja,Rub\u00e9n Blanco,1
+Jonny,E. Mor,1
+F. Roncaglia,S. Lobotka,1
+Sergi G\u00f3mez,P. Hern\u00e1ndez,1
+Rub\u00e9n Blanco,N. Radoja,1
+E. Mor,Sergi G\u00f3mez,1
+P. Hern\u00e1ndez,Jonny,1
+F. Roncaglia,Hugo Mallo,1
+Sergi G\u00f3mez,S. Lobotka,1
+Rub\u00e9n Blanco,Sergi G\u00f3mez,1
+S. Lobotka,Rub\u00e9n Blanco,1
+S. Lobotka,Hugo Mallo,1
+Hugo Mallo,Maxi G\u00f3mez,1

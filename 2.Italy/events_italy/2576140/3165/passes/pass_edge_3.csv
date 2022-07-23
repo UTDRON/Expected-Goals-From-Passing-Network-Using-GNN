@@ -1,0 +1,25 @@
+Source,Target,Weight
+V. Birsa,N. Tomovi\u0107,2
+P. Hetemaj,I. Radovanovi\u0107,2
+F. Depaoli,N. Tomovi\u0107,2
+N. Tomovi\u0107,F. Cacciatore,2
+F. Cacciatore,F. Depaoli,2
+I. Radovanovi\u0107,P. Hetemaj,2
+N. Tomovi\u0107,P. Hetemaj,1
+F. Cacciatore,N. Tomovi\u0107,1
+M. Gobbi,N. Tomovi\u0107,1
+N. Tomovi\u0107,M. Gobbi,1
+N. Tomovi\u0107,I. Radovanovi\u0107,1
+P. Hetemaj,F. Cacciatore,1
+P. Hetemaj,M. Gobbi,1
+N. Tomovi\u0107,V. Birsa,1
+F. Cacciatore,V. Birsa,1
+I. Radovanovi\u0107,R. Inglese,1
+N. Tomovi\u0107,B. Cesar,1
+S. Sorrentino,F. Cacciatore,1
+M. Gobbi,I. Radovanovi\u0107,1
+P. Hetemaj,S. Sorrentino,1
+R. Inglese,V. Birsa,1
+B. Cesar,P. Hetemaj,1
+I. Radovanovi\u0107,N. Tomovi\u0107,1
+V. Birsa,F. Depaoli,1

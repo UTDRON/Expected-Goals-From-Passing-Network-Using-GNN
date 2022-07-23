@@ -1,0 +1,37 @@
+Source,Target,Weight
+Timor,Bernardo Espinosa,3
+Timor,Borja Garc\u00eda,3
+Aday,Ramalho,2
+\u00c1lex Granell,Juanpe,2
+Bernardo Espinosa,\u00c1lex Granell,2
+Bernardo Espinosa,Aday,2
+Aday,Timor,2
+Juanpe,Timor,2
+Bernardo Espinosa,Juanpe,2
+Ramalho,\u00c1lex Granell,1
+Juanpe,Aday,1
+Timor,C. Stuani,1
+C. Stuani,J. Mojica,1
+J. Mojica,Timor,1
+Juanpe,Bernardo Espinosa,1
+Choco Lozano,Aday,1
+Borja Garc\u00eda,Choco Lozano,1
+Aday,Choco Lozano,1
+Juanpe,Y. Bounou,1
+Y. Bounou,J. Mojica,1
+Ramalho,Timor,1
+Borja Garc\u00eda,Timor,1
+C. Stuani,Timor,1
+Choco Lozano,Juanpe,1
+Juanpe,C. Stuani,1
+Timor,J. Mojica,1
+Borja Garc\u00eda,Juanpe,1
+Timor,Aday,1
+\u00c1lex Granell,Timor,1
+J. Mojica,M. Olunga,1
+Aday,Bernardo Espinosa,1
+J. Mojica,Bernardo Espinosa,1
+M. Olunga,Timor,1
+Ramalho,Bernardo Espinosa,1
+Bernardo Espinosa,Ramalho,1
+Ramalho,Aday,1

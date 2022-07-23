@@ -1,0 +1,99 @@
+Source,Target,Weight
+Sergio Ramos,Marcelo,7
+Marcelo,Sergio Ramos,6
+Marcelo,T. Kroos,5
+Cristiano Ronaldo,Marcelo,5
+Daniel Carvajal,R. Varane,5
+M. Kova\u010di\u0107,Isco,5
+Isco,M. Kova\u010di\u0107,4
+R. Varane,Daniel Carvajal,4
+Isco,Sergio Ramos,4
+Marcelo,Isco,4
+Isco,Marcelo,4
+Marcelo,Cristiano Ronaldo,3
+G. Bale,Cristiano Ronaldo,3
+M. Kova\u010di\u0107,R. Varane,3
+Marcelo,K. Benzema,3
+T. Kroos,M. Kova\u010di\u0107,3
+T. Kroos,Sergio Ramos,3
+T. Kroos,Daniel Carvajal,3
+T. Kroos,Isco,3
+Sergio Ramos,M. Kova\u010di\u0107,3
+L. Modri\u0107,T. Kroos,3
+Marco Asensio,Sergio Ramos,3
+Daniel Carvajal,Lucas V\u00e1zquez,3
+Isco,Cristiano Ronaldo,3
+R. Varane,T. Kroos,3
+Lucas V\u00e1zquez,Marco Asensio,3
+Isco,K. Benzema,2
+Cristiano Ronaldo,Isco,2
+Marco Asensio,L. Modri\u0107,2
+K. Benzema,Marcelo,2
+Daniel Carvajal,L. Modri\u0107,2
+T. Kroos,Marcelo,2
+R. Varane,M. Kova\u010di\u0107,2
+Sergio Ramos,Isco,2
+T. Kroos,R. Varane,2
+Cristiano Ronaldo,Daniel Carvajal,2
+Daniel Carvajal,K. Navas,2
+Sergio Ramos,T. Kroos,2
+Marco Asensio,T. Kroos,2
+Daniel Carvajal,G. Bale,2
+Cristiano Ronaldo,G. Bale,2
+Sergio Ramos,Daniel Carvajal,2
+Marcelo,L. Modri\u0107,2
+Daniel Carvajal,M. Kova\u010di\u0107,2
+M. Kova\u010di\u0107,Sergio Ramos,2
+Daniel Carvajal,Marco Asensio,2
+Marco Asensio,Daniel Carvajal,2
+L. Modri\u0107,Lucas V\u00e1zquez,2
+K. Benzema,Marco Asensio,2
+R. Varane,Lucas V\u00e1zquez,2
+M. Kova\u010di\u0107,Daniel Carvajal,1
+Isco,Daniel Carvajal,1
+T. Kroos,Lucas V\u00e1zquez,1
+Marco Asensio,Marcelo,1
+K. Navas,Marcelo,1
+K. Benzema,Cristiano Ronaldo,1
+L. Modri\u0107,K. Benzema,1
+Daniel Carvajal,Isco,1
+K. Navas,T. Kroos,1
+Sergio Ramos,Cristiano Ronaldo,1
+Sergio Ramos,Lucas V\u00e1zquez,1
+K. Navas,Sergio Ramos,1
+K. Benzema,R. Varane,1
+R. Varane,Sergio Ramos,1
+Sergio Ramos,Marco Asensio,1
+K. Benzema,Isco,1
+Marcelo,Daniel Carvajal,1
+K. Benzema,T. Kroos,1
+R. Varane,Marcelo,1
+Cristiano Ronaldo,R. Varane,1
+Lucas V\u00e1zquez,Sergio Ramos,1
+Lucas V\u00e1zquez,R. Varane,1
+M. Kova\u010di\u0107,K. Navas,1
+Lucas V\u00e1zquez,Cristiano Ronaldo,1
+L. Modri\u0107,Marco Asensio,1
+Isco,Marco Asensio,1
+Marcelo,M. Kova\u010di\u0107,1
+T. Kroos,L. Modri\u0107,1
+G. Bale,Daniel Carvajal,1
+K. Navas,Marco Asensio,1
+M. Kova\u010di\u0107,Marcelo,1
+R. Varane,Isco,1
+Lucas V\u00e1zquez,K. Benzema,1
+T. Kroos,Cristiano Ronaldo,1
+Sergio Ramos,K. Benzema,1
+M. Kova\u010di\u0107,G. Bale,1
+M. Kova\u010di\u0107,T. Kroos,1
+K. Navas,R. Varane,1
+G. Bale,T. Kroos,1
+Lucas V\u00e1zquez,L. Modri\u0107,1
+Cristiano Ronaldo,K. Benzema,1
+R. Varane,K. Navas,1
+L. Modri\u0107,K. Navas,1
+Isco,G. Bale,1
+Sergio Ramos,R. Varane,1
+Marco Asensio,Isco,1
+Lucas V\u00e1zquez,Marcelo,1
+K. Benzema,Daniel Carvajal,1

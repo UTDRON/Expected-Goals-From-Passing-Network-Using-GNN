@@ -1,0 +1,58 @@
+Source,Target,Weight
+R. Gosens,R. Freuler,4
+A. G\u00f3mez,R. Freuler,3
+H. Hateboer,B. Cristante,3
+R. Freuler,R. Gosens,3
+B. Cristante,Rafael Tol\u00f3i,3
+B. Cristante,H. Hateboer,3
+R. Freuler,A. G\u00f3mez,3
+Rafael Tol\u00f3i,H. Hateboer,3
+M. Barrow,B. Cristante,3
+A. G\u00f3mez,M. Barrow,2
+B. Cristante,M. Barrow,2
+R. Freuler,G. Mancini,2
+Rafael Tol\u00f3i,M. Caldara,2
+M. de Roon,Rafael Tol\u00f3i,2
+M. Caldara,M. de Roon,2
+H. Hateboer,M. Barrow,2
+G. Mancini,A. G\u00f3mez,2
+R. Gosens,A. G\u00f3mez,2
+M. Caldara,E. Berisha,2
+M. de Roon,B. Cristante,2
+M. de Roon,H. Hateboer,2
+Rafael Tol\u00f3i,M. de Roon,1
+A. G\u00f3mez,M. de Roon,1
+G. Mancini,R. Gosens,1
+B. Cristante,M. Caldara,1
+M. de Roon,G. Mancini,1
+R. Freuler,M. Barrow,1
+M. Barrow,R. Freuler,1
+H. Hateboer,R. Freuler,1
+A. G\u00f3mez,R. Gosens,1
+Rafael Tol\u00f3i,G. Mancini,1
+H. Hateboer,A. G\u00f3mez,1
+R. Freuler,H. Hateboer,1
+Rafael Tol\u00f3i,B. Cristante,1
+B. Cristante,R. Freuler,1
+H. Hateboer,M. de Roon,1
+M. Caldara,Rafael Tol\u00f3i,1
+G. Mancini,Rafael Tol\u00f3i,1
+G. Mancini,B. Cristante,1
+B. Cristante,G. Mancini,1
+M. Barrow,M. de Roon,1
+E. Berisha,B. Cristante,1
+E. Berisha,M. Caldara,1
+R. Gosens,Rafael Tol\u00f3i,1
+B. Cristante,M. de Roon,1
+E. Berisha,R. Gosens,1
+R. Freuler,M. de Roon,1
+R. Gosens,M. Barrow,1
+M. de Roon,E. Berisha,1
+M. Barrow,R. Gosens,1
+M. Caldara,R. Gosens,1
+H. Hateboer,Rafael Tol\u00f3i,1
+A. G\u00f3mez,B. Cristante,1
+R. Freuler,M. Caldara,1
+M. Caldara,R. Freuler,1
+M. Barrow,M. Caldara,1
+Rafael Tol\u00f3i,R. Freuler,1

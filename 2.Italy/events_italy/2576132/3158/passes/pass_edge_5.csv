@@ -1,0 +1,46 @@
+Source,Target,Weight
+P. Schick,D. De Rossi,4
+A. Kolarov,D. De Rossi,3
+D. Perotti,R. Nainggolan,3
+D. De Rossi,D. Perotti,3
+D. De Rossi,R. Nainggolan,3
+P. Schick,L. Pellegrini,2
+L. Pellegrini,A. Florenzi,2
+A. Florenzi,L. Pellegrini,2
+L. Pellegrini,D. De Rossi,2
+R. Nainggolan,A. Kolarov,2
+A. Kolarov,R. Nainggolan,2
+L. Pellegrini,P. Schick,2
+R. Nainggolan,P. Schick,2
+K. Manolas,D. De Rossi,2
+D. De Rossi,A. Kolarov,2
+D. De Rossi,F. Fazio,1
+D. De Rossi,E. D\u017eeko,1
+A. Kolarov,L. Pellegrini,1
+A. Florenzi,P. Schick,1
+Alisson,A. Kolarov,1
+R. Nainggolan,A. Florenzi,1
+K. Manolas,L. Pellegrini,1
+F. Fazio,R. Nainggolan,1
+R. Nainggolan,D. Perotti,1
+L. Pellegrini,Alisson,1
+D. De Rossi,P. Schick,1
+R. Nainggolan,E. D\u017eeko,1
+E. D\u017eeko,A. Kolarov,1
+F. Fazio,A. Kolarov,1
+A. Kolarov,D. Perotti,1
+P. Schick,K. Manolas,1
+R. Nainggolan,F. Fazio,1
+E. D\u017eeko,D. De Rossi,1
+D. De Rossi,A. Florenzi,1
+D. Perotti,P. Schick,1
+D. De Rossi,L. Pellegrini,1
+Alisson,E. D\u017eeko,1
+A. Florenzi,K. Manolas,1
+D. Perotti,D. De Rossi,1
+K. Manolas,Alisson,1
+R. Nainggolan,L. Pellegrini,1
+A. Kolarov,F. Fazio,1
+L. Pellegrini,A. Kolarov,1
+E. D\u017eeko,K. Manolas,1
+F. Fazio,K. Manolas,1

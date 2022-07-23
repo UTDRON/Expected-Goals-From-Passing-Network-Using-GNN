@@ -1,0 +1,64 @@
+Source,Target,Weight
+Gerson,A. Kolarov,6
+A. Kolarov,Gerson,4
+A. Florenzi,K. Strootman,4
+Gerson,A. Florenzi,3
+S. El Shaarawy,A. Florenzi,3
+F. Fazio,K. Strootman,3
+A. Kolarov,K. Strootman,3
+K. Manolas,A. Florenzi,3
+L. Pellegrini,S. El Shaarawy,3
+K. Strootman,Gerson,3
+Alisson,A. Kolarov,3
+K. Strootman,K. Manolas,3
+A. Kolarov,S. El Shaarawy,2
+R. Nainggolan,A. Kolarov,2
+A. Kolarov,F. Fazio,2
+Alisson,A. Florenzi,2
+K. Strootman,R. Nainggolan,2
+A. Florenzi,K. Manolas,2
+A. Kolarov,R. Nainggolan,2
+K. Strootman,F. Fazio,2
+E. D\u017eeko,K. Strootman,2
+K. Strootman,A. Florenzi,2
+Gerson,L. Pellegrini,2
+S. El Shaarawy,L. Pellegrini,2
+K. Strootman,Alisson,2
+A. Florenzi,S. El Shaarawy,2
+F. Fazio,K. Manolas,2
+A. Florenzi,Gerson,2
+A. Florenzi,L. Pellegrini,2
+K. Manolas,F. Fazio,2
+A. Florenzi,Alisson,2
+F. Fazio,A. Kolarov,2
+L. Pellegrini,Alisson,1
+K. Manolas,S. El Shaarawy,1
+K. Manolas,R. Nainggolan,1
+A. Florenzi,E. D\u017eeko,1
+L. Pellegrini,Gerson,1
+S. El Shaarawy,Alisson,1
+Alisson,S. El Shaarawy,1
+S. El Shaarawy,Gerson,1
+Gerson,E. D\u017eeko,1
+A. Kolarov,K. Manolas,1
+Alisson,L. Pellegrini,1
+S. El Shaarawy,F. Fazio,1
+E. D\u017eeko,A. Florenzi,1
+L. Pellegrini,K. Strootman,1
+L. Pellegrini,A. Florenzi,1
+E. D\u017eeko,Gerson,1
+L. Pellegrini,K. Manolas,1
+K. Manolas,K. Strootman,1
+Gerson,K. Strootman,1
+R. Nainggolan,K. Strootman,1
+Gerson,Alisson,1
+K. Strootman,A. Kolarov,1
+F. Fazio,Gerson,1
+K. Manolas,Gerson,1
+L. Pellegrini,A. Kolarov,1
+S. El Shaarawy,E. D\u017eeko,1
+Alisson,E. D\u017eeko,1
+R. Nainggolan,F. Fazio,1
+A. Kolarov,Alisson,1
+K. Strootman,L. Pellegrini,1
+R. Nainggolan,L. Pellegrini,1

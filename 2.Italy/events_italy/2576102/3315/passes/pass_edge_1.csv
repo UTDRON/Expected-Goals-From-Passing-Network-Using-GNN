@@ -1,0 +1,10 @@
+Source,Target,Weight
+F. Acerbi,S. Missiroli,1
+S. Missiroli,F. Magnanelli,1
+F. Magnanelli,S. Missiroli,1
+S. Missiroli,F. Acerbi,1
+D. Berardi,A. Matri,1
+M. Politano,F. Acerbi,1
+P. Cannavaro,M. Politano,1
+F. Magnanelli,P. Cannavaro,1
+F. Acerbi,D. Berardi,1

@@ -1,0 +1,12 @@
+Source,Target,Weight
+Nani,M. Parolo,2
+Wallace,Luiz Felipe,1
+M. Parolo,Lucas Leiva,1
+M. Parolo,C. Immobile,1
+Luiz Felipe,M. Parolo,1
+Luiz Felipe,Luis Alberto,1
+T. Strakosha,Wallace,1
+Lucas Leiva,Nani,1
+Lucas Leiva,T. Strakosha,1
+C. Immobile,Lucas Leiva,1
+Luis Alberto,Nani,1

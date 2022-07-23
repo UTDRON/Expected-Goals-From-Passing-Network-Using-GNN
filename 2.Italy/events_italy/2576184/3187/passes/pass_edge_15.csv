@@ -1,0 +1,68 @@
+Source,Target,Weight
+L. Insigne,M\u00e1rio Rui,11
+M\u00e1rio Rui,A. Diawara,7
+A. Diawara,M\u00e1rio Rui,6
+M\u00e1rio Rui,L. Insigne,6
+M\u00e1rio Rui,P. Zieli\u0144ski,6
+P. Zieli\u0144ski,L. Insigne,5
+A. Diawara,Allan,5
+K. Koulibaly,A. Diawara,5
+M\u00e1rio Rui,K. Koulibaly,5
+A. Diawara,Albiol,4
+A. Diawara,L. Insigne,4
+Albiol,A. Diawara,4
+A. Diawara,K. Koulibaly,4
+P. Zieli\u0144ski,A. Diawara,3
+K. Koulibaly,M\u00e1rio Rui,3
+P. Zieli\u0144ski,M\u00e1rio Rui,3
+P. Zieli\u0144ski,Jos\u00e9 Callej\u00f3n,3
+L. Insigne,Pepe Reina,3
+Allan,M. Rog,3
+Albiol,K. Koulibaly,3
+M. Rog,M\u00e1rio Rui,2
+M. Rog,Albiol,2
+Allan,L. Insigne,2
+Pepe Reina,Albiol,2
+Pepe Reina,K. Koulibaly,2
+K. Koulibaly,P. Zieli\u0144ski,2
+K. Koulibaly,Pepe Reina,2
+A. Diawara,M. Rog,2
+Allan,P. Zieli\u0144ski,2
+Albiol,E. Hysaj,2
+E. Hysaj,Allan,2
+K. Koulibaly,Albiol,2
+Pepe Reina,P. Zieli\u0144ski,2
+Jos\u00e9 Callej\u00f3n,A. Diawara,2
+A. Diawara,Jos\u00e9 Callej\u00f3n,2
+L. Insigne,K. Koulibaly,2
+L. Insigne,P. Zieli\u0144ski,2
+M. Rog,A. Diawara,2
+Pepe Reina,E. Hysaj,2
+Pepe Reina,A. Diawara,1
+P. Zieli\u0144ski,M. Rog,1
+M\u00e1rio Rui,M. Rog,1
+P. Zieli\u0144ski,Pepe Reina,1
+M\u00e1rio Rui,Allan,1
+M. Rog,P. Zieli\u0144ski,1
+E. Hysaj,A. Diawara,1
+L. Insigne,A. Diawara,1
+Pepe Reina,M. Rog,1
+Jos\u00e9 Callej\u00f3n,M\u00e1rio Rui,1
+K. Koulibaly,Allan,1
+A. Diawara,P. Zieli\u0144ski,1
+K. Koulibaly,L. Insigne,1
+Jos\u00e9 Callej\u00f3n,Allan,1
+Albiol,M. Rog,1
+Allan,M\u00e1rio Rui,1
+Allan,Albiol,1
+Allan,A. Diawara,1
+P. Zieli\u0144ski,Albiol,1
+M\u00e1rio Rui,Pepe Reina,1
+M. Rog,Allan,1
+E. Hysaj,P. Zieli\u0144ski,1
+E. Hysaj,Pepe Reina,1
+Albiol,Pepe Reina,1
+Allan,Pepe Reina,1
+L. Insigne,E. Hysaj,1
+M. Rog,L. Insigne,1
+Albiol,L. Insigne,1

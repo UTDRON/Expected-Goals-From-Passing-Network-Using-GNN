@@ -1,0 +1,20 @@
+Source,Target,Weight
+P. Hetemaj,V. Birsa,4
+V. Birsa,F. Cacciatore,3
+F. Cacciatore,L. Castro,3
+L. Castro,I. Radovanovi\u0107,2
+F. Cacciatore,V. Birsa,2
+L. Castro,F. Cacciatore,2
+V. Birsa,L. Castro,2
+V. Birsa,P. Hetemaj,2
+I. Radovanovi\u0107,P. Hetemaj,1
+F. Cacciatore,I. Radovanovi\u0107,1
+I. Radovanovi\u0107,F. Cacciatore,1
+S. Sorrentino,I. Radovanovi\u0107,1
+L. Castro,S. Sorrentino,1
+P. Hetemaj,F. Cacciatore,1
+I. Radovanovi\u0107,L. Castro,1
+L. Castro,P. Hetemaj,1
+F. Cacciatore,P. Hetemaj,1
+L. Castro,M. Pucciarelli,1
+M. Pucciarelli,L. Castro,1

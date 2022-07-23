@@ -1,0 +1,93 @@
+Source,Target,Weight
+Diego Llorente,Illarramendi,14
+Diego Llorente,Ra\u00fal Navas,9
+Ra\u00fal Navas,Diego Llorente,9
+Illarramendi,Diego Llorente,7
+Diego Llorente,Odriozola,5
+Illarramendi,Ra\u00fal Navas,5
+Willian Jos\u00e9,Xabi Prieto,5
+Odriozola,Canales,5
+G. Rulli,Ra\u00fal Navas,5
+Odriozola,Diego Llorente,5
+Mikel Oyarzabal,G. Rulli,4
+Canales,Odriozola,4
+Zurutuza,Diego Llorente,4
+Illarramendi,Canales,4
+Odriozola,Illarramendi,4
+Ra\u00fal Navas,Illarramendi,4
+Xabi Prieto,Illarramendi,3
+Canales,Ra\u00fal Navas,3
+Illarramendi,Zurutuza,3
+Ra\u00fal Navas,\u00cd\u00f1igo Mart\u00ednez,3
+Odriozola,Mikel Oyarzabal,3
+\u00cd\u00f1igo Mart\u00ednez,Willian Jos\u00e9,3
+Zurutuza,Odriozola,3
+Willian Jos\u00e9,Zurutuza,3
+Ra\u00fal Navas,G. Rulli,3
+Ra\u00fal Navas,Odriozola,3
+Zurutuza,Willian Jos\u00e9,3
+Illarramendi,Mikel Oyarzabal,3
+Zurutuza,Xabi Prieto,3
+G. Rulli,Diego Llorente,3
+Mikel Oyarzabal,Willian Jos\u00e9,3
+Illarramendi,Odriozola,3
+Xabi Prieto,Mikel Oyarzabal,2
+Canales,\u00cd\u00f1igo Mart\u00ednez,2
+Ra\u00fal Navas,Mikel Oyarzabal,2
+Odriozola,Zurutuza,2
+Xabi Prieto,Canales,2
+Mikel Oyarzabal,Odriozola,2
+Canales,Xabi Prieto,2
+Xabi Prieto,Zurutuza,2
+Mikel Oyarzabal,\u00cd\u00f1igo Mart\u00ednez,2
+Odriozola,G. Rulli,2
+Xabi Prieto,Odriozola,2
+\u00cd\u00f1igo Mart\u00ednez,Canales,2
+Odriozola,Ra\u00fal Navas,2
+Canales,Zurutuza,2
+Canales,Diego Llorente,2
+Ra\u00fal Navas,Zurutuza,2
+Zurutuza,Illarramendi,2
+Diego Llorente,\u00cd\u00f1igo Mart\u00ednez,2
+Illarramendi,Willian Jos\u00e9,2
+\u00cd\u00f1igo Mart\u00ednez,Diego Llorente,2
+Diego Llorente,Xabi Prieto,2
+Xabi Prieto,\u00cd\u00f1igo Mart\u00ednez,2
+Xabi Prieto,Ra\u00fal Navas,2
+Mikel Oyarzabal,Xabi Prieto,1
+\u00cd\u00f1igo Mart\u00ednez,Mikel Oyarzabal,1
+Diego Llorente,Canales,1
+\u00cd\u00f1igo Mart\u00ednez,Zurutuza,1
+G. Rulli,Mikel Oyarzabal,1
+\u00cd\u00f1igo Mart\u00ednez,Xabi Prieto,1
+Illarramendi,\u00cd\u00f1igo Mart\u00ednez,1
+Willian Jos\u00e9,Illarramendi,1
+Willian Jos\u00e9,Diego Llorente,1
+Zurutuza,Mikel Oyarzabal,1
+Xabi Prieto,Diego Llorente,1
+Diego Llorente,Zurutuza,1
+Diego Llorente,Mikel Oyarzabal,1
+Mikel Oyarzabal,Canales,1
+Zurutuza,G. Rulli,1
+Canales,Mikel Oyarzabal,1
+\u00cd\u00f1igo Mart\u00ednez,Odriozola,1
+Illarramendi,G. Rulli,1
+Odriozola,Willian Jos\u00e9,1
+G. Rulli,Odriozola,1
+Willian Jos\u00e9,Mikel Oyarzabal,1
+\u00cd\u00f1igo Mart\u00ednez,Illarramendi,1
+Willian Jos\u00e9,Ra\u00fal Navas,1
+Mikel Oyarzabal,Illarramendi,1
+\u00cd\u00f1igo Mart\u00ednez,Ra\u00fal Navas,1
+Mikel Oyarzabal,Diego Llorente,1
+Mikel Oyarzabal,Ra\u00fal Navas,1
+Ra\u00fal Navas,Willian Jos\u00e9,1
+Willian Jos\u00e9,\u00cd\u00f1igo Mart\u00ednez,1
+Willian Jos\u00e9,Canales,1
+Ra\u00fal Navas,Xabi Prieto,1
+Illarramendi,Xabi Prieto,1
+\u00cd\u00f1igo Mart\u00ednez,G. Rulli,1
+G. Rulli,Zurutuza,1
+Canales,Illarramendi,1
+G. Rulli,\u00cd\u00f1igo Mart\u00ednez,1
+Ra\u00fal Navas,Canales,1

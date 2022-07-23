@@ -1,0 +1,26 @@
+Source,Target,Weight
+F. Magnanelli,S. Missiroli,3
+S. Missiroli,Rog\u00e9rio,3
+F. Cassata,F. Acerbi,3
+C. Dell'Orco,M. Politano,2
+C. Adjapong,F. Cassata,2
+M. Politano,F. Cassata,2
+Rog\u00e9rio,S. Missiroli,2
+F. Acerbi,Rog\u00e9rio,2
+Rog\u00e9rio,F. Magnanelli,2
+S. Missiroli,M. Politano,1
+F. Magnanelli,M. Politano,1
+S. Missiroli,F. Magnanelli,1
+K. Babacar,F. Magnanelli,1
+F. Acerbi,C. Dell'Orco,1
+M. Politano,C. Dell'Orco,1
+F. Magnanelli,F. Cassata,1
+M. Politano,F. Acerbi,1
+Rog\u00e9rio,M. Politano,1
+S. Missiroli,C. Adjapong,1
+F. Acerbi,F. Magnanelli,1
+F. Acerbi,C. Adjapong,1
+C. Adjapong,F. Magnanelli,1
+F. Magnanelli,F. Acerbi,1
+F. Cassata,K. Babacar,1
+F. Cassata,C. Adjapong,1

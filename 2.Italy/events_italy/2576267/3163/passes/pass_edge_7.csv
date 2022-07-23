@@ -1,0 +1,75 @@
+Source,Target,Weight
+Danilo,B. Nuytinck,8
+B. Nuytinck,J. Stryger Larsen,6
+B. Nuytinck,Danilo,6
+B. Nuytinck,A. Bar\u00e1k,5
+J. Stryger Larsen,A. Bar\u00e1k,5
+J. Jankto,A. Bali\u0107,4
+A. Bar\u00e1k,B. Nuytinck,4
+J. Stryger Larsen,B. Nuytinck,3
+Danilo,Samir,3
+A. Bali\u0107,B. Nuytinck,3
+B. Nuytinck,K. Lasagna,3
+Danilo,J. Jankto,3
+J. Jankto,Danilo,3
+K. Lasagna,Danilo,3
+Samir,J. Jankto,3
+A. Bali\u0107,Samir,2
+Ali Adnan,Samir,2
+Maxi L\u00f3pez,A. Bizzarri,2
+A. Bar\u00e1k,A. Bali\u0107,2
+Ali Adnan,Maxi L\u00f3pez,2
+A. Bar\u00e1k,Maxi L\u00f3pez,2
+J. Jankto,Ali Adnan,2
+Maxi L\u00f3pez,A. Bali\u0107,2
+A. Bar\u00e1k,Danilo,2
+A. Bali\u0107,J. Jankto,2
+Ali Adnan,J. Jankto,2
+Ali Adnan,A. Bar\u00e1k,2
+Maxi L\u00f3pez,B. Nuytinck,2
+A. Bar\u00e1k,J. Stryger Larsen,2
+Samir,Ali Adnan,2
+Samir,J. Stryger Larsen,2
+A. Bar\u00e1k,Samir,1
+Ali Adnan,Danilo,1
+Ali Adnan,B. Nuytinck,1
+J. Jankto,B. Nuytinck,1
+K. Lasagna,J. Jankto,1
+K. Lasagna,Ali Adnan,1
+A. Bali\u0107,A. Bar\u00e1k,1
+B. Nuytinck,Ali Adnan,1
+K. Lasagna,A. Bar\u00e1k,1
+Samir,A. Bali\u0107,1
+Ali Adnan,K. Lasagna,1
+Samir,B. Nuytinck,1
+A. Bali\u0107,Ali Adnan,1
+A. Bar\u00e1k,Ali Adnan,1
+A. Bizzarri,Danilo,1
+J. Stryger Larsen,J. Jankto,1
+A. Bizzarri,J. Stryger Larsen,1
+B. Nuytinck,A. Bali\u0107,1
+Maxi L\u00f3pez,Ali Adnan,1
+Samir,Danilo,1
+K. Lasagna,B. Nuytinck,1
+J. Jankto,Samir,1
+A. Bizzarri,K. Lasagna,1
+A. Bizzarri,Ali Adnan,1
+B. Nuytinck,Maxi L\u00f3pez,1
+Danilo,A. Bizzarri,1
+J. Stryger Larsen,Maxi L\u00f3pez,1
+J. Stryger Larsen,A. Bali\u0107,1
+A. Bizzarri,Samir,1
+A. Bali\u0107,Danilo,1
+Ali Adnan,A. Bizzarri,1
+J. Jankto,Maxi L\u00f3pez,1
+J. Stryger Larsen,Ali Adnan,1
+J. Jankto,K. Lasagna,1
+A. Bali\u0107,J. Stryger Larsen,1
+Danilo,J. Stryger Larsen,1
+Samir,A. Bizzarri,1
+Danilo,K. Lasagna,1
+K. Lasagna,Maxi L\u00f3pez,1
+J. Stryger Larsen,Samir,1
+Danilo,Ali Adnan,1
+A. Bali\u0107,K. Lasagna,1
+B. Nuytinck,J. Jankto,1

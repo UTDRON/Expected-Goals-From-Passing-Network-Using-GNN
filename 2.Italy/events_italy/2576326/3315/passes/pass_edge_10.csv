@@ -1,0 +1,45 @@
+Source,Target,Weight
+K. Babacar,S. Missiroli,3
+C. Adjapong,C. Dell'Orco,3
+A. Duncan,A. Ragusa,2
+S. Missiroli,K. Babacar,2
+F. Magnanelli,A. Duncan,2
+C. Dell'Orco,A. Duncan,2
+Rog\u00e9rio,A. Duncan,2
+F. Magnanelli,C. Adjapong,2
+A. Duncan,C. Adjapong,1
+K. Babacar,F. Magnanelli,1
+F. Acerbi,S. Missiroli,1
+C. Dell'Orco,F. Magnanelli,1
+F. Magnanelli,S. Missiroli,1
+S. Missiroli,C. Adjapong,1
+F. Magnanelli,K. Babacar,1
+T. Letschert,F. Acerbi,1
+A. Duncan,D. Berardi,1
+A. Consigli,F. Magnanelli,1
+A. Duncan,T. Letschert,1
+Rog\u00e9rio,F. Acerbi,1
+F. Acerbi,C. Adjapong,1
+M. Lemos,A. Duncan,1
+K. Babacar,A. Consigli,1
+K. Babacar,D. Berardi,1
+A. Duncan,K. Babacar,1
+S. Missiroli,A. Duncan,1
+C. Dell'Orco,K. Babacar,1
+Rog\u00e9rio,F. Magnanelli,1
+A. Consigli,K. Babacar,1
+A. Duncan,F. Magnanelli,1
+D. Berardi,K. Babacar,1
+A. Duncan,Rog\u00e9rio,1
+F. Magnanelli,A. Consigli,1
+A. Ragusa,A. Duncan,1
+C. Adjapong,M. Lemos,1
+A. Duncan,M. Lemos,1
+M. Lemos,F. Magnanelli,1
+C. Dell'Orco,S. Missiroli,1
+S. Missiroli,Rog\u00e9rio,1
+K. Babacar,A. Duncan,1
+A. Ragusa,C. Dell'Orco,1
+A. Duncan,C. Dell'Orco,1
+D. Berardi,Rog\u00e9rio,1
+C. Adjapong,Rog\u00e9rio,1

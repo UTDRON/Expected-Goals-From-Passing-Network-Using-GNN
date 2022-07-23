@@ -1,0 +1,15 @@
+Source,Target,Weight
+Dalbert,M. Vecino,2
+M. \u0160kriniar,Jo\u00e3o Miranda,1
+M. Brozovi\u0107,I. Peri\u0161i\u0107,1
+Eder,Borja Valero,1
+M. Vecino,M. Icardi,1
+M. Vecino,Jo\u00e3o Cancelo,1
+I. Peri\u0161i\u0107,Dalbert,1
+Eder,M. \u0160kriniar,1
+Borja Valero,M. Vecino,1
+M. Vecino,Eder,1
+Jo\u00e3o Miranda,M. \u0160kriniar,1
+Jo\u00e3o Cancelo,Eder,1
+M. \u0160kriniar,Dalbert,1
+Dalbert,M. Brozovi\u0107,1

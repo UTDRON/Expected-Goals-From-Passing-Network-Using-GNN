@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Masina,F. Helander,3
+A. Poli,E. Pulgar,2
+I. M'baye,A. Poli,2
+A. Poli,I. M'baye,2
+M. Destro,A. Poli,1
+M. Destro,S. Verdi,1
+F. Helander,A. Mirante,1
+S. Verdi,M. Destro,1
+F. Helander,A. Masina,1
+A. Masina,\u00c1. Nagy,1
+E. Pulgar,S. Verdi,1
+A. Poli,A. Masina,1
+\u00c1. Nagy,A. Masina,1
+A. Masina,S. Verdi,1
+M. Destro,\u00c1. Nagy,1
+A. Mirante,A. Masina,1
+\u00c1. Nagy,M. Destro,1
+A. Masina,M. Destro,1
+S. Verdi,A. Masina,1
+E. Pulgar,A. Poli,1
+F. Helander,A. Poli,1

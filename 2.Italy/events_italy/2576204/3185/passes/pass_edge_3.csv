@@ -1,0 +1,87 @@
+Source,Target,Weight
+N. Burdisso,C. Molinaro,10
+N. N'Koulou,N. Burdisso,10
+N. N'Koulou,L. De Silvestri,8
+L. De Silvestri,N. N'Koulou,8
+J. Obi,N. Burdisso,6
+N. Burdisso,N. N'Koulou,6
+L. De Silvestri,T. Rinc\u00f3n,6
+C. Ansaldi,J. Obi,6
+L. De Silvestri,Iago Falqu\u00e9,6
+J. Obi,Iago Falqu\u00e9,6
+C. Ansaldi,L. De Silvestri,6
+L. De Silvestri,D. Baselli,5
+C. Molinaro,C. Ansaldi,5
+C. Molinaro,J. Obi,4
+J. Obi,C. Molinaro,4
+T. Rinc\u00f3n,Iago Falqu\u00e9,4
+N. Burdisso,J. Obi,4
+D. Baselli,J. Obi,4
+Iago Falqu\u00e9,J. Obi,4
+S. Sirigu,N. Burdisso,4
+N. N'Koulou,S. Sirigu,4
+Iago Falqu\u00e9,L. De Silvestri,4
+C. Molinaro,M. Niang,4
+M. Niang,J. Obi,3
+J. Obi,C. Ansaldi,3
+C. Ansaldi,C. Molinaro,3
+T. Rinc\u00f3n,J. Obi,3
+Iago Falqu\u00e9,N. Burdisso,3
+T. Rinc\u00f3n,L. De Silvestri,3
+T. Rinc\u00f3n,C. Ansaldi,3
+C. Ansaldi,T. Rinc\u00f3n,3
+J. Obi,D. Baselli,3
+J. Obi,T. Rinc\u00f3n,3
+N. Burdisso,C. Ansaldi,3
+Iago Falqu\u00e9,N. N'Koulou,3
+Iago Falqu\u00e9,C. Ansaldi,3
+C. Molinaro,D. Baselli,3
+S. Sirigu,N. N'Koulou,3
+C. Molinaro,L. De Silvestri,2
+Iago Falqu\u00e9,A. Belotti,2
+N. N'Koulou,Iago Falqu\u00e9,2
+J. Obi,N. N'Koulou,2
+T. Rinc\u00f3n,N. Burdisso,2
+Iago Falqu\u00e9,M. Niang,2
+M. Niang,C. Molinaro,2
+L. De Silvestri,C. Ansaldi,2
+C. Molinaro,N. N'Koulou,2
+J. Obi,A. Belotti,2
+C. Ansaldi,Iago Falqu\u00e9,2
+D. Baselli,L. De Silvestri,2
+L. De Silvestri,J. Obi,2
+D. Baselli,Iago Falqu\u00e9,2
+L. De Silvestri,S. Sirigu,1
+A. Belotti,N. N'Koulou,1
+C. Molinaro,T. Rinc\u00f3n,1
+D. Baselli,C. Ansaldi,1
+D. Baselli,T. Rinc\u00f3n,1
+T. Rinc\u00f3n,C. Molinaro,1
+C. Ansaldi,N. Burdisso,1
+T. Rinc\u00f3n,M. Niang,1
+M. Niang,C. Ansaldi,1
+S. Sirigu,L. De Silvestri,1
+N. N'Koulou,C. Molinaro,1
+N. Burdisso,S. Sirigu,1
+M. Niang,L. De Silvestri,1
+A. Belotti,C. Molinaro,1
+N. Burdisso,M. Niang,1
+M. Niang,N. Burdisso,1
+D. Baselli,C. Molinaro,1
+A. Belotti,L. De Silvestri,1
+A. Belotti,N. Burdisso,1
+N. Burdisso,A. Belotti,1
+A. Belotti,T. Rinc\u00f3n,1
+M. Niang,A. Belotti,1
+A. Belotti,J. Obi,1
+Iago Falqu\u00e9,T. Rinc\u00f3n,1
+S. Sirigu,C. Molinaro,1
+Iago Falqu\u00e9,S. Sirigu,1
+C. Molinaro,Iago Falqu\u00e9,1
+N. Burdisso,L. De Silvestri,1
+C. Molinaro,S. Sirigu,1
+A. Belotti,C. Ansaldi,1
+C. Ansaldi,M. Niang,1
+C. Molinaro,A. Belotti,1
+N. Burdisso,T. Rinc\u00f3n,1
+J. Obi,L. De Silvestri,1

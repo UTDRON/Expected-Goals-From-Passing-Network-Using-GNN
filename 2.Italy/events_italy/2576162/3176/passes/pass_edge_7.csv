@@ -1,0 +1,27 @@
+Source,Target,Weight
+M. Benassi,F. Chiesa,2
+G. Simeone,M. Benassi,1
+Vitor Hugo,V. Eysseric,1
+V. Eysseric,V. Laurini,1
+G. Pezzella,V. Eysseric,1
+K. Babacar,Vitor Hugo,1
+V. Laurini,M. Benassi,1
+V. Eysseric,K. Babacar,1
+V. Eysseric,G. Simeone,1
+Vitor Hugo,C. Biraghi,1
+C. Biraghi,Vitor Hugo,1
+G. Pezzella,M. Sportiello,1
+F. Chiesa,M. Benassi,1
+G. Simeone,F. Chiesa,1
+M. Benassi,C. Biraghi,1
+M. Benassi,G. Pezzella,1
+K. Babacar,C. Biraghi,1
+G. Simeone,V. Laurini,1
+G. Pezzella,M. Benassi,1
+F. Chiesa,G. Simeone,1
+C. Biraghi,V. Eysseric,1
+V. Laurini,K. Babacar,1
+M. Sportiello,G. Pezzella,1
+C. Biraghi,G. Simeone,1
+F. Chiesa,V. Eysseric,1
+K. Babacar,G. Pezzella,1

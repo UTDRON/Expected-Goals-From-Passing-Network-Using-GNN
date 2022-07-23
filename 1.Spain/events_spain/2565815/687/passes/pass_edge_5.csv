@@ -1,0 +1,14 @@
+Source,Target,Weight
+Diego Llorente,Illarramendi,2
+H. Moreno,De La Bella,2
+De La Bella,Diego Llorente,1
+De La Bella,Canales,1
+Zubeld\u00eda,H. Moreno,1
+Illarramendi,Diego Llorente,1
+Canales,Mikel Oyarzabal,1
+Mikel Oyarzabal,De La Bella,1
+De La Bella,Mikel Oyarzabal,1
+Illarramendi,Odriozola,1
+Diego Llorente,Zubeld\u00eda,1
+Odriozola,Diego Llorente,1
+Diego Llorente,H. Moreno,1

@@ -1,0 +1,17 @@
+Source,Target,Weight
+Daniel Bessa,B. Zuculini,1
+M. Kean,R\u00f4mulo,1
+Nicolas,S. Souprayen,1
+M. B\u00fcchel,M. C\u00e1ceres,1
+S. Souprayen,A. Ferrari,1
+A. Ferrari,M. C\u00e1ceres,1
+R\u00f4mulo,M. B\u00fcchel,1
+S. Souprayen,Daniel Bessa,1
+S. Souprayen,B. Zuculini,1
+B. Zuculini,S. Souprayen,1
+B. Zuculini,M. B\u00fcchel,1
+M. Kean,M. C\u00e1ceres,1
+M. C\u00e1ceres,Nicolas,1
+M. B\u00fcchel,A. Ferrari,1
+A. Ferrari,M. Kean,1
+M. C\u00e1ceres,M. Kean,1

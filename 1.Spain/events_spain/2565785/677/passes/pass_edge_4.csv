@@ -1,0 +1,39 @@
+Source,Target,Weight
+Guilherme,Luisinho,5
+Luisinho,Guilherme,4
+Albentosa,B\u00f3veda,4
+B\u00f3veda,Albentosa,3
+Albentosa,Juanfran,2
+Juanfran,M. Krohn-Dehli,2
+Adri\u00e1n L\u00f3pez,Z. Bakkali,2
+M. Krohn-Dehli,Adri\u00e1n L\u00f3pez,2
+M. Krohn-Dehli,Albentosa,2
+Juanfran,Albentosa,1
+Albentosa,Z. Bakkali,1
+Z. Bakkali,F. Andone,1
+M. Krohn-Dehli,Juanfran,1
+M. Krohn-Dehli,B\u00f3veda,1
+Adri\u00e1n L\u00f3pez,F. Andone,1
+M. Krohn-Dehli,Guilherme,1
+Guilherme,M. Krohn-Dehli,1
+Guilherme,B\u00f3veda,1
+B\u00f3veda,M. Krohn-Dehli,1
+Albentosa,Adri\u00e1n L\u00f3pez,1
+Z. Bakkali,Luisinho,1
+Adri\u00e1n L\u00f3pez,Guilherme,1
+Lucas P\u00e9rez,M. Krohn-Dehli,1
+Luisinho,Adri\u00e1n L\u00f3pez,1
+Adri\u00e1n L\u00f3pez,M. Krohn-Dehli,1
+B\u00f3veda,Guilherme,1
+F. Andone,Albentosa,1
+B\u00f3veda,Luisinho,1
+Rub\u00e9n,Albentosa,1
+Albentosa,Lucas P\u00e9rez,1
+Luisinho,M. Krohn-Dehli,1
+Guilherme,Lucas P\u00e9rez,1
+Luisinho,Albentosa,1
+Adri\u00e1n L\u00f3pez,Luisinho,1
+Lucas P\u00e9rez,Adri\u00e1n L\u00f3pez,1
+F. Andone,Rub\u00e9n,1
+Luisinho,Z. Bakkali,1
+Z. Bakkali,Adri\u00e1n L\u00f3pez,1

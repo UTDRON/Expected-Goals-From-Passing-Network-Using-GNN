@@ -1,0 +1,22 @@
+Source,Target,Weight
+L. Biglia,F. Kessi\u00e9,2
+C. Zapata,D. Calabria,2
+F. Kessi\u00e9,C. Zapata,2
+F. Borini,L. Biglia,1
+G. Bonaventura,F. Kessi\u00e9,1
+F. Kessi\u00e9,F. Borini,1
+R. Rodr\u00edguez,G. Bonaventura,1
+L. Bonucci,R. Rodr\u00edguez,1
+F. Borini,R. Rodr\u00edguez,1
+L. Biglia,L. Bonucci,1
+G. Bonaventura,L. Bonucci,1
+F. Kessi\u00e9,D. Calabria,1
+L. Bonucci,G. Bonaventura,1
+D. Calabria,F. Kessi\u00e9,1
+L. Bonucci,C. Zapata,1
+D. Calabria,C. Zapata,1
+G. Donnarumma,L. Bonucci,1
+F. Kessi\u00e9,L. Biglia,1
+D. Calabria,F. Borini,1
+C. Zapata,L. Biglia,1
+C. Zapata,F. Kessi\u00e9,1

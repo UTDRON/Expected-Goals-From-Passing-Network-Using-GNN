@@ -1,0 +1,47 @@
+Source,Target,Weight
+B. Dram\u00e9,Felipe,3
+Felipe,A. Meret,3
+A. Grassi,B. Dram\u00e9,3
+M. Lazzari,B. Salamon,2
+M. Antenucci,F. Vicari,2
+M. Lazzari,F. Vicari,2
+F. Viviani,Felipe,2
+J. Kurti\u010d,B. Dram\u00e9,2
+B. Dram\u00e9,F. Viviani,2
+A. Meret,Felipe,2
+A. Meret,J. Kurti\u010d,2
+A. Meret,M. Antenucci,2
+Felipe,M. Antenucci,2
+B. Dram\u00e9,J. Kurti\u010d,2
+M. Antenucci,B. Salamon,2
+M. Antenucci,F. Viviani,1
+M. Lazzari,Felipe,1
+P. Schiattarella,M. Lazzari,1
+F. Viviani,M. Antenucci,1
+Felipe,F. Vicari,1
+F. Vicari,P. Schiattarella,1
+J. Kurti\u010d,M. Lazzari,1
+B. Salamon,B. Dram\u00e9,1
+B. Dram\u00e9,M. Lazzari,1
+J. Kurti\u010d,A. Grassi,1
+F. Viviani,A. Grassi,1
+J. Kurti\u010d,A. Meret,1
+F. Vicari,J. Kurti\u010d,1
+B. Salamon,A. Meret,1
+B. Salamon,J. Kurti\u010d,1
+F. Vicari,M. Lazzari,1
+F. Vicari,A. Grassi,1
+P. Schiattarella,F. Viviani,1
+M. Antenucci,J. Kurti\u010d,1
+Felipe,M. Lazzari,1
+F. Viviani,F. Vicari,1
+B. Salamon,P. Schiattarella,1
+Felipe,B. Dram\u00e9,1
+B. Salamon,F. Viviani,1
+F. Vicari,M. Antenucci,1
+J. Kurti\u010d,F. Vicari,1
+J. Kurti\u010d,F. Viviani,1
+M. Lazzari,J. Kurti\u010d,1
+F. Vicari,B. Salamon,1
+F. Vicari,A. Meret,1
+F. Viviani,B. Dram\u00e9,1

@@ -1,0 +1,27 @@
+Source,Target,Weight
+A. Consigli,S. Missiroli,2
+F. Acerbi,F. Magnanelli,2
+A. Ragusa,F. Acerbi,2
+F. Magnanelli,P. Cannavaro,2
+M. Politano,F. Magnanelli,2
+F. Magnanelli,S. Missiroli,2
+Pol Lirola,D. Falcinelli,1
+F. Magnanelli,A. Ragusa,1
+F. Magnanelli,F. Acerbi,1
+Pol Lirola,F. Magnanelli,1
+P. Cannavaro,F. Acerbi,1
+S. Missiroli,M. Politano,1
+S. Missiroli,A. Ragusa,1
+F. Magnanelli,Pol Lirola,1
+S. Missiroli,F. Magnanelli,1
+F. Acerbi,A. Duncan,1
+S. Missiroli,P. Cannavaro,1
+A. Duncan,F. Magnanelli,1
+P. Cannavaro,F. Magnanelli,1
+F. Peluso,P. Cannavaro,1
+F. Magnanelli,A. Consigli,1
+P. Cannavaro,D. Falcinelli,1
+D. Falcinelli,F. Peluso,1
+Pol Lirola,M. Politano,1
+P. Cannavaro,A. Consigli,1
+F. Acerbi,Pol Lirola,1

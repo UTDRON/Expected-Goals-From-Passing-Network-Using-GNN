@@ -1,0 +1,44 @@
+Source,Target,Weight
+A. Kolarov,M. Gonalons,4
+Juan Jesus,F. Fazio,3
+F. Fazio,Juan Jesus,3
+L. Pellegrini,Bruno Peres,3
+Juan Jesus,K. Strootman,2
+Bruno Peres,L. Pellegrini,2
+M. Gonalons,E. D\u017eeko,2
+Alisson,Juan Jesus,2
+M. Gonalons,Bruno Peres,2
+M. Gonalons,Juan Jesus,2
+A. Kolarov,K. Strootman,1
+E. D\u017eeko,L. Pellegrini,1
+K. Strootman,Juan Jesus,1
+E. D\u017eeko,Juan Jesus,1
+Juan Jesus,D. Perotti,1
+K. Strootman,F. Fazio,1
+Alisson,E. D\u017eeko,1
+Alisson,A. Kolarov,1
+E. D\u017eeko,A. Kolarov,1
+F. Fazio,Alisson,1
+Bruno Peres,F. Fazio,1
+Bruno Peres,Alisson,1
+C. \u00dcnder,F. Fazio,1
+F. Fazio,Bruno Peres,1
+L. Pellegrini,A. Kolarov,1
+Bruno Peres,A. Kolarov,1
+K. Strootman,A. Kolarov,1
+Juan Jesus,A. Kolarov,1
+Bruno Peres,C. \u00dcnder,1
+M. Gonalons,D. Perotti,1
+M. Gonalons,K. Strootman,1
+D. Perotti,L. Pellegrini,1
+F. Fazio,L. Pellegrini,1
+F. Fazio,M. Gonalons,1
+Bruno Peres,M. Gonalons,1
+Juan Jesus,Alisson,1
+E. D\u017eeko,F. Fazio,1
+K. Strootman,L. Pellegrini,1
+L. Pellegrini,E. D\u017eeko,1
+Juan Jesus,M. Gonalons,1
+A. Kolarov,E. D\u017eeko,1
+L. Pellegrini,Alisson,1
+D. Perotti,Bruno Peres,1

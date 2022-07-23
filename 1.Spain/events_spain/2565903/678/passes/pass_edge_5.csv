@@ -1,0 +1,41 @@
+Source,Target,Weight
+Aduriz,Lekue,4
+Lekue,Be\u00f1at,3
+Be\u00f1at,\u00cd\u00f1igo Mart\u00ednez,3
+\u00cd\u00f1igo Mart\u00ednez,Mikel Rico,2
+Mikel Rico,Unai N\u00fa\u00f1ez,2
+Muniain,Mikel Rico,2
+Muniain,Yeray,2
+\u00cd\u00f1igo Mart\u00ednez,Aduriz,2
+\u00cd\u00f1igo Mart\u00ednez,Saborit,2
+Saborit,Aduriz,2
+Aduriz,Muniain,2
+Unai N\u00fa\u00f1ez,Saborit,1
+Unai N\u00fa\u00f1ez,\u00cd\u00f1igo Mart\u00ednez,1
+Be\u00f1at,Unai N\u00fa\u00f1ez,1
+Lekue,Yeray,1
+Lekue,I\u00f1aki Williams,1
+Yeray,Saborit,1
+I\u00f1aki Williams,Be\u00f1at,1
+Unai N\u00fa\u00f1ez,Mikel Rico,1
+Yeray,Mikel Rico,1
+Be\u00f1at,Lekue,1
+Arrizabalaga,\u00cd\u00f1igo Mart\u00ednez,1
+Mikel Rico,Saborit,1
+Mikel Rico,Aduriz,1
+Yeray,I\u00f1aki Williams,1
+Lekue,Muniain,1
+Saborit,Yeray,1
+I\u00f1aki Williams,Lekue,1
+Saborit,Lekue,1
+Arrizabalaga,Aduriz,1
+Yeray,\u00cd\u00f1igo Mart\u00ednez,1
+Muniain,Lekue,1
+Mikel Rico,Yeray,1
+Saborit,Be\u00f1at,1
+\u00cd\u00f1igo Mart\u00ednez,Muniain,1
+Lekue,Unai N\u00fa\u00f1ez,1
+Lekue,Arrizabalaga,1
+Mikel Rico,Muniain,1
+Unai N\u00fa\u00f1ez,Arrizabalaga,1
+Yeray,Aduriz,1

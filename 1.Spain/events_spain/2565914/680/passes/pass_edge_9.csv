@@ -1,0 +1,35 @@
+Source,Target,Weight
+Roque Mesa,\u00c9. Banega,6
+\u00c9. Banega,Roque Mesa,4
+\u00c9. Banega,M. Lay\u00fan,3
+Roque Mesa,M. Lay\u00fan,3
+\u00c9. Banega,Nolito,3
+M. Lay\u00fan,Sandro,3
+Sergio Escudero,S. N'Zonzi,3
+\u00c9. Banega,S. N'Zonzi,2
+S. N'Zonzi,Nolito,2
+Sandro,Roque Mesa,2
+S. N'Zonzi,Roque Mesa,2
+S. N'Zonzi,Sergio Escudero,2
+S. N'Zonzi,\u00c9. Banega,2
+Sergio Escudero,C. Lenglet,1
+M. Lay\u00fan,Sergio Escudero,1
+Nolito,S. Kj\u00e6r,1
+S. Kj\u00e6r,C. Lenglet,1
+Roque Mesa,Sergio Escudero,1
+Nolito,S. N'Zonzi,1
+Sergio Escudero,\u00c9. Banega,1
+C. Lenglet,Roque Mesa,1
+Nolito,Roque Mesa,1
+C. Lenglet,S. N'Zonzi,1
+Sandro,\u00c9. Banega,1
+Roque Mesa,S. N'Zonzi,1
+C. Lenglet,David Soria,1
+Nolito,Sergio Escudero,1
+Sergio Escudero,Roque Mesa,1
+Roque Mesa,C. Lenglet,1
+M. Lay\u00fan,\u00c9. Banega,1
+M. Lay\u00fan,Roque Mesa,1
+M. Lay\u00fan,S. Kj\u00e6r,1
+David Soria,M. Lay\u00fan,1
+S. Kj\u00e6r,\u00c9. Banega,1

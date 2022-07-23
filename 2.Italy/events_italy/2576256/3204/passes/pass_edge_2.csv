@@ -1,0 +1,56 @@
+Source,Target,Weight
+P. Schiattarella,T. Cionek,5
+A. Grassi,Felipe,5
+T. Cionek,P. Schiattarella,4
+T. Cionek,M. Lazzari,4
+Felipe,F. Costa,4
+T. Cionek,F. Vicari,4
+T. Cionek,Felipe,3
+P. Schiattarella,Everton Luiz,3
+A. Grassi,Everton Luiz,2
+F. Vicari,Felipe,2
+F. Costa,A. Grassi,2
+A. Paloschi,A. Grassi,2
+Everton Luiz,P. Schiattarella,2
+A. Grassi,M. Antenucci,2
+M. Lazzari,P. Schiattarella,2
+F. Vicari,P. Schiattarella,2
+M. Antenucci,A. Grassi,2
+M. Antenucci,F. Costa,2
+Everton Luiz,T. Cionek,2
+Felipe,F. Vicari,2
+T. Cionek,A. Meret,2
+F. Costa,F. Vicari,2
+F. Costa,T. Cionek,2
+A. Grassi,F. Costa,2
+A. Meret,M. Antenucci,2
+Felipe,A. Grassi,2
+P. Schiattarella,A. Grassi,2
+M. Lazzari,Everton Luiz,2
+F. Vicari,A. Grassi,2
+M. Lazzari,T. Cionek,2
+Everton Luiz,M. Lazzari,2
+A. Grassi,T. Cionek,2
+F. Costa,Felipe,1
+A. Paloschi,T. Cionek,1
+P. Schiattarella,Felipe,1
+Felipe,P. Schiattarella,1
+M. Antenucci,A. Paloschi,1
+M. Antenucci,T. Cionek,1
+M. Lazzari,A. Grassi,1
+F. Costa,P. Schiattarella,1
+P. Schiattarella,M. Lazzari,1
+A. Meret,A. Paloschi,1
+Felipe,A. Meret,1
+Everton Luiz,M. Antenucci,1
+F. Vicari,T. Cionek,1
+Everton Luiz,A. Paloschi,1
+F. Vicari,A. Meret,1
+Felipe,A. Paloschi,1
+P. Schiattarella,F. Costa,1
+Felipe,T. Cionek,1
+A. Paloschi,M. Antenucci,1
+A. Grassi,P. Schiattarella,1
+A. Meret,A. Grassi,1
+F. Costa,M. Antenucci,1
+F. Vicari,Everton Luiz,1

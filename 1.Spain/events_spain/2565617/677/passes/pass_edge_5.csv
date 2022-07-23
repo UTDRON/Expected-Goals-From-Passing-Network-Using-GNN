@@ -1,0 +1,36 @@
+Source,Target,Weight
+Guilherme,Luisinho,5
+Luisinho,Sidnei,5
+Juanfran,Fede Cartabia,3
+Fede Cartabia,F. Sch\u00e4r,2
+Luisinho,E. \u00c7olak,2
+Luisinho,Guilherme,2
+Luisinho,Lucas P\u00e9rez,2
+Lucas P\u00e9rez,Luisinho,2
+Sidnei,Guilherme,2
+C. Pantilimon,C. Borges,2
+E. \u00c7olak,Juanfran,2
+Fede Cartabia,C. Borges,2
+Sidnei,Luisinho,2
+Sidnei,Lucas P\u00e9rez,2
+C. Borges,Juanfran,1
+Fede Cartabia,Juanfran,1
+Guilherme,Fede Cartabia,1
+Juanfran,C. Pantilimon,1
+Luisinho,C. Borges,1
+C. Pantilimon,Luisinho,1
+C. Borges,Guilherme,1
+C. Borges,F. Sch\u00e4r,1
+F. Sch\u00e4r,Sidnei,1
+C. Borges,Luisinho,1
+F. Sch\u00e4r,E. \u00c7olak,1
+E. \u00c7olak,F. Valverde,1
+Fede Cartabia,Lucas P\u00e9rez,1
+Lucas P\u00e9rez,Guilherme,1
+Lucas P\u00e9rez,Sidnei,1
+E. \u00c7olak,Luisinho,1
+Sidnei,C. Pantilimon,1
+C. Borges,Fede Cartabia,1
+C. Borges,E. \u00c7olak,1
+F. Valverde,C. Pantilimon,1
+F. Sch\u00e4r,C. Borges,1

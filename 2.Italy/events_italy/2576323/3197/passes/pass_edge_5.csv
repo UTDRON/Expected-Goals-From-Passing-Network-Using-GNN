@@ -1,0 +1,22 @@
+Source,Target,Weight
+A. Nalini,F. Ceccherini,2
+A. Nalini,B. Martella,2
+A. Cordaz,R. Mandragora,2
+B. Martella,A. Nalini,2
+M. Rohd\u00e9n,F. Ceccherini,1
+A. Cordaz,M. Capuano,1
+A. Stoian,A. Nalini,1
+F. Ceccherini,A. Cordaz,1
+R. Mandragora,A. Nalini,1
+M. Sampirisi,B. Martella,1
+F. Ceccherini,A. Nalini,1
+A. Nalini,M. Rohd\u00e9n,1
+B. Martella,R. Mandragora,1
+M. Capuano,A. Nalini,1
+F. Ceccherini,M. Rohd\u00e9n,1
+B. Martella,Simy,1
+R. Mandragora,B. Martella,1
+B. Martella,A. Cordaz,1
+Simy,A. Cordaz,1
+A. Nalini,A. Stoian,1
+R. Mandragora,M. Sampirisi,1

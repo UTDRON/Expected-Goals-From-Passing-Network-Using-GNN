@@ -1,0 +1,113 @@
+Source,Target,Weight
+Lucas P\u00e9rez,Juanfran,6
+Juanfran,F. Sch\u00e4r,6
+Guilherme,Juanfran,6
+Juanfran,Lucas P\u00e9rez,6
+Adri\u00e1n L\u00f3pez,Pedro Mosquera,5
+Rub\u00e9n,C. Borges,5
+Luisinho,Adri\u00e1n L\u00f3pez,5
+Guilherme,Lucas P\u00e9rez,5
+F. Sch\u00e4r,Guilherme,5
+Juanfran,Guilherme,5
+F. Andone,Lucas P\u00e9rez,4
+C. Borges,Luisinho,4
+Lucas P\u00e9rez,E. \u00c7olak,4
+Adri\u00e1n L\u00f3pez,Luisinho,4
+C. Borges,F. Sch\u00e4r,4
+One,Juanfran,4
+Pedro Mosquera,Adri\u00e1n L\u00f3pez,4
+F. Sch\u00e4r,F. Andone,4
+Luisinho,C. Borges,4
+Lucas P\u00e9rez,F. Andone,4
+E. \u00c7olak,Lucas P\u00e9rez,3
+E. \u00c7olak,Juanfran,3
+Guilherme,C. Borges,3
+C. Borges,Guilherme,3
+Guilherme,Luisinho,3
+Luisinho,One,3
+F. Andone,Juanfran,3
+Juanfran,F. Andone,3
+Edu Exp\u00f3sito,E. \u00c7olak,3
+Adri\u00e1n L\u00f3pez,Lucas P\u00e9rez,3
+F. Sch\u00e4r,Edu Exp\u00f3sito,3
+C. Borges,Juanfran,3
+Adri\u00e1n L\u00f3pez,Guilherme,3
+Juanfran,Luisinho,3
+F. Andone,Luisinho,3
+Luisinho,Guilherme,3
+Luisinho,F. Sch\u00e4r,3
+Lucas P\u00e9rez,Adri\u00e1n L\u00f3pez,2
+Guilherme,E. \u00c7olak,2
+C. Borges,F. Andone,2
+C. Borges,Adri\u00e1n L\u00f3pez,2
+F. Andone,Adri\u00e1n L\u00f3pez,2
+F. Sch\u00e4r,Rub\u00e9n,2
+Guilherme,Edu Exp\u00f3sito,2
+One,Luisinho,2
+Edu Exp\u00f3sito,Adri\u00e1n L\u00f3pez,2
+Pedro Mosquera,F. Andone,2
+Adri\u00e1n L\u00f3pez,Rub\u00e9n,2
+Edu Exp\u00f3sito,F. Sch\u00e4r,2
+Edu Exp\u00f3sito,Juanfran,2
+Lucas P\u00e9rez,F. Sch\u00e4r,2
+Adri\u00e1n L\u00f3pez,Edu Exp\u00f3sito,2
+Lucas P\u00e9rez,Guilherme,2
+Rub\u00e9n,F. Andone,2
+F. Andone,Pedro Mosquera,2
+One,Adri\u00e1n L\u00f3pez,2
+E. \u00c7olak,Edu Exp\u00f3sito,2
+Guilherme,One,2
+One,Edu Exp\u00f3sito,2
+Luisinho,Rub\u00e9n,2
+Edu Exp\u00f3sito,Luisinho,2
+One,Lucas P\u00e9rez,1
+Juanfran,E. \u00c7olak,1
+F. Sch\u00e4r,E. \u00c7olak,1
+Luisinho,Lucas P\u00e9rez,1
+Rub\u00e9n,Lucas P\u00e9rez,1
+F. Andone,C. Borges,1
+Lucas P\u00e9rez,One,1
+Juanfran,One,1
+Edu Exp\u00f3sito,Rub\u00e9n,1
+Pedro Mosquera,Luisinho,1
+Adri\u00e1n L\u00f3pez,One,1
+Guilherme,Rub\u00e9n,1
+F. Sch\u00e4r,One,1
+Pedro Mosquera,Rub\u00e9n,1
+F. Andone,Edu Exp\u00f3sito,1
+Juanfran,Adri\u00e1n L\u00f3pez,1
+Rub\u00e9n,Adri\u00e1n L\u00f3pez,1
+F. Andone,E. \u00c7olak,1
+C. Borges,Pedro Mosquera,1
+Adri\u00e1n L\u00f3pez,E. \u00c7olak,1
+E. \u00c7olak,Adri\u00e1n L\u00f3pez,1
+Edu Exp\u00f3sito,One,1
+E. \u00c7olak,One,1
+One,C. Borges,1
+Juanfran,C. Borges,1
+Guilherme,Pedro Mosquera,1
+F. Andone,One,1
+Lucas P\u00e9rez,Edu Exp\u00f3sito,1
+Adri\u00e1n L\u00f3pez,C. Borges,1
+F. Andone,F. Sch\u00e4r,1
+E. \u00c7olak,Guilherme,1
+Lucas P\u00e9rez,Pedro Mosquera,1
+Adri\u00e1n L\u00f3pez,F. Andone,1
+F. Sch\u00e4r,Luisinho,1
+Juanfran,Rub\u00e9n,1
+Guilherme,Adri\u00e1n L\u00f3pez,1
+Lucas P\u00e9rez,C. Borges,1
+F. Sch\u00e4r,C. Borges,1
+Pedro Mosquera,One,1
+F. Sch\u00e4r,Juanfran,1
+Luisinho,Pedro Mosquera,1
+Luisinho,Edu Exp\u00f3sito,1
+Rub\u00e9n,Guilherme,1
+E. \u00c7olak,F. Andone,1
+F. Andone,Guilherme,1
+Edu Exp\u00f3sito,Guilherme,1
+E. \u00c7olak,Luisinho,1
+Luisinho,F. Andone,1
+Pedro Mosquera,C. Borges,1
+Pedro Mosquera,Guilherme,1
+One,F. Sch\u00e4r,1

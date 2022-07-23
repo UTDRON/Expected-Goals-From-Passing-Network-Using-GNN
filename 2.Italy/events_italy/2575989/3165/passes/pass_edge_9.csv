@@ -1,0 +1,16 @@
+Source,Target,Weight
+M. Gobbi,P. Hetemaj,2
+M. Gobbi,L. Castro,2
+L. Castro,M. Gobbi,2
+P. Hetemaj,L. Castro,1
+L. Castro,F. Cacciatore,1
+V. Birsa,F. Cacciatore,1
+B. Cesar,V. Birsa,1
+V. Birsa,S. Bastien,1
+L. Castro,V. Birsa,1
+B. Cesar,M. Gobbi,1
+F. Cacciatore,I. Radovanovi\u0107,1
+I. Radovanovi\u0107,B. Cesar,1
+P. Hetemaj,M. Gobbi,1
+S. Bastien,L. Castro,1
+F. Cacciatore,N. Tomovi\u0107,1

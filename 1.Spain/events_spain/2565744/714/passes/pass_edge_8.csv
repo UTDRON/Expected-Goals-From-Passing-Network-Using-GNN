@@ -1,0 +1,39 @@
+Source,Target,Weight
+Jonathan Viera,Ximo Navarro,3
+Jonathan Viera,Tana,3
+Tana,Jonathan Viera,3
+David Sim\u00f3n,G. Pe\u00f1alba,2
+G\u00e1lvez,H. Toledo,2
+G. Pe\u00f1alba,David Sim\u00f3n,2
+Ximo Navarro,L. Chichizola,2
+Ximo Navarro,Jonathan Viera,2
+L. Chichizola,Ximo Navarro,2
+G. Pe\u00f1alba,Jonathan Viera,2
+Jonathan Viera,G. Pe\u00f1alba,2
+David Sim\u00f3n,Tana,1
+Dani Castellano,H. Toledo,1
+G\u00e1lvez,L. Chichizola,1
+Jairo Samperio,G\u00e1lvez,1
+L. Chichizola,David Sim\u00f3n,1
+Jonathan Viera,J. Calleri,1
+H. Toledo,David Sim\u00f3n,1
+G\u00e1lvez,Jairo Samperio,1
+Tana,G. Pe\u00f1alba,1
+J. Calleri,David Sim\u00f3n,1
+G. Pe\u00f1alba,G\u00e1lvez,1
+Tana,Jairo Samperio,1
+H. Toledo,J. Calleri,1
+H. Toledo,Jonathan Viera,1
+Jonathan Viera,Dani Castellano,1
+David Sim\u00f3n,Dani Castellano,1
+G. Pe\u00f1alba,L. Chichizola,1
+Jonathan Viera,G\u00e1lvez,1
+Ximo Navarro,Jairo Samperio,1
+L. Chichizola,G. Pe\u00f1alba,1
+Dani Castellano,Jonathan Viera,1
+Jairo Samperio,Dani Castellano,1
+Jairo Samperio,Jonathan Viera,1
+David Sim\u00f3n,Jonathan Viera,1
+Ximo Navarro,G\u00e1lvez,1
+Dani Castellano,Ximo Navarro,1
+J. Calleri,Jairo Samperio,1

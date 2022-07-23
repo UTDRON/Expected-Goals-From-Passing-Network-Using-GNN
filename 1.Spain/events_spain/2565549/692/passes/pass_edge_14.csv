@@ -1,0 +1,13 @@
+Source,Target,Weight
+Jozabed,Jonny,2
+Jonny,Jozabed,2
+Sergio \u00c1lvarez,P. Sisto,1
+Hugo Mallo,N. Radoja,1
+Sergio \u00c1lvarez,Iago Aspas,1
+P. Sisto,Sergio \u00c1lvarez,1
+D. Wass,Hugo Mallo,1
+Jonny,Sergio \u00c1lvarez,1
+N. Radoja,Sergio \u00c1lvarez,1
+N. Radoja,Jonny,1
+Jonny,N. Radoja,1
+Sergio \u00c1lvarez,D. Wass,1

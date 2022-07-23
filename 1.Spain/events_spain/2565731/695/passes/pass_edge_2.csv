@@ -1,0 +1,71 @@
+Source,Target,Weight
+Ivi,Luna,9
+Luna,E. Boateng,8
+J. Lerma,Campa\u00f1a,7
+C. Doukour\u00e9,Luna,7
+Ivi,C. Doukour\u00e9,6
+Luna,Campa\u00f1a,6
+Luna,C. Doukour\u00e9,5
+C. Doukour\u00e9,J. Lerma,5
+J. Lerma,Luna,5
+J. Lerma,C. Doukour\u00e9,5
+E. Boateng,J. Lerma,5
+E. Boateng,Ivi,5
+Rober,Jos\u00e9 Luis Morales,5
+Campa\u00f1a,J. Lerma,5
+Jos\u00e9 Luis Morales,Rober,4
+Campa\u00f1a,E. Boateng,4
+Jos\u00e9 Luis Morales,Campa\u00f1a,4
+Campa\u00f1a,Jos\u00e9 Luis Morales,4
+Luna,Ivi,4
+Jos\u00e9 Luis Morales,Luna,4
+Campa\u00f1a,Luna,4
+Rober,Campa\u00f1a,3
+Campa\u00f1a,Rober,3
+Campa\u00f1a,Ivi,3
+Luna,J. Lerma,3
+J. Lerma,Jos\u00e9 Luis Morales,3
+E. Boateng,Jos\u00e9 Luis Morales,2
+J. Lerma,Ivi,2
+C. Doukour\u00e9,Campa\u00f1a,2
+Jos\u00e9 Luis Morales,J. Lerma,2
+Rober,Oier,2
+J. Lerma,E. Boateng,2
+Jos\u00e9 Luis Morales,Ivi,2
+E. Boateng,Campa\u00f1a,2
+Oier,E. Boateng,2
+Jos\u00e9 Luis Morales,Oier,2
+Campa\u00f1a,C. Doukour\u00e9,2
+Ivi,J. Lerma,2
+Campa\u00f1a,Sergio Postigo,2
+C. Doukour\u00e9,Jos\u00e9 Luis Morales,2
+Luna,Rober,2
+Sergio Postigo,Rober,2
+Jos\u00e9 Luis Morales,Sergio Postigo,2
+Luna,Jos\u00e9 Luis Morales,2
+E. Boateng,Sergio Postigo,2
+Sergio Postigo,Oier,2
+Rober,J. Lerma,2
+Ivi,Campa\u00f1a,1
+Oier,Jos\u00e9 Luis Morales,1
+C. Doukour\u00e9,Sergio Postigo,1
+Sergio Postigo,C. Doukour\u00e9,1
+E. Boateng,Oier,1
+Oier,Campa\u00f1a,1
+Sergio Postigo,Ivi,1
+Oier,J. Lerma,1
+Luna,Oier,1
+Ivi,Sergio Postigo,1
+Sergio Postigo,E. Boateng,1
+Oier,Ivi,1
+C. Doukour\u00e9,E. Boateng,1
+J. Lerma,Rober,1
+Sergio Postigo,Campa\u00f1a,1
+Oier,Rober,1
+Sergio Postigo,Luna,1
+Luna,Sergio Postigo,1
+E. Boateng,Luna,1
+C. Doukour\u00e9,Ivi,1
+Ivi,Jos\u00e9 Luis Morales,1
+Oier,Luna,1
+Rober,C. Doukour\u00e9,1

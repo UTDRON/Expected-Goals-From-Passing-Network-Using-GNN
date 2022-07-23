@@ -1,0 +1,45 @@
+Source,Target,Weight
+F. Costa,L. Rizzo,5
+L. Rizzo,F. Costa,3
+P. Schiattarella,A. Grassi,3
+F. Mattiello,P. Schiattarella,3
+F. Costa,A. Grassi,3
+F. Vicari,F. Mattiello,3
+A. Grassi,F. Costa,3
+Felipe,F. Costa,3
+L. Rizzo,P. Schiattarella,3
+F. Mattiello,A. Paloschi,2
+F. Vicari,Felipe,2
+P. Schiattarella,F. Mattiello,2
+F. Mattiello,M. Lazzari,2
+P. Schiattarella,A. Paloschi,2
+F. Costa,F. Vicari,2
+P. Schiattarella,F. Vicari,2
+A. Paloschi,F. Costa,2
+F. Costa,M. Antenucci,1
+A. Grassi,M. Antenucci,1
+A. Gomis,A. Grassi,1
+A. Grassi,P. Schiattarella,1
+A. Paloschi,M. Antenucci,1
+M. Lazzari,F. Vicari,1
+M. Lazzari,L. Rizzo,1
+F. Vicari,F. Costa,1
+F. Costa,A. Gomis,1
+F. Mattiello,A. Gomis,1
+M. Antenucci,M. Lazzari,1
+P. Schiattarella,Felipe,1
+A. Paloschi,M. Lazzari,1
+F. Vicari,A. Paloschi,1
+M. Antenucci,F. Costa,1
+Felipe,F. Mattiello,1
+A. Grassi,F. Mattiello,1
+M. Antenucci,F. Mattiello,1
+A. Grassi,L. Rizzo,1
+F. Costa,P. Schiattarella,1
+F. Mattiello,A. Grassi,1
+L. Rizzo,A. Grassi,1
+M. Lazzari,F. Mattiello,1
+M. Lazzari,P. Schiattarella,1
+A. Grassi,F. Vicari,1
+A. Gomis,P. Schiattarella,1
+A. Paloschi,Felipe,1

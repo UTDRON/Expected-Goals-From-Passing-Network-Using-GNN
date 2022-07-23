@@ -1,0 +1,72 @@
+Source,Target,Weight
+Bartra,A. Mandi,13
+A. Mandi,Fabi\u00e1n,7
+Joaqu\u00edn,Fabi\u00e1n,7
+Javi Garc\u00eda,Bartra,7
+Fabi\u00e1n,Joaqu\u00edn,7
+Fabi\u00e1n,Bartra,7
+Ad\u00e1n,Bartra,5
+Fabi\u00e1n,A. Mandi,5
+Bartra,J. Firpo,5
+A. Mandi,Javi Garc\u00eda,5
+A. Mandi,Francis Guerrero,4
+R. Boudebouz,Francis Guerrero,4
+A. Mandi,R. Boudebouz,4
+Bartra,Ad\u00e1n,4
+J. Firpo,Fabi\u00e1n,3
+Fabi\u00e1n,R. Boudebouz,3
+Francis Guerrero,Fabi\u00e1n,3
+Fabi\u00e1n,Javi Garc\u00eda,3
+Francis Guerrero,R. Boudebouz,3
+R. Boudebouz,A. Mandi,3
+Javi Garc\u00eda,R. Boudebouz,3
+Bartra,Fabi\u00e1n,3
+J. Firpo,Bartra,3
+Sergio Le\u00f3n,Joaqu\u00edn,3
+Joaqu\u00edn,J. Firpo,3
+J. Firpo,Joaqu\u00edn,2
+Joaqu\u00edn,Javi Garc\u00eda,2
+J. Firpo,Javi Garc\u00eda,2
+A. Mandi,Bartra,2
+Bartra,Joaqu\u00edn,2
+Fabi\u00e1n,Francis Guerrero,2
+Javi Garc\u00eda,Fabi\u00e1n,2
+Joaqu\u00edn,Bartra,2
+Javi Garc\u00eda,J. Firpo,2
+Francis Guerrero,Javi Garc\u00eda,2
+Javi Garc\u00eda,A. Mandi,2
+Joaqu\u00edn,R. Boudebouz,2
+Bartra,Javi Garc\u00eda,2
+R. Boudebouz,Fabi\u00e1n,2
+R. Boudebouz,Loren Mor\u00f3n,2
+Loren Mor\u00f3n,Joaqu\u00edn,2
+R. Boudebouz,Bartra,2
+Fabi\u00e1n,J. Firpo,1
+Sergio Le\u00f3n,J. Firpo,1
+A. Mandi,Sergio Le\u00f3n,1
+J. Firpo,Francis Guerrero,1
+Ad\u00e1n,R. Boudebouz,1
+Joaqu\u00edn,Francis Guerrero,1
+J. Firpo,A. Mandi,1
+R. Boudebouz,Sergio Le\u00f3n,1
+Loren Mor\u00f3n,R. Boudebouz,1
+A. Mandi,Ad\u00e1n,1
+Javi Garc\u00eda,Joaqu\u00edn,1
+Francis Guerrero,A. Mandi,1
+Joaqu\u00edn,Ad\u00e1n,1
+Loren Mor\u00f3n,Sergio Le\u00f3n,1
+Joaqu\u00edn,Sergio Le\u00f3n,1
+A. Mandi,Joaqu\u00edn,1
+R. Boudebouz,J. Firpo,1
+Francis Guerrero,Sergio Le\u00f3n,1
+Francis Guerrero,Bartra,1
+Sergio Le\u00f3n,Fabi\u00e1n,1
+R. Boudebouz,Joaqu\u00edn,1
+Javi Garc\u00eda,Francis Guerrero,1
+Francis Guerrero,Ad\u00e1n,1
+Ad\u00e1n,Loren Mor\u00f3n,1
+Loren Mor\u00f3n,Javi Garc\u00eda,1
+R. Boudebouz,Javi Garc\u00eda,1
+J. Firpo,Loren Mor\u00f3n,1
+Francis Guerrero,Loren Mor\u00f3n,1
+J. Firpo,Sergio Le\u00f3n,1

@@ -1,0 +1,59 @@
+Source,Target,Weight
+F. Helander,A. Masina,4
+S. Verdi,E. Krafth,3
+F. Helander,E. Pulgar,3
+E. Pulgar,E. Krafth,3
+R. Palacio,A. Poli,2
+F. Di Francesco,A. Masina,2
+S. Verdi,A. Masina,2
+A. Poli,S. Verdi,2
+E. Krafth,A. Poli,2
+E. Pulgar,S. Verdi,2
+E. Krafth,S. Verdi,2
+G. Gonz\u00e1lez,E. Krafth,2
+A. Poli,A. Masina,2
+E. Krafth,E. Pulgar,2
+A. Masina,G. Gonz\u00e1lez,2
+A. Masina,F. Helander,2
+A. Mirante,R. Palacio,2
+A. Masina,S. Ta\u00efder,2
+E. Krafth,G. Gonz\u00e1lez,2
+G. Gonz\u00e1lez,R. Palacio,2
+A. Mirante,F. Helander,2
+S. Ta\u00efder,F. Helander,2
+A. Masina,R. Palacio,2
+R. Palacio,A. Masina,1
+R. Palacio,S. Ta\u00efder,1
+S. Verdi,E. Pulgar,1
+R. Palacio,F. Di Francesco,1
+A. Masina,A. Mirante,1
+S. Ta\u00efder,G. Gonz\u00e1lez,1
+A. Masina,E. Krafth,1
+S. Ta\u00efder,R. Palacio,1
+E. Krafth,A. Mirante,1
+A. Poli,E. Pulgar,1
+E. Pulgar,F. Helander,1
+E. Krafth,F. Di Francesco,1
+R. Palacio,F. Helander,1
+G. Gonz\u00e1lez,S. Verdi,1
+E. Krafth,R. Palacio,1
+R. Palacio,E. Krafth,1
+A. Masina,S. Verdi,1
+E. Pulgar,F. Di Francesco,1
+A. Mirante,S. Ta\u00efder,1
+S. Ta\u00efder,A. Masina,1
+A. Masina,E. Pulgar,1
+G. Gonz\u00e1lez,A. Mirante,1
+S. Verdi,F. Helander,1
+F. Helander,A. Mirante,1
+E. Pulgar,A. Mirante,1
+G. Gonz\u00e1lez,F. Helander,1
+G. Gonz\u00e1lez,A. Poli,1
+F. Helander,G. Gonz\u00e1lez,1
+R. Palacio,E. Pulgar,1
+R. Palacio,G. Gonz\u00e1lez,1
+F. Helander,A. Poli,1
+S. Verdi,G. Gonz\u00e1lez,1
+F. Di Francesco,E. Krafth,1
+E. Pulgar,R. Palacio,1
+A. Poli,R. Palacio,1

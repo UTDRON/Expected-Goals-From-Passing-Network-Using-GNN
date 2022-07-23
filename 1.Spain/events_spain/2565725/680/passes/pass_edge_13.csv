@@ -1,0 +1,41 @@
+Source,Target,Weight
+S. N'Zonzi,W. Ben Yedder,2
+W. Ben Yedder,S. N'Zonzi,2
+\u00c9. Banega,C. Lenglet,2
+C. Lenglet,\u00c9. Banega,2
+Sergio Escudero,J. Correa,2
+L. Muriel,Sergio Escudero,2
+S. Corchia,Jes\u00fas Navas,2
+\u00c9. Banega,S. N'Zonzi,2
+S. Kj\u00e6r,\u00c9. Banega,2
+S. Kj\u00e6r,S. Corchia,2
+\u00c9. Banega,Sergio Escudero,2
+\u00c9. Banega,S. Kj\u00e6r,2
+Jes\u00fas Navas,S. Corchia,2
+Jes\u00fas Navas,\u00c9. Banega,1
+Sergio Rico,L. Muriel,1
+W. Ben Yedder,S. Corchia,1
+S. N'Zonzi,Jes\u00fas Navas,1
+Sergio Escudero,C. Lenglet,1
+J. Correa,\u00c9. Banega,1
+S. Kj\u00e6r,Jes\u00fas Navas,1
+Jes\u00fas Navas,S. N'Zonzi,1
+J. Correa,Sergio Escudero,1
+Jes\u00fas Navas,W. Ben Yedder,1
+W. Ben Yedder,C. Lenglet,1
+Sergio Rico,S. Kj\u00e6r,1
+S. Corchia,\u00c9. Banega,1
+S. Corchia,S. N'Zonzi,1
+S. Kj\u00e6r,Sergio Rico,1
+Sergio Escudero,Sergio Rico,1
+C. Lenglet,J. Correa,1
+J. Correa,L. Muriel,1
+S. N'Zonzi,Sergio Escudero,1
+J. Correa,S. N'Zonzi,1
+S. N'Zonzi,S. Corchia,1
+S. N'Zonzi,J. Correa,1
+S. N'Zonzi,\u00c9. Banega,1
+S. Corchia,S. Kj\u00e6r,1
+S. Corchia,W. Ben Yedder,1
+Sergio Escudero,S. Kj\u00e6r,1
+C. Lenglet,S. Kj\u00e6r,1

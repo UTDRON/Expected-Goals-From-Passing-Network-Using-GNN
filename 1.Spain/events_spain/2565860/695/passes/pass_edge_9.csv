@@ -1,0 +1,47 @@
+Source,Target,Weight
+J. Lerma,Campa\u00f1a,3
+J. Lerma,Rober,3
+Rober,A. Abeid,3
+Rober,J. Lerma,3
+A. Abeid,E. Bardhi,3
+E. Bardhi,A. Abeid,3
+A. Abeid,J. Lerma,3
+E. Cabaco,Oier,2
+Ivi,Jos\u00e9 Luis Morales,2
+Jos\u00e9 Luis Morales,E. Bardhi,2
+A. Abeid,Campa\u00f1a,2
+Campa\u00f1a,E. Bardhi,2
+E. Cabaco,Pedro L\u00f3pez,2
+Jos\u00e9 Luis Morales,Ivi,2
+Ivi,Pedro L\u00f3pez,2
+Campa\u00f1a,E. Cabaco,2
+Jos\u00e9 Luis Morales,Roger,1
+Oier,E. Cabaco,1
+Oier,Campa\u00f1a,1
+Pedro L\u00f3pez,Campa\u00f1a,1
+E. Bardhi,Jos\u00e9 Luis Morales,1
+Rober,E. Bardhi,1
+Jos\u00e9 Luis Morales,J. Lerma,1
+Campa\u00f1a,Jos\u00e9 Luis Morales,1
+E. Cabaco,Ivi,1
+E. Bardhi,Rober,1
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,1
+E. Bardhi,J. Lerma,1
+Rober,Jos\u00e9 Luis Morales,1
+Campa\u00f1a,Rober,1
+Oier,Rober,1
+A. Abeid,E. Cabaco,1
+Jos\u00e9 Luis Morales,A. Abeid,1
+E. Bardhi,Ivi,1
+Roger,Rober,1
+J. Lerma,Jos\u00e9 Luis Morales,1
+Roger,E. Cabaco,1
+Campa\u00f1a,Roger,1
+E. Cabaco,Rober,1
+J. Lerma,Ivi,1
+Pedro L\u00f3pez,Oier,1
+E. Bardhi,Campa\u00f1a,1
+Rober,E. Cabaco,1
+Pedro L\u00f3pez,J. Lerma,1
+J. Lerma,A. Abeid,1
+Ivi,Rober,1

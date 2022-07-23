@@ -1,0 +1,34 @@
+Source,Target,Weight
+Patric,S. de Vrij,3
+Lucas Leiva,Luis Alberto,2
+Luis Alberto,S. Milinkovi\u0107-Savi\u0107,2
+Lucas Leiva,\u015e. Radu,2
+S. Milinkovi\u0107-Savi\u0107,Patric,2
+S. Milinkovi\u0107-Savi\u0107,Lucas Leiva,2
+C. Immobile,Lucas Leiva,1
+S. Luli\u0107,Patric,1
+Luis Alberto,M. Parolo,1
+\u015e. Radu,S. Milinkovi\u0107-Savi\u0107,1
+Lucas Leiva,S. Milinkovi\u0107-Savi\u0107,1
+Patric,T. Strakosha,1
+C. Immobile,A. Maru\u0161i\u0107,1
+T. Strakosha,Patric,1
+S. Luli\u0107,C. Immobile,1
+\u015e. Radu,Luis Alberto,1
+\u015e. Radu,S. Luli\u0107,1
+S. de Vrij,Lucas Leiva,1
+M. Parolo,S. Luli\u0107,1
+S. de Vrij,\u015e. Radu,1
+A. Maru\u0161i\u0107,Patric,1
+T. Strakosha,\u015e. Radu,1
+A. Maru\u0161i\u0107,C. Immobile,1
+Patric,Lucas Leiva,1
+Lucas Leiva,A. Maru\u0161i\u0107,1
+\u015e. Radu,C. Immobile,1
+S. Milinkovi\u0107-Savi\u0107,\u015e. Radu,1
+S. de Vrij,Patric,1
+C. Immobile,S. Milinkovi\u0107-Savi\u0107,1
+Patric,A. Maru\u0161i\u0107,1
+A. Maru\u0161i\u0107,Lucas Leiva,1
+\u015e. Radu,Lucas Leiva,1
+Lucas Leiva,S. Luli\u0107,1

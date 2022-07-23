@@ -1,0 +1,29 @@
+Source,Target,Weight
+F. Fajr,L. Cabrera,2
+F. Fajr,Portillo,2
+Portillo,D. Su\u00e1rez,2
+D. Su\u00e1rez,M. Arambarri,1
+M. Arambarri,Djen\u00e9,1
+Djen\u00e9,Bruno,1
+D. Su\u00e1rez,Djen\u00e9,1
+M. Arambarri,F. Fajr,1
+Guaita,D. Su\u00e1rez,1
+Portillo,M. Arambarri,1
+L. Cabrera,D. Su\u00e1rez,1
+Guaita,Jorge Molina,1
+A. Ndiaye,Guaita,1
+D. Su\u00e1rez,A. Ndiaye,1
+A. Ndiaye,F. Fajr,1
+M. Arambarri,A. Ndiaye,1
+Djen\u00e9,Guaita,1
+L. Cabrera,A. Ndiaye,1
+\u00c1ngel,Portillo,1
+Djen\u00e9,A. Ndiaye,1
+Bruno,Guaita,1
+L. Cabrera,F. Fajr,1
+A. Ndiaye,Jorge Molina,1
+Jorge Molina,Djen\u00e9,1
+D. Su\u00e1rez,\u00c1ngel,1
+Jorge Molina,A. Ndiaye,1
+A. Ndiaye,L. Cabrera,1
+Guaita,F. Fajr,1

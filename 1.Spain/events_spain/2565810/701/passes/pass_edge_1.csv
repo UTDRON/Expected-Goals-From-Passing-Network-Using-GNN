@@ -1,0 +1,45 @@
+Source,Target,Weight
+F. Orellana,Rub\u00e9n Pe\u00f1a,3
+Arbilla,Jos\u00e9 \u00c1ngel,3
+Rub\u00e9n Pe\u00f1a,P. Diop,2
+P. Diop,F. Orellana,2
+M. Dmitrovi\u0107,Charles,2
+Jos\u00e9 \u00c1ngel,M. Dmitrovi\u0107,2
+Charles,P. Diop,2
+Jos\u00e9 \u00c1ngel,Arbilla,2
+F. Orellana,Charles,2
+Lomb\u00e1n,F. Orellana,2
+P. Diop,Joan Jord\u00e1n,1
+F. Orellana,Lomb\u00e1n,1
+Lomb\u00e1n,Arbilla,1
+P. Diop,M. Dmitrovi\u0107,1
+Charles,F. Orellana,1
+Joan Jord\u00e1n,Jos\u00e9 \u00c1ngel,1
+Lomb\u00e1n,Rub\u00e9n Pe\u00f1a,1
+Jos\u00e9 \u00c1ngel,T. Inui,1
+T. Inui,Arbilla,1
+Arbilla,Dani Garc\u00eda,1
+Rub\u00e9n Pe\u00f1a,Jos\u00e9 \u00c1ngel,1
+Dani Garc\u00eda,Rub\u00e9n Pe\u00f1a,1
+Jos\u00e9 \u00c1ngel,F. Orellana,1
+T. Inui,Joan Jord\u00e1n,1
+Joan Jord\u00e1n,T. Inui,1
+Arbilla,F. Orellana,1
+Dani Garc\u00eda,Arbilla,1
+T. Inui,Jos\u00e9 \u00c1ngel,1
+Arbilla,P. Diop,1
+Arbilla,Rub\u00e9n Pe\u00f1a,1
+F. Orellana,T. Inui,1
+M. Dmitrovi\u0107,Arbilla,1
+Rub\u00e9n Pe\u00f1a,F. Orellana,1
+Charles,Arbilla,1
+T. Inui,Lomb\u00e1n,1
+Joan Jord\u00e1n,Lomb\u00e1n,1
+Rub\u00e9n Pe\u00f1a,Arbilla,1
+F. Orellana,Dani Garc\u00eda,1
+Arbilla,Lomb\u00e1n,1
+Dani Garc\u00eda,Jos\u00e9 \u00c1ngel,1
+Charles,Joan Jord\u00e1n,1
+P. Diop,T. Inui,1
+Rub\u00e9n Pe\u00f1a,Charles,1
+Jos\u00e9 \u00c1ngel,Dani Garc\u00eda,1

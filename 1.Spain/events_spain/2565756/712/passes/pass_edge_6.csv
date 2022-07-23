@@ -1,0 +1,68 @@
+Source,Target,Weight
+Omar Ramos,Zald\u00faa,5
+Zald\u00faa,Gabriel,4
+Ra\u00fal Garc\u00eda,Jos\u00e9 Naranjo,4
+Gabriel,Omar Ramos,3
+Ra\u00fal Garc\u00eda,Guerrero,3
+Gabriel,Zald\u00faa,3
+D. Bra\u0161anac,Omar Ramos,3
+Guerrero,D. Bra\u0161anac,3
+Zald\u00faa,Guerrero,3
+Gumbau,Jos\u00e9 Naranjo,2
+Zald\u00faa,D. Bra\u0161anac,2
+D. Bra\u0161anac,Ra\u00fal Garc\u00eda,2
+Jos\u00e9 Naranjo,Gabriel,2
+Gabriel,D. Bra\u0161anac,2
+Zald\u00faa,Gumbau,2
+Guerrero,Zald\u00faa,2
+M. Mantovani,Gabriel,2
+D. Bra\u0161anac,Zald\u00faa,2
+Ra\u00fal Garc\u00eda,Gumbau,2
+Zald\u00faa,Omar Ramos,2
+Gabriel,Jos\u00e9 Naranjo,2
+Gumbau,Omar Ramos,2
+Jos\u00e9 Naranjo,Zald\u00faa,2
+D. Bra\u0161anac,M. Mantovani,2
+Omar Ramos,Ra\u00fal Garc\u00eda,2
+Jos\u00e9 Naranjo,D. Bra\u0161anac,2
+Gumbau,Ra\u00fal Garc\u00eda,2
+Omar Ramos,Gabriel,2
+Cu\u00e9llar,Guerrero,1
+Jos\u00e9 Naranjo,M. Mantovani,1
+Gabriel,Guerrero,1
+Jos\u00e9 Naranjo,Omar Ramos,1
+M. Mantovani,Jos\u00e9 Naranjo,1
+Bustinza,Cu\u00e9llar,1
+Ra\u00fal Garc\u00eda,Omar Ramos,1
+D. Bra\u0161anac,Jos\u00e9 Naranjo,1
+Cu\u00e9llar,Gabriel,1
+Cu\u00e9llar,Bustinza,1
+M. Mantovani,Zald\u00faa,1
+Jos\u00e9 Naranjo,Ra\u00fal Garc\u00eda,1
+Guerrero,Gumbau,1
+Guerrero,Gabriel,1
+Cu\u00e9llar,Ra\u00fal Garc\u00eda,1
+Gabriel,Gumbau,1
+Omar Ramos,D. Bra\u0161anac,1
+Omar Ramos,Guerrero,1
+Omar Ramos,Bustinza,1
+Guerrero,Ra\u00fal Garc\u00eda,1
+Gabriel,Ra\u00fal Garc\u00eda,1
+Guerrero,M. Mantovani,1
+Bustinza,Guerrero,1
+Ra\u00fal Garc\u00eda,Gabriel,1
+M. Mantovani,Cu\u00e9llar,1
+Bustinza,Gumbau,1
+Gumbau,Bustinza,1
+Gabriel,Bustinza,1
+Zald\u00faa,Cu\u00e9llar,1
+Bustinza,Ra\u00fal Garc\u00eda,1
+Omar Ramos,Gumbau,1
+Zald\u00faa,Bustinza,1
+Gumbau,Guerrero,1
+Gumbau,Gabriel,1
+Bustinza,Gabriel,1
+Gabriel,M. Mantovani,1
+Jos\u00e9 Naranjo,Gumbau,1
+Guerrero,Omar Ramos,1
+Gumbau,Cu\u00e9llar,1

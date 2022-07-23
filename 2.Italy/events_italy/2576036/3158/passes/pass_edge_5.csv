@@ -1,0 +1,62 @@
+Source,Target,Weight
+D. De Rossi,R. Nainggolan,4
+Bruno Peres,R. Nainggolan,3
+R. Nainggolan,F. Fazio,3
+R. Nainggolan,D. De Rossi,3
+F. Fazio,Bruno Peres,3
+D. De Rossi,L. Pellegrini,3
+D. De Rossi,A. Kolarov,2
+A. Kolarov,D. Perotti,2
+F. Fazio,Alisson,2
+Bruno Peres,F. Fazio,2
+Alisson,Juan Jesus,2
+R. Nainggolan,Bruno Peres,2
+Juan Jesus,A. Kolarov,2
+L. Pellegrini,A. Kolarov,2
+A. Kolarov,L. Pellegrini,2
+D. Perotti,A. Kolarov,2
+F. Fazio,Juan Jesus,2
+Bruno Peres,A. Florenzi,2
+Bruno Peres,D. De Rossi,2
+Juan Jesus,E. D\u017eeko,2
+Alisson,F. Fazio,2
+A. Kolarov,D. De Rossi,2
+Alisson,Bruno Peres,2
+Alisson,A. Kolarov,1
+R. Nainggolan,Juan Jesus,1
+Alisson,E. D\u017eeko,1
+Bruno Peres,D. Perotti,1
+K. Manolas,Alisson,1
+R. Nainggolan,Alisson,1
+L. Pellegrini,D. De Rossi,1
+D. De Rossi,Alisson,1
+A. Kolarov,A. Florenzi,1
+E. D\u017eeko,D. De Rossi,1
+F. Fazio,R. Nainggolan,1
+Bruno Peres,Alisson,1
+A. Kolarov,Juan Jesus,1
+A. Kolarov,E. D\u017eeko,1
+D. Perotti,D. De Rossi,1
+R. Nainggolan,A. Florenzi,1
+A. Florenzi,Bruno Peres,1
+A. Florenzi,D. De Rossi,1
+E. D\u017eeko,Alisson,1
+Juan Jesus,L. Pellegrini,1
+E. D\u017eeko,Bruno Peres,1
+A. Kolarov,Alisson,1
+L. Pellegrini,R. Nainggolan,1
+L. Pellegrini,D. Perotti,1
+L. Pellegrini,Juan Jesus,1
+D. Perotti,L. Pellegrini,1
+D. De Rossi,Juan Jesus,1
+A. Kolarov,R. Nainggolan,1
+E. D\u017eeko,A. Kolarov,1
+Juan Jesus,D. De Rossi,1
+L. Pellegrini,K. Manolas,1
+Alisson,R. Nainggolan,1
+L. Pellegrini,F. Fazio,1
+D. De Rossi,Bruno Peres,1
+R. Nainggolan,A. Kolarov,1
+Juan Jesus,Bruno Peres,1
+Juan Jesus,Alisson,1
+A. Florenzi,R. Nainggolan,1

@@ -1,0 +1,17 @@
+Source,Target,Weight
+Trigueros,Pablo Fornals,2
+Rodri,Jaume Costa,1
+M. Barbosa,Trigueros,1
+C. Bacca,M. Barbosa,1
+Pablo Fornals,Trigueros,1
+D. Bonera,Pablo Fornals,1
+Pablo Fornals,Jaume Costa,1
+Trigueros,Rodri,1
+M. Barbosa,D. Bonera,1
+D. Bonera,Trigueros,1
+Jaume Costa,Rodri,1
+D. Cheryshev,N. Sansone,1
+Jaume Costa,C. Bacca,1
+Rodri,D. Cheryshev,1
+D. Cheryshev,M. Barbosa,1
+Pablo Fornals,D. Cheryshev,1

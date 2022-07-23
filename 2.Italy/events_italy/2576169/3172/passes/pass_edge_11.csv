@@ -1,0 +1,33 @@
+Source,Target,Weight
+R. Gosens,A. Masiello,3
+R. Gosens,B. Cristante,2
+A. Masiello,R. Gosens,2
+B. Cristante,J. Ili\u010di\u0107,2
+A. Petagna,B. Cristante,2
+J. Ili\u010di\u0107,A. Petagna,2
+T. Castagne,A. Petagna,2
+A. Petagna,M. de Roon,2
+T. Castagne,J. Ili\u010di\u0107,1
+M. de Roon,B. Cristante,1
+A. Masiello,T. Castagne,1
+J. Ili\u010di\u0107,M. de Roon,1
+R. Freuler,R. Gosens,1
+R. Freuler,A. Petagna,1
+J. Palomino,T. Castagne,1
+J. Ili\u010di\u0107,B. Cristante,1
+P. Gollini,R. Freuler,1
+Rafael Tol\u00f3i,R. Gosens,1
+T. Castagne,Rafael Tol\u00f3i,1
+M. de Roon,A. Masiello,1
+B. Cristante,A. Petagna,1
+B. Cristante,R. Freuler,1
+J. Palomino,Rafael Tol\u00f3i,1
+A. Petagna,R. Gosens,1
+A. Masiello,R. Freuler,1
+B. Cristante,P. Gollini,1
+A. Masiello,J. Palomino,1
+R. Freuler,A. Masiello,1
+A. Petagna,T. Castagne,1
+B. Cristante,A. Masiello,1
+Rafael Tol\u00f3i,T. Castagne,1
+A. Masiello,J. Ili\u010di\u0107,1

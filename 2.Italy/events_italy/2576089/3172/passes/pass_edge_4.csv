@@ -1,0 +1,27 @@
+Source,Target,Weight
+Rafael Tol\u00f3i,M. de Roon,3
+M. de Roon,R. Freuler,3
+R. Freuler,A. G\u00f3mez,2
+R. Freuler,Rafael Tol\u00f3i,2
+M. Caldara,R. Freuler,2
+R. Freuler,M. de Roon,2
+M. de Roon,M. Caldara,2
+A. G\u00f3mez,B. Cristante,1
+Rafael Tol\u00f3i,H. Hateboer,1
+A. Masiello,T. Castagne,1
+M. Caldara,H. Hateboer,1
+A. G\u00f3mez,Rafael Tol\u00f3i,1
+A. Cornelius,A. G\u00f3mez,1
+M. de Roon,B. Cristante,1
+A. G\u00f3mez,A. Masiello,1
+T. Castagne,A. G\u00f3mez,1
+A. Masiello,R. Freuler,1
+B. Cristante,M. Caldara,1
+Rafael Tol\u00f3i,B. Cristante,1
+R. Freuler,B. Cristante,1
+H. Hateboer,R. Freuler,1
+B. Cristante,Rafael Tol\u00f3i,1
+M. de Roon,Rafael Tol\u00f3i,1
+H. Hateboer,M. de Roon,1
+B. Cristante,A. Cornelius,1
+A. G\u00f3mez,M. de Roon,1

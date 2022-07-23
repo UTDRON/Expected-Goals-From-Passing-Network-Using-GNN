@@ -1,0 +1,18 @@
+Source,Target,Weight
+A. Taarabt,A. Bertolacci,2
+A. Izzo,A. Rosi,1
+A. Bertolacci,A. Izzo,1
+L. Rigoni,A. Rosi,1
+A. Taarabt,L. Rigoni,1
+D. Laxalt,N. Spolli,1
+L. Rigoni,G. Pandev,1
+A. Rosi,A. Taarabt,1
+A. Izzo,L. Rigoni,1
+G. Pandev,A. Taarabt,1
+A. Rosi,Miguel Veloso,1
+L. Rigoni,A. Izzo,1
+Miguel Veloso,A. Taarabt,1
+Miguel Veloso,D. Laxalt,1
+A. Taarabt,Miguel Veloso,1
+N. Spolli,A. Bertolacci,1
+A. Bertolacci,L. Rigoni,1

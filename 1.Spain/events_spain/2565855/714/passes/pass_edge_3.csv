@@ -1,0 +1,78 @@
+Source,Target,Weight
+Dani Castellano,Momo,8
+Momo,Dani Castellano,6
+Javi Castellano,M. Aguirregaray,5
+M. Aguirregaray,A. Halilovi\u0107,5
+G\u00e1lvez,Dani Castellano,5
+O. Etebo,G\u00e1lvez,4
+O. Etebo,A. Halilovi\u0107,4
+Erik Exp\u00f3sito,Dani Castellano,3
+A. Halilovi\u0107,M. Aguirregaray,3
+Dani Castellano,Javi Castellano,3
+M. Aguirregaray,Javi Castellano,3
+Momo,Javi Castellano,3
+Dani Castellano,G\u00e1lvez,3
+Momo,O. Etebo,3
+A. Halilovi\u0107,Erik Exp\u00f3sito,3
+I. Ezekiel,Momo,3
+M. Aguirregaray,Erik Exp\u00f3sito,3
+Javi Castellano,G\u00e1lvez,3
+M. Aguirregaray,O. Etebo,3
+Erik Exp\u00f3sito,I. Ezekiel,3
+David Garc\u00eda,G\u00e1lvez,3
+A. Halilovi\u0107,Javi Castellano,2
+G\u00e1lvez,L. Chichizola,2
+O. Etebo,David Garc\u00eda,2
+A. Halilovi\u0107,O. Etebo,2
+Javi Castellano,Momo,2
+David Garc\u00eda,M. Aguirregaray,2
+Momo,I. Ezekiel,2
+Erik Exp\u00f3sito,A. Halilovi\u0107,2
+I. Ezekiel,O. Etebo,2
+G\u00e1lvez,David Garc\u00eda,2
+G\u00e1lvez,Javi Castellano,2
+Javi Castellano,David Garc\u00eda,2
+Dani Castellano,L. Chichizola,2
+L. Chichizola,M. Aguirregaray,2
+Momo,Erik Exp\u00f3sito,2
+A. Halilovi\u0107,Dani Castellano,2
+A. Halilovi\u0107,I. Ezekiel,2
+L. Chichizola,Erik Exp\u00f3sito,2
+Javi Castellano,O. Etebo,1
+Javi Castellano,L. Chichizola,1
+O. Etebo,Javi Castellano,1
+G\u00e1lvez,Momo,1
+Javi Castellano,A. Halilovi\u0107,1
+M. Aguirregaray,Dani Castellano,1
+I. Ezekiel,M. Aguirregaray,1
+Javi Castellano,Dani Castellano,1
+A. Halilovi\u0107,Momo,1
+Dani Castellano,M. Aguirregaray,1
+Dani Castellano,O. Etebo,1
+M. Aguirregaray,I. Ezekiel,1
+Dani Castellano,Erik Exp\u00f3sito,1
+David Garc\u00eda,Dani Castellano,1
+M. Aguirregaray,David Garc\u00eda,1
+Dani Castellano,A. Halilovi\u0107,1
+L. Chichizola,I. Ezekiel,1
+Erik Exp\u00f3sito,M. Aguirregaray,1
+I. Ezekiel,Javi Castellano,1
+I. Ezekiel,David Garc\u00eda,1
+David Garc\u00eda,L. Chichizola,1
+G\u00e1lvez,O. Etebo,1
+G\u00e1lvez,A. Halilovi\u0107,1
+I. Ezekiel,L. Chichizola,1
+Momo,G\u00e1lvez,1
+I. Ezekiel,G\u00e1lvez,1
+I. Ezekiel,Erik Exp\u00f3sito,1
+O. Etebo,Momo,1
+O. Etebo,I. Ezekiel,1
+O. Etebo,M. Aguirregaray,1
+G\u00e1lvez,I. Ezekiel,1
+O. Etebo,Dani Castellano,1
+Erik Exp\u00f3sito,Javi Castellano,1
+David Garc\u00eda,O. Etebo,1
+L. Chichizola,A. Halilovi\u0107,1
+Erik Exp\u00f3sito,O. Etebo,1
+L. Chichizola,Momo,1
+G\u00e1lvez,M. Aguirregaray,1

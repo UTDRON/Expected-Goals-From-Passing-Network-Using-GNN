@@ -1,0 +1,30 @@
+Source,Target,Weight
+M. Fossati,Lee Seung-Woo,5
+R\u00f4mulo,M. Fossati,5
+Lee Seung-Woo,B. Zuculini,4
+M. Fossati,R\u00f4mulo,3
+R\u00f4mulo,Lee Seung-Woo,2
+B. Zuculini,M. Fossati,2
+M. Fossati,B. Zuculini,2
+Lee Seung-Woo,M. Fossati,2
+B. Zuculini,A. Cerci,1
+A. Cerci,R\u00f4mulo,1
+M. Kean,E. Bearzotti,1
+E. Bearzotti,M. Kean,1
+T. Heurtaux,Nicolas,1
+A. Caracciolo,R\u00f4mulo,1
+G. Pazzini,R\u00f4mulo,1
+Lee Seung-Woo,A. Caracciolo,1
+A. Cerci,E. Bearzotti,1
+Nicolas,A. Caracciolo,1
+B. Zuculini,R\u00f4mulo,1
+E. Bearzotti,Lee Seung-Woo,1
+Lee Seung-Woo,R\u00f4mulo,1
+R\u00f4mulo,B. Zuculini,1
+E. Bearzotti,A. Cerci,1
+A. Caracciolo,E. Bearzotti,1
+B. Zuculini,M. Kean,1
+B. Zuculini,Lee Seung-Woo,1
+M. Kean,M. Fossati,1
+B. Zuculini,G. Pazzini,1
+Lee Seung-Woo,M. Kean,1

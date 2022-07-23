@@ -1,0 +1,29 @@
+Source,Target,Weight
+A. Florenzi,Bruno Peres,2
+S. El Shaarawy,M. Gonalons,2
+K. Strootman,A. Kolarov,2
+Bruno Peres,A. Florenzi,2
+D. Perotti,Bruno Peres,2
+F. Fazio,Juan Jesus,1
+F. Fazio,Gerson,1
+A. Kolarov,F. Fazio,1
+M. Gonalons,K. Strootman,1
+F. Fazio,D. Perotti,1
+Bruno Peres,S. El Shaarawy,1
+Bruno Peres,F. Fazio,1
+A. Kolarov,K. Strootman,1
+Juan Jesus,M. Gonalons,1
+Gerson,D. Perotti,1
+Bruno Peres,M. Gonalons,1
+Juan Jesus,K. Strootman,1
+S. El Shaarawy,K. Strootman,1
+M. Gonalons,S. El Shaarawy,1
+Gerson,F. Fazio,1
+K. Strootman,S. El Shaarawy,1
+F. Fazio,Alisson,1
+M. Gonalons,Bruno Peres,1
+M. Gonalons,E. D\u017eeko,1
+K. Strootman,M. Gonalons,1
+M. Gonalons,Gerson,1
+E. D\u017eeko,S. El Shaarawy,1
+Alisson,Juan Jesus,1

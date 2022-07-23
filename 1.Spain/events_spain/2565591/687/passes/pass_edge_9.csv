@@ -1,0 +1,25 @@
+Source,Target,Weight
+G. Rulli,De La Bella,2
+De La Bella,G. Rulli,2
+De La Bella,Juanmi,1
+Juanmi,Diego Llorente,1
+Illarramendi,Odriozola,1
+Illarramendi,C. Vela,1
+Jon Bautista,Illarramendi,1
+Canales,Diego Llorente,1
+Diego Llorente,Illarramendi,1
+De La Bella,Jon Bautista,1
+C. Vela,Illarramendi,1
+Juanmi,De La Bella,1
+Illarramendi,Diego Llorente,1
+Odriozola,C. Vela,1
+Illarramendi,Xabi Prieto,1
+C. Vela,Xabi Prieto,1
+Odriozola,Canales,1
+Diego Llorente,Canales,1
+Jon Bautista,Odriozola,1
+Xabi Prieto,Odriozola,1
+Xabi Prieto,Juanmi,1
+Diego Llorente,De La Bella,1
+Canales,Illarramendi,1
+Odriozola,Jon Bautista,1

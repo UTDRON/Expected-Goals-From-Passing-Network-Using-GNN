@@ -1,0 +1,26 @@
+Source,Target,Weight
+R. Chibsah,N. Viola,4
+G. Di Chiara,P. Iemmello,2
+N. Viola,G. Di Chiara,2
+N. Viola,R. Chibsah,2
+P. Iemmello,R. Chibsah,2
+N. Viola,A. Lazaar,2
+C. Lombardi,L. Venuti,1
+C. Lombardi,L. Antei,1
+L. Antei,G. Di Chiara,1
+N. Viola,L. Venuti,1
+L. Venuti,A. Ciciretti,1
+L. Antei,A. Brignoli,1
+A. Brignoli,L. Antei,1
+L. Venuti,R. Chibsah,1
+G. Di Chiara,N. Viola,1
+A. Ciciretti,N. Viola,1
+A. Lazaar,N. Viola,1
+G. Di Chiara,R. Chibsah,1
+A. Brignoli,G. Di Chiara,1
+R. Chibsah,L. Venuti,1
+R. Chibsah,G. Di Chiara,1
+A. Lazaar,G. Di Chiara,1
+L. Venuti,C. Lombardi,1
+L. Venuti,A. Brignoli,1
+G. Di Chiara,L. Venuti,1

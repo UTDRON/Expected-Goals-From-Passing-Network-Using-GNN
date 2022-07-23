@@ -1,0 +1,13 @@
+Source,Target,Weight
+Miguel Veloso,G. Lapadula,2
+A. Bertolacci,A. Taarabt,2
+D. Laxalt,E. Zukanovi\u0107,2
+G. Lapadula,N. Spolli,1
+A. Taarabt,G. Lapadula,1
+G. Lapadula,D. Laxalt,1
+A. Taarabt,Miguel Veloso,1
+N. Spolli,Miguel Veloso,1
+E. Zukanovi\u0107,Miguel Veloso,1
+G. Lapadula,A. Bertolacci,1
+E. Zukanovi\u0107,D. Laxalt,1
+Miguel Veloso,A. Bertolacci,1

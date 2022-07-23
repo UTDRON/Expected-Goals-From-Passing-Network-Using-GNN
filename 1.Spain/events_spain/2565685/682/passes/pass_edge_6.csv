@@ -1,0 +1,15 @@
+Source,Target,Weight
+Rodri,\u00c1lvaro Gonz\u00e1lez,1
+Rodri,Trigueros,1
+Mario,D. Bonera,1
+R. Soriano,Pablo Fornals,1
+Rodri,C. Bakambu,1
+C. Bakambu,D. Bonera,1
+Trigueros,R. Soriano,1
+\u00c1lvaro Gonz\u00e1lez,Rodri,1
+D. Bonera,R. Soriano,1
+R. Soriano,\u00c1lvaro Gonz\u00e1lez,1
+\u00c1lvaro Gonz\u00e1lez,D. Bonera,1
+D. Bonera,Mario,1
+D. Bonera,Trigueros,1
+Trigueros,Rodri,1

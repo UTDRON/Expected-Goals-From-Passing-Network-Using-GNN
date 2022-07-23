@@ -1,0 +1,55 @@
+Source,Target,Weight
+T. Castagne,B. Cristante,8
+B. Cristante,T. Castagne,5
+R. Gosens,A. G\u00f3mez,5
+M. de Roon,T. Castagne,5
+A. G\u00f3mez,R. Gosens,4
+B. Cristante,G. Mancini,4
+R. Freuler,R. Gosens,4
+M. de Roon,B. Cristante,3
+R. Gosens,J. Palomino,3
+J. Palomino,R. Gosens,3
+G. Mancini,M. de Roon,3
+J. Palomino,R. Freuler,3
+A. Petagna,M. Caldara,2
+R. Freuler,J. Palomino,2
+R. Freuler,M. de Roon,2
+T. Castagne,A. Petagna,2
+R. Gosens,R. Freuler,2
+T. Castagne,M. de Roon,2
+M. Caldara,G. Mancini,2
+A. Petagna,T. Castagne,2
+A. G\u00f3mez,M. Caldara,2
+G. Mancini,A. Petagna,1
+M. Caldara,P. Gollini,1
+M. Caldara,R. Freuler,1
+P. Gollini,R. Freuler,1
+R. Freuler,A. Petagna,1
+R. Gosens,G. Mancini,1
+M. Caldara,B. Cristante,1
+B. Cristante,A. Petagna,1
+M. Caldara,R. Gosens,1
+G. Mancini,M. Caldara,1
+A. G\u00f3mez,M. de Roon,1
+B. Cristante,P. Gollini,1
+G. Mancini,A. G\u00f3mez,1
+B. Cristante,M. de Roon,1
+R. Freuler,T. Castagne,1
+M. de Roon,R. Freuler,1
+A. G\u00f3mez,A. Petagna,1
+T. Castagne,A. G\u00f3mez,1
+A. Petagna,P. Gollini,1
+B. Cristante,A. G\u00f3mez,1
+J. Palomino,M. Caldara,1
+P. Gollini,M. Caldara,1
+R. Freuler,A. G\u00f3mez,1
+B. Cristante,R. Freuler,1
+G. Mancini,R. Freuler,1
+M. de Roon,G. Mancini,1
+R. Gosens,B. Cristante,1
+T. Castagne,J. Palomino,1
+M. Caldara,M. de Roon,1
+P. Gollini,J. Palomino,1
+A. G\u00f3mez,R. Freuler,1
+G. Mancini,B. Cristante,1
+M. Caldara,T. Castagne,1

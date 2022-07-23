@@ -1,0 +1,8 @@
+Source,Target,Weight
+E. Boateng,Coke,2
+Coke,Jason,2
+J. Lerma,Luna,1
+Coke,E. Boateng,1
+Luna,Coke,1
+Jason,J. Lerma,1
+Jason,Coke,1

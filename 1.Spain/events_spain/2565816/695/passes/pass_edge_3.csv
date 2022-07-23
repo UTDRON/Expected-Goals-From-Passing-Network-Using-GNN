@@ -1,0 +1,21 @@
+Source,Target,Weight
+Luna,Ivi,3
+C. Doukour\u00e9,Rober,2
+Pedro L\u00f3pez,Jos\u00e9 Luis Morales,2
+Luna,S. Luki\u0107,2
+Jos\u00e9 Luis Morales,Pedro L\u00f3pez,2
+Ivi,Luna,2
+Rober,S. Luki\u0107,1
+E. Cabaco,Jos\u00e9 Luis Morales,1
+Pedro L\u00f3pez,A. Sadiku,1
+S. Luki\u0107,Rober,1
+Ivi,E. Cabaco,1
+Rober,A. Sadiku,1
+S. Luki\u0107,C. Doukour\u00e9,1
+Jos\u00e9 Luis Morales,Luna,1
+Rober,Luna,1
+A. Sadiku,Pedro L\u00f3pez,1
+C. Doukour\u00e9,Jos\u00e9 Luis Morales,1
+A. Sadiku,S. Luki\u0107,1
+Jos\u00e9 Luis Morales,C. Doukour\u00e9,1
+S. Luki\u0107,Luna,1

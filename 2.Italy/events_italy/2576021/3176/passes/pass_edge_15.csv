@@ -1,0 +1,27 @@
+Source,Target,Weight
+Bruno Gaspar,Gil Dias,5
+Gil Dias,Bruno Gaspar,5
+Gil Dias,R. Saponara,2
+D. Astori,Bruno Gaspar,2
+R. Saponara,Bruno Gaspar,2
+Bruno Gaspar,M. Badelj,2
+J. Veretout,D. Astori,2
+C. Biraghi,D. Astori,2
+G. Pezzella,Gil Dias,1
+M. Badelj,Gil Dias,1
+Bruno Gaspar,G. Pezzella,1
+D. Astori,R. Saponara,1
+M. Benassi,C. Biraghi,1
+Bruno Gaspar,D. Astori,1
+D. Astori,G. Pezzella,1
+M. Badelj,G. Pezzella,1
+G. Pezzella,J. Veretout,1
+Bruno Gaspar,J. Veretout,1
+R. Saponara,Gil Dias,1
+M. Badelj,J. Veretout,1
+J. Veretout,G. Pezzella,1
+G. Pezzella,Bruno Gaspar,1
+R. Saponara,M. Badelj,1
+M. Badelj,R. Saponara,1
+D. Astori,C. Biraghi,1
+Gil Dias,M. Badelj,1

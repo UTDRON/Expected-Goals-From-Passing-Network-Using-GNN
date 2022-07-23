@@ -1,0 +1,80 @@
+Source,Target,Weight
+A. Ferrari,M. Fares,6
+G. Felicioli,M. Fossati,5
+M. Fossati,A. Ferrari,5
+M. Valoti,B. Petkovi\u0107,4
+M. Fares,R. Aarons,4
+M. Fossati,A. Caracciolo,4
+M. Fares,A. Ferrari,3
+A. Ferrari,M. Fossati,3
+A. Ferrari,M. Valoti,3
+B. Petkovi\u0107,M. Fossati,3
+Nicolas,M. Fares,3
+A. Caracciolo,R\u00f4mulo,3
+J. Vukovi\u0107,A. Ferrari,2
+R\u00f4mulo,A. Ferrari,2
+M. Fossati,J. Vukovi\u0107,2
+J. Vukovi\u0107,Nicolas,2
+B. Petkovi\u0107,G. Felicioli,2
+B. Petkovi\u0107,A. Ferrari,2
+R\u00f4mulo,A. Caracciolo,2
+A. Caracciolo,B. Petkovi\u0107,2
+B. Petkovi\u0107,M. Valoti,2
+R. Aarons,G. Felicioli,2
+R. Aarons,A. Ferrari,2
+R. Aarons,A. Caracciolo,2
+G. Felicioli,M. Valoti,2
+M. Fares,A. Caracciolo,2
+M. Fares,G. Felicioli,2
+M. Fares,B. Petkovi\u0107,2
+R\u00f4mulo,M. Fossati,2
+M. Fossati,R. Aarons,2
+A. Caracciolo,Nicolas,2
+R. Aarons,B. Petkovi\u0107,1
+A. Ferrari,G. Felicioli,1
+G. Felicioli,R. Aarons,1
+A. Caracciolo,A. Ferrari,1
+A. Cerci,G. Felicioli,1
+Nicolas,R\u00f4mulo,1
+G. Felicioli,J. Vukovi\u0107,1
+M. Valoti,R. Aarons,1
+J. Vukovi\u0107,M. Fossati,1
+M. Fossati,Nicolas,1
+B. Petkovi\u0107,M. Fares,1
+M. Fossati,B. Petkovi\u0107,1
+M. Valoti,J. Vukovi\u0107,1
+A. Ferrari,A. Caracciolo,1
+M. Valoti,M. Fossati,1
+M. Fossati,M. Valoti,1
+A. Ferrari,R. Aarons,1
+R. Aarons,M. Fossati,1
+A. Caracciolo,J. Vukovi\u0107,1
+A. Ferrari,Lee Seung-Woo,1
+J. Vukovi\u0107,M. Valoti,1
+M. Fossati,R\u00f4mulo,1
+B. Petkovi\u0107,J. Vukovi\u0107,1
+Nicolas,R. Aarons,1
+A. Caracciolo,M. Fossati,1
+M. Valoti,A. Cerci,1
+A. Caracciolo,M. Fares,1
+M. Valoti,M. Fares,1
+J. Vukovi\u0107,M. Fares,1
+A. Ferrari,B. Petkovi\u0107,1
+A. Ferrari,Nicolas,1
+R. Aarons,R\u00f4mulo,1
+A. Caracciolo,R. Aarons,1
+R. Aarons,M. Valoti,1
+B. Petkovi\u0107,A. Caracciolo,1
+G. Felicioli,A. Caracciolo,1
+Nicolas,A. Ferrari,1
+Nicolas,B. Petkovi\u0107,1
+G. Felicioli,R\u00f4mulo,1
+R\u00f4mulo,J. Vukovi\u0107,1
+Lee Seung-Woo,M. Fossati,1
+A. Cerci,R\u00f4mulo,1
+M. Fares,Lee Seung-Woo,1
+M. Valoti,G. Felicioli,1
+M. Fossati,G. Felicioli,1
+R\u00f4mulo,Nicolas,1
+Lee Seung-Woo,M. Fares,1
+R. Aarons,A. Cerci,1

@@ -1,0 +1,18 @@
+Source,Target,Weight
+E. Mu\u00f1oz,Rub\u00e9n P\u00e9rez,2
+E. Mu\u00f1oz,Omar Ramos,2
+Eraso,E. Mu\u00f1oz,1
+Eraso,Guerrero,1
+Rub\u00e9n P\u00e9rez,Eraso,1
+Gabriel,Omar Ramos,1
+Bustinza,Zald\u00faa,1
+Rub\u00e9n P\u00e9rez,E. Mu\u00f1oz,1
+Zald\u00faa,Guerrero,1
+Guerrero,Zald\u00faa,1
+Omar Ramos,E. Mu\u00f1oz,1
+Zald\u00faa,E. Mu\u00f1oz,1
+Omar Ramos,Gabriel,1
+Zald\u00faa,Omar Ramos,1
+Omar Ramos,Rub\u00e9n P\u00e9rez,1
+Omar Ramos,Eraso,1
+Rub\u00e9n P\u00e9rez,Bustinza,1

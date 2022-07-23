@@ -1,0 +1,32 @@
+Source,Target,Weight
+Adri\u00e1n L\u00f3pez,Juanfran,2
+C. Borges,B\u00f3veda,2
+Juanfran,Lucas P\u00e9rez,2
+B\u00f3veda,Luisinho,2
+Lucas P\u00e9rez,Juanfran,1
+F. Sch\u00e4r,C. Borges,1
+Luisinho,Juanfran,1
+Juanfran,Z. Bakkali,1
+Lucas P\u00e9rez,Pedro Mosquera,1
+Lucas P\u00e9rez,F. Sch\u00e4r,1
+Juanfran,B\u00f3veda,1
+Pedro Mosquera,Luisinho,1
+Adri\u00e1n L\u00f3pez,B\u00f3veda,1
+Luisinho,Adri\u00e1n L\u00f3pez,1
+Juanfran,C. Borges,1
+Luisinho,Rub\u00e9n,1
+F. Sch\u00e4r,Luisinho,1
+Juanfran,Pedro Mosquera,1
+Rub\u00e9n,Adri\u00e1n L\u00f3pez,1
+F. Sch\u00e4r,Juanfran,1
+Lucas P\u00e9rez,S. Muntari,1
+Pedro Mosquera,F. Sch\u00e4r,1
+Pedro Mosquera,Adri\u00e1n L\u00f3pez,1
+Z. Bakkali,C. Borges,1
+C. Borges,Lucas P\u00e9rez,1
+Lucas P\u00e9rez,Z. Bakkali,1
+B\u00f3veda,F. Sch\u00e4r,1
+B\u00f3veda,Pedro Mosquera,1
+Z. Bakkali,S. Muntari,1
+S. Muntari,Juanfran,1
+S. Muntari,Lucas P\u00e9rez,1

@@ -1,0 +1,68 @@
+Source,Target,Weight
+Lekue,I\u00f1igo C\u00f3rdoba,7
+De Marcos,Susaeta,5
+I\u00f1igo C\u00f3rdoba,Lekue,5
+Be\u00f1at,San Jos\u00e9,5
+\u00cd\u00f1igo Mart\u00ednez,San Jos\u00e9,4
+I\u00f1igo C\u00f3rdoba,Ra\u00fal Garc\u00eda,4
+San Jos\u00e9,\u00cd\u00f1igo Mart\u00ednez,4
+San Jos\u00e9,Lekue,3
+San Jos\u00e9,Be\u00f1at,3
+\u00cd\u00f1igo Mart\u00ednez,I\u00f1igo C\u00f3rdoba,3
+Be\u00f1at,De Marcos,3
+Lekue,Be\u00f1at,3
+Susaeta,Be\u00f1at,3
+San Jos\u00e9,Yeray,3
+De Marcos,San Jos\u00e9,3
+Be\u00f1at,Lekue,3
+Yeray,San Jos\u00e9,3
+San Jos\u00e9,De Marcos,3
+\u00cd\u00f1igo Mart\u00ednez,Lekue,3
+Be\u00f1at,Susaeta,2
+\u00cd\u00f1igo Mart\u00ednez,Yeray,2
+Yeray,De Marcos,2
+Susaeta,\u00cd\u00f1igo Mart\u00ednez,2
+\u00cd\u00f1igo Mart\u00ednez,Be\u00f1at,2
+Lekue,Aduriz,2
+Be\u00f1at,\u00cd\u00f1igo Mart\u00ednez,2
+Susaeta,San Jos\u00e9,2
+Arrizabalaga,\u00cd\u00f1igo Mart\u00ednez,2
+I\u00f1igo C\u00f3rdoba,Be\u00f1at,2
+Lekue,\u00cd\u00f1igo Mart\u00ednez,2
+I\u00f1igo C\u00f3rdoba,San Jos\u00e9,2
+Ra\u00fal Garc\u00eda,Be\u00f1at,2
+Be\u00f1at,Yeray,1
+Ra\u00fal Garc\u00eda,Aduriz,1
+Yeray,\u00cd\u00f1igo Mart\u00ednez,1
+Aduriz,Yeray,1
+San Jos\u00e9,I\u00f1igo C\u00f3rdoba,1
+Susaeta,De Marcos,1
+Susaeta,Aduriz,1
+Ra\u00fal Garc\u00eda,\u00cd\u00f1igo Mart\u00ednez,1
+Susaeta,Lekue,1
+Yeray,Arrizabalaga,1
+Lekue,San Jos\u00e9,1
+Lekue,Ra\u00fal Garc\u00eda,1
+Susaeta,Yeray,1
+Arrizabalaga,Yeray,1
+San Jos\u00e9,Ra\u00fal Garc\u00eda,1
+Aduriz,Susaeta,1
+San Jos\u00e9,Aduriz,1
+Be\u00f1at,I\u00f1igo C\u00f3rdoba,1
+Yeray,Susaeta,1
+De Marcos,Yeray,1
+De Marcos,I\u00f1igo C\u00f3rdoba,1
+I\u00f1igo C\u00f3rdoba,\u00cd\u00f1igo Mart\u00ednez,1
+Ra\u00fal Garc\u00eda,Susaeta,1
+Ra\u00fal Garc\u00eda,I\u00f1igo C\u00f3rdoba,1
+Aduriz,De Marcos,1
+Aduriz,Be\u00f1at,1
+\u00cd\u00f1igo Mart\u00ednez,Aduriz,1
+Aduriz,Lekue,1
+Aduriz,Arrizabalaga,1
+Ra\u00fal Garc\u00eda,Arrizabalaga,1
+I\u00f1igo C\u00f3rdoba,Aduriz,1
+San Jos\u00e9,Susaeta,1
+Yeray,I\u00f1igo C\u00f3rdoba,1
+Aduriz,Ra\u00fal Garc\u00eda,1
+Yeray,Be\u00f1at,1

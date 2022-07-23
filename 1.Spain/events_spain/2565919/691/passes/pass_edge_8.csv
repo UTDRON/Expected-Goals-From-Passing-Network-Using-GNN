@@ -1,0 +1,39 @@
+Source,Target,Weight
+Javi L\u00f3pez,L\u00e9o Baptist\u00e3o,4
+Javi L\u00f3pez,Diego L\u00f3pez,3
+David L\u00f3pez,Naldo,2
+Marc Roca,Diego L\u00f3pez,2
+Marc Roca,David L\u00f3pez,2
+Diego L\u00f3pez,Gerard Moreno,2
+Gerard Moreno,Marc Roca,2
+Gerard Moreno,Javi L\u00f3pez,2
+Diego L\u00f3pez,Marc Roca,2
+Marc Roca,Javi L\u00f3pez,2
+L\u00e9o Baptist\u00e3o,Javi L\u00f3pez,2
+Diego L\u00f3pez,David L\u00f3pez,2
+Gerard Moreno,Naldo,1
+D\u00eddac Vil\u00e1,Marc Roca,1
+L\u00e9o Baptist\u00e3o,Marc Roca,1
+David L\u00f3pez,V\u00edctor S\u00e1nchez,1
+Marc Roca,Gerard Moreno,1
+Javi L\u00f3pez,Marc Roca,1
+Marc Roca,V\u00edctor S\u00e1nchez,1
+Naldo,David L\u00f3pez,1
+Gerard Moreno,L\u00e9o Baptist\u00e3o,1
+V\u00edctor S\u00e1nchez,Gerard Moreno,1
+V\u00edctor S\u00e1nchez,D\u00eddac Vil\u00e1,1
+David L\u00f3pez,Gerard Moreno,1
+David L\u00f3pez,Sergio Garc\u00eda,1
+D\u00eddac Vil\u00e1,P. Piatti,1
+V\u00edctor S\u00e1nchez,P. Piatti,1
+V\u00edctor S\u00e1nchez,David L\u00f3pez,1
+Sergio Garc\u00eda,Marc Roca,1
+P. Piatti,Sergio Garc\u00eda,1
+L\u00e9o Baptist\u00e3o,Gerard Moreno,1
+Naldo,Javi L\u00f3pez,1
+P. Piatti,D\u00eddac Vil\u00e1,1
+Sergio Garc\u00eda,V\u00edctor S\u00e1nchez,1
+Naldo,D\u00eddac Vil\u00e1,1
+D\u00eddac Vil\u00e1,Naldo,1
+David L\u00f3pez,Javi L\u00f3pez,1
+Naldo,Diego L\u00f3pez,1

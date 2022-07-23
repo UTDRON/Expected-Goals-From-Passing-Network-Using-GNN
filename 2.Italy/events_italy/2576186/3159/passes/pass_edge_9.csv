@@ -1,0 +1,35 @@
+Source,Target,Weight
+G. Chiellini,Alex Sandro,3
+D. Rugani,G. Buffon,3
+G. Buffon,G. Chiellini,3
+Alex Sandro,C. Marchisio,2
+F. Bernardeschi,M. De Sciglio,2
+M. De Sciglio,G. Buffon,2
+G. Buffon,D. Rugani,2
+S. Khedira,F. Bernardeschi,2
+M. Mand\u017euki\u0107,G. Higua\u00edn,2
+G. Higua\u00edn,D. Rugani,2
+C. Marchisio,G. Chiellini,2
+G. Chiellini,C. Marchisio,2
+G. Chiellini,D. Rugani,1
+F. Bernardeschi,S. Khedira,1
+M. De Sciglio,G. Higua\u00edn,1
+G. Higua\u00edn,S. Khedira,1
+Alex Sandro,G. Chiellini,1
+G. Higua\u00edn,F. Bernardeschi,1
+C. Marchisio,G. Higua\u00edn,1
+C. Marchisio,S. Khedira,1
+G. Higua\u00edn,M. Pjani\u0107,1
+G. Chiellini,M. Mand\u017euki\u0107,1
+S. Khedira,M. De Sciglio,1
+C. Marchisio,M. Mand\u017euki\u0107,1
+D. Rugani,M. De Sciglio,1
+G. Higua\u00edn,M. De Sciglio,1
+M. Pjani\u0107,S. Khedira,1
+D. Rugani,G. Chiellini,1
+M. De Sciglio,F. Bernardeschi,1
+S. Khedira,G. Higua\u00edn,1
+M. De Sciglio,D. Rugani,1
+F. Bernardeschi,M. Pjani\u0107,1
+M. Pjani\u0107,G. Higua\u00edn,1
+D. Rugani,F. Bernardeschi,1

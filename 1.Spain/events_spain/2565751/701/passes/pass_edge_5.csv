@@ -1,0 +1,31 @@
+Source,Target,Weight
+M. Dmitrovi\u0107,Kike Garc\u00eda,3
+M. Dmitrovi\u0107,Ramis,2
+David Junc\u00e0,F. Orellana,2
+Ramis,M. Dmitrovi\u0107,2
+Kike Garc\u00eda,T. Inui,2
+Arbilla,M. Dmitrovi\u0107,2
+Ramis,Arbilla,1
+Ramis,David Junc\u00e0,1
+Kike Garc\u00eda,Rub\u00e9n Pe\u00f1a,1
+F. Orellana,Kike Garc\u00eda,1
+P. Diop,Arbilla,1
+David Junc\u00e0,Kike Garc\u00eda,1
+P. Diop,G. Escalante,1
+F. Orellana,David Junc\u00e0,1
+T. Inui,F. Orellana,1
+David Junc\u00e0,Rub\u00e9n Pe\u00f1a,1
+G. Escalante,P. Diop,1
+Arbilla,David Junc\u00e0,1
+P. Diop,David Junc\u00e0,1
+T. Inui,David Junc\u00e0,1
+Kike Garc\u00eda,Arbilla,1
+F. Orellana,Rub\u00e9n Pe\u00f1a,1
+Rub\u00e9n Pe\u00f1a,Ramis,1
+Rub\u00e9n Pe\u00f1a,M. Dmitrovi\u0107,1
+Rub\u00e9n Pe\u00f1a,G. Escalante,1
+David Junc\u00e0,T. Inui,1
+F. Orellana,Ramis,1
+G. Escalante,Iv\u00e1n Alejo,1
+T. Inui,P. Diop,1
+Iv\u00e1n Alejo,F. Orellana,1

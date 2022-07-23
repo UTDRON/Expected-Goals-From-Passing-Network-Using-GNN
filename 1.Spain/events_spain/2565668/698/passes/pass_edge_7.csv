@@ -1,0 +1,57 @@
+Source,Target,Weight
+Juan Cala,Jorge Molina,3
+\u00c1lvaro Jim\u00e9nez,Djen\u00e9,3
+Jorge Molina,Markel Bergara,3
+Djen\u00e9,Jorge Molina,3
+J. Montero,Antunes,3
+Jorge Molina,Sergio Mora,3
+Antunes,Juan Cala,3
+\u00c1lvaro Jim\u00e9nez,D. Su\u00e1rez,2
+D. Su\u00e1rez,Sergio Mora,2
+D. Su\u00e1rez,Jorge Molina,2
+Sergio Mora,D. Su\u00e1rez,2
+D. Su\u00e1rez,\u00c1lvaro Jim\u00e9nez,2
+Djen\u00e9,Sergio Mora,2
+Djen\u00e9,\u00c1lvaro Jim\u00e9nez,2
+Sergio Mora,J. Montero,2
+Markel Bergara,Antunes,2
+Antunes,J. Montero,2
+\u00c1lvaro Jim\u00e9nez,Markel Bergara,2
+Jorge Molina,D. Su\u00e1rez,2
+Sergio Mora,Guaita,1
+Juan Cala,Guaita,1
+Djen\u00e9,\u00c1ngel,1
+Markel Bergara,Sergio Mora,1
+Markel Bergara,D. Su\u00e1rez,1
+\u00c1ngel,Markel Bergara,1
+Juan Cala,Djen\u00e9,1
+Guaita,\u00c1lvaro Jim\u00e9nez,1
+Jorge Molina,\u00c1lvaro Jim\u00e9nez,1
+\u00c1ngel,Antunes,1
+Sergio Mora,Djen\u00e9,1
+Sergio Mora,\u00c1lvaro Jim\u00e9nez,1
+Juan Cala,Sergio Mora,1
+\u00c1ngel,Djen\u00e9,1
+\u00c1lvaro Jim\u00e9nez,Juan Cala,1
+J. Montero,Juan Cala,1
+Guaita,Antunes,1
+Markel Bergara,\u00c1lvaro Jim\u00e9nez,1
+Sergio Mora,Juan Cala,1
+Antunes,\u00c1lvaro Jim\u00e9nez,1
+Antunes,D. Su\u00e1rez,1
+\u00c1ngel,\u00c1lvaro Jim\u00e9nez,1
+Guaita,Djen\u00e9,1
+Jorge Molina,Juan Cala,1
+Sergio Mora,\u00c1ngel,1
+D. Su\u00e1rez,Antunes,1
+\u00c1lvaro Jim\u00e9nez,Sergio Mora,1
+Antunes,Djen\u00e9,1
+Antunes,\u00c1ngel,1
+J. Montero,Jorge Molina,1
+Sergio Mora,Jorge Molina,1
+\u00c1lvaro Jim\u00e9nez,\u00c1ngel,1
+Juan Cala,\u00c1lvaro Jim\u00e9nez,1
+Markel Bergara,J. Montero,1
+Juan Cala,Antunes,1
+D. Su\u00e1rez,Guaita,1
+\u00c1lvaro Jim\u00e9nez,Jorge Molina,1

@@ -1,0 +1,81 @@
+Source,Target,Weight
+Sergio Ramos,T. Hern\u00e1ndez,13
+T. Hern\u00e1ndez,Isco,13
+Marcos Llorente,Daniel Carvajal,9
+Daniel Carvajal,G. Bale,9
+T. Hern\u00e1ndez,Sergio Ramos,9
+Marcos Llorente,Nacho,9
+Isco,T. Hern\u00e1ndez,7
+Isco,Casemiro,7
+Daniel Carvajal,Marcos Llorente,7
+Nacho,Sergio Ramos,7
+Casemiro,T. Hern\u00e1ndez,6
+Nacho,Marcos Llorente,6
+Isco,Marcos Llorente,5
+Casemiro,Isco,5
+Sergio Ramos,Casemiro,5
+G. Bale,Daniel Carvajal,5
+Nacho,Daniel Carvajal,4
+T. Hern\u00e1ndez,Casemiro,4
+Nacho,Casemiro,4
+Isco,Nacho,4
+Daniel Carvajal,Nacho,4
+Sergio Ramos,Daniel Carvajal,4
+Casemiro,Nacho,4
+Casemiro,Daniel Carvajal,4
+Marcos Llorente,G. Bale,4
+Cristiano Ronaldo,T. Hern\u00e1ndez,3
+K. Benzema,Isco,3
+T. Hern\u00e1ndez,K. Benzema,3
+Sergio Ramos,Marcos Llorente,3
+G. Bale,Marcos Llorente,3
+Nacho,K. Navas,3
+Casemiro,K. Navas,3
+Casemiro,Marcos Llorente,3
+Marcos Llorente,Sergio Ramos,3
+Isco,K. Benzema,3
+Isco,Daniel Carvajal,3
+Isco,Sergio Ramos,3
+Sergio Ramos,Isco,3
+K. Benzema,Nacho,2
+Sergio Ramos,Cristiano Ronaldo,2
+Cristiano Ronaldo,Sergio Ramos,2
+Isco,Cristiano Ronaldo,2
+Casemiro,Sergio Ramos,2
+K. Benzema,Casemiro,2
+T. Hern\u00e1ndez,Marcos Llorente,2
+G. Bale,Nacho,2
+Nacho,Isco,2
+Daniel Carvajal,Casemiro,2
+K. Benzema,Sergio Ramos,2
+Cristiano Ronaldo,Isco,2
+Daniel Carvajal,Sergio Ramos,2
+Sergio Ramos,Nacho,2
+G. Bale,Isco,2
+Nacho,G. Bale,2
+T. Hern\u00e1ndez,Cristiano Ronaldo,2
+Daniel Carvajal,Cristiano Ronaldo,2
+K. Navas,Isco,2
+Marcos Llorente,Isco,2
+G. Bale,Cristiano Ronaldo,2
+K. Navas,Sergio Ramos,2
+Cristiano Ronaldo,Nacho,1
+Marcos Llorente,Casemiro,1
+Cristiano Ronaldo,G. Bale,1
+K. Benzema,T. Hern\u00e1ndez,1
+Daniel Carvajal,K. Benzema,1
+Nacho,T. Hern\u00e1ndez,1
+G. Bale,Casemiro,1
+K. Navas,G. Bale,1
+Sergio Ramos,K. Navas,1
+G. Bale,Sergio Ramos,1
+G. Bale,K. Benzema,1
+Cristiano Ronaldo,Casemiro,1
+Isco,G. Bale,1
+K. Navas,Casemiro,1
+Casemiro,K. Benzema,1
+Daniel Carvajal,K. Navas,1
+K. Navas,T. Hern\u00e1ndez,1
+Marcos Llorente,T. Hern\u00e1ndez,1
+K. Navas,Nacho,1
+Daniel Carvajal,Isco,1

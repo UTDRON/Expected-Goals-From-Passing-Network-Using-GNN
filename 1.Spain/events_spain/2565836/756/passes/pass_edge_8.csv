@@ -1,0 +1,21 @@
+Source,Target,Weight
+Portu,Aday,3
+J. Mojica,M. Olunga,2
+M. Olunga,Choco Lozano,2
+Choco Lozano,J. Mojica,2
+Aday,Ramalho,1
+Choco Lozano,M. Olunga,1
+Bernardo Espinosa,Portu,1
+Pere Pons,Bernardo Espinosa,1
+J. Mojica,Bernardo Espinosa,1
+J. Mojica,Choco Lozano,1
+Pere Pons,J. Mojica,1
+J. Mojica,Pere Pons,1
+Ramalho,\u00c1lex Granell,1
+Ramalho,Pere Pons,1
+Aday,Portu,1
+Bernardo Espinosa,Ramalho,1
+\u00c1lex Granell,J. Mojica,1
+Bernardo Espinosa,J. Mojica,1
+Aday,J. Mojica,1
+J. Mojica,Portu,1

@@ -1,0 +1,42 @@
+Source,Target,Weight
+A. Florenzi,R. Nainggolan,3
+E. D\u017eeko,C. \u00dcnder,3
+K. Strootman,R. Nainggolan,3
+K. Manolas,L. Pellegrini,3
+C. \u00dcnder,A. Florenzi,2
+A. Kolarov,K. Strootman,2
+R. Nainggolan,A. Kolarov,2
+L. Pellegrini,C. \u00dcnder,2
+C. \u00dcnder,F. Fazio,2
+S. El Shaarawy,A. Kolarov,2
+A. Kolarov,F. Fazio,2
+F. Fazio,K. Strootman,2
+C. \u00dcnder,E. D\u017eeko,2
+A. Florenzi,E. D\u017eeko,2
+K. Strootman,S. El Shaarawy,1
+F. Fazio,A. Florenzi,1
+A. Kolarov,C. \u00dcnder,1
+E. D\u017eeko,K. Strootman,1
+L. Pellegrini,K. Manolas,1
+R. Nainggolan,A. Florenzi,1
+Alisson,A. Kolarov,1
+K. Strootman,K. Manolas,1
+K. Manolas,K. Strootman,1
+R. Nainggolan,E. D\u017eeko,1
+K. Strootman,C. \u00dcnder,1
+R. Nainggolan,K. Strootman,1
+C. \u00dcnder,R. Nainggolan,1
+R. Nainggolan,S. El Shaarawy,1
+R. Nainggolan,C. \u00dcnder,1
+K. Strootman,L. Pellegrini,1
+C. \u00dcnder,Alisson,1
+A. Kolarov,S. El Shaarawy,1
+E. D\u017eeko,R. Nainggolan,1
+K. Strootman,A. Kolarov,1
+Alisson,K. Strootman,1
+S. El Shaarawy,R. Nainggolan,1
+F. Fazio,K. Manolas,1
+K. Strootman,A. Florenzi,1
+R. Nainggolan,K. Manolas,1
+L. Pellegrini,E. D\u017eeko,1
+R. Nainggolan,Alisson,1

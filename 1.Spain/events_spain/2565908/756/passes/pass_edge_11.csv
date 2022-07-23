@@ -1,0 +1,24 @@
+Source,Target,Weight
+J. Mojica,Juanpe,3
+Bernardo Espinosa,Ramalho,2
+\u00c1lex Granell,J. Mojica,2
+Juanpe,Bernardo Espinosa,2
+Aday,\u00c1lex Granell,2
+Bernardo Espinosa,Juanpe,1
+Eloi Amagat,J. Mojica,1
+Eloi Amagat,\u00c1lex Granell,1
+Ramalho,Timor,1
+Timor,J. Mojica,1
+Bernardo Espinosa,\u00c1lex Granell,1
+Juanpe,J. Mojica,1
+Juanpe,Timor,1
+Timor,Eloi Amagat,1
+Ramalho,Aday,1
+\u00c1lex Granell,Aday,1
+Aday,Eloi Amagat,1
+Eloi Amagat,Bernardo Espinosa,1
+Bernardo Espinosa,Aday,1
+J. Mojica,Aday,1
+\u00c1lex Granell,Bernardo Espinosa,1
+Bernardo Espinosa,Eloi Amagat,1
+J. Mojica,Bernardo Espinosa,1

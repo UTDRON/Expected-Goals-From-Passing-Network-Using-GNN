@@ -1,0 +1,74 @@
+Source,Target,Weight
+Juanpe,Aday,7
+Aday,Juanpe,7
+Aday,Aleix Garc\u00eda,4
+Pablo Maffeo,Aday,4
+Aday,Y. Bounou,3
+Bernardo Espinosa,Aleix Garc\u00eda,3
+Aleix Garc\u00eda,Juanpe,3
+Borja Garc\u00eda,Aday,3
+Aleix Garc\u00eda,Bernardo Espinosa,3
+Bernardo Espinosa,Ramalho,3
+Juanpe,Bernardo Espinosa,3
+Portu,Aleix Garc\u00eda,3
+Aday,Borja Garc\u00eda,3
+Aleix Garc\u00eda,Aday,3
+Pablo Maffeo,Aleix Garc\u00eda,2
+Aday,Pablo Maffeo,2
+Aleix Garc\u00eda,Borja Garc\u00eda,2
+Ramalho,Pere Pons,2
+Aday,Douglas Luiz,2
+Ramalho,Portu,2
+Bernardo Espinosa,Aday,2
+Portu,\u00c1lex Granell,2
+Juanpe,Pablo Maffeo,2
+Aleix Garc\u00eda,\u00c1lex Granell,2
+Aleix Garc\u00eda,Pablo Maffeo,2
+Pere Pons,Ramalho,2
+\u00c1lex Granell,Aday,2
+Pablo Maffeo,\u00c1lex Granell,2
+Aleix Garc\u00eda,Douglas Luiz,1
+Y. Bounou,Bernardo Espinosa,1
+Pablo Maffeo,Y. Bounou,1
+Y. Bounou,Aday,1
+\u00c1lex Granell,Aleix Garc\u00eda,1
+Portu,Bernardo Espinosa,1
+Ramalho,Aleix Garc\u00eda,1
+Borja Garc\u00eda,Pablo Maffeo,1
+Pere Pons,Bernardo Espinosa,1
+O. Kayode,Portu,1
+Douglas Luiz,Aleix Garc\u00eda,1
+O. Kayode,Aday,1
+O. Kayode,Aleix Garc\u00eda,1
+Douglas Luiz,Bernardo Espinosa,1
+O. Kayode,Pablo Maffeo,1
+Bernardo Espinosa,O. Kayode,1
+Bernardo Espinosa,Portu,1
+\u00c1lex Granell,Portu,1
+Douglas Luiz,O. Kayode,1
+Aday,Ramalho,1
+\u00c1lex Granell,Douglas Luiz,1
+Ramalho,Y. Bounou,1
+Bernardo Espinosa,Pablo Maffeo,1
+Aday,O. Kayode,1
+Juanpe,O. Kayode,1
+Aday,Portu,1
+Y. Bounou,Portu,1
+Pablo Maffeo,Juanpe,1
+Portu,Douglas Luiz,1
+Douglas Luiz,Juanpe,1
+\u00c1lex Granell,Pablo Maffeo,1
+O. Kayode,Douglas Luiz,1
+Y. Bounou,Pablo Maffeo,1
+Portu,O. Kayode,1
+Douglas Luiz,Aday,1
+Aday,\u00c1lex Granell,1
+Borja Garc\u00eda,Bernardo Espinosa,1
+Portu,Aday,1
+Pablo Maffeo,Pere Pons,1
+Douglas Luiz,Portu,1
+Ramalho,Pablo Maffeo,1
+Aleix Garc\u00eda,Portu,1
+Y. Bounou,Ramalho,1
+Pablo Maffeo,O. Kayode,1
+O. Kayode,Juanpe,1

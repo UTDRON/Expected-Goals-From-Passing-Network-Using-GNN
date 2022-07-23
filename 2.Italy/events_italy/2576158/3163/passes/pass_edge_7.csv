@@ -1,0 +1,44 @@
+Source,Target,Weight
+G. Pezzella,J. Jankto,3
+Samir,Danilo,3
+Danilo,B. Nuytinck,3
+Samir,J. Jankto,2
+A. Bar\u00e1k,B. Nuytinck,2
+J. Jankto,Samir,2
+S. Perica,S. Widmer,2
+A. Bizzarri,Samir,2
+S. Fofana,G. Pezzella,2
+S. Perica,Samir,2
+A. Bar\u00e1k,S. Perica,2
+J. Jankto,K. Lasagna,2
+S. Perica,A. Bar\u00e1k,2
+B. Nuytinck,Danilo,2
+Danilo,S. Perica,1
+Danilo,A. Bizzarri,1
+A. Bar\u00e1k,J. Jankto,1
+B. Nuytinck,J. Jankto,1
+J. Jankto,S. Perica,1
+K. Lasagna,B. Nuytinck,1
+B. Nuytinck,A. Bar\u00e1k,1
+B. Nuytinck,Samir,1
+S. Fofana,S. Perica,1
+J. Jankto,S. Widmer,1
+S. Widmer,S. Fofana,1
+G. Pezzella,A. Bizzarri,1
+S. Widmer,S. Perica,1
+S. Fofana,S. Widmer,1
+B. Nuytinck,A. Bizzarri,1
+Samir,S. Fofana,1
+S. Widmer,A. Bar\u00e1k,1
+J. Jankto,A. Bar\u00e1k,1
+A. Bar\u00e1k,S. Fofana,1
+A. Bizzarri,S. Perica,1
+J. Jankto,A. Bizzarri,1
+K. Lasagna,Danilo,1
+Danilo,S. Fofana,1
+Samir,G. Pezzella,1
+B. Nuytinck,G. Pezzella,1
+A. Bizzarri,A. Bar\u00e1k,1
+S. Perica,B. Nuytinck,1
+S. Widmer,B. Nuytinck,1
+B. Nuytinck,K. Lasagna,1

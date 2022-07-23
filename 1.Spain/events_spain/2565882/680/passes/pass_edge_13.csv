@@ -1,0 +1,59 @@
+Source,Target,Weight
+S. N'Zonzi,Sergio Escudero,7
+S. N'Zonzi,Sandro,5
+Sergio Escudero,F. V\u00e1zquez,5
+Sergio Escudero,S. N'Zonzi,5
+Sergio Escudero,David Soria,3
+David Soria,S. N'Zonzi,3
+G. Mercado,M. Lay\u00fan,3
+Sandro,S. N'Zonzi,3
+W. Ben Yedder,Sandro,3
+F. V\u00e1zquez,Sergio Escudero,3
+Sandro,G. Mercado,3
+Sandro,G. Pizarro,2
+G. Mercado,Sandro,2
+Sandro,Sergio Escudero,2
+M. Lay\u00fan,W. Ben Yedder,2
+G. Mercado,Sergio Escudero,2
+S. N'Zonzi,C. Lenglet,2
+F. V\u00e1zquez,S. N'Zonzi,2
+M. Lay\u00fan,David Soria,2
+G. Mercado,W. Ben Yedder,2
+F. V\u00e1zquez,Sandro,2
+S. N'Zonzi,M. Lay\u00fan,2
+G. Pizarro,S. N'Zonzi,2
+Roque Mesa,Sandro,2
+Sergio Escudero,G. Mercado,1
+M. Lay\u00fan,Roque Mesa,1
+G. Pizarro,Roque Mesa,1
+Sergio Escudero,N. Pareja,1
+N. Pareja,M. Lay\u00fan,1
+Sergio Escudero,G. Pizarro,1
+C. Lenglet,David Soria,1
+C. Lenglet,S. N'Zonzi,1
+M. Lay\u00fan,G. Pizarro,1
+G. Pizarro,Sergio Escudero,1
+Roque Mesa,S. N'Zonzi,1
+Sandro,M. Lay\u00fan,1
+M. Lay\u00fan,C. Lenglet,1
+S. N'Zonzi,W. Ben Yedder,1
+M. Lay\u00fan,Sergio Escudero,1
+Sergio Escudero,M. Lay\u00fan,1
+David Soria,F. V\u00e1zquez,1
+David Soria,G. Pizarro,1
+G. Pizarro,G. Mercado,1
+F. V\u00e1zquez,G. Pizarro,1
+Sandro,Roque Mesa,1
+G. Pizarro,F. V\u00e1zquez,1
+N. Pareja,G. Mercado,1
+Sandro,W. Ben Yedder,1
+F. V\u00e1zquez,G. Mercado,1
+W. Ben Yedder,Sergio Escudero,1
+Sandro,F. V\u00e1zquez,1
+Sergio Escudero,Sandro,1
+W. Ben Yedder,S. N'Zonzi,1
+W. Ben Yedder,G. Mercado,1
+S. N'Zonzi,N. Pareja,1
+C. Lenglet,F. V\u00e1zquez,1
+David Soria,C. Lenglet,1
+C. Lenglet,Sergio Escudero,1

@@ -1,0 +1,16 @@
+Source,Target,Weight
+S. Sensi,D. Berardi,2
+F. Magnanelli,M. Gazzola,2
+D. Berardi,S. Sensi,2
+M. Gazzola,F. Peluso,1
+M. Politano,S. Sensi,1
+D. Falcinelli,D. Berardi,1
+D. Berardi,M. Politano,1
+M. Gazzola,F. Magnanelli,1
+M. Gazzola,A. Consigli,1
+A. Consigli,M. Gazzola,1
+F. Peluso,M. Politano,1
+S. Sensi,F. Magnanelli,1
+M. Politano,F. Magnanelli,1
+F. Magnanelli,S. Sensi,1
+S. Sensi,D. Falcinelli,1

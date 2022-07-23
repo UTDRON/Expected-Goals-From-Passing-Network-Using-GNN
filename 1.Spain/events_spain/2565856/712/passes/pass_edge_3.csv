@@ -1,0 +1,19 @@
+Source,Target,Weight
+Eraso,N. Amrabat,2
+N. El Zhar,Rub\u00e9n P\u00e9rez,1
+N. Amrabat,N. El Zhar,1
+Eraso,Zald\u00faa,1
+Zald\u00faa,Eraso,1
+Rub\u00e9n P\u00e9rez,Eraso,1
+N. Amrabat,Eraso,1
+Rub\u00e9n P\u00e9rez,Zald\u00faa,1
+N. El Zhar,Gabriel,1
+Eraso,Omar Ramos,1
+Zald\u00faa,D. Siovas,1
+Gabriel,N. El Zhar,1
+D. Siovas,Cu\u00e9llar,1
+Ra\u00fal Garc\u00eda,Rub\u00e9n P\u00e9rez,1
+Omar Ramos,N. El Zhar,1
+Omar Ramos,Ra\u00fal Garc\u00eda,1
+Cu\u00e9llar,Omar Ramos,1
+Omar Ramos,Eraso,1

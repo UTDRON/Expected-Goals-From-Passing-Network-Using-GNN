@@ -1,0 +1,46 @@
+Source,Target,Weight
+R\u00faben Semedo,Mario,3
+Mario,Samu Castillejo,3
+Mario,C. Bakambu,3
+Samu Castillejo,Mario,3
+Trigueros,A. Rukavina,2
+A. Rukavina,\u00c1lvaro Gonz\u00e1lez,2
+C. Bakambu,Samu Castillejo,2
+Rodri,Trigueros,2
+Rodri,Mario,2
+A. Rukavina,Rodri,2
+Mario,Rodri,2
+Mario,R\u00faben Semedo,2
+\u00c1lvaro Gonz\u00e1lez,Rodri,1
+E. \u00dcnal,R\u00faben Semedo,1
+R\u00faben Semedo,Samu Castillejo,1
+Rodri,R\u00faben Semedo,1
+R\u00faben Semedo,A. Rukavina,1
+Samu Castillejo,R\u00faben Semedo,1
+Trigueros,Rodri,1
+C. Bakambu,Rodri,1
+\u00c1lvaro Gonz\u00e1lez,R\u00faben Semedo,1
+E. \u00dcnal,Mario,1
+Rodri,\u00c1lvaro Gonz\u00e1lez,1
+Mario,E. \u00dcnal,1
+C. Bakambu,E. \u00dcnal,1
+Samu Castillejo,Trigueros,1
+Samu Castillejo,A. Rukavina,1
+Rodri,A. Rukavina,1
+C. Bakambu,Mario,1
+R\u00faben Semedo,C. Bakambu,1
+Rodri,Samu Castillejo,1
+A. Rukavina,R\u00faben Semedo,1
+Trigueros,Mario,1
+Trigueros,Pablo Fornals,1
+E. \u00dcnal,Samu Castillejo,1
+Pablo Fornals,A. Rukavina,1
+Pablo Fornals,Trigueros,1
+Pablo Fornals,Mario,1
+M. Barbosa,Trigueros,1
+Samu Castillejo,Pablo Fornals,1
+\u00c1lvaro Gonz\u00e1lez,E. \u00dcnal,1
+R\u00faben Semedo,Rodri,1
+Rodri,Pablo Fornals,1
+A. Rukavina,M. Barbosa,1
+Samu Castillejo,Rodri,1

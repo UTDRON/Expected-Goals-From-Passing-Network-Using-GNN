@@ -1,0 +1,25 @@
+Source,Target,Weight
+A. Florenzi,S. El Shaarawy,4
+L. Pellegrini,A. Florenzi,3
+S. El Shaarawy,A. Florenzi,3
+A. Kolarov,K. Manolas,2
+A. Kolarov,Juan Jesus,2
+Juan Jesus,K. Manolas,2
+A. Florenzi,L. Pellegrini,2
+S. El Shaarawy,K. Strootman,2
+K. Manolas,A. Kolarov,2
+K. Manolas,S. El Shaarawy,1
+Juan Jesus,L. Pellegrini,1
+L. Pellegrini,A. Kolarov,1
+K. Manolas,Alisson,1
+K. Strootman,S. El Shaarawy,1
+Juan Jesus,A. Kolarov,1
+Alisson,A. Florenzi,1
+A. Florenzi,K. Manolas,1
+A. Kolarov,L. Pellegrini,1
+K. Strootman,E. D\u017eeko,1
+K. Strootman,A. Kolarov,1
+S. El Shaarawy,L. Pellegrini,1
+K. Manolas,Juan Jesus,1
+E. D\u017eeko,Juan Jesus,1
+L. Pellegrini,E. D\u017eeko,1

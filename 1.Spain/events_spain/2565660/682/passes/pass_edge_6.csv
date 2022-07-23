@@ -1,0 +1,106 @@
+Source,Target,Weight
+Jaume Costa,Trigueros,10
+Trigueros,Jaume Costa,10
+Mario,Rodri,9
+Rodri,V\u00edctor Ru\u00edz,6
+V\u00edctor Ru\u00edz,Jaume Costa,6
+Rodri,Trigueros,6
+R. Soriano,Mario,6
+Pablo Fornals,Trigueros,5
+V\u00edctor Ru\u00edz,M. Barbosa,5
+Mario,R. Soriano,5
+D. Bonera,Mario,5
+C. Bakambu,D. Cheryshev,5
+Jaume Costa,Rodri,4
+Jaume Costa,Pablo Fornals,4
+Pablo Fornals,Jaume Costa,4
+Jaume Costa,V\u00edctor Ru\u00edz,4
+Trigueros,Rodri,4
+Trigueros,D. Cheryshev,4
+Rodri,Pablo Fornals,4
+D. Bonera,Rodri,4
+Pablo Fornals,Mario,4
+Trigueros,Pablo Fornals,4
+Jaume Costa,C. Bakambu,3
+Mario,D. Bonera,3
+Trigueros,V\u00edctor Ru\u00edz,3
+Trigueros,Mario,3
+Mario,Trigueros,3
+Rodri,Jaume Costa,3
+M. Barbosa,C. Bakambu,3
+Jaume Costa,Dani Raba,3
+D. Cheryshev,Trigueros,3
+V\u00edctor Ru\u00edz,Trigueros,3
+Trigueros,M. Barbosa,3
+N. Sansone,V\u00edctor Ru\u00edz,3
+D. Cheryshev,Jaume Costa,2
+C. Bakambu,D. Bonera,2
+V\u00edctor Ru\u00edz,Pablo Fornals,2
+Mario,C. Bakambu,2
+M. Barbosa,Rodri,2
+C. Bakambu,R. Soriano,2
+Pablo Fornals,M. Barbosa,2
+Rodri,D. Bonera,2
+D. Bonera,V\u00edctor Ru\u00edz,2
+M. Barbosa,Mario,2
+Trigueros,D. Bonera,2
+V\u00edctor Ru\u00edz,Rodri,2
+V\u00edctor Ru\u00edz,C. Bakambu,2
+D. Cheryshev,Pablo Fornals,2
+D. Cheryshev,N. Sansone,2
+Jaume Costa,D. Cheryshev,2
+V\u00edctor Ru\u00edz,D. Bonera,2
+Mario,Dani Raba,2
+M. Barbosa,Pablo Fornals,2
+Pablo Fornals,R. Soriano,2
+M. Barbosa,D. Bonera,2
+C. Bakambu,Mario,2
+Mario,Pablo Fornals,2
+Dani Raba,Jaume Costa,2
+M. Barbosa,Jaume Costa,2
+D. Cheryshev,V\u00edctor Ru\u00edz,2
+C. Bakambu,Trigueros,2
+V\u00edctor Ru\u00edz,D. Cheryshev,2
+Rodri,D. Cheryshev,2
+D. Cheryshev,Mario,1
+D. Bonera,Trigueros,1
+Mario,V\u00edctor Ru\u00edz,1
+Rodri,R. Soriano,1
+R. Soriano,Trigueros,1
+R. Soriano,V\u00edctor Ru\u00edz,1
+M. Barbosa,V\u00edctor Ru\u00edz,1
+Pablo Fornals,D. Bonera,1
+V\u00edctor Ru\u00edz,Mario,1
+Trigueros,N. Sansone,1
+D. Bonera,R. Soriano,1
+Trigueros,C. Bacca,1
+N. Sansone,M. Barbosa,1
+Dani Raba,M. Barbosa,1
+Pablo Fornals,V\u00edctor Ru\u00edz,1
+Trigueros,C. Bakambu,1
+Pablo Fornals,D. Cheryshev,1
+C. Bakambu,N. Sansone,1
+Dani Raba,V\u00edctor Ru\u00edz,1
+Dani Raba,Mario,1
+D. Bonera,C. Bakambu,1
+N. Sansone,Trigueros,1
+C. Bakambu,Pablo Fornals,1
+C. Bacca,D. Bonera,1
+Dani Raba,Rodri,1
+Jaume Costa,N. Sansone,1
+R. Soriano,C. Bakambu,1
+Jaume Costa,M. Barbosa,1
+D. Cheryshev,C. Bakambu,1
+D. Cheryshev,Rodri,1
+Pablo Fornals,Dani Raba,1
+Jaume Costa,Mario,1
+R. Soriano,Pablo Fornals,1
+R. Soriano,Jaume Costa,1
+Rodri,Mario,1
+D. Bonera,Jaume Costa,1
+Rodri,C. Bacca,1
+C. Bakambu,Jaume Costa,1
+Pablo Fornals,C. Bakambu,1
+C. Bacca,Trigueros,1
+Rodri,C. Bakambu,1
+D. Cheryshev,M. Barbosa,1

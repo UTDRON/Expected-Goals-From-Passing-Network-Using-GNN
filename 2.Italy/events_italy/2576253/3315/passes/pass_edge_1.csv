@@ -1,0 +1,38 @@
+Source,Target,Weight
+Rog\u00e9rio,S. Missiroli,3
+S. Sensi,M. Politano,3
+Pol Lirola,E. Goldaniga,2
+D. Berardi,L. Mazzitelli,2
+S. Missiroli,M. Politano,1
+S. Missiroli,F. Peluso,1
+L. Mazzitelli,Pol Lirola,1
+F. Peluso,Pol Lirola,1
+S. Sensi,L. Mazzitelli,1
+S. Missiroli,S. Sensi,1
+M. Politano,S. Sensi,1
+F. Peluso,S. Missiroli,1
+S. Sensi,E. Goldaniga,1
+L. Mazzitelli,S. Sensi,1
+E. Goldaniga,F. Acerbi,1
+F. Acerbi,D. Berardi,1
+F. Acerbi,F. Peluso,1
+L. Mazzitelli,Rog\u00e9rio,1
+M. Politano,F. Acerbi,1
+F. Acerbi,Pol Lirola,1
+S. Missiroli,Rog\u00e9rio,1
+F. Peluso,Rog\u00e9rio,1
+E. Goldaniga,Rog\u00e9rio,1
+Rog\u00e9rio,L. Mazzitelli,1
+E. Goldaniga,Pol Lirola,1
+M. Politano,E. Goldaniga,1
+L. Mazzitelli,E. Goldaniga,1
+M. Politano,Rog\u00e9rio,1
+E. Goldaniga,D. Berardi,1
+D. Berardi,F. Acerbi,1
+Pol Lirola,L. Mazzitelli,1
+F. Peluso,S. Sensi,1
+Pol Lirola,D. Berardi,1
+D. Berardi,F. Peluso,1
+E. Goldaniga,S. Sensi,1
+Rog\u00e9rio,F. Peluso,1
+Rog\u00e9rio,D. Berardi,1

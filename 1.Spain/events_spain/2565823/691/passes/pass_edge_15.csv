@@ -1,0 +1,33 @@
+Source,Target,Weight
+Marc Navarro,Granero,4
+Aar\u00f3n,Gerard Moreno,2
+David L\u00f3pez,Marc Navarro,2
+P. Piatti,V\u00edctor S\u00e1nchez,2
+C. S\u00e1nchez,P. Piatti,2
+V\u00edctor S\u00e1nchez,Aar\u00f3n,2
+Granero,Marc Navarro,2
+Aar\u00f3n,P. Piatti,1
+Gerard Moreno,Marc Navarro,1
+Granero,C. S\u00e1nchez,1
+Marc Navarro,David L\u00f3pez,1
+Marc Navarro,V\u00edctor S\u00e1nchez,1
+P. Piatti,Aar\u00f3n,1
+Aar\u00f3n,V\u00edctor S\u00e1nchez,1
+Granero,Aar\u00f3n,1
+Aar\u00f3n,\u00d3. Duarte,1
+\u00d3. Duarte,V\u00edctor S\u00e1nchez,1
+Pau L\u00f3pez,\u00d3. Duarte,1
+David L\u00f3pez,Gerard Moreno,1
+V\u00edctor S\u00e1nchez,Marc Navarro,1
+\u00d3. Duarte,Gerard Moreno,1
+Gerard Moreno,V\u00edctor S\u00e1nchez,1
+V\u00edctor S\u00e1nchez,David L\u00f3pez,1
+C. S\u00e1nchez,David L\u00f3pez,1
+Pau L\u00f3pez,C. S\u00e1nchez,1
+V\u00edctor S\u00e1nchez,C. S\u00e1nchez,1
+V\u00edctor S\u00e1nchez,Pau L\u00f3pez,1
+Gerard Moreno,C. S\u00e1nchez,1
+C. S\u00e1nchez,Marc Navarro,1
+David L\u00f3pez,Pau L\u00f3pez,1
+Marc Navarro,\u00d3. Duarte,1
+\u00d3. Duarte,David L\u00f3pez,1

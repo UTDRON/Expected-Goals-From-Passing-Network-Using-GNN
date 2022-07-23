@@ -1,0 +1,21 @@
+Source,Target,Weight
+B. Martella,L. Cabrera,2
+L. Cabrera,B. Martella,1
+M. Sampirisi,L. Cabrera,1
+G. Crociata,M. Sampirisi,1
+O. Kragl,G. Crociata,1
+L. Cabrera,G. Crociata,1
+L. Cabrera,M. Tumminello,1
+R. Mandragora,B. Martella,1
+O. Kragl,A. Cordaz,1
+F. Ceccherini,O. Kragl,1
+L. Cabrera,A. Budimir,1
+A. Cordaz,L. Cabrera,1
+L. Cabrera,O. Kragl,1
+F. Ceccherini,L. Cabrera,1
+A. Budimir,M. Sampirisi,1
+M. Sampirisi,F. Ceccherini,1
+O. Kragl,B. Martella,1
+M. Tumminello,F. Ceccherini,1
+M. Sampirisi,O. Kragl,1
+B. Martella,R. Mandragora,1

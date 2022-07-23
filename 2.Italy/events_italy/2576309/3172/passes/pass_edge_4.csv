@@ -1,0 +1,42 @@
+Source,Target,Weight
+R. Gosens,M. Barrow,3
+B. Cristante,R. Gosens,2
+B. Cristante,T. Castagne,2
+T. Castagne,A. G\u00f3mez,2
+R. Gosens,A. G\u00f3mez,2
+A. G\u00f3mez,R. Gosens,2
+A. G\u00f3mez,T. Castagne,2
+A. G\u00f3mez,M. Barrow,2
+A. G\u00f3mez,R. Freuler,2
+R. Gosens,B. Cristante,2
+R. Freuler,A. G\u00f3mez,2
+M. Barrow,R. Gosens,2
+Rafael Tol\u00f3i,R. Gosens,1
+R. Gosens,A. Masiello,1
+Rafael Tol\u00f3i,T. Castagne,1
+A. G\u00f3mez,B. Cristante,1
+A. Masiello,R. Freuler,1
+Rafael Tol\u00f3i,A. G\u00f3mez,1
+M. Barrow,M. de Roon,1
+M. de Roon,Rafael Tol\u00f3i,1
+M. Barrow,A. G\u00f3mez,1
+M. de Roon,J. Palomino,1
+J. Palomino,R. Gosens,1
+R. Freuler,M. de Roon,1
+M. Barrow,Rafael Tol\u00f3i,1
+T. Castagne,M. Barrow,1
+T. Castagne,B. Cristante,1
+M. de Roon,R. Gosens,1
+M. Barrow,T. Castagne,1
+T. Castagne,Rafael Tol\u00f3i,1
+E. Berisha,M. de Roon,1
+R. Gosens,M. de Roon,1
+M. Barrow,A. Masiello,1
+Rafael Tol\u00f3i,M. Barrow,1
+T. Castagne,E. Berisha,1
+A. Masiello,B. Cristante,1
+Rafael Tol\u00f3i,B. Cristante,1
+R. Gosens,Rafael Tol\u00f3i,1
+M. de Roon,T. Castagne,1
+T. Castagne,R. Gosens,1
+B. Cristante,Rafael Tol\u00f3i,1

@@ -1,0 +1,8 @@
+Source,Target,Weight
+A. Grassi,B. Salamon,2
+A. Grassi,F. Viviani,1
+B. Salamon,P. Schiattarella,1
+F. Viviani,M. Antenucci,1
+F. Viviani,A. Grassi,1
+B. Salamon,F. Viviani,1
+P. Schiattarella,A. Grassi,1

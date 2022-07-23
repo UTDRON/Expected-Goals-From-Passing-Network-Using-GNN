@@ -1,0 +1,32 @@
+Source,Target,Weight
+S. Verdi,G. Donsah,2
+F. Avenatti,E. Pulgar,2
+F. Helander,A. Mirante,2
+\u00c1. Nagy,S. De Maio,2
+E. Pulgar,F. Avenatti,1
+G. Donsah,F. Helander,1
+A. Masina,G. Donsah,1
+A. Mirante,F. Di Francesco,1
+S. Verdi,F. Helander,1
+S. De Maio,\u00c1. Nagy,1
+G. Donsah,A. Mirante,1
+E. Pulgar,\u00c1. Nagy,1
+F. Helander,S. De Maio,1
+S. De Maio,S. Verdi,1
+F. Di Francesco,F. Avenatti,1
+S. Verdi,F. Di Francesco,1
+S. Romagnoli,S. Verdi,1
+G. Donsah,A. Masina,1
+F. Di Francesco,A. Mirante,1
+A. Mirante,F. Helander,1
+\u00c1. Nagy,E. Pulgar,1
+A. Masina,S. Verdi,1
+S. De Maio,S. Romagnoli,1
+A. Mirante,F. Avenatti,1
+E. Pulgar,F. Helander,1
+F. Avenatti,S. Verdi,1
+E. Pulgar,S. Verdi,1
+A. Mirante,A. Masina,1
+F. Helander,E. Pulgar,1
+G. Donsah,F. Avenatti,1
+F. Avenatti,\u00c1. Nagy,1

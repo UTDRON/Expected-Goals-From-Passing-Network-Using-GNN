@@ -1,0 +1,20 @@
+Source,Target,Weight
+L. Venuti,M. Coda,1
+V. Belec,E. Brignola,1
+M. D'Alessandro,V. Belec,1
+N. Viola,M. D'Alessandro,1
+A. Costa,B. Djimsiti,1
+B. Djimsiti,V. Belec,1
+M. Coda,N. Viola,1
+F. Lucioni,M. D'Alessandro,1
+L. Memushaj,F. Lucioni,1
+M. D'Alessandro,L. Venuti,1
+V. Belec,N. Viola,1
+N. Viola,L. Memushaj,1
+L. Venuti,A. Costa,1
+E. Brignola,F. Lucioni,1
+A. Costa,L. Venuti,1
+L. Memushaj,C. Lombardi,1
+B. Djimsiti,L. Memushaj,1
+F. Lucioni,L. Venuti,1
+C. Lombardi,B. Djimsiti,1

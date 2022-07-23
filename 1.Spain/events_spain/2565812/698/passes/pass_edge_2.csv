@@ -1,0 +1,72 @@
+Source,Target,Weight
+D. Su\u00e1rez,Portillo,7
+Sergio Mora,Portillo,5
+F. Fajr,Sergio Mora,5
+Antunes,Sergio Mora,5
+Portillo,M. Arambarri,4
+Portillo,F. Fajr,4
+D. Su\u00e1rez,Sergio Mora,4
+Bruno,D. Su\u00e1rez,3
+Antunes,F. Fajr,3
+Portillo,\u00c1ngel,3
+Portillo,D. Su\u00e1rez,3
+F. Fajr,D. Su\u00e1rez,3
+M. Arambarri,Sergio Mora,2
+\u00c1ngel,Portillo,2
+M. Arambarri,Bruno,2
+Sergio Mora,\u00c1ngel,2
+M. Arambarri,Portillo,2
+\u00c1ngel,F. Fajr,2
+Sergio Mora,F. Fajr,2
+Djen\u00e9,Antunes,2
+Bruno,F. Fajr,2
+F. Fajr,Antunes,2
+Sergio Mora,D. Su\u00e1rez,2
+E. Mart\u00ednez,Antunes,2
+Portillo,L. R\u00e9my,2
+\u00c1ngel,L. R\u00e9my,2
+Sergio Mora,Djen\u00e9,2
+F. Fajr,M. Arambarri,2
+Sergio Mora,Antunes,2
+D. Su\u00e1rez,M. Arambarri,2
+Sergio Mora,Bruno,2
+L. R\u00e9my,Portillo,2
+Antunes,Bruno,1
+Bruno,Antunes,1
+L. R\u00e9my,E. Mart\u00ednez,1
+Djen\u00e9,M. Arambarri,1
+M. Arambarri,D. Su\u00e1rez,1
+Sergio Mora,L. R\u00e9my,1
+Antunes,D. Su\u00e1rez,1
+Portillo,Bruno,1
+Bruno,Djen\u00e9,1
+E. Mart\u00ednez,\u00c1ngel,1
+D. Su\u00e1rez,Djen\u00e9,1
+Portillo,Djen\u00e9,1
+Bruno,E. Mart\u00ednez,1
+F. Fajr,L. R\u00e9my,1
+Antunes,L. R\u00e9my,1
+M. Arambarri,Antunes,1
+L. R\u00e9my,\u00c1ngel,1
+M. Arambarri,E. Mart\u00ednez,1
+Antunes,M. Arambarri,1
+Bruno,Sergio Mora,1
+D. Su\u00e1rez,\u00c1ngel,1
+L. R\u00e9my,Antunes,1
+D. Su\u00e1rez,Bruno,1
+M. Arambarri,F. Fajr,1
+L. R\u00e9my,D. Su\u00e1rez,1
+Djen\u00e9,D. Su\u00e1rez,1
+Sergio Mora,M. Arambarri,1
+Djen\u00e9,E. Mart\u00ednez,1
+\u00c1ngel,Sergio Mora,1
+Djen\u00e9,Sergio Mora,1
+L. R\u00e9my,Bruno,1
+L. R\u00e9my,Djen\u00e9,1
+F. Fajr,Portillo,1
+\u00c1ngel,D. Su\u00e1rez,1
+D. Su\u00e1rez,L. R\u00e9my,1
+M. Arambarri,Djen\u00e9,1
+Djen\u00e9,Bruno,1
+Portillo,Antunes,1
+E. Mart\u00ednez,L. R\u00e9my,1

@@ -1,0 +1,74 @@
+Source,Target,Weight
+A. Romagnoli,R. Rodr\u00edguez,12
+R. Rodr\u00edguez,A. Romagnoli,10
+D. Calabria,L. Bonucci,7
+L. Bonucci,A. Romagnoli,7
+G. Bonaventura,R. Rodr\u00edguez,6
+A. Romagnoli,H. \u00c7alhano\u011flu,6
+D. Calabria,Suso,6
+R. Rodr\u00edguez,H. \u00c7alhano\u011flu,5
+Suso,D. Calabria,5
+F. Kessi\u00e9,D. Calabria,4
+A. Romagnoli,F. Kessi\u00e9,3
+L. Bonucci,R. Montolivo,3
+D. Calabria,F. Kessi\u00e9,3
+H. \u00c7alhano\u011flu,A. Romagnoli,3
+R. Rodr\u00edguez,G. Bonaventura,3
+R. Montolivo,D. Calabria,3
+R. Rodr\u00edguez,R. Montolivo,3
+R. Rodr\u00edguez,F. Kessi\u00e9,3
+H. \u00c7alhano\u011flu,R. Rodr\u00edguez,3
+H. \u00c7alhano\u011flu,G. Bonaventura,3
+L. Bonucci,D. Calabria,3
+P. Cutrone,A. Romagnoli,2
+L. Bonucci,G. Donnarumma,2
+P. Cutrone,R. Rodr\u00edguez,2
+P. Cutrone,L. Bonucci,2
+F. Kessi\u00e9,L. Bonucci,2
+A. Romagnoli,G. Donnarumma,2
+L. Bonucci,G. Bonaventura,2
+G. Donnarumma,A. Romagnoli,2
+A. Romagnoli,L. Bonucci,2
+H. \u00c7alhano\u011flu,R. Montolivo,2
+G. Donnarumma,L. Bonucci,2
+R. Montolivo,P. Cutrone,2
+R. Montolivo,A. Romagnoli,2
+R. Montolivo,H. \u00c7alhano\u011flu,2
+H. \u00c7alhano\u011flu,P. Cutrone,2
+G. Donnarumma,D. Calabria,1
+G. Bonaventura,Suso,1
+G. Donnarumma,R. Rodr\u00edguez,1
+R. Montolivo,R. Rodr\u00edguez,1
+H. \u00c7alhano\u011flu,D. Calabria,1
+F. Kessi\u00e9,R. Rodr\u00edguez,1
+R. Rodr\u00edguez,P. Cutrone,1
+R. Montolivo,F. Kessi\u00e9,1
+L. Bonucci,F. Kessi\u00e9,1
+G. Bonaventura,R. Montolivo,1
+R. Montolivo,G. Bonaventura,1
+H. \u00c7alhano\u011flu,L. Bonucci,1
+Suso,R. Rodr\u00edguez,1
+R. Rodr\u00edguez,G. Donnarumma,1
+D. Calabria,P. Cutrone,1
+D. Calabria,G. Donnarumma,1
+H. \u00c7alhano\u011flu,F. Kessi\u00e9,1
+F. Kessi\u00e9,G. Donnarumma,1
+F. Kessi\u00e9,P. Cutrone,1
+D. Calabria,R. Montolivo,1
+Suso,H. \u00c7alhano\u011flu,1
+G. Donnarumma,Suso,1
+Suso,L. Bonucci,1
+G. Bonaventura,D. Calabria,1
+F. Kessi\u00e9,G. Bonaventura,1
+R. Rodr\u00edguez,L. Bonucci,1
+F. Kessi\u00e9,H. \u00c7alhano\u011flu,1
+R. Montolivo,L. Bonucci,1
+A. Romagnoli,Suso,1
+G. Bonaventura,A. Romagnoli,1
+G. Bonaventura,H. \u00c7alhano\u011flu,1
+Suso,R. Montolivo,1
+F. Kessi\u00e9,R. Montolivo,1
+A. Romagnoli,G. Bonaventura,1
+Suso,P. Cutrone,1
+P. Cutrone,R. Montolivo,1
+P. Cutrone,Suso,1

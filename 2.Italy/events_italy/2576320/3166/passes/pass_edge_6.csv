@@ -1,0 +1,32 @@
+Source,Target,Weight
+I. M'baye,A. Poli,4
+S. De Maio,F. Helander,3
+A. Poli,S. De Maio,3
+S. De Maio,I. M'baye,3
+A. Poli,E. Pulgar,2
+E. Pulgar,S. De Maio,2
+F. Avenatti,C. Falletti,2
+E. Pulgar,A. Poli,2
+C. Falletti,E. Pulgar,2
+A. Poli,S. Verdi,2
+E. Pulgar,A. Masina,2
+F. Helander,S. De Maio,2
+A. Masina,F. Helander,1
+A. Masina,F. Avenatti,1
+F. Avenatti,A. Poli,1
+S. De Maio,F. Avenatti,1
+E. Pulgar,F. Helander,1
+F. Helander,I. M'baye,1
+G. Donsah,F. Helander,1
+F. Helander,A. Mirante,1
+F. Helander,E. Pulgar,1
+A. Mirante,F. Avenatti,1
+F. Helander,A. Masina,1
+G. Donsah,E. Pulgar,1
+A. Masina,E. Pulgar,1
+F. Avenatti,G. Donsah,1
+S. Verdi,G. Donsah,1
+G. Donsah,C. Falletti,1
+I. M'baye,F. Avenatti,1
+E. Pulgar,I. M'baye,1
+S. Verdi,E. Pulgar,1

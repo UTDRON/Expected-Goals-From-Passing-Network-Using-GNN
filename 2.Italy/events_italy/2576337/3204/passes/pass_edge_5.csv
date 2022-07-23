@@ -1,0 +1,17 @@
+Source,Target,Weight
+M. Lazzari,F. Viviani,1
+Felipe,F. Mattiello,1
+F. Mattiello,A. Grassi,1
+Felipe,A. Paloschi,1
+A. Paloschi,L. \u0160imi\u0107,1
+L. \u0160imi\u0107,A. Paloschi,1
+F. Mattiello,Felipe,1
+F. Vicari,M. Lazzari,1
+A. Grassi,F. Viviani,1
+F. Viviani,F. Vicari,1
+F. Viviani,Felipe,1
+F. Viviani,A. Grassi,1
+A. Paloschi,F. Mattiello,1
+Felipe,A. Grassi,1
+A. Grassi,Felipe,1
+A. Paloschi,F. Viviani,1

@@ -1,0 +1,34 @@
+Source,Target,Weight
+Lucas Leiva,Felipe Anderson,4
+S. de Vrij,Lucas Leiva,4
+A. Maru\u0161i\u0107,Felipe Anderson,2
+Luiz Felipe,S. de Vrij,2
+Patric,C. Immobile,2
+C. Immobile,Luis Alberto,2
+S. de Vrij,T. Strakosha,2
+Luis Alberto,Patric,2
+Bastos,Luiz Felipe,2
+Felipe Anderson,Luis Alberto,2
+Bastos,S. de Vrij,1
+C. Immobile,Bastos,1
+T. Strakosha,S. de Vrij,1
+Felipe Anderson,Luiz Felipe,1
+Luiz Felipe,Felipe Anderson,1
+Lucas Leiva,Luis Alberto,1
+Luiz Felipe,Luis Alberto,1
+Luis Alberto,C. Immobile,1
+Patric,Lucas Leiva,1
+Felipe Anderson,Patric,1
+Felipe Anderson,C. Immobile,1
+Lucas Leiva,Luiz Felipe,1
+Felipe Anderson,Bastos,1
+Lucas Leiva,Bastos,1
+Felipe Anderson,A. Maru\u0161i\u0107,1
+Luis Alberto,S. de Vrij,1
+T. Strakosha,Patric,1
+Bastos,A. Maru\u0161i\u0107,1
+A. Maru\u0161i\u0107,Lucas Leiva,1
+Luis Alberto,A. Maru\u0161i\u0107,1
+Luis Alberto,Bastos,1
+Patric,Bastos,1
+Bastos,Lucas Leiva,1

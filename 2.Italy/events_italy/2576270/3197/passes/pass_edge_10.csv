@@ -1,0 +1,9 @@
+Source,Target,Weight
+F. Ceccherini,D. Faraoni,2
+D. Faraoni,M. Tumminello,1
+A. Cordaz,M. Sampirisi,1
+F. Ceccherini,A. Cordaz,1
+M. Tumminello,F. Ceccherini,1
+D. Faraoni,F. Ceccherini,1
+M. Sampirisi,F. Ceccherini,1
+F. Ceccherini,M. Trotta,1

@@ -1,0 +1,34 @@
+Source,Target,Weight
+E. Pulgar,R. Palacio,2
+M. Destro,S. Verdi,2
+S. De Maio,R. Palacio,2
+S. Verdi,S. De Maio,1
+R. Palacio,A. Mirante,1
+R. Palacio,B. D\u017eemaili,1
+S. Verdi,A. Poli,1
+A. Poli,A. Masina,1
+A. Poli,E. Pulgar,1
+E. Pulgar,A. Mirante,1
+B. D\u017eemaili,E. Pulgar,1
+B. D\u017eemaili,F. Helander,1
+R. Palacio,S. De Maio,1
+A. Poli,R. Palacio,1
+R. Palacio,M. Destro,1
+A. Mirante,M. Destro,1
+I. M'baye,S. Verdi,1
+F. Helander,S. De Maio,1
+R. Palacio,I. M'baye,1
+E. Pulgar,I. M'baye,1
+S. Verdi,M. Destro,1
+A. Mirante,A. Poli,1
+A. Masina,A. Poli,1
+R. Palacio,F. Helander,1
+I. M'baye,E. Pulgar,1
+I. M'baye,A. Mirante,1
+M. Destro,R. Palacio,1
+A. Mirante,A. Masina,1
+S. De Maio,A. Masina,1
+A. Masina,I. M'baye,1
+A. Masina,E. Pulgar,1
+F. Helander,B. D\u017eemaili,1
+S. Verdi,I. M'baye,1

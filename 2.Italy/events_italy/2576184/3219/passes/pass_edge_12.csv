@@ -1,0 +1,15 @@
+Source,Target,Weight
+L. Memushaj,Guilherme,3
+G. Letizia,L. Memushaj,3
+L. Memushaj,G. Letizia,2
+D. Cataldi,L. Del Pinto,1
+A. Costa,B. Djimsiti,1
+Guilherme,L. Memushaj,1
+Guilherme,G. Letizia,1
+B. Djimsiti,G. Letizia,1
+Guilherme,D. Cataldi,1
+G. Letizia,D. Cataldi,1
+D. Cataldi,L. Memushaj,1
+L. Del Pinto,M. D'Alessandro,1
+M. D'Alessandro,L. Venuti,1
+L. Venuti,A. Costa,1

@@ -1,0 +1,81 @@
+Source,Target,Weight
+M. Capuano,B. Martella,5
+M. Sampirisi,A. Barberis,5
+B. Martella,Simy,5
+M. Rohd\u00e9n,B. Martella,4
+B. Martella,A. Nalini,4
+A. Barberis,D. Faraoni,4
+M. Capuano,A. Cordaz,4
+B. Martella,R. Mandragora,4
+Simy,A. Barberis,4
+A. Barberis,F. Ceccherini,4
+R. Mandragora,M. Sampirisi,3
+Simy,R. Mandragora,3
+A. Barberis,M. Sampirisi,3
+A. Nalini,Simy,3
+A. Barberis,M. Rohd\u00e9n,3
+M. Sampirisi,D. Faraoni,3
+M. Rohd\u00e9n,A. Barberis,3
+M. Rohd\u00e9n,M. Capuano,3
+Simy,M. Rohd\u00e9n,3
+F. Ceccherini,Simy,3
+A. Barberis,B. Martella,3
+R. Mandragora,Simy,2
+A. Cordaz,D. Faraoni,2
+F. Ceccherini,M. Rohd\u00e9n,2
+A. Cordaz,R. Mandragora,2
+D. Faraoni,A. Barberis,2
+A. Nalini,R. Mandragora,2
+Simy,A. Nalini,2
+R. Mandragora,B. Martella,2
+Simy,B. Martella,2
+D. Faraoni,B. Martella,2
+A. Barberis,Simy,2
+M. Sampirisi,A. Nalini,2
+A. Nalini,A. Barberis,2
+B. Martella,A. Cordaz,2
+A. Nalini,A. Cordaz,2
+D. Faraoni,M. Sampirisi,2
+B. Martella,M. Capuano,2
+A. Cordaz,B. Martella,2
+A. Cordaz,F. Ceccherini,2
+R. Mandragora,F. Ceccherini,2
+Simy,M. Sampirisi,2
+F. Ceccherini,A. Nalini,2
+A. Cordaz,Simy,2
+A. Cordaz,M. Capuano,2
+R. Mandragora,A. Cordaz,2
+D. Faraoni,M. Rohd\u00e9n,2
+M. Sampirisi,R. Mandragora,2
+R. Mandragora,A. Nalini,1
+A. Barberis,M. Capuano,1
+A. Cordaz,A. Barberis,1
+F. Ceccherini,A. Cordaz,1
+F. Ceccherini,M. Capuano,1
+B. Martella,F. Ceccherini,1
+A. Barberis,A. Cordaz,1
+A. Nalini,B. Martella,1
+R. Mandragora,A. Barberis,1
+M. Capuano,F. Ceccherini,1
+Simy,M. Capuano,1
+A. Cordaz,A. Nalini,1
+B. Martella,A. Barberis,1
+M. Capuano,A. Barberis,1
+F. Ceccherini,D. Faraoni,1
+D. Faraoni,A. Cordaz,1
+Simy,F. Ceccherini,1
+B. Martella,D. Faraoni,1
+M. Rohd\u00e9n,Simy,1
+D. Faraoni,F. Ceccherini,1
+B. Martella,M. Sampirisi,1
+F. Ceccherini,M. Sampirisi,1
+B. Martella,M. Rohd\u00e9n,1
+F. Ceccherini,B. Martella,1
+F. Ceccherini,A. Barberis,1
+M. Rohd\u00e9n,A. Cordaz,1
+Simy,D. Faraoni,1
+R. Mandragora,M. Capuano,1
+D. Faraoni,Simy,1
+A. Nalini,M. Rohd\u00e9n,1
+A. Nalini,F. Ceccherini,1
+D. Faraoni,R. Mandragora,1

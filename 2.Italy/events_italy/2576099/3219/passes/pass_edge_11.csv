@@ -1,0 +1,34 @@
+Source,Target,Weight
+A. Costa,B. Djimsiti,4
+B. Djimsiti,A. Costa,3
+M. D'Alessandro,A. Costa,2
+A. Costa,D. Cataldi,2
+R. Chibsah,M. Coda,2
+A. Brignoli,A. Costa,2
+D. Cataldi,M. D'Alessandro,2
+R. Chibsah,B. Gyamfi,2
+A. Costa,A. Brignoli,1
+E. Brignola,R. Chibsah,1
+M. Coda,D. Cataldi,1
+A. Brignoli,G. Di Chiara,1
+B. Gyamfi,R. Chibsah,1
+D. Cataldi,A. Brignoli,1
+G. Letizia,M. Coda,1
+E. Brignola,G. Letizia,1
+G. Letizia,M. D'Alessandro,1
+G. Letizia,D. Cataldi,1
+A. Costa,B. Gyamfi,1
+D. Cataldi,R. Chibsah,1
+D. Cataldi,A. Costa,1
+R. Chibsah,B. Djimsiti,1
+B. Djimsiti,A. Brignoli,1
+M. D'Alessandro,R. Chibsah,1
+B. Djimsiti,E. Brignola,1
+G. Di Chiara,M. D'Alessandro,1
+M. Coda,R. Chibsah,1
+A. Costa,G. Letizia,1
+A. Costa,R. Chibsah,1
+R. Chibsah,A. Costa,1
+B. Gyamfi,D. Cataldi,1
+B. Gyamfi,E. Brignola,1
+M. D'Alessandro,G. Letizia,1

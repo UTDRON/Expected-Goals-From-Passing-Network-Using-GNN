@@ -1,0 +1,30 @@
+Source,Target,Weight
+Joan Jord\u00e1n,David Junc\u00e0,4
+Ander Capa,Ramis,3
+David Junc\u00e0,Joan Jord\u00e1n,3
+David Junc\u00e0,Pedro Le\u00f3n,2
+Rub\u00e9n Pe\u00f1a,Ander Capa,2
+Ramis,Joan Jord\u00e1n,2
+Ander Capa,Rub\u00e9n Pe\u00f1a,2
+P. Diop,Ander Capa,1
+Ramis,Kike Garc\u00eda,1
+Pedro Le\u00f3n,P. Diop,1
+Arbilla,David Junc\u00e0,1
+Pedro Le\u00f3n,Arbilla,1
+Kike Garc\u00eda,Joan Jord\u00e1n,1
+Kike Garc\u00eda,P. Diop,1
+Joan Jord\u00e1n,Arbilla,1
+P. Diop,Arbilla,1
+Ramis,Arbilla,1
+Joan Jord\u00e1n,Pedro Le\u00f3n,1
+Pedro Le\u00f3n,Joan Jord\u00e1n,1
+Ramis,Ander Capa,1
+David Junc\u00e0,Ramis,1
+Pedro Le\u00f3n,David Junc\u00e0,1
+Arbilla,Pedro Le\u00f3n,1
+Joan Jord\u00e1n,P. Diop,1
+Arbilla,Joan Jord\u00e1n,1
+Arbilla,Ramis,1
+P. Diop,Iv\u00e1n Alejo,1
+Joan Jord\u00e1n,Kike Garc\u00eda,1
+Iv\u00e1n Alejo,Joan Jord\u00e1n,1

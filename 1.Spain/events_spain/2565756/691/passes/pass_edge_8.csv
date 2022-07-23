@@ -1,0 +1,32 @@
+Source,Target,Weight
+Granero,Gerard Moreno,3
+Mario Hermoso,Gerard Moreno,2
+David L\u00f3pez,Granero,2
+Granero,Mario Hermoso,2
+Mario Hermoso,Granero,2
+Gerard Moreno,V\u00edctor S\u00e1nchez,2
+Marc Navarro,L\u00e9o Baptist\u00e3o,1
+V\u00edctor S\u00e1nchez,\u00d3. Duarte,1
+V\u00edctor S\u00e1nchez,Marc Navarro,1
+V\u00edctor S\u00e1nchez,Sergio Garc\u00eda,1
+V\u00edctor S\u00e1nchez,Diego L\u00f3pez,1
+Granero,Aar\u00f3n,1
+Granero,V\u00edctor S\u00e1nchez,1
+Sergio Garc\u00eda,David L\u00f3pez,1
+David L\u00f3pez,Mario Hermoso,1
+Marc Navarro,Granero,1
+Gerard Moreno,Granero,1
+Aar\u00f3n,Granero,1
+Diego L\u00f3pez,V\u00edctor S\u00e1nchez,1
+L\u00e9o Baptist\u00e3o,Mario Hermoso,1
+Aar\u00f3n,Sergio Garc\u00eda,1
+\u00d3. Duarte,David L\u00f3pez,1
+Aar\u00f3n,Mario Hermoso,1
+L\u00e9o Baptist\u00e3o,Aar\u00f3n,1
+Granero,David L\u00f3pez,1
+Mario Hermoso,Marc Navarro,1
+Gerard Moreno,Aar\u00f3n,1
+Gerard Moreno,Diego L\u00f3pez,1
+V\u00edctor S\u00e1nchez,L\u00e9o Baptist\u00e3o,1
+Diego L\u00f3pez,L\u00e9o Baptist\u00e3o,1
+L\u00e9o Baptist\u00e3o,Granero,1

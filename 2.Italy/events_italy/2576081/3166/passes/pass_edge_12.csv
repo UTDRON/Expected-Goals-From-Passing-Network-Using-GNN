@@ -1,0 +1,15 @@
+Source,Target,Weight
+R. Palacio,I. M'baye,2
+C. Falletti,I. M'baye,1
+I. M'baye,A. Mirante,1
+S. Verdi,A. Poli,1
+R. Palacio,C. Falletti,1
+G. Gonz\u00e1lez,G. Donsah,1
+G. Donsah,G. Gonz\u00e1lez,1
+A. Mirante,R. Palacio,1
+I. M'baye,C. Falletti,1
+A. Poli,R. Palacio,1
+I. M'baye,F. Helander,1
+G. Gonz\u00e1lez,S. Verdi,1
+F. Helander,G. Gonz\u00e1lez,1
+G. Gonz\u00e1lez,R. Palacio,1

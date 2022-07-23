@@ -1,0 +1,33 @@
+Source,Target,Weight
+Vesga,I\u00f1igo C\u00f3rdoba,3
+Aduriz,Susaeta,3
+Susaeta,I\u00f1igo C\u00f3rdoba,2
+Aduriz,Vesga,2
+Lekue,Susaeta,2
+Susaeta,Lekue,2
+Balenziaga,Aduriz,2
+I\u00f1igo C\u00f3rdoba,Aduriz,2
+Balenziaga,Vesga,1
+Vesga,San Jos\u00e9,1
+San Jos\u00e9,Aduriz,1
+Susaeta,Aduriz,1
+Aduriz,I\u00f1igo C\u00f3rdoba,1
+Arrizabalaga,Balenziaga,1
+I\u00f1igo C\u00f3rdoba,Arrizabalaga,1
+San Jos\u00e9,Balenziaga,1
+I\u00f1igo C\u00f3rdoba,Vesga,1
+Aduriz,I\u00f1aki Williams,1
+I\u00f1igo C\u00f3rdoba,I\u00f1aki Williams,1
+I\u00f1aki Williams,Lekue,1
+I\u00f1aki Williams,I\u00f1igo C\u00f3rdoba,1
+I\u00f1aki Williams,Vesga,1
+Lekue,Vesga,1
+Unai N\u00fa\u00f1ez,I\u00f1aki Williams,1
+Susaeta,San Jos\u00e9,1
+Arrizabalaga,San Jos\u00e9,1
+San Jos\u00e9,A. Laporte,1
+Vesga,Aduriz,1
+I\u00f1igo C\u00f3rdoba,Unai N\u00fa\u00f1ez,1
+A. Laporte,Susaeta,1
+I\u00f1igo C\u00f3rdoba,Balenziaga,1
+Lekue,Arrizabalaga,1

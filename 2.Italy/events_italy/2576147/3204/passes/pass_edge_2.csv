@@ -1,0 +1,74 @@
+Source,Target,Weight
+M. Lazzari,P. Schiattarella,6
+A. Grassi,F. Viviani,5
+P. Schiattarella,F. Viviani,5
+B. Salamon,F. Vicari,5
+A. Grassi,Felipe,5
+F. Mattiello,A. Grassi,4
+Felipe,A. Grassi,4
+F. Viviani,B. Salamon,4
+B. Salamon,M. Lazzari,3
+A. Grassi,S. Floccari,3
+M. Lazzari,B. Salamon,3
+F. Viviani,A. Grassi,3
+Felipe,F. Mattiello,3
+S. Floccari,P. Schiattarella,3
+F. Viviani,M. Antenucci,3
+A. Gomis,A. Grassi,3
+S. Floccari,M. Antenucci,2
+Felipe,F. Viviani,2
+A. Gomis,B. Salamon,2
+P. Schiattarella,M. Antenucci,2
+F. Viviani,F. Vicari,2
+F. Viviani,A. Gomis,2
+M. Antenucci,A. Grassi,2
+S. Floccari,F. Viviani,2
+M. Antenucci,M. Lazzari,2
+F. Vicari,A. Gomis,2
+F. Vicari,F. Viviani,2
+F. Vicari,Felipe,2
+F. Viviani,Felipe,2
+B. Salamon,P. Schiattarella,2
+B. Salamon,Felipe,2
+A. Grassi,F. Mattiello,2
+M. Lazzari,M. Antenucci,1
+A. Grassi,P. Schiattarella,1
+A. Gomis,F. Vicari,1
+F. Mattiello,M. Lazzari,1
+Felipe,F. Vicari,1
+A. Grassi,M. Lazzari,1
+A. Gomis,M. Antenucci,1
+P. Schiattarella,A. Grassi,1
+M. Antenucci,P. Schiattarella,1
+M. Antenucci,A. Gomis,1
+A. Gomis,F. Mattiello,1
+F. Mattiello,B. Salamon,1
+M. Antenucci,B. Salamon,1
+P. Schiattarella,Felipe,1
+F. Mattiello,S. Floccari,1
+M. Antenucci,F. Viviani,1
+F. Vicari,M. Lazzari,1
+M. Lazzari,Felipe,1
+S. Floccari,M. Lazzari,1
+Felipe,A. Gomis,1
+F. Viviani,M. Lazzari,1
+P. Schiattarella,S. Floccari,1
+M. Lazzari,F. Vicari,1
+B. Salamon,A. Gomis,1
+Felipe,B. Salamon,1
+F. Vicari,P. Schiattarella,1
+B. Salamon,F. Viviani,1
+P. Schiattarella,F. Vicari,1
+B. Salamon,S. Floccari,1
+P. Schiattarella,B. Salamon,1
+M. Antenucci,F. Mattiello,1
+F. Vicari,B. Salamon,1
+S. Floccari,B. Salamon,1
+P. Schiattarella,A. Gomis,1
+P. Schiattarella,M. Lazzari,1
+F. Viviani,S. Floccari,1
+F. Vicari,S. Floccari,1
+A. Gomis,S. Floccari,1
+F. Vicari,F. Mattiello,1
+Felipe,M. Lazzari,1
+F. Mattiello,A. Gomis,1

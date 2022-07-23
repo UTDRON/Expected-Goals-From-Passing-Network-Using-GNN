@@ -1,0 +1,16 @@
+Source,Target,Weight
+A. Brignoli,B. Djimsiti,2
+B. Djimsiti,A. Brignoli,2
+A. Costa,B. Gyamfi,1
+B. Djimsiti,B. Gyamfi,1
+G. Letizia,A. Brignoli,1
+D. Cataldi,G. Letizia,1
+G. Letizia,R. Chibsah,1
+R. Chibsah,A. Costa,1
+B. Gyamfi,D. Cataldi,1
+A. Brignoli,A. Costa,1
+B. Gyamfi,B. Djimsiti,1
+A. Costa,G. Letizia,1
+B. Djimsiti,A. Costa,1
+A. Costa,B. Djimsiti,1
+G. Letizia,A. Costa,1

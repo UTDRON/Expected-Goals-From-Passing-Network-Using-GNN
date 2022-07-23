@@ -1,0 +1,26 @@
+Source,Target,Weight
+C. Molinaro,N. Burdisso,3
+M. Niang,D. Baselli,2
+M. Niang,C. Ansaldi,2
+C. Ansaldi,M. Niang,2
+N. N'Koulou,A. Acquah,2
+T. Rinc\u00f3n,N. N'Koulou,2
+N. Burdisso,S. Sirigu,2
+S. Sirigu,N. Burdisso,1
+A. Acquah,N. N'Koulou,1
+D. Baselli,N. N'Koulou,1
+T. Rinc\u00f3n,C. Molinaro,1
+D. Baselli,M. Niang,1
+C. Ansaldi,D. Baselli,1
+A. Acquah,Iago Falqu\u00e9,1
+N. Burdisso,T. Rinc\u00f3n,1
+N. N'Koulou,S. Sirigu,1
+N. Burdisso,C. Molinaro,1
+Iago Falqu\u00e9,C. Ansaldi,1
+S. Sirigu,C. Molinaro,1
+C. Ansaldi,T. Rinc\u00f3n,1
+N. N'Koulou,C. Molinaro,1
+C. Molinaro,C. Ansaldi,1
+S. Sirigu,M. Niang,1
+C. Molinaro,D. Baselli,1
+D. Baselli,T. Rinc\u00f3n,1

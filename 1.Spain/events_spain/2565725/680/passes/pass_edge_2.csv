@@ -1,0 +1,31 @@
+Source,Target,Weight
+Sergio Escudero,\u00c9. Banega,5
+\u00c9. Banega,Sergio Escudero,4
+\u00c9. Banega,Jes\u00fas Navas,3
+S. Corchia,F. V\u00e1zquez,3
+C. Lenglet,\u00c9. Banega,2
+\u00c9. Banega,S. Corchia,2
+F. V\u00e1zquez,Jes\u00fas Navas,2
+S. Kj\u00e6r,Sergio Rico,1
+C. Lenglet,Sergio Escudero,1
+S. N'Zonzi,C. Lenglet,1
+Sergio Escudero,W. Ben Yedder,1
+C. Lenglet,S. Kj\u00e6r,1
+F. V\u00e1zquez,Nolito,1
+Sergio Rico,C. Lenglet,1
+\u00c9. Banega,S. Kj\u00e6r,1
+S. Kj\u00e6r,\u00c9. Banega,1
+S. Kj\u00e6r,S. N'Zonzi,1
+Jes\u00fas Navas,S. Corchia,1
+F. V\u00e1zquez,S. Corchia,1
+S. N'Zonzi,Sergio Escudero,1
+Jes\u00fas Navas,C. Lenglet,1
+F. V\u00e1zquez,\u00c9. Banega,1
+Jes\u00fas Navas,S. Kj\u00e6r,1
+C. Lenglet,S. N'Zonzi,1
+S. Corchia,\u00c9. Banega,1
+Nolito,F. V\u00e1zquez,1
+Jes\u00fas Navas,F. V\u00e1zquez,1
+Jes\u00fas Navas,\u00c9. Banega,1
+Sergio Escudero,C. Lenglet,1
+\u00c9. Banega,C. Lenglet,1

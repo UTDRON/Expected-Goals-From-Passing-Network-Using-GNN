@@ -1,0 +1,61 @@
+Source,Target,Weight
+E. Garay,Montoya,7
+Dani Parejo,Gon\u00e7alo Guedes,6
+Gon\u00e7alo Guedes,Toni Lato,6
+Montoya,E. Garay,6
+Gabriel,E. Garay,5
+Toni Lato,Rodrigo,5
+Rodrigo,Toni Lato,4
+Toni Lato,Gon\u00e7alo Guedes,4
+Montoya,Andreas Pereira,4
+Toni Lato,Dani Parejo,3
+Toni Lato,Montoya,3
+Gon\u00e7alo Guedes,Dani Parejo,3
+Andreas Pereira,Montoya,3
+E. Garay,Dani Parejo,3
+G. Kondogbia,Dani Parejo,3
+Dani Parejo,Toni Lato,3
+E. Garay,Gabriel,2
+Montoya,Toni Lato,2
+Gabriel,Montoya,2
+Toni Lato,Gabriel,2
+Gabriel,Gon\u00e7alo Guedes,2
+Neto,Gabriel,2
+Rodrigo,Gabriel,2
+Dani Parejo,E. Garay,2
+Dani Parejo,Montoya,2
+Montoya,G. Kondogbia,2
+E. Garay,G. Kondogbia,2
+Toni Lato,G. Kondogbia,2
+E. Garay,Neto,2
+Gon\u00e7alo Guedes,Gabriel,2
+Dani Parejo,Gabriel,2
+Rodrigo,Dani Parejo,2
+Gon\u00e7alo Guedes,Rodrigo,2
+G. Kondogbia,Toni Lato,2
+G. Kondogbia,E. Garay,2
+Gabriel,Toni Lato,2
+Montoya,Gabriel,2
+S. Zaza,Dani Parejo,1
+Gabriel,G. Kondogbia,1
+Toni Lato,E. Garay,1
+Andreas Pereira,Gon\u00e7alo Guedes,1
+Montoya,Gon\u00e7alo Guedes,1
+Andreas Pereira,Dani Parejo,1
+Gabriel,Andreas Pereira,1
+Gon\u00e7alo Guedes,G. Kondogbia,1
+Gabriel,Dani Parejo,1
+Rodrigo,Gon\u00e7alo Guedes,1
+Andreas Pereira,S. Zaza,1
+Montoya,Dani Parejo,1
+S. Zaza,Rodrigo,1
+Dani Parejo,Rodrigo,1
+Rodrigo,Montoya,1
+Dani Parejo,Andreas Pereira,1
+Montoya,S. Zaza,1
+G. Kondogbia,Montoya,1
+Gon\u00e7alo Guedes,Andreas Pereira,1
+G. Kondogbia,Rodrigo,1
+Dani Parejo,G. Kondogbia,1
+Andreas Pereira,Toni Lato,1
+Gon\u00e7alo Guedes,Montoya,1

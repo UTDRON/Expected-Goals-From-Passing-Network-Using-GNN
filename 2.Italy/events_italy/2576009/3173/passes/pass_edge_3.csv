@@ -1,0 +1,23 @@
+Source,Target,Weight
+D. Dessena,S. Padoin,2
+A. Cragno,S. Padoin,2
+S. Padoin,D. Dessena,2
+M. Andreolli,A. Cragno,1
+A. Cragno,N. Giannetti,1
+N. Barella,M. Andreolli,1
+S. Padoin,A. Cragno,1
+A. Ioni\u0163\u0103,F. Pisacane,1
+N. Barella,S. Miangue,1
+D. Dessena,A. Cragno,1
+M. Andreolli,A. Ioni\u0163\u0103,1
+S. Miangue,N. Barella,1
+N. Giannetti,D. Dessena,1
+A. Ioni\u0163\u0103,M. Andreolli,1
+S. Padoin,N. Barella,1
+S. Miangue,A. Ioni\u0163\u0103,1
+N. Barella,F. Pisacane,1
+F. Pisacane,S. Miangue,1
+N. Barella,M. Sau,1
+F. Pisacane,M. Andreolli,1
+F. Pisacane,N. Barella,1
+M. Sau,N. Barella,1

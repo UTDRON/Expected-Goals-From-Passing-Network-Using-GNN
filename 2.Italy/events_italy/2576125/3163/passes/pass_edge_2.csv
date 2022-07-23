@@ -1,0 +1,50 @@
+Source,Target,Weight
+Ali Adnan,B. Nuytinck,3
+A. Bar\u00e1k,R. de Paul,3
+S. Fofana,A. Bar\u00e1k,2
+S. Widmer,A. Bizzarri,2
+A. Bar\u00e1k,B. Nuytinck,2
+J. Stryger Larsen,A. Bar\u00e1k,2
+R. de Paul,S. Widmer,2
+R. de Paul,S. Fofana,2
+A. Bar\u00e1k,S. Widmer,2
+B. Nuytinck,R. de Paul,2
+J. Jankto,S. Fofana,2
+S. Widmer,S. Fofana,2
+S. Fofana,Ali Adnan,2
+B. Nuytinck,Danilo,1
+B. Nuytinck,A. Bizzarri,1
+A. Bar\u00e1k,K. Lasagna,1
+S. Widmer,K. Lasagna,1
+A. Bizzarri,J. Stryger Larsen,1
+S. Widmer,A. Bar\u00e1k,1
+Danilo,S. Widmer,1
+S. Fofana,J. Jankto,1
+Ali Adnan,S. Fofana,1
+K. Lasagna,A. Bar\u00e1k,1
+S. Widmer,J. Stryger Larsen,1
+A. Bar\u00e1k,J. Jankto,1
+J. Jankto,B. Nuytinck,1
+J. Jankto,S. Widmer,1
+A. Bizzarri,A. Bar\u00e1k,1
+Danilo,A. Bizzarri,1
+K. Lasagna,S. Widmer,1
+B. Nuytinck,Ali Adnan,1
+Ali Adnan,J. Jankto,1
+K. Lasagna,J. Jankto,1
+Danilo,A. Bar\u00e1k,1
+A. Bizzarri,K. Lasagna,1
+J. Jankto,Ali Adnan,1
+R. de Paul,K. Lasagna,1
+S. Fofana,Danilo,1
+S. Fofana,K. Lasagna,1
+J. Jankto,A. Bizzarri,1
+B. Nuytinck,J. Jankto,1
+S. Widmer,R. de Paul,1
+K. Lasagna,R. de Paul,1
+S. Widmer,B. Nuytinck,1
+A. Bizzarri,Ali Adnan,1
+B. Nuytinck,S. Widmer,1
+A. Bizzarri,S. Widmer,1
+R. de Paul,Danilo,1
+R. de Paul,A. Bar\u00e1k,1

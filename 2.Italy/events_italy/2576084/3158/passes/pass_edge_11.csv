@@ -1,0 +1,14 @@
+Source,Target,Weight
+A. Kolarov,D. Perotti,2
+D. Perotti,F. Fazio,1
+A. Florenzi,R. Nainggolan,1
+D. Perotti,D. De Rossi,1
+D. De Rossi,D. Perotti,1
+D. Perotti,A. Kolarov,1
+R. Nainggolan,A. Kolarov,1
+K. Strootman,D. Perotti,1
+D. De Rossi,A. Kolarov,1
+D. Perotti,K. Strootman,1
+F. Fazio,A. Florenzi,1
+A. Florenzi,K. Manolas,1
+K. Manolas,A. Florenzi,1

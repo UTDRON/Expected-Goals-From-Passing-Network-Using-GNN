@@ -1,0 +1,34 @@
+Source,Target,Weight
+Rodri,Jaume Costa,5
+\u00c1lvaro Gonz\u00e1lez,Rodri,3
+Mario,Dani Raba,3
+Jaume Costa,Rodri,3
+Dani Raba,Mario,3
+Mario,D. Bonera,3
+Jaume Costa,\u00c1lvaro Gonz\u00e1lez,3
+D. Bonera,\u00c1lvaro Gonz\u00e1lez,2
+Trigueros,Rodri,2
+Rodri,Trigueros,2
+Trigueros,Mario,2
+Jaume Costa,R. Soriano,2
+Trigueros,R. Soriano,2
+Pablo Fornals,Dani Raba,1
+R. Soriano,Pablo Fornals,1
+Rodri,Dani Raba,1
+Dani Raba,Jaume Costa,1
+R. Soriano,Jaume Costa,1
+Rodri,D. Bonera,1
+Dani Raba,Trigueros,1
+Jaume Costa,Dani Raba,1
+Rodri,Mario,1
+\u00c1lvaro Gonz\u00e1lez,Jaume Costa,1
+D. Bonera,Mario,1
+Dani Raba,Rodri,1
+\u00c1lvaro Gonz\u00e1lez,Trigueros,1
+Jaume Costa,Trigueros,1
+\u00c1lvaro Gonz\u00e1lez,D. Bonera,1
+Dani Raba,\u00c1lvaro Gonz\u00e1lez,1
+D. Bonera,Dani Raba,1
+Mario,Trigueros,1
+D. Bonera,Jaume Costa,1
+R. Soriano,Rodri,1

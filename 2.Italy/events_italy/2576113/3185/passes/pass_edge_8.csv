@@ -1,0 +1,59 @@
+Source,Target,Weight
+\u00c1lex Berenguer,C. Molinaro,5
+C. Molinaro,\u00c1lex Berenguer,5
+N. N'Koulou,L. De Silvestri,4
+N. Burdisso,C. Molinaro,4
+A. Belotti,D. Baselli,3
+C. Molinaro,N. Burdisso,3
+L. De Silvestri,N. N'Koulou,3
+D. Baselli,L. De Silvestri,3
+N. N'Koulou,N. Burdisso,3
+N. N'Koulou,\u00c1lex Berenguer,2
+C. Molinaro,A. Belotti,2
+D. Baselli,M. Valdifiori,2
+L. De Silvestri,M. Valdifiori,2
+L. De Silvestri,C. Molinaro,2
+M. Valdifiori,L. De Silvestri,2
+L. De Silvestri,A. Belotti,2
+\u00c1lex Berenguer,D. Baselli,2
+M. Valdifiori,D. Baselli,2
+A. Belotti,\u00c1lex Berenguer,2
+N. Burdisso,N. N'Koulou,2
+C. Molinaro,D. Baselli,2
+D. Baselli,\u00c1lex Berenguer,2
+N. Burdisso,M. Valdifiori,2
+D. Baselli,A. Belotti,2
+Iago Falqu\u00e9,M. Valdifiori,2
+M. Valdifiori,Iago Falqu\u00e9,2
+L. De Silvestri,Iago Falqu\u00e9,2
+\u00c1lex Berenguer,T. Rinc\u00f3n,2
+A. Belotti,C. Molinaro,1
+S. Sirigu,N. N'Koulou,1
+Iago Falqu\u00e9,N. N'Koulou,1
+Iago Falqu\u00e9,T. Rinc\u00f3n,1
+T. Rinc\u00f3n,A. Belotti,1
+T. Rinc\u00f3n,Iago Falqu\u00e9,1
+A. Belotti,M. Valdifiori,1
+L. De Silvestri,D. Baselli,1
+D. Baselli,T. Rinc\u00f3n,1
+\u00c1lex Berenguer,N. N'Koulou,1
+S. Sirigu,D. Baselli,1
+T. Rinc\u00f3n,N. N'Koulou,1
+N. Burdisso,L. De Silvestri,1
+N. N'Koulou,T. Rinc\u00f3n,1
+T. Rinc\u00f3n,L. De Silvestri,1
+A. Belotti,N. Burdisso,1
+L. De Silvestri,T. Rinc\u00f3n,1
+D. Baselli,C. Molinaro,1
+M. Valdifiori,N. Burdisso,1
+M. Valdifiori,N. N'Koulou,1
+Iago Falqu\u00e9,A. Belotti,1
+\u00c1lex Berenguer,N. Burdisso,1
+D. Baselli,Iago Falqu\u00e9,1
+Iago Falqu\u00e9,L. De Silvestri,1
+N. Burdisso,\u00c1lex Berenguer,1
+T. Rinc\u00f3n,D. Baselli,1
+M. Valdifiori,S. Sirigu,1
+\u00c1lex Berenguer,S. Sirigu,1
+C. Molinaro,L. De Silvestri,1
+L. De Silvestri,N. Burdisso,1

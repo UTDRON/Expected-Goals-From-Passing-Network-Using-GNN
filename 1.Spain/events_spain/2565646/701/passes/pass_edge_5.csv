@@ -1,0 +1,27 @@
+Source,Target,Weight
+Arbilla,Jos\u00e9 \u00c1ngel,4
+T. Inui,Arbilla,4
+Jos\u00e9 \u00c1ngel,T. Inui,3
+Arbilla,T. Inui,3
+G. Escalante,Lomb\u00e1n,2
+Dani Garc\u00eda,G. Escalante,2
+Ander Capa,Dani Garc\u00eda,2
+Lomb\u00e1n,Arbilla,2
+Ander Capa,G. Escalante,1
+Arbilla,Ander Capa,1
+T. Inui,Jos\u00e9 \u00c1ngel,1
+Sergi Enrich,Arbilla,1
+Lomb\u00e1n,Paulo Oliveira,1
+Arbilla,Paulo Oliveira,1
+Paulo Oliveira,Ander Capa,1
+Jos\u00e9 \u00c1ngel,Arbilla,1
+Arbilla,Sergi Enrich,1
+Lomb\u00e1n,Ander Capa,1
+Lomb\u00e1n,Dani Garc\u00eda,1
+G. Escalante,Ander Capa,1
+Ander Capa,Arbilla,1
+Jos\u00e9 \u00c1ngel,Dani Garc\u00eda,1
+Paulo Oliveira,Lomb\u00e1n,1
+Arbilla,Lomb\u00e1n,1
+Dani Garc\u00eda,Arbilla,1
+Dani Garc\u00eda,Lomb\u00e1n,1

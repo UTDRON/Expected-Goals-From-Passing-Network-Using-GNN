@@ -1,0 +1,56 @@
+Source,Target,Weight
+Luis Alberto,Felipe Anderson,5
+Lucas Leiva,Luis Alberto,5
+Nani,Felipe Anderson,4
+Luiz Felipe,Lucas Leiva,4
+A. Maru\u0161i\u0107,Lucas Leiva,4
+Felipe Anderson,Nani,3
+Luis Alberto,Patric,3
+Felipe Anderson,A. Maru\u0161i\u0107,3
+Luis Alberto,Lucas Leiva,3
+Lucas Leiva,S. de Vrij,3
+Felipe Anderson,Luis Alberto,3
+Patric,Lucas Leiva,2
+Luiz Felipe,T. Strakosha,2
+Patric,Luis Alberto,2
+Luis Alberto,Luiz Felipe,2
+A. Maru\u0161i\u0107,M. Parolo,2
+Lucas Leiva,A. Maru\u0161i\u0107,2
+Luiz Felipe,Luis Alberto,2
+S. de Vrij,Lucas Leiva,2
+T. Strakosha,S. de Vrij,2
+S. de Vrij,T. Strakosha,2
+F. Caicedo,Luis Alberto,2
+S. de Vrij,A. Maru\u0161i\u0107,2
+Lucas Leiva,Nani,2
+T. Strakosha,Luiz Felipe,2
+Lucas Leiva,Luiz Felipe,2
+Patric,A. Maru\u0161i\u0107,2
+Luiz Felipe,Patric,2
+S. de Vrij,Luiz Felipe,2
+Luiz Felipe,S. de Vrij,1
+A. Maru\u0161i\u0107,S. Milinkovi\u0107-Savi\u0107,1
+Luis Alberto,A. Maru\u0161i\u0107,1
+Luis Alberto,S. Milinkovi\u0107-Savi\u0107,1
+Lucas Leiva,F. Caicedo,1
+Lucas Leiva,Felipe Anderson,1
+Felipe Anderson,S. de Vrij,1
+A. Maru\u0161i\u0107,Luiz Felipe,1
+Luis Alberto,Nani,1
+Luis Alberto,F. Caicedo,1
+A. Maru\u0161i\u0107,Felipe Anderson,1
+Nani,Lucas Leiva,1
+Felipe Anderson,Patric,1
+C. Immobile,Patric,1
+Patric,Luiz Felipe,1
+S. Milinkovi\u0107-Savi\u0107,Luis Alberto,1
+S. de Vrij,Luis Alberto,1
+Luiz Felipe,C. Immobile,1
+M. Parolo,S. de Vrij,1
+A. Maru\u0161i\u0107,S. de Vrij,1
+A. Maru\u0161i\u0107,Luis Alberto,1
+M. Parolo,Luiz Felipe,1
+C. Immobile,Luis Alberto,1
+S. Milinkovi\u0107-Savi\u0107,Luiz Felipe,1
+Luis Alberto,C. Immobile,1
+T. Strakosha,A. Maru\u0161i\u0107,1

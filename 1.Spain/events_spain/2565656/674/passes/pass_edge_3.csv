@@ -1,0 +1,82 @@
+Source,Target,Weight
+E. Garay,J. Murillo,12
+J. Murillo,Jos\u00e9 Gay\u00e1,11
+Jos\u00e9 Gay\u00e1,J. Murillo,11
+Jos\u00e9 Gay\u00e1,Gon\u00e7alo Guedes,7
+J. Murillo,E. Garay,7
+Jos\u00e9 Gay\u00e1,Dani Parejo,6
+J. Murillo,G. Kondogbia,6
+Dani Parejo,Rodrigo,5
+Jos\u00e9 Gay\u00e1,G. Kondogbia,5
+Dani Parejo,Carlos Soler,4
+Gon\u00e7alo Guedes,Dani Parejo,4
+Montoya,E. Garay,4
+J. Murillo,S. Zaza,4
+Dani Parejo,G. Kondogbia,4
+Gon\u00e7alo Guedes,Jos\u00e9 Gay\u00e1,4
+Dani Parejo,E. Garay,4
+G. Kondogbia,Dani Parejo,4
+G. Kondogbia,Jos\u00e9 Gay\u00e1,4
+Dani Parejo,Montoya,4
+Rodrigo,Jos\u00e9 Gay\u00e1,3
+G. Kondogbia,J. Murillo,3
+Montoya,Dani Parejo,3
+Carlos Soler,Montoya,3
+Montoya,G. Kondogbia,3
+G. Kondogbia,E. Garay,3
+Neto,Jos\u00e9 Gay\u00e1,3
+Carlos Soler,Jos\u00e9 Gay\u00e1,3
+Rodrigo,J. Murillo,3
+E. Garay,Montoya,3
+G. Kondogbia,Carlos Soler,3
+Carlos Soler,Dani Parejo,2
+Gon\u00e7alo Guedes,Montoya,2
+Montoya,S. Zaza,2
+Carlos Soler,Gon\u00e7alo Guedes,2
+Carlos Soler,J. Murillo,2
+Gon\u00e7alo Guedes,G. Kondogbia,2
+Rodrigo,Dani Parejo,2
+S. Zaza,Rodrigo,2
+Dani Parejo,Jos\u00e9 Gay\u00e1,2
+J. Murillo,Carlos Soler,2
+Gon\u00e7alo Guedes,S. Zaza,2
+E. Garay,Dani Parejo,2
+S. Zaza,Dani Parejo,2
+Rodrigo,G. Kondogbia,2
+Jos\u00e9 Gay\u00e1,Rodrigo,2
+G. Kondogbia,Rodrigo,2
+G. Kondogbia,Gon\u00e7alo Guedes,2
+Rodrigo,Montoya,1
+Dani Parejo,J. Murillo,1
+S. Zaza,E. Garay,1
+E. Garay,G. Kondogbia,1
+E. Garay,Carlos Soler,1
+S. Zaza,Montoya,1
+J. Murillo,Gon\u00e7alo Guedes,1
+E. Garay,Jos\u00e9 Gay\u00e1,1
+Rodrigo,E. Garay,1
+J. Murillo,Rodrigo,1
+Neto,Carlos Soler,1
+Jos\u00e9 Gay\u00e1,Montoya,1
+Carlos Soler,Neto,1
+Montoya,Carlos Soler,1
+Dani Parejo,S. Zaza,1
+G. Kondogbia,Montoya,1
+Rodrigo,Neto,1
+S. Zaza,Jos\u00e9 Gay\u00e1,1
+S. Zaza,J. Murillo,1
+E. Garay,Rodrigo,1
+Neto,E. Garay,1
+G. Kondogbia,S. Zaza,1
+Jos\u00e9 Gay\u00e1,Neto,1
+S. Zaza,Neto,1
+Gon\u00e7alo Guedes,J. Murillo,1
+Rodrigo,Gon\u00e7alo Guedes,1
+J. Murillo,Neto,1
+Gon\u00e7alo Guedes,Rodrigo,1
+Montoya,Gon\u00e7alo Guedes,1
+Rodrigo,Carlos Soler,1
+J. Murillo,Dani Parejo,1
+S. Zaza,Gon\u00e7alo Guedes,1
+Montoya,Rodrigo,1
+Dani Parejo,Gon\u00e7alo Guedes,1

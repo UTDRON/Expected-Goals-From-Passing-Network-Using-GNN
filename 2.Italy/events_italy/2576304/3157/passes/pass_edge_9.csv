@@ -1,0 +1,52 @@
+Source,Target,Weight
+R. Rodr\u00edguez,G. Bonaventura,3
+G. Bonaventura,H. \u00c7alhano\u011flu,3
+M. Locatelli,G. Donnarumma,3
+G. Donnarumma,P. Cutrone,2
+Suso,F. Kessi\u00e9,2
+F. Kessi\u00e9,C. Zapata,2
+C. Zapata,Suso,2
+D. Calabria,C. Zapata,2
+G. Bonaventura,M. Locatelli,2
+G. Bonaventura,R. Rodr\u00edguez,2
+P. Cutrone,D. Calabria,2
+Suso,M. Locatelli,2
+M. Locatelli,H. \u00c7alhano\u011flu,2
+G. Donnarumma,M. Locatelli,2
+C. Zapata,G. Bonaventura,1
+M. Locatelli,L. Bonucci,1
+C. Zapata,F. Kessi\u00e9,1
+D. Calabria,Suso,1
+Suso,P. Cutrone,1
+M. Locatelli,D. Calabria,1
+H. \u00c7alhano\u011flu,R. Rodr\u00edguez,1
+D. Calabria,R. Rodr\u00edguez,1
+H. \u00c7alhano\u011flu,Suso,1
+D. Calabria,M. Locatelli,1
+P. Cutrone,G. Bonaventura,1
+D. Calabria,P. Cutrone,1
+H. \u00c7alhano\u011flu,P. Cutrone,1
+M. Locatelli,C. Zapata,1
+M. Locatelli,F. Kessi\u00e9,1
+H. \u00c7alhano\u011flu,F. Kessi\u00e9,1
+F. Kessi\u00e9,H. \u00c7alhano\u011flu,1
+H. \u00c7alhano\u011flu,G. Bonaventura,1
+C. Zapata,G. Donnarumma,1
+C. Zapata,D. Calabria,1
+C. Zapata,M. Locatelli,1
+G. Donnarumma,L. Bonucci,1
+P. Cutrone,G. Donnarumma,1
+G. Bonaventura,D. Calabria,1
+F. Kessi\u00e9,D. Calabria,1
+G. Donnarumma,C. Zapata,1
+R. Rodr\u00edguez,G. Donnarumma,1
+P. Cutrone,M. Locatelli,1
+H. \u00c7alhano\u011flu,G. Donnarumma,1
+M. Locatelli,G. Bonaventura,1
+G. Donnarumma,R. Rodr\u00edguez,1
+H. \u00c7alhano\u011flu,C. Zapata,1
+R. Rodr\u00edguez,F. Kessi\u00e9,1
+F. Kessi\u00e9,G. Bonaventura,1
+F. Kessi\u00e9,Suso,1
+L. Bonucci,G. Bonaventura,1
+L. Bonucci,M. Locatelli,1

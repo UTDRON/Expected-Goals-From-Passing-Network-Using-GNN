@@ -1,0 +1,18 @@
+Source,Target,Weight
+A. Bar\u00e1k,R. de Paul,2
+R. de Paul,A. Bar\u00e1k,2
+R. de Paul,A. Bizzarri,1
+J. Jankto,S. Perica,1
+S. Perica,Danilo,1
+S. Widmer,S. Perica,1
+Samir,J. Jankto,1
+A. Bizzarri,S. Widmer,1
+S. Perica,Ali Adnan,1
+J. Jankto,A. Bar\u00e1k,1
+Danilo,R. de Paul,1
+Ali Adnan,R. de Paul,1
+R. de Paul,S. Fofana,1
+S. Widmer,R. de Paul,1
+S. Fofana,J. Jankto,1
+R. de Paul,J. Jankto,1
+J. Jankto,Samir,1

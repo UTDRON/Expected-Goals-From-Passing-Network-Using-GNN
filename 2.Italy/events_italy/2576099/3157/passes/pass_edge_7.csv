@@ -1,0 +1,41 @@
+Source,Target,Weight
+F. Borini,Suso,4
+M. Musacchio,F. Borini,4
+R. Rodr\u00edguez,A. Romagnoli,2
+L. Bonucci,A. Romagnoli,2
+A. Romagnoli,R. Montolivo,2
+Suso,F. Borini,2
+M. Musacchio,Suso,2
+R. Montolivo,R. Rodr\u00edguez,2
+R. Rodr\u00edguez,G. Bonaventura,2
+Suso,R. Rodr\u00edguez,2
+L. Bonucci,M. Musacchio,2
+N. Kalini\u0107,Suso,1
+F. Borini,L. Bonucci,1
+R. Montolivo,A. Romagnoli,1
+F. Borini,N. Kalini\u0107,1
+G. Bonaventura,N. Kalini\u0107,1
+A. Romagnoli,R. Rodr\u00edguez,1
+Suso,F. Kessi\u00e9,1
+G. Donnarumma,M. Musacchio,1
+F. Kessi\u00e9,G. Bonaventura,1
+G. Donnarumma,L. Bonucci,1
+R. Rodr\u00edguez,G. Donnarumma,1
+A. Romagnoli,G. Donnarumma,1
+G. Bonaventura,R. Montolivo,1
+F. Kessi\u00e9,F. Borini,1
+G. Donnarumma,R. Montolivo,1
+Suso,L. Bonucci,1
+Suso,M. Musacchio,1
+R. Rodr\u00edguez,F. Borini,1
+Suso,G. Donnarumma,1
+R. Montolivo,G. Bonaventura,1
+R. Montolivo,F. Kessi\u00e9,1
+G. Bonaventura,Suso,1
+F. Borini,R. Rodr\u00edguez,1
+R. Rodr\u00edguez,R. Montolivo,1
+G. Bonaventura,R. Rodr\u00edguez,1
+A. Romagnoli,L. Bonucci,1
+F. Borini,M. Musacchio,1
+F. Kessi\u00e9,M. Musacchio,1
+F. Borini,F. Kessi\u00e9,1

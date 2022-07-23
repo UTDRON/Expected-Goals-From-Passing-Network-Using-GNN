@@ -1,0 +1,26 @@
+Source,Target,Weight
+R. Palacio,S. Verdi,3
+R. Palacio,V. Torosidis,3
+I. M'baye,S. Verdi,2
+A. Mirante,R. Palacio,2
+D. Maietta,A. Mirante,2
+A. Mirante,M. Destro,2
+S. Verdi,A. Mirante,2
+I. M'baye,S. De Maio,1
+M. Destro,R. Palacio,1
+V. Torosidis,D. Maietta,1
+D. Maietta,I. M'baye,1
+S. Verdi,E. Pulgar,1
+V. Torosidis,R. Palacio,1
+S. De Maio,V. Torosidis,1
+V. Torosidis,A. Mirante,1
+A. Mirante,S. Verdi,1
+S. Verdi,I. M'baye,1
+S. Verdi,R. Palacio,1
+M. Destro,A. Mirante,1
+R. Palacio,D. Maietta,1
+V. Torosidis,I. M'baye,1
+E. Pulgar,R. Palacio,1
+S. Verdi,S. De Maio,1
+A. Mirante,D. Maietta,1
+S. De Maio,R. Palacio,1

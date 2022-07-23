@@ -1,0 +1,46 @@
+Source,Target,Weight
+Mario Hermoso,David L\u00f3pez,5
+David L\u00f3pez,Mario Hermoso,5
+V\u00edctor S\u00e1nchez,David L\u00f3pez,2
+David L\u00f3pez,Javi L\u00f3pez,2
+Granero,Mario Hermoso,2
+D\u00eddac Vil\u00e1,Mario Hermoso,2
+V\u00edctor S\u00e1nchez,Sergi Darder,2
+Mario Hermoso,Granero,2
+Mario Hermoso,Sergi Darder,2
+Sergi Darder,Granero,2
+Sergi Darder,D\u00eddac Vil\u00e1,1
+Sergi Darder,\u00d3scar Melendo,1
+D\u00eddac Vil\u00e1,Granero,1
+D\u00eddac Vil\u00e1,Sergi Darder,1
+Granero,Sergi Darder,1
+Sergi Darder,V\u00edctor S\u00e1nchez,1
+Mario Hermoso,V\u00edctor S\u00e1nchez,1
+Granero,Sergio Garc\u00eda,1
+David L\u00f3pez,Pau L\u00f3pez,1
+V\u00edctor S\u00e1nchez,Javi L\u00f3pez,1
+Javi L\u00f3pez,David L\u00f3pez,1
+Mario Hermoso,D\u00eddac Vil\u00e1,1
+David L\u00f3pez,\u00d3scar Melendo,1
+Sergio Garc\u00eda,Mario Hermoso,1
+Sergi Darder,Mario Hermoso,1
+Pau L\u00f3pez,Sergi Darder,1
+Javi L\u00f3pez,V\u00edctor S\u00e1nchez,1
+Gerard Moreno,D\u00eddac Vil\u00e1,1
+Sergi Darder,David L\u00f3pez,1
+\u00d3scar Melendo,D\u00eddac Vil\u00e1,1
+\u00d3scar Melendo,Gerard Moreno,1
+David L\u00f3pez,V\u00edctor S\u00e1nchez,1
+Pau L\u00f3pez,David L\u00f3pez,1
+Granero,\u00d3scar Melendo,1
+Sergio Garc\u00eda,\u00d3scar Melendo,1
+\u00d3scar Melendo,Granero,1
+D\u00eddac Vil\u00e1,Pau L\u00f3pez,1
+Javi L\u00f3pez,Granero,1
+Gerard Moreno,Sergio Garc\u00eda,1
+Gerard Moreno,Sergi Darder,1
+Granero,Gerard Moreno,1
+Granero,Javi L\u00f3pez,1
+Sergi Darder,Gerard Moreno,1
+Javi L\u00f3pez,D\u00eddac Vil\u00e1,1
+D\u00eddac Vil\u00e1,V\u00edctor S\u00e1nchez,1

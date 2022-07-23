@@ -1,0 +1,53 @@
+Source,Target,Weight
+J. Calleri,G. Pe\u00f1alba,4
+J. Calleri,Dani Castellano,4
+Ximo Navarro,G. Pe\u00f1alba,2
+G\u00e1lvez,L. Chichizola,2
+M. Lemos,G\u00e1lvez,2
+Dani Castellano,L. Chichizola,2
+L. Chichizola,Jonathan Viera,2
+Tana,Ximo Navarro,2
+L. Chichizola,J. Calleri,2
+Jonathan Viera,M. Lemos,2
+Dani Castellano,Jonathan Viera,2
+M. Lemos,Dani Castellano,2
+Jonathan Viera,Tana,2
+Dani Castellano,M. Lemos,2
+G. Pe\u00f1alba,Jonathan Viera,2
+Jairo Samperio,J. Calleri,1
+Jairo Samperio,Dani Castellano,1
+Dani Castellano,J. Calleri,1
+G. Pe\u00f1alba,G\u00e1lvez,1
+G\u00e1lvez,H. Toledo,1
+Ximo Navarro,Jonathan Viera,1
+H. Toledo,G. Pe\u00f1alba,1
+Ximo Navarro,G\u00e1lvez,1
+Jairo Samperio,Tana,1
+G\u00e1lvez,J. Calleri,1
+Dani Castellano,H. Toledo,1
+G. Pe\u00f1alba,M. Lemos,1
+L. Chichizola,H. Toledo,1
+G\u00e1lvez,Dani Castellano,1
+G. Pe\u00f1alba,L. Chichizola,1
+Dani Castellano,Ximo Navarro,1
+Tana,H. Toledo,1
+G. Pe\u00f1alba,Tana,1
+Jonathan Viera,G\u00e1lvez,1
+G. Pe\u00f1alba,J. Calleri,1
+Tana,Dani Castellano,1
+Jonathan Viera,J. Calleri,1
+Tana,J. Calleri,1
+Dani Castellano,Jairo Samperio,1
+M. Lemos,G. Pe\u00f1alba,1
+G. Pe\u00f1alba,Jairo Samperio,1
+H. Toledo,L. Chichizola,1
+Jonathan Viera,G. Pe\u00f1alba,1
+H. Toledo,Ximo Navarro,1
+L. Chichizola,Dani Castellano,1
+Dani Castellano,Tana,1
+Ximo Navarro,L. Chichizola,1
+Ximo Navarro,Tana,1
+L. Chichizola,M. Lemos,1
+H. Toledo,Dani Castellano,1
+G. Pe\u00f1alba,Ximo Navarro,1
+M. Lemos,Jairo Samperio,1
